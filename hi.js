@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jasprit Bumrah storms into top 10 with seven-place jump, Bosh climbs 21 spots to reach three in ICC rankings",
+    "desc": "India star pacer Jasprit Bumrah has made an impressive rise in the ICC rankings as he has climbed seven places in the T20I bowlers' chart to enter the top 10. As per the latest update...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-storms-into-top-10-with-seven-place-jump-bosh-climbs-21-spots-to-reach-three-in-icc-rankings-2026-02-25-1031623",
+    "time": "2026-02-25T08:41:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Never before in history! Asian pride at stake in T20 World Cup 2026 as IND, PAK and SL are in hole",
+    "desc": "The T20 World Cup 2026 can be the first-ever T20 World Cup to witness a massive unwanted record of Asian teams. The tournament has gripped the cricket fans around the world as teams are putting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/never-before-in-history-t20-world-cup-2026-stares-at-massive-asian-unwanted-record-as-ind-pak-and-sl-in-hole-2026-02-25-1031620",
+    "time": "2026-02-25T08:17:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "First-ever Test in Mackay locked in as Australia to host Bangladesh in two-match series",
+    "desc": "Cricket Australia (CA) has confirmed that Mackay will host its first-ever Test match when Australia takes on Bangladesh in a two-match series later this year. The historic fixture marks a major milestone for the Queensland...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/first-ever-test-in-mackay-locked-in-as-australia-to-host-bangladesh-in-two-match-series-2026-02-25-1031613",
+    "time": "2026-02-25T07:32:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Afghanistan appoint new coach after Jonathan Trott's exit following T20 World Cup 2026",
     "desc": "Afghanistan have appointed England-born Richard Pybus as their new head coach following the departure of Jonathan Trott. The Afghanistan Cricket Board confirmed the development on Tuesday, emphasising Pybus' illustrious achievements during his coaching days. Pybus is...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/can-pakistan-still-qualify-for-semifinals-of-t20-world-cup-2026-scenarios-confirmed-2026-02-24-1031551",
     "time": "2026-02-24T17:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Brook singlehandedly beats Pakistan with stunning century, England qualify for T20 World Cup semifinal",
-    "desc": "England defeated Pakistan today to seal their semifinal spot in the T20 World Cup, thanks to a stunning century from captain Harry Brook who led from the front. Pakistan had themselves to blame as they...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-singlehandedly-beats-pakistan-with-stunning-century-england-qualify-for-t20-world-cup-semifinal-2026-02-24-1031542",
-    "time": "2026-02-24T17:00:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 tactical changes India might make for must-win Zimbabwe clash in T20 World Cup",
-    "desc": "India are in a must-win situation in their game against Zimbabwe and that will be played at the MA Chidambaram Stadium in Chennai on Thursday (February 26). With the opening duo of Abhishek Sharma and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-zim-3-tactical-changes-india-might-make-for-must-win-zimbabwe-clash-in-t20-world-cup-2026-02-24-1031535",
-    "time": "2026-02-24T15:40:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rinku Singh leaves India squad ahead of Zimbabwe clash in Chennai, goes back home: Know reason",
-    "desc": "India cricketer Rinku Singh has left the squad and gone back home, two days ahead of their T20 World Cup clash against Zimbabwe in the Super 8 round. The match is set to take place...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-leaves-india-squad-ahead-of-zimbabwe-clash-in-chennai-skips-practice-session-know-reason-2026-02-24-1031524",
-    "time": "2026-02-24T14:08:13.000Z"
   }
 ];

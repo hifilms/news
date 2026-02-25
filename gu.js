@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "શું તમે સંજય લીલા ભણસાલીના હાર્ટ એટેક આવ્યો? ટીમે આપ્યું અપડેટ",
+    "desc": "સંજય લીલા ભણસાલીને હાર્ટ એટેકનો હુમલો આવ્યો હોવાના સમાચાર વાયુ વેગે વાયરલ થઈ રહ્યા છે. તેમની ટીમે એક નિવેદન બહાર પાડીને તેના વિશે જણાવ્યું છે. અહેવાલમાં જણાવવામાં આવ્યું છે કે, તેમને કોકીલાબેન હોસ્પિટલમાં દાખલ કરવામાં આવ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/did-you-know-that-sanjay-leela-bhansali-had-a-heart-attack-the-team-gave-an-update-466190 ",
+    "time": "2026-02-25T09:50:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દિલ્હીથી અમદાવાદ થઈને ઈઝરાયલ ગયા PM મોદી, જાણો કારણ",
+    "desc": "આજે વડા પ્રધાન નરેન્દ્ર મોદી ઈઝરાયલ માટે સવારે ઉડાન ભરી છે, PM બે દિવસના ઈઝરાયલના પ્રવાસે છે, તેઓ આજે અને આવતી કાલે એટલે કે 26 ફેબ્રુઆરી સુધી ઈઝરાયલમાં રોકાશે, ત્યારે PM મોદીએ સવાર ઉડાન ભરતાની સાથે જ તેઓ પહેલા દિલ્હીથી રાજસ્થાન ગુજરાત થઈને ગલ્ફ દેશોમાં જતા રહ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modi-went-to-israel-from-delhi-via-ahmedabad-know-the-reason-466173 ",
+    "time": "2026-02-25T08:35:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "જો ભારત સેમિફાઈનલમાં ના પહોંચે તો ટિકિટના પૈસા પાછા આપશે ICC ? ટિકિટ ખરીદતા પહેલા જાણી લો",
+    "desc": "T20 વર્લ્ડ કપ 2026ની નોકઆઉટ મેચોની ટિકિટનું વેચાણ શરૂ થઈ ગયું છે. ICCએ અમદાવાદ અને કોલકાતામાં યોજાનારી મેચો અંગે ચાહકો માટે મહત્વપૂર્ણ માહિતી શેર કરી છે. જો ભારત સેમિફાઈનલમાં પહોંચતું નથી તો ટિકિટના પૈસા પાછા મળશે કે નહીં તે અંગે પણ ICCએ સ્પષ્ટતા કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-semifinal-tickets-booking-if-india-out-icc-will-refund-466172 ",
+    "time": "2026-02-25T08:06:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પાકિસ્તાનની હારનો સૌથી મોટો વિલન કોણ ? કેપ્ટન આગાએ કોને ગણાવ્યો જવાબદાર",
+    "desc": "ઈંગ્લેન્ડ સામે પાકિસ્તાનની કારમી હાર થઈ છે. શરૂઆતમાં સારી બોલિંગ કરી છતાં પાકિસ્તાન ઈંગ્લેન્ડ પર દબાણ લાવી શક્યું નહીં. હેરી બ્રુક અને વિલ જેક્સની જોડીએ મેચને પલટી નાખી અને ઈંગ્લેન્ડ સેમિફાઈનલમાં પહોંચી ગયું. હાર બાદ પાકિસ્તાનના કેપ્ટન સલમાન અલી આગાનું દર્દ છલકાયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/pakistan-vs-england-t20-world-cup-2026-salman-agha-reaction-after-losing-match-466148 ",
+    "time": "2026-02-25T07:15:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારતીય બેટ્સમેનોની ખુલી ગઈ પોલ, આ કારણે થઈ રહ્યા છે આઉટ, પૂર્વ ખેલાડીએ કર્યો ખુલાસો",
+    "desc": "ભારત અને દક્ષિણ આફ્રિકા વચ્ચે રમાયેલી મેચમાં ટીમ ઈન્ડિયાને કારમી હારનો સામનો કરવો પડ્યો હતો. હવે પૂર્વ ખેલાડી અભિષેક નાયરે ભારતની બેટિંગ અંગે ચોંકાવનારો ખુલાસો કર્યો છે અને જણાવ્યું છે કે ભારતીય બેટ્સમેનોની સૌથી મોટી નબળાઈ શું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/abhishek-nair-shocking-revelation-indian-openers-struggle-against-off-spin-466167 ",
+    "time": "2026-02-25T07:11:53.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "બંધ પડેલા PF ખાતાના પૈસા પર સરકારનો મોટો પ્લાન, રકમ કરવામાં આવશે પરત, જાણો",
     "desc": "દેશભરમાં લાખો કર્મચારી ભવિષ્ય નિધિ (PF) ખાતાધારકો ભવિષ્યની જરૂરિયાતો માટે દર મહિને તેમના પગારનો એક ભાગ જમા કરાવે છે. જો કે, નોકરીમાં ફેરફાર, ટ્રાન્સફર અથવા અન્ય કારણોસર, ઘણા લોકો તેમના જૂના PF ખાતાઓ પર ધ્યાન આપવામાં ફેલ જાય છે. પરિણામે, આ ખાતાઓ લાંબા સમય સુધી ડિએક્ટિવ રહે છે, જેના કારણે નાની રકમ તેમાં ફસાઈ જાય છે.",
@@ -7,15 +52,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/government-big-plan-on-closed-pf-account-money-amount-will-be-refunded-know-466165 ",
     "time": "2026-02-25T06:40:55.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઓપરેશન સિંદૂર પર ટ્રમ્પનો અત્યાર સુધીનો સૌથી મોટો દાવો, પાકિસ્તાનને લાગશે મરચા, મોટી પોલ ખુલી",
-    "desc": "ડોનાલ્ડ ટ્રમ્પે ઓપરેશન સિંદૂર પર એક અત્યંત ચોંકાવનારો દાવો કર્યો છે. જો કે ટ્રમ્પના આ દાવાથી પાકિસ્તાનને ચોક્કસ પેટમાં તેલ રેડાશે. તેમણે કહ્યું કે તેમણે પાકિસ્તાનના પીએમ શહબાજ શરીફનો જીવ બચાવ્યો હતો. જો તેઓ વચ્ચે ન પડ્યા હોત તો 3 કરોડથી વધુ લોકોના મોત થઈ જાત. વધુ વિગતો માટે વાંચો અહેવાલ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/donald-trump-claim-on-operation-sindoor-said-he-saved-the-life-of-the-pakistani-pm-shehbaz-sharif-466143 ",
-    "time": "2026-02-25T06:30:38.000Z"
   },
   {
     "cat": "Sports",
@@ -27,15 +63,6 @@ const newsData_gu = [
     "time": "2026-02-25T06:19:10.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ટ્રમ્પે ભારતને આપ્યો મોટો ઝટકો, આ વસ્તુ પર લગાવ્યો 126 ટકા ટેરિફ, જાણો",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ભારતને મોટો ફટકો આપ્યો છે. અમેરિકાએ ભારતમાંથી આયાત થતી આ વસ્તુ પર 126% પ્રારંભિક ટેરિફ લગાવવાનો નિર્ણય લીધો છે. તેવી જ રીતે, ઇન્ડોનેશિયા માટે 86 ટકાથી 143 ટકા અને લાઓસ માટે 81 ટકા સુધીના ટેરિફનો પ્રસ્તાવ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/trump-gave-a-big-blow-to-india-imposed-126-percent-tariff-on-solar-pannel-know-466138 ",
-    "time": "2026-02-25T06:07:40.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રણબીર કપૂર-સાંઈ પલ્લવીની ફિલ્મ રામાયણનું યોજાયું ટેસ્ટ સ્ક્રીનિંગ, જાણો લોકોને કેવી લાગી નિતેશ તિવારીની ફિલ્મ?",
     "desc": "નિતેશ તિવારીની ફિલ્મ રામાયણને લઈને છેલ્લા ઘણા સમયથી બઝ છે. લોકો આ ફિલ્મની આતુરતાથી રાહ જોઈ રહ્યા છે. આ ફિલ્મને લઈને એક મહત્વપૂર્ણ ખબર સામે આવી છે. જેના વિશે જાણીને ફિલ્મ જોવાની આતુરતા અનેકગણી વધી શકે છે.",
@@ -45,13 +72,13 @@ const newsData_gu = [
     "time": "2026-02-25T05:49:10.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "પાકિસ્તાનની હારનો સૌથી મોટો વિલન કોણ ? કેપ્ટન આગાએ કોને ગણાવ્યો જવાબદાર",
-    "desc": "ઈંગ્લેન્ડ સામે પાકિસ્તાનની કારમી હાર થઈ છે. શરૂઆતમાં સારી બોલિંગ કરી છતાં પાકિસ્તાન ઈંગ્લેન્ડ પર દબાણ લાવી શક્યું નહીં. હેરી બ્રુક અને વિલ જેક્સની જોડીએ મેચને પલટી નાખી અને ઓસ્ટ્રેલિયા સેમિફાઈનલમાં પહોંચી ગયું. હાર બાદ પાકિસ્તાનના કેપ્ટન સલમાન અલી આગાનું દર્દ છલકાયું છે.",
+    "cat": "World",
+    "title": "ઓપરેશન સિંદૂર પર ટ્રમ્પનો અત્યાર સુધીનો સૌથી મોટો દાવો, પાકિસ્તાનને લાગશે મરચા, મોટી પોલ ખુલી",
+    "desc": "ડોનાલ્ડ ટ્રમ્પે ઓપરેશન સિંદૂર પર એક અત્યંત ચોંકાવનારો દાવો કર્યો છે. જો કે ટ્રમ્પના આ દાવાથી પાકિસ્તાનને ચોક્કસ પેટમાં તેલ રેડાશે. તેમણે કહ્યું કે તેમણે પાકિસ્તાનના પીએમ શહબાજ શરીફનો જીવ બચાવ્યો હતો. જો તેઓ વચ્ચે ન પડ્યા હોત તો 3 કરોડથી વધુ લોકોના મોત થઈ જાત. વધુ વિગતો માટે વાંચો અહેવાલ.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/pakistan-vs-england-t20-world-cup-2026-salman-agha-reaction-after-losing-match-466148 ",
-    "time": "2026-02-25T05:30:17.000Z"
+    "url": " http://zeenews.india.com/gujarati/world/donald-trump-claim-on-operation-sindoor-said-he-saved-the-life-of-the-pakistani-pm-shehbaz-sharif-466143 ",
+    "time": "2026-02-25T04:50:04.000Z"
   },
   {
     "cat": "Politics",
@@ -106,15 +133,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/cricket-queens-explosive-indian-batter-shafali-verma-inspiring-journey-466081 ",
     "time": "2026-02-24T10:51:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "30 વર્ષમાં ભેગા કરવા છે ₹1.5 કરોડ? જાણો દર મહિને કેટલી SIP જરૂરી",
-    "desc": "શું તમે પણ કરોડપતિ બની નિવૃત્ત થવા ઈચ્છો છો? માત્ર 4500 ની સામાન્ય બચત તમને ₹1.5 કરોડના માલિક બનાવી શકે છે. આ કોઈ જાદુ નહીં, પરંતુ કમ્પાઉન્ડિંગની તાકાત છે. જાણો કઈ રીતે 30 વર્ષનું ધૈર્ય અને યોગ્ય રોકાણ તમને આર્થિકરૂપે આઝાદ બનાવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/retirement-fund-of-15-crore-in-30-years-know-how-much-sip-to-make-and-when-to-start-466082 ",
-    "time": "2026-02-24T10:46:04.000Z"
   },
   {
     "cat": "Tech",
@@ -207,15 +225,6 @@ const newsData_gu = [
     "time": "2026-02-24T06:57:02.000Z"
   },
   {
-    "cat": "Business",
-    "title": "25 વર્ષની હોમ લોન 10 વર્ષમાં કેવી રીતે ચૂકવવી? આ સ્માર્ટ &amp;#039;પ્રી-પેમેન્ટ&amp;#039; ટ્રિક્સ તમારા લાખો રૂપિયા બચાવશે",
-    "desc": "લાંબા સમય માટે હોમ લોન લેવી બરાબર નથી કારણ કે તેમાં તમારે વધુ વ્યાજ ચૂકવવું પડે છે. કેટલીક સ્માર્ટ ટિપ્સની મદદથી તમે તમારી 25 વર્ષની હોમ લોન 10 વર્ષમાં પૂરી કરી શકો છો. પ્રીપેમેન્ટ, એક્સ્ટ્રા ઈએમઆી અને વાર્ષિક સ્ટેપ-અપ ઈએમઆઈ ખૂબ વ્યાજ બચાવે છે અને લોનને ઓછા સમયમાં ખતમ કરવામાં મદદ કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/how-to-repay-home-loan-faster-prepayment-tricks-466053 ",
-    "time": "2026-02-24T06:50:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "વેસ્ટ ઈન્ડિઝની જીતે બગાડ્યો ભારતનો ખેલ, સેમિફાઇનલનો રસ્તો બન્યો વધુ મુશ્કેલ",
     "desc": "સુપર-8માં વેસ્ટ ઈન્ડિઝે ઝિમ્બાબ્વેને 107 રનથી હરાવતા ગ્રુપ-1નું સમીકરણ બદલાઈ ગયું છે. વેસ્ટ ઈન્ડિઝ હવે પોઈન્ટ ટેબલમાં ટોપ પર છે, તો ભારત ત્રીજા સ્થાને છે. જ્યારે દક્ષિણ આફ્રિકા હવે બીજા સ્થાને પહોંચી ગયું છે. ત્યારે વેસ્ટ ઈન્ડિઝની જીતથી ભારતનો સેમિફાઇનલનો રસ્તો વધુ મુશ્કેલ બન્યો છે.",
@@ -223,15 +232,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/west-indies-win-over-zimbabwe-team-india-semi-final-scenario-t20-world-cup-2026-466039 ",
     "time": "2026-02-24T05:40:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "વળી પાછા આજે સોના-ચાંદી સસ્તા થયા, હાઈથી સોનું 20000 અને ચાંદી 1.54 લાખ સસ્તા, જાણો આજનો લેટેસ્ટ રેટ",
-    "desc": "સોના અને ચાંદીમાં છેલ્લા ઘણા સમયથી ભયંકર ઉતાર ચડાવ જોવા મળી રહ્યા છે. આજે વાયદા બજારમાં ભાવ લાલ નિશાન સાથે ખુલ્યા. આમ છતાં ભાવ હજું પણ સામાન્ય માણસની પહોંચ બહાર લાગી રહ્યા છે. નાણામંત્રીએ સોના ચાંદીના ભાવમાં વધારા પાછળ એક મોટું કારણ ગણાવ્યું. ત્યારે આજે ભાવમાં શું ફેરફાર છે અને ભાવ કેમ વધી રહ્યા છે એ કારણ પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-silver-rate-big-breaking-became-cheaper-again-today-silver-1-54-lakh-cheaper-from-all-time-high-know-latest-rate-466025 ",
-    "time": "2026-02-24T03:57:03.000Z"
   },
   {
     "cat": "Politics",
@@ -270,15 +270,6 @@ const newsData_gu = [
     "time": "2026-02-23T13:44:55.000Z"
   },
   {
-    "cat": "Business",
-    "title": "કેમ વધી રહ્યા છે સોનાના ભાવ ? નાણામંત્રી નિર્મલા સીતારમણે જણાવ્યું કારણ, જાણો",
-    "desc": "સોમવારે, મલ્ટી કોમોડિટી એક્સચેન્જ (MCX) પર 24 કેરેટ સોનું 1,60,049 રૂપિયા પ્રતિ 10 ગ્રામ પર ખુલ્યું હતું. તે તેના પાછલા બંધ કરતા 2.02% વધ્યું હતું. દિવસના ટ્રેડિંગ દરમિયાન, ભાવ 1,59,239 રૂપિયા પ્રતિ 10 ગ્રામ પર પહોંચી ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/why-are-gold-prices-increasing-finance-minister-nirmala-sitharaman-explained-the-reason-know-465973 ",
-    "time": "2026-02-23T12:59:21.000Z"
-  },
-  {
     "cat": "World",
     "title": "ચમત્કાર કે આસ્થા? 800 વર્ષ જૂના સંતના અવશેષો જોઈ શ્રદ્ધાળુઓ થયા ભાવુક, જાણો શું છે રહસ્ય",
     "desc": "800 વર્ષ પહેલાની વાત છે. એક સંત હતા, જેમના ચમત્કારો વિશે સદીઓ બાદ પણ વાત કરવામાં આવે છે, પરંતુ તેમનો મૃતદેહ 600 વર્ષ સુધી મળ્યો ન હતો. કોઈને ખબર નહોતી કે, તેમને ક્યાં દફનાવવામાં આવ્યા છે. એક દિવસ એક લોખંડનું બોક્સ મળ્યું. હવે પહેલી વાર જનતા આખરે તે સંતના અવશેષો જોઈ શકે છે.",
@@ -286,15 +277,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/st-francis-of-assisi-mysterious-remains-unveiled-after-800-years-465971 ",
     "time": "2026-02-23T12:09:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મા પગાર પંચ પહેલા કર્મચારીઓને ભેટ, EPFO​​એ પેન્શન સુવિધાને લઈ કર્યો મોટો નિર્ણય, જાણો",
-    "desc": "8મા પગાર પંચની રાહ જોતા કર્મચારીઓ માટે સારા સમાચાર છે, EPFOએ કર્મચારીઓને પહેલા ભેટ આપી છે, આ જૂની પેન્શન યોજના ફરી શરૂ કરી અનેક લોકોને મદદ કરી છે. ત્યારે એ પણ મહત્વનું છે કે દરેક વ્યક્તિ આ યોજનાનો લાભ લઈ શકશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/a-gift-to-employees-before-the-8th-pay-commission-epfo-has-taken-a-big-decision-regarding-pension-facilities-know-465969 ",
-    "time": "2026-02-23T12:05:18.000Z"
   },
   {
     "cat": "Sports",
@@ -396,33 +378,6 @@ const newsData_gu = [
     "time": "2026-02-23T06:08:39.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "હારનો સૌથી મોટો ગુનેગાર કોણ ? કેપ્ટન સૂર્યાએ કોના પર ફોડ્યું હારનું ઠીકરું",
-    "desc": "ટી20 વર્લ્ડ કપ 2026ના સુપર-8 મુકાબલામાં ભારતની સાઉથ આફ્રિકા સામે કારમી હાર થઈ છે. આ મેચ અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં રમાઈ હતી. હાર બાદ કેપ્ટન સૂર્યકુમાર યાદવનું દર્દ છલકાયું છે, ત્યારે આ લેખમાં જાણીશું કે, કેપ્ટને ભારતની હાર માટે કોને જવાબદાર ગણાવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/captain-suryakumar-yadav-reaction-after-defeat-to-south-africa-in-t20-world-cup-2026-465917 ",
-    "time": "2026-02-23T05:38:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કોચ-કેપ્ટનનો એક નિર્ણય ટીમ ઈન્ડિયાને ભારે પડ્યો, આફ્રીકાના કાળ સમા ખેલાડીને જ ના રમાડ્યો!",
-    "desc": "અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમ ખાતે રવિવારે ટી20 વર્લ્ડ કપની સુપર 8 મેચોમાંની ભારત અને દક્ષિણ આફ્રીકા વચ્ચેની મેચ રમાઈ જેમાં દક્ષિણ આફ્રીકાએ ઘર આંગણે ટીમ ઈન્ડિયાને એકદમ સરળતાથી દબદબાભેર હારનો સામનો કરાવ્યો. આ હારમાં કેપ્ટન અને કોચનો એક નિર્ણય ભારે પડી ગયો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-axar-patel-was-not-fielded-and-this-decision-was-a-heavy-blow-to-team-india-465891 ",
-    "time": "2026-02-23T04:02:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ટ્રમ્પના કારણે સોના-ચાંદીમાં હાહાકાર! આજે બજાર ખુલતા જ ભાવમાં જોરદાર ઉછાળો, જાણો લેટેસ્ટ રેટ",
-    "desc": "અમેરિકાની કોર્ટે ટ્રમ્પ વિરુદ્ધ ચુકાદો આપ્યો તેના કારણે અમેરિકી રાષ્ટ્રપતિ એવા બગડ્યા કે તેમણે તો ઉથલપાથલ મચાવવા માંડી જેની અસર સોના અને ચાંદીના ભાવ ઉપર પણ જોવા મળી રહી છે. કારણ કે આજે વાયદા બજાર ખુલતાની સાથે જ સોના અને ચાંદીના ભાવમાં જોરદાર ઉછાળો જોવા મળ્યો. જાણો લેટેસ્ટ સ્થિતિ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-surge-on-mcx-are-prices-rising-because-of-trump-new-decisions-know-the-latest-rates-465894 ",
-    "time": "2026-02-23T03:51:06.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રશ્મિકા અને વિજય દેવરકોંડાએ લગ્ન કર્યા કંફર્મ, આ રીતે શરુ થઈ હતી વિરોશની લવ સ્ટોરી",
     "desc": "રશ્મિકા મંદાના અને વિજય દેવરકોંડાના લગ્નની ચર્યાઓ ઘણા સમયથી ચાલી રહી હતી, હવે આ ખબરની પુષ્ટિ કરી દેવામાં આવી છે. રશ્મિકા મંદાના અને વિજય દેવરકોંડાએ સોશિયલ મીડિયા પર લગ્નની વાત પર મહોર મારી દીધી છે. ત્યારે ચાલો જાણીએ રશ્મિકા મંદાના અને વિજય દેવરકોંડાની લવ સ્ટોરી કેવી રીતે અને ક્યારે શરુ થઈ.",
@@ -439,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/another-attempt-to-attack-trump-attacker-enters-resort-with-shotgun-shot-dead-by-secret-service-465866 ",
     "time": "2026-02-22T15:37:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ભારત રશિયાને બદલે આ દેશ પાસેથી મોટી માત્રામાં ખરીદી રહ્યું છે ક્રૂડ ઓઇલ, ત્રીજા નંબરે પહોંચ્યું ઇરાક, જાણો",
-    "desc": "અમેરિકાના પ્રતિબંધ બાદ ભારતે રશિયા પાસેથી તેલ ખરીદી કરવાનું ઓછું કરી દીધુ હતું, જો કે રશિયા સાથે ઘટાડો કરીને ભારતે આ દેશ સાથે ખરીદીમાં વધારો કર્યો છે. ભારતને કોઈ એવા દેશની જરૂર હતી, જે તેની બજાર જરૂરીયાતો માટે મોટા પાયે તેલ આપે અને ભારત તે તરફ આગળ વધી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/india-is-buying-large-quantities-of-crude-oil-from-this-country-instead-of-russia-iraq-has-reached-the-third-position-know-465848 ",
-    "time": "2026-02-22T14:07:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -504,15 +450,6 @@ const newsData_gu = [
     "time": "2026-02-22T09:31:06.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ચાંદી 1.67 લાખ અને સોનું 36 હજાર રૂપિયા સસ્તું, ઓલ-ટાઇમ હાઈ લેવલને સ્પર્શીને કિંમતોમાં મોટો કડાકો",
-    "desc": "નવા વર્ષની શરૂઆતમાં સોના-ચાંદીના ભાવમાં અચાનક તેજી જોવા મળી હતી અને બંને કિંમતી ધાતુઓ પોતાની અત્યાર સુધીના સર્વોચ્ચ સ્તર (All-time high) પર પહોંચી ગઈ હતી. જોકે, હવે તે ઉચ્ચ સ્તરોથી ચાંદી 1.67 લાખ રૂપિયા સસ્તી થઈ ગઈ છે અને સોનાના ભાવમાં પણ પ્રતિ 10 ગ્રામ આશરે 36 હજાર રૂપિયાનો ઘટાડો નોંધાયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-silver-price-silver-one-lakh-67-thousand-gold-36-thousand-rupees-cheaper-prices-fell-after-touching-high-level-prices-465814 ",
-    "time": "2026-02-22T07:12:56.000Z"
-  },
-  {
     "cat": "World",
     "title": "સુપ્રીમ કોર્ટના ઝટકા બાદ ટ્રમ્પ એક્શનમાં: ગ્લોબલ ટેરિફ વધારીને 15% કર્યો, 24 ફેબ્રુઆરીથી નવો દર લાગુ",
     "desc": "અમેરિકાની SCના ઝટકા બાદ એક્શનમાં ટ્રમ્પ. ટેરિફ અંગે અમેરિકન રાષ્ટ્રપતિની મોટી જાહેરાત. ડોનાલ્ડ ટ્રમ્પે ગ્લોબલ ટેરિફમાં કર્યો વધારો. ગ્લોબલ ટેરિફ 10%થી વધારી 15% કરાયો. આગામી 24 ફેબ્રુઆરીથી લાગુ થશે 15% ટેરિફ. ગઈકાલે અમેરિકી સુપ્રીમ કોર્ટે રદ કર્યા હતા ટેરિફ. ટ્રમ્પે સુપ્રીમ કોર્ટના નિર્ણયને ગણાવ્યો અયોગ્ય. આગામી મહિનાઓમાં હજુ પણ ટેરિફ વધારાશે",
@@ -565,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/doctor-mohit-requested-for-arya-and-anu-marriage-siddhi-maa-prediction-surprised-him-465761 ",
     "time": "2026-02-21T12:43:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ચપટી વગાડતામાં ચેક કરી શકો છો PF બેલેન્સ, આ રીતે ડાઉનલોડ કરો EPFO પાસબુક",
-    "desc": "હવે PF બેલેન્સ ચેક કરવાનું પહેલા કરતા વધુ સરળ બની ગયું છે. આજકાલ, તમારે તમારી ડિપોઝિટ ચેક કરવા માટે ઓફિસમાં જવાની જરૂર નથી. તમે ફક્ત એક મિસ્ડ કોલ અથવા એસએમએસ દ્વારા તમારા ઘરેથી આરામથી તમારું બેલેન્સ ચેક કરી શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/epfo-update-now-check-pf-balance-and-download-passbook-from-home-465760 ",
-    "time": "2026-02-21T12:22:23.000Z"
   },
   {
     "cat": "Tech",
