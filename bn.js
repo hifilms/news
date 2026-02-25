@@ -1,5 +1,68 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "সর্বোচ্চ পারিশ্রমিক পান ভারতীয় 'এই' অভিনেত্রী, একটি ছবির জন্য নিয়েছেন ১০ কোটি! চিনতে পারছেন?",
+    "desc": "দক্ষিণ থেকে উত্তর, এই সৌন্দর্য এক অসাধারণ শক্তি। মাত্র কয়েক বছরের মধ্যেই, কর্ণাটকের একটি ছোট শহরের এই মেয়েটি পুরো দেশকে মুগ্ধ করেছে। মাত্র লক্ষ টাকা দিয়ে তার ক্যারিয়ার শুরু করলেও, এখন তিনি একটি ছবির জন্য কোটি কোটি টাকা নেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Rasmika-Mandana-2026-02-eec3aa4728fd4e502f6730958db43a06-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/highest-paid-indian-actress-popular-from-south-to-north-she-charges-10-crores-for-a-single-film-rashmika-mandannas-education-career-sdg-2557601.html",
+    "time": "2026-02-25T12:43:24.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "পাঁচ বছর ধরে হাইকোর্টের বিচারপতি! কে সেই ব্যক্তি জানেন? শেষমেশ পরিচয় সামনে আসতেই গোটা বিশ্বে মুখ পুড়ল পাকিস্তানের",
+    "desc": "এবার বিচার ব্যবস্থায় কেলেঙ্কারি সামনে এল পাকিস্তানে! পাঁচ বছর ধরে হাইকোর্টের বিচারপতির দায়ভার সামলাচ্ছিলেন। শেষে দেখা গেল তাঁর ডিগ্রিই ভুয়ো! এমনই এক অবিশ্বাস্য কেলেঙ্কারি সামনে এসেছে যা ইতিমধ্যেই পাকিস্তানের বিচার ব্যবস্থাকেই প্রশ্নের মুখে ফেলে দিয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Pakistan-Judge-2026-02-43242cc2ea09e5823732f394aa4033ab-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/islamabad-high-court-removes-judge-over-fake-law-degree-116-page-verdict-exposes-fraud-smc-2557521.html",
+    "time": "2026-02-25T11:50:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ফিটনেস ইনফ্লুয়েন্সার, মিস্টার ইন্ডিয়া খেতাবধারীও ! জেনে নিন মাত্র ৩৭ বছরে প্রয়াত কে এই ময়াঙ্ক পওয়ার",
+    "desc": "স্প্লিটসভিলা ৭-এ তাঁর রিয়েলিটি শো যাত্রার মাধ্যমে তিনি অনেকের নজর কেড়েছিলেন। তাছাড়া, তিনি একজন ফিটনেস ইনফ্লুয়েন্সার হিসেবেও পরিচিত ছিলেন যিনি প্রায়শই সোশ্যাল মিডিয়ায় ফ্যানদের সঙ্গে নিজের যাত্রা ভাগ করে নিতেন। তাঁর অকালমৃত্যুর সঠিক কারণ এখনও নিশ্চিত করা হয়নি। ময়াঙ্কের মৃত্যুর খবরটি একটি ইনস্টাগ্রাম পেজ থেকে প্রকাশিত একটি অফিশিাল বিবৃতির পর প্রকাশিত হয়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Who-Is-Mayank-Pawar-2026-02-8804e5cfc60f67119f5de3f38e8b4336-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/whos-mayank-pawar-splitsvilla-7-fame-and-fitness-coach-who-passes-away-at-37-aa-2557265.html",
+    "time": "2026-02-25T11:40:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ধর্ষণ মামলায় জামিন পাওয়ার পরও বেপরোয়া নোবেল, 'আবারও ভুল হতে পারে' চমকে দিয়ে বললেন গায়ক",
+    "desc": "এই ঘটনার পর নোবেলের কী কোনও অনুশোচনা হয়েছে? তিনি একেবারেই বেপরোয়া৷ অনুশোচনা তো দূরের কথা, নোবেল স্পষ্ট জানিয়ে দেন যে মানুষ মাত্রই ভুল হয়৷ এমনকী আগামিদিনে তাঁর এমন ভুল হতে পারে বলেও তিনি জানিয়েছেন৷ তবে তিনি তাঁর ভক্ত এবং শ্রোতাদের থেকে ক্ষমা চেয়ে নেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Nobel-2026-02-a628c63339c1c607645a51feef8c88e7-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/nobel-controversy-for-harassing-woman-says-he-can-again-do-this-pbd-2557409.html",
+    "time": "2026-02-25T11:34:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সুন্দরবনের নোনা মাটিতেই সূর্যমুখী চাষে বাম্পার ফলন! মোটা লাভ!",
+    "desc": "সুন্দরবনের মাটিতে নোনা জলে প্রভাবে অনেক সময় চাষবাসের ক্ষতির সম্মুখীন হতে হয়। ধান চাষের পরবর্তী সময়ে যদি এই চাষ করেন তাহলে জমিতে নোনা ভাব কাটিয়ে ও জৈব সারের প্রয়োজনীয়তা বৃদ্ধি করে। তাই অল্প খরচে অধিক ফলন ফলিয়ে অভিনব পদ্ধতিতে চাষ করে লাভবান হতে পারে কৃষকরা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Sunflower-2026-02-e1b2ab2c15b5f58ce3cc6f36c890f20e-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/bumper-sunflower-farming-in-the-soil-of-sundarbans-farmers-earning-big-profits-l18-dc-2557461.html",
+    "time": "2026-02-25T11:20:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "অপরাধের অনুশোচনা তো দূরঅস্ত! 'আরেকবারও হতে পারে', জামিন পেয়ে বেনজির অসভ্যতা নোবেলের...",
+    "desc": "এক মহিলাকে বিয়ের প্রলোভন দেখিয়ে বাড়িতে আটকে রেখে যৌন নির্যাতন চালায় বাংলাদেশের বিতর্কিত গায়ক মাইনুল আহসান নোবেল। এখানেই শেষ নয়, তাঁর আপত্তিকর ছবি ও ভিডিয়ো ছড়িয়ে দেওয়ার হুমকিও দেয়। এই ঘটনায় গ্রেফতার হন গায়ক। তবে জামিনে ছাড়া পেয়ে অনুশোচনা তো দূরঅস্ত! আদালতে গান ধরলেন নোবেল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/singer-noble-gets-bail-sexual-harassment-case-sing-song-court_642742.html ",
+    "time": "2026-02-25T11:19:25.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "মোবাইল ডায়াল প্যাডে ‘*’ আর ‘#’ চিহ্ন কেন থাকে? ৯৯% মানুষই জানেন না আসল কারণ!",
+    "desc": "এই সময়ে মোবাইল ফোন ছাড়া জীবন কল্পনা করাই কঠিন। এক ঘণ্টা ফোন পাশে না থাকলেই যেন মনে হয় দুনিয়াই থেমে গেছে! কল করতে হোক বা রিসিভ করতে—ডায়াল প্যাড খুলতেই হয়। সেখানে ০ থেকে ৯ পর্যন্ত সংখ্যার পাশাপাশি ‘*’ (স্টার) আর ‘#’ (হ্যাশ) বোতামও থাকে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1772016180_TECH-2026-01-0170eb481e5065207a623e1193593c48-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/why-are-there-star-and-hash-symbols-on-a-mobile-phones-dial-pad-99-percent-of-people-dont-know-smc-2557437.html",
+    "time": "2026-02-25T11:03:04.000Z"
+  },
+  {
     "cat": "Business",
     "title": "সুন্দরবনের নোনা মাটিতেই সূর্যমুখী চাষে বাম্পার ফলন! মোটা লাভের মুখ দেখতে চান আপনিও? রইল 'সিক্রেট টিপস'",
     "desc": "সুন্দরবনের নোনা জমিতেই এখন সোনার ফসল! হেক্টর হেক্টর জমিতে ফুটে থাকা সূর্যমুখী চাষিদের জীবনে নতুন আশার আলো নিয়ে এসেছে। ধান চাষের পর পড়ে থাকা নোনা জমিতে কীভাবে বিজ্ঞানসম্মত উপায়ে এই চাষ হচ্ছে এবং বাম্পার ফলন পাওয়ার উপায় কী? দেখে নিন বিস্তারিত।",
@@ -151,15 +214,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/jharkhand-couple-killed-in-air-ambulance-crash-had-taken-rs-8-lakh-loan-for-plane_642518.html ",
     "time": "2026-02-24T09:11:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'আবহাওয়া খারাপ, পথ বদলাতে চাই...', শেষ মেসেজের পরই... মর্মান্তিক এয়ার অ্যাম্বুল্যান্স দুর্ঘটনায় সামনে এল ভয়াবহ তথ্য",
-    "desc": "সোমবার রাতে রাঁচি থেকে দিল্লি যাওয়ার পথে ঝাড়খণ্ডের চাতরা জেলায় একটি এয়ার অ্যাম্বুলেন্স ভেঙে পড়ে। বিমানে থাকা ৭ জন আরোহীরই মৃত্যু হয়েছে। রাঁচির বিরসা মুন্ডা বিমানবন্দর থেকে ওড়ার কিছুক্ষণ পরেই চাতরার সিমারিয়া সংলগ্ন গভীর জঙ্গলে বিমানটি আছড়ে পড়ে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/weather-is-bad-want-to-change-route-moments-after-final-message-shocking-details-emerge-in-tragic-air-ambulance-accident_642480.html ",
-    "time": "2026-02-24T05:10:22.000Z"
   },
   {
     "cat": "World",
@@ -666,15 +720,6 @@ const newsData_bn = [
     "time": "2026-02-18T17:25:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "শিকড়হীন মানুষের লড়াই, দেশভাগের ক্ষত নিয়ে বড়পর্দায় কিঞ্জল-লোকনাথ...",
-    "desc": "১৯৬০-এর দশকের উত্তাল পূর্ব পাকিস্তান এবং ভিটেমাটি হারানো মানুষের যন্ত্রণার এক মহাকাব্যিক আখ্যান নিয়ে হাজির হচ্ছে নতুন বাংলা ছবি 'পরবাসী'। সম্প্রতি মুক্তি পেল এই ছবির ট্রেলার, যা দর্শকদের মনে নতুন করে দেশভাগের ক্ষত আর অস্তিত্বের লড়াইয়ের প্রশ্ন তুলে দিয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/porobasi-bengali-movie-trailer-release-date-refugee-crisis-story_641846.html ",
-    "time": "2026-02-18T16:11:23.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "পশ্চিমবঙ্গে পাঁচ সাংসদের মেয়াদ শেষ, ১০ রাজ্যের ৩৭ রাজ্যসভা আসনে নির্বাচন কবে? ভোটের নির্ঘণ্ট ঘোষণা",
     "desc": "রাজ্যসভার ভোট নিয়ে বুধবার সকালে বিজ্ঞপ্তি দিয়েছে কমিশন। বিজ্ঞপ্তি অনুযায়ী, ২৬ ফেব্রুয়ারি রাজ্যসভার ৩৭টি আসনে নির্বাচনের জন্য ভোটের বিজ্ঞপ্তি প্রকাশ করা হবে। মনোনয়নপত্র জমা দেওয়ার শেষ দিন আগামী ৫ মার্চ। মনোনয়নপত্র যাচাই হবে ৬ মার্চ। মনোনয়নপত্র প্রত্যাহারের শেষ দিন ৯ মার্চ।",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/technology/samsung-galaxy-f70e-launched-in-india-featuring-mediatek-dimensity-6300-chipset-50mp-camera-6000mah-battery-know-price-tc-ac-aa-2534126.html",
     "time": "2026-02-16T13:53:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "শাহজাহানপুর গ্রামে কোটি কোটি টাকার সম্পত্তি রাজপালের, তাও কেন ঋণের ফাঁদে আইনের জালে? উঠছে 'বড়' প্রশ্ন",
-    "desc": "৯ কোটি টাকার চেক বাউন্স মামলায় বড় স্বস্তি পেলেন অভিনেতা রাজপাল যাদব। আদালতের নির্দেশ মেনে মোট আড়াই কোটি টাকা জমা পড়তেই রাজপাল যাদবের জামিন মঞ্জুর হল সোমবার। দিল্লি হাইকোর্টে জামিন পেলেন বলিউডের জনপ্রিয় অভিনেতা। তবে গ্রামে তাঁর নাকি প্রচুর সম্পত্তি, তারপরও এমন আইনি জটিলতায় কেন পড়লেন অভিনেতা, উঠছে প্রশ্ন",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/raj-2026-02-2ad514ec132dd2185a6600947ace40ce-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/shahjahanpur-5-crore-debt-and-crores-of-assets-actor-rajpal-yadav-faces-moral-questions-al18-pbd-2543427.html",
-    "time": "2026-02-16T13:48:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "\"অভিষেকদাকে ধন্যবাদ, দুবাই থেকে ফিরে দেখা করব\", পাসপোর্ট পেয়ে ইন্ডিয়ান আইডলের মঞ্চে ফিরলেন কাঁথির মেয়ে অঙ্কিতা",
-    "desc": "পাসপোর্ট না থাকায় সমস্যায় পড়ে গিয়েছিল ইন্ডিয়ান আইডলের প্রতিযোগী অঙ্কিতা প্রধান৷ ৩দিনের মধ্য অবশেষে পাসপোর্ট পেল সে এবং তার মা৷ অভিষেক বন্দ্যোপাধ্যায়ের সাহায্য এই কাজ সম্ভব হল৷ তৃণমূলের সর্বভারতীয় সাধারণ সম্পাদককে ধন্যবাদ জানল কাঁথির মেয়ে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-16-at-5.57.39-PM-2026-02-bac692efe9c3a380a36e3dac5a1c7f6b-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/indian-idol-participant-ankita-pradhan-thanked-tmc-mp-abhisken-banerjee-for-helping-them-to-get-passport-early-pbd-2543457.html",
-    "time": "2026-02-16T13:30:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ব্যাঙ্কে শীঘ্রই শুরু হচ্ছে 5-Day Week? কী কী বদল আসবে পরিষেবায়, কী ভাবে কাজ হবে, জানাচ্ছে ইউনিয়ন",
-    "desc": "রাষ্ট্রায়ত্ত ব্যাঙ্ককর্মীদের ইউনিয়নগুলি দীর্ঘদিন ধরে সপ্তাহে ৫ দিনের কর্মদিবসের দাবি জানিয়ে আসছে৷ সেক্ষেত্রে, প্রত্যেক সপ্তাহে শনিবারও রবিবার দু’দিন বন্ধ থাকবে ব্যাঙ্ক পরিষেবা৷ তবে তাঁদের দাবি, এই দাবি মঞ্জুর হলেও পরিষেবায় বদল এনে সবকিছু অপরিবর্তিত রাখা হবে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1771242164_1771239622_1-Bank-Employees-Push-for-5-Day-Week-Government-Yet-to-Take-Final-Call-6-Copy-2026-02-e6c86f8f290048bcba3eba11bace335e-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/bank-service-5-day-work-week-soon-for-bank-staff-how-your-branch-visits-and-services-may-change-sta-2543357.html",
-    "time": "2026-02-16T12:12:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "মাত্র ৪ বছর বয়সেই জাতীয় চলচ্চিত্র পুরস্কার, বড় হতে না হতেই...! এখন কোথায় আছেন বিখ্যাত অভিনেত্রী? জানলে আঁতকে উঠবেন",
-    "desc": "ভারতীয় চলচ্চিত্র জগতে, খুব কম শিশুশিল্পীই বেবি শামলীর মতো অবিস্মরণীয় চিহ্ন রেখে গেছেন। ১৯৯০ সালে, মাত্র চার বছর বয়সে, তিনি মণি রত্নমের অঞ্জলি ছবিতে মানসিকভাবে প্রতিবন্ধী শিশুর চরিত্রে অভিনয় করে দর্শকদের অবাক করে দিয়েছিলেন। এই অভিনয় এতটাই শক্তিশালী ছিল যে এটি তাকে সেরা শিশু শিল্পীর জাতীয় চলচ্চিত্র পুরস্কার এনে দেয়, যা তাকে পুরষ্কারের ইতিহাসে সবচেয়ে কম বয়সী প্রাপকদের একজন করে তোলে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Riya-Das-1200900-2026-02-16T173119.099-2026-02-5436dfb44bcd0aead4b69c562b3e8e20-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/this-actress-won-the-national-film-award-at-the-age-of-four-for-a-mani-ratnam-movie-find-out-where-is-she-today-rds-2543341.html",
-    "time": "2026-02-16T12:02:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "লক্ষ্মীর ভাণ্ডার থেকে  যুবসাথী...! ফর্ম ফিলাপ 'ক্যাম্পে' 'ক্যাম্পে'! কী কী নথি লাগছে? আপনি 'এলিজেবল' তো? দেখে নিন কারা পাবেন 'সুবিধা'!",
-    "desc": "লক্ষ্মীর ভাণ্ডার প্রকল্পে মাসে মাসে সাধারণ প্রাপকদের জন্য ১৫০০ টাকা এবং তফসিলি তালিকাভুক্তরা পাবেন ১৭০০ টাকা। যুব সাথী প্রকল্পে ১৫০০ টাকা করে মিলবে বেকার যুবকদের। মাধ্যমিক পাশ করেই সুযোগ! কিন্তু কোন প্রকল্পে কী কী নথি লাগবে? কারা এই সব প্রকল্পের টাকা পেতে 'যোগ্য', এই নিয়ে মানুষের মধ্যে রয়েছে নানা বিভ্রান্তি। চলুন জেনে নেওয়া যাক!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/lakshmir-Yuba-sathi-2026-02-83d1e71a246e2aaaaf41498e22fa5aee-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/kolkata/lakshmir-bhandar-yuba-sathi-sceme-what-documents-you-need-to-provide-in-new-rule-know-who-are-allegeable-for-which-scheme-know-west-bengal-govt-scheme-money-detail-sanj-2542436.html",
-    "time": "2026-02-16T07:03:25.000Z"
   }
 ];

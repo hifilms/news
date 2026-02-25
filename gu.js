@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "19 વર્ષના ઈતિહાસમાં પહેલીવાર થયું આવું... આ 4 બેટ્સમેનોએ મચાવી તબાહી, બની ગયો વર્લ્ડ કપનો મહારેકોર્ડ",
+    "desc": "ભારત અને શ્રીલંકા દ્વારા આયોજિત 2026ના T20 વર્લ્ડ કપમાં એક અદ્ભુત રેકોર્ડ બન્યો છે. આ કીર્તિમાન સદીઓના કારણે શક્ય બની શક્યો છે. આ વખતે ચાર બેટ્સમેનોએ સદી ફટકારી, જેનાથી 19 વર્ષનો ઇતિહાસમાં બદલાઈ ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-record-four-centuries-in-one-edition-19-year-old-history-changed-466214 ",
+    "time": "2026-02-25T11:43:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ચાલુ મેચે બબાલ ! રણજી ટ્રોફી ફાઇનલ દરમિયાન બાખડ્યા બે ખેલાડીઓ, વીડિયો થયો વાયરલ",
+    "desc": "હુબલીમાં રણજી ટ્રોફીની ફાઇનલ મેચ ચાલી રહી છે. આ વખતે ટાઇટલ મેચ જમ્મુ-કાશ્મીર અને કર્ણાટક વચ્ચે રમાઈ રહી છે. મેચના બીજા દિવસે મેદાન પર મોટી બબાલ થઈ હતી. જેનો એક વીડિયો સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/controversy-in-ranji-trophy-final-paras-dogra-headbutts-karnataka-fielder-video-466198 ",
+    "time": "2026-02-25T10:28:50.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "શું તમે સંજય લીલા ભણસાલીના હાર્ટ એટેક આવ્યો? ટીમે આપ્યું અપડેટ",
     "desc": "સંજય લીલા ભણસાલીને હાર્ટ એટેકનો હુમલો આવ્યો હોવાના સમાચાર વાયુ વેગે વાયરલ થઈ રહ્યા છે. તેમની ટીમે એક નિવેદન બહાર પાડીને તેના વિશે જણાવ્યું છે. અહેવાલમાં જણાવવામાં આવ્યું છે કે, તેમને કોકીલાબેન હોસ્પિટલમાં દાખલ કરવામાં આવ્યા હતા.",
@@ -54,6 +72,15 @@ const newsData_gu = [
     "time": "2026-02-25T06:40:55.000Z"
   },
   {
+    "cat": "World",
+    "title": "ઓપરેશન સિંદૂર પર ટ્રમ્પનો અત્યાર સુધીનો સૌથી મોટો દાવો, પાકિસ્તાનને લાગશે મરચા, મોટી પોલ ખુલી",
+    "desc": "ડોનાલ્ડ ટ્રમ્પે ઓપરેશન સિંદૂર પર એક અત્યંત ચોંકાવનારો દાવો કર્યો છે. જો કે ટ્રમ્પના આ દાવાથી પાકિસ્તાનને ચોક્કસ પેટમાં તેલ રેડાશે. તેમણે કહ્યું કે તેમણે પાકિસ્તાનના પીએમ શહબાજ શરીફનો જીવ બચાવ્યો હતો. જો તેઓ વચ્ચે ન પડ્યા હોત તો 3 કરોડથી વધુ લોકોના મોત થઈ જાત. વધુ વિગતો માટે વાંચો અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/donald-trump-claim-on-operation-sindoor-said-he-saved-the-life-of-the-pakistani-pm-shehbaz-sharif-466143 ",
+    "time": "2026-02-25T06:30:38.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ઝિમ્બાબ્વે સામે બદલાઈ જશે ટીમ ઈન્ડિયા... આ ખેલાડીઓનું કપાશે પત્તુ !",
     "desc": "સુપર-8માં દક્ષિણ આફ્રિકા સામેની હારથી ટીમ ઈન્ડિયા પર ઘણું દબાણ આવ્યું છે. તેથી 26 ફેબ્રુઆરીએ ચેન્નાઈમાં ઝિમ્બાબ્વે સામેની મેચ માટે ભારતની પ્લેઈંગ ઈલેવનમાં મોટા ફેરફારો થઈ શકે છે. વાઈસ કેપ્ટન અક્ષર પટેલની વાપસી લગભગ નક્કી છે.",
@@ -63,6 +90,15 @@ const newsData_gu = [
     "time": "2026-02-25T06:19:10.000Z"
   },
   {
+    "cat": "Business",
+    "title": "ટ્રમ્પે ભારતને આપ્યો મોટો ઝટકો, આ વસ્તુ પર લગાવ્યો 126 ટકા ટેરિફ, જાણો",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ભારતને મોટો ફટકો આપ્યો છે. અમેરિકાએ ભારતમાંથી આયાત થતી આ વસ્તુ પર 126% પ્રારંભિક ટેરિફ લગાવવાનો નિર્ણય લીધો છે. તેવી જ રીતે, ઇન્ડોનેશિયા માટે 86 ટકાથી 143 ટકા અને લાઓસ માટે 81 ટકા સુધીના ટેરિફનો પ્રસ્તાવ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/trump-gave-a-big-blow-to-india-imposed-126-percent-tariff-on-solar-pannel-know-466138 ",
+    "time": "2026-02-25T06:07:40.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "રણબીર કપૂર-સાંઈ પલ્લવીની ફિલ્મ રામાયણનું યોજાયું ટેસ્ટ સ્ક્રીનિંગ, જાણો લોકોને કેવી લાગી નિતેશ તિવારીની ફિલ્મ?",
     "desc": "નિતેશ તિવારીની ફિલ્મ રામાયણને લઈને છેલ્લા ઘણા સમયથી બઝ છે. લોકો આ ફિલ્મની આતુરતાથી રાહ જોઈ રહ્યા છે. આ ફિલ્મને લઈને એક મહત્વપૂર્ણ ખબર સામે આવી છે. જેના વિશે જાણીને ફિલ્મ જોવાની આતુરતા અનેકગણી વધી શકે છે.",
@@ -70,15 +106,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/nitesh-tiwari-big-budget-film-ramayana-got-positive-response-after-first-test-screening-in-los-angeles-466151 ",
     "time": "2026-02-25T05:49:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઓપરેશન સિંદૂર પર ટ્રમ્પનો અત્યાર સુધીનો સૌથી મોટો દાવો, પાકિસ્તાનને લાગશે મરચા, મોટી પોલ ખુલી",
-    "desc": "ડોનાલ્ડ ટ્રમ્પે ઓપરેશન સિંદૂર પર એક અત્યંત ચોંકાવનારો દાવો કર્યો છે. જો કે ટ્રમ્પના આ દાવાથી પાકિસ્તાનને ચોક્કસ પેટમાં તેલ રેડાશે. તેમણે કહ્યું કે તેમણે પાકિસ્તાનના પીએમ શહબાજ શરીફનો જીવ બચાવ્યો હતો. જો તેઓ વચ્ચે ન પડ્યા હોત તો 3 કરોડથી વધુ લોકોના મોત થઈ જાત. વધુ વિગતો માટે વાંચો અહેવાલ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/donald-trump-claim-on-operation-sindoor-said-he-saved-the-life-of-the-pakistani-pm-shehbaz-sharif-466143 ",
-    "time": "2026-02-25T04:50:04.000Z"
   },
   {
     "cat": "Politics",
@@ -133,6 +160,15 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/cricket-queens-explosive-indian-batter-shafali-verma-inspiring-journey-466081 ",
     "time": "2026-02-24T10:51:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "30 વર્ષમાં ભેગા કરવા છે ₹1.5 કરોડ? જાણો દર મહિને કેટલી SIP જરૂરી",
+    "desc": "શું તમે પણ કરોડપતિ બની નિવૃત્ત થવા ઈચ્છો છો? માત્ર 4500 ની સામાન્ય બચત તમને ₹1.5 કરોડના માલિક બનાવી શકે છે. આ કોઈ જાદુ નહીં, પરંતુ કમ્પાઉન્ડિંગની તાકાત છે. જાણો કઈ રીતે 30 વર્ષનું ધૈર્ય અને યોગ્ય રોકાણ તમને આર્થિકરૂપે આઝાદ બનાવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/retirement-fund-of-15-crore-in-30-years-know-how-much-sip-to-make-and-when-to-start-466082 ",
+    "time": "2026-02-24T10:46:04.000Z"
   },
   {
     "cat": "Tech",
@@ -225,6 +261,15 @@ const newsData_gu = [
     "time": "2026-02-24T06:57:02.000Z"
   },
   {
+    "cat": "Business",
+    "title": "25 વર્ષની હોમ લોન 10 વર્ષમાં કેવી રીતે ચૂકવવી? આ સ્માર્ટ &amp;#039;પ્રી-પેમેન્ટ&amp;#039; ટ્રિક્સ તમારા લાખો રૂપિયા બચાવશે",
+    "desc": "લાંબા સમય માટે હોમ લોન લેવી બરાબર નથી કારણ કે તેમાં તમારે વધુ વ્યાજ ચૂકવવું પડે છે. કેટલીક સ્માર્ટ ટિપ્સની મદદથી તમે તમારી 25 વર્ષની હોમ લોન 10 વર્ષમાં પૂરી કરી શકો છો. પ્રીપેમેન્ટ, એક્સ્ટ્રા ઈએમઆી અને વાર્ષિક સ્ટેપ-અપ ઈએમઆઈ ખૂબ વ્યાજ બચાવે છે અને લોનને ઓછા સમયમાં ખતમ કરવામાં મદદ કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/how-to-repay-home-loan-faster-prepayment-tricks-466053 ",
+    "time": "2026-02-24T06:50:37.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "વેસ્ટ ઈન્ડિઝની જીતે બગાડ્યો ભારતનો ખેલ, સેમિફાઇનલનો રસ્તો બન્યો વધુ મુશ્કેલ",
     "desc": "સુપર-8માં વેસ્ટ ઈન્ડિઝે ઝિમ્બાબ્વેને 107 રનથી હરાવતા ગ્રુપ-1નું સમીકરણ બદલાઈ ગયું છે. વેસ્ટ ઈન્ડિઝ હવે પોઈન્ટ ટેબલમાં ટોપ પર છે, તો ભારત ત્રીજા સ્થાને છે. જ્યારે દક્ષિણ આફ્રિકા હવે બીજા સ્થાને પહોંચી ગયું છે. ત્યારે વેસ્ટ ઈન્ડિઝની જીતથી ભારતનો સેમિફાઇનલનો રસ્તો વધુ મુશ્કેલ બન્યો છે.",
@@ -232,6 +277,15 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/west-indies-win-over-zimbabwe-team-india-semi-final-scenario-t20-world-cup-2026-466039 ",
     "time": "2026-02-24T05:40:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "વળી પાછા આજે સોના-ચાંદી સસ્તા થયા, હાઈથી સોનું 20000 અને ચાંદી 1.54 લાખ સસ્તા, જાણો આજનો લેટેસ્ટ રેટ",
+    "desc": "સોના અને ચાંદીમાં છેલ્લા ઘણા સમયથી ભયંકર ઉતાર ચડાવ જોવા મળી રહ્યા છે. આજે વાયદા બજારમાં ભાવ લાલ નિશાન સાથે ખુલ્યા. આમ છતાં ભાવ હજું પણ સામાન્ય માણસની પહોંચ બહાર લાગી રહ્યા છે. નાણામંત્રીએ સોના ચાંદીના ભાવમાં વધારા પાછળ એક મોટું કારણ ગણાવ્યું. ત્યારે આજે ભાવમાં શું ફેરફાર છે અને ભાવ કેમ વધી રહ્યા છે એ કારણ પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-rate-big-breaking-became-cheaper-again-today-silver-1-54-lakh-cheaper-from-all-time-high-know-latest-rate-466025 ",
+    "time": "2026-02-24T03:57:03.000Z"
   },
   {
     "cat": "Politics",
@@ -270,6 +324,15 @@ const newsData_gu = [
     "time": "2026-02-23T13:44:55.000Z"
   },
   {
+    "cat": "Business",
+    "title": "કેમ વધી રહ્યા છે સોનાના ભાવ ? નાણામંત્રી નિર્મલા સીતારમણે જણાવ્યું કારણ, જાણો",
+    "desc": "સોમવારે, મલ્ટી કોમોડિટી એક્સચેન્જ (MCX) પર 24 કેરેટ સોનું 1,60,049 રૂપિયા પ્રતિ 10 ગ્રામ પર ખુલ્યું હતું. તે તેના પાછલા બંધ કરતા 2.02% વધ્યું હતું. દિવસના ટ્રેડિંગ દરમિયાન, ભાવ 1,59,239 રૂપિયા પ્રતિ 10 ગ્રામ પર પહોંચી ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/why-are-gold-prices-increasing-finance-minister-nirmala-sitharaman-explained-the-reason-know-465973 ",
+    "time": "2026-02-23T12:59:21.000Z"
+  },
+  {
     "cat": "World",
     "title": "ચમત્કાર કે આસ્થા? 800 વર્ષ જૂના સંતના અવશેષો જોઈ શ્રદ્ધાળુઓ થયા ભાવુક, જાણો શું છે રહસ્ય",
     "desc": "800 વર્ષ પહેલાની વાત છે. એક સંત હતા, જેમના ચમત્કારો વિશે સદીઓ બાદ પણ વાત કરવામાં આવે છે, પરંતુ તેમનો મૃતદેહ 600 વર્ષ સુધી મળ્યો ન હતો. કોઈને ખબર નહોતી કે, તેમને ક્યાં દફનાવવામાં આવ્યા છે. એક દિવસ એક લોખંડનું બોક્સ મળ્યું. હવે પહેલી વાર જનતા આખરે તે સંતના અવશેષો જોઈ શકે છે.",
@@ -277,6 +340,15 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/st-francis-of-assisi-mysterious-remains-unveiled-after-800-years-465971 ",
     "time": "2026-02-23T12:09:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગાર પંચ પહેલા કર્મચારીઓને ભેટ, EPFO​​એ પેન્શન સુવિધાને લઈ કર્યો મોટો નિર્ણય, જાણો",
+    "desc": "8મા પગાર પંચની રાહ જોતા કર્મચારીઓ માટે સારા સમાચાર છે, EPFOએ કર્મચારીઓને પહેલા ભેટ આપી છે, આ જૂની પેન્શન યોજના ફરી શરૂ કરી અનેક લોકોને મદદ કરી છે. ત્યારે એ પણ મહત્વનું છે કે દરેક વ્યક્તિ આ યોજનાનો લાભ લઈ શકશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/a-gift-to-employees-before-the-8th-pay-commission-epfo-has-taken-a-big-decision-regarding-pension-facilities-know-465969 ",
+    "time": "2026-02-23T12:05:18.000Z"
   },
   {
     "cat": "Sports",
@@ -315,15 +387,6 @@ const newsData_gu = [
     "time": "2026-02-23T09:30:18.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "સાઉથ આફ્રિકા સામેની હાર બાદ બદલાઈ જશે ટીમ ઈન્ડિયા ? કોચે આપ્યા સંકેત",
-    "desc": "T20 વર્લ્ડ કપ 2026માં ટીમ ઈન્ડિયાની પહેલી હાર બાદ પ્લેઈંગ ઈલેવન અને ટીમ કોમ્બિનેશન પર પ્રશ્નો ઉભા થયા છે. હવે જોવાનું એ રહે છે કે ભારતીય ટીમ આગામી મેચમાં કોઈ ફેરફાર કરશે કે નહીં. મેચ બાદ મીડિયા સાથે વાત કરતા આસિસ્ટન્ટ કોચ રાયન ટેન ડોશેટે મેચમાં ફેરફારના સંકેત આપ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-will-change-in-playing-11-after-defeat-against-south-africa-coach-gives-hints-465938 ",
-    "time": "2026-02-23T09:03:07.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "દુનિયામાં ફક્ત 873 લોકો જ ચલાવી શકશે આ બાઇક, જાણો શા માટે છે આટલી ખાસ",
     "desc": "ડુકાટીએ તેની નવી Formula 73 રજૂ કરી છે, જે 1970ના દાયકાની જાણીતી રેસિંગ બાઇક્સની યાદ અપાવે છે. તેનો દેખાવ જૂનો છે, પરંતુ તે આધુનિક ફીચર્સથી સજ્જ છે, જે તેને વધુ ખાસ બનાવે છે. ત્યારે આ બાઈકની કિંમત અને ફીચર્સ વિશે આ લેખમાં જાણીશું.",
@@ -360,15 +423,6 @@ const newsData_gu = [
     "time": "2026-02-23T07:20:14.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "સાઉથ આફ્રિકા સામેની હાર ભારત માટે સારો સંકેત ? બની રહ્યો છે 2011 જેવો ગજબ સંયોગ",
-    "desc": "ભારતીય ટીમને 2026ના T20 વર્લ્ડ કપમાં પહેલીવાર હારનો સામનો કરવો પડ્યો છે. સુપર 8માં સાઉથ આફ્રિકાએ ભારતને 76 રનથી હરાવ્યું. આ હાર ભારત માટે સારો સંકેત સાબિત થઈ શકે છે, કારણ કે 2011ના વર્લ્ડ કપ જેવો એક સંયોગ બની રહ્યો છે, જે વર્લ્ડ કપમાં ભારતની જીત તરફ ઈશારો કરી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-lost-to-south-africa-is-good-sign-coincidence-from-2011-world-cup-465925 ",
-    "time": "2026-02-23T07:11:44.000Z"
-  },
-  {
     "cat": "World",
     "title": "મેક્સિકોમાં અત્યંત ખતરનાક ડ્રગ માફિયાના મોત બાદ દેશ ભડકે બળ્યો, ભારતીય દૂતાવાસે એડવાઈઝરી બહાર પાડી",
     "desc": "મેક્સિકોમાં સુરક્ષાદળોએ અત્યંત કુખ્યાત વોન્ટેડ ડ્રગ તસ્કર અલ મેન્ચોને મોતને ઘાટ ઉતારી દેતા દેશ ભડકે બળ્યો છે. મેન્ચોના સમર્થકોએ દેશ બાનમાં લીધો છે. આવામાં મેક્સિકોમાં ભારતીય દૂતાવાસે ત્યાં રહેતા ભારતીયો માટે એક એડવાઈઝરી બહાર પાડી છે.",
@@ -376,6 +430,15 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/mexico-most-wanted-drug-cartel-leader-el-mencho-killed-indian-embassy-advisory-465919 ",
     "time": "2026-02-23T06:08:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ટ્રમ્પના કારણે સોના-ચાંદીમાં હાહાકાર! આજે બજાર ખુલતા જ ભાવમાં જોરદાર ઉછાળો, જાણો લેટેસ્ટ રેટ",
+    "desc": "અમેરિકાની કોર્ટે ટ્રમ્પ વિરુદ્ધ ચુકાદો આપ્યો તેના કારણે અમેરિકી રાષ્ટ્રપતિ એવા બગડ્યા કે તેમણે તો ઉથલપાથલ મચાવવા માંડી જેની અસર સોના અને ચાંદીના ભાવ ઉપર પણ જોવા મળી રહી છે. કારણ કે આજે વાયદા બજાર ખુલતાની સાથે જ સોના અને ચાંદીના ભાવમાં જોરદાર ઉછાળો જોવા મળ્યો. જાણો લેટેસ્ટ સ્થિતિ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-surge-on-mcx-are-prices-rising-because-of-trump-new-decisions-know-the-latest-rates-465894 ",
+    "time": "2026-02-23T03:51:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -394,6 +457,15 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/another-attempt-to-attack-trump-attacker-enters-resort-with-shotgun-shot-dead-by-secret-service-465866 ",
     "time": "2026-02-22T15:37:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ભારત રશિયાને બદલે આ દેશ પાસેથી મોટી માત્રામાં ખરીદી રહ્યું છે ક્રૂડ ઓઇલ, ત્રીજા નંબરે પહોંચ્યું ઇરાક, જાણો",
+    "desc": "અમેરિકાના પ્રતિબંધ બાદ ભારતે રશિયા પાસેથી તેલ ખરીદી કરવાનું ઓછું કરી દીધુ હતું, જો કે રશિયા સાથે ઘટાડો કરીને ભારતે આ દેશ સાથે ખરીદીમાં વધારો કર્યો છે. ભારતને કોઈ એવા દેશની જરૂર હતી, જે તેની બજાર જરૂરીયાતો માટે મોટા પાયે તેલ આપે અને ભારત તે તરફ આગળ વધી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/india-is-buying-large-quantities-of-crude-oil-from-this-country-instead-of-russia-iraq-has-reached-the-third-position-know-465848 ",
+    "time": "2026-02-22T14:07:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -448,6 +520,15 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/us-india-trade-deal-why-has-the-india-us-trade-deal-been-postponed-new-information-from-washington-465821 ",
     "time": "2026-02-22T09:31:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ચાંદી 1.67 લાખ અને સોનું 36 હજાર રૂપિયા સસ્તું, ઓલ-ટાઇમ હાઈ લેવલને સ્પર્શીને કિંમતોમાં મોટો કડાકો",
+    "desc": "નવા વર્ષની શરૂઆતમાં સોના-ચાંદીના ભાવમાં અચાનક તેજી જોવા મળી હતી અને બંને કિંમતી ધાતુઓ પોતાની અત્યાર સુધીના સર્વોચ્ચ સ્તર (All-time high) પર પહોંચી ગઈ હતી. જોકે, હવે તે ઉચ્ચ સ્તરોથી ચાંદી 1.67 લાખ રૂપિયા સસ્તી થઈ ગઈ છે અને સોનાના ભાવમાં પણ પ્રતિ 10 ગ્રામ આશરે 36 હજાર રૂપિયાનો ઘટાડો નોંધાયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-price-silver-one-lakh-67-thousand-gold-36-thousand-rupees-cheaper-prices-fell-after-touching-high-level-prices-465814 ",
+    "time": "2026-02-22T07:12:56.000Z"
   },
   {
     "cat": "World",
@@ -540,24 +621,6 @@ const newsData_gu = [
     "time": "2026-02-21T06:42:26.000Z"
   },
   {
-    "cat": "World",
-    "title": "સુપ્રીમ કોર્ટના ચુકાદા બાદ શું અમેરિકા વસૂલ કરેલો ટેરિફ પાછો આપી દેશે? વિગતો ખાસ જાણો",
-    "desc": "અમેરિકાની સુપ્રીમ કોર્ટે રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પને ટેરિફ મામલે મોટો ઝટકો આપ્યો અને કહી દીધુ કે આ ટેરિફ ગેરકાયદેસર છે. ટેરિફ નાખવાની તેમને સત્તા નથી. ત્યારબાદ જો કે ટ્રમ્પે પણ ગાજ્યા જાય એવા નથી અને તેમણે 10 ટકા ગ્લોબલ ટેરિફ નાખી દીધો. પરંતુ આ બધા વચ્ચે એ ચર્ચા છે કે ટેરિફ ગેરકાયદેસર થઈ ગયો તો અત્યાર સુધી વસૂલવામાં આવેલા ટેરિફનું શું? ટ્રમ્પ પ્રશાસને તે પાછા આપશે? સમજો આખી વાત.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/expainer-on-after-supreme-court-verdict-will-usa-return-the-collected-tariffs-world-news-in-gujarati-465709 ",
-    "time": "2026-02-21T06:17:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "કોર્ટે ઝટકો આપ્યો તો બગડ્યા ટ્રમ્પ, વળતો પ્રહાર કરી બધા દેશો પર 10% ગ્લોબલ ટેરિફ ઝીંક્યો",
-    "desc": "જે ટેરિફને હથિયાર તરીકે ઉપયોગમાં લઈને દુનિયામાં ઉથલપાથલ સર્જી હાહાકાર મચાવતા હતા અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ તે જ ટેરિફને અમેરિકાની સર્વોચ્ચ અદાલતે ગેરકાયદેસર ઠેરવીને ફગાવી દીધો. સુપ્રીમ કોર્ટના આ ચુકાદા બાદ હવે ડોનાલ્ડ ટ્રમ્પ લાલચોળ થઈ ગયા છે અને મોટું પગલું ભર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/after-supreme-court-setback-now-donald-trump-signs-10-percent-global-tariffs-order-world-news-in-gujarati-465691 ",
-    "time": "2026-02-21T03:28:37.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "બોક્સ ઓફિસ પર ટકરાશે યશ અને રણવીર સિંહ, 19 માર્ચે એક સાથે રિલીઝ થશે ટોક્સિક અને ધુરધંર 2",
     "desc": "19 માર્ચનો દિવસ ફિલ્મ ચાહકો માટે ખાસ બનવાનો છે. આ દિવસે એક સાથે 2 ધમાકેદાર ફિલ્મો રિલીઝ થવાની છે. 19 માર્ચે રણવીર સિંહની ફિલ્મ ધુરંધર 2 સાથે કન્નડ સુપરસ્ટાર યશની ફિલ્મ ટોક્સિક પણ રિલીઝ થવાની છે. આ ફિલ્મો એક સાથે રિલીઝ કરવા પાછળ પણ કારણ છે. ચાલો તમને તે કારણ વિશે જણાવીએ.",
@@ -601,15 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/salman-khan-father-salim-khan-is-on-ventilator-at-lilavati-hospital-mumbai-after-brain-hemorrhage-surgery-465535 ",
     "time": "2026-02-19T11:24:32.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "મારૂતિ અર્ટિગા છોડો, ₹9 હજારના EMI માં આવી જશે આ નવી 7-સીટર ફેમેલી કાર",
-    "desc": "નિશાને પોતાના પોર્ટફોલિયોને આગળ વધારતા ભારતીય બજારમાં નવી 7-સીટર કાર ઉતારી છે. ખાસ વાત છે કે આ કારની કિંમત માત્ર 5.65 લાખ રૂપિયાથી શરૂ થાય છે. જેને તમે દર મહિને 9000 રૂપિયાના EMI મા ખરીદી શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/nissan-gravite-7-seater-car-base-model-price-and-features-monthly-emi-scheme-465500 ",
-    "time": "2026-02-19T06:46:25.000Z"
   },
   {
     "cat": "Entertainment",

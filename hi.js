@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will Sanju Samson play in India's next World Cup game against Zimbabwe? Sitanshu Kotak shares update",
+    "desc": "The Indian team is all set to continue its T20 World Cup 2026 campaign. The side will be taking on Zimbabwe in their next clash. The two sides will lock horns in the Super 8...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-sanju-samson-play-in-india-s-next-world-cup-game-against-zimbabwe-sitanshu-kotak-shares-update-2026-02-25-1031658",
+    "time": "2026-02-25T12:51:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will rain spoil SL vs NZ T20 World Cup 2026 Super Eight clash?",
+    "desc": "The stage is set for game 46 of the ongoing T20 World Cup 2026. Sri Lanka will be hosting New Zealand for their Super 8 clash at the R. Premadasa Stadium in Colombo on February...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/colombo-weather-report-will-rain-spoil-sl-vs-nz-t20-world-cup-2026-super-eight-clash-2026-02-25-1031645",
+    "time": "2026-02-25T11:38:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rinku Singh set to return to India squad ahead of Zimbabwe clash",
+    "desc": "Star India batter Rinku Singh is all set to make his return to the Indian side after he had to rush back home due to a family emergency. It is worth noting that Rinku had...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-set-to-return-to-india-squad-ahead-of-zimbabwe-clash-2026-02-25-1031635",
+    "time": "2026-02-25T10:06:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jasprit Bumrah storms into top 10 with seven-place jump, Bosh climbs 21 spots to reach three in ICC rankings",
     "desc": "India star pacer Jasprit Bumrah has made an impressive rise in the ICC rankings as he has climbed seven places in the T20I bowlers' chart to enter the top 10. As per the latest update...",
     "img": "",
@@ -37,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "KAR vs J-K Ranji Trophy final Day 2 LIVE Cricket Score: Jammu and Kashmir look to pile big runs",
+    "title": "KAR vs J-K Ranji Trophy final Day 2 LIVE Cricket Score: Jammu and Kashmir end day 2 on 527 runs",
     "desc": "In the final of the Ranji Trophy Elite 2025–26, Jammu & Kashmir firmly stamped their authority on the very first day. Playing at the KSCA Hubli Cricket Ground, the team piled up 284 runs for...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/five-consecutive-semifinals-england-create-all-time-record-after-yet-another-t20-world-cup-sf-qualification-2026-02-25-1031573",
     "time": "2026-02-25T02:32:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Brook creates history, becomes first captain to score ton in T20 World Cup history",
-    "desc": "England captain Harry Brook has etched his name into the history books, slamming a stellar hundred in his team's T20 World Cup 2026 Super Eight clash against Pakistan on Tuesday, February 25. Brook scored a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-creates-history-becomes-first-captain-to-score-ton-in-t20-world-cup-history-2026-02-25-1031569",
-    "time": "2026-02-25T02:05:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shikhar Dhawan gets relief from Delhi court, orders ex-wife Ayesha to return Rs 5.72 crore",
-    "desc": "In a massive legal victory for Indian cricketer Shikhar Dhawan, a Family Court in Delhi has ordered his ex-wife, Aesha Mukerji, to return approximately Rs 5.72 crore. The ruling comes as a major relief for the veteran...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shikhar-dhawan-gets-relief-from-delhi-court-orders-ex-wife-ayesha-to-return-rs-5-72-crore-2026-02-24-1031557",
-    "time": "2026-02-24T18:07:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Pakistan still qualify for semifinals of T20 World Cup 2026? Scenarios confirmed",
-    "desc": "Pakistan lost to England in their second Super 8 clash of the T20 World Cup by two wickets. This loss has jeopardised their T20 World Cup campaign as their fate is not in their hands...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/can-pakistan-still-qualify-for-semifinals-of-t20-world-cup-2026-scenarios-confirmed-2026-02-24-1031551",
-    "time": "2026-02-24T17:30:00.000Z"
   }
 ];
