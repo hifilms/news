@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Afghanistan appoint new coach after Jonathan Trott's exit following T20 World Cup 2026",
+    "desc": "Afghanistan have appointed England-born Richard Pybus as their new head coach following the departure of Jonathan Trott. The Afghanistan Cricket Board confirmed the development on Tuesday, emphasising Pybus' illustrious achievements during his coaching days. Pybus is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-appoint-new-coach-after-jonathan-trotts-exit-following-t20-world-cup-2026-2026-02-25-1031595",
+    "time": "2026-02-25T05:32:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "KAR vs J-K Ranji Trophy final Day 2 LIVE Cricket Score: Jammu and Kashmir look to pile big runs",
     "desc": "In the final of the Ranji Trophy Elite 2025–26, Jammu & Kashmir firmly stamped their authority on the very first day. Playing at the KSCA Hubli Cricket Ground, the team piled up 284 runs for...",
     "img": "",

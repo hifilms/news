@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "બંધ પડેલા PF ખાતાના પૈસા પર સરકારનો મોટો પ્લાન, રકમ કરવામાં આવશે પરત, જાણો",
+    "desc": "દેશભરમાં લાખો કર્મચારી ભવિષ્ય નિધિ (PF) ખાતાધારકો ભવિષ્યની જરૂરિયાતો માટે દર મહિને તેમના પગારનો એક ભાગ જમા કરાવે છે. જો કે, નોકરીમાં ફેરફાર, ટ્રાન્સફર અથવા અન્ય કારણોસર, ઘણા લોકો તેમના જૂના PF ખાતાઓ પર ધ્યાન આપવામાં ફેલ જાય છે. પરિણામે, આ ખાતાઓ લાંબા સમય સુધી ડિએક્ટિવ રહે છે, જેના કારણે નાની રકમ તેમાં ફસાઈ જાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/government-big-plan-on-closed-pf-account-money-amount-will-be-refunded-know-466165 ",
+    "time": "2026-02-25T06:40:55.000Z"
+  },
+  {
     "cat": "World",
     "title": "ઓપરેશન સિંદૂર પર ટ્રમ્પનો અત્યાર સુધીનો સૌથી મોટો દાવો, પાકિસ્તાનને લાગશે મરચા, મોટી પોલ ખુલી",
     "desc": "ડોનાલ્ડ ટ્રમ્પે ઓપરેશન સિંદૂર પર એક અત્યંત ચોંકાવનારો દાવો કર્યો છે. જો કે ટ્રમ્પના આ દાવાથી પાકિસ્તાનને ચોક્કસ પેટમાં તેલ રેડાશે. તેમણે કહ્યું કે તેમણે પાકિસ્તાનના પીએમ શહબાજ શરીફનો જીવ બચાવ્યો હતો. જો તેઓ વચ્ચે ન પડ્યા હોત તો 3 કરોડથી વધુ લોકોના મોત થઈ જાત. વધુ વિગતો માટે વાંચો અહેવાલ.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/donald-trump-claim-on-operation-sindoor-said-he-saved-the-life-of-the-pakistani-pm-shehbaz-sharif-466143 ",
-    "time": "2026-02-25T04:50:04.000Z"
+    "time": "2026-02-25T06:30:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ઝિમ્બાબ્વે સામે બદલાઈ જશે ટીમ ઈન્ડિયા... આ ખેલાડીઓનું કપાશે પત્તુ !",
+    "desc": "સુપર-8માં દક્ષિણ આફ્રિકા સામેની હારથી ટીમ ઈન્ડિયા પર ઘણું દબાણ આવ્યું છે. તેથી 26 ફેબ્રુઆરીએ ચેન્નાઈમાં ઝિમ્બાબ્વે સામેની મેચ માટે ભારતની પ્લેઈંગ ઈલેવનમાં મોટા ફેરફારો થઈ શકે છે. વાઈસ કેપ્ટન અક્ષર પટેલની વાપસી લગભગ નક્કી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-predicted-playing-xi-against-zimbabwe-axar-patel-comeback-466162 ",
+    "time": "2026-02-25T06:19:10.000Z"
   },
   {
     "cat": "Business",
@@ -15,7 +33,25 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/trump-gave-a-big-blow-to-india-imposed-126-percent-tariff-on-solar-pannel-know-466138 ",
-    "time": "2026-02-25T04:17:32.000Z"
+    "time": "2026-02-25T06:07:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રણબીર કપૂર-સાંઈ પલ્લવીની ફિલ્મ રામાયણનું યોજાયું ટેસ્ટ સ્ક્રીનિંગ, જાણો લોકોને કેવી લાગી નિતેશ તિવારીની ફિલ્મ?",
+    "desc": "નિતેશ તિવારીની ફિલ્મ રામાયણને લઈને છેલ્લા ઘણા સમયથી બઝ છે. લોકો આ ફિલ્મની આતુરતાથી રાહ જોઈ રહ્યા છે. આ ફિલ્મને લઈને એક મહત્વપૂર્ણ ખબર સામે આવી છે. જેના વિશે જાણીને ફિલ્મ જોવાની આતુરતા અનેકગણી વધી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/nitesh-tiwari-big-budget-film-ramayana-got-positive-response-after-first-test-screening-in-los-angeles-466151 ",
+    "time": "2026-02-25T05:49:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પાકિસ્તાનની હારનો સૌથી મોટો વિલન કોણ ? કેપ્ટન આગાએ કોને ગણાવ્યો જવાબદાર",
+    "desc": "ઈંગ્લેન્ડ સામે પાકિસ્તાનની કારમી હાર થઈ છે. શરૂઆતમાં સારી બોલિંગ કરી છતાં પાકિસ્તાન ઈંગ્લેન્ડ પર દબાણ લાવી શક્યું નહીં. હેરી બ્રુક અને વિલ જેક્સની જોડીએ મેચને પલટી નાખી અને ઓસ્ટ્રેલિયા સેમિફાઈનલમાં પહોંચી ગયું. હાર બાદ પાકિસ્તાનના કેપ્ટન સલમાન અલી આગાનું દર્દ છલકાયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/pakistan-vs-england-t20-world-cup-2026-salman-agha-reaction-after-losing-match-466148 ",
+    "time": "2026-02-25T05:30:17.000Z"
   },
   {
     "cat": "Politics",
@@ -45,6 +81,15 @@ const newsData_gu = [
     "time": "2026-02-24T15:37:09.000Z"
   },
   {
+    "cat": "Tech",
+    "title": "ગુગલ પર ભૂલથી પણ સર્ચ ન કરતા એપ્સટિન ફાઇલ્સ, જાણો ચોંકાવનારું કારણ",
+    "desc": "હાલના સમયમાં એપ્સટિન ફાઇલ્સ શબ્દ ઇન્ટરનેટ પર ઝડપથી ટ્રેન્ડ કરી રહ્યો છે, પરંતુ તેનાથી તમને ભારે નુકશાન થઈ શકે છે, મોટા ભાગના લોકો હાલમાં તેના વિશે જાણવા અને તેના દ્વારા વાયરલ કરાયેલા વીડિયો જોવા માગે છે, ત્યારે તે તમારી સૌથી મોટી ભુલ બની શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/epstein-files-not-being-searched-on-google-even-by-mistake-know-the-shocking-reason-466091 ",
+    "time": "2026-02-24T13:22:39.000Z"
+  },
+  {
     "cat": "World",
     "title": "ટેરિફ વોરમાં ટ્રમ્પે બધું ગુમાવ્યું, ભારત માટે ખુલ્યા ફાયદાના દ્વાર! US-યુરોપ વચ્ચે ફરી વધી તકરાર?",
     "desc": "ટેરિફ પર ટ્રમ્પનો નવો ગ્લોબલ ટેરિફ આજથી લાગુ થઈ ગયો છે. કોર્ટમાં મળેલી હાર અને નવા ટેરિફ બાદ ટ્રમ્પ ચારેય તરફથી ઘેરાયેલા જોવા મળી રહ્યા છે. યુરોપ અને અમેરિકા વચ્ચે ફરી અંતર વધી શકે છે. જ્યારે આ સમગ્ર ઉથલપાથલમાં સૌથી મોટો ફાયદો ભારતને થવાનો છે.",
@@ -72,6 +117,15 @@ const newsData_gu = [
     "time": "2026-02-24T10:46:04.000Z"
   },
   {
+    "cat": "Tech",
+    "title": "એક કિલોમાં 34.43 KM, છે દેશની સૌથી વધુ માઇલેજ આપનારી CNG Car! કિંમત માત્ર ₹5.90 લાખથી શરૂ",
+    "desc": "દેશની સૌથી વધુ માઇલેજ આપનારી CNG કારોના લિસ્ટમાં અમે મારૂતિ સુઝુકી સેલેરિયો સીએનજીથી લઈને મારૂતિ સુઝુકી સ્વિફ્ટ સીએનજી સુધીના વિકલ્પ જણાવ્યા છે. આ કાર સારી માઇલેજ, શાનદાર સેફ્ટી અને ઓછા મેન્ટેનન્સ ખર્ચ માટે જાણીતી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/best-mileage-cng-cars-in-india-top-five-maruti-suzuki-cng-cars-466072 ",
+    "time": "2026-02-24T09:37:41.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "નેટ રન રેટનો ખેલ... ઝિમ્બાબ્વેને કેટલા રને હરાવવું પડે તો ભારતની સેમિફાઈનલની આશા જીવંત રહેશે ?",
     "desc": "ઝિમ્બાબ્વે સામે વેસ્ટ ઈન્ડિઝ જીતી જતાં સેમિફાઈનલનું સમીકરણ બદલાઈ ગયું છે, હવે ભારતની આગામી મેચ ઝિમ્બાબ્વે સામે છે, ત્યારે આ મેચમાં ઝિમ્બાબ્વેને કેટલા રને હરાવવું પડે તો ભારતની સેમિફાઈનલની આશા જીવંત રહેશે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -79,6 +133,15 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-india-vs-zimbabwe-match-scenario-to-get-positive-net-run-rate-466071 ",
     "time": "2026-02-24T09:35:26.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "વારંવાર પંચર થવાની ઝંઝટમાંથી મળશે છુટકારો! માત્ર 180 રૂપિયાનું લિક્વિડ ટાયરની વધારી દેશે 10 મહિના લાઈફ",
+    "desc": "વારંવાર ટાયર પંચર થવાથી અને ઝડપથી ટાયર ઘસાઈ જવાથી કંટાળી ગયા છો? હવે ફક્ત 180માં એક પ્રવાહી તમારા ટુ-વ્હીલરના ટાયરને પંચર થવાથી બચાવી શકે છે અને તેમનું જીવન વધારી શકે છે. આ સસ્તું અને અસરકારક ઉકેલ કેવી રીતે કામ કરે છે તે જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/frequent-punctures-this-rs-180-liquid-will-keep-your-tires-safe-for-10-months-466069 ",
+    "time": "2026-02-24T09:15:55.000Z"
   },
   {
     "cat": "Sports",
@@ -369,15 +432,6 @@ const newsData_gu = [
     "time": "2026-02-23T03:11:31.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "સુપર-8માં ટીમ ઈન્ડિયા ફ્લોપ... દક્ષિણ આફ્રિકા સામે મળી કરારી હાર, 17 મેંચ બાદ ICC ટૂર્નામેન્ટમાં મળી હાર",
-    "desc": "T20 વર્લ્ડ કપ 2026ના સુપર-8 મેચમાં રવિવારે ભારતનો સામનો દક્ષિણ આફ્રિકા સાથે થયો હતો. આ મેચમાં મેચમાં ટીમ ઈન્ડિયાને 76 રનના મોટા માર્જિનથી મોટી હારનો સામનો કરવો પડ્યો છે. આ હારથી ટીમ ઈન્ડિયાના નેટ રન રેટ પર પણ ખરાબ અસર પડી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-flopped-in-super-8-south-africa-beat-india-by-76-runs-lost-in-the-icc-tournament-after-17-matches-465876 ",
-    "time": "2026-02-22T17:51:19.000Z"
-  },
-  {
     "cat": "World",
     "title": "ટ્રમ્પ પર ફરી હુમલાનું કાવતરું! શોટગન સાથે રિસોર્ટમાં ઘૂસ્યો હુમલાખોર, સિક્રેટ સર્વિસે કર્યો ઠાર",
     "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ પર ફરી એકવાર હુમલાનું કાવતરું સામે આવ્યું છે. તેમના ફ્લોરિડાના પામ બીચ સ્થિત 'માર-એ-લાગો' રિસોર્ટના સુરક્ષા ઘેરામાં એક વ્યક્તિ હથિયાર સાથે ઘૂસી ગયો હતો. જો કે, સતર્ક સુરક્ષાકર્મીઓએ બંદૂક સાથે ધૂસેલા વ્યક્તિને ત્યાં જ ઠાર કર્યો છે.",
@@ -421,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/whatsapp-is-getting-a-new-feature-now-messages-will-be-scheduled-know-how-it-will-work-465839 ",
     "time": "2026-02-22T11:52:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "હાર્દિક પંડ્યાએ પુત્ર અને એક્સ વાઈફને આ કારણે ગિફ્ટ કરી 4 કરોડની ગાડી ? જાણો",
-    "desc": "ભારતીય ક્રિકેટ ટીમના ઓલરાઉન્ડર હાર્દિક પંડ્યાએ મોડેલ અને અભિનેત્રી નતાશા સ્ટેનકોવિક સાથે લગ્ન કર્યા હતા, અને બંને એક પુત્રના માતા-પિતા બન્યા હતા. જોકે, 2024ની શરૂઆતમાં તેમના સંબંધોમાં તિરાડ પડી ગઈ હતી, અને તેઓએ જુલાઈ 2024માં તેમના અલગ થવાની જાહેરાત કરી હતી. ત્યારે આજે ઈન્ટરનેટ પર હાર્દિકે નતાશા અને તેના પુત્ર અગત્સયને ગાડી ગિફ્ટમાં આવી તેની ચર્ચા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-gifted-a-car-worth-rs-4-crore-to-his-son-agastya-and-ex-wife-natasha-for-this-reason-find-out-465837 ",
-    "time": "2026-02-22T11:38:03.000Z"
   },
   {
     "cat": "World",
@@ -639,24 +684,6 @@ const newsData_gu = [
     "time": "2026-02-19T06:46:25.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "ટાયર પર લખેલા R, P, J અને V અક્ષરોનો અર્થ શું છે? 90% લોકો નથી જાણતા, તેમા છુપાયેલું રહસ્ય",
-    "desc": "શું તમે પણ ટાયર સમજ્યા વિના ખરીદો છો? ટાયર પરના નાના નંબરો અને અક્ષરો સીધા તમારા વાહનની ગતિ, સલામતી અને પ્રદર્શન સાથે સંબંધિત છે. ખોટી સ્પીડ રેટિંગ અથવા કદ ધરાવતું ટાયર ઊંચી ઝડપે ખતરનાક બની શકે છે. નવું ટાયર ખરીદતા પહેલા, આ કોડ્સનો અર્થ સમજવાની ખાતરી કરો, નહીં તો એક નાની ભૂલ પણ મોંઘી સાબિત થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/what-is-the-meaning-of-the-letters-r-p-j-and-v-written-on-the-tires-people-do-not-know-the-secret-hidden-in-it-465392 ",
-    "time": "2026-02-18T09:32:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "વિશ્વભરમાં YouTube સેવા ઠપ, લાખો યુઝર્સ મુશ્કેલીમાં, જાણો અચાનક કેમ થયું ડાઉન",
-    "desc": "ભારત સહિત ઘણા દેશોમાં યુટ્યુબ ડાઉન થઈ ગયું છે. લોકો સોશિયલ મીડિયા પર નારાજગી વ્યક્ત કરી રહ્યા છે. જાણવા મળી રહ્યું છે કે નવા વીડિયો જોવામાં સમસ્યા આવી રહી છે અને ફીડ પણ રીફ્રેશ થઈ રહી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/youtube-is-down-in-many-countries-including-india-465305 ",
-    "time": "2026-02-18T03:05:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "પિતાની હાલતને લઈ સલમાન ખાન ચિંતામાં, સલીમ ખાનની તબિયતને લઈ ડોક્ટરે આપી હેલ્થ અટડેટ",
     "desc": "બોલીવુડના સફળ સ્ક્રિપ્ટ રાઈટર અને એક્ટર સલમાન ખાનના પિતા સલીમ ખાનની તબિયત લથડી છે. તેઓ હાલ મુંબઈની લીલાવતી હોસ્પિટલમાં દાખલ છે. તેમના સ્વાસ્થ્યને લઈ ખાન પરિવારમાં ચિંતા જોવા મળી રહી છે. સલીમ ખાન વિશે ડોક્ટર્સે શું કહ્યું છે ચાલો તમને જણાવીએ.",
@@ -664,14 +691,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/salim-khan-health-update-salman-khan-father-salim-khan-is-in-icu-465304 ",
     "time": "2026-02-18T02:34:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "વેચાણ ઘટવા છતાં નંબર 1 બની આ SUV, પણ બીજા નંબરનીએ જીત્યા લોકોના દિલ, વેચાણમાં 145%નો જબરદસ્ત વધારો",
-    "desc": "જાન્યુઆરી 2026 માં 4.2–4.5 મીટર SUV સેગમેન્ટમાં નોંધપાત્ર ઉછાળો જોવા મળ્યો. આ ગાડીનો ક્રેજ હજુ પણ નંબર 1 છે, પરંતુ સેલ્ટોસ, વિક્ટોરિસ અને સીએરા જેવા નવા વાહનો બજારની ગતિશીલતા બદલી રહ્યા છે. આગામી મહિનાઓમાં આ સેગમેન્ટ વધુ રોમાંચક બનવાની તૈયારીમાં છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/despite-the-decline-in-sales-this-suv-became-number-1-its-sales-increased-by-a-whopping-145-percent-465259 ",
-    "time": "2026-02-17T12:08:26.000Z"
   }
 ];
