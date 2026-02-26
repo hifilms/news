@@ -1,12 +1,201 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "‘Thiranottam’ hero K. P. Gopakumar passes away at 73",
+    "desc": "Adv. K. P. Gopakumar, the hero of Thiranottam, Mohanlal’s first acted film, has passed away at 73. A resident of Punnapuram in Thiruvananthapuram, he was known both as an actor and a practicing lawyer involved in social work. Though Thiranottam—directed by V. Ashok Kumar and produced by Pachalloor Sasi—never received a proper theatrical release, it remains notable for introducing Mohanlal at age 18. Gopakumar later stepped away from cinema and focused on public service. He is survived by his wife and daughter. The cremation will be held at 2.30 PM at Shanthikavadam, Thycaud.*",
+    "img": "https://static.toiimg.com/photo/msid-128802044,imgsize-97418.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/adv-k-p-gopakumar-mohanlals-first-co-star-and-thiranottam-hero-passes-away-at-73/articleshow/128802044.cms",
+    "time": "2026-02-26T04:28:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Maoist commander killed by leader for allegedly planning surrender in Odisha",
+    "desc": "A Maoist commander, Anwesh, with a Rs 22 lakh bounty, was allegedly killed by his leader, Sukru, for planning to surrender to Odisha Police. His decomposed body was exhumed, revealing internal conflicts within Maoist groups over surrendering to authorities. The murder is believed to have been executed by Sukru with assistance from other cadres.",
+    "img": "https://static.toiimg.com/photo/msid-128801650,imgsize-1531127.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/maoist-commander-killed-by-leader-for-allegedly-planning-surrender-in-odisha/articleshow/128801609.cms",
+    "time": "2026-02-26T04:20:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bad Bunny, Gabriela spark Australia reunion buzz on beach",
+    "desc": "Bad Bunny and Gabriela Berlingeri are reportedly back together, spotted enjoying a beach day in Sydney ahead of his Australian tour. The couple, who first connected in 2017, have been fueling romance rumors since the Grammys. Their rekindled flame appears strong, with insiders noting their apparent joy and solid connection, suggesting a sweet second chance for the pair.",
+    "img": "https://static.toiimg.com/photo/msid-128801946,imgsize-970006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bad-bunny-and-gabriela-berlingeri-spark-reunion-buzz-with-romantic-australia-beach-getaway/articleshow/128801905.cms",
+    "time": "2026-02-26T04:17:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After SC rap, NCERT 'trying' to retrieve sold copies of now-withdrawn class 8 textbook",
+    "desc": "NCERT is recalling 38 copies of a Class 8 textbook after the Supreme Court strongly criticized its content on the judiciary. The Chief Justice of India took suo motu cognizance, calling the portrayal a \"deep-rooted conspiracy to defame\" the institution.",
+    "img": "https://static.toiimg.com/photo/msid-128801699,imgsize-743440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/after-sc-rap-ncert-trying-to-retrieve-sold-copies-of-now-withdrawn-class-8-textbook/articleshow/128801472.cms",
+    "time": "2026-02-26T04:04:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India hope batters improve against off-spinners in must-win game",
+    "desc": "India's opening pair, Abhishek Sharma and Ishan Kishan, have struggled significantly in the T20 World Cup, averaging a dismal 6.8. Abhishek's poor form, marked by consecutive ducks, is a major concern, while the middle order also faces challenges against off-spin. Batting coach Sitanshu Kotak remains confident in their ability to bounce back.",
+    "img": "https://static.toiimg.com/photo/msid-128801586,imgsize-88660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-zim-india-hope-batters-will-improve-show-against-off-spinners/articleshow/128801579.cms",
+    "time": "2026-02-26T03:55:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "JungKook makes SHOCKING confessions on broadcast",
+    "desc": "BTS star JungKook's unapproved live broadcast has fans buzzing. He candidly discussed his smoking habits, admitting to trying to quit, and revealed he doesn't typically listen to music. JungKook also hinted at feeling restricted by his company, expressing a desire for honesty with fans and sparking speculation about his personal life.",
+    "img": "https://static.toiimg.com/photo/msid-128800971,imgsize-42596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/jungkooks-shocking-confessions-in-live-broadcast-admits-to-smoking-not-listening-to-music-and-more/articleshow/128800666.cms",
+    "time": "2026-02-26T03:52:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay and Rashmika's wedding to follow a 'Primal' theme",
+    "desc": "Udaipur is alive with celebration as Vijay Deverakonda and Rashmika Mandanna exchange vows today in a unique two-part wedding that beautifully blends their cultural roots. Inspired by a 'primal' theme, the ceremonies lean into earthy, old-world elegance with heartfelt, traditional rituals. The multi-day festivities began on February 24th, culminating in a star-studded reception in Hyderabad on March 4th. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128801456,imgsize-183082.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-and-rashmika-mandannas-wedding-to-revive-traditional-elegance-with-a-primal-theme-report/articleshow/128801456.cms",
+    "time": "2026-02-26T03:50:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "A ‘Blessing’ India can’t overlook",
+    "desc": "India faces a crucial T20 World Cup match against Zimbabwe. Zimbabwe's tall fast bowler Blessing Muzarabani is a key player. He has taken many wickets and performed well in tough bowling spells. His height and skill make him a difficult opponent. India's batters must be careful against him. His team believes he has overcome injury to perform strongly.",
+    "img": "https://static.toiimg.com/photo/msid-128801218,imgsize-50576.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-zimbabwe-a-blessing-india-cant-overlook/articleshow/128801236.cms",
+    "time": "2026-02-26T03:35:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Daniel Radcliffe seeks new cast details to cheer ‘Harry Potter’ TV trio",
+    "desc": "Original Harry Potter star Daniel Radcliffe has reached out to the new cast of the upcoming HBO series, seeking their contact details to offer personal congratulations. He expressed a desire to support Dominic McLaughlin, Arabella Stanton, and Alastair Stout as they step into the iconic roles, urging the media to let them forge their own paths.",
+    "img": "https://static.toiimg.com/photo/msid-128800987,imgsize-535111.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/daniel-radcliffe-reaches-out-to-congratulate-new-harry-potter-series-stars-backs-fresh-hogwarts-era/articleshow/128800946.cms",
+    "time": "2026-02-26T03:20:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taapsee questions casting choices of directors; 'Why take...'",
+    "desc": "Following her film 'Assi's' release, Taapsee Pannu voiced concerns about directors repeatedly casting the same actors. She revealed she tells filmmakers she's open to non-leading roles and wants to explore lighter characters. Pannu questioned why directors stick to familiar faces, arguing it limits experimentation and prevents actors from offering fresh perspectives.",
+    "img": "https://static.toiimg.com/photo/msid-128800714,imgsize-49744.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/taapsee-pannu-questions-casting-choices-of-directors-saying-why-would-you-want-to-take-the-same-faces-for-same-roles/articleshow/128800714.cms",
+    "time": "2026-02-26T03:08:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan semi-final scenario: What Sri Lanka exit means for their chances",
+    "desc": "New Zealand's decisive win over Sri Lanka has eliminated the co-hosts from the T20 World Cup. This result, however, keeps Pakistan's semi-final hopes alive. The final qualification spot from Group 2 now hinges on the England versus New Zealand match, with Pakistan needing a significant victory in their final game to potentially advance.",
+    "img": "https://static.toiimg.com/photo/msid-128800770,imgsize-201552.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-semi-final-scenario-what-sri-lanka-exit-means-for-their-chances/articleshow/128800674.cms",
+    "time": "2026-02-26T03:08:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Canada signals shift, says India not linked to violent crimes anymore",
+    "desc": "Canada now believes India is not linked to violent crimes on its soil, signaling a diplomatic thaw ahead of Prime Minister Mark Carney's visit. This shift follows months of strained ties and high-level security dialogue, with Ottawa confident alleged activities are no longer continuing. The visit aims to stabilize relations and expand cooperation in various sectors.",
+    "img": "https://static.toiimg.com/photo/msid-128801260,imgsize-528763.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/that-activity-is-not-continuing-canada-says-india-not-linked-to-violent-crimes-anymore/articleshow/128800311.cms",
+    "time": "2026-02-26T03:04:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sean 'Diddy' Combs could be the key witness in Tupac murder trial",
+    "desc": "In the looming court battle surrounding Tupac Shakur’s 1996 murder, Sean 'Diddy' Combs is emerging as a potentially central witness. Duane 'Keefe D' Davis, who faces charges in the case, argues that Combs can help prove his innocence.",
+    "img": "https://static.toiimg.com/photo/msid-128800618,imgsize-64968.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/tupac-shakur-murder-trial-sean-diddy-combs-could-be-the-key-witness-says-duane-davis-lawyer-/articleshow/128800618.cms",
+    "time": "2026-02-26T03:03:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock recommendations for February 26, 2026",
+    "desc": "Tata Motors Passenger Vehicles, Colgate-Palmolive (India), and JSW Steel are the top stock picks that Aakash K Hindocha, Deputy Vice President - WM Research of Nuvama Professional Clients Group has listed. He also shares his outlook for Nifty, and Bank Nifty for February 26, 2026:",
+    "img": "https://static.toiimg.com/photo/msid-128800556,imgsize-77164.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-february-26-2026-tata-motors-passenger-vehicles-colgate-palmolive-jsw-steel-best-stocks-to-buy-today/articleshow/128800453.cms",
+    "time": "2026-02-26T02:58:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir pays a second visit to Salim Khan in the hospital",
+    "desc": "Veteran screenwriter Salim Khan, father of Salman Khan, remains hospitalized at Lilavati Hospital after suffering a brain stroke and is under close observation. Late at night, Aamir Khan was seen visiting him for the second time. A video showed the actor arriving quietly, dressed simply and appearing concerned as he checked on the veteran's health.",
+    "img": "https://static.toiimg.com/photo/msid-128800160,imgsize-138530.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-pays-a-visit-to-salim-khan-in-hospital-for-the-second-time-looks-concerned-watch/articleshow/128800160.cms",
+    "time": "2026-02-26T02:38:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After the Ahmedabad blip, India have no room to slip up",
+    "desc": "India are up against an opposition - Zimbabwe - that already silenced a home crowd in the group stages when they beat Sri Lanka in Colombo, and Thursday presents them another opportunity to replicate that success at the noisy Chepauk. Both teams find themselves in a must-win situation and Zimbabwe's Ryan Burl didn't venture into the \"dangerous\" territory of silencing India in India.",
+    "img": "https://static.toiimg.com/photo/msid-128789854,imgsize-34176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-india-have-no-room-to-slip-after-the-ahmedabad-blip/articleshow/128789854.cms",
+    "time": "2026-02-26T02:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'KHxRK' team proves no AI involvement in promo",
+    "desc": "The highly anticipated film KHxRK, reuniting Rajinikanth and Kamal Haasan after four decades, has released a behind-the-scenes video to quell AI-generated model speculation. The footage confirms real actresses were used, delighting fans. Meanwhile, veteran actor Mammootty is reportedly in talks for a significant guest role, adding further star power to the project.",
+    "img": "https://static.toiimg.com/photo/msid-128799960,imgsize-92594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/khxrk-team-proves-promo-is-live-action-confirms-no-ai-involvement-releases-bts-from-kamal-haasan-and-rajinikanth-starrer/articleshow/128799960.cms",
+    "time": "2026-02-26T02:24:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All you need to know about ‘Fast Forever’",
+    "desc": "The iconic Fast and Furious saga is concluding with 'Fast Forever,' slated for March 17, 2028. This two-part finale follows 'Fast X,' which ended with numerous cliffhangers, including character sacrifices and shocking resurrections. Despite budget constraints and box office performance of recent installments, the franchise is set for its grand send-off.",
+    "img": "https://static.toiimg.com/photo/msid-128799959,imgsize-63078.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/all-you-need-to-know-about-the-final-fast-and-furious-franchise-film-titled-fast-forever/articleshow/128799959.cms",
+    "time": "2026-02-26T02:19:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Son participates in Hindu and Muslim rituals",
+    "desc": "Music composer Ismail Darbar revealed his son, Imaan, is raised to respect all faiths, participating in both Hindu and Muslim rituals with dual names. He also spoke about his second marriage to Ayesha, crediting her unwavering support through challenging career phases, even quoting Sanjay Leela Bhansali's praise for his wife's role in his survival.",
+    "img": "https://static.toiimg.com/photo/msid-128799797,imgsize-112238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ismail-darbar-opens-up-about-interfaith-family-says-son-participates-in-hindu-and-muslim-rituals/articleshow/128799757.cms",
+    "time": "2026-02-26T02:10:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Industry’ renewed for a fifth and final season",
+    "desc": "The finance drama 'Industry' is renewed for a fifth and final season on HBO and Max, concluding its run after a significant viewership increase in season four. Creators Mickey Down and Konrad Kay expressed gratitude for the opportunity to end the series on a high note, highlighting its exploration of ambition, excess, and power plays.",
+    "img": "https://static.toiimg.com/photo/msid-128799707,imgsize-503687.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/industry-renewed-for-fifth-and-final-season-with-creators-promising-a-powerful-farewell/articleshow/128799710.cms",
+    "time": "2026-02-26T02:00:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Korean hip-hop star Artisan Beats passes away at 47",
     "desc": "Artisan Beats, born Seo Jae-min and widely regarded as a trailblazer of Korean hip-hop, has died at the age of 47. A pivotal member of Bulhandang Crew and Da Crew, he helped shape the genre’s early sound as both an artist and producer.",
     "img": "https://static.toiimg.com/photo/msid-128799466,imgsize-83444.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/first-generation-korean-hip-hop-star-artisan-beats-passes-away-at-47/articleshow/128799466.cms",
     "time": "2026-02-26T01:43:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Pakistan and the Board of Peace",
+    "desc": "Its initial support and verbal commitment to reconstruction efforts can be seen as a move to be on the right side of the Trump administration, but when faced with concrete demand for troops, Islamabad has opted for caution",
+    "img": "https://th-i.thgim.com/public/incoming/ynfx2w/article70677133.ece/alternates/LANDSCAPE_1200/Switzerland_Davos_Trump_16862.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/opinion/op-ed/pakistan-and-the-board-of-peace/article70677130.ece",
+    "time": "2026-02-26T01:27:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -54,24 +243,6 @@ const newsData_en = [
     "time": "2026-02-26T00:57:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When and where to watch ‘Bridgerton’ season 4, part 2",
-    "desc": "Dearest gentle reader, the wait for the social event of the season is finally over. After a month of feverish speculation and pining for our \"Lady in Silver,\" Bridgerton Season 4, Part 2 officially arrives on Netflix today, February 26, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-128798801,imgsize-63756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-4-part-2-updates-here-is-all-you-need-to-know-about-the-final-episodes/articleshow/128798801.cms",
-    "time": "2026-02-26T00:50:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'KH x RK': Mammootty likely to join",
-    "desc": "The upcoming KH x RK Reunion, directed by Nelson Dilipkumar, is shaping into Tamil cinema’s biggest collaboration as Rajinikanth and Kamal Haasan reunite after decades. Filming is expected to start only by late 2026 or early 2027 once both complete their current commitments, including Rajinikanth’s Thalaivar 173. Major buzz now surrounds Mammootty, who has reportedly been approached for a guest role as an old gangster friend of Kamal’s character. If confirmed, the film will mark rare on-screen combinations and one of the industry’s most historic multistarers.",
-    "img": "https://static.toiimg.com/photo/msid-128798760,imgsize-120932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/nelson-dilipkumars-vision-expands-for-kh-x-rk-mammootty-likely-to-join-rajinikanth-kamal-haasan-align-schedules/articleshow/128798760.cms",
-    "time": "2026-02-26T00:47:04.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "PM Modi becomes first world leader to cross 100 million Instagram followers",
     "desc": "Prime Minister Narendra Modi has achieved a historic milestone. He is now the first world leader to surpass 100 million followers on Instagram. This achievement highlights his significant global digital reach. Modi's follower count far exceeds other prominent world leaders. His popularity continues to grow worldwide.",
@@ -81,51 +252,6 @@ const newsData_en = [
     "time": "2026-02-26T00:42:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Oliver Grant passes away at 52",
-    "desc": "The hip-hop world is mourning the loss of a foundational visionary following reports that Oliver \"Power\" Grant, the business mastermind behind the Wu-Tang Clan, has passed away at the age of 52. Though not a performing member of the group, Grant was often described as the \"financial architect\" of the Wu-Tang empire.",
-    "img": "https://static.toiimg.com/photo/msid-128798610,imgsize-91366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/wu-tang-clans-oliver-power-grant-passes-away-at-52-report/articleshow/128798610.cms",
-    "time": "2026-02-26T00:33:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' inside report: Vijay's film is politically charged",
-    "desc": "Vijay's highly anticipated film, 'Jana Nayagan,' faces censor board hurdles due to its strong political messaging. The Revising Committee flagged its intense political flavor, aligning with Vijay's political aspirations. Producers are now considering a June 18 release, strategically timed near his birthday, after initial delays.",
-    "img": "https://static.toiimg.com/photo/msid-128798599,imgsize-83918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-update-vijays-film-is-politically-charged-inside-reports-hint-blockbuster/articleshow/128798599.cms",
-    "time": "2026-02-26T00:26:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "June Squibb joins ‘Yellowjackets’ for explosive final season showdown, all we know",
-    "desc": "Veteran actress June Squibb, 96, is joining the final season of 'Yellowjackets' in an undisclosed role, adding star power to the acclaimed survival thriller. The series, which follows a soccer team's harrowing ordeal after a plane crash, is gearing up for its emotional conclusion. Molly Ringwald also joins the cast, promising a compelling send-off for the show.",
-    "img": "https://static.toiimg.com/photo/msid-128798626,imgsize-1350518.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/92-year-old-june-squibb-joins-yellowjackets-for-explosive-final-season-showdown-all-we-know/articleshow/128798627.cms",
-    "time": "2026-02-26T00:26:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'O'Romeo' goes BEYOND Rs 94 crore worldwide on Day 12",
-    "desc": "Though Shahid Kapoor’s acclaimed performance in 'O' Romeo' impressed critics, the film struggled to connect with mass audiences, which hurt its box office run. Its earnings stand at Rs 60.25 crore in India and Rs 94.45 crore globally. Director Vishal Bhardwaj, however, maintains that the movie is a success and says he is deeply proud of what the team created.",
-    "img": "https://static.toiimg.com/photo/msid-128798448,imgsize-131476.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/oromeo-box-office-collection-day-13-shahid-kapoor-and-triptii-dimri-starrer-goes-beyond-rs-94-crore-worldwide/articleshow/128798448.cms",
-    "time": "2026-02-26T00:17:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mary Cosby’s son Robert Cosby Jr. passes away at 23",
-    "desc": "Robert Cosby Jr., the son of Mary Cosby of 'The Real Housewives of Salt Lake City' has passed away. He was just 23. Although an official cause of death is still unknown, TMZ reports that authorities acknowledged that they initially responded to a 'possible overdose'",
-    "img": "https://static.toiimg.com/photo/msid-128798408,imgsize-84068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mary-cosbys-son-robert-cosby-jr-passes-away-at-23-in-suspected-overdose/articleshow/128798165.cms",
-    "time": "2026-02-26T00:06:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sanju Samson all set to feature in India’s must-win clash vs Zimbabwe",
     "desc": "Defending champions India are considering changes to their opening partnership for a crucial Super Eights match against Zimbabwe. With qualification on the line after a loss to South Africa, wicketkeeper-batter Sanju Samson is a potential option to address struggles at the top of the order, particularly Abhishek Sharma's lean run.",
@@ -133,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sanju-samson-all-set-to-feature-in-indias-must-win-clash-vs-zimbabwe/articleshow/128785109.cms",
     "time": "2026-02-25T23:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Love Story' star Paul Anthony Kelly welcomes first child",
-    "desc": "'Love Story' star Paul Anthony Kelly has welcomed his first child with wife Syd Widziszewski-Kelly. The actor broke the news on 'The Kelly Clarkson Show'. The news of the baby's arrival comes three years after the couple tied the knot.",
-    "img": "https://static.toiimg.com/photo/msid-128798083,imgsize-71408.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/paul-anthony-kelly-welcomes-first-child-with-wife-syd-widziszewski-kelly/articleshow/128797903.cms",
-    "time": "2026-02-25T23:22:59.000Z"
   },
   {
     "cat": "Politics",
@@ -225,16 +342,7 @@ const newsData_en = [
     "time": "2026-02-25T22:11:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Students question Rajpal Yadav's silence, actor responds",
-    "desc": "Around 40 students from a gurukul school in Uttar Pradesh’s Shahjahanpur district have expressed disappointment after comedian-actor Rajpal Yadav did not meet or respond to them — despite their earlier gesture of sending him money collected from their pocket savings while he was in jail.",
-    "img": "https://static.toiimg.com/photo/msid-128795002,imgsize-58434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/we-are-upset-with-you-gurukul-students-question-rajpal-yadavs-silence-after-sending-piggy-bank-money-during-jail-term-actor-responds/articleshow/128795002.cms",
-    "time": "2026-02-25T21:22:56.000Z"
-  },
-  {
-    "cat": "Politics",
+    "cat": "Tech",
     "title": "SIM-binding directions for platforms to stay: Minister",
     "desc": "The November 2025 order, due for compliance this month, will not be extended, says Communications Minister. He says ‘national security’ and ‘fraud’ were considered in issuing this order, which WhatsApp parent Meta has pushed back on through industry associations.",
     "img": "https://th-i.thgim.com/public/incoming/48wfes/article70677009.ece/alternates/LANDSCAPE_1200/TH24-Aroon-WhatGCDFKPO1G.3.jpg.jpg",
@@ -259,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/day-2-of-defsat-conference-witnesses-6-mous-exchanges-among-space-companies/articleshow/128794767.cms",
     "time": "2026-02-25T20:48:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'I’ve frozen my eggs, I don’t need marriage'",
-    "desc": "Daisy Shah, who made her Bollywood debut opposite Salman Khan in Jai Ho, is clear about one thing — marriage is not on her radar. At 41, Daisy says she prefers staying single and does not feel the need for a man in her life.",
-    "img": "https://static.toiimg.com/photo/msid-128794751,imgsize-66664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/daisy-shah-says-shes-happy-single-at-41-ive-frozen-my-eggs-i-dont-need-marriage-to-build-a-family/articleshow/128794751.cms",
-    "time": "2026-02-25T20:48:53.000Z"
   },
   {
     "cat": "Politics",
@@ -304,24 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ladakh-plans-to-make-changthang-pashmina-products-global-brands/articleshow/128793789.cms",
     "time": "2026-02-25T19:38:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "After Dharmendra’s BAFTA tribute, Hema dismisses family rift",
-    "desc": "Even as the family continues to mourn the loss of Dharmendra, speculation around equations within the extended family refuses to die down. But Hema Malini firmly shuts down any rumours of discord. Referring to daughters Esha Deol and Ahana Deol and Dharmendra’s other children — Sunny Deol and Bobby Deol, Hema said there is no negativity within the family.",
-    "img": "https://static.toiimg.com/photo/msid-128793684,imgsize-134010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-dharmendras-bafta-tribute-hema-malini-sets-record-straight-on-sunny-deol-bobby-deol-esha-deol-ahana-deol-there-is-no-negativity-at-all/articleshow/128793684.cms",
-    "time": "2026-02-25T19:34:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ministers to present Modi 3.0 reforms at next Cabinet meet",
-    "desc": "Cabinet ministers will personally present major reforms undertaken by their ministries since June 2024 in the upcoming meeting. This initiative aims to reduce compliance burdens and simplify rules for ease of living and business. Ministries are preparing two-page summaries of their most significant people-centric reforms for the presentation.",
-    "img": "https://static.toiimg.com/photo/msid-128793479,imgsize-167054.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ministers-to-present-modi-3-0-reforms-at-next-cabinet-meet/articleshow/128793487.cms",
-    "time": "2026-02-25T19:18:30.000Z"
   },
   {
     "cat": "Politics",
@@ -405,15 +486,6 @@ const newsData_en = [
     "time": "2026-02-25T17:46:25.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "No change in SIM-binding directions to platforms: Scindia",
-    "desc": "The November 2025 order, due for compliance this month, will not be extended, says Communications Minister. He says ‘national security’ and ‘fraud’ were considered in issuing this order, which WhatsApp parent Meta has pushed back on through industry associations.",
-    "img": "https://th-i.thgim.com/public/incoming/48wfes/article70677009.ece/alternates/LANDSCAPE_1200/TH24-Aroon-WhatGCDFKPO1G.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/no-change-in-sim-binding-directions-to-platforms-scindia/article70676102.ece",
-    "time": "2026-02-25T17:37:38.000Z"
-  },
-  {
     "cat": "World",
     "title": "At Knesset, PM Modi condemns October 7 attack ‘barbaric’, vows deeper ties",
     "desc": "Prime Minister Narendra Modi addressed the Knesset on February 25, where he received a rousing welcome from members of the Israeli Parliament. In his speech, Mr. Modi strongly condemned the October 7, 2023 terror attack carried out by Hamas, describing it as a “barbaric terrorist attack”.",
@@ -457,6 +529,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-leader-edappadi-k-palaniswami-calls-the-dmk-a-slave-of-the-congress/article70676494.ece",
     "time": "2026-02-25T17:11:45.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How are Indian firms training LLMs?",
+    "desc": "Why is training a Large Language Model on Indian soil with Indian capital a challenge? How has the IndiaAI Mission subsidised efforts to conduct training in India? Why is a Mixture of Experts (MoE) architecture inexpensive than other comparable models?",
+    "img": "https://th-i.thgim.com/public/incoming/d8gif8/article70676916.ece/alternates/LANDSCAPE_1200/PTI02_19_2026_000650B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/how-are-indian-firms-training-llms-explained/article70676898.ece",
+    "time": "2026-02-25T17:10:00.000Z"
   },
   {
     "cat": "Business",
@@ -594,15 +675,6 @@ const newsData_en = [
     "time": "2026-02-25T10:52:04.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Catch a falling diamond! Indians wants solitaires as price falls by 30%",
-    "desc": "Diamond prices have dropped significantly, making solitaires more affordable and boosting demand among consumers aged 28-40. This trend, driven by improved affordability and a shift towards investment purchases, has led to a 25% year-on-year sales surge in the solitaire segment. Younger buyers are increasingly opting for diamond-studded jewelry over gold due to high gold prices.",
-    "img": "https://static.toiimg.com/photo/msid-128778968,imgsize-2526519.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/catch-a-falling-diamond-indians-wants-solitaires-as-price-falls-by-30/articleshow/128777153.cms",
-    "time": "2026-02-25T10:45:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'You cannot talk in that manner': Hafeez and Saqlain locked in tense exchange – Watch",
     "desc": "Tempers flared on live TV as former Pakistan stars Saqlain Mushtaq and Mohammad Hafeez clashed over Mohammad Nawaz's all-round capabilities following a crucial Super 8 defeat. Pakistan's T20 World Cup hopes now hinge on their final match and favorable results, intensifying the debate about Nawaz's role as a batsman versus bowler.",
@@ -646,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/pleas-against-the-kerala-story-2-premature-misconceived-producer-tells-kerala-hc/article70674923.ece",
     "time": "2026-02-25T09:51:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Check rates of 18K, 22K, 24K gold in your city; Delhi, Bangalore and more",
-    "desc": "Gold futures surged by Rs 1,322 to Rs 1,61,291 per 10 grams on Wednesday, fueled by fresh speculator buying and strong physical market demand. Overseas markets also saw gold prices climb. The article details current gold rates per gram for 24K, 22K, and 18K in major Indian cities.",
-    "img": "https://static.toiimg.com/photo/msid-128777251,imgsize-88012.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-check-rates-of-18k-22k-24k-gold-in-your-city-delhi-bangalore-and-more/articleshow/128774853.cms",
-    "time": "2026-02-25T09:48:28.000Z"
   },
   {
     "cat": "Sports",
@@ -765,33 +828,6 @@ const newsData_en = [
     "time": "2026-02-25T05:08:25.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Late-entrant’ Abhishek Sharma looks to regain form",
-    "desc": "India's net sessions ahead of the crucial Zimbabwe game saw Rinku Singh's absence due to family reasons, while Suryakumar Yadav focused on range-hitting. Abhishek Sharma practiced bowling spin before batting, aiming to regain form. Sanju Samson's potential inclusion might see Washington Sundar sit out, with Ishan Kishan possibly moving to number three.",
-    "img": "https://static.toiimg.com/photo/msid-128769703,imgsize-77932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-zimbabwe-late-entrant-abhishek-sharma-looks-to-regain-form/articleshow/128769685.cms",
-    "time": "2026-02-25T04:18:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India eye reboot vs Zimbabwe after heavy loss to SA",
-    "desc": "Following a significant loss to South Africa, Team India faces Zimbabwe in a must-win match at Chepauk, needing a strong performance to boost morale and improve their net run rate. With key batters struggling, India hope for a dominant win while acknowledging external factors and Zimbabwe's inexperience in Indian conditions.",
-    "img": "https://static.toiimg.com/photo/msid-128769399,imgsize-189116.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/turnaround-time-india-eye-reboot-vs-zimbabwe-after-heavy-loss-to-south-africa/articleshow/128769360.cms",
-    "time": "2026-02-25T03:59:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How India can reignite their T20 World Cup campaign",
-    "desc": "Following a significant defeat to South Africa, India faces calls for tactical adjustments. Key recommendations include diversifying the left-heavy top order, recalling all-rounder Axar Patel for control, and refining the Powerplay batting approach. Rethinking Hardik Pandya's bowling role and adopting a focused mindset are also crucial for recovery.",
-    "img": "https://static.toiimg.com/photo/msid-128768785,imgsize-131510.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/blueprint-for-revival-how-india-can-reignite-their-t20-world-cup-campaign/articleshow/128768775.cms",
-    "time": "2026-02-25T03:20:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "The evolving nature of trade agreements",
     "desc": "U.S. President Donald Trump’s trade agreements create a new category within established international trade agreements. The fact, however, that these deals are not in accordance with the General Agreement on Tariffs and Trade and the World Trade Organization make them legally suspicious",
@@ -799,15 +835,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/the-evolving-nature-of-trade-agreements/article70672677.ece",
     "time": "2026-02-25T03:13:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's playing XI dilemma",
-    "desc": "Team Indian honed their skills in Chennai ahead of their crucial Zimbabwe clash, with batting combinations dominating discussions for the T20 World Cup Super Eight contest. Rinku Singh was the notable absentee from the session, leaving the camp due to a family emergency.",
-    "img": "https://static.toiimg.com/photo/msid-128759968,imgsize-573676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-indias-playing-xi-dilemma-more-of-the-same-or-sanju-samson/articleshow/128759681.cms",
-    "time": "2026-02-25T02:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -865,38 +892,11 @@ const newsData_en = [
   },
   {
     "cat": "World",
-    "title": "Former British envoy to U.S. Peter Mandelson arrested over Epstein links, released on bail",
-    "desc": "Mr. Mandelson, 72, was picked up by the Metropolitan Police in London on suspicion of misconduct in public office relating to the time he was a business envoy in the Gordon Brown-led Labour government and allegedly shared sensitive information with the late financier",
-    "img": "https://th-i.thgim.com/public/incoming/of6ijo/article70669605.ece/alternates/LANDSCAPE_1200/2026-02-24T000014Z_202470725_RC2URJA38AQU_RTRMADP_3_USA-EPSTEIN-BRITAIN-MANDELSON.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/uk-police-arrest-ex-envoy-peter-mandelson-in-epstein-case-released-on-bail/article70668632.ece",
-    "time": "2026-02-24T14:21:55.000Z"
-  },
-  {
-    "cat": "World",
     "title": "Mexico airport passengers recall chilling moments during cartel shooting",
     "desc": "Tourists and residents described scenes of panic at airports and on the streets of western Mexico on Monday (February 23), after violence erupted across Jalisco state following the death of cartel leader Nemesio “El Mencho” Oseguera.",
     "img": "https://th-i.thgim.com/public/incoming/owa1fl/article70670810.ece/alternates/LANDSCAPE_1200/mexico1.png",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-mexico-airport-passengers-recall-chilling-moments-during-cartel-shooting/article70670808.ece",
     "time": "2026-02-24T10:26:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC announces full fixtures for Women’s T20 World Cup 2026",
-    "desc": "The 10th edition of the competition will take place from June 12 to July 5 this year, with 12 teams vying for the title in what is the biggest field in the tournament’s history so far",
-    "img": "https://th-i.thgim.com/public/incoming/ygtbny/article70670690.ece/alternates/LANDSCAPE_1200/GettyImages-2179902518.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/icc-announces-full-fixtures-for-womens-t20-world-cup-2026/article70670596.ece",
-    "time": "2026-02-24T10:06:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The Kamal Haasan–Rajinikanth reunion film: Is Nelson the right choice?",
-    "desc": "The promo of the KH x RK reunion film has turned heads. The film has music scored by Anirudh and cinematography by Rajiv Menon. But is director Nelson the best creative choice for this massive project? We debate",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/ndm2vy/article70666391.ece/alternates/LANDSCAPE_1200/Nelson%20Kamal%20Haasan%20Rajinikanth.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/kh-x-rk-kamal-haasan-rajinikanth-nelson-anirudh-ravichander-rajiv-menon/article70666290.ece",
-    "time": "2026-02-24T06:03:17.000Z"
   }
 ];

@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "সঞ্জু স্যামসন নয় ! জিম্বাবোয়ের বিরুদ্ধে খেলবে এই ৩২ বছরের অলরাউন্ডার, তিনিই হতে পারেন টিম ইন্ডিয়ার ‘ট্রাম্প কার্ড’",
+    "desc": "জিম্বাবোয়ের বিরুদ্ধে হারলে কোণঠাসা হয়ে পড়বে টিম ইন্ডিয়া। সে ক্ষেত্রে সেমিফাইনালের দৌড় থেকে ছিটকে না গেলেও তাকিয়ে থাকতে হবে অন্য ম্যাচের ফলের দিকে। থাকবে নেট রানরেটের অঙ্কও। গৌতম গম্ভীর আজ দলে একাধিক বদলও করতে পারেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/India-vs-Zimbabwe-T20-World-Cup-Axar-Patel-2026-02-412b67e5613b7e464aecf8b4ee16ffce-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/ind-vs-zim-icc-t20-world-cup-super-8-ravi-shastri-wants-axar-patel-in-playing-11-biggest-match-winner-of-indian-team-ss-2558526.html",
+    "time": "2026-02-26T04:35:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পিএনবি-র RD স্কিম প্রতি মাসে কত টাকা রাখলে পেয়ে যাবেন ১০ লাখ টাকা ? হিসেব চমকে দেবে",
+    "desc": "পিএনবি-র RD স্কিমে নিয়মিত মাসিক বিনিয়োগ করে সহজেই ১০ লাখ টাকার ফান্ড তৈরি করা সম্ভব। ১ বছর থেকে ১০ বছর পর্যন্ত বিভিন্ন মেয়াদের জন্য কত টাকা জমা রাখতে হবে, তার বিস্তারিত হিসেব জেনে নিন এখানে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/PNB-33-NEW-2026-02-7208a6384fd19c7a8c3b7cb6161fd18d-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/how-much-to-invest-monthly-in-pnb-rd-to-get-rupees-10-lakh-the-calculation-will-surprise-you-dc-2558441.html",
+    "time": "2026-02-26T03:38:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পঞ্জাব ন্যাশনাল ব্যাঙ্কের গ্রাহকদের জন্য বড় সুখবর ! এবার এই FD-তে মিলবে সবচেয়ে বেশি রিটার্ন",
+    "desc": "পঞ্জাব ন্যাশনাল ব্যাঙ্কের ৪৪৪ দিনের বিশেষ FD স্কিম এখন বিনিয়োগকারীদের জন্য বড় আকর্ষণ। সাধারণ গ্রাহক থেকে শুরু করে সিনিয়র ও সুপার সিনিয়র নাগরিকদের জন্য মিলছে উচ্চ সুদের হার। নিরাপদ বিনিয়োগে বেশি রিটার্ন চাইলে জেনে নিন সম্পূর্ণ তথ্য।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/pnb-43-2026-02-77fadd07c4bbf35d472a29280185f293-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/big-relief-for-pnb-customers-punjab-national-bank-offers-highest-interest-on-444-day-fd-scheme-dc-2558359.html",
+    "time": "2026-02-26T03:10:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ইঁদুর মারার বিষ মাখানো ফল বিক্রি! ক্রেতার ক্যামেরায় এই ভিডিও ভাইরাল হতেই গ্রেফতার মুম্বইয়ের ২ ফল বিক্রেতা",
+    "desc": "ফল বিক্রেতারা আমের মতো ফলের উপরিভাগে অবৈধভাবে ইঁদুরের বিষ রাতোল প্রয়োগ করতে পারে, যাতে পোকামাকড় তাড়ানো যায় বা ফল পাকানো যায়। বুধবার ঘটনাটি প্রকাশ্যে আসে যখন মালাডের পুলিশ স্থানীয় এক বাসিন্দার অভিযোগের ভিত্তিতে ভিডিও প্রমাণ সহ ব্যবস্থা নেয়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/New-Project-82-2026-02-fc6ab2a4b06331f71c01ada1192f6714-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/mumbai-fruit-sellers-arrested-for-selling-rat-poison-applied-fruits-on-camera-arc-2558301.html",
+    "time": "2026-02-26T02:45:52.000Z"
+  },
+  {
     "cat": "World",
     "title": "ইজরায়েলের সংসদে কী বললেন মোদি? দেখুন ভিডিও",
     "desc": "ইজরায়েলের সংসদে দাঁড়িয়ে সন্ত্রাসবাদের বিরুদ্ধে দৃঢ় বার্তা দিলেন প্রধানমন্ত্রী নরেন্দ্র মোদি৷ জানিয়ে দিলেন, সন্ত্রাসবাদের বিরুদ্ধে লড়াইয়ে ইজরায়েলের পাশে রয়েছে ভারত৷ প্রধানমন্ত্রী বলেন, '২০২৩ সালের অক্টোবরের ৭ তারিখে হামাসের সন্ত্রাসবাদী হামলায় যাঁরা প্রাণ হারিয়েছেন এবং যে পরিবারগুলি ধ্বংস হয়ে গিয়েছে, তাঁদের প্রতি ভারতবাসীর পক্ষে থেকে গভীর সমবেদনা জানাচ্ছি৷ আমরা আপনাদের যন্ত্রণা বুঝতে পারছি৷ আমরা আপনাদের শোকের ভাগ নিতে পারি৷ ভারত দৃঢ় ভাবে ইজরায়েলের পাশে আছে এবং ভবিষ্যতেও থাকবে৷'",
@@ -862,41 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/salman-khan-rushes-to-lilavati-hospital-after-father-salim-khan-is-admitted-fans-wish-speedy-recovery-rds-2544503.html",
     "time": "2026-02-17T09:52:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "লক্ষ্মীর ভাণ্ডার, যুবসাথী প্রকল্পে বড় আপডেট...! শুরু বাড়ির সামনেই ক্যাম্প! জেনে নিন কোথায়, কখন, কীভাবে করবেন আবেদন?",
-    "desc": "সরকারি ঘোষণা অনুযায়ী, এই ক্যাম্পগুলি প্রতিদিন সকাল ১০টা থেকে বিকেল ৫টা পর্যন্ত খোলা থাকবে। তবে একটি বিষয় লক্ষণীয় যে, ১৫ ফেব্রুয়ারি সরকারি ছুটির দিন হওয়ায় ব্যবহারিক ক্ষেত্রে ১৬ই ফেব্রুয়ারি থেকে পুরোদমে ফর্ম জমা নেওয়ার কাজ শুরু। সরকারি ছুটির দিন বাদে বাকি দিনগুলিতে এই পরিষেবা সচল থাকবে। কী কী নথি লাগবে? আপনার এলাকা অনুযায়ী কোথায় গেলে চট করে করে ফেলা যায় সব সহজে? এই বিষয়ে সব জেনে নিতে দেখে নিন এই বিস্তারিত প্রতিবেদনটি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj-mamata-2026-02-2f8b3c8e41ded347c18bcdd7c61520b0-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/west-bengal/lakshmir-bhandar-scheme-2026-big-update-on-lakshmi-bhandar-yubasathi-project-camp-is-starting-in-front-of-your-house-find-out-where-when-how-to-apply-sanj-2544330.html",
-    "time": "2026-02-17T07:57:05.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "‘নেপাল, ভুটান, এবং...’: বাংলাদেশের অর্থনীতি বোঝাতে জুড়লেন ‘সেভেন সিস্টার্স’-কে !",
-    "desc": "আন্তর্জাতিক বাণিজ্যের ক্ষেত্রে বাংলাদেশের গুরুত্ব বোঝাতে গিয়ে উত্তরপূর্ব ভারতের সেভেন সিস্টার্সের কথা টেনে আনেন ইউনূস। বিদায়ী ভাষণে তিনি বলেন, ‘‘আমাদের সমুদ্র কেবল ভৌগোলিক সীমারেখা নয়— এটি বাংলাদেশের জন্য বিশ্ব অর্থনীতির সঙ্গে যুক্ত হওয়ার খোলা দরজা। নেপাল, ভুটান এবং সেভেন সিস্টার্স্‌কে নিয়ে এই অঞ্চলে অর্থনৈতিক সমৃদ্ধির বিশাল সম্ভাবনা রয়েছে।’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Muhammad-Yunus-Speech-on-Seven-Sisters-2026-02-8eda9a21c224d5f1dfdcc7a04b62f63e-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/muhammad-yunus-bangladesh-seven-sisters-nepal-bhutan-omitting-india-new-govt-formation-ss-aa-2544277.html",
-    "time": "2026-02-17T07:05:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "বিশ্বকাপের গ্রুপ পর্ব থেকেই কি বিদায় নেবে অস্ট্রেলিয়া ! জিম্বাবোয়ের জয় থেকে ভারত কীভাবে লাভবান হবে?",
-    "desc": "জিম্বাবোয়ে আর আয়ারল্যান্ডের লড়াই মঙ্গলবার, ১৭ ফেব্রুয়ারি পাল্লেকেলেতে হবে। এই ম্যাচে যদি জিম্বাবোয়ে টিম আয়ারল্যান্ডকে হারিয়ে দেয়, তাহলে অস্ট্রেলিয়ার টুর্নামেন্ট থেকে ছিটকে যাবে। এর সঙ্গে সঙ্গে টিম ইন্ডিয়ার জন্য টুর্নামেন্টে অস্ট্রেলিয়া নামের কাঁটা-ও সরে যাবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Zimbabwe-Helps-India-2026-02-521b7db2d932da43487930d56d400eea-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/super-8-equation-how-zimbabwe-victory-benefit-india-australia-had-major-hurdle-in-t20-world-cup-know-equation-ss-2544185.html",
-    "time": "2026-02-17T06:00:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘অ্যাক্সিডেন্ট নয়, এটা অপরাধ’! মর্মান্তিক মৃত্যু ২৩-এর যুবকের, দ্বারকার দুর্ঘটনায় কাঁদতে কাঁদতে বড় অভিযোগ তুললেন শোকস্তব্ধ মা",
-    "desc": "সম্প্রতি সর্বভারতীয় সংবাদসংস্থা ANI-কে দেওয়া সাক্ষাৎকারে মৃত যুবকের মা ইন্না মাকান কাঁদতে কাঁদতে জানান, এটি কোনও সাধারণ দুর্ঘটনা নয়, বরং “অপরাধমূলক কাজ৷ সাহিলের মায়ের আরও অভিযোগ, অভিযুক্তের বিরুদ্ধে আগেও একাধিকবার গতির সীমা লঙ্ঘনের অভিযোগ উঠেছে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Untitled-design-2026-02-17T110932.364-2026-02-568bbe2895b475aa6a6aa334eb20a442-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/mother-of-23-year-old-dwarka-crash-victim-seeks-justice-said-this-is-a-crime-not-an-accident-ank-2544248.html",
-    "time": "2026-02-17T05:40:03.000Z"
   }
 ];
