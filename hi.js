@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India's probable XI vs Zimbabwe: Sanju Samson IN, Rinku Singh OUT; What about Tilak Varma?",
+    "desc": "India are very likely to make multiple changes to the playing XI after a 76-run drubbing against South Africa. Sanju Samson, who was touted to open alongside Abhishek Sharma in the T20 World Cup, was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-s-probable-xi-vs-zimbabwe-sanju-samson-in-rinku-singh-out-what-about-tilak-varma-2026-02-26-1031745",
+    "time": "2026-02-26T06:28:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Chennai metro announce free rides for fans attending India vs Zimbabwe clash on February 26",
     "desc": "India set to host Zimbabwe on February 26 in their crucial T20 World Cup 2026 Super Eights clash at the MA Chidambaram Stadium in Chennai. Ahead of the marquee clash, Chennai city transport authorities have...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-weighs-in-on-team-india-s-selection-ahead-of-zimbabwe-clash-2026-02-25-1031672",
     "time": "2026-02-25T14:15:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand defeat Sri Lanka by 61 runs",
-    "desc": "The stage is set for game 46 of the ongoing T20 World Cup 2026, Sri Lanka takes on New Zealand at the R. Premadasa Stadium in Colombo, and the two sides gather in the Super...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sl-vs-nz-t20-world-cup-2026-super-eight-live-cricket-score-new-zealand-set-to-bat-sri-lanka-win-the-toss-2026-02-25-1031664",
-    "time": "2026-02-25T13:18:10.000Z"
   }
 ];
