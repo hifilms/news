@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Hope departs after cracking start, Hetmyer joins King",
+    "desc": "South Africa have won the toss and elected to field first at the Narendra Modi Stadium in Ahmedabad. The Aiden Markram-led side are playing with the same winning combination that defeated India by 71 runs in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-vs-south-africa-live-cricket-score-wi-vs-sa-t20-world-cup-super-8-match-today-commentary-updates-narendra-modi-stadium-aiden-markram-1031760",
+    "time": "2026-02-26T08:16:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Paras Dogra fined 50% of match fee for headbutt incident in Ranji Trophy final",
+    "desc": "A simmering contest in Hubli briefly spilled over into confrontation during the Ranji Trophy final, with Jammu and Kashmir skipper Paras Dogra set to lose 50 percent of his match fee following an altercation with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/paras-dogra-fined-50-of-match-fee-for-headbutt-incident-in-ranji-trophy-final-2026-02-26-1031750",
+    "time": "2026-02-26T07:21:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India's probable XI vs Zimbabwe: Sanju Samson IN, Rinku Singh OUT; What about Tilak Varma?",
     "desc": "India are very likely to make multiple changes to the playing XI after a 76-run drubbing against South Africa. Sanju Samson, who was touted to open alongside Abhishek Sharma in the T20 World Cup, was...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/arjun-tendulkar-saaniya-chandhok-celebrate-pre-wedding-festivities-in-jamnagar-watch-2026-02-25-1031687",
     "time": "2026-02-25T16:35:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at MA Chidambaram Stadium in Chennai play in T20 WC?",
-    "desc": "India and Zimbabwe are all set to lock horns in game 48 of the ongoing T20 World Cup 2026. The two sides will take on each other at the MA Chidambaram Stadium in Chennai on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-zim-pitch-report-how-will-surface-at-ma-chidambaram-stadium-in-chennai-play-in-t20-wc-2026-02-25-1031678",
-    "time": "2026-02-25T15:17:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Don't know what is going on': R Ashwin weighs in on team India's selection ahead of Zimbabwe clash",
-    "desc": "The Indian team is all set to take on Zimbabwe in their next game. The two sides will lock horns in game 48 of the ongoing T20 World Cup 2026 on February 26 at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-weighs-in-on-team-india-s-selection-ahead-of-zimbabwe-clash-2026-02-25-1031672",
-    "time": "2026-02-25T14:15:50.000Z"
   }
 ];
