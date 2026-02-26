@@ -1,7 +1,52 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Hope departs after cracking start, Hetmyer joins King",
+    "title": "South Africa thump West Indies in Ahmedabad, lift NRR weight off India's shoulders",
+    "desc": "The 47th game of the ongoing T20 World Cup 2026 saw South Africa taking on the West Indies. The two sides locked horns at the Narendra Modi Stadium in Ahmedabad on February 26. The clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-thump-west-indies-in-ahmedabad-lift-nrr-weight-off-india-s-shoulders-2026-02-26-1031811",
+    "time": "2026-02-26T12:46:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Romario Shepherd and Jason Holder create world record in T20 WC with 89-run partnership vs SA",
+    "desc": "West Indies and South Africa locked horns today in the Super 8 round of the T20 World Cup at the Narendra Modi Stadium in Ahmedabad. Both teams came into this clash with five consecutive wins...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wi-vs-sa-romario-shepherd-and-jason-holder-create-world-record-in-t20-wc-with-89-run-partnership-vs-sa-2026-02-26-1031790",
+    "time": "2026-02-26T11:38:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kagiso Rabada surpasses Dale Steyn in elite list with brilliant performance against the West Indies",
+    "desc": "Game 47 of the ongoing T20 World Cup 2026 saw South Africa taking on the West Indies. The two sides locked horns at the Narendra Modi Stadium in Ahmedabad on February 26, and the clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kagiso-rabada-surpasses-dale-steyn-in-elite-list-with-brilliant-performance-against-the-west-indies-2026-02-26-1031789",
+    "time": "2026-02-26T11:21:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "First time in 24 years! India to face Zimbabwe at home in do or die clash in Chennai",
+    "desc": "India will face Zimbabwe today in their next Super 8 clash of the T20 World Cup at the MA Chidambaram Stadium in Chennai. This is a must-win clash for both teams, having lost their previous...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-zim-first-time-in-24-years-india-to-face-zimbabwe-at-home-in-do-or-die-clash-in-chennai-2026-02-26-1031781",
+    "time": "2026-02-26T10:57:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Donald Trump treats Winter Olympics heroes with double-stacked cheeseburgers, celebration video goes viral",
+    "desc": "A celebratory visit to the White House took an unmistakably casual turn when members of Team USA were treated to double-stacked cheeseburgers following their gold medal triumph at the Winter Olympics 2026 in Italy. Video of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/donald-trump-treats-winter-olympics-heroes-with-double-stacked-cheeseburgers-celebration-video-goes-viral-2026-02-26-1031772",
+    "time": "2026-02-26T09:48:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa dominate West Indies, register nine-wicket win",
     "desc": "South Africa have won the toss and elected to field first at the Narendra Modi Stadium in Ahmedabad. The Aiden Markram-led side are playing with the same winning combination that defeated India by 71 runs in...",
     "img": "",
     "src": "indiatvnews.com",
@@ -34,59 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/chennai-metro-announce-free-rides-for-fans-attending-india-vs-zimbabwe-clash-on-february-26-2026-02-26-1031729",
     "time": "2026-02-26T04:36:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Narendra Modi Stadium in Ahmedabad play in T20 World Cup?",
-    "desc": "The Super Eights match between West Indies and South Africa at the Narendra Modi Stadium in Ahmedabad will surely be tuned in by the Indian fans. The fans will cheer for the Proteas as a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wi-vs-sa-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-in-t20-world-cup-2026-02-26-1031724",
-    "time": "2026-02-26T03:33:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Umran Malik concedes 36 in over, 59 in two; worrying signs for KKR ahead of IPL 2026",
-    "desc": "Kolkata Knight Riders have suffered tremendously since the IPL 2026 auction. Pacer Mustafizur Rahman had to be released in accordance with BCCI guidelines, while Sri Lanka speedster Matheesha Pathirana suffered a calf injury during the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/umran-malik-concedes-36-in-over-59-in-two-worrying-signs-for-kkr-ahead-of-ipl-2026-2026-02-26-1031715",
-    "time": "2026-02-26T02:37:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dasun Shanaka calls out negativity in Sri Lanka cricket, asks government to step in to protect mental health",
-    "desc": "New Zealand crushed Sri Lanka by 61 runs in their second Super Eights clash at the R Premadasa Stadium in Colombo. With that, the Dasun Shanaka-led side is eliminated from the race to the semi-finals...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dasun-shanaka-calls-out-negativity-in-sri-lanka-cricket-asks-government-to-step-in-to-protect-mental-health-2026-02-26-1031713",
-    "time": "2026-02-26T02:05:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will rain spoil IND vs ZIM T20 World Cup 2026 Super Eight clash?",
-    "desc": "India and Zimbabwe lock horns in game 48 of the ongoing T20 World Cup 2026. The two sides will take on each other at the MA Chidambaram Stadium in Chennai on February 26. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/chennai-weather-report-will-rain-spoil-ind-vs-zim-t20-world-cup-2026-super-eight-clash-2026-02-25-1031697",
-    "time": "2026-02-25T18:13:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka crash out of T20 World Cup 2026, New Zealand register dominant win in Colombo",
-    "desc": "Game 46 of the ongoing T20 World Cup 2026 saw Sri Lanka taking on New Zealand. The two sides locked horns at the R. Premadasa Stadium in Colombo on February 25. The clash began with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-crash-out-of-t20-world-cup-2026-new-zealand-register-dominant-win-in-colombo-2026-02-25-1031689",
-    "time": "2026-02-25T17:02:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arjun Tendulkar, Saaniya Chandhok celebrate pre-wedding festivities in Jamnagar",
-    "desc": "Arjun Tendulkar and Saaniya Chadhok have captured all the limelight, as the couple were captured celebrating their pre-wedding festivities in Jamnagar. Arjun is expected to tie the knot with Saaniya in the early days of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arjun-tendulkar-saaniya-chandhok-celebrate-pre-wedding-festivities-in-jamnagar-watch-2026-02-25-1031687",
-    "time": "2026-02-25T16:35:21.000Z"
   }
 ];

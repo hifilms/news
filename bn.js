@@ -1,5 +1,50 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "'ইজরায়েলে' ভারতীয় ৫০ টাকার 'মূল্য' কত হবে জানেন...? 'উত্তর' শুনলেই চমকাবেন, শিওর!",
+    "desc": "আজই ইজরায়েলের প্রেসিডেন্টের সঙ্গে দীর্ঘ বৈঠক হয় প্রধানমন্ত্রী নরেন্দ্র মোদির। এই পরিস্থিতিতে দুদেশের মুদ্রা ফের একবার প্রাসঙ্গিক হয়ে উঠেছে। আচ্ছা বলুন তো কোন দেশের মুদ্রা তুলনামূলক ভাবে বেশি শক্তিশালী। এক ইজরায়েলি মুদ্রা ঠিক কতটা ভারতীয় মুদ্রার টাকার নিরিখে? চলুন আজ এই প্রতিবেদনে সোশ্যাল মিডিয়ায় আজ অত্যন্ত প্রাসঙ্গিক ও ট্রেন্ডিং এই দেশটির মুদ্রার গুরুত্ব জেনে নেওয়া যাক।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/israel-2026-02-99a0d187480c036b485475de2e382426-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-israeli-shekel-do-you-know-how-much-the-indian-50-rupee-note-is-worth-in-israel-you-will-be-shoched-to-hear-the-answer-for-sure-check-interesting-fact-sanj-2559211.html",
+    "time": "2026-02-26T12:37:22.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ফ্রি যুগের অবসান? হোয়াটসঅ্যাপ-ফেসবুক-ইনস্টাগ্রামে আসছে সাবস্ক্রিপশন! জানুন...",
+    "desc": "Meta Platforms WhatsApp, Facebook এবং Instagram–এ এআই পরিষেবার জন্য ফি নেওয়ার পরিকল্পনা করছে বলে জানা গেছে।তবে সাধারণ ও প্রয়োজনীয় ব্যবহার আগের মতোই বিনামূল্যে থাকতে পারে, আর উন্নত এআই ফিচারগুলির জন্য আলাদা করে অর্থ প্রদান করতে হতে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1772105890_social-media-2026-01-8faf6497ffde40c65c4f70d1c84910d7-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/now-charging-fees-to-use-whatsapp-facebook-instagram-meta-company-plans-smc-2559312.html",
+    "time": "2026-02-26T11:54:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "আগামিকাল রিলিজ নয় , দ্য কেরালা স্টোরি ২-র মুক্তিতে ১৫ দিনের স্থগিতাদেশ দিল কেরল হাইকোর্ট",
+    "desc": "টিজার প্রকাশের পর থেকেই বিতর্কে জড়িয়েছে এই ছবি। ছবিটি ২৭শে ফেব্রুয়ারি, অর্থাৎ আগামিকাল, প্রেক্ষাগৃহে মুক্তি পাওয়ার কথা ছিল৷ কিন্তু কেরল হাইকোর্টের নির্দেশে মুক্তি স্থগিত হয়েছে। কেরল হাইকোর্ট বিতর্কিত ছবিটির উপর ১৫ দিনের অন্তর্বর্তীকালীন স্থগিতাদেশ জারি করেছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/the-Kerala-story-2-2026-02-00b54d8cb0c58aa9682b1144e0cadb5f-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/the-kerala-story-2-not-to-release-on-27-february-the-kerala-high-court-directed-stays-for-15-days-says-cbfc-ignored-guidelines-pbd-2559254.html",
+    "time": "2026-02-26T11:36:03.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "৪ মার্চের অ্যাপল ইভেন্টে iPhone 17e থেকে শুরু করে আসতে পারে সস্তা MacBook, পাঁচটি নতুন পণ্য নিয়ে জেনে নিন",
+    "desc": "প্রযুক্তির দুনিয়ায় যা-ই হয়ে যাক না কেন, থেমে থাকলে চলে না। এই প্রযুক্তির দুনিয়া প্রতি মুহূর্তে বদলে বদলে যায় বললে খুব একটা ভুল বোধহয় হবে না, প্রতি পলেই চলে নতুন উদ্ভাবন নিয়ে পরীক্ষার পালা। না হলে প্রতিযোগী এবং নিজের পুরনো উদ্ভাবনের কাছেও নতি স্বীকার করে নিতে হয়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/iphone-17e-macbook-2026-02-1edaf74ae30d77df82d657ad1d1a4d53-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/apple-march-4-event-iphone-17e-macbook-ipad-accessories-launch-expected-sal-tc-aa-2555428.html",
+    "time": "2026-02-26T11:30:59.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "১ মার্চ, ২০২৬ থেকে OnePlus 15R সহ অনেক স্মার্টফোনের দাম বাড়তে পারে, দামে বিরাট উর্ধ্বগতি, AI ট্যাক্সের কারণে",
+    "desc": "OnePlus হয়তো তার সর্বশেষ স্মার্টফোন OnePlus 15R-এর দাম বাড়ানোর প্রস্তুতি নিচ্ছে। এই ফোনটি গত বছর ভারতে ৪৭,৯৯৯ টাকার প্রারম্ভিক মূল্যে লঞ্চ হয়েছিল এবং এর শক্তিশালী পারফরম্যান্স, বড় ব্যাটারি এবং চিত্তাকর্ষক ডিসপ্লের কারণে এটি বেশ জনপ্রিয়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/OnePlus-15R-2026-02-800b97f219dd2237f789328e026852b5-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/oneplus-15r-smartphone-price-hike-march-2026-ai-tax-india-sal-tc-aa-2558686.html",
+    "time": "2026-02-26T11:01:33.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "নিষিদ্ধ হল অষ্টম শ্রেণির বই! কড়া অবস্থান সুপ্রিম কোর্টের, কেন্দ্রকে তীব্র ভর্ৎসনায় শীর্ষ আদালত বলল...",
     "desc": "ক'দিন ধরেই চলছে এই বিতর্ক। NCERT-র অষ্টম শ্রেণির বইতে ভারতীয় বিচার ব্যবস্থার দুর্নীতি সংক্রান্ত একটি অধ্যায় পড়ানো নিয়ে এই বিতর্ক তৈরি হয়েছে। এ বিষয়ে স্বতঃপ্রণোদিত পদক্ষেপ করে খোদ সুপ্রিম কোর্ট! বিচলিত বোধ করেন স্বয়ং দেশের প্রধান বিচারপতি!",
@@ -10,7 +55,7 @@ const newsData_bn = [
   },
   {
     "cat": "Business",
-    "title": "ভেষজ-ঔষধি গুণে ঠাসা, দিন দিন বাড়ছে কদর! ডাটা নয়, সজনে ফুলেই এইভাবে লক্ষ টাকার আয় করছেন সুন্দরবনের যুবকরা",
+    "title": "ভেষজ-ঔষধি গুণে ঠাসা, দিন দিন বাড়ছে কদর! ডাটা নয়, সজনে ফুলেই এইভাবে লক্ষ টাকা আয় করছেন সুন্দরবনের যুবকরা",
     "desc": "সজিনা ফুল এখন আর কেবল ঘরোয়া সবজি নয়, এটি একটি বহুমুখী ওষধি সম্পদ। ডাটা হওয়ার আগেই ফুল সংগ্রহ করে বাজারে বিক্রি করলে মিলছে রেকর্ড পরিমাণ মুনাফা। কম পুঁজিতে ভেষজ ব্যবসার এই নতুন দিশা সম্পর্কে জেনে নিন।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/sajne-flower-business-2026-02-5022b5d281a2f8d67a79fca3d9130e5e-1200x800.jpg",
     "src": "news18.com",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/why-banks-rarely-accept-silver-as-collateral-and-prefer-gold-loans-instead-know-thw-actual-reason-sta-2543886.html",
     "time": "2026-02-18T03:43:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "দিনমজুরের বাড়িতে আচমকা হাজির আয়কর দফতরের আধিকারিকরা ! হাতে ধরালেন ১৭ কোটি ৪০ লক্ষ টাকার নোটিস !",
-    "desc": "ওই দিনমজুর শিবধনি লোকাল18-এর সঙ্গে কথা বলার সময় জানিয়েছেন যে, সোনভদ্রর ঘোরাওয়ালে ব্যাটারি লোডিং আর আনলোডিং-এর কাজ তিনি করতেন। মালিক তাঁদের বাড়ি থেকে নিয়ে গিয়েছিলেন আর ৮ বছর পর্যন্ত কাজ করিয়েছেন। সেখানে কাজ করার সময় মালিক তাঁদের বলেছিলেন যে বেতন অ্যাকাউন্টে আসবে ৷ এই কথা বলেই অ্যাকাউন্ট খুলিয়েছিলেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/MIrzapur-Labour-Income-Tax-Notice-2026-02-e130fe0e94e826e93c1543db70ef38fe-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/laborer-received-an-income-tax-notice-of-17-crore-rupees-shocked-to-know-the-story-al18-ss-local18-2545617.html",
-    "time": "2026-02-18T02:34:38.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "বাংলাদেশের প্রধানমন্ত্রী হিসেবে শপথ নিলেন তারেক রহমান! দেখুন ভিডিও",
-    "desc": "বাংলাদেশের প্রধানমন্ত্রী হিসেবে শপথ নিলেন তারেক রহমান৷ মঙ্গলবার ঢাকায় জাতীয় সংসদ ভবনে শপথ গ্রহণ করেন তারেক রহমান৷ তারেক রহমানকে শপথবাক্য পাঠ করান বাংলাদেশের রাষ্ট্রপতি মহম্মদ সাহাবুদ্দিন৷ তারেক রহমানের সঙ্গেই মন্ত্রিসভার বাকি সদস্য এবং প্রতিমন্ত্রীরাও শপথগ্রহণ করেন৷ তারেক রহমানের শপথগ্রহণ অনুষ্ঠানে হাজির ছিলেন বাংলাদেশের বিদায়ী অন্তর্বর্তী সরকারের প্রধান মহম্মদ ইউনূসও৷ ভারতের পক্ষে এই শপথগ্রহণ অনুষ্ঠানে হাজির ছিলেন লোকসভার অধ্যক্ষ ওম বিড়লা৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/tarique-rahman-oath-2026-02-e2153550d38c54e7a70b66ca22e9e376-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/international/tarique-rahman-takes-oath-as-new-prime-minister-of-bangladesh-after-massive-win-dmg-2545592.html",
-    "time": "2026-02-17T19:56:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "তারেক রহমানের নেতৃত্বে বাংলাদেশে দায়িত্ব নিল নতুন মন্ত্রিসভা! শপথ বয়কট বিরোধী জামাত এবং এনসিপির",
-    "desc": "বাংলাদেশে তারেক রহমানের নেতৃত্বে শপখ নিল নতুন মন্ত্রিসভা। মঙ্গলবার তারেক রহমান-সহ মোট ৫০ জন মন্ত্রী শপথ গ্রহণ করেন। এর মধ্যে ছিলেন ২৫ জন পূর্ণমন্ত্রী এবং ২৪ জন প্রতিমন্ত্রী। এই অনুষ্ঠানে শপথ নেয়নি জামাত এবং এনসিপি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Tarek-Rahman-2026-02-a742b6412efed45b7b25fc47f630fa6d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/tarek-rahman-takes-oath-as-prime-minister-of-bangladesh-along-with-49-cabinet-ministers-jamat-and-ncp-did-not-take-oath-rdp-2545010.html",
-    "time": "2026-02-17T12:45:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "জীবনের প্রথম বড় পরীক্ষায় অংশ নিলেন না বৈভব সূর্যবংশী, কারণটা কী?",
-    "desc": "ভারতীয় ক্রিকেটের ভবিষ্যৎ তারকা হিসেবে পরিচিত বৈভব সূর্যবংশী এবার দশম শ্রেণির বোর্ড পরীক্ষায় অংশ নেননি। ১৭ ফেব্রুয়ারি থেকে শুরু হওয়া সিবিএসই পরীক্ষায় তাঁর নাম নথিভুক্ত থাকলেও তিনি কেন্দ্রে উপস্থিত হননি, যা নিয়ে শিক্ষামহলে আলোচনা শুরু হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/07/Vaibhav-Suryavanshi-25-2025-07-48555742b31b7cada0a5235bebac7112-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/indian-u-19-cricketer-vaibhav-suryavanshi-not-appearing-for-the-cbse-class-10th-exam-sup-2544749.html",
-    "time": "2026-02-17T10:37:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman-Salim Khan:  ICU-তে ভর্তি সেলিম খান! তড়িঘড়ি হাসপাতালে ছুটলেন সলমন, আচমকা কী হল? উদ্বিগ্ন ভক্তরা",
-    "desc": "হাসপাতালে ভর্তি বলিউডের বিখ্যাত চিত্রনাট্যকার সেলিম খান৷ মুম্বইয়ের লীলাবতী হাসপাতালে তড়িঘড়ি ভর্তি করা হয়েছে সেলিম খানকে। সূত্রের খবর, ৯০ বছর বয়সী প্রবীণ শিল্পীকে সোমবার সকালে বান্দ্রার লীলাবতী হাসপাতালে নিয়ে আসা হয়। বাবার শারীরিক অসুস্থতার খবর পেয়েই হাসপাতালে ছুটে গেছেন বলিউড সুপারস্টার সলমন খান৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Salman-Selim-2026-02-a6e790fde51db847527830b94da2f070-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/salman-khan-rushes-to-lilavati-hospital-after-father-salim-khan-is-admitted-fans-wish-speedy-recovery-rds-2544503.html",
-    "time": "2026-02-17T09:52:24.000Z"
   }
 ];

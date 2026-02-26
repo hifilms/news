@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "કોલેજ સ્ટુડન્ટ્સ માટે બેસ્ટ છે આ ટોપ 5 ઇલેક્ટ્રિક બાઇક, જાણો કિંમત અને દમદાર ફીચર્સ",
+    "desc": "કોલેજ જવાની દરરોજની સફર હોય કે મિત્રો સાથે શહેરમાં ફરવાનું હોય કે પછી કેમ્પસ પાર્કિંગમાં એક અલગ જ આકર્ષણ જમાવવું હોય વિદ્યાર્થીઓ હવે ઇલેક્ટ્રિક બાઇક તરફ વળી રહ્યા છે, જે ઉપયોગી અને સ્ટાઇલિશ બન્ને છે. તેમાં એપ્લિકેશન કનેક્ટિવિટી, ફાસ્ટ ચાર્જિંગ, એડવાન્સ સેફ્ટી ફીચર્સ અને આધુનિક ડિઝાઇન જેવી સુવિધાઓ મળી જાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/best-top-5-smart-and-stylish-electric-bikes-for-college-students-in-india-466311 ",
+    "time": "2026-02-26T12:34:25.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "PM મોદીના તાબડતોબ બે દિવસના ઈઝરાયેલ પ્રવાસથી ભારતને શું મળ્યું? જાણીને દુશ્મનો છાતી પીટશે",
+    "desc": "પીએમ મોદી બે દિવસના ઈઝરાયેલ પ્રવાસ પર ગયા છે. અહીં તેમના આગમન સમયે બધા પ્રોટોકોલ તોડીને ઈઝરાયેલી પીએમ બેન્જામીન નેતન્યાહૂ પત્ની સહિત એરપોર્ટ પર હાજર રહ્યા અને પીએમ મોદીનું ભવ્ય સ્વાગત કર્યું. આજે ભારત અને ઈઝરાયેલ વચ્ચે પ્રતિનિધિ સ્તરની દ્વિપક્ષીય બેઠક થઈ અને અનેક કરારો થયા. પીએમ મોદીના આ પ્રવાસથી ભારતને શું મળ્યું તે પણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/india-israel-relations-what-did-india-gain-from-pm-modi-two-day-israel-visit-world-news-in-gujarati-466309 ",
+    "time": "2026-02-26T12:25:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કેરળ બાદ હવે દિલ્હીનું નામ બદલવાની તૈયારી? જાણો શું છે નવો પ્રસ્તાવ અને તેનું મહાભારત કનેક્શન",
+    "desc": "કેરળનું નામ કેરળમ કરવાના પ્રસ્તાવને કેન્દ્રીય કેબિનેટ દ્વારા મંજૂર આપી દેવામાં આવી છે. હવે દિલ્હીનું નામ બદલવાની પણ માંગ થઈ રહી છે. ચાલો જાણીએ કે, દિલ્હીનું નામ બદલીને કયું નવું નામ રાખવાનો પ્રસ્તાવ રાખવામાં આવી રહ્યો છે અને આ નામનો ઈતિહાસ શું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/after-kerala-now-delhi-is-preparing-to-change-its-name-know-what-is-the-new-proposal-and-mahabharata-connection-466306 ",
+    "time": "2026-02-26T11:43:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પીએમ કિસાન 22માં હપ્તા પર અત્યંત મહત્વના અપડેટ, ગુજરાતના ખેડૂતો ખાસ જાણે",
+    "desc": "પીએમ કિસાન સન્માન નિધિનો 22 મો હપ્તો ક્યારે આવશે ખાતામાં? ખેડૂતોના મનમાં હાલ આ પ્રશ્ન ગૂંજી રહ્યો છે. પહેલા એવું કહેવાતું હતું કે ફેબ્રુઆરીમાં આ હપ્તો આવી જશે પરંતુ હવે એવું લાગે છે કે હોળી પહેલા આ હપ્તો તમારા ખાતામાં આવે તેવી શક્યતા હાલ તો ધૂંધળી જોવા મળી રહી છે. જાણો તેની પાછળનું કારણ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-kisan-samman-nidhi-latest-update-why-is-there-a-delay-in-the-22nd-installment-farmers-news-in-gujarati-466303 ",
+    "time": "2026-02-26T10:54:38.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ઝિમ્બાબ્વે સામેની મેચ પહેલા ટીમ ઈન્ડિયા માટે ખુશખબર, સેમિફાઈનલનો રસ્તો બન્યો સરળ!",
     "desc": "T20 વર્લ્ડ કપ 2026ના સુપર-8માં આજે ભારત અને ઝિમ્બાબ્વે ટકરાશે. ભારતીય ટીમને સેમિફાઈનલમાં પહોંચવા માટે કોઈપણ સંજોગોમાં આ મેચ જીતવી જરૂરી છે. ત્યારે ચેન્નાઈમાં રમાનારી આ મેચ પહેલા ભારતીય ટીમ માટે એક સારા સમાચાર સામે આવ્યા છે, જેના કારણે ટીમનો સેમિફાઈનલનો રસ્તો સરળ બન્યો છે.",
@@ -378,15 +414,6 @@ const newsData_gu = [
     "time": "2026-02-24T03:34:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "રાંચીથી દિલ્હી જતી એર એમ્બ્યુલન્સ ઝારખંડના ચતરામાં ક્રેશ, પ્લેનમાં સાત લોકો હતા સવાર",
-    "desc": "રાંચીથી દિલ્હી જઈ રહેલી એક એર એમ્બ્યુલન્સ સોમવાર સાંજે ચતરા જિલ્લાના સિમરિયામાં ક્રેશ થઈ છે. પ્લેનનો સંપર્ક ટેકઓફના થોડા સમય બાદ જ ATCથી તૂટી ગયો હતો. એરપોર્ટ ડાયરેક્ટરે આ દુર્ઘટનાની પુષ્ટિ કરી છે. હાલમાં સ્થાનિક વહીવટીતંત્ર અને પોલીસની ટીમો જંગલોમાં રાહત કામગીરી હાથ ધરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/air-ambulance-going-from-ranchi-to-delhi-crashes-in-chatra-jharkhand-seven-people-were-on-board-466015 ",
-    "time": "2026-02-23T18:17:21.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "હવે E20 પેટ્રોલ પર ચાલશે રોયલ એનફિલ્ડની આ બાઇક્સ, E20 માટે કીટ કરવામાં આવી લોન્ચ, આટલો છે ભાવ, જાણો",
     "desc": "જો તમારી પાસે જૂની રોયલ એનફિલ્ડ બાઈક છે, તો કંપનીએ હવે આ બાઇકો માટે E20 કીટ લોન્ચ કરી છે, જેનાથી તમે આરામથી E20 પેટ્રોલ પર બાઈક ચલાવી શકો છો. આ કીટના કારણે બાઈકને ફાયદો પણ થવાનું જણાવ્યું છે.",
@@ -430,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/will-trump-refund-tariffs-to-india-after-the-us-supreme-court-decision-know-the-rules-465964 ",
     "time": "2026-02-23T11:02:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ટ્રમ્પના નવા &amp;#039;ટેરિફ તાયફા&amp;#039;થી સૌથી વધુ નુકસાન તો USના જ સહયોગી દેશોને, ભારત-ચીન જેવા દેશોને તો ફાયદો!",
-    "desc": "અમેરિકામાં ટેરિફ મુદ્દે જાતજાતના ગતકડાં જોવા મળી રહ્યા છે. અમેરિકી સુપ્રીમ કોર્ટે ટ્રમ્પના ટેરિફને અમાન્ય ગણાવી દીધા. પરંતુ આમ છતાં ટ્રમ્પનો ટેરિફ પ્રેમ ઘટ્યો નથી અને નવેસરથી હવે સેક્શન 122 હેઠળ બધા દેશો પર એકસરખો 15 ટકા ગ્લોબલ ટેરિફ નાખી દીધો. હવે આ પરિસ્થિતિમાં કયા દેશોને ફાયદો અને કયા દેશોને નુકસાન થઈ શકે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/trump-new-tariff-may-hurt-his-own-allies-the-most-while-countries-like-india-and-china-may-benefit-465940 ",
-    "time": "2026-02-23T09:30:18.000Z"
   },
   {
     "cat": "Tech",
@@ -637,15 +655,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rocking-star-yash-upcoming-film-toxic-teaser-released-film-toxic-will-be-release-on-19-march-2026-465606 ",
     "time": "2026-02-20T06:54:56.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "તમારો ફોન કોલ કોઈ બીજું તો નથી સાંભળી રહ્યું? Jioના નવા સિક્યોરિટી ફીચરથી મિનિટોમાં થશે જાણ",
-    "desc": "શું કોઈ બીજું તમારા ફોન કોલ્સ સાંભળી રહ્યું છે? કોલ ફોરવર્ડિંગનો દુરુપયોગ તમારી ગોપનીયતા માટે ખતરો બની શકે છે. Jio એ હવે MyJio એપમાં એક નવી સુવિધા ઉમેરી છે, જે તમને એપ્લિકેશનમાંથી સીધા જ કોલ ફોરવર્ડિંગ સેટિંગ્સ ચેક અને કંટ્રોલ કરો શકો છો. જાણો કે આ સુવિધા તમને કેવી રીતે સુરક્ષિત રાખશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/is-someone-else-listening-to-your-phone-calls-jios-new-security-feature-will-help-you-find-out-in-minutes-465553 ",
-    "time": "2026-02-19T14:08:54.000Z"
   },
   {
     "cat": "Entertainment",
