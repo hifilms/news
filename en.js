@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Inside Rashmika Mandanna and Vijay Deverakonda’s wedding album",
+    "desc": "Rashmika Mandanna and Vijay Deverakonda’s wedding photos are finally here, and they do far more than capture a ceremony. The images tell a story — one of friendship, faith, tradition and a love that feels deeply rooted and unfiltered.",
+    "img": "https://static.toiimg.com/photo/msid-128826471,imgsize-154940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/inside-rashmika-mandanna-and-vijay-deverakondas-wedding-album-what-the-pictures-truly-reveal/articleshow/128826471.cms",
+    "time": "2026-02-26T21:16:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "From the ashes, emerges a green idea at Brahmapuram",
+    "desc": "The first Compressed Biogas plant in the State, which converts biodegradable waste into biogas, has become operational at the Brahmapuram garbage treatment yard of the Kochi Corporation. M.P. Praveen meets the engineers and managers of the plant set up by the BPCL Kochi Refinery at the plant site to learn about the facility, which is expected to solve the issue of waste management in the city",
+    "img": "https://th-i.thgim.com/public/incoming/11wxs9/article70680620.ece/alternates/LANDSCAPE_1200/Brahmapuram01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/from-the-ashes-emerges-a-green-idea-at-brahmapuram/article70678949.ece",
+    "time": "2026-02-26T20:08:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "After Kalki 2 and Spirit, Deepika passes on The White Lotus 4",
+    "desc": "For weeks, industry buzz suggested that Deepika Padukone had secured a role in season four of The White Lotus. However, a report now suggests that the actor will not be part of the Emmy-winning series. Deepika was approached for the show and discussions were held. However, the process reportedly hit a roadblock over the show’s mandatory audition policy.",
+    "img": "https://static.toiimg.com/photo/msid-128825153,imgsize-34204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-kalki-2898-ad-sequel-and-spirit-deepika-padukone-passes-on-the-white-lotus-4-as-she-was-not-keen-on-auditioning-report/articleshow/128825153.cms",
+    "time": "2026-02-26T19:36:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fitness of old private buildings remains unchecked in Kozhikode",
+    "desc": "Though structural safety audits of old public buildings happen at regular intervals under the supervision of qualified engineers, such an inspection is hardly conducted to check the condition of many old facilities in the private sector",
+    "img": "https://th-i.thgim.com/public/incoming/tqbf10/article70681148.ece/alternates/LANDSCAPE_1200/80692_26_2_2026_17_29_29_1_27TVKZVADIYIL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/fitness-of-old-private-buildings-remains-unchecked-in-kozhikode/article70679560.ece",
+    "time": "2026-02-26T18:55:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Misbun Sidek",
+    "desc": "The renowned coach from Malaysia wants to find a World No. 1 shuttler from India, having already trained elite stars in the sport; he feels the new 3x15 regulations is power oriented and is based on tactics",
+    "img": "https://th-i.thgim.com/public/incoming/krx8xk/article70681314.ece/alternates/LANDSCAPE_1200/DSC_9009.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/a-champion-is-being-built-by-the-coaches-and-not-born-misbun-sidek/article70681313.ece",
+    "time": "2026-02-26T18:47:15.000Z"
+  },
+  {
     "cat": "Business",
     "title": "NSE chief proposes retail barriers to entry on derivative markets amidst speculation losses",
     "desc": "Developing countries like India cannot allow over speculation by lower strata of the economy. Hence, more and more regulations will come from governments, regulators and exchanges — to curb over speculation till the time perception of the lower strata of society doing over speculation continues, says NSE’s CEO Ashish Kumar Chauhan",
@@ -18,15 +63,6 @@ const newsData_en = [
     "time": "2026-02-26T18:20:37.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Misbun Sidek",
-    "desc": "The renowned coach from Malaysia wants to find a World No. 1 shuttler from India, having already trained elite stars in the sport; he feels the new 3x15 regulations is power oriented and is based on tactics",
-    "img": "https://th-i.thgim.com/public/incoming/krx8xk/article70681314.ece/alternates/LANDSCAPE_1200/DSC_9009.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/todays-paper/tp-sports/a-champion-is-being-built-by-the-coaches-and-not-born-misbun-sidek/article70681313.ece",
-    "time": "2026-02-26T18:15:28.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kalyani shares Rashmika-Vijay's emotional varmala moment",
     "desc": "Vijay Deverakonda and Rashmika Mandanna began a new chapter on Thursday as they tied the knot in an intimate ceremony in Udaipur, surrounded by family and close friends. Among those present was close friend Kalyani Priyadarshan, who shared a breathtaking glimpse from the couple’s varmala ceremony.",
@@ -34,6 +70,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandannavijay-deverakonda-wedding-kalyani-priyadarshan-shares-emotional-varmala-moment-as-she-walked-toward-him-/articleshow/128822600.cms",
     "time": "2026-02-26T18:07:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hillary Clinton calls for Donald Trump to testify as she faces U.S. House Epstein panel",
+    "desc": "Ms. Clinton told the congressional committee she had no information about Epstein’s crimes, never recalled encountering him, and had never visited his island or flown on his plane, accusing the panel of trying to “protect one public official” — Mr. Trump.",
+    "img": "https://th-i.thgim.com/public/incoming/a0s6a6/article70681231.ece/alternates/LANDSCAPE_1200/Epstein_Congress_Clintons_53350.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hillary-clinton-faces-epstein-congressional-inquiry/article70681095.ece",
+    "time": "2026-02-26T17:57:20.000Z"
   },
   {
     "cat": "Business",
@@ -52,15 +97,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/voters-go-to-polls-in-crucial-bye-election-test-for-uks-starmer/article70680369.ece",
     "time": "2026-02-26T17:46:06.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Hillary Clinton calls for Donald Trump to testify as she faces U.S. House Epstein panel",
-    "desc": "Ms. Clinton told the congressional committee she had no information about Epstein’s crimes, never recalled encountering him, and had never visited his island or flown on his plane, accusing the panel of trying to “protect one public official” — Mr. Trump.",
-    "img": "https://th-i.thgim.com/public/incoming/a0s6a6/article70681231.ece/alternates/LANDSCAPE_1200/Epstein_Congress_Clintons_53350.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/hillary-clinton-faces-epstein-congressional-inquiry/article70681095.ece",
-    "time": "2026-02-26T17:44:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -232,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-final-jammu-and-kashmir-seize-control-as-karnataka-stare-at-massive-first-innings-deficit/articleshow/128818214.cms",
     "time": "2026-02-26T15:15:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "66 inmates died in Chhattisgarh jails since January 2025, govt. tells Assembly; tribal leader’s custodial death triggers uproar",
-    "desc": "Tribal leader Jeevan Thakur died on December 4 last year after falling ill while in judicial custody;the Opposition MLAs questioned the circumstances around his death and claimed that he had been implicated in a false case",
-    "img": "https://th-i.thgim.com/public/incoming/fgq3tf/article70680703.ece/alternates/LANDSCAPE_1200/iStock-638712250.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/chhattisgarh/66-inmates-died-in-chhattisgarh-jails-since-january-2025-govt-tells-assembly-tribal-leaders-custodial-death-triggers-uproar/article70679665.ece",
-    "time": "2026-02-26T15:13:35.000Z"
   },
   {
     "cat": "Business",
@@ -459,33 +486,6 @@ const newsData_en = [
     "time": "2026-02-26T10:53:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Fast-track probe ordered after racial slur aired during BAFTA broadcast",
-    "desc": "The BBC is investigating a racial slur broadcast during the BAFTA awards, despite a broadcast delay. Culture Secretary Lisa Nandy deemed the incident \"completely unacceptable.\" Tourette's campaigner John Davidson, who uttered the slur, expressed deep mortification, attributing it to an involuntary tic. The BBC's Executive Complaints Unit is conducting a swift inquiry into the matter.",
-    "img": "https://static.toiimg.com/photo/msid-128810972,imgsize-101026.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/fast-track-probe-ordered-after-racial-slur-aired-during-bafta-broadcast-reports/articleshow/128810972.cms",
-    "time": "2026-02-26T10:52:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'They will be forced to accept defeat': Army commander warns Pakistan's nuclear rhetoric won't save it next time",
-    "desc": "India's Western Army Commander, Lt Gen Manoj Kumar Katiyar, declared the army is fully prepared for future conflicts and undeterred by Pakistan's nuclear threats. He warned any future war would end decisively on the ground, asserting Pakistan's reliance on proxy warfare and misleading its populace.",
-    "img": "https://static.toiimg.com/photo/msid-128814088,imgsize-801887.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/they-will-be-forced-to-accept-defeat-army-commander-warns-pakistans-nuclear-rhetoric-wont-save-it-next-time/articleshow/128810800.cms",
-    "time": "2026-02-26T10:39:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CEA says India ready for 270 GW peak demand; Discoms must ensure reliable supply",
-    "desc": "India's power system is ready for a projected 265-270 GW demand this year, with significant capacity additions. Distribution companies are urged to invest in network upgrades for reliable supply, even as zero outages come with tariff implications. Discoms' financial health is improving, aided by government schemes and smart meter installations.",
-    "img": "https://static.toiimg.com/photo/msid-128810753,imgsize-884050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cea-says-india-ready-for-270-gw-peak-demand-discoms-must-ensure-reliable-supply/articleshow/128810648.cms",
-    "time": "2026-02-26T10:39:06.000Z"
-  },
-  {
     "cat": "World",
     "title": "EU seeks to cut Russia dependence; Hungary, Slovakia have other plans",
     "desc": "Hungary and Slovakia remain heavily reliant on Russian oil, with reports arguing this dependence is a political choice rather than a necessity; as EU reduces Russian gas, oil imports, the stand-off shows the political and economic hurdles complicating the bloc’s roadmap to energy independence",
@@ -493,15 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/eu-seeks-to-cut-russia-dependence-hungary-slovakia-have-other-plans/article70679328.ece",
     "time": "2026-02-26T10:36:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Prasoon Joshi flags pressures created by social media",
-    "desc": "Prasoon Joshi, CBFC Chairman, discussed his creative process and the challenges of his role at the DNPA Conclave 2025. He emphasized fostering dialogue over debate to navigate film discussions and releases in the current social media-driven era. The conclave also explored AI's impact on news, regulatory challenges, and building trust in digital media.",
-    "img": "https://static.toiimg.com/photo/msid-128810664,imgsize-1114966.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dnpa-conclave-2026-prasoon-joshi-flags-pressures-created-by-social-media/articleshow/128810196.cms",
-    "time": "2026-02-26T10:36:02.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-us-and-iran-moving-closer-to-war-explainer/article70672754.ece",
     "time": "2026-02-24T17:17:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Defence Minister",
+    "desc": "It is the first time Japan has specified the timing of the deployment. The Ministry announced the plan in 2022 to ramp up its air defences on the island, which already hosts a Japanese military base",
+    "img": "https://th-i.thgim.com/public/incoming/9qr2qr/article70672767.ece/alternates/LANDSCAPE_1200/Japan_China_73614.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/japan-to-deploy-missile-systems-on-island-near-taiwan-by-2031-defence-minister/article70672747.ece",
+    "time": "2026-02-24T17:14:29.000Z"
   }
 ];
