@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Memes galore as India stay alive in T20 World Cup with dominating win over Zimbabwe",
+    "desc": "The Indian team registered a brilliant victory against Zimbabwe in game 48 of the ongoing T20 World Cup 2026. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February 26, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-zim-memes-galore-as-india-stay-alive-in-t20-world-cup-with-dominating-win-over-zimbabwe-2026-02-26-1031857",
+    "time": "2026-02-26T18:08:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What will happen if India vs West Indies match in T20 World Cup gets washed out due to rain?",
+    "desc": "India defeated Zimbabwe by 72 runs at the MA Chidambaram Stadium in Chennai to stay alive in the T20 World Cup. They will now face the West Indies on Sunday in a virtual quarterfinal at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-will-happen-if-india-vs-west-indies-match-in-t20-world-cup-gets-washed-out-due-to-rain-2026-02-26-1031852",
+    "time": "2026-02-26T17:42:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India set up virtual quarterfinal vs West Indies with dominating win over Zimbabwe in T20 World Cup",
+    "desc": "The Indian team performed brilliantly against Zimbabwe in game 48 of the ongoing T20 World Cup. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February 26. The clash saw the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-set-up-virtual-quarterfinal-vs-west-indies-with-dominating-win-over-zimbabwe-in-t20-world-cup-2026-02-26-1031847",
+    "time": "2026-02-26T17:04:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India amass their highest total in T20 World Cup history, smash 256 runs vs Zimbabwe in must-win clash",
     "desc": "India and Zimbabwe locked horns in game 48 of the ongoing T20 World Cup 2026. The two sides faced off at the MA Chidambaram Stadium in Chennai on February 26, and the clash saw India...",
     "img": "",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/south-africa-thump-west-indies-in-ahmedabad-lift-nrr-weight-off-india-s-shoulders-2026-02-26-1031811",
     "time": "2026-02-26T12:46:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Romario Shepherd and Jason Holder create world record in T20 WC with 89-run partnership vs SA",
-    "desc": "West Indies and South Africa locked horns today in the Super 8 round of the T20 World Cup at the Narendra Modi Stadium in Ahmedabad. Both teams came into this clash with five consecutive wins...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wi-vs-sa-romario-shepherd-and-jason-holder-create-world-record-in-t20-wc-with-89-run-partnership-vs-sa-2026-02-26-1031790",
-    "time": "2026-02-26T11:38:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kagiso Rabada surpasses Dale Steyn in elite list with brilliant performance against the West Indies",
-    "desc": "Game 47 of the ongoing T20 World Cup 2026 saw South Africa taking on the West Indies. The two sides locked horns at the Narendra Modi Stadium in Ahmedabad on February 26, and the clash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kagiso-rabada-surpasses-dale-steyn-in-elite-list-with-brilliant-performance-against-the-west-indies-2026-02-26-1031789",
-    "time": "2026-02-26T11:21:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "First time in 24 years! India to face Zimbabwe at home in do or die clash in Chennai",
-    "desc": "India will face Zimbabwe today in their next Super 8 clash of the T20 World Cup at the MA Chidambaram Stadium in Chennai. This is a must-win clash for both teams, having lost their previous...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-zim-first-time-in-24-years-india-to-face-zimbabwe-at-home-in-do-or-die-clash-in-chennai-2026-02-26-1031781",
-    "time": "2026-02-26T10:57:57.000Z"
   }
 ];

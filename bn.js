@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "বাংলায় ক্ষমতা পেলেই অনুপ্রবেশ বন্ধ! শাহের গলায় কড়া হুঁশিয়ারি",
+    "desc": "অনুপ্রবেশ ইস্যুতে ফের চড়া সুর শাহের। বাংলায় ক্ষমতায় এসেই অনুপ্রবেশে কড়া পদক্ষেপের হুঁশিয়ারি। সীমান্ত এলাকার জনবিন্যাস পরিবর্তন খতিয়ে দেখতে কমিটি। মার্চ মাসেই বিজেপির পরিবর্তন যাত্রায় অংশ নিতে বাংলায় আসছেন দেশের স্বরাষ্ট্রমন্ত্রী অমিত শাহ। তার আগেই বিহার থেকে বড় কথা বলে দিলেন শাহ।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Amit-Shah-2026-02-3a07c1f925ef43c9adea4434d9fa84f9-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/amit-shah-on-claims-bjp-win-in-west-bengal-rc-2559865.html",
+    "time": "2026-02-26T18:06:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "পাক-আফগান লড়াই, এবার প্রতিশোধের হামলা চালাল তালিবান, বহু পাক নাগরিকের মৃত্যু, অশান্ত ডুরান্ড লাইন",
+    "desc": "পাকিস্তানের উপর পূর্ণ মাত্রার আক্রমণ শুরু করেছে আফগানিস্তান। তাদের দাবি, বৃহস্পতিবার রাত থেকে শুরু হওয়া ভারী গোলাবর্ষণ সীমান্তে বসবাসকারী মানুষের নিত্যদিনের জীবন ব্যাহত করেছে। নাঙ্গারহার এবং পাকতিয়া প্রদেশে সাম্প্রতিক হামলার পর আফগান সেনাবাহিনীর এই পাল্টা হামলা পাকিস্তানের জন্য বড় বিপদ ডেকে আনতে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Afghanistan-attacks-Pakistan-2026-02-2a4d8f8cb0a20b099589a3e4fee45d8b-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/afghan-taliban-fighters-attacks-pakistan-security-checkpoints-as-revenge-pakistan-suffers-heavy-casualties-pbd-2559812.html",
+    "time": "2026-02-26T17:50:05.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ব্যাটেই দিলেন সমালোচকদের জবাব! নিজের মেজাজেই রানে ফিরলেন অভিষেক শর্মা",
     "desc": "বিশ্বের পয়লা নম্বর টি-২০ ব্যাটার তিনি। কিন্তু টি-২০ বিশ্বকাপের প্রথম ৩ ম্যাচে শূন্য রান ও চতুর্থ ম্যাচে ১৫ রান করার পর দলে তার জায়গা পাওয়া নিয়ে উঠছিল প্রশ্ন। অবশেষে সমালোকদের ব্যাটেই জবাব দিলেন অভিষেক শর্মা।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/india-pastan-relation-dispute-world-cup-2031-and-champions-trophy-2029-hosting-in-doubt-dd-2545935.html",
     "time": "2026-02-18T06:36:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ক্যানসারের সঙ্গে লড়াইয়ে শেষরক্ষা হল না, প্রয়াত অভিনেত্রী প্রবীণা দেশপাণ্ডে",
-    "desc": "হিন্দি ও মারাঠি ছবিতে চুটিয়ে অভিনয় করেছেন তিনি। টেলিভিশনে তাঁর অভিনয়ও দর্শকের মন জিতেছে। তাঁর মৃত্যুর খবরে শোকপ্রকাশ করেছে ‘সিনে এন্ড টিভি আর্টিস্ট অ্যাসোসিয়েশন’ (সিনটা)। বহুল জনপ্রিয় ‘ফ্যামিলি ম্যান ৩’-তে দর্শকের মন কেড়েছেন তিনি। ‘জালেবি’ ছবিতেও নজর কাড়েন প্রবীণা। অভিনয় করেছেন অক্ষয় কুমারের সঙ্গেও। ক্যানসারের সঙ্গে লড়াইয়ে শেষরক্ষা হল না। প্রয়াত অভিনেত্রী প্রবীণা দেশপাণ্ডে। মঙ্গলবার মৃত্যু হয় অভিনেত্রীর। বিকেল ৩টের সময় তাঁর অন্ত্যোষ্টিক্রিয়া সম্পন্ন হয় মুম্বইয়ে। সলমন খান থেকে অক্ষয় কুমার, ছোটপর্দা থেকে বড়পর্দা- সবেতে দাপিয়ে বেরিয়েছেন তিনি। শেষ তাঁকে দেখা গিয়েছিল ইমরান হাসমির সঙ্গে ‘তস্করী’ সিরিজে। মৃত্যুকালে তাঁর বয়স হয়েছিল মাত্র ৬০ বছর।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/pravina-deshpande-2026-02-a45776f7cf4dcda887d9b5975d1bf05c.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/short-videos/entertainment/bollywood-actress-pravina-deshpande-died-at-60-years-after-battling-with-cancer-pbd-2545941.html",
-    "time": "2026-02-18T05:35:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "রোহিতের পরামর্শই মোক্ষম ! সূর্যকুমার দেখিয়ে দিলেন উসমান তারিকের ‘পজ’ বোলিংকে খেলার উপায়, পাক ক্রিকেটাররাও অবাক",
-    "desc": "যখন ইনিংসের ১১তম ওভারে উসমান তারিক বল করতে আসেন সেই সময় যদি পাকিস্তান ২-৩-টে দ্রুত উইকেট পেয়ে যেত, তখন ম্যাচটাই উল্টে যেতে পারতো। আসলে পাকিস্তানও এমনটাই আশা করছিল যে উসমানকে খেলা ভারতীয় টিম-এর জন্য সহজ কাজ হবে না, কিন্তু সূর্যকুমারই সবকিছু বদলে দিয়েছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Usman-Tariq-and-Suryakumar-Yadav-Ind-vs-Pak-Match-2026-02-f95028a158f5673482405fb59973db9e-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/suryakumar-vs-usman-stillness-wins-the-mind-game-suryakumar-yadavs-masterclass-against-usman-tariq-was-big-highlight-in-india-pakistan-t20-world-cup-game-ss-2545706.html",
-    "time": "2026-02-18T04:41:38.000Z"
   }
 ];
