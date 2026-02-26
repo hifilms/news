@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "ব্যাটেই দিলেন সমালোচকদের জবাব! নিজের মেজাজেই রানে ফিরলেন অভিষেক শর্মা",
+    "desc": "বিশ্বের পয়লা নম্বর টি-২০ ব্যাটার তিনি। কিন্তু টি-২০ বিশ্বকাপের প্রথম ৩ ম্যাচে শূন্য রান ও চতুর্থ ম্যাচে ১৫ রান করার পর দলে তার জায়গা পাওয়া নিয়ে উঠছিল প্রশ্ন। অবশেষে সমালোকদের ব্যাটেই জবাব দিলেন অভিষেক শর্মা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Abhishek-Sharma-46-2026-02-a05d45b56eef07e06fa3785035f4f757-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/ind-vs-zim-abhishek-sharma-score-half-century-in-26-balls-against-zimbabwe-in-t20-world-cup-2026-sup-2559601.html",
+    "time": "2026-02-26T14:42:56.000Z"
+  },
+  {
     "cat": "Business",
     "title": "'ইজরায়েলে' ভারতীয় ৫০ টাকার 'মূল্য' কত হবে জানেন...? 'উত্তর' শুনলেই চমকাবেন, শিওর!",
     "desc": "আজই ইজরায়েলের প্রেসিডেন্টের সঙ্গে দীর্ঘ বৈঠক হয় প্রধানমন্ত্রী নরেন্দ্র মোদির। এই পরিস্থিতিতে দুদেশের মুদ্রা ফের একবার প্রাসঙ্গিক হয়ে উঠেছে। আচ্ছা বলুন তো কোন দেশের মুদ্রা তুলনামূলক ভাবে বেশি শক্তিশালী। এক ইজরায়েলি মুদ্রা ঠিক কতটা ভারতীয় মুদ্রার টাকার নিরিখে? চলুন আজ এই প্রতিবেদনে সোশ্যাল মিডিয়ায় আজ অত্যন্ত প্রাসঙ্গিক ও ট্রেন্ডিং এই দেশটির মুদ্রার গুরুত্ব জেনে নেওয়া যাক।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/suryakumar-vs-usman-stillness-wins-the-mind-game-suryakumar-yadavs-masterclass-against-usman-tariq-was-big-highlight-in-india-pakistan-t20-world-cup-game-ss-2545706.html",
     "time": "2026-02-18T04:41:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "গোল্ড লোন তো পাওয়া যায়...কিন্তু কখনও ভেবে দেখেছেন ‘সিলভার লোন’ পাওয়া যায় না কেন?",
-    "desc": "সাম্প্রতিক সময়কালে রুপোর দাম আকাশছোঁয়ার পরে হঠাৎ করেই মুখ থুবড়ে পড়েছে৷ সোনার দামও নিম্নমুখী৷ এমন অবস্থায় সোনা-রুপোয় লগ্নিকারীদের হাত পড়েছে মাথায়৷ প্রশ্ন উঠছে একাধিক৷ তেমনই এক প্রশ্ন, সোনার মতো কেন রুপোর পরিবর্তে ঋণ দিতে চায় না ব্যাঙ্কগুলো, কী যুক্তি?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-16T232512.129-2026-02-89357caa2cb5c1db72f1f596b847e947-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/why-banks-rarely-accept-silver-as-collateral-and-prefer-gold-loans-instead-know-thw-actual-reason-sta-2543886.html",
-    "time": "2026-02-18T03:43:05.000Z"
   }
 ];

@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "હવાઈ મુસાફરો માટે ખુશખબર, 48 કલાકમાં ફ્લાઈટ ટિકિટ કેન્સલ કરવા પર હવે નહીં લાગે કોઈ ચાર્જ; DGCAનો મોટો નિર્ણય",
+    "desc": "ફ્લાઈટમાં મુસાફરી કરી રહેલા મુસાફરો માટે ખુશખબર સામે આવી છે. હવે જો તમે કોઈપણ ફ્લાઈટની ટિકિટ બુક કરાવી છે, તો બુકિંગ પહેલા 48 કલાકમાં તેને કેન્સલ કરવા અથવા નામ બદલવા માટે તમારે કોઈ વધારો ચાર્જ ચૂકવવો પડશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/dgca-new-rules-free-flight-ticket-cancellation-and-name-change-within-48-hours-466318 ",
+    "time": "2026-02-26T14:32:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "દ.આફ્રીકાએ કરી દીધો કમાલ, વેસ્ટ ઈન્ડિઝની હાર બાદ હવે ભારત માટે શું છે સ્થિતિ? જાણો લેટેસ્ટ સમીકરણ",
+    "desc": "અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં આજે દક્ષિણ આફ્રીકા અને વેસ્ટ ઈન્ડિઝ વચ્ચે સુપર 8ની મેચ રમાઈ. જેમાં દક્ષિણ આફ્રીકાએ ખુબ જ શાનદાર પ્રદર્શન કરીને આ મેચ 9 વિકેટથી જીતી લીધી. હવે આ મેચ બાદ ભારતના સેમીફાઈનલમાં પ્રવેશવા માટે કઈ રીતે સમીકરણો બની રહ્યા છે તે પણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-sa-vs-wi-narendra-modi-stadium-ahmedabad-what-is-india-qualification-scenario-466316 ",
+    "time": "2026-02-26T13:59:48.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "કોલેજ સ્ટુડન્ટ્સ માટે બેસ્ટ છે આ ટોપ 5 ઇલેક્ટ્રિક બાઇક, જાણો કિંમત અને દમદાર ફીચર્સ",
     "desc": "કોલેજ જવાની દરરોજની સફર હોય કે મિત્રો સાથે શહેરમાં ફરવાનું હોય કે પછી કેમ્પસ પાર્કિંગમાં એક અલગ જ આકર્ષણ જમાવવું હોય વિદ્યાર્થીઓ હવે ઇલેક્ટ્રિક બાઇક તરફ વળી રહ્યા છે, જે ઉપયોગી અને સ્ટાઇલિશ બન્ને છે. તેમાં એપ્લિકેશન કનેક્ટિવિટી, ફાસ્ટ ચાર્જિંગ, એડવાન્સ સેફ્ટી ફીચર્સ અને આધુનિક ડિઝાઇન જેવી સુવિધાઓ મળી જાય છે.",
@@ -342,15 +360,6 @@ const newsData_gu = [
     "time": "2026-02-24T09:15:55.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ભારત-પાકિસ્તાન વચ્ચે હજુ પણ રમાઈ શકે છે T20 વર્લ્ડ કપની ફાઈનલ, જાણો શું છે સમીકરણ?",
-    "desc": "ક્રિકેટ ચાહકો ફરી એકવાર ભારત અને પાકિસ્તાન વચ્ચેની હાઇ-વોલ્ટેજ મેચ જોઈ શકશે. જી હા... તમે વિચારતા હશો કે ભારતને સેમીફાઈનલમાં પહોંચવા માટે પણ ભારે સંઘર્ષ કરવો પડે એમ છે, તેવામાં ભારત અને પાકિસ્તાન 2026ના T20 વર્લ્ડ કપની ફાઇનલમાં ટકરાઈ શકે છે. જાણો અહીં સંભવિત સમીકરણ...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-final-can-still-be-held-between-india-and-pakistan-know-the-complete-equation-466067 ",
-    "time": "2026-02-24T08:48:02.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "હવે હેલિકોપ્ટરનું ક્રેશ લેન્ડિંગ, 7 લોકો હતા સવાર, છેલ્લા 2 વર્ષમાં ઘટેલી હવાઈ દુર્ઘટનાઓની ચોંકાવનારી યાદી",
     "desc": "ઉપરાઉપરી વિમાન દુર્ઘટનાઓના સમાચાર આવતા ખળભળાટ મચી ગયો છે. કાલે રાંચીથી ઉડેલી એર એમ્બ્યુલન્સ જંગલમાં તૂટી પડી જેમાં 7 લોકોના મોત થયા અને આજે પવનહંસના એક હેલિકોપ્ટરનું આંદમાનના દરિયામાં ક્રેશ લેન્ડિંગ થયું. છેલ્લા બે વર્ષમાં જે રીતે હવાઈ દુર્ઘટનાઓ સામે આવી છે તે સુરક્ષા મુદ્દે અનેક સવાલ ઊભા કરે છે.",
@@ -403,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-silver-rate-big-breaking-became-cheaper-again-today-silver-1-54-lakh-cheaper-from-all-time-high-know-latest-rate-466025 ",
     "time": "2026-02-24T03:57:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "8th Pay Commission પર મોટા અપડેટ, શું લેવલ 1થી 18 માટે અલગ અલગ ફિટમેન્ટ ફેક્ટર હશે? ખાસ જાણો આ માહિતી",
-    "desc": "આઠમાં પગાર પંચના લાગૂ થવાની આતુરતાપૂર્વક કેન્દ્રી કર્મચારીઓ રાહ જુએ છે. ત્યારે એક મહત્વની બેઠક 25મી ફેબ્રુઆરીએ થશે જેમાં ફિટમેન્ટ ફેક્ટર પર વાતચીત શક્ય છે. પગાર વધારા માટે જરૂરી ફિટમેન્ટ ફેક્ટર પર એક મહત્વના અપડેટ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-update-on-8th-pay-commission-will-there-be-different-fitment-factors-for-levels-1-to-18-466022 ",
-    "time": "2026-02-24T03:34:50.000Z"
   },
   {
     "cat": "Tech",
@@ -484,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/mexico-most-wanted-drug-cartel-leader-el-mencho-killed-indian-embassy-advisory-465919 ",
     "time": "2026-02-23T06:08:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ટ્રમ્પના કારણે સોના-ચાંદીમાં હાહાકાર! આજે બજાર ખુલતા જ ભાવમાં જોરદાર ઉછાળો, જાણો લેટેસ્ટ રેટ",
-    "desc": "અમેરિકાની કોર્ટે ટ્રમ્પ વિરુદ્ધ ચુકાદો આપ્યો તેના કારણે અમેરિકી રાષ્ટ્રપતિ એવા બગડ્યા કે તેમણે તો ઉથલપાથલ મચાવવા માંડી જેની અસર સોના અને ચાંદીના ભાવ ઉપર પણ જોવા મળી રહી છે. કારણ કે આજે વાયદા બજાર ખુલતાની સાથે જ સોના અને ચાંદીના ભાવમાં જોરદાર ઉછાળો જોવા મળ્યો. જાણો લેટેસ્ટ સ્થિતિ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-surge-on-mcx-are-prices-rising-because-of-trump-new-decisions-know-the-latest-rates-465894 ",
-    "time": "2026-02-23T03:51:06.000Z"
   },
   {
     "cat": "Entertainment",

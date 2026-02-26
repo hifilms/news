@@ -1,21 +1,138 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "DGCA makes air ticket refund rules passenger friendly; no additional charges for changes within 48 hours of booking",
-    "desc": "Passengers can now cancel or amend ticket without any additional fee within 48 hours of booking; airline shall not levy any additional charge for correction in name of the same person when the error is pointed out by the passenger within 24 hours of making the booking",
-    "img": "https://th-i.thgim.com/public/incoming/pqmruq/article70679864.ece/alternates/LANDSCAPE_1200/IMG_1218.jpeg",
+    "title": "Samyukt Kisan Morcha to meet CMs, Opposition leaders against U.S. deal in fight for federal rights",
+    "desc": "SKM leaders say they will submit a memorandum to the Chief Ministers and Leaders of Opposition for protecting interest of farmers by holding special sessions of State Assemblies and adopting resolutions asking the Union government to refrain from signing the deal",
+    "img": "https://th-i.thgim.com/public/latest-news/9inp2g/article70680893.ece/alternates/LANDSCAPE_1200/SKM.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/dgca-makes-air-ticket-refund-rules-passenger-friendly-no-additional-charges-for-changes-within-48-hours-of-booking/article70679429.ece",
-    "time": "2026-02-26T12:48:44.000Z"
+    "url": "https://www.thehindu.com/news/national/samyukt-kisan-morcha-to-meet-cms-opposition-leaders-against-us-deal-in-fight-for-federal-rights/article70680170.ece",
+    "time": "2026-02-26T15:45:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Marco Rubio declares ‘old world is gone,’ calls for rebuilding western order",
+    "desc": "U.S. Secretary of State Marco Rubio has declared that “the old world is gone,” signalling a major shift in American foreign policy. Speaking in Washington and at the Munich Security Conference, Rubio called for rebuilding international institutions, criticised mass migration and free trade policies, and urged a renewed Western civilisational alliance.",
+    "img": "https://th-i.thgim.com/public/news/national/mun6d4/article70680758.ece/alternates/LANDSCAPE_1200/TH%20EXPLAIN%207.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-marco-rubio-declares-old-world-is-gone-calls-for-rebuilding-western-order/article70680800.ece",
+    "time": "2026-02-26T15:29:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 South stories of the day",
+    "desc": "South cinema saw a whirlwind of news as Vijay Deverakonda and Rashmika Mandanna tied the knot, sparking fan frenzy. The 'Bro Code' title row concluded with a Madras High Court compromise. Meanwhile, actor Aishwarya was among 11 arrested in a Kannada filmmaker's assault case, and the ED charged Ranya Rao in a gold smuggling probe.",
+    "img": "https://static.toiimg.com/photo/msid-128818444,imgsize-260708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-marries-rashmika-mandanna-ranya-rao-gold-smuggling-case-bro-code-title-row-ends-top-5-south-stories-of-the-day/articleshow/128818444.cms",
+    "time": "2026-02-26T15:27:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Auqib Nabi's defining Ranji season",
+    "desc": "Auqib Nabi's exceptional bowling performance has propelled Jammu & Kashmir to the brink of a historic Ranji Trophy title. The seamer, who became the competition's leading wicket-taker, emphasized a simple, disciplined approach focusing on line and length. Nabi's success, attributed to strong wrist position for swing and movement, has fulfilled a long-held dream for J&K cricket.",
+    "img": "https://static.toiimg.com/photo/msid-128818362,imgsize-94424.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-baramulla-to-the-brink-of-history-auqib-nabis-defining-ranji-trophy-season/articleshow/128818384.cms",
+    "time": "2026-02-26T15:25:30.000Z"
   },
   {
     "cat": "Politics",
-    "title": "ED Director arrives in Chennai, to review pending money laundering cases in T.N.",
-    "desc": "Rahul Navin’s visit comes days after the Madras High Court directed the Directorate of Vigilance and Anti-Corruption to register a case on the complaint sent by the ED to the State police chief about huge corruption in the Department of Municipal Administration and Water Supply",
-    "img": "https://th-i.thgim.com/public/incoming/yopsmm/article70679713.ece/alternates/LANDSCAPE_1200/20250501121L.jpg",
+    "title": "Despite nesting decline, Wayanad’s vultures still soar",
+    "desc": "Although breeding has declined, experts say there is no immediate cause for concern as the vulture population in Wayanad Wildlife Sanctuary remains stable, with around 80 vultures recorded. Human disturbances can disrupt vulture breeding, while invasive species like Senna threaten the growth of native trees, further impacting nesting and foraging habitats.",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/h0w7yz/article70680537.ece/alternates/LANDSCAPE_1200/Vulture%201.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/ed-director-to-review-pending-money-laundering-cases-in-tn/article70679007.ece",
-    "time": "2026-02-26T12:46:58.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/despite-nesting-decline-wayanads-vultures-still-soar/article70680466.ece",
+    "time": "2026-02-26T15:20:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "J&amp;K seize control as Karnataka stare at massive first-innings deficit",
+    "desc": "Jammu and Kashmir's bowlers dominated Day 3 of the Ranji Trophy final, reducing Karnataka to 220/5. Opener Mayank Agarwal remained unbeaten on 130, but Karnataka trails by 364 runs. J&K's Auqib Nabi took three crucial wickets, dismantling Karnataka's top order.",
+    "img": "https://static.toiimg.com/photo/msid-128818197,imgsize-161142.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-final-jammu-and-kashmir-seize-control-as-karnataka-stare-at-massive-first-innings-deficit/articleshow/128818214.cms",
+    "time": "2026-02-26T15:15:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "66 inmates died in Chhattisgarh jails since January 2025, govt. tells Assembly; tribal leader’s custodial death triggers uproar",
+    "desc": "Tribal leader Jeevan Thakur died on December 4 last year after falling ill while in judicial custody;the Opposition MLAs questioned the circumstances around his death and claimed that he had been implicated in a false case",
+    "img": "https://th-i.thgim.com/public/incoming/fgq3tf/article70680703.ece/alternates/LANDSCAPE_1200/iStock-638712250.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/66-inmates-died-in-chhattisgarh-jails-since-january-2025-govt-tells-assembly-tribal-leaders-custodial-death-triggers-uproar/article70679665.ece",
+    "time": "2026-02-26T15:13:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India, Israel to resume FTA talks in May as both sides push for deeper trade ties",
+    "desc": "India and Israel are set to resume free trade agreement talks in May 2026 in Israel, following initial discussions in New Delhi. The negotiations cover a broad spectrum of trade and investment areas, aiming to unlock significant untapped potential. Despite recent trade dips, both nations are pushing for an ambitious pact to boost economic ties.",
+    "img": "https://static.toiimg.com/photo/msid-128817892,imgsize-171484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-israel-to-resume-fta-talks-in-may-as-both-sides-push-for-deeper-trade-ties/articleshow/128817742.cms",
+    "time": "2026-02-26T15:02:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala moots burning ivory stockpile for commercial use of ash",
+    "desc": "Kerala considers the possibility of burning nearly 13 tonnes of ivory, valued at approximately ₹260 crore, in compliance with Central directives aimed at disposing of wildlife articles. The ash, considered to possess medicinal properties, could be used for Ayurvedic medicine production.",
+    "img": "https://th-i.thgim.com/public/incoming/y1bo1z/article70680492.ece/alternates/LANDSCAPE_1200/Ex-forest-officGA3F5E1U7.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-moots-burning-ivory-stockpile-for-commercial-use-of-ash/article70680378.ece",
+    "time": "2026-02-26T14:37:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Digital news leaders emphasize trust, credibility, and content in the new era of journalism",
+    "desc": "The DNPA Conclave 2026 in New Delhi convened India's digital media leaders to discuss the future of news, governance, and innovation. Key themes included content economics, building trust, and the enduring value of print principles in the digital age. Experts emphasized credibility, authenticity, and strategic value as crucial for a resilient digital future.",
+    "img": "https://static.toiimg.com/photo/msid-128817281,imgsize-321752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dnpa-conclave-2026-digital-news-leaders-emphasize-trust-credibility-and-content-in-the-new-era-of-journalism/articleshow/128817324.cms",
+    "time": "2026-02-26T14:36:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why getting Indian users to pay for news remains a tough sell",
+    "desc": "Industry leaders met to shape digital journalism's future. Discussions focused on making Indian users pay for news. Experts highlighted that subscriptions require more than just content. They emphasized user experience, ease of access, and personalized value. Building trust and offering unique benefits are key to achieving sustainable growth in the digital news landscape.",
+    "img": "https://static.toiimg.com/photo/msid-128817093,imgsize-731468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dnpa-conclave-2026-why-getting-indian-users-to-pay-for-news-remains-a-tough-sell/articleshow/128816840.cms",
+    "time": "2026-02-26T14:30:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold, Silver valuation norms: SEBI shifts mutual funds to spot prices; new rules from April",
+    "desc": "Sebi has revamped how mutual funds value physical gold and silver, shifting to domestic spot prices from April 2026, replacing the LBMA benchmark. This move aims for greater transparency and alignment with Indian market conditions. Additionally, Sebi introduced a new scheme classification structure and tightened portfolio overlap disclosures to enhance investor protection and uniformity across the mutual fund industry.",
+    "img": "https://static.toiimg.com/photo/msid-128817008,imgsize-173942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-revises-valuation-norms-for-gold-silver-held-by-mutual-funds-polled-spot-prices-to-be-used-from-april-2026/articleshow/128816954.cms",
+    "time": "2026-02-26T14:27:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "What does Trump want from Iran?",
+    "desc": "On January 29, Trump shifted focus away from protests and urged Tehran to come and negotiate a deal on its nuclear programme; this marked a notable turn; in early January, while threatening military action against Iran, he had made no reference to the nuclear issue",
+    "img": "https://th-i.thgim.com/public/incoming/uw2geu/article70680346.ece/alternates/LANDSCAPE_1200/2026-01-30T015308Z_1663083504_RC2XFFATXIH8_RTRMADP_3_USA-TRUMP-IRS-LAWSUIT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/what-does-trump-want-from-iran/article70680165.ece",
+    "time": "2026-02-26T14:18:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Proteas do India a favour, sink Windies to keep semifinal race alive",
+    "desc": "South Africa secured a dominant nine-wicket victory over the West Indies in their T20 World Cup Super 8 clash, extending their unbeaten tournament run. Disciplined bowling restricted the West Indies to 176 for 8, with a late partnership providing a competitive total. Captain Aiden Markram's unbeaten 82 led South Africa's strong chase, ensuring a comfortable win.",
+    "img": "https://static.toiimg.com/photo/msid-128816139,imgsize-55104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sa-vs-wi-proteas-do-india-a-favour-sink-windies-to-keep-t20-world-cup-semifinal-race-alive/articleshow/128815805.cms",
+    "time": "2026-02-26T14:00:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Toxic' seals a mammoth Tamil Nadu deal",
+    "desc": "Yash's upcoming film 'Toxic' has secured a massive Rs 63 crore Tamil Nadu theatrical deal, a testament to his post-'KGF 2' market power. This record-breaking advance, achieved through a multi-distributor strategy, underscores sky-high expectations for a huge opening. The pan-Indian project, featuring a star-studded cast, is poised for a commercially powerful release on March 19.",
+    "img": "https://static.toiimg.com/photo/msid-128816166,imgsize-124054.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-seals-a-mammoth-tamil-nadu-deal-yashs-post-kgf-2-market-sets-the-stage/articleshow/128816166.cms",
+    "time": "2026-02-26T13:56:44.000Z"
   },
   {
     "cat": "World",
@@ -24,7 +141,70 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/4nr1jy/article70679790.ece/alternates/LANDSCAPE_1200/2026-02-05T174607Z_198016338_RC28ECAMGG84_RTRMADP_3_USA-TRUMP-EPSTEIN-WEF.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/ceo-of-world-economic-forum-borge-brende-quits-after-epstein-ties-scrutinised/article70679749.ece",
-    "time": "2026-02-26T12:29:00.000Z"
+    "time": "2026-02-26T13:43:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED places prosecution sanction order against ex-Union minister in Aircel-Maxis deal, INX media case",
+    "desc": "The Enforcement Directorate has filed a prosecution sanction order against former Union Finance Minister P Chidambaram in the Aircel-Maxis money laundering case. This move follows a Supreme Court ruling and aims to expedite the pending trial. The ED alleges Chidambaram granted FIPB approval for the deal in lieu of quid pro quo, with alleged illegal gratification received by his son.",
+    "img": "https://static.toiimg.com/photo/msid-128815799,imgsize-299768.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/trouble-for-p-chidambaram-ed-places-prosecution-sanction-order-against-ex-union-minister-in-aircel-maxis-deal-inx-media-case/articleshow/128815545.cms",
+    "time": "2026-02-26T13:42:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt. focusing on intra-linking of rivers as immediate priority, says Chandrababu Naidu",
+    "desc": "Connecting rivers from the Vamsadhara to the Penna in the State will be covered under this micro-management strategy while the next thing would be the much larger project of linking the Godavari and the Krishna, asserts Chief Minister in the Assembly",
+    "img": "https://th-i.thgim.com/public/incoming/fasbdj/article70680081.ece/alternates/LANDSCAPE_1200/10745_24_2_2026_20_3_19_3_IMG_20260224_WA0078.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-focusing-on-intra-linking-of-rivers-as-immediate-priority-says-chandrababu-naidu/article70679130.ece",
+    "time": "2026-02-26T13:29:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika-Vijay drop FIRST PICS as husband and wife: See inside",
+    "desc": "Vijay Deverakonda and Rashmika Mandanna have officially tied the knot in Udaipur, confirming their union as 'The Wedding of VIROSH'. The couple, who met on the sets of 'Geetha Govindam', celebrated their marriage with Telugu Hindu and Kodava rituals.",
+    "img": "https://static.toiimg.com/photo/msid-128812220,imgsize-196210.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-vijay-deverakonda-drop-gorgrous-first-pics-as-husband-and-wife-the-actress-gets-emotional-see-inside/articleshow/128812220.cms",
+    "time": "2026-02-26T13:13:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No undercover work!' PM Modi meets Fauda star cast on Israel visit, posts selfie",
+    "desc": "PM Modi's meeting with the star cast comes as various stakeholders in the Indian and Israeli entertainment industries have been seeking collaborative projects and possibilities of utilising each other's strengths in various aspects of the creative space. Last year, amid government efforts to make India a global film production hub, an Indian film festival kicked off in Israel with the screening of filmmaker Kiran Rao's acclaimed feature \"Laapataa Ladies\".​",
+    "img": "https://static.toiimg.com/photo/msid-128815076,imgsize-53560.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-undercover-work-pm-modi-meets-fauda-star-cast-on-israel-visit-posts-selfie/articleshow/128814694.cms",
+    "time": "2026-02-26T13:11:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold in ‘structural repricing phase’, could hit $6,000 in 12 months: Report",
+    "desc": "Gold's long-term outlook is bullish, with prices potentially reaching $5,000 per ounce by early 2026, according to MOFSL. Global de-dollarisation, fiscal stress, and geopolitical tensions are driving this 'structural repricing phase'. Analysts predict $6,000 in 12 months and $7,500 medium-term, citing investor confidence shifts and supply constraints.",
+    "img": "https://static.toiimg.com/photo/msid-128814898,imgsize-138180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-in-structural-repricing-phase-could-hit-6000-in-12-months-report/articleshow/128814817.cms",
+    "time": "2026-02-26T13:03:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bhagyashree slams unneccessary intimacy in movies today",
+    "desc": "Actress Bhagyashree, who debuted with Salman Khan, reflects on how marriage was a professional hurdle for actresses in the 90s due to patriarchal societal norms. She notes a paradigm shift with more women working post-marriage and increasing individualism influencing cinema, though she expresses discomfort with on-screen intimacy.",
+    "img": "https://static.toiimg.com/photo/msid-128814586,imgsize-101100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhagyashree-slams-unneccessary-intimacy-in-movies-today-recalls-how-marriage-was-an-obstacle-for-actresses-in-the-90s/articleshow/128814571.cms",
+    "time": "2026-02-26T12:50:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mortal Kombat II and the eternal hunt for the perfect video game movie",
+    "desc": "Mortal Kombat II’s trailer revives the franchise’s ritualistic tournament structure, embracing myth, stylised combat, and emotional nostalgia over exposition. With Karl Urban as a grounded yet theatrical Johnny Cage, the film centres identity and choreography, aiming to translate participatory video game intensity into cinematic form while restoring the symbolic clarity that defines Mortal Kombat’s enduring cultural legacy.",
+    "img": "https://static.toiimg.com/photo/msid-128814462,imgsize-1014633.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/mortal-kombat-ii-and-the-eternal-hunt-for-the-perfect-video-game-movie/articleshow/128807913.cms",
+    "time": "2026-02-26T12:46:17.000Z"
   },
   {
     "cat": "Politics",
@@ -55,39 +235,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "CAG finds fall in demand for work, person days of employment generated in Kerala",
-    "desc": "Demand for work declined by 13.77% during the 2020-21 to 2023-24 period. As a result, the person days of employment generated came down by 6%. Women accounted for 90% of total person-days, the highest in the country",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/mgnregs-cag-finds-fall-in-demand-for-work-person-days-of-employment-generated-in-kerala/article70679347.ece",
-    "time": "2026-02-26T12:07:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court bans NCERT class 8 books with controversial chapter on judiciary",
-    "desc": "A day after taking suo motu cognisance of controversial references to “corruption” in a Class 8 Social Science textbook, the Supreme Court of India ordered a complete ban on its reprinting and digital circulation. The Court directed immediate seizure of copies and warned of contempt if its order is violated.",
-    "img": "https://th-i.thgim.com/public/incoming/bycxa1/article70679474.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-26%20at%2016.02.42.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-supreme-court-bans-ncert-class-8-books-with-controversial-chapter-on-judiciary/article70679484.ece",
-    "time": "2026-02-26T12:05:38.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'Priyanka wasn't talking to me': Rahul Gandhi on how Wayanad helped end sibling tiff",
     "desc": "Rahul Gandhi shared a light-hearted anecdote about resolving a sibling dispute with his sister Priyanka Gandhi Vadra, attributing Wayanad's \"magic\" to their reconciliation. He recounted how a planned trip to the constituency, which he previously represented, led to Priyanka speaking to him again after a period of silence, highlighting the special connection he feels with the region.",
     "img": "https://static.toiimg.com/photo/msid-128813302,imgsize-1763918.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/priyanka-wasnt-talking-to-me-rahul-gandhi-on-how-wayanad-helped-end-sibling-tiff-watch/articleshow/128813149.cms",
     "time": "2026-02-26T12:01:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "a revisit",
-    "desc": "Three Scheduled Caste menvillagers in a Tamil Nadu village were hacked to death during brutal attacks unleashed by an armed gang of caste Hindus in 2018. The latter were enraged that the members of the Scheduled Caste, during a temple festival, had failed to present them with temple honours and were sitting cross-legged in their presence",
-    "img": "https://th-i.thgim.com/public/incoming/kur3ck/article70678897.ece/alternates/LANDSCAPE_1200/10217_3-6-2018_17-19-18_1_KACHANATHAM.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/2018-kachanatham-caste-murders-in-tamil-nadu-a-revisit/article70678499.ece",
-    "time": "2026-02-26T12:01:34.000Z"
   },
   {
     "cat": "Sports",
@@ -99,6 +252,15 @@ const newsData_en = [
     "time": "2026-02-26T11:59:03.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Priyanka Chopra says she felt drowned, cornered in Bollywood",
+    "desc": "Priyanka Chopra revealed feeling cornered and creatively limited in Bollywood, prompting her move to Hollywood for career longevity. She described her international music collaborations as a vital 'olive branch' and a 'breath of fresh air,' reigniting her passion and offering a much-needed escape from a stagnant industry.",
+    "img": "https://static.toiimg.com/photo/msid-128812940,imgsize-32564.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-says-she-felt-drowned-cornered-in-bollywood-opportunities-with-pitbull-will-i-am-made-her-feel-like-she-could-breathe/articleshow/128812869.cms",
+    "time": "2026-02-26T11:53:10.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'Not good sign for Gandhi's India': Mehbooba Mufti on PM Modi's Israel visit",
     "desc": "Calling Israeli prime minister Benjamin Netanyahu a \"criminal,\" former J&K chief minister Mehbooba Mufti said he was \"afraid of visiting many countries lest he be arrested\". Prime Minister Narendra Modi on Wednesday addressed the Knesset, which is the Israeli parliament, during his two-day visit to the West Asian nation, where he landed hours before his speech, which is the first by an Indian PM.",
@@ -108,15 +270,6 @@ const newsData_en = [
     "time": "2026-02-26T11:34:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘This is India, not North Korea’: Rahul slams PM over action against Youth Congress members",
-    "desc": "\"In today's India, under the rule of a compromised PM, peaceful protest has been turned into the biggest crime. The world's largest democracy is being slowly pushed in a direction where dissent is labelled as treason and asking questions is called a conspiracy,\" Congress leader Rahul Gandhi said",
-    "img": "https://th-i.thgim.com/public/incoming/8n1fne/article70679544.ece/alternates/LANDSCAPE_1200/20260224302L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/this-is-india-not-north-korea-rahul-slams-pm-over-action-against-youth-congress-members/article70679426.ece",
-    "time": "2026-02-26T11:33:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Yellow metal slips; check 24K, 22K city-wise rates",
     "desc": "Gold prices dipped in India's futures market on Thursday, influenced by a slump in spot demand and weak global cues, despite a rise in New York futures. Major Indian cities saw a decline in 24K, 22K, and 18K gold rates compared to the previous day, with Chennai experiencing a slight unchanged rate for 18K gold.",
@@ -124,15 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-check-gold-rate-in-your-city-on-february-26-2025-delhi-mumbai-bangalore-chennai-kolkata-hyderabad-ahmedabad-jaipur/articleshow/128811904.cms",
     "time": "2026-02-26T11:23:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vice-President asks students to reject colonial mindset, extols achievements made post-2019 in J&K",
-    "desc": "Addressing the graduating students in his maiden visit to J&K after assuming office, C.P. Radhakrishnan urges all of them to focus on swadeshi innovation and solutions, which are rooted in Indian knowledge, resources, and needs",
-    "img": "https://th-i.thgim.com/public/incoming/41d83d/article70679380.ece/alternates/LANDSCAPE_1200/11-Vice%20President-SGR-26-02-2026.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/vice-president-asks-students-to-reject-colonial-mindset/article70679289.ece",
-    "time": "2026-02-26T11:08:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -151,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-ronaldo-buys-25-stake-in-saudi-owned-spanish-club-ud-almera/articleshow/128811264.cms",
     "time": "2026-02-26T10:59:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Madras High Court upholds life sentences for 26, acquits one",
-    "desc": "In 2022, the Special Court for Exclusive Trial of Cases under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act in Sivaganga imposed life sentences on 27 persons belonging to a dominant, intermediate caste in the case",
-    "img": "https://th-i.thgim.com/public/incoming/flwdfm/article70679178.ece/alternates/LANDSCAPE_1200/10217_3-6-2018_17-18-11_1_KANACHANATHAM_1_.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/kachanatham-caste-murders-madras-high-court-upholds-life-sentences-for-26-acquits-one/article70678875.ece",
-    "time": "2026-02-26T10:53:48.000Z"
   },
   {
     "cat": "Business",
@@ -243,15 +378,6 @@ const newsData_en = [
     "time": "2026-02-26T10:12:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Student council opposes Azim Premji University’s FIR against Spark Reading Circle, flags ‘asymmetry in outcomes’ following vandalism at campus",
-    "desc": "Individuals accused of entering the campus without permission, assaulting members of the university community, and damaging property are facing bailable charges while students who organised a ‘peaceful gathering’ are reportedly booked for a non-bailable offence",
-    "img": "https://th-i.thgim.com/public/incoming/tu2gjq/article70678668.ece/alternates/LANDSCAPE_1200/20260225150L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/azim-premji-university-student-council-flags-asymmetry-in-outcomes-following-recent-campus-events-opposes-fir-against-spark-members/article70678468.ece",
-    "time": "2026-02-26T10:10:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'You do not want to expose...': Pathan's blunt message for Suryakumar",
     "desc": "Former India all-rounder Irfan Pathan advises the Men in Blue to focus on winning upcoming T20 World Cup matches. He suggests prioritizing victory over net-run-rate calculations. Pathan also proposes batting captain Suryakumar Yadav at number three to balance the top order, which currently features many left-handers. India faces Zimbabwe and the West Indies next.",
@@ -333,15 +459,6 @@ const newsData_en = [
     "time": "2026-02-26T08:45:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Selena Gomez shares her support for Benny Blanco",
-    "desc": "Selena Gomez publicly showered her husband, Benny Blanco, with affection after his new podcast, 'Friends Keep Secrets,' drew criticism for his visible dirty feet. Gomez shared a loving selfie video, declaring her deepening love for Blanco.",
-    "img": "https://static.toiimg.com/photo/msid-128807756,imgsize-44330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/selena-gomez-defends-husband-benny-blanco-after-dirty-feet-podcast-controversy-i-fall-more-and-more-in-love-with-you/articleshow/128807756.cms",
-    "time": "2026-02-26T08:40:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Government makes sale of E20 petrol with minimum RON 95 mandatory from April 1; what it means",
     "desc": "In a notification issued on February 17, the oil ministry has said that oil marketing companies must supply ethanol-mixed motor spirit (petrol) containing ethanol up to 20%, in accordance with specifications set by the Bureau of Indian Standards.",
@@ -360,24 +477,6 @@ const newsData_en = [
     "time": "2026-02-26T08:34:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shraddha Kapoor renews Juhu flat lease",
-    "desc": "Shraddha Kapoor has renewed the lease for her luxurious Juhu apartment at Rs 6 lakh per month, with the new agreement registered in February 2026. The Prime Beach flat spans 3,929 sq. ft. with four parking spaces. On the work front, she’ll next appear in Nikhil Dwivedi’s upcoming film 'Naagin'.",
-    "img": "https://static.toiimg.com/photo/msid-128807307,imgsize-50412.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shraddha-kapoor-renews-juhu-flat-lease-to-pay-rs-6-lakh-rent-per-month-reports/articleshow/128807307.cms",
-    "time": "2026-02-26T08:20:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Court acquits Sanjay Raut in defamation case filed by BJP leader Somaiya's wife",
-    "desc": "The BJP leader's wife had dragged the Rajya Sabha member to court, accusing them of being involved in a ₹100 crore scam related to the construction of public toilets in the Mira-Bhayander Municipal Corporation area",
-    "img": "https://th-i.thgim.com/public/incoming/ihc9qt/article70678846.ece/alternates/LANDSCAPE_1200/MH-CHANDRAPUR-MG24FIUL9V.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/court-acquits-sanjay-raut-in-defamation-case-filed-by-bjp-leader-somaiyas-wife/article70678823.ece",
-    "time": "2026-02-26T08:17:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'India never chased 160 in WC without Kohli': Sehwag drops harsh stat",
     "desc": "Virender Sehwag highlighted India's struggle in T20 World Cup chases exceeding 160, noting Virat Kohli's crucial role in past successes. He urged players like Suryakumar Yadav, Tilak Varma, Shivam Dube, and Hardik Pandya to emulate Kohli's match-finishing ability and play fearless cricket under pressure to secure victories.",
@@ -385,24 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-never-chased-160-in-world-cup-without-virat-kohli-virender-sehwag-drops-harsh-stat/articleshow/128807188.cms",
     "time": "2026-02-26T08:16:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay's Gangam style dance and more from pre-wedding festivities",
-    "desc": "Vijay Deverakonda and Rashmika Mandanna's pre-wedding bash was a K-drama dream, featuring a themed cake and a surprise \"Gangnam Style\" dance by Vijay that had everyone joining in. A unique Antakshari night, where guests sang only songs from the couple's films, added a personal touch. The festivities celebrated their journey with meaningful, culturally rich events.",
-    "img": "https://static.toiimg.com/photo/msid-128807107,imgsize-127654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/inside-vijay-deverakonda-and-rashmika-mandanna-pre-wedding-from-k-drama-inspired-cake-to-vijays-gangam-style-dance-and-movie-themed-antakshari-night/articleshow/128807107.cms",
-    "time": "2026-02-26T08:14:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi visits Yad Vashem Memorial in Israel, pays tribute to holocaust victims",
-    "desc": "Prime Minister Modi paid homage at Yad Vashem, Israel's Holocaust memorial, alongside PM Netanyahu, emphasizing respect and hope. He also explored Israeli tech advancements, urging investment in India. Earlier, the Israeli Parliament honored Modi with its highest award for strengthening bilateral ties, recognizing India's long-standing historical connections with Jewish communities.",
-    "img": "https://static.toiimg.com/photo/msid-128808615,imgsize-54212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-visits-yad-vashem-memorial-in-israel-pays-tribute-to-holocaust-victims/articleshow/128807099.cms",
-    "time": "2026-02-26T08:11:53.000Z"
   },
   {
     "cat": "Sports",
@@ -414,33 +495,6 @@ const newsData_en = [
     "time": "2026-02-26T08:07:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyanka played 'Mahamrityunjay mantra' when Malti was born premature",
-    "desc": "Priyanka Chopra Jonas revealed the harrowing journey of her daughter Malti Marie's premature birth and extended NICU stay. She described the intense fear and uncertainty of those months, transforming into a protective 'tigress' to ensure her daughter's survival and well-being.",
-    "img": "https://static.toiimg.com/photo/msid-128806934,imgsize-64156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-reveals-she-played-mahamrityunjay-mantra-om-namah-shivay-when-malti-marie-was-born-premature-at-just-27-weeks-recalls-how-traumatic-it-was/articleshow/128806893.cms",
-    "time": "2026-02-26T08:05:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zack Snyder teases Henry Cavill's return as Superman",
-    "desc": "Zack Snyder's recent social media post featuring Henry Cavill as Superman has ignited fervent fan speculation about a potential SnyderVerse revival. The filmmaker's cryptic quote, coupled with the release of a Deathstroke action figure, has fueled hopes for a return of the Justice League.",
-    "img": "https://static.toiimg.com/photo/msid-128806655,imgsize-79276.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zack-snyders-superman-post-featuring-henry-cavill-reignites-snyderverse-comeback/articleshow/128806338.cms",
-    "time": "2026-02-26T07:53:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Carney, PM Modi to meet in Delhi: What's on agenda for Canada PM's first official visit to India",
-    "desc": "Canadian Prime Minister Mark Carney begins a four-day visit to India, aiming to strengthen bilateral ties with Prime Minister Narendra Modi. The agenda includes discussions on trade, investment, energy, critical minerals, and people-to-people connections, seeking to inject fresh momentum after a diplomatic row.",
-    "img": "https://static.toiimg.com/photo/msid-128806555,imgsize-761024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/carney-pm-modi-to-meet-in-delhi-whats-on-agenda-for-canada-pms-first-official-visit-to-india/articleshow/128806393.cms",
-    "time": "2026-02-26T07:48:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ISL clubs reject late proposal to include Churchill in 2025-26 season",
     "desc": "Indian Super League clubs have unanimously rejected the All India Football Federation's proposal to include Churchill Brothers in the ongoing 2025-26 season. The clubs cited concerns over merit-based participation and competitive integrity, stating the league structure is closed and final. This decision comes after previous deliberations and a prior rejection by the AIFF Executive Committee.",
@@ -450,24 +504,6 @@ const newsData_en = [
     "time": "2026-02-26T07:47:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Taylor Swift and Travis Kelce spotted on a date",
-    "desc": "On the heels of growing BRIT Awards chatter, Taylor Swift and Travis Kelce were seen stepping out for a fashionable night in New York City. Swift, dressed in a refined black outfit, and Kelce, pairing a grey coat with striped trousers, appeared relaxed as they enjoyed the city.",
-    "img": "https://static.toiimg.com/photo/msid-128806270,imgsize-106296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-and-travis-kelce-set-out-for-a-date-night-amid-brits-rumors/articleshow/128806270.cms",
-    "time": "2026-02-26T07:40:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who was Bonu Komali? 21-year-old YouTuber dies by suicide",
-    "desc": "21-year-old YouTuber and BSc student Bonu Komali from Visakhapatnam was found dead in her Hyderabad home on February 23, 2026. Before taking her life, she messaged her mother, “I love you mummy so much. Jagratha. Thammudini baaga chusuko.” Police say relationship issues with her ex-boyfriend may have led to the tragedy.",
-    "img": "https://static.toiimg.com/photo/msid-128806335,imgsize-20850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-was-bonu-komali-21-year-old-youtuber-dies-by-suicide-after-sending-i-love-you-mummy-so-much-message-to-her-mother/articleshow/128806335.cms",
-    "time": "2026-02-26T07:39:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Chepauk and its colourful legacy of delivering classics",
     "desc": "The Indian team would hope to have another memorable outing at the M.A. Chidambaram Stadium when it squares off against Zimbabwe in the T20 World Cup Super Eight encounter; a win will bring the Suryakumar-led side back on track in the global tournament",
@@ -475,24 +511,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/chepauk-and-its-colourful-legacy-of-delivering-classics/article70677094.ece",
     "time": "2026-02-26T07:34:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Harry Styles laughed at grandma’s funeral: 'And then I was off'",
-    "desc": "During a candid chat on Brittany Broski’s show, Harry Styles revealed he once struggled not to laugh at his grandmother’s funeral because he started mentally soundtracking the cremation with songs like “Disco Inferno” and “Ring of Fire.” The darkly comic memory, which he brought up while discussing his forthcoming album, 'Kiss All The Time. Disco, Occasionally.",
-    "img": "https://static.toiimg.com/photo/msid-128806016,imgsize-154212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-admits-laughing-at-grandmas-funeral-thinking-of-cremation-songs-and-then-i-was-off/articleshow/128806016.cms",
-    "time": "2026-02-26T07:32:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Watch Meghalaya CM and MLA wife's light-hearted debate in assembly",
-    "desc": "Meghalaya MLA Mehtab Chandee A Sangma questioned her husband CM Conrad K Sangma on stalled livestock education projects, including a veterinary college and fishery and dairy colleges. The CM assured that steps are being taken to expedite the process and fill manpower shortages, acknowledging the large financial requirement for the veterinary college.",
-    "img": "https://static.toiimg.com/photo/msid-128807698,imgsize-44820.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sangma-vs-sangma-watch-meghalaya-cm-and-mla-wifes-light-hearted-debate-in-assembly/articleshow/128805971.cms",
-    "time": "2026-02-26T07:25:38.000Z"
   },
   {
     "cat": "Tech",
@@ -511,24 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/its-very-hard-for-us-why-dasun-shanaka-wants-govt-intervention-after-sri-lankas-t20-world-cup-disaster/articleshow/128804470.cms",
     "time": "2026-02-26T06:38:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mallikarjun Mutya of Mahal Roja Mutt in Yadgir district of Karnataka booked under POCSO Act for allegedly misbehaving with minor girl",
-    "desc": "The police action came after Child Development Project Officer, Shahapur, lodged a complaint as per instructions issued by the District Child Welfare Committee, which conducted an enquiry with the girl and her parents as well",
-    "img": "https://th-i.thgim.com/public/incoming/37rb7e/article70678437.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U207HCHIT_R1592924190_0_baf08861-ab58-4034-adad-68e21f7c8cb6.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/mallikarjun-mutya-of-mahal-roja-mutt-in-yadgir-district-of-karnataka-booked-under-pocso-act-after-viral-video-for-allegedly-misbehaving-with-minor-girl/article70678238.ece",
-    "time": "2026-02-26T06:12:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CPI(M) rejects Congress charge that Kerala Health Minister Veena George feigned injury during KSU protest in Kannur",
-    "desc": "CPI(M) State secretary M.V. Govindan accuses Opposition Leader V.D. Satheesan of ‘sanctioning organised criminal attacks’ against Veena George. KPCC president says police have foisted ‘false cases’ on the KSU workers, including charges of attempted murder, at the instance of CPI(M) leadership",
-    "img": "https://th-i.thgim.com/public/incoming/o448uf/article70678442.ece/alternates/LANDSCAPE_1200/Protests-galoreGNLFKVJVH.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/cpim-rejects-congress-charge-that-kerala-health-minister-veena-george-feigned-injury-during-ksu-protest-in-kannur/article70678408.ece",
-    "time": "2026-02-26T06:08:32.000Z"
   },
   {
     "cat": "Sports",
@@ -558,13 +558,13 @@ const newsData_en = [
     "time": "2026-02-26T03:55:50.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "A ‘Blessing’ India can’t overlook",
-    "desc": "India faces a crucial T20 World Cup match against Zimbabwe. Zimbabwe's tall fast bowler Blessing Muzarabani is a key player. He has taken many wickets and performed well in tough bowling spells. His height and skill make him a difficult opponent. India's batters must be careful against him. His team believes he has overcome injury to perform strongly.",
-    "img": "https://static.toiimg.com/photo/msid-128802906,imgsize-108846.cms",
+    "cat": "Business",
+    "title": "Nifty50 ends just shy of 25,500; BSE Sensex closes flat",
+    "desc": "The 30-share index began the day on a positive note and extended gains by about 303 points to touch an intraday high of 82,579.16 in late morning trade, supported by strength in other Asian markets. Meanwhile, the NSE Nifty 50 recorded a modest rise of 14.05 points, or 0.06 per cent, to close at 25,496.55.",
+    "img": "https://static.toiimg.com/photo/msid-128801007,imgsize-111000.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-zimbabwe-a-blessing-india-cant-overlook/articleshow/128801236.cms",
-    "time": "2026-02-26T03:35:47.000Z"
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-february-26-2026-dalal-street-indian-equities-global-markers-donald-trump-tariffs-us-iran-talks/articleshow/128800956.cms",
+    "time": "2026-02-26T03:49:55.000Z"
   },
   {
     "cat": "Sports",
@@ -603,15 +603,6 @@ const newsData_en = [
     "time": "2026-02-26T01:27:13.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Sanju Samson all set to feature in India’s must-win clash vs Zimbabwe",
-    "desc": "Defending champions India are considering changes to their opening partnership for a crucial Super Eights match against Zimbabwe. With qualification on the line after a loss to South Africa, wicketkeeper-batter Sanju Samson is a potential option to address struggles at the top of the order, particularly Abhishek Sharma's lean run.",
-    "img": "https://static.toiimg.com/photo/msid-128785103,imgsize-62404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sanju-samson-all-set-to-feature-in-indias-must-win-clash-vs-zimbabwe/articleshow/128785109.cms",
-    "time": "2026-02-25T23:30:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Banks lift share in flow of resources to corp sector",
     "desc": "Scheduled commercial banks have regained market share in commercial sector financing in FY26, expanding non-food credit faster than the overall resource pool. This reverses a contraction seen in FY25, driven by a surge in equity issuances and non-bank funding. Bank credit grew 55.3% in the first 10 months of FY26, lifting their share of total funding to 63.2%.",
@@ -646,15 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/uk-legislation-on-chagos-deal-paused-for-discussions-with-us-uk-minister/article70676859.ece",
     "time": "2026-02-25T19:57:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka High Court lays down procedure to access spouse’s income-tax returns in matrimonial disputes",
-    "desc": "The Karnataka High Court has issued comprehensive guidelines for spouses to obtain income tax returns and financial records of their partners in maintenance proceedings, as the law does not permit couples in matrimonial disputes to access each other’s financial data under the Right to Information Act",
-    "img": "https://th-i.thgim.com/public/incoming/tuauyt/article70677123.ece/alternates/LANDSCAPE_1200/Karnataka-High-GBOFKP7IV.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-lays-down-procedure-to-access-spouses-income-tax-returns-in-matrimonial-disputes/article70676050.ece",
-    "time": "2026-02-25T19:03:13.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-mexico-airport-passengers-recall-chilling-moments-during-cartel-shooting/article70670808.ece",
     "time": "2026-02-24T10:26:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC announces full fixtures for Women’s T20 World Cup 2026",
+    "desc": "The 10th edition of the competition will take place from June 12 to July 5 this year, with 12 teams vying for the title in what is the biggest field in the tournament’s history so far",
+    "img": "https://th-i.thgim.com/public/incoming/ygtbny/article70670690.ece/alternates/LANDSCAPE_1200/GettyImages-2179902518.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/icc-announces-full-fixtures-for-womens-t20-world-cup-2026/article70670596.ece",
+    "time": "2026-02-24T10:06:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The Kamal Haasan–Rajinikanth reunion film: Is Nelson the right choice?",
+    "desc": "The promo of the KH x RK reunion film has turned heads. The film has music scored by Anirudh and cinematography by Rajiv Menon. But is director Nelson the best creative choice for this massive project? We debate",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/ndm2vy/article70666391.ece/alternates/LANDSCAPE_1200/Nelson%20Kamal%20Haasan%20Rajinikanth.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/kh-x-rk-kamal-haasan-rajinikanth-nelson-anirudh-ravichander-rajiv-menon/article70666290.ece",
+    "time": "2026-02-24T06:03:17.000Z"
   }
 ];
