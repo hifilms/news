@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Kerala Health Minister Veena George discharged from Kannur hospital; further treatment in Thiruvananthapuram",
+    "desc": "Meanwhile, a photograph of the Minister taken with nurses at the Government Medical College Hospital has drawn criticism from political opponents. The selfie reportedly clicked inside the ICU has been questioned over protocol and decorum",
+    "img": "https://th-i.thgim.com/public/incoming/soz5on/article70682578.ece/alternates/LANDSCAPE_1200/Protests-galoreGNLFKVJVH.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-health-minister-veena-george-discharged-from-kannur-hospital-further-treatment-in-thiruvananthapuram/article70682443.ece",
+    "time": "2026-02-27T04:18:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Frozen wages, soaring prices",
+    "desc": "The compounded inflation rate in Karnataka between 2012 and 2024 has been calculated to be at 208.3%. With minumum wage revision hanging fire, workers have a tough time coping wit h the rising cost of living, reports Sharath S. Srivatsa",
+    "img": "https://th-i.thgim.com/public/incoming/3nu8o/article70680408.ece/alternates/LANDSCAPE_1200/IMG_6702_4_7_2021_18_13__2_1_IKBSPNHA.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/frozen-wages-soaring-prices/article70648788.ece",
+    "time": "2026-02-27T04:16:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Emma Stone and Chris Pine to join hands for ‘The Catch’",
+    "desc": "Hollywood is buzzing as Chris Pine is reportedly in talks to star alongside Emma Stone in the upcoming romantic comedy, 'The Catch'. This potential collaboration marks their first on-screen pairing. The film, described as a \"two-hander,\" is being co-produced by Stone and is expected to feature sharp, heartfelt writing from Patrick Kang and Michael Levin, with Dave McCary directing.",
+    "img": "https://static.toiimg.com/photo/msid-128836686,imgsize-28948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/emma-stone-and-chris-pine-make-rom-com-comeback-with-the-catch-what-we-know/articleshow/128836663.cms",
+    "time": "2026-02-27T04:16:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘We want to show fear to the opposition’: Tilak’s bold message after India’s win",
+    "desc": "Tilak Varma's explosive unbeaten 44 off 16 balls, and aggressive contributions from top-order batters powered India to a commanding 72-run victory over Zimbabwe, keeping their semifinal hopes alive. Adopting a fearless approach, Varma stated the team's intention to instill fear in opponents, emphasizing their commitment to aggressive batting regardless of early wickets.",
+    "img": "https://static.toiimg.com/photo/msid-128836635,imgsize-173882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-want-to-show-fear-to-the-opposition-tilak-varmas-bold-message-after-indias-do-or-die-triumph/articleshow/128836613.cms",
+    "time": "2026-02-27T04:14:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Venezuela suspends 19 oil, gas production-sharing contracts signed under Maduro, reports say",
+    "desc": "The suspension has had no impact on the country's oil and gas output so far, the ‌sources said. State oil giant PDVSA is selling the crude produced under the contracts while they are suspended, they added",
+    "img": "https://th-i.thgim.com/public/incoming/kmz3kp/article70682432.ece/alternates/LANDSCAPE_1200/2026-02-26T212023Z_460504296_RC2UTJABJMKL_RTRMADP_3_VENEZUELA-OIL-SHELL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/venezuela-suspends-19-oil-gas-production-sharing-contracts-signed-under-maduro-reports-say/article70682427.ece",
+    "time": "2026-02-27T03:40:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika-Vijay get teary-eyed during varmala ceremony",
+    "desc": "South Indian stars Rashmika Mandanna and Vijay Deverakonda tied the knot on February 26, 2026, in Udaipur, celebrating with both Telugu Hindu and Kodava traditions. Their emotional varmala ceremony, captured in wedding photos, touched fans. The couple's heartfelt social media posts expressed their joy and love for each other, marking a new chapter in their lives.",
+    "img": "https://static.toiimg.com/photo/msid-128835723,imgsize-226394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-and-vijay-deverakonda-wedding-virosh-gets-teary-eyed-during-varmala-ceremony/articleshow/128835723.cms",
+    "time": "2026-02-27T03:26:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Papa gaali dete the': Arshdeep reveals how India kept tabs on SA vs WI in Ahmedabad",
+    "desc": "India’s Super Eight fate briefly hinged on the West Indies vs South Africa clash. After South Africa’s win kept their hopes alive, India responded with a clinical performance against Zimbabwe. Backing their “brand of cricket” and team-first approach, the Men in Blue now head into a virtual quarter-final against the West Indies with renewed belief.",
+    "img": "https://static.toiimg.com/photo/msid-128835828,imgsize-53468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/papa-gaali-dete-the-arshdeep-singh-reveals-how-india-kept-tabs-on-south-africa-vs-west-indies-in-ahmedabad/articleshow/128835767.cms",
+    "time": "2026-02-27T03:24:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jonathan Majors to star in first film after assault conviction",
+    "desc": "Jonathan Majors, formerly a rising Marvel star, is returning to the screen in a new action movie now filming in South Carolina. The project marks his first major role since his assault conviction, which led to significant career fallout, including his removal from the high-profile role of Kang in the Marvel franchise.",
+    "img": "https://static.toiimg.com/photo/msid-128835763,imgsize-132222.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jonathan-majors-set-for-movie-comeback-after-2023-assault-conviction-and-marvel-exit/articleshow/128835763.cms",
+    "time": "2026-02-27T03:21:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rinku Singh’s father passes away after cancer battle",
+    "desc": "Indian cricketer Rinku Singh's father, Shri Khanchand Singh, passed away after a battle with cancer. Rinku had briefly left the T20 World Cup squad to be with his father during his worsening condition. Despite this personal tragedy, he rejoined the team, though he did not play in the recent match.",
+    "img": "https://static.toiimg.com/photo/msid-128835759,imgsize-42224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rinku-singhs-father-passes-away-after-cancer-battle/articleshow/128835774.cms",
+    "time": "2026-02-27T03:19:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'With Love' OTT: Where to watch the romantic drama",
+    "desc": "Debut romantic drama 'With Love,' starring Abishan Jeevinth and Anaswara Rajan, is nearing its Netflix digital release, reportedly on March 6, 2026. The film, which had a decent theatrical run, earned Rs 51 lakhs on its 14th day, bringing its total to Rs 22.60 crore. Critics praised its sincerity, charm, and lead performances.",
+    "img": "https://static.toiimg.com/photo/msid-128835532,imgsize-82296.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/with-love-ott-release-when-and-where-to-watch-abishan-jeevinth-and-anaswara-rajans-romantic-drama/articleshow/128835532.cms",
+    "time": "2026-02-27T03:08:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Must-win games reveal temperament’: Sachin hails India’s 256-run blitz in do-or-die clash",
+    "desc": "India's T20 World Cup campaign reignited with a dominant 72-run victory over Zimbabwe, setting a new tournament record with their highest-ever total of 256/4. Batting legends praised the team's character and fearless intent under pressure. This emphatic win, fueled by collective batting brilliance, has instilled renewed belief ahead of their next crucial match.",
+    "img": "https://static.toiimg.com/photo/msid-128835463,imgsize-152068.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/must-win-games-reveal-temperament-sachin-tendulkar-hails-indias-256-run-blitz-in-do-or-die-clash/articleshow/128835431.cms",
+    "time": "2026-02-27T03:01:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Kerala Story 2': HC stays the release; criticizes CBFC",
+    "desc": "The Kerala High Court has halted the release of 'The Kerala Story 2 - Goes Beyond', citing concerns over communal disharmony and a disregard for legal guidelines by the CBFC. The court emphasized that content potentially disrupting social harmony falls outside free speech protections. The Central government will now review the film's certification within two weeks.",
+    "img": "https://static.toiimg.com/photo/msid-128835238,imgsize-97926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-kerala-story-2-goes-beyond-hc-stays-the-release-of-film-criticizes-cbfc-for-granting-certificate/articleshow/128835238.cms",
+    "time": "2026-02-27T02:51:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Martin Short's comedy tour postponed following daughter's suicide",
+    "desc": "Comedian Martin Short has postponed his tour with Steve Martin following the recent death of his daughter, Katherine Hartley Short, at 42. Katherine, a licensed clinical social worker dedicated to mental health, passed away after her mother's earlier death from cancer. The family is devastated and requests privacy during this profound period of grief.",
+    "img": "https://static.toiimg.com/photo/msid-128835171,imgsize-77290.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/martin-short-and-steve-martin-postpone-comedy-tour-after-katherine-shorts-suicide-cite-unforeseen-circumstances/articleshow/128835138.cms",
+    "time": "2026-02-27T02:44:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "At $30bn, smartphones top exports in 2025",
+    "desc": "Smartphones, led by Apple's iPhone, became India's top export in 2025, surpassing automotive diesel fuel with $30.1 billion in shipments. This surge, driven by policy support and local manufacturing scale-up, saw iPhones account for nearly three-quarters of total smartphone exports. The US remained India's largest export market.",
+    "img": "https://static.toiimg.com/photo/msid-128834925,imgsize-1180673.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/iphone-surge-at-30bn-smartphones-top-exports-in-2025/articleshow/128834906.cms",
+    "time": "2026-02-27T02:20:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran says 'good progress' in U.S. talks, next round within a week",
+    "desc": "Iranian Foreign Minister Abbas Araghchi told state TV that the talks \"made very good progress and entered into the elements of an agreement very seriously, both in the nuclear field and in the sanctions field\".",
+    "img": "https://th-i.thgim.com/public/incoming/3ycu4b/article70681557.ece/alternates/LANDSCAPE_1200/2026-02-17T144335Z_457520665_RC2QNJAALWP4_RTRMADP_3_IRAN-CRISIS-GENEVA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-says-good-progress-in-us-talks-next-round-within-a-week/article70681431.ece",
+    "time": "2026-02-27T02:14:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Auto part companies step on expansion pedal as FTAs open up markets",
+    "desc": "Indian auto component firms are boosting investments and acquisitions. Free trade agreements are opening new export markets, particularly for US and European destinations. Companies like Tenneco India and Valeo are expanding their presence. This positions India as a competitive manufacturing and export hub for global automakers seeking diversified supply chains.",
+    "img": "https://static.toiimg.com/photo/msid-128834723,imgsize-1479380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/auto-part-companies-step-on-expansion-pedal-as-ftas-open-up-markets/articleshow/128834675.cms",
+    "time": "2026-02-27T02:05:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay-Rashmika's pics woo fans: 'So Shiv-Parvati coded'",
+    "desc": "Actors Vijay Deverakonda and Rashmika Mandanna's intimate Udaipur wedding has captivated fans, with photos drawing striking comparisons to mythological epics. A viral image of the couple, their shawl still connected as they hold hands, has sparked comparisons to divine pairings like Shiv-Parvati, Arjuna-Subhadra, and Ram-Sita, highlighting their regal and devoted presence.",
+    "img": "https://static.toiimg.com/photo/msid-128834066,imgsize-164942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vijay-deverakonda-and-rashmika-mandannas-wedding-photos-impress-fans-say-this-is-so-shiv-parvathi-coded/articleshow/128833666.cms",
+    "time": "2026-02-27T02:02:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay ’s wedding message to Rashmika Mandanna melt hearts",
+    "desc": "Newlyweds Vijay Deverakonda and Rashmika Mandanna are trending as their 'VIROSH' tag gains momentum post-wedding. Vijay shared an emotional note about making his best friend his wife, melting hearts. Celebrities and fans showered blessings, celebrating their journey from reel to real life. The couple had traditional Telugu and Kodava ceremonies in Udaipur.",
+    "img": "https://static.toiimg.com/photo/msid-128834452,imgsize-205218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/one-day-i-missed-her-netizens-touched-by-vijay-deverakondas-intimate-wedding-message-to-rashmika-mandanna/articleshow/128834452.cms",
+    "time": "2026-02-27T01:59:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Do Deewane Seher Mein' crosses Rs 6.8 cr globally on Day 7",
+    "desc": "The romantic drama 'Do Deewane Seher Mein', starring Siddhant Chaturvedi and Mrunal Thakur, has posted underwhelming box office numbers, managing only Rs 6.22 crore net in its opening week. Released in a market currently dominated by high-octane action films, the movie struggled to pull crowds, peaking at a single-day collection of just Rs 1.5 crore.",
+    "img": "https://static.toiimg.com/photo/msid-128834377,imgsize-98154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/do-deewane-seher-mein-box-office-collection-day-7-siddhant-chaturvedi-starrer-closes-opening-week-with-rs-6-8-crore-globally/articleshow/128834377.cms",
+    "time": "2026-02-27T01:49:46.000Z"
+  },
+  {
     "cat": "World",
     "title": "Hillary Clinton quizzed on Epstein, calls for Trump to testify",
     "desc": "Ms. Clinton told the congressional committee she had no information about Epstein’s crimes, never recalled encountering him, and had never visited his island or flown on his plane, accusing the panel of trying to “protect one public official” — Mr. Trump.",
@@ -72,6 +243,15 @@ const newsData_en = [
     "time": "2026-02-27T00:31:45.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "'Our video analyst prepared a slide': Surya reveals secret behind India's win vs Zimbabwe",
+    "desc": "India kept their T20 World Cup semifinal hopes alive with a dominant 72-run victory over Zimbabwe. A powerful batting display, featuring Abhishek Sharma's 55 and Hardik Pandya's unbeaten 50, set a massive target. Arshdeep Singh's three wickets then stifled Zimbabwe's chase, despite a brilliant 97 from Brian Bennett. This win sets up a crucial decider against the West Indies.",
+    "img": "https://static.toiimg.com/photo/msid-128822095,imgsize-51528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/our-video-analyst-prepared-a-slide-suryakumar-yadav-reveals-secret-behind-indias-win/articleshow/128822061.cms",
+    "time": "2026-02-27T00:31:00.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'O' Romeo' inches towards Rs 100 cr worldwide on Day 14",
     "desc": "Shahid Kapoor's 'O Romeo' has struggled at the box office after a strong opening weekend, failing to meet expectations. Despite a praised performance, the film's momentum waned, with Day 14 collections reaching Rs 1.25 crore. The movie has garnered Rs 61.55 crore domestically and Rs 96 crore worldwide, indicating a mixed reception from audiences. Read on to know more in detail.",
@@ -108,6 +288,15 @@ const newsData_en = [
     "time": "2026-02-26T23:30:00.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Karthik hails Nabi’s 58-wicket Ranji run; urges youth to emulate",
+    "desc": "Former India wicketkeeper Dinesh Karthik lauded Jammu and Kashmir pacer Auqib Nabi for his exceptional Ranji Trophy season, calling his performance a benchmark for aspiring cricketers. Karthik highlighted Nabi's consistent dominance, endurance, and resilience, stating he single-handedly propelled his team. Nabi's stellar bowling has been instrumental in Jammu and Kashmir's strong showing in the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-128819541,imgsize-18608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/do-it-the-auqib-nabi-way-ex-india-batters-message-to-young-cricketers-goes-viral/articleshow/128819470.cms",
+    "time": "2026-02-26T23:30:00.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Chief Justice of India to visit Tirupati on February 28",
     "desc": "Ahead of the scheduled visit, a team of officials led by District Collector S. Venkateswar, Joint Collector R. Govinda Rao, trainee Collector Sandeep Raghuvanshi, Superintendent of Police L. Subbarayudu Tirupati Airport Director Bhuminathan and others inspected the site being readied for the ‘Bhumi Puja’.",
@@ -115,15 +304,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-justice-of-india-to-visit-tirupati-on-february-28/article70680343.ece",
     "time": "2026-02-26T23:19:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shia LaBeouf ordered to return to rehab after arrest",
-    "desc": "A judge in New Orleans has ordered actor Shia LaBeouf to return to drug and alcohol rehabilitation and set his bond at USD 100,000 after he was charged with two counts of battery in connection with an alleged assault outside a bar during Mardi Gras.",
-    "img": "https://static.toiimg.com/photo/msid-128830749,imgsize-44870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/shia-labeouf-ordered-to-return-to-drug-and-alcohol-rehab-after-mardi-gras-arrest-actor-released-on-usd-100000-bond/articleshow/128827402.cms",
-    "time": "2026-02-26T22:46:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -135,40 +315,13 @@ const newsData_en = [
     "time": "2026-02-26T22:33:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Pink DENIES split from husband Carey Hart",
-    "desc": "Singer Pink and husband Carey Hart have reportedly separated after two decades of marriage, according to news outlets. The couple, together for 25 years and parents to two children, previously reconciled after a 2008 split. While no official confirmation has been released, Hart's last public tribute to Pink was in September 2025.",
-    "img": "https://static.toiimg.com/photo/msid-128829986,imgsize-155942.cms",
+    "cat": "Politics",
+    "title": "PM Modi questions NCERT lapse, Pradhan vows action",
+    "desc": "The Union government is taking swift action following the Supreme Court's strong condemnation of a NCERT textbook chapter referencing judicial corruption. Education Minister Dharmendra Pradhan apologized, promising accountability for those responsible. The controversial chapter has been removed, and the book will be rewritten for the 2026-27 academic year, with tighter review processes being considered.",
+    "img": "https://static.toiimg.com/photo/msid-128825821,imgsize-1220165.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/pink-rubbishes-reports-of-split-from-husband-carey-hart-after-20-years-of-marriage/articleshow/128827484.cms",
-    "time": "2026-02-26T22:27:38.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran says 'good progress' in U.S. talks, next round within a week",
-    "desc": "Iranian Foreign Minister Abbas Araghchi told state TV that the talks \"made very good progress and entered into the elements of an agreement very seriously, both in the nuclear field and in the sanctions field\".",
-    "img": "https://th-i.thgim.com/public/incoming/3ycu4b/article70681557.ece/alternates/LANDSCAPE_1200/2026-02-17T144335Z_457520665_RC2QNJAALWP4_RTRMADP_3_IRAN-CRISIS-GENEVA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-says-good-progress-in-us-talks-next-round-within-a-week/article70681431.ece",
-    "time": "2026-02-26T21:38:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chris Evans, Demi Moore to present",
-    "desc": "Meet your second slate of presenters for the 98th Oscars - Demi Moore, Javier Bardem, Chris Evans, Chase Infiniti, Maya Rudolph and Kumail Nanjiani were announced as the latest batch of presenters set to take the stage at the 2026 Oscars ceremony on March 15.",
-    "img": "https://static.toiimg.com/photo/msid-128827363,imgsize-107888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-chris-evans-demi-moore-javier-bardem-join-star-studded-lineup-of-presenters/articleshow/128827151.cms",
-    "time": "2026-02-26T21:30:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Rashmika Mandanna and Vijay Deverakonda’s wedding album",
-    "desc": "Rashmika Mandanna and Vijay Deverakonda’s wedding photos are finally here, and they do far more than capture a ceremony. The images tell a story — one of friendship, faith, tradition and a love that feels deeply rooted and unfiltered.",
-    "img": "https://static.toiimg.com/photo/msid-128826471,imgsize-154940.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/inside-rashmika-mandanna-and-vijay-deverakondas-wedding-album-what-the-pictures-truly-reveal/articleshow/128826471.cms",
-    "time": "2026-02-26T21:16:14.000Z"
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-questions-ncert-lapse-pradhan-vows-action/articleshow/128825798.cms",
+    "time": "2026-02-26T20:20:08.000Z"
   },
   {
     "cat": "Politics",
@@ -187,15 +340,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/india-eye-improved-batting-show-to-stay-afloat-in-womens-odi-series-against-australia/article70681408.ece",
     "time": "2026-02-26T20:01:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "After Kalki 2 and Spirit, Deepika passes on The White Lotus 4",
-    "desc": "For weeks, industry buzz suggested that Deepika Padukone had secured a role in season four of The White Lotus. However, a report now suggests that the actor will not be part of the Emmy-winning series. Deepika was approached for the show and discussions were held. However, the process reportedly hit a roadblock over the show’s mandatory audition policy.",
-    "img": "https://static.toiimg.com/photo/msid-128825153,imgsize-34204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-kalki-2898-ad-sequel-and-spirit-deepika-padukone-passes-on-the-white-lotus-4-as-she-was-not-keen-on-auditioning-report/articleshow/128825153.cms",
-    "time": "2026-02-26T19:36:20.000Z"
   },
   {
     "cat": "Politics",
@@ -234,15 +378,6 @@ const newsData_en = [
     "time": "2026-02-26T18:20:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kalyani shares Rashmika-Vijay's emotional varmala moment",
-    "desc": "Vijay Deverakonda and Rashmika Mandanna began a new chapter on Thursday as they tied the knot in an intimate ceremony in Udaipur, surrounded by family and close friends. Among those present was close friend Kalyani Priyadarshan, who shared a breathtaking glimpse from the couple’s varmala ceremony.",
-    "img": "https://static.toiimg.com/photo/msid-128822600,imgsize-130878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandannavijay-deverakonda-wedding-kalyani-priyadarshan-shares-emotional-varmala-moment-as-she-walked-toward-him-/articleshow/128822600.cms",
-    "time": "2026-02-26T18:07:56.000Z"
-  },
-  {
     "cat": "Business",
     "title": "PM Modi to inaugurate Micron’s semiconductor ATMP plant in Gujarat on Feb 28",
     "desc": "Prime Minister Modi inaugurates Micron Technology's Rs 22,516 crore semiconductor assembly and testing plant in Gujarat. This facility, the nation's first large-scale fabrication-linked unit, will produce SSDs, DRAM, and NAND products, crucial for AI-driven technologies. The plant aims to create 5,000 direct and 15,000 indirect jobs, bolstering India's semiconductor ambitions.",
@@ -259,24 +394,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/voters-go-to-polls-in-crucial-bye-election-test-for-uks-starmer/article70680369.ece",
     "time": "2026-02-26T17:46:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ritesh Sidhwani on ‘Boong’s BAFTA success: ‘A big one for the fraternity’",
-    "desc": "Ritesh Sidhwani praised the BAFTA victory of the Manipuri film 'Boong' as a landmark achievement for Indian cinema, noting that it is the first Indian film ever to win the Best Children's and Family Film award.",
-    "img": "https://static.toiimg.com/photo/msid-128821529,imgsize-71438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ritesh-sidhwani-on-boongs-bafta-success-and-theatrical-release-plans-a-big-one-for-the-fraternity/articleshow/128821529.cms",
-    "time": "2026-02-26T17:29:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ileana calls out unrealistic expectations around Rihanna’s post-pregnancy body",
-    "desc": "Ileana D’Cruz strongly stood up for Rihanna after online trolls body‑shamed the singer following childbirth. Calling out the \"unrealistic expectations\" forced on new mothers in showbiz, D’Cruz praised Rihanna for proudly owning her post-pregnancy body. Rihanna has previously said she wants to dress in ways that celebrate, not hide, her \"little pouch\" after having kids.",
-    "img": "https://static.toiimg.com/photo/msid-128821226,imgsize-118700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ileana-dcruz-calls-out-unrealistic-expectations-around-rihannas-post-pregnancy-body-this-makes-me-so-mad/articleshow/128821226.cms",
-    "time": "2026-02-26T17:20:25.000Z"
   },
   {
     "cat": "Politics",
@@ -322,15 +439,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/why-bulldozers-threaten-due-process/article70679694.ece",
     "time": "2026-02-26T16:55:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Airlines to offer 48-hour look-in period to make changes &amp; refunds to be made within 14 days",
-    "desc": "Airlines must now offer a 48-hour 'look-in option' for ticket cancellations or amendments without extra charges, provided the departure is at least 7 or 15 days away for domestic or international flights, respectively. Refunds will be processed within 14 days, and name corrections within 24 hours of booking on airline websites are free of charge.",
-    "img": "https://static.toiimg.com/photo/msid-128820538,imgsize-326984.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dgca-issues-new-refund-rules-airlines-to-offer-48-hour-look-in-period-to-make-changes-refunds-to-be-made-within-14-days/articleshow/128820433.cms",
-    "time": "2026-02-26T16:48:19.000Z"
   },
   {
     "cat": "World",
@@ -394,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-israel-to-resume-fta-talks-in-may-as-both-sides-push-for-deeper-trade-ties/articleshow/128817742.cms",
     "time": "2026-02-26T15:02:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Digital news leaders emphasize trust, credibility, and content in the new era of journalism",
-    "desc": "The DNPA Conclave 2026 in New Delhi convened India's digital media leaders to discuss the future of news, governance, and innovation. Key themes included content economics, building trust, and the enduring value of print principles in the digital age. Experts emphasized credibility, authenticity, and strategic value as crucial for a resilient digital future.",
-    "img": "https://static.toiimg.com/photo/msid-128817281,imgsize-321752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dnpa-conclave-2026-digital-news-leaders-emphasize-trust-credibility-and-content-in-the-new-era-of-journalism/articleshow/128817324.cms",
-    "time": "2026-02-26T14:36:38.000Z"
   },
   {
     "cat": "Business",
@@ -477,15 +576,6 @@ const newsData_en = [
     "time": "2026-02-26T11:59:03.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Yellow metal slips; check 24K, 22K city-wise rates",
-    "desc": "Gold prices dipped in India's futures market on Thursday, influenced by a slump in spot demand and weak global cues, despite a rise in New York futures. Major Indian cities saw a decline in 24K, 22K, and 18K gold rates compared to the previous day, with Chennai experiencing a slight unchanged rate for 18K gold.",
-    "img": "https://static.toiimg.com/photo/msid-128811993,imgsize-221060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-check-gold-rate-in-your-city-on-february-26-2025-delhi-mumbai-bangalore-chennai-kolkata-hyderabad-ahmedabad-jaipur/articleshow/128811904.cms",
-    "time": "2026-02-26T11:23:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Cristiano Ronaldo buys 25% stake in Saudi-owned Spanish club UD Almería",
     "desc": "Football icon Cristiano Ronaldo has acquired a 25% stake in Spanish second-tier club UD Almería, marking a significant step in his post-playing career ambitions. The investment, made through his CR7 Sports Investments subsidiary, signals his desire to contribute to the sport beyond the pitch. Almería's owner welcomed the move, highlighting Ronaldo's understanding of Spanish football and the club's potential.",
@@ -493,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-ronaldo-buys-25-stake-in-saudi-owned-spanish-club-ud-almera/articleshow/128811264.cms",
     "time": "2026-02-26T10:59:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "DGCA tweaks ticket refund, cancellation rules",
-    "desc": "The Directorate General of Civil Aviation (DGCA) has revised refund norms, allowing passengers to cancel or modify tickets without extra charges within 48 hours of booking. Airlines are also barred from levying charges for name corrections within 24 hours of booking directly through their website. These changes aim to streamline the refund process and enhance passenger convenience.",
-    "img": "https://static.toiimg.com/photo/msid-128811162,imgsize-639304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/48-hour-free-cancellation-dgca-modifies-ticket-refund-rules-sets-deadline-for-airlines/articleshow/128810954.cms",
-    "time": "2026-02-26T10:53:38.000Z"
   },
   {
     "cat": "World",
@@ -540,15 +621,6 @@ const newsData_en = [
     "time": "2026-02-26T09:45:49.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Government makes sale of E20 petrol with minimum RON 95 mandatory from April 1; what it means",
-    "desc": "In a notification issued on February 17, the oil ministry has said that oil marketing companies must supply ethanol-mixed motor spirit (petrol) containing ethanol up to 20%, in accordance with specifications set by the Bureau of Indian Standards.",
-    "img": "https://static.toiimg.com/photo/msid-128807752,imgsize-67968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/what-is-ethanol-blended-petrol-government-makes-sale-of-e20-petrol-with-minimum-ron-95-mandatory-from-april-1-what-is-means/articleshow/128807568.cms",
-    "time": "2026-02-26T08:38:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Devastated, disappointed, angry’: Sanga’s emotional posts after SL’s WC exit",
     "desc": "Kumar Sangakkara expressed deep disappointment as Sri Lanka exited the T20 World Cup, citing \"a lot of hurt all round.\" He warned of the nation falling behind if urgent changes aren't made, emphasizing the need to adapt to modern cricket's evolution. Sangakkara fears irrelevance if Sri Lanka fails to evolve, stressing the burden and privilege of national representation.",
@@ -568,24 +640,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Bumrah on brink of historic milestone as India’s WC hopes hang by a thread",
-    "desc": "Jasprit Bumrah is close to a major milestone of 500 international wickets. This could happen in India's vital T20 World Cup match against Zimbabwe. India needs a win to keep semifinal hopes alive. Bumrah's bowling is key for India's success. He has been in excellent form in the tournament. His wickets are crucial for the team.",
-    "img": "https://static.toiimg.com/photo/msid-128806917,imgsize-96262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-on-brink-of-historic-milestone-as-indias-t20-world-cup-hopes-hang-by-a-thread/articleshow/128806909.cms",
-    "time": "2026-02-26T08:07:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ISL clubs reject late proposal to include Churchill in 2025-26 season",
-    "desc": "Indian Super League clubs have unanimously rejected the All India Football Federation's proposal to include Churchill Brothers in the ongoing 2025-26 season. The clubs cited concerns over merit-based participation and competitive integrity, stating the league structure is closed and final. This decision comes after previous deliberations and a prior rejection by the AIFF Executive Committee.",
-    "img": "https://static.toiimg.com/photo/msid-128806503,imgsize-185880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/isl-clubs-reject-late-proposal-to-include-churchill-brothers-in-2025-26-season/articleshow/128806515.cms",
-    "time": "2026-02-26T07:47:17.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Chepauk and its colourful legacy of delivering classics",
     "desc": "The Indian team would hope to have another memorable outing at the M.A. Chidambaram Stadium when it squares off against Zimbabwe in the T20 World Cup Super Eight encounter; a win will bring the Suryakumar-led side back on track in the global tournament",
     "img": "https://th-i.thgim.com/public/incoming/joxovj/article70677095.ece/alternates/LANDSCAPE_1200/4871_22_1_2026_20_0_2_1_20260122_181835.JPG",
@@ -601,60 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/samsung-galaxy-s26-ultra-s26-and-galaxy-s26-launched-features-and-price/article70675637.ece",
     "time": "2026-02-26T07:05:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Very hard for us …’: Why SL captain wants govt intervention after WC disaster",
-    "desc": "Sri Lankan captain Dasun Shanaka has appealed to the government to shield players from excessive criticism, citing its detrimental impact on their mental health following the team's T20 World Cup exit. Shanaka expressed frustration over the negative environment, attributing the team's performance to factors like pitch conditions and fitness issues, while apologising to fans for the disappointing results.",
-    "img": "https://static.toiimg.com/photo/msid-128804648,imgsize-114932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/its-very-hard-for-us-why-dasun-shanaka-wants-govt-intervention-after-sri-lankas-t20-world-cup-disaster/articleshow/128804470.cms",
-    "time": "2026-02-26T06:38:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Very sorry’: Shanaka’s emotional apology after Sri Lanka’s WC humiliation",
-    "desc": "Sri Lanka's T20 World Cup campaign ended in disappointment, with captain Dasun Shanaka issuing a heartfelt apology to fans. He cited failures, fitness concerns, and missed opportunities as reasons for the team's exit in the Super Eight stage. Shanaka acknowledged the team's fitness levels lag behind global standards and called for long-term planning.",
-    "img": "https://static.toiimg.com/photo/msid-128803323,imgsize-77256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/very-sorry-dasun-shanakas-emotional-apology-after-sri-lankas-t20-world-cup-humiliation/articleshow/128803306.cms",
-    "time": "2026-02-26T05:34:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Team India eyes big win vs Zimbabwe at Chepauk",
-    "desc": "India face a crucial T20 World Cup match against Zimbabwe, with their qualification hopes hinging on other results. Batting order changes are likely, potentially seeing Sanju Samson open. Coach Kotak acknowledges batting struggles but defends recent performances. Axar Patel's return is also expected as India aims to regain momentum on a potentially high-scoring Chepauk pitch.",
-    "img": "https://static.toiimg.com/photo/msid-128802518,imgsize-190436.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/no-room-for-error-suryakumar-yadavs-team-india-eyes-big-win-vs-zimbabwe-at-chepauk/articleshow/128802368.cms",
-    "time": "2026-02-26T04:54:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Nifty50 ends just shy of 25,500; BSE Sensex closes flat",
-    "desc": "The 30-share index began the day on a positive note and extended gains by about 303 points to touch an intraday high of 82,579.16 in late morning trade, supported by strength in other Asian markets. Meanwhile, the NSE Nifty 50 recorded a modest rise of 14.05 points, or 0.06 per cent, to close at 25,496.55.",
-    "img": "https://static.toiimg.com/photo/msid-128801007,imgsize-111000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-february-26-2026-dalal-street-indian-equities-global-markers-donald-trump-tariffs-us-iran-talks/articleshow/128800956.cms",
-    "time": "2026-02-26T03:49:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan semi-final scenario: What Sri Lanka exit means for their chances",
-    "desc": "New Zealand's decisive win over Sri Lanka has eliminated the co-hosts from the T20 World Cup. This result, however, keeps Pakistan's semi-final hopes alive. The final qualification spot from Group 2 now hinges on the England versus New Zealand match, with Pakistan needing a significant victory in their final game to potentially advance.",
-    "img": "https://static.toiimg.com/photo/msid-128800770,imgsize-201552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-semi-final-scenario-what-sri-lanka-exit-means-for-their-chances/articleshow/128800674.cms",
-    "time": "2026-02-26T03:08:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "After the Ahmedabad blip, India have no room to slip up",
-    "desc": "India are up against an opposition - Zimbabwe - that already silenced a home crowd in the group stages when they beat Sri Lanka in Colombo, and Thursday presents them another opportunity to replicate that success at the noisy Chepauk. Both teams find themselves in a must-win situation and Zimbabwe's Ryan Burl didn't venture into the \"dangerous\" territory of silencing India in India.",
-    "img": "https://static.toiimg.com/photo/msid-128789854,imgsize-34176.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-india-have-no-room-to-slip-after-the-ahmedabad-blip/articleshow/128789854.cms",
-    "time": "2026-02-26T02:30:00.000Z"
   },
   {
     "cat": "World",

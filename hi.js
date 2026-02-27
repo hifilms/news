@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Rinku Singh's father Khachandra Singh passes away after battle with liver cancer",
+    "title": "Smriti Mandhana, Pratika Rawal open for India in Hobart",
+    "desc": "After sealing the T20I series 2-1, India suffered a 21-run defeat (DLS method) in the first ODI against Australia. With rain not expected to play spoilsport, the Harmanpreet Kaur-led side will be eyeing a bounce...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-australia-second-odi-live-cricket-updates-online-from-bellerive-oval-hobart-smriti-mandhana-harmanpreet-kaur-alyssa-healy-beth-mooney-2026-02-27-1031883",
+    "time": "2026-02-27T03:49:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav calls for better bowling performance after 72-run win vs Zimbabwe",
+    "desc": "India have kept their semi-finals hope alive with a 72-run win over Zimbabwe at the MA Chidambaram Stadium in Chennai. Leading up to the match, the form of certain key batters were under the scanner...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-calls-for-better-bowling-performance-after-72-run-win-vs-zimbabwe-2026-02-27-1031876",
+    "time": "2026-02-27T02:37:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rinku Singh's father Khanchandra Singh passes away after battle with liver cancer",
     "desc": "Grief has struck Indian cricketer Rinku Singh and his family. His father, Khachandra Singh, passed away at Yatharth Hospital in Greater Noida after battling stage 4 liver cancer. In the final days, his condition had turned...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-surpasses-rohit-sharma-achieves-major-milestone-as-south-africa-skipper-in-t20-world-cup-2026-02-26-1031824",
     "time": "2026-02-26T14:43:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India set to bat first in must-win T20 WC clash, make two changes",
-    "desc": "India locks horns with Zimbabwe in game 48 of the ongoing T20 World Cup 2026. The two sides take on each other in the Super 8 stage of the tournament at the MA Chidambaram Stadium...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-zim-india-set-to-bat-first-in-must-win-t20-wc-clash-make-two-changes-2026-02-26-1031813",
-    "time": "2026-02-26T13:09:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa thump West Indies in Ahmedabad, lift NRR weight off India's shoulders",
-    "desc": "The 47th game of the ongoing T20 World Cup 2026 saw South Africa taking on the West Indies. The two sides locked horns at the Narendra Modi Stadium in Ahmedabad on February 26. The clash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-thump-west-indies-in-ahmedabad-lift-nrr-weight-off-india-s-shoulders-2026-02-26-1031811",
-    "time": "2026-02-26T12:46:36.000Z"
   }
 ];

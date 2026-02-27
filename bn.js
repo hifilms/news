@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "‘আমার ওঁকেই প্রয়োজন ছিল...’ বিয়ের ছবি শেয়ার করে লিখলেন বিজয়, চোখের জলে স্বামীকে আলিঙ্গন রশ্মিকার",
+    "desc": "লাল রঙে সাজলেন রশ্মিকা ও বিজয়। বিজয়ের পরনে ছিল সাদা ধুতি ও লাল রঙের জমকালো উত্তরীয়। সঙ্গে সোনার ভারী গয়না। অন্য দিকে লাল টুকটুকে রঙের শাড়ি বেছে নিয়েছিলেন রশ্মিকা। ব্লাউজেও জমকালো কাজ। মাথায় সোনার টিয়ারা নজরকাড়া।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Rashmika-Mandanna-And-Vijay-Deverakonda-Are-Now-Married-2026-02-523f3369a7f802d7cb80a8595f1e15df-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/vijay-rashmika-wedding-deverakonda-shares-first-photo-with-wife-rashmika-mandanna-gets-emotional-at-the-wedding-venue-actor-said-i-needed-her-ss-2560115.html",
+    "time": "2026-02-27T03:44:07.000Z"
+  },
+  {
     "cat": "Business",
     "title": "পরিযায়ী শ্রমিক থেকে সফল উদ্যোগপতি! নয়া বিজনেস আইডিয়ায় ভাগ্য ঘুরল ৩৬০ ডিগ্রি, বাড়িতে বসেই অঢেল আয় মালদহের ব্যক্তির",
     "desc": "একসময় ভিন রাজ্যে শ্রমিকের কাজ করতেন, কিন্তু আজ তিনি নিজের গ্রামেই সফল ব্যবসায়ী। মালদহের এক ব্যক্তির নিজের উদ্যোগে এই ব্যবসা এখন হাজার হাজার টাকার আয়ের পথ দেখাচ্ছে। তার এই অনুপ্রেরণামূলক যাত্রা অন্য বেকারদের কাছে এক বড় দৃষ্টান্ত।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/rajya-sabha-election-march-16-mausam-noor-resigns-voting-in-five-seats-rmj-ws-l-2546035.html",
     "time": "2026-02-18T11:22:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "গার্লফ্রেন্ডকে মেরে মৃতদেহকে ধর্ষণ...সামনে আসার পরেও ঠোঁটের কোণে হাল্কা হাসি MBA ছাত্রের",
-    "desc": "তদন্তকারীরা জানাচ্ছেন, সেদিন ওই ঘরের ভিতরে যা ঘটেছিল তা আগে থেকেই প্ল্যান করা ছিল৷ পুলিশ সূত্রে জানা গেছে, ধামনোটিয়া প্রথমে ছাত্রীটিকে যৌন সম্পর্ক তৈরির জন্য চাপ দেয়। ধমনোটিয়া মেয়েটির মুখে কাপড় ঢুকিয়ে তার বুকের উপর চড়ে বসে৷ এরপরে, যতক্ষণ না সে জ্ঞান হারাচ্ছে ততক্ষণ সে মেয়েটির বুকের উপরে বসে থাকে৷ মেয়েটির শ্বাস বন্ধ হয়ে গেছে বুঝতে পারার পরে, ধমনোটিয়া মেয়েটির বুকে গায়ের জোরে ছুরি বসিয়ে দেয়৷ এত জোরে সে ছুরি বসয়েছিল ছিল যে অভিঘাতে ছুরিটাই ভেঙে যায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Indore-Incident-1-2026-02-8b919b0760b207287378ffd393b7498a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/indore-murder-case-update-piyush-dhamanodia-shows-no-remorse-smiles-after-raping-girlfriend-s-corpse-sta-2546403.html",
-    "time": "2026-02-18T09:41:19.000Z"
   }
 ];
