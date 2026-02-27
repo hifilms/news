@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "পরিযায়ী শ্রমিক থেকে সফল উদ্যোগপতি! নয়া বিজনেস আইডিয়ায় ভাগ্য ঘুরল ৩৬০ ডিগ্রি, বাড়িতে বসেই অঢেল আয় মালদহের ব্যক্তির",
+    "desc": "একসময় ভিন রাজ্যে শ্রমিকের কাজ করতেন, কিন্তু আজ তিনি নিজের গ্রামেই সফল ব্যবসায়ী। মালদহের এক ব্যক্তির নিজের উদ্যোগে এই ব্যবসা এখন হাজার হাজার টাকার আয়ের পথ দেখাচ্ছে। তার এই অনুপ্রেরণামূলক যাত্রা অন্য বেকারদের কাছে এক বড় দৃষ্টান্ত।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/cement-ring-making-business-idea-2026-02-7152c6d3a2bc8c2ff2c46c64ff30149f-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/malda-business-idea-migrant-worker-turned-entrepreneur-with-cement-ring-business-l18-local18-2558885.html",
+    "time": "2026-02-27T00:56:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ডাটা নয় ফুলে বাজিমাত! সজনেই লাখ টাকার স্বপ্ন দেখাচ্ছে সুন্দরবনে",
+    "desc": "ডাটা নয় ফুলে বাজিমাত! সজনে ফুলেই লাখ টাকার স্বপ্ন সুন্দরবনে। উত্তর ২৪ পরগনার সুন্দরবন উপকূলবর্তী এলাকায় সজনে ডাটা নয়, এবার সজনে ফুল বিক্রি করেই আয়ের পথ খুঁজে নিচ্ছেন একদল যুবক। ভেষজ ও ঔষধি গুণসম্পন্ন সজনে গাছ বহুদিন ধরেই পরিচিত হলেও তার ফুল যে এমন লাভজনক হতে পারে, তা নতুন করে প্রমাণ করছেন হাসনাবাদ, হিঙ্গলগঞ্জ সহ একাধিক এলাকার তরুণরা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bangla-News-1-2026-02-063d368c1f56b8c56e15f0b36e3e2386-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/bangla-news-moringa-flower-is-very-much-effective-to-enhance-earning-skills-arn-2559948.html",
+    "time": "2026-02-27T00:27:40.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "বাংলায় ক্ষমতা পেলেই অনুপ্রবেশ বন্ধ! শাহের গলায় কড়া হুঁশিয়ারি",
     "desc": "অনুপ্রবেশ ইস্যুতে ফের চড়া সুর শাহের। বাংলায় ক্ষমতায় এসেই অনুপ্রবেশে কড়া পদক্ষেপের হুঁশিয়ারি। সীমান্ত এলাকার জনবিন্যাস পরিবর্তন খতিয়ে দেখতে কমিটি। মার্চ মাসেই বিজেপির পরিবর্তন যাত্রায় অংশ নিতে বাংলায় আসছেন দেশের স্বরাষ্ট্রমন্ত্রী অমিত শাহ। তার আগেই বিহার থেকে বড় কথা বলে দিলেন শাহ।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/indore-murder-case-update-piyush-dhamanodia-shows-no-remorse-smiles-after-raping-girlfriend-s-corpse-sta-2546403.html",
     "time": "2026-02-18T09:41:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'রাজপালের স্ত্রী কেঁদে কেঁদে মেসেজ লিখে পাঠাত', ৯ কোটির ঋণ মামলায় অবশেষে মুখ খুললেন সেই ব্যবসায়ী! মারাত্মক অভিযোগ",
-    "desc": "৯ কোটি টাকার চেক বাউন্স মামলায়, অন্তর্বর্তীকালীন জামিন পাওয়ার পর, মঙ্গলবার তিহার জেল থেকে মুক্তি পেলেন বলিউড অভিনেতা রাজপাল যাদব। দিল্লি হাইকোর্ট তাঁর জামিন মঞ্জুর করেছে এবং মামলার পরবর্তী শুনানির দিন ধার্য হয়েছে ১৮ মার্চ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Rajlap-Yadav-Businessman-2026-02-f348ffdc9a4825c318a8e5b074b2efdb-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/rajpal-yadav-case-update-businessman-who-filed-complaint-finally-breaks-silence-rc-2546223.html",
-    "time": "2026-02-18T08:27:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "পাকিস্তানের সঙ্গে সম্পর্ক তলানিতে, এবার কি বড় খেসারত দিতে হবে ভারতকে, বিশ্বকাপ ছিনিয়ে নেওয়া হবে ভারতের থেকে",
-    "desc": "অস্ট্রেলিয়ান সংবাদপত্র \"দ্য এজ\"-এর একটি প্রতিবেদন অনুসারে, ভারত ও পাকিস্তান একে অপরের দেশে খেলতে অস্বীকার করে৷ এর ফলে উদ্ভূত লজিস্টিকাল সমস্যা এড়াতে আইসিসি ২০২৯ সালের চ্যাম্পিয়ন্স ট্রফি এবং ২০৩১ সালের ওয়ানডে বিশ্বকাপ ভারতের বাইরে সরিয়ে নেওয়ার কথা ভাবনা চিন্তা করছে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Ind-vs-pak-1-2026-02-a4f331944818e5a3878f87f71fc8445d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/india-pastan-relation-dispute-world-cup-2031-and-champions-trophy-2029-hosting-in-doubt-dd-2545935.html",
-    "time": "2026-02-18T06:36:30.000Z"
   }
 ];

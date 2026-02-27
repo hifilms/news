@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rinku Singh's father Khachandra Singh passes away after battle with liver cancer",
+    "desc": "Grief has struck Indian cricketer Rinku Singh and his family. His father, Khachandra Singh, passed away at Yatharth Hospital in Greater Noida after battling stage 4 liver cancer. In the final days, his condition had turned...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-s-father-khachandra-singh-passes-away-after-battle-with-liver-cancer-2026-02-27-1031863",
+    "time": "2026-02-27T01:38:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arshdeep Singh breaks Jasprit Bumrah's legendary record with three-wicket spell against Zimbabwe",
+    "desc": "Left-arm pacer Arshdeep Singh broke Jasprit Bumrah’s record for most wickets by an Indian in T20 World Cup history. The youngster claimed three wickets, ruining Zimbabwe’s middle order in India’s Super Eights clash at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-breaks-jasprit-bumrah-s-legendary-record-with-three-wicket-spell-against-zimbabwe-2026-02-27-1031861",
+    "time": "2026-02-27T01:12:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Memes galore as India stay alive in T20 World Cup with dominating win over Zimbabwe",
     "desc": "The Indian team registered a brilliant victory against Zimbabwe in game 48 of the ongoing T20 World Cup 2026. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February 26, and...",
     "img": "",
@@ -61,15 +79,6 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-zim-india-set-to-bat-first-in-must-win-t20-wc-clash-make-two-changes-2026-02-26-1031813",
     "time": "2026-02-26T13:09:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Rinku Singh not playing India vs Zimbabwe clash in Super Eights of the T20 World Cup 2026?",
-    "desc": "The stage is set for game 48 of the ongoing T20 World Cup 2026. Defending champions India lock horns with Zimbabwe at the MA Chidambaram Stadium in Chennai on February 26. It is worth noting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-rinku-singh-not-playing-india-vs-zimbabwe-clash-in-super-eights-of-the-t20-world-cup-2026-2026-02-26-1031803",
-    "time": "2026-02-26T13:08:03.000Z"
   },
   {
     "cat": "Sports",
