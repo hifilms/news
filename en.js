@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Shreya Ghoshal says she felt like a ‘misfit’ for Bipasha song",
+    "desc": "Singer Shreya Ghoshal may have made a dream debut with Sanjay Leela Bhansali’s Devdas, but success did not translate into instant offers. In a recent interaction, Shreya revealed that despite the film’s massive impact, it took time for her next big opportunity to arrive.",
+    "img": "https://static.toiimg.com/photo/msid-128864800,imgsize-95686.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shreya-ghoshal-says-she-felt-like-a-misfit-for-bipasha-basu-song-jaadu-hai-nasha-hai-recalls-lull-phase-after-devdas-debut/articleshow/128864800.cms",
+    "time": "2026-02-27T20:30:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "As J&K nears Ranji Trophy win, Omar heads to Karnataka to cheer for the home team; BJP and PDP extend support",
+    "desc": "Playing against Karnataka in the summit clash of the nation’s prestigious domestic cricket competition, J&K was in a commanding position on the penultimate day of the five-day contest, securing a 477-run lead at the KSCA Rajnagar Stadium in Hubbali",
+    "img": "https://th-i.thgim.com/public/news/cities/Delhi/ukwnfh/article70685865.ece/alternates/LANDSCAPE_1200/27_BM_Abdullah.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/as-jk-nears-ranji-trophy-win-omar-heads-to-karnataka-to-cheer-for-the-home-team-bjp-and-pdp-extend-support/article70684713.ece",
+    "time": "2026-02-27T20:28:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Indian American self-made millionaire reveals his ultimate success secrets",
+    "desc": "At 80, Silicon Valley pioneer Kanwal Rekhi shares his inspiring journey in 'The Ground Breaker'. From humble beginnings in India to becoming the first Indian-American founder to take a venture-backed company public on NASDAQ, Rekhi's memoir details his rise and lifelong mission. He now mentors thousands, investing in startups and fostering entrepreneurial growth globally through TiE.",
+    "img": "https://static.toiimg.com/photo/msid-128864500,imgsize-53878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/us/immigrant-engineer-to-silicon-valley-mentor-indian-american-self-made-millionaire-reveals-his-ultimate-success-blueprint/articleshow/128834291.cms",
+    "time": "2026-02-27T20:06:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajpal Yadav makes his first public appearance after jail",
+    "desc": "Weeks after being caught in a Rs 9 crore cheque bounce case, Rajpal Yadav stepped out in Mumbai — and turned a routine paparazzi spotting into a throwback moment. The actor, attending an event in the city, broke into a playful hop when photographers began chanting “Paani, paani,” a dialogue linked to his unforgettable Chhota Pandit character from Bhool Bhulaiyaa.",
+    "img": "https://static.toiimg.com/photo/msid-128864374,imgsize-58036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-makes-his-first-public-appearance-amid-rs-9-crore-cheque-bounce-case-greets-paps-with-chhota-pandit-jump/articleshow/128864374.cms",
+    "time": "2026-02-27T19:57:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A double murder in ‘mini Russia’",
+    "desc": "The killing of two women in January, both named Elena, reopens old questions over foreigners’ deaths in Goa. Sujay Gupta visits Arambol, a fishing village in North Goa, known for playing host to performers, sunset-seeking international travellers, and beach front bars. Running in the background are the stories of victims of alleged murders, whose families from overseas are still fighting for justice",
+    "img": "https://th-i.thgim.com/public/incoming/rv2yse/article70685513.ece/alternates/LANDSCAPE_1200/IMG_20200218_180449.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/goa/a-double-murder-in-mini-russia/article70684652.ece",
+    "time": "2026-02-27T19:43:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Warner Bros signs $110 billion deal with Paramount, its executive discloses in townhall",
+    "desc": "Netflix had the legal right to match the PSKY ⁠offer. As you all know, they ultimately decided not to do that. That then resulted in a signed agreement with PSKY as of this morning, says Bruce Campbell, ‌Warner Bros’ chief revenue and strategy officer",
+    "img": "https://th-i.thgim.com/public/news/national/9ltogk/article70685825.ece/alternates/LANDSCAPE_1200/2263189721.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/warner-bros-signs-110-billion-deal-with-paramount-its-executive-discloses-in-townhall/article70685822.ece",
+    "time": "2026-02-27T19:26:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vizhinjam ‘seafood poisoning’: searching for marine algal toxins in fish becoming an onerous task, say officials",
+    "desc": "Food Safety officials point out that the forensic report on the viscera samples of those who died of “seafood poisoning” alone can provide clarity. However, no stool or blood samples seem to have been collected from the deceased",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/vizhinjam-seafood-poisoning-searching-for-marine-algal-toxins-in-fish-becoming-an-onerous-task-say-officials/article70685008.ece",
+    "time": "2026-02-27T19:25:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia Bhatt breaks silence on BAFTA, Gone Girl backlash",
+    "desc": "After days of social media chatter, Alia Bhatt has finally responded to the online backlash that followed her appearance at the 79th British Academy Film Awards (BAFTA). In the now-viral video, Alia appeared momentarily surprised before naming Gone Girl. Several social media users suggested she looked nervous or was attempting to channel a confident “international star” persona.",
+    "img": "https://static.toiimg.com/photo/msid-128863343,imgsize-49248.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-breaks-silence-on-bafta-gone-girl-backlash-i-am-a-sweet-girl-i-am-uncool-girl/articleshow/128863343.cms",
+    "time": "2026-02-27T19:06:46.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "O. Panneerselvam: A man undone by his own decisions",
     "desc": "When he joined the DMK in the presence of Chief Minister M.K.Stalin, Mr. Panneerselvam was accompanied by only one legislator, P. Ayyappan. After his expulsion from the AIADMK in July 2022, Mr Panneerselvam had the support of two prominent leaders - R. Vaithilingam and P.H. Manoj Pandian. They joined the DMK recently.",
@@ -43,6 +115,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-felt-divine-vijay-deverakonda-felt-god-like-jewellers-reveal-10-month-design-journey/articleshow/128861468.cms",
     "time": "2026-02-27T18:01:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur",
+    "desc": "India posted 251/9 batting first, riding on fifties from Harmanpreet (54) and Pratika Rawal (52), but the visitors paid a heavy price for dropping multiple catches as Australia won by five wickets and 13.5 overs to spare in second ODI.",
+    "img": "https://th-i.thgim.com/public/incoming/mimf76/article70685756.ece/alternates/LANDSCAPE_1200/GettyImages-2263240137.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/not-batting-well-in-last-two-games-cost-india-harmanpreet-kaur/article70685753.ece",
+    "time": "2026-02-27T17:59:37.000Z"
   },
   {
     "cat": "Politics",
@@ -154,15 +235,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Vizhinjam “seafood poisoning”: searching for marine algal toxins in fish becoming an onerous task, say officials",
-    "desc": "Food Safety officials point out that only the forensic report on the viscera samples of those who died of “seafood poisoning” alone can provide clarity. However, no stool or blood samples seem to have been collected from the deceased",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/vizhinjam-seafood-poisoning-searching-for-marine-algal-toxins-in-fish-becoming-an-onerous-task-say-officials/article70685008.ece",
-    "time": "2026-02-27T15:49:29.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Watch",
     "desc": "In this episode of Tamil Nadu Elections with The Hindu, we decode OPS’s journey, from “Mr. Loyal” and the face of the 2017 Dharma Yudham, to expulsion from the AIADMK, a brief alignment with the BJP, and finally his entry into the DMK.",
     "img": "https://th-i.thgim.com/public/incoming/berym6/article70685122.ece/alternates/LANDSCAPE_1200/News%20Video%20Thumbs%202026%203.png",
@@ -189,15 +261,6 @@ const newsData_en = [
     "time": "2026-02-27T15:16:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Technical education sees strong revival in Kerala",
-    "desc": "Factors driving this trend include recent curriculum reforms aimed at aligning education with industry needs and enhancing practical learning opportunities, as the state invests in over 500 technology business incubators and a Digital Workforce Management System to connect job seekers with employers.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/technical-education-sees-strong-revival-in-kerala/article70684782.ece",
-    "time": "2026-02-27T15:01:42.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'The onus of raising a child right is not necessarily on women, on men too': Shefali",
     "desc": "At the TOI Uttarakhand Transformation Dialogues, Shefali Shah highlighted Uttarakhand's safety for solo female travelers. She emphasized that men's upbringing is crucial for women's safety and that financial independence empowers women to become benefactors, not just beneficiaries, as seen in their entrepreneurial ventures like home stays and local crafts.",
@@ -205,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-onus-of-raising-a-child-right-is-not-necessarily-just-on-women-but-on-men-too-says-shefali-shah-exclusive/articleshow/128856278.cms",
     "time": "2026-02-27T15:00:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kollam Corporation Budget presented; focus on tourism, transformative development projects",
-    "desc": "Budget allocates ₹100 crore for transforming Kollam into a top-tier tourist destination. It also proposes demolition of existing Chinnakada flyover to make way for a modern elevated flyover stretching from Kollam railway station to taluk office in order to alleviate congestion in the heart of the city",
-    "img": "https://th-i.thgim.com/public/incoming/lk6zva/article70684961.ece/alternates/LANDSCAPE_1200/80686_27_2_2026_18_37_10_1_28TVKO_BUDJET.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kollam-corporation-budget-presented-focus-on-tourism-transformative-development-projects/article70684540.ece",
-    "time": "2026-02-27T14:48:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -325,6 +379,15 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
+    "title": "Bollywood stars who turned down Hollywood projects",
+    "desc": "Over the years, several Bollywood stars have chosen to step away for reasons ranging from scheduling conflicts to creative preferences, comfort levels, or simply because they didn't want to audition for the part. From Deepika Padukone to Ranbir Kapoor and Aishwarya Rai, here's a look at some prominent Indian actors who bowed out of big Hollywood projects.",
+    "img": "https://static.toiimg.com/photo/msid-128842085,imgsize-35010.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-to-aishwarya-rai-bollywood-stars-who-turned-down-hollywood-projects/photostory/128842085.cms",
+    "time": "2026-02-27T12:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'The Kerala Story 2' gets relief, court lifts stay on the film's release",
     "desc": "The Kerala High Court has lifted a temporary ban on the film 'The Kerala Story 2'. A Division Bench stayed an earlier order that had stalled the movie's release for 15 days. The court had previously asked the CBFC to re-watch and reassess the film's certification due to allegations of promoting hatred.",
     "img": "https://static.toiimg.com/photo/msid-128850382,imgsize-45536.cms",
@@ -423,15 +486,6 @@ const newsData_en = [
     "time": "2026-02-27T10:32:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Isha recalls collapsing after 5 days of non-stop work",
-    "desc": "Isha Koppikar spoke about harsh working hours in films and TV, recalling how back‑to‑back shoots for 'Ek Vivaah Aisa Bhi' and 'Right Ya Wrong left her bedridden'. She joked about an 8‑hour workday, referencing Deepika Padukone’s demand, while also highlighting how gruelling schedules push the body to its limits.",
-    "img": "https://static.toiimg.com/photo/msid-128844954,imgsize-21802.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/isha-koppikar-recalls-collapsing-after-5-days-of-non-stop-work-bharti-singh-says-we-work-until-15-minutes-before-we-faint/articleshow/128844954.cms",
-    "time": "2026-02-27T10:30:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Yuvraj is his mentor': Ashwin shushes Amir over 'slogger' remark",
     "desc": "Ravichandran Ashwin defended Abhishek Sharma after Mohammad Amir called him “just a slogger” following three ducks in the T20 World Cup. Abhishek silenced critics with a quick 55 off 30 balls against Zimbabwe. Ashwin praised his bat swing and rejected the label, while Abhishek said he had waited for this moment and appreciated the team’s support.",
@@ -451,15 +505,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Taapsee Pannu appeals to viewers to watch her film Assi",
-    "desc": "Taapsee Pannu has been praised for her powerful performance in 'Assi', directed by Anubhav Sinha. The film explores sexual assault and a survivor’s painful fight for justice. Taapsee urged viewers to watch it in theatres, saying it may be uncomfortable but unforgettable.",
-    "img": "https://static.toiimg.com/photo/msid-128844428,imgsize-16468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/taapsee-pannu-on-assi-it-can-be-a-little-uncomfortable-actress-appeals-viewers-to-watch-her-latest-film/articleshow/128844428.cms",
-    "time": "2026-02-27T10:13:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Shah Rukh's KKR is more profitable than his movies,' says Karan Johar",
     "desc": "Karan Johar highlights Bollywood actors' increasing involvement in business ventures beyond films. He cites Shah Rukh Khan's deep engagement with his IPL team, KKR, as a prime example of a successful, hands-on partnership. Johar also mentions Alia Bhatt and Katrina Kaif's active roles in their respective brands, emphasizing genuine commitment over mere celebrity endorsement.",
     "img": "https://static.toiimg.com/photo/msid-128844067,imgsize-19162.cms",
@@ -469,30 +514,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Thaai Kizhavi' review: Radhikaa starrer wins hearts",
-    "desc": "Tamil film 'Thaai Kizhavi' has premiered, blending dark comedy, family drama, and rural entertainment. Early audience reactions on X praise its engaging first half, sharp comedy, and emotional moments, particularly highlighting performances from Singam Puli and Bala Saravanan. The film, a satirical take on avarice, is drawing positive buzz for its refreshing approach.",
-    "img": "https://static.toiimg.com/photo/msid-128843717,imgsize-169702.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-twitter-review-radhikaa-and-comedy-ensemble-win-hearts-sivakarthikeyan-joins-fans-for-fdfs/articleshow/128843717.cms",
-    "time": "2026-02-27T09:46:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Newlyweds Rashmika-Vijay finally pose for paps at Udaipur airport: PICS",
     "desc": "Newlyweds Rashmika Mandanna and Vijay Deverakonda made their first public appearance as a married couple after returning from their Udaipur wedding. Rashmika stunned in a vibrant red bridal ensemble, while Vijay complemented her in a silver kurta pyjama. The affectionate pair walked hand-in-hand, sharing warm greetings and flying kisses with the paparazzi, who showered them with congratulations.",
     "img": "https://static.toiimg.com/photo/msid-128842880,imgsize-35956.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/newly-wed-rashmika-mandanna-vijay-deverakonda-look-radiant-as-they-finally-pose-for-the-paps-at-udaipur-airport-throw-flying-kisses-pics-inside/articleshow/128842780.cms",
     "time": "2026-02-27T09:13:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karan Johar says actors are insecure, not loyal: 'Woh kisi ke nahi hai'",
-    "desc": "Filmmaker Karan Johar finds talent management a thankless job, citing rampant insecurity and disloyalty among actors who frequently switch agencies. He revealed that after investing years in an artist, they often move on, creating a frustrating cycle.",
-    "img": "https://static.toiimg.com/photo/msid-128842224,imgsize-30300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-says-actors-are-insecure-and-not-loyal-they-keep-hopping-and-skipping-woh-kisi-ke-nahi-hai/articleshow/128842247.cms",
-    "time": "2026-02-27T08:48:08.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/indonesia-frees-deports-american-who-spent-11-years-in-prison-for-bali-suitcase-murder/article70675157.ece",
     "time": "2026-02-25T10:52:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Cities in southeastern Brazil hit by floods, landslides",
-    "desc": "Severe floods in southeastern Brazil have killed at least 25 people and left dozens missing in the state of Minas Gerais, officials said on Tuesday (February 24, 2026). Meteorologists warned that more rain is expected in the region in the next few days.",
-    "img": "https://th-i.thgim.com/public/incoming/5ch7cw/article70675162.ece/alternates/LANDSCAPE_1200/brazil.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-cities-in-southeastern-brazil-hit-by-floods-landslides/article70675159.ece",
-    "time": "2026-02-25T10:31:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "report",
-    "desc": "Microsoft co-founder also admitted that he had two affairs with Russian women and that he made mistakes that had cast a cloud over the philanthropic group while insisting he didn’t participate in Epstein’s crimes, says report",
-    "img": "https://th-i.thgim.com/public/incoming/6lrlyi/article70675002.ece/alternates/LANDSCAPE_1200/IMG_TH20_New_Bill_Gates_2_1_HIFK4R4A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/bill-gates-apologises-to-foundation-staff-over-epstein-ties-report/article70674948.ece",
-    "time": "2026-02-25T10:01:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pleas against ‘The Kerala Story 2’ premature, misconceived: producer tells Kerala HC",
-    "desc": "In affidavit, film’s producer Vipul Amrutlal Shah says the definite article 'The' in the sequel’s title is a reference to the first film in the franchise and ‘does not restrict the movie’s subject matter to Kerala alone’",
-    "img": "https://th-i.thgim.com/public/incoming/5v4k5s/article70674958.ece/alternates/LANDSCAPE_1200/kerala.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/pleas-against-the-kerala-story-2-premature-misconceived-producer-tells-kerala-hc/article70674923.ece",
-    "time": "2026-02-25T09:51:57.000Z"
   }
 ];
