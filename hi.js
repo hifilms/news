@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "What do Pakistan need to do to qualify for the T20 World Cup 2026 knockouts? Check scenarios",
+    "desc": "Game 49 of the ongoing T20 World Cup 2026 saw England take on New Zealand. The two sides locked horns at the R. Premadasa Stadium in Colombo, and England managed to register a four-wicket win...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-do-pakistan-need-to-do-qualify-for-the-t20-world-cup-2026-knockouts-check-scenarios-2026-02-27-1031990",
+    "time": "2026-02-27T17:40:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England stun New Zealand with thrilling win, keep Pakistan alive in T20 World Cup",
+    "desc": "New Zealand and England locked horns in game 49 of the ongoing T20 World Cup 2026. The two sides took on each other at the R. Premadasa Stadium in Colombo on February 27. The clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-stun-new-zealand-with-thrilling-win-keep-pakistan-alive-in-t20-world-cup-2026-02-27-1031985",
+    "time": "2026-02-27T16:59:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kris Srikkanth gives his take on India's sixth bowling option after Zimbabwe clash",
+    "desc": "The Indian team registered a brilliant win against Zimbabwe in game 48 of the ongoing T20 World Cup 2026. The two sides clashed at the MA Chidambaram Stadium in Chennai on February 26, and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kris-srikkanth-gives-his-take-on-india-s-sixth-bowling-option-after-zimbabwe-clash-2026-02-27-1031981",
+    "time": "2026-02-27T16:05:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "IPL 2026 start to be pushed back by two days, final to be played on May 31; Check details",
     "desc": "In a major development, the IPL (Indian Premier League) 2026 season is now slated to begin on March 28, two days later than originally planned. It is worth noting that the final of the tournament...",
     "img": "",
@@ -19,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "England two down early, New Zealand in command",
+    "title": "England defeat New Zealand by four wickets",
     "desc": "Game 49 of the ongoing T20 World Cup 2026 sees England taking on New Zealand. The two heavyweights of the tournament lock horns at the R. Premadasa Stadium in Colombo on February 27. It is...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-weighs-in-on-sanju-samson-s-performance-against-zimbabwe-in-chennai-2026-02-27-1031944",
     "time": "2026-02-27T10:17:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anil Kumble, Faf du Plessis analyse India's biggest problem before must-win clash against West Indies",
-    "desc": "India registered a comfortable 72-run win over Zimbabwe in Chennai to keep their T20 World Cup 2026 semi-final hopes alive. However, analysing the game, former cricketers Faf du Plessis and Anil Kumble believe there are...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/anil-kumble-faf-du-plessis-analyse-india-s-biggest-problem-before-must-win-clash-against-west-indies-2026-02-27-1031925",
-    "time": "2026-02-27T08:29:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neymar honours Vinicius, silences critics to push for spot in Brazil squad for FIFA World Cup",
-    "desc": "Neymar returned to the scoresheet in emphatic fashion, as Santos edged Vasco da Gama 2-1 in the fourth round of the Brasileirão. The former Barcelona and Paris Saint-Germain forward opened the scoring in the 25th...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/neymar-honours-vinicius-silences-critics-to-push-for-spot-in-brazil-squad-for-fifa-world-cup-2026-02-27-1031913",
-    "time": "2026-02-27T07:01:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Auqib Nabi claims five-wicket haul in Ranji Trophy final vs Karnataka, India call-up awaits",
-    "desc": "Jammu and Kashmir all-rounder Auqib Nabi has been a force to reckon with in the ongoing Ranji Trophy. The 29-year-old has impressed with both bat and ball and in the final against Karnataka at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-claims-five-wicket-haul-in-ranji-trophy-final-vs-karnataka-india-call-up-awaits-2026-02-27-1031910",
-    "time": "2026-02-27T06:36:18.000Z"
   }
 ];

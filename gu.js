@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "અત્યંત શક્તિશાળી છે આ વિઝા, એક જ વિઝા દ્વારા 29 દેશમાં જ્યાં ઈચ્છો ત્યાં ફરી શકો, જાણો વિશેષતા",
+    "desc": "ભારતીયો અને એમા પણ ખાસ કરીને ગુજરાતીઓ તો ફરવાના ખુબ શોખીન હોય છે. હાલ પરીક્ષાની મોસમ છે અને પરીક્ષાઓ પૂરી થયા બાદ લોકો રજાઓમાં ફરવા માટે ઉપડી જશે. ત્યારે અમે તમને આજે એક એવા વિઝા વિશે જણાવીશું જેમાં એક જ વિઝાથી તમે 29 જેટલા દેશ ઘૂમી શકશો. ખાસ જાણો તેના વિશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/schengen-visa-extremely-powerful-you-can-travel-in-29-countries-of-europe-know-about-it-466465 ",
+    "time": "2026-02-27T17:06:04.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ટીમ ઈન્ડિયા સાવધાન ! વેસ્ટ ઈન્ડિઝ સામેના આ આંકડા જોઈ ડરી ગયા ચાહકો, અચાનક વધી ગયું ટેન્શન, જાણો",
     "desc": "ટીમ ઈન્ડિયા માટે, વેસ્ટ ઈન્ડિઝ સામે સુપર 8 મેચ કરો યા મરો જેવી હશે. આ મેચ પહેલા, એક આંકડા સામે આવ્યા છે, જેનાથી ટીમ ઈન્ડિયાનું ટેન્શન વધી ગયું છે. જો ટીમ ઈન્ડિયા પોતાની ભૂલો સુધારશે નહીં, તો તેઓ ટુર્નામેન્ટમાંથી બહાર થઈ શકે છે.",
@@ -610,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/whatsapp-is-getting-a-new-feature-now-messages-will-be-scheduled-know-how-it-will-work-465839 ",
     "time": "2026-02-22T11:52:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "બેબી મંકીને આખરે મળ્યો પ્રેમ અને સ્નેહ! લોકોને આંસુ લાવી દીધા ! જુઓ Viral Video",
-    "desc": "વાયરલ બેબી વાંદરાની જન્મતાની સાથે જ તેની માતાથી અલગ થઈ ગયો હતો, આ ઘટના ઘણીવાર નાના અથવા નવા જન્મેલા મકાકમાં જોવા મળે છે. પ્રાણી સંગ્રહાલયના કર્મચારીઓએ તેની એકલતા અને અસલામતી દૂર કરવા માટે, તેને એક સોફ્ટ ઓરંગુટાન રમકડું આપ્યું, જે તેને ટેકો અને પોતાનું હોવાની ભાવના આપે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/baby-monkey-finally-gets-love-and-affection-viral-video-brings-people-to-tears-465831 ",
-    "time": "2026-02-22T10:18:20.000Z"
   },
   {
     "cat": "Entertainment",

@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "'যুবসাথী' প্রকল্পে আবেদন করেছেন...? অ্যাপ্লিকেশন গৃহীত হল নাকি 'রিজেক্টেড'? এইভাবে করুন 'চেক'! দেখে নিন স্টেপ বাই স্টেপ গাইড",
+    "desc": "লক্ষ্মীর ভাণ্ডারের দুর্দান্ত সাফল্যের পর এবার রাজ্যের মমতা বন্দ্যোপাধ্যায় সরকারের অন্যতম চর্চিত সরকারি প্রকল্প 'বাংলার যুব সাথী প্রকল্প'। রাজ্যের এই প্রকল্পে মাসে মাসে ১৫০০ টাকা করে পাবেন বেকার যুবক-যুবতীরা। ইতিমধ্যেই রাজ্যে এই প্রকল্পে ৮৪ লক্ষেরও বেশি আবেদন জমা পড়েছে। আপনিও কি আছেন সেই তালিকায়? তাহলে এই ভাবে জেনে নিন আপনার আবেদনের স্ট্যাটাস। কবে থেকে পাবেন টাকা?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/yuva-sathi-3-2026-02-b9d614027db62f53dbbd5504565b671c-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/yuva-sathi-status-checking-have-you-applied-for-the-yuva-sathi-scheme-money-has-the-application-been-accepted-or-rejected-check-it-now-with-step-by-step-guide-sanj-2561449.html",
+    "time": "2026-02-27T17:25:15.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Dona Ganguly's Diksha Manjari Basanta Utsav 2026: ভারতীয় জাদুঘরে রঙের উৎসব! বসন্তের মহড়ায় মাতল দীক্ষা মঞ্জরী...",
     "desc": "বিগত বেশ কিছু বছরে বসন্তের বন্দনায় দীক্ষা মঞ্জরীর বসন্ত উৎসব শহরের এক উল্লেখযোগ্য অনুষ্ঠানে পরিণত হয়েছে। এবছরেও জাঁকজমকের কোনো কমতি হবে না। নৃত্য পরিবেশন করবেন পাঁচ শতাধিক ছাত্র-ছাত্রী। বাংলায় দোলের আর অন্যান্য প্রদেশের হোলির গানে-নাচে আর আবিরের রঙে ভরে উঠবে ভারতীয় জাদুঘরের প্রাঙ্গণ।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/vijay-deverakonda-and-rashmika-mandanna-rumoured-wedding-dates-venue-reception-plans-know-all-transpg-pbd-2548722.html",
     "time": "2026-02-19T17:52:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'ভারতে' আগে ১০টা বাজে নাকি 'পাকিস্তানে'...? অধিকাংশই জানেন না সঠিক 'উত্তর'! আপনি?",
-    "desc": "খুব তো পাকিস্তান পাকিস্তান করছেন। টি টোয়েন্টি বিশ্বকাপ নিয়ে ফেসবুকে বিতর্কের ঝড় তুলছেন তো রাতদিন। আচ্ছা বলুন তো দেখি, 'ভারতে' না 'পাকিস্তানে' কোথায় আগে 'দশটা' বাজে জানেন কি? সঠিক উত্তর শুনলে আপনিও কিন্তু চমকাবেন উত্তরে! জানুন অবাক করা এক গুচ্ছ পাকিস্তান সংক্রান্ত সাধারণ জ্ঞানের প্রশ্নোত্তর। আপনি জানেন তো সঠিক উত্তরগুলি? দেখে নিন তো মিলিয়ে!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/pakistan-1-2026-02-5d062b1364edb3ee7273973bd8020cc0-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/pakistan-is-it-10-o-clock-earlier-in-india-or-in-pakistan-most-people-do-not-know-the-correct-answer-do-you-know-the-right-answer-know-interesting-gk-facts-sanj-2548663.html",
-    "time": "2026-02-19T17:11:30.000Z"
   }
 ];
