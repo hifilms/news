@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Vijay-Rashmika’s chemistry was all natural: Anamika Khanna",
+    "desc": "It was a wedding that felt intimate, deeply personal and culturally layered. When Vijay Deverakonda and Rashmika Mandanna tied the knot on Thursday at ITC Mementos Udaipur, their ensembles told a story of heritage as much as heart. Designed by Anamika Khanna, the wedding looks blended architectural memory, regional identity and the couple’s effortless bond.",
+    "img": "https://static.toiimg.com/photo/msid-128856532,imgsize-150246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-and-rashmika-mandannas-chemistry-was-so-organic-it-was-all-natural-says-anamika-khanna-who-designed-couples-wedding-outfits/articleshow/128856532.cms",
+    "time": "2026-02-27T15:16:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Watch",
+    "desc": "In this episode of Tamil Nadu Elections with The Hindu, we decode OPS’s journey, from “Mr. Loyal” and the face of the 2017 Dharma Yudham, to expulsion from the AIADMK, a brief alignment with the BJP, and finally his entry into the DMK.",
+    "img": "https://th-i.thgim.com/public/incoming/berym6/article70685122.ece/alternates/LANDSCAPE_1200/News%20Video%20Thumbs%202026%203.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-opss-final-gamble-from-jayalalithaas-loyalist-to-stalins-camp-suggested-thumbnail-survival-mode/article70685144.ece",
+    "time": "2026-02-27T15:15:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Technical education sees strong revival in Kerala",
+    "desc": "Factors driving this trend include recent curriculum reforms aimed at aligning education with industry needs and enhancing practical learning opportunities, as the state invests in over 500 technology business incubators and a Digital Workforce Management System to connect job seekers with employers.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/technical-education-sees-strong-revival-in-kerala/article70684782.ece",
+    "time": "2026-02-27T15:01:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The onus of raising a child right is not necessarily on women, on men too': Shefali",
+    "desc": "At the TOI Uttarakhand Transformation Dialogues, Shefali Shah highlighted Uttarakhand's safety for solo female travelers. She emphasized that men's upbringing is crucial for women's safety and that financial independence empowers women to become benefactors, not just beneficiaries, as seen in their entrepreneurial ventures like home stays and local crafts.",
+    "img": "https://static.toiimg.com/photo/msid-128856237,imgsize-25568.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-onus-of-raising-a-child-right-is-not-necessarily-just-on-women-but-on-men-too-says-shefali-shah-exclusive/articleshow/128856278.cms",
+    "time": "2026-02-27T15:00:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kollam Corporation Budget presented; focus on tourism, transformative development projects",
+    "desc": "Budget allocates ₹100 crore for transforming Kollam into a top-tier tourist destination. It also proposes demolition of existing Chinnakada flyover to make way for a modern elevated flyover stretching from Kollam railway station to taluk office in order to alleviate congestion in the heart of the city",
+    "img": "https://th-i.thgim.com/public/incoming/lk6zva/article70684961.ece/alternates/LANDSCAPE_1200/80686_27_2_2026_18_37_10_1_28TVKO_BUDJET.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kollam-corporation-budget-presented-focus-on-tourism-transformative-development-projects/article70684540.ece",
+    "time": "2026-02-27T14:48:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress using guarantees to deflect attention away from failure to develop State, says Kumaraswamy",
+    "desc": "Ministers are just repeating that they have kept their promises on guarantees as an excuse for not taking up any development, according to Union Minister who addresses rally in Vijayapura to celebrate 25 years of founding of party",
+    "img": "https://th-i.thgim.com/public/incoming/biab6k/article70684837.ece/alternates/LANDSCAPE_1200/9727_27_2_2026_18_31_30_1_28BGMHDKBIJAPUR1.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/congress-using-guarantees-to-deflect-attention-away-from-failure-to-develop-state-says-kumaraswamy/article70684317.ece",
+    "time": "2026-02-27T14:33:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yami says Dhurandhar 2 will be an experience people will never forget",
+    "desc": "Following the massive success of 'Dhurandhar', actress Yami Gautam has revealed she has already seen the sequel and is stunned by its quality. She praised director and husband Aditya Dhar's passion and dedication, calling 'Dhurandhar 2' an unforgettable experience that will make every Indian proud.",
+    "img": "https://static.toiimg.com/photo/msid-128855267,imgsize-32874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yami-gautam-says-she-has-watched-dhurandhar-2-and-it-will-be-an-experience-that-people-will-never-forget-aditya-loves-his-audience/articleshow/128855261.cms",
+    "time": "2026-02-27T14:31:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Chosen to be like any other Congressman’: John Brittas targets Shashi Tharoor over ‘Keralam’ remarks",
+    "desc": "CPI(M) leader John Brittas has criticized Congress MP Shashi Tharoor. Tharoor questioned the symbolic shift from Kerala to Keralam. Brittas accused Tharoor of acting like any other Congressman. He reminded Tharoor of his earlier praise for Kerala as a model of growth. Brittas also dismissed Tharoor's concerns about new terms like Keralite and Keralan.",
+    "img": "https://static.toiimg.com/photo/msid-128855514,imgsize-36712.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/chosen-to-be-like-any-other-congressman-john-brittas-targets-shashi-tharoor-over-keralam-remarks/articleshow/128855043.cms",
+    "time": "2026-02-27T14:24:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Aim is to see Andhra University among top 10  institutions nationally, says HRD Minister Lokesh",
+    "desc": "Promising to celebrate the university’s centenary on a grand scale, he asserts that its ranking improved after the coalition government came to power, and vows action against those responsible for irregularities in the institution soon",
+    "img": "https://th-i.thgim.com/public/incoming/sfbcm7/article70684643.ece/alternates/LANDSCAPE_1200/VZ22AUEMBLAM1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/aim-is-to-see-andhra-university-among-top-10-institutions-nationally-says-hrd-minister-lokesh/article70684074.ece",
+    "time": "2026-02-27T14:10:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Never claimed I was ill while resigning, says former V-P Jagdeep Dhankhar",
+    "desc": "The former V-P stressed that he was only “giving priority” to his health when he quit in the middle of his term on July 21, 2025; he spoke while on a “personal visit” to a Congress MP’s home in Rajasthan",
+    "img": "https://th-i.thgim.com/public/incoming/n3dcl9/article70684479.ece/alternates/LANDSCAPE_1200/PTI07_21_2025_000536A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/never-claimed-i-was-ill-while-resigning-says-former-v-p-jagdeep-dhankhar/article70684193.ece",
+    "time": "2026-02-27T14:09:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "India’s first BAFTA winning film ‘Boong’ to hit theatres again",
+    "desc": "'Boong', the first Indian film to win a BAFTA, returns to theatres on March 6 with a wider release. Directed by Lakshmipriya Devi, the film tells a moving story of a boy’s quest to reunite his family. It triumphed over global contenders like 'Zootopia 2' and 'Lilo & Stitch'.",
+    "img": "https://static.toiimg.com/photo/msid-128854040,imgsize-41044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/indias-first-bafta-winning-film-boong-to-hit-theatres-again-on-march-6-new-poster-revealed/articleshow/128854040.cms",
+    "time": "2026-02-27T13:59:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "New GDP series upgrades FY26 growth to 7.6%, but lowers size of India’s economy",
+    "desc": "According to the new data, India’s nominal GDP — which is essentially the size of the economy — has been revised downward for the three years spanning 2023-26, which will have a negative impact on several fiscal ratios",
+    "img": "https://th-i.thgim.com/public/incoming/y0l89g/article70683880.ece/alternates/LANDSCAPE_1200/GDP%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/india-gdp-growth-q3-fy26-economy-new-data-series-govt/article70683802.ece",
+    "time": "2026-02-27T13:56:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Unwarranted': Why Delhi court rapped CBI for 'South Group' tag in liquor policy case",
+    "desc": "A Delhi court discharged former chief minister Arvind Kejriwal, manish sisodia and 21 others in the liquor policy case, criticizing the CBI for using the term 'South Group'. The judge stated the label lacked legal basis, was arbitrary, and could prejudice proceedings, urging the agency to use neutral, evidence-based language.",
+    "img": "https://static.toiimg.com/photo/msid-128853718,imgsize-1156853.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/unwarranted-why-delhi-court-rapped-cbi-for-south-group-tag-in-excise-policy-case/articleshow/128852749.cms",
+    "time": "2026-02-27T13:52:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Anthem blunder in Colombo! NZ players left laughing",
+    "desc": "An interesting moment occurred before the England-New Zealand clash in Colombo when New Zealand’s national anthem played in fast forward, leaving players laughing. New Zealand won the toss and chose to bat, keeping the same XI, while England brought in Rehan Ahmed. England are already in the semifinals, while New Zealand must win to qualify.",
+    "img": "https://static.toiimg.com/photo/msid-128853389,imgsize-52414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/anthem-blunder-in-colombo-new-zealand-players-left-laughing-before-eng-vs-nz-clash-watch/articleshow/128853245.cms",
+    "time": "2026-02-27T13:42:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Did Robert Vadra, Rahul Gandhi go to jail?' Kejriwal hits back as Congress questions relief in liquor policy case",
+    "desc": "In a strongly worded ruling, Special Judge (PC Act) Jitender Singh of the Rouse Avenue Court said the prosecution’s case was \"legally infirm, unsustainable, and unfit to proceed any further in law\". The court further observed that when the material collected by the agency was tested on admissibility, relevance and probative value, \"the appearance of a coherent conspiracy dissolves,\" exposing the allegations as being founded on inadmissible material and post-facto reconstruction.",
+    "img": "https://static.toiimg.com/photo/msid-128853174,imgsize-47034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/did-robert-vadra-rahul-gandhi-go-to-jail-kejriwal-hits-back-as-congress-questions-relief-in-liquor-policy-case/articleshow/128852187.cms",
+    "time": "2026-02-27T13:35:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Dr R Meenakshi Sundaram outlines reform roadmap for 2047 goal",
+    "desc": "The Uttarakhand Transformation Dialogues 2026 began in Dehradun on Friday, bringing together government officials, industry leaders and experts to discuss the state’s development roadmap. Dr. R Meenakshi Sundaram outlined policy reforms aimed at supporting enterprise, infrastructure and tourism, while other speakers highlighted sustainable growth, women’s empowerment and sector-driven progress as Uttarakhand works towards the 2047 development goal",
+    "img": "https://static.toiimg.com/photo/msid-128852664,imgsize-24678.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/uttarakhand-transformation-dialogues-2026-dr-r-meenakshi-sundaram-outlines-reform-roadmap-for-2047-goal/articleshow/128849024.cms",
+    "time": "2026-02-27T13:32:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBI challenges in HC trial court order discharging Arvind Kejriwal, others in liquor-policy case",
+    "desc": "\"The Central Bureau of Investigation (CBI) has decided to appeal in the high court against the judgment of the trial court immediately since several aspects of the investigation have either been ignored or not considered adequately,\" CBI said in a statement",
+    "img": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/p3i1aj/article70684253.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-27%20at%204.49.31%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/cbi-challenges-in-hc-trial-court-order-discharging-arvind-kejriwal-others-in-liquor-policy-case/article70684050.ece",
+    "time": "2026-02-27T13:17:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hema shares sweet smile in public for the first time post Dharmendra’s demise",
+    "desc": "Actress and politician Hema Malini was recently seen smiling publicly for the first time since husband Dharmendra’s passing. Attending a city event in a green saree, she greeted paparazzi warmly. The veteran actor passed away in November 2025, leaving behind Hema, Prakash Kaur, and their children, including Sunny, Bobby, Esha, and Ahana.",
+    "img": "https://static.toiimg.com/photo/msid-128851573,imgsize-25116.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hema-malini-shares-sweet-smile-in-public-for-the-first-time-post-dharmendras-demise-leaves-paps-emotional/articleshow/128851573.cms",
+    "time": "2026-02-27T12:52:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ananya shares her favourite PIC from Rashmika",
+    "desc": "Rashmika Mandanna and Vijay Deverakonda are now married! Their private yet dreamy wedding went viral as fans and celebrities, including Ananya Panday, Vicky Kaushal, and Kriti Sanon, showered love. Vijay’s emotional note and Rashmika’s heartfelt message touched hearts, making their union one of the most talked-about Bollywood moments.",
+    "img": "https://static.toiimg.com/photo/msid-128850886,imgsize-31548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ananya-panday-shares-her-favourite-pic-from-rashmika-mandanna-and-vijay-deverakondas-wedding-cant-stop-gushing/articleshow/128850886.cms",
+    "time": "2026-02-27T12:39:20.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Arvind Kejriwal challenges PM Modi to hold fresh Delhi polls; HC gives nod to 'The Kerala Story 2' release; &amp; more",
     "desc": "Arvind Kejriwal has challenged PM Modi to fresh Delhi polls, citing court relief in the liquor scam case. The Kerala High Court has temporarily stayed the release of 'The Kerala Story 2'. Meanwhile, Pakistan's airstrikes on Afghan cities escalate tensions, while India's GDP shows robust 7.8% growth in Q3 FY26.",
@@ -7,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-arvind-kejriwal-challenges-pm-modi-to-hold-fresh-delhi-polls-hc-gives-nod-to-the-kerala-story-2-release-more/articleshow/128850301.cms",
     "time": "2026-02-27T12:37:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED attaches ₹90 crore assets linked to ‘strongman’ involved in coercive settlements of high-value loans",
-    "desc": "Wanted by three enforcement agencies, the accused is currently residing in the United Arab Emirates (UAE); the attached properties comprise various plots and land parcels, residential and commercial properties owned by Mr. Yadav and his wife Reena Kumari",
-    "img": "https://th-i.thgim.com/public/incoming/a3a7jo/article70683943.ece/alternates/LANDSCAPE_1200/IMG_vbk-stock-Enforcemen_2_1_HJEIJ92O.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ed-attaches-90-crore-assets-linked-to-strongman-involved-in-coercive-settlements-of-high-value-loans/article70683701.ece",
-    "time": "2026-02-27T12:34:49.000Z"
   },
   {
     "cat": "Politics",
@@ -34,6 +196,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-kerala-story-2-gets-relief-as-the-kerala-high-court-lifts-stay-on-the-release-of-the-film/articleshow/128850223.cms",
     "time": "2026-02-27T12:29:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pandit Ravi Shankar's centre slams Rishabh Sharma's claim of being his disciple",
+    "desc": "The Ravi Shankar Centre has refuted claims that Rishab Rikhiram Sharma was a disciple of the late maestro. A statement detailed an informal string-tying ceremony in 2012, not a formal initiation, and clarified that Ravi Shankar provided only a few lessons before his health declined.",
+    "img": "https://static.toiimg.com/photo/msid-128849622,imgsize-65356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pandit-ravi-shankars-centre-slams-rishabh-sharmas-claim-of-being-his-disciple-after-anoushka-shankar-denies-it-guruji-did-not-conduct-/articleshow/128849255.cms",
+    "time": "2026-02-27T12:15:34.000Z"
   },
   {
     "cat": "Politics",
@@ -63,15 +234,6 @@ const newsData_en = [
     "time": "2026-02-27T12:09:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CBI challenges in HC trial court order discharging Arvind Kejriwal, others in liquor-policy case",
-    "desc": "\"The Central Bureau of Investigation (CBI) has decided to appeal in the high court against the judgment of the trial court immediately since several aspects of the investigation have either been ignored or not considered adequately,\" CBI said in a statement",
-    "img": "https://th-i.thgim.com/public/incoming/a4kr2s/article70684073.ece/alternates/LANDSCAPE_1200/PTI02_27_2026_000212A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/cbi-challenges-in-hc-trial-court-order-discharging-arvind-kejriwal-others-in-liquor-policy-case/article70684050.ece",
-    "time": "2026-02-27T12:01:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Agam Kumar buys Rs 10 crore property in Madh Island",
     "desc": "Singer Sonu Nigam’s father, Agam Kumar Nigam, has purchased a Rs 10 crore property in Mumbai’s Madh Island. The 1,197-square-metre plot, named Mango Villa, includes residential and commercial structures. Registered on February 18, 2026, the deal adds to the Nigam family’s growing real estate portfolio in the celebrity-favoured neighbourhood.",
@@ -90,24 +252,6 @@ const newsData_en = [
     "time": "2026-02-27T11:43:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Minister in Assembly",
-    "desc": "Under the Chhatrapati Shivaji Maharaj Shetkari Sanman Yojana, 44.04 lakh farmers, out of the total 50.60 lakh eligible ones, have so far received benefits of the loan waiver scheme, while the process for the remaining 6.56 lakh farmers is underway",
-    "img": "https://th-i.thgim.com/public/incoming/j7vgki/article70683379.ece/alternates/LANDSCAPE_1200/2025-10-28T063745Z_1702077964_RC298HAJRJEC_RTRMADP_3_INDIA-CROPS-DAMAGE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/over-six-lakh-maharashtra-farmers-yet-to-get-2017-loan-waiver-scheme-benefit-minister-in-assembly/article70683283.ece",
-    "time": "2026-02-27T11:36:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Can India compete with China in rare earths?",
-    "desc": "India has stepped up its exploration of rare-earth minerals. The government has announced rare-earth corridors, cleared a ₹73-billion plan to build a domestic rare-earth magnet ecosystem, and expanded surveys across coastal sands and hard-rock regions. On paper, India seems ready. But having rare earths in the ground is not the same as having them in your supply chain",
-    "img": "https://th-i.thgim.com/public/incoming/cyamcx/article70683974.ece/alternates/LANDSCAPE_1200/thumbnail.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-can-india-compete-with-china-in-rare-earths-data-point/article70683967.ece",
-    "time": "2026-02-27T11:28:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Dropped catches hurt India as Aus win 2nd ODI, take 6-4 lead in all-format series",
     "desc": "Australia Women secured a commanding five-wicket victory over India Women, clinching the ODI series 2-0. Georgia Voll's century and Phoebe Litchfield's brisk 80 laid the foundation for the successful chase after India posted 251/9. This win extends Australia's all-format series lead, leaving India with much to ponder.",
@@ -117,15 +261,6 @@ const newsData_en = [
     "time": "2026-02-27T11:19:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala CM Pinarayi Vijayan inaugurates CBG plant at Brahmapuram",
-    "desc": "Agreements have been signed with BPCL to set up compressed biogas - based waste treatment plants in Kozhikode and Kollam, while projects are being developed under Public-Private Partnership model in Palakkad and Thrissur, and another under the Kerala Solid Waste Management Project in Changanassery",
-    "img": "https://th-i.thgim.com/public/incoming/jv8d9o/article70683930.ece/alternates/LANDSCAPE_1200/Brahmapuram28.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-cm-pinarayi-vijayan-inaugurates-cbg-plant-at-brahmapuram/article70683859.ece",
-    "time": "2026-02-27T11:16:06.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sivakarthikeyan answers on collaborating with Ajith",
     "desc": "Sivakarthikeyan, while promoting 'Thaai Kizhavi,' revealed his aspiration to produce a film starring Ajith Kumar. He admitted his production house is currently too small for such a big-star venture but expressed it's a dream he hopes to fulfill as his company grows. He also emphasized his commitment to producing quality films and his respect for Ajith.",
@@ -133,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/will-sivakarthikeyan-collaborate-with-ajith-kumar-the-actor-producer-answers-during-the-thaai-kizhavi-theatre-visit-in-madurai/articleshow/128846567.cms",
     "time": "2026-02-27T11:15:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Like many before him, Panneerselvam joins DMK, but here’s why he is different",
-    "desc": "None of those who went back to the DMK or began their new innings in the ruling party were seriously considered for the post of Chief Minister when they were in the AIADMK. But Mr. Panneerselvam was handpicked by Jayalalithaa in 2001 and 2014 to head the government",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/wavil9/article70683271.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-27%20at%2011.16.53.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/like-many-before-him-panneerselvam-joins-dmk-but-heres-why-he-is-different/article70683123.ece",
-    "time": "2026-02-27T11:07:22.000Z"
   },
   {
     "cat": "Politics",
@@ -169,15 +295,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/arco-movie-review-ugo-bienvenus-technicolour-optimism-outruns-its-own-ideas/article70683661.ece",
     "time": "2026-02-27T10:44:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Freed of Saturn’s affliction’: AIADMK welcomes Panneerselvam’s switch to DMK",
-    "desc": "However, describing Mr. Panneerselvam’s move as “unfortunate,” former interim general secretary of the AIADMK, V.K. Sasikala, in a post on social media, said the DMK was an “evil force” that must be removed from the State’s political scene",
-    "img": "https://th-i.thgim.com/public/incoming/5pdq89/article70683722.ece/alternates/LANDSCAPE_1200/20260227059L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/freed-of-saturns-affliction-aiadmk-welcomes-panneerselvams-switch-to-dmk/article70683320.ece",
-    "time": "2026-02-27T10:43:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -252,15 +369,6 @@ const newsData_en = [
     "time": "2026-02-27T09:59:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Activists urge Karnataka government to ensure proper implementation of CITIIS 2.0 project in Belagavi",
-    "desc": "Civic society groups have alleged that the CITIIS 2.0 project size had been scaled down by nearly 45% due to the negligence of the Belagavi city corporation and lack of support from the State Government",
-    "img": "https://th-i.thgim.com/public/incoming/c5uqb6/article70682640.ece/alternates/LANDSCAPE_1200/9727_25_2_2026_20_45_35_1_26BGMCCTENDULKARRC1.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/activists-urge-karnataka-government-to-ensure-proper-implementation-of-citiis-20-project-in-belagavi/article70676515.ece",
-    "time": "2026-02-27T09:57:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Thaai Kizhavi' review: Radhikaa starrer wins hearts",
     "desc": "Tamil film 'Thaai Kizhavi' has premiered, blending dark comedy, family drama, and rural entertainment. Early audience reactions on X praise its engaging first half, sharp comedy, and emotional moments, particularly highlighting performances from Singam Puli and Bala Saravanan. The film, a satirical take on avarice, is drawing positive buzz for its refreshing approach.",
@@ -277,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/priyanka-chopra-on-fighting-scenes-with-karl-urban-in-the-bluff-he-is-very-well-versed/articleshow/128843567.cms",
     "time": "2026-02-27T09:39:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Right to hold passport, travel abroad integral facet of personal liberty: Delhi HC",
-    "desc": "Justice Purushaindra Kumar Kaurav passed the order while setting aside the Centre's decision to impound the passport of Yogesh Raheja, erstwhile Director of Raheja Developers, for failing to disclose the pendency of an FIR against him at the time of applying for renewal",
-    "img": "https://th-i.thgim.com/public/news/national/y4bye6/article70683453.ece/alternates/LANDSCAPE_1200/iStock-117579203.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/right-to-hold-passport-travel-abroad-integral-facet-of-personal-liberty-delhi-hc/article70683403.ece",
-    "time": "2026-02-27T09:21:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -316,39 +415,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Arvind Kejriwal, Manish Sisodia cleared of charges in Delhi liquor policy case",
-    "desc": "A Delhi court discharged all 23 accused in the 2021–22 excise policy case, including Arvind Kejriwal, Manish Sisodia and K Kavitha, ruling there was “no overarching conspiracy or criminal intent”. The judge said the CBI’s case was based on conjecture.",
-    "img": "https://th-i.thgim.com/public/incoming/jlem6p/article70683299.ece/alternates/LANDSCAPE_1200/kejriwal%20final.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-arvind-kejriwal-manish-sisodia-cleared-of-charges-in-delhi-liquor-policy-case/article70683310.ece",
-    "time": "2026-02-27T08:34:00.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'No overarching conspiracy or criminal intent': Why court cleared Arvind Kejriwal, Manish Sisodia in Delhi excise policy case",
     "desc": "A Delhi court discharged Arvind Kejriwal, Manish Sisodia, and 21 others in the excise policy case, citing a lack of cogent evidence and no prima facie case. The judge found no overarching conspiracy or criminal intent in the policy's formulation, criticising the CBI's investigative approach and reliance on approver statements.",
     "img": "https://static.toiimg.com/photo/msid-128841731,imgsize-52558.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/no-overarching-conspiracy-or-criminal-intent-why-court-cleared-arvind-kejriwal-manish-sisodia-in-delhi-excise-policy-case/articleshow/128839045.cms",
     "time": "2026-02-27T08:27:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay-Rashmika invite PM Modi and Amit Shah to reception",
-    "desc": "Freshly married Vijay Deverakonda and Rashmika Mandanna, who wed in Udaipur, sent a formal invitation to Union Home Minister Amit Shah for their Hyderabad reception. Online pictures from their meeting have been circulating, and Prime Minister Narendra Modi offered heartfelt congratulations to the couple as they start this new chapter of life together. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128841353,imgsize-129024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-rashmika-mandanna-personally-invite-pm-narendra-modi-and-hm-amit-shah-to-their-wedding-reception/articleshow/128841353.cms",
-    "time": "2026-02-27T08:21:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Wire' actor Bobby J. Brown passes away at 62",
-    "desc": "Actor Bobby J. Brown, famed for his role as Officer Bobby Brown in 'The Wire', has died at 62 following a tragic barn fire at his Maryland home. The incident occurred while he was attempting to jump-start a vehicle. Brown, a former amateur boxing champion, transitioned to acting, leaving a legacy of authentic portrayals and impactful documentaries.",
-    "img": "https://static.toiimg.com/photo/msid-128841313,imgsize-114182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bobby-j-brown-passes-away-at-62-all-about-the-wire-actor-and-his-shocking-demise/articleshow/128841243.cms",
-    "time": "2026-02-27T08:11:29.000Z"
   },
   {
     "cat": "Sports",
@@ -361,30 +433,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Fans slam boyband group’s rumored new name",
-    "desc": "Fans are buzzing as ZEROBASEONE’s Ricky, Zhang Hao, Gyuvin, and Yujin return to YH Entertainment, sparking talk of a new boy group. The rumored name AND2BLE has drawn criticism, with many calling it a terrible fit. Despite the excitement around a fresh venture, no official confirmation has been issued.",
-    "img": "https://static.toiimg.com/photo/msid-128841341,imgsize-176866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/absolutely-terrible-fans-slam-zerobaseone-members-rumored-new-group-name/articleshow/128841341.cms",
-    "time": "2026-02-27T08:09:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Bachchan's cryptic tweet on loyalty leaves the internet amused",
     "desc": "Amitabh Bachchan's cryptic tweet about loyalty, stating \"Loyal men are found in every corner of the world, but unfortunately, the earth is round,\" amused fans and sparked humorous speculation. Meanwhile, the veteran actor is busy shooting for the 'Kalki 2898 AD' sequel in Hyderabad, where he recently reunited with Kamal Haasan after nearly 40 years for the project.",
     "img": "https://static.toiimg.com/photo/msid-128841179,imgsize-29934.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchans-cryptic-tweet-on-loyalty-leaves-the-internet-amused-netizens-say-guess-finding-loyal-people-is-hard/articleshow/128841209.cms",
     "time": "2026-02-27T08:01:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Grey’s Anatomy’ pays tribute to Eric Dane",
-    "desc": "‘Grey’s Anatomy’ honored the late Eric Dane, who portrayed Dr. Mark “McSteamy” Sloan. A poignant montage set to “Chasing Cars” featured his memorable moments, including his impactful deathbed advice. Dane, who passed away at 53 after an ALS diagnosis, left a significant mark on the beloved medical drama.",
-    "img": "https://static.toiimg.com/photo/msid-128841167,imgsize-99274.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/greys-anatomy-pays-tribute-to-alum-eric-dane-with-emotional-mcsteamy-montage/articleshow/128841167.cms",
-    "time": "2026-02-27T08:01:16.000Z"
   },
   {
     "cat": "Sports",
@@ -394,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-was-surprised-sunil-gavaskar-on-abhishek-sharmas-rare-defensive-shot-as-opener-silences-critics/articleshow/128840917.cms",
     "time": "2026-02-27T07:53:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC collegium decides to transfer judges proposed to be CJs of HCs well in advance",
-    "desc": "The collegium, headed by Chief Justice of India Surya Kant, said the decision was taken so that the judge, becomes well conversant with the affairs of that High Court and assumes charge of the office of the Chief Justice",
-    "img": "https://th-i.thgim.com/public/incoming/5ng1mf/article70683159.ece/alternates/LANDSCAPE_1200/PTI01_24_2026_000221A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sc-collegium-decides-to-transfer-judges-proposed-to-be-cjs-of-hcs-well-in-advance/article70683141.ece",
-    "time": "2026-02-27T07:45:52.000Z"
   },
   {
     "cat": "Politics",
@@ -441,15 +486,6 @@ const newsData_en = [
     "time": "2026-02-27T07:21:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Under POCSO, consent on trial",
-    "desc": "For over a decade, the Protection of Children from Sexual Offences Act, 2012, has served as India’s dedicated law against child sexual abuse. As families invoke it to oppose under-18 consensual inter-caste and inter-faith relationships, Aaratrika Bhaumik finds that courts are now confronting the law’s unintended consequences",
-    "img": "https://th-i.thgim.com/public/incoming/3vtyt8/article70681376.ece/alternates/LANDSCAPE_1200/iStock_1257142988.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/under-pocso-consent-on-trial/article70678615.ece",
-    "time": "2026-02-27T06:46:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "What Team India needs to do to reach semi-finals",
     "desc": "India's path to the T20 World Cup 2026 semi-finals is now clear, with a win against West Indies at Eden on Sunday securing their spot. Following South Africa's victory, the final Group 1 match is a virtual quarterfinal. India's dominant batting performance against Zimbabwe set them up for this crucial encounter.",
@@ -457,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-qualification-scenario-t20-world-cup-what-team-india-needs-to-do-to-reach-semi-finals/articleshow/128838829.cms",
     "time": "2026-02-27T06:19:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Former DMK MLA, six others get life imprisonment for farmer’s murder in Tiruvannamalai",
-    "desc": "The police said Kamalakannan was the son of former DMK MLA Jayaraman, who served as the Vandavasi MLA from 2006. After Jayaraman’s sudden death, Kamalakannan contested as a DMK candidate and won in the by-election held in 2009",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/5c6my0/article70682872.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-27%20at%2010.09.04.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/former-dmk-mla-six-others-get-life-imprisonment-for-farmers-murder-in-tiruvannamalai/article70682599.ece",
-    "time": "2026-02-27T06:13:48.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +522,6 @@ const newsData_en = [
     "time": "2026-02-27T05:24:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "From take-off to turbulence: What is going wrong with UDAN scheme?",
-    "desc": "Launched in 2016, the UDAN scheme aimed to make air travel affordable and connect smaller towns across India. We break down what the scheme promised, what the numbers reveal, and the larger questions around its long-term sustainability.",
-    "img": "https://th-i.thgim.com/public/incoming/j9sllu/article70682688.ece/alternates/LANDSCAPE_1200/airport.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-from-take-off-to-turbulence-what-is-going-wrong-with-udan-scheme/article70682695.ece",
-    "time": "2026-02-27T05:04:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Obviously, we were’: Hardik reveals how Team India kept an eye on SA vs WI clash",
     "desc": "India secured a commanding 72-run victory over Zimbabwe in their Super 8 clash. All-rounder Hardik Pandya starred with an unbeaten 50 and economical bowling, earning him Player of the Match. India posted a formidable 256, with Zimbabwe falling short despite a brilliant 97 from Brian Bennett. India now prepares for their next Super 8 fixture.",
@@ -520,33 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/back-in-business-abhishek-sharma-shines-as-india-set-up-virtual-quarterfinal-vs-west-indies/articleshow/128837242.cms",
     "time": "2026-02-27T04:56:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "In Andhra city, a morning staple turns deadly",
-    "desc": "Five persons died and fifteen others, including three infants, are on ventilator support with acute renal failure after consuming what is believed to be adulterated milk supplied by a vendor to 106 families between February 16 and 18 in Rajamahendravaram city. T. Appalanaidu finds out what exactly happened",
-    "img": "https://th-i.thgim.com/public/incoming/qu2ewy/article70681280.ece/alternates/LANDSCAPE_1200/10237_26_2_2026_15_7_56_1_8.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/in-andhra-city-a-morning-staples-turns-deadly/article70681039.ece",
-    "time": "2026-02-27T04:51:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala Health Minister Veena George discharged from Kannur hospital; further treatment in Thiruvananthapuram",
-    "desc": "Meanwhile, a photograph of the Minister taken with nurses at the Government Medical College Hospital has drawn criticism from political opponents. The selfie reportedly clicked inside the ICU has been questioned over protocol and decorum",
-    "img": "https://th-i.thgim.com/public/incoming/soz5on/article70682578.ece/alternates/LANDSCAPE_1200/Protests-galoreGNLFKVJVH.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-health-minister-veena-george-discharged-from-kannur-hospital-further-treatment-in-thiruvananthapuram/article70682443.ece",
-    "time": "2026-02-27T04:18:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Frozen wages, soaring prices",
-    "desc": "The compounded inflation rate in Karnataka between 2012 and 2024 has been calculated to be at 208.3%. With minumum wage revision hanging fire, workers have a tough time coping wit h the rising cost of living, reports Sharath S. Srivatsa",
-    "img": "https://th-i.thgim.com/public/incoming/3nu8o/article70680408.ece/alternates/LANDSCAPE_1200/IMG_6702_4_7_2021_18_13__2_1_IKBSPNHA.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/frozen-wages-soaring-prices/article70648788.ece",
-    "time": "2026-02-27T04:16:41.000Z"
   },
   {
     "cat": "Sports",
@@ -594,15 +585,6 @@ const newsData_en = [
     "time": "2026-02-27T03:01:24.000Z"
   },
   {
-    "cat": "Business",
-    "title": "At $30bn, smartphones top exports in 2025",
-    "desc": "Smartphones, led by Apple's iPhone, became India's top export in 2025, surpassing automotive diesel fuel with $30.1 billion in shipments. This surge, driven by policy support and local manufacturing scale-up, saw iPhones account for nearly three-quarters of total smartphone exports. The US remained India's largest export market.",
-    "img": "https://static.toiimg.com/photo/msid-128834925,imgsize-1180673.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/iphone-surge-at-30bn-smartphones-top-exports-in-2025/articleshow/128834906.cms",
-    "time": "2026-02-27T02:20:44.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran says 'good progress' in U.S. talks, next round within a week",
     "desc": "Iranian Foreign Minister Abbas Araghchi told state TV that the talks \"made very good progress and entered into the elements of an agreement very seriously, both in the nuclear field and in the sanctions field\".",
@@ -630,15 +612,6 @@ const newsData_en = [
     "time": "2026-02-27T01:34:22.000Z"
   },
   {
-    "cat": "Business",
-    "title": "11 Indian Americans named Forbes’ 250 America’s Greatest Innovators",
-    "desc": "Eleven Indian Americans have been celebrated on Forbes' America's Greatest Innovators list, highlighting their transformative contributions across technology, biotech and infrastructure. These leaders, from AI pioneers to gene therapy developers, underscore the vital role of immigrant talent in shaping America's technological and economic future, inspiring a new generation of innovators.",
-    "img": "https://static.toiimg.com/photo/msid-128834145,imgsize-37796.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/us/forbes-250-who-are-the-11-indian-americans-recently-named-americas-greatest-innovators/articleshow/128833733.cms",
-    "time": "2026-02-27T01:33:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Our video analyst prepared a slide': Surya reveals secret behind India's win vs Zimbabwe",
     "desc": "India kept their T20 World Cup semifinal hopes alive with a dominant 72-run victory over Zimbabwe. A powerful batting display, featuring Abhishek Sharma's 55 and Hardik Pandya's unbeaten 50, set a massive target. Arshdeep Singh's three wickets then stifled Zimbabwe's chase, despite a brilliant 97 from Brian Bennett. This win sets up a crucial decider against the West Indies.",
@@ -655,24 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/strike-rate-problem-not-anymore-india-smash-zimbabwe-shatter-records-to-keep-semi-final-hopes-alive/articleshow/128821740.cms",
     "time": "2026-02-26T23:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Karthik hails Nabi’s 58-wicket Ranji run; urges youth to emulate",
-    "desc": "Former India wicketkeeper Dinesh Karthik lauded Jammu and Kashmir pacer Auqib Nabi for his exceptional Ranji Trophy season, calling his performance a benchmark for aspiring cricketers. Karthik highlighted Nabi's consistent dominance, endurance, and resilience, stating he single-handedly propelled his team. Nabi's stellar bowling has been instrumental in Jammu and Kashmir's strong showing in the tournament.",
-    "img": "https://static.toiimg.com/photo/msid-128819541,imgsize-18608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/do-it-the-auqib-nabi-way-ex-india-batters-message-to-young-cricketers-goes-viral/articleshow/128819470.cms",
-    "time": "2026-02-26T23:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chief Justice of India to visit Tirupati on February 28",
-    "desc": "Ahead of the scheduled visit, a team of officials led by District Collector S. Venkateswar, Joint Collector R. Govinda Rao, trainee Collector Sandeep Raghuvanshi, Superintendent of Police L. Subbarayudu Tirupati Airport Director Bhuminathan and others inspected the site being readied for the ‘Bhumi Puja’.",
-    "img": "https://th-i.thgim.com/public/incoming/sbtpu5/article70680525.ece/alternates/LANDSCAPE_1200/10215_26_2_2026_19_43_8_1_WHATSAPPIMAGE2026_02_26AT74156PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-justice-of-india-to-visit-tirupati-on-february-28/article70680343.ece",
-    "time": "2026-02-26T23:19:28.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-cities-in-southeastern-brazil-hit-by-floods-landslides/article70675159.ece",
     "time": "2026-02-25T10:31:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "report",
+    "desc": "Microsoft co-founder also admitted that he had two affairs with Russian women and that he made mistakes that had cast a cloud over the philanthropic group while insisting he didn’t participate in Epstein’s crimes, says report",
+    "img": "https://th-i.thgim.com/public/incoming/6lrlyi/article70675002.ece/alternates/LANDSCAPE_1200/IMG_TH20_New_Bill_Gates_2_1_HIFK4R4A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/bill-gates-apologises-to-foundation-staff-over-epstein-ties-report/article70674948.ece",
+    "time": "2026-02-25T10:01:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pleas against ‘The Kerala Story 2’ premature, misconceived: producer tells Kerala HC",
+    "desc": "In affidavit, film’s producer Vipul Amrutlal Shah says the definite article 'The' in the sequel’s title is a reference to the first film in the franchise and ‘does not restrict the movie’s subject matter to Kerala alone’",
+    "img": "https://th-i.thgim.com/public/incoming/5v4k5s/article70674958.ece/alternates/LANDSCAPE_1200/kerala.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/pleas-against-the-kerala-story-2-premature-misconceived-producer-tells-kerala-hc/article70674923.ece",
+    "time": "2026-02-25T09:51:57.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "HP reckons memory chip crunch will linger next year, warns of PC sales slump",
+    "desc": "HP, like its rivals such as Dell, is dealing with increased costs as a shortage ‌of memory chips has gripped the tech industry, fueled by massive AI data center ‌buildouts ⁠that are sucking up capacity",
+    "img": "https://th-i.thgim.com/public/incoming/wqhr5n/article70674570.ece/alternates/LANDSCAPE_1200/2026-02-24T212037Z_884734109_RC2CAGAO444S_RTRMADP_3_HP-RESULTS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/hp-reckons-memory-chip-crunch-will-linger-next-year-warns-of-pc-sales-slump/article70674565.ece",
+    "time": "2026-02-25T08:41:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. military plane hits road barrier during Philippine training, injuring five personnel",
+    "desc": "The pilot and two other American personnel were brought to a hospital for treatment after February 24 afternoon's accident in a concrete bypass road in Laoac town in Pangasinan Province. Two other injured personnel were treated at the site, says police report",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-military-plane-hits-road-barrier-during-philippine-training-injuring-five-personnel/article70674712.ece",
+    "time": "2026-02-25T07:53:13.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "German leader arrives in China to press for fair trade, help ending Ukraine war",
+    "desc": "Mr. Merz is the latest in a parade of world leaders to visit Beijing as China seeks support from other nations to push back against Trump's use of tariffs to demand concessions from trading partners",
+    "img": "https://th-i.thgim.com/public/incoming/hm3ngf/article70674509.ece/alternates/LANDSCAPE_1200/2026-02-25T062136Z_1873406079_RC2TSJAZ0462_RTRMADP_3_CHINA-GERMANY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/german-leader-friedrich-merz-in-china-to-press-for-fair-trade-help-ending-ukraine-war/article70674504.ece",
+    "time": "2026-02-25T07:32:48.000Z"
   }
 ];

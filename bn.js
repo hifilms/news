@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "Dona Ganguly's Diksha Manjari Basanta Utsav 2026: ভারতীয় জাদুঘরে রঙের উৎসব! বসন্তের মহড়ায় মাতল দীক্ষা মঞ্জরী...",
+    "desc": "বিগত বেশ কিছু বছরে বসন্তের বন্দনায় দীক্ষা মঞ্জরীর বসন্ত উৎসব শহরের এক উল্লেখযোগ্য অনুষ্ঠানে পরিণত হয়েছে। এবছরেও জাঁকজমকের কোনো কমতি হবে না। নৃত্য পরিবেশন করবেন পাঁচ শতাধিক ছাত্র-ছাত্রী। বাংলায় দোলের আর অন্যান্য প্রদেশের হোলির গানে-নাচে আর আবিরের রঙে ভরে উঠবে ভারতীয় জাদুঘরের প্রাঙ্গণ।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/dona-ganguly-diksha-manjari-basanta-utsav-indian-museum-2026_643024.html ",
+    "time": "2026-02-27T15:12:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'মূর্খ! কংগ্রেসকে ধ্বংস করছেন'... রাহুল গান্ধির তীব্র সমালোচনায় অভিনেত্রী কঙ্গনা রানাউত",
+    "desc": "News18 Rising Bharat Summit 2026-এ বক্তব্য রাখতে গিয়ে কংগ্রেস নেতা রাহুল গান্ধির বিরুদ্ধে তীব্র আক্রমণ শানালেন বিজেপি সাংসদ কঙ্গনা রানাউত। তিনি দাবি করেন, রাহুলের রাজনৈতিক অবস্থান ও আচরণ কংগ্রেসের ক্ষতি করছে। পাশাপাশি তাঁকে ‘মূর্খ’ বলেও কটাক্ষ করেন কঙ্গনা, যার জেরে রাজনৈতিক মহলে নতুন করে বিতর্কের সৃষ্টি হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/rahul-kangna-2026-02-d20faf5a6edf92d7c8510e00d7a4d93c-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/kangana-ranaut-criticizes-rahul-gandhi-is-destroying-congress-calls-him-fool-at-news18-rising-bharat-summit-tib-ws-l-2561282.html",
+    "time": "2026-02-27T14:34:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "OPPO Reno 15c 5G রিভিউ: যারা নবযাগরণে বিশ্বাসী, তাদের জন্য এক বাজেট All-Rounder",
+    "desc": "নির্ভরযোগ্য AI প্রতিকৃতি তোলার ক্ষমতা, Popout গল্প বলার সুবিধা, স্থিতিশীল Snapdragon processing, ColorOS 16-এর মসৃণ ও বুদ্ধিদীপ্ত অভিজ্ঞতা, শক্তিশালী 7000mAh battery এবং 5OS + 6 security updates-এর দীর্ঘমেয়াদি নিশ্চিন্ততা — সব মিলিয়ে এই ফোনটি তৈরি তাঁদের জন্য, যারা জীবনের বড় পথচলার একেবারে শুরুতে দাঁড়িয়ে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Oppo-reno-15c-2-2026-02-09fa82cefac29b6da345f4785e1023cc-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/technology/oppo-reno15c-5g-review-a-budget-all-rounder-designed-for-the-climb-ac-2561250.html",
+    "time": "2026-02-27T14:16:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'পাকিস্তানে' ভারতীয় ৩০০ টাকার 'মূল্য' কত হবে জানেন...? 'উত্তর' শুনলেই চমকাবেন, শিওর!",
+    "desc": "পাকিস্তান-আফগানিস্তান যুদ্ধ পরিস্থিতি চরমে! এই মুহূর্তে স্বভাবতই ফের শিরোনামে দুই দেশ। স্বভাবতই চায়ের কাপ থেকে অফিসের ক্যান্টিন আলোচনায় পাকিস্তান। এই পরিস্থিতিতে সোশ্যাল মিডিয়ায় ফের ঝড় তুলছে ভারতের প্রতিবেশী এই দেশটিকে নিয়ে চর্চা। আচ্ছা বলুন তো দেখি ভারত ও পাকিস্তানের মধ্যে কোন দেশের মুদ্রা বেশি শক্তিশালী? ভারতের ৩০০ টাকা ঠিক কত হয়ে যাবে পাকিস্তানের মাটিতে?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/pakistan-2-2026-02-1628f478bd303c354f0d4f98d41ecf3f-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/pakistani-rupee-vs-indian-rupee-do-you-know-how-much-will-be-indian-300-rupees-in-pakistan-the-correct-answer-will-give-you-a-shock-for-sure-check-this-trending-fact-sanj-2561162.html",
+    "time": "2026-02-27T13:32:10.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'স্ত্রী পরকীয়া করে ছেড়ে গিয়েছে', তাও নাকি দিতে হচ্ছে ১৫ হাজার টাকা খোরপোশ, সঙ্গে দুই সন্তানের দায়িত্ব",
     "desc": "একটা সাম্প্রতিক আদালতের শুনানি মানুষের নজর কেড়েছে, যেখানে একজন ব্যক্তি বিচারকের সামনে ব্যাখ্যা করেছেন কেন তিনি তার সাবেক স্ত্রীকে নির্দিষ্ট খোরপোশ দিতে পারবেন না। তিনি বলেছেন, তার সন্তানদের দেখাশোনা করতে হয় এবং তার আয় সীমিত।",
@@ -862,41 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/pakistan-is-it-10-o-clock-earlier-in-india-or-in-pakistan-most-people-do-not-know-the-correct-answer-do-you-know-the-right-answer-know-interesting-gk-facts-sanj-2548663.html",
     "time": "2026-02-19T17:11:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'জগদ্ধাত্রী'-তে বড় চমক! এবার ছোটপর্দায় 'ধুরন্ধর' অভিনেতা হিতুল পুজারা...",
-    "desc": "জনপ্রিয় ধারাবাহিক 'জগদ্ধাত্রী'-তে এবার বড়সড় চমক। রণবীর সিংয়ের ব্লকবাস্টার ছবি 'ধুরন্ধর'-এ নাইম বালোচের চরিত্রে অভিনয় করে নজরকাড়া অভিনেতা হিতুল পুজারা এবার পা রাখতে চলেছেন এই মেগা সিরিয়ালে। এই ধারাবাহিকে এক গুরুত্বপূর্ণ মোড় নিয়ে আসবে হিতুলের চরিত্রটি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/dhurandhar-actor-hitul-pujara-entry-zee-tv-serial-jagadhatri_641983.html ",
-    "time": "2026-02-19T15:08:53.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Sheikh Hasina-Awami League: নীরব শেখ হাসিনা, নেতৃত্বে কে বুঝতে হিমসিম খাচ্ছে দল, নানা প্রশ্নের মুখে আওয়ামী লীগের ভবিষ্যৎ",
-    "desc": "২০২৬ সালের ফেব্রুয়ারির নির্বাচনে বিএনপির বিজয় এবং তারেক রহমানের প্রধানমন্ত্রী নির্বাচিত হওয়ার ফলে হাসিনার জন্য বিষয়গুলি আরও জটিল হয়ে উঠেছে। তাঁর উত্তরাধিকার এখন আদালতের মামলা, আন্তর্জাতিক সম্পর্ক এবং আওয়ামী লীগের ভবিষ্যৎ নিয়ে প্রশ্নের মধ্যে আটকে রয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/hasina-bangladesh-2026-02-ea92eb4708e0941951ff81ba7f9e95d7-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/bangladesh-news-awami-league-faces-leadership-crisis-what-will-the-future-of-the-party-sheikh-hasina-silence-makes-it-more-intense-pbd-2548504.html",
-    "time": "2026-02-19T14:49:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আগামী ২৪ ঘণ্টা...! ঝড়-বৃষ্টি-দুর্যোগ কাঁপাবে ৫ রাজ্য, ৫৫ কিমি/ঘণ্টা বেগে বাতাসের হুঁশিয়ারি, ঝাঁঝাপোড়া গরম কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "ঘূর্ণাবর্ত, পশ্চিমী ঝঞ্ঝার জোড়া ফলা! আচমকা আমূল বদলে গেল আবহাওয়া। দেশ জুড়ে আগামী ২৪ থেকে আটচল্লিশ ঘণ্টায় দিনের তাপমাত্রা কোথায় পৌঁছবে? কোন কোন রাজ্যে ভারী বৃষ্টি, বজ্রবিদ্যুৎ-সহ ঝড় বৃষ্টি দুর্যোগের হুঁশিয়ারি! কী হতে চলেছে আগামী দু'দিন? আবহাওয়ার মেগা খেলা শুরু দেশজুড়ে!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj_rain_Thunder-2026-02-501a4404b809d5ccb55cdb161c7da70f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-next-24-hours-storm-rain-thunderstorm-to-shake-5-states-warning-of-wind-speed-of-55-km-hr-scorching-heat-forecast-in-which-states-know-latest-west-bengal-weather-sanj-2548442.html",
-    "time": "2026-02-19T13:29:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "লর্ডসের ব্যালকনিতে জার্সি ওড়াবেন রাজকুমার! মার্চেই শুরু সৌরভের বায়োপিকের শ্যুটিং...",
-    "desc": "ভারতীয় ক্রিকেটের ‘মহারাজ’ সৌরভ গঙ্গোপাধ্যায়ের বায়োপিক নিয়ে দীর্ঘ প্রতীক্ষার অবসান হতে চলেছে। বড় পর্দায় ‘দাদা’-র চরিত্রে অভিনয়ের জন্য নিজেকে তৈরি করছেন বলিউড অভিনেতা রাজকুমার রাও। শীঘ্রই লর্ডসের ঐতিহাসিক ব্যালকনি থেকে ইডেন গার্ডেন্সের সবুজ গালিচায় ফুটে উঠবে সৌরভের ক্রিকেট জীবনের মহাকাব্য।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/rajkummar-rao-sourav-ganguly-biopic-shooting-starts-march-lords-eden-gardens_641938.html ",
-    "time": "2026-02-19T11:58:54.000Z"
   }
 ];

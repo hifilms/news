@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "IPL 2026 start to be pushed back by two days, final to be played on May 31; Check details",
+    "desc": "In a major development, the IPL (Indian Premier League) 2026 season is now slated to begin on March 28, two days later than originally planned. It is worth noting that the final of the tournament...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-start-to-be-pushed-back-by-two-days-final-to-be-played-on-may-31-check-details-2026-02-27-1031975",
+    "time": "2026-02-27T14:16:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Matt Henry granted parental leave, set to leave New Zealand camp after England clash",
+    "desc": "In a major development for NZC (New Zealand Cricket), the side’s star bowler, Matt Henry, has been granted parental leave, and he will leave the New Zealand camp after the side’s clash against England for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/matt-henry-granted-parental-leave-set-to-leave-new-zealand-camp-after-england-clash-2026-02-27-1031970",
+    "time": "2026-02-27T13:24:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England two down early, New Zealand in command",
+    "desc": "Game 49 of the ongoing T20 World Cup 2026 sees England taking on New Zealand. The two heavyweights of the tournament lock horns at the R. Premadasa Stadium in Colombo on February 27. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/eng-vs-nz-t20-world-cup-2026-super-eight-live-cricket-score-new-zealand-look-to-book-ticket-to-the-knockouts-2026-02-27-1031967",
+    "time": "2026-02-27T13:01:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'A huge positive': Irfan Pathan lauds India management after dominant victory against Zimbabwe",
     "desc": "The Indian team managed to register a brilliant victory over Zimbabwe in game 48 of the ongoing T20 World Cup 2026. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-claims-five-wicket-haul-in-ranji-trophy-final-vs-karnataka-india-call-up-awaits-2026-02-27-1031910",
     "time": "2026-02-27T06:36:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at R Premadasa Stadium in Colombo play in T20 World Cup?",
-    "desc": "England will host New Zealand in a high-voltage Super Eights clash at the R Premadasa Stadium in Colombo. The Three Lions have already progressed to the semi-finals of the T20 World Cup, but a win...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/eng-vs-nz-pitch-report-how-will-surface-at-r-premadasa-stadium-in-colombo-play-in-t20-world-cup-2026-02-27-1031888",
-    "time": "2026-02-27T04:54:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia defeat India women by five wickets in Hobart",
-    "desc": "After sealing the T20I series 2-1, India suffered a 21-run defeat (DLS method) in the first ODI against Australia. With rain not expected to play spoilsport, the Harmanpreet Kaur-led side will be eyeing a bounce...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-australia-second-odi-live-cricket-updates-online-from-bellerive-oval-hobart-smriti-mandhana-harmanpreet-kaur-alyssa-healy-beth-mooney-2026-02-27-1031883",
-    "time": "2026-02-27T03:49:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav calls for better bowling performance after 72-run win vs Zimbabwe",
-    "desc": "India have kept their semi-finals hope alive with a 72-run win over Zimbabwe at the MA Chidambaram Stadium in Chennai. Leading up to the match, the form of certain key batters were under the scanner...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-calls-for-better-bowling-performance-after-72-run-win-vs-zimbabwe-2026-02-27-1031876",
-    "time": "2026-02-27T02:37:27.000Z"
   }
 ];

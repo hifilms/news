@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ટીમ ઈન્ડિયા સાવધાન ! વેસ્ટ ઈન્ડિઝ સામેના આ આંકડા જોઈ ડરી ગયા ચાહકો, અચાનક વધી ગયું ટેન્શન, જાણો",
+    "desc": "ટીમ ઈન્ડિયા માટે, વેસ્ટ ઈન્ડિઝ સામે સુપર 8 મેચ કરો યા મરો જેવી હશે. આ મેચ પહેલા, એક આંકડા સામે આવ્યા છે, જેનાથી ટીમ ઈન્ડિયાનું ટેન્શન વધી ગયું છે. જો ટીમ ઈન્ડિયા પોતાની ભૂલો સુધારશે નહીં, તો તેઓ ટુર્નામેન્ટમાંથી બહાર થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-be-careful-fans-got-scared-after-seeing-these-statistics-against-west-indies-know-this-466454 ",
+    "time": "2026-02-27T15:35:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ગુજરાતીઓના અતિ પ્રિય એવા માઉન્ટ આબુનું બદલાઈ ગયું નામ, હિલ સ્ટેશન હવે આ નામથી ઓળખાશે",
+    "desc": "ગુજરાતની પાડોશમાં આવેલા રાજસ્થાનમાં આવેલું અતિ સુંદર અને રમણીય હિલ સ્ટેશન માઉન્ટ આબુ એ ગુજરાતીઓને ખુબ પ્રિય છે. મિની વેકેશન હોય કે ઉનાળા-દીવાળીની રજાઓ હોય, આ જગ્યાએ જવાનું તેઓ ભૂલતા નથી. હવે આ માઉન્ટ આબુ વિશે એક મહત્વના સમાચાર આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-breaking-rajasthan-renames-mount-abu-to-aburaj-check-latest-update-466451 ",
+    "time": "2026-02-27T15:30:21.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "વિશ્વભરના સેમસંગ યુઝર્સની મોજ, કંપનીએ આપી ભેટ, હવે નેટવર્ક વિના કરી શકશે વાત, જાણો",
+    "desc": "જો તમે સેમસંગ સ્માર્ટફોનનો ઉપયોગ કરી રહ્યા છો, તો તમારા માટે સારા સમાચાર છે. ટૂંક સમયમાં, તમે નેટવર્ક કનેક્શન વિના તમારા સેમસંગ ફોન પર વાત કરી શકશો અને તમારા પ્રિયજનો સાથે હંમેશા જોડાયેલા રહી શકશો, ભલે નજીકમાં કોઈ સેલ્યુલર નેટવર્ક ન હોય.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/samsung-user-around-the-world-will-start-dancing-the-company-has-given-a-gift-now-they-will-be-able-to-talk-without-a-network-466450 ",
+    "time": "2026-02-27T14:56:14.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "એક ભૂલ અને DL રદ! હવે માત્ર ચલણ જ નહીં, પોઈન્ટ પણ કપાશે... ડ્રાઇવિંગ લાઇસન્સ માટે આવી રહી છે નવી સિસ્ટમ",
     "desc": "દેશભરમાં વધતા રોડ અકસ્માતો અને વાહનચાલકોના બેદરકાર વલણને સુધારવા માટે કેન્દ્ર સરકારે એક નવી સિસ્ટમ લાગુ કરવા જઈ રહી છે. માર્ગ સલામતી વધારવા માટે કેન્દ્ર સરકાર દેશમાં ગ્રેડ-આધારિત ડ્રાઇવિંગ લાઇસન્સ સિસ્ટમ લાગુ કરવા જઈ રહી છે. આ સિસ્ટમ હેઠળ ટ્રાફિક નિયમો તોડવા બદલ લાયસન્સમાંથી પોઈન્ટ કાપવામાં આવશે અને ચોક્કસ મર્યાદા પછી લાઇસન્સ રદ કરવામાં આવશે.",
@@ -369,15 +396,6 @@ const newsData_gu = [
     "time": "2026-02-25T14:18:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "19 વર્ષના ઈતિહાસમાં પહેલીવાર થયું આવું... આ 4 બેટ્સમેનોએ મચાવી તબાહી, બની ગયો વર્લ્ડ કપનો મહારેકોર્ડ",
-    "desc": "ભારત અને શ્રીલંકા દ્વારા આયોજિત 2026ના T20 વર્લ્ડ કપમાં એક અદ્ભુત રેકોર્ડ બન્યો છે. આ કીર્તિમાન સદીઓના કારણે શક્ય બની શક્યો છે. આ વખતે ચાર બેટ્સમેનોએ સદી ફટકારી, જેનાથી 19 વર્ષનો ઇતિહાસમાં બદલાઈ ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-record-four-centuries-in-one-edition-19-year-old-history-changed-466214 ",
-    "time": "2026-02-25T11:43:52.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "શું તમે સંજય લીલા ભણસાલીના હાર્ટ એટેક આવ્યો? ટીમે આપ્યું અપડેટ",
     "desc": "સંજય લીલા ભણસાલીને હાર્ટ એટેકનો હુમલો આવ્યો હોવાના સમાચાર વાયુ વેગે વાયરલ થઈ રહ્યા છે. તેમની ટીમે એક નિવેદન બહાર પાડીને તેના વિશે જણાવ્યું છે. અહેવાલમાં જણાવવામાં આવ્યું છે કે, તેમને કોકીલાબેન હોસ્પિટલમાં દાખલ કરવામાં આવ્યા હતા.",
@@ -439,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-update-if-these-demands-are-met-bumper-salary-may-increase-466141 ",
     "time": "2026-02-25T03:46:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "વધુ એક ટ્રેડ ડીલ પર આવ્યા સારા સમાચાર, PM મોદીના પ્રવાસ પહેલા FTA પર ચર્ચા શરૂ, જાણો",
-    "desc": "એક સત્તાવાર નિવેદનમાં જણાવાયું છે કે આ રાઉન્ડની વાટાઘાટો દરમિયાન બંને દેશોના ટેકનિકલ એક્સપર્ટ વિવિધ સત્રોમાં ભાગ લેશે. આ સત્રોમાં મુક્ત વેપાર કરારના વિવિધ પાસાઓ પર ચર્ચા કરવામાં આવશે. પીએમ મોદીના પ્રવાસથી આ ડીલની ચર્ચા વધી ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/good-news-on-another-trade-deal-discussions-on-fta-begin-before-pm-modi-israel-visit-know-466129 ",
-    "time": "2026-02-25T02:51:46.000Z"
   },
   {
     "cat": "Tech",
@@ -691,14 +700,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/salman-khan-father-salim-khan-is-on-ventilator-at-lilavati-hospital-mumbai-after-brain-hemorrhage-surgery-465535 ",
     "time": "2026-02-19T11:24:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "પિતાની હાલતને લઈ સલમાન ખાન ચિંતામાં, સલીમ ખાનની તબિયતને લઈ ડોક્ટરે આપી હેલ્થ અટડેટ",
-    "desc": "બોલીવુડના સફળ સ્ક્રિપ્ટ રાઈટર અને એક્ટર સલમાન ખાનના પિતા સલીમ ખાનની તબિયત લથડી છે. તેઓ હાલ મુંબઈની લીલાવતી હોસ્પિટલમાં દાખલ છે. તેમના સ્વાસ્થ્યને લઈ ખાન પરિવારમાં ચિંતા જોવા મળી રહી છે. સલીમ ખાન વિશે ડોક્ટર્સે શું કહ્યું છે ચાલો તમને જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/salim-khan-health-update-salman-khan-father-salim-khan-is-in-icu-465304 ",
-    "time": "2026-02-18T02:34:42.000Z"
   }
 ];
