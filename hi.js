@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Anil Kumble, Faf du Plessis analyse India's biggest problem before must-win clash against West Indies",
+    "desc": "India registered a comfortable 72-run win over Zimbabwe in Chennai to keep their T20 World Cup 2026 semi-final hopes alive. However, analysing the game, former cricketers Faf du Plessis and Anil Kumble believe there are...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/anil-kumble-faf-du-plessis-analyse-india-s-biggest-problem-before-must-win-clash-against-west-indies-2026-02-27-1031925",
+    "time": "2026-02-27T08:29:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neymar honours Vinicius, silences critics to push for spot in Brazil squad for FIFA World Cup",
+    "desc": "Neymar returned to the scoresheet in emphatic fashion, as Santos edged Vasco da Gama 2-1 in the fourth round of the Brasileirão. The former Barcelona and Paris Saint-Germain forward opened the scoring in the 25th...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/neymar-honours-vinicius-silences-critics-to-push-for-spot-in-brazil-squad-for-fifa-world-cup-2026-02-27-1031913",
+    "time": "2026-02-27T07:01:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Auqib Nabi claims five-wicket haul in Ranji Trophy final vs Karnataka, India call-up awaits",
     "desc": "Jammu and Kashmir all-rounder Auqib Nabi has been a force to reckon with in the ongoing Ranji Trophy. The 29-year-old has impressed with both bat and ball and in the final against Karnataka at the...",
     "img": "",
@@ -19,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India lose wickets at regular intervals; Harmanpreet, Amanjot stabilize",
+    "title": "Australia need 252 runs to win second ODI in Hobart",
     "desc": "After sealing the T20I series 2-1, India suffered a 21-run defeat (DLS method) in the first ODI against Australia. With rain not expected to play spoilsport, the Harmanpreet Kaur-led side will be eyeing a bounce...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/what-will-happen-if-india-vs-west-indies-match-in-t20-world-cup-gets-washed-out-due-to-rain-2026-02-26-1031852",
     "time": "2026-02-26T17:42:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India set up virtual quarterfinal vs West Indies with dominating win over Zimbabwe in T20 World Cup",
-    "desc": "The Indian team performed brilliantly against Zimbabwe in game 48 of the ongoing T20 World Cup. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February 26. The clash saw the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-set-up-virtual-quarterfinal-vs-west-indies-with-dominating-win-over-zimbabwe-in-t20-world-cup-2026-02-26-1031847",
-    "time": "2026-02-26T17:04:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India amass their highest total in T20 World Cup history, smash 256 runs vs Zimbabwe in must-win clash",
-    "desc": "India and Zimbabwe locked horns in game 48 of the ongoing T20 World Cup 2026. The two sides faced off at the MA Chidambaram Stadium in Chennai on February 26, and the clash saw India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-amass-their-highest-total-in-t20-world-cup-history-smash-256-runs-vs-zimbabwe-in-must-win-clash-2026-02-26-1031833",
-    "time": "2026-02-26T15:19:45.000Z"
   }
 ];

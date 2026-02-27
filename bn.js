@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "আগামী ৭২ ঘণ্টা...! ভারী বৃষ্টি কাঁপাবে ১১ রাজ্য, লাফিয়ে লাফিয়ে পারদ চড়বে কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
+    "desc": "ফের আবহাওয়ার পরিবর্তন। একাধিক ঘূর্ণাবর্ত ও নিম্নচাপের জেরে মুহূর্তে বদলাচ্ছে আবহাওয়া। কোথাও চড়চড় করে চড়বে তাপমাত্রা আর কোথাও চলছে বৃষ্টির স্পেল! এমন পরিস্থিতিতে, ভারতীয় আবহাওয়া বিভাগ (IMD) দেশের একাধিক রাজ্যে আগামী ৭২ ঘণ্টা ভারী বৃষ্টিপাতের সতর্কতা জারি করেছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj-__Thunder-2026-02-69c3fe6ac5aad482391940478345533b-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rainfall-alert-in-11-states-for-next-72-hours-know-which-state-will-see-major-heat-in-next-7-days-temperature-to-rise-in-4-5-degrees-know-latest-west-bengal-weather-sanj-2560642.html",
+    "time": "2026-02-27T08:43:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "পাকিস্তানের যেকোনও প্ররোচনায় দিতে হবে বড় খেসারত! প্রস্তুত 'অপারেশন সিঁদুর ২.০'!  সতর্ক করল ভারতীয় সেনা",
+    "desc": "ইসলামাবাদকে এবার আরও কড়া জবাব দিল ভারতীয় সেনাবাহিনী। ভারতীয় সেনার ওয়েস্টার্ন কম্যান্ডের পক্ষ থেকে জানানো হয়েছে, আগামী দিনে যদি আর কোনও সীমান্ত অঞ্চলে প্ররোচনা আসে তবে 'যোগ্য' এবং 'কঠিন' প্রত্যুত্তর দেওয়া হবে বলে জানানো হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/indian-army-2-2026-02-27c5f26fb4060ec036565772495f8f8a-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/operation-sindoor-2-0-indian-army-warns-of-harsher-retaliation-against-pakistan-know-more-details-smc-2560611.html",
+    "time": "2026-02-27T07:46:23.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘আমার ওঁকেই প্রয়োজন ছিল...’ বিয়ের ছবি শেয়ার করে লিখলেন বিজয়, চোখের জলে স্বামীকে আলিঙ্গন রশ্মিকার",
     "desc": "লাল রঙে সাজলেন রশ্মিকা ও বিজয়। বিজয়ের পরনে ছিল সাদা ধুতি ও লাল রঙের জমকালো উত্তরীয়। সঙ্গে সোনার ভারী গয়না। অন্য দিকে লাল টুকটুকে রঙের শাড়ি বেছে নিয়েছিলেন রশ্মিকা। ব্লাউজেও জমকালো কাজ। মাথায় সোনার টিয়ারা নজরকাড়া।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/bollywood-news-veteran-screenwriter-salim-khan-health-update-lilavati-hospital-mumbai-salman-khan-visits-sal-2547427.html",
     "time": "2026-02-19T04:22:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আগামী ৪৮ ঘণ্টায়...! আবহাওয়ার বিরাট রদবদল, বজ্রবিদ্যুৎ বৃষ্টি কাঁপাবে ৭ রাজ্য, শিলাবৃষ্টির হুঁশিয়ারি ৩ রাজ্যে, কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "আবহাওয়ার বিরাট ভোলবদল দেশ জুড়ে! একাধিক ঘূর্ণাবর্ত পশ্চিমীঝঞ্ঝার চরম aghat। উত্তর পশ্চিম ভারতের রাজ্যগুলিতে আগামী ২৪ থেকে আটচল্লিশ ঘণ্টায় দিনের তাপমাত্রা ২ থেকে ৪ ডিগ্রি সেলসিয়াস কমবে, তারপরও আগামী দু তিন দিনে সর্বোচ্চ তাপমাত্রা দুই থেকে চার ডিগ্রি সেলসিয়াস বেড়ে যেতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj-rain-image-2026-02-1f7b2e76069728c80b39257ce9453568-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-big-weather-change-in-coming-48-hours-thunderstorm-lightning-alert-in-7-states-hailstorm-alert-in-these-3-states-know-latest-west-bengal-weather-sanj-2547182.html",
-    "time": "2026-02-18T18:34:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "পশ্চিমবঙ্গে পাঁচ সাংসদের মেয়াদ শেষ, ১০ রাজ্যের ৩৭ রাজ্যসভা আসনে নির্বাচন কবে? ভোটের নির্ঘণ্ট ঘোষণা",
-    "desc": "রাজ্যসভার ভোট নিয়ে বুধবার সকালে বিজ্ঞপ্তি দিয়েছে কমিশন। বিজ্ঞপ্তি অনুযায়ী, ২৬ ফেব্রুয়ারি রাজ্যসভার ৩৭টি আসনে নির্বাচনের জন্য ভোটের বিজ্ঞপ্তি প্রকাশ করা হবে। মনোনয়নপত্র জমা দেওয়ার শেষ দিন আগামী ৫ মার্চ। মনোনয়নপত্র যাচাই হবে ৬ মার্চ। মনোনয়নপত্র প্রত্যাহারের শেষ দিন ৯ মার্চ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/parliament-2026-02-8a921731d041a22790447d65221ed782-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/rajya-sabha-election-march-16-mausam-noor-resigns-voting-in-five-seats-rmj-ws-l-2546035.html",
-    "time": "2026-02-18T11:22:28.000Z"
   }
 ];
