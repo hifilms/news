@@ -1,6 +1,51 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "'স্ত্রী পরকীয়া করে ছেড়ে গিয়েছে', তাও নাকি দিতে হচ্ছে ১৫ হাজার টাকা খোরপোশ, সঙ্গে দুই সন্তানের দায়িত্ব",
+    "desc": "একটা সাম্প্রতিক আদালতের শুনানি মানুষের নজর কেড়েছে, যেখানে একজন ব্যক্তি বিচারকের সামনে ব্যাখ্যা করেছেন কেন তিনি তার সাবেক স্ত্রীকে নির্দিষ্ট খোরপোশ দিতে পারবেন না। তিনি বলেছেন, তার সন্তানদের দেখাশোনা করতে হয় এবং তার আয় সীমিত।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Court-room-1-2026-02-a2f8182375229ca21f418ea83f1376d1-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/wife-left-husband-because-of-affair-still-husband-is-paying-15000-alimony-husband-wants-justice-rdp-2561132.html",
+    "time": "2026-02-27T12:39:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "শারীরিক গঠন নিয়ে সোশ্যাল মিডিয়ায় ট্রোলড শ্রাবন্তী! পুলিশে অভিযোগ, দেখুন ভিডিও",
+    "desc": "অভিনেত্রী শ্রাবন্তী চট্টোপাধ্যায়কে নিয়ে কুরুচিকর ভিডিও পোস্ট করার অভিযোগ ইউটিউবারের বিরুদ্ধে। এক ভিডিও শেয়ার করে কুরুচিকর পোস্ট করা হয়েছে বলে অভিযোগ দায়ের করেন অভিনেত্রী শ্রাবন্তী চট্টোপাধ্যায়। সাইবার ক্রাইম থানায় অভিযোগ দায়ের করেছেন টলি অভিনেত্রী। মাঞ্চু দাদা নিউ নামের একটা অ্যাকাউন্টে মেনশন করে অভিযোগ দায়ের করা হয়েছে। শ্রাবন্তী জানান, বেশ কিছুদিন ধরে সোশ্যাল মিডিয়ায় আমার ছবি বিকৃত করে, মিম বানিয়ে এবং নানা ভাবে উত্ত্যক্ত করা হচ্ছিল। সেটা চলছিল, আমি চুপ ছিলাম। কিন্তু সম্প্রতি ঠাকুরমার ঝুলি বলে আমি একটি ছবিতে অভিনয় করছি। সেখানে এক বৃদ্ধার চরিত্রে অভিনয় করছি। তার জন্য ওজন বাড়িয়েছি, তাই আগের তুলনায় ওয়েট পুট অন হয়েছে। সম্প্রতি আমি একটা নাচের পারফরম্যান্স করি। আমার শারীরিক গঠন নিয়ে নানা ভাবে সোশ্যাল মিডিয়া কুমন্তব্য এবং ছবি বিকৃত করে ট্রোল করা হচ্ছে। তাই সাইবার ক্রাইমে যেতে বাধ্য হয়েছি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Srabanti-facebook-2026-02-1c521f40257fe59946b79754e3631ec1-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/entertainment/tollywood-actress-srabanti-chatterjee-files-compleint-to-police-as-she-is-trolled-for-her-figure-rdp-2561037.html",
+    "time": "2026-02-27T11:52:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "বিশ্বকাপের মাঝেই প্রয়াত বাবা, দেহ কাঁধে নিয়ে শেষকৃত্যের জন্য চললেন রিঙ্কু! শোকপ্রকাশ কোহলির",
+    "desc": "বিশ্বকাপের মাঝেই প্রয়াত হয়েছেন রিঙ্কু সিংয়ের বাবা খানচন্দ্র সিং। তাঁকে দেখতে দল ছেড়ে ফিরেছিলেন বাড়িতে, কিন্তু শেষ পর্যন্ত স্টেজ ফোর ক্যানসার থেকে আর ফিরতে পারেননি ক্রিকেটারের বাবা। আলিগড়ে রিঙ্কুকে দেখা গিয়েছে বাবা মরদেহ শেষকৃত্যের জন্য কাঁধে করে নিয়ে যাচ্ছেন রিঙ্কু সিং। সমাজমাধ্যমে ভাইরাল হয়েছে সেই ভিডিও।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Rinku-2026-02-374d503a5e9d01d58f4096646eef2046-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/rinku-singh-gives-a-shoulder-to-his-father-khanchandra-singh-who-passed-away-today-virat-kohli-expressed-his-condolence-rdp-2560914.html",
+    "time": "2026-02-27T10:33:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "পাকিস্তানকে পাল্টা জবাব দিল কাবুল! ইসলামাবাদের সেনাঘাঁটিতে বিমান হামলা আফগানদের",
+    "desc": "পাকিস্তান এবং আফগানিস্তানের মধ্যে শুক্রবার সকাল থেকেই পুরোদস্তুর যুদ্ধ শুরু হয়েছে। এর মধ্যেই আফগানিস্তানের প্রতিরক্ষা মন্ত্রকের তরফ থেকে দাবি করা হয়েছে তাঁরা পাকিস্তানের ভিতরে বেশ কিছু সেনা ছাউনিতে আঘাত হেনেছে। একইসঙ্গে, তাঁদের দাবি স্থানীয় সময়ে আজ সকাল ১১টা নাগাদ পাক রাজধানী ইসলামাবাদের পার্শ্ববর্তী অঞ্চল ফৈজাবাদ, নৌশেরা, জামরুদ অ্যাবটোবাদ-সহ একাধিক জায়গায় বিমান হামলা চালানো হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/islamabad-1-2026-02-687a3823ff09efb78f089c484f772d6d-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/after-pakistan-attacks-afganistan-now-airstrikes-at-islamabad-military-installations-smc-2560893.html",
+    "time": "2026-02-27T10:19:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "সিবিআইকে যাচ্ছেতাই অপমান আদালতের! আবগারি মামলায় সসম্মানে মুক্ত অরবিন্দ কেজরীওয়াল...",
+    "desc": "আবগারি নীতি মামলায় অরবিন্দ কেজরিওয়াল ও মণীশ সিসোদিয়া-সহ ২৩ জনকে অব্যাহতি দিয়ে সিবিআইকে ভর্ৎসনা আদালতের। সিবিআইয়ের দায়ের করা মামলা খারিজ করে বিশেষ বিচারক স্পষ্ট জানিয়েছেন, নীতির প্রণয়নে কোনও সর্বব্যাপী ষড়যন্ত্র বা অপরাধমূলক উদ্দেশ্যের প্রাথমিক প্রমাণ মেলেনি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/arvind-kejriwal-manish-sisodia-cleared-of-charges-in-delhi-liquor-policy-case_642990.html ",
+    "time": "2026-02-27T09:57:05.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "আগামী ৭২ ঘণ্টা...! ভারী বৃষ্টি কাঁপাবে ১১ রাজ্য, লাফিয়ে লাফিয়ে পারদ চড়বে কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
     "desc": "ফের আবহাওয়ার পরিবর্তন। একাধিক ঘূর্ণাবর্ত ও নিম্নচাপের জেরে মুহূর্তে বদলাচ্ছে আবহাওয়া। কোথাও চড়চড় করে চড়বে তাপমাত্রা আর কোথাও চলছে বৃষ্টির স্পেল! এমন পরিস্থিতিতে, ভারতীয় আবহাওয়া বিভাগ (IMD) দেশের একাধিক রাজ্যে আগামী ৭২ ঘণ্টা ভারী বৃষ্টিপাতের সতর্কতা জারি করেছে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj-__Thunder-2026-02-69c3fe6ac5aad482391940478345533b-3x2.jpg",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/rajkummar-rao-sourav-ganguly-biopic-shooting-starts-march-lords-eden-gardens_641938.html ",
     "time": "2026-02-19T11:58:54.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "যৌন কেলেঙ্কারিতে নাম, এপস্টিন যোগে গ্রেফতার ব্রিটেনের রাজার ভাই প্রিন্স অ্যান্ড্রু",
-    "desc": "ব্রিটিশ রাজপরিবারে ফের বিতর্কের ঝড় উঠেছে। অসদাচরণের অভিযোগে জিজ্ঞাসাবাদের জন্য প্রিন্স অ্যান্ড্রু-কে আটক করা হয়েছে বলে জানা যাচ্ছে। প্রয়াত ধনকুবের জেফ্রি এপস্টিন-এর সঙ্গে তাঁর সম্পর্ক ঘিরে চলা তদন্তের সূত্র ধরেই এই পদক্ষেপ নেওয়া হয়েছে বলে মনে করা হচ্ছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/King-Charles-Brother-Andrew-2026-02-dd039726101970ae1def744e15db29bc-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/prince-andrew-arrest-epstein-links-misconduct-probe-uk-royal-news-sal-2548191.html",
-    "time": "2026-02-19T11:45:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বনগাঁর জল গড়িয়েছে বহুদূর! তনয়কে ২ কোটির নোটিশ মিমির, পাল্টা ২২ লক্ষ ‘ক্ষতিপূরণ’ দাবি জ্যোতিষীর...",
-    "desc": "বনগাঁর সেই বিতর্কিত অনুষ্ঠানকে কেন্দ্র করে অভিনেত্রী মিমি চক্রবর্তী এবং উদ্যোক্তা তনয় শাস্ত্রীর আইনি লড়াই এবার কার্যত 'কোটি টাকার' লড়াইয়ে রূপ নিল। দু-পক্ষের পাল্টাপাল্টি নোটিশ এবং বিশাল অঙ্কের ক্ষতিপূরণ দাবির ফলে বিষয়টি এখন আদালতের বিচারাধীন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/mimi-chakraborty-2-crore-legal-notice-tanay-sastri-bongaon-controversy_641934.html ",
-    "time": "2026-02-19T10:41:23.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ইন্ডাস্ট্রিয়াল কাজ থেকে শুরু করে গৃহস্থালির ব্যবহার, এই ৬ জনপ্রিয় রোবট ভারতে আমদানি করা হতে পারে, তাদের দাম এবং বৈশিষ্ট্য সম্পর্কে জানুন",
-    "desc": "AI Impact Summit 2026-এ গ্যালগোটিয়াস ইউনিভার্সিটির রোবোটিক ডগ নিয়ে সোশ্যাল মিডিয়ায় তোলপাড়। এটি কি সত্যিই চিনা কোম্পানি ইউনিট্রি-র রোবট? এক নজরে ৫টি জনপ্রিয় রোবটিক পণ্য সম্পর্কে জেনে নেওয়া যাক, যা ভারতে আমদানি করা হতে পারে",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/robotic-dog-14-2026-02-0f8ea664fcf0c405cdb14dfcfc84ef80-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/beyond-galgotias-controversy-6-chinese-robots-you-can-bring-home-today-check-prices-tc-ac-aa-2546461.html",
-    "time": "2026-02-19T08:04:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মদ্যপান নিয়ে সামান্য স্বস্তি পাইলটদের, নিয়মে কী বদল আনা হল? দেখে নিন",
-    "desc": "ডিরেক্টরেট জেনারেল অফ সিভিল এভিয়েশন (ডিজিসিএ)–এর নতুন নিয়মে জানানো হয়েছে ব্রেদালাইজারের রিডিং ০.০০১ থেকে ০.০০৯-এর মধ্যে এলেও একটা সুযোগ পাবেন পাইলট। সাসপেন্ড নয়, তবে তিনি ২৪ ঘণ্টা পরে ডিউটিতে ফিরতে পারবেন। তবে এই ক্ষেত্রেও সীমাবদ্ধতা থাকছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Pilot-Rules-Changed-2026-02-b708f7dc51ba3a2e5db4e18046603574-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/dgca-new-rules-for-pilots-know-about-breathalyzer-analysis-updated-rules-ss-2547435.html",
-    "time": "2026-02-19T04:24:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman Khan-Salim Khan: আইসিইউ-তে সেলিম খান, গভীর রাতে লীলাবতীতে বাবাকে দেখতে পৌঁছালেন সলমান খান",
-    "desc": "মুম্বইয়ের লীলাবতী হাসপাতাল-এ ভর্তি প্রবীণ চিত্রনাট্যকার সেলিম খান। হঠাৎ অসুস্থ হয়ে পড়ায় মঙ্গলবার ভোরে তাঁকে হাসপাতালে আনা হয় এবং বর্তমানে তিনি আইসিইউ-তে চিকিৎসাধীন। বাবার শারীরিক অবস্থার খোঁজ নিতে বুধবার গভীর রাতে হাসপাতালে পৌঁছন বলিউড সুপারস্টার সলমান খান।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Salman-Khan-Salim-Khan-2026-02-4bbbcdda8140efdc2e1914ddc4da5d3a-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/bollywood-news-veteran-screenwriter-salim-khan-health-update-lilavati-hospital-mumbai-salman-khan-visits-sal-2547427.html",
-    "time": "2026-02-19T04:22:52.000Z"
   }
 ];

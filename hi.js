@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'A huge positive': Irfan Pathan lauds India management after dominant victory against Zimbabwe",
+    "desc": "The Indian team managed to register a brilliant victory over Zimbabwe in game 48 of the ongoing T20 World Cup 2026. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/a-huge-positive-irfan-pathan-lauds-india-management-after-dominant-victory-against-zimbabwe-2026-02-27-1031965",
+    "time": "2026-02-27T12:46:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will rain spoil ENG vs NZ T20 World Cup 2026 Super Eight clash?",
+    "desc": "The stage is set for the 49th game of the ongoing T20 World Cup 2026. England locks horns with New Zealand at the R. Premadasa Stadium in Colombo on February 27. It is worth noting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/colombo-weather-report-will-rain-spoil-eng-vs-nz-t20-world-cup-2026-super-eight-clash-2026-02-27-1031956",
+    "time": "2026-02-27T11:46:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia women clinch ODI series, register dominant win against India in Hobart",
+    "desc": "The second ODI of the ongoing series between Australia women and India women saw the two sides lock horns at the Bellerive Oval, Hobart, on February 27. The game saw Australia Women register a dominant...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-women-clinch-odi-series-register-dominant-win-against-india-in-hobart-2026-02-27-1031949",
+    "time": "2026-02-27T10:55:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'See this from two sides': R Ashwin weighs in on Sanju Samson's performance against Zimbabwe in Chennai",
+    "desc": "The Indian team registered a comfortable victory against Zimbabwe in game 48 of the ongoing T20 World Cup. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February 26, and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-weighs-in-on-sanju-samson-s-performance-against-zimbabwe-in-chennai-2026-02-27-1031944",
+    "time": "2026-02-27T10:17:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Anil Kumble, Faf du Plessis analyse India's biggest problem before must-win clash against West Indies",
     "desc": "India registered a comfortable 72-run win over Zimbabwe in Chennai to keep their T20 World Cup 2026 semi-final hopes alive. However, analysing the game, former cricketers Faf du Plessis and Anil Kumble believe there are...",
     "img": "",
@@ -37,7 +73,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Australia need 252 runs to win second ODI in Hobart",
+    "title": "Australia defeat India women by five wickets in Hobart",
     "desc": "After sealing the T20I series 2-1, India suffered a 21-run defeat (DLS method) in the first ODI against Australia. With rain not expected to play spoilsport, the Harmanpreet Kaur-led side will be eyeing a bounce...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-calls-for-better-bowling-performance-after-72-run-win-vs-zimbabwe-2026-02-27-1031876",
     "time": "2026-02-27T02:37:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rinku Singh's father Khanchandra Singh passes away after battle with liver cancer",
-    "desc": "Grief has struck Indian cricketer Rinku Singh and his family. His father, Khachandra Singh, passed away at Yatharth Hospital in Greater Noida after battling stage 4 liver cancer. In the final days, his condition had turned...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-s-father-khachandra-singh-passes-away-after-battle-with-liver-cancer-2026-02-27-1031863",
-    "time": "2026-02-27T01:38:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arshdeep Singh breaks Jasprit Bumrah's legendary record with three-wicket spell against Zimbabwe",
-    "desc": "Left-arm pacer Arshdeep Singh broke Jasprit Bumrah’s record for most wickets by an Indian in T20 World Cup history. The youngster claimed three wickets, ruining Zimbabwe’s middle order in India’s Super Eights clash at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-breaks-jasprit-bumrah-s-legendary-record-with-three-wicket-spell-against-zimbabwe-2026-02-27-1031861",
-    "time": "2026-02-27T01:12:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Memes galore as India stay alive in T20 World Cup with dominating win over Zimbabwe",
-    "desc": "The Indian team registered a brilliant victory against Zimbabwe in game 48 of the ongoing T20 World Cup 2026. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February 26, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-zim-memes-galore-as-india-stay-alive-in-t20-world-cup-with-dominating-win-over-zimbabwe-2026-02-26-1031857",
-    "time": "2026-02-26T18:08:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What will happen if India vs West Indies match in T20 World Cup gets washed out due to rain?",
-    "desc": "India defeated Zimbabwe by 72 runs at the MA Chidambaram Stadium in Chennai to stay alive in the T20 World Cup. They will now face the West Indies on Sunday in a virtual quarterfinal at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-will-happen-if-india-vs-west-indies-match-in-t20-world-cup-gets-washed-out-due-to-rain-2026-02-26-1031852",
-    "time": "2026-02-26T17:42:45.000Z"
   }
 ];
