@@ -1,6 +1,123 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Under POCSO, consent on trial",
+    "desc": "For over a decade, the Protection of Children from Sexual Offences Act, 2012, has served as India’s dedicated law against child sexual abuse. As families invoke it to oppose under-18 consensual inter-caste and inter-faith relationships, Aaratrika Bhaumik finds that courts are now confronting the law’s unintended consequences",
+    "img": "https://th-i.thgim.com/public/incoming/3vtyt8/article70681376.ece/alternates/LANDSCAPE_1200/iStock_1257142988.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/under-pocso-consent-on-trial/article70678615.ece",
+    "time": "2026-02-27T06:46:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What Team India needs to do to reach semi-finals",
+    "desc": "India's path to the T20 World Cup 2026 semi-finals is now clear, with a win against West Indies at Eden on Sunday securing their spot. Following South Africa's victory, the final Group 1 match is a virtual quarterfinal. India's dominant batting performance against Zimbabwe set them up for this crucial encounter.",
+    "img": "https://static.toiimg.com/photo/msid-128838910,imgsize-189116.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-qualification-scenario-t20-world-cup-what-team-india-needs-to-do-to-reach-semi-finals/articleshow/128838829.cms",
+    "time": "2026-02-27T06:19:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Former DMK MLA, six others get life imprisonment for farmer’s murder in Tiruvannamalai",
+    "desc": "The police said Kamalakannan was the son of former DMK MLA Jayaraman, who served as the Vandavasi MLA from 2006. After Jayaraman’s sudden death, Kamalakannan contested as a DMK candidate and won in the by-election held in 2009",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/5c6my0/article70682872.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-27%20at%2010.09.04.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/former-dmk-mla-six-others-get-life-imprisonment-for-farmers-murder-in-tiruvannamalai/article70682599.ece",
+    "time": "2026-02-27T06:13:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka Chopra stuns in sheer black dress",
+    "desc": "Priyanka Chopra, promoting 'The Bluff', revealed her return to Indian cinema with SS Rajamouli's ambitious time-travel adventure, 'Varanasi'. Filming for the IMAX production has been ongoing for 14 months, with another six to go, highlighting its massive scale. The film is slated for a 2027 release, promising an exciting cinematic experience for fans.",
+    "img": "https://static.toiimg.com/photo/msid-128838674,imgsize-140274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-stuns-in-sheer-black-dress-shares-varanasi-update-with-jimmy-fallon-watch/articleshow/128838002.cms",
+    "time": "2026-02-27T06:06:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'I am kattar imaandaar': Arvind Kejriwal breaks down after clean chit in Delhi excise policy case",
+    "desc": "Former Delhi Chief Minister Arvind Kejriwal and his deputy Manish Sisodia have been acquitted of all charges. The Rouse Avenue court delivered the verdict in the case investigated by the CBI. Both leaders had faced allegations and served time in jail. Kejriwal stated that truth always wins. This development marks a significant moment for the Aam Aadmi Party.",
+    "img": "https://static.toiimg.com/photo/msid-128838711,imgsize-3830385.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/i-am-kattar-imaandaar-arvind-kejriwal-breaks-down-after-clean-chit-in-delhi-excise-policy-case/articleshow/128838523.cms",
+    "time": "2026-02-27T05:56:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brad-Angelina's son Maddox drops 'Pitt' from his surname",
+    "desc": "In Angelina Jolie’s latest directorial project, her eldest son is now listed simply as Maddox Jolie, having dropped the Pitt surname. His decision mirrors that of sisters Zahara and Shiloh, who have also chosen to remove ‘Pitt’ from their names amid the protracted and highly publicised aftermath of Jolie and Brad Pitt’s divorce. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128838086,imgsize-154706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-and-angelina-jolies-son-maddox-uses-jolie-and-drops-pitt-in-credits-of-his-mothers-film-couture/articleshow/128838086.cms",
+    "time": "2026-02-27T05:38:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Singer-songwriter JD Graham ‘barely alive’ after accident",
+    "desc": "Singer-songwriter JD Graham is fighting for his life following a severe car crash in New Mexico. The accident left him with critical injuries including a broken neck and back. Tragically, his dog did not survive.",
+    "img": "https://static.toiimg.com/photo/msid-128838044,imgsize-123430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/barely-alive-singer-songwriter-jd-graham-fighting-for-his-life-after-severe-accident/articleshow/128837889.cms",
+    "time": "2026-02-27T05:31:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India set for virtual QF as SA seal semis spot",
+    "desc": "Defending champions India face a crucial Super 8 clash against the West Indies on Sunday. A victory in Kolkata will secure their semi-final spot in the T20 World Cup. South Africa has already qualified from Group 1. Meanwhile, England have advanced from Group 2, with New Zealand and Pakistan vying for the remaining berth.",
+    "img": "https://static.toiimg.com/photo/msid-128837929,imgsize-68786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-super-8-points-table-india-set-for-virtual-quarterfinal-as-south-africa-seal-semis-spot/articleshow/128837787.cms",
+    "time": "2026-02-27T05:24:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "From take-off to turbulence: What is going wrong with UDAN scheme?",
+    "desc": "Launched in 2016, the UDAN scheme aimed to make air travel affordable and connect smaller towns across India. We break down what the scheme promised, what the numbers reveal, and the larger questions around its long-term sustainability.",
+    "img": "https://th-i.thgim.com/public/incoming/j9sllu/article70682688.ece/alternates/LANDSCAPE_1200/airport.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-from-take-off-to-turbulence-what-is-going-wrong-with-udan-scheme/article70682695.ece",
+    "time": "2026-02-27T05:04:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek shines as India set up virtual QF vs West Indies",
+    "desc": "India secured a dominant 72-run victory against Zimbabwe, getting their T20 World Cup campaign back on track. Abhishek Sharma's return to form with a 30-ball 55 and a strong middle-order performance propelled India to a record 256/4 in Chennai. This win sets up a crucial 'quarterfinal' against the West Indies.",
+    "img": "https://static.toiimg.com/photo/msid-128837350,imgsize-43752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/back-in-business-abhishek-sharma-shines-as-india-set-up-virtual-quarterfinal-vs-west-indies/articleshow/128837242.cms",
+    "time": "2026-02-27T04:56:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bobby J Brown, 'The Wire' actor, dies in barn fire accident",
+    "desc": "Bobby J. Brown, best known for his memorable role in 'The Wire', has died at the age of 62. According to reports, he became trapped in a barn fire on February 26, 2026, while trying to jump-start a vehicle. His daughter stated that he died from smoke inhalation. Brown leaves behind a respected legacy in both television and film. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128836875,imgsize-103674.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bobby-j-brown-the-wire-actor-passes-away-in-a-tragic-barn-fire-accident-cause-of-death-and-more-details/articleshow/128836875.cms",
+    "time": "2026-02-27T04:54:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In Andhra city, a morning staple turns deadly",
+    "desc": "Five persons died and fifteen others, including three infants, are on ventilator support with acute renal failure after consuming what is believed to be adulterated milk supplied by a vendor to 106 families between February 16 and 18 in Rajamahendravaram city. T. Appalanaidu finds out what exactly happened",
+    "img": "https://th-i.thgim.com/public/incoming/qu2ewy/article70681280.ece/alternates/LANDSCAPE_1200/10237_26_2_2026_15_7_56_1_8.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/in-andhra-city-a-morning-staples-turns-deadly/article70681039.ece",
+    "time": "2026-02-27T04:51:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "From the ashes, emerges a green idea at Brahmapuram",
+    "desc": "The first Compressed Biogas plant in the State, which converts biodegradable waste into biogas, has become operational at the Brahmapuram garbage treatment yard of the Kochi Corporation. M.P. Praveen meets the engineers and managers of the plant set up by the BPCL Kochi Refinery at the plant site to learn about the facility, which is expected to solve the issue of waste management in the city",
+    "img": "https://th-i.thgim.com/public/incoming/11wxs9/article70680620.ece/alternates/LANDSCAPE_1200/Brahmapuram01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/from-the-ashes-emerges-a-green-idea-at-brahmapuram/article70678949.ece",
+    "time": "2026-02-27T04:29:36.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Kerala Health Minister Veena George discharged from Kannur hospital; further treatment in Thiruvananthapuram",
     "desc": "Meanwhile, a photograph of the Minister taken with nurses at the Government Medical College Hospital has drawn criticism from political opponents. The selfie reportedly clicked inside the ICU has been questioned over protocol and decorum",
     "img": "https://th-i.thgim.com/public/incoming/soz5on/article70682578.ece/alternates/LANDSCAPE_1200/Protests-galoreGNLFKVJVH.3.jpg.jpg",
@@ -73,8 +190,8 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Rinku Singh’s father passes away after cancer battle",
-    "desc": "Indian cricketer Rinku Singh's father, Shri Khanchand Singh, passed away after a battle with cancer. Rinku had briefly left the T20 World Cup squad to be with his father during his worsening condition. Despite this personal tragedy, he rejoined the team, though he did not play in the recent match.",
+    "title": "Rinku Singh’s father passes away after prolonged battle with cancer",
+    "desc": "Indian cricketer Rinku Singh's father, Khanchand Singh, has passed away after a battle with advanced liver cancer. He was on ventilator support at a Greater Noida hospital. Rinku, part of the T20 World Cup squad, had briefly returned home earlier due to his father's deteriorating health. His father was a pillar of support for his cricketing dreams.",
     "img": "https://static.toiimg.com/photo/msid-128835759,imgsize-42224.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rinku-singhs-father-passes-away-after-cancer-battle/articleshow/128835774.cms",
@@ -207,24 +324,6 @@ const newsData_en = [
     "time": "2026-02-27T01:21:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Vishnu Vinyasam' Twitter reviews: Netizens call it ‘Passable’",
-    "desc": "Early Twitter reactions for the Telugu comedy-drama 'Vishnu Vinyasam' are rolling in, with many calling it a \"passable\" entertainer. Viewers praised Sree Vishnu's comedy timing and meme-driven humor, though some noted a slight lag in the second half's emotional shift. Performances from Sree Vishnu and Nayana Sarika are drawing attention.",
-    "img": "https://static.toiimg.com/photo/msid-128833905,imgsize-116536.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vishnu-vinyasam-twitter-reviews-sree-vishnu-wins-praise-nayana-sarika-impresses-netizens-call-it-passable/articleshow/128833866.cms",
-    "time": "2026-02-27T01:19:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Thaai Kizhavi' X review: 'Blend of emotions and humor'",
-    "desc": "Radikaa Sarathkumar's 'Thaai Kizhavi' is generating significant buzz ahead of its February 27 release. Early reactions from a special premiere highlight the film's emotional depth and humor, with many praising Radikaa's performance. Celebrities like Suriya and Kamal Haasan have attended screenings, with Haasan offering a standing ovation and commending the team's work.",
-    "img": "https://static.toiimg.com/photo/msid-128833614,imgsize-302990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-early-twitter-review-netizens-call-radikaa-sarathkumar-an-unforgettable-blend-of-emotions-and-humor/articleshow/128833614.cms",
-    "time": "2026-02-27T00:52:04.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "PM Modi first leader to cross 100m followers on Instagram",
     "desc": "Prime Minister Narendra Modi has achieved a historic feat, becoming the first world leader to surpass 100 million followers on Instagram. This significant digital milestone underscores his immense global reach and influence in online political communication. His follower count dwarfs that of other prominent international leaders, highlighting his unparalleled digital footprint.",
@@ -232,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/pm-modi-first-leader-to-cross-100m-followers-on-instagram/articleshow/128833633.cms",
     "time": "2026-02-27T00:48:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Patriot' second look reactions: Netizens divided",
-    "desc": "The second-look poster for 'Patriot,' reuniting Mammootty and Mohanlal after 13 years, has ignited online debate. While the film's April 23, 2026 release date excited fans, many criticized the poster's visual quality, with accusations of AI generation dominating discussions. Some defended the design, while others lamented the perceived lack of star power in the artwork.",
-    "img": "https://static.toiimg.com/photo/msid-128833307,imgsize-124186.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/patriot-second-look-sparks-debate-mammoottymohanlal-poster-splits-fans-looks-ai-generated/articleshow/128833307.cms",
-    "time": "2026-02-27T00:31:45.000Z"
   },
   {
     "cat": "Sports",
@@ -253,30 +343,21 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
+    "title": "Inside Ajith Kumar’s Rs 12–15 crore Chennai home",
+    "desc": "Actor Ajith Kumar's serene Chennai home, valued at Rs 12-15 crore, offers a minimalist yet stylish retreat. The Thiruvanmiyur property boasts a blend of traditional and contemporary design, featuring lush greenery, a beach view, and resort-like amenities. This tranquil abode contrasts with his dynamic professional life, which includes a return to racing and an upcoming film.",
+    "img": "https://static.toiimg.com/photo/msid-128818307,imgsize-84994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/inside-ajith-kumars-rs-1215-crore-chennai-home-a-blend-of-serenity-and-style/articleshow/128818307.cms",
+    "time": "2026-02-27T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'O' Romeo' inches towards Rs 100 cr worldwide on Day 14",
     "desc": "Shahid Kapoor's 'O Romeo' has struggled at the box office after a strong opening weekend, failing to meet expectations. Despite a praised performance, the film's momentum waned, with Day 14 collections reaching Rs 1.25 crore. The movie has garnered Rs 61.55 crore domestically and Rs 96 crore worldwide, indicating a mixed reception from audiences. Read on to know more in detail.",
     "img": "https://static.toiimg.com/photo/msid-128833193,imgsize-51294.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-14-shahid-kapoor-and-triptii-dimri-starrer-wraps-up-week-2-at-rs-100-crore-worldwide/articleshow/128833193.cms",
     "time": "2026-02-27T00:23:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Wiz Khalifa's appeal in drugs case REJECTED",
-    "desc": "American rapper Wiz Khalifa's appeal to overturn a nine-month jail sentence for drug possession in Romania has been rejected by a court. The Constanta Court of Appeal deemed his appeal inadmissible, upholding the conviction for possessing over 18 grams of cannabis. Authorities are yet to confirm if extradition will be pursued for the U.S. citizen.",
-    "img": "https://static.toiimg.com/photo/msid-128833189,imgsize-80690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/wiz-khalifas-appeal-against-9-month-jail-sentence-for-drug-possession-rejected-by-romanian-court/articleshow/128830915.cms",
-    "time": "2026-02-27T00:17:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka to reunite with director Ramin Bahrani",
-    "desc": "Priyanka Chopra's recent interview, where she discussed overcoming ethnic barriers in Hollywood, caught the eye of Ramin Bahrani. The acclaimed filmmaker hinted at a reunion with the actress for a new project, following their successful collaboration on 'The White Tiger'. Chopra enthusiastically responded, and Bahrani confirmed their next venture is on the horizon.",
-    "img": "https://static.toiimg.com/photo/msid-128832225,imgsize-100380.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-to-reunite-with-oscar-nominated-the-white-tiger-director-ramin-bahrani-lets-finally-do-it/articleshow/128831753.cms",
-    "time": "2026-02-26T23:34:48.000Z"
   },
   {
     "cat": "Sports",
@@ -306,15 +387,6 @@ const newsData_en = [
     "time": "2026-02-26T23:19:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "DYK Vijay was ‘scared’ to tie the mangalsutra to Rashmika?",
-    "desc": "Long before wedding bells rang in real life, Rashmika Mandanna and Vijay Deverakonda had already experienced a cinematic version of marital rituals — one that left Vijay unexpectedly nervous. Interestingly, not many know that Rashmika herself was initially intimidated by Vijay when she entered the Telugu industry.",
-    "img": "https://static.toiimg.com/photo/msid-128830044,imgsize-141900.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/did-you-know-vijay-deverakonda-was-scared-to-tie-the-mangalsutra-and-rashmika-mandanna-was-scared-of-him/articleshow/128830044.cms",
-    "time": "2026-02-26T22:33:39.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "PM Modi questions NCERT lapse, Pradhan vows action",
     "desc": "The Union government is taking swift action following the Supreme Court's strong condemnation of a NCERT textbook chapter referencing judicial corruption. Education Minister Dharmendra Pradhan apologized, promising accountability for those responsible. The controversial chapter has been removed, and the book will be rewritten for the 2026-27 academic year, with tighter review processes being considered.",
@@ -324,15 +396,6 @@ const newsData_en = [
     "time": "2026-02-26T20:20:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "From the ashes, emerges a green idea at Brahmapuram",
-    "desc": "The first Compressed Biogas plant in the State, which converts biodegradable waste into biogas, has become operational at the Brahmapuram garbage treatment yard of the Kochi Corporation. M.P. Praveen meets the engineers and managers of the plant set up by the BPCL Kochi Refinery at the plant site to learn about the facility, which is expected to solve the issue of waste management in the city",
-    "img": "https://th-i.thgim.com/public/incoming/11wxs9/article70680620.ece/alternates/LANDSCAPE_1200/Brahmapuram01.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/from-the-ashes-emerges-a-green-idea-at-brahmapuram/article70678949.ece",
-    "time": "2026-02-26T20:08:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India eye improved batting show to stay afloat in women's ODI series against Australia",
     "desc": "Having won the T20 series 2-1, a below-par India started the ODI contests on a disappointing note, losing by six wickets in Brisbane. The Indian women's team has never won a bilateral ODI series against Australia.",
@@ -340,15 +403,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/india-eye-improved-batting-show-to-stay-afloat-in-womens-odi-series-against-australia/article70681408.ece",
     "time": "2026-02-26T20:01:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Fitness of old private buildings remains unchecked in Kozhikode",
-    "desc": "Though structural safety audits of old public buildings happen at regular intervals under the supervision of qualified engineers, such an inspection is hardly conducted to check the condition of many old facilities in the private sector",
-    "img": "https://th-i.thgim.com/public/incoming/tqbf10/article70681148.ece/alternates/LANDSCAPE_1200/80692_26_2_2026_17_29_29_1_27TVKZVADIYIL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/fitness-of-old-private-buildings-remains-unchecked-in-kozhikode/article70679560.ece",
-    "time": "2026-02-26T18:55:07.000Z"
   },
   {
     "cat": "Sports",
@@ -397,12 +451,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Rail Minister urges startups, innovators to join 'Rail Tech Portal' for transformative solutions",
-    "desc": "Union Minister of Railways, Ashwini Vaishnaw, has invited startups and innovators to collaborate with the government through 'Rail Tech Portal' to solve difficult problems with technology within the Indian Railways. Speaking at the DNPA Conclave on Thursday, the Minister described the portal as the primary \"digital way of accepting solutions.\" He encouraged anyone with an interest in problem-solving to contribute to the platform.",
-    "img": "https://static.toiimg.com/photo/msid-128821250,imgsize-100668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rail-minister-urges-startups-innovators-to-join-rail-tech-portal-for-transformative-solutions/articleshow/128821250.cms",
-    "time": "2026-02-26T17:17:07.000Z"
+    "title": "Karnataka school teens from rural and tribal backgrounds make scientific mark with international journal publication",
+    "desc": "Kirat Kaur from Bidar, S Yamini from Hosadoddi Village, Reshma JV from H. D. Kote, all 11th standard students, and Lakshmi G, a 10th standard student from Kaggalipura Village, explored an environmentally safe method to create copper-based nanoparticles using plant extracts.",
+    "img": "https://th-i.thgim.com/public/incoming/r3yozx/article70681174.ece/alternates/LANDSCAPE_1200/Four%20Young%20Researchers%20Felicitated%20by%20the%20Department%20of%20State%20Science%20and%20Technology%20Karnataka.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/karnataka-school-teens-from-rural-and-tribal-backgrounds-make-scientific-mark-with-international-journal-publication/article70679734.ece",
+    "time": "2026-02-26T17:15:39.000Z"
   },
   {
     "cat": "Sports",
@@ -457,15 +511,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/at-knesset-pm-modi-condemns-october-7-attack-barbaric-vows-deeper-ties/article70676998.ece",
     "time": "2026-02-26T16:34:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Samyukt Kisan Morcha to meet CMs, Opposition leaders against U.S. deal in fight for federal rights",
-    "desc": "SKM leaders say they will submit a memorandum to the Chief Ministers and Leaders of Opposition for protecting interest of farmers by holding special sessions of State Assemblies and adopting resolutions asking the Union government to refrain from signing the deal",
-    "img": "https://th-i.thgim.com/public/latest-news/9inp2g/article70680893.ece/alternates/LANDSCAPE_1200/SKM.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/samyukt-kisan-morcha-to-meet-cms-opposition-leaders-against-us-deal-in-fight-for-federal-rights/article70680170.ece",
-    "time": "2026-02-26T15:45:39.000Z"
   },
   {
     "cat": "World",
@@ -576,15 +621,6 @@ const newsData_en = [
     "time": "2026-02-26T11:59:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo buys 25% stake in Saudi-owned Spanish club UD Almería",
-    "desc": "Football icon Cristiano Ronaldo has acquired a 25% stake in Spanish second-tier club UD Almería, marking a significant step in his post-playing career ambitions. The investment, made through his CR7 Sports Investments subsidiary, signals his desire to contribute to the sport beyond the pitch. Almería's owner welcomed the move, highlighting Ronaldo's understanding of Spanish football and the club's potential.",
-    "img": "https://static.toiimg.com/photo/msid-128811238,imgsize-131360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-ronaldo-buys-25-stake-in-saudi-owned-spanish-club-ud-almera/articleshow/128811264.cms",
-    "time": "2026-02-26T10:59:52.000Z"
-  },
-  {
     "cat": "World",
     "title": "EU seeks to cut Russia dependence; Hungary, Slovakia have other plans",
     "desc": "Hungary and Slovakia remain heavily reliant on Russian oil, with reports arguing this dependence is a political choice rather than a necessity; as EU reduces Russian gas, oil imports, the stand-off shows the political and economic hurdles complicating the bloc’s roadmap to energy independence",
@@ -592,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/eu-seeks-to-cut-russia-dependence-hungary-slovakia-have-other-plans/article70679328.ece",
     "time": "2026-02-26T10:36:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who wins if the match ends in a draw?",
-    "desc": "The Ranji Trophy final between Jammu & Kashmir and Karnataka is heading towards a potential draw, with J&K posting a massive 584. Karnataka, currently trailing, faces a significant challenge to secure a first-innings lead. This lead will determine the champion if an outright result isn't achieved, highlighting the importance of sustained performance in multi-day cricket.",
-    "img": "https://static.toiimg.com/photo/msid-128810034,imgsize-111164.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-final-explained-who-wins-if-the-match-ends-in-a-draw/articleshow/128809974.cms",
-    "time": "2026-02-26T10:14:47.000Z"
   },
   {
     "cat": "Sports",
@@ -619,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/abusing-me-and-my-son-wont-win-you-the-world-cup-salman-aghas-wife-slams-pakistan-fans/articleshow/128809308.cms",
     "time": "2026-02-26T09:45:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Devastated, disappointed, angry’: Sanga’s emotional posts after SL’s WC exit",
-    "desc": "Kumar Sangakkara expressed deep disappointment as Sri Lanka exited the T20 World Cup, citing \"a lot of hurt all round.\" He warned of the nation falling behind if urgent changes aren't made, emphasizing the need to adapt to modern cricket's evolution. Sangakkara fears irrelevance if Sri Lanka fails to evolve, stressing the burden and privilege of national representation.",
-    "img": "https://static.toiimg.com/photo/msid-128807611,imgsize-251590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/devastated-disappointed-angry-kumar-sangakkaras-emotional-posts-after-sri-lankas-world-cup-exit/articleshow/128807547.cms",
-    "time": "2026-02-26T08:34:40.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-us-and-iran-moving-closer-to-war-explainer/article70672754.ece",
     "time": "2026-02-24T17:17:21.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Defence Minister",
-    "desc": "It is the first time Japan has specified the timing of the deployment. The Ministry announced the plan in 2022 to ramp up its air defences on the island, which already hosts a Japanese military base",
-    "img": "https://th-i.thgim.com/public/incoming/9qr2qr/article70672767.ece/alternates/LANDSCAPE_1200/Japan_China_73614.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/japan-to-deploy-missile-systems-on-island-near-taiwan-by-2031-defence-minister/article70672747.ece",
-    "time": "2026-02-24T17:14:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka, New Zealand meet in a crucial fixture",
-    "desc": "A loss in its second match will leave the Kiwis clinging on to permutations for its qualification – still a better prospect than the co-host’s, for which a reverse will draw the curtain on its semifinal hopes.",
-    "img": "https://th-i.thgim.com/public/incoming/hywph7/article70671650.ece/alternates/LANDSCAPE_1200/AFP_98J33LD.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-sri-lanka-new-zealand-meet-in-a-crucial-fixture/article70671658.ece",
-    "time": "2026-02-24T15:08:08.000Z"
   }
 ];

@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Smriti Mandhana, Pratika Rawal open for India in Hobart",
+    "title": "Auqib Nabi claims five-wicket haul in Ranji Trophy final vs Karnataka, India call-up awaits",
+    "desc": "Jammu and Kashmir all-rounder Auqib Nabi has been a force to reckon with in the ongoing Ranji Trophy. The 29-year-old has impressed with both bat and ball and in the final against Karnataka at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-claims-five-wicket-haul-in-ranji-trophy-final-vs-karnataka-india-call-up-awaits-2026-02-27-1031910",
+    "time": "2026-02-27T06:36:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at R Premadasa Stadium in Colombo play in T20 World Cup?",
+    "desc": "England will host New Zealand in a high-voltage Super Eights clash at the R Premadasa Stadium in Colombo. The Three Lions have already progressed to the semi-finals of the T20 World Cup, but a win...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/eng-vs-nz-pitch-report-how-will-surface-at-r-premadasa-stadium-in-colombo-play-in-t20-world-cup-2026-02-27-1031888",
+    "time": "2026-02-27T04:54:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India lose wickets at regular intervals; Harmanpreet, Amanjot stabilize",
     "desc": "After sealing the T20I series 2-1, India suffered a 21-run defeat (DLS method) in the first ODI against Australia. With rain not expected to play spoilsport, the Harmanpreet Kaur-led side will be eyeing a bounce...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-amass-their-highest-total-in-t20-world-cup-history-smash-256-runs-vs-zimbabwe-in-must-win-clash-2026-02-26-1031833",
     "time": "2026-02-26T15:19:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma breaks string of bad form, scores fantastic half century against Zimbabwe in Chennai",
-    "desc": "Game 48 of the ongoing T20 World Cup 2026 saw India taking on Zimbabwe. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February 26, and the clash began on a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-string-of-bad-form-scores-fantastic-half-century-against-zimbabwe-in-chennai-2026-02-26-1031828",
-    "time": "2026-02-26T14:57:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aiden Markram surpasses Rohit Sharma, achieves major milestone as South Africa skipper in T20 World Cup",
-    "desc": "South Africa put forth a brilliant performance against the West Indies in game 47 of the ongoing T20 World Cup 2026. The two sides locked horns at the Narendra Modi Stadium in Ahmedabad on February...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-surpasses-rohit-sharma-achieves-major-milestone-as-south-africa-skipper-in-t20-world-cup-2026-02-26-1031824",
-    "time": "2026-02-26T14:43:05.000Z"
   }
 ];

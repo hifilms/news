@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "પાકિસ્તાન અને અફઘાનિસ્તાન વચ્ચે યુદ્ધ કેમ થયું? જાની દુશ્મન બની ગયા 2 મુસ્લિમ દેશ",
+    "desc": "અફઘાનિસ્તાને પાકિસ્તાન સેના પર મોટો હુમલો કર્યો. આ પહેલા પાકિસ્તાની સેનાએ અફઘાનિસ્તાન સરહદ પાસે રવિવારે હુમલા કર્યાં હતા. તેણે દાવો કર્યો કે તેમાં ઓછામાં ઓછા 70 આતંકવાદી માર્યા ગયા, અફઘાનિસ્તાને આ દાવાને નકાર્યો અને કહ્યું કે તેમાં ઘણા નાગરિકોના મોત થયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/break-out-between-pakistan-and-afghanistan-two-muslim-countries-have-become-sworn-enemies-466386 ",
+    "time": "2026-02-27T06:04:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "વેડિંગ લુકમાં રશ્મિકા-વિજયએ નવો ચીલો ચીતર્યો, કેસરીયો રંગ અને પ્યોર ગોલ્ડ જ્વેલરી ચર્ચામાં, ચેક કરો વેડિંગ લુકની ડિટેલ્સ",
+    "desc": "એ વાતમાં કોઈ શંકા નથી કે આવનારા સમયમાં કેસરીયો રંગ વેડિંગ આઉટફિટમાં છવાઈ જવાનો છે કારણ કે રશ્મિકા મંદાનાએ તેના બ્રાઈડલ લુકથી ફેશન ઈંડસ્ટ્રીમાં નવા ટ્રેંડની શરુઆત કરી દીધી છે. વેડિંગ સાડીમાં રેડ કે પેસ્ટલ રંગના ટ્રેંડને છોડી રશ્મિકાએ નવો ડ્રેંટ શરુ કર્યો છે. સાથે જ ડાયમંડ નહીં પણ પ્યોર ગોલ્ડ જ્વેલરીનો ટ્રેડ પણ શરુ થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/virosh-wedding-look-why-rashmika-and-vijay-deverakonda-pure-gold-jewelry-and-orange-outfit-talk-of-the-town-466384 ",
+    "time": "2026-02-27T05:55:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સરકારે જાહેર કરી કડક ચેતવણી, લાખો ઇન્ડિયન રેલવે પેન્શનર્સ માટે મોટું અપડેટ",
+    "desc": "રેલ્વે પેન્શનરો માટે સરકારે એક અત્યંત મહત્વપૂર્ણ એલર્ટ એટલે કે ચેતવણી જાહેર કરી છે. રેલ્વે મંત્રાલયે સ્પષ્ટતા કરી છે કે છેતરપિંડી કરનારાઓ હવે પેન્શનરોને નિશાન બનાવી રહ્યા છે. જો તમે અથવા તમારા પરિવારમાં કોઈ રેલ્વેમાંથી નિવૃત્ત છો, તો આ સમાચાર ધ્યાનથી વાંચો...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/railway-pensioners-alert-government-issues-stern-warning-major-update-for-lakhs-of-indian-railway-pensioners-466383 ",
+    "time": "2026-02-27T05:54:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારત અને આફ્રિકાની જીત બાદ પોઈન્ટ્સ ટેબલમાં મોટો ઉલટફેર, વેસ્ટ ઈન્ડિઝ સામેની મેચ બની ‘ક્વાર્ટર ફાઈનલ’",
+    "desc": "ICC T20 વર્લ્ડ કપ 2026માં 26 ફેબ્રુઆરીના રોજ બે મોટા મુકાબલા ખેલાયા હતા. પ્રથમ મેચમાં દક્ષિણ આફ્રિકાની ટીમે વેસ્ટ ઈન્ડિઝને ખરાબ રીતે હરાવ્યું, જ્યારે બીજી મેચમાં ટીમ ઈન્ડિયાએ ઝિમ્બાબ્વે સામે શાનદાર જીત મેળવી હતી. આ બંને મેચો બાદ પોઈન્ટ્સ ટેબલમાં મોટો ફેરફાર જોવા મળ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-and-south-africas-victories-have-led-to-a-reshuffle-in-the-points-table-west-indies-becoming-a-quarter-final-466381 ",
+    "time": "2026-02-27T05:35:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "જો વરસાદના કારણે ભારત-વેસ્ટ ઇન્ડીઝ મેચ રદ થાય, તો શું ભારત T20 વર્લ્ડ કપમાંથી થઈ જશે બહાર ?",
+    "desc": "જો ભારત અને વેસ્ટ ઈન્ડિઝ વચ્ચેની સુપર 8 મેચ વરસાદને કારણે ધોવાઈ જાય, તો શું ભારતીય ટીમ 2026ના T20 વર્લ્ડ કપમાંથી બહાર થઈ જશે ? આ લેખમાં જાણીશું કે મેચ રદ થવાથી કઈ ટીમને ફાયદો થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/if-india-vs-west-indies-match-washed-out-will-india-be-out-of-t20-world-cup-466380 ",
+    "time": "2026-02-27T05:25:27.000Z"
+  },
+  {
+    "cat": "World",
     "title": "પાકિસ્તાન અને અફઘાનિસ્તાન વચ્ચે યુદ્ધ જેવી સ્થિતિ, કાબુલમાં મધરાતે બોમ્બમારો, ભયાનક વીડિયો આવ્યા સામે",
     "desc": "દક્ષિણ એશિયાના બે પડોશી દેશો પાકિસ્તાન અને અફઘાનિસ્તાન વચ્ચેનો સરહદી વિવાદ હવે એક મોટા લશ્કરી સંઘર્ષમાં ફેરવાઈ ગયો છે. શુક્રવારે વહેલી સવારે પાકિસ્તાન વાયુસેના (PAF)ના લડાકુ વિમાનોએ અફઘાનિસ્તાનની રાજધાની કાબુલ સહિત કંધારમાં મોટા પાયે હવાઈ હુમલા કર્યા છે. પાકિસ્તાને આ લશ્કરી કાર્યવાહીને \"ઓપરેશન ગઝબ લિલ-હક\" નામ આપ્યું છે, જેમાં 133 અફઘાન તાલિબાનીઓ માર્યા ગયા હોવાનો દાવો કરવામાં આવ્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -259,15 +304,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-semifinal-tickets-booking-if-india-out-icc-will-refund-466172 ",
     "time": "2026-02-25T08:06:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પાકિસ્તાનની હારનો સૌથી મોટો વિલન કોણ ? કેપ્ટન આગાએ કોને ગણાવ્યો જવાબદાર",
-    "desc": "ઈંગ્લેન્ડ સામે પાકિસ્તાનની કારમી હાર થઈ છે. શરૂઆતમાં સારી બોલિંગ કરી છતાં પાકિસ્તાન ઈંગ્લેન્ડ પર દબાણ લાવી શક્યું નહીં. હેરી બ્રુક અને વિલ જેક્સની જોડીએ મેચને પલટી નાખી અને ઈંગ્લેન્ડ સેમિફાઈનલમાં પહોંચી ગયું. હાર બાદ પાકિસ્તાનના કેપ્ટન સલમાન અલી આગાનું દર્દ છલકાયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/pakistan-vs-england-t20-world-cup-2026-salman-agha-reaction-after-losing-match-466148 ",
-    "time": "2026-02-25T07:15:39.000Z"
   },
   {
     "cat": "Sports",
@@ -565,15 +601,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/will-the-133-billion-doller-collected-from-tariffs-be-returned-after-the-us-supreme-court-decision-know-465771 ",
     "time": "2026-02-21T16:22:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "આ ભારતવંશીના કારણે ટ્રમ્પને મોટો ઝટકો, અમેરિકન કોર્ટે દુનિયા પર લગાવેલા ટેરિફ પર આપ્યો ઐતિહાસિક ચુકાદો",
-    "desc": "યુએસ સુપ્રીમ કોર્ટે ડોનાલ્ડ ટ્રમ્પે વિશ્વ પર લગાવેલા ટેરિફને દુર કર્યા છે. ભારતીય મૂળના વકીલે નાના વ્યવસાયો વતી દલીલ કરી, તેમને ગેરકાયદેસર ગણાવ્યા. કોર્ટે તેમના પક્ષમાં ચુકાદો આપ્યો. વકીલે તેને બંધારણ અને કાયદાના શાસનનો વિજય ગણાવ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/trump-got-a-big-blow-because-of-this-indian-american-court-gave-a-historic-verdict-on-tariffs-imposed-on-the-world-465769 ",
-    "time": "2026-02-21T14:42:40.000Z"
   },
   {
     "cat": "Entertainment",
