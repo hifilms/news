@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Who will reach T20 World Cup semifinals?",
+    "desc": "Pakistan face a crucial Super 8s match against Sri Lanka, with their qualification hopes significantly impacted by the weather. Following England's win over New Zealand, Pakistan's destiny is in their own hands, but a washout would favor New Zealand. The team must secure a substantial victory to advance.",
+    "img": "https://static.toiimg.com/photo/msid-128876079,imgsize-62136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-vs-sri-lanka-washout-scenario-who-will-reach-t20-world-cup-2026-semifinals/articleshow/128875985.cms",
+    "time": "2026-02-28T06:14:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gwyneth Paltrow, Jenna Ortega and Delroy Lindo to present at 2026 actor awards",
+    "desc": "Gwyneth Paltrow, Jenna Ortega, and Delroy Lindo are among the star-studded presenters for the 32nd annual Actor Awards, formerly the SAG Awards. The ceremony, hosted by Kristen Bell, will stream live on Netflix on March 1, 2026, celebrating outstanding achievements in film and television.",
+    "img": "https://static.toiimg.com/photo/msid-128876092,imgsize-787514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/actor-awards-2026-gwyneth-paltrow-jenna-ortega-among-presenters-at-sag-awards-one-battle-after-another-leads-nominations/articleshow/128875965.cms",
+    "time": "2026-02-28T06:14:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Scary Movie 6’ trailer leaks online: What we know",
+    "desc": "Scary Movie 6 is back in June 2026 with its signature scare-comedy, more than ten years since the franchise last spoofed the genre. A leaked trailer skewers contemporary fright films like M3GAN and Smile, bringing back Anna Faris, Regina Hall, and the Wayans brothers, Marlon and Shawn. Prepare for bigger laughs and plenty of familiar cameos.",
+    "img": "https://static.toiimg.com/photo/msid-128875879,imgsize-147242.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/scary-movie-6-trailer-leaks-online-every-line-will-be-crossed-heres-what-we-know/articleshow/128875843.cms",
+    "time": "2026-02-28T06:05:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Selena Gomez and Benny Blanco’s Santa Barbara wedding revealed",
+    "desc": "Selena Gomez and Benny Blanco's September 27, 2025, wedding in Santa Barbara was officiated by their friend Lil Dicky, who also shared a touching speech. The couple navigated a last-minute vow crisis, with Blanco finding Gomez's lost handwritten vows just in time. The star-studded event featured guests like Taylor Swift and a lively reception.",
+    "img": "https://static.toiimg.com/photo/msid-128875850,imgsize-669752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/selena-gomez-and-benny-blancos-santa-barbara-wedding-revealed-lil-dicky-officiated-the-heartfelt-ceremony/articleshow/128875840.cms",
+    "time": "2026-02-28T06:02:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Setback for Indian huglomacy': Congress blames PM Modi for Trump's support to Pakistan amid conflict with Afghanistan",
+    "desc": "Congress MP Jairam Ramesh has sharply criticized US President Donald Trump's praise for Pakistan's leadership amidst the Afghanistan conflict, calling it a diplomatic setback for India. Ramesh also highlighted concerns over India's trade and strategic diplomacy with the US, citing a one-sided trade deal and the US imposing duties on Indian solar modules. He argued that India's 'Vishwaguru' image has been exposed.",
+    "img": "https://static.toiimg.com/photo/msid-128875430,imgsize-1203427.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/setback-for-indian-huglomacy-congress-blames-pm-modi-for-trumps-support-to-pakistan-amid-conflict-with-afghanistan/articleshow/128875044.cms",
+    "time": "2026-02-28T06:01:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kerala Story 2 producer BREAKS SILENCE after HC lifts stay",
+    "desc": "The Kerala High Court has cleared the release of 'The Kerala Story 2 Goes Beyond' by lifting the interim stay. Producer Vipul Amrutlal Shah confirmed that the court found the CBFC's certification process—overseen by an eight-member panel including social workers and experts—acceptable, overturning the earlier injunction that blocked the film's release. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128875684,imgsize-127930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-kerala-story-2-producer-vipul-amrutlal-shah-breaks-silence-after-high-court-lifts-interim-stay-on-the-films-release/articleshow/128875684.cms",
+    "time": "2026-02-28T05:58:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Muted opening for The Kerala Story 2 despite court clearance",
+    "desc": "Though a Division Bench of the Kerala High Court stayed a single judge’s order halting the release on February 27, the film could initially be screened only in a handful of theatres with limited evening shows",
+    "img": "https://th-i.thgim.com/public/incoming/obed59/article70687135.ece/alternates/LANDSCAPE_1200/Kerala%20Story.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/muted-opening-for-the-kerala-story-2-despite-court-clearance/article70687117.ece",
+    "time": "2026-02-28T05:49:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Cuba unveils new details in fatal U.S. boat shooting and says a second boat on mission failed",
+    "desc": "“Authorities were able to establish that the 10 Cuban suspects left the U.S. in two boats, but one failed, so they transferred all the supplies to the remaining one and left the other adrift,” says Officials",
+    "img": "https://th-i.thgim.com/public/incoming/f97835/article70682424.ece/alternates/LANDSCAPE_1200/Cuba_Daily_Life_22570.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/cuba-unveils-new-details-in-fatal-us-boat-shooting-and-says-a-second-boat-on-mission-failed/article70687083.ece",
+    "time": "2026-02-28T05:39:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zack Snyder opens up about the SnyderVerse’s future",
+    "desc": "Zack Snyder, the architect of the SnyderVerse, spoke frankly about its future and James Gunn's newly launched DCU. A live-action return remains uncertain, but Snyder said he's open to exploring comics or animation. He also voiced support for Gunn's direction, praising his distinctive storytelling and wishing him success with the revamped DC universe.",
+    "img": "https://static.toiimg.com/photo/msid-128875190,imgsize-119020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/a-weed-that-wont-die-zack-snyder-opens-up-about-the-snyderverses-future-and-shares-his-thoughts-on-james-gunns-dcu/articleshow/128875144.cms",
+    "time": "2026-02-28T05:32:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rishab Shetty's favourite actor is THIS Kannada star",
+    "desc": "Rishab Shetty revealed his deep admiration for Malayalam star Mohanlal, considering him like family. He also shared that the late Puneeth Rajkumar was initially considered for the lead role in 'Kantara'. Despite Puneeth's packed schedule, he showed enthusiasm for the project before his untimely passing.",
+    "img": "https://static.toiimg.com/photo/msid-128875099,imgsize-59518.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/when-rishab-shetty-named-his-favourite-actor-this-kannada-star-was-nearly-roped-in-for-kantara/articleshow/128875099.cms",
+    "time": "2026-02-28T05:30:17.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump administration seeks delay in tariff refunds battle",
+    "desc": "The high court ruling last week marked a stunning rebuke of the President's signature economic policy, and opened the doors to what experts say will be a complicated, legally fraught refund process as importers sue for their money back",
+    "img": "https://th-i.thgim.com/public/incoming/5vfgns/article70687029.ece/alternates/LANDSCAPE_1200/2026-02-28T031827Z_705080933_RC2PUJAS7BMM_RTRMADP_3_USA-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-administration-seeks-delay-in-tariff-refunds-battle/article70687021.ece",
+    "time": "2026-02-28T05:26:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "O. Panneerselvam: A man undone by his own decisions",
+    "desc": "When he joined the DMK in the presence of Chief Minister M.K.Stalin, Mr. Panneerselvam was accompanied by only one legislator, P. Ayyappan. After his expulsion from the AIADMK in July 2022, Mr Panneerselvam had the support of two prominent leaders - R. Vaithilingam and P.H. Manoj Pandian. They joined the DMK recently.",
+    "img": "https://th-i.thgim.com/public/incoming/23iz8k/article70685771.ece/alternates/LANDSCAPE_1200/DSC_8532.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/o-panneerselvam-a-man-undone-by-his-own-decisions/article70685637.ece",
+    "time": "2026-02-28T05:26:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will England drop Buttler for the semi-final? Brook issues defiant message",
+    "desc": "Jos Buttler's T20 World Cup 2026 campaign has been a struggle, with only 62 runs in seven innings and five consecutive single-digit scores. Despite this lean patch, captain Harry Brook has backed Buttler, calling him the finest white-ball player and expressing confidence in his ability to bounce back in upcoming matches.",
+    "img": "https://static.toiimg.com/photo/msid-128874902,imgsize-101556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/will-england-drop-jos-buttler-for-the-semi-final-harry-brook-issues-defiant-message/articleshow/128874885.cms",
+    "time": "2026-02-28T05:18:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "This is what BLACKPINK’s Jisoo prefer in a partner",
+    "desc": "someone who forgets anniversaries (she struggles with dates herself) and someone who never texts first (she’s happy to reach out). She also confessed a love for sweet foods and dessert. Her upcoming drama, Boyfriend on Demand, premieres on Netflix on March 6.",
+    "img": "https://static.toiimg.com/photo/msid-128874866,imgsize-90310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/what-blackpinks-jisoo-prefer-in-a-partner-someone-who-loves-desserts-doesnt-text-and-more/articleshow/128874866.cms",
+    "time": "2026-02-28T05:17:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When is ‘Zootopia 2’ coming to Disney+? Here’s what we know",
+    "desc": "Get ready for Zootopia 2 on Disney+! After a successful theatrical run and digital release, the animated sequel streams starting March 11, 2026. Judy Hopps and Nick Wilde return to crack a fresh mystery, with Ke Huy Quan voicing the villain. Expect sharper animation and a captivating soundtrack that heightens every clue.",
+    "img": "https://static.toiimg.com/photo/msid-128874688,imgsize-114230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/when-is-zootopia-2-coming-to-disney-heres-what-we-know/articleshow/128874650.cms",
+    "time": "2026-02-28T05:09:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "West Indies banking on happy memories of Eden Gardens",
+    "desc": "West Indies, inspired by their 2016 T20 World Cup win at Eden Gardens, face India in a crucial Super Eights match. Despite having talented players, this West Indies squad is considered less formidable than their 2016 counterparts. While they have played at the venue, India, masters of white-ball cricket and with strong home support, are expected to hold the advantage.",
+    "img": "https://static.toiimg.com/photo/msid-128874672,imgsize-133858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sweet-16-west-indies-banking-on-happy-memories-of-eden-gardens/articleshow/128874682.cms",
+    "time": "2026-02-28T05:06:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress finalises candidates for 40 seats; Gaurav Gogoi likely to contest from Jorhat",
+    "desc": "Congress leader Gaurav Gogoi is reportedly set to contest the upcoming Assam assembly elections from the Jorhat constituency. This move follows the party's finalization of candidates for 40 seats. Gogoi, currently an MP from Jorhat, gained national attention for initiating the no-confidence motion against the Modi government.",
+    "img": "https://static.toiimg.com/photo/msid-128874361,imgsize-1131810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assam-polls-congress-finalises-candidates-for-40-seats-gaurav-gogoi-likely-to-contest-from-jorhat/articleshow/128874316.cms",
+    "time": "2026-02-28T04:50:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rihanna shares late-night studiovideo, fuels R9 speculation",
+    "desc": "Rihanna's late-night studio visit in February 2026 reignited fan excitement for her ninth album, R9. After a decade-long hiatus since 'Anti', the singer has hinted at a project that defies expectations, prioritizing artistic expression over commercial appeal. Insiders predict a potential stadium tour starting August 2026, marking a significant return to music.",
+    "img": "https://static.toiimg.com/photo/msid-128874136,imgsize-522985.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rihannas-2-a-m-studio-video-rekindles-r9-buzz-nearly-a-decade-after-anti-watch/articleshow/128874044.cms",
+    "time": "2026-02-28T04:39:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Koyote’s Shinji unveils wedding photos with Moon Won",
+    "desc": "K-pop veteran Shinji of Koyote is set to marry fiancé Moon Won on May 2nd, sharing radiant wedding photos that showcase their undeniable chemistry. The couple, who confirmed their relationship last year, met through broadcasting circles. Shinji has also addressed and debunked rumors surrounding Moon Won's past, expressing gratitude for their strong bond as they embark on this new chapter.",
+    "img": "https://static.toiimg.com/photo/msid-128873963,imgsize-646735.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/koyotes-shinji-unveils-wedding-photos-with-moon-won-ahead-of-may-ceremony-in-seoul/articleshow/128873949.cms",
+    "time": "2026-02-28T04:30:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika's wedding pic becomes MOST LIKED post in Asia",
+    "desc": "Rashmika Mandanna and Vijay Deverakonda's wedding announcement has shattered Instagram records, becoming Asia's most-liked post with over 23 million likes. This monumental achievement has surpassed Virat Kohli's T20 World Cup victory post and other celebrity wedding posts, cementing their place among the all-time most popular Instagram content.",
+    "img": "https://static.toiimg.com/photo/msid-128873522,imgsize-172332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-and-vijay-deverakondas-wedding-pic-dethrones-virat-kohlis-world-cup-pic-as-most-liked-instagram-post-in-asia/articleshow/128873507.cms",
+    "time": "2026-02-28T04:19:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "West Indies not a one-gear team: Arshdeep Singh",
+    "desc": "Arshdeep Singh, India's leading T20 World Cup wicket-taker, displayed infectious energy off-field after a stellar bowling performance. He expressed gratitude to South Africa for their win, which eased India's path. Looking ahead to a virtual quarterfinal against the West Indies, Arshdeep acknowledged their batting prowess and India's strategy to 'do the dirty job' on batting-friendly pitches.",
+    "img": "https://static.toiimg.com/photo/msid-128873700,imgsize-31826.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/west-indies-not-a-one-gear-team-arshdeep-singh/articleshow/128873702.cms",
+    "time": "2026-02-28T04:15:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Opportunity to consider options': US govt seeks delay in tariff refunds battle as Trump fumes over possible 'rehearing'",
+    "desc": "The Trump administration is requesting a delay in legal proceedings concerning tariff refunds. This comes after the Supreme Court ruled against his global duties. The US government argues for a \"appropriately careful process, not breakneck speed.\" Earlier, Trump criticised the decision warning of significant payouts and questioned the \"possibility of a rehearing.\"",
+    "img": "https://static.toiimg.com/photo/msid-128875296,imgsize-595090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/opportunity-to-consider-options-us-govt-seeks-delay-in-tariff-refunds-battle-as-trump-fumes-over-possible-rehearing/articleshow/128873665.cms",
+    "time": "2026-02-28T04:12:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When 16-year-old Shahid Afridi saved Pakistan — Can history repeat in Pallekele?",
+    "desc": "Pakistan's path to the T20 World Cup 2026 semi-finals hinges on a decisive victory against Sri Lanka. Following England's win over New Zealand, Pakistan must secure a substantial margin of victory, either by batting first and winning by 64 runs or chasing a target within 13.1 overs, to surpass New Zealand's net run rate.",
+    "img": "https://static.toiimg.com/photo/msid-128873532,imgsize-121306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/when-16-year-old-shahid-afridi-saved-pakistan-can-history-repeat-in-pallekele/articleshow/128873431.cms",
+    "time": "2026-02-28T04:05:10.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘Monarch: Legacy of Monsters’ season 2 episode rollout",
     "desc": "Legacy of Monsters' is set to premiere on Apple TV+ on February 27, 2026. The new season will delve deeper into Monarch's peril and the mysteries of Skull Island, introducing a new bioluminescent Titan, Titan X.",
@@ -21,7 +228,7 @@ const newsData_en = [
     "cat": "Business",
     "title": "OpenAI CEO Sam Altman finalises deal with US government amid Trump’s war with Anthropic",
     "desc": "OpenAI will deploy its AI models on the Department of War's classified network. This follows an agreement on safety principles. Meanwhile, OpenAI and Amazon have formed a major partnership. Amazon will invest $50 billion in OpenAI. This collaboration aims to accelerate AI innovation. The developments occur amidst US President Donald Trump's ban on Anthropic.",
-    "img": "https://static.toiimg.com/photo/msid-128873272,imgsize-95548.cms",
+    "img": "https://static.toiimg.com/photo/msid-128873385,imgsize-1137943.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/openai-ceo-sam-altman-finalises-deal-with-us-government-amid-trumps-war-with-anthropic/articleshow/128873028.cms",
     "time": "2026-02-28T03:49:01.000Z"
@@ -136,48 +343,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Jim Carrey Sparks Surgery Buzz at César Awards",
-    "desc": "Comedy legend Jim Carrey surprised fans with a dramatically different look at the César Film Awards in Paris. Clean-shaven with a new hairstyle, his appearance sparked widespread speculation online about cosmetic procedures. While some expressed shock, others defended his transformation, emphasizing his enduring talent and the natural passage of time.",
-    "img": "https://static.toiimg.com/photo/msid-128871041,imgsize-1372761.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jim-carrey-sparks-speculation-about-going-under-the-knife-actors-new-look-at-cesar-awards-goes-viral/articleshow/128871049.cms",
-    "time": "2026-02-28T01:25:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Masthishka Maranam' BO day 1: Opens at Rs 40 lakhs",
-    "desc": "Krishand's genre-bending film 'Masthishka Maranam' opened to ₹40 lakhs net on its first day, blending sci-fi, comedy, and thriller. The story follows a grieving father using VR to reconnect with his child. Nighttime occupancy saw a significant surge, indicating growing audience interest. Initial reactions are mixed, praising its unique premise and performances while noting some narrative disjointedness.",
-    "img": "https://static.toiimg.com/photo/msid-128870649,imgsize-186088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/masthishka-maranam-box-office-collections-day-1-rajisha-vijayans-film-opens-at-rs-40-lakhs-sci-fi-film-begins-slow/articleshow/128870649.cms",
-    "time": "2026-02-28T00:57:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "‘O’ Romeo’ crosses Rs 60 crore mark on third Friday",
     "desc": "Shahid Kapoor's 'O' Romeo' has surpassed Rs 60 crore domestically, nearing Rs 100 crore worldwide despite slowing collections. The romantic drama, now in its third week, has seen a gradual dip after a strong opening. It ranks fifth among Kapoor's highest-grossing films, with 'Padmaavat' and 'Kabir Singh' leading. Triptii Dimri's third-highest grosser, 'O' Romeo's steady hold continues.",
     "img": "https://static.toiimg.com/photo/msid-128870287,imgsize-71148.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-15-shahid-kapoor-starrer-crosses-rs-60-crore-mark-on-third-friday/articleshow/128870198.cms",
     "time": "2026-02-28T00:25:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Thaai Kizhavi' BO day 1: Film opens at Rs 2.50 crores",
-    "desc": "Thaai Kizhavi makes a strong debut, raking in ₹2.50 crore on its opening day. The family drama saw a healthy rise in occupancy throughout Friday, with night shows peaking at an impressive 47.55%. Early viewers are praising its blend of sentiment, humor, and empowerment, with Radikaa Sarathkumar delivering a standout performance.",
-    "img": "https://static.toiimg.com/photo/msid-128870235,imgsize-162850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-box-office-collections-day-1-radikaa-sarathkumars-film-opens-at-rs-2-50-crores/articleshow/128870235.cms",
-    "time": "2026-02-28T00:24:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Vishnu Vinyasam' BO day 1: Film opens with Rs 2 crore",
-    "desc": "Vishnu Vinyasam opened strong with around Rs 2 crore on day one, buoyed by full houses in the night shows. Sree Vishnu plays a numerology-obsessed lecturer, a quirky setup that clicks with sharp situational comedy, especially in the first half. Satya’s comic timing is also getting noticed, giving the weekend a hopeful start at the box office.",
-    "img": "https://static.toiimg.com/photo/msid-128869783,imgsize-162324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/vishnu-vinyasam-box-office-collections-day-1-sree-vishnus-film-opens-with-rs-2-crore/articleshow/128869783.cms",
-    "time": "2026-02-27T23:58:36.000Z"
   },
   {
     "cat": "Business",
@@ -198,33 +369,6 @@ const newsData_en = [
     "time": "2026-02-27T23:33:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Oh! Carol' singer Neil Sedaka passes away at 86",
-    "desc": "Legendary singer-songwriter Neil Sedaka, famed for hits like \"Breaking Up Is Hard to Do\" and \"Laughter in the Rain,\" has passed away at 86. A key figure in early rock 'n' roll and a 1970s resurgence, Sedaka's career spanned decades, with his songs covered by numerous artists. His family expressed deep sorrow at the loss of the \"incredible human being.\"",
-    "img": "https://static.toiimg.com/photo/msid-128869077,imgsize-65236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/oh-carol-singer-songwriter-neil-sedaka-passes-away-at-age-86/articleshow/128868976.cms",
-    "time": "2026-02-27T23:18:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Studio merger the end of Hollywood or a brighter future?",
-    "desc": "Paramount has reportedly won the bidding war to acquire Warner Bros., outbidding Netflix. This potential consolidation, following Disney's Fox acquisition, signals a significant shift in Hollywood. Paramount aims to expand its film slate and compete in streaming, while questions linger about the future of streaming services and studio lots.",
-    "img": "https://static.toiimg.com/photo/msid-128868687,imgsize-162296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-end-of-hollywood-or-a-brighter-future-what-a-paramount-owned-warner-bros-means-for-the-movies/articleshow/128866270.cms",
-    "time": "2026-02-27T23:02:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lil Jon's 27-year-old son's cause of death revealed",
-    "desc": "Rapper Lil Jon's son, Nathan Smith, 27, died from drowning, with psilocybin use noted as a contributing factor. His body was recovered from a pond weeks after he went missing. The medical examiner ruled his death an accident, with no signs of foul play. The family expressed profound grief over the loss of their \"kindest human being.\"",
-    "img": "https://static.toiimg.com/photo/msid-128868312,imgsize-203046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lil-jons-27-year-old-son-nathan-smiths-cause-of-death-revealed-after-body-found-in-pond/articleshow/128867703.cms",
-    "time": "2026-02-27T22:54:23.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "SC grants Yadav one-week furlough to spend Holi with family",
     "desc": "The Supreme Court has granted Vikas Yadav, convicted in the 2002 Nitish Katara murder, furlough until March 7. Having served 23 years of his 25-year sentence, the court permitted his release to spend time during Holi, rejecting objections. This comes after the Delhi High Court had previously denied his furlough plea, citing the gravity of his offenses.",
@@ -232,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/katara-case-sc-grants-yadav-one-week-furlough-to-spend-holi-with-family/articleshow/128867718.cms",
     "time": "2026-02-27T22:37:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Susan Sarandon FIRED for Gaza ceasefire protest",
-    "desc": "Veteran Hollywood star Susan Sarandon on Friday praised the Spanish government's support for Gaza, saying it was \"on the right side of history\". \"Whenever I have seen him, he has been on the right side of history and also said it in a very clear way.\"",
-    "img": "https://static.toiimg.com/photo/msid-128866593,imgsize-62794.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/susan-sarandon-fired-from-agency-for-calling-for-ceasefire-in-gaza-oscar-winner-barred-from-tv-roles-and-hollywood-films-watch/articleshow/128866250.cms",
-    "time": "2026-02-27T22:10:13.000Z"
   },
   {
     "cat": "Politics",
@@ -252,15 +387,6 @@ const newsData_en = [
     "time": "2026-02-27T22:09:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Alia Bhatt gets into ‘Alpha’ mode in Milan",
-    "desc": "Alia Bhatt embraced a chic, all-black leather look at Milan Fashion Week, stepping into her upcoming spy role. Ditching her usual style, she sported a slick aesthetic with statement accessories. Bhatt also showcased a casual street style and recently made her BAFTA red carpet debut. She is currently preparing for her action-packed film 'Alpha' and shooting for 'Love and War'.",
-    "img": "https://static.toiimg.com/photo/msid-128866152,imgsize-94498.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-gets-into-alpha-mode-in-milan-rocks-all-black-leather-look-at-fashion-show-pics/articleshow/128865391.cms",
-    "time": "2026-02-27T21:47:04.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Surrendered Maoists attend Chhattisgarh Assembly proceedings",
     "desc": "The group, which included 54 women, spent several hours in the Assembly building where they watched the proceedings and met Chief Minister Vishnu Deo Sai, Deputy Chief Minister Vijay Sharma and other senior Ministers who hailed the Maoists for their decision to return to the mainstream.",
@@ -268,15 +394,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/chhattisgarh/surrendered-maoists-attend-chhattisgarh-assembly-proceedings/article70685139.ece",
     "time": "2026-02-27T21:16:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shreya Ghoshal says she felt like a ‘misfit’ for Bipasha song",
-    "desc": "Singer Shreya Ghoshal may have made a dream debut with Sanjay Leela Bhansali’s Devdas, but success did not translate into instant offers. In a recent interaction, Shreya revealed that despite the film’s massive impact, it took time for her next big opportunity to arrive.",
-    "img": "https://static.toiimg.com/photo/msid-128864800,imgsize-95686.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shreya-ghoshal-says-she-felt-like-a-misfit-for-bipasha-basu-song-jaadu-hai-nasha-hai-recalls-lull-phase-after-devdas-debut/articleshow/128864800.cms",
-    "time": "2026-02-27T20:30:18.000Z"
   },
   {
     "cat": "Politics",
@@ -297,15 +414,6 @@ const newsData_en = [
     "time": "2026-02-27T20:06:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rajpal Yadav makes his first public appearance after jail",
-    "desc": "Weeks after being caught in a Rs 9 crore cheque bounce case, Rajpal Yadav stepped out in Mumbai — and turned a routine paparazzi spotting into a throwback moment. The actor, attending an event in the city, broke into a playful hop when photographers began chanting “Paani, paani,” a dialogue linked to his unforgettable Chhota Pandit character from Bhool Bhulaiyaa.",
-    "img": "https://static.toiimg.com/photo/msid-128864374,imgsize-58036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-makes-his-first-public-appearance-amid-rs-9-crore-cheque-bounce-case-greets-paps-with-chhota-pandit-jump/articleshow/128864374.cms",
-    "time": "2026-02-27T19:57:06.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "A double murder in ‘mini Russia’",
     "desc": "The killing of two women in January, both named Elena, reopens old questions over foreigners’ deaths in Goa. Sujay Gupta visits Arambol, a fishing village in North Goa, known for playing host to performers, sunset-seeking international travellers, and beach front bars. Running in the background are the stories of victims of alleged murders, whose families from overseas are still fighting for justice",
@@ -313,24 +421,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/goa/a-double-murder-in-mini-russia/article70684652.ece",
     "time": "2026-02-27T19:43:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vizhinjam ‘seafood poisoning’: searching for marine algal toxins in fish becoming an onerous task, say officials",
-    "desc": "Food Safety officials point out that the forensic report on the viscera samples of those who died of “seafood poisoning” alone can provide clarity. However, no stool or blood samples seem to have been collected from the deceased",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/vizhinjam-seafood-poisoning-searching-for-marine-algal-toxins-in-fish-becoming-an-onerous-task-say-officials/article70685008.ece",
-    "time": "2026-02-27T19:25:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "O. Panneerselvam: A man undone by his own decisions",
-    "desc": "When he joined the DMK in the presence of Chief Minister M.K.Stalin, Mr. Panneerselvam was accompanied by only one legislator, P. Ayyappan. After his expulsion from the AIADMK in July 2022, Mr Panneerselvam had the support of two prominent leaders - R. Vaithilingam and P.H. Manoj Pandian. They joined the DMK recently.",
-    "img": "https://th-i.thgim.com/public/incoming/23iz8k/article70685771.ece/alternates/LANDSCAPE_1200/DSC_8532.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/o-panneerselvam-a-man-undone-by-his-own-decisions/article70685637.ece",
-    "time": "2026-02-27T18:26:37.000Z"
   },
   {
     "cat": "Sports",
@@ -478,15 +568,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Real Madrid face Manchester City, PSG draw Chelsea in Champions League last 16",
-    "desc": "Real Madrid and Manchester City will face off in a Champions League knockout tie for the fifth season running after being drawn Friday to play each other in the last 16, while reigning champions Paris Saint-Germain will take on Chelsea. Tottenham Hotspur were drawn to play Atletico Madrid, with the winners of that tie then facing Newcastle or Barcelona in the last eight.",
-    "img": "https://static.toiimg.com/photo/msid-128849477,imgsize-109122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/champions-league/top-stories/real-madrid-face-manchester-city-psg-draw-chelsea-in-champions-league-last-16/articleshow/128849320.cms",
-    "time": "2026-02-27T12:09:44.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Dropped catches hurt India as Aus win 2nd ODI, take 6-4 lead in all-format series",
     "desc": "Australia Women secured a commanding five-wicket victory over India Women, clinching the ODI series 2-0. Georgia Voll's century and Phoebe Litchfield's brisk 80 laid the foundation for the successful chase after India posted 251/9. This win extends Australia's all-format series lead, leaving India with much to ponder.",
     "img": "https://static.toiimg.com/photo/msid-128846638,imgsize-42988.cms",
@@ -540,24 +621,6 @@ const newsData_en = [
     "time": "2026-02-27T10:27:18.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘No words feel enough’: Ex-cricketers stand with Rinku after father’s passing",
-    "desc": "Former cricketers are extending heartfelt condolences to Rinku Singh following the passing of his father, Khanchand Singh. Rinku, who left the T20 World Cup to be with his family, is receiving support from figures like Harbhajan Singh, Yuvraj Singh, and Virender Sehwag. IPL franchises have also shared their sympathies during this difficult period.",
-    "img": "https://static.toiimg.com/photo/msid-128841364,imgsize-2905857.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/no-words-feel-enough-former-cricketers-stand-in-solidarity-with-rinku-singh-after-fathers-passing/articleshow/128840758.cms",
-    "time": "2026-02-27T08:10:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I was surprised’: Gavaskar hails ‘defensive’ Abhishek as opener silences critics",
-    "desc": "Batting legend Sunil Gavaskar expressed surprise at Abhishek Sharma's defensive shot during India's T20 World Cup win over Zimbabwe on Thursday. Sharma's fluent 55, ending a streak of ducks, showcased a new maturity. Gavaskar believes this experience marks significant growth for the young batter, preparing him for crucial upcoming matches.",
-    "img": "https://static.toiimg.com/photo/msid-128840998,imgsize-68232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-was-surprised-sunil-gavaskar-on-abhishek-sharmas-rare-defensive-shot-as-opener-silences-critics/articleshow/128840917.cms",
-    "time": "2026-02-27T07:53:03.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘The Secret Agent’ movie review: Wagner Moura smoulders in Kleber Mendonça Filho’s masterful anatomy of political fear",
     "desc": "To anatomise fear as fiction is to recognise its very real mechanics in the places we actually live, and that uncomfortable truth is what elevates ‘The Secret Agent’ above and beyond the year’s more self-satisfied seriousness",
@@ -585,15 +648,6 @@ const newsData_en = [
     "time": "2026-02-27T06:19:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "India set for virtual QF as SA seal semis spot",
-    "desc": "Defending champions India face a crucial Super 8 clash against the West Indies on Sunday. A victory in Kolkata will secure their semi-final spot in the T20 World Cup. South Africa has already qualified from Group 1. Meanwhile, England have advanced from Group 2, with New Zealand and Pakistan vying for the remaining berth.",
-    "img": "https://static.toiimg.com/photo/msid-128837929,imgsize-68786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-super-8-points-table-india-set-for-virtual-quarterfinal-as-south-africa-seal-semis-spot/articleshow/128837787.cms",
-    "time": "2026-02-27T05:24:38.000Z"
-  },
-  {
     "cat": "World",
     "title": "Venezuela suspends 19 oil, gas production-sharing contracts signed under Maduro, reports say",
     "desc": "The suspension has had no impact on the country's oil and gas output so far, the ‌sources said. State oil giant PDVSA is selling the crude produced under the contracts while they are suspended, they added",
@@ -601,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/venezuela-suspends-19-oil-gas-production-sharing-contracts-signed-under-maduro-reports-say/article70682427.ece",
     "time": "2026-02-27T03:40:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Papa gaali dete the': Arshdeep reveals how India kept tabs on SA vs WI clash",
-    "desc": "India’s Super Eight fate briefly hinged on the West Indies vs South Africa clash. After South Africa’s win kept their hopes alive, India responded with a clinical performance against Zimbabwe. Backing their “brand of cricket” and team-first approach, the Men in Blue now head into a virtual quarter-final against the West Indies with renewed belief.",
-    "img": "https://static.toiimg.com/photo/msid-128835828,imgsize-53468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/papa-gaali-dete-the-arshdeep-singh-reveals-how-india-kept-tabs-on-south-africa-vs-west-indies-in-ahmedabad/articleshow/128835767.cms",
-    "time": "2026-02-27T03:24:14.000Z"
   },
   {
     "cat": "World",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-cities-in-southeastern-brazil-hit-by-floods-landslides/article70675159.ece",
     "time": "2026-02-25T10:31:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "report",
-    "desc": "Microsoft co-founder also admitted that he had two affairs with Russian women and that he made mistakes that had cast a cloud over the philanthropic group while insisting he didn’t participate in Epstein’s crimes, says report",
-    "img": "https://th-i.thgim.com/public/incoming/6lrlyi/article70675002.ece/alternates/LANDSCAPE_1200/IMG_TH20_New_Bill_Gates_2_1_HIFK4R4A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/bill-gates-apologises-to-foundation-staff-over-epstein-ties-report/article70674948.ece",
-    "time": "2026-02-25T10:01:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pleas against ‘The Kerala Story 2’ premature, misconceived: producer tells Kerala HC",
-    "desc": "In affidavit, film’s producer Vipul Amrutlal Shah says the definite article 'The' in the sequel’s title is a reference to the first film in the franchise and ‘does not restrict the movie’s subject matter to Kerala alone’",
-    "img": "https://th-i.thgim.com/public/incoming/5v4k5s/article70674958.ece/alternates/LANDSCAPE_1200/kerala.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/pleas-against-the-kerala-story-2-premature-misconceived-producer-tells-kerala-hc/article70674923.ece",
-    "time": "2026-02-25T09:51:57.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "HP reckons memory chip crunch will linger next year, warns of PC sales slump",
-    "desc": "HP, like its rivals such as Dell, is dealing with increased costs as a shortage ‌of memory chips has gripped the tech industry, fueled by massive AI data center ‌buildouts ⁠that are sucking up capacity",
-    "img": "https://th-i.thgim.com/public/incoming/wqhr5n/article70674570.ece/alternates/LANDSCAPE_1200/2026-02-24T212037Z_884734109_RC2CAGAO444S_RTRMADP_3_HP-RESULTS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/hp-reckons-memory-chip-crunch-will-linger-next-year-warns-of-pc-sales-slump/article70674565.ece",
-    "time": "2026-02-25T08:41:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. military plane hits road barrier during Philippine training, injuring five personnel",
-    "desc": "The pilot and two other American personnel were brought to a hospital for treatment after February 24 afternoon's accident in a concrete bypass road in Laoac town in Pangasinan Province. Two other injured personnel were treated at the site, says police report",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-military-plane-hits-road-barrier-during-philippine-training-injuring-five-personnel/article70674712.ece",
-    "time": "2026-02-25T07:53:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "German leader arrives in China to press for fair trade, help ending Ukraine war",
-    "desc": "Mr. Merz is the latest in a parade of world leaders to visit Beijing as China seeks support from other nations to push back against Trump's use of tariffs to demand concessions from trading partners",
-    "img": "https://th-i.thgim.com/public/incoming/hm3ngf/article70674509.ece/alternates/LANDSCAPE_1200/2026-02-25T062136Z_1873406079_RC2TSJAZ0462_RTRMADP_3_CHINA-GERMANY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/german-leader-friedrich-merz-in-china-to-press-for-fair-trade-help-ending-ukraine-war/article70674504.ece",
-    "time": "2026-02-25T07:32:48.000Z"
   }
 ];

@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer gives advice to Varun Chakaravarthy ahead of West Indies clash in Kolkata",
+    "desc": "The stage is set for game 52 of the ongoing T20 World Cup 2026. The Indian team will lock horns with the West Indies at the Eden Gardens in Kolkata. It is worth noting that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-gives-advice-to-varun-chakaravarthy-ahead-of-west-indies-clash-in-kolkata-2026-02-28-1032022",
+    "time": "2026-02-28T06:01:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How can India meet Pakistan again in T20 World Cup 2026 again? Check details",
+    "desc": "Qualification to the knockout stages of the ongoing T20 World Cup 2026 hangs in the balance for Pakistan. The side is all set to take on Sri Lanka in game 50 of the ongoing tournament...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-can-india-meet-pakistan-again-in-t20-world-cup-2026-again-check-details-2026-02-28-1032010",
+    "time": "2026-02-28T04:42:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Head to Head record ahead of T20 World Cup Super 8 clash in Pallekelle",
     "desc": "Sri Lanka and Pakistan are all set to lock horns in game 50 of the ongoing T20 World Cup 2026. The two sides will take on each other at the Pallekelle International Stadium on February...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/matt-henry-granted-parental-leave-set-to-leave-new-zealand-camp-after-england-clash-2026-02-27-1031970",
     "time": "2026-02-27T13:24:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England defeat New Zealand by four wickets",
-    "desc": "Game 49 of the ongoing T20 World Cup 2026 sees England taking on New Zealand. The two heavyweights of the tournament lock horns at the R. Premadasa Stadium in Colombo on February 27. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/eng-vs-nz-t20-world-cup-2026-super-eight-live-cricket-score-new-zealand-look-to-book-ticket-to-the-knockouts-2026-02-27-1031967",
-    "time": "2026-02-27T13:01:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'A huge positive': Irfan Pathan lauds India management after dominant victory against Zimbabwe",
-    "desc": "The Indian team managed to register a brilliant victory over Zimbabwe in game 48 of the ongoing T20 World Cup 2026. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/a-huge-positive-irfan-pathan-lauds-india-management-after-dominant-victory-against-zimbabwe-2026-02-27-1031965",
-    "time": "2026-02-27T12:46:29.000Z"
   }
 ];

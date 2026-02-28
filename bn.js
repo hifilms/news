@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "মার্জারের পর ‘এই’ ব্যাঙ্ক হয়ে উঠেছে দেশের দ্বিতীয় বৃহত্তম রাষ্ট্রায়ত্ত ব্যাঙ্ক",
+    "desc": "Punjab National Bank–এর সঙ্গে Oriental Bank of Commerce ও United Bank of India–এর সংযুক্তির পর গড়ে ওঠা নতুন ব্যাঙ্ক এখন দেশের দ্বিতীয় বৃহত্তম রাষ্ট্রায়ত্ত ব্যাঙ্ক। ১১,০০০–এর বেশি শাখা ও ১৮ লক্ষ কোটি টাকার বেশি ব্যবসা নিয়ে শক্ত অবস্থান তৈরি করেছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bank-Merger-5-2026-02-77eefb10f323a9ec47435de517dc9c15-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/after-mega-merger-punjab-national-bank-becomes-indias-second-largest-public-sector-bank-dc-2561982.html",
+    "time": "2026-02-28T06:07:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "রেলের জমি দখলমুক্ত করতে দখলবিরোধী অভিযান উত্তর-পূর্ব সীমান্ত রেলওয়ের",
+    "desc": "রেলওয়ে পরিকাঠামো রক্ষা এবং সুরক্ষিত ট্রেন চলাচল নিশ্চিত করার দৃঢ়সংকল্প প্রদর্শন করে, উত্তর-পূর্ব সীমান্ত রেলওয়ের রেলওয়ে সুরক্ষা বাহিনী (আরপিএফ) ইঞ্জিনিয়ারিং বিভাগের সাথে সমন্বয়ে, ফেব্রুয়ারি ২০২৬-এ অনুষ্ঠিত দুই দিনের অভিযানের সময় তার আওতাধীন একাধিক স্থানে ব্যাপকদখল বিরোধী অভিযান চালায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/TV_5789806_nfr_encroachment_1-1200x721.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/kolkata/north-east-frontier-railway-news-security-forces-takes-action-to-remove-trespassers-from-railyards-rdp-2561795.html",
+    "time": "2026-02-28T06:02:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "দোল এবং হোলি উপলক্ষে ৬৬টি বিশেষ ট্রেন চালাবে পূর্ব রেল! কোন কোন রুটে চলবে, দেখুন বিস্তারিত",
+    "desc": "২০২৬ সালের দোল এবং হোলি উৎসব উপলক্ষে পূর্ব রেল ৬৬টি বিশেষ ট্রেন পরিচালনা করছে যা গুরুত্বপূর্ণ বিভিন্ন রুটের যাত্রীদের ভিড় সামাল দেবে। ট্রেন নম্বর ০৩১৩১ (শিয়ালদহ থেকে গোরক্ষপুর) এবং ট্রেন নম্বর ০৩১৮৫ (কলকাতা থেকে মধুবাণী) ইতিমধ্যেই প্রায় ১০০ শতাংশ পূর্ণ হয়ে গিয়েছে; তবে অন্যান্য বিশেষ ট্রেনগুলিতে এখনও টিকিট এখনও রয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/TV_5789820_nf_railway_1-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/eastern-railways-will-run-special-train-during-holi-and-dol-from-sealdah-howrah-malda-and-different-stations-rdp-2561789.html",
+    "time": "2026-02-28T05:52:13.000Z"
+  },
+  {
     "cat": "World",
     "title": "টেক অফের পরেই বিপত্তি ! টাকার বান্ডিল ভর্তি বিমান ভেঙে পড়ল বলিভিয়ার হাইওয়েতে, মৃত ১৫",
     "desc": "সোশ্যাল মিডিয়ায় এই বিমান দুর্ঘটনার মুহূর্তের ছবি-ভিডিও ভাইরাল হয়েছে। সেইসব ছবি-ভিডিওতে দেখা গিয়েছে লা পাজ সংলগ্ন এল অল্টো শহরে একের পর এক গাড়িতে প্রথমে ধাক্কা মারে বিমানটি তারপর শেষ পর্যন্ত কাছের একটি মাঠে ভেঙে পড়ে বিমানটি।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/high-court-bombay-hc-allows-child-raised-by-single-mother-to-drop-fathers-name-stresses-right-to-identity-rm-2549851.html",
     "time": "2026-02-20T11:08:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "লক্ষ্মীর ভাণ্ডারের টাকা ঢুকল ৭০২০ অ্যাকাউন্টে...! কী ভাবে পাবেন হাজার হাজার বকেয়া টাকা? রাজ্যের রিপোর্ট তলব হাইকোর্টের",
-    "desc": "লক্ষ্মীর ভাণ্ডার ঢুকছে না! মাসের পর মাস মিলছে না টাকা। অভিযোগ নিয়ে জনস্বার্থ মামলা দায়ের হয়েছিল কলকাতা হাইকোর্টে। ময়নায় অভিযোগ ওঠে, গত অগাস্ট মাস থেকে আচমকাই বন্ধ হয়ে যায় টাকা ঢোকা। এরপরেই আদালতের দ্বারস্থ হয়ে করা হয় জনস্বার্থ মামলা। অবশেষে ঢুকল ফেব্রুয়ারির টাকা। কিন্তু কবে মিলবে বকেয়া টাকা? যা বলল আদালত।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Sanj_lakshmir-bhandar-2026-02-88b8a8abdb41c88aec86f88ec7e892b6-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/lakshmir-bhandar-money-west-bengal-govt-scheme-lakshmir-bhandar-money-finally-recieved-by-7020-accounts-of-mayna-how-people-will-you-get-outstanding-money-high-court-seeks-state-report-sanj-2549750.html",
-    "time": "2026-02-20T10:22:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "১৮০ টাকা কেজি দর...! স্বীকৃতি পেল রাষ্ট্রপুঞ্জের, এই ধান চাষ করে মালামাল হওয়ার সুযোগ বাংলার চাষিদের",
-    "desc": "উত্তর ও দক্ষিণ দিনাজপুরের ঐতিহ্যবাহী তুলাইপাঞ্জি ধান এবার বিশ্বমঞ্চে সমাদৃত। হেরিটেজ স্বীকৃতি দিয়ে রাস্ত্রপুঞ্জ। বর্তমানে বাজারে তুলাইপাঞ্জি চালের দর প্রতি কেজি ১৮০ টাকা পর্যন্ত পৌঁছেছে, যা বাংলার কৃষকদের অর্থনৈতিকভাবে স্বাবলম্বী হওয়ার এক সুবর্ণ সুযোগ করে দিয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Agriculture-News-Tulaipanji-Rice-1-2026-02-f092cddadcaad801bcaae7e8e16f7c46-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/agriculture-news-profitable-paddy-cultivation-tulaipanji-rice-famers-may-get-huge-profit-l18-local18-2548666.html",
-    "time": "2026-02-20T03:31:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "বিশ্বের এই ৫ ক্রিকেটার যাঁরা বদলে নিয়েছেন নিজেদের নাম ! তাঁদের মধ্যে দু’জন ধর্ম পরিবর্তনও করেছিলেন",
-    "desc": "আপনি কি জানেন, ক্রিকেটের ইতিহাসে এমন অনেক বড় বড় ক্রিকেটাররা ছিলেন, যাঁরা কেরিয়ারের মাঝখানে বা কোনও বিশেষ সময়ে তাঁদের নাম পুরোপুরি বদলে ফেলেছেন? কেউ ধর্ম পরিবর্তনের কারণে, কেউ তাঁদের সাংস্কৃতিক পরিচয় বা ব্যক্তিগত পছন্দের জন্য এমনটা করেছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/5-Cricketers-who-have-changed-their-names-2026-02-3e9d9ba832d39de32c6fda7ee44d2505-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/5-cricketers-who-changed-their-names-mohammad-yousuf-dilshan-josh-buttler-suraj-randiv-asghar-afghan-2-of-them-even-changed-their-religion-ss-2549042.html",
-    "time": "2026-02-20T03:16:25.000Z"
   }
 ];
