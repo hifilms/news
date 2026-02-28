@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "শ্রীলঙ্কার বিরুদ্ধে জয় পেলেও বিশ্বকাপ থেকে ছিটকে গেল পাকিস্তান! ম্যাচ শেষের অঙ্ক মেলাতে পারলেন না সলমনরা",
+    "desc": "শনিবারের রাতের এই জয়টা সত্যিই পাকিস্তানের জন্য কষ্টদায়ক। ICC Men's T20 World Cup থেকে তাদের বিদায় কার্যত নিশ্চিত হয়ে যায় শনিবার পাল্লেকেলেতে শ্রীলঙ্কার বিরুদ্ধে ম্যাচ চলাকালীনই। সেমিফাইনালে উঠতে হলে শুধু জিতলেই হত না—শ্রীলঙ্কাকে ১৪৭ রানের মধ্যে আটকে রাখতে হত। কিন্তু সে পথে হাঁটতেই পারল না পাকিস্তান।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/pak-32-2026-03-85d5dce6013e8d114358dbe59e411aed-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/pakistan-won-against-srilanka-but-could-not-qualify-for-semi-final-in-icc-t20-world-cup-smc-2563007.html",
+    "time": "2026-02-28T18:32:16.000Z"
+  },
+  {
     "cat": "World",
     "title": "ইজরায়েল আর মার্কিন হামলায় নিহত খামেইনি? জ্বলতে থাকা তেহরানে বাড়ছে অনিশ্চয়তা!",
     "desc": "আমেরিকা আর ইজরায়েলের যৌথ বিমান হামলায় জ্বলছে ইরান। আর এর মাঝেই সর্বোচ্চ নেতা আয়তোল্লা আলি খামেইনি ঠিক কোথায় রয়েছেন তা নিয়ে অনিশ্চয়তা তৈরি হয়েছে। ইজরায়েলের সংবাদমাধ্যমে দাবি করা হয়েছে, তিনি হয়তো হামলায় নিহত হয়েছেন। তবে এ বিষয়ে এখনও ইরান সরকারের পক্ষ থেকে কোনও সরকারি নিশ্চিতকরণ পাওয়া যায়নি।",
@@ -7,15 +16,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/irans-khamenei-dead-or-alive-heres-what-we-know-so-far-amid-us-israel-strikes-on-tehran-know-more-details-smc-2563023.html",
     "time": "2026-02-28T17:59:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "শ্রীলঙ্কার বিরুদ্ধে জয় পেলেও বিশ্বকাপ থেকে ছিটকে গেল পাকিস্তান! ম্যাচ শেষের অঙ্ক মেলাতে পারলেন না সলমনরা",
-    "desc": "শনিবারের রাতের এই জয়টা সত্যিই পাকিস্তানের জন্য কষ্টদায়ক। ICC Men's T20 World Cup থেকে তাদের বিদায় কার্যত নিশ্চিত হয়ে যায় শনিবার পাল্লেকেলেতে শ্রীলঙ্কার বিরুদ্ধে ম্যাচ চলাকালীনই। সেমিফাইনালে উঠতে হলে শুধু জিতলেই হত না—শ্রীলঙ্কাকে ১৪৭ রানের মধ্যে আটকে রাখতে হত। কিন্তু সে পথে হাঁটতেই পারল না পাকিস্তান।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/pakistan-121-2026-02-af4248b8dd0155a73e330c13a7995387-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/pakistan-won-against-srilanka-but-could-not-qualify-for-semi-final-in-icc-t20-world-cup-smc-2563007.html",
-    "time": "2026-02-28T17:25:07.000Z"
   },
   {
     "cat": "Sports",

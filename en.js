@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "UAE market stability, food prices, stock update amid Iran–US-Israel escalation: Panic buying in the emirates as oil prices surge?",
+    "desc": "Amidst escalating West Asian tensions, the UAE assures its markets and food reserves are secure. Authorities are actively monitoring supplies and maintaining price stability, with robust strategic reserves and diversified import routes. Residents are urged against panic buying, as the nation's preparedness ensures everyday life and commerce remain unaffected by regional strains.",
+    "img": "https://static.toiimg.com/photo/msid-128896449,imgsize-87330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-market-stability-food-prices-stock-update-amid-iranus-israel-escalation-panic-buying-in-the-emirates-as-oil-prices-surge/articleshow/128896180.cms",
+    "time": "2026-02-28T19:58:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Director clarifies he didn't ask Saif to leave his girlfriend during Bekhudi",
+    "desc": "Saif Ali Khan claimed he was removed from his debut film 'Bekhudi' due to a director's ultimatum regarding his girlfriend. However, director Rahul Rawail refuted this, stating Saif was removed for irresponsibility and not showing up for shoots. Saif later expressed that these accusations damaged his image, while Rawail acknowledged Saif's growth over the years.",
+    "img": "https://static.toiimg.com/photo/msid-128896013,imgsize-40488.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rahul-rawail-clarifies-he-did-not-ask-saif-ali-khan-to-leave-his-girlfriend-during-bekhudi-he-was-irresponsible-he-didnt-turn-up/articleshow/128896000.cms",
+    "time": "2026-02-28T19:27:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika-Vijay to distribute food, sweets across the country to celebrate wedding",
+    "desc": "Newlyweds Rashmika Mandanna and Vijay Deverakonda are celebrating their union by distributing food and sweets nationwide on March 1st. The couple announced their 'annadanam' initiative in temples across the country, sharing their joy with fans who have supported their journeys. Their wedding pictures also achieved a record for the most liked post.",
+    "img": "https://static.toiimg.com/photo/msid-128895197,imgsize-85742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-vijay-deverakonda-to-do-annadanam-in-temples-distrubute-sweets-across-the-country-to-celebrate-their-wedding/articleshow/128894860.cms",
+    "time": "2026-02-28T18:52:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why is the NEP undergrad course in chaos?",
+    "desc": "What are the challenges? Why are both students and teachers struggling with the fourth year schedule? Is there extra funding from UGC for the fourth year programme? What about infrastructure? Why are there frequent changes in guidelines? What lies ahead?",
+    "img": "https://th-i.thgim.com/public/news/national/fo9ae7/article70689362.ece/alternates/LANDSCAPE_1200/NEP.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/why-is-the-nep-undergrad-course-in-chaos-explained/article70689029.ece",
+    "time": "2026-02-28T18:26:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Where does the India-U.S. trade deal stand?",
+    "desc": "After the U.S. Supreme Court struck down the tariffs imposed by Donald Trump on countries across the world, how did the American President react? Will reciprocal tariffs be removed? Why does a 50% tariff on aluminium and steel imports continue?",
+    "img": "https://th-i.thgim.com/public/incoming/z34alo/article70689346.ece/alternates/LANDSCAPE_1200/_JAI4652.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/where-does-the-india-us-trade-deal-stand-explained/article70689001.ece",
+    "time": "2026-02-28T18:19:29.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Congress and DMK talks ‘smooth’, likely to reach an understanding soon",
     "desc": "TNCC president says Congress-DMK alliance is almost sealed and they will agree upon a reasonable number of seats; he rejects speculations of a split, adds that the DMK has agreed to allot an RS seat",
@@ -477,15 +522,6 @@ const newsData_en = [
     "time": "2026-02-28T09:48:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Cosby will not testify live at trial",
-    "desc": "Donna Motsinger, one of Bill Cosby's civil-case accusers, says the comedian plans to skip the trial and won't testify live, with jurors hearing his side only through a pre-recorded deposition. She alleges Cosby drugged and sexually assaulted her in 1972, a claim tied to his past admissions about using Quaaludes to facilitate sexual encounters.",
-    "img": "https://static.toiimg.com/photo/msid-128880682,imgsize-104942.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bill-cosbys-accuser-says-he-refuses-to-testify-at-civil-trial-says-does-not-care-to-appear/articleshow/128880682.cms",
-    "time": "2026-02-28T09:28:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Nahi hone wala': Sehwag tears apart Pakistan’s qualification scenario",
     "desc": "Former India opener Virender Sehwag believes Pakistan will not reach the T20 World Cup 2026 semi-finals. He stated their qualification scenario is too difficult. Sehwag expressed doubt about Pakistan's ability to achieve the required large margins of victory. He suggested their batting lineup is not suited for such demanding chase targets.",
@@ -520,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-west-indies-t20-world-cup-2026-super-8s-what-happens-if-the-ind-vs-wi-match-gets-washed-out/articleshow/128879560.cms",
     "time": "2026-02-28T08:39:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aishwarya Rajinikanth’s next film is titled 'Texla'",
-    "desc": "Aishwarya Rajinikanth is back in the director's chair for 'Texla', her next project after 'Laal Salaam'. The title teaser, unveiled by prominent filmmakers across India, depicts a heartwarming scene of children finding joy as sunlight enables a film screening. Yuvan Shankar Raja is composing the music for this anticipated entertainer.",
-    "img": "https://static.toiimg.com/photo/msid-128878898,imgsize-114064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/aishwarya-rajinikanths-next-film-is-titled-texla-title-teaser-out-now-watch/articleshow/128878898.cms",
-    "time": "2026-02-28T08:10:34.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/at-knesset-pm-modi-condemns-october-7-attack-barbaric-vows-deeper-ties/article70676998.ece",
     "time": "2026-02-26T16:34:33.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Marco Rubio declares ‘old world is gone,’ calls for rebuilding western order",
-    "desc": "U.S. Secretary of State Marco Rubio has declared that “the old world is gone,” signalling a major shift in American foreign policy. Speaking in Washington and at the Munich Security Conference, Rubio called for rebuilding international institutions, criticised mass migration and free trade policies, and urged a renewed Western civilisational alliance.",
-    "img": "https://th-i.thgim.com/public/news/national/mun6d4/article70680758.ece/alternates/LANDSCAPE_1200/TH%20EXPLAIN%207.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-marco-rubio-declares-old-world-is-gone-calls-for-rebuilding-western-order/article70680800.ece",
-    "time": "2026-02-26T15:29:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "What does Trump want from Iran?",
-    "desc": "On January 29, Trump shifted focus away from protests and urged Tehran to come and negotiate a deal on its nuclear programme; this marked a notable turn; in early January, while threatening military action against Iran, he had made no reference to the nuclear issue",
-    "img": "https://th-i.thgim.com/public/incoming/uw2geu/article70680346.ece/alternates/LANDSCAPE_1200/2026-01-30T015308Z_1663083504_RC2XFFATXIH8_RTRMADP_3_USA-TRUMP-IRS-LAWSUIT.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/what-does-trump-want-from-iran/article70680165.ece",
-    "time": "2026-02-26T14:18:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "CEO of World Economic Forum Borge Brende quits after Epstein ties scrutinised",
-    "desc": "The co-chairs said the WEF’s Alois Zwinggi will serve as interim president and CEO, ‌and that the forum’s Board of Trustees will oversee the leadership transition, including a plan ​to drive a process to identify a permanent successor.",
-    "img": "https://th-i.thgim.com/public/incoming/4nr1jy/article70679790.ece/alternates/LANDSCAPE_1200/2026-02-05T174607Z_198016338_RC28ECAMGG84_RTRMADP_3_USA-TRUMP-EPSTEIN-WEF.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ceo-of-world-economic-forum-borge-brende-quits-after-epstein-ties-scrutinised/article70679749.ece",
-    "time": "2026-02-26T13:43:42.000Z"
   }
 ];
