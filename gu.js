@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ઈરાન-ઈઝરાયેલ યુદ્ધથી સોનામાં મહાવિસ્ફોટ! ચાંદી પણ એક ઝટકે મોંઘી, પાછા ભાવ આકાશે આંબશે?",
+    "desc": "ઈરાન અને ઈઝરાયેલ વચ્ચે યુદ્ધ ફાટી નીકળ્યા બાદ હવે વૈશ્વિક સ્તરે ભારે ખળભળાટ મચ્યો છે. દુનિયામાં પહેલેથી જ અફઘાનિસ્તાન અને પાકિસ્તાન વચ્ચે તણાવ છે, રશિયા અને યુક્રેન વચ્ચે યુદ્ધ ચાલે છે. વૈશ્વિક તણાવના પગલે અનેક સેક્ટરોમાં ઉથલપાથલ જોવા મળી શકે છે જેમાંથી એક છે સોનું અને ચાંદી. ભાવમાં વધારાની આશંકા વ્યક્ત કરાઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/israel-iran-war-gold-silver-rate-predictions-sona-chandi-par-padi-shake-yudh-ni-asar-news-in-gujarati-466629 ",
+    "time": "2026-02-28T15:09:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારત-વેસ્ટ ઈન્ડિઝ વચ્ચે ઈડન ગાર્ડનમાં આરપારની લડાઈ, જાણો T20 વર્લ્ડ કપમાં કોનું પલ્લું છે ભારે?",
+    "desc": "ભારત અને વેસ્ટ ઈન્ડિઝ વચ્ચે આવતીકાલે કોલકાતાના ઇડન ગાર્ડન્સમાં આરપારની ટક્કર થશે. આ મેચ બન્ને ટીમો માટે મહત્વપૂર્ણ છે, કારણ આ મેચ જીતનારી ટીમ T20 વર્લ્ડ કપના સેમીફાઈનલમાં પહોંચશે. પરંતુ શું તમે જાણો છો કે, T20 વર્લ્ડ કપના ઇતિહાસમાં આ બન્ને ટીમો કેટલી વખત આમને-સામને આવી છે અને આ મેચોમાં કોને જીત મળી હતી? ચાલો ટુર્નામેન્ટના હેન્ડ-ટુ-હેડ પરિણામો પર એક નજર કરીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-wi-t20-world-cup-2026-head-to-head-records-eden-gardens-match-466625 ",
+    "time": "2026-02-28T14:13:16.000Z"
+  },
+  {
     "cat": "World",
-    "title": "Iran-Israel War: બન્ને મિત્રો દેશોના યુદ્ધમાં ભારત માટે કેમ છે ધર્મસંકટ જેવી સ્થિતિ, હવે કોનો સાથ આપશે ઈન્ડિયા?",
+    "title": "Iran-Israel War: બન્ને મિત્ર દેશોના યુદ્ધમાં ભારત માટે કેમ છે ધર્મસંકટ જેવી સ્થિતિ, હવે કોનો સાથ આપશે ઈન્ડિયા?",
     "desc": "ઈરાન મધ્ય એશિયામાં ભારતનો પ્રવેશદ્વાર છે. ભારતે મધ્ય એશિયા સાથે સીધો સંપર્ક બનાવવા માટે ઈરાનના ચાબહાર બંદરમાં અબજો ડોલરનું રોકાણ કર્યું છે. આ બંદર પાકિસ્તાનના ગ્વાદર બંદરનો હરીફ છે. બીજી તરફ જો ભારત ઈઝરાયલ સાથે જોડાઈ છે, તો આવી સ્થિતિમાં ચાબહાર પ્રોજેક્ટ જોખમમાં મુકાઈ શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-israel-war-both-iran-and-israel-are-india-friendly-countries-who-will-india-support-now-466604 ",
-    "time": "2026-02-28T12:37:22.000Z"
+    "time": "2026-02-28T12:54:09.000Z"
   },
   {
     "cat": "World",
@@ -477,15 +495,6 @@ const newsData_gu = [
     "time": "2026-02-26T12:34:25.000Z"
   },
   {
-    "cat": "World",
-    "title": "PM મોદીના તાબડતોબ બે દિવસના ઈઝરાયેલ પ્રવાસથી ભારતને શું મળ્યું? જાણીને દુશ્મનો છાતી પીટશે",
-    "desc": "પીએમ મોદી બે દિવસના ઈઝરાયેલ પ્રવાસ પર ગયા છે. અહીં તેમના આગમન સમયે બધા પ્રોટોકોલ તોડીને ઈઝરાયેલી પીએમ બેન્જામીન નેતન્યાહૂ પત્ની સહિત એરપોર્ટ પર હાજર રહ્યા અને પીએમ મોદીનું ભવ્ય સ્વાગત કર્યું. આજે ભારત અને ઈઝરાયેલ વચ્ચે પ્રતિનિધિ સ્તરની દ્વિપક્ષીય બેઠક થઈ અને અનેક કરારો થયા. પીએમ મોદીના આ પ્રવાસથી ભારતને શું મળ્યું તે પણ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/india-israel-relations-what-did-india-gain-from-pm-modi-two-day-israel-visit-world-news-in-gujarati-466309 ",
-    "time": "2026-02-26T12:25:45.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "કેરળ બાદ હવે દિલ્હીનું નામ બદલવાની તૈયારી? જાણો શું છે નવો પ્રસ્તાવ અને તેનું મહાભારત કનેક્શન",
     "desc": "કેરળનું નામ કેરળમ કરવાના પ્રસ્તાવને કેન્દ્રીય કેબિનેટ દ્વારા મંજૂર આપી દેવામાં આવી છે. હવે દિલ્હીનું નામ બદલવાની પણ માંગ થઈ રહી છે. ચાલો જાણીએ કે, દિલ્હીનું નામ બદલીને કયું નવું નામ રાખવાનો પ્રસ્તાવ રાખવામાં આવી રહ્યો છે અને આ નામનો ઈતિહાસ શું છે.",
@@ -502,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/pm-kisan-samman-nidhi-latest-update-why-is-there-a-delay-in-the-22nd-installment-farmers-news-in-gujarati-466303 ",
     "time": "2026-02-26T10:54:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold-Silver Rates Crash: આજે સોનું થયું સસ્તું! ચાંદીના ભાવમાં મોટો કડાકો, જાણો શું છે સોના-ચાંદીના લેટેસ્ટ ભાવ?",
-    "desc": "સોના અને ચાંદીના ભાવમાં હાલમાં જબરદસ્ત હલચલ જોવા મળી રહી છે. જો તમે સોના-ચાંદીની ખરીદી કરવાનું વિચારી રહ્યા હોવ, તો આજે 26 ફેબ્રુઆરીના તાજા ભાવ ચોક્કસ જાણી લેવા જોઈએ. છેલ્લા એક વર્ષમાં સોનાએ આશરે 80% અને ચાંદીએ 180% થી વધુનું બમ્પર રિટર્ન આપીને રોકાણકારોને માલામાલ કરી દીધા છે. જોકે, છેલ્લા કેટલાક દિવસોથી કિંમતોમાં ભારે ઉતાર-ચઢાવ જોવા મળી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-silver-rates-crash-gold-silver-prices-drop-in-domestic-markets-amid-profit-booking-466281 ",
-    "time": "2026-02-26T06:57:35.000Z"
   },
   {
     "cat": "Politics",
@@ -628,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/arya-gave-gopal-a-7-day-challenge-a-big-twist-in-tumm-se-tumm-tak-465841 ",
     "time": "2026-02-22T13:13:22.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "WhatsAppમાં આવી રહ્યું છે ધાંસુ ફીચર! હવે મેસેજ થશે શેડ્યુલ, જાણો કેવી રીતે કરશે કામ",
-    "desc": "WhatsApp માટે મેસેજ શેડ્યુલ ટૂંક સમયમાં રિલીઝ કરવામાં આવશે. આ ફીચર હાલમાં ડેવલપમેન્ટ ફેજમાં છે, જેની જાણકારી Wabetainfo દ્વારા શેર કરવામાં આવી છે. શેડ્યુલ મેસેજ ફીચર ગ્રુપ અને પર્સનલ ચેટ બન્નેમાં જોવા મળશે. ચાલો તેના વિશે વિગતવાર જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/whatsapp-is-getting-a-new-feature-now-messages-will-be-scheduled-know-how-it-will-work-465839 ",
-    "time": "2026-02-22T11:52:20.000Z"
   },
   {
     "cat": "Entertainment",

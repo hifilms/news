@@ -1,7 +1,34 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "CM Omar Abdullah announces Rs 2 crore cash prize for Jammu and Kashmir players after historic Ranji title win",
+    "title": "Sahibzada Farhan breaks Virat Kohli's legendary record in T20 World Cup",
+    "desc": "Pakistan opener Sahibzada Farhan broke Virat Kohli’s record for most runs by a batter in a single edition of the T20 World Cup. The former India captain held the record for 12 years, having scored...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sahibzada-farhan-breaks-virat-kohli-s-legendary-record-in-t20-world-cup-2026-02-28-1032094",
+    "time": "2026-02-28T14:11:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India enter whatever it takes mode to play 'fire with fire' against West Indies in must-win Super Eights clash",
+    "desc": "It’s a simple calculation. The winner of the India vs West Indies match at the iconic Eden Gardens on March 1 will go on to play the semi-final of the T20 World Cup 2026. Hence,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-enter-whatever-it-takes-mode-to-play-fire-with-fire-against-west-indies-in-must-win-super-eights-clash-2026-02-28-1032088",
+    "time": "2026-02-28T13:29:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Babar Azam not playing for Pakistan vs Sri Lanka in T20 World Cup clash in Pallekele?",
+    "desc": "Pakistan and Sri Lanka lock horns against each other today in the massive Super 8 clash of the T20 World Cup. Sri Lanka have been knocked out but Pakistan still have an outside chance to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-babar-azam-not-playing-for-pakistan-vs-sri-lanka-in-t20-world-cup-clash-in-pallekele-2026-02-28-1032085",
+    "time": "2026-02-28T13:15:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CM Omar Abdullah announces Rs 2 crore cash prize for Jammu and Kashmir players after historic Ranji title",
     "desc": "Jammu and Kashmir scripted history and clinched their maiden Ranji Trophy title. The side took on Karnataka in the summit clash of the tournament in Hubballi, and after the game was ultimately drawn, Jammu and...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-gives-advice-to-varun-chakaravarthy-ahead-of-west-indies-clash-in-kolkata-2026-02-28-1032022",
     "time": "2026-02-28T06:01:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can India meet Pakistan again in T20 World Cup 2026 again? Check details",
-    "desc": "Qualification to the knockout stages of the ongoing T20 World Cup 2026 hangs in the balance for Pakistan. The side is all set to take on Sri Lanka in game 50 of the ongoing tournament...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-can-india-meet-pakistan-again-in-t20-world-cup-2026-again-check-details-2026-02-28-1032010",
-    "time": "2026-02-28T04:42:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head to Head record ahead of T20 World Cup Super 8 clash in Pallekelle",
-    "desc": "Sri Lanka and Pakistan are all set to lock horns in game 50 of the ongoing T20 World Cup 2026. The two sides will take on each other at the Pallekelle International Stadium on February...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sl-vs-pak-head-to-head-record-ahead-of-t20-world-cup-super-8-clash-in-pallekelle-2026-02-28-1032008",
-    "time": "2026-02-28T03:52:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravi Shastri set to have stand named after him in Wankhede Stadium",
-    "desc": "The Wankhede Stadium in Mumbai will soon have a stand named after former India cricketer Ravi Shastri. The MCA (Mumbai Cricket Association) approved the proposal to dedicate the Level 1 Stand below the Press Box...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravi-shastri-set-to-have-stand-named-after-him-in-wankhede-stadium-2026-02-28-1032004",
-    "time": "2026-02-28T02:49:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will rain spoil SL vs PAK T20 World Cup 2026 Super Eight clash?",
-    "desc": "The stage is set for game 50 of the ongoing T20 World Cup 2026. Sri Lanka will lock horns with Pakistan at the Pallekelle International Stadium on February 28. It is worth noting that it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pallekelle-weather-report-will-rain-spoil-sl-vs-pak-t20-world-cup-2026-super-eight-clash-2026-02-28-1032000",
-    "time": "2026-02-28T01:41:29.000Z"
   }
 ];
