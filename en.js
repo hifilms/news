@@ -1,6 +1,141 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "‘Monarch: Legacy of Monsters’ season 2 episode rollout",
+    "desc": "Legacy of Monsters' is set to premiere on Apple TV+ on February 27, 2026. The new season will delve deeper into Monarch's peril and the mysteries of Skull Island, introducing a new bioluminescent Titan, Titan X.",
+    "img": "https://static.toiimg.com/photo/msid-128873310,imgsize-855376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/monarch-legacy-of-monsters-season-2-sets-global-premiere-with-weekly-rollout-through-march/articleshow/128873319.cms",
+    "time": "2026-02-28T03:50:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Shashi Tharoor: What Kerala can learn from the rest of the world",
+    "desc": "Kerala has historically served as a bridge between the east and the west. It is time we ceased being merely a bridge — and started being the destination. A destination where the best of the world is adapted, improved, and offered back to humanity with a distinctly Malayali touch.",
+    "img": "https://th-i.thgim.com/public/incoming/cgxhi9/article70687001.ece/alternates/LANDSCAPE_1200/kerala2.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-shashi-tharoor-what-kerala-can-learn-from-the-rest-of-the-world/article70686998.ece",
+    "time": "2026-02-28T03:50:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "OpenAI CEO Sam Altman finalises deal with US government amid Trump’s war with Anthropic",
+    "desc": "OpenAI will deploy its AI models on the Department of War's classified network. This follows an agreement on safety principles. Meanwhile, OpenAI and Amazon have formed a major partnership. Amazon will invest $50 billion in OpenAI. This collaboration aims to accelerate AI innovation. The developments occur amidst US President Donald Trump's ban on Anthropic.",
+    "img": "https://static.toiimg.com/photo/msid-128873272,imgsize-95548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/openai-ceo-sam-altman-finalises-deal-with-us-government-amid-trumps-war-with-anthropic/articleshow/128873028.cms",
+    "time": "2026-02-28T03:49:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India unlock 'fearless code'! Top order explodes just in time before Windies showdown",
+    "desc": "India's top-order batters found form against Zimbabwe, setting a massive total of 256. Abhishek Sharma and Sanju Samson provided a strong opening, followed by impactful cameos from Tilak Varma and Hardik Pandya. This resurgence offers confidence ahead of their crucial match against the West Indies.",
+    "img": "https://static.toiimg.com/photo/msid-128873215,imgsize-33588.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-unlock-fearless-code-top-order-explodes-just-in-time-before-west-indies-showdown/articleshow/128873200.cms",
+    "time": "2026-02-28T03:43:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I have not seen bowling like that': Ex-India captain's brutal take on Shivam Dube",
+    "desc": "Despite a comfortable win over Zimbabwe, India's Shivam Dube struggled with his bowling, conceding 46 runs in two overs. Former opener Krishnamachari Srikkanth noted Dube's lack of control and accuracy, suggesting the team used the match for bowling practice given their substantial lead. Srikkanth remains confident in India's overall strength and depth for the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-128872883,imgsize-120218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-have-not-seen-bowling-like-that-ex-india-captains-brutal-take-on-shivam-dube/articleshow/128872892.cms",
+    "time": "2026-02-28T03:29:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Time to wear India colours': Abdullah's big backing for J&amp;K cricketers",
+    "desc": "Jammu and Kashmir reached their maiden Ranji Trophy final, a historic achievement celebrated by Chief Minister Omar Abdullah, who believes some players deserve national call-ups. On Day 4, J&K dominated Karnataka, building a commanding 477-run lead and standing on the brink of a historic title win.",
+    "img": "https://static.toiimg.com/photo/msid-128872815,imgsize-55008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/time-to-wear-india-colours-omar-abdullahs-big-backing-for-jk-cricketers/articleshow/128872817.cms",
+    "time": "2026-02-28T03:19:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' CONFIRMS March 19 clash with ‘Toxic’",
+    "desc": "Ranveer Singh's 'Dhurandhar 2' is confirmed for a March 19 release, clashing with Yash's 'Toxic'. Pre-bookings in Australia and France revealed the date and a lengthy 220-minute runtime. Despite trade advice against a clash, both films are set to hit screens, with 'Dhurandhar 2' aiming to replicate its predecessor's massive success. Actress Yami Gautam praised the film as 'beyond extraordinary'.",
+    "img": "https://static.toiimg.com/photo/msid-128872504,imgsize-81676.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-confirmed-for-march-19-clash-with-toxic-ranveer-singh-starrer-release-date-runtime-revealed-as-pre-bookings-open/articleshow/128871457.cms",
+    "time": "2026-02-28T03:07:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'There will not be a better opportunity': Ashwin urges Samson to go big at T20 WC",
+    "desc": "India dominated Zimbabwe in the T20 World Cup, with openers Sanju Samson and Abhishek Sharma providing a strong start. Samson's quickfire 24 off 15 balls impressed, with Ravichandran Ashwin noting his valuable contribution to the team's momentum. Ashwin also expressed a personal hope for Samson to convert such starts into significant scores throughout the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-128872430,imgsize-184566.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/there-will-not-be-a-better-opportunity-r-ashwin-urges-sanju-samson-to-go-big-at-t20-world-cup/articleshow/128872459.cms",
+    "time": "2026-02-28T02:58:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan or New Zealand in semis? Mitchell Santner reacts",
+    "desc": "New Zealand's semi-final hopes remain uncertain after a four-wicket loss to England, with skipper Mitchell Santner admitting a missed opportunity to secure qualification. England's victory kept Pakistan alive, who now need a massive win over Sri Lanka to advance on net run rate. England's Harry Brook praised Rehan Ahmed's all-round performance.",
+    "img": "https://static.toiimg.com/photo/msid-128872360,imgsize-56712.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-or-new-zealand-in-semis-would-have-made-life-easier-had-we-won-mitchell-santner-reacts/articleshow/128872366.cms",
+    "time": "2026-02-28T02:52:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs Pakistan T20 World Cup final loading? The exact scenario explained",
+    "desc": "Cricket fans might witness another India-Pakistan thriller at the T20 World Cup 2026, but it hinges on several crucial outcomes. While South Africa and England have secured semi-final spots, India needs a win against the West Indies to advance. Pakistan faces a tougher challenge, requiring a massive victory and favorable results to keep their slim qualification hopes alive.",
+    "img": "https://static.toiimg.com/photo/msid-128872156,imgsize-49996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-pakistan-t20-world-cup-final-loading-the-exact-scenario-explained/articleshow/128872112.cms",
+    "time": "2026-02-28T02:38:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Anthropic to challenge Pentagon in court, hours after Trump orders ban on AI firm",
+    "desc": "AI firm Anthropic is suing the Pentagon after President Trump ordered a ban on its technology, citing national security risks. Trump labelled the company 'Leftwing nut jobs', accusing them of jeopardizing American lives. Anthropic defends its safeguards against mass surveillance and autonomous weapons, leading to a contract dispute and a split in Silicon Valley.",
+    "img": "https://static.toiimg.com/photo/msid-128871918,imgsize-685247.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/anthropic-to-challenge-pentagon-in-court-hours-after-trump-orders-ban-on-ai-firm/articleshow/128871868.cms",
+    "time": "2026-02-28T02:37:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brad Pitt claims Angelina Jolie trying to ‘separate family’",
+    "desc": "Rumors of a widening rift between Brad Pitt and Angelina Jolie persist as reports claim their kids—Maddox, Zahara, and Shiloh—are increasingly estranged and have dropped Pitt from their surnames. Some have publicly changed their names; others keep their distance, amplifying speculation about the Brangelina split.",
+    "img": "https://static.toiimg.com/photo/msid-128871811,imgsize-149618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitts-friends-claim-angelina-jolie-trying-to-separate-family-after-son-maddox-jolie-drops-pitt-surname/articleshow/128871778.cms",
+    "time": "2026-02-28T02:19:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump's Truth Social in talks to spin off into publicly traded company",
+    "desc": "Trump Media & Technology Group plans to spin off its Truth Social platform into a separate publicly traded company. This move would separate its social media business from its fusion energy venture, which is merging with TAE Technologies. The company reported a widened net loss in 2025, despite increased financial assets.",
+    "img": "https://static.toiimg.com/photo/msid-128871557,imgsize-50260.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/trumps-truth-social-in-talks-to-spin-off-into-publicly-traded-company/articleshow/128871466.cms",
+    "time": "2026-02-28T02:07:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka turns NYC into her fashion runway; Nick reacts",
+    "desc": "Priyanka Chopra dazzled during her 'The Bluff' press tour in New York, showcasing stunning outfits from chic white ensembles to a dramatic lace gown. She also mastered winter fashion with a stylish brown fur coat over a corset dress.",
+    "img": "https://static.toiimg.com/photo/msid-128871361,imgsize-75502.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-cant-get-enough-of-priyanka-chopras-fashion-forward-the-bluff-press-tour-looks-pics/articleshow/128868818.cms",
+    "time": "2026-02-28T01:50:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dakota Johnson, Saoirse Ronan and Jessie Buckley to Lead ‘Three Incestuous Sisters’",
+    "desc": "A dark fairy tale is coming to the big screen. Audrey Niffenegger's novella 'The Three Incestuous Sisters' is being adapted into a film. Dakota Johnson, Saoirse Ronan, Jessie Buckley, and Josh O'Connor will star. Alice Rohrwacher is directing the project. Production is set to begin in April. The film promises a fresh take on the sisters' tangled bonds.",
+    "img": "https://static.toiimg.com/photo/msid-128871148,imgsize-788980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dakota-johnson-saoirse-ronan-jessie-buckley-to-star-in-three-incestuous-sisters-adaptation-all-we-know/articleshow/128871121.cms",
+    "time": "2026-02-28T01:33:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Jim Carrey Sparks Surgery Buzz at César Awards",
     "desc": "Comedy legend Jim Carrey surprised fans with a dramatically different look at the César Film Awards in Paris. Clean-shaven with a new hairstyle, his appearance sparked widespread speculation online about cosmetic procedures. While some expressed shock, others defended his transformation, emphasizing his enduring talent and the natural passage of time.",
     "img": "https://static.toiimg.com/photo/msid-128871041,imgsize-1372761.cms",
@@ -55,7 +190,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Amidst Afghanistan-Pakistan escalation, India keeps a close watch",
+    "title": "India closely monitoring Af-Pak escalation; backs Taliban but wary of full-blown conflict",
     "desc": "India is closely watching the dangerous escalation between Afghanistan and Pakistan, with Islamabad declaring \"open war\" after airstrikes. New Delhi views Pakistan's actions as a tactic to mask domestic failures and strongly supports Afghanistan's sovereignty. A regional conflict could derail India's growing development initiatives and investment plans in the country.",
     "img": "https://static.toiimg.com/photo/msid-128869471,imgsize-1012435.cms",
     "src": "indiatimes.com",
@@ -189,15 +324,6 @@ const newsData_en = [
     "time": "2026-02-27T19:25:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Alia Bhatt breaks silence on BAFTA, Gone Girl backlash",
-    "desc": "After days of social media chatter, Alia Bhatt has finally responded to the online backlash that followed her appearance at the 79th British Academy Film Awards (BAFTA). In the now-viral video, Alia appeared momentarily surprised before naming Gone Girl. Several social media users suggested she looked nervous or was attempting to channel a confident “international star” persona.",
-    "img": "https://static.toiimg.com/photo/msid-128863343,imgsize-49248.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-breaks-silence-on-bafta-gone-girl-backlash-i-am-a-sweet-girl-i-am-uncool-girl/articleshow/128863343.cms",
-    "time": "2026-02-27T19:06:46.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "O. Panneerselvam: A man undone by his own decisions",
     "desc": "When he joined the DMK in the presence of Chief Minister M.K.Stalin, Mr. Panneerselvam was accompanied by only one legislator, P. Ayyappan. After his expulsion from the AIADMK in July 2022, Mr Panneerselvam had the support of two prominent leaders - R. Vaithilingam and P.H. Manoj Pandian. They joined the DMK recently.",
@@ -232,15 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/new-zealand-vs-england-t20-world-cup-super-eight-match-updates-february-27/article70684417.ece",
     "time": "2026-02-27T18:23:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika felt divine, Vijay felt god-like: Jewellers' 10-month journey",
-    "desc": "When Rashmika Mandanna and Vijay Deverakonda finally saw their complete wedding looks come together, the reaction said it all. The couple had approached the brand nearly a year in advance with clarity. The process unfolded over 10 months.",
-    "img": "https://static.toiimg.com/photo/msid-128861468,imgsize-130360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-felt-divine-vijay-deverakonda-felt-god-like-jewellers-reveal-10-month-design-journey/articleshow/128861468.cms",
-    "time": "2026-02-27T18:01:50.000Z"
   },
   {
     "cat": "Sports",
@@ -324,24 +441,6 @@ const newsData_en = [
     "time": "2026-02-27T17:00:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kangana Ranaut picks Salman Khan as 'quite cool'",
-    "desc": "If there’s one thing Kangana Ranaut is known for, it’s her unfiltered honesty. From calling out nepotism when few in the industry dared to speak, to taking public digs at powerful names, Kangana has never believed in playing safe. On February 27, the actress was in her element.",
-    "img": "https://static.toiimg.com/photo/msid-128858642,imgsize-75484.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-picks-salman-khan-as-quite-cool-takes-a-dig-at-anurag-kashyap-karan-johar-and-aditya-chopra-mere-standards-itne-low-nahi/articleshow/128858642.cms",
-    "time": "2026-02-27T16:18:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bombay HC directs MSRTC to pay Rs 50 lakh to widow of employee who died of Covid-19 while on duty",
-    "desc": "The Bombay High Court has ordered the Maharashtra State Road Transport Corporation (MSRTC) to pay Rs 50 lakh compensation to the widow of an employee who died of Covid-19. The court ruled that the deceased, Bapu Jagtap, contracted the virus while performing his duty at the risk of his life, rejecting MSRTC's claim that he was not assigned essential services.",
-    "img": "https://static.toiimg.com/photo/msid-128858950,imgsize-114934.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bombay-hc-directs-msrtc-to-pay-rs-50-lakh-to-widow-of-employee-who-died-of-covid-19-while-on-duty/articleshow/128858738.cms",
-    "time": "2026-02-27T16:18:46.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Buying property abroad? FEMA rules Indian investors must follow to avoid penalties",
     "desc": "Indian investors are facing regulatory action for not following Foreign Exchange Management Act rules when buying foreign property. Recent enforcement actions highlight the need for careful adherence to Liberalised Remittance Scheme limits and authorized banking channels. Failure to comply can lead to attachment of Indian assets and penalties under the Black Money Act.",
@@ -349,24 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/real-estate/news/buying-property-abroad-fema-rules-indian-investors-must-follow-to-avoid-penalties/articleshow/128858203.cms",
     "time": "2026-02-27T16:13:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay-Rashmika’s chemistry was all natural: Anamika Khanna",
-    "desc": "It was a wedding that felt intimate, deeply personal and culturally layered. When Vijay Deverakonda and Rashmika Mandanna tied the knot on Thursday at ITC Mementos Udaipur, their ensembles told a story of heritage as much as heart. Designed by Anamika Khanna, the wedding looks blended architectural memory, regional identity and the couple’s effortless bond.",
-    "img": "https://static.toiimg.com/photo/msid-128856532,imgsize-150246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-and-rashmika-mandannas-chemistry-was-so-organic-it-was-all-natural-says-anamika-khanna-who-designed-couples-wedding-outfits/articleshow/128856532.cms",
-    "time": "2026-02-27T15:16:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The onus of raising a child right is not necessarily on women, on men too': Shefali",
-    "desc": "At the TOI Uttarakhand Transformation Dialogues, Shefali Shah highlighted Uttarakhand's safety for solo female travelers. She emphasized that men's upbringing is crucial for women's safety and that financial independence empowers women to become benefactors, not just beneficiaries, as seen in their entrepreneurial ventures like home stays and local crafts.",
-    "img": "https://static.toiimg.com/photo/msid-128856237,imgsize-25568.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-onus-of-raising-a-child-right-is-not-necessarily-just-on-women-but-on-men-too-says-shefali-shah-exclusive/articleshow/128856278.cms",
-    "time": "2026-02-27T15:00:26.000Z"
   },
   {
     "cat": "Business",
@@ -394,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-to-aishwarya-rai-bollywood-stars-who-turned-down-hollywood-projects/photostory/128842085.cms",
     "time": "2026-02-27T12:30:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "When will India become the fourth largest economy? CEA explains",
-    "desc": "Chief Economic Advisor V. Anantha Nageswaran has expressed confidence of above 7% GDP growth potential of the economy. India is on path to become the world’s third largest economy by the end of this decade - third only to the US and China.",
-    "img": "https://static.toiimg.com/photo/msid-128849307,imgsize-82190.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/new-gdp-series-when-will-india-become-the-fourth-largest-economy-cea-explains/articleshow/128848752.cms",
-    "time": "2026-02-27T12:10:49.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +540,6 @@ const newsData_en = [
     "time": "2026-02-27T10:27:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Shah Rukh's KKR is more profitable than his movies,' says Karan Johar",
-    "desc": "Karan Johar highlights Bollywood actors' increasing involvement in business ventures beyond films. He cites Shah Rukh Khan's deep engagement with his IPL team, KKR, as a prime example of a successful, hands-on partnership. Johar also mentions Alia Bhatt and Katrina Kaif's active roles in their respective brands, emphasizing genuine commitment over mere celebrity endorsement.",
-    "img": "https://static.toiimg.com/photo/msid-128844067,imgsize-19162.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-is-obsessed-kkr-is-more-profitable-than-business-any-of-his-movies-says-karan-johar-talking-about-genuine-involvement-of-actors/articleshow/128843990.cms",
-    "time": "2026-02-27T09:59:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘No words feel enough’: Ex-cricketers stand with Rinku after father’s passing",
     "desc": "Former cricketers are extending heartfelt condolences to Rinku Singh following the passing of his father, Khanchand Singh. Rinku, who left the T20 World Cup to be with his family, is receiving support from figures like Harbhajan Singh, Yuvraj Singh, and Virender Sehwag. IPL franchises have also shared their sympathies during this difficult period.",
@@ -493,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-was-surprised-sunil-gavaskar-on-abhishek-sharmas-rare-defensive-shot-as-opener-silences-critics/articleshow/128840917.cms",
     "time": "2026-02-27T07:53:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Fresh look at India-US trade deal? May be ‘rebalanced’ if circumstances change, says Piyush Goyal",
-    "desc": "Piyush Goyal’s comments assume significance after the US Supreme Court ruled that Donald Trump administration's reciprocal tariffs are illegal. Soon after, Trump signed an executive order to impose a 10% global tariff on America’s trading partners.",
-    "img": "https://static.toiimg.com/photo/msid-128840580,imgsize-57320.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/fresh-look-at-india-us-trade-deal-may-be-rebalanced-if-circumstances-change-says-piyush-goyal-on-trump-tariff-situation/articleshow/128840283.cms",
-    "time": "2026-02-27T07:35:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -532,48 +586,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Not comparing myself with him'",
-    "desc": "Umar Akmal clarified his recent social media post, stating he did not intend to compare himself to Babar Azam or disrespect the Pakistan captain. Akmal explained his intention was to highlight that Azam's batting style is not ideally suited for the T20 middle order, emphasizing role suitability rather than a direct comparison of achievements.",
-    "img": "https://static.toiimg.com/photo/msid-128838614,imgsize-61850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/umar-akmal-clears-air-over-post-on-babar-azam-not-comparing-myself-with-him/articleshow/128838454.cms",
-    "time": "2026-02-27T06:03:15.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "India set for virtual QF as SA seal semis spot",
     "desc": "Defending champions India face a crucial Super 8 clash against the West Indies on Sunday. A victory in Kolkata will secure their semi-final spot in the T20 World Cup. South Africa has already qualified from Group 1. Meanwhile, England have advanced from Group 2, with New Zealand and Pakistan vying for the remaining berth.",
     "img": "https://static.toiimg.com/photo/msid-128837929,imgsize-68786.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-super-8-points-table-india-set-for-virtual-quarterfinal-as-south-africa-seal-semis-spot/articleshow/128837787.cms",
     "time": "2026-02-27T05:24:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Obviously, we were’: Hardik reveals how Team India kept an eye on SA vs WI clash",
-    "desc": "India secured a commanding 72-run victory over Zimbabwe in their Super 8 clash. All-rounder Hardik Pandya starred with an unbeaten 50 and economical bowling, earning him Player of the Match. India posted a formidable 256, with Zimbabwe falling short despite a brilliant 97 from Brian Bennett. India now prepares for their next Super 8 fixture.",
-    "img": "https://static.toiimg.com/photo/msid-128837446,imgsize-215590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/obviously-we-were-hardik-pandya-reveals-how-team-india-kept-an-eye-on-sa-vs-wi-clash/articleshow/128837443.cms",
-    "time": "2026-02-27T04:58:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek shines as India set up virtual QF vs West Indies",
-    "desc": "India secured a dominant 72-run victory against Zimbabwe, getting their T20 World Cup campaign back on track. Abhishek Sharma's return to form with a 30-ball 55 and a strong middle-order performance propelled India to a record 256/4 in Chennai. This win sets up a crucial 'quarterfinal' against the West Indies.",
-    "img": "https://static.toiimg.com/photo/msid-128837350,imgsize-43752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/back-in-business-abhishek-sharma-shines-as-india-set-up-virtual-quarterfinal-vs-west-indies/articleshow/128837242.cms",
-    "time": "2026-02-27T04:56:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘We want to show fear to the opposition’: Tilak’s bold message after India’s win",
-    "desc": "Tilak Varma's explosive unbeaten 44 off 16 balls, and aggressive contributions from top-order batters powered India to a commanding 72-run victory over Zimbabwe, keeping their semifinal hopes alive. Adopting a fearless approach, Varma stated the team's intention to instill fear in opponents, emphasizing their commitment to aggressive batting regardless of early wickets.",
-    "img": "https://static.toiimg.com/photo/msid-128836635,imgsize-173882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-want-to-show-fear-to-the-opposition-tilak-varmas-bold-message-after-indias-do-or-die-triumph/articleshow/128836613.cms",
-    "time": "2026-02-27T04:14:26.000Z"
   },
   {
     "cat": "World",
@@ -592,24 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/papa-gaali-dete-the-arshdeep-singh-reveals-how-india-kept-tabs-on-south-africa-vs-west-indies-in-ahmedabad/articleshow/128835767.cms",
     "time": "2026-02-27T03:24:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rinku Singh’s father passes away after prolonged battle with cancer",
-    "desc": "Indian cricketer Rinku Singh's father, Khanchand Singh, has passed away after a battle with advanced liver cancer. He was on ventilator support at a Greater Noida hospital. Rinku, part of the T20 World Cup squad, had briefly returned home earlier due to his father's deteriorating health. His father was a pillar of support for his cricketing dreams.",
-    "img": "https://static.toiimg.com/photo/msid-128835759,imgsize-42224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rinku-singhs-father-passes-away-after-cancer-battle/articleshow/128835774.cms",
-    "time": "2026-02-27T03:19:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Must-win games reveal temperament’: Sachin hails India’s 256-run blitz in do-or-die clash",
-    "desc": "India's T20 World Cup campaign reignited with a dominant 72-run victory over Zimbabwe, setting a new tournament record with their highest-ever total of 256/4. Batting legends praised the team's character and fearless intent under pressure. This emphatic win, fueled by collective batting brilliance, has instilled renewed belief ahead of their next crucial match.",
-    "img": "https://static.toiimg.com/photo/msid-128835463,imgsize-152068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/must-win-games-reveal-temperament-sachin-tendulkar-hails-indias-256-run-blitz-in-do-or-die-clash/articleshow/128835431.cms",
-    "time": "2026-02-27T03:01:24.000Z"
   },
   {
     "cat": "World",

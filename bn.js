@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "টেক অফের পরেই বিপত্তি ! টাকার বান্ডিল ভর্তি বিমান ভেঙে পড়ল বলিভিয়ার হাইওয়েতে, মৃত ১৫",
+    "desc": "সোশ্যাল মিডিয়ায় এই বিমান দুর্ঘটনার মুহূর্তের ছবি-ভিডিও ভাইরাল হয়েছে। সেইসব ছবি-ভিডিওতে দেখা গিয়েছে লা পাজ সংলগ্ন এল অল্টো শহরে একের পর এক গাড়িতে প্রথমে ধাক্কা মারে বিমানটি তারপর শেষ পর্যন্ত কাছের একটি মাঠে ভেঙে পড়ে বিমানটি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bolivia-Plane-Crash-2026-02-70f48c3849e011992f1c0e945cc615d6-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/bolivian-air-force-plane-crash-carrying-bank-notes-crashes-in-el-alto-casualties-injuries-number-of-deaths-ss-2561659.html",
+    "time": "2026-02-28T03:44:24.000Z"
+  },
+  {
     "cat": "Business",
     "title": "'যুবসাথী' প্রকল্পে আবেদন করেছেন...? অ্যাপ্লিকেশন গৃহীত হল নাকি 'রিজেক্টেড'? এইভাবে করুন 'চেক'! দেখে নিন স্টেপ বাই স্টেপ গাইড",
     "desc": "লক্ষ্মীর ভাণ্ডারের দুর্দান্ত সাফল্যের পর এবার রাজ্যের মমতা বন্দ্যোপাধ্যায় সরকারের অন্যতম চর্চিত সরকারি প্রকল্প 'বাংলার যুব সাথী প্রকল্প'। রাজ্যের এই প্রকল্পে মাসে মাসে ১৫০০ টাকা করে পাবেন বেকার যুবক-যুবতীরা। ইতিমধ্যেই রাজ্যে এই প্রকল্পে ৮৪ লক্ষেরও বেশি আবেদন জমা পড়েছে। আপনিও কি আছেন সেই তালিকায়? তাহলে এই ভাবে জেনে নিন আপনার আবেদনের স্ট্যাটাস। কবে থেকে পাবেন টাকা?",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/5-cricketers-who-changed-their-names-mohammad-yousuf-dilshan-josh-buttler-suraj-randiv-asghar-afghan-2-of-them-even-changed-their-religion-ss-2549042.html",
     "time": "2026-02-20T03:16:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Deverakonda-Rashmika’s Wedding: বিয়ের সানাই বাজল! ২৩ থেকে ২৬ ফেব্রুয়ারি জমকালো অনুষ্ঠানের আয়োজন বিজয়-রশ্মিকার, থাকছেন শুধুমাত্র পরিবার-কাছের বন্ধুরা",
-    "desc": "এই দম্পতির বয়সের ব্যবধান সাত বছরের, যা ভক্তরা প্রায়শই অনলাইনে আলোচনা করেন। তা সত্ত্বেও, তাঁদের বন্ধন ব্যাপকভাবে পালিত হয়েছে, সোশ্যাল মিডিয়ায় ফাঁস হওয়া বিয়ের আমন্ত্রণপত্র নিয়ে গুঞ্জন চলছে এবং সম্প্রতি জল্পনার মধ্যে রশ্মিকাকে মুখ লুকিয়ে থাকতে দেখা গেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1771519130_Web_Photo_Editor-50-2026-02-f46482262cb79ca990dbb076207d664f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/vijay-deverakonda-and-rashmika-mandanna-rumoured-wedding-dates-venue-reception-plans-know-all-transpg-pbd-2548722.html",
-    "time": "2026-02-19T17:52:01.000Z"
   }
 ];

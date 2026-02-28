@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Head to Head record ahead of T20 World Cup Super 8 clash in Pallekelle",
+    "desc": "Sri Lanka and Pakistan are all set to lock horns in game 50 of the ongoing T20 World Cup 2026. The two sides will take on each other at the Pallekelle International Stadium on February...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sl-vs-pak-head-to-head-record-ahead-of-t20-world-cup-super-8-clash-in-pallekelle-2026-02-28-1032008",
+    "time": "2026-02-28T03:52:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravi Shastri set to have stand named after him in Wankhede Stadium",
+    "desc": "The Wankhede Stadium in Mumbai will soon have a stand named after former India cricketer Ravi Shastri. The MCA (Mumbai Cricket Association) approved the proposal to dedicate the Level 1 Stand below the Press Box...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravi-shastri-set-to-have-stand-named-after-him-in-wankhede-stadium-2026-02-28-1032004",
+    "time": "2026-02-28T02:49:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will rain spoil SL vs PAK T20 World Cup 2026 Super Eight clash?",
+    "desc": "The stage is set for game 50 of the ongoing T20 World Cup 2026. Sri Lanka will lock horns with Pakistan at the Pallekelle International Stadium on February 28. It is worth noting that it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pallekelle-weather-report-will-rain-spoil-sl-vs-pak-t20-world-cup-2026-super-eight-clash-2026-02-28-1032000",
+    "time": "2026-02-28T01:41:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "What do Pakistan need to do to qualify for the T20 World Cup 2026 knockouts? Check scenarios",
     "desc": "Game 49 of the ongoing T20 World Cup 2026 saw England take on New Zealand. The two sides locked horns at the R. Premadasa Stadium in Colombo, and England managed to register a four-wicket win...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/a-huge-positive-irfan-pathan-lauds-india-management-after-dominant-victory-against-zimbabwe-2026-02-27-1031965",
     "time": "2026-02-27T12:46:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will rain spoil ENG vs NZ T20 World Cup 2026 Super Eight clash?",
-    "desc": "The stage is set for the 49th game of the ongoing T20 World Cup 2026. England locks horns with New Zealand at the R. Premadasa Stadium in Colombo on February 27. It is worth noting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/colombo-weather-report-will-rain-spoil-eng-vs-nz-t20-world-cup-2026-super-eight-clash-2026-02-27-1031956",
-    "time": "2026-02-27T11:46:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia women clinch ODI series, register dominant win against India in Hobart",
-    "desc": "The second ODI of the ongoing series between Australia women and India women saw the two sides lock horns at the Bellerive Oval, Hobart, on February 27. The game saw Australia Women register a dominant...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-women-clinch-odi-series-register-dominant-win-against-india-in-hobart-2026-02-27-1031949",
-    "time": "2026-02-27T10:55:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'See this from two sides': R Ashwin weighs in on Sanju Samson's performance against Zimbabwe in Chennai",
-    "desc": "The Indian team registered a comfortable victory against Zimbabwe in game 48 of the ongoing T20 World Cup. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February 26, and the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-weighs-in-on-sanju-samson-s-performance-against-zimbabwe-in-chennai-2026-02-27-1031944",
-    "time": "2026-02-27T10:17:43.000Z"
   }
 ];
