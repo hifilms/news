@@ -1,6 +1,141 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Jim Carrey Sparks Surgery Buzz at César Awards",
+    "desc": "Comedy legend Jim Carrey surprised fans with a dramatically different look at the César Film Awards in Paris. Clean-shaven with a new hairstyle, his appearance sparked widespread speculation online about cosmetic procedures. While some expressed shock, others defended his transformation, emphasizing his enduring talent and the natural passage of time.",
+    "img": "https://static.toiimg.com/photo/msid-128871041,imgsize-1372761.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jim-carrey-sparks-speculation-about-going-under-the-knife-actors-new-look-at-cesar-awards-goes-viral/articleshow/128871049.cms",
+    "time": "2026-02-28T01:25:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Masthishka Maranam' BO day 1: Opens at Rs 40 lakhs",
+    "desc": "Krishand's genre-bending film 'Masthishka Maranam' opened to ₹40 lakhs net on its first day, blending sci-fi, comedy, and thriller. The story follows a grieving father using VR to reconnect with his child. Nighttime occupancy saw a significant surge, indicating growing audience interest. Initial reactions are mixed, praising its unique premise and performances while noting some narrative disjointedness.",
+    "img": "https://static.toiimg.com/photo/msid-128870649,imgsize-186088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/masthishka-maranam-box-office-collections-day-1-rajisha-vijayans-film-opens-at-rs-40-lakhs-sci-fi-film-begins-slow/articleshow/128870649.cms",
+    "time": "2026-02-28T00:57:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘O’ Romeo’ crosses Rs 60 crore mark on third Friday",
+    "desc": "Shahid Kapoor's 'O' Romeo' has surpassed Rs 60 crore domestically, nearing Rs 100 crore worldwide despite slowing collections. The romantic drama, now in its third week, has seen a gradual dip after a strong opening. It ranks fifth among Kapoor's highest-grossing films, with 'Padmaavat' and 'Kabir Singh' leading. Triptii Dimri's third-highest grosser, 'O' Romeo's steady hold continues.",
+    "img": "https://static.toiimg.com/photo/msid-128870287,imgsize-71148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-15-shahid-kapoor-starrer-crosses-rs-60-crore-mark-on-third-friday/articleshow/128870198.cms",
+    "time": "2026-02-28T00:25:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Thaai Kizhavi' BO day 1: Film opens at Rs 2.50 crores",
+    "desc": "Thaai Kizhavi makes a strong debut, raking in ₹2.50 crore on its opening day. The family drama saw a healthy rise in occupancy throughout Friday, with night shows peaking at an impressive 47.55%. Early viewers are praising its blend of sentiment, humor, and empowerment, with Radikaa Sarathkumar delivering a standout performance.",
+    "img": "https://static.toiimg.com/photo/msid-128870235,imgsize-162850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-box-office-collections-day-1-radikaa-sarathkumars-film-opens-at-rs-2-50-crores/articleshow/128870235.cms",
+    "time": "2026-02-28T00:24:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vishnu Vinyasam' BO day 1: Film opens with Rs 2 crore",
+    "desc": "Vishnu Vinyasam opened strong with around Rs 2 crore on day one, buoyed by full houses in the night shows. Sree Vishnu plays a numerology-obsessed lecturer, a quirky setup that clicks with sharp situational comedy, especially in the first half. Satya’s comic timing is also getting noticed, giving the weekend a hopeful start at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-128869783,imgsize-162324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/vishnu-vinyasam-box-office-collections-day-1-sree-vishnus-film-opens-with-rs-2-crore/articleshow/128869783.cms",
+    "time": "2026-02-27T23:58:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "UAE Central Bank launches world's first sovereign financial cloud with AI for secure digital finance",
+    "desc": "The Central Bank of the UAE has launched the world's first sovereign financial cloud services infrastructure, a secure, AI-powered digital backbone for its financial sector. Developed with Core42, this initiative ensures national control over data, integrates advanced AI for enhanced operations and offers unified multi-cloud management, positioning the UAE as a leader in secure digital finance.",
+    "img": "https://static.toiimg.com/photo/msid-128869705,imgsize-37720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-makes-history-central-bank-launches-worlds-first-sovereign-financial-cloud-with-ai-for-secure-digital-finance/articleshow/128867604.cms",
+    "time": "2026-02-27T23:58:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amidst Afghanistan-Pakistan escalation, India keeps a close watch",
+    "desc": "India is closely watching the dangerous escalation between Afghanistan and Pakistan, with Islamabad declaring \"open war\" after airstrikes. New Delhi views Pakistan's actions as a tactic to mask domestic failures and strongly supports Afghanistan's sovereignty. A regional conflict could derail India's growing development initiatives and investment plans in the country.",
+    "img": "https://static.toiimg.com/photo/msid-128869471,imgsize-1012435.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amidst-afghanistan-pakistan-escalation-india-keeps-a-close-watch/articleshow/128869368.cms",
+    "time": "2026-02-27T23:33:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Oh! Carol' singer Neil Sedaka passes away at 86",
+    "desc": "Legendary singer-songwriter Neil Sedaka, famed for hits like \"Breaking Up Is Hard to Do\" and \"Laughter in the Rain,\" has passed away at 86. A key figure in early rock 'n' roll and a 1970s resurgence, Sedaka's career spanned decades, with his songs covered by numerous artists. His family expressed deep sorrow at the loss of the \"incredible human being.\"",
+    "img": "https://static.toiimg.com/photo/msid-128869077,imgsize-65236.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/oh-carol-singer-songwriter-neil-sedaka-passes-away-at-age-86/articleshow/128868976.cms",
+    "time": "2026-02-27T23:18:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Studio merger the end of Hollywood or a brighter future?",
+    "desc": "Paramount has reportedly won the bidding war to acquire Warner Bros., outbidding Netflix. This potential consolidation, following Disney's Fox acquisition, signals a significant shift in Hollywood. Paramount aims to expand its film slate and compete in streaming, while questions linger about the future of streaming services and studio lots.",
+    "img": "https://static.toiimg.com/photo/msid-128868687,imgsize-162296.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-end-of-hollywood-or-a-brighter-future-what-a-paramount-owned-warner-bros-means-for-the-movies/articleshow/128866270.cms",
+    "time": "2026-02-27T23:02:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lil Jon's 27-year-old son's cause of death revealed",
+    "desc": "Rapper Lil Jon's son, Nathan Smith, 27, died from drowning, with psilocybin use noted as a contributing factor. His body was recovered from a pond weeks after he went missing. The medical examiner ruled his death an accident, with no signs of foul play. The family expressed profound grief over the loss of their \"kindest human being.\"",
+    "img": "https://static.toiimg.com/photo/msid-128868312,imgsize-203046.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lil-jons-27-year-old-son-nathan-smiths-cause-of-death-revealed-after-body-found-in-pond/articleshow/128867703.cms",
+    "time": "2026-02-27T22:54:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC grants Yadav one-week furlough to spend Holi with family",
+    "desc": "The Supreme Court has granted Vikas Yadav, convicted in the 2002 Nitish Katara murder, furlough until March 7. Having served 23 years of his 25-year sentence, the court permitted his release to spend time during Holi, rejecting objections. This comes after the Delhi High Court had previously denied his furlough plea, citing the gravity of his offenses.",
+    "img": "https://static.toiimg.com/photo/msid-128867821,imgsize-656154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/katara-case-sc-grants-yadav-one-week-furlough-to-spend-holi-with-family/articleshow/128867718.cms",
+    "time": "2026-02-27T22:37:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Susan Sarandon FIRED for Gaza ceasefire protest",
+    "desc": "Veteran Hollywood star Susan Sarandon on Friday praised the Spanish government's support for Gaza, saying it was \"on the right side of history\". \"Whenever I have seen him, he has been on the right side of history and also said it in a very clear way.\"",
+    "img": "https://static.toiimg.com/photo/msid-128866593,imgsize-62794.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/susan-sarandon-fired-from-agency-for-calling-for-ceasefire-in-gaza-oscar-winner-barred-from-tv-roles-and-hollywood-films-watch/articleshow/128866250.cms",
+    "time": "2026-02-27T22:10:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC raps Bengal for rushing to court daily against SIR",
+    "desc": "The Supreme Court reprimanded the West Bengal government for repeatedly filing vague complaints to delay the Special Intensive Revision of electoral rolls. The court clarified that while the High Court Chief Justice would decide deployment modalities, judicial officers alone would assess voter claims and document validity, urging the state to cooperate for expeditious completion.",
+    "img": "https://static.toiimg.com/photo/msid-128866618,imgsize-1267530.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-raps-bengal-for-rushing-to-court-daily-against-sir/articleshow/128866653.cms",
+    "time": "2026-02-27T22:09:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia Bhatt gets into ‘Alpha’ mode in Milan",
+    "desc": "Alia Bhatt embraced a chic, all-black leather look at Milan Fashion Week, stepping into her upcoming spy role. Ditching her usual style, she sported a slick aesthetic with statement accessories. Bhatt also showcased a casual street style and recently made her BAFTA red carpet debut. She is currently preparing for her action-packed film 'Alpha' and shooting for 'Love and War'.",
+    "img": "https://static.toiimg.com/photo/msid-128866152,imgsize-94498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-gets-into-alpha-mode-in-milan-rocks-all-black-leather-look-at-fashion-show-pics/articleshow/128865391.cms",
+    "time": "2026-02-27T21:47:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Surrendered Maoists attend Chhattisgarh Assembly proceedings",
+    "desc": "The group, which included 54 women, spent several hours in the Assembly building where they watched the proceedings and met Chief Minister Vishnu Deo Sai, Deputy Chief Minister Vijay Sharma and other senior Ministers who hailed the Maoists for their decision to return to the mainstream.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/surrendered-maoists-attend-chhattisgarh-assembly-proceedings/article70685139.ece",
+    "time": "2026-02-27T21:16:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Shreya Ghoshal says she felt like a ‘misfit’ for Bipasha song",
     "desc": "Singer Shreya Ghoshal may have made a dream debut with Sanjay Leela Bhansali’s Devdas, but success did not translate into instant offers. In a recent interaction, Shreya revealed that despite the film’s massive impact, it took time for her next big opportunity to arrive.",
     "img": "https://static.toiimg.com/photo/msid-128864800,imgsize-95686.cms",
@@ -43,15 +178,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/goa/a-double-murder-in-mini-russia/article70684652.ece",
     "time": "2026-02-27T19:43:08.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Warner Bros signs $110 billion deal with Paramount, its executive discloses in townhall",
-    "desc": "Netflix had the legal right to match the PSKY ⁠offer. As you all know, they ultimately decided not to do that. That then resulted in a signed agreement with PSKY as of this morning, says Bruce Campbell, ‌Warner Bros’ chief revenue and strategy officer",
-    "img": "https://th-i.thgim.com/public/news/national/9ltogk/article70685825.ece/alternates/LANDSCAPE_1200/2263189721.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/warner-bros-signs-110-billion-deal-with-paramount-its-executive-discloses-in-townhall/article70685822.ece",
-    "time": "2026-02-27T19:26:39.000Z"
   },
   {
     "cat": "Politics",
@@ -162,15 +288,6 @@ const newsData_en = [
     "time": "2026-02-27T17:22:24.000Z"
   },
   {
-    "cat": "World",
-    "title": "‘I saw nothing, and I did nothing wrong’: Bill Clinton testifies to U.S. Congress committee about Epstein",
-    "desc": "The former President’s testimony follows that of his wife, ⁠former Secretary of State Hillary Clinton, who told the House of Representatives Oversight Committee that she did not remember ever meeting Epstein and had nothing to share ‌about his sex crimes.",
-    "img": "https://th-i.thgim.com/public/incoming/4n4tcq/article70685655.ece/alternates/LANDSCAPE_1200/Epstein_Congress_Clintons_50872.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/i-saw-nothing-and-i-did-nothing-wrong-bill-clinton-testifies-to-us-congress-committee-about-epstein/article70685635.ece",
-    "time": "2026-02-27T17:16:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Five-star Nabi, dashing Qamran flatten Karnataka",
     "desc": "The pacer’s two blows hasten the end of Karnataka’s innings despite Mayank’s defiant century; opener comes to the visitors’ rescue after early setbacks to extend the advantage and puts it on the brink of a historic triumph",
@@ -234,24 +351,6 @@ const newsData_en = [
     "time": "2026-02-27T16:13:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Watch",
-    "desc": "In this episode of Tamil Nadu Elections with The Hindu, we decode OPS’s journey, from “Mr. Loyal” and the face of the 2017 Dharma Yudham, to expulsion from the AIADMK, a brief alignment with the BJP, and finally his entry into the DMK.",
-    "img": "https://th-i.thgim.com/public/incoming/berym6/article70685122.ece/alternates/LANDSCAPE_1200/News%20Video%20Thumbs%202026%203.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-opss-final-gamble-from-jayalalithaas-loyalist-to-stalins-camp-suggested-thumbnail-survival-mode/article70685144.ece",
-    "time": "2026-02-27T15:33:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Digital debate must embrace diversity, says Anand Ranganathan",
-    "desc": "At The Times of India's Uttarakhand Transformation Dialogues, scientist Anand Ranganathan highlighted the digital age's expansion of public discourse. He stressed the importance of scientific inquiry over popular opinion and cautioned against selective narratives, advocating for a balanced view of institutions. Ranganathan also pointed out Uttarakhand's economic progress alongside structural challenges in agriculture and tourism.",
-    "img": "https://static.toiimg.com/photo/msid-128857014,imgsize-103818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/toi-uttarakhand-transformation-dialogues-2026-digital-debate-must-embrace-diversity-says-anand-ranganathan/articleshow/128856652.cms",
-    "time": "2026-02-27T15:24:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vijay-Rashmika’s chemistry was all natural: Anamika Khanna",
     "desc": "It was a wedding that felt intimate, deeply personal and culturally layered. When Vijay Deverakonda and Rashmika Mandanna tied the knot on Thursday at ITC Mementos Udaipur, their ensembles told a story of heritage as much as heart. Designed by Anamika Khanna, the wedding looks blended architectural memory, regional identity and the couple’s effortless bond.",
@@ -270,33 +369,6 @@ const newsData_en = [
     "time": "2026-02-27T15:00:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Yami says Dhurandhar 2 will be an experience people will never forget",
-    "desc": "Following the massive success of 'Dhurandhar', actress Yami Gautam has revealed she has already seen the sequel and is stunned by its quality. She praised director and husband Aditya Dhar's passion and dedication, calling 'Dhurandhar 2' an unforgettable experience that will make every Indian proud.",
-    "img": "https://static.toiimg.com/photo/msid-128855267,imgsize-32874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yami-gautam-says-she-has-watched-dhurandhar-2-and-it-will-be-an-experience-that-people-will-never-forget-aditya-loves-his-audience/articleshow/128855261.cms",
-    "time": "2026-02-27T14:31:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Chosen to be like any other Congressman’: John Brittas targets Shashi Tharoor over ‘Keralam’ remarks",
-    "desc": "CPI(M) leader John Brittas has criticized Congress MP Shashi Tharoor. Tharoor questioned the symbolic shift from Kerala to Keralam. Brittas accused Tharoor of acting like any other Congressman. He reminded Tharoor of his earlier praise for Kerala as a model of growth. Brittas also dismissed Tharoor's concerns about new terms like Keralite and Keralan.",
-    "img": "https://static.toiimg.com/photo/msid-128855514,imgsize-36712.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/chosen-to-be-like-any-other-congressman-john-brittas-targets-shashi-tharoor-over-keralam-remarks/articleshow/128855043.cms",
-    "time": "2026-02-27T14:24:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "India’s first BAFTA winning film ‘Boong’ to hit theatres again",
-    "desc": "'Boong', the first Indian film to win a BAFTA, returns to theatres on March 6 with a wider release. Directed by Lakshmipriya Devi, the film tells a moving story of a boy’s quest to reunite his family. It triumphed over global contenders like 'Zootopia 2' and 'Lilo & Stitch'.",
-    "img": "https://static.toiimg.com/photo/msid-128854040,imgsize-41044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/indias-first-bafta-winning-film-boong-to-hit-theatres-again-on-march-6-new-poster-revealed/articleshow/128854040.cms",
-    "time": "2026-02-27T13:59:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "New GDP series upgrades FY26 growth to 7.6%, but lowers size of India’s economy",
     "desc": "According to the new data, India’s nominal GDP — which is essentially the size of the economy — has been revised downward for the three years spanning 2023-26, which will have a negative impact on several fiscal ratios",
@@ -304,15 +376,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/india-gdp-growth-q3-fy26-economy-new-data-series-govt/article70683802.ece",
     "time": "2026-02-27T13:56:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Unwarranted': Why Delhi court rapped CBI for 'South Group' tag in liquor policy case",
-    "desc": "A Delhi court discharged former chief minister Arvind Kejriwal, manish sisodia and 21 others in the liquor policy case, criticizing the CBI for using the term 'South Group'. The judge stated the label lacked legal basis, was arbitrary, and could prejudice proceedings, urging the agency to use neutral, evidence-based language.",
-    "img": "https://static.toiimg.com/photo/msid-128853718,imgsize-1156853.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/unwarranted-why-delhi-court-rapped-cbi-for-south-group-tag-in-excise-policy-case/articleshow/128852749.cms",
-    "time": "2026-02-27T13:52:29.000Z"
   },
   {
     "cat": "Sports",
@@ -324,60 +387,6 @@ const newsData_en = [
     "time": "2026-02-27T13:42:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Did Robert Vadra, Rahul Gandhi go to jail?' Kejriwal hits back as Congress questions relief in liquor policy case",
-    "desc": "In a strongly worded ruling, Special Judge (PC Act) Jitender Singh of the Rouse Avenue Court said the prosecution’s case was \"legally infirm, unsustainable, and unfit to proceed any further in law\". The court further observed that when the material collected by the agency was tested on admissibility, relevance and probative value, \"the appearance of a coherent conspiracy dissolves,\" exposing the allegations as being founded on inadmissible material and post-facto reconstruction.",
-    "img": "https://static.toiimg.com/photo/msid-128853174,imgsize-47034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/did-robert-vadra-rahul-gandhi-go-to-jail-kejriwal-hits-back-as-congress-questions-relief-in-liquor-policy-case/articleshow/128852187.cms",
-    "time": "2026-02-27T13:35:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Dr R Meenakshi Sundaram outlines reform roadmap for 2047 goal",
-    "desc": "The Uttarakhand Transformation Dialogues 2026 began in Dehradun on Friday, bringing together government officials, industry leaders and experts to discuss the state’s development roadmap. Dr. R Meenakshi Sundaram outlined policy reforms aimed at supporting enterprise, infrastructure and tourism, while other speakers highlighted sustainable growth, women’s empowerment and sector-driven progress as Uttarakhand works towards the 2047 development goal",
-    "img": "https://static.toiimg.com/photo/msid-128852664,imgsize-24678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/uttarakhand-transformation-dialogues-2026-dr-r-meenakshi-sundaram-outlines-reform-roadmap-for-2047-goal/articleshow/128849024.cms",
-    "time": "2026-02-27T13:32:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hema shares sweet smile in public for the first time post Dharmendra’s demise",
-    "desc": "Actress and politician Hema Malini was recently seen smiling publicly for the first time since husband Dharmendra’s passing. Attending a city event in a green saree, she greeted paparazzi warmly. The veteran actor passed away in November 2025, leaving behind Hema, Prakash Kaur, and their children, including Sunny, Bobby, Esha, and Ahana.",
-    "img": "https://static.toiimg.com/photo/msid-128851573,imgsize-25116.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hema-malini-shares-sweet-smile-in-public-for-the-first-time-post-dharmendras-demise-leaves-paps-emotional/articleshow/128851573.cms",
-    "time": "2026-02-27T12:52:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ananya shares her favourite PIC from Rashmika",
-    "desc": "Rashmika Mandanna and Vijay Deverakonda are now married! Their private yet dreamy wedding went viral as fans and celebrities, including Ananya Panday, Vicky Kaushal, and Kriti Sanon, showered love. Vijay’s emotional note and Rashmika’s heartfelt message touched hearts, making their union one of the most talked-about Bollywood moments.",
-    "img": "https://static.toiimg.com/photo/msid-128850886,imgsize-31548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ananya-panday-shares-her-favourite-pic-from-rashmika-mandanna-and-vijay-deverakondas-wedding-cant-stop-gushing/articleshow/128850886.cms",
-    "time": "2026-02-27T12:39:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Arvind Kejriwal challenges PM Modi to hold fresh Delhi polls; HC gives nod to 'The Kerala Story 2' release; &amp; more",
-    "desc": "Arvind Kejriwal has challenged PM Modi to fresh Delhi polls, citing court relief in the liquor scam case. The Kerala High Court has temporarily stayed the release of 'The Kerala Story 2'. Meanwhile, Pakistan's airstrikes on Afghan cities escalate tensions, while India's GDP shows robust 7.8% growth in Q3 FY26.",
-    "img": "https://static.toiimg.com/photo/msid-128850771,imgsize-184900.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-arvind-kejriwal-challenges-pm-modi-to-hold-fresh-delhi-polls-hc-gives-nod-to-the-kerala-story-2-release-more/articleshow/128850301.cms",
-    "time": "2026-02-27T12:37:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi court grants interim bail to Congress youth wing worker",
-    "desc": "A Delhi court granted interim bail until March 24 to Indian Youth Congress general secretary Nigam Bhandhari in connection with the AI event protest. Bhandhari, who sought anticipatory bail, must cooperate with the ongoing investigation. The protest involved IYC workers revealing T-shirts with anti-PM slogans during the AI Summit. According to police, the protest was planned with a “common intention\".",
-    "img": "https://static.toiimg.com/photo/msid-128850358,imgsize-52268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/shirtless-protest-case-delhi-court-grants-interim-bail-to-congress-youth-wing-worker/articleshow/128849429.cms",
-    "time": "2026-02-27T12:30:32.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Bollywood stars who turned down Hollywood projects",
     "desc": "Over the years, several Bollywood stars have chosen to step away for reasons ranging from scheduling conflicts to creative preferences, comfort levels, or simply because they didn't want to audition for the part. From Deepika Padukone to Ranbir Kapoor and Aishwarya Rai, here's a look at some prominent Indian actors who bowed out of big Hollywood projects.",
@@ -385,24 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-to-aishwarya-rai-bollywood-stars-who-turned-down-hollywood-projects/photostory/128842085.cms",
     "time": "2026-02-27T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Kerala Story 2' gets relief, court lifts stay on the film's release",
-    "desc": "The Kerala High Court has lifted a temporary ban on the film 'The Kerala Story 2'. A Division Bench stayed an earlier order that had stalled the movie's release for 15 days. The court had previously asked the CBFC to re-watch and reassess the film's certification due to allegations of promoting hatred.",
-    "img": "https://static.toiimg.com/photo/msid-128850382,imgsize-45536.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-kerala-story-2-gets-relief-as-the-kerala-high-court-lifts-stay-on-the-release-of-the-film/articleshow/128850223.cms",
-    "time": "2026-02-27T12:29:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pandit Ravi Shankar's centre slams Rishabh Sharma's claim of being his disciple",
-    "desc": "The Ravi Shankar Centre has refuted claims that Rishab Rikhiram Sharma was a disciple of the late maestro. A statement detailed an informal string-tying ceremony in 2012, not a formal initiation, and clarified that Ravi Shankar provided only a few lessons before his health declined.",
-    "img": "https://static.toiimg.com/photo/msid-128849622,imgsize-65356.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pandit-ravi-shankars-centre-slams-rishabh-sharmas-claim-of-being-his-disciple-after-anoushka-shankar-denies-it-guruji-did-not-conduct-/articleshow/128849255.cms",
-    "time": "2026-02-27T12:15:34.000Z"
   },
   {
     "cat": "Business",
@@ -423,15 +414,6 @@ const newsData_en = [
     "time": "2026-02-27T12:09:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Agam Kumar buys Rs 10 crore property in Madh Island",
-    "desc": "Singer Sonu Nigam’s father, Agam Kumar Nigam, has purchased a Rs 10 crore property in Mumbai’s Madh Island. The 1,197-square-metre plot, named Mango Villa, includes residential and commercial structures. Registered on February 18, 2026, the deal adds to the Nigam family’s growing real estate portfolio in the celebrity-favoured neighbourhood.",
-    "img": "https://static.toiimg.com/photo/msid-128848588,imgsize-38404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonu-nigams-father-agam-kumar-buys-rs-10-crore-property-in-mumbais-madh-island-reports/articleshow/128848588.cms",
-    "time": "2026-02-27T11:55:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Dropped catches hurt India as Aus win 2nd ODI, take 6-4 lead in all-format series",
     "desc": "Australia Women secured a commanding five-wicket victory over India Women, clinching the ODI series 2-0. Georgia Voll's century and Phoebe Litchfield's brisk 80 laid the foundation for the successful chase after India posted 251/9. This win extends Australia's all-format series lead, leaving India with much to ponder.",
@@ -439,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dropped-catches-hurt-india-as-australia-win-second-odi-by-five-wickets-take-6-4-lead-in-all-format-series/articleshow/128846335.cms",
     "time": "2026-02-27T11:19:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sivakarthikeyan answers on collaborating with Ajith",
-    "desc": "Sivakarthikeyan, while promoting 'Thaai Kizhavi,' revealed his aspiration to produce a film starring Ajith Kumar. He admitted his production house is currently too small for such a big-star venture but expressed it's a dream he hopes to fulfill as his company grows. He also emphasized his commitment to producing quality films and his respect for Ajith.",
-    "img": "https://static.toiimg.com/photo/msid-128846567,imgsize-112822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/will-sivakarthikeyan-collaborate-with-ajith-kumar-the-actor-producer-answers-during-the-thaai-kizhavi-theatre-visit-in-madurai/articleshow/128846567.cms",
-    "time": "2026-02-27T11:15:52.000Z"
   },
   {
     "cat": "World",
@@ -466,15 +439,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/arco-movie-review-ugo-bienvenus-technicolour-optimism-outruns-its-own-ideas/article70683661.ece",
     "time": "2026-02-27T10:44:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Basil Joseph to join Rajinikanth in 'Thalaivar 173'",
-    "desc": "Excitement is building for 'Thalaivar 173' as reports suggest Malayalam actor-director Basil Joseph might portray Rajinikanth's son. Cibi Chakravarthy is set to direct this Kamal Haasan-backed project, with music by Anirudh. If confirmed, this collaboration promises a significant Kollywood moment for Joseph, potentially adding a fresh dynamic to the Superstar's next venture.",
-    "img": "https://static.toiimg.com/photo/msid-128845113,imgsize-138210.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalaivar-173-basil-joseph-as-rajinikanths-son-in-cibi-chakravarthys-direction-the-latest-report-fuels-expectations/articleshow/128845113.cms",
-    "time": "2026-02-27T10:40:17.000Z"
   },
   {
     "cat": "Tech",
@@ -513,15 +477,6 @@ const newsData_en = [
     "time": "2026-02-27T09:59:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Newlyweds Rashmika-Vijay finally pose for paps at Udaipur airport: PICS",
-    "desc": "Newlyweds Rashmika Mandanna and Vijay Deverakonda made their first public appearance as a married couple after returning from their Udaipur wedding. Rashmika stunned in a vibrant red bridal ensemble, while Vijay complemented her in a silver kurta pyjama. The affectionate pair walked hand-in-hand, sharing warm greetings and flying kisses with the paparazzi, who showered them with congratulations.",
-    "img": "https://static.toiimg.com/photo/msid-128842880,imgsize-35956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/newly-wed-rashmika-mandanna-vijay-deverakonda-look-radiant-as-they-finally-pose-for-the-paps-at-udaipur-airport-throw-flying-kisses-pics-inside/articleshow/128842780.cms",
-    "time": "2026-02-27T09:13:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘No words feel enough’: Ex-cricketers stand with Rinku after father’s passing",
     "desc": "Former cricketers are extending heartfelt condolences to Rinku Singh following the passing of his father, Khanchand Singh. Rinku, who left the T20 World Cup to be with his family, is receiving support from figures like Harbhajan Singh, Yuvraj Singh, and Virender Sehwag. IPL franchises have also shared their sympathies during this difficult period.",
@@ -529,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/no-words-feel-enough-former-cricketers-stand-in-solidarity-with-rinku-singh-after-fathers-passing/articleshow/128840758.cms",
     "time": "2026-02-27T08:10:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bachchan's cryptic tweet on loyalty leaves the internet amused",
-    "desc": "Amitabh Bachchan's cryptic tweet about loyalty, stating \"Loyal men are found in every corner of the world, but unfortunately, the earth is round,\" amused fans and sparked humorous speculation. Meanwhile, the veteran actor is busy shooting for the 'Kalki 2898 AD' sequel in Hyderabad, where he recently reunited with Kamal Haasan after nearly 40 years for the project.",
-    "img": "https://static.toiimg.com/photo/msid-128841179,imgsize-29934.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchans-cryptic-tweet-on-loyalty-leaves-the-internet-amused-netizens-say-guess-finding-loyal-people-is-hard/articleshow/128841209.cms",
-    "time": "2026-02-27T08:01:56.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +844,59 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/indonesia-frees-deports-american-who-spent-11-years-in-prison-for-bali-suitcase-murder/article70675157.ece",
     "time": "2026-02-25T10:52:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Cities in southeastern Brazil hit by floods, landslides",
+    "desc": "Severe floods in southeastern Brazil have killed at least 25 people and left dozens missing in the state of Minas Gerais, officials said on Tuesday (February 24, 2026). Meteorologists warned that more rain is expected in the region in the next few days.",
+    "img": "https://th-i.thgim.com/public/incoming/5ch7cw/article70675162.ece/alternates/LANDSCAPE_1200/brazil.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-cities-in-southeastern-brazil-hit-by-floods-landslides/article70675159.ece",
+    "time": "2026-02-25T10:31:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "report",
+    "desc": "Microsoft co-founder also admitted that he had two affairs with Russian women and that he made mistakes that had cast a cloud over the philanthropic group while insisting he didn’t participate in Epstein’s crimes, says report",
+    "img": "https://th-i.thgim.com/public/incoming/6lrlyi/article70675002.ece/alternates/LANDSCAPE_1200/IMG_TH20_New_Bill_Gates_2_1_HIFK4R4A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/bill-gates-apologises-to-foundation-staff-over-epstein-ties-report/article70674948.ece",
+    "time": "2026-02-25T10:01:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pleas against ‘The Kerala Story 2’ premature, misconceived: producer tells Kerala HC",
+    "desc": "In affidavit, film’s producer Vipul Amrutlal Shah says the definite article 'The' in the sequel’s title is a reference to the first film in the franchise and ‘does not restrict the movie’s subject matter to Kerala alone’",
+    "img": "https://th-i.thgim.com/public/incoming/5v4k5s/article70674958.ece/alternates/LANDSCAPE_1200/kerala.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/pleas-against-the-kerala-story-2-premature-misconceived-producer-tells-kerala-hc/article70674923.ece",
+    "time": "2026-02-25T09:51:57.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "HP reckons memory chip crunch will linger next year, warns of PC sales slump",
+    "desc": "HP, like its rivals such as Dell, is dealing with increased costs as a shortage ‌of memory chips has gripped the tech industry, fueled by massive AI data center ‌buildouts ⁠that are sucking up capacity",
+    "img": "https://th-i.thgim.com/public/incoming/wqhr5n/article70674570.ece/alternates/LANDSCAPE_1200/2026-02-24T212037Z_884734109_RC2CAGAO444S_RTRMADP_3_HP-RESULTS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/hp-reckons-memory-chip-crunch-will-linger-next-year-warns-of-pc-sales-slump/article70674565.ece",
+    "time": "2026-02-25T08:41:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. military plane hits road barrier during Philippine training, injuring five personnel",
+    "desc": "The pilot and two other American personnel were brought to a hospital for treatment after February 24 afternoon's accident in a concrete bypass road in Laoac town in Pangasinan Province. Two other injured personnel were treated at the site, says police report",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-military-plane-hits-road-barrier-during-philippine-training-injuring-five-personnel/article70674712.ece",
+    "time": "2026-02-25T07:53:13.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "German leader arrives in China to press for fair trade, help ending Ukraine war",
+    "desc": "Mr. Merz is the latest in a parade of world leaders to visit Beijing as China seeks support from other nations to push back against Trump's use of tariffs to demand concessions from trading partners",
+    "img": "https://th-i.thgim.com/public/incoming/hm3ngf/article70674509.ece/alternates/LANDSCAPE_1200/2026-02-25T062136Z_1873406079_RC2TSJAZ0462_RTRMADP_3_CHINA-GERMANY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/german-leader-friedrich-merz-in-china-to-press-for-fair-trade-help-ending-ukraine-war/article70674504.ece",
+    "time": "2026-02-25T07:32:48.000Z"
   }
 ];
