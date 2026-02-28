@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "Operation Lion's Roar: তেহরানে একের পর এক বিস্ফোরণ, ইজরায়েল–আমেরিকা যৌথ হামলায় কোথায় খামেইনি? বাড়ছে আতঙ্ক...",
+    "desc": "শনিবার ভোরে ইরান (Iran)-এ যৌথ হামলা চালায় ইজরায়েল (Israel) ও আমেরিকা (United States)। তেহরান (Tehran)-সহ একাধিক শহরে বিস্ফোরণ। ইজরায়েলের দাবি, এটি আগাম হামলা। খামেইনি (Ali Khamenei)-কে নিরাপদ স্থানে সরানো হয়েছে। ভেস্তে গেছে আলোচনা। এখন নজর ইরানের পালটা জবাবে, উদ্বেগে বিশ্ব।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/israel-us-joint-airstrike-iran-operation-lions-roar-tehran-blasts-ayatollah-khamenei_643103.html ",
+    "time": "2026-02-28T08:40:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Narendra Modi",
+    "desc": "ফের আয়ুষ্মান ভারতে সরব মোদি। বাংলায় আয়ুষ্মান ভারত চালু না করা নিয়ে তোপ। গরীব মানুষকে বঞ্চনার অভিযোগ মোদির। AI সামিটে ‘নগ্ন’ বিক্ষোভ। কংগ্রেসকে তুলোধনা নরেন্দ্র মোদির। বিদেশি অতিথি ও বিনিয়োগকারীদের সামনে দেশের মাথা হেঁট হয়েছে। নেটওয়ার্ক 18-এর রাইজিং ভারত অনুষ্ঠানে তোপ প্রধানমন্ত্রীর। পরিবারতন্ত্র নিয়েও খোঁচা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/PM-Modi-in-Rising-Bharat-Summit-2026-2026-02-7ba2d20bebece5624f97133c652608b1-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/rising-bharat-summit-2026-pm-modi-outlines-vision-for-aatmanirbhar-india-slams-congress-for-politicising-ai-summit-ss-2562120.html",
+    "time": "2026-02-28T08:04:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "রেলের জমি দখলমুক্ত করতে দখলবিরোধী অভিযান উত্তর-পূর্ব সীমান্ত রেলওয়ের",
+    "desc": "রেলওয়ে পরিকাঠামো রক্ষা এবং সুরক্ষিত ট্রেন চলাচল নিশ্চিত করার দৃঢ়সংকল্প প্রদর্শন করে, উত্তর-পূর্ব সীমান্ত রেলওয়ের রেলওয়ে সুরক্ষা বাহিনী (আরপিএফ) ইঞ্জিনিয়ারিং বিভাগের সাথে সমন্বয়ে, ফেব্রুয়ারি ২০২৬-এ অনুষ্ঠিত দুই দিনের অভিযানের সময় তার আওতাধীন একাধিক স্থানে ব্যাপকদখল বিরোধী অভিযান চালায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/TV_5789806_nfr_encroachment_1-1200x721.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/kolkata/north-east-frontier-railway-news-security-forces-takes-action-to-remove-trespassers-from-railyards-rdp-2561795.html",
+    "time": "2026-02-28T06:48:59.000Z"
+  },
+  {
     "cat": "Business",
     "title": "মার্জারের পর ‘এই’ ব্যাঙ্ক হয়ে উঠেছে দেশের দ্বিতীয় বৃহত্তম রাষ্ট্রায়ত্ত ব্যাঙ্ক",
     "desc": "Punjab National Bank–এর সঙ্গে Oriental Bank of Commerce ও United Bank of India–এর সংযুক্তির পর গড়ে ওঠা নতুন ব্যাঙ্ক এখন দেশের দ্বিতীয় বৃহত্তম রাষ্ট্রায়ত্ত ব্যাঙ্ক। ১১,০০০–এর বেশি শাখা ও ১৮ লক্ষ কোটি টাকার বেশি ব্যবসা নিয়ে শক্ত অবস্থান তৈরি করেছে।",
@@ -7,15 +34,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/after-mega-merger-punjab-national-bank-becomes-indias-second-largest-public-sector-bank-dc-2561982.html",
     "time": "2026-02-28T06:07:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রেলের জমি দখলমুক্ত করতে দখলবিরোধী অভিযান উত্তর-পূর্ব সীমান্ত রেলওয়ের",
-    "desc": "রেলওয়ে পরিকাঠামো রক্ষা এবং সুরক্ষিত ট্রেন চলাচল নিশ্চিত করার দৃঢ়সংকল্প প্রদর্শন করে, উত্তর-পূর্ব সীমান্ত রেলওয়ের রেলওয়ে সুরক্ষা বাহিনী (আরপিএফ) ইঞ্জিনিয়ারিং বিভাগের সাথে সমন্বয়ে, ফেব্রুয়ারি ২০২৬-এ অনুষ্ঠিত দুই দিনের অভিযানের সময় তার আওতাধীন একাধিক স্থানে ব্যাপকদখল বিরোধী অভিযান চালায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/TV_5789806_nfr_encroachment_1-1200x721.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/kolkata/north-east-frontier-railway-news-security-forces-takes-action-to-remove-trespassers-from-railyards-rdp-2561795.html",
-    "time": "2026-02-28T06:02:22.000Z"
   },
   {
     "cat": "Politics",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/indian-1-rupee-did-you-know-in-which-country-indian-one-rupee-is-equal-to-14000-rupee-you-will-be-shocked-to-know-the-name-for-sure-trending-general-knowledge-sanj-2550027.html",
     "time": "2026-02-20T12:29:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বাংলার ভোটার তালিকা প্রকাশ নিয়ে কী নির্দেশ দিল সুপ্রিম কোর্ট? দেখুন ভিডিও",
-    "desc": "রাজ্যে এসআইআর প্রক্রিয়ার পর ভোটার তালিকা প্রকাশ নিয়ে বড় নির্দেশ দিল সুপ্রিম কোর্ট৷ সুপ্রিম কোর্ট এর আগে নির্দেশ দিয়েছিল, আগামী ২৮ ফেব্রুয়ারি রাজ্যে এসআইআর প্রক্রিয়ার পর চূড়ান্ত তালিকা প্রকাশিত হবে৷ যদিও শুক্রবার সুপ্রিম কোর্ট যা নির্দেশ দিল, তাতে আগামী ২৮ ফেব্রুয়ারি চূড়ান্ত ভোটার তালিকা প্রকাশিত হচ্ছে না৷ ২৮ তারিখ একটি তালিকা বেরোলেও সেটিকে চূড়ান্ত তালিকা হিসেবে ঘোষণা করা যাবে না বলে নির্দেশ দিয়েছে সুপ্রিম কোর্ট৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Supreme-court-2026-02-c65446c760c5310f3f2b70b70331c7cc-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/supreme-court-gives-new-order-on-voter-list-in-west-bengal-dmg-2550003.html",
-    "time": "2026-02-20T11:48:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "একা মায়ের কাছে বড় হওয়া সন্তান বাবার নাম,পদবি বাদ দিতে পারে, 'এটা সাংবিধানিক অধিকার', যুগান্তকারী রায় বোম্বে হাইকোর্টের",
-    "desc": "এক সময়ে সরকারি নথিতে শিশুকে বাবার নাম ও পদবি উল্লেখ করত হত, কারণ সেটাই ছিল অফিশিবাল ফরম্যাট! কিন্তু সেই ধারাকে বজায় রাখতে কোনও 'সিঙ্গল মাদার'-এর কাছে বড় হওয়া সন্তানকে তার বাবার নাম ও পদবি বহন করতে বাধ্য করা যাবে না",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sasd-2026-02-3d003bfe0ca272ba1d35c27626f3bb9d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/high-court-bombay-hc-allows-child-raised-by-single-mother-to-drop-fathers-name-stresses-right-to-identity-rm-2549851.html",
-    "time": "2026-02-20T11:08:20.000Z"
   }
 ];

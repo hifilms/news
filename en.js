@@ -1,5 +1,248 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Naomi Watts goes candid on plastic surgery",
+    "desc": "At 57, Naomi Watts is choosing aging with grace and rejects the idea of returning to her 25-year-old look. She’s focused on self-acceptance, remains without plastic surgery, and favors a natural aesthetic. Her beauty routine has shifted, with a growing fondness for evening rituals as her children become more autonomous.",
+    "img": "https://static.toiimg.com/photo/msid-128880333,imgsize-99388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/naomi-watts-goes-candid-on-plastic-surgery-i-dont-want-to-look-25-anymore/articleshow/128880333.cms",
+    "time": "2026-02-28T09:11:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajpal Yadav reenacts 'Bhool Bhulaiyaa' moment",
+    "desc": "Actor Rajpal Yadav, recently out on bail in a Rs 9 crore cheque bounce case, has returned to work. He was spotted on the sets of Akshay Kumar's 'Wheel of Fortune' show, promoting their upcoming film 'Bhooth Bangla'. Yadav interacted warmly with the paparazzi, even referencing his iconic 'Bhool Bhulaiyaa' character, much to everyone's amusement. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128879966,imgsize-89756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-bail-in-rs-9-crore-loan-case-rajpal-yadav-reenacts-bhool-bhulaiyaa-moment-on-wheel-of-fortune-set/articleshow/128879966.cms",
+    "time": "2026-02-28T09:02:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift to share same wedding date with ex?",
+    "desc": "Entertainment chatter is swirling about Taylor Swift and Matty Healy possibly stepping into marriage in summer 2026, with Swift allegedly set to wed Travis Kelce in Rhode Island in June and Healy reportedly marrying Gabbriette Bechtel in California in July. If true, the back-to-back weddings would mark a dramatic chapter in their public lives and spark fresh fan theories.",
+    "img": "https://static.toiimg.com/photo/msid-128879728,imgsize-96198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-to-share-the-same-wedding-date-with-her-last-high-profile-ex-report/articleshow/128879695.cms",
+    "time": "2026-02-28T08:43:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A double murder in ‘mini Russia’",
+    "desc": "The killing of two women in January, both named Elena, reopens old questions over foreigners’ deaths in Goa. Sujay Gupta visits Arambol, a fishing village in North Goa, known for playing host to performers, sunset-seeking international travellers, and beach front bars. Running in the background are the stories of victims of alleged murders, whose families from overseas are still fighting for justice",
+    "img": "https://th-i.thgim.com/public/incoming/rv2yse/article70685513.ece/alternates/LANDSCAPE_1200/IMG_20200218_180449.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/goa/a-double-murder-in-mini-russia/article70684652.ece",
+    "time": "2026-02-28T08:43:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "National social security board for gig workers soon, says Maharashtra Minister",
+    "desc": "\"Gig and platform workers never had the status of workers and were considered business partners with delivery-based payments. For the first time, the social security code, which has been effective since November 2025, has defined the status of gig and platform workers,\" says Maharashtra Labour Minister",
+    "img": "https://th-i.thgim.com/public/news/national/d2hxv/article70687341.ece/alternates/LANDSCAPE_1200/iStock-2253575344.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/national-social-security-board-for-gig-workers-soon-says-maharashtra-minister/article70687313.ece",
+    "time": "2026-02-28T08:42:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What happens if the match gets washed out?",
+    "desc": "India faces West Indies in a crucial T20 World Cup 2026 virtual quarterfinal at Eden Gardens. A win secures a semifinal spot against England, while a loss ends India's campaign. With a concerning net run rate, India must win, as a washout would see them eliminated due to West Indies' superior NRR.",
+    "img": "https://static.toiimg.com/photo/msid-128879649,imgsize-51336.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-west-indies-t20-world-cup-2026-super-8s-what-happens-if-the-ind-vs-wi-match-gets-washed-out/articleshow/128879560.cms",
+    "time": "2026-02-28T08:39:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nicole Kidman-Keith Urban face another custody battle",
+    "desc": "Nicole Kidman and Keith Urban, now navigating life post-divorce, are negotiating care for their animal family. With Kidman currently housing the dogs, cats, chickens, and alpacas and Urban facing space constraints, the pet custody issue has become a central hurdle in their ongoing separation talks.",
+    "img": "https://static.toiimg.com/photo/msid-128879522,imgsize-300700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/still-not-over-nicole-kidman-and-keith-urban-to-face-another-custody-battle-ahead/articleshow/128879464.cms",
+    "time": "2026-02-28T08:37:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian team for Asian Boxing named, CWG, Asiad spots at stake",
+    "desc": "20-member squad was finalised after a month-long evaluation process that included performance at the National Championships in January and the ongoing national camp in Patiala under newly-appointed women’s chief coach Santiago Nieva and veteran men’s coach CA Kuttappa",
+    "img": "https://th-i.thgim.com/public/incoming/2j0a1x/article70687452.ece/alternates/LANDSCAPE_1200/2024-05-31T093717Z_100915828_RC2JMV955IER_RTRMADP_3_BOXING-FEDERATION-INDIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/indian-team-for-asian-boxing-named-cwg-asiad-spots-at-stake/article70687306.ece",
+    "time": "2026-02-28T08:37:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Benedict coming out praised by fans online",
+    "desc": "Bridgerton's Season 4 Part 2 finale lands with a quiet, heartfelt moment as Benedict Bridgerton comes to terms with his identity through a tender exchange with Sophie. Viewers on X are praising the show for its sensitive portrayal, calling Benedict's coming-out one of the season's most moving arcs.",
+    "img": "https://static.toiimg.com/photo/msid-128879478,imgsize-85488.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-4-part-2-ending-explained-as-fans-praise-benedicts-emotional-coming-out-scene/articleshow/128879478.cms",
+    "time": "2026-02-28T08:36:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "APPSC Group-I recruitment: Supreme Court upholds HC order",
+    "desc": "The High Court directed that 326 candidates who qualified in the Group-I examination and were given focal posts, be shifted to non-focal ones within a week due to allegations of gross irregularities in the process of evaluation of answer sheets",
+    "img": "https://th-i.thgim.com/public/news/national/p0g9w/article67415686.ece/alternates/LANDSCAPE_1200/IMG_IMG_SUPREMECOURT-NKV_2_1_2OBPIUSL.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/appsc-group-i-recruitment-supreme-court-upholds-hc-order/article70687369.ece",
+    "time": "2026-02-28T08:35:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "African honour for Shivamogga scientist for his role in saving maize crop from viral disease",
+    "desc": "Suresh L.M., who is an alumnus of the University of Agricultural Sciences, Bengaluru, was honoured recently in Nairobi for playing a key role in fighting the viral Maize Lethal Necrosis disease to save Africa’s maize crop through his decade-long work.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/african-honour-for-shivamogga-scientist-for-his-role-in-saving-maize-crop-from-viral-disease/article70679565.ece",
+    "time": "2026-02-28T08:24:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ECI begins phased publication of post-SIR rolls in West Bengal; 1.18 lakh names deleted in Bankura",
+    "desc": "Hard copies of the updated rolls were put up in districts including Bankura and Cooch Behar, even as the lists were yet to be made available online on the designated EC portals and mobile application",
+    "img": "https://th-i.thgim.com/public/incoming/zen3iw/article70687325.ece/alternates/LANDSCAPE_1200/20260130394L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-post-sir-phased-publication-of-electoral-rolls-eci-bankura/article70687298.ece",
+    "time": "2026-02-28T07:48:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cascio siblings s*x trafficking suit: Estate calls lawsuit a money grab",
+    "desc": "The Cascio siblings—once close to the Jackson family—have sued Jackson's estate, claiming years of sexual abuse and sex trafficking beginning in their youth, with allegations of drugging and assault on overseas trips. The estate rejects the charges, labeling the suit a 'money grab' and pointing to prior statements from the family in defense of Jackson.",
+    "img": "https://static.toiimg.com/photo/msid-128878027,imgsize-202016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cascio-family-accuses-michael-jackson-of-sx-trafficking-in-new-lawsuit-attorney-says-clients-deserve-200-million/articleshow/128878027.cms",
+    "time": "2026-02-28T07:40:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kerala Story 2 earns Rs 3.5 cr on Day 1 despite delayed release",
+    "desc": "Goes Beyond' opened on February 27, 2026, earning an estimated ₹3.5 crore on its opening day. Early box-office data indicate a subdued start in Kerala, with expectations of improvement as the week unfolds. The release had been initially stayed by the Kerala High Court before the stay was lifted. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128877761,imgsize-149374.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-1-film-rakes-in-rs-3-5-crore-despite-delayed-release/articleshow/128877761.cms",
+    "time": "2026-02-28T07:34:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'There’s an extra added responsibility': Samson sends emotional message to CSK fans",
+    "desc": "Sanju Samson expressed his delight at the warm reception in Chennai, now his IPL home ground with CSK. He feels a strong emotional connection with the passionate Chennai crowd, acknowledging the added responsibility to entertain them. Samson recently provided quick momentum for India against Zimbabwe with a brisk 24-ball innings.",
+    "img": "https://static.toiimg.com/photo/msid-128877901,imgsize-184566.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/theres-an-extra-added-responsibility-sanju-samson-sends-emotional-message-to-csk-fans/articleshow/128877959.cms",
+    "time": "2026-02-28T07:30:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Ramadan brings a season of grief after an Israeli strike wiped out most of a Gaza family",
+    "desc": "In the Gaza Strip, Ramadan has become a season when wartime losses hit especially deep for the many families grieving loved ones killed by Israeli forces, which have been fighting Hamas for more than two years",
+    "img": "https://th-i.thgim.com/public/incoming/wo8a0f/article70687227.ece/alternates/LANDSCAPE_1200/Mideast_Wars_Gaza_Family_16274.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ramadan-brings-a-season-of-grief-after-an-israeli-strike-wiped-out-most-of-a-gaza-family/article70687190.ece",
+    "time": "2026-02-28T07:27:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘God of War’ first look drop starring Ryan Hurst, Callum Vinson",
+    "desc": "Excitement builds for the God of War live-action series, officially in development with a first look at Ryan Hurst as Kratos and Callum Vinson as Atreus. The show will adapt the acclaimed 2018 game and its Ragnarök adventures, seeking to mirror the saga's epic battles, quiet moments, and the powerful father-and-son dynamic.",
+    "img": "https://static.toiimg.com/photo/msid-128877516,imgsize-200782.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/god-of-war-first-look-ryan-hursts-kratos-and-callum-vinsons-atreus-in-the-live-action-series/articleshow/128877485.cms",
+    "time": "2026-02-28T07:14:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika shares cryptic post amid Dhurandhar 2 buzz",
+    "desc": "Amidst buzz about declining an audition for 'The White Lotus 4', Deepika Padukone shared a cryptic Instagram post emphasizing the strength in remaining calm amidst chaos. This reflective message, coinciding with reports of her husband Ranveer Singh's film potentially clashing with Yash's 'Toxic', has fueled fan speculation about her response to online chatter and industry developments.",
+    "img": "https://static.toiimg.com/photo/msid-128877367,imgsize-95076.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-shares-cryptic-post-amid-the-white-lotus-4-and-dhurandhar-2-buzz/articleshow/128877157.cms",
+    "time": "2026-02-28T07:07:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tini Tom’s son involved",
+    "desc": "Three youths, including actor Tini Tom's son Adam Sheem, were arrested in Kochi for possessing ganja. The incident revives attention to concerns about drug use in the Malayalam film industry, echoing Tini Tom's 2023 remarks about witnessing addiction and physical decline among actors and his worry about his son's potential entry into films.",
+    "img": "https://static.toiimg.com/photo/msid-128877104,imgsize-140116.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/three-youths-held-with-ganja-in-kochi-actor-tini-toms-son-among-those-arrested-four-grams-seized/articleshow/128877104.cms",
+    "time": "2026-02-28T07:04:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sriram RECALLS why the late Dharmendra said NO to Agent Vinod",
+    "desc": "After 'Johnny Gaddar', Sriram Raghavan offered Dharmendra a RAW head role in Agent Vinod opposite Zeenat Aman. But Dharmendra said, “It’ll be India-Pakistan, I don’t want to do it.” Scheduling clashed too. They later reunited for Ikkis, Dharmendra's final film—a biopic on Arun Khetarpal.",
+    "img": "https://static.toiimg.com/photo/msid-128877003,imgsize-58230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/itll-be-india-pakistan-sriram-raghavan-recalls-why-the-late-dharmendra-said-no-to-agent-vinod/articleshow/128877003.cms",
+    "time": "2026-02-28T06:53:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Major boost to India’s healthcare: PM Modi rolls out nationwide HPV vaccination for 14-year-old girls",
+    "desc": "Prime Minister Narendra Modi launched the nationwide HPV Vaccination Programme in Ajmer, Rajasthan, targeting 14-year-old girls to prevent cervical cancer. The free, voluntary vaccination initiative aims to cover 1.15 crore girls annually, bolstering women's health and preventive healthcare efforts across India.",
+    "img": "https://static.toiimg.com/photo/msid-128876821,imgsize-37388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/major-boost-to-indias-healthcare-pm-modi-rolls-out-nationwide-hpv-vaccination-for-14-year-old-girls/articleshow/128876526.cms",
+    "time": "2026-02-28T06:50:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Muted opening for The Kerala Story 2 despite court clearance",
+    "desc": "Though a Division Bench of the Kerala High Court stayed a single judge’s order halting the release on February 27, the film could initially be screened only in a handful of theatres with limited evening shows",
+    "img": "https://th-i.thgim.com/public/incoming/obed59/article70687135.ece/alternates/LANDSCAPE_1200/Kerala%20Story.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/muted-opening-for-the-kerala-story-2-despite-court-clearance/article70687117.ece",
+    "time": "2026-02-28T06:46:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ranabaali' song 'Endhayya Saami' ft. Vijay-Rashmika is out",
+    "desc": "Udaipur welcomed a star-studded wedding as Vijay Deverakonda and Rashmika Mandanna tied the knot on February 26, 2026. Ahead of the reception, the makers of their film Ranabaali unveiled the first song, Endhayya Saami, celebrating the union. The music video traces their journey together and ends with a heartfelt wish for a happy married life. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128876647,imgsize-136312.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ranabaali-first-song-endhayya-saami-out-makers-cheer-for-vijay-deverakonda-and-rashmika-mandannas-happy-married-life/articleshow/128876647.cms",
+    "time": "2026-02-28T06:46:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Raina': Arijit Singh’s first indie song after playback retirement",
+    "desc": "Arijit Singh debuts his first independent single, 'Raina,' after stepping away from playback singing. The romantic ballad, composed by Shekhar Ravjiani, has drawn strong praise from fans embracing this new musical direction. While he reduces his participation in new film projects, Singh confirms that previously recorded songs will still be released.",
+    "img": "https://static.toiimg.com/photo/msid-128876658,imgsize-203484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/raina-arijit-singh-releases-first-independent-song-after-playback-retirement-feel-it-deeply-let-the-night-take-over/articleshow/128876658.cms",
+    "time": "2026-02-28T06:46:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'If Hesson stays, Shadab will be captain': Shahid Afridi's big claim",
+    "desc": "Former captain Shahid Afridi believes Shadab Khan is the leading candidate to captain Pakistan if coach Mike Hesson remains. Afridi cited Shadab's strong rapport with Hesson from their time at Islamabad United as a key factor. He emphasized the need for Shadab to deliver consistent performances to justify the captaincy, a sentiment echoed by Shoaib Malik.",
+    "img": "https://static.toiimg.com/photo/msid-128876576,imgsize-157052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/if-mike-hesson-stays-shadab-khan-will-be-captain-shahid-afridis-big-claim/articleshow/128876586.cms",
+    "time": "2026-02-28T06:39:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Singer Kalyani Nair on building an ensemble",
+    "desc": "In this episode of Notes & Chords, we step into the world of choral music with Kalyani Nair — acclaimed playback and stage singer, composer, and arranger. As co-founder, choir director, and conductor of the Indian Choral Ensemble, which she leads with Karthik Manickavasakam, she brings together a 40-member collective of vocalists and instrumentalists. The ensemble is carving a niche in India’s soundscape, blending rich melody with layered harmony, spanning different genres.",
+    "img": "https://th-i.thgim.com/public/incoming/qinkim/article70687218.ece/alternates/LANDSCAPE_1200/kalyani%20nair.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shows/watch-singer-kalyani-nair-on-building-an-ensemble/article70687219.ece",
+    "time": "2026-02-28T06:35:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 K-dramas releasing in March 2026",
+    "desc": "March 2026 is truly a treat for K-drama fans! From family clashes and psychological thrillers to romance and politics, fans can get ready for a rollercoaster ride across different genres. From the much-awaited ‘Boyfriend on Demand’ starring BLACKPINK’s Jisoo to Park Min Young's ‘Siren's Kiss’, here’s a list of K-dramas releasing this March.Starring Jisoo and Seo In Guk, ‘Boyfriend on Demand’ follows Seo Mi Rae, a music producer trying to escape her demanding life through a dating simulation program. She enters a digital world where she starts looking for a romantic escape. However, in real life, her colleague and rival, Park Gyeong Nam begins to stir unexpected emotions.",
+    "img": "https://static.toiimg.com/photo/msid-128876490,imgsize-1090568.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/top-5-k-dramas-releasing-in-march-2026-boyfriend-on-demand-sirens-kiss-and-more/photostory/128876490.cms",
+    "time": "2026-02-28T06:33:47.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Who will reach T20 World Cup semifinals?",
     "desc": "Pakistan face a crucial Super 8s match against Sri Lanka, with their qualification hopes significantly impacted by the weather. Following England's win over New Zealand, Pakistan's destiny is in their own hands, but a washout would favor New Zealand. The team must secure a substantial victory to advance.",
@@ -54,15 +297,6 @@ const newsData_en = [
     "time": "2026-02-28T05:58:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Muted opening for The Kerala Story 2 despite court clearance",
-    "desc": "Though a Division Bench of the Kerala High Court stayed a single judge’s order halting the release on February 27, the film could initially be screened only in a handful of theatres with limited evening shows",
-    "img": "https://th-i.thgim.com/public/incoming/obed59/article70687135.ece/alternates/LANDSCAPE_1200/Kerala%20Story.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/muted-opening-for-the-kerala-story-2-despite-court-clearance/article70687117.ece",
-    "time": "2026-02-28T05:49:19.000Z"
-  },
-  {
     "cat": "World",
     "title": "Cuba unveils new details in fatal U.S. boat shooting and says a second boat on mission failed",
     "desc": "“Authorities were able to establish that the 10 Cuban suspects left the U.S. in two boats, but one failed, so they transferred all the supplies to the remaining one and left the other adrift,” says Officials",
@@ -79,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/a-weed-that-wont-die-zack-snyder-opens-up-about-the-snyderverses-future-and-shares-his-thoughts-on-james-gunns-dcu/articleshow/128875144.cms",
     "time": "2026-02-28T05:32:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rishab Shetty's favourite actor is THIS Kannada star",
-    "desc": "Rishab Shetty revealed his deep admiration for Malayalam star Mohanlal, considering him like family. He also shared that the late Puneeth Rajkumar was initially considered for the lead role in 'Kantara'. Despite Puneeth's packed schedule, he showed enthusiasm for the project before his untimely passing.",
-    "img": "https://static.toiimg.com/photo/msid-128875099,imgsize-59518.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/when-rishab-shetty-named-his-favourite-actor-this-kannada-star-was-nearly-roped-in-for-kantara/articleshow/128875099.cms",
-    "time": "2026-02-28T05:30:17.000Z"
   },
   {
     "cat": "World",
@@ -117,24 +342,6 @@ const newsData_en = [
     "time": "2026-02-28T05:18:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "This is what BLACKPINK’s Jisoo prefer in a partner",
-    "desc": "someone who forgets anniversaries (she struggles with dates herself) and someone who never texts first (she’s happy to reach out). She also confessed a love for sweet foods and dessert. Her upcoming drama, Boyfriend on Demand, premieres on Netflix on March 6.",
-    "img": "https://static.toiimg.com/photo/msid-128874866,imgsize-90310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/what-blackpinks-jisoo-prefer-in-a-partner-someone-who-loves-desserts-doesnt-text-and-more/articleshow/128874866.cms",
-    "time": "2026-02-28T05:17:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When is ‘Zootopia 2’ coming to Disney+? Here’s what we know",
-    "desc": "Get ready for Zootopia 2 on Disney+! After a successful theatrical run and digital release, the animated sequel streams starting March 11, 2026. Judy Hopps and Nick Wilde return to crack a fresh mystery, with Ke Huy Quan voicing the villain. Expect sharper animation and a captivating soundtrack that heightens every clue.",
-    "img": "https://static.toiimg.com/photo/msid-128874688,imgsize-114230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/when-is-zootopia-2-coming-to-disney-heres-what-we-know/articleshow/128874650.cms",
-    "time": "2026-02-28T05:09:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "West Indies banking on happy memories of Eden Gardens",
     "desc": "West Indies, inspired by their 2016 T20 World Cup win at Eden Gardens, face India in a crucial Super Eights match. Despite having talented players, this West Indies squad is considered less formidable than their 2016 counterparts. While they have played at the venue, India, masters of white-ball cricket and with strong home support, are expected to hold the advantage.",
@@ -151,33 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/assam-polls-congress-finalises-candidates-for-40-seats-gaurav-gogoi-likely-to-contest-from-jorhat/articleshow/128874316.cms",
     "time": "2026-02-28T04:50:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rihanna shares late-night studiovideo, fuels R9 speculation",
-    "desc": "Rihanna's late-night studio visit in February 2026 reignited fan excitement for her ninth album, R9. After a decade-long hiatus since 'Anti', the singer has hinted at a project that defies expectations, prioritizing artistic expression over commercial appeal. Insiders predict a potential stadium tour starting August 2026, marking a significant return to music.",
-    "img": "https://static.toiimg.com/photo/msid-128874136,imgsize-522985.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rihannas-2-a-m-studio-video-rekindles-r9-buzz-nearly-a-decade-after-anti-watch/articleshow/128874044.cms",
-    "time": "2026-02-28T04:39:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Koyote’s Shinji unveils wedding photos with Moon Won",
-    "desc": "K-pop veteran Shinji of Koyote is set to marry fiancé Moon Won on May 2nd, sharing radiant wedding photos that showcase their undeniable chemistry. The couple, who confirmed their relationship last year, met through broadcasting circles. Shinji has also addressed and debunked rumors surrounding Moon Won's past, expressing gratitude for their strong bond as they embark on this new chapter.",
-    "img": "https://static.toiimg.com/photo/msid-128873963,imgsize-646735.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/koyotes-shinji-unveils-wedding-photos-with-moon-won-ahead-of-may-ceremony-in-seoul/articleshow/128873949.cms",
-    "time": "2026-02-28T04:30:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika's wedding pic becomes MOST LIKED post in Asia",
-    "desc": "Rashmika Mandanna and Vijay Deverakonda's wedding announcement has shattered Instagram records, becoming Asia's most-liked post with over 23 million likes. This monumental achievement has surpassed Virat Kohli's T20 World Cup victory post and other celebrity wedding posts, cementing their place among the all-time most popular Instagram content.",
-    "img": "https://static.toiimg.com/photo/msid-128873522,imgsize-172332.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-and-vijay-deverakondas-wedding-pic-dethrones-virat-kohlis-world-cup-pic-as-most-liked-instagram-post-in-asia/articleshow/128873507.cms",
-    "time": "2026-02-28T04:19:37.000Z"
   },
   {
     "cat": "Sports",
@@ -205,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/when-16-year-old-shahid-afridi-saved-pakistan-can-history-repeat-in-pallekele/articleshow/128873431.cms",
     "time": "2026-02-28T04:05:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Monarch: Legacy of Monsters’ season 2 episode rollout",
-    "desc": "Legacy of Monsters' is set to premiere on Apple TV+ on February 27, 2026. The new season will delve deeper into Monarch's peril and the mysteries of Skull Island, introducing a new bioluminescent Titan, Titan X.",
-    "img": "https://static.toiimg.com/photo/msid-128873310,imgsize-855376.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/monarch-legacy-of-monsters-season-2-sets-global-premiere-with-weekly-rollout-through-march/articleshow/128873319.cms",
-    "time": "2026-02-28T03:50:41.000Z"
   },
   {
     "cat": "Politics",
@@ -261,15 +432,6 @@ const newsData_en = [
     "time": "2026-02-28T03:19:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' CONFIRMS March 19 clash with ‘Toxic’",
-    "desc": "Ranveer Singh's 'Dhurandhar 2' is confirmed for a March 19 release, clashing with Yash's 'Toxic'. Pre-bookings in Australia and France revealed the date and a lengthy 220-minute runtime. Despite trade advice against a clash, both films are set to hit screens, with 'Dhurandhar 2' aiming to replicate its predecessor's massive success. Actress Yami Gautam praised the film as 'beyond extraordinary'.",
-    "img": "https://static.toiimg.com/photo/msid-128872504,imgsize-81676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-confirmed-for-march-19-clash-with-toxic-ranveer-singh-starrer-release-date-runtime-revealed-as-pre-bookings-open/articleshow/128871457.cms",
-    "time": "2026-02-28T03:07:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'There will not be a better opportunity': Ashwin urges Samson to go big at T20 WC",
     "desc": "India dominated Zimbabwe in the T20 World Cup, with openers Sanju Samson and Abhishek Sharma providing a strong start. Samson's quickfire 24 off 15 balls impressed, with Ravichandran Ashwin noting his valuable contribution to the team's momentum. Ashwin also expressed a personal hope for Samson to convert such starts into significant scores throughout the tournament.",
@@ -306,15 +468,6 @@ const newsData_en = [
     "time": "2026-02-28T02:37:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Brad Pitt claims Angelina Jolie trying to ‘separate family’",
-    "desc": "Rumors of a widening rift between Brad Pitt and Angelina Jolie persist as reports claim their kids—Maddox, Zahara, and Shiloh—are increasingly estranged and have dropped Pitt from their surnames. Some have publicly changed their names; others keep their distance, amplifying speculation about the Brangelina split.",
-    "img": "https://static.toiimg.com/photo/msid-128871811,imgsize-149618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitts-friends-claim-angelina-jolie-trying-to-separate-family-after-son-maddox-jolie-drops-pitt-surname/articleshow/128871778.cms",
-    "time": "2026-02-28T02:19:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Trump's Truth Social in talks to spin off into publicly traded company",
     "desc": "Trump Media & Technology Group plans to spin off its Truth Social platform into a separate publicly traded company. This move would separate its social media business from its fusion energy venture, which is merging with TAE Technologies. The company reported a widened net loss in 2025, despite increased financial assets.",
@@ -322,33 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/trumps-truth-social-in-talks-to-spin-off-into-publicly-traded-company/articleshow/128871466.cms",
     "time": "2026-02-28T02:07:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka turns NYC into her fashion runway; Nick reacts",
-    "desc": "Priyanka Chopra dazzled during her 'The Bluff' press tour in New York, showcasing stunning outfits from chic white ensembles to a dramatic lace gown. She also mastered winter fashion with a stylish brown fur coat over a corset dress.",
-    "img": "https://static.toiimg.com/photo/msid-128871361,imgsize-75502.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-cant-get-enough-of-priyanka-chopras-fashion-forward-the-bluff-press-tour-looks-pics/articleshow/128868818.cms",
-    "time": "2026-02-28T01:50:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dakota Johnson, Saoirse Ronan and Jessie Buckley to Lead ‘Three Incestuous Sisters’",
-    "desc": "A dark fairy tale is coming to the big screen. Audrey Niffenegger's novella 'The Three Incestuous Sisters' is being adapted into a film. Dakota Johnson, Saoirse Ronan, Jessie Buckley, and Josh O'Connor will star. Alice Rohrwacher is directing the project. Production is set to begin in April. The film promises a fresh take on the sisters' tangled bonds.",
-    "img": "https://static.toiimg.com/photo/msid-128871148,imgsize-788980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dakota-johnson-saoirse-ronan-jessie-buckley-to-star-in-three-incestuous-sisters-adaptation-all-we-know/articleshow/128871121.cms",
-    "time": "2026-02-28T01:33:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘O’ Romeo’ crosses Rs 60 crore mark on third Friday",
-    "desc": "Shahid Kapoor's 'O' Romeo' has surpassed Rs 60 crore domestically, nearing Rs 100 crore worldwide despite slowing collections. The romantic drama, now in its third week, has seen a gradual dip after a strong opening. It ranks fifth among Kapoor's highest-grossing films, with 'Padmaavat' and 'Kabir Singh' leading. Triptii Dimri's third-highest grosser, 'O' Romeo's steady hold continues.",
-    "img": "https://static.toiimg.com/photo/msid-128870287,imgsize-71148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-15-shahid-kapoor-starrer-crosses-rs-60-crore-mark-on-third-friday/articleshow/128870198.cms",
-    "time": "2026-02-28T00:25:47.000Z"
   },
   {
     "cat": "Business",
@@ -412,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/world/us/immigrant-engineer-to-silicon-valley-mentor-indian-american-self-made-millionaire-reveals-his-ultimate-success-blueprint/articleshow/128834291.cms",
     "time": "2026-02-27T20:06:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A double murder in ‘mini Russia’",
-    "desc": "The killing of two women in January, both named Elena, reopens old questions over foreigners’ deaths in Goa. Sujay Gupta visits Arambol, a fishing village in North Goa, known for playing host to performers, sunset-seeking international travellers, and beach front bars. Running in the background are the stories of victims of alleged murders, whose families from overseas are still fighting for justice",
-    "img": "https://th-i.thgim.com/public/incoming/rv2yse/article70685513.ece/alternates/LANDSCAPE_1200/IMG_20200218_180449.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/goa/a-double-murder-in-mini-russia/article70684652.ece",
-    "time": "2026-02-27T19:43:08.000Z"
   },
   {
     "cat": "Sports",
@@ -502,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/five-star-nabi-helps-j-amp-k-secure-a-massive-lead/article70684955.ece",
     "time": "2026-02-27T17:13:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi CM Rekha Gupta slams Kejriwal after excise case discharge, calls 'kattar imandaar' claims \"drama\"",
-    "desc": "\"Can you say that giving one liquor bottle free with another was right for Delhi? The High Court and the Supreme Court had also expressed concerns. Evidence of money laundering was found. And today you are boasting about honesty?\" she remarked.",
-    "img": "https://static.toiimg.com/photo/msid-128860220,imgsize-90516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-cm-rekha-gupta-slams-kejriwal-after-excise-case-discharge-calls-kattar-imandaar-claims-drama/articleshow/128860038.cms",
-    "time": "2026-02-27T17:13:01.000Z"
   },
   {
     "cat": "Politics",
@@ -601,24 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/anthropic-says-wont-give-us-military-unconditional-ai-use/article70682418.ece",
     "time": "2026-02-27T10:32:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Yuvraj is his mentor': Ashwin shushes Amir over 'slogger' remark",
-    "desc": "Ravichandran Ashwin defended Abhishek Sharma after Mohammad Amir called him “just a slogger” following three ducks in the T20 World Cup. Abhishek silenced critics with a quick 55 off 30 balls against Zimbabwe. Ashwin praised his bat swing and rejected the label, while Abhishek said he had waited for this moment and appreciated the team’s support.",
-    "img": "https://static.toiimg.com/photo/msid-128844828,imgsize-43970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/yuvraj-singh-is-his-mentor-r-ashwin-shushes-pakistans-mohammad-amir-over-slogger-remark-against-abhishek-sharma/articleshow/128844674.cms",
-    "time": "2026-02-27T10:30:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sourav Ganguly's message to India selectors: Take Auqib Nabi to England",
-    "desc": "Sourav Ganguly has backed Jammu and Kashmir pacer Auqib Nabi for national selection following his stellar Ranji Trophy final performance. Nabi's five-wicket haul and league-leading 60 wickets this season have earned him praise, with Ganguly suggesting a call-up for the 2026 England white-ball tour.",
-    "img": "https://static.toiimg.com/photo/msid-128844608,imgsize-23646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sourav-gangulys-message-to-india-selectors-take-auqib-nabi-to-england/articleshow/128843761.cms",
-    "time": "2026-02-27T10:27:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -808,95 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/opinion/op-ed/pakistan-and-the-board-of-peace/article70677130.ece",
     "time": "2026-02-26T01:27:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "SIM-binding directions for platforms to stay: Minister",
-    "desc": "The November 2025 order, due for compliance this month, will not be extended, says Communications Minister. He says ‘national security’ and ‘fraud’ were considered in issuing this order, which WhatsApp parent Meta has pushed back on through industry associations.",
-    "img": "https://th-i.thgim.com/public/incoming/48wfes/article70677009.ece/alternates/LANDSCAPE_1200/TH24-Aroon-WhatGCDFKPO1G.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/no-change-in-sim-binding-directions-to-platforms-scindia/article70676102.ece",
-    "time": "2026-02-25T20:52:40.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Legislation on Chagos deal paused for discussions with U.S., says U.K. Minister",
-    "desc": "Reform U.K. leader Nigel Farage claimed that the Maldives would, in a “few days”, lodge a counter-claim to sovereignty over the Chagos Islands in the International Court of Justice and urged the government to pause the progress of executing the treaty",
-    "img": "https://th-i.thgim.com/public/news/national/a1h0k9/article70677032.ece/alternates/LANDSCAPE_1200/2018-09-02T153946Z_830679528_RC18C5904E70_RTRMADP_3_MAURITIUS-BRITAIN-WORLD-COURT.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/uk-legislation-on-chagos-deal-paused-for-discussions-with-us-uk-minister/article70676859.ece",
-    "time": "2026-02-25T19:57:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup 2026",
-    "desc": "The host never really recovered from the morale-crushing fall of its in-form batter and eventually crashed out of the T20 World Cup with a 61-run loss to New Zealand, its second straight defeat in the Super Eight.",
-    "img": "https://th-i.thgim.com/public/incoming/gt77jr/article70677016.ece/alternates/LANDSCAPE_1200/Sri_Lanka_New_Zealand_T20_WCup_Cricket_27193.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-2026-new-zealand-sends-sri-lanka-packing/article70677005.ece",
-    "time": "2026-02-25T18:13:58.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Myanmar junta air strike kills at least 17",
-    "desc": "Myanmar has been consumed by civil war since the military staged a coup five years ago, provoking armed resistance from democracy activists and ethnic minority factions that have long held sway in the nation’s fringes",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/myanmar-junta-air-strike-kills-at-many/article70677020.ece",
-    "time": "2026-02-25T17:46:25.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How are Indian firms training LLMs?",
-    "desc": "Why is training a Large Language Model on Indian soil with Indian capital a challenge? How has the IndiaAI Mission subsidised efforts to conduct training in India? Why is a Mixture of Experts (MoE) architecture inexpensive than other comparable models?",
-    "img": "https://th-i.thgim.com/public/incoming/d8gif8/article70676916.ece/alternates/LANDSCAPE_1200/PTI02_19_2026_000650B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/how-are-indian-firms-training-llms-explained/article70676898.ece",
-    "time": "2026-02-25T17:10:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RANJI TROPHY FINAL",
-    "desc": "CRICKET | On a rain-affected second day, the visitor led by half-centuries from Dogra, Wadhawan and Lotra surges to a massive 527 for six — making the first innings lead crucial – and leaves the host with a lot of heavy lifting to do",
-    "img": "https://th-i.thgim.com/public/incoming/zijpkg/article70676284.ece/alternates/LANDSCAPE_1200/_DSC0054.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-tropy-final-super-efficient-j-k-makes-karnataka-toil/article70676020.ece",
-    "time": "2026-02-25T16:21:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ranji Trophy final",
-    "desc": "The incident occurred in the 14th over of the morning when the J & K skipper was irked by something Karnataka substitute Aneesh uttered from silly-point when the batter scored a streaky boundary off Prasidh",
-    "img": "https://th-i.thgim.com/public/incoming/affus8/article70676510.ece/alternates/LANDSCAPE_1200/_DSC9069.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-final-a-headbutt-an-apology-and-an-all-is-well-the-events-that-transpired-between-dogra-and-aneesh/article70676409.ece",
-    "time": "2026-02-25T15:21:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup",
-    "desc": "Both sides are fresh off emphatic victories — the Proteas defeated India by 76 runs at this venue, while the Caribbean outfit thrashed Zimbabwe by 107 in Mumbai — and the winner of this tie could potentially seal a semifinal berth",
-    "img": "https://th-i.thgim.com/public/incoming/lshv9o/article70676066.ece/alternates/LANDSCAPE_1200/VIS_0998.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-south-africa-west-indies-hope-to-inch-closer-to-the-semifinals/article70676058.ece",
-    "time": "2026-02-25T14:04:29.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Indonesia frees, deports American who spent 11 years in prison for Bali 'suitcase murder'",
-    "desc": "Tommy Schaefer was sentenced to 18 years in prison for the 2014 murder of Sheila von Wiese-Mack, the mother of Heather Mack, during a luxury vacation in a case also known as the Bali “suitcase murder”",
-    "img": "https://th-i.thgim.com/public/incoming/shsfx0/article70675184.ece/alternates/LANDSCAPE_1200/Indonesia_Bali_Suitcase_Murder_43469.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/indonesia-frees-deports-american-who-spent-11-years-in-prison-for-bali-suitcase-murder/article70675157.ece",
-    "time": "2026-02-25T10:52:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Cities in southeastern Brazil hit by floods, landslides",
-    "desc": "Severe floods in southeastern Brazil have killed at least 25 people and left dozens missing in the state of Minas Gerais, officials said on Tuesday (February 24, 2026). Meteorologists warned that more rain is expected in the region in the next few days.",
-    "img": "https://th-i.thgim.com/public/incoming/5ch7cw/article70675162.ece/alternates/LANDSCAPE_1200/brazil.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-cities-in-southeastern-brazil-hit-by-floods-landslides/article70675159.ece",
-    "time": "2026-02-25T10:31:50.000Z"
   }
 ];
