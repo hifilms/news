@@ -1,7 +1,52 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "'আফগানিস্তানে' ভারতীয় ৫০০ টাকার 'মূল্য' কত হবে জানেন...? চমকাবেন শুনলেই 'উত্তর'!",
+    "desc": "আকাশসীমা পেরিয়ে আফগানিস্তানে হামলা চালিয়েছে পাকিস্তান। শনিবার তারা আরও এক বার দাবি করেছে, হামলায় ৩০০ আফগান তালিবানের মৃত্যু হয়েছে। এরইমধ্যে পাকিস্তান আফগানিস্তান যুদ্ধ পরিস্থিতিতে ফের একবার সোশ্যাল মিডিয়ায় ঝড় তুলেছে ভারতের এই প্রতিবেশী দেশটি। প্রশ্ন উঠছে এই দেশের আর্থিক পরিস্থিতি ভারতের তুলনায় কেমন? সেখানে ভারতের একটা ৫০০ টাকার নোটের ভ্যালু কত? চলুন জেনে নিন আজই!",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/afghanisthan-2026-02-894055c9b8c7fb03ad754ceb9dfbfcdb-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-afghanistani-afghan-do-you-know-how-much-an-indian-500-rupee-note-is-worth-in-afghanistan-you-will-be-shocked-to-hear-the-answer-trending-knowledge-sanj-2562598.html",
+    "time": "2026-02-28T12:15:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মধ্যপ্রাচ্যে আগুনের লেলিহান শিখা, পরমাণু শক্তিধর ইরানের নখ-দাঁতে ছিন্নভিন্ন ৭ প্রতিবেশী দেশ, চুরমার 'ইসলামিক' ঐক্য? তৃতীয় বিশ্বযুদ্ধ...",
+    "desc": "২০২৬ সালের ফেব্রুয়ারি মাস বিশ্ব ইতিহাসের এক রক্তাক্ত অধ্যায় হিসেবে চিহ্নিত হতে চলেছে। মধ্যপ্রাচ্যের ভূ-রাজনীতিতে যে অস্থিরতা গত কয়েক বছর ধরে ধিকিধিকি জ্বলছিল,তা এখন এক ভয়াবহ দাবানলে পরিণত হয়েছে। ইরানের সাম্প্রতিক সামরিক পদক্ষেপ কেবল ইসরায়েল নয়, বরং গোটা অঞ্চলের সাতটি দেশকে যুদ্ধের কিনারে ঠেলে দিয়েছে। আন্তর্জাতিক সংবাদমাধ্যমের সূত্র অনুযায়ী, ইরানের এই বহুমুখী আক্রমণ মধ্যপ্রাচ্যের মানচিত্র বদলে দেওয়ার পাশাপাশি এক বিশ্বযুদ্ধের দামামা বাজিয়ে দিয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/iran-attacks-middle-east-7-countries-us-israel-war-impact-third-world-war-us-gulf-syria-jordon-saudi-arab-kuwait-uae-islamic-nato_643117.html ",
+    "time": "2026-02-28T12:14:07.000Z"
+  },
+  {
     "cat": "World",
-    "title": "Operation Lion's Roar: তেহরানে একের পর এক বিস্ফোরণ, ইজরায়েল–আমেরিকা যৌথ হামলায় কোথায় খামেইনি? বাড়ছে আতঙ্ক...",
+    "title": "দুর্ঘটনায় আকাশ থেকে ঝরল কোটি কোটি টাকা, ২০ জনের মৃত্যু",
+    "desc": "Bolivia Plane Crash | বলিভিয়ায় এক ভয়াবহ বিমান দুর্ঘটনা! শুক্রবার লা পাজ বিমানবন্দরের কাছে বলিভিয়ার একটি সামরিক সি-১৩০ (C-130) কার্গো বিমান অবতরণের সময় বিধ্বস্ত হয়েছে। এই দুর্ঘটনায় অন্তত ২০ জন নিহত এবং বহু মানুষ আহত হয়েছেন। সবথেকে চাঞ্চল্যকর বিষয় হলো, বিমানটি বলিভিয়ার কেন্দ্রীয় ব্যাংকের প্রচুর নগদ টাকা বহন করছিল, যা দুর্ঘটনার পর মহাসড়কে ছড়িয়ে পড়ে। হাজার হাজার মানুষ সেই টাকা কুড়োতে ভিড় করলে পুলিশ টিয়ার গ্যাস ছুড়ে পরিস্থিতি নিয়ন্ত্রণে আনে। ভিডিওটিতে দেখুন এই ভয়াবহ দুর্ঘটনার এক্সক্লুসিভ ফুটেজ এবং উদ্ধারকাজের সর্বশেষ আপডেট।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bolivia-2026-02-bfc6c6eb8b13dd7ccef641f8f506750f-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/international/bolivia-military-plane-crash-was-carrying-crores-of-cash-all-scattered-acter-the-incident-20-dies-sta-2562596.html",
+    "time": "2026-02-28T11:44:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ছিন্নভিন্ন হয়ে গেল দেহ ! অন্ধ্রপ্রদেশের কাকিনাড়ায় বাজি কারখানায় ভয়াবহ বিস্ফোরণ ! মৃত ১৮",
+    "desc": "শনিবার দুপুরে ঘটনাটি ঘটেছে কাকিনাড়া জেলার সামারালাকোটা মণ্ডলের ভেটলাপালেম গ্রামে ৷ মৃতদের অধিকাংশই মহিলা বলে জানা গিয়েছে ৷ মৃতের সংখ্যা আরও বাড়তে পারে বলেও মনে করা হচ্ছে ৷ ঘটনায় শোকপ্রকাশ করেছেন সে রাজ্যের মুখ্যমন্ত্রী চন্দ্রবাবু নাইডু ৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Andhra-Kakinada-Blast-2026-02-50b50d3267ff17dcb8caa4a2a528df0d-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/kakinada-andhra-pradesh-blast-18-killed-in-massive-explosion-at-fireworks-factory-in-kakinada-district-ss-2562492.html",
+    "time": "2026-02-28T11:22:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "একলাফে কেন্দ্রীয় সরকারি কর্মীদের বেতন বাড়ছে ৬৬%? তাহলে ন্যূনতম বেতন কত হচ্ছে? এখনই জেনে নিন...",
+    "desc": "What is Aykroyd formula in 8th Pay Commission? অষ্টম বেতন কমিশনের আলোচনায় সবচেয়ে বেশি গুরুত্ব পাচ্ছে 'অ্যাক্রয়েড ফর্মুলা'। ডব্লিউ আর অ্যাক্রয়েড নামক একজন পুষ্টিবিদের গবেষণার ওপর ভিত্তি করে এই ফর্মুলা তৈরি করা হয়েছে। এটি মূলত একজন মানুষের বেঁচে থাকার জন্য প্রয়োজনীয় খাদ্য, বস্ত্র এবং বাসস্থানের ন্যূনতম ব্যয়ের ওপর ভিত্তি করে বেতন নির্ধারণ করে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/8th-pay-commission-big-update-minimum-pay-may-rise-by-66-percent-by-aykroyd-formula_643111.html ",
+    "time": "2026-02-28T09:28:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "তেহরানে একের পর এক বিস্ফোরণ, ইজরায়েল–আমেরিকা যৌথ হামলায় কোথায় খামেইনি? বাড়ছে আতঙ্ক...",
     "desc": "শনিবার ভোরে ইরান (Iran)-এ যৌথ হামলা চালায় ইজরায়েল (Israel) ও আমেরিকা (United States)। তেহরান (Tehran)-সহ একাধিক শহরে বিস্ফোরণ। ইজরায়েলের দাবি, এটি আগাম হামলা। খামেইনি (Ali Khamenei)-কে নিরাপদ স্থানে সরানো হয়েছে। ভেস্তে গেছে আলোচনা। এখন নজর ইরানের পালটা জবাবে, উদ্বেগে বিশ্ব।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/bangladesh-pm-tarique-rahman-resets-ties-with-india-restores-visa-services-in-delhi-ank-2550362.html",
     "time": "2026-02-20T15:17:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "মুম্বইয়ের রাস্তায় মণিপুরি মেকআপ আর্টিস্টকে 'চিনা'-'মোমো' বলে কটাক্ষ! প্রতিবাদে অক্ষয়...",
-    "desc": "অক্ষয়ের শোয়ে উত্তর-পূর্ব ভারত থেকে আসা ওই প্রতিযোগী জানান, নিজের চেহারার কারণে মুম্বইয়ের রাস্তায় তাঁকে প্রায়ই বর্ণবিদ্বেষী মন্তব্যের শিকার হতে হয়। বিষয়টি কতটা ভয়াবহ, তা বোঝাতে তিনি মঞ্চে ডেকে নেন তাঁর নিজস্ব মেকআপ আর্টিস্ট কিম-কে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/akshay-kumar-wheel-of-fortune-north-east-racism-statement_642125.html ",
-    "time": "2026-02-20T15:01:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "না বলে বাপের বাড়ি গিয়েছিল বউ! একটা থাপ্পড় মারা স্বামীর নৃশংসতা নয়, রায় দিল কোর্ট, ২৩ বছর ধরে চলা মামলার নেপথ্যে বড় কাহিনি",
-    "desc": "গুজরাত হাইকোর্ট রায় দিয়েছে যে, স্বামীর স্ত্রীকে না জানিয়ে তার বাবা-মায়ের বাড়িতে যাওয়ার জন্য তাকে থাপ্পড় মারা ৪৯৮এ ধারার অধীনে নিষ্ঠুরতা হিসেবে গণ্য হবে না। ২৩ বছর বয়সী একটি মামলায় আদালত স্বামীকে আত্মহত্যায় প্ররোচনার অভিযোগ থেকে খালাস দিয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Husband-and-Wife-2026-02-b2e6eb912b8d5576bd5ae4e14d00247a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/husband-and-wife-one-slap-is-not-cruelty-gujarat-highcourt-acquits-husband-of-abetment-to-suicide-after-23-year-dd-2549897.html",
-    "time": "2026-02-20T13:27:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "অস্ট্রেলীয় বোলিং অ্যাটাকের সামনে ‘ফ্যামিলিওয়ালা’ শিবপ্রসাদ! মুগ্ধ পরিচালক সুমন ঘোষ...",
-    "desc": "উইন্ডোজ প্রোডাকশনের ২৫ বছর পূর্তিতে এক অনন্য চমক নিয়ে আসছেন পরিচালক সুমন ঘোষ। তাঁর আসন্ন ছবি ‘ফ্যামিলিওয়ালা’-তে নাম ভূমিকায় দেখা যাবে অভিনেতা শিবপ্রসাদ মুখোপাধ্যায়কে। দীর্ঘ ২৫ বছর পর নন্দিতা রায়ের বাইরে অন্য কোনো পরিচালকের নির্দেশনায় কাজ করলেন শিবপ্রসাদ, যা নিয়ে টলিউডে ইতিমধ্যেই শোরগোল পড়ে গিয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/shiboproshad-mukhopadhyay-suman-ghosh-familywala-collaboration_642093.html ",
-    "time": "2026-02-20T13:10:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "সুপ্রিম কোর্টের নির্দেশে ইতিহাস তৈরি হল, দাবি কল্যাণের! দেখুন ভিডিও",
-    "desc": "ভারতের নির্বাচনী সংস্কার ব্যবস্থায় ইতিহাস তৈরি হল৷ নির্বাচন কমিশনারই যে ভোটার তালিকা নিয়ে শেষ কথা বলবে না, সেই ধারণায় ইতি পড়ল৷ শুক্রবার বাংলার এসআইআর নিয়ে সুপ্রিম কোর্টের নির্দেশের পর এমনই দাবি করলেন আইনজীবী কল্যাণ বন্দ্যোপাধ্যায়৷ এ দিন সুপ্রিম কোর্ট নির্দেশ দেয়, এসআইআর-এর বাকি নথি যাচাইয়ের কাজ সম্পন্ন করতে জুডিশিয়াল অফিসার অথবা জেলা বিচারক এবং অতিরিক্ত জেলা বিচারকদের নিয়োগ করতে হবে৷ তাঁদের নজরদারিতেই শেষ হবে নথি যাচাই প্রক্রিয়া৷ এই কোয়াসি জুডিশিয়াল অফিসারদের নথি যাচাইয়ের কাজে সাহায্য করবেন মাইক্রো অবজারভার এবং অবজারভাররা৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Supreme-Court-SIR-2026-02-fa83b522437e4011eddacdb4ce279016-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/kalyan-banerjee-claims-supreme-court-has-given-historical-verdict-in-sir-case-dmg-2550073.html",
-    "time": "2026-02-20T12:35:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভারতের '১ টাকার' বিনিময়ে কোন দেশ '১৪,০০০ টাকা' দেয় জানেন...? 'নাম' শুনলেই চমকাবেন, শিওর!",
-    "desc": "আচ্ছা বলুন তো দেখি ভারতের ১ টাকা কোন দেশে গেলে ১৪০০০ টাকা হয়ে যায়? শুনেই নিশ্চই চমকে উঠলেন! কিন্তু উত্তরটিতে লুকিয়ে আছে আরও বড় চমক। সঠিক উত্তর কী হবে জানেন? চটপট পরে ফেলুন এই প্রতিবেদনটি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/currency-7-2026-02-0e224b08c55b83e3b2efb59e7806cc50-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/indian-1-rupee-did-you-know-in-which-country-indian-one-rupee-is-equal-to-14000-rupee-you-will-be-shocked-to-know-the-name-for-sure-trending-general-knowledge-sanj-2550027.html",
-    "time": "2026-02-20T12:29:30.000Z"
   }
 ];

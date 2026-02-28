@@ -1,6 +1,186 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Rajpal CLAIMS, 'Agle saat salo me Rs 1200 cr ka kaam hai'",
+    "desc": "over Rs 1200 crore in branding and film commitments lined up. He accused the lender of revenge, noting they declined his offered security and property. Fresh from his niece's wedding while on bail, the actor is returning to a slate of upcoming projects. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128884922,imgsize-88490.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-makes-a-big-claim-at-the-press-conference-says-agle-saat-salo-me-rs-1200-crore-ka-kaam-hai-mere-paas/articleshow/128884922.cms",
+    "time": "2026-02-28T12:05:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "APPSC Group-I recruitment: Supreme Court upholds HC order",
+    "desc": "The High Court directed that 326 candidates who qualified in the Group-I examination and were given focal posts, be shifted to non-focal ones within a week due to allegations of gross irregularities in the process of evaluation of answer sheets",
+    "img": "https://th-i.thgim.com/public/news/national/p0g9w/article67415686.ece/alternates/LANDSCAPE_1200/IMG_IMG_SUPREMECOURT-NKV_2_1_2OBPIUSL.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/appsc-group-i-recruitment-supreme-court-upholds-hc-order/article70687369.ece",
+    "time": "2026-02-28T12:03:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rinku spotted at Kolkata airport hours after father's funeral",
+    "desc": "Rinku Singh rejoined India’s T20 World Cup squad in Kolkata hours after performing his father’s last rites in Aligarh. His father, Khanchand Singh, died of cancer at 60 in Greater Noida. Despite the loss, Rinku returned for the must-win clash against West Indies. Tributes poured in from Rajeev Shukla, Yuvraj Singh and Harbhajan Singh.",
+    "img": "https://static.toiimg.com/photo/msid-128883970,imgsize-28946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/watch-grieving-rinku-singh-spotted-at-kolkata-airport-hours-after-fathers-funeral/articleshow/128883730.cms",
+    "time": "2026-02-28T11:25:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "When will banks remain closed for the week starting March 2? Check state-wise list",
+    "desc": "Customers visiting Indian bank branches in March 2026 should check holiday schedules as many will be closed for national and state-specific festivals like Holi. Branches will also be shut on the second and fourth Saturdays. Digital banking services will remain operational for essential transactions.",
+    "img": "https://static.toiimg.com/photo/msid-128883881,imgsize-1087021.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holidays-next-week-when-will-banks-remain-closed-for-the-week-starting-march-2-check-state-wise-list/articleshow/128883527.cms",
+    "time": "2026-02-28T11:23:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay cheers pop-and-lock dance, Rajpal stunned at Bhoot Bangla film event",
+    "desc": "During a colorful Bhoot Bangla promotional event, a playful crew of young dancers wowed the audience with a punchy pop-and-lock showcase. Akshay Kumar waved the crowd into applause, and Rajpal Yadav's stunned grin at a dancer's swift head turn became the moment to remember.",
+    "img": "https://static.toiimg.com/photo/msid-128883611,imgsize-124034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/watch-akshay-kumar-cheers-pop-and-lock-act-at-bhoot-bangla-promotion-rajpal-yadav-reaction-is-unmissable/articleshow/128883611.cms",
+    "time": "2026-02-28T11:15:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suniel won't watch Ahan's Border 2 till Rs 500 crore mark",
+    "desc": "Suniel Shetty awaits 'Border 2' hitting Rs 500 Cr before watching, despite Rs 447 Cr global haul. \"God will ensure... for a father’s love,\" says the Hera Pheri star. He also avoids live KL Rahul matches to dodge anxiety over commentary on family.",
+    "img": "https://static.toiimg.com/photo/msid-128883439,imgsize-33926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-wont-watch-ahan-shettys-border-2-till-rs-500-crore-mark-god-will-ensure-/articleshow/128883439.cms",
+    "time": "2026-02-28T11:06:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajya Sabha race heats up in Odisha as Congress extends support to BJD candidate",
+    "desc": "Numerically, the BJD and Congress can send the fourth candidate with combined numbers it has in the Assembly and that move would block the ruling party’s apparent attempt to secure the seat in its favour",
+    "img": "https://th-i.thgim.com/public/incoming/d91te8/article70687741.ece/alternates/LANDSCAPE_1200/20260213227L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/rajya-sabha-race-heats-up-in-odisha-as-congress-extends-support-to-bjd-candidate/article70687637.ece",
+    "time": "2026-02-28T10:59:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sarkata,' netizens REACT to Akshay's reel with headless man",
+    "desc": "Akshay Kumar's promotional video for Bhooth Bangla, featuring a headless man, has sparked online buzz. Fans are linking the Priyadarshan horror-comedy to Bollywood's supernatural universe, citing Stree 2 and its headless ghost Sarkata. Kumar's on-screen interaction with the spirit—asking whether ghosts exist—adds intrigue to the director's latest project. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128882760,imgsize-163122.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-drops-video-with-a-headless-man-to-promote-bhooth-bangla-netizens-react-saying-sarkata-in-another-universe/articleshow/128882760.cms",
+    "time": "2026-02-28T10:52:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "When will NSE, BSE remain closed for trading? Check list",
+    "desc": "Indian stock markets will observe closures on March 3rd for Holi, March 26th for Shri Ram Navami, and March 31st for Shri Mahavir Jayanti. Investors should note these public holidays to effectively plan their trading activities and capitalize on market opportunities throughout the month.",
+    "img": "https://static.toiimg.com/photo/msid-128882616,imgsize-76758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holidays-in-march-when-will-nse-bse-remain-closed-for-trading-check-list/articleshow/128881749.cms",
+    "time": "2026-02-28T10:50:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "RSP Eravipuram mandalam secretary resigns in protest",
+    "desc": "The conflict centres on the difference of opinion in the party over the selection of candidate for the seat; while a section of the RSP demanded the nomination of Karthik Premachandran, son of Kollam MP N.K. Premachandran, the party announced Vishnu Mohan as its candidate",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/row-over-assembly-poll-candidate-rsp-eravipuram-mandalam-secretary-resigns-in-protest/article70687676.ece",
+    "time": "2026-02-28T10:48:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian team for Asian Boxing named, CWG, Asiad spots at stake",
+    "desc": "20-member squad was finalised after a month-long evaluation process that included performance at the National Championships in January and the ongoing national camp in Patiala under newly-appointed women’s chief coach Santiago Nieva and veteran men’s coach CA Kuttappa",
+    "img": "https://th-i.thgim.com/public/incoming/2j0a1x/article70687452.ece/alternates/LANDSCAPE_1200/2024-05-31T093717Z_100915828_RC2JMV955IER_RTRMADP_3_BOXING-FEDERATION-INDIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/indian-team-for-asian-boxing-named-cwg-asiad-spots-at-stake/article70687306.ece",
+    "time": "2026-02-28T10:16:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Muted opening for The Kerala Story 2 despite court clearance",
+    "desc": "Though a Division Bench of the Kerala High Court stayed a single judge’s order halting the release on February 27, the film could initially be screened only in a handful of theatres with limited evening shows",
+    "img": "https://th-i.thgim.com/public/incoming/obed59/article70687135.ece/alternates/LANDSCAPE_1200/Kerala%20Story.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/muted-opening-for-the-kerala-story-2-despite-court-clearance/article70687117.ece",
+    "time": "2026-02-28T10:06:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Death warrant for farmers': Rahul Gandhi attacks PM Modi at Punjab rally; questions Indo-US trade deal",
+    "desc": "Rahul Gandhi questioned PM Modi's swift Indo-US trade deal, alleging it harms Indian farmers and industries. He claimed the Prime Minister gave away data and guaranteed annual purchases of US products. Gandhi also alleged a lack of political response to Chinese border movements, citing an unpublished book by a former Army Chief.",
+    "img": "https://static.toiimg.com/photo/msid-128880821,imgsize-21946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/death-warrant-for-farmers-rahul-gandhi-attacks-pm-modi-at-pujab-rally-questions-indo-us-trade-deal/articleshow/128880605.cms",
+    "time": "2026-02-28T10:04:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika REACTS to 'Endhayya Saami' song from 'Ranabaali'",
+    "desc": "The makers of Ranabaali surprised newlyweds Vijay Deverakonda and Rashmika Mandanna by releasing their first song, Endhayya Saami. The music video, capturing the couple’s wedding moments, is a touching tribute. Rashmika expressed delight at the unexpected gesture, calling it a lovely surprise for them and their fans. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128881045,imgsize-251992.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-reacts-as-makers-of-ranabaali-co-starring-vijay-deverakaonda-drop-first-song-endhayya-saami-lovely-/articleshow/128881045.cms",
+    "time": "2026-02-28T10:02:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Who is performing at the BRIT Awards 2026?",
+    "desc": "BRIT Awards 2026 lands at Manchester's Co-op Live with host Jack Whitehall and a turbocharged lineup. Expect performances from RAYE, Harry Styles, and Olivia Dean, alongside K-pop sensations Ejae, Audrey Nuna, and Rei Ami. Mark Ronson is set to receive a special honour, while Rosalía and SOMBR make their BRITs debuts for a night that celebrates global music diversity.",
+    "img": "https://static.toiimg.com/photo/msid-128881244,imgsize-66704.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/who-is-performing-at-the-brit-awards-2026-harry-styles-rosalia-sombr-and-others-on-the-list-see-details-here/articleshow/128881244.cms",
+    "time": "2026-02-28T09:53:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How much will J&amp;K receive for winning maiden Ranji Trophy title?",
+    "desc": "Jammu and Kashmir won their maiden Ranji Trophy title after drawing the final against Karnataka but securing a huge 291-run first-innings lead. They scored 584 in the first innings and extended their overall lead to 633 runs, with centuries from Qamran Iqbal and Sahil Lotra. As champions, J&K will receive Rs 5 crore in prize money.",
+    "img": "https://static.toiimg.com/photo/msid-128881237,imgsize-54442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-much-prize-money-will-jammu-kashmir-get-for-winning-the-ranji-trophy/articleshow/128880888.cms",
+    "time": "2026-02-28T09:49:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jairam Ramesh calls PM Modi’s Israel visit ‘shameful’, says he showed ‘moral cowardice’",
+    "desc": "Congress leader Jairam Ramesh has sharply criticised Prime Minister Modi's recent Israel visit, calling it \"morally cowardly\" following a joint US-Israel strike on Iran. Ramesh highlighted Modi's declaration of India's support for Israel, which occurred just before the military action. The article also details the elevated strategic partnership and agreements signed between India and Israel during Modi's trip.",
+    "img": "https://static.toiimg.com/photo/msid-128881302,imgsize-16574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iran-war-jairam-ramesh-calls-pm-modis-israel-visit-shameful-says-he-showed-moral-cowardice/articleshow/128881224.cms",
+    "time": "2026-02-28T09:48:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cosby will not testify live at trial",
+    "desc": "Donna Motsinger, one of Bill Cosby's civil-case accusers, says the comedian plans to skip the trial and won't testify live, with jurors hearing his side only through a pre-recorded deposition. She alleges Cosby drugged and sexually assaulted her in 1972, a claim tied to his past admissions about using Quaaludes to facilitate sexual encounters.",
+    "img": "https://static.toiimg.com/photo/msid-128880682,imgsize-104942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bill-cosbys-accuser-says-he-refuses-to-testify-at-civil-trial-says-does-not-care-to-appear/articleshow/128880682.cms",
+    "time": "2026-02-28T09:28:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Nahi hone wala': Sehwag tears apart Pakistan’s qualification scenario",
+    "desc": "Former India opener Virender Sehwag believes Pakistan will not reach the T20 World Cup 2026 semi-finals. He stated their qualification scenario is too difficult. Sehwag expressed doubt about Pakistan's ability to achieve the required large margins of victory. He suggested their batting lineup is not suited for such demanding chase targets.",
+    "img": "https://static.toiimg.com/photo/msid-128880418,imgsize-272422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/nahi-hone-wala-virender-sehwag-tears-apart-pakistans-qualification-scenario/articleshow/128880435.cms",
+    "time": "2026-02-28T09:25:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohsin Naqvi unhappy, Salman Agha set to be removed as captain",
+    "desc": "Pakistan's T20 captain Salman Ali Agha is set to be removed following the World Cup, irrespective of the team's performance. PCB chairman Mohsin Naqvi is reportedly unhappy with the campaign's trajectory. Senior players, including Babar Azam, may also see their T20 international careers conclude after the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-128880655,imgsize-50858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/storm-in-pakistan-cricket-mohsin-naqvi-unhappy-salman-agha-set-to-be-removed-as-captain/articleshow/128880646.cms",
+    "time": "2026-02-28T09:22:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Naomi Watts goes candid on plastic surgery",
     "desc": "At 57, Naomi Watts is choosing aging with grace and rejects the idea of returning to her 25-year-old look. She’s focused on self-acceptance, remains without plastic surgery, and favors a natural aesthetic. Her beauty routine has shifted, with a growing fondness for evening rituals as her children become more autonomous.",
     "img": "https://static.toiimg.com/photo/msid-128880333,imgsize-99388.cms",
@@ -16,6 +196,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-bail-in-rs-9-crore-loan-case-rajpal-yadav-reenacts-bhool-bhulaiyaa-moment-on-wheel-of-fortune-set/articleshow/128879966.cms",
     "time": "2026-02-28T09:02:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jammu and Kashmir script history, win maiden Ranji Trophy title",
+    "desc": "Jammu and Kashmir achieved a historic Ranji Trophy triumph, their first ever, after a draw against Karnataka in the final. Dominating the match, J&K secured the title on first-innings lead, thanks to stellar performances from Shubham Pundir and Auqib Nabi. Centuries from Qamran Iqbal and Sahil Lotra sealed their maiden championship.",
+    "img": "https://static.toiimg.com/photo/msid-128880049,imgsize-55008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jammu-and-kashmir-script-history-win-maiden-ranji-trophy-title/articleshow/128880042.cms",
+    "time": "2026-02-28T08:56:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -63,15 +252,6 @@ const newsData_en = [
     "time": "2026-02-28T08:37:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Indian team for Asian Boxing named, CWG, Asiad spots at stake",
-    "desc": "20-member squad was finalised after a month-long evaluation process that included performance at the National Championships in January and the ongoing national camp in Patiala under newly-appointed women’s chief coach Santiago Nieva and veteran men’s coach CA Kuttappa",
-    "img": "https://th-i.thgim.com/public/incoming/2j0a1x/article70687452.ece/alternates/LANDSCAPE_1200/2024-05-31T093717Z_100915828_RC2JMV955IER_RTRMADP_3_BOXING-FEDERATION-INDIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/indian-team-for-asian-boxing-named-cwg-asiad-spots-at-stake/article70687306.ece",
-    "time": "2026-02-28T08:37:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Benedict coming out praised by fans online",
     "desc": "Bridgerton's Season 4 Part 2 finale lands with a quiet, heartfelt moment as Benedict Bridgerton comes to terms with his identity through a tender exchange with Sophie. Viewers on X are praising the show for its sensitive portrayal, calling Benedict's coming-out one of the season's most moving arcs.",
@@ -82,21 +262,21 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "APPSC Group-I recruitment: Supreme Court upholds HC order",
-    "desc": "The High Court directed that 326 candidates who qualified in the Group-I examination and were given focal posts, be shifted to non-focal ones within a week due to allegations of gross irregularities in the process of evaluation of answer sheets",
-    "img": "https://th-i.thgim.com/public/news/national/p0g9w/article67415686.ece/alternates/LANDSCAPE_1200/IMG_IMG_SUPREMECOURT-NKV_2_1_2OBPIUSL.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/appsc-group-i-recruitment-supreme-court-upholds-hc-order/article70687369.ece",
-    "time": "2026-02-28T08:35:12.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "African honour for Shivamogga scientist for his role in saving maize crop from viral disease",
     "desc": "Suresh L.M., who is an alumnus of the University of Agricultural Sciences, Bengaluru, was honoured recently in Nairobi for playing a key role in fighting the viral Maize Lethal Necrosis disease to save Africa’s maize crop through his decade-long work.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/african-honour-for-shivamogga-scientist-for-his-role-in-saving-maize-crop-from-viral-disease/article70679565.ece",
     "time": "2026-02-28T08:24:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aishwarya Rajinikanth’s next film is titled 'Texla'",
+    "desc": "Aishwarya Rajinikanth is back in the director's chair for 'Texla', her next project after 'Laal Salaam'. The title teaser, unveiled by prominent filmmakers across India, depicts a heartwarming scene of children finding joy as sunlight enables a film screening. Yuvan Shankar Raja is composing the music for this anticipated entertainer.",
+    "img": "https://static.toiimg.com/photo/msid-128878898,imgsize-114064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/aishwarya-rajinikanths-next-film-is-titled-texla-title-teaser-out-now-watch/articleshow/128878898.cms",
+    "time": "2026-02-28T08:10:34.000Z"
   },
   {
     "cat": "Politics",
@@ -189,33 +369,6 @@ const newsData_en = [
     "time": "2026-02-28T06:50:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Muted opening for The Kerala Story 2 despite court clearance",
-    "desc": "Though a Division Bench of the Kerala High Court stayed a single judge’s order halting the release on February 27, the film could initially be screened only in a handful of theatres with limited evening shows",
-    "img": "https://th-i.thgim.com/public/incoming/obed59/article70687135.ece/alternates/LANDSCAPE_1200/Kerala%20Story.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/muted-opening-for-the-kerala-story-2-despite-court-clearance/article70687117.ece",
-    "time": "2026-02-28T06:46:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ranabaali' song 'Endhayya Saami' ft. Vijay-Rashmika is out",
-    "desc": "Udaipur welcomed a star-studded wedding as Vijay Deverakonda and Rashmika Mandanna tied the knot on February 26, 2026. Ahead of the reception, the makers of their film Ranabaali unveiled the first song, Endhayya Saami, celebrating the union. The music video traces their journey together and ends with a heartfelt wish for a happy married life. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128876647,imgsize-136312.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ranabaali-first-song-endhayya-saami-out-makers-cheer-for-vijay-deverakonda-and-rashmika-mandannas-happy-married-life/articleshow/128876647.cms",
-    "time": "2026-02-28T06:46:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Raina': Arijit Singh’s first indie song after playback retirement",
-    "desc": "Arijit Singh debuts his first independent single, 'Raina,' after stepping away from playback singing. The romantic ballad, composed by Shekhar Ravjiani, has drawn strong praise from fans embracing this new musical direction. While he reduces his participation in new film projects, Singh confirms that previously recorded songs will still be released.",
-    "img": "https://static.toiimg.com/photo/msid-128876658,imgsize-203484.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/raina-arijit-singh-releases-first-independent-song-after-playback-retirement-feel-it-deeply-let-the-night-take-over/articleshow/128876658.cms",
-    "time": "2026-02-28T06:46:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'If Hesson stays, Shadab will be captain': Shahid Afridi's big claim",
     "desc": "Former captain Shahid Afridi believes Shadab Khan is the leading candidate to captain Pakistan if coach Mike Hesson remains. Afridi cited Shadab's strong rapport with Hesson from their time at Islamabad United as a key factor. He emphasized the need for Shadab to deliver consistent performances to justify the captaincy, a sentiment echoed by Shoaib Malik.",
@@ -234,15 +387,6 @@ const newsData_en = [
     "time": "2026-02-28T06:35:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Top 5 K-dramas releasing in March 2026",
-    "desc": "March 2026 is truly a treat for K-drama fans! From family clashes and psychological thrillers to romance and politics, fans can get ready for a rollercoaster ride across different genres. From the much-awaited ‘Boyfriend on Demand’ starring BLACKPINK’s Jisoo to Park Min Young's ‘Siren's Kiss’, here’s a list of K-dramas releasing this March.Starring Jisoo and Seo In Guk, ‘Boyfriend on Demand’ follows Seo Mi Rae, a music producer trying to escape her demanding life through a dating simulation program. She enters a digital world where she starts looking for a romantic escape. However, in real life, her colleague and rival, Park Gyeong Nam begins to stir unexpected emotions.",
-    "img": "https://static.toiimg.com/photo/msid-128876490,imgsize-1090568.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/top-5-k-dramas-releasing-in-march-2026-boyfriend-on-demand-sirens-kiss-and-more/photostory/128876490.cms",
-    "time": "2026-02-28T06:33:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Who will reach T20 World Cup semifinals?",
     "desc": "Pakistan face a crucial Super 8s match against Sri Lanka, with their qualification hopes significantly impacted by the weather. Following England's win over New Zealand, Pakistan's destiny is in their own hands, but a washout would favor New Zealand. The team must secure a substantial victory to advance.",
@@ -250,33 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-vs-sri-lanka-washout-scenario-who-will-reach-t20-world-cup-2026-semifinals/articleshow/128875985.cms",
     "time": "2026-02-28T06:14:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gwyneth Paltrow, Jenna Ortega and Delroy Lindo to present at 2026 actor awards",
-    "desc": "Gwyneth Paltrow, Jenna Ortega, and Delroy Lindo are among the star-studded presenters for the 32nd annual Actor Awards, formerly the SAG Awards. The ceremony, hosted by Kristen Bell, will stream live on Netflix on March 1, 2026, celebrating outstanding achievements in film and television.",
-    "img": "https://static.toiimg.com/photo/msid-128876092,imgsize-787514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/actor-awards-2026-gwyneth-paltrow-jenna-ortega-among-presenters-at-sag-awards-one-battle-after-another-leads-nominations/articleshow/128875965.cms",
-    "time": "2026-02-28T06:14:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Scary Movie 6’ trailer leaks online: What we know",
-    "desc": "Scary Movie 6 is back in June 2026 with its signature scare-comedy, more than ten years since the franchise last spoofed the genre. A leaked trailer skewers contemporary fright films like M3GAN and Smile, bringing back Anna Faris, Regina Hall, and the Wayans brothers, Marlon and Shawn. Prepare for bigger laughs and plenty of familiar cameos.",
-    "img": "https://static.toiimg.com/photo/msid-128875879,imgsize-147242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/scary-movie-6-trailer-leaks-online-every-line-will-be-crossed-heres-what-we-know/articleshow/128875843.cms",
-    "time": "2026-02-28T06:05:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Selena Gomez and Benny Blanco’s Santa Barbara wedding revealed",
-    "desc": "Selena Gomez and Benny Blanco's September 27, 2025, wedding in Santa Barbara was officiated by their friend Lil Dicky, who also shared a touching speech. The couple navigated a last-minute vow crisis, with Blanco finding Gomez's lost handwritten vows just in time. The star-studded event featured guests like Taylor Swift and a lively reception.",
-    "img": "https://static.toiimg.com/photo/msid-128875850,imgsize-669752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/selena-gomez-and-benny-blancos-santa-barbara-wedding-revealed-lil-dicky-officiated-the-heartfelt-ceremony/articleshow/128875840.cms",
-    "time": "2026-02-28T06:02:55.000Z"
   },
   {
     "cat": "Politics",
@@ -288,15 +405,6 @@ const newsData_en = [
     "time": "2026-02-28T06:01:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kerala Story 2 producer BREAKS SILENCE after HC lifts stay",
-    "desc": "The Kerala High Court has cleared the release of 'The Kerala Story 2 Goes Beyond' by lifting the interim stay. Producer Vipul Amrutlal Shah confirmed that the court found the CBFC's certification process—overseen by an eight-member panel including social workers and experts—acceptable, overturning the earlier injunction that blocked the film's release. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128875684,imgsize-127930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-kerala-story-2-producer-vipul-amrutlal-shah-breaks-silence-after-high-court-lifts-interim-stay-on-the-films-release/articleshow/128875684.cms",
-    "time": "2026-02-28T05:58:12.000Z"
-  },
-  {
     "cat": "World",
     "title": "Cuba unveils new details in fatal U.S. boat shooting and says a second boat on mission failed",
     "desc": "“Authorities were able to establish that the 10 Cuban suspects left the U.S. in two boats, but one failed, so they transferred all the supplies to the remaining one and left the other adrift,” says Officials",
@@ -306,15 +414,6 @@ const newsData_en = [
     "time": "2026-02-28T05:39:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Zack Snyder opens up about the SnyderVerse’s future",
-    "desc": "Zack Snyder, the architect of the SnyderVerse, spoke frankly about its future and James Gunn's newly launched DCU. A live-action return remains uncertain, but Snyder said he's open to exploring comics or animation. He also voiced support for Gunn's direction, praising his distinctive storytelling and wishing him success with the revamped DC universe.",
-    "img": "https://static.toiimg.com/photo/msid-128875190,imgsize-119020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/a-weed-that-wont-die-zack-snyder-opens-up-about-the-snyderverses-future-and-shares-his-thoughts-on-james-gunns-dcu/articleshow/128875144.cms",
-    "time": "2026-02-28T05:32:13.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump administration seeks delay in tariff refunds battle",
     "desc": "The high court ruling last week marked a stunning rebuke of the President's signature economic policy, and opened the doors to what experts say will be a complicated, legally fraught refund process as importers sue for their money back",
@@ -322,15 +421,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-administration-seeks-delay-in-tariff-refunds-battle/article70687021.ece",
     "time": "2026-02-28T05:26:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "O. Panneerselvam: A man undone by his own decisions",
-    "desc": "When he joined the DMK in the presence of Chief Minister M.K.Stalin, Mr. Panneerselvam was accompanied by only one legislator, P. Ayyappan. After his expulsion from the AIADMK in July 2022, Mr Panneerselvam had the support of two prominent leaders - R. Vaithilingam and P.H. Manoj Pandian. They joined the DMK recently.",
-    "img": "https://th-i.thgim.com/public/incoming/23iz8k/article70685771.ece/alternates/LANDSCAPE_1200/DSC_8532.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/o-panneerselvam-a-man-undone-by-his-own-decisions/article70685637.ece",
-    "time": "2026-02-28T05:26:21.000Z"
   },
   {
     "cat": "Sports",
@@ -576,24 +666,6 @@ const newsData_en = [
     "time": "2026-02-27T17:59:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Government suspends fortified rice rollout in welfare schemes citing shelf-life concerns",
-    "desc": "The government has temporarily halted rice fortification under free food schemes after a study revealed micronutrient loss during prolonged storage. IIT-Kharagpur's research highlighted that moisture, temperature, and packaging critically impact fortified rice stability, shortening its effective shelf life. This decision aims to ensure nutritional outcomes are met while exploring better delivery methods, assuring beneficiaries no reduction in foodgrain entitlements.",
-    "img": "https://static.toiimg.com/photo/msid-128861227,imgsize-851593.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/government-suspends-fortified-rice-rollout-in-welfare-schemes-citing-shelf-life-concerns/articleshow/128861079.cms",
-    "time": "2026-02-27T17:45:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England top Super 8 group, keep Pakistan's hopes alive with NZ win",
-    "desc": "England defeated New Zealand by four wickets in a thrilling Super Eights clash, chasing down 160 with three balls to spare. Will Jacks and Rehan Ahmed starred in a dramatic late comeback after England were 117/6. The win kept Pakistan’s semifinal hopes alive, while England finished unbeaten and topped Group 2.",
-    "img": "https://static.toiimg.com/photo/msid-128861043,imgsize-163316.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/england-top-super-8-group-keep-pakistans-semi-final-hopes-alive-with-new-zealand-win/articleshow/128860740.cms",
-    "time": "2026-02-27T17:41:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Deepinder Goyal’s health tech startup 'Temple' secures $54 million funding, valued at $190 million",
     "desc": "Zomato founder Deepinder Goyal's new health tech venture, Temple, has secured $54 million in its first funding round from friends and family, valuing the company at approximately $190 million. The startup is developing a wearable device for elite athletes and is actively recruiting individuals with a strong commitment to fitness and scientific expertise.",
@@ -604,39 +676,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "What Pak must to do now to qualify for semis",
-    "desc": "England now have three wins from three matches in the Super Eights. New Zealand sit second in Group 2 with three points, while Pakistan are third with one point. Pakistan must register a big win against already-eliminated Sri Lanka on Saturday to move ahead of New Zealand and qualify for the semifinals.",
-    "img": "https://static.toiimg.com/photo/msid-128860295,imgsize-63026.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/england-beat-new-zealand-by-4-wickets-what-pakistan-need-to-do-now-to-qualify-for-t20-world-cup-semifinals/articleshow/128860309.cms",
-    "time": "2026-02-27T17:22:24.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Five-star Nabi, dashing Qamran flatten Karnataka",
     "desc": "The pacer’s two blows hasten the end of Karnataka’s innings despite Mayank’s defiant century; opener comes to the visitors’ rescue after early setbacks to extend the advantage and puts it on the brink of a historic triumph",
     "img": "https://th-i.thgim.com/public/incoming/htbm06/article70685522.ece/alternates/LANDSCAPE_1200/_DSC4473.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/five-star-nabi-helps-j-amp-k-secure-a-massive-lead/article70684955.ece",
     "time": "2026-02-27T17:13:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Restoration of Domakonda palace fuels weaving, literature and community life",
-    "desc": "Once filled with debris and snakes, the Domakonda palace complex has been restored into a vibrant cultural hub. Blending architectural conservation, literary heritage and handloom revival, the initiative led by the Kaminenis is rekindling poetry and traditional weaving — breathing new life into a historic village",
-    "img": "https://th-i.thgim.com/public/news/national/telangana/jtqcqs/article70685638.ece/alternates/LANDSCAPE_1200/IMG_3048.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/restoration-of-domakonda-palace-fuels-weaving-literature-and-community-life/article70684701.ece",
-    "time": "2026-02-27T17:06:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Grey areas persist as key audit gaps surface in Hyderabad Metro Phase‑I buyout",
-    "desc": "With only preliminary audit reports in hand, State government’s proposed ₹15,000-crore takeover of Hyderabad Metro Phase I remains uncertain. Final findings on financial records, technical condition and contractual liabilities will determine the contours of the deal and shape the future of Phase II expansion",
-    "img": "https://th-i.thgim.com/public/incoming/km7d1r/article70684664.ece/alternates/LANDSCAPE_1200/19032025_Telangana%20budget%20Assembly%2001.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/grey-areas-persist-as-key-audit-gaps-surface-in-hyderabad-metro-phase%E2%80%90i-buyout/article70684435.ece",
-    "time": "2026-02-27T17:00:59.000Z"
   },
   {
     "cat": "Business",
@@ -655,33 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/india-gdp-growth-q3-fy26-economy-new-data-series-govt/article70683802.ece",
     "time": "2026-02-27T13:56:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anthem blunder in Colombo! NZ players left laughing",
-    "desc": "An interesting moment occurred before the England-New Zealand clash in Colombo when New Zealand’s national anthem played in fast forward, leaving players laughing. New Zealand won the toss and chose to bat, keeping the same XI, while England brought in Rehan Ahmed. England are already in the semifinals, while New Zealand must win to qualify.",
-    "img": "https://static.toiimg.com/photo/msid-128853389,imgsize-52414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/anthem-blunder-in-colombo-new-zealand-players-left-laughing-before-eng-vs-nz-clash-watch/articleshow/128853245.cms",
-    "time": "2026-02-27T13:42:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bollywood stars who turned down Hollywood projects",
-    "desc": "Over the years, several Bollywood stars have chosen to step away for reasons ranging from scheduling conflicts to creative preferences, comfort levels, or simply because they didn't want to audition for the part. From Deepika Padukone to Ranbir Kapoor and Aishwarya Rai, here's a look at some prominent Indian actors who bowed out of big Hollywood projects.",
-    "img": "https://static.toiimg.com/photo/msid-128842085,imgsize-35010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-to-aishwarya-rai-bollywood-stars-who-turned-down-hollywood-projects/photostory/128842085.cms",
-    "time": "2026-02-27T12:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dropped catches hurt India as Aus win 2nd ODI, take 6-4 lead in all-format series",
-    "desc": "Australia Women secured a commanding five-wicket victory over India Women, clinching the ODI series 2-0. Georgia Voll's century and Phoebe Litchfield's brisk 80 laid the foundation for the successful chase after India posted 251/9. This win extends Australia's all-format series lead, leaving India with much to ponder.",
-    "img": "https://static.toiimg.com/photo/msid-128846638,imgsize-42988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dropped-catches-hurt-india-as-australia-win-second-odi-by-five-wickets-take-6-4-lead-in-all-format-series/articleshow/128846335.cms",
-    "time": "2026-02-27T11:19:49.000Z"
   },
   {
     "cat": "World",
@@ -727,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/melania-trump-to-preside-over-un-security-council-meeting-in-a-first-for-a-first-lady/article70682988.ece",
     "time": "2026-02-27T07:21:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What Team India needs to do to reach semi-finals",
-    "desc": "India's path to the T20 World Cup 2026 semi-finals is now clear, with a win against West Indies at Eden on Sunday securing their spot. Following South Africa's victory, the final Group 1 match is a virtual quarterfinal. India's dominant batting performance against Zimbabwe set them up for this crucial encounter.",
-    "img": "https://static.toiimg.com/photo/msid-128838910,imgsize-189116.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-qualification-scenario-t20-world-cup-what-team-india-needs-to-do-to-reach-semi-finals/articleshow/128838829.cms",
-    "time": "2026-02-27T06:19:27.000Z"
   },
   {
     "cat": "World",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/samsung-galaxy-s26-ultra-s26-and-galaxy-s26-launched-features-and-price/article70675637.ece",
     "time": "2026-02-26T07:05:32.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Pakistan and the Board of Peace",
-    "desc": "Its initial support and verbal commitment to reconstruction efforts can be seen as a move to be on the right side of the Trump administration, but when faced with concrete demand for troops, Islamabad has opted for caution",
-    "img": "https://th-i.thgim.com/public/incoming/ynfx2w/article70677133.ece/alternates/LANDSCAPE_1200/Switzerland_Davos_Trump_16862.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/opinion/op-ed/pakistan-and-the-board-of-peace/article70677130.ece",
-    "time": "2026-02-26T01:27:13.000Z"
   }
 ];

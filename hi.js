@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "CM Omar Abdullah announces Rs 2 crore cash prize for Jammu and Kashmir players after historic Ranji title win",
+    "desc": "Jammu and Kashmir scripted history and clinched their maiden Ranji Trophy title. The side took on Karnataka in the summit clash of the tournament in Hubballi, and after the game was ultimately drawn, Jammu and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cm-omar-abdullah-announces-rs-2-crore-cash-prize-for-jammu-and-kashmir-players-after-historic-ranji-title-win-2026-02-28-1032073",
+    "time": "2026-02-28T12:02:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kris Srikkanth rates West Indies' chances against India ahead of crucial clash in Kolkata",
+    "desc": "India is all set to take on the West Indies in game 52 of the ongoing T20 World Cup 2026. The two sides will lock horns at the Eden Gardens in Kolkata on March 1,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kris-srikkanth-rates-west-indies-chances-against-india-ahead-of-crucial-clash-in-kolkata-2026-02-28-1032063",
+    "time": "2026-02-28T10:50:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer previews India's upcoming crucial World Cup clash against the West Indies",
     "desc": "Game 52 of the ongoing T20 World Cup 2026 will see India taking on the West Indies. The two sides will lock horns at the Eden Gardens in Kolkata on March 1, and the game...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pallekelle-weather-report-will-rain-spoil-sl-vs-pak-t20-world-cup-2026-super-eight-clash-2026-02-28-1032000",
     "time": "2026-02-28T01:41:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What do Pakistan need to do to qualify for the T20 World Cup 2026 knockouts? Check scenarios",
-    "desc": "Game 49 of the ongoing T20 World Cup 2026 saw England take on New Zealand. The two sides locked horns at the R. Premadasa Stadium in Colombo, and England managed to register a four-wicket win...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-do-pakistan-need-to-do-qualify-for-the-t20-world-cup-2026-knockouts-check-scenarios-2026-02-27-1031990",
-    "time": "2026-02-27T17:40:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England stun New Zealand with thrilling win, keep Pakistan alive in T20 World Cup",
-    "desc": "New Zealand and England locked horns in game 49 of the ongoing T20 World Cup 2026. The two sides took on each other at the R. Premadasa Stadium in Colombo on February 27. The clash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-stun-new-zealand-with-thrilling-win-keep-pakistan-alive-in-t20-world-cup-2026-02-27-1031985",
-    "time": "2026-02-27T16:59:44.000Z"
   }
 ];
