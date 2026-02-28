@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ইজরায়েল আর মার্কিন হামলায় নিহত খামেইনি? জ্বলতে থাকা তেহরানে বাড়ছে অনিশ্চয়তা!",
+    "desc": "আমেরিকা আর ইজরায়েলের যৌথ বিমান হামলায় জ্বলছে ইরান। আর এর মাঝেই সর্বোচ্চ নেতা আয়তোল্লা আলি খামেইনি ঠিক কোথায় রয়েছেন তা নিয়ে অনিশ্চয়তা তৈরি হয়েছে। ইজরায়েলের সংবাদমাধ্যমে দাবি করা হয়েছে, তিনি হয়তো হামলায় নিহত হয়েছেন। তবে এ বিষয়ে এখনও ইরান সরকারের পক্ষ থেকে কোনও সরকারি নিশ্চিতকরণ পাওয়া যায়নি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/khameini-1-2026-02-95ff468e42b65418f79acd900707d7d8-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/irans-khamenei-dead-or-alive-heres-what-we-know-so-far-amid-us-israel-strikes-on-tehran-know-more-details-smc-2563023.html",
+    "time": "2026-02-28T17:59:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "শ্রীলঙ্কার বিরুদ্ধে জয় পেলেও বিশ্বকাপ থেকে ছিটকে গেল পাকিস্তান! ম্যাচ শেষের অঙ্ক মেলাতে পারলেন না সলমনরা",
+    "desc": "শনিবারের রাতের এই জয়টা সত্যিই পাকিস্তানের জন্য কষ্টদায়ক। ICC Men's T20 World Cup থেকে তাদের বিদায় কার্যত নিশ্চিত হয়ে যায় শনিবার পাল্লেকেলেতে শ্রীলঙ্কার বিরুদ্ধে ম্যাচ চলাকালীনই। সেমিফাইনালে উঠতে হলে শুধু জিতলেই হত না—শ্রীলঙ্কাকে ১৪৭ রানের মধ্যে আটকে রাখতে হত। কিন্তু সে পথে হাঁটতেই পারল না পাকিস্তান।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/pakistan-121-2026-02-af4248b8dd0155a73e330c13a7995387-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/pakistan-won-against-srilanka-but-could-not-qualify-for-semi-final-in-icc-t20-world-cup-smc-2563007.html",
+    "time": "2026-02-28T17:25:07.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "রঞ্জিতে ইতিহাস, দ্রাবিড়িয়ান ক্রিকেট সভ্যতাকে উড়িয়ে দিল কাশ্মীরের ঝোড়ো হাওয়া...",
     "desc": "টস জিতে ব্যাট করতে নেমে জম্মু-কাশ্মীর তুলেছিল ৫৮৪ রান | শুভম পুণ্ডির ১২১, ইয়াওয়ার হাসানের ৮৮, সাহিল লোতরার ৭২ এবং অধিনায়ক পরেশ ডোগরার ৭০ রানের ইনিংসকে ঢাল করেই কর্ণাটকের বিরুদ্ধে রানের পাহাড় তোলে জম্মু-কাশ্মীর |প্রসিদ্ধ কৃষ্ণা নেন ৫ উইকেট, যদিও তাতে বিশেষ কিছু লাভ হয়নি",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/india-bangladesh-india-has-begun-the-process-of-fully-restoring-visa-services-in-bangladesh-following-recent-political-developments-in-dhaka-under-the-leadership-of-tarique-rahman-rm-2550506.html",
     "time": "2026-02-20T17:00:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "মোদির প্রশংসা করে ট্রাম্পের দাবি ভারত-পাক দ্বন্দ্বের সময় ধ্বংস হয়েছিল ১১টি অত্যাধুনিক জেট!",
-    "desc": "গত বছর অর্থাৎ ২০২৫ সালে ভারত-পাক দ্বন্দ্বের সময় মোট ১১টি অত্যাধুনিক দামি জেট গুলি করে নামানো হয় বলে দাবি করলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। শুক্রবার এই দাবির পাশাপাশি ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদিকে 'বড় মাপের মানুষ' বলে অভিহিত করেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/america-2026-02-690fc27df8ec76c40f453047dfe92d7e-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/11-jets-were-shot-down-during-india-pak-clash-says-donald-trump-smc-2550449.html",
-    "time": "2026-02-20T15:52:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "অভিনয়ের নেশা যখন মানসিক ব্যাধি! অবচেতন মনের রহস্য সমাধানে দেবরাজ-প্রিয়াঙ্কা-ঋতব্রত...",
-    "desc": "মানুষের অবচেতন মনের গোলকধাঁধা আর অভিনয়ের জগতের এক অন্ধকার অধ্যায় নিয়ে মুক্তি পেল স্বল্পদৈর্ঘ্য চলচ্চিত্র ‘সব চরিত্ররা’। পরিচালক দীপ মোদকের এই ছবিতে অভিনয় করেছেন ঋতব্রত মুখোপাধ্যায়, প্রিয়াঙ্কা এবং দেবরাজ। ২০ ফেব্রুয়ারি ইউটিউবে মুক্তি পেল ছবিটি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/sob-charitrara-deep-modak-rwitobroto-priyanka-debraj-release-date_642126.html ",
-    "time": "2026-02-20T15:25:03.000Z"
   }
 ];
