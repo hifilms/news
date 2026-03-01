@@ -1,12 +1,21 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "“ইতিহাসের অন্যতম দুষ্ট মানুষ খামেনেই মৃত”! কী ভাবে 'খুন' করা হল তাঁকে? গোটা 'প্ল্যান' বিশদে জানালেন ট্রাম্প",
+    "desc": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ট্রুথ সোশ্যাল-এ একটি বিস্ফোরক পোস্ট করে দাবি করেছেন, ইরানের সর্বোচ্চ নেতা আয়াতোল্লা আলি খামেনেই নিহত হয়েছেন। “ইতিহাসের অন্যতম দুষ্ট মানুষ” বলে উল্লেখ করে ট্রাম্প জানান, মার্কিন গোয়েন্দা সংস্থার সহায়তায় পরিচালিত সামরিক অভিযানে খামেনেইকে টার্গেট করা হয়েছে। তবে ইরানের পক্ষ থেকে এই দাবি সম্পূর্ণ অস্বীকার করা হয়েছিল শুরুতে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Trump-khamenei-2026-03-dd5430e29670acc5aa5b25a1ea8533a8-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/trump-claimed-that-us-intelligence-highly-sophisticated-tracking-systems-had-successfully-targeted-khamenei-secure-compound-in-tehran-tib-ws-l-2563156.html",
+    "time": "2026-03-01T04:36:34.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "শ্রীলঙ্কার বিরুদ্ধে জয় পেলেও বিশ্বকাপ থেকে ছিটকে গেল পাকিস্তান! ম্যাচ শেষের অঙ্ক মেলাতে পারলেন না সলমনরা",
     "desc": "শনিবারের রাতের এই জয়টা সত্যিই পাকিস্তানের জন্য কষ্টদায়ক। ICC Men's T20 World Cup থেকে তাদের বিদায় কার্যত নিশ্চিত হয়ে যায় শনিবার পাল্লেকেলেতে শ্রীলঙ্কার বিরুদ্ধে ম্যাচ চলাকালীনই। সেমিফাইনালে উঠতে হলে শুধু জিতলেই হত না—শ্রীলঙ্কাকে ১৪৭ রানের মধ্যে আটকে রাখতে হত। কিন্তু সে পথে হাঁটতেই পারল না পাকিস্তান।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/pak-32-2026-03-85d5dce6013e8d114358dbe59e411aed-1200x800.jpeg",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-01-at-8.31.05-AM-2026-03-e9d2ac68b26ba1a73808c621f8e741e2-1200x800.jpeg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/pakistan-won-against-srilanka-but-could-not-qualify-for-semi-final-in-icc-t20-world-cup-smc-2563007.html",
-    "time": "2026-02-28T18:32:16.000Z"
+    "time": "2026-03-01T03:03:53.000Z"
   },
   {
     "cat": "World",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/cyclonic-circulation-imd-21-22-23-24-february-heavy-rain-alert-for-4-states-thunderstorm-gusty-wind-alert-for-6-states-due-to-several-system-in-bay-of-bengal-know-latest-west-bengal-weather-sanj-2550766.html",
     "time": "2026-02-21T03:29:32.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "India-Bangladesh: তারেক-জমানায় পরিস্থিতি বদলের ইঙ্গিত,বাংলাদেশে সব রকম ভিসা পরিষেবা চালু করার প্রক্রিয়া শুরু করল ভারত",
-    "desc": "বাংলাদেশের ছাত্রনেতা ওসমান হাদির মৃত্যুর পর থেকেই বাংলাদেশে নতুন করে অশান্তি শুরু হয়। গত বছরের শেষ দিকে সেই অশান্তির কারণে বাংলাদেশে থাকা বিভিন্ন ভিসাকেন্দ্র বন্ধ করে দেওয়ার সিদ্ধান্ত নেয় নয়াদিল্লি। ভারতে তাদের ভিসাকেন্দ্রে অনির্দিষ্ট কালের জন্য তালা ঝোলায় বাংলাদেশ-ও। তবে বাংলাদেশে নতুন সরকারের জমানায় পরিস্থিতি বদলের ইঙ্গিত মিলেছে",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sasd-2026-02-be23c4d5355554b6f409d0c37e93bca8-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/india-bangladesh-india-has-begun-the-process-of-fully-restoring-visa-services-in-bangladesh-following-recent-political-developments-in-dhaka-under-the-leadership-of-tarique-rahman-rm-2550506.html",
-    "time": "2026-02-20T17:00:23.000Z"
   }
 ];

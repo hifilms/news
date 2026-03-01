@@ -1,6 +1,249 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Kerala Story' director slams 'DOUBLE STANDARDS' of CBFC",
+    "desc": "Filmmaker Sudipto Sen, best known for The Kerala Story, questions the Central Board of Film Certification’s apparent double standards, noting that violent films often clear clearance quickly while genuine real-life narratives face propaganda accusations and bureaucratic hurdles. He also points to the outdated Cinematograph Act and calls for a fairer, more transparent certification process. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128905475,imgsize-161784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-kerala-story-director-sudipto-sen-calls-out-double-standards-of-cbfc-our-censor-board/articleshow/128905475.cms",
+    "time": "2026-03-01T04:34:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Byun Yo Han and Tiffany Young wed their marriage",
+    "desc": "Two months after going public with their relationship, Byun Yo Han and Tiffany Young have tied the knot through marriage registration. The agency dismissed rumors of a premarital pregnancy, emphasizing that marriage was always intended. The pair initially connected while filming the 2024 drama Uncle Samsik, where their romance began.",
+    "img": "https://static.toiimg.com/photo/msid-128905501,imgsize-42804.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/byun-yo-han-and-tiffany-young-tie-the-knot-react-to-pregnancy-rumours/articleshow/128905501.cms",
+    "time": "2026-03-01T04:32:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cara Delevingne opens up about dealing with social media",
+    "desc": "Cara Delevingne is candidly discussing her decision to step back from social media, citing algorithms that negatively impact mental well-being. She emphasizes the importance of curating feeds with uplifting content, particularly spotlighting women's achievements and positive news. Delevingne finds more meaning in supporting real-world initiatives like GoFundMe pages over aimless scrolling, especially during challenging times.",
+    "img": "https://static.toiimg.com/photo/msid-128905387,imgsize-446416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cara-delevingne-opens-up-about-dealing-with-social-media/articleshow/128905410.cms",
+    "time": "2026-03-01T04:26:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BLACKPINK’s Rose makes history as first K-pop artist to win BRIT award for ‘APT’ with Bruno Mars",
+    "desc": "BLACKPINK's Rosé achieved a historic milestone, becoming the first K-pop artist to win a BRIT Award for International Song of the Year with her hit collaboration 'APT.' featuring Bruno Mars. The chart-topping track, released in October 2025, secured the win through a public vote, highlighting its immense global popularity and Rosé's significant impact on the international music scene.",
+    "img": "https://static.toiimg.com/photo/msid-128905281,imgsize-699016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/blackpinks-rose-makes-history-as-first-k-pop-artist-to-win-brit-award-for-apt-with-bruno-mars/articleshow/128905242.cms",
+    "time": "2026-03-01T04:21:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kim Soo Hyun’s legal rep addresses ‘Knock Off’ rumours",
+    "desc": "In a statement from his legal representatives, Kim Soo Hyun rejects the circulating 'Knock Off' chatter and indicates a TV comeback is highly probable. The lawyers also push back on claims of a relationship with Kim Sae Ron during her underage years, stressing his innocence while investigations continue to determine the facts.",
+    "img": "https://static.toiimg.com/photo/msid-128905121,imgsize-96886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/kim-soo-hyun-returning-to-the-small-screen-with-knock-off-legal-rep-posts-statement/articleshow/128905121.cms",
+    "time": "2026-03-01T04:14:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alicia Keys’ husband Swizz Beatz faces USD 5.7 million tax debt",
+    "desc": "Grammy-winning producer Swizz Beatz owes the IRS a staggering USD 5.7 million in unpaid federal taxes. This debt includes a recent lien for 2024 income taxes, adding to previous outstanding amounts from 2022 and 2023. While his representatives state the situation is \"old news\" and some debt is disputed, the IRS has a legal claim on his assets.",
+    "img": "https://static.toiimg.com/photo/msid-128905116,imgsize-358662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/alicia-keys-husband-swizz-beatz-faces-usd-5-7-million-tax-debt/articleshow/128905130.cms",
+    "time": "2026-03-01T04:12:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "OPEC+ mulls oil production increase in shadow of war",
+    "desc": "The virtual meeting by the eight members of the Organization of the Petroleum Exporting Countries and allied nations (OPEC+) known as the \"Voluntary Eight\" (V8) comes a day after the U.S. and Israel launched an ongoing wave of strikes on Iran",
+    "img": "https://th-i.thgim.com/public/incoming/wmf6qy/article70690654.ece/alternates/LANDSCAPE_1200/2026-02-28T165601Z_1540035649_RC2W7FAXNNY4_RTRMADP_3_IRAN-CRISIS-OIL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/opec-mulls-oil-production-increase-in-shadow-of-war/article70690633.ece",
+    "time": "2026-03-01T04:08:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What happens if the match gets washed out?",
+    "desc": "India face West Indies in a crucial T20 World Cup 2026 virtual quarterfinal at Eden Gardens on Sunday. A win secures a semifinal spot against England, while a loss ends India's campaign. With a concerning net run rate, India must win, as a washout would see them eliminated due to West Indies' superior NRR.",
+    "img": "https://static.toiimg.com/photo/msid-128879649,imgsize-51336.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-west-indies-t20-world-cup-2026-super-8s-what-happens-if-the-ind-vs-wi-match-gets-washed-out/articleshow/128879560.cms",
+    "time": "2026-03-01T04:05:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanath Jayasuriya decides to step down after World Cup disappointment",
+    "desc": "Sri Lanka's head coach Sanath Jayasuriya has stepped down following the team's T20 World Cup 2026 exit. Despite a narrow loss to Pakistan, Jayasuriya expressed disappointment at not ending his tenure on a high note. His contract concludes in June, with formal discussions with Sri Lanka Cricket pending.",
+    "img": "https://static.toiimg.com/photo/msid-128904792,imgsize-71106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sanath-jayasuriya-decides-to-step-down-after-t20-world-cup-disappointment/articleshow/128904798.cms",
+    "time": "2026-03-01T03:55:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sulli's brother shares UNSEEN video of the late K-pop idol",
+    "desc": "Six years after Sulli's passing, her brother shared an unreleased video and a childhood photo to honor the late idol. In the tribute, he also voiced concern over a forest fire near her grave, believing a recent dream of Sulli may be linked to the blaze and underscoring his anxiety about its cause.",
+    "img": "https://static.toiimg.com/photo/msid-128904372,imgsize-75108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/sullis-brother-shares-gift-for-fans-with-unseen-video-of-the-late-k-pop-idol/articleshow/128904372.cms",
+    "time": "2026-03-01T03:32:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India won't 'mask pressure' even as Darren Sammy rallies a war cry",
+    "desc": "India head into a virtual quarter-final against West Indies at Eden Gardens determined to embrace, not mask, pressure. While Darren Sammy has issued a war cry, India’s management insists on reframing pressure as privilege. With South Africa unbeaten and a semi-final spot at stake, Sunday’s clash promises a high-stakes contest between two T20 heavyweights ready to fight fire with fire.",
+    "img": "https://static.toiimg.com/photo/msid-128904292,imgsize-62572.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-india-wont-mask-pressure-even-as-darren-sammy-rallies-a-war-cry/articleshow/128904257.cms",
+    "time": "2026-03-01T03:31:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kerala Story 2 director REACTS to film's release; 'Satya...'",
+    "desc": "Goes Beyond' director Kamakhya Narayan Singh stated truth prevails, calling the film an emotion. He emphasized the responsibility to expose how daughters are trapped and victimized. Singh dismissed protests as the work of 'lumpen elements,' asserting freedom of expression for the spiritual sequel that resonates nationwide. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128904349,imgsize-116558.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-kerala-story-2-director-kamakhya-narayan-singh-reacts-to-film-releasing-in-theaters-satya-kabhi-parajit-nahi-hota/articleshow/128904349.cms",
+    "time": "2026-03-01T03:31:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘444 flights expected to be cancelled on March 1’: Civil aviation ministry shares update amid Middle East crisis",
+    "desc": "Over 410 domestic flights were cancelled on Saturday and 444 are expected on Sunday due to ongoing airspace restrictions over Iran and the Middle East. The Ministry of Civil Aviation is closely monitoring the situation, coordinating with airlines and airports to minimize passenger inconvenience and ensure safety.",
+    "img": "https://static.toiimg.com/photo/msid-128904327,imgsize-48404.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/444-flights-expected-to-be-cancelled-on-march-1-civil-aviation-ministry-shares-update-amid-middle-east-crisis/articleshow/128902930.cms",
+    "time": "2026-03-01T03:27:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BLACKPINK's Lisa sparks frenzy teasing solo comeback",
+    "desc": "BLACKPINK's Lisa has fans buzzing after hinting at a new solo album during a recent Instagram Live session celebrating the group's latest release, DEADLINE. Despite technical difficulties splitting the members into pairs, Lisa's playful confirmation of a fan's comment about her upcoming music has ignited excitement for her next musical endeavor, following her successful debut hits.",
+    "img": "https://static.toiimg.com/photo/msid-128904321,imgsize-742709.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/blackpink-star-lisa-teases-new-solo-album-during-chaotic-social-media-live-sends-blinks-into-overdrive/articleshow/128904311.cms",
+    "time": "2026-03-01T03:25:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Canada-India negotiating economic partnership agreement to double two-way trade by 2030: PM Carney",
+    "desc": "“This is an enormous opportunity for both our countries.. but it is one that is about to move to the next level. We should aim much higher, and we are aiming much higher, and to be more strategic in our partnership,” Mr. Carney said",
+    "img": "https://th-i.thgim.com/public/incoming/x3gasg/article70689253.ece/alternates/LANDSCAPE_1200/Canada_India_Carney_24721.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/canada-india-negotiating-economic-partnership-agreement-to-double-two-way-trade-by-2030-pm-carney/article70689183.ece",
+    "time": "2026-03-01T03:22:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Verify before posting trash’",
+    "desc": "Director Chidambaram has vehemently denied rumors of a collaboration with actor Dileep on a survival thriller, urging social media users to verify information and stating he has no involvement in such a project. His upcoming film, Balan, has already earned praise from filmmaker Ram Gopal Varma after a preview.",
+    "img": "https://static.toiimg.com/photo/msid-128904108,imgsize-79054.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/manjummel-boys-director-chidambaram-denies-dileep-film-rumours-says-please-verify-before-you-post-trash/articleshow/128904108.cms",
+    "time": "2026-03-01T03:17:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How an Indian throwdown specialist is boosting West Indies' power-hitters",
+    "desc": "Mumbai's side-arm throwdown specialist Abhishek Jain received a surprise call to bowl for the West Indies team during their practice session. Impressing coach Darren Sammy with his pace and accuracy, Jain was asked to be called daily for upcoming sessions. He also shared his gratitude towards KL Rahul for past support.",
+    "img": "https://static.toiimg.com/photo/msid-128904051,imgsize-111766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-how-an-indian-throwdown-specialist-is-boosting-west-indies-power-hitters-exclusive/articleshow/128904044.cms",
+    "time": "2026-03-01T03:11:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When art wilts under the sun",
+    "desc": "The impacts of climate change are not for the future, they are here, now, and will only inconvenience humans more over time. Geetha Srimathi looks at how the trade and health of folk artistes of Tamil Nadu have already been deeply impacted by the growing summer heat",
+    "img": "https://th-i.thgim.com/public/incoming/ppekun/article70689063.ece/alternates/LANDSCAPE_1200/sunday%20story2315_7_3_2021_14_28_5_1_COOL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/when-art-wilts-under-the-sun/article70687911.ece",
+    "time": "2026-03-01T03:10:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BTS’ V sparks acting rumors after mystery sighting at Seoul high school",
+    "desc": "BTS star V has sparked fan speculation after an alleged sighting near a Seoul high school. Eyewitness photos shared online fueled theories about a potential acting role or a high school-themed advertisement. This sighting adds intrigue as BTS prepares for their 'ARIRANG' comeback in March.",
+    "img": "https://static.toiimg.com/photo/msid-128904091,imgsize-425412.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/bts-v-sparks-return-of-actor-taehyung-after-mystery-sighting-at-seoul-high-school-ahead-of-arirang-comeback/articleshow/128904094.cms",
+    "time": "2026-03-01T03:09:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "For 61 lakh 'doubtful' voters, it's a race against time to get on electoral roll",
+    "desc": "Around 60 lakh electors in West Bengal have been classified as 'doubtful' and await adjudication by judicial officers, following a Supreme Court directive. These voters, potentially illegal immigrants from Bangladesh, will be excluded from the electoral list until their cases are resolved, creating a race against time before the upcoming assembly elections.",
+    "img": "https://static.toiimg.com/photo/msid-128904090,imgsize-1862484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/for-61-lakh-doubtful-voters-its-a-race-against-time-to-get-on-electoral-roll/articleshow/128904060.cms",
+    "time": "2026-03-01T03:06:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'There was an explosion': PV Sindhu shares terrifying update from Dubai",
+    "desc": "Badminton star PV Sindhu is stranded in Dubai after missile-related airspace disruptions suspended flights. Initially en route to the All England Open, she described a frightening explosion near the airport. Thanks to airport staff and the Indian High Commission, she and her team are safe in a secure location, awaiting the situation to stabilize and hoping to reach England.",
+    "img": "https://static.toiimg.com/photo/msid-128903797,imgsize-58962.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/there-was-an-explosion-pv-sindhu-shares-terrifying-update-from-dubai/articleshow/128903794.cms",
+    "time": "2026-03-01T02:50:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika arrives in palki for her wedding with Vijay",
+    "desc": "New photos from Rashmika Mandanna and Vijay Deverakonda's Udaipur wedding on February 26, 2026 reveal a regal celebration. The bride made a traditional palki entrance, as decor blended a 'Periodic Era' concept with deep Indian heritage. The couple observed Telugu Hindu and Kodava rites in two ceremonies, ahead of a March 4 Hyderabad reception. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128903558,imgsize-169980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-turns-wink-girl-and-radiates-bridal-glow-as-she-arrives-in-palki-for-wedding-with-vijay-deverakonda-pic/articleshow/128903558.cms",
+    "time": "2026-03-01T02:39:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Christina Applegate Shares MS Health Update",
+    "desc": "Actress Christina Applegate, battling multiple sclerosis since 2021, reveals her life is now largely confined to her bed due to debilitating pain. Despite over 30 hospitalizations, she cherishes driving her daughter to school. Her upcoming memoir details her resilience through childhood struggles, fame, and the profound impact of MS on her daily existence.",
+    "img": "https://static.toiimg.com/photo/msid-128903570,imgsize-1344838.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/christina-applegate-reveals-she-is-bedridden-amid-battle-with-multiple-sclerosis/articleshow/128903578.cms",
+    "time": "2026-03-01T02:35:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harry Styles performs 'Aperture' at BRIT Awards 2026",
+    "desc": "Harry Styles electrified the BRIT Awards 2026 in Manchester with the debut performance of his new single 'Aperture'. The track, a blend of electronic pop, heralds his upcoming album, 'Kiss All the Time. Disco, Occasionally', set for release on March 6. This marks a bold new era for the artist, following his successful solo career and the acclaimed 'Harry's House'.",
+    "img": "https://static.toiimg.com/photo/msid-128903446,imgsize-94060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-opens-brit-awards-2026-with-first-ever-live-performance-of-aperture-watch/articleshow/128903425.cms",
+    "time": "2026-03-01T02:29:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition raises SIR concerns in Gujarat Assembly debate; Speaker allows limited discussion on exercise",
+    "desc": "While Speaker Shankar Chaudhary had already allowed two Congress MLAs and one AAP legislator to speak on the Bill, Gujarat Forest and Environment Minister Arjun Modhwadia raised a point of order contending that matters pertaining to Election Commission of India (EC) cannot be discussed in the State Assembly",
+    "img": "https://th-i.thgim.com/public/incoming/krne7x/article70690510.ece/alternates/LANDSCAPE_1200/PTI11_26_2025_000572B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/gujarat/opposition-raises-sir-concerns-in-gujarat-assembly-debate-speaker-allows-limited-discussion-on-exercise/article70688599.ece",
+    "time": "2026-03-01T02:12:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Leonardo DiCaprio to miss 32nd Actor Awards",
+    "desc": "Leonardo DiCaprio will miss the 32nd annual Actor Awards due to overseas filming for Martin Scorsese's 'What Happens at Night'. He earned two nominations for his role in 'One Battle After Another', a film already garnering significant awards. This absence aligns with DiCaprio's established pattern of prioritizing production commitments.",
+    "img": "https://static.toiimg.com/photo/msid-128903050,imgsize-239387.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/leonardo-dicaprio-to-miss-32nd-actor-awards-as-what-happens-at-night-shoot-takes-priority/articleshow/128903052.cms",
+    "time": "2026-03-01T01:57:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Muthu Engira Kaattaan' OTT: Where to watch",
+    "desc": "Vijay Sethupathi's intense rural avatar will be seen in the web series 'Kaattaan', directed by Manikandan, premiering on JioHotstar on March 27. Meanwhile, the silent film 'Gandhi Talks', featuring Arvind Swamy and Aditi Rao Hydari with AR Rahman's score, is now available for rent on Prime Video and will stream free on ZEE5 from March 6.",
+    "img": "https://static.toiimg.com/photo/msid-128902837,imgsize-48172.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/tamil/muthu-engira-kaattaan-ott-update-vijay-sethupathi-leads-action-drama-when-and-where-to-watch/articleshow/128902837.cms",
+    "time": "2026-03-01T01:47:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'The Kerala Story 2' mints over Rs 4 crore on Day 2",
     "desc": "The Kerala Story 2: Goes Beyond debuts amid earlier legal challenges and has already pulled in Rs 5.40 crore by its second day. Helmed by Kamakhya Narayan Singh, the movie gained momentum once the Kerala High Court lifted the stay on its release, after petitions questioned its U/A certification. Read on to know more in detail.",
     "img": "https://static.toiimg.com/photo/msid-128902775,imgsize-123602.cms",
@@ -19,48 +262,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "All about Vikram’s home in Chennai",
-    "desc": "Chiyaan Vikram, the acclaimed Tamil actor, embraces a simple, eco-conscious life at his Chennai home in Mahalingapuram. The residence features a minimalist design and natural materials—teakwood and marble—framed by garden pockets and inner courtyards that cultivate serenity and sustainability. His deep commitment to his craft complements a grounded personal life.",
-    "img": "https://static.toiimg.com/photo/msid-128901704,imgsize-49266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/all-you-need-to-know-about-cobra-actor-vikrams-home-in-chennai/articleshow/128901704.cms",
-    "time": "2026-03-01T00:37:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "BRIT Awards 2026 complete winners' list",
     "desc": "At the 2026 BRIT Awards, Olivia Dean swept the night with four wins, led by Album of the Year and Artist of the Year. Rosalía broke new ground as the first Spanish-language International Artist of the Year winner, and Rosé of BLACKPINK became the first K-pop artist to win a BRIT.",
     "img": "https://static.toiimg.com/photo/msid-128901702,imgsize-114110.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/brit-awards-2026-complete-winners-list-olivia-dean-rose-k-pop-demon-hunters-win-big/articleshow/128901587.cms",
     "time": "2026-03-01T00:16:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Thaai Kizhavi' BO day 2: Film sees strong Saturday jump",
-    "desc": "'Thaai Kizhavi' has seen a significant surge in its box office earnings, collecting an estimated Rs 4.65 crore net on its second day. This impressive Saturday performance, following a Rs 2.65 crore opening, brings the total to Rs 7.30 crore. The film's strong occupancy, particularly in Tamil Nadu, suggests a promising weekend ahead, potentially crossing the double-digit mark.",
-    "img": "https://static.toiimg.com/photo/msid-128901614,imgsize-317342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-box-office-collections-day-2-radikaa-sarathkumar-film-sees-strong-saturday-jump-crosses-rs-7-crores/articleshow/128901614.cms",
-    "time": "2026-03-01T00:04:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Matrix 5’ in the works director confirms",
-    "desc": "Fans of 'The Matrix' franchise can rejoice as a fifth installment is officially in development, with writer-director Drew Goddard confirming he's deep in the writing process. Despite 'Resurrections' box office struggles, Warner Bros. is pushing ahead. Details on returning cast members, including Keanu Reeves and Carrie-Anne Moss, remain unconfirmed, while Laurence Fishburne has expressed past reservations.",
-    "img": "https://static.toiimg.com/photo/msid-128901509,imgsize-102132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-matrix-5-in-the-works-director-confirms-priyanka-chopra-to-return-as-sati/articleshow/128901053.cms",
-    "time": "2026-02-28T23:53:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PV Sindhu stranded at Dubai airport amid growing tensions in Middle East",
-    "desc": "PV Sindhu is stranded at Dubai airport after Middle East airspace closures disrupted flights following the US-Israel attack on Iran. She was heading to Birmingham for the All England Open. Meanwhile, Satwiksairaj Rankireddy and Chirag Shetty reached safely. The Indian men’s basketball team is also stuck in Doha due to suspended flight operations.",
-    "img": "https://static.toiimg.com/photo/msid-128893189,imgsize-136330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/us-israel-strike-iran-badminton-queen-pv-sindhu-stranded-at-dubai-airport-amid-growing-tensions/articleshow/128892456.cms",
-    "time": "2026-02-28T23:30:00.000Z"
   },
   {
     "cat": "Politics",
@@ -81,15 +288,6 @@ const newsData_en = [
     "time": "2026-02-28T23:15:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Project Hail Mary postponed amid Toxic-Dhurandhar 2 clash",
-    "desc": "Ryan Gosling's 'Project Hail Mary' has shifted its Indian release to April 3, 2026, avoiding a clash with Ranveer Singh's 'Dhurandhar 2' and Yash's 'Toxic'. Trade experts cite screen allocation pressures, particularly for IMAX, as the reason for the two-week delay, ensuring better access to premium formats for the sci-fi thriller.",
-    "img": "https://static.toiimg.com/photo/msid-128899690,imgsize-125932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dhurandhar-2-and-toxic-clash-ryan-goslings-project-hail-mary-postpones-india-release-film-eyes-april-release-reports/articleshow/128898084.cms",
-    "time": "2026-02-28T22:36:31.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Are drivers paying the war tax amid Iran and US–Israel clashes?",
     "desc": "UAE drivers will pay more for fuel in March 2026 as prices for Super 98, Special 95, E-Plus 91 and diesel see an increase. This rise, ending a brief dip, is attributed to global oil market pressures, including Middle Eastern geopolitical tensions. The monthly review aligns local rates with international trends.",
@@ -99,15 +297,6 @@ const newsData_en = [
     "time": "2026-02-28T22:24:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Cher's son ARRESTED for trespassing; released on bail",
-    "desc": "Cher's son, Elijah Allman, 49, was arrested at St. Paul's School in New Hampshire on Friday. He faces four misdemeanor charges including assault and criminal trespass, along with disorderly conduct. Police responded to reports of Allman causing a disturbance in the school's dining hall. He has no affiliation with the institution. Allman was released on bail pending court proceedings.",
-    "img": "https://static.toiimg.com/photo/msid-128897953,imgsize-62834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chers-son-elijah-allman-charged-with-simple-assault-and-trespassing-at-new-hampshire-private-school/articleshow/128897590.cms",
-    "time": "2026-02-28T21:15:57.000Z"
-  },
-  {
     "cat": "Business",
     "title": "UAE market stability, food prices, stock update amid Iran–US-Israel escalation: Panic buying in the emirates as oil prices surge?",
     "desc": "Amidst escalating West Asian tensions, the UAE assures its markets and food reserves are secure. Authorities are actively monitoring supplies and maintaining price stability, with robust strategic reserves and diversified import routes. Residents are urged against panic buying, as the nation's preparedness ensures everyday life and commerce remain unaffected by regional strains.",
@@ -115,33 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-market-stability-food-prices-stock-update-amid-iranus-israel-escalation-panic-buying-in-the-emirates-as-oil-prices-surge/articleshow/128896180.cms",
     "time": "2026-02-28T19:58:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Director clarifies he didn't ask Saif to leave his girlfriend during Bekhudi",
-    "desc": "Saif Ali Khan claimed he was removed from his debut film 'Bekhudi' due to a director's ultimatum regarding his girlfriend. However, director Rahul Rawail refuted this, stating Saif was removed for irresponsibility and not showing up for shoots. Saif later expressed that these accusations damaged his image, while Rawail acknowledged Saif's growth over the years.",
-    "img": "https://static.toiimg.com/photo/msid-128896013,imgsize-40488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rahul-rawail-clarifies-he-did-not-ask-saif-ali-khan-to-leave-his-girlfriend-during-bekhudi-he-was-irresponsible-he-didnt-turn-up/articleshow/128896000.cms",
-    "time": "2026-02-28T19:27:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "When art wilts under the sun",
-    "desc": "The impacts of climate change are not for the future, they are here, now, and will only inconvenience humans more over time. Geetha Srimathi looks at how the trade and health of folk artistes of Tamil Nadu have already been deeply impacted by the growing summer heat",
-    "img": "https://th-i.thgim.com/public/incoming/ppekun/article70689063.ece/alternates/LANDSCAPE_1200/sunday%20story2315_7_3_2021_14_28_5_1_COOL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/when-art-wilts-under-the-sun/article70687911.ece",
-    "time": "2026-02-28T19:07:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika-Vijay to distribute food, sweets across the country to celebrate wedding",
-    "desc": "Newlyweds Rashmika Mandanna and Vijay Deverakonda are celebrating their union by distributing food and sweets nationwide on March 1st. The couple announced their 'annadanam' initiative in temples across the country, sharing their joy with fans who have supported their journeys. Their wedding pictures also achieved a record for the most liked post.",
-    "img": "https://static.toiimg.com/photo/msid-128895197,imgsize-85742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-vijay-deverakonda-to-do-annadanam-in-temples-distrubute-sweets-across-the-country-to-celebrate-their-wedding/articleshow/128894860.cms",
-    "time": "2026-02-28T18:52:06.000Z"
   },
   {
     "cat": "Politics",
@@ -189,15 +351,6 @@ const newsData_en = [
     "time": "2026-02-28T18:01:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sonal seeks help from PM Modi as she's stranded in Dubai amidst middle-east tensions",
-    "desc": "Amidst escalating geopolitical tensions, several prominent Indians, including actress Sonal Chauhan and athlete PV Sindhu, found themselves stranded at Dubai airport due to flight cancellations. Chauhan appealed to PM Modi for assistance in returning home, while Sindhu shared visuals of the chaotic airport situation as services remained suspended.",
-    "img": "https://static.toiimg.com/photo/msid-128893807,imgsize-31530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonal-chauhan-pens-note-seeking-help-from-pm-narendra-modi-as-she-is-stranded-in-dubai-amidst-middle-east-tensions/articleshow/128893319.cms",
-    "time": "2026-02-28T17:55:38.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Railways plans 5th, 6th lines on high-density corridors to boost capacity",
     "desc": "Indian Railways is gearing up to lay fifth and sixth lines on crucial High Density Network (HDN) corridors connecting Delhi, Howrah, Mumbai, and Chennai. This expansion aims to significantly boost passenger and freight train capacity on these vital routes, which currently handle a disproportionate amount of traffic, often exceeding line capacity.",
@@ -234,24 +387,6 @@ const newsData_en = [
     "time": "2026-02-28T17:40:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Canada-India negotiating economic partnership agreement to double two-way trade by 2030: PM Carney",
-    "desc": "“This is an enormous opportunity for both our countries.. but it is one that is about to move to the next level. We should aim much higher, and we are aiming much higher, and to be more strategic in our partnership,” Mr. Carney said",
-    "img": "https://th-i.thgim.com/public/incoming/x3gasg/article70689253.ece/alternates/LANDSCAPE_1200/Canada_India_Carney_24721.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/canada-india-negotiating-economic-partnership-agreement-to-double-two-way-trade-by-2030-pm-carney/article70689183.ece",
-    "time": "2026-02-28T17:27:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Suniel says he doesn't watch match when KL Rahul is playing",
-    "desc": "Suniel Shetty has pledged not to watch his son Ahan's film 'Border 2' until it crosses ₹500 crore at the box office, a decision he remains firm on. Similarly, the doting father avoids watching his son-in-law KL Rahul play cricket live due to the anxiety it causes him.",
-    "img": "https://static.toiimg.com/photo/msid-128892751,imgsize-36374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-says-he-doesnt-watch-cricket-matches-when-kl-rahul-is-playing-hes-my-child-i-get-anxious/articleshow/128892613.cms",
-    "time": "2026-02-28T17:15:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India meets West Indies in a do-or-die encounter",
     "desc": "The winner would complete the semifinal line-up; the Men in Blue likely to go in with the same XI which took the field against Zimbabwe; the Caribbean side has fond memories of playing at the Eden Gardens",
@@ -277,15 +412,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/action-to-be-taken-against-building-lacking-mandatory-parking-space/article70684860.ece",
     "time": "2026-02-28T16:58:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Nobody asked Hrithik if he agreed with politics of Dhurandhar'",
-    "desc": "Veteran journalist Shobhaa De lauded the film 'Dhurandhar' as a powerful, ambitious narrative tackling contemporary history, unlike typical spy fantasies. She praised director Aditya Dhar's craft and the film's exploration of significant events. However, De criticized the perceived manipulative hype surrounding Akshaye Khanna's performance and the industry's selective engagement with the film's political undertones.",
-    "img": "https://static.toiimg.com/photo/msid-128892085,imgsize-51858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nobody-asked-hrithik-roshan-if-he-agreed-with-politics-of-dhurandhar-hype-around-akshaye-khanna-was-manipulative-says-shobhaa-de/articleshow/128891755.cms",
-    "time": "2026-02-28T16:44:32.000Z"
   },
   {
     "cat": "Sports",
@@ -360,24 +486,6 @@ const newsData_en = [
     "time": "2026-02-28T15:41:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kochi Corporation mulls short-term direct operation of Ro-Ro services before engaging new operator",
-    "desc": "Citing mounting losses, the civic body is weighing interim control before entrusting the service to a new agency. The Budget for 2026–27 has proposed forming a special purpose vehicle to manage operations, drawing criticism from the LDF over alleged privatisation",
-    "img": "https://th-i.thgim.com/public/incoming/47pziu/article70688700.ece/alternates/LANDSCAPE_1200/Ro-Ro_ferry01%20.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-mulls-short-term-direct-operation-of-ro-ro-services-before-engaging-new-operator/article70687386.ece",
-    "time": "2026-02-28T15:25:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Not sure if Katrina, Kiara will be back after motherhood: Shobhaa De",
-    "desc": "Columnist Shobhaa De believes only a select few actresses like Deepika Padukone and Priyanka Chopra can negotiate demanding work shifts, citing cinema as commerce. She noted that while motherhood impacts careers, exceptional stars like Padukone and Chopra can bounce back and dictate terms, unlike others who might struggle to regain their standing.",
-    "img": "https://static.toiimg.com/photo/msid-128889268,imgsize-64490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/not-sure-if-katrina-kaif-kiara-advani-will-be-back-after-motherhood-says-shobhaa-de-adding-that-deepika-padukone-priyanka-chopra-alia-bhatt-are-exceptions/articleshow/128889212.cms",
-    "time": "2026-02-28T14:54:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Farhan surpasses Virat Kohli, becomes highest ever to score this record",
     "desc": "Sahibzada Farhan broke Virat Kohli’s record for most runs in a single T20 World Cup edition during Pakistan’s must-win Super 8 clash against Sri Lanka. Kohli had scored 319 runs in 2014. Farhan’s fluent knock powered Pakistan to 150 without loss alongside Fakhar Zaman, keeping their semifinal hopes alive with a strong start.",
@@ -405,15 +513,6 @@ const newsData_en = [
     "time": "2026-02-28T14:34:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sriram talks about 'Ikkis' backlash; 'Those objecting...'",
-    "desc": "Director Sriram Raghavan said he was surprised by how audiences received Ikkis in theaters, noting that early army screenings were highly positive. He suggested critics may not have seen the film yet and hopes they’ll watch it soon. Ikkis, based on Arun Kheterpal’s life, marks Agastya Nanda’s debut and features Dharmendra in his final role. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128888150,imgsize-88442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sriram-raghavan-breaks-silence-on-ikkis-backlash-says-those-who-are-objecting-probably-havent-seen-the-film/articleshow/128888150.cms",
-    "time": "2026-02-28T14:12:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'It is a proud moment': PM Modi celebrates J&amp;K's maiden Ranji triumph",
     "desc": "Prime Minister Narendra Modi congratulated Jammu & Kashmir on their maiden Ranji Trophy win, calling it a proud moment for the region. Cricket legends including Sachin Tendulkar, Jay Shah, Mohammad Kaif, Irfan Pathan, Aakash Chopra, Shikhar Dhawan, Harbhajan Singh, Yuvraj Singh and Suresh Raina praised the team’s grit, belief and historic achievement.",
@@ -423,33 +522,6 @@ const newsData_en = [
     "time": "2026-02-28T14:10:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Urge all sides to exercise restraint': India on Middle East situation as US, Israel attack Iran",
-    "desc": "\"India is deeply concerned at the recent developments in Iran and the Gulf region. We urge all sides to exercise restraint, avoid escalation, and prioritise the safety of civilians. Dialogue and diplomacy should be pursued to de-escalate tensions and address underlying issues,\" the statement read. Israel and US on Saturday launched a daylight attack on Iran, closing the window for a diplomatic solution to Tehran's long-running nuclear dispute with the West.",
-    "img": "https://static.toiimg.com/photo/msid-128887948,imgsize-156506.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/urge-all-sides-to-exercise-restraint-india-on-middle-east-situation-as-us-israel-attack-iran/articleshow/128887803.cms",
-    "time": "2026-02-28T14:03:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "BAFTA deletes 'Boong' filmmaker's address, restores later",
-    "desc": "Manipuri film 'Boong' made history as India's first BAFTA winner. Critics accuse BAFTA of removing director Lakshmipriya Devi's peace-focused acceptance remarks from the clip. When the video was later reposted without an explanation, the move sparked outrage and renewed calls for accountability to protect Indigenous voices. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128887208,imgsize-87900.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bafta-deletes-boong-filmmaker-lakshmipriya-devis-manipur-address-restores-video-on-youtube-later/articleshow/128887208.cms",
-    "time": "2026-02-28T13:43:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "KJo says 80 percent women not offended by Dhurandhar, Animal, Kabir Singh",
-    "desc": "Filmmaker Karan Johar observes a shift in audience taste, noting the success of hyper-masculine films like 'Animal' and 'Dhurandhar' that cater to a 'starved' energy. He also highlights the enduring appeal of intense love stories beyond metros. Johar identifies pure horror as an untapped genre for Indian cinema, while family dramas and rom-coms struggle at the box office.",
-    "img": "https://static.toiimg.com/photo/msid-128886961,imgsize-37758.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-animal-or-kabir-singh-audience-is-attracted-to-front-footed-alpha-energy-80-per-cent-women-not-offended-by-it-says-karan-johar/articleshow/128886943.cms",
-    "time": "2026-02-28T13:21:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why Babar Azam is not playing do-or-die PAK vs SL Super 8 clash?",
     "desc": "Pakistan dropped Babar Azam for their must-win Super 8 clash against Sri Lanka in the T20 World Cup 2026, citing poor form after he scored 91 runs in six matches. Skipper Salman Agha confirmed three changes at the toss. Pakistan must beat Sri Lanka by 64 runs to qualify after England topped the group and New Zealand sit second.",
@@ -457,33 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/why-babar-azam-is-not-playing-do-or-die-pak-vs-sl-t20-world-cup-super-8-match/articleshow/128886904.cms",
     "time": "2026-02-28T13:19:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Low visibility, operational gaps cited",
-    "desc": "A fatal Learjet 45XR crash in Baramati, killing five, has been attributed by the AAIB to low visibility and a lack of meteorological facilities at the uncontrolled airfield. The aircraft experienced a go-around before crashing during its second landing attempt. The preliminary report highlights operational gaps and recommends enhanced safety measures for uncontrolled airfields.",
-    "img": "https://static.toiimg.com/photo/msid-128886913,imgsize-58332.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/preliminary-report-into-baramati-crash-out-low-visibility-operational-gaps-cited/articleshow/128886790.cms",
-    "time": "2026-02-28T13:18:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Toxic trailer to launch on March 8 in Bengaluru",
-    "desc": "Countdown to Toxic. The trailer for Yash’s upcoming film premieres March 8 in Bengaluru. Building on KGF’s momentum, this sleek action-drama from Geetu Mohandas features Nayanthara, Kiara Advani, and Huma Qureshi, aiming for a cinematic breadth on a grand scale. Early teasers have sparked record engagement, underscoring intense fan anticipation for the bilingual release.",
-    "img": "https://static.toiimg.com/photo/msid-128886827,imgsize-73268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-trailer-to-launch-on-march-8-in-bengaluru-marking-yashs-big-screen-return/articleshow/128886827.cms",
-    "time": "2026-02-28T13:16:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "5.46 lakh names deleted, 1.82 lakh added in voter roll update",
-    "desc": "West Bengal's electoral rolls now list over 7.04 crore voters following a Special Intensive Revision. During this process, over 5.46 lakh names were removed, while more than 1.82 lakh new voters were added. Over 58 lakh enumeration forms were not received, and more than 60 lakh electors remain in the 'under adjudication' category but are included in the updated rolls.",
-    "img": "https://static.toiimg.com/photo/msid-128885912,imgsize-32536.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-sir-5-46-lakh-names-deleted-1-82-lakh-added-in-voter-roll-update/articleshow/128885831.cms",
-    "time": "2026-02-28T12:34:51.000Z"
   },
   {
     "cat": "Sports",
@@ -549,15 +594,6 @@ const newsData_en = [
     "time": "2026-02-28T10:16:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Death warrant for farmers': Rahul Gandhi attacks PM Modi at Punjab rally; questions Indo-US trade deal",
-    "desc": "Rahul Gandhi questioned PM Modi's swift Indo-US trade deal, alleging it harms Indian farmers and industries. He claimed the Prime Minister gave away data and guaranteed annual purchases of US products. Gandhi also alleged a lack of political response to Chinese border movements, citing an unpublished book by a former Army Chief.",
-    "img": "https://static.toiimg.com/photo/msid-128880821,imgsize-21946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/death-warrant-for-farmers-rahul-gandhi-attacks-pm-modi-at-pujab-rally-questions-indo-us-trade-deal/articleshow/128880605.cms",
-    "time": "2026-02-28T10:04:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How much will J&amp;K receive for winning maiden Ranji Trophy title?",
     "desc": "Jammu and Kashmir won their maiden Ranji Trophy title after drawing the final against Karnataka but securing a huge 291-run first-innings lead. They scored 584 in the first innings and extended their overall lead to 633 runs, with centuries from Qamran Iqbal and Sahil Lotra. As champions, J&K will receive Rs 5 crore in prize money.",
@@ -565,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-much-prize-money-will-jammu-kashmir-get-for-winning-the-ranji-trophy/articleshow/128880888.cms",
     "time": "2026-02-28T09:49:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jairam Ramesh calls PM Modi’s Israel visit ‘shameful’, says he showed ‘moral cowardice’",
-    "desc": "Congress leader Jairam Ramesh has sharply criticised Prime Minister Modi's recent Israel visit, calling it \"morally cowardly\" following a joint US-Israel strike on Iran. Ramesh highlighted Modi's declaration of India's support for Israel, which occurred just before the military action. The article also details the elevated strategic partnership and agreements signed between India and Israel during Modi's trip.",
-    "img": "https://static.toiimg.com/photo/msid-128881302,imgsize-16574.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/iran-war-jairam-ramesh-calls-pm-modis-israel-visit-shameful-says-he-showed-moral-cowardice/articleshow/128881224.cms",
-    "time": "2026-02-28T09:48:10.000Z"
   },
   {
     "cat": "Sports",
@@ -603,24 +630,6 @@ const newsData_en = [
     "time": "2026-02-28T08:56:31.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "What happens if the match gets washed out?",
-    "desc": "India faces West Indies in a crucial T20 World Cup 2026 virtual quarterfinal at Eden Gardens. A win secures a semifinal spot against England, while a loss ends India's campaign. With a concerning net run rate, India must win, as a washout would see them eliminated due to West Indies' superior NRR.",
-    "img": "https://static.toiimg.com/photo/msid-128879649,imgsize-51336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-west-indies-t20-world-cup-2026-super-8s-what-happens-if-the-ind-vs-wi-match-gets-washed-out/articleshow/128879560.cms",
-    "time": "2026-02-28T08:39:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'There’s an extra added responsibility': Samson sends emotional message to CSK fans",
-    "desc": "Sanju Samson expressed his delight at the warm reception in Chennai, now his IPL home ground with CSK. He feels a strong emotional connection with the passionate Chennai crowd, acknowledging the added responsibility to entertain them. Samson recently provided quick momentum for India against Zimbabwe with a brisk 24-ball innings.",
-    "img": "https://static.toiimg.com/photo/msid-128877901,imgsize-184566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/theres-an-extra-added-responsibility-sanju-samson-sends-emotional-message-to-csk-fans/articleshow/128877959.cms",
-    "time": "2026-02-28T07:30:34.000Z"
-  },
-  {
     "cat": "World",
     "title": "Ramadan brings a season of grief after an Israeli strike wiped out most of a Gaza family",
     "desc": "In the Gaza Strip, Ramadan has become a season when wartime losses hit especially deep for the many families grieving loved ones killed by Israeli forces, which have been fighting Hamas for more than two years",
@@ -637,33 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/samsung-galaxy-s26-ultra-s26-and-galaxy-s26-launched-features-and-price/article70675637.ece",
     "time": "2026-02-28T07:05:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Major boost to India’s healthcare: PM Modi rolls out nationwide HPV vaccination for 14-year-old girls",
-    "desc": "Prime Minister Narendra Modi launched the nationwide HPV Vaccination Programme in Ajmer, Rajasthan, targeting 14-year-old girls to prevent cervical cancer. The free, voluntary vaccination initiative aims to cover 1.15 crore girls annually, bolstering women's health and preventive healthcare efforts across India.",
-    "img": "https://static.toiimg.com/photo/msid-128876821,imgsize-37388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/major-boost-to-indias-healthcare-pm-modi-rolls-out-nationwide-hpv-vaccination-for-14-year-old-girls/articleshow/128876526.cms",
-    "time": "2026-02-28T06:50:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who will reach T20 World Cup semifinals?",
-    "desc": "Pakistan face a crucial Super 8s match against Sri Lanka, with their qualification hopes significantly impacted by the weather. Following England's win over New Zealand, Pakistan's destiny is in their own hands, but a washout would favor New Zealand. The team must secure a substantial victory to advance.",
-    "img": "https://static.toiimg.com/photo/msid-128876079,imgsize-62136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-vs-sri-lanka-washout-scenario-who-will-reach-t20-world-cup-2026-semifinals/articleshow/128875985.cms",
-    "time": "2026-02-28T06:14:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Setback for Indian huglomacy': Congress blames PM Modi for Trump's support to Pakistan amid conflict with Afghanistan",
-    "desc": "Congress MP Jairam Ramesh has sharply criticized US President Donald Trump's praise for Pakistan's leadership amidst the Afghanistan conflict, calling it a diplomatic setback for India. Ramesh also highlighted concerns over India's trade and strategic diplomacy with the US, citing a one-sided trade deal and the US imposing duties on Indian solar modules. He argued that India's 'Vishwaguru' image has been exposed.",
-    "img": "https://static.toiimg.com/photo/msid-128875430,imgsize-1203427.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/setback-for-indian-huglomacy-congress-blames-pm-modi-for-trumps-support-to-pakistan-amid-conflict-with-afghanistan/articleshow/128875044.cms",
-    "time": "2026-02-28T06:01:10.000Z"
   },
   {
     "cat": "World",
@@ -684,24 +666,6 @@ const newsData_en = [
     "time": "2026-02-28T05:26:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Will England drop Buttler for the semi-final? Brook issues defiant message",
-    "desc": "Jos Buttler's T20 World Cup 2026 campaign has been a struggle, with only 62 runs in seven innings and five consecutive single-digit scores. Despite this lean patch, captain Harry Brook has backed Buttler, calling him the finest white-ball player and expressing confidence in his ability to bounce back in upcoming matches.",
-    "img": "https://static.toiimg.com/photo/msid-128874902,imgsize-101556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/will-england-drop-jos-buttler-for-the-semi-final-harry-brook-issues-defiant-message/articleshow/128874885.cms",
-    "time": "2026-02-28T05:18:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress finalises candidates for 40 seats; Gaurav Gogoi likely to contest from Jorhat",
-    "desc": "Congress leader Gaurav Gogoi is reportedly set to contest the upcoming Assam assembly elections from the Jorhat constituency. This move follows the party's finalization of candidates for 40 seats. Gogoi, currently an MP from Jorhat, gained national attention for initiating the no-confidence motion against the Modi government.",
-    "img": "https://static.toiimg.com/photo/msid-128874361,imgsize-1131810.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assam-polls-congress-finalises-candidates-for-40-seats-gaurav-gogoi-likely-to-contest-from-jorhat/articleshow/128874316.cms",
-    "time": "2026-02-28T04:50:27.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Opportunity to consider options': US govt seeks delay in tariff refunds battle as Trump fumes over possible 'rehearing'",
     "desc": "The Trump administration is requesting a delay in legal proceedings concerning tariff refunds. This comes after the Supreme Court ruled against his global duties. The US government argues for a \"appropriately careful process, not breakneck speed.\" Earlier, Trump criticised the decision warning of significant payouts and questioned the \"possibility of a rehearing.\"",
@@ -711,15 +675,6 @@ const newsData_en = [
     "time": "2026-02-28T04:12:58.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "When 16-year-old Shahid Afridi saved Pakistan — Can history repeat in Pallekele?",
-    "desc": "Pakistan's path to the T20 World Cup 2026 semi-finals hinges on a decisive victory against Sri Lanka. Following England's win over New Zealand, Pakistan must secure a substantial margin of victory, either by batting first and winning by 64 runs or chasing a target within 13.1 overs, to surpass New Zealand's net run rate.",
-    "img": "https://static.toiimg.com/photo/msid-128873532,imgsize-121306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/when-16-year-old-shahid-afridi-saved-pakistan-can-history-repeat-in-pallekele/articleshow/128873431.cms",
-    "time": "2026-02-28T04:05:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "OpenAI CEO Sam Altman finalises deal with US government amid Trump’s war with Anthropic",
     "desc": "OpenAI will deploy its AI models on the Department of War's classified network. This follows an agreement on safety principles. Meanwhile, OpenAI and Amazon have formed a major partnership. Amazon will invest $50 billion in OpenAI. This collaboration aims to accelerate AI innovation. The developments occur amidst US President Donald Trump's ban on Anthropic.",
@@ -727,24 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/openai-ceo-sam-altman-finalises-deal-with-us-government-amid-trumps-war-with-anthropic/articleshow/128873028.cms",
     "time": "2026-02-28T03:49:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Anthropic to challenge Pentagon in court, hours after Trump orders ban on AI firm",
-    "desc": "AI firm Anthropic is suing the Pentagon after President Trump ordered a ban on its technology, citing national security risks. Trump labelled the company 'Leftwing nut jobs', accusing them of jeopardizing American lives. Anthropic defends its safeguards against mass surveillance and autonomous weapons, leading to a contract dispute and a split in Silicon Valley.",
-    "img": "https://static.toiimg.com/photo/msid-128871918,imgsize-685247.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/anthropic-to-challenge-pentagon-in-court-hours-after-trump-orders-ban-on-ai-firm/articleshow/128871868.cms",
-    "time": "2026-02-28T02:37:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Trump's Truth Social in talks to spin off into publicly traded company",
-    "desc": "Trump Media & Technology Group plans to spin off its Truth Social platform into a separate publicly traded company. This move would separate its social media business from its fusion energy venture, which is merging with TAE Technologies. The company reported a widened net loss in 2025, despite increased financial assets.",
-    "img": "https://static.toiimg.com/photo/msid-128871557,imgsize-50260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/trumps-truth-social-in-talks-to-spin-off-into-publicly-traded-company/articleshow/128871466.cms",
-    "time": "2026-02-28T02:07:11.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +835,68 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/nse-chief-proposes-retail-barriers-to-entry-on-derivative-markets-amidst-speculation-losses/article70680684.ece",
     "time": "2026-02-26T18:33:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SEBI broadens MF categories to keep up with changing investor preferences",
+    "desc": "SEBI introduced another new category called the life cycle fund and has done away with retirement and children’s fund. SEBI said that life cycle funds will have a minimum duration of five years and a maximum duration of 30 years.",
+    "img": "https://th-i.thgim.com/public/incoming/sujk13/article70681316.ece/alternates/LANDSCAPE_1200/Financial-sectoGP8FGO86H.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/sebi-broadens-mf-categories-to-keep-up-with-changing-investor-preferences/article70680216.ece",
+    "time": "2026-02-26T18:20:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Voters go to polls in crucial bye-election test for U.K.’s Starmer",
+    "desc": "Anything other than a victory for Labour could make it very difficult for Starmer to serve out his full term; a recent poll on voting intentions showed Labour at 28%, Greens at 28% and the far-right Reform U.K. just behind at 27%",
+    "img": "https://th-i.thgim.com/public/incoming/git3ig/article70681258.ece/alternates/LANDSCAPE_1200/Britain_Politics_24554.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/voters-go-to-polls-in-crucial-bye-election-test-for-uks-starmer/article70680369.ece",
+    "time": "2026-02-26T17:46:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Revisiting the timeless allure of classic cars at Udaipur’s Oberoi Concours d’Elegance 2026",
+    "desc": "The second edition of the Oberoi Concours d’Elegance in Udaipur saw 120 classic cars and bikes, celebrating automotive heritage. What came through at the event besides culture, currency, and caviar, was the emotion associated with the vehicles",
+    "img": "https://th-i.thgim.com/public/life-and-style/i9a8e1/article70679333.ece/alternates/LANDSCAPE_1200/1935%20Rolls-Royce%20Phantom%20II%20Drophead%20Coup%C3%A9%20by%20Windovers%20owned%20by%20HRH%20Maharaja%20Gaj%20Singh%20ji%20of%20Jodhpur%20at%20The%20Oberoi%20Concours%20d%E2%80%99Elegance%202026.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/life-and-style/luxury/revisiting-the-timeless-allure-of-classic-cars-at-udaipurs-oberoi-concours-delegance-2026/article70679284.ece",
+    "time": "2026-02-26T17:07:24.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Marco Rubio declares ‘old world is gone,’ calls for rebuilding western order",
+    "desc": "U.S. Secretary of State Marco Rubio has declared that “the old world is gone,” signalling a major shift in American foreign policy. Speaking in Washington and at the Munich Security Conference, Rubio called for rebuilding international institutions, criticised mass migration and free trade policies, and urged a renewed Western civilisational alliance.",
+    "img": "https://th-i.thgim.com/public/news/national/mun6d4/article70680758.ece/alternates/LANDSCAPE_1200/TH%20EXPLAIN%207.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-marco-rubio-declares-old-world-is-gone-calls-for-rebuilding-western-order/article70680800.ece",
+    "time": "2026-02-26T15:29:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "What does Trump want from Iran?",
+    "desc": "On January 29, Trump shifted focus away from protests and urged Tehran to come and negotiate a deal on its nuclear programme; this marked a notable turn; in early January, while threatening military action against Iran, he had made no reference to the nuclear issue",
+    "img": "https://th-i.thgim.com/public/incoming/uw2geu/article70680346.ece/alternates/LANDSCAPE_1200/2026-01-30T015308Z_1663083504_RC2XFFATXIH8_RTRMADP_3_USA-TRUMP-IRS-LAWSUIT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/what-does-trump-want-from-iran/article70680165.ece",
+    "time": "2026-02-26T14:18:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "CEO of World Economic Forum Borge Brende quits after Epstein ties scrutinised",
+    "desc": "The co-chairs said the WEF’s Alois Zwinggi will serve as interim president and CEO, ‌and that the forum’s Board of Trustees will oversee the leadership transition, including a plan ​to drive a process to identify a permanent successor.",
+    "img": "https://th-i.thgim.com/public/incoming/4nr1jy/article70679790.ece/alternates/LANDSCAPE_1200/2026-02-05T174607Z_198016338_RC28ECAMGG84_RTRMADP_3_USA-TRUMP-EPSTEIN-WEF.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ceo-of-world-economic-forum-borge-brende-quits-after-epstein-ties-scrutinised/article70679749.ece",
+    "time": "2026-02-26T13:43:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "EU seeks to cut Russia dependence; Hungary, Slovakia have other plans",
+    "desc": "Hungary and Slovakia remain heavily reliant on Russian oil, with reports arguing this dependence is a political choice rather than a necessity; as EU reduces Russian gas, oil imports, the stand-off shows the political and economic hurdles complicating the bloc’s roadmap to energy independence",
+    "img": "https://th-i.thgim.com/public/incoming/skzg1f/article70679350.ece/alternates/LANDSCAPE_1200/AFP_98J94KE.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/eu-seeks-to-cut-russia-dependence-hungary-slovakia-have-other-plans/article70679328.ece",
+    "time": "2026-02-26T10:36:17.000Z"
   }
 ];

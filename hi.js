@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abhishek-Ishan vs King-Hope, which openers have better stats?",
+    "desc": "The stage is set for one of the most anticipated matches of the ongoing T20 World Cup 2026. Game 52 of the tournament will see the Indian team taking on the West Indies. The two...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-t20i-squad-comparison-abhishek-ishan-vs-king-hope-which-openers-have-better-stats-2026-03-01-1032134",
+    "time": "2026-03-01T04:29:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will rain spoil IND vs WI T20 World Cup 2026 Super Eight clash?",
+    "desc": "The stage is set for game 52 of the ongoing T20 World Cup 2026. Team India will take on the West Indies at the Eden Gardens in Kolkata on March 1. The clash is a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kolkata-weather-report-will-rain-spoil-ind-vs-wi-t20-world-cup-2026-super-eight-clash-2026-03-01-1032130",
+    "time": "2026-03-01T03:26:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Extremely tense and scary’",
+    "desc": "Star India shuttler PV Sindhu has caught all the headlines of late, as she has been stranded at the Dubai airport, as tensions due to the conflict with Iran continue to escalate. Taking to social...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-still-stuck-at-dubai-airport-posts-crucial-update-2026-03-01-1032125",
+    "time": "2026-03-01T02:20:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sanath Jayasuriya set to step down as Sri Lanka coach after loss against Pakistan",
     "desc": "In a major development for SLC (Sri Lanka Cricket), the side’s head coach, Sanath Jayasuriya, has decided to step down from his role as the head coach after his side’s loss against Pakistan in the...",
     "img": "",
@@ -61,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-enter-whatever-it-takes-mode-to-play-fire-with-fire-against-west-indies-in-must-win-super-eights-clash-2026-02-28-1032088",
     "time": "2026-02-28T13:29:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Babar Azam not playing for Pakistan vs Sri Lanka in T20 World Cup clash in Pallekele?",
-    "desc": "Pakistan and Sri Lanka lock horns against each other today in the massive Super 8 clash of the T20 World Cup. Sri Lanka have been knocked out but Pakistan still have an outside chance to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-babar-azam-not-playing-for-pakistan-vs-sri-lanka-in-t20-world-cup-clash-in-pallekele-2026-02-28-1032085",
-    "time": "2026-02-28T13:15:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CM Omar Abdullah announces Rs 2 crore cash prize for Jammu and Kashmir players after historic Ranji title",
-    "desc": "Jammu and Kashmir scripted history and clinched their maiden Ranji Trophy title. The side took on Karnataka in the summit clash of the tournament in Hubballi, and after the game was ultimately drawn, Jammu and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cm-omar-abdullah-announces-rs-2-crore-cash-prize-for-jammu-and-kashmir-players-after-historic-ranji-title-win-2026-02-28-1032073",
-    "time": "2026-02-28T12:02:05.000Z"
   }
 ];
