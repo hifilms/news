@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "একটা শটেই ৪৮ জন নেতা মারা গিয়েছে! ইরানে আমেরিকার হামলা প্রসঙ্গে বললেন ট্রাম্প",
+    "desc": "ট্রাম্প বলেছেন, এই যৌথ অপারেশন ইরানের নেতৃত্বকে বড় ধাক্কা দিয়েছে। উনি দাবি করেছেন, “৪৮ ইরানের নেতার একটি অপারেশনে মৃত্যু হয়েছে”। পেন্টাগন আর Israeli Defence Forces (IDF) এখনও এই হামলার প্রভাব বিশ্লেষণ করছে, যেখানে ইরানের সর্বোচ্চ নেতা আরও অনেক গুরুত্বপূর্ণ নেতৃত্ব মারা গিয়েছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/trump-6-2026-02-8ae1a5f3c0f16079b745681d4b2c6365-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/trump-claims-48-iranian-leaders-eliminated-in-one-shot-as-ali-khameneis-death-rdp-2564235.html",
+    "time": "2026-03-01T18:49:41.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "১, ২, ৩ মার্চ...! ভারী বৃষ্টি কাঁপাবে ৬ রাজ্য, বজ্রবিদ্যুৎ-দমকা হাওয়ার হুঁশিয়ারি ১২ রাজ্যে, পারদ চড়ছে কোন কোন রাজ্যে? 'দোলে' কী হবে বাংলায়? জানিয়ে দিল IMD",
     "desc": "নতুন করে ঢুকছে পশ্চিমী ঝঞ্ঝা! ফুঁসছে একের পর এক ঘূর্ণাবর্ত! দোলের আগেই এসে গেল আবহাওয়ার বড় হুঁশিয়ারি। আগামী ৩ দিন! ভারী বৃষ্টি কাঁপাবে ৬ রাজ্য, বজ্রবিদ্যুৎ-দমকা হাওয়ার হুঁশিয়ারি ১২ রাজ্যে, লাফিয়ে লাফিয়ে তাপমাত্রা বাড়বে কোন কোন রাজ্যে? হোলিতে ভিজবে বাংলা? জেনে নিন আবহাওয়ার সম্পূর্ণ লেটেস্ট আপডেট",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/west-bengal/indian-railways-vande-bharat-express-to-rajdhani-express-train-route-general-manager-of-railways-inspects-154-km-track-of-kamakhya-new-bongaigaon-dangtal-section-sanj-2553102.html",
     "time": "2026-02-23T07:50:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "সোনার বাংলা প্রতারিত হয়েছে তৃণমূল আমলে, ভোটমুখী বাংলাকে চিঠিতে একাধিক প্রতিশ্রুতি মোদির",
-    "desc": "সোমবার প্রকাশিত চিঠিতে বাঙালির আবেগকে গুরুত্ব দিয়ে ‘জয় মা কালী’ উচ্চারণের মাধ্যমে বক্তব্যের সূচনা করেন প্রধানমন্ত্রী নরেন্দ্র মোদি। পাশাপাশি সীমান্তবর্তী রাজ্যে অনুপ্রবেশের বিষয়টি তুলে ধরে উদ্বেগ প্রকাশ করেন তিনি এবং মহিলাদের নিরাপত্তাকে ভারতীয় জনতা পার্টি-র অন্যতম অগ্রাধিকার হিসেবে উল্লেখ করেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Narendra-Modi-2026-02-086f0030ac34afd39e7810d9b27e120a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/narendra-modi-shonar-bangla-deceived-under-tmc-pm-modi-letter-west-bengal-polls-bjp-vikshit-bengal-sal-2553446.html",
-    "time": "2026-02-23T07:18:07.000Z"
   }
 ];

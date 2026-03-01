@@ -1,12 +1,57 @@
 const newsData_en = [
   {
-    "cat": "Sports",
-    "title": "A case of so near and yet so far for a star-studded Karnataka team",
-    "desc": "The final laid bare two of the southern heavyweight’s biggest lacunae — lack of bite when lead spinner Shreyas has an off-day and the pace bowlers’ propensity to not be persistent; the unvarnished truth is that there are no easy teams in the premier domestic competition anymore",
-    "img": "https://th-i.thgim.com/public/incoming/4nggba/article70692784.ece/alternates/LANDSCAPE_1200/_DSC8274.JPG",
+    "cat": "Politics",
+    "title": "PM Modi chairs CCS meeting; West Asia situation, stranded Indians discussed",
+    "desc": "It is believed that the meeting discussed the safety of Indian nationals living in West Asia, and also those who are stranded, and how to deal with the situation if it deteriorates, the sources said",
+    "img": "https://th-i.thgim.com/public/incoming/zheuzh/article70692836.ece/alternates/LANDSCAPE_1200/PTI03_01_2026_001044B.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-a-case-of-so-near-and-yet-so-far-for-a-star-studded-karnataka-team/article70692493.ece",
-    "time": "2026-03-01T18:04:40.000Z"
+    "url": "https://www.thehindu.com/news/national/pm-narendra-modi-cabinet-committee-of-security-ccs-meeting-march-1-2026/article70691990.ece",
+    "time": "2026-03-01T20:59:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sudha Chandran blames industry narratives for Govinda's absence",
+    "desc": "Veteran actress Sudha Chandran has opened up about Govinda’s peak stardom, the industry’s treatment of him, and why she believes he is currently not a part of mainstream Bollywood. She also reacted to social media comments on videos of Govinda dancing at smaller events.",
+    "img": "https://static.toiimg.com/photo/msid-128927117,imgsize-75942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sudha-chandran-blames-industry-narratives-for-govindas-bollywood-absence-everyone-wanted-to-cast-him-then-damaged-his-career/articleshow/128927117.cms",
+    "time": "2026-03-01T20:29:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran media outlets report Israeli strikes hit hospital in Tehran",
+    "desc": "Iranian media reported that a police station in a city on the outskirts of Tehran was also hit by strikes on March 1, killing an unspecified number of people, with others said to be trapped under debris",
+    "img": "https://th-i.thgim.com/public/incoming/tw653f/article70692857.ece/alternates/LANDSCAPE_1200/2026-03-01T184130Z_841993190_RC2UVJAPPRSD_RTRMADP_3_IRAN-CRISIS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-media-outlets-report-israeli-strikes-hit-hospital-in-tehran/article70692856.ece",
+    "time": "2026-03-01T20:19:15.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel conflict LIVE: Iran media outlets report strikes hit hospital in Tehran; U.S. says destroyed headquarters of Iran's Revolutionary Guards",
+    "desc": "An Iranian missile strike in the Israeli town of Beit Shemesh has killed several people, Israeli first responders say; While Iran said that it \"struck\" U.S. aircraft carrier USS Abraham Lincoln, U.S. Central Command denied the claims",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-us-tensions-iran-israel-war-nuclear-tensions-tehran-tel-aviv-march-1-live-updates/article70690476.ece",
+    "time": "2026-03-01T20:11:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mahesh Babu reviews Priyanka Chopra’s The Bluff",
+    "desc": "With anticipation building around Varanasi, co-stars Mahesh Babu and Priyanka Chopra are already cheering for each other’s work. On Sunday, Mahesh took to X to heap praise on Priyanka’s action-packed performance in her latest release, The Bluff.",
+    "img": "https://static.toiimg.com/photo/msid-128925906,imgsize-64498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mahesh-babu-reviews-priyanka-chopras-the-bluff-calls-her-performance-swashbuckling-ahead-of-ss-rajamoulis-varanasi/articleshow/128925906.cms",
+    "time": "2026-03-01T19:27:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "From the valley to the pinnacle of domestic cricket — the J & K story",
+    "desc": "Jammu & Kashmir’s stellar run is a tale of grit, determination and meticulous preparation; it had all bases covered and every member of the squad put his hand up when it mattered most; the next challenge for Dogra’s men will be to sustain the momentum and stay at the summit",
+    "img": "https://th-i.thgim.com/public/incoming/ruhnih/article70692835.ece/alternates/LANDSCAPE_1200/_DSC9096.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/from-the-valley-to-the-pinnacle-of-domestic-cricket-the-j-k-story/article70692834.ece",
+    "time": "2026-03-01T19:26:05.000Z"
   },
   {
     "cat": "Politics",
@@ -15,16 +60,16 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/1aws6c/article70692764.ece/alternates/LANDSCAPE_1200/20260228526L.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/indians-among-those-injured-in-iranian-strikes-says-uae/article70692102.ece",
-    "time": "2026-03-01T18:02:42.000Z"
+    "time": "2026-03-01T19:00:12.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran-Israel conflict LIVE: Trump says nine Iran navy ships 'destroyed and sunk'; Iran state TV says it was targeted by strikes",
-    "desc": "An Iranian missile strike in the Israeli town of Beit Shemesh has killed several people, Israeli first responders say; While Iran said that it \"struck\" U.S. aircraft carrier USS Abraham Lincoln, U.S. Central Command denied the claims",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "cat": "Sports",
+    "title": "A case of so near and yet so far for a star-studded Karnataka team",
+    "desc": "The final laid bare two of the southern heavyweight’s biggest lacunae — lack of bite when lead spinner Shreyas has an off-day and the pace bowlers’ propensity to not be persistent; the unvarnished truth is that there are no easy teams in the premier domestic competition anymore",
+    "img": "https://th-i.thgim.com/public/incoming/4nggba/article70692784.ece/alternates/LANDSCAPE_1200/_DSC8274.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-us-tensions-iran-israel-war-nuclear-tensions-tehran-tel-aviv-march-1-live-updates/article70690476.ece",
-    "time": "2026-03-01T18:01:31.000Z"
+    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-a-case-of-so-near-and-yet-so-far-for-a-star-studded-karnataka-team/article70692493.ece",
+    "time": "2026-03-01T18:04:40.000Z"
   },
   {
     "cat": "Politics",
@@ -70,15 +115,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ban-regulate-or-reform-social-media-under-15s-the-india-question/articleshow/128918054.cms",
     "time": "2026-03-01T17:10:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Temple road-widening project in Varanasi puts livelihoods in peril",
-    "desc": "As bulldozers roll into Dal Mandi in Varanasi to demolish 187 buildings housing over 1,000 shops along the 650-metre road stretch to widen access to the Kashi Vishwanath Temple, thousands of traders and residents confront an uncertain future. The ₹224-crore project has sparked displacement fears, compensation disputes and allegations of selective targeting",
-    "img": "https://th-i.thgim.com/public/incoming/2vse0u/article70691661.ece/alternates/LANDSCAPE_1200/DALMANDI%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/temple-road-widening-project-puts-livelihoods-in-peril/article70691710.ece",
-    "time": "2026-03-01T16:39:53.000Z"
   },
   {
     "cat": "Politics",
@@ -151,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/khamenei-dead-middle-east-on-edge-what-will-be-the-implications-of-trumps-epic-fury-on-stock-markets-gold-oil/articleshow/128918666.cms",
     "time": "2026-03-01T14:37:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi to chair CCS meeting tonight",
-    "desc": "The meeting is believed to have been convened in the wake of the prevailing global situation following the attack on Iran by the United States and Israel and the killing of Iranian Supreme Leader Ayatollah Ali Khamenei",
-    "img": "https://th-i.thgim.com/public/incoming/4ecx2m/article70692037.ece/alternates/LANDSCAPE_1200/20250423321L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-narendra-modi-cabinet-committee-of-security-ccs-meeting-march-1-2026/article70691990.ece",
-    "time": "2026-03-01T14:29:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -351,15 +378,6 @@ const newsData_en = [
     "time": "2026-03-01T09:53:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kichcha Sudeep's 165 crore net worth revealed",
-    "desc": "Sandalwood star Kichcha Sudeep's net worth is estimated at Rs 165 crore by 2026, fueled by blockbuster films, a lucrative 'Bigg Boss Kannada' stint, and brand endorsements. His diverse income streams, including his production house and real estate investments, support an opulent lifestyle featuring luxury cars and a lavish Bangalore home. Upcoming projects promise further growth.",
-    "img": "https://static.toiimg.com/photo/msid-128910599,imgsize-93394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/kichcha-sudeep-net-worth-2026-decoding-the-mark-actors-rs-165-crore-empire-and-ultra-luxurious-lifestyle/articleshow/128910599.cms",
-    "time": "2026-03-01T09:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Completely clueless': Akhtar blasts Pakistan, fires warning to Mohsin Naqvi",
     "desc": "Former Pakistan pacer Shoaib Akhtar has slammed the Pakistan Cricket Board's leadership, calling the management \"clueless\" after their T20 World Cup exit. Akhtar highlighted flawed player selections, suggesting the team's consistent failures in ICC tournaments stem from a weak support structure around PCB chief Mohsin Naqvi, urging him to seek better advice.",
@@ -376,24 +394,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-khameneis-rise-and-fall-the-death-of-irans-ultimate-authority/article70691081.ece",
     "time": "2026-03-01T09:17:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All you need to know about ‘Outlander’ season 8",
-    "desc": "Get ready for the epic conclusion of 'Outlander' as Season 8, the show's final chapter, approaches. Following a dramatic Season 7 cliffhanger, expect a focus on family and parenthood, with Jamie and Claire returning to a changed Fraser's Ridge. New secrets and characters will emerge in this highly anticipated series finale, airing weekly on Starz starting March 6.",
-    "img": "https://static.toiimg.com/photo/msid-128911180,imgsize-109300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/outlander-season-8-everything-to-know-about-the-period-dramas-series-finale-ahead-of-its-march-release/articleshow/128911180.cms",
-    "time": "2026-03-01T09:12:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ashley Park reveals glimpse of Selena Gomez’s vacation",
-    "desc": "Selena Gomez headed to Los Cabos, Mexico for a sun-soaked escape with a celebrity cohort that included Ashley Park and Nina Dobrev. Park teased the trip with reels from yacht days and beach moments, capturing a joyful reunion. This getaway follows Selena's earlier bachelorette celebration in the same picturesque locale.",
-    "img": "https://static.toiimg.com/photo/msid-128910718,imgsize-120660.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/out-of-the-group-chat-ashley-park-reveals-glimpse-of-selena-gomezs-sun-soaked-vacation-in-mexico-with-nina-dobrev/articleshow/128910718.cms",
-    "time": "2026-03-01T09:04:34.000Z"
   },
   {
     "cat": "World",
@@ -756,15 +756,6 @@ const newsData_en = [
     "time": "2026-02-27T07:25:38.000Z"
   },
   {
-    "cat": "World",
-    "title": "Melania Trump to preside over U.N. Security Council meeting in a first for a First Lady",
-    "desc": "The United States takes over the rotating presidency of the 15-member council for the month of March, and the First Lady's office said the meeting she will preside over will “emphasise education's role in advancing tolerance and world peace”",
-    "img": "https://th-i.thgim.com/public/incoming/ezjs8c/article70683014.ece/alternates/LANDSCAPE_1200/2026-02-26T143707Z_232783113_RC2NQJAS1N6K_RTRMADP_3_USA-UN-MELANIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/melania-trump-to-preside-over-un-security-council-meeting-in-a-first-for-a-first-lady/article70682988.ece",
-    "time": "2026-02-27T07:21:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India eye improved batting show to stay afloat in women's ODI series against Australia",
     "desc": "Having won the T20 series 2-1, a below-par India started the ODI contests on a disappointing note, losing by six wickets in Brisbane. The Indian women's team has never won a bilateral ODI series against Australia.",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/medvedev-calls-for-ranking-system-rethink-to-ease-burden-on-players/article70674626.ece",
     "time": "2026-02-25T07:29:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cast your picks for snubs, surprises and sweeps at the 98th Academy Awards",
+    "desc": "The 2026 Oscar race is coming into focus as one of the most competitive in recent memory. To help gauge how fans see the race shaping up, we’ve put together a set of poll questions for you to answer with your predictions",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/ab5fib/article70674356.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-predictions-poll-picks-for-the-98th-academy-awards/article70670972.ece",
+    "time": "2026-02-25T06:34:22.000Z"
   }
 ];

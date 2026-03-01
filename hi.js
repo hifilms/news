@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India head coach highlights 'team sport' philosophy after historic win over West Indies",
+    "desc": "Sanju Samson played some phenomenal cricket to help India beat West Indies by five wickets. With that, India qualified for the semi-finals of the T20 World Cup. The Kerala batter arguably played one of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-head-coach-highlights-team-sport-philosophy-after-historic-win-over-west-indies-2026-03-02-1032222",
+    "time": "2026-03-01T18:46:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Semifinal lineups and venues confirmed after India's win over West Indies",
     "desc": "Sanju Samson orchestrated India's stunning win over the West Indies to take the men in blue into the semifinals of the T20 World Cup. With this win, India qualified for the knockouts of the mega...",
     "img": "",
@@ -70,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-varun-chakaravarthy-s-mystery-to-play-key-role-for-india-in-must-win-clash-here-s-why-2026-03-01-1032185",
     "time": "2026-03-01T12:13:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India, West Indies aim to maintain respective unbeaten streaks at Eden Gardens in Kolkata",
-    "desc": "India and the West Indies will lock horns against each other in the final Super 8 clash of the T20 World Cup. The winner of the encounter will qualify for the semifinal while the other...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-india-west-indies-aim-to-maintain-respective-unbeaten-streaks-at-eden-gardens-in-kolkata-2026-03-01-1032180",
-    "time": "2026-03-01T11:14:49.000Z"
   }
 ];
