@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "২৭ বছরের সংসার ভাঙছে সুপারস্টারের! ঘরের বাইরে ছড়াল কুৎসা! নায়িকার সঙ্গে প্রেম, স্ত্রী-সন্তানকে অবহেলা, আদালতের দারস্থ হয়ে বোমা ফাটালেন 'অত্যাচারিত' স্ত্রী",
+    "desc": "নায়িকার সঙ্গে প্রেমের কথা জানতে পেরেও মুখ বুঝে সহ্য করেন স্ত্রী, এমনই দাবি৷ তবে বারবার তাঁর ও তাঁদের সন্তানতে অবহেলা এবং মানসিক যন্ত্রণার মধ্যে দিয়ে যেতে হয়, যা আর বয়ে চলা সম্ভব হচ্ছিল না বলে জানান সুপারস্টারের স্ত্রী৷ ফলে তিনি আদালতে যেতে বাধ্য হয়েছেন৷ যদিও এখনই সেই নায়িকার নাম তিনি জানাননি, তবে প্রয়োজনে সেই নামও সকলের সামেন তুলে ধরবেন বলে একপ্রকাল হুমকিই দিয়েছেন সঙ্গীতা৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Vijay-Divorce-2026-03-98573e3b35518e08167af18c06120d64-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/superstar-actor-vijay-wife-sangeeta-reveals-shocking-incidents-that-happened-in-2021-files-divorce-petition-pbd-2563702.html",
+    "time": "2026-03-01T11:04:48.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "আমেরিকা এবং ইজরায়েলের যৌথ হামলায় নিহত ইরানের সর্বোচ্চ ধর্মীয় নেতা খামেনেই",
+    "desc": "ইরানের সর্বোচ্চ নেতা আয়াতোল্লা আলি খামেনেই নিহত। আগেই দাবি করেছিলেন ইজরায়েলের প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহু এবং মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ৷ ইরানের সরকারি সংবাদমাধ্যমের পক্ষ থেকেও খামেনেইয়ের মৃত্যুর সত্যতা স্বীকার করা হয়েছে ৷ ইরানের সর্বোচ্চ ধর্মীয় নেতা আয়াতোল্লা আলি খামেনেই নিহত হয়েছেন। আমেরিকা এবং ইজরায়েলের যৌথ হামলায় তাঁর মৃত্যু হয়েছে বলে রবিবার সকালে নিশ্চিত করেছে তেহরানও। ইরানের সরকারি সংবাদমাধ্যম জানিয়েছে, দেশ জুড়ে ৪০ দিনের রাষ্ট্রীয় শোক ঘোষণা করা হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1772362957_CSokFT6V7h-thumbnail-169png-2aN3URUsXh-1200x720.png",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/international/irans-supreme-leader-ayatollah-ali-khamenei-killed-in-joint-us-israeli-attack-2563717.html",
+    "time": "2026-03-01T11:02:23.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "'ট্রাম্প হিটলারের থেকেও খারাপ! বিশ্ব দখল করছে', ভারত কোন পথে? কী মত ইমন কল্যাণ লাহিড়ীর",
+    "desc": "ইরানের উপর যৌথভাবে হামলা চালিয়েছে আমেরিকা-ইজরায়েল৷ নিহত ইরানের সর্বোচ্চ ধর্মীয় নেতা আয়াতোল্লা আলি খামেনেই৷ এ বিষয়ে আগামী দিনে ভারতের কী করা উচিত তা জানালেন যাদবপুর বিশ্ববিদ্যালয়ের আন্তর্জাতিক সম্পর্ক (International Relation) বিভাগের প্রাক্তন বিভাগীয় প্রধান ডঃ ইমনকল্যাণ লাহিড়ী৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/World-war-2026-03-99289c4ab678084f42e0145e2457bf35-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/kolkata/iran-israel-war-what-should-india-do-in-this-situation-here-is-what-expert-has-said-ank-2563675.html",
+    "time": "2026-03-01T10:52:08.000Z"
+  },
+  {
     "cat": "World",
     "title": "খামেইনি-মৃত্যুতে করাচির মার্কিন দূতাবাসে আগুন লাগাল উন্মত্ত জনতা! পুলিশের গুলিতে মৃত ৮",
     "desc": "ইরানের বিরুদ্ধে অবিরাম বিমান হানা শুরু করেছে আমেরিকা আর ইজরায়েল। আর এই বিমান হামলায় নিহত হয়েছেন ইরানের সুপ্রিমো আয়েতোল্লা আলি খামেনিই। সেই খবর সামনে আসতেই পাকিস্তানের করাচিতে মার্কিন দূতাবাসে হামলা চালাল বিক্ষুব্ধ জনতা। দূতাবাসের বেশ কিছু অংশে ভাঙচুর চালানো হয় বলে অভিযোগ।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/katakuti-2-trailer-launch-directed-by-raja-chanda-subrata-dutta-amrita-chatterjee-starrer-new-series-to-release-ss-2552196.html",
     "time": "2026-02-22T03:13:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মা, বাবা, ভাই, পোষা বেড়াল...এক এক করে সবাইকে খুন, ৫ বছরের ভাইপোকে...! নিজের বাড়িতে নৃংশস হত্যালীলা ক্লাস ১২ টপারের, ঘটনা জানলে শিউরে উঠবেন",
-    "desc": "নিজের পরিবারেই হত্যালীলা চালানোর অভিযোগ উঠল দীপক ধুরভে নামে মধ্যপ্রদেশের এক যুবকের বিরুদ্ধে৷ ৩০ বছরের যুবক মা, বাবা, ভাই এবং পোষা বিড়ালকেও নির্মমভাবে খুন করেছে বলেই অভিযোগ৷ দীপক ধুরভে নামে ওই যুবককে গ্রেফতার করেছে পুলিশ",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Crime-2026-02-f4b3fb3f889a96a1ed9d54c5bb2fed1c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/once-class-12-topper-mentally-unwell-man-has-killed-father-mother-and-brother-attacked-5-year-old-nephew-in-madhyapradesh-betur-ank-2551860.html",
-    "time": "2026-02-21T14:20:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "৫০%, ২৫%, ১৮%, ১০%, na ৩%...? ভারতীয় পণ্যের উপর আজকের তারিখে 'ট্যারিফ' কত? ট্রাম্পের বিরুদ্ধে সুপ্রিম রায়ে কী প্রভাব? জানুন!",
-    "desc": "মার্কিন সুপ্রিম কোর্টে বড় ধাক্কা প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে। বিশ্বের প্রায় সমস্ত দেশের উপরে ইচ্ছেমতো ট্যারিফ চাপানোর নির্দেশ খারিজ করে বেআইনি ঘোষণা করে দিয়েছে মার্কিন সুপ্রিম কোর্ট৷ এই মুহূর্তে কত দাঁড়াচ্ছে ভারতের পণ্যের রফতানি 'শুল্ক'? জানুন সবিস্তার।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/TRUMP-2026-02-0231be8904c7197927b22f5c10a13706-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/usa-india-tariff-rate-what-are-the-current-tariffs-on-indian-products-now-what-will-be-the-impact-of-the-trump-ruling-know-in-detail-us-supreme-court-tariff-ruling-explained-sanj-2551446.html",
-    "time": "2026-02-21T10:16:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "আধার পিভিসি কার্ড কী এবং কীভাবে এটি পাওয়া যেতে পারে? জানুন সম্পূর্ণ তথ্য",
-    "desc": "আধার পিভিসি কার্ড হল Unique Identification Authority of India কর্তৃক জারি করা আধারের একটি নতুন ও টেকসই সংস্করণ। উন্নত সিকিউরিটি ফিচার ও ছোট আকারের জন্য এটি বহনে সুবিধাজনক এবং অনলাইনে সামান্য ফি দিয়ে অর্ডার করা যায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/aadhaar-60-2026-02-8af6df9b83ebfc0582962ff56631ced6-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/what-is-aadhaar-pvc-card-know-features-benefits-and-how-to-apply-online-tc-dc-aa-2547963.html",
-    "time": "2026-02-21T05:52:57.000Z"
   }
 ];

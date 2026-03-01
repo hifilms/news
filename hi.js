@@ -1,7 +1,34 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "South Africa set to bowl, ZIM opt to bat first",
+    "title": "Varun Chakaravarthy's mystery to play key role for India in must-win clash, here's why",
+    "desc": "West Indies will face India today as both teams face a must-win situation to qualify for the semifinals of the T20 World Cup. The match is set to take place at the Eden Gardens in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-varun-chakaravarthy-s-mystery-to-play-key-role-for-india-in-must-win-clash-here-s-why-2026-03-01-1032185",
+    "time": "2026-03-01T12:13:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India, West Indies aim to maintain respective unbeaten streaks at Eden Gardens in Kolkata",
+    "desc": "India and the West Indies will lock horns against each other in the final Super 8 clash of the T20 World Cup. The winner of the encounter will qualify for the semifinal while the other...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-india-west-indies-aim-to-maintain-respective-unbeaten-streaks-at-eden-gardens-in-kolkata-2026-03-01-1032180",
+    "time": "2026-03-01T11:14:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah set to achieve major milestone ahead of crucial West Indies clash in Kolkata",
+    "desc": "Star India pacer Jasprit Bumrah will have many eyes set upon him as the Indian team gears up to take on the West Indies. The two sides will lock horns in game 52 of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-set-to-achieve-major-milestone-ahead-of-crucial-west-indies-clash-in-kolkata-2026-03-01-1032176",
+    "time": "2026-03-01T10:18:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa look to limit ZIM early",
     "desc": "Game 51 of the ongoing T20 World Cup 2026 sees South Africa taking on Zimbabwe. The two sides lock horns at the Arun Jaitley Stadium in Delhi on March 1. The game will have no...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-pitch-report-how-will-surface-at-eden-gardens-in-kolkata-play-in-t20-world-cup-2026-03-01-1032149",
     "time": "2026-03-01T06:10:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Which team has hit more sixes in the T20 World Cup 2026?",
-    "desc": "India and the West Indies are all set to take on each other in the Super 8 stage of the ongoing T20 World Cup 2026. The two sides will lock horns in game 52 of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-squad-comparison-which-team-has-hit-more-sixes-in-the-t20-world-cup-2026-2026-03-01-1032146",
-    "time": "2026-03-01T05:57:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek-Ishan vs King-Hope, which openers have better stats?",
-    "desc": "The stage is set for one of the most anticipated matches of the ongoing T20 World Cup 2026. Game 52 of the tournament will see the Indian team taking on the West Indies. The two...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-t20i-squad-comparison-abhishek-ishan-vs-king-hope-which-openers-have-better-stats-2026-03-01-1032134",
-    "time": "2026-03-01T04:29:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will rain spoil IND vs WI T20 World Cup 2026 Super Eight clash?",
-    "desc": "The stage is set for game 52 of the ongoing T20 World Cup 2026. Team India will take on the West Indies at the Eden Gardens in Kolkata on March 1. The clash is a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kolkata-weather-report-will-rain-spoil-ind-vs-wi-t20-world-cup-2026-super-eight-clash-2026-03-01-1032130",
-    "time": "2026-03-01T03:26:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Extremely tense and scary’",
-    "desc": "Star India shuttler PV Sindhu has caught all the headlines of late, as she has been stranded at the Dubai airport, as tensions due to the conflict with Iran continue to escalate. Taking to social...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-still-stuck-at-dubai-airport-posts-crucial-update-2026-03-01-1032125",
-    "time": "2026-03-01T02:20:37.000Z"
   }
 ];
