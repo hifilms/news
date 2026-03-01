@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "১, ২, ৩ মার্চ...! ভারী বৃষ্টি কাঁপাবে ৬ রাজ্য, বজ্রবিদ্যুৎ-দমকা হাওয়ার হুঁশিয়ারি ১২ রাজ্যে, পারদ চড়ছে কোন কোন রাজ্যে? 'দোলে' কী হবে বাংলায়? জানিয়ে দিল IMD",
+    "desc": "নতুন করে ঢুকছে পশ্চিমী ঝঞ্ঝা! ফুঁসছে একের পর এক ঘূর্ণাবর্ত! দোলের আগেই এসে গেল আবহাওয়ার বড় হুঁশিয়ারি। আগামী ৩ দিন! ভারী বৃষ্টি কাঁপাবে ৬ রাজ্য, বজ্রবিদ্যুৎ-দমকা হাওয়ার হুঁশিয়ারি ১২ রাজ্যে, লাফিয়ে লাফিয়ে তাপমাত্রা বাড়বে কোন কোন রাজ্যে? হোলিতে ভিজবে বাংলা? জেনে নিন আবহাওয়ার সম্পূর্ণ লেটেস্ট আপডেট",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj_rain_Thunder-2026-02-d4442b7a82e43dc3ddb6c50620195dec-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-1st-2nd-3rd-march-heavy-rainfall-alert-in-6-states-thunderstorm-lightning-to-hit-12-states-for-next-3-days-know-latest-west-bengal-weather-sanj-2564020.html",
+    "time": "2026-03-01T17:42:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Subhashree Ganguly Father's Reaction: \"আমার নাতি বড্ড ভীতু\", চিন্তায় শুভশ্রীর বাবা! ফোনে কী কথা হল? বোমাবর্ষণের মাঝে দুবাইয়ে ছেলেকে নিয়ে আটকে শুভশ্রী",
+    "desc": "আগামী ৫ তারিখ দেশে ফেরার টিকিট থাকলেও বর্তমান পরিস্থিতিতে এতদিন সেখানে থাকা সম্ভব হবে কি না তা নিয়ে অনিশ্চয়তা তৈরি হয়েছে। তিনি আরও বলেন, আমার নাতি একটু ভীতু প্রকৃতির তাই চুপচাপ হয়ে গেছে এই সব দেখে। রাত্রে বেলায় আবার ফোন করে কথা বলার চেষ্টা করব।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-01-at-10.08.53-PM-2026-03-20b6df4c78f2125100344abee6641f41-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/actress-subhashree-ganguly-stuck-in-dubai-with-son-her-father-panics-says-his-grandson-is-bit-worried-l18-pbd-local18-2563987.html",
+    "time": "2026-03-01T17:11:32.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "শোলে-এর পঞ্চাশে বিশেষ ক্যালেন্ডার প্রকাশ, জয়-বীরু এর ভূমিকায় সিধু-পটা জুটির উপস্থিতি",
     "desc": "দ্যা ড্রিমার্স মিউজিক পিআর এজেন্সির উদ্যোগে , সেরাম গ্রুপ এর নিবেদনে প্রকাশ পেল \"শোলে পঞ্চাশ\" বিশেষ ক্যালেন্ডার। চমক ছিল এর প্রকাশ অনুষ্ঠানে। শোলের দুই মুখ্য চরিত্র জয়-বীরু হিসেবে উপস্থিত ছিলেন বাংলা রক ব্যান্ড ক্যাকটাস এর সিধু-পটা জুটি।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/narendra-modi-shonar-bangla-deceived-under-tmc-pm-modi-letter-west-bengal-polls-bjp-vikshit-bengal-sal-2553446.html",
     "time": "2026-02-23T07:18:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "গুলিবিদ্ধ পা! দুর্গম পার্বত্য এলাকায় জইশ-ঘাঁটি চিনিয়ে দিল সেনাবাহিনীর সারমেয় টাইসন! অভিযানে খতম ৩ জঙ্গি",
-    "desc": "নিহত জঙ্গিদের কাছ থেকে দুটি AK-47 রাইফেল, গোলাবারুদ এবং অন্যান্য সরঞ্জাম উদ্ধার করা হয়েছে। সেনাবাহিনী সূত্রে জানানো হয়েছে, জঙ্গিরা দীর্ঘ দিন নিরাপত্তা বাহিনীর সঙ্গে লুকোচুরি খেলছিল। কিন্তু টাইসন সময়মতো তাদের আস্তানা শনাক্ত করার ফলে তাদের নিধন করা সম্ভব হয়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/New-Project-43-2026-02-b1e8b7ce1713d13057d8a728cc500da0-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/army-dog-tyson-in-spite-of-being-shot-leads-troops-to-eliminate-3-jaish-terrorists-in-jammu-and-kashmir-arc-2553094.html",
-    "time": "2026-02-23T03:10:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajnikaanth- Kamal Hassan: ৪০ বছর পর পর্দায় কামব্যাক রজনী–কমল জুটির, ঘোষণা ‘কেএইচxআরকে’ প্রোজেক্ট",
-    "desc": "১৯৮৫ সালে ‘গিরফতার’ ছবিতে অমিতাভ বচ্চন-এর সঙ্গে একসঙ্গে স্ক্রিন শেয়ার করেছিলেন রজনীকান্ত ও কমল হাসান। সেই স্মৃতি আজও অমলিন ভক্তদের কাছে। এরপর কেটে গিয়েছে প্রায় চার দশক, কিন্তু আর কোনও ছবিতে তাঁদের একসঙ্গে দেখা যায়নি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Rajnikanth-Kamala-Hassan-2026-02-2b9e4f9f52bb118eea558d99995c617b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/rajinikanth-kamal-haasan-reunion-after-40-years-khxrk-project-announced-sal-2552718.html",
-    "time": "2026-02-22T14:10:30.000Z"
   }
 ];

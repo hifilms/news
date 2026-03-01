@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Semifinal lineups and venues confirmed after India's win over West Indies",
+    "desc": "Sanju Samson orchestrated India's stunning win over the West Indies to take the men in blue into the semifinals of the T20 World Cup. With this win, India qualified for the knockouts of the mega...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-semifinal-lineups-and-venues-confirmed-after-india-s-win-over-west-indies-2026-03-01-1032221",
+    "time": "2026-03-01T18:18:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson breaks Virat Kohli's all-time record in T20 World Cup, his reaction goes viral after winning shot",
+    "desc": "Sanju Samson saved his best for the crunch game in the T20 World Cup, and he played a match-winning knock against the West Indies to help India qualify for the semifinal of the tournament. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-breaks-virat-kohli-s-all-time-record-in-t20-world-cup-his-reaction-goes-viral-after-winning-shot-2026-03-01-1032217",
+    "time": "2026-03-01T17:32:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson architects India's historic win over West Indies, set semi-final date against England in T20 WC",
+    "desc": "India defeated West Indies by five wickets to qualify for the semi-finals of the T20 World Cup 2026. In the David vs Goliath clash, which West Indies coach Daren Sammy mentioned a day earlier, Sanju...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-architects-india-s-historic-win-over-west-indies-set-semi-final-date-against-england-in-t20-world-cup-2026-03-01-1032216",
+    "time": "2026-03-01T17:18:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zimbabwe's return home from Delhi delayed after T20 World Cup campaign due to Middle East conflict",
+    "desc": "Zimbabwe cricket team's return home has been delayed and they have become the first team in the T20 World Cup to be affected by the closure of airspaces in the Middle East. They will now...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-s-return-home-from-delhi-delayed-after-t20-world-cup-campaign-due-to-middle-east-conflict-2026-03-01-1032208",
+    "time": "2026-03-01T15:25:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shimron Hetmyer sets new T20 World Cup record in must-win clash against India",
     "desc": "Flamboyant Shimron Hetmyer has overtaken Sahibzada Farhan to claim the record for the most sixes in a single edition of the T20 World Cup. The Pakistan opener had surpassed Nicholas Pooran just the previous night...",
     "img": "",
@@ -43,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-india-west-indies-aim-to-maintain-respective-unbeaten-streaks-at-eden-gardens-in-kolkata-2026-03-01-1032180",
     "time": "2026-03-01T11:14:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah set to achieve major milestone ahead of crucial West Indies clash in Kolkata",
-    "desc": "Star India pacer Jasprit Bumrah will have many eyes set upon him as the Indian team gears up to take on the West Indies. The two sides will lock horns in game 52 of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-set-to-achieve-major-milestone-ahead-of-crucial-west-indies-clash-in-kolkata-2026-03-01-1032176",
-    "time": "2026-03-01T10:18:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa enter semis unbeaten",
-    "desc": "Game 51 of the ongoing T20 World Cup 2026 sees South Africa taking on Zimbabwe. The two sides lock horns at the Arun Jaitley Stadium in Delhi on March 1. The game will have no...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/zim-vs-sa-t20-world-cup-2026-super-eight-live-cricket-score-sa-aim-to-maintain-dominance-in-delhi-2026-03-01-1032167",
-    "time": "2026-03-01T09:03:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Alyssa Healy smashes stellar ton in her final ODI, propels Australia women to massive total",
-    "desc": "Australia women and India women continued their ongoing ODI series by taking on each other in the third ODI. The two sides locked horns at the Bellerive Oval in Hobart on March 1. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/alyssa-healy-smashes-stellar-ton-in-her-final-odi-propels-australia-women-to-massive-total-2026-03-01-1032163",
-    "time": "2026-03-01T08:42:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'He doesn't have shots there': R Ashwin weighs in on Abhishek Sharma's range ahead of West Indies clash",
-    "desc": "India and the West Indies are all set to take on each other in game 52 of the ongoing T20 World Cup 2026. The Super 8 stage of the tournament has been shaky for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/he-doesn-t-have-shots-there-r-ashwin-weighs-in-on-abhishek-sharma-s-range-ahead-of-wi-clash-2026-03-01-1032159",
-    "time": "2026-03-01T08:07:32.000Z"
   }
 ];

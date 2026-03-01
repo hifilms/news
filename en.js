@@ -1,6 +1,123 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "A case of so near and yet so far for a star-studded Karnataka team",
+    "desc": "The final laid bare two of the southern heavyweight’s biggest lacunae — lack of bite when lead spinner Shreyas has an off-day and the pace bowlers’ propensity to not be persistent; the unvarnished truth is that there are no easy teams in the premier domestic competition anymore",
+    "img": "https://th-i.thgim.com/public/incoming/4nggba/article70692784.ece/alternates/LANDSCAPE_1200/_DSC8274.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-a-case-of-so-near-and-yet-so-far-for-a-star-studded-karnataka-team/article70692493.ece",
+    "time": "2026-03-01T18:04:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indians among those injured in Iranian strikes, says UAE",
+    "desc": "Ongoing conflict between U.S.-Israel alliance and Iran send waves across West Asia; oil tanker with Indians among crew hit off Oman, passengers stranded as flight disruptions; 8 Indians stuck in Karachi airport after aircraft diversion over the conflict",
+    "img": "https://th-i.thgim.com/public/incoming/1aws6c/article70692764.ece/alternates/LANDSCAPE_1200/20260228526L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/indians-among-those-injured-in-iranian-strikes-says-uae/article70692102.ece",
+    "time": "2026-03-01T18:02:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel conflict LIVE: Trump says nine Iran navy ships 'destroyed and sunk'; Iran state TV says it was targeted by strikes",
+    "desc": "An Iranian missile strike in the Israeli town of Beit Shemesh has killed several people, Israeli first responders say; While Iran said that it \"struck\" U.S. aircraft carrier USS Abraham Lincoln, U.S. Central Command denied the claims",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-us-tensions-iran-israel-war-nuclear-tensions-tehran-tel-aviv-march-1-live-updates/article70690476.ece",
+    "time": "2026-03-01T18:01:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cost of Orange Line Metro realignment in Nagarabhavi",
+    "desc": "According to the original plan, the initial alignment passed along the Outer Ring Road, from Dwaraka Nagar station to Chowdeshwari Nagar station, which residents claimed will have resulted in at least 90% less environmental destruction",
+    "img": "https://th-i.thgim.com/public/incoming/tzofdj/article70692719.ece/alternates/LANDSCAPE_1200/_JAI2143.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/463-trees-of-34-species-cost-of-orange-line-metro-realignment-in-nagarabhavi/article70691183.ece",
+    "time": "2026-03-01T17:36:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP begins campaign for Bengal Assembly elections with Parivartan Yatras",
+    "desc": "Senior party leaders flag off four Parivartan Yatras in four different corners of the State. On March 2, five more will be flagged off in the State. All nine yatras will conclude with a public rally of Prime Minister Narendra Modi at Kolkata’s Brigade Parade Grounds",
+    "img": "https://th-i.thgim.com/public/incoming/7uxt9y/article70692711.ece/alternates/LANDSCAPE_1200/PTI03_01_2026_000683A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/bjp-begins-campaign-for-bengal-assembly-elections-with-parivartan-yatras/article70692222.ece",
+    "time": "2026-03-01T17:31:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ice-cool Sanju Samson fires India into T20 World Cup semis",
+    "desc": "Pace or spin, Sanju Samson took the West Indies down with aplomb and never lost shape in the process. He hit the ball where it was meant to be hit but his ice-cool nerves stood out during his 50-ball 97*, which included 12 boundaries and four sixes. India will now face England in the T20 World Cup semi-final at Wankhede Stadium.",
+    "img": "https://static.toiimg.com/photo/msid-128922108,imgsize-30378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ice-cool-sanju-samson-fires-india-into-t20-world-cup-semis/articleshow/128922088.cms",
+    "time": "2026-03-01T17:25:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika, Vijay attend Allu Sirish’s Pelli Koduku ceremony",
+    "desc": "Tollywood star Allu Sirish is set to marry his fiancee Nayanika Reddy on March 6, and the pre-wedding celebrations have begun in full swing at the Allu residence in Hyderabad. On Sunday, Allu Sirish took to social media to share glimpses from his Pelli Koduku ceremony, held in the presence of close family members and friends.",
+    "img": "https://static.toiimg.com/photo/msid-128921996,imgsize-128260.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/newlyweds-rashmika-mandanna-vijay-deverakonda-attend-allu-sirishs-pelli-koduku-ceremony-ahead-of-march-6-wedding-with-nayanika-reddy/articleshow/128921996.cms",
+    "time": "2026-03-01T17:12:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ban, regulate or reform? Social media &amp; under-15s – The India question",
+    "desc": "India is debating a ban on social media for children under 15. Global trends show stricter digital safety laws for minors. Experts cite risks like addiction and bullying. The country must balance protection with access. Solutions may involve design reform and digital literacy. This decision impacts millions of young users.",
+    "img": "https://static.toiimg.com/photo/msid-128921119,imgsize-1368219.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ban-regulate-or-reform-social-media-under-15s-the-india-question/articleshow/128918054.cms",
+    "time": "2026-03-01T17:10:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Temple road-widening project in Varanasi puts livelihoods in peril",
+    "desc": "As bulldozers roll into Dal Mandi in Varanasi to demolish 187 buildings housing over 1,000 shops along the 650-metre road stretch to widen access to the Kashi Vishwanath Temple, thousands of traders and residents confront an uncertain future. The ₹224-crore project has sparked displacement fears, compensation disputes and allegations of selective targeting",
+    "img": "https://th-i.thgim.com/public/incoming/2vse0u/article70691661.ece/alternates/LANDSCAPE_1200/DALMANDI%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/temple-road-widening-project-puts-livelihoods-in-peril/article70691710.ece",
+    "time": "2026-03-01T16:39:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi targets DMK over corruption, Katchatheevu; calls ‘no fear’ remark a badge of honour",
+    "desc": "Prime Minister Modi launched a scathing attack on Tamil Nadu's DMK, accusing leaders of prioritizing scams over public welfare and failing to protect state interests. Addressing a rally, he asserted NDA's victory in the upcoming elections, highlighting issues like Katchatheevu, Jallikattu, and women's safety, while also inaugurating development projects.",
+    "img": "https://static.toiimg.com/photo/msid-128921308,imgsize-64912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-polls-pm-modi-targets-dmk-over-corruption-katchatheevu-calls-no-fear-remark-a-badge-of-honour/articleshow/128920955.cms",
+    "time": "2026-03-01T16:29:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajpal reacts to Sonu’s offer: ‘Get over the misconception...’",
+    "desc": "Actor-comedian Rajpal Yadav recently addressed the media in Mumbai amid the ongoing Rs 9 crore cheque bounce case, arriving at the press conference with his lawyer Bhaskar Upadhyay. During the interaction, he spoke about his legal battle, the support he has received and the scale of his upcoming work. Reacting to Sonu Sood’s recent comment about offering him work, Rajpal said, “Please get over the misconception that I need to keep asking for work.\"",
+    "img": "https://static.toiimg.com/photo/msid-128920657,imgsize-78854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-reacts-to-sonu-soods-offer-amid-rs-9-crore-cheque-bounce-case-please-get-over-the-misconception/articleshow/128920657.cms",
+    "time": "2026-03-01T16:04:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chief Justice of India Surya Kant stresses on building a ‘mediation culture’ for resolving disputes amicably",
+    "desc": "It is gaining greater acceptance as an effective tool for dispute resolution, and the process has statutory backup in the Mediation Act of 2023, he observes; Chief Minister Chandrababu Naidu urges the CJI to consider establishing National Judicial Academy in Amaravati",
+    "img": "https://th-i.thgim.com/public/incoming/jk0cfj/article70692155.ece/alternates/LANDSCAPE_1200/10745_1_3_2026_20_14_37_1_IMG_20260301_WA0108.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-justice-of-india-surya-kant-stresses-on-building-a-mediation-culture-for-resolving-disputes-amicably/article70692158.ece",
+    "time": "2026-03-01T15:41:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arijit Singh’s father recalls family’s journey from Lahore to WB",
+    "desc": "Days after Arijit Singh surprised fans with his January 27, 2026 retirement announcement from playback singing, a deeply personal story about his roots has come to light. In a recent interaction, his father Surinder Singh opened up about the family’s journey from pre-Partition Lahore to West Bengal — and Arijit’s early musical beginnings in a local gurdwara.",
+    "img": "https://static.toiimg.com/photo/msid-128919883,imgsize-53036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arijit-singhs-father-surinder-singh-recalls-familys-journey-from-lahore-to-west-bengal-after-partition-says-arijit-used-to-sing-kirtan-in-gurdwara/articleshow/128919883.cms",
+    "time": "2026-03-01T15:29:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "South Africa coach's 'cupcake' jibe after another 'chokers' reminder",
     "desc": "South Africa coach Shukri Conrad brought out the \"cupcake\" jibe after continuing their unbeaten run in the T20 World Cup with a win over Zimbabwe. He was asked about their infamous 'chokers' tag as they ready to face New Zealand in the semi-final at Eden Gardens on Wednesday.",
     "img": "https://static.toiimg.com/photo/msid-128919588,imgsize-183936.cms",
@@ -16,15 +133,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/v-p-launches-remote-controlled-drone-based-tranquillizer-system-in-thrissur/article70691975.ece",
     "time": "2026-03-01T15:01:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel conflict LIVE: Iran Guards say 'struck' U.S. aircraft carrier USS Abraham Lincoln",
-    "desc": "Several killed in Iranian missile strike in Beit Shemesh, Israel'; Iran's President Masoud Pezeshkian, in a recorded video message broadcast on state TV, said that the interim leadership council established after the killing of supreme leader Ayatollah Ali Khamenei has begun its work",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-us-tensions-iran-israel-war-nuclear-tensions-tehran-tel-aviv-march-1-live-updates/article70690476.ece",
-    "time": "2026-03-01T14:58:26.000Z"
   },
   {
     "cat": "Sports",
@@ -117,33 +225,6 @@ const newsData_en = [
     "time": "2026-03-01T12:28:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Traffic curbs announced in Thiruvananthapuram for Attukal Pongala on March 3",
-    "desc": "Container lorries, goods carriers and other heavy vehicles will not be permitted to enter the city limits or park on roads within the Corporation area during the restricted period. Vehicles found causing obstruction or posing safety risks will be removed without prior notice, and legal action will be initiated, according to a police advisory",
-    "img": "https://th-i.thgim.com/public/incoming/s237qo/article70691465.ece/alternates/LANDSCAPE_1200/PTI03_01_2026_000010A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/traffic-curbs-announced-in-thiruvananthapuram-for-attukal-pongala-on-march-3/article70691123.ece",
-    "time": "2026-03-01T11:57:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala Chief Minister Pinarayi Vijayan calls U.S. and Israel “rogue nations,” condemns Khamenei’s killing",
-    "desc": "Kerala Chief Minister says he has written to Prime Minister Narendra Modi asking for immediate intervention to address the concerns of lakhs of people from the State living and working in West Asian countries, which have been caught in the middle of the Iran-Israel conflict",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/xjnp6k/article70690977.ece/alternates/LANDSCAPE_1200/Pinarayi3.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-chief-minister-pinarayi-vijayan-calls-us-and-israel-rogue-nations-condemns-khameneis-killing/article70690978.ece",
-    "time": "2026-03-01T11:49:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SITAM College signs Mou with GouraGo Games and Technologies to ensure jobs for students in gaming industry",
-    "desc": "“The gaming industry is providing a lot of opportunities for budding engineers who have technical and creative skills. The company will conduct training programmes in the college and provide job opportunities based on the skills acquired by the students,” says Sonu Dayal",
-    "img": "https://th-i.thgim.com/public/incoming/hemw5e/article70691378.ece/alternates/LANDSCAPE_1200/10745_1_3_2026_12_53_14_1_IMG_20260301_WA0045.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/sitam-college-signs-mou-with-gourago-games-and-technologies-to-ensure-jobs-for-students-in-gaming-industry/article70690881.ece",
-    "time": "2026-03-01T11:32:49.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Bengali actress Subhashree Ganguly and son stranded in Dubai",
     "desc": "Bengali actress Subhashree Ganguly and son Yuvaan are stuck in Dubai due to West Asia unrest and flight cancellations after US-Israel strikes on Iran. UAE orders indoors stay; they're safe, per husband Raj Chakraborty. Sonal Chauhan pleads to PM Modi online. Embassy aids stranded Indians amid Gulf airspace closures.",
@@ -187,24 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-want-people-to-see-where-the-money-went-rajpal-yadav-to-release-ata-pata-laapata-clips-on-social-media-to-prove-production-costs-amid-cheque-bounce-case/articleshow/128913692.cms",
     "time": "2026-03-01T11:06:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Retired motor vehicle inspector booked for issuing over 10,000 fitness certificates without inspection in Bengaluru",
-    "desc": "The complaint alleges that by issuing fitness certificates without physical verification and in alleged collusion with vehicle owners, the retired inspector committed offences amounting to criminal breach of trust and cheating, causing wrongful loss to the Transport Department",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/retired-motor-vehicle-inspector-booked-for-issuing-over-10000-fitness-certificates-without-inspection-in-bengaluru/article70690825.ece",
-    "time": "2026-03-01T10:55:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Flights to West Asia cancelled for second day from Tiruchi",
-    "desc": "Tiruchi Airport Director S.S. Raju said Air India Express flights in the Tiruchi - Sharjah - Tiruchi sector (IX 0613 / IX 0614) and Tiruchi - Dubai - Tiruchi sector (IX 0611 and IX 0612) have been cancelled on Sunday (March 1, 2026).",
-    "img": "https://th-i.thgim.com/public/incoming/ge6iud/article70691163.ece/alternates/LANDSCAPE_1200/DSC_7203.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/flights-to-west-asia-cancelled-for-second-day-from-tiruchi/article70690979.ece",
-    "time": "2026-03-01T10:52:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -270,15 +333,6 @@ const newsData_en = [
     "time": "2026-03-01T10:06:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Festive mood grips the city ahead of Attukal Pongala on March 3",
-    "desc": "Labelled as among the largest religious congregations of women in the country, thousands of families across Kerala and also neighbouring States are trickling into a six-km radius of the famed Attukal Devi Temple to offer a sacrament of rice and jaggery cooked on hastily assembled open hearths",
-    "img": "https://th-i.thgim.com/public/incoming/zigrbd/article70691195.ece/alternates/LANDSCAPE_1200/PTI03_01_2026_000009B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/festive-mood-grips-the-city-ahead-of-attukal-pongala-on-march-3/article70691154.ece",
-    "time": "2026-03-01T09:58:29.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Is Ajith safe in Dubai? Manager Suresh Chandraa answers",
     "desc": "Actor Ajith Kumar is safe in Dubai. His manager, Suresh Chandraa, issued a statement to quell fan concerns over Middle East tensions. Ajith, who resides in Dubai for his racing career, is focused on his professional commitments. Fans can now rest assured about his well-being. His return to cinema is eagerly anticipated after his racing engagements conclude.",
@@ -295,15 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-tensions-will-stock-market-open-lower-on-monday-analysts-warn-of-volatility-as-crude-rises/articleshow/128911928.cms",
     "time": "2026-03-01T09:53:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tobacco Board to meet in Mysuru on Monday",
-    "desc": "All the major cigarette manufacturers and exporters, including ITC, are expected to attend the meeting held in the wake of the concern gripping the tobacco farmers of the region following a collapse in the prices of tobacco after the Centre recently hiked GST from 28% to 40%",
-    "img": "https://th-i.thgim.com/public/incoming/hoeiaz/article70691127.ece/alternates/LANDSCAPE_1200/FAIFA-flays-WHOGN5F58A4M.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/price-crash-tobacco-board-to-meet-in-mysuru-on-monday/article70691029.ece",
-    "time": "2026-03-01T09:36:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -333,15 +378,6 @@ const newsData_en = [
     "time": "2026-03-01T09:17:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Nation paying heavy price for substance, style of Modi's foreign policy: Congress",
-    "desc": "\"PM Modi visited Israel on February 25 at a time when the entire world was aware that a U.S.-Israel military attack on Iran for regime change was imminent. The assault began just two days after Mr. Modi left Israel, where his speech to the Knesset was a display of shameful moral cowardice,\" says Jairam Ramesh",
-    "img": "https://th-i.thgim.com/public/incoming/i5wtpi/article70691083.ece/alternates/LANDSCAPE_1200/Hats-off-to-US-GBFFK9K15.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/nation-paying-heavy-price-for-substance-style-of-modis-foreign-policy-congress/article70691072.ece",
-    "time": "2026-03-01T09:14:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "All you need to know about ‘Outlander’ season 8",
     "desc": "Get ready for the epic conclusion of 'Outlander' as Season 8, the show's final chapter, approaches. Following a dramatic Season 7 cliffhanger, expect a focus on family and parenthood, with Jamie and Claire returning to a changed Fraser's Ridge. New secrets and characters will emerge in this highly anticipated series finale, airing weekly on Starz starting March 6.",
@@ -358,24 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/out-of-the-group-chat-ashley-park-reveals-glimpse-of-selena-gomezs-sun-soaked-vacation-in-mexico-with-nina-dobrev/articleshow/128910718.cms",
     "time": "2026-03-01T09:04:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Connor Storrie and Hudson Williams reunite on ‘SNL’",
-    "desc": "Fans of 'Heated Rivalry' rejoiced as co-stars Connor Storrie and Hudson Williams reunited on 'Saturday Night Live'. Williams surprised audiences by crashing Storrie's ice rink proposal skit, delivering a lively line before joining Storrie, Ben Marshall, and Mikey Day for a skate. The duo also announced Mumford & Sons' performance.",
-    "img": "https://static.toiimg.com/photo/msid-128910458,imgsize-82758.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/connor-storrie-courts-success-in-snl-hosting-gig-as-co-star-hudson-williams-joins-in-ice-skating/articleshow/128910458.cms",
-    "time": "2026-03-01T08:45:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kim Ha Neul and Kim Jae Won reunite after 24 years,",
-    "desc": "Fans are buzzing as K-drama stars Kim Ha Neul and Kim Jae Won reunite 24 years after their iconic 2002 series Romance. They appeared together on a special program filmed in Japan, reminiscing about the on-set days and the show's enduring impact. The pair's nearly ageless looks have reignited nostalgia for the beloved early-2000s screen couple.",
-    "img": "https://static.toiimg.com/photo/msid-128910551,imgsize-102906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/romance-stars-kim-ha-neul-and-kim-jae-won-reunite-after-24-years-hitting-fans-with-a-wave-of-nostalgia/articleshow/128910551.cms",
-    "time": "2026-03-01T08:43:23.000Z"
   },
   {
     "cat": "World",
@@ -502,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-2-film-mints-over-rs-4-crore-shahid-kapoors-o-romeo-declines/articleshow/128902775.cms",
     "time": "2026-03-01T01:42:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Can J&amp;K’s Ranji triumph heal old wounds?",
-    "desc": "Jammu and Kashmir achieved a historic Ranji Trophy victory, thrashing favorites Karnataka in a remarkable Cinderella story. This triumph offers a non-political avenue for Kashmiri integration into the Indian mainstream, potentially shifting focus from alienation to national pride through cricket's unifying power.",
-    "img": "https://static.toiimg.com/photo/msid-128891242,imgsize-1538586.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/can-jks-ranji-triumph-heal-old-wounds/articleshow/128891217.cms",
-    "time": "2026-02-28T23:30:00.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/medvedev-calls-for-ranking-system-rethink-to-ease-burden-on-players/article70674626.ece",
     "time": "2026-02-25T07:29:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Cast your picks for snubs, surprises and sweeps at the 98th Academy Awards",
-    "desc": "The 2026 Oscar race is coming into focus as one of the most competitive in recent memory. To help gauge how fans see the race shaping up, we’ve put together a set of poll questions for you to answer with your predictions",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/ab5fib/article70674356.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-predictions-poll-picks-for-the-98th-academy-awards/article70670972.ece",
-    "time": "2026-02-25T06:34:22.000Z"
   }
 ];
