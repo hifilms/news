@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shimron Hetmyer sets new T20 World Cup record in must-win clash against India",
+    "desc": "Flamboyant Shimron Hetmyer has overtaken Sahibzada Farhan to claim the record for the most sixes in a single edition of the T20 World Cup. The Pakistan opener had surpassed Nicholas Pooran just the previous night...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shimron-hetmyer-sets-new-t20-world-cup-record-in-must-win-clash-against-india-2026-03-01-1032204",
+    "time": "2026-03-01T14:55:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Nicholas Pooran not playing India vs West clash in T20 World Cup?",
+    "desc": "Star batter Nicholas Pooran retired from international cricket in June 2025, just eight months prior to the T20 World Cup. His shocking decision surprised everyone, given his scintillating form and most importantly, his recent experience...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-nicholas-pooran-not-playing-india-vs-west-clash-in-t20-world-cup-2026-03-01-1032196",
+    "time": "2026-03-01T13:33:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Rinku Singh not playing in India vs West Indies clash in T20 World Cup?",
+    "desc": "India opted to leave Rinku Singh out of their heavyweight Super Eights clash against West Indies at the iconic Eden Gardens in Kolkata. The 28-year-old had already been dropped for the previous fixture against Zimbabwe...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-rinku-singh-not-playing-in-india-vs-west-indies-clash-in-t20-world-cup-2026-03-01-1032194",
+    "time": "2026-03-01T13:17:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Varun Chakaravarthy's mystery to play key role for India in must-win clash, here's why",
     "desc": "West Indies will face India today as both teams face a must-win situation to qualify for the semifinals of the T20 World Cup. The match is set to take place at the Eden Gardens in...",
     "img": "",
@@ -28,7 +55,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "South Africa look to limit ZIM early",
+    "title": "South Africa enter semis unbeaten",
     "desc": "Game 51 of the ongoing T20 World Cup 2026 sees South Africa taking on Zimbabwe. The two sides lock horns at the Arun Jaitley Stadium in Delhi on March 1. The game will have no...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/he-doesn-t-have-shots-there-r-ashwin-weighs-in-on-abhishek-sharma-s-range-ahead-of-wi-clash-2026-03-01-1032159",
     "time": "2026-03-01T08:07:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head to Head record ahead of T20 World Cup Super 8 clash in Kolkata",
-    "desc": "The road to the T20 World Cup 2026 knockouts is closing in. Many eyes will be set upon the upcoming game between India and the West Indies. A win for either side would mean qualification...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-head-to-head-record-ahead-of-t20-world-cup-super-8-clash-in-kolkata-2026-03-01-1032155",
-    "time": "2026-03-01T07:15:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's probable XI vs West Indies: Kuldeep Yadav IN, Arshdeep Singh OUT? What about Rinku Singh?",
-    "desc": "India can field an extra spinner in the must-win clash against West Indies in the ongoing Super Eights of the T20 World Cup 2026. Kuldeep Yadav, who featured only in the game against Pakistan, can...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-s-probable-xi-vs-west-indies-kuldeep-yadav-in-arshdeep-singh-out-what-about-rinku-singh-2026-03-01-1032154",
-    "time": "2026-03-01T07:11:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Eden Gardens in Kolkata play in T20 World Cup?",
-    "desc": "India will host West Indies in a must-win game in the T20 World Cup at the iconic Eden Gardens in Kolkata. The winner of the match will qualify for the semi-finals, while the other will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-pitch-report-how-will-surface-at-eden-gardens-in-kolkata-play-in-t20-world-cup-2026-03-01-1032149",
-    "time": "2026-03-01T06:10:13.000Z"
   }
 ];

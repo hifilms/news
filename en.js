@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "South Africa coach's 'cupcake' jibe after another 'chokers' reminder",
+    "desc": "South Africa coach Shukri Conrad brought out the \"cupcake\" jibe after continuing their unbeaten run in the T20 World Cup with a win over Zimbabwe. He was asked about their infamous 'chokers' tag as they ready to face New Zealand in the semi-final at Eden Gardens on Wednesday.",
+    "img": "https://static.toiimg.com/photo/msid-128919588,imgsize-183936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-south-africa-coachs-cupcake-jibe-after-another-chokers-reminder/articleshow/128919572.cms",
+    "time": "2026-03-01T15:13:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "V-P launches remote-controlled drone-based tranquillizer system in Thrissur",
+    "desc": "The drone is equipped with a capture gun, tranquillizer syringe and medication, all operated remotely. Capable of functioning from a distance of up to 500 metres, the system ensures enhanced safety for wildlife experts, assisting personnel and the public during high-risk operations",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/v-p-launches-remote-controlled-drone-based-tranquillizer-system-in-thrissur/article70691975.ece",
+    "time": "2026-03-01T15:01:14.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel conflict LIVE: Iran Guards say 'struck' U.S. aircraft carrier USS Abraham Lincoln",
+    "desc": "Several killed in Iranian missile strike in Beit Shemesh, Israel'; Iran's President Masoud Pezeshkian, in a recorded video message broadcast on state TV, said that the interim leadership council established after the killing of supreme leader Ayatollah Ali Khamenei has begun its work",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-us-tensions-iran-israel-war-nuclear-tensions-tehran-tel-aviv-march-1-live-updates/article70690476.ece",
+    "time": "2026-03-01T14:58:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zimbabwe stuck in India amid closure of airspace in Middle East",
+    "desc": "After the US and Israel's airstrikes on Iran and their counter-attack on US military installations around the Gulf, it has affected the airspace in the global business hub of Dubai. Zimbabwe were due to fly out through that region on their way back home after a positive tournament.",
+    "img": "https://static.toiimg.com/photo/msid-128918892,imgsize-97402.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-zimbabwe-stuck-in-india-amid-closure-of-airspace-in-middle-east/articleshow/128918746.cms",
+    "time": "2026-03-01T14:50:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Khamenei dead, Middle East on edge: What will be the implications of Trump’s ‘Epic fury’ on stock markets, gold &amp; oil?",
+    "desc": "From a market perspective, the key uncertainty is whether the conflict remains confined to direct military engagement or expands into disruptions affecting energy supplies and logistics networks, which would sustain a higher and more persistent risk premium.",
+    "img": "https://static.toiimg.com/photo/msid-128918691,imgsize-93070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/khamenei-dead-middle-east-on-edge-what-will-be-the-implications-of-trumps-epic-fury-on-stock-markets-gold-oil/articleshow/128918666.cms",
+    "time": "2026-03-01T14:37:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi to chair CCS meeting tonight",
+    "desc": "The meeting is believed to have been convened in the wake of the prevailing global situation following the attack on Iran by the United States and Israel and the killing of Iranian Supreme Leader Ayatollah Ali Khamenei",
+    "img": "https://th-i.thgim.com/public/incoming/4ecx2m/article70692037.ece/alternates/LANDSCAPE_1200/20250423321L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-narendra-modi-cabinet-committee-of-security-ccs-meeting-march-1-2026/article70691990.ece",
+    "time": "2026-03-01T14:29:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajpal reacts strongly to Priyadarshan’s 'poor education' remark",
+    "desc": "Rajpal Yadav, who recently made headlines after surrendering at Tihar Jail in connection with a 2012 cheque-bounce case and later securing interim bail till March 18 to attend a family wedding, has now broken his silence on multiple fronts. At a press conference in Mumbai on Saturday, he addressed allegations of fraud against him. He also opened up about the support he has received from the film industry — and reacted strongly to a remark made by filmmaker Priyadarshan.",
+    "img": "https://static.toiimg.com/photo/msid-128916870,imgsize-85132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-reacts-strongly-to-priyadarshans-poor-education-remark-amid-rs-9-crore-cheque-bounce-case-i-am-well-educated-guy/articleshow/128916870.cms",
+    "time": "2026-03-01T13:21:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sikandar Raza restores Zimbabwe's pride, albeit in losing cause",
+    "desc": "Zimbabwe skipper Sikandar Raza's all-round performance, including a 73-run knock and three wickets, nearly led his team to an upset against South Africa. Despite a strong effort, South Africa secured a five-wicket victory, maintaining their unbeaten run in the T20 World Cup Super Eight.",
+    "img": "https://static.toiimg.com/photo/msid-128916811,imgsize-43242.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-sikandar-raza-restores-zimbabwes-pride-albeit-in-losing-cause/articleshow/128916697.cms",
+    "time": "2026-03-01T13:15:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ram Charan begins dubbing for 'Peddi",
+    "desc": "Ram Charan has commenced dubbing for the highly anticipated film 'Peddi,' with a BTS video igniting excitement for its April 30, 2026 release. Chartbuster songs like 'Chikiri Chikiri' have already garnered immense popularity. Directed by Buchi Babu Sana and featuring a stellar cast, the grand-scale production is gearing up for a massive summer theatrical experience.",
+    "img": "https://static.toiimg.com/photo/msid-128915896,imgsize-91454.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ram-charan-begins-dubbing-for-peddi-bts-video-amps-up-summer-release-hype/articleshow/128915896.cms",
+    "time": "2026-03-01T12:47:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Healy finishes on a high as Australia sweep India 3-0 in ODI series",
+    "desc": "Alyssa Healy concluded her ODI career with a brilliant century, scoring 158 as Australia posted 409/7. Beth Mooney also contributed an unbeaten 106, leading Australia to a commanding 185-run victory over India in the final ODI. This win secured a 3-0 series sweep for Australia.",
+    "img": "https://static.toiimg.com/photo/msid-128915792,imgsize-69206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/perfect-farewell-alyssa-healy-finishes-on-a-high-as-india-crushed-3-0-in-odi-series-vs-australia/articleshow/128915627.cms",
+    "time": "2026-03-01T12:38:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Santhosh Narayanan escapes Middle East airspace shutdown by minutes",
+    "desc": "Music composer Santhosh Narayanan was on one of the last flights out of the Middle East before airspace closures. He shared an emotional mid-air message expressing concern for those stranded. The conflict led to widespread flight cancellations and airport shutdowns. Narayanan is a busy composer with several upcoming film projects.",
+    "img": "https://static.toiimg.com/photo/msid-128915679,imgsize-88636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/santhosh-narayanan-escapes-middle-east-airspace-shutdown-by-minutes-i-was-on-the-last-flight/articleshow/128915679.cms",
+    "time": "2026-03-01T12:34:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sutapa recalls Irrfan's wish to marry her a second time",
+    "desc": "Sutapa Sikdar remembered late Irrfan Khan on their wedding anniversary via Instagram video, explaining they picked her birthday (23rd) so he'd remember. \"Belated Happy anniversary Irrfan. You wanted to remarry after 25 years,\" she wrote, noting Ramadan fasts. Irrfan died in 2020 at 53 from cancer.",
+    "img": "https://static.toiimg.com/photo/msid-128915755,imgsize-22814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/destiny-sided-with-you-sutapa-sikdar-recalls-irrfan-khans-wish-to-marry-her-a-second-time-in-heartfelt-anniversary-note/articleshow/128915755.cms",
+    "time": "2026-03-01T12:33:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mari Selvaraj shares how Vijay inspired his cinema journey",
+    "desc": "Filmmaker Mari Selvaraj expressed his deep admiration for actor Vijay, crediting him as the inspiration behind his entry into cinema. While acknowledging his long-standing fandom, Selvaraj emphasized his independent political stance, stating he awaits clarity on Vijay's political ideology before forming an opinion. He congratulated Vijay on his public life venture and wished him well.",
+    "img": "https://static.toiimg.com/photo/msid-128915530,imgsize-159018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-is-the-reason-i-entered-cinema-filmmaker-mari-selvaraj-has-an-emotional-fan-moment-in-thoothukudi/articleshow/128915530.cms",
+    "time": "2026-03-01T12:28:36.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Traffic curbs announced in Thiruvananthapuram for Attukal Pongala on March 3",
     "desc": "Container lorries, goods carriers and other heavy vehicles will not be permitted to enter the city limits or park on roads within the Corporation area during the restricted period. Vehicles found causing obstruction or posing safety risks will be removed without prior notice, and legal action will be initiated, according to a police advisory",
@@ -261,24 +378,6 @@ const newsData_en = [
     "time": "2026-03-01T08:43:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "When art wilts under the sun",
-    "desc": "The impacts of climate change are not for the future, they are here, now, and will only inconvenience humans more over time. Geetha Srimathi looks at how the trade and health of folk artistes of Tamil Nadu have already been deeply impacted by the growing summer heat",
-    "img": "https://th-i.thgim.com/public/incoming/ppekun/article70689063.ece/alternates/LANDSCAPE_1200/sunday%20story2315_7_3_2021_14_28_5_1_COOL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/when-art-wilts-under-the-sun/article70687911.ece",
-    "time": "2026-03-01T07:42:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Delroy Lindo addresses BAFTA controversy after a week",
-    "desc": "Actor Delroy Lindo has broken his silence on the BAFTA controversy where the n-word was heard from the audience due to a Tourette's advocate's involuntary tics. Speaking at the NAACP Image Awards, Lindo expressed gratitude for the support shown to him and Michael B. Jordan following the incident. His film 'Sinners' also garnered significant recognition at the event.",
-    "img": "https://static.toiimg.com/photo/msid-128909022,imgsize-71684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/delroy-lindo-briefly-addresses-bafta-controversy-and-n-word-slur-i-appreciate-all-the-support/articleshow/128909022.cms",
-    "time": "2026-03-01T07:40:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "'Do not remain silent': Iranian Embassy in India issues plea after Khamenei's death",
     "desc": "In a statement, the mission expressed its \"profound sorrow and grief\" over Khamenei's death. The Iranian Revolutionary Guard Corps has vowed revenge and said it has already carried out retaliatory attacks on American bases in the Middle East",
@@ -297,15 +396,6 @@ const newsData_en = [
     "time": "2026-03-01T07:34:56.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Karan Aujla Delhi concert turns chaotic",
-    "desc": "A major fight marred Karan Aujla’s February 28 Delhi gig at Jawaharlal Nehru Stadium, drawing 75,000+ fans—a record for Punjabi artists—despite chaos in the VVIP lounge. Viral videos show punches and kicks amid poor management complaints. Tour hits 11 cities next.",
-    "img": "https://static.toiimg.com/photo/msid-128909153,imgsize-14888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/karan-aujla-delhi-concert-turns-chaotic-viral-video-captures-brutal-vvip-lounge-brawl-watch/articleshow/128909153.cms",
-    "time": "2026-03-01T07:32:31.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran fires missiles at Israel, Gulf states after U.S.-Israeli strike kills Khamenei",
     "desc": "Iran acknowledged Khamenei's death in the joint Israeli-American airstrike Saturday (February 28, 2026) at his Tehran office hours, which has thrown the future of the Islamic Republic into question and raised the risk of regional instability",
@@ -315,33 +405,6 @@ const newsData_en = [
     "time": "2026-03-01T07:30:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "How Rana Daggubati built a multi-sector empire",
-    "desc": "Rana Daggubati, continuing his family's cinematic legacy, has emerged as a prominent entrepreneur. He strategically invests in sectors blending storytelling, technology, and consumer experience, from visual effects and brand ecosystems to Web3 platforms and the revival of Amar Chitra Katha. His ventures also span food, tech, and retail, showcasing a diverse business acumen.",
-    "img": "https://static.toiimg.com/photo/msid-128908982,imgsize-60172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/what-is-rana-daggubatis-net-worth-in-2026-a-look-at-the-kaantha-stars-businesses-and-investments/articleshow/128908982.cms",
-    "time": "2026-03-01T07:28:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hollywood celebs react to US-Israel strikes on Iran",
-    "desc": "Hollywood celebrities are voicing strong reactions to the US-Israel military strikes on Iran. Stars like Jack White, John Cusack, and Mark Ruffalo have taken to social media, criticizing political leaders and expressing deep concern over the escalating Middle East conflict. Many are questioning the motives behind the actions and the potential human cost. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128908658,imgsize-133420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mark-ruffalo-jack-white-and-other-hollywood-celebs-react-to-us-israel-strikes-on-iran/articleshow/128908658.cms",
-    "time": "2026-03-01T07:23:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jim Carrey wears sunglasses after eye colour row- WATCH",
-    "desc": "Jim Carrey's recent appearance at the Cesar Awards in Paris has ignited online speculation about his altered facial features and eye color, with some even questioning his identity. Despite the viral theories, the actor was later seen in Paris, sporting sunglasses and interacting with fans, seemingly unfazed by the unusual chatter surrounding his look.",
-    "img": "https://static.toiimg.com/photo/msid-128908876,imgsize-78962.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jim-carrey-steps-out-with-sunglasses-after-fans-spot-different-eye-colour-at-cesar-awards-watch/articleshow/128908191.cms",
-    "time": "2026-03-01T07:20:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Amid US-Israel strikes, Iran captain wants World Cup qualification",
     "desc": "The Asian Football Confederation offers full support to Iran's women's football team in Australia. The team arrived before major attacks on their homeland. They are set to compete in the Women's Asian Cup, aiming to showcase Iranian women's potential. The tournament is a significant platform for the players, with World Cup qualification as a key goal.",
@@ -349,24 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/amid-us-israel-strikes-iran-captain-sets-bold-target-we-want-to-qualify-for-the-world-cup/articleshow/128908588.cms",
     "time": "2026-03-01T07:12:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Madhavan confirms safety in the US as Ajith fans await an update",
-    "desc": "Actor R. Madhavan has confirmed his safety with family in the USA. This comes amid concerns on social media regarding the ongoing geopolitical tensions affecting Dubai. Madhavan's statement has eased worries for many. Meanwhile, fans of actor Ajith Kumar are awaiting an official update on his whereabouts. Ajith's fans are urged to avoid unverified information and wait for confirmed news.",
-    "img": "https://static.toiimg.com/photo/msid-128908429,imgsize-117656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/madhavan-confirms-safety-in-the-us-as-ajith-fans-await-an-update-amid-dubai-crisis-i-am-safe-with-family-in-the-usa/articleshow/128908429.cms",
-    "time": "2026-03-01T07:00:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Deputy CM Udhayanidhi inaugurates new hospital building in Chepauk",
-    "desc": "The building has been constructed at a cost of ₹32.32 crore, with a total built-up area of 66,658 square feet, consisting of a ground floor and two upper floors. The building is equipped with 100 beds",
-    "img": "https://th-i.thgim.com/public/incoming/mpkv9a/article70690835.ece/alternates/LANDSCAPE_1200/Udhayanidhi%20Stalin%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/deputy-cm-udhayanidhi-inaugurates-new-hospital-building-in-chepauk/article70689322.ece",
-    "time": "2026-03-01T06:57:11.000Z"
   },
   {
     "cat": "Sports",
@@ -387,24 +432,6 @@ const newsData_en = [
     "time": "2026-03-01T06:25:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Social media move sparks fan buzz",
-    "desc": "Reports suggest Thalapathy Vijay's son, Jason Sanjay, has unfollowed his father on social media, sparking fan speculation about their relationship. Amidst this buzz, Jason Sanjay is focusing on his directorial debut, 'Sigma,' while Vijay embarks on his political journey. This digital move has amplified attention on the star's family life.",
-    "img": "https://static.toiimg.com/photo/msid-128907421,imgsize-98892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijays-son-jason-sanjay-unfollows-jana-nayagan-star-on-social-media-reports/articleshow/128907421.cms",
-    "time": "2026-03-01T06:11:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why is the NEP undergrad course in chaos?",
-    "desc": "What are the challenges? Why are both students and teachers struggling with the fourth year schedule? Is there extra funding from UGC for the fourth year programme? What about infrastructure? Why are there frequent changes in guidelines? What lies ahead?",
-    "img": "https://th-i.thgim.com/public/news/national/fo9ae7/article70689362.ece/alternates/LANDSCAPE_1200/NEP.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/education/why-is-the-nep-undergrad-course-in-chaos-explained/article70689029.ece",
-    "time": "2026-03-01T05:59:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ranji Trophy",
     "desc": "A quarterfinalist thrice – in 2013-14, 2019-20 and 2024-25 – Paras Dogra’s men clinched their maiden domestic red-ball title in their first-ever final; the triumph is yet another example of the growing footprint of the game within the country as J & K becomes the latest first-time winner of the Ranji Trophy",
@@ -414,24 +441,6 @@ const newsData_en = [
     "time": "2026-03-01T05:45:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NGT issues notices to Centre, M.P. govt over clearances to Adani Group’s coal block in Singrauli",
-    "desc": "The notices were issued based on two petitions; one challenges the approval given by the Centre and the State for the felling of trees for the project, the other claims that a proposed elephant corridor passes through the the Dhirauli coal block area",
-    "img": "https://th-i.thgim.com/public/incoming/oswb1r/article70690734.ece/alternates/LANDSCAPE_1200/AFP_9TJ89E.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/ngt-issues-notices-to-centre-mp-govt-over-clearances-to-adani-groups-coal-block-in-singrauli/article70688939.ece",
-    "time": "2026-03-01T05:39:33.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "OPEC+ mulls oil production increase in shadow of war",
-    "desc": "The virtual meeting by the eight members of the Organization of the Petroleum Exporting Countries and allied nations (OPEC+) known as the \"Voluntary Eight\" (V8) comes a day after the U.S. and Israel launched an ongoing wave of strikes on Iran",
-    "img": "https://th-i.thgim.com/public/incoming/wmf6qy/article70690654.ece/alternates/LANDSCAPE_1200/2026-02-28T165601Z_1540035649_RC2W7FAXNNY4_RTRMADP_3_IRAN-CRISIS-OIL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/opec-mulls-oil-production-increase-in-shadow-of-war/article70690633.ece",
-    "time": "2026-03-01T04:47:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Full schedule, semifinal dates and venues",
     "desc": "The ICC Men's T20 World Cup 2026 is nearing its conclusion, with England, South Africa, and New Zealand securing semifinal spots. The final berth will be decided between India and the West Indies in a crucial Super 8 clash. Semifinals are scheduled for March 4 and 5, with the final on March 8.",
@@ -439,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-upcoming-matches-full-schedule-semifinal-dates-and-venues/articleshow/128905511.cms",
     "time": "2026-03-01T04:35:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanath Jayasuriya decides to step down after World Cup disappointment",
-    "desc": "Sri Lanka's head coach Sanath Jayasuriya has stepped down following the team's T20 World Cup 2026 exit. Despite a narrow loss to Pakistan, Jayasuriya expressed disappointment at not ending his tenure on a high note. His contract concludes in June, with formal discussions with Sri Lanka Cricket pending.",
-    "img": "https://static.toiimg.com/photo/msid-128904792,imgsize-71106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sanath-jayasuriya-decides-to-step-down-after-t20-world-cup-disappointment/articleshow/128904798.cms",
-    "time": "2026-03-01T03:55:26.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +495,6 @@ const newsData_en = [
     "time": "2026-03-01T02:50:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Opposition raises SIR concerns in Gujarat Assembly debate; Speaker allows limited discussion on exercise",
-    "desc": "While Speaker Shankar Chaudhary had already allowed two Congress MLAs and one AAP legislator to speak on the Bill, Gujarat Forest and Environment Minister Arjun Modhwadia raised a point of order contending that matters pertaining to Election Commission of India (EC) cannot be discussed in the State Assembly",
-    "img": "https://th-i.thgim.com/public/incoming/krne7x/article70690510.ece/alternates/LANDSCAPE_1200/PTI11_26_2025_000572B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/gujarat/opposition-raises-sir-concerns-in-gujarat-assembly-debate-speaker-allows-limited-discussion-on-exercise/article70688599.ece",
-    "time": "2026-03-01T02:12:24.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'The Kerala Story 2' mints over Rs 4 crore on Day 2",
     "desc": "The Kerala Story 2: Goes Beyond debuts amid earlier legal challenges and has already pulled in Rs 5.40 crore by its second day. Helmed by Kamakhya Narayan Singh, the movie gained momentum once the Kerala High Court lifted the stay on its release, after petitions questioned its U/A certification. Read on to know more in detail.",
@@ -520,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/can-jks-ranji-triumph-heal-old-wounds/articleshow/128891217.cms",
     "time": "2026-02-28T23:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Constitutional morality finally comes down to justice without fear or favour’, Kapil Sibal at Justice Unplugged 2026",
-    "desc": "There is complete breakdown of constitutional machinery, says senior advocate Kapil Sibal in conversation with N. Ram, Director of The Hindu Group, at The Hindu Justice Unplugged 2026; justice needs to rise above fractious debates to interpret Constitution for the greater good, he says",
-    "img": "https://th-i.thgim.com/public/incoming/1l2w74/article70689546.ece/alternates/LANDSCAPE_1200/81_RVM_9523.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/constitutional-morality-finally-comes-down-to-justice-without-fear-or-favour-kapil-sibal-at-justice-unplugged-2026/article70689096.ece",
-    "time": "2026-02-28T23:15:24.000Z"
   },
   {
     "cat": "Business",
@@ -558,15 +540,6 @@ const newsData_en = [
     "time": "2026-02-28T18:19:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "For a house built in Kerala, another brought down in Bihar",
-    "desc": "A caste conflict in Bihar was triggered by a wage dispute over a work that was done over 2,500 kilometres away in Kerala. Amit Bhelari reports on the allegations made by both sides, which resulted in two FIRs being filed, one invoking the SC/ST Act. The brahmins had allegedly forcibly entered the home of the Scheduled Caste man who asked for money due to him. In the background, play out themes of movement and migration",
-    "img": "https://th-i.thgim.com/public/incoming/gm2ep6/article70689260.ece/alternates/LANDSCAPE_1200/6744_24_2_2026_20_49_21_2_05_BIHAR.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/for-a-house-built-in-kerala-another-brought-down-in-bihar/article70687980.ece",
-    "time": "2026-02-28T18:01:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Defeat in last season’s quarterfinal spurred the team: J&K coach Ajay Sharma",
     "desc": "Coach Ajay Sharma, with whom Paras Dogra joined hands before the 2024-25 campaign, said that the painful exit from last season’s Ranji Trophy after conceding a one-run first-innings lead to Kerala in the quarters spurred the team on.",
@@ -574,24 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/defeat-in-last-seasons-quarterfinal-spurred-the-team-j-amp-k-coach-ajay-sharma/article70688605.ece",
     "time": "2026-02-28T18:01:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Railways plans 5th, 6th lines on high-density corridors to boost capacity",
-    "desc": "Indian Railways is gearing up to lay fifth and sixth lines on crucial High Density Network (HDN) corridors connecting Delhi, Howrah, Mumbai, and Chennai. This expansion aims to significantly boost passenger and freight train capacity on these vital routes, which currently handle a disproportionate amount of traffic, often exceeding line capacity.",
-    "img": "https://static.toiimg.com/photo/msid-128893787,imgsize-121394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/railways-plans-5th-6th-lines-on-high-density-corridors-to-boost-capacity/articleshow/128893699.cms",
-    "time": "2026-02-28T17:54:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Unrelenting South Africa look to maintain tempo against KO'ed Zimbabwe",
-    "desc": "South Africa remain unbeaten in the T20 World Cup, winning six straight matches, including dominant victories over India and West Indies. With a semifinal against New Zealand ahead, they next face eliminated Zimbabwe. The Proteas’ strength lies in team contributions. Zimbabwe, after early surprises, struggled in India, conceding massive totals and failing to adapt to conditions.",
-    "img": "https://static.toiimg.com/photo/msid-128893538,imgsize-183652.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-unrelenting-south-africa-look-to-maintain-momentum-against-koed-zimbabwe/articleshow/128893451.cms",
-    "time": "2026-02-28T17:47:01.000Z"
   },
   {
     "cat": "World",
@@ -801,15 +756,6 @@ const newsData_en = [
     "time": "2026-02-27T07:21:53.000Z"
   },
   {
-    "cat": "World",
-    "title": "Venezuela suspends 19 oil, gas production-sharing contracts signed under Maduro, reports say",
-    "desc": "The suspension has had no impact on the country's oil and gas output so far, the ‌sources said. State oil giant PDVSA is selling the crude produced under the contracts while they are suspended, they added",
-    "img": "https://th-i.thgim.com/public/incoming/kmz3kp/article70682432.ece/alternates/LANDSCAPE_1200/2026-02-26T212023Z_460504296_RC2UTJABJMKL_RTRMADP_3_VENEZUELA-OIL-SHELL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/venezuela-suspends-19-oil-gas-production-sharing-contracts-signed-under-maduro-reports-say/article70682427.ece",
-    "time": "2026-02-27T03:40:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India eye improved batting show to stay afloat in women's ODI series against Australia",
     "desc": "Having won the T20 series 2-1, a below-par India started the ODI contests on a disappointing note, losing by six wickets in Brisbane. The Indian women's team has never won a bilateral ODI series against Australia.",
@@ -898,5 +844,59 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ranji-tropy-final-super-efficient-j-k-makes-karnataka-toil/article70676020.ece",
     "time": "2026-02-25T16:21:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ranji Trophy final",
+    "desc": "The incident occurred in the 14th over of the morning when the J & K skipper was irked by something Karnataka substitute Aneesh uttered from silly-point when the batter scored a streaky boundary off Prasidh",
+    "img": "https://th-i.thgim.com/public/incoming/affus8/article70676510.ece/alternates/LANDSCAPE_1200/_DSC9069.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-final-a-headbutt-an-apology-and-an-all-is-well-the-events-that-transpired-between-dogra-and-aneesh/article70676409.ece",
+    "time": "2026-02-25T15:21:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 World Cup",
+    "desc": "Both sides are fresh off emphatic victories — the Proteas defeated India by 76 runs at this venue, while the Caribbean outfit thrashed Zimbabwe by 107 in Mumbai — and the winner of this tie could potentially seal a semifinal berth",
+    "img": "https://th-i.thgim.com/public/incoming/lshv9o/article70676066.ece/alternates/LANDSCAPE_1200/VIS_0998.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-south-africa-west-indies-hope-to-inch-closer-to-the-semifinals/article70676058.ece",
+    "time": "2026-02-25T14:04:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pleas against ‘The Kerala Story 2’ premature, misconceived: producer tells Kerala HC",
+    "desc": "In affidavit, film’s producer Vipul Amrutlal Shah says the definite article 'The' in the sequel’s title is a reference to the first film in the franchise and ‘does not restrict the movie’s subject matter to Kerala alone’",
+    "img": "https://th-i.thgim.com/public/incoming/5v4k5s/article70674958.ece/alternates/LANDSCAPE_1200/kerala.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/pleas-against-the-kerala-story-2-premature-misconceived-producer-tells-kerala-hc/article70674923.ece",
+    "time": "2026-02-25T09:51:57.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "HP reckons memory chip crunch will linger next year, warns of PC sales slump",
+    "desc": "HP, like its rivals such as Dell, is dealing with increased costs as a shortage ‌of memory chips has gripped the tech industry, fueled by massive AI data center ‌buildouts ⁠that are sucking up capacity",
+    "img": "https://th-i.thgim.com/public/incoming/wqhr5n/article70674570.ece/alternates/LANDSCAPE_1200/2026-02-24T212037Z_884734109_RC2CAGAO444S_RTRMADP_3_HP-RESULTS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/hp-reckons-memory-chip-crunch-will-linger-next-year-warns-of-pc-sales-slump/article70674565.ece",
+    "time": "2026-02-25T08:41:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Medvedev calls for ranking system rethink to ease burden on players",
+    "desc": "Top players ​are obligated to compete in the ⁠four majors and eight Masters events, with the world rankings breakdown reduced from 19 to 18 tournaments in 2026 after ‌the men's body removed an ATP 500 commitment",
+    "img": "https://th-i.thgim.com/public/incoming/vpa1wp/article70674642.ece/alternates/LANDSCAPE_1200/2026-02-24T111812Z_1211018455_UP1EM2O0VEBJO_RTRMADP_3_TENNIS-DUBAI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/medvedev-calls-for-ranking-system-rethink-to-ease-burden-on-players/article70674626.ece",
+    "time": "2026-02-25T07:29:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cast your picks for snubs, surprises and sweeps at the 98th Academy Awards",
+    "desc": "The 2026 Oscar race is coming into focus as one of the most competitive in recent memory. To help gauge how fans see the race shaping up, we’ve put together a set of poll questions for you to answer with your predictions",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/ab5fib/article70674356.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-predictions-poll-picks-for-the-98th-academy-awards/article70670972.ece",
+    "time": "2026-02-25T06:34:22.000Z"
   }
 ];

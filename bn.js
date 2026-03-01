@@ -1,6 +1,60 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "শোলে-এর পঞ্চাশে বিশেষ ক্যালেন্ডার প্রকাশ, জয়-বীরু এর ভূমিকায় সিধু-পটা জুটির উপস্থিতি",
+    "desc": "দ্যা ড্রিমার্স মিউজিক পিআর এজেন্সির উদ্যোগে , সেরাম গ্রুপ এর নিবেদনে প্রকাশ পেল \"শোলে পঞ্চাশ\" বিশেষ ক্যালেন্ডার। চমক ছিল এর প্রকাশ অনুষ্ঠানে। শোলের দুই মুখ্য চরিত্র জয়-বীরু হিসেবে উপস্থিত ছিলেন বাংলা রক ব্যান্ড ক্যাকটাস এর সিধু-পটা জুটি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Sholay-Calender-2026-03-23a861c1529d16e9eceb299071f120c0-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/50-years-of-bollywood-cult-movie-sholay-new-calendar-release-sidhu-and-pota-of-cactus-in-role-of-jai-veeru-pbd-2563909.html",
+    "time": "2026-03-01T14:33:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফেলে দেওয়া আঁশই এখন রোজগারের দিশা! তৈরি হচ্ছে অপূর্ব সব জিনিস, হাজার হাজার টাকা আয় করছেন মেদিনীপুরের মহিলারা",
+    "desc": "মাছের আঁশ এখন আর আবর্জনা নয়, বরং রোজগারের হাতিয়ার। মেদিনীপুরের একদল মহিলা মাছের আঁশ দিয়ে তৈরি করছেন নজরকাড়া শোপিস, গয়না-সহ বিভিন্ন জিনিসপত্র। এই ফেলে দেওয়া বর্জ্য থেকেই মাসে হাজার হাজার টাকা আয় করে স্বনির্ভরতার নজির গড়ছেন তাঁরা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/fish-scales-handicraft-2026-03-6e999be730f4b89f7375b8f76ff07db4-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/west-medinipur-money-making-tips-fish-scales-handicraft-medinipur-women-earning-huge-money-l18-local18-2563439.html",
+    "time": "2026-03-01T13:48:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "দেশের হয়ে জিতেছেন বিশ্বকাপ, সেই রিচা ঘোষের নামও SIR লিস্টে বিচারাধীন তালিকায়",
+    "desc": "বিশ্বকাপ জয়ীর নামও বিচারাধীন তালিকায়! SIR-এ বিচারাধীন তালিকায় রিচা ঘোষেও নামও! ভারতীয় মহিলা দলের ক্রিকেটার রিচা ঘোষ। দেশের হয়ে বিশ্বকাপ জিতেছেন। তাঁর নাম SIR-এর অ্যাজুডিকেশনে থাকায় চাঞ্চল্য ছড়িয়েছে। শিলিগুড়ির ১৯ নম্বর ওয়ার্ডের বাসিন্দা রিচা। তাঁর দিদির নামও বিচারাধীন তালিকায় রয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Richa-Ghosh-9-2026-03-e090a7eaccf5f350b49a647f9564c42f-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/sports/indian-women-cricket-team-world-cup-winner-richa-ghosh-name-is-on-the-sir-list-under-adjudication-sup-2563861.html",
+    "time": "2026-03-01T13:40:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'A Life In 75 Milestones'-রাইজিং ভারত ২০২৬-এ প্রধানমন্ত্রী নরেন্দ্র মোদির হাতে বিশেষ সংস্করণের বই তুলে দিল নেটওয়ার্ক18",
+    "desc": "নরেন্দ্র মোদির হাতে বিশেষ সংস্করণের বই তুলে দিল নেটওয়ার্ক18নেটওয়ার্ক18 আয়োজিত রাইজিং ভারত ২০২৬ অনুষ্ঠানে প্রধানমন্ত্রী নরেন্দ্র মোদি-কে তাঁর জীবন ও নেতৃত্বের নানা অধ্যায় তুলে ধরা একটি বিশেষ সংস্করণের বই উপহার দেওয়া হয়। তাঁর ৭৫তম জন্মদিন উপলক্ষে পরিকল্পিত ১৭৬ পৃষ্ঠার এই গ্রন্থে ৭৫টি গুরুত্বপূর্ণ মাইলফলক তুলে ধরা হয়েছে",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/modi-33-2026-03-f8f964978d51ddf69aba5b664dd68fed-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/a-life-in-75-milestones-network18-presents-to-pm-narendra-modi-a-special-edition-book-at-rising-bharat-2026-know-more-details-about-it-smc-2563791.html",
+    "time": "2026-03-01T13:21:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ইরানের প্রত্যাঘাত ভয়ঙ্কর হতে পারে হুঁশিয়ারি ট্রাম্পের, দেখুন ভিডিও",
+    "desc": "শনিবার ইজরায়েল আর মার্কিন বিমান হানায় নিহত হয়েছেন ইরানের সর্বোচ্চ নেতা আয়াতোল্লা আলি খামেনেই। আর এরপরেই প্রত্যাঘাত আরও প্রবল হবে বলে জানিয়েছিল ইরানের প্রতিরক্ষামন্ত্রক। যদিও মার্কিন হামলায় নিহত হয়েছেন ওই দেশের প্রতিরক্ষামন্ত্রী আজিজ নাসিরজাদা। কিন্তু, মধ্যপ্রাচ্যে মার্কিন সেনাঘাঁটিতে প্রত্যাঘাত আরও ভয়ঙ্কর হবে বলে জানিয়েছিল ইরান। সেইমতোই হামলা শুরু করল তাঁরা। ইরানের ছোড়া মিসাইল ইতিমধ্যেই আঘাত হেনেছে ওমান, সৌদি আরব, কুয়েত-সহ মধ্য প্রাচ্যের একাধিক দেশে। এর আগে সোশ্যাল মিডিয়া এক্সে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প লেখেন “ইরান ইতিমধ্যেই আক্রমণ শুরু করেছে। তাঁরা আরও জানিয়েছে তাঁরা আরও আক্রমণ করবে। কিন্তু, আমি বলব তাঁরা যেন এটা না করে। কারণ এটা করলে তাঁদের ফল ভুগতে হবে।”",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/who-was-khamenei-3-2026-03-ae4a3a64d56ae9f6f4929c5edcabe86d-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/international/iran-us-clash-khamenei-killed-missile-attacks-begin-in-middle-east-rmj-ws-l-2563779.html",
+    "time": "2026-03-01T12:49:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ছেলে ইউভানকে নিয়ে দুবাইয়ে আটকে শুভশ্রী, কেমন আছেন তাঁরা?",
+    "desc": "ছেলের স্কুলে ছুটি! সেই সুযোগেই জমে উঠেছিল মা শুভশ্রী গঙ্গোপাধ্যায় আর ছেলে ইউভানের দুবাই-ট্রিপ! কিন্তু আচমকাই ছন্দপতন! সফরের মাঝেই বিপত্তি, জটিল হয়ে উঠল পরিস্থিতি। ইরানের বিরুদ্ধে যুদ্ধ ঘোষণা করল আমেরিকা-ইজরায়েল। পশ্চিম এশিয়ায় মার্কিন সেনাঘাঁটিতে ইরানের প্রত্যাঘাত। আফগানিস্তানের সঙ্গে যুদ্ধঘোষণা পাকিস্তানের। কাঁপছে পশ্চিম এশিয়া! আতঙ্ক- উত্তেজনা ছড়িয়ে পড়তেই বন্ধ বিমান চলাচল। এমন পরিস্থিতিতে দুবাইয়ে বেড়াতে গিয়ে ইউভানকে নিয়ে আটকে পড়েছেন টলিউড অভেনেত্রী শুভশ্রী গঙ্গোপাধ্যায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WEB-THUMB-2026-03-01T131329.526-2026-03-0bfedd41d831cbdd9218475937deca12-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/entertainment/shubhashree-gangopadhyay-and-yuvan-stuck-in-dubai-flights-halted-due-to-war-fears-rmj-ws-l-2563780.html",
+    "time": "2026-03-01T12:46:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "২৭ বছরের সংসার ভাঙছে সুপারস্টারের! ঘরের বাইরে ছড়াল কুৎসা! নায়িকার সঙ্গে প্রেম, স্ত্রী-সন্তানকে অবহেলা, আদালতের দারস্থ হয়ে বোমা ফাটালেন 'অত্যাচারিত' স্ত্রী",
     "desc": "নায়িকার সঙ্গে প্রেমের কথা জানতে পেরেও মুখ বুঝে সহ্য করেন স্ত্রী, এমনই দাবি৷ তবে বারবার তাঁর ও তাঁদের সন্তানতে অবহেলা এবং মানসিক যন্ত্রণার মধ্যে দিয়ে যেতে হয়, যা আর বয়ে চলা সম্ভব হচ্ছিল না বলে জানান সুপারস্টারের স্ত্রী৷ ফলে তিনি আদালতে যেতে বাধ্য হয়েছেন৷ যদিও এখনই সেই নায়িকার নাম তিনি জানাননি, তবে প্রয়োজনে সেই নামও সকলের সামেন তুলে ধরবেন বলে একপ্রকাল হুমকিই দিয়েছেন সঙ্গীতা৷",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/Vijay-Divorce-2026-03-98573e3b35518e08167af18c06120d64-1200x800.jpg",
@@ -844,59 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/rajinikanth-kamal-haasan-reunion-after-40-years-khxrk-project-announced-sal-2552718.html",
     "time": "2026-02-22T14:10:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বড়সড় জঙ্গি নাশকতার ছক বানচাল, ISI-কে মদতের অভিযোগে গ্রেফতার ৮",
-    "desc": "দেশে বড়সড় নাশকতার ছক! জঙ্গি-যোগে দিল্লি পুলিশের ধরপাকড়। পাক জঙ্গি যোগে দিল্লি পুলিশের জালে ৮। পাক-বাংলাদেশ জঙ্গি সংগঠনের হয়ে কাজের অভিযোগ। তামিলনাড়ু থেকে ৬ জনকে গ্রেফতার করেছে পুলিশ। পশ্চিমবঙ্গ থেকে আরও ২ জন গ্রেফতার। পাক গুপ্তচর সংস্থার ISI-এর সঙ্গে ধৃতদের যোগাযোগ!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/terror-attack-2026-02-b80e017082a9bd646c949b53cabec8c3-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/terror-attack-in-india-8-arrested-by-delhi-police-rc-2552672.html",
-    "time": "2026-02-22T12:57:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "পুত্রসন্তানের জন্ম দিতে পারেননি, স্ত্রীকে গলা কেটে খুনই করে ফেলল ৩ কন্যার বাবা! পরে থানায় আত্মসমর্পণ",
-    "desc": "পুত্রসন্তানের অপেক্ষায় অধৈর্য স্বামী! ভয়ঙ্কর পরিণতি হল ৩ সন্তানের জননী স্ত্রীর। জামুইতে ভয়াবহ কাণ্ড। ঘটনার খবর পেয়ে মৃতার পরিবার পুলিশকে জানায়। পুলিশ ঘটনাস্থলে পৌঁছে দেহ উদ্ধার করে ময়নাতদন্তে পাঠিয়েছে। হত্যাকাণ্ডে ব্যবহৃত ধারালো অস্ত্র উদ্ধার হয়েছে বলে জানিয়েছেন এসডিপিও। অভিযুক্তকে জিজ্ঞাসাবাদ করা হচ্ছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/jamui-murder-case-2026-02-14a929352fb42a92fbff72dcbcbfc88d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/father-of-3-daughters-the-man-arrested-in-jamui-for-killing-wife-over-not-having-a-son-tib-ws-l-2552596.html",
-    "time": "2026-02-22T11:43:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিয়েবাড়িতে পার্কিং কেন্দ্র করে খুন, অভিযুক্ত সফটওয়্যার ইঞ্জিনিয়ার গ্রেফতার",
-    "desc": "দক্ষিণ দিল্লির আয়া নগরে পথ নিয়ে বিবাদ ঘিরে রক্তাক্ত পরিণতি। পার্কিং ও রাস্তা ছাড়াকে কেন্দ্র করে বচসার জেরে এক সফটওয়্যার ইঞ্জিনিয়ারের ছুরিকাঘাতে মৃত্যু হল এক ব্যক্তির, গুরুতর জখম হয়েছেন তাঁর এক বন্ধু। শুক্রবার এই ঘটনায় অভিযুক্তকে গ্রেফতার করেছে পুলিশ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Crime-News-4-2026-02-84e86981098fc0c3780993f210416dc7-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/delhi-road-rage-aya-nagar-stabbing-software-engineer-arrested-sandeep-lohia-murder-sal-2552351.html",
-    "time": "2026-02-22T07:20:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "টি-২০ বিশ্বকাপের ফাইনালে উঠবে কোন দুই দেশ? বড় 'ভবিষ্যদ্বাণী' করে ফেললেন মহাতারকা!",
-    "desc": "টি-২০ বিশ্বকাপের সুপার এইট পর্ব শুরু হয়ে গিয়েছে। ফাইনালের ওঠার দৌড়ে আট দল। কোন দুই দল ফাইনালে উঠবে তা নিয়ে শুরু হয়ে গিয়েছে জল্পনা ও বিশ্লেষণ। এরইমধ্যে ফাইনালের দুই দল নিয়ে হয়ে গেল বড় ভবিষ্যদ্বাণী।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/T20-World-Cup-36-2026-02-e2f6a32766b919b72cd89c21092a7e8b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/which-2-team-reach-the-final-of-t20-world-cup-2026-rahul-dravid-made-big-prediction-sup-2552285.html",
-    "time": "2026-02-22T05:00:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "রমজান মাসে আফগানিস্তানের উপর 'এয়ার স্ট্রাইক' পাকিস্তানের, বেছে বেছে ৭টি জায়গা গুঁড়িয় দিল F 16 যুদ্ধবিমান",
-    "desc": "বিবৃতিতে বলা হয়েছে যে ইসলামাবাদ, বাজাউর এবং বান্নুর ইমাম বারগাহে বোমা হামলা সহ সাম্প্রতিক আত্মঘাতী হামলার পর এটা ছিল প্রতিশোধমূলক পদক্ষেপ। রমজান মাসে এই হামলার ফলে নিন্দার ঝড় উঠেছে, তবে পাক সরকার জানিয়েছে যে এর পিছনে একটি উদ্দেশ্য ছিল এবং সেটা হল পাক বাসিন্দাদের সুরক্ষা সুনিশ্চিত করা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/airstrike-2026-02-fb0cad3d7b55b4d0c8f2692f91c70119-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/pakistan-air-strike-inside-afghanistan-ttp-bannu-attack-pakistan-news-live-updates-pbd-2552229.html",
-    "time": "2026-02-22T03:37:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "টানটান রহস্যে মোড়া গল্প ! আসছে রাজা চন্দর নতুন থ্রিলার ‘কাটাকুটি ২’, প্রকাশ্যে ট্রেলার",
-    "desc": "Official Trailer - Katakuti 2 | বাংলা সিনেমার সিক্যুয়েল তৈরি হয় প্রায়ই। ওয়েব সিরিজও বাদ যায় না। আর প্রথম সিজন যদি দর্শকের পছন্দ হয়, তা হলে দ্বিতীয় সিজনের অপেক্ষা তো থাকবেই। রাজা চন্দ পরিচালিত ‘কাটাকুটি’ পছন্দ করেছিলেন দর্শক। এ বার আসছে ‘কাটাকুটি ২’। সম্প্রতি হয়ে গেল সিরিজের ট্রেলার লঞ্চ ৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Katakuti-2-Trailer-Launch-2026-02-27b1f5a6e6d1c855b2d0cca83ff344f9-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/katakuti-2-trailer-launch-directed-by-raja-chanda-subrata-dutta-amrita-chatterjee-starrer-new-series-to-release-ss-2552196.html",
-    "time": "2026-02-22T03:13:58.000Z"
   }
 ];

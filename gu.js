@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "બ્રિટિશ પાઉન્ડનું પતન અને સ્વિસ ફ્રેંકનો ઉદય, યુદ્ધ અને મંદીના સમયમાં કેમ ચમકે છે સોનું?",
+    "desc": "શું તમે જાણો છો કે એક સમયે દુનિયા પર રાજ કરતો બ્રિટિશ પાઉન્ડ આજે કેમ સંઘર્ષ કરી રહ્યો છે? જાણો કેવી રીતે ગોલ્ડ રિઝર્વ, વિશ્વ યુદ્ધો અને સેન્ટ્રલ બેન્કોની નીતિઓ કરન્સીની તાકાત નક્કી કરે છે. ચાલો જાણીએ પાઉન્ડના પતનથી લઈને ભારતીય રૂપિયાના ભવિષ્ય સુધીનું સંપૂર્ણ વિશ્લેષણ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/why-gold-is-ultimate-safe-haven-pound-vs-swiss-franc-inr-future-466758 ",
+    "time": "2026-03-01T15:18:58.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ત્રીજા વિશ્વયુદ્ધના વાગ્યા ભણકારા! ઈઝરાયેલ અને અમેરિકા બાદ હવે UAEએ ઈરાનને આપી ખુલ્લી ચેતવણી, શું સંઘર્ષ વધુ વકરશે?",
+    "desc": "સંયુક્ત આરબ અમીરાત (UAE)ના રાષ્ટ્રપતિના રાજદ્વારી સલાહકાર અનવર ગરગાશે ઈરાનને ચેતવણી આપી છે કે, તે તેના પડોશી દેશોને નિશાન ન બનાવે અને ઈસ્લામિક સ્ટેટને સમજદારીથી કામ લેવા આહવાન કર્યું છે. તેમણે કહ્યું કે, ખાડી દેશો સામે ઈરાનની આક્રમકતા એક ખોટું અનુમાન સાબિત થયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/uae-warns-iran-strikes-dubai-airport-middle-east-conflict-466745 ",
+    "time": "2026-03-01T13:04:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રશ્મિકા-વિજયની જ નહીં આ કલાકારોની લવ સ્ટોરી પણ શરુ થઈ ફિલ્મના સેટ પરથી",
+    "desc": "રશ્મિકા મંદાના અને વિજય દેવરકોંડા લગ્નના બંધનમાં બંધાઈ ચુક્યા છે. વર્ષ 2021 થી તેઓ એકબીજાને ડેટ કરી રહ્યા હતા. તેમની લવસ્ટોરી ફિલ્મના સેટ પરથી શરુ થઈ હતી. જો કે વિજય અને રશ્મિકા પહેલા એવા કલાકારો નથી જે સાથે ફિલ્મ કરી પ્રેમમાં પડ્યા હોય. ચાલો એક નજર કરીએ એવા કલાકારો પર જેઓ રીલમાંથી રિયલ કપલ બન્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/bollywood-stars-list-who-fell-in-love-during-film-and-get-married-after-first-film-together-466744 ",
+    "time": "2026-03-01T13:03:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ગોપાલને મનાવવામાં તો સફળ રહેશે આર્ય, પણ અનુ આ કારણે લગ્ન કરવાથી કરશે ઈનકાર, જાણો",
+    "desc": "\"તુમ સે તુમ તક\" સીરિયલમાં, આર્ય ગોપાલને ઈમ્પ્રેસ કરવાનો પ્રયત્ન કરશે. મામલો લગ્ન સુધી પહોંચવાનો છે. જો કે, અનુ પોતે આર્ય સાથે લગ્ન કરવાનો ઇનકાર કરશે. આ દરમિયાન, માનસી અને મીરા અનુ માટે સમસ્યાઓ ઊભી કરવા જઈ રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/arya-will-be-successful-in-convincing-gopal-but-anu-will-refuse-to-marry-him-because-of-this-know-this-466743 ",
+    "time": "2026-03-01T12:44:41.000Z"
+  },
+  {
     "cat": "World",
     "title": "કોણ છે અલીરેઝા અરાફી? જેમને ખામેનેઈના મોત બાદ ઈરાને બનાવ્યા નવા સુપ્રીમ લીડર; જાણો કોણ છે આ શક્તિશાળી ધર્મગુરુ",
     "desc": "ઈરાની ધર્મગુરુ અયાતુલ્લા અલીરેઝા અરાફીની તેહરાનમાં અલી ખામેનેઈના મોત બાદ ઈરાનના વચગાળાના સુપ્રીમ લીડર તરીકે નિમણૂક કરવામાં આવી છે. ઈરાનની સરકારી ન્યૂઝ એજન્સી ISNAએ આ માહિતી આપી છે. અમેરિકા અને ઈઝરાયેલના સંયુક્ત હુમલામાં ખામેનેઈનું મોત થયું છે.",
@@ -495,15 +531,6 @@ const newsData_gu = [
     "time": "2026-02-26T16:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "હવાઈ મુસાફરો માટે ખુશખબર, 48 કલાકમાં ફ્લાઈટ ટિકિટ કેન્સલ કરવા પર હવે નહીં લાગે કોઈ ચાર્જ; DGCAનો મોટો નિર્ણય",
-    "desc": "ફ્લાઈટમાં મુસાફરી કરી રહેલા મુસાફરો માટે ખુશખબર સામે આવી છે. હવે જો તમે કોઈપણ ફ્લાઈટની ટિકિટ બુક કરાવી છે, તો બુકિંગ પહેલા 48 કલાકમાં તેને કેન્સલ કરવા અથવા નામ બદલવા માટે તમારે કોઈ વધારો ચાર્જ ચૂકવવો પડશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/dgca-new-rules-free-flight-ticket-cancellation-and-name-change-within-48-hours-466318 ",
-    "time": "2026-02-26T14:32:05.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "કોલેજ સ્ટુડન્ટ્સ માટે બેસ્ટ છે આ ટોપ 5 ઇલેક્ટ્રિક બાઇક, જાણો કિંમત અને દમદાર ફીચર્સ",
     "desc": "કોલેજ જવાની દરરોજની સફર હોય કે મિત્રો સાથે શહેરમાં ફરવાનું હોય કે પછી કેમ્પસ પાર્કિંગમાં એક અલગ જ આકર્ષણ જમાવવું હોય વિદ્યાર્થીઓ હવે ઇલેક્ટ્રિક બાઇક તરફ વળી રહ્યા છે, જે ઉપયોગી અને સ્ટાઇલિશ બન્ને છે. તેમાં એપ્લિકેશન કનેક્ટિવિટી, ફાસ્ટ ચાર્જિંગ, એડવાન્સ સેફ્ટી ફીચર્સ અને આધુનિક ડિઝાઇન જેવી સુવિધાઓ મળી જાય છે.",
@@ -511,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/best-top-5-smart-and-stylish-electric-bikes-for-college-students-in-india-466311 ",
     "time": "2026-02-26T12:34:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કેરળ બાદ હવે દિલ્હીનું નામ બદલવાની તૈયારી? જાણો શું છે નવો પ્રસ્તાવ અને તેનું મહાભારત કનેક્શન",
-    "desc": "કેરળનું નામ કેરળમ કરવાના પ્રસ્તાવને કેન્દ્રીય કેબિનેટ દ્વારા મંજૂર આપી દેવામાં આવી છે. હવે દિલ્હીનું નામ બદલવાની પણ માંગ થઈ રહી છે. ચાલો જાણીએ કે, દિલ્હીનું નામ બદલીને કયું નવું નામ રાખવાનો પ્રસ્તાવ રાખવામાં આવી રહ્યો છે અને આ નામનો ઈતિહાસ શું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/after-kerala-now-delhi-is-preparing-to-change-its-name-know-what-is-the-new-proposal-and-mahabharata-connection-466306 ",
-    "time": "2026-02-26T11:43:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -673,23 +691,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/toxic-dhurandhar-2-box-office-clash-19-march-2026-is-special-day-latest-bollywood-news-465613 ",
     "time": "2026-02-20T07:58:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "હૃદયના ધબકારા વધારી દે તેવું છે ટોક્સિક ફિલ્મનું ટીઝર, ફિલ્મમાં યશ જોવા મળશે સૌથી ખૂંખાર અવતારમાં",
-    "desc": "કેજીએફ ફેમ સુપરસ્ટાર યશનો અત્યાર સુધીનો સૌથી ખૂંખાર અવતાર લોકોને ટોક્સિક ફિલ્મમાં જોવા મળશે. યશની ફિલ્મ ટોક્સિકનું ટીઝર રિલીઝ કરવામાં આવ્યું છે. આ ટીઝર રિલીઝ થતાં જ સોશિયલ મીડિયા પર છવાઈ ગયું છે. ફિલ્મના ટીઝર સાથે ફિલ્મની રિલીઝ ડેટ પણ કંફર્મ કરી દેવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/rocking-star-yash-upcoming-film-toxic-teaser-released-film-toxic-will-be-release-on-19-march-2026-465606 ",
-    "time": "2026-02-20T06:54:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ફિલ્મના શૂટિંગ દરમિયાન સાથે ડ્રિંક કરતી હેલનના પ્રેમમાં પડ્યા સલીમ ખાન, લગ્ન પછી હેલન સાથે ઘરમાં થતું ખરાબ વર્તન",
-    "desc": "સલીમ ખાન હાલ બ્રેન હેમરેજની સારવાર પછી લીલાવતી હોસ્પિટલમાં દાખલ છે. સલીમ ખાન તેની 2 પત્નીઓ અને બાળકો સાથે ખુશહાલ જીવન જીવે છે પરંતુ આ પરિવાર જેટલો ખુશ દેખાય છે એટલો ખુશ ત્યારે ન હતો જ્યારે સલીમ ખાને હેલન સાથે બીજા લગ્ન કર્યા હતા. તો ચાલો તમને પણ જણાવીએ સલીમ ખાન અને હેલનની લવસ્ટોરી અને હેલનને લઈને ખાન પરિવારના વર્તન વિશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/helan-and-salim-khan-love-story-started-during-film-don-helan-face-trouble-in-khan-family-after-marriage-465543 ",
-    "time": "2026-02-19T12:29:03.000Z"
   }
 ];
