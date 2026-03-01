@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will surface at Eden Gardens in Kolkata play in T20 World Cup?",
+    "desc": "India will host West Indies in a must-win game in the T20 World Cup at the iconic Eden Gardens in Kolkata. The winner of the match will qualify for the semi-finals, while the other will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-pitch-report-how-will-surface-at-eden-gardens-in-kolkata-play-in-t20-world-cup-2026-03-01-1032149",
+    "time": "2026-03-01T06:10:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Which team has hit more sixes in the T20 World Cup 2026?",
+    "desc": "India and the West Indies are all set to take on each other in the Super 8 stage of the ongoing T20 World Cup 2026. The two sides will lock horns in game 52 of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-squad-comparison-which-team-has-hit-more-sixes-in-the-t20-world-cup-2026-2026-03-01-1032146",
+    "time": "2026-03-01T05:57:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhishek-Ishan vs King-Hope, which openers have better stats?",
     "desc": "The stage is set for one of the most anticipated matches of the ongoing T20 World Cup 2026. Game 52 of the tournament will see the Indian team taking on the West Indies. The two...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-sl-how-can-pakistan-qualify-for-semifinal-of-t20-world-cup-after-posting-212-runs-2026-02-28-1032098",
     "time": "2026-02-28T15:26:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sahibzada Farhan breaks Virat Kohli's legendary record in T20 World Cup",
-    "desc": "Pakistan opener Sahibzada Farhan broke Virat Kohli’s record for most runs by a batter in a single edition of the T20 World Cup. The former India captain held the record for 12 years, having scored...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sahibzada-farhan-breaks-virat-kohli-s-legendary-record-in-t20-world-cup-2026-02-28-1032094",
-    "time": "2026-02-28T14:11:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India enter whatever it takes mode to play 'fire with fire' against West Indies in must-win Super Eights clash",
-    "desc": "It’s a simple calculation. The winner of the India vs West Indies match at the iconic Eden Gardens on March 1 will go on to play the semi-final of the T20 World Cup 2026. Hence,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-enter-whatever-it-takes-mode-to-play-fire-with-fire-against-west-indies-in-must-win-super-eights-clash-2026-02-28-1032088",
-    "time": "2026-02-28T13:29:52.000Z"
   }
 ];

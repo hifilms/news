@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Deputy CM Udhayanidhi inaugurates new hospital building in Chepauk",
+    "desc": "The building has been constructed at a cost of ₹32.32 crore, with a total built-up area of 66,658 square feet, consisting of a ground floor and two upper floors. The building is equipped with 100 beds",
+    "img": "https://th-i.thgim.com/public/incoming/mpkv9a/article70690835.ece/alternates/LANDSCAPE_1200/Udhayanidhi%20Stalin%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/deputy-cm-udhayanidhi-inaugurates-new-hospital-building-in-chepauk/article70689322.ece",
+    "time": "2026-03-01T06:34:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran fires missiles at Israel, Gulf states after US-Israeli strike kills Khamenei",
+    "desc": "Iran acknowledged Khamenei's death in the joint Israeli-American airstrike Saturday (February 28, 2026) at his Tehran office hours, which has thrown the future of the Islamic Republic into question and raised the risk of regional instability",
+    "img": "https://th-i.thgim.com/public/incoming/3yzic7/article70690888.ece/alternates/LANDSCAPE_1200/APTOPIX_Pakistan_Iran_US_Israel_57931.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-fires-missiles-at-israel-gulf-states-after-us-israeli-strike-kills-khamenei/article70690869.ece",
+    "time": "2026-03-01T06:33:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's simple semifinal equation vs West Indies",
+    "desc": "India faces West Indies in a crucial T20 World Cup match at Eden Gardens, needing a win to secure a semifinal spot. While India is favored, the West Indies' unpredictability and their own recent batting form, including Abhishek Sharma and Tilak Varma, will keep the contest tense. Jasprit Bumrah's bowling prowess is expected to be a key factor.",
+    "img": "https://static.toiimg.com/photo/msid-128907765,imgsize-78006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/into-the-hands-of-fate-indias-simple-semifinal-equation-against-west-indies/articleshow/128907581.cms",
+    "time": "2026-03-01T06:25:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Former RDB singer Manj Musik hospitalized in London",
+    "desc": "Manj Musik (Manjeet Singh Ral), ex-RDB singer, is reportedly in a London hospital after an accident. He was set to perform \"Swag Mera Desi\" (Bhangra-hip-hop fusion) at Mumbai awards but will skip trips. Earlier, he rocked a wedding baraat with hits like Om Mangalam.",
+    "img": "https://static.toiimg.com/photo/msid-128907506,imgsize-25722.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/former-rdb-singer-manj-musik-hospitalized-in-london-cancels-mumbai-awards-show-after-serious-accident-reports/articleshow/128907506.cms",
+    "time": "2026-03-01T06:11:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "John Campea believes James Gunn will quit DC",
+    "desc": "Film critic John Campea predicts James Gunn will exit DC Studios once Paramount completes its takeover of Warner Bros. Discovery. He argues Gunn’s ideological differences with the likely new owners could drive an early departure from his contract, paving the way for a return to Marvel, potentially with Kevin Feige groomed as his successor.",
+    "img": "https://static.toiimg.com/photo/msid-128907429,imgsize-109854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/film-critic-john-campea-is-a-100-sure-james-gunn-will-quit-dc-following-the-paramount-wbd-merger/articleshow/128907429.cms",
+    "time": "2026-03-01T06:10:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kailash recreates SZA's 'Shiv Shambhu?' moment; netizens REACT",
+    "desc": "SZA's playful Shivratri greeting Can I get a Shiv Shambhu? went viral and found a new echo on stage when Indian artist Kailash Kher performed in Agra. He shared a clip highlighting Mahadev's influence crossing borders, with fans offering devotion in their own languages, and the moment giving rise to a global Har Har Mahadev chant. Read on to know more.",
+    "img": "https://static.toiimg.com/photo/msid-128907046,imgsize-162944.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/kailash-kher-recreates-szas-viral-can-i-get-a-shiv-shambhu-moment-at-agra-show-netizens-react/articleshow/128907046.cms",
+    "time": "2026-03-01T06:03:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why is the NEP undergrad course in chaos?",
+    "desc": "What are the challenges? Why are both students and teachers struggling with the fourth year schedule? Is there extra funding from UGC for the fourth year programme? What about infrastructure? Why are there frequent changes in guidelines? What lies ahead?",
+    "img": "https://th-i.thgim.com/public/news/national/fo9ae7/article70689362.ece/alternates/LANDSCAPE_1200/NEP.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/why-is-the-nep-undergrad-course-in-chaos-explained/article70689029.ece",
+    "time": "2026-03-01T05:59:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kate Hudson Calls for Big-Star Rom-Coms After Oscar Nod",
+    "desc": "Fresh off an Oscar nomination, Kate Hudson critiques modern romantic comedies, lamenting their loss of shine compared to the classics. She argues that true rom-coms require big stars, substantial budgets, and genuine craft to create believable on-screen magic and lasting appeal.",
+    "img": "https://static.toiimg.com/photo/msid-128907170,imgsize-804299.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kate-hudson-critiques-modern-rom-coms-urges-hollywood-to-restore-big-star-magic-after-2026-oscar-nomination-for-song-sung-blue/articleshow/128907023.cms",
+    "time": "2026-03-01T05:55:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NGT issues notices to Centre, M.P. govt over clearances to Adani Group’s coal block in Singrauli",
+    "desc": "The notices were issued based on two petitions; one challenges the approval given by the Centre and the State for the felling of trees for the project, the other claims that a proposed elephant corridor passes through the the Dhirauli coal block area",
+    "img": "https://th-i.thgim.com/public/incoming/oswb1r/article70690734.ece/alternates/LANDSCAPE_1200/AFP_9TJ89E.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/ngt-issues-notices-to-centre-mp-govt-over-clearances-to-adani-groups-coal-block-in-singrauli/article70688939.ece",
+    "time": "2026-03-01T05:39:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Trisha Krishnan’s speech from Vijay’s'Leo' promotions goes viral",
+    "desc": "Actress Trisha Krishnan's 'silence is the best revenge' statement from the 'Leo' promotions has gone viral, with fans linking it to Vijay's personal life. She also spoke fondly of reuniting with Vijay after 15 years, describing their bond as unchanged and their on-screen chemistry as fresh due to their maturity. Vijay, in turn, praised Trisha's enduring beauty and talent.",
+    "img": "https://static.toiimg.com/photo/msid-128906700,imgsize-105936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-krishnans-silence-is-the-best-revenge-speech-from-the-promotions-of-vijay-thalapathy-starrer-leo-goes-viral-watch/articleshow/128906700.cms",
+    "time": "2026-03-01T05:37:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Sinners’ and ‘Abbott Elementary’ Dominate 2026 NAACP Awards",
+    "desc": "The 57th NAACP Image Awards celebrated Black excellence, with Ryan Coogler's 'Sinners' dominating film and Quinta Brunson's 'Abbott Elementary' leading TV comedy. Kendrick Lamar and Cardi B shone in music, while digital creators and authors also received accolades. The event highlighted powerful storytelling and resilience.",
+    "img": "https://static.toiimg.com/photo/msid-128906670,imgsize-879261.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/2026-naacp-image-awards-winners-ryan-cooglers-sinners-and-abbott-elementary-sweeps-top-honors/articleshow/128906290.cms",
+    "time": "2026-03-01T05:33:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rod Stewart performs with daughter and grandson",
+    "desc": "Legendary singer Rod Stewart, 81, shared a heartwarming onstage moment with daughter Ruby and grandson Otis at Hard Rock Live in Florida. Ruby and Rod traded vocals while Otis, wearing headphones, stood by his mother's side, a touching snapshot of three generations of Stewarts making music together. The footage quickly went viral.",
+    "img": "https://static.toiimg.com/photo/msid-128906340,imgsize-64146.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rod-stewart-daughter-ruby-and-grandson-otis-perform-forever-young-on-stage/articleshow/128906340.cms",
+    "time": "2026-03-01T05:31:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BTS’s Jin shares refreshing spring photos",
+    "desc": "BTS's Jin has captivated fans with his latest spring-themed Instagram photos, showcasing an elegant yet casual look. This update comes as the global sensation prepares for their highly anticipated fifth album, 'Arirang,' slated for release on March 20, 2026, followed by a world tour.",
+    "img": "https://static.toiimg.com/photo/msid-128906017,imgsize-503070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/jin-teases-a-spring-mood-ahead-of-btss-arirang-album-launch-on-march-20-leaving-even-j-hope-obsessed-pics/articleshow/128906017.cms",
+    "time": "2026-03-01T05:14:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dwayne Johnson net worth",
+    "desc": "Dwayne \"The Rock\" Johnson is nearing billionaire status with an estimated $800 million net worth. He has built a diversified empire beyond acting, co-owning production companies, a tequila brand valued at $2 billion, and other ventures. Johnson's strategic move into ownership across brands and leagues fuels his continued wealth growth.",
+    "img": "https://static.toiimg.com/photo/msid-128906059,imgsize-832954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dwayne-johnson-net-worth-delving-into-how-the-rock-built-an-usd-800-million-diversified-empire/articleshow/128906072.cms",
+    "time": "2026-03-01T05:00:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SEVENTEEN’s Dino faces chaotic fan mob in Hong Kong",
+    "desc": "SEVENTEEN's Dino faced a troubling incident in Hong Kong when a frenzied crowd separated him from his mother, raising safety concerns for idols and their families. The episode mirrors a prior breach involving Mingyu, who was grabbed by fans during a concert.",
+    "img": "https://static.toiimg.com/photo/msid-128905891,imgsize-82952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/seventeens-dino-left-visibly-distressed-as-chaotic-fan-mob-in-hong-kong-puts-his-mothers-safety-at-risk-reports/articleshow/128905891.cms",
+    "time": "2026-03-01T04:52:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "OPEC+ mulls oil production increase in shadow of war",
+    "desc": "The virtual meeting by the eight members of the Organization of the Petroleum Exporting Countries and allied nations (OPEC+) known as the \"Voluntary Eight\" (V8) comes a day after the U.S. and Israel launched an ongoing wave of strikes on Iran",
+    "img": "https://th-i.thgim.com/public/incoming/wmf6qy/article70690654.ece/alternates/LANDSCAPE_1200/2026-02-28T165601Z_1540035649_RC2W7FAXNNY4_RTRMADP_3_IRAN-CRISIS-OIL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/opec-mulls-oil-production-increase-in-shadow-of-war/article70690633.ece",
+    "time": "2026-03-01T04:47:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Full schedule, semifinal dates and venues",
+    "desc": "The ICC Men's T20 World Cup 2026 is nearing its conclusion, with England, South Africa, and New Zealand securing semifinal spots. The final berth will be decided between India and the West Indies in a crucial Super 8 clash. Semifinals are scheduled for March 4 and 5, with the final on March 8.",
+    "img": "https://static.toiimg.com/photo/msid-128905534,imgsize-21136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-upcoming-matches-full-schedule-semifinal-dates-and-venues/articleshow/128905511.cms",
+    "time": "2026-03-01T04:35:56.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Kerala Story' director slams 'DOUBLE STANDARDS' of CBFC",
     "desc": "Filmmaker Sudipto Sen, best known for The Kerala Story, questions the Central Board of Film Certification’s apparent double standards, noting that violent films often clear clearance quickly while genuine real-life narratives face propaganda accusations and bureaucratic hurdles. He also points to the outdated Cinematograph Act and calls for a fairer, more transparent certification process. Read on to know more in detail.",
@@ -16,6 +169,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/korean/byun-yo-han-and-tiffany-young-tie-the-knot-react-to-pregnancy-rumours/articleshow/128905501.cms",
     "time": "2026-03-01T04:32:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Karan Aujla kicks off P-POP CULTURE India Tour 2026",
+    "desc": "Aujla opened his India tour with a high-energy performance at Jawaharlal Nehru Stadium, where more than 75,000 fans gathered to watch him live. The singer made a dramatic entry by zip-lining above the crowd while performing his song \"On Top.\"",
+    "img": "https://static.toiimg.com/photo/msid-128905607,imgsize-116306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/p-pop-culture-india-tour-2026-karan-aujla-kicks-off-in-style-jaw-dropping-show-in-delhi/articleshow/128905522.cms",
+    "time": "2026-03-01T04:32:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -52,24 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/alicia-keys-husband-swizz-beatz-faces-usd-5-7-million-tax-debt/articleshow/128905130.cms",
     "time": "2026-03-01T04:12:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "OPEC+ mulls oil production increase in shadow of war",
-    "desc": "The virtual meeting by the eight members of the Organization of the Petroleum Exporting Countries and allied nations (OPEC+) known as the \"Voluntary Eight\" (V8) comes a day after the U.S. and Israel launched an ongoing wave of strikes on Iran",
-    "img": "https://th-i.thgim.com/public/incoming/wmf6qy/article70690654.ece/alternates/LANDSCAPE_1200/2026-02-28T165601Z_1540035649_RC2W7FAXNNY4_RTRMADP_3_IRAN-CRISIS-OIL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/opec-mulls-oil-production-increase-in-shadow-of-war/article70690633.ece",
-    "time": "2026-03-01T04:08:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What happens if the match gets washed out?",
-    "desc": "India face West Indies in a crucial T20 World Cup 2026 virtual quarterfinal at Eden Gardens on Sunday. A win secures a semifinal spot against England, while a loss ends India's campaign. With a concerning net run rate, India must win, as a washout would see them eliminated due to West Indies' superior NRR.",
-    "img": "https://static.toiimg.com/photo/msid-128879649,imgsize-51336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-west-indies-t20-world-cup-2026-super-8s-what-happens-if-the-ind-vs-wi-match-gets-washed-out/articleshow/128879560.cms",
-    "time": "2026-03-01T04:05:18.000Z"
   },
   {
     "cat": "Sports",
@@ -117,15 +261,6 @@ const newsData_en = [
     "time": "2026-03-01T03:27:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "BLACKPINK's Lisa sparks frenzy teasing solo comeback",
-    "desc": "BLACKPINK's Lisa has fans buzzing after hinting at a new solo album during a recent Instagram Live session celebrating the group's latest release, DEADLINE. Despite technical difficulties splitting the members into pairs, Lisa's playful confirmation of a fan's comment about her upcoming music has ignited excitement for her next musical endeavor, following her successful debut hits.",
-    "img": "https://static.toiimg.com/photo/msid-128904321,imgsize-742709.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/blackpink-star-lisa-teases-new-solo-album-during-chaotic-social-media-live-sends-blinks-into-overdrive/articleshow/128904311.cms",
-    "time": "2026-03-01T03:25:36.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Canada-India negotiating economic partnership agreement to double two-way trade by 2030: PM Carney",
     "desc": "“This is an enormous opportunity for both our countries.. but it is one that is about to move to the next level. We should aim much higher, and we are aiming much higher, and to be more strategic in our partnership,” Mr. Carney said",
@@ -133,15 +268,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/canada-india-negotiating-economic-partnership-agreement-to-double-two-way-trade-by-2030-pm-carney/article70689183.ece",
     "time": "2026-03-01T03:22:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Verify before posting trash’",
-    "desc": "Director Chidambaram has vehemently denied rumors of a collaboration with actor Dileep on a survival thriller, urging social media users to verify information and stating he has no involvement in such a project. His upcoming film, Balan, has already earned praise from filmmaker Ram Gopal Varma after a preview.",
-    "img": "https://static.toiimg.com/photo/msid-128904108,imgsize-79054.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/manjummel-boys-director-chidambaram-denies-dileep-film-rumours-says-please-verify-before-you-post-trash/articleshow/128904108.cms",
-    "time": "2026-03-01T03:17:55.000Z"
   },
   {
     "cat": "Sports",
@@ -162,15 +288,6 @@ const newsData_en = [
     "time": "2026-03-01T03:10:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "BTS’ V sparks acting rumors after mystery sighting at Seoul high school",
-    "desc": "BTS star V has sparked fan speculation after an alleged sighting near a Seoul high school. Eyewitness photos shared online fueled theories about a potential acting role or a high school-themed advertisement. This sighting adds intrigue as BTS prepares for their 'ARIRANG' comeback in March.",
-    "img": "https://static.toiimg.com/photo/msid-128904091,imgsize-425412.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/bts-v-sparks-return-of-actor-taehyung-after-mystery-sighting-at-seoul-high-school-ahead-of-arirang-comeback/articleshow/128904094.cms",
-    "time": "2026-03-01T03:09:02.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "For 61 lakh 'doubtful' voters, it's a race against time to get on electoral roll",
     "desc": "Around 60 lakh electors in West Bengal have been classified as 'doubtful' and await adjudication by judicial officers, following a Supreme Court directive. These voters, potentially illegal immigrants from Bangladesh, will be excluded from the electoral list until their cases are resolved, creating a race against time before the upcoming assembly elections.",
@@ -189,33 +306,6 @@ const newsData_en = [
     "time": "2026-03-01T02:50:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rashmika arrives in palki for her wedding with Vijay",
-    "desc": "New photos from Rashmika Mandanna and Vijay Deverakonda's Udaipur wedding on February 26, 2026 reveal a regal celebration. The bride made a traditional palki entrance, as decor blended a 'Periodic Era' concept with deep Indian heritage. The couple observed Telugu Hindu and Kodava rites in two ceremonies, ahead of a March 4 Hyderabad reception. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128903558,imgsize-169980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-turns-wink-girl-and-radiates-bridal-glow-as-she-arrives-in-palki-for-wedding-with-vijay-deverakonda-pic/articleshow/128903558.cms",
-    "time": "2026-03-01T02:39:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Christina Applegate Shares MS Health Update",
-    "desc": "Actress Christina Applegate, battling multiple sclerosis since 2021, reveals her life is now largely confined to her bed due to debilitating pain. Despite over 30 hospitalizations, she cherishes driving her daughter to school. Her upcoming memoir details her resilience through childhood struggles, fame, and the profound impact of MS on her daily existence.",
-    "img": "https://static.toiimg.com/photo/msid-128903570,imgsize-1344838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/christina-applegate-reveals-she-is-bedridden-amid-battle-with-multiple-sclerosis/articleshow/128903578.cms",
-    "time": "2026-03-01T02:35:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Harry Styles performs 'Aperture' at BRIT Awards 2026",
-    "desc": "Harry Styles electrified the BRIT Awards 2026 in Manchester with the debut performance of his new single 'Aperture'. The track, a blend of electronic pop, heralds his upcoming album, 'Kiss All the Time. Disco, Occasionally', set for release on March 6. This marks a bold new era for the artist, following his successful solo career and the acclaimed 'Harry's House'.",
-    "img": "https://static.toiimg.com/photo/msid-128903446,imgsize-94060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-opens-brit-awards-2026-with-first-ever-live-performance-of-aperture-watch/articleshow/128903425.cms",
-    "time": "2026-03-01T02:29:09.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Opposition raises SIR concerns in Gujarat Assembly debate; Speaker allows limited discussion on exercise",
     "desc": "While Speaker Shankar Chaudhary had already allowed two Congress MLAs and one AAP legislator to speak on the Bill, Gujarat Forest and Environment Minister Arjun Modhwadia raised a point of order contending that matters pertaining to Election Commission of India (EC) cannot be discussed in the State Assembly",
@@ -226,48 +316,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Leonardo DiCaprio to miss 32nd Actor Awards",
-    "desc": "Leonardo DiCaprio will miss the 32nd annual Actor Awards due to overseas filming for Martin Scorsese's 'What Happens at Night'. He earned two nominations for his role in 'One Battle After Another', a film already garnering significant awards. This absence aligns with DiCaprio's established pattern of prioritizing production commitments.",
-    "img": "https://static.toiimg.com/photo/msid-128903050,imgsize-239387.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/leonardo-dicaprio-to-miss-32nd-actor-awards-as-what-happens-at-night-shoot-takes-priority/articleshow/128903052.cms",
-    "time": "2026-03-01T01:57:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Muthu Engira Kaattaan' OTT: Where to watch",
-    "desc": "Vijay Sethupathi's intense rural avatar will be seen in the web series 'Kaattaan', directed by Manikandan, premiering on JioHotstar on March 27. Meanwhile, the silent film 'Gandhi Talks', featuring Arvind Swamy and Aditi Rao Hydari with AR Rahman's score, is now available for rent on Prime Video and will stream free on ZEE5 from March 6.",
-    "img": "https://static.toiimg.com/photo/msid-128902837,imgsize-48172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/tamil/muthu-engira-kaattaan-ott-update-vijay-sethupathi-leads-action-drama-when-and-where-to-watch/articleshow/128902837.cms",
-    "time": "2026-03-01T01:47:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'The Kerala Story 2' mints over Rs 4 crore on Day 2",
     "desc": "The Kerala Story 2: Goes Beyond debuts amid earlier legal challenges and has already pulled in Rs 5.40 crore by its second day. Helmed by Kamakhya Narayan Singh, the movie gained momentum once the Kerala High Court lifted the stay on its release, after petitions questioned its U/A certification. Read on to know more in detail.",
     "img": "https://static.toiimg.com/photo/msid-128902775,imgsize-123602.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-2-film-mints-over-rs-4-crore-shahid-kapoors-o-romeo-declines/articleshow/128902775.cms",
     "time": "2026-03-01T01:42:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Aadu 3' PLOT: A Pandora's box of reincarnations",
-    "desc": "Get ready for 'Aadu 3', hitting theatres March 19, 2026! This installment promises epic fantasy with Shaji Pappan and his crew diving into reincarnations and multiple timelines, creating comic chaos. Expect beloved characters, including Jayasurya's Shaji Pappan, in double roles. The trailer drops March 1, hinting at a multiverse adventure.",
-    "img": "https://static.toiimg.com/photo/msid-128902233,imgsize-161600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aadu-3-unveils-fantasy-plot-jayasurya-and-team-opens-a-pandoras-box-of-reincarnations-and-multiple-timelines/articleshow/128902233.cms",
-    "time": "2026-03-01T00:58:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "BRIT Awards 2026 complete winners' list",
-    "desc": "At the 2026 BRIT Awards, Olivia Dean swept the night with four wins, led by Album of the Year and Artist of the Year. Rosalía broke new ground as the first Spanish-language International Artist of the Year winner, and Rosé of BLACKPINK became the first K-pop artist to win a BRIT.",
-    "img": "https://static.toiimg.com/photo/msid-128901702,imgsize-114110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/brit-awards-2026-complete-winners-list-olivia-dean-rose-k-pop-demon-hunters-win-big/articleshow/128901587.cms",
-    "time": "2026-03-01T00:16:32.000Z"
   },
   {
     "cat": "Politics",
@@ -304,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-market-stability-food-prices-stock-update-amid-iranus-israel-escalation-panic-buying-in-the-emirates-as-oil-prices-surge/articleshow/128896180.cms",
     "time": "2026-02-28T19:58:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why is the NEP undergrad course in chaos?",
-    "desc": "What are the challenges? Why are both students and teachers struggling with the fourth year schedule? Is there extra funding from UGC for the fourth year programme? What about infrastructure? Why are there frequent changes in guidelines? What lies ahead?",
-    "img": "https://th-i.thgim.com/public/news/national/fo9ae7/article70689362.ece/alternates/LANDSCAPE_1200/NEP.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/education/why-is-the-nep-undergrad-course-in-chaos-explained/article70689029.ece",
-    "time": "2026-02-28T18:26:48.000Z"
   },
   {
     "cat": "Business",
@@ -504,15 +549,6 @@ const newsData_en = [
     "time": "2026-02-28T14:47:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Best movies of Vijay-Trisha Krishnan to watch on OTT",
-    "desc": "Vijay and Trisha Krishnan make one of the most loved on-screen pairs. They have collaborated together on many movies, spanning across from massy action entertainers to emotionally driven family dramas and fans have loved their chemistry on celluloid over the years. Their performances have made a lasting impact and recently when they reunited onscreen after 14 years with 'Leo', the excitement among fans was hard to miss. Here are some of their must watch movies on OTT.",
-    "img": "https://static.toiimg.com/photo/msid-128888690,imgsize-56906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/ghilli-to-leo-best-movies-of-thalapathy-vijay-and-trisha-krishnan-to-watch-on-ott/photostory/128888690.cms",
-    "time": "2026-02-28T14:34:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'It is a proud moment': PM Modi celebrates J&amp;K's maiden Ranji triumph",
     "desc": "Prime Minister Narendra Modi congratulated Jammu & Kashmir on their maiden Ranji Trophy win, calling it a proud moment for the region. Cricket legends including Sachin Tendulkar, Jay Shah, Mohammad Kaif, Irfan Pathan, Aakash Chopra, Shikhar Dhawan, Harbhajan Singh, Yuvraj Singh and Suresh Raina praised the team’s grit, belief and historic achievement.",
@@ -610,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/nahi-hone-wala-virender-sehwag-tears-apart-pakistans-qualification-scenario/articleshow/128880435.cms",
     "time": "2026-02-28T09:25:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohsin Naqvi unhappy, Salman Agha set to be removed as captain",
-    "desc": "Pakistan's T20 captain Salman Ali Agha is set to be removed following the World Cup, irrespective of the team's performance. PCB chairman Mohsin Naqvi is reportedly unhappy with the campaign's trajectory. Senior players, including Babar Azam, may also see their T20 international careers conclude after the tournament.",
-    "img": "https://static.toiimg.com/photo/msid-128880655,imgsize-50858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/storm-in-pakistan-cricket-mohsin-naqvi-unhappy-salman-agha-set-to-be-removed-as-captain/articleshow/128880646.cms",
-    "time": "2026-02-28T09:22:25.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-marco-rubio-declares-old-world-is-gone-calls-for-rebuilding-western-order/article70680800.ece",
     "time": "2026-02-26T15:29:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "What does Trump want from Iran?",
-    "desc": "On January 29, Trump shifted focus away from protests and urged Tehran to come and negotiate a deal on its nuclear programme; this marked a notable turn; in early January, while threatening military action against Iran, he had made no reference to the nuclear issue",
-    "img": "https://th-i.thgim.com/public/incoming/uw2geu/article70680346.ece/alternates/LANDSCAPE_1200/2026-01-30T015308Z_1663083504_RC2XFFATXIH8_RTRMADP_3_USA-TRUMP-IRS-LAWSUIT.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/what-does-trump-want-from-iran/article70680165.ece",
-    "time": "2026-02-26T14:18:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "CEO of World Economic Forum Borge Brende quits after Epstein ties scrutinised",
-    "desc": "The co-chairs said the WEF’s Alois Zwinggi will serve as interim president and CEO, ‌and that the forum’s Board of Trustees will oversee the leadership transition, including a plan ​to drive a process to identify a permanent successor.",
-    "img": "https://th-i.thgim.com/public/incoming/4nr1jy/article70679790.ece/alternates/LANDSCAPE_1200/2026-02-05T174607Z_198016338_RC28ECAMGG84_RTRMADP_3_USA-TRUMP-EPSTEIN-WEF.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ceo-of-world-economic-forum-borge-brende-quits-after-epstein-ties-scrutinised/article70679749.ece",
-    "time": "2026-02-26T13:43:42.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "EU seeks to cut Russia dependence; Hungary, Slovakia have other plans",
-    "desc": "Hungary and Slovakia remain heavily reliant on Russian oil, with reports arguing this dependence is a political choice rather than a necessity; as EU reduces Russian gas, oil imports, the stand-off shows the political and economic hurdles complicating the bloc’s roadmap to energy independence",
-    "img": "https://th-i.thgim.com/public/incoming/skzg1f/article70679350.ece/alternates/LANDSCAPE_1200/AFP_98J94KE.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/eu-seeks-to-cut-russia-dependence-hungary-slovakia-have-other-plans/article70679328.ece",
-    "time": "2026-02-26T10:36:17.000Z"
   }
 ];

@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "আগুন পেট্রল-ডিজেল! হাহাকার বিশ্বের জ্বালানি তেলের বাজারে! একলাফে ৫৭% পর্যন্ত বেড়ে... অবিশ্বাস্য",
+    "desc": "ইরান হরমুজ প্রণালী বন্ধ করে দিয়েছে। সেজন্য এক ভয়ংকর পরিস্থিতি তৈরি হতে পারে বলে আশঙ্কা! এর জেরে বিশ্ববাজারে অপরিশোধিত তেলের দর এখনকার চেয়ে ৫৭% পর্যন্ত বেড়ে ব্যারেলপ্রতি ১১০ ডলারে চলে যেতে পারে! তাতে হাহাকার পড়ে যাবে বিশ্বে। সংকটে পড়বে এশিয়া!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/petrol-price-hike-diesel-price-hike-global-oil-price-iran-blocks-strait-of-hormuz-israel-us-attack-on-iran-oil-market-into-biggest-crisis-in-decades_643208.html ",
+    "time": "2026-03-01T06:12:21.000Z"
+  },
+  {
+    "cat": "World",
     "title": "“ইতিহাসের অন্যতম দুষ্ট মানুষ খামেনেই মৃত”! কী ভাবে 'খুন' করা হল তাঁকে? গোটা 'প্ল্যান' বিশদে জানালেন ট্রাম্প",
     "desc": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ট্রুথ সোশ্যাল-এ একটি বিস্ফোরক পোস্ট করে দাবি করেছেন, ইরানের সর্বোচ্চ নেতা আয়াতোল্লা আলি খামেনেই নিহত হয়েছেন। “ইতিহাসের অন্যতম দুষ্ট মানুষ” বলে উল্লেখ করে ট্রাম্প জানান, মার্কিন গোয়েন্দা সংস্থার সহায়তায় পরিচালিত সামরিক অভিযানে খামেনেইকে টার্গেট করা হয়েছে। তবে ইরানের পক্ষ থেকে এই দাবি সম্পূর্ণ অস্বীকার করা হয়েছিল শুরুতে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/Trump-khamenei-2026-03-dd5430e29670acc5aa5b25a1ea8533a8-1200x800.jpg",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/what-is-a-digital-rupee-wallet-know-the-key-benefits-and-how-to-get-it-through-your-bank-tc-dc-aa-2549344.html",
     "time": "2026-02-21T03:36:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "২১, ২২, ২৩, ২৪ ফেব্রুয়ারি...! ভারী বৃষ্টি কাঁপাবে ৪ রাজ্য, বজ্রবিদ্যুৎ-ঝোড়ো হাওয়ার হুঁশিয়ারি ৬ রাজ্যে, কী হবে বাংলায়? আবহাওয়ার মেগা আপডেট দিয়ে দিল IMD",
-    "desc": "আবহাওয়ার বিরাট রদবদল শুরু হয়ে গিয়েছে দেশের একাধিক এলাকা জুড়ে। ক্রমশ খারাপের দিকে মোড় নিচ্ছে আবহাওয়া। ভারতীয় আবহাওয়া দফতর, আইএমডি আগামী ২১ এবং ২২ ফেব্রুয়ারি বেশ কয়েকটি রাজ্যে ভারী বৃষ্টিপাতের সতর্কতা জারি করেছে। কী হতে চলেছে আগামী ৪৮ ঘণ্টায়? দেখে নেওয়া যাক একনজরে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj__thunder-rain-1-2026-02-933bdc910766e0e17e2e5eb7a9aae01f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/cyclonic-circulation-imd-21-22-23-24-february-heavy-rain-alert-for-4-states-thunderstorm-gusty-wind-alert-for-6-states-due-to-several-system-in-bay-of-bengal-know-latest-west-bengal-weather-sanj-2550766.html",
-    "time": "2026-02-21T03:29:32.000Z"
   }
 ];

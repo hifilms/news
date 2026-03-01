@@ -1,12 +1,57 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "Gold-Silver Rate Weekly Explainer: સોનામાં 4000 અને ચાંદીના ભાવમાં 16 હજારનો વધારો, આ અઠવાડિયે ભાવ વધશે કે ઘટશે? એક્સપર્ટ્સ શું કહે છે એ પણ જાણો",
+    "desc": "સોના અને ચાંદી છેલ્લા કેટલાક સમયથી સતત આકાશે આંબી રહ્યા હતા. 29 જાન્યુઆરીએ તો ઓલટાઈમ હાઈ પર પહોંચી ગયા. પરંતુ જો કે ત્યારબાદ ભાવ ઘટ્યા. પરંતુ હવે ઈરાન અને ઈઝરાયેલ વચ્ચે યુદ્ધની સ્થિતિ વળી પાછા ભાવમાં ભડકા કરે તેવા એંધાણ છે. આ બધા વચ્ચે સપ્તાહમાં કિંમતી ધાતુઓમાં શું મૂવમેન્ટ રહી અને આગામી અઠવાડિયામાં શું સ્થિતિ રહી શકે છે તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-rate-weekly-explainer-movement-during-last-week-will-iran-israel-war-push-the-rates-466691 ",
+    "time": "2026-03-01T06:41:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "&amp;quot;અમને ઘરે પહોંચાડો...&amp;quot; યુએસ-ઈરાન યુદ્ધ વચ્ચે ટીમ સાથે ફસાયો આ IPL સ્ટાર, PM પાસે માંગી મદદ",
+    "desc": "મિડલ ઈસ્ટમાં વધતા તણાવને કારણે 1 માર્ચે યોજાનારી પાકિસ્તાન શાહિન્સ અને ઇંગ્લેન્ડ લાયન્સ વચ્ચેની મેચ રદ કરવામાં આવી છે. અબુ ધાબીમાં સુરક્ષા એલર્ટ અને બોમ્બ ધડાકાના અહેવાલો વચ્ચે આ સ્ટાર IPL ક્રિકેટરે બ્રિટિશ વડાપ્રધાનને ટીમને સુરક્ષિત ઘરે પહોંચાડવા અપીલ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/us-israel-attacks-iran-jonny-bairstow-appeal-uk-pm-england-lions-uae-466687 ",
+    "time": "2026-03-01T05:37:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પૂર્વમાં શરૂ થશે યુદ્ધ અને પશ્ચિમ સુધી ફેલાઈ જશે... ઈરાન-ઈઝરાયેલ જંગ પર બાબા વેંગાની ડરામણી ભવિષ્યવાણી",
+    "desc": "બાબા વેંગાએ વર્ષ 2026 માટે જે ભવિષ્યવાણી કરી હતી, તે આ વર્ષે સમગ્ર વિશ્વ પર યુદ્ધની અસર જોવા મળશે. તેમણે એમ પણ કહ્યું હતું કે વર્ષની શરૂઆતમાં જ આ યુદ્ધ શરૂ થઈ જશે. ઈરાન પર અમેરિકા અને ઈઝરાયેલના હુમલાને હવે બાબા વેંગાની આ ભવિષ્યવાણી સાથે જોડીને જોવામાં આવી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/the-war-will-begin-in-the-east-and-spread-westward-baba-vangas-terrifying-prediction-of-the-iran-israel-war-466686 ",
+    "time": "2026-03-01T05:27:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફખર ઝમાનની આ ભૂલ પડી ગઈ ભારે, નહીં તો પાકિસ્તાન સેમિફાઇનલમાં પહોંચી ગયું હોત !",
+    "desc": "પાકિસ્તાને શ્રીલંકાને હરાવ્યું તો ખરી, પરંતુ પવન રત્નાયકેનો કેચ છોડવો ભારે પડી ગયો. રત્નાયકેની 58 રનની ઇનિંગે શ્રીલંકાને 147 રન સુધી પહોંચાડવામાં મદદ કરી, જેના કારણે પાકિસ્તાનનો નેટ રન રેટ ન્યુઝીલેન્ડ કરતા ઓછો રહ્યો અને પાકિસ્તાન સેમિફાઇનલની રેસમાંથી બહાર થઈ ગયું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/fakhar-zaman-mistake-eliminates-pakistan-in-semi-finals-t20-world-cup-2026-466685 ",
+    "time": "2026-03-01T05:07:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શું પાકિસ્તાનને ખરેખર અમ્પાયરે જીતાડ્યું? છેલ્લા બોલના ડ્રામાથી જયસૂર્યા લાલઘૂમ! થયો ભારે હોબાળો",
+    "desc": "પાકિસ્તાન અને શ્રીલંકા વચ્ચેની મેચમાં હાઈવોલ્ટેજ ડ્રામા જોવા મળ્યો. મેચના છેલ્લા બોલ પર શ્રીલંકા જીતથી થોડીક વાર ચૂકી ગયું, અને અમ્પાયરના નિર્ણયથી વિવાદ એક મોટો થયો. ટીમના મુખ્ય કોચ સનથ જયસૂર્યા અમ્પાયર સાથે ઉગ્ર દલીલ કરતા પણ જોવા મળ્યા હતા. ચાલો જાણીએ શું છે આખો મામલો...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/umpires-decision-won-the-match-for-pakistan-coach-jayasuriya-was-furious-and-chaos-erupted-on-the-last-ball-466684 ",
+    "time": "2026-03-01T05:03:54.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "ઈરાન-અમેરિકા યુદ્ધથી સળગતો સવાલ, શું વધી જશે પેટ્રોલ-ડીઝલના ભાવ? દુનિયામાં આવશે મહામંદી",
+    "title": "વધી જશે પેટ્રોલ-ડીઝલના ભાવ? ઈરાન-અમેરિકા યુદ્ધથી દુનિયામાં આવશે મહામંદી",
     "desc": "અમેરિકાના ઈરાન પર હુમલા બાદ ઈરાનના નેતા અયાતુલ્લા અલી ખામેનેઈના મોત થયું છે. ત્યારે યુદ્ધથી સૌથી મોટું ટેન્શન ક્રુડ ઓઈલના ભાવને લઈને છે. આગામી સપ્તાહમાં જ પેટ્રોલ ડીઝલના ભાવમાં તેની અસર જોવા મળી શકે છે. સાથે વૈશ્વિક મંદી પણ વધશે અને મોંઘવારી આવશે તેવું નિષ્ણાતોનું અનુમાન છે",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/us-israel-iran-war-may-petrol-diesel-price-hike-after-strait-of-hormuz-466682 ",
-    "time": "2026-03-01T04:36:40.000Z"
+    "time": "2026-03-01T04:54:10.000Z"
   },
   {
     "cat": "Business",
@@ -261,15 +306,6 @@ const newsData_gu = [
     "time": "2026-02-28T07:18:25.000Z"
   },
   {
-    "cat": "World",
-    "title": "મધ્ય એશિયામાં તણાવ! ઈરાનમાં ઘણા દેશોએ ખાલી કર્યાં દૂતાવાસ, ઈઝરાયેલમાં ઈમરજન્સી જાહેર",
-    "desc": "મધ્ય એશિયામાં સતત તણાવ વધી રહ્યો છે. અમેરિકી નેતા સતત ઈરાનને ચેતવણી આપી રહ્યાં છે. બીજીતરફ અમેરિકી સેના પણ સતત અરબ સાગર અને મધ્ય એશિયાના વિસ્તારમાં પોતાના સૈન્યને મજબૂત કરી રહ્યું છે. ઈઝરાયેલે હુમલા બાદ દેશમાં નાગરિકો માટે આ ચેતવણીઓ જાહેર કરી દીધી છે. જાણી લો કયા પ્રકારની ઈઝરાયેલ કરી રહ્યું છે તૈયારી...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/tensions-in-central-asia-many-countries-evacuate-embassies-in-iran-466525 ",
-    "time": "2026-02-28T07:02:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "T20 વર્લ્ડ કપમાં ફરી ટકરાઈ શકે છે ભારત-પાકિસ્તાન, જાણો કેવી રીતે",
     "desc": "ભારત અને પાકિસ્તાન 2026ના T20 વર્લ્ડ કપના ગ્રુપ સ્ટેજમાં એકબીજા સામે આવી ચૂક્યા છે. હવે ફરી એકવાર બંને ટીમો વચ્ચે ટક્કર થવાની શક્યતા છે. ત્યારે કેવી રીતે ભારત અને પાકિસ્તાન ફરી એકવાર ટકરાઈ શકે છે, તે સમીકરણ પર એક નજર કરીએ...",
@@ -313,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-date-change-due-to-election-ipl-starts-march-28-final-on-may-31-466510 ",
     "time": "2026-02-28T05:35:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ચલણી નોટોથી ભરેલું વિમાન હાઇવે પર ક્રેશ, 15 લોકોના મોત, પૈસા લેવા લોકોની પડાપડી, જુઓ Video",
-    "desc": "બોલિવિયામાં ખરાબ હવામાનને કારણે હર્ક્યુલસ લશ્કરી વિમાન ક્રેશ થયું હતું, જેમાં ઓછામાં ઓછા 15 લોકો માર્યા ગયા હતા અને 30થી વધુ ઘાયલ થયા હતા. વિમાન નવી ચલણી નોટો લઈને સેન્ટ્રલ બેંક જઈ રહ્યું હતું ત્યારે આ દુર્ઘટના સર્જાઈ હતી. વિમાન ક્રેશ થતાં નોટો રસ્તા પર વિખેરાઈ ગઈ હતી, જેને સ્થાનિક લોકો એકત્રિત કરતા જોવા મળ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/bolivia-plane-crash-new-currency-notes-scattred-on-highway-people-collect-466495 ",
-    "time": "2026-02-28T03:56:02.000Z"
   },
   {
     "cat": "Sports",
@@ -423,15 +450,6 @@ const newsData_gu = [
     "time": "2026-02-27T08:53:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "રિંકુ સિંહ વેસ્ટ ઈન્ડિઝ સામેની મેચમાં નહીં રમે ? BCCIએ આપ્યું અપડેટ",
-    "desc": "ભારતના સ્ટાર બેટ્સમેન રિંકુ સિંહના પિતાનું શુક્રવારે વહેલી સવારે નિધન થયું છે. રિંકુ સિંહના પિતા કેન્સરથી પીડાઈ રહ્યા હતા. BCCIના સચિવ દેવજીત સૈકિયાએ રિંકુ સિંહના પિતાના નિધન પર શોક વ્યક્ત કર્યો અને પરિવાર પ્રત્યે સંવેદના વ્યક્ત કરી. તેમણે ટી20 વર્લ્ડ કપની બાકીની મેચોમાં રિંકુ સિંહના રમવા અંગે પણ અપડેટ આપ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rinku-singh-has-returned-to-his-family-miss-west-indies-match-bcci-gave-update-466396 ",
-    "time": "2026-02-27T07:57:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "મોટી કમાણીની મહા તક! શેર બજારમાં થશે દિગ્ગજ  IPOs ની એન્ટ્રી, લિસ્ટમાં  Jio, Flipkart જેવા ઘણા મોટા નામ",
     "desc": "વર્ષ 2026 શેર બજાર માટે ભારે ઉતાર-ચઢાવભર્યું રહ્યું છે. આઈપીઓ માર્કેટમાં પણ હજુ કોઈ મોટા ઈશ્યુ આવ્યા નથી. પરંતુ આગામી સમયમાં પ્રાઇમરી માર્કેટમાં મોટી હલચલ જોવા મળી શકે છે. જિયો, ફ્લિપકાર્ટ સહિત અન્ય દિગ્ગજ કંપનીઓ શેર બજારમાં પર્દાપણ કરવાની તૈયારી કરી રહી છે.",
@@ -439,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/giant-ipos-will-enter-the-stock-market-many-big-names-like-jio-flipkart-in-the-list-466392 ",
     "time": "2026-02-27T07:06:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કેપ્ટન સૂર્યકુમાર યાદવની આ ભૂલ પડશે ભારે ! ભારત વર્લ્ડ કપમાંથી થઈ શકે છે બહાર",
-    "desc": "ભારત અને વેસ્ટ ઈન્ડિઝ વચ્ચે 1 માર્ચે રમાનારી મેચ ગ્રુપ-1માંથી બીજી સેમિફાઇનલ ટીમ નક્કી કરશે. દક્ષિણ આફ્રિકા આ ગ્રુપમાંથી સેમિફાઇનલ માટે ક્વોલિફાય થઈ ગયું છે, જ્યારે ઝિમ્બાબ્વે બહાર થઈ ગયું છે. હવે ભારત અને વેસ્ટ ઈન્ડિઝ વચ્ચે જંગ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-may-be-out-of-t20-world-cup-due-to-captain-suryakumar-yadav-this-mistake-466390 ",
-    "time": "2026-02-27T06:54:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -466,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/railway-pensioners-alert-government-issues-stern-warning-major-update-for-lakhs-of-indian-railway-pensioners-466383 ",
     "time": "2026-02-27T05:54:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ભારત અને આફ્રિકાની જીત બાદ પોઈન્ટ્સ ટેબલમાં મોટો ઉલટફેર, વેસ્ટ ઈન્ડિઝ સામેની મેચ બની ‘ક્વાર્ટર ફાઈનલ’",
-    "desc": "ICC T20 વર્લ્ડ કપ 2026માં 26 ફેબ્રુઆરીના રોજ બે મોટા મુકાબલા ખેલાયા હતા. પ્રથમ મેચમાં દક્ષિણ આફ્રિકાની ટીમે વેસ્ટ ઈન્ડિઝને ખરાબ રીતે હરાવ્યું, જ્યારે બીજી મેચમાં ટીમ ઈન્ડિયાએ ઝિમ્બાબ્વે સામે શાનદાર જીત મેળવી હતી. આ બંને મેચો બાદ પોઈન્ટ્સ ટેબલમાં મોટો ફેરફાર જોવા મળ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-and-south-africas-victories-have-led-to-a-reshuffle-in-the-points-table-west-indies-becoming-a-quarter-final-466381 ",
-    "time": "2026-02-27T05:35:07.000Z"
   },
   {
     "cat": "Politics",
@@ -529,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/pm-kisan-samman-nidhi-latest-update-why-is-there-a-delay-in-the-22nd-installment-farmers-news-in-gujarati-466303 ",
     "time": "2026-02-26T10:54:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રાજસ્થાનના બાડમેરમાં અચાનક ફાટી જમીન, ખેતરમાંથી નીકળવા લાગ્યું ક્રૂડ ઓઇલ",
-    "desc": "રાજસ્થાનના બાડમેરથી એક ચોંકાવનારી ઘટના સામે આવી છે. એક ખેડૂતના ખેતરમાંથી અચાનક ક્રૂડ ઓઇલ નીકળવા લાગ્યું છે. કૌખેડા ગામમાં આવેલ ઓઈલ ફિલ્ડ પાસે લગભગ 40 કલાકથી ઓઈલ નીકળી રહ્યું છે, જેના કારણે વિસ્તારમાં ગભરાટ ફેલાયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/rajasthan-barmer-crude-oil-to-leak-from-fields-farmers-worried-466266 ",
-    "time": "2026-02-26T04:58:07.000Z"
   },
   {
     "cat": "Entertainment",
