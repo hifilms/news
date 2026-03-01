@@ -1,5 +1,113 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'The Kerala Story 2' mints over Rs 4 crore on Day 2",
+    "desc": "The Kerala Story 2: Goes Beyond debuts amid earlier legal challenges and has already pulled in Rs 5.40 crore by its second day. Helmed by Kamakhya Narayan Singh, the movie gained momentum once the Kerala High Court lifted the stay on its release, after petitions questioned its U/A certification. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128902775,imgsize-123602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-2-film-mints-over-rs-4-crore-shahid-kapoors-o-romeo-declines/articleshow/128902775.cms",
+    "time": "2026-03-01T01:42:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Aadu 3' PLOT: A Pandora's box of reincarnations",
+    "desc": "Get ready for 'Aadu 3', hitting theatres March 19, 2026! This installment promises epic fantasy with Shaji Pappan and his crew diving into reincarnations and multiple timelines, creating comic chaos. Expect beloved characters, including Jayasurya's Shaji Pappan, in double roles. The trailer drops March 1, hinting at a multiverse adventure.",
+    "img": "https://static.toiimg.com/photo/msid-128902233,imgsize-161600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aadu-3-unveils-fantasy-plot-jayasurya-and-team-opens-a-pandoras-box-of-reincarnations-and-multiple-timelines/articleshow/128902233.cms",
+    "time": "2026-03-01T00:58:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Vikram’s home in Chennai",
+    "desc": "Chiyaan Vikram, the acclaimed Tamil actor, embraces a simple, eco-conscious life at his Chennai home in Mahalingapuram. The residence features a minimalist design and natural materials—teakwood and marble—framed by garden pockets and inner courtyards that cultivate serenity and sustainability. His deep commitment to his craft complements a grounded personal life.",
+    "img": "https://static.toiimg.com/photo/msid-128901704,imgsize-49266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/all-you-need-to-know-about-cobra-actor-vikrams-home-in-chennai/articleshow/128901704.cms",
+    "time": "2026-03-01T00:37:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BRIT Awards 2026 complete winners' list",
+    "desc": "At the 2026 BRIT Awards, Olivia Dean swept the night with four wins, led by Album of the Year and Artist of the Year. Rosalía broke new ground as the first Spanish-language International Artist of the Year winner, and Rosé of BLACKPINK became the first K-pop artist to win a BRIT.",
+    "img": "https://static.toiimg.com/photo/msid-128901702,imgsize-114110.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/brit-awards-2026-complete-winners-list-olivia-dean-rose-k-pop-demon-hunters-win-big/articleshow/128901587.cms",
+    "time": "2026-03-01T00:16:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Thaai Kizhavi' BO day 2: Film sees strong Saturday jump",
+    "desc": "'Thaai Kizhavi' has seen a significant surge in its box office earnings, collecting an estimated Rs 4.65 crore net on its second day. This impressive Saturday performance, following a Rs 2.65 crore opening, brings the total to Rs 7.30 crore. The film's strong occupancy, particularly in Tamil Nadu, suggests a promising weekend ahead, potentially crossing the double-digit mark.",
+    "img": "https://static.toiimg.com/photo/msid-128901614,imgsize-317342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-box-office-collections-day-2-radikaa-sarathkumar-film-sees-strong-saturday-jump-crosses-rs-7-crores/articleshow/128901614.cms",
+    "time": "2026-03-01T00:04:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Matrix 5’ in the works director confirms",
+    "desc": "Fans of 'The Matrix' franchise can rejoice as a fifth installment is officially in development, with writer-director Drew Goddard confirming he's deep in the writing process. Despite 'Resurrections' box office struggles, Warner Bros. is pushing ahead. Details on returning cast members, including Keanu Reeves and Carrie-Anne Moss, remain unconfirmed, while Laurence Fishburne has expressed past reservations.",
+    "img": "https://static.toiimg.com/photo/msid-128901509,imgsize-102132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-matrix-5-in-the-works-director-confirms-priyanka-chopra-to-return-as-sati/articleshow/128901053.cms",
+    "time": "2026-02-28T23:53:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PV Sindhu stranded at Dubai airport amid growing tensions in Middle East",
+    "desc": "PV Sindhu is stranded at Dubai airport after Middle East airspace closures disrupted flights following the US-Israel attack on Iran. She was heading to Birmingham for the All England Open. Meanwhile, Satwiksairaj Rankireddy and Chirag Shetty reached safely. The Indian men’s basketball team is also stuck in Doha due to suspended flight operations.",
+    "img": "https://static.toiimg.com/photo/msid-128893189,imgsize-136330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/us-israel-strike-iran-badminton-queen-pv-sindhu-stranded-at-dubai-airport-amid-growing-tensions/articleshow/128892456.cms",
+    "time": "2026-02-28T23:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Can J&amp;K’s Ranji triumph heal old wounds?",
+    "desc": "Jammu and Kashmir achieved a historic Ranji Trophy victory, thrashing favorites Karnataka in a remarkable Cinderella story. This triumph offers a non-political avenue for Kashmiri integration into the Indian mainstream, potentially shifting focus from alienation to national pride through cricket's unifying power.",
+    "img": "https://static.toiimg.com/photo/msid-128891242,imgsize-1538586.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/can-jks-ranji-triumph-heal-old-wounds/articleshow/128891217.cms",
+    "time": "2026-02-28T23:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Constitutional morality finally comes down to justice without fear or favour’, Kapil Sibal at Justice Unplugged 2026",
+    "desc": "There is complete breakdown of constitutional machinery, says senior advocate Kapil Sibal in conversation with N. Ram, Director of The Hindu Group, at The Hindu Justice Unplugged 2026; justice needs to rise above fractious debates to interpret Constitution for the greater good, he says",
+    "img": "https://th-i.thgim.com/public/incoming/1l2w74/article70689546.ece/alternates/LANDSCAPE_1200/81_RVM_9523.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/constitutional-morality-finally-comes-down-to-justice-without-fear-or-favour-kapil-sibal-at-justice-unplugged-2026/article70689096.ece",
+    "time": "2026-02-28T23:15:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Project Hail Mary postponed amid Toxic-Dhurandhar 2 clash",
+    "desc": "Ryan Gosling's 'Project Hail Mary' has shifted its Indian release to April 3, 2026, avoiding a clash with Ranveer Singh's 'Dhurandhar 2' and Yash's 'Toxic'. Trade experts cite screen allocation pressures, particularly for IMAX, as the reason for the two-week delay, ensuring better access to premium formats for the sci-fi thriller.",
+    "img": "https://static.toiimg.com/photo/msid-128899690,imgsize-125932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dhurandhar-2-and-toxic-clash-ryan-goslings-project-hail-mary-postpones-india-release-film-eyes-april-release-reports/articleshow/128898084.cms",
+    "time": "2026-02-28T22:36:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Are drivers paying the war tax amid Iran and US–Israel clashes?",
+    "desc": "UAE drivers will pay more for fuel in March 2026 as prices for Super 98, Special 95, E-Plus 91 and diesel see an increase. This rise, ending a brief dip, is attributed to global oil market pressures, including Middle Eastern geopolitical tensions. The monthly review aligns local rates with international trends.",
+    "img": "https://static.toiimg.com/photo/msid-128899245,imgsize-25550.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-announces-petrol-and-diesel-prices-for-march-2026-are-drivers-paying-the-war-tax-amid-iran-and-usisrael-clashes/articleshow/128896700.cms",
+    "time": "2026-02-28T22:24:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cher's son ARRESTED for trespassing; released on bail",
+    "desc": "Cher's son, Elijah Allman, 49, was arrested at St. Paul's School in New Hampshire on Friday. He faces four misdemeanor charges including assault and criminal trespass, along with disorderly conduct. Police responded to reports of Allman causing a disturbance in the school's dining hall. He has no affiliation with the institution. Allman was released on bail pending court proceedings.",
+    "img": "https://static.toiimg.com/photo/msid-128897953,imgsize-62834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chers-son-elijah-allman-charged-with-simple-assault-and-trespassing-at-new-hampshire-private-school/articleshow/128897590.cms",
+    "time": "2026-02-28T21:15:57.000Z"
+  },
+  {
     "cat": "Business",
     "title": "UAE market stability, food prices, stock update amid Iran–US-Israel escalation: Panic buying in the emirates as oil prices surge?",
     "desc": "Amidst escalating West Asian tensions, the UAE assures its markets and food reserves are secure. Authorities are actively monitoring supplies and maintaining price stability, with robust strategic reserves and diversified import routes. Residents are urged against panic buying, as the nation's preparedness ensures everyday life and commerce remain unaffected by regional strains.",
@@ -16,6 +124,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rahul-rawail-clarifies-he-did-not-ask-saif-ali-khan-to-leave-his-girlfriend-during-bekhudi-he-was-irresponsible-he-didnt-turn-up/articleshow/128896000.cms",
     "time": "2026-02-28T19:27:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When art wilts under the sun",
+    "desc": "The impacts of climate change are not for the future, they are here, now, and will only inconvenience humans more over time. Geetha Srimathi looks at how the trade and health of folk artistes of Tamil Nadu have already been deeply impacted by the growing summer heat",
+    "img": "https://th-i.thgim.com/public/incoming/ppekun/article70689063.ece/alternates/LANDSCAPE_1200/sunday%20story2315_7_3_2021_14_28_5_1_COOL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/when-art-wilts-under-the-sun/article70687911.ece",
+    "time": "2026-02-28T19:07:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -52,6 +169,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/congress-and-dmk-talks-smooth-likely-to-reachan-understanding-soon/article70688585.ece",
     "time": "2026-02-28T18:17:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "For a house built in Kerala, another brought down in Bihar",
+    "desc": "A caste conflict in Bihar was triggered by a wage dispute over a work that was done over 2,500 kilometres away in Kerala. Amit Bhelari reports on the allegations made by both sides, which resulted in two FIRs being filed, one invoking the SC/ST Act. The brahmins had allegedly forcibly entered the home of the Scheduled Caste man who asked for money due to him. In the background, play out themes of movement and migration",
+    "img": "https://th-i.thgim.com/public/incoming/gm2ep6/article70689260.ece/alternates/LANDSCAPE_1200/6744_24_2_2026_20_49_21_2_05_BIHAR.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/for-a-house-built-in-kerala-another-brought-down-in-bihar/article70687980.ece",
+    "time": "2026-02-28T18:01:43.000Z"
   },
   {
     "cat": "Sports",
@@ -351,24 +477,6 @@ const newsData_en = [
     "time": "2026-02-28T13:16:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ranbir Kapoor's 'Ramayana' trailer likely to debut at San Diego Comic-Con",
-    "desc": "Ramayana, led by Ranbir Kapoor, Sai Pallavi, and Yash, is gearing up for a grand international debut. A trailer is eyed for a July reveal at San Diego Comic-Con, aiming to present the mythological saga as a global cinematic spectacle. The two-part epic will release its first chapter in 2026, with early screenings already drawing positive reactions.",
-    "img": "https://static.toiimg.com/photo/msid-128886467,imgsize-217628.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoors-ramayana-trailer-likely-to-debut-at-san-diego-comic-con/articleshow/128886467.cms",
-    "time": "2026-02-28T13:03:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajpal on debt case; says complainant wanted him in jail",
-    "desc": "Actor Rajpal Yadav, accompanied by his legal counsel, addressed a cheque-bounce case, asserting that lender Madhav Gopal Agarwal sought to have him jailed. Yadav's lawyer alleged that Agarwal refused to accept security and ownership documents in 2018, insisting on imprisonment. Yadav claimed Agarwal threatened to sell his property if the full Rs 10.40 crore. Let's learn more about in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128885828,imgsize-77918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-breaks-silence-on-cheque-bounce-case-says-complainant-rejected-property-documents-wanted-him-behind-bars/articleshow/128885828.cms",
-    "time": "2026-02-28T12:44:29.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "5.46 lakh names deleted, 1.82 lakh added in voter roll update",
     "desc": "West Bengal's electoral rolls now list over 7.04 crore voters following a Special Intensive Revision. During this process, over 5.46 lakh names were removed, while more than 1.82 lakh new voters were added. Over 58 lakh enumeration forms were not received, and more than 60 lakh electors remain in the 'under adjudication' category but are included in the updated rolls.",
@@ -385,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kashmir-willows-have-been-a-part-sachin-tendulkar-joins-celebrations-for-jks-maiden-ranji-trophy-win/articleshow/128885413.cms",
     "time": "2026-02-28T12:33:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajpal CLAIMS, 'Agle saat salo me Rs 1200 cr ka kaam hai'",
-    "desc": "over Rs 1200 crore in branding and film commitments lined up. He accused the lender of revenge, noting they declined his offered security and property. Fresh from his niece's wedding while on bail, the actor is returning to a slate of upcoming projects. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128884922,imgsize-88490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-makes-a-big-claim-at-the-press-conference-says-agle-saat-salo-me-rs-1200-crore-ka-kaam-hai-mere-paas/articleshow/128884922.cms",
-    "time": "2026-02-28T12:05:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -421,33 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holidays-next-week-when-will-banks-remain-closed-for-the-week-starting-march-2-check-state-wise-list/articleshow/128883527.cms",
     "time": "2026-02-28T11:23:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay cheers pop-and-lock dance, Rajpal stunned at Bhoot Bangla film event",
-    "desc": "During a colorful Bhoot Bangla promotional event, a playful crew of young dancers wowed the audience with a punchy pop-and-lock showcase. Akshay Kumar waved the crowd into applause, and Rajpal Yadav's stunned grin at a dancer's swift head turn became the moment to remember.",
-    "img": "https://static.toiimg.com/photo/msid-128883611,imgsize-124034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/watch-akshay-kumar-cheers-pop-and-lock-act-at-bhoot-bangla-promotion-rajpal-yadav-reaction-is-unmissable/articleshow/128883611.cms",
-    "time": "2026-02-28T11:15:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Suniel won't watch Ahan's Border 2 till Rs 500 crore mark",
-    "desc": "Suniel Shetty awaits 'Border 2' hitting Rs 500 Cr before watching, despite Rs 447 Cr global haul. \"God will ensure... for a father’s love,\" says the Hera Pheri star. He also avoids live KL Rahul matches to dodge anxiety over commentary on family.",
-    "img": "https://static.toiimg.com/photo/msid-128883439,imgsize-33926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-wont-watch-ahan-shettys-border-2-till-rs-500-crore-mark-god-will-ensure-/articleshow/128883439.cms",
-    "time": "2026-02-28T11:06:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Sarkata,' netizens REACT to Akshay's reel with headless man",
-    "desc": "Akshay Kumar's promotional video for Bhooth Bangla, featuring a headless man, has sparked online buzz. Fans are linking the Priyadarshan horror-comedy to Bollywood's supernatural universe, citing Stree 2 and its headless ghost Sarkata. Kumar's on-screen interaction with the spirit—asking whether ghosts exist—adds intrigue to the director's latest project. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128882760,imgsize-163122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-drops-video-with-a-headless-man-to-promote-bhooth-bangla-netizens-react-saying-sarkata-in-another-universe/articleshow/128882760.cms",
-    "time": "2026-02-28T10:52:39.000Z"
   },
   {
     "cat": "Business",
@@ -484,24 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/death-warrant-for-farmers-rahul-gandhi-attacks-pm-modi-at-pujab-rally-questions-indo-us-trade-deal/articleshow/128880605.cms",
     "time": "2026-02-28T10:04:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika REACTS to 'Endhayya Saami' song from 'Ranabaali'",
-    "desc": "The makers of Ranabaali surprised newlyweds Vijay Deverakonda and Rashmika Mandanna by releasing their first song, Endhayya Saami. The music video, capturing the couple’s wedding moments, is a touching tribute. Rashmika expressed delight at the unexpected gesture, calling it a lovely surprise for them and their fans. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128881045,imgsize-251992.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-reacts-as-makers-of-ranabaali-co-starring-vijay-deverakaonda-drop-first-song-endhayya-saami-lovely-/articleshow/128881045.cms",
-    "time": "2026-02-28T10:02:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who is performing at the BRIT Awards 2026?",
-    "desc": "BRIT Awards 2026 lands at Manchester's Co-op Live with host Jack Whitehall and a turbocharged lineup. Expect performances from RAYE, Harry Styles, and Olivia Dean, alongside K-pop sensations Ejae, Audrey Nuna, and Rei Ami. Mark Ronson is set to receive a special honour, while Rosalía and SOMBR make their BRITs debuts for a night that celebrates global music diversity.",
-    "img": "https://static.toiimg.com/photo/msid-128881244,imgsize-66704.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/who-is-performing-at-the-brit-awards-2026-harry-styles-rosalia-sombr-and-others-on-the-list-see-details-here/articleshow/128881244.cms",
-    "time": "2026-02-28T09:53:32.000Z"
   },
   {
     "cat": "Sports",
@@ -592,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/major-boost-to-indias-healthcare-pm-modi-rolls-out-nationwide-hpv-vaccination-for-14-year-old-girls/articleshow/128876526.cms",
     "time": "2026-02-28T06:50:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'If Hesson stays, Shadab will be captain': Shahid Afridi's big claim",
-    "desc": "Former captain Shahid Afridi believes Shadab Khan is the leading candidate to captain Pakistan if coach Mike Hesson remains. Afridi cited Shadab's strong rapport with Hesson from their time at Islamabad United as a key factor. He emphasized the need for Shadab to deliver consistent performances to justify the captaincy, a sentiment echoed by Shoaib Malik.",
-    "img": "https://static.toiimg.com/photo/msid-128876576,imgsize-157052.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/if-mike-hesson-stays-shadab-khan-will-be-captain-shahid-afridis-big-claim/articleshow/128876586.cms",
-    "time": "2026-02-28T06:39:22.000Z"
   },
   {
     "cat": "Sports",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/nse-chief-proposes-retail-barriers-to-entry-on-derivative-markets-amidst-speculation-losses/article70680684.ece",
     "time": "2026-02-26T18:33:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "SEBI broadens MF categories to keep up with changing investor preferences",
-    "desc": "SEBI introduced another new category called the life cycle fund and has done away with retirement and children’s fund. SEBI said that life cycle funds will have a minimum duration of five years and a maximum duration of 30 years.",
-    "img": "https://th-i.thgim.com/public/incoming/sujk13/article70681316.ece/alternates/LANDSCAPE_1200/Financial-sectoGP8FGO86H.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/sebi-broadens-mf-categories-to-keep-up-with-changing-investor-preferences/article70680216.ece",
-    "time": "2026-02-26T18:20:37.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Voters go to polls in crucial bye-election test for U.K.’s Starmer",
-    "desc": "Anything other than a victory for Labour could make it very difficult for Starmer to serve out his full term; a recent poll on voting intentions showed Labour at 28%, Greens at 28% and the far-right Reform U.K. just behind at 27%",
-    "img": "https://th-i.thgim.com/public/incoming/git3ig/article70681258.ece/alternates/LANDSCAPE_1200/Britain_Politics_24554.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/voters-go-to-polls-in-crucial-bye-election-test-for-uks-starmer/article70680369.ece",
-    "time": "2026-02-26T17:46:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Revisiting the timeless allure of classic cars at Udaipur’s Oberoi Concours d’Elegance 2026",
-    "desc": "The second edition of the Oberoi Concours d’Elegance in Udaipur saw 120 classic cars and bikes, celebrating automotive heritage. What came through at the event besides culture, currency, and caviar, was the emotion associated with the vehicles",
-    "img": "https://th-i.thgim.com/public/life-and-style/i9a8e1/article70679333.ece/alternates/LANDSCAPE_1200/1935%20Rolls-Royce%20Phantom%20II%20Drophead%20Coup%C3%A9%20by%20Windovers%20owned%20by%20HRH%20Maharaja%20Gaj%20Singh%20ji%20of%20Jodhpur%20at%20The%20Oberoi%20Concours%20d%E2%80%99Elegance%202026.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/luxury/revisiting-the-timeless-allure-of-classic-cars-at-udaipurs-oberoi-concours-delegance-2026/article70679284.ece",
-    "time": "2026-02-26T17:07:24.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "In State of the Union speech, Trump highlights economy, Iran threat and repeats India-Pakistan claim",
-    "desc": "U.S. President Donald Trump, in his February 25 State of the Union address, reiterated his claim that he ended the India–Pakistan conflict, defended his tariff policies despite a Supreme Court setback, and doubled down on immigration crackdowns.",
-    "img": "https://th-i.thgim.com/public/news/national/qbuxp9/article70676991.ece/alternates/LANDSCAPE_1200/News%20Videos%20Thumbnail.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/in-state-of-the-union-speech-trump-highlights-economy-iran-threat-and-repeats-india-pakistan-claim/article70676992.ece",
-    "time": "2026-02-26T16:34:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "At Knesset, PM Modi condemns October 7 attack ‘barbaric’, vows deeper ties",
-    "desc": "Prime Minister Narendra Modi addressed the Knesset on February 25, where he received a rousing welcome from members of the Israeli Parliament. In his speech, Mr. Modi strongly condemned the October 7, 2023 terror attack carried out by Hamas, describing it as a “barbaric terrorist attack”.",
-    "img": "https://th-i.thgim.com/public/news/national/3n8zc9/article70677007.ece/alternates/LANDSCAPE_1200/News%20Videos%20Thumbnail%202.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/at-knesset-pm-modi-condemns-october-7-attack-barbaric-vows-deeper-ties/article70676998.ece",
-    "time": "2026-02-26T16:34:33.000Z"
   }
 ];

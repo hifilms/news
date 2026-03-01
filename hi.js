@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sanath Jayasuriya set to step down as Sri Lanka coach after loss against Pakistan",
+    "desc": "In a major development for SLC (Sri Lanka Cricket), the side’s head coach, Sanath Jayasuriya, has decided to step down from his role as the head coach after his side’s loss against Pakistan in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanath-jayasuriya-set-to-step-down-as-sri-lanka-coach-after-loss-against-pakistan-2026-03-01-1032122",
+    "time": "2026-03-01T01:34:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PV Sindhu, on her way to All England Open, stranded at Dubai airport amid tensions in Gulf",
     "desc": "Star Indian shuttler PV Sindhu is stuck at Dubai airport after operations were suspended following missile strikes by Israel and the US on Iran. She was on her way to Birmingham to participate in the...",
     "img": "",
@@ -70,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/cm-omar-abdullah-announces-rs-2-crore-cash-prize-for-jammu-and-kashmir-players-after-historic-ranji-title-win-2026-02-28-1032073",
     "time": "2026-02-28T12:02:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kris Srikkanth rates West Indies' chances against India ahead of crucial clash in Kolkata",
-    "desc": "India is all set to take on the West Indies in game 52 of the ongoing T20 World Cup 2026. The two sides will lock horns at the Eden Gardens in Kolkata on March 1,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kris-srikkanth-rates-west-indies-chances-against-india-ahead-of-crucial-clash-in-kolkata-2026-02-28-1032063",
-    "time": "2026-02-28T10:50:13.000Z"
   }
 ];
