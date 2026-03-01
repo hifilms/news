@@ -1,6 +1,42 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "খামেইনি-মৃত্যুতে করাচির মার্কিন দূতাবাসে আগুন লাগাল উন্মত্ত জনতা! পুলিশের গুলিতে মৃত ৮",
+    "desc": "ইরানের বিরুদ্ধে অবিরাম বিমান হানা শুরু করেছে আমেরিকা আর ইজরায়েল। আর এই বিমান হামলায় নিহত হয়েছেন ইরানের সুপ্রিমো আয়েতোল্লা আলি খামেনিই। সেই খবর সামনে আসতেই পাকিস্তানের করাচিতে মার্কিন দূতাবাসে হামলা চালাল বিক্ষুব্ধ জনতা। দূতাবাসের বেশ কিছু অংশে ভাঙচুর চালানো হয় বলে অভিযোগ।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/us-2-2026-03-d510a2d41fbae6f73242020a3888862a-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/as-khameni-passed-away-mob-vandalized-us-consulate-at-karachi-in-pakistan-smc-2563526.html",
+    "time": "2026-03-01T08:49:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "চুমু তো কোনও ব্যাপারই নয়, আরও সাহসী দৃশ্যে ঠাসা ছবি,পরিবারের সঙ্গে বসে দেখতে পারবেন না! এমন ৬টি দক্ষিণী ছবির নাম রইল",
+    "desc": "দক্ষিণ ভারতের এমন কিছু ছবি যাতে তাদের গল্প, দৃশ্য এবং থিম বেশ সাহসী। যদিও এই ছবিগুলো থ্রিলার এবং সাসপেন্সে পূর্ণ, তবে এগুলিতে কিছু প্রাপ্তবয়স্ক দৃশ্য যা একসঙ্গে পরিবারের সবাই মিলে দেখতে পারবেন না। আপনি যদি সেগুলি দেখতে চান, তবে একা বা বন্ধুদের সঙ্গে দেখাই ভাল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1772350153_66-2026-02-dcf559a1436e49657c100ec71d2b1eef-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/films-like-iratta-super-deluxe-tillu-sqaure-6-bold-south-indian-films-can-not-watch-with-family-transpg-pbd-2563467.html",
+    "time": "2026-03-01T08:10:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "দুবাইয়ে মুহুর্মুহু হামলা-বিস্ফোরণ, বন্ধ বিমান, আটকে বলিউড নায়িকা! দেশে ফেরার জন্য চাইলেন প্রধানমন্ত্রীর সাহায্য",
+    "desc": "বলিউডের বহু নায়ক-নায়িকা দুবাইয়ে থাকেন৷ প্রায় অনেকের সেখানে রয়েছে নিজের সম্পত্তি৷ ফলে দুবাই যাতায়াত লেগেই থাকে তাঁদের৷ তবে দুবাইয়ে ক্ষেপণাস্ত্র নিক্ষেপের পর সেখানে আতঙ্ক ছড়িয়েছে৷ বিশেষ করে বিমান পরিষেবা বিঘ্নিত হয়েছে৷ এই সময় সেখানে আটকে পড়েছেন সোনাল চৌহান৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Sonal-Chauhan-2026-03-323d7869653e0f0fcd6d4500f646a2ba-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/amid-middle-east-tensions-bollywood-actress-singer-sonal-chauhan-stranded-in-dubai-seeks-help-from-prime-minister-modi-pbd-2563422.html",
+    "time": "2026-03-01T07:58:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ভয়ংকর মিসাইল-হানায় ধ্বংস ২৭১৭ ফুট বুর্জ খলিফা? মৃত্যুর আগে চরম আঘাত খামেইনির?",
+    "desc": "শনিবারই সোশ্যাল মিডিয়ায় প্রচারিত এক ভিডিয়োতে দাবি করা হয়েছিল, দুবাইয়ের বুর্জ খলিফার কাছে হামলা চালাচ্ছে ইরানি ড্রোন! ফুটেজে অভিযোগ করা হয়েছে, আরেকটি ইরানি ড্রোন সংযুক্ত আরব আমিরাতের বিশ্বের সবচেয়ে উঁচু ভবনের কাছে আঘাত করেছে! ছড়িয়ে পড়ে ঘোর আতঙ্ক!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/burj-khalifa-dubais-burj-khalifa-hit-by-iran-missile-video-shows-explosion-near-worlds-tallest-building-israel-us-attack-on-iran_643219.html ",
+    "time": "2026-03-01T07:16:38.000Z"
+  },
+  {
+    "cat": "World",
     "title": "আগুন পেট্রল-ডিজেল! হাহাকার বিশ্বের জ্বালানি তেলের বাজারে! একলাফে ৫৭% পর্যন্ত বেড়ে... অবিশ্বাস্য",
     "desc": "ইরান হরমুজ প্রণালী বন্ধ করে দিয়েছে। সেজন্য এক ভয়ংকর পরিস্থিতি তৈরি হতে পারে বলে আশঙ্কা! এর জেরে বিশ্ববাজারে অপরিশোধিত তেলের দর এখনকার চেয়ে ৫৭% পর্যন্ত বেড়ে ব্যারেলপ্রতি ১১০ ডলারে চলে যেতে পারে! তাতে হাহাকার পড়ে যাবে বিশ্বে। সংকটে পড়বে এশিয়া!",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -648,15 +684,6 @@ const newsData_bn = [
     "time": "2026-02-24T09:46:48.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump to attack Iran's Nuclear Missile Base| World War 3? তৃতীয় বিশ্বযুদ্ধ শুরুর বাকি আর মাত্র ২ দিন! ট্রাম্পের ইশারায় মার্কিন হামলা ইরানের পরমাণু ঘাঁটিতে, ব্যস...",
-    "desc": "World War 3 ro begin? প্রেসিডেন্ট ডোনাল্ড ট্রাম্প বরাবরই ইরানের পরমাণু কর্মসূচি এবং মধ্যপ্রাচ্যে তাদের প্রভাব বিস্তারের কট্টর বিরোধী। গোয়েন্দা সূত্রে পাওয়া খবরের ভিত্তিতে প্রতিবেদনে দাবি করা হয়েছে যে, এই সম্ভাব্য হামলার মূল লক্ষ্য হতে পারে ইরানের কৌশলগত পারমাণবিক কেন্দ্র এবং সামরিক ঘাঁটিগুলো।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/48-hours-to-world-war-3-trump-strike-plan-on-iran-revealed-tehran-readies-nyc-range-missiles_642451.html ",
-    "time": "2026-02-23T15:52:23.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "নোটিস পাঠানোর ক্ষেত্রে তাড়াহুড়ো নয়, পাঁচ রাজ‍্যের বিধানসভা নিয়ে সতর্ক ইডি",
     "desc": "পাঁচ রাজ‍্যের বিধানসভা ভোটের আগে সতর্ক এনফোর্সমেন্ট ডিরেক্টরেট। নোটিস পাঠানোর ক্ষেত্রে তড়িঘড়ি নয়। ভেবেচিন্তে, সবদিক খতিয়ে দেখে পাঠাতে হবে জিজ্ঞাসাবাদের নোটিস৷ গুয়াহাটিতে ইডির ত্রৈমাসিক সম্মেলনে সংস্থার আধকারিকদের এই নির্দেশ দিলেন ইডি অধিকর্তা রাহুল নবীনে।একইসঙ্গে দীর্ঘদিন ধরে চলা তদন্তও দ্রুত শেষ করার নির্দেশ দিয়েছেন ইডি ডিরেক্টর। নির্দেশেবলা হয়েছে, ২০২৫-২৬ অর্থবর্ষের মোট পাঁচশোটি তদন্তাধীন কেস নির্দিষ্ট সময়ের মধ্যে শেষ করতে হবে। নতুন কেস এক থেকে দুই বছরের সময়সীমার টার্গেট নিয়ে শেষ করতে হবে।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/what-is-aadhaar-pvc-card-know-features-benefits-and-how-to-apply-online-tc-dc-aa-2547963.html",
     "time": "2026-02-21T05:52:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold ETF আর Silver ETF কী? বিনিয়োগকারীদের জন্য এগুলি কতটা লাভজনক? কোনটিতে বিনিয়োগ করা বেশি উপযুক্ত?",
-    "desc": "Gold ও Silver ETF-এর মাধ্যমে ফিজিক্যাল সোনা বা রুপো না কিনেই বিনিয়োগ করা যায়। গোল্ড ইটিএফ তুলনামূলকভাবে স্থিতিশীল হলেও সিলভার ইটিএফে ওঠানামা বেশি, ফলে সম্ভাব্য লাভও বেশি হতে পারে। নিজের ঝুঁকি নেওয়ার ক্ষমতা ও লক্ষ্য বুঝে সিদ্ধান্ত নেওয়াই শ্রেয়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/GOLD-1295-2026-02-9d6af6e68655078a478f2713fa2e9a94-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/gold-etf-vs-silver-etf-which-is-more-profitable-and-better-for-investors-tc-dc-aa-2528348.html",
-    "time": "2026-02-21T05:17:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ভারতের শুল্কও কি তবে কমে ১০% হল? মার্কিন সুপ্রিম কোর্টে তুলোধনার পরে নতুন ট্যারিফ ট্রাম্পের",
-    "desc": "বিশ্বের প্রায় সমস্ত দেশের উপরে ইচ্ছেমতো ট্যারিফ চাপানোর নির্দেশ খারিজ করে বেআইনি ঘোষণা করে দিয়েছে মার্কিন সুপ্রিম কোর্ট৷ তারপরেই নতুন ও পরিবর্তিত ১০ শতাংশ শুল্কের কথা ঘোষণা করেছে৷ যা এখন থেকেই প্রযোজ্য হবে৷ ভারতের সঙ্গে অন্যান্য বিষয় বাণিজ্য চুক্তির মতো করেই হবে বলে জানিয়েছেন ট্রাম্প৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Donald-Trump-2026-02-a9f38692eaf90cd5d864f69f0aee4b80-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/donald-trump-new-tariff-will-india-now-face-just-10-us-tariffs-white-house-official-signals-reset-sta-2550881.html",
-    "time": "2026-02-21T04:27:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ডিজিটাল রুপি ওয়ালেট কী ? মিলবে একাধিক বিশেষ সুবিধা, ব্যাঙ্কের মাধ্যমে কীভাবে এটি পাবেন তা জেনে নিন",
-    "desc": "ডিজিটাল রুপি ওয়ালেট হল ভারতের কেন্দ্রীয় ব্যাঙ্কের চালু করা ডিজিটাল মুদ্রা ব্যবস্থা। ব্যাঙ্কের মাধ্যমে এটি পাওয়া যায় এবং দ্রুত, নিরাপদ ও ঝামেলাহীন লেনদেনের সুবিধা দেয়। নগদের বিকল্প হিসেবে এটি ভবিষ্যতের পেমেন্ট ব্যবস্থাকে আরও সহজ করে তুলছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ITR-54-2026-02-8818fe534014eaae49a497c9bc7d923b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/what-is-a-digital-rupee-wallet-know-the-key-benefits-and-how-to-get-it-through-your-bank-tc-dc-aa-2549344.html",
-    "time": "2026-02-21T03:36:06.000Z"
   }
 ];

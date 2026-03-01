@@ -1,12 +1,66 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "1200 બોમ્બ, 200 ફાઈટર જેટ્સ, 500 ટાર્ગેટ...અમેરિકા-ઈઝરાયેલે આ રીતે આપ્યો &amp;#039;મિશન ખામેનેઈ&amp;#039;ને અંજામ",
+    "desc": "ઇઝરાયલ અને અમેરિકાએ ઇરાન પર મોટો હુમલો કર્યો છે. ઓપરેશન્સ રોઅરિંગ લાયન અને એપિક ફ્યુરીમાં ટોમાહોક ક્રુઝ મિસાઇલો, F-35I સ્ટીલ્થ ફાઇટર, F-15I, GBU-28 બંકર-બસ્ટર્સ, સ્પાઇસ અને JDAM બોમ્બ, ડેલીલાહ-રેમ્પેજ મિસાઇલો અને હેરોન-એઇટન ડ્રોનનો ઉપયોગ કરવામાં આવ્યો છે. તેહરાન, ઇસ્ફહાન અને શિરાઝમાં મિલિટ્રી અને પરમાણુ સુવિધાઓને નિશાન બનાવવામાં આવી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/1200-bombs-200-fighter-jets-500-targets-this-is-how-the-us-and-israel-executed-mission-khamenei-466698 ",
+    "time": "2026-03-01T08:35:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "છેલ્લી ઓવરના 5મા બોલ પર એવું તે શું થયું કે અમ્પાયર સાથે ઝઘડવા લાગ્યો જયસૂર્યા",
+    "desc": "પાકિસ્તાન અને શ્રીલંકા વચ્ચેની મેચમાં હાઈવોલ્ટેજ ડ્રામા જોવા મળ્યો. મેચના છેલ્લા બોલ પર શ્રીલંકા જીતથી થોડીક વાર ચૂકી ગયું, અને અમ્પાયરના નિર્ણયથી વિવાદ એક મોટો થયો. ટીમના મુખ્ય કોચ સનથ જયસૂર્યા અમ્પાયર સાથે ઉગ્ર દલીલ કરતા પણ જોવા મળ્યા હતા. ચાલો જાણીએ શું છે આખો મામલો...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/what-happened-on-the-5th-ball-of-the-last-over-that-jayasuriya-started-arguing-with-the-umpire-466684 ",
+    "time": "2026-03-01T08:26:35.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "કરાચીમાં પાકિસ્તાનીઓનો US દૂતાવાસ પર હુમલો, અમેરિકન સૈનિકોના ગોળીબારમાં 8 લોકોના મોત",
+    "desc": "આયાતુલ્લાહ અલી ખામેનીના મોતના સમાચાર બાદ કરાચીમાં હિંસક વિરોધ પ્રદર્શનો ફાટી નીકળ્યા છે. ગુસ્સે ભરાયેલા પ્રદર્શનકારીઓએ યુએસ દૂતાવાસની બહાર તોડફોડ કરી અને આગ ચાંપી દીધી છે. પરિસ્થિતિને કાબૂમાં લેવા માટે પોલીસ અને સુરક્ષા દળોએ વિસ્તારને ઘેરી લીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/attack-on-us-embassy-in-pakistan-after-death-of-ali-khamenei-466694 ",
+    "time": "2026-03-01T08:09:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ઈરાન યુદ્ધના માહોલ વચ્ચે પાકિસ્તાનનું ભારતમાં છમકલું! દુશ્મનનું ડ્રોન જોતા જ સેનાનો મુંહતોડ જવાબ",
+    "desc": "હાલ અમેરિકા અને ઈઝરાયેલ સાથે મળીને ઈરાન પર હુમલો કરી રહ્યા છે, તેના જવાબમાં ઈરાન પણ ચારેબાજુ બોમ્બમારો કરી રહ્યું છે. આ સમાચાર વચ્ચે જમ્મુ-કાશ્મીરના પુંછમાં ભારતીય સેનાએ પાકિસ્તાની ડ્રોનની ઘૂસણખોરીને નિષ્ફળ બનાવી દીધી છે. જવાનોના ભારે ફાયરિંગ બાદ દુશ્મનનું ડ્રોન પરત ભાગી ગયું હતું, જે બાદ વિસ્તારમાં સર્ચ ઓપરેશન ચાલુ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pakistani-drones-in-india-during-iran-war-army-gives-befitting-reply-466696 ",
+    "time": "2026-03-01T07:55:29.000Z"
+  },
+  {
     "cat": "Business",
-    "title": "Gold-Silver Rate Weekly Explainer: સોનામાં 4000 અને ચાંદીના ભાવમાં 16 હજારનો વધારો, આ અઠવાડિયે ભાવ વધશે કે ઘટશે? એક્સપર્ટ્સ શું કહે છે એ પણ જાણો",
+    "title": "Gold-Silver Rate Weekly Explainer: સોનામાં 4000 અને ચાંદીના ભાવમાં 16 હજારનો વધારો, આ અઠવાડિયે શું રહેશે સ્થિતિ? એક્સપર્ટ્સ શું કહે છે એ પણ જાણો",
     "desc": "સોના અને ચાંદી છેલ્લા કેટલાક સમયથી સતત આકાશે આંબી રહ્યા હતા. 29 જાન્યુઆરીએ તો ઓલટાઈમ હાઈ પર પહોંચી ગયા. પરંતુ જો કે ત્યારબાદ ભાવ ઘટ્યા. પરંતુ હવે ઈરાન અને ઈઝરાયેલ વચ્ચે યુદ્ધની સ્થિતિ વળી પાછા ભાવમાં ભડકા કરે તેવા એંધાણ છે. આ બધા વચ્ચે સપ્તાહમાં કિંમતી ધાતુઓમાં શું મૂવમેન્ટ રહી અને આગામી અઠવાડિયામાં શું સ્થિતિ રહી શકે છે તે ખાસ જાણો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-silver-rate-weekly-explainer-movement-during-last-week-will-iran-israel-war-push-the-rates-466691 ",
-    "time": "2026-03-01T06:41:44.000Z"
+    "time": "2026-03-01T06:51:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ઈરાન-ઈઝરાયેલ યુદ્ધથી સોનામાં મહાવિસ્ફોટ! ચાંદી પણ એક ઝટકે મોંઘી, પાછા ભાવ આકાશે આંબશે?",
+    "desc": "ઈરાન અને ઈઝરાયેલ વચ્ચે યુદ્ધ ફાટી નીકળ્યા બાદ હવે વૈશ્વિક સ્તરે ભારે ખળભળાટ મચ્યો છે. દુનિયામાં પહેલેથી જ અફઘાનિસ્તાન અને પાકિસ્તાન વચ્ચે તણાવ છે, રશિયા અને યુક્રેન વચ્ચે યુદ્ધ ચાલે છે. વૈશ્વિક તણાવના પગલે અનેક સેક્ટરોમાં ઉથલપાથલ જોવા મળી શકે છે જેમાંથી એક છે સોનું અને ચાંદી. ભાવમાં વધારાની આશંકા વ્યક્ત કરાઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/israel-iran-war-gold-silver-rate-predictions-sona-chandi-par-padi-shake-yudh-ni-asar-news-in-gujarati-466629 ",
+    "time": "2026-03-01T06:44:24.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "આયાતુલ્લાહ ખામેનીનો ભારત સાથે છે ખાસ સંબંધ, યુપીથી શરૂ થઈ હતી ઈરાનના સુપ્રીમ લીડર બનવાની સફર !",
+    "desc": "ઈરાનના સર્વોચ્ચ નેતા આયાતુલ્લાહ અલી ખામેનીનું ઇઝરાયલી હુમલામાં નિધન થયું હોવાના સમાચાર સામે આવ્યા છે. તેમની સાથે તેમના પરિવારના ઘણા સભ્યો પણ હતા, જેમાં તેમની પુત્રી, જમાઈ, પૌત્ર અને પૌત્રીનો સમાવેશ થાય છે. ત્યારે આ લેખમાં આયાતુલ્લાહ ખામેનીનું ભારત સાથે કનેક્શન શું હતું, તેના વિશે જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-supreme-leader-ayatollah-khamenei-indian-connection-barabanki-uttar-pradesh-466692 ",
+    "time": "2026-03-01T06:41:59.000Z"
   },
   {
     "cat": "Sports",
@@ -34,15 +88,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/fakhar-zaman-mistake-eliminates-pakistan-in-semi-finals-t20-world-cup-2026-466685 ",
     "time": "2026-03-01T05:07:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શું પાકિસ્તાનને ખરેખર અમ્પાયરે જીતાડ્યું? છેલ્લા બોલના ડ્રામાથી જયસૂર્યા લાલઘૂમ! થયો ભારે હોબાળો",
-    "desc": "પાકિસ્તાન અને શ્રીલંકા વચ્ચેની મેચમાં હાઈવોલ્ટેજ ડ્રામા જોવા મળ્યો. મેચના છેલ્લા બોલ પર શ્રીલંકા જીતથી થોડીક વાર ચૂકી ગયું, અને અમ્પાયરના નિર્ણયથી વિવાદ એક મોટો થયો. ટીમના મુખ્ય કોચ સનથ જયસૂર્યા અમ્પાયર સાથે ઉગ્ર દલીલ કરતા પણ જોવા મળ્યા હતા. ચાલો જાણીએ શું છે આખો મામલો...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/umpires-decision-won-the-match-for-pakistan-coach-jayasuriya-was-furious-and-chaos-erupted-on-the-last-ball-466684 ",
-    "time": "2026-03-01T05:03:54.000Z"
   },
   {
     "cat": "Politics",
@@ -142,15 +187,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/sahibzada-farhan-breaks-virat-kohli-record-t20-world-cup-2026-most-runs-466633 ",
     "time": "2026-02-28T15:41:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ઈરાન-ઈઝરાયેલ યુદ્ધથી સોનામાં મહાવિસ્ફોટ! ચાંદી પણ એક ઝટકે મોંઘી, પાછા ભાવ આકાશે આંબશે?",
-    "desc": "ઈરાન અને ઈઝરાયેલ વચ્ચે યુદ્ધ ફાટી નીકળ્યા બાદ હવે વૈશ્વિક સ્તરે ભારે ખળભળાટ મચ્યો છે. દુનિયામાં પહેલેથી જ અફઘાનિસ્તાન અને પાકિસ્તાન વચ્ચે તણાવ છે, રશિયા અને યુક્રેન વચ્ચે યુદ્ધ ચાલે છે. વૈશ્વિક તણાવના પગલે અનેક સેક્ટરોમાં ઉથલપાથલ જોવા મળી શકે છે જેમાંથી એક છે સોનું અને ચાંદી. ભાવમાં વધારાની આશંકા વ્યક્ત કરાઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/israel-iran-war-gold-silver-rate-predictions-sona-chandi-par-padi-shake-yudh-ni-asar-news-in-gujarati-466629 ",
-    "time": "2026-02-28T15:09:03.000Z"
   },
   {
     "cat": "Sports",
@@ -277,33 +313,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-team-india-probable-opponents-in-semifinals-466548 ",
     "time": "2026-02-28T08:31:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અમેરિકા અને ઈરાન વચ્ચેના તણાવ અંગે PM મોદીએ નેતન્યાહૂ સાથે શું ચર્ચા કરી? સરકારે આપ્યો જવાબ",
-    "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદીની ઇઝરાયલની બે દિવસની મુલાકાત કરી ભારત પરત ફર્યા છે. બંને દેશો વચ્ચે અનેક મોટા કરારો પર હસ્તાક્ષર થયા. વિદેશ સચિવના અહેવાલ મુજબ, બંને નેતાઓએ પશ્ચિમ એશિયામાં ચાલી રહેલા તણાવ અંગે પણ ચર્ચા કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/what-did-pm-modi-discuss-with-netanyahu-regarding-the-tension-between-america-and-iran-government-gave-its-response-466532 ",
-    "time": "2026-02-28T08:05:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઇઝરાયલે ઇરાન પર કર્યો મોટો હુમલો, 30થી વધુ સ્થળોએ ધડાકા, ભારે તબાહી !",
-    "desc": "ઇઝરાયલે ઇરાન પર મોટો હુમલો કર્યો છે. ઈરાનની રાજધાની તેહરાનમાં અનેક મોટા ધડાકા સંભળાયા હતા. અધિકારીઓએ આ ધડાકાની પુષ્ટિ કરી છે, પરંતુ કારણ સ્પષ્ટ કરવામાં આવ્યું નથી. તાજેતરના દિવસોમાં દેશના વિવિધ ભાગોમાં રહસ્યમય ધડાકા અને આગને પગલે તણાવ વધી ગયો છે, કારણ કે અમેરિકા અને ઈરાન વચ્ચે તણાવ સતત વધી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/breaking-news-israel-attack-on-iran-america-iran-war-466526 ",
-    "time": "2026-02-28T07:19:17.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાનમાં યુદ્ધ થયું તો ભારત પર શું અસર થશે? આ 5 સેક્ટરમાં આવશે ભૂકંપ, 90 લાખ ભારતીયો પર છવાશે સંકટના વાદળો!",
-    "desc": "ઇઝરાયલના રક્ષામંત્રી ઈરાન વિરુદ્ધ 'પ્રીવેન્ટીવ એટેક'ની પુષ્ટિ કરી છે. તહેરાનમાં ધમાકાના સમાચાર છે. આ કાર્યવાહી અમેરિકા-ઈરાન પરમાણુ વાર્તા વચ્ચે થઈ છે, જેનાથી પ્રાદેશિક તણાવ વધી શકે છે. જો ઈરાનમાં યુદ્ધ શરૂ થાય તો ભારત પર શું અસર થશે તે વિશે ચર્ચા કરીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-us-war-can-create-big-impact-on-india-oil-price-hike-90-lakh-indians-living-in-gulf-countries-466531 ",
-    "time": "2026-02-28T07:18:25.000Z"
   },
   {
     "cat": "Sports",
@@ -520,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/after-kerala-now-delhi-is-preparing-to-change-its-name-know-what-is-the-new-proposal-and-mahabharata-connection-466306 ",
     "time": "2026-02-26T11:43:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પીએમ કિસાન 22માં હપ્તા પર અત્યંત મહત્વના અપડેટ, ગુજરાતના ખેડૂતો ખાસ જાણે",
-    "desc": "પીએમ કિસાન સન્માન નિધિનો 22 મો હપ્તો ક્યારે આવશે ખાતામાં? ખેડૂતોના મનમાં હાલ આ પ્રશ્ન ગૂંજી રહ્યો છે. પહેલા એવું કહેવાતું હતું કે ફેબ્રુઆરીમાં આ હપ્તો આવી જશે પરંતુ હવે એવું લાગે છે કે હોળી પહેલા આ હપ્તો તમારા ખાતામાં આવે તેવી શક્યતા હાલ તો ધૂંધળી જોવા મળી રહી છે. જાણો તેની પાછળનું કારણ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-kisan-samman-nidhi-latest-update-why-is-there-a-delay-in-the-22nd-installment-farmers-news-in-gujarati-466303 ",
-    "time": "2026-02-26T10:54:38.000Z"
   },
   {
     "cat": "Entertainment",

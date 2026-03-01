@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "South Africa set to bowl, ZIM opt to bat first",
+    "desc": "Game 51 of the ongoing T20 World Cup 2026 sees South Africa taking on Zimbabwe. The two sides lock horns at the Arun Jaitley Stadium in Delhi on March 1. The game will have no...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/zim-vs-sa-t20-world-cup-2026-super-eight-live-cricket-score-sa-aim-to-maintain-dominance-in-delhi-2026-03-01-1032167",
+    "time": "2026-03-01T09:03:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Alyssa Healy smashes stellar ton in her final ODI, propels Australia women to massive total",
+    "desc": "Australia women and India women continued their ongoing ODI series by taking on each other in the third ODI. The two sides locked horns at the Bellerive Oval in Hobart on March 1. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/alyssa-healy-smashes-stellar-ton-in-her-final-odi-propels-australia-women-to-massive-total-2026-03-01-1032163",
+    "time": "2026-03-01T08:42:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He doesn't have shots there': R Ashwin weighs in on Abhishek Sharma's range ahead of West Indies clash",
+    "desc": "India and the West Indies are all set to take on each other in game 52 of the ongoing T20 World Cup 2026. The Super 8 stage of the tournament has been shaky for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/he-doesn-t-have-shots-there-r-ashwin-weighs-in-on-abhishek-sharma-s-range-ahead-of-wi-clash-2026-03-01-1032159",
+    "time": "2026-03-01T08:07:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head to Head record ahead of T20 World Cup Super 8 clash in Kolkata",
+    "desc": "The road to the T20 World Cup 2026 knockouts is closing in. Many eyes will be set upon the upcoming game between India and the West Indies. A win for either side would mean qualification...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-head-to-head-record-ahead-of-t20-world-cup-super-8-clash-in-kolkata-2026-03-01-1032155",
+    "time": "2026-03-01T07:15:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's probable XI vs West Indies: Kuldeep Yadav IN, Arshdeep Singh OUT? What about Rinku Singh?",
+    "desc": "India can field an extra spinner in the must-win clash against West Indies in the ongoing Super Eights of the T20 World Cup 2026. Kuldeep Yadav, who featured only in the game against Pakistan, can...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-s-probable-xi-vs-west-indies-kuldeep-yadav-in-arshdeep-singh-out-what-about-rinku-singh-2026-03-01-1032154",
+    "time": "2026-03-01T07:11:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will surface at Eden Gardens in Kolkata play in T20 World Cup?",
     "desc": "India will host West Indies in a must-win game in the T20 World Cup at the iconic Eden Gardens in Kolkata. The winner of the match will qualify for the semi-finals, while the other will...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-still-stuck-at-dubai-airport-posts-crucial-update-2026-03-01-1032125",
     "time": "2026-03-01T02:20:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanath Jayasuriya set to step down as Sri Lanka coach after loss against Pakistan",
-    "desc": "In a major development for SLC (Sri Lanka Cricket), the side’s head coach, Sanath Jayasuriya, has decided to step down from his role as the head coach after his side’s loss against Pakistan in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanath-jayasuriya-set-to-step-down-as-sri-lanka-coach-after-loss-against-pakistan-2026-03-01-1032122",
-    "time": "2026-03-01T01:34:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PV Sindhu, on her way to All England Open, stranded at Dubai airport amid tensions in Gulf",
-    "desc": "Star Indian shuttler PV Sindhu is stuck at Dubai airport after operations were suspended following missile strikes by Israel and the US on Iran. She was on her way to Birmingham to participate in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-on-her-way-to-all-england-open-stranded-at-dubai-airport-amid-tensions-in-gulf-2026-02-28-1032106",
-    "time": "2026-02-28T17:40:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan knocked out of T20 World Cup 2026 despite beating Sri Lanka, New Zealand qualify for semifinals",
-    "desc": "Pakistan have been knocked out of the T20 World Cup 2026. They failed to restrict Sri Lanka to 147 runs or fewer while defending the total of 212 runs. Pakistan needed to win by 65...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-knocked-out-of-t20-world-cup-2026-new-zealand-qualify-for-semifinals-2026-02-28-1032104",
-    "time": "2026-02-28T17:03:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sahibzada Farhan creates history with stunning 59-ball century vs Sri Lanka in T20 World Cup",
-    "desc": "Pakistan opener Sahibzada Farhan created history today as he became the first batter ever to score two centuries in a single T20 World Cup edition. He notched up a 59-ball ton against Sri Lanka in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sahibzada-farhan-creates-history-with-stunning-59-ball-century-vs-sri-lanka-in-t20-world-cup-2026-02-28-1032100",
-    "time": "2026-02-28T15:54:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can Pakistan qualify for semifinal of T20 World Cup after posting 212 runs?",
-    "desc": "Pakistan have posted 212 runs for the loss of eight wickets in their 20 overs in the must-win clash against Sri Lanka after being invited to bat first in Pallekele. The men in green must...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-sl-how-can-pakistan-qualify-for-semifinal-of-t20-world-cup-after-posting-212-runs-2026-02-28-1032098",
-    "time": "2026-02-28T15:26:15.000Z"
   }
 ];

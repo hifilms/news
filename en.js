@@ -1,21 +1,183 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Khamenei’s rise and fall: The death of Iran’s ultimate authority",
+    "desc": "Ayatollah Ali Khamenei, Iran’s Supreme Leader for nearly 40 years, was killed in a joint U.S.-Israel strike, leaving a major power vacuum. From resisting the Shah to leading Iran through wars, nuclear negotiations, and internal uprisings, he shaped the nation’s politics, military, and religious authority.",
+    "img": "https://th-i.thgim.com/public/incoming/dx428a/article70691078.ece/alternates/LANDSCAPE_1200/profile%20FINAL1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-khameneis-rise-and-fall-the-death-of-irans-ultimate-authority/article70691081.ece",
+    "time": "2026-03-01T09:17:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nation paying heavy price for substance, style of Modi's foreign policy: Congress",
+    "desc": "\"PM Modi visited Israel on February 25 at a time when the entire world was aware that a U.S.-Israel military attack on Iran for regime change was imminent. The assault began just two days after Mr. Modi left Israel, where his speech to the Knesset was a display of shameful moral cowardice,\" says Jairam Ramesh",
+    "img": "https://th-i.thgim.com/public/incoming/i5wtpi/article70691083.ece/alternates/LANDSCAPE_1200/Hats-off-to-US-GBFFK9K15.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/nation-paying-heavy-price-for-substance-style-of-modis-foreign-policy-congress/article70691072.ece",
+    "time": "2026-03-01T09:14:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ashley Park reveals glimpse of Selena Gomez’s vacation",
+    "desc": "Selena Gomez headed to Los Cabos, Mexico for a sun-soaked escape with a celebrity cohort that included Ashley Park and Nina Dobrev. Park teased the trip with reels from yacht days and beach moments, capturing a joyful reunion. This getaway follows Selena's earlier bachelorette celebration in the same picturesque locale.",
+    "img": "https://static.toiimg.com/photo/msid-128910718,imgsize-120660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/out-of-the-group-chat-ashley-park-reveals-glimpse-of-selena-gomezs-sun-soaked-vacation-in-mexico-with-nina-dobrev/articleshow/128910718.cms",
+    "time": "2026-03-01T09:04:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Connor Storrie and Hudson Williams reunite on ‘SNL’",
+    "desc": "Fans of 'Heated Rivalry' rejoiced as co-stars Connor Storrie and Hudson Williams reunited on 'Saturday Night Live'. Williams surprised audiences by crashing Storrie's ice rink proposal skit, delivering a lively line before joining Storrie, Ben Marshall, and Mikey Day for a skate. The duo also announced Mumford & Sons' performance.",
+    "img": "https://static.toiimg.com/photo/msid-128910458,imgsize-82758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/connor-storrie-courts-success-in-snl-hosting-gig-as-co-star-hudson-williams-joins-in-ice-skating/articleshow/128910458.cms",
+    "time": "2026-03-01T08:45:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kim Ha Neul and Kim Jae Won reunite after 24 years,",
+    "desc": "Fans are buzzing as K-drama stars Kim Ha Neul and Kim Jae Won reunite 24 years after their iconic 2002 series Romance. They appeared together on a special program filmed in Japan, reminiscing about the on-set days and the show's enduring impact. The pair's nearly ageless looks have reignited nostalgia for the beloved early-2000s screen couple.",
+    "img": "https://static.toiimg.com/photo/msid-128910551,imgsize-102906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/romance-stars-kim-ha-neul-and-kim-jae-won-reunite-after-24-years-hitting-fans-with-a-wave-of-nostalgia/articleshow/128910551.cms",
+    "time": "2026-03-01T08:43:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When art wilts under the sun",
+    "desc": "The impacts of climate change are not for the future, they are here, now, and will only inconvenience humans more over time. Geetha Srimathi looks at how the trade and health of folk artistes of Tamil Nadu have already been deeply impacted by the growing summer heat",
+    "img": "https://th-i.thgim.com/public/incoming/ppekun/article70689063.ece/alternates/LANDSCAPE_1200/sunday%20story2315_7_3_2021_14_28_5_1_COOL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/when-art-wilts-under-the-sun/article70687911.ece",
+    "time": "2026-03-01T07:42:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Delroy Lindo addresses BAFTA controversy after a week",
+    "desc": "Actor Delroy Lindo has broken his silence on the BAFTA controversy where the n-word was heard from the audience due to a Tourette's advocate's involuntary tics. Speaking at the NAACP Image Awards, Lindo expressed gratitude for the support shown to him and Michael B. Jordan following the incident. His film 'Sinners' also garnered significant recognition at the event.",
+    "img": "https://static.toiimg.com/photo/msid-128909022,imgsize-71684.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/delroy-lindo-briefly-addresses-bafta-controversy-and-n-word-slur-i-appreciate-all-the-support/articleshow/128909022.cms",
+    "time": "2026-03-01T07:40:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "'Do not remain silent': Iranian Embassy in India issues plea after Khamenei's death",
+    "desc": "In a statement, the mission expressed its \"profound sorrow and grief\" over Khamenei's death. The Iranian Revolutionary Guard Corps has vowed revenge and said it has already carried out retaliatory attacks on American bases in the Middle East",
+    "img": "https://th-i.thgim.com/public/incoming/q13nn4/article70690973.ece/alternates/LANDSCAPE_1200/PTI03_01_2026_000119B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/do-not-remain-silent-iranian-embassy-in-india-issues-plea-after-khameneis-death/article70690953.ece",
+    "time": "2026-03-01T07:40:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jammu and Kashmir's maiden Ranji Trophy triumph: It takes a village",
+    "desc": "Jammu and Kashmir’s historic Ranji Trophy triumph is a story of collective belief, long battles and delayed redemption. From Paras Dogra’s leadership to Auqib Nabi’s rise, from Abid Nabi’s unfulfilled dream to Samiullah Beigh's sweet redemption, this title reflects years of quiet toil. In the end, it was not about who claimed credit first, but about a village that won together.",
+    "img": "https://static.toiimg.com/photo/msid-128908794,imgsize-344924.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jammu-and-kashmirs-maiden-ranji-trophy-triumph-it-takes-a-village/articleshow/128908678.cms",
+    "time": "2026-03-01T07:34:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Karan Aujla Delhi concert turns chaotic",
+    "desc": "A major fight marred Karan Aujla’s February 28 Delhi gig at Jawaharlal Nehru Stadium, drawing 75,000+ fans—a record for Punjabi artists—despite chaos in the VVIP lounge. Viral videos show punches and kicks amid poor management complaints. Tour hits 11 cities next.",
+    "img": "https://static.toiimg.com/photo/msid-128909153,imgsize-14888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/karan-aujla-delhi-concert-turns-chaotic-viral-video-captures-brutal-vvip-lounge-brawl-watch/articleshow/128909153.cms",
+    "time": "2026-03-01T07:32:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran fires missiles at Israel, Gulf states after U.S.-Israeli strike kills Khamenei",
+    "desc": "Iran acknowledged Khamenei's death in the joint Israeli-American airstrike Saturday (February 28, 2026) at his Tehran office hours, which has thrown the future of the Islamic Republic into question and raised the risk of regional instability",
+    "img": "https://th-i.thgim.com/public/incoming/3yzic7/article70690888.ece/alternates/LANDSCAPE_1200/APTOPIX_Pakistan_Iran_US_Israel_57931.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-fires-missiles-at-israel-gulf-states-after-us-israeli-strike-kills-khamenei/article70690869.ece",
+    "time": "2026-03-01T07:30:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Rana Daggubati built a multi-sector empire",
+    "desc": "Rana Daggubati, continuing his family's cinematic legacy, has emerged as a prominent entrepreneur. He strategically invests in sectors blending storytelling, technology, and consumer experience, from visual effects and brand ecosystems to Web3 platforms and the revival of Amar Chitra Katha. His ventures also span food, tech, and retail, showcasing a diverse business acumen.",
+    "img": "https://static.toiimg.com/photo/msid-128908982,imgsize-60172.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/what-is-rana-daggubatis-net-worth-in-2026-a-look-at-the-kaantha-stars-businesses-and-investments/articleshow/128908982.cms",
+    "time": "2026-03-01T07:28:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hollywood celebs react to US-Israel strikes on Iran",
+    "desc": "Hollywood celebrities are voicing strong reactions to the US-Israel military strikes on Iran. Stars like Jack White, John Cusack, and Mark Ruffalo have taken to social media, criticizing political leaders and expressing deep concern over the escalating Middle East conflict. Many are questioning the motives behind the actions and the potential human cost. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128908658,imgsize-133420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mark-ruffalo-jack-white-and-other-hollywood-celebs-react-to-us-israel-strikes-on-iran/articleshow/128908658.cms",
+    "time": "2026-03-01T07:23:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jim Carrey wears sunglasses after eye colour row- WATCH",
+    "desc": "Jim Carrey's recent appearance at the Cesar Awards in Paris has ignited online speculation about his altered facial features and eye color, with some even questioning his identity. Despite the viral theories, the actor was later seen in Paris, sporting sunglasses and interacting with fans, seemingly unfazed by the unusual chatter surrounding his look.",
+    "img": "https://static.toiimg.com/photo/msid-128908876,imgsize-78962.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jim-carrey-steps-out-with-sunglasses-after-fans-spot-different-eye-colour-at-cesar-awards-watch/articleshow/128908191.cms",
+    "time": "2026-03-01T07:20:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Amid US-Israel strikes, Iran captain wants World Cup qualification",
+    "desc": "The Asian Football Confederation offers full support to Iran's women's football team in Australia. The team arrived before major attacks on their homeland. They are set to compete in the Women's Asian Cup, aiming to showcase Iranian women's potential. The tournament is a significant platform for the players, with World Cup qualification as a key goal.",
+    "img": "https://static.toiimg.com/photo/msid-128908727,imgsize-26850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/amid-us-israel-strikes-iran-captain-sets-bold-target-we-want-to-qualify-for-the-world-cup/articleshow/128908588.cms",
+    "time": "2026-03-01T07:12:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Madhavan confirms safety in the US as Ajith fans await an update",
+    "desc": "Actor R. Madhavan has confirmed his safety with family in the USA. This comes amid concerns on social media regarding the ongoing geopolitical tensions affecting Dubai. Madhavan's statement has eased worries for many. Meanwhile, fans of actor Ajith Kumar are awaiting an official update on his whereabouts. Ajith's fans are urged to avoid unverified information and wait for confirmed news.",
+    "img": "https://static.toiimg.com/photo/msid-128908429,imgsize-117656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/madhavan-confirms-safety-in-the-us-as-ajith-fans-await-an-update-amid-dubai-crisis-i-am-safe-with-family-in-the-usa/articleshow/128908429.cms",
+    "time": "2026-03-01T07:00:45.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Deputy CM Udhayanidhi inaugurates new hospital building in Chepauk",
     "desc": "The building has been constructed at a cost of ₹32.32 crore, with a total built-up area of 66,658 square feet, consisting of a ground floor and two upper floors. The building is equipped with 100 beds",
     "img": "https://th-i.thgim.com/public/incoming/mpkv9a/article70690835.ece/alternates/LANDSCAPE_1200/Udhayanidhi%20Stalin%201.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/chennai/deputy-cm-udhayanidhi-inaugurates-new-hospital-building-in-chepauk/article70689322.ece",
-    "time": "2026-03-01T06:34:39.000Z"
+    "time": "2026-03-01T06:57:11.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran fires missiles at Israel, Gulf states after US-Israeli strike kills Khamenei",
-    "desc": "Iran acknowledged Khamenei's death in the joint Israeli-American airstrike Saturday (February 28, 2026) at his Tehran office hours, which has thrown the future of the Islamic Republic into question and raised the risk of regional instability",
-    "img": "https://th-i.thgim.com/public/incoming/3yzic7/article70690888.ece/alternates/LANDSCAPE_1200/APTOPIX_Pakistan_Iran_US_Israel_57931.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-fires-missiles-at-israel-gulf-states-after-us-israeli-strike-kills-khamenei/article70690869.ece",
-    "time": "2026-03-01T06:33:12.000Z"
+    "cat": "Sports",
+    "title": "Back on 'home' turf: Varun Chakravarthy chance to silence his critics",
+    "desc": "Varun Chakravarthy returns to Eden Gardens, a venue where he has excelled, as a key weapon for India's T20 squad. Despite recent indifferent form, both Indian and West Indies management acknowledge his wicket-taking ability. The team also expressed strong support for Rinku Singh following his father's passing.",
+    "img": "https://static.toiimg.com/photo/msid-128907920,imgsize-23270.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/back-on-home-turf-varun-chakravarthy-chance-to-silence-his-critics/articleshow/128907910.cms",
+    "time": "2026-03-01T06:33:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Delhi HC allows forensic inspection of Sunjay Kapur’s will",
+    "desc": "Amid a heated fight over a Rs 30,000 crore estate, the Delhi High Court sanctioned a forensic review of the late industrialist's will for Karisma Kapoor and Sunjay Kapur's mother, overriding objections to ensure the will's genuineness can be established.",
+    "img": "https://static.toiimg.com/photo/msid-128907358,imgsize-101586.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/delhi-high-court-allows-forensic-inspection-of-sunjay-kapurs-will-karisma-kapoor-rani-kapur-granted-liberty-to-proceed-in-priya-kapurs-absence/articleshow/128907309.cms",
+    "time": "2026-03-01T06:31:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Aadu 3’ trailer out: Multiple timelines teased",
+    "desc": "Aadu 3's trailer pushes into a grand fantasy realm, where reincarnations meet multiple timelines, transcending a basic time-travel premise. Expect spectacular visuals alongside the series' trademark wit, with Shaji Pappan and his crew tangled in a riotous journey. Global release arrives March 19, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-128907752,imgsize-72192.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aadu-3-trailer-jayasuryas-shaji-pappan-returns-in-a-multiverse-of-comic-chaos-and-time-travel-twist-watch/articleshow/128907752.cms",
+    "time": "2026-03-01T06:27:43.000Z"
   },
   {
     "cat": "Sports",
@@ -25,6 +187,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/into-the-hands-of-fate-indias-simple-semifinal-equation-against-west-indies/articleshow/128907581.cms",
     "time": "2026-03-01T06:25:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Social media move sparks fan buzz",
+    "desc": "Reports suggest Thalapathy Vijay's son, Jason Sanjay, has unfollowed his father on social media, sparking fan speculation about their relationship. Amidst this buzz, Jason Sanjay is focusing on his directorial debut, 'Sigma,' while Vijay embarks on his political journey. This digital move has amplified attention on the star's family life.",
+    "img": "https://static.toiimg.com/photo/msid-128907421,imgsize-98892.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijays-son-jason-sanjay-unfollows-jana-nayagan-star-on-social-media-reports/articleshow/128907421.cms",
+    "time": "2026-03-01T06:11:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -72,6 +243,15 @@ const newsData_en = [
     "time": "2026-03-01T05:55:43.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Ranji Trophy",
+    "desc": "A quarterfinalist thrice – in 2013-14, 2019-20 and 2024-25 – Paras Dogra’s men clinched their maiden domestic red-ball title in their first-ever final; the triumph is yet another example of the growing footprint of the game within the country as J & K becomes the latest first-time winner of the Ranji Trophy",
+    "img": "https://th-i.thgim.com/public/incoming/ctizoz/article70688414.ece/alternates/LANDSCAPE_1200/_DSC1160.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-final-between-jammu-and-kashmir-and-karnataka/article70687469.ece",
+    "time": "2026-03-01T05:45:32.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "NGT issues notices to Centre, M.P. govt over clearances to Adani Group’s coal block in Singrauli",
     "desc": "The notices were issued based on two petitions; one challenges the approval given by the Centre and the State for the felling of trees for the project, the other claims that a proposed elephant corridor passes through the the Dhirauli coal block area",
@@ -99,42 +279,6 @@ const newsData_en = [
     "time": "2026-03-01T05:33:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rod Stewart performs with daughter and grandson",
-    "desc": "Legendary singer Rod Stewart, 81, shared a heartwarming onstage moment with daughter Ruby and grandson Otis at Hard Rock Live in Florida. Ruby and Rod traded vocals while Otis, wearing headphones, stood by his mother's side, a touching snapshot of three generations of Stewarts making music together. The footage quickly went viral.",
-    "img": "https://static.toiimg.com/photo/msid-128906340,imgsize-64146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rod-stewart-daughter-ruby-and-grandson-otis-perform-forever-young-on-stage/articleshow/128906340.cms",
-    "time": "2026-03-01T05:31:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "BTS’s Jin shares refreshing spring photos",
-    "desc": "BTS's Jin has captivated fans with his latest spring-themed Instagram photos, showcasing an elegant yet casual look. This update comes as the global sensation prepares for their highly anticipated fifth album, 'Arirang,' slated for release on March 20, 2026, followed by a world tour.",
-    "img": "https://static.toiimg.com/photo/msid-128906017,imgsize-503070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/jin-teases-a-spring-mood-ahead-of-btss-arirang-album-launch-on-march-20-leaving-even-j-hope-obsessed-pics/articleshow/128906017.cms",
-    "time": "2026-03-01T05:14:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dwayne Johnson net worth",
-    "desc": "Dwayne \"The Rock\" Johnson is nearing billionaire status with an estimated $800 million net worth. He has built a diversified empire beyond acting, co-owning production companies, a tequila brand valued at $2 billion, and other ventures. Johnson's strategic move into ownership across brands and leagues fuels his continued wealth growth.",
-    "img": "https://static.toiimg.com/photo/msid-128906059,imgsize-832954.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dwayne-johnson-net-worth-delving-into-how-the-rock-built-an-usd-800-million-diversified-empire/articleshow/128906072.cms",
-    "time": "2026-03-01T05:00:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SEVENTEEN’s Dino faces chaotic fan mob in Hong Kong",
-    "desc": "SEVENTEEN's Dino faced a troubling incident in Hong Kong when a frenzied crowd separated him from his mother, raising safety concerns for idols and their families. The episode mirrors a prior breach involving Mingyu, who was grabbed by fans during a concert.",
-    "img": "https://static.toiimg.com/photo/msid-128905891,imgsize-82952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/seventeens-dino-left-visibly-distressed-as-chaotic-fan-mob-in-hong-kong-puts-his-mothers-safety-at-risk-reports/articleshow/128905891.cms",
-    "time": "2026-03-01T04:52:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "OPEC+ mulls oil production increase in shadow of war",
     "desc": "The virtual meeting by the eight members of the Organization of the Petroleum Exporting Countries and allied nations (OPEC+) known as the \"Voluntary Eight\" (V8) comes a day after the U.S. and Israel launched an ongoing wave of strikes on Iran",
@@ -153,69 +297,6 @@ const newsData_en = [
     "time": "2026-03-01T04:35:56.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Kerala Story' director slams 'DOUBLE STANDARDS' of CBFC",
-    "desc": "Filmmaker Sudipto Sen, best known for The Kerala Story, questions the Central Board of Film Certification’s apparent double standards, noting that violent films often clear clearance quickly while genuine real-life narratives face propaganda accusations and bureaucratic hurdles. He also points to the outdated Cinematograph Act and calls for a fairer, more transparent certification process. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128905475,imgsize-161784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-kerala-story-director-sudipto-sen-calls-out-double-standards-of-cbfc-our-censor-board/articleshow/128905475.cms",
-    "time": "2026-03-01T04:34:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Byun Yo Han and Tiffany Young wed their marriage",
-    "desc": "Two months after going public with their relationship, Byun Yo Han and Tiffany Young have tied the knot through marriage registration. The agency dismissed rumors of a premarital pregnancy, emphasizing that marriage was always intended. The pair initially connected while filming the 2024 drama Uncle Samsik, where their romance began.",
-    "img": "https://static.toiimg.com/photo/msid-128905501,imgsize-42804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/byun-yo-han-and-tiffany-young-tie-the-knot-react-to-pregnancy-rumours/articleshow/128905501.cms",
-    "time": "2026-03-01T04:32:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karan Aujla kicks off P-POP CULTURE India Tour 2026",
-    "desc": "Aujla opened his India tour with a high-energy performance at Jawaharlal Nehru Stadium, where more than 75,000 fans gathered to watch him live. The singer made a dramatic entry by zip-lining above the crowd while performing his song \"On Top.\"",
-    "img": "https://static.toiimg.com/photo/msid-128905607,imgsize-116306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/p-pop-culture-india-tour-2026-karan-aujla-kicks-off-in-style-jaw-dropping-show-in-delhi/articleshow/128905522.cms",
-    "time": "2026-03-01T04:32:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Cara Delevingne opens up about dealing with social media",
-    "desc": "Cara Delevingne is candidly discussing her decision to step back from social media, citing algorithms that negatively impact mental well-being. She emphasizes the importance of curating feeds with uplifting content, particularly spotlighting women's achievements and positive news. Delevingne finds more meaning in supporting real-world initiatives like GoFundMe pages over aimless scrolling, especially during challenging times.",
-    "img": "https://static.toiimg.com/photo/msid-128905387,imgsize-446416.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cara-delevingne-opens-up-about-dealing-with-social-media/articleshow/128905410.cms",
-    "time": "2026-03-01T04:26:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "BLACKPINK’s Rose makes history as first K-pop artist to win BRIT award for ‘APT’ with Bruno Mars",
-    "desc": "BLACKPINK's Rosé achieved a historic milestone, becoming the first K-pop artist to win a BRIT Award for International Song of the Year with her hit collaboration 'APT.' featuring Bruno Mars. The chart-topping track, released in October 2025, secured the win through a public vote, highlighting its immense global popularity and Rosé's significant impact on the international music scene.",
-    "img": "https://static.toiimg.com/photo/msid-128905281,imgsize-699016.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/blackpinks-rose-makes-history-as-first-k-pop-artist-to-win-brit-award-for-apt-with-bruno-mars/articleshow/128905242.cms",
-    "time": "2026-03-01T04:21:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kim Soo Hyun’s legal rep addresses ‘Knock Off’ rumours",
-    "desc": "In a statement from his legal representatives, Kim Soo Hyun rejects the circulating 'Knock Off' chatter and indicates a TV comeback is highly probable. The lawyers also push back on claims of a relationship with Kim Sae Ron during her underage years, stressing his innocence while investigations continue to determine the facts.",
-    "img": "https://static.toiimg.com/photo/msid-128905121,imgsize-96886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/kim-soo-hyun-returning-to-the-small-screen-with-knock-off-legal-rep-posts-statement/articleshow/128905121.cms",
-    "time": "2026-03-01T04:14:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Alicia Keys’ husband Swizz Beatz faces USD 5.7 million tax debt",
-    "desc": "Grammy-winning producer Swizz Beatz owes the IRS a staggering USD 5.7 million in unpaid federal taxes. This debt includes a recent lien for 2024 income taxes, adding to previous outstanding amounts from 2022 and 2023. While his representatives state the situation is \"old news\" and some debt is disputed, the IRS has a legal claim on his assets.",
-    "img": "https://static.toiimg.com/photo/msid-128905116,imgsize-358662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/alicia-keys-husband-swizz-beatz-faces-usd-5-7-million-tax-debt/articleshow/128905130.cms",
-    "time": "2026-03-01T04:12:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sanath Jayasuriya decides to step down after World Cup disappointment",
     "desc": "Sri Lanka's head coach Sanath Jayasuriya has stepped down following the team's T20 World Cup 2026 exit. Despite a narrow loss to Pakistan, Jayasuriya expressed disappointment at not ending his tenure on a high note. His contract concludes in June, with formal discussions with Sri Lanka Cricket pending.",
@@ -225,15 +306,6 @@ const newsData_en = [
     "time": "2026-03-01T03:55:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sulli's brother shares UNSEEN video of the late K-pop idol",
-    "desc": "Six years after Sulli's passing, her brother shared an unreleased video and a childhood photo to honor the late idol. In the tribute, he also voiced concern over a forest fire near her grave, believing a recent dream of Sulli may be linked to the blaze and underscoring his anxiety about its cause.",
-    "img": "https://static.toiimg.com/photo/msid-128904372,imgsize-75108.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/sullis-brother-shares-gift-for-fans-with-unseen-video-of-the-late-k-pop-idol/articleshow/128904372.cms",
-    "time": "2026-03-01T03:32:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India won't 'mask pressure' even as Darren Sammy rallies a war cry",
     "desc": "India head into a virtual quarter-final against West Indies at Eden Gardens determined to embrace, not mask, pressure. While Darren Sammy has issued a war cry, India’s management insists on reframing pressure as privilege. With South Africa unbeaten and a semi-final spot at stake, Sunday’s clash promises a high-stakes contest between two T20 heavyweights ready to fight fire with fire.",
@@ -241,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-india-wont-mask-pressure-even-as-darren-sammy-rallies-a-war-cry/articleshow/128904257.cms",
     "time": "2026-03-01T03:31:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kerala Story 2 director REACTS to film's release; 'Satya...'",
-    "desc": "Goes Beyond' director Kamakhya Narayan Singh stated truth prevails, calling the film an emotion. He emphasized the responsibility to expose how daughters are trapped and victimized. Singh dismissed protests as the work of 'lumpen elements,' asserting freedom of expression for the spiritual sequel that resonates nationwide. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128904349,imgsize-116558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-kerala-story-2-director-kamakhya-narayan-singh-reacts-to-film-releasing-in-theaters-satya-kabhi-parajit-nahi-hota/articleshow/128904349.cms",
-    "time": "2026-03-01T03:31:03.000Z"
   },
   {
     "cat": "Business",
@@ -280,16 +343,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "When art wilts under the sun",
-    "desc": "The impacts of climate change are not for the future, they are here, now, and will only inconvenience humans more over time. Geetha Srimathi looks at how the trade and health of folk artistes of Tamil Nadu have already been deeply impacted by the growing summer heat",
-    "img": "https://th-i.thgim.com/public/incoming/ppekun/article70689063.ece/alternates/LANDSCAPE_1200/sunday%20story2315_7_3_2021_14_28_5_1_COOL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/when-art-wilts-under-the-sun/article70687911.ece",
-    "time": "2026-03-01T03:10:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "For 61 lakh 'doubtful' voters, it's a race against time to get on electoral roll",
+    "title": "For 60 lakh 'doubtful' voters, it's a race against time to get on electoral roll",
     "desc": "Around 60 lakh electors in West Bengal have been classified as 'doubtful' and await adjudication by judicial officers, following a Supreme Court directive. These voters, potentially illegal immigrants from Bangladesh, will be excluded from the electoral list until their cases are resolved, creating a race against time before the upcoming assembly elections.",
     "img": "https://static.toiimg.com/photo/msid-128904090,imgsize-1862484.cms",
     "src": "indiatimes.com",
@@ -468,15 +522,6 @@ const newsData_en = [
     "time": "2026-02-28T16:41:40.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Ranji Trophy",
-    "desc": "A quarterfinalist thrice – in 2013-14, 2019-20 and 2024-25 – Paras Dogra’s men clinched their maiden domestic red-ball title in their first-ever final; the triumph is yet another example of the growing footprint of the game within the country as J & K becomes the latest first-time winner of the Ranji Trophy",
-    "img": "https://th-i.thgim.com/public/incoming/ctizoz/article70688414.ece/alternates/LANDSCAPE_1200/_DSC1160.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-final-between-jammu-and-kashmir-and-karnataka/article70687469.ece",
-    "time": "2026-02-28T16:34:38.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Govt. blocks Supabase website, popular among code developers",
     "desc": "The site is used as a backend by several developers working on independent projects; a govt. official declined to discuss the specific reasons for the website’s blocking, but said that ‘information was being shared that should not have been shared’",
@@ -484,24 +529,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/govt-blocks-supabase-website-popular-among-code-developers/article70687836.ece",
     "time": "2026-02-28T16:03:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Peace meeting held in Bagalkot on Saturday after protest on Friday night",
-    "desc": "In Bagalkot, where residents staged protest on Friday night over the arrest of Hindutva activists, a conciliation peace meeting was held on Saturday in which P.C. Gaddigoudar, MP, former MLA Viranna Charantimath, senior police officials and residents of Killa Galli took part and it was resolved to maintain peace",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/peace-meeting-held-in-bagalkot-on-saturday-after-protest-on-friday-night/article70689002.ece",
-    "time": "2026-02-28T16:02:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "II PU student dies of heart attack",
-    "desc": "In a tragic incident, a girl student who was about to appear for her II year PUC examination died of heart attack as she was getting ready to go to the examination hall in Belagavi district on Saturday.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/ii-pu-student-dies-of-heart-attack/article70688012.ece",
-    "time": "2026-02-28T16:00:47.000Z"
   },
   {
     "cat": "World",
@@ -567,15 +594,6 @@ const newsData_en = [
     "time": "2026-02-28T13:19:07.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Kashmir willows have been a part’: Tendulkar hails J&amp;K after Ranji title",
-    "desc": "The cricket fraternity celebrated Jammu & Kashmir’s maiden Ranji Trophy triumph, with tributes pouring in from Sachin Tendulkar, Jay Shah and several former players. Tendulkar called it a beautiful journey, while Shah praised the team’s grit and support staff. Mohammad Kaif, Irfan Pathan, Aakash Chopra, Shikhar Dhawan, Harbhajan Singh, Yuvraj Singh and Suresh Raina also congratulated the historic achievement.",
-    "img": "https://static.toiimg.com/photo/msid-128885770,imgsize-39128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kashmir-willows-have-been-a-part-sachin-tendulkar-joins-celebrations-for-jks-maiden-ranji-trophy-win/articleshow/128885413.cms",
-    "time": "2026-02-28T12:33:56.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Singer Kalyani Nair on building an ensemble",
     "desc": "In this episode of Notes & Chords, we step into the world of choral music with Kalyani Nair — acclaimed playback and stage singer, composer, and arranger. As co-founder, choir director, and conductor of the Indian Choral Ensemble, which she leads with Karthik Manickavasakam, she brings together a 40-member collective of vocalists and instrumentalists. The ensemble is carving a niche in India’s soundscape, blending rich melody with layered harmony, spanning different genres.",
@@ -583,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/shows/watch-singer-kalyani-nair-on-building-an-ensemble/article70687219.ece",
     "time": "2026-02-28T11:54:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rinku spotted at Kolkata airport hours after father's funeral",
-    "desc": "Rinku Singh rejoined India’s T20 World Cup squad in Kolkata hours after performing his father’s last rites in Aligarh. His father, Khanchand Singh, died of cancer at 60 in Greater Noida. Despite the loss, Rinku returned for the must-win clash against West Indies. Tributes poured in from Rajeev Shukla, Yuvraj Singh and Harbhajan Singh.",
-    "img": "https://static.toiimg.com/photo/msid-128883970,imgsize-28946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/watch-grieving-rinku-singh-spotted-at-kolkata-airport-hours-after-fathers-funeral/articleshow/128883730.cms",
-    "time": "2026-02-28T11:25:10.000Z"
   },
   {
     "cat": "Business",
@@ -628,24 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/indian-team-for-asian-boxing-named-cwg-asiad-spots-at-stake/article70687306.ece",
     "time": "2026-02-28T10:16:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How much will J&amp;K receive for winning maiden Ranji Trophy title?",
-    "desc": "Jammu and Kashmir won their maiden Ranji Trophy title after drawing the final against Karnataka but securing a huge 291-run first-innings lead. They scored 584 in the first innings and extended their overall lead to 633 runs, with centuries from Qamran Iqbal and Sahil Lotra. As champions, J&K will receive Rs 5 crore in prize money.",
-    "img": "https://static.toiimg.com/photo/msid-128881237,imgsize-54442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-much-prize-money-will-jammu-kashmir-get-for-winning-the-ranji-trophy/articleshow/128880888.cms",
-    "time": "2026-02-28T09:49:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Nahi hone wala': Sehwag tears apart Pakistan’s qualification scenario",
-    "desc": "Former India opener Virender Sehwag believes Pakistan will not reach the T20 World Cup 2026 semi-finals. He stated their qualification scenario is too difficult. Sehwag expressed doubt about Pakistan's ability to achieve the required large margins of victory. He suggested their batting lineup is not suited for such demanding chase targets.",
-    "img": "https://static.toiimg.com/photo/msid-128880418,imgsize-272422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/nahi-hone-wala-virender-sehwag-tears-apart-pakistans-qualification-scenario/articleshow/128880435.cms",
-    "time": "2026-02-28T09:25:52.000Z"
   },
   {
     "cat": "Sports",
@@ -828,15 +819,6 @@ const newsData_en = [
     "time": "2026-02-27T02:14:47.000Z"
   },
   {
-    "cat": "World",
-    "title": "Hillary Clinton quizzed on Epstein, calls for Trump to testify",
-    "desc": "Ms. Clinton told the congressional committee she had no information about Epstein’s crimes, never recalled encountering him, and had never visited his island or flown on his plane, accusing the panel of trying to “protect one public official” — Mr. Trump.",
-    "img": "https://th-i.thgim.com/public/incoming/a0s6a6/article70681231.ece/alternates/LANDSCAPE_1200/Epstein_Congress_Clintons_53350.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/hillary-clinton-faces-epstein-congressional-inquiry/article70681095.ece",
-    "time": "2026-02-27T01:34:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India eye improved batting show to stay afloat in women's ODI series against Australia",
     "desc": "Having won the T20 series 2-1, a below-par India started the ODI contests on a disappointing note, losing by six wickets in Brisbane. The Indian women's team has never won a bilateral ODI series against Australia.",
@@ -891,12 +873,30 @@ const newsData_en = [
     "time": "2026-02-26T17:07:24.000Z"
   },
   {
-    "cat": "World",
-    "title": "Marco Rubio declares ‘old world is gone,’ calls for rebuilding western order",
-    "desc": "U.S. Secretary of State Marco Rubio has declared that “the old world is gone,” signalling a major shift in American foreign policy. Speaking in Washington and at the Munich Security Conference, Rubio called for rebuilding international institutions, criticised mass migration and free trade policies, and urged a renewed Western civilisational alliance.",
-    "img": "https://th-i.thgim.com/public/news/national/mun6d4/article70680758.ece/alternates/LANDSCAPE_1200/TH%20EXPLAIN%207.png",
+    "cat": "Sports",
+    "title": "Chepauk and its colourful legacy of delivering classics",
+    "desc": "The Indian team would hope to have another memorable outing at the M.A. Chidambaram Stadium when it squares off against Zimbabwe in the T20 World Cup Super Eight encounter; a win will bring the Suryakumar-led side back on track in the global tournament",
+    "img": "https://th-i.thgim.com/public/incoming/joxovj/article70677095.ece/alternates/LANDSCAPE_1200/4871_22_1_2026_20_0_2_1_20260122_181835.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-marco-rubio-declares-old-world-is-gone-calls-for-rebuilding-western-order/article70680800.ece",
-    "time": "2026-02-26T15:29:49.000Z"
+    "url": "https://www.thehindu.com/sport/cricket/chepauk-and-its-colourful-legacy-of-delivering-classics/article70677094.ece",
+    "time": "2026-02-26T07:34:38.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "SIM-binding directions for platforms to stay: Minister",
+    "desc": "The November 2025 order, due for compliance this month, will not be extended, says Communications Minister. He says ‘national security’ and ‘fraud’ were considered in issuing this order, which WhatsApp parent Meta has pushed back on through industry associations.",
+    "img": "https://th-i.thgim.com/public/incoming/48wfes/article70677009.ece/alternates/LANDSCAPE_1200/TH24-Aroon-WhatGCDFKPO1G.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/no-change-in-sim-binding-directions-to-platforms-scindia/article70676102.ece",
+    "time": "2026-02-25T20:52:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 World Cup 2026",
+    "desc": "The host never really recovered from the morale-crushing fall of its in-form batter and eventually crashed out of the T20 World Cup with a 61-run loss to New Zealand, its second straight defeat in the Super Eight.",
+    "img": "https://th-i.thgim.com/public/incoming/gt77jr/article70677016.ece/alternates/LANDSCAPE_1200/Sri_Lanka_New_Zealand_T20_WCup_Cricket_27193.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-2026-new-zealand-sends-sri-lanka-packing/article70677005.ece",
+    "time": "2026-02-25T18:13:58.000Z"
   }
 ];
