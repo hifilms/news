@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Babar Azam, Shaheen Afridi, and Salman Ali Agha among Pakistan players to be fined after World Cup exit: Repor",
+    "desc": "The ongoing T20 World Cup 2026 has been a major disappointment for the Pakistan cricket team. Led by Salman Ali Agha, Pakistan were eliminated from the Super 8 stage of the tournament after they finished...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-shaheen-afridi-and-salman-ali-agha-among-pakistan-players-to-be-fined-after-world-cup-exit-report-2026-03-02-1032315",
+    "time": "2026-03-02T11:40:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bruno Fernandes joins Wayne Rooney and Ryan Giggs in legendary list after win against Crystal Palace",
+    "desc": "Manchester United continued their brilliant run of form in the ongoing Premier League season. The fans are enjoying life under interim coach Michael Carrick. Having won six matches out of seven and yet to lose...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bruno-fernandes-joins-wayne-rooney-and-ryan-giggs-in-legendary-list-after-win-against-crystal-palace-2026-03-02-1032295",
+    "time": "2026-03-02T09:48:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Head is a bit muddled': Anil Kumble weighs in on Abhishek Sharma's struggles in the T20 World Cup 2026",
     "desc": "The Indian team has made its way into the knockout stages of the ongoing T20 World Cup 2026. The side took on the West Indies in game 52 of the ongoing tournament, getting a target...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-head-coach-highlights-team-sport-philosophy-after-historic-win-over-west-indies-2026-03-02-1032222",
     "time": "2026-03-01T18:46:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Semifinal lineups and venues confirmed after India's win over West Indies",
-    "desc": "Sanju Samson orchestrated India's stunning win over the West Indies to take the men in blue into the semifinals of the T20 World Cup. With this win, India qualified for the knockouts of the mega...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-semifinal-lineups-and-venues-confirmed-after-india-s-win-over-west-indies-2026-03-01-1032221",
-    "time": "2026-03-01T18:18:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson breaks Virat Kohli's all-time record in T20 World Cup, his reaction goes viral after winning shot",
-    "desc": "Sanju Samson saved his best for the crunch game in the T20 World Cup, and he played a match-winning knock against the West Indies to help India qualify for the semifinal of the tournament. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-breaks-virat-kohli-s-all-time-record-in-t20-world-cup-his-reaction-goes-viral-after-winning-shot-2026-03-01-1032217",
-    "time": "2026-03-01T17:32:55.000Z"
   }
 ];

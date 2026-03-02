@@ -1,12 +1,39 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "'ইরানে' ১০০ ভারতীয় টাকার 'মূল্য' কত হবে জানেন...? 'উত্তর' আপনাকে চমকাবেই, শিওর!",
+    "desc": "ইরান জ্বলছে! মুহুর্মুহু গোলাবর্ষণ, বিস্ফোরণের আওয়াজে বিপর্যস্ত মধ্যপ্রাচ্যের এই দেশটি। আর এই পরিস্থিতিতে ফের একবার আলোচনার শীর্ষে ইরান। আচ্ছা বলুন তো, আমাদের ভারতীয় রুপির দাম ইরানে ঠিক কেমন? ইরানের সরকারী মুদ্রা হল 'ইরানিয়ান রিয়াল', এবং এর আন্তর্জাতিক মূল্য অত্যন্ত কম। বর্তমানে, ১ ভারতীয় টাকার মূল্য সেখানে কত বলুন তো? কত হয়ে যাবে ১০০ ভারতীয় টাকা?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/currency-11-2026-03-29fcc6a52ee96ae5f4b0b39e9547aa99-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-iranian-rial-do-you-know-how-much-100-indian-rupees-are-worth-in-iran-the-answer-will-shoch-you-for-sure-know-this-interesting-fact-amid-iran-israel-tension-sanj-2565433.html",
+    "time": "2026-03-02T11:56:59.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Mimi Chakraborty-Tanay Shastri: মানহানি অভিযোগে আইনি চাপে মিমি চক্রবর্তী, বনগাঁ আদালতে তনয় শাস্ত্রীর হয়ে তরুণজ্যোতি তিওয়ারি মামলা",
     "desc": "মানহানি-সহ ক্ষতিপূরণ দাবি ও অনুষ্ঠানের পারিশ্রমিক ফেরত চেয়ে আগেই অভিনেত্রী মিমি চক্রবর্তীর বিরুদ্ধে আইনি নোটিশ পাঠিয়ে বনগাঁ থানায় অভিযোগ দায়ের করেছিলেন তনয় শাস্ত্রী। এবার তাঁর আইনজীবী তরুণজ্যোতি তেওয়ারির উপস্থিতিতে বনগাঁ আদালতে আনুষ্ঠানিকভাবে মামলা দায়ের করা হয়েছে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/Mimi-Chakraborty-2026-03-ff1036c5366ffb6d12b8dd2ff1128800-1200x800.jpeg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/mimi-chakraborty-defamation-case-20-lakh-compensation-2-65-lakh-refund-bongaon-court-tanmay-shastri-tarunjyoti-tewari-sal-2565267.html",
-    "time": "2026-03-02T09:36:12.000Z"
+    "time": "2026-03-02T11:21:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "রোজার উপবাসে থাকা খামেইনির শেষের ভয়ংকর মুহূর্ত, যে ভাবে একমাস নজরে রেখে গোটা পরিবার খতম করল CIA...",
+    "desc": "যে কম্পাউন্ডটি লক্ষ্য করে হামলা চালানো হয়েছিল, সেটি কোনও সাধারণ ভবন ছিল না। নিউ ইয়র্ক টাইমসের তথ্য মতে, এখানে ইরানের প্রেসিডেন্সি অফিস, সর্বোচ্চ নেতার কার্যালয় এবং জাতীয় নিরাপত্তা কাউন্সিলের সদর দফতর ছিল। এক কথায়, এটি ছিল ইরানের শাসনের প্রধান কেন্দ্র।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/cia-tracked-khamenei-for-months-killed-him-in-two-hours-and-five-minutes-the-inside-story_643369.html ",
+    "time": "2026-03-02T11:13:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মধ্যপ্রাচ্য়ের যুদ্ধের ভয়াবহ আগুনে কয়েক মুহূর্তেই জ্বলে খাক হয়ে গেল বাজারের ৬ লক্ষ কোটি টাকা, ভারতে হাহাকার...",
+    "desc": "যদিও ভারতের অভ্যন্তরীণ অর্থনৈতিক ভিত্তি (Fundamentals) বেশ মজবুত, তবুও এই ধরণের বৈশ্বিক ধাক্কা সামলানো কঠিন। ভারতের জিডিপি বৃদ্ধি এবং কর্পোরেট আয়ের হার ইতিবাচক থাকলেও, জ্বালানির দাম বৃদ্ধি উৎপাদন ও পরিষেবা খাতের খরচ বাড়িয়ে দেয়। বিশেষ করে অ্যাভিয়েশন (বিমান পরিষেবা), অটোমোবাইল এবং কনজিউমার গুডস সেক্টরে এই পতনের প্রভাব সবচেয়ে বেশি দেখা গেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/market-story-sensex-crashes-1500-points-amid-iran-us-conflict-should-investors-be-worried-sensex-crash_643356.html ",
+    "time": "2026-03-02T09:39:45.000Z"
   },
   {
     "cat": "Business",
@@ -295,15 +322,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/8th-pay-commission-big-update-minimum-pay-may-rise-by-66-percent-by-aykroyd-formula_643111.html ",
     "time": "2026-02-28T09:28:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "তেহরানে একের পর এক বিস্ফোরণ, ইজরায়েল–আমেরিকা যৌথ হামলায় কোথায় খামেইনি? বাড়ছে আতঙ্ক...",
-    "desc": "শনিবার ভোরে ইরান (Iran)-এ যৌথ হামলা চালায় ইজরায়েল (Israel) ও আমেরিকা (United States)। তেহরান (Tehran)-সহ একাধিক শহরে বিস্ফোরণ। ইজরায়েলের দাবি, এটি আগাম হামলা। খামেইনি (Ali Khamenei)-কে নিরাপদ স্থানে সরানো হয়েছে। ভেস্তে গেছে আলোচনা। এখন নজর ইরানের পালটা জবাবে, উদ্বেগে বিশ্ব।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/israel-us-joint-airstrike-iran-operation-lions-roar-tehran-blasts-ayatollah-khamenei_643103.html ",
-    "time": "2026-02-28T08:40:28.000Z"
   },
   {
     "cat": "Politics",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/narendra-modi-sends-condolence-messages-after-mukul-roy-death-dmg-2554343.html",
     "time": "2026-02-23T14:07:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "কবে আসবে পিএম কিষান যোজনার আগামী কিস্তির টাকা ? জেনে নিন এখানে",
-    "desc": "পিএম কিষান সম্মান নিধি প্রকল্পের পরবর্তী কিস্তির জন্য অপেক্ষায় রয়েছেন লক্ষ লক্ষ কৃষক। মার্চ ২০২৬-এ ২২তম কিস্তি প্রকাশিত হতে পারে বলে জল্পনা। তবে এখনও সরকারিভাবে তারিখ ঘোষণা হয়নি। কীভাবে স্ট্যাটাস চেক করবেন ও e-KYC সম্পূর্ণ করবেন, জেনে নিন এখানে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/pm-kisan-90-2026-02-f3120eb1899c66c1534f808915b77edc-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/pm-kisan-22nd-installment-date-2026-when-will-the-next-payment-be-released-dc-2554321.html",
-    "time": "2026-02-23T13:48:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "এক ঝাঁক তারকার উপস্থিতিতে কলকাতায় অনুষ্ঠিত হল মিস গ্র্যান্ড ওয়েস্ট বেঙ্গল ২০২৬, জয়ী কোডিলা বাগচী",
-    "desc": "সম্মানিত বিচারক প্যানেলে মিস গ্র্যান্ড ইন্ডিয়া ২০২৫ বিজয়ী বিশাখা কানওয়ার, শুভ্রাজিৎ মিত্র, জয়া মিশ্র, রুসা বন্দ্যোপাধ্যায়, কৌস্তভ সাইকিয়া, ডঃ রূপালী বসু, সত্রাজিৎ সেন এবং শুভঙ্কর মিত্র উপস্থিত ছিলেন। তাঁদের অভিজ্ঞতা, ন্যায্যতা এবং উৎকর্ষতার প্রতি তীক্ষ্ণ দৃষ্টি প্রতিযোগিতায় অপরিসীম বিশ্বাসযোগ্যতা এবং মর্যাদা যোগ করেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Beauty-Show-2026-02-0c4c350ce81b4ae8d116e2a53e34be7f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/beauty-pageant-miss-grand-west-bengal-2026-organised-in-kolkata-pbd-2554272.html",
-    "time": "2026-02-23T13:41:26.000Z"
   }
 ];
