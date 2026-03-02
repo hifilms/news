@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Race heats up for Bihar’s five Rajya Sabha seats with RJD entry",
+    "desc": "Though the Opposition party is likely to secure the support of Mahagathbandhan allies like the Congress and the Left parties, their combined tally still falls short of the minimum number required for winning a Rajya Sabha seat",
+    "img": "https://th-i.thgim.com/public/news/cities/Delhi/vtxxdk/article70696985.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/race-heats-up-for-bihars-five-rs-seats-with-rjd-entry/article70695528.ece",
+    "time": "2026-03-02T20:28:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Is that really Jim Carrey? Actor breaks silence after hyper-realistic makeup artist mask post goes viral",
+    "desc": "After Jim Carrey accepted an honorary award at the César Awards in Paris, online speculation over his altered appearance spiralled into clone theories, body-double claims and AI misinformation. Drag artist Alexis Stone further fuelled debate with a hyper-realistic mask post, while a fabricated AI video falsely attributed to Carrey’s daughter deepened the viral storm.",
+    "img": "https://static.toiimg.com/photo/msid-128954798,imgsize-802924.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/is-that-really-jim-carrey-actor-breaks-silence-after-hyper-realistic-makeup-artist-mask-post-goes-viral/articleshow/128954460.cms",
+    "time": "2026-03-02T20:25:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Allu Sirish–Nayanika Reddy pre-wedding bash lights up Allu Studios",
+    "desc": "Telugu actor Allu Sirish is all set to begin a new chapter in his life with longtime girlfriend, Hyderabad-based entrepreneur Nayanika Reddy. Ahead of their intimate wedding ceremony scheduled for March 6, the couple hosted a grand pre-wedding celebration at their family-owned Allu Studios in Kokapet, Hyderabad — and it quickly turned into a Tollywood who’s who evening. Among those spotted were Sandeep Reddy Vanga, Ram Charan, Rana Daggubati, Nagarjuna, Nani, Atlee, Basil Joseph, Ravi Teja, Nandamuri Balakrishna, Mohan Babu, Sukumar, Jagapathi Babu and Rajendra Prasad.",
+    "img": "https://static.toiimg.com/photo/msid-128954775,imgsize-163526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-sirishnayanika-reddy-pre-wedding-bash-ram-charan-nagarjuna-sandeep-reddy-vanga-and-others-light-up-allu-studios/articleshow/128954775.cms",
+    "time": "2026-03-02T20:23:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yash’s Toxic has made almost Rs 600 crore from pre-business",
+    "desc": "A Fairy Tale for Grown-Ups hasn’t hit theatres yet, but if veteran producer G Dhananjayan is to be believed, the film has already clocked staggering numbers. Toxic is set to release on March 19 alongside Dhurandhar 2, a sequel to an established franchise. But Dhananjayan doesn’t see that as a risky move.",
+    "img": "https://static.toiimg.com/photo/msid-128953999,imgsize-115536.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/amid-dhurandhar-2-clash-yashs-toxic-has-made-almost-rs-600-crore-from-pre-business-alone-says-producer-g-dhananjayan/articleshow/128953999.cms",
+    "time": "2026-03-02T18:53:13.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Samson — from an enigma to a superking",
     "desc": "His precociousness earned him an India cap in the T20 format as far back as July 2015, but in the decade and a bit since, he has made only 59 more appearances; on Sunday at the Eden Gardens, he was the player the cricket world has been waiting for a long time to see",
@@ -351,24 +387,6 @@ const newsData_en = [
     "time": "2026-03-02T12:05:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anil recalls his first salary of Rs 250 from debut in 1976",
-    "desc": "Anil Kapoor recalls first paycheck of ₹250 from 1976 Doordarshan gig in Worli, kickstarting his career. On Wheel of Fortune with Akshay Kumar, he shared theatre motivation from Anil Kapoor's Best Actor award by Shashi Kapoor at St. Xavier’s. Nostalgic tales included Dhak Dhak Karne Laga's grueling night shoot after double shifts.",
-    "img": "https://static.toiimg.com/photo/msid-128946378,imgsize-35670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/my-parents-and-friends-saw-me-on-small-screen-anil-kapoor-gets-emotional-recalling-his-first-salary-of-rs-250-from-debut-in-1976/articleshow/128946378.cms",
-    "time": "2026-03-02T12:00:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nicholas Galitzine and Taylor Zakhar Perez kiss on 'Red, White' set in London",
-    "desc": "From the streets of London, behind-the-scenes cameras roll for Red, White & Royal Wedding, capturing Nicholas Galitzine and Taylor Zakhar Perez in a tender moment. The film's sequel will debut on Amazon Prime Video in India. While Bea’s wedding dominates the plot, Alex and Henry’s weddings are still a ways off. Fans should brace for more romance and royal drama.",
-    "img": "https://static.toiimg.com/photo/msid-128946069,imgsize-112642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/nicholas-galitzine-and-taylor-zakhar-perez-spotted-kissing-on-red-white-royal-wedding-set-in-london-reports/articleshow/128946069.cms",
-    "time": "2026-03-02T11:54:18.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "US-Israel strikes in Iran: Indian national killed in attack on oil tanker off Oman coast",
     "desc": "An Indian national has died after an oil tanker, the MKD VYOM, was attacked by an unmanned boat off the coast of Oman. The strike caused a fire and explosion in the vessel's engine room. This incident occurs amid heightened tensions and ongoing retaliation campaigns in the Gulf region.",
@@ -412,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/shivam-dubes-two-boundaries-as-important-as-sanju-samsons-97-says-gautam-gambhir/articleshow/128945105.cms",
     "time": "2026-03-02T11:38:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Baahubali' cast pay revealed",
-    "desc": "The Beginning' achieved massive success, with its star cast earning substantial remuneration reflecting the film's grandeur. Prabhas reportedly received Rs 25 crore for both parts, while Rana Daggubati earned Rs 15 crore. Anushka Shetty and Tamannaah Bhatia each took home Rs 5 crore, with Ramya Krishnan and Nassar also securing significant paychecks for their impactful performances.",
-    "img": "https://static.toiimg.com/photo/msid-128945726,imgsize-247932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prabhas-to-ramya-krishnan-heres-how-much-ss-rajamoulis-baahubali-the-beginning-star-cast-was-paid/articleshow/128945726.cms",
-    "time": "2026-03-02T11:37:37.000Z"
   },
   {
     "cat": "World",
@@ -738,15 +747,6 @@ const newsData_en = [
     "time": "2026-03-02T02:38:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Counting pills, fearing blasts: Indians stranded in West Asia",
-    "desc": "Thousands of Indians are stranded across West Asia as US-Israel strikes on Iran triggered retaliatory actions, leading to widespread airspace closures. Dubai, a major transit hub, is severely affected, with numerous flights cancelled. Tourists, expatriates, and families are facing financial hardship and uncertainty, with some seeking shelter with locals.",
-    "img": "https://static.toiimg.com/photo/msid-128930799,imgsize-1506870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/counting-pills-fearing-blasts-indians-stranded-in-west-asia/articleshow/128930763.cms",
-    "time": "2026-03-01T23:02:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "From the valley to the pinnacle of domestic cricket — the J & K story",
     "desc": "Jammu & Kashmir’s stellar run is a tale of grit, determination and meticulous preparation; it had all bases covered and every member of the squad put his hand up when it mattered most; the next challenge for Dogra’s men will be to sustain the momentum and stay at the summit",
@@ -808,15 +808,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/defeat-in-last-seasons-quarterfinal-spurred-the-team-j-amp-k-coach-ajay-sharma/article70688605.ece",
     "time": "2026-02-28T18:01:19.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "West Asia Tensions: Flights cancelled across India, Kerala on high alert",
-    "desc": "As airspaces shut across West Asia, multiple international flights from cities across India have been cancelled or rerouted. Kerala, home to over 30 lakh Malayalis in the Gulf, has activated help desks and stepped up monitoring.",
-    "img": "https://th-i.thgim.com/public/news/national/cpwh6s/article70689244.ece/alternates/LANDSCAPE_1200/News%20Videos%20Thumbnail.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/west-asia-tensions-flights-cancelled-across-india-kerala-on-high-alert/article70689245.ece",
-    "time": "2026-02-28T17:40:13.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/new-zealand-vs-england-t20-world-cup-super-eight-match-updates-february-27/article70684417.ece",
     "time": "2026-02-27T18:23:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur",
+    "desc": "India posted 251/9 batting first, riding on fifties from Harmanpreet (54) and Pratika Rawal (52), but the visitors paid a heavy price for dropping multiple catches as Australia won by five wickets and 13.5 overs to spare in second ODI.",
+    "img": "https://th-i.thgim.com/public/incoming/mimf76/article70685756.ece/alternates/LANDSCAPE_1200/GettyImages-2263240137.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/not-batting-well-in-last-two-games-cost-india-harmanpreet-kaur/article70685753.ece",
+    "time": "2026-02-27T17:59:37.000Z"
   }
 ];
