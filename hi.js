@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "West Indies, Zimbabwe stranded in India despite T20 World Cup exit, know reason",
+    "desc": "West Indies finds itself stuck in Kolkata after their heavy-wight Super Eights clash against India on Sunday, March 1. Geopolitical tensions in the Middle East ripple across global aviation and that forced the Shai Hope-led...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-zimbabwe-stranded-in-india-despite-t20-world-cup-exit-know-reason-2026-03-02-1032357",
+    "time": "2026-03-02T17:59:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What will happen if Iran boycotts FIFA World Cup 2026 in USA? Which team will replace them?",
+    "desc": "Tensions in the Middle East have cast a shadow over Iran’s participation in the 2026 FIFA World Cup, raising questions about whether the Asian side will be able to compete in matches hosted across the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/what-will-happen-if-iran-boycotts-fifa-world-cup-2026-in-usa-which-team-will-replace-them-2026-03-02-1032354",
+    "time": "2026-03-02T17:12:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "14 Pakistan cricketers shortlisted for Men's Hundred after reports of shadow ban, Sahibzada Farhan axed",
+    "desc": "14 Pakistan cricketers have been shortlisted for the upcoming The Hundred auction. The announcement follows scrutiny over reports suggesting that four teams connected to IPL franchises could enforce a “shadow ban” on Pakistani players, a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/14-pakistan-cricketers-shortlisted-for-men-s-hundred-after-reports-of-shadow-ban-sahibzada-farhan-axed-2026-03-02-1032348",
+    "time": "2026-03-02T16:19:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Irfan Pathan analyses India's biggest concern ahead of T20 World Cup semi-final against England",
+    "desc": "Abhishek Sharma’s recent struggles with the bat have caught the attention of former Indian all-rounder Irfan Pathan. He urged the southpaw to work on his technique ahead of India’s semi-final clash against England. After a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-analyses-india-s-biggest-concern-ahead-of-t20-world-cup-semi-final-against-england-2026-03-02-1032345",
+    "time": "2026-03-02T15:53:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PV Sindhu still stranded in Dubai, likely to miss All England Championship",
     "desc": "PV Sindhu’s hopes of competing at this year’s All England Championships have been dashed after she found herself stranded in Dubai amid escalating missile strikes involving the United States, Israel, and Iran. The disruption has...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/bruno-fernandes-joins-wayne-rooney-and-ryan-giggs-in-legendary-list-after-win-against-crystal-palace-2026-03-02-1032295",
     "time": "2026-03-02T09:48:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Head is a bit muddled': Anil Kumble weighs in on Abhishek Sharma's struggles in the T20 World Cup 2026",
-    "desc": "The Indian team has made its way into the knockout stages of the ongoing T20 World Cup 2026. The side took on the West Indies in game 52 of the ongoing tournament, getting a target...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/head-is-a-bit-muddled-anil-kumble-weighs-in-on-abhishek-sharma-s-struggles-in-the-t20-world-cup-2026-2026-03-02-1032292",
-    "time": "2026-03-02T09:07:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Faf du Plessis reflects on how the IPL season transformed Aiden Markram ahead of T20 World Cup knockouts",
-    "desc": "The stage is set for the knockout stages of the ongoing T20 World Cup 2026. The 1st semi-final of the tournament will see New Zealand taking on South Africa. The two sides will lock horns...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/faf-du-plessis-reflects-on-how-the-ipl-season-transformed-aiden-markram-ahead-of-t20-world-cup-knockouts-2026-03-02-1032284",
-    "time": "2026-03-02T08:14:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia women add two uncapped stars ahead of India Test as injury problems pile on",
-    "desc": "The stage is set for the only Test of the ongoing multi-format series between Australia women and India women. While the Women in Blue won the three-game T20I series, Australia managed to pull it back...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-women-add-two-uncapped-stars-ahead-of-india-test-as-injury-problems-pile-on-2026-03-02-1032277",
-    "time": "2026-03-02T07:18:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI announces schedule for upcoming Afghanistan tour of India, set to be played in June 2026",
-    "desc": "The BCCI (Board of Control for Cricket in India) came forward and announced the schedule for the upcoming Afghanistan tour of India. It is worth noting that Afghanistan will be taking on the Indian team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-schedule-for-upcoming-afghanistan-tour-of-india-set-to-be-played-in-june-2026-2026-03-02-1032269",
-    "time": "2026-03-02T06:18:00.000Z"
   }
 ];

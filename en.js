@@ -1,12 +1,183 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Samson — from an enigma to a superking",
+    "desc": "His precociousness earned him an India cap in the T20 format as far back as July 2015, but in the decade and a bit since, he has made only 59 more appearances; on Sunday at the Eden Gardens, he was the player the cricket world has been waiting for a long time to see",
+    "img": "https://th-i.thgim.com/public/sport/d0t96/article70696896.ece/alternates/LANDSCAPE_1200/T20%20World%20Cup%20Samsonn.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/samson-from-an-enigma-to-asuperking/article70696889.ece",
+    "time": "2026-03-02T18:16:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anubhav Sinha reacts to Deepika Padukone's 8-hour shift row",
+    "desc": "Amid the ongoing debate around actors demanding fixed 8–9 hour shifts, filmmaker Anubhav Sinha weighed in during a recent chat, offering a measured and practical take on the controversy. When asked whether he would be okay signing an actor who insists on working only 8 or 9 hours a day, Sinha said the answer is simple.",
+    "img": "https://static.toiimg.com/photo/msid-128952630,imgsize-54988.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anubhav-sinha-reacts-to-deepika-padukones-8-hour-shift-row-if-you-dont-like-an-actors-conditions-dont-work-with-them/articleshow/128952630.cms",
+    "time": "2026-03-02T17:44:16.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "Festive mood grips the city ahead of Attukal Pongala on Tuesday",
-    "desc": "The festivities had their flipside. Religious processions bound for Attukal Temple from different parts of the district snarled traffic and made it difficult for the travelling public to reach bus stands, railway stations and airports. Unchecked sound pollution was a bane for students preparing for examinations and for senior citizens.",
+    "title": "Doping crisis grows, doctors told to be careful while prescribing",
+    "desc": "Amidst rising doping cases, the National Medical Commission has urged doctors nationwide to exercise caution when prescribing to athletes. This directive aims to prevent banned substances from entering sports through routine prescriptions, contaminated supplements, or deliberate cheating. Doctors are advised to familiarize themselves with WADA's prohibited list and ensure proper documentation for any necessary banned medications.",
+    "img": "https://static.toiimg.com/photo/msid-128952700,imgsize-21690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/doping-crisis-grows-doctors-told-to-be-careful-while-prescribing/articleshow/128952689.cms",
+    "time": "2026-03-02T17:43:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Heath Ledger",
+    "desc": "His Joker in The Dark Knight remains iconic, a haunting performance that earned him a posthumous Oscar. At first, the role terrified him, driving him into isolation as he studied the character until fear became fuel for transformation. Ledger's career traced a bold arc from teen heartthrob to Oscar-nominated artist, cementing his legacy as one of cinema's most versatile talents.",
+    "img": "https://static.toiimg.com/photo/msid-128942362,imgsize-140722.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-heath-ledger-anything-that-makes-me-afraid-i-guess-excites-me-at-the-same-time/articleshow/128942362.cms",
+    "time": "2026-03-02T17:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil got wide global recognition under Modi government, says C.P. Radhakrishnan",
+    "desc": "In a veiled attack on Dravidian politics, Vice President C. P. Radhakrishnan says certain people who argue that India was never under one administrative regime “forget that even Tamil Nadu was not a united society”",
+    "img": "https://th-i.thgim.com/public/incoming/2z48s4/article70696902.ece/alternates/LANDSCAPE_1200/20260302422L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-got-wide-global-recognition-under-modi-government-says-cp-radhakrishnan/article70696568.ece",
+    "time": "2026-03-02T17:23:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Rupture across the Durand Line",
+    "desc": "Pakistan and Afghanistan engage in intense military clashes, signalling a break in political, military, and societal ties across the Durand Line; driven by differences over Tehrik-e-Taliban Pakistan and collapsing strategic trust, the once carefully cultivated Paki.-Taliban relationship now lies in tatters on an unequal battlefield",
+    "img": "https://th-i.thgim.com/public/incoming/es6tbk/article70696746.ece/alternates/LANDSCAPE_1200/AFP_99B86T9.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/rupture-across-the-durand-line/article70695392.ece",
+    "time": "2026-03-02T17:00:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.N. nuclear watchdog holds emergency meeting in Vienna",
+    "desc": "IAEA says it currently has ‘no indication’ that any of Iran’s nuclear installations were damaged or hit by the U.S.-Israeli military strikes. Contradicting this, Iran’s ambassador to the IAEA says the strikes did target and hit the country’s Natanz uranium enrichment facility",
+    "img": "https://th-i.thgim.com/public/incoming/qwuer6/article70695050.ece/alternates/LANDSCAPE_1200/2026-02-02T143952Z_1938667201_RC2PDJAPWW51_RTRMADP_3_IRAN-CRISIS-DIPLOMACY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/no-sign-irans-nuclear-sites-were-hit-iaea-says-but-iran-alleges-one-was/article70695020.ece",
+    "time": "2026-03-02T17:00:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM directs officials to increase administrative efficiency using AI",
+    "desc": "Naidu calls for integration of drone, CCTV and satellite data to improve public services, orders safety review after blast in Kakinada district and stresses seamless pension delivery and focus on Swarna Gramams and Swarna Wards",
+    "img": "https://th-i.thgim.com/public/incoming/dc21s5/article70696356.ece/alternates/LANDSCAPE_1200/A.P.-Cabinet-clG81FKPACS.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/cm-directs-officials-to-increase-administrative-efficiency-using-ai/article70695526.ece",
+    "time": "2026-03-02T16:42:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Peace is not only a moral imperative, it is an economic necessity’",
+    "desc": "The assassination of Ayatollah Ali Khamenei, Supreme Leader of the Islamic Republic of Iran, marked a dangerous and destabilising moment for the region and the global economy, says Syed Hakim Raza, president of Indo-Iran Chamber of Commerce and Industries",
+    "img": "https://th-i.thgim.com/public/incoming/fc7hom/article70696785.ece/alternates/LANDSCAPE_1200/Indo%20Iran%202.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/peace-is-not-only-a-moral-imperative-it-is-an-economic-necessity/article70696608.ece",
+    "time": "2026-03-02T16:41:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Force is with the Men in Blue despite chinks in their armour",
+    "desc": "Samson’s brilliance helps the defending champion edge West Indies in a virtual knockout game; the team, however, needs to be more disciplined with the ball and improve its catching to get past England in the semifinal at Wankhede",
+    "img": "https://th-i.thgim.com/public/incoming/ht58sl/article70695745.ece/alternates/LANDSCAPE_1200/047.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-force-is-with-men-in-blue-despite-chinks-in-their-armour/article70695763.ece",
+    "time": "2026-03-02T16:31:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 Harrison Ford films to watch on OTT",
+    "desc": "Veteran actor Harrison Ford has been part of the film industry since 1964, and to this date, continues to stun audiences with his acting skills. From his work in the ‘Indiana Jones’ franchise to playing Han Solo in ‘Star Wars’, he has worked across a wide array of genres. Looking back on his career, here are 5 Harrison Ford films that you can watch online on any OTT platform.",
+    "img": "https://static.toiimg.com/photo/msid-128944710,imgsize-27314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/top-5-harrison-ford-films-to-watch-on-ott-what-lies-beneath-the-age-of-adaline-and-air-force-one/photostory/128944710.cms",
+    "time": "2026-03-02T16:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir, Hrithik discuss Ranveer–Farhan's Don 3 fallout: Report",
+    "desc": "The ongoing Don 3 fallout between Ranveer Singh and filmmaker-producer Farhan Akhtar has now reached a crucial juncture, with the issue reportedly discussed at a closed-door industry meeting attended by some of Bollywood’s most influential names.",
+    "img": "https://static.toiimg.com/photo/msid-128951068,imgsize-70388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-hrithik-roshan-discuss-ranveer-singhfarhan-akhtars-don-3-fallout-in-closed-door-meeting-report/articleshow/128951068.cms",
+    "time": "2026-03-02T16:25:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress seeks power only with public consent, not by spreading hate: Rahul Gandhi",
+    "desc": "Leader of Opposition in Lok Sabha addresses valedictory session of District Congress Committee presidents’ training camp in Vikarabad; says Congress was founded on the ideals of truth and harmony, and leaders must constantly strive to practice these values in public life",
+    "img": "https://th-i.thgim.com/public/incoming/g229gb/article70696710.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-02%20at%207.12.05%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/congress-will-seek-power-with-public-consent-and-not-by-spreading-hate-rahul-gandhi/article70696683.ece",
+    "time": "2026-03-02T16:23:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court to look into feasibility of NAT for blood transfusion",
+    "desc": "Petitioner-NGO says right to safe blood transfusion is a fundamental part of the right to life under Article 21 of the Constitution; it says NAT is a safer testing mechanism to ensure the supply of safe and infection-free blood to recipients",
+    "img": "https://th-i.thgim.com/public/incoming/weka6s/article70696721.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UJ27JGE8M_R1594915776_4_f1db00fa-e92c-4efe-afeb-e8bf5bab5412.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/supreme-court-to-look-into-feasibility-of-nat-for-blood-transfusion/article70696607.ece",
+    "time": "2026-03-02T16:22:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Air India Express to resume Muscat flights from March 3; Gulf routes remain suspended amid Middle East tensions",
+    "desc": "Air India Express will resume flights to and from Muscat on Tuesday, March 3, after a temporary halt due to the Middle East conflict. Services to Bahrain, Kuwait, Qatar, Saudi Arabia, and the UAE will continue to be suspended until March 3. The airline cited airspace closures in the region impacting operations.",
+    "img": "https://static.toiimg.com/photo/msid-128950916,imgsize-987549.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/air-india-express-to-resume-muscat-flights-from-march-3-gulf-routes-remain-suspended-amid-middle-east-tensions/articleshow/128950876.cms",
+    "time": "2026-03-02T16:14:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PV Sindhu pulls out of All England amid rising tensions in Middle East",
+    "desc": "PV Sindhu has withdrawn from the All England Championships due to travel disruptions in Dubai, but will compete in the Swiss Open next week. The rest of the Indian contingent is in Birmingham, aiming to break a 25-year jinx at the prestigious event. Several Indian players face tough opening rounds against top international opponents.",
+    "img": "https://static.toiimg.com/photo/msid-128950822,imgsize-31344.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/stuck-in-dubai-pv-sindhu-pulls-out-of-all-england-amid-rising-tensions-in-middle-east/articleshow/128950798.cms",
+    "time": "2026-03-02T16:09:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court warns AI-generated judgments will amount to misconduct",
+    "desc": "The Supreme Court has issued a stern warning, declaring that judicial orders based on AI-generated, non-existent judgments will be treated as misconduct, not mere errors. The apex court is examining the implications of artificial intelligence in court proceedings and has sought responses from top legal officials. This move follows a case where a trial court relied on fabricated judgments.",
+    "img": "https://static.toiimg.com/photo/msid-128950216,imgsize-530906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/supreme-court-warns-ai-generated-judgments-will-amount-to-misconduct/articleshow/128950242.cms",
+    "time": "2026-03-02T15:46:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Festive mood grips the city ahead of Attukal Pongala March 3",
+    "desc": "The festivities had their flipside. Religious processions bound for Attukal Temple from different parts of the district snarled traffic and made it difficult for the travelling public to reach bus stands, railway stations and airports",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/festive-mood-grips-the-city-ahead-of-attukal-pongala-on-tuesday/article70696351.ece",
-    "time": "2026-03-02T15:30:23.000Z"
+    "time": "2026-03-02T15:42:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vivek pens note for his extended family in the UAE amidst middle-east tensions",
+    "desc": "Actor Vivek Oberoi, who resides in Dubai, urged people in India not to spread panic amidst Middle East tensions. He expressed solidarity with the UAE community, commending its leadership and security forces for ensuring safety. Oberoi advised relying on verified media and choosing empathy, sending peace to the Emirates.",
+    "img": "https://static.toiimg.com/photo/msid-128950351,imgsize-24830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vivek-oberoi-pens-note-for-his-extended-family-in-the-uae-amidst-middle-east-tensions-dont-be-a-bridge-for-panic/articleshow/128950332.cms",
+    "time": "2026-03-02T15:40:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Trying to keep my family safe': Bairstow's desperate plea from war-hit Dubai",
+    "desc": "Wicket-keeper Jonny Bairstow is stranded in Dubai with his family due to halted commercial flights amid rising Middle East tensions. He expressed distress over ensuring their safety and seeking a route home, while cricket schedules have also been disrupted. The UK government advises British nationals in the UAE to shelter in place.",
+    "img": "https://static.toiimg.com/photo/msid-128950290,imgsize-60220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/trying-to-keep-my-family-safe-jonny-bairstows-desperate-plea-from-war-hit-dubai/articleshow/128950142.cms",
+    "time": "2026-03-02T15:36:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -43,24 +214,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/putin-urges-ceasefire-in-west-asia-in-calls-with-uae-qatar-leaders/article70696173.ece",
     "time": "2026-03-02T15:05:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM directs officials to increase administration efficiency using AI",
-    "desc": "Naidu calls for integration of drone, CCTV and satellite data to improve public services, orders safety review after blast in Kakinada district and stresses seamless pension delivery and focus on Swarna Gramams and Swarna Wards",
-    "img": "https://th-i.thgim.com/public/incoming/dc21s5/article70696356.ece/alternates/LANDSCAPE_1200/A.P.-Cabinet-clG81FKPACS.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/cm-directs-officials-to-increase-administration-efficiency-using-ai/article70695526.ece",
-    "time": "2026-03-02T15:05:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.N. nuclear watchdog holds emergency meeting in Vienna",
-    "desc": "IAEA says it currently has ‘no indication’ that any of Iran’s nuclear installations were damaged or hit by the U.S.-Israeli military strikes. Contradicting this, Iran’s ambassador to the IAEA says the strikes did target and hit the country’s Natanz uranium enrichment facility",
-    "img": "https://th-i.thgim.com/public/incoming/qwuer6/article70695050.ece/alternates/LANDSCAPE_1200/2026-02-02T143952Z_1938667201_RC2PDJAPWW51_RTRMADP_3_IRAN-CRISIS-DIPLOMACY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/no-sign-irans-nuclear-sites-were-hit-iaea-says-but-iran-alleges-one-was/article70695020.ece",
-    "time": "2026-03-02T14:35:13.000Z"
   },
   {
     "cat": "Politics",
@@ -135,33 +288,6 @@ const newsData_en = [
     "time": "2026-03-02T13:53:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "HDK seeks higher procurement prices; Yaduveer pitches for foreign buyers",
-    "desc": "A meeting of the Tobacco Board held in Mysuru on March 2 saw elected representatives put pressure on traders, represented by ITC Limited, Godfrey Phillips India Limited, and others to increase prices and protect farmers’ interests.",
-    "img": "https://th-i.thgim.com/public/incoming/edjifx/article70695564.ece/alternates/LANDSCAPE_1200/5964_2_3_2026_17_9_5_1_TOBACCOMEETING2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/tobacco-price-crash-hdk-seeks-higher-procurement-prices-yaduveer-pitches-for-foreign-buyers/article70695257.ece",
-    "time": "2026-03-02T13:40:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Hyderabad bears brunt of West Asia conflict as key transit routes shut",
-    "desc": "Flight cancellations due to Iran-Israel escalation continue at Rajiv Gandhi International Airport, hitting passengers bound for the US and Europe; with carriers like Emirates, Qatar Airways and Etihad Airways dominating routes, travel agents warn the crisis could stall a recovering market",
-    "img": "https://th-i.thgim.com/public/incoming/4z9mpm/article70695778.ece/alternates/LANDSCAPE_1200/_DSC0016.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-bears-brunt-of-west-asia-conflict-as-key-transit-routes-shut/article70695423.ece",
-    "time": "2026-03-02T13:33:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Force is with Men in Blue despite chinks in their armour",
-    "desc": "Samson’s brilliance helps the defending champion edge West Indies in a virtual knockout game; however, the team needs to be more disciplined with the ball and improve its catching to get past England in the semifinal",
-    "img": "https://th-i.thgim.com/public/incoming/ht58sl/article70695745.ece/alternates/LANDSCAPE_1200/047.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-force-is-with-men-in-blue-despite-chinks-in-their-armour/article70695763.ece",
-    "time": "2026-03-02T13:21:42.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sooraj equates Kabir Singh, Animal to the quintessential Prem",
     "desc": "Indrajit Lankesh returns to Hindi cinema with 'Jai Hind Jai Sindh', a Partition-era romance on Sindhi struggles. Stars Jaya Prada, Mahesh Manjrekar; supports include Zarina Wahab. Produced by Samy’s Entertainment, debuting four newbies. Motion poster out; mid-2026 release.",
@@ -187,24 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/captaincy-storm-in-pakistan-shahid-afridi-demands-aggressive-leader-backs-fakhar-zaman-for-top-job/articleshow/128947803.cms",
     "time": "2026-03-02T13:13:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Will replicate Assam’s ‘detect, delete and deport’ model for infiltrators in Bengal: Nabin",
-    "desc": "Addressing a rally in Islampur while flagging off the party's 'Parivartan Yatra' ahead of the Assembly polls, Nitin Nabin announced that the BJP would rename the town \"Ishwarpur\" if it forms the government in West Bengal",
-    "img": "https://th-i.thgim.com/public/incoming/7lbtqw/article70695577.ece/alternates/LANDSCAPE_1200/PTI03_01_2026_000699A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/will-replicate-assams-detect-delete-and-deport-model-for-infiltrators-in-bengal-nabin/article70695561.ece",
-    "time": "2026-03-02T13:12:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Eight Indians, including three Keralites, stranded in Pakistan to be back home on March 3",
-    "desc": "They were on the way from Azerbaijan to Kuwait when their flight was diverted to Karachi due to the conflict in West Asia. They have been brought to Colombo and they will leave for Delhi on Tuesday. NoRKA-Roots to constitute help groups in conflict zones to assist Keralites",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/eight-indians-including-three-keralites-stranded-in-pakistan-to-be-back-home-on-march-3/article70695465.ece",
-    "time": "2026-03-02T13:11:26.000Z"
   },
   {
     "cat": "Business",
@@ -297,6 +405,15 @@ const newsData_en = [
     "time": "2026-03-02T11:44:00.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "'Shivam Dube's two boundaries as important as Sanju's 97,' says Gambhir",
+    "desc": "India coach Gautam Gambhir highlights the importance of every team member's contribution. He believes small efforts are as vital as big scores for team success. Gambhir also stated his coaching philosophy will prioritize instinct over data analysis. He is preparing the team for a challenging semifinal against England at Wankhede Stadium.",
+    "img": "https://static.toiimg.com/photo/msid-128945546,imgsize-20072.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/shivam-dubes-two-boundaries-as-important-as-sanju-samsons-97-says-gautam-gambhir/articleshow/128945105.cms",
+    "time": "2026-03-02T11:38:24.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Baahubali' cast pay revealed",
     "desc": "The Beginning' achieved massive success, with its star cast earning substantial remuneration reflecting the film's grandeur. Prabhas reportedly received Rs 25 crore for both parts, while Rana Daggubati earned Rs 15 crore. Anushka Shetty and Tamannaah Bhatia each took home Rs 5 crore, with Ramya Krishnan and Nassar also securing significant paychecks for their impactful performances.",
@@ -331,42 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/captains-tribute-suryakumar-yadav-takes-off-cap-bows-to-sanju-samson-watch/articleshow/128945441.cms",
     "time": "2026-03-02T11:22:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunny reveals how daughter patented the Boo Box invention",
-    "desc": "Sunny Leone hosted Farah Khan at her Mumbai home, praising 10-year-old adopted daughter Nisha's patented 'Boo Box' invention—solving allergies with a taped cup prototype, now earning Rs 999 sales. Farah joked her kids need to step up; brothers jealous. Home tour revealed family artwork.",
-    "img": "https://static.toiimg.com/photo/msid-128945392,imgsize-49642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-leone-reveals-how-daughter-nisha-patented-the-boo-box-invention-and-sells-it-for-rs-999-leaving-farah-khan-stunned/articleshow/128945392.cms",
-    "time": "2026-03-02T11:20:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chiranjeevi’s daughter Sreeja reassures her security from Dubai",
-    "desc": "Chiranjeevi's daughter Sreeja Konidela reassured fans from Dubai that she and her children are safe and well-protected amidst reports of unrest. She expressed gratitude for the concern and shared a picture of the Dubai skyline, affirming her choice to live there. Her message brought relief to those worried about her well-being.",
-    "img": "https://static.toiimg.com/photo/msid-128945093,imgsize-168002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/were-safe-and-well-protected-chiranjeevis-daughter-sreeja-konidela-reassures-her-security-from-dubai/articleshow/128945093.cms",
-    "time": "2026-03-02T11:10:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yash's Toxic runtime revealed ahead of its clash with Dhurandhar 2",
-    "desc": "A Fairy Tale for Grown-Ups’ gears up for a box office clash with ‘Dhurandhar: The Revenge’ on March 19, both boasting 3+ hour runtimes (~3h20m for Toxic). Trailer drops March 8 in Bengaluru. Directed by Geetu Mohandas, Yash leads with Kiara Advani, Nayanthara; following hits like ‘Animal’.",
-    "img": "https://static.toiimg.com/photo/msid-128945162,imgsize-31670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yash-starrer-toxics-runtime-revealed-ahead-of-its-clash-with-ranveer-singh-aditya-dhars-dhurandhar-2-reports/articleshow/128945162.cms",
-    "time": "2026-03-02T11:10:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Bridgerton' star Yerin Ha suffers skin infection after 7-hour bathtub scene",
-    "desc": "As 'Bridgerton' Season 4 dominates global charts in early 2026, star Yerin Ha essaying the role of Sophie Baek has revealed a gruelling behind-the-scenes medical emergency. During a recent interview for the promotions of the latest season, Ha shared that filming the critically acclaimed \"bathtub scene\" with Luke Thompson who essayed the role of Benedict Bridgerton led to a severe case of folliculitis. After seven hours in the water, a DIY hack involving baby powder caused a painful reaction requiring steroid cream.",
-    "img": "https://static.toiimg.com/photo/msid-128944260,imgsize-208718.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bridgerton-season-4-star-yerin-ha-reveals-suffering-from-severe-skin-infection-after-7-hour-bathtub-scene-hives-all-over-my-body/articleshow/128944260.cms",
-    "time": "2026-03-02T11:06:55.000Z"
   },
   {
     "cat": "Politics",
@@ -513,15 +594,6 @@ const newsData_en = [
     "time": "2026-03-02T07:57:33.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iranians react with defiance after U.S.-Israel strikes",
-    "desc": "Iranians react with a mix of defiance, fear, and uncertainty following the latest strikes. While some vow that Iran will never bow down, others express concern about escalation, civilian safety, and what comes next for the region.",
-    "img": "https://th-i.thgim.com/public/news/national/30dvfu/article70688973.ece/alternates/LANDSCAPE_1200/News%20Video%20Thumbs%202026%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-iranians-react-with-defiance-after-us-israel-strikes/article70688982.ece",
-    "time": "2026-03-02T07:50:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Iran conflict disrupts air travel; Emirates, Etihad, Air India, IndiGo issue advisories",
     "desc": "Escalating Middle East tensions following US-Israel strikes on Iran and Tehran's retaliation have led to widespread flight cancellations and airspace closures across several Gulf nations. Major hubs like Dubai and Doha are affected, with thousands of passengers stranded as airlines divert or suspend services, impacting travel between continents",
@@ -630,15 +702,6 @@ const newsData_en = [
     "time": "2026-03-02T04:42:38.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "BCCI ropes in Zaheer Khan to groom pacers",
-    "desc": "The BCCI has enlisted former India fast bowler Zaheer Khan to mentor the country's emerging fast bowlers. Khan will lead specialized training camps at the Centre of Excellence in Bengaluru starting early March. This initiative aims to address the recent scarcity of fast-bowling talent in Indian cricket.",
-    "img": "https://static.toiimg.com/photo/msid-128936699,imgsize-16104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-ropes-in-zaheer-khan-to-groom-pacers/articleshow/128936705.cms",
-    "time": "2026-03-02T04:38:21.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Flu shot to change this year as new H3N2 strain spreads fast",
     "desc": "India is updating its seasonal flu vaccine for the 2026-27 season to combat a rapidly spreading new A(H3N2) variant. The World Health Organization's recommendations highlight the need for this change due to the strain's increased transmissibility. Experts urge early vaccination, especially for vulnerable groups, to prevent severe illness and hospitalizations.",
@@ -657,15 +720,6 @@ const newsData_en = [
     "time": "2026-03-02T04:10:59.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Nikkei crashes 900 points, HSI down over 2%; markets trade in red amid Iran-Israel tensions",
-    "desc": "Asian markets opened lower, impacted by Middle East tensions and stronger-than-expected U.S. inflation data. Gold and oil prices surged as investors reacted to potential supply disruptions. U.S. futures also declined, reflecting broader market concerns about inflation and geopolitical instability.",
-    "img": "https://static.toiimg.com/photo/msid-128935337,imgsize-68403.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-nikkei-crashes-900-points-hsi-down-over-2-markets-trade-in-red-amid-iran-israel-tensions/articleshow/128935224.cms",
-    "time": "2026-03-02T04:03:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘He showed his true potential’: Gambhir lauds Samson after Eden masterclass",
     "desc": "Gautam Gambhir lauded Sanju Samson's unbeaten 97 against the West Indies, calling it a glimpse of his true potential. Samson's composed innings guided India to the T20 World Cup semifinals, showcasing his world-class talent and silencing past criticisms. Gambhir expressed confidence in Samson's ability to build on this match-winning performance.",
@@ -673,42 +727,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/he-showed-his-true-potential-gautam-gambhir-lauds-sanju-samson-after-eden-masterclass/articleshow/128935574.cms",
     "time": "2026-03-02T03:54:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "First-person account from Dubai",
-    "desc": "Dubai, once a vibrant hub for top-tier tennis, now resembles a ghost town following escalating West Asian tensions. Coordinated strikes triggered widespread retaliation, leading to major airspace closures and thousands of stranded travelers. Even renowned athletes are caught in the disruption, with flights cancelled and routes blocked, creating an anxious atmosphere.",
-    "img": "https://static.toiimg.com/photo/msid-128935238,imgsize-58962.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/middle-east-conflict-stars-stranded-in-dubai-as-west-asia-erupts/articleshow/128935237.cms",
-    "time": "2026-03-02T03:31:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold prices jump 2% on Iran conflict; India braces for diamond supply crunch",
-    "desc": "Gold prices surged as major strikes on Iran, reportedly killing Supreme Leader Ayatollah Ali Khamenei, intensified geopolitical tensions and fears of economic instability. The attacks triggered further retaliatory actions, creating a volatile environment that benefits gold as a safe-haven asset. Analysts predict continued price increases, with major banks forecasting gold to reach $6,000-$6,300 per ounce.",
-    "img": "https://static.toiimg.com/photo/msid-128934989,imgsize-290614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-tensions-gold-prices-jump-2-on-iran-conflict-india-braces-for-diamond-supply-crunch/articleshow/128934115.cms",
-    "time": "2026-03-02T03:21:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How much will it cost to watch the FIFA World Cup?",
-    "desc": "World Cup tickets in North America are proving costly, with opening match prices near $900 and the final exceeding $8,000. Despite millions of tickets made available, record demand and dynamic pricing have driven up costs, with resale prices reaching astronomical figures. Fans also face significant expenses for parking.",
-    "img": "https://static.toiimg.com/photo/msid-128934956,imgsize-162312.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/explained-how-much-will-it-cost-to-watch-the-fifa-world-cup/articleshow/128934876.cms",
-    "time": "2026-03-02T03:18:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Good things happen to good people who wait’: Surya’s emotional tribute to Samson",
-    "desc": "Sanju Samson's spectacular unbeaten 97 guided India to a thrilling five-wicket victory over the West Indies at Eden Gardens, securing a T20 World Cup semifinal spot. Skipper Suryakumar Yadav lauded Samson's patience and hard work, highlighting the team's character under pressure. This crucial win sets up a semi-final clash against England.",
-    "img": "https://static.toiimg.com/photo/msid-128934308,imgsize-2270446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/good-things-happen-to-good-people-who-wait-suryakumar-yadavs-emotional-tribute-to-sanju-samson/articleshow/128934291.cms",
-    "time": "2026-03-02T02:49:54.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/new-zealand-vs-england-t20-world-cup-super-eight-match-updates-february-27/article70684417.ece",
     "time": "2026-02-27T18:23:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur",
-    "desc": "India posted 251/9 batting first, riding on fifties from Harmanpreet (54) and Pratika Rawal (52), but the visitors paid a heavy price for dropping multiple catches as Australia won by five wickets and 13.5 overs to spare in second ODI.",
-    "img": "https://th-i.thgim.com/public/incoming/mimf76/article70685756.ece/alternates/LANDSCAPE_1200/GettyImages-2263240137.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/not-batting-well-in-last-two-games-cost-india-harmanpreet-kaur/article70685753.ece",
-    "time": "2026-02-27T17:59:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Five-star Nabi, dashing Qamran flatten Karnataka",
-    "desc": "The pacer’s two blows hasten the end of Karnataka’s innings despite Mayank’s defiant century; opener comes to the visitors’ rescue after early setbacks to extend the advantage and puts it on the brink of a historic triumph",
-    "img": "https://th-i.thgim.com/public/incoming/htbm06/article70685522.ece/alternates/LANDSCAPE_1200/_DSC4473.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/five-star-nabi-helps-j-amp-k-secure-a-massive-lead/article70684955.ece",
-    "time": "2026-02-27T17:13:43.000Z"
   }
 ];
