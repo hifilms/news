@@ -1,5 +1,68 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "যুদ্ধের আবহে ফিরে দেখা মহান সৃষ্টি! ইরানের এই ১০টি কালজয়ী সিনেমা আপনি দেখেছেন কি?",
+    "desc": "যুদ্ধের আবহে মানুষ মহান সৃষ্টি ভুলতে বসে। রক্ত আর গোলাবারুদের স্তুপে চাপা পড়ে যায় সৃজনশীল সময়। বর্তমান আন্তর্জাতিক অস্থিরতা এবং ইরান-ইজরায়েল যুদ্ধের বাতাবরণে ফিরে দেখা যাক মধ্য প্রাচ্যের ১০টি অসাধারণ সিনেমা, যা চলচ্চিত্র শিল্পের ইতিহাসে অমর হয়ে থাকবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/A-Separation-2026-03-67f08bf30153ec28c01f3867992e54a0-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/top-ten-iran-movies-all-time-best-cinema-revisiting-great-art-in-times-of-unrest-have-you-watched-these-10-timeless-iranian-films-tib-ws-el-2565992.html",
+    "time": "2026-03-02T14:47:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel War: বন্ধ বিমান চলাচল, আটকে হাজার হাজার যাত্রী! হোটেল ও খাবারের খরচ বহন করবে সংযুক্ত আরব আমিরশাহি",
+    "desc": "পশ্চিম এশিয়ার অস্থির পরিস্থিতি ও আকাশপথ বন্ধ থাকার কারণে দেশে আটকে পড়া ২০ হাজারের বেশি যাত্রীর জন্য বড় উদ্যোগ নিয়েছে সংযুক্ত আরব আমিরশাহি সরকার। আটকে পড়া যাত্রীদের থাকার ব্যবস্থা ও খাবারের সমস্ত খরচ বহনের সিদ্ধান্ত নেওয়া হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Dubai-Airport-2026-03-316ac945fcd73624b20d93b3cfcf3bc6-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/uae-free-hotel-meals-20000-stranded-passengers-west-asia-crisis-flight-cancellation-dubai-abu-dhabi-sal-2566006.html",
+    "time": "2026-03-02T14:46:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "আগামী তিনদিন...! ভারী বৃষ্টির হুঁশিয়ারি ৮ রাজ্যে, মার্চেই 'মে' মাসের 'লু' অনুভূতি কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
+    "desc": "২, ৩, ৪, ৫ মার্চ! ভারী বৃষ্টির হুঁশিয়ারি ৮ রাজ্যে, মার্চেই 'মে' মাসের 'লু' অনুভূতি হবে একাধিক রাজ্যে। ৪ থেকে ৭ মার্চ আবহাওয়ার বিরাট পরিবর্তন রাজ্যে রাজ্যে। ঘূর্ণাবর্তের জেরে ব্যাপক বদল। আইএমডি দিল বড় আপডেট।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj-__Thunder-2026-02-69c3fe6ac5aad482391940478345533b-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rain-warning-in-8-states-for-next-three-days-in-which-states-will-the-loo-feeling-of-the-month-of-may-be-felt-amid-march-know-latest-west-bengal-weather-sanj-2566002.html",
+    "time": "2026-03-02T14:40:55.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "বাংলাদেশের যমুনা-য় এখন থাকবেন কে? ইউনূসের পর প্রধানমন্ত্রী তারেক রহমান আসবেন এই বাসভবনে?",
+    "desc": "যমুনায় এখন সদ্য বিলুপ্ত অন্তর্বর্তী সরকারের প্রধান উপদেষ্টা অধ্যাপক মুহাম্মদ ইউনূস থাকতেন। ২৭ ফেব্রুয়ারি তিনি যমুনা ছেড়ে যান৷ এবার সেখানেই থাকবেন বাংলাদেশের প্রধানমন্ত্রী তারেক রহমান৷ আপাতত তিনি থাকছেন গুলশনে তাঁর নিজের বাসভবনে৷ বাংলাদেশের রাষ্ট্রীয় অতিথি ভবন যমুনাতে থাকবেন প্রধানমন্ত্রী তারেক রহমান। সরকারপ্রধানের নিরাপত্তা ও সচিবালয়ে যাতায়াতের সুবিধার্থে রাজধানীর হেয়ার রোডে অবস্থিত যমুনাকে তাঁর সরকারি বাসভবন হিসেবে বেছে নেওয়া হয়েছে। এদিকে সরকারি আবাসন পরিদপ্তর গতকাল বুধবার নতুন মন্ত্রী–প্রতিমন্ত্রীকে বাসা বরাদ্দ দেওয়ার কাজ শেষ করেছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1772460911_Lnocl09rLc-thumbnail-169png-GUsubpqAz7-1200x720.png",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/international/who-will-now-live-in-jamuna-bangladesh-after-yunus-will-prime-minister-tarique-rahman-come-to-this-r-2566012.html",
+    "time": "2026-03-02T14:14:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ঐতিহ্যের ব্যাটন এবার গৌতম ঘোষের হাতে, কলকাতার নতুন শেরিফ বর্ষীয়ান পরিচালক...",
+    "desc": "কলকাতার নতুন শেরিফ হিসেবে মনোনীত হলেন আন্তর্জাতিক খ্যাতিসম্পন্ন চিত্রপরিচালক গৌতম ঘোষ। বর্তমানে ভারতের মাত্র দুটি শহরে—কলকাতা ও মুম্বইয়ে এই 'শেরিফ' পদটি সক্রিয় রয়েছে। মূলত একজন অরাজনৈতিক ব্যক্তিত্বকে এই সম্মানে ভূষিত করা হয়, যিনি সমাজ বা সংস্কৃতিতে বিশেষ অবদান রেখেছেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/goutam-ghose-appointed-as-new-sheriff-kolkata-tradition_643391.html ",
+    "time": "2026-03-02T14:08:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ইরান-ইসরায়েল সংঘাতের জেরে বন্ধ বিমানপথ, প্যারিসে আটকে সন্দীপ্তা...",
+    "desc": "যুদ্ধের কবলে পশ্চিম এশিয়া! দুবাইয়ে আটকে শুভশ্রী, প্যারিসে বন্দি সন্দীপ্তা সেন। স্বামী সৌম্যোপাধ্যায়ের সঙ্গে নরওয়ে ও ফিনল্যান্ড ভ্রমণে গিয়েছিলেন অভিনেত্রী সন্দীপ্তা সেন। ফেরার পথে প্যারিস থেকে আবুধাবি হয়ে কলকাতায় আসার কথা ছিল তাঁদের। কিন্তু বাতিল একের পর এক ফ্লাইট।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-actress-sandipta-sen-stuck-in-paris-as-flights-are-cancelled-due-to-the-iran-israel-usa-war_643385.html ",
+    "time": "2026-03-02T13:14:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "\"খাটের তলায় লুকিয়ে থাকব, চিন্তা করো না\", দুবাইয়ে আটকে ৬ বছরের মেয়ে, চিন্তায় চোখে জল বাবা অ্যামির",
+    "desc": "আভি ভার্ক জানিয়েছেন যে তাঁর স্ত্রী এবং ৬ বছরের মেয়ে সংযুক্ত আরব আমিরশাহীতে আটকা পড়েছে। সেখান থেকে তাঁর মেয়ের একটি কথা নায়ককে কাঁদিয়ে দিয়েছে। তিনি শান্তির জন্য আবেদন করেছেন এবং ক্ষতিগ্রস্ত সকল পরিবারের জন্য প্রার্থনা করেছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/ammy-virk-2026-03-a5c66b9866e19342c575969eeaa3d359-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/amid-iran-conflict-tension-at-dubai-singer-actor-ammy-virk-wife-and-6-year-old-daughter-stranded-shares-emotional-post-pbd-2565098.html",
+    "time": "2026-03-02T13:10:00.000Z"
+  },
+  {
     "cat": "Business",
     "title": "'ইরানে' ১০০ ভারতীয় টাকার 'মূল্য' কত হবে জানেন...? 'উত্তর' আপনাকে চমকাবেই, শিওর!",
     "desc": "ইরান জ্বলছে! মুহুর্মুহু গোলাবর্ষণ, বিস্ফোরণের আওয়াজে বিপর্যস্ত মধ্যপ্রাচ্যের এই দেশটি। আর এই পরিস্থিতিতে ফের একবার আলোচনার শীর্ষে ইরান। আচ্ছা বলুন তো, আমাদের ভারতীয় রুপির দাম ইরানে ঠিক কেমন? ইরানের সরকারী মুদ্রা হল 'ইরানিয়ান রিয়াল', এবং এর আন্তর্জাতিক মূল্য অত্যন্ত কম। বর্তমানে, ১ ভারতীয় টাকার মূল্য সেখানে কত বলুন তো? কত হয়ে যাবে ১০০ ভারতীয় টাকা?",
@@ -7,6 +70,15 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-iranian-rial-do-you-know-how-much-100-indian-rupees-are-worth-in-iran-the-answer-will-shoch-you-for-sure-know-this-interesting-fact-amid-iran-israel-tension-sanj-2565433.html",
     "time": "2026-03-02T11:56:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "আরিফিন শুভর ‘জ্যাজ সিটি’ যাত্রার নেপথ্যের গল্প চমকে দেবেই, অনেকেই হতবাক",
+    "desc": "এর আগে বলিউডের অভিনেতাকে বাংলাদেশের ছবিতে দেখা গিয়েছে, বিপরীত তাই নজর কেড়েছে। জ্যাজ সিটি-এর (Jazz City) জন্য প্রশংসিত বলিউড কাস্টিং ডিরেক্টর মুকেশ ছাবড়া প্রথমে আরিফিন শুভর সঙ্গে যোগাযোগ করেছিলেন। সেই মুহূর্ত থেকে প্রায় তিন বছরের যাত্রা শুরু হয়েছিল, যার সমাপ্তি ঘটে শুভর বলিউডে অভিষেক ৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Jazz-City-Cast-2026-03-fde125d9634e85950e3b6cbc9134447c-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/story-behind-arifin-shuvoos-jazz-city-journey-upcoming-series-jazz-city-in-kolkata-streaming-from-19th-march-ss-aa-2565577.html",
+    "time": "2026-03-02T11:48:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -223,24 +295,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/amid-middle-east-tensions-bollywood-actress-singer-sonal-chauhan-stranded-in-dubai-seeks-help-from-prime-minister-modi-pbd-2563422.html",
     "time": "2026-03-01T07:58:37.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ভয়ংকর মিসাইল-হানায় ধ্বংস ২৭১৭ ফুট বুর্জ খলিফা? মৃত্যুর আগে চরম আঘাত খামেইনির?",
-    "desc": "শনিবারই সোশ্যাল মিডিয়ায় প্রচারিত এক ভিডিয়োতে দাবি করা হয়েছিল, দুবাইয়ের বুর্জ খলিফার কাছে হামলা চালাচ্ছে ইরানি ড্রোন! ফুটেজে অভিযোগ করা হয়েছে, আরেকটি ইরানি ড্রোন সংযুক্ত আরব আমিরাতের বিশ্বের সবচেয়ে উঁচু ভবনের কাছে আঘাত করেছে! ছড়িয়ে পড়ে ঘোর আতঙ্ক!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/burj-khalifa-dubais-burj-khalifa-hit-by-iran-missile-video-shows-explosion-near-worlds-tallest-building-israel-us-attack-on-iran_643219.html ",
-    "time": "2026-03-01T07:16:38.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "আগুন পেট্রল-ডিজেল! হাহাকার বিশ্বের জ্বালানি তেলের বাজারে! একলাফে ৫৭% পর্যন্ত বেড়ে... অবিশ্বাস্য",
-    "desc": "ইরান হরমুজ প্রণালী বন্ধ করে দিয়েছে। সেজন্য এক ভয়ংকর পরিস্থিতি তৈরি হতে পারে বলে আশঙ্কা! এর জেরে বিশ্ববাজারে অপরিশোধিত তেলের দর এখনকার চেয়ে ৫৭% পর্যন্ত বেড়ে ব্যারেলপ্রতি ১১০ ডলারে চলে যেতে পারে! তাতে হাহাকার পড়ে যাবে বিশ্বে। সংকটে পড়বে এশিয়া!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/petrol-price-hike-diesel-price-hike-global-oil-price-iran-blocks-strait-of-hormuz-israel-us-attack-on-iran-oil-market-into-biggest-crisis-in-decades_643208.html ",
-    "time": "2026-03-01T06:12:21.000Z"
   },
   {
     "cat": "World",
@@ -844,59 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/alert-of-cyclonic-rapid-intensification-of-category-5-cyclone-world-first-furious-storm-forms-in-indian-ocean-what-it-means-is-india-at-risk-tib-ws-el-2555620.html",
     "time": "2026-02-24T11:10:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "শাশুড়িকে 'লিপ-কিস'! জন্মদিনের স্পেশ্যাল ছবি অপরাজিতা আঢ্যের, সোশ্যাল মিডিয়ায় ট্রোলারদের বুড়ে আঙুল দেখালেন অভিনেত্রী",
-    "desc": "সেই ছবি পোস্ট করতেই শুরু হল নানা কটূক্তি৷ কারণ? তাঁর শাশুড়ি মায়ের সঙ্গে একটি আদুরে ছবি পোস্ট ঘিরে নেটদুনিয়ায় নানা কথা শুরু হল৷ ছবিতে শাশুড়ির ঠোঁটে চুমু খেতে দেখা গিয়েছে অপরাজিতা আঢ্যকে৷ স্নেহের এই ভাবপ্রকাশে শুরু হয়েছে সোশ্যাল মিডিয়ায় মরাল পুলিশিং!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-24-at-2.28.16-PM-2026-02-138d13b56e8cc8d47782f7c648920caa-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/bengali-actress-aparajita-adhya-lip-kisses-her-mother-in-law-her-birthday-special-picture-pbd-2555207.html",
-    "time": "2026-02-24T10:56:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "একবার বিয়ে ভেঙেছে, বিজয়ের সঙ্গে সুখী হবেন তো রশ্মিকা? দু’জনের বয়সের ফারক যা বলছে, তা হল...",
-    "desc": "একবার বাগদান ভেঙে যাওয়ার যন্ত্রণা কাটিয়ে আবার বিয়ে করছেন রশ্মিকা৷ বিজয়ের সঙ্গে ঘর বাঁধতে চলেছেন সুন্দরী৷ তাঁদের সম্পর্ক ভেঙে যাওয়ার আসল কারণ প্রকাশ করেননি তাঁরা। তবে কানাঘুঁষো শোনা গিয়েছে, মতের অমিলের কারণে দু'জনে আলাদা হয়ে যান। রক্ষিত তাঁর থেকে ছিলেন ১৩ বছরের বড়, বিজয় কতটা বড় রশ্মিকার থেকে? বয়সের ফারাক কোনও সমস্যা তৈরি করবে না তো?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-24-at-3.05.12-PM-2026-02-aed798ce793f985af1e30ab931d9accc-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/vijay-deverakonda-rashmika-mandanna-wedding-of-virosh-what-is-the-age-difference-between-them-ideal-age-difference-between-husband-wife-pbd-2555438.html",
-    "time": "2026-02-24T09:46:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "নোটিস পাঠানোর ক্ষেত্রে তাড়াহুড়ো নয়, পাঁচ রাজ‍্যের বিধানসভা নিয়ে সতর্ক ইডি",
-    "desc": "পাঁচ রাজ‍্যের বিধানসভা ভোটের আগে সতর্ক এনফোর্সমেন্ট ডিরেক্টরেট। নোটিস পাঠানোর ক্ষেত্রে তড়িঘড়ি নয়। ভেবেচিন্তে, সবদিক খতিয়ে দেখে পাঠাতে হবে জিজ্ঞাসাবাদের নোটিস৷ গুয়াহাটিতে ইডির ত্রৈমাসিক সম্মেলনে সংস্থার আধকারিকদের এই নির্দেশ দিলেন ইডি অধিকর্তা রাহুল নবীনে।একইসঙ্গে দীর্ঘদিন ধরে চলা তদন্তও দ্রুত শেষ করার নির্দেশ দিয়েছেন ইডি ডিরেক্টর। নির্দেশেবলা হয়েছে, ২০২৫-২৬ অর্থবর্ষের মোট পাঁচশোটি তদন্তাধীন কেস নির্দিষ্ট সময়ের মধ্যে শেষ করতে হবে। নতুন কেস এক থেকে দুই বছরের সময়সীমার টার্গেট নিয়ে শেষ করতে হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ED-2026-02-bf93f1ccce0812874f647ceb35a29d12-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/ahead-of-assembly-polls-ed-warns-against-rushing-to-send-notices-ank-2554521.html",
-    "time": "2026-02-23T15:44:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "দীর্ঘ অপেক্ষার অবসান! ডুয়ার্সে শ্যুটিং শুরু ‘অ্যাম্বুলেন্স দাদা’র স্বপ্নের ছবি",
-    "desc": "পদ্মশ্রীপ্রাপ্ত মানবসেবী করিমুল হক-এর জীবন অবলম্বনে তৈরি হচ্ছে বাংলা সিনেমা। মুখ্য ভূমিকায় থাকছেন অভিনেতা দেব। শুটিং চলছে চলসা-সহ ডুয়ার্সে। বাইক অ্যাম্বুলেন্সে অসুস্থদের হাসপাতালে পৌঁছে দেওয়ার তাঁর মানবিক সংগ্রাম এবার বড় পর্দায় উঠে আসবে, যা দর্শকদের অনুপ্রাণিত করবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/HYP_5780874_cropped_23022026_144000_img_20260223_143931_waterm_2-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/west-bengal/jalpaiguri-dev-ambulance-dada-film-shooting-dooars-bengali-movie-update-sal-l18-local18-2553795.html",
-    "time": "2026-02-23T14:38:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মুকুল রায়ের মৃত্যুতে কী বললেন দিলীপ ঘোষ? দেখুন ভিডিও",
-    "desc": "তৃণমূলকে শক্তিশালী করতে এবং পশ্চিমবঙ্গের রাজনীতিতেও বড় অবদান ছিল মুকুল রায়ের৷ প্রবীণ রাজনীতিবিদের মৃত্যুর পর এমনই প্রতিক্রিয়া দিলেন বিজেপি নেতা দিলীপ ঘোষ৷ তিনি বলেন, 'তৃণমূলকে দাঁড় করাতে তাঁর বড় অবদান রয়েছে৷ বিজেপি-কেও উনি সার্ভিস দিয়েছেন৷ অনেক দিন ধরেই তিনি কষ্ট পাচ্ছিলেন৷ তাঁর আত্মার সদগতি হোক৷ পরিবারের মানুষ এই শোক কাটিয়ে ওঠার শক্তি পান৷' রবিবার গভীর রাতে ই এম বাইপাস সংলগ্ন বেসরকারি হাসপাতাসে মৃত্যু হয় মুকুল রায়ের৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Mukul-Roy-29-2026-02-be4280399b6d1bec51ea89e61d54d526-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/dilip-ghosh-remembers-mukul-roy-claims-he-had-big-contribution-in-west-bengal-politics-dmg-2554354.html",
-    "time": "2026-02-23T14:22:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মুকুলের প্রয়াণে মোদির শোকবার্তা! দেখুন ভিডিও",
-    "desc": "প্রবীণ রাজনীতিবিদ মুকুল রায়ের প্রয়াণে শোকপ্রকাশ করলেন প্রধানমন্ত্রী নরেন্দ্র মোদি৷ এক্স হ্যান্ডেলে পোস্ট করা শোকবার্তায় তিনি লেখেন, “প্রাক্তন কেন্দ্রীয় মন্ত্রী শ্রী মুকুল রায় জি’র প্রয়াণে আমি শোকাহত। তাঁর রাজনৈতিক অভিজ্ঞতা ও সমাজসেবামূলক প্রচেষ্টা স্মরণীয় হয়ে থাকবে। তাঁর পরিবার ও সমর্থকদের প্রতি সমবেদনা জানাই। ওঁ শান্তি।” রবিবার গভীর রাতে ই এম বাইপাস সংলগ্ন একটি হাসাপাতালে তাঁর মৃত্যু হয়৷ এ দিন বিধানসভায় মুকুল রায়কে শেষশ্রদ্ধা জানান বিভিন্ন রাজনৈতিক দলের প্রতিনিধিরা৷ হালিশহরে মুকুল রায়ের শেষকৃত্য সম্পন্ন হয়৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Mukul-Roy-Obit-2026-02-de33f1ae87a6b1073ef35cc1aa474738-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/narendra-modi-sends-condolence-messages-after-mukul-roy-death-dmg-2554343.html",
-    "time": "2026-02-23T14:07:32.000Z"
   }
 ];

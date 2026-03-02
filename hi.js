@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "PV Sindhu still stranded in Dubai, likely to miss All England Championship",
+    "desc": "PV Sindhu’s hopes of competing at this year’s All England Championships have been dashed after she found herself stranded in Dubai amid escalating missile strikes involving the United States, Israel, and Iran. The disruption has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-still-stranded-in-dubai-likely-to-miss-all-england-championship-2026-03-02-1032339",
+    "time": "2026-03-02T14:55:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Iran considering pulling out, scheduled to play three group games in USA",
+    "desc": "Fresh uncertainty has emerged over Iran’s involvement in the 2026 World Cup after comments from the head of the country’s football federation cast doubt on whether the national team can compete in matches staged in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-iran-considering-pulling-out-scheduled-to-play-three-group-games-in-usa-2026-03-02-1032333",
+    "time": "2026-03-02T13:51:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Finalissima between Argentina vs Spain in Qatar faces uncertainty following tension in Middle East",
+    "desc": "The upcoming Finalissima in Doha, between Spain and Argentina, faces a postponement or a possible change in venue after authorities in Qatar suspended sporting activity nationwide amid escalating regional tensions. The match, scheduled for March...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/finalissima-between-argentina-vs-spain-in-qatar-faces-uncertainty-following-tension-in-middle-east-2026-03-02-1032326",
+    "time": "2026-03-02T13:04:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Irfan Pathan opens up on Varun Chakaravarthy's recent form after India's win over West Indies",
+    "desc": "The Indian team registered a brilliant victory against the West Indies in game 52 of the ongoing T20 World Cup 2026. The two sides locked horns in a bid to make it to the knockout...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-opens-up-on-varun-chakaravarthy-s-recent-form-after-india-s-win-over-west-indies-2026-03-02-1032325",
+    "time": "2026-03-02T12:51:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Babar Azam, Shaheen Afridi, and Salman Ali Agha among Pakistan players to be fined after World Cup exit: Repor",
     "desc": "The ongoing T20 World Cup 2026 has been a major disappointment for the Pakistan cricket team. Led by Salman Ali Agha, Pakistan were eliminated from the Super 8 stage of the tournament after they finished...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-schedule-for-upcoming-afghanistan-tour-of-india-set-to-be-played-in-june-2026-2026-03-02-1032269",
     "time": "2026-03-02T06:18:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson surpasses Virat Kohli, Rohit Sharma to enter elite list after marvellous knock against West Indie",
-    "desc": "The Indian team booked its ticket to the knockout stages of the ongoing T20 World Cup. The side took on the West Indies in game 52 of the tournament at the Eden Gardens in Kolkata,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-surpasses-virat-kohli-rohit-sharma-to-enter-elite-list-after-marvellous-knock-against-west-indies-2026-03-02-1032259",
-    "time": "2026-03-02T05:12:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav bows down to Sanju Samson, reacts to his match-winning knock vs West Indies",
-    "desc": "Sanju Samson stole the show on Sunday night with a match-winning knock of unbeaten 97 runs against West Indies in India’s final Super Eights clash at the Eden Gardens in Kolkata. Chasing 196 runs to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-bows-down-to-sanju-samson-reacts-to-his-match-winning-knock-vs-west-indies-watch-2026-03-02-1032228",
-    "time": "2026-03-02T04:00:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson overcomes mental demons to script history, help India beat West Indies",
-    "desc": "A year ago, Sanju Samson was widely regarded as a crucial piece of India’s T20 setup. For years, fans and former players urged the team management to give him a consistent run, but with stalwarts...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-overcomes-mental-demons-to-script-history-help-india-beat-west-indies-2026-03-02-1032227",
-    "time": "2026-03-02T02:00:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India head coach highlights 'team sport' philosophy after historic win over West Indies",
-    "desc": "Sanju Samson played some phenomenal cricket to help India beat West Indies by five wickets. With that, India qualified for the semi-finals of the T20 World Cup. The Kerala batter arguably played one of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-head-coach-highlights-team-sport-philosophy-after-historic-win-over-west-indies-2026-03-02-1032222",
-    "time": "2026-03-01T18:46:40.000Z"
   }
 ];
