@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ક્રૂડ ઓઈલની સપ્લાઈ પર બ્રેક! સ્ટ્રટ ઓફ હોર્મુઝ બંધ થયો તો ભારત-ચીન સહિત દુનિયાને કેટલું થશે નુકસાન?",
+    "desc": "ઈરાન અને ઈઝરાયલના યુદ્ધ વચ્ચે જે દેરિયાઈ માર્ગની સૌથી વધુ ચર્ચા થઈ રહી છે, તે Strait of Hormuz છે. જો સ્ટ્રેટ ઓફ હોર્મુઝ લાંબા સમય સુધી બ્લોક રહેશે, તો ભારત અને ચીનમાં મોંઘવારી વધી શકે છે. બન્ને દેશોના વેપારમાં વિક્ષેપો, ધીમા ગ્રોથનો સામનો, ગ્લોબલ ઓઈલ અને LNG માર્કેટ પર ખૂબ જ મોટું દબાણનો સામનો કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/crude-oil-supply-disruption-strait-of-hormuz-impact-india-china-global-economy-466837 ",
+    "time": "2026-03-02T08:36:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અમેરિકા-ઈરાન યુદ્ધ વચ્ચે ભારતમાં હિંસાની આશંકાથી હાઈ એલર્ટ, રાજ્યોને સાવચેતી રાખવા કેન્દ્રનો આદેશ",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચે ચાલી રહેલા યુદ્ધની આગા હવે મિડલ ઈસ્ટમાં ફેલાઈ છે. આ વચ્ચે ભારત સરકાર પણ એલર્ટ મોડમાં આવી ગઈ છે. મળતી માહિતી અનુસાર, અધિકારીઓ તે વાતથી ચિંતત છે કે, આંતરરાષ્ટ્રીય ઘટાનાઓનો ફાયદો ઉઠાવીને ચરપંથી તત્વો સ્થાનિક સ્તરે તણાવ વધારી શકે છે. જેને લઈ કેન્દ્ર સરકાર દ્વારા એડવાઈઝરી જાહેર કરીને રાજ્ય સરકારોને સાવચેતી રાખવા જણાવવામાં આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/india-high-alert-amid-iran-usa-war-tension-home-ministry-advisory-communal-harmony-466827 ",
+    "time": "2026-03-02T07:36:26.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "કંગાળ પાકિસ્તાન હવે ખેલાડીઓને લૂંટશે! ખરાબ પ્રદર્શન માટે ફટકાર્યો દંડ, T20 વર્લ્ડ કપમાંથી બહાર થવા પર PCBની અજીબોગરીબ સજા",
     "desc": "પાકિસ્તાન ક્રિકેટ બોર્ડે T20 વર્લ્ડ કપમાંથી બહાર થવા પર દરેક ખેલાડીઓ પર 50 લાખ રૂપિયાનો દંડ ફટકાર્યો છે. અધિકારીઓએ સ્પષ્ટ કર્યું કે, જો ખેલાડીઓને સારા પરફોર્મન્સ માટે ઈનામ મળે છે, તો તેમના ખરાબ પરફોર્મન્સ માટે પેનલ્ટી પણ ચૂકવવી પડશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/pakistan-cricket-board-fines-players-50-lakh-rupees-each-after-t20-world-cup-2026-eliminated-466811 ",
-    "time": "2026-03-02T06:51:21.000Z"
+    "time": "2026-03-02T07:16:39.000Z"
   },
   {
     "cat": "World",
@@ -468,15 +486,6 @@ const newsData_gu = [
     "time": "2026-02-28T06:47:05.000Z"
   },
   {
-    "cat": "Business",
-    "title": "બેંક એકાઉન્ટથી લઈને LPG અને રેલ્વે એપ્સ સુધી, 1 માર્ચથી બદલાઈ રહ્યા છે 6 નિયમો, જાણો",
-    "desc": "દર મહિને, દર મહિનાની પહેલી તારીખે કેટલાક નાણાકીય ફેરફારો થાય છે, જેની સીધી અસર આપણા ખિસ્સા પર પડે છે. 1 માર્ચ, 2026 થી ઘણા નિયમો પણ બદલાવાની તૈયારીમાં છે. સિમ કાર્ડથી લઈને રેલ્વે સુધી, ઘણા નિયમો બદલાવાની તૈયારીમાં છે. ચાલો જાણીએ કે કયા ફેરફારો થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/from-bank-accounts-to-lpg-and-railway-apps-6-rules-are-changing-from-march-1-know-466515 ",
-    "time": "2026-02-28T06:03:42.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "ગુજરાતીઓના અતિ પ્રિય એવા માઉન્ટ આબુનું બદલાઈ ગયું નામ, હિલ સ્ટેશન હવે આ નામથી ઓળખાશે",
     "desc": "ગુજરાતની પાડોશમાં આવેલા રાજસ્થાનમાં આવેલું અતિ સુંદર અને રમણીય હિલ સ્ટેશન માઉન્ટ આબુ એ ગુજરાતીઓને ખુબ પ્રિય છે. મિની વેકેશન હોય કે ઉનાળા-દીવાળીની રજાઓ હોય, આ જગ્યાએ જવાનું તેઓ ભૂલતા નથી. હવે આ માઉન્ટ આબુ વિશે એક મહત્વના સમાચાર આવ્યા છે.",
@@ -502,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/traffic-rules-central-government-is-going-to-implement-a-grade-based-driving-license-system-soon-466427 ",
     "time": "2026-02-27T12:10:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "1 માર્ચની સવારે સિમ, બેંક, LPG અને ટ્રેન ટિકિટના નિયમો બદલાશે, તમારા ખિસ્સા પર પડશે અસર!",
-    "desc": "1 માર્ચ 2026થી સિમ બાઇન્ડિંગ, એલપીજી કિંમતોની સમીક્ષા, બેંક મિનિમમ બેલેન્સ નિયમ, રેલવે ટિકિટ એપ અને યુપીઆઈ સુરક્ષા જેવા મોટા ફેરફાર લાગૂ થઈ રહ્યાં છે. આવો જાણીએ આ નવા નિયમની અસર તમારા પર કઈ રીતે થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/new-rules-from-1-march-2026-train-ticket-to-lpg-cylinder-and-sim-card-466421 ",
-    "time": "2026-02-27T11:38:45.000Z"
   },
   {
     "cat": "Tech",

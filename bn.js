@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "Mimi Chakraborty-Tanay Shastri: মানহানি অভিযোগে আইনি চাপে মিমি চক্রবর্তী, বনগাঁ আদালতে তনয় শাস্ত্রীর হয়ে তরুণজ্যোতি তিওয়ারি মামলা",
+    "desc": "মানহানি-সহ ক্ষতিপূরণ দাবি ও অনুষ্ঠানের পারিশ্রমিক ফেরত চেয়ে আগেই অভিনেত্রী মিমি চক্রবর্তীর বিরুদ্ধে আইনি নোটিশ পাঠিয়ে বনগাঁ থানায় অভিযোগ দায়ের করেছিলেন তনয় শাস্ত্রী। এবার তাঁর আইনজীবী তরুণজ্যোতি তেওয়ারির উপস্থিতিতে বনগাঁ আদালতে আনুষ্ঠানিকভাবে মামলা দায়ের করা হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Mimi-Chakraborty-2026-03-ff1036c5366ffb6d12b8dd2ff1128800-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/mimi-chakraborty-defamation-case-20-lakh-compensation-2-65-lakh-refund-bongaon-court-tanmay-shastri-tarunjyoti-tewari-sal-2565267.html",
+    "time": "2026-03-02T09:36:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Iran-Israel Tention: যুদ্ধের আবহে ক্রমশ ঊর্ধ্বমুখী তেলের দাম",
+    "desc": "মধ্যপ্রাচ্যে মহারণ। ভয়ঙ্কর প্রত্যাঘাত ইরানের। আমেরিকার রণতরী আব্রাহাম লিঙ্কনে হামলা ইরানের ৪ ব্যালেস্টিক মিসাইলের। মধ্যপ্রাচ্যের মহাযুদ্ধে জ্বলছে হরমুজ প্রণালী। হরমুজ প্রণালী দিয়ে থমকে তেল সরবরাহ। তেল পরিবহণের গুরুত্বপূর্ণ রুট এই হরমুজ প্রণালী। এই জলপথ ধরে তেল পরিবহণ থমকে যাওয়ায় বাড়ছে জ্বালানির দাম। ইতিমধ্যেই অপরিশোধীত তেলের দাম ১০ শতাংশ বৃদ্ধি পেয়েছে। যুদ্ধের আঁচে জ্বালানির দাম বৃদ্ধির আশঙ্কায় বিশ্ব",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Iran-Israel-Conflict-2026-03-e284461d9e4456c8ac048192b4d37142-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/iran-israel-tention-oil-prices-up-as-concerns-over-closure-of-strait-of-hormuz-mount-rm-2564833.html",
+    "time": "2026-03-02T08:29:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "মধ্যপ্রাচ্যে মহারণ, জ্বলছে হরমুজ প্রণালী, ইরান-আমেরিকা সংঘাতে ক্রমশ ঊর্ধ্বমুখী তেলের দাম",
+    "desc": "মধ্যপ্রাচ্যে উত্তাল পরিস্থিতি। যুদ্ধের আবহে ক্রমেই বাড়ছে তেলের দাম। হরমুজ প্রণালী কার্যত বন্ধ করে দিয়েছে তেহরান। এই সরু প্রণালী দিয়ে পণ্যবাহী জাহাজ চলাচল বন্ধ হয়ে গিয়েছে। এই জলপথ ধরে তেল পরিবহণ থমকে যাওয়ায় বাড়ছে জ্বালানির দাম।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Middle-East-Conflict-Sparks-Surge-in-Oil-Prices-2026-03-042f0911180cedd953661d6e482f7809-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/surge-in-oil-prices-middle-east-conflict-sparks-surge-in-oil-prices-rm-2564872.html",
+    "time": "2026-03-02T08:23:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বন্ধুত্ব এবং সাংস্কৃতিক বিনিময়! মুম্বইয়ের বাসভবনে কানাডার প্রধানমন্ত্রী মার্ক কার্নিকে আপ্যায়ন করলেন আম্বানি পরিবার!",
+    "desc": "ভারত-কানাডা কূটনৈতিক সম্পর্কের প্রেক্ষাপটে তাৎপর্যপূর্ণ সফরে ভারতে এসেছেন কানাডার প্রধানমন্ত্রী Mark Carney। এই সফর ঘিরে কূটনৈতিক তৎপরতার পাশাপাশি সৌজন্য ও সাংস্কৃতিক বিনিময়ের ছবিও সামনে এল, যখন রিলায়েন্স ইন্ডাস্ট্রিজের চেয়ারম্যান Mukesh Ambani ও তাঁর স্ত্রী নীতা আম্বানি মুম্বইয়ের বাসভবনে কানাডার প্রধানমন্ত্রীর আতিথ্য গ্রহণ করেন। সরকারি বৈঠকের আগে এই আয়োজন দুই দেশের সম্পর্কের উষ্ণতা ও সাংস্কৃতিক সংযোগকে নতুন মাত্রা দিয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/canada-4-2026-03-8c261f1b58378a1c94be620def5f456f-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/karni-reliance-meeting-in-mumbai-boosts-india-canada-ties-ambani-family-hosts-canadian-pm-mark-carney-at-their-home-in-mumbai-tib-ws-l-2564890.html",
+    "time": "2026-03-02T07:16:12.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ইরান-ইজরায়েল যুদ্ধে দাম বেড়েছে, সোনা ১.৭৫ লাখ টাকা, রুপো ৩ লাখ টাকা ছাড়িয়ে যেতে পারে; সোমবার কী হবে জেনে নিন",
     "desc": "ইরান-ইজরায়েল সংঘাত ঘিরে বিশ্ববাজারে অস্থিরতা বেড়েছে। বিশেষজ্ঞদের মতে নিরাপদ বিনিয়োগ হিসেবে সোনার চাহিদা বাড়তে পারে, ফলে দাম পৌঁছতে পারে ১.৭৫ লাখ টাকায়। রুপোর দামও ৩ লাখ ছাড়িয়ে যেতে পারে। সোমবার বাজার কোন দিকে যাবে? জেনে নিন বিস্তারিত বিশ্লেষণ।",
@@ -862,41 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/beauty-pageant-miss-grand-west-bengal-2026-organised-in-kolkata-pbd-2554272.html",
     "time": "2026-02-23T13:41:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ভারত হারতেই বিশ্বকাপের পয়েন্ট টেবিলের অঙ্ক কঠিন! টিম ইন্ডিয়া খেলবে সেমিফাইনাল! কীভাবে? সবার আগে দেখে নিন",
-    "desc": "টিম ইন্ডিয়া গ্রুপ ১-এ পয়েন্ট তালিকায় দ্বিতীয় স্থানে রয়েছে। এই গ্রুপে ভারত এবং দক্ষিণ আফ্রিকা ছাড়াও রয়েছে জিম্বাবোয়ে এবং ওয়েস্ট ইন্ডিজ। ভারচতের নেট রান রেট -৩.৮০০ হয়ে গিয়েছে। পয়েন্ট টেবিলের শীর্ষে রয়েছে দক্ষিণ আফ্রিকা। তাদের ২ পয়েন্ট। তাদের নেট রান রেট +৩.৮০০।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Indian-cricket-team-3-2026-02-de9160f8d50aeb8263bc2b324b528145-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/here-is-the-point-table-how-team-india-can-qualify-t20-world-cup-semifinal-smj-2554016.html",
-    "time": "2026-02-23T11:43:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘গভীরভাবে শোকাহত’! মুকুল রায়ের প্রয়াণে শোকপ্রকাশ স্বরাষ্ট্রমন্ত্রী অমিত শাহের",
-    "desc": "প্রাক্তন কেন্দ্রীয় মন্ত্রী মুকুল রায়ের প্রয়াণে শোকপ্রকাশ করলেন স্বরাষ্ট্রমন্ত্রী অমিত শাহ৷ এক্স হ্যান্ডেলে অমিত শাহ লিখেছেন, ‘‘প্রাক্তন কেন্দ্রীয় মন্ত্রী মুকুল রায়ের প্রয়াণে আমি গভীরভাবে শোকাহত। জনসেবায় তাঁর দীর্ঘ কর্মজীবন সংগঠনের গতিবিধি ও জনসমস্যা সম্পর্কে তাঁর গভীর উপলব্ধির জন্য চিহ্নিত হয়ে থাকবে। ওম শান্তি৷’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Amit-Shah-Mukul-Roy-2026-02-411d82054aa8c1399fa09687eeb6e5d9-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/home-minister-amit-shah-has-expressed-condolence-on-mukul-roy-death-ank-2553965.html",
-    "time": "2026-02-23T11:27:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Devarakonda-Rashmika Mandanna: কী বিরাট খরচের বিয়ে! বিজয়-রশ্মিকা পৌঁছলেন উদয়পুর, এক রাতে 'উড়বে টাকা', থাকবেন শুধু হাতে গোনা কয়েকজন কাছের মানুষ",
-    "desc": "বিজয় এবং রশ্মিকা তাঁদের বিয়ের নাম রেখেছেন \"দ্য ওয়েডিং অফ বিরোশ\"। বিজয় ও রশ্মিকা, এই দুই নাম জুড়ে তৈরি হয়েছে বিরোশ৷ এই নামটি তাঁদের ভক্তরা বহু বছর আগে তাদের নাম, বিজয় + রশ্মিকা = বিরোশ একত্রিত করে তৈরি করেছিলেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Vijay-Rashmika-2026-02-7941420f00ff2f3578882998139971a9-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/vijay-deverakonda-and-rashmika-mandanna-wedding-at-udaipur-luxury-venue-only-to-attend-by-close-ones-pbd-2553918.html",
-    "time": "2026-02-23T11:10:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "রাত জেগে পড়াশোনা... MA পাশ করলেন অভিনেত্রী দিতিপ্রিয়া রায়! এর পর কী প্ল্যান?",
-    "desc": "অভিনয়ের ব্যস্ত কেরিয়ারের মাঝেও পড়াশোনাকে সমান গুরুত্ব দিয়ে সমাজবিজ্ঞানে স্নাতকোত্তর ডিগ্রি সম্পূর্ণ করলেন অভিনেত্রী দিতিপ্রিয়া রায়। সোশ্যাল মিডিয়ায় নিজেই জানালেন সুখবর। “অফিশিয়ালি কনফার্ড! মনে রাখার মতো একটা দিন, সযত্নে রাখার মতো একটা সাফল্য”—লিখে নিজের এই শিক্ষাগত অর্জনের কথা ভাগ করে নিয়েছেন অনুরাগীদের সঙ্গে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-23-at-2.44.21-PM-2026-02-40a3c4be025f6c6a5b5de882385b2953-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/tollywood-actress-ditipriya-roy-achievement-postgraduate-degree-in-sociology-ma-pass-success-shares-next-plan-tib-ws-l-2553719.html",
-    "time": "2026-02-23T11:10:04.000Z"
   }
 ];

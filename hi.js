@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Head is a bit muddled': Anil Kumble weighs in on Abhishek Sharma's struggles in the T20 World Cup 2026",
+    "desc": "The Indian team has made its way into the knockout stages of the ongoing T20 World Cup 2026. The side took on the West Indies in game 52 of the ongoing tournament, getting a target...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/head-is-a-bit-muddled-anil-kumble-weighs-in-on-abhishek-sharma-s-struggles-in-the-t20-world-cup-2026-2026-03-02-1032292",
+    "time": "2026-03-02T09:07:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Faf du Plessis reflects on how the IPL season transformed Aiden Markram ahead of T20 World Cup knockouts",
+    "desc": "The stage is set for the knockout stages of the ongoing T20 World Cup 2026. The 1st semi-final of the tournament will see New Zealand taking on South Africa. The two sides will lock horns...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/faf-du-plessis-reflects-on-how-the-ipl-season-transformed-aiden-markram-ahead-of-t20-world-cup-knockouts-2026-03-02-1032284",
+    "time": "2026-03-02T08:14:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia women add two uncapped stars ahead of India Test as injury problems pile on",
+    "desc": "The stage is set for the only Test of the ongoing multi-format series between Australia women and India women. While the Women in Blue won the three-game T20I series, Australia managed to pull it back...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-women-add-two-uncapped-stars-ahead-of-india-test-as-injury-problems-pile-on-2026-03-02-1032277",
+    "time": "2026-03-02T07:18:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI announces schedule for upcoming Afghanistan tour of India, set to be played in June 2026",
     "desc": "The BCCI (Board of Control for Cricket in India) came forward and announced the schedule for the upcoming Afghanistan tour of India. It is worth noting that Afghanistan will be taking on the Indian team...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-breaks-virat-kohli-s-all-time-record-in-t20-world-cup-his-reaction-goes-viral-after-winning-shot-2026-03-01-1032217",
     "time": "2026-03-01T17:32:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson architects India's historic win over West Indies, set semi-final date against England in T20 WC",
-    "desc": "India defeated West Indies by five wickets to qualify for the semi-finals of the T20 World Cup 2026. In the David vs Goliath clash, which West Indies coach Daren Sammy mentioned a day earlier, Sanju...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-architects-india-s-historic-win-over-west-indies-set-semi-final-date-against-england-in-t20-world-cup-2026-03-01-1032216",
-    "time": "2026-03-01T17:18:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zimbabwe's return home from Delhi delayed after T20 World Cup campaign due to Middle East conflict",
-    "desc": "Zimbabwe cricket team's return home has been delayed and they have become the first team in the T20 World Cup to be affected by the closure of airspaces in the Middle East. They will now...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-s-return-home-from-delhi-delayed-after-t20-world-cup-campaign-due-to-middle-east-conflict-2026-03-01-1032208",
-    "time": "2026-03-01T15:25:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shimron Hetmyer sets new T20 World Cup record in must-win clash against India",
-    "desc": "Flamboyant Shimron Hetmyer has overtaken Sahibzada Farhan to claim the record for the most sixes in a single edition of the T20 World Cup. The Pakistan opener had surpassed Nicholas Pooran just the previous night...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shimron-hetmyer-sets-new-t20-world-cup-record-in-must-win-clash-against-india-2026-03-01-1032204",
-    "time": "2026-03-01T14:55:11.000Z"
   }
 ];

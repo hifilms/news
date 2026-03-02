@@ -1,5 +1,311 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "'Rulayega kya pagle?': Samson's on-camera reply to Surya goes viral",
+    "desc": "Sanju Samson's spectacular unbeaten 97 powered India to a thrilling five-wicket victory over West Indies, securing a T20 World Cup 2026 semifinal spot. His match-winning knock, the highest in an Indian T20 World Cup chase, earned him immense praise from skipper Suryakumar Yadav, highlighting Samson's crucial contribution under pressure.",
+    "img": "https://static.toiimg.com/photo/msid-128943071,imgsize-96274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rulayega-kya-pagle-sanju-samsons-on-camera-reply-to-suryakumar-yadav-goes-viral-watch/articleshow/128943040.cms",
+    "time": "2026-03-02T09:30:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Young Sherlock' OTT release: where to watch Colin Firth, Joseph Fiennes show",
+    "desc": "'Young Sherlock.' Hero Fiennes Tiffin leads as a 19-year-old Holmes in Guy Ritchie's latest, set in 1870s London. It follows his formative years through a murder mystery and early encounters with Moriarty and Watson, offering an unapologetically fresh spin on the legend.",
+    "img": "https://static.toiimg.com/photo/msid-128943023,imgsize-338934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/young-sherlock-ott-release-when-and-where-to-watch-the-new-mystery-series-starring-colin-firth-and-joseph-fiennes/articleshow/128943023.cms",
+    "time": "2026-03-02T09:30:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Sidharth and Kiara relived Holi nostalgia",
+    "desc": "Bollywood's beloved couple, Sidharth Malhotra and Kiara Advani, are embracing Holi with cherished childhood memories and a simple, festive spirit. Sidharth reminisces about vibrant Delhi celebrations, while Kiara anticipates their third Holi together as they await their baby. Meanwhile, Kiara's upcoming film 'Toxic' with Yash is generating buzz with a new song poster.",
+    "img": "https://static.toiimg.com/photo/msid-128942927,imgsize-39298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-sidharth-malhotra-and-kiara-advani-relived-holi-nostalgia-it-was-all-about-colors-laughter-and-endless-fun/articleshow/128942856.cms",
+    "time": "2026-03-02T09:24:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "4.18 lakh students set to appear for SSLC, 4.52 lakh for Plus Two exams in Kerala",
+    "desc": "SSLC exams begin on March 5 and Plus Two exams on March 6. Minister V. Sivankutty says SSLC results will be announced by third week of May and Plus Two results expected on May 22",
+    "img": "https://th-i.thgim.com/public/incoming/c2oefn/article70694745.ece/alternates/LANDSCAPE_1200/20251214080L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/418-lakh-students-set-to-appear-for-sslc-452-lakh-for-plus-two-exams-in-kerala/article70694337.ece",
+    "time": "2026-03-02T09:19:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika Mandanna-Vijay Deverakonda perform Satyanarayana puja",
+    "desc": "Newlyweds Rashmika Mandanna and Vijay Deverakonda celebrated their union with a traditional Satyanarayana puja at Vijay's ancestral village in Telangana. The event saw enthusiastic villagers and family members participating, with folk performances adding to the festive atmosphere. This follows their intimate Udaipur wedding, with a grand reception scheduled for March 4.",
+    "img": "https://static.toiimg.com/photo/msid-128942584,imgsize-169184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-vijay-deverakonda-perform-satyanarayana-puja-at-kushi-actors-village-tents-arranged-for-guests/articleshow/128942584.cms",
+    "time": "2026-03-02T09:06:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Need a break but..'",
+    "desc": "Deepika Padukone, a new mother to a baby girl born in September 2024, candidly shared her profound feelings about motherhood. She revealed an inner conflict, admitting a deep desire for personal breaks while simultaneously being unable to bear being away from her child.",
+    "img": "https://static.toiimg.com/photo/msid-128942579,imgsize-48000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-shares-her-inner-conflict-as-a-mother-desperately-need-a-break-but-i-cant-stand-being-without-them/articleshow/128942404.cms",
+    "time": "2026-03-02T09:05:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "$50 bn trade target: India, Canada move closer to trade deal during Carney's visit; finalise agreements on critical minerals &amp; more",
+    "desc": "India and Canada aim to boost bilateral trade to $50 billion by 2030, accelerating negotiations on a Comprehensive Economic Partnership Agreement (CEPA). Leaders discussed critical minerals, uranium, and defense cooperation, with several MoUs exchanged, including those on CEPA Terms of Reference and critical mineral collaboration.",
+    "img": "https://static.toiimg.com/photo/msid-128942360,imgsize-688614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/50-bn-trade-target-india-canada-move-closer-to-trade-deal-during-carneys-visit-finalise-agreements-on-critical-minerals-more/articleshow/128941329.cms",
+    "time": "2026-03-02T08:53:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "A look at Harrison Ford's USD 300 million net worth",
+    "desc": "Harrison Ford, celebrated with a Lifetime Achievement Award, has built a $300 million net worth. Rising from a carpenter's workshop to starring roles in Star Wars and Indiana Jones, his career embodies resilience and versatility. His real estate holdings in Los Angeles stand as a tangible record of decades-long achievement in film.",
+    "img": "https://static.toiimg.com/photo/msid-128939923,imgsize-78970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harrison-ford-net-worth-a-look-at-his-usd-300-million-empire-after-the-lifetime-achievement-honor-at-the-2026-actor-awards/articleshow/128939923.cms",
+    "time": "2026-03-02T08:50:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The best and worst moments from the 2026 Actor Awards",
+    "desc": "Hollywood's 32nd Actor Awards honored cinema's artistry with a night of standout moments. Harrison Ford was awarded the Lifetime Achievement Award, while Michael B. Jordan and the cast of 'Sinners' claimed the top acting honors. The evening balanced heartfelt tributes with unexpected, occasionally awkward, comedic interludes, delivering a ceremony that was both dignified and entertaining.",
+    "img": "https://static.toiimg.com/photo/msid-128939927,imgsize-130620.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-best-and-worst-moments-from-the-2026-actor-awards-from-harrison-fords-speech-to-the-hamnet-bit-that-refused-to-end/articleshow/128939927.cms",
+    "time": "2026-03-02T08:31:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "109 persons from Karnataka stranded in West Asia as airspace closure disrupts flights",
+    "desc": "Relief Commissioner and Principal Secretary to the Revenue Department (Disaster Management) Munish Moudgil has urged people from Karnataka residing in the affected countries to strictly follow local advisories, contact Indian missions, and register on the Sarthi Sahayata portal",
+    "img": "https://th-i.thgim.com/public/incoming/sb2uz8/article70694061.ece/alternates/LANDSCAPE_1200/20260228526L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/109-persons-from-karnataka-stranded-in-west-asia-as-airspace-closure-disrupts-flights/article70694065.ece",
+    "time": "2026-03-02T08:21:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Middle East conflict drags down tourism, aviation shares: IndiGo falls almost 7%, Ixigo down 14%",
+    "desc": "Aviation and travel stocks experienced sharp sell-offs as fresh Middle East hostilities disrupted regional air traffic. Several countries shut their airspace, impacting major hubs like Dubai and Abu Dhabi. IndiGo suspended flights to the Middle East, offering customers flexibility for bookings made before February 28, 2026, for travel until March 7, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-128941619,imgsize-2379295.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-conflict-drags-down-tourism-aviation-shares-indigo-falls-almost-7-ixigo-down-14/articleshow/128940224.cms",
+    "time": "2026-03-02T08:17:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "France, Germany, U.K. ready to take ‘defensive action’ against Iran",
+    "desc": "\"We will take steps to defend our interests and those of our allies in the region, potentially through enabling necessary and proportionate defensive action to destroy Iran's capability to fire missiles and drones at their source,\" said the statement",
+    "img": "https://th-i.thgim.com/public/incoming/z979de/article70692891.ece/alternates/LANDSCAPE_1200/2026-03-01T200835Z_1902746504_RC2WVJA8FTBV_RTRMADP_3_IRAN-CRISIS-ISRAEL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/france-germany-uk-ready-to-take-defensive-action-against-iran/article70692886.ece",
+    "time": "2026-03-02T08:17:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Homebuyers cannot be forced to accept flats without occupancy certificate; builder clauses can't override consumer rights",
+    "desc": "The appeals arose from consumer complaints filed by flat purchasers between 2017 and 2019 before the NCDRC. The respondents had booked residential flats in the developer’s Parsvnath Exotica project between 2007 and 2011 and had paid almost the entire sale consideration.",
+    "img": "https://static.toiimg.com/photo/msid-128941623,imgsize-78926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/legal/news/supreme-court-homebuyers-cannot-be-forced-to-accept-flats-without-occupancy-certificate-builder-clauses-cant-override-consumer-rights/articleshow/128941244.cms",
+    "time": "2026-03-02T08:17:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sushmita Sen, her mother rent out apartment at Rs 73.76 lakh for 3 years",
+    "desc": "Sushmita Sen and her mother, Subhra Sen, have leased their Goregaon apartment for three years, generating Rs 73.76 lakh in rent. The 1,241 sq ft flat in Oberoi Exquisite includes two parking spaces and a staggered rent structure with a 5% annual escalation. This deal follows Subhra Sen's recent acquisition of two luxury apartments in Goregaon East for ₹16.89 crore.",
+    "img": "https://static.toiimg.com/photo/msid-128941607,imgsize-29162.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sushmita-sen-and-her-mother-rent-out-goregaon-apartment-with-a-total-rental-of-rs-73-76-lakh-for-three-years/articleshow/128941600.cms",
+    "time": "2026-03-02T08:17:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran media outlets report Israeli strikes hit hospital in Tehran",
+    "desc": "Iranian media reported that a police station in a city on the outskirts of Tehran was also hit by strikes on March 1, killing an unspecified number of people, with others said to be trapped under debris",
+    "img": "https://th-i.thgim.com/public/incoming/tw653f/article70692857.ece/alternates/LANDSCAPE_1200/2026-03-01T184130Z_841993190_RC2UVJAPPRSD_RTRMADP_3_IRAN-CRISIS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-media-outlets-report-israeli-strikes-hit-hospital-in-tehran/article70692856.ece",
+    "time": "2026-03-02T08:15:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Matter of grave concern': PM Modi calls for dialogue and diplomacy as Middle East tensions soar",
+    "desc": "Prime Minister Narendra Modi voiced deep concern over the escalating Middle East situation. This follows significant military action by the United States and Israel against Iran. The strikes led to the death of Iran's Supreme Leader, Ayatollah Ali Khamenei. India will work with regional nations to ensure the safety of its citizens.",
+    "img": "https://static.toiimg.com/photo/msid-128941533,imgsize-526190.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/matter-of-grave-concern-pm-modi-calls-for-dialogue-and-diplomacy-as-middle-east-tensions-soar/articleshow/128941377.cms",
+    "time": "2026-03-02T08:14:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indians among those injured in Iranian strikes, says UAE",
+    "desc": "Ongoing conflict between U.S.-Israel alliance and Iran send waves across West Asia; oil tanker with Indians among crew hit off Oman, passengers stranded as flight disruptions; 8 Indians stuck in Karachi airport after aircraft diversion over the conflict",
+    "img": "https://th-i.thgim.com/public/incoming/1aws6c/article70692764.ece/alternates/LANDSCAPE_1200/20260228526L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/indians-among-those-injured-in-iranian-strikes-says-uae/article70692102.ece",
+    "time": "2026-03-02T08:11:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka Chopra Jonas denies 'Citadel' season 2 reshoots",
+    "desc": "Citadel Season 2 is officially confirmed and in production despite the cancellation of its international spin-offs. Priyanka Chopra Jonas confirms the core series wasn’t significantly altered, with filming wrapping in November 2024. The new season, expected this summer, follows Mason and Nadia as they face Manticore agents and a Brazilian billionaire, picking up about a month after season 1's events.",
+    "img": "https://static.toiimg.com/photo/msid-128941376,imgsize-75296.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/priyanka-chopra-jonas-denies-citadel-season-2-reshoots-we-picked-up-where-we-left-off/articleshow/128941376.cms",
+    "time": "2026-03-02T08:10:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.K. toughens asylum rules to discourage migration",
+    "desc": "Under the reforms, refugee status for adults and their accompanying children will be reviewed every 30 months, and “those whose countries are now deemed safe will be expected to return home”, according to the Home Office",
+    "img": "https://th-i.thgim.com/public/incoming/ul76b2/article70693818.ece/alternates/LANDSCAPE_1200/Britain_Police_04432.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/uk-toughens-asylum-rules-to-discourage-migration/article70693797.ece",
+    "time": "2026-03-02T08:07:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. officials skeptical of regime change in Tehran after Khamenei killing, say sources",
+    "desc": "Before and after the start of the attack, U.S. officials, including U.S. President Donald ​Trump, had suggested that toppling the nation's repressive governing system was one of several U.S. goals, in addition to ⁠crippling Iran's ballistic missile and nuclear programs",
+    "img": "https://th-i.thgim.com/public/incoming/kchfde/article70693874.ece/alternates/LANDSCAPE_1200/2026-03-02T024420Z_627078697_RC2ZVJA10EWF_RTRMADP_3_IRAN-CRISIS-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-officials-skeptical-of-regime-change-in-tehran-after-khamenei-killing-say-sources/article70693815.ece",
+    "time": "2026-03-02T08:04:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "'Do not remain silent': Iranian Embassy in India issues plea after Khamenei's death",
+    "desc": "In a statement, the mission expressed its \"profound sorrow and grief\" over Khamenei's death. The Iranian Revolutionary Guard Corps has vowed revenge and said it has already carried out retaliatory attacks on American bases in the Middle East",
+    "img": "https://th-i.thgim.com/public/incoming/q13nn4/article70690973.ece/alternates/LANDSCAPE_1200/PTI03_01_2026_000119B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/do-not-remain-silent-iranian-embassy-in-india-issues-plea-after-khameneis-death/article70690953.ece",
+    "time": "2026-03-02T07:58:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran fires missiles at Israel, Gulf states after U.S.-Israeli strike kills Khamenei",
+    "desc": "Iran acknowledged Khamenei's death in the joint Israeli-American airstrike Saturday (February 28, 2026) at his Tehran office hours, which has thrown the future of the Islamic Republic into question and raised the risk of regional instability",
+    "img": "https://th-i.thgim.com/public/incoming/3yzic7/article70690888.ece/alternates/LANDSCAPE_1200/APTOPIX_Pakistan_Iran_US_Israel_57931.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-fires-missiles-at-israel-gulf-states-after-us-israeli-strike-kills-khamenei/article70690869.ece",
+    "time": "2026-03-02T07:57:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Toxic' first song 'Tabaahi' out; fans disappointed",
+    "desc": "A Fairytale for Grown-Ups' drops its debut song, 'Tabaahi', highlighting the crackling chemistry between Yash and Kiara Advani. After a four-year gap, Yash returns in a dual-role performance. Helmed by Geetu Mohandas, the movie is scheduled to hit theaters on March 19, 2026, pitting it against 'Dhurandhar 2: The Revenge'. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128938868,imgsize-120154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-first-song-tabaahi-out-makers-release-first-track-of-yash-starrer-without-music-video-fans-disappointed/articleshow/128938868.cms",
+    "time": "2026-03-02T07:53:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iranians react with defiance after U.S.-Israel strikes",
+    "desc": "Iranians react with a mix of defiance, fear, and uncertainty following the latest strikes. While some vow that Iran will never bow down, others express concern about escalation, civilian safety, and what comes next for the region.",
+    "img": "https://th-i.thgim.com/public/news/national/30dvfu/article70688973.ece/alternates/LANDSCAPE_1200/News%20Video%20Thumbs%202026%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-iranians-react-with-defiance-after-us-israel-strikes/article70688982.ece",
+    "time": "2026-03-02T07:50:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Iran conflict disrupts air travel; Emirates, Etihad, Air India, IndiGo issue advisories",
+    "desc": "Escalating Middle East tensions following US-Israel strikes on Iran and Tehran's retaliation have led to widespread flight cancellations and airspace closures across several Gulf nations. Major hubs like Dubai and Doha are affected, with thousands of passengers stranded as airlines divert or suspend services, impacting travel between continents",
+    "img": "https://static.toiimg.com/photo/msid-128937283,imgsize-76430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iran-conflict-disrupts-air-travel-emirates-etihad-air-india-indigo-issue-advisories/articleshow/128936869.cms",
+    "time": "2026-03-02T07:32:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Stars share candid moments backstage",
+    "desc": "Beyond the red-carpet gloss of the Actor Awards 2026, genuine moments stole the show. Benicio del Toro and Wunmi Mosaku shared easy laughs, Teyana Taylor’s daughter Rue Rose danced with carefree joy, and intimate exchanges—from Ethan Hawke hugging Michael B. Jordan to the tender rapport between Jesse Plemons and Kirsten Dunst—highlighted the night’s true spirit of connection and shared joy.",
+    "img": "https://static.toiimg.com/photo/msid-128940339,imgsize-209344.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/actor-awards-2026-bts-from-teyana-taylors-daughters-fun-dance-to-timothe-chalamet-introducing-jacob-elordi-to-his-mum/articleshow/128940117.cms",
+    "time": "2026-03-02T07:31:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "War widens across West Asia as U.S., Israel launch joint attack on Iran: In Pictures",
+    "desc": "The killing of Khamenei, and U.S. President Donald Trump’s calls for the overthrow of the decades-old Islamic Republic, marked the start of a stunning new U.S. intervention in West Asia and potentially a prolonged war",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/war-widens-across-west-asia-as-us-israel-launch-joint-attack-on-iran-in-pictures/article70694116.ece",
+    "time": "2026-03-02T07:23:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nargis Fakhri makes an emotional post from Dubai amid Middle East crisis",
+    "desc": "The 'Rockstar' actress Nargis Fakhri has opened up about the \"anxiety and dread\" of being in Dubai during the 2026 US-Iran conflict. Following the missile interceptions over the UAE, Nargis shared that she remains \"wide awake\" and on high alert. Meanwhile, stars like Esha Gupta and Sonal Chauhan remain stranded due to total airspace closures but have praised the UAE government's crisis management.",
+    "img": "https://static.toiimg.com/photo/msid-128939827,imgsize-98108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nargis-fakhri-makes-an-emotional-post-from-dubai-amid-middle-east-crisis-my-brain-is-on-high-alert/articleshow/128939827.cms",
+    "time": "2026-03-02T07:16:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Captain Shai Hope takes blame for West Indies exit from T20 World Cup, says he ‘should’ve batted faster’",
+    "desc": "West Indies appeared at least 20 runs short against India as Hope ate up 33 balls for his 32, striking at just over 96, including 17 dot balls that probably cost them heavily in a high-scoring contest",
+    "img": "https://th-i.thgim.com/public/incoming/551t/article70694324.ece/alternates/LANDSCAPE_1200/001.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ind-vs-wi-captain-shai-hope-takes-blame-for-west-indies-exit-from-t20-world-cup-says-he-shouldve-batted-faster/article70694321.ece",
+    "time": "2026-03-02T07:16:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Michael B. Jordan details his mom’s sacrifices",
+    "desc": "Michael B. Jordan clinched the Outstanding Performance by a Male Actor award for Sinners, saluting his mother for her steadfast encouragement. He praised Ryan Coogler for fostering a vibrant creative atmosphere and acknowledged his remarkable co-stars. A surprised Jordan also thanked the fellow nominees.",
+    "img": "https://static.toiimg.com/photo/msid-128939864,imgsize-46612.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/actor-awards-2026-michael-b-jordans-emotional-acceptance-speech-details-his-moms-sacrifices/articleshow/128939864.cms",
+    "time": "2026-03-02T06:58:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Defence stocks surge on Middle East tensions! HAL, BEL, Paras Defence rise up to 13% even as stock market crashes",
+    "desc": "​​The escalation has raised expectations of increased export opportunities and strengthened investor sentiment toward the sector. Paras Defence led the gains, climbing 13.5%. Meanwhile, HAL, BEL and Bharat Dynamics advanced by up to 3.5% on the BSE.",
+    "img": "https://static.toiimg.com/photo/msid-128939770,imgsize-140670.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/defence-stocks-surge-on-middle-east-tensions-hal-bel-paras-defence-rise-up-to-13-even-as-stock-market-crashes/articleshow/128939752.cms",
+    "time": "2026-03-02T06:53:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK's 'King' team shooting in Mira Road",
+    "desc": "Shah Rukh Khan's upcoming action-adventure film King is currently shooting in Mumbai's Mira Road, at Ellora Studio's Market location. The title reveal hints at a darker, more intense SRK and a fresh cinematic experience. Directed by Siddharth Anand, the project features international action choreography and a star-studded cast, including Suhana Khan's debut, with a Christmas release on the cards. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128939632,imgsize-133308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-king-team-has-been-shooting-in-mira-road-for-the-last-three-days-exclusive/articleshow/128939632.cms",
+    "time": "2026-03-02T06:50:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aditi Rao Hydari slams paid negativity and toxic online trends",
+    "desc": "Aditi Rao Hydari says “paid negativity” and online misinformation have made entertainment tougher. “Celebrity smear campaigns aren’t new, but digital platforms amplify them,” she tells Hindustan Times. The actress credits her mother’s wisdom for staying grounded despite criticism and credits recent works 'Heeramandi', 'Gandhi Talks'.",
+    "img": "https://static.toiimg.com/photo/msid-128939727,imgsize-18126.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditi-rao-hydari-slams-paid-negativity-and-toxic-online-trends-celebrity-smear-campaigns-arent-new/articleshow/128939727.cms",
+    "time": "2026-03-02T06:49:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India to host Afghanistan for Test &amp; ODI series",
+    "desc": "Team India is set to host Afghanistan for a multi-format cricket series in June 2026, featuring a one-off Test and three ODIs. The tour, spanning June 6-20, will see matches played in New Chandigarh, Dharamshala, Lucknow, and Chennai. This series offers vital preparation for both nations ahead of a busy international schedule.",
+    "img": "https://static.toiimg.com/photo/msid-128939636,imgsize-55068.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-to-host-afghanistan-for-test-and-odi-series-in-june-2026-full-schedule-announced/articleshow/128939564.cms",
+    "time": "2026-03-02T06:47:03.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Israel-Iran conflict: Kerala postpones SSLC, Plus 2 examinations in West Asia region",
     "desc": "SSLC exams to be conducted on March 5 and higher secondary examinations to be held on March 5, 6, and 7 have been postponed. New dates to be announced later, says Kerala’s Minister for General Education V. Sivankutty",
@@ -7,6 +313,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/israel-iran-conflict-kerala-postpones-sslc-plus-2-examinations-in-west-asia-region/article70694124.ece",
     "time": "2026-03-02T06:44:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Teyana Taylor opens up about her Oscar nominations for 'One Battle After Another'",
+    "desc": "Teyana Taylor says she's thrilled about her Oscar nomination for Best Supporting Actress in One Battle After Another, directed by Paul Thomas Anderson. She recalled learning the news while getting ready for Saturday Night Live, describing it as a rush of shock and joy that briefly left her speechless. The film features Taylor in a pivotal supporting role.",
+    "img": "https://static.toiimg.com/photo/msid-128939523,imgsize-82556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/teyana-taylor-delves-into-oscar-2026-nominations-for-one-battle-after-another-its-not-like-you-have-time-to-settle-in/articleshow/128939523.cms",
+    "time": "2026-03-02T06:44:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -27,15 +342,6 @@ const newsData_en = [
     "time": "2026-03-02T06:26:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bruno Mars marries to DJ Rashida in latest MV for ‘Risk It All’",
-    "desc": "Bruno Mars unveils the video for 'Risk It All,' a track from The Romantic. The visuals craft a cinematic wedding tale, led by Mars in a sharp cowboy-inspired suit, delivering a sweeping, cinematic romance. The romantic ballad and the long-awaited comeback have fans buzzing as Mars returns to the spotlight after years away.",
-    "img": "https://static.toiimg.com/photo/msid-128939029,imgsize-61180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bruno-mars-ends-10-year-solo-hiatus-with-the-romantic-marries-dj-rashida-in-risk-it-all-music-video-watch/articleshow/128939029.cms",
-    "time": "2026-03-02T06:25:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Shares of aviation firms, tour operators dive amid West Asia crisis",
     "desc": "The stock of InterGlobe Aviation tanked 7.50%, while SpiceJet declined by 7.27% on the BSE. Shares of Yatra Online tumbled 11.14%, Easy Trip Planners slumped 9.39%, TBO TEK dived 8.19% and Thomas Cook dropped 5.40%",
@@ -43,15 +349,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/shares-of-aviation-firms-tour-operators-dive-amid-west-asia-crisis/article70694052.ece",
     "time": "2026-03-02T06:19:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajamouli praises Priyanka's performance in 'The Bluff'",
-    "desc": "Filmmaker S. S. Rajamouli and actor Mahesh Babu have lauded Priyanka Chopra for her powerful performance in her Hollywood film 'The Bluff'. Rajamouli praised her versatility, while Babu highlighted her engaging action and emotional portrayal. The trio is currently collaborating on the ambitious epic 'Varanasi', with plans to shoot in Antarctica.",
-    "img": "https://static.toiimg.com/photo/msid-128938916,imgsize-164142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ss-rajamouli-praises-varanasi-star-priyanka-chopra-for-role-in-the-bluff-says-she-can-be-utterly-vulnerable-at-one-moment-and-ferociously-strong-the-next/articleshow/128938429.cms",
-    "time": "2026-03-02T06:18:23.000Z"
   },
   {
     "cat": "Business",
@@ -73,24 +370,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "109 persons from Karnataka stranded in West Asia as airspace closure disrupts flights",
-    "desc": "Relief Commissioner and Principal Secretary to the Revenue Department (Disaster Management) Munish Moudgil has urged people from Karnataka residing in the affected countries to strictly follow local advisories, contact Indian missions, and register on the Sarthi Sahayata portal",
-    "img": "https://th-i.thgim.com/public/incoming/sb2uz8/article70694061.ece/alternates/LANDSCAPE_1200/20260228526L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/109-persons-from-karnataka-stranded-in-west-asia-as-airspace-closure-disrupts-flights/article70694065.ece",
-    "time": "2026-03-02T06:07:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Harrison Ford accepts lifetime honor at 2026 actor awards",
-    "desc": "Harrison Ford received the Lifetime Achievement Award at the Actor Awards 2026. The legendary actor accepted the honour with humour and gratitude. Woody Harrelson presented the award. Ford's six-decade career was celebrated. He spoke of his early struggles and thanked collaborators. The event highlighted his enduring vitality and resilience. Ford continues to be an active actor.",
-    "img": "https://static.toiimg.com/photo/msid-128938605,imgsize-405026.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harrison-ford-holds-back-his-tears-accepting-lifetime-achievement-honor-at-2026-actor-awards-i-was-not-an-overnight-sensation/articleshow/128938609.cms",
-    "time": "2026-03-02T05:58:53.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "MHA alerts states as Middle East tensions soar; internet curbs, security tightened in Kashmir",
     "desc": "The Ministry of Home Affairs has alerted states to potential tensions due to the Iran conflict, urging vigilance against inflammatory religious gatherings and radical preachers. Authorities are monitoring individuals and groups to prevent unrest, with precautionary measures already implemented in Jammu and Kashmir following protests over the killing of Iran's supreme leader.",
     "img": "https://static.toiimg.com/photo/msid-128938482,imgsize-1809524.cms",
@@ -108,17 +387,8 @@ const newsData_en = [
     "time": "2026-03-02T05:52:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ali Larter honors James Van Der Beek, her Varsity Blues co-star",
-    "desc": "Ali Larter honored her 'Varsity Blues' co-star James Van Der Beek at the 2026 Actor Awards, remembering his grace in facing his battle with colorectal cancer. Van Der Beek, who passed away in February 2026, was celebrated for his enduring legacy in film and television. His family and friends continue to mourn his loss.",
-    "img": "https://static.toiimg.com/photo/msid-128937939,imgsize-1029352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ali-larter-pays-emotional-tribute-to-james-van-der-beek-her-varsity-blues-co-star-at-the-2026-actor-award/articleshow/128937968.cms",
-    "time": "2026-03-02T05:31:14.000Z"
-  },
-  {
     "cat": "Sports",
-    "title": "Gambhir demands ‘special effort’ as India gear up for Wankhede semi-final",
+    "title": "Gambhir demands ‘special effort’ as India gear up for semi-final",
     "desc": "Gautam Gambhir praised Sanju Samson's match-winning 97 against the West Indies, highlighting his potential. However, the focus now shifts to the T20 World Cup semi-final against a formidable England side in Mumbai. Gambhir emphasized that India will require a 'special effort' and flawless execution to overcome the unbeaten English team.",
     "img": "https://static.toiimg.com/photo/msid-128937967,imgsize-74022.cms",
     "src": "indiatimes.com",
@@ -135,33 +405,6 @@ const newsData_en = [
     "time": "2026-03-02T05:18:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Varanasi' to be filmed in Antarctica, Priyanka CONFIRMS",
-    "desc": "Filmmaker SS Rajamouli's ambitious epic 'Varanasi' is set to make history by becoming the first Indian film shot in Antarctica. Starring Mahesh Babu and Priyanka Chopra, the team will brave sub-zero conditions at the Ross Ice Shelf for a segment exploring a lost civilization.",
-    "img": "https://static.toiimg.com/photo/msid-128936064,imgsize-169878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varanasi-to-be-filmed-in-antarctica-priyanka-chopra-confirms-in-tweet-to-mahesh-babu/articleshow/128935827.cms",
-    "time": "2026-03-02T05:16:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sonal updates fans on her safety in Dubai; 'PRAYING…'",
-    "desc": "Actress Sonal Chauhan, previously stranded in Dubai due to conflicts in the Middle East, has reassured fans that she is safe. She expressed gratitude for the concern shown and commended local authorities for ensuring public safety, urging people to remain calm. Earlier, Chauhan had appealed to Prime Minister Narendra Modi for help returning to India amid flight cancellations. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128937155,imgsize-105534.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonal-chauhan-updates-fans-on-her-safety-in-dubai-as-us-iran-tensions-disrupt-travel-says-praying-for-everyone/articleshow/128937155.cms",
-    "time": "2026-03-02T05:08:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Wunmi Mosaku calls Michael B. Jordan a ‘gentleman’",
-    "desc": "At the 2026 Actors Awards, Wunmi Mosaku praised Michael B. Jordan as a 'gentleman' and revealed a thoughtful Mother's Day gesture he had made. Though Mosaku didn't win, Jordan captured Best Actor for Sinners, a film that also earned Best Ensemble, and he spoke of joy in celebrating fellow actors.",
-    "img": "https://static.toiimg.com/photo/msid-128937008,imgsize-58904.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-b-jordans-sinners-co-star-wunmi-mosaku-calls-him-a-gentleman-reveals-his-sweet-mothers-day-gesture/articleshow/128937008.cms",
-    "time": "2026-03-02T04:55:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Samson seals chase vs WI, Eng semifinal awaits",
     "desc": "Sanju Samson's brilliant unbeaten 97 powered India into the T20 World Cup semifinals with a five-wicket victory over the West Indies. Despite a challenging target, Samson anchored the chase, showcasing his talent. Earlier, Jason Holder and Rovman Powell's late surge helped West Indies post a competitive 195.",
@@ -169,24 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/superman-sanju-rescues-india-samsons-unbeaten-97-seals-chase-against-west-indies-england-semifinal-awaits/articleshow/128936742.cms",
     "time": "2026-03-02T04:47:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Luke Thompson opens up about leading ‘Bridgerton 4’",
-    "desc": "Luke Thompson, who stepped into Benedict for Bridgerton's Season 4, found the experience smoother than expected, crediting the production's exceptional standards. He said he was thrilled to lead the series and noted the audience's strong connection to the show, while also enjoying watching Florence Hunt and Will Tilston grow as their characters evolve.",
-    "img": "https://static.toiimg.com/photo/msid-128936851,imgsize-4858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/luke-thompson-on-filming-bridgerton-4-press-tours-and-more-actual-doing-of-the-show-has-been-really-easy/articleshow/128936851.cms",
-    "time": "2026-03-02T04:46:27.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. officials skeptical of regime change in Tehran after Khamenei killing, say sources",
-    "desc": "Before and after the start of the attack, U.S. officials, including U.S. President Donald ​Trump, had suggested that toppling the nation's repressive governing system was one of several U.S. goals, in addition to ⁠crippling Iran's ballistic missile and nuclear programs",
-    "img": "https://th-i.thgim.com/public/incoming/kchfde/article70693874.ece/alternates/LANDSCAPE_1200/2026-03-02T024420Z_627078697_RC2ZVJA10EWF_RTRMADP_3_IRAN-CRISIS-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-officials-skeptical-of-regime-change-in-tehran-after-khamenei-killing-say-sources/article70693815.ece",
-    "time": "2026-03-02T04:43:28.000Z"
   },
   {
     "cat": "Sports",
@@ -198,15 +423,6 @@ const newsData_en = [
     "time": "2026-03-02T04:42:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Stars honoured in memoriam at the Actor Awards",
-    "desc": "In a somber nod to those we've lost this year, the latest Actor Awards paid tribute to industry legends. Van Der Beek and Dane (from Dawson's Creek and Grey's Anatomy, respectively) were remembered, while Catherine O'Hara received a posthumous Best Actress award for The Studio, accepted by Seth Rogen who lauded her generosity and talent.",
-    "img": "https://static.toiimg.com/photo/msid-128936750,imgsize-1944226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-actor-awards-2026-catherine-ohara-eric-dane-rob-reiner-gene-hackman-and-others-honoured-in-memoriam/articleshow/128936750.cms",
-    "time": "2026-03-02T04:42:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "BCCI ropes in Zaheer Khan to groom pacers",
     "desc": "The BCCI has enlisted former India fast bowler Zaheer Khan to mentor the country's emerging fast bowlers. Khan will lead specialized training camps at the Centre of Excellence in Bengaluru starting early March. This initiative aims to address the recent scarcity of fast-bowling talent in Indian cricket.",
@@ -214,33 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-ropes-in-zaheer-khan-to-groom-pacers/articleshow/128936705.cms",
     "time": "2026-03-02T04:38:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sandra Bernhard's reaction to ‘The White Lotus S04’ casting",
-    "desc": "Sandra Bernhard is headed to The White Lotus Season 4, taking on a coveted role she’s chased for years. At the Actor Awards 2026, she shared how thrilled she is and dropped a nod to her enduring relationship with series creator Mike White. Production kicks off in France in April 2026, signaling more biting satire and high-stakes drama.",
-    "img": "https://static.toiimg.com/photo/msid-128936616,imgsize-87830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/actor-awards-2026-sandra-bernhard-has-this-to-say-about-her-casting-in-the-white-lotus-season-4/articleshow/128936558.cms",
-    "time": "2026-03-02T04:35:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "David Bowie’s daughter Lexi Jones opens up on depression, bulimia",
-    "desc": "Alexandria \"Lexi\" Jones, daughter of David Bowie and Iman, bravely shared her struggles with depression, bulimia, and substance abuse during her teenage years. Sent to multiple treatment programs, she now emphasizes her story is one of gratitude, not blame, for her parents' efforts to guide her through difficult times.",
-    "img": "https://static.toiimg.com/photo/msid-128936533,imgsize-883918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/david-bowies-daughter-alexandria-lexi-jones-reveals-battle-with-depression-and-bulimia/articleshow/128936516.cms",
-    "time": "2026-03-02T04:30:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Fran Drescher offers to officiate Timothée and Kylie’s wedding",
-    "desc": "Amid wedding buzz, Timothée Chalamet's on-screen mom, Fran Drescher, said she'd be happy to officiate his potential wedding to Kylie Jenner, though she doubts the offer will materialize. Drescher also shared a maternal concern about his fear of heights, while praising his fearlessness and talent. Chalamet attended the Actor Awards with his mother.",
-    "img": "https://static.toiimg.com/photo/msid-128936471,imgsize-136848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothe-chalamet-and-kylie-jenners-wedding-fran-drescher-offers-to-officiate-the-future-ceremony/articleshow/128936471.cms",
-    "time": "2026-03-02T04:29:17.000Z"
   },
   {
     "cat": "Politics",
@@ -270,15 +459,6 @@ const newsData_en = [
     "time": "2026-03-02T04:03:48.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.K. toughens asylum rules to discourage migration",
-    "desc": "Under the reforms, refugee status for adults and their accompanying children will be reviewed every 30 months, and “those whose countries are now deemed safe will be expected to return home”, according to the Home Office",
-    "img": "https://th-i.thgim.com/public/incoming/ul76b2/article70693818.ece/alternates/LANDSCAPE_1200/Britain_Police_04432.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/uk-toughens-asylum-rules-to-discourage-migration/article70693797.ece",
-    "time": "2026-03-02T03:55:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘He showed his true potential’: Gambhir lauds Samson after Eden masterclass",
     "desc": "Gautam Gambhir lauded Sanju Samson's unbeaten 97 against the West Indies, calling it a glimpse of his true potential. Samson's composed innings guided India to the T20 World Cup semifinals, showcasing his world-class talent and silencing past criticisms. Gambhir expressed confidence in Samson's ability to build on this match-winning performance.",
@@ -286,24 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/he-showed-his-true-potential-gautam-gambhir-lauds-sanju-samson-after-eden-masterclass/articleshow/128935574.cms",
     "time": "2026-03-02T03:54:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Guest list tightened further",
-    "desc": "Newlyweds Vijay Deverakonda and Rashmika Mandanna are hosting a grand reception in Hyderabad on March 4. Following administrative advice for safety, the guest list has been tightened. The couple, committed to celebrating, has also offered prayers at a temple and distributed sweets nationwide, reinforcing their connection with the public and leaders.",
-    "img": "https://static.toiimg.com/photo/msid-128935462,imgsize-187032.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-and-vijay-deverakonda-wedding-reception-guest-list-tightened-further-reports/articleshow/128935462.cms",
-    "time": "2026-03-02T03:46:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajpal Yadav says, 'I am a man of Rs 1500 crores'",
-    "desc": "Actor Rajpal Yadav, facing a Rs 9 crore debt case, has appealed to the film federation for a formal investment fund and contract framework to prevent future financial disputes. He emphasized the need for standardized agreements, stating his intention was never to trap anyone. Yadav was granted temporary bail until March 2026 after depositing a significant amount. Read on to know more.",
-    "img": "https://static.toiimg.com/photo/msid-128935269,imgsize-82862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-urges-film-federation-for-major-funding-reform-says-i-am-a-man-of-rs-1500-crores/articleshow/128935269.cms",
-    "time": "2026-03-02T03:36:33.000Z"
   },
   {
     "cat": "Sports",
@@ -331,24 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/explained-how-much-will-it-cost-to-watch-the-fifa-world-cup/articleshow/128934876.cms",
     "time": "2026-03-02T03:18:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Annual Writers Guild Awards from West Coast has been cancelled",
-    "desc": "The West Coast ceremony of the 78th annual Writers Guild Awards, scheduled for March 8 in Los Angeles, has been cancelled due to an ongoing staff union strike. This decision was made as negotiations have not yet yielded a resolution. The East Coast ceremony in New York City will proceed as planned, as the two organizations operate independently.",
-    "img": "https://static.toiimg.com/photo/msid-128934533,imgsize-147598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/west-coast-ceremony-for-annual-writers-guild-awards-stands-cancelled-for-now-report/articleshow/128934533.cms",
-    "time": "2026-03-02T03:05:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Laura Anderson reassures fans amid Dubai unrest and airport chaos",
-    "desc": "Reality star Laura Anderson reassured fans from Dubai amidst regional unrest and strikes targeting Iran. Despite chaos, including a fire and flight cancellations, Anderson confirmed she and daughter Bonnie are safe. Local authorities maintained order, ensuring essential services continued, offering a sense of calm for residents and visitors.",
-    "img": "https://static.toiimg.com/photo/msid-128934482,imgsize-597129.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/laura-anderson-shares-reassuring-update-from-dubai-as-regional-unrest-sparks-airport-disruptions-and-safety-concerns/articleshow/128934469.cms",
-    "time": "2026-03-02T02:56:40.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +558,6 @@ const newsData_en = [
     "time": "2026-03-02T01:37:08.000Z"
   },
   {
-    "cat": "World",
-    "title": "France, Germany, U.K. ready to take ‘defensive action’ against Iran",
-    "desc": "\"We will take steps to defend our interests and those of our allies in the region, potentially through enabling necessary and proportionate defensive action to destroy Iran's capability to fire missiles and drones at their source,\" said the statement",
-    "img": "https://th-i.thgim.com/public/incoming/z979de/article70692891.ece/alternates/LANDSCAPE_1200/2026-03-01T200835Z_1902746504_RC2WVJA8FTBV_RTRMADP_3_IRAN-CRISIS-ISRAEL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/france-germany-uk-ready-to-take-defensive-action-against-iran/article70692886.ece",
-    "time": "2026-03-02T01:34:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'This is the day I was waiting for': Sanju Samson's emotional confession",
     "desc": "Sanju Samson described his match-winning performance as a dream come true, a culmination of years battling self-doubt. He credits extensive experience, both playing and observing cricketing greats, for his ability to handle pressure. Samson emphasized adapting to match situations and focusing on his role rather than milestones, finding solace in the present moment to overcome lingering uncertainties.",
@@ -468,24 +603,6 @@ const newsData_en = [
     "time": "2026-03-01T23:02:36.000Z"
   },
   {
-    "cat": "Business",
-    "title": "UAE stock markets close, trading halted by Abu Dhabi Securities Exchange and the Dubai Financial Market for two days amid Iran–US–Israel war fallout",
-    "desc": "The UAE has shut its Dubai and Abu Dhabi stock markets for two days, March 2-3, 2026, due to escalating Iran-US-Israel conflict fallout. This unprecedented move follows Iranian retaliatory strikes, disrupting regional business and investor confidence. Other Gulf markets saw sharp declines, with oil prices surging amid fears of supply disruptions.",
-    "img": "https://static.toiimg.com/photo/msid-128928075,imgsize-72530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-stock-markets-close-trading-halted-by-abu-dhabi-securities-exchange-and-the-dubai-financial-market-for-two-days-amid-iranusisrael-war-fallout/articleshow/128925519.cms",
-    "time": "2026-03-01T21:34:21.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran media outlets report Israeli strikes hit hospital in Tehran",
-    "desc": "Iranian media reported that a police station in a city on the outskirts of Tehran was also hit by strikes on March 1, killing an unspecified number of people, with others said to be trapped under debris",
-    "img": "https://th-i.thgim.com/public/incoming/tw653f/article70692857.ece/alternates/LANDSCAPE_1200/2026-03-01T184130Z_841993190_RC2UVJAPPRSD_RTRMADP_3_IRAN-CRISIS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-media-outlets-report-israeli-strikes-hit-hospital-in-tehran/article70692856.ece",
-    "time": "2026-03-01T20:19:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "From the valley to the pinnacle of domestic cricket — the J & K story",
     "desc": "Jammu & Kashmir’s stellar run is a tale of grit, determination and meticulous preparation; it had all bases covered and every member of the squad put his hand up when it mattered most; the next challenge for Dogra’s men will be to sustain the momentum and stay at the summit",
@@ -493,15 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/from-the-valley-to-the-pinnacle-of-domestic-cricket-the-j-k-story/article70692834.ece",
     "time": "2026-03-01T19:26:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indians among those injured in Iranian strikes, says UAE",
-    "desc": "Ongoing conflict between U.S.-Israel alliance and Iran send waves across West Asia; oil tanker with Indians among crew hit off Oman, passengers stranded as flight disruptions; 8 Indians stuck in Karachi airport after aircraft diversion over the conflict",
-    "img": "https://th-i.thgim.com/public/incoming/1aws6c/article70692764.ece/alternates/LANDSCAPE_1200/20260228526L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indians-among-those-injured-in-iranian-strikes-says-uae/article70692102.ece",
-    "time": "2026-03-01T19:00:12.000Z"
   },
   {
     "cat": "Sports",
@@ -585,24 +693,6 @@ const newsData_en = [
     "time": "2026-03-01T15:13:13.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Zimbabwe stuck in India amid closure of airspace in Middle East",
-    "desc": "After the US and Israel's airstrikes on Iran and their counter-attack on US military installations around the Gulf, it has affected the airspace in the global business hub of Dubai. Zimbabwe were due to fly out through that region on their way back home after a positive tournament.",
-    "img": "https://static.toiimg.com/photo/msid-128918892,imgsize-97402.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-zimbabwe-stuck-in-india-amid-closure-of-airspace-in-middle-east/articleshow/128918746.cms",
-    "time": "2026-03-01T14:50:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sikandar Raza restores Zimbabwe's pride, albeit in losing cause",
-    "desc": "Zimbabwe skipper Sikandar Raza's all-round performance, including a 73-run knock and three wickets, nearly led his team to an upset against South Africa. Despite a strong effort, South Africa secured a five-wicket victory, maintaining their unbeaten run in the T20 World Cup Super Eight.",
-    "img": "https://static.toiimg.com/photo/msid-128916811,imgsize-43242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-sikandar-raza-restores-zimbabwes-pride-albeit-in-losing-cause/articleshow/128916697.cms",
-    "time": "2026-03-01T13:15:20.000Z"
-  },
-  {
     "cat": "World",
     "title": "Khamenei’s rise and fall: The death of Iran’s ultimate authority",
     "desc": "Ayatollah Ali Khamenei, Iran’s Supreme Leader for nearly 40 years, was killed in a joint U.S.-Israel strike, leaving a major power vacuum. From resisting the Shah to leading Iran through wars, nuclear negotiations, and internal uprisings, he shaped the nation’s politics, military, and religious authority.",
@@ -612,15 +702,6 @@ const newsData_en = [
     "time": "2026-03-01T09:17:21.000Z"
   },
   {
-    "cat": "World",
-    "title": "'Do not remain silent': Iranian Embassy in India issues plea after Khamenei's death",
-    "desc": "In a statement, the mission expressed its \"profound sorrow and grief\" over Khamenei's death. The Iranian Revolutionary Guard Corps has vowed revenge and said it has already carried out retaliatory attacks on American bases in the Middle East",
-    "img": "https://th-i.thgim.com/public/incoming/q13nn4/article70690973.ece/alternates/LANDSCAPE_1200/PTI03_01_2026_000119B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/do-not-remain-silent-iranian-embassy-in-india-issues-plea-after-khameneis-death/article70690953.ece",
-    "time": "2026-03-01T07:40:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Jammu and Kashmir's maiden Ranji Trophy triumph: It takes a village",
     "desc": "Jammu and Kashmir’s historic Ranji Trophy triumph is a story of collective belief, long battles and delayed redemption. From Paras Dogra’s leadership to Auqib Nabi’s rise, from Abid Nabi’s unfulfilled dream to Samiullah Beigh's sweet redemption, this title reflects years of quiet toil. In the end, it was not about who claimed credit first, but about a village that won together.",
@@ -628,15 +709,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jammu-and-kashmirs-maiden-ranji-trophy-triumph-it-takes-a-village/articleshow/128908678.cms",
     "time": "2026-03-01T07:34:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran fires missiles at Israel, Gulf states after U.S.-Israeli strike kills Khamenei",
-    "desc": "Iran acknowledged Khamenei's death in the joint Israeli-American airstrike Saturday (February 28, 2026) at his Tehran office hours, which has thrown the future of the Islamic Republic into question and raised the risk of regional instability",
-    "img": "https://th-i.thgim.com/public/incoming/3yzic7/article70690888.ece/alternates/LANDSCAPE_1200/APTOPIX_Pakistan_Iran_US_Israel_57931.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-fires-missiles-at-israel-gulf-states-after-us-israeli-strike-kills-khamenei/article70690869.ece",
-    "time": "2026-03-01T07:30:43.000Z"
   },
   {
     "cat": "Sports",
@@ -691,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/govt-blocks-supabase-website-popular-among-code-developers/article70687836.ece",
     "time": "2026-02-28T16:03:11.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iranians react with defiance after U.S.-Israel strikes",
-    "desc": "Iranians react with a mix of defiance, fear, and uncertainty following the latest strikes. While some vow that Iran will never bow down, others express concern about escalation, civilian safety, and what comes next for the region.",
-    "img": "https://th-i.thgim.com/public/news/national/30dvfu/article70688973.ece/alternates/LANDSCAPE_1200/News%20Video%20Thumbs%202026%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-iranians-react-with-defiance-after-us-israel-strikes/article70688982.ece",
-    "time": "2026-02-28T15:47:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/anthropic-says-wont-give-us-military-unconditional-ai-use/article70682418.ece",
     "time": "2026-02-27T10:32:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Secret Agent’ movie review: Wagner Moura smoulders in Kleber Mendonça Filho’s masterful anatomy of political fear",
-    "desc": "To anatomise fear as fiction is to recognise its very real mechanics in the places we actually live, and that uncomfortable truth is what elevates ‘The Secret Agent’ above and beyond the year’s more self-satisfied seriousness",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/nuhhc3/article70679452.ece/alternates/LANDSCAPE_1200/download.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/the-secret-agent-movie-review-wagner-moura-kleber-mendonca-filho/article70679415.ece",
-    "time": "2026-02-27T07:25:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India eye improved batting show to stay afloat in women's ODI series against Australia",
-    "desc": "Having won the T20 series 2-1, a below-par India started the ODI contests on a disappointing note, losing by six wickets in Brisbane. The Indian women's team has never won a bilateral ODI series against Australia.",
-    "img": "https://th-i.thgim.com/public/incoming/gh81dd/article70681409.ece/alternates/LANDSCAPE_1200/GettyImages-2263230192.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-eye-improved-batting-show-to-stay-afloat-in-womens-odi-series-against-australia/article70681408.ece",
-    "time": "2026-02-26T20:01:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Misbun Sidek",
-    "desc": "The renowned coach from Malaysia wants to find a World No. 1 shuttler from India, having already trained elite stars in the sport; he feels the new 3x15 regulations is power oriented and is based on tactics",
-    "img": "https://th-i.thgim.com/public/incoming/krx8xk/article70681314.ece/alternates/LANDSCAPE_1200/DSC_9009.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/a-champion-is-being-built-by-the-coaches-and-not-born-misbun-sidek/article70681313.ece",
-    "time": "2026-02-26T18:47:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "NSE chief proposes retail barriers to entry on derivative markets amidst speculation losses",
-    "desc": "Developing countries like India cannot allow over speculation by lower strata of the economy. Hence, more and more regulations will come from governments, regulators and exchanges — to curb over speculation till the time perception of the lower strata of society doing over speculation continues, says NSE’s CEO Ashish Kumar Chauhan",
-    "img": "https://th-i.thgim.com/public/incoming/lgvf7k/article70681337.ece/alternates/LANDSCAPE_1200/PTI02_04_2026_000169B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/nse-chief-proposes-retail-barriers-to-entry-on-derivative-markets-amidst-speculation-losses/article70680684.ece",
-    "time": "2026-02-26T18:33:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "SEBI broadens MF categories to keep up with changing investor preferences",
-    "desc": "SEBI introduced another new category called the life cycle fund and has done away with retirement and children’s fund. SEBI said that life cycle funds will have a minimum duration of five years and a maximum duration of 30 years.",
-    "img": "https://th-i.thgim.com/public/incoming/sujk13/article70681316.ece/alternates/LANDSCAPE_1200/Financial-sectoGP8FGO86H.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/sebi-broadens-mf-categories-to-keep-up-with-changing-investor-preferences/article70680216.ece",
-    "time": "2026-02-26T18:20:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Revisiting the timeless allure of classic cars at Udaipur’s Oberoi Concours d’Elegance 2026",
-    "desc": "The second edition of the Oberoi Concours d’Elegance in Udaipur saw 120 classic cars and bikes, celebrating automotive heritage. What came through at the event besides culture, currency, and caviar, was the emotion associated with the vehicles",
-    "img": "https://th-i.thgim.com/public/life-and-style/i9a8e1/article70679333.ece/alternates/LANDSCAPE_1200/1935%20Rolls-Royce%20Phantom%20II%20Drophead%20Coup%C3%A9%20by%20Windovers%20owned%20by%20HRH%20Maharaja%20Gaj%20Singh%20ji%20of%20Jodhpur%20at%20The%20Oberoi%20Concours%20d%E2%80%99Elegance%202026.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/luxury/revisiting-the-timeless-allure-of-classic-cars-at-udaipurs-oberoi-concours-delegance-2026/article70679284.ece",
-    "time": "2026-02-26T17:07:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chepauk and its colourful legacy of delivering classics",
-    "desc": "The Indian team would hope to have another memorable outing at the M.A. Chidambaram Stadium when it squares off against Zimbabwe in the T20 World Cup Super Eight encounter; a win will bring the Suryakumar-led side back on track in the global tournament",
-    "img": "https://th-i.thgim.com/public/incoming/joxovj/article70677095.ece/alternates/LANDSCAPE_1200/4871_22_1_2026_20_0_2_1_20260122_181835.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/chepauk-and-its-colourful-legacy-of-delivering-classics/article70677094.ece",
-    "time": "2026-02-26T07:34:38.000Z"
   }
 ];
