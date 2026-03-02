@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI announces schedule for upcoming Afghanistan tour of India, set to be played in June 2026",
+    "desc": "The BCCI (Board of Control for Cricket in India) came forward and announced the schedule for the upcoming Afghanistan tour of India. It is worth noting that Afghanistan will be taking on the Indian team...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-schedule-for-upcoming-afghanistan-tour-of-india-set-to-be-played-in-june-2026-2026-03-02-1032269",
+    "time": "2026-03-02T06:18:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson surpasses Virat Kohli, Rohit Sharma to enter elite list after marvellous knock against West Indie",
+    "desc": "The Indian team booked its ticket to the knockout stages of the ongoing T20 World Cup. The side took on the West Indies in game 52 of the tournament at the Eden Gardens in Kolkata,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-surpasses-virat-kohli-rohit-sharma-to-enter-elite-list-after-marvellous-knock-against-west-indies-2026-03-02-1032259",
+    "time": "2026-03-02T05:12:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Suryakumar Yadav bows down to Sanju Samson, reacts to his match-winning knock vs West Indies",
     "desc": "Sanju Samson stole the show on Sunday night with a match-winning knock of unbeaten 97 runs against West Indies in India’s final Super Eights clash at the Eden Gardens in Kolkata. Chasing 196 runs to...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shimron-hetmyer-sets-new-t20-world-cup-record-in-must-win-clash-against-india-2026-03-01-1032204",
     "time": "2026-03-01T14:55:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Nicholas Pooran not playing India vs West clash in T20 World Cup?",
-    "desc": "Star batter Nicholas Pooran retired from international cricket in June 2025, just eight months prior to the T20 World Cup. His shocking decision surprised everyone, given his scintillating form and most importantly, his recent experience...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-nicholas-pooran-not-playing-india-vs-west-clash-in-t20-world-cup-2026-03-01-1032196",
-    "time": "2026-03-01T13:33:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Rinku Singh not playing in India vs West Indies clash in T20 World Cup?",
-    "desc": "India opted to leave Rinku Singh out of their heavyweight Super Eights clash against West Indies at the iconic Eden Gardens in Kolkata. The 28-year-old had already been dropped for the previous fixture against Zimbabwe...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-rinku-singh-not-playing-in-india-vs-west-indies-clash-in-t20-world-cup-2026-03-01-1032194",
-    "time": "2026-03-01T13:17:10.000Z"
   }
 ];

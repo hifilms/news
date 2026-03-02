@@ -1,5 +1,221 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Israel-Iran conflict: Kerala postpones SSLC, Plus 2 examinations in West Asia region",
+    "desc": "SSLC exams to be conducted on March 5 and higher secondary examinations to be held on March 5, 6, and 7 have been postponed. New dates to be announced later, says Kerala’s Minister for General Education V. Sivankutty",
+    "img": "https://th-i.thgim.com/public/incoming/nzd2tb/article70694158.ece/alternates/LANDSCAPE_1200/Should-not-be-hGM8F5NOQI.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/israel-iran-conflict-kerala-postpones-sslc-plus-2-examinations-in-west-asia-region/article70694124.ece",
+    "time": "2026-03-02T06:44:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Director Chidambaram booked in sexual assault case",
+    "desc": "Ernakulam South Police have registered a case against Chidambaram, the director of 'Manjummel Boys', after a 2022 complaint by a woman who alleges sexual assault. She claims he forced his way into her flat with sexual intent and behaved inappropriately. Investigators are pursuing the matter based on her account.",
+    "img": "https://static.toiimg.com/photo/msid-128939241,imgsize-51422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/manjummel-boys-director-chidambaram-booked-in-sexual-assault-case-woman-alleges-forced-entry-reports/articleshow/128939241.cms",
+    "time": "2026-03-02T06:32:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I’ll take the blame’: Shai Hope owns up as West Indies crash out at Eden",
+    "desc": "West Indies captain Shai Hope accepted blame for his team's T20 World Cup exit, admitting his slow start against India stalled their momentum. Despite a late surge, the 196-run target proved insufficient. Hope highlighted the dew factor and his winless toss record as challenges, while praising India's Sanju Samson's match-winning knock.",
+    "img": "https://static.toiimg.com/photo/msid-128939154,imgsize-124954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ill-take-the-blame-shai-hope-owns-up-as-west-indies-crash-out-of-t20-world-cup-at-eden/articleshow/128939141.cms",
+    "time": "2026-03-02T06:26:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bruno Mars marries to DJ Rashida in latest MV for ‘Risk It All’",
+    "desc": "Bruno Mars unveils the video for 'Risk It All,' a track from The Romantic. The visuals craft a cinematic wedding tale, led by Mars in a sharp cowboy-inspired suit, delivering a sweeping, cinematic romance. The romantic ballad and the long-awaited comeback have fans buzzing as Mars returns to the spotlight after years away.",
+    "img": "https://static.toiimg.com/photo/msid-128939029,imgsize-61180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bruno-mars-ends-10-year-solo-hiatus-with-the-romantic-marries-dj-rashida-in-risk-it-all-music-video-watch/articleshow/128939029.cms",
+    "time": "2026-03-02T06:25:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Shares of aviation firms, tour operators dive amid West Asia crisis",
+    "desc": "The stock of InterGlobe Aviation tanked 7.50%, while SpiceJet declined by 7.27% on the BSE. Shares of Yatra Online tumbled 11.14%, Easy Trip Planners slumped 9.39%, TBO TEK dived 8.19% and Thomas Cook dropped 5.40%",
+    "img": "https://th-i.thgim.com/public/incoming/rb5khy/article70694087.ece/alternates/LANDSCAPE_1200/IndiGo.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/shares-of-aviation-firms-tour-operators-dive-amid-west-asia-crisis/article70694052.ece",
+    "time": "2026-03-02T06:19:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajamouli praises Priyanka's performance in 'The Bluff'",
+    "desc": "Filmmaker S. S. Rajamouli and actor Mahesh Babu have lauded Priyanka Chopra for her powerful performance in her Hollywood film 'The Bluff'. Rajamouli praised her versatility, while Babu highlighted her engaging action and emotional portrayal. The trio is currently collaborating on the ambitious epic 'Varanasi', with plans to shoot in Antarctica.",
+    "img": "https://static.toiimg.com/photo/msid-128938916,imgsize-164142.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ss-rajamouli-praises-varanasi-star-priyanka-chopra-for-role-in-the-bluff-says-she-can-be-utterly-vulnerable-at-one-moment-and-ferociously-strong-the-next/articleshow/128938429.cms",
+    "time": "2026-03-02T06:18:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How will gold prices react this week to Middle East tensions? Key levels to watch out",
+    "desc": "Rising tensions in the Middle East and developments around US, Israel and Iran are expected to keep gold prices volatile this week, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.",
+    "img": "https://static.toiimg.com/photo/msid-128938729,imgsize-67610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-march-02-2026-week-should-you-buy-or-sell-mcx-gold/articleshow/128938579.cms",
+    "time": "2026-03-02T06:07:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 WC semi-final schedule, dates, times, venues — All you need to know",
+    "desc": "Team India secures a thrilling semi-final spot in the T20 World Cup 2026, setting up a high-voltage clash against England on March 5 in Mumbai. South Africa will face New Zealand in the first semi-final on March 4 in Kolkata. The winners will battle for the championship title on March 8 in Ahmedabad.",
+    "img": "https://static.toiimg.com/photo/msid-128938748,imgsize-89582.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-semi-final-schedule-dates-times-venues-all-you-need-to-know/articleshow/128938679.cms",
+    "time": "2026-03-02T06:07:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "109 persons from Karnataka stranded in West Asia as airspace closure disrupts flights",
+    "desc": "Relief Commissioner and Principal Secretary to the Revenue Department (Disaster Management) Munish Moudgil has urged people from Karnataka residing in the affected countries to strictly follow local advisories, contact Indian missions, and register on the Sarthi Sahayata portal",
+    "img": "https://th-i.thgim.com/public/incoming/sb2uz8/article70694061.ece/alternates/LANDSCAPE_1200/20260228526L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/109-persons-from-karnataka-stranded-in-west-asia-as-airspace-closure-disrupts-flights/article70694065.ece",
+    "time": "2026-03-02T06:07:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harrison Ford accepts lifetime honor at 2026 actor awards",
+    "desc": "Harrison Ford received the Lifetime Achievement Award at the Actor Awards 2026. The legendary actor accepted the honour with humour and gratitude. Woody Harrelson presented the award. Ford's six-decade career was celebrated. He spoke of his early struggles and thanked collaborators. The event highlighted his enduring vitality and resilience. Ford continues to be an active actor.",
+    "img": "https://static.toiimg.com/photo/msid-128938605,imgsize-405026.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harrison-ford-holds-back-his-tears-accepting-lifetime-achievement-honor-at-2026-actor-awards-i-was-not-an-overnight-sensation/articleshow/128938609.cms",
+    "time": "2026-03-02T05:58:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MHA alerts states as Middle East tensions soar; internet curbs, security tightened in Kashmir",
+    "desc": "The Ministry of Home Affairs has alerted states to potential tensions due to the Iran conflict, urging vigilance against inflammatory religious gatherings and radical preachers. Authorities are monitoring individuals and groups to prevent unrest, with precautionary measures already implemented in Jammu and Kashmir following protests over the killing of Iran's supreme leader.",
+    "img": "https://static.toiimg.com/photo/msid-128938482,imgsize-1809524.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mha-alerts-states-as-middle-east-tensions-soar-internet-curbs-security-tightened-in-kashmir/articleshow/128937575.cms",
+    "time": "2026-03-02T05:54:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Panic, anger ripple across Matua belt as SIR deletions reopen citizenship faultlines before Bengal polls",
+    "desc": "In Thakurnagar, the Matua sect's spiritual headquarters, residents possess Aadhaar, ration and voter cards but many fear these could be rendered meaningless as many availed these documents illegally and now their names have been deleted from the rolls",
+    "img": "https://th-i.thgim.com/public/incoming/jitic8/article70694059.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGUMFLK6PC.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/panic-anger-ripple-across-matua-belt-as-sir-deletions-reopen-citizenship-faultlines-before-bengal-polls/article70694039.ece",
+    "time": "2026-03-02T05:52:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ali Larter honors James Van Der Beek, her Varsity Blues co-star",
+    "desc": "Ali Larter honored her 'Varsity Blues' co-star James Van Der Beek at the 2026 Actor Awards, remembering his grace in facing his battle with colorectal cancer. Van Der Beek, who passed away in February 2026, was celebrated for his enduring legacy in film and television. His family and friends continue to mourn his loss.",
+    "img": "https://static.toiimg.com/photo/msid-128937939,imgsize-1029352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ali-larter-pays-emotional-tribute-to-james-van-der-beek-her-varsity-blues-co-star-at-the-2026-actor-award/articleshow/128937968.cms",
+    "time": "2026-03-02T05:31:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gambhir demands ‘special effort’ as India gear up for Wankhede semi-final",
+    "desc": "Gautam Gambhir praised Sanju Samson's match-winning 97 against the West Indies, highlighting his potential. However, the focus now shifts to the T20 World Cup semi-final against a formidable England side in Mumbai. Gambhir emphasized that India will require a 'special effort' and flawless execution to overcome the unbeaten English team.",
+    "img": "https://static.toiimg.com/photo/msid-128937967,imgsize-74022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/opportunity-to-do-something-special-gambhir-demands-special-effort-as-india-gear-up-for-semi-final-against-england/articleshow/128937898.cms",
+    "time": "2026-03-02T05:30:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Iran football federation president says World Cup participation in U.S. is in doubt",
+    "desc": "Iran has been drawn in Group G at the World Cup and is scheduled to play in Inglewood, California, against New Zealand on June 15 and Belgium on June 21 before finishing the first round against Egypt in Seattle on June 26",
+    "img": "https://th-i.thgim.com/public/incoming/i1juyw/article70693889.ece/alternates/LANDSCAPE_1200/2026-02-27T182102Z_1448269501_UP1EM2R1EZ0PA_RTRMADP_3_SOCCER-WORLDCUP-TROPHY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/iran-soccer-federation-president-says-world-cup-participation-in-us-is-in-doubt/article70693886.ece",
+    "time": "2026-03-02T05:18:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Varanasi' to be filmed in Antarctica, Priyanka CONFIRMS",
+    "desc": "Filmmaker SS Rajamouli's ambitious epic 'Varanasi' is set to make history by becoming the first Indian film shot in Antarctica. Starring Mahesh Babu and Priyanka Chopra, the team will brave sub-zero conditions at the Ross Ice Shelf for a segment exploring a lost civilization.",
+    "img": "https://static.toiimg.com/photo/msid-128936064,imgsize-169878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varanasi-to-be-filmed-in-antarctica-priyanka-chopra-confirms-in-tweet-to-mahesh-babu/articleshow/128935827.cms",
+    "time": "2026-03-02T05:16:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sonal updates fans on her safety in Dubai; 'PRAYING…'",
+    "desc": "Actress Sonal Chauhan, previously stranded in Dubai due to conflicts in the Middle East, has reassured fans that she is safe. She expressed gratitude for the concern shown and commended local authorities for ensuring public safety, urging people to remain calm. Earlier, Chauhan had appealed to Prime Minister Narendra Modi for help returning to India amid flight cancellations. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128937155,imgsize-105534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonal-chauhan-updates-fans-on-her-safety-in-dubai-as-us-iran-tensions-disrupt-travel-says-praying-for-everyone/articleshow/128937155.cms",
+    "time": "2026-03-02T05:08:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Wunmi Mosaku calls Michael B. Jordan a ‘gentleman’",
+    "desc": "At the 2026 Actors Awards, Wunmi Mosaku praised Michael B. Jordan as a 'gentleman' and revealed a thoughtful Mother's Day gesture he had made. Though Mosaku didn't win, Jordan captured Best Actor for Sinners, a film that also earned Best Ensemble, and he spoke of joy in celebrating fellow actors.",
+    "img": "https://static.toiimg.com/photo/msid-128937008,imgsize-58904.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-b-jordans-sinners-co-star-wunmi-mosaku-calls-him-a-gentleman-reveals-his-sweet-mothers-day-gesture/articleshow/128937008.cms",
+    "time": "2026-03-02T04:55:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Samson seals chase vs WI, Eng semifinal awaits",
+    "desc": "Sanju Samson's brilliant unbeaten 97 powered India into the T20 World Cup semifinals with a five-wicket victory over the West Indies. Despite a challenging target, Samson anchored the chase, showcasing his talent. Earlier, Jason Holder and Rovman Powell's late surge helped West Indies post a competitive 195.",
+    "img": "https://static.toiimg.com/photo/msid-128936916,imgsize-94082.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/superman-sanju-rescues-india-samsons-unbeaten-97-seals-chase-against-west-indies-england-semifinal-awaits/articleshow/128936742.cms",
+    "time": "2026-03-02T04:47:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Luke Thompson opens up about leading ‘Bridgerton 4’",
+    "desc": "Luke Thompson, who stepped into Benedict for Bridgerton's Season 4, found the experience smoother than expected, crediting the production's exceptional standards. He said he was thrilled to lead the series and noted the audience's strong connection to the show, while also enjoying watching Florence Hunt and Will Tilston grow as their characters evolve.",
+    "img": "https://static.toiimg.com/photo/msid-128936851,imgsize-4858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/luke-thompson-on-filming-bridgerton-4-press-tours-and-more-actual-doing-of-the-show-has-been-really-easy/articleshow/128936851.cms",
+    "time": "2026-03-02T04:46:27.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. officials skeptical of regime change in Tehran after Khamenei killing, say sources",
+    "desc": "Before and after the start of the attack, U.S. officials, including U.S. President Donald ​Trump, had suggested that toppling the nation's repressive governing system was one of several U.S. goals, in addition to ⁠crippling Iran's ballistic missile and nuclear programs",
+    "img": "https://th-i.thgim.com/public/incoming/kchfde/article70693874.ece/alternates/LANDSCAPE_1200/2026-03-02T024420Z_627078697_RC2ZVJA10EWF_RTRMADP_3_IRAN-CRISIS-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-officials-skeptical-of-regime-change-in-tehran-after-khamenei-killing-say-sources/article70693815.ece",
+    "time": "2026-03-02T04:43:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zimbabwe's boisterous fans bring Arun Jaitley Stadium to life",
+    "desc": "Zimbabwe's famed 'Castle Corner' set of supporters made themselves count in Sri Lanka as the team shocked Australia and the islanders in the T20 World Cup group stage. Having had their stay extended thanks to the team's heroic run and a benefactor, the set of six brought that energy to the Gautam Gambhir Stand at the Arun Jaitley Stadium on Sunday.",
+    "img": "https://static.toiimg.com/photo/msid-128936548,imgsize-181442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/castle-corner-paints-kotla-red-zimbabwes-boisterous-fans-bring-arun-jaitley-stadium-to-life/articleshow/128936383.cms",
+    "time": "2026-03-02T04:42:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Stars honoured in memoriam at the Actor Awards",
+    "desc": "In a somber nod to those we've lost this year, the latest Actor Awards paid tribute to industry legends. Van Der Beek and Dane (from Dawson's Creek and Grey's Anatomy, respectively) were remembered, while Catherine O'Hara received a posthumous Best Actress award for The Studio, accepted by Seth Rogen who lauded her generosity and talent.",
+    "img": "https://static.toiimg.com/photo/msid-128936750,imgsize-1944226.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-actor-awards-2026-catherine-ohara-eric-dane-rob-reiner-gene-hackman-and-others-honoured-in-memoriam/articleshow/128936750.cms",
+    "time": "2026-03-02T04:42:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI ropes in Zaheer Khan to groom pacers",
+    "desc": "The BCCI has enlisted former India fast bowler Zaheer Khan to mentor the country's emerging fast bowlers. Khan will lead specialized training camps at the Centre of Excellence in Bengaluru starting early March. This initiative aims to address the recent scarcity of fast-bowling talent in Indian cricket.",
+    "img": "https://static.toiimg.com/photo/msid-128936699,imgsize-16104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-ropes-in-zaheer-khan-to-groom-pacers/articleshow/128936705.cms",
+    "time": "2026-03-02T04:38:21.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Sandra Bernhard's reaction to ‘The White Lotus S04’ casting",
     "desc": "Sandra Bernhard is headed to The White Lotus Season 4, taking on a coveted role she’s chased for years. At the Actor Awards 2026, she shared how thrilled she is and dropped a nod to her enduring relationship with series creator Mike White. Production kicks off in France in April 2026, signaling more biting satire and high-stakes drama.",
@@ -27,15 +243,6 @@ const newsData_en = [
     "time": "2026-03-02T04:29:17.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Iran soccer federation president says World Cup participation in U.S. is in doubt",
-    "desc": "Iran has been drawn in Group G at the World Cup and is scheduled to play in Inglewood, California, against New Zealand on June 15 and Belgium on June 21 before finishing the first round against Egypt in Seattle on June 26",
-    "img": "https://th-i.thgim.com/public/incoming/i1juyw/article70693889.ece/alternates/LANDSCAPE_1200/2026-02-27T182102Z_1448269501_UP1EM2R1EZ0PA_RTRMADP_3_SOCCER-WORLDCUP-TROPHY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/iran-soccer-federation-president-says-world-cup-participation-in-us-is-in-doubt/article70693886.ece",
-    "time": "2026-03-02T04:25:45.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Flu shot to change this year as new H3N2 strain spreads fast",
     "desc": "India is updating its seasonal flu vaccine for the 2026-27 season to combat a rapidly spreading new A(H3N2) variant. The World Health Organization's recommendations highlight the need for this change due to the strain's increased transmissibility. Experts urge early vaccination, especially for vulnerable groups, to prevent severe illness and hospitalizations.",
@@ -43,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/flu-shot-to-change-this-year-as-new-h3n2-strain-spreads-fast/articleshow/128936251.cms",
     "time": "2026-03-02T04:18:45.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. officials skeptical of regime change in Tehran after Khamenei killing, say sources",
-    "desc": "Before and after the start of the attack, U.S. officials, including U.S. President Donald ​Trump, had suggested that toppling the nation's repressive governing system was one of several U.S. goals, in addition to ⁠crippling Iran's ballistic missile and nuclear programs",
-    "img": "https://th-i.thgim.com/public/incoming/kchfde/article70693874.ece/alternates/LANDSCAPE_1200/2026-03-02T024420Z_627078697_RC2ZVJA10EWF_RTRMADP_3_IRAN-CRISIS-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-officials-skeptical-of-regime-change-in-tehran-after-khamenei-killing-say-sources/article70693815.ece",
-    "time": "2026-03-02T04:18:00.000Z"
   },
   {
     "cat": "Sports",
@@ -126,6 +324,15 @@ const newsData_en = [
     "time": "2026-03-02T03:21:23.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "How much will it cost to watch the FIFA World Cup?",
+    "desc": "World Cup tickets in North America are proving costly, with opening match prices near $900 and the final exceeding $8,000. Despite millions of tickets made available, record demand and dynamic pricing have driven up costs, with resale prices reaching astronomical figures. Fans also face significant expenses for parking.",
+    "img": "https://static.toiimg.com/photo/msid-128934956,imgsize-162312.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/explained-how-much-will-it-cost-to-watch-the-fifa-world-cup/articleshow/128934876.cms",
+    "time": "2026-03-02T03:18:37.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Annual Writers Guild Awards from West Coast has been cancelled",
     "desc": "The West Coast ceremony of the 78th annual Writers Guild Awards, scheduled for March 8 in Los Angeles, has been cancelled due to an ongoing staff union strike. This decision was made as negotiations have not yet yielded a resolution. The East Coast ceremony in New York City will proceed as planned, as the two organizations operate independently.",
@@ -144,15 +351,6 @@ const newsData_en = [
     "time": "2026-03-02T02:56:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Are Zendaya and Tom Holland ALREADY married?",
-    "desc": "Zendaya and Tom Holland's wedding might have already occurred, according to stylist Law Roach. He cryptically announced, \"The wedding has already happened. You missed it!\" This follows Zendaya sporting a new gold band, replacing her diamond engagement ring. Despite no official confirmation, fans are buzzing about the private ceremony, which Roach previously hinted would be intimate.",
-    "img": "https://static.toiimg.com/photo/msid-128934366,imgsize-237144.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/did-zendaya-and-tom-holland-secretly-get-married-heres-what-law-roach-reveals/articleshow/128934261.cms",
-    "time": "2026-03-02T02:51:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Good things happen to good people who wait’: Surya’s emotional tribute to Samson",
     "desc": "Sanju Samson's spectacular unbeaten 97 guided India to a thrilling five-wicket victory over the West Indies at Eden Gardens, securing a T20 World Cup semifinal spot. Skipper Suryakumar Yadav lauded Samson's patience and hard work, highlighting the team's character under pressure. This crucial win sets up a semi-final clash against England.",
@@ -162,15 +360,6 @@ const newsData_en = [
     "time": "2026-03-02T02:49:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Suniel Shetty explains why SRK's stardom remains UNMATCHED",
-    "desc": "Suniel Shetty lauded Shah Rukh Khan’s unparalleled global stardom, crediting it to SRK’s unwavering commitment, continual reinvention, grace, and a humane approach to fame. He noted SRK’s focus on his craft over social media, drawing contrast with stars who let their work speak for itself. In his view, this dedication is the cornerstone of SRK’s enduring worldwide appeal. Read on to know more in detaaaaail",
-    "img": "https://static.toiimg.com/photo/msid-128934069,imgsize-120458.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-explains-why-shah-rukh-khans-stardom-remains-unrivalled-says-he-isnt-social-media-driven-just-like-ranbir-kapoor/articleshow/128934069.cms",
-    "time": "2026-03-02T02:41:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How Sanju Samson unlocked his true potential",
     "desc": "On Sunday, Sanju Samson delivered a defining 97 not out in a high-pressure T20 World Cup chase at the Eden Gardens. Years of watching greats like Kohli and Rohit from the dugout shaped his composure, while a stable base unlocked his power. It was a knock of high quality that may redefine his career.",
@@ -178,69 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/stable-base-reminders-of-class-and-a-chase-in-zen-mode-how-sanju-samson-unlocked-his-true-potential/articleshow/128933947.cms",
     "time": "2026-03-02T02:38:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Thaai Kizhavi' OTT: Where to stream comedy drama",
-    "desc": "Radhikaa Sarathkumar's comedy-drama 'Thaai Kizhavi' is enjoying a strong theatrical run, with impressive box office collections and high audience occupancy. The film, backed by Sivakarthikeyan, is lauded for its blend of humor and women empowerment themes, with Radhikaa's performance receiving widespread praise. JioHotstar has secured the OTT rights, with a digital premiere anticipated in late March 2026.",
-    "img": "https://static.toiimg.com/photo/msid-128934028,imgsize-98298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-ott-release-where-to-stream-radhikaa-sarathkumars-comedy-drama/articleshow/128934028.cms",
-    "time": "2026-03-02T02:37:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ted Danson brings daughter Kate Danson at Actors Awards 2026",
-    "desc": "At the Actors Awards 2026, Ted Danson arrived with his daughter Kate by his side, while Mary Steenburgen babysat their grandson offsite. Although Danson was nominated in the comedy series category, he did not win. Kate praised her father's humor and leadership off-screen, hinting at a potential television reunion.",
-    "img": "https://static.toiimg.com/photo/msid-128933993,imgsize-119460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/actor-awards-2026-ted-danson-shares-a-sweet-father-daughter-moment-with-kate-danson/articleshow/128933993.cms",
-    "time": "2026-03-02T02:34:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jennifer Aniston",
-    "desc": "Jennifer Aniston and Brad Pitt's 2020 SAG Awards reunion captured hearts. They met backstage after winning awards. Their warm hug and Pitt holding Aniston's arm showed enduring friendship. Aniston later confirmed they are friends and talk. The moment highlighted their mature post-divorce bond, defying tabloid speculation. This event remains a memorable Hollywood interaction.",
-    "img": "https://static.toiimg.com/photo/msid-128933930,imgsize-850117.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-aniston-and-brad-pitts-2020-sag-awards-backstage-reunion-still-defines-hollywoods-most-memorable-ex-spouse-moment/articleshow/128933937.cms",
-    "time": "2026-03-02T02:27:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Catherine O’Hara wins Actor Award posthumously",
-    "desc": "Late Hollywood icon Catherine O'Hara was posthumously celebrated at the SAG-AFTRA Actor Awards, clinching Outstanding Performance by a Female Actor in a Comedy Series for 'The Studio'. Her co-star Seth Rogen accepted the honour, highlighting her immense talent, generosity, and transformative contributions to the show, proving genius and kindness can coexist.",
-    "img": "https://static.toiimg.com/photo/msid-128933520,imgsize-154398.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/actor-award-catherine-ohara-wins-best-actress-in-a-comedy-series-posthumously-for-the-studio-gets-standing-ovation/articleshow/128933466.cms",
-    "time": "2026-03-02T02:17:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dominiq Ponder's cause of death: Colorado QB's sudden death at 23 leaves the NFL world stunned",
-    "desc": "Colorado football mourns the tragic loss of quarterback Dominiq Ponder, who died at 23 on March 1, 2026. He was one of the budding stars of the Colorado team. His sudden death was confirmed by Deion Sanders. As per reports, he died due to an accident. The accident, involving a Tesla that lost control and caught fire, sent shockwaves through the team. Coach Deion Sanders and teammates remembered Ponder for his positive energy and leadership, highlighting his promising, albeit brief, career.",
-    "img": "https://static.toiimg.com/photo/msid-128933634,imgsize-31160.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/nfl/news/dominiq-ponders-cause-of-death-colorado-qbs-sudden-death-at-23-leaves-the-nfl-world-stunned/articleshow/128933499.cms",
-    "time": "2026-03-02T02:11:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mammootty wishes for 'humanity to win'",
-    "desc": "Renowned actor Mammootty expressed deep concern over the escalating Iran-Israel-US tensions, wishing for humanity's triumph amidst unpredictable geopolitical outcomes. His remarks coincided with the release of the second-look poster for his upcoming film 'Patriot,' a highly anticipated espionage thriller co-starring Mohanlal and Kunchacko Boban, slated for a global release on April 23, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-128933507,imgsize-71096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/patriot-actor-mammootty-on-iranisraelus-tensions-says-he-wishes-for-humanity-to-win/articleshow/128933507.cms",
-    "time": "2026-03-02T02:07:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The couples who dazzled on red carpet",
-    "desc": "At the 32nd Actor Awards 2026—previously the SAG Awards—Hollywood’s brightest gathered in force, spotlighting couple appeal on the red carpet. Themed around vintage '20s/'30s glamour with a contemporary edge, Jesse Plemons, Kirsten Dunst, and Emma Stone led a night of iconic silhouettes and palpable romance, a chic tribute to collaboration.",
-    "img": "https://static.toiimg.com/photo/msid-128933460,imgsize-113478.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/date-night-at-the-actor-awards-2026-ryan-coogler-and-zinzi-coogler-leslie-bibb-and-sam-rockwell-and-more/articleshow/128933255.cms",
-    "time": "2026-03-02T02:04:38.000Z"
   },
   {
     "cat": "Business",
@@ -261,15 +387,6 @@ const newsData_en = [
     "time": "2026-03-02T01:57:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Bridgerton’ rules out recasting Daphne Bridgerton and Simon Basset roles",
-    "desc": "Bridgerton's showrunner Jess Brownell has clarified that Daphne Bridgerton and Simon Basset will not be recast. She stated that recasting would disrespect the original actors' contributions. However, Brownell expressed a desire to bring back the beloved characters for meaningful storylines in future seasons. The show continues to focus on new romances, honoring its past while moving forward.",
-    "img": "https://static.toiimg.com/photo/msid-128933363,imgsize-713174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-showrunner-jess-brownell-rules-out-recasting-daphne-bridgerton-and-simon-basset-it-would-be-a-disservice/articleshow/128933378.cms",
-    "time": "2026-03-02T01:57:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "West Asia conflict to spark volatility in forex markets, pressure on Rupee",
     "desc": "The rupee is poised for a volatile start to March, driven by global capital seeking safe havens amid escalating Gulf tensions. Dealers anticipate pressure from portfolio outflows and concerns over India's trade deficit and energy supplies, with the RBI expected to intervene to manage volatility.",
@@ -286,24 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-street-investors-prepare-for-turbulent-week-amid-strife/articleshow/128933309.cms",
     "time": "2026-03-02T01:53:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mission: Impossible', 'The Last of Us' win",
-    "desc": "Impossible - The Final Reckoning' clinching the film award and 'The Last of Us' taking the television series honour. These wins position them as strong contenders for the upcoming Academy Awards. Notably, the Oscars will introduce a dedicated stunt category in 2028, a move championed by filmmaker David Leitch.",
-    "img": "https://static.toiimg.com/photo/msid-128932552,imgsize-147660.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/actor-awards-2026-tom-cruises-mission-impossible-the-final-reckoning-and-pedro-pascals-the-last-of-us-win-early-awards-for-best-stunt-ensemble/articleshow/128932482.cms",
-    "time": "2026-03-02T01:44:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'MM' BO day 3: Sci-fi film nears Rs 1.5 cr",
-    "desc": "\"Masthishka Maranam\" has collected Rs 1.44 crore in its opening three days, signaling a solid start for the genre-bending sci-fi thriller headlined by Rajisha Vijayan as a father venturing into virtual reality. Positive social media buzz applauds its bold concept and technical finesse, hinting at a modest but encouraging box-office trajectory.",
-    "img": "https://static.toiimg.com/photo/msid-128933113,imgsize-72966.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/masthishka-maranam-box-office-collections-day-3-rajisha-vijayan-film-holds-steady-sci-fi-drama-nears-rs-1-5-cr/articleshow/128933113.cms",
-    "time": "2026-03-02T01:44:01.000Z"
   },
   {
     "cat": "Business",
@@ -486,15 +585,6 @@ const newsData_en = [
     "time": "2026-03-01T15:13:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "V-P launches remote-controlled drone-based tranquillizer system in Thrissur",
-    "desc": "The drone is equipped with a capture gun, tranquillizer syringe and medication, all operated remotely. Capable of functioning from a distance of up to 500 metres, the system ensures enhanced safety for wildlife experts, assisting personnel and the public during high-risk operations",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/v-p-launches-remote-controlled-drone-based-tranquillizer-system-in-thrissur/article70691975.ece",
-    "time": "2026-03-01T15:01:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Zimbabwe stuck in India amid closure of airspace in Middle East",
     "desc": "After the US and Israel's airstrikes on Iran and their counter-attack on US military installations around the Gulf, it has affected the airspace in the global business hub of Dubai. Zimbabwe were due to fly out through that region on their way back home after a positive tournament.",
@@ -511,60 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-sikandar-raza-restores-zimbabwes-pride-albeit-in-losing-cause/articleshow/128916697.cms",
     "time": "2026-03-01T13:15:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Healy finishes on a high as Australia sweep India 3-0 in ODI series",
-    "desc": "Alyssa Healy concluded her ODI career with a brilliant century, scoring 158 as Australia posted 409/7. Beth Mooney also contributed an unbeaten 106, leading Australia to a commanding 185-run victory over India in the final ODI. This win secured a 3-0 series sweep for Australia.",
-    "img": "https://static.toiimg.com/photo/msid-128915792,imgsize-69206.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/perfect-farewell-alyssa-healy-finishes-on-a-high-as-india-crushed-3-0-in-odi-series-vs-australia/articleshow/128915627.cms",
-    "time": "2026-03-01T12:38:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "With homeland under attack, Iran women chase FIFA World Cup dream",
-    "desc": "Football authorities are supporting Iran's women's team at the Women's Asian Cup in Australia following recent military strikes in Iran. The Asian Football Confederation is monitoring the situation and prioritizing the safety of all involved. The Iranian team aims to showcase their abilities and qualify for the World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-128914138,imgsize-65878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/us-israel-strike-iran-with-homeland-under-attack-iran-women-chase-fifa-world-cup-dream/articleshow/128913778.cms",
-    "time": "2026-03-01T11:30:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Extremely critical': Former India coach pins hopes on Bumrah and Chakaravarthy",
-    "desc": "Former batting coach Sanjay Bangar stresses the need for disciplined bowling from India against the West Indies' aggressive batting. He highlights the importance of Jasprit Bumrah and Varun Chakaravarthy executing their plans, particularly advising Chakaravarthy to bowl fuller to exploit potential LBW or bowled dismissals against key batsmen like Shimron Hetmyer.",
-    "img": "https://static.toiimg.com/photo/msid-128913838,imgsize-180084.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/extremely-critical-former-india-coach-pins-hopes-on-jasprit-bumrah-and-varun-chakaravarthy/articleshow/128913829.cms",
-    "time": "2026-03-01T11:29:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Israel-US strike on Iran: PCB confirms ODI match cancelled in Abu Dhabi",
-    "desc": "Security concerns in Abu Dhabi have led to the cancellation of the second unofficial one-day match between Pakistan Shaheens and England Lions. The England and Wales Cricket Board cited safety as their top priority, also delaying the England Women's team's trip. The disruption follows military strikes and missile fire in the region, causing airspace closures and flight cancellations.",
-    "img": "https://static.toiimg.com/photo/msid-128912778,imgsize-65262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/israel-us-strike-on-iran-pcb-confirms-odi-match-cancelled-in-abu-dhabi-amid-middle-east-tensions/articleshow/128912719.cms",
-    "time": "2026-03-01T10:31:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bairstow, Flintoff, England Lions stuck in Dubai amid Middle East tensions",
-    "desc": "England Lions and Pakistan Shaheens are stranded in Dubai after Iran’s air strikes led to UAE airspace closure, cancelling their match. Jonny Bairstow, Andrew Flintoff, and others are stuck. The ECB says, “The safety and security of our teams and staff is our top priority,” while Bairstow sought flight updates on X.",
-    "img": "https://static.toiimg.com/photo/msid-128912497,imgsize-87116.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jonny-bairstow-andrew-flintoff-england-lions-stuck-in-dubai-as-middle-east-tensions-escalate/articleshow/128912407.cms",
-    "time": "2026-03-01T10:13:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We are stuck here': Blast near Dubai airport clouds Sindhu's All England opener",
-    "desc": "Two-time Olympic medallist P V Sindhu and her coach faced a terrifying ordeal at Dubai International Airport after an explosion near their location. Stranded due to flight suspensions amid Middle East tensions, they are anxiously awaiting departure for the All England Championships. The Badminton World Federation is monitoring the situation closely, prioritizing player safety.",
-    "img": "https://static.toiimg.com/photo/msid-128912222,imgsize-31344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/we-are-stuck-here-blast-near-dubai-airport-clouds-p-v-sindhus-all-england-opener-in-birmingham-amid-tensions-in-middle-east/articleshow/128911875.cms",
-    "time": "2026-03-01T10:06:02.000Z"
   },
   {
     "cat": "World",
@@ -610,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-final-between-jammu-and-kashmir-and-karnataka/article70687469.ece",
     "time": "2026-03-01T05:45:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "For 60 lakh 'doubtful' voters, it's a race against time to get on electoral roll",
-    "desc": "Around 60 lakh electors in West Bengal have been classified as 'doubtful' and await adjudication by judicial officers, following a Supreme Court directive. These voters, potentially illegal immigrants from Bangladesh, will be excluded from the electoral list until their cases are resolved, creating a race against time before the upcoming assembly elections.",
-    "img": "https://static.toiimg.com/photo/msid-128904090,imgsize-1862484.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/for-61-lakh-doubtful-voters-its-a-race-against-time-to-get-on-electoral-roll/articleshow/128904060.cms",
-    "time": "2026-03-01T03:06:48.000Z"
   },
   {
     "cat": "Business",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/chepauk-and-its-colourful-legacy-of-delivering-classics/article70677094.ece",
     "time": "2026-02-26T07:34:38.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "SIM-binding directions for platforms to stay: Minister",
-    "desc": "The November 2025 order, due for compliance this month, will not be extended, says Communications Minister. He says ‘national security’ and ‘fraud’ were considered in issuing this order, which WhatsApp parent Meta has pushed back on through industry associations.",
-    "img": "https://th-i.thgim.com/public/incoming/48wfes/article70677009.ece/alternates/LANDSCAPE_1200/TH24-Aroon-WhatGCDFKPO1G.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/no-change-in-sim-binding-directions-to-platforms-scindia/article70676102.ece",
-    "time": "2026-02-25T20:52:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup 2026",
-    "desc": "The host never really recovered from the morale-crushing fall of its in-form batter and eventually crashed out of the T20 World Cup with a 61-run loss to New Zealand, its second straight defeat in the Super Eight.",
-    "img": "https://th-i.thgim.com/public/incoming/gt77jr/article70677016.ece/alternates/LANDSCAPE_1200/Sri_Lanka_New_Zealand_T20_WCup_Cricket_27193.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-2026-new-zealand-sends-sri-lanka-packing/article70677005.ece",
-    "time": "2026-02-25T18:13:58.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How are Indian firms training LLMs?",
-    "desc": "Why is training a Large Language Model on Indian soil with Indian capital a challenge? How has the IndiaAI Mission subsidised efforts to conduct training in India? Why is a Mixture of Experts (MoE) architecture inexpensive than other comparable models?",
-    "img": "https://th-i.thgim.com/public/incoming/d8gif8/article70676916.ece/alternates/LANDSCAPE_1200/PTI02_19_2026_000650B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/how-are-indian-firms-training-llms-explained/article70676898.ece",
-    "time": "2026-02-25T17:10:00.000Z"
   }
 ];
