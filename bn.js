@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "যুদ্ধ ইরান-ইজরায়েলে হলেও, দাম বাড়তে পারে ভারতীয় বাজারে! ‘টার্গেট’ হরমুজ প্রণালী, কেন চিন্তা ভারতের?",
+    "desc": "সম্প্রতি হরমুজ প্রণালী দিয়ে যাওয়ার সময় একটি ওয়েল ট্যাঙ্কারকে টার্গেট করে বিস্ফোরণ ঘটিয়েছে ইরান৷ সেই ট্যাঙ্কারে ১৫ জন ভারতীয় নাবিক ছিলেন বলে জানা গিয়েছে৷ কালো ধোঁয়ায় ঢেকে গিয়েছে গোটা এলাকা৷ ব্যাহত হতে পারে তেল রফতানি৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/isarel-iran-conflict-1-2026-03-6b073a7a94b25d3597ef5aa254eb7972-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/israel-iran-conflict-oil-tanker-hit-in-strait-of-hormuz-near-oman-four-sailors-injured-crew-evacuated-sta-2564420.html",
+    "time": "2026-03-02T03:41:02.000Z"
+  },
+  {
+    "cat": "World",
     "title": "একটা শটেই ৪৮ জন নেতা মারা গিয়েছে! ইরানে আমেরিকার হামলা প্রসঙ্গে বললেন ট্রাম্প",
     "desc": "ট্রাম্প বলেছেন, এই যৌথ অপারেশন ইরানের নেতৃত্বকে বড় ধাক্কা দিয়েছে। উনি দাবি করেছেন, “৪৮ ইরানের নেতার একটি অপারেশনে মৃত্যু হয়েছে”। পেন্টাগন আর Israeli Defence Forces (IDF) এখনও এই হামলার প্রভাব বিশ্লেষণ করছে, যেখানে ইরানের সর্বোচ্চ নেতা আরও অনেক গুরুত্বপূর্ণ নেতৃত্ব মারা গিয়েছেন।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/trump-6-2026-02-8ae1a5f3c0f16079b745681d4b2c6365-3x2.jpg",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/short-videos/sports/sourav-ganguly-dona-ganguly-celebrates-their-29-marriage-anniversary-by-cutting-cake-pbd-2553647.html",
     "time": "2026-02-23T08:11:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বন্দেভারত, রাজধানীর মতো ট্রেন রুট! কামাখ্যা-নিউ বঙাইগাঁও-ডাংতল সেকশনের ১৫৪ কিলোমিটার ট্র্যাক পরিদর্শনে রেলের জেনারেল ম্যানেজার",
-    "desc": "এই রুটেই ছোট বন্দে ভারত থেকে রাজধানী এক্সপ্রেস ট্রেন! নলবাড়ি, বরপেটা রোড এবংনিউ বঙাইগাঁও-এ স্টেশনের বিস্তারিত পরিদর্শন করলেন উত্তর-পূর্ব রেলের জেনারেল ম্যানেজার শ্রী চেতন কুমার শ্রীবাস্তব। এই স্টেশনগুলিতে উন্নয়নমূলক কাজ, যাত্রী সুযোগ সুবিধা, স্টেশন আধুনিকীকরণ এবং সামগ্রিক পরিষেবার মানের উপর বাড়তি নজর দেওয়া হচ্ছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj-train-track-image-2026-02-cc10799e406b12769fc7cd58ad897f03-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/west-bengal/indian-railways-vande-bharat-express-to-rajdhani-express-train-route-general-manager-of-railways-inspects-154-km-track-of-kamakhya-new-bongaigaon-dangtal-section-sanj-2553102.html",
-    "time": "2026-02-23T07:50:03.000Z"
   }
 ];

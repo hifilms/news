@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Suryakumar Yadav bows down to Sanju Samson, reacts to his match-winning knock vs West Indies",
+    "desc": "Sanju Samson stole the show on Sunday night with a match-winning knock of unbeaten 97 runs against West Indies in India’s final Super Eights clash at the Eden Gardens in Kolkata. Chasing 196 runs to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-bows-down-to-sanju-samson-reacts-to-his-match-winning-knock-vs-west-indies-watch-2026-03-02-1032228",
+    "time": "2026-03-02T04:00:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson overcomes mental demons to script history, help India beat West Indies",
+    "desc": "A year ago, Sanju Samson was widely regarded as a crucial piece of India’s T20 setup. For years, fans and former players urged the team management to give him a consistent run, but with stalwarts...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-overcomes-mental-demons-to-script-history-help-india-beat-west-indies-2026-03-02-1032227",
+    "time": "2026-03-02T02:00:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India head coach highlights 'team sport' philosophy after historic win over West Indies",
     "desc": "Sanju Samson played some phenomenal cricket to help India beat West Indies by five wickets. With that, India qualified for the semi-finals of the T20 World Cup. The Kerala batter arguably played one of the...",
     "img": "",
@@ -70,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-rinku-singh-not-playing-in-india-vs-west-indies-clash-in-t20-world-cup-2026-03-01-1032194",
     "time": "2026-03-01T13:17:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Varun Chakaravarthy's mystery to play key role for India in must-win clash, here's why",
-    "desc": "West Indies will face India today as both teams face a must-win situation to qualify for the semifinals of the T20 World Cup. The match is set to take place at the Eden Gardens in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-varun-chakaravarthy-s-mystery-to-play-key-role-for-india-in-must-win-clash-here-s-why-2026-03-01-1032185",
-    "time": "2026-03-01T12:13:54.000Z"
   }
 ];
