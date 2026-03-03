@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "অরিজিৎ সিং-এর দোল! স্কুটিতে বসেই অরিজিতের হোলি খেলা, প্রতিবেশীদের বললেন, \"বেশি রং দিও না\"",
+    "desc": "দোলের দিন এমনই এক সফরে তাঁকে রং মাখাতে আসেন পাড়ার কয়েকজন ছোট ছেলেমেয়ে৷ যাদের দেখে হাসেন অরিজিৎ৷ তবে বলেন, একটু কম রং দিতে! ভিডিও দেখে যা বোঝা গিয়েছে যে এর আগেও তাঁকে কেউ রং মাখিয়েছে৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Atijit-Singh-Holi-2026-03-6404f83480af96a9d9e34437a1e9b23e-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/arijit-singh-holi-singer-in-his-scooter-children-comes-and-apply-color-on-his-face-old-video-viral-pbd-2567493.html",
+    "time": "2026-03-03T14:51:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভারতের ৫০০ টাকার নোট দিলে 'ইজরায়েলে' কত পাবেন জানেন...? চমকে দেবে হিসেব, গ্যারান্টি!",
+    "desc": "ইজরায়েল নিয়ে তো খুব চায়ের কাপে তুফান তুলছেন! আচ্ছা, ধরুন আপনার কাছে ৫০০ ভারতীয় টাকা আছে এবং আপনি সেই নোট নিয়ে ইজরায়েলি মুদ্রায় তা বিনিময় করতে চান। ঠিক কত হাতে আসবে বলুন তো? আসুন আজ এই প্রতিবেদনে জেনে নেওয়া যাক বিনিময়ে আপনি কত টাকা পাবেন। উত্তরটি কিন্তু সত্যিই অবাক করার মতো হতে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/israel-1-2026-03-97cf198b29ef270c899280b7ffaab438-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-israeli-shekel-do-you-know-how-much-you-will-get-in-israel-if-you-give-an-indian-500-rupee-note-the-calculation-will-surprise-you-guaranteed-sanj-2567468.html",
+    "time": "2026-03-03T13:49:13.000Z"
+  },
+  {
     "cat": "World",
     "title": "ভারত থেকে লন্ডনের বিমান ভাড়া ৯ লাখ টাকা, না দিলে ২৫ ঘণ্টার লম্বা যাত্রা! ইরান সঙ্কটে বিপাকে ভারতীয় যাত্রীরা",
     "desc": "মধ্যপ্রাচ্যের অস্থিরতার জেরে বিপাকে পড়েছেন ভারত ও লন্ডনের মধ্যে যাতায়াত করা যাত্রীরা। কারণ বহু যাত্রী ঠিকমতো ভেঙে যাত্রা করতে পারছেন না। তাই যাত্রীদের ভরসা লম্বা ওয়ান-স্টপ যাত্রা অথবা একমাত্র নন-স্টপ সিট, যার দাম ৯.১২ লাখ টাকারও বেশি, এই দুইয়ের মধ্যে বেছে নিতে হচ্ছে।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/south-24-parganas-sunflower-cultivation-tips-sundarbans-sunflower-cultivation-saline-soil-success-farming-tips-l18-local18-2557015.html",
     "time": "2026-02-25T09:31:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "২৬ ও ২৭ ফেব্রুয়ারি এবং ২ মার্চ! রাজ্যসভা নির্বাচনের আগে সব বিধায়কদের নির্দিষ্ট নির্দেশ দিয়ে দিল তৃণমূল",
-    "desc": "পশ্চিমবঙ্গের রাজ্যসভার পাঁচ জন সাংসদের মেয়াদ শেষ হচ্ছে আগামী ২ এপ্রিল। রাজ্য বিধানসভার আগে অনুষ্ঠিত হতে চলেছে আরও একটি ভোট৷ ঘোষণা হয়ে গেল ভোটের দিনক্ষণ৷ পশ্চিমবঙ্গে রাজ্যসভায় ফাঁকা হতে চলেছে ৫টি আসন। আসন সংখ্যার নিরিখে তৃণমূল কংগ্রেস ও বিজেপি বিধায়ক যথাক্রমে ৪টি ও ১টি করে সাংসদ পাবেন৷ যদি অতিরিক্ত প্রার্থী কেউ না দেয় তাহলে বিনা প্রতিদ্বন্দ্বিতায় সাংসদ নির্বাচিত হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/TV_5784198_parliament_1.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/rajya-sabha-elections-preparation-has-been-started-in-tmc-and-bjp-here-is-the-recent-update-sta-2556591.html",
-    "time": "2026-02-25T03:57:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "নদিম-শ্রবণের সুর আর বিয়ের আবেগঘন মুহূর্ত, এই সুপারহিট গান এখন নতুন করে ভাইরাল ! সবাই বানাচ্ছেন রিলসও",
-    "desc": "যদি আপনি বলিউড গানের ভক্ত হন, তাহলে ‘তেরি দুলহন সাজাউঙ্গি’ অবশ্যই আপনার নস্টালজিয়া তালিকায় থাকবে। ২০০৫ সালে মুক্তি পাওয়া ‘বরসাত’ ছবির এই গানটা সেই সময়ের দারুণ হিট ছিল। এই গানের সবচেয়ে বড় আকর্ষণ ছিল এর কাস্টিং। বড় পর্দায় একসঙ্গে প্রিয়াঙ্কা চোপড়া আর বিপাশা বসুকে দেখা ফ্যানদের জন্য একদম স্পেশাল ছিল। এটা একদম পারফেক্ট বিয়ের গান, যেখানে বিয়ের রীতিনীতি, বান্ধবীদের মজা আর একটু ইমোশনাল টাচও আছে। গানে প্রিয়াঙ্কা আর বিপাশার কেমিস্ট্রি আর তাদের ডান্স মুভস এই গানটাকে প্রতিটা বিয়ে আর সঙ্গীত সঙ্গে প্রাণ করে তুলেছিল। বিপাশার ‘দুলহন লুক’ আর প্রিয়াঙ্কার সাদামাটা স্টাইল গানে আলাদা মাত্রা এনে দিয়েছিল। এই গানটা কৈলাশ খের আর অলকা ইয়াগনিক গেয়েছিলেন, যেটা শুনতে খুবই মিষ্টি লাগে। আর নদিম-শ্রবণের মিউজিক এই গানে প্রাণ এনে দিয়েছিল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Dulhan-Sajaungi-Song-2026-02-1b65a5c131e9be9e2f7250ab2d7ac430-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/entertainment/viral-song-social-priyanka-chopra-bipasha-basu-film-barsaat-emotional-wedding-song-teri-dulhan-sajaoongi-sung-by-alka-yagnik-ss-2556426.html",
-    "time": "2026-02-25T03:15:59.000Z"
   }
 ];

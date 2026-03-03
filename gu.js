@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "જો આવું થાય તો એક જ દિવસે રમાશે બંને સેમિફાઇનલ, જાણો શું છે ICCનો &amp;#039;પ્લાન B&amp;#039;",
+    "desc": "T20 વર્લ્ડ કપ 2026ની સેમિફાઇનલમાં દક્ષિણ આફ્રિકા, ન્યુઝીલેન્ડ, ભારત અને ઇંગ્લેન્ડ ફાઇનલમાં સ્થાન મેળવવા માટે એકબીજા સામે ટકરાશે. પ્રથમ સેમિફાઈનલ 4 માર્ચ અને બીજી 5 માર્ચે રમાશે, પરંતુ બંને સેમિફાઇનલ એક જ દિવસે પણ યોજાઈ શકે છે. આની પાછળ ICCનો પ્લાન B છે, જેના વિશે તમે કદાચ જાણતા નહીં હોવ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-wc-2026-semifinals-rules-both-matches-will-be-played-on-same-day-know-how-467080 ",
+    "time": "2026-03-03T15:28:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ઈરાન યુદ્ધ વચ્ચે ભારતનો તેલનો ભંડાર કેટલા દિવસ ચાલશે? જો યુદ્ધ ન અટક્યું તો શું ?",
+    "desc": "મધ્ય પૂર્વમાં ચાલી રહેલા સંઘર્ષ વચ્ચે હોર્મુઝ સ્ટ્રેટ બંધ થવાથી વૈશ્વિક તેલ બજારમાં ખળભળાટ મચી ગયો છે. વિશ્વનું લગભગ 20 ટકા ક્રૂડ ઓઇલ આ સાંકડા દરિયાઈ માર્ગમાંથી પસાર થાય છે, અને હવે, ઈરાન દ્વારા તેના બંધ કરવાની જાહેરાત બાદ, તેલના ભાવ આસમાને પહોંચી રહ્યા છે. જોકે, ભારત માટે થોડી રાહત છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/how-long-will-india-oil-reserves-last-amid-iran-war-government-provides-important-information-467068 ",
+    "time": "2026-03-03T13:24:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાનમાં એક સાથે 165 બાળકીઓના નીકળ્યા જનાજા, Video જોઈ કાળજું ચીરાઈ જશે",
+    "desc": "અમેરિકા અને ઈઝરાયેલે ઈરાન પર કરેલી ભીષણના પ્રહારનો ઈરાન પણ જડબાતોડ જવાબ આપી રહ્યું છે. હુમલામાં ઈરાનના મિનાબમાં એક શાળા પર હુમલો થયો જેમાં 165 છોકરીઓના મોત થયા. આજે આ બાળકીઓની દફન વિધિ થઈ ત્યારે માહોલ એવો હતો કે ભલભલાની આંખો ભીંજાઈ જાય.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/funeral-rocession-for-girls-of-minab-elementary-school-iran-israel-war-update-in-gujarati-467040 ",
+    "time": "2026-03-03T13:06:55.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "સુદર્શન ચક્ર તૈયાર કરી રહ્યું છે ભારત : ફ્રાંસથી જેટ, ઈઝરાયેલથી ડ્રોન અને રશિયાથી મિસાઈલો ખરીદશે, પાકિસ્તાનને લાગ્યો યુદ્ધનો ડર",
     "desc": "ઈરાનમાં સંઘર્ષ વચ્ચે ભારત પોતાની વાયુરક્ષા પ્રણાલીને સતત મજબૂત કરી રહ્યું છે. પાકિસ્તાનના રાષ્ટ્રપતિ આસિફ અલી ઝરદારીએ આજે ડર દેખાડ્યો છે કે ભારત યુદ્ધની તૈયારીઓ કરી રહ્યું છે. જાણી લો કેમ પાકિસ્તાન ફફડી રહ્યું છે. આ માટે ભારતની તૈયારીઓ જવાબદાર છે.",
@@ -43,15 +70,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/iran-israel-war-update-iran-closes-strait-of-hormuz-waterway-what-are-the-solutions-for-india-467036 ",
     "time": "2026-03-03T11:04:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાનમાં એક સાથે 165 બાળકીઓના નીકળ્યા જનાજા, Video જોઈને કઠણ હ્રદયના કાળજા પણ ફાટી પડશે",
-    "desc": "અમેરિકા અને ઈઝરાયેલે ઈરાન પર કરેલી ભીષણના પ્રહારનો ઈરાન પણ જડબાતોડ જવાબ આપી રહ્યું છે. હુમલામાં ઈરાનના મિનાબમાં એક શાળા પર હુમલો થયો જેમાં 165 છોકરીઓના મોત થયા. આજે આ બાળકીઓની દફન વિધિ થઈ ત્યારે માહોલ એવો હતો કે ભલભલાની આંખો ભીંજાઈ જાય.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/funeral-rocession-for-girls-of-minab-elementary-school-iran-israel-war-update-in-gujarati-467040 ",
-    "time": "2026-03-03T10:57:03.000Z"
   },
   {
     "cat": "Sports",
@@ -439,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/israel-iran-war-gold-silver-rate-predictions-sona-chandi-par-padi-shake-yudh-ni-asar-news-in-gujarati-466629 ",
     "time": "2026-03-01T06:44:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "&amp;quot;અમને ઘરે પહોંચાડો...&amp;quot; યુએસ-ઈરાન યુદ્ધ વચ્ચે ટીમ સાથે ફસાયો આ IPL સ્ટાર, PM પાસે માંગી મદદ",
-    "desc": "મિડલ ઈસ્ટમાં વધતા તણાવને કારણે 1 માર્ચે યોજાનારી પાકિસ્તાન શાહિન્સ અને ઇંગ્લેન્ડ લાયન્સ વચ્ચેની મેચ રદ કરવામાં આવી છે. અબુ ધાબીમાં સુરક્ષા એલર્ટ અને બોમ્બ ધડાકાના અહેવાલો વચ્ચે આ સ્ટાર IPL ક્રિકેટરે બ્રિટિશ વડાપ્રધાનને ટીમને સુરક્ષિત ઘરે પહોંચાડવા અપીલ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/us-israel-attacks-iran-jonny-bairstow-appeal-uk-pm-england-lions-uae-466687 ",
-    "time": "2026-03-01T05:37:53.000Z"
   },
   {
     "cat": "Politics",
