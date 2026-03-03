@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer weighs in on Sanju Samson's masterclass against West Indies ahead of T20 WC semi-final",
+    "desc": "The Indian team has successfully booked their ticket to the semi-final of the ongoing T20 World Cup 2026. The side took on the West Indies in a do-or-die clash in hopes of making it to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-sanju-samson-s-masterclass-against-west-indies-ahead-of-t20-wc-semi-final-2026-03-03-1032375",
+    "time": "2026-03-03T01:33:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "West Indies, Zimbabwe stranded in India despite T20 World Cup exit, know reason",
     "desc": "West Indies finds itself stuck in Kolkata after their heavy-wight Super Eights clash against India on Sunday, March 1. Geopolitical tensions in the Middle East ripple across global aviation and that forced the Shai Hope-led...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-shaheen-afridi-and-salman-ali-agha-among-pakistan-players-to-be-fined-after-world-cup-exit-report-2026-03-02-1032315",
     "time": "2026-03-02T11:40:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bruno Fernandes joins Wayne Rooney and Ryan Giggs in legendary list after win against Crystal Palace",
-    "desc": "Manchester United continued their brilliant run of form in the ongoing Premier League season. The fans are enjoying life under interim coach Michael Carrick. Having won six matches out of seven and yet to lose...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/bruno-fernandes-joins-wayne-rooney-and-ryan-giggs-in-legendary-list-after-win-against-crystal-palace-2026-03-02-1032295",
-    "time": "2026-03-02T09:48:42.000Z"
   }
 ];

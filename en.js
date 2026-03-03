@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Iran vows to attack any ship trying to pass through Strait of Hormuz",
+    "desc": "“The ‌strait (of Hormuz) is closed. If anyone tries to pass, the heroes of the Revolutionary Guards and the ‌regular navy will set those ships ablaze,” said Ebrahim Jabari, ‌a ⁠senior adviser to the Guards commander-in-chief",
+    "img": "https://th-i.thgim.com/public/incoming/q3ccyj/article70697104.ece/alternates/LANDSCAPE_1200/2026-03-02T172326Z_400599731_RC2CWJAOUFFW_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-vows-to-attack-any-ship-trying-to-pass-through-strait-of-hormuz/article70697103.ece",
+    "time": "2026-03-03T01:32:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump warns of longer Iran war as violence spreads",
+    "desc": "Trump said that the war, which began on February 28, with a strike that killed Iran's supreme leader, Ayatollah Ali Khamenei, was going \"substantially\" ahead of schedule but that the United States was equipped for a prolonged conflict",
+    "img": "https://th-i.thgim.com/public/incoming/xmnuqg/article70697747.ece/alternates/LANDSCAPE_1200/Trump_55804.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-warns-of-longer-iran-war-as-violence-spreads/article70697744.ece",
+    "time": "2026-03-03T01:14:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "About Keerthy Suresh’s home",
+    "desc": "After fifteen years of togetherness, National Award-winning actor Keerthy Suresh and her husband, Anthony Thattil, have finally opened the doors to their sanctuary in Kochi—a vibrant, soulful space they aptly call the \"House of Fun.\"",
+    "img": "https://static.toiimg.com/photo/msid-128957375,imgsize-95828.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/inside-keerthy-sureshs-beautiful-home-in-kochi-her-and-anthony-thattils-house-of-fun/articleshow/128957375.cms",
+    "time": "2026-03-03T01:12:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Rubio says Israel's strike plan triggered U.S. attack on Iran",
+    "desc": "\"We knew that there was going to be an Israeli action. We knew that that would precipitate an attack against American forces, and we knew that if we didn't preemptively go after them before they launched those attacks, we would suffer higher casualties,\" Mr. Rubio told reporters",
+    "img": "https://th-i.thgim.com/public/incoming/50r2cc/article70697111.ece/alternates/LANDSCAPE_1200/Congress_US_Iran_07694.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/rubio-says-israels-strike-plan-triggered-us-attack-on-iran/article70697108.ece",
+    "time": "2026-03-03T00:50:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "House panel releases videos of Bill and Hillary Clinton answering questions about Epstein",
+    "desc": "President Bill Clinton and former Secretary of State Hillary Clinton faced hours of questioning under oath from lawmakers who are searching for accountability for anyone who was aware or ignored Epstein's abuse of underage girls",
+    "img": "https://th-i.thgim.com/public/incoming/bpe7o9/article70696993.ece/alternates/LANDSCAPE_1200/Epstein_Clintons_Scandal_92937.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/house-panel-releases-videos-of-bill-and-hillary-clinton-answering-questions-about-epstein/article70696992.ece",
+    "time": "2026-03-03T00:48:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'O' Romeo' sails past Rs 101 crore worldwide",
+    "desc": "Shahid Kapoor's much-anticipated film 'O' Romeo' has underwhelmed at the box office, failing to meet audience expectations. After celebrating a strong opening weekend, the film's momentum fizzled, earning a mere Rs 0.65 crore on its 18th day. Currently, the movie has garnered Rs 65.80 crore domestically and Rs 101 crore. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128957218,imgsize-78870.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-18-shahid-kapoor-and-triptii-dimri-starrer-sails-past-rs-101-crore-worldwide/articleshow/128957218.cms",
+    "time": "2026-03-03T00:44:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Kerala Story 2' crosses Rs 12 crore on Day 4",
+    "desc": "'The Kerala Story 2 Goes Beyond' has seen a significant drop in box office collections compared to its predecessor. After a modest opening weekend, the film's Day 4 earnings fell to Rs 2.65 crore, bringing the total to Rs 12.8 crore. This performance contrasts sharply with the first installment's initial success. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128957080,imgsize-74062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-4-film-crosses-rs-12-crore-on-first-monday-despite-drop/articleshow/128957080.cms",
+    "time": "2026-03-03T00:16:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "2 more panels for Bengal to fast-track CAA applications",
+    "desc": "The Home Ministry has established two new empowered committees in West Bengal to expedite citizenship applications under the CAA, bringing the total to four. These panels will finalize citizenship grants for persecuted minorities from Pakistan, Afghanistan, and Bangladesh who arrived before December 31, 2014.",
+    "img": "https://static.toiimg.com/photo/msid-128956932,imgsize-1114888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/2-more-panels-for-bengal-to-fast-track-caa-applications/articleshow/128956929.cms",
+    "time": "2026-03-02T23:19:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Russia remains largest supplier of crude to India in February, Saudi Arabia close second",
+    "desc": "Saudi Arabia significantly boosted crude oil supplies to India in February, nearly matching Russia's top position. This surge, the highest in six years, reflects a shift by refiners away from some Russian volumes. However, ongoing Gulf disruptions may force India to seek alternative import routes, potentially altering the supply landscape.",
+    "img": "https://static.toiimg.com/photo/msid-128956889,imgsize-1392394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/russia-remains-largest-supplier-of-crude-to-india-in-february-saudi-arabia-close-second/articleshow/128956885.cms",
+    "time": "2026-03-02T22:56:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CAT relief to Wankhede set aside by HC",
+    "desc": "Delhi High Court has revived disciplinary proceedings against IRS officer Sameer Wankhede concerning drugs seized in a 2021 case. This decision overturns a previous relief granted by the Central Administrative Tribunal. The proceedings relate to allegations of Wankhede threatening to implicate actor Shah Rukh Khan's son in the Cordelia cruise drug bust.",
+    "img": "https://static.toiimg.com/photo/msid-128956882,imgsize-41514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cat-relief-to-wankhede-set-aside-by-hc/articleshow/128956880.cms",
+    "time": "2026-03-02T22:54:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Breaking from tradition, govt &amp; oppn differ over stand on Iran",
+    "desc": "A US-Israel attack on Iran and the killing of its supreme leader have created a significant divide. Opposition parties, including Congress and Left, are criticizing the government's response. They call for condemnation of the killings and emphasize diplomacy. The Prime Minister's recent visit to Israel is also a point of contention. India has urged restraint and dialogue to ease tensions.",
+    "img": "https://static.toiimg.com/photo/msid-128956855,imgsize-845549.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/breaking-from-tradition-govt-oppn-differ-over-stand-on-iran/articleshow/128956848.cms",
+    "time": "2026-03-02T22:42:11.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Race heats up for Bihar’s five Rajya Sabha seats with RJD entry",
     "desc": "Though the Opposition party is likely to secure the support of Mahagathbandhan allies like the Congress and the Left parties, their combined tally still falls short of the minimum number required for winning a Rajya Sabha seat",
@@ -324,24 +423,6 @@ const newsData_en = [
     "time": "2026-03-02T13:53:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sooraj equates Kabir Singh, Animal to the quintessential Prem",
-    "desc": "Indrajit Lankesh returns to Hindi cinema with 'Jai Hind Jai Sindh', a Partition-era romance on Sindhi struggles. Stars Jaya Prada, Mahesh Manjrekar; supports include Zarina Wahab. Produced by Samy’s Entertainment, debuting four newbies. Motion poster out; mid-2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-128948005,imgsize-60000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jaya-prada-mahesh-manjrekar-and-zarina-wahab-unite-for-indrajit-lankeshs-jai-hind-jai-sindh/articleshow/128948005.cms",
-    "time": "2026-03-02T13:20:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman shifts shoot to Mehboob Studios post father hospitalization",
-    "desc": "Salim Khan, 90, hospitalized February 17 for minor brain haemorrhage; stable post-ventilator and procedure. Son Salman shifts Battle of Galwan shoot to Mehboob Studio near hospital, filming song sequence without delays. Apoorva Lakhia directorial honors 2020 Galwan clash; Salman as Colonel B Santosh Babu.",
-    "img": "https://static.toiimg.com/photo/msid-128947938,imgsize-46584.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/battle-of-galwan-salman-khan-shifts-shoot-to-mehboob-studios-post-salim-khans-hospitalization-reports/articleshow/128947938.cms",
-    "time": "2026-03-02T13:17:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Afridi demands 'aggressive' leader, backs Fakhar for top job",
     "desc": "Pakistan's T20 World Cup exit has sparked debate over leadership, with former captain Shahid Afridi criticizing all-rounder Shadab Khan's performance and suitability for captaincy. Afridi advocates for an aggressive leader like Fakhar Zaman to steer the team forward after another disappointing ICC event.",
@@ -387,15 +468,6 @@ const newsData_en = [
     "time": "2026-03-02T12:05:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "US-Israel strikes in Iran: Indian national killed in attack on oil tanker off Oman coast",
-    "desc": "An Indian national has died after an oil tanker, the MKD VYOM, was attacked by an unmanned boat off the coast of Oman. The strike caused a fire and explosion in the vessel's engine room. This incident occurs amid heightened tensions and ongoing retaliation campaigns in the Gulf region.",
-    "img": "https://static.toiimg.com/photo/msid-128946184,imgsize-542651.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/us-israel-stikes-in-iran-indian-national-killed-in-attack-on-oil-tanker-off-oman-coast/articleshow/128946210.cms",
-    "time": "2026-03-02T11:54:10.000Z"
-  },
-  {
     "cat": "World",
     "title": "Indian mariner killed as oil tanker attacked in Gulf of Oman",
     "desc": "The state-run Oman News Agency reported the attack in the Gulf of Oman off the coast of Muscat, the sultanate's capital. It identified the vessel as the MKD VYOM. It said the dead crew member was from India",
@@ -403,15 +475,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/indian-mariner-killed-as-oil-tanker-attacked-in-gulf-of-oman/article70695110.ece",
     "time": "2026-03-02T11:49:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ammy Virk gets emotional as wife, six-year old daughter in UAE",
-    "desc": "Amidst escalating US-Iran tensions, several Indian celebrities, including Sonal Chauhan and Ammy Virk, are stranded in Dubai and Abu Dhabi due to flight cancellations. Virk expressed deep concern for his wife and daughter, highlighting the emotional toll and gratitude for UAE authorities' safety efforts. Other notable figures also shared their experiences of being stuck.",
-    "img": "https://static.toiimg.com/photo/msid-128946064,imgsize-23178.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ammy-virk-gets-emotional-as-wife-six-year-old-daughter-are-stranded-in-uae-amidst-middle-east-tensions-im-a-strong-girl-papa/articleshow/128945898.cms",
-    "time": "2026-03-02T11:48:48.000Z"
   },
   {
     "cat": "Business",
@@ -457,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/captains-tribute-suryakumar-yadav-takes-off-cap-bows-to-sanju-samson-watch/articleshow/128945441.cms",
     "time": "2026-03-02T11:22:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Israel-Iran conflict: What is India’s position amid rising Middle East tensions?",
-    "desc": "India advocates for dialogue and diplomacy to resolve escalating West Asian conflicts, expressing grave concern over recent US-Israeli strikes on Iran. Prime Minister Modi emphasized civilian safety and urged maximum restraint from all parties. New Delhi is actively monitoring the situation and ensuring the well-being of Indian nationals in the region.",
-    "img": "https://static.toiimg.com/photo/msid-128944703,imgsize-853504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/israel-iran-conflict-what-is-indias-position-amid-rising-middle-east-tensions/articleshow/128944702.cms",
-    "time": "2026-03-02T10:52:58.000Z"
   },
   {
     "cat": "Business",
@@ -558,15 +612,6 @@ const newsData_en = [
     "time": "2026-03-02T08:15:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Matter of grave concern': PM Modi calls for dialogue and diplomacy as Middle East tensions soar",
-    "desc": "Prime Minister Narendra Modi voiced deep concern over the escalating Middle East situation. This follows significant military action by the United States and Israel against Iran. The strikes led to the death of Iran's Supreme Leader, Ayatollah Ali Khamenei. India will work with regional nations to ensure the safety of its citizens.",
-    "img": "https://static.toiimg.com/photo/msid-128941533,imgsize-526190.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/matter-of-grave-concern-pm-modi-calls-for-dialogue-and-diplomacy-as-middle-east-tensions-soar/articleshow/128941377.cms",
-    "time": "2026-03-02T08:14:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.K. toughens asylum rules to discourage migration",
     "desc": "Under the reforms, refugee status for adults and their accompanying children will be reviewed every 30 months, and “those whose countries are now deemed safe will be expected to return home”, according to the Home Office",
@@ -603,15 +648,6 @@ const newsData_en = [
     "time": "2026-03-02T07:57:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Iran conflict disrupts air travel; Emirates, Etihad, Air India, IndiGo issue advisories",
-    "desc": "Escalating Middle East tensions following US-Israel strikes on Iran and Tehran's retaliation have led to widespread flight cancellations and airspace closures across several Gulf nations. Major hubs like Dubai and Doha are affected, with thousands of passengers stranded as airlines divert or suspend services, impacting travel between continents",
-    "img": "https://static.toiimg.com/photo/msid-128937283,imgsize-76430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/iran-conflict-disrupts-air-travel-emirates-etihad-air-india-indigo-issue-advisories/articleshow/128936869.cms",
-    "time": "2026-03-02T07:32:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Captain Shai Hope takes blame for West Indies exit from T20 World Cup, says he ‘should’ve batted faster’",
     "desc": "West Indies appeared at least 20 runs short against India as Hope ate up 33 balls for his 32, striking at just over 96, including 17 dot balls that probably cost them heavily in a high-scoring contest",
@@ -619,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ind-vs-wi-captain-shai-hope-takes-blame-for-west-indies-exit-from-t20-world-cup-says-he-shouldve-batted-faster/article70694321.ece",
     "time": "2026-03-02T07:31:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Defence stocks surge on Middle East tensions! HAL, BEL, Paras Defence rise up to 13% even as stock market crashes",
-    "desc": "​​The escalation has raised expectations of increased export opportunities and strengthened investor sentiment toward the sector. Paras Defence led the gains, climbing 13.5%. Meanwhile, HAL, BEL and Bharat Dynamics advanced by up to 3.5% on the BSE.",
-    "img": "https://static.toiimg.com/photo/msid-128939770,imgsize-140670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/defence-stocks-surge-on-middle-east-tensions-hal-bel-paras-defence-rise-up-to-13-even-as-stock-market-crashes/articleshow/128939752.cms",
-    "time": "2026-03-02T06:53:21.000Z"
   },
   {
     "cat": "Sports",
@@ -657,15 +684,6 @@ const newsData_en = [
     "time": "2026-03-02T06:19:21.000Z"
   },
   {
-    "cat": "Business",
-    "title": "How will gold prices react this week to Middle East tensions? Key levels to watch out",
-    "desc": "Rising tensions in the Middle East and developments around US, Israel and Iran are expected to keep gold prices volatile this week, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.",
-    "img": "https://static.toiimg.com/photo/msid-128938729,imgsize-67610.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-march-02-2026-week-should-you-buy-or-sell-mcx-gold/articleshow/128938579.cms",
-    "time": "2026-03-02T06:07:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "T20 WC semi-final schedule, dates, times, venues — All you need to know",
     "desc": "Team India secures a thrilling semi-final spot in the T20 World Cup 2026, setting up a high-voltage clash against England on March 5 in Mumbai. South Africa will face New Zealand in the first semi-final on March 4 in Kolkata. The winners will battle for the championship title on March 8 in Ahmedabad.",
@@ -673,15 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-semi-final-schedule-dates-times-venues-all-you-need-to-know/articleshow/128938679.cms",
     "time": "2026-03-02T06:07:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "MHA alerts states as Middle East tensions soar; internet curbs, security tightened in Kashmir",
-    "desc": "The Ministry of Home Affairs has alerted states to potential tensions due to the Iran conflict, urging vigilance against inflammatory religious gatherings and radical preachers. Authorities are monitoring individuals and groups to prevent unrest, with precautionary measures already implemented in Jammu and Kashmir following protests over the killing of Iran's supreme leader.",
-    "img": "https://static.toiimg.com/photo/msid-128938482,imgsize-1809524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mha-alerts-states-as-middle-east-tensions-soar-internet-curbs-security-tightened-in-kashmir/articleshow/128937575.cms",
-    "time": "2026-03-02T05:54:36.000Z"
   },
   {
     "cat": "Sports",
@@ -709,15 +718,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/castle-corner-paints-kotla-red-zimbabwes-boisterous-fans-bring-arun-jaitley-stadium-to-life/articleshow/128936383.cms",
     "time": "2026-03-02T04:42:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Flu shot to change this year as new H3N2 strain spreads fast",
-    "desc": "India is updating its seasonal flu vaccine for the 2026-27 season to combat a rapidly spreading new A(H3N2) variant. The World Health Organization's recommendations highlight the need for this change due to the strain's increased transmissibility. Experts urge early vaccination, especially for vulnerable groups, to prevent severe illness and hospitalizations.",
-    "img": "https://static.toiimg.com/photo/msid-128936256,imgsize-651846.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/flu-shot-to-change-this-year-as-new-h3n2-strain-spreads-fast/articleshow/128936251.cms",
-    "time": "2026-03-02T04:18:45.000Z"
   },
   {
     "cat": "Sports",
