@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "US, Israel attacks Iran: Scheduled, charter flights to be used for repatriation",
+    "desc": "India is actively working to repatriate thousands of its citizens stranded in West Asian countries like the UAE and Qatar. The government is utilizing a combination of charter and scheduled flights, with airlines warned against fare hikes. This effort follows a high-level review of the West Asia crisis.",
+    "img": "https://static.toiimg.com/photo/msid-128990935,imgsize-92024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/us-israel-attacks-iran-scheduled-charter-flights-to-be-used-for-repatriation/articleshow/128990843.cms",
+    "time": "2026-03-03T20:36:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shreya clarifies she’s not embarrassed about Chikni Chameli",
+    "desc": "Bollywood playback singer Shreya Ghoshal has addressed the trolling she faced over singing Chikni Chameli from Agneepath, featuring Katrina Kaif. In a recent conversation, the singer spoke about objectification in song lyrics, artistic responsibility and why she has become more conscious about the kind of songs she chooses to record.",
+    "img": "https://static.toiimg.com/photo/msid-128989982,imgsize-73246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shreya-ghoshal-clarifies-shes-not-embarrassed-about-chikni-chameli-amid-trolling-i-wasnt-mature-enough-to-fully-grasp-the-meaning/articleshow/128989982.cms",
+    "time": "2026-03-03T20:17:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "38 Indian ships stuck in Persian Gulf; 3 sailors dead",
+    "desc": "Thirty-eight Indian-flagged ships, carrying crude and LNG with nearly 1,100 seafarers, are stranded in the Persian Gulf due to the West Asia conflict. Three Indian sailors died and one was injured on foreign-flagged vessels in recent attacks off Oman. Shipping authorities are prioritizing seafarer safety and maritime asset security.",
+    "img": "https://static.toiimg.com/photo/msid-128990468,imgsize-33078.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-asia-crisis-38-indian-ships-stuck-in-persian-gulf-3-sailors-dead/articleshow/128989621.cms",
+    "time": "2026-03-03T19:50:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "GoPro trail in Pahalgam terror attack leads to Chinese city, court allows NIA to seek Beijing help",
+    "desc": "NIA has requested China's assistance to identify the buyer of a GoPro camera, crucial evidence in a Lashkar-e-Taiba attack. Activated in Dongguan, China, the camera's origin is vital for tracing terrorist reconnaissance and operational links. This move highlights international cooperation efforts in combating terror.",
+    "img": "https://static.toiimg.com/photo/msid-128989325,imgsize-179892.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/gopro-trail-in-pahalgam-terror-attack-leads-to-chinese-city-court-allows-nia-to-seek-beijing-help/articleshow/128988692.cms",
+    "time": "2026-03-03T19:40:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Youth Congress president Uday Bhanu Chib and others released from Tihar jail",
+    "desc": "Indian Youth Congress president Uday Bhanu Chib has been released from Tihar jail after being granted bail. He asserted that the Congress and its youth wing will continue their opposition to the India-US deal, claiming it harms farmers. Chib was arrested for his alleged role in a protest at Bharat Mandapam.",
+    "img": "https://static.toiimg.com/photo/msid-128988957,imgsize-1003546.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bharat-mandapam-ai-summit-protest-youth-congress-president-uday-bhanu-chib-and-others-released-from-tihar-jail/articleshow/128988923.cms",
+    "time": "2026-03-03T19:28:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' dominates over Yash starrer 'Toxic' in North America",
+    "desc": "Ranveer Singh's 'Dhurandhar 2' is outpacing Yash's 'Toxic' in North American pre-sales, with advance bookings exceeding $100K USD. While 'Toxic' leads domestic buzz and screen count, especially in the South, 'Dhurandhar 2' shows strong momentum for its Hindi premiere. Both films are set for a major box office clash.",
+    "img": "https://static.toiimg.com/photo/msid-128988445,imgsize-36632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-dominates-over-yash-starrer-toxic-in-north-america-the-ranveer-singh-starrer-expected-to-have-a-record-breaking-advance-booking/articleshow/128988258.cms",
+    "time": "2026-03-03T19:13:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Railways unlikely to seek extra loan from JICA to meet higher cost of Bullet train project",
+    "desc": "Indian Railways will absorb an additional Rs 90,000 crore for the Ahmedabad-Mumbai Bullet Train, bringing the total cost to Rs 1.98 lakh crore. No further loans from JICA are planned. The ministry seeks Cabinet approval for revised funding, exploring options like finance ministry support and multilateral financing for future corridors.",
+    "img": "https://static.toiimg.com/photo/msid-128987964,imgsize-209976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/railways-unlikely-to-seek-extra-loan-from-jica-to-meet-higher-cost-of-bullet-train-project/articleshow/128987846.cms",
+    "time": "2026-03-03T18:58:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Russia says India hints ‘renewed interest’ in more crude imports amid Iran crisis",
+    "desc": "Russia reports India's renewed interest in larger crude oil imports amid Strait of Hormuz disruptions. Moscow sees this as a chance to reduce discounts to Asian buyers. India, however, assures sufficient reserves and diversified sourcing, with only 40% of its crude imports passing through the critical waterway.",
+    "img": "https://static.toiimg.com/photo/msid-128987394,imgsize-72166.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/we-are-getting-signals-russia-says-india-hints-renewed-interest-in-more-crude-imports-amid-iran-crisis/articleshow/128987192.cms",
+    "time": "2026-03-03T18:44:34.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Celebs attend Arjun Tendulkar-Saaniya Chandhok’s pre-wedding bash",
     "desc": "Pre-wedding festivities have begun in full swing ahead of cricket legend Sachin Tendulkar’s son Arjun Tendulkar’s wedding, and the celebrations are already turning into a glamorous, star-studded affair. On Tuesday evening, the Tendulkar family hosted a pre-wedding ceremony attended by close friends, cricketing icons and political dignitaries, adding sparkle to the joyous occasion.",
@@ -351,24 +423,6 @@ const newsData_en = [
     "time": "2026-03-03T11:41:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyanka Chopra says her father would have chosen Nick Jonas for her",
-    "desc": "Priyanka Chopra Jonas believes her late father, Ashok Chopra, would have wholeheartedly approved of her husband, Nick Jonas. She shared that Nick's musical talent, a passion her father deeply cherished, and his wise soul would have made him an ideal match. Priyanka expressed a wish that her father could have met Nick and their daughter, Malti Marie.",
-    "img": "https://static.toiimg.com/photo/msid-128969109,imgsize-63190.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-says-her-father-would-have-chosen-nick-jonas-for-her-wish-my-dad-would-have-met-my-husband-and-my-daughter/articleshow/128968436.cms",
-    "time": "2026-03-03T11:30:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anirudh Ravichander CLARIFIES on his acting career",
-    "desc": "Composer Anirudh Ravichander has firmly stated he has no aspirations to become a film hero, dedicating his focus entirely to music, his true passion. He aims to continue composing for at least two more decades, with dreams of a monumental collaboration between Rajinikanth and Shah Rukh Khan. Anirudh is currently immersed in several major upcoming projects.",
-    "img": "https://static.toiimg.com/photo/msid-128968612,imgsize-95780.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/no-plans-jana-nayagan-composer-anirudh-ravichander-clarifies-on-his-acting-career-aims-for-rajinikanthsrk-collaboration/articleshow/128968612.cms",
-    "time": "2026-03-03T11:22:44.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "US-Iran war: Indian students moved out of Tehran",
     "desc": "The Indian Embassy in Tehran has moved most Indian students to safer areas outside the city. This action follows heightened risks due to ongoing US-Iran tensions. The embassy is providing transportation, food, and accommodation. Other Indian nationals in Iran are advised to stay indoors and avoid protests. Emergency helplines are active as the security situation is closely monitored.",
@@ -568,15 +622,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "US-Israel-Iran war hits oil supplies: How India is preparing for the economic fallout",
-    "desc": "The geopolitical strain has pushed up global oil and gas prices. For India, which relies heavily on imports, this surge translates into a higher import bill and adds to inflationary pressures. India depends on overseas purchases for almost 90 per cent of its crude oil needs.",
-    "img": "https://static.toiimg.com/photo/msid-128960784,imgsize-164032.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-israel-iran-war-hits-oil-supplies-how-india-is-preparing-for-the-economic-fallout/articleshow/128960686.cms",
-    "time": "2026-03-03T06:45:14.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Oil rises as expanding U.S.-Israeli conflict with Iran elevates supply risks",
     "desc": "Concerns about transiting the waterway increased after Iranian media reported on Monday ​(March 2, 2026) that a senior Iranian Revolutionary Guards official said the Strait of Hormuz is closed and warned Iran will fire on any ship trying ⁠to pass",
     "img": "https://th-i.thgim.com/public/incoming/9b74c4/article70698061.ece/alternates/LANDSCAPE_1200/2026-03-02T231744Z_992362881_RC2MWJAUF83I_RTRMADP_3_IRAN-CRISIS-OIL-INDIA.JPG",
@@ -601,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/back-home-and-safe-pv-sindhu-returns-to-india-after-being-stuck-in-dubai-amid-middle-east-conflict/articleshow/128959992.cms",
     "time": "2026-03-03T05:49:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Abdication, not neutrality': Sonia Gandhi slams PM Modi's silence on Khamenei assassination",
-    "desc": "Sonia Gandhi criticized the Modi government's silence on Iran's Supreme Leader Ali Khamenei's assassination, calling it an 'abdication' and 'tacit endorsement.' She argued India's lack of a clear response, especially after PM Modi's recent Israel visit, raises doubts about its foreign policy's credibility and direction.",
-    "img": "https://static.toiimg.com/photo/msid-128959876,imgsize-835277.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/abdication-not-neutrality-sonia-gandhi-slams-pm-modis-silence-on-khamenei-assassination/articleshow/128959196.cms",
-    "time": "2026-03-03T05:43:18.000Z"
   },
   {
     "cat": "Sports",
@@ -648,24 +684,6 @@ const newsData_en = [
     "time": "2026-03-03T05:00:10.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Nikkei falls over 1,400 points, Kospi plunges 4%; markets continue to fall amid Middle East tensions",
-    "desc": "Asian stocks tumbled Tuesday amid escalating Iran tensions, impacting regional energy supplies. Japan's Nikkei and South Korea's Kospi saw significant drops, with energy and defense shares hit hard. Oil prices climbed, while US airline stocks faced pressure from rising fuel costs and potential travel disruptions.",
-    "img": "https://static.toiimg.com/photo/msid-128958936,imgsize-198284.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-nikkei-falls-over-1400-points-kospi-plunges-4-markets-continue-to-fall-amid-middle-east-tensions/articleshow/128958932.cms",
-    "time": "2026-03-03T04:52:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi's YouTube account crosses 30 million subscribers, remains most followed world leader on platform",
-    "desc": "Prime Minister Narendra Modi has surpassed 30 million YouTube subscribers, solidifying his status as the world's most followed leader on the platform. This digital milestone follows his Instagram achievement of over 100 million followers. His significant online presence extends to X, where he boasts a substantial following, underscoring his extensive global digital outreach.",
-    "img": "https://static.toiimg.com/photo/msid-128959542,imgsize-30584.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modis-youtube-account-crosses-30-million-subscribers-remains-most-followed-world-leader-on-platform/articleshow/128959105.cms",
-    "time": "2026-03-03T04:45:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'India T20 World Cup final nahi khelega': Pakistan star sparks fresh controversy",
     "desc": "Mohammad Amir's prediction that India would miss the T20 World Cup semifinals backfired as Sanju Samson's unbeaten 97 guided them to a five-wicket win over the West Indies. Despite this, Amir maintains India won't reach the final, citing bowling form and batting collapses, though Samson's knock set a new record for India in a successful T20 World Cup run-chase.",
@@ -673,15 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-t20-world-cup-final-nahi-khelega-pakistan-star-pacer-mohammad-amir-sparks-fresh-controversy/articleshow/128959069.cms",
     "time": "2026-03-03T04:41:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Yellow metal hits Rs 1.66 lakh, silver gains Rs 20,000 — should you buy on dips?",
-    "desc": "Gold and silver prices surged on Monday due to escalating Middle East geopolitical tensions, with gold reaching Rs 1.66 lakh per 10 grams and silver Rs 2.86 lakh per kg. Experts predict further record highs if the conflict persists, driven by gold's safe-haven status. Investors are capitalizing on price dips to accumulate despite the rally.",
-    "img": "https://static.toiimg.com/photo/msid-128958751,imgsize-154020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-and-silver-prices-soar-yellow-metal-hits-rs-1-66-lakh-silver-gains-rs-20000-should-you-buy-on-dips/articleshow/128958316.cms",
-    "time": "2026-03-03T04:08:48.000Z"
   },
   {
     "cat": "Sports",
@@ -718,15 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/no-sign-irans-nuclear-sites-were-hit-iaea-says-but-iran-alleges-one-was/article70695020.ece",
     "time": "2026-03-03T02:53:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India condemns attacks on Gulf states, PM says working to protect Indians",
-    "desc": "Prime Minister Modi condemned military strikes on UAE, Saudi Arabia, and Bahrain, signaling disapproval of Iran's actions without naming the country. He also spoke with Israeli and Jordanian leaders, emphasizing peace and the well-being of the Indian diaspora. India's stance reflects its strategic alignment with GCC countries for energy security and diaspora welfare.",
-    "img": "https://static.toiimg.com/photo/msid-128957786,imgsize-1068180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-condemns-gulf-strikes-says-working-to-protect-indians/articleshow/128957767.cms",
-    "time": "2026-03-03T02:19:12.000Z"
   },
   {
     "cat": "World",
