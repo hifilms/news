@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Law of averages to work against South Africa in T20 World Cup semis vs New Zealand? Aiden Markram responds",
+    "desc": "South Africa have won seven consecutive matches at the T20 World Cup so far and are only two wins away from winning their second ICC trophy within the last 12 months. They have beaten their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/law-of-averages-to-work-against-south-africa-in-t20-world-cup-semis-vs-new-zealand-aiden-markram-responds-2026-03-03-1032493",
+    "time": "2026-03-03T17:47:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Selector resigns over Babar Azam, Shadab Khan's selection in T20 World Cup squad",
+    "desc": "The Pakistan cricket team reached Lahore from Colombo on Sunday (March 1) after being knocked out of the T20 World Cup, and within two days, a member of the senior selection committee, Aleem Dar, has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/drama-in-pakistan-cricket-selector-resigns-over-babar-azam-shadab-khan-s-selection-in-t20-world-cup-squad-2026-03-03-1032488",
+    "time": "2026-03-03T16:00:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Stats comparison ahead of India vs England semifinal of T20 World Cup 2026",
     "desc": "India and England are facing each other in the second semifinal of the T20 World Cup on Thursday, March 5, at the Wankhede Stadium in Mumbai. Suryakumar Yadav and Harry Brook are leading their respective...",
     "img": "",
@@ -61,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-previews-india-s-t20-world-cup-semi-final-clash-against-england-2026-03-03-1032426",
     "time": "2026-03-03T08:08:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC announces panel of match officials for T20 World Cup 2026 semi-finals",
-    "desc": "The stage is set for the knockout stages of the ongoing T20 World Cup 2026. The two semi-finals of the competition will be played between New Zealand-South Africa and India-England. The first semi-final of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-panel-of-match-officials-for-t20-world-cup-2026-semi-finals-2026-03-03-1032420",
-    "time": "2026-03-03T07:25:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Afghanistan Cricket set to undergo leadership change after subpar T20 World Cup campaign",
-    "desc": "The ongoing T20 World Cup 2026 campaign proved to be a horrid one for Afghanistan cricket. Placed in group D of the tournament, Afghanistan finished third in the standings and was eliminated from the group...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-cricket-set-to-undergo-leadership-change-after-subpar-t20-world-cup-campaign-2026-03-03-1032409",
-    "time": "2026-03-03T06:40:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Back home in Bangalore': PV Sindhu returns safely to India after being stranded at Dubai airport",
-    "desc": "India's star shuttler PV Sindhu has officially made her return to India after days of being stranded at the Dubai airport. She took to X to confirm her safe return to the country. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-returns-safely-to-india-after-being-stranded-at-dubai-airport-2026-03-03-1032396",
-    "time": "2026-03-03T05:32:58.000Z"
   }
 ];

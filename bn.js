@@ -1,12 +1,39 @@
 const newsData_bn = [
   {
-    "cat": "Entertainment",
-    "title": "অরিজিৎ সিং-এর দোল! স্কুটিতে বসেই অরিজিতের হোলি খেলা, প্রতিবেশীদের বললেন, \"বেশি রং দিও না\"",
-    "desc": "দোলের দিন এমনই এক সফরে তাঁকে রং মাখাতে আসেন পাড়ার কয়েকজন ছোট ছেলেমেয়ে৷ যাদের দেখে হাসেন অরিজিৎ৷ তবে বলেন, একটু কম রং দিতে! ভিডিও দেখে যা বোঝা গিয়েছে যে এর আগেও তাঁকে কেউ রং মাখিয়েছে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Atijit-Singh-Holi-2026-03-6404f83480af96a9d9e34437a1e9b23e-1200x800.jpeg",
+    "cat": "Politics",
+    "title": "ভোট ঘোষণার আগেই অসমে প্রার্থী তালিকা ঘোষণা কংগ্রেসের! দেখুন ভিডিও",
+    "desc": "বিধানসভা নির্বাচনের নির্ঘণ্ট এখনও ঘোষণা করেনি নির্বাচন কমিশন৷ তার আগেই অসমে বিধানসভা ভোটের প্রথম দফার প্রার্থী তালিকা ঘোষণা করে দিল কংগ্রেস৷ প্রথম দফার প্রার্থী তালিকায় রয়েছে অসমের প্রদেশ কংগ্রেস সভাপতি গৌরব গগৈয়ের নাম৷ তিনি জোড়হাট কেন্দ্র থেকে লড়াই করবেন৷ এ ছাড়াও প্রার্থী হয়েছে অসমে কংগ্রেসের পরিষদীয় দলের নেতা দেবব্রত সাইকিয়া৷ তাঁকে নাজিরা কেন্দ্র থেকে প্রার্থী করেছে দল৷ এ ছাড়াও শিলচর কেন্দ্র থেকে অভিজিৎ পাল, মাজুলি ইন্দ্রনীল পেগু এবং ডিসপুর থেকে মীরা বড়ঠাকুর গোস্বামীকে প্রার্থী করা হয়েছে৷ পশ্চিমবঙ্গ, তামিলনাড়ু, কেরলের, পুদুচেরির সঙ্গে অসমেও আগামী এপ্রিল-মে মাসের মধ্যে বিধানসভা ভোট হওয়ার কথা৷ যদিও এখনও ভোটের নির্ঘণ্টই ঘোষণা করেনি নির্বাচন কমিশন৷ ফলে ভোট ঘোষণার আগেই প্রথম দফার প্রার্থী তালিকা ঘোষণা করে বড় চমক দিল কংগ্রেস৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/cONGRESS-aSSAM-2026-03-3b334baf1e59cdb19a5151aea7dfc7e1-1200x800.jpg",
     "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/arijit-singh-holi-singer-in-his-scooter-children-comes-and-apply-color-on-his-face-old-video-viral-pbd-2567493.html",
-    "time": "2026-03-03T14:51:37.000Z"
+    "url": "https://bengali.news18.com/videos/national/congress-releases-first-phase-candidate-list-for-assam-dmg-2567814.html",
+    "time": "2026-03-03T18:17:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "নতুন বছরের শুরুতে ২ কোটির মদ বিক্রি হয়েছিল-- হোলিতে কত হল জানেন? সুরালাভের হিসেব জানলে চোখ কপালে উঠবে...",
+    "desc": "আবগারি দফতরের দেওয়া তথ্য অনুযায়ী, ২০২৬ সালের দোলের মরসুমে রাজ্যজুড়ে মদ বিক্রি করে রাজস্ব আদায় হয়েছে প্রায় ১২০ কোটি টাকা। এর মধ্যে সবচেয়ে বেশি চাহিদা ছিল বিয়ারের। প্রচণ্ড গরম আর উৎসবের মেজাজ—এই দুইয়ের মিশেলে শুধুমাত্র বিয়ার বিক্রি থেকেই এসেছে ৭০ কোটি টাকা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/2026-holi-highest-liquor-consumption-valuation-in-west-bengal_643566.html ",
+    "time": "2026-03-03T17:50:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "৪, ৫, ৬, ৭, ৮ মার্চ...! ঝমঝমিয়ে বৃষ্টি কাঁপাবে ৩ রাজ্য, ঝোড়ো হাওয়ার হুঁশিয়ারি ৭ রাজ্যে, আগামী ৫ দিনে পারদ চড়বে কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
+    "desc": "ঢুকছে পশ্চিমী ঝঞ্ঝা! আবহাওয়ার ব্যাপক রদবদল ৫ দিনেই। ৩ মার্চ হালকা থেকে মাঝারি বৃষ্টিপাত এবং বজ্রপাত হতে পারে অসম, মেঘালয় এবং অরুণাচল প্রদেশে। ৪ থেকে ৮ মার্চ বৃষ্টি এবং তুষারপাতের সম্ভাবনা জম্মু, কাশ্মীর এবং লাদাখের বিচ্ছিন্ন স্থানে। ৭ ও ৮ মার্চ হিমাচল প্রদেশে এবং ৮ মার্চ উত্তরাখণ্ডে হালকা বৃষ্টিপাত হতে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/sanj-rain-image-1-2026-03-6627b74902d8e041fe89f44f4c32eb02-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-4-5-6-7-march-heavy-rainfall-to-hit-3-states-gusty-wind-alert-in-7-states-heat-will-show-up-sudden-spell-in-these-states-check-latest-west-bengal-weather-sanj-2567775.html",
+    "time": "2026-03-03T17:47:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "পাশাপাশি ১৬০ স্কুলছাত্রীর কবর, মার্কিন-ইজরায়েলি হামলায় শিউরে ওঠা দৃশ্য সামনে এনে বিদেশমন্ত্রী লিখলেন 'ট্রাম্পের প্রতিশ্রুতি'!",
+    "desc": "শান্তি প্রতিষ্ঠার অঙ্গীকারের কথা তুলে ধরে ইরানের বিরুদ্ধে কঠোর সামরিক অবস্থানের ঘোষণা করেছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তাঁর বক্তব্য ছিল, এই অভিযান আঞ্চলিক স্থিতিশীলতা ফেরাতে এবং “ত্রাস” নির্মূল করতে। কিন্তু সেই প্রতিশ্রুতির মাঝেই সামনে এসেছে মিনাবের একটি প্রাথমিক বিদ্যালয়ে ভয়াবহ হামলার অভিযোগ, যেখানে ইরানের দাবি, শতাধিক স্কুলছাত্রী নিহত হয়েছে। সারিবদ্ধ কবরের ছবি প্রকাশ করে তেহরান প্রশ্ন তুলেছে— শান্তির নামে এই অভিযানের বাস্তব পরিণতি কী দাঁড়াচ্ছে? পাল্টা দাবি ও অস্বীকারের মধ্যে সংঘাতের মানবিক মূল্যই এখন আন্তর্জাতিক আলোচনার কেন্দ্রবিন্দু।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/trump-school-students-2026-03-ac6d4dbdecfee99df8bdd1aa4ebf161f-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/mass-funeral-held-in-iran-for-165-schoolgirls-killed-in-us-israeli-attack-iranian-foreign-minister-says-trump-rescue-promise-tib-ws-l-2567744.html",
+    "time": "2026-03-03T17:32:17.000Z"
   },
   {
     "cat": "Business",
@@ -15,7 +42,16 @@ const newsData_bn = [
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/israel-1-2026-03-97cf198b29ef270c899280b7ffaab438-1200x800.jpg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-israeli-shekel-do-you-know-how-much-you-will-get-in-israel-if-you-give-an-indian-500-rupee-note-the-calculation-will-surprise-you-guaranteed-sanj-2567468.html",
-    "time": "2026-03-03T13:49:13.000Z"
+    "time": "2026-03-03T16:40:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "অরিজিৎ সিং-এর দোল! স্কুটিতে বসেই অরিজিতের হোলি খেলা, প্রতিবেশীদের বললেন, \"বেশি রং দিও না\"",
+    "desc": "দোলের দিন এমনই এক সফরে তাঁকে রং মাখাতে আসেন পাড়ার কয়েকজন ছোট ছেলেমেয়ে৷ যাদের দেখে হাসেন অরিজিৎ৷ তবে বলেন, একটু কম রং দিতে! ভিডিও দেখে যা বোঝা গিয়েছে যে এর আগেও তাঁকে কেউ রং মাখিয়েছে৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Atijit-Singh-Holi-2026-03-6404f83480af96a9d9e34437a1e9b23e-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/arijit-singh-holi-singer-in-his-scooter-children-comes-and-apply-color-on-his-face-old-video-viral-pbd-2567493.html",
+    "time": "2026-03-03T14:51:37.000Z"
   },
   {
     "cat": "World",
@@ -178,15 +214,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/mimi-chakraborty-defamation-case-20-lakh-compensation-2-65-lakh-refund-bongaon-court-tanmay-shastri-tarunjyoti-tewari-sal-2565267.html",
     "time": "2026-03-02T11:21:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "রোজার উপবাসে থাকা খামেইনির শেষের ভয়ংকর মুহূর্ত, যে ভাবে একমাস নজরে রেখে গোটা পরিবার খতম করল CIA...",
-    "desc": "যে কম্পাউন্ডটি লক্ষ্য করে হামলা চালানো হয়েছিল, সেটি কোনও সাধারণ ভবন ছিল না। নিউ ইয়র্ক টাইমসের তথ্য মতে, এখানে ইরানের প্রেসিডেন্সি অফিস, সর্বোচ্চ নেতার কার্যালয় এবং জাতীয় নিরাপত্তা কাউন্সিলের সদর দফতর ছিল। এক কথায়, এটি ছিল ইরানের শাসনের প্রধান কেন্দ্র।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/cia-tracked-khamenei-for-months-killed-him-in-two-hours-and-five-minutes-the-inside-story_643369.html ",
-    "time": "2026-03-02T11:13:11.000Z"
   },
   {
     "cat": "Politics",
@@ -720,15 +747,6 @@ const newsData_bn = [
     "time": "2026-02-26T11:01:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "নিষিদ্ধ হল অষ্টম শ্রেণির বই! কড়া অবস্থান সুপ্রিম কোর্টের, কেন্দ্রকে তীব্র ভর্ৎসনায় শীর্ষ আদালত বলল...",
-    "desc": "ক'দিন ধরেই চলছে এই বিতর্ক। NCERT-র অষ্টম শ্রেণির বইতে ভারতীয় বিচার ব্যবস্থার দুর্নীতি সংক্রান্ত একটি অধ্যায় পড়ানো নিয়ে এই বিতর্ক তৈরি হয়েছে। এ বিষয়ে স্বতঃপ্রণোদিত পদক্ষেপ করে খোদ সুপ্রিম কোর্ট! বিচলিত বোধ করেন স্বয়ং দেশের প্রধান বিচারপতি!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/sc-bans-class-8-textbook-sc-bans-ncert-social-science-textbook-with-chapter-on-judicial-corruption_642871.html ",
-    "time": "2026-02-26T09:16:01.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ভেষজ-ঔষধি গুণে ঠাসা, দিন দিন বাড়ছে কদর! ডাটা নয়, সজনে ফুলেই এইভাবে লক্ষ টাকা আয় করছেন সুন্দরবনের যুবকরা",
     "desc": "সজিনা ফুল এখন আর কেবল ঘরোয়া সবজি নয়, এটি একটি বহুমুখী ওষধি সম্পদ। ডাটা হওয়ার আগেই ফুল সংগ্রহ করে বাজারে বিক্রি করলে মিলছে রেকর্ড পরিমাণ মুনাফা। কম পুঁজিতে ভেষজ ব্যবসার এই নতুন দিশা সম্পর্কে জেনে নিন।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/singer-noble-gets-bail-sexual-harassment-case-sing-song-court_642742.html ",
     "time": "2026-02-25T11:19:25.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "মোবাইল ডায়াল প্যাডে ‘*’ আর ‘#’ চিহ্ন কেন থাকে? ৯৯% মানুষই জানেন না আসল কারণ!",
-    "desc": "এই সময়ে মোবাইল ফোন ছাড়া জীবন কল্পনা করাই কঠিন। এক ঘণ্টা ফোন পাশে না থাকলেই যেন মনে হয় দুনিয়াই থেমে গেছে! কল করতে হোক বা রিসিভ করতে—ডায়াল প্যাড খুলতেই হয়। সেখানে ০ থেকে ৯ পর্যন্ত সংখ্যার পাশাপাশি ‘*’ (স্টার) আর ‘#’ (হ্যাশ) বোতামও থাকে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1772016180_TECH-2026-01-0170eb481e5065207a623e1193593c48-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/why-are-there-star-and-hash-symbols-on-a-mobile-phones-dial-pad-99-percent-of-people-dont-know-smc-2557437.html",
-    "time": "2026-02-25T11:03:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সুন্দরবনের নোনা মাটিতেই সূর্যমুখী চাষে বাম্পার ফলন! মোটা লাভের মুখ দেখতে চান আপনিও? রইল 'সিক্রেট টিপস'",
-    "desc": "সুন্দরবনের নোনা জমিতেই এখন সোনার ফসল! হেক্টর হেক্টর জমিতে ফুটে থাকা সূর্যমুখী চাষিদের জীবনে নতুন আশার আলো নিয়ে এসেছে। ধান চাষের পর পড়ে থাকা নোনা জমিতে কীভাবে বিজ্ঞানসম্মত উপায়ে এই চাষ হচ্ছে এবং বাম্পার ফলন পাওয়ার উপায় কী? দেখে নিন বিস্তারিত।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Sunflower-Cultivation-Tips-2026-02-6e8e1441c7ae8728e52182a0088a18b4-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/south-24-parganas-sunflower-cultivation-tips-sundarbans-sunflower-cultivation-saline-soil-success-farming-tips-l18-local18-2557015.html",
-    "time": "2026-02-25T09:31:54.000Z"
   }
 ];
