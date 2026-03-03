@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "ECB cancels Lions' tour, England women's training camp in UAE over security threat",
+    "desc": "In a major development, the ECB (England and Wales Cricket Board) has cancelled England Lions’ ongoing tour of the UAE after the US-Israeli air strikes on Iran. The board is working on getting the players...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ecb-cancels-lions-tour-england-women-s-training-camp-in-uae-over-security-threat-2026-03-03-1032386",
+    "time": "2026-03-03T04:05:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Glenn McGrath opens up on challenges in finding Australia's next generation pacers",
+    "desc": "The Australian men’s cricket team is undergoing its transition phase. With several star players in the twilight of their careers, the side will be looking towards the future in hopes of identifying the future stars...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/glenn-mcgrath-opens-up-on-challenges-in-finding-australia-s-next-generation-pacers-2026-03-03-1032378",
+    "time": "2026-03-03T02:30:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer weighs in on Sanju Samson's masterclass against West Indies ahead of T20 WC semi-final",
     "desc": "The Indian team has successfully booked their ticket to the semi-final of the ongoing T20 World Cup 2026. The side took on the West Indies in a do-or-die clash in hopes of making it to...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/finalissima-between-argentina-vs-spain-in-qatar-faces-uncertainty-following-tension-in-middle-east-2026-03-02-1032326",
     "time": "2026-03-02T13:04:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Irfan Pathan opens up on Varun Chakaravarthy's recent form after India's win over West Indies",
-    "desc": "The Indian team registered a brilliant victory against the West Indies in game 52 of the ongoing T20 World Cup 2026. The two sides locked horns in a bid to make it to the knockout...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-opens-up-on-varun-chakaravarthy-s-recent-form-after-india-s-win-over-west-indies-2026-03-02-1032325",
-    "time": "2026-03-02T12:51:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar Azam, Shaheen Afridi, and Salman Ali Agha among Pakistan players to be fined after World Cup exit: Repor",
-    "desc": "The ongoing T20 World Cup 2026 has been a major disappointment for the Pakistan cricket team. Led by Salman Ali Agha, Pakistan were eliminated from the Super 8 stage of the tournament after they finished...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-shaheen-afridi-and-salman-ali-agha-among-pakistan-players-to-be-fined-after-world-cup-exit-report-2026-03-02-1032315",
-    "time": "2026-03-02T11:40:26.000Z"
   }
 ];
