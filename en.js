@@ -1,12 +1,300 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Sapthami Gowda slams objectionable Paparazzi clicks",
+    "desc": "Megastar Chiranjeevi showered immense praise on his son Ram Charan's upcoming film 'Peddi', calling the new song 'Rai Rai Raa Raa' sheer fire. The song, featuring Charan's graceful dance and electrifying presence, has generated significant buzz. With A.R. Rahman's chartbuster first song and a strong cast, 'Peddi' is set for a grand release on April 30, 2026, with expectations soaring.",
+    "img": "https://static.toiimg.com/photo/msid-128972260,imgsize-92238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/sapthami-gowda-slams-objectionable-paparazzi-clicks-kantara-actress-demands-dignity-and-respect-for-women-in-cinema/articleshow/128972260.cms",
+    "time": "2026-03-03T12:43:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How much money does the host make?",
+    "desc": "Alan Cumming, renowned for hosting 'The Traitors US', boasts an estimated net worth of USD 5 million by 2026. His diverse income stems from acting across stage and screen, writing, owning a cabaret bar, and hosting prestigious events. This wealth reflects a career prioritizing creative choices over blockbuster franchises.",
+    "img": "https://static.toiimg.com/photo/msid-128962540,imgsize-118812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/alan-cumming-net-worth-how-much-money-does-the-traitors-us-host-make/articleshow/128962504.cms",
+    "time": "2026-03-03T12:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress inches closer to finalising candidate list for Assembly polls in Kerala",
+    "desc": "The partry’s Central Election Committee is set to review the initial list of candidates next week. The KPCC has submitted a list featuring several incumbent MLAs and prominent figures. With Congress planning to contest at least 60 constituencies, the party faces critical decisions on candidate selections, particularly in Palakkad.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/congress-inches-closer-to-finalising-candidate-list-for-assembly-polls-in-kerala/article70699326.ece",
+    "time": "2026-03-03T12:19:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB to play five home games at Chinnaswamy Stadium",
+    "desc": "Royal Challengers Bengaluru will host five of their seven home matches at the M Chinnaswamy Stadium in Bengaluru for the 2026 IPL season. This comes after extensive coordination with authorities to ensure matches can be held in the city. The remaining two home fixtures will be played in Raipur.",
+    "img": "https://static.toiimg.com/photo/msid-128971160,imgsize-50218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-rcb-to-play-five-home-games-at-chinnaswamy-stadium-in-bengaluru/articleshow/128971166.cms",
+    "time": "2026-03-03T12:17:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "US-Iran war: PM Modi speaks to leaders of Oman and Kuwait, discusses security of Indians",
+    "desc": "Prime Minister Narendra Modi spoke with the Sultan of Oman and the Crown Prince of Kuwait. Discussions focused on escalating Middle East tensions and the safety of Indians in these nations. India is actively engaging with Gulf partners. The nation prioritizes the well-being of its citizens abroad. India calls for restraint and de-escalation in the region.",
+    "img": "https://static.toiimg.com/photo/msid-128970243,imgsize-1157032.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/us-iran-war-pm-modi-speaks-to-leaders-of-oman-and-kuwait-discusses-security-of-indians/articleshow/128970236.cms",
+    "time": "2026-03-03T11:54:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why will India be knocked out if rain washes out T20 WC semi-final?",
+    "desc": "The T20 World Cup 2026 semi-finals feature India vs England in Mumbai and South Africa vs New Zealand in Kolkata. Though the forecast is clear, rain concerns remain after earlier washouts. The ICC has reserve days and extra time in place. If a semi-final is abandoned, the higher Super 8 team advances — meaning England and South Africa would qualify.",
+    "img": "https://static.toiimg.com/photo/msid-128969794,imgsize-31750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-eng-why-will-india-be-knocked-out-if-rain-washes-out-t20-world-cup-semi-final/articleshow/128968808.cms",
+    "time": "2026-03-03T11:48:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘Sufficient reserves’: Petrol minister Hardeep Puri assures energy availability amid Middle East tensions",
+    "desc": "India possesses ample energy reserves to navigate current Middle East tensions, assured Petroleum Minister Hardeep Puri. He highlighted the nation's commitment to energy availability, affordability, and sustainability, addressing concerns over potential supply disruptions. This assurance comes as global oil routes face risks, impacting major Asian economies reliant on Middle Eastern crude.",
+    "img": "https://static.toiimg.com/photo/msid-128969805,imgsize-852294.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sufficient-reserves-petrol-minister-hardeep-puri-assures-energy-availability-amid-middle-east-tensions/articleshow/128968926.cms",
+    "time": "2026-03-03T11:44:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Allu Arjun steals the show at Allu Sirish’s pre-wedding bash",
+    "desc": "Allu Arjun's protective gesture towards his wife Sneha at Allu Sirish's pre-wedding bash stole the show. He ensured she was comfortable and safe amidst the crowd, winning hearts with his thoughtful actions. The event also saw him interacting with industry colleagues and introducing his son to director Sandeep Reddy Vanga.",
+    "img": "https://static.toiimg.com/photo/msid-128969503,imgsize-222008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-arjun-steals-the-show-at-allu-sirishs-pre-wedding-bash-protective-gesture-towards-wife-sneha-wins-hearts/articleshow/128969503.cms",
+    "time": "2026-03-03T11:41:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka Chopra says her father would have chosen Nick Jonas for her",
+    "desc": "Priyanka Chopra Jonas believes her late father, Ashok Chopra, would have wholeheartedly approved of her husband, Nick Jonas. She shared that Nick's musical talent, a passion her father deeply cherished, and his wise soul would have made him an ideal match. Priyanka expressed a wish that her father could have met Nick and their daughter, Malti Marie.",
+    "img": "https://static.toiimg.com/photo/msid-128969109,imgsize-63190.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-says-her-father-would-have-chosen-nick-jonas-for-her-wish-my-dad-would-have-met-my-husband-and-my-daughter/articleshow/128968436.cms",
+    "time": "2026-03-03T11:30:05.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "‘Hanuman’ project launched to tackle human–wildlife conflict in Andhra Pradesh",
     "desc": "The project — Healing and Nurturing Units for Monitoring, Aid and Nursing of Wildlife (HANUMAN) — has been designed as a comprehensive scientific and technological intervention to protect both wildlife and people living in forest fringe villages",
     "img": "https://th-i.thgim.com/public/incoming/6qbd6n/article70698830.ece/alternates/LANDSCAPE_1200/10745_24_2_2026_20_5_11_3_IMG_20260224_WA0083.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/hanuman-project-launched-to-tackle-humanwildlife-conflict-in-andhra-pradesh/article70698771.ece",
-    "time": "2026-03-03T09:34:53.000Z"
+    "time": "2026-03-03T11:28:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anirudh Ravichander CLARIFIES on his acting career",
+    "desc": "Composer Anirudh Ravichander has firmly stated he has no aspirations to become a film hero, dedicating his focus entirely to music, his true passion. He aims to continue composing for at least two more decades, with dreams of a monumental collaboration between Rajinikanth and Shah Rukh Khan. Anirudh is currently immersed in several major upcoming projects.",
+    "img": "https://static.toiimg.com/photo/msid-128968612,imgsize-95780.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/no-plans-jana-nayagan-composer-anirudh-ravichander-clarifies-on-his-acting-career-aims-for-rajinikanthsrk-collaboration/articleshow/128968612.cms",
+    "time": "2026-03-03T11:22:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amitabh, Akshay , Ajay and others share colourful greetings",
+    "desc": "Indian cinema's biggest stars celebrated Holi 2026 with vibrant posts and heartfelt wishes. Actors like Amitabh Bachchan, Ajay Devgn, and Akshay Kumar shared festive greetings and nostalgic throwbacks. Priyanka Chopra and Manoj Bajpayee reflected on the festival's deeper meanings, emphasizing love and the triumph of good.",
+    "img": "https://static.toiimg.com/photo/msid-128968237,imgsize-56412.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/holi-2026-amitabh-bachchan-akshay-kumar-ajay-devgn-and-others-share-colourful-greetings/articleshow/128967833.cms",
+    "time": "2026-03-03T11:13:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "US-Iran war: Indian students moved out of Tehran",
+    "desc": "The Indian Embassy in Tehran has moved most Indian students to safer areas outside the city. This action follows heightened risks due to ongoing US-Iran tensions. The embassy is providing transportation, food, and accommodation. Other Indian nationals in Iran are advised to stay indoors and avoid protests. Emergency helplines are active as the security situation is closely monitored.",
+    "img": "https://static.toiimg.com/photo/msid-128968063,imgsize-1117536.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/us-iran-war-indian-students-moved-out-of-tehran/articleshow/128967957.cms",
+    "time": "2026-03-03T11:09:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "IAEA confirms entrances to Iran's Natanz enrichment plant were bombed",
+    "desc": "The underground Fuel ‌Enrichment Plant (FEP) is one ‌of ⁠Iran’s three uranium-enrichment plants that ⁠are known to have been operating when Israel and the United States ​carried out ‌strikes on Iranian nuclear facilities last June",
+    "img": "https://th-i.thgim.com/public/incoming/xuphzi/article70699149.ece/alternates/LANDSCAPE_1200/Iran_Nuclear_65821.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iaea-confirms-entrances-to-irans-natanz-enrichment-plant-were-bombed/article70699125.ece",
+    "time": "2026-03-03T11:00:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Madras HC bans illegal broadcast of 'The Kerala Story 2'",
+    "desc": "The Madras High Court has restrained internet service providers and cable operators from illegally broadcasting 'The Kerala Story 2' following a copyright infringement plea by the producer. The interim order, granted until March 23, aims to prevent irreparable damage to the film's legitimate business interests. The film, which faced an earlier release stay in Kerala, depicts forced religious conversions.",
+    "img": "https://static.toiimg.com/photo/msid-128967350,imgsize-45536.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madras-hc-bans-illegal-broadcast-of-the-kerala-story-2-by-cable-operators/articleshow/128967105.cms",
+    "time": "2026-03-03T10:56:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Here's how Iran-Israel conflict may impact your kitchen bill, from staples to dessert",
+    "desc": "Middle East tensions are set to inflate your grocery bills, with prices for dal, dry fruits, and sweets potentially soaring up to 30%. Disruptions to trade routes and rising freight charges are impacting supply chains linked to Iran, Israel, and the US. While rice might offer some relief, expect your favorite comfort foods and kitchen staples to become significantly costlier.",
+    "img": "https://static.toiimg.com/photo/msid-128967197,imgsize-2690052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-turns-up-the-heat-heres-how-iran-israel-conflict-may-impact-your-kitchen-bill-from-staples-to-dessert/articleshow/128962524.cms",
+    "time": "2026-03-03T10:54:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Three Indian seafarers onboard foreign vessels killed, one injured amid escalating Middle East tensions",
+    "desc": "Tragic news from the Middle East as three Indian seafarers lost their lives and one was injured in recent incidents involving foreign-flagged vessels. Amidst escalating US-Iran tensions, maritime authorities are urging extreme caution, enhanced security, and thorough risk assessments for all voyages in the region. The remaining crew are safe, with authorities coordinating support.",
+    "img": "https://static.toiimg.com/photo/msid-128966910,imgsize-1056786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/three-indian-seafarers-onboard-foreign-vessels-killed-one-injured-amid-escalating-middle-east-tensions/articleshow/128966724.cms",
+    "time": "2026-03-03T10:51:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli walks with son Akaay in London, video goes viral",
+    "desc": "Virat Kohli, currently on a break from cricket, was spotted with his son Akaay in London. The former captain is prioritizing family time and privacy for his children. Kohli also shared Holi wishes on social media and is gearing up for his return in the IPL 2026 season with RCB.",
+    "img": "https://static.toiimg.com/photo/msid-128966644,imgsize-34912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/virat-kohli-walks-with-son-akaay-in-london-video-goes-viral-watch/articleshow/128966490.cms",
+    "time": "2026-03-03T10:48:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pink addresses divorce rumors on talk show",
+    "desc": "Singer Pink addressed divorce rumors while guest hosting 'The Kelly Clarkson Show,' wearing a \"Give me some good news\" shirt. She humorously responded to reports of separation on Instagram, noting her children were also unaware. Pink also confirmed her family's move to New York for her daughter's theater studies, fueling further speculation.",
+    "img": "https://static.toiimg.com/photo/msid-128966281,imgsize-76998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/pink-shuts-down-divorce-rumors-with-carey-hart-on-the-kelly-clarkson-show-using-a-sarcastic-reply-tell-our-children/articleshow/128966281.cms",
+    "time": "2026-03-03T10:46:23.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Anthropic’s resistance to the U.S. Department of Defence, OpenAI’s entry: Explained",
+    "desc": "The Dario Amodei-led firm refused to cooperate with the U.S. government’s demands that the firm’s products be used in the deployment of autonomous strikes. The firm has been threatened with being designated as a “supply chain risk”",
+    "img": "https://th-i.thgim.com/public/incoming/r2lf9o/article70698914.ece/alternates/LANDSCAPE_1200/2026-03-02T143303Z_571373715_RC2EWJADNSPA_RTRMADP_3_USA-PENTAGON-ANTHROPIC.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropics-resistance-to-the-us-department-of-defense-openais-entry-explained/article70698887.ece",
+    "time": "2026-03-03T10:45:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Valsamma",
+    "desc": "M.D. Valsamma won the 400m hurdles gold at the New Delhi Asian Games in 1982 and helped India qualify for the women’s 4x400m relay final at the Los Angeles Olympics two years later; she still cherishes those memories",
+    "img": "https://th-i.thgim.com/public/incoming/wkoa6s/article70696147.ece/alternates/LANDSCAPE_1200/10018_28_2_2026_15_22_46_1_M_D_VALSAMMA_08.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/athletics/sad-to-see-kerala-failing-to-keep-its-great-tradition-of-female-athletes-valsamma/article70696098.ece",
+    "time": "2026-03-03T10:43:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "History that frames India’s silence over Khamenei’s demise",
+    "desc": "India's measured response to Iran's supreme leader's assassination, focusing on regional de-escalation, has sparked domestic criticism. While condemning Iranian strikes on Gulf allies, New Delhi has avoided direct condemnation of the killing, prioritizing national interests like energy security and diaspora welfare. This stance contrasts with past criticisms of Iran's internal affairs.",
+    "img": "https://static.toiimg.com/photo/msid-128966563,imgsize-1002391.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-caa-criticism-to-kashmir-remark-history-that-frames-indias-silence-over-khameneis-demise/articleshow/128966016.cms",
+    "time": "2026-03-03T10:42:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A.P. Tourism launches ‘Driver-Cum-Guide’ training with Rapido in Vijayawada",
+    "desc": "Drivers were trained to use translation tools like ‘Bhashini’ app and Google Translate to communicate effectively with international tourists and also given storytelling training to narrate the historical significance of landmarks in an engaging manner",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-tourism-launches-driver-cum-guide-training-with-rapido-in-vijayawada/article70698624.ece",
+    "time": "2026-03-03T10:38:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No better feeling': Air India flies 149 stranded passengers to Delhi from Dubai amid escalating West Asia tensions",
+    "desc": "Air India successfully repatriated 149 passengers and 8 crew members from Dubai to Delhi, marking the first international arrival by an Indian carrier. This operation comes as Dubai's airports begin partial resumption of limited flight operations after days of disruption due to escalating regional tensions and airspace restrictions.",
+    "img": "https://static.toiimg.com/photo/msid-128966125,imgsize-1086530.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-better-feeling-air-india-flies-149-stranded-passengers-to-delhi-from-dubai-amid-escalating-west-asia-tensions/articleshow/128964012.cms",
+    "time": "2026-03-03T10:34:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Why Carolyn Bessette-Kennedy wore wedding ring on chain",
+    "desc": "JFK Jr. & Carolyn Bessette', created by Ryan Murphy, centers around a striking wedding band worn by Carolyn as a necklace. It is portrayed as a memento from her father, illustrating her complex feelings towards love and trust.",
+    "img": "https://static.toiimg.com/photo/msid-128965766,imgsize-68134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/real-reason-why-carolyn-bessette-kennedy-wore-ring-in-a-chain-in-love-story-jfk-jr-carolyn-bessette-episode-4-revealed/articleshow/128965766.cms",
+    "time": "2026-03-03T10:32:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I didn't say he needs work,' Sonu responds Rajpal Yadav",
+    "desc": "Actor Rajpal Yadav received interim bail in a long-standing cheque bounce case. He addressed Sonu Sood's offer of work, stating he does not require professional assistance. Yadav emphasized his dedication to cinema and consistent work ethic over the past decade. The legal battle stems from a 2010 loan for a film that failed at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-128965842,imgsize-22354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-didnt-say-he-needs-work-says-sonu-sood-as-he-responds-to-rajpal-yadavs-reaction-to-his-comment-about-giving-him-work/articleshow/128965726.cms",
+    "time": "2026-03-03T10:29:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mother quit job for chess — Making of Aarav Dengla",
+    "desc": "Sixteen-year-old Aarav Dengla has become India’s 93rd Grandmaster (GM). Guided by his mother Shipra, who quit her job to support his career, Aarav rose rapidly from prodigy to champion. Initially trained by GM Pravin Thipsay and then under Vishnu Prasanna, and balancing rigorous academics, he sealed his final GM norm in 2026, emerging as Mumbai’s third Grandmaster.",
+    "img": "https://static.toiimg.com/photo/msid-128965278,imgsize-91590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-93rd-gm-mother-quit-job-for-chess-the-making-of-aarav-dengla-influenced-by-d-gukesh-and-arjun-erigaisi/articleshow/128963986.cms",
+    "time": "2026-03-03T10:18:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "GCCs may see short-term hit; here's why India might ultimately win",
+    "desc": "Middle East tensions could temporarily disrupt India's global capability center (GCC) growth. While immediate investments might pause due to uncertainty, experts suggest companies may eventually shift operations to India for greater stability. This could position India as a key beneficiary, though prolonged conflict impacting oil prices poses a risk to global tech spending and India's GCC ambitions.",
+    "img": "https://static.toiimg.com/photo/msid-128964770,imgsize-18930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-crisis-gccs-may-see-short-term-hit-heres-why-india-might-ultimately-win/articleshow/128963947.cms",
+    "time": "2026-03-03T10:10:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Urmila, Ali-Richa and others attend Javed's Holi party",
+    "desc": "Veteran couple Javed Akhtar-Shabana Azmi hosted a vibrant Holi party at their Mumbai home. Shabana posed with Baba Azmi, Tanvi Azmi; Urmila Matondkar, Rahul Bose, Ali Fazal-Richa Chadha joined festivities. Shabana recalled Javed buying a florist shop, winning her heart despite mom's warning.",
+    "img": "https://static.toiimg.com/photo/msid-128964287,imgsize-28832.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/holi-2026-urmila-matondkar-ali-fazal-richa-chadha-and-others-get-drenched-in-colors-at-javed-akhtar-and-shabana-azmis-festive-party/articleshow/128964287.cms",
+    "time": "2026-03-03T09:58:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC steps in to help out WI, Zimbabwe with return plans amid conflict in Middle East",
+    "desc": "The ICC is facilitating the return of the West Indies and Zimbabwe cricket teams from India following their T20 World Cup exit. Geopolitical tensions in the Middle East have led to widespread flight cancellations, delaying the teams' departures.",
+    "img": "https://static.toiimg.com/photo/msid-128963829,imgsize-97402.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-icc-steps-in-to-help-out-west-indies-zimbabwe-with-return-plans-amid-conflict-in-middle-east/articleshow/128963843.cms",
+    "time": "2026-03-03T09:52:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Progress on rules for lethal autonomous weapons urgently needed, says chair of Geneva talks",
+    "desc": "From this week to the mandate's end ​in September, 128 states will discuss whether to agree ⁠by consensus on a non-binding text that could pave the way for future negotiations on prohibitions and regulations on LAWS",
+    "img": "https://th-i.thgim.com/public/incoming/p22jf1/article70698738.ece/alternates/LANDSCAPE_1200/2026-03-03T073826Z_2013931884_RC23TJAOJTLG_RTRMADP_3_ARMS-AI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/progress-on-rules-for-lethal-autonomous-weapons-urgently-needed-says-chair-of-geneva-talks/article70698697.ece",
+    "time": "2026-03-03T09:49:33.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "State media",
+    "desc": "\"A security source reported that fuel tanks at the commercial port of Duqm were targeted by several drones, one of which hit a fuel tank. The resulting damage was contained without any human casualties,\" says the Oman News Agency",
+    "img": "https://th-i.thgim.com/public/incoming/cw145c/article70698797.ece/alternates/LANDSCAPE_1200/Cyprus_Iran_US_Israel_24179.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/drones-hit-fuel-tank-at-oman-port-state-media/article70698772.ece",
+    "time": "2026-03-03T09:46:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Justin Timberlake opposes release of bodycam footage from old arrest",
+    "desc": "Pop icon Justin Timberlake is on a quest to stop the potential release of bodycam visuals from his 2024 DWI incident. His attorneys assert that making this footage public could bring 'serious and lasting damage' to his public persona, revealing intimate details that stray far from the boundaries of public interest.",
+    "img": "https://static.toiimg.com/photo/msid-128963692,imgsize-75120.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/justin-timberlake-files-petition-against-release-of-bodycam-footage-from-2024-dwi-charge-would-cause-severe-and-irreparable-harm/articleshow/128963692.cms",
+    "time": "2026-03-03T09:37:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -18,13 +306,13 @@ const newsData_en = [
     "time": "2026-03-03T09:30:00.000Z"
   },
   {
-    "cat": "World",
-    "title": "State media",
-    "desc": "\"A security source reported that fuel tanks at the commercial port of Duqm were targeted by several drones, one of which hit a fuel tank. The resulting damage was contained without any human casualties,\" says the Oman News Agency",
-    "img": "https://th-i.thgim.com/public/incoming/cw145c/article70698797.ece/alternates/LANDSCAPE_1200/Cyprus_Iran_US_Israel_24179.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/drones-hit-fuel-tank-at-oman-port-state-media/article70698772.ece",
-    "time": "2026-03-03T09:16:18.000Z"
+    "cat": "Business",
+    "title": "Should you invest in gold ETFs or silver ETFs? Here's what experts suggest",
+    "desc": "Amidst rising geopolitical tensions, investors are flocking to safe-haven assets like gold and silver ETFs. Experts suggest a higher allocation to gold for stability, with silver playing a complementary role. While gold ETFs offer primary protection, silver's industrial demand makes it more volatile. A 10-15% portfolio allocation to precious metals is advised.",
+    "img": "https://static.toiimg.com/photo/msid-128963480,imgsize-170748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-crisis-should-you-invest-in-gold-etfs-or-silver-etfs-heres-what-experts-suggest/articleshow/128963264.cms",
+    "time": "2026-03-03T09:25:19.000Z"
   },
   {
     "cat": "Business",
@@ -63,33 +351,6 @@ const newsData_en = [
     "time": "2026-03-03T08:58:29.000Z"
   },
   {
-    "cat": "World",
-    "title": "Progress on rules for lethal autonomous weapons urgently needed, says chair of Geneva talks",
-    "desc": "From this week to the mandate's end ​in September, 128 states will discuss whether to agree ⁠by consensus on a non-binding text that could pave the way for future negotiations on prohibitions and regulations on LAWS",
-    "img": "https://th-i.thgim.com/public/incoming/p22jf1/article70698738.ece/alternates/LANDSCAPE_1200/2026-03-03T073826Z_2013931884_RC23TJAOJTLG_RTRMADP_3_ARMS-AI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/progress-on-rules-for-lethal-autonomous-weapons-urgently-needed-says-chair-of-geneva-talks/article70698697.ece",
-    "time": "2026-03-03T08:57:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who is Alexis Stone artist behind Jim Carrey rumors",
-    "desc": "a hyper-realistic prosthetic Jim Carrey face, leading many to speculate about the actor's rumored attendance at the César Awards. Stone, renowned for his transformative portrayals of celebrities, has fans questioning if this is a genuine sighting of Carrey or yet another brilliant illusion crafted by the artist.",
-    "img": "https://static.toiimg.com/photo/msid-128962372,imgsize-123130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/who-is-alexis-stone-the-artist-behind-the-jim-carrey-csar-awards-rumors/articleshow/128962372.cms",
-    "time": "2026-03-03T08:19:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Daniel Radcliffe on becoming a fitness freak",
-    "desc": "Daniel Radcliffe, once indifferent to his health, has embraced a rigorous fitness routine, including gym sessions and early mornings dictated by his young son. The \"Harry Potter\" star, who has been sober since 2012, candidly shared his past struggles with alcohol and his transformation into a dedicated fitness enthusiast, highlighting a significant shift in his lifestyle and well-being.",
-    "img": "https://static.toiimg.com/photo/msid-128962210,imgsize-45682.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/daniel-radcliffe-calls-himself-a-fitness-freak-says-i-feel-like-im-a-clich-of-a-former-alcoholic/articleshow/128962210.cms",
-    "time": "2026-03-03T08:07:51.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Iranian filmmaker Mohammad Rasoulof calls Ayatollah Ali Khamenei ‘most hated figure’ after death in U.S.-Israel strike",
     "desc": "Iranian director Mohammad Rasoulof, whose film ‘The Seed of the Sacred Fig’ won at Cannes, has condemned Ayatollah Ali Khamenei following the Supreme Leader’s death in a U.S.-Israel military strike, calling him “the most hated figure in the contemporary history of Iran”",
@@ -97,24 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/iranian-filmmaker-mohammad-rasoulof-calls-ayatollah-ali-khamenei-most-hated-figure-after-death-in-us-israel-strike/article70698476.ece",
     "time": "2026-03-03T07:59:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did Quentin Tarantino die in Israel? Truth behind death hoax",
-    "desc": "Renowned filmmaker Quentin Tarantino has been the subject of a death hoax, with a viral social media post falsely claiming he and his family perished in an Israeli strike. Sources close to the director have vehemently denied these reports, confirming Tarantino and his loved ones are safe. The fabricated news circulated widely, even misattributing information to reputable publications. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128961276,imgsize-119088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/fact-check-did-quentin-tarantino-die-in-israel-the-truth-behind-the-viral-death-hoax-reports/articleshow/128961276.cms",
-    "time": "2026-03-03T07:59:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Relationship timeline of Tom Holland and Zendaya’s romance",
-    "desc": "Homecoming and built a close friendship that evolved into a romantic relationship, officially confirmed in 2021 when they were photographed kissing. They later became engaged over the 2024 holidays, with Zendaya debuting a diamond ring at the 2025 Golden Globes. In March 2026, Zendaya’s longtime stylist, Law Roach, teased on the red carpet that the pair had already tied the knot in a private ceremony the public missed. Rumors intensified when Zendaya was seen wearing a simple band. Both stars continue to value privacy while supporting each other’s careers in film and television.",
-    "img": "https://static.toiimg.com/photo/msid-128961933,imgsize-19998.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/complete-relationship-timeline-of-tom-holland-and-zendayas-romance/photostory/128961933.cms",
-    "time": "2026-03-03T07:56:57.000Z"
   },
   {
     "cat": "Business",
@@ -144,15 +387,6 @@ const newsData_en = [
     "time": "2026-03-03T07:35:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Lily Collins opens up about her eating disorders",
-    "desc": "In a heartfelt revelation, actress Lily Collins opened up about her personal struggles with eating disorders during Eating Disorder Awareness Week. Drawing from her impactful experiences, including her role in the poignant film 'To The Bone' and insights from her memoir 'Unfiltered,' she advocates for a deeper understanding of recovery as a highly individualized journey.",
-    "img": "https://static.toiimg.com/photo/msid-128961556,imgsize-40580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lily-collins-opens-up-about-her-journey-with-eating-disorders-ive-always-advocated-for-more-awareness-and-understanding/articleshow/128961556.cms",
-    "time": "2026-03-03T07:32:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "All England missed, Sindhu lands back in Bengaluru from Dubai",
     "desc": "\"A heartfelt thank you to the incredible ground teams, Dubai authorities, airport staff, immigration, and every single person who stepped up and took such good care of us during a very difficult time. The empathy and professionalism meant more than words can say,” says P.V. Sindhu",
@@ -171,15 +405,6 @@ const newsData_en = [
     "time": "2026-03-03T07:25:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Christopher Nolan to review final edit",
-    "desc": "Hollywood's Christopher Nolan is reportedly set to supervise the final edit and post-production of Nitesh Tiwari's 'Ramayana'. Collaborating with cinematographer Hoyte van Hoytema, Nolan is expected to dedicate 72 days to the project, focusing on technical and visual elements for an IMAX release. Oscar-winning editor Jennifer Lame will reportedly work under Nolan's guidance for the final cut. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128960940,imgsize-209496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-christopher-nolan-and-hoyte-van-hoytema-to-review-the-final-edit-of-ranbir-kapoor-sai-pallavi-starrer-reports/articleshow/128960940.cms",
-    "time": "2026-03-03T07:20:50.000Z"
-  },
-  {
     "cat": "World",
     "title": "Attack by two drones on U.S. Embassy in Saudi capital sparks ‘limited’ fire; Trump suggests U.S. to retaliate 'soon'",
     "desc": "Speaking to the NewsNation network, President Trump said, \"You’ll find out soon\" how the United States would respond, without providing further detail, after the US embassy confirmed a drone attack that caused \"a limited fire and minor material damage\"",
@@ -187,15 +412,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-suggests-us-to-retaliate-soon-over-embassy-strike-in-riyadh/article70697803.ece",
     "time": "2026-03-03T07:14:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shabana recalls the day Javed brought the entire shop of flowers",
-    "desc": "Javed Akhtar and Shabana Azmi mark 41 years of marriage, teasing each other's romance (or lack thereof). Javed dismisses movie-like love; Shabana reveals his flower shop splurge during courtship—despite her mom's \"Mat phaso\" warning. Their fight fix? \"Drop it\" for 10 days.",
-    "img": "https://static.toiimg.com/photo/msid-128961142,imgsize-30964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-fell-head-over-heels-shabana-azmi-recalls-the-day-javed-akhtar-stopped-the-car-and-brought-the-entire-shop-of-flowers-for-her/articleshow/128961142.cms",
-    "time": "2026-03-03T07:05:39.000Z"
   },
   {
     "cat": "Business",
@@ -225,15 +441,6 @@ const newsData_en = [
     "time": "2026-03-03T06:00:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Alia Bhatt confirms ‘Love and War’ is at 'tail end of filming'",
-    "desc": "Alia Bhatt has confirmed that Sanjay Leela Bhansali’s highly anticipated film, 'Love and War,' is nearing completion. Speaking at Milan Fashion Week 2026, the global ambassador of a luxury brand revealed the team is at the \"tail end\" of filming. Co-starring Ranbir Kapoor and Vicky Kaushal, the project marks Alia’s second collaboration with Bhansali following her National Award-winning performance in 'Gangubai Kathiawadi.' Despite earlier rumors of significant delays and a potential 2027 shift, Alia’s latest update suggests the production is back on track for a 2026 theatrical release.",
-    "img": "https://static.toiimg.com/photo/msid-128959766,imgsize-58288.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-confirms-love-and-war-is-at-tail-end-of-filming-gushes-over-magical-experience-of-working-with-sanjay-leela-bhansali/articleshow/128959766.cms",
-    "time": "2026-03-03T05:54:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Back home and safe': PV Sindhu returns to India after being stuck in Dubai",
     "desc": "Indian badminton star PV Sindhu has returned to Bengaluru safely. She was stranded in Dubai amid escalating Middle East conflict. Sindhu expressed gratitude to ground teams and Dubai authorities for their support. The athlete and her coach experienced a close call after an explosion nearby. She is now resting and planning her next steps.",
@@ -241,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/back-home-and-safe-pv-sindhu-returns-to-india-after-being-stuck-in-dubai-amid-middle-east-conflict/articleshow/128959992.cms",
     "time": "2026-03-03T05:49:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika-Vijay share FIRST OFFICIAL pics from their sangeet",
-    "desc": "Newlyweds Rashmika Mandanna and Vijay Deverakonda have shared enchanting glimpses of their sangeet night, a celebration filled with love, laughter, and dancing. The couple looked radiant in stunning ensembles, with Rashmika dazzling in a shimmery lehenga and Vijay in a regal sherwani. Their families also joined in the joyous festivities, creating unforgettable memories. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128959799,imgsize-267456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-and-vijay-deverakonda-share-first-official-glimpses-from-their-enchanting-sangeet-the-night-we-danced-as-one/articleshow/128959799.cms",
-    "time": "2026-03-03T05:46:21.000Z"
   },
   {
     "cat": "Politics",
@@ -261,24 +459,6 @@ const newsData_en = [
     "time": "2026-03-03T05:43:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Savannah Guthrie visits missing mother Nancy Guthrie's home",
-    "desc": "In a heartfelt moment, Savannah Guthrie made her way to Tucson to honor her late mother, Nancy, exactly one month after her mysterious disappearance. Joined by her sister and brother-in-law, they laid vibrant flowers at the memorial, deepening their connection to the cherished memories they hold.",
-    "img": "https://static.toiimg.com/photo/msid-128959843,imgsize-159970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/english/savannah-guthrie-makes-emotional-visit-to-missing-mother-nancy-guthries-home/articleshow/128959843.cms",
-    "time": "2026-03-03T05:42:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bodycam footage from Ashley Flynn’s case released",
-    "desc": "A heartbreaking bodycam recording has emerged, capturing the aftermath of Caleb Flynn, known from American Idol, discovering his wife Ashley tragically deceased in their family home in Ohio. The visceral footage reveals Flynn's palpable anguish as he urgently contacts the authorities, laying bare his soul in a moment of grief.",
-    "img": "https://static.toiimg.com/photo/msid-128959785,imgsize-148800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bodycam-footage-from-the-day-of-ashley-flynns-demise-shows-american-idol-star-caleb-flynn-distraught/articleshow/128959785.cms",
-    "time": "2026-03-03T05:41:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "From on-field umpires to match referees",
     "desc": "Indian umpire Nitin Menon has earned a spot on the elite panel for the ICC Men's T20 World Cup semifinals. He will serve as the third umpire for the Kolkata clash between South Africa and New Zealand on March 4. The following day, India faces England in Mumbai, with a separate officiating team in place.",
@@ -286,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-semifinals-ind-vs-eng-sa-vs-nz-from-on-field-umpires-to-match-referees-full-details/articleshow/128959745.cms",
     "time": "2026-03-03T05:39:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Where does Zendaya live? Exploring her lavish houses",
-    "desc": "Zendaya's real estate empire is expanding, with recent reports of her purchasing a Hollywood Hills fixer-upper adjacent to her existing property. This adds to her impressive portfolio, including homes in Los Angeles and a luxury condo in Brooklyn.",
-    "img": "https://static.toiimg.com/photo/msid-128959693,imgsize-443866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/where-does-zendaya-live-exploring-the-drama-actresss-lavish-real-estate-portfolio-spread-across-la/articleshow/128959644.cms",
-    "time": "2026-03-03T05:33:00.000Z"
   },
   {
     "cat": "Politics",
@@ -451,30 +622,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Festive mood grips Kerala capital ahead of Attukal Pongala March 3",
-    "desc": "Labelled as among the largest religious congregations of women in the country, thousands of families across Kerala and also neighbouring States are trickling into a six-km radius of the famed Attukal Devi Temple to offer a sacrament of rice and jaggery cooked on makeshift brick hearths",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/9tynq8/article70697883.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-03%20at%2008.47.16.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/festive-mood-grips-the-city-ahead-of-attukal-pongala-on-tuesday/article70696351.ece",
-    "time": "2026-03-03T03:46:58.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Judicial panel extends deadline for submitting evidence to April 1",
     "desc": "The single-member commission of former Madhya Pradesh High Court judge Justice Sushil Kumar Gupta is investigating the causes of drinking water contamination in the Bhagirathpura area, the loss of lives and medical impact on people, administrative lapses, action against those responsible and remedial measures.",
     "img": "https://th-i.thgim.com/public/incoming/v0h9oe/article70697855.ece/alternates/LANDSCAPE_1200/6744_10_1_2026_11_49_40_4_14_DSC_2759.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/madhya-pradesh/indore-water-contamination-judicial-panel-extends-deadline-for-submitting-evidence-to-april-1/article70697836.ece",
     "time": "2026-03-03T03:28:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Still stranded in India! Middle East airspace closure disrupts Zimbabwe's post-T20 World Cup travel",
-    "desc": "Zimbabwe's cricket team faces a travel delay from India after West Asian airspace closures disrupted their planned return via Dubai. The squad, safe in Delhi, awaits new arrangements as the ICC works with carriers to secure alternative routes. Tensions in the Middle East have impacted flights, leaving the team temporarily stranded following their T20 World Cup campaign.",
-    "img": "https://static.toiimg.com/photo/msid-128958303,imgsize-87310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/still-stranded-in-india-middle-east-airspace-closure-disrupts-zimbabwes-post-t20-world-cup-travel/articleshow/128958288.cms",
-    "time": "2026-03-03T03:21:48.000Z"
   },
   {
     "cat": "Sports",
@@ -523,15 +676,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Chhoti soch hai’: Afridi tears into 50 lakh fine, demands 2-year exile for some",
-    "desc": "Former Pakistan captain Shahid Afridi strongly opposes fines for players after their T20 World Cup exit. He calls the proposed PKR 5 million penalty small thinking. Afridi suggests sending underperforming players to first-class cricket. Some players, he believes, should be out of the Pakistan team for two years. He also calls for better workload management and player changes.",
-    "img": "https://static.toiimg.com/photo/msid-128958009,imgsize-57528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/chhoti-soch-hai-shahid-afridi-tears-into-50-lakh-fine-after-pakistans-t20-world-cup-flop-demands-2-year-exile-for-some/articleshow/128958008.cms",
-    "time": "2026-03-03T02:45:03.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Why was Sanju Samson axed? Gautam Gambhir's big admission",
     "desc": "Sanju Samson's unbeaten 97 guided India to the semi-finals, a performance head coach Gautam Gambhir attributed to a strategic break after a tough series against New Zealand. Gambhir highlighted Samson's composure and classical shots, expressing hope that this match-winning knock marks a turning point for the talented batter.",
     "img": "https://static.toiimg.com/photo/msid-128957843,imgsize-49208.cms",
@@ -576,24 +720,6 @@ const newsData_en = [
     "time": "2026-03-03T01:14:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Every IND-ENG semi-final winner has won T20 WC — trend to continue?",
-    "desc": "India and England renew their T20 World Cup semi-final rivalry at Wankhede, marking their third consecutive clash in the last four. Both previous encounters saw the winner go on to lift the trophy, adding significant intrigue to this high-stakes encounter. The teams hold a balanced record in World Cup semi-finals, with one win each.",
-    "img": "https://static.toiimg.com/photo/msid-128946245,imgsize-108658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/every-india-england-semi-final-winner-has-won-the-t20-world-cup-trend-to-continue/articleshow/128946212.cms",
-    "time": "2026-03-03T00:31:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'India would've been knocked out': Ex-Pakistan star sparks fresh controversy",
-    "desc": "Mohammad Amir faced criticism after his prediction that India wouldn't reach the T20 World Cup 2026 semi-finals proved incorrect. Despite India's win, Amir highlighted a controversial dismissal of Shimron Hetmyer, believing it could have altered the match's outcome. He also questioned India's overall performance, citing fielding errors and reliance on Jasprit Bumrah.",
-    "img": "https://static.toiimg.com/photo/msid-128949650,imgsize-72658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-wouldve-been-knocked-out-ex-pakistan-star-sparks-fresh-controversy-after-indias-semifinal-entry/articleshow/128949406.cms",
-    "time": "2026-03-02T23:41:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "2 more panels for Bengal to fast-track CAA applications",
     "desc": "The Home Ministry has established two new empowered committees in West Bengal to expedite citizenship applications under the CAA, bringing the total to four. These panels will finalize citizenship grants for persecuted minorities from Pakistan, Afghanistan, and Bangladesh who arrived before December 31, 2014.",
@@ -622,15 +748,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Breaking from tradition, govt &amp; oppn differ over stand on Iran",
-    "desc": "A US-Israel attack on Iran and the killing of its supreme leader have created a significant divide. Opposition parties, including Congress and Left, are criticizing the government's response. They call for condemnation of the killings and emphasize diplomacy. The Prime Minister's recent visit to Israel is also a point of contention. India has urged restraint and dialogue to ease tensions.",
-    "img": "https://static.toiimg.com/photo/msid-128956855,imgsize-845549.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/breaking-from-tradition-govt-oppn-differ-over-stand-on-iran/articleshow/128956848.cms",
-    "time": "2026-03-02T22:42:11.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Race heats up for Bihar’s five Rajya Sabha seats with RJD entry",
     "desc": "Though the Opposition party is likely to secure the support of Mahagathbandhan allies like the Congress and the Left parties, their combined tally still falls short of the minimum number required for winning a Rajya Sabha seat",
     "img": "https://th-i.thgim.com/public/news/cities/Delhi/vtxxdk/article70696985.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
@@ -646,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/samson-from-an-enigma-to-asuperking/article70696889.ece",
     "time": "2026-03-02T18:16:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Doping crisis grows, doctors told to be careful while prescribing",
-    "desc": "Amidst rising doping cases, the National Medical Commission has urged doctors nationwide to exercise caution when prescribing to athletes. This directive aims to prevent banned substances from entering sports through routine prescriptions, contaminated supplements, or deliberate cheating. Doctors are advised to familiarize themselves with WADA's prohibited list and ensure proper documentation for any necessary banned medications.",
-    "img": "https://static.toiimg.com/photo/msid-128952700,imgsize-21690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/doping-crisis-grows-doctors-told-to-be-careful-while-prescribing/articleshow/128952689.cms",
-    "time": "2026-03-02T17:43:02.000Z"
   },
   {
     "cat": "Politics",
@@ -675,15 +783,6 @@ const newsData_en = [
     "time": "2026-03-02T17:00:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Peace is not only a moral imperative, it is an economic necessity’",
-    "desc": "The assassination of Ayatollah Ali Khamenei, Supreme Leader of the Islamic Republic of Iran, marked a dangerous and destabilising moment for the region and the global economy, says Syed Hakim Raza, president of Indo-Iran Chamber of Commerce and Industries",
-    "img": "https://th-i.thgim.com/public/incoming/fc7hom/article70696785.ece/alternates/LANDSCAPE_1200/Indo%20Iran%202.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/peace-is-not-only-a-moral-imperative-it-is-an-economic-necessity/article70696608.ece",
-    "time": "2026-03-02T16:41:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Force is with the Men in Blue despite chinks in their armour",
     "desc": "Samson’s brilliance helps the defending champion edge West Indies in a virtual knockout game; the team, however, needs to be more disciplined with the ball and improve its catching to get past England in the semifinal at Wankhede",
@@ -691,33 +790,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-force-is-with-men-in-blue-despite-chinks-in-their-armour/article70695763.ece",
     "time": "2026-03-02T16:31:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress seeks power only with public consent, not by spreading hate: Rahul Gandhi",
-    "desc": "Leader of Opposition in Lok Sabha addresses valedictory session of District Congress Committee presidents’ training camp in Vikarabad; says Congress was founded on the ideals of truth and harmony, and leaders must constantly strive to practice these values in public life",
-    "img": "https://th-i.thgim.com/public/incoming/g229gb/article70696710.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-02%20at%207.12.05%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/congress-will-seek-power-with-public-consent-and-not-by-spreading-hate-rahul-gandhi/article70696683.ece",
-    "time": "2026-03-02T16:23:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court to look into feasibility of NAT for blood transfusion",
-    "desc": "Petitioner-NGO says right to safe blood transfusion is a fundamental part of the right to life under Article 21 of the Constitution; it says NAT is a safer testing mechanism to ensure the supply of safe and infection-free blood to recipients",
-    "img": "https://th-i.thgim.com/public/incoming/weka6s/article70696721.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UJ27JGE8M_R1594915776_4_f1db00fa-e92c-4efe-afeb-e8bf5bab5412.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/supreme-court-to-look-into-feasibility-of-nat-for-blood-transfusion/article70696607.ece",
-    "time": "2026-03-02T16:22:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PV Sindhu pulls out of All England amid rising tensions in Middle East",
-    "desc": "PV Sindhu has withdrawn from the All England Championships due to travel disruptions in Dubai, but will compete in the Swiss Open next week. The rest of the Indian contingent is in Birmingham, aiming to break a 25-year jinx at the prestigious event. Several Indian players face tough opening rounds against top international opponents.",
-    "img": "https://static.toiimg.com/photo/msid-128950822,imgsize-31344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/stuck-in-dubai-pv-sindhu-pulls-out-of-all-england-amid-rising-tensions-in-middle-east/articleshow/128950798.cms",
-    "time": "2026-03-02T16:09:55.000Z"
   },
   {
     "cat": "World",
@@ -736,24 +808,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/tehrans-gandhi-hospital-evacuated-after-explosions-nearby-who-says/article70695950.ece",
     "time": "2026-03-02T14:20:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India assesses oil availability as West Asia crisis deepens, assures 'affordability'",
-    "desc": "India is closely monitoring its crude oil and fuel supply amid escalating Middle East tensions. The government assures domestic availability and affordability of petroleum products. Disruptions in Qatar's LNG production and Saudi Arabia's oil refinery have already impacted global markets, with European gas prices surging.",
-    "img": "https://static.toiimg.com/photo/msid-128949014,imgsize-129684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-assesses-oil-availability-as-west-asia-crisis-deepens-assures-affordability/articleshow/128948963.cms",
-    "time": "2026-03-02T14:16:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Which are top gainers and losers on NSE &amp; BSE on March 2? Check list",
-    "desc": "Indian stock markets experienced a significant downturn on Monday, with the Nifty50 and Sensex both registering substantial losses. Escalating Middle East tensions, rising crude oil prices, and consistent foreign investor withdrawals fueled widespread selling. Upstream oil producers and defense stocks bucked the trend, showing gains amidst the broader market decline.",
-    "img": "https://static.toiimg.com/photo/msid-128947460,imgsize-180089.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-are-top-gainers-and-losers-on-nse-bse-on-march-2-check-list/articleshow/128946866.cms",
-    "time": "2026-03-02T12:55:18.000Z"
   },
   {
     "cat": "World",
@@ -783,15 +837,6 @@ const newsData_en = [
     "time": "2026-03-02T11:49:23.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Shivam Dube's two boundaries as important as Sanju's 97,' says Gambhir",
-    "desc": "India coach Gautam Gambhir highlights the importance of every team member's contribution. He believes small efforts are as vital as big scores for team success. Gambhir also stated his coaching philosophy will prioritize instinct over data analysis. He is preparing the team for a challenging semifinal against England at Wankhede Stadium.",
-    "img": "https://static.toiimg.com/photo/msid-128945546,imgsize-20072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/shivam-dubes-two-boundaries-as-important-as-sanju-samsons-97-says-gautam-gambhir/articleshow/128945105.cms",
-    "time": "2026-03-02T11:38:24.000Z"
-  },
-  {
     "cat": "World",
     "title": "Vessel traffic through Strait of Hormuz drops \namid West Asia tensions",
     "desc": "Data from Lloyd’s List show that on February 28, tankers and gas carriers with a total cargo carrying capacity of 6.5 million tons passed through the chokepoint; on March 1, it fell to a quarter of a million",
@@ -817,15 +862,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/france-germany-uk-ready-to-take-defensive-action-against-iran/article70692886.ece",
     "time": "2026-03-02T08:17:42.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran media outlets report Israeli strikes hit hospital in Tehran",
-    "desc": "Iranian media reported that a police station in a city on the outskirts of Tehran was also hit by strikes on March 1, killing an unspecified number of people, with others said to be trapped under debris",
-    "img": "https://th-i.thgim.com/public/incoming/tw653f/article70692857.ece/alternates/LANDSCAPE_1200/2026-03-01T184130Z_841993190_RC2UVJAPPRSD_RTRMADP_3_IRAN-CRISIS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-media-outlets-report-israeli-strikes-hit-hospital-in-tehran/article70692856.ece",
-    "time": "2026-03-02T08:15:45.000Z"
   },
   {
     "cat": "World",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/shares-of-aviation-firms-tour-operators-dive-amid-west-asia-crisis/article70694052.ece",
     "time": "2026-03-02T06:19:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Iran football federation president says World Cup participation in U.S. is in doubt",
-    "desc": "Iran has been drawn in Group G at the World Cup and is scheduled to play in Inglewood, California, against New Zealand on June 15 and Belgium on June 21 before finishing the first round against Egypt in Seattle on June 26",
-    "img": "https://th-i.thgim.com/public/incoming/i1juyw/article70693889.ece/alternates/LANDSCAPE_1200/2026-02-27T182102Z_1448269501_UP1EM2R1EZ0PA_RTRMADP_3_SOCCER-WORLDCUP-TROPHY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/iran-soccer-federation-president-says-world-cup-participation-in-us-is-in-doubt/article70693886.ece",
-    "time": "2026-03-02T05:18:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "From the valley to the pinnacle of domestic cricket — the J & K story",
-    "desc": "Jammu & Kashmir’s stellar run is a tale of grit, determination and meticulous preparation; it had all bases covered and every member of the squad put his hand up when it mattered most; the next challenge for Dogra’s men will be to sustain the momentum and stay at the summit",
-    "img": "https://th-i.thgim.com/public/incoming/ruhnih/article70692835.ece/alternates/LANDSCAPE_1200/_DSC9096.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/from-the-valley-to-the-pinnacle-of-domestic-cricket-the-j-k-story/article70692834.ece",
-    "time": "2026-03-01T19:26:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "A case of so near and yet so far for a star-studded Karnataka team",
-    "desc": "The final laid bare two of the southern heavyweight’s biggest lacunae — lack of bite when lead spinner Shreyas has an off-day and the pace bowlers’ propensity to not be persistent; the unvarnished truth is that there are no easy teams in the premier domestic competition anymore",
-    "img": "https://th-i.thgim.com/public/incoming/4nggba/article70692784.ece/alternates/LANDSCAPE_1200/_DSC8274.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-a-case-of-so-near-and-yet-so-far-for-a-star-studded-karnataka-team/article70692493.ece",
-    "time": "2026-03-01T18:04:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will leverage tech to crack down on market manipulators, says SEBI chief",
-    "desc": "SEBI Chairman Tuhin Kanta Pandey says the market regulator is using AI to reach out to more investors for awareness; he urges people to use tools such as SEBI Check to deter fraudsters and warns against financial influencers promising astronomical returns; he says SEBI will make sure there is no instability in the markets",
-    "img": "https://th-i.thgim.com/public/incoming/t8apzy/article70692584.ece/alternates/LANDSCAPE_1200/11908_27_2_2026_16_50_37_5_DSC_1921.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/will-leverage-tech-to-crack-down-on-market-manipulators-says-sebi-chief/article70691965.ece",
-    "time": "2026-03-01T17:33:19.000Z"
   }
 ];

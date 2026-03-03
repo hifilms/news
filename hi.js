@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "RCB to play five matches at their home venue",
+    "desc": "Decks are finally cleared for the Chinnaswamy Stadium to host cricket matches during the Indian Premier League (IPL). Royal Challengers Bengaluru will play five matches at their home venue in the upcoming edition of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/chinnaswamy-stadium-finally-cleared-to-host-ipl-2026-rcb-to-play-five-matches-at-their-home-venue-2026-03-03-1032463",
+    "time": "2026-03-03T11:51:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How has Team India performed in semifinals of the tournament?",
+    "desc": "India chased down 196 runs against the West Indies at the Eden Gardens in Kolkata to qualify for the semifinal of the T20 World Cup on Sunday. With this win, they made it to their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-how-has-team-india-performed-in-semifinals-of-the-tournament-2026-03-03-1032457",
+    "time": "2026-03-03T11:41:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Travis Head, Cameron Green, Josh Inglis set to make Shield return after T20 World Cup exit",
     "desc": "After Australia’s exit from the T20 World Cup 2026, the likes of Travis Head, Cameron Green, and Josh Inglis are all set to make appearances in the Sheffield Shield. It is worth noting that eight...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-sanju-samson-s-masterclass-against-west-indies-ahead-of-t20-wc-semi-final-2026-03-03-1032375",
     "time": "2026-03-03T01:33:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC steps in as West Indies, Zimbabwe stuck in India after T20 WC exit amid airspace disruption",
-    "desc": "West Indies finds itself stuck in Kolkata after its heavyweight Super Eights clash against India on Sunday, March 1. Geopolitical tensions in the Middle East ripple across global aviation, and that forced the Shai Hope-led...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-zimbabwe-stranded-in-india-despite-t20-world-cup-exit-know-reason-2026-03-02-1032357",
-    "time": "2026-03-02T17:59:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What will happen if Iran boycotts FIFA World Cup 2026 in USA? Which team will replace them?",
-    "desc": "Tensions in the Middle East have cast a shadow over Iran’s participation in the 2026 FIFA World Cup, raising questions about whether the Asian side will be able to compete in matches hosted across the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/what-will-happen-if-iran-boycotts-fifa-world-cup-2026-in-usa-which-team-will-replace-them-2026-03-02-1032354",
-    "time": "2026-03-02T17:12:30.000Z"
   }
 ];

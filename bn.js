@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ভারত থেকে লন্ডনের বিমান ভাড়া ৯ লাখ টাকা, না দিলে ২৫ ঘণ্টার লম্বা যাত্রা! ইরান সঙ্কটে বিপাকে ভারতীয় যাত্রীরা",
+    "desc": "মধ্যপ্রাচ্যের অস্থিরতার জেরে বিপাকে পড়েছেন ভারত ও লন্ডনের মধ্যে যাতায়াত করা যাত্রীরা। কারণ বহু যাত্রী ঠিকমতো ভেঙে যাত্রা করতে পারছেন না। তাই যাত্রীদের ভরসা লম্বা ওয়ান-স্টপ যাত্রা অথবা একমাত্র নন-স্টপ সিট, যার দাম ৯.১২ লাখ টাকারও বেশি, এই দুইয়ের মধ্যে বেছে নিতে হচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Flight-1-2026-03-58cf76829225822e34b018041f28fb69-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/airfare-pressure-indians-amid-iran-tension-as-london-flight-from-india-costs-more-than-9-lakhs-rdp-2567248.html",
+    "time": "2026-03-03T12:14:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বিহার থেকে বিজেপির রাজ্যসভার প্রার্থী হলেন দলের সর্বভারতীয় সভাপতি নিতিন নবীন! কোন রাজ্যে প্রার্থী কারা...? দেখুন রাজ্যভিত্তিক তালিকা",
+    "desc": "রাজ্যসভার প্রার্থী ঘোষণা বিজেপির! বিহার, অসম, ছত্তিশগড়-সহ একাধিক গুরুত্বপূর্ণ রাজ্যের প্রার্থীদের নাম ঘোষণা হতেই তালিকায় দেখা গেল একের পর এক চমক। রাজ্যসভায় এবার একদিকে বাংলা থেকে লড়ছেন রাহুল সিনহা, অন্যদিকে বিহার থেকে রাজ্যসভার প্রার্থী হলেন দলের সর্বভারতীয় সভাপতি নিতিন নবীন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/nitin-nabin-2026-03-9d42e493eb34668192d0773594972a9b-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/bjp-rajya-sabha-candidate-list-nitin-nabin-rahul-sinha-among-nine-rajya-sabha-candidates-names-announced-today-by-bjp-in-first-list-check-here-sanj-2567257.html",
+    "time": "2026-03-03T10:54:32.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "'ইরানে' ভারতীয় পড়ুয়ারা কোন 'সাবজেক্ট' পড়তে যায় জানেন...? 'উত্তর' শুনলে চমকাবেন!",
+    "desc": "উত্তপ্ত ইরান! ইজরায়েল ও মার্কিন যুক্তরাষ্ট্রের সামরিক হামলা ও পাল্টা হামলায় অস্থির ইরানের মাটি। আঁচ এসে পৌঁছেছে ভারতেও। বর্তমান পরিস্থিতি যেমন প্রাসঙ্গিক করে তুলেছে এই দেশটিকে আচমকাই, ঠিক তেমনি সেখানে পড়াশোনা করতে যাওয়া হাজার হাজার ভারতীয় ছাত্রের নিরাপত্তা নিয়ে তুলে দিয়েছে গুরুতর প্রশ্নচিহ্ন। উদ্বেগ প্রকাশ করেছে ভারত। কিন্তু জানেন কী কোন সেই বিশেষ 'বিষয়' যা পড়তে প্রতি বছর শয়ে শয়ে ছাত্র-ছাত্রী ছোটেন এই দেশে? চমকে যাবেন শুনলে!",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/student-2026-03-9de0651345650f41c178f159687d66b9-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/indian-students-in-iran-do-you-know-which-subject-indian-students-go-to-study-in-iran-you-will-be-shocked-to-hear-the-answer-trending-general-knowledge-sanj-2566336.html",
+    "time": "2026-03-03T09:41:57.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Rashmika Mandanna-Vijay Deverakonda Sangeet Ceremony: চুঁইয়ে পড়ল 'প্রেমরস'! সঙ্গীতের রাতে 'হাসি-কান্না'য় বিজয়-রশ্মিকা হারিয়ে গেলেন একে অপরের বাহুডোরে",
     "desc": "গত বছরের অক্টোবরে এই দম্পতির বাগদান হয়েছিল, কিন্তু ফেব্রুয়ারিতে তাঁরা তাঁদের বিয়ের ঘোষণা করে তাঁদের সম্পর্কের বিষয়টি নিশ্চিত করে। রশ্মিকা এবং বিজয় ২৬শে ফেব্রুয়ারি উদয়পুরে ঘনিষ্ঠ বন্ধুবান্ধব এবং পরিবারের উপস্থিতিতে একটি অন্তরঙ্গ কিন্তু জাঁকজমকপূর্ণ অনুষ্ঠানে বিয়ে করেন। এই দম্পতি এখন ৪ঠা মার্চ হায়দ্রাবাদে শিল্পের বন্ধুদের জন্য একটি জমকালো সংবর্ধনার আয়োজন করতে চলেছেন।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/entertainment/viral-song-social-priyanka-chopra-bipasha-basu-film-barsaat-emotional-wedding-song-teri-dulhan-sajaoongi-sung-by-alka-yagnik-ss-2556426.html",
     "time": "2026-02-25T03:15:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ICU-তে সলমনের বাবা সেলিম খান, 'শোলে'র চিত্রনাট্যকারকে দেখতে হাসপাতালে অঞ্জলি তেন্ডুলকর",
-    "desc": "মঙ্গলবার মুম্বইয়ের প্রথম সারির একটি হাসপাতালে ভর্তি করা হয় সেলিমকে। চিকিৎসকেরা জানিয়েছিলেন, রক্তচাপ বেড়ে যাওয়ায় মস্তিষ্কের রক্তবাহী শিরা ছিঁড়ে গিয়েছিল তাঁর। অভ্যন্তরীণ রক্তপাত হয়েছিল সামান্য। তড়িঘড়ি তাঁকে নিয়ে যাওয়া হয় হাসপাতালে। আপাতত বর্ষীয়ান চিত্রনাট্যকারের শারীরিক অবস্থা স্থিতিশীল",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Screenshot-2026-02-25-074702-2026-02-a6ac658fd005311a3d89661105456b3d-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/salim-khan-hospitalised-former-indian-cricketer-sachin-tendulkars-wife-anjali-tendulkar-visited-lilavati-hospital-in-mumbai-to-see-veteran-actor-and-film-producer-salim-khan-rm-2556467.html",
-    "time": "2026-02-25T02:22:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ট্রেনের AC কোচের সিটে এই 'পকেট' কেন থাকে জানেন...? চমকে যাবেন শুনলেই, গ্যারান্টি!",
-    "desc": "এসি ট্রেনে বেড়াতে কে না ভালবাসে! যেমন এই ট্রেনের কোচে থাকে আরামে ঠান্ডা ঠান্ডায় ভ্রমণের দুর্দান্ত সুযোগ তেমনই থাকে রাতের শোয়ার জন্য বেডিং ও তোয়ালের ব্যবস্থা। তাই এসিতে টিকিট কাটলে আর বিছানা বইতে হয় না। কিন্তু আপনি কি লক্ষ্য করেছেন এই এসি কোচগুলিতে সিটের উপর সাধারণত চামড়ার একটি অতিরিক্ত স্তর দেখা যায়। কেন থাকে বলুন তো? এমনি এমনি মোটেই নয়! আসল কারণ কিন্তু তাজ্জব করে দেবে আপনাকে!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/train-43-2026-02-5cbe958b5e75078438ebb57cce401ad0-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/railways-why-ac-coaches-seats-have-these-strange-pockets-do-you-know-the-answer-you-will-be-shocked-to-hear-it-for-sure-unbelievable-reason-behind-surprising-train-fact-sanj-2556367.html",
-    "time": "2026-02-25T02:14:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কেরল হচ্ছে কেরলম, নাম বদলে অনুমোদন কেন্দ্রীয় মন্ত্রিসভার! দেখুন ভিডিও",
-    "desc": "ভোটের আগে কেরলের নাম বদলের প্রস্তাবে অনুমোদন দিল কেন্দ্রীয় মন্ত্রিসভা৷ কেরলের নতুন নাম হচ্ছে কেরলম৷ এ দিন কেন্দ্রীয় মন্ত্রিসভার বৈঠকের পর এই ঘোষণা করেছেন কেন্দ্রীয় মন্ত্রী অশ্বিনী বৈষ্ণব৷ ২০২৪ সালের ২৪ জুন কেরল বিধানসভায় সর্বসম্মত ভাবে রাজ্যের নাম বদলের প্রস্তাব পাস হয়েছিল৷ সেই প্রস্তাব অনুযায়ী কেরলের নতুন নাম কেরলম করার কথা বলা হয়৷ কিছু দিনের মধ্যেই কেরলে বিধানসভা ভোটের ঘোষণা হবে৷ তার আগে রাজ্যের নাম বদলের এই প্রস্তাবে কেন্দ্রীয় মন্ত্রিসভার অনুমোদন নিঃসন্দেহে তাৎপর্যপূর্ণ৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Kerala-Name-Change-2026-02-c030056f5743f90d9370aaae29ba9216-1200x800.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/ashwini-vaishnaw-announces-union-cabinet-ministry-approves-name-change-for-kerala-to-keralam-dmg-2556228.html",
-    "time": "2026-02-24T16:06:21.000Z"
   }
 ];
