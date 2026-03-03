@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "‘Hanuman’ project launched to tackle human–wildlife conflict in Andhra Pradesh",
+    "desc": "The project — Healing and Nurturing Units for Monitoring, Aid and Nursing of Wildlife (HANUMAN) — has been designed as a comprehensive scientific and technological intervention to protect both wildlife and people living in forest fringe villages",
+    "img": "https://th-i.thgim.com/public/incoming/6qbd6n/article70698830.ece/alternates/LANDSCAPE_1200/10745_24_2_2026_20_5_11_3_IMG_20260224_WA0083.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/hanuman-project-launched-to-tackle-humanwildlife-conflict-in-andhra-pradesh/article70698771.ece",
+    "time": "2026-03-03T09:34:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did you know who was Srinidhi Shetty's first co-star?",
+    "desc": "Srinidhi Shetty, who gained fame after winning Bangalore Times Most Desirable Woman and Miss Supranational India, made her acting debut in 'KGF' alongside Yash. Her captivating performance as Reena Desai earned her widespread recognition. While Yash moves on to his next film 'Toxic' without her, Srinidhi continues her acting career with upcoming projects in Telugu and Tamil cinema.",
+    "img": "https://static.toiimg.com/photo/msid-128963500,imgsize-122308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/did-you-know-who-was-srinidhi-shettys-first-co-star-heres-how-the-actress-landed-in-kgf/articleshow/128963500.cms",
+    "time": "2026-03-03T09:30:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "State media",
+    "desc": "\"A security source reported that fuel tanks at the commercial port of Duqm were targeted by several drones, one of which hit a fuel tank. The resulting damage was contained without any human casualties,\" says the Oman News Agency",
+    "img": "https://th-i.thgim.com/public/incoming/cw145c/article70698797.ece/alternates/LANDSCAPE_1200/Cyprus_Iran_US_Israel_24179.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/drones-hit-fuel-tank-at-oman-port-state-media/article70698772.ece",
+    "time": "2026-03-03T09:16:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India reduces gas supplies to industries as Qatar halts production; buyers look for alternatives, tanker rates double to $200,000",
+    "desc": "Qatar remains India’s largest LNG supplier - it accounts for nearly half of the country’s imports last year, based on vessel-tracking information. Qatar remains India’s largest LNG supplier - it accounts for nearly half of the country’s imports last year.",
+    "img": "https://static.toiimg.com/photo/msid-128963161,imgsize-106182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-reduces-gas-supplies-to-industries-as-qatar-halts-production-buyers-look-for-alternatives-tanker-rates-double-to-200000/articleshow/128963018.cms",
+    "time": "2026-03-03T09:01:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Only good vibes’: Sachin, Virat lead Holi wishes as cricketers spread festive cheer",
+    "desc": "Indian cricketing legends like Sachin Tendulkar, Virat Kohli, and VVS Laxman extended warm Holi wishes, emphasising joy, positivity, and togetherness. Other stars, including Yuzvendra Chahal, Rishabh Pant, Anil Kumble, and Jhulan Goswami, also shared festive greetings, with some reminding fans to celebrate safely and reflect on the festival's deeper meanings.",
+    "img": "https://static.toiimg.com/photo/msid-128963146,imgsize-81676.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/only-good-vibes-sachin-tendulkar-virat-kohli-lead-holi-wishes-as-cricket-fraternity-spreads-festive-cheer/articleshow/128963020.cms",
+    "time": "2026-03-03T09:00:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "KITE launches QR code-based mobile app for real-time tracking of higher secondary exams in Kerala",
+    "desc": "KITE-QTrack app is designed to provide real-time tracking and monitoring of the entire higher secondary examination process – from opening of question paper packets at exam centres to dispatch of answer scripts to valuation camps",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/k2tk7d/article70698683.ece/alternates/LANDSCAPE_1200/exam.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kite-launches-qr-code-based-mobile-app-for-real-time-tracking-of-higher-secondary-exams-in-kerala/article70696551.ece",
+    "time": "2026-03-03T09:00:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Upcoming OTT releases in the first week of March",
+    "desc": "The first week of March is packed with exciting OTT premieres across genres. From the much-anticipated Korean drama Boyfriend on Demand to the intriguing origin story in Young Sherlock, this week has full-pack entertainment. Whether you’re in the mood for a digital-age love story or a pulse-pounding survival drama, here’s a list of options from where you can pick your next OTT watch!Starring Jisoo and Seo In Guk, ‘Boyfriend on Demand’ follows Seo Mi Rae, a music producer trying to escape her demanding life through a dating simulation program. She enters a digital world where she starts looking for a romantic escape. However, in real life, her colleague and rival, Park Gyeong Nam, begins to stir unexpected emotions.",
+    "img": "https://static.toiimg.com/photo/msid-128963111,imgsize-60106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/upcoming-ott-releases-in-the-first-week-of-march-boyfriend-on-demand-young-sherlock-and-more/photostory/128963111.cms",
+    "time": "2026-03-03T08:58:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Progress on rules for lethal autonomous weapons urgently needed, says chair of Geneva talks",
+    "desc": "From this week to the mandate's end ​in September, 128 states will discuss whether to agree ⁠by consensus on a non-binding text that could pave the way for future negotiations on prohibitions and regulations on LAWS",
+    "img": "https://th-i.thgim.com/public/incoming/p22jf1/article70698738.ece/alternates/LANDSCAPE_1200/2026-03-03T073826Z_2013931884_RC23TJAOJTLG_RTRMADP_3_ARMS-AI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/progress-on-rules-for-lethal-autonomous-weapons-urgently-needed-says-chair-of-geneva-talks/article70698697.ece",
+    "time": "2026-03-03T08:57:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Who is Alexis Stone artist behind Jim Carrey rumors",
+    "desc": "a hyper-realistic prosthetic Jim Carrey face, leading many to speculate about the actor's rumored attendance at the César Awards. Stone, renowned for his transformative portrayals of celebrities, has fans questioning if this is a genuine sighting of Carrey or yet another brilliant illusion crafted by the artist.",
+    "img": "https://static.toiimg.com/photo/msid-128962372,imgsize-123130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/who-is-alexis-stone-the-artist-behind-the-jim-carrey-csar-awards-rumors/articleshow/128962372.cms",
+    "time": "2026-03-03T08:19:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Daniel Radcliffe on becoming a fitness freak",
+    "desc": "Daniel Radcliffe, once indifferent to his health, has embraced a rigorous fitness routine, including gym sessions and early mornings dictated by his young son. The \"Harry Potter\" star, who has been sober since 2012, candidly shared his past struggles with alcohol and his transformation into a dedicated fitness enthusiast, highlighting a significant shift in his lifestyle and well-being.",
+    "img": "https://static.toiimg.com/photo/msid-128962210,imgsize-45682.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/daniel-radcliffe-calls-himself-a-fitness-freak-says-i-feel-like-im-a-clich-of-a-former-alcoholic/articleshow/128962210.cms",
+    "time": "2026-03-03T08:07:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Iranian filmmaker Mohammad Rasoulof calls Ayatollah Ali Khamenei ‘most hated figure’ after death in U.S.-Israel strike",
+    "desc": "Iranian director Mohammad Rasoulof, whose film ‘The Seed of the Sacred Fig’ won at Cannes, has condemned Ayatollah Ali Khamenei following the Supreme Leader’s death in a U.S.-Israel military strike, calling him “the most hated figure in the contemporary history of Iran”",
+    "img": "https://th-i.thgim.com/public/incoming/nbud4l/article70698472.ece/alternates/LANDSCAPE_1200/2154565571.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/iranian-filmmaker-mohammad-rasoulof-calls-ayatollah-ali-khamenei-most-hated-figure-after-death-in-us-israel-strike/article70698476.ece",
+    "time": "2026-03-03T07:59:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did Quentin Tarantino die in Israel? Truth behind death hoax",
+    "desc": "Renowned filmmaker Quentin Tarantino has been the subject of a death hoax, with a viral social media post falsely claiming he and his family perished in an Israeli strike. Sources close to the director have vehemently denied these reports, confirming Tarantino and his loved ones are safe. The fabricated news circulated widely, even misattributing information to reputable publications. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128961276,imgsize-119088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/fact-check-did-quentin-tarantino-die-in-israel-the-truth-behind-the-viral-death-hoax-reports/articleshow/128961276.cms",
+    "time": "2026-03-03T07:59:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Relationship timeline of Tom Holland and Zendaya’s romance",
+    "desc": "Homecoming and built a close friendship that evolved into a romantic relationship, officially confirmed in 2021 when they were photographed kissing. They later became engaged over the 2024 holidays, with Zendaya debuting a diamond ring at the 2025 Golden Globes. In March 2026, Zendaya’s longtime stylist, Law Roach, teased on the red carpet that the pair had already tied the knot in a private ceremony the public missed. Rumors intensified when Zendaya was seen wearing a simple band. Both stars continue to value privacy while supporting each other’s careers in film and television.",
+    "img": "https://static.toiimg.com/photo/msid-128961933,imgsize-19998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/complete-relationship-timeline-of-tom-holland-and-zendayas-romance/photostory/128961933.cms",
+    "time": "2026-03-03T07:56:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rs 11 lakh crore wiped out! How US-Israel-Iran war is hitting stock market investors hard",
+    "desc": "The Sensex plunged by more than 1,000 points, slipping below the 81,000 mark for the first time in over a month. The Nifty 50 also dropped sharply, losing upwards of 300 points and falling beneath the crucial 25,000 support level.",
+    "img": "https://static.toiimg.com/photo/msid-128961338,imgsize-111036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rs-11-lakh-crore-wiped-out-how-us-israel-iran-war-is-hitting-stock-market-investors-hard/articleshow/128961302.cms",
+    "time": "2026-03-03T07:52:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "After returning home, Esha shares what happened at airport in UAE",
+    "desc": "Actor Esha Gupta safely returned to India after being stranded in Abu Dhabi due to missile attacks and airspace disruptions. She recounted the chaos at Abu Dhabi airport, praising the UAE's swift and organized response in providing accommodation and support to stranded passengers.",
+    "img": "https://static.toiimg.com/photo/msid-128961772,imgsize-18306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-returning-home-from-amidst-middle-east-tensions-esha-gupta-shares-details-of-what-exactly-happened-at-airport-and-hotels-in-uae-no-blaming-anyone/articleshow/128961726.cms",
+    "time": "2026-03-03T07:41:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Attukal Pongala under way on a fervent note in Kerala capital as thousands of devotees offer pongala",
+    "desc": "Churches, mosques and residents opened their doors to devotees, who set up open brick hearths on either side of the roads and in public spaces to cook the sacrament, an offering of rice and jaggery",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/1f5qgc/article70698075.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-03%20at%2010.07.42.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/attukal-pongala-thousands-of-devotees-gear-up-to-offer-pongala-in-kerala-capital/article70697903.ece",
+    "time": "2026-03-03T07:35:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lily Collins opens up about her eating disorders",
+    "desc": "In a heartfelt revelation, actress Lily Collins opened up about her personal struggles with eating disorders during Eating Disorder Awareness Week. Drawing from her impactful experiences, including her role in the poignant film 'To The Bone' and insights from her memoir 'Unfiltered,' she advocates for a deeper understanding of recovery as a highly individualized journey.",
+    "img": "https://static.toiimg.com/photo/msid-128961556,imgsize-40580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lily-collins-opens-up-about-her-journey-with-eating-disorders-ive-always-advocated-for-more-awareness-and-understanding/articleshow/128961556.cms",
+    "time": "2026-03-03T07:32:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "All England missed, Sindhu lands back in Bengaluru from Dubai",
+    "desc": "\"A heartfelt thank you to the incredible ground teams, Dubai authorities, airport staff, immigration, and every single person who stepped up and took such good care of us during a very difficult time. The empathy and professionalism meant more than words can say,” says P.V. Sindhu",
+    "img": "https://th-i.thgim.com/public/incoming/bgaldb/article70698397.ece/alternates/LANDSCAPE_1200/YONEX%20BADMINTON%20PC%20DELHI%202026_12_01_29.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/i-am-back-home-all-england-missed-sindhu-lands-back-in-bengaluru-from-dubai/article70698366.ece",
+    "time": "2026-03-03T07:26:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NMC to verify medical colleges’ patient load through digital systems",
+    "desc": "India's medical colleges are set for a digital transformation in their assessment. The National Medical Commission is now prioritizing online verification of clinical work over traditional inspections. Colleges must submit Health Facility Registry IDs and details on their hospital software integration with national digital health platforms.",
+    "img": "https://static.toiimg.com/photo/msid-128961502,imgsize-1009276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nmc-to-verify-medical-colleges-patient-load-through-digital-systems/articleshow/128961422.cms",
+    "time": "2026-03-03T07:25:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Christopher Nolan to review final edit",
+    "desc": "Hollywood's Christopher Nolan is reportedly set to supervise the final edit and post-production of Nitesh Tiwari's 'Ramayana'. Collaborating with cinematographer Hoyte van Hoytema, Nolan is expected to dedicate 72 days to the project, focusing on technical and visual elements for an IMAX release. Oscar-winning editor Jennifer Lame will reportedly work under Nolan's guidance for the final cut. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128960940,imgsize-209496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-christopher-nolan-and-hoyte-van-hoytema-to-review-the-final-edit-of-ranbir-kapoor-sai-pallavi-starrer-reports/articleshow/128960940.cms",
+    "time": "2026-03-03T07:20:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Attack by two drones on U.S. Embassy in Saudi capital sparks ‘limited’ fire; Trump suggests U.S. to retaliate 'soon'",
+    "desc": "Speaking to the NewsNation network, President Trump said, \"You’ll find out soon\" how the United States would respond, without providing further detail, after the US embassy confirmed a drone attack that caused \"a limited fire and minor material damage\"",
+    "img": "https://th-i.thgim.com/public/incoming/13sr3j/article70698056.ece/alternates/LANDSCAPE_1200/2026-03-03T041601Z_1715182392_RC2QWJA2J5Z4_RTRMADP_3_IRAN-CRISIS-SAUDI-FIRE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-suggests-us-to-retaliate-soon-over-embassy-strike-in-riyadh/article70697803.ece",
+    "time": "2026-03-03T07:14:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shabana recalls the day Javed brought the entire shop of flowers",
+    "desc": "Javed Akhtar and Shabana Azmi mark 41 years of marriage, teasing each other's romance (or lack thereof). Javed dismisses movie-like love; Shabana reveals his flower shop splurge during courtship—despite her mom's \"Mat phaso\" warning. Their fight fix? \"Drop it\" for 10 days.",
+    "img": "https://static.toiimg.com/photo/msid-128961142,imgsize-30964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-fell-head-over-heels-shabana-azmi-recalls-the-day-javed-akhtar-stopped-the-car-and-brought-the-entire-shop-of-flowers-for-her/articleshow/128961142.cms",
+    "time": "2026-03-03T07:05:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US-Israel-Iran war hits oil supplies: How India is preparing for the economic fallout",
+    "desc": "The geopolitical strain has pushed up global oil and gas prices. For India, which relies heavily on imports, this surge translates into a higher import bill and adds to inflationary pressures. India depends on overseas purchases for almost 90 per cent of its crude oil needs.",
+    "img": "https://static.toiimg.com/photo/msid-128960784,imgsize-164032.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/us-israel-iran-war-hits-oil-supplies-how-india-is-preparing-for-the-economic-fallout/articleshow/128960686.cms",
+    "time": "2026-03-03T06:45:14.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Oil rises as expanding U.S.-Israeli conflict with Iran elevates supply risks",
     "desc": "Concerns about transiting the waterway increased after Iranian media reported on Monday ​(March 2, 2026) that a senior Iranian Revolutionary Guards official said the Strait of Hormuz is closed and warned Iran will fire on any ship trying ⁠to pass",
@@ -117,33 +324,6 @@ const newsData_en = [
     "time": "2026-03-03T05:17:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Attukal Pongala under way on a fervent note in Kerala capital as thousands of devotees offer pongala",
-    "desc": "Churches, mosques and residents opened their doors to devotees, who set up open brick hearths on either side of the roads and in public spaces to cook the sacrament, an offering of rice and jaggery",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/1f5qgc/article70698075.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-03%20at%2010.07.42.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/attukal-pongala-thousands-of-devotees-gear-up-to-offer-pongala-in-kerala-capital/article70697903.ece",
-    "time": "2026-03-03T05:17:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Machine Gun Kelly gets new tattoo 'SAGA' ahead of daughter's birthday",
-    "desc": "In a heartfelt tribute to his daughter Saga Blade, Machine Gun Kelly unveiled a new tattoo reading 'SAGA' on his hand during his recent tour in Germany, just in time for her first birthday. This special moment reflects MGK's journey into fatherhood, a role he embraces alongside raising his teenage daughter and celebrating his partnership with Megan Fox.",
-    "img": "https://static.toiimg.com/photo/msid-128958898,imgsize-170188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/machine-gun-kelly-debuts-new-tattoo-saga-ahead-of-his-and-megan-foxs-daughters-first-birthday/articleshow/128958898.cms",
-    "time": "2026-03-03T05:08:46.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Attack by two drones on U.S. Embassy in Saudi capital sparks ‘limited’ fire; Trump suggests U.S. to retaliate 'soon'",
-    "desc": "Speaking to the NewsNation network, President Trump said, \"You’ll find out soon\" how the United States would respond, without providing further detail, after the US embassy confirmed a drone attack that caused \"a limited fire and minor material damage\"",
-    "img": "https://th-i.thgim.com/public/incoming/13sr3j/article70698056.ece/alternates/LANDSCAPE_1200/2026-03-03T041601Z_1715182392_RC2QWJA2J5Z4_RTRMADP_3_IRAN-CRISIS-SAUDI-FIRE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-suggests-us-to-retaliate-soon-over-embassy-strike-in-riyadh/article70697803.ece",
-    "time": "2026-03-03T05:05:07.000Z"
-  },
-  {
     "cat": "World",
     "title": "Indian-American student among four killed in Texas mass shooting; FBI probes possible extremist links",
     "desc": "Savitha Shan, an Austin native and a dual-degree senior at the University of Texas at Austin, was fatally shot when a gunman opened fire in a crowded entertainment district on West Sixth Street on March 1",
@@ -169,15 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/boxing/bfi-selection-criteria-questioned-after-female-boxers-allege-favouritism/articleshow/128959096.cms",
     "time": "2026-03-03T04:46:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bruce Campbell diagnosed with cancer",
-    "desc": "Veteran actor Bruce Campbell, known for 'Evil Dead', has revealed a cancer diagnosis. The non-curable but treatable condition will necessitate a temporary pause in public appearances and work to focus on treatment. Campbell expressed optimism about his recovery and plans to resume touring for his new movie this fall, assuring fans of his resilience.",
-    "img": "https://static.toiimg.com/photo/msid-128959054,imgsize-121032.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/evil-dead-actor-bruce-campbell-announces-cancer-diagnosis-calls-himself-tough-amid-battle-with-the-non-curable-disease/articleshow/128959054.cms",
-    "time": "2026-03-03T04:45:22.000Z"
   },
   {
     "cat": "Politics",
@@ -207,15 +378,6 @@ const newsData_en = [
     "time": "2026-03-03T04:41:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Karan Aujla pays off auto drivers' fines worth Rs 22k",
-    "desc": "At a recent concert in Mumbai, Punjabi sensation Karan Aujla took a moment to shine offstage by covering Rs 22,000 in outstanding traffic fines for two beleaguered auto-rickshaw drivers. The touching act, caught on video, sparked a wave of admiration among online followers, reinforcing his reputation as an artist with a deep connection to the community. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128958943,imgsize-76310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-aujla-pays-off-auto-drivers-fines-worth-rs-22000-in-mumbai-internet-says-paaji-ka-dil-bada-nahi-limitless-hai/articleshow/128958943.cms",
-    "time": "2026-03-03T04:38:25.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Palaniswami asserts no discussion on Sasikala’s entry into NDA figured in his meeting with Amit Shah",
     "desc": "Sasikala, who had all along been claiming to be the general secretary of the AIADMK, announced last week in Kamuthi of the Ramanathapuram district her decision to launch a party and unveiled the party flag",
@@ -225,15 +387,6 @@ const newsData_en = [
     "time": "2026-03-03T04:30:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Why Pink and her family left Hollywood for New York City",
-    "desc": "Pop sensation Pink has relocated her family from California to New York City, prioritizing her daughter's burgeoning theater aspirations. The move allows 14-year-old Willow to pursue her passion for Broadway. Pink, who recently guest-hosted 'The Kelly Clarkson Show,' emphasized her commitment to supporting her children's dreams, showcasing a new chapter filled with family and creative opportunities in the bustling metropolis.",
-    "img": "https://static.toiimg.com/photo/msid-128958916,imgsize-29684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/why-pink-and-her-family-left-hollywood-for-new-york-city-cause-i-am-an-amazing-mom/articleshow/128958893.cms",
-    "time": "2026-03-03T04:29:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Locked-in’ Aiden Markram adds calm to the proceedings",
     "desc": "Aiden Markram, once a dejected captain, has now led South Africa to their maiden World Test Championship title, a stark contrast to a previous T20 World Cup final loss. His composed leadership and stellar batting performance against Australia have earned him widespread praise from coaches, highlighting his crucial role in the team's success and his focused approach.",
@@ -241,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-locked-in-aiden-markram-adds-calm-to-the-proceedings/articleshow/128958925.cms",
     "time": "2026-03-03T04:29:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Cillian Murphy on rumors of him playing the new Lord Voldemort",
-    "desc": "Cillian Murphy has put an end to the swirling speculation around his potential casting as Lord Voldemort in the new Harry Potter series. While the actor is currently immersing himself in the world of Peaky Blinders, reprising his beloved Tommy Shelby role, he has made it clear that he has no plans to step into the dark shoes of Voldemort.",
-    "img": "https://static.toiimg.com/photo/msid-128958857,imgsize-214488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/is-cillian-murphy-playing-lord-voldemort-in-the-new-harry-potter-series-the-actor-responds-can-you-make-that-the-headline/articleshow/128958857.cms",
-    "time": "2026-03-03T04:24:47.000Z"
   },
   {
     "cat": "Sports",
@@ -315,24 +459,6 @@ const newsData_en = [
     "time": "2026-03-03T03:46:58.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyanka calls for peace, triumph of good amid global tensions",
-    "desc": "Amidst global unrest and flight cancellations stranding many, Priyanka Chopra shared a message of hope on Holi. She posted a picture of the Holika Dahan fire, reflecting on the world's challenges and wishing for peace, emphasizing the triumph of good over evil. The actress is also gearing up for upcoming projects like 'The Bluff' and SS Rajamouli's 'Varanasi'. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128958413,imgsize-47470.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-calls-for-peace-and-triumph-of-good-as-she-sends-wishes-on-holika-dahan-amid-middle-east-tensions/articleshow/128958413.cms",
-    "time": "2026-03-03T03:43:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zendaya's mother reacts to Law Roach’s recent comment",
-    "desc": "Speculation about Zendaya and Tom Holland's wedding is intensifying after stylist Law Roach hinted the ceremony has already occurred. Zendaya's mother, Claire Stoermer, humorously reacted to Roach's comments on social media, further fueling the buzz. This follows sightings of Zendaya wearing a prominent gold ring, adding to the ongoing wedding rumors.",
-    "img": "https://static.toiimg.com/photo/msid-128958353,imgsize-24734.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-and-zendayas-wedding-euphoria-stars-mother-claire-stoermer-reacts-to-law-roachs-claim/articleshow/128958353.cms",
-    "time": "2026-03-03T03:30:51.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Judicial panel extends deadline for submitting evidence to April 1",
     "desc": "The single-member commission of former Madhya Pradesh High Court judge Justice Sushil Kumar Gupta is investigating the causes of drinking water contamination in the Bhagirathpura area, the loss of lives and medical impact on people, administrative lapses, action against those responsible and remedial measures.",
@@ -340,15 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/madhya-pradesh/indore-water-contamination-judicial-panel-extends-deadline-for-submitting-evidence-to-april-1/article70697836.ece",
     "time": "2026-03-03T03:28:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I felt helpless': Rohit Sharma's honest admission on India vs Pakistan thriller",
-    "desc": "Rohit Sharma cherishes the 2007 T20 World Cup final against Pakistan as his most memorable encounter, recalling both the thrilling bowl-out league match and the ultimate victory. He also highlighted the dramatic 2022 MCG clash, where Virat Kohli's exceptional innings secured a remarkable comeback win.",
-    "img": "https://static.toiimg.com/photo/msid-128946842,imgsize-37570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-felt-helpless-rohit-sharmas-honest-admission-on-india-vs-pakistan-thriller/articleshow/128946820.cms",
-    "time": "2026-03-03T03:25:45.000Z"
   },
   {
     "cat": "Sports",
@@ -378,24 +495,6 @@ const newsData_en = [
     "time": "2026-03-03T03:20:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Derleya Alves passes away at 26",
-    "desc": "At just 26, Brazilian influencer Derleya Alves has sadly lost her life due to complications arising from cosmetic surgery. After undergoing breast augmentation, she began suffering intense abdominal pain, which led to her hospitalization. Despite undergoing several operations, including ovary removal and intestinal repair, doctors are now examining whether a congenital intestinal abnormality may have exacerbated her health issues.",
-    "img": "https://static.toiimg.com/photo/msid-128958180,imgsize-93626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brazilian-influencer-derleya-alves-passes-away-at-26-after-an-alleged-cosmetic-procedure-report/articleshow/128958180.cms",
-    "time": "2026-03-03T03:08:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Justin Bieber shares sweet glimpse of 32nd birthday",
-    "desc": "On his 32nd birthday, Justin Bieber celebrated with his beloved wife Hailey, capturing tender moments and penning a touching message. His mother, Pattie Mallette, took to social media to reminisce about his journey, describing him as her most profound lesson in love.",
-    "img": "https://static.toiimg.com/photo/msid-128958091,imgsize-94120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/justin-bieber-shares-sweet-glimpse-of-32nd-birthday-celebration-with-hailey-bieber/articleshow/128958091.cms",
-    "time": "2026-03-03T02:58:43.000Z"
-  },
-  {
     "cat": "World",
     "title": "No sign Iran nuclear sites were hit, IAEA says, but Iran disagrees",
     "desc": "IAEA says it currently has ‘no indication’ that any of Iran’s nuclear installations were damaged or hit by the U.S.-Israeli military strikes. Contradicting this, Iran’s ambassador to the IAEA says the strikes did target and hit the country’s Natanz uranium enrichment facility",
@@ -412,24 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-falls-1048-pts-on-war-in-west-asia-fear-index-up-25/articleshow/128957946.cms",
     "time": "2026-03-03T02:52:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Eric Dane's cause of death revealed",
-    "desc": "Beloved actor Eric Dane, known for 'Grey's Anatomy' and 'Euphoria', has passed away at 53 due to respiratory failure, a complication of his battle with ALS. His family confirmed the news, highlighting his courageous fight against the neurodegenerative disease. Dane's career spanned iconic roles, leaving a significant legacy.",
-    "img": "https://static.toiimg.com/photo/msid-128958047,imgsize-64552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/how-did-eric-dane-pass-away-greys-anatomy-actors-official-cause-of-death-confirmed/articleshow/128958036.cms",
-    "time": "2026-03-03T02:50:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika, Vijay get massive reception in his hometown",
-    "desc": "Fresh off their picturesque wedding in Udaipur on February 26th, newlyweds Rashmika Mandanna and Vijay Deverakonda are enjoying an outpouring of love from fans. The couple recently graced Vijay's hometown in Telangana, where Rashmika mesmerized villagers in her beautiful traditional wear at a Satyanarayana puja. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128957972,imgsize-103328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-and-vijay-deverakonda-get-massive-reception-in-his-hometown-actress-greets-crowd-from-stage/articleshow/128957972.cms",
-    "time": "2026-03-03T02:50:41.000Z"
   },
   {
     "cat": "Sports",
@@ -486,33 +567,6 @@ const newsData_en = [
     "time": "2026-03-03T02:05:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyanka says her dad would have chosen Nick as her partner",
-    "desc": "Priyanka Chopra Jonas revealed that her late father, Ashok Chopra, would have approved of Nick Jonas as her husband. She believes her father, a music lover, would have admired Nick's talent and wise nature. Priyanka also shared her unfulfilled wish for her father to meet her husband and daughter, feeling his presence guided her life's serendipitous journey. Read on to know more.",
-    "img": "https://static.toiimg.com/photo/msid-128957636,imgsize-180336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-believes-her-late-father-would-have-chosen-nick-jonas-as-her-life-partner/articleshow/128957636.cms",
-    "time": "2026-03-03T02:05:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Sinners’ star Jayme Lawson reacts to BAFTA slur incident",
-    "desc": "In the aftermath of a controversial BAFTA awards moment, cast members from 'Sinners' are voicing their concerns. Jayme Lawson expressed admiration for Michael B. Jordan and Delroy Lindo, who navigated the situation with dignity while highlighting that John Davidson's Tourette's syndrome was manipulated.",
-    "img": "https://static.toiimg.com/photo/msid-128957658,imgsize-103496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sinners-star-jayme-lawson-reacts-to-bafta-slur-incident-says-disability-got-exploited/articleshow/128957658.cms",
-    "time": "2026-03-03T02:04:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Diddy’s release date preponed to April 2028",
-    "desc": "Sean 'Diddy' Combs, the influential rapper, has had his date of freedom advanced to April 25, 2028. Initially facing a four-year sentence for his role in a transport-related prostitution case, he was expected to walk out in May. Currently, he is residing at Fort Dix Federal Correctional Institution in New Jersey, dealing with serious allegations surrounding abuse and trafficking issues.",
-    "img": "https://static.toiimg.com/photo/msid-128957576,imgsize-91110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/sean-diddy-combs-release-date-preponed-rapper-to-be-released-by-april-2028/articleshow/128957576.cms",
-    "time": "2026-03-03T01:53:27.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump warns of longer Iran war as violence spreads",
     "desc": "Trump said that the war, which began on February 28, with a strike that killed Iran's supreme leader, Ayatollah Ali Khamenei, was going \"substantially\" ahead of schedule but that the United States was equipped for a prolonged conflict",
@@ -529,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/every-india-england-semi-final-winner-has-won-the-t20-world-cup-trend-to-continue/articleshow/128946212.cms",
     "time": "2026-03-03T00:31:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Kerala Story 2' crosses Rs 12 crore on Day 4",
-    "desc": "'The Kerala Story 2 Goes Beyond' has seen a significant drop in box office collections compared to its predecessor. After a modest opening weekend, the film's Day 4 earnings fell to Rs 2.65 crore, bringing the total to Rs 12.8 crore. This performance contrasts sharply with the first installment's initial success. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128957080,imgsize-74062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-4-film-crosses-rs-12-crore-on-first-monday-despite-drop/articleshow/128957080.cms",
-    "time": "2026-03-03T00:16:56.000Z"
   },
   {
     "cat": "Sports",
@@ -631,15 +676,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "CM directs officials to increase administrative efficiency using AI",
-    "desc": "Naidu calls for integration of drone, CCTV and satellite data to improve public services, orders safety review after blast in Kakinada district and stresses seamless pension delivery and focus on Swarna Gramams and Swarna Wards",
-    "img": "https://th-i.thgim.com/public/incoming/dc21s5/article70696356.ece/alternates/LANDSCAPE_1200/A.P.-Cabinet-clG81FKPACS.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/cm-directs-officials-to-increase-administrative-efficiency-using-ai/article70695526.ece",
-    "time": "2026-03-02T16:42:52.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "‘Peace is not only a moral imperative, it is an economic necessity’",
     "desc": "The assassination of Ayatollah Ali Khamenei, Supreme Leader of the Islamic Republic of Iran, marked a dangerous and destabilising moment for the region and the global economy, says Syed Hakim Raza, president of Indo-Iran Chamber of Commerce and Industries",
     "img": "https://th-i.thgim.com/public/incoming/fc7hom/article70696785.ece/alternates/LANDSCAPE_1200/Indo%20Iran%202.JPEG",
@@ -673,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/health/supreme-court-to-look-into-feasibility-of-nat-for-blood-transfusion/article70696607.ece",
     "time": "2026-03-02T16:22:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Air India Express to resume Muscat flights from March 3; Gulf routes remain suspended amid Middle East tensions",
-    "desc": "Air India Express will resume flights to and from Muscat on Tuesday, March 3, after a temporary halt due to the Middle East conflict. Services to Bahrain, Kuwait, Qatar, Saudi Arabia, and the UAE will continue to be suspended until March 3. The airline cited airspace closures in the region impacting operations.",
-    "img": "https://static.toiimg.com/photo/msid-128950916,imgsize-987549.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/air-india-express-to-resume-muscat-flights-from-march-3-gulf-routes-remain-suspended-amid-middle-east-tensions/articleshow/128950876.cms",
-    "time": "2026-03-02T16:14:21.000Z"
   },
   {
     "cat": "Sports",
@@ -756,15 +783,6 @@ const newsData_en = [
     "time": "2026-03-02T11:49:23.000Z"
   },
   {
-    "cat": "Business",
-    "title": "US-Israel-Iran war: What’s the impact on India? Explained in top 5 points",
-    "desc": "Ongoing US-Israel conflict with Iran is impacting India's economy, particularly through rising crude oil prices and potential trade disruptions. Policymakers are monitoring the situation, with immediate effects seen in energy costs and stock market declines. Broader consequences include inflation, current account deficit widening, and supply chain interruptions.",
-    "img": "https://static.toiimg.com/photo/msid-128945918,imgsize-2998577.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-israel-iran-war-whats-the-impact-on-india-explained-in-top-5-points/articleshow/128945406.cms",
-    "time": "2026-03-02T11:44:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Shivam Dube's two boundaries as important as Sanju's 97,' says Gambhir",
     "desc": "India coach Gautam Gambhir highlights the importance of every team member's contribution. He believes small efforts are as vital as big scores for team success. Gambhir also stated his coaching philosophy will prioritize instinct over data analysis. He is preparing the team for a challenging semifinal against England at Wankhede Stadium.",
@@ -790,15 +808,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-israeli-hospital-urgently-moves-patients-underground-as-iran-crisis-deepens/article70695240.ece",
     "time": "2026-03-02T11:32:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will NSE, BSE remain closed on March 3 or 4?",
-    "desc": "Dalal Street will observe a holiday on March 3rd for Holi, providing a break for traders and investors. The stock market operates on weekdays, excluding weekends and exchange-declared holidays, with specific timings for pre-open, regular trading, closing, and block deal sessions.",
-    "img": "https://static.toiimg.com/photo/msid-128943941,imgsize-3005331.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-for-holi-2026-will-nse-bse-remain-closed-on-march-3-or-4/articleshow/128943595.cms",
-    "time": "2026-03-02T10:49:15.000Z"
   },
   {
     "cat": "World",
@@ -835,24 +844,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-officials-skeptical-of-regime-change-in-tehran-after-khamenei-killing-say-sources/article70693815.ece",
     "time": "2026-03-02T08:04:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "'Do not remain silent': Iranian Embassy in India issues plea after Khamenei's death",
-    "desc": "In a statement, the mission expressed its \"profound sorrow and grief\" over Khamenei's death. The Iranian Revolutionary Guard Corps has vowed revenge and said it has already carried out retaliatory attacks on American bases in the Middle East",
-    "img": "https://th-i.thgim.com/public/incoming/q13nn4/article70690973.ece/alternates/LANDSCAPE_1200/PTI03_01_2026_000119B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/do-not-remain-silent-iranian-embassy-in-india-issues-plea-after-khameneis-death/article70690953.ece",
-    "time": "2026-03-02T07:58:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran fires missiles at Israel, Gulf states after U.S.-Israeli strike kills Khamenei",
-    "desc": "Iran acknowledged Khamenei's death in the joint Israeli-American airstrike Saturday (February 28, 2026) at his Tehran office hours, which has thrown the future of the Islamic Republic into question and raised the risk of regional instability",
-    "img": "https://th-i.thgim.com/public/incoming/3yzic7/article70690888.ece/alternates/LANDSCAPE_1200/APTOPIX_Pakistan_Iran_US_Israel_57931.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-fires-missiles-at-israel-gulf-states-after-us-israeli-strike-kills-khamenei/article70690869.ece",
-    "time": "2026-03-02T07:57:33.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-a-case-of-so-near-and-yet-so-far-for-a-star-studded-karnataka-team/article70692493.ece",
     "time": "2026-03-01T18:04:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Will leverage tech to crack down on market manipulators, says SEBI chief",
+    "desc": "SEBI Chairman Tuhin Kanta Pandey says the market regulator is using AI to reach out to more investors for awareness; he urges people to use tools such as SEBI Check to deter fraudsters and warns against financial influencers promising astronomical returns; he says SEBI will make sure there is no instability in the markets",
+    "img": "https://th-i.thgim.com/public/incoming/t8apzy/article70692584.ece/alternates/LANDSCAPE_1200/11908_27_2_2026_16_50_37_5_DSC_1921.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/will-leverage-tech-to-crack-down-on-market-manipulators-says-sebi-chief/article70691965.ece",
+    "time": "2026-03-01T17:33:19.000Z"
   }
 ];
