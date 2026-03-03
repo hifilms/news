@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Afghanistan Cricket set to undergo leadership change after subpar T20 World Cup campaign",
+    "desc": "The ongoing T20 World Cup 2026 campaign proved to be a horrid one for Afghanistan cricket. Placed in group D of the tournament, Afghanistan finished third in the standings and was eliminated from the group...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-cricket-set-to-undergo-leadership-change-after-subpar-t20-world-cup-campaign-2026-03-03-1032409",
+    "time": "2026-03-03T06:40:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Back home in Bangalore': PV Sindhu returns safely to India after being stranded at Dubai airport",
+    "desc": "India's star shuttler PV Sindhu has officially made her return to India after days of being stranded at the Dubai airport. She took to X to confirm her safe return to the country. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-returns-safely-to-india-after-being-stranded-at-dubai-airport-2026-03-03-1032396",
+    "time": "2026-03-03T05:32:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ECB cancels Lions' tour, England women's training camp in UAE over security threat",
     "desc": "In a major development, the ECB (England and Wales Cricket Board) has cancelled England Lions’ ongoing tour of the UAE after the US-Israeli air strikes on Iran. The board is working on getting the players...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-still-stranded-in-dubai-likely-to-miss-all-england-championship-2026-03-02-1032339",
     "time": "2026-03-02T14:55:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Iran considering pulling out, scheduled to play three group games in USA",
-    "desc": "Fresh uncertainty has emerged over Iran’s involvement in the 2026 World Cup after comments from the head of the country’s football federation cast doubt on whether the national team can compete in matches staged in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-iran-considering-pulling-out-scheduled-to-play-three-group-games-in-usa-2026-03-02-1032333",
-    "time": "2026-03-02T13:51:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Finalissima between Argentina vs Spain in Qatar faces uncertainty following tension in Middle East",
-    "desc": "The upcoming Finalissima in Doha, between Spain and Argentina, faces a postponement or a possible change in venue after authorities in Qatar suspended sporting activity nationwide amid escalating regional tensions. The match, scheduled for March...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/finalissima-between-argentina-vs-spain-in-qatar-faces-uncertainty-following-tension-in-middle-east-2026-03-02-1032326",
-    "time": "2026-03-02T13:04:04.000Z"
   }
 ];

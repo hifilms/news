@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "&amp;#039;ઈરાન પર હુમલા, ખામેનેઈના મોત પર ભારત ચૂપ કેમ&amp;#039;, શું ખામેનેઈની આ 4 ભૂલો કારણભૂત?",
+    "desc": "ઈઝરાયેલ અને અમેરિકાએ ભેગા થઈને ઈરાન પર હુમલો કર્યો, સુપ્રીમ લીડર ખામેનેઈ માર્યા ગયા, અનેક ટોપ લીડરશીપ ખલાસ થઈ ગઈ. આમ છતાં ભારતે ઈરાન માટે એક શબ્દ સુદ્ધા ઉચ્ચાર્યો નહીં તે વલણ ખુબ ચર્ચામાં છે. ઈઝરાયેલ અને ભારતની મિત્રતાની તો ખુબ વાત કરી પરંતુ શું ખામેનેઈની છેલ્લા કેટલાક વર્ષોમાં કરેલી આ 4 ભૂલ યાદ છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-india-silent-on-the-attack-on-iran-are-these-4-mistakes-of-khamenei-the-reason-466991 ",
+    "time": "2026-03-03T06:46:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ઈતિહાસની 5 સૌથી &amp;#039;ખૂંખાર&amp;#039; સેનાઓ! 10 લાખનું સૈન્ય અને હજારો લડાયક હાથી; વહાવી દેતા લોહીની નદીઓ...!",
+    "desc": "ઇતિહાસની 5 સૌથી પ્રાચીન સેનાઓએ પોતાની શિસ્ત અને વિશાળ સંખ્યા સાથે વિશ્વ પર શાસન કર્યું. મૌર્ય સામ્રાજ્યના યુદ્ધ હાથીઓથી લઈને 10 લાખ લોકોની મજબૂત ચીની સેના સુધી, આ સેનાઓનો ઇતિહાસ આજે પણ રૂવાડા ઉભા કરી દેવાનું કામ કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/the-5-most-ferocious-armies-in-history-armies-of-one-million-and-thousands-of-fighting-elephants-they-shed-rivers-of-blood-466978 ",
+    "time": "2026-03-03T05:34:37.000Z"
+  },
+  {
     "cat": "Business",
     "title": "બાબા વેંગાએ પહેલાથી જ કર્યો હતો ઈશારો? જાણો કેટલા વધી શકે છે સોનાના ભાવ?",
     "desc": "બલ્ગેરિયાના પ્રખ્યાત ભવિષ્યવક્તા બાબા વેંગા દ્વારા સોનાની કિંમતો અંગે કરવામાં આવેલી આગાહીઓએ હાલમાં ભારે ઉત્સુકતા જગાડી રહી છે. જેમ જેમ સોના અને ચાંદીના ભાવ આસમાને પહોંચી રહ્યા છે, તેમ તેમ લોકોમાં બાબા વેંગાની ભવિષ્યવાણીઓની ચર્ચા તેજ બની છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/did-baba-vanga-already-hint-find-out-how-much-the-price-of-gold-could-rise-466966 ",
-    "time": "2026-03-03T04:43:24.000Z"
+    "time": "2026-03-03T05:05:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "41 વર્ષ જૂનો એ અદભૂત સંયોગ, જે Team India ને બનાવી રહ્યો છે ચેમ્પિયન; શું ત્રીજી ટ્રોફી આવશે?",
+    "desc": "ઇતિહાસ સાક્ષી છે કે જ્યારે પણ ICC ટૂર્નામેન્ટની સેમીફાઈનલ મેચોમાં ભારતે ઇંગ્લેન્ડને હરાવ્યું છે, ત્યારે ટીમ ઈન્ડિયા 100% ચેમ્પિયન બની છે. આ 5મી તક છે જ્યારે બંને ટીમો સામસામે ટકરાવા જઈ રહી છે. આવી સ્થિતિમાં જોવાનું એ રહેશે કે ટીમ ઈન્ડિયા ત્રીજી ટ્રોફી ઘરે લાવી શકે છે કે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/semi-finals-ind-vs-eng-41-year-old-coincidence-that-is-making-team-india-the-champion-466968 ",
+    "time": "2026-03-03T05:04:58.000Z"
   },
   {
     "cat": "World",
@@ -432,24 +459,6 @@ const newsData_gu = [
     "time": "2026-02-28T16:27:58.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "સાહિબજાદા ફરહાને બનાવ્યો વર્લ્ડ રેકોર્ડ, વિરાટ કોહલીનો 12 વર્ષ જૂનો રેકોર્ડ તોડ્યો; T20 વર્લ્ડ કપમાં રચ્યો ઈતિહાસ",
-    "desc": "પાકિસ્તાની બેટ્સમેન સાહિબજાદા ફરહાને કિંગ કોહલીનો 12 વર્ષ જૂનો રેકોર્ડ તોડી નાખ્યો છે. તેણે શનિવારે શ્રીલંકા સામેની T20 વર્લ્ડ કપ મેચમાં વિરાટ કોહલીને પાછળ છોડી દીધો અને એક જ T20 વર્લ્ડ કપ એડિશનમાં સૌથી વધુ રન બનાવનાર ખેલાડી બની ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/sahibzada-farhan-breaks-virat-kohli-record-t20-world-cup-2026-most-runs-466633 ",
-    "time": "2026-02-28T15:41:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ભારત-વેસ્ટ ઈન્ડિઝ વચ્ચે ઈડન ગાર્ડનમાં આરપારની લડાઈ, જાણો T20 વર્લ્ડ કપમાં કોનું પલ્લું છે ભારે?",
-    "desc": "ભારત અને વેસ્ટ ઈન્ડિઝ વચ્ચે આવતીકાલે કોલકાતાના ઇડન ગાર્ડન્સમાં આરપારની ટક્કર થશે. આ મેચ બન્ને ટીમો માટે મહત્વપૂર્ણ છે, કારણ આ મેચ જીતનારી ટીમ T20 વર્લ્ડ કપના સેમીફાઈનલમાં પહોંચશે. પરંતુ શું તમે જાણો છો કે, T20 વર્લ્ડ કપના ઇતિહાસમાં આ બન્ને ટીમો કેટલી વખત આમને-સામને આવી છે અને આ મેચોમાં કોને જીત મળી હતી? ચાલો ટુર્નામેન્ટના હેન્ડ-ટુ-હેડ પરિણામો પર એક નજર કરીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-wi-t20-world-cup-2026-head-to-head-records-eden-gardens-match-466625 ",
-    "time": "2026-02-28T14:13:16.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "અયોધ્યા જઈ રહ્યા છો, તો ધ્યાન રાખો! આ દિવસે નહીં કરી શકો રામ લલ્લાના દર્શન, મંદિરના દરવાજા રહેશે બંધ, જાણો",
     "desc": "જો તમે રામ લલ્લાના દર્શન માટે અયોધ્યા રામ મંદિર જઈ રહ્યા છો, તો આ સમાચાર વાંચવાનું ભૂલશો નહીં. આ દિવસે તમે રામ લલ્લાના દર્શન કરી શકશો નહીં. તમારે દર્શન કર્યા વિના પાછા ફરવું પડી શકે છે.",
@@ -504,15 +513,6 @@ const newsData_gu = [
     "time": "2026-02-28T06:47:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ગુજરાતીઓના અતિ પ્રિય એવા માઉન્ટ આબુનું બદલાઈ ગયું નામ, હિલ સ્ટેશન હવે આ નામથી ઓળખાશે",
-    "desc": "ગુજરાતની પાડોશમાં આવેલા રાજસ્થાનમાં આવેલું અતિ સુંદર અને રમણીય હિલ સ્ટેશન માઉન્ટ આબુ એ ગુજરાતીઓને ખુબ પ્રિય છે. મિની વેકેશન હોય કે ઉનાળા-દીવાળીની રજાઓ હોય, આ જગ્યાએ જવાનું તેઓ ભૂલતા નથી. હવે આ માઉન્ટ આબુ વિશે એક મહત્વના સમાચાર આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-breaking-rajasthan-renames-mount-abu-to-aburaj-check-latest-update-466451 ",
-    "time": "2026-02-27T15:30:21.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "વિશ્વભરના સેમસંગ યુઝર્સની મોજ, કંપનીએ આપી ભેટ, હવે નેટવર્ક વિના કરી શકશે વાત, જાણો",
     "desc": "જો તમે સેમસંગ સ્માર્ટફોનનો ઉપયોગ કરી રહ્યા છો, તો તમારા માટે સારા સમાચાર છે. ટૂંક સમયમાં, તમે નેટવર્ક કનેક્શન વિના તમારા સેમસંગ ફોન પર વાત કરી શકશો અને તમારા પ્રિયજનો સાથે હંમેશા જોડાયેલા રહી શકશો, ભલે નજીકમાં કોઈ સેલ્યુલર નેટવર્ક ન હોય.",
@@ -520,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/samsung-user-around-the-world-will-start-dancing-the-company-has-given-a-gift-now-they-will-be-able-to-talk-without-a-network-466450 ",
     "time": "2026-02-27T14:56:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "એક ભૂલ અને DL રદ! હવે માત્ર ચલણ જ નહીં, પોઈન્ટ પણ કપાશે... ડ્રાઇવિંગ લાઇસન્સ માટે આવી રહી છે નવી સિસ્ટમ",
-    "desc": "દેશભરમાં વધતા રોડ અકસ્માતો અને વાહનચાલકોના બેદરકાર વલણને સુધારવા માટે કેન્દ્ર સરકારે એક નવી સિસ્ટમ લાગુ કરવા જઈ રહી છે. માર્ગ સલામતી વધારવા માટે કેન્દ્ર સરકાર દેશમાં ગ્રેડ-આધારિત ડ્રાઇવિંગ લાઇસન્સ સિસ્ટમ લાગુ કરવા જઈ રહી છે. આ સિસ્ટમ હેઠળ ટ્રાફિક નિયમો તોડવા બદલ લાયસન્સમાંથી પોઈન્ટ કાપવામાં આવશે અને ચોક્કસ મર્યાદા પછી લાઇસન્સ રદ કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/traffic-rules-central-government-is-going-to-implement-a-grade-based-driving-license-system-soon-466427 ",
-    "time": "2026-02-27T12:10:38.000Z"
   },
   {
     "cat": "Tech",
@@ -619,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rashmika-mandanna-and-vijay-deverakondas-wedding-preparations-begin-special-glimpses-from-udaipur-emerge-466055 ",
     "time": "2026-02-24T07:04:27.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "હવે E20 પેટ્રોલ પર ચાલશે રોયલ એનફિલ્ડની આ બાઇક્સ, E20 માટે કીટ કરવામાં આવી લોન્ચ, આટલો છે ભાવ, જાણો",
-    "desc": "જો તમારી પાસે જૂની રોયલ એનફિલ્ડ બાઈક છે, તો કંપનીએ હવે આ બાઇકો માટે E20 કીટ લોન્ચ કરી છે, જેનાથી તમે આરામથી E20 પેટ્રોલ પર બાઈક ચલાવી શકો છો. આ કીટના કારણે બાઈકને ફાયદો પણ થવાનું જણાવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/now-these-royal-enfield-bikes-will-run-on-e20-petrol-kit-launched-for-e20-this-is-the-price-know-465998 ",
-    "time": "2026-02-23T16:04:49.000Z"
   },
   {
     "cat": "Entertainment",

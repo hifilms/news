@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ড্রোন-ই দ্রোণাচার্য, সস্তা আঘাতে চাপে আমেরিকা-ইসরায়েল... লম্বা লড়াইয়ে কি এগিয়ে ইরান?",
+    "desc": "ইরান বহু বছর ধরেই শাহেদ (Shahed) সিরিজের ড্রোন তৈরি করছে — যেগুলো মূলত কামিকাজি ধরনের, অর্থাৎ একবার আঘাত করে নিজেই ধ্বংস হয়। এই ড্রোনগুলো খুব সস্তা, সহজে বানানো যায়, আর একসাথে শত শত ছুঁড়লে প্রতিরক্ষা ব্যবস্থা পিছু হটতে বাধ্য হয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/iran-attack-weapons-defence-israel-iran-war-from-2-billion-b2-bomber-to-kamikaze-drone-heres-the-list-of-weapons-used-by-us-to-hit-iran_643427.html ",
+    "time": "2026-03-02T16:48:49.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "UAE-র প্রেসিডেন্টকে ফোন মোদির! ইরান-ইজরায়েলের পরিস্থিতির মাঝে কী কথা হল দুই রাষ্ট্রনেতার",
     "desc": "পশ্চিম এশিয়ার বর্তমান পরিস্থিতির মাঝে ইজরায়েলের প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহুর সঙ্গে কথা বলেছেন ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদি৷ সোশ্যাল মিডিয়া X-এ একটি পোস্ট করে, প্রধানমন্ত্রী মোদি লেখেন, ‘বর্তমান আঞ্চলিক পরিস্থিতি নিয়ে আলোচনা করার জন্য প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহুর সঙ্গে টেলিফোনে কথা হয়েছে। সাম্প্রতিক ঘটনাবলি নিয়ে ভারতের উদ্বেগের কথা জানিয়েছি এবং সাধারণ নাগরিকদের নিরাপত্তাকে অগ্রাধিকার হিসেবে জোর দেওয়ার কথাও জানিয়েছি। যত দ্রুত সম্ভব যাতে এই শত্রুতার পরিস্থিতি বন্ধ হয়, তার প্রয়োজনীয়তাও পুনর্ব্যক্ত করেছে ভারত’৷",
@@ -46,6 +55,24 @@ const newsData_bn = [
   },
   {
     "cat": "Entertainment",
+    "title": "ঐতিহ্যের ব্যাটন এবার গৌতম ঘোষের হাতে, কলকাতার নতুন শেরিফ বর্ষীয়ান পরিচালক...",
+    "desc": "কলকাতার নতুন শেরিফ হিসেবে মনোনীত হলেন আন্তর্জাতিক খ্যাতিসম্পন্ন চিত্রপরিচালক গৌতম ঘোষ। বর্তমানে ভারতের মাত্র দুটি শহরে—কলকাতা ও মুম্বইয়ে এই 'শেরিফ' পদটি সক্রিয় রয়েছে। মূলত একজন অরাজনৈতিক ব্যক্তিত্বকে এই সম্মানে ভূষিত করা হয়, যিনি সমাজ বা সংস্কৃতিতে বিশেষ অবদান রেখেছেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/goutam-ghose-appointed-as-new-sheriff-kolkata-tradition_643391.html ",
+    "time": "2026-03-02T14:08:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ইরান-ইসরায়েল সংঘাতের জেরে বন্ধ বিমানপথ, প্যারিসে আটকে সন্দীপ্তা...",
+    "desc": "যুদ্ধের কবলে পশ্চিম এশিয়া! দুবাইয়ে আটকে শুভশ্রী, প্যারিসে বন্দি সন্দীপ্তা সেন। স্বামী সৌম্যোপাধ্যায়ের সঙ্গে নরওয়ে ও ফিনল্যান্ড ভ্রমণে গিয়েছিলেন অভিনেত্রী সন্দীপ্তা সেন। ফেরার পথে প্যারিস থেকে আবুধাবি হয়ে কলকাতায় আসার কথা ছিল তাঁদের। কিন্তু বাতিল একের পর এক ফ্লাইট।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-actress-sandipta-sen-stuck-in-paris-as-flights-are-cancelled-due-to-the-iran-israel-usa-war_643385.html ",
+    "time": "2026-03-02T13:14:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "\"খাটের তলায় লুকিয়ে থাকব, চিন্তা করো না\", দুবাইয়ে আটকে ৬ বছরের মেয়ে, চিন্তায় চোখে জল বাবা অ্যামির",
     "desc": "আভি ভার্ক জানিয়েছেন যে তাঁর স্ত্রী এবং ৬ বছরের মেয়ে সংযুক্ত আরব আমিরশাহীতে আটকা পড়েছে। সেখান থেকে তাঁর মেয়ের একটি কথা নায়ককে কাঁদিয়ে দিয়েছে। তিনি শান্তির জন্য আবেদন করেছেন এবং ক্ষতিগ্রস্ত সকল পরিবারের জন্য প্রার্থনা করেছেন।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/ammy-virk-2026-03-a5c66b9866e19342c575969eeaa3d359-1200x800.jpg",
@@ -79,6 +106,24 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/mimi-chakraborty-defamation-case-20-lakh-compensation-2-65-lakh-refund-bongaon-court-tanmay-shastri-tarunjyoti-tewari-sal-2565267.html",
     "time": "2026-03-02T11:21:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "রোজার উপবাসে থাকা খামেইনির শেষের ভয়ংকর মুহূর্ত, যে ভাবে একমাস নজরে রেখে গোটা পরিবার খতম করল CIA...",
+    "desc": "যে কম্পাউন্ডটি লক্ষ্য করে হামলা চালানো হয়েছিল, সেটি কোনও সাধারণ ভবন ছিল না। নিউ ইয়র্ক টাইমসের তথ্য মতে, এখানে ইরানের প্রেসিডেন্সি অফিস, সর্বোচ্চ নেতার কার্যালয় এবং জাতীয় নিরাপত্তা কাউন্সিলের সদর দফতর ছিল। এক কথায়, এটি ছিল ইরানের শাসনের প্রধান কেন্দ্র।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/cia-tracked-khamenei-for-months-killed-him-in-two-hours-and-five-minutes-the-inside-story_643369.html ",
+    "time": "2026-03-02T11:13:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মধ্যপ্রাচ্য়ের যুদ্ধের ভয়াবহ আগুনে কয়েক মুহূর্তেই জ্বলে খাক হয়ে গেল বাজারের ৬ লক্ষ কোটি টাকা, ভারতে হাহাকার...",
+    "desc": "যদিও ভারতের অভ্যন্তরীণ অর্থনৈতিক ভিত্তি (Fundamentals) বেশ মজবুত, তবুও এই ধরণের বৈশ্বিক ধাক্কা সামলানো কঠিন। ভারতের জিডিপি বৃদ্ধি এবং কর্পোরেট আয়ের হার ইতিবাচক থাকলেও, জ্বালানির দাম বৃদ্ধি উৎপাদন ও পরিষেবা খাতের খরচ বাড়িয়ে দেয়। বিশেষ করে অ্যাভিয়েশন (বিমান পরিষেবা), অটোমোবাইল এবং কনজিউমার গুডস সেক্টরে এই পতনের প্রভাব সবচেয়ে বেশি দেখা গেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/market-story-sensex-crashes-1500-points-amid-iran-us-conflict-should-investors-be-worried-sensex-crash_643356.html ",
+    "time": "2026-03-02T09:39:45.000Z"
   },
   {
     "cat": "Business",
@@ -297,6 +342,15 @@ const newsData_bn = [
     "time": "2026-02-28T17:59:18.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "রঞ্জিতে ইতিহাস, দ্রাবিড়িয়ান ক্রিকেট সভ্যতাকে উড়িয়ে দিল কাশ্মীরের ঝোড়ো হাওয়া...",
+    "desc": "টস জিতে ব্যাট করতে নেমে জম্মু-কাশ্মীর তুলেছিল ৫৮৪ রান | শুভম পুণ্ডির ১২১, ইয়াওয়ার হাসানের ৮৮, সাহিল লোতরার ৭২ এবং অধিনায়ক পরেশ ডোগরার ৭০ রানের ইনিংসকে ঢাল করেই কর্ণাটকের বিরুদ্ধে রানের পাহাড় তোলে জম্মু-কাশ্মীর |প্রসিদ্ধ কৃষ্ণা নেন ৫ উইকেট, যদিও তাতে বিশেষ কিছু লাভ হয়নি",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/historic-moment-in-ranji-trophy-kashmir%E2%80%99s-storm-sweeps-away-dravidian-cricket-legacy_643142.html ",
+    "time": "2026-02-28T13:52:25.000Z"
+  },
+  {
     "cat": "Business",
     "title": "'আফগানিস্তানে' ভারতীয় ৫০০ টাকার 'মূল্য' কত হবে জানেন...? চমকাবেন শুনলেই 'উত্তর'!",
     "desc": "আকাশসীমা পেরিয়ে আফগানিস্তানে হামলা চালিয়েছে পাকিস্তান। শনিবার তারা আরও এক বার দাবি করেছে, হামলায় ৩০০ আফগান তালিবানের মৃত্যু হয়েছে। এরইমধ্যে পাকিস্তান আফগানিস্তান যুদ্ধ পরিস্থিতিতে ফের একবার সোশ্যাল মিডিয়ায় ঝড় তুলেছে ভারতের এই প্রতিবেশী দেশটি। প্রশ্ন উঠছে এই দেশের আর্থিক পরিস্থিতি ভারতের তুলনায় কেমন? সেখানে ভারতের একটা ৫০০ টাকার নোটের ভ্যালু কত? চলুন জেনে নিন আজই!",
@@ -304,6 +358,15 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-afghanistani-afghan-do-you-know-how-much-an-indian-500-rupee-note-is-worth-in-afghanistan-you-will-be-shocked-to-hear-the-answer-trending-knowledge-sanj-2562598.html",
     "time": "2026-02-28T12:15:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Israel- Iran War: মধ্যপ্রাচ্যে আগুনের লেলিহান শিখা, পরমাণু শক্তিধর ইরানের নখ-দাঁতে ছিন্নভিন্ন ৭ প্রতিবেশী দেশ, চুরমার 'ইসলামিক' ঐক্য? তৃতীয় বিশ্বযুদ্ধ...",
+    "desc": "২০২৬ সালের ফেব্রুয়ারি মাস বিশ্ব ইতিহাসের এক রক্তাক্ত অধ্যায় হিসেবে চিহ্নিত হতে চলেছে। মধ্যপ্রাচ্যের ভূ-রাজনীতিতে যে অস্থিরতা গত কয়েক বছর ধরে ধিকিধিকি জ্বলছিল,তা এখন এক ভয়াবহ দাবানলে পরিণত হয়েছে। ইরানের সাম্প্রতিক সামরিক পদক্ষেপ কেবল ইসরায়েল নয়, বরং গোটা অঞ্চলের সাতটি দেশকে যুদ্ধের কিনারে ঠেলে দিয়েছে। আন্তর্জাতিক সংবাদমাধ্যমের সূত্র অনুযায়ী, ইরানের এই বহুমুখী আক্রমণ মধ্যপ্রাচ্যের মানচিত্র বদলে দেওয়ার পাশাপাশি এক বিশ্বযুদ্ধের দামামা বাজিয়ে দিয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/iran-attacks-middle-east-7-countries-us-israel-war-impact-third-world-war-us-gulf-syria-jordon-saudi-arab-kuwait-uae-islamic-nato_643117.html ",
+    "time": "2026-02-28T12:14:07.000Z"
   },
   {
     "cat": "World",
@@ -322,6 +385,15 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/kakinada-andhra-pradesh-blast-18-killed-in-massive-explosion-at-fireworks-factory-in-kakinada-district-ss-2562492.html",
     "time": "2026-02-28T11:22:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "একলাফে কেন্দ্রীয় সরকারি কর্মীদের বেতন বাড়ছে ৬৬%? তাহলে ন্যূনতম বেতন কত হচ্ছে? এখনই জেনে নিন...",
+    "desc": "What is Aykroyd formula in 8th Pay Commission? অষ্টম বেতন কমিশনের আলোচনায় সবচেয়ে বেশি গুরুত্ব পাচ্ছে 'অ্যাক্রয়েড ফর্মুলা'। ডব্লিউ আর অ্যাক্রয়েড নামক একজন পুষ্টিবিদের গবেষণার ওপর ভিত্তি করে এই ফর্মুলা তৈরি করা হয়েছে। এটি মূলত একজন মানুষের বেঁচে থাকার জন্য প্রয়োজনীয় খাদ্য, বস্ত্র এবং বাসস্থানের ন্যূনতম ব্যয়ের ওপর ভিত্তি করে বেতন নির্ধারণ করে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/8th-pay-commission-big-update-minimum-pay-may-rise-by-66-percent-by-aykroyd-formula_643111.html ",
+    "time": "2026-02-28T09:28:20.000Z"
   },
   {
     "cat": "Politics",
@@ -376,6 +448,15 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/yuva-sathi-status-checking-have-you-applied-for-the-yuva-sathi-scheme-money-has-the-application-been-accepted-or-rejected-check-it-now-with-step-by-step-guide-sanj-2561449.html",
     "time": "2026-02-27T17:25:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dona Ganguly's Diksha Manjari Basanta Utsav 2026: ভারতীয় জাদুঘরে রঙের উৎসব! বসন্তের মহড়ায় মাতল দীক্ষা মঞ্জরী...",
+    "desc": "বিগত বেশ কিছু বছরে বসন্তের বন্দনায় দীক্ষা মঞ্জরীর বসন্ত উৎসব শহরের এক উল্লেখযোগ্য অনুষ্ঠানে পরিণত হয়েছে। এবছরেও জাঁকজমকের কোনো কমতি হবে না। নৃত্য পরিবেশন করবেন পাঁচ শতাধিক ছাত্র-ছাত্রী। বাংলায় দোলের আর অন্যান্য প্রদেশের হোলির গানে-নাচে আর আবিরের রঙে ভরে উঠবে ভারতীয় জাদুঘরের প্রাঙ্গণ।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/dona-ganguly-diksha-manjari-basanta-utsav-indian-museum-2026_643024.html ",
+    "time": "2026-02-27T15:12:41.000Z"
   },
   {
     "cat": "Politics",
@@ -439,6 +520,15 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/after-pakistan-attacks-afganistan-now-airstrikes-at-islamabad-military-installations-smc-2560893.html",
     "time": "2026-02-27T10:19:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "সিবিআইকে যাচ্ছেতাই অপমান আদালতের! আবগারি মামলায় সসম্মানে মুক্ত অরবিন্দ কেজরীওয়াল...",
+    "desc": "আবগারি নীতি মামলায় অরবিন্দ কেজরিওয়াল ও মণীশ সিসোদিয়া-সহ ২৩ জনকে অব্যাহতি দিয়ে সিবিআইকে ভর্ৎসনা আদালতের। সিবিআইয়ের দায়ের করা মামলা খারিজ করে বিশেষ বিচারক স্পষ্ট জানিয়েছেন, নীতির প্রণয়নে কোনও সর্বব্যাপী ষড়যন্ত্র বা অপরাধমূলক উদ্দেশ্যের প্রাথমিক প্রমাণ মেলেনি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/arvind-kejriwal-manish-sisodia-cleared-of-charges-in-delhi-liquor-policy-case_642990.html ",
+    "time": "2026-02-27T09:57:05.000Z"
   },
   {
     "cat": "Politics",
@@ -558,6 +648,15 @@ const newsData_bn = [
     "time": "2026-02-26T11:01:33.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "নিষিদ্ধ হল অষ্টম শ্রেণির বই! কড়া অবস্থান সুপ্রিম কোর্টের, কেন্দ্রকে তীব্র ভর্ৎসনায় শীর্ষ আদালত বলল...",
+    "desc": "ক'দিন ধরেই চলছে এই বিতর্ক। NCERT-র অষ্টম শ্রেণির বইতে ভারতীয় বিচার ব্যবস্থার দুর্নীতি সংক্রান্ত একটি অধ্যায় পড়ানো নিয়ে এই বিতর্ক তৈরি হয়েছে। এ বিষয়ে স্বতঃপ্রণোদিত পদক্ষেপ করে খোদ সুপ্রিম কোর্ট! বিচলিত বোধ করেন স্বয়ং দেশের প্রধান বিচারপতি!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/sc-bans-class-8-textbook-sc-bans-ncert-social-science-textbook-with-chapter-on-judicial-corruption_642871.html ",
+    "time": "2026-02-26T09:16:01.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ভেষজ-ঔষধি গুণে ঠাসা, দিন দিন বাড়ছে কদর! ডাটা নয়, সজনে ফুলেই এইভাবে লক্ষ টাকা আয় করছেন সুন্দরবনের যুবকরা",
     "desc": "সজিনা ফুল এখন আর কেবল ঘরোয়া সবজি নয়, এটি একটি বহুমুখী ওষধি সম্পদ। ডাটা হওয়ার আগেই ফুল সংগ্রহ করে বাজারে বিক্রি করলে মিলছে রেকর্ড পরিমাণ মুনাফা। কম পুঁজিতে ভেষজ ব্যবসার এই নতুন দিশা সম্পর্কে জেনে নিন।",
@@ -639,6 +738,15 @@ const newsData_bn = [
     "time": "2026-02-25T15:29:19.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Telangana mother's shocking crime: কেঁদে কেঁদে কানের মাথা খাচ্ছে! হাত-পা বেঁধে মুখে কাপড় গুঁজে ‍একবছরের সন্তানকে মারল 'বিরক্ত' ভার্গবী...",
+    "desc": "প্রাথমিক জিজ্ঞাসাবাদে ভার্গবী তাঁর অপরাধের কথা স্বীকার করেছেন বলে দাবি পুলিসের। তিনি জানিয়েছেন, শিশুটি ক্রমাগত কাঁদছিল এবং তার কান্না কোনোভাবেই থামানো যাচ্ছিল না। অসহ্য বিরক্তি থেকেই তিনি এই চরম পদক্ষেপ নেন। পুলিস ইতিমধ্যেই ভার্গবীর বিরুদ্ধে ভারতীয় দণ্ডবিধির প্রাসঙ্গিক ধারায় খুনের মামলা রুজু করে তাঁকে গ্রেফতার করেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/telangana-woman-kills-infant-over-frequent-crying-mouth-stuffed-legs-tied_642815.html ",
+    "time": "2026-02-25T15:15:30.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘কেরালা স্টোরি ২’ মুক্তি নিয়ে আইনি জট! শুনানি শেষ না হওয়া পর্যন্ত রিলিজ নয় বলল হাইকোর্ট",
     "desc": "‘কেরালা স্টোরি ২’ ছবির মুক্তি ঘিরে বড় নির্দেশ জারি করল কেরল হাইকোর্ট। বুধবার আদালত স্পষ্ট জানিয়ে দেয়, মামলার শুনানি সম্পূর্ণ না হওয়া পর্যন্ত ছবির রিলিজ কার্যকর করা যাবে না। আদালতের পর্যবেক্ষণ, আবেদনকারীর আশঙ্কা “সম্ভবত যথার্থ”, তাই চূড়ান্ত রায় না আসা পর্যন্ত অপেক্ষা করতে হবে।",
@@ -646,6 +754,15 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/kerala-story-2-release-stay-kerala-high-court-order-film-controversy-india-sal-2557742.html",
     "time": "2026-02-25T13:58:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'২০২৬ শুধু নয়, ২০২৭ সালেও সিনেমায় আমার গান শুনতে পাবেন', অবসরের পরেই বার্তা অরিজিতের…",
+    "desc": "প্লেব্যাক থেকে বিদায় নিয়ে মুখ খুললেন অরিজিৎ সিং। ট্রোলারদের দিলেন মোক্ষম জবাবও। তিনি স্পষ্ট করে জানিয়েছেন, প্লেব্যাককে বিদায় জানালেও হাতে থাকা আগের সব কাজ তিনি শেষ করবেন। পাশাপাশি অমূলক তর্কে জড়াতেও বারণ করেছেন তাঁর ফ্যানেদের।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/arijit-singh-playback-retirement-clarification-trolls-response_642784.html ",
+    "time": "2026-02-25T12:58:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -691,6 +808,15 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/business/bumper-sunflower-farming-in-the-soil-of-sundarbans-farmers-earning-big-profits-l18-dc-2557461.html",
     "time": "2026-02-25T11:20:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "অপরাধের অনুশোচনা তো দূরঅস্ত! 'আরেকবারও হতে পারে', জামিন পেয়ে বেনজির অসভ্যতা নোবেলের...",
+    "desc": "এক মহিলাকে বিয়ের প্রলোভন দেখিয়ে বাড়িতে আটকে রেখে যৌন নির্যাতন চালায় বাংলাদেশের বিতর্কিত গায়ক মাইনুল আহসান নোবেল। এখানেই শেষ নয়, তাঁর আপত্তিকর ছবি ও ভিডিয়ো ছড়িয়ে দেওয়ার হুমকিও দেয়। এই ঘটনায় গ্রেফতার হন গায়ক। তবে জামিনে ছাড়া পেয়ে অনুশোচনা তো দূরঅস্ত! আদালতে গান ধরলেন নোবেল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/singer-noble-gets-bail-sexual-harassment-case-sing-song-court_642742.html ",
+    "time": "2026-02-25T11:19:25.000Z"
   },
   {
     "cat": "Tech",
@@ -772,131 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/bollywood-actor-sanjay-dutt-bjp-rajya-sabha-speculation-lucknow-sal-2555164.html",
     "time": "2026-02-24T14:26:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "উঠলেই পৌঁছে যাবেন! দারুণ 'স্পিড'! ১৮০ কিমি ঘণ্টায় ছোটে...! দেশের দ্রুততম ট্রেন কোনগুলো?",
-    "desc": "ভারতের রেলপথে গতি এখন নতুন সংজ্ঞা পাচ্ছে। বন্দে ভারত থেকে তেজস—দেশের দ্রুততম ট্রেনগুলি ১৮০ কিমি প্রতি ঘণ্টা পর্যন্ত গতি তুলতে সক্ষম। আধুনিক প্রযুক্তি, উন্নত কোচ নকশা এবং নিরাপত্তা ব্যবস্থার সমন্বয়ে ভারতীয় রেল ধীরে ধীরে উচ্চগতির যুগে প্রবেশ করছে। যদিও অধিকাংশ রুটে অপারেশনাল গতি এখনও অবকাঠামোগত সীমাবদ্ধতার কারণে কম, তবুও নকশাগত সর্বোচ্চ গতি ১৬০ থেকে ১৮০ কিমি প্রতি ঘণ্টা পর্যন্ত পৌঁছায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1771934488_Untitled-design-2026-02-24T160535.828-2026-02-82653dcd9ec39fae0a50c795122836ac-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/off-beat/india-fastest-trains-2026-vande-bharat-rajdhani-tejas-express-that-run-at-180kmh-speed-list-check-detail-tib-ws-l-2555844.html",
-    "time": "2026-02-24T12:17:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ভীষণ শক্তিশালী! ভারত মহাসাগরে তৈরি হল বছরের প্রথম 'ক্যাটেগরি ৫' ঘূর্ণিঝড়! কতটা বিপদে পড়তে চলেছে দেশ?",
-    "desc": "২০২৬ সালে বিশ্বের প্রথম ক্যাটেগরি ৫ ঘূর্ণিঝড় দক্ষিণ ভারত মহাসাগরে গঠিত হয়েছে। ট্রপিক্যাল সাইক্লোন হোরাসিও অল্প সময়ের মধ্যে দ্রুত শক্তি বৃদ্ধি করে ঘণ্টায় ২৫৭ কিলোমিটার বেগে পৌঁছেছে, যা আবহাওয়াবিদদের মতে ‘র‌্যাপিড ইনটেনসিফিকেশন’-এর একটি উল্লেখযোগ্য উদাহরণ। যদিও ঝড়টি বর্তমানে ভারতের উপকূল থেকে বহু দূরে অবস্থান করছে, তবুও এর তীব্রতা এবং দ্রুত শক্তিবৃদ্ধি ঘিরে আন্তর্জাতিক মহলে উদ্বেগ তৈরি হয়েছে। বিশেষজ্ঞরা মনে করছেন, উষ্ণ সমুদ্রপৃষ্ঠ এবং অনুকূল বায়ুমণ্ডলীয় পরিস্থিতি ভবিষ্যতে আরও শক্তিশালী ঘূর্ণিঝড়ের ঝুঁকি বাড়াতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/20191205-IndianOceanstorms-2026-02-6ae73e8c682b3d3605af33b1b1cb186f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/alert-of-cyclonic-rapid-intensification-of-category-5-cyclone-world-first-furious-storm-forms-in-indian-ocean-what-it-means-is-india-at-risk-tib-ws-el-2555620.html",
-    "time": "2026-02-24T11:10:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "শাশুড়িকে 'লিপ-কিস'! জন্মদিনের স্পেশ্যাল ছবি অপরাজিতা আঢ্যের, সোশ্যাল মিডিয়ায় ট্রোলারদের বুড়ে আঙুল দেখালেন অভিনেত্রী",
-    "desc": "সেই ছবি পোস্ট করতেই শুরু হল নানা কটূক্তি৷ কারণ? তাঁর শাশুড়ি মায়ের সঙ্গে একটি আদুরে ছবি পোস্ট ঘিরে নেটদুনিয়ায় নানা কথা শুরু হল৷ ছবিতে শাশুড়ির ঠোঁটে চুমু খেতে দেখা গিয়েছে অপরাজিতা আঢ্যকে৷ স্নেহের এই ভাবপ্রকাশে শুরু হয়েছে সোশ্যাল মিডিয়ায় মরাল পুলিশিং!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-24-at-2.28.16-PM-2026-02-138d13b56e8cc8d47782f7c648920caa-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/bengali-actress-aparajita-adhya-lip-kisses-her-mother-in-law-her-birthday-special-picture-pbd-2555207.html",
-    "time": "2026-02-24T10:56:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "একবার বিয়ে ভেঙেছে, বিজয়ের সঙ্গে সুখী হবেন তো রশ্মিকা? দু’জনের বয়সের ফারক যা বলছে, তা হল...",
-    "desc": "একবার বাগদান ভেঙে যাওয়ার যন্ত্রণা কাটিয়ে আবার বিয়ে করছেন রশ্মিকা৷ বিজয়ের সঙ্গে ঘর বাঁধতে চলেছেন সুন্দরী৷ তাঁদের সম্পর্ক ভেঙে যাওয়ার আসল কারণ প্রকাশ করেননি তাঁরা। তবে কানাঘুঁষো শোনা গিয়েছে, মতের অমিলের কারণে দু'জনে আলাদা হয়ে যান। রক্ষিত তাঁর থেকে ছিলেন ১৩ বছরের বড়, বিজয় কতটা বড় রশ্মিকার থেকে? বয়সের ফারাক কোনও সমস্যা তৈরি করবে না তো?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-24-at-3.05.12-PM-2026-02-aed798ce793f985af1e30ab931d9accc-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/vijay-deverakonda-rashmika-mandanna-wedding-of-virosh-what-is-the-age-difference-between-them-ideal-age-difference-between-husband-wife-pbd-2555438.html",
-    "time": "2026-02-24T09:46:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "নোটিস পাঠানোর ক্ষেত্রে তাড়াহুড়ো নয়, পাঁচ রাজ‍্যের বিধানসভা নিয়ে সতর্ক ইডি",
-    "desc": "পাঁচ রাজ‍্যের বিধানসভা ভোটের আগে সতর্ক এনফোর্সমেন্ট ডিরেক্টরেট। নোটিস পাঠানোর ক্ষেত্রে তড়িঘড়ি নয়। ভেবেচিন্তে, সবদিক খতিয়ে দেখে পাঠাতে হবে জিজ্ঞাসাবাদের নোটিস৷ গুয়াহাটিতে ইডির ত্রৈমাসিক সম্মেলনে সংস্থার আধকারিকদের এই নির্দেশ দিলেন ইডি অধিকর্তা রাহুল নবীনে।একইসঙ্গে দীর্ঘদিন ধরে চলা তদন্তও দ্রুত শেষ করার নির্দেশ দিয়েছেন ইডি ডিরেক্টর। নির্দেশেবলা হয়েছে, ২০২৫-২৬ অর্থবর্ষের মোট পাঁচশোটি তদন্তাধীন কেস নির্দিষ্ট সময়ের মধ্যে শেষ করতে হবে। নতুন কেস এক থেকে দুই বছরের সময়সীমার টার্গেট নিয়ে শেষ করতে হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ED-2026-02-bf93f1ccce0812874f647ceb35a29d12-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/ahead-of-assembly-polls-ed-warns-against-rushing-to-send-notices-ank-2554521.html",
-    "time": "2026-02-23T15:44:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "দীর্ঘ অপেক্ষার অবসান! ডুয়ার্সে শ্যুটিং শুরু ‘অ্যাম্বুলেন্স দাদা’র স্বপ্নের ছবি",
-    "desc": "পদ্মশ্রীপ্রাপ্ত মানবসেবী করিমুল হক-এর জীবন অবলম্বনে তৈরি হচ্ছে বাংলা সিনেমা। মুখ্য ভূমিকায় থাকছেন অভিনেতা দেব। শুটিং চলছে চলসা-সহ ডুয়ার্সে। বাইক অ্যাম্বুলেন্সে অসুস্থদের হাসপাতালে পৌঁছে দেওয়ার তাঁর মানবিক সংগ্রাম এবার বড় পর্দায় উঠে আসবে, যা দর্শকদের অনুপ্রাণিত করবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/HYP_5780874_cropped_23022026_144000_img_20260223_143931_waterm_2-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/west-bengal/jalpaiguri-dev-ambulance-dada-film-shooting-dooars-bengali-movie-update-sal-l18-local18-2553795.html",
-    "time": "2026-02-23T14:38:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মুকুল রায়ের মৃত্যুতে কী বললেন দিলীপ ঘোষ? দেখুন ভিডিও",
-    "desc": "তৃণমূলকে শক্তিশালী করতে এবং পশ্চিমবঙ্গের রাজনীতিতেও বড় অবদান ছিল মুকুল রায়ের৷ প্রবীণ রাজনীতিবিদের মৃত্যুর পর এমনই প্রতিক্রিয়া দিলেন বিজেপি নেতা দিলীপ ঘোষ৷ তিনি বলেন, 'তৃণমূলকে দাঁড় করাতে তাঁর বড় অবদান রয়েছে৷ বিজেপি-কেও উনি সার্ভিস দিয়েছেন৷ অনেক দিন ধরেই তিনি কষ্ট পাচ্ছিলেন৷ তাঁর আত্মার সদগতি হোক৷ পরিবারের মানুষ এই শোক কাটিয়ে ওঠার শক্তি পান৷' রবিবার গভীর রাতে ই এম বাইপাস সংলগ্ন বেসরকারি হাসপাতাসে মৃত্যু হয় মুকুল রায়ের৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Mukul-Roy-29-2026-02-be4280399b6d1bec51ea89e61d54d526-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/dilip-ghosh-remembers-mukul-roy-claims-he-had-big-contribution-in-west-bengal-politics-dmg-2554354.html",
-    "time": "2026-02-23T14:22:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মুকুলের প্রয়াণে মোদির শোকবার্তা! দেখুন ভিডিও",
-    "desc": "প্রবীণ রাজনীতিবিদ মুকুল রায়ের প্রয়াণে শোকপ্রকাশ করলেন প্রধানমন্ত্রী নরেন্দ্র মোদি৷ এক্স হ্যান্ডেলে পোস্ট করা শোকবার্তায় তিনি লেখেন, “প্রাক্তন কেন্দ্রীয় মন্ত্রী শ্রী মুকুল রায় জি’র প্রয়াণে আমি শোকাহত। তাঁর রাজনৈতিক অভিজ্ঞতা ও সমাজসেবামূলক প্রচেষ্টা স্মরণীয় হয়ে থাকবে। তাঁর পরিবার ও সমর্থকদের প্রতি সমবেদনা জানাই। ওঁ শান্তি।” রবিবার গভীর রাতে ই এম বাইপাস সংলগ্ন একটি হাসাপাতালে তাঁর মৃত্যু হয়৷ এ দিন বিধানসভায় মুকুল রায়কে শেষশ্রদ্ধা জানান বিভিন্ন রাজনৈতিক দলের প্রতিনিধিরা৷ হালিশহরে মুকুল রায়ের শেষকৃত্য সম্পন্ন হয়৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Mukul-Roy-Obit-2026-02-de33f1ae87a6b1073ef35cc1aa474738-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/narendra-modi-sends-condolence-messages-after-mukul-roy-death-dmg-2554343.html",
-    "time": "2026-02-23T14:07:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "কবে আসবে পিএম কিষান যোজনার আগামী কিস্তির টাকা ? জেনে নিন এখানে",
-    "desc": "পিএম কিষান সম্মান নিধি প্রকল্পের পরবর্তী কিস্তির জন্য অপেক্ষায় রয়েছেন লক্ষ লক্ষ কৃষক। মার্চ ২০২৬-এ ২২তম কিস্তি প্রকাশিত হতে পারে বলে জল্পনা। তবে এখনও সরকারিভাবে তারিখ ঘোষণা হয়নি। কীভাবে স্ট্যাটাস চেক করবেন ও e-KYC সম্পূর্ণ করবেন, জেনে নিন এখানে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/pm-kisan-90-2026-02-f3120eb1899c66c1534f808915b77edc-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/pm-kisan-22nd-installment-date-2026-when-will-the-next-payment-be-released-dc-2554321.html",
-    "time": "2026-02-23T13:48:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "এক ঝাঁক তারকার উপস্থিতিতে কলকাতায় অনুষ্ঠিত হল মিস গ্র্যান্ড ওয়েস্ট বেঙ্গল ২০২৬, জয়ী কোডিলা বাগচী",
-    "desc": "সম্মানিত বিচারক প্যানেলে মিস গ্র্যান্ড ইন্ডিয়া ২০২৫ বিজয়ী বিশাখা কানওয়ার, শুভ্রাজিৎ মিত্র, জয়া মিশ্র, রুসা বন্দ্যোপাধ্যায়, কৌস্তভ সাইকিয়া, ডঃ রূপালী বসু, সত্রাজিৎ সেন এবং শুভঙ্কর মিত্র উপস্থিত ছিলেন। তাঁদের অভিজ্ঞতা, ন্যায্যতা এবং উৎকর্ষতার প্রতি তীক্ষ্ণ দৃষ্টি প্রতিযোগিতায় অপরিসীম বিশ্বাসযোগ্যতা এবং মর্যাদা যোগ করেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Beauty-Show-2026-02-0c4c350ce81b4ae8d116e2a53e34be7f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/beauty-pageant-miss-grand-west-bengal-2026-organised-in-kolkata-pbd-2554272.html",
-    "time": "2026-02-23T13:41:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ভারত হারতেই বিশ্বকাপের পয়েন্ট টেবিলের অঙ্ক কঠিন! টিম ইন্ডিয়া খেলবে সেমিফাইনাল! কীভাবে? সবার আগে দেখে নিন",
-    "desc": "টিম ইন্ডিয়া গ্রুপ ১-এ পয়েন্ট তালিকায় দ্বিতীয় স্থানে রয়েছে। এই গ্রুপে ভারত এবং দক্ষিণ আফ্রিকা ছাড়াও রয়েছে জিম্বাবোয়ে এবং ওয়েস্ট ইন্ডিজ। ভারচতের নেট রান রেট -৩.৮০০ হয়ে গিয়েছে। পয়েন্ট টেবিলের শীর্ষে রয়েছে দক্ষিণ আফ্রিকা। তাদের ২ পয়েন্ট। তাদের নেট রান রেট +৩.৮০০।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Indian-cricket-team-3-2026-02-de9160f8d50aeb8263bc2b324b528145-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/here-is-the-point-table-how-team-india-can-qualify-t20-world-cup-semifinal-smj-2554016.html",
-    "time": "2026-02-23T11:43:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘গভীরভাবে শোকাহত’! মুকুল রায়ের প্রয়াণে শোকপ্রকাশ স্বরাষ্ট্রমন্ত্রী অমিত শাহের",
-    "desc": "প্রাক্তন কেন্দ্রীয় মন্ত্রী মুকুল রায়ের প্রয়াণে শোকপ্রকাশ করলেন স্বরাষ্ট্রমন্ত্রী অমিত শাহ৷ এক্স হ্যান্ডেলে অমিত শাহ লিখেছেন, ‘‘প্রাক্তন কেন্দ্রীয় মন্ত্রী মুকুল রায়ের প্রয়াণে আমি গভীরভাবে শোকাহত। জনসেবায় তাঁর দীর্ঘ কর্মজীবন সংগঠনের গতিবিধি ও জনসমস্যা সম্পর্কে তাঁর গভীর উপলব্ধির জন্য চিহ্নিত হয়ে থাকবে। ওম শান্তি৷’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Amit-Shah-Mukul-Roy-2026-02-411d82054aa8c1399fa09687eeb6e5d9-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/home-minister-amit-shah-has-expressed-condolence-on-mukul-roy-death-ank-2553965.html",
-    "time": "2026-02-23T11:27:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Devarakonda-Rashmika Mandanna: কী বিরাট খরচের বিয়ে! বিজয়-রশ্মিকা পৌঁছলেন উদয়পুর, এক রাতে 'উড়বে টাকা', থাকবেন শুধু হাতে গোনা কয়েকজন কাছের মানুষ",
-    "desc": "বিজয় এবং রশ্মিকা তাঁদের বিয়ের নাম রেখেছেন \"দ্য ওয়েডিং অফ বিরোশ\"। বিজয় ও রশ্মিকা, এই দুই নাম জুড়ে তৈরি হয়েছে বিরোশ৷ এই নামটি তাঁদের ভক্তরা বহু বছর আগে তাদের নাম, বিজয় + রশ্মিকা = বিরোশ একত্রিত করে তৈরি করেছিলেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Vijay-Rashmika-2026-02-7941420f00ff2f3578882998139971a9-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/vijay-deverakonda-and-rashmika-mandanna-wedding-at-udaipur-luxury-venue-only-to-attend-by-close-ones-pbd-2553918.html",
-    "time": "2026-02-23T11:10:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "রাত জেগে পড়াশোনা... MA পাশ করলেন অভিনেত্রী দিতিপ্রিয়া রায়! এর পর কী প্ল্যান?",
-    "desc": "অভিনয়ের ব্যস্ত কেরিয়ারের মাঝেও পড়াশোনাকে সমান গুরুত্ব দিয়ে সমাজবিজ্ঞানে স্নাতকোত্তর ডিগ্রি সম্পূর্ণ করলেন অভিনেত্রী দিতিপ্রিয়া রায়। সোশ্যাল মিডিয়ায় নিজেই জানালেন সুখবর। “অফিশিয়ালি কনফার্ড! মনে রাখার মতো একটা দিন, সযত্নে রাখার মতো একটা সাফল্য”—লিখে নিজের এই শিক্ষাগত অর্জনের কথা ভাগ করে নিয়েছেন অনুরাগীদের সঙ্গে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-23-at-2.44.21-PM-2026-02-40a3c4be025f6c6a5b5de882385b2953-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/tollywood-actress-ditipriya-roy-achievement-postgraduate-degree-in-sociology-ma-pass-success-shares-next-plan-tib-ws-l-2553719.html",
-    "time": "2026-02-23T11:10:04.000Z"
   }
 ];
