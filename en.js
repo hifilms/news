@@ -1,12 +1,156 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "CM Stalin inspects ongoing construction of elevated corridor on Anna Salai",
+    "desc": "The Chief Minister, along with the Minister for Public Works E.V. Velu and Minister for Health and Family Welfare Ma. Subramanian, inspected the 3.2 kilometre-long elevated road being constructed at a cost of ₹621 crore",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/35yxxu/article70704792.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-04%20at%207.22.52%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-stalin-inspects-ongoing-construction-of-elevated-corridor-on-anna-salai/article70703756.ece",
+    "time": "2026-03-04T18:15:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘I have seen the missile’: Indian woman from first evacuation flight recounts tense days in Dubai",
+    "desc": "An Indian national returning from Dubai described scenes of panic, missile alerts, and sleepless nights as regional tensions escalated. Saumya Khandelwal recounted witnessing missile activity and emergency alarms, forcing her to seek shelter in a hotel basement. Despite the fear, she highlighted the cooperation of authorities and locals in Dubai, and the support from the Indian Embassy.",
+    "img": "https://static.toiimg.com/photo/msid-129043179,imgsize-40924.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/i-have-seen-the-missile-indian-woman-from-first-evacuation-flight-recounts-tense-days-in-dubai/articleshow/129042448.cms",
+    "time": "2026-03-04T18:12:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Preity returns home after ‘stressful’ trip amid conflict",
+    "desc": "Preity Zinta says she is relieved to be back home in Mumbai after a hectic and stressful trip across the globe. The actor took to social media to express gratitude for being safe with her family amid the ongoing turmoil in the Middle East.",
+    "img": "https://static.toiimg.com/photo/msid-129042155,imgsize-127798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/preity-zinta-returns-home-after-stressful-trip-amid-middle-east-conflict-grateful-to-be-safe-and-to-celebrate-holi/articleshow/129042155.cms",
+    "time": "2026-03-04T17:53:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Torpedo attack by U.S. submarine sinks Iranian frigate off Sri Lanka",
+    "desc": "At least 83 dead; U.S. Defence Secretary Pete Hegseth claims this is first sinking of an enemy ship by a torpedo since World War II; Iranian frigate was returning from a maritime exercise in Visakhapatnam",
+    "img": "https://th-i.thgim.com/public/incoming/e2eztk/article70703685.ece/alternates/LANDSCAPE_1200/AFP_99W66NC.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/strike-on-iranian-warship-off-sri-lanka-us-israel-iran-war/article70703655.ece",
+    "time": "2026-03-04T17:26:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SIR protests continue in West Bengal days after publication of the draft rolls",
+    "desc": "With the Assembly election due in a few months, the TMC may seek to keep the SIR pot boiling; Chief Minister Mamata Banerjee plans to sit in a dharna in Kolkata against the SIR from March 6",
+    "img": "https://th-i.thgim.com/public/incoming/1dd3qv/article70704678.ece/alternates/LANDSCAPE_1200/20260302473L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/sir-protests-continue-in-west-bengal-days-after-publication-of-the-draft-rolls/article70704186.ece",
+    "time": "2026-03-04T17:15:55.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. says 2,000 targets hit as Iran retaliates across Gulf",
+    "desc": "With global energy prices on the rise, U.S. President Donald Trump said the U.S. Navy was ready to escort oil tankers through the Strait of Hormuz, the vital chokepoint into the Gulf that Iran has threatened to seal off",
+    "img": "https://th-i.thgim.com/public/incoming/l0u0tc/article70701984.ece/alternates/LANDSCAPE_1200/2026-03-03T105844Z_1038818275_RC2YWJAQLARB_RTRMADP_3_IRAN-CRISIS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-says-2000-targets-hit-as-iran-retaliates-across-gulf/article70701963.ece",
+    "time": "2026-03-04T17:09:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It was just that bad night': Markram's painful admission after NZ hammering",
+    "desc": "South Africa's T20 World Cup dreams were shattered by a dominant New Zealand, who secured a crushing nine-wicket victory. Finn Allen's record-breaking 33-ball century dismantled the Proteas' hopes after a challenging start with the bat. Captain Aiden Markram acknowledged a difficult night where little went their way, despite a late fightback with the bat.",
+    "img": "https://static.toiimg.com/photo/msid-129040117,imgsize-82354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/it-was-just-that-bad-night-aiden-markrams-painful-admission-after-new-zealand-hammering/articleshow/129040084.cms",
+    "time": "2026-03-04T17:07:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Nepal is going to polls on March 5: Why it matters",
+    "desc": "Nepal is heading to the polls on March 5, 2026 — a landmark election triggered two years early by a youth-led uprising that brought down the government, killed 77 people, and set an entire country on a new course.",
+    "img": "https://th-i.thgim.com/public/incoming/ox14fh/article70704675.ece/alternates/LANDSCAPE_1200/Nepal%202.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-nepal-is-going-to-polls-on-march-5-why-it-matters-the-hindu-explains/article70704689.ece",
+    "time": "2026-03-04T17:03:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government’s silence on the Iran strike and Khamenei’s death draws opposition criticism",
+    "desc": "Indian opposition leaders have strongly criticised the Narendra Modi government for its silence after coordinated strikes by the United States and Israel that reportedly killed Ayatollah Ali Khamenei. Parties including Rahul Gandhi and Sonia Gandhi have said that not condemning the attack or expressing condolences undermines India’s credibility and raises questions about its foreign policy, urging a parliamentary debate and clearer articulation of India’s stance.",
+    "img": "https://th-i.thgim.com/public/news/national/ymy0f9/article70704672.ece/alternates/LANDSCAPE_1200/Baghdad%20protest%20.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/governments-silence-on-the-iran-strike-and-khameneis-death-draws-opposition-criticism/article70704676.ece",
+    "time": "2026-03-04T16:58:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trade bodies flag impact of West Asia crisis on trade-driven Karnataka",
+    "desc": "Many Kannadigas have their business set-ups in Jebel Ali or in other trade free zones in West Asia; many travelled through Dubai, Abu Dhabi, Qatar or Doha to reach leisure or business destinations in the U.S., or Europe",
+    "img": "https://th-i.thgim.com/public/incoming/so6jwx/article70704652.ece/alternates/LANDSCAPE_1200/DSC_2757.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/trade-bodies-flag-impact-of-west-asia-crisis-on-trade-driven-karnataka/article70700585.ece",
+    "time": "2026-03-04T16:51:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Finn Allen's record century powers New Zealand into T20 World Cup final",
+    "desc": "New Zealand stormed into the T20 World Cup final, crushing South Africa by nine wickets. Opener Finn Allen smashed a record-breaking 33-ball century, leading a dominant chase of 170. Allen's explosive innings, supported by Tim Seifert's fifty, secured a comfortable victory with 7.1 overs to spare.",
+    "img": "https://static.toiimg.com/photo/msid-129039245,imgsize-39298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/finn-allens-record-century-powers-new-zealand-into-t20-world-cup-final/articleshow/129039179.cms",
+    "time": "2026-03-04T16:49:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Allen scripts history, becomes first-ever to achieve this T20 WC record",
+    "desc": "Finn Allen smashed a record 33-ball century — the fastest in T20 World Cup history — to lead New Zealand to a nine-wicket win over South Africa in the semi-final. Chasing 170, New Zealand finished in just 12.5 overs. Allen’s unbeaten 100 powered them into the final in dominant fashion.",
+    "img": "https://static.toiimg.com/photo/msid-129039186,imgsize-59108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/record-finn-allen-scripts-history-becomes-first-ever-in-t20-world-cup-to-/articleshow/129038629.cms",
+    "time": "2026-03-04T16:49:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celebs attend Rashmika Mandanna-Vijay Deverakonda reception",
+    "desc": "Rashmika Mandanna and Vijay Deverakonda hosted their grand wedding reception on March 4 at Taj Krishna, Banjara Hills, Hyderabad. Among those spotted were megastar Chiranjeevi, Daggubati Venkatesh, the Akkineni family, Allu Arjun, Ram Charan and Upasana Konidela, Nani, Namrata Shirodkar, Neena Gupta and several others.",
+    "img": "https://static.toiimg.com/photo/msid-129036567,imgsize-222212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-vijay-deverakonda-wedding-reception-allu-arjun-ram-charan-chiranjeevi-nagarjuna-venkatesh-namtara-attend/articleshow/129036567.cms",
+    "time": "2026-03-04T16:14:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cochin Diocese’s post-SIR campaign seeks to ensure nobody loses right to vote",
+    "desc": "The diocese, comprising 40,750 families spread over four Assembly constituencies in two districts, has launched the drive to identify those who remain out of the electoral rolls even after the recently concluded Special Intensive Revision of voters’ list",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/cochin-dioceses-post-sir-campaign-seeks-to-ensure-nobody-loses-right-to-vote/article70704188.ece",
+    "time": "2026-03-04T16:05:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Huge danger': Broad flags Pandya as England’s biggest semifinal threat",
+    "desc": "Former England pacer Stuart Broad has issued a stark warning to England regarding Hardik Pandya ahead of their semifinal clash with India. Broad highlighted Pandya's ability to single-handedly change match momentum through his aggressive batting and crucial bowling. He emphasized that England must strategically target Pandya's batting order to neutralize his devastating finishing prowess.",
+    "img": "https://static.toiimg.com/photo/msid-129037018,imgsize-122994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/huge-danger-stuart-broad-flags-hardik-pandya-as-englands-biggest-semifinal-threat/articleshow/129037103.cms",
+    "time": "2026-03-04T16:05:26.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Kerala launches counselling support to expats, families back home",
     "desc": "Expatriate Keralites and their family members can access 24X7 the services of counsellors under ‘Tele-Manas.’ Anxiety triggered by exaggerated portrayal of the crisis by a section of the media is causing greater distress to expatriates and their families, says NoRKA-Roots CEO",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/west-asia-crisis-kerala-launches-counselling-support-to-expats-families-back-home/article70704262.ece",
     "time": "2026-03-04T15:30:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lara feels ‘nervous’ and ‘stressed’ while stranded in Dubai",
+    "desc": "Lara Dutta, who is currently in Dubai with her daughter and former tennis star Mahesh Bhupathi, has opened up about feeling “nervous” and “stressed” amid the ongoing conflict in the Middle East. She said she is hoping to return to Mumbai soon. The actress shared that she had travelled to Dubai — a city she has called home for the past three years — for a brand commitment when the Israel-Iran war escalated. Recalling the tense atmosphere, she said she heard explosions and saw missiles being intercepted while she was inside a studio.",
+    "img": "https://static.toiimg.com/photo/msid-129035124,imgsize-116466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lara-dutta-feels-nervous-and-stressed-while-stranded-in-dubai-with-daughter-and-mahesh-bhupathi-middle-east-conflict-recalls-hearing-explosions/articleshow/129035124.cms",
+    "time": "2026-03-04T15:27:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -55,21 +199,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Bihar CM Nitish Kumar to head to Rajya Sabha",
+    "title": "JDU sources",
     "desc": "The Election Commission of India (ECI) has announced the schedule for the upcoming biennial elections to the Council of States (Rajya Sabha) to fill 37 seats across 10 states, as the terms of the current members end in April 2026, according to a press note. The seats are set to fall vacant as the terms of members elected from Maharashtra, Odisha, Tamil Nadu, West Bengal, Assam, Bihar, Chhattisgarh, Haryana, Himachal Pradesh and Telangana conclude next month.",
     "img": "https://static.toiimg.com/photo/msid-129031550,imgsize-752609.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bihar-cm-nitish-kumar-to-head-to-rajya-sabha/articleshow/129031559.cms",
     "time": "2026-03-04T14:08:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IISc and Pratiksha Trust launch moonshot project on brain co-processors",
-    "desc": "The primary goal of the moonshot project is to develop both implantable and non-invasive brain co-processors that can decode brain activity from neural recordings, process it with an AI algorithm, and re-encode signals back into the brain via neural stimulation or neurofeedback",
-    "img": "https://th-i.thgim.com/public/incoming/861hiw/article70703931.ece/alternates/LANDSCAPE_1200/IISC_07.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/iisc-and-pratiksha-trust-launch-moonshot-project-on-brain-co-processors/article70703666.ece",
-    "time": "2026-03-04T14:05:51.000Z"
   },
   {
     "cat": "Sports",
@@ -79,24 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/last-gasp-blow-dents-indias-start-to-womens-asian-cup-campaign/articleshow/129030665.cms",
     "time": "2026-03-04T13:55:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TVK chief Vijay sees DMK-AIADMK conspiracy to thwart his rise to power",
-    "desc": "Addressing supporters in Thanjavur, Vijay promised that educational expenses of the wards of farmers owning up to two acres of land and of landless labourers would be borne by the government if TVK is voted to power in the upcoming Assembly election",
-    "img": "https://th-i.thgim.com/public/incoming/3qw2qw/article70702967.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-04%20at%2014.42.02.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-chief-vijay-sees-dmk-aiadmk-conspiracy-to-thwart-his-rise-to-power/article70702650.ece",
-    "time": "2026-03-04T13:51:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Fifty years on, Rajan’s death continues to be shrouded in mystery",
-    "desc": "It was on March 1, 1976, that P. Rajan, a student of Regional Engineering College, Kozhikode, was taken into police custody alleging links with Naxalites. Despite a prolonged legal battle by his father Eachara Varier, Rajan’s whereabouts still remain a mystery. The police personnel accused of being involved in the incident have all along protested their innocence. The incident left a deep impact on the State’s politics too.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/fifty-years-on-rajans-death-continues-to-be-shrouded-in-mystery/article70702997.ece",
-    "time": "2026-03-04T13:42:55.000Z"
   },
   {
     "cat": "Sports",
@@ -115,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakondas-telugu-states-now-have-a-new-daughter-in-law-remark-leaves-rashmika-blushing-at-pre-reception-media-interaction/articleshow/129029937.cms",
     "time": "2026-03-04T13:40:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt. will showcase ‘Andhra model of education’ to the world, asserts HRD Minister Lokesh",
-    "desc": "It is striving to create 20 lakh jobs over the next five years and improve the skills of youth by soon launching the ‘Naipunyam’ portal and utilising AI for assessing performance of students, he tells the Legislative Assembly",
-    "img": "https://th-i.thgim.com/public/incoming/vuswc7/article70703753.ece/alternates/LANDSCAPE_1200/G.O.-117-broughGGLFJNMQS.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-will-showcase-andhra-model-of-education-to-the-world-asserts-hrd-minister-lokesh/article70703437.ece",
-    "time": "2026-03-04T13:40:12.000Z"
   },
   {
     "cat": "Entertainment",
@@ -151,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/squid-game-the-vip-challenge-brings-mel-b-tristan-thompson-and-dylan-efron-together-for-reality-spinoff/articleshow/129028358.cms",
     "time": "2026-03-04T13:04:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM Stalin releases Tamil Nadu Shipbuilding Policy, T.N. Agroforestry Policy 2026",
-    "desc": "Mr. Stalin laid the foundation stone for the first phase of works to develop the Guindy Eco Park. The park will be developed with features including theme gardens, a children’s play area, bird habitat islands, herbal gardens, an aviary habitat centre, lawns, viewing decks and gazebos.",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/lxsozc/article70703113.ece/alternates/LANDSCAPE_1200/TN%20Agro%20Policy.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-stalin-releases-tamil-nadu-shipbuilding-policy-tn-agroforestry-policy-2026/article70702876.ece",
-    "time": "2026-03-04T12:59:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -259,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-kerala-story-2-producer-vipul-shah-reveals-replacing-sudipto-sen-over-his-absolute-trash-script-he-doesnt-know-/articleshow/129023046.cms",
     "time": "2026-03-04T11:16:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Researchers in Kerala try out land-based nurseries for coral conservation",
-    "desc": "Coral species collected from underwater reefs off Vizhinjam, Thiruvananthapuram, are grown in a controlled environment on land as part of a Kufos project. They will be reintroduced into their natural habitat once they reach a certain level of growth",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/9ffcmf/article70703111.ece/alternates/LANDSCAPE_1200/koral.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/researchers-in-kerala-try-out-land-based-nurseries-for-coral-conservation/article70703116.ece",
-    "time": "2026-03-04T11:09:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -414,33 +504,6 @@ const newsData_en = [
     "time": "2026-03-04T08:40:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Christina Applegate details abuse and 1991 abortion in new memoir",
-    "desc": "In her candid memoir, actress Christina Applegate opens up about a pivotal moment in her life, recounting her experience of having an abortion at 19 during a tumultuous time marked by an abusive relationship. Her poignant diary entries provide an unfiltered look into the chaos and emotional pain she faced, shedding light on the complexities of her decision.",
-    "img": "https://static.toiimg.com/photo/msid-129015736,imgsize-109074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/christina-applegate-opens-up-about-domestic-violence-and-her-1991-abortion-in-a-new-book-you-with-the-sad-eyes-a-memoir/articleshow/129015736.cms",
-    "time": "2026-03-04T08:32:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Demi on feeling EXPLOITED by older men",
-    "desc": "Demi Lovato and Keke Palmer, former child stars, revealed unsettling truths about teenage relationships with much older partners. Speaking on Palmer's podcast, they discussed how early fame distorted their views on romance, with Lovato noting her past relationships with men twice her age now feel troubling and exploitative.",
-    "img": "https://static.toiimg.com/photo/msid-129013637,imgsize-78756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/demi-lovato-opens-up-about-feeling-exploited-in-past-relationships-with-older-men-asks-why-was-my-boyfriend-30/articleshow/129013362.cms",
-    "time": "2026-03-04T08:16:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yash cites Middle East tensions; fans say move helps both films",
-    "desc": "Yash's 'Toxic' release is postponed by four months to June 4, 2026, due to Middle East tensions impacting global reach. Makers aim for a wider audience connection with this delay. Fans laud the decision, seeing it as a 'perfect move' that also avoids a box office clash with Ranveer Singh's 'Dhurandhar 2', allowing both films to thrive.",
-    "img": "https://static.toiimg.com/photo/msid-129014294,imgsize-114844.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-new-release-date-annoucement-fans-laud-yashs-sensible-decision-to-postpone-the-film-amid-middle-east-tensions/articleshow/129014294.cms",
-    "time": "2026-03-04T08:02:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "500 million and counting! T20 World Cup shatters viewership records in India",
     "desc": "The ICC T20 World Cup 2026 has shattered viewership records in India, attracting over 500 million fans, the highest ever for the tournament. This milestone, celebrated by ICC chairman Jay Shah, highlights the event's global and accessible vision. Digital engagement also soared, with JioHotstar peaking at 60.5 million concurrent viewers as the tournament heads into its knockout stages.",
@@ -466,24 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/india-sets-up-control-room-issues-helpline-number-amid-middle-east-crisis/articleshow/129013159.cms",
     "time": "2026-03-04T07:36:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. says 2,000 targets hit as Iran retaliates across Gulf",
-    "desc": "With global energy prices on the rise, U.S. President Donald Trump said the U.S. Navy was ready to escort oil tankers through the Strait of Hormuz, the vital chokepoint into the Gulf that Iran has threatened to seal off",
-    "img": "https://th-i.thgim.com/public/incoming/l0u0tc/article70701984.ece/alternates/LANDSCAPE_1200/2026-03-03T105844Z_1038818275_RC2YWJAQLARB_RTRMADP_3_IRAN-CRISIS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-says-2000-targets-hit-as-iran-retaliates-across-gulf/article70701963.ece",
-    "time": "2026-03-04T07:34:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL set for two-phase schedule release; Bengaluru likely to host opener &amp; final",
-    "desc": "The IPL Governing Council has approved the initial phase of the IPL 2026 schedule, with fixtures expected by March 6 or 7. Bengaluru's M. Chinnaswamy Stadium will host the tournament opener and a playoff, while the final is set for May 31. The staggered schedule release is due to pending state election announcements.",
-    "img": "https://static.toiimg.com/photo/msid-129011974,imgsize-153192.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-set-for-two-phase-schedule-release-bengaluru-likely-to-host-opener-and-final/articleshow/129011969.cms",
-    "time": "2026-03-04T07:03:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -567,42 +612,6 @@ const newsData_en = [
     "time": "2026-03-04T04:57:16.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Currency falls to new low of 92.15 against US Dollar",
-    "desc": "Rupee hit a record low of 92.15 against the US dollar, plummeting 66 paise amid escalating Middle East tensions and rising oil prices. Analysts predict continued currency strain as the conflict fuels inflation fears and impacts energy-importing economies like India.",
-    "img": "https://static.toiimg.com/photo/msid-129005248,imgsize-1351521.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-hit-by-middle-east-crisis-currency-falls-to-new-low-against-us-dollar-iran-israel-us-india/articleshow/129005138.cms",
-    "time": "2026-03-04T04:10:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Korean stock markets hit circuit breaker after plunging 11% amid Middle East crisis",
-    "desc": "Asian stock markets experienced a significant downturn on Wednesday. Kospi led the decline, halting trading as war fears and rising oil prices unsettled investors. Concerns over energy security overshadowed optimism in technology stocks. Wall Street also saw a weak lead, reflecting unease about the expanding conflict. High oil prices are a major worry for inflation and corporate earnings.",
-    "img": "https://static.toiimg.com/photo/msid-129004539,imgsize-2169330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-korean-stock-markets-hit-circuit-breaker-after-plunging-11-amid-middle-east-crisis/articleshow/129004132.cms",
-    "time": "2026-03-04T03:49:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa, New Zealand eye spot in T20 World Cup final",
-    "desc": "South Africa, the only unbeaten team, enter the T20 World Cup semi-final against New Zealand as favourites. Their balanced squad, with players stepping up consistently, and a strong pace attack, fuels their confidence. New Zealand, coached by former SA mentor Rob Walter, aim to upset the Proteas' impressive run, acknowledging the need for their best performance.",
-    "img": "https://static.toiimg.com/photo/msid-129004357,imgsize-166458.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/battle-of-equals-south-africa-new-zealand-eye-spot-in-t20-world-cup-final/articleshow/129004203.cms",
-    "time": "2026-03-04T03:44:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Inside India’s tactical shift at T20 World Cup 2026",
-    "desc": "From Jasprit Bumrah's introduction against Shimron Hetmyer to the angled plan for Sherfane Rutherford against West Indies in their virtual quarter-final, India have been a step ahead with their planning and have only gotten better with every game in the ongoing 2026 T20 World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-129002470,imgsize-62572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/instinct-over-data-inside-indias-tactical-shift-at-t20-world-cup-2026/articleshow/129002386.cms",
-    "time": "2026-03-04T03:00:30.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "6L kids born with anomalies per year but no national registry to track them",
     "desc": "India faces a critical gap in tracking nearly 6 lakh babies born annually with congenital anomalies, as these conditions increasingly contribute to child mortality. To address this, Smile Train India and Birth Defects Research Foundation launched BIND, advocating for a National Birth Anomalies Registry to improve data, identify risk factors, and guide health planning for better prevention and care.",
@@ -610,24 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/6l-kids-born-with-anomalies-per-year-but-no-national-registry-to-track-them/articleshow/129001356.cms",
     "time": "2026-03-04T02:10:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8.25% interest rate on PF deposits for 2025-2026",
-    "desc": "The Employees Provident Fund Organisation (EPFO) has recommended maintaining the interest rate on retirement savings at 8.25% for the current financial year. This decision, aimed at providing stable returns and strengthening retirement security for its nearly 31 crore members, comes amid weak market conditions. The recommendation awaits ratification by the finance ministry.",
-    "img": "https://static.toiimg.com/photo/msid-129001288,imgsize-42176.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/8-25-interest-rate-on-pf-deposits-for-2025-2026/articleshow/129001196.cms",
-    "time": "2026-03-04T02:04:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Stock recommendations for March 4, 2026",
-    "desc": "Bharat Electronics Limited, Oil India Limited, and Multi Commodity Exchange of India are the top stock picks for today recommended by Mehul Kothari, DVP - Technical Research, Anand Rathi Shares and Stock Brokers. He shares a comprehensive outlook on these stocks along with targets and stop loss levels:",
-    "img": "https://static.toiimg.com/photo/msid-128983265,imgsize-56900.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-march-04-2026-bharat-electronics-oil-india-multi-commodity-exchange-of-india-mcx-best-stocks-to-buy-today/articleshow/128983062.cms",
-    "time": "2026-03-04T02:01:00.000Z"
   },
   {
     "cat": "Politics",
@@ -682,33 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/data-centres-new-target-in-iran-conflict-3-amazon-units-hit-by-drones-in-uae-bahrain/articleshow/128995745.cms",
     "time": "2026-03-03T22:50:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Parliament must debate 'dissonance' in foreign policy: Congress MP Sonia Gandhi",
-    "desc": "Congress leaders Sonia and Rahul Gandhi criticized PM Modi's government for its \"silence\" on the attack on Iran, calling it a \"tacit endorsement.\" They questioned India's foreign policy direction and its standing in the world, especially concerning the \"Global South,\" urging a return to India's core values of sovereignty and peace.",
-    "img": "https://static.toiimg.com/photo/msid-128995613,imgsize-52080.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/parliament-must-debate-dissonance-in-foreign-policy-congress-mp-sonia-gandhi/articleshow/128995518.cms",
-    "time": "2026-03-03T22:39:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi calls for export push, puts biopharma at centre stage",
-    "desc": "Prime Minister Narendra Modi has signaled a strategic shift in India's export policy, moving from cost competitiveness to quality-driven growth. He urged industries to scale up research, adopt global standards, and align with emerging supply chains to become a trusted manufacturing partner in a reshaped global trade landscape.",
-    "img": "https://static.toiimg.com/photo/msid-128995349,imgsize-49164.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-calls-for-export-push-puts-biopharma-at-centre-stage/articleshow/128995275.cms",
-    "time": "2026-03-03T22:31:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Have critical stakes in Gulf, will act in national interest, says government",
-    "desc": "India expresses deep anxiety over the escalating West Asia conflict, highlighting the critical stakes for nearly one crore Indian nationals in the Gulf and the potential economic repercussions. The Ministry of External Affairs strongly condemned attacks on merchant shipping, noting the loss of Indian lives and emphasizing the need for restraint and dialogue.",
-    "img": "https://static.toiimg.com/photo/msid-128995037,imgsize-132998.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/middle-east-tensions-have-critical-stakes-in-gulf-will-act-in-national-interest-says-government/articleshow/128994927.cms",
-    "time": "2026-03-03T22:23:26.000Z"
   },
   {
     "cat": "Sports",
@@ -846,15 +810,6 @@ const newsData_en = [
     "time": "2026-03-03T07:26:49.000Z"
   },
   {
-    "cat": "World",
-    "title": "Attack by two drones on U.S. Embassy in Saudi capital sparks ‘limited’ fire; Trump suggests U.S. to retaliate 'soon'",
-    "desc": "Speaking to the NewsNation network, President Trump said, \"You’ll find out soon\" how the United States would respond, without providing further detail, after the US embassy confirmed a drone attack that caused \"a limited fire and minor material damage\"",
-    "img": "https://th-i.thgim.com/public/incoming/13sr3j/article70698056.ece/alternates/LANDSCAPE_1200/2026-03-03T041601Z_1715182392_RC2QWJA2J5Z4_RTRMADP_3_IRAN-CRISIS-SAUDI-FIRE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-suggests-us-to-retaliate-soon-over-embassy-strike-in-riyadh/article70697803.ece",
-    "time": "2026-03-03T07:14:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Oil rises as expanding U.S.-Israeli conflict with Iran elevates supply risks",
     "desc": "Concerns about transiting the waterway increased after Iranian media reported on Monday ​(March 2, 2026) that a senior Iranian Revolutionary Guards official said the Strait of Hormuz is closed and warned Iran will fire on any ship trying ⁠to pass",
@@ -873,15 +828,6 @@ const newsData_en = [
     "time": "2026-03-03T06:00:24.000Z"
   },
   {
-    "cat": "World",
-    "title": "Indian-American student among four killed in Texas mass shooting; FBI probes possible extremist links",
-    "desc": "Savitha Shan, an Austin native and a dual-degree senior at the University of Texas at Austin, was fatally shot when a gunman opened fire in a crowded entertainment district on West Sixth Street on March 1",
-    "img": "https://th-i.thgim.com/public/news/national/3px6pp/article70697953.ece/alternates/LANDSCAPE_1200/iStock-871380072%203.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/indian-american-student-among-four-killed-in-texas-mass-shooting-fbi-probes-possible-extremist-links/article70697934.ece",
-    "time": "2026-03-03T05:00:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sunil Gavaskar on India’s chances against England in the T20 World Cup semifinals",
     "desc": "As for India’s patchy semifinal record at the Wankhede, Gavaskar dismissed historical baggage; “It’s a new era, a new team. I believe India has the capability to go all the way to the final in Ahmedabad,” Gavaskar said",
@@ -898,5 +844,59 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/samson-from-an-enigma-to-asuperking/article70696889.ece",
     "time": "2026-03-02T18:16:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Force is with the Men in Blue despite chinks in their armour",
+    "desc": "Samson’s brilliance helps the defending champion edge West Indies in a virtual knockout game; the team, however, needs to be more disciplined with the ball and improve its catching to get past England in the semifinal at Wankhede",
+    "img": "https://th-i.thgim.com/public/incoming/ht58sl/article70695745.ece/alternates/LANDSCAPE_1200/047.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-force-is-with-men-in-blue-despite-chinks-in-their-armour/article70695763.ece",
+    "time": "2026-03-02T16:31:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Captain Shai Hope takes blame for West Indies exit from T20 World Cup, says he ‘should’ve batted faster’",
+    "desc": "West Indies appeared at least 20 runs short against India as Hope ate up 33 balls for his 32, striking at just over 96, including 17 dot balls that probably cost them heavily in a high-scoring contest",
+    "img": "https://th-i.thgim.com/public/incoming/551t/article70694324.ece/alternates/LANDSCAPE_1200/001.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ind-vs-wi-captain-shai-hope-takes-blame-for-west-indies-exit-from-t20-world-cup-says-he-shouldve-batted-faster/article70694321.ece",
+    "time": "2026-03-02T07:31:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Shares of aviation firms, tour operators dive amid West Asia crisis",
+    "desc": "The stock of InterGlobe Aviation tanked 7.50%, while SpiceJet declined by 7.27% on the BSE. Shares of Yatra Online tumbled 11.14%, Easy Trip Planners slumped 9.39%, TBO TEK dived 8.19% and Thomas Cook dropped 5.40%",
+    "img": "https://th-i.thgim.com/public/incoming/rb5khy/article70694087.ece/alternates/LANDSCAPE_1200/IndiGo.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/shares-of-aviation-firms-tour-operators-dive-amid-west-asia-crisis/article70694052.ece",
+    "time": "2026-03-02T06:19:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "From the valley to the pinnacle of domestic cricket — the J & K story",
+    "desc": "Jammu & Kashmir’s stellar run is a tale of grit, determination and meticulous preparation; it had all bases covered and every member of the squad put his hand up when it mattered most; the next challenge for Dogra’s men will be to sustain the momentum and stay at the summit",
+    "img": "https://th-i.thgim.com/public/incoming/ruhnih/article70692835.ece/alternates/LANDSCAPE_1200/_DSC9096.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/from-the-valley-to-the-pinnacle-of-domestic-cricket-the-j-k-story/article70692834.ece",
+    "time": "2026-03-01T19:26:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "A case of so near and yet so far for a star-studded Karnataka team",
+    "desc": "The final laid bare two of the southern heavyweight’s biggest lacunae — lack of bite when lead spinner Shreyas has an off-day and the pace bowlers’ propensity to not be persistent; the unvarnished truth is that there are no easy teams in the premier domestic competition anymore",
+    "img": "https://th-i.thgim.com/public/incoming/4nggba/article70692784.ece/alternates/LANDSCAPE_1200/_DSC8274.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-a-case-of-so-near-and-yet-so-far-for-a-star-studded-karnataka-team/article70692493.ece",
+    "time": "2026-03-01T18:04:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Will leverage tech to crack down on market manipulators, says SEBI chief",
+    "desc": "SEBI Chairman Tuhin Kanta Pandey says the market regulator is using AI to reach out to more investors for awareness; he urges people to use tools such as SEBI Check to deter fraudsters and warns against financial influencers promising astronomical returns; he says SEBI will make sure there is no instability in the markets",
+    "img": "https://th-i.thgim.com/public/incoming/t8apzy/article70692584.ece/alternates/LANDSCAPE_1200/11908_27_2_2026_16_50_37_5_DSC_1921.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/will-leverage-tech-to-crack-down-on-market-manipulators-says-sebi-chief/article70691965.ece",
+    "time": "2026-03-01T17:33:19.000Z"
   }
 ];

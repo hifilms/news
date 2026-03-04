@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Finn Allen blasts fastest century in T20 World Cup history, New Zealand qualify for T20 World Cup 2026 final",
+    "desc": "Eden Gardens in Kolkata witnessed one of the greatest knocks in T20 history as New Zealand opener Finn Allen produced a breathtaking display against South Africa. Chasing 170 runs, Allen hammered the fastest century in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/finn-allen-blasts-fastest-century-in-t20-world-cup-history-new-zealand-qualify-for-t20-world-cup-2026-final-2026-03-04-1032604",
+    "time": "2026-03-04T16:36:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Finn Allen, Tim Seifert decimate South Africa; New Zealand stamp their ticket to T20 World Cup 2026 final",
+    "desc": "New Zealand defeated South Africa by nine wickets to storm into the T20 World Cup 2026 final. Chasing 170 at Eden Gardens, Kolkata, the Kiwis made it look one-sided as openers Tim Seifert and Finn...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/finn-allen-tim-seifert-decimate-south-africa-new-zealand-stamp-their-ticket-to-t20-world-cup-2026-final-2026-03-04-1032603",
+    "time": "2026-03-04T16:27:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India coach previews semi-final clash against England, says 'good shootout between two aggressive teams'",
     "desc": "This will mark the third consecutive T20 World Cup semi-final that India will play against England. In the 2022 edition in Australia, the Three Lions had the last laugh and went on to win the...",
     "img": "",
@@ -19,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "New Zealand need 170 runs vs SA to qualify for T20 World Cup 2026 final",
+    "title": "Finn Allen, Tim Seifert go berserk as New Zealand move closer to WC final",
     "desc": "South Africa to host New Zealand in the first semi-final of the T20 World Cup 2026 at the Eden Gardens in Kolkata. The Proteas have played some phenomenal cricket in the ongoing tournament, being unbeaten...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-ishan-kishan-and-axar-patel-seek-blessings-at-siddhivinayak-temple-in-mumbai-2026-03-04-1032560",
     "time": "2026-03-04T08:23:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer backs Jasprit Bumrah to play crucial role for India against England",
-    "desc": "India and England will take on each other in the 2nd semi-final of the ongoing T20 World Cup 2026. The two sides will lock horns at the Wankhede Stadium in Mumbai on March 5, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-backs-jasprit-bumrah-to-play-crucial-role-for-india-against-england-2026-03-04-1032554",
-    "time": "2026-03-04T07:18:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek-Samson vs Salt-Buttler, which openers have better stats?",
-    "desc": "The stage is set for the 2nd semi-final of the ongoing T20 World Cup 2026. India will be taking on England at the Wankhede Stadium in Mumbai in a bid to book their berth into...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-t20i-squad-comparison-abhishek-samson-vs-salt-buttler-which-openers-have-better-stats-2026-03-04-1032543",
-    "time": "2026-03-04T06:13:48.000Z"
   }
 ];
