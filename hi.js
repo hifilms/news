@@ -37,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Finn Allen, Tim Seifert go berserk as New Zealand move closer to WC final",
+    "title": "Allen, Seifert blow South Africa away, take New Zealand into T20 WC final",
     "desc": "South Africa to host New Zealand in the first semi-final of the T20 World Cup 2026 at the Eden Gardens in Kolkata. The Proteas have played some phenomenal cricket in the ongoing tournament, being unbeaten...",
     "img": "",
     "src": "indiatvnews.com",

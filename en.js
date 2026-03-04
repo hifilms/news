@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Harvey Weinstein rape retrial to start April 14",
+    "desc": "Disgraced movie mogul Harvey Weinstein will face a retrial from April 14 on a rape charge on which a jury previously deadlocked, his publicist said Wednesday. Weinstein was accused of the third-degree rape of a woman named Jessica Mann and will now face a retrial on that count.",
+    "img": "https://static.toiimg.com/photo/msid-129051040,imgsize-221918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harvey-weinstein-rape-retrial-to-start-april-14-publicist/articleshow/129050763.cms",
+    "time": "2026-03-04T21:21:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Spain denies U.S. claim of military cooperation on Iran as rift deepens",
+    "desc": "\"We will not be complicit in something that is harmful to the world and contrary to our values and interests, simply out of fear of retaliation,\" Spain's Socialist Prime Minister Pedro Sanchez said after Trump had lashed out at Sanchez's government, calling Spain a \"terrible\" ally",
+    "img": "https://th-i.thgim.com/public/incoming/6d9asp/article70704867.ece/alternates/LANDSCAPE_1200/2026-02-23T095015Z_1193435010_RC2KRJAUU25K_RTRMADP_3_UKRAINE-CRISIS-EU-FOREIGN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/spain-denies-us-claim-of-military-cooperation-on-iran-as-rift-deepens/article70704863.ece",
+    "time": "2026-03-04T20:30:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "1,500 flights cancelled in four days, Air India to add capacity on key long routes",
+    "desc": "Airlines are intensifying evacuation efforts with special flights as Middle East air travel disruptions continue for the fourth day. Indian carriers planned 58 flights on Wednesday, with IndiGo and Air India increasing capacity on long-haul routes. Airports in Dubai and Abu Dhabi are handling limited repatriation flights, while services in Bahrain, Doha, and Kuwait remain suspended.",
+    "img": "https://static.toiimg.com/photo/msid-129049119,imgsize-10834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-asia-crisis-1500-flights-cancelled-in-four-days-air-india-to-add-capacity-on-key-long-routes/articleshow/129048937.cms",
+    "time": "2026-03-04T20:20:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The SIR conundrum in West Bengal",
+    "desc": "While the Trinamool Congress under the leadership of Mamata Banerjee used SIR as an electoral opportunity and used the harassment of people to target the ECI and BJP led government at the Centre, the West Bengal BJP leadership appears to be disappointed with the outcome of the exercise as deletions in the electoral roll are far less than what they had wished for.",
+    "img": "https://th-i.thgim.com/public/incoming/zc1y1s/article70704858.ece/alternates/LANDSCAPE_1200/PTI02_28_2026_000404B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/the-sir-conundrum-in-west-bengal/article70704815.ece",
+    "time": "2026-03-04T20:03:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Rashmika Mandanna–Vijay Deverakonda reception",
+    "desc": "Rashmika Mandanna and Vijay Deverakonda’s wedding reception on March 4 at Taj Krishna, Banjara Hills, Hyderabad, turned into one of the most talked-about gatherings of the year. Stepping inside the venue, stars including Allu Arjun, Nani, Ram Charan and Megastar Chiranjeevi were seen warmly congratulating the couple. Producers Dil Raju and Naga Vamsi also marked their presence.",
+    "img": "https://static.toiimg.com/photo/msid-129047371,imgsize-174058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/inside-rashmika-mandannavijay-deverakonda-reception-allu-arjun-nagarjuna-chiranjeevi-and-tollywood-biggies-shower-love/articleshow/129047371.cms",
+    "time": "2026-03-04T19:44:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Dalit Ministers hold meetings to arrive at a consensus ahead of Karnataka Cabinet meeting on March 5",
+    "desc": "Ahead of the Cabinet meeting during which the internal reservation issue is scheduled to be discussed, Dalit Ministers held parleys to arrive at a possible broader consensus on the issue that has now driven a wedge among Scheduled Castes and left the Cabinet divided",
+    "img": "https://th-i.thgim.com/public/incoming/bjahfp/article70704845.ece/alternates/LANDSCAPE_1200/Karnataka-to-wrGUTFARBSP.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/internal-reservation-dalit-ministers-hold-meetings-to-arrive-at-a-consensus-ahead-of-karnataka-cabinet-meeting-on-march-5/article70704295.ece",
+    "time": "2026-03-04T19:31:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "History-chasing India, England on collision course at iconic Wankhede",
+    "desc": "There hasn’t been one standout performer, but Suryakumar & Co. have been able to eke out contributions from different personnel at key moments; Brook’s men have had a grand campaign after an early loss to West Indies and the shift back from slightly tricky tracks in Sri Lanka to a potentially excellent one for batting isn’t the most demanding",
+    "img": "https://th-i.thgim.com/public/sport/x8mt9v/article70704776.ece/alternates/LANDSCAPE_1200/INDIA%20E.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/history-chasing-india-england-on-collision-course-at-iconicwankhede/article70704768.ece",
+    "time": "2026-03-04T18:52:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay turns protective as Rashmika faces sea of photographers",
+    "desc": "Rashmika Mandanna and Vijay Deverakonda’s wedding reception on March 4 at Taj Krishna, Banjara Hills, Hyderabad, turned into one of the most talked-about gatherings of the year. As the newlyweds stepped out to pose for the paparazzi, Vijay was seen instinctively turning protective.",
+    "img": "https://static.toiimg.com/photo/msid-129044880,imgsize-113110.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-turns-protective-as-rashmika-mandanna-faces-sea-of-photographers-at-their-wedding-reception/articleshow/129044880.cms",
+    "time": "2026-03-04T18:51:30.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "CM Stalin inspects ongoing construction of elevated corridor on Anna Salai",
     "desc": "The Chief Minister, along with the Minister for Public Works E.V. Velu and Minister for Health and Family Welfare Ma. Subramanian, inspected the 3.2 kilometre-long elevated road being constructed at a cost of ₹621 crore",
@@ -423,24 +495,6 @@ const newsData_en = [
     "time": "2026-03-04T10:04:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jim Carrey’s publicist confirms he attended 2026 César Awards",
-    "desc": "In a recent turn of events, Jim Carrey's publicist has categorically dismissed swirling conspiracy theories claiming that a body double or clone was present at the César Film Awards in Paris. The rumors gained traction online, sparked by a makeup artist’s social media posts.",
-    "img": "https://static.toiimg.com/photo/msid-129018418,imgsize-79504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jim-carreys-publicist-issue-statement-on-viral-clone-theory-confirms-actors-attendance-at-2026-csar-awards/articleshow/129018418.cms",
-    "time": "2026-03-04T09:42:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kajol posts a hilarious birthday wish for Tanishaa Mukerji",
-    "desc": "“Is it my birthday or hers??? Happy birthday to the other genetically coded person like me!” Fans loved it. Recently, she shared her first crochet bag. Last in Sarzameen; next, Maharagni: Queen of Queens reunites her with Prabhu Deva.",
-    "img": "https://static.toiimg.com/photo/msid-129018895,imgsize-22624.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kajol-posts-a-hilarious-birthday-wish-for-tanishaa-mukerji-is-it-my-birthday-or-hers-watch-video/articleshow/129018895.cms",
-    "time": "2026-03-04T09:41:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ex-Pakistan captain who beat India in 2017 CT final in line to become head coach",
     "desc": "Former Pakistan captain Sarfaraz Ahmed is reportedly set to be appointed as the head coach of the Test side. This move comes after the role remained vacant for nearly five months, with Azhar Mahmood temporarily overseeing the team. Sarfaraz's coaching credentials were bolstered by his success with the U-19 team, and an official confirmation is expected soon.",
@@ -466,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/pmi-watch-indias-services-growth-eases-in-february-as-demand-softens-costs-rise/articleshow/129015776.cms",
     "time": "2026-03-04T09:17:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajpal Yadav dismisses viral reports of him crying in court",
-    "desc": "Rajpal Yadav denies crying in court or claiming no money, calling it \"fabricated\" social media lies. He urges laughter on his face, thanks silent industry/family support. Delhi HC grants interim bail till March 18 for niece's wedding after Rs 1.5 Cr DD; passport surrendered.",
-    "img": "https://static.toiimg.com/photo/msid-129016934,imgsize-45492.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-dismisses-viral-reports-of-him-crying-in-court-if-you-look-at-my-face-there-should-only-be-laughter/articleshow/129016934.cms",
-    "time": "2026-03-04T08:57:52.000Z"
   },
   {
     "cat": "Sports",
@@ -655,24 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/nitishs-son-nishant-set-for-political-launch-ahead-of-rajya-sabha-election/articleshow/128998867.cms",
     "time": "2026-03-04T00:44:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Khamenei supported J&amp;K rebels': BJP hits out at Sonia Gandhi",
-    "desc": "The BJP criticized Sonia Gandhi's remarks on the government's response to Iran's leader's death, recalling his past support for secessionist forces in Kashmir. The party stated that diplomacy requires restraint and respect for sovereignty, not appeasement. They also pointed out the UPA's silence on Muammar Gaddafi's death in 2011.",
-    "img": "https://static.toiimg.com/photo/msid-128995945,imgsize-35020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/khamenei-supported-jk-rebels-bjp-hits-out-at-sonia-gandhi/articleshow/128995874.cms",
-    "time": "2026-03-03T22:53:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Data centres new target in Iran conflict; 3 Amazon units hit by drones in UAE, Bahrain",
-    "desc": "Iran has targeted three Amazon data centers in the UAE and Bahrain with drone strikes, causing widespread disruptions to cloud services and banking across West Asia. This marks a significant escalation, with critical infrastructure now including data centers. Repairs are expected to be lengthy, impacting regional markets and air travel.",
-    "img": "https://static.toiimg.com/photo/msid-128995779,imgsize-49226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/data-centres-new-target-in-iran-conflict-3-amazon-units-hit-by-drones-in-uae-bahrain/articleshow/128995745.cms",
-    "time": "2026-03-03T22:50:13.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/shares-of-aviation-firms-tour-operators-dive-amid-west-asia-crisis/article70694052.ece",
     "time": "2026-03-02T06:19:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "From the valley to the pinnacle of domestic cricket — the J & K story",
-    "desc": "Jammu & Kashmir’s stellar run is a tale of grit, determination and meticulous preparation; it had all bases covered and every member of the squad put his hand up when it mattered most; the next challenge for Dogra’s men will be to sustain the momentum and stay at the summit",
-    "img": "https://th-i.thgim.com/public/incoming/ruhnih/article70692835.ece/alternates/LANDSCAPE_1200/_DSC9096.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/from-the-valley-to-the-pinnacle-of-domestic-cricket-the-j-k-story/article70692834.ece",
-    "time": "2026-03-01T19:26:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "A case of so near and yet so far for a star-studded Karnataka team",
-    "desc": "The final laid bare two of the southern heavyweight’s biggest lacunae — lack of bite when lead spinner Shreyas has an off-day and the pace bowlers’ propensity to not be persistent; the unvarnished truth is that there are no easy teams in the premier domestic competition anymore",
-    "img": "https://th-i.thgim.com/public/incoming/4nggba/article70692784.ece/alternates/LANDSCAPE_1200/_DSC8274.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-a-case-of-so-near-and-yet-so-far-for-a-star-studded-karnataka-team/article70692493.ece",
-    "time": "2026-03-01T18:04:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will leverage tech to crack down on market manipulators, says SEBI chief",
-    "desc": "SEBI Chairman Tuhin Kanta Pandey says the market regulator is using AI to reach out to more investors for awareness; he urges people to use tools such as SEBI Check to deter fraudsters and warns against financial influencers promising astronomical returns; he says SEBI will make sure there is no instability in the markets",
-    "img": "https://th-i.thgim.com/public/incoming/t8apzy/article70692584.ece/alternates/LANDSCAPE_1200/11908_27_2_2026_16_50_37_5_DSC_1921.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/will-leverage-tech-to-crack-down-on-market-manipulators-says-sebi-chief/article70691965.ece",
-    "time": "2026-03-01T17:33:19.000Z"
   }
 ];
