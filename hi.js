@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "What will happen if SA vs NZ T20 World Cup semifinal gets washed out? Check details",
+    "desc": "The stage is set for the 1st semi-final of the ongoing T20 World Cup 2026. New Zealand and Sri Lanka will take on each other at the Eden Gardens in Kolkata on March 4. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-will-happen-if-sa-vs-nz-t20-world-cup-semifinal-gets-washed-out-check-details-2026-03-04-1032519",
+    "time": "2026-03-04T03:47:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will rain spoil NZ vs SA T20 World Cup 2026 semi-final clash?",
+    "desc": "The stage is set for the first semi-final of the ongoing T20 World Cup 2026. New Zealand will take on South Africa at the Eden Gardens in Kolkata on March 4; it is worth noting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kolkata-weather-report-will-rain-spoil-nz-vs-sa-t20-world-cup-2026-semi-final-clash-2026-03-04-1032515",
+    "time": "2026-03-04T02:44:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Renuka Singh ruled out of Australia Test, India women call up Kashvee Gautam as replacement",
     "desc": "India women are all set to continue their ongoing multi-format series against Australia with the only Test of the series. The two sides, after taking on each other across three T20Is and three ODI matches,...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/chinnaswamy-stadium-finally-cleared-to-host-ipl-2026-rcb-to-play-five-matches-at-their-home-venue-2026-03-03-1032463",
     "time": "2026-03-03T11:51:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How has Team India performed in semifinals of the tournament?",
-    "desc": "India chased down 196 runs against the West Indies at the Eden Gardens in Kolkata to qualify for the semifinal of the T20 World Cup on Sunday. With this win, they made it to their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-how-has-team-india-performed-in-semifinals-of-the-tournament-2026-03-03-1032457",
-    "time": "2026-03-03T11:41:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Travis Head, Cameron Green, Josh Inglis set to make Shield return after T20 World Cup exit",
-    "desc": "After Australia’s exit from the T20 World Cup 2026, the likes of Travis Head, Cameron Green, and Josh Inglis are all set to make appearances in the Sheffield Shield. It is worth noting that eight...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/travis-head-cameron-green-josh-inglis-set-to-make-shield-return-after-t20-world-cup-exit-2026-03-03-1032435",
-    "time": "2026-03-03T09:20:20.000Z"
   }
 ];

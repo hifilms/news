@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "&amp;#039;આ 2 ટીમો વચ્ચે જ રમાશે T20 World Cup 2026ની ફાઈનલ&amp;#039; મેચ! ક્રિકેટ જગતના દિગ્ગજોની ભવિષ્યવાણી",
+    "desc": "ટી20 વર્લ્ડકપ 2026 ટુર્નામેન્ટમાં કઈ બે ટીમો વચ્ચે ફાઈનલનો જંગ જોવા મળશે, તે તો 5 માર્ચ પછી જ સ્પષ્ટ થશે. પરંતુ તે પહેલાં જ ક્રિકેટ જગતના દિગ્ગજો દ્વારા અનેક ભવિષ્યવાણીઓ કરવામાં આવી રહી છે. ચાલો જાણીએ કોણે શું કહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/the-2026-t20-world-cup-final-will-be-between-these-two-teams-veterans-make-bold-predictions-467111 ",
+    "time": "2026-03-04T03:41:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈઝરાયેલ સાથે યુદ્ધ વચ્ચે ઈરાનને મળ્યા નવા સુપ્રીમ લીડર, ખામેનેઈને ક્યાં દફનાવવામાં આવશે એ પણ જાણો",
+    "desc": "અમેરિકા અને ઈઝરાયેલના હુમલાઓમાં અમેરિકાના સુપ્રીમ લીડર અયાતુલ્લા અલી ખામેનેઈનું મોત થયું. હવે ઈરાનને નવા સુપ્રીમ લીડર મળી રહ્યા છે. તેમના પુત્રને અસેમ્બલી ઓફ એક્સપર્ટ દ્વારા પસંદ કરાયા હોવાના સમાચાર આવી રહ્યા છે. આ ઉપરાંત ખામેનેઈની દફન વિધિ ક્યાં થશે એ પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-gets-new-supreme-leader-amid-war-with-israel-also-know-where-khamenei-will-be-buried-467110 ",
+    "time": "2026-03-04T03:39:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રશિયાએ ફરી નિભાવી મિત્રતા, ખાડીમાં યુદ્ધને કારણે મુશ્કેલીમાં મુકાયું ભારત તો મદદ માટે આગળ વધાર્યો હાથ",
+    "desc": "ઈઝરાયેલ અને ઈરાનના તણાવે સમગ્ર વેસ્ટ એશિયા માટે સમસ્યા ખડી કરી છે. ઈરાને સ્ટ્રેટ ઓફ હોર્મૂઝ બંધ કરતા પેટ્રોલિયમ અને ગેસ સપ્લાય માટે પડકાર ઊભો થયો છે. ભારતનો ઘણો ખરો પેટ્રોલિયમ સામાન આ માર્ગે આવે છે. જો કે ભારત માટે એક સારા સમાચાર પણ આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/russia-keen-to-help-india-in-oil-crisis-following-iran-israel-war-467101 ",
+    "time": "2026-03-04T02:59:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાનમાં એક સાથે 160 બાળકીઓના નીકળ્યા જનાજા, Video જોઈ કાળજું ચીરાઈ જશે",
+    "desc": "અમેરિકા અને ઈઝરાયેલે ઈરાન પર કરેલી ભીષણના પ્રહારનો ઈરાન પણ જડબાતોડ જવાબ આપી રહ્યું છે. હુમલામાં ઈરાનના મિનાબમાં એક શાળા પર હુમલો થયો જેમાં 160 છોકરીઓના મોત થયા. આજે આ બાળકીઓની દફન વિધિ થઈ ત્યારે માહોલ એવો હતો કે ભલભલાની આંખો ભીંજાઈ જાય.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/funeral-rocession-for-girls-of-minab-elementary-school-iran-israel-war-update-in-gujarati-467040 ",
+    "time": "2026-03-04T02:10:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "T20 વર્લ્ડ કપ પર પણ પડી ચંદ્રગ્રહણની અસર, ટીમ ઈન્ડિયાએ ના કરી પ્રેક્ટિસ",
     "desc": "ભારત T20 વર્લ્ડ કપ 2026ની બીજી સેમિફાઇનલમાં ઇંગ્લેન્ડ સામે ટકરાશે. ટીમ પાસે મહત્વપૂર્ણ મેચ પહેલા તેની તૈયારીઓને અંતિમ સ્વરૂપ આપવા માટે બે મહત્વપૂર્ણ દિવસ છે. જો કે, મંગળવારે ચંદ્રગ્રહણને કારણે ટીમે વાનખેડે સ્ટેડિયમ ખાતે તેનું પ્રેક્ટિસ સેશન મુલતવી રાખ્યું હતું.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -52,15 +88,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/how-long-will-india-oil-reserves-last-amid-iran-war-government-provides-important-information-467068 ",
     "time": "2026-03-03T13:24:51.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાનમાં એક સાથે 165 બાળકીઓના નીકળ્યા જનાજા, Video જોઈ કાળજું ચીરાઈ જશે",
-    "desc": "અમેરિકા અને ઈઝરાયેલે ઈરાન પર કરેલી ભીષણના પ્રહારનો ઈરાન પણ જડબાતોડ જવાબ આપી રહ્યું છે. હુમલામાં ઈરાનના મિનાબમાં એક શાળા પર હુમલો થયો જેમાં 165 છોકરીઓના મોત થયા. આજે આ બાળકીઓની દફન વિધિ થઈ ત્યારે માહોલ એવો હતો કે ભલભલાની આંખો ભીંજાઈ જાય.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/funeral-rocession-for-girls-of-minab-elementary-school-iran-israel-war-update-in-gujarati-467040 ",
-    "time": "2026-03-03T13:06:55.000Z"
   },
   {
     "cat": "Politics",
@@ -414,15 +441,6 @@ const newsData_gu = [
     "time": "2026-03-01T17:44:45.000Z"
   },
   {
-    "cat": "World",
-    "title": "ખામેનીની હત્યા બાદ લહેરાવવામાં આવ્યું બદલો અને ક્રોધનું પ્રતિક, કોના માટે ખતરાની નિશાની ?",
-    "desc": "ખામેની દાયકાઓ સુધી ઈરાનના સર્વોચ્ચ ધાર્મિક અને રાજકીય નેતા રહ્યા. અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ખામેનીને ઇતિહાસના સૌથી દુષ્ટ લોકોમાંના એક ગણાવ્યા અને કહ્યું કે ઈરાની લોકો માટે પોતાનો દેશ પાછો મેળવવાની આ સૌથી મોટી તક છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/the-symbol-of-revenge-and-anger-waved-after-khameneis-assassination-a-sign-of-danger-for-whom-466771 ",
-    "time": "2026-03-01T17:10:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "બ્રિટિશ પાઉન્ડનું પતન અને સ્વિસ ફ્રેંકનો ઉદય, યુદ્ધ અને મંદીના સમયમાં કેમ ચમકે છે સોનું?",
     "desc": "શું તમે જાણો છો કે એક સમયે દુનિયા પર રાજ કરતો બ્રિટિશ પાઉન્ડ આજે કેમ સંઘર્ષ કરી રહ્યો છે? જાણો કેવી રીતે ગોલ્ડ રિઝર્વ, વિશ્વ યુદ્ધો અને સેન્ટ્રલ બેન્કોની નીતિઓ કરન્સીની તાકાત નક્કી કરે છે. ચાલો જાણીએ પાઉન્ડના પતનથી લઈને ભારતીય રૂપિયાના ભવિષ્ય સુધીનું સંપૂર્ણ વિશ્લેષણ.",
@@ -477,15 +495,6 @@ const newsData_gu = [
     "time": "2026-03-01T06:51:11.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ઈરાન-ઈઝરાયેલ યુદ્ધથી સોનામાં મહાવિસ્ફોટ! ચાંદી પણ એક ઝટકે મોંઘી, પાછા ભાવ આકાશે આંબશે?",
-    "desc": "ઈરાન અને ઈઝરાયેલ વચ્ચે યુદ્ધ ફાટી નીકળ્યા બાદ હવે વૈશ્વિક સ્તરે ભારે ખળભળાટ મચ્યો છે. દુનિયામાં પહેલેથી જ અફઘાનિસ્તાન અને પાકિસ્તાન વચ્ચે તણાવ છે, રશિયા અને યુક્રેન વચ્ચે યુદ્ધ ચાલે છે. વૈશ્વિક તણાવના પગલે અનેક સેક્ટરોમાં ઉથલપાથલ જોવા મળી શકે છે જેમાંથી એક છે સોનું અને ચાંદી. ભાવમાં વધારાની આશંકા વ્યક્ત કરાઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/israel-iran-war-gold-silver-rate-predictions-sona-chandi-par-padi-shake-yudh-ni-asar-news-in-gujarati-466629 ",
-    "time": "2026-03-01T06:44:24.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "વધી જશે પેટ્રોલ-ડીઝલના ભાવ? ઈરાન-અમેરિકા યુદ્ધથી દુનિયામાં આવશે મહામંદી",
     "desc": "અમેરિકાના ઈરાન પર હુમલા બાદ ઈરાનના નેતા અયાતુલ્લા અલી ખામેનેઈના મોત થયું છે. ત્યારે યુદ્ધથી સૌથી મોટું ટેન્શન ક્રુડ ઓઈલના ભાવને લઈને છે. આગામી સપ્તાહમાં જ પેટ્રોલ ડીઝલના ભાવમાં તેની અસર જોવા મળી શકે છે. સાથે વૈશ્વિક મંદી પણ વધશે અને મોંઘવારી આવશે તેવું નિષ્ણાતોનું અનુમાન છે",
@@ -502,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-silver-price-today-1-march-2026-gold-and-silver-prices-jump-know-the-price-in-your-city-466681 ",
     "time": "2026-03-01T04:00:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "અજિત પવારના પ્લેન ક્રેશ પર રિપોર્ટમાં ચોંકાવનારો ખુલાસો, પહેલા ઝાડ સાથે અથડાયું, પછી...",
-    "desc": "મહારાષ્ટ્રના ડેપ્યુટી સીએમ અજિત પવારનું પ્લેન બારામતીમાં સવાર સવારમાં ક્રેશ થયું હતું. જેમાં અજિત પવાર સહિત 5 લોકોના મોત થયા હતા. AAIBએ કહ્યું કે બારામતી પ્લેન ક્રેશના તમામ પહેલુઓની તપાસ કરવામાં આવશે જેથી કરીને તથ્યો, મૂળ કારણો અને સંબધિત કારણો વિશે જાણી શકાય.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ajit-pawar-plane-crash-aaib-release-preliminary-report-shocking-details-466640 ",
-    "time": "2026-02-28T16:27:58.000Z"
   },
   {
     "cat": "Entertainment",
