@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Anil Kumble shares advice for star India spinner ahead of crucial T20 World Cup semi-final bout",
+    "desc": "With India all set to take on England in the 2nd semi-final of the ongoing T20 World Cup 2026, many eyes will be set upon star spinner Varun Chakaravarthy. The star spinner has been unable...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/anil-kumble-shares-advice-for-star-india-spinner-ahead-of-crucial-t20-world-cup-semi-final-bout-2026-03-04-1032564",
+    "time": "2026-03-04T09:06:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma, Ishan Kishan, and Axar Patel seek blessings at Siddhivinayak Temple in Mumbai",
+    "desc": "The Indian team is all set to take on England in the 2nd semi-final of the ongoing T20 World Cup 2026. The two sides will lock horns at the Wankhede Stadium in Mumbai on March...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-ishan-kishan-and-axar-patel-seek-blessings-at-siddhivinayak-temple-in-mumbai-2026-03-04-1032560",
+    "time": "2026-03-04T08:23:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer backs Jasprit Bumrah to play crucial role for India against England",
+    "desc": "India and England will take on each other in the 2nd semi-final of the ongoing T20 World Cup 2026. The two sides will lock horns at the Wankhede Stadium in Mumbai on March 5, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-backs-jasprit-bumrah-to-play-crucial-role-for-india-against-england-2026-03-04-1032554",
+    "time": "2026-03-04T07:18:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhishek-Samson vs Salt-Buttler, which openers have better stats?",
     "desc": "The stage is set for the 2nd semi-final of the ongoing T20 World Cup 2026. India will be taking on England at the Wankhede Stadium in Mumbai in a bid to book their berth into...",
     "img": "",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/law-of-averages-to-work-against-south-africa-in-t20-world-cup-semis-vs-new-zealand-aiden-markram-responds-2026-03-03-1032493",
     "time": "2026-03-03T17:47:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Selector resigns over Babar Azam, Shadab Khan's selection in T20 World Cup squad",
-    "desc": "The Pakistan cricket team reached Lahore from Colombo on Sunday (March 1) after being knocked out of the T20 World Cup, and within two days, a member of the senior selection committee, Aleem Dar, has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/drama-in-pakistan-cricket-selector-resigns-over-babar-azam-shadab-khan-s-selection-in-t20-world-cup-squad-2026-03-03-1032488",
-    "time": "2026-03-03T16:00:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Stats comparison ahead of India vs England semifinal of T20 World Cup 2026",
-    "desc": "India and England are facing each other in the second semifinal of the T20 World Cup on Thursday, March 5, at the Wankhede Stadium in Mumbai. Suryakumar Yadav and Harry Brook are leading their respective...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-vs-harry-brook-stats-comparison-ahead-of-india-vs-england-semifinal-of-t20-world-cup-2026-2026-03-03-1032485",
-    "time": "2026-03-03T15:19:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "First look of the Mumbai pitch to be used for T20 World Cup semifinal revealed",
-    "desc": "India are set to face England in the second semifinal of the T20 World Cup at the Wankhede Stadium in Mumbai on Thursday, March 5. Two days ahead of the marquee clash, the first look...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-first-look-of-the-mumbai-pitch-to-be-used-for-t20-world-cup-semifinal-revealed-2026-03-03-1032480",
-    "time": "2026-03-03T14:37:07.000Z"
   }
 ];
