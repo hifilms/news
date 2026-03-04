@@ -1,5 +1,275 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Christina Applegate regrets leaving Brad Pitt at an award ceremony",
+    "desc": "Christina Applegate details her brief romance with Brad Pitt in her memoir, 'You With the Sad Eyes.' She recounts a pivotal moment at the 1989 MTV Video Music Awards where a teenage decision led to years of silence and lingering resentment from Pitt. The pair eventually found a way to forgive and move past the incident.",
+    "img": "https://static.toiimg.com/photo/msid-129000014,imgsize-577762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/christina-applegate-reflects-on-leaving-brad-pitt-at-an-award-ceremony-calls-it-a-teenage-mistake/articleshow/129000024.cms",
+    "time": "2026-03-04T01:24:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "US, Israel attacks Iran: AIMPLB urges UN to take steps for ceasefire",
+    "desc": "The All India Muslim Personal Law Board has strongly condemned the US-Israel's actions against Iran, calling for immediate international intervention to secure a ceasefire. The board expressed sorrow over the reported martyrdom of Iran's supreme leader, Ayatollah Khamenei, and highlighted that targeting leadership and advocating regime change violates international law.",
+    "img": "https://static.toiimg.com/photo/msid-128999782,imgsize-29604.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/us-israel-attacks-iran-aimplb-urges-un-to-take-steps-for-ceasefire/articleshow/128999709.cms",
+    "time": "2026-03-04T01:14:10.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war highlights: Israel launched 'broad wave' of strikes on Iran; fire near U.S. consulate in Dubai after drone attack",
+    "desc": "Seven injured in Israel after Iranian missiles hit central Israel, says Israeli military; Trump says U.S. Navy could escort tankers through a crucial Gulf shipping route; Israeli military \"unlikely\" to deploy ground forces to Iran",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-attacks-strikes-west-asia-live-updates-march-3-2026/article70697758.ece",
+    "time": "2026-03-04T00:57:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Under pressure, Karnataka to revise internal quota of SC communities",
+    "desc": "Karnataka's Congress government is reconsidering its decision to fill 56,432 government posts without internal reservation for Scheduled Castes. Following pressure from SC communities and ministers, the cabinet will discuss introducing pro-rata internal reservation within the existing 15% SC quota.",
+    "img": "https://static.toiimg.com/photo/msid-128999642,imgsize-32828.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/under-pressure-karnataka-to-revise-internal-quota-of-sc-communities/articleshow/128999126.cms",
+    "time": "2026-03-04T00:53:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Nandamuri Balakrishna’s home in Hyderabad",
+    "desc": "Nandamuri Balakrishna, the iconic actor known for his contributions to cinema, resides in a breathtaking mansion in Jubilee Hills. Covering nearly 10,000 square feet, this exquisite home masterfully integrates rich Indian architectural styles with contemporary comforts. It boasts impressive features such as a personal gym and an expansive swimming pool, all nestled within verdant gardens.",
+    "img": "https://static.toiimg.com/photo/msid-128998768,imgsize-42594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/nandamuri-balakrishna-and-his-posh-home-in-jubilee-hills-a-look-into-veera-simha-reddy-stars-personal-life/articleshow/128998768.cms",
+    "time": "2026-03-04T00:45:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nitish's son Nishant set for political launch ahead of Rajya Sabha election",
+    "desc": "Bihar Chief Minister Nitish Kumar's son, Nishant Kumar, is reportedly set to enter politics, marking a shift from his father's stance against dynastic succession. This move comes amid growing internal party pressure and concerns about leadership transition, with Nishant seen as a potential link to traditional JDU supporters.",
+    "img": "https://static.toiimg.com/photo/msid-128998946,imgsize-37420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nitishs-son-nishant-set-for-political-launch-ahead-of-rajya-sabha-election/articleshow/128998867.cms",
+    "time": "2026-03-04T00:44:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold retreats on strong dollar after four-day rally",
+    "desc": "Gold prices experienced a significant drop of over 5%, ending a recent rally. This decline was driven by a strengthening dollar and diminishing hopes for an interest rate cut, as inflation worries grew amid the ongoing West Asia conflict. Indian traders are now forecasting substantial price hikes for gold and silver if the regional tensions persist.",
+    "img": "https://static.toiimg.com/photo/msid-128998591,imgsize-67610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/gold-retreats-on-strong-dollar-after-four-day-rally/articleshow/128998557.cms",
+    "time": "2026-03-04T00:35:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rapper Ghetts jailed for 12 years; judge says: “Simply shocking”",
+    "desc": "British rapper Ghetts, real name Justin Clarke-Samuel, has been sentenced to 12 years in prison for a fatal hit-and-run. He admitted to causing death by dangerous driving after striking and killing a 20-year-old student while speeding and under the influence. The incident involved multiple traffic violations, and he failed to stop at the scene.",
+    "img": "https://static.toiimg.com/photo/msid-128998514,imgsize-983387.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/british-rapper-ghetts-jailed-for-12-years-over-fatal-east-london-hit-and-run-all-we-know/articleshow/128998522.cms",
+    "time": "2026-03-04T00:33:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Kerala Story 2' nears Rs 20 crore mark",
+    "desc": "Goes Beyond' is reportedly gaining traction at the box office, boosted by the Holi holiday. The film's Tuesday earnings nearly doubled Monday's collection, nearing Rs 20 crore gross. Despite a slow start due to release controversies, subsequent days saw significant increases.",
+    "img": "https://static.toiimg.com/photo/msid-128998471,imgsize-118334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-5-film-sees-good-growth-on-holi-nears-rs-20-crore-mark/articleshow/128997688.cms",
+    "time": "2026-03-04T00:32:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Qatar halts aluminium production, prices jump",
+    "desc": "Aluminum prices surged as QatarEnergy announced a halt to its metal production. This move, driven by disruptions to supply lines due to the Iran conflict, impacts a region crucial for global output. The decision adds to growing concerns for producers and consumers worldwide, highlighting potential supply shortages.",
+    "img": "https://static.toiimg.com/photo/msid-128998372,imgsize-38058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/iran-crisis-qatar-halts-aluminium-production-prices-jump/articleshow/128997415.cms",
+    "time": "2026-03-03T23:52:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US, Israel attack Iran: With oil prices up, forex volatility set to continue",
+    "desc": "The rupee faces renewed pressure as the West Asian conflict escalates, worsening trade and energy situations. Analysts anticipate the rupee breaching the 92 level this week due to rising oil prices and supply chain disruptions. Investors are flocking to the US dollar and gold, triggering capital outflows from riskier assets.",
+    "img": "https://static.toiimg.com/photo/msid-128997364,imgsize-44400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/us-israel-attack-iran-with-oil-prices-up-forex-volatility-set-to-continue/articleshow/128997285.cms",
+    "time": "2026-03-03T23:47:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Game of Thrones’ movie officially in the works!",
+    "desc": "Warner Bros. is developing a new 'Game of Thrones' feature film, with Beau Willimon reportedly penning the screenplay. This marks the seventh production focusing on the Targaryen lineage, following the success of 'House of the Dragon' and 'A Knight of the Seven Kingdoms'. While plot details remain secret, the project is officially in development, hinting at more Westeros adventures.",
+    "img": "https://static.toiimg.com/photo/msid-128996594,imgsize-76030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/game-of-thrones-movie-officially-in-the-works-becomes-seventh-production-in-franchise/articleshow/128996368.cms",
+    "time": "2026-03-03T23:42:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Dalal-Street awaits tense session as crisis sinks global markets",
+    "desc": "Indian markets are bracing for a significant sell-off on Wednesday following a day's break for Holi, as global stocks tumbled due to escalating West Asian conflict. Nifty futures in GIFT City indicated a sharp slide, with major US indices also experiencing steep declines.",
+    "img": "https://static.toiimg.com/photo/msid-128997013,imgsize-90184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-tensions-dalal-street-awaits-tense-session-as-crisis-sinks-global-markets/articleshow/128996913.cms",
+    "time": "2026-03-03T23:34:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government sets up panel to help exporters",
+    "desc": "The Indian government has established an inter-ministerial group and a 24/7 helpline to bolster supply chain resilience and support businesses trading with West Asia. This initiative aims to ensure seamless trade and safeguard exporter interests, with the region accounting for a significant portion of India's goods exports. The group will foster coordination across key government departments.",
+    "img": "https://static.toiimg.com/photo/msid-128996882,imgsize-100754.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/iran-crisis-government-sets-up-panel-to-help-exporters/articleshow/128996839.cms",
+    "time": "2026-03-03T23:30:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Indians put Dubai realty buy on hold",
+    "desc": "Indian investors are reconsidering Dubai property purchases due to regional instability, despite its past appeal for rental income and capital appreciation. While developers view the current situation as a temporary setback, the long-term outlook for Dubai's real estate market remains a key concern for potential buyers.",
+    "img": "https://static.toiimg.com/photo/msid-128996780,imgsize-69912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/real-estate/news/middle-east-tensions-indians-put-dubai-realty-buy-on-hold/articleshow/128996727.cms",
+    "time": "2026-03-03T23:26:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Working to tackle impact, staff safety priority: Chandra",
+    "desc": "Tata Sons chairman N Chandrasekaran acknowledged the West Asia conflict's supply chain impact. He assured that Tata companies have planned alternative measures and are prioritizing employee safety in affected regions. Investments in technology, including hydrogen engines and carbon footprint reduction, are ongoing. New manufacturing jobs are expected with Tata Steel's expansion. AI will create opportunities for TCS.",
+    "img": "https://static.toiimg.com/photo/msid-128996521,imgsize-30028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/working-to-tackle-impact-staff-safety-priority-chandra/articleshow/128996412.cms",
+    "time": "2026-03-03T23:14:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Selena Gomez KISSES Benny Blanco's foot",
+    "desc": "Selena Gomez showered Benny Blanco with affection on his podcast, 'Friends Keep Secrets', silencing critics who targeted him over a viral 'dirty feet' clip. Gomez playfully kissed Blanco's toe mid-conversation, a gesture that delighted him and quickly went viral. This public display of love follows earlier backlash where fans urged Gomez to 'divorce' Blanco due to perceived hygiene issues.",
+    "img": "https://static.toiimg.com/photo/msid-128995768,imgsize-98348.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/selena-gomez-kisses-husband-benny-blancos-foot-on-following-dirty-feet-backlash-watch/articleshow/128995603.cms",
+    "time": "2026-03-03T23:10:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Khamenei supported J&amp;K rebels': BJP hits out at Sonia Gandhi",
+    "desc": "The BJP criticized Sonia Gandhi's remarks on the government's response to Iran's leader's death, recalling his past support for secessionist forces in Kashmir. The party stated that diplomacy requires restraint and respect for sovereignty, not appeasement. They also pointed out the UPA's silence on Muammar Gaddafi's death in 2011.",
+    "img": "https://static.toiimg.com/photo/msid-128995945,imgsize-35020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/khamenei-supported-jk-rebels-bjp-hits-out-at-sonia-gandhi/articleshow/128995874.cms",
+    "time": "2026-03-03T22:53:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Data centres new target in Iran conflict; 3 Amazon units hit by drones in UAE, Bahrain",
+    "desc": "Iran has targeted three Amazon data centers in the UAE and Bahrain with drone strikes, causing widespread disruptions to cloud services and banking across West Asia. This marks a significant escalation, with critical infrastructure now including data centers. Repairs are expected to be lengthy, impacting regional markets and air travel.",
+    "img": "https://static.toiimg.com/photo/msid-128995779,imgsize-49226.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/data-centres-new-target-in-iran-conflict-3-amazon-units-hit-by-drones-in-uae-bahrain/articleshow/128995745.cms",
+    "time": "2026-03-03T22:50:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ayesha Khan reveals 'I’ve been attempted to rape in my life'",
+    "desc": "Ayesha Khan, who has been basking in the success of Shararat song from Dhurandhar, has candidly addressed the dark side of being a woman in the public eye — from daily online sexualisation to actual threats of sexual violence and an attempted rape in her life.",
+    "img": "https://static.toiimg.com/photo/msid-128995382,imgsize-62590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-star-ayesha-khan-reveals-ive-been-attempted-to-rape-in-my-life-recalls-spot-boy-sent-her-disturbing-voice-notes/articleshow/128995382.cms",
+    "time": "2026-03-03T22:43:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parliament must debate 'dissonance' in foreign policy: Congress MP Sonia Gandhi",
+    "desc": "Congress leaders Sonia and Rahul Gandhi criticized PM Modi's government for its \"silence\" on the attack on Iran, calling it a \"tacit endorsement.\" They questioned India's foreign policy direction and its standing in the world, especially concerning the \"Global South,\" urging a return to India's core values of sovereignty and peace.",
+    "img": "https://static.toiimg.com/photo/msid-128995613,imgsize-52080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/parliament-must-debate-dissonance-in-foreign-policy-congress-mp-sonia-gandhi/articleshow/128995518.cms",
+    "time": "2026-03-03T22:39:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi calls for export push, puts biopharma at centre stage",
+    "desc": "Prime Minister Narendra Modi has signaled a strategic shift in India's export policy, moving from cost competitiveness to quality-driven growth. He urged industries to scale up research, adopt global standards, and align with emerging supply chains to become a trusted manufacturing partner in a reshaped global trade landscape.",
+    "img": "https://static.toiimg.com/photo/msid-128995349,imgsize-49164.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-calls-for-export-push-puts-biopharma-at-centre-stage/articleshow/128995275.cms",
+    "time": "2026-03-03T22:31:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rapper Ghetts JAILED for 12 years in hit-and-run case",
+    "desc": "British rapper \"Ghetts\" was jailed Tuesday by a London court for 12 years for killing a student while speeding and over the drink-drive limit. At his sentencing at London's Old Bailey court, judge Mark Lucraft handed down the 12-year prison term and disqualified him from driving for 17 years.",
+    "img": "https://static.toiimg.com/photo/msid-128995220,imgsize-117014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rapper-ghetts-jailed-for-12-years-for-killing-student-in-hit-and-run/articleshow/128994304.cms",
+    "time": "2026-03-03T22:31:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Have critical stakes in Gulf, will act in national interest, says government",
+    "desc": "India expresses deep anxiety over the escalating West Asia conflict, highlighting the critical stakes for nearly one crore Indian nationals in the Gulf and the potential economic repercussions. The Ministry of External Affairs strongly condemned attacks on merchant shipping, noting the loss of Indian lives and emphasizing the need for restraint and dialogue.",
+    "img": "https://static.toiimg.com/photo/msid-128995037,imgsize-132998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/middle-east-tensions-have-critical-stakes-in-gulf-will-act-in-national-interest-says-government/articleshow/128994927.cms",
+    "time": "2026-03-03T22:23:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi talks to leaders of Qatar, Oman, Kuwait",
+    "desc": "Prime Minister Modi engaged with leaders of Qatar, Oman, and Kuwait, condemning Iranian attacks and reaffirming India's commitment to regional peace. These discussions, completing talks with all GCC nations, highlighted India's focus on protecting its diaspora and ensuring stability. Modi stressed dialogue and diplomacy for restoring harmony and thanked leaders for their support to the Indian community.",
+    "img": "https://static.toiimg.com/photo/msid-128994825,imgsize-40786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iran-crisis-pm-modi-talks-to-leaders-of-qatar-oman-kuwait/articleshow/128994372.cms",
+    "time": "2026-03-03T22:16:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka stuns at fashion show with Anya, Jisoo",
+    "desc": "Priyanka Chopra embraced an androgynous style at a Paris fashion event, opting for a Dior menswear piece. Reflecting on her fashion journey, she shared childhood memories of luxury and her early influences from music icons. Chopra emphasized a shift from seeking external validation to dressing for her own desired feeling and identity.",
+    "img": "https://static.toiimg.com/photo/msid-128993543,imgsize-82718.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-stuns-in-menswear-at-fashion-event-with-anya-taylor-joy-charlize-theron-and-jisoo/articleshow/128992859.cms",
+    "time": "2026-03-03T22:10:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aruna Irani refused to play Govinda’s love interest in HMJ",
+    "desc": "Veteran actor Aruna Irani recently revealed that she was initially hesitant to romance Govinda on screen in Haseena Maan Jaayegi. Having played his mother in several films, Aruna feared audiences would reject the sudden shift in their dynamic. In a candid chat, she opened up about why she even suggested the role be offered to someone else — and how director David Dhawan convinced her otherwise.",
+    "img": "https://static.toiimg.com/photo/msid-128992365,imgsize-43718.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aruna-irani-refused-to-play-govindas-love-interest-in-haseena-maan-jaayegi-in-every-film-i-was-govindas-mother/articleshow/128992365.cms",
+    "time": "2026-03-03T21:39:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&K Police lodge FIR against Kashmir MP Ruhullah, former Srinagar mayor Mattu",
+    "desc": "Junaid Azim Mattu said in a Kashmir today fellow mainstream leaders have “surrendered and sold their tongues to the BJP-led Government and chosen to sound shamefully diplomatic over the assassination of Khamenei and the brutal war on Iran and Palestine”.",
+    "img": "https://th-i.thgim.com/public/incoming/1eis2/article70701125.ece/alternates/LANDSCAPE_1200/30-RESTRICTIONS-SGR-03-03-2026.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-police-lodge-fir-against-kashmir-mp-ruhullah-former-srinagar-mayor-mattu/article70700941.ece",
+    "time": "2026-03-03T21:35:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NIA seeks China's help to trace GoPro cam info",
+    "desc": "A special NIA court has issued a letter rogatory to China seeking assistance in tracing the supply chain of a GoPro camera seized in the Pahalgam terror attack case. The camera, activated in China, is crucial for establishing pre-attack reconnaissance and the movement of the Pakistani terror module.",
+    "img": "https://static.toiimg.com/photo/msid-128992071,imgsize-85748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pahalgam-case-nia-seeks-chinas-help-to-trace-gopro-cam-info/articleshow/128991733.cms",
+    "time": "2026-03-03T21:09:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rural jobs scheme workers flag glitches in monitoring app",
+    "desc": "Workers’ union Mazdoor Kisan Shakti Sangathan reports widespread failures in National Mobile Monitoring System’s facial recognition update; government officials claim that over 22 lakh workers successfully recorded their attendance using the new facial recognition feature",
+    "img": "https://th-i.thgim.com/public/incoming/6u4a1x/article70700813.ece/alternates/LANDSCAPE_1200/TH02-SOBHANA-AcG2EFHD9QH.2.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/workers-flag-glitches-in-job-scheme-app/article70699998.ece",
+    "time": "2026-03-03T20:57:23.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "US, Israel attacks Iran: Scheduled, charter flights to be used for repatriation",
     "desc": "India is actively working to repatriate thousands of its citizens stranded in West Asian countries like the UAE and Qatar. The government is utilizing a combination of charter and scheduled flights, with airlines warned against fare hikes. This effort follows a high-level review of the West Asia crisis.",
@@ -115,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/imf-says-too-early-to-gauge-west-asia-conflict-impact-as-energy-prices-markets-turn-volatile/articleshow/128983163.cms",
     "time": "2026-03-03T17:27:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "New genus and species of blind miniature fish discovered in Assam",
-    "desc": "Newly-discovered species of fish, living in a hand-dug well in a village in Assam, has been named Gitchak nakana. Complete absence of a skull roof is its most bizarre feature. In a departure from almost all other bony fish, the top of its brain is covered only by skin rather than bone",
-    "img": "https://th-i.thgim.com/public/incoming/jyoueu/article70699902.ece/alternates/LANDSCAPE_1200/80686_3_3_2026_18_33_46_1_04TVKO_GITCHAKNAKANA1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/new-genus-and-species-of-blind-miniature-fish-discovered-in-assam/article70699781.ece",
-    "time": "2026-03-03T16:52:59.000Z"
   },
   {
     "cat": "Politics",
@@ -243,15 +504,6 @@ const newsData_en = [
     "time": "2026-03-03T15:14:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Restoration of temple pond in Kurinjipadi a start to citizen-driven revival of Chola-era waterbodies",
-    "desc": "The movement has planned to map historic waterbodies and their interconnections, identify blocked feeder channels and surplus weirs, restore cascading flow patterns between tanks, integrate traditional water wisdom with modern hydrogeological science and establish community-based maintenance models.",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/33zpp4/article70700351.ece/alternates/LANDSCAPE_1200/IMG_7240%201.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/restoration-of-temple-pond-in-kurinjipadi-a-start-to-citizen-driven-revival-of-chola-era-waterbodies/article70698755.ece",
-    "time": "2026-03-03T14:58:18.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran-Israel conflict: Why the closure of the Strait of Hormuz matters?",
     "desc": "A warning from Iran’s Revolutionary Guard to ships passing through the Strait of Hormuz has triggered global market anxiety. After joint U.S.–Israel strikes on Iran, Tehran signaled that navigation through one of the world’s most critical oil routes could be restricted.",
@@ -297,24 +549,6 @@ const newsData_en = [
     "time": "2026-03-03T13:51:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Virat spotted with Akaay in London, fans reminded Virushka's dating days",
-    "desc": "Cricketer Virat Kohli was recently spotted enjoying a quiet stroll with his son Akaay in London, a moment captured in a viral fan video. The heartwarming father-son outing highlights the couple's efforts to shield their children from public scrutiny since relocating to the city. Fans also recalled Kohli and Anushka Sharma's journey from London holidays to parenthood.",
-    "img": "https://static.toiimg.com/photo/msid-128975400,imgsize-32136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-takes-a-stroll-in-london-with-son-akaay-fans-get-nostalgic-about-his-dating-days-with-anushka-sharma-watch-video/articleshow/128974706.cms",
-    "time": "2026-03-03T13:50:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir introduces daughter to the festival of colors",
-    "desc": "Ranbir Kapoor, Neha Dhupia, and Soha Ali Khan celebrated Holi 2026 with kids in Mumbai today. With Alia Bhatt at Milan Fashion Week, Ranbir introduced Raha to colors alongside Ayan Mukerji, while Neha-Soha enjoyed gulaal, water fights. West India today; North India tomorrow.",
-    "img": "https://static.toiimg.com/photo/msid-128974211,imgsize-18602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-introduces-daughter-raha-to-the-festival-of-colors-with-ayan-mukerji-in-tow-for-holi-2026-celebrations-pics/articleshow/128974211.cms",
-    "time": "2026-03-03T13:30:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Mohun Bagan hit with stadium closure for 'spectator misconduct'",
     "desc": "Mohun Bagan Super Giants have been fined and hit with a full stadium closure for their upcoming game against Odisha FC on March 6. The Kolkata giants have been found guilty of 'spectator misconduct' during their season opener against the Kerala Blasters on February 14.",
@@ -322,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/indian-super-league/top-stories/isl-mohun-bagan-hit-with-stadium-closure-for-spectator-misconduct-mbsg-accept-fine-penalty/articleshow/128973918.cms",
     "time": "2026-03-03T13:20:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Katrina-Vicky celebrate FIRST holi after son Vihaan's birth: PIC",
-    "desc": "Katrina Kaif and Vicky Kaushal celebrated their first Holi as parents to baby Vihaan with an intimate family gathering. Katrina shared a joyful group photo on Instagram, while Vicky recently spoke about fatherhood, praising Katrina as a superhero and warrior during her pregnancy and motherhood. He described fatherhood as a transformative and grounding experience.",
-    "img": "https://static.toiimg.com/photo/msid-128974126,imgsize-74274.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-kaif-vicky-kaushal-celebrate-first-holi-after-son-vihaans-birth-the-actress-drops-glimpse-into-their-celebrations/articleshow/128974102.cms",
-    "time": "2026-03-03T13:19:17.000Z"
   },
   {
     "cat": "World",
@@ -351,31 +576,13 @@ const newsData_en = [
     "time": "2026-03-03T13:11:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Why only the young? ‘Jab Khuli Kitaab’ insight",
-    "desc": "Get ready for an emotional rollercoaster with 'Jab Khuli Kitaab,' a film that embraces the complexities of mature romance with leading stars Pankaj Kapur and Dimple Kapadia. Directed by the acclaimed Saurabh Shukla, this gem premieres on ZEE5 on March 6, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-128972727,imgsize-149204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/why-should-romance-belong-only-to-the-young-saurabh-shukla-on-bringing-mature-rom-coms-back-with-pankaj-kapur-and-dimple-kapadias-jab-khuli-kitaab/articleshow/128972727.cms",
-    "time": "2026-03-03T12:50:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sapthami Gowda slams objectionable Paparazzi clicks",
-    "desc": "Megastar Chiranjeevi showered immense praise on his son Ram Charan's upcoming film 'Peddi', calling the new song 'Rai Rai Raa Raa' sheer fire. The song, featuring Charan's graceful dance and electrifying presence, has generated significant buzz. With A.R. Rahman's chartbuster first song and a strong cast, 'Peddi' is set for a grand release on April 30, 2026, with expectations soaring.",
-    "img": "https://static.toiimg.com/photo/msid-128972260,imgsize-92238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/sapthami-gowda-slams-objectionable-paparazzi-clicks-kantara-actress-demands-dignity-and-respect-for-women-in-cinema/articleshow/128972260.cms",
-    "time": "2026-03-03T12:43:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How much money does the host make?",
-    "desc": "Alan Cumming, renowned for hosting 'The Traitors US', boasts an estimated net worth of USD 5 million by 2026. His diverse income stems from acting across stage and screen, writing, owning a cabaret bar, and hosting prestigious events. This wealth reflects a career prioritizing creative choices over blockbuster franchises.",
-    "img": "https://static.toiimg.com/photo/msid-128962540,imgsize-118812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/alan-cumming-net-worth-how-much-money-does-the-traitors-us-host-make/articleshow/128962504.cms",
-    "time": "2026-03-03T12:30:00.000Z"
+    "cat": "Politics",
+    "title": "Tamil Nadu’s saga of controversial Governors begins with Sri Prakasa of the 1950s",
+    "desc": "When the talk of C. Rajagopalachari becoming the CM again began doing rounds, his associate and prominent Tamil journalist-writer ‘Kalki’ R. Krishnamurthy likened it in his Tamil weekly to Ramana Maharishi becoming chairman of Tiruvannamalai municipality.",
+    "img": "https://th-i.thgim.com/public/incoming/nnhgys/article70699290.ece/alternates/LANDSCAPE_1200/1956010801000401.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadus-saga-of-controversial-governors-begins-with-sri-prakasa-of-the-1950s/article70698930.ece",
+    "time": "2026-03-03T12:43:10.000Z"
   },
   {
     "cat": "Sports",
@@ -385,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-rcb-to-play-five-home-games-at-chinnaswamy-stadium-in-bengaluru/articleshow/128971166.cms",
     "time": "2026-03-03T12:17:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "US-Iran war: PM Modi speaks to leaders of Oman and Kuwait, discusses security of Indians",
-    "desc": "Prime Minister Narendra Modi spoke with the Sultan of Oman and the Crown Prince of Kuwait. Discussions focused on escalating Middle East tensions and the safety of Indians in these nations. India is actively engaging with Gulf partners. The nation prioritizes the well-being of its citizens abroad. India calls for restraint and de-escalation in the region.",
-    "img": "https://static.toiimg.com/photo/msid-128970243,imgsize-1157032.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/us-iran-war-pm-modi-speaks-to-leaders-of-oman-and-kuwait-discusses-security-of-indians/articleshow/128970236.cms",
-    "time": "2026-03-03T11:54:44.000Z"
   },
   {
     "cat": "Sports",
@@ -412,42 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/sufficient-reserves-petrol-minister-hardeep-puri-assures-energy-availability-amid-middle-east-tensions/articleshow/128968926.cms",
     "time": "2026-03-03T11:44:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Allu Arjun steals the show at Allu Sirish’s pre-wedding bash",
-    "desc": "Allu Arjun's protective gesture towards his wife Sneha at Allu Sirish's pre-wedding bash stole the show. He ensured she was comfortable and safe amidst the crowd, winning hearts with his thoughtful actions. The event also saw him interacting with industry colleagues and introducing his son to director Sandeep Reddy Vanga.",
-    "img": "https://static.toiimg.com/photo/msid-128969503,imgsize-222008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-arjun-steals-the-show-at-allu-sirishs-pre-wedding-bash-protective-gesture-towards-wife-sneha-wins-hearts/articleshow/128969503.cms",
-    "time": "2026-03-03T11:41:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "US-Iran war: Indian students moved out of Tehran",
-    "desc": "The Indian Embassy in Tehran has moved most Indian students to safer areas outside the city. This action follows heightened risks due to ongoing US-Iran tensions. The embassy is providing transportation, food, and accommodation. Other Indian nationals in Iran are advised to stay indoors and avoid protests. Emergency helplines are active as the security situation is closely monitored.",
-    "img": "https://static.toiimg.com/photo/msid-128968063,imgsize-1117536.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/us-iran-war-indian-students-moved-out-of-tehran/articleshow/128967957.cms",
-    "time": "2026-03-03T11:09:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Here's how Iran-Israel conflict may impact your kitchen bill, from staples to dessert",
-    "desc": "Middle East tensions are set to inflate your grocery bills, with prices for dal, dry fruits, and sweets potentially soaring up to 30%. Disruptions to trade routes and rising freight charges are impacting supply chains linked to Iran, Israel, and the US. While rice might offer some relief, expect your favorite comfort foods and kitchen staples to become significantly costlier.",
-    "img": "https://static.toiimg.com/photo/msid-128967197,imgsize-2690052.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-turns-up-the-heat-heres-how-iran-israel-conflict-may-impact-your-kitchen-bill-from-staples-to-dessert/articleshow/128962524.cms",
-    "time": "2026-03-03T10:54:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Three Indian seafarers onboard foreign vessels killed, one injured amid escalating Middle East tensions",
-    "desc": "Tragic news from the Middle East as three Indian seafarers lost their lives and one was injured in recent incidents involving foreign-flagged vessels. Amidst escalating US-Iran tensions, maritime authorities are urging extreme caution, enhanced security, and thorough risk assessments for all voyages in the region. The remaining crew are safe, with authorities coordinating support.",
-    "img": "https://static.toiimg.com/photo/msid-128966910,imgsize-1056786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/three-indian-seafarers-onboard-foreign-vessels-killed-one-injured-amid-escalating-middle-east-tensions/articleshow/128966724.cms",
-    "time": "2026-03-03T10:51:54.000Z"
   },
   {
     "cat": "Sports",
@@ -477,24 +639,6 @@ const newsData_en = [
     "time": "2026-03-03T10:43:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "History that frames India’s silence over Khamenei’s demise",
-    "desc": "India's measured response to Iran's supreme leader's assassination, focusing on regional de-escalation, has sparked domestic criticism. While condemning Iranian strikes on Gulf allies, New Delhi has avoided direct condemnation of the killing, prioritizing national interests like energy security and diaspora welfare. This stance contrasts with past criticisms of Iran's internal affairs.",
-    "img": "https://static.toiimg.com/photo/msid-128966563,imgsize-1002391.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-caa-criticism-to-kashmir-remark-history-that-frames-indias-silence-over-khameneis-demise/articleshow/128966016.cms",
-    "time": "2026-03-03T10:42:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'No better feeling': Air India flies 149 stranded passengers to Delhi from Dubai amid escalating West Asia tensions",
-    "desc": "Air India successfully repatriated 149 passengers and 8 crew members from Dubai to Delhi, marking the first international arrival by an Indian carrier. This operation comes as Dubai's airports begin partial resumption of limited flight operations after days of disruption due to escalating regional tensions and airspace restrictions.",
-    "img": "https://static.toiimg.com/photo/msid-128966125,imgsize-1086530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-better-feeling-air-india-flies-149-stranded-passengers-to-delhi-from-dubai-amid-escalating-west-asia-tensions/articleshow/128964012.cms",
-    "time": "2026-03-03T10:34:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "When and where to watch India vs England T20 World Cup semifinal",
     "desc": "India and England are set for a third consecutive T20 World Cup semi-final clash, this time at Mumbai's Wankhede Stadium. The previous two encounters saw the winner go on to lift the trophy, with England winning in 2022 and India triumphing in 2024. This highly anticipated rematch adds another chapter to their storied T20 World Cup rivalry.",
@@ -511,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-93rd-gm-mother-quit-job-for-chess-the-making-of-aarav-dengla-influenced-by-d-gukesh-and-arjun-erigaisi/articleshow/128963986.cms",
     "time": "2026-03-03T10:18:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "GCCs may see short-term hit; here's why India might ultimately win",
-    "desc": "Middle East tensions could temporarily disrupt India's global capability center (GCC) growth. While immediate investments might pause due to uncertainty, experts suggest companies may eventually shift operations to India for greater stability. This could position India as a key beneficiary, though prolonged conflict impacting oil prices poses a risk to global tech spending and India's GCC ambitions.",
-    "img": "https://static.toiimg.com/photo/msid-128964770,imgsize-18930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-crisis-gccs-may-see-short-term-hit-heres-why-india-might-ultimately-win/articleshow/128963947.cms",
-    "time": "2026-03-03T10:10:50.000Z"
   },
   {
     "cat": "Sports",
@@ -549,24 +684,6 @@ const newsData_en = [
     "time": "2026-03-03T09:46:06.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Should you invest in gold ETFs or silver ETFs? Here's what experts suggest",
-    "desc": "Amidst rising geopolitical tensions, investors are flocking to safe-haven assets like gold and silver ETFs. Experts suggest a higher allocation to gold for stability, with silver playing a complementary role. While gold ETFs offer primary protection, silver's industrial demand makes it more volatile. A 10-15% portfolio allocation to precious metals is advised.",
-    "img": "https://static.toiimg.com/photo/msid-128963480,imgsize-170748.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-crisis-should-you-invest-in-gold-etfs-or-silver-etfs-heres-what-experts-suggest/articleshow/128963264.cms",
-    "time": "2026-03-03T09:25:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India reduces gas supplies to industries as Qatar halts production; buyers look for alternatives, tanker rates double to $200,000",
-    "desc": "Qatar remains India’s largest LNG supplier - it accounts for nearly half of the country’s imports last year, based on vessel-tracking information. Qatar remains India’s largest LNG supplier - it accounts for nearly half of the country’s imports last year.",
-    "img": "https://static.toiimg.com/photo/msid-128963161,imgsize-106182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-reduces-gas-supplies-to-industries-as-qatar-halts-production-buyers-look-for-alternatives-tanker-rates-double-to-200000/articleshow/128963018.cms",
-    "time": "2026-03-03T09:01:38.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Only good vibes’: Sachin, Virat lead Holi wishes as cricketers spread festive cheer",
     "desc": "Indian cricketing legends like Sachin Tendulkar, Virat Kohli, and VVS Laxman extended warm Holi wishes, emphasising joy, positivity, and togetherness. Other stars, including Yuzvendra Chahal, Rishabh Pant, Anil Kumble, and Jhulan Goswami, also shared festive greetings, with some reminding fans to celebrate safely and reflect on the festival's deeper meanings.",
@@ -585,15 +702,6 @@ const newsData_en = [
     "time": "2026-03-03T07:59:50.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Rs 11 lakh crore wiped out! How US-Israel-Iran war is hitting stock market investors hard",
-    "desc": "The Sensex plunged by more than 1,000 points, slipping below the 81,000 mark for the first time in over a month. The Nifty 50 also dropped sharply, losing upwards of 300 points and falling beneath the crucial 25,000 support level.",
-    "img": "https://static.toiimg.com/photo/msid-128961338,imgsize-111036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rs-11-lakh-crore-wiped-out-how-us-israel-iran-war-is-hitting-stock-market-investors-hard/articleshow/128961302.cms",
-    "time": "2026-03-03T07:52:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "All England missed, Sindhu lands back in Bengaluru from Dubai",
     "desc": "\"A heartfelt thank you to the incredible ground teams, Dubai authorities, airport staff, immigration, and every single person who stepped up and took such good care of us during a very difficult time. The empathy and professionalism meant more than words can say,” says P.V. Sindhu",
@@ -601,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/i-am-back-home-all-england-missed-sindhu-lands-back-in-bengaluru-from-dubai/article70698366.ece",
     "time": "2026-03-03T07:26:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NMC to verify medical colleges’ patient load through digital systems",
-    "desc": "India's medical colleges are set for a digital transformation in their assessment. The National Medical Commission is now prioritizing online verification of clinical work over traditional inspections. Colleges must submit Health Facility Registry IDs and details on their hospital software integration with national digital health platforms.",
-    "img": "https://static.toiimg.com/photo/msid-128961502,imgsize-1009276.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nmc-to-verify-medical-colleges-patient-load-through-digital-systems/articleshow/128961422.cms",
-    "time": "2026-03-03T07:25:39.000Z"
   },
   {
     "cat": "World",
@@ -799,104 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/tehrans-gandhi-hospital-evacuated-after-explosions-nearby-who-says/article70695950.ece",
     "time": "2026-03-02T14:20:54.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump ‘very disappointed’ with Starmer for initially blocking use of air bases",
-    "desc": "Britain had ​initially denied ‌the U.S. permission to conduct air strikes from its bases, but on March 1, Keir Starmer ​said he was accepting a request for ⁠their use in any “defensive strikes” the U.S. wanted ‌to make against Iranian targets",
-    "img": "https://th-i.thgim.com/public/incoming/jep1at/article70695282.ece/alternates/LANDSCAPE_1200/Trump_36599.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-very-disappointed-with-starmer-for-initially-blocking-use-of-air-bases/article70695262.ece",
-    "time": "2026-03-02T12:14:22.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "War widens across West Asia as U.S., Israel launch joint attack on Iran: In Pictures",
-    "desc": "The killing of Khamenei, and U.S. President Donald Trump’s calls for the overthrow of the decades-old Islamic Republic, marked the start of a stunning new U.S. intervention in West Asia and potentially a prolonged war",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/war-widens-across-west-asia-as-us-israel-launch-joint-attack-on-iran-in-pictures/article70694116.ece",
-    "time": "2026-03-02T12:05:26.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Indian mariner killed as oil tanker attacked in Gulf of Oman",
-    "desc": "The state-run Oman News Agency reported the attack in the Gulf of Oman off the coast of Muscat, the sultanate's capital. It identified the vessel as the MKD VYOM. It said the dead crew member was from India",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/indian-mariner-killed-as-oil-tanker-attacked-in-gulf-of-oman/article70695110.ece",
-    "time": "2026-03-02T11:49:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Vessel traffic through Strait of Hormuz drops \namid West Asia tensions",
-    "desc": "Data from Lloyd’s List show that on February 28, tankers and gas carriers with a total cargo carrying capacity of 6.5 million tons passed through the chokepoint; on March 1, it fell to a quarter of a million",
-    "img": "https://th-i.thgim.com/public/incoming/ad0aq/article70695109.ece/alternates/LANDSCAPE_1200/2026-03-02T054213Z_727688294_RC29U4A8H31Z_RTRMADP_3_IRAN-CRISIS-SHIP-INSURANCE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/vessel-traffic-through-strait-of-hormuz-drops-amid-west-asia-tensions/article70695005.ece",
-    "time": "2026-03-02T11:32:59.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Israeli hospital urgently moves patients underground as Iran crisis deepens",
-    "desc": "Sheeba Medical Center is one of the largest hospitals in Israel. With the ongoing military conflict between Iran and Israel, hospitals have had to shift their patients to underground facilities. The hospital’s parking lot has been transformed into a fortified hospital complex, housing maternity wards, an emergency department and specialist units.",
-    "img": "https://th-i.thgim.com/public/incoming/q99t5h/article70695248.ece/alternates/LANDSCAPE_1200/israel%20hospital1.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-israeli-hospital-urgently-moves-patients-underground-as-iran-crisis-deepens/article70695240.ece",
-    "time": "2026-03-02T11:32:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Captain Shai Hope takes blame for West Indies exit from T20 World Cup, says he ‘should’ve batted faster’",
-    "desc": "West Indies appeared at least 20 runs short against India as Hope ate up 33 balls for his 32, striking at just over 96, including 17 dot balls that probably cost them heavily in a high-scoring contest",
-    "img": "https://th-i.thgim.com/public/incoming/551t/article70694324.ece/alternates/LANDSCAPE_1200/001.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ind-vs-wi-captain-shai-hope-takes-blame-for-west-indies-exit-from-t20-world-cup-says-he-shouldve-batted-faster/article70694321.ece",
-    "time": "2026-03-02T07:31:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Shares of aviation firms, tour operators dive amid West Asia crisis",
-    "desc": "The stock of InterGlobe Aviation tanked 7.50%, while SpiceJet declined by 7.27% on the BSE. Shares of Yatra Online tumbled 11.14%, Easy Trip Planners slumped 9.39%, TBO TEK dived 8.19% and Thomas Cook dropped 5.40%",
-    "img": "https://th-i.thgim.com/public/incoming/rb5khy/article70694087.ece/alternates/LANDSCAPE_1200/IndiGo.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/shares-of-aviation-firms-tour-operators-dive-amid-west-asia-crisis/article70694052.ece",
-    "time": "2026-03-02T06:19:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Iran football federation president says World Cup participation in U.S. is in doubt",
-    "desc": "Iran has been drawn in Group G at the World Cup and is scheduled to play in Inglewood, California, against New Zealand on June 15 and Belgium on June 21 before finishing the first round against Egypt in Seattle on June 26",
-    "img": "https://th-i.thgim.com/public/incoming/i1juyw/article70693889.ece/alternates/LANDSCAPE_1200/2026-02-27T182102Z_1448269501_UP1EM2R1EZ0PA_RTRMADP_3_SOCCER-WORLDCUP-TROPHY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/iran-soccer-federation-president-says-world-cup-participation-in-us-is-in-doubt/article70693886.ece",
-    "time": "2026-03-02T05:18:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "From the valley to the pinnacle of domestic cricket — the J & K story",
-    "desc": "Jammu & Kashmir’s stellar run is a tale of grit, determination and meticulous preparation; it had all bases covered and every member of the squad put his hand up when it mattered most; the next challenge for Dogra’s men will be to sustain the momentum and stay at the summit",
-    "img": "https://th-i.thgim.com/public/incoming/ruhnih/article70692835.ece/alternates/LANDSCAPE_1200/_DSC9096.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/from-the-valley-to-the-pinnacle-of-domestic-cricket-the-j-k-story/article70692834.ece",
-    "time": "2026-03-01T19:26:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "A case of so near and yet so far for a star-studded Karnataka team",
-    "desc": "The final laid bare two of the southern heavyweight’s biggest lacunae — lack of bite when lead spinner Shreyas has an off-day and the pace bowlers’ propensity to not be persistent; the unvarnished truth is that there are no easy teams in the premier domestic competition anymore",
-    "img": "https://th-i.thgim.com/public/incoming/4nggba/article70692784.ece/alternates/LANDSCAPE_1200/_DSC8274.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-a-case-of-so-near-and-yet-so-far-for-a-star-studded-karnataka-team/article70692493.ece",
-    "time": "2026-03-01T18:04:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will leverage tech to crack down on market manipulators, says SEBI chief",
-    "desc": "SEBI Chairman Tuhin Kanta Pandey says the market regulator is using AI to reach out to more investors for awareness; he urges people to use tools such as SEBI Check to deter fraudsters and warns against financial influencers promising astronomical returns; he says SEBI will make sure there is no instability in the markets",
-    "img": "https://th-i.thgim.com/public/incoming/t8apzy/article70692584.ece/alternates/LANDSCAPE_1200/11908_27_2_2026_16_50_37_5_DSC_1921.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/will-leverage-tech-to-crack-down-on-market-manipulators-says-sebi-chief/article70691965.ece",
-    "time": "2026-03-01T17:33:19.000Z"
   }
 ];

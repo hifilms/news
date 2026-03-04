@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Renuka Singh ruled out of Australia Test, India women call up Kashvee Gautam as replacement",
+    "desc": "India women are all set to continue their ongoing multi-format series against Australia with the only Test of the series. The two sides, after taking on each other across three T20Is and three ODI matches,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/renuka-singh-ruled-out-of-australia-test-india-women-call-up-kashvee-gautam-as-replacement-2026-03-04-1032510",
+    "time": "2026-03-04T01:39:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Law of averages to work against South Africa in T20 World Cup semis vs New Zealand? Aiden Markram responds",
     "desc": "South Africa have won seven consecutive matches at the T20 World Cup so far and are only two wins away from winning their second ICC trophy within the last 12 months. They have beaten their...",
     "img": "",
@@ -70,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/travis-head-cameron-green-josh-inglis-set-to-make-shield-return-after-t20-world-cup-exit-2026-03-03-1032435",
     "time": "2026-03-03T09:20:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It's a new era': Sunil Gavaskar previews India's T20 World Cup semi-final clash against England",
-    "desc": "The stage is set for the semi-finals of the ongoing T20 World Cup 2026. India will be locking horns with England in the second semi-final of the tournament at the Wankhede Stadium in Mumbai on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-previews-india-s-t20-world-cup-semi-final-clash-against-england-2026-03-03-1032426",
-    "time": "2026-03-03T08:08:35.000Z"
   }
 ];
