@@ -1,5 +1,86 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "২৭ বছরের দাম্পত্যে ইতি! স্ত্রী সঙ্গীতাকে ২৫০ কোটি টাকার খোরপোশ থালাপতি বিজয়ের...",
+    "desc": "তামিল সুপারস্টার থালাপতি বিজয় এবং তাঁর স্ত্রী সঙ্গীতা সোর্নালিঙ্গমের দীর্ঘ ২৭ বছরের দাম্পত্য বিচ্ছেদের খবর বিনোদন জগতে শোরগোল ফেলে দিয়েছে। এরই মাঝে উঠে এসেছে আরেকটি চাঞ্চল্যকর তথ্য। শোনা যাচ্ছে, পরিবারের মর্যাদা রক্ষা এবং আইনি জটিলতা এড়াতে তিনি স্ত্রী সঙ্গীতা এবং দুই সন্তান— জেসন সঞ্জয় ও দিব্যা সাশাকে মোট ২৫০ কোটি টাকা খোরপোশ দেওয়ার প্রস্তাব দিয়েছেন বিজয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/vijay-thalapathy-sangeetha-divorce-250-crore-alimony-trisha-krishnan_643684.html ",
+    "time": "2026-03-04T15:33:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Pakistan in Israel-Iran War: তালিবানদের মার খেয়েও শোধরায়নি স্বভাব, ইরান-ইসরায়েল যুদ্ধে এবার পাকিস্তানের এন্ট্রি...",
+    "desc": "পাকিস্তানের বিদেশমন্ত্রী ইশাক দারের হুমকি, সৌদি আরবের ওপর হামলা হলে পাকিস্তান হাত গুটিয়ে বসে থাকবে না। কিন্তু একদিকে ধসে পড়া অর্থনীতি, অন্যদিকে অভ্যন্তরীন অস্থিরতা, এই পরিস্থিতিতে সৌদি আরবের হয়ে ইরানের বিরুদ্ধে যুদ্ধ বিমান মোতায়েন করা পাকিস্তানের জন্য আত্মঘাতী সিদ্ধান্ত নয় কি?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/pakistan-iran-israel-war-saudi-arabia-defence-pact-ishaq-dar_643680.html ",
+    "time": "2026-03-04T14:31:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ভারতকে প্রতি সপ্তাহে ৯৫ লক্ষ ব্যারেল অপরিশোধিত তেল সরবরাহে প্রস্তুত রাশিয়া! কী করবে নয়াদিল্লি?",
+    "desc": "ভারতের জ্বালানি সমস্যার সমাধান করতে ভারতের পাশে দাঁড়াচ্ছে রাশিয়া। ভারতের প্রয়োজনে অন্য পথে ভারতকে তেল সরবরাহ করতে প্রস্তুত রাশিয়া। সংবাদ সংস্থা রয়টার্সের রিপোর্ট অনুযায়ী, প্রায় ৯৫ লক্ষ ব্যারেল রাশিয়ার অপরিশোধিত তৈল বোঝাই জাহাজ রয়েছে ভারতের কাছেই।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Fertilizer-2026-03-52dd198b9e7bd8cb421fba0d7a005054-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/crude-oil-amid-us-iran-conflict-russia-ready-to-send-oil-to-india-to-manage-crude-oil-supply-in-india-rdp-2569129.html",
+    "time": "2026-03-04T14:23:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ফেব্রুয়ারিতেই ভেঙেছে গরমের রেকর্ড! 'এল নিনোর' চোখ রাঙানিতে অস্থির হতে পারে গোটা ভারত! অপেক্ষা করছে ভয়ঙ্কর দিন",
+    "desc": "মার্চ থেকে মে মাস পর্যন্ত ভারতের অধিকাংশ অংশে স্বাভাবিকের চেয়ে বেশি তাপপ্রবাহের দিন থাকার সম্ভাবনা রয়েছে। তবে পূর্ব উত্তর প্রদেশ, বিহার, ঝাড়খণ্ড, গঙ্গীয় পশ্চিমবঙ্গ, ওড়িশা, ছত্তিশগড়, তেলঙ্গানা, রায়লসিমা ও আন্ধ্রপ্রদেশের দক্ষিণাঞ্চল এবং পশ্চিমের গুজরাট ও রাজস্থান সবচেয়ে বেশি প্রভাবিত হতে পারে। আবহাওয়াবিদরা বলছেন, এই অঞ্চলগুলো প্রাকৃতিকভাবে তাপপ্রবাহের জন্য সংবেদনশীল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/summer-2026-02-490fdfa8b7466c790a52b10b158ed763-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/temperatures-hit-38c-as-march-begins-experts-warn-of-hotter-year-with-el-nino-comeback-smc-2569158.html",
+    "time": "2026-03-04T14:01:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel-US war: ভয়ংকর গোপনীয়তার সঙ্গে ইরানে বিদ্রোহী কুর্দিদের হাতে মারণাস্ত্র তুলে দিচ্ছে আমেরিকা! সামনে ভয়ংকর...",
+    "desc": "ট্রাম্প প্রশাসন ইরানের সরকারবিরোধী সংগঠন ও কুর্দি নেতাদের সঙ্গে সক্রিয়ভাবে আলোচনা চালিয়ে যাচ্ছে। তাদের ‘সামরিক সহায়তা’ দেওয়াই এসব আলোচনার মূল লক্ষ্য। ইরান-ইরাক সীমান্তে ইরানের কুর্দি সশস্ত্র সংগঠনগুলির হাজার-হাজার যোদ্ধা ছড়িয়ে ছিটিয়ে আছে। ইরাকের স্বশাসিত কুর্দিস্তান ইরানের বিদ্রোহী কুর্দিদের মূল ঘাঁটি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/cia-working-to-arm-kurdish-forces-to-spark-uprising-in-iran-in-iran-israel-us-war-donald-trump-plan_643665.html ",
+    "time": "2026-03-04T13:17:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel Conflict: 'কোনও নেতাকে মাথা তুলতে দেব না' খামেনেই পুত্রের উপর প্রাণঘাতী হামলা করে হুঙ্কার ইজরায়েলের! অল্পের জন্য জীবনরক্ষা মোজতবার",
+    "desc": "ইরানের সর্বোচ্চ নেতা আয়াতোল্লাহ আলি খামেনেইয়ের মৃত্যুর পরে ওই পদে যে বসবে তাঁকেই হত্যা করা হবে বলে হুমকি দিয়েছিল ইজরায়েল। খামেনেইয়ের মৃত্যুর পরে তাঁর দ্বিতীয় পুত্র মোজতবা আলি খামেনেইয়ের পদে আসীন হওয়ার জল্পনা শুরু হতেই এবার তাঁর উপর আক্রমণ করল ইজরায়েল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/mujtava-1-2026-03-05f22926a3a3dcd2a44e6ab8a7596ad4-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/mojtaba-khamenei-seen-as-possible-next-supreme-leader-has-survived-attacks-on-iran-sources-say-smc-2569091.html",
+    "time": "2026-03-04T13:14:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ইরান সঙ্কটের জের! দু'দিনে বম্বে শেয়ার বাজার থেকে মুছে গেল ৯.৭ লক্ষ কোটি টাকা, মাথায় হাত বিনিয়োগকারীদের",
+    "desc": "প্রায় ৯.৭ লক্ষ কোটি টাকার সম্পদ উড়ে গিয়েছে শেয়ার বাজার থেকে। বড় পতনের কারণে ইনভেস্টরদের সম্পদ ব্যাপকভাবে কমে গেছে। বুধবার ভারতীয় টাকার দাম ৬৮ পয়সা কমে মার্কিন ডলারের তুলনায় ৯২.১৭-এ পৌঁছেছে, যা এখন পর্যন্ত সর্বনিম্ন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Sensex-2026-03-30ced17e7275f55b0d05f7c460f691ce-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/huge-loss-for-indian-share-markets-as-nearly-10-lakh-crore-wealth-of-investors-erased-in-just-2-days-for-iran-israel-us-crisis-rdp-2569010.html",
+    "time": "2026-03-04T13:09:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "৫ মার্চ পরিবহণ ধর্মঘট, জানেন? বিক্ষুব্ধ চালকরা, কী দাবি, কেন এমন ভোগান্তির চরম পথ?",
+    "desc": "সেন্ট্রাল মোটর ভেহিকেলস রুলস-এর অধীনে চালকদের ওপর চড়া জরিমানা করা হচ্ছে। ক্ষোভের মূল কারণ হলো ২০২৬ সালের সংশোধিত নিয়ম অনুযায়ী, কোনো চালক যদি জরিমানার বিরুদ্ধে আদালতের শুনানি চান, তবে তাকে আগে জরিমানার ৫০ শতাংশ টাকা জমা দিতে হবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/transport-strike-march-5-why-drivers-are-protesting-how-it-may-affect-you-and-what-we-know-so-far_643656.html ",
+    "time": "2026-03-04T13:05:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "রেয়াত করা হত না কোনও নায়ক-নায়িকাকে, ডোবানো হত রং-এর চৌবাচ্চায়! রাজ কাপুরের আর.কে স্টুডিওর হোলির ভিডিও দেখুন",
+    "desc": "ধীরে ধীরে, এটি একটি ব্যক্তিগত পার্টি থেকে একটি বড় শিল্প-ব্যাপী সমাবেশে পরিণত হয়।এই হোলির সবচেয়ে বড় বিশেষত্ব ছিল এখানে ছোট-বড় কেউ ছিল না।একদিকে ছিলেন ইন্ডাস্ট্রির সবচেয়ে বড় তারকারা, অন্যদিকে ছিলেন স্টুডিওর স্পট বয় এবং টেকনিশিয়ানরা। সবাই যেন একই আলোয় রাঙানো।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Holi-celebration-2026-03-6ebcb014ef9e22facbe5a5f7141b1ef1-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/raj-kapoor-rk-studio-holi-celebration-parties-were-memorable-all-bollywood-stars-and-crew-participated-pbd-2569067.html",
+    "time": "2026-03-04T12:51:11.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ডবল ডেকার বন্দে ভারত: ছোট দূরত্বের ট্রেন যাত্রায় নতুন যুগের সূচনা, বদলে যাবে রেল সফরের অভিজ্ঞতা...",
     "desc": "বর্তমানে ভারতীয় রেলের ডবল ডেকার ট্রেনে প্রতিটি কামরায় বসতে পারেন ১১৬ জন যাত্রী। সাধারণ চেয়ার কারে যেখানে জায়গা হয় মাত্র ৭৮ জনের, সেখানে দোতলা কামরায় প্রায় ৪৯ শতাংশ বেশি যাত্রী বহন সম্ভব। চেন্নাই-ব্যাঙ্গালোর রুটে ডবল ডেকার ট্রেনে চড়ে যাত্রীরা ইতিমধ্যে এর সুফল পেয়েছেন — ভাড়া শতাব্দী বা বন্দে ভারতের প্রায় অর্ধেক, অথচ যাত্রার মান বেশ ভালো।",
@@ -817,86 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/business/bangla-news-moringa-flower-is-very-much-effective-to-enhance-earning-skills-arn-2559948.html",
     "time": "2026-02-27T00:27:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বাংলায় ক্ষমতা পেলেই অনুপ্রবেশ বন্ধ! শাহের গলায় কড়া হুঁশিয়ারি",
-    "desc": "অনুপ্রবেশ ইস্যুতে ফের চড়া সুর শাহের। বাংলায় ক্ষমতায় এসেই অনুপ্রবেশে কড়া পদক্ষেপের হুঁশিয়ারি। সীমান্ত এলাকার জনবিন্যাস পরিবর্তন খতিয়ে দেখতে কমিটি। মার্চ মাসেই বিজেপির পরিবর্তন যাত্রায় অংশ নিতে বাংলায় আসছেন দেশের স্বরাষ্ট্রমন্ত্রী অমিত শাহ। তার আগেই বিহার থেকে বড় কথা বলে দিলেন শাহ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Amit-Shah-2026-02-3a07c1f925ef43c9adea4434d9fa84f9-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/amit-shah-on-claims-bjp-win-in-west-bengal-rc-2559865.html",
-    "time": "2026-02-26T18:06:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "পাক-আফগান লড়াই, এবার প্রতিশোধের হামলা চালাল তালিবান, বহু পাক নাগরিকের মৃত্যু, অশান্ত ডুরান্ড লাইন",
-    "desc": "পাকিস্তানের উপর পূর্ণ মাত্রার আক্রমণ শুরু করেছে আফগানিস্তান। তাদের দাবি, বৃহস্পতিবার রাত থেকে শুরু হওয়া ভারী গোলাবর্ষণ সীমান্তে বসবাসকারী মানুষের নিত্যদিনের জীবন ব্যাহত করেছে। নাঙ্গারহার এবং পাকতিয়া প্রদেশে সাম্প্রতিক হামলার পর আফগান সেনাবাহিনীর এই পাল্টা হামলা পাকিস্তানের জন্য বড় বিপদ ডেকে আনতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Afghanistan-attacks-Pakistan-2026-02-2a4d8f8cb0a20b099589a3e4fee45d8b-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/afghan-taliban-fighters-attacks-pakistan-security-checkpoints-as-revenge-pakistan-suffers-heavy-casualties-pbd-2559812.html",
-    "time": "2026-02-26T17:50:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ব্যাটেই দিলেন সমালোচকদের জবাব! নিজের মেজাজেই রানে ফিরলেন অভিষেক শর্মা",
-    "desc": "বিশ্বের পয়লা নম্বর টি-২০ ব্যাটার তিনি। কিন্তু টি-২০ বিশ্বকাপের প্রথম ৩ ম্যাচে শূন্য রান ও চতুর্থ ম্যাচে ১৫ রান করার পর দলে তার জায়গা পাওয়া নিয়ে উঠছিল প্রশ্ন। অবশেষে সমালোকদের ব্যাটেই জবাব দিলেন অভিষেক শর্মা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Abhishek-Sharma-46-2026-02-a05d45b56eef07e06fa3785035f4f757-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/ind-vs-zim-abhishek-sharma-score-half-century-in-26-balls-against-zimbabwe-in-t20-world-cup-2026-sup-2559601.html",
-    "time": "2026-02-26T14:42:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'ইজরায়েলে' ভারতীয় ৫০ টাকার 'মূল্য' কত হবে জানেন...? 'উত্তর' শুনলেই চমকাবেন, শিওর!",
-    "desc": "আজই ইজরায়েলের প্রেসিডেন্টের সঙ্গে দীর্ঘ বৈঠক হয় প্রধানমন্ত্রী নরেন্দ্র মোদির। এই পরিস্থিতিতে দুদেশের মুদ্রা ফের একবার প্রাসঙ্গিক হয়ে উঠেছে। আচ্ছা বলুন তো কোন দেশের মুদ্রা তুলনামূলক ভাবে বেশি শক্তিশালী। এক ইজরায়েলি মুদ্রা ঠিক কতটা ভারতীয় মুদ্রার টাকার নিরিখে? চলুন আজ এই প্রতিবেদনে সোশ্যাল মিডিয়ায় আজ অত্যন্ত প্রাসঙ্গিক ও ট্রেন্ডিং এই দেশটির মুদ্রার গুরুত্ব জেনে নেওয়া যাক।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/israel-2026-02-99a0d187480c036b485475de2e382426-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-israeli-shekel-do-you-know-how-much-the-indian-50-rupee-note-is-worth-in-israel-you-will-be-shoched-to-hear-the-answer-for-sure-check-interesting-fact-sanj-2559211.html",
-    "time": "2026-02-26T12:37:22.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ফ্রি যুগের অবসান? হোয়াটসঅ্যাপ-ফেসবুক-ইনস্টাগ্রামে আসছে সাবস্ক্রিপশন! জানুন...",
-    "desc": "Meta Platforms WhatsApp, Facebook এবং Instagram–এ এআই পরিষেবার জন্য ফি নেওয়ার পরিকল্পনা করছে বলে জানা গেছে।তবে সাধারণ ও প্রয়োজনীয় ব্যবহার আগের মতোই বিনামূল্যে থাকতে পারে, আর উন্নত এআই ফিচারগুলির জন্য আলাদা করে অর্থ প্রদান করতে হতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1772105890_social-media-2026-01-8faf6497ffde40c65c4f70d1c84910d7-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/now-charging-fees-to-use-whatsapp-facebook-instagram-meta-company-plans-smc-2559312.html",
-    "time": "2026-02-26T11:54:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "আগামিকাল রিলিজ নয় , দ্য কেরালা স্টোরি ২-র মুক্তিতে ১৫ দিনের স্থগিতাদেশ দিল কেরল হাইকোর্ট",
-    "desc": "টিজার প্রকাশের পর থেকেই বিতর্কে জড়িয়েছে এই ছবি। ছবিটি ২৭শে ফেব্রুয়ারি, অর্থাৎ আগামিকাল, প্রেক্ষাগৃহে মুক্তি পাওয়ার কথা ছিল৷ কিন্তু কেরল হাইকোর্টের নির্দেশে মুক্তি স্থগিত হয়েছে। কেরল হাইকোর্ট বিতর্কিত ছবিটির উপর ১৫ দিনের অন্তর্বর্তীকালীন স্থগিতাদেশ জারি করেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/the-Kerala-story-2-2026-02-00b54d8cb0c58aa9682b1144e0cadb5f-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/the-kerala-story-2-not-to-release-on-27-february-the-kerala-high-court-directed-stays-for-15-days-says-cbfc-ignored-guidelines-pbd-2559254.html",
-    "time": "2026-02-26T11:36:03.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "৪ মার্চের অ্যাপল ইভেন্টে iPhone 17e থেকে শুরু করে আসতে পারে সস্তা MacBook, পাঁচটি নতুন পণ্য নিয়ে জেনে নিন",
-    "desc": "প্রযুক্তির দুনিয়ায় যা-ই হয়ে যাক না কেন, থেমে থাকলে চলে না। এই প্রযুক্তির দুনিয়া প্রতি মুহূর্তে বদলে বদলে যায় বললে খুব একটা ভুল বোধহয় হবে না, প্রতি পলেই চলে নতুন উদ্ভাবন নিয়ে পরীক্ষার পালা। না হলে প্রতিযোগী এবং নিজের পুরনো উদ্ভাবনের কাছেও নতি স্বীকার করে নিতে হয়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/iphone-17e-macbook-2026-02-1edaf74ae30d77df82d657ad1d1a4d53-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/apple-march-4-event-iphone-17e-macbook-ipad-accessories-launch-expected-sal-tc-aa-2555428.html",
-    "time": "2026-02-26T11:30:59.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "১ মার্চ, ২০২৬ থেকে OnePlus 15R সহ অনেক স্মার্টফোনের দাম বাড়তে পারে, দামে বিরাট উর্ধ্বগতি, AI ট্যাক্সের কারণে",
-    "desc": "OnePlus হয়তো তার সর্বশেষ স্মার্টফোন OnePlus 15R-এর দাম বাড়ানোর প্রস্তুতি নিচ্ছে। এই ফোনটি গত বছর ভারতে ৪৭,৯৯৯ টাকার প্রারম্ভিক মূল্যে লঞ্চ হয়েছিল এবং এর শক্তিশালী পারফরম্যান্স, বড় ব্যাটারি এবং চিত্তাকর্ষক ডিসপ্লের কারণে এটি বেশ জনপ্রিয়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/OnePlus-15R-2026-02-800b97f219dd2237f789328e026852b5-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/oneplus-15r-smartphone-price-hike-march-2026-ai-tax-india-sal-tc-aa-2558686.html",
-    "time": "2026-02-26T11:01:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভেষজ-ঔষধি গুণে ঠাসা, দিন দিন বাড়ছে কদর! ডাটা নয়, সজনে ফুলেই এইভাবে লক্ষ টাকা আয় করছেন সুন্দরবনের যুবকরা",
-    "desc": "সজিনা ফুল এখন আর কেবল ঘরোয়া সবজি নয়, এটি একটি বহুমুখী ওষধি সম্পদ। ডাটা হওয়ার আগেই ফুল সংগ্রহ করে বাজারে বিক্রি করলে মিলছে রেকর্ড পরিমাণ মুনাফা। কম পুঁজিতে ভেষজ ব্যবসার এই নতুন দিশা সম্পর্কে জেনে নিন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sajne-flower-business-2026-02-5022b5d281a2f8d67a79fca3d9130e5e-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/north-24-parganas-money-making-tips-sunderban-sajne-flower-farming-moringa-flower-business-hidden-business-idea-l18-local18-2558779.html",
-    "time": "2026-02-26T09:11:58.000Z"
   }
 ];

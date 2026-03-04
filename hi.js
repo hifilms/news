@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India coach previews semi-final clash against England, says 'good shootout between two aggressive teams'",
+    "desc": "This will mark the third consecutive T20 World Cup semi-final that India will play against England. In the 2022 edition in Australia, the Three Lions had the last laugh and went on to win the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-coach-previews-semi-final-clash-against-england-says-good-shootout-between-two-aggressive-teams-2026-03-04-1032599",
+    "time": "2026-03-04T14:51:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Ish Sodhi not playing for New Zealand vs South Africa in T20 World Cup 2026 semi-final?",
+    "desc": "New Zealand have benched star spinner Ish Sodhi in their semi-final clash against South Africa at the Eden Gardens in Kolkata. Revealing the reason behind the move, captain Mitchell Santner explained that it’s purely strategic...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ish-sodhi-not-playing-for-new-zealand-vs-south-africa-in-t20-world-cup-2026-semi-final-2026-03-04-1032595",
+    "time": "2026-03-04T13:29:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand need 170 runs vs SA to qualify for T20 World Cup 2026 final",
+    "desc": "South Africa to host New Zealand in the first semi-final of the T20 World Cup 2026 at the Eden Gardens in Kolkata. The Proteas have played some phenomenal cricket in the ongoing tournament, being unbeaten...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-vs-new-zealand-t20-world-cup-semi-final-match-live-cricket-score-online-updates-from-eden-gardens-kolkata-1032594",
+    "time": "2026-03-04T13:03:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rodrygo ruled out of FIFA World Cup, posts 'Do I deserve this?' on social media",
     "desc": "Real Madrid and Brazil forward Rodrygo Goes has been ruled out of the season, including the FIFA World Cup, scheduled to begin on June 11, 2026. The 25-year-old hurt his ACL and meniscus in his...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-t20i-squad-comparison-abhishek-samson-vs-salt-buttler-which-openers-have-better-stats-2026-03-04-1032543",
     "time": "2026-03-04T06:13:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Eden Gardens in Kolkata play in T20 WC semi-final?",
-    "desc": "South Africa and New Zealand will take on each other in the 1st semi-final of the ongoing T20 World Cup 2026. The two sides will lock horns at the Eden Gardens in Kolkata on March...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sa-vs-nz-pitch-report-how-will-surface-at-eden-gardens-in-kolkata-play-in-t20-wc-semi-final-2026-03-04-1032526",
-    "time": "2026-03-04T04:34:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What will happen if SA vs NZ T20 World Cup semifinal gets washed out? Check details",
-    "desc": "The stage is set for the 1st semi-final of the ongoing T20 World Cup 2026. New Zealand and Sri Lanka will take on each other at the Eden Gardens in Kolkata on March 4. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-will-happen-if-sa-vs-nz-t20-world-cup-semifinal-gets-washed-out-check-details-2026-03-04-1032519",
-    "time": "2026-03-04T03:47:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will rain spoil NZ vs SA T20 World Cup 2026 semi-final clash?",
-    "desc": "The stage is set for the first semi-final of the ongoing T20 World Cup 2026. New Zealand will take on South Africa at the Eden Gardens in Kolkata on March 4; it is worth noting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kolkata-weather-report-will-rain-spoil-nz-vs-sa-t20-world-cup-2026-semi-final-clash-2026-03-04-1032515",
-    "time": "2026-03-04T02:44:06.000Z"
   }
 ];

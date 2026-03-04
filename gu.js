@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "અભિષેક શર્મા સેમિફાઇનલમાં નહીં રમે ? મેચ પહેલા કોચે કર્યો ખુલાસો",
+    "desc": "T20 વર્લ્ડ કપ 2026ની સેમિફાઇનલ મેચ ભારત અને ઇંગ્લેન્ડ વચ્ચે રમાશે. આ મેચમાં અભિષેક શર્માના રમવા અંગે સસ્પેન્સ છે. કેટલાક લોકોએ અનુમાન લગાવ્યું હતું કે અભિષેકને તક નહીં મળે. હવે ભારતના બોલિંગ કોચ મોર્ને મોર્કેલે ખુલાસો કર્યો છે કે અભિષેક આગામી મેચમાં રમશે કે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bowling-coach-clears-abhishek-sharma-playing-semifinal-t20-world-cup-467214 ",
+    "time": "2026-03-04T15:27:46.000Z"
+  },
+  {
     "cat": "World",
-    "title": "ખામેનેઈની હત્યા માટે ટ્રમ્પ સામે થઈ શકે છે કેસ ? જાણો શું છે ઇન્ટરનેશનલ લો",
+    "title": "ભારતથી પરત ફરી રહેલા ઈરાની જહાજ પર સમુદ્રમાંથી હુમલો ! અનેક લોકોના મોત, 100થી વધુ ગુમ",
+    "desc": "શ્રીલંકાના દક્ષિણ કિનારા પર એક સબમરીન દ્વારા ઈરાની જહાજ પર હુમલો કરવામાં આવ્યો હતો, જેમાં અનેક લોકો માર્યા ગયા હતા, 100થી વધુ લોકો ગુમ થયા અને ઘણા ઘાયલ થયા હતા. હજુ સુધી કોઈએ જવાબદારી લીધી નથી, અને ગુનેગારોની ઓળખ થઈ નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iranian-ship-returning-from-india-attacked-from-the-sea-many-people-killed-more-than-100-missing-467199 ",
+    "time": "2026-03-04T14:14:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "US-Israel Attacks Iran LIVE: મહાયુદ્ધ : 1100 મોત, 11 દેશો લપેટામાં અને ઈરાનના નવા સુપ્રીમ લીડર; જાણો યુદ્ધની 12 વિસ્ફોટક અપડેટ્સ!",
+    "desc": "ઈઝરાયેલ અને ઈરાન વચ્ચેનો આ જંગ કેટલો લાંબો ચાલશે એ કહેવું વહેલું છે ભલે ઈઝરાયેલ અને અમેરિકા થોડા દિવસોમાં યુદ્ધ સમાપ્તીના દાવા કરી રહ્યા હોય પણ ઈરાન ઘૂંટણીયે પડે તેવી સ્થિતિ નથી. ઈરાને આજે પણ હુમલા કર્યા છે. આ યુદ્ધમાં અત્યારસુધી 1100થી વધારે લોકોના મોત થયા છે. ઈરાનમાં 2000 હુમલાઓ થવા છતાં ઈરાન ચૂપ નથી. જાણી લો છેલ્લા 24 કલાકમાં આ યુદ્ધમાં શું શું થયું...અમે અહીં તમને 12 અપડેટ આપી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/israel-vs-iran-live-updates-tehran-bombed-attack-middle-east-tensions-467188 ",
+    "time": "2026-03-04T13:04:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ખામેનેઈની હત્યા માટે ટ્રમ્પ સામે થઈ શકે છે કેસ ? જાણો શું કહે છે ઇન્ટરનેશનલ કાયદો",
     "desc": "28 ફેબ્રુઆરીના રોજ અમેરિકા-ઇઝરાયલી હુમલામાં ઈરાનના સુપ્રીમ લીડર અયાતુલ્લાહ અલી ખામેનેઈની હત્યા થઈ હતી, જેના કારણે કાનૂની વિવાદ થયો છે. ટીકાકારો કહે છે કે આ કાર્યવાહી કોંગ્રેસ અને યુએનની મંજૂરી વિના કરવામાં આવી હતી. ત્યારે આ લેખમાં જાણીશું કે, ખામેનેઈની હત્યા માટે ટ્રમ્પ સામે કાર્યવાહી થઈ શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/trump-broke-the-law-to-assassinate-khamenei-know-what-will-be-punishment-467190 ",
-    "time": "2026-03-04T12:43:31.000Z"
+    "time": "2026-03-04T12:57:27.000Z"
   },
   {
     "cat": "Business",
@@ -16,15 +43,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/this-tata-stock-is-making-waves-even-in-recession-jumped-66-percent-in-4-days-know-467189 ",
     "time": "2026-03-04T12:37:12.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "US-Israel Attacks Iran LIVE: મહાયુદ્ધ : 1100 મોત, 11 દેશો લપેટામાં અને ઈરાનનો નવો સુપ્રીમ લીડર; જાણો યુદ્ધની 12 વિસ્ફોટક અપડેટ્સ!",
-    "desc": "ઈઝરાયેલ અને ઈરાન વચ્ચેનો આ જંગ કેટલો લાંબો ચાલશે એ કહેવું વહેલું છે ભલે ઈઝરાયેલ અને અમેરિકા થોડા દિવસોમાં યુદ્ધ સમાપ્તીના દાવા કરી રહ્યા હોય પણ ઈરાન ઘૂંટણીયે પડે તેવી સ્થિતિ નથી. ઈરાને આજે પણ હુમલા કર્યા છે. આ યુદ્ધમાં અત્યારસુધી 1100થી વધારે લોકોના મોત થયા છે. ઈરાનમાં 2000 હુમલાઓ થવા છતાં ઈરાન ચૂપ નથી. જાણી લો છેલ્લા 24 કલાકમાં આ યુદ્ધમાં શું શું થયું...અમે અહીં તમને 12 અપડેટ આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/israel-vs-iran-live-updates-tehran-bombed-attack-middle-east-tensions-467188 ",
-    "time": "2026-03-04T12:15:10.000Z"
   },
   {
     "cat": "Sports",
@@ -439,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/pakistan-cricket-board-fines-players-50-lakh-rupees-each-after-t20-world-cup-2026-eliminated-466811 ",
     "time": "2026-03-02T07:16:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાનમાં ચાકબંધ સુરક્ષા, ચકલું પણ ન ફરકી શકે ત્યાં ખામેનેઈના ગઢમાં કોણ હતું એ જાણભેદુ? ચોંકાવનારો ખુલાસો",
-    "desc": "ઈરાનના સુપ્રીમ લીડર ખામેનેઈ અને ટોપ લીડરશીપ કઈ રીતે એક ઝટકે ખતમ થઈ ગયા? આ સવાલ ચર્ચાના ચગડોળે છે. ખુબ જ કડક સુરક્ષા વ્યવસ્થા વચ્ચે કઈ રીતે ખામેનેઈની એક એક માહિતી લીક થઈ? હુમલો ક્યાં અને કેવી રીતે કરવો એ સટીક જાણકારી ઈઝરાયેલ અને અમેરિકા પાસે કેવી રીતે પહોંચી ગઈ. એક રિપોર્ટથી ચોંકાવનારો ખુલાસો થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/explainer-despite-tight-security-how-did-israel-us-get-khamenei-location-details-shocking-revelation-466805 ",
-    "time": "2026-03-02T06:47:36.000Z"
   },
   {
     "cat": "Business",
