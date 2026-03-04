@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "When Rashmika Mandanna shared her emotional perspective on starting a family",
+    "desc": "In a throwback interview, Rashmika Mandanna made heartfelt reflections on motherhood and her now-husband Vijay Deverakonda. Following their dreamy Udaipur wedding on February 26, 2026, this interview has resurfaced where the 'Pushpa' star discussed her protective instincts for her future children and her plans for a balanced life in her 30s. On the work front, Rashmika Mandanna will be seen in 'Cocktail 2' with Shahid Kapoor and Kriti Sanon. She will also be seen in the period drama, 'Ranabaali' opposite Vijay Deverakonda.",
+    "img": "https://static.toiimg.com/photo/msid-129024969,imgsize-256354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/when-rashmika-mandanna-shared-her-emotional-perspective-on-starting-a-family-before-marrying-vijay-deverakonda-id-go-to-war-for-my-kids/articleshow/129024969.cms",
+    "time": "2026-03-04T12:32:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Babar, four others dropped from Pakistan’s squad for ODIs against B'desh",
+    "desc": "Babar Azam has been dropped from Pakistan’s ODI squad for the Bangladesh series after a poor T20 World Cup. Despite a strong ODI record, he is among several senior players left out as Pakistan rebuild for next year’s World Cup. Shaheen Shah Afridi will captain a refreshed squad featuring six uncapped players.",
+    "img": "https://static.toiimg.com/photo/msid-129026938,imgsize-50690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-four-others-dropped-from-pakistans-squad-for-odis-against-bangladesh/articleshow/129025406.cms",
+    "time": "2026-03-04T12:31:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Thai poll body certifies election results, clearing path for new parliament",
+    "desc": "Under ‌the rules, the new ‌parliament ⁠must meet within 15 days of ⁠certification; it will elect a speaker and deputy speaker and will then choose ​a Prime Minister, ‌who will move to form a government",
+    "img": "https://th-i.thgim.com/public/incoming/lkagba/article70703406.ece/alternates/LANDSCAPE_1200/2026-02-12T075108Z_242822283_RC25KJAGU2ZA_RTRMADP_3_THAILAND-ELECTION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/thai-poll-body-certifies-election-results-clearing-path-for-new-parliament/article70703378.ece",
+    "time": "2026-03-04T12:25:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Boong’ trailer out: Gugun Kipgen shines in Manipur drama, Mar 6 – watch it",
+    "desc": "Get ready for an emotional ride this March 6 as 'Boong,' India's groundbreaking BAFTA-recognized film, returns to theaters. This touching story follows a young boy's brave mission to bring his family together, exploring the heart-wrenching themes of childhood innocence and resilience in the face of loss.",
+    "img": "https://static.toiimg.com/photo/msid-129026122,imgsize-130770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/boong-trailer-out-gugun-kipgen-shines-in-the-bafta-winning-drama-set-in-conflict-torn-manipur-ahead-of-march-6-release-watch/articleshow/129026122.cms",
+    "time": "2026-03-04T12:21:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Stalin releases Tamil Nadu Shipbuilding Policy, T.N. Agroforestry Policy 2026",
+    "desc": "Mr. Stalin laid the foundation stone for the first phase of works to develop the Guindy Eco Park. The park will be developed with features including theme gardens, a children’s play area, bird habitat islands, herbal gardens, an aviary habitat centre, lawns, viewing decks and gazebos.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/lxsozc/article70703113.ece/alternates/LANDSCAPE_1200/TN%20Agro%20Policy.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-stalin-releases-tamil-nadu-shipbuilding-policy-tn-agroforestry-policy-2026/article70702876.ece",
+    "time": "2026-03-04T12:07:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. CM Stalin slams BJP govt. at Centre for use of Hindi names in Tamil, English scripts",
+    "desc": "Taking strong objection to the practice of writing Hindi names even in Tamil and English instead of using appropriate terms in the respective languages, Mr. Stalin, in a post on X, described the practice as “one language – three scripts” and said it was a form of Hindi imposition.",
+    "img": "https://th-i.thgim.com/public/incoming/6t7p9/article70702599.ece/alternates/LANDSCAPE_1200/Untitled%20design%2016.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-slams-bjp-govt-at-centre-for-use-of-hindi-names-in-tamil-english-scripts/article70702513.ece",
+    "time": "2026-03-04T12:06:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How India have fared in T20 World Cup semi-finals",
+    "desc": "India enter their sixth T20 World Cup semi-final in 10 editions, facing England at Wankhede. Champions in 2007 and 2024, India have had mixed results—missing semis in 2009-12, finishing runners-up in 2014, and losing semis in 2016 and 2022 to England. Now, the two sides meet for a third straight semi-final in a growing rivalry.",
+    "img": "https://static.toiimg.com/photo/msid-129024524,imgsize-92786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-eng-how-india-have-fared-in-t20-world-cup-semi-finals/articleshow/129023038.cms",
+    "time": "2026-03-04T11:41:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Glenn Maxwell breaks silence on retirement after Australia’s T20 World Cup disaster",
+    "desc": "Glenn Maxwell has no immediate plans to retire from T20 internationals, with the 2028 T20 World Cup and Los Angeles Olympics on his radar. Despite recent speculation, the all-rounder feels he still has plenty to offer and is focused on his fitness and form, with ongoing discussions with selectors about his future.",
+    "img": "https://static.toiimg.com/photo/msid-129023284,imgsize-79064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/glenn-maxwell-breaks-silence-on-retirement-after-australias-t20-world-cup-disaster/articleshow/129023368.cms",
+    "time": "2026-03-04T11:17:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US-Iran war sends shockwaves! Most crude via Strait of Hormuz heads to China, India",
+    "desc": "On the oil, LPG, LNG and trade front, India is vulnerable to the impact of Strait of Hormuz closure. A big chunk of the oil that flows through the Strait of Hormuz every day is headed to China and India.",
+    "img": "https://static.toiimg.com/photo/msid-129023332,imgsize-59196.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-sends-shockwaves-most-crude-via-strait-of-hormuz-heads-to-china-india-how-vulnerable-are-they-after-closure/articleshow/129020947.cms",
+    "time": "2026-03-04T11:16:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The Kerala Story 2 producer reveals replacing Sudipto Sen over his absolute trash script",
+    "desc": "'The Kerala Story 2 Goes Beyond' sequel faces \"WhatsApp forwards\" barbs from ex-director Sudipto Sen. Producer Vipul Shah calls it \"sour grapes,\" reveals Sen's rejected script. Film cleared CBFC pre-court battles; earns Rs 15cr in 5 days despite buzz.",
+    "img": "https://static.toiimg.com/photo/msid-129023046,imgsize-41286.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-kerala-story-2-producer-vipul-shah-reveals-replacing-sudipto-sen-over-his-absolute-trash-script-he-doesnt-know-/articleshow/129023046.cms",
+    "time": "2026-03-04T11:16:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Researchers in Kerala try out land-based nurseries for coral conservation",
+    "desc": "Coral species collected from underwater reefs off Vizhinjam, Thiruvananthapuram, are grown in a controlled environment on land as part of a Kufos project. They will be reintroduced into their natural habitat once they reach a certain level of growth",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/9ffcmf/article70703111.ece/alternates/LANDSCAPE_1200/koral.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/researchers-in-kerala-try-out-land-based-nurseries-for-coral-conservation/article70703116.ece",
+    "time": "2026-03-04T11:09:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nick Jonas shares colorful throwback PIC with Priyanka Chopra",
+    "desc": "Celebrating Holi 2026, Nick Jonas took to social media to share a nostalgic snapshot from a previous Holi with Priyanka Chopra, sparking warm memories among their fans. In parallel, Priyanka shared a poignant tribute to her late father, highlighting how Nick's artistic spirit and musical prowess echo the traits her father would have deeply appreciated.",
+    "img": "https://static.toiimg.com/photo/msid-129022050,imgsize-197360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/nick-jonas-shares-colorful-throwback-pic-with-priyanka-chopra-one-of-my-favorite-holi-memories/articleshow/129022050.cms",
+    "time": "2026-03-04T10:54:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RGV on why Vivek lost his aggressive edge amid Salman feud",
+    "desc": "Ram Gopal Varma says no Bollywood \"camps\" exist—pure self-interest. Advised Vivek to stick to intense 'Company'-style roles like young Nana Patekar, not romances/comedies. Feud stemmed from 2003 Aishwarya Rai row; Vivek alleged Salman's threats, faced boycott despite hits.",
+    "img": "https://static.toiimg.com/photo/msid-129022021,imgsize-25990.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-explains-why-vivek-oberoi-lost-his-aggressive-edge-amid-feud-with-salman-khan-if-he-stuck-close-to-company-kind-of-characters-/articleshow/129022021.cms",
+    "time": "2026-03-04T10:48:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhisheks top spot under threat as Farhan’s twin tons shake ICC rankings",
+    "desc": "Pakistan's Sahibzada Farhan is now second in T20I batting rankings, just behind India's Abhishek Sharma, after scoring two centuries in the World Cup. Several Indian players, including Ishan Kishan and Tilak Varma, have entered the top 10. In bowling, Varun Chakravarthy leads, with Abrar Ahmed close behind. Sikandar Raza remains the top all-rounder.",
+    "img": "https://static.toiimg.com/photo/msid-129021540,imgsize-1132549.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/abhishek-sharmas-top-spot-under-threat-as-sahibzada-farhans-twin-tons-shake-icc-rankings/articleshow/129021396.cms",
+    "time": "2026-03-04T10:41:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka Chopra hints she may skip Met Gala due to ‘Varanasi’ shoot",
+    "desc": "Priyanka Chopra's non-attendance at the 2026 Met Gala is shaped by her duties in the icy backdrop of Antarctica for 'Varanasi.' Though she finds the 'Fashion Is Art' theme tantalizing, her overflowing work commitments hinder her potential participation. At Dior's Paris showcase, she reflected on her unique style evolution, embracing personal expression while stepping away from societal approval.",
+    "img": "https://static.toiimg.com/photo/msid-129019956,imgsize-129616.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/priyanka-chopra-hints-at-met-gala-absence-due-to-varanasi-shoot-being-a-spectator-is-just-as-fun/articleshow/129019956.cms",
+    "time": "2026-03-04T10:39:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TVK chief Vijay sees DMK-AIADMK conspiracy to thwart his rise to power",
+    "desc": "Addressing supporters in Thanjavur, Vijay promised that educational expenses of the wards of farmers owning up to two acres of land and of landless labourers would be borne by the government if TVK is voted to power in the upcoming Assembly election",
+    "img": "https://th-i.thgim.com/public/incoming/3qw2qw/article70702967.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-04%20at%2014.42.02.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-chief-vijay-sees-dmk-aiadmk-conspiracy-to-thwart-his-rise-to-power/article70702650.ece",
+    "time": "2026-03-04T10:39:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MS Dhoni fined Rs 1000 after caught breaking traffic rules",
+    "desc": "MS Dhoni was fined Rs 1000 for overspeeding in Ranchi after an automated system issued an e-challan under the Motor Vehicles Act. He also recently received a notice over alleged misuse of a residential plot. Meanwhile, the 44-year-old is training with Chennai Super Kings, aiming for a stronger IPL 2026 after a poor 2025 season.",
+    "img": "https://static.toiimg.com/photo/msid-129021326,imgsize-55442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ms-dhoni-fined-rs-1000-after-caught-breaking-traffic-rules/articleshow/129020973.cms",
+    "time": "2026-03-04T10:34:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ram Gopal Varma breaks silence on Urmila Matondkar affair rumors",
+    "desc": "In a candid interview recently, filmmaker Ram Gopal Varma responded to the long-standing rumors of a romantic affair with actress Urmila Matondkar. In earlier interactions, the veteran director, known for hits like 'Rangeela' and 'Satya', compared his frequent collaboration with Urmila to his work with Amitabh Bachchan, questioning why only the former sparked such intense romantic speculation.",
+    "img": "https://static.toiimg.com/photo/msid-129017811,imgsize-98882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-breaks-silence-on-urmila-matondkar-affair-rumors-why-would-i-not-say-it/articleshow/129017811.cms",
+    "time": "2026-03-04T10:05:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Pakistan should've done something': Karthik slams England duo",
+    "desc": "After Pakistan’s Super 8 exit at the T20 World Cup 2026, Dinesh Karthik mocked Michael Atherton and Nasser Hussain for previously claiming India had an unfair venue advantage in the Champions Trophy. He said Pakistan enjoyed similar conditions but still failed, adding that by their “logic,” Pakistan should have done better, hinting at a “genuine lack of skill.”",
+    "img": "https://static.toiimg.com/photo/msid-129019928,imgsize-92960.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/by-that-same-logic-pakistan-shouldve-done-something-dinesh-karthik-slams-england-duo-for-earlier-india-remark/articleshow/129019520.cms",
+    "time": "2026-03-04T10:04:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jim Carrey’s publicist confirms he attended 2026 César Awards",
+    "desc": "In a recent turn of events, Jim Carrey's publicist has categorically dismissed swirling conspiracy theories claiming that a body double or clone was present at the César Film Awards in Paris. The rumors gained traction online, sparked by a makeup artist’s social media posts.",
+    "img": "https://static.toiimg.com/photo/msid-129018418,imgsize-79504.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jim-carreys-publicist-issue-statement-on-viral-clone-theory-confirms-actors-attendance-at-2026-csar-awards/articleshow/129018418.cms",
+    "time": "2026-03-04T09:42:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kajol posts a hilarious birthday wish for Tanishaa Mukerji",
+    "desc": "“Is it my birthday or hers??? Happy birthday to the other genetically coded person like me!” Fans loved it. Recently, she shared her first crochet bag. Last in Sarzameen; next, Maharagni: Queen of Queens reunites her with Prabhu Deva.",
+    "img": "https://static.toiimg.com/photo/msid-129018895,imgsize-22624.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kajol-posts-a-hilarious-birthday-wish-for-tanishaa-mukerji-is-it-my-birthday-or-hers-watch-video/articleshow/129018895.cms",
+    "time": "2026-03-04T09:41:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ex-Pakistan captain who beat India in 2017 CT final in line to become head coach",
+    "desc": "Former Pakistan captain Sarfaraz Ahmed is reportedly set to be appointed as the head coach of the Test side. This move comes after the role remained vacant for nearly five months, with Azhar Mahmood temporarily overseeing the team. Sarfaraz's coaching credentials were bolstered by his success with the U-19 team, and an official confirmation is expected soon.",
+    "img": "https://static.toiimg.com/photo/msid-129018231,imgsize-47484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/former-pakistan-captain-who-beat-india-in-2017-champions-trophy-final-in-line-to-become-head-coach/articleshow/129018210.cms",
+    "time": "2026-03-04T09:38:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why India needs to radically rethink its doctoral education programmes",
+    "desc": "India faces many real-world problems that could benefit from high-quality PhD research. These issues span public health, agriculture, sustainability, digital inclusion, and education. The question is whether our current systems support and encourage studies grounded in what the people need",
+    "img": "https://th-i.thgim.com/public/incoming/2r9bfy/article70416754.ece/alternates/LANDSCAPE_1200/PhD%20awardees.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/why-india-needs-to-radically-think-its-doctoral-education-programmes/article70698900.ece",
+    "time": "2026-03-04T09:31:50.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Why the 'win the semifinal, win the trophy' trend matters in India vs England clash",
     "desc": "India and England, both two-time T20 World Cup champions, clash in a highly anticipated semifinal at Wankhede Stadium. With a balanced semifinal record and a chance to become the first three-time winners, this encounter promises intense rivalry. Both teams have relied on collective efforts, setting the stage for a thrilling contest.",
@@ -16,6 +223,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/how-students-resource-maps-can-be-a-gamechanger-in-local-body-planning/article70702676.ece",
     "time": "2026-03-04T09:18:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's services growth eases in February as demand softens, costs rise",
+    "desc": "India's services sector saw a slight slowdown in February, with new business growth hitting a 13-month low due to softer demand and rising inflation. Despite this, international sales surged, prompting increased hiring. The overall private sector, however, experienced its fastest growth in three months, driven by strong manufacturing momentum and improved demand.",
+    "img": "https://static.toiimg.com/photo/msid-129017696,imgsize-102982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/pmi-watch-indias-services-growth-eases-in-february-as-demand-softens-costs-rise/articleshow/129015776.cms",
+    "time": "2026-03-04T09:17:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -108,15 +324,6 @@ const newsData_en = [
     "time": "2026-03-04T07:44:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "T.N. CM Stalin slams BJP govt. at Centre for use of Hindi names in Tamil, English scripts",
-    "desc": "Taking strong objection to the practice of writing Hindi names even in Tamil and English instead of using appropriate terms in the respective languages, Mr. Stalin, in a post on X, described the practice as “one language – three scripts” and said it was a form of Hindi imposition.",
-    "img": "https://th-i.thgim.com/public/incoming/6t7p9/article70702599.ece/alternates/LANDSCAPE_1200/Untitled%20design%2016.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-slams-bjp-govt-at-centre-for-use-of-hindi-names-in-tamil-english-scripts/article70702513.ece",
-    "time": "2026-03-04T07:39:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Vikram On Duty' OTT release: When and where to watch?",
     "desc": "Nikhil Maliyakkal stars as Inspector Vikram Vasu in the new crime thriller 'Vikram On Duty,' premiering on Hotstar March 6. The series follows a determined cop who bends rules to achieve justice in a high-stakes investigation.",
@@ -171,15 +378,6 @@ const newsData_en = [
     "time": "2026-03-04T07:22:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Masi Maham and Valli Kalyanam festivities light up temples",
-    "desc": "As the Maham star reigned for two days, Maasi Maham was celebrated at many temples on Monday (March 2) and Tuesday (March 3), when the utsava idols were taken to the sea for a ceremonial dip",
-    "img": "https://th-i.thgim.com/public/incoming/eg9yl9/article70702541.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-04%20at%2000.03.28.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/masi-maham-and-valli-kalyanam-festivities-light-up-temples/article70700335.ece",
-    "time": "2026-03-04T07:20:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Hilary Duff on Cameron Diaz helping after L.A. wildfires",
     "desc": "Hollywood stars Cameron Diaz and Benji Madden offered refuge to Hilary Duff's family during the devastating January 2025 Los Angeles wildfires. Forced to evacuate their home with four children and pets, Duff's family found solace and support at the couple's residence. The incident highlighted community resilience amidst widespread destruction and displacement caused by the climate-driven disaster.",
@@ -216,24 +414,6 @@ const newsData_en = [
     "time": "2026-03-04T06:56:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "How much ‘The Nutty Professor’ earns",
-    "desc": "Eddie Murphy's financial landscape is nothing short of extraordinary, with estimations of his wealth soaring between $200-250 million by 2026. This comes not just from his monumental movie offerings and smart backend agreements, but also from a hefty $70 million deal with Netflix for stand-up specials.",
-    "img": "https://static.toiimg.com/photo/msid-129011557,imgsize-69926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eddie-murphy-net-worth-inside-the-nutty-professors-usd-250-million-empire/articleshow/129011482.cms",
-    "time": "2026-03-04T06:55:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All about Selena Gomez’s home",
-    "desc": "In a dazzling move, Selena Gomez and her partner Benny Blanco have recently acquired a breathtaking villa in Beverly Hills for a whopping $35 million. This exquisite 7,000-square-foot property, steeped in Spanish flair and built in 1928, features a cozy library, a personal cinema, and opulent gardens.",
-    "img": "https://static.toiimg.com/photo/msid-129011363,imgsize-45632.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/selena-gomez-real-estate-inside-the-calm-down-singers-usd-35-million-beverly-hills-mansion-with-benny-blanco/articleshow/129011363.cms",
-    "time": "2026-03-04T06:51:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Iran football federation president says World Cup participation in U.S. is in doubt",
     "desc": "Iran has been drawn in Group G at the World Cup and is scheduled to play in Inglewood, California, against New Zealand on June 15 and Belgium on June 21 before finishing the first round against Egypt in Seattle on June 26",
@@ -241,15 +421,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/iran-soccer-federation-president-says-world-cup-participation-in-us-is-in-doubt/article70693886.ece",
     "time": "2026-03-04T06:23:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sivakarthikeyan sets new record with Rs. 60 crore salary for ‘Seyon’?",
-    "desc": "Sivakarthikeyan is reportedly commanding a record-breaking Rs. 60 crore for his upcoming film 'Seyon,' solidifying his position among Kollywood's top stars after the success of 'Amaran.' Directed by Sivakumar Murugesan, the rural entertainer is set to begin production in April 2026. The film's first glimpse has generated significant buzz, drawing comparisons to Kamal Haasan's 'Virumaandi.'",
-    "img": "https://static.toiimg.com/photo/msid-129009841,imgsize-46430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sivakarthikeyan-sets-new-record-with-rs-60-crore-salary-for-seyon-reports/articleshow/129009850.cms",
-    "time": "2026-03-04T06:15:35.000Z"
   },
   {
     "cat": "Politics",
@@ -261,15 +432,6 @@ const newsData_en = [
     "time": "2026-03-04T06:14:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jerry Bruckheimer confirms ‘National Treasure 3’",
-    "desc": "Exciting news for treasure hunters! Producer Jerry Bruckheimer has officially announced that 'National Treasure 3' is in active development at Disney, with the script making progress. Fans have been yearning for the return of this iconic franchise for almost two decades, and this update is a beacon of hope.",
-    "img": "https://static.toiimg.com/photo/msid-129009685,imgsize-210548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jerry-bruckheimer-confirms-national-treasure-3-progress-script-is-coming-along-quite-well/articleshow/129009685.cms",
-    "time": "2026-03-04T06:14:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Will Portugal star be fit for FIFA World Cup?",
     "desc": "Cristiano Ronaldo has sustained a hamstring tendon injury, confirmed by his club Al-Nassr FC. The Portuguese star is expected to be sidelined for two to four weeks, a timeline that should allow for his recovery before the 2026 World Cup. The setback occurred during a recent league match, impacting Al-Nassr's title charge and potentially his participation in upcoming friendlies.",
@@ -277,24 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-ronaldo-injured-will-portugal-star-be-fit-for-fifa-world-cup/articleshow/129009296.cms",
     "time": "2026-03-04T06:03:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Selena Gomez opens up about a beautiful handmade gift she received from Taylor Swift",
-    "desc": "Selena Gomez recently shared details about a heartfelt, handmade painting Taylor Swift gifted her for her 30th birthday. The artwork, featuring their zodiac signs and a personal inscription, exemplifies their deep, enduring friendship. Their bond is further celebrated through Taylor's music, with songs like 'Dorothea' and an unreleased track, 'Family,' reflecting their shared past and dreams.",
-    "img": "https://static.toiimg.com/photo/msid-129009063,imgsize-1021529.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/selena-gomez-reveals-the-sweetest-handmade-gift-she-received-from-taylor-swift/articleshow/129009072.cms",
-    "time": "2026-03-04T05:57:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nelson Dilipkumar to shoot Kamal Haasan and Rajinikanth reunion in 'KH x RK' on film cameras",
-    "desc": "Excitement is building for Kamal Haasan and Rajinikanth's reunion film, 'KH x RK,' their first collaboration in 46 years. Director Nelson Dilipkumar is reportedly planning a unique visual style, potentially shooting the entire movie on traditional film cameras. Composer Anirudh Ravichander aimed for a nostalgic sound for the promo, which has garnered positive reactions.",
-    "img": "https://static.toiimg.com/photo/msid-129008582,imgsize-20930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nelson-dilipkumar-to-shoot-kamal-haasan-and-rajinikanth-reunion-in-kh-x-rk-on-film-cameras-reports/articleshow/129008625.cms",
-    "time": "2026-03-04T05:47:09.000Z"
   },
   {
     "cat": "Sports",
@@ -405,24 +549,6 @@ const newsData_en = [
     "time": "2026-03-04T03:44:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why India needs to radically think its doctoral education programmes",
-    "desc": "India faces many real-world problems that could benefit from high-quality PhD research. These issues span public health, agriculture, sustainability, digital inclusion, and education. The question is whether our current systems support and encourage studies grounded in what the people need",
-    "img": "https://th-i.thgim.com/public/incoming/2r9bfy/article70416754.ece/alternates/LANDSCAPE_1200/PhD%20awardees.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/why-india-needs-to-radically-think-its-doctoral-education-programmes/article70698900.ece",
-    "time": "2026-03-04T03:37:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "After All England, Swiss Open in doubt for Sindhu; BWF waives $5,000 penalty",
-    "desc": "PV Sindhu has returned to India after being stranded in Dubai due to airspace closures, forcing her to miss the All England Badminton. She may also skip the Swiss Open due to flight disruptions and ticket unavailability. The BWF waived her $5,000 penalty for the All England no-show, with discussions ongoing regarding ranking points.",
-    "img": "https://static.toiimg.com/photo/msid-129003140,imgsize-349852.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/after-all-england-swiss-open-in-doubt-for-pv-sindhu-bwf-waives-5000-penalty-for-birmingham-no-show/articleshow/129003065.cms",
-    "time": "2026-03-04T03:08:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How Delhi cricket’s rejection shaped Sanju Samson’s resilience",
     "desc": "Sanju Samson's career-defining 97* against West Indies in the T20 World Cup was followed by a candid admission of self-doubt. Despite a stop-start journey, he learned from greats and found inner peace through a \"mental reset,\" ultimately leading India to the semifinals after early setbacks.",
@@ -448,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-the-different-boy-who-never-gave-up/articleshow/128974283.cms",
     "time": "2026-03-04T02:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Canada PM's visit to India built strong foundation for truly renewed partnership: Modi",
-    "desc": "The Canadian Prime Minister was in India from February 27 to March 2, during which India and Canada sealed key pacts on supplies of Uranium and critical minerals and agreed to conclude a comprehensive economic partnership agreement soon.",
-    "img": "https://th-i.thgim.com/public/incoming/161z2n/article70700910.ece/alternates/LANDSCAPE_1200/2th-suhasini-InG4BFLMNDP.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/canada-pms-visit-to-india-built-strong-foundation-for-truly-renewed-partnership-modi/article70700904.ece",
-    "time": "2026-03-04T02:26:33.000Z"
   },
   {
     "cat": "Business",
@@ -549,15 +666,6 @@ const newsData_en = [
     "time": "2026-03-04T00:35:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'The Kerala Story 2' nears Rs 20 crore mark",
-    "desc": "Goes Beyond' is reportedly gaining traction at the box office, boosted by the Holi holiday. The film's Tuesday earnings nearly doubled Monday's collection, nearing Rs 20 crore gross. Despite a slow start due to release controversies, subsequent days saw significant increases.",
-    "img": "https://static.toiimg.com/photo/msid-128998471,imgsize-118334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-5-film-sees-good-growth-on-holi-nears-rs-20-crore-mark/articleshow/128997688.cms",
-    "time": "2026-03-04T00:32:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Qatar halts aluminium production, prices jump",
     "desc": "Aluminum prices surged as QatarEnergy announced a halt to its metal production. This move, driven by disruptions to supply lines due to the Iran conflict, impacts a region crucial for global output. The decision adds to growing concerns for producers and consumers worldwide, highlighting potential supply shortages.",
@@ -583,51 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-tensions-dalal-street-awaits-tense-session-as-crisis-sinks-global-markets/articleshow/128996913.cms",
     "time": "2026-03-03T23:34:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Government sets up panel to help exporters",
-    "desc": "The Indian government has established an inter-ministerial group and a 24/7 helpline to bolster supply chain resilience and support businesses trading with West Asia. This initiative aims to ensure seamless trade and safeguard exporter interests, with the region accounting for a significant portion of India's goods exports. The group will foster coordination across key government departments.",
-    "img": "https://static.toiimg.com/photo/msid-128996882,imgsize-100754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/iran-crisis-government-sets-up-panel-to-help-exporters/articleshow/128996839.cms",
-    "time": "2026-03-03T23:30:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Has become star in short time': Ex-India cricketer blasts Abhishek Sharma",
-    "desc": "Abhishek Sharma's batting form is a concern for India's T20 World Cup 2026 semifinal clash against England. Former cricketers Manoj Tiwary and Irfan Pathan have pointed out issues with his approach and technique. Sharma has struggled for consistency in the tournament. He needs to improve his performance to help India win matches.",
-    "img": "https://static.toiimg.com/photo/msid-128979312,imgsize-43626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/has-become-star-in-short-time-ex-india-cricketer-blasts-abhishek-sharma-before-t20-world-cup-semifinal/articleshow/128978882.cms",
-    "time": "2026-03-03T23:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Amir blasts PCB over fine on players",
-    "desc": "Mohammad Amir has criticized the Pakistan Cricket Board's reported PKR 50 lakh fine on players after their T20 World Cup exit. He argued that selectors and administrators should also be held accountable for poor team selections and performance, suggesting dropping underperforming players instead of fining them.",
-    "img": "https://static.toiimg.com/photo/msid-128981869,imgsize-31398.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/world-cup-exit-sparks-row-in-pakistan-cricket-mohammad-amir-blasts-pcb-over-pkr-50-lakh-fine-on-players/articleshow/128981835.cms",
-    "time": "2026-03-03T23:30:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Indians put Dubai realty buy on hold",
-    "desc": "Indian investors are reconsidering Dubai property purchases due to regional instability, despite its past appeal for rental income and capital appreciation. While developers view the current situation as a temporary setback, the long-term outlook for Dubai's real estate market remains a key concern for potential buyers.",
-    "img": "https://static.toiimg.com/photo/msid-128996780,imgsize-69912.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/real-estate/news/middle-east-tensions-indians-put-dubai-realty-buy-on-hold/articleshow/128996727.cms",
-    "time": "2026-03-03T23:26:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Working to tackle impact, staff safety priority: Chandra",
-    "desc": "Tata Sons chairman N Chandrasekaran acknowledged the West Asia conflict's supply chain impact. He assured that Tata companies have planned alternative measures and are prioritizing employee safety in affected regions. Investments in technology, including hydrogen engines and carbon footprint reduction, are ongoing. New manufacturing jobs are expected with Tata Steel's expansion. AI will create opportunities for TCS.",
-    "img": "https://static.toiimg.com/photo/msid-128996521,imgsize-30028.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/working-to-tackle-impact-staff-safety-priority-chandra/articleshow/128996412.cms",
-    "time": "2026-03-03T23:14:29.000Z"
   },
   {
     "cat": "Politics",
@@ -711,24 +774,6 @@ const newsData_en = [
     "time": "2026-03-03T20:36:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "38 Indian ships stuck in Persian Gulf; 3 sailors dead",
-    "desc": "Thirty-eight Indian-flagged ships, carrying crude and LNG with nearly 1,100 seafarers, are stranded in the Persian Gulf due to the West Asia conflict. Three Indian sailors died and one was injured on foreign-flagged vessels in recent attacks off Oman. Shipping authorities are prioritizing seafarer safety and maritime asset security.",
-    "img": "https://static.toiimg.com/photo/msid-128990468,imgsize-33078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-asia-crisis-38-indian-ships-stuck-in-persian-gulf-3-sailors-dead/articleshow/128989621.cms",
-    "time": "2026-03-03T19:50:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "GoPro trail in Pahalgam terror attack leads to Chinese city, court allows NIA to seek Beijing help",
-    "desc": "NIA has requested China's assistance to identify the buyer of a GoPro camera, crucial evidence in a Lashkar-e-Taiba attack. Activated in Dongguan, China, the camera's origin is vital for tracing terrorist reconnaissance and operational links. This move highlights international cooperation efforts in combating terror.",
-    "img": "https://static.toiimg.com/photo/msid-128989325,imgsize-179892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gopro-trail-in-pahalgam-terror-attack-leads-to-chinese-city-court-allows-nia-to-seek-beijing-help/articleshow/128988692.cms",
-    "time": "2026-03-03T19:40:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "I worked with a baseball coach to improve my power-hitting game: Sanjay Krishnamurthi",
     "desc": "The USA’s up-and-coming batter, who came up with an impressive display in the T20 showpiece, speaks about how India’s triumph in the 2011 ODI World Cup ignited his passion for the game, early days in Bengaluru, the cricketing journey so far, and future plans",
@@ -765,15 +810,6 @@ const newsData_en = [
     "time": "2026-03-03T16:33:35.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Sen pulls off upset, beats China’s Shi Yu Qi at All England Championships",
-    "desc": "Lakshya Sen defeated China’s Shi Yu Qi 23-21, 19-21, 21-17 in a tough three-game match, marking his first BWF World Tour win over the former world No. 1. Praised for staying “very calm and composed,” Lakshya showed strong defence and attack to seal a “very confidence boosting win.” Malvika Bansod lost, while Kapila–Crasto won in mixed doubles.",
-    "img": "https://static.toiimg.com/photo/msid-128981897,imgsize-48308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/indias-lakshya-sen-pulls-off-upset-beats-chinas-shi-yu-qi-at-all-england-open-badminton-championships/articleshow/128981475.cms",
-    "time": "2026-03-03T16:32:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "School attack sparks global alarm as UN calls for accountability",
     "desc": "The United Nations human rights office has called for an impartial investigation into the reported attack on a girls’ school in Iran, describing the incident as “horrific”. U.N. High Commissioner Volker Turk urged the forces behind the strike to examine the circumstances and share findings.",
@@ -781,15 +817,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-school-attack-sparks-global-alarm-as-un-calls-for-accountability/article70700646.ece",
     "time": "2026-03-03T15:50:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kaur's team becomes first women’s cricket team nominated for Laureus honour",
-    "desc": "India’s women’s cricket team has been nominated for the 2026 Laureus World Team of the Year Award after winning their maiden World Cup title. They are the first women’s cricket team to earn this honour, highlighted by a record 339-run chase against Australia. The winners will be announced in Madrid on April 20 by the Laureus World Sports Academy jury.",
-    "img": "https://static.toiimg.com/photo/msid-128979119,imgsize-155688.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-script-history-as-harmanpreet-kaur-led-side-becomes-first-ever-womens-cricket-team-nominated-for-laureus-honour/articleshow/128978397.cms",
-    "time": "2026-03-03T15:22:33.000Z"
   },
   {
     "cat": "World",
@@ -817,24 +844,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/rcb-to-play-five-matches-at-the-chinnaswamy-stadium/article70699801.ece",
     "time": "2026-03-03T14:47:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Resisted Babar's inclusion': Pak selector resigns after team's poor performance in T20 WC",
-    "desc": "Senior selection committee member Aleem Dar has resigned from the Pakistan Cricket Board. This follows the national team's failure to reach the T20 World Cup semifinals. Dar reportedly cited concerns over head coach Mike Hesson's influence in team selection. Pakistan's disappointing performance has led to player fines. Financial benefits will now be tied to performance.",
-    "img": "https://static.toiimg.com/photo/msid-128973652,imgsize-45668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/resisted-inclusion-of-babar-azam-in-squad-pakistan-selector-resigns-after-teams-poor-performance-in-t20-world-cup/articleshow/128972907.cms",
-    "time": "2026-03-03T14:20:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohun Bagan hit with stadium closure for 'spectator misconduct'",
-    "desc": "Mohun Bagan Super Giants have been fined and hit with a partial stadium closure for their upcoming game against Odisha FC on March 6. The Kolkata giants have been found guilty of 'spectator misconduct' during their season opener against the Kerala Blasters on February 14.",
-    "img": "https://static.toiimg.com/photo/msid-128973912,imgsize-71616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/indian-super-league/top-stories/isl-mohun-bagan-hit-with-stadium-closure-for-spectator-misconduct-mbsg-accept-fine-penalty/articleshow/128973918.cms",
-    "time": "2026-03-03T13:20:29.000Z"
   },
   {
     "cat": "World",
@@ -871,15 +880,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/athletics/sad-to-see-kerala-failing-to-keep-its-great-tradition-of-female-athletes-valsamma/article70696098.ece",
     "time": "2026-03-03T10:43:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mother quit job for chess — Making of Aarav Dengla",
-    "desc": "Sixteen-year-old Aarav Dengla has become India’s 93rd Grandmaster (GM). Guided by his mother Shipra, who quit her job to support his career, Aarav rose rapidly from prodigy to champion. Initially trained by GM Pravin Thipsay and then under Vishnu Prasanna, and balancing rigorous academics, he sealed his final GM norm in 2026, emerging as Mumbai’s third Grandmaster.",
-    "img": "https://static.toiimg.com/photo/msid-128965278,imgsize-91590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-93rd-gm-mother-quit-job-for-chess-the-making-of-aarav-dengla-influenced-by-d-gukesh-and-arjun-erigaisi/articleshow/128963986.cms",
-    "time": "2026-03-03T10:18:23.000Z"
   },
   {
     "cat": "World",

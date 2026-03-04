@@ -1,5 +1,68 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "ডবল ডেকার বন্দে ভারত: ছোট দূরত্বের ট্রেন যাত্রায় নতুন যুগের সূচনা, বদলে যাবে রেল সফরের অভিজ্ঞতা...",
+    "desc": "বর্তমানে ভারতীয় রেলের ডবল ডেকার ট্রেনে প্রতিটি কামরায় বসতে পারেন ১১৬ জন যাত্রী। সাধারণ চেয়ার কারে যেখানে জায়গা হয় মাত্র ৭৮ জনের, সেখানে দোতলা কামরায় প্রায় ৪৯ শতাংশ বেশি যাত্রী বহন সম্ভব। চেন্নাই-ব্যাঙ্গালোর রুটে ডবল ডেকার ট্রেনে চড়ে যাত্রীরা ইতিমধ্যে এর সুফল পেয়েছেন — ভাড়া শতাব্দী বা বন্দে ভারতের প্রায় অর্ধেক, অথচ যাত্রার মান বেশ ভালো।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/double-decker-vande-bharat-short-distance-train-revolution-indian-railways_643654.html ",
+    "time": "2026-03-04T12:29:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "জমানার ইতি! রাজ্যসভায় যাচ্ছেন নীতীশ কুমার? বিহারের নতুন মুখ্যমন্ত্রী হবেন কে?",
+    "desc": "সূত্রের খবর, বিহারের মুখ্যমন্ত্রিত্ব ছেড়ে দিয়ে সম্ভবত ফের জাতীয় রাজনীতির দিকে যেতে চলেছেন নীতীশ কুমার৷ তাঁকে রাজ্যসভায় পাঠানো নিয়ে চলছে জোরাল আলোচনা৷ এদিকে, তাঁর রাজনৈতিক উত্তরাধিকারী হিসাবে তাঁর অবর্তমানে বিহারের উপ মুখ্যমন্ত্রীর পদ দেওয়া হচ্ছে নীতীশ কুমারের ছেলে নিশান্ত কুমারকে। আজ পটনায় এনডিএ আইনসভা দলের বৈঠকে এই সমীকরণগুলি চূড়ান্ত হওয়ার কথা রয়েছে বলে মনে করা হচ্ছে।সূত্রের খবর, জেডিইউর জাতীয় নির্বাহী সভাপতি সঞ্জয় ঝা বুধবার সকালে দিল্লি থেকে পটনায় পৌঁছেছেন এবং বিহারের মুখ্যমন্ত্রী নীতীশ কুমারের সঙ্গে দীর্ঘ আলোচনা করেছেন। কেন্দ্রীয় মন্ত্রী রাজীব রঞ্জন সিং, যিনি লল্লন সিং নামেও পরিচিত, আগামিকাল, বৃহস্পতিবার সকালে দিল্লি থেকে পটনায় পৌঁছবেন। এই সমস্ত কিছুই ইঙ্গিত দিচ্ছে বড় ধরনের রদবদলের৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Nitish-kumar-2026-03-ed8dfba3ced1d2d5f7a6a65503852a08-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/nitish-kumar-may-be-is-going-to-rajya-sabha-who-will-be-the-next-hief-minister-of-bihar-sta-2569012.html",
+    "time": "2026-03-04T11:55:55.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "যুদ্ধের আগুন ভারত মহাসাগরেও; ভয়াল সাবমেরিন-হানায় ছিন্নভিন্ন ইরানের জাহাজ, মৃত্যুমিছিল শ্রীলঙ্কায়...",
+    "desc": "যুদ্ধের আঁচ এবার ভারত মহাসাগরেও। শ্রীলঙ্কার বিদেশ মন্ত্রক সূত্রে জানানো হয়েছে, আক্রান্ত জাহাজটির নাম 'আইরিস ডেনা'। এই হামলায় জাহাজটিতে থাকা ১৮০ জন কর্মীর মধ্যে অন্তত ১০১ জন নিখোঁজ, আহত হয়েছেন অন্তত ৭৮ জন, যাঁদের মধ্যে ৩২ জনের অবস্থা অত্যন্ত আশঙ্কাজনক।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/submarine-attacks-iran-ship-sri-lanka-101-missing-amid-israel-us-attack_643649.html ",
+    "time": "2026-03-04T11:46:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "কোলাঘাটের ক্রীড়াপ্রেমীদের দীর্ঘ প্রতীক্ষার অবসান! ইউনিয়ন উচ্চ বিদ্যালয়ের মাঠে যুক্ত হল আধুনিক সুযোগ-সুবিধা, খুশি সকলে",
+    "desc": "কোলাঘাটের একমাত্র খেলার মাঠের দীর্ঘদিনের অভাব অবশেষে পূরণ হল। কোলাঘাট ইউনিয়ন উচ্চ বিদ্যালয়ের এই মাঠে নবনির্মিত ড্রেসিংরুম ও শৌচালয়ের সুবিধা পাওয়ায় খুশির হাওয়া এলাকায়। উন্নত মানের এই মাঠ এখন স্থানীয় প্রতিভাদের বিকাশে আরও সহায়ক হয়ে উঠবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/kolaghat-union-high-school-playground-renovation-2026-03-0acaa98af3bd3952256ad4f22d37014b-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/east-medinipur-news-kolaghat-union-high-school-playground-renovation-dressing-room-l18-local18-2567789.html",
+    "time": "2026-03-04T11:42:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "যুদ্ধেও পয়সা কামানোর পথ খুঁজছে আমেরিকা! বিমার টাকা পেলেই নিরাপত্তা দেবে মার্কিন নৌবাহিনী! অদ্ভুত ঘোষণা ট্রাম্পের",
+    "desc": "হরমুজ প্রণালীতে বাণিজ্যিক ট্যাঙ্কারকে সুরক্ষা দেবে মার্কিন নৌবাহিনী! তবে তার জন্য দিতে হবে রাজনৈতিক বিমার মূল্য! জানালেন ট্রাম্পআমেরিকার সংঘাতের আবহে হরমুজ প্রণালী বন্ধ করেছে ইরান। ফলে আমদানি রফতানির ক্ষেত্রে বিপাকে পড়েছে বহু দেশ। এর মাঝেই বড় ঘোষণা করলেন ট্রাম্প। আমদানি রফতানির ক্ষেত্রে মার্কিন যুক্তরাষ্ট্রের নৌবাহিনীর প্রহরায় ওই হরমুজ প্রণালী পার করবে। কিন্তু, তার জন্য কিছু যুক্তিসঙ্গত মূল্য প্রদান করতে হবে জানান তিনি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/trump-33-2026-03-16f33a998e055c8c9826685f74f80279-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/iran-israel-conflict-trump-says-united-states-development-finance-corporation-to-provide-at-a-very-reasonable-price-traveling-through-the-gulf-smc-2568939.html",
+    "time": "2026-03-04T11:39:11.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "'খামেনেইয়ের পদে যিনি বসবেন তাঁকেই মারব!' উত্তরসূরির নামের সামনে আসতেই চ্যালেঞ্জ দিল ইজরায়েলের মন্ত্রী!",
+    "desc": "ইরানের সর্বোচ্চ পদে যিনি বসবেন তাঁকেই হত্যা করা হবে। ঠিক এই ভাষাতেই হুঁশিয়ারি দিলেন ইজরায়েলের প্রতিরক্ষামন্ত্রী ইজরায়েল কাটজ। বুধবার ইরানের সর্বোচ্চ নেতার পদে যেই বসুন না কেন তাঁকে হত্যা করা হবে সরাসরি হুমকি দিলেন তিনি। প্রয়াত আয়াতোল্লা আলি খামেনেই-এর উত্তরসূরি হিসাবে যিনিই স্থলাভিষিক্ত হবেন তাঁকেই হত্যা করা হবে বলে জানান তিনি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/israel-21-2026-03-4c4d12c8bbb4145bfa6bb2c9f4ac0437-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/israel-vs-iran-israel-defence-ministers-elimination-threat-to-khameneis-successor-smc-2568583.html",
+    "time": "2026-03-04T09:58:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বিগ আপডেট-- যুদ্ধের জেরে কাঁচা তেল $108 আর ডলারের দাম 90 টাকা... তাই সহজ অঙ্ক বলছে, কলকাতায় পেট্রোল খুব তাড়াতাড়িই ₹125...",
+    "desc": "পশ্চিম এশিয়ার যুদ্ধের ছায়া সরাসরি আছড়ে পড়ছে দালাল স্ট্রিটে। গিফট নিফটির সংকেত অনুযায়ী,সেনসেক্স ও নিফটি বড়সড় পতনের (Gap-down) মুখে। তেলের দাম প্রতি ব্যারেল ১০ ডলার বাড়লে ভারতের আর্থিক ঘাটতি ৪০ থেকে ৫০ বেসিস পয়েন্ট বৃদ্ধি পেতে পারে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/crude-oil-usd-108-impact-on-petrol-price-in-kolkata-dollar-rs-90-calculation_643627.html ",
+    "time": "2026-03-04T09:33:50.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "হোলি পার্টিতে রোহন-অঙ্গনা! কেন মুখে বেশি রং মাখলেন না অভিনেত্রী?",
     "desc": "হোলি পার্টিতে রোহন এবং অঙ্গনা৷ তাঁদের বিশেষ বন্ধুত্বের কথা সকলেরই জানা৷ এবার হোলিতে একসঙ্গে এলেন এবং খেললেন রং৷ রোহনের কথায়, বন্ধুদের সঙ্গে থাকলেই আনন্দ লাগে৷ এবং অবশ্যই হোলি একটি বিশেষ উৎসব৷ ফলে আনন্দ অনেকটা বেড়ে যায়৷ অন্যদিকে অঙ্গনা তুলে ধরলেন আসাসোলে কাটানো তাঁর ছোটবেলার কথা৷ তিনিও খেললেন রং, তবে নিজেকে অনেকটা বাঁচিয়ে৷ কারণ অবশ্যই শ্যুটিং রয়েছে এবং বেশি রং মুখে লেগে থাকলে মেকআপে সমস্যা হবে৷ দেখুন রোহন-অঙ্গনার দোল উদযাপন৷",
@@ -205,15 +268,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/icc-t20-world-cup-semifinal-which-team-will-reach-semifinal-between-india-and-england-if-match-washed-away-rdp-2566839.html",
     "time": "2026-03-03T07:50:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ড্রোন-ই দ্রোণাচার্য, সস্তা আঘাতে চাপে আমেরিকা-ইসরায়েল... লম্বা লড়াইয়ে কি এগিয়ে ইরান?",
-    "desc": "ইরান বহু বছর ধরেই শাহেদ (Shahed) সিরিজের ড্রোন তৈরি করছে — যেগুলো মূলত কামিকাজি ধরনের, অর্থাৎ একবার আঘাত করে নিজেই ধ্বংস হয়। এই ড্রোনগুলো খুব সস্তা, সহজে বানানো যায়, আর একসাথে শত শত ছুঁড়লে প্রতিরক্ষা ব্যবস্থা পিছু হটতে বাধ্য হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/iran-attack-weapons-defence-israel-iran-war-from-2-billion-b2-bomber-to-kamikaze-drone-heres-the-list-of-weapons-used-by-us-to-hit-iran_643427.html ",
-    "time": "2026-03-02T16:48:49.000Z"
   },
   {
     "cat": "Politics",
@@ -721,15 +775,6 @@ const newsData_bn = [
   },
   {
     "cat": "Politics",
-    "title": "সিবিআইকে যাচ্ছেতাই অপমান আদালতের! আবগারি মামলায় সসম্মানে মুক্ত অরবিন্দ কেজরীওয়াল...",
-    "desc": "আবগারি নীতি মামলায় অরবিন্দ কেজরিওয়াল ও মণীশ সিসোদিয়া-সহ ২৩ জনকে অব্যাহতি দিয়ে সিবিআইকে ভর্ৎসনা আদালতের। সিবিআইয়ের দায়ের করা মামলা খারিজ করে বিশেষ বিচারক স্পষ্ট জানিয়েছেন, নীতির প্রণয়নে কোনও সর্বব্যাপী ষড়যন্ত্র বা অপরাধমূলক উদ্দেশ্যের প্রাথমিক প্রমাণ মেলেনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/arvind-kejriwal-manish-sisodia-cleared-of-charges-in-delhi-liquor-policy-case_642990.html ",
-    "time": "2026-02-27T09:57:05.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "আগামী ৭২ ঘণ্টা...! ভারী বৃষ্টি কাঁপাবে ১১ রাজ্য, লাফিয়ে লাফিয়ে পারদ চড়বে কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
     "desc": "ফের আবহাওয়ার পরিবর্তন। একাধিক ঘূর্ণাবর্ত ও নিম্নচাপের জেরে মুহূর্তে বদলাচ্ছে আবহাওয়া। কোথাও চড়চড় করে চড়বে তাপমাত্রা আর কোথাও চলছে বৃষ্টির স্পেল! এমন পরিস্থিতিতে, ভারতীয় আবহাওয়া বিভাগ (IMD) দেশের একাধিক রাজ্যে আগামী ৭২ ঘণ্টা ভারী বৃষ্টিপাতের সতর্কতা জারি করেছে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj-__Thunder-2026-02-69c3fe6ac5aad482391940478345533b-3x2.jpg",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/north-24-parganas-money-making-tips-sunderban-sajne-flower-farming-moringa-flower-business-hidden-business-idea-l18-local18-2558779.html",
     "time": "2026-02-26T09:11:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রাজ্যসভা নিয়ে সতর্ক তৃণমূল কংগ্রেস! মুখ্য সচেতকের কাছে কাছে হাজির হচ্ছেন বিধায়কেরা",
-    "desc": "যে দলের বিধায়ক সংখ্যা যত, তার উপরে নির্ভর করে রটি আসনে তৃণমূল এবং একটিতে বিজেপির জয় নিশ্চিত৷ পশ্চিমবঙ্গ থেকে পাঁচ রাজ্যসভা আসনে যদি পাঁচ জন প্রার্থী মনোনয়ন জমা দেন, সে ক্ষেত্রে আর ভোট হবে না।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Rajya-Sabha-Election-1-2026-02-6bdd9e57a60466d471ba06ab394e7cc1-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/rajya-sabha-election-what-trinamool-congress-is-thinking-aitmc-has-219-number-od-mla-s-sta-2559010.html",
-    "time": "2026-02-26T09:11:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "সঞ্জু স্যামসন নয় ! জিম্বাবোয়ের বিরুদ্ধে খেলবে এই ৩২ বছরের অলরাউন্ডার, তিনিই হতে পারেন টিম ইন্ডিয়ার ‘ট্রাম্প কার্ড’",
-    "desc": "জিম্বাবোয়ের বিরুদ্ধে হারলে কোণঠাসা হয়ে পড়বে টিম ইন্ডিয়া। সে ক্ষেত্রে সেমিফাইনালের দৌড় থেকে ছিটকে না গেলেও তাকিয়ে থাকতে হবে অন্য ম্যাচের ফলের দিকে। থাকবে নেট রানরেটের অঙ্কও। গৌতম গম্ভীর আজ দলে একাধিক বদলও করতে পারেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/India-vs-Zimbabwe-T20-World-Cup-Axar-Patel-2026-02-412b67e5613b7e464aecf8b4ee16ffce-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/ind-vs-zim-icc-t20-world-cup-super-8-ravi-shastri-wants-axar-patel-in-playing-11-biggest-match-winner-of-indian-team-ss-2558526.html",
-    "time": "2026-02-26T04:35:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পিএনবি-র RD স্কিম প্রতি মাসে কত টাকা রাখলে পেয়ে যাবেন ১০ লাখ টাকা ? হিসেব চমকে দেবে",
-    "desc": "পিএনবি-র RD স্কিমে নিয়মিত মাসিক বিনিয়োগ করে সহজেই ১০ লাখ টাকার ফান্ড তৈরি করা সম্ভব। ১ বছর থেকে ১০ বছর পর্যন্ত বিভিন্ন মেয়াদের জন্য কত টাকা জমা রাখতে হবে, তার বিস্তারিত হিসেব জেনে নিন এখানে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/PNB-33-NEW-2026-02-7208a6384fd19c7a8c3b7cb6161fd18d-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/how-much-to-invest-monthly-in-pnb-rd-to-get-rupees-10-lakh-the-calculation-will-surprise-you-dc-2558441.html",
-    "time": "2026-02-26T03:38:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পঞ্জাব ন্যাশনাল ব্যাঙ্কের গ্রাহকদের জন্য বড় সুখবর ! এবার এই FD-তে মিলবে সবচেয়ে বেশি রিটার্ন",
-    "desc": "পঞ্জাব ন্যাশনাল ব্যাঙ্কের ৪৪৪ দিনের বিশেষ FD স্কিম এখন বিনিয়োগকারীদের জন্য বড় আকর্ষণ। সাধারণ গ্রাহক থেকে শুরু করে সিনিয়র ও সুপার সিনিয়র নাগরিকদের জন্য মিলছে উচ্চ সুদের হার। নিরাপদ বিনিয়োগে বেশি রিটার্ন চাইলে জেনে নিন সম্পূর্ণ তথ্য।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/pnb-43-2026-02-77fadd07c4bbf35d472a29280185f293-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/big-relief-for-pnb-customers-punjab-national-bank-offers-highest-interest-on-444-day-fd-scheme-dc-2558359.html",
-    "time": "2026-02-26T03:10:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ইঁদুর মারার বিষ মাখানো ফল বিক্রি! ক্রেতার ক্যামেরায় এই ভিডিও ভাইরাল হতেই গ্রেফতার মুম্বইয়ের ২ ফল বিক্রেতা",
-    "desc": "ফল বিক্রেতারা আমের মতো ফলের উপরিভাগে অবৈধভাবে ইঁদুরের বিষ রাতোল প্রয়োগ করতে পারে, যাতে পোকামাকড় তাড়ানো যায় বা ফল পাকানো যায়। বুধবার ঘটনাটি প্রকাশ্যে আসে যখন মালাডের পুলিশ স্থানীয় এক বাসিন্দার অভিযোগের ভিত্তিতে ভিডিও প্রমাণ সহ ব্যবস্থা নেয়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/New-Project-82-2026-02-fc6ab2a4b06331f71c01ada1192f6714-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/mumbai-fruit-sellers-arrested-for-selling-rat-poison-applied-fruits-on-camera-arc-2558301.html",
-    "time": "2026-02-26T02:45:52.000Z"
   }
 ];

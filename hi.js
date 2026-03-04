@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rodrygo ruled out of FIFA World Cup, posts 'Do I deserve this?' on social media",
+    "desc": "Real Madrid and Brazil forward Rodrygo Goes has been ruled out of the season, including the FIFA World Cup, scheduled to begin on June 11, 2026. The 25-year-old hurt his ACL and meniscus in his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/rodrygo-ruled-out-of-fifa-world-cup-posts-do-i-deserve-this-on-social-media-2026-03-04-1032586",
+    "time": "2026-03-04T11:43:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Babar Azam, Fakhar Zaman dropped; Pakistan shuffle squad for ODI series against Bangladesh",
+    "desc": "After an extremely disappointing campaign in the T20 World Cup 2026, Pakistan have dropped Babar Azam from the upcoming three-match ODI series against Bangladesh, starting March 11. The star batter played 17 ODIs in 2025,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-fakhar-zaman-dropped-pakistan-shuffle-squad-for-odi-series-against-bangladesh-2026-03-04-1032577",
+    "time": "2026-03-04T10:56:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch AFC Women's Asian Cup 2026 live on TV and stream online?",
+    "desc": "India will kickoff their AFC Women’s Asian Cup campaign on March 4 against Vietnam at Perth Rectangular Stadium. Japan and Chinese Taipei are also part of the same group, as the top two teams of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/india-vs-vietnam-live-where-to-watch-afc-women-s-asian-cup-2026-live-on-tv-and-stream-online-2026-03-04-1032575",
+    "time": "2026-03-04T10:24:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Anil Kumble shares advice for star India spinner ahead of crucial T20 World Cup semi-final bout",
     "desc": "With India all set to take on England in the 2nd semi-final of the ongoing T20 World Cup 2026, many eyes will be set upon star spinner Varun Chakaravarthy. The star spinner has been unable...",
     "img": "",
@@ -61,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kolkata-weather-report-will-rain-spoil-nz-vs-sa-t20-world-cup-2026-semi-final-clash-2026-03-04-1032515",
     "time": "2026-03-04T02:44:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Renuka Singh ruled out of Australia Test, India women call up Kashvee Gautam as replacement",
-    "desc": "India women are all set to continue their ongoing multi-format series against Australia with the only Test of the series. The two sides, after taking on each other across three T20Is and three ODI matches,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/renuka-singh-ruled-out-of-australia-test-india-women-call-up-kashvee-gautam-as-replacement-2026-03-04-1032510",
-    "time": "2026-03-04T01:39:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Law of averages to work against South Africa in T20 World Cup semis vs New Zealand? Aiden Markram responds",
-    "desc": "South Africa have won seven consecutive matches at the T20 World Cup so far and are only two wins away from winning their second ICC trophy within the last 12 months. They have beaten their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/law-of-averages-to-work-against-south-africa-in-t20-world-cup-semis-vs-new-zealand-aiden-markram-responds-2026-03-03-1032493",
-    "time": "2026-03-03T17:47:52.000Z"
   }
 ];
