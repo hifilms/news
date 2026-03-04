@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "HDFC બેંકના કરોડો ગ્રાહકો માટે મહત્વના સમાચાર; જાણો 1 એપ્રિલથી ગ્રાહકો પર શું પડી શકે છે અસર?",
+    "desc": "HDFC બેંકના કરોડો ગ્રાહકો માટે એક મહત્વના સમાચાર સામે આવ્યા છે. બેંકે પોતાની સેવાઓના ચાર્જિસમાં મોટો ફેરફાર કરવાનો નિર્ણય લીધો છે, જે 1 એપ્રિલ 2026 થી અમલમાં આવશે. જો તમે HDFC બેંકના ગ્રાહક છો, તો તમારા ખિસ્સા પર પડનારા આ બોજ વિશે જાણી લેવું ખૂબ જ જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-shock-for-hdfc-bank-customers-lockers-will-become-more-expensive-from-april-1st-and-atm-and-upi-rules-will-change-467122 ",
+    "time": "2026-03-04T05:24:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આઠમાં પગાર પંચ હેઠળ તબીબી ભથ્થામાં થશે મોટો વધારો! 1,000થી 20,000 રૂપિયા કરવાનો પ્રસ્તાવ",
+    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ કાગડોળે આઠમાં પગાર પંચની ભલામણો આવવાની રાહ જોઈને બેઠા છે. જેમાં પગાર ઉપરાંત ભથ્થાઓમાં પણ મોટો સુધારો અપેક્ષિત છે. ફિક્સ્ડ મેડિકલ અલાઉન્સ (FMA)માં પણ બંપર વધારાનો પ્રસ્તાવ મૂકાયો છે. જો સ્વીકારવામાં આવે તો કર્મચારીઓને મોટો ફાયદો થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-latest-update-proposal-to-increase-fixed-medical-allowance-467114 ",
+    "time": "2026-03-04T04:46:29.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "&amp;#039;આ 2 ટીમો વચ્ચે જ રમાશે T20 World Cup 2026ની ફાઈનલ&amp;#039; મેચ! ક્રિકેટ જગતના દિગ્ગજોની ભવિષ્યવાણી",
     "desc": "ટી20 વર્લ્ડકપ 2026 ટુર્નામેન્ટમાં કઈ બે ટીમો વચ્ચે ફાઈનલનો જંગ જોવા મળશે, તે તો 5 માર્ચ પછી જ સ્પષ્ટ થશે. પરંતુ તે પહેલાં જ ક્રિકેટ જગતના દિગ્ગજો દ્વારા અનેક ભવિષ્યવાણીઓ કરવામાં આવી રહી છે. ચાલો જાણીએ કોણે શું કહ્યું છે.",
@@ -493,24 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-silver-rate-weekly-explainer-movement-during-last-week-will-iran-israel-war-push-the-rates-466691 ",
     "time": "2026-03-01T06:51:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "વધી જશે પેટ્રોલ-ડીઝલના ભાવ? ઈરાન-અમેરિકા યુદ્ધથી દુનિયામાં આવશે મહામંદી",
-    "desc": "અમેરિકાના ઈરાન પર હુમલા બાદ ઈરાનના નેતા અયાતુલ્લા અલી ખામેનેઈના મોત થયું છે. ત્યારે યુદ્ધથી સૌથી મોટું ટેન્શન ક્રુડ ઓઈલના ભાવને લઈને છે. આગામી સપ્તાહમાં જ પેટ્રોલ ડીઝલના ભાવમાં તેની અસર જોવા મળી શકે છે. સાથે વૈશ્વિક મંદી પણ વધશે અને મોંઘવારી આવશે તેવું નિષ્ણાતોનું અનુમાન છે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/us-israel-iran-war-may-petrol-diesel-price-hike-after-strait-of-hormuz-466682 ",
-    "time": "2026-03-01T04:54:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોના-ચાંદીના ભાવમાં મોટો ઉછાળો; કાલે છે ખરાખરીનો ખેલ! જાણો તમારા શહેરમાં શું છે લેટેસ્ટ ભાવ?",
-    "desc": "ભારતમાં સોનાના ભાવ ફરી એકવાર રોકાણકારો અને ખરીદદારોના હૃદયના ધબકારા વધારી દીધા છે. 1 માર્ચ, 2026 ના રોજ, દેશમાં સોનાના ભાવ તેમના રેકોર્ડ ઉચ્ચતમ સ્તરની ખૂબ નજીક પહોંચી ગયા હતા. અમેરિકા અને ઈરાન વચ્ચે વધતા તણાવની સીધી અસર હવે સામાન્ય લોકોના ખિસ્સા પર પડી રહી છે. બજાર નિષ્ણાતો માને છે કે આગામી દિવસોમાં સોના અને ચાંદીના ભાવમાં વધુ વધારો જોવા મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-silver-price-today-1-march-2026-gold-and-silver-prices-jump-know-the-price-in-your-city-466681 ",
-    "time": "2026-03-01T04:00:04.000Z"
   },
   {
     "cat": "Entertainment",

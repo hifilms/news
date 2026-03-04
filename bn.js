@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "\"ছেলে দুবাইয়ে আটকে, ওকে ফিরিয়া আনতে সাহায্য করুন,\" কেন্দ্রীয় সরকারের উদ্দেশ্যে লিখলেন গায়ক অভিজিৎ, পরে ডিলিট করলেন পোস্ট",
+    "desc": "গায়ক অভিজিৎ ভট্টাচার্য কেন্দ্রীয় সরকারের কাছে তাঁর ছেলেকে দুবাই থেকে নিরাপদে দেশে ফিরিয়ে আনতে সাহায্য চেয়ে আবেদন জানিয়েছেন। ইনস্টাগ্রামে তিনি একটি পোস্ট করেন৷ গায়ক তাঁর ছেলে জয় ভট্টাচার্যের জন্য উদ্বেগ প্রকাশ করেছেন, যিনি বর্তমানে দুবাইতে আটকা পড়েছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Singer-Abhijit-Bhattachaya-2026-03-b0848959705e7abe1c65e6b46d856d0c-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/bollywood-singer-abhijeet-bhattacharya-son-stuck-in-dubai-seeks-government-help-deletes-post-later-pbd-2568310.html",
+    "time": "2026-03-04T06:36:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "দুবাইয়ে ফের হামলা ইরানের! এবার টার্গেট US কনস্যুলেট..প্রথমে বিস্ফোরণের শব্দ, তারপরেই আগুন",
+    "desc": "দুবাইয়ের মূল দুই বিমানবন্দর হল দুবাই আন্তর্জাতিক বিমানবন্দর (ডিএক্সবি) ও আল মাকতুম আন্তর্জাতিক বিমানবন্দর (ডিডব্লিউসি)। দুবাই মিডিয়া অফিস এক বিবৃতিতে বলেছে, দুবাই আন্তর্জাতিক বিমানবন্দর ও দুবাই ওয়ার্ল্ড সেন্ট্রাল-আল মাকতুম আন্তর্জাতিক বিমানবন্দরের কার্যক্রম পরবর্তী নির্দেশ না দেওয়া পর্যন্ত স্থগিত করা হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Dubai-1-2026-03-d26a3dd06f581d7c006e8f01a1b82140-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/us-israel-attack-on-iran-drone-strike-sparks-fire-near-us-consulate-in-dubai-marco-rubio-says-all-staff-safe-sta-2568262.html",
+    "time": "2026-03-04T06:31:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "লিডার পদে খামেনেই-পুত্র মোজতবা খামেনেইকে ঘিরে জল্পনা",
+    "desc": "মার্কিন যুক্তরাষ্ট্র ও ইসরায়েলের যৌথ বিমান হামলায় ইরানের সর্বোচ্চ নেতা আয়াতোল্লাহ আলি খামেনেই নিহত হওয়ার পর দেশজুড়ে রাজনৈতিক অনিশ্চয়তা তৈরি হয়েছে। বিভিন্ন আন্তর্জাতিক সূত্রে প্রকাশ্যে এসেছে এই পরিস্থিতিতে ইরানের প্রভাবশালী ধর্মীয় সংস্থা নতুন সর্বোচ্চ নেতা হিসেবে নির্বাচন করেছে মোজতবা খামেনেইকে। প্রতিবেদন অনুযায়ী, চলমান মার্কিন-ইসরায়েলি হামলার আবহে এবং অভ্যন্তরীণ নিরাপত্তা পরিস্থিতির চাপে এই সিদ্ধান্ত নেওয়া হয়েছে। বিশেষ করে ইরানের শক্তিশালী সামরিক বাহিনীI ইসলামী বিপ্লবী গার্ড কর্পস (আইআরজিসি)-এর প্রভাব এই সিদ্ধান্তে গুরুত্বপূর্ণ ভূমিকা নিয়েছে বলেও দাবি করা হচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Mojtaba-Hosseini-Khamenei-1-2026-03-dceb0b639ab7aab726e67f45a6ecd848-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/international/khamenei-killed-in-usisraeli-attack-mojtaba-new-leader-in-iran-rmj-ws-l-2568211.html",
+    "time": "2026-03-04T05:45:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "একটি দামি গাড়ি, একটি বাংলো এবং বেশ কয়েকটি ব্যবসা প্রতিষ্ঠানের মালিক হওয়া সত্ত্বেও রাজু চৌরাসিয়া মেলায় ১০ টাকায় পান বিক্রি করেন !",
+    "desc": "উত্তরপ্রদেশের মাহোবার বাসিন্দা রাজু চৌরাসিয়া ৩৬ বছর ধরে পান তৈরি করে আসছেন। লাখ লাখ টাকার সম্পদ অর্জন করার পরেও, তিনি ছোট ছোট মেলায় বসেন, ১০ টাকায় পান বিক্রি করেন এবং ভালবাসার সঙ্গে মানুষের সেবা করেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Paan-Businessman-Success-2026-03-22a20138c21e6b439db0ee1df1de4618-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/success-story-of-paan-seller-raju-chaurasia-sells-10-rupees-paan-in-chhatarpur-mela-bank-account-filled-with-lakhs-al18-ss-aa-2567317.html",
+    "time": "2026-03-04T05:32:45.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Iran-Israel Tention: রান্নার গ্যাস থেকে পেট্রল-ডিজেল, আমেরিকা-ইরান সংঘাত বেশি দিন চললে ভারতে দাম বাড়তে পারে কোন কোন পণ্যের? পড়ুন",
     "desc": "মধ্যপ্রাচ্যে জ্বলছে আগুন। জারি আমেরিকা-ইরান সংঘাত! যদিও ভারতের কেন্দ্রীয় সরকার জানিয়ে দিয়েছে, দেশে ২৫ দিনের অপরিশোধিত তেল মজুত রয়েছে। ২৫ দিনের চাহিদা পূরণের মতো শোধিত জ্বালানিও রয়েছে। কিন্তু সংঘাত বেশি দিন চললে ভারতীয় বাণিজ্যে বড় প্রভাব পড়তে পারে",
@@ -862,41 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/huge-amount-of-cash-money-seized-from-odisha-govt-staffs-house-watch-video-rdp-2557957.html",
     "time": "2026-02-25T15:29:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘কেরালা স্টোরি ২’ মুক্তি নিয়ে আইনি জট! শুনানি শেষ না হওয়া পর্যন্ত রিলিজ নয় বলল হাইকোর্ট",
-    "desc": "‘কেরালা স্টোরি ২’ ছবির মুক্তি ঘিরে বড় নির্দেশ জারি করল কেরল হাইকোর্ট। বুধবার আদালত স্পষ্ট জানিয়ে দেয়, মামলার শুনানি সম্পূর্ণ না হওয়া পর্যন্ত ছবির রিলিজ কার্যকর করা যাবে না। আদালতের পর্যবেক্ষণ, আবেদনকারীর আশঙ্কা “সম্ভবত যথার্থ”, তাই চূড়ান্ত রায় না আসা পর্যন্ত অপেক্ষা করতে হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Kerela-story-2-2026-02-6392a3af83e599b1f2455cc38c957c67-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/kerala-story-2-release-stay-kerala-high-court-order-film-controversy-india-sal-2557742.html",
-    "time": "2026-02-25T13:58:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'২০২৬ শুধু নয়, ২০২৭ সালেও সিনেমায় আমার গান শুনতে পাবেন', অবসরের পরেই বার্তা অরিজিতের…",
-    "desc": "প্লেব্যাক থেকে বিদায় নিয়ে মুখ খুললেন অরিজিৎ সিং। ট্রোলারদের দিলেন মোক্ষম জবাবও। তিনি স্পষ্ট করে জানিয়েছেন, প্লেব্যাককে বিদায় জানালেও হাতে থাকা আগের সব কাজ তিনি শেষ করবেন। পাশাপাশি অমূলক তর্কে জড়াতেও বারণ করেছেন তাঁর ফ্যানেদের।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/arijit-singh-playback-retirement-clarification-trolls-response_642784.html ",
-    "time": "2026-02-25T12:58:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "সর্বোচ্চ পারিশ্রমিক পান ভারতীয় 'এই' অভিনেত্রী, একটি ছবির জন্য নিয়েছেন ১০ কোটি! চিনতে পারছেন?",
-    "desc": "দক্ষিণ থেকে উত্তর, এই সৌন্দর্য এক অসাধারণ শক্তি। মাত্র কয়েক বছরের মধ্যেই, কর্ণাটকের একটি ছোট শহরের এই মেয়েটি পুরো দেশকে মুগ্ধ করেছে। মাত্র লক্ষ টাকা দিয়ে তার ক্যারিয়ার শুরু করলেও, এখন তিনি একটি ছবির জন্য কোটি কোটি টাকা নেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Rasmika-Mandana-2026-02-eec3aa4728fd4e502f6730958db43a06-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/highest-paid-indian-actress-popular-from-south-to-north-she-charges-10-crores-for-a-single-film-rashmika-mandannas-education-career-sdg-2557601.html",
-    "time": "2026-02-25T12:43:24.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "পাঁচ বছর ধরে হাইকোর্টের বিচারপতি! কে সেই ব্যক্তি জানেন? শেষমেশ পরিচয় সামনে আসতেই গোটা বিশ্বে মুখ পুড়ল পাকিস্তানের",
-    "desc": "এবার বিচার ব্যবস্থায় কেলেঙ্কারি সামনে এল পাকিস্তানে! পাঁচ বছর ধরে হাইকোর্টের বিচারপতির দায়ভার সামলাচ্ছিলেন। শেষে দেখা গেল তাঁর ডিগ্রিই ভুয়ো! এমনই এক অবিশ্বাস্য কেলেঙ্কারি সামনে এসেছে যা ইতিমধ্যেই পাকিস্তানের বিচার ব্যবস্থাকেই প্রশ্নের মুখে ফেলে দিয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Pakistan-Judge-2026-02-43242cc2ea09e5823732f394aa4033ab-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/islamabad-high-court-removes-judge-over-fake-law-degree-116-page-verdict-exposes-fraud-smc-2557521.html",
-    "time": "2026-02-25T11:50:58.000Z"
   }
 ];

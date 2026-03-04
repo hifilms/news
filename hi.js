@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abhishek-Samson vs Salt-Buttler, which openers have better stats?",
+    "desc": "The stage is set for the 2nd semi-final of the ongoing T20 World Cup 2026. India will be taking on England at the Wankhede Stadium in Mumbai in a bid to book their berth into...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-t20i-squad-comparison-abhishek-samson-vs-salt-buttler-which-openers-have-better-stats-2026-03-04-1032543",
+    "time": "2026-03-04T06:13:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Eden Gardens in Kolkata play in T20 WC semi-final?",
+    "desc": "South Africa and New Zealand will take on each other in the 1st semi-final of the ongoing T20 World Cup 2026. The two sides will lock horns at the Eden Gardens in Kolkata on March...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sa-vs-nz-pitch-report-how-will-surface-at-eden-gardens-in-kolkata-play-in-t20-wc-semi-final-2026-03-04-1032526",
+    "time": "2026-03-04T04:34:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "What will happen if SA vs NZ T20 World Cup semifinal gets washed out? Check details",
     "desc": "The stage is set for the 1st semi-final of the ongoing T20 World Cup 2026. New Zealand and Sri Lanka will take on each other at the Eden Gardens in Kolkata on March 4. It...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-first-look-of-the-mumbai-pitch-to-be-used-for-t20-world-cup-semifinal-revealed-2026-03-03-1032480",
     "time": "2026-03-03T14:37:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lunar Eclipse forces Team India to change training schedule in Mumbai ahead of T20 World Cup semifinal",
-    "desc": "The Indian team decided to change the timing of its practice session on Tuesday due t0 lunar eclipse. Earlier, they were scheduled to start their training at 6 PM, but with the lunar eclipse starting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lunar-eclipse-forces-team-india-to-change-training-schedule-in-mumbai-ahead-of-t20-world-cup-semifinal-2026-03-03-1032469",
-    "time": "2026-03-03T13:04:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB to play five matches at their home venue",
-    "desc": "Decks are finally cleared for the Chinnaswamy Stadium to host cricket matches during the Indian Premier League (IPL). Royal Challengers Bengaluru will play five matches at their home venue in the upcoming edition of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/chinnaswamy-stadium-finally-cleared-to-host-ipl-2026-rcb-to-play-five-matches-at-their-home-venue-2026-03-03-1032463",
-    "time": "2026-03-03T11:51:50.000Z"
   }
 ];
