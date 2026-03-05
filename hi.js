@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rashid Khan removed as Afghanistan T20I captain, new skipper announced series against Sri Lanka",
+    "desc": "Following Afghanistan’s group-stage exit from the T20 World Cup 2026, the selection committee made a significant decision to alter the team’s leadership structure. Rashid Khan, who had led the side to the semi-finals in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-removed-as-afghanistan-t20i-captain-new-skipper-announced-series-against-sri-lanka-2026-03-05-1032708",
+    "time": "2026-03-05T11:52:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What happened when India last faced England in the T20 World Cup semifinal in 2024?",
+    "desc": "India and England are set to lock horns in the second semifinal of the T20 World Cup today at the Wankhede Stadium in Mumbai. This is the third consecutive edition when the two teams are...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-what-happened-when-india-last-faced-england-in-the-t20-world-cup-semifinal-in-2024-2026-03-05-1032707",
+    "time": "2026-03-05T11:42:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Just wanna go home'",
+    "desc": "West Indies’ 2026 T20 World Cup journey came to an end following a five-wicket defeat to India in the final Super Eights clash at Eden Gardens. Since the defeat, the squad has been stranded in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/just-wanna-go-home-daren-sammy-posts-as-west-indies-stranded-in-kolkata-amid-west-asia-war-2026-03-05-1032702",
+    "time": "2026-03-05T11:03:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arjun Tendulkar ties the knot with Saaniya Chandhok in Mumbai",
+    "desc": "The wedding bells rang for the son of legendary former India cricketer Sachin Tendulkar as Arjun tied the knot with Saaniya Chandhok in a star-studded ceremony in Mumbai on March 5. The celebration saw a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/arjun-tendulkar-ties-the-knot-with-saaniya-chandhok-in-mumbai-watch-2026-03-05-1032693",
+    "time": "2026-03-05T10:22:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Cricketer penalised for misbehaving with female hotel staff during T20 WC",
     "desc": "After their horrid campaign in the T20 World Cup 2026, Pakistan cricket has been brought to shame once more as an unnamed cricketer was reported and later fined for misbehaving with a female staff member...",
     "img": "",
@@ -43,50 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-vs-jofra-archer-player-battle-that-can-decide-ind-vs-eng-t20-wc-semifinal-2026-03-05-1032659",
     "time": "2026-03-05T06:33:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bumrah-Arshdeep vs Archer-Curran, which bowler has better stats?",
-    "desc": "The 2nd semi-final of the ongoing T20 World Cup 2026 will see India taking on England. The two sides will face each other at the Wankhede Stadium in Mumbai on March 5, and it is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-t20i-squad-comparison-bumrah-arshdeep-vs-archer-curran-which-bowler-has-better-stats-2026-03-05-1032644",
-    "time": "2026-03-05T05:14:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Which team has hit more sixes in the T20 World Cup 2026?",
-    "desc": "Team India will be taking on England in the 2nd semi-final of the ongoing T20 World Cup 2026. The two sides are looking to reach the final of the tournament. It is worth noting that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-squad-comparison-which-team-has-hit-more-sixes-in-the-t20-world-cup-2026-2026-03-05-1032638",
-    "time": "2026-03-05T04:04:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah on cusp of achieving legendary milestone, set to join elite list ahead of clash against England",
-    "desc": "India and England are all set to take on each other in the 2nd semi-final of the ongoing T20 World Cup 2026. The two sides will lock horns at the Wankhede Stadium in Mumbai on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-on-cusp-of-achieving-legendary-milestone-set-to-join-elite-list-ahead-of-clash-against-england-2026-03-05-1032628",
-    "time": "2026-03-05T02:41:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will rain spoil IND vs ENG T20 World Cup 2026 semi-final clash?",
-    "desc": "The stage is set for the 2nd semi-final of the ongoing T20 World Cup 2026. Team India will lock horns with England in the marquee clash at the Wankhede Stadium in Mumbai on March 5....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-weather-report-will-rain-spoil-ind-vs-eng-t20-world-cup-2026-semi-final-clash-2026-03-05-1032623",
-    "time": "2026-03-05T01:39:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Wankhede Stadium in Mumbai play in T20 World Cup semi-final?",
-    "desc": "India to host England at the Wankhede Stadium in the second semi-final of the T20 World Cup 2026. The Suryakumar Yadav-led side comes to the occasion after two back-to-back wins over Zimbabwe and West Indies,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-pitch-report-how-will-surface-at-wankhede-stadium-in-mumbai-play-in-t20-world-cup-semi-final-2026-03-04-1032608",
-    "time": "2026-03-05T01:30:01.000Z"
   }
 ];

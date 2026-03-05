@@ -1,5 +1,50 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "আগামী ৭২ ঘণ্টা...! ভারী বৃষ্টি কাঁপাবে ১৭ রাজ্য, ৪৮ ঘণ্টায় তাপমাত্রায় চরম হুঁশিয়ারি কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
+    "desc": "নতুন করে সৃষ্টি হওয়া পশ্চিমী ঝঞ্ঝার প্রভাবে আবহাওয়া আবারও বদলাতে চলেছে। আবহাওয়া বিভাগ একটি সতর্কতা জারি করেছে, আগামী ৭২ ঘণ্টায় অনেক রাজ্যে ভারী বৃষ্টিপাত হতে পারে দেশের একাধিক রাজ্যে। অন্যদিকে লাফিয়ে পারদ চড়বে এই রাজ্যগুলিতে! দেখুন আবহাওয়ার লেটেস্ট আপডেট।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj_rain_Thunder-2026-02-d4442b7a82e43dc3ddb6c50620195dec-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rainfall-alert-in-17-states-temperature-will-rise-massively-in-48-hours-for-these-states-check-latest-west-bengal-weather-sanj-2570625.html",
+    "time": "2026-03-05T11:30:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Petrol-Diesel Price Hike: মধ্যপ্রাচ্যে যুদ্ধ পরিস্থিতির জেরে কি বাড়তে চলেছে পেট্রোল-ডিজেলের দাম ?",
+    "desc": "মধ্যপ্রাচ্যের ভূ-রাজনৈতিক উত্তেজনার কারণে আন্তর্জাতিক বাজারে অপরিশোধিত তেলের দামে উত্থান দেখা যাচ্ছে। এর ফলে ভারতে পেট্রোল ও ডিজেলের দামে পরিবর্তন আসতে পারে কি না, তা নিয়েই বাড়ছে জল্পনা। বিশেষজ্ঞদের মতে পরিস্থিতির দিকে নজর রাখছে সরকার।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/petrol-21-2026-03-8465f53f3187c1e5a9b25db2ad995916-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/will-petrol-and-diesel-prices-rise-due-to-middle-east-war-impact-of-global-crude-oil-explained-dc-2570631.html",
+    "time": "2026-03-05T11:23:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel-US war: ভয়ংকর শক্তিশালী পরমাণু বোমা! এরিয়া ৫১ ও ৫২-র কাছে ১০০ ভূকম্পে করাল ধ্বংসের ছায়া...",
+    "desc": "ইরান যুদ্ধের আবহে কি পরমাণু বোমা পরীক্ষা করছে আমেরিকা? এরিয়া ৫১ ও ৫২-র কাছে সামরিক ঘাঁটিতে ১০০টিরও বেশি রহস্যময় ভূকম্পন অনুভূত হল। এরিয়া ৫১ ও ৫২ তথা টোনোপাহ টেস্ট রেঞ্জ ঐতিহাসিকভাবেই উন্নত অস্ত্রশস্ত্র এবং পারমাণবিক পরীক্ষা কেন্দ্রের সঙ্গে যুক্ত।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/us-testing-nuclear-bombs-amid-iran-war-over-100-mysterious-quakes-rattle-us-military-base_643779.html ",
+    "time": "2026-03-05T11:07:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "পরমাণু চুক্তি সই করতে রাজি ইরান! শুধু একটাই শর্ত আমেরিকার কাছে, মন্ত্রীর মন্তব্যের ব্যাখ্যা ইরানের",
+    "desc": "ইরানের মন্ত্রীর বক্তব্য সামনে আসতে এ বিষয়ে ব্যাখ্যা এসেছে ইরানের তরফে৷ রাষ্ট্র পরিচালিত সংবাদ সংস্থা IRNA জানিয়েছে , উপ-বিদেশমন্ত্রী মাজিদ তখত-রাভাঞ্চির এই বিবৃতি তাঁদের পারমাণবিক চুক্তি নিয়ে ‘আমেরিকার সঙ্গে পূর্ববর্তী আলোচনার’ সঙ্গে সম্পর্কিত। বর্তমান যুদ্ধ পরিস্থিতির প্রেক্ষিতে নয়৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/US-israel-warlike-situation-9-2026-03-7fde501d20d5177ec37f2311232c76f1-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/us-isarel-attack-iran-ready-to-abandon-nuclear-programme-united-states-alternative-offer-condition-west-asia-crisis-sta-2570512.html",
+    "time": "2026-03-05T10:27:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran’s Deadliest Weapons: আত্মঘাতী ওয়ানওয়ে অ্যাটাকে সিদ্ধহস্ত ইরানের মাটির নীচে আস্ত 'মিসাইল সিটি', হাতে ভয়াল 'ফাত্তাহ'...",
+    "desc": "ইরানের অস্ত্রাগারে আসলে কী কী আছে? সবচেয়ে ভয়ংকর তাদের আন্ডারগ্রাউন্ড 'মিসাইল সিটি'। ইরান ব্যাপকভাবে তাদের 'ওয়ান-ওয়ে অ্যাটাক' বা আত্মঘাতী ড্রোনের উপর নির্ভর করে। একেবারে নিজস্ব প্রযুক্তিতে তৈরি হাইপারসনিক ব্যালিস্টিক মিসাইল 'ফাত্তাহ'ও ইরানের বিশেষ শক্তি। এই মিসাইল শব্দের চেয়ে অন্তত পাঁচ গুণ দ্রুত গতিতে যেতে পারে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/irans-weapons-from-drones-to-ballistic-missiles-overview-of-irans-capabilities-irans-deadliest-weapons-that-can-put-us-and-israel-on-edge_643770.html ",
+    "time": "2026-03-05T09:49:25.000Z"
+  },
+  {
     "cat": "World",
     "title": "ভারতের অতিথিকে ধ্বংস করেছেন ট্রাম্প, এর ফল ভুগতেই হবে-- সাবমেরিন-হামলার পর রণহুংকার ইরানের...",
     "desc": "ভারতের জন্য এই ঘটনাটি অত্যন্ত স্পর্শকাতর। আইরিস ডেনা ভারত থেকে ফিরতি পথে আক্রান্ত হওয়ায় দিল্লির কূটনৈতিক মহলে অস্বস্তি বেড়েছে। শ্রীলঙ্কার সংসদ সদস্য নামাল রাজাপাকসে এনডিটিভি-কে দেওয়া সাক্ষাৎকারে বলেছেন, “ভারত মহাসাগরে এই ধরনের সামরিক সংঘাত শ্রীলঙ্কা ও ভারতের জন্য চরম উদ্বেগের বিষয়।” ভারত মহাসাগরীয় অঞ্চলে শান্তি বজায় রাখার যে দীর্ঘদিনের চেষ্টা ছিল, এই হামলার ফলে তা বড় ধরনের হুমকির মুখে পড়েছে।",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/technology/oppo-reno15c-5g-review-a-budget-all-rounder-designed-for-the-climb-ac-2561250.html",
     "time": "2026-02-27T14:16:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'পাকিস্তানে' ভারতীয় ৩০০ টাকার 'মূল্য' কত হবে জানেন...? 'উত্তর' শুনলেই চমকাবেন, শিওর!",
-    "desc": "পাকিস্তান-আফগানিস্তান যুদ্ধ পরিস্থিতি চরমে! এই মুহূর্তে স্বভাবতই ফের শিরোনামে দুই দেশ। স্বভাবতই চায়ের কাপ থেকে অফিসের ক্যান্টিন আলোচনায় পাকিস্তান। এই পরিস্থিতিতে সোশ্যাল মিডিয়ায় ফের ঝড় তুলছে ভারতের প্রতিবেশী এই দেশটিকে নিয়ে চর্চা। আচ্ছা বলুন তো দেখি ভারত ও পাকিস্তানের মধ্যে কোন দেশের মুদ্রা বেশি শক্তিশালী? ভারতের ৩০০ টাকা ঠিক কত হয়ে যাবে পাকিস্তানের মাটিতে?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/pakistan-2-2026-02-1628f478bd303c354f0d4f98d41ecf3f-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/pakistani-rupee-vs-indian-rupee-do-you-know-how-much-will-be-indian-300-rupees-in-pakistan-the-correct-answer-will-give-you-a-shock-for-sure-check-this-trending-fact-sanj-2561162.html",
-    "time": "2026-02-27T13:32:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'স্ত্রী পরকীয়া করে ছেড়ে গিয়েছে', তাও নাকি দিতে হচ্ছে ১৫ হাজার টাকা খোরপোশ, সঙ্গে দুই সন্তানের দায়িত্ব",
-    "desc": "একটা সাম্প্রতিক আদালতের শুনানি মানুষের নজর কেড়েছে, যেখানে একজন ব্যক্তি বিচারকের সামনে ব্যাখ্যা করেছেন কেন তিনি তার সাবেক স্ত্রীকে নির্দিষ্ট খোরপোশ দিতে পারবেন না। তিনি বলেছেন, তার সন্তানদের দেখাশোনা করতে হয় এবং তার আয় সীমিত।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Court-room-1-2026-02-a2f8182375229ca21f418ea83f1376d1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/wife-left-husband-because-of-affair-still-husband-is-paying-15000-alimony-husband-wants-justice-rdp-2561132.html",
-    "time": "2026-02-27T12:39:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "শারীরিক গঠন নিয়ে সোশ্যাল মিডিয়ায় ট্রোলড শ্রাবন্তী! পুলিশে অভিযোগ, দেখুন ভিডিও",
-    "desc": "অভিনেত্রী শ্রাবন্তী চট্টোপাধ্যায়কে নিয়ে কুরুচিকর ভিডিও পোস্ট করার অভিযোগ ইউটিউবারের বিরুদ্ধে। এক ভিডিও শেয়ার করে কুরুচিকর পোস্ট করা হয়েছে বলে অভিযোগ দায়ের করেন অভিনেত্রী শ্রাবন্তী চট্টোপাধ্যায়। সাইবার ক্রাইম থানায় অভিযোগ দায়ের করেছেন টলি অভিনেত্রী। মাঞ্চু দাদা নিউ নামের একটা অ্যাকাউন্টে মেনশন করে অভিযোগ দায়ের করা হয়েছে। শ্রাবন্তী জানান, বেশ কিছুদিন ধরে সোশ্যাল মিডিয়ায় আমার ছবি বিকৃত করে, মিম বানিয়ে এবং নানা ভাবে উত্ত্যক্ত করা হচ্ছিল। সেটা চলছিল, আমি চুপ ছিলাম। কিন্তু সম্প্রতি ঠাকুরমার ঝুলি বলে আমি একটি ছবিতে অভিনয় করছি। সেখানে এক বৃদ্ধার চরিত্রে অভিনয় করছি। তার জন্য ওজন বাড়িয়েছি, তাই আগের তুলনায় ওয়েট পুট অন হয়েছে। সম্প্রতি আমি একটা নাচের পারফরম্যান্স করি। আমার শারীরিক গঠন নিয়ে নানা ভাবে সোশ্যাল মিডিয়া কুমন্তব্য এবং ছবি বিকৃত করে ট্রোল করা হচ্ছে। তাই সাইবার ক্রাইমে যেতে বাধ্য হয়েছি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Srabanti-facebook-2026-02-1c521f40257fe59946b79754e3631ec1-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/entertainment/tollywood-actress-srabanti-chatterjee-files-compleint-to-police-as-she-is-trolled-for-her-figure-rdp-2561037.html",
-    "time": "2026-02-27T11:52:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "বিশ্বকাপের মাঝেই প্রয়াত বাবা, দেহ কাঁধে নিয়ে শেষকৃত্যের জন্য চললেন রিঙ্কু! শোকপ্রকাশ কোহলির",
-    "desc": "বিশ্বকাপের মাঝেই প্রয়াত হয়েছেন রিঙ্কু সিংয়ের বাবা খানচন্দ্র সিং। তাঁকে দেখতে দল ছেড়ে ফিরেছিলেন বাড়িতে, কিন্তু শেষ পর্যন্ত স্টেজ ফোর ক্যানসার থেকে আর ফিরতে পারেননি ক্রিকেটারের বাবা। আলিগড়ে রিঙ্কুকে দেখা গিয়েছে বাবা মরদেহ শেষকৃত্যের জন্য কাঁধে করে নিয়ে যাচ্ছেন রিঙ্কু সিং। সমাজমাধ্যমে ভাইরাল হয়েছে সেই ভিডিও।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Rinku-2026-02-374d503a5e9d01d58f4096646eef2046-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/rinku-singh-gives-a-shoulder-to-his-father-khanchandra-singh-who-passed-away-today-virat-kohli-expressed-his-condolence-rdp-2560914.html",
-    "time": "2026-02-27T10:33:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "পাকিস্তানকে পাল্টা জবাব দিল কাবুল! ইসলামাবাদের সেনাঘাঁটিতে বিমান হামলা আফগানদের",
-    "desc": "পাকিস্তান এবং আফগানিস্তানের মধ্যে শুক্রবার সকাল থেকেই পুরোদস্তুর যুদ্ধ শুরু হয়েছে। এর মধ্যেই আফগানিস্তানের প্রতিরক্ষা মন্ত্রকের তরফ থেকে দাবি করা হয়েছে তাঁরা পাকিস্তানের ভিতরে বেশ কিছু সেনা ছাউনিতে আঘাত হেনেছে। একইসঙ্গে, তাঁদের দাবি স্থানীয় সময়ে আজ সকাল ১১টা নাগাদ পাক রাজধানী ইসলামাবাদের পার্শ্ববর্তী অঞ্চল ফৈজাবাদ, নৌশেরা, জামরুদ অ্যাবটোবাদ-সহ একাধিক জায়গায় বিমান হামলা চালানো হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/islamabad-1-2026-02-687a3823ff09efb78f089c484f772d6d-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/after-pakistan-attacks-afganistan-now-airstrikes-at-islamabad-military-installations-smc-2560893.html",
-    "time": "2026-02-27T10:19:35.000Z"
   }
 ];
