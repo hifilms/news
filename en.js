@@ -1,6 +1,168 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Nick calls Priyanka's bedroom habit a ‘NIGHTMARE'",
+    "desc": "Priyanka Chopra and Nick Jonas' differing sleep temperatures have become a playful point of contention. Nick revealed he prefers a freezing room, while Priyanka likes it warmer, calling her preference \"nightmare material.\" This follows Priyanka's admission that Nick dislikes their usual date night of watching movies and eating takeout in bed, as he believes beds are solely for sleeping.",
+    "img": "https://static.toiimg.com/photo/msid-129071013,imgsize-77630.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-reveals-priyanka-chopras-bedroom-habit-calls-it-nightmare-material-watch/articleshow/129070752.cms",
+    "time": "2026-03-05T06:34:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iranian sailors recovering in Sri Lankan hospital after U.S. submarine attack, authorities say",
+    "desc": "Authorities at the National Hospital ‌in Galle and navy sources said 87 bodies were brought in by ‌military rescuers who responded to an early-morning ‌distress ⁠call from the IRIS Dena on Wednesday (March 4, 2026)",
+    "img": "https://th-i.thgim.com/public/incoming/yajc3h/article70706004.ece/alternates/LANDSCAPE_1200/2026-03-05T045258Z_876775890_RC22YJA5YGQP_RTRMADP_3_IRAN-CRISIS-SUBMARINE-SRI-LANKA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iranian-sailors-recovering-in-sri-lankan-hospital-after-us-submarine-attack-authorities-say/article70705988.ece",
+    "time": "2026-03-05T06:29:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Not a choke, a bloody walloping’: Conrad’s brutal honesty after SA’s crushing loss",
+    "desc": "South Africa's T20 World Cup journey ended abruptly with a nine-wicket semifinal loss to New Zealand. Coach Shukri Conrad described the defeat as a 'bloody walloping' rather than a 'choke,' highlighting New Zealand's dominant performance. Finn Allen's record-breaking century sealed the emphatic win, leaving the Proteas stunned despite a proud tournament run.",
+    "img": "https://static.toiimg.com/photo/msid-129073466,imgsize-191498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/not-a-choke-a-bloody-walloping-shukri-conrads-brutal-honesty-after-south-africas-crushing-t20-world-cup-semifinal-loss/articleshow/129073315.cms",
+    "time": "2026-03-05T06:27:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Russian crude to rescue! Ships carrying Russia’s oil head to India amid Middle East supply shock: Report",
+    "desc": "Ship-tracking data indicates that two Russian crude shipments which were originally bound for East Asia have redirected their course to India. With its energy security priorities in mind, India has sought to buy Russian crude to avoid supply shortages as Middle East tensions show no sign of abating.",
+    "img": "https://static.toiimg.com/photo/msid-129073263,imgsize-83846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/russian-crude-to-rescue-ships-carrying-russias-oil-head-to-india-amid-middle-east-supply-shock-report/articleshow/129072870.cms",
+    "time": "2026-03-05T06:26:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "David and Victoria Beckham wish son Brooklyn on 27th birthday amid feud",
+    "desc": "Celebrating Brooklyn's 27th birthday, Victoria and David Beckham posted an adorable throwback photo on social media, filled with love and affection. However, the warm wishes come against a backdrop of Brooklyn's recent comments about feeling like his life has been influenced by his parents' narratives.",
+    "img": "https://static.toiimg.com/photo/msid-129073275,imgsize-279354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/david-and-victoria-beckham-wish-son-brooklyn-on-27th-birthday-with-throwback-pics-amid-family-feud-with-nicola-peltz-we-love-you/articleshow/129073275.cms",
+    "time": "2026-03-05T06:24:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jamie Lee Curtis says motherhood brought her closer to Nicole Kidman",
+    "desc": "During the production of 'Scarpetta,' Nicole Kidman and Jamie Lee Curtis found an unexpected kinship, connecting over the challenges and joys of motherhood. Their relatable experiences and mutual respect for one another's professional paths crafted a unique alliance.",
+    "img": "https://static.toiimg.com/photo/msid-129073114,imgsize-137266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jamie-lee-curtis-says-motherhood-brought-her-closer-to-nicole-kidman-on-scarpetta-were-both-mothers-of-two-daughters/articleshow/129073114.cms",
+    "time": "2026-03-05T06:20:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Morgan Stanley lays off 2,500 employees: Who got impacted? Check details",
+    "desc": "Financial giant Morgan Stanley has reduced its workforce by 2,500 employees. This move impacts investment banking, trading, and wealth management. Financial advisors remain unaffected. The company achieved record revenue in 2025 and saw strong profits. Executives were optimistic for 2026. Job cuts are attributed to strategy and performance. This follows a trend of companies streamlining operations.",
+    "img": "https://static.toiimg.com/photo/msid-129072672,imgsize-235376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/morgan-stanley-lays-off-2500-employees-who-got-impacted-check-details/articleshow/129072067.cms",
+    "time": "2026-03-05T06:10:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "China sets GDP growth goal at less than 5% in least target since 1991! Trump tariffs, domestic troubles weigh",
+    "desc": "The GDP growth target for 2026 appeared in a draft of the government’s yearly work report. Although the range broadly matches market expectations, it is the first reduction since officials adjusted the goal to around 5% in 2023.",
+    "img": "https://static.toiimg.com/photo/msid-129072572,imgsize-77752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/china-sets-gdp-growth-goal-at-less-than-5-in-least-target-since-1991-trump-tariffs-domestic-troubles-weigh/articleshow/129072507.cms",
+    "time": "2026-03-05T06:10:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harry Styles’ rise, reinvention, and relationship rumours",
+    "desc": "Harry Styles' story feels like the ultimate underdog tale, one where a curly-haired teen from England's quiet Cheshire countryside turns raw charm into a global empire. Born in 1994, he first strummed his way into local fame as the frontman of the school band White Eskimo. But everything changed in 2010 at age 16 on 'The X Factor'. His soulful take on Stevie Wonder's 'Isn't She Lovely' landed him in One Direction alongside Niall Horan, Zayn Malik, Liam Payne, and Louis Tomlinson. They didn't win, finishing third, yet sparked Beatlemania-level hysteria. According to Vocal Media's detailed timeline, the 2011 debut single 'What Makes You Beautiful' reached number one in the UK charts, leading to four number one albums and sold-out arenas by the 2015 hiatus.",
+    "img": "https://static.toiimg.com/photo/msid-129072638,imgsize-245276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/from-one-directions-heartthrob-to-global-icon-harry-styles-rise-reinvention-and-the-romance-rumours-shaping-his-next-chapter/photostory/129072638.cms",
+    "time": "2026-03-05T06:08:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Lanterns’ teaser: Kyle Chandler and Aaron Pierre’s tense partnership to steer upcoming DC series",
+    "desc": "HBO has unveiled the first teaser for Lanterns, offering a glimpse of Kyle Chandler’s veteran Hal Jordan and Aaron Pierre’s rookie John Stewart as the two Green Lanterns investigate a mysterious murder on Earth while clashing over authority and experience",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/2rggar/article70706164.ece/alternates/LANDSCAPE_1200/MV5BMWM1Mzk0MTgtNGNlNC00MDZiLWIyMDQtZDgxY2Y5NTlmMWQzXkEyXkFqcGc._V1_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/lanterns-teaser-kyle-chandler-and-aaron-pierres-tense-partnership-to-steer-upcoming-dc-series/article70706165.ece",
+    "time": "2026-03-05T06:05:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What happens if India vs England semi-final washes out? ICC rules explained",
+    "desc": "India face England in the T20 World Cup semi-final on Thursday, with a reserve day in place by the ICC. A minimum of 10 overs per side is needed for a result. If the match is entirely washed out, England, having topped their Super 8 group, would advance over India, who finished second in their Super 8 group.",
+    "img": "https://static.toiimg.com/photo/msid-129071334,imgsize-82630.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/what-happens-if-india-vs-england-semi-final-washes-out-icc-rules-explained/articleshow/129071221.cms",
+    "time": "2026-03-05T05:41:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Sanju Samson miss T20 World Cup semi-final vs England?",
+    "desc": "Speculation arose on social media regarding Sanju Samson facing disciplinary action for his emotional on-field celebration after India's win. However, ICC rules suggest such an act, if reviewed, would likely be a Level 1 offense, attracting fines or demerit points, not a ban. Former umpire dismissed the rumors, stating it was an emotional celebration, not equipment abuse.",
+    "img": "https://static.toiimg.com/photo/msid-129070011,imgsize-49208.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/fact-check-will-sanju-samson-miss-t20-world-cup-semi-final-vs-england-over-a-possible-ban/articleshow/129069908.cms",
+    "time": "2026-03-05T05:12:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gosling reveals his kids' involvement in ‘Project Hail Mary’",
+    "desc": "Ryan Gosling's daughters, Esmeralda and Amada, played a surprising role in his upcoming sci-fi film, 'Project Hail Mary'. They provided voice lines for the alien Rocky during filming, helping Gosling react in real-time. His children also offered costume advice and have seen multiple cuts, making them his most trusted critics for the movie he made for them.",
+    "img": "https://static.toiimg.com/photo/msid-129069873,imgsize-139434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-gosling-spills-beans-on-how-his-kids-were-involved-in-project-hail-mary-theyve-seen-so-many-cuts/articleshow/129069476.cms",
+    "time": "2026-03-05T05:09:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' crosses USD 500K at US box office",
+    "desc": "'Dhurandhar 2' is generating immense buzz, with advance bookings in the US already surpassing its predecessor's opening day collections. The spy thriller, starring Ranveer Singh, has sold over USD 330K in tickets for its opening day and USD 565K for the entire weekend, with 13 days still to go before its March 19 release.",
+    "img": "https://static.toiimg.com/photo/msid-129067867,imgsize-77416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-advance-booking-beats-dhurandhar-day-1-collections-after-toxic-clash-averted-ranveer-singh-starrer-crosses-usd-500k-mark-at-us-box-office/articleshow/129067655.cms",
+    "time": "2026-03-05T05:06:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Singapore’s ‘Ageless model’ Chuando Tan, who just turned 60: ‘He is a vampire’",
+    "desc": "Chuando Tan, a Singaporean model and photographer, has celebrated his 60th birthday. His ageless appearance has captivated the internet, with many expressing disbelief. Tan shared a reflective message about time and embracing nature. He previously gained global attention in 2017 for his youthful looks at 51. Tan emphasizes inner well-being and self-acceptance over chasing perfection.",
+    "img": "https://static.toiimg.com/photo/msid-129068898,imgsize-759018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/netizens-stunned-by-singapores-ageless-model-chuando-tan-who-just-turned-60-he-is-a-vampire/articleshow/129068904.cms",
+    "time": "2026-03-05T04:45:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pink reacts as Olympian Chloe Kim’s confuses her identity",
+    "desc": "During a lively segment on a recent talk show, Olympic snowboarder Chloe Kim hilariously confused Grammy-winning singer Pink for Kelly Clarkson. Pink, who was guest-hosting in Clarkson's absence, chuckled at the blunder. Kim, clearly flustered and just having rolled out of bed, quickly apologized for the mix-up.",
+    "img": "https://static.toiimg.com/photo/msid-129068778,imgsize-192410.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/im-kelly-clarkson-today-pink-reacts-after-olympian-chloe-kims-confuses-her-identity/articleshow/129068778.cms",
+    "time": "2026-03-05T04:44:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pak player fined after alleged misconduct with female hotel staff",
+    "desc": "A Pakistan T20 World Cup squad member was reportedly fined for misbehaving with a female hotel staff member in Kandy, Sri Lanka. The incident occurred before the team's final Super Eight match, with the player expected to face further disciplinary action from the Pakistan Cricket Board upon their return home.",
+    "img": "https://static.toiimg.com/photo/msid-129068328,imgsize-1827399.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/fresh-controversy-hits-pakistan-t20-world-cup-player-fined-after-alleged-misconduct-with-female-hotel-staff-in-sri-lanka/articleshow/129068318.cms",
+    "time": "2026-03-05T04:34:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Currency rises 55 paise to 91.54 against US dollar",
+    "desc": "The Indian rupee rebounded on Thursday, recovering 51 paise to trade at 91.54 against the US dollar after hitting a record low. This recovery follows a significant slump driven by surging crude oil prices linked to the Iran crisis. Traders anticipate continued sensitivity to oil market movements and potential Reserve Bank of India intervention.",
+    "img": "https://static.toiimg.com/photo/msid-129068075,imgsize-1901707.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-back-in-green-currency-rises-55-paise-to-91-54-against-us-dollar/articleshow/129068114.cms",
+    "time": "2026-03-05T04:27:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Harry Styles opens up about his family plans",
     "desc": "Harry Styles is prioritizing family and meaningful relationships, stepping back from the spotlight to define his future. His rumored romance with Zoë Kravitz is reportedly serious, with mutual respect and friendship at its core. Meanwhile, Styles is set to release his fourth album, 'Kiss All the Time. Disco, Occasionally,' on March 6, following the success of his single 'Aperture'.",
     "img": "https://static.toiimg.com/photo/msid-129067282,imgsize-134696.cms",
@@ -136,15 +298,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Hardik-Mahieka seek blessings at Siddhivinayak",
-    "desc": "Cricketer Hardik Pandya visited Mumbai's Siddhivinayak Temple with Mahieka Sharma, seeking blessings before a crucial semifinal match. The couple, in traditional attire, shared a shawl during prayers. This public appearance coincided with Hardik's ex-wife Natasa Stankovic's birthday, amidst ongoing speculation about Hardik and Mahieka's relationship potentially reaching engagement.",
-    "img": "https://static.toiimg.com/photo/msid-129062535,imgsize-116250.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hardik-pandya-shares-a-shawl-with-girlfriend-mahieka-sharma-at-siddhivinayak-temple-as-they-seek-blessings-watch/articleshow/129062250.cms",
-    "time": "2026-03-05T02:27:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Friday OTT releases (March 6, 2026)",
     "desc": "As Friday progresses and the weekend follows, our favorite OTT platforms are geared up to treat us with the soulful movies that feel like sharing secrets with old friends over a cup of hot tea on a cold, starry night. These movies aren't just releases; they are windows into the messy lives of humans, where you can spot sly grins amidst chaos, or where hearts heal in quiet corners, far away from the noise of life. So before you make any of your weekend plans, consider these new 7 Friday OTT releases for a binge-marathon.",
     "img": "https://static.toiimg.com/photo/msid-129063170,imgsize-1563058.cms",
@@ -169,33 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-6-film-maintains-grip-earns-rs-20-crore-net/articleshow/129061096.cms",
     "time": "2026-03-05T01:58:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rebecca Gayheart's emotional post for daughter Billie Dane",
-    "desc": "In the wake of the heartbreaking loss of Eric Dane to ALS, his ex-wife Rebecca Gayheart found a moment of joy by celebrating their daughter Billie's milestone 16th birthday. With a collection of nostalgic photos, Gayheart shared a moving tribute that highlighted the beauty of their family bond.",
-    "img": "https://static.toiimg.com/photo/msid-129061607,imgsize-163212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/rebecca-gayhearts-emotional-post-for-her-and-eric-danes-daughter-billie-dane-melts-hearts-you-are-my-sunshine/articleshow/129061607.cms",
-    "time": "2026-03-05T01:46:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Young Sherlock’ ending explained",
-    "desc": "The thrilling debut season of 'Young Sherlock' concludes with a dramatic finale. William Holmes uncovers his father Silas's betrayal, leading to a confrontation mirroring the Reichenbach Falls. Moriarty embraces his dark future, while Beatrice finds freedom. The season sets the stage for more intrigue and the evolving bond between William and Moriarty.",
-    "img": "https://static.toiimg.com/photo/msid-129061592,imgsize-1124406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/young-sherlock-ending-explained-the-truth-about-silas-holmes-betrayal-and-moriartys-dark-rise/articleshow/129061549.cms",
-    "time": "2026-03-05T01:44:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Teddi Mellencamp hospitalized with ‘sores all over body’",
-    "desc": "Former reality star Teddi Mellencamp faced a health scare after developing painful sores all over her body. Initially mistaking it for the flu, she was diagnosed with Stevens-Johnson syndrome, a severe allergic reaction to a new medication. Hospitalized and treated with steroids and antibiotics, Mellencamp is now recovering and was discharged just in time for her daughter's birthday.",
-    "img": "https://static.toiimg.com/photo/msid-129061532,imgsize-87442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/teddi-mellencamp-hospitalized-after-waking-up-with-sores-all-over-entire-body-heres-what-happened/articleshow/129061461.cms",
-    "time": "2026-03-05T01:44:04.000Z"
   },
   {
     "cat": "World",
@@ -225,15 +351,6 @@ const newsData_en = [
     "time": "2026-03-05T01:39:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Toxic’ delay paves way for Darling Krishna's film",
-    "desc": "Yash's 'Toxic' has been postponed to June 4, 2026, due to global release uncertainties. This move has allowed 'Love Mocktail 3' to claim the March 19 release date. The Darling Krishna starrer, now targeting Ugadi and Eid audiences, continues its emotional narrative with a focus on a father-daughter story.",
-    "img": "https://static.toiimg.com/photo/msid-129061021,imgsize-77240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yashs-toxic-delay-shifts-kannada-release-plans-darling-krishnas-love-mocktail-3-moves-up-to-march-19/articleshow/129061021.cms",
-    "time": "2026-03-05T01:32:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'There's a little window to attack Samson': Faf gives Archer the blueprint",
     "desc": "Sanju Samson delivered a match-winning 97 against the West Indies. This performance marks a significant turnaround for the Indian opener. However, former South Africa captain Faf du Plessis points to a vulnerability. High pace short balls above 140 kmph could trouble Samson. England may use this blueprint in their upcoming semifinal clash.",
@@ -250,15 +367,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/strike-on-iranian-warship-off-sri-lanka-us-israel-iran-war/article70703655.ece",
     "time": "2026-03-05T01:16:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ravi Teja’s luxurious Hyderabad home",
-    "desc": "Tollywood star Ravi Teja, 'Mass Maharaja', lives in a grand, family-oriented Hyderabad residence blending modern and classic Indian styles. Valued in crores, the home boasts high security and is situated in an exclusive celebrity enclave. His estimated net worth, fueled by films and endorsements, is substantial, with additional properties also owned.",
-    "img": "https://static.toiimg.com/photo/msid-129060179,imgsize-154140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/inside-ravi-tejas-luxurious-hyderabad-home-mass-maharajas-family-centric-lifestyle/articleshow/129060179.cms",
-    "time": "2026-03-05T01:09:35.000Z"
   },
   {
     "cat": "Sports",
@@ -385,15 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/west-bengal/the-sir-conundrum-in-west-bengal/article70704815.ece",
     "time": "2026-03-04T20:03:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Rashmika Mandanna–Vijay Deverakonda reception",
-    "desc": "Rashmika Mandanna and Vijay Deverakonda’s wedding reception on March 4 at Taj Krishna, Banjara Hills, Hyderabad, turned into one of the most talked-about gatherings of the year. Stepping inside the venue, stars including Allu Arjun, Nani, Ram Charan and Megastar Chiranjeevi were seen warmly congratulating the couple. Producers Dil Raju and Naga Vamsi also marked their presence.",
-    "img": "https://static.toiimg.com/photo/msid-129047371,imgsize-174058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/inside-rashmika-mandannavijay-deverakonda-reception-allu-arjun-nagarjuna-chiranjeevi-and-tollywood-biggies-shower-love/articleshow/129047371.cms",
-    "time": "2026-03-04T19:44:19.000Z"
   },
   {
     "cat": "Politics",
@@ -531,15 +630,6 @@ const newsData_en = [
     "time": "2026-03-04T15:30:51.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Stock markets bleed on US-Iran war: Rs 16.32 lakh crore gone! Sensex, Nifty down over 2.7%",
-    "desc": "In times of uncertainty, investors look for cues on which pockets to invest in and what strategy to adopt. Market experts that TOI spoke to said that instead of panic selling, investors should adopt a wait-and-watch strategy.",
-    "img": "https://static.toiimg.com/photo/msid-129033292,imgsize-156102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-markets-bleed-on-us-iran-war-rs-16-32-lakh-crore-gone-sensex-nifty-down-over-2-7-what-should-investors-do/articleshow/129033170.cms",
-    "time": "2026-03-04T14:44:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I don't believe': Brook makes bold claim ahead of IND vs ENG semi-final",
     "desc": "Harry Brook says unity, belief and composure have driven England into the T20 World Cup semi-finals against India. He insists they don’t need a “perfect game” to win, backing team spirit and calmness under pressure. Brook also defended Jos Buttler and expressed confidence that a big individual performance is due.",
@@ -556,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bihar-cm-nitish-kumar-to-head-to-rajya-sabha/articleshow/129031559.cms",
     "time": "2026-03-04T14:08:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Last-gasp blow dents India’s start to Women’s Asian Cup campaign",
-    "desc": "India’s Women’s Asian Cup campaign began with a last-gasp 2-1 loss to Vietnam, sealed by a stoppage-time strike. Japan had to stay patient before beating Taiwan 2-0 in hot conditions. Other early winners included hosts Australia, South Korea, North Korea and defending champions China as the continental tournament got underway.",
-    "img": "https://static.toiimg.com/photo/msid-129030990,imgsize-53386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/last-gasp-blow-dents-indias-start-to-womens-asian-cup-campaign/articleshow/129030665.cms",
-    "time": "2026-03-04T13:55:45.000Z"
   },
   {
     "cat": "Sports",
@@ -585,15 +666,6 @@ const newsData_en = [
     "time": "2026-03-04T13:27:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'A big concern': India bowling coach ahead of T20 WC semi-final",
-    "desc": "Ahead of India’s T20 World Cup semi-final against England at Wankhede, bowling coach Morne Morkel warned dew and small boundaries could be crucial factors. He urged bowlers to stay attacking despite tight margins. Head coach Gautam Gambhir said lower dew levels have tested India’s adaptability, stressing game awareness over strike rate in high-pressure World Cup matches.",
-    "img": "https://static.toiimg.com/photo/msid-129027867,imgsize-36696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/a-big-concern-india-bowling-coach-warns-ahead-of-t20-world-cup-semi-final-match-against-england/articleshow/129027712.cms",
-    "time": "2026-03-04T12:50:23.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran-Israel war: A day‑by‑day rundown of the escalating crisis",
     "desc": "A joint U.S.-Israel attack on Iran and the killing of Supreme Leader Ayatollah Ali Khamenei have plunged West Asia into a fast‑spreading war, with Tehran and its allies launching retaliatory strikes across Israel, the Gulf and U.S. bases.",
@@ -601,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
     "time": "2026-03-04T12:44:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar, four others dropped from Pakistan’s squad for ODIs against B'desh",
-    "desc": "Babar Azam has been dropped from Pakistan’s ODI squad for the Bangladesh series after a poor T20 World Cup. Despite a strong ODI record, he is among several senior players left out as Pakistan rebuild for next year’s World Cup. Shaheen Shah Afridi will captain a refreshed squad featuring six uncapped players.",
-    "img": "https://static.toiimg.com/photo/msid-129026938,imgsize-50690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-four-others-dropped-from-pakistans-squad-for-odis-against-bangladesh/articleshow/129025406.cms",
-    "time": "2026-03-04T12:31:03.000Z"
   },
   {
     "cat": "World",
@@ -628,15 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/abhishek-sharmas-top-spot-under-threat-as-sahibzada-farhans-twin-tons-shake-icc-rankings/articleshow/129021396.cms",
     "time": "2026-03-04T10:41:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni fined Rs 1000 after caught breaking traffic rules",
-    "desc": "MS Dhoni was fined Rs 1000 for overspeeding in Ranchi after an automated system issued an e-challan under the Motor Vehicles Act. He also recently received a notice over alleged misuse of a residential plot. Meanwhile, the 44-year-old is training with Chennai Super Kings, aiming for a stronger IPL 2026 after a poor 2025 season.",
-    "img": "https://static.toiimg.com/photo/msid-129021326,imgsize-55442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ms-dhoni-fined-rs-1000-after-caught-breaking-traffic-rules/articleshow/129020973.cms",
-    "time": "2026-03-04T10:34:27.000Z"
   },
   {
     "cat": "Politics",
@@ -747,24 +801,6 @@ const newsData_en = [
     "time": "2026-03-04T01:14:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Under pressure, Karnataka to revise internal quota of SC communities",
-    "desc": "Karnataka's Congress government is reconsidering its decision to fill 56,432 government posts without internal reservation for Scheduled Castes. Following pressure from SC communities and ministers, the cabinet will discuss introducing pro-rata internal reservation within the existing 15% SC quota.",
-    "img": "https://static.toiimg.com/photo/msid-128999642,imgsize-32828.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/under-pressure-karnataka-to-revise-internal-quota-of-sc-communities/articleshow/128999126.cms",
-    "time": "2026-03-04T00:53:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nitish's son Nishant set for political launch ahead of Rajya Sabha election",
-    "desc": "Bihar Chief Minister Nitish Kumar's son, Nishant Kumar, is reportedly set to enter politics, marking a shift from his father's stance against dynastic succession. This move comes amid growing internal party pressure and concerns about leadership transition, with Nishant seen as a potential link to traditional JDU supporters.",
-    "img": "https://static.toiimg.com/photo/msid-128998946,imgsize-37420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nitishs-son-nishant-set-for-political-launch-ahead-of-rajya-sabha-election/articleshow/128998867.cms",
-    "time": "2026-03-04T00:44:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "I worked with a baseball coach to improve my power-hitting game: Sanjay Krishnamurthi",
     "desc": "The USA’s up-and-coming batter, who came up with an impressive display in the T20 showpiece, speaks about how India’s triumph in the 2011 ODI World Cup ignited his passion for the game, early days in Bengaluru, the cricketing journey so far, and future plans",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/athletics/sad-to-see-kerala-failing-to-keep-its-great-tradition-of-female-athletes-valsamma/article70696098.ece",
     "time": "2026-03-03T10:43:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Progress on rules for lethal autonomous weapons urgently needed, says chair of Geneva talks",
-    "desc": "From this week to the mandate's end ​in September, 128 states will discuss whether to agree ⁠by consensus on a non-binding text that could pave the way for future negotiations on prohibitions and regulations on LAWS",
-    "img": "https://th-i.thgim.com/public/incoming/p22jf1/article70698738.ece/alternates/LANDSCAPE_1200/2026-03-03T073826Z_2013931884_RC23TJAOJTLG_RTRMADP_3_ARMS-AI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/progress-on-rules-for-lethal-autonomous-weapons-urgently-needed-says-chair-of-geneva-talks/article70698697.ece",
-    "time": "2026-03-03T09:49:33.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "State media",
-    "desc": "\"A security source reported that fuel tanks at the commercial port of Duqm were targeted by several drones, one of which hit a fuel tank. The resulting damage was contained without any human casualties,\" says the Oman News Agency",
-    "img": "https://th-i.thgim.com/public/incoming/cw145c/article70698797.ece/alternates/LANDSCAPE_1200/Cyprus_Iran_US_Israel_24179.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/drones-hit-fuel-tank-at-oman-port-state-media/article70698772.ece",
-    "time": "2026-03-03T09:46:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Iranian filmmaker Mohammad Rasoulof calls Ayatollah Ali Khamenei ‘most hated figure’ after death in U.S.-Israel strike",
-    "desc": "Iranian director Mohammad Rasoulof, whose film ‘The Seed of the Sacred Fig’ won at Cannes, has condemned Ayatollah Ali Khamenei following the Supreme Leader’s death in a U.S.-Israel military strike, calling him “the most hated figure in the contemporary history of Iran”",
-    "img": "https://th-i.thgim.com/public/incoming/nbud4l/article70698472.ece/alternates/LANDSCAPE_1200/2154565571.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/iranian-filmmaker-mohammad-rasoulof-calls-ayatollah-ali-khamenei-most-hated-figure-after-death-in-us-israel-strike/article70698476.ece",
-    "time": "2026-03-03T07:59:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "All England missed, Sindhu lands back in Bengaluru from Dubai",
-    "desc": "\"A heartfelt thank you to the incredible ground teams, Dubai authorities, airport staff, immigration, and every single person who stepped up and took such good care of us during a very difficult time. The empathy and professionalism meant more than words can say,” says P.V. Sindhu",
-    "img": "https://th-i.thgim.com/public/incoming/bgaldb/article70698397.ece/alternates/LANDSCAPE_1200/YONEX%20BADMINTON%20PC%20DELHI%202026_12_01_29.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/i-am-back-home-all-england-missed-sindhu-lands-back-in-bengaluru-from-dubai/article70698366.ece",
-    "time": "2026-03-03T07:26:49.000Z"
   }
 ];

@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Player battle that can decide IND vs ENG T20 WC semifinal",
+    "desc": "With India taking on England in the 2nd semi-final of the ongoing T20 World Cup 2026, there will be many battles in the clash that the fans will be looking forward to. One of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-vs-jofra-archer-player-battle-that-can-decide-ind-vs-eng-t20-wc-semifinal-2026-03-05-1032659",
+    "time": "2026-03-05T06:33:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bumrah-Arshdeep vs Archer-Curran, which bowler has better stats?",
+    "desc": "The 2nd semi-final of the ongoing T20 World Cup 2026 will see India taking on England. The two sides will face each other at the Wankhede Stadium in Mumbai on March 5, and it is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-t20i-squad-comparison-bumrah-arshdeep-vs-archer-curran-which-bowler-has-better-stats-2026-03-05-1032644",
+    "time": "2026-03-05T05:14:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Which team has hit more sixes in the T20 World Cup 2026?",
     "desc": "Team India will be taking on England in the 2nd semi-final of the ongoing T20 World Cup 2026. The two sides are looking to reach the final of the tournament. It is worth noting that...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-ish-sodhi-not-playing-for-new-zealand-vs-south-africa-in-t20-world-cup-2026-semi-final-2026-03-04-1032595",
     "time": "2026-03-04T13:29:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Allen, Seifert blow South Africa away, take New Zealand into T20 WC final",
-    "desc": "South Africa to host New Zealand in the first semi-final of the T20 World Cup 2026 at the Eden Gardens in Kolkata. The Proteas have played some phenomenal cricket in the ongoing tournament, being unbeaten...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-vs-new-zealand-t20-world-cup-semi-final-match-live-cricket-score-online-updates-from-eden-gardens-kolkata-1032594",
-    "time": "2026-03-04T13:03:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rodrygo ruled out of FIFA World Cup, posts 'Do I deserve this?' on social media",
-    "desc": "Real Madrid and Brazil forward Rodrygo Goes has been ruled out of the season, including the FIFA World Cup, scheduled to begin on June 11, 2026. The 25-year-old hurt his ACL and meniscus in his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/rodrygo-ruled-out-of-fifa-world-cup-posts-do-i-deserve-this-on-social-media-2026-03-04-1032586",
-    "time": "2026-03-04T11:43:59.000Z"
   }
 ];
