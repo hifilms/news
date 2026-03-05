@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Cricketer penalised for misbehaving with female hotel staff during T20 WC",
+    "desc": "After their horrid campaign in the T20 World Cup 2026, Pakistan cricket has been brought to shame once more as an unnamed cricketer was reported and later fined for misbehaving with a female staff member...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/controversy-hits-pakistan-again-cricketer-penalised-for-misbehaving-with-female-hotel-staff-during-t20-wc-2026-03-05-1032685",
+    "time": "2026-03-05T09:07:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Do Indian team need a mental conditioning coach in modern day and age? Dinesh Karthik opines",
+    "desc": "India have breached the 250-run mark in the Super Eights clash against Zimbabwe and went on to beat West Indies by five wickets to qualify for the semi-finals of the T20 World Cup 2026. On...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/do-indian-team-need-a-mental-conditioning-coach-in-modern-day-and-age-dinesh-karthik-opines-2026-03-05-1032675",
+    "time": "2026-03-05T08:19:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What will happen if IND vs ENG T20 World Cup semifinal gets washed out? Check details",
+    "desc": "Weather interruptions have been a major talking point throughout the ongoing T20 World Cup 2026, and with the semi-final of the marquee tournament ongoing, the weather has become one of the most crucial things ahead...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-will-happen-if-ind-vs-eng-t20-world-cup-semifinal-gets-washed-out-check-details-2026-03-05-1032673",
+    "time": "2026-03-05T07:54:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya set to surpass KL Rahul in elite T20I list ahead of semi-final bout against England",
+    "desc": "Star India all-rounder Hardik Pandya is all set to surpass compatriot KL Rahul in an elite list. Team India is all set to lock horns with England in the 2nd semi-final of the ongoing T20...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-set-to-surpass-kl-rahul-in-elite-t20i-list-ahead-of-semi-final-bout-against-england-2026-03-05-1032668",
+    "time": "2026-03-05T07:19:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Player battle that can decide IND vs ENG T20 WC semifinal",
     "desc": "With India taking on England in the 2nd semi-final of the ongoing T20 World Cup 2026, there will be many battles in the clash that the fans will be looking forward to. One of the...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-pitch-report-how-will-surface-at-wankhede-stadium-in-mumbai-play-in-t20-world-cup-semi-final-2026-03-04-1032608",
     "time": "2026-03-05T01:30:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Finn Allen blasts fastest century in T20 World Cup history, New Zealand qualify for T20 World Cup 2026 final",
-    "desc": "Eden Gardens in Kolkata witnessed one of the greatest knocks in T20 history as New Zealand opener Finn Allen produced a breathtaking display against South Africa. Chasing 170 runs, Allen hammered the fastest century in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/finn-allen-blasts-fastest-century-in-t20-world-cup-history-new-zealand-qualify-for-t20-world-cup-2026-final-2026-03-04-1032604",
-    "time": "2026-03-04T16:36:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Finn Allen, Tim Seifert decimate South Africa; New Zealand stamp their ticket to T20 World Cup 2026 final",
-    "desc": "New Zealand defeated South Africa by nine wickets to storm into the T20 World Cup 2026 final. Chasing 170 at Eden Gardens, Kolkata, the Kiwis made it look one-sided as openers Tim Seifert and Finn...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/finn-allen-tim-seifert-decimate-south-africa-new-zealand-stamp-their-ticket-to-t20-world-cup-2026-final-2026-03-04-1032603",
-    "time": "2026-03-04T16:27:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India coach previews semi-final clash against England, says 'good shootout between two aggressive teams'",
-    "desc": "This will mark the third consecutive T20 World Cup semi-final that India will play against England. In the 2022 edition in Australia, the Three Lions had the last laugh and went on to win the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-coach-previews-semi-final-clash-against-england-says-good-shootout-between-two-aggressive-teams-2026-03-04-1032599",
-    "time": "2026-03-04T14:51:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Ish Sodhi not playing for New Zealand vs South Africa in T20 World Cup 2026 semi-final?",
-    "desc": "New Zealand have benched star spinner Ish Sodhi in their semi-final clash against South Africa at the Eden Gardens in Kolkata. Revealing the reason behind the move, captain Mitchell Santner explained that it’s purely strategic...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ish-sodhi-not-playing-for-new-zealand-vs-south-africa-in-t20-world-cup-2026-semi-final-2026-03-04-1032595",
-    "time": "2026-03-04T13:29:38.000Z"
   }
 ];

@@ -1,6 +1,195 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Thavil artiste Amirthavarshini: Performing with A.R. Rahman was a wonderful experience",
+    "desc": "From playing the thavil in the temples of Mannargudi near Thanjavur as a schoolgirl to joining A.R. Rahman’s ‘Wonderment Tour’ concert in Chennai recently, Amirthavarshini Manishankar’s musical journey seems like a fairy tale. But in reality, it is also a story of conviction and perseverance — of a young girl carving a space for herself as a thavil artiste in the male‑dominated world of Carnatic percussion.",
+    "img": "https://th-i.thgim.com/public/incoming/42r6ll/article70706717.ece/alternates/LANDSCAPE_1200/amirthavarshini.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-thavil-artiste-amirthavarshini-performing-with-ar-rahman-was-a-wonderful-experience/article70706716.ece",
+    "time": "2026-03-05T09:37:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, China top Asia-Pacific region with highest metabolic diseases burden",
+    "desc": "In 2023, India had approximately 21 million DALYs and 5.8 lakh deaths from type 2 diabetes. High systolic BP caused nearly 3.8 crore DALYs and about 15.7 lakh deaths, Anoop Misra, one of the co-authors of the study said",
+    "img": "https://th-i.thgim.com/public/incoming/bfxlf5/article70706695.ece/alternates/LANDSCAPE_1200/IMG_Mature_Woman_Doing_B_2_1_NK9LUF3G.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/india-china-top-asia-pacific-region-with-highestmetabolic-diseases-burden/article70706652.ece",
+    "time": "2026-03-05T09:32:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Bear' to end with Season 5 as Carmy exits; Jamie Lee Curtis says 'FINISHED STRONG!'",
+    "desc": "As the curtains prepare to fall on the critically acclaimed culinary drama 'The Bear', fans brace for the highly anticipated fifth season, which promises to unravel the rollercoaster journey of Carmy Berzatto. Following the dramatic twists of Season 4, particularly his bold choice to depart from the kitchen, the series is gearing up for a fitting finale.",
+    "img": "https://static.toiimg.com/photo/msid-129081155,imgsize-123592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/finished-strong-jamie-lee-curtis-confirms-the-bear-to-end-with-season-5-in-emotional-post-as-filming-wraps-on-final-season/articleshow/129081155.cms",
+    "time": "2026-03-05T09:10:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Thalapathy Vijay addresses ‘Jana Nayagan’ controversy",
+    "desc": "Actor-turned-politician Thalapathy Vijay addressed the controversy surrounding his film 'Jana Nayagan' during a rally, stating that while he might be silenced, the public's voice cannot be. He thanked supporters, including Tamil Nadu Chief Minister M. K. Stalin, for their backing amidst the film's release issues. The film's debate has become a wider public issue, linked to his political aspirations.",
+    "img": "https://static.toiimg.com/photo/msid-129080571,imgsize-80958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijay-addresses-jana-nayagan-controversy-says-you-may-silence-me-not-every-vijay/articleshow/129080571.cms",
+    "time": "2026-03-05T08:57:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda recalls telling Salman to get surgery and change his look",
+    "desc": "Govinda recalls suggesting Salman Khan’s makeover in 'Partner', including surgery, fitness and styling changes. He says this led to Salman’s transformed look. Though Partner revived Govinda’s visibility, producer Pahlaj Nihalani claims he couldn’t capitalise on its success, facing shelved films and setbacks afterward.",
+    "img": "https://static.toiimg.com/photo/msid-129080095,imgsize-36074.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/your-hair-is-thinning-govinda-recalls-telling-salman-khan-to-get-surgery-and-change-his-look-before-partner/articleshow/129080095.cms",
+    "time": "2026-03-05T08:44:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Sri Lanka says second Iranian ship awaits entry",
+    "desc": "Sri Lanka on Wednesday (March 4, 2026) said it had recovered over 80 bodies of Iranian sailors killed after a U.S. submarine attack sank the Iranian frigate - IRIS Dena - off Galle, the island's southern coastal town",
+    "img": "https://th-i.thgim.com/public/incoming/79fpma/article70706675.ece/alternates/LANDSCAPE_1200/2026-03-05T083352Z_77797419_RC2OXJAVXIDL_RTRMADP_3_IRAN-CRISIS-SHIP-SRI-LANKA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/sri-lanka-says-second-iranian-ship-awaits-entry/article70706664.ece",
+    "time": "2026-03-05T08:43:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Tumbbad 2' ropes in 'Star Wars', 'Harry Potter' prosthetics experts",
+    "desc": "Celebrated prosthetics artists Shaune Harrison and Paula Anne Booker have signed on for 'Tumbbad 2,' drawing inspiration from the haunting ambiance and craftsmanship of the original film. Their innovative strategy for the sequel is grounded in thorough research of Indian mythology and an analytical approach to the script, aiming to breathe life into mesmerizing new creatures through tangible artistry.",
+    "img": "https://static.toiimg.com/photo/msid-129079451,imgsize-70970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tumbbad-2-taps-prosthetics-experts-from-star-wars-and-harry-potter-for-sohum-shah-nawazuddin-siddiqui-starrer-reports/articleshow/129079451.cms",
+    "time": "2026-03-05T08:39:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajinikanth gets relief in tax case over Chennai property lease",
+    "desc": "Veteran actor Rajinikanth has won a service tax dispute concerning a leased commercial property in Chennai. The Customs, Excise and Service Tax Appellate Tribunal (CESTAT) cancelled a demand for Rs 56.84 lakh, ruling that the property leased to Vasantha Bhavan for hotel operations qualifies for service tax exemption under the Finance Act.",
+    "img": "https://static.toiimg.com/photo/msid-129079594,imgsize-108820.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-gets-relief-in-tax-case-the-tribunal-cancels-service-tax-demand-over-the-jailer-2-actors-chennai-property-lease/articleshow/129079594.cms",
+    "time": "2026-03-05T08:37:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kareena pens note for 'big bro' Ibrahim on his birthday",
+    "desc": "Ibrahim Ali Khan’s birthday sparked warm wishes online as Kareena and Soha Ali Khan shared cute posts and family moments. Kareena’s traditional selfie and funny math quote charmed fans. Ibrahim, who debuted with 'Nadaaniyan' and later did 'Sarzameen', now prepares for sports drama Diler as his big theatrical launch.",
+    "img": "https://static.toiimg.com/photo/msid-129079563,imgsize-66042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khan-pens-heartfelt-note-for-big-bro-ibrahim-ali-khan-on-his-birthday-shares-rare-family-pic/articleshow/129079563.cms",
+    "time": "2026-03-05T08:33:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bachchans, SRK, Dravid, Dhoni: Celebs at Arjun Tendulkar's wedding: WATCH",
+    "desc": "Arjun Tendulkar, son of cricket legend Sachin Tendulkar, tied the knot with Saaniya Chndhok in Mumbai today, March 5. The star-studded event saw the presence of former teammates like MS Dhoni, Rahul Dravid, and Anil Kumble, alongside Bollywood icons Amitabh and Jaya Bachchan, celebrating the joyous occasion.",
+    "img": "https://static.toiimg.com/photo/msid-129079251,imgsize-82662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-jaya-bachchan-abhishek-and-aishwarya-rai-bachchan-ms-dhoni-more-celebs-arrive-at-arjun-tendulkar-saaniya-chndhoks-wedding-watch-videos/articleshow/129077896.cms",
+    "time": "2026-03-05T08:27:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Five games on black soil': Finn Allen reveals the secret behind NZ’s surge",
+    "desc": "Finn Allen's record-breaking century powered New Zealand into the ICC Men's T20 World Cup 2026 final. Allen credited their prior tour of India for adapting to the challenging black-soil pitches, enabling their dominant chase against South Africa. He also lauded the bowlers for setting up the victory and praised his opening partner Tim Seifert's form.",
+    "img": "https://static.toiimg.com/photo/msid-129079152,imgsize-39298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/five-games-on-black-soil-finn-allen-reveals-the-secret-behind-new-zealands-t20-world-cup-surge/articleshow/129079184.cms",
+    "time": "2026-03-05T08:24:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What does Middle East crisis mean for fuel cost? Check city-wise list",
+    "desc": "Despite escalating Middle East tensions and a surge in global crude oil prices, petrol and diesel rates in major Indian cities remain steady. Government sources indicate a strategy to shield consumers, with oil marketing companies absorbing some of the price hike. This approach aims to prevent significant inflation and GDP impact, ensuring stability for the public.",
+    "img": "https://static.toiimg.com/photo/msid-129078656,imgsize-36476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/petrol-and-diesel-prices-today-what-does-middle-east-crisis-mean-for-fuel-cost-check-city-wise-list-of-current-rates/articleshow/129078558.cms",
+    "time": "2026-03-05T08:14:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Marlon Wayans to ‘cancel the cancel culture’ with ‘Scary Movie 6’",
+    "desc": "Marlon Wayans is set to breathe new life into the 'Scary Movie' series, aiming to reintroduce unapologetic humor that pushes back against cancel culture. In 'Scary Movie 6', audiences can expect a sharp satire of contemporary horror hits and pop culture phenomena, with fan favorites like Anna Faris returning to the fold.",
+    "img": "https://static.toiimg.com/photo/msid-129078638,imgsize-99976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/there-are-no-safe-spaces-marlon-wayans-aims-to-cancel-the-cancel-culture-with-scary-movie-6/articleshow/129078503.cms",
+    "time": "2026-03-05T08:14:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war: A day‑by‑day rundown of the escalating crisis",
+    "desc": "A joint U.S.-Israel attack on Iran and the killing of Supreme Leader Ayatollah Ali Khamenei have plunged West Asia into a fast‑spreading war, with Tehran and its allies launching retaliatory strikes across Israel, the Gulf and U.S. bases.",
+    "img": "https://th-i.thgim.com/public/incoming/z8eofi/article70702941.ece/alternates/LANDSCAPE_1200/AFP_99V379F.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
+    "time": "2026-03-05T07:44:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Nirantar’ Nitish turns a new page, set for Rajya Sabha after decades as Bihar CM",
+    "desc": "Bihar Chief Minister Nitish Kumar is stepping down after leading the NDA to a significant victory, opting to move to the Rajya Sabha. This marks a major political shift for the veteran leader, opening the door for the BJP to potentially appoint its own chief minister in the state.",
+    "img": "https://static.toiimg.com/photo/msid-129074066,imgsize-824193.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nirantar-nitish-turns-a-new-page-set-for-rajya-sabha-after-decades-as-bihar-cm/articleshow/129073849.cms",
+    "time": "2026-03-05T07:39:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Director on casting Madhuri Dixit in ‘Maa Behen’",
+    "desc": "Madhuri Dixit-Nene instantly accepted 'Maa Behen' after one narration. Director Suresh Triveni, shifting to lighter storytelling post-Jalsa, praised her comic timing and dedication. The film, co-starring Triptii Dimri, Ravi Kishan, and Dharna Durga, features Madhuri as a fun-loving mother. Triveni admired her humility during 14 workshops and commitment to learning.",
+    "img": "https://static.toiimg.com/photo/msid-129076721,imgsize-20706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/director-suresh-triveni-opens-up-on-casting-madhuri-dixit-in-maa-behen-madhuri-maam-is-beautiful-with-comedy/articleshow/129076721.cms",
+    "time": "2026-03-05T07:34:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mohanlal’s net worth: 'Drishyam 3' star’s earnings",
+    "desc": "Superstar Mohanlal, a powerhouse in Indian cinema for over four decades, is reportedly worth USD 50 million. His earnings stem from substantial film fees, overseas rights, and successful business ventures including a spice brand. Mohanlal also demonstrates financial discipline, often absorbing losses for smaller films, and owns a film studio and theatres.",
+    "img": "https://static.toiimg.com/photo/msid-129076427,imgsize-181250.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlals-net-worth-how-drishyam-3-star-built-his-rs-400-crore-empire-with-earnings-businesses-and-rs-20-crore-film-fees/articleshow/129076427.cms",
+    "time": "2026-03-05T07:28:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "​‘Young Sherlock’: All about the cast, plot, and where to watch",
+    "desc": "The highly anticipated period mystery ‘Young Sherlock’ is now available for streaming. Starring Hero Fiennes Tiffin, the series offers a different look at the well-known detective long before he became the sharp, confident figure people know from classic stories. The series is inspired by Andrew Lane’s 2010 novel ‘Young Sherlock Holmes.’Here’s the complete watch guide for ‘Young Sherlock.’ Set in the 1870s, ‘Young Sherlock’ follows 19-year-old Sherlock at Oxford University. The Impulsive young man finds himself stuck in a murder case and begins investigating to clear his name. As the case unfolds, it reveals a larger conspiracy that shapes his future and introduces his first encounter with James Moriarty, played by Dónal Finn. T.",
+    "img": "https://static.toiimg.com/photo/msid-129075813,imgsize-445035.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/young-sherlock-all-about-the-cast-plot-and-where-to-watch-a-complete-guide/photostory/129075813.cms",
+    "time": "2026-03-05T07:13:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Lanterns' teaser shows Kyle Chandler and Aaron Pierre as Green Lanterns",
+    "desc": "HBO's 'Lanterns' teaser unveils a grounded Earth-based investigation featuring Kyle Chandler's Hal Jordan and Aaron Pierre's John Stewart. The preview highlights their uneasy partnership, with Jordan mentoring the new recruit Stewart. The series hints at the Green Lantern Corps' diverse mythology while focusing on character dynamics and a mysterious killing in the American heartland.",
+    "img": "https://static.toiimg.com/photo/msid-129075533,imgsize-113722.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lanterns-teaser-kyle-chandler-and-aaron-pierre-clash-in-gritty-first-look-of-dc-series/articleshow/129075533.cms",
+    "time": "2026-03-05T07:12:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Finished it before we could settle in’",
+    "desc": "Amidst his son Arjun Tendulkar's wedding festivities, batting legend Sachin Tendulkar lauded Finn Allen's explosive 100 off 33 balls in the T20 World Cup semi-final. Allen's record-breaking century powered New Zealand to a swift victory, leaving Tendulkar impressed by the rapid finish to the match.",
+    "img": "https://static.toiimg.com/photo/msid-129075706,imgsize-26940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sachin-tendulkar-left-stunned-by-finn-allen-blitz-finished-it-before-we-could-settle-in/articleshow/129075622.cms",
+    "time": "2026-03-05T07:10:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Richa Chadha opens up on working in Hollywood",
+    "desc": "Richa Chadha, known for her bold Bollywood roles, now aims to venture into Western cinema, inspired by husband Ali Fazal’s global success in films like 'Furious 7' and 'Death on the Nile'. Having worked in 'Masaan' and 'Love Sonia', Richa hopes to find strong Hollywood scripts to expand her international career.",
+    "img": "https://static.toiimg.com/photo/msid-129075235,imgsize-35214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/richa-chadha-opens-up-on-working-in-hollywood-aiming-to-follow-husband-ali-fazals-footsteps-hes-just-been-so-amazing/articleshow/129075235.cms",
+    "time": "2026-03-05T07:01:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Nick calls Priyanka's bedroom habit a ‘NIGHTMARE'",
     "desc": "Priyanka Chopra and Nick Jonas' differing sleep temperatures have become a playful point of contention. Nick revealed he prefers a freezing room, while Priyanka likes it warmer, calling her preference \"nightmare material.\" This follows Priyanka's admission that Nick dislikes their usual date night of watching movies and eating takeout in bed, as he believes beds are solely for sleeping.",
     "img": "https://static.toiimg.com/photo/msid-129071013,imgsize-77630.cms",
@@ -90,6 +279,15 @@ const newsData_en = [
     "time": "2026-03-05T06:05:56.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "With Amit Shah by his side, Bihar CM Nitish Kumar files nomination for Rajya Sabha",
+    "desc": "Bihar Chief Minister Nitish Kumar filed his Rajya Sabha nomination today, accompanied by Union Home Minister Amit Shah. This move follows his decision to step down and head to Parliament, fulfilling a long-held aspiration. The transition, occurring after a recent election victory, signals a potential shift in Bihar's leadership within the NDA.",
+    "img": "https://static.toiimg.com/photo/msid-129080046,imgsize-1159422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/new-govt-will-have-my-full-cooperation-nitish-kumar-bids-adieu-to-bihar-politics-eyes-rajya-sabha-seat/articleshow/129071574.cms",
+    "time": "2026-03-05T05:45:09.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "What happens if India vs England semi-final washes out? ICC rules explained",
     "desc": "India face England in the T20 World Cup semi-final on Thursday, with a reserve day in place by the ICC. A minimum of 10 overs per side is needed for a result. If the match is entirely washed out, England, having topped their Super 8 group, would advance over India, who finished second in their Super 8 group.",
@@ -106,42 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/fact-check-will-sanju-samson-miss-t20-world-cup-semi-final-vs-england-over-a-possible-ban/articleshow/129069908.cms",
     "time": "2026-03-05T05:12:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gosling reveals his kids' involvement in ‘Project Hail Mary’",
-    "desc": "Ryan Gosling's daughters, Esmeralda and Amada, played a surprising role in his upcoming sci-fi film, 'Project Hail Mary'. They provided voice lines for the alien Rocky during filming, helping Gosling react in real-time. His children also offered costume advice and have seen multiple cuts, making them his most trusted critics for the movie he made for them.",
-    "img": "https://static.toiimg.com/photo/msid-129069873,imgsize-139434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-gosling-spills-beans-on-how-his-kids-were-involved-in-project-hail-mary-theyve-seen-so-many-cuts/articleshow/129069476.cms",
-    "time": "2026-03-05T05:09:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' crosses USD 500K at US box office",
-    "desc": "'Dhurandhar 2' is generating immense buzz, with advance bookings in the US already surpassing its predecessor's opening day collections. The spy thriller, starring Ranveer Singh, has sold over USD 330K in tickets for its opening day and USD 565K for the entire weekend, with 13 days still to go before its March 19 release.",
-    "img": "https://static.toiimg.com/photo/msid-129067867,imgsize-77416.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-advance-booking-beats-dhurandhar-day-1-collections-after-toxic-clash-averted-ranveer-singh-starrer-crosses-usd-500k-mark-at-us-box-office/articleshow/129067655.cms",
-    "time": "2026-03-05T05:06:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Singapore’s ‘Ageless model’ Chuando Tan, who just turned 60: ‘He is a vampire’",
-    "desc": "Chuando Tan, a Singaporean model and photographer, has celebrated his 60th birthday. His ageless appearance has captivated the internet, with many expressing disbelief. Tan shared a reflective message about time and embracing nature. He previously gained global attention in 2017 for his youthful looks at 51. Tan emphasizes inner well-being and self-acceptance over chasing perfection.",
-    "img": "https://static.toiimg.com/photo/msid-129068898,imgsize-759018.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/netizens-stunned-by-singapores-ageless-model-chuando-tan-who-just-turned-60-he-is-a-vampire/articleshow/129068904.cms",
-    "time": "2026-03-05T04:45:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pink reacts as Olympian Chloe Kim’s confuses her identity",
-    "desc": "During a lively segment on a recent talk show, Olympic snowboarder Chloe Kim hilariously confused Grammy-winning singer Pink for Kelly Clarkson. Pink, who was guest-hosting in Clarkson's absence, chuckled at the blunder. Kim, clearly flustered and just having rolled out of bed, quickly apologized for the mix-up.",
-    "img": "https://static.toiimg.com/photo/msid-129068778,imgsize-192410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/im-kelly-clarkson-today-pink-reacts-after-olympian-chloe-kims-confuses-her-identity/articleshow/129068778.cms",
-    "time": "2026-03-05T04:44:34.000Z"
   },
   {
     "cat": "Sports",
@@ -162,24 +324,6 @@ const newsData_en = [
     "time": "2026-03-05T04:27:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Harry Styles opens up about his family plans",
-    "desc": "Harry Styles is prioritizing family and meaningful relationships, stepping back from the spotlight to define his future. His rumored romance with Zoë Kravitz is reportedly serious, with mutual respect and friendship at its core. Meanwhile, Styles is set to release his fourth album, 'Kiss All the Time. Disco, Occasionally,' on March 6, following the success of his single 'Aperture'.",
-    "img": "https://static.toiimg.com/photo/msid-129067282,imgsize-134696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-opens-up-about-family-planning-as-zo-kravitz-romance-heats-up-i-want-to-be-fulfilled/articleshow/129067108.cms",
-    "time": "2026-03-05T04:10:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aishwarya SPOTTED on the film sets",
-    "desc": "Aishwarya Rai Bachchan returned to film sets this week, sparking fan excitement with a candid selfie alongside a young co-star. While details of the project, believed to be an advertisement, are undisclosed, the heartwarming behind-the-scenes glimpse offered a welcome update for fans. This marks one of her few public appearances since her family's US holiday.",
-    "img": "https://static.toiimg.com/photo/msid-129065066,imgsize-138162.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-bachchan-spotted-on-the-film-sets-poses-for-a-selfie-with-her-kiddie-co-star/articleshow/129065066.cms",
-    "time": "2026-03-05T04:10:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India, Eng clash in third straight semifinal",
     "desc": "India and England face off in a crucial T20 World Cup semifinal at Wankhede. Both teams have a history of knockout wins against each other, with the victor often lifting the trophy. England enter with momentum from their Super 8 wins, while India aim to defy historical trends for defending champions and hosts.",
@@ -187,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/imperfect-rivals-look-for-the-perfect-night-india-england-clash-in-third-straight-t20-world-cup-semifinal/articleshow/129066802.cms",
     "time": "2026-03-05T04:02:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Billy Porter says sepsis left him fighting for his life",
-    "desc": "Billy Porter, the acclaimed entertainer, has emerged from a life-threatening battle with urosepsis, a severe infection that left him fighting for his life. The 56-year-old revealed he was 'dead for three days' on life support after a kidney stone led to a rapid crisis. Doctors also performed emergency surgery on his leg to save it.",
-    "img": "https://static.toiimg.com/photo/msid-129066938,imgsize-514702.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/billy-porter-says-he-was-dead-for-three-days-during-sepsis-battle/articleshow/129066904.cms",
-    "time": "2026-03-05T04:01:48.000Z"
   },
   {
     "cat": "Business",
@@ -225,15 +360,6 @@ const newsData_en = [
     "time": "2026-03-05T03:29:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Selena Gomez opens up about bipolar disorder and early misdiagnosis",
-    "desc": "Selena Gomez candidly shared her journey with bipolar disorder, revealing early misdiagnoses complicated her path to understanding. She emphasized the difficulty of finding the right help, having sought it through multiple therapists and four rehab stints. Gomez now views her diagnosis as a liberation, transforming her struggles into purpose through her work and advocacy.",
-    "img": "https://static.toiimg.com/photo/msid-129065579,imgsize-867880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/selena-gomez-opens-up-about-mental-health-issues-i-think-i-was-misdiagnosed/articleshow/129065596.cms",
-    "time": "2026-03-05T03:28:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How Shivam Dube became India’s man for clutch moments",
     "desc": "Shivam Dube has consistently delivered crucial performances for India in T20 cricket's high-pressure moments. From the T20 World Cup final to the Asia Cup, his timely contributions have steered the team to victory. Dube's batting momentum is building, and his impact, even in brief cameos, is vital for India's success, though his bowling requires improvement.",
@@ -241,42 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-how-shivam-dube-became-indias-man-for-clutch-moments/articleshow/129065410.cms",
     "time": "2026-03-05T03:25:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Padayaatra' wraps 40-day shoot",
-    "desc": "Mammootty and Adoor Gopalakrishnan have completed shooting for their highly anticipated film 'Padayaatra' in a single 40-day schedule. This marks a reunion after over three decades. The movie, reportedly set in the socio-politically charged 1970s-80s Kerala, is expected to be a realistic drama. Its release will follow Mammootty's other major project, 'Patriot'.",
-    "img": "https://static.toiimg.com/photo/msid-129065218,imgsize-287062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/padayaatra-wraps-40-day-shoot-mammootty-and-adoor-gopalakrishnan-reunite-after-33-years/articleshow/129065218.cms",
-    "time": "2026-03-05T03:24:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman Khan all smiles on set amid dad's recovery",
-    "desc": "Salman Khan was recently seen in high spirits on the sets of his upcoming film, 'Battle of Galwan'. Fans expressed joy at seeing the actor smile, especially following his father's recent health scare. Khan has been balancing work commitments with caring for his father, even relocating the film's schedule to be closer to the hospital.",
-    "img": "https://static.toiimg.com/photo/msid-129063961,imgsize-154202.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-is-all-smiles-on-battle-of-galwan-sets-amid-father-salim-khans-recovery-in-hospital-pics/articleshow/129063299.cms",
-    "time": "2026-03-05T03:01:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Is Harry Styles’ mom showing support for Zoë Kravitz?",
-    "desc": "In a heartwarming show of support, Anne Twist, Harry Styles' mother, has given a thumbs-up to a video featuring actress Zoë Kravitz, fueling excitement around Harry's budding romance. As he gears up for the release of his latest album, 'Kiss All the Time.",
-    "img": "https://static.toiimg.com/photo/msid-129063958,imgsize-70260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/is-harry-styles-mom-anne-twist-showing-support-for-zo-kravitz-her-latest-like-sparks-buzz/articleshow/129063958.cms",
-    "time": "2026-03-05T02:48:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Travis Kelce shares what he'll miss most if he retires",
-    "desc": "the intense pressure and electrifying atmosphere of big games. He cherishes the feeling of rising to the occasion for thousands of fans. With his contract ending, Kelce is contemplating retirement, prioritizing informing the Chiefs before the draft.",
-    "img": "https://static.toiimg.com/photo/msid-129063956,imgsize-142162.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swifts-fianc-and-nfl-player-travis-kelce-shares-what-hell-miss-most-if-he-retires-from-football/articleshow/129063777.cms",
-    "time": "2026-03-05T02:47:58.000Z"
   },
   {
     "cat": "Business",
@@ -288,24 +378,6 @@ const newsData_en = [
     "time": "2026-03-05T02:38:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Career defined by bold roles",
-    "desc": "Actress Rajshri Deshpande bravely shared her diagnosis of early-stage breast cancer, detected during a routine check-up. She detailed her journey through tests and surgery, emphasizing the crucial role of early detection and the immense support from her loved ones and medical team. Now recovering, Deshpande looks forward to brighter days.",
-    "img": "https://static.toiimg.com/photo/msid-129063131,imgsize-150236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/meet-rajshri-deshpande-from-malayalam-film-sexy-durga-to-sacred-games-career-defined-by-bold-roles/articleshow/129063131.cms",
-    "time": "2026-03-05T02:32:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Friday OTT releases (March 6, 2026)",
-    "desc": "As Friday progresses and the weekend follows, our favorite OTT platforms are geared up to treat us with the soulful movies that feel like sharing secrets with old friends over a cup of hot tea on a cold, starry night. These movies aren't just releases; they are windows into the messy lives of humans, where you can spot sly grins amidst chaos, or where hearts heal in quiet corners, far away from the noise of life. So before you make any of your weekend plans, consider these new 7 Friday OTT releases for a binge-marathon.",
-    "img": "https://static.toiimg.com/photo/msid-129063170,imgsize-1563058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/friday-ott-releases-march-6-2026-7-new-movies-from-gandhi-talks-baby-girl-to-granny/photostory/129063170.cms",
-    "time": "2026-03-05T02:27:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India, England ready for shootout at Wankhede",
     "desc": "Heat, dew and high stakes set the stage at Wankhede as India and England gear up for a semi-final shootout. With Varun Chakravarthy’s rhythm under focus and Morkel backing instinct over caution, the clash could hinge on small margins and who reads conditions best.",
@@ -313,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-india-england-ready-for-shootout-at-wankhede/articleshow/129062877.cms",
     "time": "2026-03-05T02:22:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Kerala Story 2' hits Rs 20 crore mark on Day 6",
-    "desc": "Goes Beyond' has garnered an estimated Rs 20.15 crore in its first six days at the Indian box office, despite a controversial release. The film saw a slight dip on Wednesday after a Holi holiday boost. While performing steadily, its collection remains significantly lower than the 2023 original.",
-    "img": "https://static.toiimg.com/photo/msid-129062077,imgsize-88252.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-6-film-maintains-grip-earns-rs-20-crore-net/articleshow/129061096.cms",
-    "time": "2026-03-05T01:58:11.000Z"
   },
   {
     "cat": "World",
@@ -622,24 +685,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Kerala launches counselling support to expats, families back home",
-    "desc": "Expatriate Keralites and their family members can access 24X7 the services of counsellors under ‘Tele-Manas.’ Anxiety triggered by exaggerated portrayal of the crisis by a section of the media is causing greater distress to expatriates and their families, says NoRKA-Roots CEO",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/west-asia-crisis-kerala-launches-counselling-support-to-expats-families-back-home/article70704262.ece",
-    "time": "2026-03-04T15:30:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I don't believe': Brook makes bold claim ahead of IND vs ENG semi-final",
-    "desc": "Harry Brook says unity, belief and composure have driven England into the T20 World Cup semi-finals against India. He insists they don’t need a “perfect game” to win, backing team spirit and calmness under pressure. Brook also defended Jos Buttler and expressed confidence that a big individual performance is due.",
-    "img": "https://static.toiimg.com/photo/msid-129033112,imgsize-40454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-dont-believe-harry-brook-makes-bold-claim-ahead-of-ind-vs-eng-t20-world-cup-semi-final-game/articleshow/129032345.cms",
-    "time": "2026-03-04T14:43:33.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "JDU sources",
     "desc": "The Election Commission of India (ECI) has announced the schedule for the upcoming biennial elections to the Council of States (Rajya Sabha) to fill 37 seats across 10 states, as the terms of the current members end in April 2026, according to a press note. The seats are set to fall vacant as the terms of members elected from Maharashtra, Odisha, Tamil Nadu, West Bengal, Assam, Bihar, Chhattisgarh, Haryana, Himachal Pradesh and Telangana conclude next month.",
     "img": "https://static.toiimg.com/photo/msid-129031550,imgsize-752609.cms",
@@ -655,24 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-sunil-gavaskar-sanju-samsons-innings-was-one-of-the-finest-t20-knocks-we-have-seen/article70703763.ece",
     "time": "2026-03-04T13:41:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ATP cancels Fujairah tournaments; agrees to fly players out after €5,000 charter backlash",
-    "desc": "ATP Tour has cancelled the Fujairah Challenger tournaments in the UAE after escalating Middle East tensions raised safety concerns. Players, officials and ball kids had earlier rushed for cover during a drone scare near the venue. The ATP also faced backlash for proposing a €5,000 charter flight for evacuation before reversing course and agreeing to cover players’ travel costs.",
-    "img": "https://static.toiimg.com/photo/msid-129029033,imgsize-15028.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/atp-cancels-fujairah-tournaments-amid-middle-east-tensions-agrees-to-fly-players-out-after-5000-charter-backlash/articleshow/129029112.cms",
-    "time": "2026-03-04T13:27:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel war: A day‑by‑day rundown of the escalating crisis",
-    "desc": "A joint U.S.-Israel attack on Iran and the killing of Supreme Leader Ayatollah Ali Khamenei have plunged West Asia into a fast‑spreading war, with Tehran and its allies launching retaliatory strikes across Israel, the Gulf and U.S. bases.",
-    "img": "https://th-i.thgim.com/public/incoming/z8eofi/article70702941.ece/alternates/LANDSCAPE_1200/AFP_99V379F.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
-    "time": "2026-03-04T12:44:37.000Z"
   },
   {
     "cat": "World",
@@ -774,33 +801,6 @@ const newsData_en = [
     "time": "2026-03-04T04:57:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "6L kids born with anomalies per year but no national registry to track them",
-    "desc": "India faces a critical gap in tracking nearly 6 lakh babies born annually with congenital anomalies, as these conditions increasingly contribute to child mortality. To address this, Smile Train India and Birth Defects Research Foundation launched BIND, advocating for a National Birth Anomalies Registry to improve data, identify risk factors, and guide health planning for better prevention and care.",
-    "img": "https://static.toiimg.com/photo/msid-129001373,imgsize-475136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/6l-kids-born-with-anomalies-per-year-but-no-national-registry-to-track-them/articleshow/129001356.cms",
-    "time": "2026-03-04T02:10:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ravi Shankar to head Lok Sabha privileges panel",
-    "desc": "Lok Sabha Speaker Om Birla has formed the committee of privileges. This important panel will examine complaints of breach of privilege. BJP MP Ravi Shankar Prasad will lead the 15-member committee. The panel includes members from both the ruling NDA and opposition parties. A complaint against Rahul Gandhi is pending Speaker's decision.",
-    "img": "https://static.toiimg.com/photo/msid-129001059,imgsize-54886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ravi-shankar-to-head-lok-sabha-privileges-panel/articleshow/129001003.cms",
-    "time": "2026-03-04T01:57:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "US, Israel attacks Iran: AIMPLB urges UN to take steps for ceasefire",
-    "desc": "The All India Muslim Personal Law Board has strongly condemned the US-Israel's actions against Iran, calling for immediate international intervention to secure a ceasefire. The board expressed sorrow over the reported martyrdom of Iran's supreme leader, Ayatollah Khamenei, and highlighted that targeting leadership and advocating regime change violates international law.",
-    "img": "https://static.toiimg.com/photo/msid-128999782,imgsize-29604.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/us-israel-attacks-iran-aimplb-urges-un-to-take-steps-for-ceasefire/articleshow/128999709.cms",
-    "time": "2026-03-04T01:14:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "I worked with a baseball coach to improve my power-hitting game: Sanjay Krishnamurthi",
     "desc": "The USA’s up-and-coming batter, who came up with an impressive display in the T20 showpiece, speaks about how India’s triumph in the 2011 ODI World Cup ignited his passion for the game, early days in Bengaluru, the cricketing journey so far, and future plans",
@@ -873,15 +873,6 @@ const newsData_en = [
     "time": "2026-03-03T13:11:53.000Z"
   },
   {
-    "cat": "World",
-    "title": "IAEA confirms entrances to Iran's Natanz enrichment plant were bombed",
-    "desc": "The underground Fuel ‌Enrichment Plant (FEP) is one ‌of ⁠Iran’s three uranium-enrichment plants that ⁠are known to have been operating when Israel and the United States ​carried out ‌strikes on Iranian nuclear facilities last June",
-    "img": "https://th-i.thgim.com/public/incoming/xuphzi/article70699149.ece/alternates/LANDSCAPE_1200/Iran_Nuclear_65821.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iaea-confirms-entrances-to-irans-natanz-enrichment-plant-were-bombed/article70699125.ece",
-    "time": "2026-03-03T13:11:00.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Anthropic’s resistance to the U.S. Department of Defence, OpenAI’s entry: Explained",
     "desc": "The Dario Amodei-led firm refused to cooperate with the U.S. government’s demands that the firm’s products be used in the deployment of autonomous strikes. The firm has been threatened with being designated as a “supply chain risk”",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/athletics/sad-to-see-kerala-failing-to-keep-its-great-tradition-of-female-athletes-valsamma/article70696098.ece",
     "time": "2026-03-03T10:43:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Iranian filmmaker Mohammad Rasoulof calls Ayatollah Ali Khamenei ‘most hated figure’ after death in U.S.-Israel strike",
+    "desc": "Iranian director Mohammad Rasoulof, whose film ‘The Seed of the Sacred Fig’ won at Cannes, has condemned Ayatollah Ali Khamenei following the Supreme Leader’s death in a U.S.-Israel military strike, calling him “the most hated figure in the contemporary history of Iran”",
+    "img": "https://th-i.thgim.com/public/incoming/nbud4l/article70698472.ece/alternates/LANDSCAPE_1200/2154565571.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/iranian-filmmaker-mohammad-rasoulof-calls-ayatollah-ali-khamenei-most-hated-figure-after-death-in-us-israel-strike/article70698476.ece",
+    "time": "2026-03-03T07:59:50.000Z"
   }
 ];
