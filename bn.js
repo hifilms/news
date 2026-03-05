@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ইরানের কাছে হারবে আমেরিকা? চিনা নস্ট্রাদামুসের আগের ভবিষ্যদ্বাণী কিন্তু হুবহু মিলেছে!",
+    "desc": "২০২৪ সালের এক বক্তব্যের ভিডিয়ো নতুন করে সোশ্যাল মিডিয়ায় ছড়িয়ে পড়ছে। সেখানে চিনা নস্ট্রাদামুসে যা বলেছেন, তা হয়তো অসম্ভব কথা, শুনে বিশ্বাস হয় না। কী বলেছেন? জিয়াং না কি ভবিষ্যদ্বাণী করেছিলেন, ইরানের সঙ্গে যুদ্ধে হেরে যাবে মার্কিন যুক্তরাষ্ট্র! তাই নাকি? এ-ও কি সম্ভব?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/china-nostradamus-chinese-professor-xueqin-jiang-said-us-will-lose-the-iran-war-what-is-next_643804.html ",
+    "time": "2026-03-05T15:18:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "নীতীশকে সরিয়েছে এক বিভীষণ, বিহারের কুর্সি দখলে কার সঙ্গে বিজেপির মারাত্মক চক্রান্ত? তুলকালাম...",
+    "desc": "নীতীশ কুমারের এই ঘোষণার পর থেকে পটনায় মুখ্যমন্ত্রীর বাসভবনের সামনে বিক্ষোভ শুরু করেন কয়েক ডজন জেডি(ইউ) কর্মী। বিক্ষোভকারীরা দলের জাতীয় কার্যনির্বাহী সভাপতি সঞ্জয় কুমার ঝা এবং কেন্দ্রীয় মন্ত্রী লালন সিংয়ের বিরুদ্ধে ‘বিশ্বাসঘাতকতা’র অভিযোগ তোলেন। পরিস্থিতি সামাল দিতে পুলিসকে ব্যারিকেড দিয়ে রাস্তা বন্ধ করতে হয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/india-politics-operation-lotus-jdu-nitish-supporters-target-sanjay-jha-lalan-singh-bihar-politics-crisis_643795.html ",
+    "time": "2026-03-05T13:43:21.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "আগামী ৭২ ঘণ্টা...! ভারী বৃষ্টি কাঁপাবে ১৭ রাজ্য, ৪৮ ঘণ্টায় তাপমাত্রায় চরম হুঁশিয়ারি কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
     "desc": "নতুন করে সৃষ্টি হওয়া পশ্চিমী ঝঞ্ঝার প্রভাবে আবহাওয়া আবারও বদলাতে চলেছে। আবহাওয়া বিভাগ একটি সতর্কতা জারি করেছে, আগামী ৭২ ঘণ্টায় অনেক রাজ্যে ভারী বৃষ্টিপাত হতে পারে দেশের একাধিক রাজ্যে। অন্যদিকে লাফিয়ে পারদ চড়বে এই রাজ্যগুলিতে! দেখুন আবহাওয়ার লেটেস্ট আপডেট।",
@@ -259,15 +277,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/entertainment/holi-2026-rohan-angana-at-the-holi-party-why-didnt-the-actress-apply-more-paint-on-her-face-pbd-2568573.html",
     "time": "2026-03-04T08:45:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Israel's 'Pentagon' Hit: ইসরায়েলের 'পেন্টাগনে' ভয়ংকর হামলা ইরানের! ইসরায়েলি প্রতিরক্ষার সদর দফতরে ঢুকে পড়ল ইরানি...",
-    "desc": "তেহরান জানিয়েছে, ইজরায়েলের বহুতর বিশিষ্ট আকাশ প্রতিরক্ষা ব্যবস্থার প্রযুক্তিগত ত্রুটি ব্যবহার করে তাদের ক্ষেপণাস্ত্রগুলি সামরিক নির্মাণগুলিতে পৌঁছতে সক্ষম হয়েছে। ইরানের ইসলামিক রেভল্যুশনারি গার্ড কর্পস (IRGC) দাবি করেছে, তারা মধ্য তেল আভিভের 'হাকিরিয়া' কমপ্লেক্সে সফল হামলা চালিয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/iran-israel-war-iran-israel-us-war-israels-pentagon-hit-iran-claims-successful-strike-on-defence-ministry-headquarters-idf_643613.html ",
-    "time": "2026-03-04T08:20:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -790,15 +799,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-afghanistani-afghan-do-you-know-how-much-an-indian-500-rupee-note-is-worth-in-afghanistan-you-will-be-shocked-to-hear-the-answer-trending-knowledge-sanj-2562598.html",
     "time": "2026-02-28T12:15:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Israel- Iran War: মধ্যপ্রাচ্যে আগুনের লেলিহান শিখা, পরমাণু শক্তিধর ইরানের নখ-দাঁতে ছিন্নভিন্ন ৭ প্রতিবেশী দেশ, চুরমার 'ইসলামিক' ঐক্য? তৃতীয় বিশ্বযুদ্ধ...",
-    "desc": "২০২৬ সালের ফেব্রুয়ারি মাস বিশ্ব ইতিহাসের এক রক্তাক্ত অধ্যায় হিসেবে চিহ্নিত হতে চলেছে। মধ্যপ্রাচ্যের ভূ-রাজনীতিতে যে অস্থিরতা গত কয়েক বছর ধরে ধিকিধিকি জ্বলছিল,তা এখন এক ভয়াবহ দাবানলে পরিণত হয়েছে। ইরানের সাম্প্রতিক সামরিক পদক্ষেপ কেবল ইসরায়েল নয়, বরং গোটা অঞ্চলের সাতটি দেশকে যুদ্ধের কিনারে ঠেলে দিয়েছে। আন্তর্জাতিক সংবাদমাধ্যমের সূত্র অনুযায়ী, ইরানের এই বহুমুখী আক্রমণ মধ্যপ্রাচ্যের মানচিত্র বদলে দেওয়ার পাশাপাশি এক বিশ্বযুদ্ধের দামামা বাজিয়ে দিয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/iran-attacks-middle-east-7-countries-us-israel-war-impact-third-world-war-us-gulf-syria-jordon-saudi-arab-kuwait-uae-islamic-nato_643117.html ",
-    "time": "2026-02-28T12:14:07.000Z"
   },
   {
     "cat": "World",

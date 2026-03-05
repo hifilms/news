@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ટીમ ઈન્ડિયા માટે વિલન બન્યો આ ખેલાડી, 7 ઈનિંગમાં માત્ર 89 રન, કોચ-કેપ્ટનનો ભરોસો તોડ્યો",
+    "desc": "હાલ ટી20 વર્લ્ડ કપ ચાલુ છે અને આજે બીજી સેમી ફાઈનલ મુંબઈના વાનખેડે સ્ટેડિયમમાં ભારત અને ઈંગ્લેન્ડ વચ્ચે રમાઈ રહી છે. પરંતુ એક ખેલાડી એવો છે જેણે આખા વર્લ્ડ કપમાં ટીમ ઈન્ડિયાની નાવડી ડૂબાડવામાં કોઈ કસર છોડી નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-abhishek-sharma-scored-only-89-runs-in-7-innings-broke-the-trust-of-the-coach-captain-467352 ",
+    "time": "2026-03-05T14:57:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ક્રૂડ ઓઇલ $1 પણ મોંઘુ થાય તો આવી બનશે! પેટ્રોલ અને ડીઝલના ભાવ કેટલા વધશે? જાણી લો કેલ્ક્યુલેશન",
+    "desc": "પશ્ચિમ એશિયામાં તણાવને કારણે બ્રેન્ટ $78 પર છે, અને હોર્મુઝની ખાડી પરના જોખમોને કારણે $90-100 સુધી પહોંચી શકે છે; ફુગાવો પર દબાણ આવે તેવી સંભાવના છે. ભારત રશિયા પાસેથી ખરીદી વધારશે પણ ભાવમાં દબાણ આવશે એ વાસ્તવિકતા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/how-much-will-petrol-diesel-prices-increase-if-crude-oil-becomes-even-1-dollar-more-expensive-check-calculation-467350 ",
+    "time": "2026-03-05T14:14:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભાજપ અને કોંગ્રેસને 20 વર્ષ ઘૂંટણીયે પાડનાર કેમ થયા &amp;#039;ચેકમેટ&amp;#039; : બિહારમાં ખેલાયો અસલી ખેલ!",
+    "desc": "દેશના રાજકારણમાં આજે એક એવી ઘટના ઘટી છે જે ભવિષ્યનાં સમીકરણો બદલી નાખશે. બિહારના જેડીયુ અને આંધ્રપ્રદેશના ચંદ્રાબાબુ નાયડુના ટેકાના સહારે ચાલતી કેન્દ્ર સરકારે ફરી એકવાર ગાદી સેફ કરી કરી લીધી છે. એક સમયે હવામાનના આગાહીકાર કહેવાતા બિહારના સીએમ નીતિશ કુમારે આજે સીએમ પદને બદલે રાજ્યસભાના સાંસદ બનવાનું પસંદ કર્યું છે. શું નીતિશ કુમારે સ્વેચ્છાએ હથિયાર મૂક્યા કે ભાજપે ચેકમેટ આપ્યું એ હાલમાં સૌથી મોટો સવાલ છે. આ અમિત શાહની 'ચાણક્ય નીતિ' કે નીતિશ કુમારની થાકતી રાજનીતિ? છે પણ બિહારમાં ખેલાયો છે અસલી ખેલ....",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bihar-politics-whether-nitish-kumar-voluntarily-laid-down-his-arms-or-bjp-checkmate-him-467331 ",
+    "time": "2026-03-05T13:35:38.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "શક્તિશાળી ઈઝરાયેલી બરાક-8 હોવા છતાં ભારતે રશિયાની Shtil-1 મિસાઈલો માટે કરોડો ખર્ચ્યા, જાણો કેમ",
     "desc": "ભારતીય નેવીએ હાલમાં જ તેમની પાસે ઈઝરાયેલી બરાક-8 MR-SAM હોવા છતાં રશિયન શિલ્ટ-1 મિસાઈલો માટે 236 મિલિયન ડોલરની એક મોટી ડીલ કરી. ભારતે કેમ રશિયન મિસાઈલ સિસ્ટમ પર પસંદગી ઉતારી એ પણ જાણવા જેવું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/indian-navy-236m-dollar-deal-for-russian-shtil-1-missiles-how-is-different-from-barak-8-467329 ",
-    "time": "2026-03-05T12:51:43.000Z"
+    "time": "2026-03-05T12:58:34.000Z"
   },
   {
     "cat": "Sports",
@@ -403,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/india-is-strengthening-its-air-defence-amid-the-iran-conflict-467052 ",
     "time": "2026-03-03T12:21:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપ વચ્ચે દુ:ખદ સમાચાર, વધુ એક ખેલાડીના પિતાનું નિધન",
-    "desc": "શ્રીલંકાના પૂર્વ ક્રિકેટર કુમાર સંગાકારાના પિતાનું નિધન થયું છે. તેના પિતા એક આદરણીય વકીલ હતા. તેઓ કુમાર સંગાકારાના પહેલા કોચ પણ હતા અને તેમના પુત્રની સફળતામાં મુખ્ય ભૂમિકા ભજવી હતી. હવે તેમણે વિદાય લીધી છે, ત્યારે ક્રિકેટ જગતમાં શોકની લાગણી ફેલાઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/former-cricketer-kumar-sangakkara-father-kshema-passed-away-467051 ",
-    "time": "2026-03-03T11:47:29.000Z"
   },
   {
     "cat": "Entertainment",

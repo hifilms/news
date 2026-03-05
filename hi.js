@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "What is highest run-chase at Wankhede Stadium in T20Is after India post 253 in T20 WC semifinal vs England?",
+    "desc": "Indian batters wreaked havoc in the second T20 World Cup 2026 semi-final against England at the Wankhede Stadium in Mumbai. Sanju Samson launched a scathing attack, powering 89 runs off 42 balls to set the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-is-highest-run-chase-at-wankhede-stadium-in-t20is-after-india-post-242-in-t20-wc-semifinal-vs-england-2026-03-05-1032736",
+    "time": "2026-03-05T15:17:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson's charismatic knock vs England earns standing ovation from Wankhede crowd in T20 World Cup 2026",
+    "desc": "After a match-winning knock of 97 runs against West Indies in the Super Eights clash, India opener Sanju Samson managed to keep up with the momentum, launching a scathing attack against England in the T20...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-s-charismatic-knock-vs-england-earns-standing-ovation-from-wankhede-crowd-in-t20-world-cup-2026-2026-03-05-1032734",
+    "time": "2026-03-05T14:41:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Wahi off-spinner wali bimari': Memes galore after Abhishek Sharma fails yet again in T20 WC semifinal",
+    "desc": "Abhishek Sharma's poor run in the T20 World Cup continued in the semifinal as well, as he got out after scoring only nine runs off seven deliveries. Yet again, the southpaw got out to the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wahi-off-spinner-wali-bimari-memes-galore-after-abhishek-sharma-fails-yet-again-in-t20-wc-semifinal-2026-03-05-1032729",
+    "time": "2026-03-05T14:18:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma flops yet again, fails to address his flawed batting temperament",
+    "desc": "Abhishek Sharma flopped yet again with the bat in the ongoing T20 World Cup 2026. The southpaw arrived at the competition with massive expectations but so far, he has scored only 80 runs in seven...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-flops-yet-again-fails-to-acknowledge-his-flawed-batting-technique-2026-03-05-1032726",
+    "time": "2026-03-05T14:02:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England make one change for T20 World Cup semi-final clash, India to bat first at Wankhede",
+    "desc": "England have won the toss and opted to field first in the second semi-final of the T20 World Cup 2026 clash against India at the Wankhede Stadium in Mumbai. Harry Brook analysed that the surface...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-make-one-change-for-t20-world-cup-semi-final-clash-india-to-bat-first-at-wankhede-2026-03-05-1032723",
+    "time": "2026-03-05T13:18:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rashid Khan removed as Afghanistan T20I captain, new skipper announced series against Sri Lanka",
     "desc": "Following Afghanistan’s group-stage exit from the T20 World Cup 2026, the selection committee made a significant decision to alter the team’s leadership structure. Rashid Khan, who had led the side to the semi-finals in the...",
     "img": "",
@@ -34,50 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/arjun-tendulkar-ties-the-knot-with-saaniya-chandhok-in-mumbai-watch-2026-03-05-1032693",
     "time": "2026-03-05T10:22:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cricketer penalised for misbehaving with female hotel staff during T20 WC",
-    "desc": "After their horrid campaign in the T20 World Cup 2026, Pakistan cricket has been brought to shame once more as an unnamed cricketer was reported and later fined for misbehaving with a female staff member...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/controversy-hits-pakistan-again-cricketer-penalised-for-misbehaving-with-female-hotel-staff-during-t20-wc-2026-03-05-1032685",
-    "time": "2026-03-05T09:07:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Do Indian team need a mental conditioning coach in modern day and age? Dinesh Karthik opines",
-    "desc": "India have breached the 250-run mark in the Super Eights clash against Zimbabwe and went on to beat West Indies by five wickets to qualify for the semi-finals of the T20 World Cup 2026. On...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/do-indian-team-need-a-mental-conditioning-coach-in-modern-day-and-age-dinesh-karthik-opines-2026-03-05-1032675",
-    "time": "2026-03-05T08:19:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What will happen if IND vs ENG T20 World Cup semifinal gets washed out? Check details",
-    "desc": "Weather interruptions have been a major talking point throughout the ongoing T20 World Cup 2026, and with the semi-final of the marquee tournament ongoing, the weather has become one of the most crucial things ahead...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-will-happen-if-ind-vs-eng-t20-world-cup-semifinal-gets-washed-out-check-details-2026-03-05-1032673",
-    "time": "2026-03-05T07:54:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya set to surpass KL Rahul in elite T20I list ahead of semi-final bout against England",
-    "desc": "Star India all-rounder Hardik Pandya is all set to surpass compatriot KL Rahul in an elite list. Team India is all set to lock horns with England in the 2nd semi-final of the ongoing T20...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-set-to-surpass-kl-rahul-in-elite-t20i-list-ahead-of-semi-final-bout-against-england-2026-03-05-1032668",
-    "time": "2026-03-05T07:19:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Player battle that can decide IND vs ENG T20 WC semifinal",
-    "desc": "With India taking on England in the 2nd semi-final of the ongoing T20 World Cup 2026, there will be many battles in the clash that the fans will be looking forward to. One of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-vs-jofra-archer-player-battle-that-can-decide-ind-vs-eng-t20-wc-semifinal-2026-03-05-1032659",
-    "time": "2026-03-05T06:33:25.000Z"
   }
 ];
