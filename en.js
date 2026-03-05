@@ -1,5 +1,113 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Iran-Israel war LIVE: Ground invasion would be 'disaster' for U.S.-Israel, says Iran FM Abbas Araghchi; Sri Lanka evacuates crew of second Iranian ship",
+    "desc": "\"The ship that was sunk in the Indian Ocean was unarmed and full of training officers. Attacking such ship is a war crime,\" says Iran FM Abbas Araghchi; the Sri Lankan Navy would take the crew of the second Iranian naval ship to the Colombo Port, while the vessel will be diverted to the eastern Trincomalee harbour, President Dissanayake said.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-attacks-strikes-west-asia-lebanon-trump-netanyahu-live-updates/article70705745.ece",
+    "time": "2026-03-05T20:56:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Political tie-ups against NDA face acid test in Bihar, Odisha",
+    "desc": "Rajya Sabha nominations have set the stage for political contests in Bihar and Odisha, with new alignments tested. While Maharashtra's NCP factions remain divided, the BJP-led NDA is strategically nominating diverse candidates to broaden its social coalition.",
+    "img": "https://static.toiimg.com/photo/msid-129114132,imgsize-150662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rajya-sabha-polls-political-tie-ups-against-nda-face-acid-test-in-bihar-odisha/articleshow/129114057.cms",
+    "time": "2026-03-05T20:51:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "High court fails to deliver verdict for 6 years, Supreme Court shifts case to itself",
+    "desc": "The Supreme Court has taken the unprecedented step of transferring three petitions from the Allahabad High Court to itself, citing a six-year delay in delivering a verdict on a 1994 criminal case. This intervention, aimed at ensuring speedy justice, highlights concerns over the High Court's prolonged inaction, which has also kept the trial stayed.",
+    "img": "https://static.toiimg.com/photo/msid-129113789,imgsize-63744.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/high-court-fails-to-deliver-verdict-for-6-years-supreme-court-shifts-case-to-itself/articleshow/129113555.cms",
+    "time": "2026-03-05T20:37:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ex-envoy Sandhu named Delhi LG, Tamil Nadu Governor Ravi moved to Bengal",
+    "desc": "A significant gubernatorial reshuffle has seen R N Ravi appointed as West Bengal's new governor, replacing C V Ananda Bose. This move, occurring just before state elections, has drawn sharp criticism from Chief Minister Mamata Banerjee. Taranjit Singh Sandhu is set to become the new L-G of Delhi, among other key appointments across various states and Union Territories.",
+    "img": "https://static.toiimg.com/photo/msid-129113269,imgsize-54686.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/major-reshuffle-in-raj-bhavans-ex-envoy-sandhu-named-delhi-lg-tamil-nadu-governor-ravi-moved-to-bengal/articleshow/129112818.cms",
+    "time": "2026-03-05T20:17:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court",
+    "desc": "The Supreme Court has strongly condemned government authorities and litigants for routinely defying court orders and resorting to delayed appeals when facing contempt. Justices Ahsanuddin Amanullah and R Mahadevan emphasized that such practices erode public faith in the judiciary, urging strict action against disobedient parties, especially state entities, to uphold the rule of law.",
+    "img": "https://static.toiimg.com/photo/msid-129112098,imgsize-189154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/courts-must-deal-with-disobedient-litigants-with-an-iron-hand-supreme-court/articleshow/129111898.cms",
+    "time": "2026-03-05T19:53:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kalyan Singh told an ‘utter lie’: K.K. Venugopal on Babri Masjid case",
+    "desc": "In a candid conversation with The Hindu, K.K. Venugopal discusses the “command from political masters” that triggered the anti-Sikh riots in the 1980s, his sense of betrayal when he realised then-UP CM Kalyan Singh had told him an “utter lie” that the Babri Masjid would not be demolished in the 1990s.",
+    "img": "https://th-i.thgim.com/public/incoming/34q1tq/article70708935.ece/alternates/LANDSCAPE_1200/28_RVM_0825.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kalyan-singh-told-an-utter-lie-kk-venugopal-on-babri-masjid-case/article70708475.ece",
+    "time": "2026-03-05T19:39:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Blaming India for US strike on Iran frigate illogical, says BJP",
+    "desc": "The BJP has strongly refuted claims blaming India for a US strike on an Iranian naval vessel, emphasizing the incident occurred in international waters far from Indian jurisdiction. Party leader Amit Malviya stated that geographical proximity does not equate to control or accountability under international maritime law, dismissing attempts to involve India as factually incorrect and politically motivated speculation.",
+    "img": "https://static.toiimg.com/photo/msid-129111529,imgsize-20176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iris-dena-sinks-blaming-india-for-us-strike-on-iran-frigate-illogical-says-bjp/articleshow/129111161.cms",
+    "time": "2026-03-05T19:36:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul Gandhi questions PM Modi's 'silence' on warship sinking in 'our backyard'",
+    "desc": "Congress leaders Rahul Gandhi and Mallikarjun Kharge criticized Prime Minister Narendra Modi's silence on the \"conflict\" and the sinking of an Iranian warship. They accused the government of \"surrendering strategic sovereignty\" and \"undoing\" India's foreign policy, particularly concerning oil imports and the safety of Indian citizens in the Gulf region.",
+    "img": "https://static.toiimg.com/photo/msid-129110754,imgsize-31798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iran-crisis-rahul-gandhi-questions-pm-modis-silence-on-warship-sinking-in-our-backyard/articleshow/129110553.cms",
+    "time": "2026-03-05T19:22:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ending Ukraine war in everyone's interest, UNSC seat for India crucial: Finland President Alexander Stubb",
+    "desc": "India and Finland emphasized that ending the Russia-Ukraine war is crucial for global stability and called for UN reform. Both nations agreed to support a just peace in Ukraine through diplomacy. A new Migration and Mobility Agreement was signed, fostering cooperation in technology, defense, and critical minerals, strengthening bilateral ties and global supply chains.",
+    "img": "https://static.toiimg.com/photo/msid-129110459,imgsize-58018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ending-ukraine-war-in-everyones-interest-unsc-seat-for-india-crucial-finland-president-alexander-stubb/articleshow/129110320.cms",
+    "time": "2026-03-05T19:17:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I’m Brian Bennett’",
+    "desc": "With 292 runs at a staggering average of 146 in the ICC T20 World Cup, the 22-year-old has made a name for himself; known for piercing gaps over clearing the ropes, the stoic Zimbabwe opener’s brand of batsmanship is as rare as a vinyl record in a world of digital music",
+    "img": "https://th-i.thgim.com/public/incoming/vp99zg/article70708881.ece/alternates/LANDSCAPE_1200/DSC_7674.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/brian-bennett-zimbabwe-t20-world-cup-stats-feature/article70708880.ece",
+    "time": "2026-03-05T19:12:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jammu &amp; Kashmir cricket association scam: Farooq Abdullah gets relief from ED",
+    "desc": "A Srinagar court has rejected the Enforcement Directorate's bid to add charges against Dr. Farooq Abdullah and others in the JKCA scam. While the ED cannot join the existing CBI case, the court found prima facie evidence of criminal conspiracy and breach of trust.",
+    "img": "https://static.toiimg.com/photo/msid-129109873,imgsize-99296.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-kashmir-cricket-association-scam-farooq-abdullah-gets-relief-from-ed/articleshow/129109724.cms",
+    "time": "2026-03-05T19:07:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Farooq and Omar Abdullah",
+    "desc": "Jammu and Kashmir authorities are coordinating with the Centre to bring back students, primarily medical students, stranded in Iran. Officials are facilitating peaceful expressions of condolences while urging against exploiting the situation. Internet services have been restricted in Kashmir ahead of planned protests. Efforts are underway to evacuate students to safer locations within Iran before flying them home.",
+    "img": "https://static.toiimg.com/photo/msid-129109944,imgsize-160496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/efforts-on-to-evacuated-kashmiri-students-from-iran-farooq-and-omar-abdullah/articleshow/129109308.cms",
+    "time": "2026-03-05T19:02:17.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Iulia Vantur recalls visiting Arijit Singh’s village",
     "desc": "Salman Khan's rumoured girlfriend, singer and actor Iulia Vantur recently opened up about her experience of visiting Arijit Singh’s village while working on their song Tere Sang, describing the place as peaceful and full of warmth. The track marks her first collaboration with the celebrated singer.",
@@ -79,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/big-governor-reshuffle-rashtrapati-bhavan-issues-orders-for-changes-across-9-states-and-uts-full-list/articleshow/129105362.cms",
     "time": "2026-03-05T17:36:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel war LIVE: Sri Lanka evacuates crew of second Iranian ship",
-    "desc": "“A total of 208 crew are on the ship from which Sri Lanka has started offloading Iranian crew. After the crew is safely off boarded Iranian vessel will be moved to the Trincomalee harbour,” Sri Lankan President Anura Kumara Dissanayake said",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-attacks-strikes-west-asia-lebanon-trump-netanyahu-live-updates/article70705745.ece",
-    "time": "2026-03-05T17:33:47.000Z"
   },
   {
     "cat": "Politics",
@@ -216,6 +315,15 @@ const newsData_en = [
     "time": "2026-03-05T15:50:43.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Missing Sukhoi-30 MKI crashed 60 km from Assam’s Jorhat after takeoff; search ops under way",
+    "desc": "A Sukhoi Su-30 fighter jet of the Indian Air Force crashed in Assam's Karbi Anglong district during a training sortie. The aircraft had lost radar contact shortly after departing from Jorhat. Search operations are currently in progress to locate the jet and its crew. This incident involves a key multirole fighter in the IAF's extensive fleet.",
+    "img": "https://static.toiimg.com/photo/msid-129100069,imgsize-487006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/su-30-mki-fighter-jet-missing-aircraft-loses-radar-contact-in-assam-iaf-deploys-team/articleshow/129100032.cms",
+    "time": "2026-03-05T15:45:48.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Preity Zinta sells Pali Hill apartment for Rs 18.5 crore",
     "desc": "Preity Zinta has sold an apartment in Mumbai’s upscale Pali Hill area of Bandra for Rs 18.50 crore, according to property registration documents accessed by CRE Matrix. The apartment was allotted to the actor in April 2025 following the redevelopment of her old residential building.",
@@ -277,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/abhishek-sharma-memes-flood-social-media-after-another-failure-in-india-vs-england-semi-final/articleshow/129096256.cms",
     "time": "2026-03-05T14:24:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Draft Population Management Policy to incentivise parents having third child",
-    "desc": "Aiming to raise the Total Fertility Rate from 1.5 to an optimal level of 2.1, the ‘Poshana - Shiksha - Suraksha’ package proposes to give ₹25,000 at the time of delivery, and ₹1,000 monthly assistance for five years and free education to the child up to age 18",
-    "img": "https://th-i.thgim.com/public/incoming/vphgyz/article70707959.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-04%20at%2018.38.58.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/draft-population-management-policy-to-incentivise-parents-having-third-child/article70707327.ece",
-    "time": "2026-03-05T14:11:16.000Z"
   },
   {
     "cat": "Sports",
@@ -387,15 +486,6 @@ const newsData_en = [
     "time": "2026-03-05T12:28:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India condoles Khamenei’s death; Nitish Kumar files Rajya Sabha nomination and more",
-    "desc": "India extended condolences on Iran's Supreme Leader's passing while PM Modi engaged Gulf leaders amid rising regional tensions. Bihar CM Nitish Kumar filed for Rajya Sabha, signaling a leadership shift. Indian markets surged as global sentiment improved.",
-    "img": "https://static.toiimg.com/photo/msid-129090459,imgsize-40648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-brief-india-condoles-khameneis-death-nitish-kumar-files-rajya-sabha-nomination-and-more/articleshow/129089952.cms",
-    "time": "2026-03-05T12:19:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Daren Sammy pleads for exit as West Indies remain stranded in India",
     "desc": "The West Indies, who were knocked out of the T20 World Cup after losing to India in the Super Eight stage on March 1, have been unable to fly back home as flight operations through parts of the Gulf region remain disrupted",
@@ -466,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/toisa-set-to-celebrate-indias-sporting-heroes-lucknow-to-host-8th-edition/articleshow/129087655.cms",
     "time": "2026-03-05T11:28:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India condoles Khamenei's death; EAM Jaishankar speaks to Iran's FM, foreign secretary meets Tehran envoy",
-    "desc": "India has formally expressed condolences for the death of Iran's Supreme Leader, with the Foreign Secretary visiting the Iranian Embassy. Amidst escalating regional tensions, Prime Minister Modi has engaged in extensive diplomatic outreach, speaking with leaders of several Gulf nations and Israel. These discussions focused on regional security and the welfare of the large Indian diaspora.",
-    "img": "https://static.toiimg.com/photo/msid-129086906,imgsize-586421.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-condoles-death-of-irans-supreme-leader-khamenei-foreign-secretary-meets-tehran-envoy/articleshow/129086080.cms",
-    "time": "2026-03-05T11:09:06.000Z"
   },
   {
     "cat": "Sports",
@@ -603,15 +684,6 @@ const newsData_en = [
     "time": "2026-03-05T08:14:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Nirantar’ Nitish turns a new page, set for Rajya Sabha after decades as Bihar CM",
-    "desc": "Bihar Chief Minister Nitish Kumar is stepping down after leading the NDA to a significant victory, opting to move to the Rajya Sabha. This marks a major political shift for the veteran leader, opening the door for the BJP to potentially appoint its own chief minister in the state.",
-    "img": "https://static.toiimg.com/photo/msid-129074066,imgsize-824193.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nirantar-nitish-turns-a-new-page-set-for-rajya-sabha-after-decades-as-bihar-cm/articleshow/129073849.cms",
-    "time": "2026-03-05T07:39:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Finished it before we could settle in’",
     "desc": "Amidst his son Arjun Tendulkar's wedding festivities, batting legend Sachin Tendulkar lauded Finn Allen's explosive 100 off 33 balls in the T20 World Cup semi-final. Allen's record-breaking century powered New Zealand to a swift victory, leaving Tendulkar impressed by the rapid finish to the match.",
@@ -655,15 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/lanterns-teaser-kyle-chandler-and-aaron-pierres-tense-partnership-to-steer-upcoming-dc-series/article70706165.ece",
     "time": "2026-03-05T06:05:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "With Amit Shah by his side, Bihar CM Nitish Kumar files nomination for Rajya Sabha",
-    "desc": "Bihar Chief Minister Nitish Kumar filed his Rajya Sabha nomination today, accompanied by Union Home Minister Amit Shah. This move follows his decision to step down and head to Parliament, fulfilling a long-held aspiration. The transition, occurring after a recent election victory, signals a potential shift in Bihar's leadership within the NDA.",
-    "img": "https://static.toiimg.com/photo/msid-129080046,imgsize-1159422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/new-govt-will-have-my-full-cooperation-nitish-kumar-bids-adieu-to-bihar-politics-eyes-rajya-sabha-seat/articleshow/129071574.cms",
-    "time": "2026-03-05T05:45:09.000Z"
   },
   {
     "cat": "Sports",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/military-ventures-bring-long-term-decline-how-beijing-views-the-iran-crisis/article70702117.ece",
     "time": "2026-03-04T04:57:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "I worked with a baseball coach to improve my power-hitting game: Sanjay Krishnamurthi",
-    "desc": "The USA’s up-and-coming batter, who came up with an impressive display in the T20 showpiece, speaks about how India’s triumph in the 2011 ODI World Cup ignited his passion for the game, early days in Bengaluru, the cricketing journey so far, and future plans",
-    "img": "https://th-i.thgim.com/public/incoming/rargo3/article70699917.ece/alternates/LANDSCAPE_1200/TH16-TARUN-USA-G3MFJEL0I.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/i-worked-with-a-baseball-coach-to-improve-my-power-hitting-game-sanjay-krishnamurthi/article70699914.ece",
-    "time": "2026-03-03T18:27:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB to play five home matches at the Chinnaswamy Stadium",
-    "desc": "Season opener, one playoff match and the final also to be held at the iconic venue; defending champion’s other two home games will be in Raipur; KSCA president Prasad elated with the decision and assures complying with all requirements",
-    "img": "https://th-i.thgim.com/public/incoming/motezb/article70699819.ece/alternates/LANDSCAPE_1200/RCB-KSCA-UpdateGP3FEF62S.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/rcb-to-play-five-matches-at-the-chinnaswamy-stadium/article70699801.ece",
-    "time": "2026-03-03T14:47:18.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Anthropic’s resistance to the U.S. Department of Defence, OpenAI’s entry: Explained",
-    "desc": "The Dario Amodei-led firm refused to cooperate with the U.S. government’s demands that the firm’s products be used in the deployment of autonomous strikes. The firm has been threatened with being designated as a “supply chain risk”",
-    "img": "https://th-i.thgim.com/public/incoming/r2lf9o/article70698914.ece/alternates/LANDSCAPE_1200/2026-03-02T143303Z_571373715_RC2EWJADNSPA_RTRMADP_3_USA-PENTAGON-ANTHROPIC.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/anthropics-resistance-to-the-us-department-of-defense-openais-entry-explained/article70698887.ece",
-    "time": "2026-03-03T10:45:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Valsamma",
-    "desc": "M.D. Valsamma won the 400m hurdles gold at the New Delhi Asian Games in 1982 and helped India qualify for the women’s 4x400m relay final at the Los Angeles Olympics two years later; she still cherishes those memories",
-    "img": "https://th-i.thgim.com/public/incoming/wkoa6s/article70696147.ece/alternates/LANDSCAPE_1200/10018_28_2_2026_15_22_46_1_M_D_VALSAMMA_08.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/athletics/sad-to-see-kerala-failing-to-keep-its-great-tradition-of-female-athletes-valsamma/article70696098.ece",
-    "time": "2026-03-03T10:43:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Iranian filmmaker Mohammad Rasoulof calls Ayatollah Ali Khamenei ‘most hated figure’ after death in U.S.-Israel strike",
-    "desc": "Iranian director Mohammad Rasoulof, whose film ‘The Seed of the Sacred Fig’ won at Cannes, has condemned Ayatollah Ali Khamenei following the Supreme Leader’s death in a U.S.-Israel military strike, calling him “the most hated figure in the contemporary history of Iran”",
-    "img": "https://th-i.thgim.com/public/incoming/nbud4l/article70698472.ece/alternates/LANDSCAPE_1200/2154565571.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/iranian-filmmaker-mohammad-rasoulof-calls-ayatollah-ali-khamenei-most-hated-figure-after-death-in-us-israel-strike/article70698476.ece",
-    "time": "2026-03-03T07:59:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "All England missed, Sindhu lands back in Bengaluru from Dubai",
-    "desc": "\"A heartfelt thank you to the incredible ground teams, Dubai authorities, airport staff, immigration, and every single person who stepped up and took such good care of us during a very difficult time. The empathy and professionalism meant more than words can say,” says P.V. Sindhu",
-    "img": "https://th-i.thgim.com/public/incoming/bgaldb/article70698397.ece/alternates/LANDSCAPE_1200/YONEX%20BADMINTON%20PC%20DELHI%202026_12_01_29.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/i-am-back-home-all-england-missed-sindhu-lands-back-in-bengaluru-from-dubai/article70698366.ece",
-    "time": "2026-03-03T07:26:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil rises as expanding U.S.-Israeli conflict with Iran elevates supply risks",
-    "desc": "Concerns about transiting the waterway increased after Iranian media reported on Monday ​(March 2, 2026) that a senior Iranian Revolutionary Guards official said the Strait of Hormuz is closed and warned Iran will fire on any ship trying ⁠to pass",
-    "img": "https://th-i.thgim.com/public/incoming/9b74c4/article70698061.ece/alternates/LANDSCAPE_1200/2026-03-02T231744Z_992362881_RC2MWJAUF83I_RTRMADP_3_IRAN-CRISIS-OIL-INDIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/oil-rises-as-expanding-us-israeli-conflict-with-iran-elevates-supply-risks/article70698036.ece",
-    "time": "2026-03-03T06:17:24.000Z"
   }
 ];
