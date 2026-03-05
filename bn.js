@@ -1,6 +1,51 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "দুবাইয়ে ফের হামলা ইরানের! ড্রোন আক্রমণে কেঁপে উঠল মার্কিন দূতাবাস",
+    "desc": "বিশ্বের সবচেয়ে ‘নিরাপদ’ শহরও এখন আর নিরাপদ নয়৷ পর পর বিমানহানা ইরানের৷ ঝলমলে আকাশের স্কাইলাইন এখন মাঝমধ্যেই ঢাকছে কালো ধোঁয়ায়৷ রবিবারের পরে এবার আবারও দুবাইতে হামলা চালাল ইরান৷ এবার সরাসরি মার্কিন কনস্যুলেটকে টার্গেট করা হয়েছে বলে জানা গিয়েছে৷ মার্কিন বিদেশ সচিব মার্কো রুবিও খবরটির সত্যতা নিশ্চিত করেছেন৷ জানিয়েছেন, দুবাইয়ের ইউএস কনস্যুলেটের সব কর্মীই নিরাপদে রয়েছেন৷বুধবার আমেরিকার তরফে একটি বিবৃতি প্রকাশ করে জানানো হয়, মার্কিন কনস্যুলেট অর্থাৎ দূতাবাসের বাইরে একটি ড্রোন হামলা হয়, যার জেরে আগুন লেগে যায়৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1772737598_7IIRQeDuMS-jpg-i7JjG7BwoW.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/international/dubai-us-consulate-attack-iran-attacks-dubai-again-us-embassy-shaken-by-drone-attack-pbd-2571248.html",
+    "time": "2026-03-05T19:06:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "অসমের জোরহাটে ওড়ার পরই নিখোঁজ ২ পাইলট-সহ সুখোই-৩০, শুরু বিশাল তল্লাশি অভিযান...",
+    "desc": "অসমের জোরহাট বিমানঘাঁটি থেকে ওড়ার পর ভারতীয় বায়ুসেনার একটি সুখোই সু-৩০ এমকেআই (Su-30MKI) যুদ্ধবিমান রাডার যোগাযোগ বিচ্ছিন্ন হয়ে নিখোঁজ হয়েছে। কারবি আংলং জেলার ওপর দিয়ে ওড়ার সময় সন্ধ্যা ৭:৪২ মিনিটে সর্বশেষ যোগাযোগ করা হয়েছিল। পাইলট ও বিমানের সন্ধানে তল্লাশি অভিযান চলছে। বায়ুসেনা সূত্রের খবর, স্থানীয়দের তথ্যের ভিত্তিতে বোকাজান এলাকার একটি বনে সম্ভাব্য দুর্ঘটনার খবর যাচাই করা হচ্ছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/iaf-sukhoi-su30mki-missing-assam-jorhat-karbi-anglong-search_643822.html ",
+    "time": "2026-03-05T18:21:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "লোভে পাপ! ফাঁদে পড়লেন বলিউড অভিনেত্রী, এখন নিয়মিত পাচ্ছেন হুমকি! বড় ফাঁপড়ে পড়েছেন বর্ষা",
+    "desc": "এই জালিয়াতি শুরু হয়েছিল নভেম্বর ২০১৯ থেকে ফেব্রুয়ারি ২০২০-এর মধ্যে। প্রতারণা এবং হুমকির শিকার হয়ে ক্লান্ত হয়ে, মৃণালিনী জাম্ভলে এবং অন্যান্য অভিনেত্রীরা অবশেষে পুলিশের সাহায্য চেয়েছেন। শিবাজি পার্ক পুলিশ অভিযুক্ত অবিনাশ যাদবের বিরুদ্ধে ৪২০ (প্রতারণা) এবং ৫০৬ (ফৌজদারি ভয় দেখানো) ধারায় মামলা দায়ের করেছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Bollywood-Actress-varsha-usgaonkar-2026-03-da6d82cd4cfd22ebc5986ee383662292-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/tiranga-fame-bollywood-actress-varsha-usgaonkar-fraud-case-builder-duped-rs-47-lakh-in-investment-name-then-threatened-her-pbd-2571116.html",
+    "time": "2026-03-05T18:17:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ঝড়ে-জল-শিলাবৃষ্টিতেও ঝরবে না একটাও মুকুল, আমের ভারে ভাঙবে গাছের ডাল, সহজ পদ্ধতি জানালেন কৃষি বিজ্ঞানী",
+    "desc": "সিজিনাল ফলের মধ্যে অন্যতম আম। আম অর্থকরী ফল, ফলের রাজা বলা হয় আমকে। সাধারণত ফেব্রুয়ারির শেষ মার্চ মাসের প্রথম দিকে আম গাছে মুকুল আসা শুরু করে। তবে শুরুতে গাছ ভরে যায় মুকুলে কিন্তু সেই মুকুল বাঁচিয়ে রাখা অনেকটাই কঠিন...",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Mango-Mukul-2026-03-b2c7064c170166101f56d32b552bc184-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/mongo-culivation-agriculture-scientist-reveals-simple-method-to-save-mango-buds-and-bear-fruit-l18-sdg-local18-2570558.html",
+    "time": "2026-03-05T17:54:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "৯ মাসের মধ্যেই লাদাখের উপরাজ্যপাল পদ থেকে পদত্যাগ কবিন্দর গুপ্তার, কারণ নিয়ে ধোঁয়াশা",
+    "desc": "সিভি আনন্দ বোস পশ্চিমবঙ্গের রাজ্যপালের পদ থেকে পদত্যাগ করেছেন, কাজের মেয়াদ শেষ হওয়ার প্রায় দুই বছর আগেই। ২০২৬ সালের রাজ্য বিধানসভা নির্বাচনের মাত্র কয়েক সপ্তাহ আগে তার পদত্যাগ নিইয়ে শুরু হয়েছে জল্পনা। এদিকে, পদত্যাগ করলেন লাদাখের উপরাজ্যপাল পদ থেকে পদত্যাগ কবিন্দর গুপ্তা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Kavinder-Gupta-2026-03-8c13cb8c7151cca3b6f12dc64464202d-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/kavinder-gupta-resigns-as-ladakh-lieutenant-governor-nine-months-after-taking-oath-sdg-2570999.html",
+    "time": "2026-03-05T16:02:20.000Z"
+  },
+  {
+    "cat": "World",
     "title": "ইরানের কাছে হারবে আমেরিকা? চিনা নস্ট্রাদামুসের আগের ভবিষ্যদ্বাণী কিন্তু হুবহু মিলেছে!",
     "desc": "২০২৪ সালের এক বক্তব্যের ভিডিয়ো নতুন করে সোশ্যাল মিডিয়ায় ছড়িয়ে পড়ছে। সেখানে চিনা নস্ট্রাদামুসে যা বলেছেন, তা হয়তো অসম্ভব কথা, শুনে বিশ্বাস হয় না। কী বলেছেন? জিয়াং না কি ভবিষ্যদ্বাণী করেছিলেন, ইরানের সঙ্গে যুদ্ধে হেরে যাবে মার্কিন যুক্তরাষ্ট্র! তাই নাকি? এ-ও কি সম্ভব?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/eastern-railways-will-run-special-train-during-holi-and-dol-from-sealdah-howrah-malda-and-different-stations-rdp-2561789.html",
     "time": "2026-02-28T05:52:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "টেক অফের পরেই বিপত্তি ! টাকার বান্ডিল ভর্তি বিমান ভেঙে পড়ল বলিভিয়ার হাইওয়েতে, মৃত ১৫",
-    "desc": "সোশ্যাল মিডিয়ায় এই বিমান দুর্ঘটনার মুহূর্তের ছবি-ভিডিও ভাইরাল হয়েছে। সেইসব ছবি-ভিডিওতে দেখা গিয়েছে লা পাজ সংলগ্ন এল অল্টো শহরে একের পর এক গাড়িতে প্রথমে ধাক্কা মারে বিমানটি তারপর শেষ পর্যন্ত কাছের একটি মাঠে ভেঙে পড়ে বিমানটি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bolivia-Plane-Crash-2026-02-70f48c3849e011992f1c0e945cc615d6-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/bolivian-air-force-plane-crash-carrying-bank-notes-crashes-in-el-alto-casualties-injuries-number-of-deaths-ss-2561659.html",
-    "time": "2026-02-28T03:44:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'যুবসাথী' প্রকল্পে আবেদন করেছেন...? অ্যাপ্লিকেশন গৃহীত হল নাকি 'রিজেক্টেড'? এইভাবে করুন 'চেক'! দেখে নিন স্টেপ বাই স্টেপ গাইড",
-    "desc": "লক্ষ্মীর ভাণ্ডারের দুর্দান্ত সাফল্যের পর এবার রাজ্যের মমতা বন্দ্যোপাধ্যায় সরকারের অন্যতম চর্চিত সরকারি প্রকল্প 'বাংলার যুব সাথী প্রকল্প'। রাজ্যের এই প্রকল্পে মাসে মাসে ১৫০০ টাকা করে পাবেন বেকার যুবক-যুবতীরা। ইতিমধ্যেই রাজ্যে এই প্রকল্পে ৮৪ লক্ষেরও বেশি আবেদন জমা পড়েছে। আপনিও কি আছেন সেই তালিকায়? তাহলে এই ভাবে জেনে নিন আপনার আবেদনের স্ট্যাটাস। কবে থেকে পাবেন টাকা?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/yuva-sathi-3-2026-02-b9d614027db62f53dbbd5504565b671c-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/yuva-sathi-status-checking-have-you-applied-for-the-yuva-sathi-scheme-money-has-the-application-been-accepted-or-rejected-check-it-now-with-step-by-step-guide-sanj-2561449.html",
-    "time": "2026-02-27T17:25:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dona Ganguly's Diksha Manjari Basanta Utsav 2026: ভারতীয় জাদুঘরে রঙের উৎসব! বসন্তের মহড়ায় মাতল দীক্ষা মঞ্জরী...",
-    "desc": "বিগত বেশ কিছু বছরে বসন্তের বন্দনায় দীক্ষা মঞ্জরীর বসন্ত উৎসব শহরের এক উল্লেখযোগ্য অনুষ্ঠানে পরিণত হয়েছে। এবছরেও জাঁকজমকের কোনো কমতি হবে না। নৃত্য পরিবেশন করবেন পাঁচ শতাধিক ছাত্র-ছাত্রী। বাংলায় দোলের আর অন্যান্য প্রদেশের হোলির গানে-নাচে আর আবিরের রঙে ভরে উঠবে ভারতীয় জাদুঘরের প্রাঙ্গণ।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/dona-ganguly-diksha-manjari-basanta-utsav-indian-museum-2026_643024.html ",
-    "time": "2026-02-27T15:12:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'মূর্খ! কংগ্রেসকে ধ্বংস করছেন'... রাহুল গান্ধির তীব্র সমালোচনায় অভিনেত্রী কঙ্গনা রানাউত",
-    "desc": "News18 Rising Bharat Summit 2026-এ বক্তব্য রাখতে গিয়ে কংগ্রেস নেতা রাহুল গান্ধির বিরুদ্ধে তীব্র আক্রমণ শানালেন বিজেপি সাংসদ কঙ্গনা রানাউত। তিনি দাবি করেন, রাহুলের রাজনৈতিক অবস্থান ও আচরণ কংগ্রেসের ক্ষতি করছে। পাশাপাশি তাঁকে ‘মূর্খ’ বলেও কটাক্ষ করেন কঙ্গনা, যার জেরে রাজনৈতিক মহলে নতুন করে বিতর্কের সৃষ্টি হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/rahul-kangna-2026-02-d20faf5a6edf92d7c8510e00d7a4d93c-1200x800.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/kangana-ranaut-criticizes-rahul-gandhi-is-destroying-congress-calls-him-fool-at-news18-rising-bharat-summit-tib-ws-l-2561282.html",
-    "time": "2026-02-27T14:34:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "OPPO Reno 15c 5G রিভিউ: যারা নবযাগরণে বিশ্বাসী, তাদের জন্য এক বাজেট All-Rounder",
-    "desc": "নির্ভরযোগ্য AI প্রতিকৃতি তোলার ক্ষমতা, Popout গল্প বলার সুবিধা, স্থিতিশীল Snapdragon processing, ColorOS 16-এর মসৃণ ও বুদ্ধিদীপ্ত অভিজ্ঞতা, শক্তিশালী 7000mAh battery এবং 5OS + 6 security updates-এর দীর্ঘমেয়াদি নিশ্চিন্ততা — সব মিলিয়ে এই ফোনটি তৈরি তাঁদের জন্য, যারা জীবনের বড় পথচলার একেবারে শুরুতে দাঁড়িয়ে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Oppo-reno-15c-2-2026-02-09fa82cefac29b6da345f4785e1023cc-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/technology/oppo-reno15c-5g-review-a-budget-all-rounder-designed-for-the-climb-ac-2561250.html",
-    "time": "2026-02-27T14:16:03.000Z"
   }
 ];

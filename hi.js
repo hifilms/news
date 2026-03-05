@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'5 sixes to nahi khaunga': Axar Patel says he was ready to bowl final over against England in T20 WC semifinal",
+    "desc": "India defeated England by seven runs in the thrilling semifinal of the T20 World Cup. They defended 253 runs to somehow defy England and will now face New Zealand in the final of the tournament....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/5-sixes-to-nahi-khaunga-axar-patel-says-he-was-ready-to-bowl-final-over-against-england-in-t20-wc-semifinal-2026-03-05-1032757",
+    "time": "2026-03-05T18:23:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Jasprit Bumrah deserves the POTM award'",
+    "desc": "Sanju Samson was adjudged the Player of the Match for his knock of 89 runs off just 42 balls. Despite losing his opening partner Abhishek Sharma early, the keeper-batter managed to keep the scoreboard ticking...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-deserves-the-potm-award-sanju-samson-after-india-s-thrilling-seven-run-win-over-england-2026-03-05-1032755",
+    "time": "2026-03-05T18:09:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Axar Patel a silent hero in India's thrilling win over England to reach T20 World Cup final?",
+    "desc": "India 253, England 246. Such fine margins in a T20 game and the fact that it was a semifinal tells you a story. The kind of pressure the Indian team was under while defending the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-axar-patel-a-silent-hero-in-india-s-thrilling-win-over-england-to-reach-t20-world-cup-final-2026-03-05-1032751",
+    "time": "2026-03-05T17:52:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India enter T20 World Cup 2026 final, beat England despite Jacob Bethell's heroic effort",
+    "desc": "India have defeated England by seven runs in the T20 World Cup 2026 semi-final at the Wankhede Stadium in Mumbai. The show started with Sanju Samson’s charismatic knock of 89 runs, which was followed by...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-qualify-for-t20-world-cup-2026-final-beat-england-despite-jacob-bethell-s-heroic-effort-2026-03-05-1032747",
+    "time": "2026-03-05T17:20:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "What is highest run-chase at Wankhede Stadium in T20Is after India post 253 in T20 WC semifinal vs England?",
     "desc": "Indian batters wreaked havoc in the second T20 World Cup 2026 semi-final against England at the Wankhede Stadium in Mumbai. Sanju Samson launched a scathing attack, powering 89 runs off 42 balls to set the...",
     "img": "",
@@ -43,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/england-make-one-change-for-t20-world-cup-semi-final-clash-india-to-bat-first-at-wankhede-2026-03-05-1032723",
     "time": "2026-03-05T13:18:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rashid Khan removed as Afghanistan T20I captain, new skipper announced series against Sri Lanka",
-    "desc": "Following Afghanistan’s group-stage exit from the T20 World Cup 2026, the selection committee made a significant decision to alter the team’s leadership structure. Rashid Khan, who had led the side to the semi-finals in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-removed-as-afghanistan-t20i-captain-new-skipper-announced-series-against-sri-lanka-2026-03-05-1032708",
-    "time": "2026-03-05T11:52:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What happened when India last faced England in the T20 World Cup semifinal in 2024?",
-    "desc": "India and England are set to lock horns in the second semifinal of the T20 World Cup today at the Wankhede Stadium in Mumbai. This is the third consecutive edition when the two teams are...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-what-happened-when-india-last-faced-england-in-the-t20-world-cup-semifinal-in-2024-2026-03-05-1032707",
-    "time": "2026-03-05T11:42:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Just wanna go home'",
-    "desc": "West Indies’ 2026 T20 World Cup journey came to an end following a five-wicket defeat to India in the final Super Eights clash at Eden Gardens. Since the defeat, the squad has been stranded in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/just-wanna-go-home-daren-sammy-posts-as-west-indies-stranded-in-kolkata-amid-west-asia-war-2026-03-05-1032702",
-    "time": "2026-03-05T11:03:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arjun Tendulkar ties the knot with Saaniya Chandhok in Mumbai",
-    "desc": "The wedding bells rang for the son of legendary former India cricketer Sachin Tendulkar as Arjun tied the knot with Saaniya Chandhok in a star-studded ceremony in Mumbai on March 5. The celebration saw a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arjun-tendulkar-ties-the-knot-with-saaniya-chandhok-in-mumbai-watch-2026-03-05-1032693",
-    "time": "2026-03-05T10:22:19.000Z"
   }
 ];
