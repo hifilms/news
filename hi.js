@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will rain spoil IND vs ENG T20 World Cup 2026 semi-final clash?",
+    "desc": "The stage is set for the 2nd semi-final of the ongoing T20 World Cup 2026. Team India will lock horns with England in the marquee clash at the Wankhede Stadium in Mumbai on March 5....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-weather-report-will-rain-spoil-ind-vs-eng-t20-world-cup-2026-semi-final-clash-2026-03-05-1032623",
+    "time": "2026-03-05T01:39:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Wankhede Stadium in Mumbai play in T20 World Cup semi-final?",
+    "desc": "India to host England at the Wankhede Stadium in the second semi-final of the T20 World Cup 2026. The Suryakumar Yadav-led side comes to the occasion after two back-to-back wins over Zimbabwe and West Indies,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-pitch-report-how-will-surface-at-wankhede-stadium-in-mumbai-play-in-t20-world-cup-semi-final-2026-03-04-1032608",
+    "time": "2026-03-05T01:30:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Finn Allen blasts fastest century in T20 World Cup history, New Zealand qualify for T20 World Cup 2026 final",
     "desc": "Eden Gardens in Kolkata witnessed one of the greatest knocks in T20 history as New Zealand opener Finn Allen produced a breathtaking display against South Africa. Chasing 170 runs, Allen hammered the fastest century in...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/india-vs-vietnam-live-where-to-watch-afc-women-s-asian-cup-2026-live-on-tv-and-stream-online-2026-03-04-1032575",
     "time": "2026-03-04T10:24:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anil Kumble shares advice for star India spinner ahead of crucial T20 World Cup semi-final bout",
-    "desc": "With India all set to take on England in the 2nd semi-final of the ongoing T20 World Cup 2026, many eyes will be set upon star spinner Varun Chakaravarthy. The star spinner has been unable...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/anil-kumble-shares-advice-for-star-india-spinner-ahead-of-crucial-t20-world-cup-semi-final-bout-2026-03-04-1032564",
-    "time": "2026-03-04T09:06:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma, Ishan Kishan, and Axar Patel seek blessings at Siddhivinayak Temple in Mumbai",
-    "desc": "The Indian team is all set to take on England in the 2nd semi-final of the ongoing T20 World Cup 2026. The two sides will lock horns at the Wankhede Stadium in Mumbai on March...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-ishan-kishan-and-axar-patel-seek-blessings-at-siddhivinayak-temple-in-mumbai-2026-03-04-1032560",
-    "time": "2026-03-04T08:23:29.000Z"
   }
 ];
