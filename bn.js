@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "ইডেনে সেমিফাইনালে হারের পর হতাশ দক্ষিণ আফ্রিকা অধিনায়ক মার্করাম, জেনে নিন কী বললেন তিনি?",
+    "desc": "নিউজিল্যান্ডের বিরুদ্ধে সেমিফাইনালে হারার পর মার্করাম বলেন, ‘‘আমার মনে হয়, যদি আপনি পরিস্থিতিগুলো দেখেন তাহলে ওরা শুরুতে খুব ভাল বল করেছিল। নিউজিল্যান্ডের বোলিং ইউনিট-কে পুরো কৃতিত্ব দিতে হবে। আর যখন কোনও ব্যাটসম্যান ওই ধরনের ইনিংস খেলে দেয়, তখন প্রায়ই ম্যাচ আপনার পক্ষে যায় না। এমন অবস্থায় রান ১৭০-তে পৌঁছানোও সত্যি বলতে ভাল চেষ্টা ছিল।’’",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Aiden-Markram-after-Loss-against-New-Zealand-2026-03-d3943b61d2ded8f6783afb6ee2ba23de-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/sa-vs-nz-aiden-markram-statement-after-losing-to-new-zealand-for-fourth-time-in-knockouts-of-icc-tournament-ss-2569712.html",
+    "time": "2026-03-05T04:36:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "সুকন্যা সমৃদ্ধি যোজনায় মাসে ১০০০ টাকা করে জমালে ম্যাচিউরিটিতে কত রিটার্ন পাবেন ?",
+    "desc": "কন্যাসন্তানের ভবিষ্যৎ সুরক্ষিত করতে সুকন্যা সমৃদ্ধি যোজনা একটি জনপ্রিয় সরকারি সঞ্চয় প্রকল্প। যদি প্রতি মাসে ১০০০ টাকা করে জমা করা হয়, তাহলে ২১ বছরে ম্যাচিউরিটির সময় কত টাকা পাওয়া যেতে পারে, সেই সম্পূর্ণ হিসেব জেনে নিন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/SSY-19-new-2026-03-4ebd63847669b9aa68b5e76432f303c8-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/sukanya-samriddhi-yojana-deposit-rupees-1000-per-month-and-know-the-maturity-amount-after-21-years-dc-2569654.html",
+    "time": "2026-03-05T03:39:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "২৫ বছরের জন্য ২০,০০০ টাকার SIP করলে পেয়ে যেতে পারেন ৩.৮ কোটি টাকা, অবসরের পর প্রতি মাসে মিলবে ১.৫ লাখ টাকা",
+    "desc": "প্রতি মাসে ২০,০০০ টাকা করে SIP করলে ২৫ বছরে প্রায় ৩.৮ কোটি টাকার তহবিল তৈরি হতে পারে। পরে SWP ব্যবহার করে সেই ফান্ড থেকেই অবসরের পর মাসে প্রায় ১.৫ লাখ টাকা নিয়মিত আয় পাওয়া সম্ভব।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/sip-42-NEW-2026-03-58fb6bc283bf2b40540df8b059ed22a7-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/rupees-20000-monthly-sip-for-25-years-can-create-rupees-3-point-8-crore-fund-get-1-point-5-lakh-rupees-monthly-income-after-retirement-dc-2569590.html",
+    "time": "2026-03-05T03:09:25.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "নীতীশ রাজ্যসভায় গেলে বিহারের নতুন মুখ্যমন্ত্রী কে? দেখুন ভিডিও",
     "desc": "বিহারের রাজনীতিতে বড় পট পরিবর্তন৷ রাজ্যসভায় মনোনয়ন জমা দিতে চলেছেন মুখ্যমন্ত্রী নীতীশ কুমার৷ নীতীশ শেষ পর্যন্ত রাজ্যসভার সাংসদ হলে বিহারের মুখ্যমন্ত্রীর পদ পেতে পারে বিজেপি৷ সেক্ষেত্রে বর্তমান উপমুখ্যমন্ত্রী সম্রাট চৌধুরী বিহারের নতুন মুখ্যমন্ত্রী হিসেবে শপথ নিতে পারেন৷ নীতীশ পুত্র নিশান্ত কুমারকে বিহারের উপমুখ্যমন্ত্রী করা হচ্ছে৷ আগামিকাল বৃহস্পতিবার গোটা বিষয়টি চূড়ান্ত হতে পারে৷",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/after-pakistan-attacks-afganistan-now-airstrikes-at-islamabad-military-installations-smc-2560893.html",
     "time": "2026-02-27T10:19:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আগামী ৭২ ঘণ্টা...! ভারী বৃষ্টি কাঁপাবে ১১ রাজ্য, লাফিয়ে লাফিয়ে পারদ চড়বে কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "ফের আবহাওয়ার পরিবর্তন। একাধিক ঘূর্ণাবর্ত ও নিম্নচাপের জেরে মুহূর্তে বদলাচ্ছে আবহাওয়া। কোথাও চড়চড় করে চড়বে তাপমাত্রা আর কোথাও চলছে বৃষ্টির স্পেল! এমন পরিস্থিতিতে, ভারতীয় আবহাওয়া বিভাগ (IMD) দেশের একাধিক রাজ্যে আগামী ৭২ ঘণ্টা ভারী বৃষ্টিপাতের সতর্কতা জারি করেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj-__Thunder-2026-02-69c3fe6ac5aad482391940478345533b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rainfall-alert-in-11-states-for-next-72-hours-know-which-state-will-see-major-heat-in-next-7-days-temperature-to-rise-in-4-5-degrees-know-latest-west-bengal-weather-sanj-2560642.html",
-    "time": "2026-02-27T08:43:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "পাকিস্তানের যেকোনও প্ররোচনায় দিতে হবে বড় খেসারত! প্রস্তুত 'অপারেশন সিঁদুর ২.০'!  সতর্ক করল ভারতীয় সেনা",
-    "desc": "ইসলামাবাদকে এবার আরও কড়া জবাব দিল ভারতীয় সেনাবাহিনী। ভারতীয় সেনার ওয়েস্টার্ন কম্যান্ডের পক্ষ থেকে জানানো হয়েছে, আগামী দিনে যদি আর কোনও সীমান্ত অঞ্চলে প্ররোচনা আসে তবে 'যোগ্য' এবং 'কঠিন' প্রত্যুত্তর দেওয়া হবে বলে জানানো হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/indian-army-2-2026-02-27c5f26fb4060ec036565772495f8f8a-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/operation-sindoor-2-0-indian-army-warns-of-harsher-retaliation-against-pakistan-know-more-details-smc-2560611.html",
-    "time": "2026-02-27T07:46:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘আমার ওঁকেই প্রয়োজন ছিল...’ বিয়ের ছবি শেয়ার করে লিখলেন বিজয়, চোখের জলে স্বামীকে আলিঙ্গন রশ্মিকার",
-    "desc": "লাল রঙে সাজলেন রশ্মিকা ও বিজয়। বিজয়ের পরনে ছিল সাদা ধুতি ও লাল রঙের জমকালো উত্তরীয়। সঙ্গে সোনার ভারী গয়না। অন্য দিকে লাল টুকটুকে রঙের শাড়ি বেছে নিয়েছিলেন রশ্মিকা। ব্লাউজেও জমকালো কাজ। মাথায় সোনার টিয়ারা নজরকাড়া।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Rashmika-Mandanna-And-Vijay-Deverakonda-Are-Now-Married-2026-02-523f3369a7f802d7cb80a8595f1e15df-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/vijay-rashmika-wedding-deverakonda-shares-first-photo-with-wife-rashmika-mandanna-gets-emotional-at-the-wedding-venue-actor-said-i-needed-her-ss-2560115.html",
-    "time": "2026-02-27T03:44:07.000Z"
   }
 ];

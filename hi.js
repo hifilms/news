@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Which team has hit more sixes in the T20 World Cup 2026?",
+    "desc": "Team India will be taking on England in the 2nd semi-final of the ongoing T20 World Cup 2026. The two sides are looking to reach the final of the tournament. It is worth noting that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-squad-comparison-which-team-has-hit-more-sixes-in-the-t20-world-cup-2026-2026-03-05-1032638",
+    "time": "2026-03-05T04:04:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah on cusp of achieving legendary milestone, set to join elite list ahead of clash against England",
+    "desc": "India and England are all set to take on each other in the 2nd semi-final of the ongoing T20 World Cup 2026. The two sides will lock horns at the Wankhede Stadium in Mumbai on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-on-cusp-of-achieving-legendary-milestone-set-to-join-elite-list-ahead-of-clash-against-england-2026-03-05-1032628",
+    "time": "2026-03-05T02:41:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will rain spoil IND vs ENG T20 World Cup 2026 semi-final clash?",
     "desc": "The stage is set for the 2nd semi-final of the ongoing T20 World Cup 2026. Team India will lock horns with England in the marquee clash at the Wankhede Stadium in Mumbai on March 5....",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/rodrygo-ruled-out-of-fifa-world-cup-posts-do-i-deserve-this-on-social-media-2026-03-04-1032586",
     "time": "2026-03-04T11:43:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar Azam, Fakhar Zaman dropped; Pakistan shuffle squad for ODI series against Bangladesh",
-    "desc": "After an extremely disappointing campaign in the T20 World Cup 2026, Pakistan have dropped Babar Azam from the upcoming three-match ODI series against Bangladesh, starting March 11. The star batter played 17 ODIs in 2025,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-fakhar-zaman-dropped-pakistan-shuffle-squad-for-odi-series-against-bangladesh-2026-03-04-1032577",
-    "time": "2026-03-04T10:56:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch AFC Women's Asian Cup 2026 live on TV and stream online?",
-    "desc": "India will kickoff their AFC Women’s Asian Cup campaign on March 4 against Vietnam at Perth Rectangular Stadium. Japan and Chinese Taipei are also part of the same group, as the top two teams of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/india-vs-vietnam-live-where-to-watch-afc-women-s-asian-cup-2026-live-on-tv-and-stream-online-2026-03-04-1032575",
-    "time": "2026-03-04T10:24:53.000Z"
   }
 ];

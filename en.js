@@ -1,5 +1,221 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Harry Styles opens up about his family plans",
+    "desc": "Harry Styles is prioritizing family and meaningful relationships, stepping back from the spotlight to define his future. His rumored romance with Zoë Kravitz is reportedly serious, with mutual respect and friendship at its core. Meanwhile, Styles is set to release his fourth album, 'Kiss All the Time. Disco, Occasionally,' on March 6, following the success of his single 'Aperture'.",
+    "img": "https://static.toiimg.com/photo/msid-129067282,imgsize-134696.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-opens-up-about-family-planning-as-zo-kravitz-romance-heats-up-i-want-to-be-fulfilled/articleshow/129067108.cms",
+    "time": "2026-03-05T04:10:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aishwarya SPOTTED on the film sets",
+    "desc": "Aishwarya Rai Bachchan returned to film sets this week, sparking fan excitement with a candid selfie alongside a young co-star. While details of the project, believed to be an advertisement, are undisclosed, the heartwarming behind-the-scenes glimpse offered a welcome update for fans. This marks one of her few public appearances since her family's US holiday.",
+    "img": "https://static.toiimg.com/photo/msid-129065066,imgsize-138162.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-bachchan-spotted-on-the-film-sets-poses-for-a-selfie-with-her-kiddie-co-star/articleshow/129065066.cms",
+    "time": "2026-03-05T04:10:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India, Eng clash in third straight semifinal",
+    "desc": "India and England face off in a crucial T20 World Cup semifinal at Wankhede. Both teams have a history of knockout wins against each other, with the victor often lifting the trophy. England enter with momentum from their Super 8 wins, while India aim to defy historical trends for defending champions and hosts.",
+    "img": "https://static.toiimg.com/photo/msid-129066824,imgsize-109492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/imperfect-rivals-look-for-the-perfect-night-india-england-clash-in-third-straight-t20-world-cup-semifinal/articleshow/129066802.cms",
+    "time": "2026-03-05T04:02:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Billy Porter says sepsis left him fighting for his life",
+    "desc": "Billy Porter, the acclaimed entertainer, has emerged from a life-threatening battle with urosepsis, a severe infection that left him fighting for his life. The 56-year-old revealed he was 'dead for three days' on life support after a kidney stone led to a rapid crisis. Doctors also performed emergency surgery on his leg to save it.",
+    "img": "https://static.toiimg.com/photo/msid-129066938,imgsize-514702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/billy-porter-says-he-was-dead-for-three-days-during-sepsis-battle/articleshow/129066904.cms",
+    "time": "2026-03-05T04:01:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Markets inch higher mirroring Wall Street gains; Kospi jumps 10%, Nikkei up 1,400 points",
+    "desc": "Asian stocks saw a modest rise on Thursday, breaking a losing streak as Wall Street rebounded and oil prices stabilized. Japan's Nikkei 225 surged significantly, while South Korea's Kospi experienced a temporary trading halt due to a sharp increase. Global markets remain sensitive to Middle East tensions and oil price fluctuations.",
+    "img": "https://static.toiimg.com/photo/msid-129066463,imgsize-169964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-inch-higher-mirroring-wall-street-gains-kospi-jumps-10-nikkei-up-1400-points/articleshow/129064507.cms",
+    "time": "2026-03-05T03:55:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ahead of semis, Varun puts in massive shift with Morne Morkel",
+    "desc": "Varun Chakravarthy is focusing on his bowling length for India's T20 World Cup semifinal against England. After a strong group stage, he struggled against stronger opponents in the Super Eights, with batters targeting his variations. Bowling coach Morne Morkel emphasized clarity and confidence in his plans to help him regain wicket-taking form.",
+    "img": "https://static.toiimg.com/photo/msid-129066067,imgsize-104124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-england-ahead-of-semis-varun-chakravarthy-puts-in-massive-shift-with-morne-morkel/articleshow/129066070.cms",
+    "time": "2026-03-05T03:41:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock recommendations for March 5, 2026",
+    "desc": "Solar Industries India, and Coal India are the stocks that Aakash K Hindocha, Deputy Vice President - WM Research of Nuvama Professional Clients Group has recommended to buy today. UNO Minda is a sell call. The market expert shares his detailed analysis on stocks and views on Nifty and Bank Nifty.",
+    "img": "https://static.toiimg.com/photo/msid-129065524,imgsize-90922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-march-05-2026-uno-minda-solar-industries-coal-india-best-stocks-to-buy-or-sell-today/articleshow/129065455.cms",
+    "time": "2026-03-05T03:29:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Selena Gomez opens up about bipolar disorder and early misdiagnosis",
+    "desc": "Selena Gomez candidly shared her journey with bipolar disorder, revealing early misdiagnoses complicated her path to understanding. She emphasized the difficulty of finding the right help, having sought it through multiple therapists and four rehab stints. Gomez now views her diagnosis as a liberation, transforming her struggles into purpose through her work and advocacy.",
+    "img": "https://static.toiimg.com/photo/msid-129065579,imgsize-867880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/selena-gomez-opens-up-about-mental-health-issues-i-think-i-was-misdiagnosed/articleshow/129065596.cms",
+    "time": "2026-03-05T03:28:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Shivam Dube became India’s man for clutch moments",
+    "desc": "Shivam Dube has consistently delivered crucial performances for India in T20 cricket's high-pressure moments. From the T20 World Cup final to the Asia Cup, his timely contributions have steered the team to victory. Dube's batting momentum is building, and his impact, even in brief cameos, is vital for India's success, though his bowling requires improvement.",
+    "img": "https://static.toiimg.com/photo/msid-129065430,imgsize-65360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-how-shivam-dube-became-indias-man-for-clutch-moments/articleshow/129065410.cms",
+    "time": "2026-03-05T03:25:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Padayaatra' wraps 40-day shoot",
+    "desc": "Mammootty and Adoor Gopalakrishnan have completed shooting for their highly anticipated film 'Padayaatra' in a single 40-day schedule. This marks a reunion after over three decades. The movie, reportedly set in the socio-politically charged 1970s-80s Kerala, is expected to be a realistic drama. Its release will follow Mammootty's other major project, 'Patriot'.",
+    "img": "https://static.toiimg.com/photo/msid-129065218,imgsize-287062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/padayaatra-wraps-40-day-shoot-mammootty-and-adoor-gopalakrishnan-reunite-after-33-years/articleshow/129065218.cms",
+    "time": "2026-03-05T03:24:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman Khan all smiles on set amid dad's recovery",
+    "desc": "Salman Khan was recently seen in high spirits on the sets of his upcoming film, 'Battle of Galwan'. Fans expressed joy at seeing the actor smile, especially following his father's recent health scare. Khan has been balancing work commitments with caring for his father, even relocating the film's schedule to be closer to the hospital.",
+    "img": "https://static.toiimg.com/photo/msid-129063961,imgsize-154202.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-is-all-smiles-on-battle-of-galwan-sets-amid-father-salim-khans-recovery-in-hospital-pics/articleshow/129063299.cms",
+    "time": "2026-03-05T03:01:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Is Harry Styles’ mom showing support for Zoë Kravitz?",
+    "desc": "In a heartwarming show of support, Anne Twist, Harry Styles' mother, has given a thumbs-up to a video featuring actress Zoë Kravitz, fueling excitement around Harry's budding romance. As he gears up for the release of his latest album, 'Kiss All the Time.",
+    "img": "https://static.toiimg.com/photo/msid-129063958,imgsize-70260.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/is-harry-styles-mom-anne-twist-showing-support-for-zo-kravitz-her-latest-like-sparks-buzz/articleshow/129063958.cms",
+    "time": "2026-03-05T02:48:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Travis Kelce shares what he'll miss most if he retires",
+    "desc": "the intense pressure and electrifying atmosphere of big games. He cherishes the feeling of rising to the occasion for thousands of fans. With his contract ending, Kelce is contemplating retirement, prioritizing informing the Chiefs before the draft.",
+    "img": "https://static.toiimg.com/photo/msid-129063956,imgsize-142162.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swifts-fianc-and-nfl-player-travis-kelce-shares-what-hell-miss-most-if-he-retires-from-football/articleshow/129063777.cms",
+    "time": "2026-03-05T02:47:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US court says firms must be refunded after court struck down levy",
+    "desc": "A New York judge has ordered the US government to refund companies for tariffs struck down by the Supreme Court. The ruling mandates refunds for duties imposed under a law the court deemed unconstitutional, impacting billions in collected taxes. This follows a Supreme Court decision limiting presidential tariff authority, with attention now on customs agencies to manage the mass payouts.",
+    "img": "https://static.toiimg.com/photo/msid-129063516,imgsize-758672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/another-setback-for-trump-admin-us-court-says-firms-that-paid-tariffs-struck-down-by-supreme-court-must-be-refunded/articleshow/129063050.cms",
+    "time": "2026-03-05T02:38:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Career defined by bold roles",
+    "desc": "Actress Rajshri Deshpande bravely shared her diagnosis of early-stage breast cancer, detected during a routine check-up. She detailed her journey through tests and surgery, emphasizing the crucial role of early detection and the immense support from her loved ones and medical team. Now recovering, Deshpande looks forward to brighter days.",
+    "img": "https://static.toiimg.com/photo/msid-129063131,imgsize-150236.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/meet-rajshri-deshpande-from-malayalam-film-sexy-durga-to-sacred-games-career-defined-by-bold-roles/articleshow/129063131.cms",
+    "time": "2026-03-05T02:32:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hardik-Mahieka seek blessings at Siddhivinayak",
+    "desc": "Cricketer Hardik Pandya visited Mumbai's Siddhivinayak Temple with Mahieka Sharma, seeking blessings before a crucial semifinal match. The couple, in traditional attire, shared a shawl during prayers. This public appearance coincided with Hardik's ex-wife Natasa Stankovic's birthday, amidst ongoing speculation about Hardik and Mahieka's relationship potentially reaching engagement.",
+    "img": "https://static.toiimg.com/photo/msid-129062535,imgsize-116250.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hardik-pandya-shares-a-shawl-with-girlfriend-mahieka-sharma-at-siddhivinayak-temple-as-they-seek-blessings-watch/articleshow/129062250.cms",
+    "time": "2026-03-05T02:27:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Friday OTT releases (March 6, 2026)",
+    "desc": "As Friday progresses and the weekend follows, our favorite OTT platforms are geared up to treat us with the soulful movies that feel like sharing secrets with old friends over a cup of hot tea on a cold, starry night. These movies aren't just releases; they are windows into the messy lives of humans, where you can spot sly grins amidst chaos, or where hearts heal in quiet corners, far away from the noise of life. So before you make any of your weekend plans, consider these new 7 Friday OTT releases for a binge-marathon.",
+    "img": "https://static.toiimg.com/photo/msid-129063170,imgsize-1563058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/friday-ott-releases-march-6-2026-7-new-movies-from-gandhi-talks-baby-girl-to-granny/photostory/129063170.cms",
+    "time": "2026-03-05T02:27:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India, England ready for shootout at Wankhede",
+    "desc": "Heat, dew and high stakes set the stage at Wankhede as India and England gear up for a semi-final shootout. With Varun Chakravarthy’s rhythm under focus and Morkel backing instinct over caution, the clash could hinge on small margins and who reads conditions best.",
+    "img": "https://static.toiimg.com/photo/msid-129062984,imgsize-159228.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-india-england-ready-for-shootout-at-wankhede/articleshow/129062877.cms",
+    "time": "2026-03-05T02:22:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Kerala Story 2' hits Rs 20 crore mark on Day 6",
+    "desc": "Goes Beyond' has garnered an estimated Rs 20.15 crore in its first six days at the Indian box office, despite a controversial release. The film saw a slight dip on Wednesday after a Holi holiday boost. While performing steadily, its collection remains significantly lower than the 2023 original.",
+    "img": "https://static.toiimg.com/photo/msid-129062077,imgsize-88252.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-6-film-maintains-grip-earns-rs-20-crore-net/articleshow/129061096.cms",
+    "time": "2026-03-05T01:58:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rebecca Gayheart's emotional post for daughter Billie Dane",
+    "desc": "In the wake of the heartbreaking loss of Eric Dane to ALS, his ex-wife Rebecca Gayheart found a moment of joy by celebrating their daughter Billie's milestone 16th birthday. With a collection of nostalgic photos, Gayheart shared a moving tribute that highlighted the beauty of their family bond.",
+    "img": "https://static.toiimg.com/photo/msid-129061607,imgsize-163212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/rebecca-gayhearts-emotional-post-for-her-and-eric-danes-daughter-billie-dane-melts-hearts-you-are-my-sunshine/articleshow/129061607.cms",
+    "time": "2026-03-05T01:46:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Young Sherlock’ ending explained",
+    "desc": "The thrilling debut season of 'Young Sherlock' concludes with a dramatic finale. William Holmes uncovers his father Silas's betrayal, leading to a confrontation mirroring the Reichenbach Falls. Moriarty embraces his dark future, while Beatrice finds freedom. The season sets the stage for more intrigue and the evolving bond between William and Moriarty.",
+    "img": "https://static.toiimg.com/photo/msid-129061592,imgsize-1124406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/young-sherlock-ending-explained-the-truth-about-silas-holmes-betrayal-and-moriartys-dark-rise/articleshow/129061549.cms",
+    "time": "2026-03-05T01:44:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Teddi Mellencamp hospitalized with ‘sores all over body’",
+    "desc": "Former reality star Teddi Mellencamp faced a health scare after developing painful sores all over her body. Initially mistaking it for the flu, she was diagnosed with Stevens-Johnson syndrome, a severe allergic reaction to a new medication. Hospitalized and treated with steroids and antibiotics, Mellencamp is now recovering and was discharged just in time for her daughter's birthday.",
+    "img": "https://static.toiimg.com/photo/msid-129061532,imgsize-87442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/teddi-mellencamp-hospitalized-after-waking-up-with-sores-all-over-entire-body-heres-what-happened/articleshow/129061461.cms",
+    "time": "2026-03-05T01:44:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Republicans vote down legislation to halt Iran war in Congress' first vote on conflict",
+    "desc": "The war powers resolution gave lawmakers an opportunity to demand congressional approval before any further attacks are carried out; the vote forced them to take a stand on a war shaping the fate of U.S. military members, countless other lives and the future of the region.",
+    "img": "https://th-i.thgim.com/public/incoming/xvzzrm/article70705016.ece/alternates/LANDSCAPE_1200/2026-03-04T230210Z_221227484_RC2XXJAVEKV1_RTRMADP_3_IRAN-CRISIS-USA-CONGRESS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/republicans-vote-down-legislation-to-halt-iran-war-in-congress-first-vote-on-conflict/article70705012.ece",
+    "time": "2026-03-05T01:41:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Reliance, D-Mart &amp; more: Top stocks to watch on March 5",
+    "desc": "CLSA maintains an outperform rating on Reliance Industries, citing improved confidence in its new ventures. HSBC has a reduce rating on Avenue Supermart, noting its pricing advantage is not substantial. Morgan Stanley raises Delhivery's target price, expecting strong volume growth and margin expansion due to a favorable industry environment.",
+    "img": "https://static.toiimg.com/photo/msid-129061039,imgsize-111000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/reliance-d-mart-more-top-stocks-to-watch-on-march-5/articleshow/129061039.cms",
+    "time": "2026-03-05T01:40:10.000Z"
+  },
+  {
     "cat": "World",
     "title": "Trump weighing U.S. role in Iran after conflict, White House says",
     "desc": "A Reuters/Ipsos poll released earlier this week showed ⁠that only one in four Americans approves of U.S. strikes on Iran that have plunged the West Asia into ‌chaos, while about half — including one in four Republicans — believe Mr. Trump is too willing to use military force.",
@@ -45,15 +261,6 @@ const newsData_en = [
     "time": "2026-03-05T01:09:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Thaai Kizhavi' BO day 6: Film climbs past Rs 21 crore",
-    "desc": "Radhikaa Sarathkumar's 'Thaai Kizhavi' is a box office hit, raking in over Rs 21 crore in just six days. The rural drama, lauded for its rooted storytelling and Radhikaa's commanding performance, continues to draw audiences with stable occupancy. The film's compelling narrative and strong supporting cast are contributing to its impressive run.",
-    "img": "https://static.toiimg.com/photo/msid-129059416,imgsize-193634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-box-office-collections-day-6-radhikaa-sarathkumars-film-climbs-past-rs-21-crore/articleshow/129059416.cms",
-    "time": "2026-03-05T00:47:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Time to celebrate a little, but eyes on Sunday's final': Finn Allen",
     "desc": "Finn Allen's blistering 100 off 33 balls, the fastest T20 World Cup century ever, propelled New Zealand to a dominant nine-wicket victory over South Africa. Chasing 170, Allen and Tim Seifert's explosive opening partnership secured their spot in the final. New Zealand now awaits their opponent in Ahmedabad.",
@@ -61,24 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/time-to-celebrate-a-little-but-eyes-on-sundays-final-finn-allen-after-record-t20-world-cup-century/articleshow/129041219.cms",
     "time": "2026-03-05T00:41:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Billy-Meg to REUNITE at Oscars for Rob Reiner tribute",
-    "desc": "Billy Crystal and Meg Ryan will reunite at the Oscars, over 30 years after 'When Harry Met Sally', to honor director Rob Reiner. The tribute comes amidst tragic news of Reiner and his wife's deaths, with their son facing murder charges. The ceremony aims to celebrate Reiner's cinematic legacy.",
-    "img": "https://static.toiimg.com/photo/msid-129059199,imgsize-170204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/billy-crystal-and-meg-ryan-to-reunite-at-oscars-for-tribute-to-when-harry-met-sally-director-rob-reiner/articleshow/129058909.cms",
-    "time": "2026-03-05T00:39:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘A Knight of the Seven Kingdoms’ expands cast for season 2",
-    "desc": "Filming for 'A Knight of the Seven Kingdoms' season two has begun in Belfast. Lucy Boynton, Babou Ceesay, and Peter Mullan are the new additions. The show is a prequel to 'Game of Thrones'. It follows Ser Duncan the Tall and his squire Egg. Season two adapts 'The Sworn Sword' novella. New characters will add intrigue to the story.",
-    "img": "https://static.toiimg.com/photo/msid-129059077,imgsize-906080.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/a-knight-of-the-seven-kingdoms-season-2-lucy-boynton-babou-ceesay-and-others-join-game-of-thrones-spinoff/articleshow/129059088.cms",
-    "time": "2026-03-05T00:36:25.000Z"
   },
   {
     "cat": "Sports",
@@ -90,33 +279,6 @@ const newsData_en = [
     "time": "2026-03-05T00:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Toxic' postponement: 'Jana Nayagan' to arrive sooner",
-    "desc": "Yash's 'Toxic' release postponement to June 4, 2026, due to Middle East situations, has disappointed fans. This shift, however, may benefit Vijay's 'Jana Nayagan'. While a June 18 release was initially considered, producers might now eye a late April or early May slot, potentially aligning with post-election sentiment. Discussions are ongoing.",
-    "img": "https://static.toiimg.com/photo/msid-129058572,imgsize-113728.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/yashs-toxic-postponement-impacts-jana-nayagan-vijay-starrer-to-arrive-sooner-reports/articleshow/129058572.cms",
-    "time": "2026-03-05T00:25:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shah Rukh Khan's role in Rajinikanth's 'Jailer 2' CONFIRMED",
-    "desc": "Jailer 2 is taking the entertainment world by storm, with reports hinting that the iconic Shah Rukh Khan might be joining forces with the legendary Rajinikanth. A mysterious social media update from a costume designer, paired with Jatin Sarna's announcement about wrapping up his part—mentioning Vidya Balan and Mithun Chakraborty—has ignited a flurry of speculation.",
-    "img": "https://static.toiimg.com/photo/msid-129057844,imgsize-126692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-update-shah-rukh-khans-role-in-rajinikanth-and-nelson-dilipkumars-film-confirmed-by-costume-designer/articleshow/129057844.cms",
-    "time": "2026-03-05T00:07:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Harry Styles reflects on Liam Payne's death",
-    "desc": "Harry Styles candidly shared the profound grief and emotional struggle following the tragic death of One Direction bandmate Liam Payne. Styles reflected on the unique challenge of public grief and how Payne's passing prompted a deep self-examination of his own life and aspirations, emphasizing the importance of living fully to honor his friend.",
-    "img": "https://static.toiimg.com/photo/msid-129056155,imgsize-56528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harry-styles-reflects-on-liam-paynes-death-its-so-difficult-to-lose-a-friend/articleshow/129056053.cms",
-    "time": "2026-03-04T23:51:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India’s biggest weakness exposed? Ex-India keeper raises red flag before England clash",
     "desc": "Former India wicketkeeper Parthiv Patel expressed concern over the team's fielding standards ahead of their T20 World Cup semifinal against England. Despite reaching the last four, India's catching efficiency is the lowest in the tournament. Patel praised Sanju Samson's match-winning knock and Jasprit Bumrah's crucial wickets, emphasizing the need for early breakthroughs against England's strong batting lineup.",
@@ -124,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/indias-biggest-weakness-exposed-former-india-keeper-raises-red-flag-before-england-clash/articleshow/129025531.cms",
     "time": "2026-03-04T23:30:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Republicans vote down legislation to halt Iran war in Congress' first vote on conflict",
-    "desc": "The war powers resolution gave lawmakers an opportunity to demand congressional approval before any further attacks are carried out; the vote forced them to take a stand on a war shaping the fate of U.S. military members, countless other lives and the future of the region.",
-    "img": "https://th-i.thgim.com/public/incoming/xvzzrm/article70705016.ece/alternates/LANDSCAPE_1200/2026-03-04T230210Z_221227484_RC2XXJAVEKV1_RTRMADP_3_IRAN-CRISIS-USA-CONGRESS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/republicans-vote-down-legislation-to-halt-iran-war-in-congress-first-vote-on-conflict/article70705012.ece",
-    "time": "2026-03-04T23:26:49.000Z"
   },
   {
     "cat": "Business",
@@ -171,15 +324,6 @@ const newsData_en = [
     "time": "2026-03-04T23:00:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Emma dating Mexican billionaire Gonzalo",
-    "desc": "Emma Watson seems to be opening a new chapter in her love life with the dashing businessman Gonzalo Hevia Bailleres from Mexico. Their recent vacation in breathtaking Punta Mita, Mexico, provided the perfect backdrop for a romantic escapade, where the couple was photographed enjoying tender moments together, much to the delight of onlooking paparazzi.",
-    "img": "https://static.toiimg.com/photo/msid-129054384,imgsize-79300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/emma-watson-dating-mexican-businessman-gonzalo-hevia-bailleres-couple-pack-on-the-pda-at-airport-pics/articleshow/129053411.cms",
-    "time": "2026-03-04T22:52:33.000Z"
-  },
-  {
     "cat": "Business",
     "title": "AI helps wealthtech firms do more with leaner teams",
     "desc": "Indian wealthtech platforms are integrating AI to personalize investing and speed up product launches. Companies like INDmoney, Upstox, and Groww are using AI to enhance user experience, improve internal productivity, and accelerate feature rollouts. This allows them to scale operations and deliver new products efficiently without significant headcount increases.",
@@ -198,15 +342,6 @@ const newsData_en = [
     "time": "2026-03-04T22:37:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kriti joins Vijay-Rashmika at star-studded reception",
-    "desc": "Newlyweds Vijay Deverakonda and Rashmika Mandanna hosted a grand reception in Hyderabad, drawing prominent industry figures. Rashmika's 'Cocktail 2' co-star Kriti Sanon attended with Karan Johar, posing with the couple. The week-long celebrations followed their February 26th wedding, with the couple also seeking blessings at temples.",
-    "img": "https://static.toiimg.com/photo/msid-129051230,imgsize-156744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanon-joins-vijay-deverakonda-and-rashmika-mandanna-at-star-studded-reception-cocktail-2-girls-cuddle-up-for-cute-pic/articleshow/129051189.cms",
-    "time": "2026-03-04T22:08:54.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Oxford museum set to return 500-year-old bronze statue taken from Tamil Nadu temple",
     "desc": "A 16th-century bronze statue of Saint Tirumankai Alvar, taken from a Tamil Nadu temple, is returning to India from the UK. Acquired by the Ashmolean Museum in 1967, its provenance became questionable after a 2019 discovery. Following an investigation and a formal claim by India, the museum has agreed to its repatriation, highlighting a commitment to ethical collections.",
@@ -223,15 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-house-committee-votes-to-subpoena-attorney-general-bondi-to-answer-questions-over-the-epstein-files/article70704883.ece",
     "time": "2026-03-04T22:02:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Harvey Weinstein rape retrial to start April 14",
-    "desc": "Disgraced movie mogul Harvey Weinstein will face a retrial from April 14 on a rape charge on which a jury previously deadlocked, his publicist said Wednesday. Weinstein was accused of the third-degree rape of a woman named Jessica Mann and will now face a retrial on that count.",
-    "img": "https://static.toiimg.com/photo/msid-129051040,imgsize-221918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harvey-weinstein-rape-retrial-to-start-april-14-publicist/articleshow/129050763.cms",
-    "time": "2026-03-04T21:21:36.000Z"
   },
   {
     "cat": "World",
@@ -288,15 +414,6 @@ const newsData_en = [
     "time": "2026-03-04T18:52:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay turns protective as Rashmika faces sea of photographers",
-    "desc": "Rashmika Mandanna and Vijay Deverakonda’s wedding reception on March 4 at Taj Krishna, Banjara Hills, Hyderabad, turned into one of the most talked-about gatherings of the year. As the newlyweds stepped out to pose for the paparazzi, Vijay was seen instinctively turning protective.",
-    "img": "https://static.toiimg.com/photo/msid-129044880,imgsize-113110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-turns-protective-as-rashmika-mandanna-faces-sea-of-photographers-at-their-wedding-reception/articleshow/129044880.cms",
-    "time": "2026-03-04T18:51:30.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "CM Stalin inspects ongoing construction of elevated corridor on Anna Salai",
     "desc": "The Chief Minister, along with the Minister for Public Works E.V. Velu and Minister for Health and Family Welfare Ma. Subramanian, inspected the 3.2 kilometre-long elevated road being constructed at a cost of ₹621 crore",
@@ -313,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/i-have-seen-the-missile-indian-woman-from-first-evacuation-flight-recounts-tense-days-in-dubai/articleshow/129042448.cms",
     "time": "2026-03-04T18:12:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Preity returns home after ‘stressful’ trip amid conflict",
-    "desc": "Preity Zinta says she is relieved to be back home in Mumbai after a hectic and stressful trip across the globe. The actor took to social media to express gratitude for being safe with her family amid the ongoing turmoil in the Middle East.",
-    "img": "https://static.toiimg.com/photo/msid-129042155,imgsize-127798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/preity-zinta-returns-home-after-stressful-trip-amid-middle-east-conflict-grateful-to-be-safe-and-to-celebrate-holi/articleshow/129042155.cms",
-    "time": "2026-03-04T17:53:30.000Z"
   },
   {
     "cat": "Politics",
@@ -396,15 +504,6 @@ const newsData_en = [
     "time": "2026-03-04T16:49:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Celebs attend Rashmika Mandanna-Vijay Deverakonda reception",
-    "desc": "Rashmika Mandanna and Vijay Deverakonda hosted their grand wedding reception on March 4 at Taj Krishna, Banjara Hills, Hyderabad. Among those spotted were megastar Chiranjeevi, Daggubati Venkatesh, the Akkineni family, Allu Arjun, Ram Charan and Upasana Konidela, Nani, Namrata Shirodkar, Neena Gupta and several others.",
-    "img": "https://static.toiimg.com/photo/msid-129036567,imgsize-222212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-vijay-deverakonda-wedding-reception-allu-arjun-ram-charan-chiranjeevi-nagarjuna-venkatesh-namtara-attend/articleshow/129036567.cms",
-    "time": "2026-03-04T16:14:49.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Cochin Diocese’s post-SIR campaign seeks to ensure nobody loses right to vote",
     "desc": "The diocese, comprising 40,750 families spread over four Assembly constituencies in two districts, has launched the drive to identify those who remain out of the electoral rolls even after the recently concluded Special Intensive Revision of voters’ list",
@@ -432,24 +531,6 @@ const newsData_en = [
     "time": "2026-03-04T15:30:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Lara feels ‘nervous’ and ‘stressed’ while stranded in Dubai",
-    "desc": "Lara Dutta, who is currently in Dubai with her daughter and former tennis star Mahesh Bhupathi, has opened up about feeling “nervous” and “stressed” amid the ongoing conflict in the Middle East. She said she is hoping to return to Mumbai soon. The actress shared that she had travelled to Dubai — a city she has called home for the past three years — for a brand commitment when the Israel-Iran war escalated. Recalling the tense atmosphere, she said she heard explosions and saw missiles being intercepted while she was inside a studio.",
-    "img": "https://static.toiimg.com/photo/msid-129035124,imgsize-116466.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lara-dutta-feels-nervous-and-stressed-while-stranded-in-dubai-with-daughter-and-mahesh-bhupathi-middle-east-conflict-recalls-hearing-explosions/articleshow/129035124.cms",
-    "time": "2026-03-04T15:27:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika and Vijay glow with joy at Hyderabad reception",
-    "desc": "Days after sharing dreamy wedding pictures, Rashmika Mandanna and Vijay Deverakonda hosted their grand reception in Hyderabad on March 4. As they arrived, the newlyweds warmly greeted photographers with a humble namaste, bowing slightly as they sought love and blessings on their special day. Rashmika and Vijay made a striking entry at the reception, turning heads in elegant traditional ensembles that reflected their roots.",
-    "img": "https://static.toiimg.com/photo/msid-129033200,imgsize-176576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-and-vijay-deverakonda-glow-with-joy-at-hyderabad-reception-newlyweds-seek-blessings-with-humble-namaste/articleshow/129033200.cms",
-    "time": "2026-03-04T14:49:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Stock markets bleed on US-Iran war: Rs 16.32 lakh crore gone! Sensex, Nifty down over 2.7%",
     "desc": "In times of uncertainty, investors look for cues on which pockets to invest in and what strategy to adopt. Market experts that TOI spoke to said that instead of panic selling, investors should adopt a wait-and-watch strategy.",
@@ -457,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-markets-bleed-on-us-iran-war-rs-16-32-lakh-crore-gone-sensex-nifty-down-over-2-7-what-should-investors-do/articleshow/129033170.cms",
     "time": "2026-03-04T14:44:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "External Affairs Ministry set up control room to assist Indians in West Asia crisis",
-    "desc": "The Ministry of External Affairs has set up a control room to assist Indians affected by the escalating crisis in West Asia. Nearly one crore Indians live and work in the Gulf region, and the government says their safety remains a top priority.",
-    "img": "https://th-i.thgim.com/public/incoming/for0/article70704127.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20at%208.11.43%E2%80%AFPM.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-external-affairs-ministry-set-up-control-room-to-assist-indians-in-west-asia-crisis/article70704132.ece",
-    "time": "2026-03-04T14:44:28.000Z"
   },
   {
     "cat": "Sports",
@@ -502,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-sunil-gavaskar-sanju-samsons-innings-was-one-of-the-finest-t20-knocks-we-have-seen/article70703763.ece",
     "time": "2026-03-04T13:41:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay’s ‘daughter-in-law’ remark leaves Rashmika blushing",
-    "desc": "Just hours before their wedding reception, Rashmika Mandanna and Vijay Deverakonda met the Telugu media for a special interaction. The couple arrived hand-in-hand, marking their first appearance before their home press after tying the knot. Vijay chose a bright yellow kurta for the occasion. Rashmika complemented him in a pastel pink saree paired with a golden full-sleeved blouse.",
-    "img": "https://static.toiimg.com/photo/msid-129029937,imgsize-96656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakondas-telugu-states-now-have-a-new-daughter-in-law-remark-leaves-rashmika-blushing-at-pre-reception-media-interaction/articleshow/129029937.cms",
-    "time": "2026-03-04T13:40:24.000Z"
   },
   {
     "cat": "Sports",
@@ -559,33 +622,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "How India have fared in T20 World Cup semi-finals",
-    "desc": "India enter their sixth T20 World Cup semi-final in 10 editions, facing England at Wankhede. Champions in 2007 and 2024, India have had mixed results—missing semis in 2009-12, finishing runners-up in 2014, and losing semis in 2016 and 2022 to England. Now, the two sides meet for a third straight semi-final in a growing rivalry.",
-    "img": "https://static.toiimg.com/photo/msid-129024524,imgsize-92786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-eng-how-india-have-fared-in-t20-world-cup-semi-finals/articleshow/129023038.cms",
-    "time": "2026-03-04T11:41:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Glenn Maxwell breaks silence on retirement after Australia’s T20 World Cup disaster",
-    "desc": "Glenn Maxwell has no immediate plans to retire from T20 internationals, with the 2028 T20 World Cup and Los Angeles Olympics on his radar. Despite recent speculation, the all-rounder feels he still has plenty to offer and is focused on his fitness and form, with ongoing discussions with selectors about his future.",
-    "img": "https://static.toiimg.com/photo/msid-129023284,imgsize-79064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/glenn-maxwell-breaks-silence-on-retirement-after-australias-t20-world-cup-disaster/articleshow/129023368.cms",
-    "time": "2026-03-04T11:17:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US-Iran war sends shockwaves! Most crude via Strait of Hormuz heads to China, India",
-    "desc": "On the oil, LPG, LNG and trade front, India is vulnerable to the impact of Strait of Hormuz closure. A big chunk of the oil that flows through the Strait of Hormuz every day is headed to China and India.",
-    "img": "https://static.toiimg.com/photo/msid-129023332,imgsize-59196.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-sends-shockwaves-most-crude-via-strait-of-hormuz-heads-to-china-india-how-vulnerable-are-they-after-closure/articleshow/129020947.cms",
-    "time": "2026-03-04T11:16:52.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Abhishek's top spot under threat as Farhan’s twin tons shake ICC rankings",
     "desc": "Pakistan's Sahibzada Farhan is now second in T20I batting rankings, just behind India's Abhishek Sharma, after scoring two centuries in the World Cup. Several Indian players, including Ishan Kishan and Tilak Varma, have entered the top 10. In bowling, Varun Chakravarthy leads, with Abrar Ahmed close behind. Sikandar Raza remains the top all-rounder.",
     "img": "https://static.toiimg.com/photo/msid-129021540,imgsize-1132549.cms",
@@ -601,24 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ms-dhoni-fined-rs-1000-after-caught-breaking-traffic-rules/articleshow/129020973.cms",
     "time": "2026-03-04T10:34:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Pakistan should've done something': Karthik slams England duo",
-    "desc": "After Pakistan’s Super 8 exit at the T20 World Cup 2026, Dinesh Karthik mocked Michael Atherton and Nasser Hussain for previously claiming India had an unfair venue advantage in the Champions Trophy. He said Pakistan enjoyed similar conditions but still failed, adding that by their “logic,” Pakistan should have done better, hinting at a “genuine lack of skill.”",
-    "img": "https://static.toiimg.com/photo/msid-129019928,imgsize-92960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/by-that-same-logic-pakistan-shouldve-done-something-dinesh-karthik-slams-england-duo-for-earlier-india-remark/articleshow/129019520.cms",
-    "time": "2026-03-04T10:04:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why the 'win the semifinal, win the trophy' trend matters in India vs England clash",
-    "desc": "India and England, both two-time T20 World Cup champions, clash in a highly anticipated semifinal at Wankhede Stadium. With a balanced semifinal record and a chance to become the first three-time winners, this encounter promises intense rivalry. Both teams have relied on collective efforts, setting the stage for a thrilling contest.",
-    "img": "https://static.toiimg.com/photo/msid-129018025,imgsize-72260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/why-the-win-the-semifinal-win-the-trophy-trend-matters-in-india-vs-england-clash/articleshow/129017940.cms",
-    "time": "2026-03-04T09:24:24.000Z"
   },
   {
     "cat": "Politics",
@@ -664,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/iran-soccer-federation-president-says-world-cup-participation-in-us-is-in-doubt/article70693886.ece",
     "time": "2026-03-04T06:23:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Dad, I want to be a cricketer’: How Daryl Mitchell chose cricket over rugby",
-    "desc": "Daryl Mitchell, son of former All Blacks player John Mitchell, found his passion for cricket despite a rugby upbringing. John encouraged Daryl's choices, leading him to excel in cricket. Daryl's journey showcases dedication, embracing challenges, and a mature approach to success and failure, making him a vital player for the Black Caps.",
-    "img": "https://static.toiimg.com/photo/msid-129008106,imgsize-81134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/dad-i-want-to-be-a-cricketer-how-daryl-mitchell-chose-cricket-over-rugby-exclusive/articleshow/129007865.cms",
-    "time": "2026-03-04T05:44:52.000Z"
   },
   {
     "cat": "Entertainment",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/i-am-back-home-all-england-missed-sindhu-lands-back-in-bengaluru-from-dubai/article70698366.ece",
     "time": "2026-03-03T07:26:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil rises as expanding U.S.-Israeli conflict with Iran elevates supply risks",
-    "desc": "Concerns about transiting the waterway increased after Iranian media reported on Monday ​(March 2, 2026) that a senior Iranian Revolutionary Guards official said the Strait of Hormuz is closed and warned Iran will fire on any ship trying ⁠to pass",
-    "img": "https://th-i.thgim.com/public/incoming/9b74c4/article70698061.ece/alternates/LANDSCAPE_1200/2026-03-02T231744Z_992362881_RC2MWJAUF83I_RTRMADP_3_IRAN-CRISIS-OIL-INDIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/oil-rises-as-expanding-us-israeli-conflict-with-iran-elevates-supply-risks/article70698036.ece",
-    "time": "2026-03-03T06:17:24.000Z"
   }
 ];
