@@ -1,5 +1,50 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "বাহরাইনের সর্ববৃহত্‍ তেল শোধনাগার BAPCO-য় মিসাইল হামলা, হু হু করে বাড়ছে তেলের দাম...",
+    "desc": "বাহরাইনের মামির (Ma’ameer) শিল্পাঞ্চলে ড্রোন ও ব্যালিস্টিক মিসাইল হামলা চালানো হয়েছে। এর জেরেই বাহরাইন পেট্রোলিয়াম কোম্পানির (BAPCO) সিতরা রিফাইনারিতে ভয়াবহ অগ্নিকাণ্ড ঘটে। বাহরাইন যদিও সৌদি আরব বা আমিরশাহীর তুলনায় ছোট তেল উৎপাদক, তবুও আন্তর্জাতিক বাজারে ডিজেল রপ্তানিতে তাদের ভূমিকা অনস্বীকার্য।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/bahrain-oil-refinery-attack-bapco-sitra-diesel-prices-spike_643897.html ",
+    "time": "2026-03-06T09:29:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel-US war: অর্থব্যবস্থা ভেঙে পড়েছে, তবুও আমেরিকার চোখে চোখ রেখে কোন জাদুতে যুদ্ধ চালাচ্ছে ইরান? জানলে...",
+    "desc": "দেশের নিজস্ব অর্থব্যবস্থা প্রায় ভেঙে পড়েছে, তবুও আমেরিকার চোখে চোখ রেখে কোন জাদুতে যুদ্ধ চালিয়ে যাচ্ছে ইরান? ইরানের এই নিরন্তর ক্ষেপণাস্ত্র হামলার গোপন রহস্য 'বিটকয়েন'! যুদ্ধের বাজারেও ইরানের সামরিক তহবিল ফুরিয়ে না যাওয়ার প্রধান কারণ এই ডিজিটাল সম্পদ।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/using-bitcoin-iran-running-war-against-israelus_643891.html ",
+    "time": "2026-03-06T08:57:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ইরানের বিরুদ্ধে যুদ্ধ চালাতে প্রতি দিন কত খরচ হচ্ছে আমেরিকার? সবমিলিয়ে হিসাব শুনলে ভিরমি খাবেন",
+    "desc": "প্রায় এক সপ্তাহ ধরে জ্বলছে মধ্য-প্রাচ্য। আমেরিকা-ইজরায়েল বনাম ইরানের যুদ্ধে অশান্ত গোটা পশ্চিম এশিয়া। ইরানের বুকে এখনও পর্যন্ত ২০০০-এর বেশি হামলা চালানো হয়েছে বলে দাবি করেছে আমেরিকা। সাবমেরিন-সহ ইরানের ১৭টি জাহাজ ডুবিয়ে দেওয়া হয়েছে বলে দাবি করেছে আমেরিকা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-06-at-2.20.48-PM-2026-03-a04a45a4bdf9677b50a14de110052b4f-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/iran-israel-war-how-much-america-spends-on-this-war-know-the-calculation-will-shock-you-smc-2571877.html",
+    "time": "2026-03-06T08:55:25.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "নামেই 'ভারত মহাসাগর'! ভারতের নিয়ন্ত্রণ কতটুকু? ইরানের যুদ্ধজাহাজ IRIS Dena ডুবতেই উঠছে প্রশ্ন!",
+    "desc": "ইরানের যুদ্ধজাহাজ আইআরআইএস ডেনা ডুবে যাওয়ার ঘটনাকে ঘিরে আন্তর্জাতিক কূটনীতি ও সামুদ্রিক নিয়ন্ত্রণ নিয়ে নতুন করে আলোচনা শুরু হয়েছে। ভারত মহাসাগরে মার্কিন নৌবাহিনীর হামলার পর প্রশ্ন উঠেছে—নামের সঙ্গে ‘ভারত’ থাকলেও এই বিশাল ভারত মহাসাগরের উপর ভারতের নিয়ন্ত্রণ আসলে কতটা। ঘটনাটি সামনে আসতেই আন্তর্জাতিক জলসীমা, সামুদ্রিক আইন এবং এই অঞ্চলে ভারতের কৌশলগত ভূমিকা নিয়ে বিতর্ক তীব্র হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/indian-ocean-2026-03-228affa3f5ee2bf4c7e1bc7d786c33ca-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/why-indian-ocean-not-controlled-by-india-iran-ship-iris-dena-sinking-territory-jurisdiction-explained-tib-2571712.html",
+    "time": "2026-03-06T07:22:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "১-২ কাঠা জমি থাকলেই 'রাজা'! হাওড়ার ঘরে ঘরে নতুন ব্যবসা, কৌশল জানলেই রোজগার হবে মোটা টাকা",
+    "desc": "জমি থাকলে আর চিন্তা নেই! হাওড়ার কিছু ব্লকের বাসিন্দারা প্রমাণ করেছেন যে মাত্র ১-২ কাঠা জমিতে নার্সারি করেই স্বনির্ভর হওয়া সম্ভব। অল্প পরিশ্রম আর সঠিক টিপস কাজে লাগিয়ে কীভাবে বাড়ছে আয়? জানুন হাওড়ার এই নতুন ব্যবসায়িক মডেল সম্পর্কে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/nursery-business-success-tips-2026-03-4793ad4e35d06f426fa850e99a1d6740-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/howrah-business-idea-howrah-nursery-business-success-tips-small-land-huge-income-l18-local18-2571057.html",
+    "time": "2026-03-06T07:17:16.000Z"
+  },
+  {
     "cat": "Business",
     "title": "পকেটে ৩০,০০০ টাকা থাকলে এই ব্যবসা শুরু করুন, প্রতিদিন ৫,০০০ টাকার মালিক হয়ে যাবেন!",
     "desc": "অনেকেই নিজের ব্যবসা শুরু করার স্বপ্ন দেখেন, কিন্তু সঠিক প্রশিক্ষণ এবং দক্ষতার অভাবে তাঁরা এই স্বপ্ন বাস্তবায়ন করতে পারেন না। তা বলে হতাশ হওয়ার কারণ নেই! এখানে এমন একটি ব্যবসায়িক ধারণা সম্পর্কে বলা হচ্ছে, যা অল্প সময়ের মধ্যে প্রতিদিন হাজার হাজার টাকা আয় করতে পারে।",
@@ -603,15 +648,6 @@ const newsData_bn = [
     "time": "2026-03-02T11:21:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "মধ্যপ্রাচ্য়ের যুদ্ধের ভয়াবহ আগুনে কয়েক মুহূর্তেই জ্বলে খাক হয়ে গেল বাজারের ৬ লক্ষ কোটি টাকা, ভারতে হাহাকার...",
-    "desc": "যদিও ভারতের অভ্যন্তরীণ অর্থনৈতিক ভিত্তি (Fundamentals) বেশ মজবুত, তবুও এই ধরণের বৈশ্বিক ধাক্কা সামলানো কঠিন। ভারতের জিডিপি বৃদ্ধি এবং কর্পোরেট আয়ের হার ইতিবাচক থাকলেও, জ্বালানির দাম বৃদ্ধি উৎপাদন ও পরিষেবা খাতের খরচ বাড়িয়ে দেয়। বিশেষ করে অ্যাভিয়েশন (বিমান পরিষেবা), অটোমোবাইল এবং কনজিউমার গুডস সেক্টরে এই পতনের প্রভাব সবচেয়ে বেশি দেখা গেছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/market-story-sensex-crashes-1500-points-amid-iran-us-conflict-should-investors-be-worried-sensex-crash_643356.html ",
-    "time": "2026-03-02T09:39:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Iran-Israel Tention: যুদ্ধের আবহে ক্রমশ ঊর্ধ্বমুখী তেলের দাম",
     "desc": "মধ্যপ্রাচ্যে মহারণ। ভয়ঙ্কর প্রত্যাঘাত ইরানের। আমেরিকার রণতরী আব্রাহাম লিঙ্কনে হামলা ইরানের ৪ ব্যালেস্টিক মিসাইলের। মধ্যপ্রাচ্যের মহাযুদ্ধে জ্বলছে হরমুজ প্রণালী। হরমুজ প্রণালী দিয়ে থমকে তেল সরবরাহ। তেল পরিবহণের গুরুত্বপূর্ণ রুট এই হরমুজ প্রণালী। এই জলপথ ধরে তেল পরিবহণ থমকে যাওয়ায় বাড়ছে জ্বালানির দাম। ইতিমধ্যেই অপরিশোধীত তেলের দাম ১০ শতাংশ বৃদ্ধি পেয়েছে। যুদ্ধের আঁচে জ্বালানির দাম বৃদ্ধির আশঙ্কায় বিশ্ব",
@@ -862,41 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/kakinada-andhra-pradesh-blast-18-killed-in-massive-explosion-at-fireworks-factory-in-kakinada-district-ss-2562492.html",
     "time": "2026-02-28T11:22:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Narendra Modi",
-    "desc": "ফের আয়ুষ্মান ভারতে সরব মোদি। বাংলায় আয়ুষ্মান ভারত চালু না করা নিয়ে তোপ। গরীব মানুষকে বঞ্চনার অভিযোগ মোদির। AI সামিটে ‘নগ্ন’ বিক্ষোভ। কংগ্রেসকে তুলোধনা নরেন্দ্র মোদির। বিদেশি অতিথি ও বিনিয়োগকারীদের সামনে দেশের মাথা হেঁট হয়েছে। নেটওয়ার্ক 18-এর রাইজিং ভারত অনুষ্ঠানে তোপ প্রধানমন্ত্রীর। পরিবারতন্ত্র নিয়েও খোঁচা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/PM-Modi-in-Rising-Bharat-Summit-2026-2026-02-7ba2d20bebece5624f97133c652608b1-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/rising-bharat-summit-2026-pm-modi-outlines-vision-for-aatmanirbhar-india-slams-congress-for-politicising-ai-summit-ss-2562120.html",
-    "time": "2026-02-28T08:04:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রেলের জমি দখলমুক্ত করতে দখলবিরোধী অভিযান উত্তর-পূর্ব সীমান্ত রেলওয়ের",
-    "desc": "রেলওয়ে পরিকাঠামো রক্ষা এবং সুরক্ষিত ট্রেন চলাচল নিশ্চিত করার দৃঢ়সংকল্প প্রদর্শন করে, উত্তর-পূর্ব সীমান্ত রেলওয়ের রেলওয়ে সুরক্ষা বাহিনী (আরপিএফ) ইঞ্জিনিয়ারিং বিভাগের সাথে সমন্বয়ে, ফেব্রুয়ারি ২০২৬-এ অনুষ্ঠিত দুই দিনের অভিযানের সময় তার আওতাধীন একাধিক স্থানে ব্যাপকদখল বিরোধী অভিযান চালায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/TV_5789806_nfr_encroachment_1-1200x721.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/kolkata/north-east-frontier-railway-news-security-forces-takes-action-to-remove-trespassers-from-railyards-rdp-2561795.html",
-    "time": "2026-02-28T06:48:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "মার্জারের পর ‘এই’ ব্যাঙ্ক হয়ে উঠেছে দেশের দ্বিতীয় বৃহত্তম রাষ্ট্রায়ত্ত ব্যাঙ্ক",
-    "desc": "Punjab National Bank–এর সঙ্গে Oriental Bank of Commerce ও United Bank of India–এর সংযুক্তির পর গড়ে ওঠা নতুন ব্যাঙ্ক এখন দেশের দ্বিতীয় বৃহত্তম রাষ্ট্রায়ত্ত ব্যাঙ্ক। ১১,০০০–এর বেশি শাখা ও ১৮ লক্ষ কোটি টাকার বেশি ব্যবসা নিয়ে শক্ত অবস্থান তৈরি করেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bank-Merger-5-2026-02-77eefb10f323a9ec47435de517dc9c15-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/after-mega-merger-punjab-national-bank-becomes-indias-second-largest-public-sector-bank-dc-2561982.html",
-    "time": "2026-02-28T06:07:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "দোল এবং হোলি উপলক্ষে ৬৬টি বিশেষ ট্রেন চালাবে পূর্ব রেল! কোন কোন রুটে চলবে, দেখুন বিস্তারিত",
-    "desc": "২০২৬ সালের দোল এবং হোলি উৎসব উপলক্ষে পূর্ব রেল ৬৬টি বিশেষ ট্রেন পরিচালনা করছে যা গুরুত্বপূর্ণ বিভিন্ন রুটের যাত্রীদের ভিড় সামাল দেবে। ট্রেন নম্বর ০৩১৩১ (শিয়ালদহ থেকে গোরক্ষপুর) এবং ট্রেন নম্বর ০৩১৮৫ (কলকাতা থেকে মধুবাণী) ইতিমধ্যেই প্রায় ১০০ শতাংশ পূর্ণ হয়ে গিয়েছে; তবে অন্যান্য বিশেষ ট্রেনগুলিতে এখনও টিকিট এখনও রয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/TV_5789820_nf_railway_1-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/eastern-railways-will-run-special-train-during-holi-and-dol-from-sealdah-howrah-malda-and-different-stations-rdp-2561789.html",
-    "time": "2026-02-28T05:52:13.000Z"
   }
 ];

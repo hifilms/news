@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ahmedabad pitch in focus as India host New Zealand in T20 World Cup 2026 final",
+    "desc": "After a thrilling seven-run victory over England at the Wankhede Stadium in Mumbai, India have advanced to the final of the T20 World Cup 2026. They will face New Zealand in the summit clash on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ahmedabad-pitch-in-focus-as-india-host-new-zealand-in-t20-world-cup-2026-final-2026-03-06-1032826",
+    "time": "2026-03-06T09:06:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jacob Bethell sets new England record with century against India in T20 World Cup semi-final",
+    "desc": "England youngster Jacob Bethell wreaked havoc in the second innings of the semi-final clash against India at the Wankhede Stadium in Mumbai. Chasing 254 runs, the visitors had a topsy-turvy start, losing three wickets in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jacob-bethell-sets-new-england-record-with-century-against-india-in-t20-world-cup-semi-final-2026-03-06-1032814",
+    "time": "2026-03-06T07:51:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How many India cricketers will play their first T20 World Cup final? Know details",
+    "desc": "India will host New Zealand in the final of the T20 World Cup 2026 on March 8 at the Narendra Modi Stadium in Ahmedabad. The Suryakumar Yadav-led side defeated England by seven runs in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-many-india-cricketers-will-play-their-first-t20-world-cup-final-know-details-2026-03-06-1032806",
+    "time": "2026-03-06T07:14:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Four India cricketers make Test debut in one-off Test vs Australia in Perth",
     "desc": "Australia have won the toss and opted to field first in the one-off Test against India at the WACA Stadium in Perth. Legendary cricketer Alyssa Healy is set to play her final international game as...",
     "img": "",
@@ -10,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Smriti Mandhana departs, Shafali- Pratika hold fort in Perth",
+    "title": "India lose seven wickets, Jemimah departs after half-century",
     "desc": "The one-off Test between Australia and India at the WACA Ground in Perth is of great importance to both teams. On one hand, one of Australia’s greatest talents, Alyssa Healy, is set to feature in...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-axar-patel-a-silent-hero-in-india-s-thrilling-win-over-england-to-reach-t20-world-cup-final-2026-03-05-1032751",
     "time": "2026-03-05T17:52:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India enter T20 World Cup 2026 final, beat England despite Jacob Bethell's heroic effort",
-    "desc": "India have defeated England by seven runs in the T20 World Cup 2026 semi-final at the Wankhede Stadium in Mumbai. The show started with Sanju Samson’s charismatic knock of 89 runs, which was followed by...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-qualify-for-t20-world-cup-2026-final-beat-england-despite-jacob-bethell-s-heroic-effort-2026-03-05-1032747",
-    "time": "2026-03-05T17:20:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is highest run-chase at Wankhede Stadium in T20Is after India post 253 in T20 WC semifinal vs England?",
-    "desc": "Indian batters wreaked havoc in the second T20 World Cup 2026 semi-final against England at the Wankhede Stadium in Mumbai. Sanju Samson launched a scathing attack, powering 89 runs off 42 balls to set the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-is-highest-run-chase-at-wankhede-stadium-in-t20is-after-india-post-242-in-t20-wc-semifinal-vs-england-2026-03-05-1032736",
-    "time": "2026-03-05T15:17:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson's charismatic knock vs England earns standing ovation from Wankhede crowd in T20 World Cup 2026",
-    "desc": "After a match-winning knock of 97 runs against West Indies in the Super Eights clash, India opener Sanju Samson managed to keep up with the momentum, launching a scathing attack against England in the T20...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-s-charismatic-knock-vs-england-earns-standing-ovation-from-wankhede-crowd-in-t20-world-cup-2026-2026-03-05-1032734",
-    "time": "2026-03-05T14:41:40.000Z"
   }
 ];
