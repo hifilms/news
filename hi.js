@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sanju Samson breaks Rohit Sharma's T20 World Cup record with monstrous innings vs England",
+    "desc": "Sanju Samson played a blistering knock of 89 runs off 42 balls in the second semi-final of the T20 World Cup at the Wankhede Stadium in Mumbai. Despite losing opening partner Abhishek Sharma early, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-breaks-rohit-sharma-s-t20-world-cup-record-with-monstrous-innings-vs-england-2026-03-06-1032783",
+    "time": "2026-03-06T04:12:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs England broke major T20 World Cup records, Varun Chakravarthy escapes embarrassing feat",
+    "desc": "India vs England in the T20 World Cup semi-final at the Wankhede Stadium will be remembered as one of the greatest matches in the shortest format. After Sanju Samson’s blistering 89, India posted 253 runs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-england-broke-major-t20-world-cup-records-varun-chakravarthy-escapes-embarrassing-feat-2026-03-06-1032773",
+    "time": "2026-03-06T03:10:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'5 sixes to nahi khaunga': Axar Patel says he was ready to bowl final over against England in T20 WC semifinal",
     "desc": "India defeated England by seven runs in the thrilling semifinal of the T20 World Cup. They defended 253 runs to somehow defy England and will now face New Zealand in the final of the tournament....",
     "img": "",
@@ -70,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-flops-yet-again-fails-to-acknowledge-his-flawed-batting-technique-2026-03-05-1032726",
     "time": "2026-03-05T14:02:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England make one change for T20 World Cup semi-final clash, India to bat first at Wankhede",
-    "desc": "England have won the toss and opted to field first in the second semi-final of the T20 World Cup 2026 clash against India at the Wankhede Stadium in Mumbai. Harry Brook analysed that the surface...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-make-one-change-for-t20-world-cup-semi-final-clash-india-to-bat-first-at-wankhede-2026-03-05-1032723",
-    "time": "2026-03-05T13:18:05.000Z"
   }
 ];

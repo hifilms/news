@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "મેચની અંતિમ ક્ષણોમાં ગંભીર અને કેપ્ટન સૂર્યકુમારે એવું તે શું કર્યું કે આખી મેચ પલટાઈ ગઈ...??",
+    "desc": "કેરેબિયન મેદાન પર ક્રિકેટનો એવો રોમાંચ જોવા મળ્યો જેણે કરોડો ચાહકોના ધબકારા વધારી દીધા હતા. T20 વર્લ્ડ કપની બીજી સેમીફાઈનલમાં ટીમ ઈન્ડિયાએ ડિફેન્ડિંગ ચેમ્પિયન ઈંગ્લેન્ડને એક અત્યંત હાઈ-સ્કોરિંગ થ્રિલરમાં 7 રને હરાવીને ફાઈનલની ટિકિટ મેળવી લીધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/a-gesture-between-gambhir-and-suryakumar-yadav-in-the-final-moments-of-the-match-turned-the-match-around-467387 ",
+    "time": "2026-03-06T04:27:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારત માટે આ ઓવર હતી ટર્નિગ પોઈન્ટ, કોણ ખેચીને લાવ્યું જીત ? સુર્યકુમાર યાદવે કર્યો ખુલાસો",
+    "desc": "ભારતે વાનખેડે સ્ટેડિયમ ખાતે T20 વર્લ્ડ કપ 2026ની સેમિફાઇનલમાં ઇંગ્લેન્ડને હરાવીને ફાઇનલમાં પ્રવેશ કર્યો. ભારતની આગામી મેચ અમદાવાદમાં 8 માર્ચના રોજ રમાશે, ભારત ન્યુઝીલેન્ડ સામે ફાઈનલ મેચ રમશે. સાંજે 7 વાગ્યે આ મુકાબલો શરૂ થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/this-over-was-the-turning-point-for-india-who-pulled-it-off-and-brought-victory-suryakumar-yadav-reveals-467385 ",
+    "time": "2026-03-06T04:01:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "રશિયન તેલ ખરીદી શકે છે ભારત, જેણે ના પાડી હતી, તે અમેરિકાએ જ આપી છૂટ, જાણો કારણ",
+    "desc": "ગુરુવારે ખાનગી પોર્ટલ સાથે વાત કરતા, બે વરિષ્ઠ અમેરિકી અધિકારીઓએ જણાવ્યું હતું કે યુએસ સરકારે 30 દિવસની કામચલાઉ છૂટ આપવાનો નિર્ણય લીધો છે. ભારત હવે 30 દિવસ સુધી રશિયા પાસેથી તેલની ખરીદી કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/india-can-buy-russian-oil-america-has-given-permission-know-the-reason-467374 ",
+    "time": "2026-03-06T02:59:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "T20 વર્લ્ડ કપની કેવી રીતે થઈ શરૂઆત ? ઇંગ્લેન્ડ સાથે છે ખાસ કનેક્શન, જાણો કોણે જીત્યો હતો પહેલો ખિતાબ",
     "desc": "T20 વર્લ્ડ કપની શરૂઆત 2007માં થઈ હતી. પહેલી સિઝનમાં કુલ 12 ટીમોએ ભાગ લીધો હતો. શું તમે જાણો છો કે T20 વર્લ્ડ કપ કેવી રીતે શરૂ થયો હતો અને ઈંગ્લેન્ડ ક્રિકેટ બોર્ડ સાથે તેનું શું કનેક્શન છે, ત્યારે આ લેખમાં T20 વર્લ્ડ કપ શરૂ થવા પાછળની કહાની વિશે જાણીશું.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -360,15 +387,6 @@ const newsData_gu = [
     "time": "2026-03-04T04:46:29.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "&amp;#039;આ 2 ટીમો વચ્ચે જ રમાશે T20 World Cup 2026ની ફાઈનલ&amp;#039; મેચ! ક્રિકેટ જગતના દિગ્ગજોની ભવિષ્યવાણી",
-    "desc": "ટી20 વર્લ્ડકપ 2026 ટુર્નામેન્ટમાં કઈ બે ટીમો વચ્ચે ફાઈનલનો જંગ જોવા મળશે, તે તો 5 માર્ચ પછી જ સ્પષ્ટ થશે. પરંતુ તે પહેલાં જ ક્રિકેટ જગતના દિગ્ગજો દ્વારા અનેક ભવિષ્યવાણીઓ કરવામાં આવી રહી છે. ચાલો જાણીએ કોણે શું કહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/the-2026-t20-world-cup-final-will-be-between-these-two-teams-veterans-make-bold-predictions-467111 ",
-    "time": "2026-03-04T03:41:49.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઈઝરાયેલ સાથે યુદ્ધ વચ્ચે ઈરાનને મળ્યા નવા સુપ્રીમ લીડર, ખામેનેઈને ક્યાં દફનાવવામાં આવશે એ પણ જાણો",
     "desc": "અમેરિકા અને ઈઝરાયેલના હુમલાઓમાં અમેરિકાના સુપ્રીમ લીડર અયાતુલ્લા અલી ખામેનેઈનું મોત થયું. હવે ઈરાનને નવા સુપ્રીમ લીડર મળી રહ્યા છે. તેમના પુત્રને અસેમ્બલી ઓફ એક્સપર્ટ દ્વારા પસંદ કરાયા હોવાના સમાચાર આવી રહ્યા છે. આ ઉપરાંત ખામેનેઈની દફન વિધિ ક્યાં થશે એ પણ જાણો.",
@@ -475,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/latest-reportimportant-news-for-central-employees-latest-report-on-fixed-medical-allowance-has-surfaced-467014 ",
     "time": "2026-03-03T08:59:19.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "શું અમેરિકા પરમાણુ યુદ્ધની તૈયારી કરી રહ્યું છે? USના એરિયા-52માં 100થી વધુ ભૂકંપના આંચકા",
-    "desc": "અમેરિકા અને ઈઝરાયેલે ભેગા થઈને ઈરાન પર ભીષણ હુમલા કર્યા. જો કે ઈરાન આવો વળતો પ્રહાર કરશે તેવું કદાચ વિચાર્યું નહીં હોય. આ બધા વચ્ચે હવે એ સવાલ ઉઠ્યો છે કે શું અમેરિકા ઈરાન પર પરમાણુ બોમ્બ ફોડવાની તૈયારી કરી રહ્યું છે? કારણ કે 24 કલાકની અંદર એરિયા 52 પાસે અનેક ભૂકંપના ઝટકા આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/is-america-preparing-for-nuclear-war-more-than-100-earthquake-tremors-in-us-area-52-467008 ",
-    "time": "2026-03-03T08:10:00.000Z"
   },
   {
     "cat": "Business",
