@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Lilliput says SRK doesn’t have script sense like Aamir",
+    "desc": "Veteran actor-writer M M Faruqui, popularly known as Lilliput, recently shared his candid thoughts on superstar Shah Rukh Khan. During a new interaction, Lilliput reflected on SRK’s performance in Zero, questioned his script choices, and also explained why action-heavy films like Jawan don’t appeal to him.",
+    "img": "https://static.toiimg.com/photo/msid-129178164,imgsize-71350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lilliput-says-shah-rukh-khan-doesnt-have-script-sense-like-aamir-khan-clarifies-he-never-predicted-zero-box-office-failure/articleshow/129178164.cms",
+    "time": "2026-03-06T21:11:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gone in a flash fire",
+    "desc": "An explosion at a firecracker manufacturing unit in Vetlapalem village of Kakinada district, Andhra Pradesh, claimed 28 workers’ lives, including eight women. Preliminary investigations reveal that the unit’s owners had allegedly stored explosive materials far beyond the permitted limit and engaged 31 workers, nearly four times the number allowed under licence, in a bid to fulfil festival and wedding orders, reports T. Appala Naidu",
+    "img": "https://th-i.thgim.com/public/incoming/4cnrk2/article70712904.ece/alternates/LANDSCAPE_1200/02FOR%20GROUND%20ZERO.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-firecracker-unit-blast-gone-in-a-flash-fire/article70712891.ece",
+    "time": "2026-03-06T21:10:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Self-reliance only way to stay relevant in era of global uncertainty: Rajnath Singh",
+    "desc": "Defence Minister Rajnath Singh emphasized self-reliance as crucial for navigating global uncertainty, citing supply chain realignments and rising maritime activities. He highlighted India's growing domestic defence production, which surpassed Rs 1.5 lakh crore in FY24-25, with exports reaching Rs 24,000 crore. Singh also stressed the importance of technological dynamism and private sector participation in achieving defence 'atmanirbharta'.",
+    "img": "https://static.toiimg.com/photo/msid-129177988,imgsize-31980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/self-reliance-only-way-to-stay-relevant-in-era-of-global-uncertainty-rajnath-singh/articleshow/129177918.cms",
+    "time": "2026-03-06T20:58:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In marathon outreach, NCW plans week-long public hearings covering 500 districts",
+    "desc": "The National Commission for Women is launching nationwide 'Mahila Jan Sunwais' in 500 districts across 25 states until March 14. This initiative aims to resolve approximately 15,000 complaints, with a focus on domestic violence and dowry harassment. NCW chief Vijaya Rahatkar will lead hearings in five states lacking commission chairpersons, bringing support directly to women in distress.",
+    "img": "https://static.toiimg.com/photo/msid-129176799,imgsize-30628.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-marathon-outreach-ncw-plans-week-long-public-hearings-covering-500-districts/articleshow/129176732.cms",
+    "time": "2026-03-06T20:22:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chiranjeevi, RC, PK, Suriya attend Allu Sirish-Nayanika wedding",
+    "desc": "Actor Allu Sirish tied the knot with Nayanika Reddy in a grand wedding ceremony held in Hyderabad on Friday evening. The star-studded celebration brought together several prominent names from cinema, politics and business, turning the occasion into a glittering affair.",
+    "img": "https://static.toiimg.com/photo/msid-129174637,imgsize-132136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-sirish-nayanika-reddys-wedding-chiranjeevi-ram-charan-pawan-kalyan-raashii-khanna-and-suriya-bless-the-newlyweds/articleshow/129174637.cms",
+    "time": "2026-03-06T19:38:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel-Iran war LIVE: Trump demands unconditional surrender of Iran; IRGC warns of ‘prolonged war’",
+    "desc": "Iranian Ship IRIS Lavan, crew, docked at Kochi days before IRIS Dena incident, says government sources; two days ago, Iranian warship IRIS Dena, returning from International Fleet Review in Visakhapatnam, was torpedoed by a U.S. submarine off Sri Lanka’s coast, killing 83 people",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-conflict-west-asia-march-6-2026/article70709958.ece",
+    "time": "2026-03-06T19:31:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "what worked in Ranji — and will it in Tests?",
+    "desc": "The 29-year-old seam-and-swing bowler was irresistible in Jammu & Kashmir’s maiden triumph in India’s premier domestic cricket tournament. There is a growing clamour for him to be included in the national team. Are his methods robust enough to hold up at the highest level? And does he have the temperament to handle the pressure of top-flight competition?",
+    "img": "https://th-i.thgim.com/public/incoming/2kjc90/article70713509.ece/alternates/LANDSCAPE_1200/1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/auqib-nabi-ranji-trophy-60-wickets-jammu-kashmir-title-india-test-debut/article70713517.ece",
+    "time": "2026-03-06T19:14:16.000Z"
+  },
+  {
     "cat": "Business",
     "title": "'Allowing India to take Russian oil already on ships': US clarifies on 30-day waiver",
     "desc": "The US has granted India a temporary waiver to buy Russian oil, aiming to stabilize global prices amid Middle East supply disruptions. This short-term measure allows India to access millions of barrels of Russian crude currently at sea, easing immediate pressure on refineries worldwide.",
@@ -406,30 +469,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Badshah's song 'Tateeree' lands in trouble for objectionable lyrics",
-    "desc": "Rapper Badshah faces a summons from the Haryana State Commission for Women over allegedly objectionable lyrics in his new Haryanvi song 'Tateeree'. The commission initiated proceedings after receiving complaints that the song's content is indecent, objectifies women and minors, and goes against cultural values. The hearing is scheduled for March 13, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-129151314,imgsize-31326.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/badshahs-song-tateeree-lands-in-trouble-as-haryana-state-commission-for-women-issues-summons-for-alleged-objectionable-lyrics/articleshow/129151203.cms",
-    "time": "2026-03-06T11:19:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Easy to make choices with someone else's money', Kunal on 8-hour shift row",
     "desc": "Following Deepika Padukone's reported demand for an eight-hour workday, actors like Kunal Kemmu and Saif Ali Khan discussed the realities of show business. They emphasized that choosing a career in acting comes with inherent expectations and that professionals must understand the commitment required for success and the lifestyle they desire.",
     "img": "https://static.toiimg.com/photo/msid-129150258,imgsize-94724.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/easy-to-make-choices-with-someone-elses-money-says-kunal-kemmu-amidst-deepika-padukones-eight-hour-shift-row-you-plan-motherhood/articleshow/129150091.cms",
     "time": "2026-03-06T11:02:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Meet Indian presenters at international awards",
-    "desc": "With Priyanka Chopra set to appear as a presenter at the 98th edition of the Academy Awards in 2026, the spotlight has once again turned to Indian celebrities who have represented the country on global award stages. Over the years, several actors and entertainers from India have stepped into presenter or host roles at prestigious international ceremonies, highlighting the growing global presence of Indian talent. Let's take a look at Indian celebs who graced the international awards as the pretigious presenters.",
-    "img": "https://static.toiimg.com/photo/msid-129148910,imgsize-26104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-joins-oscars-2026-presenters-list-srk-alia-bhatt-and-others-meet-indian-presenters-at-international-awards/photostory/129148910.cms",
-    "time": "2026-03-06T10:38:55.000Z"
   },
   {
     "cat": "Sports",
@@ -601,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/one-more-match-sanju-samson-eyes-another-big-knock-in-indias-summit-clash-vs-new-zealand/articleshow/129137096.cms",
     "time": "2026-03-06T06:29:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED searches multiple sites linked to Anil Ambani’s Reliance Power in bank fraud probe",
-    "desc": "The Enforcement Directorate conducted searches at multiple locations in Mumbai and Hyderabad linked to Reliance Power as part of a bank fraud and money laundering probe. The investigation also involves suspected financial irregularities under the Foreign Exchange Management Act, with Anil Ambani having been questioned twice previously.",
-    "img": "https://static.toiimg.com/photo/msid-129136805,imgsize-1122509.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ed-searches-multiple-sites-linked-to-anil-ambanis-reliance-power-in-bank-fraud-probe/articleshow/129136488.cms",
-    "time": "2026-03-06T06:16:33.000Z"
   },
   {
     "cat": "Tech",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/iran-soccer-federation-president-says-world-cup-participation-in-us-is-in-doubt/article70693886.ece",
     "time": "2026-03-04T06:23:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘One Piece’ creator Eiichiro Oda hides series’ biggest secret under the ocean as manga hits 600 million copies",
-    "desc": "In a special project revealed through an official video, Oda wrote down the answer to the central question of the story — the nature of the legendary treasure known as One Piece — for the first time",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/hcqtey/article70702256.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20111111.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/one-piece-creator-eiichiro-oda-hides-series-biggest-secret-under-the-ocean-as-manga-hits-600-million-copies/article70702244.ece",
-    "time": "2026-03-04T05:43:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee slumps 69 paise to all-time low of 92.18 against U.S. dollar in early trade",
-    "desc": "Forex traders said the domestic currency is under severe pressure due to a sharp spike in crude oil prices, with Brent Crude crossing the $82 per barrel level in futures trade in the wake of the Iran crisis",
-    "img": "https://th-i.thgim.com/public/incoming/sjlgg0/article70702149.ece/alternates/LANDSCAPE_1200/bl26-think2-maiG30FKUIU7.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/rupee-slumps-69-paise-to-all-time-low-of-9218-against-us-dollar-in-early-trade/article70702108.ece",
-    "time": "2026-03-04T05:19:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "I worked with a baseball coach to improve my power-hitting game: Sanjay Krishnamurthi",
-    "desc": "The USA’s up-and-coming batter, who came up with an impressive display in the T20 showpiece, speaks about how India’s triumph in the 2011 ODI World Cup ignited his passion for the game, early days in Bengaluru, the cricketing journey so far, and future plans",
-    "img": "https://th-i.thgim.com/public/incoming/rargo3/article70699917.ece/alternates/LANDSCAPE_1200/TH16-TARUN-USA-G3MFJEL0I.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/i-worked-with-a-baseball-coach-to-improve-my-power-hitting-game-sanjay-krishnamurthi/article70699914.ece",
-    "time": "2026-03-03T18:27:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB to play five home matches at the Chinnaswamy Stadium",
-    "desc": "Season opener, one playoff match and the final also to be held at the iconic venue; defending champion’s other two home games will be in Raipur; KSCA president Prasad elated with the decision and assures complying with all requirements",
-    "img": "https://th-i.thgim.com/public/incoming/motezb/article70699819.ece/alternates/LANDSCAPE_1200/RCB-KSCA-UpdateGP3FEF62S.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/rcb-to-play-five-matches-at-the-chinnaswamy-stadium/article70699801.ece",
-    "time": "2026-03-03T14:47:18.000Z"
   }
 ];
