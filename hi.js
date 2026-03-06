@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Details here",
+    "desc": "The pitch for the T20 World Cup final between India and New Zealand at the Narendra Modi Stadium in Ahmedabad is set to be full of runs. The surface is expected to be like the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suspense-around-ahmedabad-pitch-for-ind-vs-nz-t20-world-cup-final-ends-details-here-2026-03-06-1032884",
+    "time": "2026-03-06T18:15:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Glenn Phillips hopes Jasprit Bumrah has an off day in T20 World Cup final, 'He's also a human'",
+    "desc": "Jasprit Bumrah was the difference between the two teams as India defended 253 runs against England to win by just seven runs. In a match where 499 runs were scored in 40 overs, Bumrah conceded...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-hopes-jasprit-bumrah-has-an-off-day-in-t20-world-cup-final-he-s-also-a-human-2026-03-06-1032876",
+    "time": "2026-03-06T16:44:55.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "‘Take her to Ahmedabad’: Viral girl’s emotional prayer before IND vs ENG semifinal wins hearts online",
     "desc": "Team India defeated England in the thrilling semifinal clash on Wednesday to enter the final of the T20 World Cup. Despite posting a mammoth total of 253 runs, England came extremely close and India could...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ahmedabad-pitch-in-focus-as-india-host-new-zealand-in-t20-world-cup-2026-final-2026-03-06-1032826",
     "time": "2026-03-06T09:06:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jacob Bethell sets new England record with century against India in T20 World Cup semi-final",
-    "desc": "England youngster Jacob Bethell wreaked havoc in the second innings of the semi-final clash against India at the Wankhede Stadium in Mumbai. Chasing 254 runs, the visitors had a topsy-turvy start, losing three wickets in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jacob-bethell-sets-new-england-record-with-century-against-india-in-t20-world-cup-semi-final-2026-03-06-1032814",
-    "time": "2026-03-06T07:51:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How many India cricketers will play their first T20 World Cup final? Know details",
-    "desc": "India will host New Zealand in the final of the T20 World Cup 2026 on March 8 at the Narendra Modi Stadium in Ahmedabad. The Suryakumar Yadav-led side defeated England by seven runs in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-many-india-cricketers-will-play-their-first-t20-world-cup-final-know-details-2026-03-06-1032806",
-    "time": "2026-03-06T07:14:08.000Z"
   }
 ];

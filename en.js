@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "'Allowing India to take Russian oil already on ships': US clarifies on 30-day waiver",
+    "desc": "The US has granted India a temporary waiver to buy Russian oil, aiming to stabilize global prices amid Middle East supply disruptions. This short-term measure allows India to access millions of barrels of Russian crude currently at sea, easing immediate pressure on refineries worldwide.",
+    "img": "https://static.toiimg.com/photo/msid-129171005,imgsize-54874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/releases-the-pressure-on-other-refineries-us-says-indias-russian-oil-waiver-is-a-short-term-step-to-stabilise-global-prices/articleshow/129170847.cms",
+    "time": "2026-03-06T18:15:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajpal Yadav meets Sonu Sood, shares warm hug in viral video",
+    "desc": "A new video featuring Rajpal Yadav and Sonu Sood is going viral on social media. In the clip, the two are seen walking together before sharing a warm hug and smiling as they pose for the paparazzi. The moment has sparked a wave of reactions online, with many fans calling it an unexpected “U-turn.”",
+    "img": "https://static.toiimg.com/photo/msid-129171060,imgsize-84252.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-visits-sonu-soods-production-house-shares-warm-hug-in-viral-video-fans-call-it-a-u-turn-moment/articleshow/129171060.cms",
+    "time": "2026-03-06T18:15:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NHAI promises uninterrupted fuel, bitumen supply amid rising cost concerns",
+    "desc": "The highway developers said they anticipated an increase in transportation cost on the back of increase in diesel price and rising input material costs are expected to escalate transportation expenses. They also suggested NHAI to reduce the price indexation lag from three months to one month to better reflect real-time market conditions and prevent under-compensation to contractors.",
+    "img": "https://static.toiimg.com/photo/msid-129170005,imgsize-321686.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nhai-promises-uninterrupted-fuel-bitumen-supply-amid-rising-cost-concerns/articleshow/129170053.cms",
+    "time": "2026-03-06T17:53:43.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iranian warship strike near Sri Lanka raises questions for India",
+    "desc": "An Iranian warship was struck by a U.S. submarine near Sri Lanka, days after participating in India’s MILAN 2026 naval exercise. The incident raises major questions about India’s role in the Indian Ocean and the strategic balance between Washington and Tehran.",
+    "img": "https://th-i.thgim.com/public/news/national/pg6ygt/article70713445.ece/alternates/LANDSCAPE_1200/trump%202.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/iranian-warship-strike-near-sri-lanka-raises-questions-for-india/article70713451.ece",
+    "time": "2026-03-06T17:46:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lok Sabha likely to debate resolution seeking Speaker Om Birla’s removal on March 9",
+    "desc": "Both the BJP and the Congress have issued whips mandating their members’ presence in the House from March 9 to 11, in anticipation of the resolution by 118 Opposition MPs in the Lok Sabha seeking Birla’s removal for partisan behaviour slated for debate",
+    "img": "https://th-i.thgim.com/public/incoming/c1ogmr/article70713211.ece/alternates/LANDSCAPE_1200/20260209129L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/lok-sabha-likely-to-debate-resolution-seeking-speaker-om-birlas-removal-in-first-week-of-session/article70712651.ece",
+    "time": "2026-03-06T17:38:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NCB busts Nepal-to-Sri Lanka drug network worth Rs 10 crore; 5 arrested, 77.6 kg Hashish oil seized",
+    "desc": "A major transnational drug syndicate, spanning Nepal to Sri Lanka via India, has been dismantled by the NCB. Seizing 77.60 kg of Hashish Oil and 2 kg of Charas, valued at Rs. 10 Crore, the operation led to five arrests. Intelligence revealed a plan for maritime delivery to Sri Lanka, which was successfully thwarted.",
+    "img": "https://static.toiimg.com/photo/msid-129167759,imgsize-1598440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ncb-busts-nepal-to-sri-lanka-drug-network-worth-rs-10-crore-5-arrested-77-6-kg-hashish-oil-seized/articleshow/129167828.cms",
+    "time": "2026-03-06T17:11:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India must ask U.S. why it is targeting Iranian ships in Indian Ocean: Iran Minister Khatibzadeh",
+    "desc": "Iran’s Deputy Foreign Minister Saeed Khatibzadeh says his country is a “responsible power” and has not shut the Strait of Hormuz, he says the attack on Iran is “based on a lie” and pitches for diplomacy as the “only option”",
+    "img": "https://th-i.thgim.com/public/incoming/s4whsv/article70713379.ece/alternates/LANDSCAPE_1200/20260306206L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-must-ask-us-why-it-is-targeting-iranian-ships-in-indian-ocean-iran-minister-khatibzadeh/article70713189.ece",
+    "time": "2026-03-06T17:06:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Allu Sirish marries Nayanika Reddy; CM joins Allu–Konidela family",
+    "desc": "Actor Allu Sirish tied the knot with Nayanika Reddy in a grand wedding ceremony held in Hyderabad on Friday evening. In one of the first pictures from the celebrations, the newlyweds were seen posing together alongside A. Revanth Reddy, Allu Arjun and film producer Allu Aravind.",
+    "img": "https://static.toiimg.com/photo/msid-129166750,imgsize-91454.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-sirish-marries-nayanika-reddy-in-hyderabad-telangana-cm-revanth-reddy-joins-allukonidela-family-in-the-first-picture/articleshow/129166750.cms",
+    "time": "2026-03-06T16:44:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Men in Blue overcome semifinal bogey in a nervy encounter",
+    "desc": "Suryakumar’s men come up with a vastly improved fielding display to edge Brook & Co. in a run-fest at the Wankhede; the home team has found its groove and now has to contend with New Zealand in Sunday’s summit clash",
+    "img": "https://th-i.thgim.com/public/incoming/ut9smf/article70712855.ece/alternates/LANDSCAPE_1200/11908_5_3_2026_21_9_38_4_DSC_9191.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/men-in-blue-overcome-semifinal-bogey-in-a-nervy-encounter/article70712857.ece",
+    "time": "2026-03-06T16:29:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Look in the mirror': Ex-England pacer questions Buttler’s future after T20 World Cup flop",
+    "desc": "Former England pacer Steve Harmison has cast doubt on Jos Buttler's continued motivation for international cricket following a disappointing T20 World Cup 2026 campaign. Buttler struggled significantly, scoring only 87 runs and failing to register a half-century. Harmison urged Buttler to self-reflect on his desire to continue, suggesting it might be time for a new generation if his passion wanes.",
+    "img": "https://static.toiimg.com/photo/msid-129165844,imgsize-110346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/look-in-the-mirror-former-england-pacer-questions-jos-buttlers-future-after-t20-world-cup-flop/articleshow/129165937.cms",
+    "time": "2026-03-06T16:22:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Residents of Visakhapatnam’s Gajuwaka struggle for breath of fresh air",
+    "desc": "The Garbage Transfer Station (GTS) located in Ward 76 of Gajuwaka amid densely populated colonies, has become a source of severe pollution and health issues. Locals complain of constant foul odour, black coal dust, mosquito menace, respiratory and skin ailments. Despite repeated agitations, the residents fear that long-term health consequences are imminent due to official apathy, explains Harish Gilai",
+    "img": "https://th-i.thgim.com/public/incoming/2lnzaf/article70708313.ece/alternates/LANDSCAPE_1200/DSC_2577.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/trapped-in-toxicity-visakhapatnam-residents-struggle-for-breath-of-fresh-air/article70707520.ece",
+    "time": "2026-03-06T16:14:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Jewar airport gets DGCA aerodrome licence, what you need to know",
+    "desc": "Noida International Airport in Jewar has secured its aerodrome licence from the DGCA. This crucial step brings the airport closer to commencing flight operations. All necessary infrastructure is in place. The airport is set to be inaugurated by Prime Minister Narendra Modi. Commercial flights will begin after final security programme approval.",
+    "img": "https://static.toiimg.com/photo/msid-129165452,imgsize-874545.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/noida-airport-update-jewar-airport-gets-dgca-aerodrome-licence-what-you-need-to-know/articleshow/129165032.cms",
+    "time": "2026-03-06T16:10:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US-Iran war: Gold being sold at steep cuts in Dubai; available at $30 an ounce discount",
+    "desc": "The United Arab Emirates, particularly Dubai, serves as a major hub for refining and exporting gold to buyers across Asia. It also acts as a transit point for shipments arriving from Switzerland, the United Kingdom and several African countries.",
+    "img": "https://static.toiimg.com/photo/msid-129164842,imgsize-43512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-iran-war-gold-being-sold-at-steep-cuts-in-dubai-available-at-30-an-ounce-discount/articleshow/129164588.cms",
+    "time": "2026-03-06T16:01:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India gave safe harbour to another Iranian ship days before IRIS Dena was sunk by US",
+    "desc": "Just days before the Iranian warship IRIS Dena was sunk by a US strike, India provided urgent assistance to another Iranian vessel, IRIS Lavan. The ship, facing technical issues, was granted emergency docking at Kochi port on March 1st and arrived on March 4th. Its 183 crew members are currently housed at Indian naval facilities.",
+    "img": "https://static.toiimg.com/photo/msid-129164877,imgsize-483269.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-gave-safe-harbour-to-another-iranian-ship-days-before-iris-dena-was-sunk-by-us/articleshow/129162870.cms",
+    "time": "2026-03-06T15:59:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 South stories of the day",
+    "desc": "South cinema saw major updates as Mammootty and Mohanlal's 'Patriot' faced release issues due to revenue disputes. Janhvi Kapoor's 'Peddi' poster and BTS went viral, while Vijay and Rashmika paid tribute to family in Rakonda. Trisha's old interview resurfaced, and Allu Arjun celebrated 15 years of marriage with Sneha Reddy.",
+    "img": "https://static.toiimg.com/photo/msid-129164637,imgsize-208194.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-rashmika-visit-rakonda-village-allu-arjun-sneha-reddy-celebrate-15th-wedding-anniversary-mammootty-and-mohanlals-patriot-release-issue-top-5-south-stories-of-the-day/articleshow/129164637.cms",
+    "time": "2026-03-06T15:55:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lok Sabha to take up opposition's notice on Monday; BJP, Congress issue whip for MPs",
+    "desc": "Lok Sabha will debate a rare motion to remove Speaker Om Birla on Monday, with 118 opposition MPs backing the notice. Allegations include partisan conduct and silencing dissent. The resolution requires 50 MPs to stand in support to proceed. Both BJP and Congress have issued whips for MPs to attend.",
+    "img": "https://static.toiimg.com/photo/msid-129164662,imgsize-22232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/removal-of-speaker-om-birla-lok-sabha-to-take-up-oppositions-notice-on-monday-bjp-congress-issue-whip-for-mps/articleshow/129164707.cms",
+    "time": "2026-03-06T15:53:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Politico owner Axel Springer to buy UK’s Telegraph in £575 million deal pending regulatory approval",
+    "desc": "German media conglomerate Axel Springer has announced its intention to acquire the UK's Telegraph Media Group for £575 million, a deal subject to regulatory approval. Axel Springer, owner of POLITICO, aims to enhance the right-leaning publication's reach and intellectual influence globally. The company emphasized shared values with The Telegraph, while UK authorities confirmed they will assess the proposed transaction.",
+    "img": "https://static.toiimg.com/photo/msid-129164453,imgsize-113344.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/politico-owner-axel-springer-to-buy-uks-telegraph-in-575-million-deal-pending-regulatory-approval/articleshow/129163355.cms",
+    "time": "2026-03-06T15:49:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda reacts to Sunita Ahuja’s infidelity remarks",
+    "desc": "Govinda and his wife Sunita Ahuja have been making headlines for the past few months amid rumours and public remarks about their personal life. Sunita had also made several claims in interviews, alleging that the actor had been cheating and suggesting that he was involved with a newcomer who was allegedly blackmailing him. Now, addressing the controversy once again, Govinda said he prefers not to speak too much about such matters as it might embarrass someone.",
+    "img": "https://static.toiimg.com/photo/msid-129164164,imgsize-124934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-reacts-to-sunita-ahujas-infidelity-remarks-i-dont-want-to-embarrass-anyone-be-nice-to-all-especially-newcomers/articleshow/129164164.cms",
+    "time": "2026-03-06T15:45:18.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Velur village to launch protest against removal of ‘St. Thomas’ from 103-year-old school’s name",
     "desc": "Name changed after school management handed it over to State government a few years ago. Demand to restore original name had been submitted to government and representations had been sent to Education Minister. Despite these efforts, no response was received from authorities so far",
@@ -126,24 +288,6 @@ const newsData_en = [
     "time": "2026-03-06T13:53:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Budget 2026-27: Kalyana Karnataka Chamber of Commerce and Industry seeks stronger industrial push for Kalyana Karnataka",
-    "desc": "The Kalyana Karnataka Chamber of Commerce and Industry (KKCCI) has expressed concern that the State Budget for 2026-27 has not adequately addressed development and industrial needs of Kalyana Karnataka, which continues to lag behind other parts of the State",
-    "img": "https://th-i.thgim.com/public/news/national/karnataka/g7c6no/article70711841.ece/alternates/LANDSCAPE_1200/tunga.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/budget-2026-27-kalyana-karnataka-chamber-of-commerce-and-industry-seeks-stronger-industrial-push-for-kalyana-karnataka/article70711777.ece",
-    "time": "2026-03-06T13:45:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ghaziabad most-polluted city in India during 2025-26 winters, followed by Noida and Delhi: Report",
-    "desc": "At least 204 out of 238 Indian cities with sufficient monitoring data recorded average winter PM2.5 concentrations above India's National Ambient Air Quality Standards (NAAQS), up from last year's 173 cities, the CREA analysis said",
-    "img": "https://th-i.thgim.com/public/incoming/rnz5tw/article70712119.ece/alternates/LANDSCAPE_1200/PTI02_26_2026_000452B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ghaziabad-most-polluted-city-in-india-during-2025-26-winters-followed-by-noida-and-delhi-report/article70712066.ece",
-    "time": "2026-03-06T13:21:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Stuck in India, West Indies player asks Cristiano Ronaldo to 'rescue' him",
     "desc": "West Indies spinner Akeal Hosein expressed frustration over the team's delayed return from India following their T20 World Cup exit, even jokingly asking Cristiano Ronaldo for a rescue. International travel disruptions due to escalating geopolitical tensions have impacted the squad's journey home, despite Cricket West Indies arranging a charter flight.",
@@ -243,15 +387,6 @@ const newsData_en = [
     "time": "2026-03-06T12:21:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Cannot revert to nations believing might is right': Kapil Sibal condoles Khamenei's assassination",
-    "desc": "“I am sure the global community will come together, no matter what their differences are, to enter into a dialogue, resolve the issues and let global peace be maintained,” the Independent Rajya Sabha MP said",
-    "img": "https://th-i.thgim.com/public/incoming/utuj1i/article70711781.ece/alternates/LANDSCAPE_1200/20260306117L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/khamenei-assassination-condolences-iran-embassy-india/article70711648.ece",
-    "time": "2026-03-06T12:11:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Mumbai Indians launch new IPL 2026 jersey",
     "desc": "Mumbai Indians unveiled their new jersey for IPL 2026, featuring a repeating 'M' motif symbolizing the franchise's identity and philosophy. The design, in signature blue and gold, aims to represent the team's collective energy and forward-driving spirit. This fresh look comes as the team aims to end their championship drought and potentially secure a record sixth IPL title.",
@@ -280,39 +415,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Triptii Dimri joins fans at Wankhede Stadium as India defeats England",
-    "desc": "Amidst the electrifying atmosphere of the Wankhede Stadium, actress Triptii Dimri lit up the scene with her exuberant cheers as India's cricket team celebrated a hard-fought victory over England. Her presence not only brought a hint of Bollywood star power to the game but also resonated with the sea of ecstatic fans reveling in the joy of sport.",
-    "img": "https://static.toiimg.com/photo/msid-129150653,imgsize-131566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/t20-world-cup-semi-finals-2026-triptii-dimri-joins-fans-at-wankhede-stadium-as-india-defeats-england/articleshow/129150653.cms",
-    "time": "2026-03-06T11:11:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Easy to make choices with someone else's money', Kunal on 8-hour shift row",
     "desc": "Following Deepika Padukone's reported demand for an eight-hour workday, actors like Kunal Kemmu and Saif Ali Khan discussed the realities of show business. They emphasized that choosing a career in acting comes with inherent expectations and that professionals must understand the commitment required for success and the lifestyle they desire.",
     "img": "https://static.toiimg.com/photo/msid-129150258,imgsize-94724.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/easy-to-make-choices-with-someone-elses-money-says-kunal-kemmu-amidst-deepika-padukones-eight-hour-shift-row-you-plan-motherhood/articleshow/129150091.cms",
     "time": "2026-03-06T11:02:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yash’s ‘Toxic’ plot leaked online",
-    "desc": "Anticipation for Yash's 'Toxic' is soaring, especially after a rumored plot leak surfaced online. The alleged synopsis suggests Yash's character, Raya, a mobster in Goa, enters a fake marriage with a rival clan's heir to consolidate power and dismantle opposing cartels. Fans are divided on the leak's authenticity, while the film's release date has been pushed to June 4, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-129150305,imgsize-130308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yashs-toxic-plot-leaked-online-is-raya-forced-into-a-fake-marriage-to-destroy-rival-cartels-deets-here/articleshow/129150305.cms",
-    "time": "2026-03-06T11:02:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Bridgerton' actor Luke Thompson rides subway train; photo circulates online",
-    "desc": "Social media erupted in excitement as 'Bridgerton' actor Luke Thompson was spotted casually commuting on the subway. The British heartthrob, beloved for his role as Benedict, appeared effortlessly at ease in a bustling urban setting, sparking a wave of chatter about the intersections of celebrity culture and daily life.",
-    "img": "https://static.toiimg.com/photo/msid-129150279,imgsize-117108.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-actor-luke-thompson-rides-subway-train-photo-circulates-online/articleshow/129150279.cms",
-    "time": "2026-03-06T11:01:52.000Z"
   },
   {
     "cat": "Entertainment",
@@ -396,24 +504,6 @@ const newsData_en = [
     "time": "2026-03-06T09:25:34.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Rupee gains 2 paise to 91.62 after US allows Indian refiners to buy Russian oil",
-    "desc": "The Indian Rupee saw a slight gain against the US Dollar. This happened after the United States granted a 30-day waiver. Indian refiners can now buy Russian oil. This decision aims to ease global energy supply pressures. The move comes amid ongoing West Asia conflict. Domestic equity markets faced pressure. Foreign funds also withdrew from Indian markets.",
-    "img": "https://static.toiimg.com/photo/msid-129145415,imgsize-702891.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-gains-2-paise-to-91-62-after-us-allows-indian-refiners-to-buy-russian-oil/articleshow/129145353.cms",
-    "time": "2026-03-06T09:19:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "China tops US with most billionaires globally; India ranks third",
-    "desc": "China now leads the world with 1,110 billionaires, surpassing the United States, according to the Hurun Global Rich List. The nation added 287 new billionaires, largely driven by AI, semiconductors, and healthcare, showcasing rapid wealth creation and a significant shift in global economic power.",
-    "img": "https://static.toiimg.com/photo/msid-129145258,imgsize-1054157.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/china-tops-us-with-most-billionaires-globally-india-ranks-third-how-ai-has-fueled-wealth-boom/articleshow/129144971.cms",
-    "time": "2026-03-06T09:15:51.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. aims to exhume and identify 88 USS Arizona crew members buried as unknowns after Pearl Harbor",
     "desc": "The Arizona sank just nine minutes after being bombed, and its 1,177 dead account for nearly half the servicemen killed in the attack. Today the battleship still lies where it hit bottom, with more than 900 sailors and Marines are entombed inside",
@@ -430,24 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/axar-is-filling-jadejas-void-well-gavaskar-hails-patels-unbelievable-fielding-at-wankhede/articleshow/129144152.cms",
     "time": "2026-03-06T08:54:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hrithik and ‘Daaku Maharaaj’ director Bobby Kolli will not collaborate",
-    "desc": "Recent rumors of a collaboration between Hrithik Roshan and Telugu director Bobby Kolli have been clarified. While a story discussion did occur, no project is currently planned. Roshan is, however, set to star in a major pan-India film with Hombale Films.",
-    "img": "https://static.toiimg.com/photo/msid-129144143,imgsize-11556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-hrithik-roshan-and-bobby-kolli-collaboration-not-happening-now-things-didnt-materialize/articleshow/129142536.cms",
-    "time": "2026-03-06T08:52:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US-Iran war impact: Emergency powers invoked, India asks refiners to step up LPG output to avoid cooking gas shortage",
-    "desc": "Around two-thirds of India’s LPG demand is met through imports, with the Middle East accounting for roughly 85 to 90 per cent of those supplies. Oil refiners have been told to maximise LPG output by ensuring that the propane and butane available with them are fully utilised for cooking gas production, the report said.",
-    "img": "https://static.toiimg.com/photo/msid-129143329,imgsize-77742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-impact-emergency-powers-invoked-india-asks-refiners-to-step-up-lpg-output-to-avoid-cooking-gas-shortage-report/articleshow/129142100.cms",
-    "time": "2026-03-06T08:24:21.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +567,6 @@ const newsData_en = [
     "time": "2026-03-06T07:15:10.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Emirates, Etihad resume limited services; IndiGo, Air India add extra flights",
-    "desc": "West Asia conflict has grounded thousands of flights across the Middle East, stranding passengers and forcing airlines to reroute or cancel services. Major carriers like Air France, British Airways, and Cathay Pacific have suspended routes. While some Gulf airlines are resuming limited operations, Indian carriers are adding flights to manage demand and repatriation efforts.",
-    "img": "https://static.toiimg.com/photo/msid-129138978,imgsize-551391.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/middle-east-flight-update-amid-iran-war-emirates-etihad-resume-limited-services-indigo-air-india-add-extra-flights/articleshow/129138563.cms",
-    "time": "2026-03-06T07:05:58.000Z"
-  },
-  {
     "cat": "World",
     "title": "Intense Israeli strikes hit Iran, Lebanon as U.S. warns bombardment will 'surge dramatically'",
     "desc": "Iran launched new retaliatory attacks in West Asia at the end of a full week of bombardment, which U.S. Defence Secretary Pete Hegseth warned was “about to surge dramatically.” ” Israel's military said on March 6 that it had begun “a broad-scale wave of strikes” on Tehran, Iran's capital",
@@ -549,15 +612,6 @@ const newsData_en = [
     "time": "2026-03-06T06:16:33.000Z"
   },
   {
-    "cat": "Business",
-    "title": "'If they rise, they rise': Trump dismisses gas price worries as US-Iran war rattles oil markets",
-    "desc": "President Trump downplayed concerns over rising gasoline prices due to the Iran conflict, prioritizing military action. While oil markets reacted sharply, he asserted prices would drop post-conflict. White House officials are exploring measures to counter price hikes, though the President ruled out tapping the Strategic Petroleum Reserve for now.",
-    "img": "https://static.toiimg.com/photo/msid-129136360,imgsize-920074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/if-they-rise-they-rise-trump-dismisses-gas-price-worries-as-us-iran-war-rattles-oil-markets/articleshow/129136188.cms",
-    "time": "2026-03-06T06:07:16.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "U.S. House committee wants travel companies to answer questions on use of AI for pricing",
     "desc": "Surveillance pricing is a strategy ‌where ⁠companies use a consumer’s personal data — such as browsing history, location and ⁠shopping habits — to set individualised, algorithmic prices for products, as opposed to using standard, market-wide pricing",
@@ -565,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/us-house-committee-wants-travel-companies-to-answer-questions-on-use-of-ai-for-pricing/article70710041.ece",
     "time": "2026-03-06T06:03:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Strait of Hormuz tensions add risks for subsea cables critical to India’s data flows",
-    "desc": "The Strait of Hormuz, a vital shipping lane, is now a vulnerable point for undersea internet cables due to escalating West Asian tensions. Disruptions have halted crucial repair operations, impacting internet traffic and India's data center ambitions. This geopolitical flashpoint challenges previous perceptions of the route's safety.",
-    "img": "https://static.toiimg.com/photo/msid-129135988,imgsize-610016.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-crisis-strait-of-hormuz-tensions-add-risks-for-subsea-cables-critical-to-indias-data-flows/articleshow/129135873.cms",
-    "time": "2026-03-06T05:58:27.000Z"
   },
   {
     "cat": "World",
@@ -595,15 +640,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "ICC arranges charter flight for Windies team’s return amid West Asia conflict",
-    "desc": "The West Indies cricket team, stranded in India after the T20 World Cup due to flight disruptions, is expected to fly home on a chartered flight on Friday with ICC assistance. Meanwhile, Zimbabwe has begun returning home in batches via alternate routes, and South Africa's travel arrangements are also being finalised.",
-    "img": "https://static.toiimg.com/photo/msid-129133040,imgsize-165490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-icc-arranges-charter-flight-for-west-indies-teams-return-amid-west-asia-conflict/articleshow/129133029.cms",
-    "time": "2026-03-06T04:51:26.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Pandya interacts with Dhoni &amp; his son Agastya in the stands — video melts hearts",
     "desc": "India's thrilling T20 World Cup semi-final win over England was marked by Hardik Pandya's stellar all-round performance and a heartwarming off-field moment. A viral video captured MS Dhoni guiding Pandya's son Agastya towards his father, melting hearts online. The team now faces New Zealand in the final, aiming for a historic title defense.",
     "img": "https://static.toiimg.com/photo/msid-129132242,imgsize-45496.cms",
@@ -621,15 +657,6 @@ const newsData_en = [
     "time": "2026-03-06T03:36:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Amit Shah unveils mascots ‘Pragati’ and ‘Vikas’ for India’s first digital Census",
-    "desc": "Home Minister Amit Shah launched four digital tools and two mascots for India's first digital Census 2027. The initiative includes a self-enumeration portal allowing citizens to submit household information online in 16 languages, aiming for accuracy and inclusivity in the world's largest census exercise.",
-    "img": "https://static.toiimg.com/photo/msid-129127288,imgsize-45142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/amit-shah-unveils-mascots-pragati-and-vikas-for-indias-first-digital-census/articleshow/129127254.cms",
-    "time": "2026-03-06T02:38:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "The catch that never was... the effort that will always be",
     "desc": "Axar Patel produced two stunning fielding moments in India's thrilling seven-run win over England, including a breathtaking relay effort that dismissed Will Jacks but did not feature beside his name in the scorecard. As India sealed a place in the final against New Zealand, the Nadiad boy now looks forward to a special homecoming in Ahmedabad.",
@@ -637,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/superman-axar-patel-to-the-rescue-the-catch-that-never-was-the-effort-that-will-always-be/articleshow/129127393.cms",
     "time": "2026-03-06T02:34:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "When 7 rays hit cinemas in land of rising sun",
-    "desc": "Satyajit Ray's filmography is capturing hearts anew in Japan, as a stunning showcase of seven of his works pulls in enthusiastic audiences. With unforgettable classics like 'Charulata' and 'Mahanagar' now drawing such a response, the screenings have been extended to accommodate fans, paving the way for a Blu-ray release.",
-    "img": "https://static.toiimg.com/photo/msid-129127126,imgsize-84128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/when-7-rays-hit-cinemas-in-land-of-rising-sun/articleshow/129127025.cms",
-    "time": "2026-03-06T02:22:50.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/rcb-to-play-five-matches-at-the-chinnaswamy-stadium/article70699801.ece",
     "time": "2026-03-03T14:47:18.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Anthropic’s resistance to the U.S. Department of Defence, OpenAI’s entry: Explained",
-    "desc": "The Dario Amodei-led firm refused to cooperate with the U.S. government’s demands that the firm’s products be used in the deployment of autonomous strikes. The firm has been threatened with being designated as a “supply chain risk”",
-    "img": "https://th-i.thgim.com/public/incoming/r2lf9o/article70698914.ece/alternates/LANDSCAPE_1200/2026-03-02T143303Z_571373715_RC2EWJADNSPA_RTRMADP_3_USA-PENTAGON-ANTHROPIC.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/anthropics-resistance-to-the-us-department-of-defense-openais-entry-explained/article70698887.ece",
-    "time": "2026-03-03T10:45:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Valsamma",
-    "desc": "M.D. Valsamma won the 400m hurdles gold at the New Delhi Asian Games in 1982 and helped India qualify for the women’s 4x400m relay final at the Los Angeles Olympics two years later; she still cherishes those memories",
-    "img": "https://th-i.thgim.com/public/incoming/wkoa6s/article70696147.ece/alternates/LANDSCAPE_1200/10018_28_2_2026_15_22_46_1_M_D_VALSAMMA_08.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/athletics/sad-to-see-kerala-failing-to-keep-its-great-tradition-of-female-athletes-valsamma/article70696098.ece",
-    "time": "2026-03-03T10:43:31.000Z"
   }
 ];
