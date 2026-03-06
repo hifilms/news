@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "ICC confirms match officials for India vs New Zealand T20 World Cup final on Sunday",
+    "desc": "The International Cricket Council (ICC) has confirmed the match officials for the final of the T20 World Cup 2026 between India and New Zealand. The summit clash is scheduled to take place on March 8...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-confirms-match-officials-for-india-vs-new-zealand-t20-world-cup-final-on-sunday-2026-03-06-1032849",
+    "time": "2026-03-06T11:39:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC announces eight nominees for T20 World Cup Player of the Tournament, only one Indian in list",
+    "desc": "The International Cricket Council (ICC) on Friday, March 6, unveiled the eight nominees for the T20 World Cup 2026 Player of the Tournament award. Among them, Sanju Samson is the only Indian cricketer to receive...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-eight-nominees-for-t20-world-cup-player-of-the-tournament-only-one-indian-in-list-2026-03-06-1032836",
+    "time": "2026-03-06T10:19:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah is not just a once-in-a-generation bowler but century kind of bowler: Sunil Gavaskar",
+    "desc": "Ace pacer Jasprit Bumrah once again proved to be the vital cog as India beat England in the second semi-final of the T20 World Cup 2026 at the Wankhede Stadium in Mumbai. Chasing 254 runs,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-is-not-just-a-once-in-a-generation-bowler-but-century-kind-of-bowler-sunil-gavaskar-2026-03-06-1032833",
+    "time": "2026-03-06T09:45:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ahmedabad pitch in focus as India host New Zealand in T20 World Cup 2026 final",
     "desc": "After a thrilling seven-run victory over England at the Wankhede Stadium in Mumbai, India have advanced to the final of the T20 World Cup 2026. They will face New Zealand in the summit clash on...",
     "img": "",
@@ -37,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India lose seven wickets, Jemimah departs after half-century",
+    "title": "India lose eight wickets, Jemimah departs after half-century",
     "desc": "The one-off Test between Australia and India at the WACA Ground in Perth is of great importance to both teams. On one hand, one of Australia’s greatest talents, Alyssa Healy, is set to feature in...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-vs-england-broke-major-t20-world-cup-records-varun-chakravarthy-escapes-embarrassing-feat-2026-03-06-1032773",
     "time": "2026-03-06T03:10:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'5 sixes to nahi khaunga': Axar Patel says he was ready to bowl final over against England in T20 WC semifinal",
-    "desc": "India defeated England by seven runs in the thrilling semifinal of the T20 World Cup. They defended 253 runs to somehow defy England and will now face New Zealand in the final of the tournament....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/5-sixes-to-nahi-khaunga-axar-patel-says-he-was-ready-to-bowl-final-over-against-england-in-t20-wc-semifinal-2026-03-05-1032757",
-    "time": "2026-03-05T18:23:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Jasprit Bumrah deserves the POTM award'",
-    "desc": "Sanju Samson was adjudged the Player of the Match for his knock of 89 runs off just 42 balls. Despite losing his opening partner Abhishek Sharma early, the keeper-batter managed to keep the scoreboard ticking...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-deserves-the-potm-award-sanju-samson-after-india-s-thrilling-seven-run-win-over-england-2026-03-05-1032755",
-    "time": "2026-03-05T18:09:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Axar Patel a silent hero in India's thrilling win over England to reach T20 World Cup final?",
-    "desc": "India 253, England 246. Such fine margins in a T20 game and the fact that it was a semifinal tells you a story. The kind of pressure the Indian team was under while defending the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-axar-patel-a-silent-hero-in-india-s-thrilling-win-over-england-to-reach-t20-world-cup-final-2026-03-05-1032751",
-    "time": "2026-03-05T17:52:39.000Z"
   }
 ];

@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "বাথরুমে থরে থরে সাজানো লাখ লাখ টাকা, কোথা থেকে এল? ধরা পড়তেই সাফ উত্তর  'দেহব্যবসা করেই কামিয়েছি!' কে এই বিখ্যাত নায়িকা? বলুন তো?",
+    "desc": "পাঁচ ও ছয়ের দশকে অন্যতম ধনী নায়িকা তিনি৷ পারিশ্রমিকের দিক থেকেও বহু তারকাকে ছাপিয়ে গিয়েছিলেন খুব কম সময়ের মধ্যেই । কিন্তু কেরিয়ারের শীর্ষেই একটা বড় ভুল করেন তিনি আর এক ভুলেই কেরিয়ার শেষ হয় নায়িকার৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Mala-Sinha-2026-03-c26608b1d3e243fb08dc395004f38977-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/from-richest-actress-to-ruin-tax-raid-found-millions-in-her-bathroom-one-lie-ended-career-rds-2572098.html",
+    "time": "2026-03-06T11:29:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ইরান-ইসরায়েল-মার্কিন যুদ্ধে ভারতের কাঁচা বাজারেও ব্যাপক ধস, হুড়মুড়িয়ে কমল ডিমের দাম-- একটা পাওয়া যাচ্ছে মাত্র...",
+    "desc": "সাধারণত গ্রীষ্মকালে ডিমের চাহিদা কিছুটা কম থাকে এবং দামও সামান্য কমে, যা একটি স্বাভাবিক প্রক্রিয়া। কিন্তু বর্তমানের এই দাম কমে যাওয়াকে পোল্ট্রি মালিকরা ‘অস্বাভাবিক’ বলে অভিহিত করেছেন। যুদ্ধের কারণে সৃষ্ট এই অস্থিরতা মৌসুমী প্রভাবের চেয়েও অনেক বেশি শক্তিশালী হয়ে দাঁড়িয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/egg-prices-drop-as-iran-israel-us-war-halts-exports_643902.html ",
+    "time": "2026-03-06T11:05:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কর্ণাটকের পথে এবার অন্ধ্রপ্রদেশ... ১৩ বছরের কমবয়সী শিশুদের জন্য সোশ্যাল মিডিয়া নিষিদ্ধ ঘোষণা করলেন চন্দ্রবাবু নাইডু",
+    "desc": "শিশুদের সোশ্যাল মিডিয়া ব্যবহার নিয়ন্ত্রণ করা নিয়ে উপাচার্যদের মতামতও চান কর্ণাটকের মুখ্যমন্ত্রী৷ উপাচার্যদের মুখ্যমন্ত্রী সিদ্দারামাইয়া জানান, এ বিষয়ে তাঁদের মতামত অত্যন্ত গুরুত্বপূর্ণ৷ কারণ অনেক শিশুই সোশ্যাল মিডিয়া ব্যবহারের সূত্রে মাদকের ফাঁদে পড়ছে বলে অভিযোগ করেন সিদ্দারামাইয়া৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/chandrababu-2026-03-8b3cd329a734c035fa6089396e68ff90-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/andhra-pradesh-bans-social-media-for-under-13-chief-minister-rmj-ws-l-2572001.html",
+    "time": "2026-03-06T10:29:41.000Z"
+  },
+  {
     "cat": "World",
     "title": "বাহরাইনের সর্ববৃহত্‍ তেল শোধনাগার BAPCO-য় মিসাইল হামলা, হু হু করে বাড়ছে তেলের দাম...",
     "desc": "বাহরাইনের মামির (Ma’ameer) শিল্পাঞ্চলে ড্রোন ও ব্যালিস্টিক মিসাইল হামলা চালানো হয়েছে। এর জেরেই বাহরাইন পেট্রোলিয়াম কোম্পানির (BAPCO) সিতরা রিফাইনারিতে ভয়াবহ অগ্নিকাণ্ড ঘটে। বাহরাইন যদিও সৌদি আরব বা আমিরশাহীর তুলনায় ছোট তেল উৎপাদক, তবুও আন্তর্জাতিক বাজারে ডিজেল রপ্তানিতে তাদের ভূমিকা অনস্বীকার্য।",
@@ -259,15 +286,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/temperatures-hit-38c-as-march-begins-experts-warn-of-hotter-year-with-el-nino-comeback-smc-2569158.html",
     "time": "2026-03-04T14:01:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel-US war: ভয়ংকর গোপনীয়তার সঙ্গে ইরানে বিদ্রোহী কুর্দিদের হাতে মারণাস্ত্র তুলে দিচ্ছে আমেরিকা! সামনে ভয়ংকর...",
-    "desc": "ট্রাম্প প্রশাসন ইরানের সরকারবিরোধী সংগঠন ও কুর্দি নেতাদের সঙ্গে সক্রিয়ভাবে আলোচনা চালিয়ে যাচ্ছে। তাদের ‘সামরিক সহায়তা’ দেওয়াই এসব আলোচনার মূল লক্ষ্য। ইরান-ইরাক সীমান্তে ইরানের কুর্দি সশস্ত্র সংগঠনগুলির হাজার-হাজার যোদ্ধা ছড়িয়ে ছিটিয়ে আছে। ইরাকের স্বশাসিত কুর্দিস্তান ইরানের বিদ্রোহী কুর্দিদের মূল ঘাঁটি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/cia-working-to-arm-kurdish-forces-to-spark-uprising-in-iran-in-iran-israel-us-war-donald-trump-plan_643665.html ",
-    "time": "2026-03-04T13:17:26.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-afghanistani-afghan-do-you-know-how-much-an-indian-500-rupee-note-is-worth-in-afghanistan-you-will-be-shocked-to-hear-the-answer-trending-knowledge-sanj-2562598.html",
     "time": "2026-02-28T12:15:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "দুর্ঘটনায় আকাশ থেকে ঝরল কোটি কোটি টাকা, ২০ জনের মৃত্যু",
-    "desc": "Bolivia Plane Crash | বলিভিয়ায় এক ভয়াবহ বিমান দুর্ঘটনা! শুক্রবার লা পাজ বিমানবন্দরের কাছে বলিভিয়ার একটি সামরিক সি-১৩০ (C-130) কার্গো বিমান অবতরণের সময় বিধ্বস্ত হয়েছে। এই দুর্ঘটনায় অন্তত ২০ জন নিহত এবং বহু মানুষ আহত হয়েছেন। সবথেকে চাঞ্চল্যকর বিষয় হলো, বিমানটি বলিভিয়ার কেন্দ্রীয় ব্যাংকের প্রচুর নগদ টাকা বহন করছিল, যা দুর্ঘটনার পর মহাসড়কে ছড়িয়ে পড়ে। হাজার হাজার মানুষ সেই টাকা কুড়োতে ভিড় করলে পুলিশ টিয়ার গ্যাস ছুড়ে পরিস্থিতি নিয়ন্ত্রণে আনে। ভিডিওটিতে দেখুন এই ভয়াবহ দুর্ঘটনার এক্সক্লুসিভ ফুটেজ এবং উদ্ধারকাজের সর্বশেষ আপডেট।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bolivia-2026-02-bfc6c6eb8b13dd7ccef641f8f506750f-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/international/bolivia-military-plane-crash-was-carrying-crores-of-cash-all-scattered-acter-the-incident-20-dies-sta-2562596.html",
-    "time": "2026-02-28T11:44:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ছিন্নভিন্ন হয়ে গেল দেহ ! অন্ধ্রপ্রদেশের কাকিনাড়ায় বাজি কারখানায় ভয়াবহ বিস্ফোরণ ! মৃত ১৮",
-    "desc": "শনিবার দুপুরে ঘটনাটি ঘটেছে কাকিনাড়া জেলার সামারালাকোটা মণ্ডলের ভেটলাপালেম গ্রামে ৷ মৃতদের অধিকাংশই মহিলা বলে জানা গিয়েছে ৷ মৃতের সংখ্যা আরও বাড়তে পারে বলেও মনে করা হচ্ছে ৷ ঘটনায় শোকপ্রকাশ করেছেন সে রাজ্যের মুখ্যমন্ত্রী চন্দ্রবাবু নাইডু ৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Andhra-Kakinada-Blast-2026-02-50b50d3267ff17dcb8caa4a2a528df0d-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/kakinada-andhra-pradesh-blast-18-killed-in-massive-explosion-at-fireworks-factory-in-kakinada-district-ss-2562492.html",
-    "time": "2026-02-28T11:22:10.000Z"
   }
 ];
