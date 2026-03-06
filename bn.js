@@ -1,6 +1,42 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "'১০ বছর আগেই আমি ইরানে নিষিদ্ধ, ফিরব কোথায়?' উত্তাল পরিস্থিতির মাঝে ভারত ছাড়ার ঘোষণা মন্দানা করিমির",
+    "desc": "ইরান-ইসরায়েল যুদ্ধ এবং আয়াতুল্লাহ আলি খামেনেই-এর মৃত্যুর পরবর্তী টালমাটাল পরিস্থিতিতে নিজের অবস্থান পরিষ্কার করলেন ইরানি বংশোদ্ভূত বলিউড অভিনেত্রী মন্দানা করিমি। দেশজুড়ে চলা বিক্ষোভ এবং তাঁকে ঘিরে তৈরি হওয়া নানা বিভ্রান্তিকর খবরের প্রতিবাদে সরব হয়েছেন তিনি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/mandana-karimi-leave-india-iran-conflict-ayatollah-khamenei-death_643941.html ",
+    "time": "2026-03-06T14:58:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "অপ্রতিরোধ্য মোহনবাগান! জেমির হ্যাটট্রিক! ওড়িশাকে ৫-১ গোলে হারিয়ে শীর্ষে সবুজ-মেরুন",
+    "desc": "কোনওভাবেই যেন থামানো যাচ্ছে না মোহনবাগানকে। এই মরশুমের আইএসএলে গত তিন ম্যাচ জিতে হ্যাটট্রিক আগেই করেছিল সবুজ মেরুন ব্রিগেড। আর শুক্রবার বিকেলে যুবভারতী ক্রীড়াঙ্গনে ওড়িশা এফসিকে ৫-১ গোলে উড়িয়ে দিয়ে আইএসএলে চারে চার করল মোহন ব্রিগেড।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/901110-2026-03-35434c3fc3651877d9448cad4331686d-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/isl-2026-mohun-bagan-fc-defeated-odisha-fc-by-5-goals-at-yuva-bharati-krianangan-smc-2572397.html",
+    "time": "2026-03-06T14:31:01.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "কৃত্রিম বুদ্ধিমত্তাকে পথ ছেড়ে দিতে ৩০ হাজার কর্মীর উপর ছাঁটাইয়ের নির্মম কোপ; কর্মজগতে শ্মশানের নীরবতা...",
+    "desc": "বিশ্বখ্যাত সফটওয়্যার সংস্থা ওরাকল তাদের মোট কর্মীর এক বিশাল অংশ ছাঁটাইয়ের সিদ্ধান্ত নিয়েছে। প্রায় ৩০০০০ কর্মীকে পিংক স্লিপ ধরানো হতে পারে। কেন এই গণ-ছাঁটাই? এর পিছনে দুটি বড় কারণ কাজ করছে বলে জানা গিয়েছে। কৃত্রিম বুদ্ধিমত্তায় বিনিয়োগ, আর ডেটা সেন্টার তৈরির বিপুল খরচ।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/oracle-layoffs-company-to-let-go-30000-employees_643930.html ",
+    "time": "2026-03-06T14:01:27.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Gen Z আন্দোলনের মুখ! নেপালের নতুন প্রধানমন্ত্রী হতে চলেছেন পঁয়ত্রিশের র‍্যাপার বলেন্দ্র, ভারত থেকে পড়াশোনা করা এই নেতাকে চেনেন?",
+    "desc": "Gen Z: গত সেপ্টেম্বরে তরুণ প্রজন্ম বা জেন জি বিক্ষোভের জেরে নেপালের পতন হয়েছিল কেপি শর্মা ওলির সরকারের। সেই অস্থির সময়ে বিক্ষোভ, অবস্থান এবং প্রতিবাদে নেপাল আন্দোলনের অন্যতম মুখ হয়ে ওঠেন বলেন্দ্র শাহ বা বলেন্দ্র। ৫ মার্চ নেপালের সাধারণ নির্বাচন হওয়ার পর গণনা চলছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-06-at-6.08.58-PM-2026-03-87f0a2216d4008e0c139f0905cfc8240-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/after-gen-z-protest-nepal-elections-2026-balendra-shah-expected-to-won-landslide-victory-for-pm-seat-smc-2572349.html",
+    "time": "2026-03-06T13:34:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "বাথরুমে থরে থরে সাজানো লাখ লাখ টাকা, কোথা থেকে এল? ধরা পড়তেই সাফ উত্তর  'দেহব্যবসা করেই কামিয়েছি!' কে এই বিখ্যাত নায়িকা? বলুন তো?",
     "desc": "পাঁচ ও ছয়ের দশকে অন্যতম ধনী নায়িকা তিনি৷ পারিশ্রমিকের দিক থেকেও বহু তারকাকে ছাপিয়ে গিয়েছিলেন খুব কম সময়ের মধ্যেই । কিন্তু কেরিয়ারের শীর্ষেই একটা বড় ভুল করেন তিনি আর এক ভুলেই কেরিয়ার শেষ হয় নায়িকার৷",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/Mala-Sinha-2026-03-c26608b1d3e243fb08dc395004f38977-1200x800.jpg",
@@ -259,15 +295,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/vijay-thalapathy-sangeetha-divorce-250-crore-alimony-trisha-krishnan_643684.html ",
     "time": "2026-03-04T15:33:16.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Pakistan in Israel-Iran War: তালিবানদের মার খেয়েও শোধরায়নি স্বভাব, ইরান-ইসরায়েল যুদ্ধে এবার পাকিস্তানের এন্ট্রি...",
-    "desc": "পাকিস্তানের বিদেশমন্ত্রী ইশাক দারের হুমকি, সৌদি আরবের ওপর হামলা হলে পাকিস্তান হাত গুটিয়ে বসে থাকবে না। কিন্তু একদিকে ধসে পড়া অর্থনীতি, অন্যদিকে অভ্যন্তরীন অস্থিরতা, এই পরিস্থিতিতে সৌদি আরবের হয়ে ইরানের বিরুদ্ধে যুদ্ধ বিমান মোতায়েন করা পাকিস্তানের জন্য আত্মঘাতী সিদ্ধান্ত নয় কি?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/pakistan-iran-israel-war-saudi-arabia-defence-pact-ishaq-dar_643680.html ",
-    "time": "2026-03-04T14:31:44.000Z"
   },
   {
     "cat": "World",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/pakistan-won-against-srilanka-but-could-not-qualify-for-semi-final-in-icc-t20-world-cup-smc-2563007.html",
     "time": "2026-03-01T03:03:53.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ইজরায়েল আর মার্কিন হামলায় নিহত খামেইনি? জ্বলতে থাকা তেহরানে বাড়ছে অনিশ্চয়তা!",
-    "desc": "আমেরিকা আর ইজরায়েলের যৌথ বিমান হামলায় জ্বলছে ইরান। আর এর মাঝেই সর্বোচ্চ নেতা আয়তোল্লা আলি খামেইনি ঠিক কোথায় রয়েছেন তা নিয়ে অনিশ্চয়তা তৈরি হয়েছে। ইজরায়েলের সংবাদমাধ্যমে দাবি করা হয়েছে, তিনি হয়তো হামলায় নিহত হয়েছেন। তবে এ বিষয়ে এখনও ইরান সরকারের পক্ষ থেকে কোনও সরকারি নিশ্চিতকরণ পাওয়া যায়নি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/khameini-1-2026-02-95ff468e42b65418f79acd900707d7d8-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/irans-khamenei-dead-or-alive-heres-what-we-know-so-far-amid-us-israel-strikes-on-tehran-know-more-details-smc-2563023.html",
-    "time": "2026-02-28T17:59:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "রঞ্জিতে ইতিহাস, দ্রাবিড়িয়ান ক্রিকেট সভ্যতাকে উড়িয়ে দিল কাশ্মীরের ঝোড়ো হাওয়া...",
-    "desc": "টস জিতে ব্যাট করতে নেমে জম্মু-কাশ্মীর তুলেছিল ৫৮৪ রান | শুভম পুণ্ডির ১২১, ইয়াওয়ার হাসানের ৮৮, সাহিল লোতরার ৭২ এবং অধিনায়ক পরেশ ডোগরার ৭০ রানের ইনিংসকে ঢাল করেই কর্ণাটকের বিরুদ্ধে রানের পাহাড় তোলে জম্মু-কাশ্মীর |প্রসিদ্ধ কৃষ্ণা নেন ৫ উইকেট, যদিও তাতে বিশেষ কিছু লাভ হয়নি",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/historic-moment-in-ranji-trophy-kashmir%E2%80%99s-storm-sweeps-away-dravidian-cricket-legacy_643142.html ",
-    "time": "2026-02-28T13:52:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'আফগানিস্তানে' ভারতীয় ৫০০ টাকার 'মূল্য' কত হবে জানেন...? চমকাবেন শুনলেই 'উত্তর'!",
-    "desc": "আকাশসীমা পেরিয়ে আফগানিস্তানে হামলা চালিয়েছে পাকিস্তান। শনিবার তারা আরও এক বার দাবি করেছে, হামলায় ৩০০ আফগান তালিবানের মৃত্যু হয়েছে। এরইমধ্যে পাকিস্তান আফগানিস্তান যুদ্ধ পরিস্থিতিতে ফের একবার সোশ্যাল মিডিয়ায় ঝড় তুলেছে ভারতের এই প্রতিবেশী দেশটি। প্রশ্ন উঠছে এই দেশের আর্থিক পরিস্থিতি ভারতের তুলনায় কেমন? সেখানে ভারতের একটা ৫০০ টাকার নোটের ভ্যালু কত? চলুন জেনে নিন আজই!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/afghanisthan-2026-02-894055c9b8c7fb03ad754ceb9dfbfcdb-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-afghanistani-afghan-do-you-know-how-much-an-indian-500-rupee-note-is-worth-in-afghanistan-you-will-be-shocked-to-hear-the-answer-trending-knowledge-sanj-2562598.html",
-    "time": "2026-02-28T12:15:01.000Z"
   }
 ];

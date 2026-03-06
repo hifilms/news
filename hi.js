@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "‘Take her to Ahmedabad’: Viral girl’s emotional prayer before IND vs ENG semifinal wins hearts online",
+    "desc": "Team India defeated England in the thrilling semifinal clash on Wednesday to enter the final of the T20 World Cup. Despite posting a mammoth total of 253 runs, England came extremely close and India could...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/take-her-to-ahmedabad-viral-girls-emotional-prayer-before-ind-vs-eng-semifinal-wins-hearts-online-2026-03-06-1032869",
+    "time": "2026-03-06T15:34:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Team India players reach Ahmedabad ahead of T20 World Cup final on Sunday",
+    "desc": "Team India players reached Ahmedabad today, two days ahead of the T20 World Cup final against New Zealand on Sunday, March 8, at the Narendra Modi Stadium in Ahmedabad. The men in blue don't have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-team-india-players-reach-ahmedabad-ahead-of-t20-world-cup-final-on-sunday-watch-video-2026-03-06-1032868",
+    "time": "2026-03-06T14:59:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 New Zealand players India need to be wary of in T20 World Cup final",
+    "desc": "India and New Zealand are set to face each other in the final of the T20 World Cup on Sunday, March 8 at the Narendra Modi Stadium in Ahmedabad. The two teams also made it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3-new-zealand-players-india-need-to-be-wary-of-in-t20-world-cup-final-2026-03-06-1032862",
+    "time": "2026-03-06T13:38:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunil Gavaskar gives massive compliment to India's T20 WC semifinal hero, 'He is filling voild left by Jadeja'",
+    "desc": "Former India cricketer Sunil Gavaskar has come up with a massive compliment for India vice-captain Axar Patel, after his heroics in the field against England in the T20 World Cup semifinal at the Wankhede Stadium...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-gives-massive-compliment-to-india-s-t20-wc-semifinal-hero-he-is-filling-voild-left-by-jadeja-2026-03-06-1032857",
+    "time": "2026-03-06T12:49:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ICC confirms match officials for India vs New Zealand T20 World Cup final on Sunday",
     "desc": "The International Cricket Council (ICC) has confirmed the match officials for the final of the T20 World Cup 2026 between India and New Zealand. The summit clash is scheduled to take place on March 8...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/how-many-india-cricketers-will-play-their-first-t20-world-cup-final-know-details-2026-03-06-1032806",
     "time": "2026-03-06T07:14:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Four India cricketers make Test debut in one-off Test vs Australia in Perth",
-    "desc": "Australia have won the toss and opted to field first in the one-off Test against India at the WACA Stadium in Perth. Legendary cricketer Alyssa Healy is set to play her final international game as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/four-india-cricketers-make-test-debut-in-one-off-test-vs-australia-in-perth-2026-03-06-1032795",
-    "time": "2026-03-06T05:45:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India lose eight wickets, Jemimah departs after half-century",
-    "desc": "The one-off Test between Australia and India at the WACA Ground in Perth is of great importance to both teams. On one hand, one of Australia’s greatest talents, Alyssa Healy, is set to feature in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-australlia-women-test-2026-match-live-cricket-score-updates-waca-stadium-perth-smriti-mandhana-harmanpreet-kaur-alyssa-healy-ellyse-perry-2026-03-06-1032786",
-    "time": "2026-03-06T04:43:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson breaks Rohit Sharma's T20 World Cup record with monstrous innings vs England",
-    "desc": "Sanju Samson played a blistering knock of 89 runs off 42 balls in the second semi-final of the T20 World Cup at the Wankhede Stadium in Mumbai. Despite losing opening partner Abhishek Sharma early, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-breaks-rohit-sharma-s-t20-world-cup-record-with-monstrous-innings-vs-england-2026-03-06-1032783",
-    "time": "2026-03-06T04:12:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs England broke major T20 World Cup records, Varun Chakravarthy escapes embarrassing feat",
-    "desc": "India vs England in the T20 World Cup semi-final at the Wankhede Stadium will be remembered as one of the greatest matches in the shortest format. After Sanju Samson’s blistering 89, India posted 253 runs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-england-broke-major-t20-world-cup-records-varun-chakravarthy-escapes-embarrassing-feat-2026-03-06-1032773",
-    "time": "2026-03-06T03:10:54.000Z"
   }
 ];
