@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "બિહાર બાદ હવે UPમાં થશે &amp;#039;ખેલા&amp;#039;? CM યોગી સાથે 2.5 કલાક બંધ બારણે ચાલી RSSની બેઠક",
+    "desc": "યુપીમાં રાજકીય ચર્ચાઓનું બજાર ગરમ થઈ ગયું છે. તેનું કારણ એ છે કે સીએમ યોગી આદિત્યનાથે ગુરુવારે રાષ્ટ્રીય સ્વયંસેવક સંઘ (RSS) ના હોદ્દેદારો સાથે બેઠક કરી હતી. આ બેઠક બંધ બારણે લગભગ 2.5 કલાક સુધી ચાલી હતી. વાંચો સંપૂર્ણ અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bihar-after-will-the-game-now-be-played-in-up-the-rss-held-a-2-5-hour-closed-door-meeting-with-cm-yogi-467407 ",
+    "time": "2026-03-06T06:36:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શું અમદાવાદ ફરી કરોડો પ્રશંસકોને રડાવશે? ફાઈનલ પહેલા આ એક કારણથી ટેન્શન વધ્યું!",
+    "desc": "શું ફરી એકવાર અમદાવાદનું મેદાન ટીમ ઈન્ડિયા માટે સાબિત થશે અનલકી! સોશિયલ મીડિયા પર આ સ્ટેડિયમને ‘અનલકી’ ગણાવવામાં આવી રહ્યું છે. ક્રિકેટ પ્રેમીઓના મનમાં એક ઊંડો ડર પણ છવાયેલો છે. આ ડરનું કારણ કોઈ વિરોધી ટીમ નથી, પરંતુ ફાઈનલ માટેનું વેન્યુ એટલે કે અમદાવાદનું નરેન્દ્ર મોદી સ્ટેડિયમ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-final-will-ahmedabad-bring-another-round-of-tears-tensions-rise-ahead-of-the-final-467405 ",
+    "time": "2026-03-06T06:27:03.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "મેચની અંતિમ ક્ષણોમાં ગંભીર અને કેપ્ટન સૂર્યકુમારે એવું તે શું કર્યું કે આખી મેચ પલટાઈ ગઈ...??",
     "desc": "કેરેબિયન મેદાન પર ક્રિકેટનો એવો રોમાંચ જોવા મળ્યો જેણે કરોડો ચાહકોના ધબકારા વધારી દીધા હતા. T20 વર્લ્ડ કપની બીજી સેમીફાઈનલમાં ટીમ ઈન્ડિયાએ ડિફેન્ડિંગ ચેમ્પિયન ઈંગ્લેન્ડને એક અત્યંત હાઈ-સ્કોરિંગ થ્રિલરમાં 7 રને હરાવીને ફાઈનલની ટિકિટ મેળવી લીધી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/a-gesture-between-gambhir-and-suryakumar-yadav-in-the-final-moments-of-the-match-turned-the-match-around-467387 ",
-    "time": "2026-03-06T04:27:04.000Z"
+    "time": "2026-03-06T04:47:12.000Z"
   },
   {
     "cat": "Sports",
@@ -279,15 +297,6 @@ const newsData_gu = [
     "time": "2026-03-04T15:52:54.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "અભિષેક શર્મા સેમિફાઇનલમાં નહીં રમે ? મેચ પહેલા કોચે કર્યો ખુલાસો",
-    "desc": "T20 વર્લ્ડ કપ 2026ની સેમિફાઇનલ મેચ ભારત અને ઇંગ્લેન્ડ વચ્ચે રમાશે. આ મેચમાં અભિષેક શર્માના રમવા અંગે સસ્પેન્સ છે. કેટલાક લોકોએ અનુમાન લગાવ્યું હતું કે અભિષેકને તક નહીં મળે. હવે ભારતના બોલિંગ કોચ મોર્ને મોર્કેલે ખુલાસો કર્યો છે કે અભિષેક આગામી મેચમાં રમશે કે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bowling-coach-clears-abhishek-sharma-playing-semifinal-t20-world-cup-467214 ",
-    "time": "2026-03-04T15:27:46.000Z"
-  },
-  {
     "cat": "World",
     "title": "ભારતથી પરત ફરી રહેલા ઈરાની જહાજ પર સમુદ્રમાંથી હુમલો ! અનેક લોકોના મોત, 100થી વધુ ગુમ",
     "desc": "શ્રીલંકાના દક્ષિણ કિનારા પર એક સબમરીન દ્વારા ઈરાની જહાજ પર હુમલો કરવામાં આવ્યો હતો, જેમાં અનેક લોકો માર્યા ગયા હતા, 100થી વધુ લોકો ગુમ થયા અને ઘણા ઘાયલ થયા હતા. હજુ સુધી કોઈએ જવાબદારી લીધી નથી, અને ગુનેગારોની ઓળખ થઈ નથી.",
@@ -322,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/this-tata-stock-is-making-waves-even-in-recession-jumped-66-percent-in-4-days-know-467189 ",
     "time": "2026-03-04T12:37:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "સેમીફાઈનલની પિચ જોઈ ગૌતમ ગંભીર લાલધૂમ, ક્યુરેટરથી થયો નારાજ, જાણો વિવાદનું અસલી કારણ",
-    "desc": "ટી20 વિશ્વકપમાં હવે માત્ર ત્રણ મેચ રમાવાની બાકી છે. આજે આફ્રિકા અને ન્યૂઝીલેન્ડ વચ્ચે કોલકત્તામાં પ્રથમ સેમીફાઈનલ રમાશે. જ્યારે ભારત ગુરૂવારે ઈંગ્લેન્ડ સામે વાનખેડેમાં રમવા ઉતરશે. આ પહેલા વાનખેડેની પિચને લઈને ગંભીર નાખુશ જોવા મળી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-head-coach-not-happy-with-wankhede-pitch-angry-with-curator-467186 ",
-    "time": "2026-03-04T11:25:48.000Z"
   },
   {
     "cat": "World",
@@ -475,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/iran-israel-war-update-iran-closes-strait-of-hormuz-waterway-what-are-the-solutions-for-india-467036 ",
     "time": "2026-03-03T11:04:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ચાર દિવસના ઈરાન યુદ્ધને કારણે ભારતને પણ થયું કરોડોનું નુકસાન! લડ્યા વિના ચૂકવી રહ્યું છે કિંમત",
-    "desc": "ઈરાન પર ઈઝરાયલ-અમેરિકાના હુમલા બાદ મિડલ ઈસ્ટમાં તણાવની સ્થિતિ છે. આ યુદ્ધમાં હવે એકથી વધુ દેશો સામેલ થઈ ગયા છે. પરંતુ આ યુદ્ધને કારણે ભારતે આર્થિક નુકસાન ઉઠાવવું પડી રહ્યું છે, જાણો ચાર દિવસથી ચાલી રહેલા આ યુદ્ધને કારણે ભારતને કેટલું નુકસાન થયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/iran-israel-war-how-much-india-daily-losses-for-oil-price-hike-467033 ",
-    "time": "2026-03-03T09:37:00.000Z"
   },
   {
     "cat": "Business",

@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Four India cricketers make Test debut in one-off Test vs Australia in Perth",
+    "desc": "Australia have won the toss and opted to field first in the one-off Test against India at the WACA Stadium in Perth. Legendary cricketer Alyssa Healy is set to play her final international game as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/four-india-cricketers-make-test-debut-in-one-off-test-vs-australia-in-perth-2026-03-06-1032795",
+    "time": "2026-03-06T05:45:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smriti Mandhana departs, Shafali- Pratika hold fort in Perth",
+    "desc": "The one-off Test between Australia and India at the WACA Ground in Perth is of great importance to both teams. On one hand, one of Australia’s greatest talents, Alyssa Healy, is set to feature in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-australlia-women-test-2026-match-live-cricket-score-updates-waca-stadium-perth-smriti-mandhana-harmanpreet-kaur-alyssa-healy-ellyse-perry-2026-03-06-1032786",
+    "time": "2026-03-06T04:43:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sanju Samson breaks Rohit Sharma's T20 World Cup record with monstrous innings vs England",
     "desc": "Sanju Samson played a blistering knock of 89 runs off 42 balls in the second semi-final of the T20 World Cup at the Wankhede Stadium in Mumbai. Despite losing opening partner Abhishek Sharma early, the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-s-charismatic-knock-vs-england-earns-standing-ovation-from-wankhede-crowd-in-t20-world-cup-2026-2026-03-05-1032734",
     "time": "2026-03-05T14:41:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Wahi off-spinner wali bimari': Memes galore after Abhishek Sharma fails yet again in T20 WC semifinal",
-    "desc": "Abhishek Sharma's poor run in the T20 World Cup continued in the semifinal as well, as he got out after scoring only nine runs off seven deliveries. Yet again, the southpaw got out to the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wahi-off-spinner-wali-bimari-memes-galore-after-abhishek-sharma-fails-yet-again-in-t20-wc-semifinal-2026-03-05-1032729",
-    "time": "2026-03-05T14:18:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma flops yet again, fails to address his flawed batting temperament",
-    "desc": "Abhishek Sharma flopped yet again with the bat in the ongoing T20 World Cup 2026. The southpaw arrived at the competition with massive expectations but so far, he has scored only 80 runs in seven...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-flops-yet-again-fails-to-acknowledge-his-flawed-batting-technique-2026-03-05-1032726",
-    "time": "2026-03-05T14:02:41.000Z"
   }
 ];
