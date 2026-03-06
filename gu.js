@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "T20 વર્લ્ડ કપની કેવી રીતે થઈ શરૂઆત ? ઇંગ્લેન્ડ સાથે છે ખાસ કનેક્શન, જાણો કોણે જીત્યો હતો પહેલો ખિતાબ",
+    "desc": "T20 વર્લ્ડ કપની શરૂઆત 2007માં થઈ હતી. પહેલી સિઝનમાં કુલ 12 ટીમોએ ભાગ લીધો હતો. શું તમે જાણો છો કે T20 વર્લ્ડ કપ કેવી રીતે શરૂ થયો હતો અને ઈંગ્લેન્ડ ક્રિકેટ બોર્ડ સાથે તેનું શું કનેક્શન છે, ત્યારે આ લેખમાં T20 વર્લ્ડ કપ શરૂ થવા પાછળની કહાની વિશે જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-history-know-when-and-how-this-tournament-started-467324 ",
+    "time": "2026-03-06T01:30:01.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ભારતીય વાયુસેનાનું SU-30MKI ફાઈટર જેટ રડારથી ગાયબ થઈ ગયું",
     "desc": "એકબાજુ ઈરાન અને ઈઝરાયેલ વચ્ચે ભારે તણાવ છે જેના કારણે સમગ્ર મીડલ ઈસ્ટમાં સંકટના વાદળો છવાયેલા છે. ત્યાં ભારતમાં પણ એક ચિંતાજનક સમાચાર આવ્યા છે. અસમમાં એક સુખોઈ વિમાન ઉડાણ ભર્યા બાદ રડારથી ગાયબ થઈ ગયું છે.",
@@ -385,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/funeral-rocession-for-girls-of-minab-elementary-school-iran-israel-war-update-in-gujarati-467040 ",
     "time": "2026-03-04T02:10:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપ પર પણ પડી ચંદ્રગ્રહણની અસર, ટીમ ઈન્ડિયાએ ના કરી પ્રેક્ટિસ",
-    "desc": "ભારત T20 વર્લ્ડ કપ 2026ની બીજી સેમિફાઇનલમાં ઇંગ્લેન્ડ સામે ટકરાશે. ટીમ પાસે મહત્વપૂર્ણ મેચ પહેલા તેની તૈયારીઓને અંતિમ સ્વરૂપ આપવા માટે બે મહત્વપૂર્ણ દિવસ છે. જો કે, મંગળવારે ચંદ્રગ્રહણને કારણે ટીમે વાનખેડે સ્ટેડિયમ ખાતે તેનું પ્રેક્ટિસ સેશન મુલતવી રાખ્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-postpone-practice-session-due-to-chandra-grahan-467085 ",
-    "time": "2026-03-03T17:13:11.000Z"
   },
   {
     "cat": "Business",
