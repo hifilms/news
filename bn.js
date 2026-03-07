@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "ভারতীয়দের তুলনায় ইজরায়েলিরা কত 'ধনী' বলুন তো...? চমকে দেবে ডেইলি 'ইনকাম', শিওর!",
+    "desc": "যুযুধান ইরান-ইজরায়েল। বর্তমান যুদ্ধ পরিস্থিতিতে আঁচ পৌঁছে যাচ্ছে বিশ্ব জুড়ে। আর তাতেই ইরানের মতোই চর্চায় ইজরায়েল। প্রশ্ন উঠছে ইজরায়েলের সামাজিক আর্থিক পরিস্থিতি কেমন? আচ্ছা বলুন তো, ইজরায়েলের মানুষ ভারতীয়দের তুলনায় কত ধনী? দুই দেশের নাগরিকদের দৈনিক আয়ের পার্থক্যই বা কত? পরিসংখ্যান শুনলে চমকে যাবেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/israel-7-2026-03-b298b28aff6854196f61c77735053fe7-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/israel-vs-india-how-rich-are-israelis-compared-to-indians-the-daily-income-will-surely-surprise-you-this-interesting-fact-will-shock-you-for-sure-sanj-2573271.html",
+    "time": "2026-03-07T09:14:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "প্রতিবেশী দেশগুলিতে হামলা নিয়ে ক্ষমা চাইলেন ইরানের প্রেসিডেন্ট, বললেন, ‘আমাদের উপর হামলায় মদত না দিলে আর কোনও দেশে হামলা নয়...!’",
+    "desc": "ইরানের প্রেসিডেন্ট বলেছেন, প্রতিবেশী দেশগুলোর উপর হামলা থেকে বিরত থাকবে ইরান, যদি না সেই দেশগুলোর এলাকা থেকে ইরানের উপর হামলা চালানো হয়। “ইরান কোনও প্রতিবেশী দেশের উপর হামলা বা মিসাইল হামলা করবে না, যদি না ইরানের উপর হামলা ওই দেশগুলো থেকে শুরু হয় ৷’’",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Iranian-President-2026-03-f23ddb6d8fbdf271819fe965c40b5eb2-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/iran-president-apologises-to-neighbouring-countries-for-attacks-says-will-not-strike-unless-know-what-he-said-ss-2573286.html",
+    "time": "2026-03-07T08:55:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বেনামী চিঠিতে ‘বাবার কীর্তি’ ফাঁস করার পরেই গুলি করে খুন! সাংবাদিক হত্যাকাণ্ডে অভিযুক্ত ডেরা সচ্চা সৌদা প্রধান রাম রহিম বেকসুর খালাস",
+    "desc": "স্বঘোষিত ধর্মগুরু গুরমিত রাম রহিমকে নিয়ে বিতর্কিত প্রতিবেদন নিজের সংবাদপত্রে প্রকাশ করেছিলেন সাংবাদিক রামচন্দ্র ছত্রপতি৷ এর মাসখানেক পরেই তাঁকে নিজের বাড়িতে গুলি করে খুন করা হয়৷ ঘটনায় গ্রেফতার করা হয় ডেরা সচ্চা সৌদা প্রধান রাম রহিমকে৷ এবার তাঁকে বেকসুর খালাস করল পঞ্জাব এবং হরিয়ানা হাই কোর্ট৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Gurmeet-Ram-Rahim-Singh-2026-03-b2bb6f330776eb93ede26045b245746d-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/the-punjab-and-haryana-high-court-has-acquitted-dera-chief-gurmeet-ram-rahim-singh-in-the-murder-case-of-journalist-ramchandra-chhatrapati-ank-2573244.html",
+    "time": "2026-03-07T07:57:22.000Z"
+  },
+  {
     "cat": "World",
     "title": "'অস্ত্র উৎপাদন ৪ গুণ করা হোক'! গোলা-বারুদের সীমাহীন মজুত নিয়ে আশ্বস্ত করলেন ট্রাম্প, প্রতিরক্ষা সংস্থাগুলির সঙ্গে বৈঠকের দাবি!",
     "desc": "মধ্যপ্রাচ্যে ইরানকে ঘিরে চলা সংঘাতের আবহেই মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প বড় ঘোষণা করলেন। তিনি জানিয়েছেন, যুক্তরাষ্ট্রের শীর্ষ প্রতিরক্ষা উৎপাদনকারী সংস্থাগুলির সঙ্গে বৈঠকের পর উন্নত অস্ত্র উৎপাদন দ্রুত বাড়ানোর সিদ্ধান্ত নেওয়া হয়েছে। ট্রাম্প তাঁর সোশ্যাল মিডিয়া প্ল্যাটফর্মে পোস্ট করে জানান, বৈঠকে অংশ নেওয়া সংস্থাগুলি ‘এক্সকুইজিট ক্লাস’ বা অত্যাধুনিক অস্ত্রশস্ত্রের উৎপাদন চারগুণ বাড়াতে সম্মত হয়েছে।",
@@ -279,15 +306,6 @@ const newsData_bn = [
     "time": "2026-03-05T10:27:09.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran’s Deadliest Weapons: আত্মঘাতী ওয়ানওয়ে অ্যাটাকে সিদ্ধহস্ত ইরানের মাটির নীচে আস্ত 'মিসাইল সিটি', হাতে ভয়াল 'ফাত্তাহ'...",
-    "desc": "ইরানের অস্ত্রাগারে আসলে কী কী আছে? সবচেয়ে ভয়ংকর তাদের আন্ডারগ্রাউন্ড 'মিসাইল সিটি'। ইরান ব্যাপকভাবে তাদের 'ওয়ান-ওয়ে অ্যাটাক' বা আত্মঘাতী ড্রোনের উপর নির্ভর করে। একেবারে নিজস্ব প্রযুক্তিতে তৈরি হাইপারসনিক ব্যালিস্টিক মিসাইল 'ফাত্তাহ'ও ইরানের বিশেষ শক্তি। এই মিসাইল শব্দের চেয়ে অন্তত পাঁচ গুণ দ্রুত গতিতে যেতে পারে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/irans-weapons-from-drones-to-ballistic-missiles-overview-of-irans-capabilities-irans-deadliest-weapons-that-can-put-us-and-israel-on-edge_643770.html ",
-    "time": "2026-03-05T09:49:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ইডেনে সেমিফাইনালে হারের পর হতাশ দক্ষিণ আফ্রিকা অধিনায়ক মার্করাম, জেনে নিন কী বললেন তিনি?",
     "desc": "নিউজিল্যান্ডের বিরুদ্ধে সেমিফাইনালে হারার পর মার্করাম বলেন, ‘‘আমার মনে হয়, যদি আপনি পরিস্থিতিগুলো দেখেন তাহলে ওরা শুরুতে খুব ভাল বল করেছিল। নিউজিল্যান্ডের বোলিং ইউনিট-কে পুরো কৃতিত্ব দিতে হবে। আর যখন কোনও ব্যাটসম্যান ওই ধরনের ইনিংস খেলে দেয়, তখন প্রায়ই ম্যাচ আপনার পক্ষে যায় না। এমন অবস্থায় রান ১৭০-তে পৌঁছানোও সত্যি বলতে ভাল চেষ্টা ছিল।’’",
@@ -439,15 +457,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/israel-vs-iran-israel-defence-ministers-elimination-threat-to-khameneis-successor-smc-2568583.html",
     "time": "2026-03-04T09:58:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিগ আপডেট-- যুদ্ধের জেরে কাঁচা তেল $108 আর ডলারের দাম 90 টাকা... তাই সহজ অঙ্ক বলছে, কলকাতায় পেট্রোল খুব তাড়াতাড়িই ₹125...",
-    "desc": "পশ্চিম এশিয়ার যুদ্ধের ছায়া সরাসরি আছড়ে পড়ছে দালাল স্ট্রিটে। গিফট নিফটির সংকেত অনুযায়ী,সেনসেক্স ও নিফটি বড়সড় পতনের (Gap-down) মুখে। তেলের দাম প্রতি ব্যারেল ১০ ডলার বাড়লে ভারতের আর্থিক ঘাটতি ৪০ থেকে ৫০ বেসিস পয়েন্ট বৃদ্ধি পেতে পারে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/crude-oil-usd-108-impact-on-petrol-price-in-kolkata-dollar-rs-90-calculation_643627.html ",
-    "time": "2026-03-04T09:33:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/kolkata/iran-israel-war-what-should-india-do-in-this-situation-here-is-what-expert-has-said-ank-2563675.html",
     "time": "2026-03-01T10:52:08.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "খামেইনি-মৃত্যুতে করাচির মার্কিন দূতাবাসে আগুন লাগাল উন্মত্ত জনতা! পুলিশের গুলিতে মৃত ৮",
-    "desc": "ইরানের বিরুদ্ধে অবিরাম বিমান হানা শুরু করেছে আমেরিকা আর ইজরায়েল। আর এই বিমান হামলায় নিহত হয়েছেন ইরানের সুপ্রিমো আয়েতোল্লা আলি খামেনিই। সেই খবর সামনে আসতেই পাকিস্তানের করাচিতে মার্কিন দূতাবাসে হামলা চালাল বিক্ষুব্ধ জনতা। দূতাবাসের বেশ কিছু অংশে ভাঙচুর চালানো হয় বলে অভিযোগ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/us-2-2026-03-d510a2d41fbae6f73242020a3888862a-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/as-khameni-passed-away-mob-vandalized-us-consulate-at-karachi-in-pakistan-smc-2563526.html",
-    "time": "2026-03-01T08:49:17.000Z"
   }
 ];

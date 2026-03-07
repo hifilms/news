@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "England, West Indies, South Africa players to leave India soon after being stranded due to West Asia war",
+    "desc": "The International Cricket Council (ICC) has finally arranged charter flights for England, West Indies and South Africa cricketers to return to their respective countries, after they were stranded post T20 World Cup, due to the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-west-indies-south-africa-to-leave-india-soon-after-being-stranded-due-to-west-asia-war-2026-03-07-1032939",
+    "time": "2026-03-07T08:48:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ellyse Perry sets new Test record for Australia with 76-run knock against India in Perth",
+    "desc": "Senior all-rounder Ellyse Perry became Australia’s leading run-scorer in women’s Test cricket history, surpassing the legendary Karen Rolton. She registered the feet on Day 2 of the one-off Test against India at the WACA in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ellyse-perry-sets-new-test-record-for-australia-with-76-run-knock-against-india-in-perth-2026-03-07-1032936",
+    "time": "2026-03-07T08:24:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Railways announces special train from Delhi to Ahmedabad for T20 World Cup final",
+    "desc": "India will host New Zealand on March 8 in the T20 World Cup 2026 final at the Narendra Modi Stadium in Ahmedabad. Ahead of that, the Northern Railways have announced a special train from Delhi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/northern-railways-announces-special-train-from-delhi-to-ahmedabad-for-t20-world-cup-final-2026-03-07-1032929",
+    "time": "2026-03-07T06:59:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Suryakumar Yadav needs to score runs, says Aakash Chopra after listing his poor show in World Cups",
     "desc": "After a terrific knock of 84 runs in the opening day against the USA, captain Suryakumar Yadav’s form has dipped significantly. He struggled to counter spin in the ongoing T20 World Cup, resulting in a...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-hopes-jasprit-bumrah-has-an-off-day-in-t20-world-cup-final-he-s-also-a-human-2026-03-06-1032876",
     "time": "2026-03-06T16:44:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Take her to Ahmedabad’: Viral girl’s emotional prayer before IND vs ENG semifinal wins hearts online",
-    "desc": "Team India defeated England in the thrilling semifinal clash on Wednesday to enter the final of the T20 World Cup. Despite posting a mammoth total of 253 runs, England came extremely close and India could...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/take-her-to-ahmedabad-viral-girls-emotional-prayer-before-ind-vs-eng-semifinal-wins-hearts-online-2026-03-06-1032869",
-    "time": "2026-03-06T15:34:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Team India players reach Ahmedabad ahead of T20 World Cup final on Sunday",
-    "desc": "Team India players reached Ahmedabad today, two days ahead of the T20 World Cup final against New Zealand on Sunday, March 8, at the Narendra Modi Stadium in Ahmedabad. The men in blue don't have...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-team-india-players-reach-ahmedabad-ahead-of-t20-world-cup-final-on-sunday-watch-video-2026-03-06-1032868",
-    "time": "2026-03-06T14:59:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 New Zealand players India need to be wary of in T20 World Cup final",
-    "desc": "India and New Zealand are set to face each other in the final of the T20 World Cup on Sunday, March 8 at the Narendra Modi Stadium in Ahmedabad. The two teams also made it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3-new-zealand-players-india-need-to-be-wary-of-in-t20-world-cup-final-2026-03-06-1032862",
-    "time": "2026-03-06T13:38:49.000Z"
   }
 ];
