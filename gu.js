@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "&amp;#039;મોટા ભાઈ કે પપ્પા બનીને અહીં કંઈ નહીં થાય...&amp;#039; ટીમના ખેલાડીઓને કેવી રીતે હેન્ડલ કરે છે સૂર્યા?",
+    "desc": "ટીમ ઈન્ડિયાના કેપ્ટન સૂર્યકુમાર યાદવ ખેલાડીઓને કેવી રીતે હેન્ડલ કરે છે અને તેમની કેપ્ટન્સીની અંદાજ કેવો છે? વર્લ્ડ કપ ફાઈનલ પહેલા યોજાયેલી પ્રેસ કોન્ફરન્સમાં તેમણે પોતે જ આ અંગે ખુલાસો કર્યો છે. જાણો તેમણે શું કહ્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-suryakumar-yadav-captaincy-style-handling-young-players-final-match-467604 ",
+    "time": "2026-03-07T18:23:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "મારું દિલ અને મન કહે છે... એબી ડીવિલિયર્સે તોડ્યા ફેન્સના દિલ, કરી દીધી T20 વર્લ્ડ કપ 2026 વિનરની ભવિષ્યવાણી",
+    "desc": "આવતીકાલે અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં ભારત અને ન્યુઝીલેન્ડ વચ્ચે T20 વર્લ્ડ કપ 2026ની ફાઈનલ મેચ રમવાની છે. ત્યારે એબી ડીવિલિયર્સે T20 વર્લ્ડ કપની વિનરની ભવિષ્યવાણી કરી છે. એબી ડીવિલિયર્સે ન્યુઝીલેન્ડનું દિલ તોડતા ભારતને T20 વર્લ્ડ કપ 2026ની ટ્રોફી જીતવા માટે પ્રબળ દાવેદાર ગણાવ્યું છે. તેમણે ભવિષ્યવાણી કરતા કહ્યું કે, ટીમ ઈન્ડિયા સરળતાથી ન્યુઝીલેન્ડને હરાવી શકે છે. એબીડીએ તેના પાછળનું મુખ્ય કારણ પણ સમજાવ્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ab-de-villiers-predicts-t20-world-cup-2026-winner-before-india-new-zealand-match-467590 ",
+    "time": "2026-03-07T17:50:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "કોણ બનશે ઈરાનના નવા સુપ્રીમ લીડર? ખામૈનેઈના ચારેય પુત્રો જીવિત, જાણો રેસમાં કોણ આગળ",
+    "desc": "ઈઝરાયેલ અને અમેરિકાએ ઈરાન પર ભીષણ હુમલાઓ કરીને ચારેબાજુ તબાહી મચાવી દીધી. ઈરાનના સુપ્રીમ લીડર અયાતોલ્લા અલી ખામૈનેઈ પણ માર્યા ગયા. ત્યારે હવે સવાલ એ છે કે નવા સુપ્રીમ લીડર કોણ? ખામેનેઈના ચાર પુત્રો સુરક્ષિત હોવાનું સામે આવ્યું છે. કોણ રેસમાં સૌથી આગળ...તમામ વિગતો જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/who-will-be-the-new-supreme-leader-of-iran-know-who-is-ahead-in-the-race-world-news-in-gujarati-467589 ",
+    "time": "2026-03-07T17:21:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "OMG! 7 સીટર લોકપ્રિય SUV 5 લાખ રૂપિયા સુધી સસ્તી થઈ ગઈ, આ તારીખ સુધી મળશે લાભ",
+    "desc": "મોટું ફેમિલી હોય અને તેમના માટે તમે મોટી ગાડી ખરીદવાનું વિચારતા હોવ એટલે કે 7 સીટર ગાડી ખરીદવી હોય તો આ ગાડી એક સારો વિકલ્પ બની શકે છે. તેમાં તમને 5 લાખ રૂપિયા સુધીનું ડિસ્કાઉન્ટ મળી શકે છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/bumper-discount-up-to-5-lakh-on-skoda-kodiaq-check-last-date-auto-news-in-gujarati-467577 ",
+    "time": "2026-03-07T17:08:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "સેન્ટનરની ધમકી પર સૂર્યાનો વળતો પ્રહાર, ફાઈનલમાં વરુણ ચક્રવર્તી રમશે કે નહીં? તેનો પણ આપ્યો જવાબ",
     "desc": "8મી માર્ચે અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં ટી20 વર્લ્ડ કપ 2026ની ફાઈનલ રમાય તે પહેલા બંને ટીમોના કેપ્ટનો વચ્ચે શાબ્લિક જંગ જોવા મળ્યો છે. આ ઉપરાંત સૂર્યકુમાર યાદવે વરુણ ચક્રવર્તી વિશે પણ મોટું નિવેદન આપ્યું છે. જાણો શું કહ્યું.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -520,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/you-spent-a-few-days-with-modi-what-kind-of-person-did-he-seem-to-be-canadian-pm-gave-a-strange-answer-know-467256 ",
     "time": "2026-03-05T05:35:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાન જંગ વચ્ચે ટ્રમ્પને મળ્યો અમેરિકી સાંસદોનો સાથ, યુદ્ધ રોકનાર બિલ નામંજૂર",
-    "desc": "અમેરિકા-ઈઝરાયલ અને ઈરાન વચ્ચે પાંચ દિવસથી યુદ્ધ ચાલી રહ્યું છે અને સ્થિતિ ગંભીર બની રહી છે. અણેરિકી સંસદે રાષ્ટ્રપતિ ટ્રમ્પની સૈન્ય શક્તિને સીમિત કરનાર વોર પાવર્સ રેઝોલ્યુશન બિલને નકારી દીધું છે. તેવામાં આ ટ્રમ્પ માટે એક જીત માનવામાં આવી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-iran-conflict-us-senate-rejects-war-powers-resolution-donald-trump-467231 ",
-    "time": "2026-03-05T04:27:25.000Z"
   },
   {
     "cat": "Business",

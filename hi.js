@@ -1,8 +1,35 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Full history of Champions and runners-up (2007-2026)",
+    "desc": "Will India be the third-time champions in the T20 format, or will New Zealand become the seventh country to win the T20 World Cup? We will get all the answers on Sunday evening as India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-winners-list-full-history-of-champions-and-runners-up-2007-2026-2026-03-07-1032990",
+    "time": "2026-03-07T18:03:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Narendra Modi Stadium in Ahmedabad play for the T20 WC final?",
+    "desc": "The T20 World Cup final between India and New Zealand is less than 24 hours away and the intrigue around the pitch is increasing with every minute. With India not doing well at the venue...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-for-the-t20-world-cup-final-2026-03-07-1032988",
+    "time": "2026-03-07T17:15:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lakshya Sen creates history, joins Prakash Padukone in elite list after storming into All England Open final",
+    "desc": "India's star shuttler Lakshya Sen created history today, entering the final of the All England Open Badminton Championships. He defeated Canada's Victor Lai 21-16, 18-21, 21-15 in a thrilling semifinal that lasted 97 minutes. With this...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/lakshya-sen-creates-history-joins-prakash-padukone-in-elite-list-after-storming-into-all-england-open-final-2026-03-07-1032985",
+    "time": "2026-03-07T16:05:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 Players who can help India win the T20 World Cup final vs New Zealand",
-    "desc": "1. Abhishek Sharma Yes. This name could surprise many, but Abhishek Sharma can win India the T20 World Cup final singlehandedly. He has been exposed entirely in the tournament, while his temperament is also being questioned...",
+    "desc": "India and New Zealand will face each other in the final of the T20 World Cup on Sunday at the Narendra Modi Stadium in Ahmedabad. Several players have put their hand up for India during...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3-players-who-can-help-india-win-the-t20-world-cup-final-vs-new-zealand-2026-03-07-1032982",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ellyse-perry-sets-new-test-record-for-australia-with-76-run-knock-against-india-in-perth-2026-03-07-1032936",
     "time": "2026-03-07T08:24:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Railways announces special train from Delhi to Ahmedabad for T20 World Cup final",
-    "desc": "India will host New Zealand on March 8 in the T20 World Cup 2026 final at the Narendra Modi Stadium in Ahmedabad. Ahead of that, the Northern Railways have announced a special train from Delhi...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/northern-railways-announces-special-train-from-delhi-to-ahmedabad-for-t20-world-cup-final-2026-03-07-1032929",
-    "time": "2026-03-07T06:59:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav needs to score runs, says Aakash Chopra after listing his poor show in World Cups",
-    "desc": "After a terrific knock of 84 runs in the opening day against the USA, captain Suryakumar Yadav’s form has dipped significantly. He struggled to counter spin in the ongoing T20 World Cup, resulting in a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-needs-to-score-runs-says-aakash-chopra-after-listing-his-poor-show-in-world-cups-2026-03-07-1032923",
-    "time": "2026-03-07T06:25:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah’s death over mastery can scare New Zealand in T20 World Cup final as stats suggest",
-    "desc": "Jasprit Bumrah has been a force to reckon with in all three formats of the game. There’s hardly a dull day in his life as the pacer continues to establish his authority in international cricket....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrahs-death-over-mastery-can-scare-new-zealand-in-t20-world-cup-final-as-stats-suggest-2026-03-07-1032914",
-    "time": "2026-03-07T05:07:13.000Z"
   }
 ];

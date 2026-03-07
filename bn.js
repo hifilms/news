@@ -1,5 +1,68 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "অরুণাচলের পাহাড়ে রঙের উৎসব, ‘ছেলেধরা’র সেটে এক টুকরো মেঠো বসন্ত",
+    "desc": "পরিচালক শিলাদিত্য মৌলিক যাঁর আগের ছবি সূর্য টানা ১১ সপ্তাহ প্রেক্ষাগৃহে চলেছিল, এই ছবিতে ফিরছেন এক ভিন্নধর্মী গল্প নিয়ে। অরুণাচল প্রদেশের মনোমুগ্ধকর জিরো ভ্যালিতে শুটিং চলাকালীনই রঙের উৎসবে মেতে উঠলেন ‘ছেলেধরা’ ছবির শিল্পী ও কলাকুশলীরা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/chheledhora-film-team-holi-celebration-ziro-arunachal-pradesh-2026_644059.html ",
+    "time": "2026-03-07T16:59:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "রেড কার্পেটে চোখ সরানো কঠিন! মাধুরীর কালো গাউনের লুকেই মুগ্ধ সবাই",
+    "desc": "মুম্বইয়ের ঝলমলে বিনোদন জগতের তারকারা ৮ মার্চ একত্রিত হয়েছিলেন News18 Showsha Reel Awards 2026 অনুষ্ঠানে। আর রেড কার্পেট দেখেই বোঝা গেল, সিনেমার বড় বড় তারকারা এখন আগের চেয়ে অনেক বেশি সাহসী ও নতুনধারার ফ্যাশনকে গ্রহণ করছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/news18-12-2026-03-335b9be87e5c5bc4d14d0b122be6a5f0-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/madhuri-dixit-turns-heads-in-sculptural-black-gown-with-dramatic-silver-ruffle-smc-2574024.html",
+    "time": "2026-03-07T16:39:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "নারী দিবসে সুরের শ্রদ্ধার্ঘ্য, কলকাতায় পালিত হচ্ছে অন্নপূর্ণা দেবীর ১০০ বছর",
+    "desc": "আগামী ৬-৮ মার্চ কলকাতার জিডি বিড়লা সভাঘরে আয়োজিত হতে চলেছে বিশেষ শাস্ত্রীয় সঙ্গীত সম্মেলন। দেশের প্রখ্যাত শিল্পীদের কন্ঠ ও যন্ত্রসঙ্গীতের মূর্ছনায় স্মরণ করা হবে এই মহীয়সী শিল্পীকে। সঙ্গে রয়েছে ভারতীয় ডাক বিভাগের বিশেষ সম্মাননা। শাস্ত্রীয় সঙ্গীতের এই মহোৎসবে আপনিও শামিল হোন।\"",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/annapurna-devi-birth-centenary-classical-music-festival-india-post-honor-kolkata_644056.html ",
+    "time": "2026-03-07T16:31:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "এলপিজি সিলিন্ডারের 'LPG' শব্দের ফুল ফর্ম কী জানেন...? শুনলেই চমকাবেন 'উত্তরে'!",
+    "desc": "এলপিজি রান্নার গ্যাসের দাম বাড়ল আজ! ৬০ টাকা থেকে এক ধাক্কায় গ্যাসের দাম বেড়ে হল ৯৩৯ টাকা। অন্যদিকে, বাণিজ্যিক বা কমার্শিয়াল সিলিন্ডারের দাম বাড়ল ১১৪.৫০ টাকা । বাণিজ্যিক এলপিজি সিলিন্ডারের দাম বেড়ে হল ১৯৯৯ টাকা। এই পরিস্থিতিতে দেশ জুড়ে ফের আলোচনায় উঠে এসেছে এলপিজি। কিন্তু জানেন কি এই এলপিজি সিলিন্ডারে LPG-শব্দের অর্থ কী বলুন তো?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/LPG-2026-03-109416ff533f2970d837533369e272a0-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/lpg-do-you-know-the-full-form-of-the-word-lpg-in-lpg-gas-cylinder-most-people-know-it-absolutely-wrong-but-the-answer-will-surprise-you-for-sure-sanj-2573808.html",
+    "time": "2026-03-07T16:14:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "১১ বছর পর ম্যাজিক ফিরছে! জন্মদিনে ‘বলাই’ নিয়ে প্রত্যাবর্তনের ঘোষণা প্রভাত রায়ের",
+    "desc": "দীর্ঘ ১১ বছর পর আবারও পরিচালকের আসনে বর্ষীয়ান পরিচালক প্রভাত রায়। ৮২তম জন্মদিনে ঘোষণা করলেন তাঁর নতুন কাজ— রবীন্দ্রনাথ ঠাকুরের ‘বলাই’ নিয়ে আসছেন তিনি। একতা ভট্টাচার্যের চিত্রনাট্যে কৌশিক সেন, বাসবদত্তা চট্টোপাধ্যায়দের নিয়ে শুরু হচ্ছে নতুন যাত্রা। জন্মদিনে এর থেকে বড় উপহার আর কী হতে পারে!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/prabhat-roy-returns-after-11-years-with-tagore-short-film-balai-cast-details_644055.html ",
+    "time": "2026-03-07T16:06:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পশ্চিম এশিয়ার অশান্ত পরিস্থিতি, গাড়িতে কতটা তেল ভরে রাখবেন, জ্যারিকেনে তেল ভরে রাখাও কি দরকার",
+    "desc": "জ্বালানি তেলের দাম বাড়ার আশঙ্কা, সন্দেশখালির পেট্রোল পাম্পে ড্রাম-ব্যারেল নিয়ে তেল ভরার হিড়িক মধ্যপ্রাচ্যে চলমান যুদ্ধ পরিস্থিতির জেরেই এই আতঙ্ক ছড়িয়েছে। গত কয়েকদিন ধরেই বিভিন্ন মহলে আলোচনা চলছে যে আন্তর্জাতিক পরিস্থিতির কারণে ভারতে জ্বালানি সরবরাহে প্রভাব পড়তে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/HYP_5800609_cropped_07032026_154611_img_20260307_153336_waterm_1-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/line-in-petrol-pump-scare-of-increase-in-fuel-price-people-gathering-in-sandeshkhali-petrol-pumps-are-filled-with-drum-barrels-dd-l18-local18-2573676.html",
+    "time": "2026-03-07T15:48:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "বাঙালির রহস্য-রোমাঞ্চে নতুন গোয়েন্দা, নারী দিবসে সামনে এল ‘ফুলপিসি ও এডওয়ার্ড’-এর মহিলা বাহিনী",
+    "desc": "নারী দিবসের প্রাক্কালে প্রকাশ্যে এল শিবপ্রসাদ মুখোপাধ্যায় ও নন্দিতা রায়ের নতুন ছবি 'ফুলপিসি ও এডওয়ার্ড'-এর মহিলা বাহিনী। সোহিনী সেনগুপ্ত থেকে রাইমা সেন— শক্তিশালী কাস্টিং নিয়ে বড় পর্দায় কামব্যাক করছে উইন্ডোজ প্রোডাকশন। রহস্য আর মনস্তত্ত্বের এই নতুন আখ্যান কবে আসবে পর্দায়?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/phulpishi-o-edward-shiboprosad-nandita-new-detective-movie-poster-launch_644053.html ",
+    "time": "2026-03-07T15:46:49.000Z"
+  },
+  {
     "cat": "Business",
     "title": "যুদ্ধের আঁচ রান্নাঘরে! গ্যাসের দামবৃদ্ধিতে নাজেহাল মধ্যবিত্ত",
     "desc": "মধ্য প্রাচ্যের যুদ্ধ পরিস্থিতিতে তেল, জ্বালানি গ্যাসের আমদানি-রফতানি ঘিরে সংকট তৈরি হয়েছে ইতিমধ্যেই৷ হরমুজ প্রণালি যেখান দিয়ে মূলত তেল আমদানি করে ভারত, সেই প্রণালিতে তেল সরবরাহ কার্যত রদ করে রেখেছে ইরান৷ এমন পরিস্থিতিতে গত শুক্রবার রাতে এক ধাক্কায় ৬০ টাকা বেড়েছে রান্নার গ্যাসের সিলিন্ডারের দাম৷ আজ থেকে রান্নার গ্যাসের দাম হবে ৯৩৯ টাকা এবং বাণিজ্যিক বা কমার্শিয়াল সিলিন্ডারের দাম বেড়ে হল ১৯৯৯ টাকা।",
@@ -10,7 +73,7 @@ const newsData_bn = [
   },
   {
     "cat": "World",
-    "title": "আজই মহাপ্রলয়ের পথে বিশ্ব? ট্রাম্প ছুড়লেন পরমাণু শক্তিধর 'ডুমস ডে মিসাইল'",
+    "title": "মহাপ্রলয়ের পথে বিশ্ব? ট্রাম্প ছুড়লেন পরমাণু শক্তিধর 'ডুমস ডে মিসাইল'",
     "desc": "ইসরায়েল এবং আমেরিকার সঙ্গে ইরানের যুদ্ধের মাঝে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের সাম্প্রতিক আক্রমণাত্মক মন্তব্য পরিস্থিতিকে এক নতুন মোড় দিয়েছে। ট্রাম্প স্পষ্ট জানিয়ে দিয়েছেন, ইরানের সামনে এখন মাত্র দুটি পথ খোলা আছে—হয় নিঃশর্ত আত্মসমর্পণ, নতুবা সম্পূর্ণ পতন।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
@@ -835,68 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/actress-subhashree-ganguly-stuck-in-dubai-with-son-her-father-panics-says-his-grandson-is-bit-worried-l18-pbd-local18-2563987.html",
     "time": "2026-03-01T17:11:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "শোলে-এর পঞ্চাশে বিশেষ ক্যালেন্ডার প্রকাশ, জয়-বীরু এর ভূমিকায় সিধু-পটা জুটির উপস্থিতি",
-    "desc": "দ্যা ড্রিমার্স মিউজিক পিআর এজেন্সির উদ্যোগে , সেরাম গ্রুপ এর নিবেদনে প্রকাশ পেল \"শোলে পঞ্চাশ\" বিশেষ ক্যালেন্ডার। চমক ছিল এর প্রকাশ অনুষ্ঠানে। শোলের দুই মুখ্য চরিত্র জয়-বীরু হিসেবে উপস্থিত ছিলেন বাংলা রক ব্যান্ড ক্যাকটাস এর সিধু-পটা জুটি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Sholay-Calender-2026-03-23a861c1529d16e9eceb299071f120c0-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/50-years-of-bollywood-cult-movie-sholay-new-calendar-release-sidhu-and-pota-of-cactus-in-role-of-jai-veeru-pbd-2563909.html",
-    "time": "2026-03-01T14:33:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফেলে দেওয়া আঁশই এখন রোজগারের দিশা! তৈরি হচ্ছে অপূর্ব সব জিনিস, হাজার হাজার টাকা আয় করছেন মেদিনীপুরের মহিলারা",
-    "desc": "মাছের আঁশ এখন আর আবর্জনা নয়, বরং রোজগারের হাতিয়ার। মেদিনীপুরের একদল মহিলা মাছের আঁশ দিয়ে তৈরি করছেন নজরকাড়া শোপিস, গয়না-সহ বিভিন্ন জিনিসপত্র। এই ফেলে দেওয়া বর্জ্য থেকেই মাসে হাজার হাজার টাকা আয় করে স্বনির্ভরতার নজির গড়ছেন তাঁরা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/fish-scales-handicraft-2026-03-6e999be730f4b89f7375b8f76ff07db4-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/west-medinipur-money-making-tips-fish-scales-handicraft-medinipur-women-earning-huge-money-l18-local18-2563439.html",
-    "time": "2026-03-01T13:48:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "দেশের হয়ে জিতেছেন বিশ্বকাপ, সেই রিচা ঘোষের নামও SIR লিস্টে বিচারাধীন তালিকায়",
-    "desc": "বিশ্বকাপ জয়ীর নামও বিচারাধীন তালিকায়! SIR-এ বিচারাধীন তালিকায় রিচা ঘোষেও নামও! ভারতীয় মহিলা দলের ক্রিকেটার রিচা ঘোষ। দেশের হয়ে বিশ্বকাপ জিতেছেন। তাঁর নাম SIR-এর অ্যাজুডিকেশনে থাকায় চাঞ্চল্য ছড়িয়েছে। শিলিগুড়ির ১৯ নম্বর ওয়ার্ডের বাসিন্দা রিচা। তাঁর দিদির নামও বিচারাধীন তালিকায় রয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Richa-Ghosh-9-2026-03-e090a7eaccf5f350b49a647f9564c42f-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/sports/indian-women-cricket-team-world-cup-winner-richa-ghosh-name-is-on-the-sir-list-under-adjudication-sup-2563861.html",
-    "time": "2026-03-01T13:40:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'A Life In 75 Milestones'-রাইজিং ভারত ২০২৬-এ প্রধানমন্ত্রী নরেন্দ্র মোদির হাতে বিশেষ সংস্করণের বই তুলে দিল নেটওয়ার্ক18",
-    "desc": "নরেন্দ্র মোদির হাতে বিশেষ সংস্করণের বই তুলে দিল নেটওয়ার্ক18নেটওয়ার্ক18 আয়োজিত রাইজিং ভারত ২০২৬ অনুষ্ঠানে প্রধানমন্ত্রী নরেন্দ্র মোদি-কে তাঁর জীবন ও নেতৃত্বের নানা অধ্যায় তুলে ধরা একটি বিশেষ সংস্করণের বই উপহার দেওয়া হয়। তাঁর ৭৫তম জন্মদিন উপলক্ষে পরিকল্পিত ১৭৬ পৃষ্ঠার এই গ্রন্থে ৭৫টি গুরুত্বপূর্ণ মাইলফলক তুলে ধরা হয়েছে",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/modi-33-2026-03-f8f964978d51ddf69aba5b664dd68fed-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/a-life-in-75-milestones-network18-presents-to-pm-narendra-modi-a-special-edition-book-at-rising-bharat-2026-know-more-details-about-it-smc-2563791.html",
-    "time": "2026-03-01T13:21:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ইরানের প্রত্যাঘাত ভয়ঙ্কর হতে পারে হুঁশিয়ারি ট্রাম্পের, দেখুন ভিডিও",
-    "desc": "শনিবার ইজরায়েল আর মার্কিন বিমান হানায় নিহত হয়েছেন ইরানের সর্বোচ্চ নেতা আয়াতোল্লা আলি খামেনেই। আর এরপরেই প্রত্যাঘাত আরও প্রবল হবে বলে জানিয়েছিল ইরানের প্রতিরক্ষামন্ত্রক। যদিও মার্কিন হামলায় নিহত হয়েছেন ওই দেশের প্রতিরক্ষামন্ত্রী আজিজ নাসিরজাদা। কিন্তু, মধ্যপ্রাচ্যে মার্কিন সেনাঘাঁটিতে প্রত্যাঘাত আরও ভয়ঙ্কর হবে বলে জানিয়েছিল ইরান। সেইমতোই হামলা শুরু করল তাঁরা। ইরানের ছোড়া মিসাইল ইতিমধ্যেই আঘাত হেনেছে ওমান, সৌদি আরব, কুয়েত-সহ মধ্য প্রাচ্যের একাধিক দেশে। এর আগে সোশ্যাল মিডিয়া এক্সে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প লেখেন “ইরান ইতিমধ্যেই আক্রমণ শুরু করেছে। তাঁরা আরও জানিয়েছে তাঁরা আরও আক্রমণ করবে। কিন্তু, আমি বলব তাঁরা যেন এটা না করে। কারণ এটা করলে তাঁদের ফল ভুগতে হবে।”",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/who-was-khamenei-3-2026-03-ae4a3a64d56ae9f6f4929c5edcabe86d-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/international/iran-us-clash-khamenei-killed-missile-attacks-begin-in-middle-east-rmj-ws-l-2563779.html",
-    "time": "2026-03-01T12:49:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ছেলে ইউভানকে নিয়ে দুবাইয়ে আটকে শুভশ্রী, কেমন আছেন তাঁরা?",
-    "desc": "ছেলের স্কুলে ছুটি! সেই সুযোগেই জমে উঠেছিল মা শুভশ্রী গঙ্গোপাধ্যায় আর ছেলে ইউভানের দুবাই-ট্রিপ! কিন্তু আচমকাই ছন্দপতন! সফরের মাঝেই বিপত্তি, জটিল হয়ে উঠল পরিস্থিতি। ইরানের বিরুদ্ধে যুদ্ধ ঘোষণা করল আমেরিকা-ইজরায়েল। পশ্চিম এশিয়ায় মার্কিন সেনাঘাঁটিতে ইরানের প্রত্যাঘাত। আফগানিস্তানের সঙ্গে যুদ্ধঘোষণা পাকিস্তানের। কাঁপছে পশ্চিম এশিয়া! আতঙ্ক- উত্তেজনা ছড়িয়ে পড়তেই বন্ধ বিমান চলাচল। এমন পরিস্থিতিতে দুবাইয়ে বেড়াতে গিয়ে ইউভানকে নিয়ে আটকে পড়েছেন টলিউড অভেনেত্রী শুভশ্রী গঙ্গোপাধ্যায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WEB-THUMB-2026-03-01T131329.526-2026-03-0bfedd41d831cbdd9218475937deca12-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/entertainment/shubhashree-gangopadhyay-and-yuvan-stuck-in-dubai-flights-halted-due-to-war-fears-rmj-ws-l-2563780.html",
-    "time": "2026-03-01T12:46:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "২৭ বছরের সংসার ভাঙছে সুপারস্টারের! ঘরের বাইরে ছড়াল কুৎসা! নায়িকার সঙ্গে প্রেম, স্ত্রী-সন্তানকে অবহেলা, আদালতের দারস্থ হয়ে বোমা ফাটালেন 'অত্যাচারিত' স্ত্রী",
-    "desc": "নায়িকার সঙ্গে প্রেমের কথা জানতে পেরেও মুখ বুঝে সহ্য করেন স্ত্রী, এমনই দাবি৷ তবে বারবার তাঁর ও তাঁদের সন্তানতে অবহেলা এবং মানসিক যন্ত্রণার মধ্যে দিয়ে যেতে হয়, যা আর বয়ে চলা সম্ভব হচ্ছিল না বলে জানান সুপারস্টারের স্ত্রী৷ ফলে তিনি আদালতে যেতে বাধ্য হয়েছেন৷ যদিও এখনই সেই নায়িকার নাম তিনি জানাননি, তবে প্রয়োজনে সেই নামও সকলের সামেন তুলে ধরবেন বলে একপ্রকাল হুমকিই দিয়েছেন সঙ্গীতা৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Vijay-Divorce-2026-03-98573e3b35518e08167af18c06120d64-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/superstar-actor-vijay-wife-sangeeta-reveals-shocking-incidents-that-happened-in-2021-files-divorce-petition-pbd-2563702.html",
-    "time": "2026-03-01T11:04:48.000Z"
   }
 ];

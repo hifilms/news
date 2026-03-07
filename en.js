@@ -1,5 +1,149 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Pezeshkian says Iran will halt strikes on neighbours; Trump vows to hit harder",
+    "desc": "The Iranian President says it will only target neighbours if attacks originate from their territory; responding to the U.S. President’s demand for “unconditional surrender”, Mr. Pezeshkian says Iran’s enemies will take this dream “to their grave”",
+    "img": "https://th-i.thgim.com/public/incoming/vuj6bw/article70716932.ece/alternates/LANDSCAPE_1200/2026-03-01T164249Z_1022571116_RC2CQJANXD5U_RTRMADP_3_IRAN-CRISIS-TRUMP-LEADERS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/pezeshkian-says-iran-will-halt-strikes-on-neighbours-trump-vows-to-hit-harder/article70716631.ece",
+    "time": "2026-03-07T18:17:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Students showcase STEM projects at science carnival in Navi Mumbai",
+    "desc": "The seventh Amazon Think Big Science Carnival in Navi Mumbai showcased student innovations addressing real-world challenges. Over 12,000 students participated, with 20 teams presenting working prototypes on themes like \"STEM for Sustainability\" and \"Tech for Good.\" The event fostered analytical thinking and teamwork through interactive exhibits and competitions.",
+    "img": "https://static.toiimg.com/photo/msid-129228169,imgsize-93910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/students-showcase-stem-projects-at-amazon-think-big-science-carnival-in-navi-mumbai/articleshow/129228020.cms",
+    "time": "2026-03-07T17:51:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul Gandhi offers five guarantees to people of Kerala ahead of Assembly polls",
+    "desc": "The five ‘welfare guarantees’ were aimed at giving a social security cover for the people of Kerala, especially the women and the youth, says Leader of the Opposition in the Lok Sabha. Increase in welfare pensions for the marginalised, free travel for women on KSRTC buses are some of the guarantees",
+    "img": "https://th-i.thgim.com/public/incoming/g8tlmt/article70716666.ece/alternates/LANDSCAPE_1200/08tv%20Rahul%20Gandhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/rahul-gandhi-offers-five-guarantees-to-people-of-kerala-ahead-of-assembly-polls/article70716296.ece",
+    "time": "2026-03-07T17:41:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vijay promises ₹2,500 monthly assistance for women, free bus travel",
+    "desc": "Speaking at the International Women’s Day celebrations organised by the party in Mamallapuram, he hits out at the ruling party and claims that 30% of the budgetary allocation in T.N. is being siphoned off for the Chief Minister and his Cabinet",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/e17xqo/article70716650.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-07%20at%207.46.43%20PM%201.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-promises-2500-monthly-assistance-for-women-free-bus-travel/article70715963.ece",
+    "time": "2026-03-07T17:36:11.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Ali Larijani — the philosopher who seeks vengeance",
+    "desc": "The Secretary of Iran’s Security Council, who has emerged as a voice of the country’s defiance in the time of war, says Tehran will not talk to the U.S. and will deliver ‘an unforgettable lesson to international oppressors’",
+    "img": "https://th-i.thgim.com/public/incoming/wk52u0/article70715736.ece/alternates/LANDSCAPE_1200/Ali_Larijani_art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/the-philosopher-who-seeks-vengeance/article70715797.ece",
+    "time": "2026-03-07T17:27:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "A father's quiet vigil as Abhishek Sharma prepares for his biggest night",
+    "desc": "Struggling for form in the 2026 T20 World Cup, Abhishek Sharma quietly received support from his biggest backer. On the eve of the final in Ahmedabad, Rajkumar Sharma, his father, and childhood coach watched from afar during India’s nets, offering silent belief that the opener can rediscover his touch on the biggest night. India will take on New Zealand in the final on Sunday.",
+    "img": "https://static.toiimg.com/photo/msid-129226982,imgsize-107932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-final-a-fathers-quiet-vigil-as-abhishek-sharma-prepares-for-his-biggest-night/articleshow/129225777.cms",
+    "time": "2026-03-07T17:20:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Since 2017, cases of SCs denied access to public spaces on the rise with lion’s share in U.P.",
+    "desc": "From the latest available set of crime data in the NCRB’s 2023 Crime in India report, there were 180 reported cases of SCs being denied access to public spaces under the Prevention of Atrocities (SC/ST) Act across the country. Of these, 173 cases were reported in U.P. alone",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/since-2017-cases-of-scs-denied-access-to-public-spaces-on-the-rise-with-lions-share-in-up/article70707428.ece",
+    "time": "2026-03-07T17:19:41.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "‘Approached from a point of humanity,’ Jaishankar on why India let Iranian warship dock in Kochi",
+    "desc": "Iranian ship Dena that was blown up by U.S. got caught on the wrong side of events, says Minister in the backdrop of social media debate, adds that letting IRIS Lavan dock in Kochi was the ‘right thing’ to do",
+    "img": "https://th-i.thgim.com/public/incoming/szx3jr/article70715334.ece/alternates/LANDSCAPE_1200/PTI03_07_2026_000039A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jaishankar-india-humanity-iranian-warship-docks-in-kochi-iris-dena-iris-lavan-indian-ocean-raisina-dialogue-israel-iran-war/article70715301.ece",
+    "time": "2026-03-07T17:09:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Last photo with Jeff resurfaces",
+    "desc": "Canadian fitness YouTuber Jeff Nippard announced the sudden passing of his fiancée, Stephanie Buttermore, with whom he had been planning to marry. Their last Valentine's Day photo from February 14, 2026, has resurfaced, showing the couple smiling together. Buttermore was known for her warmth, compassion, and PhD research on ovarian cancer.",
+    "img": "https://static.toiimg.com/photo/msid-129224481,imgsize-81976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jeff-nippards-fiance-stephanie-buttermore-passes-away-couples-last-pic-from-their-valentines-day-post-resurfaces/articleshow/129224363.cms",
+    "time": "2026-03-07T16:30:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government announces standards of green ammonia, green methanol",
+    "desc": "The mission was approved by the Union Cabinet on January 4, 2023, with an initial outlay of ₹19,744 crore to make India a global hub for production, utilisation and export of green hydrogen and its derivatives",
+    "img": "https://th-i.thgim.com/public/news/national/855wvk/article70716775.ece/alternates/LANDSCAPE_1200/iStock-1414841794.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/government-announces-standards-of-green-ammonia-green-methanol/article70716720.ece",
+    "time": "2026-03-07T16:29:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lakshya Sen scripts history with second All England final appearance",
+    "desc": "Lakshya Sen has reached the All England Open Badminton Championships final. He defeated Victor Lai in a tough semifinal. This marks his second appearance in the title match. Sen battled through pain to secure the win. He joins Prakash Padukone as the only Indian to achieve this feat twice. Sen will now face Lin Chun-Yi in the final.",
+    "img": "https://static.toiimg.com/photo/msid-129223914,imgsize-69968.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/lakshya-sen-scripts-history-with-second-all-england-final-appearance/articleshow/129223987.cms",
+    "time": "2026-03-07T16:19:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah inaugurates 'Nootan Nyaya Sanhita' exhibition in Haridwar",
+    "desc": "The exhibition aims to spread awareness and highlight the effective implementation of the new criminal laws introduced by the Government of India, Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagarik Suraksha Sanhita (BNSS), and Bharatiya Sakshya Adhiniyam (BSA).",
+    "img": "https://static.toiimg.com/photo/msid-129223378,imgsize-975846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/uttarakhand-amit-shah-inaugurates-nootan-nyaya-sanhita-exhibition-in-haridwar/articleshow/129223178.cms",
+    "time": "2026-03-07T16:01:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Normalcy returns to Kashmir after six days; DGP says sustained pressure put on anti-national elements",
+    "desc": "Concertina wires placed on roads and interior lanes in parts of Srinagar city, Budgam and Baramulla were also removed, allowing vehicular traffic to ply smoothly on the roads; locals said internet speed, which was reduced to 2G service, and prepaid mobile calling were also restored",
+    "img": "https://th-i.thgim.com/public/incoming/qmld5x/article70716645.ece/alternates/LANDSCAPE_1200/PTI03_07_2026_000258B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/normalcy-returns-to-kashmir-after-six-days-dgp-says-sustained-pressure-put-on-anti-national-elements/article70716244.ece",
+    "time": "2026-03-07T16:00:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah recalls Uttarakhand statehood movement during 'Jan Jan Ki Sarkar, 4 Saal Bemisaal' in Hardwar",
+    "desc": "Union Home Minister Amit Shah on Saturday recalled the Uttarakhand statehood movement, saying that the youth of Uttarakhand had to take to the streets to protect their identity, culture, and rights. During this struggle, they also had to face incidents of violence such as the Rampur Tiraha firing incident.",
+    "img": "https://static.toiimg.com/photo/msid-129223092,imgsize-94402.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amit-shah-recalls-uttarakhand-statehood-movement-during-jan-jan-ki-sarkar-4-saal-bemisaal-in-hardwar/articleshow/129222546.cms",
+    "time": "2026-03-07T15:59:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Iran not Indian corporates’ top priorities days ahead of attack",
+    "desc": "In the research report which summarised the speeches of top executives of the participant companies, Iran was mentioned only once and was not part of the 100 most used words of over 7000 words that were analysed",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/iran-not-indian-corporates-top-priorities-days-ahead-of-attack/article70715571.ece",
+    "time": "2026-03-07T15:25:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka recalls re-piercing her belly button in a cab",
+    "desc": "Before winning Miss World 2000 and stepping into global stardom, Priyanka Chopra was a teenager experimenting with her style. The actress recently revealed that her love for her belly button piercing once led her to re-pierce it herself — in the back of a cab.",
+    "img": "https://static.toiimg.com/photo/msid-129221436,imgsize-42624.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-recalls-re-piercing-her-belly-button-in-a-cab-thats-what-we-used-to-do-back-in-the-90s/articleshow/129221436.cms",
+    "time": "2026-03-07T15:23:03.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "England leave, WI and SA stuck in India; Former captain slams ICC over unequal treatment",
     "desc": "Michael Vaughan has criticized the ICC's unequal treatment of teams exiting the T20 World Cup, highlighting England's swift charter flight home while West Indies and South Africa remain stranded in Kolkata. He argued that a team's influence at the ICC should not dictate their post-elimination travel arrangements, emphasizing fair treatment for all.",
@@ -61,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-says-pm-modi-betrayed-the-country-by-signing-us-trade-deal/articleshow/129215425.cms",
     "time": "2026-03-07T13:32:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Andhra Pradesh is on the cusp of tech revolution, says Chief Minister Chandrababu Naidu",
-    "desc": "Highlighting the transformative impact advanced technologies, particularly quantum computing and Artificial Intelligence, will have on governance, economies and everyday life, the Chief Minister says the State will soon have a quantum computer in Amaravati and will soon make a mark in its manufacture and supply to the world",
-    "img": "https://th-i.thgim.com/public/incoming/akql42/article70715945.ece/alternates/LANDSCAPE_1200/10215_7_3_2026_18_10_51_1_IMG_20260307_WA0112.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-is-on-the-cusp-of-tech-revolution-says-chief-minister-chandrababu-naidu/article70715703.ece",
-    "time": "2026-03-07T13:30:48.000Z"
   },
   {
     "cat": "Sports",
@@ -216,15 +351,6 @@ const newsData_en = [
     "time": "2026-03-07T11:09:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Excluded voters can apply for enrolment till nomination deadline, says CEC Gyanesh Kumar",
-    "desc": "Gyanesh Kumar says such persons shall submit application in Form No 6 of ECI along with relevant documents and that any complaints regarding wrong inclusion of voters on list can challenged by submitting applications in Form 7",
-    "img": "https://th-i.thgim.com/public/incoming/oewxld/article70715441.ece/alternates/LANDSCAPE_1200/20260307009L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-excluded-voters-can-apply-for-enrolment-till-nomination-deadline-says-cec-gyanesh-kumar/article70715378.ece",
-    "time": "2026-03-07T11:07:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Date, time, performers and full details",
     "desc": "India and New Zealand are set to clash in the ICC Men's T20 World Cup 2026 final in Ahmedabad on Sunday. India, the defending champions, reached the final after a close semi-final win against England, while New Zealand dominated South Africa. This marks India's fourth final appearance and New Zealand's second, with both teams aiming for a significant title.",
@@ -232,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-closing-ceremony-date-time-performers-and-full-details/articleshow/129210458.cms",
     "time": "2026-03-07T11:04:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vivek Oberoi returns to Dubai, thanks airline company and UAE leadership",
-    "desc": "Actor Vivek Oberoi shared his heartfelt emotions as he safely landed in Dubai, expressing deep gratitude for the protective measures surrounding his return amidst rising US-Iran tensions. He praised Emirates airline and the UAE leaders for their commitment to passenger safety, relishing the joyous moments with his family and the comforting presence of his kids after a nerve-wracking journey.",
-    "img": "https://static.toiimg.com/photo/msid-129210315,imgsize-84664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vivek-oberoi-returns-to-dubai-thanks-airline-company-and-uae-leadership-amid-conflict-fears/articleshow/129210315.cms",
-    "time": "2026-03-07T11:01:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -378,24 +495,6 @@ const newsData_en = [
     "time": "2026-03-07T07:09:14.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "EXCLUSIVE",
-    "desc": "Aymeric Laporte says Athletic Bilbao are treating their La Liga clash with Barcelona 'like a final' as they aim to upset the league leaders at San Mames. The defender stressed defensive discipline against Barcelona’s possession game while reiterating Bilbao’s step-by-step approach this season in their push toward European qualification.",
-    "img": "https://static.toiimg.com/photo/msid-129199690,imgsize-127328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/exclusive-we-will-take-this-game-as-a-final-aymeric-laporte-on-barcelona-clash-in-la-liga/articleshow/129199692.cms",
-    "time": "2026-03-07T06:38:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shoaib Akhtar calls England player 'Goron ka Hardik Pandya'",
-    "desc": "Shoaib Akhtar praised Will Jacks after his all-round effort against India national cricket team in the T20 World Cup semifinal, calling him “Goron ka Hardik Pandya.” Jacks took two wickets, including Sanju Samson, and scored 35 runs. Despite his performance, England lost by seven runs as India advanced to the final.",
-    "img": "https://static.toiimg.com/photo/msid-129199706,imgsize-41574.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ex-pakistan-bowler-shoaib-akhtar-calls-england-player-goron-ka-hardik-pandya/articleshow/129199474.cms",
-    "time": "2026-03-07T06:36:58.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "TMC MPs likely to vote in favour of resolution",
     "desc": "Trinamool Congress MPs will now back the no-confidence motion against Lok Sabha Speaker Om Birla, a shift from their earlier stance, following party chief Mamata Banerjee's directive. This move intensifies the political battle as the Lok Sabha prepares to vote on March 9. Opposition parties accuse Birla of partisan conduct, jeopardizing the House's proper functioning and the rights of members.",
@@ -475,24 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/pakistani-man-with-ties-to-iran-convicted-for-plotting-to-kill-us-president-trump-other-american-leaders/article70714588.ece",
     "time": "2026-03-07T04:21:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NH users who fail to pay toll to get 3 days to make payment",
-    "desc": "Highway users failing to pay toll charges due to FASTag issues or insufficient balance will receive an e-notice. They will have three days to pay the exact toll, after which double the amount will be charged and vehicle-related services suspended. This measure is crucial for the upcoming multi-lane free flow tolling system.",
-    "img": "https://static.toiimg.com/photo/msid-129193661,imgsize-927629.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nh-users-who-fail-to-pay-toll-to-get-3-days-to-make-payment/articleshow/129193658.cms",
-    "time": "2026-03-07T03:55:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'This is humiliation': Congress slams PM Modi's 'deafening' silence over US 'permission' on Russian oil",
-    "desc": "Congress party has strongly criticized Prime Minister Narendra Modi. The party stated the US gave India 'permission' to buy Russian oil. This move is seen as a humiliation for India. Congress demands an explanation from the Prime Minister. The US Treasury Secretary confirmed the permission to ease global oil supplies.",
-    "img": "https://static.toiimg.com/photo/msid-129193355,imgsize-589540.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/this-is-humiliation-congress-slams-pm-modis-deafening-silence-over-us-permission-on-russian-oil/articleshow/129192703.cms",
-    "time": "2026-03-07T03:46:15.000Z"
   },
   {
     "cat": "Sports",
@@ -577,30 +658,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Oil company, lobby group seek security for ships",
-    "desc": "Shipping lobby and an oil company have requested security escorts for vessels navigating the Strait of Hormuz and suggested alternative ports like Yanbu to ensure uninterrupted energy and commodity flow. Companies also urged the government to waive demurrage charges for stuck cargo. The Indian Navy's role in ensuring maritime security was also discussed.",
-    "img": "https://static.toiimg.com/photo/msid-129189356,imgsize-85998.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/oil-company-lobby-group-seek-security-for-ships/articleshow/129189219.cms",
-    "time": "2026-03-07T01:49:33.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "IT's paradox: Many women in workforce, few rainmakers",
     "desc": "While women constitute a significant portion of the IT workforce, a notable gap persists in their representation among top dealmakers. However, a growing number of women leaders are now emerging as key figures driving multi-million and billion-dollar deals, reshaping the sector's traditional narrative.",
     "img": "https://static.toiimg.com/photo/msid-129189531,imgsize-174956.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/its-paradox-many-women-in-workforce-few-rainmakers/articleshow/129189077.cms",
     "time": "2026-03-07T01:45:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India's medical tech sector set to get 1st dedicated fund of 1,000 crore",
-    "desc": "India's medtech sector is poised for growth with the launch of MedArtha Capital, a Rs 1,000 crore fund. Spearheaded by industry veterans, it aims to back 10-12 high-growth companies, boosting 'Make in India' and reducing import reliance. The government may invest Rs 500 crore, supporting innovation in critical medical devices.",
-    "img": "https://static.toiimg.com/photo/msid-129188985,imgsize-157694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-medical-tech-sector-set-to-get-1st-dedicated-fund-of-1000-crore/articleshow/129188889.cms",
-    "time": "2026-03-07T01:39:52.000Z"
   },
   {
     "cat": "Business",
@@ -612,15 +675,6 @@ const newsData_en = [
     "time": "2026-03-07T01:39:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Equal work, equal pay' applies only within same institution: Madras high court",
-    "desc": "The Madras High Court ruled that the principle of equal pay for equal work applies only to employees within the same institution and under identical service conditions. The court clarified that comparisons cannot be made between employees of public sector undertakings and government departments due to differing service rules.",
-    "img": "https://static.toiimg.com/photo/msid-129188375,imgsize-77966.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/equal-work-equal-pay-applies-only-within-same-institution-madras-high-court/articleshow/129188281.cms",
-    "time": "2026-03-07T01:21:35.000Z"
-  },
-  {
     "cat": "World",
     "title": "Israel-Iran war updates",
     "desc": "Iranian Ship IRIS Lavan, crew, docked at Kochi days before IRIS Dena incident, says government sources; two days ago, Iranian warship IRIS Dena, returning from International Fleet Review in Visakhapatnam, was torpedoed by a U.S. submarine off Sri Lanka’s coast, killing 83 people",
@@ -628,24 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-israel-us-war-conflict-west-asia-march-6-2026/article70709958.ece",
     "time": "2026-03-07T01:08:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Saif recalls ‘no intimacy, no kissing’ policy with Kareena",
-    "desc": "Kunal Kemmu and Saif Ali Khan opened up about relationships, insecurity and marriage with actresses while speaking to Soha Ali Khan on her podcast. During the conversation, the two actors candidly discussed the misconceptions about being married to an actress and why setting “rules” in relationships may not work.",
-    "img": "https://static.toiimg.com/photo/msid-129179979,imgsize-55678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-recalls-experimenting-with-no-intimacy-no-kissing-policy-with-kareena-kapoor-khan-rules-never-work-in-relationships/articleshow/129179979.cms",
-    "time": "2026-03-06T22:17:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lilliput says SRK doesn’t have script sense like Aamir",
-    "desc": "Veteran actor-writer M M Faruqui, popularly known as Lilliput, recently shared his candid thoughts on superstar Shah Rukh Khan. During a new interaction, Lilliput reflected on SRK’s performance in Zero, questioned his script choices, and also explained why action-heavy films like Jawan don’t appeal to him.",
-    "img": "https://static.toiimg.com/photo/msid-129178164,imgsize-71350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lilliput-says-shah-rukh-khan-doesnt-have-script-sense-like-aamir-khan-clarifies-he-never-predicted-zero-box-office-failure/articleshow/129178164.cms",
-    "time": "2026-03-06T21:11:20.000Z"
   },
   {
     "cat": "Sports",
@@ -664,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/iranian-warship-strike-near-sri-lanka-raises-questions-for-india/article70713451.ece",
     "time": "2026-03-06T17:46:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Allu Sirish marries Nayanika Reddy; CM joins Allu–Konidela family",
-    "desc": "Actor Allu Sirish tied the knot with Nayanika Reddy in a grand wedding ceremony held in Hyderabad on Friday evening. In one of the first pictures from the celebrations, the newlyweds were seen posing together alongside A. Revanth Reddy, Allu Arjun and film producer Allu Aravind.",
-    "img": "https://static.toiimg.com/photo/msid-129166750,imgsize-91454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-sirish-marries-nayanika-reddy-in-hyderabad-telangana-cm-revanth-reddy-joins-allukonidela-family-in-the-first-picture/articleshow/129166750.cms",
-    "time": "2026-03-06T16:44:40.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-sunil-gavaskar-sanju-samsons-innings-was-one-of-the-finest-t20-knocks-we-have-seen/article70703763.ece",
     "time": "2026-03-04T13:41:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bejoy Nambiar Interview: Why I never watched the original",
-    "desc": "In this episode of Inside Man, Sudhish Kamath sits down with filmmaker Bejoy Nambiar, director of Tu Yaa Main, for a candid conversation about finding — and defending — your creative voice. After years of being labelled “style over substance,” Bejoy opens up about how he battled the tag, why he has finally made peace with it, and how Tu Yaa Main — his best reviewed film yet — shifted that narrative.",
-    "img": "https://th-i.thgim.com/public/incoming/ar6ov1/article70702687.ece/alternates/LANDSCAPE_1200/05_Bejoy_Nambiar.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-bejoy-nambiar-interview-why-i-never-watched-the-original/article70702688.ece",
-    "time": "2026-03-04T08:40:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "From Tezaab to Subedar: Suresh Triveni’s Full Circle with Anil Kapoor",
-    "desc": "In this episode of Inside Man, Sudhish Kamath sits down with filmmaker Suresh Triveni — director of Subedar (releasing March 5), showrunner of Daldal on Prime Video, and the upcoming Netflix film Maa Behn starring Madhuri Dixit and Tripti Dimri. Before Tumhari Sulu, Suresh waited nearly eight years to make his breakthrough film. Since then, he went on to direct Jalsa — and now finds himself with three major releases in a single year.",
-    "img": "https://th-i.thgim.com/public/incoming/fm34ox/article70702483.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20at%2012.21.44%E2%80%AFPM.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-from-tezaab-to-subedar-suresh-trivenis-full-circle-with-anil-kapoor/article70702461.ece",
-    "time": "2026-03-04T06:56:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘One Piece’ creator Eiichiro Oda hides series’ biggest secret under the ocean as manga hits 600 million copies",
-    "desc": "In a special project revealed through an official video, Oda wrote down the answer to the central question of the story — the nature of the legendary treasure known as One Piece — for the first time",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/hcqtey/article70702256.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20111111.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/one-piece-creator-eiichiro-oda-hides-series-biggest-secret-under-the-ocean-as-manga-hits-600-million-copies/article70702244.ece",
-    "time": "2026-03-04T05:43:50.000Z"
   }
 ];
