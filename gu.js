@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "રશિયન ઓઈલની ખરીદી પર છૂટ આપવાના અમેરિકાના દાવા પર ભારતે કર્યો જોરદાર પલટવાર",
+    "desc": "હોર્મુઝ જળમાર્ગ ઈરાને બંધ કરતા ઊભા થયેલા ક્રૂડ ઓઈલ અને ગેસના પડકાર પર અમેરિકાએ જાણે ઉપકાર કરતું હોય તે રીતે ભારતને 30 દિવસ સુધી રશિયન ઓઈલ ખરીદવા માટે છૂટ આપી હોવાનો દાવો કરતા ભારતે હવે પલટવાર કરીને અમેરિકાને જડબાતોડ જવાબ આપ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/indias-befitting-reply-to-america-over-russian-oil-purchase-iran-israel-war-467569 ",
+    "time": "2026-03-07T12:40:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અમદાવાદમાં ટીમ ઈન્ડિયાને ફાયદો મળે તેવી પિચ થઈ રહી છે તૈયાર? ફાઇનલ પહેલા શોકિંગ ખુલાસો",
+    "desc": "ટી20 વિશ્વકપ 2026ના ફાઈનલ પહેલા અમદાવાદ નરેન્દ્ર મોદી સ્ટેડિયમની પિચને લઈને મોટો ખુલાસો થયો છે. રિપોર્ટ્સ પ્રમાણે ફાઇનલમાં લાલ અને કાળી માટીની મિક્સ્ડ પિચ તૈયાર કરવામાં આવી રહી છે, જે ભારતીય બેટરોને ફાયદો પહોંચાડી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-final-india-vs-new-zealand-pitch-being-prepared-in-ahmedabad-to-benefit-team-india-467566 ",
+    "time": "2026-03-07T11:54:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ન્યૂઝીલેન્ડની ટીમ આ ભારતીય ખેલાડીથી ખૌફ ખાય છે? કેપ્ટન સેન્ટનરે ગણાવી દીધો ગેમ ચેન્જર",
+    "desc": "ટી20 વર્લ્ડ કપ 2026નો રોમાંચ પરાકાષ્ઠાએ પહોંચી ગયો છે. હવે આવતી કાલે 8મી માર્ચે નરેન્દ્ર મોદી સ્ટેડિયમમાં ન્યૂઝીલેન્ડ અને ભારત વચ્ચે ફાઈનલ રમાશે. પરંતુ તે પહેલા ન્યૂઝીલેન્ડના કેપ્ટને એક મહત્વનું નિવેદન આપ્યું. જાણો કયા ભારતીય ખેલાડીને ગેમચેન્જર ગણાવ્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/mitchell-santner-big-statement-for-jasprit-bumrah-also-speaks-on-varun-chakravarthy-467544 ",
+    "time": "2026-03-07T10:22:02.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "રાજ્યસભાના સૌથી ગરીબ ઉમેદવાર છે નીતીશ કુમાર; બસ આટલા કરોડના માલિક, જાણો કેટલી છે સંપત્તિ",
     "desc": "બિહારના રાજકારણમાં અચાનક મોટો બદલાવ આવ્યો છે. બિહારમાં લાંબા સમય સુધી મુખ્યમંત્રી રહેલા નીતીશ કુમારના યુગનો હવે અંત આવી રહ્યો છે. તેમણે મુખ્યમંત્રી પદેથી રાજીનામું આપી દીધું છે અને હવે તેઓ રાજ્યસભામાં જઈ રહ્યા છે. NDA ગઠબંધન તરફથી તેમને રાજ્યસભાના ઉમેદવાર બનાવવામાં આવ્યા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/nitish-kumar-turns-out-to-be-the-poorest-rajya-sabha-candidate-with-only-this-much-wealth-467519 ",
-    "time": "2026-03-07T09:24:28.000Z"
+    "time": "2026-03-07T09:31:29.000Z"
   },
   {
     "cat": "Sports",
@@ -342,15 +369,6 @@ const newsData_gu = [
     "time": "2026-03-06T04:47:12.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ભારત માટે આ ઓવર હતી ટર્નિગ પોઈન્ટ, કોણ ખેચીને લાવ્યું જીત ? સુર્યકુમાર યાદવે કર્યો ખુલાસો",
-    "desc": "ભારતે વાનખેડે સ્ટેડિયમ ખાતે T20 વર્લ્ડ કપ 2026ની સેમિફાઇનલમાં ઇંગ્લેન્ડને હરાવીને ફાઇનલમાં પ્રવેશ કર્યો. ભારતની આગામી મેચ અમદાવાદમાં 8 માર્ચના રોજ રમાશે, ભારત ન્યુઝીલેન્ડ સામે ફાઈનલ મેચ રમશે. સાંજે 7 વાગ્યે આ મુકાબલો શરૂ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/this-over-was-the-turning-point-for-india-who-pulled-it-off-and-brought-victory-suryakumar-yadav-reveals-467385 ",
-    "time": "2026-03-06T04:01:20.000Z"
-  },
-  {
     "cat": "World",
     "title": "રશિયન તેલ ખરીદી શકે છે ભારત, જેણે ના પાડી હતી, તે અમેરિકાએ જ આપી છૂટ, જાણો કારણ",
     "desc": "ગુરુવારે ખાનગી પોર્ટલ સાથે વાત કરતા, બે વરિષ્ઠ અમેરિકી અધિકારીઓએ જણાવ્યું હતું કે યુએસ સરકારે 30 દિવસની કામચલાઉ છૂટ આપવાનો નિર્ણય લીધો છે. ભારત હવે 30 દિવસ સુધી રશિયા પાસેથી તેલની ખરીદી કરી શકે છે.",
@@ -358,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/india-can-buy-russian-oil-america-has-given-permission-know-the-reason-467374 ",
     "time": "2026-03-06T02:59:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપની કેવી રીતે થઈ શરૂઆત ? ઇંગ્લેન્ડ સાથે છે ખાસ કનેક્શન, જાણો કોણે જીત્યો હતો પહેલો ખિતાબ",
-    "desc": "T20 વર્લ્ડ કપની શરૂઆત 2007માં થઈ હતી. પહેલી સિઝનમાં કુલ 12 ટીમોએ ભાગ લીધો હતો. શું તમે જાણો છો કે T20 વર્લ્ડ કપ કેવી રીતે શરૂ થયો હતો અને ઈંગ્લેન્ડ ક્રિકેટ બોર્ડ સાથે તેનું શું કનેક્શન છે, ત્યારે આ લેખમાં T20 વર્લ્ડ કપ શરૂ થવા પાછળની કહાની વિશે જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-history-know-when-and-how-this-tournament-started-467324 ",
-    "time": "2026-03-06T01:30:01.000Z"
   },
   {
     "cat": "Politics",
@@ -565,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/ola-electric-bike-becomes-cheaper-than-super-splendor-467139 ",
     "time": "2026-03-04T07:43:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આઠમાં પગાર પંચ હેઠળ તબીબી ભથ્થામાં થશે મોટો વધારો! 1,000થી 20,000 રૂપિયા કરવાનો પ્રસ્તાવ",
-    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ કાગડોળે આઠમાં પગાર પંચની ભલામણો આવવાની રાહ જોઈને બેઠા છે. જેમાં પગાર ઉપરાંત ભથ્થાઓમાં પણ મોટો સુધારો અપેક્ષિત છે. ફિક્સ્ડ મેડિકલ અલાઉન્સ (FMA)માં પણ બંપર વધારાનો પ્રસ્તાવ મૂકાયો છે. જો સ્વીકારવામાં આવે તો કર્મચારીઓને મોટો ફાયદો થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-latest-update-proposal-to-increase-fixed-medical-allowance-467114 ",
-    "time": "2026-03-04T04:46:29.000Z"
   },
   {
     "cat": "Entertainment",

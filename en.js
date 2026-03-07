@@ -1,12 +1,219 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "'I'm very sad': President Murmu objects to Mamata govt allotting smaller venue for Santhal event",
+    "desc": "The President said she was very sad about the last minute change in the venue and also pointed out how chief minister Mamata Banerjee chose not to meet her, which is against the set norm. Murmu on Saturday said the contributions of the Santals to the country's freedom struggle have not received due recognition, and asserted that the names of several legends belonging to the community were \"not deliberately included in history\".",
+    "img": "https://static.toiimg.com/photo/msid-129213534,imgsize-35406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/im-very-sad-president-murmu-objects-to-mamata-govt-allotting-smaller-venue-for-santhal-event/articleshow/129211828.cms",
+    "time": "2026-03-07T12:09:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shabana Azmi says she will ask Javed Akhtar to write her dream role",
+    "desc": "Veteran actress Shabana Azmi, despite a celebrated career, yearns for a dream role. She revealed she'd playfully \"hold her husband’s collar\" to get it written. Azmi remains driven by a passion for fresh challenges, constantly seeking new dimensions and learning, emphasizing her ongoing curiosity and dedication to her craft over past achievements.",
+    "img": "https://static.toiimg.com/photo/msid-129212056,imgsize-159966.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/will-hold-my-husbands-collar-and-shabana-azmi-says-she-will-ask-javed-akhtar-to-write-her-dream-role/articleshow/129212056.cms",
+    "time": "2026-03-07T12:04:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Former rapper Balendra Shah’s Rastriya Swatantra Party heading towards landslide victory in Nepal",
+    "desc": "The RSP, which was formed in 2022 by Ravi Lamichhane, has won 39 of the 50 seats declared so far, including a clean sweep in 10 constituencies of Kathmandu district, and is leading in 80 others, says the EC",
+    "img": "https://th-i.thgim.com/public/incoming/o0zw5v/article70714604.ece/alternates/LANDSCAPE_1200/PTI03_05_2026_000219A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/nepal-election-2026-results-forerunner-balendra-shah-gen-z-protests/article70714599.ece",
+    "time": "2026-03-07T11:54:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Chokers tag is yours': Steyn fires bold shot at New Zealand before final vs India",
+    "desc": "Dale Steyn has controversially suggested New Zealand could inherit the 'chokers' tag if they lose the T20 World Cup 2026 final to India. The former Proteas bowler pointed to New Zealand's repeated near misses in ICC finals, stating they must win to avoid this label. Steyn believes India holds a significant advantage in Ahmedabad.",
+    "img": "https://static.toiimg.com/photo/msid-129212146,imgsize-149358.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/chokers-tag-is-yours-dale-steyn-fires-bold-shot-at-new-zealand-before-final-vs-india/articleshow/129212160.cms",
+    "time": "2026-03-07T11:38:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika Mandanna wins Best Actress Award for ‘The Girlfriend’",
+    "desc": "Actress Rashmika Mandanna is celebrating a joyous period, having recently married Vijay Deverakonda and now winning the Telangana Best Actress Award for 'The Girlfriend.' This recognition, announced by director Rahul Ravindran, adds to her happiness following her successful career spanning Kannada, Telugu, Tamil, and Hindi cinema. Her affectionate response to young fans further highlights her warm personality.",
+    "img": "https://static.toiimg.com/photo/msid-129211938,imgsize-205478.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-wins-telangana-best-actress-award-for-the-girlfriend-following-wedding-to-vijay-deverakonda/articleshow/129211938.cms",
+    "time": "2026-03-07T11:37:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yami Gautam REACTS to trailer of 'Dhurandhar 2'",
+    "desc": "The Revenge' trailer. Yami Gautam has hailed this espionage thriller as a must-see, ensuring an exhilarating cinematic journey. Esteemed colleagues like Alia Bhatt and Hrithik Roshan echo her sentiments, praising the trailer's gripping energy. Read the full article to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129211824,imgsize-127828.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yami-gautam-reacts-to-trailer-of-dhurandhar-the-revenge-starring-ranveer-singh-says-ladies-and-gentlemen-/articleshow/129211824.cms",
+    "time": "2026-03-07T11:35:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celina Jaitly reflects on grief and home in emotional Holi post",
+    "desc": "Actress Celina Jaitly took to social media to reflect on the bittersweet nature of Holi, unveiling her sadness and nostalgia for a past life that feels distant. As she navigates life in a foreign land, she grapples with overwhelming emotions stemming from loss, including cherished memories of family and heritage.",
+    "img": "https://static.toiimg.com/photo/msid-129210835,imgsize-134250.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-reflects-on-grief-and-home-in-emotional-holi-post-after-life-changed-dramatically/articleshow/129210835.cms",
+    "time": "2026-03-07T11:12:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pawan Kalyan takes a pay cut for ‘Ustaad Bhagat Singh’",
+    "desc": "Pawan Kalyan has reportedly taken a pay cut for 'Ustaad Bhagat Singh,' accepting around Rs 25 crore to support the makers amidst production delays. The actor prioritized the producers recovering their investments, suggesting a profit-sharing model instead of demanding higher remuneration. This gesture has fueled positive buzz for the film, set to clash with 'Dhurandhar- The Revenge' on March 19.",
+    "img": "https://static.toiimg.com/photo/msid-129210718,imgsize-196100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/pawan-kalyan-takes-a-pay-cut-for-ustaad-bhagat-singh-the-film-to-clash-with-dhurandhar-the-revenge/articleshow/129210718.cms",
+    "time": "2026-03-07T11:09:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Excluded voters can apply for enrolment till nomination deadline, says CEC Gyanesh Kumar",
+    "desc": "Gyanesh Kumar says such persons shall submit application in Form No 6 of ECI along with relevant documents and that any complaints regarding wrong inclusion of voters on list can challenged by submitting applications in Form 7",
+    "img": "https://th-i.thgim.com/public/incoming/oewxld/article70715441.ece/alternates/LANDSCAPE_1200/20260307009L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-excluded-voters-can-apply-for-enrolment-till-nomination-deadline-says-cec-gyanesh-kumar/article70715378.ece",
+    "time": "2026-03-07T11:07:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Date, time, performers and full details",
+    "desc": "India and New Zealand are set to clash in the ICC Men's T20 World Cup 2026 final in Ahmedabad on Sunday. India, the defending champions, reached the final after a close semi-final win against England, while New Zealand dominated South Africa. This marks India's fourth final appearance and New Zealand's second, with both teams aiming for a significant title.",
+    "img": "https://static.toiimg.com/photo/msid-129210591,imgsize-1140431.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-closing-ceremony-date-time-performers-and-full-details/articleshow/129210458.cms",
+    "time": "2026-03-07T11:04:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vivek Oberoi returns to Dubai, thanks airline company and UAE leadership",
+    "desc": "Actor Vivek Oberoi shared his heartfelt emotions as he safely landed in Dubai, expressing deep gratitude for the protective measures surrounding his return amidst rising US-Iran tensions. He praised Emirates airline and the UAE leaders for their commitment to passenger safety, relishing the joyous moments with his family and the comforting presence of his kids after a nerve-wracking journey.",
+    "img": "https://static.toiimg.com/photo/msid-129210315,imgsize-84664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vivek-oberoi-returns-to-dubai-thanks-airline-company-and-uae-leadership-amid-conflict-fears/articleshow/129210315.cms",
+    "time": "2026-03-07T11:01:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kiara roped in to play Madhubala in biopic? Know the truth",
+    "desc": "Despite earlier rumors suggesting otherwise, Kiara Advani has not been cast in the Madhubala biopic from Sanjay Leela Bhansali. The production house has swiftly refuted these claims, describing them as entirely untrue. Set to be helmed by Jasmeet K. Reen, this film seeks to celebrate the extraordinary journey of Madhubala, an icon of the silver screen. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129210291,imgsize-83852.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kiara-advani-roped-in-to-play-madhubala-in-the-biopic-backed-by-sanjay-leela-bhansali-heres-the-truth/articleshow/129210291.cms",
+    "time": "2026-03-07T10:58:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Our goal is to silence the crowd': NZ captain Santner ahead of T20 WC final",
+    "desc": "New Zealand, the good boys of cricket, are ready to take the big boys, India, on in their own backyard at the Narendra Modi Stadium in Ahmedabad. The crowd, noise and burden of expectations will be a challenge, and Kiwis are ready to embrace it.",
+    "img": "https://static.toiimg.com/photo/msid-129209871,imgsize-94412.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pressure-on-india-to-win-t20-world-cup-at-home-our-goal-is-to-silence-the-crowd-mitchell-santner/articleshow/129209577.cms",
+    "time": "2026-03-07T10:52:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kanye West appears to nod off in USD 1 million Malibu mansion court trial",
+    "desc": "Ye, previously recognized as Kanye West, took the stand in a Malibu mansion trial and appeared noticeably sluggish and vague. During his testimony, he frequently stated that he couldn’t remember important aspects of contractor Tony Saxon’s contributions, prompting concerns over his concentration.",
+    "img": "https://static.toiimg.com/photo/msid-129208913,imgsize-442926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/kanye-west-appears-to-nod-off-in-usd-1-million-malibu-mansion-court-trial/articleshow/129208913.cms",
+    "time": "2026-03-07T10:25:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "International Women’s Day: Meet a few certified women snake rescuers from Kerala",
+    "desc": "SARPA, an initiative of the Department of Forests, Government of Kerala, has been training volunteers to rescue snakes. Among these are 140-odd women; as International Women’s Day falls on March 8 we speak to some of them",
+    "img": "https://th-i.thgim.com/public/incoming/vry8qi/article70702625.ece/alternates/LANDSCAPE_1200/05tvm%20vidya.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/society/women-snake-rescuers-trained-by-sarpa/article70702232.ece",
+    "time": "2026-03-07T10:21:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will rain affect the Ahmedabad clash?",
+    "desc": "The T20 World Cup final between India national cricket team and New Zealand national cricket team in Ahmedabad is unlikely to be affected by rain, as clear skies are forecast. If weather disrupts play, ICC rules allow extra time and a reserve day. Should the match still remain incomplete, both teams will share the trophy. Temperatures may be hot during the day but cooler at night.",
+    "img": "https://static.toiimg.com/photo/msid-129208752,imgsize-257060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-nz-t20-world-cup-final-weather-report-will-rain-affect-the-ahmedabad-clash/articleshow/129207732.cms",
+    "time": "2026-03-07T10:18:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Bangladesh voted against radical Islamists; has hopes for Tarique Rahman: Taslima Nasrin",
+    "desc": "The BNP, led by Tarique Rahman, won a decisive mandate in February 2026, winning 209 of the 298 seats; its allies picked up another three seats, giving the block a clear majority in the 299-member Jatiya Sansad",
+    "img": "https://th-i.thgim.com/public/incoming/abbo9w/article70715353.ece/alternates/LANDSCAPE_1200/NH09TaslimaNasrin007.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/bangladesh-voted-against-radical-islamists-has-hopes-for-tarique-rahman-taslima-nasrin/article70715351.ece",
+    "time": "2026-03-07T10:11:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Monsters Inc. 3’ joins new slate with ‘Ono Ghost Market’ and first musical",
+    "desc": "Hold onto your seats for a rollercoaster of giggles and goosebumps! The beloved 'Monsters Inc.' franchise is adding a third film to its roster, alongside a bevy of original projects and highly-anticipated sequels like 'Toy Story 5' and 'The Incredibles 3'.",
+    "img": "https://static.toiimg.com/photo/msid-129208410,imgsize-137490.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/monsters-inc-3-joins-new-slate-with-ono-ghost-market-and-first-musical/articleshow/129208410.cms",
+    "time": "2026-03-07T10:10:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Clutch is Hardik Pandya': All-rounder credits calm mindset for Bethell runout",
+    "desc": "Pandya’s direct throw at the striker’s end in the final over of England’s chase ended Bethell’s innings of 102. After the dismissal, the 32-year-old reacted with an animated celebration and tried to lift the team’s energy. Pandya later said the reaction came because his son Agastya and girlfriend Mahieka Sharma were watching the match from the stands, and he wanted them to experience his emotions at that moment.",
+    "img": "https://static.toiimg.com/photo/msid-129208201,imgsize-39642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/clutch-is-hardik-pandya-all-rounder-credits-calm-mindset-for-bethell-runout-in-semifinal/articleshow/129207714.cms",
+    "time": "2026-03-07T10:09:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saif reveals telling Ibrahim 'You do this on your own'",
+    "desc": "Saif Ali Khan critiques the dynamics of nepotism in Bollywood, particularly how it can overshadow genuine talent. He encourages his son Ibrahim to step away from his family's shadow and carve out his niche, capitalizing on the opportunities afforded to him. Although Ibrahim's previous digital releases didn’t resonate with audiences, he remains hopeful with an upcoming film on the horizon. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129207508,imgsize-166336.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-reveals-telling-his-son-ibrahim-ali-khan-you-need-to-do-this-on-your-own/articleshow/129207508.cms",
+    "time": "2026-03-07T09:49:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Give him a break': Ex-India batter urges India to drop Abhishek for final",
+    "desc": "Former India batter Mohammad Kaif proposes a significant change for the T20 World Cup 2026 final. He believes out-of-form opener Abhishek Sharma should be rested for the summit clash against New Zealand. Kaif suggests Rinku Singh as a replacement, highlighting his consistent performances across formats. He also contrasts Sharma's inexperience in ICC events with Sanju Samson's established status.",
+    "img": "https://static.toiimg.com/photo/msid-129207253,imgsize-94334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/give-him-a-break-ex-india-batter-urges-india-to-drop-abhishek-sharma-for-t20-world-cup-final/articleshow/129207319.cms",
+    "time": "2026-03-07T09:41:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "AL Vijay reveals an UNTOLD story behind Time To Lead in Thalaivaa",
+    "desc": "Filmmaker A. L. Vijay has revealed that producer Chandraprakash Jain, not himself, added the controversial 'Time To Lead' tagline to the 2013 film 'Thalaivaa.' Vijay clarified that the movie was intended to be about community leadership and relationships, not a political statement. Despite release issues, the film achieved a solid box office performance.",
+    "img": "https://static.toiimg.com/photo/msid-129206481,imgsize-83474.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/who-added-the-time-to-lead-tagline-in-thalaivaa-al-vijay-reveals-an-untold-story-behind-the-thalapathy-vijay-starrer/articleshow/129206481.cms",
+    "time": "2026-03-07T09:21:42.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "West Bengal CM Mamata Banerjee calls for protests on LPG price hike",
     "desc": "Speaking about the BJP led government at the Centre, she said that the Union government is relying on the support of N Chandrababu Naidu and threatened to overthrow the government at the Centre if genuine electors are removed from voter list",
     "img": "https://th-i.thgim.com/public/incoming/vhoyvc/article70715170.ece/alternates/LANDSCAPE_1200/Panel-2_GMKFMA8R0.1GMKFMALEV.3.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-mamata-banerjee-calls-for-protests-on-lpg-price-hike/article70715152.ece",
     "time": "2026-03-07T09:08:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US-Israel conflict with Iran: Is India exploring alternative energy options amid crisis?",
+    "desc": "Amidst Middle East geopolitical tensions, India is bolstering energy security by exploring alternative sources, with Australia and Canada offering additional gas supplies. The nation's diversified import routes, with only 40% of crude passing through the Strait of Hormuz, ensure stable energy availability despite disruptions.",
+    "img": "https://static.toiimg.com/photo/msid-129207586,imgsize-39158.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/us-israel-conflict-with-iran-is-india-exploring-alternative-energy-options-amid-crisis/articleshow/129205999.cms",
+    "time": "2026-03-07T09:06:40.000Z"
   },
   {
     "cat": "Entertainment",
@@ -27,60 +234,6 @@ const newsData_en = [
     "time": "2026-03-07T09:02:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ashley McBryde gets emotional on her rehab journey",
-    "desc": "In a heartfelt revelation, country music sensation Ashley McBryde opened up about her battle with alcoholism. She vividly recounted a staggering morning when she woke up disoriented in the home of a fellow artist, triggering a pivotal intervention from her team that ultimately guided her to rehab in 2022.",
-    "img": "https://static.toiimg.com/photo/msid-129205643,imgsize-97006.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ashley-mcbryde-gets-emotional-as-she-opens-up-on-her-rehab-journey-i-was-going-to-die/articleshow/129205643.cms",
-    "time": "2026-03-07T08:59:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Christina Applegate talks about her crush on Johnny Depp",
-    "desc": "Hollywood star Christina Applegate has revealed a long-held teenage crush on Johnny Depp in her memoir. The \"Dead to Me\" actress detailed her \"madly in love\" feelings for Depp while guest-starring on \"21 Jump Street\" at age 15. She noted that while she was smitten, Depp always treated her professionally, viewing her as \"one of the guys.\"",
-    "img": "https://static.toiimg.com/photo/msid-129205405,imgsize-87386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/christina-applegate-says-she-was-madly-in-love-recalls-working-with-johnny-depp/articleshow/129205405.cms",
-    "time": "2026-03-07T08:55:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘War Machine’ on OTT: Plot, cast, and where to stream",
-    "desc": "Patrick Hughes' 'War Machine,' a sci-fi action thriller, is now streaming on Netflix. The film follows elite US Army Rangers on a routine exercise that turns into a desperate fight for survival against a mysterious, powerful machine. Starring Alan Ritchson and Dennis Quaid, it blends gritty combat with futuristic chaos, emphasizing teamwork and nerve.",
-    "img": "https://static.toiimg.com/photo/msid-129204157,imgsize-165166.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/war-machine-on-ott-plot-cast-and-where-to-stream-the-patrick-hughes-sci-fi-action-thriller/articleshow/129204074.cms",
-    "time": "2026-03-07T08:48:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Meghan Markle’s product line moves on as streaming company ends partnership",
-    "desc": "After wrapping up her Netflix show, 'With Love, Meghan,' Meghan Markle is setting sail on her lifestyle brand’s journey independently. With the partnership with Netflix officially over, she’s ready to embrace new horizons for her product line, all while still being actively involved in other entertainment initiatives with Prince Harry by her side.",
-    "img": "https://static.toiimg.com/photo/msid-129205088,imgsize-113056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/meghan-markles-product-line-moves-on-as-streaming-company-ends-partnership-after-with-love-meghan/articleshow/129205088.cms",
-    "time": "2026-03-07T08:45:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Alan Ritchson’s ‘War Machine’s X reviews online",
-    "desc": "Alan Ritchson's sci-fi film 'War Machine' is generating significant buzz online, with audiences praising its intense action and Ritchson's performance. The movie, now available on OTT, follows special ops recruits facing an extraterrestrial threat during a training exercise. Critics highlight its unsettling premise and thought-provoking commentary on modern warfare.",
-    "img": "https://static.toiimg.com/photo/msid-129204654,imgsize-38816.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/war-machine-x-reviews-fans-rave-about-the-new-action-sci-fi-film-this-has-to-be-the-most-intense-movie/articleshow/129204654.cms",
-    "time": "2026-03-07T08:34:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ed Sheeran performs ‘Castle on the Hill’ with Maisie Peters",
-    "desc": "Pop sensation Maisie Peters surprised Melbourne fans by bringing out Ed Sheeran for a powerful duet of 'Castle on the Hill'. The March 4, 2026, performance at The Forum Theatre marked a full-circle moment for Peters, who previously opened for Sheeran.",
-    "img": "https://static.toiimg.com/photo/msid-129204006,imgsize-72806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ed-sheeran-gives-fans-a-surprise-performance-joins-maisie-peters-onstage-for-castle-on-the-hill-duet/articleshow/129203936.cms",
-    "time": "2026-03-07T08:29:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Can Surya do what Dhoni, Kohli couldn't? This T20 WC stat vs NZ may worry India",
     "desc": "India faces New Zealand in the T20 World Cup final, aiming to defend their title and become three-time champions. Despite a previous loss to South Africa, India reached the final after a strong semi-final win. New Zealand, however, holds a perfect 3-0 record against India in T20 World Cups, seeking their maiden title.",
@@ -90,15 +243,6 @@ const newsData_en = [
     "time": "2026-03-07T08:29:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Paris Jackson files new opposition brief in her case against Michael Jackson’s estate",
-    "desc": "In a spirited response to her late father Michael Jackson's estate, Paris Jackson has lodged a legal brief contesting the estate's demand for a hefty $115,000 in legal fees. Her legal representatives emphasize that this motion not only squanders valuable resources but has also contributed to unnecessary setbacks in her ongoing claims regarding the mismanagement of funds.",
-    "img": "https://static.toiimg.com/photo/msid-129202648,imgsize-72390.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/paris-jackson-files-new-opposition-brief-against-michael-jacksons-estate-calls-latest-motion-a-waste-of-resources/articleshow/129202648.cms",
-    "time": "2026-03-07T08:12:17.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Gone in a flash fire",
     "desc": "An explosion at a firecracker manufacturing unit in Vetlapalem village of Kakinada district, Andhra Pradesh, claimed 28 workers’ lives, including eight women. Preliminary investigations reveal that the unit’s owners had allegedly stored explosive materials far beyond the permitted limit and engaged 31 workers, nearly four times the number allowed under licence, in a bid to fulfil festival and wedding orders, reports T. Appala Naidu",
@@ -106,24 +250,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-firecracker-unit-blast-gone-in-a-flash-fire/article70712891.ece",
     "time": "2026-03-07T08:09:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Beach Boys’ Bruce Johnston steps down from touring",
-    "desc": "Bruce Johnston, the legendary figure behind The Beach Boys for more than 60 years, has announced his retirement from touring at the age of 83. Choosing to dedicate his time to songwriting and innovative projects, he remains a vital part of the band's heritage.",
-    "img": "https://static.toiimg.com/photo/msid-129203566,imgsize-141008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/the-beach-boys-bruce-johnston-announces-end-of-touring-after-61-years-but-with-a-twist-this-isnt-goodbye/articleshow/129203489.cms",
-    "time": "2026-03-07T08:06:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hrithik Roshan REACTS to 'Dhurandhar The Revenge trailer'",
-    "desc": "The Revenge' has struck a chord with viewers! With Aditya Dhar at the helm, Ranveer Singh delivers an electrifying performance, all set to the backdrop of Shashwat Sachdev's captivating score. Even superstar Hrithik Roshan couldn't resist raving about it, proclaiming it 'Absolutely phenomenal. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129202811,imgsize-80662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-reacts-to-dhurandhar-the-revenge-trailer-calls-it-too-good-after-disagreeing-with-politics-of-part-1/articleshow/129202811.cms",
-    "time": "2026-03-07T07:58:11.000Z"
   },
   {
     "cat": "Politics",
@@ -138,19 +264,19 @@ const newsData_en = [
     "cat": "Sports",
     "title": "Security concerns force England women to shift Abu Dhabi camp to South Africa",
     "desc": "Around 30 players will instead assemble in Pretoria for a preparatory camp, where they will be divided into two squads of 15 each for a five-match intra squad series scheduled between March 10 and 27",
-    "img": "https://th-i.thgim.com/public/incoming/7u6b5g/article70715100.ece/alternates/LANDSCAPE_1200/HCuTUELWsAAZyh9.jpg",
+    "img": "https://th-i.thgim.com/public/incoming/35nx8j/article70715100.ece/alternates/LANDSCAPE_1200/HCuTUELWsAAZyh9.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/security-concerns-force-england-women-to-shift-abu-dhabi-camp-to-south-africa/article70715051.ece",
     "time": "2026-03-07T07:39:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kevin Federline issues a statement about Britney Spears’ arrest",
-    "desc": "Britney Spears' recent DUI arrest in California has sparked reactions from those close to her. Ex-husband Kevin Federline expressed hope for her well-being and offered assistance if needed, questioning if this is a recurring issue. Sam Asghari, another former partner, urged for privacy for Spears, hoping the press has learned from past experiences.",
-    "img": "https://static.toiimg.com/photo/msid-129201956,imgsize-82778.cms",
+    "cat": "Politics",
+    "title": "'Wanted to come into our port': EAM Jaishankar on India's rescue of Iranian ships",
+    "desc": "External Affairs Minister S Jaishankar stated that India granted permission for an Iranian warship facing difficulties to dock in Kochi, guided by humanitarian principles. He noted that another Iranian vessel, IRIS Dena, was caught on the \"wrong side of events\" near Sri Lanka and was subsequently sunk by the US Navy.",
+    "img": "https://static.toiimg.com/photo/msid-129202217,imgsize-29876.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/kevin-federline-addresses-ex-britney-spears-dui-arrest-says-he-hopes-for-the-best-for-her/articleshow/129201956.cms",
-    "time": "2026-03-07T07:34:39.000Z"
+    "url": "https://timesofindia.indiatimes.com/india/wanted-to-come-into-our-port-eam-jaishankar-on-indias-rescue-of-iranian-ships/articleshow/129200921.cms",
+    "time": "2026-03-07T07:32:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -160,33 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-trailer-release-watch-these-7-ranveer-singh-movies-on-netflix-before-the-sequel-hits-the-theatre/photostory/129200090.cms",
     "time": "2026-03-07T07:23:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who taught Michael Jackson the iconic Moonwalk?",
-    "desc": "Michael Jackson's iconic moonwalk wasn't his invention. His brother Marlon revealed an eight-year-old nephew first demonstrated the move, then known as the 'backwards slide.' Jeffrey Daniel of Shalamar further refined it and taught Michael, who then renamed it the moonwalk, solidifying its place in pop culture history.",
-    "img": "https://static.toiimg.com/photo/msid-129201795,imgsize-175244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/michael-jacksons-moonwalk-do-you-know-that-an-8-year-old-taught-him-the-iconic-step/articleshow/129201709.cms",
-    "time": "2026-03-07T07:23:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2': Decoding trailer of Ranveer's film",
-    "desc": "The Revenge' has just hit the screens, igniting excitement among film lovers everywhere! This time around, Ranveer Singh's portrayal of Sher-e-Baloch is bound to captivate, unveiling rich character interactions and a freshly reimagined mantra that sets the stage for a gripping sequel. Read the full article to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129201410,imgsize-69086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-the-revenge-decoding-the-trailer-of-the-ranveer-singh-led-espionage-thriller/articleshow/129201410.cms",
-    "time": "2026-03-07T07:22:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Clooneys seek privacy for twins; plan new life in French countryside",
-    "desc": "Leaving behind the hustle of Hollywood, George and Amal Clooney are charting a refreshing new course toward Brignoles in the French countryside. As they prepare to welcome a quieter life with their delightful eight-year-old twins, the couple yearns for a haven away from the incessant paparazzi.",
-    "img": "https://static.toiimg.com/photo/msid-129201509,imgsize-151018.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/george-clooney-and-amal-clooney-plan-move-to-french-countryside-for-quieter-family-life-with-twins/articleshow/129201509.cms",
-    "time": "2026-03-07T07:20:24.000Z"
   },
   {
     "cat": "Sports",
@@ -216,24 +315,6 @@ const newsData_en = [
     "time": "2026-03-07T06:36:58.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "New York City Opera hits back at Timothée Chalamet’s comment",
-    "desc": "Responding to Timothée Chalamet's critique that opera is fading from public interest, New York City Opera has released an inspiring video that highlights the heart and soul poured into every production. Featuring behind-the-scenes footage of talented artisans at work and spirited crowds reveling in the performances, this initiative serves as a powerful reminder of opera's enduring charm and cultural significance.",
-    "img": "https://static.toiimg.com/photo/msid-129199318,imgsize-2939015.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/no-one-cares-about-this-new-york-city-opera-hits-back-at-timothe-chalamets-comment-about-opera-and-ballet/articleshow/129199318.cms",
-    "time": "2026-03-07T06:23:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anirudh Ravichander dodges marriage questions once again",
-    "desc": "Anirudh Ravichander, the popular Tamil composer, once again skillfully sidestepped marriage inquiries from the media. When questioned about wedding invitations, he responded with a brief, \"இது வேற\" (this again) before departing. This recurring personal life speculation, particularly concerning Kavya Maran, continues despite his consistent efforts to maintain privacy amidst a packed professional schedule.",
-    "img": "https://static.toiimg.com/photo/msid-129199232,imgsize-116338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anirudh-ravichander-dodges-marriage-questions-once-again-jana-nayagan-composers-reaction-is-unmissable/articleshow/129199232.cms",
-    "time": "2026-03-07T06:21:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "What happens if rain washes out Ahmedabad clash?",
     "desc": "India national cricket team will face New Zealand national cricket team in the 2026 T20 World Cup final at Narendra Modi Stadium, aiming to defend their title after beating England in the semifinal. If rain disrupts the match, officials will try to finish it the same day or use a reserve day. If no result is possible, both teams share the title. A tie will be decided through repeated Super Overs until a winner emerges.",
@@ -259,24 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/cracking-inflation-whip-on-public-opposition-slams-centre-over-lpg-cylinder-price-hike/articleshow/129198786.cms",
     "time": "2026-03-07T06:07:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "International Women’s Day: Meet a few certified women snake rescuers from Kerala",
-    "desc": "SARPA, an initiative of the Department of Forests, Government of Kerala, has been training volunteers to rescue snakes. Among these are 140-odd women; as International Women’s Day falls on March 8 we speak to some of them",
-    "img": "https://th-i.thgim.com/public/incoming/vry8qi/article70702625.ece/alternates/LANDSCAPE_1200/05tvm%20vidya.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/society/women-snake-rescuers-trained-by-sarpa/article70702232.ece",
-    "time": "2026-03-07T06:02:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer's Hamza transforms in 'Dhurandhar 2'",
-    "desc": "The trailer for 'Dhurandhar 2' has been released, hinting at high-octane action and drama. A new report reveals a special song celebrating Ranveer Singh's character, Hamza Ali Mazari, earning the title Sher-e-Baloch. This track, similar to the viral FA9LA song, was filmed in Ladakh.",
-    "img": "https://static.toiimg.com/photo/msid-129198587,imgsize-20922.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-dhurandhar-2-may-feature-fa9la-like-song-actors-rise-as-sher-e-baloch-to-be-celebrated/articleshow/129198600.cms",
-    "time": "2026-03-07T06:02:26.000Z"
   },
   {
     "cat": "Business",
@@ -379,15 +442,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'He has an aura in dressing room': Brook backs McCullum to continue",
-    "desc": "Harry Brook backed Brendon McCullum as England’s all-format coach after their narrow T20 World Cup semifinal loss to India national cricket team. Calling McCullum the best coach he’s had, Brook praised his leadership and impact on English cricket. Despite England’s exit, Brook expressed pride in the team’s campaign and admitted dropping Sanju Samson proved costly.",
-    "img": "https://static.toiimg.com/photo/msid-129193153,imgsize-68540.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/he-has-an-aura-in-dressing-room-captain-harry-brook-backs-brendon-mccullum-to-continue-despite-t20-world-cup-exit/articleshow/129193075.cms",
-    "time": "2026-03-07T03:40:52.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Jasprit Bumrah is human as well': Phillips fires fresh warning before final",
     "desc": "New Zealand, a nation of just 5.3 million, has achieved remarkable cricket success, reaching eight ICC finals in the past decade and winning the 2021 World Test Championship. Ahead of the T20 World Cup final against India, Glenn Phillips highlighted the contrast in talent pools but praised India’s depth. He warned New Zealand won’t underestimate Varun Chakravarthy or Jasprit Bumrah.",
     "img": "https://static.toiimg.com/photo/msid-129192770,imgsize-213614.cms",
@@ -403,15 +457,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/russell-fastest-in-final-practice-as-mercedes-teammate-crashes-out/article70714618.ece",
     "time": "2026-03-07T03:23:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lakshya Sen brushes aside Li Shi Feng to reach All England semis",
-    "desc": "Lakshya Sen reached the semifinals of the All England Championship after defeating former champion Li Shi Feng 21-13, 21-16 in Birmingham. The Indian shuttler dominated both games with strong smashes and solid defence. This marks his third semifinal appearance at the tournament. Lakshya will next face the winner between Japan’s Koki Watanabe and Canada’s Victor Lai.",
-    "img": "https://static.toiimg.com/photo/msid-129192256,imgsize-128526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/lakshya-sen-brushes-aside-li-shi-feng-to-reach-all-england-semis/articleshow/129192254.cms",
-    "time": "2026-03-07T03:14:33.000Z"
   },
   {
     "cat": "Business",
@@ -459,15 +504,6 @@ const newsData_en = [
     "time": "2026-03-07T02:48:40.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Russian athletes booed during Winter Paralympics opening ceremony",
-    "desc": "The Milan–Cortina Winter Paralympics opened in Italy on Friday but were overshadowed by controversy after Russian athletes marched under their national flag for the first time since 2014. The move drew boos and led several countries, including Ukraine and Poland, to boycott the ceremony. Over 600 athletes will compete in six sports until March 15. Officials emphasised peace, inclusion and solidarity.",
-    "img": "https://static.toiimg.com/photo/msid-129190597,imgsize-106668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/russian-athletes-booed-during-winter-paralympics-opening-ceremony/articleshow/129190365.cms",
-    "time": "2026-03-07T02:30:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Emirates NBD bank waives ATM fees across UAE, GCC as war fears grow",
     "desc": "Emirates NBD is waiving ATM withdrawal fees across the UAE and GCC until March 31, 2026, to ease financial access amid regional disruptions. This move also includes free debit card replacements and delivery, offering crucial support to stranded travelers and residents navigating travel uncertainties. The initiative aims to ensure uninterrupted access to funds during a turbulent period.",
@@ -495,15 +531,6 @@ const newsData_en = [
     "time": "2026-03-07T02:15:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Valverde's stoppage-time strike gives Real Madrid 2-1 win over Celta",
-    "desc": "Real Madrid edged Celta Vigo 2–1 in La Liga thanks to Federico Valverde’s heavily deflected 95th-minute strike. Aurelien Tchouameni gave Madrid an early lead, but Borja Iglesias quickly equalised. Missing several key players, including Kylian Mbappe, Madrid struggled but secured victory late on. The win moves them within one point of leaders Barcelona and ends a two-game league losing streak ahead of their Champions League clash with Manchester City.",
-    "img": "https://static.toiimg.com/photo/msid-129190056,imgsize-69318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/federico-valverdes-stoppage-time-strike-gives-real-madrid-2-1-win-over-celta-vigo-/articleshow/129189988.cms",
-    "time": "2026-03-07T02:14:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Will use every policy tool to help exporters, assures Piyush Goyal",
     "desc": "The Indian government will utilize all policy tools and export promotion missions to support exporters facing disruptions in West Asia. Commerce Minister Piyush Goyal assured daily engagement with exporters through an inter-ministerial group to address concerns like higher freight rates and shipping delays. India remains committed to meeting international buyer commitments, reinforcing its reputation as a trusted global partner.",
@@ -511,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gulf-tensions-will-use-every-policy-tool-to-help-exporters-assures-piyush-goyal/articleshow/129189789.cms",
     "time": "2026-03-07T02:06:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Liverpool crush Wolves 3-1 to enter quarterfinals",
-    "desc": "Liverpool reached the FA Cup quarter-finals with a 3–1 win over Wolves, avenging a recent league defeat. Andrew Robertson’s long-range strike and Mohamed Salah’s quick follow-up put them ahead before Curtis Jones sealed victory. Hwang Hee-chan scored late. The win keeps Liverpool’s fading season alive in the Champions League hopes.",
-    "img": "https://static.toiimg.com/photo/msid-129189704,imgsize-121472.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fa-cup-17-year-old-winger-rio-ngumoh-impresses-as-liverpool-crush-wolves-3-1-to-enter-quarterfinals/articleshow/129189612.cms",
-    "time": "2026-03-07T02:06:11.000Z"
   },
   {
     "cat": "World",
@@ -648,33 +666,6 @@ const newsData_en = [
     "time": "2026-03-07T00:41:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Global conflicts show wars won’t be short, need to build resilient defence industrial capacities: Navy chief",
-    "desc": "Navy Chief Admiral Dinesh Kumar Tripathi emphasized the critical need for robust industrial preparedness in modern warfare, citing recent global conflicts that have shattered assumptions of short, decisive wars. He highlighted the imperative for nations to cultivate resilient defense industrial capacities, stressing the importance of large-scale production, continuous technological upgrades, and sufficient surge capacity to meet evolving security challenges.",
-    "img": "https://static.toiimg.com/photo/msid-129186477,imgsize-66704.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/global-conflicts-show-wars-wont-be-short-need-to-build-resilient-defence-industrial-capacities-navy-chief/articleshow/129186417.cms",
-    "time": "2026-03-07T00:24:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Goa cashew fest to create awareness about safe driving",
-    "desc": "Goa Cashew Fest 2026, from April 10-12 in Panaji, will highlight feni and cashew products while championing safe driving awareness. Organized by GFDC, the event features discussions on cultivation, production, and rural livelihood support. Efforts to rejuvenate cashew plantations are already showing positive results, increasing cultivation areas.",
-    "img": "https://static.toiimg.com/photo/msid-129186356,imgsize-20144.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/goa-cashew-fest-to-create-awareness-about-safe-driving/articleshow/129186279.cms",
-    "time": "2026-03-07T00:18:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Red corridor' will be crushed by March 31, says Amit Shah",
-    "desc": "Union Home Minister Amit Shah announced that left-wing extremism will be completely wiped out by March 31, ending the ambition of a \"red corridor\" from Tirupati to Pashupati. Speaking at CISF's raising day, he lauded security forces for curbing Naxal activities and launched housing projects for the paramilitary force.",
-    "img": "https://static.toiimg.com/photo/msid-129185975,imgsize-24764.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/red-corridor-will-be-crushed-by-march-31-says-amit-shah/articleshow/129185823.cms",
-    "time": "2026-03-07T00:03:49.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Dubai’s third most expensive apartment sale logs whopping Dh422 million despite US-Israel war on Iran",
     "desc": "Dubai's luxury property market has achieved a significant milestone with a Dh422 million apartment sale. This record-breaking deal underscores the sector's strength despite ongoing regional geopolitical tensions amid Iran-US-Israel war. Global investors continue to view Dubai as a secure destination for wealth preservation. The emirate's appeal is fuelled by its strategic location, luxury lifestyle and investment security.",
@@ -682,6 +673,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/world/middle-east/dubais-luxury-market-breaks-records-uae-emirates-third-most-expensive-apartment-sale-logs-whopping-dh422-million-despite-us-israel-war-on-iran/articleshow/129179944.cms",
     "time": "2026-03-06T22:28:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saif recalls ‘no intimacy, no kissing’ policy with Kareena",
+    "desc": "Kunal Kemmu and Saif Ali Khan opened up about relationships, insecurity and marriage with actresses while speaking to Soha Ali Khan on her podcast. During the conversation, the two actors candidly discussed the misconceptions about being married to an actress and why setting “rules” in relationships may not work.",
+    "img": "https://static.toiimg.com/photo/msid-129179979,imgsize-55678.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-recalls-experimenting-with-no-intimacy-no-kissing-policy-with-kareena-kapoor-khan-rules-never-work-in-relationships/articleshow/129179979.cms",
+    "time": "2026-03-06T22:17:24.000Z"
   },
   {
     "cat": "Politics",
@@ -700,6 +700,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/lpg-price-hike-domestic-cylinders-may-rise-by-rs-60-commercial-cylinders-by-rs-115-report/articleshow/129179249.cms",
     "time": "2026-03-06T21:45:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lilliput says SRK doesn’t have script sense like Aamir",
+    "desc": "Veteran actor-writer M M Faruqui, popularly known as Lilliput, recently shared his candid thoughts on superstar Shah Rukh Khan. During a new interaction, Lilliput reflected on SRK’s performance in Zero, questioned his script choices, and also explained why action-heavy films like Jawan don’t appeal to him.",
+    "img": "https://static.toiimg.com/photo/msid-129178164,imgsize-71350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lilliput-says-shah-rukh-khan-doesnt-have-script-sense-like-aamir-khan-clarifies-he-never-predicted-zero-box-office-failure/articleshow/129178164.cms",
+    "time": "2026-03-06T21:11:20.000Z"
   },
   {
     "cat": "Sports",
@@ -729,13 +738,13 @@ const newsData_en = [
     "time": "2026-03-06T17:46:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India must ask U.S. why it is targeting Iranian ships in Indian Ocean: Iran Minister Khatibzadeh",
-    "desc": "Iran’s Deputy Foreign Minister Saeed Khatibzadeh says his country is a “responsible power” and has not shut the Strait of Hormuz, he says the attack on Iran is “based on a lie” and pitches for diplomacy as the “only option”",
-    "img": "https://th-i.thgim.com/public/incoming/s4whsv/article70713379.ece/alternates/LANDSCAPE_1200/20260306206L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-must-ask-us-why-it-is-targeting-iranian-ships-in-indian-ocean-iran-minister-khatibzadeh/article70713189.ece",
-    "time": "2026-03-06T17:06:19.000Z"
+    "cat": "Entertainment",
+    "title": "Allu Sirish marries Nayanika Reddy; CM joins Allu–Konidela family",
+    "desc": "Actor Allu Sirish tied the knot with Nayanika Reddy in a grand wedding ceremony held in Hyderabad on Friday evening. In one of the first pictures from the celebrations, the newlyweds were seen posing together alongside A. Revanth Reddy, Allu Arjun and film producer Allu Aravind.",
+    "img": "https://static.toiimg.com/photo/msid-129166750,imgsize-91454.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-sirish-marries-nayanika-reddy-in-hyderabad-telangana-cm-revanth-reddy-joins-allukonidela-family-in-the-first-picture/articleshow/129166750.cms",
+    "time": "2026-03-06T16:44:40.000Z"
   },
   {
     "cat": "Sports",
@@ -747,13 +756,13 @@ const newsData_en = [
     "time": "2026-03-06T16:29:04.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Jewar airport gets DGCA aerodrome licence, what you need to know",
-    "desc": "Noida International Airport in Jewar has secured its aerodrome licence from the DGCA. This crucial step brings the airport closer to commencing flight operations. All necessary infrastructure is in place. The airport is set to be inaugurated by Prime Minister Narendra Modi. Commercial flights will begin after final security programme approval.",
-    "img": "https://static.toiimg.com/photo/msid-129165452,imgsize-874545.cms",
+    "cat": "Entertainment",
+    "title": "Govinda reacts to Sunita Ahuja’s infidelity remarks",
+    "desc": "Govinda and his wife Sunita Ahuja have been making headlines for the past few months amid rumours and public remarks about their personal life. Sunita had also made several claims in interviews, alleging that the actor had been cheating and suggesting that he was involved with a newcomer who was allegedly blackmailing him. Now, addressing the controversy once again, Govinda said he prefers not to speak too much about such matters as it might embarrass someone.",
+    "img": "https://static.toiimg.com/photo/msid-129164164,imgsize-124934.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/noida-airport-update-jewar-airport-gets-dgca-aerodrome-licence-what-you-need-to-know/articleshow/129165032.cms",
-    "time": "2026-03-06T16:10:18.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-reacts-to-sunita-ahujas-infidelity-remarks-i-dont-want-to-embarrass-anyone-be-nice-to-all-especially-newcomers/articleshow/129164164.cms",
+    "time": "2026-03-06T15:45:18.000Z"
   },
   {
     "cat": "Business",
@@ -765,13 +774,22 @@ const newsData_en = [
     "time": "2026-03-06T15:00:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Stuck in India, West Indies player asks Cristiano Ronaldo to 'rescue' him",
-    "desc": "West Indies spinner Akeal Hosein expressed frustration over the team's delayed return from India following their T20 World Cup exit, even jokingly asking Cristiano Ronaldo for a rescue. International travel disruptions due to escalating geopolitical tensions have impacted the squad's journey home, despite Cricket West Indies arranging a charter flight.",
-    "img": "https://static.toiimg.com/photo/msid-129157181,imgsize-28122.cms",
+    "cat": "Entertainment",
+    "title": "Shahid Kapoor’s 'Cocktail 2' teaser to premiere with 'Dhurandhar 2'",
+    "desc": "March brings a triple treat for movie lovers! Ranveer Singh's spy-action flick 'Dhurandhar 2' releases March 19, with its trailer on March 7. Adding to the excitement, Shahid Kapoor's 'Cocktail 2' teaser will premiere alongside 'Dhurandhar 2', showcasing Shahid in a fresh look for the September 2026 sequel. Riteish Deshmukh's 'Raja Shivaji' also adds to the cinematic feast.",
+    "img": "https://static.toiimg.com/photo/msid-129161289,imgsize-145770.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/send-the-chopper-stuck-in-india-due-to-israel-iran-tensions-west-indies-player-asks-cristiano-ronaldo-to-rescue-him/articleshow/129156258.cms",
-    "time": "2026-03-06T13:20:25.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoors-cocktail-2-teaser-to-premiere-with-ranveer-singhs-dhurandhar-2-triple-treat-for-fans-in-march/articleshow/129161289.cms",
+    "time": "2026-03-06T14:42:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jaya Bachchan helped Tigmanshu when he got threats during 'Haasil' shoot",
+    "desc": "Filmmaker Tigmanshu Dhulia faced significant challenges while shooting his debut film 'Haasil' in his hometown, Allahabad. Local political figures, angered by the film's portrayal of campus politics, issued threats, prompting Dhulia to seek help from Jaya Bachchan to resolve the crisis.",
+    "img": "https://static.toiimg.com/photo/msid-129158952,imgsize-68296.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tigmanshu-dhulia-recalls-jaya-bachchan-helping-him-after-he-got-threats-during-haasil-shoot-in-allahbad/articleshow/129158573.cms",
+    "time": "2026-03-06T13:53:21.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-team-india-survives-bethell-scare-enters-the-final/article70708797.ece",
     "time": "2026-03-06T00:56:55.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran’s political system",
-    "desc": "Unlike the President, the Supreme Leader doesn’t have any fixed term. Since the 1979 revolution, Iran has had only two Supreme Leaders — Khomeini (who died in 1989) and Ayatollah Ali Khamenei, who was assassinated by a joint American-Israeli strike on February 28, 2026",
-    "img": "https://th-i.thgim.com/public/incoming/wcfy5c/article70707700.ece/alternates/LANDSCAPE_1200/DSC6040.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/irans-political-system-explained/article70707512.ece",
-    "time": "2026-03-06T00:46:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "The legality of U.S.-Israel strikes on Iran",
-    "desc": "U.S., Israel launch strikes on Iran as a ‘pre-emptive’ response to an imminent threat, raising questions about the legality of the use of force under the UN Charter; missile strike on a girls’ primary school raises concerns over violations of International Humanitarian Law, particularly the principles of distinction, proportionality, precaution",
-    "img": "https://th-i.thgim.com/public/incoming/fnema7/article70708695.ece/alternates/LANDSCAPE_1200/2026-03-02T234422Z_1033511548_RC2VCI9YHXFP_RTRMADP_3_IRAN-CRISIS-USA-SCHOOL-STRIKE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/the-legality-of-us-israel-strikes-on-iran/article70707208.ece",
-    "time": "2026-03-05T17:03:21.000Z"
   }
 ];

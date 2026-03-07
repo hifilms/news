@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Don't mind not being favourites': Mitchell Santner fine with New Zealand being underdogs even in T20 WC final",
+    "desc": "New Zealand punch above their weight every time in ICC events, be it the ODI or T20 World Cup, Champions Trophy, or even the World Test Championship. They won the inaugural WTC edition out of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/don-t-mind-not-being-favourites-mitchell-santner-fine-with-new-zealand-being-underdogs-even-in-t20-wc-final-2026-03-07-1032961",
+    "time": "2026-03-07T12:07:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Might break a few hearts to lift the trophy’",
+    "desc": "Ahead of the T20 World Cup 2026 final between India and New Zealand, BlackCaps captain Mitchell Santner gave a cheeky reply to a media question that went viral on social media. When asked about winning...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/might-break-a-few-hearts-to-lift-the-trophy-mitchell-santners-cheeky-response-to-world-cup-possibility-2026-03-07-1032942",
+    "time": "2026-03-07T09:35:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England, West Indies, South Africa players to leave India soon after being stranded due to West Asia war",
     "desc": "The International Cricket Council (ICC) has finally arranged charter flights for England, West Indies and South Africa cricketers to return to their respective countries, after they were stranded post T20 World Cup, due to the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/12-isl-clubs-call-out-aiff-over-revenue-share-in-crisis-hit-season-allege-federation-of-earning-40-profit-2026-03-07-1032896",
     "time": "2026-03-07T01:23:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Details here",
-    "desc": "The pitch for the T20 World Cup final between India and New Zealand at the Narendra Modi Stadium in Ahmedabad is set to be full of runs. The surface is expected to be like the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suspense-around-ahmedabad-pitch-for-ind-vs-nz-t20-world-cup-final-ends-details-here-2026-03-06-1032884",
-    "time": "2026-03-06T18:15:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Glenn Phillips hopes Jasprit Bumrah has an off day in T20 World Cup final, 'He's also a human'",
-    "desc": "Jasprit Bumrah was the difference between the two teams as India defended 253 runs against England to win by just seven runs. In a match where 499 runs were scored in 40 overs, Bumrah conceded...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-hopes-jasprit-bumrah-has-an-off-day-in-t20-world-cup-final-he-s-also-a-human-2026-03-06-1032876",
-    "time": "2026-03-06T16:44:55.000Z"
   }
 ];
