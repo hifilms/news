@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "12 ISL clubs call out AIFF over revenue share in crisis-hit season, allege federation of earning 40% profit",
+    "desc": "Twelve ISL clubs, excluding NorthEast United and Jamshedpur FC, have written a strong-worded letter to the All India Football Federation (AIFF), accusing them of earning a significant profit of over Rs 3.4 crore from the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/12-isl-clubs-call-out-aiff-over-revenue-share-in-crisis-hit-season-allege-federation-of-earning-40-profit-2026-03-07-1032896",
+    "time": "2026-03-07T01:23:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Details here",
     "desc": "The pitch for the T20 World Cup final between India and New Zealand at the Narendra Modi Stadium in Ahmedabad is set to be full of runs. The surface is expected to be like the...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-is-not-just-a-once-in-a-generation-bowler-but-century-kind-of-bowler-sunil-gavaskar-2026-03-06-1032833",
     "time": "2026-03-06T09:45:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ahmedabad pitch in focus as India host New Zealand in T20 World Cup 2026 final",
-    "desc": "After a thrilling seven-run victory over England at the Wankhede Stadium in Mumbai, India have advanced to the final of the T20 World Cup 2026. They will face New Zealand in the summit clash on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ahmedabad-pitch-in-focus-as-india-host-new-zealand-in-t20-world-cup-2026-final-2026-03-06-1032826",
-    "time": "2026-03-06T09:06:55.000Z"
   }
 ];

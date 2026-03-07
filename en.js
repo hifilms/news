@@ -1,5 +1,374 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Domestic LPG price hiked by ₹60 amid West Asia conflict",
+    "desc": "Non-subsidised LPG, the one that common household users other than the Ujjwala beneficiaries use in their kitchens, will now cost ₹913 per 14.2 kg cylinder in Delhi, according to the Indian Oil Corporation (IOC) website; the price increase is effective from March 7",
+    "img": "https://th-i.thgim.com/public/incoming/t9o1lk/article70714547.ece/alternates/LANDSCAPE_1200/PTI03_06_2026_000179B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/domestic-lpg-price-hiked-by-60-amid-west-asia-conflict/article70714546.ece",
+    "time": "2026-03-07T01:39:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sensex falls 1,100 points, closes below 79,000 after 10 months",
+    "desc": "Indian stock markets experienced a significant downturn on Friday, with the Sensex plummeting nearly 1,100 points to close below 79,000 for the first time since April 2025. Deteriorating geopolitical tensions in West Asia and global market conditions, coupled with substantial foreign fund outflows, led the decline. Banks were particularly affected as investors adopted a risk-off approach.",
+    "img": "https://static.toiimg.com/photo/msid-129188667,imgsize-77488.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-street-blues-sensex-falls-1100-points-closes-below-79000-after-10-months/articleshow/129188585.cms",
+    "time": "2026-03-07T01:30:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Kerala Story 2' crosses Rs 30 crore mark",
+    "desc": "Goes Beyond' maintained box office momentum on Day 8, earning an estimated Rs 2.5 crore. Despite clearing legal hurdles, its collections remain significantly lower than the 2023 original. Meanwhile, the sequel faces criticism from Kerala's opposition leader and a legal challenge regarding its title was declined by the High Court.",
+    "img": "https://static.toiimg.com/photo/msid-129188394,imgsize-110572.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-8-film-begins-week-2-on-a-good-note-crosses-rs-30-crore-mark/articleshow/129188287.cms",
+    "time": "2026-03-07T01:25:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lily Collins is overjoyed on getting back her engagement ring",
+    "desc": "Actress Lily Collins has recovered her engagement ring. The valuable item was stolen from a hotel spa in 2023. She shared the happy news on social media. The ring's return after three years is described as a miracle. Collins expressed immense gratitude for its recovery. This marks the end of a difficult period for her and her husband Charlie McDowell.",
+    "img": "https://static.toiimg.com/photo/msid-129188308,imgsize-896630.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lily-collins-gets-her-stolen-engagement-ring-back-nearly-three-years-after-hotel-thefthaving-this-back-means-so-much/articleshow/129188319.cms",
+    "time": "2026-03-07T01:22:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Equal work, equal pay' applies only within same institution: Madras high court",
+    "desc": "The Madras High Court ruled that the principle of equal pay for equal work applies only to employees within the same institution and under identical service conditions. The court clarified that comparisons cannot be made between employees of public sector undertakings and government departments due to differing service rules.",
+    "img": "https://static.toiimg.com/photo/msid-129188375,imgsize-77966.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/equal-work-equal-pay-applies-only-within-same-institution-madras-high-court/articleshow/129188281.cms",
+    "time": "2026-03-07T01:21:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spirit' release date locked: Sandeep shares UPDATE",
+    "desc": "Prabhas's upcoming film 'Spirit' has set its release date for March 5, 2027, with director Sandeep Reddy Vanga unveiling a poster hinting at a violent narrative. Fans are buzzing with anticipation for the actor's potential shift to a gritty role. Meanwhile, Triptii Dimri joins as the female lead, and Prakash Raj's involvement remains uncertain amidst ongoing speculation.",
+    "img": "https://static.toiimg.com/photo/msid-129188096,imgsize-96822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prabhas-starrer-spirit-release-date-locked-sandeep-reddy-vanga-says-spirit-mayhem-in-1-year/articleshow/129188096.cms",
+    "time": "2026-03-07T01:18:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Make our agriculture export-oriented",
+    "desc": "Prime Minister Narendra Modi urged farmers to make Indian agriculture export-oriented by leveraging the country's diverse climate to boost productivity and farm produce exports. He highlighted the growing global demand for natural and chemical-free products, suggesting this could open up world markets. The government is considering certification and laboratory support for these initiatives.",
+    "img": "https://static.toiimg.com/photo/msid-129188038,imgsize-43680.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-make-our-agriculture-export-oriented/articleshow/129187993.cms",
+    "time": "2026-03-07T01:12:11.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel-Iran war updates",
+    "desc": "Iranian Ship IRIS Lavan, crew, docked at Kochi days before IRIS Dena incident, says government sources; two days ago, Iranian warship IRIS Dena, returning from International Fleet Review in Visakhapatnam, was torpedoed by a U.S. submarine off Sri Lanka’s coast, killing 83 people",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-conflict-west-asia-march-6-2026/article70709958.ece",
+    "time": "2026-03-07T01:08:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sean Phillip reveals that Britney Spears reached out after DUI arrest",
+    "desc": "Britney Spears' former assistant, Sean Phillip, revealed the singer contacted him after her recent DUI arrest, assuring him she was \"OK.\" Phillip shared that Spears, whom he described as a strong and not harmful person, gave him permission to speak about the incident. This update comes amid fan concerns following the alleged DUI in California.",
+    "img": "https://static.toiimg.com/photo/msid-129187443,imgsize-75644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/sean-phillip-says-britney-spears-is-one-of-the-strongest-women-reveals-what-she-told-him-after-dui-arrest/articleshow/129187443.cms",
+    "time": "2026-03-07T01:07:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "13 flights bring stranded flyers from Gulf to Mumbai",
+    "desc": "Mumbai airport received 13 repatriation flights from Fujairah and Dubai on Friday, bringing home Indian travellers. Despite these arrivals, flight disruptions persisted with 73 air traffic movements cancelled. Appeals for urgent support for Indians stranded in the West Asia war situation continue, with families expressing deep worry.",
+    "img": "https://static.toiimg.com/photo/msid-129187931,imgsize-10736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/middle-east-tensions-13-flights-bring-stranded-flyers-from-gulf-to-mumbai/articleshow/129187829.cms",
+    "time": "2026-03-07T01:06:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kalabhavan Mani’s dream comes true",
+    "desc": "The legacy of late actor Kalabhavan Mani continues as his daughter, Sreelakshmi, proudly dons her doctor’s white coat after completing her MBBS. With a heart full of compassion, she plans to dedicate her medical career to helping those in need, realizing her father’s dream.",
+    "img": "https://static.toiimg.com/photo/msid-129187521,imgsize-124350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kalabhavan-manis-dream-comes-true-daughter-sreelakshmi-becomes-doctor-practice-begins/articleshow/129187521.cms",
+    "time": "2026-03-07T00:59:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SIR was conducted in a transparent manner, says CEC",
+    "desc": "Gyanesh Kumar quoted as saying in an official release that the objective of the SIR was to ensure that no eligible elector was left out and that no ineligible person was included in the electoral rolls",
+    "img": "https://th-i.thgim.com/public/incoming/79mbwu/article70713305.ece/alternates/LANDSCAPE_1200/IMG-20260306-WA0118.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/sir-was-conducted-in-a-transparent-manner-says-cec/article70712905.ece",
+    "time": "2026-03-07T00:58:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Britney Spears’ ex reacts to her DUI arrest",
+    "desc": "Britney Spears was arrested for DUI in Ventura County after reports of erratic driving. Her ex-husband, Sam Asghari, offered measured words, understanding that people make mistakes and emphasizing the need for privacy. Spears' representative stated the incident was inexcusable and that she plans to comply with the law and receive support.",
+    "img": "https://static.toiimg.com/photo/msid-129187285,imgsize-885758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/britney-spears-dui-arrest-prompts-a-response-from-ex-husband-sam-asghari-as-pop-star-faces-fresh-legal-trouble/articleshow/129187286.cms",
+    "time": "2026-03-07T00:50:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In a 1st in India, Karnataka links liquor tax to alcohol content",
+    "desc": "Karnataka is introducing a new alcohol-in-beverage (AIB) based excise duty system from April, becoming the first state to directly link liquor taxation to alcohol content. This reform aims to modernize the system, improve transparency, and simplify pricing, potentially making beer and wine cheaper. The state also plans to promote alcohol tourism and allow 24-hour operations for distilleries and breweries.",
+    "img": "https://static.toiimg.com/photo/msid-129187185,imgsize-79514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-a-1st-in-india-karnataka-links-liquor-tax-to-alcohol-content/articleshow/129187137.cms",
+    "time": "2026-03-07T00:45:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED seizes Rs 441 crore assets in Andhra Pradesh liquor scam case",
+    "desc": "The Enforcement Directorate has attached properties worth Rs 441 crore in the Andhra Pradesh liquor scam. The probe, based on an AP CID FIR, uncovered a multi-crore fraud involving manipulation of liquor procurement and distribution, allegedly causing a Rs 3,500 crore loss to the state exchequer. The ED has traced a money trail of Rs 1,048 crore in kickbacks.",
+    "img": "https://static.toiimg.com/photo/msid-129187066,imgsize-20692.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ed-seizes-rs-441-crore-assets-in-andhra-pradesh-liquor-scam-case/articleshow/129187004.cms",
+    "time": "2026-03-07T00:41:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mustafa Mustafa' X review: Netizens share mixed reviews",
+    "desc": "Tamil film 'Mustafa Mustafa,' starring Sathish, has released to mixed online reactions. While some viewers found it a fun, light entertainer with humorous situations, others criticized its screenplay as a letdown with a disappointing first half. The movie follows a TV anchor's desperate attempts to remove an embarrassing video before his wedding.",
+    "img": "https://static.toiimg.com/photo/msid-129186497,imgsize-344784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mustafa-mustafa-twitter-review-netizens-call-sathish-and-suresh-ravi-starrer-a-fun-timepass-entertainer/articleshow/129186497.cms",
+    "time": "2026-03-07T00:28:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Global conflicts show wars won’t be short, need to build resilient defence industrial capacities: Navy chief",
+    "desc": "Navy Chief Admiral Dinesh Kumar Tripathi emphasized the critical need for robust industrial preparedness in modern warfare, citing recent global conflicts that have shattered assumptions of short, decisive wars. He highlighted the imperative for nations to cultivate resilient defense industrial capacities, stressing the importance of large-scale production, continuous technological upgrades, and sufficient surge capacity to meet evolving security challenges.",
+    "img": "https://static.toiimg.com/photo/msid-129186477,imgsize-66704.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/global-conflicts-show-wars-wont-be-short-need-to-build-resilient-defence-industrial-capacities-navy-chief/articleshow/129186417.cms",
+    "time": "2026-03-07T00:24:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider‑Man' trailer to release with 'Dhurandhar 2'?",
+    "desc": "Brand New Day' next week, potentially in IMAX. The trailer is rumored to debut in theaters with 'Project Hail Mary' before an online release on March 23. This follows a recent trailer leak, intensifying speculation about the Tom Holland and Zendaya starrer, set for a July 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-129185456,imgsize-144856.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spiderman-brand-new-day-trailer-to-be-attached-to-project-hail-mary-and-dhurandhar-2-clip-rumoured-to-release-on-march-20/articleshow/129185340.cms",
+    "time": "2026-03-07T00:24:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Goa cashew fest to create awareness about safe driving",
+    "desc": "Goa Cashew Fest 2026, from April 10-12 in Panaji, will highlight feni and cashew products while championing safe driving awareness. Organized by GFDC, the event features discussions on cultivation, production, and rural livelihood support. Efforts to rejuvenate cashew plantations are already showing positive results, increasing cultivation areas.",
+    "img": "https://static.toiimg.com/photo/msid-129186356,imgsize-20144.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/goa-cashew-fest-to-create-awareness-about-safe-driving/articleshow/129186279.cms",
+    "time": "2026-03-07T00:18:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' may arrive in theatres In THIS date",
+    "desc": "Thalapathy Vijay's 'Jana Nayagan' is nearing its censor certification, with a screening scheduled for March 9, 2026. This development could pave the way for a release, potentially before the Tamil Nadu elections in late April or early May. The film's release was initially planned for Pongal but was delayed.",
+    "img": "https://static.toiimg.com/photo/msid-129185788,imgsize-78726.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-heads-for-censor-review-on-march-9-film-may-arrive-in-theatres-in-this-date-reports/articleshow/129185788.cms",
+    "time": "2026-03-07T00:04:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Red corridor' will be crushed by March 31, says Amit Shah",
+    "desc": "Union Home Minister Amit Shah announced that left-wing extremism will be completely wiped out by March 31, ending the ambition of a \"red corridor\" from Tirupati to Pashupati. Speaking at CISF's raising day, he lauded security forces for curbing Naxal activities and launched housing projects for the paramilitary force.",
+    "img": "https://static.toiimg.com/photo/msid-129185975,imgsize-24764.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/red-corridor-will-be-crushed-by-march-31-says-amit-shah/articleshow/129185823.cms",
+    "time": "2026-03-07T00:03:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nitish Kumar firm on Rajya Sabha move, son Nishant to join JDU tomorrow",
+    "desc": "Nishant Kumar, son of Bihar CM Nitish Kumar, is set to join the JDU on March 8, marking his political debut. Nitish Kumar has affirmed his decision to move to the Rajya Sabha is final and irreversible, assuring party members he will remain involved in Bihar's development. Nishant's entry sparks speculation about his future role within the party or government.",
+    "img": "https://static.toiimg.com/photo/msid-129185185,imgsize-99788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bihar-nitish-kumar-firm-on-rajya-sabha-move-son-nishant-to-join-jdu-tomorrow/articleshow/129185101.cms",
+    "time": "2026-03-06T23:40:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Didi begins sit-in, alleges EC 'plot' to delete voters' names",
+    "desc": "West Bengal CM Mamata Banerjee launched a sit-in protest, accusing the BJP and Election Commission of a conspiracy to disenfranchise voters by removing genuine names from electoral rolls. She highlighted instances of living individuals being declared dead, vowing to expose the alleged plot ahead of the EC's visit and upcoming assembly polls.",
+    "img": "https://static.toiimg.com/photo/msid-129184875,imgsize-77448.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-didi-begins-sit-in-alleges-ec-plot-to-delete-voters-names/articleshow/129184757.cms",
+    "time": "2026-03-06T23:29:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka says it will ban social media for children under 16",
+    "desc": "Karnataka plans to ban social media for children under 16, aligning with global efforts to curb digital exposure. Chief Minister Siddaramaiah announced the policy, aiming to address concerns over screen addiction and mental health. While welcomed by educators, experts caution about potential FOMO and withdrawal, urging careful implementation and support for children.",
+    "img": "https://static.toiimg.com/photo/msid-129184667,imgsize-44738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/karnataka-says-it-will-ban-social-media-for-children-under-16/articleshow/129184591.cms",
+    "time": "2026-03-06T23:23:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ananya DEFENDS Deepika in 8-hour shift debate",
+    "desc": "Ananya Panday champions Deepika Padukone's right to voice new mother needs, calling the debate a private matter. Panday highlighted how priorities shift post-motherhood, emphasizing that conversations about work-life balance are crucial and achievable. She credited Kareena Kapoor Khan for paving the way for working mothers in Bollywood, stressing that open dialogue with filmmakers is key.",
+    "img": "https://static.toiimg.com/photo/msid-129183342,imgsize-99288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ananya-panday-defends-deepika-padukone-in-8-hour-shift-debate-now-shes-a-mother-and-this-is-what-she-needs/articleshow/129183342.cms",
+    "time": "2026-03-06T23:08:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Before Dena, India let another Iran ship with 183 crew dock in Kochi",
+    "desc": "Days before the sinking of IRIS Dena, India granted permission for the Iranian ship IRIS Lavan to dock at Kochi port due to technical issues. This decision, made on March 1, allowed IRIS Lavan and its 183 crew members to safely shelter, avoiding the fate of IRIS Dena which was sunk by a US submarine.",
+    "img": "https://static.toiimg.com/photo/msid-129184162,imgsize-23872.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/before-dena-india-let-another-iran-ship-with-183-crew-dock-in-kochi/articleshow/129183924.cms",
+    "time": "2026-03-06T23:01:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP flags UPA-era cuts in Iranian crude imports",
+    "desc": "The BJP highlighted a substantial decrease in India's crude oil imports from Iran during the UPA era, which secured the nation an exemption from US sanctions. This revelation came as a response to Congress's criticism of the current government's oil dealings with Russia. Communications from former US Secretaries of State John Kerry and Hillary Clinton confirmed these significant reductions.",
+    "img": "https://static.toiimg.com/photo/msid-129183874,imgsize-20182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/us-waiver-row-bjp-flags-upa-era-cuts-in-iranian-crude-imports/articleshow/129183811.cms",
+    "time": "2026-03-06T22:58:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran Guards say targeted U.S. base in UAE over school strike in Minab",
+    "desc": "The New York Times newspaper reported on March 5, that U.S. military statements indicating forces were attacking naval targets near the Strait of Hormuz, where a Revolutionary Guards' base is located, \"suggest they were most likely to have carried out the strike\"",
+    "img": "https://th-i.thgim.com/public/incoming/lov0mb/article70713696.ece/alternates/LANDSCAPE_1200/2026-03-04T080924Z_700314831_RC2ZWJAEC0NY_RTRMADP_3_IRAN-CRISIS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-guards-say-targeted-us-base-in-uae-over-school-strike-in-minab/article70713695.ece",
+    "time": "2026-03-06T22:57:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress on Russia oil waiver",
+    "desc": "Congress has accused Prime Minister Modi of being \"blackmailed\" by the US, citing American \"permission\" for Indian refiners to buy Russian oil. Party leaders claim India's strategic autonomy and sovereignty are threatened, with Rahul Gandhi asserting foreign policy should stem from India's ethos, not a \"compromised individual's\" actions.",
+    "img": "https://static.toiimg.com/photo/msid-129183783,imgsize-59868.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/strategic-autonomy-at-risk-congress-on-russia-oil-waiver/articleshow/129183712.cms",
+    "time": "2026-03-06T22:55:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Dubai’s third most expensive apartment sale logs whopping Dh422 million despite US-Israel war on Iran",
+    "desc": "Dubai's luxury property market has achieved a significant milestone with a Dh422 million apartment sale. This record-breaking deal underscores the sector's strength despite ongoing regional geopolitical tensions amid Iran-US-Israel war. Global investors continue to view Dubai as a secure destination for wealth preservation. The emirate's appeal is fuelled by its strategic location, luxury lifestyle and investment security.",
+    "img": "https://static.toiimg.com/photo/msid-129181580,imgsize-57142.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/dubais-luxury-market-breaks-records-uae-emirates-third-most-expensive-apartment-sale-logs-whopping-dh422-million-despite-us-israel-war-on-iran/articleshow/129179944.cms",
+    "time": "2026-03-06T22:28:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "There should be no cherry-picking on international law, says Iran deputy foreign minister",
+    "desc": "India's External Affairs Minister S. Jaishankar met with Iranian Deputy Foreign Minister Saeed Khatibzadeh on the sidelines of Raisina Dialogue 2026. The meeting followed India's condolences over the killing of Iran's supreme leader. Khatibzadeh emphasized the importance of upholding international law against perceived atrocities and aggression.",
+    "img": "https://static.toiimg.com/photo/msid-129182383,imgsize-75530.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/middle-east-conflict-there-should-be-no-cherry-picking-on-international-law-says-iran-deputy-foreign-minister/articleshow/129181988.cms",
+    "time": "2026-03-06T22:24:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saif recalls ‘no intimacy, no kissing’ policy with Kareena",
+    "desc": "Kunal Kemmu and Saif Ali Khan opened up about relationships, insecurity and marriage with actresses while speaking to Soha Ali Khan on her podcast. During the conversation, the two actors candidly discussed the misconceptions about being married to an actress and why setting “rules” in relationships may not work.",
+    "img": "https://static.toiimg.com/photo/msid-129179979,imgsize-55678.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-recalls-experimenting-with-no-intimacy-no-kissing-policy-with-kareena-kapoor-khan-rules-never-work-in-relationships/articleshow/129179979.cms",
+    "time": "2026-03-06T22:17:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'War is not a movie'",
+    "desc": "The White House's social media blurred the lines of reality Friday, posting montages that wove snippets of Hollywood blockbusters and video games into real footage of military strikes on Iran. In a second post, the White House interspersed real war footage with a scene from video game \" San Andreas\" in which the player's character is heard repeatedly saying \"Ah shit, here we go again,\" before footage of strikes on Iranian targets.",
+    "img": "https://static.toiimg.com/photo/msid-129178517,imgsize-55130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ben-stiller-slams-white-house-for-montage-of-hollywood-blockbusters-says-war-is-not-a-movie/articleshow/129178517.cms",
+    "time": "2026-03-06T22:17:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IAF pilot part of Operation Sindoor among 2 killed in Assam Sukhoi crash",
+    "desc": "Two IAF pilots, Squadron Leader Anuj Vashishth and Flight Lieutenant Purvesh Duragkar, were killed when their Su-30MKI jet crashed in Assam's Karbi Anglong district during a training sortie. The aircraft had taken off from Jorhat airbase and lost contact shortly after. Duragkar was known for his participation in Operation Sindoor last year.",
+    "img": "https://static.toiimg.com/photo/msid-129180568,imgsize-26462.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iaf-pilot-part-of-operation-sindoor-among-2-killed-in-assam-sukhoi-crash/articleshow/129180222.cms",
+    "time": "2026-03-06T22:05:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In a Bengal college, an Iftar party to be held by women for women",
+    "desc": "The event, called ‘2026 Dosti ki Iftar’ and being organised by the Deeniyat Muallima College (located in Santragachi, across the river from Kolkata) and the city-based initiative Know Your Neighbour, intends to “provide a space for women to exchanges their views, and break myths and stereotypes”.",
+    "img": "https://th-i.thgim.com/public/sport/cricket/lnre9p/article70713690.ece/alternates/LANDSCAPE_1200/7ec0565e-5a9c-4f6e-b973-f4ff5d852500.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/kolkata/in-a-bengal-college-an-iftar-party-to-be-held-by-women-for-women/article70712038.ece",
+    "time": "2026-03-06T21:51:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Domestic cylinders may rise by Rs 60, commercial by Rs 115 from today — report",
+    "desc": "Domestic cooking gas prices are set to rise from Saturday, with a 14.2-kg LPG cylinder increasing by Rs 60 nationwide. Commercial cylinders will also see a Rs 115 hike. This marks the first significant domestic LPG price change since April 2025. Despite global energy concerns, the government assures comfortable energy supply and diversified import sources.",
+    "img": "https://static.toiimg.com/photo/msid-129179503,imgsize-127966.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/lpg-price-hike-domestic-cylinders-may-rise-by-rs-60-commercial-cylinders-by-rs-115-report/articleshow/129179249.cms",
+    "time": "2026-03-06T21:45:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fadnavis presents ₹7.69 lakh crore Maharashtra Budget, loan waiver for farmers",
+    "desc": "The Budget proposes a ninefold growth of the agricultural economy, aiming to raise the sector’s GDP from $55 billion to $500 billion by 2047. The State’s revenue receipts are estimated at around ₹6.56 lakh crore, resulting in a revenue deficit of about ₹40,500 crore.",
+    "img": "https://th-i.thgim.com/public/incoming/pbrhn2/article70713688.ece/alternates/LANDSCAPE_1200/20260306087L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/fadnavis-presents-769-lakh-crore-maharashtra-budget-loan-waiver-for-farmers/article70713287.ece",
+    "time": "2026-03-06T21:39:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did Sam tease Tom-Zendaya wedding in October 2025?",
+    "desc": "Fans are buzzing about a potential secret wedding between Tom Holland and Zendaya, fueled by a resurfaced Instagram post from Tom's brother. The photo, taken at a venue known for intimate weddings, has sparked speculation. Zendaya's stylist, Law Roach, previously hinted at the nuptials, confirming they had already occurred and would be kept private.",
+    "img": "https://static.toiimg.com/photo/msid-129178653,imgsize-153432.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/did-sam-holland-tease-brother-tom-holland-and-zendayas-secret-wedding-in-october-2025-instagram-post/articleshow/129178564.cms",
+    "time": "2026-03-06T21:38:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition notice to oust Speaker Om Birla to be taken up in Lok Sabha on Monday",
+    "desc": "Lok Sabha will debate a no-confidence motion against Speaker Om Birla on March 9, moved by Congress and allies over alleged partisan conduct. Despite NDA's majority rendering the motion's defeat inevitable, it will test opposition unity. Whips have been issued by both BJP and Congress for the crucial vote.",
+    "img": "https://static.toiimg.com/photo/msid-129178834,imgsize-48042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/opposition-notice-to-oust-speaker-om-birla-to-be-taken-up-in-lok-sabha-on-monday/articleshow/129178758.cms",
+    "time": "2026-03-06T21:24:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jailed as juvenile, Bangladesh man freed after 21 years in jail",
+    "desc": "A Bangladeshi national walks free after 21 years in jail for murder. The Calcutta High Court ruled he was a minor when the crime occurred. Another convict from Birbhum district also gained freedom after 14 years on similar grounds. The court emphasized juvenile justice laws.",
+    "img": "https://static.toiimg.com/photo/msid-129178693,imgsize-15156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jailed-as-juvenile-bangladesh-man-freed-after-21-years-in-jail/articleshow/129178546.cms",
+    "time": "2026-03-06T21:18:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cross, Jesus statue at home not proof of conversion, rules high court",
+    "desc": "The Bombay High Court ruled that religious symbols in a home do not prove conversion to Christianity, emphasizing the need for documentary evidence like baptism certificates. The court set aside a caste scrutiny committee's decision, which had denied a Scheduled Caste certificate based on such inferences, and directed its issuance.",
+    "img": "https://static.toiimg.com/photo/msid-129178496,imgsize-77900.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cross-jesus-statue-at-home-not-proof-of-conversion-rules-high-court/articleshow/129178377.cms",
+    "time": "2026-03-06T21:13:04.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Lilliput says SRK doesn’t have script sense like Aamir",
     "desc": "Veteran actor-writer M M Faruqui, popularly known as Lilliput, recently shared his candid thoughts on superstar Shah Rukh Khan. During a new interaction, Lilliput reflected on SRK’s performance in Zero, questioned his script choices, and also explained why action-heavy films like Jawan don’t appeal to him.",
@@ -18,24 +387,6 @@ const newsData_en = [
     "time": "2026-03-06T21:10:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Self-reliance only way to stay relevant in era of global uncertainty: Rajnath Singh",
-    "desc": "Defence Minister Rajnath Singh emphasized self-reliance as crucial for navigating global uncertainty, citing supply chain realignments and rising maritime activities. He highlighted India's growing domestic defence production, which surpassed Rs 1.5 lakh crore in FY24-25, with exports reaching Rs 24,000 crore. Singh also stressed the importance of technological dynamism and private sector participation in achieving defence 'atmanirbharta'.",
-    "img": "https://static.toiimg.com/photo/msid-129177988,imgsize-31980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/self-reliance-only-way-to-stay-relevant-in-era-of-global-uncertainty-rajnath-singh/articleshow/129177918.cms",
-    "time": "2026-03-06T20:58:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "In marathon outreach, NCW plans week-long public hearings covering 500 districts",
-    "desc": "The National Commission for Women is launching nationwide 'Mahila Jan Sunwais' in 500 districts across 25 states until March 14. This initiative aims to resolve approximately 15,000 complaints, with a focus on domestic violence and dowry harassment. NCW chief Vijaya Rahatkar will lead hearings in five states lacking commission chairpersons, bringing support directly to women in distress.",
-    "img": "https://static.toiimg.com/photo/msid-129176799,imgsize-30628.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/in-marathon-outreach-ncw-plans-week-long-public-hearings-covering-500-districts/articleshow/129176732.cms",
-    "time": "2026-03-06T20:22:14.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Chiranjeevi, RC, PK, Suriya attend Allu Sirish-Nayanika wedding",
     "desc": "Actor Allu Sirish tied the knot with Nayanika Reddy in a grand wedding ceremony held in Hyderabad on Friday evening. The star-studded celebration brought together several prominent names from cinema, politics and business, turning the occasion into a glittering affair.",
@@ -43,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-sirish-nayanika-reddys-wedding-chiranjeevi-ram-charan-pawan-kalyan-raashii-khanna-and-suriya-bless-the-newlyweds/articleshow/129174637.cms",
     "time": "2026-03-06T19:38:05.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Israel-Iran war LIVE: Trump demands unconditional surrender of Iran; IRGC warns of ‘prolonged war’",
-    "desc": "Iranian Ship IRIS Lavan, crew, docked at Kochi days before IRIS Dena incident, says government sources; two days ago, Iranian warship IRIS Dena, returning from International Fleet Review in Visakhapatnam, was torpedoed by a U.S. submarine off Sri Lanka’s coast, killing 83 people",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-conflict-west-asia-march-6-2026/article70709958.ece",
-    "time": "2026-03-06T19:31:06.000Z"
   },
   {
     "cat": "Sports",
@@ -81,15 +423,6 @@ const newsData_en = [
     "time": "2026-03-06T18:15:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NHAI promises uninterrupted fuel, bitumen supply amid rising cost concerns",
-    "desc": "The highway developers said they anticipated an increase in transportation cost on the back of increase in diesel price and rising input material costs are expected to escalate transportation expenses. They also suggested NHAI to reduce the price indexation lag from three months to one month to better reflect real-time market conditions and prevent under-compensation to contractors.",
-    "img": "https://static.toiimg.com/photo/msid-129170005,imgsize-321686.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nhai-promises-uninterrupted-fuel-bitumen-supply-amid-rising-cost-concerns/articleshow/129170053.cms",
-    "time": "2026-03-06T17:53:43.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iranian warship strike near Sri Lanka raises questions for India",
     "desc": "An Iranian warship was struck by a U.S. submarine near Sri Lanka, days after participating in India’s MILAN 2026 naval exercise. The incident raises major questions about India’s role in the Indian Ocean and the strategic balance between Washington and Tehran.",
@@ -106,15 +439,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/lok-sabha-likely-to-debate-resolution-seeking-speaker-om-birlas-removal-in-first-week-of-session/article70712651.ece",
     "time": "2026-03-06T17:38:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NCB busts Nepal-to-Sri Lanka drug network worth Rs 10 crore; 5 arrested, 77.6 kg Hashish oil seized",
-    "desc": "A major transnational drug syndicate, spanning Nepal to Sri Lanka via India, has been dismantled by the NCB. Seizing 77.60 kg of Hashish Oil and 2 kg of Charas, valued at Rs. 10 Crore, the operation led to five arrests. Intelligence revealed a plan for maritime delivery to Sri Lanka, which was successfully thwarted.",
-    "img": "https://static.toiimg.com/photo/msid-129167759,imgsize-1598440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ncb-busts-nepal-to-sri-lanka-drug-network-worth-rs-10-crore-5-arrested-77-6-kg-hashish-oil-seized/articleshow/129167828.cms",
-    "time": "2026-03-06T17:11:55.000Z"
   },
   {
     "cat": "Politics",
@@ -180,15 +504,6 @@ const newsData_en = [
     "time": "2026-03-06T16:01:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India gave safe harbour to another Iranian ship days before IRIS Dena was sunk by US",
-    "desc": "Just days before the Iranian warship IRIS Dena was sunk by a US strike, India provided urgent assistance to another Iranian vessel, IRIS Lavan. The ship, facing technical issues, was granted emergency docking at Kochi port on March 1st and arrived on March 4th. Its 183 crew members are currently housed at Indian naval facilities.",
-    "img": "https://static.toiimg.com/photo/msid-129164877,imgsize-483269.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-gave-safe-harbour-to-another-iranian-ship-days-before-iris-dena-was-sunk-by-us/articleshow/129162870.cms",
-    "time": "2026-03-06T15:59:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Top 5 South stories of the day",
     "desc": "South cinema saw major updates as Mammootty and Mohanlal's 'Patriot' faced release issues due to revenue disputes. Janhvi Kapoor's 'Peddi' poster and BTS went viral, while Vijay and Rashmika paid tribute to family in Rakonda. Trisha's old interview resurfaced, and Allu Arjun celebrated 15 years of marriage with Sneha Reddy.",
@@ -196,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-rashmika-visit-rakonda-village-allu-arjun-sneha-reddy-celebrate-15th-wedding-anniversary-mammootty-and-mohanlals-patriot-release-issue-top-5-south-stories-of-the-day/articleshow/129164637.cms",
     "time": "2026-03-06T15:55:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Lok Sabha to take up opposition's notice on Monday; BJP, Congress issue whip for MPs",
-    "desc": "Lok Sabha will debate a rare motion to remove Speaker Om Birla on Monday, with 118 opposition MPs backing the notice. Allegations include partisan conduct and silencing dissent. The resolution requires 50 MPs to stand in support to proceed. Both BJP and Congress have issued whips for MPs to attend.",
-    "img": "https://static.toiimg.com/photo/msid-129164662,imgsize-22232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/removal-of-speaker-om-birla-lok-sabha-to-take-up-oppositions-notice-on-monday-bjp-congress-issue-whip-for-mps/articleshow/129164707.cms",
-    "time": "2026-03-06T15:53:37.000Z"
   },
   {
     "cat": "Business",
@@ -252,24 +558,6 @@ const newsData_en = [
     "time": "2026-03-06T15:15:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Main hoon na': Nitish Kumar reassures party amid anguish over Rajya Sabha move; gives nod for son Nishant's entry",
-    "desc": "Janata Dal (United) leaders expressed pain over Chief Minister Nitish Kumar's move to Delhi as a Rajya Sabha MP, but he reassured them, stating \"main hoon na\" and clearing the path for his son Nishant's political debut. Party lawmakers were assured of his continued guidance for Bihar. This decision follows Nitish's Rajya Sabha nomination alongside Amit Shah.",
-    "img": "https://static.toiimg.com/photo/msid-129162851,imgsize-24530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/main-hoon-na-nitish-kumar-reassures-party-amid-anguish-over-rajya-sabha-move-gives-nod-for-son-nishants-entry/articleshow/129162939.cms",
-    "time": "2026-03-06T15:13:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Janhvi Kapoor’s birthday: Shikhar Pahariya drops a cute wish",
-    "desc": "It’s a special day for Janhvi Kapoor as the actress celebrates her birthday today, and social media is flooded with warm wishes from friends, family and colleagues from the film industry. From Sonam Kapoor to her sister Khushi Kapoor, several loved ones shared unseen photos and heartfelt messages for the actress. But the birthday wish that particularly caught fans’ attention came from her rumoured boyfriend Shikhar Pahariya.",
-    "img": "https://static.toiimg.com/photo/msid-129161949,imgsize-85878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoors-birthday-shikhar-pahariya-drops-a-cute-wish-with-an-adorable-picture-fans-gush-over-the-sweet-gesture/articleshow/129161949.cms",
-    "time": "2026-03-06T15:00:42.000Z"
-  },
-  {
     "cat": "Business",
     "title": "High war-risk premiums for airline insurance to push up airfares",
     "desc": "Extra premiums range from 0.075% to 0.1% of aircraft value for each return flight, translating to fare hikes of about ₹20,000 on Gulf routes; rising oil prices and operating costs may hit domestic fares too",
@@ -277,24 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/high-war-risk-premiums-for-airline-insurance-to-push-up-airfares/article70711883.ece",
     "time": "2026-03-06T15:00:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yash spotted with his wife Radhika at the airport",
-    "desc": "Rocking Star Yash was spotted at the airport with wife Radhika Pandit, sporting a new beard look that delighted fans. The actor's appearance comes amidst growing anticipation for his upcoming film 'Toxic', which has reportedly been postponed to June 4. The couple's airport arrival turned into a mini fan fest, highlighting Yash's immense popularity.",
-    "img": "https://static.toiimg.com/photo/msid-129162183,imgsize-30132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-spotted-with-his-wife-radhika-at-the-airport-fans-go-crazy-over-toxic-actors-new-beard-look/articleshow/129145354.cms",
-    "time": "2026-03-06T14:58:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shahid Kapoor’s 'Cocktail 2' teaser to premiere with 'Dhurandhar 2'",
-    "desc": "March brings a triple treat for movie lovers! Ranveer Singh's spy-action flick 'Dhurandhar 2' releases March 19, with its trailer on March 7. Adding to the excitement, Shahid Kapoor's 'Cocktail 2' teaser will premiere alongside 'Dhurandhar 2', showcasing Shahid in a fresh look for the September 2026 sequel. Riteish Deshmukh's 'Raja Shivaji' also adds to the cinematic feast.",
-    "img": "https://static.toiimg.com/photo/msid-129161289,imgsize-145770.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoors-cocktail-2-teaser-to-premiere-with-ranveer-singhs-dhurandhar-2-triple-treat-for-fans-in-march/articleshow/129161289.cms",
-    "time": "2026-03-06T14:42:17.000Z"
   },
   {
     "cat": "Sports",
@@ -315,24 +585,6 @@ const newsData_en = [
     "time": "2026-03-06T14:34:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'No shortage of energy in India': Union minister Hardeep Singh Puri amid supply concerns due to US-Iran war",
-    "desc": "Union Minister Hardeep Singh Puri assured citizens there is no energy shortage in India despite West Asian geopolitical tensions. The country has diversified its crude oil imports, with significant supplies now coming from Russia and new LPG contracts with the US, ensuring comfortable availability of fuel.",
-    "img": "https://static.toiimg.com/photo/msid-129159797,imgsize-692522.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-shortage-of-energy-in-india-union-minister-hardeep-singh-puri-amid-supply-concerns-due-to-us-iran-war/articleshow/129159784.cms",
-    "time": "2026-03-06T14:11:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Oprah Winfrey’s slim look at Paris Fashion Week sparks GLP-1 Buzz",
-    "desc": "Oprah Winfrey turned heads at Paris Fashion Week with her stunning new look, featuring a noticeably slimmer silhouette that has set social media abuzz. Her remarkable transformation, linked to GLP-1 medications such as Ozempic, has reignited debates surrounding celebrity weight loss journeys and the impact of cosmetic enhancements, captivating fans and critics alike across the globe.",
-    "img": "https://static.toiimg.com/photo/msid-129159519,imgsize-65936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oprah-winfreys-slim-look-at-paris-fashion-week-sparks-talk-about-glp-1-weight-loss/articleshow/129159519.cms",
-    "time": "2026-03-06T14:10:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Over 10 million barrels bought! Indian refiners buy Russian crude to counter Middle East oil supply shock; US gives 30-day waiver",
     "desc": "Shipping data compiled by Bloomberg shows that roughly 15 million barrels of Russian oil are currently held on tankers in the Arabian Sea and the Bay of Bengal. In addition, vessels carrying about 7 million barrels are anchored near Singapore.",
@@ -340,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indian-refiners-buy-russian-crude-to-counter-middle-east-oil-supply-shock-after-us-irsael-iran-war-us-gives-30-day-waiver-in-russian-oil/articleshow/129159291.cms",
     "time": "2026-03-06T14:10:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jaya Bachchan helped Tigmanshu when he got threats during 'Haasil' shoot",
-    "desc": "Filmmaker Tigmanshu Dhulia faced significant challenges while shooting his debut film 'Haasil' in his hometown, Allahabad. Local political figures, angered by the film's portrayal of campus politics, issued threats, prompting Dhulia to seek help from Jaya Bachchan to resolve the crisis.",
-    "img": "https://static.toiimg.com/photo/msid-129158952,imgsize-68296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tigmanshu-dhulia-recalls-jaya-bachchan-helping-him-after-he-got-threats-during-haasil-shoot-in-allahbad/articleshow/129158573.cms",
-    "time": "2026-03-06T13:53:21.000Z"
   },
   {
     "cat": "Sports",
@@ -369,24 +612,6 @@ const newsData_en = [
     "time": "2026-03-06T13:12:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Salman Khan to join hands with Vijay Thalapathy's film's director",
-    "desc": "Bollywood superstar Salman Khan is set to embark on an exhilarating new journey, greenlighting a high-octane action thriller in collaboration with renowned producer Dil Raju and visionary director Vamshi Paidipally. The cameras will roll in April 2026, with an exciting release scheduled for 2027.",
-    "img": "https://static.toiimg.com/photo/msid-129155197,imgsize-85886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-joins-hands-with-dil-raju-and-national-award-winner-vamshi-paidipally-for-an-actioner-shooting-starts-next-month/articleshow/129155197.cms",
-    "time": "2026-03-06T13:11:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Project Hail Mary' to release in India on March 26, avoiding 'Dhurandhar 2'",
-    "desc": "Mark your calendars for March 26, 2026, as Ryan Gosling makes his epic return to the big screen in 'Project Hail Mary.' Produced by Amazon MGM Studios and distributed by Sony Pictures, this sci-fi masterpiece will entertain audiences across India in English, Hindi, Tamil, and Telugu, available in premium viewing options including IMAX.",
-    "img": "https://static.toiimg.com/photo/msid-129156536,imgsize-117706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-goslings-sci-fi-film-project-hail-mary-set-for-india-theatrical-release-on-march-26/articleshow/129156536.cms",
-    "time": "2026-03-06T13:05:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Not Varun Chakravarthy, Kapil Dev names this cricketer as 'number one bowler'",
     "desc": "Kapil Dev lauded Jasprit Bumrah as the world's number one bowler after his crucial spell in India's T20 World Cup semi-final win over England. He also praised Sanju Samson's consistent batting. India now faces New Zealand in the final, aiming for multiple historic achievements.",
@@ -396,24 +621,6 @@ const newsData_en = [
     "time": "2026-03-06T12:59:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Khushi's heartfelt message for elder sisterJanhvi Kapoor",
-    "desc": "Janhvi Kapoor celebrated her 29th birthday with a touching tribute from sister Khushi, featuring cherished childhood photos with their late mother Sridevi. Janhvi also continued her spiritual tradition with a barefoot pilgrimage to Tirumala Venkateswara Temple. The actress's upcoming projects include the Telugu film 'Peddi' and Khushi's role in 'Mom 2'.",
-    "img": "https://static.toiimg.com/photo/msid-129156363,imgsize-37824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/khushi-kapoors-heartfelt-message-for-elder-sister-janhvi-kapoor-on-her-29th-birthday-says-thank-you-for-being-the-best-human-ever/articleshow/129155963.cms",
-    "time": "2026-03-06T12:58:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Final chapter streams April 8",
-    "desc": "Get ready for the adrenaline rush as 'The Boys' returns for its explosive fifth season on April 8, 2026, exclusively on Amazon Prime Video. This isn't just any season finale; it's a showdown years in the making between Homelander and Billy Butcher.",
-    "img": "https://static.toiimg.com/photo/msid-129155717,imgsize-180024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/the-boys-season-5-ott-release-when-to-catch-the-final-homelander-vs-billy-butcher-clash/articleshow/129155717.cms",
-    "time": "2026-03-06T12:52:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sanju Samson emerges as India’s only contender in Player of the Tournament race",
     "desc": "Sanju Samson has become a key player for India in the T20 World Cup 2026. He delivered crucial performances, including a 97 against West Indies and 89 in the semi-final against England. Samson's form earned him a Player of the Tournament nomination. He now holds the record for most sixes by an Indian in a single T20 World Cup edition.",
@@ -421,33 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sanju-samson-emerges-as-indias-only-contender-in-player-of-the-tournament-race/articleshow/129155188.cms",
     "time": "2026-03-06T12:35:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP, Congress issue whip for MPs as Lok Sabha likely to take up notice against Speaker Om Birla",
-    "desc": "Lok Sabha MPs from both ruling BJP and opposition Congress have been issued a three-line whip to be present from March 9-11 for the second phase of the Budget Session. The House is expected to address the opposition's notice seeking the removal of Lok Sabha Speaker Om Birla amidst ongoing political developments.",
-    "img": "https://static.toiimg.com/photo/msid-129155128,imgsize-159442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/parliament-budget-session-bjp-congress-issue-whip-for-mps-as-lok-sabha-likely-to-take-up-notice-against-speaker-om-birla/articleshow/129155165.cms",
-    "time": "2026-03-06T12:34:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mahesh Manjrekar reveals why Mumbai's struggle is silent",
-    "desc": "Mahesh Manjrekar's new play 'Animal' pulls back the curtain on the often unseen battles that accompany the pursuit of dreams in Mumbai. With Dattu as his focal point, a young man whose bravado diminishes in the face of adversity, Manjrekar crafts a narrative that is both heart-wrenching and relatable.",
-    "img": "https://static.toiimg.com/photo/msid-129154670,imgsize-187462.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahesh-manjrekar-reveals-why-mumbais-struggle-is-silent-while-discussing-play-animal/articleshow/129154670.cms",
-    "time": "2026-03-06T12:29:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "UPSC announces CSE 2025 results; Qatar warns Gulf energy exports could halt if US-Iran conflict continues &amp; more",
-    "desc": "The UPSC announced the Civil Services Examination 2025 results, with 958 candidates recommended for various services, and Anuj Agnihotri topping the list. Meanwhile, Qatar warned of potential Gulf energy export halts within weeks due to escalating Iran-US-Israel tensions, which could drive oil prices to $150 per barrel.",
-    "img": "https://static.toiimg.com/photo/msid-129154304,imgsize-416929.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-upsc-announces-cse-2025-results-qatar-warns-gulf-energy-exports-could-halt-if-us-iran-conflict-continues-more/articleshow/129154108.cms",
-    "time": "2026-03-06T12:21:50.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +648,6 @@ const newsData_en = [
     "time": "2026-03-06T11:53:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Easy to make choices with someone else's money', Kunal on 8-hour shift row",
-    "desc": "Following Deepika Padukone's reported demand for an eight-hour workday, actors like Kunal Kemmu and Saif Ali Khan discussed the realities of show business. They emphasized that choosing a career in acting comes with inherent expectations and that professionals must understand the commitment required for success and the lifestyle they desire.",
-    "img": "https://static.toiimg.com/photo/msid-129150258,imgsize-94724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/easy-to-make-choices-with-someone-elses-money-says-kunal-kemmu-amidst-deepika-padukones-eight-hour-shift-row-you-plan-motherhood/articleshow/129150091.cms",
-    "time": "2026-03-06T11:02:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Where’s the rest of you?': McCullum stunned by Rohit Sharma’s fitness",
     "desc": "Former India captain Rohit Sharma's striking physical transformation drew admiration from England's Eoin Morgan and Brendon McCullum at the Wankhede Stadium. Sharma, present as a guest, engaged warmly with players from both sides, offering encouragement and insights before India's crucial T20 World Cup semi-final victory. His presence added to the pre-match buzz.",
@@ -493,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/post-study-work-visa-cost-in-australia-doubles-to-au-4600-most-expensive-globally/articleshow/129148036.cms",
     "time": "2026-03-06T10:25:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nitish Kumar heads to Delhi, how JD(U) faces its defining test in Bihar",
-    "desc": "Bihar's political landscape shifts as Nitish Kumar opts for a Rajya Sabha seat, stepping down as Chief Minister. This move marks the end of an era dominated by Jayaprakash Narayan's disciples and leaves the Janata Dal (United) in uncharted territory without a clear successor.",
-    "img": "https://static.toiimg.com/photo/msid-129146892,imgsize-682746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nitish-kumar-heads-to-delhi-how-jdu-faces-its-defining-test-in-bihar-rajya-sabha-bjp-bihar-chief-minister/articleshow/129146823.cms",
-    "time": "2026-03-06T10:16:36.000Z"
   },
   {
     "cat": "Sports",
@@ -576,15 +738,6 @@ const newsData_en = [
     "time": "2026-03-06T08:23:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Shift from traditional to technology-driven farming",
-    "desc": "Uttar Pradesh, India's breadbasket, is experiencing a dramatic agricultural transformation. Productivity has surged by over 42% since 2016-17, driven by technology, hybrid seeds, and irrigation. The state now leads in wheat and is a major producer of rice, pulses, oilseeds, and horticulture, with sugarcane remaining a vital crop. Government support and market reforms are bolstering farmer prosperity",
-    "img": "https://static.toiimg.com/photo/msid-129144855,imgsize-149692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/shift-from-traditional-to-technology-driven-farming-up-sees-surge-in-agricultural-productivity/articleshow/129140437.cms",
-    "time": "2026-03-06T08:11:05.000Z"
-  },
-  {
     "cat": "World",
     "title": "Singapore announces new committee to strengthen Indian community identity",
     "desc": "The INEI committee will be chaired by Senior Minister of State for Transport and Law Murali Pillai, as well as Minister of State for Culture, Community and Youth Dinesh Vasu Dash, both of whom are of Indian origin",
@@ -628,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/samson-among-eight-nominees-for-t20wc-player-of-the-tournament-announced-by-icc/article70710591.ece",
     "time": "2026-03-06T06:57:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Exploitation': Rahul Gandhi takes 'compromised individual' dig at Centre after US waiver on Russian oil",
-    "desc": "Rahul Gandhi criticized PM Modi's foreign policy, calling the US waiver on Russian oil purchases a result of exploiting a \"compromised individual.\" The Congress questioned this \"American blackmail,\" while the US stated the waiver aims to stabilize global energy amid Middle East tensions, expecting India to increase US oil imports.",
-    "img": "https://static.toiimg.com/photo/msid-129138203,imgsize-742243.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/exploitation-rahul-gandhi-takes-compromised-individual-dig-at-centre-after-us-waiver-on-russian-oil/articleshow/129137967.cms",
-    "time": "2026-03-06T06:51:05.000Z"
   },
   {
     "cat": "Sports",
@@ -754,149 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/nepal-polls-a-defining-moment-with-many-ifs-and-more-buts/article70707004.ece",
     "time": "2026-03-05T12:29:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Daren Sammy pleads for exit as West Indies remain stranded in India",
-    "desc": "The West Indies, who were knocked out of the T20 World Cup after losing to India in the Super Eight stage on March 1, have been unable to fly back home as flight operations through parts of the Gulf region remain disrupted",
-    "img": "https://th-i.thgim.com/public/incoming/w33pp0/article70707185.ece/alternates/LANDSCAPE_1200/2026-03-01T132146Z_2043126464_UP1EM311149D6_RTRMADP_3_CRICKET-T20-WORLDCUP-IND-WIN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/i-just-wanna-go-home-daren-sammy-pleads-for-exit-as-west-indies-remain-stranded-in-india/article70707176.ece",
-    "time": "2026-03-05T12:19:07.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Nepal is going to polls on March 5: Why it matters",
-    "desc": "Nepal is heading to the polls on March 5, 2026 — a landmark election triggered two years early by a youth-led uprising that brought down the government, killed 77 people, and set an entire country on a new course.",
-    "img": "https://th-i.thgim.com/public/incoming/ox14fh/article70704675.ece/alternates/LANDSCAPE_1200/Nepal%202.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-nepal-is-going-to-polls-on-march-5-why-it-matters-the-hindu-explains/article70704689.ece",
-    "time": "2026-03-05T09:59:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Thavil artiste Amirthavarshini: Performing with A.R. Rahman was a wonderful experience",
-    "desc": "From playing the thavil in the temples of Mannargudi near Thanjavur as a schoolgirl to joining A.R. Rahman’s ‘Wonderment Tour’ concert in Chennai recently, Amirthavarshini Manishankar’s musical journey seems like a fairy tale. But in reality, it is also a story of conviction and perseverance — of a young girl carving a space for herself as a thavil artiste in the male‑dominated world of Carnatic percussion.",
-    "img": "https://th-i.thgim.com/public/incoming/42r6ll/article70706717.ece/alternates/LANDSCAPE_1200/amirthavarshini.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-thavil-artiste-amirthavarshini-performing-with-ar-rahman-was-a-wonderful-experience/article70706716.ece",
-    "time": "2026-03-05T09:37:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iranian sailors recovering in Sri Lankan hospital after U.S. submarine attack, authorities say",
-    "desc": "Authorities at the National Hospital ‌in Galle and navy sources said 87 bodies were brought in by ‌military rescuers who responded to an early-morning ‌distress ⁠call from the IRIS Dena on Wednesday (March 4, 2026)",
-    "img": "https://th-i.thgim.com/public/incoming/yajc3h/article70706004.ece/alternates/LANDSCAPE_1200/2026-03-05T045258Z_876775890_RC22YJA5YGQP_RTRMADP_3_IRAN-CRISIS-SUBMARINE-SRI-LANKA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iranian-sailors-recovering-in-sri-lankan-hospital-after-us-submarine-attack-authorities-say/article70705988.ece",
-    "time": "2026-03-05T06:29:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Lanterns’ teaser: Kyle Chandler and Aaron Pierre’s tense partnership to steer upcoming DC series",
-    "desc": "HBO has unveiled the first teaser for Lanterns, offering a glimpse of Kyle Chandler’s veteran Hal Jordan and Aaron Pierre’s rookie John Stewart as the two Green Lanterns investigate a mysterious murder on Earth while clashing over authority and experience",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/2rggar/article70706164.ece/alternates/LANDSCAPE_1200/MV5BMWM1Mzk0MTgtNGNlNC00MDZiLWIyMDQtZDgxY2Y5NTlmMWQzXkEyXkFqcGc._V1_.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/lanterns-teaser-kyle-chandler-and-aaron-pierres-tense-partnership-to-steer-upcoming-dc-series/article70706165.ece",
-    "time": "2026-03-05T06:05:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Republicans vote down legislation to halt Iran war in Congress' first vote on conflict",
-    "desc": "The war powers resolution gave lawmakers an opportunity to demand congressional approval before any further attacks are carried out; the vote forced them to take a stand on a war shaping the fate of U.S. military members, countless other lives and the future of the region.",
-    "img": "https://th-i.thgim.com/public/incoming/xvzzrm/article70705016.ece/alternates/LANDSCAPE_1200/2026-03-04T230210Z_221227484_RC2XXJAVEKV1_RTRMADP_3_IRAN-CRISIS-USA-CONGRESS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/republicans-vote-down-legislation-to-halt-iran-war-in-congress-first-vote-on-conflict/article70705012.ece",
-    "time": "2026-03-05T01:41:19.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump weighing U.S. role in Iran after conflict, White House says",
-    "desc": "A Reuters/Ipsos poll released earlier this week showed ⁠that only one in four Americans approves of U.S. strikes on Iran that have plunged the West Asia into ‌chaos, while about half — including one in four Republicans — believe Mr. Trump is too willing to use military force.",
-    "img": "https://th-i.thgim.com/public/incoming/twyhg9/article70705739.ece/alternates/LANDSCAPE_1200/2026-03-04T190937Z_274373082_RC2UXJAITBLM_RTRMADP_3_USA-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-weighing-us-role-in-iran-after-conflict-white-house-says/article70705380.ece",
-    "time": "2026-03-05T01:39:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Torpedo attack by U.S. submarine sinks Iranian frigate off Sri Lanka",
-    "desc": "At least 83 dead; U.S. Defence Secretary Pete Hegseth claims this is first sinking of an enemy ship by a torpedo since World War II; Iranian frigate was returning from a maritime exercise in Visakhapatnam",
-    "img": "https://th-i.thgim.com/public/incoming/e2eztk/article70703685.ece/alternates/LANDSCAPE_1200/AFP_99W66NC.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/strike-on-iranian-warship-off-sri-lanka-us-israel-iran-war/article70703655.ece",
-    "time": "2026-03-05T01:16:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. House committee votes to subpoena Attorney General Bondi to answer questions over the Epstein files",
-    "desc": "Five Republicans joined Democrats to support the subpoena proposed by GOP Rep. Nancy Mace of South Carolina in a sign of continued frustration with the department's review and release of a tranche of documents regarding the disgraced financier",
-    "img": "https://th-i.thgim.com/public/incoming/eis0jl/article70705000.ece/alternates/LANDSCAPE_1200/2026-03-04T182835Z_1188262634_RC2TJJA73XOP_RTRMADP_3_USA-JUSTICE-ETHICS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-house-committee-votes-to-subpoena-attorney-general-bondi-to-answer-questions-over-the-epstein-files/article70704883.ece",
-    "time": "2026-03-04T22:02:53.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Spain denies U.S. claim of military cooperation on Iran as rift deepens",
-    "desc": "\"We will not be complicit in something that is harmful to the world and contrary to our values and interests, simply out of fear of retaliation,\" Spain's Socialist Prime Minister Pedro Sanchez said after Trump had lashed out at Sanchez's government, calling Spain a \"terrible\" ally",
-    "img": "https://th-i.thgim.com/public/incoming/6d9asp/article70704867.ece/alternates/LANDSCAPE_1200/2026-02-23T095015Z_1193435010_RC2KRJAUU25K_RTRMADP_3_UKRAINE-CRISIS-EU-FOREIGN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/spain-denies-us-claim-of-military-cooperation-on-iran-as-rift-deepens/article70704863.ece",
-    "time": "2026-03-04T20:30:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "History-chasing India, England on collision course at iconic Wankhede",
-    "desc": "There hasn’t been one standout performer, but Suryakumar & Co. have been able to eke out contributions from different personnel at key moments; Brook’s men have had a grand campaign after an early loss to West Indies and the shift back from slightly tricky tracks in Sri Lanka to a potentially excellent one for batting isn’t the most demanding",
-    "img": "https://th-i.thgim.com/public/sport/x8mt9v/article70704776.ece/alternates/LANDSCAPE_1200/INDIA%20E.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/history-chasing-india-england-on-collision-course-at-iconicwankhede/article70704768.ece",
-    "time": "2026-03-04T18:52:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Gavaskar: Sanju Samson’s innings was one of the finest T20 knocks we have seen",
-    "desc": "Former Indian batting legend Sunil Gavaskar looks ahead to the semifinal between India and England at the ICC T20 World Cup, his thoughts on Sanju Samson’s matchwinning innings against West Indies, and why Jasprit Bumrah is so difficult to face.",
-    "img": "https://th-i.thgim.com/public/incoming/m26qyk/article70703762.ece/alternates/LANDSCAPE_1200/gavaskar.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-sunil-gavaskar-sanju-samsons-innings-was-one-of-the-finest-t20-knocks-we-have-seen/article70703763.ece",
-    "time": "2026-03-04T13:41:06.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Thai poll body certifies election results, clearing path for new parliament",
-    "desc": "Under ‌the rules, the new ‌parliament ⁠must meet within 15 days of ⁠certification; it will elect a speaker and deputy speaker and will then choose ​a Prime Minister, ‌who will move to form a government",
-    "img": "https://th-i.thgim.com/public/incoming/lkagba/article70703406.ece/alternates/LANDSCAPE_1200/2026-02-12T075108Z_242822283_RC25KJAGU2ZA_RTRMADP_3_THAILAND-ELECTION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/thai-poll-body-certifies-election-results-clearing-path-for-new-parliament/article70703378.ece",
-    "time": "2026-03-04T12:25:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bejoy Nambiar Interview: Why I never watched the original",
-    "desc": "In this episode of Inside Man, Sudhish Kamath sits down with filmmaker Bejoy Nambiar, director of Tu Yaa Main, for a candid conversation about finding — and defending — your creative voice. After years of being labelled “style over substance,” Bejoy opens up about how he battled the tag, why he has finally made peace with it, and how Tu Yaa Main — his best reviewed film yet — shifted that narrative.",
-    "img": "https://th-i.thgim.com/public/incoming/ar6ov1/article70702687.ece/alternates/LANDSCAPE_1200/05_Bejoy_Nambiar.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-bejoy-nambiar-interview-why-i-never-watched-the-original/article70702688.ece",
-    "time": "2026-03-04T08:40:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "From Tezaab to Subedar: Suresh Triveni’s Full Circle with Anil Kapoor",
-    "desc": "In this episode of Inside Man, Sudhish Kamath sits down with filmmaker Suresh Triveni — director of Subedar (releasing March 5), showrunner of Daldal on Prime Video, and the upcoming Netflix film Maa Behn starring Madhuri Dixit and Tripti Dimri. Before Tumhari Sulu, Suresh waited nearly eight years to make his breakthrough film. Since then, he went on to direct Jalsa — and now finds himself with three major releases in a single year.",
-    "img": "https://th-i.thgim.com/public/incoming/fm34ox/article70702483.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20at%2012.21.44%E2%80%AFPM.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-from-tezaab-to-subedar-suresh-trivenis-full-circle-with-anil-kapoor/article70702461.ece",
-    "time": "2026-03-04T06:56:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Iran football federation president says World Cup participation in U.S. is in doubt",
-    "desc": "Iran has been drawn in Group G at the World Cup and is scheduled to play in Inglewood, California, against New Zealand on June 15 and Belgium on June 21 before finishing the first round against Egypt in Seattle on June 26",
-    "img": "https://th-i.thgim.com/public/incoming/i1juyw/article70693889.ece/alternates/LANDSCAPE_1200/2026-02-27T182102Z_1448269501_UP1EM2R1EZ0PA_RTRMADP_3_SOCCER-WORLDCUP-TROPHY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/iran-soccer-federation-president-says-world-cup-participation-in-us-is-in-doubt/article70693886.ece",
-    "time": "2026-03-04T06:23:51.000Z"
   }
 ];
