@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 Players who can help India win the T20 World Cup final vs New Zealand",
+    "desc": "1. Abhishek Sharma Yes. This name could surprise many, but Abhishek Sharma can win India the T20 World Cup final singlehandedly. He has been exposed entirely in the tournament, while his temperament is also being questioned...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3-players-who-can-help-india-win-the-t20-world-cup-final-vs-new-zealand-2026-03-07-1032982",
+    "time": "2026-03-07T15:12:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Axar Patel was not happy when we dropped him, reveals Suryakumar Yadav ahead of T20 World Cup final",
+    "desc": "Axar Patel took two stunning catches and put up a brilliant fielding effort to assist in the third as he starred for India in their seven-run win over England in the T20 World Cup semifinal....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-was-not-happy-when-we-dropped-him-reveals-suryakumar-yadav-ahead-of-t20-world-cup-final-2026-03-07-1032977",
+    "time": "2026-03-07T14:09:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Looking back at 3 thrilling finals before the 4th battle in Ahmedabad",
+    "desc": "India and New Zealand will lock horns against each other on Sunday in the final of the T20 World Cup at the Narendra Modi Stadium in Ahmedabad. This is the fourth time the two teams...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-t20-world-cup-final-looking-back-at-3-thrilling-finals-before-the-4th-battle-in-ahmedabad-2026-03-07-1032972",
+    "time": "2026-03-07T13:28:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Don't mind not being favourites': Mitchell Santner fine with New Zealand being underdogs even in T20 WC final",
     "desc": "New Zealand punch above their weight every time in ICC events, be it the ODI or T20 World Cup, Champions Trophy, or even the World Test Championship. They won the inaugural WTC edition out of...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrahs-death-over-mastery-can-scare-new-zealand-in-t20-world-cup-final-as-stats-suggest-2026-03-07-1032914",
     "time": "2026-03-07T05:07:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Should India drop Varun Chakravarthy for Kuldeep Yadav in T20 World Cup final vs New Zealand?",
-    "desc": "India’s leading wicket-taker in the ongoing T20 World Cup 2026, Varun Chakravarthy conceded 64 runs in his four overs in the semi-final clash against England. None of his plans worked in the middle as Jacob...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/should-india-drop-varun-chakravarthy-for-kuldeep-yadav-in-t20-world-cup-final-vs-new-zealand-2026-03-07-1032903",
-    "time": "2026-03-07T03:13:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lakshya Sen outclasses China's Li Shifeng to progress to All England Open semi-final",
-    "desc": "Lakshya Sen defeated China’s Li Shifeng to move to the semi-finals of the All England Open Badminton Championships in Birmingham. The Indian shuttler delivered a composed and assertive performance at the Utilita Arena Birmingham, beating...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/lakshya-sen-outclasses-china-s-li-shifeng-to-progress-to-all-england-open-semi-final-2026-03-07-1032899",
-    "time": "2026-03-07T01:58:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "12 ISL clubs call out AIFF over revenue share in crisis-hit season, allege federation of earning 40% profit",
-    "desc": "Twelve ISL clubs, excluding NorthEast United and Jamshedpur FC, have written a strong-worded letter to the All India Football Federation (AIFF), accusing them of earning a significant profit of over Rs 3.4 crore from the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/12-isl-clubs-call-out-aiff-over-revenue-share-in-crisis-hit-season-allege-federation-of-earning-40-profit-2026-03-07-1032896",
-    "time": "2026-03-07T01:23:14.000Z"
   }
 ];

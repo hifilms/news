@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "સેન્ટનરની ધમકી પર સૂર્યાનો વળતો પ્રહાર, ફાઈનલમાં વરુણ ચક્રવર્તી રમશે કે નહીં? તેનો પણ આપ્યો જવાબ",
+    "desc": "8મી માર્ચે અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં ટી20 વર્લ્ડ કપ 2026ની ફાઈનલ રમાય તે પહેલા બંને ટીમોના કેપ્ટનો વચ્ચે શાબ્લિક જંગ જોવા મળ્યો છે. આ ઉપરાંત સૂર્યકુમાર યાદવે વરુણ ચક્રવર્તી વિશે પણ મોટું નિવેદન આપ્યું છે. જાણો શું કહ્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/surya-hits-back-at-mitchell-santner-will-varun-chakravarthy-play-in-the-final-or-not-467575 ",
+    "time": "2026-03-07T15:05:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "યુદ્ધના તણાવ વચ્ચે ભારતમાં ઈંધણ મોંઘું થશે? ઓઈલ કંપનીઓની મોટી સ્પષ્ટતા, જાણો શું છે હકીકત",
+    "desc": "અમેરિકા, ઈરાન અને ઈઝરાયલ વચ્ચે વધતા તણાવને કારણે સોશિયલ મીડિયા પર ભારતમાં પેટ્રોલ-ડીઝલના ભાવ વધવાની અફવાઓ ફેલાઈ રહી છે. જો કે, દેશની અગ્રણી ઓઈલ કંપનીઓએ સ્પષ્ટતા કરી છે કે, આ સમાચાર પાયાવિહોણા છે. ભારત પાસે પૂરતો તેલનો જથ્થો છે અને હાલ ભાવ વધારાની કોઈ શક્યતા નથી. તેથી જનતાએ ગભરાયા વગર આવી ભ્રામક માહિતી પર વિશ્વાસ ન કરવો જોઈએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/israel-iran-conflict-impact-on-crude-oil-prices-and-petrol-diesel-rates-in-india-reality-check-467576 ",
+    "time": "2026-03-07T15:03:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "અચાનક બંપર ડિસ્કાઉન્ટ પર સોનું વેચી રહ્યા છે વેપારીઓ, જાણો કેમ અને શું ભાવ?",
+    "desc": "વૈશ્વિક સ્તરે ભારે ઉથલપાથલભર્યો માહોલ છે. મીડલ ઈસ્ટ ઈરાન અને ઈઝરાયેલ વચ્ચેના યુદ્ધને પગલે ભડકે બળી રહ્યું છે. અનેક દેશો તેની લપેટમાં આવ્યા છે. આ બધા વચ્ચે સામાન રઝળી પડ્યા છે. રિપોર્ટ મુજબ ગોલ્ડના અનેક શિપમેન્ટ દુબઈમા ફસાયા છે જેને પગલે આ સ્ટોક કાઢવા માટે ઓછા ભાવે વેચાઈ રહ્યો છે. વધુ વિગતો માટે વાંચો અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/iran-israel-war-dubai-traders-selling-gold-at-discounted-prices-know-the-reason-and-rate-467573 ",
+    "time": "2026-03-07T13:46:27.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "રશિયન ઓઈલની ખરીદી પર છૂટ આપવાના અમેરિકાના દાવા પર ભારતે કર્યો જોરદાર પલટવાર",
     "desc": "હોર્મુઝ જળમાર્ગ ઈરાને બંધ કરતા ઊભા થયેલા ક્રૂડ ઓઈલ અને ગેસના પડકાર પર અમેરિકાએ જાણે ઉપકાર કરતું હોય તે રીતે ભારતને 30 દિવસ સુધી રશિયન ઓઈલ ખરીદવા માટે છૂટ આપી હોવાનો દાવો કરતા ભારતે હવે પલટવાર કરીને અમેરિકાને જડબાતોડ જવાબ આપ્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/indias-befitting-reply-to-america-over-russian-oil-purchase-iran-israel-war-467569 ",
-    "time": "2026-03-07T12:40:12.000Z"
+    "time": "2026-03-07T13:02:06.000Z"
   },
   {
     "cat": "Sports",
@@ -360,15 +387,6 @@ const newsData_gu = [
     "time": "2026-03-06T06:27:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "મેચની અંતિમ ક્ષણોમાં ગંભીર અને કેપ્ટન સૂર્યકુમારે એવું તે શું કર્યું કે આખી મેચ પલટાઈ ગઈ...??",
-    "desc": "કેરેબિયન મેદાન પર ક્રિકેટનો એવો રોમાંચ જોવા મળ્યો જેણે કરોડો ચાહકોના ધબકારા વધારી દીધા હતા. T20 વર્લ્ડ કપની બીજી સેમીફાઈનલમાં ટીમ ઈન્ડિયાએ ડિફેન્ડિંગ ચેમ્પિયન ઈંગ્લેન્ડને એક અત્યંત હાઈ-સ્કોરિંગ થ્રિલરમાં 7 રને હરાવીને ફાઈનલની ટિકિટ મેળવી લીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/a-gesture-between-gambhir-and-suryakumar-yadav-in-the-final-moments-of-the-match-turned-the-match-around-467387 ",
-    "time": "2026-03-06T04:47:12.000Z"
-  },
-  {
     "cat": "World",
     "title": "રશિયન તેલ ખરીદી શકે છે ભારત, જેણે ના પાડી હતી, તે અમેરિકાએ જ આપી છૂટ, જાણો કારણ",
     "desc": "ગુરુવારે ખાનગી પોર્ટલ સાથે વાત કરતા, બે વરિષ્ઠ અમેરિકી અધિકારીઓએ જણાવ્યું હતું કે યુએસ સરકારે 30 દિવસની કામચલાઉ છૂટ આપવાનો નિર્ણય લીધો છે. ભારત હવે 30 દિવસ સુધી રશિયા પાસેથી તેલની ખરીદી કરી શકે છે.",
@@ -547,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-will-increase-the-basic-salary-by-66-percent-central-employees-are-eyeing-this-change-467216 ",
     "time": "2026-03-04T15:52:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "મંદીમાં પણ ધુમ મચાવી રહ્યો છે TATAનો આ શેર, 4 દિવસમાં 66%નો ઉછાળો, જાણો",
-    "desc": "ઘટાડાના બજારમાં પણ, ટાટા ગ્રુપની કંપનીના શેરમાં તેજી જોવા મળી રહી છે. બુધવારે કંપનીના શેર 7 ટકાથી વધુ ઉછળીને 529.65 રૂપિયા પર પહોંચી ગયા હતા. કંપનીના શેર માત્ર ચાર દિવસમાં જ 66 ટકા વધ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-tata-stock-is-making-waves-even-in-recession-jumped-66-percent-in-4-days-know-467189 ",
-    "time": "2026-03-04T12:37:12.000Z"
   },
   {
     "cat": "Entertainment",

@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "যুদ্ধের আঁচ রান্নাঘরে! গ্যাসের দামবৃদ্ধিতে নাজেহাল মধ্যবিত্ত",
+    "desc": "মধ্য প্রাচ্যের যুদ্ধ পরিস্থিতিতে তেল, জ্বালানি গ্যাসের আমদানি-রফতানি ঘিরে সংকট তৈরি হয়েছে ইতিমধ্যেই৷ হরমুজ প্রণালি যেখান দিয়ে মূলত তেল আমদানি করে ভারত, সেই প্রণালিতে তেল সরবরাহ কার্যত রদ করে রেখেছে ইরান৷ এমন পরিস্থিতিতে গত শুক্রবার রাতে এক ধাক্কায় ৬০ টাকা বেড়েছে রান্নার গ্যাসের সিলিন্ডারের দাম৷ আজ থেকে রান্নার গ্যাসের দাম হবে ৯৩৯ টাকা এবং বাণিজ্যিক বা কমার্শিয়াল সিলিন্ডারের দাম বেড়ে হল ১৯৯৯ টাকা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Gas-Price-Hike-2026-03-b0ac1e84ffcced671c74fadb1c918f2b-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/cooking-gas-price-hike-how-middle-class-people-are-facing-it-ank-2573935.html",
+    "time": "2026-03-07T14:53:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "আজই মহাপ্রলয়ের পথে বিশ্ব? ট্রাম্প ছুড়লেন পরমাণু শক্তিধর 'ডুমস ডে মিসাইল'",
+    "desc": "ইসরায়েল এবং আমেরিকার সঙ্গে ইরানের যুদ্ধের মাঝে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের সাম্প্রতিক আক্রমণাত্মক মন্তব্য পরিস্থিতিকে এক নতুন মোড় দিয়েছে। ট্রাম্প স্পষ্ট জানিয়ে দিয়েছেন, ইরানের সামনে এখন মাত্র দুটি পথ খোলা আছে—হয় নিঃশর্ত আত্মসমর্পণ, নতুবা সম্পূর্ণ পতন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/us-air-force-minuteman-iii-icbm-test-launch-march-2026-donald-trump-iran-israel-conflict_644051.html ",
+    "time": "2026-03-07T14:46:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'সুযোগ পেলেই ধর্ষণ করবে, এদের ঠাটিয়ে চড় মারুন', কার বিরুদ্ধে সরব জীতু?",
+    "desc": "জীতুর মতে, যারা জনসমক্ষে থাকা কোনো মহিলার পোস্টারের ওপর পানের পিক ফেলে বা শরীরের বিশেষ অংশ ছিঁড়ে বিকৃতি আনন্দ পায়, তারা আসলে মানসিকভাবে ধর্ষক। জীতু সাধারণ মানুষের কাছে আবেদন জানিয়েছেন, এই ধরণের কার্যকলাপের সঙ্গে যারা যুক্ত, তাদের অবিলম্বে বিরুদ্ধাচরণ করুন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/jeetu-kamal-viral-post-on-suspected-rapists-and-poster-defacing-2026_644046.html ",
+    "time": "2026-03-07T14:07:12.000Z"
+  },
+  {
     "cat": "World",
     "title": "'কোনও হিসাব দেওয়া হবে না'- ভারতে রফতানি করা তেলের কোনও তথ্য দেবে না রাশিয়া! স্পষ্ট জানাল ক্রেমলিন",
     "desc": "রাশিয়া থেকে ভারতের কাছে কত পরিমাণ অশোধিত তেল রফতানি করা হচ্ছে, সে সংক্রান্ত কোনও তথ্য প্রকাশ্যে আনা হবে না। শুক্রবার ক্রেমলিনের তরফে সরাসরি এ কথা জানিয়ে দেওয়া হয়েছে। পাশাপাশি, রুশ প্রেসিডেন্ট ভ্লাদিমির পুতিনের দফতরের মুখপাত্র দিমিত্রি পেসকভ এই বিষয়ে খানিক বিদ্রুপে সুরেই মন্তব্য করেন, ‘‘আমরা অতি অশুভাকাঙ্ক্ষীদের তেল রফতানির তথ্য গোপন রাখব।’’",
@@ -277,15 +304,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/kavinder-gupta-resigns-as-ladakh-lieutenant-governor-nine-months-after-taking-oath-sdg-2570999.html",
     "time": "2026-03-05T16:02:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ইরানের কাছে হারবে আমেরিকা? চিনা নস্ট্রাদামুসের আগের ভবিষ্যদ্বাণী কিন্তু হুবহু মিলেছে!",
-    "desc": "২০২৪ সালের এক বক্তব্যের ভিডিয়ো নতুন করে সোশ্যাল মিডিয়ায় ছড়িয়ে পড়ছে। সেখানে চিনা নস্ট্রাদামুসে যা বলেছেন, তা হয়তো অসম্ভব কথা, শুনে বিশ্বাস হয় না। কী বলেছেন? জিয়াং না কি ভবিষ্যদ্বাণী করেছিলেন, ইরানের সঙ্গে যুদ্ধে হেরে যাবে মার্কিন যুক্তরাষ্ট্র! তাই নাকি? এ-ও কি সম্ভব?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/china-nostradamus-chinese-professor-xueqin-jiang-said-us-will-lose-the-iran-war-what-is-next_643804.html ",
-    "time": "2026-03-05T15:18:35.000Z"
   },
   {
     "cat": "Politics",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/superstar-actor-vijay-wife-sangeeta-reveals-shocking-incidents-that-happened-in-2021-files-divorce-petition-pbd-2563702.html",
     "time": "2026-03-01T11:04:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "আমেরিকা এবং ইজরায়েলের যৌথ হামলায় নিহত ইরানের সর্বোচ্চ ধর্মীয় নেতা খামেনেই",
-    "desc": "ইরানের সর্বোচ্চ নেতা আয়াতোল্লা আলি খামেনেই নিহত। আগেই দাবি করেছিলেন ইজরায়েলের প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহু এবং মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ৷ ইরানের সরকারি সংবাদমাধ্যমের পক্ষ থেকেও খামেনেইয়ের মৃত্যুর সত্যতা স্বীকার করা হয়েছে ৷ ইরানের সর্বোচ্চ ধর্মীয় নেতা আয়াতোল্লা আলি খামেনেই নিহত হয়েছেন। আমেরিকা এবং ইজরায়েলের যৌথ হামলায় তাঁর মৃত্যু হয়েছে বলে রবিবার সকালে নিশ্চিত করেছে তেহরানও। ইরানের সরকারি সংবাদমাধ্যম জানিয়েছে, দেশ জুড়ে ৪০ দিনের রাষ্ট্রীয় শোক ঘোষণা করা হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1772362957_CSokFT6V7h-thumbnail-169png-2aN3URUsXh-1200x720.png",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/international/irans-supreme-leader-ayatollah-ali-khamenei-killed-in-joint-us-israeli-attack-2563717.html",
-    "time": "2026-03-01T11:02:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "'ট্রাম্প হিটলারের থেকেও খারাপ! বিশ্ব দখল করছে', ভারত কোন পথে? কী মত ইমন কল্যাণ লাহিড়ীর",
-    "desc": "ইরানের উপর যৌথভাবে হামলা চালিয়েছে আমেরিকা-ইজরায়েল৷ নিহত ইরানের সর্বোচ্চ ধর্মীয় নেতা আয়াতোল্লা আলি খামেনেই৷ এ বিষয়ে আগামী দিনে ভারতের কী করা উচিত তা জানালেন যাদবপুর বিশ্ববিদ্যালয়ের আন্তর্জাতিক সম্পর্ক (International Relation) বিভাগের প্রাক্তন বিভাগীয় প্রধান ডঃ ইমনকল্যাণ লাহিড়ী৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/World-war-2026-03-99289c4ab678084f42e0145e2457bf35-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/kolkata/iran-israel-war-what-should-india-do-in-this-situation-here-is-what-expert-has-said-ank-2563675.html",
-    "time": "2026-03-01T10:52:08.000Z"
   }
 ];
