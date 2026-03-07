@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "'অস্ত্র উৎপাদন ৪ গুণ করা হোক'! গোলা-বারুদের সীমাহীন মজুত নিয়ে আশ্বস্ত করলেন ট্রাম্প, প্রতিরক্ষা সংস্থাগুলির সঙ্গে বৈঠকের দাবি!",
+    "desc": "মধ্যপ্রাচ্যে ইরানকে ঘিরে চলা সংঘাতের আবহেই মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প বড় ঘোষণা করলেন। তিনি জানিয়েছেন, যুক্তরাষ্ট্রের শীর্ষ প্রতিরক্ষা উৎপাদনকারী সংস্থাগুলির সঙ্গে বৈঠকের পর উন্নত অস্ত্র উৎপাদন দ্রুত বাড়ানোর সিদ্ধান্ত নেওয়া হয়েছে। ট্রাম্প তাঁর সোশ্যাল মিডিয়া প্ল্যাটফর্মে পোস্ট করে জানান, বৈঠকে অংশ নেওয়া সংস্থাগুলি ‘এক্সকুইজিট ক্লাস’ বা অত্যাধুনিক অস্ত্রশস্ত্রের উৎপাদন চারগুণ বাড়াতে সম্মত হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-07-at-10.42.22-AM-2026-03-3e2ed9855a1000eb50ee28f8f7d8b5b5-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/us-president-donald-trump-announces-quadrupling-of-arms-production-amid-iran-israel-tensions-here-is-why-meeting-arranged-tib-ws-l-2572974.html",
+    "time": "2026-03-07T05:13:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "হরমুজ প্রণালী দিয়ে তেল আমদানি ধাক্কা খেলে ভারতে জ্বালানির দামে আগুন লাগতে পারে ! রাশিয়া থেকেও জ্বালানি আমদানি বাড়াল ভারত",
+    "desc": "হরমুজ প্রণালী বেশি দিন বন্ধ থাকলে ভারতের অর্থনীতি চাপে পড়ে যাবে। রফতানি মার খাবে। ধাক্কা খাবে তেল আমদানি। তখন সব জিনিসেরই দাম বাড়ার আশঙ্কা। হরমুজ প্রণালী বন্ধে অর্থনীতি চাপে ! হরমুজ বন্ধের প্রভাব ভারতের বাজারে ! চা থেকে চাল...ধাক্কা খেতে পারে রফতানি ৷ তেল আমদানিও ধাক্কা খাওয়ার আশঙ্কা ৷ ভারতে বেড়ে যেতে পারে জ্বালানির দাম ৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Hormuz-Blocked-2026-03-45c7cbf3262820a5989b28163a6ae002-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/hormuz-blockade-us-reaches-out-to-india-for-russian-oil-help-to-lower-petrol-prices-hormuz-energy-secretary-chris-wright-ss-2572873.html",
+    "time": "2026-03-07T04:52:41.000Z"
+  },
+  {
+    "cat": "World",
     "title": "থরেথরে জমে আছে, যুদ্ধ লাগতেই স্টক ক্লিয়ারেন্স সেল: দুবাইয়ে দারুণ সস্তা সোনা",
     "desc": "সাধারণত আন্তর্জাতিক বাণিজ্যের ক্ষেত্রে সোনা যাত্রীবাহী বিমানের কার্গো হোল্ডে করে এক দেশ থেকে অন্য দেশে পাঠানো হয়। কিন্তু ইরানের সাম্প্রতিক ক্ষেপণাস্ত্র হামলা এবং পাল্টা হামলার আশঙ্কায় সংযুক্ত আরব আমিরাত (UAE) সহ মধ্যপ্রাচ্যের বিস্তীর্ণ অঞ্চলের আকাশপথ এখন বিপজ্জনক হয়ে উঠেছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -268,15 +286,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/irans-weapons-from-drones-to-ballistic-missiles-overview-of-irans-capabilities-irans-deadliest-weapons-that-can-put-us-and-israel-on-edge_643770.html ",
     "time": "2026-03-05T09:49:25.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ভারতের অতিথিকে ধ্বংস করেছেন ট্রাম্প, এর ফল ভুগতেই হবে-- সাবমেরিন-হামলার পর রণহুংকার ইরানের...",
-    "desc": "ভারতের জন্য এই ঘটনাটি অত্যন্ত স্পর্শকাতর। আইরিস ডেনা ভারত থেকে ফিরতি পথে আক্রান্ত হওয়ায় দিল্লির কূটনৈতিক মহলে অস্বস্তি বেড়েছে। শ্রীলঙ্কার সংসদ সদস্য নামাল রাজাপাকসে এনডিটিভি-কে দেওয়া সাক্ষাৎকারে বলেছেন, “ভারত মহাসাগরে এই ধরনের সামরিক সংঘাত শ্রীলঙ্কা ও ভারতের জন্য চরম উদ্বেগের বিষয়।” ভারত মহাসাগরীয় অঞ্চলে শান্তি বজায় রাখার যে দীর্ঘদিনের চেষ্টা ছিল, এই হামলার ফলে তা বড় ধরনের হুমকির মুখে পড়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/iran-israel-us-war-us-will-regret-this-iran-on-submarine-attack-2000-miles-from-its-shores_643763.html ",
-    "time": "2026-03-05T08:27:35.000Z"
   },
   {
     "cat": "Sports",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/as-khameni-passed-away-mob-vandalized-us-consulate-at-karachi-in-pakistan-smc-2563526.html",
     "time": "2026-03-01T08:49:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "চুমু তো কোনও ব্যাপারই নয়, আরও সাহসী দৃশ্যে ঠাসা ছবি,পরিবারের সঙ্গে বসে দেখতে পারবেন না! এমন ৬টি দক্ষিণী ছবির নাম রইল",
-    "desc": "দক্ষিণ ভারতের এমন কিছু ছবি যাতে তাদের গল্প, দৃশ্য এবং থিম বেশ সাহসী। যদিও এই ছবিগুলো থ্রিলার এবং সাসপেন্সে পূর্ণ, তবে এগুলিতে কিছু প্রাপ্তবয়স্ক দৃশ্য যা একসঙ্গে পরিবারের সবাই মিলে দেখতে পারবেন না। আপনি যদি সেগুলি দেখতে চান, তবে একা বা বন্ধুদের সঙ্গে দেখাই ভাল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1772350153_66-2026-02-dcf559a1436e49657c100ec71d2b1eef-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/films-like-iratta-super-deluxe-tillu-sqaure-6-bold-south-indian-films-can-not-watch-with-family-transpg-pbd-2563467.html",
-    "time": "2026-03-01T08:10:40.000Z"
   }
 ];

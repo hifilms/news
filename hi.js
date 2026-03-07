@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Suryakumar Yadav needs to score runs, says Aakash Chopra after listing his poor show in World Cups",
+    "desc": "After a terrific knock of 84 runs in the opening day against the USA, captain Suryakumar Yadav’s form has dipped significantly. He struggled to counter spin in the ongoing T20 World Cup, resulting in a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-needs-to-score-runs-says-aakash-chopra-after-listing-his-poor-show-in-world-cups-2026-03-07-1032923",
+    "time": "2026-03-07T06:25:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah’s death over mastery can scare New Zealand in T20 World Cup final as stats suggest",
+    "desc": "Jasprit Bumrah has been a force to reckon with in all three formats of the game. There’s hardly a dull day in his life as the pacer continues to establish his authority in international cricket....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrahs-death-over-mastery-can-scare-new-zealand-in-t20-world-cup-final-as-stats-suggest-2026-03-07-1032914",
+    "time": "2026-03-07T05:07:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Should India drop Varun Chakravarthy for Kuldeep Yadav in T20 World Cup final vs New Zealand?",
     "desc": "India’s leading wicket-taker in the ongoing T20 World Cup 2026, Varun Chakravarthy conceded 64 runs in his four overs in the semi-final clash against England. None of his plans worked in the middle as Jacob...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3-new-zealand-players-india-need-to-be-wary-of-in-t20-world-cup-final-2026-03-06-1032862",
     "time": "2026-03-06T13:38:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Gavaskar gives massive compliment to India's T20 WC semifinal hero, 'He is filling voild left by Jadeja'",
-    "desc": "Former India cricketer Sunil Gavaskar has come up with a massive compliment for India vice-captain Axar Patel, after his heroics in the field against England in the T20 World Cup semifinal at the Wankhede Stadium...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-gives-massive-compliment-to-india-s-t20-wc-semifinal-hero-he-is-filling-voild-left-by-jadeja-2026-03-06-1032857",
-    "time": "2026-03-06T12:49:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC confirms match officials for India vs New Zealand T20 World Cup final on Sunday",
-    "desc": "The International Cricket Council (ICC) has confirmed the match officials for the final of the T20 World Cup 2026 between India and New Zealand. The summit clash is scheduled to take place on March 8...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-confirms-match-officials-for-india-vs-new-zealand-t20-world-cup-final-on-sunday-2026-03-06-1032849",
-    "time": "2026-03-06T11:39:27.000Z"
   }
 ];

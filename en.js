@@ -1,6 +1,159 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "New York City Opera hits back at Timothée Chalamet’s comment",
+    "desc": "Responding to Timothée Chalamet's critique that opera is fading from public interest, New York City Opera has released an inspiring video that highlights the heart and soul poured into every production. Featuring behind-the-scenes footage of talented artisans at work and spirited crowds reveling in the performances, this initiative serves as a powerful reminder of opera's enduring charm and cultural significance.",
+    "img": "https://static.toiimg.com/photo/msid-129199318,imgsize-2939015.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/no-one-cares-about-this-new-york-city-opera-hits-back-at-timothe-chalamets-comment-about-opera-and-ballet/articleshow/129199318.cms",
+    "time": "2026-03-07T06:23:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anirudh Ravichander dodges marriage questions once again",
+    "desc": "Anirudh Ravichander, the popular Tamil composer, once again skillfully sidestepped marriage inquiries from the media. When questioned about wedding invitations, he responded with a brief, \"இது வேற\" (this again) before departing. This recurring personal life speculation, particularly concerning Kavya Maran, continues despite his consistent efforts to maintain privacy amidst a packed professional schedule.",
+    "img": "https://static.toiimg.com/photo/msid-129199232,imgsize-116338.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anirudh-ravichander-dodges-marriage-questions-once-again-jana-nayagan-composers-reaction-is-unmissable/articleshow/129199232.cms",
+    "time": "2026-03-07T06:21:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What happens if rain washes out Ahmedabad clash?",
+    "desc": "India national cricket team will face New Zealand national cricket team in the 2026 T20 World Cup final at Narendra Modi Stadium, aiming to defend their title after beating England in the semifinal. If rain disrupts the match, officials will try to finish it the same day or use a reserve day. If no result is possible, both teams share the title. A tie will be decided through repeated Super Overs until a winner emerges.",
+    "img": "https://static.toiimg.com/photo/msid-129198747,imgsize-322310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-nz-t20-world-cup-final-what-happens-if-rain-washes-out-ahmedabad-clash/articleshow/129198323.cms",
+    "time": "2026-03-07T06:09:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TMC MPs likely to vote in favour of resolution",
+    "desc": "Trinamool Congress MPs will now back the no-confidence motion against Lok Sabha Speaker Om Birla, a shift from their earlier stance, following party chief Mamata Banerjee's directive. This move intensifies the political battle as the Lok Sabha prepares to vote on March 9. Opposition parties accuse Birla of partisan conduct, jeopardizing the House's proper functioning and the rights of members.",
+    "img": "https://static.toiimg.com/photo/msid-129198806,imgsize-1645067.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-confidence-motion-against-om-birla-tmc-mps-likely-to-vote-in-favour-of-resolution/articleshow/129198733.cms",
+    "time": "2026-03-07T06:07:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "International Women’s Day: Meet a few certified women snake rescuers from Kerala",
+    "desc": "SARPA, an initiative of the Department of Forests, Government of Kerala, has been training volunteers to rescue snakes. Among these are 140-odd women; as International Women’s Day falls on March 8 we speak to some of them",
+    "img": "https://th-i.thgim.com/public/incoming/vry8qi/article70702625.ece/alternates/LANDSCAPE_1200/05tvm%20vidya.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/society/women-snake-rescuers-trained-by-sarpa/article70702232.ece",
+    "time": "2026-03-07T06:02:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vemal REACTS in a humurous way to Vijay-Trisha's appearance",
+    "desc": "Actor Vemal offered a funny response when asked about Vijay and Trisha attending a wedding together. He mistakenly named another actress, causing laughter. Vijay and Trisha's coordinated appearance at the wedding had already gone viral, sparking fan discussions. Their presence comes amid ongoing personal controversies surrounding Vijay. Footage of them with the newlyweds further fueled online interest.",
+    "img": "https://static.toiimg.com/photo/msid-129197598,imgsize-103776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vemal-reacts-in-a-humurous-way-to-vijay-trishas-wedding-appearance-question-watch-the-video-here/articleshow/129197598.cms",
+    "time": "2026-03-07T05:38:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer is an absolute MENACE",
+    "desc": "The Revenge' has officially dropped, amplifying fan excitement. Directed by Aditya Dhar, the film stars Ranveer Singh as Hamza Ali Mazari, a rising gang leader in Pakistan, and features Arjun Rampal as the antagonist. The espionage thriller, set for a March 19, 2026 release, promises to delve into Hamza's backstory as an Indian spy. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129197622,imgsize-34640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-dhurandhar-the-revenge-trailer-is-out-ranveer-singhs-hamza-is-an-absolute-menace-set-to-become-lyari-towns-badshah/articleshow/129195700.cms",
+    "time": "2026-03-07T05:38:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NMC pushes digital tracking of patient visits in medical college hospitals",
+    "desc": "The National Medical Commission is mandating medical colleges to link their hospital systems with the Ayushman Bharat Digital Mission within 15 days. This move aims to digitize patient records, enabling verification of Ayushman Bharat beneficiaries and weeding out fake entries. It will also allow doctors to access patient medical histories for seamless treatment and improve regulatory oversight of teaching hospitals.",
+    "img": "https://static.toiimg.com/photo/msid-129197018,imgsize-380575.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nmc-pushes-digital-tracking-of-patient-visits-in-medical-college-hospitals/articleshow/129196934.cms",
+    "time": "2026-03-07T05:21:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The most brutal Britney Spears controversies over the years",
+    "desc": "Once celebrated as the queen of pop, Britney Spears' life has evolved into a cautionary tale under the unyielding gaze of the public eye. The infamous 2006 car incident and her dramatic head shave in 2007 are merely chapters in a broader narrative filled with turmoil.",
+    "img": "https://static.toiimg.com/photo/msid-129196601,imgsize-67238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/top-5-most-brutal-britney-spears-controversies-conservatorship-battle-to-dui-arrest/articleshow/129196123.cms",
+    "time": "2026-03-07T05:19:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kareena defends Deepika in film exit and shift debate",
+    "desc": "Kareena Kapoor Khan championed Deepika Padukone's right to set work boundaries post-childbirth. Highlighting her own experience, Kareena emphasized the necessity of meticulous planning and clear communication with directors and producers. She stressed that working mothers, with spousal support, should have the freedom to prioritize family, even if it means declining roles.",
+    "img": "https://static.toiimg.com/photo/msid-129195812,imgsize-161612.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khan-defends-deepika-padukone-in-8-hour-shift-debate-you-should-have-that-freedom-to-say-this-is-what-i-want/articleshow/129195359.cms",
+    "time": "2026-03-07T05:16:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. pressing Sri Lanka not to repatriate Iranian crew and survivors from sunken ship, memo says",
+    "desc": "A U.S. submarine sank the IRIS Dena warship in the Indian Ocean about 19 nautical miles off Sri Lanka’s southern port city of Galle on Wednesday, killing ‌dozens of sailors and dramatically widening Washington’s pursuit of the Iranian navy.",
+    "img": "https://th-i.thgim.com/public/incoming/6rexzv/article70714565.ece/alternates/LANDSCAPE_1200/Panel-1_GMKFMA8QI.1GMKFMALJV.3.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-pressing-sri-lanka-not-to-repatriate-iranian-crew-and-survivors-from-sunken-ship-memo-says/article70714562.ece",
+    "time": "2026-03-07T05:15:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Angelina Jolie visited refugee girls in Kenya",
+    "desc": "In 2022, the iconic Angelina Jolie stepped back from her two-decade role as a UN ambassador, but her passion for helping refugees remains unwavering. She’s now set to channel her energy into grassroots organizations run by those who have faced the adversities of conflict firsthand.",
+    "img": "https://static.toiimg.com/photo/msid-129196151,imgsize-142462.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/when-angelina-jolie-visited-refugee-girls-in-kenya/articleshow/129196151.cms",
+    "time": "2026-03-07T05:01:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gukesh apologises to fans; Indian stars slip in rankings: what’s going wrong?",
+    "desc": "Gukesh Dommaraju’s emotional apology during the Prague Masters highlighted a broader dip in form among India’s top players, including Arjun Erigaisi and Rameshbabu Praggnanandhaa. Experts cite heavy schedules, distractions from fame, repetitive elite events and overreliance on engine preparation as factors. It is also likely that the slump is temporary.",
+    "img": "https://static.toiimg.com/photo/msid-129195286,imgsize-91430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-apologises-to-fans-indian-chess-stars-slip-in-rankings-whats-going-wrong/articleshow/129194262.cms",
+    "time": "2026-03-07T05:00:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Haryana doctors announce OPD strike after assault by police officer",
+    "desc": "The association has demanded a registration of a case against Station House Officer, Gharaunda, Inspector Deepak, along with the other police personnel involved in the alleged assault, their immediate arrest and a time-bound probe into the matter.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/haryana-doctors-announce-opd-strike-after-assault-by-police-officer/article70712686.ece",
+    "time": "2026-03-07T04:58:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brooklyn Beckham skips Victoria Beckham’s fashion show",
+    "desc": "Brooklyn Beckham and wife Nicola Peltz were notably absent from Victoria Beckham's latest fashion show, a stark contrast to the rest of the family's attendance. This follows Brooklyn's recent birthday, where his parents' public wishes came months after he reportedly sent legal notices for communication to go through a lawyer, citing past wedding ceremony issues.",
+    "img": "https://static.toiimg.com/photo/msid-129195753,imgsize-1012456.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/brooklyn-beckham-skips-victoria-beckhams-fashion-show-days-after-birthday/articleshow/129195753.cms",
+    "time": "2026-03-07T04:52:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jisoo of BLACKPINK teases Bollywood dreams during ‘Boyfriend on Demand’ buzz",
+    "desc": "K-pop star Jisoo of BLACKPINK has expressed keen interest in a Bollywood debut, alongside co-star Seo In-guk, during promotions for their series ‘Boyfriend on Demand’. Their playful exchange ignited fan excitement, with social media buzzing about potential collaborations with prominent Indian directors and production houses.",
+    "img": "https://static.toiimg.com/photo/msid-129195805,imgsize-814725.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/boyfriend-on-demand-star-blackpinks-jisoo-teases-bollywood-dreams/articleshow/129195811.cms",
+    "time": "2026-03-07T04:50:17.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Pakistani man with ties to Iran convicted for plotting to kill U.S. President Trump, other American leaders",
+    "desc": "Asif Raza Merchant, 48, was convicted by a federal jury in a Brooklyn court on Friday (March 6) of murder for hire and attempting to commit an act of terrorism transcending national boundaries. Merchant faces up to life in prison.",
+    "img": "https://th-i.thgim.com/public/incoming/89ue3f/article70714595.ece/alternates/LANDSCAPE_1200/iStock-1447145892%2013.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/pakistani-man-with-ties-to-iran-convicted-for-plotting-to-kill-us-president-trump-other-american-leaders/article70714588.ece",
+    "time": "2026-03-07T04:21:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Dua Lipamelts hearts with birthday tribute to fatherDukagjin Lipa",
     "desc": "Dua Lipa celebrated her father Dukagjin Lipa's birthday with a heartwarming Instagram post highlighting their striking resemblance. The singer shared throwback photos and recent snaps, calling him her \"twin bestie.\" The post also touched upon their strong bond and Dukagjin's ongoing support for her career and their cultural initiatives in Kosovo.",
     "img": "https://static.toiimg.com/photo/msid-129194158,imgsize-586890.cms",
@@ -72,15 +225,6 @@ const newsData_en = [
     "time": "2026-03-07T03:30:23.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.S. pressing Sri Lanka not to repatriate Iranian crew and survivors from sunken ship, memo says",
-    "desc": "A U.S. submarine sank the IRIS Dena warship in the Indian Ocean about 19 nautical miles off Sri Lanka’s southern port city of Galle on Wednesday, killing ‌dozens of sailors and dramatically widening Washington’s pursuit of the Iranian navy.",
-    "img": "https://th-i.thgim.com/public/incoming/6rexzv/article70714565.ece/alternates/LANDSCAPE_1200/Panel-1_GMKFMA8QI.1GMKFMALJV.3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-pressing-sri-lanka-not-to-repatriate-iranian-crew-and-survivors-from-sunken-ship-memo-says/article70714562.ece",
-    "time": "2026-03-07T03:24:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Russell fastest in final practice as Mercedes teammate crashes out",
     "desc": "Antonelli locked up at turn two at Albert ⁠Park and skidded hard into a barrier late in the session, leaving a front wheel bouncing away from the crash and team ‌boss Toto Wolff wincing in the team garage.",
@@ -117,6 +261,15 @@ const newsData_en = [
     "time": "2026-03-07T03:09:56.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Maclaren nets four, Mohun Bagan hammer Odisha 5-1 at Salt Lake",
+    "desc": "Jamie Maclaren scored four goals, including a first-half hat-trick, as Mohun Bagan SG thrashed Odisha FC 5–1 in the ISL at Salt Lake Stadium. Alberto Rodrigues also scored for the hosts, while Rahim Ali pulled one back for Odisha. Mohun Bagan maintained their perfect start with four wins, as Maclaren moved top of the scoring chart with seven goals.",
+    "img": "https://static.toiimg.com/photo/msid-129191980,imgsize-105758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/indian-super-league/top-stories/jamie-maclaren-nets-four-mohun-bagan-hammer-odisha-5-1-at-salt-lake/articleshow/129191966.cms",
+    "time": "2026-03-07T03:07:38.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Britney Spears net worth in 2026",
     "desc": "Once a beloved pop princess, Britney Spears continues to shine brightly despite navigating turbulent legal waters. With a glittering career that has amassed approximately $130 million in net worth, her recent $150 million catalog deal showcases her enduring appeal.",
@@ -144,15 +297,6 @@ const newsData_en = [
     "time": "2026-03-07T02:58:54.000Z"
   },
   {
-    "cat": "World",
-    "title": "Pakistani man with ties to Iran convicted for plotting to kill U.S. President Trump, other American leaders",
-    "desc": "Asif Raza Merchant, 48, was convicted by a federal jury in a Brooklyn court on Friday (March 6) of murder for hire and attempting to commit an act of terrorism transcending national boundaries. Merchant faces up to life in prison.",
-    "img": "https://th-i.thgim.com/public/incoming/89ue3f/article70714595.ece/alternates/LANDSCAPE_1200/iStock-1447145892%2013.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/pakistani-man-with-ties-to-iran-convicted-for-plotting-to-kill-us-president-trump-other-american-leaders/article70714588.ece",
-    "time": "2026-03-07T02:50:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Inside Bumrah’s constant evolution: An insatiable appetite for success",
     "desc": "Jasprit Bumrah’s relentless training, including repeated yorker drills in practice, reflects his hunger to stay the best despite years of success and injuries. The 32-year-old pacer delivered another crucial performance in India’s World Cup semifinal against England, controlling the game with precise bowling. Praised by England captain Harry Brook, Bumrah continues proving why he remains India’s most reliable bowler.",
@@ -178,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-the-revenge-to-open-advance-bookings-after-trailer-release-paid-preview-of-ranveer-singh-starrer-planned-for-march-18-reports/articleshow/129188778.cms",
     "time": "2026-03-07T02:23:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Eva Mendes makes rare appearance wearing Ryan Gosling’s sweater",
-    "desc": "Eva Mendes charmed audiences on Jimmy Fallon's show, sporting a cozy sweater that fans recognized as belonging to husband Ryan Gosling. This sweet gesture highlights their enduring bond, forged on the set of 'The Place Beyond the Pines' and strengthened by their shared commitment to family.",
-    "img": "https://static.toiimg.com/photo/msid-129190285,imgsize-1118855.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eva-mendes-makes-rare-appearance-wearing-ryan-goslings-sweater-giving-fans-a-glimpse-of-their-low-key-hollywood-romance/articleshow/129190292.cms",
-    "time": "2026-03-07T02:21:08.000Z"
   },
   {
     "cat": "Business",
@@ -225,15 +360,6 @@ const newsData_en = [
     "time": "2026-03-07T02:14:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Fans suspect Zendaya and Tom Holland secretly married",
-    "desc": "​Zendaya and Tom Holland have fueled endless speculation about a secret wedding, with hints piling up from stylist's confessions, rings, and slip-ups that paint a picture of quiet commitment. The couple, long masters of privacy, seems to have taken their romance to the next level without fanfare, delighting “Tomdaya” fans worldwide.​",
-    "img": "https://static.toiimg.com/photo/msid-129189928,imgsize-841795.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/why-fans-think-zendaya-and-tom-holland-may-already-be-secretly-married-from-rings-to-slip-ups/photostory/129189928.cms",
-    "time": "2026-03-07T02:09:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Will use every policy tool to help exporters, assures Piyush Goyal",
     "desc": "The Indian government will utilize all policy tools and export promotion missions to support exporters facing disruptions in West Asia. Commerce Minister Piyush Goyal assured daily engagement with exporters through an inter-ministerial group to address concerns like higher freight rates and shipping delays. India remains committed to meeting international buyer commitments, reinforcing its reputation as a trusted global partner.",
@@ -243,15 +369,6 @@ const newsData_en = [
     "time": "2026-03-07T02:06:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Katy Perry quits nicotine",
-    "desc": "Katy Perry has announced a significant lifestyle change, revealing she has completely quit all nicotine products for the past two months. This isn't her first foray into sobriety, as she previously stopped smoking during her pregnancy with daughter Daisy.",
-    "img": "https://static.toiimg.com/photo/msid-129189682,imgsize-99336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/katy-perry-quits-nicotine-products-reveals-she-has-been-off-them-for-two-months/articleshow/129189682.cms",
-    "time": "2026-03-07T02:06:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Liverpool crush Wolves 3-1 to enter quarterfinals",
     "desc": "Liverpool reached the FA Cup quarter-finals with a 3–1 win over Wolves, avenging a recent league defeat. Andrew Robertson’s long-range strike and Mohamed Salah’s quick follow-up put them ahead before Curtis Jones sealed victory. Hwang Hee-chan scored late. The win keeps Liverpool’s fading season alive in the Champions League hopes.",
@@ -259,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fa-cup-17-year-old-winger-rio-ngumoh-impresses-as-liverpool-crush-wolves-3-1-to-enter-quarterfinals/articleshow/129189612.cms",
     "time": "2026-03-07T02:06:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lady Gaga spills beans about her wedding plans",
-    "desc": "Lady Gaga is finally opening up about her wedding plans with fiancé Michael Polansky, hinting the big day could be sooner than expected. While keeping the exact date private, Gaga revealed music will be central, even joking about Bruno Mars' involvement. The couple, who met in 2019, are reportedly planning a more intimate celebration, focusing on close friends and family.",
-    "img": "https://static.toiimg.com/photo/msid-129189734,imgsize-93270.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lady-gaga-teases-wedding-timeline-with-fianc-michael-polansky-were-getting-married-soon/articleshow/129189666.cms",
-    "time": "2026-03-07T02:06:03.000Z"
   },
   {
     "cat": "World",
@@ -297,15 +405,6 @@ const newsData_en = [
     "time": "2026-03-07T01:55:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dragon' actor Jr NTR’s 25 crore Jubilee hills mansion",
-    "desc": "Tollywood star Jr NTR resides in a magnificent Rs 25 crore mansion in Hyderabad's prestigious Jubilee Hills. This architectural marvel, blending modern and traditional Indian elements, offers spacious living, lush outdoors, and a private home theatre. Designed by Sarah Sham, the home is a cherished family space for the actor and his loved ones.",
-    "img": "https://static.toiimg.com/photo/msid-129189241,imgsize-165434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/jr-ntrs-25-crore-jubilee-hills-mansion-inside-the-dragon-actors-luxurious-hyderabad-home/articleshow/129189241.cms",
-    "time": "2026-03-07T01:53:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Oil company, lobby group seek security for ships",
     "desc": "Shipping lobby and an oil company have requested security escorts for vessels navigating the Strait of Hormuz and suggested alternative ports like Yanbu to ensure uninterrupted energy and commodity flow. Companies also urged the government to waive demurrage charges for stuck cargo. The Indian Navy's role in ensuring maritime security was also discussed.",
@@ -313,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/oil-company-lobby-group-seek-security-for-ships/articleshow/129189219.cms",
     "time": "2026-03-07T01:49:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "MGK on photographers mistaking his daughter for Megan Fox",
-    "desc": "At the recent Paris Fashion Week, photographers did a double take when they mistook Machine Gun Kelly's daughter, Casie, for his former partner, Megan Fox. The rockstar graciously set the record straight, revealing that the young lady was indeed his 16-year-old daughter.",
-    "img": "https://static.toiimg.com/photo/msid-129188999,imgsize-125332.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/machine-gun-kelly-reacts-to-photographers-mistaking-his-daughter-for-ex-megan-fox/articleshow/129188999.cms",
-    "time": "2026-03-07T01:45:28.000Z"
   },
   {
     "cat": "Business",
@@ -342,22 +432,13 @@ const newsData_en = [
     "time": "2026-03-07T01:39:52.000Z"
   },
   {
-    "cat": "Politics",
+    "cat": "Business",
     "title": "Domestic LPG price hiked by ₹60 amid West Asia conflict",
     "desc": "Non-subsidised LPG, the one that common household users other than the Ujjwala beneficiaries use in their kitchens, will now cost ₹913 per 14.2 kg cylinder in Delhi, according to the Indian Oil Corporation (IOC) website; the price increase is effective from March 7",
     "img": "https://th-i.thgim.com/public/incoming/t9o1lk/article70714547.ece/alternates/LANDSCAPE_1200/PTI03_06_2026_000179B.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/domestic-lpg-price-hiked-by-60-amid-west-asia-conflict/article70714546.ece",
     "time": "2026-03-07T01:39:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who is the new Lady Whistledown?",
-    "desc": "Fans are buzzing with theories about who will don the Lady Whistledown mantle in 'Bridgerton' season 5. With Penelope stepping down, speculation points towards overlooked staff members like Varley, or perhaps a redeemed Cressida. Alice Mondrich's rise and Madame Delacroix's potential return are also strong contenders, fueled by subtle clues and vocal inflections.",
-    "img": "https://static.toiimg.com/photo/msid-129188573,imgsize-131936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-4-fan-theories-heres-who-the-netizens-think-is-the-new-lady-whistledown/articleshow/129188573.cms",
-    "time": "2026-03-07T01:37:50.000Z"
   },
   {
     "cat": "Business",
@@ -367,24 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-street-blues-sensex-falls-1100-points-closes-below-79000-after-10-months/articleshow/129188585.cms",
     "time": "2026-03-07T01:30:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Kerala Story 2' crosses Rs 30 crore mark",
-    "desc": "Goes Beyond' maintained box office momentum on Day 8, earning an estimated Rs 2.5 crore. Despite clearing legal hurdles, its collections remain significantly lower than the 2023 original. Meanwhile, the sequel faces criticism from Kerala's opposition leader and a legal challenge regarding its title was declined by the High Court.",
-    "img": "https://static.toiimg.com/photo/msid-129188394,imgsize-110572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-8-film-begins-week-2-on-a-good-note-crosses-rs-30-crore-mark/articleshow/129188287.cms",
-    "time": "2026-03-07T01:25:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lily Collins is overjoyed on getting back her engagement ring",
-    "desc": "Actress Lily Collins has recovered her engagement ring. The valuable item was stolen from a hotel spa in 2023. She shared the happy news on social media. The ring's return after three years is described as a miracle. Collins expressed immense gratitude for its recovery. This marks the end of a difficult period for her and her husband Charlie McDowell.",
-    "img": "https://static.toiimg.com/photo/msid-129188308,imgsize-896630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lily-collins-gets-her-stolen-engagement-ring-back-nearly-three-years-after-hotel-thefthaving-this-back-means-so-much/articleshow/129188319.cms",
-    "time": "2026-03-07T01:22:31.000Z"
   },
   {
     "cat": "Politics",
@@ -423,15 +486,6 @@ const newsData_en = [
     "time": "2026-03-07T01:08:13.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sean Phillip reveals that Britney Spears reached out after DUI arrest",
-    "desc": "Britney Spears' former assistant, Sean Phillip, revealed the singer contacted him after her recent DUI arrest, assuring him she was \"OK.\" Phillip shared that Spears, whom he described as a strong and not harmful person, gave him permission to speak about the incident. This update comes amid fan concerns following the alleged DUI in California.",
-    "img": "https://static.toiimg.com/photo/msid-129187443,imgsize-75644.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/sean-phillip-says-britney-spears-is-one-of-the-strongest-women-reveals-what-she-told-him-after-dui-arrest/articleshow/129187443.cms",
-    "time": "2026-03-07T01:07:37.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "13 flights bring stranded flyers from Gulf to Mumbai",
     "desc": "Mumbai airport received 13 repatriation flights from Fujairah and Dubai on Friday, bringing home Indian travellers. Despite these arrivals, flight disruptions persisted with 73 air traffic movements cancelled. Appeals for urgent support for Indians stranded in the West Asia war situation continue, with families expressing deep worry.",
@@ -439,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/middle-east-tensions-13-flights-bring-stranded-flyers-from-gulf-to-mumbai/articleshow/129187829.cms",
     "time": "2026-03-07T01:06:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kalabhavan Mani’s dream comes true",
-    "desc": "The legacy of late actor Kalabhavan Mani continues as his daughter, Sreelakshmi, proudly dons her doctor’s white coat after completing her MBBS. With a heart full of compassion, she plans to dedicate her medical career to helping those in need, realizing her father’s dream.",
-    "img": "https://static.toiimg.com/photo/msid-129187521,imgsize-124350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kalabhavan-manis-dream-comes-true-daughter-sreelakshmi-becomes-doctor-practice-begins/articleshow/129187521.cms",
-    "time": "2026-03-07T00:59:50.000Z"
   },
   {
     "cat": "Politics",
@@ -549,15 +594,6 @@ const newsData_en = [
     "time": "2026-03-06T22:58:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Congress on Russia oil waiver",
-    "desc": "Congress has accused Prime Minister Modi of being \"blackmailed\" by the US, citing American \"permission\" for Indian refiners to buy Russian oil. Party leaders claim India's strategic autonomy and sovereignty are threatened, with Rahul Gandhi asserting foreign policy should stem from India's ethos, not a \"compromised individual's\" actions.",
-    "img": "https://static.toiimg.com/photo/msid-129183783,imgsize-59868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/strategic-autonomy-at-risk-congress-on-russia-oil-waiver/articleshow/129183712.cms",
-    "time": "2026-03-06T22:55:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Dubai’s third most expensive apartment sale logs whopping Dh422 million despite US-Israel war on Iran",
     "desc": "Dubai's luxury property market has achieved a significant milestone with a Dh422 million apartment sale. This record-breaking deal underscores the sector's strength despite ongoing regional geopolitical tensions amid Iran-US-Israel war. Global investors continue to view Dubai as a secure destination for wealth preservation. The emirate's appeal is fuelled by its strategic location, luxury lifestyle and investment security.",
@@ -565,24 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/world/middle-east/dubais-luxury-market-breaks-records-uae-emirates-third-most-expensive-apartment-sale-logs-whopping-dh422-million-despite-us-israel-war-on-iran/articleshow/129179944.cms",
     "time": "2026-03-06T22:28:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "There should be no cherry-picking on international law, says Iran deputy foreign minister",
-    "desc": "India's External Affairs Minister S. Jaishankar met with Iranian Deputy Foreign Minister Saeed Khatibzadeh on the sidelines of Raisina Dialogue 2026. The meeting followed India's condolences over the killing of Iran's supreme leader. Khatibzadeh emphasized the importance of upholding international law against perceived atrocities and aggression.",
-    "img": "https://static.toiimg.com/photo/msid-129182383,imgsize-75530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/middle-east-conflict-there-should-be-no-cherry-picking-on-international-law-says-iran-deputy-foreign-minister/articleshow/129181988.cms",
-    "time": "2026-03-06T22:24:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IAF pilot part of Operation Sindoor among 2 killed in Assam Sukhoi crash",
-    "desc": "Two IAF pilots, Squadron Leader Anuj Vashishth and Flight Lieutenant Purvesh Duragkar, were killed when their Su-30MKI jet crashed in Assam's Karbi Anglong district during a training sortie. The aircraft had taken off from Jorhat airbase and lost contact shortly after. Duragkar was known for his participation in Operation Sindoor last year.",
-    "img": "https://static.toiimg.com/photo/msid-129180568,imgsize-26462.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/iaf-pilot-part-of-operation-sindoor-among-2-killed-in-assam-sukhoi-crash/articleshow/129180222.cms",
-    "time": "2026-03-06T22:05:07.000Z"
   },
   {
     "cat": "Politics",
@@ -702,24 +720,6 @@ const newsData_en = [
     "time": "2026-03-06T16:01:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Velur village to launch protest against removal of ‘St. Thomas’ from 103-year-old school’s name",
-    "desc": "Name changed after school management handed it over to State government a few years ago. Demand to restore original name had been submitted to government and representations had been sent to Education Minister. Despite these efforts, no response was received from authorities so far",
-    "img": "https://th-i.thgim.com/public/incoming/ci42fj/article70712722.ece/alternates/LANDSCAPE_1200/80688_6_3_2026_20_7_40_1_PULIYANNUR_KKN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/velur-village-to-launch-protest-against-removal-of-st-thomas-from-103-year-old-schools-name/article70712526.ece",
-    "time": "2026-03-06T15:23:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A.P.’s revenue deficit exceeded FRBM target of 2.7% in 2024-25, says report",
-    "desc": "Fiscal deficit reamined at 5.05% against the mandated 4% ceiling, driving total borrowings to ₹81,071 crore, crowding out capital expenditure, worsening debt sustainability, says Accounts at a Glance for 2024-25 prepared by the Principal Accountant General of A.P.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/aps-revenue-deficit-exceeded-frbm-target-of-27-in-2024-25-says-report/article70712353.ece",
-    "time": "2026-03-06T15:20:40.000Z"
-  },
-  {
     "cat": "Business",
     "title": "High war-risk premiums for airline insurance to push up airfares",
     "desc": "Extra premiums range from 0.075% to 0.1% of aircraft value for each return flight, translating to fare hikes of about ₹20,000 on Gulf routes; rising oil prices and operating costs may hit domestic fares too",
@@ -727,15 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/high-war-risk-premiums-for-airline-insurance-to-push-up-airfares/article70711883.ece",
     "time": "2026-03-06T15:00:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nazi salute costs Real Madrid as UEFA slaps $17,000 fine after fan's gesture",
-    "desc": "UEFA has fined Real Madrid 15,000 euros and ordered a partial stadium closure. This action follows a supporter's Nazi salute before a Champions League match. The club identified and removed the individual. Real Madrid condemned the gesture. The incident occurred before their match against Benfica. The Spanish club will face Manchester City next.",
-    "img": "https://static.toiimg.com/photo/msid-129160546,imgsize-30010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/champions-league/top-stories/nazi-salute-costs-real-madrid-as-uefa-slaps-17000-fine-after-fans-gesture-during-champions-league-game/articleshow/129159808.cms",
-    "time": "2026-03-06T14:37:04.000Z"
   },
   {
     "cat": "Sports",
@@ -784,15 +775,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Mumbai Indians launch new IPL 2026 jersey",
-    "desc": "Mumbai Indians unveiled their new jersey for IPL 2026, featuring a repeating 'M' motif symbolizing the franchise's identity and philosophy. The design, in signature blue and gold, aims to represent the team's collective energy and forward-driving spirit. This fresh look comes as the team aims to end their championship drought and potentially secure a record sixth IPL title.",
-    "img": "https://static.toiimg.com/photo/msid-129151280,imgsize-181862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mumbai-indians-launch-new-ipl-2026-jersey-watch/articleshow/129151315.cms",
-    "time": "2026-03-06T11:57:13.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Should India persist with 'weak link' Abhishek or bring in Rinku ?",
     "desc": "As India gear up for the ICC Men's T20 World Cup 2026 final against New Zealand, a debate rages over opener Abhishek Sharma's place. Despite low scores, some back him as an 'X factor', while others advocate for Rinku Singh's inclusion, citing predictability. The team management faces a crucial decision on continuity versus a late change.",
     "img": "https://static.toiimg.com/photo/msid-129147927,imgsize-46370.cms",
@@ -826,15 +808,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-aims-to-exhume-and-identify-88-uss-arizona-crew-members-buried-as-unknowns-after-pearl-harbor/article70711019.ece",
     "time": "2026-03-06T09:02:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Like having a genie’: Faf in awe of Bumrah after India’s dramatic semifinal win",
-    "desc": "Former South Africa captain Faf du Plessis lauded Jasprit Bumrah as a \"genie\" after his crucial spell helped India secure a seven-run victory over England in the T20 World Cup semifinal. Du Plessis emphasised Bumrah's match-winning ability across formats, highlighting his unique action that makes him difficult for batsmen to read and capitalise on even when he misses his length.",
-    "img": "https://static.toiimg.com/photo/msid-129142646,imgsize-154184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/like-having-a-genie-faf-du-plessis-in-awe-of-jasprit-bumrah-after-indias-dramatic-t20-world-cup-semifinal-win/articleshow/129142578.cms",
-    "time": "2026-03-06T08:23:03.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-house-rejects-war-powers-resolution-backs-trump-on-iran-war/article70709119.ece",
     "time": "2026-03-06T01:44:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India survives Bethell blitz, scrapes into the final",
+    "desc": "Samson’s 42-ball 89 and cameos by Kishan and Dube power the Men in Blue to 253 for seven; the English left-hander almost pulls off a heist before Bumrah’s mastery wins it for the home team",
+    "img": "https://th-i.thgim.com/public/incoming/ptu84k/article70708794.ece/alternates/LANDSCAPE_1200/11908_5_3_2026_22_57_30_2_DSC_3770.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-team-india-survives-bethell-scare-enters-the-final/article70708797.ece",
+    "time": "2026-03-06T00:56:55.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran’s political system",
+    "desc": "Unlike the President, the Supreme Leader doesn’t have any fixed term. Since the 1979 revolution, Iran has had only two Supreme Leaders — Khomeini (who died in 1989) and Ayatollah Ali Khamenei, who was assassinated by a joint American-Israeli strike on February 28, 2026",
+    "img": "https://th-i.thgim.com/public/incoming/wcfy5c/article70707700.ece/alternates/LANDSCAPE_1200/DSC6040.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/irans-political-system-explained/article70707512.ece",
+    "time": "2026-03-06T00:46:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I’m Brian Bennett’",
+    "desc": "With 292 runs at a staggering average of 146 in the ICC T20 World Cup, the 22-year-old has made a name for himself; known for piercing gaps over clearing the ropes, the stoic Zimbabwe opener’s brand of batsmanship is as rare as a vinyl record in a world of digital music",
+    "img": "https://th-i.thgim.com/public/incoming/vp99zg/article70708881.ece/alternates/LANDSCAPE_1200/DSC_7674.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/brian-bennett-zimbabwe-t20-world-cup-stats-feature/article70708880.ece",
+    "time": "2026-03-05T19:12:46.000Z"
   }
 ];
