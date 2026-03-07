@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Should India drop Varun Chakravarthy for Kuldeep Yadav in T20 World Cup final vs New Zealand?",
+    "desc": "India’s leading wicket-taker in the ongoing T20 World Cup 2026, Varun Chakravarthy conceded 64 runs in his four overs in the semi-final clash against England. None of his plans worked in the middle as Jacob...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/should-india-drop-varun-chakravarthy-for-kuldeep-yadav-in-t20-world-cup-final-vs-new-zealand-2026-03-07-1032903",
+    "time": "2026-03-07T03:13:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lakshya Sen outclasses China's Li Shifeng to progress to All England Open semi-final",
+    "desc": "Lakshya Sen defeated China’s Li Shifeng to move to the semi-finals of the All England Open Badminton Championships in Birmingham. The Indian shuttler delivered a composed and assertive performance at the Utilita Arena Birmingham, beating...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/lakshya-sen-outclasses-china-s-li-shifeng-to-progress-to-all-england-open-semi-final-2026-03-07-1032899",
+    "time": "2026-03-07T01:58:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "12 ISL clubs call out AIFF over revenue share in crisis-hit season, allege federation of earning 40% profit",
     "desc": "Twelve ISL clubs, excluding NorthEast United and Jamshedpur FC, have written a strong-worded letter to the All India Football Federation (AIFF), accusing them of earning a significant profit of over Rs 3.4 crore from the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/icc-confirms-match-officials-for-india-vs-new-zealand-t20-world-cup-final-on-sunday-2026-03-06-1032849",
     "time": "2026-03-06T11:39:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC announces eight nominees for T20 World Cup Player of the Tournament, only one Indian in list",
-    "desc": "The International Cricket Council (ICC) on Friday, March 6, unveiled the eight nominees for the T20 World Cup 2026 Player of the Tournament award. Among them, Sanju Samson is the only Indian cricketer to receive...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-eight-nominees-for-t20-world-cup-player-of-the-tournament-only-one-indian-in-list-2026-03-06-1032836",
-    "time": "2026-03-06T10:19:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah is not just a once-in-a-generation bowler but century kind of bowler: Sunil Gavaskar",
-    "desc": "Ace pacer Jasprit Bumrah once again proved to be the vital cog as India beat England in the second semi-final of the T20 World Cup 2026 at the Wankhede Stadium in Mumbai. Chasing 254 runs,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-is-not-just-a-once-in-a-generation-bowler-but-century-kind-of-bowler-sunil-gavaskar-2026-03-06-1032833",
-    "time": "2026-03-06T09:45:11.000Z"
   }
 ];

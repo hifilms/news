@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "থরেথরে জমে আছে, যুদ্ধ লাগতেই স্টক ক্লিয়ারেন্স সেল: দুবাইয়ে দারুণ সস্তা সোনা",
+    "desc": "সাধারণত আন্তর্জাতিক বাণিজ্যের ক্ষেত্রে সোনা যাত্রীবাহী বিমানের কার্গো হোল্ডে করে এক দেশ থেকে অন্য দেশে পাঠানো হয়। কিন্তু ইরানের সাম্প্রতিক ক্ষেপণাস্ত্র হামলা এবং পাল্টা হামলার আশঙ্কায় সংযুক্ত আরব আমিরাত (UAE) সহ মধ্যপ্রাচ্যের বিস্তীর্ণ অঞ্চলের আকাশপথ এখন বিপজ্জনক হয়ে উঠেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/why-gold-in-dubai-is-cheaper-now-amid-escalating-iran-war_643974.html ",
+    "time": "2026-03-07T04:04:59.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "আমেরিকা-ইরান যুদ্ধ সপ্তম দিনে! ইরানের ক্ষেপণাস্ত্র হামলা, ইজরায়েলের পাল্টা আঘাত! সংঘাতে জড়াল লেবাননও",
+    "desc": "মধ্যপ্রাচ্যে যুদ্ধের আগুন ক্রমশ ছড়িয়ে পড়ছে। মার্কিন যুক্তরাষ্ট্র, ইজরায়েল এবং ইরানের সংঘাত সপ্তম দিনে পৌঁছে আরও তীব্র হয়ে উঠেছে। একের পর এক ক্ষেপণাস্ত্র হামলা, পাল্টা বিমান আক্রমণ এবং নতুন নতুন দেশ এই সংঘাতে জড়িয়ে পড়ায় গোটা পশ্চিম এশিয়া জুড়ে উদ্বেগ বাড়ছে। ইরান, ইজরায়েল, লেবানন থেকে গালফের একাধিক দেশে যুদ্ধের সরাসরি বা পরোক্ষ প্রভাব পড়তে শুরু করেছে। সামরিক সংঘর্ষের পাশাপাশি কূটনৈতিক উত্তেজনাও চরমে পৌঁছেছে, যা আন্তর্জাতিক রাজনীতিতে নতুন অনিশ্চয়তার ইঙ্গিত দিচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/war-latest-news-2026-03-fd96f984fc876274a2fcd028918e7f20-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/us-iran-war-enters-seventh-day-intense-attacks-in-tehran-iran-entered-day-7-with-t-fresh-missile-strikes-on-the-military-bases-of-the-two-countries-in-west-asia-tib-ws-el-2572800.html",
+    "time": "2026-03-07T03:25:31.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "যুদ্ধের জেরে জ্বালানি সংকট? পেট্রোল-ডিজেল, রান্নার গ্যাসের দাম নিয়ে বড় আপডেট দিল কেন্দ্র",
     "desc": "গোটা বিশ্বে যত পরিমাণ তেল আমদানি-রপ্তানি করা হয়, তার প্রায় ২০ শতাংশই এই হরমুজ প্রণালী দিয়ে যাতায়াত হয়। আর সেখানেই আটকে রয়েছে জ্বালানি বহনকারী প্রচুর জাহাজ। স্বাভাবিকভাবেই জ্বালানির সংকট দেখা দিতে পারে বলে মত বিশেষজ্ঞ মহলের।",
@@ -259,15 +277,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/iran-israel-us-war-us-will-regret-this-iran-on-submarine-attack-2000-miles-from-its-shores_643763.html ",
     "time": "2026-03-05T08:27:35.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel-US war: ভয়ংকর নৃশংস 'ক্লাস্টার বোমা'র নির্মম আঘাতে ইরান তছনছ করে দিচ্ছে প্রতিপক্ষকে! ত্রাহি ত্রাহি রব ইসরায়েলে...",
-    "desc": "ক্লাস্টার বোমায় থাকে অনেকগুলি ছোট ছোট বোমা। ছোট কিন্তু শক্তিশালী। একটি বড় ক্ষেপণাস্ত্রের ভিতরে ছোট এই বোমাগুলি ভরা থাকে। উৎক্ষেপণের পরে শূন্যেই খুলে যায় ক্লাস্টার বোমার মুখ। ভিতর থেকে বেরিয়ে আসে ছোট ছোট বোমাগুলি এবং বিস্তীর্ণ অংশে ছড়িয়ে পড়ে হানে ভয়ংকর আঘাত।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/irans-cluster-bomb-missiles-raise-questions-over-russia-and-chinas-role-fired-ballistic-missiles-carrying-cluster-munitions-toward-israeli-territory_643760.html ",
-    "time": "2026-03-05T07:51:50.000Z"
   },
   {
     "cat": "Sports",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/films-like-iratta-super-deluxe-tillu-sqaure-6-bold-south-indian-films-can-not-watch-with-family-transpg-pbd-2563467.html",
     "time": "2026-03-01T08:10:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "দুবাইয়ে মুহুর্মুহু হামলা-বিস্ফোরণ, বন্ধ বিমান, আটকে বলিউড নায়িকা! দেশে ফেরার জন্য চাইলেন প্রধানমন্ত্রীর সাহায্য",
-    "desc": "বলিউডের বহু নায়ক-নায়িকা দুবাইয়ে থাকেন৷ প্রায় অনেকের সেখানে রয়েছে নিজের সম্পত্তি৷ ফলে দুবাই যাতায়াত লেগেই থাকে তাঁদের৷ তবে দুবাইয়ে ক্ষেপণাস্ত্র নিক্ষেপের পর সেখানে আতঙ্ক ছড়িয়েছে৷ বিশেষ করে বিমান পরিষেবা বিঘ্নিত হয়েছে৷ এই সময় সেখানে আটকে পড়েছেন সোনাল চৌহান৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Sonal-Chauhan-2026-03-323d7869653e0f0fcd6d4500f646a2ba-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/amid-middle-east-tensions-bollywood-actress-singer-sonal-chauhan-stranded-in-dubai-seeks-help-from-prime-minister-modi-pbd-2563422.html",
-    "time": "2026-03-01T07:58:37.000Z"
   }
 ];
