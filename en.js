@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Emaar founder boldly reveals why Dubai’s property market has ‘nothing to fear’ amid Iran and US-Israel war",
+    "desc": "Despite regional geopolitical tensions and an anticipated surge in new housing supply, Dubai's real estate sector remains resilient, according to Emaar Properties founder Mohamed Alabbar. He asserts that the market has strong fundamentals and long-term planning to weather shocks, with record sales and luxury segment growth fueling optimism for continued stability and expansion.",
+    "img": "https://static.toiimg.com/photo/msid-129235297,imgsize-104452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/emaar-founder-boldly-reveals-why-dubais-property-market-has-nothing-to-fear-amid-iran-and-us-israel-war/articleshow/129234792.cms",
+    "time": "2026-03-07T20:59:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indians in Bahrain, Qatar eye Saudi visas to fly out",
+    "desc": "Indians in Qatar and Bahrain are seeking Saudi transit visas as a backup plan due to flight cancellations. With airports in Doha and Bahrain largely shut, many are preparing for overland journeys to Saudi Arabia or Oman. This comes amid ongoing regional tensions, prompting a need for alternative travel routes home.",
+    "img": "https://static.toiimg.com/photo/msid-129235464,imgsize-10736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/middle-east-tensions-indians-in-bahrain-qatar-eye-saudi-visas-to-fly-out/articleshow/129235312.cms",
+    "time": "2026-03-07T20:56:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Subhashree returns to Kolkata after being stranded in Dubai",
+    "desc": "Bengali actress Subhashree Ganguly returned to Kolkata on Friday along with her son after being stranded in Dubai for several days amid the escalating conflict in West Asia. The actress and her son Yuvaan arrived in the city via Mumbai and were received at the airport by her husband, filmmaker and Raj Chakraborty, who is also a TMC MLA.",
+    "img": "https://static.toiimg.com/photo/msid-129235139,imgsize-62146.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/subhashree-ganguly-returns-to-kolkata-with-son-after-being-stranded-in-dubai-amid-middle-east-conflict-i-am-so-devastated-/articleshow/129235139.cms",
+    "time": "2026-03-07T20:55:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'He handles unruly MPs from big families well': PM Modi lauds Lok Sabha Speaker Om Birla",
+    "desc": "Prime Minister Modi lauded Lok Sabha Speaker Om Birla ahead of an opposition no-confidence motion, praising his impartiality and ability to manage \"arrogant and unruly\" members. Birla's recent rulings, particularly disallowing a quote from a former Army chief, had sparked significant opposition protests and led to the removal notice.",
+    "img": "https://static.toiimg.com/photo/msid-129233987,imgsize-46698.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/he-handles-unruly-mps-from-big-families-well-pm-modi-lauds-lok-sabha-speaker-om-birla/articleshow/129233891.cms",
+    "time": "2026-03-07T20:09:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India doesn't need permission to buy Russian oil, say officials",
+    "desc": "India continues to source crude oil from Russia, asserting its right to procure from any supplier based on national interest, affordability, and availability. Government sources clarified that recent US waivers were for domestic audiences, as New Delhi's energy security is not solely dependent on single maritime routes like the Strait of Hormuz, with a significant portion of imports unaffected.",
+    "img": "https://static.toiimg.com/photo/msid-129233634,imgsize-67354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-doesnt-need-permission-to-buy-russian-oil-say-officials/articleshow/129233524.cms",
+    "time": "2026-03-07T19:59:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "2 mobiles, being smuggled inside jail, recovered in Doda",
+    "desc": "Authorities at Bhaderwah Jail in Doda district intercepted two mobile phones hidden within a parcel intended for an inmate held under the Public Safety Act. The parcel, addressed to Irshad Ahmad Wani, a resident of Bandipora, was reportedly booked by Mohammed Younis Wani from Pulwama.",
+    "img": "https://static.toiimg.com/photo/msid-129232555,imgsize-27226.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-2-mobiles-being-smuggled-inside-jail-recovered-in-doda/articleshow/129232462.cms",
+    "time": "2026-03-07T19:31:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NIA court rejects bail plea of terror funding accused",
+    "desc": "A Jammu NIA court denied bail to Tanvir Ahmed Wani, accused in a terror funding case. Wani allegedly conspired with Pakistani traders, importing goods beyond limits via under-invoicing to generate profits for terror outfits like Hizbul Mujahideen and Lashkar-e-Taiba. Incriminating materials were found at his residence.",
+    "img": "https://static.toiimg.com/photo/msid-129232252,imgsize-45848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-nia-court-rejects-bail-plea-of-terror-funding-accused/articleshow/129232161.cms",
+    "time": "2026-03-07T19:23:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Visually impaired Kashmir youth cracks civil services, daily-wager father recounts years of struggle",
+    "desc": "In Bandipora, Kashmir, Irfan Ahmad Lone, a visually impaired youth, has achieved a remarkable feat by clearing the UPSC civil services exams with a rank of 957. Despite facing severe vision loss in childhood due to accidents, Irfan pursued his education with unwavering determination, graduating from JNU and working before his civil services success.",
+    "img": "https://static.toiimg.com/photo/msid-129232089,imgsize-100228.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/visually-impaired-kashmir-youth-cracks-civil-services-daily-wager-father-recounts-years-of-struggle/articleshow/129231949.cms",
+    "time": "2026-03-07T19:18:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indian students stuck in Iran fear for safety; families plead for evacuation",
+    "desc": "Places in Iran to which they are being relocated are no longer safe, bringing them back to India is the only solution, says AIMSA; evacuation via Armenia being considered from where students could ‘arrange and fund their return’ to India",
+    "img": "https://th-i.thgim.com/public/incoming/qgcn0j/article70716970.ece/alternates/LANDSCAPE_1200/2026-03-02T124801Z_755547413_RC2CWJA3EAZL_RTRMADP_3_IRAN-CRISIS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/indian-students-stuck-in-iran-fear-for-safety-families-plead-for-evacuation/article70716973.ece",
+    "time": "2026-03-07T19:04:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lilliput regrets remark about KJo’s ‘feminine mannerisms’",
+    "desc": "Veteran actor-writer M M Faruqui, popularly known as Lilliput, has once again expressed his regret over a comment he made decades ago about Karan Johar’s “feminine mannerisms” during the filming of the television show Indradhanush. Johar had earlier written about the incident in his autobiography An Unsuitable Boy, revealing that the remark deeply affected him and made him decide that he would never act again.",
+    "img": "https://static.toiimg.com/photo/msid-129230402,imgsize-59268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lilliput-regrets-remark-about-karan-johars-feminine-mannerisms-on-indradhanush-sets-i-will-apologise-to-him-if-we-meet/articleshow/129230402.cms",
+    "time": "2026-03-07T18:48:28.000Z"
+  },
+  {
     "cat": "World",
     "title": "Pezeshkian says Iran will halt strikes on neighbours; Trump vows to hit harder",
     "desc": "The Iranian President says it will only target neighbours if attacks originate from their territory; responding to the U.S. President’s demand for “unconditional surrender”, Mr. Pezeshkian says Iran’s enemies will take this dream “to their grave”",
@@ -333,24 +423,6 @@ const newsData_en = [
     "time": "2026-03-07T11:28:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Celina Jaitly reflects on grief and home in emotional Holi post",
-    "desc": "Actress Celina Jaitly took to social media to reflect on the bittersweet nature of Holi, unveiling her sadness and nostalgia for a past life that feels distant. As she navigates life in a foreign land, she grapples with overwhelming emotions stemming from loss, including cherished memories of family and heritage.",
-    "img": "https://static.toiimg.com/photo/msid-129210835,imgsize-134250.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-reflects-on-grief-and-home-in-emotional-holi-post-after-life-changed-dramatically/articleshow/129210835.cms",
-    "time": "2026-03-07T11:12:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pawan Kalyan takes a pay cut for ‘Ustaad Bhagat Singh’",
-    "desc": "Pawan Kalyan has reportedly taken a pay cut for 'Ustaad Bhagat Singh,' accepting around Rs 25 crore to support the makers amidst production delays. The actor prioritized the producers recovering their investments, suggesting a profit-sharing model instead of demanding higher remuneration. This gesture has fueled positive buzz for the film, set to clash with 'Dhurandhar- The Revenge' on March 19.",
-    "img": "https://static.toiimg.com/photo/msid-129210718,imgsize-196100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/pawan-kalyan-takes-a-pay-cut-for-ustaad-bhagat-singh-the-film-to-clash-with-dhurandhar-the-revenge/articleshow/129210718.cms",
-    "time": "2026-03-07T11:09:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Date, time, performers and full details",
     "desc": "India and New Zealand are set to clash in the ICC Men's T20 World Cup 2026 final in Ahmedabad on Sunday. India, the defending champions, reached the final after a close semi-final win against England, while New Zealand dominated South Africa. This marks India's fourth final appearance and New Zealand's second, with both teams aiming for a significant title.",
@@ -468,15 +540,6 @@ const newsData_en = [
     "time": "2026-03-07T07:39:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Wanted to come into our port': EAM Jaishankar on India's rescue of Iranian ships",
-    "desc": "External Affairs Minister S Jaishankar stated that India granted permission for an Iranian warship facing difficulties to dock in Kochi, guided by humanitarian principles. He noted that another Iranian vessel, IRIS Dena, was caught on the \"wrong side of events\" near Sri Lanka and was subsequently sunk by the US Navy.",
-    "img": "https://static.toiimg.com/photo/msid-129202217,imgsize-29876.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/wanted-to-come-into-our-port-eam-jaishankar-on-indias-rescue-of-iranian-ships/articleshow/129200921.cms",
-    "time": "2026-03-07T07:32:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Ahead of Dhurandhar 2, watch these Ranveer Singh films on Netflix",
     "desc": "Ranveer Singh is one of those rare actors who goes completely all-in on every single role, whether it is a street rapper, a historical villain, or an undercover spy. With 'Dhurandhar 2' arriving on March 19, 2026, and the trailer already making buzz, there is no better time to sit back and remind yourself why this man has been impossible to ignore for over a decade. Here are 7 Ranveer Singh films on Netflix that are absolutely worth your time before the sequel hits theatres.",
@@ -493,24 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/attack-varun-chakravarthy-early-and-his-confidence-drops-ashwin-warns-ahead-of-t20-world-cup-final/articleshow/129200609.cms",
     "time": "2026-03-07T07:09:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TMC MPs likely to vote in favour of resolution",
-    "desc": "Trinamool Congress MPs will now back the no-confidence motion against Lok Sabha Speaker Om Birla, a shift from their earlier stance, following party chief Mamata Banerjee's directive. This move intensifies the political battle as the Lok Sabha prepares to vote on March 9. Opposition parties accuse Birla of partisan conduct, jeopardizing the House's proper functioning and the rights of members.",
-    "img": "https://static.toiimg.com/photo/msid-129198806,imgsize-1645067.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-confidence-motion-against-om-birla-tmc-mps-likely-to-vote-in-favour-of-resolution/articleshow/129198733.cms",
-    "time": "2026-03-07T06:07:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Cracking inflation whip on public': Opposition slams Centre over LPG cylinder price hike",
-    "desc": "Opposition parties have sharply criticised the BJP-led government following a Rs 60 increase in domestic LPG cylinder prices and Rs 115 for commercial cylinders. Leaders from Congress and TMC accused Prime Minister Modi of burdening households with rising costs, while the government assured sufficient fuel supplies amidst West Asia tensions.",
-    "img": "https://static.toiimg.com/photo/msid-129201695,imgsize-49890.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cracking-inflation-whip-on-public-opposition-slams-centre-over-lpg-cylinder-price-hike/articleshow/129198786.cms",
-    "time": "2026-03-07T06:07:02.000Z"
   },
   {
     "cat": "Business",
@@ -538,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-dhurandhar-the-revenge-trailer-is-out-ranveer-singhs-hamza-is-an-absolute-menace-set-to-become-lyari-towns-badshah/articleshow/129195700.cms",
     "time": "2026-03-07T05:38:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NMC pushes digital tracking of patient visits in medical college hospitals",
-    "desc": "The National Medical Commission is mandating medical colleges to link their hospital systems with the Ayushman Bharat Digital Mission within 15 days. This move aims to digitize patient records, enabling verification of Ayushman Bharat beneficiaries and weeding out fake entries. It will also allow doctors to access patient medical histories for seamless treatment and improve regulatory oversight of teaching hospitals.",
-    "img": "https://static.toiimg.com/photo/msid-129197018,imgsize-380575.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nmc-pushes-digital-tracking-of-patient-visits-in-medical-college-hospitals/articleshow/129196934.cms",
-    "time": "2026-03-07T05:21:59.000Z"
   },
   {
     "cat": "World",
@@ -646,24 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/fundamentals-strong-can-deal-with-oil-surge-finance-ministry/articleshow/129189566.cms",
     "time": "2026-03-07T01:59:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Consider charges waiver for stranded ships, ports told",
-    "desc": "Indian ports are offering relief to cargo ships stranded due to West Asian conflict. The Shipping Ministry has directed major ports to consider reducing or waiving charges like storage rent and reefer plugging. Ports will also facilitate transshipment, domestic return of export cargo, and priority handling for perishables, aiming to prevent congestion and container shortages.",
-    "img": "https://static.toiimg.com/photo/msid-129189495,imgsize-116110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/middle-east-tensions-consider-charges-waiver-for-stranded-ships-ports-told/articleshow/129189412.cms",
-    "time": "2026-03-07T01:55:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "IT's paradox: Many women in workforce, few rainmakers",
-    "desc": "While women constitute a significant portion of the IT workforce, a notable gap persists in their representation among top dealmakers. However, a growing number of women leaders are now emerging as key figures driving multi-million and billion-dollar deals, reshaping the sector's traditional narrative.",
-    "img": "https://static.toiimg.com/photo/msid-129189531,imgsize-174956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/its-paradox-many-women-in-workforce-few-rainmakers/articleshow/129189077.cms",
-    "time": "2026-03-07T01:45:20.000Z"
   },
   {
     "cat": "Business",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/lanterns-teaser-kyle-chandler-and-aaron-pierres-tense-partnership-to-steer-upcoming-dc-series/article70706165.ece",
     "time": "2026-03-05T06:05:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "History-chasing India, England on collision course at iconic Wankhede",
-    "desc": "There hasn’t been one standout performer, but Suryakumar & Co. have been able to eke out contributions from different personnel at key moments; Brook’s men have had a grand campaign after an early loss to West Indies and the shift back from slightly tricky tracks in Sri Lanka to a potentially excellent one for batting isn’t the most demanding",
-    "img": "https://th-i.thgim.com/public/sport/x8mt9v/article70704776.ece/alternates/LANDSCAPE_1200/INDIA%20E.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/history-chasing-india-england-on-collision-course-at-iconicwankhede/article70704768.ece",
-    "time": "2026-03-04T18:52:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Gavaskar: Sanju Samson’s innings was one of the finest T20 knocks we have seen",
-    "desc": "Former Indian batting legend Sunil Gavaskar looks ahead to the semifinal between India and England at the ICC T20 World Cup, his thoughts on Sanju Samson’s matchwinning innings against West Indies, and why Jasprit Bumrah is so difficult to face.",
-    "img": "https://th-i.thgim.com/public/incoming/m26qyk/article70703762.ece/alternates/LANDSCAPE_1200/gavaskar.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-sunil-gavaskar-sanju-samsons-innings-was-one-of-the-finest-t20-knocks-we-have-seen/article70703763.ece",
-    "time": "2026-03-04T13:41:06.000Z"
   }
 ];
