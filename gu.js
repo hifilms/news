@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "રશિયન ઓઈલની ખરીદી પર છૂટ આપવાના અમેરિકાના દાવા પર ભારતે કર્યો જોરદાર પલટવાર!",
+    "desc": "હોર્મુઝ જળમાર્ગ ઈરાને બંધ કરતા ઊભા થયેલા ક્રૂડ ઓઈલ અને ગેસના પડકાર પર અમેરિકાએ જાણે ઉપકાર કરતું હોય તે રીતે ભારતને 30 દિવસ સુધી રશિયન ઓઈલ ખરીદવા માટે છૂટ આપી હોવાનો દાવો કરતા ભારતના રાજકારણમાં ગરમાવો આવી ગયો. હવે આ મામલે સરકારે શું કહ્યું જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/indias-befitting-reply-to-america-over-russian-oil-purchase-iran-israel-war-467569 ",
+    "time": "2026-03-08T00:58:27.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "&amp;#039;મોટા ભાઈ કે પપ્પા બનીને અહીં કંઈ નહીં થાય...&amp;#039; ટીમના ખેલાડીઓને કેવી રીતે હેન્ડલ કરે છે સૂર્યા?",
     "desc": "ટીમ ઈન્ડિયાના કેપ્ટન સૂર્યકુમાર યાદવ ખેલાડીઓને કેવી રીતે હેન્ડલ કરે છે અને તેમની કેપ્ટન્સીની અંદાજ કેવો છે? વર્લ્ડ કપ ફાઈનલ પહેલા યોજાયેલી પ્રેસ કોન્ફરન્સમાં તેમણે પોતે જ આ અંગે ખુલાસો કર્યો છે. જાણો તેમણે શું કહ્યું.",
@@ -61,15 +70,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/iran-israel-war-dubai-traders-selling-gold-at-discounted-prices-know-the-reason-and-rate-467573 ",
     "time": "2026-03-07T13:46:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રશિયન ઓઈલની ખરીદી પર છૂટ આપવાના અમેરિકાના દાવા પર ભારતે કર્યો જોરદાર પલટવાર",
-    "desc": "હોર્મુઝ જળમાર્ગ ઈરાને બંધ કરતા ઊભા થયેલા ક્રૂડ ઓઈલ અને ગેસના પડકાર પર અમેરિકાએ જાણે ઉપકાર કરતું હોય તે રીતે ભારતને 30 દિવસ સુધી રશિયન ઓઈલ ખરીદવા માટે છૂટ આપી હોવાનો દાવો કરતા ભારતે હવે પલટવાર કરીને અમેરિકાને જડબાતોડ જવાબ આપ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/indias-befitting-reply-to-america-over-russian-oil-purchase-iran-israel-war-467569 ",
-    "time": "2026-03-07T13:02:06.000Z"
   },
   {
     "cat": "Sports",

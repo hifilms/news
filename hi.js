@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch T20 World Cup 2026 final live on TV and online?",
+    "desc": "The stage is set for the summit clash of the ongoing T20 World Cup 2026. The final of the tournament sees India taking on New Zealand at the Narendra Modi Stadium in Ahmedabad on March...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-when-and-where-to-watch-t20-world-cup-2026-final-live-on-tv-and-online-2026-03-08-1032998",
+    "time": "2026-03-08T01:41:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Full history of Champions and runners-up (2007-2026)",
     "desc": "Will India be the third-time champions in the T20 format, or will New Zealand become the seventh country to win the T20 World Cup? We will get all the answers on Sunday evening as India...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/england-west-indies-south-africa-to-leave-india-soon-after-being-stranded-due-to-west-asia-war-2026-03-07-1032939",
     "time": "2026-03-07T08:48:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ellyse Perry sets new Test record for Australia with 76-run knock against India in Perth",
-    "desc": "Senior all-rounder Ellyse Perry became Australia’s leading run-scorer in women’s Test cricket history, surpassing the legendary Karen Rolton. She registered the feet on Day 2 of the one-off Test against India at the WACA in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ellyse-perry-sets-new-test-record-for-australia-with-76-run-knock-against-india-in-perth-2026-03-07-1032936",
-    "time": "2026-03-07T08:24:07.000Z"
   }
 ];
