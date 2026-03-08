@@ -1,12 +1,12 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "Tribal groups seek Paniya representation in seats reserved for STs in Wayanad",
-    "desc": "In a detailed submission to leaders of UDF and LDF, the organisations urged the nomination of C. Manikandan, an MBA graduate and social activist from the Paniya community, calling his candidature a step towards “reparative social justice” for a marginalised Adivasi group in the State",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/tribal-groups-seek-paniya-representation-in-seats-reserved-for-st-in-wayanad/article70718691.ece",
-    "time": "2026-03-08T18:28:07.000Z"
+    "cat": "Entertainment",
+    "title": "Saif Ali Khan opens up on pay parity",
+    "desc": "Saif Ali Khan and Kunal Kemmu discussed pay parity in Bollywood, emphasizing that while they advocate for it, an actor's ability to draw audiences to theaters dictates their remuneration. They noted that economics and star power have historically influenced salaries, but acknowledged that the industry is gradually moving towards greater balance and parity.",
+    "img": "https://static.toiimg.com/photo/msid-129287203,imgsize-18528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-opens-up-on-pay-parity-its-not-like-just-because-you-are-a-certain-gender-you-deserve/articleshow/129287185.cms",
+    "time": "2026-03-08T19:15:45.000Z"
   },
   {
     "cat": "Sports",
@@ -15,7 +15,16 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/6dgc9l/article70720001.ece/alternates/LANDSCAPE_1200/DSC_5473.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-final-a-red-letter-day-for-suryakumars-men-in-blue/article70720002.ece",
-    "time": "2026-03-08T18:26:47.000Z"
+    "time": "2026-03-08T18:50:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stranded amid Iran vs US-Israel war? Know your rights on salary, leave, remote work as per UAE Labour Law",
+    "desc": "Thousands of UAE residents stranded abroad due to travel disruptions amid Iran vs US-Israel war, face salary and job uncertainty. UAE labour law offers protections, with employers expected to assess situations reasonably. Communication and documentation are crucial for employees, who may be eligible for remote work or paid/unpaid leave. Termination is not automatic for justified absences.",
+    "img": "https://static.toiimg.com/photo/msid-129285002,imgsize-57464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/stranded-amid-iran-vs-us-israel-war-know-your-rights-on-salary-leave-remote-work-as-per-uae-labour-law/articleshow/129283178.cms",
+    "time": "2026-03-08T18:32:39.000Z"
   },
   {
     "cat": "Politics",
@@ -66,7 +75,7 @@ const newsData_en = [
     "cat": "Sports",
     "title": "India bury ghost of November 19; pummel New Zealand by 96 runs",
     "desc": "Sanju Samson, Abhishek Sharma and Ishan Kishan scored blistering fifties to power India to 255 for 5 against New Zealand in the T20 World Cup final in Ahmedabad. Indian bowlers led by Jasprit Bumrah and some exceptional catching by Ishan Kishan in the outfield helped India register a 96-run win and they became only the first team to win back-to-back T20 World Cups.",
-    "img": "https://static.toiimg.com/photo/msid-129280605,imgsize-80372.cms",
+    "img": "https://static.toiimg.com/photo/msid-129286537,imgsize-145188.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-final-india-bury-ghost-of-november-19-pummel-new-zealand-by-96-runs/articleshow/129280696.cms",
     "time": "2026-03-08T17:22:44.000Z"
@@ -262,15 +271,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "NDA striving for advancement of women, says Andhra Pradesh CM Chandrababu Naidu",
-    "desc": "So far, 1,12,686 women have established MSMEs, he says, and promises to help in marketing products made by DWCRA and MEPMA groups under ‘Swayam’ brand through various platforms; SERP and MEPMA sign MoUs with various organisation to support SHGs in different fields",
-    "img": "https://th-i.thgim.com/public/incoming/5tv4zw/article70719225.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-08%20at%2017.59.42.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-striving-for-advancement-of-women-says-andhra-pradesh-cm-chandrababu-naidu/article70718907.ece",
-    "time": "2026-03-08T13:56:13.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "TERI's LaBL 2.0 targets the next billion",
     "desc": "New Delhi [India], At a defining moment in India's clean energy transition, The Energy and Resources Institute (TERI) launched LaBL 2.0 (Lighting a Billion Lives 2.0) at an inspiring 'Dinner of Hope' in New Delhi -- reimagining decentralized renewable energy as a catalyst for green livelihoods, women-led entrepreneurship, and measurable climate action.",
     "img": "https://static.toiimg.com/photo/msid-129272964,imgsize-185752.cms",
@@ -304,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-set-for-march-28-start-rcb-to-play-five-home-games-in-bengaluru/articleshow/129270981.cms",
     "time": "2026-03-08T13:17:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nasir–Junaid murder case: Accused Monu Manesar gets big welcome as he returns to Gurugram village after bail",
-    "desc": "Accused Monu Manesar, out on bail after two-and-a-half years, returned to his Gurugram village Sunday. Residents welcomed him with celebrations, drums, and garlands. Manesar, real name Mohit Yadav, faces charges in the 2023 killing of Junaid and Nasir, whose bodies were found in a burnt vehicle. He was released from Rajasthan jail after the High Court granted him bail.",
-    "img": "https://static.toiimg.com/photo/msid-129271027,imgsize-590233.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nasirjunaid-murder-case-accused-monu-manesar-gets-big-welcome-as-he-returns-to-gurugram-village-after-bail/articleshow/129271052.cms",
-    "time": "2026-03-08T12:57:52.000Z"
   },
   {
     "cat": "Entertainment",
@@ -358,15 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/iran-sing-national-anthem-before-bowing-out-of-womens-asian-cup/articleshow/129269928.cms",
     "time": "2026-03-08T12:29:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Why? Why? Why?' Mamata questions timing of President venue row before Bengal polls",
-    "desc": "Speaking from the central Kolkata sit-in platform, Banerjee responded to Prime Minister Narendra Modi’s criticism earlier in the day, in which he accused the TMC government of “insulting” a woman tribal leader and the President of the country. In reply, Banerjee displayed an enlarged photograph showing the Prime Minister seated beside veteran BJP leader LK Advani while the President stood nearby.",
-    "img": "https://static.toiimg.com/photo/msid-129269429,imgsize-195312.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-why-why-mamata-questions-timing-of-president-venue-row-before-bengal-polls/articleshow/129262543.cms",
-    "time": "2026-03-08T12:22:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,15 +414,6 @@ const newsData_en = [
     "time": "2026-03-08T10:51:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Parliament’s Budget Session set to resume: What to expect as Centre–opposition showdown looms",
-    "desc": "Opposition's no-confidence motion against Lok Sabha Speaker Om Birla is set for debate, largely symbolic ahead of assembly polls. While unlikely to succeed, the move aims to project INDIA bloc unity and will likely see broader issues like US tariffs and Epstein files raised. The government is prepared to defend Birla and counter with its own points.",
-    "img": "https://static.toiimg.com/photo/msid-129265276,imgsize-846078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/parliaments-budget-session-set-to-resume-what-to-expect-as-centreopposition-showdown-looms/articleshow/129265045.cms",
-    "time": "2026-03-08T10:44:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "R Parthiban takes a swipe at Trisha and Vijay’s public appearance",
     "desc": "Actor-filmmaker R Parthiban has sparked a social media buzz with pointed remarks aimed at Thalapathy Vijay and Trisha Krishnan. Following their recent public appearance at a Chennai wedding reception, Parthiban suggested \"Kundavai\" (Trisha) should stay at home. The controversy deepened on International Women's Day as Parthiban seemingly countered Vijay’s dismissive comments about his personal allegations.",
@@ -486,15 +459,6 @@ const newsData_en = [
     "time": "2026-03-08T09:51:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Conscious decision': Ex-Bengal governor says reasons for resignation will remain confidential till 'right time'",
-    "desc": "Speaking to reporters at the Kolkata airport, Bose told news agency PTI that he, however, would return to Bengal to cast his vote. Bose, a native of Kerala, had shifted his voting base to Bengal barely a week before tendering resignation from his office. Bose avoided a direct response when asked ​to comment on the angst expressed by President Droupadi Murmu on alleged protocol violations and tribal deprivation in the state.",
-    "img": "https://static.toiimg.com/photo/msid-129263357,imgsize-72122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/conscious-decision-ex-bengal-governor-says-reasons-for-resignation-will-remain-confidential-till-right-time/articleshow/129261531.cms",
-    "time": "2026-03-08T09:49:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How much oil does India have and how long will it last",
     "desc": "India's energy security is bolstered by over 250 million barrels of oil reserves, sufficient for nearly two months. Diversified crude imports from 40 countries and a reduced reliance on the Strait of Hormuz mitigate geopolitical risks. India continues to import Russian oil, complying with G7 price caps, while domestic ethanol blending and expanded refining capacity further strengthen its energy independence.",
@@ -502,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/250-million-barrel-buffer-how-much-oil-does-india-have-and-how-long-will-it-last/articleshow/129262355.cms",
     "time": "2026-03-08T09:36:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Arrogance of power will soon be shattered': PM Modi sharpens attack on Mamata over President Murmu's Santhal event row",
-    "desc": "Prime Minister Narendra Modi strongly criticized West Bengal Chief Minister Mamata Banerjee and the Trinamool Congress for allegedly mismanaging and boycotting an event attended by President Droupadi Murmu. Modi termed the actions an insult to the President, the Constitution, and democratic traditions, warning that the people of West Bengal would not forgive this perceived disrespect towards a tribal woman leader.",
-    "img": "https://static.toiimg.com/photo/msid-129262420,imgsize-1040786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/arrogance-of-power-will-soon-be-shattered-pm-modi-sharpens-attack-on-mamata-over-president-murmus-santhal-event-row/articleshow/129262076.cms",
-    "time": "2026-03-08T09:24:15.000Z"
   },
   {
     "cat": "Sports",
@@ -549,15 +504,6 @@ const newsData_en = [
     "time": "2026-03-08T08:44:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sunny Deol’s 'Lahore 1947' renamed 'Batwara 1947'",
-    "desc": "Rajkumar Santoshi's Aamir Khan-produced Lahore 1947, starring Sunny Deol and Preity Zinta, is now Batwara 1947 due to India-Pak frictions. Based on a Partition play about Mai in Lahore, rights passed from Govind Nihalani to Santoshi. Eyes Independence Day release.",
-    "img": "https://static.toiimg.com/photo/msid-129261005,imgsize-61156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deols-lahore-1947-renamed-batwara-1947-to-avoid-political-sensitivities-ahead-of-independence-day-release-report/articleshow/129261005.cms",
-    "time": "2026-03-08T08:42:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Foreign portfolio investors withdraw Rs 21,000 crore amid Middle East tensions",
     "desc": "Foreign portfolio investors divested nearly Rs 21,000 crore from Indian equities in the first week of March, driven by escalating Middle East tensions and a weakening global risk appetite. This follows a strong February inflow, with analysts citing geopolitical risks, rupee depreciation, and rising US Treasury yields as key factors influencing the outflows.",
@@ -574,24 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/12-years-on-renewed-hunt-for-missing-flight-mh370-comes-up-empty-as-families-press-for-answers/article70718454.ece",
     "time": "2026-03-08T08:26:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nitish Kumar's son Nishant enters politics, joins JD(U)",
-    "desc": "Bihar Chief Minister Nitish Kumar's son, Nishant Kumar, has formally joined the JD(U). This development follows Nitish Kumar's decision to step down as CM, sparking speculation about his successor and potentially ushering in a new political era in Bihar. Nitish Kumar himself announced his intention to contest the Rajya Sabha elections.",
-    "img": "https://static.toiimg.com/photo/msid-129259943,imgsize-913543.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nitish-kumars-son-nishant-enters-politics-joins-jdu/articleshow/129259977.cms",
-    "time": "2026-03-08T08:16:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mamata absent, no water in President Murmu's washroom, garbage on road: Centre, Bengal govt spar over 'lapses' at Santal event",
-    "desc": "The Centre has demanded a response from the West Bengal government by Sunday evening regarding alleged protocol violations during President Droupadi Murmu's visit to state. These alleged lapses include issues with venue arrangements, route cleanliness, and the absence of key state officials at her reception, prompting criticism from the Prime Minister.",
-    "img": "https://static.toiimg.com/photo/msid-129258201,imgsize-1160285.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mamata-absent-no-water-in-president-murmus-washroom-garbage-on-road-centre-bengal-govt-spar-over-lapses-at-santal-event/articleshow/129256807.cms",
-    "time": "2026-03-08T07:30:59.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +826,77 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/us-house-committee-wants-travel-companies-to-answer-questions-on-use-of-ai-for-pricing/article70710041.ece",
     "time": "2026-03-06T06:03:13.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump takes forceful steps to pressure Latin American leaders to reduce China ties",
+    "desc": "Under pressure from President Donald Trump, who had threatened to take the Panama Canal back under U.S. control, the Panamanian government seized two ports at either end of the canal that had been run by a Hong Kong company",
+    "img": "https://th-i.thgim.com/public/incoming/ybn1k1/article70710293.ece/alternates/LANDSCAPE_1200/Trump_10582.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-takes-forceful-steps-to-pressure-latin-american-leaders-to-reduce-china-ties/article70710237.ece",
+    "time": "2026-03-06T05:22:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India survives Bethell blitz, scrapes into the final",
+    "desc": "Samson’s 42-ball 89 and cameos by Kishan and Dube power the Men in Blue to 253 for seven; the English left-hander almost pulls off a heist before Bumrah’s mastery wins it for the home team",
+    "img": "https://th-i.thgim.com/public/incoming/ptu84k/article70708794.ece/alternates/LANDSCAPE_1200/11908_5_3_2026_22_57_30_2_DSC_3770.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-team-india-survives-bethell-scare-enters-the-final/article70708797.ece",
+    "time": "2026-03-06T00:56:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Daren Sammy pleads for exit as West Indies remain stranded in India",
+    "desc": "The West Indies, who were knocked out of the T20 World Cup after losing to India in the Super Eight stage on March 1, have been unable to fly back home as flight operations through parts of the Gulf region remain disrupted",
+    "img": "https://th-i.thgim.com/public/incoming/w33pp0/article70707185.ece/alternates/LANDSCAPE_1200/2026-03-01T132146Z_2043126464_UP1EM311149D6_RTRMADP_3_CRICKET-T20-WORLDCUP-IND-WIN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/i-just-wanna-go-home-daren-sammy-pleads-for-exit-as-west-indies-remain-stranded-in-india/article70707176.ece",
+    "time": "2026-03-05T12:19:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Thavil artiste Amirthavarshini: Performing with A.R. Rahman was a wonderful experience",
+    "desc": "From playing the thavil in the temples of Mannargudi near Thanjavur as a schoolgirl to joining A.R. Rahman’s ‘Wonderment Tour’ concert in Chennai recently, Amirthavarshini Manishankar’s musical journey seems like a fairy tale. But in reality, it is also a story of conviction and perseverance — of a young girl carving a space for herself as a thavil artiste in the male‑dominated world of Carnatic percussion.",
+    "img": "https://th-i.thgim.com/public/incoming/42r6ll/article70706717.ece/alternates/LANDSCAPE_1200/amirthavarshini.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-thavil-artiste-amirthavarshini-performing-with-ar-rahman-was-a-wonderful-experience/article70706716.ece",
+    "time": "2026-03-05T09:37:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Lanterns’ teaser: Kyle Chandler and Aaron Pierre’s tense partnership to steer upcoming DC series",
+    "desc": "HBO has unveiled the first teaser for Lanterns, offering a glimpse of Kyle Chandler’s veteran Hal Jordan and Aaron Pierre’s rookie John Stewart as the two Green Lanterns investigate a mysterious murder on Earth while clashing over authority and experience",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/2rggar/article70706164.ece/alternates/LANDSCAPE_1200/MV5BMWM1Mzk0MTgtNGNlNC00MDZiLWIyMDQtZDgxY2Y5NTlmMWQzXkEyXkFqcGc._V1_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/lanterns-teaser-kyle-chandler-and-aaron-pierres-tense-partnership-to-steer-upcoming-dc-series/article70706165.ece",
+    "time": "2026-03-05T06:05:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "History-chasing India, England on collision course at iconic Wankhede",
+    "desc": "There hasn’t been one standout performer, but Suryakumar & Co. have been able to eke out contributions from different personnel at key moments; Brook’s men have had a grand campaign after an early loss to West Indies and the shift back from slightly tricky tracks in Sri Lanka to a potentially excellent one for batting isn’t the most demanding",
+    "img": "https://th-i.thgim.com/public/sport/x8mt9v/article70704776.ece/alternates/LANDSCAPE_1200/INDIA%20E.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/history-chasing-india-england-on-collision-course-at-iconicwankhede/article70704768.ece",
+    "time": "2026-03-04T18:52:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunil Gavaskar: Sanju Samson’s innings was one of the finest T20 knocks we have seen",
+    "desc": "Former Indian batting legend Sunil Gavaskar looks ahead to the semifinal between India and England at the ICC T20 World Cup, his thoughts on Sanju Samson’s matchwinning innings against West Indies, and why Jasprit Bumrah is so difficult to face.",
+    "img": "https://th-i.thgim.com/public/incoming/m26qyk/article70703762.ece/alternates/LANDSCAPE_1200/gavaskar.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-sunil-gavaskar-sanju-samsons-innings-was-one-of-the-finest-t20-knocks-we-have-seen/article70703763.ece",
+    "time": "2026-03-04T13:41:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bejoy Nambiar Interview: Why I never watched the original",
+    "desc": "In this episode of Inside Man, Sudhish Kamath sits down with filmmaker Bejoy Nambiar, director of Tu Yaa Main, for a candid conversation about finding — and defending — your creative voice. After years of being labelled “style over substance,” Bejoy opens up about how he battled the tag, why he has finally made peace with it, and how Tu Yaa Main — his best reviewed film yet — shifted that narrative.",
+    "img": "https://th-i.thgim.com/public/incoming/ar6ov1/article70702687.ece/alternates/LANDSCAPE_1200/05_Bejoy_Nambiar.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shows/watch-bejoy-nambiar-interview-why-i-never-watched-the-original/article70702688.ece",
+    "time": "2026-03-04T08:40:15.000Z"
   }
 ];

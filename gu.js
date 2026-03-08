@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "શાનદાર સંજૂ... &amp;#039;પ્લેયર ઓફ ધ ટુર્નામેન્ટ&amp;#039; બનતા ઈમોશનલ થયો સંજુ સેમસન, સંભળાવ્યો સચિન તેંડુલકરનો કિસ્સો",
+    "desc": "T20 વર્લ્ડ કપ 2026માં 321 રન બનાવનાર સંજુ સેમસનને 'પ્લેયર ઓફ ધ ટુર્નામેન્ટ' બન્યા છે. ફાઈનલ જીત્યા બાદ સેમસને કહ્યું કે, આ ક્ષણ તેના માટે કોઈ સપનું સાકાર થવા જેવી છે. તેમણે જણાવ્યું કે, મુશ્કેલ સમયમાં સચિન તેંડુલકર સાથે થયેલી વાતચીત અને તેમના માર્ગદર્શને તેને ઘણી મદદ કરી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-sanju-samson-gets-emotional-while-receiving-the-player-of-the-tournament-award-467773 ",
+    "time": "2026-03-08T18:39:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "નરેન્દ્ર મોદી સ્ટેડિયમમાં રચાયો ઇતિહાસ, આખું ગુજરાત વિજયોત્સવમાં ડૂબ્યું! લોકો રસ્તા ઉપર ઉતર્યા",
     "desc": "અમદાવાદ, વડોદરા અને રાજકોટ સહિતના મહાનગરોમાં ક્રિકેટરસિકોમાં ભારે ઉત્સાહ જોવા મળ્યો હતો. અમદાવાદના સિંધુભવન રોડ, શાસ્ત્રીનગર સહિતના વિસ્તારોમાં લોકો હાથમાં ત્રિરંગા સાથે પોતાના વાહનો પર નીકળી પડ્યા હતા અને ઇન્ડિયા ઇન્ડિયાના નારા લગાવતા જોવા મળ્યા હતા.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -142,15 +151,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/anu-will-come-out-to-confront-arya-past-pushpa-will-cancel-her-marriage-know-about-the-upcoming-episode-467632 ",
     "time": "2026-03-08T08:16:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "નરેન્દ્ર મોદી સ્ટેડિયમની પીચ માટે ગુજરાતના આ ગામમાંથી આવે છે માટી, જાણો શું છે આ લાલ માટીમાં ખાસ",
-    "desc": "આજે અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં T20 વર્લ્ડ કપ 2026ની ફાઈનલ ભારત અને ન્યુઝીલેન્ડ વચ્ચે રમાશે. સ્ટેડિયમની પીચ માટે ગુજરતના એક ગામની લાલ માટીનો ઉપયોગ કરવામાં આવ્યો છે, ત્યારે આ માટીમાં એવી શું ખાસિયત છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-final-narendra-modi-stadium-pitch-navsari-red-soil-467631 ",
-    "time": "2026-03-08T08:15:57.000Z"
   },
   {
     "cat": "Business",

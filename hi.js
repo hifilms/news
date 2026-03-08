@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Hardik Pandya aims to win 10 more ICC titles after T20 World Cup 2026 win",
+    "desc": "History was created in Ahmedabad as India successfully defended the ICC Men's T20 World Cup 2026, overwhelming New Zealand by 96 runs at the Narendra Modi Stadium in Ahmedabad. The hosts produced a near-perfect performance...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-aims-to-win-10-more-icc-titles-after-t20-world-cup-2026-win-2026-03-09-1033102",
+    "time": "2026-03-08T18:53:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Will take time to sink in': Suryakumar Yadav reacts after leading India to T20 World Cup trophy",
+    "desc": "Suryakumar Yadav was announced India's T20I captain after the previous edition of the T20 World Cup as Rohit Sharma announced his retirement. Since then, India didn't lose a single series under Surya's captaincy, winning eight...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-take-time-to-sink-in-suryakumar-yadav-reacts-after-leading-india-to-t20-world-cup-trophy-2026-03-09-1033101",
+    "time": "2026-03-08T18:51:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli reacts to India's T20 World Cup win, lauds the players, team management for explosive cricket",
     "desc": "India hammered New Zealand by 96 runs to win the T20 World Cup 2026 at the Narendra Modi Stadium in Ahmedabad. Sanju Samson, Abhishek Sharma and Ishan Kishan dominated the show with the bat, scoring...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/matt-henry-reacts-to-india-s-255-in-t20-world-cup-final-hopeful-of-new-zealand-getting-job-done-2026-03-08-1033080",
     "time": "2026-03-08T15:36:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson breaks Virat Kohli's T20 World Cup record for India with 89-run knock in final vs New Zealand",
-    "desc": "Sanju Samson created history today in the T20 World Cup final, playing yet another crazy knock for India against New Zealand at the Narendra Modi Stadium in Ahmedabad. He missed out on a century for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-breaks-virat-kohli-s-t20-world-cup-record-for-india-with-89-run-knock-in-final-vs-new-zealand-2026-03-08-1033078",
-    "time": "2026-03-08T15:23:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson joins Virat Kohli, Shahid Afridi in legendary record list with explosive knock vs New Zealand",
-    "desc": "Sanju Samson went berserk in the T20 World Cup 2026 final against New Zealand at the Narendra Modi Stadium in Ahmedabad. Initially, the Kerala batter took some time to settle down, with Abhishek Sharma dominating...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-joins-virat-kohli-shahid-afridi-in-legendary-record-list-with-explosive-knock-vs-new-zealand-in-t20-world-cup-final-2026-03-08-1033076",
-    "time": "2026-03-08T15:01:45.000Z"
   }
 ];
