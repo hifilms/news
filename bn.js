@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "স্ত্রী সঙ্গীতা বিবাহবিচ্ছেদের আবেদন করার কয়েকদিন পরেই বিজয়-তৃষা একই গাড়িতে, একই সাজে বিয়েবাড়ি গেলেন",
+    "desc": "TVK Vijay - Trisha | বিবাহবিচ্ছেদের আবেদনে সঙ্গীতা বলেছেন, ‘‘বিজয় এক অভিনেত্রীর সঙ্গে বিবাহ বহির্ভূত সম্পর্কে জড়িয়ে পড়েছিলেন। এটি জানতে পেরে আমি বিজয়ের দ্বারা প্রতারিত বোধ করি। আমি কষ্ট পেয়েছিলাম কারণ বিজয় সেই অভিনেত্রীর সঙ্গে সম্পর্কে ছিলেন। ২০২১ সালে, আমরা একই বাড়িতে থাকলেও আলাদা থাকতাম।’’",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Actor-Vijay-and-Trisha-Attend-Wedding-2026-03-ebb05ccc4d26434c296c81f77cff3179-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/actor-vijay-and-trisha-attend-wedding-in-same-car-with-same-costume-while-wife-sangeetha-filed-divorce-ss-aa-2571966.html",
+    "time": "2026-03-08T02:13:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "অরুণাচলের পাহাড়ে রঙের উৎসব, ‘ছেলেধরা’র সেটে এক টুকরো মেঠো বসন্ত",
     "desc": "পরিচালক শিলাদিত্য মৌলিক যাঁর আগের ছবি সূর্য টানা ১১ সপ্তাহ প্রেক্ষাগৃহে চলেছিল, এই ছবিতে ফিরছেন এক ভিন্নধর্মী গল্প নিয়ে। অরুণাচল প্রদেশের মনোমুগ্ধকর জিরো ভ্যালিতে শুটিং চলাকালীনই রঙের উৎসবে মেতে উঠলেন ‘ছেলেধরা’ ছবির শিল্পী ও কলাকুশলীরা।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-1st-2nd-3rd-march-heavy-rainfall-alert-in-6-states-thunderstorm-lightning-to-hit-12-states-for-next-3-days-know-latest-west-bengal-weather-sanj-2564020.html",
     "time": "2026-03-01T17:42:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Subhashree Ganguly Father's Reaction: \"আমার নাতি বড্ড ভীতু\", চিন্তায় শুভশ্রীর বাবা! ফোনে কী কথা হল? বোমাবর্ষণের মাঝে দুবাইয়ে ছেলেকে নিয়ে আটকে শুভশ্রী",
-    "desc": "আগামী ৫ তারিখ দেশে ফেরার টিকিট থাকলেও বর্তমান পরিস্থিতিতে এতদিন সেখানে থাকা সম্ভব হবে কি না তা নিয়ে অনিশ্চয়তা তৈরি হয়েছে। তিনি আরও বলেন, আমার নাতি একটু ভীতু প্রকৃতির তাই চুপচাপ হয়ে গেছে এই সব দেখে। রাত্রে বেলায় আবার ফোন করে কথা বলার চেষ্টা করব।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-01-at-10.08.53-PM-2026-03-20b6df4c78f2125100344abee6641f41-1200x800.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/actress-subhashree-ganguly-stuck-in-dubai-with-son-her-father-panics-says-his-grandson-is-bit-worried-l18-pbd-local18-2563987.html",
-    "time": "2026-03-01T17:11:32.000Z"
   }
 ];

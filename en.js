@@ -1,5 +1,230 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "President Murmu unhappy over venue change, PM Modi calls it an 'insult'; Mamata hits back — what triggered Santal conference row",
+    "desc": "A political storm erupted after West Bengal's last-minute venue change for the International Santhal Conclave, drawing public displeasure from President Murmu. She questioned the reasoning and highlighted the community's struggle for recognition, sparking a fierce exchange between the TMC and BJP over alleged politicization of tribal issues and disrespect to the President's office.",
+    "img": "https://static.toiimg.com/photo/msid-129250795,imgsize-1272491.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/president-murmu-unhappy-over-venue-change-pm-modi-calls-it-an-insult-mamata-hits-back-what-triggered-santal-conference-row/articleshow/129249832.cms",
+    "time": "2026-03-08T04:27:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "45% Kashmir students up to Class 12 report sub-optimal mental well-being due to social media: study",
+    "desc": "“The inability of some students to check in with some technologies according to their wishes results in a feeling of anxiety. More than 14% were moderately to highly anxious when they were unable to use text messages,” according to the study, published this year by the Ianna Journal of Interdisciplinary Studies",
+    "img": "https://th-i.thgim.com/public/news/national/6ophxo/article70718026.ece/alternates/LANDSCAPE_1200/iStock-1413735503.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/45-kashmir-students-up-to-class-12-report-sub-optimal-mental-wellbeing-due-to-social-media-study/article70715768.ece",
+    "time": "2026-03-08T04:13:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mercury rises across north; Delhi records highest maximum temperature for first week of March in 50 years",
+    "desc": "According to weather data from the past 50 years, earlier the highest maximum temperature reading during the first seven days of March at Safdarjung, the city's base weather station, was 34.8°C logged on March 5, 1999.",
+    "img": "https://th-i.thgim.com/public/news/national/7hn6k0/article70718063.ece/alternates/LANDSCAPE_1200/PTI04_07_2025_000167A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/mercury-rises-across-north-delhi-records-highest-maximum-temperature-for-first-week-of-march-in-50-years/article70718054.ece",
+    "time": "2026-03-08T03:57:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Thaai Kizhavi' BO day 10: Film crosses Rs 30 crore",
+    "desc": "'Thaai Kizhavi,' starring Radhika Sarathkumar, is enjoying a strong box office run, raking in approximately Rs 30.31 crore in its first ten days. The film saw a robust opening weekend, with collections surging significantly after a decent start. Steady weekday numbers and a solid second weekend have maintained its momentum, highlighting its appeal as a rural drama with mass elements.",
+    "img": "https://static.toiimg.com/photo/msid-129249583,imgsize-90300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/box-office/thaai-kizhavi-box-office-collections-day-10-radhikaa-sarathkumars-film-crosses-rs-30-crore/articleshow/129249583.cms",
+    "time": "2026-03-08T03:42:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "From oil to rice, here's how Middle East crisis may spread across global economy",
+    "desc": "The Middle East conflict is escalating, triggering global economic concerns. Disruptions to trade, energy supplies, and food production are already evident, with potential for significant inflation and reduced growth. Asian economies and global shipping networks face particular vulnerability as tensions persist.",
+    "img": "https://static.toiimg.com/photo/msid-129249340,imgsize-2952439.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/from-oil-to-rice-heres-how-middle-east-crisis-may-spread-across-global-economy/articleshow/129247620.cms",
+    "time": "2026-03-08T03:33:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shah Rukh Khan praises Anil Kapoor’s ‘Subedaar’",
+    "desc": "Bollywood superstar Shah Rukh Khan lauded Anil Kapoor's powerful performance in the recently released OTT film 'Subedaar'. Khan praised Kapoor's dedication and the entire cast's unique character portrayals, calling the film a great effort. 'Subedaar', which follows a retired officer's struggle with civilian life and past issues, is now streaming on Prime Video.",
+    "img": "https://static.toiimg.com/photo/msid-129248969,imgsize-120538.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/subedaar-review-shah-rukh-khan-says-he-always-expects-anil-kapoor-to-give-it-his-all/articleshow/129248969.cms",
+    "time": "2026-03-08T03:29:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Jhooth bol raha hai': SKY hits back at Santner's claim before final",
+    "desc": "A day before the T20 World Cup final, mind games have begun between India and New Zealand. Kiwi captain Mitchell Santner said restricting India to around 220 instead of 250 could help his team. India skipper Suryakumar Yadav jokingly dismissed the remark, saying “Jhooth bol raha hai,” adding India will adapt to the pitch rather than target a fixed total.",
+    "img": "https://static.toiimg.com/photo/msid-129249014,imgsize-71722.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jhooth-bol-raha-hai-india-skipper-suryakumar-yadav-hits-back-at-mitchell-santners-claim-ahead-of-ind-vs-nz-final/articleshow/129248760.cms",
+    "time": "2026-03-08T03:23:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pietersen says he is open to England coaching role",
+    "desc": "I would absolutely look at it ‌in the longest form of ‌the ⁠game and try to help these ⁠guys understand that there is a way that you can play, says Former England captain Kevin Pietersen",
+    "img": "https://th-i.thgim.com/public/incoming/nfxc46/article70718042.ece/alternates/LANDSCAPE_1200/Britain_CWC_Cricket_30026.jpg-79960.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/pietersen-says-he-is-open-to-england-coaching-role/article70718037.ece",
+    "time": "2026-03-08T03:17:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amplifying women’s voices through movies",
+    "desc": "Movies are a powerful medium, often capable of giving voice to the voiceless, bringing untold stories to the big screen and capturing a global audience. On this Women’s Day, Rudrangsh Gupta reviews six movies — three Indian and three overseas — that speak about various facets of life central to girls and women.",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-in-school/lsqutd/article70671004.ece/alternates/LANDSCAPE_1200/2808305104_aca611c322_b.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/amplifying-womens-voices-through-movies/article70670910.ece",
+    "time": "2026-03-08T03:13:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian boxers miss Youth WC after passport delay amid conflict",
+    "desc": "A 10-member Indian junior boxing team was forced to withdraw from the Youth World Cup in Montenegro due to logistical issues stemming from the West Asia conflict. Passports, sent to the UAE for visa stamping, could not be returned to India in time for the tournament, preventing the contingent's travel.",
+    "img": "https://static.toiimg.com/photo/msid-129248491,imgsize-63470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/boxing/indian-boxers-miss-youth-world-cup-after-passport-delay-amid-conflict-in-west-asia/articleshow/129248288.cms",
+    "time": "2026-03-08T03:09:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jennifer Lopez recalls the pain of Marc Anthony's divorce",
+    "desc": "Jennifer Lopez recently shared the emotional difficulty of her divorce from Marc Anthony, describing it as a challenging period. Despite the end of their seven-year marriage, the couple has successfully navigated co-parenting their twins, Max and Emme, demonstrating resilience and a strong post-divorce dynamic.",
+    "img": "https://static.toiimg.com/photo/msid-129248499,imgsize-790361.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-lopez-reflects-on-painful-split-from-marc-anthony-and-life-after-divorce-this-was-a-very-difficult-decision/articleshow/129248514.cms",
+    "time": "2026-03-08T03:07:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hilary Duff still ‘angry’ about her 2008 PSA: Here's why",
+    "desc": "Nearly two decades later, Hilary Duff reflects on her impactful 'Think Before You Speak' anti-bullying campaign. The PSA, aimed at curbing homophobic language, resonated deeply with young fans, making them feel seen and supported. Duff expresses frustration that prejudice persists, emphasizing the ongoing need for kindness and acceptance.",
+    "img": "https://static.toiimg.com/photo/msid-129248294,imgsize-63936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/hilary-duff-is-still-sad-and-angry-about-her-2008-thats-so-gay-psa-it-actually-makes-me-want-to-cry/articleshow/129248243.cms",
+    "time": "2026-03-08T03:02:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Indrajith Sukumaran's 'Dheeram' OTT release delayed",
+    "desc": "Malayalam thriller 'Dheeram', starring Indrajith Sukumaran, has seen its digital release postponed from March 6 without a new date or explanation. The film, previously facing a GCC ban during its theatrical run, is expected on Amazon Prime Video soon. Directed by Jithin Suresh T, it features an ensemble cast and a strong investigation plot.",
+    "img": "https://static.toiimg.com/photo/msid-129248143,imgsize-127218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/dheeram-ott-release-delayed-indrajith-sukumarans-thriller-misses-march-6-streaming-debut/articleshow/129248143.cms",
+    "time": "2026-03-08T03:00:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Women's Day 2026: Angelina Jolie as Maleficent, Cynthia Eviro as Elphaba",
+    "desc": "When we think of female antagonists, we think of women with gothic makeup wearing deep-hued dresses sporting elaborate hairstyles driven with the sole intention to rule and exploit. But no, over the years, storytelling has evolved, and female antagonists are no longer dictators devoid of compassion. Today, they are complex characters whose reputation of being ‘the black sheep’ is a byproduct of social injustice. Their actions, which are deemed ‘bad’ in the conventional sense, are undertaken for a greater purpose, for the welfare of humankind. And that is possibly why some ‘antagonists’ have appealed to the audience more than the lead.",
+    "img": "https://static.toiimg.com/photo/msid-129247176,imgsize-38578.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/womens-day-2026-angelina-jolie-as-maleficent-cynthia-eviro-as-elphaba-female-villains-who-went-rogue-for-good-reasons/photostory/129247176.cms",
+    "time": "2026-03-08T03:00:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Perennial dark horses, really? Why world cricket keeps forgetting New Zealand’s World Cup pedigree",
+    "desc": "Nine ODI World Cup semi-finals. Two finals. Five T20 World Cup semi-finals and now a second final on Sunday. New Zealand’s record in big-ticket tournaments is anything but accidental, yet they continue to be casually described as cricket’s perennial dark horses.",
+    "img": "https://static.toiimg.com/photo/msid-129247894,imgsize-84154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/perennial-dark-horses-really-why-world-cricket-keeps-forgetting-new-zealands-world-cup-pedigree/articleshow/129247894.cms",
+    "time": "2026-03-08T02:57:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shaan pays tribute to his mother on her birthday",
+    "desc": "Singer Shaan honored his late mother, Sonali Mukherjee, on her birthday by sharing a touching interview clip. In the video, she recalled his childhood shyness about singing and her unwavering belief in his future success. Shaan expressed immense pride, crediting his mother's selfless upbringing for his achievements. She passed away in 2022.",
+    "img": "https://static.toiimg.com/photo/msid-129247823,imgsize-53376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/shaan-remembers-mother-sonali-mukherjee-on-her-birthday-posts-throwback-video-says-proud-of-my-maa/articleshow/129247823.cms",
+    "time": "2026-03-08T02:57:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Bat at No.1' instruction, MLC carnage and making of Kiwi destroyer",
+    "desc": "Finn Allen transformed from a middle-order batter into New Zealand’s explosive T20 opener after Wellington coach Glenn Pocknall promoted him to open in 2020. Recognising his power and attacking potential, Pocknall nurtured Allen’s aggressive style through challenging training. Allen later proved the decision right with record-breaking performances, including a 33-ball T20 World Cup century and a 151-run MLC blitz.",
+    "img": "https://static.toiimg.com/photo/msid-129247771,imgsize-37618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/finn-allen-bat-at-no-1-instruction-mlc-carnage-and-the-making-of-new-zealands-t20-destroyer-exclusive/articleshow/129247759.cms",
+    "time": "2026-03-08T02:48:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi court grants two-week interim bail to Al-Falah chairman Jawed Siddiqui in money laundering case",
+    "desc": "“After considering all the present facts and circumstances, I am of the considered view that the applicant/ accused deserves to be enlarged on interim bail as the wife of applicant/ accused is unwell,” the court said in its order",
+    "img": "https://th-i.thgim.com/public/incoming/ntn2ak/article70718017.ece/alternates/LANDSCAPE_1200/22_BM_Haryana-AG6DFBFD0O.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/delhi-court-grants-two-week-interim-bail-to-al-falah-chairman-jawed-siddiqui-in-money-laundering-case/article70716950.ece",
+    "time": "2026-03-08T02:47:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Why Stephanie Buttermore left social media",
+    "desc": "The untimely loss of fitness icon Stephanie Buttermore at the age of 36 has brought renewed attention to her heartfelt Instagram message from May 2024. In her final post, she shared how distancing herself from social media led to a remarkable uplift in her mental well-being, with anxiety that once felt 'insurmountable' now a distant memory.",
+    "img": "https://static.toiimg.com/photo/msid-129247351,imgsize-218420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/why-stephanie-buttermore-left-social-media-her-final-instagram-post-spoke-of-crippling-anxiety/articleshow/129247351.cms",
+    "time": "2026-03-08T02:42:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Charli XCX hints at quitting music to focus on acting",
+    "desc": "Pop sensation Charli XCX is contemplating a career shift towards acting following the immense success of her 2024 album, Brat. The artist expressed a desire to pause music after an intense period, with social media activity fueling speculation about a potential hiatus.",
+    "img": "https://static.toiimg.com/photo/msid-129247057,imgsize-826831.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/charli-xcx-hints-at-stepping-back-from-music-to-pursue-acting-after-brat-era-success/articleshow/129247061.cms",
+    "time": "2026-03-08T02:25:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why does the Strait of Hormuz’s closure matter?",
+    "desc": "Where is the Strait of Hormuz and what is its significance? Why have tensions in West Asia affected this passage? What does Iran have to do with the near-complete closure of the strait? How does the situation affect India and what is the government doing about it?",
+    "img": "https://th-i.thgim.com/public/incoming/iffkoj/article70717008.ece/alternates/LANDSCAPE_1200/2026-03-07T044529Z_1004479925_RC20XJAXEVAA_RTRMADP_3_IRAN-CRISIS-ENERGY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/why-does-the-strait-of-hormuzs-closure-matter/article70717010.ece",
+    "time": "2026-03-08T02:00:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shahid Kapoor begins filming for ‘Farzi 2’",
+    "desc": "Shahid Kapoor has officially kicked off filming for the highly anticipated second season of his hit series, 'Farzi 2'. Sharing behind-the-scenes glimpses, the actor confirmed the commencement of production for the black comedy. The show, which captivated audiences with its tale of a counterfeiting scam, is set to return with Kapoor reprising his role.",
+    "img": "https://static.toiimg.com/photo/msid-129246173,imgsize-118420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoor-is-back-at-it-actor-confirms-filming-for-farzi-2-in-latest-post/articleshow/129246173.cms",
+    "time": "2026-03-08T01:59:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Victoria Beckham shows gratitude towards family after successful fashion show",
+    "desc": "Victoria Beckham celebrated her Paris Fashion Week success, thanking husband David and younger children Romeo, Cruz, and Harper for their steadfast support. This comes amidst a public rift with eldest son Brooklyn Beckham, who has accused his parents of media manipulation. Despite the estrangement, the Beckhams reportedly remain open to reconciliation.",
+    "img": "https://static.toiimg.com/photo/msid-129246039,imgsize-763487.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/victoria-beckham-thanks-family-after-paris-show-amid-brooklyn-beckham-rift-couldnt-do-it-without-you-all/articleshow/129246040.cms",
+    "time": "2026-03-08T01:52:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi woman hides in Uttarakhand forest overnight to escape rape attempt by taxi driver",
+    "desc": "To save herself, the woman ran towards the woods and hid in the forest overnight. She somehow managed to reach Patwa Dangar village on Friday (March 6) morning, and with the help of locals, filed a police report.",
+    "img": "https://th-i.thgim.com/public/news/national/oqma60/article70717988.ece/alternates/LANDSCAPE_1200/Domestic%20violence.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttarakhand/delhi-woman-hides-in-uttarakhand-forest-overnight-to-escape-rape-attempt-by-taxi-driver/article70717985.ece",
+    "time": "2026-03-08T01:50:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dhurandhar 2’ preview tickets reach all time high price",
+    "desc": "Ranveer Singh's 'Dhurandhar 2' is generating immense buzz, with preview tickets fetching an astonishing Rs 2500. Advance sales have already surpassed 40,000 tickets, raking in approximately Rs 5 crore. The film's release across five languages on March 19 is anticipated to boost its performance, following the massive success of its predecessor.",
+    "img": "https://static.toiimg.com/photo/msid-129245663,imgsize-62804.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-update-preview-tickets-soar-and-reach-rs-2400-sales-run-rampant/articleshow/129245663.cms",
+    "time": "2026-03-08T01:42:59.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Trevor Jackson shares his ‘Grey’s Anatomy’ experience",
     "desc": "Trevor Jackson, now a series regular as Dr. Wes Bryant on 'Grey's Anatomy,' is experiencing his \"breakout\" season. The actor-singer, initially nervous about joining the long-running medical drama, found the cast and crew incredibly welcoming. Jackson admits to still learning medical jargon, but is ready for the show's signature twists and turns.",
@@ -73,15 +298,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Delhi woman hides in Uttarakhand forest overnight to escape rape attempt by taxi driver",
-    "desc": "To save herself, the woman ran towards the woods and hid in the forest overnight. She somehow managed to reach Patwa Dangar village on Friday (March 6) morning, and with the help of locals, filed a police report.",
-    "img": "https://th-i.thgim.com/public/news/national/oqma60/article70717988.ece/alternates/LANDSCAPE_1200/Domestic%20violence.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttarakhand/delhi-woman-hides-in-uttarakhand-forest-overnight-to-escape-rape-attempt-by-taxi-driver/article70717985.ece",
-    "time": "2026-03-08T00:59:25.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Government to hire 1,000 professionals to help exporters",
     "desc": "The government is set to recruit 1,000 young professionals to boost India's export potential. These individuals will work with businesses nationwide, encouraging greater use of Free Trade Agreement (FTA) benefits and aiding in product and market diversification. This initiative aims to invigorate manufacturing by promoting goods moving overseas through preferential duties, especially for FTAs with lower utilization rates.",
     "img": "https://static.toiimg.com/photo/msid-129244367,imgsize-95478.cms",
@@ -108,15 +324,6 @@ const newsData_en = [
     "time": "2026-03-08T00:41:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘The Kerala Story 2’ BO: Film edges on Rs 30 crore mark",
-    "desc": "Goes Beyond' has achieved a strong box office performance. The film garnered Rs 3.75 crore on its ninth day, pushing its total earnings to Rs 29.40 crore. It is now poised to cross the Rs 30 crore milestone, demonstrating considerable audience interest.",
-    "img": "https://static.toiimg.com/photo/msid-129243461,imgsize-56990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-9-film-sits-at-the-edge-of-rs-30-crore-mark/articleshow/129243461.cms",
-    "time": "2026-03-08T00:34:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Gambhir fought everyone': Shoaib Akhtar's stunning reveal on Samson's comeback",
     "desc": "Former Pakistan bowler Shoaib Akhtar commends India coach Gautam Gambhir. Gambhir strongly advocated for Sanju Samson's inclusion in the T20 World Cup squad. Samson has since delivered exceptional performances. His batting has been a major highlight of the tournament. He has scored significantly and broken records. This has helped India reach the final.",
@@ -124,33 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/gautam-gambhir-fought-everyone-shoaib-akhtars-stunning-reveal-on-sanju-samsons-comeback/articleshow/129208329.cms",
     "time": "2026-03-08T00:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Blake Lively and Ryan Reynolds share PDA at Wrexham match",
-    "desc": "Hollywood couple Blake Lively and Ryan Reynolds shared affectionate moments at a high-stakes Wrexham AFC soccer match against Chelsea. Despite Wrexham's 4-2 loss, the pair's public displays of affection and Lively's witty social media post delighted fans, highlighting their continued support for Reynolds' club.",
-    "img": "https://static.toiimg.com/photo/msid-129243376,imgsize-997904.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-and-ryan-reynolds-share-a-pda-moment-at-wrexhams-fa-cup-clash-against-chelsea/articleshow/129243375.cms",
-    "time": "2026-03-08T00:27:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Thalapathy Vijay reacts to rumours and controversy",
-    "desc": "Actor Vijay took to social media to encourage his fans to remain composed amid the buzz surrounding recent controversies, assuring them that he is on top of the situation. His unexpected appearance alongside Trisha at a wedding reception has gone viral, attracting plenty of attention.",
-    "img": "https://static.toiimg.com/photo/msid-129243194,imgsize-90338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-actor-vijay-reacts-to-rumours-and-controversy-dont-worry-about-my-problems/articleshow/129243194.cms",
-    "time": "2026-03-08T00:23:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka Mohan REACTS to meme attacks",
-    "desc": "Priyanka Mohan candidly addressed the recent wave of social media trolling and negativity she's faced, particularly concerning her acting. While not calling it an organized campaign, she acknowledged the hurtful nature of the online attacks. Previously, she suggested such trolling could be paid, asserting it only strengthens her resolve.",
-    "img": "https://static.toiimg.com/photo/msid-129242646,imgsize-55690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/og-actress-priyanka-mohan-responds-to-meme-attacks-says-that-fall-helped-me-to-rise/articleshow/129242646.cms",
-    "time": "2026-03-08T00:08:08.000Z"
   },
   {
     "cat": "Politics",
@@ -297,33 +477,6 @@ const newsData_en = [
     "time": "2026-03-07T20:59:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Indians in Bahrain, Qatar eye Saudi visas to fly out",
-    "desc": "Indians in Qatar and Bahrain are seeking Saudi transit visas as a backup plan due to flight cancellations. With airports in Doha and Bahrain largely shut, many are preparing for overland journeys to Saudi Arabia or Oman. This comes amid ongoing regional tensions, prompting a need for alternative travel routes home.",
-    "img": "https://static.toiimg.com/photo/msid-129235464,imgsize-10736.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/middle-east-tensions-indians-in-bahrain-qatar-eye-saudi-visas-to-fly-out/articleshow/129235312.cms",
-    "time": "2026-03-07T20:56:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Subhashree returns to Kolkata after being stranded in Dubai",
-    "desc": "Bengali actress Subhashree Ganguly returned to Kolkata on Friday along with her son after being stranded in Dubai for several days amid the escalating conflict in West Asia. The actress and her son Yuvaan arrived in the city via Mumbai and were received at the airport by her husband, filmmaker and Raj Chakraborty, who is also a TMC MLA.",
-    "img": "https://static.toiimg.com/photo/msid-129235139,imgsize-62146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/subhashree-ganguly-returns-to-kolkata-with-son-after-being-stranded-in-dubai-amid-middle-east-conflict-i-am-so-devastated-/articleshow/129235139.cms",
-    "time": "2026-03-07T20:55:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why does the Strait of Hormuz’s closure matter?",
-    "desc": "Where is the Strait of Hormuz and what is its significance? Why have tensions in West Asia affected this passage? What does Iran have to do with the near-complete closure of the strait? How does the situation affect India and what is the government doing about it?",
-    "img": "https://th-i.thgim.com/public/incoming/iffkoj/article70717008.ece/alternates/LANDSCAPE_1200/2026-03-07T044529Z_1004479925_RC20XJAXEVAA_RTRMADP_3_IRAN-CRISIS-ENERGY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/why-does-the-strait-of-hormuzs-closure-matter/article70717010.ece",
-    "time": "2026-03-07T20:06:57.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India doesn't need permission to buy Russian oil, say officials",
     "desc": "India continues to source crude oil from Russia, asserting its right to procure from any supplier based on national interest, affordability, and availability. Government sources clarified that recent US waivers were for domestic audiences, as New Delhi's energy security is not solely dependent on single maritime routes like the Strait of Hormuz, with a significant portion of imports unaffected.",
@@ -349,15 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/indian-students-stuck-in-iran-fear-for-safety-families-plead-for-evacuation/article70716973.ece",
     "time": "2026-03-07T19:04:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lilliput regrets remark about KJo’s ‘feminine mannerisms’",
-    "desc": "Veteran actor-writer M M Faruqui, popularly known as Lilliput, has once again expressed his regret over a comment he made decades ago about Karan Johar’s “feminine mannerisms” during the filming of the television show Indradhanush. Johar had earlier written about the incident in his autobiography An Unsuitable Boy, revealing that the remark deeply affected him and made him decide that he would never act again.",
-    "img": "https://static.toiimg.com/photo/msid-129230402,imgsize-59268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lilliput-regrets-remark-about-karan-johars-feminine-mannerisms-on-indradhanush-sets-i-will-apologise-to-him-if-we-meet/articleshow/129230402.cms",
-    "time": "2026-03-07T18:48:28.000Z"
   },
   {
     "cat": "World",
@@ -423,15 +567,6 @@ const newsData_en = [
     "time": "2026-03-07T17:09:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Last photo with Jeff resurfaces",
-    "desc": "Canadian fitness YouTuber Jeff Nippard announced the sudden passing of his fiancée, Stephanie Buttermore, with whom he had been planning to marry. Their last Valentine's Day photo from February 14, 2026, has resurfaced, showing the couple smiling together. Buttermore was known for her warmth, compassion, and PhD research on ovarian cancer.",
-    "img": "https://static.toiimg.com/photo/msid-129224481,imgsize-81976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jeff-nippards-fiance-stephanie-buttermore-passes-away-couples-last-pic-from-their-valentines-day-post-resurfaces/articleshow/129224363.cms",
-    "time": "2026-03-07T16:30:33.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Government announces standards of green ammonia, green methanol",
     "desc": "The mission was approved by the Union Cabinet on January 4, 2023, with an initial outlay of ₹19,744 crore to make India a global hub for production, utilisation and export of green hydrogen and its derivatives",
@@ -459,15 +594,6 @@ const newsData_en = [
     "time": "2026-03-07T16:00:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyanka recalls re-piercing her belly button in a cab",
-    "desc": "Before winning Miss World 2000 and stepping into global stardom, Priyanka Chopra was a teenager experimenting with her style. The actress recently revealed that her love for her belly button piercing once led her to re-pierce it herself — in the back of a cab.",
-    "img": "https://static.toiimg.com/photo/msid-129221436,imgsize-42624.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-recalls-re-piercing-her-belly-button-in-a-cab-thats-what-we-used-to-do-back-in-the-90s/articleshow/129221436.cms",
-    "time": "2026-03-07T15:23:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "England leave, WI and SA stuck in India; Former captain slams ICC over unequal treatment",
     "desc": "Michael Vaughan has criticized the ICC's unequal treatment of teams exiting the T20 World Cup, highlighting England's swift charter flight home while West Indies and South Africa remain stranded in Kolkata. He argued that a team's influence at the ICC should not dictate their post-elimination travel arrangements, emphasizing fair treatment for all.",
@@ -484,24 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-make-no-apologies-brendon-mccullum-issues-defiant-message-after-englands-semi-final-loss/articleshow/129219775.cms",
     "time": "2026-03-07T14:39:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Forgive me'",
-    "desc": "Rapper Badshah has issued a public apology after an FIR was registered against him over alleged objectionable lyrics and visuals in his recently released Haryanvi song Tateeree. The apology comes even as Haryana Police initiated the process to issue a Look Out Circular (LOC) against the rapper to prevent him from leaving the country.",
-    "img": "https://static.toiimg.com/photo/msid-129219611,imgsize-42588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/badshah-apologises-after-fir-over-tateeree-i-expect-that-you-will-forgive-me-by-considering-me-the-son-of-haryana/articleshow/129219611.cms",
-    "time": "2026-03-07T14:37:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Abhishek got upset when I called Aishwarya 'Aish'",
-    "desc": "Celebrities are often photographed by paparazzi at airports and restaurants in Mumbai, and their reactions to photographers vary widely. While some stars happily pose, others prefer to keep their distance. Now, paparazzo Snehkumar Zala has shared his experiences of interacting with several celebrities, including Abhishek Bachchan, Aishwarya Rai Bachchan, Virat Kohli, Anushka Sharma and Taapsee Pannu.",
-    "img": "https://static.toiimg.com/photo/msid-129219028,imgsize-113908.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-got-upset-when-i-called-aishwarya-rai-bachchan-aish-virat-kohlianushka-sharma-are-friendly-taapsee-pannu-is-rude-says-paparazzo/articleshow/129219028.cms",
-    "time": "2026-03-07T14:23:43.000Z"
   },
   {
     "cat": "Sports",
@@ -522,15 +630,6 @@ const newsData_en = [
     "time": "2026-03-07T13:21:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Celina Jaitly on staying in abusive marriage with Peter Haag",
-    "desc": "Months after filing a case against her husband Peter Haag, Celina Jaitly has once again opened up about the emotional realities of surviving an abusive marriage. The actress recently addressed a question often directed at survivors — “Why didn’t you just leave?” — sharing a deeply personal reflection on social media.",
-    "img": "https://static.toiimg.com/photo/msid-129216278,imgsize-65654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-opens-up-about-staying-in-abusive-marriage-with-peter-haag-abuse-rarely-begins-with-violence-it-begins-with-love/articleshow/129216278.cms",
-    "time": "2026-03-07T13:18:58.000Z"
-  },
-  {
     "cat": "World",
     "title": "Donald Trump vows ‘Iran will be hit very hard’",
     "desc": "Iran is ‘the loser of the Middle East,’ and will be for many decades until they surrender or, more likely, completely collapse! Mr. Trump said after Iranian President ​Masoud Pezeshkian earlier apologised to Iran’s Gulf neighbours",
@@ -547,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/onwards-and-upwards-women-of-tamil-nadu-claim-their-space-in-local-administration/article70715224.ece",
     "time": "2026-03-07T12:58:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Ranveer-DP’s wedding receptions won paps with 5 star meals",
-    "desc": "When reminiscing about the 2018 wedding receptions of Ranveer Singh and Deepika Padukone, many recall the sheer elegance and flawless organization that defined the event. Guests were pampered with mouth-watering cuisine and delightful treats, all wrapped in a comforting atmosphere.",
-    "img": "https://static.toiimg.com/photo/msid-129215275,imgsize-289082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-ranveer-singh-and-deepika-padukones-wedding-receptions-won-paparazzi-with-five-star-meals/articleshow/129215275.cms",
-    "time": "2026-03-07T12:56:17.000Z"
   },
   {
     "cat": "Sports",
@@ -621,15 +711,6 @@ const newsData_en = [
     "time": "2026-03-07T10:09:14.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Give him a break': Ex-India batter urges India to drop Abhishek for final",
-    "desc": "Former India batter Mohammad Kaif proposes a significant change for the T20 World Cup 2026 final. He believes out-of-form opener Abhishek Sharma should be rested for the summit clash against New Zealand. Kaif suggests Rinku Singh as a replacement, highlighting his consistent performances across formats. He also contrasts Sharma's inexperience in ICC events with Sanju Samson's established status.",
-    "img": "https://static.toiimg.com/photo/msid-129207253,imgsize-94334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/give-him-a-break-ex-india-batter-urges-india-to-drop-abhishek-sharma-for-t20-world-cup-final/articleshow/129207319.cms",
-    "time": "2026-03-07T09:41:53.000Z"
-  },
-  {
     "cat": "Business",
     "title": "US-Israel conflict with Iran: Is India exploring alternative energy options amid crisis?",
     "desc": "Amidst Middle East geopolitical tensions, India is bolstering energy security by exploring alternative sources, with Australia and Canada offering additional gas supplies. The nation's diversified import routes, with only 40% of crude passing through the Strait of Hormuz, ensure stable energy availability despite disruptions.",
@@ -637,24 +718,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/us-israel-conflict-with-iran-is-india-exploring-alternative-energy-options-amid-crisis/articleshow/129205999.cms",
     "time": "2026-03-07T09:06:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Middle East tensions force England to move T20 World Cup camp from Abu Dhabi",
-    "desc": "England's women cricketers have shifted their T20 World Cup prep camp to South Africa due to security concerns in Abu Dhabi. Around 30 players will compete in an intra-squad series in Pretoria, split into two teams named after former legends. This move aims to intensify competition for World Cup spots.",
-    "img": "https://static.toiimg.com/photo/msid-129205725,imgsize-65262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/middle-east-tensions-force-england-to-move-t20-world-cup-camp-from-abu-dhabi-to-south-africa/articleshow/129205497.cms",
-    "time": "2026-03-07T09:02:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Surya do what Dhoni, Kohli couldn't? This T20 WC stat vs NZ may worry India",
-    "desc": "India faces New Zealand in the T20 World Cup final, aiming to defend their title and become three-time champions. Despite a previous loss to South Africa, India reached the final after a strong semi-final win. New Zealand, however, holds a perfect 3-0 record against India in T20 World Cups, seeking their maiden title.",
-    "img": "https://static.toiimg.com/photo/msid-129203324,imgsize-51298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/can-suryakumar-yadav-do-what-dhoni-and-kohli-couldnt-this-t20-world-cup-stat-vs-new-zealand-may-worry-india/articleshow/129202749.cms",
-    "time": "2026-03-07T08:29:35.000Z"
   },
   {
     "cat": "Sports",
@@ -702,15 +765,6 @@ const newsData_en = [
     "time": "2026-03-07T05:15:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Gukesh apologises to fans; Indian stars slip in rankings: what’s going wrong?",
-    "desc": "Gukesh Dommaraju’s emotional apology during the Prague Masters highlighted a broader dip in form among India’s top players, including Arjun Erigaisi and Rameshbabu Praggnanandhaa. Experts cite heavy schedules, distractions from fame, repetitive elite events and overreliance on engine preparation as factors. It is also likely that the slump is temporary.",
-    "img": "https://static.toiimg.com/photo/msid-129195286,imgsize-91430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-apologises-to-fans-indian-chess-stars-slip-in-rankings-whats-going-wrong/articleshow/129194262.cms",
-    "time": "2026-03-07T05:00:59.000Z"
-  },
-  {
     "cat": "World",
     "title": "Pakistani man with ties to Iran convicted for plotting to kill U.S. President Trump, other American leaders",
     "desc": "Asif Raza Merchant, 48, was convicted by a federal jury in a Brooklyn court on Friday (March 6) of murder for hire and attempting to commit an act of terrorism transcending national boundaries. Merchant faces up to life in prison.",
@@ -736,15 +790,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indians-been-good-actors-why-us-agreed-to-let-india-resume-buying-russian-oil-temporarily/articleshow/129191721.cms",
     "time": "2026-03-07T03:09:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "From trump card to major concern? Varun Chakravarthy losing grip at the wrong time",
-    "desc": "With 13 wickets to his name, Varun Chakravarthy is currently the joint-leading wicket-taker of the 2026 T20 World Cup. In the first four matches, he picked up nine wickets at an economy rate of 5.17. In the last four games, however, he has leaked runs at 11.63 while picking up just four wickets. The mystery spinner is struggling with his lengths and has been taken to the cleaners, which is not a good sign for India ahead of the final against New Zealand.",
-    "img": "https://static.toiimg.com/photo/msid-129191585,imgsize-172004.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-from-trump-card-to-major-concern-varun-chakravarthy-losing-grip-at-the-wrong-time/articleshow/129191642.cms",
-    "time": "2026-03-07T03:07:00.000Z"
   },
   {
     "cat": "Business",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/hello-bachhon-series-review-viineet-kumar-siinghs-earnesty-gets-diffused-in-tvfs-factory-made-snoozefest/article70711007.ece",
     "time": "2026-03-06T10:14:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "South Korea, U.S. militaries discuss moving Patriot missiles to Iran war, Seoul says",
-    "desc": "Cho Hyun was responding to ‌questions at a Parliamentary hearing following media reports on March 6 that units ‌of the U.S. mobile missile interceptor system ‌had ⁠been moved to the Osan Air ⁠Base in South Korea from other locations in the country",
-    "img": "https://th-i.thgim.com/public/incoming/zekjps/article70710877.ece/alternates/LANDSCAPE_1200/2026-02-03T194028Z_1782577177_RC2IEJAFQU66_RTRMADP_3_USA-SOUTHKOREA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/south-korea-us-militaries-discuss-moving-patriot-missiles-to-iran-war-seoul-says/article70710861.ece",
-    "time": "2026-03-06T09:25:34.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. aims to exhume and identify 88 USS Arizona crew members buried as unknowns after Pearl Harbor",
-    "desc": "The Arizona sank just nine minutes after being bombed, and its 1,177 dead account for nearly half the servicemen killed in the attack. Today the battleship still lies where it hit bottom, with more than 900 sailors and Marines are entombed inside",
-    "img": "https://th-i.thgim.com/public/incoming/4rxgkm/article70711024.ece/alternates/LANDSCAPE_1200/Pacific_War_75_Key_Events_79414.jpg-c7af7.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-aims-to-exhume-and-identify-88-uss-arizona-crew-members-buried-as-unknowns-after-pearl-harbor/article70711019.ece",
-    "time": "2026-03-06T09:02:25.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Singapore announces new committee to strengthen Indian community identity",
-    "desc": "The INEI committee will be chaired by Senior Minister of State for Transport and Law Murali Pillai, as well as Minister of State for Culture, Community and Youth Dinesh Vasu Dash, both of whom are of Indian origin",
-    "img": "https://th-i.thgim.com/public/incoming/tmpr57/article70710886.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__A_view_o_2_1_KFDG65R5.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/singapore-announces-new-committee-to-strengthen-indian-community-identity/article70710772.ece",
-    "time": "2026-03-06T08:07:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Intense Israeli strikes hit Iran, Lebanon as U.S. warns bombardment will 'surge dramatically'",
-    "desc": "Iran launched new retaliatory attacks in West Asia at the end of a full week of bombardment, which U.S. Defence Secretary Pete Hegseth warned was “about to surge dramatically.” ” Israel's military said on March 6 that it had begun “a broad-scale wave of strikes” on Tehran, Iran's capital",
-    "img": "https://th-i.thgim.com/public/incoming/pmav1f/article70710637.ece/alternates/LANDSCAPE_1200/Israel_Iran_War_Grieving_Family_96104.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/israel-iran-war-us-strike-trump-lebanon-uae/article70710497.ece",
-    "time": "2026-03-06T07:05:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Samson among eight nominees for T20WC Player of the Tournament announced by ICC",
-    "desc": "The other nominees are England all-rounder Will Jacks, Pakistan opener Sahibzada Farhan, South Africa's pacer Lungi Ngidi and captain Aiden Markram, New Zealand's all-rounder Rachin Ravindra and batter Tim Seifert, and American bowler Shadley van Schalkwyk.",
-    "img": "https://th-i.thgim.com/public/incoming/9a8pg2/article70710610.ece/alternates/LANDSCAPE_1200/PTI03_05_2026_000740B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/samson-among-eight-nominees-for-t20wc-player-of-the-tournament-announced-by-icc/article70710591.ece",
-    "time": "2026-03-06T06:57:16.000Z"
   }
 ];

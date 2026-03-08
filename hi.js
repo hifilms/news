@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will rain spoil IND vs NZ T20 World Cup 2026 final?",
+    "desc": "The stage is set for the final of the T20 World Cup 2026. India and New Zealand will take on each other at the Narendra Modi Stadium in Ahmedabad on March 8. Both sides have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ahmedabad-weather-report-will-rain-spoil-ind-vs-nz-t20-world-cup-2026-final-2026-03-08-1033012",
+    "time": "2026-03-08T03:50:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head to Head record between India and New Zealand ahead of T20 World Cup final",
+    "desc": "India and New Zealand are all set to take on each other in the summit clash of the ongoing T20 World Cup 2026. The two sides will lock horns at the Narendra Modi Stadium in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-head-to-head-record-between-india-and-new-zealand-ahead-of-t20-world-cup-final-2026-03-08-1033001",
+    "time": "2026-03-08T02:32:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch T20 World Cup 2026 final live on TV and online?",
     "desc": "The stage is set for the summit clash of the ongoing T20 World Cup 2026. The final of the tournament sees India taking on New Zealand at the Narendra Modi Stadium in Ahmedabad on March...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/don-t-mind-not-being-favourites-mitchell-santner-fine-with-new-zealand-being-underdogs-even-in-t20-wc-final-2026-03-07-1032961",
     "time": "2026-03-07T12:07:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Might break a few hearts to lift the trophy’",
-    "desc": "Ahead of the T20 World Cup 2026 final between India and New Zealand, BlackCaps captain Mitchell Santner gave a cheeky reply to a media question that went viral on social media. When asked about winning...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/might-break-a-few-hearts-to-lift-the-trophy-mitchell-santners-cheeky-response-to-world-cup-possibility-2026-03-07-1032942",
-    "time": "2026-03-07T09:35:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England, West Indies, South Africa players to leave India soon after being stranded due to West Asia war",
-    "desc": "The International Cricket Council (ICC) has finally arranged charter flights for England, West Indies and South Africa cricketers to return to their respective countries, after they were stranded post T20 World Cup, due to the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-west-indies-south-africa-to-leave-india-soon-after-being-stranded-due-to-west-asia-war-2026-03-07-1032939",
-    "time": "2026-03-07T08:48:07.000Z"
   }
 ];
