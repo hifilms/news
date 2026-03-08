@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Tribal groups seek Paniya representation in seats reserved for STs in Wayanad",
+    "desc": "In a detailed submission to leaders of UDF and LDF, the organisations urged the nomination of C. Manikandan, an MBA graduate and social activist from the Paniya community, calling his candidature a step towards “reparative social justice” for a marginalised Adivasi group in the State",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/tribal-groups-seek-paniya-representation-in-seats-reserved-for-st-in-wayanad/article70718691.ece",
+    "time": "2026-03-08T18:28:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "A red-letter day for Suryakumar’s Men in Blue",
+    "desc": "Samson continues his merry run with a 46-ball 89; Abhishek and Kishan, too, slam quick-fire fifties to power India to 255 for five; Bumrah proves his class yet again as the Kiwis are shot out for 159",
+    "img": "https://th-i.thgim.com/public/incoming/6dgc9l/article70720001.ece/alternates/LANDSCAPE_1200/DSC_5473.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-final-a-red-letter-day-for-suryakumars-men-in-blue/article70720002.ece",
+    "time": "2026-03-08T18:26:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indian Women's Press Corps reiterates commitment to support safe, equitable spaces in media",
+    "desc": "It further said it was important that people listen to what women have to say in this complex, ever-changing world, adding that they must have a say in agendas that shape the policies, systems and indeed the world",
+    "img": "https://th-i.thgim.com/public/incoming/nzfycp/article70720037.ece/alternates/LANDSCAPE_1200/Indian%20Womens%20Press%20Corps.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/indian-womens-press-corps-reiterates-commitment-to-support-safe-equitable-spaces-in-media/article70719029.ece",
+    "time": "2026-03-08T18:09:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I was broken after the NZ series': Samson wins Player of the Tournament in T20 WC",
+    "desc": "Sanju Samson's stellar performance earned him Player of the Tournament in the T20 World Cup 2026, driving India's victory. Despite starting as a reserve, Samson amassed 321 runs in five matches, including three crucial half-centuries. His record-breaking feats and inspiring journey, including guidance from Sachin Tendulkar, highlight a career-defining tournament.",
+    "img": "https://static.toiimg.com/photo/msid-129283187,imgsize-98124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-was-broken-after-the-nz-series-sanju-samson-wins-player-of-the-tournament-after-historic-t20-world-cup-run/articleshow/129283232.cms",
+    "time": "2026-03-08T18:02:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt stresses stronger safety culture in power sector on Lineman Diwas",
+    "desc": "Lineman Diwas was celebrated in Delhi to honor the dedication of linemen and ground staff. Around 250 participants attended the event. A safety pledge was administered. Ministers and officials acknowledged their vital role in maintaining uninterrupted power supply. Modern technologies and safety practices were discussed. Awards were given to high-performing discoms and linemen.",
+    "img": "https://static.toiimg.com/photo/msid-129283610,imgsize-33666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-stresses-stronger-safety-culture-in-power-sector-on-lineman-diwas/articleshow/129280538.cms",
+    "time": "2026-03-08T17:59:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celebs react to India winning T20 World Cup",
+    "desc": "India has clinched the ICC T20 World Cup title, defeating New Zealand by 96 runs in a dominant performance at Ahmedabad. This historic victory marks India's third T20 World Cup crown and their first successful title defense. Celebrations erupted across the nation, with Prime Minister Narendra Modi and Bollywood star Akshay Kumar among those congratulating the triumphant team.",
+    "img": "https://static.toiimg.com/photo/msid-129282791,imgsize-82668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pm-narendra-modi-akshay-kumar-ajay-devgn-mahesh-babu-sachin-tendulkar-celebs-react-to-india-winning-the-icc-t20-world-cup/articleshow/129281930.cms",
+    "time": "2026-03-08T17:41:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Each One Teach One’ model launched in Mandya to improve SSLC results",
+    "desc": "ZP CEO Nandini K.R. said while about 68% students had passed in Preparatory Examination-1, the pass percentage increased to 86 per cent in Preparatory Examination-3. Officials asked to further improve the results to reach 95 per cent",
+    "img": "https://th-i.thgim.com/public/incoming/epgtvv/article70719582.ece/alternates/LANDSCAPE_1200/2303_25_3_2024_18_56_33_1_SSLCEXAM.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/each-one-teach-one-model-launched-in-mandya-to-improve-sslc-results/article70719495.ece",
+    "time": "2026-03-08T17:38:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India bury ghost of November 19; pummel New Zealand by 96 runs",
+    "desc": "Sanju Samson, Abhishek Sharma and Ishan Kishan scored blistering fifties to power India to 255 for 5 against New Zealand in the T20 World Cup final in Ahmedabad. Indian bowlers led by Jasprit Bumrah and some exceptional catching by Ishan Kishan in the outfield helped India register a 96-run win and they became only the first team to win back-to-back T20 World Cups.",
+    "img": "https://static.toiimg.com/photo/msid-129280605,imgsize-80372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-final-india-bury-ghost-of-november-19-pummel-new-zealand-by-96-runs/articleshow/129280696.cms",
+    "time": "2026-03-08T17:22:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How much did India win? Full T20 World Cup 2026 prize money revealed",
+    "desc": "India clinched the ICC Men's T20 World Cup 2026 title, defeating New Zealand in a thrilling final in Ahmedabad. The victorious Indian team secured a substantial $3 million prize money. Sanju Samson's explosive 89 and Jasprit Bumrah's stellar bowling performance were instrumental in India's dominant victory, capping off a financially rewarding tournament for the champions.",
+    "img": "https://static.toiimg.com/photo/msid-129280891,imgsize-155062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/how-much-did-india-win-full-t20-world-cup-2026-prize-money-revealed/articleshow/129280930.cms",
+    "time": "2026-03-08T17:17:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata should resign over protocol breach at President Murmu’s Darjeeling event: BJP",
+    "desc": "PM Modi had insulted the President by remaining seated with veteran BJP leader L.K. Advani while President Murmu stood next to them, says the West Bengal CM, holding a dharna against the SIR in Kolkata",
+    "img": "https://th-i.thgim.com/public/incoming/8dqp5e/article70719818.ece/alternates/LANDSCAPE_1200/20260308254L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/mamata-should-resign-over-protocol-breach-at-president-murmus-darjeeling-event-bjp/article70719436.ece",
+    "time": "2026-03-08T17:11:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Why did the U.S. Supreme Court reject Trump’s tariffs?",
+    "desc": "What authority did the Trump administration rely on to impose tariffs? Can Trump still impose tariffs after the ruling? What role does Congress play in tariff powers? Will businesses receive refunds for the tariffs they paid? Does the ruling limit future Presidents’ trade powers?",
+    "img": "https://th-i.thgim.com/public/news/national/ct4ukf/article70719844.ece/alternates/LANDSCAPE_1200/iStock-2173828142.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/why-did-the-us-supreme-court-reject-trumps-tariffs-explained/article70718799.ece",
+    "time": "2026-03-08T17:07:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Last leg of Western Freight Corridor likely to be operational by month end",
+    "desc": "The entire 1,506-km Western Dedicated Freight Corridor will soon be operational as its final 102-km stretch nears completion. This, along with the already functional Eastern Dedicated Freight Corridor, significantly boosts freight train speeds. Railways is now planning a new 2,150-km corridor connecting Dankuni to Surat, designed for faster, high-capacity bulk transport.",
+    "img": "https://static.toiimg.com/photo/msid-129280630,imgsize-163888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/last-leg-of-western-freight-corridor-likely-to-be-operational-by-month-end/articleshow/129280630.cms",
+    "time": "2026-03-08T16:54:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harrison Ford and Calista Flockhart’s combined net worth in 2026",
+    "desc": "Celebrated for their enduring romance in Tinseltown, Harrison Ford and Calista Flockhart recently shone at the Actor Awards. With a remarkable 22-year age gap, their connection remains unbreakable. Together, they boast a staggering net worth of USD 330 million, showcasing not just their talent but also their legendary status in the film industry.",
+    "img": "https://static.toiimg.com/photo/msid-129260563,imgsize-98460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harrison-ford-and-calista-flockharts-combined-net-worth-in-2026-inside-the-couples-usd-330-million-fortune/articleshow/129260563.cms",
+    "time": "2026-03-08T16:33:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jal Mahotsav kicks off in Lucknow’s Gosainganj, to cover 22,000 villages across UP",
+    "desc": "Uttar Pradesh's State Drinking Water and Sanitation Mission has initiated a 15-day Jal Mahotsav. This program aims to transfer water supply management to village councils in areas achieving full piped water access. The initiative spans over 22,000 villages until March 22. Local leaders are being recognized for their contributions.",
+    "img": "https://static.toiimg.com/photo/msid-129279262,imgsize-1071918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jal-mahotsav-kicks-off-in-lucknows-gosainganj-to-cover-22000-villages-across-up/articleshow/129279261.cms",
+    "time": "2026-03-08T16:19:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What is the highest successful run chase in T20 World Cup final history?",
+    "desc": "India posted a record 255/5 in the T20 World Cup final against New Zealand, thanks to stellar knocks from Sanju Samson (89), Abhishek Sharma (52), and Ishan Kishan (54). This massive total sets a daunting target of 256 for the Blackcaps, who are now chasing the highest successful chase in the competition's history.",
+    "img": "https://static.toiimg.com/photo/msid-129278959,imgsize-39730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-nz-india-post-255-in-first-innings-what-is-the-highest-successful-run-chase-in-t20-world-cup-final-history/articleshow/129278774.cms",
+    "time": "2026-03-08T16:17:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Trisha Krishnan hits back on crude comments about her viral PIC",
+    "desc": "Actress Trisha Krishnan has responded to filmmaker R. Parthiban's recent remarks, which were made following her appearance with actor-politician Vijay at a reception. Trisha, without naming anyone, criticized the \"stupidity\" and \"crude words\" used, stating a microphone amplifies ignorance. Parthiban had made comments referencing her role as Kundavai, suggesting she \"should be kept at home.\"",
+    "img": "https://static.toiimg.com/photo/msid-129278349,imgsize-40090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/trisha-krishnan-hits-back-at-crude-comments-after-r-parthiban-takes-a-dig-at-her-post-her-video-with-vijay-from-a-wedding-went-viral-it-makes-stupidity-/articleshow/129278241.cms",
+    "time": "2026-03-08T15:58:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India taps alternative crude supplies as Iran conflict drags on",
+    "desc": "Indian refiners have begun negotiating for additional crude cargoes from the U.S., Russia and West Africa to ensure supplies remain adequate; refineries, which convert crude oil into fuels like petrol and diesel, have deferred planned maintenance shutdowns and are maintaining normal processing rates to create buffers",
+    "img": "https://th-i.thgim.com/public/incoming/m40cpr/article70719709.ece/alternates/LANDSCAPE_1200/IMG_crude_2_1_25FMCJ9J.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/india-taps-alternative-crude-supplies-as-iran-conflict-drags-on/article70719120.ece",
+    "time": "2026-03-08T15:56:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Passenger on Delhi-Goa flight booked for smoking mid-air",
+    "desc": "A passenger was booked after allegedly smoking a beedi in a Delhi-Goa Akasa Air flight lavatory on Saturday. Authorities discovered the man, identified as Ashish from Delhi, with a lighter, posing a significant safety risk to the aircraft and its occupants. A case has been registered under relevant aviation safety laws, with further investigation ongoing.",
+    "img": "https://static.toiimg.com/photo/msid-129277668,imgsize-335141.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/beedi-in-the-loo-passenger-on-delhi-goa-flight-booked-for-smoking-mid-air/articleshow/129277648.cms",
+    "time": "2026-03-08T15:40:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Quantum leap for tribal girl students in NPTEL exam",
+    "desc": "57 students, mostly girls from a remote Government Degree College in Chintapalli, appear for the quantum computing examination in Visakhapatnam after the Principal pays the ₹500 fee for those who could not afford it on International Women’s Day",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/quantum-leap-for-tribal-girl-students-in-nptel-exam/article70719562.ece",
+    "time": "2026-03-08T15:39:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Record alert in final! India rewrite T20 World Cup history vs New Zealand",
+    "desc": "India shattered T20 World Cup final records, posting a colossal 255/5 against New Zealand. Sanju Samson led the charge with a blistering 89, the highest individual score in a final. An explosive batting display, including a 98-run opening stand, ensured a commanding total, underlining India's dominance in the shortest format.",
+    "img": "https://static.toiimg.com/photo/msid-129277229,imgsize-122022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/record-alert-in-final-india-rewrite-t20-world-cup-history-vs-new-zealand/articleshow/129277293.cms",
+    "time": "2026-03-08T15:31:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Trump has caught hold of Modi’s nose’: Kharge slams PM over US ties and Middle East crisis",
+    "desc": "Congress chief Mallikarjun Kharge fiercely criticized Prime Minister Modi, calling him a \"slave\" to US President Trump. Kharge alleged Modi's foreign policy compromises India's interests, citing trade issues and the Middle East crisis. He questioned Modi's silence on perceived US injustices and accused the government of neglecting governance for election campaigning.",
+    "img": "https://static.toiimg.com/photo/msid-129276669,imgsize-40046.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/trump-has-caught-hold-of-modis-nose-kharge-slams-pm-over-us-ties-and-middle-east-crisis/articleshow/129276491.cms",
+    "time": "2026-03-08T15:30:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka notifies reservation for 369 wards of new Bengaluru corporations, questions persist over quotas",
+    "desc": "However, the final notification is likely to be challenged in the court, as the Urban Development Department has not changed the percentage in either vertical reservation or the women quota, despite the draft notification drawing widespread criticism over the same.",
+    "img": "https://th-i.thgim.com/public/incoming/nru80p/article70719627.ece/alternates/LANDSCAPE_1200/IMG_0038.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/karnataka-notifies-reservation-for-369-wards-of-new-bengaluru-corporations-questions-persist-over-quotas/article70718764.ece",
+    "time": "2026-03-08T15:26:51.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Singham nothing without his shernis,' says Ajay's post on Women's day",
     "desc": "Ajay Devgn celebrated International Women's Day by honoring the \"shernis\" in his life, including wife Kajol and daughter Nysa, sharing heartwarming family photos. He also recently wished his mother a happy birthday, acknowledging her profound influence. Devgn is currently gearing up for the release of the comedy \"Dhamaal 4,\" slated for a July 3rd theatrical debut.",
@@ -61,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-abhishek-bachchan-dance-with-nita-ambani-pose-with-orry-aaradhya-bachchan-stuns-in-a-manish-malhotra-outfit-video/articleshow/129273250.cms",
     "time": "2026-03-08T14:01:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tribal groups seek Paniya representation in seats reserved for ST in Wayanad",
-    "desc": "In a detailed submission to leaders of UDF and LDF, the organisations urged the nomination of C. Manikandan, an MBA graduate and social activist from the Paniya community, calling his candidature a step towards “reparative social justice” for a marginalised Adivasi group in the State",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/tribal-groups-seek-paniya-representation-in-seats-reserved-for-st-in-wayanad/article70718691.ece",
-    "time": "2026-03-08T14:01:28.000Z"
   },
   {
     "cat": "Politics",
@@ -142,24 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/badshah-hoga-apne-ghar-ka-fresh-summons-issued-agaisnt-the-rapper-singer-by-haryana-state-commission-for-women/articleshow/129270784.cms",
     "time": "2026-03-08T12:51:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Second part of Budget Session all set for stormy start",
-    "desc": "The Opposition, which will be meeting on March 9 for a strategy session at Mallikarjun Kharge’s office, is hoping to press its point, at least in public discourse, as the numbers show that the motion will be defeated",
-    "img": "https://th-i.thgim.com/public/incoming/ybvjra/article70718750.ece/alternates/LANDSCAPE_1200/PTI02_13_2026_000051B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/second-part-of-budget-session-all-set-for-stormy-start/article70718707.ece",
-    "time": "2026-03-08T12:47:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SUV catches fire after hit-and-run accident in Bengaluru; woman injured",
-    "desc": "After the collision, the SUV driver allegedly continued to drive, dragging the motorcycle along the road. During the process, petrol leaked from the bike and the friction is suspected to have triggered a fire in the car.",
-    "img": "https://th-i.thgim.com/public/incoming/jjiqgp/article70718930.ece/alternates/LANDSCAPE_1200/iStock-899711132.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/suv-catches-fire-after-hit-and-run-accident-in-bengaluru-woman-injured/article70718798.ece",
-    "time": "2026-03-08T12:42:07.000Z"
   },
   {
     "cat": "World",
@@ -288,15 +459,6 @@ const newsData_en = [
     "time": "2026-03-08T10:30:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Long live Test cricket': Alyssa Healy bids farewell",
-    "desc": "Alyssa Healy signed off from international cricket with a memorable victory as Australia women's national cricket team beat India women's national cricket team by 10 wickets in a one-off Test at WACA Ground on Sunday. Annabel Sutherland starred with a century and six wickets as Australia comfortably chased a 25-run target.",
-    "img": "https://static.toiimg.com/photo/msid-129264917,imgsize-175392.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/long-live-test-cricket-alyssa-healy-bids-farewell-with-australias-10-wicket-win-over-india/articleshow/129264819.cms",
-    "time": "2026-03-08T10:28:56.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India diversifies oil basket as Middle East conflict drags on",
     "desc": "Amidst escalating Middle East tensions, India is rerouting crude oil supplies to secure uninterrupted fuel imports. Refiners are increasing sourcing from the US, West Africa, and Russia, while holding planned maintenance to build reserves. This diversification aims to mitigate risks associated with the Strait of Hormuz, ensuring domestic fuel needs are met despite potential cost increases.",
@@ -331,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/conscious-decision-ex-bengal-governor-says-reasons-for-resignation-will-remain-confidential-till-right-time/articleshow/129261531.cms",
     "time": "2026-03-08T09:49:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India women back men's team ahead of T20 WC final",
-    "desc": "Members of the India women's team and head coach Amol Muzumdar have sent their best wishes to the men's team ahead of the ICC Men's T20 World Cup final. Following their own recent World Cup victory, the women's team expressed their support through a video, encouraging the men to bring the trophy home.",
-    "img": "https://static.toiimg.com/photo/msid-129263293,imgsize-36472.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/from-one-world-cup-winner-to-another-india-women-back-mens-team-ahead-of-t20-world-cup-final/articleshow/129262521.cms",
-    "time": "2026-03-08T09:46:10.000Z"
   },
   {
     "cat": "Business",
@@ -423,15 +576,6 @@ const newsData_en = [
     "time": "2026-03-08T08:26:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Top songs",
-    "desc": "Global music icon Ricky Martin is set to headline the ICC Men's T20 World Cup 2026 closing ceremony in Ahmedabad, alongside Indian stars Falguni Pathak and Sukhbir Singh. This performance celebrates his enduring legacy, marked by chart-topping hits like 'Livin' La Vida Loca' and 'María', which revolutionized Latin pop and continue to energize audiences worldwide.",
-    "img": "https://static.toiimg.com/photo/msid-129260274,imgsize-80820.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/top-ricky-martin-songs-to-listen-to-before-his-t20-world-cup-2026-performance/articleshow/129260222.cms",
-    "time": "2026-03-08T08:25:34.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Nitish Kumar's son Nishant enters politics, joins JD(U)",
     "desc": "Bihar Chief Minister Nitish Kumar's son, Nishant Kumar, has formally joined the JD(U). This development follows Nitish Kumar's decision to step down as CM, sparking speculation about his successor and potentially ushering in a new political era in Bihar. Nitish Kumar himself announced his intention to contest the Rajya Sabha elections.",
@@ -439,24 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/nitish-kumars-son-nishant-enters-politics-joins-jdu/articleshow/129259977.cms",
     "time": "2026-03-08T08:16:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka Chopra opens up about Indian history and mythology",
-    "desc": "Priyanka Chopra Jonas recently shared her insights on Indian history, the Vedas, and mythology during a podcast. She highlighted India's history of being invaded but never invading others, and discussed ancient scriptures mentioning advanced technologies like 'flying machines.' Chopra also touched upon Hindu mythology's themes of divine and human coexistence.",
-    "img": "https://static.toiimg.com/photo/msid-129259690,imgsize-180654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/flying-objects-spears-with-energy-varanasi-star-priyanka-chopra-delves-into-indian-history-vedas-and-mythology/articleshow/129259690.cms",
-    "time": "2026-03-08T08:12:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Force 3' goes on floors in Gujarat",
-    "desc": "The highly anticipated action flick 'Force 3' has officially commenced shooting in Gujarat, with Harshvardhan Rane and Tanya Maniktala leading the initial scenes. While John Abraham was present for the mahurat, his filming is slated to begin soon. This installment marks a reunion for Rane and Abraham, who share a mentor-mentee relationship.",
-    "img": "https://static.toiimg.com/photo/msid-129259028,imgsize-52920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/force-3-goes-on-floors-in-gujarat-harshvardhan-rane-begins-shoot-with-tanya-maniktala-john-abraham-joins-mahurat-ceremony/articleshow/129258899.cms",
-    "time": "2026-03-08T07:51:38.000Z"
   },
   {
     "cat": "Politics",
@@ -477,15 +603,6 @@ const newsData_en = [
     "time": "2026-03-08T06:06:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Pillars of progressive nation': President Murmu, PM Modi hail 'nari shakti' on International Women's Day",
-    "desc": "Prime Minister Narendra Modi and President Droupadi Murmu extended heartfelt greetings on International Women's Day, celebrating 'Nari Shakti's' pivotal role in India's progress. Both leaders lauded women's determination, creativity, and zeal, emphasizing their empowerment as central to national development and the creation of an inclusive, prosperous society where every woman can achieve her full potential.",
-    "img": "https://static.toiimg.com/photo/msid-129253896,imgsize-1058028.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pillars-of-progressive-nation-president-murmu-pm-modi-hail-nari-shakti-on-international-womens-day/articleshow/129253526.cms",
-    "time": "2026-03-08T05:50:43.000Z"
-  },
-  {
     "cat": "Business",
     "title": "‘Oil imports in full flow’: Hardeep Puri assures imports from non-Hormuz routes",
     "desc": "India's oil imports are flowing smoothly through alternative routes, assuring citizens of uninterrupted energy supplies amid Middle East conflict. Minister Hardeep Singh Puri confirmed \"full flow from all non-Hormuz routes,\" alleviating concerns about availability, affordability, and sustainability. Qatar has also assured immediate resumption of LNG supplies once the shipping route reopens.",
@@ -493,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/oil-imports-in-full-flow-from-non-hormuz-routes-hardeep-singh-puris-message-as-middle-east-tensions-roil-energy-markets/articleshow/129249553.cms",
     "time": "2026-03-08T04:36:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "President Murmu unhappy over venue change, PM Modi calls it an 'insult'; Mamata hits back — what triggered Santal conference row",
-    "desc": "A political storm erupted after West Bengal's last-minute venue change for the International Santhal Conclave, drawing public displeasure from President Murmu. She questioned the reasoning and highlighted the community's struggle for recognition, sparking a fierce exchange between the TMC and BJP over alleged politicization of tribal issues and disrespect to the President's office.",
-    "img": "https://static.toiimg.com/photo/msid-129250795,imgsize-1272491.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/president-murmu-unhappy-over-venue-change-pm-modi-calls-it-an-insult-mamata-hits-back-what-triggered-santal-conference-row/articleshow/129249832.cms",
-    "time": "2026-03-08T04:27:27.000Z"
   },
   {
     "cat": "Business",
@@ -531,24 +639,6 @@ const newsData_en = [
     "time": "2026-03-08T03:13:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Perennial dark horses, really? Why world cricket keeps forgetting New Zealand’s World Cup pedigree",
-    "desc": "Nine ODI World Cup semi-finals. Two finals. Five T20 World Cup semi-finals and now a second final on Sunday. New Zealand’s record in big-ticket tournaments is anything but accidental, yet they continue to be casually described as cricket’s perennial dark horses.",
-    "img": "https://static.toiimg.com/photo/msid-129247894,imgsize-84154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/perennial-dark-horses-really-why-world-cricket-keeps-forgetting-new-zealands-world-cup-pedigree/articleshow/129247894.cms",
-    "time": "2026-03-08T02:57:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Bat at No.1' instruction, MLC carnage and making of Kiwi destroyer",
-    "desc": "Finn Allen transformed from a middle-order batter into New Zealand’s explosive T20 opener after Wellington coach Glenn Pocknall promoted him to open in 2020. Recognising his power and attacking potential, Pocknall nurtured Allen’s aggressive style through challenging training. Allen later proved the decision right with record-breaking performances, including a 33-ball T20 World Cup century and a 151-run MLC blitz.",
-    "img": "https://static.toiimg.com/photo/msid-129247771,imgsize-37618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/finn-allen-bat-at-no-1-instruction-mlc-carnage-and-the-making-of-new-zealands-t20-destroyer-exclusive/articleshow/129247759.cms",
-    "time": "2026-03-08T02:48:51.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why does the Strait of Hormuz’s closure matter?",
     "desc": "Where is the Strait of Hormuz and what is its significance? Why have tensions in West Asia affected this passage? What does Iran have to do with the near-complete closure of the strait? How does the situation affect India and what is the government doing about it?",
@@ -556,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/why-does-the-strait-of-hormuzs-closure-matter/article70717010.ece",
     "time": "2026-03-08T02:00:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How Army trailblazers inspired generations of women officers",
-    "desc": "Two women, Lt Col Randhawa (retd) and Major Jhingan (retd), shattered military barriers. Randhawa became India's first war widow officer after her husband's sacrifice, while Jhingan was Lady Cadet 001, paving the way for women in the armed forces. Their journeys inspire countless others to serve the nation.",
-    "img": "https://static.toiimg.com/photo/msid-129245160,imgsize-56786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/how-army-trailblazers-inspired-generations-of-women-officers/articleshow/129245030.cms",
-    "time": "2026-03-08T01:20:22.000Z"
   },
   {
     "cat": "Business",
@@ -711,15 +792,6 @@ const newsData_en = [
     "time": "2026-03-07T01:39:24.000Z"
   },
   {
-    "cat": "World",
-    "title": "Israel-Iran war updates",
-    "desc": "Iranian Ship IRIS Lavan, crew, docked at Kochi days before IRIS Dena incident, says government sources; two days ago, Iranian warship IRIS Dena, returning from International Fleet Review in Visakhapatnam, was torpedoed by a U.S. submarine off Sri Lanka’s coast, killing 83 people",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-conflict-west-asia-march-6-2026/article70709958.ece",
-    "time": "2026-03-07T01:08:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "what worked in Ranji — and will it in Tests?",
     "desc": "The 29-year-old seam-and-swing bowler was irresistible in Jammu & Kashmir’s maiden triumph in India’s premier domestic cricket tournament. There is a growing clamour for him to be included in the national team. Are his methods robust enough to hold up at the highest level? And does he have the temperament to handle the pressure of top-flight competition?",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/us-house-committee-wants-travel-companies-to-answer-questions-on-use-of-ai-for-pricing/article70710041.ece",
     "time": "2026-03-06T06:03:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump takes forceful steps to pressure Latin American leaders to reduce China ties",
-    "desc": "Under pressure from President Donald Trump, who had threatened to take the Panama Canal back under U.S. control, the Panamanian government seized two ports at either end of the canal that had been run by a Hong Kong company",
-    "img": "https://th-i.thgim.com/public/incoming/ybn1k1/article70710293.ece/alternates/LANDSCAPE_1200/Trump_10582.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-takes-forceful-steps-to-pressure-latin-american-leaders-to-reduce-china-ties/article70710237.ece",
-    "time": "2026-03-06T05:22:17.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Bangladesh faces steep rise in LNG prices after Qatar supply halt",
-    "desc": "One shipment from Gunvor will cost $28.28 per million British thermal ‌units (mmBtu) and is expected to arrive ‌on ⁠March 15–16, while another from Vitol, priced ⁠at $23.08 per mmBtu, is due on for March 18-19, a senior Petrobangla official said.",
-    "img": "https://th-i.thgim.com/public/incoming/lry4p/article70710089.ece/alternates/LANDSCAPE_1200/iStock-1874014426.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/bangladesh-faces-steep-rise-in-lng-prices-after-qatar-supply-halt/article70710084.ece",
-    "time": "2026-03-06T03:36:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India survives Bethell blitz, scrapes into the final",
-    "desc": "Samson’s 42-ball 89 and cameos by Kishan and Dube power the Men in Blue to 253 for seven; the English left-hander almost pulls off a heist before Bumrah’s mastery wins it for the home team",
-    "img": "https://th-i.thgim.com/public/incoming/ptu84k/article70708794.ece/alternates/LANDSCAPE_1200/11908_5_3_2026_22_57_30_2_DSC_3770.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-team-india-survives-bethell-scare-enters-the-final/article70708797.ece",
-    "time": "2026-03-06T00:56:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Daren Sammy pleads for exit as West Indies remain stranded in India",
-    "desc": "The West Indies, who were knocked out of the T20 World Cup after losing to India in the Super Eight stage on March 1, have been unable to fly back home as flight operations through parts of the Gulf region remain disrupted",
-    "img": "https://th-i.thgim.com/public/incoming/w33pp0/article70707185.ece/alternates/LANDSCAPE_1200/2026-03-01T132146Z_2043126464_UP1EM311149D6_RTRMADP_3_CRICKET-T20-WORLDCUP-IND-WIN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/i-just-wanna-go-home-daren-sammy-pleads-for-exit-as-west-indies-remain-stranded-in-india/article70707176.ece",
-    "time": "2026-03-05T12:19:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Thavil artiste Amirthavarshini: Performing with A.R. Rahman was a wonderful experience",
-    "desc": "From playing the thavil in the temples of Mannargudi near Thanjavur as a schoolgirl to joining A.R. Rahman’s ‘Wonderment Tour’ concert in Chennai recently, Amirthavarshini Manishankar’s musical journey seems like a fairy tale. But in reality, it is also a story of conviction and perseverance — of a young girl carving a space for herself as a thavil artiste in the male‑dominated world of Carnatic percussion.",
-    "img": "https://th-i.thgim.com/public/incoming/42r6ll/article70706717.ece/alternates/LANDSCAPE_1200/amirthavarshini.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-thavil-artiste-amirthavarshini-performing-with-ar-rahman-was-a-wonderful-experience/article70706716.ece",
-    "time": "2026-03-05T09:37:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Lanterns’ teaser: Kyle Chandler and Aaron Pierre’s tense partnership to steer upcoming DC series",
-    "desc": "HBO has unveiled the first teaser for Lanterns, offering a glimpse of Kyle Chandler’s veteran Hal Jordan and Aaron Pierre’s rookie John Stewart as the two Green Lanterns investigate a mysterious murder on Earth while clashing over authority and experience",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/2rggar/article70706164.ece/alternates/LANDSCAPE_1200/MV5BMWM1Mzk0MTgtNGNlNC00MDZiLWIyMDQtZDgxY2Y5NTlmMWQzXkEyXkFqcGc._V1_.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/lanterns-teaser-kyle-chandler-and-aaron-pierres-tense-partnership-to-steer-upcoming-dc-series/article70706165.ece",
-    "time": "2026-03-05T06:05:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "History-chasing India, England on collision course at iconic Wankhede",
-    "desc": "There hasn’t been one standout performer, but Suryakumar & Co. have been able to eke out contributions from different personnel at key moments; Brook’s men have had a grand campaign after an early loss to West Indies and the shift back from slightly tricky tracks in Sri Lanka to a potentially excellent one for batting isn’t the most demanding",
-    "img": "https://th-i.thgim.com/public/sport/x8mt9v/article70704776.ece/alternates/LANDSCAPE_1200/INDIA%20E.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/history-chasing-india-england-on-collision-course-at-iconicwankhede/article70704768.ece",
-    "time": "2026-03-04T18:52:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Gavaskar: Sanju Samson’s innings was one of the finest T20 knocks we have seen",
-    "desc": "Former Indian batting legend Sunil Gavaskar looks ahead to the semifinal between India and England at the ICC T20 World Cup, his thoughts on Sanju Samson’s matchwinning innings against West Indies, and why Jasprit Bumrah is so difficult to face.",
-    "img": "https://th-i.thgim.com/public/incoming/m26qyk/article70703762.ece/alternates/LANDSCAPE_1200/gavaskar.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-sunil-gavaskar-sanju-samsons-innings-was-one-of-the-finest-t20-knocks-we-have-seen/article70703763.ece",
-    "time": "2026-03-04T13:41:06.000Z"
   }
 ];

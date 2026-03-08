@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "નરેન્દ્ર મોદી સ્ટેડિયમમાં રચાયો ઇતિહાસ, આખું ગુજરાત વિજયોત્સવમાં ડૂબ્યું! લોકો રસ્તા ઉપર ઉતર્યા",
+    "desc": "અમદાવાદ, વડોદરા અને રાજકોટ સહિતના મહાનગરોમાં ક્રિકેટરસિકોમાં ભારે ઉત્સાહ જોવા મળ્યો હતો. અમદાવાદના સિંધુભવન રોડ, શાસ્ત્રીનગર સહિતના વિસ્તારોમાં લોકો હાથમાં ત્રિરંગા સાથે પોતાના વાહનો પર નીકળી પડ્યા હતા અને ઇન્ડિયા ઇન્ડિયાના નારા લગાવતા જોવા મળ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/history-was-made-at-narendra-modi-stadium-the-whole-of-gujarat-was-immersed-in-victory-celebrations-people-took-to-the-streets-467772 ",
+    "time": "2026-03-08T18:26:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ગુજરાતની ત્રિપુટીએ ન્યૂઝીલેન્ડને પાડ્યું ઘૂંટણિયે, બુમરાહ-અક્ષર-હાર્દિક જીતના હિરો!",
+    "desc": "ભારતીય ક્રિકેટ ટીમે ફરી એકવાર વિશ્વ મંચ પર પોતાનો દબદબો સાબિત કર્યો છે. T20 વર્લ્ડકપની રસાકસીભરી ફાઈનલમાં ભારતે ન્યૂઝીલેન્ડને કારમી હાર આપીને ટ્રોફી પોતાના નામે કરી લીધી છે. આ જીતમાં સૌથી મહત્વની ભૂમિકા ગુજરાતના સપૂતોએ ભજવી હતી, જેમણે પોતાની ઘાતક બોલિંગથી કિવી બેટ્સમેનોની કમર તોડી નાખી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-indias-grand-victory-against-new-zealand-gujarat-players-entered-the-field-467769 ",
+    "time": "2026-03-08T17:54:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વર્લ્ડ કપ ફાઈનલમાં પિચ પર ગરમાગરમી: અર્શદીપે બોલ ફેંક્યો તો બેટ લઈને પાછળ દોડ્યો મિચેલ, VIDEO વાયરલ",
+    "desc": "T20 વર્લ્ડ કપ 2026ની ફાઈનલમાં ભારત અને ન્યુઝીલેન્ડ વચ્ચે રમાયેલી મેચ દરમિયાન અર્શદીપ સિંહ અને ડેરીલ મિચેલ વચ્ચે તીખી બોલાચાલી થઈ હતી. અર્શદીપે મિચેલ તરફ બોલ ફેંકતા મામલો બિચક્યો હતો. જોકે, અમ્પાયર અને કેપ્ટન સૂર્યકુમાર યાદવે વચ્ચે પડીને મામલો શાંત પાડ્યો હતો. ત્યારબાદ અક્ષર પટેલે મિચેલને આઉટ કરીને પેવેલિયન ભેગો કર્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/world-cup-final-saw-heated-exchanges-with-arshdeep-bowling-and-mitchell-running-after-the-bowler-with-his-bat-video-467767 ",
+    "time": "2026-03-08T17:38:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ટી20 વર્લ્ડ કપમાં ભારતનો ઐતિહાસિક વિજય: રચાયા 3 નવા મોટા રેકોર્ડ્સ",
+    "desc": "ભારત હવે વિશ્વની પ્રથમ એવી ટીમ બની ગઈ છે જેણે ત્રણ વખત ટી20 વર્લ્ડ કપનો ખિતાબ જીત્યો હોય. આ પહેલા કોઈ પણ ટીમ ત્રણ વાર ચેમ્પિયન બની શકી નહોતી, જે દર્શાવે છે કે આ ફોર્મેટમાં ભારતનું પ્રદર્શન કેટલું સાતત્યપૂર્ણ રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-t20-world-cup-indias-historic-victory-in-the-t20-world-cup-3-new-big-records-created-467766 ",
+    "time": "2026-03-08T17:25:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "સંજુ સેમસને વર્લ્ડ કપમાં ફટકારી ફિફ્ટીની હેટ્રિક, કોહલી-આફ્રિદીનો તોડ્યો રેકોર્ડ; રચ્યો દુર્લભ રેકોર્ડ",
+    "desc": "T20 વર્લ્ડ કપ 2026માં સંજુ સેમસનનું તોફાન જોવા મળ્યું છે. અમદાવાદમાં રમાયેલી ફાઈનલ મેચમાં સંજુએ ફિફ્ટી ફટકારીને દિગ્ગજોની યાદીમાં પોતાનું નામ નોંધાવી દીધું છે. બીજી તરફ અભિષેકે પણ પોતાના નામે એક ખાસ રેકોર્ડ બનાવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-final-sanju-samson-scores-a-hat-trick-of-fifties-in-the-world-cup-breaking-kohli-afridi-record-467747 ",
+    "time": "2026-03-08T15:31:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "મોટી જાહેરાત: આ દિવસથી શરૂ થશે IPL 2026નો જંગ, ફેન્સ માટે આવ્યા ખુશીના સમાચાર",
     "desc": "ઇન્ડિયન પ્રીમિયર લીગ 2026 માટે ચાહકોમાં ભારે ઉત્સાહ જોવા મળી રહ્યો છે. ટી20 વર્લ્ડ કપ બાદ હવે દરેકનું ધ્યાન આ ટૂર્નામેન્ટ પર કેન્દ્રિત થશે. ટીમોએ પોતપોતાના ટ્રેનિંગ કેમ્પ પણ શરૂ કરી દીધા છે. ઘણા લોકોના મનમાં ટૂર્નામેન્ટની શરૂઆતની તારીખને લઈને પ્રશ્નો હતા, જેનો હવે અંત આવ્યો છે. સત્તાવાર રીતે IPL 2026ની શરૂઆતની તારીખ જાહેર કરવામાં આવી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -108,24 +153,6 @@ const newsData_gu = [
     "time": "2026-03-08T08:15:57.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "કોણ જીતશે વર્લ્ડ કપ",
-    "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે T20 વર્લ્ડ કપ 2026ની ફાઇનલ મેચ આજે અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં રમાશે. આ ટુર્નામેન્ટની શરૂઆતથી જ ભારતીય ટીમને ટાઇટલની દાવેદાર માનવામાં આવી રહી છે, તો ન્યુઝીલેન્ડ પણ શાનદાર ટક્કર આપી શકે છે, ત્યારે કઈ ટીમ ફાઈનલ જીતશે અને ગ્રહોની સ્થિતિ શું કહે છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-vs-new-zealand-t20-world-cup-2026-final-prediction-astrology-467626 ",
-    "time": "2026-03-08T07:14:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપની ફાઈનલને લઈને સટ્ટા બજાર ગરમ, જાણો શું ચાલી રહ્યો છે બંને ટીમોનો ભાવ",
-    "desc": "અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમ ખાતે આજે T20 વર્લ્ડ કપ 2026ની ફાઈનલ ભારત અને ન્યુઝીલેન્ડ વચ્ચે રમાનાર છે. ફાઇનલને લઈને ફેન્સમાં ઉત્સાહ તો છે જ પણ બુકી બજાર પણ ગરમ જોવા મળી રહ્યું છે. બુકીઓના હિસાબ પ્રમાણે ટીમ ઈન્ડિયા હોટ ફેવરિટ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-final-ind-vs-nz-india-favorite-betting-market-467623 ",
-    "time": "2026-03-08T06:16:38.000Z"
-  },
-  {
     "cat": "Business",
     "title": "પેટ્રોલ અને ડીઝલના ભાવ વધારા પર મોદી સરકારનું પહેલું નિવેદન, તેલ કંપનીઓને આપ્યો આ મહત્વપૂર્ણ આદેશ, જાણો",
     "desc": "ગેસ સિલિન્ડર બાદ, પેટ્રોલ અને ડીઝલના ભાવ વધારાની ચર્ચા ચાલી રહી છે, જેના પર કેન્દ્ર સરકારે હવે સ્પષ્ટતા કરી છે. કેન્દ્ર સરકારે તેલના ભાવ અંગે પોતાની યોજનાઓ વિશે જાણકારી આપી છે અને તેલ કંપનીઓને નિર્દેશ જાહેર કર્યો છે.",
@@ -135,15 +162,6 @@ const newsData_gu = [
     "time": "2026-03-08T06:14:48.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "સ્મૃતિથી લઈને હરમનપ્રીત સુધી... નાના શહેરની દીકરીઓ કેવી રીતે બની ક્રિકેટ સ્ટાર",
-    "desc": "મહિલા દિવસ નિમિત્તે ભારતીય મહિલા ક્રિકેટરો વિશે વાત કરીએ તો સ્મૃતિ મંધાના, હરમનપ્રીત કૌર, શેફાલી વર્મા અને ઝુલન ગોસ્વામી જેવી ખેલાડીઓ નાના શહેરોમાંથી આંતરરાષ્ટ્રીય ક્રિકેટમાં ચમકી છે. આજે આ ખેલાડીઓ દેશભરની લાખો છોકરીઓ માટે પ્રેરણા બની છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/womens-day-2026-small-town-indian-women-cricketers-success-story-467618 ",
-    "time": "2026-03-08T05:28:51.000Z"
-  },
-  {
     "cat": "Business",
     "title": "મહિલાઓ માટે રોકાણની શાનદાર યોજના, થોડા-થોડા પૈસા બચાવી મળશે મોટો લાભ!",
     "desc": "મહિલા દિવસ 2026 પર જાણો મહિલાઓ માટે સૌથી શાનદાર બચત યોજનાઓ વિશે. આજે દરેક મહિલાઓએ આર્થિક રૂપથી મજબૂત થવું જરૂરી છે. સુકન્યા યોજના, પીપીએફ, સ્પેશિયલ એફડી અને SIP જેવી શાનદાર સ્કીમમાં થોડા પૈસા લગાવી મોટી કમાણી કરી શકાય છે.",
@@ -151,15 +169,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/womens-day-2026-best-investment-and-saving-schemes-for-women-467617 ",
     "time": "2026-03-08T05:11:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અમદાવાદમાં T20 વર્લ્ડ કપ ફાઇનલ પહેલા યોજાશે ક્લોઝિંગ સેરેમની... આ સ્ટાર્સ કરશે પરફોર્મ",
-    "desc": "T20 વર્લ્ડ કપની ફાઇનલ મેચ પહેલા અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં ક્લોઝિંગ સેરેમની યોજાશે. આ ટી20 વર્લ્ડ કપની 10મી સિઝન છે. જો ભારતીય ટીમ ફાઇનલ મેચ જીતી જાય છે, તો તે ત્રણ વખત ટી20 વર્લ્ડ કપ જીતનાર પ્રથમ ટીમ બનશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-t20-world-cup-2026-final-closing-ceremony-performers-list-467608 ",
-    "time": "2026-03-08T03:38:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -187,15 +196,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-silver-weekly-rate-explainer-no-sharp-fluctuations-in-prices-in-the-midst-of-war-why-467579 ",
     "time": "2026-03-08T02:30:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "&amp;#039;મોટા ભાઈ કે પપ્પા બનીને અહીં કંઈ નહીં થાય...&amp;#039; ટીમના ખેલાડીઓને કેવી રીતે હેન્ડલ કરે છે સૂર્યા?",
-    "desc": "ટીમ ઈન્ડિયાના કેપ્ટન સૂર્યકુમાર યાદવ ખેલાડીઓને કેવી રીતે હેન્ડલ કરે છે અને તેમની કેપ્ટન્સીની અંદાજ કેવો છે? વર્લ્ડ કપ ફાઈનલ પહેલા યોજાયેલી પ્રેસ કોન્ફરન્સમાં તેમણે પોતે જ આ અંગે ખુલાસો કર્યો છે. જાણો તેમણે શું કહ્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-suryakumar-yadav-captaincy-style-handling-young-players-final-match-467604 ",
-    "time": "2026-03-07T18:23:37.000Z"
   },
   {
     "cat": "World",
@@ -412,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/after-america-and-israel-one-more-country-will-attack-iran-orders-given-to-the-army-467413 ",
     "time": "2026-03-06T08:48:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોના-ચાંદીના ભાવે લોકોને ચોંકાવ્યા; અમદાવાદ ઝવેરી બજારમાં ઘટાડો, જાણો આજનો લેટેસ્ટ ભાવ",
-    "desc": "આજે 6 માર્ચ 2026ના રોજ MCX પર સોનાના ભાવમાં 1,147 અને ચાંદીમાં 5,010 રૂપિયાનો ઉછાળો જોવા મળ્યો છે. ઈરાન-કતાર સંઘર્ષ વચ્ચે સુરક્ષિત રોકાણની માંગ વધતા બજારમાં મોટી તેજી આવી છે. પરંતુ અમદાવાદ ઝવેરી બજારમાં આજનો ભાવ કંઈક અલગ જ કહે છે. અમદાવાદના બજારમાં આજે સામાન્ય ઘટાડો જોવા મળ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/todays-gold-and-silver-rate-gold-crosses-rs-1-60-lakh-mark-silver-becomes-more-expensive-by-rs-5000-467410 ",
-    "time": "2026-03-06T07:01:20.000Z"
   },
   {
     "cat": "Politics",

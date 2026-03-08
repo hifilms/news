@@ -1,83 +1,92 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli reacts to India's T20 World Cup win, lauds the players, team management for explosive cricket",
+    "desc": "India hammered New Zealand by 96 runs to win the T20 World Cup 2026 at the Narendra Modi Stadium in Ahmedabad. Sanju Samson, Abhishek Sharma and Ishan Kishan dominated the show with the bat, scoring...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-reacts-to-india-s-t20-world-cup-win-lauds-the-players-team-management-for-explosive-cricket-2026-03-08-1033096",
+    "time": "2026-03-08T17:59:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson credits Sachin Tendulkar for turnaround after winning player of tournament award in T20 WC 2026",
+    "desc": "Sanju Samson won the player of the tournament in the T20 World Cup 2026 for scoring 321 runs. Notably, he won the award for smashing three consecutive half-centuries, a match-winning knock in three must-win games...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-credits-sachin-tendulkar-for-turnaround-after-winning-player-of-tournament-award-in-t20-wc-2026-2026-03-08-1033094",
+    "time": "2026-03-08T17:48:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Was doubting myself, got emotional'",
+    "desc": "India delivered a commanding performance to defeat New Zealand by 96 runs in the T20 World Cup 2026 final at Narendra Modi Stadium in Ahmedabad. The victory ensured India retained the title and became the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/was-doubting-myself-got-emotional-abhishek-sharma-reflects-on-topsy-turvy-season-after-winning-t20-world-cup-2026-03-08-1033093",
+    "time": "2026-03-08T17:48:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah breaks Lasith Malinga's all-time T20 World Cup record in final as India create history",
+    "desc": "India fast bowler Jasprit Bumrah created history today in the T20 World Cup final against New Zealand. He picked up a four-wicket haul while conceding only 15 runs in his four overs as India successfully...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-breaks-lasith-malinga-s-all-time-t20-world-cup-record-in-final-as-india-create-history-2026-03-08-1033090",
+    "time": "2026-03-08T17:28:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India bulldoze New Zealand to retain T20 World Cup, become first host nation to win trophy",
+    "desc": "India crushed New Zealand by 96 runs to retain the T20 World Cup at the Narendra Modi Stadium in Ahmedabad. The hosts unleashed a relentless assault on the Kiwi bowlers, and the match was effectively...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-bulldoze-new-zealand-to-retain-t20-world-cup-become-first-host-nation-to-win-trophy-2026-03-08-1033087",
+    "time": "2026-03-08T17:13:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tempers flare between Arshdeep Singh and Daryl Mitchell in T20 World Cup final, Surya steps in: Watch",
+    "desc": "India and New Zealand are known to be friendly teams, but tempers flared during the T20 World Cup final today at the Narendra Modi Stadium in Ahmedabad. Arshdeep Singh and Daryl Mitchell had a go...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tempers-flare-between-arshdeep-singh-and-daryl-mitchell-in-t20-world-cup-final-surya-steps-in-watch-2026-03-08-1033085",
+    "time": "2026-03-08T16:57:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "List of records broken as India smash 255 runs batting first in T20 World Cup final vs New Zealand",
+    "desc": "Team India stunned New Zealand in the final of the T20 World Cup, smashing 255 runs in their 20 overs, courtesy of some brilliant batting from their top order comprising Abhishek Sharma, Sanju Samson and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/list-of-records-broken-as-india-smash-255-runs-batting-first-in-t20-world-cup-final-vs-new-zealnd-2026-03-08-1033083",
+    "time": "2026-03-08T16:00:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Matt Henry reacts to India's 255 in T20 World Cup final, hopeful of New Zealand getting job done",
+    "desc": "India have hammered 255 runs in the first innings of the T20 World Cup 2026 final. Openers Abhishek Sharma and Sanju Samson went berserk as the duo stitched an opening partnership of 98 runs. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/matt-henry-reacts-to-india-s-255-in-t20-world-cup-final-hopeful-of-new-zealand-getting-job-done-2026-03-08-1033080",
+    "time": "2026-03-08T15:36:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson breaks Virat Kohli's T20 World Cup record for India with 89-run knock in final vs New Zealand",
+    "desc": "Sanju Samson created history today in the T20 World Cup final, playing yet another crazy knock for India against New Zealand at the Narendra Modi Stadium in Ahmedabad. He missed out on a century for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-breaks-virat-kohli-s-t20-world-cup-record-for-india-with-89-run-knock-in-final-vs-new-zealand-2026-03-08-1033078",
+    "time": "2026-03-08T15:23:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sanju Samson joins Virat Kohli, Shahid Afridi in legendary record list with explosive knock vs New Zealand",
     "desc": "Sanju Samson went berserk in the T20 World Cup 2026 final against New Zealand at the Narendra Modi Stadium in Ahmedabad. Initially, the Kerala batter took some time to settle down, with Abhishek Sharma dominating...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-joins-virat-kohli-shahid-afridi-in-legendary-record-list-with-explosive-knock-vs-new-zealand-in-t20-world-cup-final-2026-03-08-1033076",
     "time": "2026-03-08T15:01:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma does a Virat Kohli, breaks major T20 World Cup 2026 record",
-    "desc": "Abhishek Sharma finally established his authority in the T20 World Cup 2026, with an explosive knock. He smashed an 18-ball half-century against New Zealand as India were off to a cracking start at the Narendra...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-does-a-virat-kohli-breaks-major-t20-world-cup-2026-record-2026-03-08-1033074",
-    "time": "2026-03-08T14:22:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni, Rohit Sharma bring T20 World Cup to Narendra Modi Stadium before IND vs NZ final",
-    "desc": "Legendary captains MS Dhoni and Rohit Sharma bring the T20 World Cup trophy to Narendra Modi Stadium ahead of the final between India and New Zealand. They were accompanied by ICC chairman Jay Shah. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-rohit-sharma-bring-t20-world-cup-to-narendra-modi-stadium-before-ind-vs-nz-final-watch-2026-03-08-1033071",
-    "time": "2026-03-08T13:36:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Kane Williamson not playing for New Zealand vs India in T20 World Cup final?",
-    "desc": "India and New Zealand are locking horns in the final of the T20 World Cup today at the Narendra Modi Stadium in Ahmedabad. New Zealand captain, Mitchell Santner won the toss and opoted to bowl...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kane-williamson-not-playing-for-new-zealand-vs-india-in-t20-world-cup-final-2026-03-08-1033065",
-    "time": "2026-03-08T13:09:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Virat Kohli not playing vs New Zealand in T20 World Cup 2026 final clash in Ahmedabad?",
-    "desc": "After the T20 World Cup 2024, Virat Kohli, Rohit Sharma and Ravindra Jadeja announced retirement from the format. Hence, you don’t see them in the playing XI for the final against New Zealand at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-virat-kohli-not-playing-vs-new-zealand-in-t20-world-cup-2026-final-clash-in-ahmedabad-2026-03-08-1033068",
-    "time": "2026-03-08T13:08:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Trent Boult not playing vs India in T20 World Cup 2026 final clash in Ahmedabad?",
-    "desc": "New Zealand pacer Trent Boult retired from international cricket after the T20 World Cup 2024. The ace pacer, however, is still very active in various franchise competitions across the globe. He is still very lethal...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-trent-boult-not-playing-vs-india-in-t20-world-cup-2026-final-clash-in-ahmedabad-2026-03-08-1033067",
-    "time": "2026-03-08T13:06:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma explains psyche behind viral pep-talk to Sanju Samson before India's opening T20 World Cup game",
-    "desc": "After flopping with the bat during the five-match series against New Zealand, India dropped Sanju Samson from the playing XI in their T20 World Cup opener against the USA. Former captain Rohit Sharma, who was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-explains-psyche-behind-viral-pep-talk-to-sanju-samson-before-india-s-opening-t20-world-cup-game-2026-03-08-1033060",
-    "time": "2026-03-08T12:10:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Prithvi Shaw gets engaged to long time girlfriend Akriti Agarwal, 'She's my perfect innings'",
-    "desc": "Indian cricketer Prithvi Shaw got engaged to long-time partner Akriti Agarwal today. The couple shared the delightful news with their fans on their social media handles and also posted pictures from their engagement ceremony. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/prithvi-shaw-gets-engaged-to-long-time-girlfriend-akriti-agarwal-she-s-my-perfect-innings-2026-03-08-1033055",
-    "time": "2026-03-08T11:33:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "History suggests why toss would be extremely critical in T20 World Cup final",
-    "desc": "India and New Zealand will face each other today for the first time in the final of the T20 World Cup at the Narendra Modi Stadium in Ahmedabad. The toss will be extremely critical given...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-history-suggests-why-toss-would-be-extremely-critical-in-t20-world-cup-final-2026-03-08-1033053",
-    "time": "2026-03-08T11:12:51.000Z"
   }
 ];
