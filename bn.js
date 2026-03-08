@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "৩ হাজার পুলিশকর্মী, ১ হাজার হোমগার্ড!অ্যান্টি ড্রোন সিস্টেম, ফাইনালের নরেন্দ্র মোদি স্টেডিয়াম যেন দুর্গ!",
+    "desc": "রবিবার ICC Men's T20 World Cup 2026-এর ফাইনালে ভারত বনাম নিউজিল্যান্ডের ম্যাচকে ঘিরে আহমেদাবাদে কড়া নিরাপত্তা ব্যবস্থা নেওয়া হয়েছে। কর্মকর্তাদের মতে, এই ম্যাচের জন্য ৩,০০০-এর বেশি পুলিশ কর্মী, প্রায় ১,০০০ হোমগার্ড এবং তিনটি অ্যান্টি-ড্রোন সিস্টেম মোতায়েন করা হবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/icc-2-2026-03-2d34fd246373b7c5b5401341b6061aac-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/3000-police-personnel-1000-home-guards-anti-drone-systems-elaborate-security-arrangements-made-for-t20-world-cup-final-smc-2574556.html",
+    "time": "2026-03-08T08:39:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "টি-২০ বিশ্বকাপের অদ্ভুত অভিশাপ! এতদিন পারেনি কেউ, এবার কি ভাঙতে পারবে ভারত?",
+    "desc": "ফাইনাল ম্যাচের জন্য কালো মাটি, লাল মাটি এবং দুই মাটির মিশ্রণে মোট তিন ধরনের পিচ প্রস্তুত করা হয়েছে বলে খবর। তবে শেষ পর্যন্ত কোন পিচে ফাইনাল অনুষ্ঠিত হবে, তা এখনও নিশ্চিত নয়—এ নিয়েই বাড়ছে উত্তেজনা।এদিকে ফাইনাল জিতে টি–২০ বিশ্বকাপের সেই পুরনো ‘হোস্ট অভিশাপ’ ভাঙার লক্ষ্যেই মাঠে নামছে India national cricket team। তাই শিরোপা জয়ের লড়াইয়ে ভারত কতটা সফল হয়, সেটাই এখন দেখার বিষয়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1772955841_FotoJet-96-2026-03-475c30884822995b86635cc486010378-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/ind-vs-nz-final-t20-world-cup-2026-no-host-nation-has-ever-won-the-t20-world-cup-on-home-soil-can-india-break-this-home-curse-smc-2574535.html",
+    "time": "2026-03-08T07:53:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "রাশিয়ার তেলেরও দাম বাড়ল! ‘ডিসকাউন্ট’-এর বদলে ‘প্রিমিয়াম’ নিচ্ছেন পুতিন? বাড়ছে ভারতের উদ্বেগ!",
+    "desc": "মধ্যপ্রাচ্যে চলা যুদ্ধ এবং হরমুজ প্রণালী ঘিরে উত্তেজনার জেরে বিশ্বজুড়ে তেলের বাজারে অস্থিরতা তৈরি হয়েছে। এই পরিস্থিতিতে রাশিয়াও তেলের দাম বাড়িয়েছে। আগে যেখানে ছাড় দিয়ে ভারতকে তেল দিত মস্কো, এখন সেখানে উল্টে অতিরিক্ত দাম বা ‘প্রিমিয়াম’ নেওয়া হচ্ছে। ফলে ভারতের জ্বালানি সরবরাহ ও অর্থনীতির উপর নতুন করে চাপ তৈরি হয়েছে বলে মনে করা হচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/putin-2026-03-7798cfacbee6b5b3327f5a394da6090f-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/russia-hikes-oil-prices-putin-charges-premium-instead-of-discount-india-tension-rises-russian-oil-price-hike-due-to-middle-east-war-causes-crisis-tib-ws-el-2574371.html",
+    "time": "2026-03-08T07:29:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ক্রেডিট কার্ড বিলকে EMI-তে রূপান্তরিত করছেন ? বড় ভুল করছেন না তো",
+    "desc": "ক্রেডিট কার্ডের বড় অঙ্কের বিল পরিশোধ করতে অনেকেই EMI অপশন বেছে নেন। কিন্তু এতে অতিরিক্ত সুদ ও প্রসেসিং ফি যোগ হয়ে মোট খরচ বেড়ে যেতে পারে। তাই এই সিদ্ধান্ত নেওয়ার আগে বিষয়টি ভালোভাবে বোঝা জরুরি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/rupay-card-8-2026-03-99d4ec90a8d08c35c02fcd5d0cf55e31-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/converting-credit-card-bill-into-emi-know-the-hidden-costs-before-you-decide-tc-dc-aa-2571563.html",
+    "time": "2026-03-08T06:46:13.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "স্ত্রী সঙ্গীতা বিবাহবিচ্ছেদের আবেদন করার কয়েকদিন পরেই বিজয়-তৃষা একই গাড়িতে, একই সাজে বিয়েবাড়ি গেলেন",
     "desc": "TVK Vijay - Trisha | বিবাহবিচ্ছেদের আবেদনে সঙ্গীতা বলেছেন, ‘‘বিজয় এক অভিনেত্রীর সঙ্গে বিবাহ বহির্ভূত সম্পর্কে জড়িয়ে পড়েছিলেন। এটি জানতে পেরে আমি বিজয়ের দ্বারা প্রতারিত বোধ করি। আমি কষ্ট পেয়েছিলাম কারণ বিজয় সেই অভিনেত্রীর সঙ্গে সম্পর্কে ছিলেন। ২০২১ সালে, আমরা একই বাড়িতে থাকলেও আলাদা থাকতাম।’’",
@@ -862,41 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/israel-iran-conflict-oil-tanker-hit-in-strait-of-hormuz-near-oman-four-sailors-injured-crew-evacuated-sta-2564420.html",
     "time": "2026-03-02T03:41:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "একটা শটেই ৪৮ জন নেতা মারা গিয়েছে! ইরানে আমেরিকার হামলা প্রসঙ্গে বললেন ট্রাম্প",
-    "desc": "ট্রাম্প বলেছেন, এই যৌথ অপারেশন ইরানের নেতৃত্বকে বড় ধাক্কা দিয়েছে। উনি দাবি করেছেন, “৪৮ ইরানের নেতার একটি অপারেশনে মৃত্যু হয়েছে”। পেন্টাগন আর Israeli Defence Forces (IDF) এখনও এই হামলার প্রভাব বিশ্লেষণ করছে, যেখানে ইরানের সর্বোচ্চ নেতা আরও অনেক গুরুত্বপূর্ণ নেতৃত্ব মারা গিয়েছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/trump-6-2026-02-8ae1a5f3c0f16079b745681d4b2c6365-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/trump-claims-48-iranian-leaders-eliminated-in-one-shot-as-ali-khameneis-death-rdp-2564235.html",
-    "time": "2026-03-01T18:49:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "১, ২, ৩ মার্চ...! ভারী বৃষ্টি কাঁপাবে ৬ রাজ্য, বজ্রবিদ্যুৎ-দমকা হাওয়ার হুঁশিয়ারি ১২ রাজ্যে, পারদ চড়ছে কোন কোন রাজ্যে? 'দোলে' কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "নতুন করে ঢুকছে পশ্চিমী ঝঞ্ঝা! ফুঁসছে একের পর এক ঘূর্ণাবর্ত! দোলের আগেই এসে গেল আবহাওয়ার বড় হুঁশিয়ারি। আগামী ৩ দিন! ভারী বৃষ্টি কাঁপাবে ৬ রাজ্য, বজ্রবিদ্যুৎ-দমকা হাওয়ার হুঁশিয়ারি ১২ রাজ্যে, লাফিয়ে লাফিয়ে তাপমাত্রা বাড়বে কোন কোন রাজ্যে? হোলিতে ভিজবে বাংলা? জেনে নিন আবহাওয়ার সম্পূর্ণ লেটেস্ট আপডেট",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj_rain_Thunder-2026-02-d4442b7a82e43dc3ddb6c50620195dec-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-1st-2nd-3rd-march-heavy-rainfall-alert-in-6-states-thunderstorm-lightning-to-hit-12-states-for-next-3-days-know-latest-west-bengal-weather-sanj-2564020.html",
-    "time": "2026-03-01T17:42:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Subhashree Ganguly Father's Reaction: \"আমার নাতি বড্ড ভীতু\", চিন্তায় শুভশ্রীর বাবা! ফোনে কী কথা হল? বোমাবর্ষণের মাঝে দুবাইয়ে ছেলেকে নিয়ে আটকে শুভশ্রী",
-    "desc": "আগামী ৫ তারিখ দেশে ফেরার টিকিট থাকলেও বর্তমান পরিস্থিতিতে এতদিন সেখানে থাকা সম্ভব হবে কি না তা নিয়ে অনিশ্চয়তা তৈরি হয়েছে। তিনি আরও বলেন, আমার নাতি একটু ভীতু প্রকৃতির তাই চুপচাপ হয়ে গেছে এই সব দেখে। রাত্রে বেলায় আবার ফোন করে কথা বলার চেষ্টা করব।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-01-at-10.08.53-PM-2026-03-20b6df4c78f2125100344abee6641f41-1200x800.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/actress-subhashree-ganguly-stuck-in-dubai-with-son-her-father-panics-says-his-grandson-is-bit-worried-l18-pbd-local18-2563987.html",
-    "time": "2026-03-01T17:11:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "শোলে-এর পঞ্চাশে বিশেষ ক্যালেন্ডার প্রকাশ, জয়-বীরু এর ভূমিকায় সিধু-পটা জুটির উপস্থিতি",
-    "desc": "দ্যা ড্রিমার্স মিউজিক পিআর এজেন্সির উদ্যোগে , সেরাম গ্রুপ এর নিবেদনে প্রকাশ পেল \"শোলে পঞ্চাশ\" বিশেষ ক্যালেন্ডার। চমক ছিল এর প্রকাশ অনুষ্ঠানে। শোলের দুই মুখ্য চরিত্র জয়-বীরু হিসেবে উপস্থিত ছিলেন বাংলা রক ব্যান্ড ক্যাকটাস এর সিধু-পটা জুটি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Sholay-Calender-2026-03-23a861c1529d16e9eceb299071f120c0-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/50-years-of-bollywood-cult-movie-sholay-new-calendar-release-sidhu-and-pota-of-cactus-in-role-of-jai-veeru-pbd-2563909.html",
-    "time": "2026-03-01T14:33:46.000Z"
   }
 ];

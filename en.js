@@ -1,12 +1,192 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Centre seeks response from West Bengal government",
-    "desc": "President Droupadi Murmu on Saturday (March 7, 2026) expressed disappointment with the West Bengal government for changing the venue of the International Santal Conference in Darjeeling district and not adhering to the desired protocol to receive her at the event",
-    "img": "https://th-i.thgim.com/public/incoming/z1iwnc/article70718336.ece/alternates/LANDSCAPE_1200/20260307382L.jpg",
+    "title": "convicted trio carried spare clothes to change attire",
+    "desc": "The three men used to steal clothes that are hung outside houses for drying. They would keep a shirt inside the ones they wear as a replacement for a change in the attire, in the event of committing an offence, said a police officer.",
+    "img": "https://th-i.thgim.com/public/incoming/amnttl/article70718505.ece/alternates/LANDSCAPE_1200/T.%20Kaleeswaran%20alias%20Karthik.jpeg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/protocol-lapses-at-president-event-centre-seeks-response-from-west-bengal-government/article70718315.ece",
-    "time": "2026-03-08T06:28:24.000Z"
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/coimbatore-gang-rape-case-men-convicted-carried-spare-clothes-to-change-attire/article70716624.ece",
+    "time": "2026-03-08T08:58:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Mcap of 8 of top-10 most valued firms wipes out Rs 2.81 lakh cr; State Bank biggest laggard",
+    "desc": "Indian stock markets experienced a significant downturn last week, with the top ten most valuable companies collectively shedding over Rs 2.8 lakh crore. Escalating geopolitical tensions and rising crude oil prices impacted investor sentiment, leading to broad-based selling. State Bank of India saw the steepest decline, while only Reliance Industries and Infosys managed to post gains.",
+    "img": "https://static.toiimg.com/photo/msid-129261216,imgsize-90922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/market-recap-mcap-of-8-of-top-10-most-valued-firms-wipes-out-rs-2-81-lakh-cr-state-bank-biggest-laggard/articleshow/129261193.cms",
+    "time": "2026-03-08T08:50:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akansha opens up on intense medical journey after egg-freezing procedure",
+    "desc": "Actress Akansha Ranjan Kapoor revealed she recently froze her eggs, sharing her empowering experience on social media. The 'Guilty' star detailed the challenging two-week process involving daily injections and medical monitoring, expressing profound admiration for the female body's resilience. Her candid post, coinciding with her debut film's anniversary, garnered widespread support from fans and fellow celebrities.",
+    "img": "https://static.toiimg.com/photo/msid-129261031,imgsize-48742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/women-are-badasses-akansha-ranjan-kapoor-opens-up-on-intense-medical-journey-after-egg-freezing-procedure-see-pic/articleshow/129260953.cms",
+    "time": "2026-03-08T08:44:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunny Deol’s 'Lahore 1947' renamed 'Batwara 1947'",
+    "desc": "Rajkumar Santoshi's Aamir Khan-produced Lahore 1947, starring Sunny Deol and Preity Zinta, is now Batwara 1947 due to India-Pak frictions. Based on a Partition play about Mai in Lahore, rights passed from Govind Nihalani to Santoshi. Eyes Independence Day release.",
+    "img": "https://static.toiimg.com/photo/msid-129261005,imgsize-61156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deols-lahore-1947-renamed-batwara-1947-to-avoid-political-sensitivities-ahead-of-independence-day-release-report/articleshow/129261005.cms",
+    "time": "2026-03-08T08:42:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Foreign portfolio investors withdraw Rs 21,000 crore amid Middle East tensions",
+    "desc": "Foreign portfolio investors divested nearly Rs 21,000 crore from Indian equities in the first week of March, driven by escalating Middle East tensions and a weakening global risk appetite. This follows a strong February inflow, with analysts citing geopolitical risks, rupee depreciation, and rising US Treasury yields as key factors influencing the outflows.",
+    "img": "https://static.toiimg.com/photo/msid-129260484,imgsize-1115907.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/fpis-turn-sellers-foreign-portfolio-investors-withdraw-rs-21000-crore-amid-middle-east-tensions/articleshow/129259711.cms",
+    "time": "2026-03-08T08:32:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mammootty’s visit to Wayanad township for landslide-affected families sparks political controversy",
+    "desc": "A hot mic captured Mammootty asking CPI(M) district secretary, Wayanad, K. Rafeeq, not to tail him around the construction site; “Why are you always standing beside me? (Public) might think I have come at your (CPI(M)’s) behest”, he said",
+    "img": "https://th-i.thgim.com/public/incoming/g5goki/article70718440.ece/alternates/LANDSCAPE_1200/11073_7_3_2026_19_38_42_1_8TVKZ1_MAMOOTTY.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/mammoottys-visit-to-wayanad-township-for-landslide-affected-families-sparks-political-controversy/article70718438.ece",
+    "time": "2026-03-08T08:32:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Grew up in a family where women were bosses': Rahul Gandhi tells students",
+    "desc": "\"Women are generally more intelligent than men for the most part. Men are in a hurry and men get blinded by silly things. Women think longer term, they don't apply direct power they apply indirect power, it is more effective,\" he says.",
+    "img": "https://th-i.thgim.com/public/incoming/bketg1/article70718482.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-08%20133947.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/grew-up-in-a-family-where-women-were-bosses-rahul-gandhi-tells-students/article70718458.ece",
+    "time": "2026-03-08T08:31:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "12 years on, renewed hunt for missing Flight MH370 comes up empty as families press for answers",
+    "desc": "The Air Accident Investigation Bureau said in a statement that a seabed search conducted by marine robotics company Ocean Infinity between March 2025 and January 2026 surveyed thousands of square kilometres of ocean floor but has not produced any confirmed findings of the aircraft wreckage",
+    "img": "https://th-i.thgim.com/public/incoming/f34ke0/article70718479.ece/alternates/LANDSCAPE_1200/Malaysia_Missing_Plane_11547.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/12-years-on-renewed-hunt-for-missing-flight-mh370-comes-up-empty-as-families-press-for-answers/article70718454.ece",
+    "time": "2026-03-08T08:26:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top songs",
+    "desc": "Global music icon Ricky Martin is set to headline the ICC Men's T20 World Cup 2026 closing ceremony in Ahmedabad, alongside Indian stars Falguni Pathak and Sukhbir Singh. This performance celebrates his enduring legacy, marked by chart-topping hits like 'Livin' La Vida Loca' and 'María', which revolutionized Latin pop and continue to energize audiences worldwide.",
+    "img": "https://static.toiimg.com/photo/msid-129260274,imgsize-80820.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/top-ricky-martin-songs-to-listen-to-before-his-t20-world-cup-2026-performance/articleshow/129260222.cms",
+    "time": "2026-03-08T08:25:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nitish Kumar's son Nishant enters politics, joins JD(U)",
+    "desc": "Bihar Chief Minister Nitish Kumar's son, Nishant Kumar, has formally joined the JD(U). This development follows Nitish Kumar's decision to step down as CM, sparking speculation about his successor and potentially ushering in a new political era in Bihar. Nitish Kumar himself announced his intention to contest the Rajya Sabha elections.",
+    "img": "https://static.toiimg.com/photo/msid-129259943,imgsize-913543.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nitish-kumars-son-nishant-enters-politics-joins-jdu/articleshow/129259977.cms",
+    "time": "2026-03-08T08:16:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka Chopra opens up about Indian history and mythology",
+    "desc": "Priyanka Chopra Jonas recently shared her insights on Indian history, the Vedas, and mythology during a podcast. She highlighted India's history of being invaded but never invading others, and discussed ancient scriptures mentioning advanced technologies like 'flying machines.' Chopra also touched upon Hindu mythology's themes of divine and human coexistence.",
+    "img": "https://static.toiimg.com/photo/msid-129259690,imgsize-180654.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/flying-objects-spears-with-energy-varanasi-star-priyanka-chopra-delves-into-indian-history-vedas-and-mythology/articleshow/129259690.cms",
+    "time": "2026-03-08T08:12:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "women of Tamil Nadu claim their space in local administration",
+    "desc": "The 73rd Constitutional Amendment Act of 1992 mandates at least 33% (one-third) reservation for women in Panchayati Raj Institutions (PRIs) across India, including for positions of chairpersons. The HinduC. Palanivel Rajan takes a deep dive to examine whether women have moved from being seen as “proxies” or “rubber-stamp” heads to achieving true empowerment. Hearteningly, hewe find that many women leaders have indeed wrested agency and truereal power.",
+    "img": "https://th-i.thgim.com/public/incoming/ubdj44/article70718462.ece/alternates/LANDSCAPE_1200/IMG_20230501_111754.jpg.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/onwards-and-upwards-women-of-tamil-nadu-claim-their-space-in-local-administration/article70715224.ece",
+    "time": "2026-03-08T08:12:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Force 3' goes on floors in Gujarat",
+    "desc": "The highly anticipated action flick 'Force 3' has officially commenced shooting in Gujarat, with Harshvardhan Rane and Tanya Maniktala leading the initial scenes. While John Abraham was present for the mahurat, his filming is slated to begin soon. This installment marks a reunion for Rane and Abraham, who share a mentor-mentee relationship.",
+    "img": "https://static.toiimg.com/photo/msid-129259028,imgsize-52920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/force-3-goes-on-floors-in-gujarat-harshvardhan-rane-begins-shoot-with-tanya-maniktala-john-abraham-joins-mahurat-ceremony/articleshow/129258899.cms",
+    "time": "2026-03-08T07:51:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SA players slam ICC after England fly home while they remain stranded",
+    "desc": "Players from South Africa national cricket team and West Indies national cricket team criticised travel arrangements after their exit from the ICC Men's T20 World Cup 2026, questioning why England national cricket team flew home earlier. Quinton de Kock and David Miller voiced frustration, while Daren Sammy and Michael Vaughan also questioned the situation.",
+    "img": "https://static.toiimg.com/photo/msid-129258979,imgsize-199252.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/strange-south-africa-players-slam-icc-after-england-fly-home-while-sa-wi-remain-stranded-in-india/articleshow/129258507.cms",
+    "time": "2026-03-08T07:51:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sri Lankan Tamil in Gummidipoondi rehabilitation camp murdered, six arrested",
+    "desc": "On the night of March 7, the victim was walking inside the camp when three persons who reportedly had personal enmity picked a quarrel with him and suddenly assaulted him with an iron rod which they had concealed.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/sri-lankan-tamil-in-gummidipoondi-rehabilitation-camp-murdered-six-arrested/article70718351.ece",
+    "time": "2026-03-08T07:44:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All you need to know about Ricky Martin",
+    "desc": "From Enrique to King of PopRicky Martin was born Enrique Martín Morales on December 24, 1971, in San Juan, Puerto Rico. He was raised in a large family and exposed to music and performance at an early age. As a child, he appeared in television commercials in Puerto Rico.The Puerto Rican singer and the ‘King of Latin Pop’, Ricky Martin, is credited with leading the \"Latin explosion\" of the late 1990s. Ricky has a reputation of paving the way for Spanish music to blend with English music. Ricky Martin is also an actor and author. Ricky Martin was also a guest performer at fellow Puerto Rican star Bad Bunny’s Super Bowl performance in February 2026.",
+    "img": "https://static.toiimg.com/photo/msid-129258734,imgsize-693779.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/all-you-need-to-know-about-ricky-martin-the-global-icon-who-will-perform-at-the-t20-world-cup-closing-ceremony/photostory/129258734.cms",
+    "time": "2026-03-08T07:43:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rosanna Arquette criticizes ‘Pulp Fiction’ for n-word mention",
+    "desc": "Actress Rosanna Arquette has voiced strong criticism against Quentin Tarantino's frequent use of the n-word in films like 'Pulp Fiction,' deeming it 'racist and creepy.' She argues Tarantino has received an unwarranted 'hall pass' for this language. This sentiment echoes concerns previously raised by filmmaker Spike Lee, who also condemned Tarantino's perceived obsession with the word.",
+    "img": "https://static.toiimg.com/photo/msid-129258572,imgsize-65974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/racist-and-creepy-crashs-actress-rosanna-arquette-opens-up-about-her-thoughts-on-pulp-fiction-and-the-use-of-n-word/articleshow/129258572.cms",
+    "time": "2026-03-08T07:41:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata absent, no water in President Murmu's washroom, garbage on road: Centre, Bengal govt spar over 'lapses' at Santal event",
+    "desc": "The Centre has demanded a response from the West Bengal government by Sunday evening regarding alleged protocol violations during President Droupadi Murmu's visit to state. These alleged lapses include issues with venue arrangements, route cleanliness, and the absence of key state officials at her reception, prompting criticism from the Prime Minister.",
+    "img": "https://static.toiimg.com/photo/msid-129258201,imgsize-1160285.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mamata-absent-no-water-in-president-murmus-washroom-garbage-on-road-centre-bengal-govt-spar-over-lapses-at-santal-event/articleshow/129256807.cms",
+    "time": "2026-03-08T07:30:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Paresh, Anil and Nana to reunite as scripting begins",
+    "desc": "The 'Welcome' franchise is set for Welcome 4 with Paresh Rawal, Anil Kapoor, and Nana Patekar reuniting as Uday Shetty, Majnu Bhai, and Dr Ghungroo. Scripting is in advanced stages, with fresh, comic‑style villains and a new story, while Welcome to the Jungle releases on June 26.",
+    "img": "https://static.toiimg.com/photo/msid-129257707,imgsize-40442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/welcome-4-paresh-rawal-anil-kapoor-and-nana-patekar-to-reunite-as-scripting-begins-reports/articleshow/129257707.cms",
+    "time": "2026-03-08T07:15:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Rachel Weisz built a multi-million dollar property portfolio",
+    "desc": "Renowned for her captivating performances, Rachel Weisz of 'The Mummy' fame enjoys a whopping USD 40 million fortune, a testament to her savvy real estate ventures. Alongside her husband, Daniel Craig, she has acquired significant properties in New York, featuring a trendy Brooklyn home and a former pad in the East Village.",
+    "img": "https://static.toiimg.com/photo/msid-129257236,imgsize-64650.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rachel-weisz-net-worth-how-the-mummy-star-built-her-usd-40-million-fortune/articleshow/129257236.cms",
+    "time": "2026-03-08T07:05:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Aspirants’ Season 3 trailer released",
+    "desc": "The much-awaited trailer for 'Aspirants' Season 3 has finally arrived! Dive into the lives of beloved characters tackling the complexities of life after college while diligently chasing their IAS aspirations. With familiar faces alongside intriguing newcomers, this season promises dynamic stories and thought-provoking themes reflecting current societal issues.",
+    "img": "https://static.toiimg.com/photo/msid-129256823,imgsize-93938.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/aspirants-season-3-trailer-dm-abhilash-faces-sandeep-bhaiyas-brahmastra-fans-react-to-the-high-stakes-rivalry/articleshow/129256823.cms",
+    "time": "2026-03-08T06:55:39.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +195,25 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/3m4uye/article70718331.ece/alternates/LANDSCAPE_1200/9868_14_7_2025_11_39_2_5_PRESS_10.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/any-disrespect-to-president-murmu-deeply-regrettable-unacceptable-edappadi-palaniswami/article70718120.ece",
-    "time": "2026-03-08T06:26:50.000Z"
+    "time": "2026-03-08T06:42:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre seeks response from West Bengal Government",
+    "desc": "President Droupadi Murmu on March 7 expressed disappointment with the West Bengal Government for changing the venue of the International Santal Conference in Darjeeling district and not adhering to the desired protocol to receive her at the event",
+    "img": "https://th-i.thgim.com/public/incoming/z1iwnc/article70718336.ece/alternates/LANDSCAPE_1200/20260307382L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/protocol-lapses-at-president-event-centre-seeks-response-from-west-bengal-government/article70718315.ece",
+    "time": "2026-03-08T06:42:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Streaming guide for all eight Tom Cruise 'Mission: Impossible' films",
+    "desc": "Impossible' saga, where eight films across three decades redefine action cinema. With each chapter brimming with audacious stunts and compelling storylines, there’s no shortage of excitement. Catch all the action on streaming platforms like Amazon Prime, Zee5, and Jio Hotstar, ensuring an electrifying movie marathon awaits those daring enough to binge-watch.",
+    "img": "https://static.toiimg.com/photo/msid-129255526,imgsize-133798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-mission-impossible-marathon-guide-where-to-watch-all-mi-movies-in-chronological-order/articleshow/129255526.cms",
+    "time": "2026-03-08T06:34:58.000Z"
   },
   {
     "cat": "Sports",
@@ -29,7 +227,7 @@ const newsData_en = [
   {
     "cat": "Business",
     "title": "Key routes and how they will help commuters",
-    "desc": "Prime Minister Narendra Modi will inaugurate and lay the foundation stone for infrastructure projects worth Rs 33,500 crore in Delhi. This includes two new Delhi Metro corridors, totaling over Rs 18,300 crore, aimed at enhancing public transport and connectivity. The event also features the foundation stone laying for three new metro routes under Phase V-A and GPRA redevelopment projects.",
+    "desc": "Prime Minister Narendra Modi has inaugurated and laid the foundation stone for infrastructure projects worth Rs 33,500 crore in Delhi. This includes two new Delhi Metro corridors, totaling over Rs 18,300 crore, aimed at enhancing public transport and connectivity. The event also features the foundation stone laying for three new metro routes under Phase V-A and GPRA redevelopment projects.",
     "img": "https://static.toiimg.com/photo/msid-129254964,imgsize-796928.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-to-inaugurate-two-new-delhi-metro-corridors-key-routes-and-how-they-will-help-commuters/articleshow/129254488.cms",
@@ -99,24 +297,6 @@ const newsData_en = [
     "time": "2026-03-08T04:59:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shreya Ghoshal talks about women's issues in the music industry",
-    "desc": "In a heartfelt statement, acclaimed vocalist Shreya Ghoshal voiced her worries regarding the marginalization of women in India's contemporary music landscape, pointing out a significant disparity on the charts. She reminisced about the era of iconic figures such as Lata Mangeshkar and Asha Bhosle, juxtaposing it with the thriving prominence of female superstars like Taylor Swift and Rihanna abroad.",
-    "img": "https://static.toiimg.com/photo/msid-129252315,imgsize-34612.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/shreya-ghoshal-talks-about-gender-inequality-in-the-music-industry-says-asha-bhosle-and-lata-mangeshkars-time-was-different/articleshow/129252315.cms",
-    "time": "2026-03-08T04:57:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Demi Moore says she doesn’t aspire to be ‘perfect’",
-    "desc": "At 63, actress Demi Moore inspires us all by sharing her transformative perspective on embracing imperfection. She champions the idea that neither individuals nor ideals are flawless, encouraging others to shed the pressures of societal expectations around aging and gender.",
-    "img": "https://static.toiimg.com/photo/msid-129252173,imgsize-85660.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/demi-moore-doesnt-aspire-to-be-perfect-and-this-is-the-reason-why-i-certainly-have-been-trapped-by-trying/articleshow/129252173.cms",
-    "time": "2026-03-08T04:52:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Give them all': Sammy shares emotional post as WI stranded in India",
     "desc": "West Indies head coach Daren Sammy expressed frustration after the team’s return from India following their exit from the ICC Men's T20 World Cup 2026 was delayed due to Gulf airspace restrictions linked to the Israel–Iran conflict. Posting online, Sammy wrote, “I just wanna go home,” while Cricket West Indies said it is arranging safe travel for the squad.",
@@ -124,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/give-them-all-that-is-required-daren-sammy-shares-another-emotional-post-as-west-indies-remain-stranded-in-india/articleshow/129251565.cms",
     "time": "2026-03-08T04:45:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jake Cannavale's experience of working with dad Cannavale",
-    "desc": "Father-son duo Bobby and Jake Cannavale shared a unique experience on the crime thriller 'Scarpetta,' portraying the same character at different ages. Working together off-screen, they deepened their bond, moving beyond typical actor discussions to explore the character's psyche. This collaboration not only enhanced Jake's artistry but also fostered a more profound understanding between them.",
-    "img": "https://static.toiimg.com/photo/msid-129251624,imgsize-70014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/jake-cannavale-shares-cerebral-experience-of-working-with-dad-bobby-cannavale-on-scarpetta/articleshow/129251538.cms",
-    "time": "2026-03-08T04:37:41.000Z"
   },
   {
     "cat": "Business",
@@ -171,15 +342,6 @@ const newsData_en = [
     "time": "2026-03-08T03:57:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Thaai Kizhavi' BO day 10: Film crosses Rs 30 crore",
-    "desc": "'Thaai Kizhavi,' starring Radhika Sarathkumar, is enjoying a strong box office run, raking in approximately Rs 30.31 crore in its first ten days. The film saw a robust opening weekend, with collections surging significantly after a decent start. Steady weekday numbers and a solid second weekend have maintained its momentum, highlighting its appeal as a rural drama with mass elements.",
-    "img": "https://static.toiimg.com/photo/msid-129249583,imgsize-90300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/box-office/thaai-kizhavi-box-office-collections-day-10-radhikaa-sarathkumars-film-crosses-rs-30-crore/articleshow/129249583.cms",
-    "time": "2026-03-08T03:42:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "From oil to rice, here's how Middle East crisis may spread across global economy",
     "desc": "The Middle East conflict is escalating, triggering global economic concerns. Disruptions to trade, energy supplies, and food production are already evident, with potential for significant inflation and reduced growth. Asian economies and global shipping networks face particular vulnerability as tensions persist.",
@@ -187,15 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/from-oil-to-rice-heres-how-middle-east-crisis-may-spread-across-global-economy/articleshow/129247620.cms",
     "time": "2026-03-08T03:33:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shah Rukh Khan praises Anil Kapoor’s ‘Subedaar’",
-    "desc": "Bollywood superstar Shah Rukh Khan lauded Anil Kapoor's powerful performance in the recently released OTT film 'Subedaar'. Khan praised Kapoor's dedication and the entire cast's unique character portrayals, calling the film a great effort. 'Subedaar', which follows a retired officer's struggle with civilian life and past issues, is now streaming on Prime Video.",
-    "img": "https://static.toiimg.com/photo/msid-129248969,imgsize-120538.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/subedaar-review-shah-rukh-khan-says-he-always-expects-anil-kapoor-to-give-it-his-all/articleshow/129248969.cms",
-    "time": "2026-03-08T03:29:32.000Z"
   },
   {
     "cat": "Sports",
@@ -234,42 +387,6 @@ const newsData_en = [
     "time": "2026-03-08T03:09:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jennifer Lopez recalls the pain of Marc Anthony's divorce",
-    "desc": "Jennifer Lopez recently shared the emotional difficulty of her divorce from Marc Anthony, describing it as a challenging period. Despite the end of their seven-year marriage, the couple has successfully navigated co-parenting their twins, Max and Emme, demonstrating resilience and a strong post-divorce dynamic.",
-    "img": "https://static.toiimg.com/photo/msid-129248499,imgsize-790361.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-lopez-reflects-on-painful-split-from-marc-anthony-and-life-after-divorce-this-was-a-very-difficult-decision/articleshow/129248514.cms",
-    "time": "2026-03-08T03:07:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hilary Duff still ‘angry’ about her 2008 PSA: Here's why",
-    "desc": "Nearly two decades later, Hilary Duff reflects on her impactful 'Think Before You Speak' anti-bullying campaign. The PSA, aimed at curbing homophobic language, resonated deeply with young fans, making them feel seen and supported. Duff expresses frustration that prejudice persists, emphasizing the ongoing need for kindness and acceptance.",
-    "img": "https://static.toiimg.com/photo/msid-129248294,imgsize-63936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/hilary-duff-is-still-sad-and-angry-about-her-2008-thats-so-gay-psa-it-actually-makes-me-want-to-cry/articleshow/129248243.cms",
-    "time": "2026-03-08T03:02:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Indrajith Sukumaran's 'Dheeram' OTT release delayed",
-    "desc": "Malayalam thriller 'Dheeram', starring Indrajith Sukumaran, has seen its digital release postponed from March 6 without a new date or explanation. The film, previously facing a GCC ban during its theatrical run, is expected on Amazon Prime Video soon. Directed by Jithin Suresh T, it features an ensemble cast and a strong investigation plot.",
-    "img": "https://static.toiimg.com/photo/msid-129248143,imgsize-127218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/dheeram-ott-release-delayed-indrajith-sukumarans-thriller-misses-march-6-streaming-debut/articleshow/129248143.cms",
-    "time": "2026-03-08T03:00:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Women's Day 2026: Angelina Jolie as Maleficent, Cynthia Eviro as Elphaba",
-    "desc": "When we think of female antagonists, we think of women with gothic makeup wearing deep-hued dresses sporting elaborate hairstyles driven with the sole intention to rule and exploit. But no, over the years, storytelling has evolved, and female antagonists are no longer dictators devoid of compassion. Today, they are complex characters whose reputation of being ‘the black sheep’ is a byproduct of social injustice. Their actions, which are deemed ‘bad’ in the conventional sense, are undertaken for a greater purpose, for the welfare of humankind. And that is possibly why some ‘antagonists’ have appealed to the audience more than the lead.",
-    "img": "https://static.toiimg.com/photo/msid-129247176,imgsize-38578.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/womens-day-2026-angelina-jolie-as-maleficent-cynthia-eviro-as-elphaba-female-villains-who-went-rogue-for-good-reasons/photostory/129247176.cms",
-    "time": "2026-03-08T03:00:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Perennial dark horses, really? Why world cricket keeps forgetting New Zealand’s World Cup pedigree",
     "desc": "Nine ODI World Cup semi-finals. Two finals. Five T20 World Cup semi-finals and now a second final on Sunday. New Zealand’s record in big-ticket tournaments is anything but accidental, yet they continue to be casually described as cricket’s perennial dark horses.",
@@ -277,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/perennial-dark-horses-really-why-world-cricket-keeps-forgetting-new-zealands-world-cup-pedigree/articleshow/129247894.cms",
     "time": "2026-03-08T02:57:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shaan pays tribute to his mother on her birthday",
-    "desc": "Singer Shaan honored his late mother, Sonali Mukherjee, on her birthday by sharing a touching interview clip. In the video, she recalled his childhood shyness about singing and her unwavering belief in his future success. Shaan expressed immense pride, crediting his mother's selfless upbringing for his achievements. She passed away in 2022.",
-    "img": "https://static.toiimg.com/photo/msid-129247823,imgsize-53376.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/shaan-remembers-mother-sonali-mukherjee-on-her-birthday-posts-throwback-video-says-proud-of-my-maa/articleshow/129247823.cms",
-    "time": "2026-03-08T02:57:40.000Z"
   },
   {
     "cat": "Sports",
@@ -304,15 +412,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/delhi-court-grants-two-week-interim-bail-to-al-falah-chairman-jawed-siddiqui-in-money-laundering-case/article70716950.ece",
     "time": "2026-03-08T02:47:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Why Stephanie Buttermore left social media",
-    "desc": "The untimely loss of fitness icon Stephanie Buttermore at the age of 36 has brought renewed attention to her heartfelt Instagram message from May 2024. In her final post, she shared how distancing herself from social media led to a remarkable uplift in her mental well-being, with anxiety that once felt 'insurmountable' now a distant memory.",
-    "img": "https://static.toiimg.com/photo/msid-129247351,imgsize-218420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/why-stephanie-buttermore-left-social-media-her-final-instagram-post-spoke-of-crippling-anxiety/articleshow/129247351.cms",
-    "time": "2026-03-08T02:42:02.000Z"
   },
   {
     "cat": "Business",
@@ -457,60 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/lpg-price-hike-mamata-calls-for-protests-sidda-seeks-pm-modis-ouster/articleshow/129240086.cms",
     "time": "2026-03-07T22:40:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TMC government has crossed all limits, says PM Modi over President Murmu's venue, protocol plaint",
-    "desc": "Prime Minister Narendra Modi criticized the West Bengal government for disrespecting constitutional office and tribal communities after President Droupadi Murmu expressed disappointment over her reception and event organization. Modi called the incident shameful and unprecedented, highlighting the insult to the President and the casual treatment of Santal culture. Chief Minister Mamata Banerjee accused the BJP of political maneuvering.",
-    "img": "https://static.toiimg.com/photo/msid-129238938,imgsize-41504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tmc-government-has-crossed-all-limits-says-pm-modi-over-president-murmus-venue-protocol-plaint/articleshow/129238696.cms",
-    "time": "2026-03-07T22:18:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Doctors warn against frequent use of morning-after pills",
-    "desc": "Women relying on morning-after pills face health risks, doctors warn. Frequent use disrupts hormonal balance and menstrual cycles, with potential long-term reproductive health impacts. These pills are for emergencies, not routine contraception, and do not protect against STIs. Experts urge considering more reliable birth control methods if frequent use is needed.",
-    "img": "https://static.toiimg.com/photo/msid-129238523,imgsize-46010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/doctors-warn-against-frequent-use-of-morning-after-pills/articleshow/129238274.cms",
-    "time": "2026-03-07T22:13:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Domestic cooking gas cost up by Rs 60 a cylinder",
-    "desc": "Domestic LPG cylinders will now cost Rs 60 more, reaching Rs 913 in Delhi, while commercial prices saw a Rs 114.5 increase. This hike, attributed to global energy market pressures and the West Asia conflict, comes despite government efforts to shield households. Ujjwala beneficiaries will pay Rs 613, with a Rs 300 subsidy.",
-    "img": "https://static.toiimg.com/photo/msid-129237147,imgsize-85082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cooking-gas-price-up-by-rs-60-a-cylinder/articleshow/129237027.cms",
-    "time": "2026-03-07T21:51:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Let Iranian ship dock on humanitarian grounds",
-    "desc": "India's ascent is unstoppable, driven by its own strength, not others' missteps, External Affairs Minister S Jaishankar asserted. He confirmed India granted humanitarian docking to Iranian ship IRIS LAVAN in Kochi following technical issues, days before another Iranian warship was sunk. Jaishankar emphasized India's role as a security provider in the Indian Ocean, guided by humanitarian principles.",
-    "img": "https://static.toiimg.com/photo/msid-129236972,imgsize-46682.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/eam-jaishankar-let-iranian-ship-dock-on-humanitarian-grounds/articleshow/129236826.cms",
-    "time": "2026-03-07T21:44:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress sees notice against Om Birla as 'strong message'",
-    "desc": "Congress believes the removal notice against Speaker Om Birla sends a strong message about the undermining of the opposition under BJP rule. The opposition is buoyed by TMC's support for the no-confidence motion, aiming to show a vertically divided Lok Sabha and highlight an unequal parliamentary battle.",
-    "img": "https://static.toiimg.com/photo/msid-129236288,imgsize-43818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-sees-notice-against-om-birla-as-strong-message/articleshow/129236000.cms",
-    "time": "2026-03-07T21:19:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Police officer beaten to death in village near Amritsar",
-    "desc": "An Assistant Sub-Inspector, Jagjit Singh, was tragically beaten to death in his native village near Amritsar following a personal dispute. The altercation reportedly began when relatives of his son's girlfriend raised objections, escalating into a violent scuffle where the ASI was struck with iron rods. Five suspects have been apprehended, with police continuing efforts to locate others involved.",
-    "img": "https://static.toiimg.com/photo/msid-129235950,imgsize-29464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-police-officer-beaten-to-death-in-village-near-amritsar/articleshow/129235900.cms",
-    "time": "2026-03-07T21:15:58.000Z"
   },
   {
     "cat": "Business",
@@ -693,15 +738,6 @@ const newsData_en = [
     "time": "2026-03-07T13:14:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "women of Tamil Nadu claim their space in local administration",
-    "desc": "The 73rd Constitutional Amendment Act of 1992 mandates at least 33% (one-third) reservation for women in Panchayati Raj Institutions (PRIs) across India, including for positions of chairpersons. The HinduC. Palanivel Rajan takes a deep dive to examine whether women have moved from being seen as “proxies” or “rubber-stamp” heads to achieving true empowerment. Hearteningly, hewe find that many women leaders have indeed wrested agency and truereal power.",
-    "img": "https://th-i.thgim.com/public/incoming/xze708/article70715573.ece/alternates/LANDSCAPE_1200/IMG_20260114_125853.jpg.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/onwards-and-upwards-women-of-tamil-nadu-claim-their-space-in-local-administration/article70715224.ece",
-    "time": "2026-03-07T12:58:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'If he gets going': Ex-player names NZ star who could spoil India's T20 WC dream",
     "desc": "India faces New Zealand in the ICC Men's T20 World Cup final at Ahmedabad. Despite India's recent series win, former Australian players Brad Haddin and Nathan Lyon back New Zealand. They highlight opener Finn Allen's potential threat and captain Mitchell Santner's bowling prowess as key factors for the Black Caps, who they believe don't fear playing in India.",
@@ -709,15 +745,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-final-if-he-gets-going-india-are-in-trouble-ex-cricketer-names-nz-star-who-could-spoil-indias-dream/articleshow/129209263.cms",
     "time": "2026-03-07T11:28:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Date, time, performers and full details",
-    "desc": "India and New Zealand are set to clash in the ICC Men's T20 World Cup 2026 final in Ahmedabad on Sunday. India, the defending champions, reached the final after a close semi-final win against England, while New Zealand dominated South Africa. This marks India's fourth final appearance and New Zealand's second, with both teams aiming for a significant title.",
-    "img": "https://static.toiimg.com/photo/msid-129210591,imgsize-1140431.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-closing-ceremony-date-time-performers-and-full-details/articleshow/129210458.cms",
-    "time": "2026-03-07T11:04:09.000Z"
   },
   {
     "cat": "Sports",
@@ -736,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladesh-voted-against-radical-islamists-has-hopes-for-tarique-rahman-taslima-nasrin/article70715351.ece",
     "time": "2026-03-07T10:11:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Clutch is Hardik Pandya': All-rounder credits calm mindset for Bethell runout",
-    "desc": "Pandya’s direct throw at the striker’s end in the final over of England’s chase ended Bethell’s innings of 102. After the dismissal, the 32-year-old reacted with an animated celebration and tried to lift the team’s energy. Pandya later said the reaction came because his son Agastya and girlfriend Mahieka Sharma were watching the match from the stands, and he wanted them to experience his emotions at that moment.",
-    "img": "https://static.toiimg.com/photo/msid-129208201,imgsize-39642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/clutch-is-hardik-pandya-all-rounder-credits-calm-mindset-for-bethell-runout-in-semifinal/articleshow/129207714.cms",
-    "time": "2026-03-07T10:09:14.000Z"
   },
   {
     "cat": "Business",
@@ -817,24 +835,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/russell-fastest-in-final-practice-as-mercedes-teammate-crashes-out/article70714618.ece",
     "time": "2026-03-07T03:23:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Indians been good actors': Why US 'agreed to let' India resume buying Russian oil temporarily",
-    "desc": "The US has granted India a temporary waiver to purchase Russian oil stranded at sea, aiming to stabilise global supplies amid West Asian conflict disruptions. This move, praised by US Treasury Secretary Scott Bessent, allows India to ease short-term supply pressures while maintaining its commitment to reducing sanctioned Russian oil imports.",
-    "img": "https://static.toiimg.com/photo/msid-129191874,imgsize-69488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indians-been-good-actors-why-us-agreed-to-let-india-resume-buying-russian-oil-temporarily/articleshow/129191721.cms",
-    "time": "2026-03-07T03:09:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Emirates NBD bank waives ATM fees across UAE, GCC as war fears grow",
-    "desc": "Emirates NBD is waiving ATM withdrawal fees across the UAE and GCC until March 31, 2026, to ease financial access amid regional disruptions. This move also includes free debit card replacements and delivery, offering crucial support to stranded travelers and residents navigating travel uncertainties. The initiative aims to ensure uninterrupted access to funds during a turbulent period.",
-    "img": "https://static.toiimg.com/photo/msid-129190010,imgsize-34238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/emirates-nbd-bank-waives-fees-for-cash-withdrawals-from-other-atms-across-uae-gcc-as-iran-and-usisrael-war-fears-grow/articleshow/129187777.cms",
-    "time": "2026-03-07T02:18:41.000Z"
   },
   {
     "cat": "World",

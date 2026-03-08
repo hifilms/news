@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How has India's star spinner fared against Black Caps ahead of T20 WC final?",
+    "desc": "India and New Zealand take on each other in the final of the ongoing T20 World Cup 2026. The two sides will face off at the Narendra Modi Stadium in Ahmedabad on March 8. With...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-vs-nz-batters-how-has-india-s-star-spinner-fared-against-black-caps-ahead-of-t20-wc-final-2026-03-08-1033045",
+    "time": "2026-03-08T09:24:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Player battle that can decide IND vs NZ T20 World Cup 2026 final",
+    "desc": "India and New Zealand take on each other in the final of the ongoing T20 World Cup 2026. The two sides lock horns at the Narendra Modi Stadium in Ahmedabad on March 8 in a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-vs-mitchell-santner-player-battle-that-can-decide-ind-vs-nz-t20-world-cup-2026-final-2026-03-08-1033039",
+    "time": "2026-03-08T08:27:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek-Samson vs Allen-Seifert, which openers have better stats?",
+    "desc": "The stage is set for the final of the T20 World Cup 2026. India takes on New Zealand at the Narendra Modi Stadium in Ahmedabad on March 8 as they lock horns for a shot...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-t20i-squad-comparison-abhishek-samson-vs-allen-seifert-which-openers-have-better-stats-2026-03-08-1033034",
+    "time": "2026-03-08T07:03:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lakshya Sen Vs Lin Chun-Yi: Where to watch the All England Open 2026 final live on TV and online in India?",
     "desc": "The stage is set for the final of the All England Open 2026. India’s Lakshya Sen will be taking on Chinese Taipei’s Lin Chun-Yi in the summit clash of the tournament on March 8 in...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-for-the-t20-world-cup-final-2026-03-07-1032988",
     "time": "2026-03-07T17:15:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lakshya Sen creates history, joins Prakash Padukone in elite list after storming into All England Open final",
-    "desc": "India's star shuttler Lakshya Sen created history today, entering the final of the All England Open Badminton Championships. He defeated Canada's Victor Lai 21-16, 18-21, 21-15 in a thrilling semifinal that lasted 97 minutes. With this...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/lakshya-sen-creates-history-joins-prakash-padukone-in-elite-list-after-storming-into-all-england-open-final-2026-03-07-1032985",
-    "time": "2026-03-07T16:05:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Players who can help India win the T20 World Cup final vs New Zealand",
-    "desc": "India and New Zealand will face each other in the final of the T20 World Cup on Sunday at the Narendra Modi Stadium in Ahmedabad. Several players have put their hand up for India during...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3-players-who-can-help-india-win-the-t20-world-cup-final-vs-new-zealand-2026-03-07-1032982",
-    "time": "2026-03-07T15:12:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Axar Patel was not happy when we dropped him, reveals Suryakumar Yadav ahead of T20 World Cup final",
-    "desc": "Axar Patel took two stunning catches and put up a brilliant fielding effort to assist in the third as he starred for India in their seven-run win over England in the T20 World Cup semifinal....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-was-not-happy-when-we-dropped-him-reveals-suryakumar-yadav-ahead-of-t20-world-cup-final-2026-03-07-1032977",
-    "time": "2026-03-07T14:09:54.000Z"
   }
 ];
