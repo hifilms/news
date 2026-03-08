@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Sports",
+    "title": "টি-২০ বিশ্বকাপ ফাইনালে আজ কি থাকবে বুমরাহ ম্যাজিক? জসপ্রীত বুমরাহের স্কুলে হইহই রব!",
+    "desc": "বুমরাহের প্রশংসায় পঞ্চমুখ হয়েছেন প্রাক্তন ক্রিকেটার ও বিশেষজ্ঞরা। প্রাক্তন ভারতীয় ক্রিকেটার সঞ্জয় মঞ্জেরেকর সোশ্যাল মিডিয়ায় লেখেন, “খেলার মধ্যে এত কিছু বলার আছে। দুই দলের ব্যাটিংই ছিল রোমাঞ্চকর। কিন্তু শেষ পর্যন্ত দুই দলের মধ্যে পার্থক্য ছিল মাত্র একজনের। দুর্দান্ত জসপ্রীত বুমরাহ!” হর্ষ ভোগলেও বুমরাহের প্রশংসা করে বলেন,”ভারতের জন্য এত গুরুত্বপূর্ণ ছোট ছোট পারফরম্যান্স। শেষে তিলক ভার্মা, সর্বত্র হার্দিক পান্ডিয়া, মাঠে অক্ষর দারুন… কিন্তু চিরকালের জন্য অমূল্য হীরা হলেন জসপ্রীত বুমরাহ। আজ টি ২০ বিশ্বকাপে নিউজিল্যান্ডের বিরুদ্ধে তাঁর পারফরমেন্সের দিকে নজর গোটা দেশের৷ ইতিমধ্যেই বুমরাহের স্কুলে যেন সাজো সাজো রব৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1772969368_OUh3D1sZV4-Jasprit-Bumrahjpg-IFbvZwgVJK-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/sports/will-bumrah-magic-be-there-in-the-t20-world-cup-final-today-jasprit-bumrah-school-preperation-pbd-2574773.html",
+    "time": "2026-03-08T11:29:07.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ইরান কি শেষে মক্কা-মদিনা আক্রমণ করে বসবে? দুই তীর্থনগরীর সুরক্ষায় ৫ 'ডেডলি ডিফেন্স'",
+    "desc": "ইরান সরাসরি মক্কা-মদিনাকে টারগেট করার পরিকল্পনা করছে কি না, তা নিয়ে কোনো নিশ্চিত কারও প্রমাণ কারও কাছে নেই। বরং বিশেষজ্ঞরা মনে করেন, ইরান এমন কাজ করার সাহস পাবে না, কারণ এতে সমস্ত মুসলিম বিশ্বের কাছে তারা নিন্দিত হবে, বিচ্ছিন্ন হয়ে পড়বে মুসলিমবিশ্ব থেকে। তবে, সৌদি আরব তাদের পবিত্র এই শহর দুটিকে রক্ষার জন্য বিশ্বের অন্যতম উন্নত এবং বহুমুখী আকাশ প্রতিরক্ষা ব্যবস্থা মোতায়েন করেছে। (যেমন প্যাট্রিয়ট PAC-3, THAAD, চীনা লেজার অস্ত্র ইত্যাদি) মোতায়েন করে রেখেছে, যাতে যেকোনো সম্ভাব্য আকাশপথের হুমকি প্রতিহত করা যায়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/is-iran-targetting-mecca-medina-saudi-arabia-shields-sites_644116.html ",
+    "time": "2026-03-08T10:33:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "৩ হাজার পুলিশকর্মী, ১ হাজার হোমগার্ড!অ্যান্টি ড্রোন সিস্টেম, ফাইনালের নরেন্দ্র মোদি স্টেডিয়াম যেন দুর্গ!",
     "desc": "রবিবার ICC Men's T20 World Cup 2026-এর ফাইনালে ভারত বনাম নিউজিল্যান্ডের ম্যাচকে ঘিরে আহমেদাবাদে কড়া নিরাপত্তা ব্যবস্থা নেওয়া হয়েছে। কর্মকর্তাদের মতে, এই ম্যাচের জন্য ৩,০০০-এর বেশি পুলিশ কর্মী, প্রায় ১,০০০ হোমগার্ড এবং তিনটি অ্যান্টি-ড্রোন সিস্টেম মোতায়েন করা হবে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/icc-2-2026-03-2d34fd246373b7c5b5401341b6061aac-1200x800.jpg",
@@ -295,15 +313,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/from-richest-actress-to-ruin-tax-raid-found-millions-in-her-bathroom-one-lie-ended-career-rds-2572098.html",
     "time": "2026-03-06T11:29:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ইরান-ইসরায়েল-মার্কিন যুদ্ধে ভারতের কাঁচা বাজারেও ব্যাপক ধস, হুড়মুড়িয়ে কমল ডিমের দাম-- একটা পাওয়া যাচ্ছে মাত্র...",
-    "desc": "সাধারণত গ্রীষ্মকালে ডিমের চাহিদা কিছুটা কম থাকে এবং দামও সামান্য কমে, যা একটি স্বাভাবিক প্রক্রিয়া। কিন্তু বর্তমানের এই দাম কমে যাওয়াকে পোল্ট্রি মালিকরা ‘অস্বাভাবিক’ বলে অভিহিত করেছেন। যুদ্ধের কারণে সৃষ্ট এই অস্থিরতা মৌসুমী প্রভাবের চেয়েও অনেক বেশি শক্তিশালী হয়ে দাঁড়িয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/egg-prices-drop-as-iran-israel-us-war-halts-exports_643902.html ",
-    "time": "2026-03-06T11:05:59.000Z"
   },
   {
     "cat": "Politics",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/international/iran-israel-war-middle-east-news-hezbollah-has-joined-fighting-against-israel-united-states-afer-ali-khamenei-death-ss-aa-2564643.html",
     "time": "2026-03-02T06:01:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "যুদ্ধ ইরান-ইজরায়েলে হলেও, দাম বাড়তে পারে ভারতীয় বাজারে! ‘টার্গেট’ হরমুজ প্রণালী, কেন চিন্তা ভারতের?",
-    "desc": "সম্প্রতি হরমুজ প্রণালী দিয়ে যাওয়ার সময় একটি ওয়েল ট্যাঙ্কারকে টার্গেট করে বিস্ফোরণ ঘটিয়েছে ইরান৷ সেই ট্যাঙ্কারে ১৫ জন ভারতীয় নাবিক ছিলেন বলে জানা গিয়েছে৷ কালো ধোঁয়ায় ঢেকে গিয়েছে গোটা এলাকা৷ ব্যাহত হতে পারে তেল রফতানি৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/isarel-iran-conflict-1-2026-03-6b073a7a94b25d3597ef5aa254eb7972-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/israel-iran-conflict-oil-tanker-hit-in-strait-of-hormuz-near-oman-four-sailors-injured-crew-evacuated-sta-2564420.html",
-    "time": "2026-03-02T03:41:02.000Z"
   }
 ];

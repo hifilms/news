@@ -1,12 +1,210 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "convicted trio carried spare clothes to change attire",
-    "desc": "The three men used to steal clothes that are hung outside houses for drying. They would keep a shirt inside the ones they wear as a replacement for a change in the attire, in the event of committing an offence, said a police officer.",
-    "img": "https://th-i.thgim.com/public/incoming/amnttl/article70718505.ece/alternates/LANDSCAPE_1200/T.%20Kaleeswaran%20alias%20Karthik.jpeg.jpg",
+    "title": "'Why? Why? Why?' Mamata questions timing of President venue row before Bengal polls",
+    "desc": "Speaking from the central Kolkata sit-in platform, Banerjee responded to Prime Minister Narendra Modi’s criticism earlier in the day, in which he accused the TMC government of “insulting” a woman tribal leader and the President of the country. In reply, Banerjee displayed an enlarged photograph showing the Prime Minister seated beside veteran BJP leader LK Advani while the President stood nearby.",
+    "img": "https://static.toiimg.com/photo/msid-129269429,imgsize-195312.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/why-why-why-mamata-questions-timing-of-president-venue-row-before-bengal-polls/articleshow/129262543.cms",
+    "time": "2026-03-08T12:22:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay Kumar joins 'Golmaal 5' as a villain",
+    "desc": "Akshay Kumar joins 'Golmaal 5' in a dynamic 18-day cameo, sparking Tom & Jerry laughs with Ajay Devgn—their first full comedy collab. Reuniting Arshad Warsi, Sharman Joshi (after 20 yrs), Kunal Kemmu, Tusshar Kapoor. Rohit Shetty's blockbuster eyes 2027 release via Rohit Shetty Picturez.",
+    "img": "https://static.toiimg.com/photo/msid-129269578,imgsize-24202.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-joins-golmaal-5-as-a-villain-18-day-shoot-is-locked-for-hilarious-rivalry-with-ajay-devgn-reports/articleshow/129269578.cms",
+    "time": "2026-03-08T12:21:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ajay shares eerie video marking two years of 'Shaitaan'",
+    "desc": "Ajay Devgn celebrated two years of his supernatural thriller 'Shaitaan', an official remake of the Gujarati film 'Vash'. The film, which starred R. Madhavan as the antagonist, garnered significant box office success and positive fan reactions, with many praising the performances and intense storyline.",
+    "img": "https://static.toiimg.com/photo/msid-129268513,imgsize-43904.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgn-shares-eerie-video-spotting-madhavan-in-crowd-marking-two-years-of-shaitaan-fans-predict-sequel-on-the-cards/articleshow/129268413.cms",
+    "time": "2026-03-08T11:57:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika wins Best Actress award for 'The Girlfriend'; Vijay reacts",
+    "desc": "Rashmika Mandanna clinched the Best Actress award for 'The Girlfriend' at the Gaddar Awards 2025. Her husband, Vijay Deverakonda, shared his pride online. This win follows their recent wedding on February 26, 2026, and a grand reception. The couple, who previously starred in 'Geetha Govindam' and 'Dear Comrade,' will next be seen together in the period action drama 'Ranabaali'.",
+    "img": "https://static.toiimg.com/photo/msid-129268186,imgsize-41128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-wins-best-actress-award-for-the-girlfriend-vijay-deverakonda-reacts-happy-and-proud/articleshow/129268007.cms",
+    "time": "2026-03-08T11:48:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yugi reveals Kamal's record-breaking fee for Kalki 2898 AD",
+    "desc": "Yugi Sethu claims Kamal Haasan earned Rs 150 crore for 10-20 days as Supreme Yaskin in 'Kalki 2898 AD', making him India's highest-paid actor at up to $2M/day. The 2024 hit with Prabhas, Amitabh, Deepika teases his bigger sequel role. Kamal eyes Rajinikanth projects next.",
+    "img": "https://static.toiimg.com/photo/msid-129267949,imgsize-12682.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/its-usd-2-million-per-day-yugi-sethu-reveals-kamal-haasans-record-breaking-fee-for-kalki-2898-ad/articleshow/129267949.cms",
+    "time": "2026-03-08T11:43:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Hasn’t learned from his dismissals’: Gavaskar wants Abhishek dropped for final",
+    "desc": "Former captain Sunil Gavaskar proposes alterations to India's lineup for the T20 World Cup final. He suggests dropping Abhishek Sharma due to consistent batting struggles. Rinku Singh could replace him, with Ishan Kishan and Sanju Samson opening. Gavaskar also considers bringing in Kuldeep Yadav for Varun Chakravarthy, citing the latter's recent struggles and Ahmedabad's pitch conditions.",
+    "img": "https://static.toiimg.com/photo/msid-129267246,imgsize-94334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hasnt-learned-from-his-dismissals-sunil-gavaskar-wants-abhishek-sharma-dropped-for-t20-world-cup-final/articleshow/129267101.cms",
+    "time": "2026-03-08T11:26:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Second part of Budget Session all set for stormy start",
+    "desc": "The Opposition, which will be meeting on March 8 for a strategy session at Mallikarjun Kharge’s office, is hoping to press its point, at least in public discourse, as the numbers show that the motion will be defeated",
+    "img": "https://th-i.thgim.com/public/incoming/ybvjra/article70718750.ece/alternates/LANDSCAPE_1200/PTI02_13_2026_000051B.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/coimbatore-gang-rape-case-men-convicted-carried-spare-clothes-to-change-attire/article70716624.ece",
-    "time": "2026-03-08T08:58:57.000Z"
+    "url": "https://www.thehindu.com/news/national/second-part-of-budget-session-all-set-for-stormy-start/article70718707.ece",
+    "time": "2026-03-08T11:22:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s first Ring Metro: PM Modi inaugurates Majlis Park–Maujpur–Babarpur Pink Line; check stations",
+    "desc": "Prime Minister Narendra Modi inaugurated two new metro corridors in Delhi, completing India's first fully operational Ring Metro. The 12.3 km Pink Line extension and the 9.9 km Magenta Line section aim to enhance connectivity, reduce travel times, and ease congestion and pollution in the capital.",
+    "img": "https://static.toiimg.com/photo/msid-129265454,imgsize-143002.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-first-ring-metro-pm-modi-inaugurates-majlis-parkmaujpurbabarpur-pink-line-check-stations/articleshow/129265095.cms",
+    "time": "2026-03-08T10:56:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'No one better than him': James Anderson crowns Bumrah as the best bowler",
+    "desc": "Cricket legend James Anderson has lauded Jasprit Bumrah's exceptional bowling ahead of India's T20 World Cup final. Anderson described Bumrah as a \"freak\" whose unique skills, including perfect yorkers, are unmatchable. He highlighted Bumrah's crucial death bowling in the semi-final, where England's batters wisely played cautiously against him, a testament to his formidable presence on the field.",
+    "img": "https://static.toiimg.com/photo/msid-129265714,imgsize-155028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/no-one-better-than-him-james-anderson-crowns-jasprit-bumrah-as-the-best-bowler/articleshow/129265795.cms",
+    "time": "2026-03-08T10:51:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parliament’s Budget Session set to resume: What to expect as Centre–opposition showdown looms",
+    "desc": "Opposition's no-confidence motion against Lok Sabha Speaker Om Birla is set for debate, largely symbolic ahead of assembly polls. While unlikely to succeed, the move aims to project INDIA bloc unity and will likely see broader issues like US tariffs and Epstein files raised. The government is prepared to defend Birla and counter with its own points.",
+    "img": "https://static.toiimg.com/photo/msid-129265276,imgsize-846078.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/parliaments-budget-session-set-to-resume-what-to-expect-as-centreopposition-showdown-looms/articleshow/129265045.cms",
+    "time": "2026-03-08T10:44:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "R Parthiban takes a swipe at Trisha and Vijay’s public appearance",
+    "desc": "Actor-filmmaker R Parthiban has sparked a social media buzz with pointed remarks aimed at Thalapathy Vijay and Trisha Krishnan. Following their recent public appearance at a Chennai wedding reception, Parthiban suggested \"Kundavai\" (Trisha) should stay at home. The controversy deepened on International Women's Day as Parthiban seemingly countered Vijay’s dismissive comments about his personal allegations.",
+    "img": "https://static.toiimg.com/photo/msid-129264099,imgsize-272576.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/r-parthiban-takes-a-swipe-at-trisha-and-vijays-public-appearance-kundavai-should-be-kept-at-home/articleshow/129264099.cms",
+    "time": "2026-03-08T10:35:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Decoding Rajinikanth’s staggering salary hike over 50 years",
+    "desc": "Superstar Rajinikanth, a titan of Indian cinema, commands an astronomical fee, reportedly charging between Rs 125 crore and Rs 270 crore per film. His recent blockbuster 'Coolie' earned over Rs 518 crore globally, with the actor pocketing a staggering Rs 200 crore for his role. Looking ahead, exciting collaborations are on the horizon.",
+    "img": "https://static.toiimg.com/photo/msid-129263799,imgsize-136348.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/decoding-rajinikanths-staggering-salary-hike-over-50-years-amid-reports-of-rs-225-crore-fee-for-jailer-2-and-kh-x-rk/articleshow/129263799.cms",
+    "time": "2026-03-08T10:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Long live Test cricket': Alyssa Healy bids farewell",
+    "desc": "Alyssa Healy signed off from international cricket with a memorable victory as Australia women's national cricket team beat India women's national cricket team by 10 wickets in a one-off Test at WACA Ground on Sunday. Annabel Sutherland starred with a century and six wickets as Australia comfortably chased a 25-run target.",
+    "img": "https://static.toiimg.com/photo/msid-129264917,imgsize-175392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/long-live-test-cricket-alyssa-healy-bids-farewell-with-australias-10-wicket-win-over-india/articleshow/129264819.cms",
+    "time": "2026-03-08T10:28:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India diversifies oil basket as Middle East conflict drags on",
+    "desc": "Amidst escalating Middle East tensions, India is rerouting crude oil supplies to secure uninterrupted fuel imports. Refiners are increasing sourcing from the US, West Africa, and Russia, while holding planned maintenance to build reserves. This diversification aims to mitigate risks associated with the Strait of Hormuz, ensuring domestic fuel needs are met despite potential cost increases.",
+    "img": "https://static.toiimg.com/photo/msid-129264642,imgsize-490954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/hormuz-supply-shock-india-diversifies-oil-basket-as-middle-east-conflict-drags-on/articleshow/129263464.cms",
+    "time": "2026-03-08T10:24:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre seeks response from West Bengal Government",
+    "desc": "President Droupadi Murmu on March 7 expressed disappointment with the West Bengal Government for changing the venue of the International Santal Conference in Darjeeling district and not adhering to the desired protocol to receive her at the event",
+    "img": "https://th-i.thgim.com/public/incoming/an2mf1/article70718630.ece/alternates/LANDSCAPE_1200/Untitled%20design%2016.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/protocol-lapses-at-president-event-centre-seeks-response-from-west-bengal-government/article70718315.ece",
+    "time": "2026-03-08T10:08:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Samantha Ruth Prabhu's joyful tribute to her real-life inspirations",
+    "desc": "Samantha Ruth Prabhu celebrated Women’s Day 2026 with a warm tribute to the women inspiring her life, sharing joyful photos on Instagram. She also continues shooting Maa Inti Bangaram in Shivamogga, while a Holi video with castmates went viral, highlighting her work–fun balance ahead of the film’s May 15 worldwide release.",
+    "img": "https://static.toiimg.com/photo/msid-129263926,imgsize-53436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/womens-day-2026-samantha-ruth-prabhus-joyful-tribute-to-her-real-life-inspirations-most-incredible-women-i-have-/articleshow/129263926.cms",
+    "time": "2026-03-08T10:02:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I can feel pulse of the player': Rohit reveals reason behind Samson pep talk",
+    "desc": "Sanju Samson has become India's T20 World Cup 2026 hero with match-winning knocks against the West Indies and England. Captain Rohit Sharma's pre-tournament encouragement, recalling his own experiences, proved vital. Samson, who missed the 2024 edition without playing, has seized his chance, now a leading Player of the Tournament contender with exceptional form and two Player of the Match awards.",
+    "img": "https://static.toiimg.com/photo/msid-129263326,imgsize-1142801.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-can-feel-pulse-of-the-player-rohit-sharma-reveals-emotional-reason-behind-sanju-samson-pep-talk/articleshow/129263294.cms",
+    "time": "2026-03-08T09:51:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Conscious decision': Ex-Bengal governor says reasons for resignation will remain confidential till 'right time'",
+    "desc": "Speaking to reporters at the Kolkata airport, Bose told news agency PTI that he, however, would return to Bengal to cast his vote. Bose, a native of Kerala, had shifted his voting base to Bengal barely a week before tendering resignation from his office. Bose avoided a direct response when asked ​to comment on the angst expressed by President Droupadi Murmu on alleged protocol violations and tribal deprivation in the state.",
+    "img": "https://static.toiimg.com/photo/msid-129263357,imgsize-72122.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/conscious-decision-ex-bengal-governor-says-reasons-for-resignation-will-remain-confidential-till-right-time/articleshow/129261531.cms",
+    "time": "2026-03-08T09:49:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India women back men's team ahead of T20 WC final",
+    "desc": "Members of the India women's team and head coach Amol Muzumdar have sent their best wishes to the men's team ahead of the ICC Men's T20 World Cup final. Following their own recent World Cup victory, the women's team expressed their support through a video, encouraging the men to bring the trophy home.",
+    "img": "https://static.toiimg.com/photo/msid-129263293,imgsize-36472.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/from-one-world-cup-winner-to-another-india-women-back-mens-team-ahead-of-t20-world-cup-final/articleshow/129262521.cms",
+    "time": "2026-03-08T09:46:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How much oil does India have and how long will it last",
+    "desc": "India's energy security is bolstered by over 250 million barrels of oil reserves, sufficient for nearly two months. Diversified crude imports from 40 countries and a reduced reliance on the Strait of Hormuz mitigate geopolitical risks. India continues to import Russian oil, complying with G7 price caps, while domestic ethanol blending and expanded refining capacity further strengthen its energy independence.",
+    "img": "https://static.toiimg.com/photo/msid-129262463,imgsize-82306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/250-million-barrel-buffer-how-much-oil-does-india-have-and-how-long-will-it-last/articleshow/129262355.cms",
+    "time": "2026-03-08T09:36:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Arrogance of power will soon be shattered': PM Modi sharpens attack on Mamata over President Murmu's Santhal event row",
+    "desc": "Prime Minister Narendra Modi strongly criticized West Bengal Chief Minister Mamata Banerjee and the Trinamool Congress for allegedly mismanaging and boycotting an event attended by President Droupadi Murmu. Modi termed the actions an insult to the President, the Constitution, and democratic traditions, warning that the people of West Bengal would not forgive this perceived disrespect towards a tribal woman leader.",
+    "img": "https://static.toiimg.com/photo/msid-129262420,imgsize-1040786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/arrogance-of-power-will-soon-be-shattered-pm-modi-sharpens-attack-on-mamata-over-president-murmus-santhal-event-row/articleshow/129262076.cms",
+    "time": "2026-03-08T09:24:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "NZ's top wicket-taker Ravindra makes heads turn — now with his bowling",
+    "desc": "Rachin Ravindra has emerged as New Zealand national cricket team’ leading wicket-taker in the ICC Men's T20 World Cup 2026 with 11 wickets. Once dropped by Chennai Super Kings in IPL 2024, the all-rounder has impressed with his spin bowling. Coaches say his impact is similar to Yuvraj Singh’s role in the 2011 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-129262148,imgsize-94188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/new-zealands-top-wicket-taker-rachin-ravindra-makes-heads-turn-now-with-his-bowling/articleshow/129260939.cms",
+    "time": "2026-03-08T09:18:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘To sing is to bring to life’",
+    "desc": "Legendary French singer Edith Piaf believed lyrics, not just music, bring songs to life. Her powerful voice, honed by a life of struggle, conveyed raw emotion, making hits like 'La Vie en Rose' timeless. Piaf's philosophy underscores that profound lyrics, coupled with melody, create unforgettable music that resonates deeply with listeners, proving her enduring impact.",
+    "img": "https://static.toiimg.com/photo/msid-129260832,imgsize-80276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/quote-of-the-day-by-edith-piaf-to-sing-is-to-bring-to-life/articleshow/129260763.cms",
+    "time": "2026-03-08T09:12:45.000Z"
   },
   {
     "cat": "Business",
@@ -180,15 +378,6 @@ const newsData_en = [
     "time": "2026-03-08T07:05:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Aspirants’ Season 3 trailer released",
-    "desc": "The much-awaited trailer for 'Aspirants' Season 3 has finally arrived! Dive into the lives of beloved characters tackling the complexities of life after college while diligently chasing their IAS aspirations. With familiar faces alongside intriguing newcomers, this season promises dynamic stories and thought-provoking themes reflecting current societal issues.",
-    "img": "https://static.toiimg.com/photo/msid-129256823,imgsize-93938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/aspirants-season-3-trailer-dm-abhilash-faces-sandeep-bhaiyas-brahmastra-fans-react-to-the-high-stakes-rivalry/articleshow/129256823.cms",
-    "time": "2026-03-08T06:55:39.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Any disrespect to President Murmu deeply regrettable, unacceptable: Edappadi Palaniswami",
     "desc": "On March 7, President Droupadi Murmu expressed disappointment with the West Bengal government for changing the venue of the International Santal Conference in Darjeeling district and not adhering to the desired protocol to receive her at the event.",
@@ -196,15 +385,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/any-disrespect-to-president-murmu-deeply-regrettable-unacceptable-edappadi-palaniswami/article70718120.ece",
     "time": "2026-03-08T06:42:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre seeks response from West Bengal Government",
-    "desc": "President Droupadi Murmu on March 7 expressed disappointment with the West Bengal Government for changing the venue of the International Santal Conference in Darjeeling district and not adhering to the desired protocol to receive her at the event",
-    "img": "https://th-i.thgim.com/public/incoming/z1iwnc/article70718336.ece/alternates/LANDSCAPE_1200/20260307382L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/protocol-lapses-at-president-event-centre-seeks-response-from-west-bengal-government/article70718315.ece",
-    "time": "2026-03-08T06:42:14.000Z"
   },
   {
     "cat": "Entertainment",
@@ -234,15 +414,6 @@ const newsData_en = [
     "time": "2026-03-08T06:06:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Hansal Mehta lauds Radhikka's performance in 'Subedaar'",
-    "desc": "Filmmaker Hansal Mehta lauded the recently released film 'Subedaar', calling it a bold and refreshing take on mass entertainers. He particularly praised Radhikka Madan's performance as the emotionally complex daughter, stating she deserves better opportunities. Superstar Shah Rukh Khan also applauded the film and its ensemble cast.",
-    "img": "https://static.toiimg.com/photo/msid-129254941,imgsize-36838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hansal-mehta-lauds-radhikka-madans-performance-in-subedaar-says-actress-deserves-better-roles-in-indian-cinema/articleshow/129254918.cms",
-    "time": "2026-03-08T06:04:34.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Pillars of progressive nation': President Murmu, PM Modi hail 'nari shakti' on International Women's Day",
     "desc": "Prime Minister Narendra Modi and President Droupadi Murmu extended heartfelt greetings on International Women's Day, celebrating 'Nari Shakti's' pivotal role in India's progress. Both leaders lauded women's determination, creativity, and zeal, emphasizing their empowerment as central to national development and the creation of an inclusive, prosperous society where every woman can achieve her full potential.",
@@ -252,24 +423,6 @@ const newsData_en = [
     "time": "2026-03-08T05:50:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anurag heaps praise on Anil Kapoor starrer 'Subedaar'",
-    "desc": "Filmmaker Anurag Kashyap lauded the recently released film 'Subedaar' starring Anil Kapoor, expressing a strong desire for it to have been a theatrical release. Kashyap praised the film's visual style, immersive storytelling of the Bundelkhand/Chambal region, and the performances of its cast, particularly Anil Kapoor and Radhikka Madan.",
-    "img": "https://static.toiimg.com/photo/msid-129254219,imgsize-35968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-heaps-praise-on-anil-kapoor-starrer-subedaar-says-this-is-my-type-of-commercial-film/articleshow/129253790.cms",
-    "time": "2026-03-08T05:49:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Falguni Pathak expresses excitement over T20 closing ceremony performance",
-    "desc": "Renowned artist Falguni Pathak is buzzing with enthusiasm ahead of her performance at the highly anticipated ICC Men's T20 World Cup closing ceremony. After countless hours of rehearsal in anticipation of her debut at the iconic Narendra Modi Stadium, she describes the excitement as a chance to perform for a 'massive audience.",
-    "img": "https://static.toiimg.com/photo/msid-129254054,imgsize-109476.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/falguni-pathak-expresses-excitement-over-t20-closing-ceremony-performance/articleshow/129254054.cms",
-    "time": "2026-03-08T05:43:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "First cricketer in 254 years! Bowler sets jaw-dropping world record",
     "desc": "New Zealand bowler Brett Randell made history by becoming the first player in 254 years of first-class cricket to take five wickets in five consecutive deliveries. Playing for Central Districts against Northern Districts, he finished with 7/25, helping bowl out ND for 82 after CD’s 373 in the Plunket Shield match.",
@@ -277,24 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-first-cricketer-in-254-years-new-zealand-bowler-sets-jaw-dropping-world-record/articleshow/129253812.cms",
     "time": "2026-03-08T05:42:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All about the performances ahead of the T20 World Cup 2026",
-    "desc": "Prepare yourself for an unforgettable celebration at the ICC T20 World Cup 2026 closing ceremony! Taking place at the iconic Narendra Modi Stadium in Ahmedabad, pop legend Ricky Martin will light up the stage, joined by the charismatic Falguni Pathak and the dynamic Sukhbir Singh.",
-    "img": "https://static.toiimg.com/photo/msid-129253658,imgsize-138936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/t20-world-cup-2026-ricky-martin-falguni-pathak-and-sukhbir-singh-to-grace-the-ceremony-heres-all-we-know/articleshow/129253658.cms",
-    "time": "2026-03-08T05:36:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Vladimir’: How to watch the Rachel Weisz, Leo Woodall series",
-    "desc": "Rachel Weisz shines in 'Vladimir', a Netflix dark comedy-drama that follows an esteemed professor confronting her midlife disillusionment as an ambitious young novelist disrupts her world. Based on the novel by Julia May Jonas, the series cleverly examines the nuances of obsession and the subtle power struggles within academia.",
-    "img": "https://static.toiimg.com/photo/msid-129252472,imgsize-96162.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/vladimir-on-ott-what-the-rachel-weisz-leo-woodall-starrer-dark-comedy-drama-is-about-and-how-to-watch-it/articleshow/129252416.cms",
-    "time": "2026-03-08T04:59:44.000Z"
   },
   {
     "cat": "Sports",
@@ -432,15 +567,6 @@ const newsData_en = [
     "time": "2026-03-08T01:50:23.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Just in the dark': De Kock slams ICC as England leave but SA, WI remain stuck",
-    "desc": "Quinton de Kock slammed the ICC over perceived preferential treatment for England's departure from the T20 World Cup. While England is set to fly home soon after their semi-final exit, South Africa and West Indies, eliminated earlier, remain stranded in India awaiting charter flights. This has sparked accusations of unequal influence among cricket nations.",
-    "img": "https://static.toiimg.com/photo/msid-129225146,imgsize-99968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/just-in-the-dark-quinton-de-kock-slams-icc-as-england-leave-but-sa-wi-remain-stuck/articleshow/129225250.cms",
-    "time": "2026-03-08T01:30:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "How Army trailblazers inspired generations of women officers",
     "desc": "Two women, Lt Col Randhawa (retd) and Major Jhingan (retd), shattered military barriers. Randhawa became India's first war widow officer after her husband's sacrifice, while Jhingan was Lady Cadet 001, paving the way for women in the armed forces. Their journeys inspire countless others to serve the nation.",
@@ -486,15 +612,6 @@ const newsData_en = [
     "time": "2026-03-08T00:54:42.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Gambhir fought everyone': Shoaib Akhtar's stunning reveal on Samson's comeback",
-    "desc": "Former Pakistan bowler Shoaib Akhtar commends India coach Gautam Gambhir. Gambhir strongly advocated for Sanju Samson's inclusion in the T20 World Cup squad. Samson has since delivered exceptional performances. His batting has been a major highlight of the tournament. He has scored significantly and broken records. This has helped India reach the final.",
-    "img": "https://static.toiimg.com/photo/msid-129208329,imgsize-144002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/gautam-gambhir-fought-everyone-shoaib-akhtars-stunning-reveal-on-sanju-samsons-comeback/articleshow/129208329.cms",
-    "time": "2026-03-08T00:30:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Census-style' 45-day assessment signals early learning turnaround in Haryana schools",
     "desc": "Haryana's government schools have achieved a remarkable turnaround in foundational learning, with high-performing schools surging from 7% to 53% in just three months. A statewide diagnostic assessment and targeted 45-day remediation drive, focusing on literacy and numeracy, significantly boosted student competencies across nearly 8,600 primary schools.",
@@ -502,60 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/census-style-45-day-assessment-signals-early-learning-turnaround-in-haryana-schools/articleshow/129241944.cms",
     "time": "2026-03-07T23:39:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Top legal experts split on social media ban for kids",
-    "desc": "Legal experts question the effectiveness of state-level bans on social media for children, citing central government jurisdiction over IT and telecommunications. While appreciating the intent to protect young minds, they advocate for education on constructive usage and pan-India legislation rather than fragmented state laws.",
-    "img": "https://static.toiimg.com/photo/msid-129241704,imgsize-26834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/top-legal-experts-split-on-social-media-ban-for-kids/articleshow/129241461.cms",
-    "time": "2026-03-07T23:24:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Experts",
-    "desc": "India's decision to withdraw its updated seismic zonation map and earthquake design code has alarmed experts, who fear it weakens national preparedness for major seismic events. The revised framework, which placed the entire Himalayan arc in the highest risk zone, was seen as a crucial step in enhancing disaster resilience and ensuring safer construction practices against devastating earthquakes.",
-    "img": "https://static.toiimg.com/photo/msid-129241546,imgsize-131599.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/seismic-map-rollback-hits-quake-readiness-experts/articleshow/129241265.cms",
-    "time": "2026-03-07T23:17:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Dera Sacha Sauda chief Gurmeet Ram Rahim acquitted in journalist murder case",
-    "desc": "Punjab and Haryana High Court acquitted Dera Sacha Sauda chief Gurmeet Ram Rahim in the 2002 murder of journalist Ram Chander Chhatrapati, overturning a life sentence. Ram Rahim remains jailed for rape convictions, and his family plans to challenge the acquittal in the Supreme Court.",
-    "img": "https://static.toiimg.com/photo/msid-129240998,imgsize-36726.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dera-sacha-sauda-chief-gurmeet-ram-rahim-acquitted-in-journalist-murder-case/articleshow/129240871.cms",
-    "time": "2026-03-07T23:04:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "US calling India 'good actor' is evidence of PM Modi's cowardice",
-    "desc": "Congress criticizes the Modi government, calling Prime Minister Modi's actions \"cowardly\" after the US Treasury Secretary praised India for agreeing to halt Russian oil imports. The party also attacked the government over rising LPG prices, highlighting a contradiction with the Petroleum Minister's earlier statement on affordable fuel.",
-    "img": "https://static.toiimg.com/photo/msid-129240806,imgsize-38380.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-us-calling-india-good-actor-is-evidence-of-pm-modis-cowardice/articleshow/129240730.cms",
-    "time": "2026-03-07T22:59:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Government takes steps to train 85,000 chip designers in 315 institutions",
-    "desc": "India's Chips to Startups programme is training engineers in semiconductor design. Students from 315 institutions are gaining hands-on experience. The government plans to expand this initiative to 500 institutions. This aims to build a strong talent pipeline for the growing global semiconductor industry. The programme is part of India's larger semiconductor mission.",
-    "img": "https://static.toiimg.com/photo/msid-129240583,imgsize-28070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/government-takes-steps-to-train-85000-chip-designers-in-315-institutions/articleshow/129240538.cms",
-    "time": "2026-03-07T22:52:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mamata calls for protests, Sidda seeks PM Modi's ouster",
-    "desc": "Opposition-ruled states are fiercely criticizing the central government over surging LPG prices. West Bengal's Chief Minister urged women to protest on Women's Day against the hike and voter list deletions. Karnataka's CM blamed PM Modi's foreign policy for the price rise, demanding his resignation. Jharkhand's JMM spokesperson pointed to strained ties with Russia as a contributing factor.",
-    "img": "https://static.toiimg.com/photo/msid-129240482,imgsize-133068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/lpg-price-hike-mamata-calls-for-protests-sidda-seeks-pm-modis-ouster/articleshow/129240086.cms",
-    "time": "2026-03-07T22:40:29.000Z"
   },
   {
     "cat": "Business",
@@ -675,60 +738,6 @@ const newsData_en = [
     "time": "2026-03-07T16:29:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Lakshya Sen scripts history with second All England final appearance",
-    "desc": "Lakshya Sen has reached the All England Open Badminton Championships final. He defeated Victor Lai in a tough semifinal. This marks his second appearance in the title match. Sen battled through pain to secure the win. He joins Prakash Padukone as the only Indian to achieve this feat twice. Sen will now face Lin Chun-Yi in the final.",
-    "img": "https://static.toiimg.com/photo/msid-129223914,imgsize-69968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/lakshya-sen-scripts-history-with-second-all-england-final-appearance/articleshow/129223987.cms",
-    "time": "2026-03-07T16:19:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Normalcy returns to Kashmir after six days; DGP says sustained pressure put on anti-national elements",
-    "desc": "Concertina wires placed on roads and interior lanes in parts of Srinagar city, Budgam and Baramulla were also removed, allowing vehicular traffic to ply smoothly on the roads; locals said internet speed, which was reduced to 2G service, and prepaid mobile calling were also restored",
-    "img": "https://th-i.thgim.com/public/incoming/qmld5x/article70716645.ece/alternates/LANDSCAPE_1200/PTI03_07_2026_000258B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/normalcy-returns-to-kashmir-after-six-days-dgp-says-sustained-pressure-put-on-anti-national-elements/article70716244.ece",
-    "time": "2026-03-07T16:00:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England leave, WI and SA stuck in India; Former captain slams ICC over unequal treatment",
-    "desc": "Michael Vaughan has criticized the ICC's unequal treatment of teams exiting the T20 World Cup, highlighting England's swift charter flight home while West Indies and South Africa remain stranded in Kolkata. He argued that a team's influence at the ICC should not dictate their post-elimination travel arrangements, emphasizing fair treatment for all.",
-    "img": "https://static.toiimg.com/photo/msid-129220375,imgsize-1329956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/england-leave-wi-and-sa-stuck-in-india-former-captain-slams-icc-over-unequal-treatment/articleshow/129220288.cms",
-    "time": "2026-03-07T14:58:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I make no apologies': McCullum issues defiant message after England’s SF loss",
-    "desc": "Despite England's T20 World Cup semi-final exit, head coach Brendon McCullum remains confident in his team's white-ball setup, emphasizing a nurturing environment for talent. He dismissed notions of a casual operation, stating their informal approach fosters freedom for players to execute skills. McCullum also lauded captain Harry Brook's significant growth and the emerging identity of the team under his leadership.",
-    "img": "https://static.toiimg.com/photo/msid-129219759,imgsize-110750.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-make-no-apologies-brendon-mccullum-issues-defiant-message-after-englands-semi-final-loss/articleshow/129219775.cms",
-    "time": "2026-03-07T14:39:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Sab same line chipka rahe hain': SKY shrugs off Santner's 'silence the crowd' remark",
-    "desc": "Suryakumar Yadav playfully dismissed Mitchell Santner's pre-final vow to silence the Ahmedabad crowd, calling such remarks a tired cliché. He emphasized the positive dressing room atmosphere as India, the defending champions, prepare to face New Zealand in Sunday's T20 World Cup final, aiming to lift the trophy on home soil.",
-    "img": "https://static.toiimg.com/photo/msid-129217744,imgsize-57486.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sab-same-line-chipka-rahe-hain-suryakumar-yadav-shrugs-off-mitchell-santners-silence-the-crowd-remark/articleshow/129217714.cms",
-    "time": "2026-03-07T13:54:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Don’t be surprised if…': Clarke's bold prediction for Bumrah in final",
-    "desc": "Michael Clarke has lauded Jasprit Bumrah as the most crucial bowler in world cricket ahead of the T20 World Cup 2026 final. The former Australian captain believes Bumrah's ability to execute under pressure makes him a dominant match-winner, capable of deciding the title clash and earning Player of the Match honors.",
-    "img": "https://static.toiimg.com/photo/msid-129216347,imgsize-87432.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/dont-be-surprised-if-michael-clarkes-bold-prediction-for-jasprit-bumrah-in-final/articleshow/129216322.cms",
-    "time": "2026-03-07T13:21:07.000Z"
-  },
-  {
     "cat": "World",
     "title": "Donald Trump vows ‘Iran will be hit very hard’",
     "desc": "Iran is ‘the loser of the Middle East,’ and will be for many decades until they surrender or, more likely, completely collapse! Mr. Trump said after Iranian President ​Masoud Pezeshkian earlier apologised to Iran’s Gulf neighbours",
@@ -738,24 +747,6 @@ const newsData_en = [
     "time": "2026-03-07T13:14:50.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'If he gets going': Ex-player names NZ star who could spoil India's T20 WC dream",
-    "desc": "India faces New Zealand in the ICC Men's T20 World Cup final at Ahmedabad. Despite India's recent series win, former Australian players Brad Haddin and Nathan Lyon back New Zealand. They highlight opener Finn Allen's potential threat and captain Mitchell Santner's bowling prowess as key factors for the Black Caps, who they believe don't fear playing in India.",
-    "img": "https://static.toiimg.com/photo/msid-129209479,imgsize-51298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-final-if-he-gets-going-india-are-in-trouble-ex-cricketer-names-nz-star-who-could-spoil-indias-dream/articleshow/129209263.cms",
-    "time": "2026-03-07T11:28:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Our goal is to silence the crowd': NZ captain Santner ahead of T20 WC final",
-    "desc": "New Zealand, the good boys of cricket, are ready to take the big boys, India, on in their own backyard at the Narendra Modi Stadium in Ahmedabad. The crowd, noise and burden of expectations will be a challenge, and Kiwis are ready to embrace it.",
-    "img": "https://static.toiimg.com/photo/msid-129209871,imgsize-94412.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pressure-on-india-to-win-t20-world-cup-at-home-our-goal-is-to-silence-the-crowd-mitchell-santner/articleshow/129209577.cms",
-    "time": "2026-03-07T10:52:02.000Z"
-  },
-  {
     "cat": "World",
     "title": "Bangladesh voted against radical Islamists; has hopes for Tarique Rahman: Taslima Nasrin",
     "desc": "The BNP, led by Tarique Rahman, won a decisive mandate in February 2026, winning 209 of the 298 seats; its allies picked up another three seats, giving the block a clear majority in the 299-member Jatiya Sansad",
@@ -763,15 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladesh-voted-against-radical-islamists-has-hopes-for-tarique-rahman-taslima-nasrin/article70715351.ece",
     "time": "2026-03-07T10:11:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US-Israel conflict with Iran: Is India exploring alternative energy options amid crisis?",
-    "desc": "Amidst Middle East geopolitical tensions, India is bolstering energy security by exploring alternative sources, with Australia and Canada offering additional gas supplies. The nation's diversified import routes, with only 40% of crude passing through the Strait of Hormuz, ensure stable energy availability despite disruptions.",
-    "img": "https://static.toiimg.com/photo/msid-129207586,imgsize-39158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-israel-conflict-with-iran-is-india-exploring-alternative-energy-options-amid-crisis/articleshow/129205999.cms",
-    "time": "2026-03-07T09:06:40.000Z"
   },
   {
     "cat": "Sports",
@@ -790,15 +772,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-trailer-release-watch-these-7-ranveer-singh-movies-on-netflix-before-the-sequel-hits-the-theatre/photostory/129200090.cms",
     "time": "2026-03-07T07:23:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How Iran war is driving sharp rise in oil and gas prices",
-    "desc": "Global oil prices have surged dramatically this week. The ongoing conflict involving Iran has intensified, raising fears of prolonged energy supply disruptions from the Middle East. Key energy routes and facilities are disrupted. This has pushed oil and gas prices higher across global markets. Consumers and businesses are facing rising fuel costs.",
-    "img": "https://static.toiimg.com/photo/msid-129205301,imgsize-73862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/explained-how-iran-war-is-driving-sharp-rise-in-oil-and-gas-prices/articleshow/129198241.cms",
-    "time": "2026-03-07T05:53:15.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/high-war-risk-premiums-for-airline-insurance-to-push-up-airfares/article70711883.ece",
     "time": "2026-03-06T15:00:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Sri Lanka evacuates 208 crew from second Iranian ship",
+    "desc": "Sri Lanka is evacuating 208 crew members from an Iranian naval ship — IRINS Bushehr — stranded near its territorial waters, President Anura Kumara Dissanayake said on March 5, 2026, a day after a U.S. submarine torpedoed another Iranian warship off Sri Lanka’s southern coast, killing at least 84 sailors and widening the war in West Asia into the Indian Ocean region.",
+    "img": "https://th-i.thgim.com/public/incoming/1hb6tl/article70712073.ece/alternates/LANDSCAPE_1200/sri%20lanka%20ship.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-sri-lanka-evacuates-208-crew-from-second-iranian-ship/article70712076.ece",
+    "time": "2026-03-06T13:12:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Hello Bachhon’ series review: Viineet Kumar Siingh’s earnesty gets diffused in TVF’s factory-made snoozefest",
+    "desc": "With a simplistic understanding of the world that extends even to its laid-back aesthetics, the show ends up feeling more like a mouthpiece of Physics Wallah, as it merely registers the journey of the ed-tech giant from a broad perspective",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/xmox3e/article70711018.ece/alternates/LANDSCAPE_1200/Vineet.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/hello-bachhon-series-review-viineet-kumar-siinghs-earnesty-gets-diffused-in-tvfs-factory-made-snoozefest/article70711007.ece",
+    "time": "2026-03-06T10:14:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "South Korea, U.S. militaries discuss moving Patriot missiles to Iran war, Seoul says",
+    "desc": "Cho Hyun was responding to ‌questions at a Parliamentary hearing following media reports on March 6 that units ‌of the U.S. mobile missile interceptor system ‌had ⁠been moved to the Osan Air ⁠Base in South Korea from other locations in the country",
+    "img": "https://th-i.thgim.com/public/incoming/zekjps/article70710877.ece/alternates/LANDSCAPE_1200/2026-02-03T194028Z_1782577177_RC2IEJAFQU66_RTRMADP_3_USA-SOUTHKOREA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/south-korea-us-militaries-discuss-moving-patriot-missiles-to-iran-war-seoul-says/article70710861.ece",
+    "time": "2026-03-06T09:25:34.000Z"
   }
 ];

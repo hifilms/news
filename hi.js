@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rohit Sharma explains psyche behind viral pep-talk to Sanju Samson before India's opening T20 World Cup game",
+    "desc": "After flopping with the bat during the five-match series against New Zealand, India dropped Sanju Samson from the playing XI in their T20 World Cup opener against the USA. Former captain Rohit Sharma, who was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-explains-psyche-behind-viral-pep-talk-to-sanju-samson-before-india-s-opening-t20-world-cup-game-2026-03-08-1033060",
+    "time": "2026-03-08T12:10:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Prithvi Shaw gets engaged to long time girlfriend Akriti Agarwal, 'She's my perfect innings'",
+    "desc": "Indian cricketer Prithvi Shaw got engaged to long-time partner Akriti Agarwal today. The couple shared the delightful news with their fans on their social media handles and also posted pictures from their engagement ceremony. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/prithvi-shaw-gets-engaged-to-long-time-girlfriend-akriti-agarwal-she-s-my-perfect-innings-2026-03-08-1033055",
+    "time": "2026-03-08T11:33:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "History suggests why toss would be extremely critical in T20 World Cup final",
+    "desc": "India and New Zealand will face each other today for the first time in the final of the T20 World Cup at the Narendra Modi Stadium in Ahmedabad. The toss will be extremely critical given...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-history-suggests-why-toss-would-be-extremely-critical-in-t20-world-cup-final-2026-03-08-1033053",
+    "time": "2026-03-08T11:12:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How has India's star spinner fared against Black Caps ahead of T20 WC final?",
     "desc": "India and New Zealand take on each other in the final of the ongoing T20 World Cup 2026. The two sides will face off at the Narendra Modi Stadium in Ahmedabad on March 8. With...",
     "img": "",
@@ -52,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ahmedabad-weather-report-will-rain-spoil-ind-vs-nz-t20-world-cup-2026-final-2026-03-08-1033012",
     "time": "2026-03-08T03:50:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head to Head record between India and New Zealand ahead of T20 World Cup final",
-    "desc": "India and New Zealand are all set to take on each other in the summit clash of the ongoing T20 World Cup 2026. The two sides will lock horns at the Narendra Modi Stadium in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-head-to-head-record-between-india-and-new-zealand-ahead-of-t20-world-cup-final-2026-03-08-1033001",
-    "time": "2026-03-08T02:32:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch T20 World Cup 2026 final live on TV and online?",
-    "desc": "The stage is set for the summit clash of the ongoing T20 World Cup 2026. The final of the tournament sees India taking on New Zealand at the Narendra Modi Stadium in Ahmedabad on March...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-when-and-where-to-watch-t20-world-cup-2026-final-live-on-tv-and-online-2026-03-08-1032998",
-    "time": "2026-03-08T01:41:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Full history of Champions and runners-up (2007-2026)",
-    "desc": "Will India be the third-time champions in the T20 format, or will New Zealand become the seventh country to win the T20 World Cup? We will get all the answers on Sunday evening as India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-winners-list-full-history-of-champions-and-runners-up-2007-2026-2026-03-07-1032990",
-    "time": "2026-03-07T18:03:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Narendra Modi Stadium in Ahmedabad play for the T20 WC final?",
-    "desc": "The T20 World Cup final between India and New Zealand is less than 24 hours away and the intrigue around the pitch is increasing with every minute. With India not doing well at the venue...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-for-the-t20-world-cup-final-2026-03-07-1032988",
-    "time": "2026-03-07T17:15:29.000Z"
   }
 ];
