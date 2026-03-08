@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "T20 વર્લ્ડ કપની ફાઈનલને લઈને સટ્ટા બજાર ગરમ, જાણો શું ચાલી રહ્યો છે બંને ટીમોનો ભાવ",
+    "desc": "અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમ ખાતે આજે T20 વર્લ્ડ કપ 2026ની ફાઈનલ ભારત અને ન્યુઝીલેન્ડ વચ્ચે રમાનાર છે. ફાઇનલને લઈને ફેન્સમાં ઉત્સાહ તો છે જ પણ બુકી બજાર પણ ગરમ જોવા મળી રહ્યું છે. બુકીઓના હિસાબ પ્રમાણે ટીમ ઈન્ડિયા હોટ ફેવરિટ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-final-ind-vs-nz-india-favorite-betting-market-467623 ",
+    "time": "2026-03-08T06:16:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેટ્રોલ અને ડીઝલના ભાવ વધારા પર મોદી સરકારનું પહેલું નિવેદન, તેલ કંપનીઓને આપ્યો આ મહત્વપૂર્ણ આદેશ, જાણો",
+    "desc": "ગેસ સિલિન્ડર બાદ, પેટ્રોલ અને ડીઝલના ભાવ વધારાની ચર્ચા ચાલી રહી છે, જેના પર કેન્દ્ર સરકારે હવે સ્પષ્ટતા કરી છે. કેન્દ્ર સરકારે તેલના ભાવ અંગે પોતાની યોજનાઓ વિશે જાણકારી આપી છે અને તેલ કંપનીઓને નિર્દેશ જાહેર કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/modi-governments-first-statement-on-petrol-and-diesel-price-hike-this-important-order-given-to-oil-companies-know-467624 ",
+    "time": "2026-03-08T06:14:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "સ્મૃતિથી લઈને હરમનપ્રીત સુધી... નાના શહેરની દીકરીઓ કેવી રીતે બની ક્રિકેટ સ્ટાર",
+    "desc": "મહિલા દિવસ નિમિત્તે ભારતીય મહિલા ક્રિકેટરો વિશે વાત કરીએ તો સ્મૃતિ મંધાના, હરમનપ્રીત કૌર, શેફાલી વર્મા અને ઝુલન ગોસ્વામી જેવી ખેલાડીઓ નાના શહેરોમાંથી આંતરરાષ્ટ્રીય ક્રિકેટમાં ચમકી છે. આજે આ ખેલાડીઓ દેશભરની લાખો છોકરીઓ માટે પ્રેરણા બની છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/womens-day-2026-small-town-indian-women-cricketers-success-story-467618 ",
+    "time": "2026-03-08T05:28:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મહિલાઓ માટે રોકાણની શાનદાર યોજના, થોડા-થોડા પૈસા બચાવી મળશે મોટો લાભ!",
+    "desc": "મહિલા દિવસ 2026 પર જાણો મહિલાઓ માટે સૌથી શાનદાર બચત યોજનાઓ વિશે. આજે દરેક મહિલાઓએ આર્થિક રૂપથી મજબૂત થવું જરૂરી છે. સુકન્યા યોજના, પીપીએફ, સ્પેશિયલ એફડી અને SIP જેવી શાનદાર સ્કીમમાં થોડા પૈસા લગાવી મોટી કમાણી કરી શકાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/womens-day-2026-best-investment-and-saving-schemes-for-women-467617 ",
+    "time": "2026-03-08T05:11:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "અમદાવાદમાં T20 વર્લ્ડ કપ ફાઇનલ પહેલા યોજાશે ક્લોઝિંગ સેરેમની... આ સ્ટાર્સ કરશે પરફોર્મ",
     "desc": "T20 વર્લ્ડ કપની ફાઇનલ મેચ પહેલા અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં ક્લોઝિંગ સેરેમની યોજાશે. આ ટી20 વર્લ્ડ કપની 10મી સિઝન છે. જો ભારતીય ટીમ ફાઇનલ મેચ જીતી જાય છે, તો તે ત્રણ વખત ટી20 વર્લ્ડ કપ જીતનાર પ્રથમ ટીમ બનશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -279,24 +315,6 @@ const newsData_gu = [
     "time": "2026-03-07T02:17:57.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ટીમ ઈન્ડિયા માટે &amp;#039;નાસૂર&amp;#039; બન્યા આ 3 ખેલાડી! ફાઈનલમાં કિવીઓ સામે ગરબા ઘરે લાવી દેશે? જાણો કોણ છે બેસ્ટ ઓપ્શન",
-    "desc": "ટીમ ઈન્ડિયાએ ટી 20 વિશ્વકપમાં ફાયનલમાં પોતાની જગ્યા બનાવી લીધી છે. ભારતીય ટીમે ગુરૂવારે બીજી સેમીફાયનલમાં ઈગ્લેન્ડને 7 રનથી હરાવ્યું હતું. ભારતીય ટીમે આ ચોથીવાર અને સતત બીજીવાર ફાયનલની ટીકિટ મેળવી છે પણ ટીમની ભલાઈ માટે નાસૂર બનેલા આ 3 ખેલાડીઓને બદલવા ટીમ માટે અતિ જરૂરી બની ગયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-india-vs-new-zealand-final-3-cricketers-poor-form-big-headache-for-team-india-467448 ",
-    "time": "2026-03-06T16:36:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આ ભારતીય ખેલાડીએ T20 માં ફટકારી હતી ત્રેવડી સદી, પિતા ચલાવતા હતા ટેમ્પો, જાણો છો તેના વિશે?",
-    "desc": "ટી20 વર્લ્ડ કપ 2026 ચાલુ છે. રવિવારે ન્યૂઝીલેન્ડ અને ભારત વચ્ચે ફાઈનલ રમાશે. સેમી ફાઈનલમાં ઈંગ્લેન્ડના ખેલાડીની સદીની ખુબ ચર્ચા થઈ પરંતુ શું તમને ખબર છે કે એક ભારતીય ખેલાડીએ ટી20 વર્લ્ડ કપમાં ત્રેવડી સદી ફટકારેલી છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-cricket-unique-records-do-you-know-about-mohit-ahlawat-who-smashed-triple-century-in-t20-467446 ",
-    "time": "2026-03-06T16:33:15.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઈરાન જંગમાં હવે રશિયાની સીધી એન્ટ્રી! ડ્રોન અને બેલેસ્ટિક મિસાઈલો એમ જ કઈ નથી કરી રહ્યા અમેરિકી બેઝને ટાર્ગેટ",
     "desc": "ઈરાન પર ઈઝરાયેલ અને અમેરિકાએ શરૂ કરેલા યુદ્ધનો આજે સાતમો દિવસ છે. આ વચ્ચે અમેરિકન રક્ષામંત્રાલય અને ખૂફિયા એજન્સીઓએ રાષ્ટ્રપતિ ટ્રમ્પને એવી વિગતો આપી છે કે ટ્રમ્પ ધૂઆપૂઆં થઈ ગયા છે. ઈરાન પર જીતના દાવા કરતાં ટ્રમ્પને એવી તો શું ખબર પડી છે કે આખી ગેમ બદલાઈ શકે છે. તો જાણી લો શું છે આ વિગતો......",
@@ -367,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/how-iran-and-israel-became-allies-to-archenemies-explainer-467421 ",
     "time": "2026-03-06T10:30:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ચક્રવર્તીનું ફોર્મ ભારત માટે ચિંતાનો વિષય, સાથી ક્રિકેટર આપ્યું નિવેદન",
-    "desc": "છેલ્લી કેટલીક મેચોમાં વરુણ ચક્રવર્તીનું નબળું પ્રદર્શન તેની રહસ્યમય બોલિંગનું રહસ્ય ઉકેલી રહ્યું હોય તેવું લાગે છે, પરંતુ તેના સાથી ખેલાડીઓ હજુ પણ લેગ-સ્પિનરને પોતાની ટીમનો ટ્રમ્પ કાર્ડ માને છે. જો ટીમ મેનેજમેન્ટ રવિવારે ન્યુઝીલેન્ડ સામે T20 વર્લ્ડ કપ ફાઇનલમાં વિશ્વના ટોચના બોલરને જાળવી રાખવાનો નિર્ણય લે છે, તો તે ભારતનો નબળી કડી સાબિત થઈ શકે છે. ટુર્નામેન્ટના સુપર આઠ તબક્કાથી તેના ફોર્મમાં સતત ઘટાડો અવગણી શકાય નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/chakraborty-form-is-a-matter-of-concern-for-india-fellow-cricketer-gives-statement-467419 ",
-    "time": "2026-03-06T09:49:55.000Z"
   },
   {
     "cat": "Business",
@@ -565,24 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/you-spent-a-few-days-with-modi-what-kind-of-person-did-he-seem-to-be-canadian-pm-gave-a-strange-answer-know-467256 ",
     "time": "2026-03-05T05:35:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "લેવલ-5, બેઝિક પે ₹29,200, ગ્રોસ સેલેરી ₹54,384, નવા ફિટમેન્ટ બાદ મળશે ₹75,383, જુઓ ગણતરી",
-    "desc": "પે-લેવલ 5ના કર્મચારીનો બેઝિક પે 29200 રૂપિયાથી વધી ₹56,064 થઈ શકે છે. DAના બેઝિકમાં મર્જ થવા અને HRA-TA ના દરોમાં ફેરફાર બાદ માસિક ગ્રોસ સેલેરી 54000થી વધી 75000 પર પહોંચી શકે છે, જે લગભગ 21000નો વધારો થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-level-5-basic-pay-gross-salary-fitment-factor-467242 ",
-    "time": "2026-03-05T03:54:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "50 વર્ષની ઉંમરે નોકરી છોડી શરૂ કર્યું સ્ટાર્ટઅપ, 10 વર્ષમાં બનાવી દીધી યુનિકોર્ન કંપની, આ ગુજરાતી મહિલાને દુનિયા કરે છે સલામ",
-    "desc": "ફાલ્ગુની નાયર એક સેલ્ફ-મેડ અબજોપતિ છે. જેમણે પોતાના સપનાની શરૂઆત કરવા માટે એક મોટી નોકરી છોડી દીધી. કોટક મહિન્દ્રા બેંકમાં સારા પગારની નોકરી છોડી તેમણે પોતાના બિઝનેસની શરૂઆત કરી અને તેને એક સફળ યુનિકોર્ન કંપની બનાવી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/meet-woman-who-began-her-startup-journey-at-50-today-she-s-one-of-india-s-richest-self-made-women-467162 ",
-    "time": "2026-03-05T02:30:03.000Z"
   },
   {
     "cat": "Politics",

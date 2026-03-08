@@ -280,24 +280,6 @@ const newsData_bn = [
   },
   {
     "cat": "World",
-    "title": "বাহরাইনের সর্ববৃহত্‍ তেল শোধনাগার BAPCO-য় মিসাইল হামলা, হু হু করে বাড়ছে তেলের দাম...",
-    "desc": "বাহরাইনের মামির (Ma’ameer) শিল্পাঞ্চলে ড্রোন ও ব্যালিস্টিক মিসাইল হামলা চালানো হয়েছে। এর জেরেই বাহরাইন পেট্রোলিয়াম কোম্পানির (BAPCO) সিতরা রিফাইনারিতে ভয়াবহ অগ্নিকাণ্ড ঘটে। বাহরাইন যদিও সৌদি আরব বা আমিরশাহীর তুলনায় ছোট তেল উৎপাদক, তবুও আন্তর্জাতিক বাজারে ডিজেল রপ্তানিতে তাদের ভূমিকা অনস্বীকার্য।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/bahrain-oil-refinery-attack-bapco-sitra-diesel-prices-spike_643897.html ",
-    "time": "2026-03-06T09:29:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel-US war: অর্থব্যবস্থা ভেঙে পড়েছে, তবুও আমেরিকার চোখে চোখ রেখে কোন জাদুতে যুদ্ধ চালাচ্ছে ইরান? জানলে...",
-    "desc": "দেশের নিজস্ব অর্থব্যবস্থা প্রায় ভেঙে পড়েছে, তবুও আমেরিকার চোখে চোখ রেখে কোন জাদুতে যুদ্ধ চালিয়ে যাচ্ছে ইরান? ইরানের এই নিরন্তর ক্ষেপণাস্ত্র হামলার গোপন রহস্য 'বিটকয়েন'! যুদ্ধের বাজারেও ইরানের সামরিক তহবিল ফুরিয়ে না যাওয়ার প্রধান কারণ এই ডিজিটাল সম্পদ।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/using-bitcoin-iran-running-war-against-israelus_643891.html ",
-    "time": "2026-03-06T08:57:09.000Z"
-  },
-  {
-    "cat": "World",
     "title": "ইরানের বিরুদ্ধে যুদ্ধ চালাতে প্রতি দিন কত খরচ হচ্ছে আমেরিকার? সবমিলিয়ে হিসাব শুনলে ভিরমি খাবেন",
     "desc": "প্রায় এক সপ্তাহ ধরে জ্বলছে মধ্য-প্রাচ্য। আমেরিকা-ইজরায়েল বনাম ইরানের যুদ্ধে অশান্ত গোটা পশ্চিম এশিয়া। ইরানের বুকে এখনও পর্যন্ত ২০০০-এর বেশি হামলা চালানো হয়েছে বলে দাবি করেছে আমেরিকা। সাবমেরিন-সহ ইরানের ১৭টি জাহাজ ডুবিয়ে দেওয়া হয়েছে বলে দাবি করেছে আমেরিকা।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-06-at-2.20.48-PM-2026-03-a04a45a4bdf9677b50a14de110052b4f-1200x800.jpeg",
@@ -898,5 +880,23 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-1st-2nd-3rd-march-heavy-rainfall-alert-in-6-states-thunderstorm-lightning-to-hit-12-states-for-next-3-days-know-latest-west-bengal-weather-sanj-2564020.html",
     "time": "2026-03-01T17:42:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Subhashree Ganguly Father's Reaction: \"আমার নাতি বড্ড ভীতু\", চিন্তায় শুভশ্রীর বাবা! ফোনে কী কথা হল? বোমাবর্ষণের মাঝে দুবাইয়ে ছেলেকে নিয়ে আটকে শুভশ্রী",
+    "desc": "আগামী ৫ তারিখ দেশে ফেরার টিকিট থাকলেও বর্তমান পরিস্থিতিতে এতদিন সেখানে থাকা সম্ভব হবে কি না তা নিয়ে অনিশ্চয়তা তৈরি হয়েছে। তিনি আরও বলেন, আমার নাতি একটু ভীতু প্রকৃতির তাই চুপচাপ হয়ে গেছে এই সব দেখে। রাত্রে বেলায় আবার ফোন করে কথা বলার চেষ্টা করব।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-01-at-10.08.53-PM-2026-03-20b6df4c78f2125100344abee6641f41-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/actress-subhashree-ganguly-stuck-in-dubai-with-son-her-father-panics-says-his-grandson-is-bit-worried-l18-pbd-local18-2563987.html",
+    "time": "2026-03-01T17:11:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "শোলে-এর পঞ্চাশে বিশেষ ক্যালেন্ডার প্রকাশ, জয়-বীরু এর ভূমিকায় সিধু-পটা জুটির উপস্থিতি",
+    "desc": "দ্যা ড্রিমার্স মিউজিক পিআর এজেন্সির উদ্যোগে , সেরাম গ্রুপ এর নিবেদনে প্রকাশ পেল \"শোলে পঞ্চাশ\" বিশেষ ক্যালেন্ডার। চমক ছিল এর প্রকাশ অনুষ্ঠানে। শোলের দুই মুখ্য চরিত্র জয়-বীরু হিসেবে উপস্থিত ছিলেন বাংলা রক ব্যান্ড ক্যাকটাস এর সিধু-পটা জুটি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Sholay-Calender-2026-03-23a861c1529d16e9eceb299071f120c0-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/50-years-of-bollywood-cult-movie-sholay-new-calendar-release-sidhu-and-pota-of-cactus-in-role-of-jai-veeru-pbd-2563909.html",
+    "time": "2026-03-01T14:33:46.000Z"
   }
 ];

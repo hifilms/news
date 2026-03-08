@@ -1,6 +1,150 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Centre seeks response from West Bengal government",
+    "desc": "President Droupadi Murmu on Saturday (March 7, 2026) expressed disappointment with the West Bengal government for changing the venue of the International Santal Conference in Darjeeling district and not adhering to the desired protocol to receive her at the event",
+    "img": "https://th-i.thgim.com/public/incoming/z1iwnc/article70718336.ece/alternates/LANDSCAPE_1200/20260307382L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/protocol-lapses-at-president-event-centre-seeks-response-from-west-bengal-government/article70718315.ece",
+    "time": "2026-03-08T06:28:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Any disrespect to President Murmu deeply regrettable, unacceptable: Edappadi Palaniswami",
+    "desc": "On March 7, President Droupadi Murmu expressed disappointment with the West Bengal government for changing the venue of the International Santal Conference in Darjeeling district and not adhering to the desired protocol to receive her at the event.",
+    "img": "https://th-i.thgim.com/public/incoming/3m4uye/article70718331.ece/alternates/LANDSCAPE_1200/9868_14_7_2025_11_39_2_5_PRESS_10.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/any-disrespect-to-president-murmu-deeply-regrettable-unacceptable-edappadi-palaniswami/article70718120.ece",
+    "time": "2026-03-08T06:26:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MS Dhoni arrives in Ahmedabad for T20 World Cup final – Watch",
+    "desc": "MS Dhoni arrived in Ahmedabad ahead of the ICC Men's T20 World Cup 2026 final between India and New Zealand national cricket team at Narendra Modi Stadium. Dhoni had earlier watched India’s semi-final win over England in Mumbai. Led by Suryakumar Yadav, India aim to defend their title, while New Zealand chase their maiden T20 World Cup crown.",
+    "img": "https://static.toiimg.com/photo/msid-129254977,imgsize-20966.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/after-attending-semi-final-in-mumbai-ms-dhoni-arrives-in-ahmedabad-for-t20-world-cup-final-watch/articleshow/129254798.cms",
+    "time": "2026-03-08T06:07:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Key routes and how they will help commuters",
+    "desc": "Prime Minister Narendra Modi will inaugurate and lay the foundation stone for infrastructure projects worth Rs 33,500 crore in Delhi. This includes two new Delhi Metro corridors, totaling over Rs 18,300 crore, aimed at enhancing public transport and connectivity. The event also features the foundation stone laying for three new metro routes under Phase V-A and GPRA redevelopment projects.",
+    "img": "https://static.toiimg.com/photo/msid-129254964,imgsize-796928.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-to-inaugurate-two-new-delhi-metro-corridors-key-routes-and-how-they-will-help-commuters/articleshow/129254488.cms",
+    "time": "2026-03-08T06:06:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hansal Mehta lauds Radhikka's performance in 'Subedaar'",
+    "desc": "Filmmaker Hansal Mehta lauded the recently released film 'Subedaar', calling it a bold and refreshing take on mass entertainers. He particularly praised Radhikka Madan's performance as the emotionally complex daughter, stating she deserves better opportunities. Superstar Shah Rukh Khan also applauded the film and its ensemble cast.",
+    "img": "https://static.toiimg.com/photo/msid-129254941,imgsize-36838.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hansal-mehta-lauds-radhikka-madans-performance-in-subedaar-says-actress-deserves-better-roles-in-indian-cinema/articleshow/129254918.cms",
+    "time": "2026-03-08T06:04:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Pillars of progressive nation': President Murmu, PM Modi hail 'nari shakti' on International Women's Day",
+    "desc": "Prime Minister Narendra Modi and President Droupadi Murmu extended heartfelt greetings on International Women's Day, celebrating 'Nari Shakti's' pivotal role in India's progress. Both leaders lauded women's determination, creativity, and zeal, emphasizing their empowerment as central to national development and the creation of an inclusive, prosperous society where every woman can achieve her full potential.",
+    "img": "https://static.toiimg.com/photo/msid-129253896,imgsize-1058028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pillars-of-progressive-nation-president-murmu-pm-modi-hail-nari-shakti-on-international-womens-day/articleshow/129253526.cms",
+    "time": "2026-03-08T05:50:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anurag heaps praise on Anil Kapoor starrer 'Subedaar'",
+    "desc": "Filmmaker Anurag Kashyap lauded the recently released film 'Subedaar' starring Anil Kapoor, expressing a strong desire for it to have been a theatrical release. Kashyap praised the film's visual style, immersive storytelling of the Bundelkhand/Chambal region, and the performances of its cast, particularly Anil Kapoor and Radhikka Madan.",
+    "img": "https://static.toiimg.com/photo/msid-129254219,imgsize-35968.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-heaps-praise-on-anil-kapoor-starrer-subedaar-says-this-is-my-type-of-commercial-film/articleshow/129253790.cms",
+    "time": "2026-03-08T05:49:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Falguni Pathak expresses excitement over T20 closing ceremony performance",
+    "desc": "Renowned artist Falguni Pathak is buzzing with enthusiasm ahead of her performance at the highly anticipated ICC Men's T20 World Cup closing ceremony. After countless hours of rehearsal in anticipation of her debut at the iconic Narendra Modi Stadium, she describes the excitement as a chance to perform for a 'massive audience.",
+    "img": "https://static.toiimg.com/photo/msid-129254054,imgsize-109476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/falguni-pathak-expresses-excitement-over-t20-closing-ceremony-performance/articleshow/129254054.cms",
+    "time": "2026-03-08T05:43:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "First cricketer in 254 years! Bowler sets jaw-dropping world record",
+    "desc": "New Zealand bowler Brett Randell made history by becoming the first player in 254 years of first-class cricket to take five wickets in five consecutive deliveries. Playing for Central Districts against Northern Districts, he finished with 7/25, helping bowl out ND for 82 after CD’s 373 in the Plunket Shield match.",
+    "img": "https://static.toiimg.com/photo/msid-129254075,imgsize-102846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-first-cricketer-in-254-years-new-zealand-bowler-sets-jaw-dropping-world-record/articleshow/129253812.cms",
+    "time": "2026-03-08T05:42:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about the performances ahead of the T20 World Cup 2026",
+    "desc": "Prepare yourself for an unforgettable celebration at the ICC T20 World Cup 2026 closing ceremony! Taking place at the iconic Narendra Modi Stadium in Ahmedabad, pop legend Ricky Martin will light up the stage, joined by the charismatic Falguni Pathak and the dynamic Sukhbir Singh.",
+    "img": "https://static.toiimg.com/photo/msid-129253658,imgsize-138936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/t20-world-cup-2026-ricky-martin-falguni-pathak-and-sukhbir-singh-to-grace-the-ceremony-heres-all-we-know/articleshow/129253658.cms",
+    "time": "2026-03-08T05:36:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Vladimir’: How to watch the Rachel Weisz, Leo Woodall series",
+    "desc": "Rachel Weisz shines in 'Vladimir', a Netflix dark comedy-drama that follows an esteemed professor confronting her midlife disillusionment as an ambitious young novelist disrupts her world. Based on the novel by Julia May Jonas, the series cleverly examines the nuances of obsession and the subtle power struggles within academia.",
+    "img": "https://static.toiimg.com/photo/msid-129252472,imgsize-96162.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/vladimir-on-ott-what-the-rachel-weisz-leo-woodall-starrer-dark-comedy-drama-is-about-and-how-to-watch-it/articleshow/129252416.cms",
+    "time": "2026-03-08T04:59:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shreya Ghoshal talks about women's issues in the music industry",
+    "desc": "In a heartfelt statement, acclaimed vocalist Shreya Ghoshal voiced her worries regarding the marginalization of women in India's contemporary music landscape, pointing out a significant disparity on the charts. She reminisced about the era of iconic figures such as Lata Mangeshkar and Asha Bhosle, juxtaposing it with the thriving prominence of female superstars like Taylor Swift and Rihanna abroad.",
+    "img": "https://static.toiimg.com/photo/msid-129252315,imgsize-34612.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/shreya-ghoshal-talks-about-gender-inequality-in-the-music-industry-says-asha-bhosle-and-lata-mangeshkars-time-was-different/articleshow/129252315.cms",
+    "time": "2026-03-08T04:57:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Demi Moore says she doesn’t aspire to be ‘perfect’",
+    "desc": "At 63, actress Demi Moore inspires us all by sharing her transformative perspective on embracing imperfection. She champions the idea that neither individuals nor ideals are flawless, encouraging others to shed the pressures of societal expectations around aging and gender.",
+    "img": "https://static.toiimg.com/photo/msid-129252173,imgsize-85660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/demi-moore-doesnt-aspire-to-be-perfect-and-this-is-the-reason-why-i-certainly-have-been-trapped-by-trying/articleshow/129252173.cms",
+    "time": "2026-03-08T04:52:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Give them all': Sammy shares emotional post as WI stranded in India",
+    "desc": "West Indies head coach Daren Sammy expressed frustration after the team’s return from India following their exit from the ICC Men's T20 World Cup 2026 was delayed due to Gulf airspace restrictions linked to the Israel–Iran conflict. Posting online, Sammy wrote, “I just wanna go home,” while Cricket West Indies said it is arranging safe travel for the squad.",
+    "img": "https://static.toiimg.com/photo/msid-129251917,imgsize-83166.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/give-them-all-that-is-required-daren-sammy-shares-another-emotional-post-as-west-indies-remain-stranded-in-india/articleshow/129251565.cms",
+    "time": "2026-03-08T04:45:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jake Cannavale's experience of working with dad Cannavale",
+    "desc": "Father-son duo Bobby and Jake Cannavale shared a unique experience on the crime thriller 'Scarpetta,' portraying the same character at different ages. Working together off-screen, they deepened their bond, moving beyond typical actor discussions to explore the character's psyche. This collaboration not only enhanced Jake's artistry but also fostered a more profound understanding between them.",
+    "img": "https://static.toiimg.com/photo/msid-129251624,imgsize-70014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/jake-cannavale-shares-cerebral-experience-of-working-with-dad-bobby-cannavale-on-scarpetta/articleshow/129251538.cms",
+    "time": "2026-03-08T04:37:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘Oil imports in full flow’: Hardeep Puri assures imports from non-Hormuz routes",
+    "desc": "India's oil imports are flowing smoothly through alternative routes, assuring citizens of uninterrupted energy supplies amid Middle East conflict. Minister Hardeep Singh Puri confirmed \"full flow from all non-Hormuz routes,\" alleviating concerns about availability, affordability, and sustainability. Qatar has also assured immediate resumption of LNG supplies once the shipping route reopens.",
+    "img": "https://static.toiimg.com/photo/msid-129251566,imgsize-59398.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/oil-imports-in-full-flow-from-non-hormuz-routes-hardeep-singh-puris-message-as-middle-east-tensions-roil-energy-markets/articleshow/129249553.cms",
+    "time": "2026-03-08T04:36:00.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "President Murmu unhappy over venue change, PM Modi calls it an 'insult'; Mamata hits back — what triggered Santal conference row",
     "desc": "A political storm erupted after West Bengal's last-minute venue change for the International Santhal Conclave, drawing public displeasure from President Murmu. She questioned the reasoning and highlighted the community's struggle for recognition, sparking a fierce exchange between the TMC and BJP over alleged politicization of tribal issues and disrespect to the President's office.",
     "img": "https://static.toiimg.com/photo/msid-129250795,imgsize-1272491.cms",
@@ -171,15 +315,6 @@ const newsData_en = [
     "time": "2026-03-08T02:42:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Charli XCX hints at quitting music to focus on acting",
-    "desc": "Pop sensation Charli XCX is contemplating a career shift towards acting following the immense success of her 2024 album, Brat. The artist expressed a desire to pause music after an intense period, with social media activity fueling speculation about a potential hiatus.",
-    "img": "https://static.toiimg.com/photo/msid-129247057,imgsize-826831.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/charli-xcx-hints-at-stepping-back-from-music-to-pursue-acting-after-brat-era-success/articleshow/129247061.cms",
-    "time": "2026-03-08T02:25:05.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why does the Strait of Hormuz’s closure matter?",
     "desc": "Where is the Strait of Hormuz and what is its significance? Why have tensions in West Asia affected this passage? What does Iran have to do with the near-complete closure of the strait? How does the situation affect India and what is the government doing about it?",
@@ -187,24 +322,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/why-does-the-strait-of-hormuzs-closure-matter/article70717010.ece",
     "time": "2026-03-08T02:00:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shahid Kapoor begins filming for ‘Farzi 2’",
-    "desc": "Shahid Kapoor has officially kicked off filming for the highly anticipated second season of his hit series, 'Farzi 2'. Sharing behind-the-scenes glimpses, the actor confirmed the commencement of production for the black comedy. The show, which captivated audiences with its tale of a counterfeiting scam, is set to return with Kapoor reprising his role.",
-    "img": "https://static.toiimg.com/photo/msid-129246173,imgsize-118420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoor-is-back-at-it-actor-confirms-filming-for-farzi-2-in-latest-post/articleshow/129246173.cms",
-    "time": "2026-03-08T01:59:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Victoria Beckham shows gratitude towards family after successful fashion show",
-    "desc": "Victoria Beckham celebrated her Paris Fashion Week success, thanking husband David and younger children Romeo, Cruz, and Harper for their steadfast support. This comes amidst a public rift with eldest son Brooklyn Beckham, who has accused his parents of media manipulation. Despite the estrangement, the Beckhams reportedly remain open to reconciliation.",
-    "img": "https://static.toiimg.com/photo/msid-129246039,imgsize-763487.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/victoria-beckham-thanks-family-after-paris-show-amid-brooklyn-beckham-rift-couldnt-do-it-without-you-all/articleshow/129246040.cms",
-    "time": "2026-03-08T01:52:51.000Z"
   },
   {
     "cat": "Politics",
@@ -216,33 +333,6 @@ const newsData_en = [
     "time": "2026-03-08T01:50:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Dhurandhar 2’ preview tickets reach all time high price",
-    "desc": "Ranveer Singh's 'Dhurandhar 2' is generating immense buzz, with preview tickets fetching an astonishing Rs 2500. Advance sales have already surpassed 40,000 tickets, raking in approximately Rs 5 crore. The film's release across five languages on March 19 is anticipated to boost its performance, following the massive success of its predecessor.",
-    "img": "https://static.toiimg.com/photo/msid-129245663,imgsize-62804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-update-preview-tickets-soar-and-reach-rs-2400-sales-run-rampant/articleshow/129245663.cms",
-    "time": "2026-03-08T01:42:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Trevor Jackson shares his ‘Grey’s Anatomy’ experience",
-    "desc": "Trevor Jackson, now a series regular as Dr. Wes Bryant on 'Grey's Anatomy,' is experiencing his \"breakout\" season. The actor-singer, initially nervous about joining the long-running medical drama, found the cast and crew incredibly welcoming. Jackson admits to still learning medical jargon, but is ready for the show's signature twists and turns.",
-    "img": "https://static.toiimg.com/photo/msid-129245397,imgsize-66568.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/greys-anatomy-fame-trevor-jackson-shares-his-breakout-season-experience-didnt-feel-like-an-outcast/articleshow/129245313.cms",
-    "time": "2026-03-08T01:33:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zendaya-Tom's secret wedding: ‘Spider-Man’ co-star fuels rumors",
-    "desc": "Speculation about a romantic union between Zendaya and Tom Holland is heating up, especially after their 'Spider-Man' colleague Liza Colón-Zayas appeared to offer her blessing. Adding fuel to the fire, stylist Law Roach has made sensational claims that the duo may have already said 'I do' in secret.",
-    "img": "https://static.toiimg.com/photo/msid-129245326,imgsize-58760.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-and-tom-hollands-secret-wedding-spider-man-co-star-liza-coln-zayas-fuels-rumors/articleshow/129245326.cms",
-    "time": "2026-03-08T01:31:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Just in the dark': De Kock slams ICC as England leave but SA, WI remain stuck",
     "desc": "Quinton de Kock slammed the ICC over perceived preferential treatment for England's departure from the T20 World Cup. While England is set to fly home soon after their semi-final exit, South Africa and West Indies, eliminated earlier, remain stranded in India awaiting charter flights. This has sparked accusations of unequal influence among cricket nations.",
@@ -250,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/just-in-the-dark-quinton-de-kock-slams-icc-as-england-leave-but-sa-wi-remain-stuck/articleshow/129225250.cms",
     "time": "2026-03-08T01:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Pawan Kalyan’s luxurious Hyderabad residence",
-    "desc": "Pawan Kalyan's opulent Jubilee Hills residence in Hyderabad boasts luxurious amenities like a private theatre and pool, blending traditional and modern design. The actor, with an estimated net worth of Rs 450 crore from acting, endorsements, and politics, has also completed his upcoming film 'Ustaad Bhagat Singh', reportedly taking a reduced fee.",
-    "img": "https://static.toiimg.com/photo/msid-129245111,imgsize-123808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/inside-ustaad-bhagat-singh-star-pawan-kalyans-luxurious-hyderabad-residence-private-theatre-gym-pool-and-more/articleshow/129245111.cms",
-    "time": "2026-03-08T01:27:58.000Z"
   },
   {
     "cat": "Politics",
@@ -277,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/uttar-pradesh-2-4-crore-names-dropped-in-poll-rolls-since-sir-announced/articleshow/129244804.cms",
     "time": "2026-03-08T01:13:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Father Rick Harrison responds to fundraiser for son Corey Harrison after crash",
-    "desc": "Pawn Stars' Rick Harrison clarified he settled son Corey's substantial medical bills from a severe motorcycle accident before a fundraiser began. Corey, recovering from multiple fractures, had initiated a GoFundMe after exhausting his own funds. Rick stated Corey, a grown man, is responsible for his finances, though he appreciated potential reimbursement.",
-    "img": "https://static.toiimg.com/photo/msid-129244711,imgsize-1218121.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/rick-harrison-responds-to-gofundme-fundraiser-for-son-corey-harrison-after-mexico-motorcycle-crash-he-is-a-grown-man-in-his-40s/articleshow/129244725.cms",
-    "time": "2026-03-08T01:10:39.000Z"
   },
   {
     "cat": "Politics",
@@ -315,19 +387,10 @@ const newsData_en = [
     "time": "2026-03-08T00:54:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Vishwanath And Sons' not remake of Prithviraj’s 'Kangaroo'",
-    "desc": "Suriya is set to make waves in the Telugu film industry with 'Vishwanath And Sons', his debut confirmed to feature an entirely original storyline crafted by the talented Venky Atluri, dispelling the chatter about it being a remake. The film showcases a stellar ensemble cast, including Mamitha Baiju, Raveena Tandon, and Radhika Sarathkumar.",
-    "img": "https://static.toiimg.com/photo/msid-129243724,imgsize-166352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/suriyas-vishwanath-and-sons-not-a-remake-of-prithviraj-sukumarans-kangaroo-team-rejects-rumours/articleshow/129243724.cms",
-    "time": "2026-03-08T00:41:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Gambhir fought everyone': Shoaib Akhtar's stunning reveal on Samson's comeback",
     "desc": "Former Pakistan bowler Shoaib Akhtar commends India coach Gautam Gambhir. Gambhir strongly advocated for Sanju Samson's inclusion in the T20 World Cup squad. Samson has since delivered exceptional performances. His batting has been a major highlight of the tournament. He has scored significantly and broken records. This has helped India reach the final.",
-    "img": "https://static.toiimg.com/photo/msid-129208363,imgsize-144002.cms",
+    "img": "https://static.toiimg.com/photo/msid-129208329,imgsize-144002.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/gautam-gambhir-fought-everyone-shoaib-akhtars-stunning-reveal-on-sanju-samsons-comeback/articleshow/129208329.cms",
     "time": "2026-03-08T00:30:00.000Z"
@@ -448,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/punjab-police-officer-beaten-to-death-in-village-near-amritsar/articleshow/129235900.cms",
     "time": "2026-03-07T21:15:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Government may scrap NOC for inter-state vehicle transfers",
-    "desc": "Inter-state vehicle transfers are set to become significantly easier as the government plans to eliminate the need for No Objection Certificates (NOCs). A NITI Aayog committee recommended an auto-generated clearance system, leveraging the centralized VAHAN database. This reform will greatly benefit vehicle owners relocating between states, streamlining the registration process.",
-    "img": "https://static.toiimg.com/photo/msid-129235858,imgsize-39088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/government-may-scrap-noc-for-inter-state-vehicle-transfers/articleshow/129235789.cms",
-    "time": "2026-03-07T21:12:20.000Z"
   },
   {
     "cat": "Business",
@@ -649,24 +703,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Indian Railways announces special train from Delhi to Ahmedabad",
-    "desc": "Ahmedabad gears up for the ICC Men's T20 World Cup 2026 final between India and New Zealand at the Narendra Modi Stadium. Indian Railways is running special trains from New Delhi and Western Railway from Mumbai to aid fans amidst high flight fares. The event will feature a star-studded closing ceremony with Ricky Martin, Falguni Pathak, and Sukhwinder Singh.",
-    "img": "https://static.toiimg.com/photo/msid-129214577,imgsize-1200544.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-final-indian-railways-announces-special-train-from-delhi-to-ahmedabad/articleshow/129214268.cms",
-    "time": "2026-03-07T12:35:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Chokers tag is yours': Steyn fires bold shot at New Zealand before final vs India",
-    "desc": "Dale Steyn has controversially suggested New Zealand could inherit the 'chokers' tag if they lose the T20 World Cup 2026 final to India. The former Proteas bowler pointed to New Zealand's repeated near misses in ICC finals, stating they must win to avoid this label. Steyn believes India holds a significant advantage in Ahmedabad.",
-    "img": "https://static.toiimg.com/photo/msid-129212146,imgsize-149358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/chokers-tag-is-yours-dale-steyn-fires-bold-shot-at-new-zealand-before-final-vs-india/articleshow/129212160.cms",
-    "time": "2026-03-07T11:38:45.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'If he gets going': Ex-player names NZ star who could spoil India's T20 WC dream",
     "desc": "India faces New Zealand in the ICC Men's T20 World Cup final at Ahmedabad. Despite India's recent series win, former Australian players Brad Haddin and Nathan Lyon back New Zealand. They highlight opener Finn Allen's potential threat and captain Mitchell Santner's bowling prowess as key factors for the Black Caps, who they believe don't fear playing in India.",
     "img": "https://static.toiimg.com/photo/msid-129209479,imgsize-51298.cms",
@@ -801,24 +837,6 @@ const newsData_en = [
     "time": "2026-03-07T02:18:41.000Z"
   },
   {
-    "cat": "Business",
-    "title": "In range-bound session, rupee slips 15 paisa vs Dollar",
-    "desc": "The Indian rupee weakened against the dollar, closing at 91.75 on Friday, influenced by rising crude oil prices and foreign investor withdrawals. Despite central bank intervention and domestic stock market declines, losses were somewhat contained. Analysts anticipate continued pressure on the rupee due to firm crude prices, with a trading range of 91.25-92.50 expected.",
-    "img": "https://static.toiimg.com/photo/msid-129190173,imgsize-31772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/in-range-bound-session-rupee-slips-15-paisa-vs-dollar/articleshow/129190093.cms",
-    "time": "2026-03-07T02:15:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will use every policy tool to help exporters, assures Piyush Goyal",
-    "desc": "The Indian government will utilize all policy tools and export promotion missions to support exporters facing disruptions in West Asia. Commerce Minister Piyush Goyal assured daily engagement with exporters through an inter-ministerial group to address concerns like higher freight rates and shipping delays. India remains committed to meeting international buyer commitments, reinforcing its reputation as a trusted global partner.",
-    "img": "https://static.toiimg.com/photo/msid-129190029,imgsize-56068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gulf-tensions-will-use-every-policy-tool-to-help-exporters-assures-piyush-goyal/articleshow/129189789.cms",
-    "time": "2026-03-07T02:06:19.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran Guards say targeted U.S. base in UAE over school strike in Minab",
     "desc": "The New York Times newspaper reported on March 5, that U.S. military statements indicating forces were attacking naval targets near the Strait of Hormuz, where a Revolutionary Guards' base is located, \"suggest they were most likely to have carried out the strike\"",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/high-war-risk-premiums-for-airline-insurance-to-push-up-airfares/article70711883.ece",
     "time": "2026-03-06T15:00:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Sri Lanka evacuates 208 crew from second Iranian ship",
-    "desc": "Sri Lanka is evacuating 208 crew members from an Iranian naval ship — IRINS Bushehr — stranded near its territorial waters, President Anura Kumara Dissanayake said on March 5, 2026, a day after a U.S. submarine torpedoed another Iranian warship off Sri Lanka’s southern coast, killing at least 84 sailors and widening the war in West Asia into the Indian Ocean region.",
-    "img": "https://th-i.thgim.com/public/incoming/1hb6tl/article70712073.ece/alternates/LANDSCAPE_1200/sri%20lanka%20ship.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-sri-lanka-evacuates-208-crew-from-second-iranian-ship/article70712076.ece",
-    "time": "2026-03-06T13:12:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Hello Bachhon’ series review: Viineet Kumar Siingh’s earnesty gets diffused in TVF’s factory-made snoozefest",
-    "desc": "With a simplistic understanding of the world that extends even to its laid-back aesthetics, the show ends up feeling more like a mouthpiece of Physics Wallah, as it merely registers the journey of the ed-tech giant from a broad perspective",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/xmox3e/article70711018.ece/alternates/LANDSCAPE_1200/Vineet.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/hello-bachhon-series-review-viineet-kumar-siinghs-earnesty-gets-diffused-in-tvfs-factory-made-snoozefest/article70711007.ece",
-    "time": "2026-03-06T10:14:56.000Z"
   }
 ];

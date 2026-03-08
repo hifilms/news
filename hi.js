@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lakshya Sen Vs Lin Chun-Yi: Where to watch the All England Open 2026 final live on TV and online in India?",
+    "desc": "The stage is set for the final of the All England Open 2026. India’s Lakshya Sen will be taking on Chinese Taipei’s Lin Chun-Yi in the summit clash of the tournament on March 8 in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/lakshya-sen-vs-lin-chun-yi-where-to-watch-the-all-england-open-2026-final-live-on-tv-and-online-in-india-2026-03-08-1033026",
+    "time": "2026-03-08T05:52:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "4 streaks India can break by winning T20 World Cup final vs New Zealand",
+    "desc": "The T20 World Cup 2026 final sees India taking on New Zealand. The two sides will lock horns at the Narendra Modi Stadium in Ahmedabad on March 8; it is interesting to note that this...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/4-streaks-india-can-break-by-winning-t20-world-cup-final-vs-new-zealand-2026-03-08-1033018",
+    "time": "2026-03-08T04:59:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will rain spoil IND vs NZ T20 World Cup 2026 final?",
     "desc": "The stage is set for the final of the T20 World Cup 2026. India and New Zealand will take on each other at the Narendra Modi Stadium in Ahmedabad on March 8. Both sides have...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-was-not-happy-when-we-dropped-him-reveals-suryakumar-yadav-ahead-of-t20-world-cup-final-2026-03-07-1032977",
     "time": "2026-03-07T14:09:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Looking back at 3 thrilling finals before the 4th battle in Ahmedabad",
-    "desc": "India and New Zealand will lock horns against each other on Sunday in the final of the T20 World Cup at the Narendra Modi Stadium in Ahmedabad. This is the fourth time the two teams...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-t20-world-cup-final-looking-back-at-3-thrilling-finals-before-the-4th-battle-in-ahmedabad-2026-03-07-1032972",
-    "time": "2026-03-07T13:28:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Don't mind not being favourites': Mitchell Santner fine with New Zealand being underdogs even in T20 WC final",
-    "desc": "New Zealand punch above their weight every time in ICC events, be it the ODI or T20 World Cup, Champions Trophy, or even the World Test Championship. They won the inaugural WTC edition out of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/don-t-mind-not-being-favourites-mitchell-santner-fine-with-new-zealand-being-underdogs-even-in-t20-wc-final-2026-03-07-1032961",
-    "time": "2026-03-07T12:07:17.000Z"
   }
 ];
