@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "મોટી જાહેરાત: આ દિવસથી શરૂ થશે IPL 2026નો જંગ, ફેન્સ માટે આવ્યા ખુશીના સમાચાર",
+    "desc": "ઇન્ડિયન પ્રીમિયર લીગ 2026 માટે ચાહકોમાં ભારે ઉત્સાહ જોવા મળી રહ્યો છે. ટી20 વર્લ્ડ કપ બાદ હવે દરેકનું ધ્યાન આ ટૂર્નામેન્ટ પર કેન્દ્રિત થશે. ટીમોએ પોતપોતાના ટ્રેનિંગ કેમ્પ પણ શરૂ કરી દીધા છે. ઘણા લોકોના મનમાં ટૂર્નામેન્ટની શરૂઆતની તારીખને લઈને પ્રશ્નો હતા, જેનો હવે અંત આવ્યો છે. સત્તાવાર રીતે IPL 2026ની શરૂઆતની તારીખ જાહેર કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/a-big-announcement-has-been-made-the-ipl-2026-battle-will-begin-on-this-day-good-news-for-the-fans-467746 ",
+    "time": "2026-03-08T15:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનાના ભાવમાં 19,000નો મોટો ઘટાડો, શું હજુ પણ ભાવ ઘટશે? જાણો શું કહે છે નિષ્ણાતો",
+    "desc": "નિષ્ણાતોના મતે, હાલમાં સ્થાનિક બજારમાં સોનું 1,37,000 રૂપિયાથી 1,65,000 રૂપિયા પ્રતિ 10 ગ્રામની મોટી રેન્જમાં વેપાર કરી શકે છે. જો કિંમતો 1,65,000 રૂપિયાની ઉપર બંધ થાય છે, તો ફરી એક નવી તેજી જોવા મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-price-drops-by-rs-19000-will-it-continue-to-fall-know-what-experts-say-467743 ",
+    "time": "2026-03-08T14:54:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "સ્ટ્રેટ ઓફ હોર્મુઝ: કેમ અહીં દુનિયાની શક્તિશાળી નૌસેનાઓ પણ ઘૂંટણ ટેકવે છે? યુરોપિયન દેશોના પીછેહઠનું શું છે અસલી કારણ",
+    "desc": "સ્ટ્રેટ ઓફ હોર્મુઝ પર ઈરાનનું ભૌગોલિક નિયંત્રણ અને તેની મિસાઈલ ક્ષમતા બહારના દેશો માટે મોટો પડકાર છે. 21 માઈલ પહોળા આ સાંકડા દરિયાઈ માર્ગમાં જહાજોની જપ્તી અને જામિંગના ડરથી યુરોપિયન દેશો હવે પાછળ હટી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/why-is-it-difficult-for-foreign-countries-to-control-the-strait-of-hormuz-why-are-european-countries-taking-a-step-back-467740 ",
+    "time": "2026-03-08T13:38:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "LIVE મેચમાં દુર્ઘટના! ખેલાડીના માથા પર બોલ વાગતા જ મેદાનમાં દોડધામ, તાત્કાલિક હોસ્પિટલ ખસેડાઈ",
+    "desc": "ન્યૂઝીલેન્ડ અને ઝિમ્બાબ્વેની મહિલા ટીમ વચ્ચે હાલમાં વનડે સિરીઝ રમાઈ રહી છે. બીજી વનડે મેચ દરમિયાન ઝિમ્બાબ્વેની એક ખેલાડી ગંભીર રીતે ઈજાગ્રસ્ત થઈ હતી. લાઈવ મેચમાં માથા પર બોલ વાગ્યા બાદ તે મેદાન પર જ પડી ગઈ હતી, ત્યારબાદ તેને તાત્કાલિક હોસ્પિટલમાં દાખલ કરવામાં આવી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/unexpected-incident-during-live-match-a-player-was-struck-on-the-field-by-the-ball-and-immediately-rushed-to-the-hospital-467738 ",
+    "time": "2026-03-08T13:33:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "આખરે સામે આવી ગયો રિપોર્ટ! ફાઈનલ મેચ માટે કેવી હશે અમદાવાદના મેદાનની પિચ? રનનો થશે વરસાદ!",
     "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે ફાઈનલ મુકાબલો અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં રમાશે. આ મેચમાં ઉતરનારી બંને ટીમો શાનદાર ફોર્મમાં છે. ત્યારે દરેકના મનમાં પ્રશ્ન છે કે આ મેચ કઈ પિચ પર રમાશે? શું ફાઈનલમાં પણ બેટ્સમેનોનો દબદબો જોવા મળશે? શું ફાઇનલમાં પણ બેટ્સમેન પૂરજોશમાં જોવા મળશે?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -162,15 +198,6 @@ const newsData_gu = [
     "time": "2026-03-07T18:23:37.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "મારું દિલ અને મન કહે છે... એબી ડીવિલિયર્સે તોડ્યા ફેન્સના દિલ, કરી દીધી T20 વર્લ્ડ કપ 2026 વિનરની ભવિષ્યવાણી",
-    "desc": "આવતીકાલે અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં ભારત અને ન્યુઝીલેન્ડ વચ્ચે T20 વર્લ્ડ કપ 2026ની ફાઈનલ મેચ રમવાની છે. ત્યારે એબી ડીવિલિયર્સે T20 વર્લ્ડ કપની વિનરની ભવિષ્યવાણી કરી છે. એબી ડીવિલિયર્સે ન્યુઝીલેન્ડનું દિલ તોડતા ભારતને T20 વર્લ્ડ કપ 2026ની ટ્રોફી જીતવા માટે પ્રબળ દાવેદાર ગણાવ્યું છે. તેમણે ભવિષ્યવાણી કરતા કહ્યું કે, ટીમ ઈન્ડિયા સરળતાથી ન્યુઝીલેન્ડને હરાવી શકે છે. એબીડીએ તેના પાછળનું મુખ્ય કારણ પણ સમજાવ્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ab-de-villiers-predicts-t20-world-cup-2026-winner-before-india-new-zealand-match-467590 ",
-    "time": "2026-03-07T17:50:50.000Z"
-  },
-  {
     "cat": "World",
     "title": "કોણ બનશે ઈરાનના નવા સુપ્રીમ લીડર? ખામૈનેઈના ચારેય પુત્રો જીવિત, જાણો રેસમાં કોણ આગળ",
     "desc": "ઈઝરાયેલ અને અમેરિકાએ ઈરાન પર ભીષણ હુમલાઓ કરીને ચારેબાજુ તબાહી મચાવી દીધી. ઈરાનના સુપ્રીમ લીડર અયાતોલ્લા અલી ખામૈનેઈ પણ માર્યા ગયા. ત્યારે હવે સવાલ એ છે કે નવા સુપ્રીમ લીડર કોણ? ખામેનેઈના ચાર પુત્રો સુરક્ષિત હોવાનું સામે આવ્યું છે. કોણ રેસમાં સૌથી આગળ...તમામ વિગતો જાણો.",
@@ -189,15 +216,6 @@ const newsData_gu = [
     "time": "2026-03-07T17:08:09.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "સેન્ટનરની ધમકી પર સૂર્યાનો વળતો પ્રહાર, ફાઈનલમાં વરુણ ચક્રવર્તી રમશે કે નહીં? તેનો પણ આપ્યો જવાબ",
-    "desc": "8મી માર્ચે અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં ટી20 વર્લ્ડ કપ 2026ની ફાઈનલ રમાય તે પહેલા બંને ટીમોના કેપ્ટનો વચ્ચે શાબ્લિક જંગ જોવા મળ્યો છે. આ ઉપરાંત સૂર્યકુમાર યાદવે વરુણ ચક્રવર્તી વિશે પણ મોટું નિવેદન આપ્યું છે. જાણો શું કહ્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/surya-hits-back-at-mitchell-santner-will-varun-chakravarthy-play-in-the-final-or-not-467575 ",
-    "time": "2026-03-07T15:05:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "યુદ્ધના તણાવ વચ્ચે ભારતમાં ઈંધણ મોંઘું થશે? ઓઈલ કંપનીઓની મોટી સ્પષ્ટતા, જાણો શું છે હકીકત",
     "desc": "અમેરિકા, ઈરાન અને ઈઝરાયલ વચ્ચે વધતા તણાવને કારણે સોશિયલ મીડિયા પર ભારતમાં પેટ્રોલ-ડીઝલના ભાવ વધવાની અફવાઓ ફેલાઈ રહી છે. જો કે, દેશની અગ્રણી ઓઈલ કંપનીઓએ સ્પષ્ટતા કરી છે કે, આ સમાચાર પાયાવિહોણા છે. ભારત પાસે પૂરતો તેલનો જથ્થો છે અને હાલ ભાવ વધારાની કોઈ શક્યતા નથી. તેથી જનતાએ ગભરાયા વગર આવી ભ્રામક માહિતી પર વિશ્વાસ ન કરવો જોઈએ.",
@@ -214,24 +232,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/iran-israel-war-dubai-traders-selling-gold-at-discounted-prices-know-the-reason-and-rate-467573 ",
     "time": "2026-03-07T13:46:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અમદાવાદમાં ટીમ ઈન્ડિયાને ફાયદો મળે તેવી પિચ થઈ રહી છે તૈયાર? ફાઇનલ પહેલા શોકિંગ ખુલાસો",
-    "desc": "ટી20 વિશ્વકપ 2026ના ફાઈનલ પહેલા અમદાવાદ નરેન્દ્ર મોદી સ્ટેડિયમની પિચને લઈને મોટો ખુલાસો થયો છે. રિપોર્ટ્સ પ્રમાણે ફાઇનલમાં લાલ અને કાળી માટીની મિક્સ્ડ પિચ તૈયાર કરવામાં આવી રહી છે, જે ભારતીય બેટરોને ફાયદો પહોંચાડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-final-india-vs-new-zealand-pitch-being-prepared-in-ahmedabad-to-benefit-team-india-467566 ",
-    "time": "2026-03-07T11:54:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ન્યૂઝીલેન્ડની ટીમ આ ભારતીય ખેલાડીથી ખૌફ ખાય છે? કેપ્ટન સેન્ટનરે ગણાવી દીધો ગેમ ચેન્જર",
-    "desc": "ટી20 વર્લ્ડ કપ 2026નો રોમાંચ પરાકાષ્ઠાએ પહોંચી ગયો છે. હવે આવતી કાલે 8મી માર્ચે નરેન્દ્ર મોદી સ્ટેડિયમમાં ન્યૂઝીલેન્ડ અને ભારત વચ્ચે ફાઈનલ રમાશે. પરંતુ તે પહેલા ન્યૂઝીલેન્ડના કેપ્ટને એક મહત્વનું નિવેદન આપ્યું. જાણો કયા ભારતીય ખેલાડીને ગેમચેન્જર ગણાવ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/mitchell-santner-big-statement-for-jasprit-bumrah-also-speaks-on-varun-chakravarthy-467544 ",
-    "time": "2026-03-07T10:22:02.000Z"
   },
   {
     "cat": "Politics",
@@ -421,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/todays-gold-and-silver-rate-gold-crosses-rs-1-60-lakh-mark-silver-becomes-more-expensive-by-rs-5000-467410 ",
     "time": "2026-03-06T07:01:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મા પગાર પંચ હેઠળ જૂની પેન્શન યોજના ફરી લાગુ થશે? કેન્દ્ર સરકારના કર્મચારીઓ માટે મહત્વના સમાચાર",
-    "desc": "8મા પગાર પંચની પ્રક્રિયા શરૂ થતાં, કર્મચારી સંગઠનોએ જૂની પેન્શન યોજનાને સંપૂર્ણ રીતે ફરી લાગુ કરવાની માંગણી ફરી શરૂ કરી છે. કર્મચારી સંગઠનોનો દલીલ છે કે નવી સિસ્ટમમાં પેન્શનની નિશ્ચિતતાનો અભાવ છે, તેથી સરકારે કર્મચારીઓ માટે જૂની સિસ્ટમ પાછી શરૂ કરવી જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-the-old-pension-scheme-be-implemented-again-under-the-8th-pay-commission-important-news-for-central-government-employees-467409 ",
-    "time": "2026-03-06T06:58:54.000Z"
   },
   {
     "cat": "Politics",
@@ -691,14 +682,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/nitesh-tiwari-big-budget-film-ramayana-got-positive-response-after-first-test-screening-in-los-angeles-466151 ",
     "time": "2026-02-25T05:49:10.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ગુગલ પર ભૂલથી પણ સર્ચ ન કરતા એપ્સટિન ફાઇલ્સ, જાણો ચોંકાવનારું કારણ",
-    "desc": "હાલના સમયમાં એપ્સટિન ફાઇલ્સ શબ્દ ઇન્ટરનેટ પર ઝડપથી ટ્રેન્ડ કરી રહ્યો છે, પરંતુ તેનાથી તમને ભારે નુકશાન થઈ શકે છે, મોટા ભાગના લોકો હાલમાં તેના વિશે જાણવા અને તેના દ્વારા વાયરલ કરાયેલા વીડિયો જોવા માગે છે, ત્યારે તે તમારી સૌથી મોટી ભુલ બની શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/epstein-files-not-being-searched-on-google-even-by-mistake-know-the-shocking-reason-466091 ",
-    "time": "2026-02-24T13:22:39.000Z"
   }
 ];
