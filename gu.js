@@ -1,12 +1,57 @@
 const newsData_gu = [
   {
-    "cat": "Business",
-    "title": "યુદ્ધનો માહોલ છતાં સોના-ચાંદી ધડામ, આજે ભાવમાં કડાકો, કેમ જોવા મળી &amp;#039;ઉલ્ટી ગંગા&amp;#039;? લેટેસ્ટ રેટ જાણો",
-    "desc": "યુદ્ધના માહોલમાં જ્યાં એક બાજ ક્રૂડ ઓઈલના ભાવમાં ભડકા જોવા મળી રહ્યા છે ત્યાં અપેક્ષાથી બિલકુલ વિરુદ્ધ સોના અને ચાંદીના ભાવમાં ઘટાડો જોવા મળી રહ્યો છે. આજનો વાયદા બજારનો લેટેસ્ટ ભાવ અને વૈશ્વિક સ્તરે તણાવની સ્થિતિ છતાં ભાવમાં ઘટાડા પાછળનું કારણ પણ જાણો.",
+    "cat": "Sports",
+    "title": "અમદાવાદના હનુમાન મંદિરના આશીર્વાદ ટીમ ઈન્ડિયાને ફળ્યા, જીત બાદ ટ્રોફી સાથે મંદિર પહોંચ્યો કેપ્ટન સૂર્યા",
+    "desc": "ICC T20 વર્લ્ડ કપ 2026 જીત્યા બાદ કેપ્ટન સૂર્યકુમાર યાદવ અને કોચ ગૌતમ ગંભીરે ટ્રોફી સાથે હનુમાનજી મંદિરની મુલાકાત લીધી હતી. ICC ચેરમેન જય શાહ પણ ત્યાં હાજર હતા. મેચ પહેલા પણ સૂર્યા, હાર્દિક અને કોચ ગંભીર મંદિરે આશીર્વાદ લેવા મંદિરે પહોંચ્યા હતા.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-fall-despite-war-situation-in-middle-east-why-check-the-latest-rates-aaj-no-sona-no-bhav-467777 ",
-    "time": "2026-03-09T04:03:41.000Z"
+    "url": " http://zeenews.india.com/gujarati/sports/captain-suryakumar-yadav-went-hanuman-temple-after-winning-t20-world-cup-2026-467787 ",
+    "time": "2026-03-09T06:53:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ન્યુઝીલેન્ડને આ ભૂલ પડી ગઈ ભારે ! કેપ્ટનનો એક નિર્ણય બન્યો હારનું સૌથી મોટું કારણ",
+    "desc": "ભારતે ન્યૂઝીલેન્ડને હરાવીને ત્રીજી વખત T20 વર્લ્ડ કપ જીત્યો. સંજુ સેમસન, અભિષેક શર્મા અને ઇશાન કિશન તેમજ બોલરોએ ભારતની ટાઇટલ જીતમાં મહત્વપૂર્ણ ભૂમિકા ભજવી હતી. ત્યારે આ ફાઇનલ મેચમાં ન્યુઝીલેન્ડ કેવી રીતે હારી, ક્યાં ભૂલ થઈ ? તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/new-zealand-captain-big-mistake-in-t20-world-cup-final-against-india-467792 ",
+    "time": "2026-03-09T06:49:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ટીમ ઈન્ડિયાની જીતના 5 હીરો... આ ખેલાડીઓએ ભારતને બનાવી દીધું વર્લ્ડ ચેમ્પિયન....",
+    "desc": "ભારતે ટી20 વિશ્વકપ 2026 જીતી ઈતિહાસ રચી દીધો છે. ભારતની આ જીતમાં ઘણા ખેલાડીઓનું યોગદાન રહ્યું છે. પરંતુ આજે અમે તમને પાંચ ખેલાડીઓ વિશે જણાવીશું જેણે ટૂર્નામેન્ટમાં મહત્વના સમયે પ્રદર્શન કરી ટીમને ચેમ્પિયન બનાવવામાં મહત્વની ભૂમિકા ભજવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-india-victory-5-heroes-sanju-samson-to-jasprit-bumrah-hardik-pandya-467788 ",
+    "time": "2026-03-09T06:39:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફાઈનલમાં ન્યૂઝીલેન્ડનો રકાસ, દિલ્હી-અમદાવાદ પોલીસે બરાબર મજા લીધી, UP પોલીસે પણ સાથ આપ્યો",
+    "desc": "અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં ટી20 વર્લ્ડ કપ 2026ની ફાઈનલ ન્યૂઝીલેન્ડ અને ભારત વચ્ચે રમાઈ જેમાં ભારતે શાનદાર જીત મેળવી બેક ટુ બેક ટ્રોફી જીતી. આ જીતમાં ફેન્સની સાથે કેટલાક રાજ્યોની પોલીસ પણ ઉત્સાહિત જોવા મળી અને મજા પણ લીધી. દિલ્હી પોલીસે શરૂઆત કરી ત્યારબાદ અમદાવાદ પોલીસે પણ રસપ્રદ જવાબ આપ્યો અને યુપી પોલીસ પણ પછી તો જોડાઈ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-final-delhi-police-ahmedabad-police-take-a-dig-at-new-zealand-team-up-plice-also-joined-467789 ",
+    "time": "2026-03-09T05:54:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ગણતરીની પળોમાં 13 લાખ કરોડ સ્વાહા, શેર બજારમાં આવી ગયો છે તબાહીનો દોર, 10% તૂટશે માર્કેટ!",
+    "desc": "નવા અઠવાડિયાના પહેલા જ કારોબારી દિવસે આજે શેર બજારમાં ભારે કડાકાનો માહોલ જોવા મળ્યો છે. ગણતરીની મિનિટોમાં રોકાણકારોના 13 લાખ કરોડ જેટલી મૂડીનું ધોવાણ થઈ ગયું છે. એક્સપર્ટ શું ચેતવણી આપે છે તે પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/stock-market-crashed-as-soon-as-it-opened-know-what-expert-warns-iran-israel-war-effect-467785 ",
+    "time": "2026-03-09T05:37:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફાઇનલમાં ન્યુઝીલેન્ડની હારનો સૌથી મોટો ગુનેગાર કોણ ? કેપ્ટન સેન્ટનરે કોના પર ફોડ્યું હારનું ઠીકરું",
+    "desc": "ભારતીય ટીમે ત્રીજી વખત T20 વર્લ્ડ કપ જીત્યો, પરંતુ ન્યુઝીલેન્ડ ફરી એકવાર વર્લ્ડ કપનો ખિતાબ જીતવામાં નિષ્ફળ ગયું. ફાઇનલ હાર બાદ ન્યુઝીલેન્ડનો કેપ્ટન મિશેલ સેન્ટનર ખૂબ જ હતાશ દેખાતો હતો. સેન્ટનરની ટીમ ફાઇનલમાં સારું પ્રદર્શન કરી શકી નહીં અને હારનો સામનો કરવો પડ્યો. હાર બાદ કેપ્ટન સેન્ટનરનું દર્દ છલકાયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/new-zealand-captain-mitchell-santner-reaction-after-t20-world-cup-final-loss-467782 ",
+    "time": "2026-03-09T05:10:22.000Z"
   },
   {
     "cat": "Sports",
@@ -15,7 +60,25 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/gautam-gambhir-surya-decision-which-rival-teams-including-new-zealand-struggled-to-understand-467775 ",
-    "time": "2026-03-09T03:23:18.000Z"
+    "time": "2026-03-09T05:03:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;મમ્મી ઘરે ચાલો, સરપ્રાઈઝ આપવી છે&amp;#039;.... રૂમમાં મળ્યો લોહીથી લથપથ પુત્રીનો મૃતદેહ, પુત્રની ખતરનાક કરતૂત",
+    "desc": "મુરાદાબાદના બુદ્ધિ વિહાર કોલોનીમાં યુટ્યુબર ભાઈએ પોતાની બહેનની હત્યા કરી. બ્રેકઅપ બાદ ડિપ્રેશન અને ગુસ્સામાં પાગલ થયેલા આરોપીએ પોતાની માતાને પણ મોતને ઘાટ ઉતારવાનો પ્રયાસ કર્યો. આ ઘટના સામે આવતા તે વિસ્તારમાં હડકંપ મચી ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/brother-stabs-twin-sister-40-times-in-moradabad-and-attacks-mother-over-failed-love-affair-467780 ",
+    "time": "2026-03-09T04:59:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "યુદ્ધનો માહોલ છતાં સોના-ચાંદી ધડામ, આજે ભાવમાં કડાકો, કેમ જોવા મળી &amp;#039;ઉલ્ટી ગંગા&amp;#039;? લેટેસ્ટ રેટ જાણો",
+    "desc": "યુદ્ધના માહોલમાં જ્યાં એક બાજ ક્રૂડ ઓઈલના ભાવમાં ભડકા જોવા મળી રહ્યા છે ત્યાં અપેક્ષાથી બિલકુલ વિરુદ્ધ સોના અને ચાંદીના ભાવમાં ઘટાડો જોવા મળી રહ્યો છે. આજનો વાયદા બજારનો લેટેસ્ટ ભાવ અને વૈશ્વિક સ્તરે તણાવની સ્થિતિ છતાં ભાવમાં ઘટાડા પાછળનું કારણ પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-fall-despite-war-situation-in-middle-east-why-check-the-latest-rates-aaj-no-sona-no-bhav-467777 ",
+    "time": "2026-03-09T04:03:41.000Z"
   },
   {
     "cat": "Sports",
@@ -99,33 +162,6 @@ const newsData_gu = [
     "time": "2026-03-08T13:38:04.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "LIVE મેચમાં દુર્ઘટના! ખેલાડીના માથા પર બોલ વાગતા જ મેદાનમાં દોડધામ, તાત્કાલિક હોસ્પિટલ ખસેડાઈ",
-    "desc": "ન્યૂઝીલેન્ડ અને ઝિમ્બાબ્વેની મહિલા ટીમ વચ્ચે હાલમાં વનડે સિરીઝ રમાઈ રહી છે. બીજી વનડે મેચ દરમિયાન ઝિમ્બાબ્વેની એક ખેલાડી ગંભીર રીતે ઈજાગ્રસ્ત થઈ હતી. લાઈવ મેચમાં માથા પર બોલ વાગ્યા બાદ તે મેદાન પર જ પડી ગઈ હતી, ત્યારબાદ તેને તાત્કાલિક હોસ્પિટલમાં દાખલ કરવામાં આવી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/unexpected-incident-during-live-match-a-player-was-struck-on-the-field-by-the-ball-and-immediately-rushed-to-the-hospital-467738 ",
-    "time": "2026-03-08T13:33:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આખરે સામે આવી ગયો રિપોર્ટ! ફાઈનલ મેચ માટે કેવી હશે અમદાવાદના મેદાનની પિચ? રનનો થશે વરસાદ!",
-    "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે ફાઈનલ મુકાબલો અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં રમાશે. આ મેચમાં ઉતરનારી બંને ટીમો શાનદાર ફોર્મમાં છે. ત્યારે દરેકના મનમાં પ્રશ્ન છે કે આ મેચ કઈ પિચ પર રમાશે? શું ફાઈનલમાં પણ બેટ્સમેનોનો દબદબો જોવા મળશે? શું ફાઇનલમાં પણ બેટ્સમેન પૂરજોશમાં જોવા મળશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-how-will-the-ahmedabad-pitch-be-for-the-final-match-467723 ",
-    "time": "2026-03-08T12:13:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અમદાવાદમાં T20 વર્લ્ડ કપ ફાઈનલમાં કપરા ચઢાણ ! ICC ટુર્નામેન્ટમાં ભારતેને 30માંથી 28માં મળી જીત, બે વાર અહીં તૂટ્યું દિલ",
-    "desc": "આજે અમદાવાદમાં ICC T20 વર્લ્ડ કપ 2026ના ફાઇનલ મેચમાં ભારત અને ન્યુઝીલેન્ડ ટકરાશે. આંકડા આ સ્પર્ધાને અત્યંત રસપ્રદ બનાવે છે. ન્યુઝીલેન્ડે ICC ફાઇનલમાં સાત મેચ રમી છે અને બે વાર જીત મેળવી છે, બંને વખત ભારત સામે. આ દરમિયાન, 2023થી, ભારતે 30 માંથી 28 મેચ જીતી છે, પરંતુ બંને હાર અમદાવાદમાં થઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/tough-t20-world-cup-final-in-ahmedabad-india-won-28-out-of-30-matches-in-icc-tournament-lost-twice-against-this-team-467719 ",
-    "time": "2026-03-08T11:40:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Post Office ની ધાંસૂ સ્કીમ, ₹2 લાખનું રોકાણ કરો અને ઘર બેઠા મેળવો 90 હજારનો ફાયદો!",
     "desc": "જો તમે જોખમ વગર શાનદાર રિટર્ન ઈચ્છો છો તો પોસ્ટ ઓફિસની ટાઇમ ડિપોઝિટ સ્કીમ એક શાનદાર વિકલ્પ છે. આ સરકારી યોજનામાં માત્ર 2 લાખના રોકાણથી 5 વર્ષમાં તમે 90 હજારની કમાણી કરી શકો છો. તેમાં તમારા પૈસા સુરક્ષિત રહે છે અને ટેક્સ છૂટનો પણ લાભ મળે છે.",
@@ -142,15 +178,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/this-is-how-much-salary-will-be-given-under-the-8th-pay-commission-good-news-for-central-employees-467670 ",
     "time": "2026-03-08T09:49:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વર્લ્ડ કપ જીતવો એટલો સરળ નથી... ટીમ ઈન્ડિયા સામે છે આ 3 મોટા પડકાર",
-    "desc": "ટીમ ઈન્ડિયા સતત બીજી વખત T20 વર્લ્ડ કપ ફાઇનલમાં પહોંચી છે. જો આ વખતે ટ્રોફી જીતશે, તો ઇતિહાસ રચશે. આ પહેલાં કોઈ ટીમે આ સિદ્ધિ મેળવી નથી. જો કે, આ સરળ નહીં હોય, કારણ કે સામે ન્યુઝીલેન્ડ છે, જે T20 વર્લ્ડ કપમાં ભારત સામે ક્યારેય હાર્યું નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/three-big-challenges-for-india-vs-new-zealand-t20-world-cup-final-2026-467668 ",
-    "time": "2026-03-08T09:38:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -396,15 +423,6 @@ const newsData_gu = [
     "time": "2026-03-06T10:30:03.000Z"
   },
   {
-    "cat": "Business",
-    "title": "યુદ્ધ વચ્ચે પેટ્રોલ-ડીઝલ પર આવ્યા સારા સમાચાર, આ દેશોએ LPG સપ્લાય પર આપી મોટી ઓફર",
-    "desc": "ખાડીમાં યુદ્ધની સ્થિતિને પગલે ક્રૂડ ઓઈલ અને ગેસના સપ્લાયને લઈને મોટો પડકાર ઊભો થઈ ગયો છે. કારણકે ઈરાને મહત્વનો એવો હોર્મુઝ જળમાર્ગ બંધ કર્યો છે. ત્યારે હવે ભારતની મદદ માટે વધુ બે દેશો સામે આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/countries-like-australia-and-canana-offer-about-lpg-supply-according-to-govt-sources-467416 ",
-    "time": "2026-03-06T09:21:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકા અને ઇઝરાયલ પછી, વધુ એક દેશ ઇરાન પર કરશે હુમલો! સેનાને આપવામાં આવ્યો ઓર્ડર",
     "desc": "ઈરાનના સશસ્ત્ર દળોના જનરલ સ્ટાફે ડ્રોન હુમલાનો ઇનકાર કર્યો છે. ઈરાને યુદ્ધમાં તેલ અને અન્ય નાગરિક સુવિધાઓને નિશાન બનાવવાનો વારંવાર ઇનકાર કર્યો છે, જો કે તેના ડ્રોન અને મિસાઈલ હુમલાઓએ આ સ્થળોને નિશાન બનાવ્યા છે.",
@@ -523,30 +541,12 @@ const newsData_gu = [
   },
   {
     "cat": "World",
-    "title": "Iran-Israel War: અમેરિકાએ કર્યું ઘાતક  ડૂમ્સડે મિસાઈલનું ટેસ્ટિંગ, હિરોશીમાથી વધુ તબાહી મચી શકે, જો પરમાણુ યુદ્ધ થાય તો પણ આ દેશોને નહીં આવે ઊની આંચ!",
-    "desc": "અમેરિકા અને ઈઝરાયેલે ભેગા મળીને ઈરાન પર જે ભીષણ હુમલા કર્યા અને યુદ્ધ ફાટી નીકળ્યું તેનો આજે છઠ્ઠો દિવસ છે. ઈરાન મરણિયુ બનીને ઈઝરાયેલ અને ખાડીમાં અમેરિકાના સાથી દેશોની પદુડી કાઢી રહ્યું છે. ત્યારે અમેરિકાએ એક મોટું પગલું ભર્યું છે. જેને જોતા પરમાણુ યુદ્ધની ચર્ચાઓ ફરી શરૂ થઈ છે. જો પરમાણુ યુદ્ધ એક સમયે થઈ પણ જાય તો એવા કયા દેશો છે જે સુરક્ષિત રહી શકે તેવી સંભાવના છે...ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-israel-war-if-it-turns-into-nuclear-war-which-countries-can-remain-safe-world-news-in-gujarati-467255 ",
-    "time": "2026-03-05T05:38:50.000Z"
-  },
-  {
-    "cat": "World",
     "title": "તમે મોદી સાથે થોડા દિવસો વિતાવ્યા, કેવા માણસ લાગ્યા? કેનેડાના PMએ આપ્યો અજીબ જવાબ, જાણો",
     "desc": "કેનેડાના વડા પ્રધાન માર્ક કાર્ને 27 ફેબ્રુઆરીથી 2 માર્ચ સુધી ભારતની મુલાકાત લીધી હતી, જે દરમિયાન ભારત અને કેનેડાએ યુરેનિયમ અને મહત્વપૂર્ણ ખનિજોના પુરવઠા અંગે મહત્વપૂર્ણ કરારો પર હસ્તાક્ષર કર્યા હતા. તેમણે પીએમ મોદીની ખૂબ પ્રશંસા કરી હતી.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/you-spent-a-few-days-with-modi-what-kind-of-person-did-he-seem-to-be-canadian-pm-gave-a-strange-answer-know-467256 ",
     "time": "2026-03-05T05:35:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IPSની વર્દી સાથે કેટલો મળે છે પગાર અને પાવર ? શરૂઆતના પગારથી DGP બનવા સુધી વિશે જાણો સફર",
-    "desc": "ભારતમાં જ્યારે પણ સત્તા અને પ્રતિષ્ઠાની ચર્ચા થાય છે, ત્યારે IPS (ભારતીય પોલીસ સેવા)નું નામ સૌથી પહેલા આવે છે. આ ખાખી વર્દી ફક્ત કારકિર્દી નથી, તે લાખો યુવાનોનું સ્વપ્ન છે, જેના માટે તેઓ દિવસ-રાત કામ કરે છે. પરંતુ શું તમે ક્યારેય વિચાર્યું છે કે આ દરજ્જા સાથે આવતા મુળ પગાર અને ભથ્થા શું છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-much-salary-and-power-does-an-ips-uniform-give-learn-about-the-journey-from-starting-salary-to-becoming-a-dgp-467222 ",
-    "time": "2026-03-04T17:13:26.000Z"
   },
   {
     "cat": "Entertainment",

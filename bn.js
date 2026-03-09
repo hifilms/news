@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "গালে চুম্বন, জয়ের রাতে মাঠেই গলা জড়িয়ে আদর! ‘আমার স্ত্রী পাশে না থাকলে,’ প্রেমিকা মাহিকাকে নিয়ে সাহসী ‘ঘোষণা’ হার্দিকের",
+    "desc": "ভারতের তিন তারকা ব্যাটারের হাতে শেষ কিউয়ি বোলিং। অভিষেক শর্মা ২১ বলে ৫২, ৪৬ বলে ৮৯ রান সঞ্জু স্যামসনের, ২৫ বলে ৫৪ রান ঈশান কিষাণের। তিন ব্যাটারের তাণ্ডবের সামনে অসহায় দেখাচ্ছিল লকি ফার্গুসন, ম্যাট হেনরিদের। ভারতের রান শেষ হয় ২৫৫-তে। ৫ উইকেটে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Hardik-pandya-5-2026-03-7598df13be7f37baea46dac88e4eb60c-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/icc-t-20-world-cup-2026-final-2026-hardik-pandya-girlfriend-mahika-sharma-was-present-after-the-match-sta-2575450.html",
+    "time": "2026-03-09T05:35:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "১০০ ডলার ছাড়াল তেল, সর্বকালীন ঐতিহাসিক রের্কড দামে; ট্রাম্পের আশ্বাস, কমবে দ্রুত",
+    "desc": "পশ্চিম এশিয়ায় উত্তেজনার জেরে বিশ্ববাজারে তেলের দাম ব্যারেল প্রতি ১০০ ডলার ছাড়িয়েছে। এই আবহেই স্বস্তির কথা বললেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তাঁর মতে, ইরানের পরমাণু হুমকি নির্মূল করার জন্য এই সাময়িক মূল্যবৃদ্ধি একটি 'সামান্য ত্যাগ'।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/trump-defends-high-oil-prices-amid-iran-conflict_644169.html ",
+    "time": "2026-03-09T05:08:25.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "রাষ্ট্রপতি ভবন বনাম..., আদিবাসী উন্নয়নের 'রিপোর্ট কার্ড' নিয়ে ময়দানে নামছে রাজ্যের শাসক দল",
     "desc": "রাষ্ট্রপতি প্রতিভা মুর্মুর সাম্প্রতিক মন্তব্যের পর কার্যত রাষ্ট্রপতি ভবনের সঙ্গে সংঘাত আবহে রাজ্য। এই পরিতস্থিতিতে আদিবাসী উন্নয়নে রাজ্যের তরফে যাবতীয় তথ্য নিয়ে জোরদার প্রচার চালানোর সিদ্ধান্ত নেওয়া হচ্ছে । সূত্রের খবর এর পাশাপাশি আর্থিক স্বনির্ভরতার প্রসঙ্গও তুলে ধরা হবে।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/mimi-chakraborty-defamation-case-20-lakh-compensation-2-65-lakh-refund-bongaon-court-tanmay-shastri-tarunjyoti-tewari-sal-2565267.html",
     "time": "2026-03-02T11:21:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Iran-Israel Tention: যুদ্ধের আবহে ক্রমশ ঊর্ধ্বমুখী তেলের দাম",
-    "desc": "মধ্যপ্রাচ্যে মহারণ। ভয়ঙ্কর প্রত্যাঘাত ইরানের। আমেরিকার রণতরী আব্রাহাম লিঙ্কনে হামলা ইরানের ৪ ব্যালেস্টিক মিসাইলের। মধ্যপ্রাচ্যের মহাযুদ্ধে জ্বলছে হরমুজ প্রণালী। হরমুজ প্রণালী দিয়ে থমকে তেল সরবরাহ। তেল পরিবহণের গুরুত্বপূর্ণ রুট এই হরমুজ প্রণালী। এই জলপথ ধরে তেল পরিবহণ থমকে যাওয়ায় বাড়ছে জ্বালানির দাম। ইতিমধ্যেই অপরিশোধীত তেলের দাম ১০ শতাংশ বৃদ্ধি পেয়েছে। যুদ্ধের আঁচে জ্বালানির দাম বৃদ্ধির আশঙ্কায় বিশ্ব",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Iran-Israel-Conflict-2026-03-e284461d9e4456c8ac048192b4d37142-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/business/iran-israel-tention-oil-prices-up-as-concerns-over-closure-of-strait-of-hormuz-mount-rm-2564833.html",
-    "time": "2026-03-02T08:29:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "মধ্যপ্রাচ্যে মহারণ, জ্বলছে হরমুজ প্রণালী, ইরান-আমেরিকা সংঘাতে ক্রমশ ঊর্ধ্বমুখী তেলের দাম",
-    "desc": "মধ্যপ্রাচ্যে উত্তাল পরিস্থিতি। যুদ্ধের আবহে ক্রমেই বাড়ছে তেলের দাম। হরমুজ প্রণালী কার্যত বন্ধ করে দিয়েছে তেহরান। এই সরু প্রণালী দিয়ে পণ্যবাহী জাহাজ চলাচল বন্ধ হয়ে গিয়েছে। এই জলপথ ধরে তেল পরিবহণ থমকে যাওয়ায় বাড়ছে জ্বালানির দাম।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Middle-East-Conflict-Sparks-Surge-in-Oil-Prices-2026-03-042f0911180cedd953661d6e482f7809-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/surge-in-oil-prices-middle-east-conflict-sparks-surge-in-oil-prices-rm-2564872.html",
-    "time": "2026-03-02T08:23:44.000Z"
   }
 ];

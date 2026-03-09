@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Jaishankar addresses Parliament on West Asia war; speaks on Indians stranded in the region and energy security situation",
+    "desc": "External Affairs Minister Jaishankar lists Centre's three 'guiding factors' in its approach towards the war in West Asia; Leader of House in Rajya Sabha, J.P. Nadda, slams the Opposition for behaviour during the session, accuses them of \"causing anarchy\"",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/parliament-budget-session-march-9-2026-live-motion-to-remove-speaker-om-birla-sets-stage-for-fiery-session/article70721097.ece",
+    "time": "2026-03-09T06:53:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'These games will define his career': Gavaskar hails India’s clutch hero Samson",
+    "desc": "Sunil Gavaskar hailed Sanju Samson's remarkable T20 World Cup turnaround, calling it a career-defining moment. Samson, initially on the bench, delivered crucial knocks in knockout stages, transforming adversity into success. His clutch performances against West Indies, England, and New Zealand powered India's historic back-to-back title win, a feat Gavaskar described as the pinnacle of Indian cricket history.",
+    "img": "https://static.toiimg.com/photo/msid-129316477,imgsize-108664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/these-games-will-define-his-career-sunil-gavaskar-hails-indias-clutch-hero-sanju-samson/articleshow/129316288.cms",
+    "time": "2026-03-09T06:43:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "5 horror dramas to watch on Netflix",
+    "desc": "Nothing pulls you into the night like a Netflix horror drama that blends chills with raw human ache. Ranging from psychological mind-games to folklore driven horror dramas, each of these mentioned below, digs deep into the fear, making survival challenging for protagonists. These five picks stand out for their grip on your gut, mixing supernatural dread with messy emotions that linger long after the credits roll.",
+    "img": "https://static.toiimg.com/photo/msid-129315954,imgsize-900070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/5-horror-dramas-to-watch-on-netflix-from-veronica-the-perfection-and-his-house/photostory/129315954.cms",
+    "time": "2026-03-09T06:32:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Contact with Iran leadership difficult’: Jaishankar spells out India’s position on Middle East war",
+    "desc": "India advocates for dialogue and diplomacy to ease Middle East tensions, with PM Modi closely monitoring the situation. External Affairs Minister S Jaishankar highlighted concerns for over a crore Indians residing in the Gulf and the region's importance for energy security. The conflict's escalation has led to significant disruption and the tragic loss of two Indian mariners.",
+    "img": "https://static.toiimg.com/photo/msid-129315909,imgsize-1020286.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/contact-with-iran-leadership-difficult-jaishankar-spells-out-indias-position-on-middle-east-war/articleshow/129315807.cms",
+    "time": "2026-03-09T06:32:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Supriya reveals if DP-Ranveer were dating during 'Ram-Leela'",
+    "desc": "Veteran actress Supriya Pathak shared her experience on Sanjay Leela Bhansali's 'Ram-Leela', praising Deepika Padukone and Ranveer Singh's passion for their craft. While Pathak admitted to being oblivious to their romance during filming, she noted their on-screen chemistry and pleasant demeanor on set, highlighting their beautiful pairing. Read on to know more about what the veteran actress has to say.",
+    "img": "https://static.toiimg.com/photo/msid-129315395,imgsize-151698.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/supriya-pathak-reveals-if-deepika-padukone-and-ranveer-singh-were-dating-during-ram-leela-says-mujhe-lagta-hai-ki-/articleshow/129315395.cms",
+    "time": "2026-03-09T06:29:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "From protests to power: RSP’s victory reshapes Nepal politics",
+    "desc": "Nepal’s March 5 election has delivered a dramatic political upheaval, with the four-year-old Rastriya Swatantra Party (RSP) securing a commanding mandate. Led by Balendra Shah, the party defeated veteran leaders including K.P. Sharma Oli in a vote driven by youth anger over corruption and instability.",
+    "img": "https://th-i.thgim.com/public/incoming/lznot3/article70721424.ece/alternates/LANDSCAPE_1200/Editorial%205.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-from-protests-to-power-rsps-victory-reshapes-nepal-politics-the-hindu-editorial/article70721427.ece",
+    "time": "2026-03-09T06:19:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rihanna's net worth: Inside her billion-dollar empire",
+    "desc": "Pop icon Rihanna's Beverly Hills home was recently targeted by gunfire, though no one was harmed. This incident brings attention to her remarkable business acumen. Beyond music, Rihanna has built a billion-dollar empire with Fenty Beauty and Savage X Fenty, making her one of the wealthiest self-made women in entertainment.",
+    "img": "https://static.toiimg.com/photo/msid-129314553,imgsize-84994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rihannas-net-worth-inside-the-billion-dollar-empire-of-the-music-icon-and-entrepreneur/articleshow/129314378.cms",
+    "time": "2026-03-09T06:05:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah surpasses Lasith Malinga, rewrites T20 World Cup history",
+    "desc": "Jasprit Bumrah's sensational four-wicket haul powered India to their third T20 World Cup title, crushing New Zealand by 96 runs in the final. His historic spell made him the first fast bowler with a four-fer in a knockout match and the leading pacer in T20 World Cup history. India's massive 255/5 set the stage for a dominant victory.",
+    "img": "https://static.toiimg.com/photo/msid-129314525,imgsize-109592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-surpasses-lasith-malinga-rewrites-t20-world-cup-history/articleshow/129314445.cms",
+    "time": "2026-03-09T06:05:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Nikkei tumbles 3,000 points, Kospi down 7%; markets trade in red as oil prices soar beyond $100",
+    "desc": "Asian stocks plummeted Monday as surging oil prices, driven by Middle East supply concerns, rattled markets. South Korea's Kospi led the decline, falling over 7.8%. Brent crude surpassed $118 a barrel, reaching a 14-year high, fueling fears of significant global economic harm.",
+    "img": "https://static.toiimg.com/photo/msid-129313503,imgsize-76917.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-nikkei-tumbles-3000-points-kospi-down-7-markets-trade-in-red-as-oil-prices-soar-beyond-100/articleshow/129311844.cms",
+    "time": "2026-03-09T05:45:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' advance crosses USD 1.7mn in US, Rs 18cr in India",
+    "desc": "The Revenge' is making waves with record-breaking advance box office collections. The film has already garnered significant pre-sale figures in North America, eyeing USD 2 million, and domestic bookings have surpassed Rs 18 crore. This strong start suggests a massive post-pandemic release for the highly anticipated sequel.",
+    "img": "https://static.toiimg.com/photo/msid-129312320,imgsize-63336.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-the-revenge-advance-booking-report-ranveer-singh-starrer-off-to-record-breaking-start-crosses-usd-1-7-million-in-north-america-and-rs-18-crore-in-india/articleshow/129312149.cms",
+    "time": "2026-03-09T05:42:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Samson is a combination of Virat &amp; Rohit’: Kumble after T20 WC masterclass",
+    "desc": "Sanju Samson's stellar T20 World Cup performance, especially in the knockouts, has drawn high praise. Legendary spinner Anil Kumble sees Samson as a unique blend of Virat Kohli's calculated approach and Rohit Sharma's aggressive power-hitting. Samson's remarkable run, including record-breaking scores, propelled India to victory, showcasing his adaptability and explosive talent.",
+    "img": "https://static.toiimg.com/photo/msid-129313269,imgsize-42674.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sanju-samson-is-a-combination-of-virat-kohli-and-rohit-sharma-anil-kumble-after-t20-world-cup-masterclass/articleshow/129313183.cms",
+    "time": "2026-03-09T05:40:40.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Bangladesh shuts universities early to save power amid energy crisis",
+    "desc": "Authorities ⁠said the decision applies to all public and private universities across the country, a move that officials said will ‌not only reduce electricity consumption but also ease traffic congestion, which leads to fuel ‌wastage",
+    "img": "https://th-i.thgim.com/public/incoming/lsgcua/article70721280.ece/alternates/LANDSCAPE_1200/Bangladesh_Fuel_76116.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/bangladesh-shuts-universities-early-to-save-power-amid-energy-crisis/article70721203.ece",
+    "time": "2026-03-09T05:31:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Stop celebrating milestones, celebrate trophies’: Gambhir’s strong message after T20 WC win",
+    "desc": "India's head coach Gautam Gambhir emphasized that trophies, not individual milestones, are paramount for team success. He highlighted this philosophy after India's T20 World Cup victory, urging a shift in focus from personal records to collective achievements. Gambhir praised Suryakumar Yadav and Sanju Samson for embracing this team-first approach, prioritizing wins over statistics.",
+    "img": "https://static.toiimg.com/photo/msid-129311959,imgsize-82092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/stop-celebrating-milestones-celebrate-trophies-gautam-gambhirs-strong-message-after-indias-t20-world-cup-triumph/articleshow/129311754.cms",
+    "time": "2026-03-09T05:14:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Daisy hits back at trolls after cooking malpua at Iftari",
+    "desc": "In a powerful rebuttal, actress Daisy Shah took a stand against a social media troll who took issue with her cooking at an Iftaar gathering, comparing it to her previous anti-firecracker advocacy. Shah emphasized the crucial difference between culinary joy and the dangers of reckless fireworks, imploring the individual to stop inciting religious animosity. Read on to know more in details.",
+    "img": "https://static.toiimg.com/photo/msid-129310244,imgsize-93196.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/daisy-shah-hits-back-at-trolls-after-cooking-malpua-at-an-iftar-party-good-luck-with-spreading-hate/articleshow/129310244.cms",
+    "time": "2026-03-09T05:07:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Crude oil surpasses $100: WTI up 30%, brent crude reaches $118; what it means?",
+    "desc": "Middle East conflict intensifies, driving oil markets past $100 a barrel as Brent crude reached $118. Fears of energy supply disruption and blocked shipping routes, particularly through the Strait of Hormuz, have caused significant price surges. This volatility impacts global energy supplies and the cost of everyday goods.",
+    "img": "https://static.toiimg.com/photo/msid-129306105,imgsize-2032116.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/crude-oil-surpasses-100-wti-up-30-brent-crude-reaches-118-what-it-means/articleshow/129305473.cms",
+    "time": "2026-03-09T05:06:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Human Rights Watch accuses Israel of using white phosphorus in new Lebanon attacks",
+    "desc": "\"Israel should immediately halt this practice and states providing Israel with weapons, including white phosphorus munitions, should immediately suspend military assistance and arms sales and push Israel to stop firing such munitions in residential areas,\" Lebanon researcher at HRW said",
+    "img": "https://th-i.thgim.com/public/incoming/yqhd18/article70721195.ece/alternates/LANDSCAPE_1200/2026-03-08T071051Z_704018663_RC260KA0CYH0_RTRMADP_3_IRAN-CRISIS-LEBANON-AFTERMATH.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/human-rights-watch-accuses-israel-of-using-white-phosphorus-in-new-lebanon-attacks/article70721156.ece",
+    "time": "2026-03-09T04:56:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee hits all-time low to reach 92.5 against US dollar as oil prices surpass $100",
+    "desc": "The Indian Rupee faced significant pressure, nearing a record low due to soaring crude oil prices and a stronger US dollar, exacerbated by Middle East tensions. Foreign investor outflows and a sharp decline in domestic equities further impacted the currency. Experts warn of further weakening if oil prices remain elevated, potentially pushing the rupee to 93.00.",
+    "img": "https://static.toiimg.com/photo/msid-129314255,imgsize-1351521.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-nears-all-time-low-currency-reaches-92-25-against-us-dollar-as-oil-prices-surpass-100-amid-middle-east-tensions/articleshow/129310049.cms",
+    "time": "2026-03-09T04:46:53.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "VPNs up, porn websites down as Australia brings in new online age-restrictions",
     "desc": "“A child today can’t walk into a bar and order ​a drink, they can’t stroll into ‌a strip club or browse an adult shop or sit down at a blackjack table in a casino,” eSafety Commissioner Julie Inman Grant said",
@@ -9,22 +162,13 @@ const newsData_en = [
     "time": "2026-03-09T04:45:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Motion to remove Speaker Om Birla sets stage for a stormy session",
-    "desc": "The second part of the Budget Session of Parliament is set to resume from today; External Affairs Minister S. Jaishankar will make a statement in the Lok Sabha today on the conflict in West Asia",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/parliament-budget-session-march-9-2026-live-motion-to-remove-speaker-om-birla-sets-stage-for-fiery-session/article70721097.ece",
-    "time": "2026-03-09T04:42:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Israel-Iran war LIVE: Dozens wounded in Bahrain as Gulf suffers missile, drone attacks",
-    "desc": "Oil prices eclipsed $114 per barrel for the first time since 2022; the price for a barrel of Brent crude surged past $114, and West Texas Intermediate was also selling for about $114 a barrel",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/israel-iran-war-live-march-9-2026-mojtaba-khamenei-chosen-as-next-supreme-leader-missiles-fired-world-news-updates/article70720987.ece",
-    "time": "2026-03-09T04:26:45.000Z"
+    "cat": "Sports",
+    "title": "'Intensity with a smile is a killer combo': Dhoni playfully praises Gambhir",
+    "desc": "India has won its third T20 World Cup title. They defeated New Zealand in the final match. This victory marks a historic achievement for the Indian cricket team. MS Dhoni congratulated the team and coach Gautam Gambhir. Jasprit Bumrah was named Player of the Match for his outstanding bowling performance.",
+    "img": "https://static.toiimg.com/photo/msid-129310287,imgsize-40232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/intensity-with-a-smile-is-a-killer-combo-dhoni-playfully-praises-gambhir-after-indias-t20-world-cup-win/articleshow/129310343.cms",
+    "time": "2026-03-09T04:44:51.000Z"
   },
   {
     "cat": "Sports",
@@ -64,7 +208,7 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Nifty50 opens below 24,000, Sensex down over 1,700 points amid Middle East crisis",
+    "title": "Rs 12 lakh cr wiped out as Sensex plunges 2,000 points, Nifty below 24,000",
     "desc": "Indian stock markets, Nifty and Sensex, opened the week lower amid escalating Middle East conflict, following a significant market cap erosion last week. Analysts anticipate geopolitical developments, particularly their impact on global crude oil prices, will dictate market direction. Investors are also closely monitoring foreign investor flows and global cues for sentiment shifts.",
     "img": "https://static.toiimg.com/photo/msid-129307297,imgsize-93070.cms",
     "src": "indiatimes.com",
@@ -207,15 +351,6 @@ const newsData_en = [
     "time": "2026-03-09T02:22:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Katie Leung likes 'Bridgerton' days better than 'Harry Potter' ones",
-    "desc": "Katie Leung, famed for her portrayal of Cho Chang in the iconic 'Harry Potter' films, shares her joy in taking on a new role in 'Bridgerton.' Reflecting on her earlier career, she admits that she was once easily influenced by others' thoughts.",
-    "img": "https://static.toiimg.com/photo/msid-129303125,imgsize-102792.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/i-would-not-want-to-go-back-katie-leung-on-why-bridgerton-beats-her-cho-chang-days-from-harry-potter-films/articleshow/129303125.cms",
-    "time": "2026-03-09T02:10:41.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Shriram Finance, Nykaa &amp; more: Top stocks to watch on March 9",
     "desc": "Jefferies initiated coverage on Shriram Finance with a buy rating and a Rs 1,220 target, citing healthy commercial vehicle demand and strong AUM growth prospects. Macquarie downgraded Nykaa to underperform, questioning its ability to replicate Dot & Key's success with other owned brands.",
@@ -225,33 +360,6 @@ const newsData_en = [
     "time": "2026-03-09T01:58:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Britney Spears 2007 breakdown to 2026 DUI",
-    "desc": "This photo feature references to alcohol and drug addiction. Reader discretion is advised.Britney Spears’ recent arrest for suspected driving under the influence has thrust her back into the spotlight echoing a series of legal troubles from nearly two decades ago. The pop superstar now 44, was detained on March 4, 2026, in Ventura County, California, after erratic driving on the 101 Freeway. Today, prompts a closer look at her history of run-ins with authorities during her most turbulent years.",
-    "img": "https://static.toiimg.com/photo/msid-129302640,imgsize-893564.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/britney-spears-2007-breakdown-to-2026-dui-a-timeline-on-the-toxic-singers-legal-woes/photostory/129302640.cms",
-    "time": "2026-03-09T01:55:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karan Aujla announces April 12 Mumbai 2.0 concert",
-    "desc": "Following a disappointing Holi concert, Punjabi star Karan Aujla is offering a free \"Mumbai 2.0\" return show on April 12, 2026. Ticket holders from the March 3 event will receive complimentary entry, with some categories upgraded. Organizers promise an enhanced experience, aiming to rectify past issues and deliver a spectacular performance for his dedicated fanbase. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129302013,imgsize-66476.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/karan-aujla-announces-april-12-mumbai-concert-free-entry-for-holi-concert-fans-after-mismanagement-row/articleshow/129302013.cms",
-    "time": "2026-03-09T01:49:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Michael J. Fox and Christopher Lloyd reunite",
-    "desc": "In a delightful throwback to 80s cinema, beloved co-stars Michael J. Fox and Christopher Lloyd recently rekindled their friendship over a cozy dinner. Fox captured the moment in a charming social media post, igniting a whirlwind of nostalgia among fans. Lloyd's cheeky remark about feeling 'heavy'—a clever reference to his iconic role—only intensified our admiration for these legendary figures.",
-    "img": "https://static.toiimg.com/photo/msid-129301310,imgsize-78820.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/back-to-the-future-stars-michael-j-fox-and-christopher-lloyd-reunite-ahead-of-films-40th-anniversary/articleshow/129301310.cms",
-    "time": "2026-03-09T01:25:45.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Death behind bars in Chhattisgarh",
     "desc": "The custodial death of a tribal leader lodged in a jail in Chhattisgarh’s Kanker district has sparked a debate over prisoner safety across the State. A report on what transpired in the Assembly and the family’s claims",
@@ -259,24 +367,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/chhattisgarh/death-behind-bars-in-chhattisgarh/article70716848.ece",
     "time": "2026-03-09T01:24:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jeremy Larner passes away at 88",
-    "desc": "Acclaimed screenwriter Jeremy Larner, celebrated for \"The Candidate,\" has passed away at 88. His son confirmed the news, revealing Larner had been battling lymphoma and Parkinson's disease. The Oscar winner, born in 1937, also penned \"Nobody Knows\" and served as Eugene McCarthy's speechwriter. His impactful career left an indelible mark on cinema.",
-    "img": "https://static.toiimg.com/photo/msid-129301147,imgsize-89324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-candidate-writer-jeremy-larner-passes-away-at-88/articleshow/129301147.cms",
-    "time": "2026-03-09T01:22:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tom-Zendaya's FAKE pic among most liked on Instagram",
-    "desc": "A stunning AI-generated wedding photo of Tom Holland and Zendaya has captivated millions online, amassing over 11 million likes. Digital artist Juan Regueira Rodríguez revealed the images were created due to the couple's desire for extreme privacy regarding their nuptials. This highlights the growing influence of AI in creating viral content, even fooling celebrities.",
-    "img": "https://static.toiimg.com/photo/msid-129299970,imgsize-118944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-and-zendayas-fake-ai-generated-pic-rakes-in-11-million-likes-ranks-among-most-liked-pics-of-2026/articleshow/129299400.cms",
-    "time": "2026-03-09T01:17:53.000Z"
   },
   {
     "cat": "Sports",
@@ -387,15 +477,6 @@ const newsData_en = [
     "time": "2026-03-08T17:22:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "How much did India win? Full T20 World Cup 2026 prize money revealed",
-    "desc": "India clinched the ICC Men's T20 World Cup 2026 title, defeating New Zealand in a thrilling final in Ahmedabad. The victorious Indian team secured a substantial $3 million prize money. Sanju Samson's explosive 89 and Jasprit Bumrah's stellar bowling performance were instrumental in India's dominant victory, capping off a financially rewarding tournament for the champions.",
-    "img": "https://static.toiimg.com/photo/msid-129280891,imgsize-155062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/how-much-did-india-win-full-t20-world-cup-2026-prize-money-revealed/articleshow/129280930.cms",
-    "time": "2026-03-08T17:17:35.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Mamata should resign over protocol breach at President Murmu’s Darjeeling event: BJP",
     "desc": "PM Modi had insulted the President by remaining seated with veteran BJP leader L.K. Advani while President Murmu stood next to them, says the West Bengal CM, holding a dharna against the SIR in Kolkata",
@@ -412,15 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/why-did-the-us-supreme-court-reject-trumps-tariffs-explained/article70718799.ece",
     "time": "2026-03-08T17:07:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is the highest successful run chase in T20 World Cup final history?",
-    "desc": "India posted a record 255/5 in the T20 World Cup final against New Zealand, thanks to stellar knocks from Sanju Samson (89), Abhishek Sharma (52), and Ishan Kishan (54). This massive total sets a daunting target of 256 for the Blackcaps, who are now chasing the highest successful chase in the competition's history.",
-    "img": "https://static.toiimg.com/photo/msid-129278959,imgsize-39730.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-nz-india-post-255-in-first-innings-what-is-the-highest-successful-run-chase-in-t20-world-cup-final-history/articleshow/129278774.cms",
-    "time": "2026-03-08T16:17:06.000Z"
   },
   {
     "cat": "Business",
@@ -468,24 +540,6 @@ const newsData_en = [
     "time": "2026-03-08T15:03:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Pawan Kalyan, Lokesh salute women on International Women’s Day",
-    "desc": "True progress of a nation is measured by the dignity, safety and empowerment of its women, says the Deputy Chief Minister, while HRD Minister says that respecting women is a moral value that every one should demonstrate in practice",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/pawan-kalyan-lokesh-salute-women-on-international-womens-day/article70719113.ece",
-    "time": "2026-03-08T14:31:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek, Samson tear into NZ; break 17-year record in T20 World Cup final",
-    "desc": "India's opening duo, Abhishek Sharma and Sanju Samson, powered to a record 98-run partnership in the T20 World Cup final against New Zealand. Sharma's rapid fifty set the tone, continuing Samson's strong tournament form. This explosive start provided India with a significant advantage as they aim for a historic third title on home soil.",
-    "img": "https://static.toiimg.com/photo/msid-129274193,imgsize-42664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/abhishek-sharma-sanju-samson-tear-into-new-zealand-break-17-year-record-in-t20-world-cup-final/articleshow/129273693.cms",
-    "time": "2026-03-08T14:24:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Analysts",
     "desc": "Gold prices are expected to remain volatile as investors monitor Middle East tensions and key global economic data. Escalating conflicts could boost safe-haven demand for gold, while easing tensions may trigger profit-taking. Silver also faces volatility, currently in a consolidation phase, influenced by gold and industrial metals.",
@@ -495,15 +549,6 @@ const newsData_en = [
     "time": "2026-03-08T13:34:14.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026 set for March 28 start, RCB to play five home games in Bengaluru",
-    "desc": "IPL 2026 kicks off March 28, confirmed by Star Sports. Defending champions Royal Challengers Bengaluru will play most home games at Bengaluru's M. Chinnaswamy Stadium, with five matches scheduled there. The venue also hosts the final and a playoff. This marks the return of IPL to Bengaluru after a hiatus.",
-    "img": "https://static.toiimg.com/photo/msid-129271082,imgsize-266316.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-set-for-march-28-start-rcb-to-play-five-home-games-in-bengaluru/articleshow/129270981.cms",
-    "time": "2026-03-08T13:17:03.000Z"
-  },
-  {
     "cat": "World",
     "title": "Pezeshkian says Iran will halt strikes on neighbours; Trump vows to hit harder",
     "desc": "The Iranian President says it will only target neighbours if attacks originate from their territory; responding to the U.S. President’s demand for “unconditional surrender”, Mr. Pezeshkian says Iran’s enemies will take this dream “to their grave”",
@@ -511,33 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/pezeshkian-says-iran-will-halt-strikes-on-neighbours-trump-vows-to-hit-harder/article70716631.ece",
     "time": "2026-03-08T12:39:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s first Ring Metro: PM Modi inaugurates Majlis Park–Maujpur–Babarpur Pink Line; check stations",
-    "desc": "Prime Minister Narendra Modi inaugurated two new metro corridors in Delhi, completing India's first fully operational Ring Metro. The 12.3 km Pink Line extension and the 9.9 km Magenta Line section aim to enhance connectivity, reduce travel times, and ease congestion and pollution in the capital.",
-    "img": "https://static.toiimg.com/photo/msid-129265454,imgsize-143002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-first-ring-metro-pm-modi-inaugurates-majlis-parkmaujpurbabarpur-pink-line-check-stations/articleshow/129265095.cms",
-    "time": "2026-03-08T10:56:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India diversifies oil basket as Middle East conflict drags on",
-    "desc": "Amidst escalating Middle East tensions, India is rerouting crude oil supplies to secure uninterrupted fuel imports. Refiners are increasing sourcing from the US, West Africa, and Russia, while holding planned maintenance to build reserves. This diversification aims to mitigate risks associated with the Strait of Hormuz, ensuring domestic fuel needs are met despite potential cost increases.",
-    "img": "https://static.toiimg.com/photo/msid-129264642,imgsize-490954.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/hormuz-supply-shock-india-diversifies-oil-basket-as-middle-east-conflict-drags-on/articleshow/129263464.cms",
-    "time": "2026-03-08T10:24:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How much oil does India have and how long will it last",
-    "desc": "India's energy security is bolstered by over 250 million barrels of oil reserves, sufficient for nearly two months. Diversified crude imports from 40 countries and a reduced reliance on the Strait of Hormuz mitigate geopolitical risks. India continues to import Russian oil, complying with G7 price caps, while domestic ethanol blending and expanded refining capacity further strengthen its energy independence.",
-    "img": "https://static.toiimg.com/photo/msid-129262463,imgsize-82306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/250-million-barrel-buffer-how-much-oil-does-india-have-and-how-long-will-it-last/articleshow/129262355.cms",
-    "time": "2026-03-08T09:36:03.000Z"
   },
   {
     "cat": "World",
@@ -754,24 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/hello-bachhon-series-review-viineet-kumar-siinghs-earnesty-gets-diffused-in-tvfs-factory-made-snoozefest/article70711007.ece",
     "time": "2026-03-06T10:14:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. aims to exhume and identify 88 USS Arizona crew members buried as unknowns after Pearl Harbor",
-    "desc": "The Arizona sank just nine minutes after being bombed, and its 1,177 dead account for nearly half the servicemen killed in the attack. Today the battleship still lies where it hit bottom, with more than 900 sailors and Marines are entombed inside",
-    "img": "https://th-i.thgim.com/public/incoming/4rxgkm/article70711024.ece/alternates/LANDSCAPE_1200/Pacific_War_75_Key_Events_79414.jpg-c7af7.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-aims-to-exhume-and-identify-88-uss-arizona-crew-members-buried-as-unknowns-after-pearl-harbor/article70711019.ece",
-    "time": "2026-03-06T09:02:25.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Singapore announces new committee to strengthen Indian community identity",
-    "desc": "The INEI committee will be chaired by Senior Minister of State for Transport and Law Murali Pillai, as well as Minister of State for Culture, Community and Youth Dinesh Vasu Dash, both of whom are of Indian origin",
-    "img": "https://th-i.thgim.com/public/incoming/tmpr57/article70710886.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__A_view_o_2_1_KFDG65R5.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/singapore-announces-new-committee-to-strengthen-indian-community-identity/article70710772.ece",
-    "time": "2026-03-06T08:07:39.000Z"
   },
   {
     "cat": "Sports",

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jasprit Bumrah joins Virat Kohli in elite list with stellar showing in T20 World Cup final",
+    "desc": "Star India pacer Jasprit Bumrah was undoubtedly the star performer for the Indian team as the side defeated New Zealand in the final of the T20 World Cup 2026. The two sides locked horns at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-joins-virat-kohli-in-elite-list-with-stellar-showing-in-t20-world-cup-final-2026-03-09-1033140",
+    "time": "2026-03-09T06:54:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shoaib Akhtar hails India's system and decision-making after historic T20 World Cup win",
+    "desc": "India defeated New Zealand in the summit clash of the T20 World Cup 2026. The two sides took on each other at the Narendra Modi Stadium in Ahmedabad on March 8. While many anticipated a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shoaib-akhtar-hails-india-s-system-and-decision-making-after-historic-t20-world-cup-win-2026-03-09-1033132",
+    "time": "2026-03-09T06:11:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav lays out future 'Olympic gold' plan for team India after T20 World Cup triumph",
+    "desc": "The Indian team etched its name in history after defeating New Zealand in the T20 World Cup 2026 final. The two sides locked horns at the Narendra Modi Stadium in Ahmedabad on March 8. Defeating...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-lays-out-future-olympic-gold-plan-for-team-india-after-t20-world-cup-triumph-2026-03-09-1033126",
+    "time": "2026-03-09T05:16:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Outstanding effort': Former India cricketer hails Jasprit Bumrah's heroics after India's T20 World Cup title",
     "desc": "Team India registered a brilliant victory against New Zealand in the final of the T20 World Cup 2026. The two sides locked horns at the Narendra Modi Stadium in Ahmedabad on March 8, and the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-credits-sachin-tendulkar-for-turnaround-after-winning-player-of-tournament-award-in-t20-wc-2026-2026-03-08-1033094",
     "time": "2026-03-08T17:48:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Was doubting myself, got emotional'",
-    "desc": "India delivered a commanding performance to defeat New Zealand by 96 runs in the T20 World Cup 2026 final at Narendra Modi Stadium in Ahmedabad. The victory ensured India retained the title and became the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/was-doubting-myself-got-emotional-abhishek-sharma-reflects-on-topsy-turvy-season-after-winning-t20-world-cup-2026-03-08-1033093",
-    "time": "2026-03-08T17:48:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah breaks Lasith Malinga's all-time T20 World Cup record in final as India create history",
-    "desc": "India fast bowler Jasprit Bumrah created history today in the T20 World Cup final against New Zealand. He picked up a four-wicket haul while conceding only 15 runs in his four overs as India successfully...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-breaks-lasith-malinga-s-all-time-t20-world-cup-record-in-final-as-india-create-history-2026-03-08-1033090",
-    "time": "2026-03-08T17:28:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India bulldoze New Zealand to retain T20 World Cup, become first host nation to win trophy",
-    "desc": "India crushed New Zealand by 96 runs to retain the T20 World Cup at the Narendra Modi Stadium in Ahmedabad. The hosts unleashed a relentless assault on the Kiwi bowlers, and the match was effectively...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-bulldoze-new-zealand-to-retain-t20-world-cup-become-first-host-nation-to-win-trophy-2026-03-08-1033087",
-    "time": "2026-03-08T17:13:55.000Z"
   }
 ];
