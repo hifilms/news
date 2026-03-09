@@ -1,21 +1,156 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Jamie recalls Jesse’s tumour battle and failed surgery",
+    "desc": "Veteran comedian Johny Lever has entertained audiences for decades, but his family once went through a deeply challenging phase when his son Jesse Lever was diagnosed with a tumour in his neck at a young age. In a recent conversation, his daughter Jamie Lever opened up about the difficult period and how faith helped the family cope. Jamie recalled that Jesse was still in school when the family first realised something was wrong.",
+    "img": "https://static.toiimg.com/photo/msid-129350006,imgsize-193666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/johny-levers-daughter-jamie-lever-recalls-brother-jesse-levers-tumour-battle-and-failed-surgery-we-would-never-return-to-that-lifestyle/articleshow/129350006.cms",
+    "time": "2026-03-09T18:23:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu can never be painted in saffron, says CM Stalin",
+    "desc": "The BJP will never be able to rule the State even if it comes wearing the mask of the AIADMK, the DMK president says at the 12th State conference of the party at Siruganur on the outskirts of Tiruchi",
+    "img": "https://th-i.thgim.com/public/incoming/pc94mn/article70723927.ece/alternates/LANDSCAPE_1200/4861_9_3_2026_20_10_6_1_DSC_4497.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-can-never-be-painted-in-saffron-says-cm-stalin/article70723924.ece",
+    "time": "2026-03-09T18:18:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India glorious",
+    "desc": "A triumph of spirit, of team spirit, of belief in themselves and each other, the T20 World Cup title won by Suryakumar & Co. will be celebrated long and hard; India relished being installed the favourites and basked in the fact that everyone expected them to go all the way",
+    "img": "https://th-i.thgim.com/public/incoming/iemhf6/article70723904.ece/alternates/LANDSCAPE_1200/VIS_9323.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/indiaglorious/article70723898.ece",
+    "time": "2026-03-09T18:17:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Protection plea by teen bride raises J&amp;K HC’s suspicion",
+    "desc": "A Jammu and Kashmir high court judge's suspicion during a routine protection petition led to an investigation into a criminal network allegedly luring young girls. The court discovered the 'husband' was already married and ordered a probe into the moulvi and the advocate involved, highlighting a moment of judicial vigilance to prevent a teenage girl's life from being wasted.",
+    "img": "https://static.toiimg.com/photo/msid-129349820,imgsize-744366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/protection-plea-by-teen-bride-raises-jk-hcs-suspicion/articleshow/129349850.cms",
+    "time": "2026-03-09T18:15:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ram Gopal Varma calls Dhurandhar 2 'stratospheric level'",
+    "desc": "Filmmaker Ram Gopal Varma has reacted to the trailer of 'Dhurandhar 2'. He described the film's scale and intensity as 'stratospheric level'. Varma previously lauded the first 'Dhurandhar' as a 'quantum leap' for Indian cinema. The sequel is set to release on March 19. The trailer has generated significant online buzz and anticipation for the espionage thriller.",
+    "img": "https://static.toiimg.com/photo/msid-129348070,imgsize-72600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-reviews-dhurandhar-2-trailer-calls-it-stratosphere-level/articleshow/129348069.cms",
+    "time": "2026-03-09T17:40:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Heer was not meant to die in Rockstar originally",
+    "desc": "Imtiaz Ali’s cult musical drama Rockstar (2011), starring Ranbir Kapoor and Nargis Fakhri, is remembered for its intense love story, powerful performances and unforgettable music. The film also left audiences emotional with its tragic ending, where Heer dies, leaving Jordan heartbroken even as he achieves rockstar fame. However, the filmmaker recently revealed that Heer’s death was not part of the original script.",
+    "img": "https://static.toiimg.com/photo/msid-129347446,imgsize-65786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imtiaz-ali-reveals-heer-was-not-meant-to-die-in-ranbir-kapoors-rockstar-originally-so-the-movie-ends-before-jordans-death/articleshow/129347446.cms",
+    "time": "2026-03-09T17:32:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Indian cricket in golden phase': BCCI after T20 World Cup 2026 triumph",
+    "desc": "India has won the ICC Men's T20 World Cup 2026. The team secured a commanding victory in the final. This win marks a historic achievement as India successfully defended its title. It is also the first time a nation has won the T20 World Cup on home soil. Captain Suryakumar Yadav led the team to this remarkable success.",
+    "img": "https://static.toiimg.com/photo/msid-129346693,imgsize-235246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/indian-cricket-in-golden-phase-bcci-after-t20-world-cup-2026-triumph/articleshow/129346723.cms",
+    "time": "2026-03-09T17:12:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Merz’s party stumbles into a year of German state elections with a narrow defeat",
+    "desc": "Chancellor Friedrich Merz’s party has made a disappointing start to a year packed with German state elections, suffering a narrow defeat in an important industrial region after a prominent candidate powered the environmentalist Greens to a come-from-behind victory",
+    "img": "https://th-i.thgim.com/public/incoming/e36heq/article70723777.ece/alternates/LANDSCAPE_1200/2026-03-09T131247Z_1517248264_RC201KA3SN6V_RTRMADP_3_GERMANY-ELECTION-CDU-REACTION-MERZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/merzs-party-stumbles-into-a-year-of-german-state-elections-with-a-narrow-defeat/article70723721.ece",
+    "time": "2026-03-09T16:57:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Outlast’ Season 1 winner Paul Preece held on USD150,000 bond after arrest",
+    "desc": "Paul Preece, the Season 1 winner of Netflix's survival show 'Outlast,' has been arrested in Tennessee. The 51-year-old faces serious charges including aggravated assault, rape of a child, and attempted rape of a child. Preece, who won a $1 million prize in 2023, is currently held on a $150,000 bond.",
+    "img": "https://static.toiimg.com/photo/msid-129344585,imgsize-127780.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/outlast-season-1-winner-paul-preece-held-on-usd150000-bond-after-arrest/articleshow/129344585.cms",
+    "time": "2026-03-09T16:30:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tamannaah’s trainer warns against these 3 pre-workout foods",
+    "desc": "Celebrity fitness trainer Siddhartha Singh, who has worked with actor Tamannaah Bhatia, recently shared important advice for gym-goers about pre-workout nutrition. In a video posted on Instagram, the trainer explained that certain foods commonly eaten before exercising can actually reduce energy levels and affect workout performance.",
+    "img": "https://static.toiimg.com/photo/msid-129344358,imgsize-99520.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tamannaah-bhatias-trainer-siddhartha-singh-warns-against-eating-these-3-foods-before-a-workout-what-to-eat-instead/articleshow/129344358.cms",
+    "time": "2026-03-09T16:29:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Boys’ Season 5 release timeline revealed with eight episode dates",
+    "desc": "Get ready for the grand finale! 'The Boys' is set to unveil its final season on April 8, 2026, kicking off with an exciting double premiere. With eight gripping episodes scheduled for release on Prime Video, viewers can dive into each new chapter every Wednesday, leading to the climactic finish on May 20.",
+    "img": "https://static.toiimg.com/photo/msid-129343287,imgsize-180018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-boys-season-5-release-timeline-revealed-with-eight-episode-dates-before-finale/articleshow/129343287.cms",
+    "time": "2026-03-09T16:24:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka call off Afghanistan series in UAE due to Middle East conflict",
+    "desc": "Sri Lanka has indefinitely postponed their white-ball series against Afghanistan, originally set to take place in the UAE this week. The decision was made due to flight disruptions and ongoing regional conflict. The series, which included three T20s and three ODIs, has been cancelled, impacting the first bilateral series Afghanistan was to host.",
+    "img": "https://static.toiimg.com/photo/msid-129344268,imgsize-68842.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sri-lanka-call-off-afghanistan-series-in-uae-due-to-middle-east-conflict/articleshow/129344073.cms",
+    "time": "2026-03-09T16:22:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tension mounts in Muzaffarnagar after imam is ‘assaulted’ by juveniles",
+    "desc": "The Congress has alleged such incidents are part of a broader pattern to disturb harmony at a local level. ‘An organised pattern is at play across Western U.P. to disturb harmony through localised incidents aimed at terrorising minorities’",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/tensionmounts-in-muzaffarnagar-after-imam-is-assaulted-by-juveniles/article70723323.ece",
+    "time": "2026-03-09T16:21:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Construction of dog shelter at Brahmapuram inaugurated",
+    "desc": "The decision to build the shelter comes in the wake of the Supreme Court directive that stray dogs should be removed from public spaces and that local bodies must take the lead in the effort",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/construction-of-dog-shelter-at-brahmapuram-inaugurated/article70723151.ece",
+    "time": "2026-03-09T16:05:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Was Britain’s Queen Charlotte black? Netflix’s Bridgerton star insists ‘she was a woman of colour’",
+    "desc": "Bridgerton’s depiction of Queen Charlotte as a Black monarch has revived a long-running historical debate about her ancestry. While some genealogists argue she may have descended from a Moorish lineage in medieval Portugal, most historians remain sceptical. The controversy highlights how popular culture can reopen historical questions about race, representation and interpretation in Europe’s royal past.",
+    "img": "https://static.toiimg.com/photo/msid-129342423,imgsize-1071226.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/etimes/trending/was-britains-queen-charlotte-black-netflixs-bridgerton-star-insists-she-was-a-woman-of-colour/articleshow/129332164.cms",
+    "time": "2026-03-09T15:54:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi speaks with Nepal's newly elected youth leader Balendra Shah, Rabi Lamichhane",
+    "desc": "Nepal’s political landscape witnessed a dramatic transformation, as newly elected youth leader Balendra “Balen” Shah unseated veteran politician and former Prime Minister KP Sharma Oli from his parliamentary stronghold. A structural engineer by profession who first rose to prominence as the mayor of Kathmandu, Shah has now made history four years later by becoming the youngest person ever to claim Nepal’s Prime Ministership.",
+    "img": "https://static.toiimg.com/photo/msid-129342096,imgsize-54014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-speaks-with-nepals-newly-elected-youth-leader-balendra-shah-rabi-lamichhane/articleshow/129342006.cms",
+    "time": "2026-03-09T15:34:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Top 5 South stories of the day",
     "desc": "Filmmaker R. Parthiban apologized to Trisha Krishnan following a controversial remark. Meanwhile, Malayalam director Chidambaram received anticipatory bail in a harassment case. The censor review for Vijay's 'Jana Nayagan' was postponed again. Rumors about 'Vaadivaasal' revival were denied, and Mahesh Babu concluded the Georgia schedule for 'Varanasi'.",
     "img": "https://static.toiimg.com/photo/msid-129341345,imgsize-108160.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/r-parthiban-apologises-to-trisha-krishnan-chidambaram-gets-anticipatory-bail-jana-nayagan-censor-review-delayed-top-5-south-stories-of-the-day/articleshow/129341345.cms",
     "time": "2026-03-09T15:20:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TVK chief Vijay seeks 15-day extension to appear before CBI again in Karur stampede case",
-    "desc": "The matter is under the consideration of the CBI officials concerned, say sources; the party’s chief was asked to join the probe on March 10, which would have been his third appearance before the Central agency",
-    "img": "https://th-i.thgim.com/public/incoming/q23606/article70722866.ece/alternates/LANDSCAPE_1200/PTI03_28_2025_000093B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-chief-vijay-seeks-15-day-extension-to-appear-before-cbi-again-in-karur-stampede-case/article70722773.ece",
-    "time": "2026-03-09T15:10:45.000Z"
   },
   {
     "cat": "Politics",
@@ -52,33 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/two-akanksha-singhs-one-upsc-rank-ghazipur-candidate-confirmed-at-301/articleshow/129338405.cms",
     "time": "2026-03-09T14:34:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PU student-lecturer ratio far above CBSE norms: MLC",
-    "desc": "On lecturers’ petitions, K. Vivekananda raises the issue in the Council, seeks details on the criteria followed to identify surplus lecturer posts in colleges; Minister Madhu Bangarappa says the issue will be discussed with legislators representing the teachers’ and graduates’ constituencies before taking a decision",
-    "img": "https://th-i.thgim.com/public/incoming/nzsa2v/article70723074.ece/alternates/LANDSCAPE_1200/2303_9_3_2026_19_43_7_1_MLCVIVEKANANDA.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/pu-student-lecturer-ratio-far-above-cbse-norms-mlc/article70722492.ece",
-    "time": "2026-03-09T14:22:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Team India exudes an aura of invincibility in T20Is",
-    "desc": "The host retained the title and tided past the pressure of playing in the backyard as soaring expectations could at times choke; the latest successful effort was mounted on muscular batting and a bowling that had Bumrah to step up all the time",
-    "img": "https://th-i.thgim.com/public/incoming/hh5q28/article70722900.ece/alternates/LANDSCAPE_1200/VIS_5195.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/team-india-exudes-an-aura-of-invincibility-in-t20is/article70722752.ece",
-    "time": "2026-03-09T14:06:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Over 9,000 bicycles distributed to government school students in Prakasam district, says Minister",
-    "desc": "Gottipati Ravi Kumar claims that the donors contributed ₹12 lakh towards establishment of safe drinking water plants in eight schools, and stresses that with the cooperation of donors, the government schools in the State can be developed on par with private institutions",
-    "img": "https://th-i.thgim.com/public/incoming/hmf5io/article70722868.ece/alternates/LANDSCAPE_1200/9604_9_3_2026_15_25_44_1_DSC_0011JPG.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/over-9000-bicycles-distributed-to-government-school-students-in-prakasam-district-says-minister/article70722504.ece",
-    "time": "2026-03-09T13:51:45.000Z"
   },
   {
     "cat": "Sports",
@@ -171,15 +279,6 @@ const newsData_en = [
     "time": "2026-03-09T11:46:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "How Anne Hathaway turned the tide in Hollywood",
-    "desc": "Anne Hathaway faced intense online backlash, dubbed 'Hathahate', in the early 2010s, impacting her career. Despite criticism and closed doors, a pivotal role in Christopher Nolan's 'Interstellar' helped her rebuild. Hathaway then strategically chose diverse projects, showcasing her range and charm, leading to a significant career resurgence and renewed audience appreciation.",
-    "img": "https://static.toiimg.com/photo/msid-129330315,imgsize-73800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/when-anne-hathaway-turned-the-tide-in-hollywood-after-hathahate-backlash/articleshow/129330235.cms",
-    "time": "2026-03-09T11:29:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Nothing to do with the stadium': Harbhajan shuts down Ahmedabad 'panauti' talk",
     "desc": "Former spinner Harbhajan Singh dismissed notions of the Ahmedabad stadium being unlucky for India. He emphasized that match outcomes hinge solely on player performance, citing Australia's superior play in the 2023 World Cup final. Harbhajan drew parallels to past perceptions of Eden Gardens, asserting that such beliefs stem from those unfamiliar with cricket's realities.",
@@ -205,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/2020-delhi-riots-case-court-grants-10-day-interim-bail-to-sharjeel-imam/articleshow/129328764.cms",
     "time": "2026-03-09T10:57:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Here's how Marlon Brando’s ‘crooked’ nose became a signature",
-    "desc": "Marlon Brando's famously twisted nose, emblematic of his tough-guy image, originated from a skirmish behind the scenes of 'A Streetcar Named Desire.' Despite suggestions to undergo surgery, Brando chose to embrace his new look, believing it added depth to his rebellious charm.",
-    "img": "https://static.toiimg.com/photo/msid-129328531,imgsize-59990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/did-you-know-marlon-brandos-crooked-nose-came-from-a-backstage-fight-heres-why-he-never-fixed-it/articleshow/129328448.cms",
-    "time": "2026-03-09T10:53:57.000Z"
   },
   {
     "cat": "Politics",
@@ -279,15 +369,6 @@ const newsData_en = [
     "time": "2026-03-09T10:05:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bollywood cricket films will keep the celebration going",
-    "desc": "Can't sleep after last night? Neither can we. India just dismantled New Zealand by 96 runs in the T20 World Cup 2026 final, with Sanju Samson, Ishan Kishan, and Jasprit Bumrah putting on a show that Ahmedabad will never forget. One champion, one right after the other, history in the books, and the country abuzz. You can keep the spirit alive with such Bollywood cricket films, which help you remember why this game is everything to us.",
-    "img": "https://static.toiimg.com/photo/msid-129325970,imgsize-71408.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/still-buzzing-after-indias-t20-world-cup-2026-win-these-bollywood-cricket-films-will-keep-the-celebration-going/photostory/129325970.cms",
-    "time": "2026-03-09T10:03:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Paaji, kade hass vi leya karo': Arshdeep trolls Gambhir",
     "desc": "Team India clinched their third T20 World Cup title, defeating New Zealand in a thrilling final. Celebrations erupted as players, including Arshdeep Singh playfully teasing head coach Gautam Gambhir, shared their joy. Captain Suryakumar Yadav highlighted the importance of mental resilience and team understanding in their historic home victory.",
@@ -333,24 +414,6 @@ const newsData_en = [
     "time": "2026-03-09T09:33:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Parthiban-Trisha's controversy EXPLAINED: What went wrong",
-    "desc": "A recent event saw actor R. Parthiban make a remark about Trisha Krishnan's character Kundavai, sparking a controversy. Trisha responded sharply on X, criticizing the comment as disrespectful. Parthiban later expressed regret, stating his wordplay was misunderstood and intended to be playful. The incident gained attention due to their collaboration in 'Ponniyin Selvan'.",
-    "img": "https://static.toiimg.com/photo/msid-129323016,imgsize-142100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parthiban-trishas-controversy-explained-what-went-wrong-between-the-ponniyin-selvan-stars/articleshow/129323016.cms",
-    "time": "2026-03-09T09:05:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Subedaar's ending explained: Does the ending hint at Anil Kapoor’s return?",
-    "desc": "The climax of 'Subedaar' features Anil Kapoor's Arjun Maurya defeating the sand mafia, saving his daughter, and putting an end to his adversaries. But the film’s closing scenes take a sharp turn, revealing a menacing new player lurking in the darkness, suggesting that Arjun's saga is far from finished and leaving audiences eager for the next chapter.",
-    "img": "https://static.toiimg.com/photo/msid-129322995,imgsize-125360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/subedaars-ending-explained-does-the-ending-hint-at-anil-kapoors-return/articleshow/129322995.cms",
-    "time": "2026-03-09T09:04:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "A true Kerala story",
     "desc": "Sanju Samson had scored just 46 runs from five matches against New Zealand. In the off chance he earned against Namibia, things didn't get any better. But luck did shine on him after all, and he repaid the backing with absolute tenacity, finishing as the Player of the Tournament and India's highest run-scorer in a T20 World Cup.",
@@ -387,24 +450,6 @@ const newsData_en = [
     "time": "2026-03-09T08:45:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Global icons who danced on Bollywood tunes",
-    "desc": "International celebrities are falling head over heels for the captivating rhythms of Bollywood! From the electrifying moves of Ricky Martin on a Punjabi anthem to Karen Gillan busting out the dance to 'Sheila Ki Jawani,' our favorite stars are reveling in the magic of Indian grooves.",
-    "img": "https://static.toiimg.com/photo/msid-129321397,imgsize-147920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/global-icons-who-danced-on-bollywood-tunes-ricky-martin-nick-jonas-katseye-and-more/articleshow/129321397.cms",
-    "time": "2026-03-09T08:37:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' makes Rs 18 crore in advance bookings for paid previews",
-    "desc": "The Revenge' is shattering advance booking records, raking in over Rs 18 crore even before its March 19 release. The Ranveer Singh starrer has surpassed 'Stree 2's premiere advance, selling over 2 lakh tickets. The Hindi version leads sales, with dubbed versions also showing strong performance, indicating massive audience anticipation.",
-    "img": "https://static.toiimg.com/photo/msid-129321048,imgsize-73446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-makes-rs-18-crore-already-in-advance-bookings-for-day-1-may-beat-record-of-pawan-kalyans-og-of-rs-25-crore-from-paid-preview/articleshow/129320920.cms",
-    "time": "2026-03-09T08:31:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Always believed in miracles’: How Samson, Bumrah and India’s stars celebrated",
     "desc": "India has won the 2026 T20 World Cup. The team defeated New Zealand in the final. Players shared their joy on social media. This marks India's third T20 World Cup title. It is also the first time a team has won the tournament at home. India achieved back-to-back victories. Celebrations erupted across the nation.",
@@ -412,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/always-believed-in-miracles-how-sanju-samson-jasprit-bumrah-and-indias-stars-celebrated-t20-world-cup-triumph/articleshow/129320432.cms",
     "time": "2026-03-09T08:28:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' censor row: Vijay’s film faces a fresh hurdle",
-    "desc": "Vijay's highly anticipated final film, 'Jana Nayagan,' faces another setback as its Revising Committee screening was unexpectedly postponed. Originally slated for March 9, the review was cancelled due to a committee member's illness, leaving the film's certification and release date uncertain. This delay follows earlier objections regarding religious practices and army symbols.",
-    "img": "https://static.toiimg.com/photo/msid-129321241,imgsize-306660.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-row-vijays-film-faces-a-fresh-hurdle-with-the-delay-in-the-revising-committees-screening/articleshow/129321241.cms",
-    "time": "2026-03-09T08:25:29.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +504,6 @@ const newsData_en = [
     "time": "2026-03-09T07:33:29.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Rightful winners’: Sachin, Virat lead applause as India win T20 World Cup",
-    "desc": "Team India has secured a historic third ICC Men's T20 World Cup title, dominating New Zealand by 96 runs in the final. Legends like Sachin Tendulkar and Virat Kohli lauded the team's performance and character, with Sourav Ganguly highlighting the overall strength of Indian cricket. Jasprit Bumrah and Sanju Samson were among the standout performers.",
-    "img": "https://static.toiimg.com/photo/msid-129318339,imgsize-135112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rightful-winners-sachin-tendulkar-virat-kohli-lead-applause-as-india-script-historic-t20-world-cup-triumph/articleshow/129318054.cms",
-    "time": "2026-03-09T07:22:32.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "‘Contact with Iran leadership difficult’: Jaishankar spells out India’s position on Middle East war",
     "desc": "India advocates for dialogue and diplomacy to ease Middle East tensions, with PM Modi closely monitoring the situation. External Affairs Minister S Jaishankar highlighted concerns for over a crore Indians residing in the Gulf and the region's importance for energy security. The conflict's escalation has led to significant disruption and the tragic loss of two Indian mariners.",
@@ -502,15 +529,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladesh-shuts-universities-early-to-save-power-amid-energy-crisis/article70721203.ece",
     "time": "2026-03-09T05:31:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Stop celebrating milestones’: Gambhir’s strong message after T20 World Cup win",
-    "desc": "India's head coach Gautam Gambhir emphasized that trophies, not individual milestones, are paramount for team success. He highlighted this philosophy after India's T20 World Cup victory, urging a shift in focus from personal records to collective achievements. Gambhir praised Suryakumar Yadav and Sanju Samson for embracing this team-first approach, prioritizing wins over statistics.",
-    "img": "https://static.toiimg.com/photo/msid-129311959,imgsize-82092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/stop-celebrating-milestones-celebrate-trophies-gautam-gambhirs-strong-message-after-indias-t20-world-cup-triumph/articleshow/129311754.cms",
-    "time": "2026-03-09T05:14:31.000Z"
   },
   {
     "cat": "Business",
@@ -727,24 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/brian-bennett-zimbabwe-t20-world-cup-stats-feature/article70708880.ece",
     "time": "2026-03-07T05:47:21.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. pressing Sri Lanka not to repatriate Iranian crew and survivors from sunken ship, memo says",
-    "desc": "A U.S. submarine sank the IRIS Dena warship in the Indian Ocean about 19 nautical miles off Sri Lanka’s southern port city of Galle on Wednesday, killing ‌dozens of sailors and dramatically widening Washington’s pursuit of the Iranian navy.",
-    "img": "https://th-i.thgim.com/public/incoming/6rexzv/article70714565.ece/alternates/LANDSCAPE_1200/Panel-1_GMKFMA8QI.1GMKFMALJV.3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-pressing-sri-lanka-not-to-repatriate-iranian-crew-and-survivors-from-sunken-ship-memo-says/article70714562.ece",
-    "time": "2026-03-07T05:15:43.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Pakistani man with ties to Iran convicted for plotting to kill U.S. President Trump, other American leaders",
-    "desc": "Asif Raza Merchant, 48, was convicted by a federal jury in a Brooklyn court on Friday (March 6) of murder for hire and attempting to commit an act of terrorism transcending national boundaries. Merchant faces up to life in prison.",
-    "img": "https://th-i.thgim.com/public/incoming/89ue3f/article70714595.ece/alternates/LANDSCAPE_1200/iStock-1447145892%2013.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/pakistani-man-with-ties-to-iran-convicted-for-plotting-to-kill-us-president-trump-other-american-leaders/article70714588.ece",
-    "time": "2026-03-07T04:21:11.000Z"
   },
   {
     "cat": "Sports",

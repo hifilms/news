@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ইরান-ইজরায়েল যুদ্ধে বন্ধ হরমুজ প্রণালী! ভারতের জন্য কতটা চিন্তার হতে পারে? জেনে নিন",
+    "desc": "আমেরিকা-ইসরায়েল-ইরান যুদ্ধের মধ্যে সবচেয়ে বেশি আলোচনার বিষয় হয়ে উঠেছে হরমুজ প্রণালী। চিন এবং রাশিয়া ছাড়া আর কোনও দেশের জাহাজকে হরমুজ প্রণালী ব্যবহার করতে দিচ্ছে না ইরান। ভারত জ্বালানির জোগানের জন্য নির্ভর করে, তাই ভারতের জ্বালানির জোগান নিয়ে প্রশ্ন উঠছে। ভারতকেও কি বড় দুশ্চিন্তায় পড়তে হবে?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/hormuz-1-2026-03-f23b96d8c7be61d2e945b9df26d53e29-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/should-india-be-worried-over-strait-of-hormuz-as-only-chinese-and-russian-ships-are-passing-rdp-2576603.html",
+    "time": "2026-03-09T16:33:23.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "টলিউড গসিপ নয়, সোজাসাপ্টা হিরণের বিয়ে নিয়ে এত্ত বড় কথা বললেন সোহম, দেখুন",
     "desc": "Soham Chakraborty | সোহম চক্রবর্তী| অভিনেতা, প্রযোজক এবং রাজনীতিবিদ। তিনি শিশুশিল্পী হিসেবে তার অভিনয় জীবন শুরু করলেও বর্তমানে প্রধান চরিত্রে অভিনয় করেন। টলিউডের অন্যতম বিখ্যাত অভিনেতা হিরণ দ্বিতীয়বার বিয়ে করে নতুন ইনিংস শুরু করেছেন, তাঁর সহশিল্পী সোহম সরাসরি কথা বললেন বন্ধুর দ্বিতীয় বিয়ে নিয়ে৷ দেখুন বাংলা নিউজ ভিডিও (Watch Bangla News Video)৷",
@@ -340,15 +349,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/us-iran-war-enters-seventh-day-intense-attacks-in-tehran-iran-entered-day-7-with-t-fresh-missile-strikes-on-the-military-bases-of-the-two-countries-in-west-asia-tib-ws-el-2572800.html",
     "time": "2026-03-07T03:25:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "যুদ্ধের জেরে জ্বালানি সংকট? পেট্রোল-ডিজেল, রান্নার গ্যাসের দাম নিয়ে বড় আপডেট দিল কেন্দ্র",
-    "desc": "গোটা বিশ্বে যত পরিমাণ তেল আমদানি-রপ্তানি করা হয়, তার প্রায় ২০ শতাংশই এই হরমুজ প্রণালী দিয়ে যাতায়াত হয়। আর সেখানেই আটকে রয়েছে জ্বালানি বহনকারী প্রচুর জাহাজ। স্বাভাবিকভাবেই জ্বালানির সংকট দেখা দিতে পারে বলে মত বিশেষজ্ঞ মহলের।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/centre-assures-no-fuel-crisis-as-india-have-enough-reserve_643955.html ",
-    "time": "2026-03-06T17:47:49.000Z"
   },
   {
     "cat": "Business",

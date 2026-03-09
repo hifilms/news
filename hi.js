@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jasprit Bumrah topples Sachin Tendulkar in major record list for India",
+    "desc": "Ace pacer Jasprit Bumrah has surpassed the legendary Sachin Tendulkar on the list of most wickets by an Indian cricketer in the knockouts of ICC tournaments. The Ahmedabad-born claimed four wickets against New Zealand in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-topples-sachin-tendulkar-in-major-record-list-for-india-2026-03-09-1033201",
+    "time": "2026-03-09T18:09:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Afghanistan vs Sri Lanka white-ball series set to be postponed due to West Asia war",
+    "desc": "The white-ball series between Afghanistan and Sri Lanka is set to be postponed due to the deteriorating security situation in West Asia. It disrupted sporting logistics across the region and currently, it’s neither safe nor...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-vs-sri-lanka-white-ball-series-set-to-be-postponed-due-to-west-asia-war-2026-03-09-1033198",
+    "time": "2026-03-09T17:17:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Chotu, will you win us the World Cup?'",
+    "desc": "Suryakumar Yadav has revealed how key conversations with his players helped shape India’s triumphant campaign at the T20 World Cup 2026. The captain spoke about the belief and commitment shown by several members of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/chotu-will-you-win-us-the-world-cup-suryakumar-yadav-reveals-chat-with-ishan-kishan-2026-03-09-1033193",
+    "time": "2026-03-09T16:24:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Chaos erupted during Cruzeiro vs Minerao clash in Brazil",
     "desc": "Cruzeiro secured a 1-0 victory over Atletico Mineiro in the Campeonato Mineiro final in Belo Horizonte on Sunday, but the celebration was eclipsed by an unprecedented on-field brawl. The clash involved players, substitutes, and coaching...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virtually-unbeatable-nasser-hussain-gives-his-take-on-india-s-title-winning-t20-world-cup-campaign-2026-03-09-1033149",
     "time": "2026-03-09T08:27:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson becomes second batter in history to achieve huge feat after T20 World Cup title victory",
-    "desc": "Star India batter Sanju Samson performed exceptionally well for the Indian team in the T20 World Cup 2026. Playing sporadically in the early stages of the tournament, Samson came into his own and performed brilliantly...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-becomes-second-batter-in-history-to-achieve-huge-feat-after-t20-world-cup-title-victory-2026-03-09-1033148",
-    "time": "2026-03-09T07:50:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah joins Virat Kohli in elite list with stellar showing in T20 World Cup final",
-    "desc": "Star India pacer Jasprit Bumrah was undoubtedly the star performer for the Indian team as the side defeated New Zealand in the final of the T20 World Cup 2026. The two sides locked horns at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-joins-virat-kohli-in-elite-list-with-stellar-showing-in-t20-world-cup-final-2026-03-09-1033140",
-    "time": "2026-03-09T06:54:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shoaib Akhtar hails India's system and decision-making after historic T20 World Cup win",
-    "desc": "India defeated New Zealand in the summit clash of the T20 World Cup 2026. The two sides took on each other at the Narendra Modi Stadium in Ahmedabad on March 8. While many anticipated a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shoaib-akhtar-hails-india-s-system-and-decision-making-after-historic-t20-world-cup-win-2026-03-09-1033132",
-    "time": "2026-03-09T06:11:12.000Z"
   }
 ];

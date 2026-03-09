@@ -6,7 +6,34 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-team-india-created-history-after-a-grand-victory-against-new-zealand-broke-18-world-records-know-467858 ",
-    "time": "2026-03-09T15:45:15.000Z"
+    "time": "2026-03-09T17:04:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM મોદીનો એક કોલ અને ઈરાન યુદ્ધનો આવશે અંત, પૂર્વ રાજદૂતનું મોટું નિવેદન",
+    "desc": "પશ્ચિમ એશિયામાં ચાલી રહેલા યુદ્ધ વચ્ચે, ભૂતપૂર્વ રાજદૂતે ભારત અંગે એક મહત્વપૂર્ણ નિવેદન આપ્યું છે. તેમણે કહ્યું કે પીએમ મોદી આ બધા દેશોમાં ખૂબ જ આદરણીય છે. જો તેઓ ઈરાન અને ઈઝરાયલના નેતાઓને એક પણ ફોન કોલ કરશે, તો આ તણાવ નોંધપાત્ર રીતે ઓછો થશે અને આ યુદ્ધનો અંત આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/one-call-from-pm-modi-and-the-iran-war-will-end-big-statement-from-former-ambassador-467862 ",
+    "time": "2026-03-09T16:46:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પેટ્રોલ અને ડીઝલના ભાવ પર ફક્ત મોદી સરકારની ગેરંટી, દુનિયાભરમાં હાલત ખરાબ; જાણો કેટલે પહોંચશે ક્રૂડના ભાવ?",
+    "desc": "શું પેટ્રોલ અને ડીઝલના ભાવ વધવાના છે. શું યુદ્ધને કારણે કિંમતો વધી શકે? તો જવાબ છે.... ના.. કેમ કે સરકારે સ્પષ્ટ કહ્યું છે કે ભારત પાસે પૂરતું તેલ ઉપલબ્ધ છે અને હાલમાં તેની કોઈ અછત પડવાની નથી. જો કે દુનિયાના બીજા દેશોમાં તેલના ભાવને લઈને ભારે ઉથલપાથલ મચી છે. મિડલ ઈસ્ટમાં ચાલતા યુદ્ધે અડધી દુનિયાના દેશોની ચિંતા વધારી દીધી છે. કેમ કે કાચા તેલના ભાવ જેમ વધતા જઈ રહ્યા છે, તે જોતા આગામી દિવસોમાં મુશ્કેલી વધી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/modi-government-guarantee-on-petrol-and-diesel-prices-situation-is-bad-all-over-the-world-know-how-much-crude-prices-will-reach-467861 ",
+    "time": "2026-03-09T16:41:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "LPG સિલિન્ડર પર સરકારનો મોટો નિર્ણય, ઘરેલુ ગેસ સિલિન્ડર બુક કરવાના નિયમોમાં ફેરફાર",
+    "desc": "LPG સિલિન્ડર માટે સરકારે મોટો નિર્ણય કર્યો છે, જે દેશના કરોડો લોકોને અસર કરશે. આ પગલું એ માટે લેવામાં આવ્યું છે કે LPGની સંગ્રહખોરીને રોકવામાં આવે, જેથી તમામ ગ્રાહકોને સમયસર ગેસનો પૂરતો પુરવઠો મળી રહે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/government-big-decision-on-lpg-cylinders-changes-in-rules-for-booking-domestic-gas-cylinders-467860 ",
+    "time": "2026-03-09T16:16:44.000Z"
   },
   {
     "cat": "Sports",
@@ -405,15 +432,6 @@ const newsData_gu = [
     "time": "2026-03-07T04:31:37.000Z"
   },
   {
-    "cat": "Business",
-    "title": "મિડલ ઈસ્ટ યુદ્ધની ભારત પર અસર શરુ, રસોઈ ગેસ સિલિન્ડરના ભાવમાં વધારો ઝીંકાયો, જાણી લો નવા ભાવ",
-    "desc": "મિડલ ઈસ્ટ યુદ્ધની અસર ભારત પર મોંઘવારી તરીકે થવા લાગી છે. સૌથી પહેલો ઝટકો ગેસ સિલિન્ડરના ભાવમાં વધારા સાથે મળ્યો છે. જેમાં ઘરેલુ સિલિન્ડરના ભાવમાં 60 રુપિયા અને કોમર્શિયલ ગેસ સિલિન્ડરના ભાવમાં 115 રુપિયાનો વધારો ઝીંકાયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/lpg-cylinder-price-hike-by-60-rupees-7-march-2026-middle-east-crisis-impact-on-india-467464 ",
-    "time": "2026-03-07T02:17:57.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઈરાન જંગમાં હવે રશિયાની સીધી એન્ટ્રી! ડ્રોન અને બેલેસ્ટિક મિસાઈલો એમ જ કઈ નથી કરી રહ્યા અમેરિકી બેઝને ટાર્ગેટ",
     "desc": "ઈરાન પર ઈઝરાયેલ અને અમેરિકાએ શરૂ કરેલા યુદ્ધનો આજે સાતમો દિવસ છે. આ વચ્ચે અમેરિકન રક્ષામંત્રાલય અને ખૂફિયા એજન્સીઓએ રાષ્ટ્રપતિ ટ્રમ્પને એવી વિગતો આપી છે કે ટ્રમ્પ ધૂઆપૂઆં થઈ ગયા છે. ઈરાન પર જીતના દાવા કરતાં ટ્રમ્પને એવી તો શું ખબર પડી છે કે આખી ગેમ બદલાઈ શકે છે. તો જાણી લો શું છે આ વિગતો......",
@@ -538,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/indian-navy-236m-dollar-deal-for-russian-shtil-1-missiles-how-is-different-from-barak-8-467329 ",
     "time": "2026-03-05T12:58:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઠંડા પવનો અને વરસાદનું ભયાનક એલર્ટ; 4 દિવસ 4 રાજ્યોમાં ગરજશે વાદળ, તૂટી શકે છે 125 વર્ષનો આ રેકોર્ડ",
-    "desc": "દિલ્હી સહિત દેશભરના ઘણા રાજ્યોમાં આજે હવામાન સ્વચ્છ છે. દરમિયાન, આવતીકાલે બે રાજ્યોમાં ગરમીનું એલર્ટ જાહેર કરવામાં આવ્યું છે. બાકીના રાજ્યોમાં હવામાન સ્વચ્છ રહેશે. કાલ પછી, 7 માર્ચથી 10 માર્ચ સુધી ચાર રાજ્યોમાં વરસાદ અને હિમવર્ષાની સંભાવના છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/alert-of-cold-winds-and-rain-clouds-will-rain-in-4-states-for-4-days-how-will-the-weather-be-in-delhi-ncr-467304 ",
-    "time": "2026-03-05T09:57:23.000Z"
   },
   {
     "cat": "World",
