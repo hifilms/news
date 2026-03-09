@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Outstanding effort': Former India cricketer hails Jasprit Bumrah's heroics after India's T20 World Cup title",
+    "desc": "Team India registered a brilliant victory against New Zealand in the final of the T20 World Cup 2026. The two sides locked horns at the Narendra Modi Stadium in Ahmedabad on March 8, and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/outstanding-effort-former-india-cricketer-hails-jasprit-bumrah-s-heroics-after-india-s-t20-world-cup-title-2026-03-09-1033120",
+    "time": "2026-03-09T04:24:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'The strength of Indian cricket': Sunil Gavaskar weighs in on India's historic T20 World Cup win",
+    "desc": "Team India registered an iconic victory against New Zealand in the final of the T20 World Cup 2026. Taking on the Black Caps in the summit clash of the tournament at the Narendra Modi Stadium...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/the-strength-of-indian-cricket-sunil-gavaskar-weighs-in-on-india-s-historic-t20-world-cup-win-2026-03-09-1033110",
+    "time": "2026-03-09T02:32:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'History gets created': MS Dhoni congratulates team India after historic T20 World Cup triumph",
     "desc": "The Indian team etched its name in the history books after the side defeated New Zealand in the summit clash of the tournament. Both teams locked horns at the Narendra Modi Stadium in Ahmedabad, and...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-bulldoze-new-zealand-to-retain-t20-world-cup-become-first-host-nation-to-win-trophy-2026-03-08-1033087",
     "time": "2026-03-08T17:13:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tempers flare between Arshdeep Singh and Daryl Mitchell in T20 World Cup final, Surya steps in: Watch",
-    "desc": "India and New Zealand are known to be friendly teams, but tempers flared during the T20 World Cup final today at the Narendra Modi Stadium in Ahmedabad. Arshdeep Singh and Daryl Mitchell had a go...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tempers-flare-between-arshdeep-singh-and-daryl-mitchell-in-t20-world-cup-final-surya-steps-in-watch-2026-03-08-1033085",
-    "time": "2026-03-08T16:57:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "List of records broken as India smash 255 runs batting first in T20 World Cup final vs New Zealand",
-    "desc": "Team India stunned New Zealand in the final of the T20 World Cup, smashing 255 runs in their 20 overs, courtesy of some brilliant batting from their top order comprising Abhishek Sharma, Sanju Samson and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/list-of-records-broken-as-india-smash-255-runs-batting-first-in-t20-world-cup-final-vs-new-zealnd-2026-03-08-1033083",
-    "time": "2026-03-08T16:00:04.000Z"
   }
 ];

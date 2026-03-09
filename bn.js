@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "রাষ্ট্রপতি ভবন বনাম..., আদিবাসী উন্নয়নের 'রিপোর্ট কার্ড' নিয়ে ময়দানে নামছে রাজ্যের শাসক দল",
+    "desc": "রাষ্ট্রপতি প্রতিভা মুর্মুর সাম্প্রতিক মন্তব্যের পর কার্যত রাষ্ট্রপতি ভবনের সঙ্গে সংঘাত আবহে রাজ্য। এই পরিতস্থিতিতে আদিবাসী উন্নয়নে রাজ্যের তরফে যাবতীয় তথ্য নিয়ে জোরদার প্রচার চালানোর সিদ্ধান্ত নেওয়া হচ্ছে । সূত্রের খবর এর পাশাপাশি আর্থিক স্বনির্ভরতার প্রসঙ্গও তুলে ধরা হবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/TV_5801747_nabbana_1.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/kolkata/west-bengal-news-west-bengal-ruling-party-tmc-took-to-the-field-with-a-report-card-on-tribal-development-after-president-murmus-recent-comment-on-state-government-sanj-2575240.html",
+    "time": "2026-03-09T04:47:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ট্রাম্প-হুমকি উড়িয়ে ইরানের সর্বোচ্চ নেতা খামেইনিপুত্র মুজতবা, যুদ্ধের মোড় এবার কোনদিকে যাবে?",
+    "desc": "প্রত্যাশিতভাবেই খামেইনিপুত্র মুজতবা-ই ইরানের নতুন প্রধান নেতা হয়েছেন। ইরানের ৮৮ জন ধর্মীয় নেতার একটি দল ভোট দিয়ে তাঁকে এই দায়িত্ব দিয়েছেন। মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প এই নতুন নেতাকে মানতে চান না এবং কঠোর হুঁশিয়ারি দিয়েছেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/irans-new-supreme-leader-mojtaba-khamenei_644167.html ",
+    "time": "2026-03-09T04:37:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘মনে হয়েছিল সব স্বপ্ন শেষ...’ টি২০ বিশ্বকাপে তৃতীয় ভারতীয় ক্রিকেটার হিসেবে ‘প্লেয়ার অফ দ্য টুর্নামেন্ট’ জেতার পর বললেন স্যামসন",
+    "desc": "সঞ্জু স্যামসন টিমম্যান। ম্যানেজমেন্টের সিদ্ধান্ত মানেন। কোনওদিন কোনও অভিযোগ করেন না। কিন্তু দেশকে বিশ্বসেরার পর হয়তো আবেগে ভেসে গিয়েছিলেন। বলেই ফেললেন, বিশ্বকাপের ঠিক আগে আগে তাঁর মনে হয়েছিল, সব যেন শেষ হয়ে গিয়েছে, তাঁর স্বপ্ন শেষ।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Sanju-Samson-Man-Of-The-Tournament-2026-03-d2f70a6dc9a0603e3ef41b5ef531aca5-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/icc-t20-world-cup-2026-sanju-samson-becomes-3rd-indian-after-virat-kohli-and-jasprit-bumrah-to-win-player-of-the-tournament-award-in-t20-world-cupss-2575239.html",
+    "time": "2026-03-09T02:55:51.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ফাইনালেও সঞ্জু ধামাকা! সুযোগই পাচ্ছিলেন না, স্যামসনের তাণ্ডবেই ৩ নকআউট ম্যাচে রানের পাহাড়ে ভারত",
     "desc": "প্রথম একাদশে দুই ওপেনার, অভিষেক শর্মার সঙ্গে ঈশান কিশান না কি সঞ্জু, কে ওপেন করবেন, তা নিয়ে প্রথম থেকেই নানা মুনির নানা মত ছিল। বিশ্বকাপে নিয়মিত সুযোগও পাচ্ছিলেন না, সেই সঞ্জুই ঝড় তুললেন বিশ্বকাপ ফাইনালেও।",
@@ -295,15 +322,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/isl-2026-mohun-bagan-fc-defeated-odisha-fc-by-5-goals-at-yuva-bharati-krianangan-smc-2572397.html",
     "time": "2026-03-06T14:31:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "কৃত্রিম বুদ্ধিমত্তাকে পথ ছেড়ে দিতে ৩০ হাজার কর্মীর উপর ছাঁটাইয়ের নির্মম কোপ; কর্মজগতে শ্মশানের নীরবতা...",
-    "desc": "বিশ্বখ্যাত সফটওয়্যার সংস্থা ওরাকল তাদের মোট কর্মীর এক বিশাল অংশ ছাঁটাইয়ের সিদ্ধান্ত নিয়েছে। প্রায় ৩০০০০ কর্মীকে পিংক স্লিপ ধরানো হতে পারে। কেন এই গণ-ছাঁটাই? এর পিছনে দুটি বড় কারণ কাজ করছে বলে জানা গিয়েছে। কৃত্রিম বুদ্ধিমত্তায় বিনিয়োগ, আর ডেটা সেন্টার তৈরির বিপুল খরচ।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/oracle-layoffs-company-to-let-go-30000-employees_643930.html ",
-    "time": "2026-03-06T14:01:27.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/surge-in-oil-prices-middle-east-conflict-sparks-surge-in-oil-prices-rm-2564872.html",
     "time": "2026-03-02T08:23:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বন্ধুত্ব এবং সাংস্কৃতিক বিনিময়! মুম্বইয়ের বাসভবনে কানাডার প্রধানমন্ত্রী মার্ক কার্নিকে আপ্যায়ন করলেন আম্বানি পরিবার!",
-    "desc": "ভারত-কানাডা কূটনৈতিক সম্পর্কের প্রেক্ষাপটে তাৎপর্যপূর্ণ সফরে ভারতে এসেছেন কানাডার প্রধানমন্ত্রী Mark Carney। এই সফর ঘিরে কূটনৈতিক তৎপরতার পাশাপাশি সৌজন্য ও সাংস্কৃতিক বিনিময়ের ছবিও সামনে এল, যখন রিলায়েন্স ইন্ডাস্ট্রিজের চেয়ারম্যান Mukesh Ambani ও তাঁর স্ত্রী নীতা আম্বানি মুম্বইয়ের বাসভবনে কানাডার প্রধানমন্ত্রীর আতিথ্য গ্রহণ করেন। সরকারি বৈঠকের আগে এই আয়োজন দুই দেশের সম্পর্কের উষ্ণতা ও সাংস্কৃতিক সংযোগকে নতুন মাত্রা দিয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/canada-4-2026-03-8c261f1b58378a1c94be620def5f456f-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/karni-reliance-meeting-in-mumbai-boosts-india-canada-ties-ambani-family-hosts-canadian-pm-mark-carney-at-their-home-in-mumbai-tib-ws-l-2564890.html",
-    "time": "2026-03-02T07:16:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ইরান-ইজরায়েল যুদ্ধে দাম বেড়েছে, সোনা ১.৭৫ লাখ টাকা, রুপো ৩ লাখ টাকা ছাড়িয়ে যেতে পারে; সোমবার কী হবে জেনে নিন",
-    "desc": "ইরান-ইজরায়েল সংঘাত ঘিরে বিশ্ববাজারে অস্থিরতা বেড়েছে। বিশেষজ্ঞদের মতে নিরাপদ বিনিয়োগ হিসেবে সোনার চাহিদা বাড়তে পারে, ফলে দাম পৌঁছতে পারে ১.৭৫ লাখ টাকায়। রুপোর দামও ৩ লাখ ছাড়িয়ে যেতে পারে। সোমবার বাজার কোন দিকে যাবে? জেনে নিন বিস্তারিত বিশ্লেষণ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Gold-1325-2026-03-42699924a63e794eaa2fc6273a0bd4dc-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/iran-israel-war-impact-gold-may-hit-rupees-1-point-75-lakh-silver-could-cross-3-lakh-rupees-what-to-expect-on-monday-tc-dc-aa-2564787.html",
-    "time": "2026-03-02T06:31:16.000Z"
   }
 ];

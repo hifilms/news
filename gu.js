@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "યુદ્ધનો માહોલ છતાં સોના-ચાંદી ધડામ, આજે ભાવમાં કડાકો, કેમ જોવા મળી &amp;#039;ઉલ્ટી ગંગા&amp;#039;? લેટેસ્ટ રેટ જાણો",
+    "desc": "યુદ્ધના માહોલમાં જ્યાં એક બાજ ક્રૂડ ઓઈલના ભાવમાં ભડકા જોવા મળી રહ્યા છે ત્યાં અપેક્ષાથી બિલકુલ વિરુદ્ધ સોના અને ચાંદીના ભાવમાં ઘટાડો જોવા મળી રહ્યો છે. આજનો વાયદા બજારનો લેટેસ્ટ ભાવ અને વૈશ્વિક સ્તરે તણાવની સ્થિતિ છતાં ભાવમાં ઘટાડા પાછળનું કારણ પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-fall-despite-war-situation-in-middle-east-why-check-the-latest-rates-aaj-no-sona-no-bhav-467777 ",
+    "time": "2026-03-09T04:03:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ગૌતમ ગંભીર-સૂર્યાનો એ એક નિર્ણય...જેને સમજવામાં ન્યૂઝીલેન્ડ સહિતની હરીફ ટીમો થાપ ખાઈ ગઈ",
+    "desc": "ભારતે ટી20 વર્લ્ડ કપ 2026 જીતવાની સાથે જ અનેક રેકોર્ડ બનાવ્યા. સતત બે વાર જીતનારી પ્રથમ ટીમ બની અને ઘરઆંગણે જીત મેળવનારી પણ પ્રથમ ટીમ બની. જો કે ટુર્નામેન્ટમાં સતત પડકારો ઝેલતી ભારતીય ટીમ માટે અધવચ્ચે લેવાયેલો એક નિર્ણય ખુબ જ નિર્ણાયક સાબિત થયો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/gautam-gambhir-surya-decision-which-rival-teams-including-new-zealand-struggled-to-understand-467775 ",
+    "time": "2026-03-09T03:23:18.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "શાનદાર સંજૂ... &amp;#039;પ્લેયર ઓફ ધ ટુર્નામેન્ટ&amp;#039; બનતા ઈમોશનલ થયો સંજુ સેમસન, સંભળાવ્યો સચિન તેંડુલકરનો કિસ્સો",
     "desc": "T20 વર્લ્ડ કપ 2026માં 321 રન બનાવનાર સંજુ સેમસનને 'પ્લેયર ઓફ ધ ટુર્નામેન્ટ' બન્યા છે. ફાઈનલ જીત્યા બાદ સેમસને કહ્યું કે, આ ક્ષણ તેના માટે કોઈ સપનું સાકાર થવા જેવી છે. તેમણે જણાવ્યું કે, મુશ્કેલ સમયમાં સચિન તેંડુલકર સાથે થયેલી વાતચીત અને તેમના માર્ગદર્શને તેને ઘણી મદદ કરી.",
@@ -133,15 +151,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/three-big-challenges-for-india-vs-new-zealand-t20-world-cup-final-2026-467668 ",
     "time": "2026-03-08T09:38:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપ વચ્ચે મોટા સમાચાર, ન્યુઝીલેન્ડ સ્ટાર ખેલાડીએ અચાનક નિવૃત્તિની કરી જાહેરાત",
-    "desc": "ન્યુઝીલેન્ડની સ્ટાર ખેલાડીએ અચાનક નિવૃત્તિની જાહેરાત કરીને બધાને ચોંકાવી દીધા છે. તે ODI ફોર્મેટમાં ટીમની સૌથી વધુ વિકેટ લેનાર બોલર છે અને ટીમ માટે ચાર વર્લ્ડ કપમાં પણ ભાગ લઈ ચૂકી છે. ત્યારે હવે તેણીએ નિવૃત્તિની જાહેરાત કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/new-zealand-fast-bowler-lea-tahuhu-announces-retirement-from-odi-467649 ",
-    "time": "2026-03-08T08:44:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -394,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/countries-like-australia-and-canana-offer-about-lpg-supply-according-to-govt-sources-467416 ",
     "time": "2026-03-06T09:21:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કેન્દ્રીય કર્મચારીઓ માટે મોટા સમાચાર, સરકારે મંગાવ્યા સૂચનો; જાણો છેલ્લી તારીખ અને પ્રક્રિયા",
-    "desc": "કેન્દ્રીય કર્મચારીઓ અને પેન્શનરો માટે 8માં પગાર પંચ (8th Pay Commission) ને લઈને એક મહત્વપૂર્ણ અપડેટ સામે આવ્યું છે. સરકાર આ બાબતે ગંભીરતાથી કામ કરી રહી છે અને હવે હિતધારકો પાસેથી સૂચનો મંગાવવાની પ્રક્રિયા શરૂ કરી દેવામાં આવી છે. હાલમાં, 1.1 કરોડથી વધુ કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો 8મા પગાર પંચના ઝડપી અમલીકરણના સંકેતોની રાહ જોઈ રહ્યા છે. અહેવાલો અનુસાર, પેનલ મુખ્ય હિસ્સેદારો સાથે તેની પરામર્શ પ્રક્રિયાને ઝડપી બનાવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-news-on-the-8th-pay-commission-government-has-sought-suggestions-this-is-the-deadline-467414 ",
-    "time": "2026-03-06T09:11:47.000Z"
   },
   {
     "cat": "World",
