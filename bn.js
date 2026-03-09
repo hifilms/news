@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "অভিষেক-ঐশ্বর্যের ঘরে আগুন ধরিয়েছিল কে? কার 'কুনজর' ছিল? হাতেনাতে ধরা পড়ল সচিনের ছেলের বিয়েতে!",
+    "desc": "ঐশ্বর্য রাই বচ্চন এবং অভিষেক বচ্চনের মধ্যে বিচ্ছেদের গুজব সোশ্যাল মিডিয়ায় ছড়িয়ে পড়ে৷ যার মূল কারণ ছিল নির্দিষ্ট কিছু অনুষ্ঠানে তাঁরা আলাদা যেতেন৷ কিছু গুরুত্বপূর্ণ অনুষ্ঠানে তাদের দু’জনকে আলাদাভাবে উপস্থিত থাকতে দেখা গেলে এই গুজব আরও তীব্র হয়ে ওঠে, যার ফলে অনলাইনে তাঁদের দাম্পত্য সম্পর্কে টানাপোড়েন সম্পর্কে জল্পনা শুরু হয়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Jaya-Bachchan-2026-03-4ac56277216e6abe227dc14a8f877c60-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/abhishek-bachchan-and-aishwarya-rai-bachchan-seen-together-at-arjun-tendulkar-marriage-but-jaya-bachchan-avoided-them-pbd-2576266.html",
+    "time": "2026-03-09T12:12:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "বিলাসবহুল বাংলো-গাড়ি, কোটি কোটি টাকার মালকিন, তবুও ৪২ বছরে একা বিজয়ের চর্চিত প্রেমিকা তৃষা, সম্পত্তির পরিমাণ জানলে ঘুম উড়বে",
+    "desc": "দুই দশকেরও বেশি সময় ধরে তার কেরিয়ারে, তিনি তামিল এবং তেলেগু সিনেমায় অসংখ্য স্মরণীয় এবং সুপারহিট ছবি উপহার দিয়েছেন। তার প্রতিভা, কঠোর পরিশ্রম এবং ধারাবাহিক সাফল্যের জন্য, তৃষা এখন দক্ষিণ ভারতীয় চলচ্চিত্র জগতের সবচেয়ে বিশ্বস্ত এবং সর্বোচ্চ পারিশ্রমিকপ্রাপ্ত অভিনেত্রীদের একজন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1773051701_1773044572_fhgh-2026-03-a85bd564b754913525311d647b669d05-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/south-cinema-actor-thalapathy-vijay-rumoured-girlfriend-trisha-krishnan-net-worth-peek-into-luxurious-lifestyle-see-here-rds-2576112.html",
+    "time": "2026-03-09T10:58:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘পবিত্র গর্ভ’ মন্তব্যে তোলপাড় নেটপাড়া, বিতর্ক থামাতে ভিডিয়ো বার্তায় সাফাই সোহিনীর",
+    "desc": "সন্তান হারানোর যন্ত্রণা থেকে এক বিতর্কিত মন্তব্য— ফের চর্চায় ভ্লগার সোহিনী গঙ্গোপাধ্যায়। তাঁর ‘পবিত্র গর্ভ’ মন্তব্যে উত্তাল নেটপাড়া। তবে কি অন্য মায়েদের অসম্মান করেছেন তিনি? বিতর্কের ড্যামেজ কন্ট্রোল করতে ভিডিও বার্তায় ঠিক কী জানালেন সোহিনী?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/social-media-influencer-sohini-ganguly-controversy-holy-womb-comment-clarification-video_644221.html ",
+    "time": "2026-03-09T10:40:25.000Z"
+  },
+  {
     "cat": "World",
     "title": "'ভারতীয়দের নিরাপত্তা অগ্রাধিকার, তিনটি ইরানি জাহাজকে আশ্রয় দেওয়া হয়েছে ভারতে', জানালেন বিদেশমন্ত্রী",
     "desc": "২৮ ফেব্রুয়ারি ইরানে মার্কিন যুক্তরাষ্ট্র ও ইজরায়েলের যৌথ সামরিক হামলায় খামেনেইয়ের মৃত্যুর পর পশ্চিম এশিয়ায় তীব্র উত্তেজনা বৃদ্ধি পাওয়ার পরেই এহেন মন্তব্য করেন বিদেশমন্ত্রী। এই হামলায় ইসলামিক প্রজাতন্ত্রের বেশ কয়েকজন নেতা নিহত হয়েছেন বলেও জানা গিয়েছে।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-iranian-rial-do-you-know-how-much-100-indian-rupees-are-worth-in-iran-the-answer-will-shoch-you-for-sure-know-this-interesting-fact-amid-iran-israel-tension-sanj-2565433.html",
     "time": "2026-03-02T11:56:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "আরিফিন শুভর ‘জ্যাজ সিটি’ যাত্রার নেপথ্যের গল্প চমকে দেবেই, অনেকেই হতবাক",
-    "desc": "এর আগে বলিউডের অভিনেতাকে বাংলাদেশের ছবিতে দেখা গিয়েছে, বিপরীত তাই নজর কেড়েছে। জ্যাজ সিটি-এর (Jazz City) জন্য প্রশংসিত বলিউড কাস্টিং ডিরেক্টর মুকেশ ছাবড়া প্রথমে আরিফিন শুভর সঙ্গে যোগাযোগ করেছিলেন। সেই মুহূর্ত থেকে প্রায় তিন বছরের যাত্রা শুরু হয়েছিল, যার সমাপ্তি ঘটে শুভর বলিউডে অভিষেক ৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Jazz-City-Cast-2026-03-fde125d9634e85950e3b6cbc9134447c-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/story-behind-arifin-shuvoos-jazz-city-journey-upcoming-series-jazz-city-in-kolkata-streaming-from-19th-march-ss-aa-2565577.html",
-    "time": "2026-03-02T11:48:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mimi Chakraborty-Tanay Shastri: মানহানি অভিযোগে আইনি চাপে মিমি চক্রবর্তী, বনগাঁ আদালতে তনয় শাস্ত্রীর হয়ে তরুণজ্যোতি তিওয়ারি মামলা",
-    "desc": "মানহানি-সহ ক্ষতিপূরণ দাবি ও অনুষ্ঠানের পারিশ্রমিক ফেরত চেয়ে আগেই অভিনেত্রী মিমি চক্রবর্তীর বিরুদ্ধে আইনি নোটিশ পাঠিয়ে বনগাঁ থানায় অভিযোগ দায়ের করেছিলেন তনয় শাস্ত্রী। এবার তাঁর আইনজীবী তরুণজ্যোতি তেওয়ারির উপস্থিতিতে বনগাঁ আদালতে আনুষ্ঠানিকভাবে মামলা দায়ের করা হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Mimi-Chakraborty-2026-03-ff1036c5366ffb6d12b8dd2ff1128800-1200x800.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/mimi-chakraborty-defamation-case-20-lakh-compensation-2-65-lakh-refund-bongaon-court-tanmay-shastri-tarunjyoti-tewari-sal-2565267.html",
-    "time": "2026-03-02T11:21:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Iran-Israel Tention: যুদ্ধের আবহে ক্রমশ ঊর্ধ্বমুখী তেলের দাম",
-    "desc": "মধ্যপ্রাচ্যে মহারণ। ভয়ঙ্কর প্রত্যাঘাত ইরানের। আমেরিকার রণতরী আব্রাহাম লিঙ্কনে হামলা ইরানের ৪ ব্যালেস্টিক মিসাইলের। মধ্যপ্রাচ্যের মহাযুদ্ধে জ্বলছে হরমুজ প্রণালী। হরমুজ প্রণালী দিয়ে থমকে তেল সরবরাহ। তেল পরিবহণের গুরুত্বপূর্ণ রুট এই হরমুজ প্রণালী। এই জলপথ ধরে তেল পরিবহণ থমকে যাওয়ায় বাড়ছে জ্বালানির দাম। ইতিমধ্যেই অপরিশোধীত তেলের দাম ১০ শতাংশ বৃদ্ধি পেয়েছে। যুদ্ধের আঁচে জ্বালানির দাম বৃদ্ধির আশঙ্কায় বিশ্ব",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Iran-Israel-Conflict-2026-03-e284461d9e4456c8ac048192b4d37142-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/business/iran-israel-tention-oil-prices-up-as-concerns-over-closure-of-strait-of-hormuz-mount-rm-2564833.html",
-    "time": "2026-03-02T08:29:27.000Z"
   }
 ];

@@ -1,12 +1,66 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "દીકરીઓ માટે અદભુત સરકારી યોજના, 200 રૂપિયાનું રોકાણ કરવાથી 40 લાખનું  ફંડ બનશે, જાણો ગણતરી",
+    "desc": "મોંઘવારીના સમયમાં જ્યારે ઘરના બે છેડા માંડમાંડ મળતા હોય તો રોકાણ વિશે તો વાત જ ક્યાં કરે કોઈ? પરંતુ આમ છતાં તમને જણાવી દઈએ કે એવી પણ કેટલીક સરકારી યોજનાઓ છે જેમાં તમને રોકાણ કરવાથી સારામાં સારા લાભ મળી શકે છે. આવી જ એક યોજના વિશે અમે તમને જણાવીશું જે દીકરીઓનું સારું ભવિષ્ય બનાવવામાં મદદરૂપ થઈ શકે છે. માત્ર 200 રૂપિયાનું દૈનિક રોકાણ તમને લાખોનું ફંડ બનાવવામાં મદદરૂપ બની શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/government-scheme-sukanya-samriddhi-yojana-how-you-can-make-funds-of-40-lakh-by-investing-daily-200-rs-467846 ",
+    "time": "2026-03-09T12:52:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું ભારતમાં સર્જાઈ રહી છે ઓઈલની અછત? મિડલ ઈસ્ટમાં યુદ્ધ વચ્ચે આ રાજ્યમાં ખાસ આદેશ જાહેર",
+    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા યુદ્ધ વચ્ચે મહારાષ્ટ્રના છત્રપતિ સંભાજીનગર જિલ્લામાં એક ખાસ આદેશ જાહેર કરવામાં આવ્યો છે. આ આદેશ ઓઈલના પુરવઠાને લઈને આપવામાં આવ્યો છે. જેમાં ઓઈલ અને ગેસ કંપનીઓને સૂચના આપવામાં આવી છે કે, આવશ્યક કામગીરીમાં રોકાયેલા સરકારી વાહનો માટે ઈંધણનો સ્ટોર કરવામાં આવે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/oil-shortages-looming-in-india-amid-the-middle-east-war-this-state-has-issued-a-special-order-467842 ",
+    "time": "2026-03-09T12:29:52.000Z"
+  },
+  {
     "cat": "Sports",
-    "title": "ભારતનો ગુમનામ હીરો, જેણે ટીમ ઈન્ડિયાને 3 વખત બનાવી દીધી ચેમ્પિયન",
+    "title": "ગંભીર, સૂર્યા, બુમરાહ જ નહીં આ ખેલાડીની પણ જીતમાં મોટી ભૂમિકા, પડદા પાછળ રહી કર્યું કામ",
     "desc": "ટીમ ઈન્ડિયાને વર્લ્ડ ચેમ્પિયન બનાવવામાં સંજુ સેમસન, જસપ્રીત બુમરાહ, ઈશાન કિશન, શિવમ દુબે જેવા ખેલાડીઓનો હાથ રહ્યો. કોચ ગોતમ ગંભીરની ભૂમિકા મહત્વની રહી પરંતુ ચીફ સિલેક્ટર અજીત અગરકરે પણ પડદા પાછળ યોગદાન આપ્યું છે જેને ભૂલી શકાય નહીં.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-indian-team-win-ajit-agarkar-contribution-as-a-chief-selector-467805 ",
-    "time": "2026-03-09T09:17:18.000Z"
+    "time": "2026-03-09T12:02:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 વર્લ્ડ કપ જીત્યો છતાં કેપ્ટન સૂર્યાનું નથી ભરાયું મન, કરી મોટી જાહેરાત",
+    "desc": "T20 વર્લ્ડ કપ 2026ની ફાઇનલમાં ભારત ન્યુઝીલેન્ડને 96 રનથી હરાવીને વર્લ્ડ ચેમ્પિયન બન્યું. ભારતની ઐતિહાસિક જીત બાદ કેપ્ટન સૂર્યકુમાર યાદવે આગામી યોજનાઓ પર નિવેદન આપ્યું છે. ત્યારે આ લેખમાં જાણીશું કે કેપ્ટને શું જાહેરાત કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/after-t20-world-cup-win-suryakumar-yadav-next-target-is-olympics-gold-467839 ",
+    "time": "2026-03-09T11:53:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અનુપમા શો નો પ્રોમો જોઈ ભડક્યા દર્શકો, અનુપમાને ગોવામાં મળશે છઠ્ઠો પ્રેમી, સીરીયલ પર ફુટ્યો લોકોનો ગુસ્સો",
+    "desc": "અનુપમા શો શરુ થયો ત્યારે લોકોએ આ સીરીયલના ખૂબ વખાણ કર્યા હતા કે લાંબા સમય પછી ટીવી પર સારી સીરીયલ જોવા મળી. પરંતુ હવે જે રીતે સીરીયલને આગળ વધારવા માટે શો માં નવા નવા પાત્રો અને અનુપમાના નવા સફર દેખાડવામાં આવે છે તેને જોઈ લોકો ભડકી ગયા છે. શો માટે જે નવો લીપ આવશે તેનો પ્રોમો જોઈ સોશિયલ મીડિયા પર લોકોએ મેકર્સને ન કહેવાના શબ્દો કહી દીધા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/anupama-trolled-on-social-media-anupama-show-leap-with-goa-sixth-man-entry-in-anupama-life-467838 ",
+    "time": "2026-03-09T11:44:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અનુ સામે આવશે આર્યનું સૌથી મોટું સત્ય, ગાયત્રી નથી તેની માતા, અનુ લગ્નની પાડી દેશે ના, જાણો",
+    "desc": "ટીવી સીરિયલ 'તુમ સે તુમ તક' માં એક મોટો વળાંક આવ્યો છે. જ્યારે અનુ અને આર્યના લગ્નની ચર્ચા ચાલી રહી હતી, ત્યારે સત્ય બહાર આવ્યું છે. અનુને ખબર પડે છે કે રાજનંદિનીની માતા કોણ છે અને આર્ય કોનો પુત્ર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/anu-will-reveal-aryas-biggest-truth-gayatri-is-not-his-mother-anu-will-break-the-marriage-know-this-467836 ",
+    "time": "2026-03-09T11:27:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "જો પરમાણુ યુદ્ધ થાય તો ફક્ત આ બે દેશો જ બચશે, જાણો ભારતનું શું થશે",
+    "desc": "જો પરમાણુ યુદ્ધ થાય, તો ફક્ત બે દેશો જ બચી શકશે. ત્યારે આ લેખમાં જાણીશું કે આ બે દેશો કયા છે અને તેના બચવા પાછળના કારણો શું છે. તેમજ જો પરમાણુ યુદ્ધ થાય તો ભારતનું શું થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/if-there-is-nuclear-war-only-these-two-countries-will-survive-467835 ",
+    "time": "2026-03-09T11:23:05.000Z"
   },
   {
     "cat": "Sports",
@@ -142,15 +196,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/world-cup-final-saw-heated-exchanges-with-arshdeep-bowling-and-mitchell-running-after-the-bowler-with-his-bat-video-467767 ",
     "time": "2026-03-08T17:38:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ટી20 વર્લ્ડ કપમાં ભારતનો ઐતિહાસિક વિજય: રચાયા 3 નવા મોટા રેકોર્ડ્સ",
-    "desc": "ભારત હવે વિશ્વની પ્રથમ એવી ટીમ બની ગઈ છે જેણે ત્રણ વખત ટી20 વર્લ્ડ કપનો ખિતાબ જીત્યો હોય. આ પહેલા કોઈ પણ ટીમ ત્રણ વાર ચેમ્પિયન બની શકી નહોતી, જે દર્શાવે છે કે આ ફોર્મેટમાં ભારતનું પ્રદર્શન કેટલું સાતત્યપૂર્ણ રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-t20-world-cup-indias-historic-victory-in-the-t20-world-cup-3-new-big-records-created-467766 ",
-    "time": "2026-03-08T17:25:43.000Z"
   },
   {
     "cat": "Business",
@@ -405,15 +450,6 @@ const newsData_gu = [
     "time": "2026-03-06T12:39:39.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોનું કે ચાંદી... રોકાણ માટે કયો વિકલ્પ છે બેસ્ટ? જાણો શું છે &amp;#039;ગોલ્ડ-સિલ્વર રેશિયો&amp;#039;",
-    "desc": "મિડલ ઈસ્ટમાં વધતા તણાવ વચ્ચે સોના-ચાંદીના ભાવમાં સતત વધઘટ જોવા મળી રહી છે. અમેરિકા અને ઇઝરાયલ જ્યારે ઇરાન પર હુમલો કરે છે અને ઇરાન સંપૂર્ણ તાકાતથી જવાબ આપી રહ્યું છે. આવી સ્થિતિમાં સોનાની ચમક અકબંધ રહે છે, જ્યારે ચાંદી કમજોર પડી હોય તેવું લાગી રહ્યું છે. ચાંદી વધઘટ વધુ થાય છે અને તેનો ઉપયોગ ઉદ્યોગમાં પણ થાય છે. જેના કારણે રોકાણકારો ચાંદીને ઓછી પસંદ કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-or-silver-which-is-the-best-option-for-investment-know-what-the-gold-silver-ratio-467423 ",
-    "time": "2026-03-06T10:58:53.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઈરાનના 18 લાખના ડ્રોનને 37 કરોડની મિસાઈલથી તોડી રહ્યું છે અમેરિકા! જાણો કેવી રીતે પોતાની જ જાળમાં ફસાયું જગત જમાદાર!",
     "desc": "મિડલ ઈસ્ટમાં અમેરિકા અને તેના સહયોગી દેશો માટે સૌથી મોટો ડર એ છે કે ક્યાંક તેમની એર ડિફેન્સ સિસ્ટમના ઈન્ટરસેપ્ટર્સ ખતમ ન થઈ જાય, જ્યારે ઈરાન પાસે હજુ પણ મોટી સંખ્યામાં સસ્તા ડ્રોન અને મિસાઈલોનો ભંડાર છે.",
@@ -511,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/another-iranian-ship-is-moving-towards-sri-lanka-officials-are-worried-said-it-could-be-targeted-467301 ",
     "time": "2026-03-05T09:50:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "એક પણ ગોળી ચલાવ્યા વિના અમેરિકા અને ખાડી દેશોને ઘૂંટણીયે લાવી શકે છે ઈરાન, ચીનના પ્રોફેસરે જણાવ્યો ખતરનાક પ્લાન",
-    "desc": "ખરેખર આ ચીનના મગજમાં જ આવી શકે છે. ચીન યુદ્ધમાં કોઈ પણ હદ સુધી જઈ શકે છે. ચીનના એક પ્રોફેસરે ચેતાવણી આપી શકે છે અમેરિકા સાથે લડવા માટે ઈરાને એક પણ બંદૂકની ગોળી છોડવાની જરૂર જ નથી. ગોળી ચલાવ્યા વગર પર ઈરાન ખાડી દેશો અને અમેરિકાને ઘુંટણીએ લાવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-can-subdue-america-and-gulf-countries-without-firing-a-single-shot-chinese-professor-reveals-dangerous-plan-467300 ",
-    "time": "2026-03-05T09:09:26.000Z"
   },
   {
     "cat": "Tech",
@@ -655,23 +682,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/best-top-5-smart-and-stylish-electric-bikes-for-college-students-in-india-466311 ",
     "time": "2026-02-26T12:34:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "શું તમે સંજય લીલા ભણસાલીના હાર્ટ એટેક આવ્યો? ટીમે આપ્યું અપડેટ",
-    "desc": "સંજય લીલા ભણસાલીને હાર્ટ એટેકનો હુમલો આવ્યો હોવાના સમાચાર વાયુ વેગે વાયરલ થઈ રહ્યા છે. તેમની ટીમે એક નિવેદન બહાર પાડીને તેના વિશે જણાવ્યું છે. અહેવાલમાં જણાવવામાં આવ્યું છે કે, તેમને કોકીલાબેન હોસ્પિટલમાં દાખલ કરવામાં આવ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/did-you-know-that-sanjay-leela-bhansali-had-a-heart-attack-the-team-gave-an-update-466190 ",
-    "time": "2026-02-25T09:50:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રણબીર કપૂર-સાંઈ પલ્લવીની ફિલ્મ રામાયણનું યોજાયું ટેસ્ટ સ્ક્રીનિંગ, જાણો લોકોને કેવી લાગી નિતેશ તિવારીની ફિલ્મ?",
-    "desc": "નિતેશ તિવારીની ફિલ્મ રામાયણને લઈને છેલ્લા ઘણા સમયથી બઝ છે. લોકો આ ફિલ્મની આતુરતાથી રાહ જોઈ રહ્યા છે. આ ફિલ્મને લઈને એક મહત્વપૂર્ણ ખબર સામે આવી છે. જેના વિશે જાણીને ફિલ્મ જોવાની આતુરતા અનેકગણી વધી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/nitesh-tiwari-big-budget-film-ramayana-got-positive-response-after-first-test-screening-in-los-angeles-466151 ",
-    "time": "2026-02-25T05:49:10.000Z"
   }
 ];

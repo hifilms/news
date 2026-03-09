@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India TV 'She' Conclave: Cricketer Shreyanka Patil speaks about reason she chose cricket as profession",
+    "desc": "At the India TV 'She' Conclave, India and Royal Challengers Bengaluru cricketer Shreyanka Patil spoke about her short, yet illustrious career. The star all-rounder was part of Royal Challengers Bengaluru’s Women’s Premier League title-winning campaigns...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-tv-she-conclave-cricketer-shreyanka-patil-speaks-about-reason-she-chose-cricket-as-profession-2026-03-09-1033175",
+    "time": "2026-03-09T12:10:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav names Olympic gold as top priority after T20 World Cup 2026 triumph",
+    "desc": "India defeated New Zealand by 96 runs to win the T20 World Cup 2026. The triumph made the Suryakumar Yadav-led side the first team to win back-to-back editions of the tournament and also lift the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-names-olympic-gold-as-top-priority-after-t20-world-cup-2026-triumph-2026-03-09-1033170",
+    "time": "2026-03-09T11:34:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kerala government to honour Sanju Samson after India's T20 World Cup 2026 triumph",
+    "desc": "Sanju Samson was not in team India’s plan leading to the T20 World Cup 2026. After a flop show in the New Zealand series, he was sidelined with Ishan Kishan and Abhishek Sharma announced as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kerala-government-to-honour-sanju-samson-after-india-s-t20-world-cup-2026-triumph-2026-03-09-1033159",
+    "time": "2026-03-09T10:21:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Virtually unbeatable': Nasser Hussain gives his take on India's title-winning T20 World Cup campaign",
     "desc": "There is no doubt that Team India was the best team of the recently concluded T20 World Cup; the side just lost one game throughout the tournament and went on to defeat New Zealand in...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/the-strength-of-indian-cricket-sunil-gavaskar-weighs-in-on-india-s-historic-t20-world-cup-win-2026-03-09-1033110",
     "time": "2026-03-09T02:32:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'History gets created': MS Dhoni congratulates team India after historic T20 World Cup triumph",
-    "desc": "The Indian team etched its name in the history books after the side defeated New Zealand in the summit clash of the tournament. Both teams locked horns at the Narendra Modi Stadium in Ahmedabad, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/history-gets-created-ms-dhoni-congratulates-team-india-after-historic-t20-world-cup-triumph-2026-03-09-1033107",
-    "time": "2026-03-09T01:35:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya aims to win 10 more ICC titles after T20 World Cup 2026 win",
-    "desc": "History was created in Ahmedabad as India successfully defended the ICC Men's T20 World Cup 2026, overwhelming New Zealand by 96 runs at the Narendra Modi Stadium in Ahmedabad. The hosts produced a near-perfect performance...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-aims-to-win-10-more-icc-titles-after-t20-world-cup-2026-win-2026-03-09-1033102",
-    "time": "2026-03-08T18:53:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Will take time to sink in': Suryakumar Yadav reacts after leading India to T20 World Cup trophy",
-    "desc": "Suryakumar Yadav was announced India's T20I captain after the previous edition of the T20 World Cup as Rohit Sharma announced his retirement. Since then, India didn't lose a single series under Surya's captaincy, winning eight...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-take-time-to-sink-in-suryakumar-yadav-reacts-after-leading-india-to-t20-world-cup-trophy-2026-03-09-1033101",
-    "time": "2026-03-08T18:51:54.000Z"
   }
 ];
