@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "যুদ্ধে ভয়ংকর হোয়াইট ফসফরাস ব্যবহার ইসরায়েলের, এই মারাত্মক রাসায়নিক অস্ত্রে কী পরিণতি হতে পারে?",
+    "desc": "মানবাধিকার সংগঠন হিউম্যান রাইটস ওয়াচ জানিয়েছে, ৩ মার্চ লেবাননের ইয়োহমর শহরের ঘরবাড়ির ওপর আর্টিলারি থেকে সাদা ফসফরাসের গোলা ছোঁড়া হয়েছে। অসামরিক মানুষের নিরাপত্তায় সাদা ফসফরাসের ব্যবহার নিয়ে কঠোর সীমাবদ্ধতা রয়েছে। এর পরিণতি হতে পারে আজীবনের জন্য ভয়ংকর।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/israel-using-white-phosphorus-in-lebanon-what-is-it-and-its-lifelong-consequences_644284.html ",
+    "time": "2026-03-09T18:23:47.000Z"
+  },
+  {
+    "cat": "World",
     "title": "ইরান-ইজরায়েল যুদ্ধে বন্ধ হরমুজ প্রণালী! ভারতের জন্য কতটা চিন্তার হতে পারে? জেনে নিন",
     "desc": "আমেরিকা-ইসরায়েল-ইরান যুদ্ধের মধ্যে সবচেয়ে বেশি আলোচনার বিষয় হয়ে উঠেছে হরমুজ প্রণালী। চিন এবং রাশিয়া ছাড়া আর কোনও দেশের জাহাজকে হরমুজ প্রণালী ব্যবহার করতে দিচ্ছে না ইরান। ভারত জ্বালানির জোগানের জন্য নির্ভর করে, তাই ভারতের জ্বালানির জোগান নিয়ে প্রশ্ন উঠছে। ভারতকেও কি বড় দুশ্চিন্তায় পড়তে হবে?",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/hormuz-1-2026-03-f23b96d8c7be61d2e945b9df26d53e29-1200x800.jpg",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/tollywood-actress-sandipta-sen-stuck-in-paris-as-flights-are-cancelled-due-to-the-iran-israel-usa-war_643385.html ",
     "time": "2026-03-02T13:14:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "\"খাটের তলায় লুকিয়ে থাকব, চিন্তা করো না\", দুবাইয়ে আটকে ৬ বছরের মেয়ে, চিন্তায় চোখে জল বাবা অ্যামির",
-    "desc": "আভি ভার্ক জানিয়েছেন যে তাঁর স্ত্রী এবং ৬ বছরের মেয়ে সংযুক্ত আরব আমিরশাহীতে আটকা পড়েছে। সেখান থেকে তাঁর মেয়ের একটি কথা নায়ককে কাঁদিয়ে দিয়েছে। তিনি শান্তির জন্য আবেদন করেছেন এবং ক্ষতিগ্রস্ত সকল পরিবারের জন্য প্রার্থনা করেছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/ammy-virk-2026-03-a5c66b9866e19342c575969eeaa3d359-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/amid-iran-conflict-tension-at-dubai-singer-actor-ammy-virk-wife-and-6-year-old-daughter-stranded-shares-emotional-post-pbd-2565098.html",
-    "time": "2026-03-02T13:10:00.000Z"
   }
 ];

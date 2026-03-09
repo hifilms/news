@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Tension in U.P. locality after attack on religious leader",
+    "desc": "The Congress has alleged such incidents are part of a broader pattern to disturb harmony at a local level. ‘An organised pattern is at play across Western U.P. to disturb harmony through localised incidents aimed at terrorising minorities’",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/tensionmounts-in-muzaffarnagar-after-imam-is-assaulted-by-juveniles/article70723323.ece",
+    "time": "2026-03-09T20:48:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Urvashi Rautela reaches Mumbai after leaving Kuwait",
+    "desc": "Amid escalating tensions in the Middle East following the conflict between Israel and Iran, actor Urvashi Rautela shared an emotional update while leaving Kuwait. The actress later confirmed that she had safely reached Mumbai. Taking to Instagram Stories, Urvashi opened up about the sudden fear she experienced while boarding the flight out of Kuwait. The actress admitted that the anxiety hit her unexpectedly once she was seated on the plane.",
+    "img": "https://static.toiimg.com/photo/msid-129354911,imgsize-82174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/urvashi-rautela-reaches-mumbai-after-leaving-kuwait-amid-middle-east-tensions-i-started-feeling-really-scared-all-of-a-sudden/articleshow/129354911.cms",
+    "time": "2026-03-09T20:21:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC closes contempt case after apology from YouTuber",
+    "desc": "The Supreme Court has closed suo motu contempt proceedings against YouTuber Ajay Shukla after he offered an unconditional apology for \"defamatory\" remarks against a former judge. Justices Dipankar Datta and Satish Chandra Sharma accepted the apology but warned Shukla against future misconduct, stating any recurrence would face severe consequences.",
+    "img": "https://static.toiimg.com/photo/msid-129355132,imgsize-95440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-closes-contempt-case-after-apology-from-youtuber/articleshow/129355063.cms",
+    "time": "2026-03-09T20:20:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Advocate files 5 PILs, gets SC flak for raising 'frivolous' pleas",
+    "desc": "An advocate's attempt to argue five PILs, ranging from chemical-free tobacco to garlic's 'tamasic' nature, drew sharp criticism from the Supreme Court. The bench termed the petitions frivolous, suggesting they were filed for publicity. The court warned against such practices, emphasizing the need for advocates to focus on their profession rather than seeking cheap fame through PILs.",
+    "img": "https://static.toiimg.com/photo/msid-129354902,imgsize-5358.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/advocate-files-5-pils-gets-sc-flak-for-raising-frivolous-pleas/articleshow/129354879.cms",
+    "time": "2026-03-09T20:14:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "How Iran is fighting back against U.S. and Israel",
+    "desc": "One week into the escalating war between Iran, the United States, and Israel, Tehran has intensified its response through missile strikes, regional alliances, and strategic pressure across the West Asia. With tensions rising and no immediate ceasefire in sight, the first week of fighting has already reshaped security calculations across the West Asia, raising fears that the conflict could expand into a wider regional war.",
+    "img": "https://th-i.thgim.com/public/news/national/ha03pw/article70724007.ece/alternates/LANDSCAPE_1200/trump%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-how-iran-is-fighting-back-against-us-and-israel/article70724008.ece",
+    "time": "2026-03-09T20:13:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Do we have nothing except Bengal SIR to hear, asks SC",
+    "desc": "The Supreme Court expressed frustration over frequent West Bengal-related petitions, questioning its workload. Petitioners challenging voter list deletions highlighted a lack of appeal options. The court agreed to hear these alongside ongoing voter roll scrutiny issues, emphasizing that bureaucrats shouldn't overrule judicial officers' decisions.",
+    "img": "https://static.toiimg.com/photo/msid-129354030,imgsize-157042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/do-we-have-nothing-except-bengal-sir-to-hear-asks-sc/articleshow/129353967.cms",
+    "time": "2026-03-09T19:44:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bellamkonda Sai Sreenivas introduces life partner Kavya Reddy",
+    "desc": "Bellamkonda Sai Sreenivas has seemingly entered a new chapter in his personal life. The actor, who is the elder son of producer Bellamkonda Suresh, recently introduced Kavya Reddy as the special person in his life during a private family gathering in Hyderabad. While reports initially suggested that the actor had gotten engaged, Sreenivas clarified that the event was only a small family announcement and that the actual engagement and wedding celebrations are yet to take place.",
+    "img": "https://static.toiimg.com/photo/msid-129352611,imgsize-117290.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/bellamkonda-sai-sreenivas-introduces-his-life-partner-kavya-reddy-clarifies-engagement-and-wedding-dates-will-be-announced-soon/articleshow/129352611.cms",
+    "time": "2026-03-09T19:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Karnataka suspends online sale of Mysore silk saris as orders surge",
+    "desc": "Karnataka has suspended online sales of its famed Mysore silk saris due to overwhelming demand exceeding production capacity. The state-owned Karnataka Silk Industries Corporation will now prioritize limited stock for in-person buyers at its outlets. Online sales will resume once production stabilizes, following efforts to secure premium cocoon supply and increase loom capacity.",
+    "img": "https://static.toiimg.com/photo/msid-129352160,imgsize-71314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/karnataka-suspends-online-sale-of-mysore-silk-saris-as-orders-surge/articleshow/129352110.cms",
+    "time": "2026-03-09T19:04:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India glorious",
+    "desc": "A triumph of spirit, of team spirit, of belief in themselves and each other, the T20 World Cup title won by Suryakumar & Co. will be celebrated long and hard; India relished being installed the favourites and basked in the fact that everyone expected them to go all the way",
+    "img": "https://th-i.thgim.com/public/incoming/iemhf6/article70723904.ece/alternates/LANDSCAPE_1200/VIS_9323.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/indiaglorious/article70723898.ece",
+    "time": "2026-03-09T19:03:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government working to ‘optimise’ gas supply as Gulf war hits LNG flow",
+    "desc": "India faces a nearly 40% hit to its LNG supply due to the West Asia conflict, prompting the government to devise an \"optimisation plan\" for industries. While fertiliser remains a priority, some supply reduction is possible, though the sector is currently buffered by high urea stocks and the agricultural lean season.",
+    "img": "https://static.toiimg.com/photo/msid-129351779,imgsize-652255.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/government-working-to-optimise-gas-supply-as-gulf-war-hits-lng-flow/articleshow/129350675.cms",
+    "time": "2026-03-09T18:56:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir Khan's 'Sitaare Zameen Par' set for OTT release",
+    "desc": "Aamir Khan's film 'Sitaare Zameen Par' is now available on SonyLIV. This marks the first Hindi theatrical film to debut on the platform. Previously, the movie was accessible via a pay-per-view model on Khan's YouTube channel. The sports comedy-drama, an adaptation of the Spanish film 'Champions', achieved significant box office success. It stars Aamir Khan and Genelia Deshmukh.",
+    "img": "https://static.toiimg.com/photo/msid-129350359,imgsize-42212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khans-sitaare-zameen-par-set-for-ott-release-on-a-streaming-platform-after-youtube-pay-per-view-model-heres-where-you-can-watch-it/articleshow/129350355.cms",
+    "time": "2026-03-09T18:26:18.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Jamie recalls Jesse’s tumour battle and failed surgery",
     "desc": "Veteran comedian Johny Lever has entertained audiences for decades, but his family once went through a deeply challenging phase when his son Jesse Lever was diagnosed with a tumour in his neck at a young age. In a recent conversation, his daughter Jamie Lever opened up about the difficult period and how faith helped the family cope. Jamie recalled that Jesse was still in school when the family first realised something was wrong.",
@@ -16,15 +115,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-can-never-be-painted-in-saffron-says-cm-stalin/article70723924.ece",
     "time": "2026-03-09T18:18:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India glorious",
-    "desc": "A triumph of spirit, of team spirit, of belief in themselves and each other, the T20 World Cup title won by Suryakumar & Co. will be celebrated long and hard; India relished being installed the favourites and basked in the fact that everyone expected them to go all the way",
-    "img": "https://th-i.thgim.com/public/incoming/iemhf6/article70723904.ece/alternates/LANDSCAPE_1200/VIS_9323.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/indiaglorious/article70723898.ece",
-    "time": "2026-03-09T18:17:26.000Z"
   },
   {
     "cat": "Politics",
@@ -106,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sri-lanka-call-off-afghanistan-series-in-uae-due-to-middle-east-conflict/articleshow/129344073.cms",
     "time": "2026-03-09T16:22:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tension mounts in Muzaffarnagar after imam is ‘assaulted’ by juveniles",
-    "desc": "The Congress has alleged such incidents are part of a broader pattern to disturb harmony at a local level. ‘An organised pattern is at play across Western U.P. to disturb harmony through localised incidents aimed at terrorising minorities’",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/tensionmounts-in-muzaffarnagar-after-imam-is-assaulted-by-juveniles/article70723323.ece",
-    "time": "2026-03-09T16:21:54.000Z"
   },
   {
     "cat": "Politics",
@@ -217,30 +298,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Amitabh Bachchan’s funny take after India’s big victory",
-    "desc": "India’s T20 World Cup triumph over New Zealand sparked nationwide celebrations. Amitabh Bachchan joked online, “I had said that if I don’t watch, they will win — and it happened!” Shah Rukh Khan hailed Team India’s dominant 255/5 win at Narendra Modi Stadium. Bachchan awaits ‘Section 84’ thriller and ‘Kalki 2’ as Ashvatthama.",
-    "img": "https://static.toiimg.com/photo/msid-129334484,imgsize-21556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/didnt-watch-so-they-won-amitabh-bachchans-funny-take-after-indias-big-victory/articleshow/129334484.cms",
-    "time": "2026-03-09T12:46:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Salim Khan expected to be discharged this week",
     "desc": "Veteran screenwriter Salim Khan has been hospitalized following a minor brain hemorrhage. Doctors performed a procedure, and he is now recovering well and is out of danger. Reports indicate he is feeling better and expected to be discharged within the next few days.",
     "img": "https://static.toiimg.com/photo/msid-129333614,imgsize-54150.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-khan-health-update-the-veteran-screenwriter-expected-to-be-discharged-from-the-hospital-this-week/articleshow/129333432.cms",
     "time": "2026-03-09T12:33:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'It was right thing to do': Jaishankar briefs Parliament on India permitting docking of Iranian ships",
-    "desc": "Jaishankar also said that India believed that dialogue and diplomacy should be pursued to de-escalate the tensions in the Middle East. While outlining India's stand in Rajya Sabha, Jaishankar said that Prime Minister Narendra Modi is closely monitoring the developments and relevant ministries are coordinating to ensure effective responses. The EAM said that the ongoing conflict in the Middle East is of \"particular concern\" for India.",
-    "img": "https://static.toiimg.com/photo/msid-129332907,imgsize-46728.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/it-was-right-thing-to-do-jaishankar-briefs-parliament-on-india-permitting-docking-of-iranian-ships/articleshow/129331968.cms",
-    "time": "2026-03-09T12:21:27.000Z"
   },
   {
     "cat": "Sports",
@@ -259,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/wga-awards-2026-winners-ryan-coogler-paul-thomas-anderson-and-the-pitt-score-big/articleshow/129331797.cms",
     "time": "2026-03-09T12:00:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vikram reacts to Thalapathy and Trisha rumours",
-    "desc": "Filmmaker Vikram Bhatt expressed admiration for actors Vijay and Trisha Krishnan amidst relationship rumors, emphasizing the dignity in honestly acknowledging emotions. He shared his personal belief in choosing honesty and walking away from loveless relationships with one's honor intact. Meanwhile, Vijay reassured fans not to worry about the controversies surrounding him.",
-    "img": "https://static.toiimg.com/photo/msid-129331825,imgsize-33414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikram-bhatt-reacts-to-thalapathy-vijay-and-trisha-krishnan-rumours-there-is-dignity-in-not-hiding-love/articleshow/129331817.cms",
-    "time": "2026-03-09T11:58:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -297,24 +351,6 @@ const newsData_en = [
     "time": "2026-03-09T11:21:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Court grants 10-day interim bail to Sharjeel Imam",
-    "desc": "A Delhi court has granted Sharjeel Imam 10-day interim bail in a 2020 Delhi riots case, months after the Supreme Court denied him regular bail. The Supreme Court had previously stated that long incarceration alone isn't enough for bail under UAPA, especially in cases affecting public order and national security.",
-    "img": "https://static.toiimg.com/photo/msid-129328712,imgsize-61156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/2020-delhi-riots-case-court-grants-10-day-interim-bail-to-sharjeel-imam/articleshow/129328764.cms",
-    "time": "2026-03-09T10:57:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Middle East tensions force IndiGo Delhi–Manchester flight to make U-turn mid-air",
-    "desc": "An IndiGo flight from Delhi to Manchester returned to Delhi shortly after takeoff. This happened due to sudden airspace restrictions. These restrictions are linked to the evolving situation in West Asia. IndiGo is working with authorities to resume the journey. The airline is also informing passengers about potential delays and diversions on other international routes.",
-    "img": "https://static.toiimg.com/photo/msid-129327900,imgsize-584301.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/middle-east-tensions-force-indigo-delhimanchester-flight-to-make-u-turn-mid-air/articleshow/129327379.cms",
-    "time": "2026-03-09T10:41:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Shahid Afridi slapped Mohammad Amir': Razzaq's explosive claim",
     "desc": "A friend's phone repair inadvertently exposed the 2010 spot-fixing plot, revealing messages between a fixer and Pakistan players. Former selector Abdul Razzaq detailed how captain Shahid Afridi confronted young pacer Mohammad Amir, leading to a confession after a slap. This revelation ultimately brought the scandal to light, resulting in bans and jail time for the involved cricketers.",
@@ -333,15 +369,6 @@ const newsData_en = [
     "time": "2026-03-09T10:34:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "No-confidence motion against Om Birla: Lok Sabha fails to take up resolution amid opposition protests over West Asia debate",
-    "desc": "Lok Sabha proceedings were disrupted on Monday, preventing a resolution to remove Speaker Om Birla from being taken up. Opposition members insisted on discussing the West Asia situation, leading to repeated adjournments. Presiding over the House, Jagadambika Pal urged decorum, highlighting the resolution's presence on the agenda and accusing the opposition of holding the House hostage and wasting public funds.",
-    "img": "https://static.toiimg.com/photo/msid-129327388,imgsize-79274.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-confidence-motion-against-om-birla-lok-sabha-fails-to-take-up-resolution-amid-opposition-protests-over-west-asia-debate/articleshow/129327460.cms",
-    "time": "2026-03-09T10:32:11.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How much gold costs in your city today? Check rates for Delhi, Mumbai &amp; more",
     "desc": "Gold futures experienced a significant drop of Rs 1,052 on Monday, closing at Rs 1,60,582 per 10 grams due to weakened local spot demand and soft global cues. Conversely, silver futures saw an advance, gaining Rs 4,362 to end at Rs 2,63,923 per kilogram on the MCX amid market uncertainties.",
@@ -349,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-how-much-gold-costs-in-your-city-today-check-rates-for-delhi-mumbai-more/articleshow/129325812.cms",
     "time": "2026-03-09T10:21:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Just reading statement not fair': Shashi Tharoor slams Jaishankar's statement on West Asia conflict in parliament",
-    "desc": "Congress MPs Shashi Tharoor and K.C. Venugopal criticized External Affairs Minister S. Jaishankar for delivering a statement on the West Asia conflict without allowing parliamentary debate. They emphasized the need for discussion on energy security and international law, urging the government to involve the opposition in its response to the escalating regional instability.",
-    "img": "https://static.toiimg.com/photo/msid-129323617,imgsize-986216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/just-reading-statement-not-fair-shashi-tharoor-slams-jaishankars-statement-on-west-asia-conflict-in-parliament/articleshow/129323484.cms",
-    "time": "2026-03-09T10:08:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -385,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/career-was-on-the-line-gautam-gambhir-makes-huge-sanju-samson-admission-after-world-cup-glory/articleshow/129325264.cms",
     "time": "2026-03-09T09:58:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Murmu-Mamata row: BJP calls TMC ‘fake news factory’, hits back  with rulebook over insult to President",
-    "desc": "The BJP has labeled the Trinamool Congress a \"fake news factory\" after West Bengal CM Mamata Banerjee accused the BJP and PM Modi of insulting President Droupadi Murmu. Banerjee presented a photo suggesting the PM was seated while the President stood during an award ceremony, contradicting BJP's claims of protocol adherence.",
-    "img": "https://static.toiimg.com/photo/msid-129324768,imgsize-1065772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/murmu-mamata-row-bjp-calls-tmc-fake-news-factory-hits-back-with-rulebook-over-insult-to-president/articleshow/129324778.cms",
-    "time": "2026-03-09T09:40:02.000Z"
   },
   {
     "cat": "Sports",
@@ -439,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/great-seeing-you-gautam-gambhir-responds-after-ms-dhonis-viral-coach-sahab-smile-looks-great-on-you-post/articleshow/129322247.cms",
     "time": "2026-03-09T08:52:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How Mamata vs EC over SIR has set stage for 2026 Bengal assembly elections",
-    "desc": "West Bengal’s Special Intensive Revision of electoral rolls has evolved from a technical checkinto a major political and constitutional confrontation ahead of the 2026 polls. With 63.7 lakh deletions and the electorate shrinking to 6.44 crore, Chief Minister Mamata Banerjee challenged the process in the Supreme Court, turning voter verification into a wider political battle with the Election Commission.",
-    "img": "https://static.toiimg.com/photo/msid-129308315,imgsize-92662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/battle-of-the-rolls-how-mamata-vs-ec-over-sir-has-set-stage-for-2026-bengal-assembly-elections/articleshow/129274600.cms",
-    "time": "2026-03-09T08:45:00.000Z"
   },
   {
     "cat": "Sports",
@@ -502,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/consumer-always-priority-jaishankar-calls-iran-crucial-to-indias-energy-security-as-middle-east-conflict-intensifies/articleshow/129316322.cms",
     "time": "2026-03-09T07:33:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Contact with Iran leadership difficult’: Jaishankar spells out India’s position on Middle East war",
-    "desc": "India advocates for dialogue and diplomacy to ease Middle East tensions, with PM Modi closely monitoring the situation. External Affairs Minister S Jaishankar highlighted concerns for over a crore Indians residing in the Gulf and the region's importance for energy security. The conflict's escalation has led to significant disruption and the tragic loss of two Indian mariners.",
-    "img": "https://static.toiimg.com/photo/msid-129315909,imgsize-1020286.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/contact-with-iran-leadership-difficult-jaishankar-spells-out-indias-position-on-middle-east-war/articleshow/129315807.cms",
-    "time": "2026-03-09T06:32:09.000Z"
   },
   {
     "cat": "Business",
@@ -574,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nse-nifty50-bse-sensex-trading-on-march-9/articleshow/129307271.cms",
     "time": "2026-03-09T03:48:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Matter of relief': Indian embassy in Saudi says 'no Indian fatality' after projectile hits Al Kharj",
-    "desc": "An Indian national was injured in Al Kharj, Saudi Arabia, after an Iranian military projectile hit a residential building. The Indian embassy confirmed no Indian fatalities, stating the injured individual is receiving treatment. The incident took place amidst heightened regional tensions and follows Iran's appointment of a new Supreme Leader.",
-    "img": "https://static.toiimg.com/photo/msid-129306563,imgsize-984890.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/matter-of-relief-indian-embassy-in-saudi-says-no-indian-fatality-after-projectile-hits-al-kharj/articleshow/129306424.cms",
-    "time": "2026-03-09T03:27:13.000Z"
   },
   {
     "cat": "Business",
@@ -828,15 +810,6 @@ const newsData_en = [
     "time": "2026-03-06T00:56:55.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Daren Sammy pleads for exit as West Indies remain stranded in India",
-    "desc": "The West Indies, who were knocked out of the T20 World Cup after losing to India in the Super Eight stage on March 1, have been unable to fly back home as flight operations through parts of the Gulf region remain disrupted",
-    "img": "https://th-i.thgim.com/public/incoming/w33pp0/article70707185.ece/alternates/LANDSCAPE_1200/2026-03-01T132146Z_2043126464_UP1EM311149D6_RTRMADP_3_CRICKET-T20-WORLDCUP-IND-WIN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/i-just-wanna-go-home-daren-sammy-pleads-for-exit-as-west-indies-remain-stranded-in-india/article70707176.ece",
-    "time": "2026-03-05T12:19:07.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Thavil artiste Amirthavarshini: Performing with A.R. Rahman was a wonderful experience",
     "desc": "From playing the thavil in the temples of Mannargudi near Thanjavur as a schoolgirl to joining A.R. Rahman’s ‘Wonderment Tour’ concert in Chennai recently, Amirthavarshini Manishankar’s musical journey seems like a fairy tale. But in reality, it is also a story of conviction and perseverance — of a young girl carving a space for herself as a thavil artiste in the male‑dominated world of Carnatic percussion.",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/iranian-filmmaker-mohammad-rasoulof-calls-ayatollah-ali-khamenei-most-hated-figure-after-death-in-us-israel-strike/article70698476.ece",
     "time": "2026-03-03T07:59:50.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Govt. blocks Supabase website, popular among code developers",
+    "desc": "The site is used as a backend by several developers working on independent projects; a govt. official declined to discuss the specific reasons for the website’s blocking, but said that ‘information was being shared that should not have been shared’",
+    "img": "https://th-i.thgim.com/public/incoming/1j41f8/article70689048.ece/alternates/LANDSCAPE_1200/G6yd0LJWMAApjzY.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/govt-blocks-supabase-website-popular-among-code-developers/article70687836.ece",
+    "time": "2026-02-28T16:03:11.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
