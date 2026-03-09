@@ -1,6 +1,114 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Top 5 South stories of the day",
+    "desc": "Filmmaker R. Parthiban apologized to Trisha Krishnan following a controversial remark. Meanwhile, Malayalam director Chidambaram received anticipatory bail in a harassment case. The censor review for Vijay's 'Jana Nayagan' was postponed again. Rumors about 'Vaadivaasal' revival were denied, and Mahesh Babu concluded the Georgia schedule for 'Varanasi'.",
+    "img": "https://static.toiimg.com/photo/msid-129341345,imgsize-108160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/r-parthiban-apologises-to-trisha-krishnan-chidambaram-gets-anticipatory-bail-jana-nayagan-censor-review-delayed-top-5-south-stories-of-the-day/articleshow/129341345.cms",
+    "time": "2026-03-09T15:20:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TVK chief Vijay seeks 15-day extension to appear before CBI again in Karur stampede case",
+    "desc": "The matter is under the consideration of the CBI officials concerned, say sources; the party’s chief was asked to join the probe on March 10, which would have been his third appearance before the Central agency",
+    "img": "https://th-i.thgim.com/public/incoming/q23606/article70722866.ece/alternates/LANDSCAPE_1200/PTI03_28_2025_000093B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-chief-vijay-seeks-15-day-extension-to-appear-before-cbi-again-in-karur-stampede-case/article70722773.ece",
+    "time": "2026-03-09T15:10:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "KGMOA opposes extension of OP hours",
+    "desc": "Govt. increases OP hours by 1 hour from the present 8 a.m. to 1 p.m. Doctors say they are already working without adequate rest and extending OP hours is going to push them to severe physical and mental stress",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kgmoa-opposes-extension-of-op-hours/article70723122.ece",
+    "time": "2026-03-09T14:59:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Samson, Bumrah lead four Indians in ICC T20 World Cup Team of the Tournament",
+    "desc": "India secured a record third ICC Men's T20 World Cup title in 2026, with four players making the official Team of the Tournament. Player of the Tournament Sanju Samson led the charge with 321 runs, including a final-record 89. Ishan Kishan, Hardik Pandya, and Jasprit Bumrah also earned spots for their stellar performances.",
+    "img": "https://static.toiimg.com/photo/msid-129340209,imgsize-136214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sanju-samson-jasprit-bumrah-lead-four-indians-in-icc-t20-world-cup-team-of-the-tournament/articleshow/129340291.cms",
+    "time": "2026-03-09T14:53:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Where to watch Donald Trump's wife's Melenia's documentary",
+    "desc": "Melania Trump's documentary is now streaming on Amazon Prime Video, offering an intimate look at her life and behind-the-scenes moments. Directed by Brett Ratner, the film generated significant interest and positive audience response, achieving a 98% score on Rotten Tomatoes. Its OTT release promises wider global reach for those interested in her story.",
+    "img": "https://static.toiimg.com/photo/msid-129339873,imgsize-145920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/melania-ott-release-date-heres-when-and-where-you-can-watch-donald-trumps-wifes-documentary/articleshow/129339873.cms",
+    "time": "2026-03-09T14:44:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Two Akanksha Singhs, one UPSC rank: Ghazipur candidate confirmed at 301",
+    "desc": "The UPSC clarified that Akanksha Singh from Ghazipur, Uttar Pradesh, secured rank 301 in the Civil Services Examination 2025, resolving confusion over two candidates with the same name claiming the same rank. The commission confirmed the successful candidate's details, including roll number and parentage, amidst reports of another Akanksha Singh from Bihar also claiming the rank.",
+    "img": "https://static.toiimg.com/photo/msid-129338592,imgsize-561986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/two-akanksha-singhs-one-upsc-rank-ghazipur-candidate-confirmed-at-301/articleshow/129338405.cms",
+    "time": "2026-03-09T14:34:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PU student-lecturer ratio far above CBSE norms: MLC",
+    "desc": "On lecturers’ petitions, K. Vivekananda raises the issue in the Council, seeks details on the criteria followed to identify surplus lecturer posts in colleges; Minister Madhu Bangarappa says the issue will be discussed with legislators representing the teachers’ and graduates’ constituencies before taking a decision",
+    "img": "https://th-i.thgim.com/public/incoming/nzsa2v/article70723074.ece/alternates/LANDSCAPE_1200/2303_9_3_2026_19_43_7_1_MLCVIVEKANANDA.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/pu-student-lecturer-ratio-far-above-cbse-norms-mlc/article70722492.ece",
+    "time": "2026-03-09T14:22:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Team India exudes an aura of invincibility in T20Is",
+    "desc": "The host retained the title and tided past the pressure of playing in the backyard as soaring expectations could at times choke; the latest successful effort was mounted on muscular batting and a bowling that had Bumrah to step up all the time",
+    "img": "https://th-i.thgim.com/public/incoming/hh5q28/article70722900.ece/alternates/LANDSCAPE_1200/VIS_5195.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/team-india-exudes-an-aura-of-invincibility-in-t20is/article70722752.ece",
+    "time": "2026-03-09T14:06:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Over 9,000 bicycles distributed to government school students in Prakasam district, says Minister",
+    "desc": "Gottipati Ravi Kumar claims that the donors contributed ₹12 lakh towards establishment of safe drinking water plants in eight schools, and stresses that with the cooperation of donors, the government schools in the State can be developed on par with private institutions",
+    "img": "https://th-i.thgim.com/public/incoming/hmf5io/article70722868.ece/alternates/LANDSCAPE_1200/9604_9_3_2026_15_25_44_1_DSC_0011JPG.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/over-9000-bicycles-distributed-to-government-school-students-in-prakasam-district-says-minister/article70722504.ece",
+    "time": "2026-03-09T13:51:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I was facing a lot of difficulties personally': Hardik Pandya",
+    "desc": "Hardik Pandya celebrated India's back-to-back T20 World Cup victories, fulfilling a personal promise to win trophies for his country. After a redemption-focused 2024 win amidst personal struggles, Pandya's commitment to winning every tournament was validated by the 2026 title triumph in Ahmedabad, marking a significant achievement for the team.",
+    "img": "https://static.toiimg.com/photo/msid-129337497,imgsize-116760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-was-facing-a-lot-of-difficulties-personally-hardik-pandya-opens-up-on-tough-phase/articleshow/129337516.cms",
+    "time": "2026-03-09T13:50:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka rope in India’s World Cup-winning architect as head coach",
+    "desc": "Gary Kirsten has been appointed as the new head coach of the Sri Lanka national cricket team, signing a two-year contract starting April 15, 2026. The former India World Cup-winning coach brings extensive international playing and coaching experience to the role. A key focus will be the upcoming ICC Men's Cricket World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-129337356,imgsize-120826.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sri-lanka-rope-in-indias-world-cup-winning-architect-as-head-coach/articleshow/129337463.cms",
+    "time": "2026-03-09T13:50:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We cannot assist once you exit Iran': Indians asked not to approach land borders without embassy coordination",
+    "desc": "The Indian Embassy in Tehran has advised Indian nationals in Iran against approaching land border points for exit without prior coordination. The mission emphasized it cannot assist individuals stranded after leaving Iranian territory without entering a third country. This advisory follows the External Affairs Minister's statement on India's focus on dialogue and diplomacy to de-escalate Middle East tensions.",
+    "img": "https://static.toiimg.com/photo/msid-129334705,imgsize-439305.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/we-cannot-assist-once-you-exit-iran-indians-asked-not-to-approach-land-borders-without-embassy-coordination/articleshow/129334685.cms",
+    "time": "2026-03-09T12:52:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Amitabh Bachchan’s funny take after India’s big victory",
     "desc": "India’s T20 World Cup triumph over New Zealand sparked nationwide celebrations. Amitabh Bachchan joked online, “I had said that if I don’t watch, they will win — and it happened!” Shah Rukh Khan hailed Team India’s dominant 255/5 win at Narendra Modi Stadium. Bachchan awaits ‘Section 84’ thriller and ‘Kalki 2’ as Ashvatthama.",
     "img": "https://static.toiimg.com/photo/msid-129334484,imgsize-21556.cms",
@@ -9,13 +117,13 @@ const newsData_en = [
     "time": "2026-03-09T12:46:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Lok Sabha fails to take up resolution seeking removal of Om Birla as Speaker amid Opposition protests demanding debate on West Asia situation",
-    "desc": "EAM Jaishankar lists Centre's three 'guiding factors' in its approach towards the war in West Asia; Leader of House in Rajya Sabha, J.P. Nadda, and Parliamentary Affairs Minister Kiren Rijiju slam Opposition's behaviour inside Parliament",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/parliament-budget-session-march-9-2026-live-motion-to-remove-speaker-om-birla-sets-stage-for-fiery-session/article70721097.ece",
-    "time": "2026-03-09T12:45:15.000Z"
+    "cat": "Entertainment",
+    "title": "Salim Khan expected to be discharged this week",
+    "desc": "Veteran screenwriter Salim Khan has been hospitalized following a minor brain hemorrhage. Doctors performed a procedure, and he is now recovering well and is out of danger. Reports indicate he is feeling better and expected to be discharged within the next few days.",
+    "img": "https://static.toiimg.com/photo/msid-129333614,imgsize-54150.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-khan-health-update-the-veteran-screenwriter-expected-to-be-discharged-from-the-hospital-this-week/articleshow/129333432.cms",
+    "time": "2026-03-09T12:33:04.000Z"
   },
   {
     "cat": "Politics",
@@ -37,21 +145,21 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
+    "title": "Coogler, Anderson win top screenplay honors; 'The Pitt' sweeps TV",
+    "desc": "The 2026 Writers Guild Awards was a night of unforgettable storytelling, where 'Sinners' and 'One Battle After Another' shone brightly as the best screenplays, with luminaries Ryan Coogler and Paul Thomas Anderson taking the crown. Meanwhile, in a stunning display of talent, 'The Pitt' swept the television categories, bagging honors for both Drama Series and New Series.",
+    "img": "https://static.toiimg.com/photo/msid-129331797,imgsize-139778.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/wga-awards-2026-winners-ryan-coogler-paul-thomas-anderson-and-the-pitt-score-big/articleshow/129331797.cms",
+    "time": "2026-03-09T12:00:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Vikram reacts to Thalapathy and Trisha rumours",
     "desc": "Filmmaker Vikram Bhatt expressed admiration for actors Vijay and Trisha Krishnan amidst relationship rumors, emphasizing the dignity in honestly acknowledging emotions. He shared his personal belief in choosing honesty and walking away from loveless relationships with one's honor intact. Meanwhile, Vijay reassured fans not to worry about the controversies surrounding him.",
     "img": "https://static.toiimg.com/photo/msid-129331825,imgsize-33414.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikram-bhatt-reacts-to-thalapathy-vijay-and-trisha-krishnan-rumours-there-is-dignity-in-not-hiding-love/articleshow/129331817.cms",
     "time": "2026-03-09T11:58:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Eminent historian K.N. Panikkar passes away",
-    "desc": "A distinguished historian of modern India and a prominent defender of secular and critical historiography, K.N. Panikkar leaves behind a legacy that shaped generations of students, scholars and public discourse on history, culture and politics",
-    "img": "https://th-i.thgim.com/public/incoming/g7guq0/article70722158.ece/alternates/LANDSCAPE_1200/04_ACJ_KVS.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/eminent-historian-kn-panikkar-passes-away/article70722151.ece",
-    "time": "2026-03-09T11:54:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -72,15 +180,6 @@ const newsData_en = [
     "time": "2026-03-09T11:29:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SC impleads Unnao rape survivor in CBI plea against bail for Sengar",
-    "desc": "Apex court recognises the right of the Unnao rape survivor to be heard in a petition filed by the CBI challenging the grant of bail to the accused former BJP MLA Kuleep Singh Sengar in the case",
-    "img": "https://th-i.thgim.com/public/incoming/tzfcsn/article70722247.ece/alternates/LANDSCAPE_1200/13_UNNAO_RAPE_CASE_HEARING_SUPREME_COURT_29_12_DELHI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sc-impleads-unnao-rape-survivor-in-cbi-plea-against-bail-for-sengar/article70722115.ece",
-    "time": "2026-03-09T11:24:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Nothing to do with the stadium': Harbhajan shuts down Ahmedabad 'panauti' talk",
     "desc": "Former spinner Harbhajan Singh dismissed notions of the Ahmedabad stadium being unlucky for India. He emphasized that match outcomes hinge solely on player performance, citing Australia's superior play in the 2023 World Cup final. Harbhajan drew parallels to past perceptions of Eden Gardens, asserting that such beliefs stem from those unfamiliar with cricket's realities.",
@@ -97,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/you-were-in-bad-form-i-was-out-for-two-years-ishan-kishans-witty-reply-to-abhishek-sharma/articleshow/129329814.cms",
     "time": "2026-03-09T11:21:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Daily power consumption in Kerala crosses 100 million unit mark for the first time this summer",
-    "desc": "Power consumption data for State shows consumption of 100.4 mu on Saturday. State is banking heavily on electricity ‘imports’ to meet the summer demand. Of the 100.4 mu consumed on Saturday, 71.64 mu came through imports",
-    "img": "https://th-i.thgim.com/public/incoming/aho063/article70722231.ece/alternates/LANDSCAPE_1200/29tvnearby1_GVPG5FFC81AD.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/daily-power-consumption-in-kerala-crosses-100-million-unit-mark-for-the-first-time-this-summer/article70722134.ece",
-    "time": "2026-03-09T11:16:05.000Z"
   },
   {
     "cat": "Politics",
@@ -214,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/career-was-on-the-line-gautam-gambhir-makes-huge-sanju-samson-admission-after-world-cup-glory/articleshow/129325264.cms",
     "time": "2026-03-09T09:58:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chaos erupts as actor Jr. NTR mobbed by fans during Bengaluru visit, police lathi-charge crowd",
-    "desc": "The actor was in the city to attend the inauguration of KIMS Super Speciality Hospital at Mahadevapura. As news of his arrival spread, thousands of fans rushed to the venue to catch a glimpse of the actor.",
-    "img": "https://th-i.thgim.com/public/incoming/taxbrf/article70721921.ece/alternates/LANDSCAPE_1200/PTI03_08_2026_000300B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/chaos-erupts-as-actor-jr-ntr-mobbed-by-fans-during-bengaluru-visit-police-lathi-charge-crowd/article70721884.ece",
-    "time": "2026-03-09T09:49:50.000Z"
   },
   {
     "cat": "Politics",
@@ -360,15 +441,6 @@ const newsData_en = [
     "time": "2026-03-09T08:12:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kajol gets candid about career choices after 34 years in films",
-    "desc": "Kajol reflects on her 34-year career, highlighting unconventional choices like her role in 'Gupt' and taking a sabbatical at her peak. She emphasizes making her own decisions and cherishes the love for her 'eccentricities'. Currently, the actress is exploring scripts but hasn't finalized any new projects, prioritizing working with relatable individuals. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129320181,imgsize-60906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kajol-gets-candid-about-career-choices-after-34-years-in-the-film-industry-says-i-was-very-stubborn-and-foolish/articleshow/129320181.cms",
-    "time": "2026-03-09T08:04:53.000Z"
-  },
-  {
     "cat": "World",
     "title": "Oil and Iran-U.S. war: Key takeaways in graphics",
     "desc": "As the Iran-U.S. war extended past its first week, Brent crude oil reached a two-year high of $114 per barrel on the Chicago mercantile exchange. How can oil production and exports be affected in the war? Here are graphics to explain.",
@@ -378,24 +450,6 @@ const newsData_en = [
     "time": "2026-03-09T08:02:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "how a gated community in Chennai is promoting the goals of Clean India Mission",
-    "desc": "A resident of Aashiana Apartments at Alwarpet in Chennai, Anita Hegde narrates how volunteer-residents from the gated community are nudging their neighbours on Poes Road and Rajakrishna Road to practise source segregation of waste, keep their neighourhood spic and span and also adopt other sustainability-promoting practices",
-    "img": "https://th-i.thgim.com/public/incoming/w9h2er/article70711991.ece/alternates/LANDSCAPE_1200/08dcmypr_Swachh%20Poes%20Volunteers%20with%20Urbaser%20Supervisors.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/swachhpoesbaby-steps-to-a-clean-and-green-neighbourhood/article70702701.ece",
-    "time": "2026-03-09T07:59:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Dhurandhar 2’ OTT release: Platform and streaming date",
-    "desc": "Ranveer Singh’s 'Dhurandhar 2', directed by Aditya Dhar, releases on March 19. The spy thriller will stream later on OTT, with the date yet to be revealed. Advance bookings cross ₹18 crore. The release follows Yash’s Toxic delay, boosting box-office prospects for this highly awaited sequel.",
-    "img": "https://static.toiimg.com/photo/msid-129319979,imgsize-49606.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-ott-release-platform-and-streaming-date-for-aditya-dhars-spy-thriller-revealed-reports/articleshow/129319979.cms",
-    "time": "2026-03-09T07:55:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Stubborn cricketer, instinctive coach and a man who owns the big nights",
     "desc": "Gautam Gambhir was India's MVP in their two World Cup triumphs, the 2007 T20 World Cup and the 2011 ODI World Cup. In both finals, he stepped up on the big occasion. Whether it was his 54-ball 75 against arch-rivals Pakistan in Johannesburg or the crafty 97 that steered India to victory in Mumbai four years later, Gambhir proved to be a force in ICC tournaments. Now, as a coach, he has added a World Cup to his resume.",
@@ -403,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/gautam-gambhir-stubborn-cricketer-instinctive-coach-and-a-man-who-owns-the-big-nights/articleshow/129318862.cms",
     "time": "2026-03-09T07:44:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Supriya Pathak on how her bond with Ratna changed over time",
-    "desc": "Supriya Pathak candidly shared her evolving relationship with sister Ratna Pathak Shah, moving from distance to a deeply cherished bond. She admitted to feeling conscious around Ratna, prioritizing her happiness. Niece Sanah Kapur also spoke, viewing Ratna as a strong, inspiring figure who advocates for others and teaches her to stand firm.",
-    "img": "https://static.toiimg.com/photo/msid-129319183,imgsize-163278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/supriya-pathak-opens-up-on-her-distant-past-with-sister-ratna-pathak-shah-which-is-now-precious-i-am-scared-of-her/articleshow/129319183.cms",
-    "time": "2026-03-09T07:42:21.000Z"
   },
   {
     "cat": "Business",
@@ -432,42 +477,6 @@ const newsData_en = [
     "time": "2026-03-09T07:22:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mahieka celebrates with Hardik; ring draws attention",
-    "desc": "Mahieka Sharma's prominent diamond ring sparked renewed engagement speculation as she celebrated with Hardik Pandya on the field after the T20 World Cup finals. Despite previous denials, her presence and the sparkling jewelry, seen during an emotional embrace, fueled rumors of the couple taking their relationship to the next level, especially after a viral pooja ceremony.",
-    "img": "https://static.toiimg.com/photo/msid-129315895,imgsize-174398.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hardik-pandyas-girlfriend-mahieka-sharma-shows-off-diamond-ring-as-she-celebrates-with-cricketer-pics/articleshow/129313795.cms",
-    "time": "2026-03-09T07:09:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Supriya Pathak recalls harsh realities of film sets in 80s",
-    "desc": "Veteran Supriya Pathak recalls 80s-90s shoots without toilets or vanity vans. \"Passion made us ignore basics,\" she told Bollywood Bubble, sharing Mirch Masala hay-bundle rests in scorching heat. She welcomes today's comforts as essential, not luxury, changes won by actors standing firm.",
-    "img": "https://static.toiimg.com/photo/msid-129317636,imgsize-32816.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/no-washrooms-no-vanity-vans-supriya-pathak-recalls-they-didnt-care-back-then-on-harsh-realities-of-film-sets-in-80s/articleshow/129317636.cms",
-    "time": "2026-03-09T07:08:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Harry Styles, Anoushka Shankar light up Ryan Gosling’s SNL",
-    "desc": "Ryan Gosling's fourth SNL hosting gig saw unexpected guests steal the show. Harry Styles, set to host next week, made a surprise appearance, playfully interrupting Gosling's monologue. Later, sitar virtuoso Anoushka Shankar joined Gorillaz for a captivating musical performance, blending Indian classical music with a global audience.",
-    "img": "https://static.toiimg.com/photo/msid-129317244,imgsize-130158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-goslings-on-snl-harry-styles-anoushka-shankar-light-up-the-set-during-his-gig/articleshow/129316996.cms",
-    "time": "2026-03-09T07:00:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'These games will define his career': Gavaskar hails India’s clutch hero Samson",
-    "desc": "Sunil Gavaskar hailed Sanju Samson's remarkable T20 World Cup turnaround, calling it a career-defining moment. Samson, initially on the bench, delivered crucial knocks in knockout stages, transforming adversity into success. His clutch performances against West Indies, England, and New Zealand powered India's historic back-to-back title win, a feat Gavaskar described as the pinnacle of Indian cricket history.",
-    "img": "https://static.toiimg.com/photo/msid-129316477,imgsize-108664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/these-games-will-define-his-career-sunil-gavaskar-hails-indias-clutch-hero-sanju-samson/articleshow/129316288.cms",
-    "time": "2026-03-09T06:43:57.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "‘Contact with Iran leadership difficult’: Jaishankar spells out India’s position on Middle East war",
     "desc": "India advocates for dialogue and diplomacy to ease Middle East tensions, with PM Modi closely monitoring the situation. External Affairs Minister S Jaishankar highlighted concerns for over a crore Indians residing in the Gulf and the region's importance for energy security. The conflict's escalation has led to significant disruption and the tragic loss of two Indian mariners.",
@@ -477,33 +486,6 @@ const newsData_en = [
     "time": "2026-03-09T06:32:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Navya Naveli Nanda shares Jaya Bachchan’s best advice",
-    "desc": "In a world rife with comparisons, Navya Naveli Nanda stands firm in her belief that empowerment is rooted in personal choices. She passionately urges young women to defy the relentless pressures regarding their appearance and social roles. With a keen eye on the influence of social media, Nanda promotes authenticity, advising against conformity to others’ expectations.",
-    "img": "https://static.toiimg.com/photo/msid-129315717,imgsize-52066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/navya-naveli-nanda-on-the-best-advice-from-grandmother-jaya-bachchan-if-we-start-looking-at-what-people-expect-of-us-/articleshow/129315717.cms",
-    "time": "2026-03-09T06:31:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "From protests to power: RSP’s victory reshapes Nepal politics",
-    "desc": "Nepal’s March 5 election has delivered a dramatic political upheaval, with the four-year-old Rastriya Swatantra Party (RSP) securing a commanding mandate. Led by Balendra Shah, the party defeated veteran leaders including K.P. Sharma Oli in a vote driven by youth anger over corruption and instability.",
-    "img": "https://th-i.thgim.com/public/incoming/lznot3/article70721424.ece/alternates/LANDSCAPE_1200/Editorial%205.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-from-protests-to-power-rsps-victory-reshapes-nepal-politics-the-hindu-editorial/article70721427.ece",
-    "time": "2026-03-09T06:19:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah surpasses Lasith Malinga, rewrites T20 World Cup history",
-    "desc": "Jasprit Bumrah's sensational four-wicket haul powered India to their third T20 World Cup title, crushing New Zealand by 96 runs in the final. His historic spell made him the first fast bowler with a four-fer in a knockout match and the leading pacer in T20 World Cup history. India's massive 255/5 set the stage for a dominant victory.",
-    "img": "https://static.toiimg.com/photo/msid-129314525,imgsize-109592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-surpasses-lasith-malinga-rewrites-t20-world-cup-history/articleshow/129314445.cms",
-    "time": "2026-03-09T06:05:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Nikkei tumbles 3,000 points, Kospi down 7%; markets trade in red as oil prices soar beyond $100",
     "desc": "Asian stocks plummeted Monday as surging oil prices, driven by Middle East supply concerns, rattled markets. South Korea's Kospi led the decline, falling over 7.8%. Brent crude surpassed $118 a barrel, reaching a 14-year high, fueling fears of significant global economic harm.",
@@ -511,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-nikkei-tumbles-3000-points-kospi-down-7-markets-trade-in-red-as-oil-prices-soar-beyond-100/articleshow/129311844.cms",
     "time": "2026-03-09T05:45:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Samson is a combination of Virat &amp; Rohit’: Kumble after T20 WC masterclass",
-    "desc": "Sanju Samson's stellar T20 World Cup performance, especially in the knockouts, has drawn high praise. Legendary spinner Anil Kumble sees Samson as a unique blend of Virat Kohli's calculated approach and Rohit Sharma's aggressive power-hitting. Samson's remarkable run, including record-breaking scores, propelled India to victory, showcasing his adaptability and explosive talent.",
-    "img": "https://static.toiimg.com/photo/msid-129313269,imgsize-42674.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sanju-samson-is-a-combination-of-virat-kohli-and-rohit-sharma-anil-kumble-after-t20-world-cup-masterclass/articleshow/129313183.cms",
-    "time": "2026-03-09T05:40:40.000Z"
   },
   {
     "cat": "World",
@@ -586,15 +559,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Passenger smokes ‘beedi’ on Delhi-Goa Akasa Air flight; case registered",
-    "desc": "As per the airline's complaint, the passenger allegedly smoked a 'beedi' (hand-rolled cigarette) inside the plane lavatory during the flight and was also found in possession of a lighter, which could pose a risk to the safety of the aircraft and passengers on board",
-    "img": "https://th-i.thgim.com/public/incoming/qrit7k/article70721090.ece/alternates/LANDSCAPE_1200/2026-02-11T083023Z_798406635_RC2UAZ9YXCWQ_RTRMADP_3_AKASA-AIR-MOVES.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/passenger-smokes-beedi-on-delhi-goa-akasa-air-flight-case-registered/article70721072.ece",
-    "time": "2026-03-09T03:45:59.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'Matter of relief': Indian embassy in Saudi says 'no Indian fatality' after projectile hits Al Kharj",
     "desc": "An Indian national was injured in Al Kharj, Saudi Arabia, after an Iranian military projectile hit a residential building. The Indian embassy confirmed no Indian fatalities, stating the injured individual is receiving treatment. The incident took place amidst heightened regional tensions and follows Iran's appointment of a new Supreme Leader.",
     "img": "https://static.toiimg.com/photo/msid-129306563,imgsize-984890.cms",
@@ -612,15 +576,6 @@ const newsData_en = [
     "time": "2026-03-09T01:58:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Death behind bars in Chhattisgarh",
-    "desc": "The custodial death of a tribal leader lodged in a jail in Chhattisgarh’s Kanker district has sparked a debate over prisoner safety across the State. A report on what transpired in the Assembly and the family’s claims",
-    "img": "https://th-i.thgim.com/public/incoming/gd5x9r/article70716937.ece/alternates/LANDSCAPE_1200/6744_7_3_2026_23_3_3_1_CHATTISGARH2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/chhattisgarh/death-behind-bars-in-chhattisgarh/article70716848.ece",
-    "time": "2026-03-09T01:24:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "A red-letter day for Suryakumar’s Men in Blue",
     "desc": "Samson continues his merry run with a 46-ball 89; Abhishek and Kishan, too, slam quick-fire fifties to power India to 255 for five; Bumrah proves his class yet again as the Kiwis are shot out for 159",
@@ -628,24 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-final-a-red-letter-day-for-suryakumars-men-in-blue/article70720002.ece",
     "time": "2026-03-09T00:47:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why are Indian investors pouring billions into Dubai real estate? Golden visas and huge returns behind property market boom",
-    "desc": "Indian investors are significantly fuelling Dubai's booming real estate market in 2026, injecting billions annually. Attracted by tax-free returns, strong rental yields and investor-friendly policies, they are now the largest foreign buyer group. This trend highlights Dubai's appeal as a secure global wealth hub, with even middle-class Indians diversifying portfolios overseas.",
-    "img": "https://static.toiimg.com/photo/msid-129290849,imgsize-47824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/why-are-indian-investors-pouring-billions-into-dubai-real-estate-golden-visas-and-huge-returns-behind-property-market-boom/articleshow/129285805.cms",
-    "time": "2026-03-08T21:09:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indian Women's Press Corps reiterates commitment to support safe, equitable spaces in media",
-    "desc": "It further said it was important that people listen to what women have to say in this complex, ever-changing world, adding that they must have a say in agendas that shape the policies, systems and indeed the world",
-    "img": "https://th-i.thgim.com/public/incoming/nzfycp/article70720037.ece/alternates/LANDSCAPE_1200/Indian%20Womens%20Press%20Corps.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indian-womens-press-corps-reiterates-commitment-to-support-safe-equitable-spaces-in-media/article70719029.ece",
-    "time": "2026-03-08T18:09:54.000Z"
   },
   {
     "cat": "World",
@@ -819,15 +756,6 @@ const newsData_en = [
     "time": "2026-03-07T03:23:43.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran Guards say targeted U.S. base in UAE over school strike in Minab",
-    "desc": "The New York Times newspaper reported on March 5, that U.S. military statements indicating forces were attacking naval targets near the Strait of Hormuz, where a Revolutionary Guards' base is located, \"suggest they were most likely to have carried out the strike\"",
-    "img": "https://th-i.thgim.com/public/incoming/lov0mb/article70713696.ece/alternates/LANDSCAPE_1200/2026-03-04T080924Z_700314831_RC2ZWJAEC0NY_RTRMADP_3_IRAN-CRISIS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-guards-say-targeted-us-base-in-uae-over-school-strike-in-minab/article70713695.ece",
-    "time": "2026-03-07T02:00:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Domestic LPG price hiked by ₹60 amid West Asia conflict",
     "desc": "Non-subsidised LPG, the one that common household users other than the Ujjwala beneficiaries use in their kitchens, will now cost ₹913 per 14.2 kg cylinder in Delhi, according to the Indian Oil Corporation (IOC) website; the price increase is effective from March 7",
@@ -898,5 +826,77 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-team-india-survives-bethell-scare-enters-the-final/article70708797.ece",
     "time": "2026-03-06T00:56:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Daren Sammy pleads for exit as West Indies remain stranded in India",
+    "desc": "The West Indies, who were knocked out of the T20 World Cup after losing to India in the Super Eight stage on March 1, have been unable to fly back home as flight operations through parts of the Gulf region remain disrupted",
+    "img": "https://th-i.thgim.com/public/incoming/w33pp0/article70707185.ece/alternates/LANDSCAPE_1200/2026-03-01T132146Z_2043126464_UP1EM311149D6_RTRMADP_3_CRICKET-T20-WORLDCUP-IND-WIN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/i-just-wanna-go-home-daren-sammy-pleads-for-exit-as-west-indies-remain-stranded-in-india/article70707176.ece",
+    "time": "2026-03-05T12:19:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Thavil artiste Amirthavarshini: Performing with A.R. Rahman was a wonderful experience",
+    "desc": "From playing the thavil in the temples of Mannargudi near Thanjavur as a schoolgirl to joining A.R. Rahman’s ‘Wonderment Tour’ concert in Chennai recently, Amirthavarshini Manishankar’s musical journey seems like a fairy tale. But in reality, it is also a story of conviction and perseverance — of a young girl carving a space for herself as a thavil artiste in the male‑dominated world of Carnatic percussion.",
+    "img": "https://th-i.thgim.com/public/incoming/42r6ll/article70706717.ece/alternates/LANDSCAPE_1200/amirthavarshini.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-thavil-artiste-amirthavarshini-performing-with-ar-rahman-was-a-wonderful-experience/article70706716.ece",
+    "time": "2026-03-05T09:37:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Lanterns’ teaser: Kyle Chandler and Aaron Pierre’s tense partnership to steer upcoming DC series",
+    "desc": "HBO has unveiled the first teaser for Lanterns, offering a glimpse of Kyle Chandler’s veteran Hal Jordan and Aaron Pierre’s rookie John Stewart as the two Green Lanterns investigate a mysterious murder on Earth while clashing over authority and experience",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/2rggar/article70706164.ece/alternates/LANDSCAPE_1200/MV5BMWM1Mzk0MTgtNGNlNC00MDZiLWIyMDQtZDgxY2Y5NTlmMWQzXkEyXkFqcGc._V1_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/lanterns-teaser-kyle-chandler-and-aaron-pierres-tense-partnership-to-steer-upcoming-dc-series/article70706165.ece",
+    "time": "2026-03-05T06:05:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bejoy Nambiar Interview: Why I never watched the original",
+    "desc": "In this episode of Inside Man, Sudhish Kamath sits down with filmmaker Bejoy Nambiar, director of Tu Yaa Main, for a candid conversation about finding — and defending — your creative voice. After years of being labelled “style over substance,” Bejoy opens up about how he battled the tag, why he has finally made peace with it, and how Tu Yaa Main — his best reviewed film yet — shifted that narrative.",
+    "img": "https://th-i.thgim.com/public/incoming/ar6ov1/article70702687.ece/alternates/LANDSCAPE_1200/05_Bejoy_Nambiar.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shows/watch-bejoy-nambiar-interview-why-i-never-watched-the-original/article70702688.ece",
+    "time": "2026-03-04T08:40:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "From Tezaab to Subedar: Suresh Triveni’s Full Circle with Anil Kapoor",
+    "desc": "In this episode of Inside Man, Sudhish Kamath sits down with filmmaker Suresh Triveni — director of Subedar (releasing March 5), showrunner of Daldal on Prime Video, and the upcoming Netflix film Maa Behn starring Madhuri Dixit and Tripti Dimri. Before Tumhari Sulu, Suresh waited nearly eight years to make his breakthrough film. Since then, he went on to direct Jalsa — and now finds himself with three major releases in a single year.",
+    "img": "https://th-i.thgim.com/public/incoming/fm34ox/article70702483.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20at%2012.21.44%E2%80%AFPM.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shows/watch-from-tezaab-to-subedar-suresh-trivenis-full-circle-with-anil-kapoor/article70702461.ece",
+    "time": "2026-03-04T06:56:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘One Piece’ creator Eiichiro Oda hides series’ biggest secret under the ocean as manga hits 600 million copies",
+    "desc": "In a special project revealed through an official video, Oda wrote down the answer to the central question of the story — the nature of the legendary treasure known as One Piece — for the first time",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/hcqtey/article70702256.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20111111.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/one-piece-creator-eiichiro-oda-hides-series-biggest-secret-under-the-ocean-as-manga-hits-600-million-copies/article70702244.ece",
+    "time": "2026-03-04T05:43:50.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Anthropic’s resistance to the U.S. Department of Defence, OpenAI’s entry: Explained",
+    "desc": "The Dario Amodei-led firm refused to cooperate with the U.S. government’s demands that the firm’s products be used in the deployment of autonomous strikes. The firm has been threatened with being designated as a “supply chain risk”",
+    "img": "https://th-i.thgim.com/public/incoming/r2lf9o/article70698914.ece/alternates/LANDSCAPE_1200/2026-03-02T143303Z_571373715_RC2EWJADNSPA_RTRMADP_3_USA-PENTAGON-ANTHROPIC.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropics-resistance-to-the-us-department-of-defense-openais-entry-explained/article70698887.ece",
+    "time": "2026-03-03T10:45:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Iranian filmmaker Mohammad Rasoulof calls Ayatollah Ali Khamenei ‘most hated figure’ after death in U.S.-Israel strike",
+    "desc": "Iranian director Mohammad Rasoulof, whose film ‘The Seed of the Sacred Fig’ won at Cannes, has condemned Ayatollah Ali Khamenei following the Supreme Leader’s death in a U.S.-Israel military strike, calling him “the most hated figure in the contemporary history of Iran”",
+    "img": "https://th-i.thgim.com/public/incoming/nbud4l/article70698472.ece/alternates/LANDSCAPE_1200/2154565571.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/iranian-filmmaker-mohammad-rasoulof-calls-ayatollah-ali-khamenei-most-hated-figure-after-death-in-us-israel-strike/article70698476.ece",
+    "time": "2026-03-03T07:59:50.000Z"
   }
 ];

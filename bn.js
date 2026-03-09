@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "টলিউড গসিপ নয়, সোজাসাপ্টা হিরণের বিয়ে নিয়ে এত্ত বড় কথা বললেন সোহম, দেখুন",
+    "desc": "Soham Chakraborty | সোহম চক্রবর্তী| অভিনেতা, প্রযোজক এবং রাজনীতিবিদ। তিনি শিশুশিল্পী হিসেবে তার অভিনয় জীবন শুরু করলেও বর্তমানে প্রধান চরিত্রে অভিনয় করেন। টলিউডের অন্যতম বিখ্যাত অভিনেতা হিরণ দ্বিতীয়বার বিয়ে করে নতুন ইনিংস শুরু করেছেন, তাঁর সহশিল্পী সোহম সরাসরি কথা বললেন বন্ধুর দ্বিতীয় বিয়ে নিয়ে৷ দেখুন বাংলা নিউজ ভিডিও (Watch Bangla News Video)৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/soham-and-hiran-2026-03-178dd8f186ff074779aa2cce4028a41c-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/entertainment/video-shoham-on-hiran-marriage-tollywood-actor-opens-up-about-hiran-s-second-marriage-tollywood-gossip-dd-2576736.html",
+    "time": "2026-03-09T15:54:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "অভিষেক-ঐশ্বর্যের ঘরে আগুন ধরিয়েছিল কে? কার 'কুনজর' ছিল? হাতেনাতে ধরা পড়ল সচিনের ছেলের বিয়েতে!",
     "desc": "ঐশ্বর্য রাই বচ্চন এবং অভিষেক বচ্চনের মধ্যে বিচ্ছেদের গুজব সোশ্যাল মিডিয়ায় ছড়িয়ে পড়ে৷ যার মূল কারণ ছিল নির্দিষ্ট কিছু অনুষ্ঠানে তাঁরা আলাদা যেতেন৷ কিছু গুরুত্বপূর্ণ অনুষ্ঠানে তাদের দু’জনকে আলাদাভাবে উপস্থিত থাকতে দেখা গেলে এই গুজব আরও তীব্র হয়ে ওঠে, যার ফলে অনলাইনে তাঁদের দাম্পত্য সম্পর্কে টানাপোড়েন সম্পর্কে জল্পনা শুরু হয়।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/Jaya-Bachchan-2026-03-4ac56277216e6abe227dc14a8f877c60-1200x800.jpg",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/amid-iran-conflict-tension-at-dubai-singer-actor-ammy-virk-wife-and-6-year-old-daughter-stranded-shares-emotional-post-pbd-2565098.html",
     "time": "2026-03-02T13:10:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'ইরানে' ১০০ ভারতীয় টাকার 'মূল্য' কত হবে জানেন...? 'উত্তর' আপনাকে চমকাবেই, শিওর!",
-    "desc": "ইরান জ্বলছে! মুহুর্মুহু গোলাবর্ষণ, বিস্ফোরণের আওয়াজে বিপর্যস্ত মধ্যপ্রাচ্যের এই দেশটি। আর এই পরিস্থিতিতে ফের একবার আলোচনার শীর্ষে ইরান। আচ্ছা বলুন তো, আমাদের ভারতীয় রুপির দাম ইরানে ঠিক কেমন? ইরানের সরকারী মুদ্রা হল 'ইরানিয়ান রিয়াল', এবং এর আন্তর্জাতিক মূল্য অত্যন্ত কম। বর্তমানে, ১ ভারতীয় টাকার মূল্য সেখানে কত বলুন তো? কত হয়ে যাবে ১০০ ভারতীয় টাকা?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/currency-11-2026-03-29fcc6a52ee96ae5f4b0b39e9547aa99-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-iranian-rial-do-you-know-how-much-100-indian-rupees-are-worth-in-iran-the-answer-will-shoch-you-for-sure-know-this-interesting-fact-amid-iran-israel-tension-sanj-2565433.html",
-    "time": "2026-03-02T11:56:59.000Z"
   }
 ];
