@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'History gets created': MS Dhoni congratulates team India after historic T20 World Cup triumph",
+    "desc": "The Indian team etched its name in the history books after the side defeated New Zealand in the summit clash of the tournament. Both teams locked horns at the Narendra Modi Stadium in Ahmedabad, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/history-gets-created-ms-dhoni-congratulates-team-india-after-historic-t20-world-cup-triumph-2026-03-09-1033107",
+    "time": "2026-03-09T01:35:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Hardik Pandya aims to win 10 more ICC titles after T20 World Cup 2026 win",
     "desc": "History was created in Ahmedabad as India successfully defended the ICC Men's T20 World Cup 2026, overwhelming New Zealand by 96 runs at the Narendra Modi Stadium in Ahmedabad. The hosts produced a near-perfect performance...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/list-of-records-broken-as-india-smash-255-runs-batting-first-in-t20-world-cup-final-vs-new-zealnd-2026-03-08-1033083",
     "time": "2026-03-08T16:00:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Matt Henry reacts to India's 255 in T20 World Cup final, hopeful of New Zealand getting job done",
-    "desc": "India have hammered 255 runs in the first innings of the T20 World Cup 2026 final. Openers Abhishek Sharma and Sanju Samson went berserk as the duo stitched an opening partnership of 98 runs. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/matt-henry-reacts-to-india-s-255-in-t20-world-cup-final-hopeful-of-new-zealand-getting-job-done-2026-03-08-1033080",
-    "time": "2026-03-08T15:36:39.000Z"
   }
 ];

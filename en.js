@@ -1,12 +1,66 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
-    "title": "Saif Ali Khan opens up on pay parity",
-    "desc": "Saif Ali Khan and Kunal Kemmu discussed pay parity in Bollywood, emphasizing that while they advocate for it, an actor's ability to draw audiences to theaters dictates their remuneration. They noted that economics and star power have historically influenced salaries, but acknowledged that the industry is gradually moving towards greater balance and parity.",
-    "img": "https://static.toiimg.com/photo/msid-129287203,imgsize-18528.cms",
+    "title": "Michael J. Fox and Christopher Lloyd reunite",
+    "desc": "In a delightful throwback to 80s cinema, beloved co-stars Michael J. Fox and Christopher Lloyd recently rekindled their friendship over a cozy dinner. Fox captured the moment in a charming social media post, igniting a whirlwind of nostalgia among fans. Lloyd's cheeky remark about feeling 'heavy'—a clever reference to his iconic role—only intensified our admiration for these legendary figures.",
+    "img": "https://static.toiimg.com/photo/msid-129301310,imgsize-78820.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-opens-up-on-pay-parity-its-not-like-just-because-you-are-a-certain-gender-you-deserve/articleshow/129287185.cms",
-    "time": "2026-03-08T19:15:45.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/back-to-the-future-stars-michael-j-fox-and-christopher-lloyd-reunite-ahead-of-films-40th-anniversary/articleshow/129301310.cms",
+    "time": "2026-03-09T01:25:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Death behind bars in Chhattisgarh",
+    "desc": "The custodial death of a tribal leader lodged in a jail in Chhattisgarh’s Kanker district has sparked a debate over prisoner safety across the State. A report on what transpired in the Assembly and the family’s claims",
+    "img": "https://th-i.thgim.com/public/incoming/gd5x9r/article70716937.ece/alternates/LANDSCAPE_1200/6744_7_3_2026_23_3_3_1_CHATTISGARH2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/death-behind-bars-in-chhattisgarh/article70716848.ece",
+    "time": "2026-03-09T01:24:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jeremy Larner passes away at 88",
+    "desc": "Acclaimed screenwriter Jeremy Larner, celebrated for \"The Candidate,\" has passed away at 88. His son confirmed the news, revealing Larner had been battling lymphoma and Parkinson's disease. The Oscar winner, born in 1937, also penned \"Nobody Knows\" and served as Eugene McCarthy's speechwriter. His impactful career left an indelible mark on cinema.",
+    "img": "https://static.toiimg.com/photo/msid-129301147,imgsize-89324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-candidate-writer-jeremy-larner-passes-away-at-88/articleshow/129301147.cms",
+    "time": "2026-03-09T01:22:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom-Zendaya's FAKE pic among most liked on Instagram",
+    "desc": "A stunning AI-generated wedding photo of Tom Holland and Zendaya has captivated millions online, amassing over 11 million likes. Digital artist Juan Regueira Rodríguez revealed the images were created due to the couple's desire for extreme privacy regarding their nuptials. This highlights the growing influence of AI in creating viral content, even fooling celebrities.",
+    "img": "https://static.toiimg.com/photo/msid-129299970,imgsize-118944.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-and-zendayas-fake-ai-generated-pic-rakes-in-11-million-likes-ranks-among-most-liked-pics-of-2026/articleshow/129299400.cms",
+    "time": "2026-03-09T01:17:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rebecca Gayheart clears Eric Dane’s belongings",
+    "desc": "Rebecca Gayheart was seen clearing out Eric Dane's belongings from Johnny Depp's home weeks after his passing from ALS. Depp had provided Dane with rent-free housing during his illness. The actress continues to honor Dane's memory and support their daughters, with a GoFundMe for them nearing $500,000.",
+    "img": "https://static.toiimg.com/photo/msid-129300788,imgsize-968199.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rebecca-gayheart-clears-eric-danes-belongings-from-johnny-depps-la-home-weeks-after-actors-als-demise/articleshow/129300815.cms",
+    "time": "2026-03-09T01:10:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hardik Pandya credits GF Mahieka post T20 World Cup win",
+    "desc": "In an electrifying finale of the T20 2026 World Cup, India emerged victorious over New Zealand with a staggering 96-run lead. The crowd cheered wildly as Samson, Kishan, Bumrah, and Abhishek Sharma delivered standout performances. Amid the jubilant atmosphere, Hardik Pandya shared a heartfelt moment with his girlfriend, Mahieka Sharma, expressing gratitude for her unwavering support in his journey.",
+    "img": "https://static.toiimg.com/photo/msid-129300006,imgsize-114514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/everything-has-been-going-right-hardik-pandya-credits-girlfriend-mahieka-sharma-for-win-after-win-streak-post-t20-world-cup-glory/articleshow/129300006.cms",
+    "time": "2026-03-09T01:09:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pink shares family photo after slamming split rumors",
+    "desc": "Pop superstar Pink has taken to social media to share a charming family portrait, putting an end to ongoing speculation about her relationship with husband Carey Hart. With a playful jab at the tabloids, she suggested that her nomination for the Rock and Roll Hall of Fame is far more noteworthy than gossip about her marriage of 20 years.",
+    "img": "https://static.toiimg.com/photo/msid-129300239,imgsize-193918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/pink-shares-adorable-family-photo-with-husband-carey-hart-and-kids-slamming-split-rumors/articleshow/129300239.cms",
+    "time": "2026-03-09T00:58:36.000Z"
   },
   {
     "cat": "Sports",
@@ -15,7 +69,79 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/6dgc9l/article70720001.ece/alternates/LANDSCAPE_1200/DSC_5473.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-final-a-red-letter-day-for-suryakumars-men-in-blue/article70720002.ece",
-    "time": "2026-03-08T18:50:44.000Z"
+    "time": "2026-03-09T00:47:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Selena shares UNSEEN wedding pics on Benny's birthday",
+    "desc": "Selena Gomez celebrated husband Benny Blanco's birthday with intimate, unseen photos from their wedding and personal life. The carousel included PDA-filled moments and revealed 'Wizards of Waverly Place' co-star Maria Canals-Barrera and a photo with Taylor Swift. Gomez also subtly addressed recent fan criticism regarding Blanco's hygiene.",
+    "img": "https://static.toiimg.com/photo/msid-129298284,imgsize-86430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/selena-gomez-shares-unseen-wedding-pics-as-she-wishes-husband-benny-blanco-on-his-birthday/articleshow/129297837.cms",
+    "time": "2026-03-09T00:28:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Woodstock legend Country Joe McDonald passes away",
+    "desc": "Woodstock legend Country Joe McDonald has died at 84 from Parkinson's complications. Known for his iconic \"I-Feel-Like-I’m-Fixin’-to-Die Rag\" at Woodstock, McDonald was a defining voice of the 1960s counterculture, blending folk, rock, and political commentary. His activism and music left an indelible mark on history.",
+    "img": "https://static.toiimg.com/photo/msid-129299066,imgsize-958033.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/woodstock-legend-country-joe-mcdonald-passes-away-at-84-after-parkinsons-battle/articleshow/129299076.cms",
+    "time": "2026-03-09T00:26:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Kerala Story 2': Film crosses Rs 32 crore mark on Day 10",
+    "desc": "'The Kerala Story 2 Goes Beyond' is experiencing a noticeable dip in box office performance compared to its predecessor. While the sequel has garnered Rs 32.87 crore net, the original film achieved Rs 136.49 crore in its first ten days. The film, directed by Kamakhya Narayan Singh, explores themes of manipulation and the fight for freedom. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129298466,imgsize-190360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-the-ulka-gupta-aditi-bhatia-starrer-crosses-rs-32-crore-mark-amid-steady-numbers/articleshow/129298466.cms",
+    "time": "2026-03-09T00:14:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shakira adds THIRD SHOW to India tour",
+    "desc": "Global sensation Shakira is returning to India for a highly anticipated tour, adding a second Mumbai date due to overwhelming ticket demand. She will now perform on April 10 and 11 in Mumbai, followed by a show in Delhi on April 15.",
+    "img": "https://static.toiimg.com/photo/msid-129295999,imgsize-115014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/shakira-adds-third-show-to-india-tour-to-perform-on-april-11-following-unprecedented-demandreports/articleshow/129294920.cms",
+    "time": "2026-03-08T22:56:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia shows off Raha and Ranbir's Women's Day card",
+    "desc": "Alia Bhatt received a heartwarming International Women's Day message from her daughter Raha and husband Ranbir Kapoor, a sweet gesture captured in a handwritten card. The actress shared her appreciation for this loving tribute. Fans cherish the family's public appearances, like their animated support at the World Cup semi-final.",
+    "img": "https://static.toiimg.com/photo/msid-129293222,imgsize-119656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-shows-off-daughter-raha-kapoor-and-papa-ranbir-kapoors-adorable-womens-day-card/articleshow/129291325.cms",
+    "time": "2026-03-08T22:24:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Hoppers' records USD 88mn debut; 'The Bride!' flops",
+    "desc": "Disney and Pixar's latest creation, 'Hoppers,' has taken the world by storm, raking in an impressive USD 88 million worldwide in its opening weekend. This triumph shines a light on the power of original animated storytelling. Meanwhile, Maggie Gyllenhaal's bold venture, 'The Bride!,' struggled to make an impact, with a mere USD 7.3 million box office take in the U.S.",
+    "img": "https://static.toiimg.com/photo/msid-129292232,imgsize-132758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/hoppers-scores-higest-opening-for-original-animated-film-with-usd-88-million-haul-the-bride-flops/articleshow/129291341.cms",
+    "time": "2026-03-08T21:47:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why are Indian investors pouring billions into Dubai real estate? Golden visas and huge returns behind property market boom",
+    "desc": "Indian investors are significantly fuelling Dubai's booming real estate market in 2026, injecting billions annually. Attracted by tax-free returns, strong rental yields and investor-friendly policies, they are now the largest foreign buyer group. This trend highlights Dubai's appeal as a secure global wealth hub, with even middle-class Indians diversifying portfolios overseas.",
+    "img": "https://static.toiimg.com/photo/msid-129290849,imgsize-47824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/why-are-indian-investors-pouring-billions-into-dubai-real-estate-golden-visas-and-huge-returns-behind-property-market-boom/articleshow/129285805.cms",
+    "time": "2026-03-08T21:09:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saif Ali Khan opens up on pay parity",
+    "desc": "Saif Ali Khan and Kunal Kemmu discussed pay parity in Bollywood, emphasizing that while they advocate for it, an actor's ability to draw audiences to theaters dictates their remuneration. They noted that economics and star power have historically influenced salaries, but acknowledged that the industry is gradually moving towards greater balance and parity.",
+    "img": "https://static.toiimg.com/photo/msid-129287203,imgsize-18528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-opens-up-on-pay-parity-its-not-like-just-because-you-are-a-certain-gender-you-deserve/articleshow/129287185.cms",
+    "time": "2026-03-08T19:15:45.000Z"
   },
   {
     "cat": "Business",
@@ -126,15 +252,6 @@ const newsData_en = [
     "time": "2026-03-08T16:33:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Jal Mahotsav kicks off in Lucknow’s Gosainganj, to cover 22,000 villages across UP",
-    "desc": "Uttar Pradesh's State Drinking Water and Sanitation Mission has initiated a 15-day Jal Mahotsav. This program aims to transfer water supply management to village councils in areas achieving full piped water access. The initiative spans over 22,000 villages until March 22. Local leaders are being recognized for their contributions.",
-    "img": "https://static.toiimg.com/photo/msid-129279262,imgsize-1071918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jal-mahotsav-kicks-off-in-lucknows-gosainganj-to-cover-22000-villages-across-up/articleshow/129279261.cms",
-    "time": "2026-03-08T16:19:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "What is the highest successful run chase in T20 World Cup final history?",
     "desc": "India posted a record 255/5 in the T20 World Cup final against New Zealand, thanks to stellar knocks from Sanju Samson (89), Abhishek Sharma (52), and Ishan Kishan (54). This massive total sets a daunting target of 256 for the Blackcaps, who are now chasing the highest successful chase in the competition's history.",
@@ -163,15 +280,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Passenger on Delhi-Goa flight booked for smoking mid-air",
-    "desc": "A passenger was booked after allegedly smoking a beedi in a Delhi-Goa Akasa Air flight lavatory on Saturday. Authorities discovered the man, identified as Ashish from Delhi, with a lighter, posing a significant safety risk to the aircraft and its occupants. A case has been registered under relevant aviation safety laws, with further investigation ongoing.",
-    "img": "https://static.toiimg.com/photo/msid-129277668,imgsize-335141.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/beedi-in-the-loo-passenger-on-delhi-goa-flight-booked-for-smoking-mid-air/articleshow/129277648.cms",
-    "time": "2026-03-08T15:40:22.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Quantum leap for tribal girl students in NPTEL exam",
     "desc": "57 students, mostly girls from a remote Government Degree College in Chintapalli, appear for the quantum computing examination in Visakhapatnam after the Principal pays the ₹500 fee for those who could not afford it on International Women’s Day",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -187,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/record-alert-in-final-india-rewrite-t20-world-cup-history-vs-new-zealand/articleshow/129277293.cms",
     "time": "2026-03-08T15:31:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Trump has caught hold of Modi’s nose’: Kharge slams PM over US ties and Middle East crisis",
-    "desc": "Congress chief Mallikarjun Kharge fiercely criticized Prime Minister Modi, calling him a \"slave\" to US President Trump. Kharge alleged Modi's foreign policy compromises India's interests, citing trade issues and the Middle East crisis. He questioned Modi's silence on perceived US injustices and accused the government of neglecting governance for election campaigning.",
-    "img": "https://static.toiimg.com/photo/msid-129276669,imgsize-40046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/trump-has-caught-hold-of-modis-nose-kharge-slams-pm-over-us-ties-and-middle-east-crisis/articleshow/129276491.cms",
-    "time": "2026-03-08T15:30:46.000Z"
   },
   {
     "cat": "Politics",
@@ -223,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sanju-samson-scripts-history-breaks-multiple-records-in-t20-world-cup-final-vs-new-zealand/articleshow/129276280.cms",
     "time": "2026-03-08T15:03:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Row erupts after Mammootty asks CPM leader not to stand close during Wayanad visit",
-    "desc": "The issue reportedly arose after Mammootty expressed displeasure with CPM’s Wayanad district secretary K Rafeeq standing close to him during the actor’s personal visit to the township on Saturday. According to reports, Mammootty, often considered a fellow traveller of the Marxist party, asked Rafeeq why he was standing near him and remarked that people might assume he had come there on behalf of the ruling party.",
-    "img": "https://static.toiimg.com/photo/msid-129274656,imgsize-64614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/row-erupts-after-mammootty-asks-cpm-leader-not-to-stand-close-during-wayanad-visit/articleshow/129271794.cms",
-    "time": "2026-03-08T14:51:17.000Z"
   },
   {
     "cat": "Politics",
@@ -270,15 +360,6 @@ const newsData_en = [
     "time": "2026-03-08T14:01:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "TERI's LaBL 2.0 targets the next billion",
-    "desc": "New Delhi [India], At a defining moment in India's clean energy transition, The Energy and Resources Institute (TERI) launched LaBL 2.0 (Lighting a Billion Lives 2.0) at an inspiring 'Dinner of Hope' in New Delhi -- reimagining decentralized renewable energy as a catalyst for green livelihoods, women-led entrepreneurship, and measurable climate action.",
-    "img": "https://static.toiimg.com/photo/msid-129272964,imgsize-185752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-lighting-lives-to-powering-livelihoods-teris-labl-2-0-targets-the-next-billion/articleshow/129272964.cms",
-    "time": "2026-03-08T13:47:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Analysts",
     "desc": "Gold prices are expected to remain volatile as investors monitor Middle East tensions and key global economic data. Escalating conflicts could boost safe-haven demand for gold, while easing tensions may trigger profit-taking. Silver also faces volatility, currently in a consolidation phase, influenced by gold and industrial metals.",
@@ -288,15 +369,6 @@ const newsData_en = [
     "time": "2026-03-08T13:34:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jr NTR’s visit at KIMS Hospitals sparks chaos, fans break escalator",
-    "desc": "Jr NTR's hospital inauguration in Bengaluru turned chaotic as massive fan turnout overwhelmed security, leading to an escalator malfunction and a mild lathi charge by police. Despite the disorder, the actor maintained composure, waving to fans before proceeding with the event. The incident sparked online debate about fan frenzy and event safety.",
-    "img": "https://static.toiimg.com/photo/msid-129272446,imgsize-43076.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jr-ntrs-visit-at-kims-hospitals-sparks-chaos-fans-gather-in-large-numbers-mob-the-actor-break-escalator/articleshow/129272268.cms",
-    "time": "2026-03-08T13:32:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026 set for March 28 start, RCB to play five home games in Bengaluru",
     "desc": "IPL 2026 kicks off March 28, confirmed by Star Sports. Defending champions Royal Challengers Bengaluru will play most home games at Bengaluru's M. Chinnaswamy Stadium, with five matches scheduled there. The venue also hosts the final and a playoff. This marks the return of IPL to Bengaluru after a hiatus.",
@@ -304,24 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-set-for-march-28-start-rcb-to-play-five-home-games-in-bengaluru/articleshow/129270981.cms",
     "time": "2026-03-08T13:17:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salim Merchant on AR Rahman’s ‘communal bias’ row",
-    "desc": "Music composer Salim Merchant has responded to A. R. Rahman's remarks about potential communal bias in Bollywood. Merchant stated he doesn't personally believe bias plays a role, citing Rahman's prominent role in the upcoming 'Ramayana' film as evidence of the industry valuing talent irrespective of religion.",
-    "img": "https://static.toiimg.com/photo/msid-129268967,imgsize-38724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/if-he-is-composer-of-ramayana-then-i-dont-think-there-is-any-problem-salim-merchant-on-ar-rahmans-communal-bias-row/articleshow/129269093.cms",
-    "time": "2026-03-08T12:53:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Badshah hoga apne ghar ka': Fresh summons issued against the rapper-singer",
-    "desc": "The Haryana State Commission for Women has summoned rapper Badshah again over his song 'Tateeree,' criticized for objectionable lyrics about women and minors. He is asked to clarify the song's intent at a hearing on March 13. The commission previously initiated an inquiry after complaints from social groups.",
-    "img": "https://static.toiimg.com/photo/msid-129270760,imgsize-20468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/badshah-hoga-apne-ghar-ka-fresh-summons-issued-agaisnt-the-rapper-singer-by-haryana-state-commission-for-women/articleshow/129270784.cms",
-    "time": "2026-03-08T12:51:23.000Z"
   },
   {
     "cat": "World",
@@ -351,42 +405,6 @@ const newsData_en = [
     "time": "2026-03-08T12:29:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Akshay Kumar joins 'Golmaal 5' as a villain",
-    "desc": "Akshay Kumar joins 'Golmaal 5' in a dynamic 18-day cameo, sparking Tom & Jerry laughs with Ajay Devgn—their first full comedy collab. Reuniting Arshad Warsi, Sharman Joshi (after 20 yrs), Kunal Kemmu, Tusshar Kapoor. Rohit Shetty's blockbuster eyes 2027 release via Rohit Shetty Picturez.",
-    "img": "https://static.toiimg.com/photo/msid-129269578,imgsize-24202.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-joins-golmaal-5-as-a-villain-18-day-shoot-is-locked-for-hilarious-rivalry-with-ajay-devgn-reports/articleshow/129269578.cms",
-    "time": "2026-03-08T12:21:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ajay shares eerie video marking two years of 'Shaitaan'",
-    "desc": "Ajay Devgn celebrated two years of his supernatural thriller 'Shaitaan', an official remake of the Gujarati film 'Vash'. The film, which starred R. Madhavan as the antagonist, garnered significant box office success and positive fan reactions, with many praising the performances and intense storyline.",
-    "img": "https://static.toiimg.com/photo/msid-129268513,imgsize-43904.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgn-shares-eerie-video-spotting-madhavan-in-crowd-marking-two-years-of-shaitaan-fans-predict-sequel-on-the-cards/articleshow/129268413.cms",
-    "time": "2026-03-08T11:57:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika wins Best Actress award for 'The Girlfriend'; Vijay reacts",
-    "desc": "Rashmika Mandanna clinched the Best Actress award for 'The Girlfriend' at the Gaddar Awards 2025. Her husband, Vijay Deverakonda, shared his pride online. This win follows their recent wedding on February 26, 2026, and a grand reception. The couple, who previously starred in 'Geetha Govindam' and 'Dear Comrade,' will next be seen together in the period action drama 'Ranabaali'.",
-    "img": "https://static.toiimg.com/photo/msid-129268186,imgsize-41128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-wins-best-actress-award-for-the-girlfriend-vijay-deverakonda-reacts-happy-and-proud/articleshow/129268007.cms",
-    "time": "2026-03-08T11:48:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yugi reveals Kamal's record-breaking fee for Kalki 2898 AD",
-    "desc": "Yugi Sethu claims Kamal Haasan earned Rs 150 crore for 10-20 days as Supreme Yaskin in 'Kalki 2898 AD', making him India's highest-paid actor at up to $2M/day. The 2024 hit with Prabhas, Amitabh, Deepika teases his bigger sequel role. Kamal eyes Rajinikanth projects next.",
-    "img": "https://static.toiimg.com/photo/msid-129267949,imgsize-12682.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/its-usd-2-million-per-day-yugi-sethu-reveals-kamal-haasans-record-breaking-fee-for-kalki-2898-ad/articleshow/129267949.cms",
-    "time": "2026-03-08T11:43:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Hasn’t learned from his dismissals’: Gavaskar wants Abhishek dropped for final",
     "desc": "Former captain Sunil Gavaskar proposes alterations to India's lineup for the T20 World Cup final. He suggests dropping Abhishek Sharma due to consistent batting struggles. Rinku Singh could replace him, with Ishan Kishan and Sanju Samson opening. Gavaskar also considers bringing in Kuldeep Yadav for Varun Chakravarthy, citing the latter's recent struggles and Ahmedabad's pitch conditions.",
@@ -414,24 +432,6 @@ const newsData_en = [
     "time": "2026-03-08T10:51:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "R Parthiban takes a swipe at Trisha and Vijay’s public appearance",
-    "desc": "Actor-filmmaker R Parthiban has sparked a social media buzz with pointed remarks aimed at Thalapathy Vijay and Trisha Krishnan. Following their recent public appearance at a Chennai wedding reception, Parthiban suggested \"Kundavai\" (Trisha) should stay at home. The controversy deepened on International Women's Day as Parthiban seemingly countered Vijay’s dismissive comments about his personal allegations.",
-    "img": "https://static.toiimg.com/photo/msid-129264099,imgsize-272576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/r-parthiban-takes-a-swipe-at-trisha-and-vijays-public-appearance-kundavai-should-be-kept-at-home/articleshow/129264099.cms",
-    "time": "2026-03-08T10:35:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Decoding Rajinikanth’s staggering salary hike over 50 years",
-    "desc": "Superstar Rajinikanth, a titan of Indian cinema, commands an astronomical fee, reportedly charging between Rs 125 crore and Rs 270 crore per film. His recent blockbuster 'Coolie' earned over Rs 518 crore globally, with the actor pocketing a staggering Rs 200 crore for his role. Looking ahead, exciting collaborations are on the horizon.",
-    "img": "https://static.toiimg.com/photo/msid-129263799,imgsize-136348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/decoding-rajinikanths-staggering-salary-hike-over-50-years-amid-reports-of-rs-225-crore-fee-for-jailer-2-and-kh-x-rk/articleshow/129263799.cms",
-    "time": "2026-03-08T10:30:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India diversifies oil basket as Middle East conflict drags on",
     "desc": "Amidst escalating Middle East tensions, India is rerouting crude oil supplies to secure uninterrupted fuel imports. Refiners are increasing sourcing from the US, West Africa, and Russia, while holding planned maintenance to build reserves. This diversification aims to mitigate risks associated with the Strait of Hormuz, ensuring domestic fuel needs are met despite potential cost increases.",
@@ -439,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/hormuz-supply-shock-india-diversifies-oil-basket-as-middle-east-conflict-drags-on/articleshow/129263464.cms",
     "time": "2026-03-08T10:24:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Samantha Ruth Prabhu's joyful tribute to her real-life inspirations",
-    "desc": "Samantha Ruth Prabhu celebrated Women’s Day 2026 with a warm tribute to the women inspiring her life, sharing joyful photos on Instagram. She also continues shooting Maa Inti Bangaram in Shivamogga, while a Holi video with castmates went viral, highlighting her work–fun balance ahead of the film’s May 15 worldwide release.",
-    "img": "https://static.toiimg.com/photo/msid-129263926,imgsize-53436.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/womens-day-2026-samantha-ruth-prabhus-joyful-tribute-to-her-real-life-inspirations-most-incredible-women-i-have-/articleshow/129263926.cms",
-    "time": "2026-03-08T10:02:30.000Z"
   },
   {
     "cat": "Sports",
@@ -477,15 +468,6 @@ const newsData_en = [
     "time": "2026-03-08T09:18:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘To sing is to bring to life’",
-    "desc": "Legendary French singer Edith Piaf believed lyrics, not just music, bring songs to life. Her powerful voice, honed by a life of struggle, conveyed raw emotion, making hits like 'La Vie en Rose' timeless. Piaf's philosophy underscores that profound lyrics, coupled with melody, create unforgettable music that resonates deeply with listeners, proving her enduring impact.",
-    "img": "https://static.toiimg.com/photo/msid-129260832,imgsize-80276.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/quote-of-the-day-by-edith-piaf-to-sing-is-to-bring-to-life/articleshow/129260763.cms",
-    "time": "2026-03-08T09:12:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Mcap of 8 of top-10 most valued firms wipes out Rs 2.81 lakh cr; State Bank biggest laggard",
     "desc": "Indian stock markets experienced a significant downturn last week, with the top ten most valuable companies collectively shedding over Rs 2.8 lakh crore. Escalating geopolitical tensions and rising crude oil prices impacted investor sentiment, leading to broad-based selling. State Bank of India saw the steepest decline, while only Reliance Industries and Infosys managed to post gains.",
@@ -493,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/market-recap-mcap-of-8-of-top-10-most-valued-firms-wipes-out-rs-2-81-lakh-cr-state-bank-biggest-laggard/articleshow/129261193.cms",
     "time": "2026-03-08T08:50:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akansha opens up on intense medical journey after egg-freezing procedure",
-    "desc": "Actress Akansha Ranjan Kapoor revealed she recently froze her eggs, sharing her empowering experience on social media. The 'Guilty' star detailed the challenging two-week process involving daily injections and medical monitoring, expressing profound admiration for the female body's resilience. Her candid post, coinciding with her debut film's anniversary, garnered widespread support from fans and fellow celebrities.",
-    "img": "https://static.toiimg.com/photo/msid-129261031,imgsize-48742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/women-are-badasses-akansha-ranjan-kapoor-opens-up-on-intense-medical-journey-after-egg-freezing-procedure-see-pic/articleshow/129260953.cms",
-    "time": "2026-03-08T08:44:12.000Z"
   },
   {
     "cat": "Business",
@@ -520,33 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/12-years-on-renewed-hunt-for-missing-flight-mh370-comes-up-empty-as-families-press-for-answers/article70718454.ece",
     "time": "2026-03-08T08:26:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Key routes and how they will help commuters",
-    "desc": "Prime Minister Narendra Modi has inaugurated and laid the foundation stone for infrastructure projects worth Rs 33,500 crore in Delhi. This includes two new Delhi Metro corridors, totaling over Rs 18,300 crore, aimed at enhancing public transport and connectivity. The event also features the foundation stone laying for three new metro routes under Phase V-A and GPRA redevelopment projects.",
-    "img": "https://static.toiimg.com/photo/msid-129254964,imgsize-796928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-to-inaugurate-two-new-delhi-metro-corridors-key-routes-and-how-they-will-help-commuters/articleshow/129254488.cms",
-    "time": "2026-03-08T06:06:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Oil imports in full flow’: Hardeep Puri assures imports from non-Hormuz routes",
-    "desc": "India's oil imports are flowing smoothly through alternative routes, assuring citizens of uninterrupted energy supplies amid Middle East conflict. Minister Hardeep Singh Puri confirmed \"full flow from all non-Hormuz routes,\" alleviating concerns about availability, affordability, and sustainability. Qatar has also assured immediate resumption of LNG supplies once the shipping route reopens.",
-    "img": "https://static.toiimg.com/photo/msid-129251566,imgsize-59398.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/oil-imports-in-full-flow-from-non-hormuz-routes-hardeep-singh-puris-message-as-middle-east-tensions-roil-energy-markets/articleshow/129249553.cms",
-    "time": "2026-03-08T04:36:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "From oil to rice, here's how Middle East crisis may spread across global economy",
-    "desc": "The Middle East conflict is escalating, triggering global economic concerns. Disruptions to trade, energy supplies, and food production are already evident, with potential for significant inflation and reduced growth. Asian economies and global shipping networks face particular vulnerability as tensions persist.",
-    "img": "https://static.toiimg.com/photo/msid-129249340,imgsize-2952439.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/from-oil-to-rice-heres-how-middle-east-crisis-may-spread-across-global-economy/articleshow/129247620.cms",
-    "time": "2026-03-08T03:33:39.000Z"
   },
   {
     "cat": "Sports",
@@ -568,39 +514,21 @@ const newsData_en = [
   },
   {
     "cat": "Business",
+    "title": "Porting hospitalisation policy; if this, then that",
+    "desc": "Starting porting process 45 days before renewal date is a requirement from the insurers’ side; you have to start research earlier; renew old policy if needed, don’t cancel it till you get the new policy",
+    "img": "https://th-i.thgim.com/public/incoming/kj4k24/article70718018.ece/alternates/LANDSCAPE_1200/Moneywise.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/porting-hospitalisation-policy-if-this-then-that/article70718020.ece",
+    "time": "2026-03-08T02:50:54.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "Why does the Strait of Hormuz’s closure matter?",
     "desc": "Where is the Strait of Hormuz and what is its significance? Why have tensions in West Asia affected this passage? What does Iran have to do with the near-complete closure of the strait? How does the situation affect India and what is the government doing about it?",
     "img": "https://th-i.thgim.com/public/incoming/iffkoj/article70717008.ece/alternates/LANDSCAPE_1200/2026-03-07T044529Z_1004479925_RC20XJAXEVAA_RTRMADP_3_IRAN-CRISIS-ENERGY.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/why-does-the-strait-of-hormuzs-closure-matter/article70717010.ece",
     "time": "2026-03-08T02:00:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US deal likely to be worked out in 3-4 months: Officials",
-    "desc": "India is poised to finalize trade deals with the US within months, pending clarity on American tariff strategies. New Delhi remains committed, aiming for favorable terms for its farmers, including market access for mangoes without reciprocal farm product commitments. The nation has secured a competitive advantage, with assurances for domestic apple and walnut producers.",
-    "img": "https://static.toiimg.com/photo/msid-129235715,imgsize-56366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-deal-likely-to-be-worked-out-in-3-4-months-officials/articleshow/129235594.cms",
-    "time": "2026-03-07T21:06:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Emaar founder boldly reveals why Dubai’s property market has ‘nothing to fear’ amid Iran and US-Israel war",
-    "desc": "Despite regional geopolitical tensions and an anticipated surge in new housing supply, Dubai's real estate sector remains resilient, according to Emaar Properties founder Mohamed Alabbar. He asserts that the market has strong fundamentals and long-term planning to weather shocks, with record sales and luxury segment growth fueling optimism for continued stability and expansion.",
-    "img": "https://static.toiimg.com/photo/msid-129235297,imgsize-104452.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/emaar-founder-boldly-reveals-why-dubais-property-market-has-nothing-to-fear-amid-iran-and-us-israel-war/articleshow/129234792.cms",
-    "time": "2026-03-07T20:59:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India doesn't need permission to buy Russian oil, say officials",
-    "desc": "India continues to source crude oil from Russia, asserting its right to procure from any supplier based on national interest, affordability, and availability. Government sources clarified that recent US waivers were for domestic audiences, as New Delhi's energy security is not solely dependent on single maritime routes like the Strait of Hormuz, with a significant portion of imports unaffected.",
-    "img": "https://static.toiimg.com/photo/msid-129233634,imgsize-67354.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-doesnt-need-permission-to-buy-russian-oil-say-officials/articleshow/129233524.cms",
-    "time": "2026-03-07T19:59:12.000Z"
   },
   {
     "cat": "Business",
@@ -801,15 +729,6 @@ const newsData_en = [
     "time": "2026-03-06T08:07:39.000Z"
   },
   {
-    "cat": "World",
-    "title": "Intense Israeli strikes hit Iran, Lebanon as U.S. warns bombardment will 'surge dramatically'",
-    "desc": "Iran launched new retaliatory attacks in West Asia at the end of a full week of bombardment, which U.S. Defence Secretary Pete Hegseth warned was “about to surge dramatically.” ” Israel's military said on March 6 that it had begun “a broad-scale wave of strikes” on Tehran, Iran's capital",
-    "img": "https://th-i.thgim.com/public/incoming/pmav1f/article70710637.ece/alternates/LANDSCAPE_1200/Israel_Iran_War_Grieving_Family_96104.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/israel-iran-war-us-strike-trump-lebanon-uae/article70710497.ece",
-    "time": "2026-03-06T07:05:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Samson among eight nominees for T20WC Player of the Tournament announced by ICC",
     "desc": "The other nominees are England all-rounder Will Jacks, Pakistan opener Sahibzada Farhan, South Africa's pacer Lungi Ngidi and captain Aiden Markram, New Zealand's all-rounder Rachin Ravindra and batter Tim Seifert, and American bowler Shadley van Schalkwyk.",
@@ -826,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/us-house-committee-wants-travel-companies-to-answer-questions-on-use-of-ai-for-pricing/article70710041.ece",
     "time": "2026-03-06T06:03:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump takes forceful steps to pressure Latin American leaders to reduce China ties",
-    "desc": "Under pressure from President Donald Trump, who had threatened to take the Panama Canal back under U.S. control, the Panamanian government seized two ports at either end of the canal that had been run by a Hong Kong company",
-    "img": "https://th-i.thgim.com/public/incoming/ybn1k1/article70710293.ece/alternates/LANDSCAPE_1200/Trump_10582.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-takes-forceful-steps-to-pressure-latin-american-leaders-to-reduce-china-ties/article70710237.ece",
-    "time": "2026-03-06T05:22:17.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +808,95 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/shows/watch-bejoy-nambiar-interview-why-i-never-watched-the-original/article70702688.ece",
     "time": "2026-03-04T08:40:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "From Tezaab to Subedar: Suresh Triveni’s Full Circle with Anil Kapoor",
+    "desc": "In this episode of Inside Man, Sudhish Kamath sits down with filmmaker Suresh Triveni — director of Subedar (releasing March 5), showrunner of Daldal on Prime Video, and the upcoming Netflix film Maa Behn starring Madhuri Dixit and Tripti Dimri. Before Tumhari Sulu, Suresh waited nearly eight years to make his breakthrough film. Since then, he went on to direct Jalsa — and now finds himself with three major releases in a single year.",
+    "img": "https://th-i.thgim.com/public/incoming/fm34ox/article70702483.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20at%2012.21.44%E2%80%AFPM.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shows/watch-from-tezaab-to-subedar-suresh-trivenis-full-circle-with-anil-kapoor/article70702461.ece",
+    "time": "2026-03-04T06:56:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘One Piece’ creator Eiichiro Oda hides series’ biggest secret under the ocean as manga hits 600 million copies",
+    "desc": "In a special project revealed through an official video, Oda wrote down the answer to the central question of the story — the nature of the legendary treasure known as One Piece — for the first time",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/hcqtey/article70702256.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20111111.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/one-piece-creator-eiichiro-oda-hides-series-biggest-secret-under-the-ocean-as-manga-hits-600-million-copies/article70702244.ece",
+    "time": "2026-03-04T05:43:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee slumps 69 paise to all-time low of 92.18 against U.S. dollar in early trade",
+    "desc": "Forex traders said the domestic currency is under severe pressure due to a sharp spike in crude oil prices, with Brent Crude crossing the $82 per barrel level in futures trade in the wake of the Iran crisis",
+    "img": "https://th-i.thgim.com/public/incoming/sjlgg0/article70702149.ece/alternates/LANDSCAPE_1200/bl26-think2-maiG30FKUIU7.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/rupee-slumps-69-paise-to-all-time-low-of-9218-against-us-dollar-in-early-trade/article70702108.ece",
+    "time": "2026-03-04T05:19:32.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Anthropic’s resistance to the U.S. Department of Defence, OpenAI’s entry: Explained",
+    "desc": "The Dario Amodei-led firm refused to cooperate with the U.S. government’s demands that the firm’s products be used in the deployment of autonomous strikes. The firm has been threatened with being designated as a “supply chain risk”",
+    "img": "https://th-i.thgim.com/public/incoming/r2lf9o/article70698914.ece/alternates/LANDSCAPE_1200/2026-03-02T143303Z_571373715_RC2EWJADNSPA_RTRMADP_3_USA-PENTAGON-ANTHROPIC.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropics-resistance-to-the-us-department-of-defense-openais-entry-explained/article70698887.ece",
+    "time": "2026-03-03T10:45:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Iranian filmmaker Mohammad Rasoulof calls Ayatollah Ali Khamenei ‘most hated figure’ after death in U.S.-Israel strike",
+    "desc": "Iranian director Mohammad Rasoulof, whose film ‘The Seed of the Sacred Fig’ won at Cannes, has condemned Ayatollah Ali Khamenei following the Supreme Leader’s death in a U.S.-Israel military strike, calling him “the most hated figure in the contemporary history of Iran”",
+    "img": "https://th-i.thgim.com/public/incoming/nbud4l/article70698472.ece/alternates/LANDSCAPE_1200/2154565571.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/iranian-filmmaker-mohammad-rasoulof-calls-ayatollah-ali-khamenei-most-hated-figure-after-death-in-us-israel-strike/article70698476.ece",
+    "time": "2026-03-03T07:59:50.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Govt. blocks Supabase website, popular among code developers",
+    "desc": "The site is used as a backend by several developers working on independent projects; a govt. official declined to discuss the specific reasons for the website’s blocking, but said that ‘information was being shared that should not have been shared’",
+    "img": "https://th-i.thgim.com/public/incoming/1j41f8/article70689048.ece/alternates/LANDSCAPE_1200/G6yd0LJWMAApjzY.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/govt-blocks-supabase-website-popular-among-code-developers/article70687836.ece",
+    "time": "2026-02-28T16:03:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Muted opening for ‘The Kerala Story 2’ despite court clearance",
+    "desc": "Though a Division Bench of the Kerala High Court stayed a single judge’s order halting the release on February 27, the film could initially be screened only in a handful of theatres with limited evening shows",
+    "img": "https://th-i.thgim.com/public/incoming/obed59/article70687135.ece/alternates/LANDSCAPE_1200/Kerala%20Story.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/muted-opening-for-the-kerala-story-2-despite-court-clearance/article70687117.ece",
+    "time": "2026-02-28T14:47:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Singer Kalyani Nair on building an ensemble",
+    "desc": "In this episode of Notes & Chords, we step into the world of choral music with Kalyani Nair — acclaimed playback and stage singer, composer, and arranger. As co-founder, choir director, and conductor of the Indian Choral Ensemble, which she leads with Karthik Manickavasakam, she brings together a 40-member collective of vocalists and instrumentalists. The ensemble is carving a niche in India’s soundscape, blending rich melody with layered harmony, spanning different genres.",
+    "img": "https://th-i.thgim.com/public/incoming/qinkim/article70687218.ece/alternates/LANDSCAPE_1200/kalyani%20nair.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shows/watch-singer-kalyani-nair-on-building-an-ensemble/article70687219.ece",
+    "time": "2026-02-28T11:54:34.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Anthropic says won't give U.S. military unconditional AI use",
+    "desc": "The Pentagon also threatened to label Anthropic a supply chain risk, a designation usually reserved for firms from adversary countries that could severely damage the company's ability to work with the U.S. Government and reputation.",
+    "img": "https://th-i.thgim.com/public/incoming/jmd0fg/article70682421.ece/alternates/LANDSCAPE_1200/20260219085L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/anthropic-says-wont-give-us-military-unconditional-ai-use/article70682418.ece",
+    "time": "2026-02-27T10:32:22.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
   }
 ];
