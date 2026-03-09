@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Virtually unbeatable': Nasser Hussain gives his take on India's title-winning T20 World Cup campaign",
+    "desc": "There is no doubt that Team India was the best team of the recently concluded T20 World Cup; the side just lost one game throughout the tournament and went on to defeat New Zealand in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virtually-unbeatable-nasser-hussain-gives-his-take-on-india-s-title-winning-t20-world-cup-campaign-2026-03-09-1033149",
+    "time": "2026-03-09T08:27:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson becomes second batter in history to achieve huge feat after T20 World Cup title victory",
+    "desc": "Star India batter Sanju Samson performed exceptionally well for the Indian team in the T20 World Cup 2026. Playing sporadically in the early stages of the tournament, Samson came into his own and performed brilliantly...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-becomes-second-batter-in-history-to-achieve-huge-feat-after-t20-world-cup-title-victory-2026-03-09-1033148",
+    "time": "2026-03-09T07:50:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jasprit Bumrah joins Virat Kohli in elite list with stellar showing in T20 World Cup final",
     "desc": "Star India pacer Jasprit Bumrah was undoubtedly the star performer for the Indian team as the side defeated New Zealand in the final of the T20 World Cup 2026. The two sides locked horns at...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/will-take-time-to-sink-in-suryakumar-yadav-reacts-after-leading-india-to-t20-world-cup-trophy-2026-03-09-1033101",
     "time": "2026-03-08T18:51:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli reacts to India's T20 World Cup win, lauds the players, team management for explosive cricket",
-    "desc": "India hammered New Zealand by 96 runs to win the T20 World Cup 2026 at the Narendra Modi Stadium in Ahmedabad. Sanju Samson, Abhishek Sharma and Ishan Kishan dominated the show with the bat, scoring...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-reacts-to-india-s-t20-world-cup-win-lauds-the-players-team-management-for-explosive-cricket-2026-03-08-1033096",
-    "time": "2026-03-08T17:59:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson credits Sachin Tendulkar for turnaround after winning player of tournament award in T20 WC 2026",
-    "desc": "Sanju Samson won the player of the tournament in the T20 World Cup 2026 for scoring 321 runs. Notably, he won the award for smashing three consecutive half-centuries, a match-winning knock in three must-win games...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-credits-sachin-tendulkar-for-turnaround-after-winning-player-of-tournament-award-in-t20-wc-2026-2026-03-08-1033094",
-    "time": "2026-03-08T17:48:41.000Z"
   }
 ];

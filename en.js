@@ -1,12 +1,246 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Jaishankar addresses Parliament on West Asia war; speaks on Indians stranded in the region and energy security situation",
-    "desc": "External Affairs Minister Jaishankar lists Centre's three 'guiding factors' in its approach towards the war in West Asia; Leader of House in Rajya Sabha, J.P. Nadda, slams the Opposition for behaviour during the session, accuses them of \"causing anarchy\"",
+    "title": "Rajya Sabha discusses Union Environment Ministry's working; Opposition protests disrupt Lok Sabha proceedings",
+    "desc": "Lok Sabha disrupted by continuous Opposition protests for discussion on various issues; External Affairs Minister Jaishankar lists Centre's three 'guiding factors' in its approach towards the war in West Asia; Leader of House in Rajya Sabha, J.P. Nadda, and Parliamentary Affairs Minister Kiren Rijiju slam Opposition for their behaviour inside Parliament",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/parliament-budget-session-march-9-2026-live-motion-to-remove-speaker-om-birla-sets-stage-for-fiery-session/article70721097.ece",
-    "time": "2026-03-09T06:53:47.000Z"
+    "time": "2026-03-09T09:40:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chaos erupts as actor Jr. NTR mobbed by fans during Bengaluru visit, police lathi-charge crowd",
+    "desc": "The actor was in the city to attend the inauguration of KIMS Super Speciality Hospital at Mahadevapura. As news of his arrival spread, thousands of fans rushed to the venue to catch a glimpse of the actor.",
+    "img": "https://th-i.thgim.com/public/incoming/taxbrf/article70721921.ece/alternates/LANDSCAPE_1200/PTI03_08_2026_000300B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/chaos-erupts-as-actor-jr-ntr-mobbed-by-fans-during-bengaluru-visit-police-lathi-charge-crowd/article70721884.ece",
+    "time": "2026-03-09T09:33:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Parthiban-Trisha's controversy EXPLAINED: What went wrong",
+    "desc": "A recent event saw actor R. Parthiban make a remark about Trisha Krishnan's character Kundavai, sparking a controversy. Trisha responded sharply on X, criticizing the comment as disrespectful. Parthiban later expressed regret, stating his wordplay was misunderstood and intended to be playful. The incident gained attention due to their collaboration in 'Ponniyin Selvan'.",
+    "img": "https://static.toiimg.com/photo/msid-129323016,imgsize-142100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parthiban-trishas-controversy-explained-what-went-wrong-between-the-ponniyin-selvan-stars/articleshow/129323016.cms",
+    "time": "2026-03-09T09:05:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Subedaar's ending explained: Does the ending hint at Anil Kapoor’s return?",
+    "desc": "The climax of 'Subedaar' features Anil Kapoor's Arjun Maurya defeating the sand mafia, saving his daughter, and putting an end to his adversaries. But the film’s closing scenes take a sharp turn, revealing a menacing new player lurking in the darkness, suggesting that Arjun's saga is far from finished and leaving audiences eager for the next chapter.",
+    "img": "https://static.toiimg.com/photo/msid-129322995,imgsize-125360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/subedaars-ending-explained-does-the-ending-hint-at-anil-kapoors-return/articleshow/129322995.cms",
+    "time": "2026-03-09T09:04:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "A true Kerala story",
+    "desc": "Sanju Samson had scored just 46 runs from five matches against New Zealand. In the off chance he earned against Namibia, things didn't get any better. But luck did shine on him after all, and he repaid the backing with absolute tenacity, finishing as the Player of the Tournament and India's highest run-scorer in a T20 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-129323031,imgsize-92436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/justice-for-sanju-a-true-kerala-story/articleshow/129322484.cms",
+    "time": "2026-03-09T09:04:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How India welcomed the T20 World Cup title in Ahmedabad",
+    "desc": "Ahmedabad erupted in joyous celebrations as India clinched the 2026 T20 World Cup title at the Narendra Modi Stadium. Thousands of fans, some without tickets, thronged the venue and surrounding streets, dancing and cheering. Inside the hotel, though, the party was only just getting started.",
+    "img": "https://static.toiimg.com/photo/msid-129322584,imgsize-88256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pooja-in-stadium-to-wild-celebrations-at-team-hotel-how-india-welcomed-the-t20-world-cup-title-in-ahmedabad/articleshow/129322572.cms",
+    "time": "2026-03-09T09:00:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Great seeing you’: Gambhir responds after Dhoni’s ‘smile looks great on you’ post",
+    "desc": "MS Dhoni's return to Instagram after two years celebrated India's T20 World Cup victory with a playful jab at coach Gautam Gambhir's intense persona. Gambhir responded warmly, acknowledging Dhoni's presence. This rare social media exchange between the cricketing legends, who shared iconic World Cup wins, delighted fans after India's dominant final performance.",
+    "img": "https://static.toiimg.com/photo/msid-129322512,imgsize-57416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/great-seeing-you-gautam-gambhir-responds-after-ms-dhonis-viral-coach-sahab-smile-looks-great-on-you-post/articleshow/129322247.cms",
+    "time": "2026-03-09T08:52:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Global icons who danced on Bollywood tunes",
+    "desc": "International celebrities are falling head over heels for the captivating rhythms of Bollywood! From the electrifying moves of Ricky Martin on a Punjabi anthem to Karen Gillan busting out the dance to 'Sheila Ki Jawani,' our favorite stars are reveling in the magic of Indian grooves.",
+    "img": "https://static.toiimg.com/photo/msid-129321397,imgsize-147920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/global-icons-who-danced-on-bollywood-tunes-ricky-martin-nick-jonas-katseye-and-more/articleshow/129321397.cms",
+    "time": "2026-03-09T08:37:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' makes Rs 18 crore in advance bookings for paid previews",
+    "desc": "The Revenge' is shattering advance booking records, raking in over Rs 18 crore even before its March 19 release. The Ranveer Singh starrer has surpassed 'Stree 2's premiere advance, selling over 2 lakh tickets. The Hindi version leads sales, with dubbed versions also showing strong performance, indicating massive audience anticipation.",
+    "img": "https://static.toiimg.com/photo/msid-129321048,imgsize-73446.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-makes-rs-18-crore-already-in-advance-bookings-for-day-1-may-beat-record-of-pawan-kalyans-og-of-rs-25-crore-from-paid-preview/articleshow/129320920.cms",
+    "time": "2026-03-09T08:31:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Always believed in miracles’: How Samson, Bumrah and India’s stars celebrated",
+    "desc": "India has won the 2026 T20 World Cup. The team defeated New Zealand in the final. Players shared their joy on social media. This marks India's third T20 World Cup title. It is also the first time a team has won the tournament at home. India achieved back-to-back victories. Celebrations erupted across the nation.",
+    "img": "https://static.toiimg.com/photo/msid-129321372,imgsize-350910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/always-believed-in-miracles-how-sanju-samson-jasprit-bumrah-and-indias-stars-celebrated-t20-world-cup-triumph/articleshow/129320432.cms",
+    "time": "2026-03-09T08:28:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' censor row: Vijay’s film faces a fresh hurdle",
+    "desc": "Vijay's highly anticipated final film, 'Jana Nayagan,' faces another setback as its Revising Committee screening was unexpectedly postponed. Originally slated for March 9, the review was cancelled due to a committee member's illness, leaving the film's certification and release date uncertain. This delay follows earlier objections regarding religious practices and army symbols.",
+    "img": "https://static.toiimg.com/photo/msid-129321241,imgsize-306660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-row-vijays-film-faces-a-fresh-hurdle-with-the-delay-in-the-revising-committees-screening/articleshow/129321241.cms",
+    "time": "2026-03-09T08:25:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Don’t remember any time we had an argument’: Surya on partnership with Gambhir",
+    "desc": "India's T20 World Cup triumph highlights the strong captain-coach bond between Suryakumar Yadav and Gautam Gambhir. Their seamless understanding and shared vision have led to smooth decision-making and minimal selection debates. Yadav also emphasised investing in players during tough times and fostering open communication in the dressing room for sustained success.",
+    "img": "https://static.toiimg.com/photo/msid-129320845,imgsize-92786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-dont-remember-any-time-we-had-an-argument-suryakumar-yadav-on-why-his-partnership-with-gautam-gambhir-works/articleshow/129320795.cms",
+    "time": "2026-03-09T08:15:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil above $100 as Iran war disrupts supply: Will G7 tap emergency reserves?",
+    "desc": "G-7 nations are considering a joint release of strategic oil reserves to stabilize surging crude prices amid the ongoing Middle East war. Finance ministers will discuss the coordinated drawdown, which would be in conjunction with the International Energy Agency. This move aims to alleviate supply disruptions impacting global consumers and industries.",
+    "img": "https://static.toiimg.com/photo/msid-129320690,imgsize-38376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-above-100-as-iran-war-disrupts-supply-will-g7-tap-emergency-reserves/articleshow/129319496.cms",
+    "time": "2026-03-09T08:12:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kajol gets candid about career choices after 34 years in films",
+    "desc": "Kajol reflects on her 34-year career, highlighting unconventional choices like her role in 'Gupt' and taking a sabbatical at her peak. She emphasizes making her own decisions and cherishes the love for her 'eccentricities'. Currently, the actress is exploring scripts but hasn't finalized any new projects, prioritizing working with relatable individuals. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129320181,imgsize-60906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kajol-gets-candid-about-career-choices-after-34-years-in-the-film-industry-says-i-was-very-stubborn-and-foolish/articleshow/129320181.cms",
+    "time": "2026-03-09T08:04:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Oil and Iran-U.S. war: Key takeaways in graphics",
+    "desc": "As the Iran-U.S. war extended past its first week, Brent crude oil reached a two-year high of $114 per barrel on the Chicago mercantile exchange. How can oil production and exports be affected in the war? Here are graphics to explain.",
+    "img": "https://th-i.thgim.com/public/incoming/nm3lgu/article70698324.ece/alternates/LANDSCAPE_1200/Saudi_Arabia_Iran_41805.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/oil-and-iran-us-war-key-takeaways-in-graphics/article70721149.ece",
+    "time": "2026-03-09T08:02:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ricky Martin's net worth in 2026",
+    "desc": "At the ICC T20 World Cup closing ceremony, Ricky Martin delivered a show-stopping performance that left fans in awe. This Latin pop superstar, projected to hold a remarkable net worth of USD 130 million by 2026, has successfully transitioned from a boy band sensation to a distinguished solo artist, with hits like the unforgettable 'Livin' la Vida Loca.",
+    "img": "https://static.toiimg.com/photo/msid-129314710,imgsize-118930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ricky-martins-net-worth-in-2026-inside-the-king-of-latin-pop-stars-usd-130-million-fortune/articleshow/129314710.cms",
+    "time": "2026-03-09T08:00:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "how a gated community in Chennai is promoting the goals of Clean India Mission",
+    "desc": "A resident of Aashiana Apartments at Alwarpet in Chennai, Anita Hegde narrates how volunteer-residents from the gated community are nudging their neighbours on Poes Road and Rajakrishna Road to practise source segregation of waste, keep their neighourhood spic and span and also adopt other sustainability-promoting practices",
+    "img": "https://th-i.thgim.com/public/incoming/w9h2er/article70711991.ece/alternates/LANDSCAPE_1200/08dcmypr_Swachh%20Poes%20Volunteers%20with%20Urbaser%20Supervisors.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/swachhpoesbaby-steps-to-a-clean-and-green-neighbourhood/article70702701.ece",
+    "time": "2026-03-09T07:59:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dhurandhar 2’ OTT release: Platform and streaming date",
+    "desc": "Ranveer Singh’s 'Dhurandhar 2', directed by Aditya Dhar, releases on March 19. The spy thriller will stream later on OTT, with the date yet to be revealed. Advance bookings cross ₹18 crore. The release follows Yash’s Toxic delay, boosting box-office prospects for this highly awaited sequel.",
+    "img": "https://static.toiimg.com/photo/msid-129319979,imgsize-49606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-ott-release-platform-and-streaming-date-for-aditya-dhars-spy-thriller-revealed-reports/articleshow/129319979.cms",
+    "time": "2026-03-09T07:55:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Stubborn cricketer, instinctive coach and a man who owns the big nights",
+    "desc": "Gautam Gambhir was India's MVP in their two World Cup triumphs, the 2007 T20 World Cup and the 2011 ODI World Cup. In both finals, he stepped up on the big occasion. Whether it was his 54-ball 75 against arch-rivals Pakistan in Johannesburg or the crafty 97 that steered India to victory in Mumbai four years later, Gambhir proved to be a force in ICC tournaments. Now, as a coach, he has added a World Cup to his resume.",
+    "img": "https://static.toiimg.com/photo/msid-129319226,imgsize-79300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/gautam-gambhir-stubborn-cricketer-instinctive-coach-and-a-man-who-owns-the-big-nights/articleshow/129318862.cms",
+    "time": "2026-03-09T07:44:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Supriya Pathak on how her bond with Ratna changed over time",
+    "desc": "Supriya Pathak candidly shared her evolving relationship with sister Ratna Pathak Shah, moving from distance to a deeply cherished bond. She admitted to feeling conscious around Ratna, prioritizing her happiness. Niece Sanah Kapur also spoke, viewing Ratna as a strong, inspiring figure who advocates for others and teaches her to stand firm.",
+    "img": "https://static.toiimg.com/photo/msid-129319183,imgsize-163278.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/supriya-pathak-opens-up-on-her-distant-past-with-sister-ratna-pathak-shah-which-is-now-precious-i-am-scared-of-her/articleshow/129319183.cms",
+    "time": "2026-03-09T07:42:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Consumer always priority': Jaishankar calls Iran crucial to India's energy security as Middle East conflict intensifies",
+    "desc": "India's external affairs minister emphasized national interest, including energy security, as paramount amid Middle East conflict. He highlighted concerns over supply chain disruptions and instability, stressing the government's commitment to managing energy availability and costs for Indian consumers. India advocates for de-escalation through dialogue and diplomacy.",
+    "img": "https://static.toiimg.com/photo/msid-129318637,imgsize-53662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/consumer-always-priority-jaishankar-calls-iran-crucial-to-indias-energy-security-as-middle-east-conflict-intensifies/articleshow/129316322.cms",
+    "time": "2026-03-09T07:33:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Rightful winners’: Sachin, Virat lead applause as India win T20 World Cup",
+    "desc": "Team India has secured a historic third ICC Men's T20 World Cup title, dominating New Zealand by 96 runs in the final. Legends like Sachin Tendulkar and Virat Kohli lauded the team's performance and character, with Sourav Ganguly highlighting the overall strength of Indian cricket. Jasprit Bumrah and Sanju Samson were among the standout performers.",
+    "img": "https://static.toiimg.com/photo/msid-129318339,imgsize-135112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rightful-winners-sachin-tendulkar-virat-kohli-lead-applause-as-india-script-historic-t20-world-cup-triumph/articleshow/129318054.cms",
+    "time": "2026-03-09T07:22:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mahieka celebrates with Hardik; ring draws attention",
+    "desc": "Mahieka Sharma's prominent diamond ring sparked renewed engagement speculation as she celebrated with Hardik Pandya on the field after the T20 World Cup finals. Despite previous denials, her presence and the sparkling jewelry, seen during an emotional embrace, fueled rumors of the couple taking their relationship to the next level, especially after a viral pooja ceremony.",
+    "img": "https://static.toiimg.com/photo/msid-129315895,imgsize-174398.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hardik-pandyas-girlfriend-mahieka-sharma-shows-off-diamond-ring-as-she-celebrates-with-cricketer-pics/articleshow/129313795.cms",
+    "time": "2026-03-09T07:09:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Supriya Pathak recalls harsh realities of film sets in 80s",
+    "desc": "Veteran Supriya Pathak recalls 80s-90s shoots without toilets or vanity vans. \"Passion made us ignore basics,\" she told Bollywood Bubble, sharing Mirch Masala hay-bundle rests in scorching heat. She welcomes today's comforts as essential, not luxury, changes won by actors standing firm.",
+    "img": "https://static.toiimg.com/photo/msid-129317636,imgsize-32816.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/no-washrooms-no-vanity-vans-supriya-pathak-recalls-they-didnt-care-back-then-on-harsh-realities-of-film-sets-in-80s/articleshow/129317636.cms",
+    "time": "2026-03-09T07:08:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Iulia Vantur poses with Salma Khan",
+    "desc": "Iulia Vantur celebrated Women's Day by sharing heartwarming photos with Salman Khan's mother, Salma Khan, and other family members. Vantur expressed gratitude for the women who inspired her, highlighting courage and kindness. She also reflected on advice received from Salman Khan, emphasizing authenticity in her career pursuits.",
+    "img": "https://static.toiimg.com/photo/msid-129316595,imgsize-119352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/iulia-vantur-shares-rare-photo-with-salman-khans-mother-salma-khan-and-helen-on-womens-day-im-a-blessed-daughter/articleshow/129316595.cms",
+    "time": "2026-03-09T07:00:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harry Styles, Anoushka Shankar light up Ryan Gosling’s SNL",
+    "desc": "Ryan Gosling's fourth SNL hosting gig saw unexpected guests steal the show. Harry Styles, set to host next week, made a surprise appearance, playfully interrupting Gosling's monologue. Later, sitar virtuoso Anoushka Shankar joined Gorillaz for a captivating musical performance, blending Indian classical music with a global audience.",
+    "img": "https://static.toiimg.com/photo/msid-129317244,imgsize-130158.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-goslings-on-snl-harry-styles-anoushka-shankar-light-up-the-set-during-his-gig/articleshow/129316996.cms",
+    "time": "2026-03-09T07:00:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Supriya reacts to Jaya Bachchan’s ‘gandi pants’ comment",
+    "desc": "Veteran actress Supriya Pathak addressed paparazzi frenzy post Jaya Bachchan's \"gandi pants\" remark, calling fame temporary. \"If you have real talent, you'll last,\" she told Bollywood Bubble. Daughter Sana Kapur enjoys attention but seeks privacy respect, especially for star kids.",
+    "img": "https://static.toiimg.com/photo/msid-129316839,imgsize-51556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/supriya-pathak-reacts-to-jaya-bachchans-gandi-pants-comment-everything-is-momentary/articleshow/129316839.cms",
+    "time": "2026-03-09T06:52:07.000Z"
   },
   {
     "cat": "Sports",
@@ -37,6 +271,15 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
+    "title": "Navya Naveli Nanda shares Jaya Bachchan’s best advice",
+    "desc": "In a world rife with comparisons, Navya Naveli Nanda stands firm in her belief that empowerment is rooted in personal choices. She passionately urges young women to defy the relentless pressures regarding their appearance and social roles. With a keen eye on the influence of social media, Nanda promotes authenticity, advising against conformity to others’ expectations.",
+    "img": "https://static.toiimg.com/photo/msid-129315717,imgsize-52066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/navya-naveli-nanda-on-the-best-advice-from-grandmother-jaya-bachchan-if-we-start-looking-at-what-people-expect-of-us-/articleshow/129315717.cms",
+    "time": "2026-03-09T06:31:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Supriya reveals if DP-Ranveer were dating during 'Ram-Leela'",
     "desc": "Veteran actress Supriya Pathak shared her experience on Sanjay Leela Bhansali's 'Ram-Leela', praising Deepika Padukone and Ranveer Singh's passion for their craft. While Pathak admitted to being oblivious to their romance during filming, she noted their on-screen chemistry and pleasant demeanor on set, highlighting their beautiful pairing. Read on to know more about what the veteran actress has to say.",
     "img": "https://static.toiimg.com/photo/msid-129315395,imgsize-151698.cms",
@@ -52,15 +295,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-from-protests-to-power-rsps-victory-reshapes-nepal-politics-the-hindu-editorial/article70721427.ece",
     "time": "2026-03-09T06:19:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rihanna's net worth: Inside her billion-dollar empire",
-    "desc": "Pop icon Rihanna's Beverly Hills home was recently targeted by gunfire, though no one was harmed. This incident brings attention to her remarkable business acumen. Beyond music, Rihanna has built a billion-dollar empire with Fenty Beauty and Savage X Fenty, making her one of the wealthiest self-made women in entertainment.",
-    "img": "https://static.toiimg.com/photo/msid-129314553,imgsize-84994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rihannas-net-worth-inside-the-billion-dollar-empire-of-the-music-icon-and-entrepreneur/articleshow/129314378.cms",
-    "time": "2026-03-09T06:05:52.000Z"
   },
   {
     "cat": "Sports",
@@ -79,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-nikkei-tumbles-3000-points-kospi-down-7-markets-trade-in-red-as-oil-prices-soar-beyond-100/articleshow/129311844.cms",
     "time": "2026-03-09T05:45:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' advance crosses USD 1.7mn in US, Rs 18cr in India",
-    "desc": "The Revenge' is making waves with record-breaking advance box office collections. The film has already garnered significant pre-sale figures in North America, eyeing USD 2 million, and domestic bookings have surpassed Rs 18 crore. This strong start suggests a massive post-pandemic release for the highly anticipated sequel.",
-    "img": "https://static.toiimg.com/photo/msid-129312320,imgsize-63336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-the-revenge-advance-booking-report-ranveer-singh-starrer-off-to-record-breaking-start-crosses-usd-1-7-million-in-north-america-and-rs-18-crore-in-india/articleshow/129312149.cms",
-    "time": "2026-03-09T05:42:25.000Z"
   },
   {
     "cat": "Sports",
@@ -109,7 +334,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Stop celebrating milestones, celebrate trophies’: Gambhir’s strong message after T20 WC win",
+    "title": "‘Stop celebrating milestones’: Gambhir’s strong message after T20 World Cup win",
     "desc": "India's head coach Gautam Gambhir emphasized that trophies, not individual milestones, are paramount for team success. He highlighted this philosophy after India's T20 World Cup victory, urging a shift in focus from personal records to collective achievements. Gambhir praised Suryakumar Yadav and Sanju Samson for embracing this team-first approach, prioritizing wins over statistics.",
     "img": "https://static.toiimg.com/photo/msid-129311959,imgsize-82092.cms",
     "src": "indiatimes.com",
@@ -180,33 +405,6 @@ const newsData_en = [
     "time": "2026-03-09T04:20:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Genelia, Riteish groove with b'day boy Fardeen to ‘Kambakht Ishq’",
-    "desc": "To celebrate Fardeen Khan's special day, Genelia and Riteish Deshmukh shared an exuberant dance video that delighted fans. This joyous occasion marks a reunion for the trio in Riteish’s directorial debut, 'Raja Shivaji,' which promises to be a thrilling historical tale hitting theaters in May. Fardeen takes on the significant role of Mohammed Adil Shah, surrounded by a talented cast. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129308277,imgsize-108438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/genelia-and-riteish-deshmukh-groove-with-birthday-boy-fardeen-khan-to-kambakht-ishq-fk-we-love-you-watch/articleshow/129308277.cms",
-    "time": "2026-03-09T04:07:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Young Sherlock’s Max Irons reveals Colin Firth’s 3 am habit",
-    "desc": "Actor Max Irons, portraying Mycroft Holmes in the new Sherlock origin series, shared a quirky anecdote about co-star Colin Firth. Irons revealed the legendary actor's unusual habit of playing ping pong in hotel corridors at 3 a.m., much to the amusement of his castmates.",
-    "img": "https://static.toiimg.com/photo/msid-129308236,imgsize-104690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/young-sherlock-actor-max-irons-reveals-co-actor-colin-firths-funniest-3-am-habit-he-loves-playing-ping-pong/articleshow/129308236.cms",
-    "time": "2026-03-09T04:01:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Colleen Hoover breaks silence on 'It Ends With Us' controversy",
-    "desc": "The adaptation of Colleen Hoover's 'It Ends with Us' has been overshadowed by a major feud between stars Blake Lively and Justin Baldoni, involving lawsuits and accusations of sexual harassment and defamation. Author Colleen Hoover expressed embarrassment and sadness, stating the controversy has impacted careers and detracted from the story's core message about domestic abuse.",
-    "img": "https://static.toiimg.com/photo/msid-129307819,imgsize-992178.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/colleen-hoover-on-why-its-now-easier-to-separate-the-it-ends-with-us-movie-from-the-blake-lively-and-justin-baldoni-feud/articleshow/129307891.cms",
-    "time": "2026-03-09T03:52:17.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rs 12 lakh cr wiped out as Sensex plunges 2,000 points, Nifty below 24,000",
     "desc": "Indian stock markets, Nifty and Sensex, opened the week lower amid escalating Middle East conflict, following a significant market cap erosion last week. Analysts anticipate geopolitical developments, particularly their impact on global crude oil prices, will dictate market direction. Investors are also closely monitoring foreign investor flows and global cues for sentiment shifts.",
@@ -232,24 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/firm-ideas-flexible-tactics-how-gautam-gambhir-helped-india-tame-t20s-fickle-nature/articleshow/129307496.cms",
     "time": "2026-03-09T03:44:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "About SS Rajamouli’s Jubilee Hills home in Hyderabad",
-    "desc": "Acclaimed director S.S. Rajamouli, celebrated for 'RRR' and 'Baahubali,' resides in a stylish Jubilee Hills flat in Hyderabad. His home, a blend of traditional and modern design, features a unique purple kitchen and a spacious patio. This exclusive neighborhood is also home to other prominent South Indian celebrities.",
-    "img": "https://static.toiimg.com/photo/msid-129307437,imgsize-61762.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ss-rajamoulis-jubilee-hills-home-inside-varanasi-directors-minimalist-abode-with-purple-kitchen-and-central-patio-tree/articleshow/129307437.cms",
-    "time": "2026-03-09T03:44:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Timothee's Oscar hope CRASHES amid 'ballet and opera row'",
-    "desc": "The buzz surrounding Timothée Chalamet's Oscar bid for 'Marty Supreme' is reportedly fading, following his polarizing statements regarding ballet and opera. The outcry from fans and celebrities has been substantial, with Michael B. Jordan now becoming the talk of the town as the likely contender.",
-    "img": "https://static.toiimg.com/photo/msid-129305117,imgsize-88676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothee-chalamets-oscar-hopes-for-best-actor-win-crashes-amid-ballet-and-theatre-row-doja-cat-takes-dig-at-actor-watch/articleshow/129304157.cms",
-    "time": "2026-03-09T03:43:09.000Z"
   },
   {
     "cat": "Sports",
@@ -279,24 +459,6 @@ const newsData_en = [
     "time": "2026-03-09T03:20:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "James Van Der Beek’s daughter Emilia posts bday message about her father",
-    "desc": "Remembering James Van Der Beek on what would have been his 49th birthday, his family poured their love into special tributes. Daughter Emilia delivered an emotional video, revealing her ongoing dialogue with her beloved father, while Kimberly, his devoted wife, reminisced about their precious moments together, honoring his remarkable spirit.",
-    "img": "https://static.toiimg.com/photo/msid-129305672,imgsize-145948.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-van-der-beeks-daughter-emilia-and-wife-kimberly-remember-late-actor-on-first-posthomous-birthday-missing-you/articleshow/129305672.cms",
-    "time": "2026-03-09T03:08:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunday Rose Kidman Urban credits mom Nicole Kidman for guiding her modelling journey",
-    "desc": "Sunday Rose Kidman Urban is stepping into the modeling world, inspired by her mother Nicole Kidman's creativity and guidance. She emphasizes her mother's advice on punctuality and the family's value of action over words. These lessons are shaping her burgeoning career, even amidst public scrutiny.",
-    "img": "https://static.toiimg.com/photo/msid-129305747,imgsize-811392.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sunday-rose-shares-the-number-one-rule-nicole-kidman-gave-her-for-achieving-success-in-modeling-always-arrive-on-time/articleshow/129305727.cms",
-    "time": "2026-03-09T03:05:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "High risk, high reward: How ‘Total T20’ fuelled India’s march to World Cup glory",
     "desc": "India's cricket team is forging a new T20 dynasty, mirroring Rinus Michels' 'Total Football' with a 'Total T20' approach. Since their 2024 World Cup win, they've dominated bilateral series with aggressive batting, multi-dimensional players, and a focus on impact over traditional roles. This strategy, led by Suryakumar Yadav and Gautam Gambhir, prioritises T20 success and has created an intimidating aura.",
@@ -315,24 +477,6 @@ const newsData_en = [
     "time": "2026-03-09T02:47:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vishal supports 'musical genius' Arijit's retirement post",
-    "desc": "Singer-composer Vishal Dadlani voiced his support for Arijit Singh's decision to step away from playback singing, emphasizing that artists should pursue what brings them happiness. Dadlani praised Singh's musical genius and encouraged his exploration of new avenues, like independent music. Singh had previously announced his retirement from playback after current projects, assuring fans he would continue creating music.",
-    "img": "https://static.toiimg.com/photo/msid-129304129,imgsize-75462.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/im-on-his-side-vishal-dadlani-supports-musical-genius-arijit-singh-after-he-opens-up-on-retirement-from-playback-singing/articleshow/129304129.cms",
-    "time": "2026-03-09T02:40:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who is Masali Baduza?",
-    "desc": "South African actress Masali Baduza, born March 12, 1996, has captivated audiences with her role as Michaela Stirling in 'Bridgerton'. Her journey from East London to international acclaim showcases resilience and a diverse skillset, honed through training and impactful performances in theatre and film.",
-    "img": "https://static.toiimg.com/photo/msid-129304460,imgsize-327126.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/who-is-masali-baduza-all-about-the-south-african-star-playing-michaela-stirling-in-bridgerton-season-4/articleshow/129304498.cms",
-    "time": "2026-03-09T02:38:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Champions once again': Kohli's emotional post after India lift T20 World Cup",
     "desc": "Team India secured a dominant victory in the ICC Men's T20 World Cup final. They defeated New Zealand by 96 runs. India posted a record 255 for five, with Sanju Samson scoring 89. Jasprit Bumrah took four wickets. India successfully defended their T20 World Cup title. This marks a historic achievement for the team.",
@@ -340,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/champions-once-again-virat-kohlis-emotional-post-after-india-lift-t20-world-cup/articleshow/129284523.cms",
     "time": "2026-03-09T02:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Woman arrested after shooting at Rihanna’s home",
-    "desc": "On March 8, a dramatic scene unfolded in Beverly Hills as a woman was arrested after discharging ten rounds at the home of pop icon Rihanna. Fortunately, the singer was in the house and escaped unharmed. Authorities are still investigating the unclear motive behind this alarming act, while the suspect initially fled in her vehicle before being apprehended.",
-    "img": "https://static.toiimg.com/photo/msid-129303624,imgsize-59556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/woman-fires-shots-at-rihannas-home-in-la-singer-confirmed-to-be-home-at-the-time-of-the-incident/articleshow/129303624.cms",
-    "time": "2026-03-09T02:22:34.000Z"
   },
   {
     "cat": "Business",
@@ -378,42 +513,6 @@ const newsData_en = [
     "time": "2026-03-09T00:47:33.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'I have 10 more years to win 10 more ICC titles': Hardik sets massive target",
-    "desc": "India clinched a historic third T20 World Cup title, becoming the first to defend their crown with a dominant 96-run victory over New Zealand. The triumph, witnessed by over 86,000 fans at the Narendra Modi Stadium, marks India's second win on home soil.",
-    "img": "https://static.toiimg.com/photo/msid-129285036,imgsize-55710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-have-10-more-years-to-win-10-more-icc-titles-hardik-pandya-sets-massive-target-after-t20-world-cup-triumph/articleshow/129284982.cms",
-    "time": "2026-03-09T00:32:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Mitchell ko sorry bolne gya tha': Arshdeep after on-field spat with Mitchell",
-    "desc": "India achieved a historic feat, retaining the ICC Men's T20 World Cup by defeating New Zealand by 96 runs. This marks their third title and first on home soil. Stellar batting performances, including Sanju Samson's 89, propelled India to a massive 255/5. A disciplined bowling attack then restricted New Zealand, securing a memorable victory.",
-    "img": "https://static.toiimg.com/photo/msid-129283846,imgsize-24804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/mitchell-ko-sorry-bolne-gya-tha-arshdeep-singh-after-on-field-spat-with-daryl-mitchell/articleshow/129283193.cms",
-    "time": "2026-03-09T00:32:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Kerala Story 2': Film crosses Rs 32 crore mark on Day 10",
-    "desc": "'The Kerala Story 2 Goes Beyond' is experiencing a noticeable dip in box office performance compared to its predecessor. While the sequel has garnered Rs 32.87 crore net, the original film achieved Rs 136.49 crore in its first ten days. The film, directed by Kamakhya Narayan Singh, explores themes of manipulation and the fight for freedom. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129298466,imgsize-190360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-the-ulka-gupta-aditi-bhatia-starrer-crosses-rs-32-crore-mark-amid-steady-numbers/articleshow/129298466.cms",
-    "time": "2026-03-09T00:14:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Even I was doubting myself': Abhishek thanks Suryakumar, Gambhir",
-    "desc": "Abhishek made an impact in the final against New Zealand, scoring 52 from 21 balls and giving India a quick start along with Sanju Samson after the side was asked to bat first. India posted 255 for five and went on to win the match by 96 runs, becoming the first team to defend a T20 World Cup title.",
-    "img": "https://static.toiimg.com/photo/msid-129284220,imgsize-42664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/even-i-was-doubting-myself-abhishek-sharma-thanks-suryakumar-yadav-coach-gautam-gambhir-after-match-winning-knock-in-final/articleshow/129284075.cms",
-    "time": "2026-03-08T23:30:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why are Indian investors pouring billions into Dubai real estate? Golden visas and huge returns behind property market boom",
     "desc": "Indian investors are significantly fuelling Dubai's booming real estate market in 2026, injecting billions annually. Attracted by tax-free returns, strong rental yields and investor-friendly policies, they are now the largest foreign buyer group. This trend highlights Dubai's appeal as a secure global wealth hub, with even middle-class Indians diversifying portfolios overseas.",
@@ -439,42 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/indian-womens-press-corps-reiterates-commitment-to-support-safe-equitable-spaces-in-media/article70719029.ece",
     "time": "2026-03-08T18:09:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I was broken after the NZ series': Samson wins Player of the Tournament in T20 WC",
-    "desc": "Sanju Samson's stellar performance earned him Player of the Tournament in the T20 World Cup 2026, driving India's victory. Despite starting as a reserve, Samson amassed 321 runs in five matches, including three crucial half-centuries. His record-breaking feats and inspiring journey, including guidance from Sachin Tendulkar, highlight a career-defining tournament.",
-    "img": "https://static.toiimg.com/photo/msid-129283187,imgsize-98124.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-was-broken-after-the-nz-series-sanju-samson-wins-player-of-the-tournament-after-historic-t20-world-cup-run/articleshow/129283232.cms",
-    "time": "2026-03-08T18:02:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt stresses stronger safety culture in power sector on Lineman Diwas",
-    "desc": "Lineman Diwas was celebrated in Delhi to honor the dedication of linemen and ground staff. Around 250 participants attended the event. A safety pledge was administered. Ministers and officials acknowledged their vital role in maintaining uninterrupted power supply. Modern technologies and safety practices were discussed. Awards were given to high-performing discoms and linemen.",
-    "img": "https://static.toiimg.com/photo/msid-129283610,imgsize-33666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/govt-stresses-stronger-safety-culture-in-power-sector-on-lineman-diwas/articleshow/129280538.cms",
-    "time": "2026-03-08T17:59:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Each One Teach One’ model launched in Mandya to improve SSLC results",
-    "desc": "ZP CEO Nandini K.R. said while about 68% students had passed in Preparatory Examination-1, the pass percentage increased to 86 per cent in Preparatory Examination-3. Officials asked to further improve the results to reach 95 per cent",
-    "img": "https://th-i.thgim.com/public/incoming/epgtvv/article70719582.ece/alternates/LANDSCAPE_1200/2303_25_3_2024_18_56_33_1_SSLCEXAM.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/each-one-teach-one-model-launched-in-mandya-to-improve-sslc-results/article70719495.ece",
-    "time": "2026-03-08T17:38:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India bury ghost of November 19; pummel New Zealand by 96 runs",
-    "desc": "Sanju Samson, Abhishek Sharma and Ishan Kishan scored blistering fifties to power India to 255 for 5 against New Zealand in the T20 World Cup final in Ahmedabad. Indian bowlers led by Jasprit Bumrah and some exceptional catching by Ishan Kishan in the outfield helped India register a 96-run win and they became only the first team to win back-to-back T20 World Cups.",
-    "img": "https://static.toiimg.com/photo/msid-129286537,imgsize-145188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-final-india-bury-ghost-of-november-19-pummel-new-zealand-by-96-runs/articleshow/129280696.cms",
-    "time": "2026-03-08T17:22:44.000Z"
   },
   {
     "cat": "Politics",
@@ -511,42 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/quantum-leap-for-tribal-girl-students-in-nptel-exam/article70719562.ece",
     "time": "2026-03-08T15:39:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Record alert in final! India rewrite T20 World Cup history vs New Zealand",
-    "desc": "India shattered T20 World Cup final records, posting a colossal 255/5 against New Zealand. Sanju Samson led the charge with a blistering 89, the highest individual score in a final. An explosive batting display, including a 98-run opening stand, ensured a commanding total, underlining India's dominance in the shortest format.",
-    "img": "https://static.toiimg.com/photo/msid-129277229,imgsize-122022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/record-alert-in-final-india-rewrite-t20-world-cup-history-vs-new-zealand/articleshow/129277293.cms",
-    "time": "2026-03-08T15:31:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka notifies reservation for 369 wards of new Bengaluru corporations, questions persist over quotas",
-    "desc": "However, the final notification is likely to be challenged in the court, as the Urban Development Department has not changed the percentage in either vertical reservation or the women quota, despite the draft notification drawing widespread criticism over the same.",
-    "img": "https://th-i.thgim.com/public/incoming/nru80p/article70719627.ece/alternates/LANDSCAPE_1200/IMG_0038.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/karnataka-notifies-reservation-for-369-wards-of-new-bengaluru-corporations-questions-persist-over-quotas/article70718764.ece",
-    "time": "2026-03-08T15:26:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson scripts history, breaks multiple records in T20 World Cup final",
-    "desc": "Sanju Samson's explosive 89 in the T20 World Cup final powered India to a historic feat, with the top three batters scoring 50+. Samson also set a new record for most sixes in a single tournament with 21. He joins an elite group with semi-final and final fifties, and matches consecutive 50+ scores, solidifying his status as a tournament standout.",
-    "img": "https://static.toiimg.com/photo/msid-129276214,imgsize-148860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sanju-samson-scripts-history-breaks-multiple-records-in-t20-world-cup-final-vs-new-zealand/articleshow/129276280.cms",
-    "time": "2026-03-08T15:03:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Analysts",
-    "desc": "Gold prices are expected to remain volatile as investors monitor Middle East tensions and key global economic data. Escalating conflicts could boost safe-haven demand for gold, while easing tensions may trigger profit-taking. Silver also faces volatility, currently in a consolidation phase, influenced by gold and industrial metals.",
-    "img": "https://static.toiimg.com/photo/msid-129272523,imgsize-616377.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-braces-for-volatile-week-as-middle-east-tensions-escalate-analysts/articleshow/129272455.cms",
-    "time": "2026-03-08T13:34:14.000Z"
   },
   {
     "cat": "World",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/one-piece-creator-eiichiro-oda-hides-series-biggest-secret-under-the-ocean-as-manga-hits-600-million-copies/article70702244.ece",
     "time": "2026-03-04T05:43:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee slumps 69 paise to all-time low of 92.18 against U.S. dollar in early trade",
-    "desc": "Forex traders said the domestic currency is under severe pressure due to a sharp spike in crude oil prices, with Brent Crude crossing the $82 per barrel level in futures trade in the wake of the Iran crisis",
-    "img": "https://th-i.thgim.com/public/incoming/sjlgg0/article70702149.ece/alternates/LANDSCAPE_1200/bl26-think2-maiG30FKUIU7.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/rupee-slumps-69-paise-to-all-time-low-of-9218-against-us-dollar-in-early-trade/article70702108.ece",
-    "time": "2026-03-04T05:19:32.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Anthropic’s resistance to the U.S. Department of Defence, OpenAI’s entry: Explained",
-    "desc": "The Dario Amodei-led firm refused to cooperate with the U.S. government’s demands that the firm’s products be used in the deployment of autonomous strikes. The firm has been threatened with being designated as a “supply chain risk”",
-    "img": "https://th-i.thgim.com/public/incoming/r2lf9o/article70698914.ece/alternates/LANDSCAPE_1200/2026-03-02T143303Z_571373715_RC2EWJADNSPA_RTRMADP_3_USA-PENTAGON-ANTHROPIC.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/anthropics-resistance-to-the-us-department-of-defense-openais-entry-explained/article70698887.ece",
-    "time": "2026-03-03T10:45:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Iranian filmmaker Mohammad Rasoulof calls Ayatollah Ali Khamenei ‘most hated figure’ after death in U.S.-Israel strike",
-    "desc": "Iranian director Mohammad Rasoulof, whose film ‘The Seed of the Sacred Fig’ won at Cannes, has condemned Ayatollah Ali Khamenei following the Supreme Leader’s death in a U.S.-Israel military strike, calling him “the most hated figure in the contemporary history of Iran”",
-    "img": "https://th-i.thgim.com/public/incoming/nbud4l/article70698472.ece/alternates/LANDSCAPE_1200/2154565571.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/iranian-filmmaker-mohammad-rasoulof-calls-ayatollah-ali-khamenei-most-hated-figure-after-death-in-us-israel-strike/article70698476.ece",
-    "time": "2026-03-03T07:59:50.000Z"
   }
 ];

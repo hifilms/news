@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "ભારતનો ગુમનામ હીરો, જેણે ટીમ ઈન્ડિયાને 3 વખત બનાવી દીધી ચેમ્પિયન",
+    "desc": "ટીમ ઈન્ડિયાને વર્લ્ડ ચેમ્પિયન બનાવવામાં સંજુ સેમસન, જસપ્રીત બુમરાહ, ઈશાન કિશન, શિવમ દુબે જેવા ખેલાડીઓનો હાથ રહ્યો. કોચ ગોતમ ગંભીરની ભૂમિકા મહત્વની રહી પરંતુ ચીફ સિલેક્ટર અજીત અગરકરે પણ પડદા પાછળ યોગદાન આપ્યું છે જેને ભૂલી શકાય નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-indian-team-win-ajit-agarkar-contribution-as-a-chief-selector-467805 ",
+    "time": "2026-03-09T09:17:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘આ છે અસલી સ્ક્રિપ્ટરાઈટર!’ રોહિત શર્માનો જાહેરમાં જય શાહ તરફ ઈશારો, હિટમેનનું રિએક્શન વાયરલ",
+    "desc": "T20 વર્લ્ડ કપ જીત્યા પછી રોહિત શર્માએ મજાકમાં જય શાહને અસલી સ્ક્રિપ્ટ રાઇટર ગણાવ્યા, જેનો એક વીડિયો હવે વાયરલ થઈ રહ્યો છે. ધોની અને રોહિતની હાજરીમાં ભારતે ન્યૂઝીલેન્ડને હરાવીને સતત બીજી વખત અને કુલ ત્રીજી વખત વર્લ્ડ કપ જીતીને ઇતિહાસ રચ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rohit-sharma-points-to-jay-shah-as-real-scriptwriter-video-goes-viral-467804 ",
+    "time": "2026-03-09T09:13:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બે દિવસ પહેલા બહેનનું નિધન, શોકમાં હતો પરિવાર, દીકરાએ જીતાડ્યો દેશને વર્લ્ડ કપ",
+    "desc": "ભારતીય ટીમે ન્યૂઝીલેન્ડને 96 રનથી હરાવીને T20 વર્લ્ડ કપ જીત્યો છે. ઇશાન કિશને ભારતીય ટીમની જીતમાં મુખ્ય ભૂમિકા ભજવી હતી. તેણે ટાઇટલ મેચમાં અડધી સદી ફટકારી હતી. આ મેચના બે દિવસ પહેલા પિતરાઇ બહેનનું નિધન થયું હતું છતાં ઇશાને પોતાના દેશ પ્રત્યેની પોતાની ફરજને પ્રથમ રાખી દેશને વર્લ્ડ કપ જીતાડવામાં મુખ્ય ભૂમિકા ભજવી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ishan-kishan-emotional-reveal-cousin-sister-death-just-before-world-cup-final-467803 ",
+    "time": "2026-03-09T08:22:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "અમદાવાદના હનુમાન મંદિરના આશીર્વાદ ટીમ ઈન્ડિયાને ફળ્યા, જીત બાદ ટ્રોફી સાથે મંદિર પહોંચ્યો કેપ્ટન સૂર્યા",
     "desc": "ICC T20 વર્લ્ડ કપ 2026 જીત્યા બાદ કેપ્ટન સૂર્યકુમાર યાદવ અને કોચ ગૌતમ ગંભીરે ટ્રોફી સાથે હનુમાનજી મંદિરની મુલાકાત લીધી હતી. ICC ચેરમેન જય શાહ પણ ત્યાં હાજર હતા. મેચ પહેલા પણ સૂર્યા, હાર્દિક અને કોચ ગંભીર મંદિરે આશીર્વાદ લેવા મંદિરે પહોંચ્યા હતા.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -124,24 +151,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-t20-world-cup-indias-historic-victory-in-the-t20-world-cup-3-new-big-records-created-467766 ",
     "time": "2026-03-08T17:25:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "સંજુ સેમસને વર્લ્ડ કપમાં ફટકારી ફિફ્ટીની હેટ્રિક, કોહલી-આફ્રિદીનો તોડ્યો રેકોર્ડ; રચ્યો દુર્લભ રેકોર્ડ",
-    "desc": "T20 વર્લ્ડ કપ 2026માં સંજુ સેમસનનું તોફાન જોવા મળ્યું છે. અમદાવાદમાં રમાયેલી ફાઈનલ મેચમાં સંજુએ ફિફ્ટી ફટકારીને દિગ્ગજોની યાદીમાં પોતાનું નામ નોંધાવી દીધું છે. બીજી તરફ અભિષેકે પણ પોતાના નામે એક ખાસ રેકોર્ડ બનાવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-final-sanju-samson-scores-a-hat-trick-of-fifties-in-the-world-cup-breaking-kohli-afridi-record-467747 ",
-    "time": "2026-03-08T15:31:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "મોટી જાહેરાત: આ દિવસથી શરૂ થશે IPL 2026નો જંગ, ફેન્સ માટે આવ્યા ખુશીના સમાચાર",
-    "desc": "ઇન્ડિયન પ્રીમિયર લીગ 2026 માટે ચાહકોમાં ભારે ઉત્સાહ જોવા મળી રહ્યો છે. ટી20 વર્લ્ડ કપ બાદ હવે દરેકનું ધ્યાન આ ટૂર્નામેન્ટ પર કેન્દ્રિત થશે. ટીમોએ પોતપોતાના ટ્રેનિંગ કેમ્પ પણ શરૂ કરી દીધા છે. ઘણા લોકોના મનમાં ટૂર્નામેન્ટની શરૂઆતની તારીખને લઈને પ્રશ્નો હતા, જેનો હવે અંત આવ્યો છે. સત્તાવાર રીતે IPL 2026ની શરૂઆતની તારીખ જાહેર કરવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/a-big-announcement-has-been-made-the-ipl-2026-battle-will-begin-on-this-day-good-news-for-the-fans-467746 ",
-    "time": "2026-03-08T15:19:13.000Z"
   },
   {
     "cat": "Business",
@@ -538,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shahid-kapoor-film-o-romeo-ott-release-date-prime-video-467278 ",
     "time": "2026-03-05T06:43:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "તમે મોદી સાથે થોડા દિવસો વિતાવ્યા, કેવા માણસ લાગ્યા? કેનેડાના PMએ આપ્યો અજીબ જવાબ, જાણો",
-    "desc": "કેનેડાના વડા પ્રધાન માર્ક કાર્ને 27 ફેબ્રુઆરીથી 2 માર્ચ સુધી ભારતની મુલાકાત લીધી હતી, જે દરમિયાન ભારત અને કેનેડાએ યુરેનિયમ અને મહત્વપૂર્ણ ખનિજોના પુરવઠા અંગે મહત્વપૂર્ણ કરારો પર હસ્તાક્ષર કર્યા હતા. તેમણે પીએમ મોદીની ખૂબ પ્રશંસા કરી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/you-spent-a-few-days-with-modi-what-kind-of-person-did-he-seem-to-be-canadian-pm-gave-a-strange-answer-know-467256 ",
-    "time": "2026-03-05T05:35:09.000Z"
   },
   {
     "cat": "Entertainment",
