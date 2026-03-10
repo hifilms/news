@@ -1,5 +1,248 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Haryana CM accuses AAP government in Punjab of indulging in ‘election-time freebie politics’",
+    "desc": "Responding to the Punjab government’s budget announcement of providing ₹1,500 to women from the SC category and ₹1,000 to other women, Haryana CM said the AAP government is making these announcements with the upcoming Assembly elections in mind.",
+    "img": "https://th-i.thgim.com/public/incoming/lrsnff/article70725043.ece/alternates/LANDSCAPE_1200/PTI11_27_2025_000177B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/haryana-cm-accuses-aap-government-in-punjab-of-indulging-in-election-time-freebie-politics/article70722862.ece",
+    "time": "2026-03-10T04:15:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "M.P. High Court cancels Congress MLA’s win for hiding criminal cases, declares former BJP Minister elected",
+    "desc": "A Single Bench of Justice Gurpal Singh Ahluwalia in Gwalior gave the verdict in an Election Petition filed by Mr. Rawat and said that Congress MLA Mukesh Malhotra has “deliberately and knowingly suppressed material information regarding framing of charges in two pending criminal cases and misled the electorate”.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-high-court-cancels-congress-mlas-win-for-hiding-criminal-cases-declares-former-bjp-minister-elected/article70723567.ece",
+    "time": "2026-03-10T04:08:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Preity Zinta celebrates from stands as India defend T20 World Cup title",
+    "desc": "Bollywood stars erupted in celebration as India clinched their third ICC Men's T20 World Cup title with a dominant victory over New Zealand. Preity Zinta, present at the stadium, shared her elation, while Shah Rukh Khan and other celebrities lauded the team's commanding performance. India's historic win saw them successfully defend the T20 World Cup trophy.",
+    "img": "https://static.toiimg.com/photo/msid-129372026,imgsize-84324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/none-of-us-could-keep-calm-preity-zinta-celebrates-from-stands-as-india-defend-t20-world-cup-title/articleshow/129371865.cms",
+    "time": "2026-03-10T03:56:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sonal blushes as crowd sings her 'Zara Sa' song at T20 WC final",
+    "desc": "Actress Sonal Chauhan experienced a heartwarming moment at the India vs. New Zealand T20 World Cup final in Ahmedabad when fans in the stadium sang her iconic song 'Zara Sa' from 'Jannat'. Overwhelmed by the gesture, Chauhan shared a video, expressing her gratitude and love for her fans and Gujarat. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129371317,imgsize-191776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonal-chauhan-blushes-as-crowd-sings-her-zara-sa-song-live-at-india-vs-new-zealand-t20-world-cup-final-video/articleshow/129371317.cms",
+    "time": "2026-03-10T03:44:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hilary Duff opens up about estrangement from sister Haylie Duff",
+    "desc": "Child stars Hilary and Haylie Duff are reportedly no longer speaking, a rift confirmed by Hilary in her new album 'Luck…or something.' Lyrics from her song 'We Don't Talk' directly address Haylie, with Hilary expressing the profound loneliness of their estrangement. The sisters' once-close bond appears to have fractured over time, with speculation pointing to jealousy and familial tensions.",
+    "img": "https://static.toiimg.com/photo/msid-129371403,imgsize-764816.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/hilary-duff-opens-up-about-estrangement-from-sister-haylie-duff-in-emotional-album-track-i-dont-know-how-it-happened/articleshow/129371407.cms",
+    "time": "2026-03-10T03:39:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Crude slides 6% after touching nearly $120 as Trump signals Iran war may end",
+    "desc": "Oil prices retreated Tuesday after briefly surpassing $100 a barrel, as diplomatic hopes for the Middle East conflict emerged. Despite Iran's strong warnings against regional oil exports, markets are considering US options like easing Russian sanctions and releasing strategic reserves. Analysts anticipate continued volatility, with Gulf producers also cutting output amid shipping disruptions.",
+    "img": "https://static.toiimg.com/photo/msid-129371093,imgsize-39284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-slides-6-after-touching-nearly-120-as-trump-signals-iran-war-may-end/articleshow/129370843.cms",
+    "time": "2026-03-10T03:32:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rahul Sadasivan to team up with Manju and Prithviraj",
+    "desc": "Following acclaimed horror hits like 'Bramayugam' and 'Bhoothakaalam', director Rahul Sadasivan is reportedly gearing up for his next chilling project. Early buzz suggests a stellar ensemble cast, with Manju Warrier and Prithviraj Sukumaran rumored to be in lead roles. While official details remain scarce, this promising venture is already generating significant excitement among fans of the genre.",
+    "img": "https://static.toiimg.com/photo/msid-129370897,imgsize-111260.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/rahul-sadasivans-next-horror-film-in-the-works-manju-warrier-and-prithviraj-sukumaran-likely-to-star-reports/articleshow/129370897.cms",
+    "time": "2026-03-10T03:30:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Avengers: Doomsday': Lewis Pullman teases unexpected pairings",
+    "desc": "Doomsday' will give every superhero a significant role, avoiding background appearances. He teased unexpected character pairings and the directors' commitment to showcasing the immense talent. The film, helmed by the Russo Brothers, promises exciting team-ups and is slated for a December 18 release.",
+    "img": "https://static.toiimg.com/photo/msid-129369882,imgsize-165866.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-doomsday-star-lewis-pullman-assures-25-superhero-appearances-will-not-be-cameos/articleshow/129369777.cms",
+    "time": "2026-03-10T03:23:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Perfect finish to a not-so-perfect T20 World Cup campaign",
+    "desc": "Defending champions India clinched their third T20 World Cup title, overcoming a challenging campaign to defeat New Zealand in the final. Despite a shaky start and testing Super 8 matches, stellar performances from Sanju Samson and Ishan Kishan, along with crucial contributions from a bowling unit led by Jasprit Bumrah, powered India to a historic victory at home.",
+    "img": "https://static.toiimg.com/photo/msid-129369912,imgsize-567022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/team-india-report-card-perfect-finish-to-a-not-so-perfect-t20-world-cup-2026/articleshow/129369539.cms",
+    "time": "2026-03-10T03:21:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jack White addresses his comment about Taylor Swift after backlash",
+    "desc": "Jack White clarified his recent remarks on Taylor Swift's songwriting, stating he never called her music 'boring.' He explained his personal preference for not writing about himself, emphasizing respect for artists who choose different approaches. White's comments followed backlash after he expressed finding extensive personal narratives in pop songs, like Swift's, uninteresting for his own creative process.",
+    "img": "https://static.toiimg.com/photo/msid-129369971,imgsize-115570.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rock-singer-jack-white-clarifies-his-comments-on-taylor-swift-says-he-did-not-call-her-music-boring/articleshow/129369971.cms",
+    "time": "2026-03-10T03:19:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Preity enjoys T20 WC match with Salman's close friend Iulia",
+    "desc": "Actress Preity Zinta celebrated India's ICC Men's T20 World Cup victory alongside Iulia Vantur, Salman Khan's friend, from the stadium. Zinta shared her excitement, calling it a special feeling to witness the historic win live. The actress, now based in the US, recently returned to Mumbai and is set to appear in 'Lahore 1947'.",
+    "img": "https://static.toiimg.com/photo/msid-129370379,imgsize-108746.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/preity-zinta-enjoys-india-vs-new-zealand-t20-world-cup-match-with-salman-khans-close-friend-iulia-vantur-drops-post/articleshow/129370379.cms",
+    "time": "2026-03-10T03:16:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock market recommendations for March 10, 2026",
+    "desc": "Aurobindo Pharma Ltd, and Bharat Dynamic are the top buy calls by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan for March 10, 2026. Persistent is a sell call by the analyst. We take a look:",
+    "img": "https://static.toiimg.com/photo/msid-129370327,imgsize-100320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-march-10-2026-aurobindo-pharma-bharat-dynamic-persistent-stocks-to-buy-or-sell-today/articleshow/129370091.cms",
+    "time": "2026-03-10T03:13:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court approves Centre's proposal extending term of tribunal members",
+    "desc": "Everybody who was appointed under the Tribunal Reforms Act of 2021 will continue. By next September, either this Budget session or the Monsoon session, a new law is likely to be enacted, says Attorney General R Venkataramani adding that about 21 members are due to retire in the meantime.",
+    "img": "https://th-i.thgim.com/public/incoming/ewq76d/article70724944.ece/alternates/LANDSCAPE_1200/Supreme-Court-sG21FK23VG.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-approves-centres-proposal-extending-term-of-tribunal-members/article70724939.ece",
+    "time": "2026-03-10T03:11:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "West Asia conflict oil hike, market reactions LIVE: U.S. stocks erase big early loss and rise after oil prices whip back below $90",
+    "desc": "Investors, already spooked by concerns over extended tech valuations and the huge spending on AI, ran for the hills earlier in the day as crude rocketed to its highest level since the Russian invasion of Ukraine in 2022",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/crude-oil-price-today-march-9-iran-israel-us-war-brent-prices-surge-west-asia-crisis-stock-market-updates/article70721132.ece",
+    "time": "2026-03-10T03:07:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vishwak Sen and Kayadu Lohar's 'Funky' OTT release details",
+    "desc": "Vishwak Sen and Kayadu Lohar's comedy-drama 'Funky,' released in theatres on February 13, 2026, is now heading to Netflix for its digital debut on March 13, 2026. The film, directed by KV Anudeep, follows an aspiring filmmaker whose project faces budget issues, leading to unexpected turns. It will be available in Telugu, Tamil, Hindi, Kannada, and Malayalam.",
+    "img": "https://static.toiimg.com/photo/msid-129369251,imgsize-180066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/funky-ott-vishwak-sen-and-kayadu-lohar-starrer-comedy-drama-to-stream-from-this-date-find-out/articleshow/129369251.cms",
+    "time": "2026-03-10T02:50:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Kospi jumps 6%, Nikkei up 1,600 points; markets rally as oil prices relax",
+    "desc": "Asian stocks rallied Tuesday as oil prices eased from near $120 to around $90 per barrel. This followed comments from US President Donald Trump suggesting the war was nearing its end, sparking hopes of supply normalization. Markets experienced significant volatility, with analysts warning of continued fluctuations due to the fluid geopolitical landscape.",
+    "img": "https://static.toiimg.com/photo/msid-129369022,imgsize-2145090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-kospi-jumps-6-nikkei-up-1600-points-markets-rally-as-oil-prices-relax/articleshow/129367668.cms",
+    "time": "2026-03-10T02:46:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Commercial LPG cylinders remain unfilled  at bottling plants of OMC’s",
+    "desc": "Distributors of Indian Oil, Bharat Petroleum, and Hindustan Petroleum confirm that bottling of commercial cylinders had been stopped at the plants. Hotels, restaurants, small eateries, and tea stalls take the hit and initiate stringency measures",
+    "img": "https://th-i.thgim.com/public/incoming/otsqtp/article70723798.ece/alternates/LANDSCAPE_1200/IMG_2615_1_11_2021_14_23_5_1_LOBE9M0O.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/commercial-lpg-cylinders-remain-unfilledat-bottling-plants-of-omcs/article70723543.ece",
+    "time": "2026-03-10T02:35:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hailey Bieber on how Justin Bieber helps her deal with hate comments",
+    "desc": "During a candid interview, Hailey Bieber highlighted how her husband, Justin Bieber, plays a crucial role in helping her cope with the harsh realities of public life, including the often cruel comments she encounters. Justin's background in the industry gives him unique insight into her struggles, making his support truly invaluable.",
+    "img": "https://static.toiimg.com/photo/msid-129368248,imgsize-66942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/hailey-bieber-addresses-public-comments-shares-how-beau-justin-bieber-helped-her-through-it-all/articleshow/129368248.cms",
+    "time": "2026-03-10T02:31:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Emma Slater and ex Sasha Farber go viral with a video joke",
+    "desc": "Dancing With the Stars pros Emma Slater and Sasha Farber are winning hearts with their amicable post-divorce friendship. A viral TikTok video shows them playfully joking about their past relationship, proving exes can indeed remain supportive. Fans laud their maturity, highlighting a healthy separation and continued camaraderie, even as they move forward in their lives.",
+    "img": "https://static.toiimg.com/photo/msid-129368486,imgsize-955422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/emma-slater-and-ex-husband-sasha-farber-joke-about-their-past-in-a-viral-video-showing-a-friendly-post-divorce-bond/articleshow/129368532.cms",
+    "time": "2026-03-10T02:26:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "reading the Supreme Court’s order",
+    "desc": "Why did the Supreme Court order the deployment of judicial officers to decide electoral roll disputes in West Bengal? What triggered the debate of whether the Election Commission should be equipped with permanent staff? With 60 lakh cases pending adjudication, what does publication of final rolls mean?",
+    "img": "https://th-i.thgim.com/public/incoming/2bm6a7/article70723916.ece/alternates/LANDSCAPE_1200/PTI03_06_2026_000249A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/west-bengal-sir-test-reading-the-supreme-courts-order/article70722401.ece",
+    "time": "2026-03-10T02:20:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar 2 premium seat costs Rs 2900; sold over 2.7L tickets",
+    "desc": "The Revenge' is palpable, with ticket pricing varying widely—starting at just Rs 59 in Chennai to a whopping Rs 2900 for luxury seating in Mumbai. With over 2.75 lakh tickets already snapped up, the film has raked in Rs 13.75 crore through advance sales, setting the stage to potentially surpass 'OG's' preview box office slam. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129368066,imgsize-214028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-the-revenge-sees-strong-advance-booking-with-2-75-lakh-tickets-sold-in-india-premium-seat-prices-are-up-to-rs-2900/articleshow/129368066.cms",
+    "time": "2026-03-10T02:19:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Not Priyanka, fans think Malti looks like Madhu",
+    "desc": "Priyanka Chopra's International Women's Day throwback featured a childhood photo of her mother, Madhu Chopra, sparking fan comments about her granddaughter Malti Marie's striking resemblance. Chopra also shared candid details about Malti's premature birth and the difficult decision to announce her arrival due to a leak, emphasizing her daughter is a 'miracle baby'.",
+    "img": "https://static.toiimg.com/photo/msid-129367338,imgsize-111758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopras-fans-think-daughter-malti-marie-looks-exactly-like-dadi-madhu-chopra-pic/articleshow/129367303.cms",
+    "time": "2026-03-10T02:14:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mehbooba Mufti, NC MPs from J&K visit Iran Embassy in Delhi to express condolences",
+    "desc": "“We pray that Iran emerges as victorious in its fight against evil, as it stands alone. It seems all those whose names surfaced in the Epstein files are standing with Israel,” the PDP chief said",
+    "img": "https://th-i.thgim.com/public/incoming/b5zlzq/article70724873.ece/alternates/LANDSCAPE_1200/PTI03_09_2026_000273B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/khamenei-killing-mehbooba-mufti-nc-mps-from-jk-visit-iran-embassy-in-delhi-to-express-condolences/article70723280.ece",
+    "time": "2026-03-10T02:07:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘One Piece Season 2’ release date, premiere time in India",
+    "desc": "The highly anticipated 'One Piece Season 2' arrives on Netflix India on March 10, 2026, with all eight episodes dropping simultaneously. Fans can expect a total runtime of approximately 481 minutes, covering key locations and introducing new characters as the Straw Hat crew continues their quest for the One Piece treasure.",
+    "img": "https://static.toiimg.com/photo/msid-129367711,imgsize-108912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/anime/one-piece-season-2-release-date-premiere-time-in-india-where-to-watch-and-episode-details/articleshow/129367716.cms",
+    "time": "2026-03-10T02:02:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Reliance, Ambuja Cements &amp; more: Top stocks to watch on March 10",
+    "desc": "Analysts are bullish on Reliance Industries, citing strong refining margins and a recovering chemical cycle. Interglobe Aviation sees a target upgrade amid peer losses, while AU Small Finance Bank receives a neutral rating due to RBI norm changes. Ambuja Cements is favored for its cost efficiencies and expansion plans.",
+    "img": "https://static.toiimg.com/photo/msid-129367128,imgsize-52870.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/reliance-industries-interglobe-aviation-au-small-finance-bank-ambuja-cement-nippon-india-amc-top-stocks-to-watch-on-march-10-2026/articleshow/129367021.cms",
+    "time": "2026-03-10T01:48:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay seeks 15 days",
+    "desc": "Actor-politician Thalapathy Vijay has been summoned by the CBI for questioning in the Karur Stampede case. He has requested a 15-day extension due to election campaigning and a change of location from Delhi to Chennai. Meanwhile, a viral appearance with Trisha at a wedding reception occurred amidst personal life rumours, which Vijay addressed, urging fans not to worry.",
+    "img": "https://static.toiimg.com/photo/msid-129366822,imgsize-57442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karur-stampede-case-jana-nayagan-star-vijay-seeks-15-days-from-cbi-for-questioning/articleshow/129366822.cms",
+    "time": "2026-03-10T01:42:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift credited for return",
+    "desc": "Travis Kelce is set to don the Kansas City Chiefs jersey once more, bringing joy not only to fans but also to his quarterback Patrick Mahomes. Sources indicate that his relationship with Taylor Swift has been a key motivator in this decision, as the duo has opted to sideline wedding discussions to prioritize Kelce's career and personal fulfillment.",
+    "img": "https://static.toiimg.com/photo/msid-129366700,imgsize-142204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/travis-kelces-return-linked-to-taylor-swift-patrick-mahomes-reacts-to-news-of-nfl-star-rejoining-the-kansas-city-chiefs/articleshow/129366700.cms",
+    "time": "2026-03-10T01:41:42.000Z"
+  },
+  {
     "cat": "World",
     "title": "May or may not be a \"friendly takeover\"",
     "desc": "The Cuban ​government has said it is not in ⁠any high-level talks with the United States but has not outright ‌denied press reports that U.S. officials may be in informal talks with Raul Guillermo Rodriguez Castro",
@@ -36,15 +279,6 @@ const newsData_en = [
     "time": "2026-03-10T01:23:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Mehbooba Mufti, NC MPs from J&K visit Iran Embassy in Delhi to express condolences",
-    "desc": "“We pray that Iran emerges as victorious in its fight against evil, as it stands alone. It seems all those whose names surfaced in the Epstein files are standing with Israel,” the PDP chief said",
-    "img": "https://th-i.thgim.com/public/incoming/b5zlzq/article70724873.ece/alternates/LANDSCAPE_1200/PTI03_09_2026_000273B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/khamenei-killing-mehbooba-mufti-nc-mps-from-jk-visit-iran-embassy-in-delhi-to-express-condolences/article70723280.ece",
-    "time": "2026-03-10T00:57:57.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'One Piece' to 'Alice in Borderland': 5 must-watch live-action series adapted from Japanese manga",
     "desc": "Manga has quietly taken over the world, and honestly, the live-action adaptations are finally doing it justice. What started as a niche corner of Japanese pop culture has exploded into some of the most gripping, visually stunning television on streaming right now. Whether you're a longtime manga reader or someone who simply stumbled onto ‘One Piece’ and got completely hooked, these seven series are worth every minute of your time.",
@@ -54,67 +288,49 @@ const newsData_en = [
     "time": "2026-03-10T00:57:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Timothee's 2019 comments on 'opera and ballet' resurface",
-    "desc": "Timothée Chalamet faces backlash for calling ballet and opera 'dying art forms.' Older interviews reveal similar sentiments, sparking criticism from artists and fans. Despite his family's ballet background, Chalamet's remarks contradict his advocacy for saving cinema, adding fuel to the controversy as Oscar buzz shifts.",
-    "img": "https://static.toiimg.com/photo/msid-129364659,imgsize-43672.cms",
+    "cat": "Sports",
+    "title": "'Dream is to play senior WC': Yash Dhull opens up on heart surgery and comeback",
+    "desc": "Under-19 World Cup-winning captain Yash Dhull faced a challenging period after heart surgery, battling a strong desire to return to cricket. Despite initial setbacks and a risky recovery, Dhull's focus remains on regaining fitness and aiming for a senior World Cup appearance, drawing inspiration from senior players and preparing for future opportunities.",
+    "img": "https://static.toiimg.com/photo/msid-129340245,imgsize-62802.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothee-chalamets-2019-comments-on-opera-and-ballet-resurface-amid-controversy-netizens-say-this-isnt-his-first-time-saying-this/articleshow/129364123.cms",
-    "time": "2026-03-10T00:54:53.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dream-is-to-play-senior-world-cup-yash-dhull-opens-up-on-heart-surgery-and-comeback-exclusive/articleshow/129339475.cms",
+    "time": "2026-03-10T00:43:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "All about Mahesh Babu’s home in Hyderabad",
-    "desc": "Superstar Mahesh Babu, known for his down-to-earth nature, resides in a lavish yet serene Rs 28 crore bungalow in Hyderabad's Jubilee Hills. The home boasts an indoor pool, library, and personalized garden. Babu, who began acting as a child, is married to Namrata Shirodkar, and they have two children. He is currently preparing for SS Rajamouli's upcoming film, 'Varanai'.",
-    "img": "https://static.toiimg.com/photo/msid-129364977,imgsize-96724.cms",
+    "cat": "Sports",
+    "title": "ICC breaks silence on bias claims after England exit leaves WI, SA stuck in India",
+    "desc": "Travel chaos has stranded West Indies and South Africa teams in India post-T20 World Cup due to Middle East airspace restrictions. Accusations of ICC bias arose after England departed earlier, but the council denies preferential treatment, citing logistical factors like airspace availability and routing permissions as the sole determinants for departure sequencing.",
+    "img": "https://static.toiimg.com/photo/msid-129335355,imgsize-1329956.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/a-look-inside-mahesh-babus-serene-home-in-jubilee-hills-a-mix-of-gold-and-green/articleshow/129364977.cms",
-    "time": "2026-03-10T00:48:31.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-breaks-silence-on-bias-claims-after-england-exit-leaves-west-indies-south-africa-stuck-in-india/articleshow/129334932.cms",
+    "time": "2026-03-10T00:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Steve Carell returns to TV comedy with heartfelt campus series ‘Rooster’",
-    "desc": "Steve Carell returns to television comedy in 'Rooster,' a heartfelt series about fatherhood. He plays Greg Russo, a devoted dad navigating campus life to support his daughter. Carell was drawn to the project's authentic script and the collaborative spirit fostered by co-creator Bill Lawrence.",
-    "img": "https://static.toiimg.com/photo/msid-129365118,imgsize-791120.cms",
+    "cat": "Sports",
+    "title": "'Pani pilana, bat uthana': Siraj's viral dig on his &amp; Kuldeep's role in T20 WC",
+    "desc": "Mohammed Siraj humorously described his role as a water carrier and bat holder after India's T20 World Cup 2026 victory. Despite not playing regularly, Siraj emphasized the importance of team combination over individual players, highlighting the positive environment maintained by those on the sidelines.",
+    "img": "https://static.toiimg.com/photo/msid-129343255,imgsize-46002.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/steve-carell-returns-to-tv-comedy-with-rooster-his-first-lead-sitcom-since-the-office/articleshow/129365124.cms",
-    "time": "2026-03-10T00:47:35.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pani-pilana-bat-uthana-mohammed-sirajs-viral-dig-on-his-and-kuldeep-yadavs-role-in-t20-world-cup-triumph/articleshow/129342984.cms",
+    "time": "2026-03-10T00:00:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ravi Teja's 'BMW' OTT release date CONFIRMED",
-    "desc": "Telugu comedy-drama 'Bhartha Mahasayulaku Wignyapthi' is set for its ZEE5 digital premiere on March 13, following its theatrical release. The film, starring Ravi Teja, explores a winemaker's chaotic personal life entangled with two women. Available in Telugu, Tamil, Kannada, and Malayalam, it features comedians Vennela Kishore, Sunil, and Satya.",
-    "img": "https://static.toiimg.com/photo/msid-129364124,imgsize-207886.cms",
+    "cat": "Sports",
+    "title": "The 25-minute talk that changed Sanju Samson's World Cup",
+    "desc": "Sanju Samson revealed a new T20 World Cup game plan, learning from past failures to regain form and play a key role in India's title win. He also shared how advice from Sachin Tendulkar during difficult phases proved invaluable. Samson emphasized managing social media's impact and controlling outside noise to focus on cricket.",
+    "img": "https://static.toiimg.com/photo/msid-129340856,imgsize-91884.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/bhartha-mahasayulaku-wignyapthi-ott-release-date-confirmed-ravi-teja-starrer-to-stream-on-this-date/articleshow/129364124.cms",
-    "time": "2026-03-10T00:19:57.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/the-25-minute-talk-that-changed-sanju-samsons-world-cup/articleshow/129340714.cms",
+    "time": "2026-03-09T23:31:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Kerala Story 2' CROSSES Rs 35 crore mark on Day 11",
-    "desc": "'The Kerala Story 2 Goes Beyond' finds itself in a challenging position at the box office, pulling in Rs 1.85 crore on its eleventh day and totaling Rs 34.70 crore so far. This figure starkly contrasts with its predecessor's impressive Rs 146.59 crore during the same timeframe, signaling a decrease in audience interest despite the original’s strong reception. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129363677,imgsize-108150.cms",
+    "cat": "Sports",
+    "title": "'Not about spin matchups': Gambhir reveals real reason behind Samson’s recall",
+    "desc": "India's head coach Gautam Gambhir revealed Sanju Samson's return aimed to inject more attacking firepower into the top order, not to counter specific bowlers. The management prioritizes aggressive intent and explosive batting in the powerplay, believing Samson significantly enhances this strategy. Gambhir emphasized skill over theoretical matchups, fostering a relaxed team environment.",
+    "img": "https://static.toiimg.com/photo/msid-129342045,imgsize-248362.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-11-film-sails-past-rs-35-crore-despite-dip-on-second-monday/articleshow/129363677.cms",
-    "time": "2026-03-10T00:07:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Thaai Kizhavi' BO day 12: collects Rs 43.42 cr",
-    "desc": "Radhikaa Sarathkumar's 'Thaai Kizhavi' is performing steadily, raking in ₹43.42 crore gross by Day 12. Despite a weekday dip, the film maintained momentum, boosted by a strong second weekend. The rural comedy-drama, centered on a matriarch's hidden gold, has garnered significant attention, prompting a closer look at its narrative and critical reception.",
-    "img": "https://static.toiimg.com/photo/msid-129363602,imgsize-193664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-box-office-collections-day-12-radhikaa-sarathkumar-starrer-collects-rs-43-42-cr-gross/articleshow/129363602.cms",
-    "time": "2026-03-10T00:03:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "James Cameron drops 'Avatar 4' update",
-    "desc": "Fire and Ash' has achieved blockbuster status, prompting discussions about 'Avatar 4'. The director indicated a sequel is likely, with potential for a larger role for the character Varang. Audience reactions, like those for Payakan, significantly influence character development in the franchise. 'Avatar 4' is slated for a 2029 release.",
-    "img": "https://static.toiimg.com/photo/msid-129362055,imgsize-147322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-cameron-gives-avatar-4-update-says-next-instalment-to-focus-on-varang/articleshow/129362022.cms",
-    "time": "2026-03-09T23:52:55.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/not-about-spin-matchups-gautam-gambhir-reveals-real-reason-behind-sanju-samsons-recall-watch/articleshow/129342107.cms",
+    "time": "2026-03-09T23:30:00.000Z"
   },
   {
     "cat": "Politics",
@@ -124,51 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/opposition-likely-to-move-notice-for-cec-removal/articleshow/129362199.cms",
     "time": "2026-03-09T23:12:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Noah Beck joins cast of 'Baywatch' reboot",
-    "desc": "Actor Noah Beck is set to make waves in the upcoming 'Baywatch' reboot, joining the cast as a series regular. He'll portray Luke, a charming rookie lifeguard with a hidden depth, mentored by Captain Hobie Buchannon. Production begins soon in Los Angeles, with a 2026-2027 premiere on Fox. Beck also stars in the film 'BATON'.",
-    "img": "https://static.toiimg.com/photo/msid-129360607,imgsize-90464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/noah-beck-joins-cast-of-upcoming-baywatch-series-details-inside/articleshow/129360252.cms",
-    "time": "2026-03-09T22:50:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Krishna recalls Ayesha leaving affluent life to live in a chawl",
-    "desc": "Krishna Shroff recently opened up about her childhood and family life during a conversation on The 50. The daughter of actor Jackie Shroff said that despite growing up in a film family, she and her brother had a very normal upbringing and were largely kept away from the industry’s glamour.",
-    "img": "https://static.toiimg.com/photo/msid-129359483,imgsize-74468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/krishna-shroff-recalls-mom-ayesha-shroff-leaving-affluent-life-to-live-in-a-chawl-with-jackie-shroff-we-had-such-a-normal-upbringing/articleshow/129359483.cms",
-    "time": "2026-03-09T22:19:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "West Asia conflict oil hike, market reactions highlights: Crude oil prices slip back below $90; Rupee closes at all-time low",
-    "desc": "Investors, already spooked by concerns over extended tech valuations and the huge spending on AI, ran for the hills earlier in the day as crude rocketed to its highest level since the Russian invasion of Ukraine in 2022",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/crude-oil-price-today-march-9-iran-israel-us-war-brent-prices-surge-west-asia-crisis-stock-market-updates/article70721132.ece",
-    "time": "2026-03-09T22:16:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rihanna's home shooter JAILED; bail set at USD 10 million",
-    "desc": "A woman, Ivanna Lisette Ortiz, has been arrested and faces attempted murder charges after allegedly firing approximately ten shots from a white Tesla outside singer Rihanna's Los Angeles mansion. The incident occurred Sunday afternoon while Rihanna and her children were reportedly home. Police recovered an AR-15-style rifle and set bail at over $10 million.",
-    "img": "https://static.toiimg.com/photo/msid-129357092,imgsize-100532.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rihannas-la-home-shooter-jailed-on-suspicion-of-attempted-murder-bail-set-at-usd-10-million/articleshow/129357051.cms",
-    "time": "2026-03-09T21:57:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Navjot Singh Sidhu says Malaika Arora has an entourage of 56",
-    "desc": "Navjot Singh Sidhu and Malaika Arora shared a playful reunion on the latest episode of The Great Indian Kapil Show. The two, who recently judged India’s Got Talent Season 11 together, were full of praise for each other, with Sidhu even jokingly flirting with Malaika during the conversation hosted by Kapil Sharma.",
-    "img": "https://static.toiimg.com/photo/msid-129357101,imgsize-111750.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/navjot-singh-sidhu-says-malaika-arora-has-an-entourage-of-56-calls-her-a-grounded-celebrity-my-love-for-her-is-such-that-/articleshow/129357101.cms",
-    "time": "2026-03-09T21:30:42.000Z"
   },
   {
     "cat": "Politics",
@@ -187,15 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/west-asia-conflict-crude-oil-prices-surge-stock-markets-forex-markets-on-march-9-2026/article70721155.ece",
     "time": "2026-03-09T20:31:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Urvashi Rautela reaches Mumbai after leaving Kuwait",
-    "desc": "Amid escalating tensions in the Middle East following the conflict between Israel and Iran, actor Urvashi Rautela shared an emotional update while leaving Kuwait. The actress later confirmed that she had safely reached Mumbai. Taking to Instagram Stories, Urvashi opened up about the sudden fear she experienced while boarding the flight out of Kuwait. The actress admitted that the anxiety hit her unexpectedly once she was seated on the plane.",
-    "img": "https://static.toiimg.com/photo/msid-129354911,imgsize-82174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/urvashi-rautela-reaches-mumbai-after-leaving-kuwait-amid-middle-east-tensions-i-started-feeling-really-scared-all-of-a-sudden/articleshow/129354911.cms",
-    "time": "2026-03-09T20:21:55.000Z"
   },
   {
     "cat": "Politics",
@@ -223,24 +385,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-how-iran-is-fighting-back-against-us-and-israel/article70724008.ece",
     "time": "2026-03-09T20:13:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bellamkonda Sai Sreenivas introduces life partner Kavya Reddy",
-    "desc": "Bellamkonda Sai Sreenivas has seemingly entered a new chapter in his personal life. The actor, who is the elder son of producer Bellamkonda Suresh, recently introduced Kavya Reddy as the special person in his life during a private family gathering in Hyderabad. While reports initially suggested that the actor had gotten engaged, Sreenivas clarified that the event was only a small family announcement and that the actual engagement and wedding celebrations are yet to take place.",
-    "img": "https://static.toiimg.com/photo/msid-129352611,imgsize-117290.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/bellamkonda-sai-sreenivas-introduces-his-life-partner-kavya-reddy-clarifies-engagement-and-wedding-dates-will-be-announced-soon/articleshow/129352611.cms",
-    "time": "2026-03-09T19:19:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Commercial LPG cylinders remain unfilled  at bottling plants of OMC’s",
-    "desc": "Distributors of Indian Oil, Bharat Petroleum, and Hindustan Petroleum confirm that bottling of commercial cylinders had been stopped at the plants. Hotels, restaurants, small eateries, and tea stalls take the hit and initiate stringency measures",
-    "img": "https://th-i.thgim.com/public/incoming/otsqtp/article70723798.ece/alternates/LANDSCAPE_1200/IMG_2615_1_11_2021_14_23_5_1_LOBE9M0O.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/commercial-lpg-cylinders-remain-unfilledat-bottling-plants-of-omcs/article70723543.ece",
-    "time": "2026-03-09T19:13:12.000Z"
   },
   {
     "cat": "Business",
@@ -277,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/government-working-to-optimise-gas-supply-as-gulf-war-hits-lng-flow/articleshow/129350675.cms",
     "time": "2026-03-09T18:56:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aamir Khan's 'Sitaare Zameen Par' set for OTT release",
-    "desc": "Aamir Khan's film 'Sitaare Zameen Par' is now available on SonyLIV. This marks the first Hindi theatrical film to debut on the platform. Previously, the movie was accessible via a pay-per-view model on Khan's YouTube channel. The sports comedy-drama, an adaptation of the Spanish film 'Champions', achieved significant box office success. It stars Aamir Khan and Genelia Deshmukh.",
-    "img": "https://static.toiimg.com/photo/msid-129350359,imgsize-42212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khans-sitaare-zameen-par-set-for-ott-release-on-a-streaming-platform-after-youtube-pay-per-view-model-heres-where-you-can-watch-it/articleshow/129350355.cms",
-    "time": "2026-03-09T18:26:18.000Z"
   },
   {
     "cat": "Politics",
@@ -397,15 +532,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Shahid Afridi slapped Mohammad Amir': Razzaq's explosive claim",
-    "desc": "A friend's phone repair inadvertently exposed the 2010 spot-fixing plot, revealing messages between a fixer and Pakistan players. Former selector Abdul Razzaq detailed how captain Shahid Afridi confronted young pacer Mohammad Amir, leading to a confession after a slap. This revelation ultimately brought the scandal to light, resulting in bans and jail time for the involved cricketers.",
-    "img": "https://static.toiimg.com/photo/msid-129327714,imgsize-49184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shahid-afridi-slapped-mohammad-amir-during-2010-fixing-scandal-abdul-razzaqs-explosive-claim/articleshow/129327724.cms",
-    "time": "2026-03-09T10:37:18.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Not punishment': Pakistan coach breaks silence on Babar Azam exclusion",
     "desc": "Pakistan's white-ball coach Mike Hesson clarified that senior players' absence from the Bangladesh ODI series isn't punishment for the T20 World Cup exit. He emphasized it's an opportunity to test emerging talent, citing players like Sahabzada Farhan and Shamyl Hussain. However, former pacer Sikander Bakht alleged Hesson overruled selectors during World Cup squad finalization, creating internal friction.",
     "img": "https://static.toiimg.com/photo/msid-129327496,imgsize-168174.cms",
@@ -421,15 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/shahid-kapoor-starts-shooting-for-raj-amp-dks-farzi-2/article70721919.ece",
     "time": "2026-03-09T10:05:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Paaji, kade hass vi leya karo': Arshdeep trolls Gambhir",
-    "desc": "Team India clinched their third T20 World Cup title, defeating New Zealand in a thrilling final. Celebrations erupted as players, including Arshdeep Singh playfully teasing head coach Gautam Gambhir, shared their joy. Captain Suryakumar Yadav highlighted the importance of mental resilience and team understanding in their historic home victory.",
-    "img": "https://static.toiimg.com/photo/msid-129325816,imgsize-40682.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/paaji-kade-hass-vi-leya-karo-arshdeep-singh-trolls-gautam-gambhir-after-t20-world-cup-win-watch/articleshow/129325545.cms",
-    "time": "2026-03-09T10:00:59.000Z"
   },
   {
     "cat": "Sports",
@@ -451,15 +568,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'I am leaving Pakistan cricket': 24-year-old quits game, alleges corruption",
-    "desc": "A 24-year-old cricketer from Sialkot, Shahzaib Bhatti, has announced his departure from Pakistan cricket, citing politics, corruption, and a lack of structure in the domestic system. Despite playing a crucial role in his team's Quaid-e-Azam Trophy win, Bhatti claims he was sidelined for nearly 40 matches, leading him to abandon his dream of representing Pakistan.",
-    "img": "https://static.toiimg.com/photo/msid-129324470,imgsize-42740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-am-leaving-pakistan-cricket-24-year-old-quits-game-alleges-corruption/articleshow/129324478.cms",
-    "time": "2026-03-09T09:33:51.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "A true Kerala story",
     "desc": "Sanju Samson had scored just 46 runs from five matches against New Zealand. In the off chance he earned against Namibia, things didn't get any better. But luck did shine on him after all, and he repaid the backing with absolute tenacity, finishing as the Player of the Tournament and India's highest run-scorer in a T20 World Cup.",
     "img": "https://static.toiimg.com/photo/msid-129323031,imgsize-92436.cms",
@@ -477,33 +585,6 @@ const newsData_en = [
     "time": "2026-03-09T09:00:17.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Great seeing you’: Gambhir responds after Dhoni’s ‘smile looks great on you’ post",
-    "desc": "MS Dhoni's return to Instagram after two years celebrated India's T20 World Cup victory with a playful jab at coach Gautam Gambhir's intense persona. Gambhir responded warmly, acknowledging Dhoni's presence. This rare social media exchange between the cricketing legends, who shared iconic World Cup wins, delighted fans after India's dominant final performance.",
-    "img": "https://static.toiimg.com/photo/msid-129322512,imgsize-57416.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/great-seeing-you-gautam-gambhir-responds-after-ms-dhonis-viral-coach-sahab-smile-looks-great-on-you-post/articleshow/129322247.cms",
-    "time": "2026-03-09T08:52:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Always believed in miracles’: How Samson, Bumrah and India’s stars celebrated",
-    "desc": "India has won the 2026 T20 World Cup. The team defeated New Zealand in the final. Players shared their joy on social media. This marks India's third T20 World Cup title. It is also the first time a team has won the tournament at home. India achieved back-to-back victories. Celebrations erupted across the nation.",
-    "img": "https://static.toiimg.com/photo/msid-129321372,imgsize-350910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/always-believed-in-miracles-how-sanju-samson-jasprit-bumrah-and-indias-stars-celebrated-t20-world-cup-triumph/articleshow/129320432.cms",
-    "time": "2026-03-09T08:28:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Don’t remember any time we had an argument’: Surya on partnership with Gambhir",
-    "desc": "India's T20 World Cup triumph highlights the strong captain-coach bond between Suryakumar Yadav and Gautam Gambhir. Their seamless understanding and shared vision have led to smooth decision-making and minimal selection debates. Yadav also emphasised investing in players during tough times and fostering open communication in the dressing room for sustained success.",
-    "img": "https://static.toiimg.com/photo/msid-129320845,imgsize-92786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-dont-remember-any-time-we-had-an-argument-suryakumar-yadav-on-why-his-partnership-with-gautam-gambhir-works/articleshow/129320795.cms",
-    "time": "2026-03-09T08:15:21.000Z"
-  },
-  {
     "cat": "World",
     "title": "Oil and Iran-U.S. war: Key takeaways in graphics",
     "desc": "As the Iran-U.S. war extended past its first week, Brent crude oil reached a two-year high of $114 per barrel on the Chicago mercantile exchange. How can oil production and exports be affected in the war? Here are graphics to explain.",
@@ -511,15 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/oil-and-iran-us-war-key-takeaways-in-graphics/article70721149.ece",
     "time": "2026-03-09T08:02:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Stubborn cricketer, instinctive coach and a man who owns the big nights",
-    "desc": "Gautam Gambhir was India's MVP in their two World Cup triumphs, the 2007 T20 World Cup and the 2011 ODI World Cup. In both finals, he stepped up on the big occasion. Whether it was his 54-ball 75 against arch-rivals Pakistan in Johannesburg or the crafty 97 that steered India to victory in Mumbai four years later, Gambhir proved to be a force in ICC tournaments. Now, as a coach, he has added a World Cup to his resume.",
-    "img": "https://static.toiimg.com/photo/msid-129319226,imgsize-79300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/gautam-gambhir-stubborn-cricketer-instinctive-coach-and-a-man-who-owns-the-big-nights/articleshow/129318862.cms",
-    "time": "2026-03-09T07:44:20.000Z"
   },
   {
     "cat": "World",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/one-piece-creator-eiichiro-oda-hides-series-biggest-secret-under-the-ocean-as-manga-hits-600-million-copies/article70702244.ece",
     "time": "2026-03-04T05:43:50.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Anthropic’s resistance to the U.S. Department of Defence, OpenAI’s entry: Explained",
-    "desc": "The Dario Amodei-led firm refused to cooperate with the U.S. government’s demands that the firm’s products be used in the deployment of autonomous strikes. The firm has been threatened with being designated as a “supply chain risk”",
-    "img": "https://th-i.thgim.com/public/incoming/r2lf9o/article70698914.ece/alternates/LANDSCAPE_1200/2026-03-02T143303Z_571373715_RC2EWJADNSPA_RTRMADP_3_USA-PENTAGON-ANTHROPIC.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/anthropics-resistance-to-the-us-department-of-defense-openais-entry-explained/article70698887.ece",
-    "time": "2026-03-03T10:45:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Iranian filmmaker Mohammad Rasoulof calls Ayatollah Ali Khamenei ‘most hated figure’ after death in U.S.-Israel strike",
-    "desc": "Iranian director Mohammad Rasoulof, whose film ‘The Seed of the Sacred Fig’ won at Cannes, has condemned Ayatollah Ali Khamenei following the Supreme Leader’s death in a U.S.-Israel military strike, calling him “the most hated figure in the contemporary history of Iran”",
-    "img": "https://th-i.thgim.com/public/incoming/nbud4l/article70698472.ece/alternates/LANDSCAPE_1200/2154565571.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/iranian-filmmaker-mohammad-rasoulof-calls-ayatollah-ali-khamenei-most-hated-figure-after-death-in-us-israel-strike/article70698476.ece",
-    "time": "2026-03-03T07:59:50.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Govt. blocks Supabase website, popular among code developers",
-    "desc": "The site is used as a backend by several developers working on independent projects; a govt. official declined to discuss the specific reasons for the website’s blocking, but said that ‘information was being shared that should not have been shared’",
-    "img": "https://th-i.thgim.com/public/incoming/1j41f8/article70689048.ece/alternates/LANDSCAPE_1200/G6yd0LJWMAApjzY.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/govt-blocks-supabase-website-popular-among-code-developers/article70687836.ece",
-    "time": "2026-02-28T16:03:11.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
   }
 ];

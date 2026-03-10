@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Birmingham Phoenix name Jacob Bethell as captain ahead of The Hundred 2026",
+    "desc": "In a major development, The Hundred franchise Birmingham Phoenix has announced that star England batter Jacob Bethell will be their new skipper ahead of the upcoming season of The Hundred. Bethell will look to build...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/birmingham-phoenix-name-jacob-bethell-as-captain-ahead-of-the-hundred-2026-2026-03-10-1033218",
+    "time": "2026-03-10T03:45:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Annabel Sutherland rested as Australia women name squad for West Indies tour",
+    "desc": "Cricket Australia came forward and announced Australia women’s squad for the upcoming West Indies tour. It is worth noting that star all-rounder Annabel Sutherland will be rested for the West Indies tour. Furthermore, skipper Sophie...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/annabel-sutherland-rested-as-australia-women-name-squad-for-west-indies-tour-2026-03-10-1033211",
+    "time": "2026-03-10T02:23:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "New Zealand women announce T20I squad for five-game series against South Africa",
     "desc": "New Zealand women are all set to take on South Africa women in a multi-format white-ball series. The two sides will take on each other across five T20Is and three ODI matches. It is worth...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-tv-she-conclave-cricketer-shreyanka-patil-speaks-about-reason-she-chose-cricket-as-profession-2026-03-09-1033175",
     "time": "2026-03-09T12:10:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav names Olympic gold as top priority after T20 World Cup 2026 triumph",
-    "desc": "India defeated New Zealand by 96 runs to win the T20 World Cup 2026. The triumph made the Suryakumar Yadav-led side the first team to win back-to-back editions of the tournament and also lift the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-names-olympic-gold-as-top-priority-after-t20-world-cup-2026-triumph-2026-03-09-1033170",
-    "time": "2026-03-09T11:34:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kerala government to honour Sanju Samson after India's T20 World Cup 2026 triumph",
-    "desc": "Sanju Samson was not in team India’s plan leading to the T20 World Cup 2026. After a flop show in the New Zealand series, he was sidelined with Ishan Kishan and Abhishek Sharma announced as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kerala-government-to-honour-sanju-samson-after-india-s-t20-world-cup-2026-triumph-2026-03-09-1033159",
-    "time": "2026-03-09T10:21:44.000Z"
   }
 ];
