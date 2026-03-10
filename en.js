@@ -1,12 +1,228 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "‘Spineless, gutless’: Arundhati Roy slams Indian Government for not condemning U.S.-Israel attacks on Iran",
+    "desc": "What does it mean for our Prime Minister to have traveled to Israel and embraced Benyamin Netanyahu just days before he attacked Iran, for our government to sign a groveling trade deal with the U.S. that sells our farmers and textile industry down the river, for us to now be given ‘permission’ to buy oil from Russia, she asked",
+    "img": "https://th-i.thgim.com/public/incoming/w6fduw/article70725287.ece/alternates/LANDSCAPE_1200/AFP_97FQ4NQ.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/spineless-gutless-arundhati-roy-slams-indian-government-for-not-condemning-us-israel-attacks-on-iran/article70725224.ece",
+    "time": "2026-03-10T06:38:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition tries to raise SIR in Rajya Sabha, walks out after brief protests",
+    "desc": "In the Rajya Sabha, Leader of Opposition Mallikarjun Kharge spoke on the Special Intensive Revision of electoral rolls in many States and called the process \"fraud\"; Leader of House J.P. Nadda condemns Opposition for raising the issue after a debate on electoral reforms took place in the previous session",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/parliament-budget-session-march-10-2026-live-updates-sets-stage-for-fiery-session/article70724985.ece",
+    "time": "2026-03-10T06:35:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Timothée Chalamet faces backlash after comments dismissing ballet and opera",
+    "desc": "Chalamet has sparked backlash from performers and arts institutions after saying he would not want to work in ballet or opera because “no one cares about this anymore,” comments that have ignited debate across the performing arts community",
+    "img": "https://th-i.thgim.com/public/incoming/84xovo/article70725317.ece/alternates/LANDSCAPE_1200/2264285287.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/timothee-chalamet-faces-backlash-after-comments-dismissing-ballet-and-opera/article70725308.ece",
+    "time": "2026-03-10T06:32:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI announces Rs 131 crore reward for India after T20 World Cup 2026 triumph",
+    "desc": "Team India has been awarded a Rs 131 crore cash reward by the BCCI following their historic ICC Men's T20 World Cup 2026 victory. Dominating New Zealand by 96 runs in the final, India successfully defended their title, becoming the first team to win the T20 World Cup three times and solidifying their status as a premier cricketing nation.",
+    "img": "https://static.toiimg.com/photo/msid-129378128,imgsize-462960.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/bcci-announces-rs-131-crore-reward-for-india-after-t20-world-cup-2026-triumph/articleshow/129378140.cms",
+    "time": "2026-03-10T06:20:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Two Delhi-bound flights from Indore diverted to Bhopal; loose bitumen found on runway",
+    "desc": "Two IndiGo flights were diverted to Bhopal due to loose bitumen on Indore's runway during recarpeting work. The issue was resolved within 20 minutes, and operations resumed. Separately, a fire in dry grass at the non-operational area of Indore Airport caused no casualties or flight disruptions.",
+    "img": "https://static.toiimg.com/photo/msid-129378113,imgsize-1046378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/two-delhi-bound-flights-from-indore-diverted-to-bhopal-loose-bitumen-found-on-runway/articleshow/129378038.cms",
+    "time": "2026-03-10T06:19:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir denies changes in title of Sunny Deol's 'Lahore 1947'",
+    "desc": "In a recent statement, producer Aamir Khan firmly dismissed rumors surrounding a potential title change for the highly anticipated film, 'Lahore 1947'. Directed by the talented Rajkumar Santoshi and featuring Preity Zinta alongside Sunny Deol, the film is set to keep its original name and is scheduled for release on August 13, 2026. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129377611,imgsize-95388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-denies-changes-in-the-title-of-sunny-deol-starrer-lahore-1947-says-thats-how-i-would-like-it-to-be/articleshow/129377611.cms",
+    "time": "2026-03-10T06:11:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel-Iran war LIVE: Iran launches new attacks at Gulf Arab countries as it keeps up pressure on the region",
+    "desc": "Incoming missile sirens sounded early in the morning in the United Arab Emirates and Bahrain, while Saudi Arabia said it had destroyed two drones over its oil-rich eastern region and Kuwait's National Guard said it had show down six drones",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israel-iran-war-west-asia-conflict-march-10-2026-live-updates/article70724870.ece",
+    "time": "2026-03-10T06:08:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil prices drop to below $90: IndiGo, SpiceJet shares surge as Trump signals end of Iran war near",
+    "desc": "The rally in crude had taken prices past the crucial $100-per-barrel level for the first time since Russia’s invasion of Ukraine in 2022, amid fears that the Strait of Hormuz could remain shut for an extended period.",
+    "img": "https://static.toiimg.com/photo/msid-129377529,imgsize-42808.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/oil-prices-drop-to-below-90-indigo-spicejet-shares-surge-as-trump-signals-end-of-iran-war-near/articleshow/129377462.cms",
+    "time": "2026-03-10T06:07:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Feeling so proud’: Tharoor shares birthday call from Samson after T20 WC win",
+    "desc": "Congress MP Shashi Tharoor celebrated Sanju Samson's stellar T20 World Cup performances, revealing the cricketer called him on his birthday. Samson's remarkable comeback saw him deliver crucial match-winning innings, including a record-breaking 321 runs for India in a single edition. His consistent high scores in vital matches cemented his status as a World Cup hero.",
+    "img": "https://static.toiimg.com/photo/msid-129377334,imgsize-108664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/feeling-so-proud-words-cannot-suffice-shashi-tharoor-shares-birthday-call-from-sanju-samson-after-t20-world-cup-win/articleshow/129377346.cms",
+    "time": "2026-03-10T06:03:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Commercial LPG cylinders remain unfilled at bottling plants of OMCs",
+    "desc": "Distributors of Indian Oil, Bharat Petroleum, and Hindustan Petroleum confirm that bottling of commercial cylinders had been stopped at the plants. Hotels, restaurants, small eateries, and tea stalls take the hit and initiate stringency measures",
+    "img": "https://th-i.thgim.com/public/incoming/otsqtp/article70723798.ece/alternates/LANDSCAPE_1200/IMG_2615_1_11_2021_14_23_5_1_LOBE9M0O.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/commercial-lpg-cylinders-remain-unfilledat-bottling-plants-of-omcs/article70723543.ece",
+    "time": "2026-03-10T05:50:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘XO Kitty Season 3’ trailer",
+    "desc": "Get ready for 'XO, Kitty' Season 3! The trailer dropped, confirming April 2, 2026, release. Lara Condor reprises her iconic role as Lara Jean, offering sisterly advice to Anna Cathcart's Kitty. Expect more romantic entanglements and drama at KISS as familiar faces return for eight 30-minute episodes on Netflix.",
+    "img": "https://static.toiimg.com/photo/msid-129376427,imgsize-1543256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/xo-kitty-season-3-trailer-stuns-with-the-return-of-lana-condors-lara-jean/articleshow/129376435.cms",
+    "time": "2026-03-10T05:42:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunidhi Chauhan breaks down during Lucknow concert",
+    "desc": "At her Lucknow show, Sunidhi Chauhan, teary-eyed, addressed the audience about her hoarse voice due to a severe throat issue. Yet, her heartfelt appreciation for the fans’ constant encouragement shone through as she vowed to give her all on stage. The inspiring artist persevered with her 'I Am Home' tour, celebrated for its spectacular guest appearances in various cities. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129375901,imgsize-92430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/sunidhi-chauhan-breaks-down-on-stage-during-lucknow-concert-apologizes-to-crowd-heres-why/articleshow/129375901.cms",
+    "time": "2026-03-10T05:41:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Iran women footballers granted asylum in Australia amid war fears",
+    "desc": "Five Iranian women's football players have found safety in Australia, accepting asylum after conflict erupted back home during their tournament stay. Authorities confirmed their humanitarian visas were approved, offering them a new beginning. While the entire squad was offered protection, only these five have accepted so far, with the option remaining open for others.",
+    "img": "https://static.toiimg.com/photo/msid-129376130,imgsize-276848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/iran-women-footballers-granted-asylum-in-australia-amid-war-fears/articleshow/129376164.cms",
+    "time": "2026-03-10T05:37:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "West Asia conflict oil hike, market reactions Highlights: Markets climb, Rupee rebounds as oil prices fall",
+    "desc": "Investors, already spooked by concerns over extended tech valuations and the huge spending on AI, ran for the hills earlier in the day as crude rocketed to its highest level since the Russian invasion of Ukraine in 2022",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/crude-oil-price-today-march-9-iran-israel-us-war-brent-prices-surge-west-asia-crisis-stock-market-updates/article70721132.ece",
+    "time": "2026-03-10T05:36:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Zootopia 2’ Streaming: When and Where to Watch Online",
+    "desc": "Get ready for 'Zootopia 2'! The animated blockbuster, a massive box office success, is set to premiere on Disney+ globally on March 11, 2026, and Hotstar in India on March 13 with regional dubs. The sequel sees Judy Hopps and Nick Wilde uncovering a reptile conspiracy and corruption, featuring new voices and a new song by Ed Sheeran.",
+    "img": "https://static.toiimg.com/photo/msid-129376088,imgsize-1163354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/zootopia-2-ott-release-heres-when-and-where-you-can-stream-the-movie-online/articleshow/129376114.cms",
+    "time": "2026-03-10T05:36:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Watch, Dates, Full Nominees Guide",
+    "desc": "The 98th Academy Awards will celebrate the best of 2025 cinema on March 15, 2026, at the Dolby Theatre. Conan O'Brien returns to host the star-studded event, featuring a diverse lineup of nominees and presenters. The prestigious ceremony will be followed by the iconic Vanity Fair Oscar Party at LACMA.",
+    "img": "https://static.toiimg.com/photo/msid-129375828,imgsize-470943.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/98th-oscars-2026-from-when-and-where-to-watch-to-full-nominee-list-heres-all-you-need-to-know-about-academy-awards/articleshow/129375848.cms",
+    "time": "2026-03-10T05:30:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rihanna increases security measures after shooting incident",
+    "desc": "In a shocking turn of events, music icon Rihanna has ramped up security measures at her California mansion after a disturbing shooting incident. Ivanna Ortiz, a woman from Florida, reportedly unleashed a hail of 10 bullets towards the star's residence. Known for her ominous online threats, Ortiz was quickly detained, but the episode has left Rihanna shaken.",
+    "img": "https://static.toiimg.com/photo/msid-129375295,imgsize-79894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rihanna-freaking-out-after-shooting-incident-ramps-up-security-at-beverly-hills-house-report/articleshow/129375295.cms",
+    "time": "2026-03-10T05:18:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'India deserved the title': Afridi lauds Samson, Bumrah for outstanding T20 WC show",
+    "desc": "Shahid Afridi lauded India for their historic achievement of defending the ICC Men's T20 World Cup title, becoming the first team to do so. He highlighted India's strong team combination and exceptional bench strength, praising individual performances from Bumrah, Samson, Abhishek, and Kishan in their dominant victory over New Zealand.",
+    "img": "https://static.toiimg.com/photo/msid-129375330,imgsize-83500.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-deserved-the-title-ex-pakistan-captain-lauds-samson-bumrah-for-outstanding-t20-world-cup-show/articleshow/129375023.cms",
+    "time": "2026-03-10T05:18:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celebs who reported gunshots outside their homes",
+    "desc": "From international icons like Rihanna and Drake to Bollywood stars like Salman Khan and Rohit Shetty, several stars have faced security threats with armed people opening fire outside their homes. Here’s a look at some high-profile cases that made headlines.",
+    "img": "https://static.toiimg.com/photo/msid-129372232,imgsize-29102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rihanna-to-salman-khan-celebs-who-reported-gunshots-outside-their-homes/photostory/129372232.cms",
+    "time": "2026-03-10T05:17:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "TOI’s Team of the Tournament",
+    "desc": "India's T20 World Cup triumph is highlighted by four players in the tournament's XI, including Player of the Tournament Sanju Samson. Jasprit Bumrah's bowling brilliance and Ishan Kishan's impactful batting also feature prominently. The team selection celebrates outstanding individual performances that fueled India's dominant victory.",
+    "img": "https://static.toiimg.com/photo/msid-129375028,imgsize-296742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-tois-team-of-the-tournament/articleshow/129374625.cms",
+    "time": "2026-03-10T05:12:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Oil and Iran-U.S. war: Key takeaways in graphics",
+    "desc": "As the Iran-U.S. war extended past its first week, Brent crude oil reached a two-year high of $114 per barrel on the Chicago mercantile exchange. How can oil production and exports be affected in the war? Here are graphics to explain.",
+    "img": "https://th-i.thgim.com/public/incoming/nm3lgu/article70698324.ece/alternates/LANDSCAPE_1200/Saudi_Arabia_Iran_41805.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/oil-and-iran-us-war-key-takeaways-in-graphics/article70721149.ece",
+    "time": "2026-03-10T05:11:45.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Haryana CM accuses AAP government in Punjab of indulging in ‘election-time freebie politics’",
     "desc": "Responding to the Punjab government’s budget announcement of providing ₹1,500 to women from the SC category and ₹1,000 to other women, Haryana CM said the AAP government is making these announcements with the upcoming Assembly elections in mind.",
     "img": "https://th-i.thgim.com/public/incoming/lrsnff/article70725043.ece/alternates/LANDSCAPE_1200/PTI11_27_2025_000177B.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/punjab/haryana-cm-accuses-aap-government-in-punjab-of-indulging-in-election-time-freebie-politics/article70722862.ece",
-    "time": "2026-03-10T04:15:08.000Z"
+    "time": "2026-03-10T05:00:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka names Kirsten as head coach with 2027 World Cup in focus",
+    "desc": "Kirsten, 58, previously guided ‌India to the 2011 World Cup title and later coached ‌South Africa from 2011 to ‌2013. ⁠He also briefly served as ⁠Pakistan's white-ball coach in 2024, resigning six months into the job.",
+    "img": "https://th-i.thgim.com/public/incoming/yofr8e/article70725130.ece/alternates/LANDSCAPE_1200/VIS_4076.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/sri-lanka-names-kirsten-as-head-coach-with-2027-world-cup-in-focus/article70725127.ece",
+    "time": "2026-03-10T04:52:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Minute adjustments’ help Samson take giant strides at the T20 World Cup",
+    "desc": "India batter Sanju Samson's remarkable transformation into a steady, consistent batsman, evident in his T20 World Cup Player of the Tournament performance, stems from a period of introspection after a lean patch. His crucial half-centuries and leading run tally highlight a newfound clarity and hard work, impressing teammates and opponents alike.",
+    "img": "https://static.toiimg.com/photo/msid-129373414,imgsize-105966.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/minute-adjustments-help-sanju-samson-take-giant-strides-at-the-t20-world-cup/articleshow/129373298.cms",
+    "time": "2026-03-10T04:31:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anna Camp opens up about her bisexuality",
+    "desc": "Pitch Perfect star Anna Camp has proudly embraced her bisexuality at 43, sharing her journey of self-acceptance in the public eye. She revealed the challenges of coming out later in life, citing societal and upbringing constraints. Camp is currently in a happy relationship with stylist Jade Whipkey, having gone public last year.",
+    "img": "https://static.toiimg.com/photo/msid-129373304,imgsize-125674.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/pitch-perfect-star-anna-camp-opens-up-about-her-sexuality-im-really-proud-to-be-bisexual/articleshow/129373304.cms",
+    "time": "2026-03-10T04:31:43.000Z"
   },
   {
     "cat": "Politics",
@@ -16,6 +232,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-high-court-cancels-congress-mlas-win-for-hiding-criminal-cases-declares-former-bjp-minister-elected/article70723567.ece",
     "time": "2026-03-10T04:08:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meet the cast of 'One Piece' Season 2: Iñaki Godoy, Mackenyu, Emily Rudd, and more",
+    "desc": "Season 1 of the 'One Piece' live-action adaptation did something most people did not expect it to do. It worked, really worked! The series earned its audience the hard way — by actually understanding what made Eiichiro Oda's legendary manga worth adapting in the first place. Now season two arrives with more ground to cover, a bigger world to build, and several new faces joining the Straw Hats as Monkey D. Luffy and his crew sail deeper into the Grand Line in search of the One Piece. Here is everyone making the voyage.",
+    "img": "https://static.toiimg.com/photo/msid-129372264,imgsize-49320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/anime/meet-the-cast-of-one-piece-season-2-iaki-godoy-mackenyu-emily-rudd-and-more/photostory/129372264.cms",
+    "time": "2026-03-10T04:01:42.000Z"
   },
   {
     "cat": "Sports",
@@ -73,7 +298,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Perfect finish to a not-so-perfect T20 World Cup campaign",
+    "title": "Perfect finish to a not-so-perfect T20 WC campaign",
     "desc": "Defending champions India clinched their third T20 World Cup title, overcoming a challenging campaign to defeat New Zealand in the final. Despite a shaky start and testing Super 8 matches, stellar performances from Sanju Samson and Ishan Kishan, along with crucial contributions from a bowling unit led by Jasprit Bumrah, powered India to a historic victory at home.",
     "img": "https://static.toiimg.com/photo/msid-129369912,imgsize-567022.cms",
     "src": "indiatimes.com",
@@ -117,15 +342,6 @@ const newsData_en = [
     "time": "2026-03-10T03:11:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "West Asia conflict oil hike, market reactions LIVE: U.S. stocks erase big early loss and rise after oil prices whip back below $90",
-    "desc": "Investors, already spooked by concerns over extended tech valuations and the huge spending on AI, ran for the hills earlier in the day as crude rocketed to its highest level since the Russian invasion of Ukraine in 2022",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/crude-oil-price-today-march-9-iran-israel-us-war-brent-prices-surge-west-asia-crisis-stock-market-updates/article70721132.ece",
-    "time": "2026-03-10T03:07:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vishwak Sen and Kayadu Lohar's 'Funky' OTT release details",
     "desc": "Vishwak Sen and Kayadu Lohar's comedy-drama 'Funky,' released in theatres on February 13, 2026, is now heading to Netflix for its digital debut on March 13, 2026. The film, directed by KV Anudeep, follows an aspiring filmmaker whose project faces budget issues, leading to unexpected turns. It will be available in Telugu, Tamil, Hindi, Kannada, and Malayalam.",
@@ -142,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-kospi-jumps-6-nikkei-up-1600-points-markets-rally-as-oil-prices-relax/articleshow/129367668.cms",
     "time": "2026-03-10T02:46:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Commercial LPG cylinders remain unfilled  at bottling plants of OMC’s",
-    "desc": "Distributors of Indian Oil, Bharat Petroleum, and Hindustan Petroleum confirm that bottling of commercial cylinders had been stopped at the plants. Hotels, restaurants, small eateries, and tea stalls take the hit and initiate stringency measures",
-    "img": "https://th-i.thgim.com/public/incoming/otsqtp/article70723798.ece/alternates/LANDSCAPE_1200/IMG_2615_1_11_2021_14_23_5_1_LOBE9M0O.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/commercial-lpg-cylinders-remain-unfilledat-bottling-plants-of-omcs/article70723543.ece",
-    "time": "2026-03-10T02:35:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -207,15 +414,6 @@ const newsData_en = [
     "time": "2026-03-10T02:07:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘One Piece Season 2’ release date, premiere time in India",
-    "desc": "The highly anticipated 'One Piece Season 2' arrives on Netflix India on March 10, 2026, with all eight episodes dropping simultaneously. Fans can expect a total runtime of approximately 481 minutes, covering key locations and introducing new characters as the Straw Hat crew continues their quest for the One Piece treasure.",
-    "img": "https://static.toiimg.com/photo/msid-129367711,imgsize-108912.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/anime/one-piece-season-2-release-date-premiere-time-in-india-where-to-watch-and-episode-details/articleshow/129367716.cms",
-    "time": "2026-03-10T02:02:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Reliance, Ambuja Cements &amp; more: Top stocks to watch on March 10",
     "desc": "Analysts are bullish on Reliance Industries, citing strong refining margins and a recovering chemical cycle. Interglobe Aviation sees a target upgrade amid peer losses, while AU Small Finance Bank receives a neutral rating due to RBI norm changes. Ambuja Cements is favored for its cost efficiencies and expansion plans.",
@@ -225,24 +423,6 @@ const newsData_en = [
     "time": "2026-03-10T01:48:58.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay seeks 15 days",
-    "desc": "Actor-politician Thalapathy Vijay has been summoned by the CBI for questioning in the Karur Stampede case. He has requested a 15-day extension due to election campaigning and a change of location from Delhi to Chennai. Meanwhile, a viral appearance with Trisha at a wedding reception occurred amidst personal life rumours, which Vijay addressed, urging fans not to worry.",
-    "img": "https://static.toiimg.com/photo/msid-129366822,imgsize-57442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karur-stampede-case-jana-nayagan-star-vijay-seeks-15-days-from-cbi-for-questioning/articleshow/129366822.cms",
-    "time": "2026-03-10T01:42:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Swift credited for return",
-    "desc": "Travis Kelce is set to don the Kansas City Chiefs jersey once more, bringing joy not only to fans but also to his quarterback Patrick Mahomes. Sources indicate that his relationship with Taylor Swift has been a key motivator in this decision, as the duo has opted to sideline wedding discussions to prioritize Kelce's career and personal fulfillment.",
-    "img": "https://static.toiimg.com/photo/msid-129366700,imgsize-142204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/travis-kelces-return-linked-to-taylor-swift-patrick-mahomes-reacts-to-news-of-nfl-star-rejoining-the-kansas-city-chiefs/articleshow/129366700.cms",
-    "time": "2026-03-10T01:41:42.000Z"
-  },
-  {
     "cat": "World",
     "title": "May or may not be a \"friendly takeover\"",
     "desc": "The Cuban ​government has said it is not in ⁠any high-level talks with the United States but has not outright ‌denied press reports that U.S. officials may be in informal talks with Raul Guillermo Rodriguez Castro",
@@ -250,42 +430,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-on-cuba-may-or-may-not-be-a-friendly-takeover/article70724880.ece",
     "time": "2026-03-10T01:34:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Eva Mendes shares glam prep before Ryan Gosling’s SNL hosting night",
-    "desc": "Eva Mendes prepared for a potential surprise appearance on Saturday Night Live after Ryan Gosling's recent public birthday shoutout on The Tonight Show. The actress shared a video of her glam session, humorously captioning it as \"prep for SNL this weekend - in case I was suddenly called out in front of cameras again.\"",
-    "img": "https://static.toiimg.com/photo/msid-129366667,imgsize-519298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-gosling-on-snl-eva-mendes-shares-a-bts-of-donning-a-glam-avatar-since-hubby-dearest-was-hosting-the-show/articleshow/129366163.cms",
-    "time": "2026-03-10T01:32:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Reacher' Season 4: Alan Ritchson confirms 2026 premiere",
-    "desc": "Fans of 'Reacher' can rejoice as star Alan Ritchson confirms Season 4 is complete and promises it's the best yet, packed with an unprecedented number of action sequences. While a specific release date for the Amazon Prime Video hit remains unannounced, Ritchson's update fuels anticipation for its 2026 debut, following the success of the Lee Child adaptation.",
-    "img": "https://static.toiimg.com/photo/msid-129365799,imgsize-170756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/alan-ritchson-confirms-reacher-season-4-slated-for-2026-premiere/articleshow/129365697.cms",
-    "time": "2026-03-10T01:24:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tamal Roy Choudhury, 'The Namesake' actor, passes away",
-    "desc": "Veteran actor Tamal Roy Choudhury, celebrated for his role in 'The Namesake', passed away at 80 due to a cardiac arrest. Known for his impactful performances in Bengali cinema, including 'Amazon Obhijaan' and 'Jatiswar', Roy Choudhury was also a cherished mentor. His passing leaves a void in the industry, remembered for his warmth and guidance. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129366213,imgsize-89754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/tamal-roy-choudhury-the-namesake-actor-passes-away-at-80/articleshow/129366213.cms",
-    "time": "2026-03-10T01:23:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'One Piece' to 'Alice in Borderland': 5 must-watch live-action series adapted from Japanese manga",
-    "desc": "Manga has quietly taken over the world, and honestly, the live-action adaptations are finally doing it justice. What started as a niche corner of Japanese pop culture has exploded into some of the most gripping, visually stunning television on streaming right now. Whether you're a longtime manga reader or someone who simply stumbled onto ‘One Piece’ and got completely hooked, these seven series are worth every minute of your time.",
-    "img": "https://static.toiimg.com/photo/msid-129365455,imgsize-68032.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/anime/one-piece-to-alice-in-borderland-5-must-watch-live-action-series-adapted-from-japanese-manga/photostory/129365455.cms",
-    "time": "2026-03-10T00:57:10.000Z"
   },
   {
     "cat": "Sports",
@@ -360,24 +504,6 @@ const newsData_en = [
     "time": "2026-03-09T20:31:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SC closes contempt case after apology from YouTuber",
-    "desc": "The Supreme Court has closed suo motu contempt proceedings against YouTuber Ajay Shukla after he offered an unconditional apology for \"defamatory\" remarks against a former judge. Justices Dipankar Datta and Satish Chandra Sharma accepted the apology but warned Shukla against future misconduct, stating any recurrence would face severe consequences.",
-    "img": "https://static.toiimg.com/photo/msid-129355132,imgsize-95440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-closes-contempt-case-after-apology-from-youtuber/articleshow/129355063.cms",
-    "time": "2026-03-09T20:20:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Advocate files 5 PILs, gets SC flak for raising 'frivolous' pleas",
-    "desc": "An advocate's attempt to argue five PILs, ranging from chemical-free tobacco to garlic's 'tamasic' nature, drew sharp criticism from the Supreme Court. The bench termed the petitions frivolous, suggesting they were filed for publicity. The court warned against such practices, emphasizing the need for advocates to focus on their profession rather than seeking cheap fame through PILs.",
-    "img": "https://static.toiimg.com/photo/msid-129354902,imgsize-5358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/advocate-files-5-pils-gets-sc-flak-for-raising-frivolous-pleas/articleshow/129354879.cms",
-    "time": "2026-03-09T20:14:26.000Z"
-  },
-  {
     "cat": "World",
     "title": "How Iran is fighting back against U.S. and Israel",
     "desc": "One week into the escalating war between Iran, the United States, and Israel, Tehran has intensified its response through missile strikes, regional alliances, and strategic pressure across the West Asia. With tensions rising and no immediate ceasefire in sight, the first week of fighting has already reshaped security calculations across the West Asia, raising fears that the conflict could expand into a wider regional war.",
@@ -385,15 +511,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-how-iran-is-fighting-back-against-us-and-israel/article70724008.ece",
     "time": "2026-03-09T20:13:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Karnataka suspends online sale of Mysore silk saris as orders surge",
-    "desc": "Karnataka has suspended online sales of its famed Mysore silk saris due to overwhelming demand exceeding production capacity. The state-owned Karnataka Silk Industries Corporation will now prioritize limited stock for in-person buyers at its outlets. Online sales will resume once production stabilizes, following efforts to secure premium cocoon supply and increase loom capacity.",
-    "img": "https://static.toiimg.com/photo/msid-129352160,imgsize-71314.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/karnataka-suspends-online-sale-of-mysore-silk-saris-as-orders-surge/articleshow/129352110.cms",
-    "time": "2026-03-09T19:04:56.000Z"
   },
   {
     "cat": "Sports",
@@ -412,15 +529,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/chennai/metro-rail-seeks-ccrs-approval-to-relaxcurbs-on-poonamallee-vadapalani-stretch/article70722930.ece",
     "time": "2026-03-09T18:58:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Government working to ‘optimise’ gas supply as Gulf war hits LNG flow",
-    "desc": "India faces a nearly 40% hit to its LNG supply due to the West Asia conflict, prompting the government to devise an \"optimisation plan\" for industries. While fertiliser remains a priority, some supply reduction is possible, though the sector is currently buffered by high urea stocks and the agricultural lean season.",
-    "img": "https://static.toiimg.com/photo/msid-129351779,imgsize-652255.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/government-working-to-optimise-gas-supply-as-gulf-war-hits-lng-flow/articleshow/129350675.cms",
-    "time": "2026-03-09T18:56:13.000Z"
   },
   {
     "cat": "Politics",
@@ -448,15 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/merzs-party-stumbles-into-a-year-of-german-state-elections-with-a-narrow-defeat/article70723721.ece",
     "time": "2026-03-09T16:57:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "A 'family' even after divorce",
-    "desc": "Demi Moore and Bruce Willis, Hollywood icons who went their separate ways two decades back, have crafted a heartwarming narrative of family unity. As Bruce navigates health struggles, Demi stands firmly by his side, supported by his wife Emma and their children.",
-    "img": "https://static.toiimg.com/photo/msid-129335138,imgsize-65328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/demi-moore-and-bruce-willis-a-love-story-that-survived-divorce-and-thrives-through-friendship/articleshow/129335030.cms",
-    "time": "2026-03-09T16:48:22.000Z"
   },
   {
     "cat": "Sports",
@@ -496,48 +595,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Sri Lanka rope in India’s World Cup-winning architect as head coach",
-    "desc": "Gary Kirsten has been appointed as the new head coach of the Sri Lanka national cricket team, signing a two-year contract starting April 15, 2026. The former India World Cup-winning coach brings extensive international playing and coaching experience to the role. A key focus will be the upcoming ICC Men's Cricket World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-129337356,imgsize-120826.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sri-lanka-rope-in-indias-world-cup-winning-architect-as-head-coach/articleshow/129337463.cms",
-    "time": "2026-03-09T13:50:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Virtually unbeatable': Ex-England captain reveals the secret behind India’s white-ball dominance",
-    "desc": "Michael Atherton hails India as the dominant force in white-ball cricket, highlighting their recent T20 World Cup triumph. He believes their consistent success across major tournaments positions them to potentially hold all three ICC white-ball trophies simultaneously. Nasser Hussain attributes this dominance to a powerful batting lineup and the exceptional bowling of Jasprit Bumrah.",
-    "img": "https://static.toiimg.com/photo/msid-129331196,imgsize-567022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/virtually-unbeatable-former-england-captain-reveals-the-secret-behind-indias-white-ball-dominance/articleshow/129331288.cms",
-    "time": "2026-03-09T12:09:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Nothing to do with the stadium': Harbhajan shuts down Ahmedabad 'panauti' talk",
-    "desc": "Former spinner Harbhajan Singh dismissed notions of the Ahmedabad stadium being unlucky for India. He emphasized that match outcomes hinge solely on player performance, citing Australia's superior play in the 2023 World Cup final. Harbhajan drew parallels to past perceptions of Eden Gardens, asserting that such beliefs stem from those unfamiliar with cricket's realities.",
-    "img": "https://static.toiimg.com/photo/msid-129329906,imgsize-501324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/nothing-to-do-with-the-stadium-harbhajan-singh-shuts-down-ahmedabad-panauti-talk/articleshow/129329862.cms",
-    "time": "2026-03-09T11:22:33.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'You were in bad form, I was out for 2 years': Ishan to Abhishek",
     "desc": "India's T20 World Cup 2026 heroes Ishan Kishan and Abhishek Sharma shared their journeys of overcoming criticism and self-doubt. Kishan highlighted the importance of self-belief and hard work after a two-year absence, while Sharma credited the unwavering support of teammates and management for his crucial final performance. Both emphasized the power of positive company and continuous improvement.",
     "img": "https://static.toiimg.com/photo/msid-129329946,imgsize-52656.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/you-were-in-bad-form-i-was-out-for-two-years-ishan-kishans-witty-reply-to-abhishek-sharma/articleshow/129329814.cms",
     "time": "2026-03-09T11:21:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Not punishment': Pakistan coach breaks silence on Babar Azam exclusion",
-    "desc": "Pakistan's white-ball coach Mike Hesson clarified that senior players' absence from the Bangladesh ODI series isn't punishment for the T20 World Cup exit. He emphasized it's an opportunity to test emerging talent, citing players like Sahabzada Farhan and Shamyl Hussain. However, former pacer Sikander Bakht alleged Hesson overruled selectors during World Cup squad finalization, creating internal friction.",
-    "img": "https://static.toiimg.com/photo/msid-129327496,imgsize-168174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-punishment-pakistan-coach-breaks-silence-on-babar-azam-exclusion-after-world-cup-disaster/articleshow/129327495.cms",
-    "time": "2026-03-09T10:34:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -559,39 +622,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Next stop Olympic gold’: Surya sets LA 2028 target after India's T20 World Cup win",
-    "desc": "Olympic gold at the 2028 Los Angeles Games. Following a dominant win against New Zealand, Yadav emphasised the team's shift to an aggressive style, building on their 2024 triumph. He aims to continue this winning momentum for India.",
-    "img": "https://static.toiimg.com/photo/msid-129324591,imgsize-304308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/next-stop-olympic-gold-suryakumar-yadav-sets-la-2028-target-after-indias-historic-t20-world-cup-win/articleshow/129324579.cms",
-    "time": "2026-03-09T09:37:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "A true Kerala story",
-    "desc": "Sanju Samson had scored just 46 runs from five matches against New Zealand. In the off chance he earned against Namibia, things didn't get any better. But luck did shine on him after all, and he repaid the backing with absolute tenacity, finishing as the Player of the Tournament and India's highest run-scorer in a T20 World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-129323031,imgsize-92436.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/justice-for-sanju-a-true-kerala-story/articleshow/129322484.cms",
-    "time": "2026-03-09T09:04:05.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "How India welcomed the T20 World Cup title in Ahmedabad",
     "desc": "Ahmedabad erupted in joyous celebrations as India clinched the 2026 T20 World Cup title at the Narendra Modi Stadium. Thousands of fans, some without tickets, thronged the venue and surrounding streets, dancing and cheering. Inside the hotel, though, the party was only just getting started.",
     "img": "https://static.toiimg.com/photo/msid-129322584,imgsize-88256.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pooja-in-stadium-to-wild-celebrations-at-team-hotel-how-india-welcomed-the-t20-world-cup-title-in-ahmedabad/articleshow/129322572.cms",
     "time": "2026-03-09T09:00:17.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Oil and Iran-U.S. war: Key takeaways in graphics",
-    "desc": "As the Iran-U.S. war extended past its first week, Brent crude oil reached a two-year high of $114 per barrel on the Chicago mercantile exchange. How can oil production and exports be affected in the war? Here are graphics to explain.",
-    "img": "https://th-i.thgim.com/public/incoming/nm3lgu/article70698324.ece/alternates/LANDSCAPE_1200/Saudi_Arabia_Iran_41805.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/oil-and-iran-us-war-key-takeaways-in-graphics/article70721149.ece",
-    "time": "2026-03-09T08:02:38.000Z"
   },
   {
     "cat": "World",
@@ -766,15 +802,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘I’m Brian Bennett’",
-    "desc": "With 292 runs at a staggering average of 146 in the ICC T20 World Cup, the 22-year-old has made a name for himself; known for piercing gaps over clearing the ropes, the stoic Zimbabwe opener’s brand of batsmanship is as rare as a vinyl record in a world of digital music",
-    "img": "https://th-i.thgim.com/public/incoming/vp99zg/article70708881.ece/alternates/LANDSCAPE_1200/DSC_7674.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/brian-bennett-zimbabwe-t20-world-cup-stats-feature/article70708880.ece",
-    "time": "2026-03-07T05:47:21.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Russell fastest in final practice as Mercedes teammate crashes out",
     "desc": "Antonelli locked up at turn two at Albert ⁠Park and skidded hard into a barrier late in the session, leaving a front wheel bouncing away from the crash and team ‌boss Toto Wolff wincing in the team garage.",
     "img": "https://th-i.thgim.com/public/incoming/4auabf/article70714621.ece/alternates/LANDSCAPE_1200/Australia_F1_GP_Auto_Racing_14330.jpg",
@@ -846,15 +873,6 @@ const newsData_en = [
     "time": "2026-03-06T06:03:13.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "India survives Bethell blitz, scrapes into the final",
-    "desc": "Samson’s 42-ball 89 and cameos by Kishan and Dube power the Men in Blue to 253 for seven; the English left-hander almost pulls off a heist before Bumrah’s mastery wins it for the home team",
-    "img": "https://th-i.thgim.com/public/incoming/ptu84k/article70708794.ece/alternates/LANDSCAPE_1200/11908_5_3_2026_22_57_30_2_DSC_3770.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-team-india-survives-bethell-scare-enters-the-final/article70708797.ece",
-    "time": "2026-03-06T00:56:55.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Thavil artiste Amirthavarshini: Performing with A.R. Rahman was a wonderful experience",
     "desc": "From playing the thavil in the temples of Mannargudi near Thanjavur as a schoolgirl to joining A.R. Rahman’s ‘Wonderment Tour’ concert in Chennai recently, Amirthavarshini Manishankar’s musical journey seems like a fairy tale. But in reality, it is also a story of conviction and perseverance — of a young girl carving a space for herself as a thavil artiste in the male‑dominated world of Carnatic percussion.",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/shows/watch-bejoy-nambiar-interview-why-i-never-watched-the-original/article70702688.ece",
     "time": "2026-03-04T08:40:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "From Tezaab to Subedar: Suresh Triveni’s Full Circle with Anil Kapoor",
-    "desc": "In this episode of Inside Man, Sudhish Kamath sits down with filmmaker Suresh Triveni — director of Subedar (releasing March 5), showrunner of Daldal on Prime Video, and the upcoming Netflix film Maa Behn starring Madhuri Dixit and Tripti Dimri. Before Tumhari Sulu, Suresh waited nearly eight years to make his breakthrough film. Since then, he went on to direct Jalsa — and now finds himself with three major releases in a single year.",
-    "img": "https://th-i.thgim.com/public/incoming/fm34ox/article70702483.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20at%2012.21.44%E2%80%AFPM.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-from-tezaab-to-subedar-suresh-trivenis-full-circle-with-anil-kapoor/article70702461.ece",
-    "time": "2026-03-04T06:56:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘One Piece’ creator Eiichiro Oda hides series’ biggest secret under the ocean as manga hits 600 million copies",
-    "desc": "In a special project revealed through an official video, Oda wrote down the answer to the central question of the story — the nature of the legendary treasure known as One Piece — for the first time",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/hcqtey/article70702256.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20111111.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/one-piece-creator-eiichiro-oda-hides-series-biggest-secret-under-the-ocean-as-manga-hits-600-million-copies/article70702244.ece",
-    "time": "2026-03-04T05:43:50.000Z"
   }
 ];

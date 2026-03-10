@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "ট্রাম্প-পুতিনের প্রায় এক ঘণ্টা ফোনে কথা ! ইরান যুদ্ধ তাড়াতাড়ি শেষ করার প্রস্তাব রাশিয়ার",
+    "desc": "জানা গিয়েছে, দুই রাষ্ট্রপ্রধানের মধ্যে প্রায় ঘণ্টাখানেক এই বিষয় নিয়ে আলোচনা হয়। ক্রেমলিনের পক্ষ থেকে দাবি করা হয়েছে, আমেরিকার পক্ষ থেকে এই ফোনকলের উদ্যোগ নেওয়া হয়েছিল। যুদ্ধ দ্রুত শেষ করতে রাশিয়ান প্রেসিডেন্ট কিছু প্রস্তাব দিয়েছেন বলেও দাবি করা হচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Putin-With-Trump-on-Iran-War-2026-03-7dad943f3a01d64645ad04751fdc1ba0-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/iran-usa-putin-shares-proposals-to-end-iran-war-quickly-in-phone-call-with-trump-says-kremlin-ss-2577209.html",
+    "time": "2026-03-10T05:41:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মন্দিরের বাথরুমে পড়ে আছে দুই বোনের দেহ... ফোন থেকে পাওয়া গেল শিউরে ওঠা ভিডিও",
+    "desc": "দুজনকেই দ্রুত আলাদা হাসপাতালে নিয়ে যাওয়া হয়। রোশনিকে সিভিল হাসপাতালে এবং জোছনাকে স্মিমার হাসপাতালে নিয়ে গেলে চিকিৎসকেরা তাদের মৃত ঘোষণা করেন। পরিবারের সদস্যরা জানিয়েছেন, শৈশব থেকেই দুজনের মধ্যে অবিচ্ছেদ্য সম্পর্ক ছিল। প্রথম থেকে দ্বাদশ শ্রেণি পর্যন্ত একসঙ্গে পড়াশোনা করেছিলেন তারা। পুলিশ মামলা দায়ের করেছে এবং তদন্ত চালিয়ে যাচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/crime-News-2026-02-48e0fc38f0ccb4e623aab2db16dc065f-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/crime-news-surat-temple-horror-two-college-girls-found-finished-in-bathroom-bags-hold-clues-sbhp-rmj-2577063.html",
+    "time": "2026-03-10T04:42:32.000Z"
+  },
+  {
+    "cat": "World",
     "title": "যুদ্ধে ভয়ংকর হোয়াইট ফসফরাস ব্যবহার ইসরায়েলের, এই মারাত্মক রাসায়নিক অস্ত্রে কী পরিণতি হতে পারে?",
     "desc": "মানবাধিকার সংগঠন হিউম্যান রাইটস ওয়াচ জানিয়েছে, ৩ মার্চ লেবাননের ইয়োহমর শহরের ঘরবাড়ির ওপর আর্টিলারি থেকে সাদা ফসফরাসের গোলা ছোঁড়া হয়েছে। অসামরিক মানুষের নিরাপত্তায় সাদা ফসফরাসের ব্যবহার নিয়ে কঠোর সীমাবদ্ধতা রয়েছে। এর পরিণতি হতে পারে আজীবনের জন্য ভয়ংকর।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/international/who-will-now-live-in-jamuna-bangladesh-after-yunus-will-prime-minister-tarique-rahman-come-to-this-r-2566012.html",
     "time": "2026-03-02T14:14:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ঐতিহ্যের ব্যাটন এবার গৌতম ঘোষের হাতে, কলকাতার নতুন শেরিফ বর্ষীয়ান পরিচালক...",
-    "desc": "কলকাতার নতুন শেরিফ হিসেবে মনোনীত হলেন আন্তর্জাতিক খ্যাতিসম্পন্ন চিত্রপরিচালক গৌতম ঘোষ। বর্তমানে ভারতের মাত্র দুটি শহরে—কলকাতা ও মুম্বইয়ে এই 'শেরিফ' পদটি সক্রিয় রয়েছে। মূলত একজন অরাজনৈতিক ব্যক্তিত্বকে এই সম্মানে ভূষিত করা হয়, যিনি সমাজ বা সংস্কৃতিতে বিশেষ অবদান রেখেছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/goutam-ghose-appointed-as-new-sheriff-kolkata-tradition_643391.html ",
-    "time": "2026-03-02T14:08:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ইরান-ইসরায়েল সংঘাতের জেরে বন্ধ বিমানপথ, প্যারিসে আটকে সন্দীপ্তা...",
-    "desc": "যুদ্ধের কবলে পশ্চিম এশিয়া! দুবাইয়ে আটকে শুভশ্রী, প্যারিসে বন্দি সন্দীপ্তা সেন। স্বামী সৌম্যোপাধ্যায়ের সঙ্গে নরওয়ে ও ফিনল্যান্ড ভ্রমণে গিয়েছিলেন অভিনেত্রী সন্দীপ্তা সেন। ফেরার পথে প্যারিস থেকে আবুধাবি হয়ে কলকাতায় আসার কথা ছিল তাঁদের। কিন্তু বাতিল একের পর এক ফ্লাইট।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-actress-sandipta-sen-stuck-in-paris-as-flights-are-cancelled-due-to-the-iran-israel-usa-war_643385.html ",
-    "time": "2026-03-02T13:14:27.000Z"
   }
 ];

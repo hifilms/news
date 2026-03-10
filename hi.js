@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI announces Rs 131 crore prize money for team India after T20 World Cup title win",
+    "desc": "The BCCI (Board of Control for Cricket in India) took centre stage and announced a massive cash prize of Rs 131 crore for the Men in Blue after they won the T20 World Cup 2026....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-rs-131-crore-prize-money-for-team-india-after-t20-world-cup-title-win-2026-03-10-1033235",
+    "time": "2026-03-10T06:10:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hemang Badani named Southern Brave's head coach ahead of The Hundred 2026",
+    "desc": "The Hundred franchise Southern Brave came forward and announced the appointment of Hemang Badani as their new head coach ahead of the new The Hundred 2026 season. It is worth noting that former England cricketer...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hemang-badani-named-southern-brave-s-head-coach-ahead-of-the-hundred-2026-2026-03-10-1033231",
+    "time": "2026-03-10T05:31:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Star India batter gets hero's welcome back home after historic T20 World Cup campaign",
+    "desc": "The Indian team performed exceptionally well in the T20 World Cup 2026; the Men in Blue were considered the biggest favourites throughout the tournament. Led by Suryakumar Yadav, the side did what was expected of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/star-india-batter-gets-hero-s-welcome-back-home-after-historic-t20-world-cup-campaign-watch-2026-03-10-1033224",
+    "time": "2026-03-10T04:43:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Birmingham Phoenix name Jacob Bethell as captain ahead of The Hundred 2026",
     "desc": "In a major development, The Hundred franchise Birmingham Phoenix has announced that star England batter Jacob Bethell will be their new skipper ahead of the upcoming season of The Hundred. Bethell will look to build...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/23-red-cards-in-one-game-chaos-erupted-during-cruzeiro-vs-minerao-clash-in-brazil-watch-2026-03-09-1033190",
     "time": "2026-03-09T15:34:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "4 India cricketers feature in ICC T20 World Cup 2026 Team of Tournament, Aiden Markram named captain",
-    "desc": "The International Cricket Council (ICC) on Monday announced the T20 World Cup 2026 Team of the Tournament, with four Indians making the cut. Sanju Samson, Ishan Kishan, Hardik Pandya, and Jasprit Bumrah were named in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/4-india-cricketers-feature-in-icc-t20-world-cup-2026-team-of-tournament-aiden-markram-named-captain-2026-03-09-1033185",
-    "time": "2026-03-09T13:57:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka appoint India's World Cup-winning coach as new head coach after Sanath Jayasuriya steps down",
-    "desc": "Sri Lanka have appointed Gary Kirsten as the new head coach after Sanath Jayasuriya stepped down from his role after the T20 World Cup 2026. The former South Africa international has served as the head...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-appoint-india-s-world-cup-winning-coach-as-new-head-coach-after-sanath-jayasuriya-steps-down-2026-03-09-1033184",
-    "time": "2026-03-09T13:40:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India TV 'She' Conclave: Cricketer Shreyanka Patil speaks about the reason she chose cricket as profession",
-    "desc": "At the India TV 'She' Conclave, India and Royal Challengers Bengaluru cricketer Shreyanka Patil spoke about her short yet illustrious career. The star all-rounder was part of Royal Challengers Bengaluru's Women's Premier League title-winning campaigns...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-tv-she-conclave-cricketer-shreyanka-patil-speaks-about-reason-she-chose-cricket-as-profession-2026-03-09-1033175",
-    "time": "2026-03-09T12:10:45.000Z"
   }
 ];
