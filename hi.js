@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rishabh Pant trains under Yuvraj Singh in Mumbai, bats with slight different technique",
+    "desc": "Lucknow Super Giants captain Rishabh Pant has begun his training ahead of the Indian Premier League (IPL) 2026 campaign, slated to begin on March 28. In a viral video, the southpaw was spotted training under...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-trains-under-yuvraj-singh-in-mumbai-bats-with-slight-different-technique-watch-2026-03-10-1033315",
+    "time": "2026-03-10T18:08:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch ODI series live on TV and stream online in India?",
+    "desc": "The upcoming Pakistan tour of Bangladesh begins on March 11. After their decision to opt out of the recently concluded T20 World Cup, this will be the first time that the Bangla Tigers will be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-vs-pakistan-live-where-to-watch-odi-series-live-on-tv-and-stream-online-in-india-2026-03-10-1033312",
+    "time": "2026-03-10T17:27:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan brushes aside Kirti Azad's criticism over temple visit with T20 World Cup trophy",
+    "desc": "After India lifted the T20 World Cup 2026, captain Suryakumar Yadav, alongside head coach and ICC chief Jay Shah, visited a nearby Hanuman Mandir to offer their prayers. That act caught the attention of India’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-brushes-aside-kirti-azad-s-criticism-over-temple-visit-with-t20-world-cup-trophy-2026-03-10-1033307",
+    "time": "2026-03-10T16:12:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Hardik Pandya joins MS Dhoni, behind Rohit Sharma in major record list after India's T20 World Cup triumph",
     "desc": "India all-rounder Hardik Pandya has won nine T20 trophies so far in his career. Out of which, he won four with Mumbai Indians, one with Gujarat Titans, two T20 World Cups and two Asia Cup...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/reminiscent-of-viv-richards-sunil-gavaskar-heaps-praise-on-sanju-samson-after-recent-exceptional-showing-2026-03-10-1033260",
     "time": "2026-03-10T08:55:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Titans name Matthew Hayden as new batting coach ahead of IPL 2026",
-    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026. Ahead of the new season of the tournament, the 2022 champions Gujarat Titans, came forward and announced the appointment of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-name-matthew-hayden-as-new-batting-coach-ahead-of-ipl-2026-2026-03-10-1033254",
-    "time": "2026-03-10T08:16:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'So happy for this guy': Suryakumar Yadav responds to viral petrol pump photo from 2014 after WC victory",
-    "desc": "India’s T20I skipper Suryakumar Yadav etched his name in history after he led the Indian team to their third T20 World Cup title. Under the leadership of Suryakumar Yadav, the Indian team only lost one...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/so-happy-for-this-guy-suryakumar-yadav-responds-to-viral-petrol-pump-photo-from-2014-after-world-cup-victory-2026-03-10-1033245",
-    "time": "2026-03-10T07:12:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI announces Rs 131 crore prize money for team India after T20 World Cup title win",
-    "desc": "The BCCI (Board of Control for Cricket in India) took centre stage and announced a massive cash prize of Rs 131 crore for the Men in Blue after they won the T20 World Cup 2026....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-rs-131-crore-prize-money-for-team-india-after-t20-world-cup-title-win-2026-03-10-1033235",
-    "time": "2026-03-10T06:10:41.000Z"
   }
 ];

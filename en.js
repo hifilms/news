@@ -1,6 +1,132 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Tina on parents Govinda and Sunita Ahuja's divorce rumours",
+    "desc": "Sunita Ahuja’s latest vlog turned into a heartfelt family moment after her daughter Tina Ahuja surprised her on Women’s Day with flowers, gifts and a solitaire ring. The vlog also saw Tina briefly addressing rumours about her parents’ marriage and admitting that the last couple of years have been challenging.",
+    "img": "https://static.toiimg.com/photo/msid-129412780,imgsize-83924.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tina-ahuja-reacts-to-parents-govinda-and-sunita-ahujas-divorce-rumours-two-years-have-not-been-great-there-has-been-turbulence/articleshow/129412780.cms",
+    "time": "2026-03-10T18:23:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Experts deliberate on North East security at seminar hosted by Assam Rifles",
+    "desc": "The seminar was held at the Major General Samir Sinha Auditorium at USI and brought together senior military officers, security experts, academics and media representatives to deliberate on the evolving security landscape in the region",
+    "img": "https://th-i.thgim.com/public/incoming/sjkpzn/article70728228.ece/alternates/LANDSCAPE_1200/20250609028L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/experts-deliberate-on-north-east-security-at-seminar-hosted-by-assam-rifles/article70727583.ece",
+    "time": "2026-03-10T18:21:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Formula One Australian GP",
+    "desc": "The race at Albert Park was a battle of wits, speed and a whole load of battery management; Mercedes’ lead driver Russell grabbed his moments to set the tone for the year, with the Ferraris breathing down his neck",
+    "img": "https://th-i.thgim.com/public/sport/26vhky/article70728203.ece/alternates/LANDSCAPE_1200/GettyImages-2265353502.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/motorsport/formula-one-australian-grand-prix-2026-review/article70728191.ece",
+    "time": "2026-03-10T17:39:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hotels, restaurants across India grapple with gas shortage as West Asia conflict prolongs",
+    "desc": "Hotel associations and several hoteliers have warned that non-availability of cooking gas would force many units to shut their shops With the ongoing conflict in West Asia disrupting the global energy supply chain, India is facing a supply issue with cooking gas",
+    "img": "https://th-i.thgim.com/public/incoming/npujff/article70726097.ece/alternates/LANDSCAPE_1200/2026-03-10T071526Z_301689720_RC2H1KA035ZH_RTRMADP_3_IRAN-CRISIS-INDIA-LPG-HOTELS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/indian-hotels-grapple-with-gas-shortage-as-west-asia-conflict-prolongs/article70726061.ece",
+    "time": "2026-03-10T17:34:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Odisha hotel and restaurant association flags LPG cylinder shortage issue",
+    "desc": "The hotel and restaurant industry provides livelihood to thousands of employees and supports numerous allied sectors including food supply chains, transport, and local vendors while this disruption will have wider ramification on livelihood, says the association",
+    "img": "https://th-i.thgim.com/public/incoming/saso76/article70728255.ece/alternates/LANDSCAPE_1200/PTI03_10_2026_000423B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/odisha-hotel-and-restaurant-association-flags-lpg-cylinder-shortage-issue/article70727224.ece",
+    "time": "2026-03-10T17:31:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Adah Sharma recalls how producer date drama left her jobless",
+    "desc": "Adah Sharma recently shared a humorous anecdote about juggling film schedules and how a series of unexpected date changes eventually left her with an entire month of free time. According to Adah, the producer of one of the films was very particular about her availability and insisted that the project could only happen on specific dates.",
+    "img": "https://static.toiimg.com/photo/msid-129409695,imgsize-47134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/adah-sharma-reveals-how-film-schedule-drama-left-her-jobless-for-a-month-producer-insisted-on-dates-then-said-he-didnt-want-them/articleshow/129409695.cms",
+    "time": "2026-03-10T17:29:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Terrorist killed as Army foils infiltration bid in J&K’s Nowshera",
+    "desc": "Movement of two terrorists was observed in Jhangar area at around 3 p.m. on Tuesday, says Army; one Pakistan-sponsored terrorist was eliminated, and troops have been reoriented to search for the second terrorist, it adds",
+    "img": "https://th-i.thgim.com/public/incoming/8687b0/article70728238.ece/alternates/LANDSCAPE_1200/PTI02_26_2025_000545B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/terrorist-killed-as-army-foils-infiltrationbid-in-jks-nowshera/article70727327.ece",
+    "time": "2026-03-10T17:19:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu State Planning Commission calls for legal protection and social security for gig workers",
+    "desc": "In a study, ‘Status of Platform Based Gig Workers in Tamil Nadu,’ the Commission highlights the rapid expansion of platform-based work and calls for targeted interventions to ensure welfare, protection, and long-term sustainability for these workers",
+    "img": "https://th-i.thgim.com/public/incoming/o5w2o2/article70728161.ece/alternates/LANDSCAPE_1200/Is-the-10-minutGR2FDOKLA.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-state-planning-commission-calls-for-legal-protection-and-social-security-for-gig-workers/article70727939.ece",
+    "time": "2026-03-10T17:08:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taapsee reveals Akshay, SRK have small entourages, questions producers",
+    "desc": "Industry insiders are highlighting the escalating costs associated with actors' entourages, impacting film budgets. While some producers and directors lament these expenses, actress Taapsee Pannu argues it's a misconception that all stars travel with large teams. She suggests producers who complain are often the ones enabling these demands by continuing to hire such actors.",
+    "img": "https://static.toiimg.com/photo/msid-129408252,imgsize-34224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/taapsee-pannu-says-shah-rukh-khan-akshay-kumar-dont-have-big-entourages-questions-producers-for-giving-work-to-delusional-actors-with-huge-teams/articleshow/129408050.cms",
+    "time": "2026-03-10T16:48:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata ends SIR stir, says game is not yet over",
+    "desc": "During her five-day protest, the West Bengal Chief Minister and her party aides targeted the Election Commission of India; the Commission is working as ‘an agent of the BJP to snatch voting rights away’ from the people of the State, she says",
+    "img": "https://th-i.thgim.com/public/incoming/d621jv/article70728129.ece/alternates/LANDSCAPE_1200/20260310374L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/mamataendssir-stir-says-game-is-not-yet-over/article70727642.ece",
+    "time": "2026-03-10T16:46:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No-confidence motion debate: Opposition accuses Om Birla of partisanship, NDA defends Speaker in Lok Sabha",
+    "desc": "The Lok Sabha witnessed a heated debate as opposition parties moved to remove Speaker Om Birla, alleging bias and government pressure. The ruling NDA strongly defended Birla, accusing the opposition of targeting constitutional institutions. Allies backed the Speaker, calling the move a headline-grabbing tactic. The discussion is set to conclude Wednesday.",
+    "img": "https://static.toiimg.com/photo/msid-129407200,imgsize-57472.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-confidence-motion-debate-opposition-accuses-om-birla-of-partisanship-nda-defends-speaker-in-lok-sabha/articleshow/129407208.cms",
+    "time": "2026-03-10T16:23:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Report",
+    "desc": "India is contemplating deploying naval ships to escort its merchant vessels through the Strait of Hormuz amidst escalating Middle East tensions. This consideration follows urgent pleas from Indian shipowners seeking protection for their commercial fleets navigating the crucial, now high-risk, waterway.",
+    "img": "https://static.toiimg.com/photo/msid-129406479,imgsize-17684.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-considering-naval-escort-for-ships-in-strait-of-hormuz-amid-iran-war-report/articleshow/129405940.cms",
+    "time": "2026-03-10T16:08:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "PC explains why she has security to protect Malti’s privacy",
+    "desc": "Priyanka Chopra Jonas has opened up about why she and husband Nick Jonas prefer to keep their daughter Malti Marie Chopra Jonas away from the public spotlight. Priyanka explained that while public curiosity around celebrity children is inevitable, she believes it is important for Malti to have a normal childhood.",
+    "img": "https://static.toiimg.com/photo/msid-129406092,imgsize-119224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-explains-why-she-has-security-to-protect-daughter-malti-maries-privacy-once-a-person-followed-her-from-school/articleshow/129406092.cms",
+    "time": "2026-03-10T16:03:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court asks for special tribunals to hear appeals of voters excluded in West Bengal SIR",
+    "desc": "The Supreme Court asked the Chief Justice of Calcutta High Court to request former Chief Justices and judges of High Courts to preside over the Benches of the appellate tribunals once they are notified by the Election Commission",
+    "img": "https://th-i.thgim.com/public/incoming/p4tihv/article70727925.ece/alternates/LANDSCAPE_1200/PTI03_05_2026_000191A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-asks-for-special-tribunals-to-hear-appeals-of-voters-excluded-in-west-bengal-sir/article70727502.ece",
+    "time": "2026-03-10T15:55:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Top 5 South stories of the day",
     "desc": "South cinema buzzes with unseen wedding photos of Vijay Deverakonda and Rashmika Mandanna. Khushbu Sundar defends Vijay and Trisha amid online chatter. Producer Joby George receives a jail sentence in a visa fraud case. Pawan Kalyan's 'Ustaad Bhagat Singh' gets a U/A certificate, set for a 2026 release. Jr. NTR requests quiet from cheering fans at a Bengaluru event.",
     "img": "https://static.toiimg.com/photo/msid-129404441,imgsize-179120.cms",
@@ -45,15 +171,6 @@ const newsData_en = [
     "time": "2026-03-10T14:58:58.000Z"
   },
   {
-    "cat": "World",
-    "title": "Hotels, restaurants across India grapple with gas shortage as West Asia conflict prolongs",
-    "desc": "Hotel associations and several hoteliers have warned that non-availability of cooking gas would force many units to shut their shops With the ongoing conflict in West Asia disrupting the global energy supply chain, India is facing a supply issue with cooking gas",
-    "img": "https://th-i.thgim.com/public/incoming/npujff/article70726097.ece/alternates/LANDSCAPE_1200/2026-03-10T071526Z_301689720_RC2H1KA035ZH_RTRMADP_3_IRAN-CRISIS-INDIA-LPG-HOTELS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indian-hotels-grapple-with-gas-shortage-as-west-asia-conflict-prolongs/article70726061.ece",
-    "time": "2026-03-10T14:47:51.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Criticism, satire of PM, UGC regulations target of government takedowns on X, Instagram",
     "desc": "The most up-to-date takedown stats from Meta show that the Instagram and Facebook parent took down three times as much content in response to government orders in January–June 2025 than in the same period in 2023",
@@ -70,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-impact-how-can-india-shock-proof-itself-against-future-oil-lpg-lng-supply-disruptions/articleshow/129401144.cms",
     "time": "2026-03-10T14:31:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala to introduce inclusive assessment methods for students with disabilities under FYUGP",
-    "desc": "The government plans to replace traditional evaluation systems with adaptive formats, allowing alternative submissions like audio recordings and video presentations. This initiative aims to ensure all students can demonstrate their knowledge, supported by guidelines from the Higher Education Reforms Implementation Cell and technology-enabled assessments.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-to-introduce-inclusive-assessment-methods-for-students-with-disabilities-under-fyugp/article70727157.ece",
-    "time": "2026-03-10T14:30:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -99,15 +207,6 @@ const newsData_en = [
     "time": "2026-03-10T14:10:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP likely to contest fewer seats in Kerala as allies demand greater accommodation",
-    "desc": "BJP contested in 115 seats in 2021 without success in any. Bharat Dharma Jana Sena is demanding some 40 seats, up from the 21 it contested in 2021. Another factor pressuring seat-sharing talks is the inclusion of Twenty20 in the NDA-fold",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/bjp-likely-to-contest-fewer-seats-in-kerala-as-allies-demand-greater-accommodation/article70718999.ece",
-    "time": "2026-03-10T14:10:10.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Stallone joins ‘John Rambo’ prequel, backs Noah Centineo",
     "desc": "In a bold move, Sylvester Stallone is returning to the driver's seat as an executive producer for the much-anticipated 'John Rambo' prequel. This new chapter will delve into the legendary hero's backstory before 'First Blood,' with Noah Centineo stepping into the role of the younger Rambo. Stallone couldn't be more thrilled to explore the character's origins from a fresh angle.",
@@ -115,6 +214,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sylvester-stallone-confirms-involvement-in-john-rambo-prequel-passes-baton-to-noah-centineo-were-going-back/articleshow/129400530.cms",
     "time": "2026-03-10T13:59:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Lucky that we are on the same page'",
+    "desc": "Saif Ali Khan shares insights on love and relationships. He admits past relationships were not always fulfilling. Today, he feels fortunate and happy in his marriage with Kareena Kapoor. He credits maturity and Kareena's understanding for their stable bond. Saif emphasizes emotional needs and affection are vital for a lasting partnership. He believes a deep connection makes marriage meaningful.",
+    "img": "https://static.toiimg.com/photo/msid-129400078,imgsize-55548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-says-he-can-be-emotionally-needy-opens-up-on-marriage-with-kareena-kapoor-lucky-that-we-are-on-the-same-page/articleshow/129399943.cms",
+    "time": "2026-03-10T13:48:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -261,15 +369,6 @@ const newsData_en = [
     "time": "2026-03-10T11:46:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Akshay Kumar on how Twinkle Khanna changed his life post-marriage",
-    "desc": "In the latest episode of 'Wheel of Fortune,' host Akshay Kumar and celebrity guest Viraj Ghelani engaged in a hilarious conversation about how marriage transforms a man's life. The episode featured Akshay's heartfelt \"Lakshmi\" tribute to his wife Twinkle Khanna and Viraj Ghelani's struggle with expensive skincare like niacinamide and salicylic acid.",
-    "img": "https://static.toiimg.com/photo/msid-129392667,imgsize-136140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-on-how-twinkle-khanna-changed-his-life-post-marriage-biwi-aati-hai-toh-lakshmi-aati-hai/articleshow/129392667.cms",
-    "time": "2026-03-10T11:31:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How can it be improved?",
     "desc": "India slipped to 25th in the 2026 Gender Equality in Chess Index (GECI), highlighting gender imbalance in the sport. Despite strong performances by elite women players, female participation in youth championships remains low, and many girls drop out early. Experts say social pressures, financial hurdles and lack of structured support limit opportunities, stressing the need for better grassroots development and long-term systems to promote women’s chess.",
@@ -289,48 +388,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "How Tommy DeCarlo became ‘Boston’s lead singer from a superfan",
-    "desc": "Boston's lead singer, Tommy DeCarlo, has passed away at 60 after a brave battle with brain cancer. DeCarlo's remarkable journey from a devoted fan to the band's frontman captivated audiences. His family announced his passing on March 9, 2026, following a year-long fight against the illness. He leaves behind a legacy of powerful performances and a unique rock-and-roll story.",
-    "img": "https://static.toiimg.com/photo/msid-129392959,imgsize-139292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/tommy-decarlo-all-about-the-boston-superfan-who-became-the-bands-lead-vocalist/articleshow/129392874.cms",
-    "time": "2026-03-10T11:28:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rihanna leaves L.A. after shooting at home",
-    "desc": "Rihanna is fleeing the chaos of Los Angeles after a frightening shooting incident took place at her luxury mansion in Beverly Hills. Local law enforcement revealed that Ivanna Lisette Ortiz, a woman arrested for attempted murder, shot at the singer's home while Rihanna and her children were reportedly inside.",
-    "img": "https://static.toiimg.com/photo/msid-129392792,imgsize-95028.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/rihanna-leaves-l-a-after-terrifying-home-shooting-as-suspect-remains-in-custody-reports/articleshow/129392792.cms",
-    "time": "2026-03-10T11:25:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kit Harington on parenthood and 'Industry' fame",
-    "desc": "Kit Harington brought some humor to the table, stating he's often found in the buff during the fourth season of 'Industry,' a choice he made himself. He recounted a cute moment with his son, showing how fatherhood provides him with balance amid the challenging portrayal of Henry Muck.",
-    "img": "https://static.toiimg.com/photo/msid-129391912,imgsize-128174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/kit-harington-opens-up-about-industry-parenthood-and-his-life-off-screen-im-naked-about-90-of-the-time/articleshow/129391912.cms",
-    "time": "2026-03-10T11:11:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Aishwarya Rai was hesistent to wear a backless dress,' recalls celebrity stylist",
     "desc": "Celebrity stylist Ashley Rebello recalled Aishwarya Rai's early modeling days, noting her initial hesitation with a revealing outfit. He designed numerous colorful sarees for her Miss World journey, which became a talking point among contestants. Film producer Shailendra Singh also shared how he discovered Aishwarya in her late teens for early advertising campaigns.",
     "img": "https://static.toiimg.com/photo/msid-129391237,imgsize-41262.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-was-hesistent-to-wear-a-backless-dress-was-a-simple-girl-reveals-celebrity-stylist-recalling-her-modelling-days/articleshow/129391227.cms",
     "time": "2026-03-10T10:53:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jailer 2': Shah Rukh Khan's role in Rajinikanth's film revealed",
-    "desc": "Shah Rukh Khan will reportedly play a police officer in Rajinikanth's 'Jailer 2'. This role is said to be significant and will influence the storyline. The film, directed by Nelson Dilipkumar, is highly anticipated. Rajinikanth has finished most of his scenes. Shah Rukh Khan's scenes are expected to be filmed in March. The movie features a star-studded cast.",
-    "img": "https://static.toiimg.com/photo/msid-129390735,imgsize-128562.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-shah-rukh-khans-role-in-rajinikanths-film-revealed-nelson-film-gets-a-massive-pan-india-boost/articleshow/129390735.cms",
-    "time": "2026-03-10T10:45:35.000Z"
   },
   {
     "cat": "Business",
@@ -493,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/kash-aap-mere-paas-hote-rinku-singhs-emotional-tribute-to-father-after-t20-world-cup-triumph/articleshow/129381642.cms",
     "time": "2026-03-10T07:40:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Strait of Hormuz crisis could choke global oil supply within a month, warns Putin",
-    "desc": "President Putin warned that the US-Israeli war on Iran has triggered a global energy crisis, potentially halting oil flows through the Strait of Hormuz. He stated Russia is open to restoring energy cooperation with Europe if they signal interest in rebuilding ties.",
-    "img": "https://static.toiimg.com/photo/msid-129379695,imgsize-137880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/iran-war-strait-of-hormuz-crisis-could-choke-global-oil-supply-within-a-month-warns-putin/articleshow/129379608.cms",
-    "time": "2026-03-10T06:56:58.000Z"
   },
   {
     "cat": "Sports",
@@ -801,15 +855,6 @@ const newsData_en = [
     "time": "2026-03-06T19:14:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Men in Blue overcome semifinal bogey in a nervy encounter",
-    "desc": "Suryakumar’s men come up with a vastly improved fielding display to edge Brook & Co. in a run-fest at the Wankhede; the home team has found its groove and now has to contend with New Zealand in Sunday’s summit clash",
-    "img": "https://th-i.thgim.com/public/incoming/ut9smf/article70712855.ece/alternates/LANDSCAPE_1200/11908_5_3_2026_21_9_38_4_DSC_9191.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/men-in-blue-overcome-semifinal-bogey-in-a-nervy-encounter/article70712857.ece",
-    "time": "2026-03-06T16:29:04.000Z"
-  },
-  {
     "cat": "Business",
     "title": "High war-risk premiums for airline insurance to push up airfares",
     "desc": "Extra premiums range from 0.075% to 0.1% of aircraft value for each return flight, translating to fare hikes of about ₹20,000 on Gulf routes; rising oil prices and operating costs may hit domestic fares too",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/lanterns-teaser-kyle-chandler-and-aaron-pierres-tense-partnership-to-steer-upcoming-dc-series/article70706165.ece",
     "time": "2026-03-05T06:05:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bejoy Nambiar Interview: Why I never watched the original",
-    "desc": "In this episode of Inside Man, Sudhish Kamath sits down with filmmaker Bejoy Nambiar, director of Tu Yaa Main, for a candid conversation about finding — and defending — your creative voice. After years of being labelled “style over substance,” Bejoy opens up about how he battled the tag, why he has finally made peace with it, and how Tu Yaa Main — his best reviewed film yet — shifted that narrative.",
-    "img": "https://th-i.thgim.com/public/incoming/ar6ov1/article70702687.ece/alternates/LANDSCAPE_1200/05_Bejoy_Nambiar.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-bejoy-nambiar-interview-why-i-never-watched-the-original/article70702688.ece",
-    "time": "2026-03-04T08:40:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "From Tezaab to Subedar: Suresh Triveni’s Full Circle with Anil Kapoor",
-    "desc": "In this episode of Inside Man, Sudhish Kamath sits down with filmmaker Suresh Triveni — director of Subedar (releasing March 5), showrunner of Daldal on Prime Video, and the upcoming Netflix film Maa Behn starring Madhuri Dixit and Tripti Dimri. Before Tumhari Sulu, Suresh waited nearly eight years to make his breakthrough film. Since then, he went on to direct Jalsa — and now finds himself with three major releases in a single year.",
-    "img": "https://th-i.thgim.com/public/incoming/fm34ox/article70702483.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20at%2012.21.44%E2%80%AFPM.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-from-tezaab-to-subedar-suresh-trivenis-full-circle-with-anil-kapoor/article70702461.ece",
-    "time": "2026-03-04T06:56:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘One Piece’ creator Eiichiro Oda hides series’ biggest secret under the ocean as manga hits 600 million copies",
-    "desc": "In a special project revealed through an official video, Oda wrote down the answer to the central question of the story — the nature of the legendary treasure known as One Piece — for the first time",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/hcqtey/article70702256.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20111111.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/one-piece-creator-eiichiro-oda-hides-series-biggest-secret-under-the-ocean-as-manga-hits-600-million-copies/article70702244.ece",
-    "time": "2026-03-04T05:43:50.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Anthropic’s resistance to the U.S. Department of Defence, OpenAI’s entry: Explained",
-    "desc": "The Dario Amodei-led firm refused to cooperate with the U.S. government’s demands that the firm’s products be used in the deployment of autonomous strikes. The firm has been threatened with being designated as a “supply chain risk”",
-    "img": "https://th-i.thgim.com/public/incoming/r2lf9o/article70698914.ece/alternates/LANDSCAPE_1200/2026-03-02T143303Z_571373715_RC2EWJADNSPA_RTRMADP_3_USA-PENTAGON-ANTHROPIC.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/anthropics-resistance-to-the-us-department-of-defense-openais-entry-explained/article70698887.ece",
-    "time": "2026-03-03T10:45:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Iranian filmmaker Mohammad Rasoulof calls Ayatollah Ali Khamenei ‘most hated figure’ after death in U.S.-Israel strike",
-    "desc": "Iranian director Mohammad Rasoulof, whose film ‘The Seed of the Sacred Fig’ won at Cannes, has condemned Ayatollah Ali Khamenei following the Supreme Leader’s death in a U.S.-Israel military strike, calling him “the most hated figure in the contemporary history of Iran”",
-    "img": "https://th-i.thgim.com/public/incoming/nbud4l/article70698472.ece/alternates/LANDSCAPE_1200/2154565571.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/iranian-filmmaker-mohammad-rasoulof-calls-ayatollah-ali-khamenei-most-hated-figure-after-death-in-us-israel-strike/article70698476.ece",
-    "time": "2026-03-03T07:59:50.000Z"
   }
 ];
