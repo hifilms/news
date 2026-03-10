@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "નોસ્ટ્રાડેમસની ઈરાન-અમેરિકા યુદ્ધ પર ખતરનાક ભવિષ્યવાણી, જણાવ્યું કોણ જીતશે જંગ? બદલાશે વૈશ્વિક સમીકરણ",
+    "desc": "ચીનના ઇતિહાસકાર જિયાંગ ઝુકિનની જૂની ભવિષ્યવાણીઓ સોશિયલ મીડિયા પર વાયરલ થઈ રહી છે. તેમણે ભવિષ્યવાણી કરી હતી કે ડોનાલ્ડ ટ્રમ્પ 2024માં સત્તામાં પાછા ફરશે અને યુએસ-ઈરાન સંઘર્ષ વધશે. હવે, ત્રીજી ભવિષ્યવાણી પણ ચર્ચામાં છે. ચાલો તેના વિશે જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/nostradamus-dangerous-prediction-on-iran-america-war-told-who-will-win-the-war-the-global-equation-will-change-467999 ",
+    "time": "2026-03-10T11:37:03.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "સિલિન્ડરના 900 ખર્ચવાનું ભૂલી જાઓ! હવે 5000 રૂપિયાના વન-ટાઇમ રોકાણ સાથે રસોડું બનશે સ્માર્ટ અને Gas-Free, જાણો કેવી રીતે",
+    "desc": "દેશભરમાં LPGને લઈને પેનિકની સ્થિતિ બની રહી છે. મિડલ ઈસ્ટમાં ચાલી રહેલા યુદ્ધને તેનું કારણ બતાવવામાં આવી રહ્યું છે. સિલિન્ડરના ભાવમાં વધારો થયો છે અને ઘણા રાજ્યોમાં સિલિન્ડર કાળા બજારમાં બમણા ભાવે વેચાઈ રહ્યા છે. આ પરિસ્થિતિનો સામનો કરવા માટે તમે GAS Free Cooking પસંદ કરી શકો છો. તે એક સસ્તું ઉકેલ છે. ચાલો જોઈએ કે તમારા રસોડાને ગેસ-ફ્રી કેવી રીતે બનાવવું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/middle-east-war-cheaper-options-gas-free-kitchen-lpg-cylinder-price-hike-one-time-investment-your-kitchen-will-become-smart-know-467997 ",
+    "time": "2026-03-10T11:25:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગાર પંચના સમયમાં પહેલીવાર પગારમાં થશે વધારો, 60 % થઈ જશે DA! જાણો",
+    "desc": "જો બધું બરાબર રહ્યું, તો સરકારને આગામી 18 મહિનામાં આઠમા પગાર પંચની ભલામણો પ્રાપ્ત થશે. તેનો અમલ 1 જાન્યુઆરી, 2026થી થવાનું અનુમાન છે. જ્યાં સુધી આ નિર્ણય ન થાય, ત્યાં સુધી સરકાર જૂની પદ્ધતિનો ઉપયોગ કરીને કર્મચારીઓને આપવામાં આવતા મોંઘવારી ભથ્થા (DA)ની ગણતરી કરવાનું ચાલુ રાખશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/salary-will-increase-for-the-first-time-during-the-8th-pay-commission-da-will-be-increased-to-60-percent-know-467990 ",
+    "time": "2026-03-10T10:12:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અમીરો સાથે મિત્રતા, પ્રેમનું નાટક અને હનીટ્રેપ...આ રીતે લોજમાં કે હોટલમાં બોલાવી લૂંટતી ફેશન ડિઝાઈનર",
+    "desc": "કર્ણાટકના બેલાગવીમાં, ફેશન ડિઝાઇનર દીપા અવતાગીની સોશિયલ મીડિયા દ્વારા ધનવાન પુરુષોને હનીટ્રેપમાં ફસાવવા અને તેમના પૈસા, સોનું અને કાર લૂંટવા બદલ ધરપકડ કરવામાં આવી હતી. પોલીસ તેના ફરાર સાથીદારને શોધી રહી છે. દીપાના કૃત્યો તમને ચોંકાવી દેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/belagavi-honey-trap-case-fashion-designer-deepa-avatigi-arrest-467988 ",
+    "time": "2026-03-10T10:02:10.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "6300mAh બેટરી અને 32MP કેમેરા, 10999 રૂપિયામાં લોન્ચ થયો ધાંસૂ 5G ફોન",
     "desc": "Poco C85x 5G ભારતમાં લોન્ચ થઈ ગયો છે. તેમાં 6.9 ઇંચ ડિસ્પ્લે, 6300mAh બેટરી અને 32MP કેમેરો મળે છે. તેની શરૂઆતી કિંમત 10999 રૂપિયા રાખવામાં આવી છે અને વેચાણ 14 માર્ચથી ફ્લિપકાર્ડ પર શરૂ થશે.",
@@ -414,15 +450,6 @@ const newsData_gu = [
     "time": "2026-03-07T06:43:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "રાજ્યસભા ચૂંટણીમાં કોંગ્રેસ સાથે થશે મોટો &amp;#039;ખેલ&amp;#039;? જાણો BJP કેવી રીતે બગાડી શકે છે વિપક્ષના સમીકરણ",
-    "desc": "રાજ્યસભામાં 10 રાજ્યોની 37 બેઠકો ભરવા માટે મતદાન થવાનું છે, પરંતુ આ વખતે 2 રાજ્યોમાં કોંગ્રેસ સાથે 'ખેલ' થવાની ચર્ચાએ જોર પકડ્યું છે. 7 રાજ્યોમાં સાંસદો બિનહરીફ ચૂંટાઈ શકે છે, જ્યારે 3 રાજ્યોની બેઠકો માટે મતદાન થવાનું છે. આ 3 પૈકી 2 રાજ્યોમાં વિપક્ષના સમીકરણો બગડી શકે તેવી શક્યતા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/will-congress-be-tricked-in-the-rajya-sabha-elections-learn-how-the-bjp-can-disrupt-the-oppositions-equations-467487 ",
-    "time": "2026-03-07T05:37:04.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઈરાન જંગમાં હવે રશિયાની સીધી એન્ટ્રી! ડ્રોન અને બેલેસ્ટિક મિસાઈલો એમ જ કઈ નથી કરી રહ્યા અમેરિકી બેઝને ટાર્ગેટ",
     "desc": "ઈરાન પર ઈઝરાયેલ અને અમેરિકાએ શરૂ કરેલા યુદ્ધનો આજે સાતમો દિવસ છે. આ વચ્ચે અમેરિકન રક્ષામંત્રાલય અને ખૂફિયા એજન્સીઓએ રાષ્ટ્રપતિ ટ્રમ્પને એવી વિગતો આપી છે કે ટ્રમ્પ ધૂઆપૂઆં થઈ ગયા છે. ઈરાન પર જીતના દાવા કરતાં ટ્રમ્પને એવી તો શું ખબર પડી છે કે આખી ગેમ બદલાઈ શકે છે. તો જાણી લો શું છે આ વિગતો......",
@@ -493,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-israel-war-who-attacked-these-4-muslim-countries-while-iran-clearly-denied-it-467355 ",
     "time": "2026-03-05T16:00:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "શ્રીલંકા તરફ આગળ વધી રહ્યું છે બીજુ ઈરાની જહાજ, અધિકારીઓ ચિંતામાં, કહ્યું- નિશાન બનાવી શકાય છે",
-    "desc": "ઈરાની યુદ્ધપોત IRIS Dena ડૂબી ગયા બાદ રાષ્ટ્રપતિ અનુરા કુમારા દિસાનાયકેએ વરિષ્ઠ અને સુરક્ષા અધિકારીઓ સાથે મુલાકાત કરી અને સુરક્ષા માટે જહાજને શ્રીલંકાના પાણીમાં પ્રવેશ આપવાની ઈરાનની વિનંતી પર ચર્ચા કરી છે. કારણ કે અમેરિકાએ કબૂલી લીધું છે કે એમની સબમરિને હુમલો કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/another-iranian-ship-is-moving-towards-sri-lanka-officials-are-worried-said-it-could-be-targeted-467301 ",
-    "time": "2026-03-05T09:50:23.000Z"
   },
   {
     "cat": "Tech",

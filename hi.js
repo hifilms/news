@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "ICC books individual flights for West Indies, South Africa players, after chartered flight got cancelled",
+    "desc": "West Indies and South Africa players are still stranded in Kolkata after travel arrangements made for their return journey didn’t materialise on Tuesday. A chartered flight that was meant to take both teams to Johannesburg...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-books-individual-flights-for-west-indies-south-africa-players-after-chartered-flight-got-cancelled-2026-03-10-1033285",
+    "time": "2026-03-10T11:59:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arshdeep Singh handed 15% fine for breaching ICC Code of Conduct in T20 World Cup 2026 final",
+    "desc": "Arshdeep Singh has been fined 15% of his match fee for breaching Level 1 of the ICC Code of Conduct during the T20 World Cup 2026 Final between India and New Zealand at Narendra Modi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-handed-15-fine-for-breaching-icc-code-of-conduct-in-t20-world-cup-2026-final-2026-03-10-1033275",
+    "time": "2026-03-10T10:58:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 schedule set to be released by March 13, confirms BCCI secretary Devajit Saikia",
+    "desc": "The Board of Control for Cricket in India (BCCI) secretary Devajit Saikia confirmed that the IPL 2026 schedule will be released in the next couple of days. Explaining the reason behind the delay, the veteran...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-schedule-set-to-be-released-by-march-13-confirms-bcci-secretary-devajit-saikia-2026-03-10-1033270",
+    "time": "2026-03-10T10:40:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Reminiscent of Viv Richards': Sunil Gavaskar heaps praise on Sanju Samson after recent exceptional showing",
     "desc": "Former India cricketer Sunil Gavaskar recently came forward and heaped massive praise on star batter Sanju Samson. It is worth noting that Sanju Samson was named as the Player of the Tournament as India won...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/birmingham-phoenix-name-jacob-bethell-as-captain-ahead-of-the-hundred-2026-2026-03-10-1033218",
     "time": "2026-03-10T03:45:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Annabel Sutherland rested as Australia women name squad for West Indies tour",
-    "desc": "Cricket Australia came forward and announced Australia women’s squad for the upcoming West Indies tour. It is worth noting that star all-rounder Annabel Sutherland will be rested for the West Indies tour. Furthermore, skipper Sophie...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/annabel-sutherland-rested-as-australia-women-name-squad-for-west-indies-tour-2026-03-10-1033211",
-    "time": "2026-03-10T02:23:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand women announce T20I squad for five-game series against South Africa",
-    "desc": "New Zealand women are all set to take on South Africa women in a multi-format white-ball series. The two sides will take on each other across five T20Is and three ODI matches. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-women-announce-t20i-squad-for-five-game-series-against-south-africa-2026-03-10-1033208",
-    "time": "2026-03-10T01:38:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah topples Sachin Tendulkar in major record list for India",
-    "desc": "Ace pacer Jasprit Bumrah has surpassed the legendary Sachin Tendulkar on the list of most wickets by an Indian cricketer in the knockouts of ICC tournaments. The Ahmedabad-born claimed four wickets against New Zealand in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-topples-sachin-tendulkar-in-major-record-list-for-india-2026-03-09-1033201",
-    "time": "2026-03-09T18:09:57.000Z"
   }
 ];

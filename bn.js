@@ -1,6 +1,69 @@
 const newsData_bn = [
   {
     "cat": "Business",
+    "title": "একজন সর্বোচ্চ কত লিটার 'পেট্রোল-ডিজেল' কিনতে পারেন জানেন...? চমকে দেবে 'নিয়ম'!",
+    "desc": "মধ্যপ্রাচ্যের আঁচ ভারতেও! পেট্রোল ও ডিজেলের ঘাটতি নিয়ে দেশ জুড়ে বাড়ছে পারদ। অনেকেই ঘন ঘন ছুটছেন পেট্রোল পাম্পে! আদৌ জ্বালানি মিলবে তো? মানুষের মধ্যে বাড়ছে বিভ্রান্তি। আচ্ছা আদতে আপনি চাইলে ঠিক কত লিটার পেট্রোল-ডিজেল মজুদ করতে পারেন বলুন তো? কত লিটারের বেশি পেট্রোল ডিজেল থাকলে ঠিকানা হবে জেল?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/petrol-diesel-2026-03-10b541c555c42a3a07d06d0a3a802ba9-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/petrol-diesel-rule-india-how-many-liters-of-petrol-and-diesel-can-a-common-man-buy-the-rules-will-surprise-you-for-sure-check-out-what-law-says-amid-trending-fuel-crisis-sanj-2578058.html",
+    "time": "2026-03-10T12:24:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ইরানের স্কুলের ১৭৫ শিশুকে 'খুন' করেছে আমেরিকাই? তদন্তে বেরিয়ে এল হাড়হিম তথ্য",
+    "desc": "ইরানের মিনাব শহরে প্রাথমিক বিদ্যালয়ে ক্ষেপণাস্ত্র হামলার কথা অস্বীকার করেই যাচ্ছেন মার্কিন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তাঁর দাবি ছিল, যুদ্ধের মধ্যে ইরানের ক্ষেপণাস্ত্রই আঘাত হানে স্কুলটিতে, যাতে দেড়শোরও বেশি শিশু নিহত হয়। তবে, তদন্তে নতুন করে যে-তথ্য় বেরিয়ে এল তা বিস্ময়কর!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/us-attacked-iran-school-death-toll-175-donald-trump_644395.html ",
+    "time": "2026-03-10T12:08:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hardik Pandya-Maheika Sharma: \"আমার মিসেস\"! তাহলে কি গোপনে বিয়েটা সেরেই ফেলেছেন হার্দিক-মাহিকা? জয়ের মঞ্চেই করলেন ঘোষণা!",
+    "desc": "এই বিশ্বকাপটি ব্যক্তিগতভাবে এই দম্পতির জন্যও খুবই আবেগঘন ছিল। ২০১৪ সালে নাতাসা স্টানকোভিচের সঙ্গে বিবাহবিচ্ছেদের পর হার্দিক পান্ডিয়া তাঁর জীবনের এক কঠিন সময়ের মুখোমুখি হন। পরবর্তীতে তিনি মাহিকা শর্মার সঙ্গে তার সম্পর্ক প্রকাশ্যে আনেন। মাহিকা পুরো টুর্নামেন্ট জুড়ে ছায়ার মতো হার্দের পাশে ছিলেন, প্রতিটি ম্যাচেই স্ট্যান্ড থেকে তাঁকে উৎসাহিত করেছিলেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Hardik-Pandya-with-Girl-Friend-2026-03-571b816d92b638ad7a00cdefb1d5d560-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/hardik-pandya-calls-girlfriend-maheika-sharma-mrs-after-india-won-t20-world-cup-2026-are-they-married-fans-speculation-pbd-2577870.html",
+    "time": "2026-03-10T11:42:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "আপনি কোথায় বিনিয়োগ করে বেশি লাভবান হবেন ? বুঝে নিন হিসেব",
+    "desc": "ট্যাক্স সেভিং FD এবং NSC হল ভারতে জনপ্রিয় দুইটি নিরাপদ বিনিয়োগের বিকল্প। দুটিতেই সেকশন 80C-এর অধীনে কর ছাড় পাওয়া যায়। কিন্তু সুদ, মেয়াদ এবং মোট রিটার্নের দিক থেকে কোনটি বেশি লাভজনক, তা বিস্তারিতভাবে জেনে নিন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/fd-vs-nsc-2026-03-62164da9d9275bf521fc7f784be423d3-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/tax-saving-fd-vs-nsc-which-investment-gives-better-returns-complete-calculation-explained-tc-dc-aa-2577685.html",
+    "time": "2026-03-10T11:41:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'কাল থেকে আর সাপ্লাই আসবে না'! আতঙ্কিত স্বর হোটেল ও রেস্তোরাঁ প্রধানের...এলপিজি ঘাটতির আশঙ্কা বাড়ছে",
+    "desc": "বিশেষজ্ঞদের মতে, সমস্যার মূল কারণ হল মধ্যপ্রাচ্যের সংঘাতের জেরে আন্তর্জাতিক জ্বালানি পরিবহণে বিঘ্নের আশঙ্কা। বিশেষ করে হরমুজ প্রণালী, যা বিশ্ব জ্বালানি পরিবহণের অন্যতম গুরুত্বপূর্ণ সমুদ্রপথ, সেখানে উত্তেজনার কারণে তেল ও গ্যাসের জাহাজ চলাচল ব্যাহত হওয়ার আশঙ্কা তৈরি হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/LPG-2026-03-6ad20cf18ca1e0c3b666e76a42012084-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/iran-war-impact-on-india-lpg-shortage-concerns-hotel-and-restaurant-association-of-india-may-feel-the-heat-commercial-gas-supply-hit-tib-2577966.html",
+    "time": "2026-03-10T11:23:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "THAAD থেকে HIMARS- ইরানকে শিক্ষা দিতে কিছুই বাকি রাখেনি আমেরিকা! কোন কোন অস্ত্র এখনও ব্যবহার করেছেন ট্রাম্প?",
+    "desc": "মার্কিন সেন্ট্রাল কমান্ড (CENTCOM) এখন ইরানের বিরুদ্ধে ২৮ ফেব্রুয়ারি শুরু হওয়া অপারেশন এপিক ফিউরির-র প্রথম ১০ দিনের সারাংশ প্রকাশ করেছে। আমেরিকা-ইজরায়েল-ইরান যুদ্ধে এখনও পর্যন্ত আমেরিকা কী কী সামরিক সরঞ্জাম ব্যবহার করেছে? দেখে নিন এক নজরে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Iran-Israel-USA-War-2026-03-c521aa6c815cf14e090b602ea1b723f3-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/from-thaad-to-himars-donald-trump-used-30-most-inportant-military-assets-in-first-10-days-of-israel-iran-us-war-rdp-2577863.html",
+    "time": "2026-03-10T11:06:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "যুদ্ধ পরিস্থিতর মধ্যে সোনার দাম ৮০০০ টাকা এবং রুপোর দাম ২৮০০০ টাকা কমেছে ? আজকের লেটেস্ট দাম জেনে নিন",
+    "desc": "বাজারে বড় পরিবর্তন। সাম্প্রতিক সময়ে সোনার দাম প্রায় ৮০০০ টাকা এবং রুপোর দাম প্রায় ২৮০০০ টাকা পর্যন্ত কমেছে বলে খবর। আন্তর্জাতিক বাজার ও ভূ-রাজনৈতিক পরিস্থিতির প্রভাবে এই পতন হয়েছে। আজকের লেটেস্ট সোনা-রুপোর রেট জেনে নিন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Gold-1104-new-2026-03-2eb652e318962557f2172f7893c419e5-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/gold-price-crash-gold-down-8000-rupees-and-silver-28000-rupees-amid-war-tensions-check-latest-rates-today-tc-dc-aa-2577658.html",
+    "time": "2026-03-10T09:58:54.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "জঙ্গলের লতাপাতাই দিচ্ছে আয়ের হদিস! রকমারি জিনিস বানাচ্ছেন মহিলারা, ক্রেতারা লুফে নিতেই আসছে দু'হাত ভরে আসছে টাকা",
     "desc": "একসময় যা ছিল বনের ফেলনা লতাপাতা, আজ তাই হয়ে উঠেছে আয়ের প্রধান উৎস। স্বনির্ভর গোষ্ঠীর মহিলারা নিপুণ হাতে তৈরি করছেন নানা সরঞ্জাম। ক্রেতাদের কাছে এই সকল জিনিসের চাহিদা তুঙ্গে থাকায় লাভের মুখ দেখছেন কয়েকশো পরিবার।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/women-making-handicrafts-with-forest-resource-2026-03-a0ef64c083357744ad10885f371bca97-1200x800.jpg",
@@ -835,68 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/mass-funeral-held-in-iran-for-165-schoolgirls-killed-in-us-israeli-attack-iranian-foreign-minister-says-trump-rescue-promise-tib-ws-l-2567744.html",
     "time": "2026-03-03T17:32:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভারতের ৫০০ টাকার নোট দিলে 'ইজরায়েলে' কত পাবেন জানেন...? চমকে দেবে হিসেব, গ্যারান্টি!",
-    "desc": "ইজরায়েল নিয়ে তো খুব চায়ের কাপে তুফান তুলছেন! আচ্ছা, ধরুন আপনার কাছে ৫০০ ভারতীয় টাকা আছে এবং আপনি সেই নোট নিয়ে ইজরায়েলি মুদ্রায় তা বিনিময় করতে চান। ঠিক কত হাতে আসবে বলুন তো? আসুন আজ এই প্রতিবেদনে জেনে নেওয়া যাক বিনিময়ে আপনি কত টাকা পাবেন। উত্তরটি কিন্তু সত্যিই অবাক করার মতো হতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/israel-1-2026-03-97cf198b29ef270c899280b7ffaab438-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-israeli-shekel-do-you-know-how-much-you-will-get-in-israel-if-you-give-an-indian-500-rupee-note-the-calculation-will-surprise-you-guaranteed-sanj-2567468.html",
-    "time": "2026-03-03T16:40:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "অরিজিৎ সিং-এর দোল! স্কুটিতে বসেই অরিজিতের হোলি খেলা, প্রতিবেশীদের বললেন, \"বেশি রং দিও না\"",
-    "desc": "দোলের দিন এমনই এক সফরে তাঁকে রং মাখাতে আসেন পাড়ার কয়েকজন ছোট ছেলেমেয়ে৷ যাদের দেখে হাসেন অরিজিৎ৷ তবে বলেন, একটু কম রং দিতে! ভিডিও দেখে যা বোঝা গিয়েছে যে এর আগেও তাঁকে কেউ রং মাখিয়েছে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Atijit-Singh-Holi-2026-03-6404f83480af96a9d9e34437a1e9b23e-1200x800.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/arijit-singh-holi-singer-in-his-scooter-children-comes-and-apply-color-on-his-face-old-video-viral-pbd-2567493.html",
-    "time": "2026-03-03T14:51:37.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ভারত থেকে লন্ডনের বিমান ভাড়া ৯ লাখ টাকা, না দিলে ২৫ ঘণ্টার লম্বা যাত্রা! ইরান সঙ্কটে বিপাকে ভারতীয় যাত্রীরা",
-    "desc": "মধ্যপ্রাচ্যের অস্থিরতার জেরে বিপাকে পড়েছেন ভারত ও লন্ডনের মধ্যে যাতায়াত করা যাত্রীরা। কারণ বহু যাত্রী ঠিকমতো ভেঙে যাত্রা করতে পারছেন না। তাই যাত্রীদের ভরসা লম্বা ওয়ান-স্টপ যাত্রা অথবা একমাত্র নন-স্টপ সিট, যার দাম ৯.১২ লাখ টাকারও বেশি, এই দুইয়ের মধ্যে বেছে নিতে হচ্ছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Flight-1-2026-03-58cf76829225822e34b018041f28fb69-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/airfare-pressure-indians-amid-iran-tension-as-london-flight-from-india-costs-more-than-9-lakhs-rdp-2567248.html",
-    "time": "2026-03-03T12:14:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিহার থেকে বিজেপির রাজ্যসভার প্রার্থী হলেন দলের সর্বভারতীয় সভাপতি নিতিন নবীন! কোন রাজ্যে প্রার্থী কারা...? দেখুন রাজ্যভিত্তিক তালিকা",
-    "desc": "রাজ্যসভার প্রার্থী ঘোষণা বিজেপির! বিহার, অসম, ছত্তিশগড়-সহ একাধিক গুরুত্বপূর্ণ রাজ্যের প্রার্থীদের নাম ঘোষণা হতেই তালিকায় দেখা গেল একের পর এক চমক। রাজ্যসভায় এবার একদিকে বাংলা থেকে লড়ছেন রাহুল সিনহা, অন্যদিকে বিহার থেকে রাজ্যসভার প্রার্থী হলেন দলের সর্বভারতীয় সভাপতি নিতিন নবীন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/nitin-nabin-2026-03-9d42e493eb34668192d0773594972a9b-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/bjp-rajya-sabha-candidate-list-nitin-nabin-rahul-sinha-among-nine-rajya-sabha-candidates-names-announced-today-by-bjp-in-first-list-check-here-sanj-2567257.html",
-    "time": "2026-03-03T10:54:32.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "'ইরানে' ভারতীয় পড়ুয়ারা কোন 'সাবজেক্ট' পড়তে যায় জানেন...? 'উত্তর' শুনলে চমকাবেন!",
-    "desc": "উত্তপ্ত ইরান! ইজরায়েল ও মার্কিন যুক্তরাষ্ট্রের সামরিক হামলা ও পাল্টা হামলায় অস্থির ইরানের মাটি। আঁচ এসে পৌঁছেছে ভারতেও। বর্তমান পরিস্থিতি যেমন প্রাসঙ্গিক করে তুলেছে এই দেশটিকে আচমকাই, ঠিক তেমনি সেখানে পড়াশোনা করতে যাওয়া হাজার হাজার ভারতীয় ছাত্রের নিরাপত্তা নিয়ে তুলে দিয়েছে গুরুতর প্রশ্নচিহ্ন। উদ্বেগ প্রকাশ করেছে ভারত। কিন্তু জানেন কী কোন সেই বিশেষ 'বিষয়' যা পড়তে প্রতি বছর শয়ে শয়ে ছাত্র-ছাত্রী ছোটেন এই দেশে? চমকে যাবেন শুনলে!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/student-2026-03-9de0651345650f41c178f159687d66b9-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/indian-students-in-iran-do-you-know-which-subject-indian-students-go-to-study-in-iran-you-will-be-shocked-to-hear-the-answer-trending-general-knowledge-sanj-2566336.html",
-    "time": "2026-03-03T09:41:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika Mandanna-Vijay Deverakonda Sangeet Ceremony: চুঁইয়ে পড়ল 'প্রেমরস'! সঙ্গীতের রাতে 'হাসি-কান্না'য় বিজয়-রশ্মিকা হারিয়ে গেলেন একে অপরের বাহুডোরে",
-    "desc": "গত বছরের অক্টোবরে এই দম্পতির বাগদান হয়েছিল, কিন্তু ফেব্রুয়ারিতে তাঁরা তাঁদের বিয়ের ঘোষণা করে তাঁদের সম্পর্কের বিষয়টি নিশ্চিত করে। রশ্মিকা এবং বিজয় ২৬শে ফেব্রুয়ারি উদয়পুরে ঘনিষ্ঠ বন্ধুবান্ধব এবং পরিবারের উপস্থিতিতে একটি অন্তরঙ্গ কিন্তু জাঁকজমকপূর্ণ অনুষ্ঠানে বিয়ে করেন। এই দম্পতি এখন ৪ঠা মার্চ হায়দ্রাবাদে শিল্পের বন্ধুদের জন্য একটি জমকালো সংবর্ধনার আয়োজন করতে চলেছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Vijay-Rashmika-Sangeet-2026-03-f5303c9b3cb3074fbb8b3ea6b9e5cf23-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/rashmika-mandanna-vijay-deverakonda-sangeet-night-couple-filled-with-love-laughter-tears-emotional-transpg-pbd-2566993.html",
-    "time": "2026-03-03T08:59:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "সেমিফাইনালে ভারতের সামনে ইংল্যান্ড! ম্যাচ বৃষ্টিতে ভেস্তে গেলে ফাইনালে উঠবে কোন দল?",
-    "desc": "বৃহস্পতিবার ওয়াংখেড়েতে মেগা সেমিফাইনালে মুখোমুখি হতে চলেছে ভারত এবং ইংল্যান্ড। ওয়েস্ট ইন্ডিজের বিরুদ্ধে রান তাড়া করে দুর্দান্ত জয়ের পরে বিশ্বকাপ জেতার জন্য মুখিয়ে টিম ইন্ডিয়া। বিশ্বকাপ থেকে মাত্র দুটি ম্যাচ দূরে সূর্যরা। ম্যাচ ভেস্তে গেলে সেমিফাইনে কোন দল?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Team-India-2026-03-0dccb152ae36a2f385a8833194a9f1e8-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/icc-t20-world-cup-semifinal-which-team-will-reach-semifinal-between-india-and-england-if-match-washed-away-rdp-2566839.html",
-    "time": "2026-03-03T07:50:49.000Z"
   }
 ];
