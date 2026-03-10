@@ -1,6 +1,33 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Suspect to make first court appearance",
+    "desc": "A Florida woman, Ivanna Lisette Ortiz, faces arraignment after allegedly firing shots at Rihanna's Los Angeles home with ten people inside. Police recovered a weapon and arrested Ortiz, who was reportedly from Orlando and held on a USD 10.2 million bail. No one was injured in the Sunday incident, and her connection to the singer remains unclear.",
+    "img": "https://static.toiimg.com/photo/msid-129419590,imgsize-86980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/woman-arrested-for-firing-gun-outside-rihannas-house-to-make-first-court-appearance/articleshow/129419166.cms",
+    "time": "2026-03-10T20:59:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anubhav Sinha reacts to Taapsee’s ‘Bollywood-South’ remark",
+    "desc": "Filmmaker Anubhav Sinha recently addressed actor Taapsee Pannu’s remark about the portrayal of women in films. Speaking to Siddharth Kannan in an interview, the director shared his perspective on the debate around body representation in Bollywood and South Indian cinema. He also spoke about working with Taapsee and his past comment comparing her to Kangana Ranaut.",
+    "img": "https://static.toiimg.com/photo/msid-129418448,imgsize-70652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anubhav-sinha-reacts-to-taapsee-pannus-bollywood-obsessed-with-cleavage-south-with-midriff-remark-what-audiences-see-/articleshow/129418448.cms",
+    "time": "2026-03-10T20:27:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Form special tribunals to hear appeals of people left out of Bengal SIR, says Supreme Court",
+    "desc": "The Supreme Court asked the Chief Justice of Calcutta High Court to request former Chief Justices and judges of High Courts to preside over the Benches of the appellate tribunals once they are notified by the Election Commission",
+    "img": "https://th-i.thgim.com/public/incoming/p4tihv/article70727925.ece/alternates/LANDSCAPE_1200/PTI03_05_2026_000191A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-asks-for-special-tribunals-to-hear-appeals-of-voters-excluded-in-west-bengal-sir/article70727502.ece",
+    "time": "2026-03-10T19:54:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Tina on parents Govinda and Sunita Ahuja's divorce rumours",
     "desc": "Sunita Ahuja’s latest vlog turned into a heartfelt family moment after her daughter Tina Ahuja surprised her on Women’s Day with flowers, gifts and a solitaire ring. The vlog also saw Tina briefly addressing rumours about her parents’ marriage and admitting that the last couple of years have been challenging.",
     "img": "https://static.toiimg.com/photo/msid-129412780,imgsize-83924.cms",
@@ -115,15 +142,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-explains-why-she-has-security-to-protect-daughter-malti-maries-privacy-once-a-person-followed-her-from-school/articleshow/129406092.cms",
     "time": "2026-03-10T16:03:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court asks for special tribunals to hear appeals of voters excluded in West Bengal SIR",
-    "desc": "The Supreme Court asked the Chief Justice of Calcutta High Court to request former Chief Justices and judges of High Courts to preside over the Benches of the appellate tribunals once they are notified by the Election Commission",
-    "img": "https://th-i.thgim.com/public/incoming/p4tihv/article70727925.ece/alternates/LANDSCAPE_1200/PTI03_05_2026_000191A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-asks-for-special-tribunals-to-hear-appeals-of-voters-excluded-in-west-bengal-sir/article70727502.ece",
-    "time": "2026-03-10T15:55:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -360,15 +378,6 @@ const newsData_en = [
     "time": "2026-03-10T11:51:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Pawan Kalyan's 'Ustaad Bhagat Singh' clears censor",
-    "desc": "Pawan Kalyan's 'Ustaad Bhagat Singh' has received a U/A certificate, confirming its March 19, 2026 release and a box office clash with 'Dhurandhar The Revenge.' The film's third single, 'Collar Ey Ethara,' is set for release on March 12 with a grand celebration in Hyderabad, following the success of previous tracks.",
-    "img": "https://static.toiimg.com/photo/msid-129393876,imgsize-77964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ustaad-bhagat-singh-clears-censor-pawan-kalyan-starrer-set-for-clash-with-dhurandhar-2-third-song-collar-ey-ethara-drops-soon/articleshow/129393876.cms",
-    "time": "2026-03-10T11:46:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How can it be improved?",
     "desc": "India slipped to 25th in the 2026 Gender Equality in Chess Index (GECI), highlighting gender imbalance in the sport. Despite strong performances by elite women players, female participation in youth championships remains low, and many girls drop out early. Experts say social pressures, financial hurdles and lack of structured support limit opportunities, stressing the need for better grassroots development and long-term systems to promote women’s chess.",
@@ -414,15 +423,6 @@ const newsData_en = [
     "time": "2026-03-10T10:33:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shekhar Kapur says YRF didn't want to cast Sushant in Paani",
-    "desc": "Filmmaker Shekhar Kapur revealed why Yash Raj Films stepped away from his long-delayed futuristic film 'Paani'. Creative differences regarding Aditya Chopra's involvement in directorial control led to the studio's withdrawal. Kapur also reflected on Sushant Singh Rajput's dedication to the role before his untimely death.",
-    "img": "https://static.toiimg.com/photo/msid-129389916,imgsize-26446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shekhar-kapur-says-paani-hit-roadblock-because-yrf-didnt-want-to-cast-sushant-singh-rajput-after-he-was-rehearsing-with-the-actor-for-six-months/articleshow/129389752.cms",
-    "time": "2026-03-10T10:28:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Asian airlines raise fares as war fuels oil shock fears",
     "desc": "Asian airlines are hiking fares and planning for potential flight groundings as the Middle East conflict fuels a major oil shock. Indian carriers have already raised long-haul ticket prices by 15%, with Vietnam warning of up to 70% increases. Many Asian airlines, lacking robust fuel hedging, face significant vulnerability as jet fuel prices double, threatening operations and travel demand.",
@@ -457,24 +457,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-best-picture-nominees-ranked-entertainment-news-academy-awards-date-time-schedule-how-to-watch-india/article70725922.ece",
     "time": "2026-03-10T09:38:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why Kharg Island remains a red line in the US–Israel war on Iran",
-    "desc": "Iran's vital Kharg Island oil hub remains operational amidst the ongoing US-Israel war. Despite its strategic importance and potential as a military target, oil shipments continue. Seizing the island could halt Iran's exports and trigger regional retaliation. Global energy markets and shipping through the Strait of Hormuz are already impacted",
-    "img": "https://static.toiimg.com/photo/msid-129379044,imgsize-55866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/why-kharg-island-remains-a-red-line-in-the-usisrael-war-on-iran/articleshow/129376283.cms",
-    "time": "2026-03-10T09:31:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India to supply 5,000 tons of diesel to Dhaka; targets 90,000 tons in 6 months",
-    "desc": "India began supplying 5,000 tons of diesel to Bangladesh via pipeline on Tuesday, part of an annual agreement for 180,000 tons. This delivery aims to alleviate fuel shortages and combat illegal hoarding, as the Bangladesh government intensifies efforts to monitor stock levels and enforce supply limits.",
-    "img": "https://static.toiimg.com/photo/msid-129386522,imgsize-14066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/fuel-crisis-in-bangladesh-india-to-supply-5000-tons-of-diesel-to-dhaka-targets-90000-tons-in-6-months/articleshow/129384226.cms",
-    "time": "2026-03-10T09:30:14.000Z"
   },
   {
     "cat": "Sports",
@@ -520,24 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/kar-diya-na-kaam-bjp-shares-video-of-rahul-gandhi-praising-youth-congress-shirtless-protest-at-ai-summit/articleshow/129384408.cms",
     "time": "2026-03-10T08:40:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Saudi's Aramco CEO warns of 'catastrophic consequences' for oil markets",
-    "desc": "Saudi Aramco warns that ongoing conflict in the Strait of Hormuz could lead to catastrophic consequences for global oil markets, citing already low inventories and potential impacts on various industries. The company confirmed a small fire at its Ras Tanura Refinery following an attack, which has since been brought under control.",
-    "img": "https://static.toiimg.com/photo/msid-129382316,imgsize-21074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/strait-of-hormuz-crisis-amid-iran-war-saudis-aramco-ceo-warns-of-catastrophic-consequences-for-oil-markets/articleshow/129381629.cms",
-    "time": "2026-03-10T08:24:31.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "LPG shortage concerns rise; which states may feel the heat?",
-    "desc": "West Asia tensions are disrupting commercial LPG supplies to eateries in Bengaluru, Mumbai, and Chennai. Authorities are prioritizing domestic use, impacting businesses. The government is ramping up LPG production, extending refill cycles, and forming a committee to address commercial supply requests amid import concerns.",
-    "img": "https://static.toiimg.com/photo/msid-129383789,imgsize-253102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/iran-war-impact-on-india-lpg-shortage-concerns-rise-which-states-may-feel-the-heat/articleshow/129383455.cms",
-    "time": "2026-03-10T08:21:50.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/lanterns-teaser-kyle-chandler-and-aaron-pierres-tense-partnership-to-steer-upcoming-dc-series/article70706165.ece",
     "time": "2026-03-05T06:05:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bejoy Nambiar Interview: Why I never watched the original",
+    "desc": "In this episode of Inside Man, Sudhish Kamath sits down with filmmaker Bejoy Nambiar, director of Tu Yaa Main, for a candid conversation about finding — and defending — your creative voice. After years of being labelled “style over substance,” Bejoy opens up about how he battled the tag, why he has finally made peace with it, and how Tu Yaa Main — his best reviewed film yet — shifted that narrative.",
+    "img": "https://th-i.thgim.com/public/incoming/ar6ov1/article70702687.ece/alternates/LANDSCAPE_1200/05_Bejoy_Nambiar.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shows/watch-bejoy-nambiar-interview-why-i-never-watched-the-original/article70702688.ece",
+    "time": "2026-03-04T08:40:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "From Tezaab to Subedar: Suresh Triveni’s Full Circle with Anil Kapoor",
+    "desc": "In this episode of Inside Man, Sudhish Kamath sits down with filmmaker Suresh Triveni — director of Subedar (releasing March 5), showrunner of Daldal on Prime Video, and the upcoming Netflix film Maa Behn starring Madhuri Dixit and Tripti Dimri. Before Tumhari Sulu, Suresh waited nearly eight years to make his breakthrough film. Since then, he went on to direct Jalsa — and now finds himself with three major releases in a single year.",
+    "img": "https://th-i.thgim.com/public/incoming/fm34ox/article70702483.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20at%2012.21.44%E2%80%AFPM.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shows/watch-from-tezaab-to-subedar-suresh-trivenis-full-circle-with-anil-kapoor/article70702461.ece",
+    "time": "2026-03-04T06:56:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘One Piece’ creator Eiichiro Oda hides series’ biggest secret under the ocean as manga hits 600 million copies",
+    "desc": "In a special project revealed through an official video, Oda wrote down the answer to the central question of the story — the nature of the legendary treasure known as One Piece — for the first time",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/hcqtey/article70702256.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20111111.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/one-piece-creator-eiichiro-oda-hides-series-biggest-secret-under-the-ocean-as-manga-hits-600-million-copies/article70702244.ece",
+    "time": "2026-03-04T05:43:50.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Anthropic’s resistance to the U.S. Department of Defence, OpenAI’s entry: Explained",
+    "desc": "The Dario Amodei-led firm refused to cooperate with the U.S. government’s demands that the firm’s products be used in the deployment of autonomous strikes. The firm has been threatened with being designated as a “supply chain risk”",
+    "img": "https://th-i.thgim.com/public/incoming/r2lf9o/article70698914.ece/alternates/LANDSCAPE_1200/2026-03-02T143303Z_571373715_RC2EWJADNSPA_RTRMADP_3_USA-PENTAGON-ANTHROPIC.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropics-resistance-to-the-us-department-of-defense-openais-entry-explained/article70698887.ece",
+    "time": "2026-03-03T10:45:55.000Z"
   }
 ];
