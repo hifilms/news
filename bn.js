@@ -1,5 +1,68 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "জঙ্গলের লতাপাতাই দিচ্ছে আয়ের হদিস! রকমারি জিনিস বানাচ্ছেন মহিলারা, ক্রেতারা লুফে নিতেই আসছে দু'হাত ভরে আসছে টাকা",
+    "desc": "একসময় যা ছিল বনের ফেলনা লতাপাতা, আজ তাই হয়ে উঠেছে আয়ের প্রধান উৎস। স্বনির্ভর গোষ্ঠীর মহিলারা নিপুণ হাতে তৈরি করছেন নানা সরঞ্জাম। ক্রেতাদের কাছে এই সকল জিনিসের চাহিদা তুঙ্গে থাকায় লাভের মুখ দেখছেন কয়েকশো পরিবার।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/women-making-handicrafts-with-forest-resource-2026-03-a0ef64c083357744ad10885f371bca97-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/east-medinipur-money-making-tips-egra-alanggiri-women-making-handicrafts-with-forest-resource-rural-economy-success-story-l18-local18-2577344.html",
+    "time": "2026-03-10T09:11:45.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "পতন অব্যাহত, যুদ্ধ বাড়লেও কেন কমছে সোনার দাম? জানুন ৫ কারণ",
+    "desc": "সাধারণত যুদ্ধ বা কোনওরকম কোনও ভূ-রাজনৈতিক অস্থিরতার সময় নিরাপদ বিনিয়োগ হিসেবে সোনার চাহিদা বাড়ে। আর তার জেরে সোনার দামও বাড়ে। কিন্তু এবার একেবারে উল্টো প্রবণতা দেখা যাচ্ছে। যুদ্ধের শুরু থেকেই দামে পতন! যুদ্ধ পরিস্থিতি থাকা সত্ত্বেও কেন কমছে সোনা-রুপোর দাম? বিশ্লেষকরা বলছেন, এর পিছনে রয়েছে ৫ বড় কারণ। কী কী?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/gold-rate-10-march-why-gold-price-are-falling-in-us-iran-war-5-reasons-explained_644379.html ",
+    "time": "2026-03-10T09:09:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "লতা মঙ্গেশকরের সুপারহিট গান, রেখা তাঁর প্রেমিককে নিয়ে প্রশ্ন করেছিলেন, দূরে দাঁড়িয়েই প্রেম বিলিয়ে দিলেন ধর্মেন্দ্র",
+    "desc": "৮০-র দশক হিন্দি সিনেমার সোনালী যুগ বলে ধরা হয়। এই সময়ে আসা গানগুলো আজও মানুষের মনে গেঁথে রয়েছে। সেই রকমই একটা গান হল ‘গজব’ ছবির গান। এই ছবির বিখ্যাত গান ‘‘মেরা সজন ক্যায়সা হোগা’’ অনেক পছন্দ করা হয়েছিল। এই গানটি গেয়েছিলেন লতা মঙ্গেশকর এবং আজও এই গান সঙ্গীতপ্রেমীদের মধ্যে ঠিক ততটাই জনপ্রিয়, যতটা রিলিজের সময় ছিল। গানে পরিচিত অভিনেত্রী রেখা পাহাড়ে দাঁড়িয়ে জিজ্ঞেস করেন, ‘‘বতা মেরা সাজন ক্যায়সা হোগা’’। এই গানটি রেখা এবং ধর্মেন্দ্রর উপর চিত্রায়িত হয়েছে। গানের কথায় তিনি যেন তাঁর প্রেমিককে জিজ্ঞেস করছেন, ‘সাজন’ ছাড়া তাঁর বর্ষাকাল কেমন হবে। গানে দেখা গেল দূরে দাঁড়িয়ে ধর্মেন্দ্র অভিনেত্রীর উপর ভালবাসা উজাড় করে দিচ্ছেন। এই গানের সুর করেছিলেন বিখ্যাত সঙ্গীত পরিচালক আর. ডি. বর্মন, গানের লিরিক্স আনন্দ বক্সীর।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Ghazab-Movie-Song-2026-03-1c14e8ee8fddc58ef203c98c923a1c91-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/entertainment/dharmendra-rekha-ranjeet-aruna-irani-1982-hit-film-gajab-blockbuster-song-yeh-hawa-yeh-bata-sung-by-lata-mangeshkar-ss-2577556.html",
+    "time": "2026-03-10T08:40:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SIR শুনানিতে সুপ্রিম তিরস্কার: ক্ষমা চাইলেন মেনকা গুরুস্বামী, কমিশনকেও ৫ কড়া নির্দেশ",
+    "desc": "সুপ্রিম কোর্টে আজ বাংলা এসআইআর মামলার শুনানিতে অন্য মাত্রা পেল মেনকা গুরুস্বামী বনাম নির্বাচন কমিশন। বিচার বিভাগীয় কর্মকর্তাদের উপর মন্তব্য করার জন্য প্রধান বিচারপতির তিরস্কারের মুখে পড়লেন মেনকা গুরুস্বামী। শেষে বিচার বিভাগীয় কর্মকর্তাদের উপর মন্তব্য করার জন্য ক্ষমা চাইলেন। পাশাপাশি, বাংলায় এসআইআর প্রক্রিয়া সম্পূর্ণ করতে ও সাপ্লিমেন্টারি তালিকা প্রকাশের জন্য নির্বাচন কমিশনকে ৫টি নির্দেশ দিল সুপ্রিম কোর্ট।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/bengal-sir-hearing-supreme-court-today-menaka-guruswamy-rebuked-5-orders-to-election-commission_644349.html ",
+    "time": "2026-03-10T07:52:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "বক্রেশ্বরে এক 'ঐতিহাসিক' বিয়ের আসরে ফেলুদা! অতিথিদের মাঝে প্রকাশিত 'সুজনে দু'জনে' পত্রিকা",
+    "desc": "বিয়ের হাজারও উপহারের মাঝে 'সুজনে দু'জনে' পত্রিকাটি এক কালজয়ী উপহার হিসেবে গণ্য হচ্ছে। এটি কেবল এক দম্পতির মিলন উৎসব নয়, বরং সৃজনশীল মানুষের মিলনমেলায় পরিণত হয়েছিল। পঁচানব্বই সালের সেই বন্ধুত্বের টান আজও যে কতটা অমলিন, বক্রেশ্বরের এই বিয়ের আসর তার এক জীবন্ত দলিল হয়ে রইল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/HYP_5802843_cropped_10032026_121119_img_20260310_12015323_wate_1-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/feluda-aka-sabyasachi-chakraborty-attends-an-unique-marriage-at-bakreshwar-where-wonderful-book-was-released-l18-pbd-local18-2577420.html",
+    "time": "2026-03-10T07:46:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Donald Trump on Iran-Israel War: ইরান-ইজরায়েল যুদ্ধ কি থামবে শিগগিরই? এক্সিট স্ট্র্যাটেজি খুঁজছে হোয়াইট হাউস, দাবি সূত্রের",
+    "desc": "দ্য ওয়াল স্ট্রিট জার্নাল একটি প্রতিবেদনে সূত্রের খবর, উপদেষ্টাদের মতে মার্কিন সেনাবাহিনী ইতিমধ্যেই তাঁদের প্রধান লক্ষ্য অনেকটাই অর্জন করেছে। এখন যদি একটি স্পষ্ট এক্সিট স্ট্র্যাটেজি তৈরি করা যায়, তবে সংঘাতকে সফল সামরিক অভিযান হিসেবেও তুলে ধরা যাবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Donald-Trump-2026-03-4bfe31caae4ed0ceb37e71289d362129-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/donald-trump-on-iran-israel-war-will-iran-israel-war-end-soon-white-house-discusses-exit-strategy-amid-middle-east-conflict-sal-2577346.html",
+    "time": "2026-03-10T07:30:32.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ইরান সমস্যায় ফেললে চিনকে টানার পরিকল্পনা ট্রাম্পের, হরমুজ প্রণালীতে বিশেষ ‘উপহার’-এর প্রস্তাব",
+    "desc": "কোনও দেশই আনুষ্ঠানিকভাবে এই বিষয়ে মন্তব্য করতে প্রস্তুত নয়, অন্য দিকে, ইরান দাবি করছে যে হরমুজ প্রণালী তাদের নিয়ন্ত্রণে রয়েছে। অন্য দিকে, নিজস্ব সোশ্যাল মিডিয়া হ্যান্ডেল ট্রুথসোশ্যাল-এ ডোনাল্ড ট্রাম্পের পোস্ট স্পষ্টভাবে দেখায় যে যুদ্ধ তাঁর হিসাব অনুযায়ী হচ্ছে না।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Trump-to-China-Offer-2026-03-65e9f40233580bccc1800a18ee085211-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/us-iran-war-news-donald-trump-offers-china-will-receive-a-gift-from-us-on-strait-of-hormuz-ss-aa-2577234.html",
+    "time": "2026-03-10T07:16:11.000Z"
+  },
+  {
     "cat": "World",
     "title": "ট্রাম্প-পুতিনের প্রায় এক ঘণ্টা ফোনে কথা ! ইরান যুদ্ধ তাড়াতাড়ি শেষ করার প্রস্তাব রাশিয়ার",
     "desc": "জানা গিয়েছে, দুই রাষ্ট্রপ্রধানের মধ্যে প্রায় ঘণ্টাখানেক এই বিষয় নিয়ে আলোচনা হয়। ক্রেমলিনের পক্ষ থেকে দাবি করা হয়েছে, আমেরিকার পক্ষ থেকে এই ফোনকলের উদ্যোগ নেওয়া হয়েছিল। যুদ্ধ দ্রুত শেষ করতে রাশিয়ান প্রেসিডেন্ট কিছু প্রস্তাব দিয়েছেন বলেও দাবি করা হচ্ছে।",
@@ -304,24 +367,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/no-information-will-be-shared-about-the-crude-oil-import-to-india-smc-2573783.html",
     "time": "2026-03-07T12:29:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "প্রতিবেশী দেশগুলিতে হামলার জন্য ক্ষমাপ্রার্থী, তবে অন্যায়ের বদলা আমরা নেবই: ইরান",
-    "desc": "প্রতিবেশী দেশগুলোর কাছে ক্ষমা চাইলেন মাসুদ পেজ়েশকিয়ান, তবে ‘আত্মসমর্পণ নয়’ হুংকার ইরানের। প্রেসিডেন্ট পেজ়েশকিয়ান স্পষ্ট জানিয়েছেন, ইরানের অন্তর্বর্তীকালীন নেতৃত্ব পরিষদ সিদ্ধান্ত নিয়েছে যে প্রতিবেশী দেশগুলোর ওপর আর হামলা চালানো হবে না। তবে এর পাশাপাশিই আমেরিকাকে সতর্কও করেছে ইরান।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/iran-president-pezeshkian-apology-neighboring-countries-war-updates_644030.html ",
-    "time": "2026-03-07T10:38:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিচার নাকি প্রহসন? অগুনতি খুন-ধর্ষণে অভিযুক্ত 'ধর্মগুরু' রাম রহিমকে বেকসুর খালাস করল হাইকোর্ট",
-    "desc": "২০০২ সালের বহুল সমালোচিত সাংবাদিক রাম চন্দর ছত্রপতি হত্যা মামলায় ডেরা সাচ্চা সওদা প্রধান গুরমিত রাম রহিম সিংকে বেকসুর খালাস করল পঞ্জাব ও হরিয়ানা হাইকোর্ট। স্থানীয় ‘পুরা সচ’ সংবাদপত্রের সম্পাদক ছিলেন তিনি এবং ডেরা সদর দফতরে অসংখ্য মহিলাকে যৌন শোষণের অভিযোগ নিয়ে একটি বেনামি চিঠি প্রকাশ করেছিলেন। এরপরেই গুলিবিদ্ধ হন ওই সাংবাদিক।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/ram-rahim-acquitted-high-court-journalist-chhatrapati-murder-case_644023.html ",
-    "time": "2026-03-07T09:46:23.000Z"
   },
   {
     "cat": "Business",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/icc-t20-world-cup-semifinal-which-team-will-reach-semifinal-between-india-and-england-if-match-washed-away-rdp-2566839.html",
     "time": "2026-03-03T07:50:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "UAE-র প্রেসিডেন্টকে ফোন মোদির! ইরান-ইজরায়েলের পরিস্থিতির মাঝে কী কথা হল দুই রাষ্ট্রনেতার",
-    "desc": "পশ্চিম এশিয়ার বর্তমান পরিস্থিতির মাঝে ইজরায়েলের প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহুর সঙ্গে কথা বলেছেন ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদি৷ সোশ্যাল মিডিয়া X-এ একটি পোস্ট করে, প্রধানমন্ত্রী মোদি লেখেন, ‘বর্তমান আঞ্চলিক পরিস্থিতি নিয়ে আলোচনা করার জন্য প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহুর সঙ্গে টেলিফোনে কথা হয়েছে। সাম্প্রতিক ঘটনাবলি নিয়ে ভারতের উদ্বেগের কথা জানিয়েছি এবং সাধারণ নাগরিকদের নিরাপত্তাকে অগ্রাধিকার হিসেবে জোর দেওয়ার কথাও জানিয়েছি। যত দ্রুত সম্ভব যাতে এই শত্রুতার পরিস্থিতি বন্ধ হয়, তার প্রয়োজনীয়তাও পুনর্ব্যক্ত করেছে ভারত’৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/PM-Modi-with-Saudi-Crown-Prince-Mohammed-Bin-Salman-2026-03-fe780c9e8a26172b8c0e88c1f7eb0b36-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/pm-modi-calls-uae-president-amid-iran-israel-war-ank-2566148.html",
-    "time": "2026-03-02T15:37:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "যুদ্ধের আবহে ফিরে দেখা মহান সৃষ্টি! ইরানের এই ১০টি কালজয়ী সিনেমা আপনি দেখেছেন কি?",
-    "desc": "যুদ্ধের আবহে মানুষ মহান সৃষ্টি ভুলতে বসে। রক্ত আর গোলাবারুদের স্তুপে চাপা পড়ে যায় সৃজনশীল সময়। বর্তমান আন্তর্জাতিক অস্থিরতা এবং ইরান-ইজরায়েল যুদ্ধের বাতাবরণে ফিরে দেখা যাক মধ্য প্রাচ্যের ১০টি অসাধারণ সিনেমা, যা চলচ্চিত্র শিল্পের ইতিহাসে অমর হয়ে থাকবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/A-Separation-2026-03-67f08bf30153ec28c01f3867992e54a0-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/top-ten-iran-movies-all-time-best-cinema-revisiting-great-art-in-times-of-unrest-have-you-watched-these-10-timeless-iranian-films-tib-ws-el-2565992.html",
-    "time": "2026-03-02T14:47:47.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel War: বন্ধ বিমান চলাচল, আটকে হাজার হাজার যাত্রী! হোটেল ও খাবারের খরচ বহন করবে সংযুক্ত আরব আমিরশাহি",
-    "desc": "পশ্চিম এশিয়ার অস্থির পরিস্থিতি ও আকাশপথ বন্ধ থাকার কারণে দেশে আটকে পড়া ২০ হাজারের বেশি যাত্রীর জন্য বড় উদ্যোগ নিয়েছে সংযুক্ত আরব আমিরশাহি সরকার। আটকে পড়া যাত্রীদের থাকার ব্যবস্থা ও খাবারের সমস্ত খরচ বহনের সিদ্ধান্ত নেওয়া হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Dubai-Airport-2026-03-316ac945fcd73624b20d93b3cfcf3bc6-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/uae-free-hotel-meals-20000-stranded-passengers-west-asia-crisis-flight-cancellation-dubai-abu-dhabi-sal-2566006.html",
-    "time": "2026-03-02T14:46:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আগামী তিনদিন...! ভারী বৃষ্টির হুঁশিয়ারি ৮ রাজ্যে, মার্চেই 'মে' মাসের 'লু' অনুভূতি কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "২, ৩, ৪, ৫ মার্চ! ভারী বৃষ্টির হুঁশিয়ারি ৮ রাজ্যে, মার্চেই 'মে' মাসের 'লু' অনুভূতি হবে একাধিক রাজ্যে। ৪ থেকে ৭ মার্চ আবহাওয়ার বিরাট পরিবর্তন রাজ্যে রাজ্যে। ঘূর্ণাবর্তের জেরে ব্যাপক বদল। আইএমডি দিল বড় আপডেট।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj-__Thunder-2026-02-69c3fe6ac5aad482391940478345533b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rain-warning-in-8-states-for-next-three-days-in-which-states-will-the-loo-feeling-of-the-month-of-may-be-felt-amid-march-know-latest-west-bengal-weather-sanj-2566002.html",
-    "time": "2026-03-02T14:40:55.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "বাংলাদেশের যমুনা-য় এখন থাকবেন কে? ইউনূসের পর প্রধানমন্ত্রী তারেক রহমান আসবেন এই বাসভবনে?",
-    "desc": "যমুনায় এখন সদ্য বিলুপ্ত অন্তর্বর্তী সরকারের প্রধান উপদেষ্টা অধ্যাপক মুহাম্মদ ইউনূস থাকতেন। ২৭ ফেব্রুয়ারি তিনি যমুনা ছেড়ে যান৷ এবার সেখানেই থাকবেন বাংলাদেশের প্রধানমন্ত্রী তারেক রহমান৷ আপাতত তিনি থাকছেন গুলশনে তাঁর নিজের বাসভবনে৷ বাংলাদেশের রাষ্ট্রীয় অতিথি ভবন যমুনাতে থাকবেন প্রধানমন্ত্রী তারেক রহমান। সরকারপ্রধানের নিরাপত্তা ও সচিবালয়ে যাতায়াতের সুবিধার্থে রাজধানীর হেয়ার রোডে অবস্থিত যমুনাকে তাঁর সরকারি বাসভবন হিসেবে বেছে নেওয়া হয়েছে। এদিকে সরকারি আবাসন পরিদপ্তর গতকাল বুধবার নতুন মন্ত্রী–প্রতিমন্ত্রীকে বাসা বরাদ্দ দেওয়ার কাজ শেষ করেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1772460911_Lnocl09rLc-thumbnail-169png-GUsubpqAz7-1200x720.png",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/international/who-will-now-live-in-jamuna-bangladesh-after-yunus-will-prime-minister-tarique-rahman-come-to-this-r-2566012.html",
-    "time": "2026-03-02T14:14:43.000Z"
   }
 ];

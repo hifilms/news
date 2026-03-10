@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Reminiscent of Viv Richards': Sunil Gavaskar heaps praise on Sanju Samson after recent exceptional showing",
+    "desc": "Former India cricketer Sunil Gavaskar recently came forward and heaped massive praise on star batter Sanju Samson. It is worth noting that Sanju Samson was named as the Player of the Tournament as India won...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/reminiscent-of-viv-richards-sunil-gavaskar-heaps-praise-on-sanju-samson-after-recent-exceptional-showing-2026-03-10-1033260",
+    "time": "2026-03-10T08:55:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gujarat Titans name Matthew Hayden as new batting coach ahead of IPL 2026",
+    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026. Ahead of the new season of the tournament, the 2022 champions Gujarat Titans, came forward and announced the appointment of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-name-matthew-hayden-as-new-batting-coach-ahead-of-ipl-2026-2026-03-10-1033254",
+    "time": "2026-03-10T08:16:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'So happy for this guy': Suryakumar Yadav responds to viral petrol pump photo from 2014 after WC victory",
+    "desc": "India’s T20I skipper Suryakumar Yadav etched his name in history after he led the Indian team to their third T20 World Cup title. Under the leadership of Suryakumar Yadav, the Indian team only lost one...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/so-happy-for-this-guy-suryakumar-yadav-responds-to-viral-petrol-pump-photo-from-2014-after-world-cup-victory-2026-03-10-1033245",
+    "time": "2026-03-10T07:12:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI announces Rs 131 crore prize money for team India after T20 World Cup title win",
     "desc": "The BCCI (Board of Control for Cricket in India) took centre stage and announced a massive cash prize of Rs 131 crore for the Men in Blue after they won the T20 World Cup 2026....",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-topples-sachin-tendulkar-in-major-record-list-for-india-2026-03-09-1033201",
     "time": "2026-03-09T18:09:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Afghanistan vs Sri Lanka white-ball series set to be postponed due to West Asia war",
-    "desc": "The white-ball series between Afghanistan and Sri Lanka is set to be postponed due to the deteriorating security situation in West Asia. It disrupted sporting logistics across the region and currently, it’s neither safe nor...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-vs-sri-lanka-white-ball-series-set-to-be-postponed-due-to-west-asia-war-2026-03-09-1033198",
-    "time": "2026-03-09T17:17:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Chotu, will you win us the World Cup?'",
-    "desc": "Suryakumar Yadav has revealed how key conversations with his players helped shape India’s triumphant campaign at the T20 World Cup 2026. The captain spoke about the belief and commitment shown by several members of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/chotu-will-you-win-us-the-world-cup-suryakumar-yadav-reveals-chat-with-ishan-kishan-2026-03-09-1033193",
-    "time": "2026-03-09T16:24:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chaos erupted during Cruzeiro vs Minerao clash in Brazil",
-    "desc": "Cruzeiro secured a 1-0 victory over Atletico Mineiro in the Campeonato Mineiro final in Belo Horizonte on Sunday, but the celebration was eclipsed by an unprecedented on-field brawl. The clash involved players, substitutes, and coaching...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/23-red-cards-in-one-game-chaos-erupted-during-cruzeiro-vs-minerao-clash-in-brazil-watch-2026-03-09-1033190",
-    "time": "2026-03-09T15:34:26.000Z"
   }
 ];
