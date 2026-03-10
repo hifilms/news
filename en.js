@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "May or may not be a \"friendly takeover\"",
+    "desc": "The Cuban ​government has said it is not in ⁠any high-level talks with the United States but has not outright ‌denied press reports that U.S. officials may be in informal talks with Raul Guillermo Rodriguez Castro",
+    "img": "https://th-i.thgim.com/public/incoming/faskt8/article70724885.ece/alternates/LANDSCAPE_1200/Trump_41095.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-on-cuba-may-or-may-not-be-a-friendly-takeover/article70724880.ece",
+    "time": "2026-03-10T01:34:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Eva Mendes shares glam prep before Ryan Gosling’s SNL hosting night",
+    "desc": "Eva Mendes prepared for a potential surprise appearance on Saturday Night Live after Ryan Gosling's recent public birthday shoutout on The Tonight Show. The actress shared a video of her glam session, humorously captioning it as \"prep for SNL this weekend - in case I was suddenly called out in front of cameras again.\"",
+    "img": "https://static.toiimg.com/photo/msid-129366667,imgsize-519298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-gosling-on-snl-eva-mendes-shares-a-bts-of-donning-a-glam-avatar-since-hubby-dearest-was-hosting-the-show/articleshow/129366163.cms",
+    "time": "2026-03-10T01:32:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Reacher' Season 4: Alan Ritchson confirms 2026 premiere",
+    "desc": "Fans of 'Reacher' can rejoice as star Alan Ritchson confirms Season 4 is complete and promises it's the best yet, packed with an unprecedented number of action sequences. While a specific release date for the Amazon Prime Video hit remains unannounced, Ritchson's update fuels anticipation for its 2026 debut, following the success of the Lee Child adaptation.",
+    "img": "https://static.toiimg.com/photo/msid-129365799,imgsize-170756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/alan-ritchson-confirms-reacher-season-4-slated-for-2026-premiere/articleshow/129365697.cms",
+    "time": "2026-03-10T01:24:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tamal Roy Choudhury, 'The Namesake' actor, passes away",
+    "desc": "Veteran actor Tamal Roy Choudhury, celebrated for his role in 'The Namesake', passed away at 80 due to a cardiac arrest. Known for his impactful performances in Bengali cinema, including 'Amazon Obhijaan' and 'Jatiswar', Roy Choudhury was also a cherished mentor. His passing leaves a void in the industry, remembered for his warmth and guidance. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129366213,imgsize-89754.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/tamal-roy-choudhury-the-namesake-actor-passes-away-at-80/articleshow/129366213.cms",
+    "time": "2026-03-10T01:23:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mehbooba Mufti, NC MPs from J&K visit Iran Embassy in Delhi to express condolences",
+    "desc": "“We pray that Iran emerges as victorious in its fight against evil, as it stands alone. It seems all those whose names surfaced in the Epstein files are standing with Israel,” the PDP chief said",
+    "img": "https://th-i.thgim.com/public/incoming/b5zlzq/article70724873.ece/alternates/LANDSCAPE_1200/PTI03_09_2026_000273B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/khamenei-killing-mehbooba-mufti-nc-mps-from-jk-visit-iran-embassy-in-delhi-to-express-condolences/article70723280.ece",
+    "time": "2026-03-10T00:57:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'One Piece' to 'Alice in Borderland': 5 must-watch live-action series adapted from Japanese manga",
+    "desc": "Manga has quietly taken over the world, and honestly, the live-action adaptations are finally doing it justice. What started as a niche corner of Japanese pop culture has exploded into some of the most gripping, visually stunning television on streaming right now. Whether you're a longtime manga reader or someone who simply stumbled onto ‘One Piece’ and got completely hooked, these seven series are worth every minute of your time.",
+    "img": "https://static.toiimg.com/photo/msid-129365455,imgsize-68032.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/anime/one-piece-to-alice-in-borderland-5-must-watch-live-action-series-adapted-from-japanese-manga/photostory/129365455.cms",
+    "time": "2026-03-10T00:57:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Timothee's 2019 comments on 'opera and ballet' resurface",
+    "desc": "Timothée Chalamet faces backlash for calling ballet and opera 'dying art forms.' Older interviews reveal similar sentiments, sparking criticism from artists and fans. Despite his family's ballet background, Chalamet's remarks contradict his advocacy for saving cinema, adding fuel to the controversy as Oscar buzz shifts.",
+    "img": "https://static.toiimg.com/photo/msid-129364659,imgsize-43672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothee-chalamets-2019-comments-on-opera-and-ballet-resurface-amid-controversy-netizens-say-this-isnt-his-first-time-saying-this/articleshow/129364123.cms",
+    "time": "2026-03-10T00:54:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Mahesh Babu’s home in Hyderabad",
+    "desc": "Superstar Mahesh Babu, known for his down-to-earth nature, resides in a lavish yet serene Rs 28 crore bungalow in Hyderabad's Jubilee Hills. The home boasts an indoor pool, library, and personalized garden. Babu, who began acting as a child, is married to Namrata Shirodkar, and they have two children. He is currently preparing for SS Rajamouli's upcoming film, 'Varanai'.",
+    "img": "https://static.toiimg.com/photo/msid-129364977,imgsize-96724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/a-look-inside-mahesh-babus-serene-home-in-jubilee-hills-a-mix-of-gold-and-green/articleshow/129364977.cms",
+    "time": "2026-03-10T00:48:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Steve Carell returns to TV comedy with heartfelt campus series ‘Rooster’",
+    "desc": "Steve Carell returns to television comedy in 'Rooster,' a heartfelt series about fatherhood. He plays Greg Russo, a devoted dad navigating campus life to support his daughter. Carell was drawn to the project's authentic script and the collaborative spirit fostered by co-creator Bill Lawrence.",
+    "img": "https://static.toiimg.com/photo/msid-129365118,imgsize-791120.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/steve-carell-returns-to-tv-comedy-with-rooster-his-first-lead-sitcom-since-the-office/articleshow/129365124.cms",
+    "time": "2026-03-10T00:47:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ravi Teja's 'BMW' OTT release date CONFIRMED",
+    "desc": "Telugu comedy-drama 'Bhartha Mahasayulaku Wignyapthi' is set for its ZEE5 digital premiere on March 13, following its theatrical release. The film, starring Ravi Teja, explores a winemaker's chaotic personal life entangled with two women. Available in Telugu, Tamil, Kannada, and Malayalam, it features comedians Vennela Kishore, Sunil, and Satya.",
+    "img": "https://static.toiimg.com/photo/msid-129364124,imgsize-207886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/bhartha-mahasayulaku-wignyapthi-ott-release-date-confirmed-ravi-teja-starrer-to-stream-on-this-date/articleshow/129364124.cms",
+    "time": "2026-03-10T00:19:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Kerala Story 2' CROSSES Rs 35 crore mark on Day 11",
+    "desc": "'The Kerala Story 2 Goes Beyond' finds itself in a challenging position at the box office, pulling in Rs 1.85 crore on its eleventh day and totaling Rs 34.70 crore so far. This figure starkly contrasts with its predecessor's impressive Rs 146.59 crore during the same timeframe, signaling a decrease in audience interest despite the original’s strong reception. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129363677,imgsize-108150.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-11-film-sails-past-rs-35-crore-despite-dip-on-second-monday/articleshow/129363677.cms",
+    "time": "2026-03-10T00:07:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Thaai Kizhavi' BO day 12: collects Rs 43.42 cr",
+    "desc": "Radhikaa Sarathkumar's 'Thaai Kizhavi' is performing steadily, raking in ₹43.42 crore gross by Day 12. Despite a weekday dip, the film maintained momentum, boosted by a strong second weekend. The rural comedy-drama, centered on a matriarch's hidden gold, has garnered significant attention, prompting a closer look at its narrative and critical reception.",
+    "img": "https://static.toiimg.com/photo/msid-129363602,imgsize-193664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-box-office-collections-day-12-radhikaa-sarathkumar-starrer-collects-rs-43-42-cr-gross/articleshow/129363602.cms",
+    "time": "2026-03-10T00:03:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "James Cameron drops 'Avatar 4' update",
+    "desc": "Fire and Ash' has achieved blockbuster status, prompting discussions about 'Avatar 4'. The director indicated a sequel is likely, with potential for a larger role for the character Varang. Audience reactions, like those for Payakan, significantly influence character development in the franchise. 'Avatar 4' is slated for a 2029 release.",
+    "img": "https://static.toiimg.com/photo/msid-129362055,imgsize-147322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-cameron-gives-avatar-4-update-says-next-instalment-to-focus-on-varang/articleshow/129362022.cms",
+    "time": "2026-03-09T23:52:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition likely to move notice for CEC removal",
+    "desc": "The joint opposition is preparing to move a notice for the removal of Chief Election Commissioner Gyanesh Kumar in Rajya Sabha soon after the Lok Sabha addresses the notice against Speaker Om Birla. This move, spearheaded by TMC, stems from concerns over electoral roll reviews in West Bengal, with other INDIA bloc parties now reportedly on board.",
+    "img": "https://static.toiimg.com/photo/msid-129362239,imgsize-124388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/opposition-likely-to-move-notice-for-cec-removal/articleshow/129362199.cms",
+    "time": "2026-03-09T23:12:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Noah Beck joins cast of 'Baywatch' reboot",
+    "desc": "Actor Noah Beck is set to make waves in the upcoming 'Baywatch' reboot, joining the cast as a series regular. He'll portray Luke, a charming rookie lifeguard with a hidden depth, mentored by Captain Hobie Buchannon. Production begins soon in Los Angeles, with a 2026-2027 premiere on Fox. Beck also stars in the film 'BATON'.",
+    "img": "https://static.toiimg.com/photo/msid-129360607,imgsize-90464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/noah-beck-joins-cast-of-upcoming-baywatch-series-details-inside/articleshow/129360252.cms",
+    "time": "2026-03-09T22:50:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Krishna recalls Ayesha leaving affluent life to live in a chawl",
+    "desc": "Krishna Shroff recently opened up about her childhood and family life during a conversation on The 50. The daughter of actor Jackie Shroff said that despite growing up in a film family, she and her brother had a very normal upbringing and were largely kept away from the industry’s glamour.",
+    "img": "https://static.toiimg.com/photo/msid-129359483,imgsize-74468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/krishna-shroff-recalls-mom-ayesha-shroff-leaving-affluent-life-to-live-in-a-chawl-with-jackie-shroff-we-had-such-a-normal-upbringing/articleshow/129359483.cms",
+    "time": "2026-03-09T22:19:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "West Asia conflict oil hike, market reactions highlights: Crude oil prices slip back below $90; Rupee closes at all-time low",
+    "desc": "Investors, already spooked by concerns over extended tech valuations and the huge spending on AI, ran for the hills earlier in the day as crude rocketed to its highest level since the Russian invasion of Ukraine in 2022",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/crude-oil-price-today-march-9-iran-israel-us-war-brent-prices-surge-west-asia-crisis-stock-market-updates/article70721132.ece",
+    "time": "2026-03-09T22:16:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rihanna's home shooter JAILED; bail set at USD 10 million",
+    "desc": "A woman, Ivanna Lisette Ortiz, has been arrested and faces attempted murder charges after allegedly firing approximately ten shots from a white Tesla outside singer Rihanna's Los Angeles mansion. The incident occurred Sunday afternoon while Rihanna and her children were reportedly home. Police recovered an AR-15-style rifle and set bail at over $10 million.",
+    "img": "https://static.toiimg.com/photo/msid-129357092,imgsize-100532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rihannas-la-home-shooter-jailed-on-suspicion-of-attempted-murder-bail-set-at-usd-10-million/articleshow/129357051.cms",
+    "time": "2026-03-09T21:57:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Navjot Singh Sidhu says Malaika Arora has an entourage of 56",
+    "desc": "Navjot Singh Sidhu and Malaika Arora shared a playful reunion on the latest episode of The Great Indian Kapil Show. The two, who recently judged India’s Got Talent Season 11 together, were full of praise for each other, with Sidhu even jokingly flirting with Malaika during the conversation hosted by Kapil Sharma.",
+    "img": "https://static.toiimg.com/photo/msid-129357101,imgsize-111750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/navjot-singh-sidhu-says-malaika-arora-has-an-entourage-of-56-calls-her-a-grounded-celebrity-my-love-for-her-is-such-that-/articleshow/129357101.cms",
+    "time": "2026-03-09T21:30:42.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Tension in U.P. locality after attack on religious leader",
     "desc": "The Congress has alleged such incidents are part of a broader pattern to disturb harmony at a local level. ‘An organised pattern is at play across Western U.P. to disturb harmony through localised incidents aimed at terrorising minorities’",
@@ -7,6 +178,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/uttar-pradesh/tensionmounts-in-muzaffarnagar-after-imam-is-assaulted-by-juveniles/article70723323.ece",
     "time": "2026-03-09T20:48:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock market investors sell big as crude hits $100",
+    "desc": "The 30-share BSE Sensex tanked 1,352.74 points, or 1.71%, to settle at 77,566.16, registering its second day of decline. On similar lines, the 50-share NSE Nifty dropped 422.40 points, or 1.73%, to end at 24,028.05.",
+    "img": "https://th-i.thgim.com/public/business/markets/jrluuo/article70721170.ece/alternates/LANDSCAPE_1200/stockmarkets.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/west-asia-conflict-crude-oil-prices-surge-stock-markets-forex-markets-on-march-9-2026/article70721155.ece",
+    "time": "2026-03-09T20:31:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -45,15 +225,6 @@ const newsData_en = [
     "time": "2026-03-09T20:13:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Do we have nothing except Bengal SIR to hear, asks SC",
-    "desc": "The Supreme Court expressed frustration over frequent West Bengal-related petitions, questioning its workload. Petitioners challenging voter list deletions highlighted a lack of appeal options. The court agreed to hear these alongside ongoing voter roll scrutiny issues, emphasizing that bureaucrats shouldn't overrule judicial officers' decisions.",
-    "img": "https://static.toiimg.com/photo/msid-129354030,imgsize-157042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/do-we-have-nothing-except-bengal-sir-to-hear-asks-sc/articleshow/129353967.cms",
-    "time": "2026-03-09T19:44:38.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Bellamkonda Sai Sreenivas introduces life partner Kavya Reddy",
     "desc": "Bellamkonda Sai Sreenivas has seemingly entered a new chapter in his personal life. The actor, who is the elder son of producer Bellamkonda Suresh, recently introduced Kavya Reddy as the special person in his life during a private family gathering in Hyderabad. While reports initially suggested that the actor had gotten engaged, Sreenivas clarified that the event was only a small family announcement and that the actual engagement and wedding celebrations are yet to take place.",
@@ -61,6 +232,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/bellamkonda-sai-sreenivas-introduces-his-life-partner-kavya-reddy-clarifies-engagement-and-wedding-dates-will-be-announced-soon/articleshow/129352611.cms",
     "time": "2026-03-09T19:19:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Commercial LPG cylinders remain unfilled  at bottling plants of OMC’s",
+    "desc": "Distributors of Indian Oil, Bharat Petroleum, and Hindustan Petroleum confirm that bottling of commercial cylinders had been stopped at the plants. Hotels, restaurants, small eateries, and tea stalls take the hit and initiate stringency measures",
+    "img": "https://th-i.thgim.com/public/incoming/otsqtp/article70723798.ece/alternates/LANDSCAPE_1200/IMG_2615_1_11_2021_14_23_5_1_LOBE9M0O.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/commercial-lpg-cylinders-remain-unfilledat-bottling-plants-of-omcs/article70723543.ece",
+    "time": "2026-03-09T19:13:12.000Z"
   },
   {
     "cat": "Business",
@@ -81,6 +261,15 @@ const newsData_en = [
     "time": "2026-03-09T19:03:30.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Metro Rail seeks CCRS approval to relax curbs on Poonamallee-Vadapalani stretch",
+    "desc": "A CMRL official says the frequency between Poonamallee and Porur can be brought down from 15 minutes to 10 minutes if the Chief Commissioner of Railway Safety approves the request; CMRL has also requested for operation of trains at a speed of 40 kmph between Porur and Vadapalani",
+    "img": "https://th-i.thgim.com/public/incoming/2x1nae/article70723544.ece/alternates/LANDSCAPE_1200/DJI_20260114172347_0036_D.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/metro-rail-seeks-ccrs-approval-to-relaxcurbs-on-poonamallee-vadapalani-stretch/article70722930.ece",
+    "time": "2026-03-09T18:58:22.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Government working to ‘optimise’ gas supply as Gulf war hits LNG flow",
     "desc": "India faces a nearly 40% hit to its LNG supply due to the West Asia conflict, prompting the government to devise an \"optimisation plan\" for industries. While fertiliser remains a priority, some supply reduction is possible, though the sector is currently buffered by high urea stocks and the agricultural lean season.",
@@ -99,15 +288,6 @@ const newsData_en = [
     "time": "2026-03-09T18:26:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jamie recalls Jesse’s tumour battle and failed surgery",
-    "desc": "Veteran comedian Johny Lever has entertained audiences for decades, but his family once went through a deeply challenging phase when his son Jesse Lever was diagnosed with a tumour in his neck at a young age. In a recent conversation, his daughter Jamie Lever opened up about the difficult period and how faith helped the family cope. Jamie recalled that Jesse was still in school when the family first realised something was wrong.",
-    "img": "https://static.toiimg.com/photo/msid-129350006,imgsize-193666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/johny-levers-daughter-jamie-lever-recalls-brother-jesse-levers-tumour-battle-and-failed-surgery-we-would-never-return-to-that-lifestyle/articleshow/129350006.cms",
-    "time": "2026-03-09T18:23:17.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Tamil Nadu can never be painted in saffron, says CM Stalin",
     "desc": "The BJP will never be able to rule the State even if it comes wearing the mask of the AIADMK, the DMK president says at the 12th State conference of the party at Siruganur on the outskirts of Tiruchi",
@@ -115,33 +295,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-can-never-be-painted-in-saffron-says-cm-stalin/article70723924.ece",
     "time": "2026-03-09T18:18:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Protection plea by teen bride raises J&amp;K HC’s suspicion",
-    "desc": "A Jammu and Kashmir high court judge's suspicion during a routine protection petition led to an investigation into a criminal network allegedly luring young girls. The court discovered the 'husband' was already married and ordered a probe into the moulvi and the advocate involved, highlighting a moment of judicial vigilance to prevent a teenage girl's life from being wasted.",
-    "img": "https://static.toiimg.com/photo/msid-129349820,imgsize-744366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/protection-plea-by-teen-bride-raises-jk-hcs-suspicion/articleshow/129349850.cms",
-    "time": "2026-03-09T18:15:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ram Gopal Varma calls Dhurandhar 2 'stratospheric level'",
-    "desc": "Filmmaker Ram Gopal Varma has reacted to the trailer of 'Dhurandhar 2'. He described the film's scale and intensity as 'stratospheric level'. Varma previously lauded the first 'Dhurandhar' as a 'quantum leap' for Indian cinema. The sequel is set to release on March 19. The trailer has generated significant online buzz and anticipation for the espionage thriller.",
-    "img": "https://static.toiimg.com/photo/msid-129348070,imgsize-72600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-reviews-dhurandhar-2-trailer-calls-it-stratosphere-level/articleshow/129348069.cms",
-    "time": "2026-03-09T17:40:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Heer was not meant to die in Rockstar originally",
-    "desc": "Imtiaz Ali’s cult musical drama Rockstar (2011), starring Ranbir Kapoor and Nargis Fakhri, is remembered for its intense love story, powerful performances and unforgettable music. The film also left audiences emotional with its tragic ending, where Heer dies, leaving Jordan heartbroken even as he achieves rockstar fame. However, the filmmaker recently revealed that Heer’s death was not part of the original script.",
-    "img": "https://static.toiimg.com/photo/msid-129347446,imgsize-65786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imtiaz-ali-reveals-heer-was-not-meant-to-die-in-ranbir-kapoors-rockstar-originally-so-the-movie-ends-before-jordans-death/articleshow/129347446.cms",
-    "time": "2026-03-09T17:32:07.000Z"
   },
   {
     "cat": "Sports",
@@ -163,30 +316,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "‘Outlast’ Season 1 winner Paul Preece held on USD150,000 bond after arrest",
-    "desc": "Paul Preece, the Season 1 winner of Netflix's survival show 'Outlast,' has been arrested in Tennessee. The 51-year-old faces serious charges including aggravated assault, rape of a child, and attempted rape of a child. Preece, who won a $1 million prize in 2023, is currently held on a $150,000 bond.",
-    "img": "https://static.toiimg.com/photo/msid-129344585,imgsize-127780.cms",
+    "title": "A 'family' even after divorce",
+    "desc": "Demi Moore and Bruce Willis, Hollywood icons who went their separate ways two decades back, have crafted a heartwarming narrative of family unity. As Bruce navigates health struggles, Demi stands firmly by his side, supported by his wife Emma and their children.",
+    "img": "https://static.toiimg.com/photo/msid-129335138,imgsize-65328.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/outlast-season-1-winner-paul-preece-held-on-usd150000-bond-after-arrest/articleshow/129344585.cms",
-    "time": "2026-03-09T16:30:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tamannaah’s trainer warns against these 3 pre-workout foods",
-    "desc": "Celebrity fitness trainer Siddhartha Singh, who has worked with actor Tamannaah Bhatia, recently shared important advice for gym-goers about pre-workout nutrition. In a video posted on Instagram, the trainer explained that certain foods commonly eaten before exercising can actually reduce energy levels and affect workout performance.",
-    "img": "https://static.toiimg.com/photo/msid-129344358,imgsize-99520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tamannaah-bhatias-trainer-siddhartha-singh-warns-against-eating-these-3-foods-before-a-workout-what-to-eat-instead/articleshow/129344358.cms",
-    "time": "2026-03-09T16:29:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Boys’ Season 5 release timeline revealed with eight episode dates",
-    "desc": "Get ready for the grand finale! 'The Boys' is set to unveil its final season on April 8, 2026, kicking off with an exciting double premiere. With eight gripping episodes scheduled for release on Prime Video, viewers can dive into each new chapter every Wednesday, leading to the climactic finish on May 20.",
-    "img": "https://static.toiimg.com/photo/msid-129343287,imgsize-180018.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-boys-season-5-release-timeline-revealed-with-eight-episode-dates-before-finale/articleshow/129343287.cms",
-    "time": "2026-03-09T16:24:04.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/demi-moore-and-bruce-willis-a-love-story-that-survived-divorce-and-thrives-through-friendship/articleshow/129335030.cms",
+    "time": "2026-03-09T16:48:22.000Z"
   },
   {
     "cat": "Sports",
@@ -207,42 +342,6 @@ const newsData_en = [
     "time": "2026-03-09T16:05:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Was Britain’s Queen Charlotte black? Netflix’s Bridgerton star insists ‘she was a woman of colour’",
-    "desc": "Bridgerton’s depiction of Queen Charlotte as a Black monarch has revived a long-running historical debate about her ancestry. While some genealogists argue she may have descended from a Moorish lineage in medieval Portugal, most historians remain sceptical. The controversy highlights how popular culture can reopen historical questions about race, representation and interpretation in Europe’s royal past.",
-    "img": "https://static.toiimg.com/photo/msid-129342423,imgsize-1071226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/etimes/trending/was-britains-queen-charlotte-black-netflixs-bridgerton-star-insists-she-was-a-woman-of-colour/articleshow/129332164.cms",
-    "time": "2026-03-09T15:54:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi speaks with Nepal's newly elected youth leader Balendra Shah, Rabi Lamichhane",
-    "desc": "Nepal’s political landscape witnessed a dramatic transformation, as newly elected youth leader Balendra “Balen” Shah unseated veteran politician and former Prime Minister KP Sharma Oli from his parliamentary stronghold. A structural engineer by profession who first rose to prominence as the mayor of Kathmandu, Shah has now made history four years later by becoming the youngest person ever to claim Nepal’s Prime Ministership.",
-    "img": "https://static.toiimg.com/photo/msid-129342096,imgsize-54014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-speaks-with-nepals-newly-elected-youth-leader-balendra-shah-rabi-lamichhane/articleshow/129342006.cms",
-    "time": "2026-03-09T15:34:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 South stories of the day",
-    "desc": "Filmmaker R. Parthiban apologized to Trisha Krishnan following a controversial remark. Meanwhile, Malayalam director Chidambaram received anticipatory bail in a harassment case. The censor review for Vijay's 'Jana Nayagan' was postponed again. Rumors about 'Vaadivaasal' revival were denied, and Mahesh Babu concluded the Georgia schedule for 'Varanasi'.",
-    "img": "https://static.toiimg.com/photo/msid-129341345,imgsize-108160.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/r-parthiban-apologises-to-trisha-krishnan-chidambaram-gets-anticipatory-bail-jana-nayagan-censor-review-delayed-top-5-south-stories-of-the-day/articleshow/129341345.cms",
-    "time": "2026-03-09T15:20:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "KGMOA opposes extension of OP hours",
-    "desc": "Govt. increases OP hours by 1 hour from the present 8 a.m. to 1 p.m. Doctors say they are already working without adequate rest and extending OP hours is going to push them to severe physical and mental stress",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kgmoa-opposes-extension-of-op-hours/article70723122.ece",
-    "time": "2026-03-09T14:59:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Samson, Bumrah lead four Indians in ICC T20 World Cup Team of the Tournament",
     "desc": "India secured a record third ICC Men's T20 World Cup title in 2026, with four players making the official Team of the Tournament. Player of the Tournament Sanju Samson led the charge with 321 runs, including a final-record 89. Ishan Kishan, Hardik Pandya, and Jasprit Bumrah also earned spots for their stellar performances.",
@@ -250,24 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sanju-samson-jasprit-bumrah-lead-four-indians-in-icc-t20-world-cup-team-of-the-tournament/articleshow/129340291.cms",
     "time": "2026-03-09T14:53:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Where to watch Donald Trump's wife's Melenia's documentary",
-    "desc": "Melania Trump's documentary is now streaming on Amazon Prime Video, offering an intimate look at her life and behind-the-scenes moments. Directed by Brett Ratner, the film generated significant interest and positive audience response, achieving a 98% score on Rotten Tomatoes. Its OTT release promises wider global reach for those interested in her story.",
-    "img": "https://static.toiimg.com/photo/msid-129339873,imgsize-145920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/melania-ott-release-date-heres-when-and-where-you-can-watch-donald-trumps-wifes-documentary/articleshow/129339873.cms",
-    "time": "2026-03-09T14:44:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Two Akanksha Singhs, one UPSC rank: Ghazipur candidate confirmed at 301",
-    "desc": "The UPSC clarified that Akanksha Singh from Ghazipur, Uttar Pradesh, secured rank 301 in the Civil Services Examination 2025, resolving confusion over two candidates with the same name claiming the same rank. The commission confirmed the successful candidate's details, including roll number and parentage, amidst reports of another Akanksha Singh from Bihar also claiming the rank.",
-    "img": "https://static.toiimg.com/photo/msid-129338592,imgsize-561986.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/two-akanksha-singhs-one-upsc-rank-ghazipur-candidate-confirmed-at-301/articleshow/129338405.cms",
-    "time": "2026-03-09T14:34:59.000Z"
   },
   {
     "cat": "Sports",
@@ -288,24 +369,6 @@ const newsData_en = [
     "time": "2026-03-09T13:50:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'We cannot assist once you exit Iran': Indians asked not to approach land borders without embassy coordination",
-    "desc": "The Indian Embassy in Tehran has advised Indian nationals in Iran against approaching land border points for exit without prior coordination. The mission emphasized it cannot assist individuals stranded after leaving Iranian territory without entering a third country. This advisory follows the External Affairs Minister's statement on India's focus on dialogue and diplomacy to de-escalate Middle East tensions.",
-    "img": "https://static.toiimg.com/photo/msid-129334705,imgsize-439305.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-cannot-assist-once-you-exit-iran-indians-asked-not-to-approach-land-borders-without-embassy-coordination/articleshow/129334685.cms",
-    "time": "2026-03-09T12:52:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salim Khan expected to be discharged this week",
-    "desc": "Veteran screenwriter Salim Khan has been hospitalized following a minor brain hemorrhage. Doctors performed a procedure, and he is now recovering well and is out of danger. Reports indicate he is feeling better and expected to be discharged within the next few days.",
-    "img": "https://static.toiimg.com/photo/msid-129333614,imgsize-54150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-khan-health-update-the-veteran-screenwriter-expected-to-be-discharged-from-the-hospital-this-week/articleshow/129333432.cms",
-    "time": "2026-03-09T12:33:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Virtually unbeatable': Ex-England captain reveals the secret behind India’s white-ball dominance",
     "desc": "Michael Atherton hails India as the dominant force in white-ball cricket, highlighting their recent T20 World Cup triumph. He believes their consistent success across major tournaments positions them to potentially hold all three ICC white-ball trophies simultaneously. Nasser Hussain attributes this dominance to a powerful batting lineup and the exceptional bowling of Jasprit Bumrah.",
@@ -313,24 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/virtually-unbeatable-former-england-captain-reveals-the-secret-behind-indias-white-ball-dominance/articleshow/129331288.cms",
     "time": "2026-03-09T12:09:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Coogler, Anderson win top screenplay honors; 'The Pitt' sweeps TV",
-    "desc": "The 2026 Writers Guild Awards was a night of unforgettable storytelling, where 'Sinners' and 'One Battle After Another' shone brightly as the best screenplays, with luminaries Ryan Coogler and Paul Thomas Anderson taking the crown. Meanwhile, in a stunning display of talent, 'The Pitt' swept the television categories, bagging honors for both Drama Series and New Series.",
-    "img": "https://static.toiimg.com/photo/msid-129331797,imgsize-139778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/wga-awards-2026-winners-ryan-coogler-paul-thomas-anderson-and-the-pitt-score-big/articleshow/129331797.cms",
-    "time": "2026-03-09T12:00:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir Kapoor, Sai Pallavi's look from 'Ramayana' leaked? Here's the truth",
-    "desc": "Viral images claiming to show Ranbir Kapoor and Sai Pallavi as Rama and Sita in the upcoming 'Ramayana' film have been confirmed as fake. Actor Ashish Sharma, who previously played Rama, revealed the images were digitally altered from his own show, 'Siya Ke Ram', debunking the 'leaked' photos.",
-    "img": "https://static.toiimg.com/photo/msid-129331316,imgsize-60864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-sai-pallavis-look-from-ramayana-leaked-tvs-lord-ram-ashish-sharma-reveals-the-truth/articleshow/129327344.cms",
-    "time": "2026-03-09T11:46:37.000Z"
   },
   {
     "cat": "Sports",
@@ -367,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-punishment-pakistan-coach-breaks-silence-on-babar-azam-exclusion-after-world-cup-disaster/articleshow/129327495.cms",
     "time": "2026-03-09T10:34:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How much gold costs in your city today? Check rates for Delhi, Mumbai &amp; more",
-    "desc": "Gold futures experienced a significant drop of Rs 1,052 on Monday, closing at Rs 1,60,582 per 10 grams due to weakened local spot demand and soft global cues. Conversely, silver futures saw an advance, gaining Rs 4,362 to end at Rs 2,63,923 per kilogram on the MCX amid market uncertainties.",
-    "img": "https://static.toiimg.com/photo/msid-129326750,imgsize-223438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-how-much-gold-costs-in-your-city-today-check-rates-for-delhi-mumbai-more/articleshow/129325812.cms",
-    "time": "2026-03-09T10:21:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -468,15 +504,6 @@ const newsData_en = [
     "time": "2026-03-09T08:15:21.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Oil above $100 as Iran war disrupts supply: Will G7 tap emergency reserves?",
-    "desc": "G-7 nations are considering a joint release of strategic oil reserves to stabilize surging crude prices amid the ongoing Middle East war. Finance ministers will discuss the coordinated drawdown, which would be in conjunction with the International Energy Agency. This move aims to alleviate supply disruptions impacting global consumers and industries.",
-    "img": "https://static.toiimg.com/photo/msid-129320690,imgsize-38376.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-above-100-as-iran-war-disrupts-supply-will-g7-tap-emergency-reserves/articleshow/129319496.cms",
-    "time": "2026-03-09T08:12:28.000Z"
-  },
-  {
     "cat": "World",
     "title": "Oil and Iran-U.S. war: Key takeaways in graphics",
     "desc": "As the Iran-U.S. war extended past its first week, Brent crude oil reached a two-year high of $114 per barrel on the Chicago mercantile exchange. How can oil production and exports be affected in the war? Here are graphics to explain.",
@@ -495,24 +522,6 @@ const newsData_en = [
     "time": "2026-03-09T07:44:20.000Z"
   },
   {
-    "cat": "Business",
-    "title": "'Consumer always priority': Jaishankar calls Iran crucial to India's energy security as Middle East conflict intensifies",
-    "desc": "India's external affairs minister emphasized national interest, including energy security, as paramount amid Middle East conflict. He highlighted concerns over supply chain disruptions and instability, stressing the government's commitment to managing energy availability and costs for Indian consumers. India advocates for de-escalation through dialogue and diplomacy.",
-    "img": "https://static.toiimg.com/photo/msid-129318637,imgsize-53662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/consumer-always-priority-jaishankar-calls-iran-crucial-to-indias-energy-security-as-middle-east-conflict-intensifies/articleshow/129316322.cms",
-    "time": "2026-03-09T07:33:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Nikkei tumbles 3,000 points, Kospi down 7%; markets trade in red as oil prices soar beyond $100",
-    "desc": "Asian stocks plummeted Monday as surging oil prices, driven by Middle East supply concerns, rattled markets. South Korea's Kospi led the decline, falling over 7.8%. Brent crude surpassed $118 a barrel, reaching a 14-year high, fueling fears of significant global economic harm.",
-    "img": "https://static.toiimg.com/photo/msid-129313503,imgsize-76917.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-nikkei-tumbles-3000-points-kospi-down-7-markets-trade-in-red-as-oil-prices-soar-beyond-100/articleshow/129311844.cms",
-    "time": "2026-03-09T05:45:33.000Z"
-  },
-  {
     "cat": "World",
     "title": "Bangladesh shuts universities early to save power amid energy crisis",
     "desc": "Authorities ⁠said the decision applies to all public and private universities across the country, a move that officials said will ‌not only reduce electricity consumption but also ease traffic congestion, which leads to fuel ‌wastage",
@@ -520,15 +529,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladesh-shuts-universities-early-to-save-power-amid-energy-crisis/article70721203.ece",
     "time": "2026-03-09T05:31:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude oil surpasses $100: WTI up 30%, brent crude reaches $118; what it means?",
-    "desc": "Middle East conflict intensifies, driving oil markets past $100 a barrel as Brent crude reached $118. Fears of energy supply disruption and blocked shipping routes, particularly through the Strait of Hormuz, have caused significant price surges. This volatility impacts global energy supplies and the cost of everyday goods.",
-    "img": "https://static.toiimg.com/photo/msid-129306105,imgsize-2032116.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/crude-oil-surpasses-100-wti-up-30-brent-crude-reaches-118-what-it-means/articleshow/129305473.cms",
-    "time": "2026-03-09T05:06:20.000Z"
   },
   {
     "cat": "World",
@@ -540,15 +540,6 @@ const newsData_en = [
     "time": "2026-03-09T04:56:45.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Rupee hits all-time low to reach 92.5 against US dollar as oil prices surpass $100",
-    "desc": "The Indian Rupee faced significant pressure, nearing a record low due to soaring crude oil prices and a stronger US dollar, exacerbated by Middle East tensions. Foreign investor outflows and a sharp decline in domestic equities further impacted the currency. Experts warn of further weakening if oil prices remain elevated, potentially pushing the rupee to 93.00.",
-    "img": "https://static.toiimg.com/photo/msid-129314255,imgsize-1351521.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-nears-all-time-low-currency-reaches-92-25-against-us-dollar-as-oil-prices-surpass-100-amid-middle-east-tensions/articleshow/129310049.cms",
-    "time": "2026-03-09T04:46:53.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "VPNs up, porn websites down as Australia brings in new online age-restrictions",
     "desc": "“A child today can’t walk into a bar and order ​a drink, they can’t stroll into ‌a strip club or browse an adult shop or sit down at a blackjack table in a casino,” eSafety Commissioner Julie Inman Grant said",
@@ -556,24 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/vpns-up-porn-websites-down-as-australia-brings-in-new-online-age-restrictions/article70721067.ece",
     "time": "2026-03-09T04:45:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rs 12 lakh cr wiped out as Sensex plunges 2,000 points, Nifty below 24,000",
-    "desc": "Indian stock markets, Nifty and Sensex, opened the week lower amid escalating Middle East conflict, following a significant market cap erosion last week. Analysts anticipate geopolitical developments, particularly their impact on global crude oil prices, will dictate market direction. Investors are also closely monitoring foreign investor flows and global cues for sentiment shifts.",
-    "img": "https://static.toiimg.com/photo/msid-129307297,imgsize-93070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nse-nifty50-bse-sensex-trading-on-march-9/articleshow/129307271.cms",
-    "time": "2026-03-09T03:48:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Shriram Finance, Nykaa &amp; more: Top stocks to watch on March 9",
-    "desc": "Jefferies initiated coverage on Shriram Finance with a buy rating and a Rs 1,220 target, citing healthy commercial vehicle demand and strong AUM growth prospects. Macquarie downgraded Nykaa to underperform, questioning its ability to replicate Dot & Key's success with other owned brands.",
-    "img": "https://static.toiimg.com/photo/msid-129302530,imgsize-74058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/shriram-finance-nykaa-indigo-pine-labs-orkla-india-top-stocks-to-watch-for-on-march-9/articleshow/129302590.cms",
-    "time": "2026-03-09T01:58:50.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
   }
 ];

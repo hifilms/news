@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New Zealand women announce T20I squad for five-game series against South Africa",
+    "desc": "New Zealand women are all set to take on South Africa women in a multi-format white-ball series. The two sides will take on each other across five T20Is and three ODI matches. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-women-announce-t20i-squad-for-five-game-series-against-south-africa-2026-03-10-1033208",
+    "time": "2026-03-10T01:38:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jasprit Bumrah topples Sachin Tendulkar in major record list for India",
     "desc": "Ace pacer Jasprit Bumrah has surpassed the legendary Sachin Tendulkar on the list of most wickets by an Indian cricketer in the knockouts of ICC tournaments. The Ahmedabad-born claimed four wickets against New Zealand in...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kerala-government-to-honour-sanju-samson-after-india-s-t20-world-cup-2026-triumph-2026-03-09-1033159",
     "time": "2026-03-09T10:21:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Virtually unbeatable': Nasser Hussain gives his take on India's title-winning T20 World Cup campaign",
-    "desc": "There is no doubt that Team India was the best team of the recently concluded T20 World Cup; the side just lost one game throughout the tournament and went on to defeat New Zealand in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virtually-unbeatable-nasser-hussain-gives-his-take-on-india-s-title-winning-t20-world-cup-campaign-2026-03-09-1033149",
-    "time": "2026-03-09T08:27:55.000Z"
   }
 ];
