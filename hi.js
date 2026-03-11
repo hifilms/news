@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan aim for good showing with the bat in the first innings",
+    "desc": "Pakistan and Bangladesh kick off their series by facing off in the 1st ODI of the series. The two sides meet at the Shere Bangla National Stadium in Mirpur. The game began on a positive note...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ban-vs-pak-1st-odi-live-cricket-score-pakistan-aim-for-good-showing-with-the-bat-in-the-first-innings-2026-03-11-1033384",
+    "time": "2026-03-11T08:33:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma retains top spot, Ishan Kishan moves into second after latest ICC T20I rankings update",
+    "desc": "With India having won the T20 World Cup 2026, the ICC updated the latest T20I rankings, and star batter Abhishek Sharma has retained the number one spot after the tournament. In a major climb, star...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-retains-top-spot-ishan-kishan-moves-into-second-after-latest-icc-t20i-rankings-update-2026-03-11-1033380",
+    "time": "2026-03-11T08:06:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and Where to watch marquee event live on TV and online in India?",
     "desc": "The stage is set for yet another season of the Legends League Cricket. The 2026 edition of the tournament is set to kick off on March 11. The final of the tournament is slated to...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-trains-under-yuvraj-singh-in-mumbai-bats-with-slight-different-technique-watch-2026-03-10-1033315",
     "time": "2026-03-10T18:08:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch ODI series live on TV and stream online in India?",
-    "desc": "The upcoming Pakistan tour of Bangladesh begins on March 11. After their decision to opt out of the recently concluded T20 World Cup, this will be the first time that the Bangla Tigers will be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-vs-pakistan-live-where-to-watch-odi-series-live-on-tv-and-stream-online-in-india-2026-03-10-1033312",
-    "time": "2026-03-10T17:27:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan brushes aside Kirti Azad's criticism over temple visit with T20 World Cup trophy",
-    "desc": "After India lifted the T20 World Cup 2026, captain Suryakumar Yadav, alongside head coach and ICC chief Jay Shah, visited a nearby Hanuman Mandir to offer their prayers. That act caught the attention of India’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-brushes-aside-kirti-azad-s-criticism-over-temple-visit-with-t20-world-cup-trophy-2026-03-10-1033307",
-    "time": "2026-03-10T16:12:30.000Z"
   }
 ];

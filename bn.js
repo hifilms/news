@@ -1,12 +1,66 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "'একদিন তোকেও ফ্রিজে পাওয়া যাবে', ৬ পাতার সুইসাইড নোটে কাঠগড়ায় প্রেমিক: চিকিত্‍সকের মৃত্যুতে শ্রদ্ধা ওয়াকারের ছায়া",
+    "desc": "মুম্বইয়ের এক মেধাবী হবুচিকিৎসকের আত্মহত্যার ঘটনায় চাঞ্চল্য ছড়িয়েছে গোটা দেশে। উঠে এসেছে শ্রদ্ধা ওয়াকার হত্যাকাণ্ডের সেই হাড়হিম করা অনুষঙ্গও। তবে এই আত্মহত্যার ঘটনায় সবথেকে বেশি শোরগোল ফেলেছে তাঁর ঘর থেকে উদ্ধার হওয়া ছয় পাতার একটি সুইসাইড নোট।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/mumbai-dentist-suicide-stuti-sonwane-shraddha-walkar-fridge-reference_644474.html ",
+    "time": "2026-03-11T08:36:25.000Z"
+  },
+  {
     "cat": "Entertainment",
-    "title": "'গাড়িটি গুরুতর ভাবে জখম হলেও আমি বিপন্মুক্ত' দুর্ঘটনার কবল থেকে ফিরলেন শ্রীজাত, জানালেন,'এখন সুস্থ আছি'",
+    "title": "১৯ বছরের ছোট হিরে ব্যবসায়ী অতীত, ঘনিষ্ঠ আলিঙ্গনে মত্ত মালাইকা, কে এই 'মিস্ট্রি ম্যান'? রহস্যময় যুবক যা ফাঁস করলেন...",
+    "desc": "মালাইকা এবং সোরাবকে একসঙ্গে নাচতে দেখা গিয়েছে, যা সোশ্যাল মিডিয়ায় তাদের সম্পর্ক নিয়ে গুজব ছড়িয়ে দিয়েছে। দু'জনের ডেটিং নিয়েও অসংখ্য জল্পনা-কল্পনা ছিল। এই গুজব এবং জল্পনার মাঝে, অভিনেতা সোরাব বেদী এখন এই গুজবের জবাব দিয়েছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/malaika-arora-1-2026-03-672f06ca30ba03fa0fc5da64f26cc0b0-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/sorab-bedi-reacts-to-dating-rumours-with-malaika-arora-after-cozy-dance-vide-went-viral-says-met-through-mutuals-rds-2579167.html",
+    "time": "2026-03-11T08:31:28.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "গ্যাস বাঁচাতে ইনডাকশনে রান্না করতে গিয়ে বেশি বিদ্যুৎ পুড়ছে না তো? জেনে নিন ৩টি সাশ্রয়ী উপায়, মাসের শেষে ইলেক্ট্রিক বিলে 'শক' লাগবে না",
+    "desc": "কোন ইন্ডাকশন ওভন কম বিদ্যুৎ খরচ করে? এটি নির্ধারণের জন্য, আপনি চুলার ওয়াটেজ, বিশেষ শক্তি-সাশ্রয়ী বৈশিষ্ট্য এবং বিআইএস চিহ্ন পরীক্ষা করতে পারেন। এটি আপনাকে কোন ওভেন শক্তি-সাশ্রয়ী এবং কোনটি নয় তার একটি স্পষ্ট ধারণা দেবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Induction-oven-use-2026-03-f51144fd2b258f1d456d689e01f7caa8-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/how-to-save-electricity-in-induction-oven-cooking-in-times-of-lpg-cylinder-shortage-and-price-hike-pbd-2579281.html",
+    "time": "2026-03-11T08:24:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'২৫ দিনের' আগেই যদি শেষ হয়ে যায় আপনার LPG সিলিন্ডার...! কী ভাবে করবেন নতুন বুকিং? 'Process' জেনে নিন!",
+    "desc": "সিলিন্ডারের দাম বাড়তেই দেশ জুড়ে সিলিন্ডার সঙ্কট দেখা দিয়েছে। এর মধ্যেই পরিবর্তন করা হয়েছে এলপিজি সিলিন্ডার বুকিং এর নিয়ম। নতুন বুকিং-এর জন্য এখন ২৫ দিনের অপেক্ষার সময় প্রয়োজন। কিন্তু কী করবেন যদি সিলিন্ডারটি তাড়াতাড়ি শেষ হয়ে যায়? জেনে নিন তাহলে ঠিক কোন পদ্ধতিগুলি গ্রহণ করা যেতে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/lpg-gas-booking-2026-03-55bc182cd502f609e26ceb0d368894f0-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/kolkata/gas-cylinder-booking-rules-if-your-lpg-cylinder-runs-out-before-25-days-how-to-make-a-new-booking-know-the-right-process-before-facing-trouble-sanj-2579111.html",
+    "time": "2026-03-11T07:48:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'আমি বিপন্মুক্ত' ভয়াবহ দুর্ঘটনার কবল থেকে ফিরলেন শ্রীজাত, জানালেন, 'এখন সুস্থ আছি,বাড়িতেই আছি'",
     "desc": "মঙ্গলবার খবর ছড়ায়, শ্রীজাত গুরুতর জখম! উদ্বিগ্ন হয়ে পড়েন অনুরাগীরা! অবশেষে কবি নিজেই জানালেন, তিনি ভাল আছেন, সুস্থ আছেন। কবির ভাষায়, ''এখন সুস্থ আছি, বাড়িতেই আছি। পেশিতে চোট পেয়েছি, চিকিৎসা চলছে। কিছুদিনের বিশ্রামও তারই অন্তর্গত।''",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/Srijato-Health-Update-2026-03-34149bbe34266ff366ba0a843658bb5c-1200x800.jpg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/srijato-health-update-of-bengali-poet-srijato-after-he-met-with-an-accident-rm-2579075.html",
-    "time": "2026-03-11T06:39:55.000Z"
+    "time": "2026-03-11T07:29:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বাংলাতেই ৫০°C ছাড়াবে গরম? রেকর্ড দিন তাপপ্রবাহ, ২০২৬-এ ভয়ংকর জ্বালাপোড়ায় 'ঝলসে' যাবে মানুষ",
+    "desc": "১৯০১ সালের পর অন্যতম উষ্ণ ফেব্রুয়ারি। মার্চ থেকে মে, বেশিরভাগ এলাকায় স্বাভাবিকের তুলনায় সর্বোচ্চ তাপমাত্রা বেশি থাকবে। IMD-র পূর্বাভাস অনুযায়ী, স্বাভাবিকের তুলনায় ৩ থেকে ১৫ দিন বেশি তাপপ্রবাহ চলবে। প্রায় সারা ভারতেই জারি হিটওয়েভের রেড অ্যালার্ট!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/temperature-will-cross-50%C2%B0c-heat-wave-alerts-across-india-2026-hottest-summer_644458.html ",
+    "time": "2026-03-11T07:11:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ট্রাম্পের টেক্সাসে এবার তেলের ব্যবসা আম্বানির, শোধনাগারে বিনিয়োগ ₹২৭৫৬৪৮২৫০০০০০০",
+    "desc": "টেক্সাসে ৫০ বছর পর আমেরিকার প্রথম নতুন তেল শোধনাগার তৈরির ঐতিহাসিক ঘোষণা দিয়েছেন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প, যেখানে বিনিয়োগ সহযোগী হিসেবে তিনি ভারতের রিলায়েন্স ইন্ডাস্ট্রিজকে ধন্যবাদ জানিয়েছেন। ৩০০ বিলিয়ন ডলারের এই বিশাল প্রকল্প মার্কিন জ্বালানি নিরাপত্তা নিশ্চিত করবে",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/donald-trump-texas-oil-refinery-indias-reliance-industry_644456.html ",
+    "time": "2026-03-11T06:53:49.000Z"
   },
   {
     "cat": "Politics",
@@ -844,59 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/crude-oil-amid-us-iran-conflict-russia-ready-to-send-oil-to-india-to-manage-crude-oil-supply-in-india-rdp-2569129.html",
     "time": "2026-03-04T14:23:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ফেব্রুয়ারিতেই ভেঙেছে গরমের রেকর্ড! 'এল নিনোর' চোখ রাঙানিতে অস্থির হতে পারে গোটা ভারত! অপেক্ষা করছে ভয়ঙ্কর দিন",
-    "desc": "মার্চ থেকে মে মাস পর্যন্ত ভারতের অধিকাংশ অংশে স্বাভাবিকের চেয়ে বেশি তাপপ্রবাহের দিন থাকার সম্ভাবনা রয়েছে। তবে পূর্ব উত্তর প্রদেশ, বিহার, ঝাড়খণ্ড, গঙ্গীয় পশ্চিমবঙ্গ, ওড়িশা, ছত্তিশগড়, তেলঙ্গানা, রায়লসিমা ও আন্ধ্রপ্রদেশের দক্ষিণাঞ্চল এবং পশ্চিমের গুজরাট ও রাজস্থান সবচেয়ে বেশি প্রভাবিত হতে পারে। আবহাওয়াবিদরা বলছেন, এই অঞ্চলগুলো প্রাকৃতিকভাবে তাপপ্রবাহের জন্য সংবেদনশীল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/summer-2026-02-490fdfa8b7466c790a52b10b158ed763-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/temperatures-hit-38c-as-march-begins-experts-warn-of-hotter-year-with-el-nino-comeback-smc-2569158.html",
-    "time": "2026-03-04T14:01:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel Conflict: 'কোনও নেতাকে মাথা তুলতে দেব না' খামেনেই পুত্রের উপর প্রাণঘাতী হামলা করে হুঙ্কার ইজরায়েলের! অল্পের জন্য জীবনরক্ষা মোজতবার",
-    "desc": "ইরানের সর্বোচ্চ নেতা আয়াতোল্লাহ আলি খামেনেইয়ের মৃত্যুর পরে ওই পদে যে বসবে তাঁকেই হত্যা করা হবে বলে হুমকি দিয়েছিল ইজরায়েল। খামেনেইয়ের মৃত্যুর পরে তাঁর দ্বিতীয় পুত্র মোজতবা আলি খামেনেইয়ের পদে আসীন হওয়ার জল্পনা শুরু হতেই এবার তাঁর উপর আক্রমণ করল ইজরায়েল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/mujtava-1-2026-03-05f22926a3a3dcd2a44e6ab8a7596ad4-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/mojtaba-khamenei-seen-as-possible-next-supreme-leader-has-survived-attacks-on-iran-sources-say-smc-2569091.html",
-    "time": "2026-03-04T13:14:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ইরান সঙ্কটের জের! দু'দিনে বম্বে শেয়ার বাজার থেকে মুছে গেল ৯.৭ লক্ষ কোটি টাকা, মাথায় হাত বিনিয়োগকারীদের",
-    "desc": "প্রায় ৯.৭ লক্ষ কোটি টাকার সম্পদ উড়ে গিয়েছে শেয়ার বাজার থেকে। বড় পতনের কারণে ইনভেস্টরদের সম্পদ ব্যাপকভাবে কমে গেছে। বুধবার ভারতীয় টাকার দাম ৬৮ পয়সা কমে মার্কিন ডলারের তুলনায় ৯২.১৭-এ পৌঁছেছে, যা এখন পর্যন্ত সর্বনিম্ন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Sensex-2026-03-30ced17e7275f55b0d05f7c460f691ce-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/huge-loss-for-indian-share-markets-as-nearly-10-lakh-crore-wealth-of-investors-erased-in-just-2-days-for-iran-israel-us-crisis-rdp-2569010.html",
-    "time": "2026-03-04T13:09:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "রেয়াত করা হত না কোনও নায়ক-নায়িকাকে, ডোবানো হত রং-এর চৌবাচ্চায়! রাজ কাপুরের আর.কে স্টুডিওর হোলির ভিডিও দেখুন",
-    "desc": "ধীরে ধীরে, এটি একটি ব্যক্তিগত পার্টি থেকে একটি বড় শিল্প-ব্যাপী সমাবেশে পরিণত হয়।এই হোলির সবচেয়ে বড় বিশেষত্ব ছিল এখানে ছোট-বড় কেউ ছিল না।একদিকে ছিলেন ইন্ডাস্ট্রির সবচেয়ে বড় তারকারা, অন্যদিকে ছিলেন স্টুডিওর স্পট বয় এবং টেকনিশিয়ানরা। সবাই যেন একই আলোয় রাঙানো।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Holi-celebration-2026-03-6ebcb014ef9e22facbe5a5f7141b1ef1-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/raj-kapoor-rk-studio-holi-celebration-parties-were-memorable-all-bollywood-stars-and-crew-participated-pbd-2569067.html",
-    "time": "2026-03-04T12:51:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "জমানার ইতি! রাজ্যসভায় যাচ্ছেন নীতীশ কুমার? বিহারের নতুন মুখ্যমন্ত্রী হবেন কে?",
-    "desc": "সূত্রের খবর, বিহারের মুখ্যমন্ত্রিত্ব ছেড়ে দিয়ে সম্ভবত ফের জাতীয় রাজনীতির দিকে যেতে চলেছেন নীতীশ কুমার৷ তাঁকে রাজ্যসভায় পাঠানো নিয়ে চলছে জোরাল আলোচনা৷ এদিকে, তাঁর রাজনৈতিক উত্তরাধিকারী হিসাবে তাঁর অবর্তমানে বিহারের উপ মুখ্যমন্ত্রীর পদ দেওয়া হচ্ছে নীতীশ কুমারের ছেলে নিশান্ত কুমারকে। আজ পটনায় এনডিএ আইনসভা দলের বৈঠকে এই সমীকরণগুলি চূড়ান্ত হওয়ার কথা রয়েছে বলে মনে করা হচ্ছে।সূত্রের খবর, জেডিইউর জাতীয় নির্বাহী সভাপতি সঞ্জয় ঝা বুধবার সকালে দিল্লি থেকে পটনায় পৌঁছেছেন এবং বিহারের মুখ্যমন্ত্রী নীতীশ কুমারের সঙ্গে দীর্ঘ আলোচনা করেছেন। কেন্দ্রীয় মন্ত্রী রাজীব রঞ্জন সিং, যিনি লল্লন সিং নামেও পরিচিত, আগামিকাল, বৃহস্পতিবার সকালে দিল্লি থেকে পটনায় পৌঁছবেন। এই সমস্ত কিছুই ইঙ্গিত দিচ্ছে বড় ধরনের রদবদলের৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Nitish-kumar-2026-03-ed8dfba3ced1d2d5f7a6a65503852a08-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/nitish-kumar-may-be-is-going-to-rajya-sabha-who-will-be-the-next-hief-minister-of-bihar-sta-2569012.html",
-    "time": "2026-03-04T11:55:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "কোলাঘাটের ক্রীড়াপ্রেমীদের দীর্ঘ প্রতীক্ষার অবসান! ইউনিয়ন উচ্চ বিদ্যালয়ের মাঠে যুক্ত হল আধুনিক সুযোগ-সুবিধা, খুশি সকলে",
-    "desc": "কোলাঘাটের একমাত্র খেলার মাঠের দীর্ঘদিনের অভাব অবশেষে পূরণ হল। কোলাঘাট ইউনিয়ন উচ্চ বিদ্যালয়ের এই মাঠে নবনির্মিত ড্রেসিংরুম ও শৌচালয়ের সুবিধা পাওয়ায় খুশির হাওয়া এলাকায়। উন্নত মানের এই মাঠ এখন স্থানীয় প্রতিভাদের বিকাশে আরও সহায়ক হয়ে উঠবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/kolaghat-union-high-school-playground-renovation-2026-03-0acaa98af3bd3952256ad4f22d37014b-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/east-medinipur-news-kolaghat-union-high-school-playground-renovation-dressing-room-l18-local18-2567789.html",
-    "time": "2026-03-04T11:42:09.000Z"
   }
 ];
