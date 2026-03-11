@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "વર્લ્ડ કપ હારતા ન્યુઝીલેન્ડ ક્રિકેટનો મોટો નિર્ણય, આ ખેલાડીઓને ટીમમાંથી કર્યા બહાર",
+    "desc": "ન્યૂઝીલેન્ડે દક્ષિણ આફ્રિકા સામેની T20 શ્રેણી માટે 18 સભ્યોની ટીમની જાહેરાત કરી છે. મિશેલ સેન્ટનર પ્રથમ ત્રણ મેચમાં ટીમનું નેતૃત્વ કરશે, જ્યારે ટોમ લાથમ અંતિમ બે મેચમાં કમાન સંભાળશે. ઘણા અનુભવી ખેલાડીઓને આરામ આપવામાં આવ્યો છે અને ત્રણ નવા ખેલાડીઓને ડેબ્યૂ કરવાની તક આપવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/new-zealand-crickets-big-decision-after-world-cup-final-loss-senior-players-out-468088 ",
+    "time": "2026-03-11T06:44:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 વર્લ્ડ કપ જીત્યા પછી નવા કેપ્ટનની શોધ ચાલુ ! અભિષેક, અક્ષર કે સેમસન કોણ લેશે સૂર્યાનું સ્થાન ?",
+    "desc": "T20 વર્લ્ડ કપ 2026 પછી ટીમ ઈન્ડિયાના આગામી કેપ્ટન અંગે ચર્ચા હવે શરૂ થઈ ગઈ છે. પૂર્વ ભારતીય ખેલાડી મોહમ્મદ કૈફે સંજુ સેમસન પર દાવ લગાવ્યો છે. તેમના મતે સંજુ વર્તમાન કેપ્ટન સૂર્યકુમાર યાદવનું સ્થાન લેવા માટે એક મજબૂત દાવેદાર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/who-will-be-next-captain-of-team-india-in-t20-mohammad-kaif-suggest-name-468073 ",
+    "time": "2026-03-11T05:18:38.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "2026મા થશે મોટો ધમાકો, Hyundai Creta ને ટક્કર આપવા આપી રહી છે 3 ધાકડ SUVs!",
+    "desc": "ભારતમાં મિડ સાઇઝ SUV સેગમેન્ટમાં આ વર્ષે ઘણી નવી ગાડીઓ લોન્ચ થવાની છે, જે Hyundai Creta ને ટક્કર આપી શકે છે. Toyota Urban Cruiser Ebella, Renault Duster અને Skoda Kushaq જેવી SUVs નવા ફીચર્સ અને શાનદાર સ્ટાઇલની સાથે આવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/upcoming-mid-size-suv-in-2026-new-duster-ebella-kushaq-will-launch-468071 ",
+    "time": "2026-03-11T04:59:10.000Z"
+  },
+  {
     "cat": "Business",
     "title": "LPG સિલિન્ડર થયા મોંઘા, પરંતુ આ યોજના હેઠળ હજુ પણ મળે છે 300 રૂપિયાની સબસિડી, જાણો",
     "desc": "પશ્ચિમ એશિયામાં વધી રહેલા તણાવની અસર હવે ભારતના સામાન્ય લોકોના ખિસ્સા પર પડી રહી છે. ઈરાન અને ઈઝરાયલ વચ્ચે ચાલી રહેલા સંઘર્ષે વૈશ્વિક ઉર્જા બજારને અસ્થિર બનાવ્યું છે, જેની સીધી અસર પેટ્રોલિયમ ઉત્પાદનોના ભાવ પર પડી છે.",
@@ -270,24 +297,6 @@ const newsData_gu = [
     "time": "2026-03-09T06:49:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ટીમ ઈન્ડિયાની જીતના 5 હીરો... આ ખેલાડીઓએ ભારતને બનાવી દીધું વર્લ્ડ ચેમ્પિયન....",
-    "desc": "ભારતે ટી20 વિશ્વકપ 2026 જીતી ઈતિહાસ રચી દીધો છે. ભારતની આ જીતમાં ઘણા ખેલાડીઓનું યોગદાન રહ્યું છે. પરંતુ આજે અમે તમને પાંચ ખેલાડીઓ વિશે જણાવીશું જેણે ટૂર્નામેન્ટમાં મહત્વના સમયે પ્રદર્શન કરી ટીમને ચેમ્પિયન બનાવવામાં મહત્વની ભૂમિકા ભજવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-india-victory-5-heroes-sanju-samson-to-jasprit-bumrah-hardik-pandya-467788 ",
-    "time": "2026-03-09T06:39:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ફાઈનલમાં ન્યૂઝીલેન્ડનો રકાસ, દિલ્હી-અમદાવાદ પોલીસે બરાબર મજા લીધી, UP પોલીસે પણ સાથ આપ્યો",
-    "desc": "અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં ટી20 વર્લ્ડ કપ 2026ની ફાઈનલ ન્યૂઝીલેન્ડ અને ભારત વચ્ચે રમાઈ જેમાં ભારતે શાનદાર જીત મેળવી બેક ટુ બેક ટ્રોફી જીતી. આ જીતમાં ફેન્સની સાથે કેટલાક રાજ્યોની પોલીસ પણ ઉત્સાહિત જોવા મળી અને મજા પણ લીધી. દિલ્હી પોલીસે શરૂઆત કરી ત્યારબાદ અમદાવાદ પોલીસે પણ રસપ્રદ જવાબ આપ્યો અને યુપી પોલીસ પણ પછી તો જોડાઈ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-final-delhi-police-ahmedabad-police-take-a-dig-at-new-zealand-team-up-plice-also-joined-467789 ",
-    "time": "2026-03-09T05:54:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ગણતરીની પળોમાં 13 લાખ કરોડ સ્વાહા, શેર બજારમાં આવી ગયો છે તબાહીનો દોર, 10% તૂટશે માર્કેટ!",
     "desc": "નવા અઠવાડિયાના પહેલા જ કારોબારી દિવસે આજે શેર બજારમાં ભારે કડાકાનો માહોલ જોવા મળ્યો છે. ગણતરીની મિનિટોમાં રોકાણકારોના 13 લાખ કરોડ જેટલી મૂડીનું ધોવાણ થઈ ગયું છે. એક્સપર્ટ શું ચેતવણી આપે છે તે પણ જાણો.",
@@ -387,15 +396,6 @@ const newsData_gu = [
     "time": "2026-03-08T02:42:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "રશિયન ઓઈલની ખરીદી પર છૂટ આપવાના અમેરિકાના દાવા પર ભારતે કર્યો જોરદાર પલટવાર!",
-    "desc": "હોર્મુઝ જળમાર્ગ ઈરાને બંધ કરતા ઊભા થયેલા ક્રૂડ ઓઈલ અને ગેસના પડકાર પર અમેરિકાએ જાણે ઉપકાર કરતું હોય તે રીતે ભારતને 30 દિવસ સુધી રશિયન ઓઈલ ખરીદવા માટે છૂટ આપી હોવાનો દાવો કરતા ભારતના રાજકારણમાં ગરમાવો આવી ગયો. હવે આ મામલે શું અપડેટ છે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/indias-befitting-reply-to-america-over-russian-oil-purchase-iran-israel-war-467569 ",
-    "time": "2026-03-08T02:32:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Gold-Silver Weekly Rate Explainer: યુદ્ધના માહોલમાં પણ સોના-ચાંદી સસ્તા થયા, ભાવમાં ઝાઝો ઉતાર-ચડાવ નહીં? ખાસ જાણો કારણો",
     "desc": "એક અઠવાડિયાથી ઈરાન અને ઈઝરાયેલ વચ્ચે ભયાનક યુદ્ધ ચાલી રહ્યુ છે. જેમાં ખાડીના અનેક દેશો પણ ઝપેટમાં આવેલા છે. સામાન્ય રીતે યુદ્ધની સ્થિતિમાં ભાવ વધે પરંતુ અઠવાડિયાની સોના અને ચાંદીની મૂવમેન્ટ જોઈએ તો રેટમાં બહુ ઝાઝો ફરક જોવા મળ્યો નથી. તો આ પાછળ શું કારણ હોઈ શકે? ખાસ જાણો.",
@@ -421,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/bumper-discount-up-to-5-lakh-on-skoda-kodiaq-check-last-date-auto-news-in-gujarati-467577 ",
     "time": "2026-03-07T17:08:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "યુદ્ધના તણાવ વચ્ચે ભારતમાં ઈંધણ મોંઘું થશે? ઓઈલ કંપનીઓની મોટી સ્પષ્ટતા, જાણો શું છે હકીકત",
-    "desc": "અમેરિકા, ઈરાન અને ઈઝરાયલ વચ્ચે વધતા તણાવને કારણે સોશિયલ મીડિયા પર ભારતમાં પેટ્રોલ-ડીઝલના ભાવ વધવાની અફવાઓ ફેલાઈ રહી છે. જો કે, દેશની અગ્રણી ઓઈલ કંપનીઓએ સ્પષ્ટતા કરી છે કે, આ સમાચાર પાયાવિહોણા છે. ભારત પાસે પૂરતો તેલનો જથ્થો છે અને હાલ ભાવ વધારાની કોઈ શક્યતા નથી. તેથી જનતાએ ગભરાયા વગર આવી ભ્રામક માહિતી પર વિશ્વાસ ન કરવો જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/israel-iran-conflict-impact-on-crude-oil-prices-and-petrol-diesel-rates-in-india-reality-check-467576 ",
-    "time": "2026-03-07T15:03:49.000Z"
   },
   {
     "cat": "Tech",
@@ -610,23 +601,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/sim-binding-rule-whatsapp-telegram-users-impact-466411 ",
     "time": "2026-02-27T10:54:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "શરૂ થવા જઈ રહી છે ઉબેર એર ટેક્સી, કેબની જેમ મોબાઈલ એપથી થશે બુકિંગ",
-    "desc": "અમેરિકન કેબ સર્વિસ પ્રોવાઇડર ઉબેર અને જોબી એવિએશન દ્વારા એર ટેક્સી સર્વિસ શરૂ કરવાની જાહેરાત કરવામાં આવી છે. આ નવી એર ટેક્સી સર્વિસ નિયમિત કેબ રાઇડની જેમ જ મોબાઇલ એપ દ્વારા બુકિંગ કરી શકાશે. જો બધું યોજના મુજબ ચાલશે, તો આ એર ટેક્સી સર્વિસ આ વર્ષના અંત સુધીમાં શરૂ કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/uber-air-taxi-dubai-know-booking-process-ride-fare-and-features-466406 ",
-    "time": "2026-02-27T10:04:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "વેડિંગ લુકમાં રશ્મિકા-વિજયએ નવો ચીલો ચીતર્યો, કેસરીયો રંગ અને પ્યોર ગોલ્ડ જ્વેલરી ચર્ચામાં, ચેક કરો વેડિંગ લુકની ડિટેલ્સ",
-    "desc": "એ વાતમાં કોઈ શંકા નથી કે આવનારા સમયમાં કેસરીયો રંગ વેડિંગ આઉટફિટમાં છવાઈ જવાનો છે કારણ કે રશ્મિકા મંદાનાએ તેના બ્રાઈડલ લુકથી ફેશન ઈંડસ્ટ્રીમાં નવા ટ્રેંડની શરુઆત કરી દીધી છે. વેડિંગ સાડીમાં રેડ કે પેસ્ટલ રંગના ટ્રેંડને છોડી રશ્મિકાએ નવો ડ્રેંટ શરુ કર્યો છે. સાથે જ ડાયમંડ નહીં પણ પ્યોર ગોલ્ડ જ્વેલરીનો ટ્રેડ પણ શરુ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/virosh-wedding-look-why-rashmika-and-vijay-deverakonda-pure-gold-jewelry-and-orange-outfit-talk-of-the-town-466384 ",
-    "time": "2026-02-27T05:55:57.000Z"
   }
 ];

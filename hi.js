@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and Where to watch marquee event live on TV and online in India?",
+    "desc": "The stage is set for yet another season of the Legends League Cricket. The 2026 edition of the tournament is set to kick off on March 11. The final of the tournament is slated to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/legends-league-cricket-2026-when-and-where-to-watch-marquee-event-live-on-tv-and-online-in-india-2026-03-11-1033368",
+    "time": "2026-03-11T06:45:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shivam Dube travels incognito, takes train ride back home to Mumbai after T20 World Cup triumph",
+    "desc": "The Indian team etched their name in history as they lifted their second straight T20 World Cup title and third title overall. The side became the first team in history to defend the T20 World...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shivam-dube-travels-incognito-takes-train-ride-back-home-to-mumbai-after-t20-world-cup-triumph-2026-03-11-1033358",
+    "time": "2026-03-11T05:54:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Afghanistan-Sri Lanka multi-format series postponed amid West Asia tensions",
+    "desc": "With the ongoing West Asia war, the upcoming series between Afghanistan and Sri Lanka has been postponed. The two sides were scheduled to take on each other in the UAE. The reason for the series...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-sri-lanka-multi-format-series-postponed-amid-west-asia-tensions-2026-03-11-1033353",
+    "time": "2026-03-11T05:14:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Suryavanshi meets Ravindra Jadeja in Rajasthan Royals' camp ahead of IPL 2026",
     "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The 10 franchises will look to give it their all in hopes of getting their hands on the marquee title. Ahead...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-brushes-aside-kirti-azad-s-criticism-over-temple-visit-with-t20-world-cup-trophy-2026-03-10-1033307",
     "time": "2026-03-10T16:12:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya joins MS Dhoni, behind Rohit Sharma in major record list after India's T20 World Cup triumph",
-    "desc": "India all-rounder Hardik Pandya has won nine T20 trophies so far in his career. Out of which, he won four with Mumbai Indians, one with Gujarat Titans, two T20 World Cups and two Asia Cup...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-joins-ms-dhoni-behind-rohit-sharma-in-major-record-list-after-india-s-t20-world-cup-triumph-2026-03-10-1033305",
-    "time": "2026-03-10T15:38:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rinku Singh pens emotional letter for father after India's T20 World Cup triumph",
-    "desc": "After India’s T20 World Cup 2026 win, Rinku Singh penned a heartfelt message for his father, Khanchand Singh, who passed away before India’s Super Eights clash against the West Indies on March 1. He was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-pens-emotional-letter-for-father-after-india-s-t20-world-cup-triumph-2026-03-10-1033302",
-    "time": "2026-03-10T14:42:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA says 2026 World Cup 'too big' to postpone despite West Asia tensions; Monitoring situation",
-    "desc": "Uncertainty surrounding the geopolitical climate in West Asia has raised questions about global sporting events scheduled in the near future, including the FIFA World Cup 2026. Despite the tensions linked to the ongoing conflict involving...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-says-2026-world-cup-too-big-to-postpone-despite-west-asia-tensions-monitoring-situation-2026-03-10-1033295",
-    "time": "2026-03-10T13:29:09.000Z"
   }
 ];
