@@ -1,7 +1,34 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Pakistan aim for good showing with the bat in the first innings",
+    "title": "How much prize money did India win after T20 World Cup 2026 triumph? ICC reveals",
+    "desc": "The International Cricket Council (ICC) has confirmed the final distribution of the prize money among 20 teams after the successful conclusion of the T20 World Cup 2026. India defeated New Zealand in the final of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-much-prize-money-did-india-win-after-t20-world-cup-2026-triumph-icc-reveals-2026-03-11-1033419",
+    "time": "2026-03-11T12:09:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Inko World Cup jeetna hai': Fans troll Pakistan after Bangladesh bowl them out for 114 in 1st ODI",
+    "desc": "After the poor performance in the T20 World Cup, Pakistan made a plethora of changes to their ODI squad for the series against Bangladesh. They dropped players like Babar Azam, Saim Ayub and Fakhar Zaman,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/inko-world-cup-jeetna-hai-fans-troll-pakistan-after-bangladesh-bowl-them-out-for-114-in-1st-odi-2026-03-11-1033409",
+    "time": "2026-03-11T11:23:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sitanshu Kotak opens up on Shivam Dube's bowling prowess and game plan after India's World Cup victory",
+    "desc": "The Indian team was undoubtedly the best in the recently concluded T20 World Cup 2026. Under the leadership of Suryakumar Yadav, India lost just one game and went on to defeat New Zealand in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sitanshu-kotak-opens-up-on-shivam-dube-s-bowling-prowess-and-game-plan-after-india-s-world-cup-victory-2026-03-11-1033394",
+    "time": "2026-03-11T10:08:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh beat Pakistan by 8 wickets to take 1-0 lead in series",
     "desc": "Pakistan and Bangladesh kick off their series by facing off in the 1st ODI of the series. The two sides meet at the Shere Bangla National Stadium in Mirpur. The game began on a positive note...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-suryavanshi-meets-ravindra-jadeja-in-rajasthan-royals-camp-ahead-of-ipl-2026-watch-2026-03-11-1033342",
     "time": "2026-03-11T04:17:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It is absurd': Harbhajan Singh slams Kirti Azad after his comments on India's T20 World Cup title celebration",
-    "desc": "Former India cricketer Kirti Azad has been catching many headlines as of late due to his controversial comments on India’s T20 World Cup victory celebrations. It is worth noting that after India won the T20...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/it-is-absurd-harbhajan-singh-slams-kirti-azad-after-his-comments-on-india-s-t20-world-cup-title-celebration-2026-03-11-1033334",
-    "time": "2026-03-11T03:15:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Santner-Tom Latham to share New Zealand's captaincy duties ahead of South Africa series",
-    "desc": "New Zealand is all set to host South Africa in a five-game T20I series that is slated to begin on March 15. With both sides facing each other across five T20Is, NZC (New Zealand Cricket)...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-santner-tom-latham-to-share-new-zealand-s-captaincy-duties-ahead-of-south-africa-series-2026-03-11-1033332",
-    "time": "2026-03-11T02:43:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "West Indies players set to travel back home on commercial flights amid West Asia tensions",
-    "desc": "After days of being stranded in India, CWI (Cricket West Indies) has finally arranged for the Windies’ players to travel back home through commercial flights. It is interesting to note that the players had been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-players-set-to-travel-back-home-on-commercial-flights-amid-west-asia-tensions-2026-03-11-1033325",
-    "time": "2026-03-11T01:35:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant trains under Yuvraj Singh in Mumbai, bats with slight different technique",
-    "desc": "Lucknow Super Giants captain Rishabh Pant has begun his training ahead of the Indian Premier League (IPL) 2026 campaign, slated to begin on March 28. In a viral video, the southpaw was spotted training under...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-trains-under-yuvraj-singh-in-mumbai-bats-with-slight-different-technique-watch-2026-03-10-1033315",
-    "time": "2026-03-10T18:08:05.000Z"
   }
 ];

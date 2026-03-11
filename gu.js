@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "વર્લ્ડ કપમાં સંજુની હતી બસ એક જ માંગ, ટ્રોફી જીત્યા બાદ સૂર્યાએ ખોલ્યું રહસ્ય",
+    "desc": "સંજુ સેમસનને શરૂઆતમાં T20 વર્લ્ડ કપ 2026માં ટીમમાંથી બહાર રાખવામાં આવ્યો હતો, પરંતુ તેણે કેપ્ટન સૂર્યકુમાર યાદવને કહ્યું કે તે ટીમ માટે જરૂરી બધું કરવા તૈયાર છે. બાદમાં તે ટીમમાં પાછો ફર્યો અને ભારતની ટાઇટલ જીતના અભિયાનમાં મુખ્ય ભૂમિકા ભજવી, પાંચ ઇનિંગ્સમાં 321 રન બનાવ્યા અને પ્લેયર ઓફ ધ ટુર્નામેન્ટ બન્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/sanju-samson-only-one-demand-in-t20-world-cup-surya-revealed-after-winning-trophy-468152 ",
+    "time": "2026-03-11T12:37:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "જો ઈરાન-અમેરિકા સંઘર્ષનો અંત નહીં આવે, તો ગેસ સિલિન્ડર કેટલા મોંઘા થશે? જાણો",
+    "desc": "ઈરાન-ઈઝરાયલ તણાવ અને વૈશ્વિક સપ્લાયમાં આવેલી મુશ્કેલીને કારણે ભારતમાં LPG સિલિન્ડર મોંઘા થઈ ગયા છે. તેલ કંપનીઓએ ઘરેલું સિલિન્ડરના ભાવમાં વધારો કર્યો છે. આ વચ્ચે સરકારે ઉત્પાદન વધારવા અને ગ્રાહકોને પ્રાથમિકતા આપવાનો નિર્દેશ આપ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/iran-us-war-does-not-end-how-much-more-expensive-gas-cylinders-468145 ",
+    "time": "2026-03-11T11:45:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ઘર બેઠા પરિવાર સાથે જુઓ મર્દાની 3, આ OTT પ્લેટફોર્મ પર થશે રિલીઝ",
+    "desc": "રાની મુખર્જીની ફિલ્મ મર્દાની 3 ને સિનેમાઘરો પછી હવે ઓટીટી પ્લેટફોર્મ પર રિલીઝ માટે રેડી છે. મર્દાની 3 ફિલ્મનું ભારતમાં કલેકશન 50 કરોડથી વધારેનું થયું છે. હવે આ ફિલ્મ તમે ઘર બેઠા પરીવાર સાથે માણી શકશો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/mardaani-3-ott-release-date-mardaani-3-on-netflix-468144 ",
+    "time": "2026-03-11T11:41:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "કોઈ મિલ ગયા ફેમ અભિનેત્રીના છૂટાછેડા, 4 વર્ષમાં તૂટ્યું ઘર, ફ્રેન્ડના એક્સ સાથે કર્યા હતા લગ્ન",
+    "desc": "અભિનેત્રી હંસિકા મોટવાણી વિશે મોટા સમાચાર સામે આવ્યા છે. તેણીએ તેના પતિ સાથે છૂટાછેડા લીધા છે. ઘણા સમયથી તેમના લગ્નજીવનમાં તિરાડ પડી હોવાની અફવાઓ ફેલાઈ રહી હતી. હવે આના પર મહાર લાગી ગઈ છે. મુંબઈની બાંદ્રા કોર્ટે હંસિકા અને તેના પતિ વચ્ચે છૂટાછેડાને અંતિમ સ્વરૂપ આપ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/actress-hansika-motwani-gets-divorced-with-sohail-kathuria-468130 ",
+    "time": "2026-03-11T10:46:59.000Z"
+  },
+  {
     "cat": "World",
     "title": "ગેસની અછત વચ્ચે ભારતને મદદ કરવા માટે આગળ આવ્યો આ દેશ, ઉર્જા જરૂરિયાતોને પહોંચી વળવા કરી મોટી ઓફર, જાણો",
     "desc": "ભારત વાર્ષિક આશરે 31.3 મિલિયન ટન LPG વાપરે છે, જેમાંથી 87 ટકા સ્થાનિક સ્તરે વપરાય છે. બાકીની 13 ટકા LPG વાણિજ્યિક ક્ષેત્રમાં વપરાય છે, જેમ કે હોટલ અને રેસ્ટોરન્ટ. દેશની LPG જરૂરિયાતોનો 62 ટકા આયાત દ્વારા પૂર્ણ થાય છે.",
@@ -324,15 +360,6 @@ const newsData_gu = [
     "time": "2026-03-09T09:13:26.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "બે દિવસ પહેલા બહેનનું નિધન, શોકમાં હતો પરિવાર, દીકરાએ જીતાડ્યો દેશને વર્લ્ડ કપ",
-    "desc": "ભારતીય ટીમે ન્યૂઝીલેન્ડને 96 રનથી હરાવીને T20 વર્લ્ડ કપ જીત્યો છે. ઇશાન કિશને ભારતીય ટીમની જીતમાં મુખ્ય ભૂમિકા ભજવી હતી. તેણે ટાઇટલ મેચમાં અડધી સદી ફટકારી હતી. આ મેચના બે દિવસ પહેલા પિતરાઇ બહેનનું નિધન થયું હતું છતાં ઇશાને પોતાના દેશ પ્રત્યેની પોતાની ફરજને પ્રથમ રાખી દેશને વર્લ્ડ કપ જીતાડવામાં મુખ્ય ભૂમિકા ભજવી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ishan-kishan-emotional-reveal-cousin-sister-death-just-before-world-cup-final-467803 ",
-    "time": "2026-03-09T08:22:11.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ગણતરીની પળોમાં 13 લાખ કરોડ સ્વાહા, શેર બજારમાં આવી ગયો છે તબાહીનો દોર, 10% તૂટશે માર્કેટ!",
     "desc": "નવા અઠવાડિયાના પહેલા જ કારોબારી દિવસે આજે શેર બજારમાં ભારે કડાકાનો માહોલ જોવા મળ્યો છે. ગણતરીની મિનિટોમાં રોકાણકારોના 13 લાખ કરોડ જેટલી મૂડીનું ધોવાણ થઈ ગયું છે. એક્સપર્ટ શું ચેતવણી આપે છે તે પણ જાણો.",
@@ -340,15 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/stock-market-crashed-as-soon-as-it-opened-know-what-expert-warns-iran-israel-war-effect-467785 ",
     "time": "2026-03-09T05:37:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;મમ્મી ઘરે ચાલો, સરપ્રાઈઝ આપવી છે&amp;#039;.... રૂમમાં મળ્યો લોહીથી લથપથ પુત્રીનો મૃતદેહ, પુત્રની ખતરનાક કરતૂત",
-    "desc": "મુરાદાબાદના બુદ્ધિ વિહાર કોલોનીમાં યુટ્યુબર ભાઈએ પોતાની બહેનની હત્યા કરી. બ્રેકઅપ બાદ ડિપ્રેશન અને ગુસ્સામાં પાગલ થયેલા આરોપીએ પોતાની માતાને પણ મોતને ઘાટ ઉતારવાનો પ્રયાસ કર્યો. આ ઘટના સામે આવતા તે વિસ્તારમાં હડકંપ મચી ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/brother-stabs-twin-sister-40-times-in-moradabad-and-attacks-mother-over-failed-love-affair-467780 ",
-    "time": "2026-03-09T04:59:14.000Z"
   },
   {
     "cat": "Business",
@@ -432,15 +450,6 @@ const newsData_gu = [
     "time": "2026-03-08T02:42:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Gold-Silver Weekly Rate Explainer: યુદ્ધના માહોલમાં પણ સોના-ચાંદી સસ્તા થયા, ભાવમાં ઝાઝો ઉતાર-ચડાવ નહીં? ખાસ જાણો કારણો",
-    "desc": "એક અઠવાડિયાથી ઈરાન અને ઈઝરાયેલ વચ્ચે ભયાનક યુદ્ધ ચાલી રહ્યુ છે. જેમાં ખાડીના અનેક દેશો પણ ઝપેટમાં આવેલા છે. સામાન્ય રીતે યુદ્ધની સ્થિતિમાં ભાવ વધે પરંતુ અઠવાડિયાની સોના અને ચાંદીની મૂવમેન્ટ જોઈએ તો રેટમાં બહુ ઝાઝો ફરક જોવા મળ્યો નથી. તો આ પાછળ શું કારણ હોઈ શકે? ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-silver-weekly-rate-explainer-no-sharp-fluctuations-in-prices-in-the-midst-of-war-why-467579 ",
-    "time": "2026-03-08T02:30:02.000Z"
-  },
-  {
     "cat": "World",
     "title": "કોણ બનશે ઈરાનના નવા સુપ્રીમ લીડર? ખામૈનેઈના ચારેય પુત્રો જીવિત, જાણો રેસમાં કોણ આગળ",
     "desc": "ઈઝરાયેલ અને અમેરિકાએ ઈરાન પર ભીષણ હુમલાઓ કરીને ચારેબાજુ તબાહી મચાવી દીધી. ઈરાનના સુપ્રીમ લીડર અયાતોલ્લા અલી ખામૈનેઈ પણ માર્યા ગયા. ત્યારે હવે સવાલ એ છે કે નવા સુપ્રીમ લીડર કોણ? ખામેનેઈના ચાર પુત્રો સુરક્ષિત હોવાનું સામે આવ્યું છે. કોણ રેસમાં સૌથી આગળ...તમામ વિગતો જાણો.",
@@ -502,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/blue-sparrow-missile-know-about-it-which-used-to-target-ayatollah-ali-khamenei-467434 ",
     "time": "2026-03-06T13:51:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈઝરાયેલ સાથે મુસ્લિમ દેશ ઈરાનના હતા ગાઢ સંબંધો, તો એકબીજાના કટ્ટર દુશ્મન કેવી રીતે બન્યા?",
-    "desc": "જે ઈરાન અને ઈઝરાયેલ આજે એકબીજાના લોહી તરસ્યા બનેલા છે તેઓ એક સમયે પાક્કા મિત્ર હતા અને શું તમને ખબર છે કે ઈઝરાયેલ બન્યું ત્યારબાદ મુસ્લિમ દેશ જ ઈરાન સાથે ઈઝરાયેલને સારા સંબંધો હતા.. તો પછી એવું તે શું થયું કે તેઓ કટ્ટર દુશ્મન બની ગયા? ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/how-iran-and-israel-became-allies-to-archenemies-explainer-467421 ",
-    "time": "2026-03-06T10:30:03.000Z"
   },
   {
     "cat": "Tech",
@@ -592,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/arya-will-be-successful-in-convincing-gopal-but-anu-will-refuse-to-marry-him-because-of-this-know-this-466743 ",
     "time": "2026-03-01T12:44:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "વિવાદ વચ્ચે રિલીઝ થઈ કેરેલા સ્ટોરી 2, પહેલા દિવસે કેટલી થઈ કમાણી અને પબ્લિકને કેવી લાગી ફિલ્મ ?",
-    "desc": "કોર્ટ કેસ અને વિવાદો વચ્ચે કેરલા સ્ટોરી 2 ફિલ્મ રિલીઝ થઈ ચુકી છે. પહેલા દિવસના અંતે ફિલ્મનું ઓપનિંગ કલેકશન કેટલું રહ્યું અને ફિલ્મ લોકોને કેવી લાગી તેનો રીવ્યુ પણ આવી ગયો છે. તો ચાલો તમને પણ જણાવી દઈએ કેરલા સ્ટોરી 2 અંગેની લેટેસ્ટ માહિતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/kerala-story-2-released-after-controversies-here-is-public-review-and-day-1-box-office-collection-466528 ",
-    "time": "2026-02-28T06:47:05.000Z"
   },
   {
     "cat": "Tech",
