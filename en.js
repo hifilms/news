@@ -1,6 +1,33 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Masaba calls parents Neena and Viv Richards ‘so damn cool’",
+    "desc": "Masaba Gupta recently gave fans a glimpse of why she believes her parents — actor Neena Gupta and cricket legend Vivian Richards — are effortlessly cool. The designer-actor shared a video of her father reminiscing about his cricketing days, and joked that she still can’t keep up with the energy of her parents.",
+    "img": "https://static.toiimg.com/photo/msid-129479115,imgsize-71300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/masaba-gupta-calls-parents-neena-gupta-and-vivian-richards-so-damn-cool-after-cricket-legends-new-role-as-commonwealth-envoy/articleshow/129479115.cms",
+    "time": "2026-03-11T20:25:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gunmen abduct 20 Naga people from three vehicles in Manipur",
+    "desc": "Naga men, women, and children were abducted by suspected militants along Manipur's Ukhrul-Imphal Road, potentially escalating ethnic tensions. A Naga organization blamed Kuki militants, demanding their immediate release. The Manipur Chief Minister appealed for the unconditional release of all civilians and urged stakeholders to maintain peace.",
+    "img": "https://static.toiimg.com/photo/msid-129479106,imgsize-798877.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/gunmen-abduct-20-naga-people-from-three-vehicles-in-manipur/articleshow/129479071.cms",
+    "time": "2026-03-11T20:15:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ElonTrades’s Dubai rant goes viral: Why crypto trader says he was asked to get license to post online in the UAE emirate",
+    "desc": "A crypto trader's viral tweet about needing a social media permit in Dubai has ignited debate. While framed as bureaucracy, experts clarify that the new UAE regulations target promotional content and influencer marketing, aiming for transparency and professionalisation. This reflects a global trend of governments regulating the burgeoning digital advertising landscape.",
+    "img": "https://static.toiimg.com/photo/msid-129478848,imgsize-30316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/elontradess-dubai-rant-goes-viral-amid-iran-vs-us-israel-war-why-crypto-trader-says-he-was-asked-to-get-license-to-post-online-in-the-uae-emirate/articleshow/129476878.cms",
+    "time": "2026-03-11T20:04:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Flipperachi cancels India performance amid Middle East tensions",
     "desc": "Flipperachi, the Bahraini rapper who gained popularity in India after his track FA9LA featured in the spy thriller Dhurandhar, will no longer be performing at the upcoming UN40 Music & Beyond Festival in India due to the ongoing situation in the Middle East.",
     "img": "https://static.toiimg.com/photo/msid-129475405,imgsize-62092.cms",
@@ -43,6 +70,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/shwetha-menon-gets-relief-as-kerala-high-court-quashes-obscene-content-case-says-complaint-aimed-at-harming-her-reputation/articleshow/129474220.cms",
     "time": "2026-03-11T17:52:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Man aims gun at ex-J&amp;K CM, pinned down in time",
+    "desc": "A man opened fire at the cavalcade of former Jammu and Kashmir chief minister Farooq Abdullah and Deputy CM Surinder Choudhary. Both leaders escaped unhurt as security personnel deflected the shot and apprehended the assailant. The accused, reportedly under the influence of alcohol, is being interrogated.",
+    "img": "https://static.toiimg.com/photo/msid-129475875,imgsize-908058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/firing-at-event-with-ex-jk-cm-farooq-abdullah-present-1-arrested/articleshow/129473771.cms",
+    "time": "2026-03-11T17:37:19.000Z"
   },
   {
     "cat": "Politics",
@@ -162,15 +198,6 @@ const newsData_en = [
     "time": "2026-03-11T15:05:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Despite hurdles by YSRCP, development will not stop, asserts HRD Minister Lokesh",
-    "desc": "Referring to a social media post stating that a PIL has been filed in the High Court challenging land allotment for Google in Vizag, the Minister questions why YSRCP president Jagan Mohan Reddy harbours hatred for Andhra Pradesh’s youth and development",
-    "img": "https://th-i.thgim.com/public/incoming/z82bvd/article70731759.ece/alternates/LANDSCAPE_1200/Central-libraryGKVFK9B40.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/despite-hurdles-by-ysrcp-development-will-not-stop-asserts-hrd-minister-lokesh/article70731472.ece",
-    "time": "2026-03-11T14:41:43.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Tisca Chopra mourns mother Pammi Arora’s demise",
     "desc": "Actress Tisca Chopra is mourning the passing of her mother, Pammi Arora. Arora, a beloved teacher, passed away on March 7. Chopra shared a heartfelt tribute, highlighting her mother's 'Mitti Pao' philosophy of letting go of troubles. She remembered her mother's kindness, humor, and creative spirit. Arora's influence on Chopra's life and career was significant.",
@@ -270,15 +297,6 @@ const newsData_en = [
     "time": "2026-03-11T13:35:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Ustaad' actress Kavya Kalyanram to marry THIS legendary star's son",
-    "desc": "Actress Kavya Kalyanram is reportedly set to marry singer and composer Kaala Bhairava. Reports suggest their families have approved the union. Kavya Kalyanram is known for her roles in 'Masooda' and 'Balagam'. Kaala Bhairava is the son of M. M. Keeravani and contributed to the Oscar-winning song 'Naatu Naatu'. An official announcement is anticipated soon.",
-    "img": "https://static.toiimg.com/photo/msid-129463886,imgsize-35558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/after-rashmika-mandanna-ustaad-actress-kavya-kalyanram-to-marry-soon-reports/articleshow/129463886.cms",
-    "time": "2026-03-11T13:17:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Hilarious! Barcelona fan lands at wrong St James Park, misses UCL clash",
     "desc": "A Barcelona fan accidentally travelled nearly 600 km to Exeter instead of Newcastle after searching “St James Park” on his phone while trying to watch Barcelona’s Champions League match. He ended up watching Exeter City lose 1-0 to Lincoln instead. A club official said, “One of our volunteers… turned up expecting to see FC Barcelona.” Staff gave him a ticket anyway.",
@@ -295,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-features-again-on-hurun-global-rich-list-with-a-net-worth-of-rs-10800-crore-along-with-taylor-swift-rihanna-jay-z/articleshow/129463625.cms",
     "time": "2026-03-11T13:12:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi prepares for a citywide celebration of running and fitness with Times Internet Delhi Half Marathon",
-    "desc": "On March 29, 2026, thousands of runners will gather in the heart of the capital as the city hosts one of its most anticipated community fitness events, the Times Internet Delhi Half Marathon. The race will begin at the iconic Major Dhyan Chand National Stadium in New Delhi, transforming the city’s streets into a course of energy, determination, and celebration of fitness.",
-    "img": "https://static.toiimg.com/photo/msid-129463050,imgsize-669616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-prepares-for-a-citywide-celebration-of-running-and-fitness-with-times-internet-delhi-half-marathon/articleshow/129462908.cms",
-    "time": "2026-03-11T12:56:23.000Z"
   },
   {
     "cat": "Sports",
@@ -324,15 +333,6 @@ const newsData_en = [
     "time": "2026-03-11T12:36:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "IRCTC directs station kitchens to use microwave, induction; PM Modi assures help for Indians stranded in Gulf &amp; more",
-    "desc": "Indian Railways is shifting food outlets to microwaves and induction stoves. This change follows LNG supply cuts due to the Middle East conflict. Prime Minister Narendra Modi has pledged full support for Indians stranded in the Gulf. Reports also indicate Iran's potential acquisition of a Chinese missile. India has purchased Russian crude oil following a US waiver.",
-    "img": "https://static.toiimg.com/photo/msid-129461564,imgsize-1366429.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-irctc-directs-station-kitchens-to-use-microwave-induction-pm-modi-assures-help-for-indians-stranded-in-gulf-more/articleshow/129460302.cms",
-    "time": "2026-03-11T12:25:45.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Gill can’t get T20I captaincy': Ex-India cricketer makes shocking remark",
     "desc": "After India’s third T20 World Cup win under Suryakumar Yadav, former opener Aakash Chopra said Shubman Gill is unlikely to return to the T20I side or become captain. Despite leading India in Tests and ODIs, Gill’s poor T20I form saw him miss the World Cup. Chopra advised him to focus on longer formats, while Sanju Samson and Ishan Kishan excelled.",
@@ -340,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-cant-get-t20i-captaincy-former-india-cricketer-makes-shocking-remark/articleshow/129460097.cms",
     "time": "2026-03-11T12:07:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Arvind Kejriwal appeals to Delhi high court Chief Justice to transfer excise policy case to 'impartial' bench",
-    "desc": "Arvind Kejriwal and other accused in the excise policy case have requested the Delhi High Court Chief Justice to transfer their criminal revision petition from Justice Swarna Kanta Sharma's bench. They allege bias and express concerns over the bench's prima facie view and interim directions without hearing all parties.",
-    "img": "https://static.toiimg.com/photo/msid-129460545,imgsize-841145.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/arvind-kejriwal-appeals-to-delhi-high-court-chief-justice-to-transfer-excise-policy-case-to-impartial-bench/articleshow/129460381.cms",
-    "time": "2026-03-11T12:07:12.000Z"
   },
   {
     "cat": "Entertainment",
@@ -376,24 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pak-vs-ban-after-t20-world-cup-debacle-pakistan-crumble-like-a-pack-of-cards-against-bangladesh/articleshow/129456512.cms",
     "time": "2026-03-11T11:04:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AI Express flight from Hyd makes a hard landing at Phuket, gets stuck on runway; all safe",
-    "desc": "An Air India Express Boeing 737 MAX experienced a hard landing in Phuket, with its nose wheels detaching upon the second touchdown. The aircraft, carrying 138 people, made a bounce after the initial impact. Fortunately, no injuries were reported, and the Directorate General of Civil Aviation is investigating the incident.",
-    "img": "https://static.toiimg.com/photo/msid-129457147,imgsize-796943.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ai-express-flight-from-hyd-makes-a-hard-landing-at-phuket-gets-stuck-on-runway-all-safe/articleshow/129457161.cms",
-    "time": "2026-03-11T11:02:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "INDIA bloc MPs back TMC's motion to remove CEC Gyanesh Kumar; notice likely in Parliament soon",
-    "desc": "Opposition parties, led by the Trinamool Congress, are planning an impeachment motion against the Chief Election Commissioner over alleged irregularities in West Bengal's electoral roll revision. Citing concerns over a large number of voters under scrutiny, parties like Congress and Samajwadi Party have voiced support.",
-    "img": "https://static.toiimg.com/photo/msid-129456179,imgsize-111146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/a-welcome-step-opposition-backs-tmcs-move-to-bring-impeachment-motion-against-cec-gyanesh-kumar/articleshow/129455884.cms",
-    "time": "2026-03-11T10:51:57.000Z"
   },
   {
     "cat": "Sports",
@@ -441,33 +414,6 @@ const newsData_en = [
     "time": "2026-03-11T10:18:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "What makes Census 2027 different",
-    "desc": "India gears up for Census 2027, a comprehensive, paper-free digital headcount after a decade-long delay. This exercise will include caste enumeration for the first time since 1931 and will be crucial for Lok Sabha delimitation, potentially impacting women's reservation. The digital approach aims for efficiency and transparency.",
-    "img": "https://static.toiimg.com/photo/msid-129454157,imgsize-1813004.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-prepares-for-its-biggest-headcount-what-makes-census-2027-different/articleshow/129453145.cms",
-    "time": "2026-03-11T10:15:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Aravallis lost 13.8% soil per year during 2017-2024: Study",
-    "desc": "Despite increased forest cover in the Aravallis, built-up areas have surged 53%, leading to a 13.8% rise in annual soil loss. Researchers found that massive land conversion, particularly of rangelands and croplands, overwhelms local conservation efforts like afforestation. This trend, linked to human activity and climate change, threatens the delicate balance of this ancient mountain range.",
-    "img": "https://static.toiimg.com/photo/msid-129454289,imgsize-80778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/aravallis-lost-13-8-soil-per-year-during-2017-2024-study/articleshow/129454253.cms",
-    "time": "2026-03-11T10:08:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indian students in Iran begin arranging exit amid safety concerns; first batch set to depart for Armenia border",
-    "desc": "Indian students in Iran are arranging to leave due to escalating conflict fears. Evacuation routes via Armenia and Azerbaijan are being offered, with some opting for commercial flights back home. Concerns are high across multiple universities, prompting student associations and political representatives to coordinate safe passage efforts for departing batches.",
-    "img": "https://static.toiimg.com/photo/msid-129453777,imgsize-578452.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-students-in-iran-begin-arranging-exit-amid-safety-concerns-first-batch-set-to-depart-for-armenia-border/articleshow/129453259.cms",
-    "time": "2026-03-11T10:00:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why Shivam Dube had to travel by train after India's T20 World Cup glory",
     "desc": "After India’s 2026 T20 World Cup win, Shivam Dube couldn’t find flights from Ahmedabad to Mumbai, so he travelled by train with his wife and a friend in 3rd AC. To avoid being recognised, he wore a cap and mask and boarded early morning. A ticket checker almost exposed him, but his wife quickly dismissed the suspicion, and the journey stayed smooth.",
@@ -504,15 +450,6 @@ const newsData_en = [
     "time": "2026-03-11T09:27:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "How India’s population count will be conducted in two phases",
-    "desc": "Census 2027 will be conducted in two phases, starting with Houselisting and Housing Census from April to September 2026, followed by Population Enumeration in February 2027. This digital exercise will involve house-to-house visits and an option for online self-enumeration to ensure comprehensive data collection.",
-    "img": "https://static.toiimg.com/photo/msid-129451850,imgsize-1577591.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/census-2027-how-indias-population-count-will-be-conducted-in-two-phases/articleshow/129450890.cms",
-    "time": "2026-03-11T09:24:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Meet Geeta Gandbhir, the director with two separate Oscar-nominated films",
     "desc": "Geeta Gandbhir, the Indian-origin American filmmaker is waves at this year’s Oscars with not one, but two nominations. Her documentaries, ‘The Perfect Neighbor’ and ‘The Devil is Busy’ are in the race for the Academy Award",
@@ -547,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/even-if-you-want-to-laugh-gautam-gambhir-explains-his-serious-dugout-look-after-dhonis-viral-comment/articleshow/129449368.cms",
     "time": "2026-03-11T08:39:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Domestic LPG price hiked by ₹60 amid West Asia conflict",
-    "desc": "Non-subsidised LPG, the one that common household users other than the Ujjwala beneficiaries use in their kitchens, will now cost ₹913 per 14.2 kg cylinder in Delhi, according to the Indian Oil Corporation (IOC) website; the price increase is effective from March 7",
-    "img": "https://th-i.thgim.com/public/incoming/t9o1lk/article70714547.ece/alternates/LANDSCAPE_1200/PTI03_06_2026_000179B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/domestic-lpg-price-hiked-by-60-amid-west-asia-conflict/article70714546.ece",
-    "time": "2026-03-11T08:27:37.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +826,77 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/amplifying-womens-voices-through-movies/article70670910.ece",
     "time": "2026-03-08T03:13:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Porting hospitalisation policy; if this, then that",
+    "desc": "Starting porting process 45 days before renewal date is a requirement from the insurers’ side; you have to start research earlier; renew old policy if needed, don’t cancel it till you get the new policy",
+    "img": "https://th-i.thgim.com/public/incoming/kj4k24/article70718018.ece/alternates/LANDSCAPE_1200/Moneywise.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/porting-hospitalisation-policy-if-this-then-that/article70718020.ece",
+    "time": "2026-03-08T02:50:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why does the Strait of Hormuz’s closure matter?",
+    "desc": "Where is the Strait of Hormuz and what is its significance? Why have tensions in West Asia affected this passage? What does Iran have to do with the near-complete closure of the strait? How does the situation affect India and what is the government doing about it?",
+    "img": "https://th-i.thgim.com/public/incoming/iffkoj/article70717008.ece/alternates/LANDSCAPE_1200/2026-03-07T044529Z_1004479925_RC20XJAXEVAA_RTRMADP_3_IRAN-CRISIS-ENERGY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/why-does-the-strait-of-hormuzs-closure-matter/article70717010.ece",
+    "time": "2026-03-08T02:00:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Iran not Indian corporates’ top priorities days ahead of attack",
+    "desc": "In the research report which summarised the speeches of top executives of the participant companies, Iran was mentioned only once and was not part of the 100 most used words of over 7000 words that were analysed",
+    "img": "https://th-i.thgim.com/public/incoming/ud10ix/article70716988.ece/alternates/LANDSCAPE_1200/2026-03-07T102203Z_2007954185_RC2MZJA85VKO_RTRMADP_3_IRAN-CRISIS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/iran-not-indian-corporates-top-priorities-days-ahead-of-attack/article70715571.ece",
+    "time": "2026-03-07T19:31:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government announces standards of green ammonia, green methanol",
+    "desc": "The mission was approved by the Union Cabinet on January 4, 2023, with an initial outlay of ₹19,744 crore to make India a global hub for production, utilisation and export of green hydrogen and its derivatives",
+    "img": "https://th-i.thgim.com/public/news/national/855wvk/article70716775.ece/alternates/LANDSCAPE_1200/iStock-1414841794.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/government-announces-standards-of-green-ammonia-green-methanol/article70716720.ece",
+    "time": "2026-03-07T16:29:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Hello Bachhon’ series review: Viineet Kumar Siingh’s earnesty gets diffused in TVF’s factory-made snoozefest",
+    "desc": "With a simplistic understanding of the world that extends even to its laid-back aesthetics, the show ends up feeling more like a mouthpiece of Physics Wallah, as it merely registers the journey of the ed-tech giant from a broad perspective",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/xmox3e/article70711018.ece/alternates/LANDSCAPE_1200/Vineet.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/hello-bachhon-series-review-viineet-kumar-siinghs-earnesty-gets-diffused-in-tvfs-factory-made-snoozefest/article70711007.ece",
+    "time": "2026-03-06T10:14:56.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "U.S. House committee wants travel companies to answer questions on use of AI for pricing",
+    "desc": "Surveillance pricing is a strategy ‌where ⁠companies use a consumer’s personal data — such as browsing history, location and ⁠shopping habits — to set individualised, algorithmic prices for products, as opposed to using standard, market-wide pricing",
+    "img": "https://th-i.thgim.com/public/incoming/yvik1f/article70710052.ece/alternates/LANDSCAPE_1200/2026-03-05T015719Z_1080327958_RC2XXJAV6C3Z_RTRMADP_3_CHILE-MOBILE-PHONES-SCHOOLS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/us-house-committee-wants-travel-companies-to-answer-questions-on-use-of-ai-for-pricing/article70710041.ece",
+    "time": "2026-03-06T06:03:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Thavil artiste Amirthavarshini: Performing with A.R. Rahman was a wonderful experience",
+    "desc": "From playing the thavil in the temples of Mannargudi near Thanjavur as a schoolgirl to joining A.R. Rahman’s ‘Wonderment Tour’ concert in Chennai recently, Amirthavarshini Manishankar’s musical journey seems like a fairy tale. But in reality, it is also a story of conviction and perseverance — of a young girl carving a space for herself as a thavil artiste in the male‑dominated world of Carnatic percussion.",
+    "img": "https://th-i.thgim.com/public/incoming/42r6ll/article70706717.ece/alternates/LANDSCAPE_1200/amirthavarshini.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-thavil-artiste-amirthavarshini-performing-with-ar-rahman-was-a-wonderful-experience/article70706716.ece",
+    "time": "2026-03-05T09:37:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Lanterns’ teaser: Kyle Chandler and Aaron Pierre’s tense partnership to steer upcoming DC series",
+    "desc": "HBO has unveiled the first teaser for Lanterns, offering a glimpse of Kyle Chandler’s veteran Hal Jordan and Aaron Pierre’s rookie John Stewart as the two Green Lanterns investigate a mysterious murder on Earth while clashing over authority and experience",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/2rggar/article70706164.ece/alternates/LANDSCAPE_1200/MV5BMWM1Mzk0MTgtNGNlNC00MDZiLWIyMDQtZDgxY2Y5NTlmMWQzXkEyXkFqcGc._V1_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/lanterns-teaser-kyle-chandler-and-aaron-pierres-tense-partnership-to-steer-upcoming-dc-series/article70706165.ece",
+    "time": "2026-03-05T06:05:56.000Z"
   }
 ];
