@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "આજે ફરી સસ્તા થયા સોના-ચાંદી, ઓલટાઈમ હાઈથી સોનું 18000 અને ચાંદી 1.49 લાખ સસ્તા, જાણો લેટેસ્ટ રેટ",
+    "desc": "મિડલ ઈસ્ટમાં ઈઝરાયેલ અને અમેરિકાના ઈરાન પર હુમલા બાદ યુદ્ધ છેડાયેલું છે. ખાડીના અનેક દેશો યુદ્ધની જ્વાળામાં લપેટાયા છે. હોર્મુઝ જળમાર્ગ અવરોધાતા ઘણા દેશોમાં ઓઈલ અને ગેસ સંકટ પણ ઊભુ થયું છે. આ બધા વચ્ચે સોના અને ચાંદીમાં ઉલ્ટી સ્થિતિ જોવા રહી છે. એટલે કે ભાવ વધવાની જગ્યાએ સતત વધ ઘટ જોવા મળી રહી છે. આજે રિટેલ બજારમાં ભાવ કડાકા સાથે બંધ થયા અને વાયદા બજારમાં પણ ભાવ સતત લાલ નિશાનમાં જોવા મળી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-mcx-latest-and-ibja-closing-rates-middle-east-war-aaj-no-sona-chandi-no-bhav-468162 ",
+    "time": "2026-03-11T13:14:06.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "વર્લ્ડ કપમાં સંજુની હતી બસ એક જ માંગ, ટ્રોફી જીત્યા બાદ સૂર્યાએ ખોલ્યું રહસ્ય",
     "desc": "સંજુ સેમસનને શરૂઆતમાં T20 વર્લ્ડ કપ 2026માં ટીમમાંથી બહાર રાખવામાં આવ્યો હતો, પરંતુ તેણે કેપ્ટન સૂર્યકુમાર યાદવને કહ્યું કે તે ટીમ માટે જરૂરી બધું કરવા તૈયાર છે. બાદમાં તે ટીમમાં પાછો ફર્યો અને ભારતની ટાઇટલ જીતના અભિયાનમાં મુખ્ય ભૂમિકા ભજવી, પાંચ ઇનિંગ્સમાં 321 રન બનાવ્યા અને પ્લેયર ઓફ ધ ટુર્નામેન્ટ બન્યો.",
@@ -351,15 +360,6 @@ const newsData_gu = [
     "time": "2026-03-09T11:23:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘આ છે અસલી સ્ક્રિપ્ટરાઈટર!’ રોહિત શર્માનો જાહેરમાં જય શાહ તરફ ઈશારો, હિટમેનનું રિએક્શન વાયરલ",
-    "desc": "T20 વર્લ્ડ કપ જીત્યા પછી રોહિત શર્માએ મજાકમાં જય શાહને અસલી સ્ક્રિપ્ટ રાઇટર ગણાવ્યા, જેનો એક વીડિયો હવે વાયરલ થઈ રહ્યો છે. ધોની અને રોહિતની હાજરીમાં ભારતે ન્યૂઝીલેન્ડને હરાવીને સતત બીજી વખત અને કુલ ત્રીજી વખત વર્લ્ડ કપ જીતીને ઇતિહાસ રચ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rohit-sharma-points-to-jay-shah-as-real-scriptwriter-video-goes-viral-467804 ",
-    "time": "2026-03-09T09:13:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ગણતરીની પળોમાં 13 લાખ કરોડ સ્વાહા, શેર બજારમાં આવી ગયો છે તબાહીનો દોર, 10% તૂટશે માર્કેટ!",
     "desc": "નવા અઠવાડિયાના પહેલા જ કારોબારી દિવસે આજે શેર બજારમાં ભારે કડાકાનો માહોલ જોવા મળ્યો છે. ગણતરીની મિનિટોમાં રોકાણકારોના 13 લાખ કરોડ જેટલી મૂડીનું ધોવાણ થઈ ગયું છે. એક્સપર્ટ શું ચેતવણી આપે છે તે પણ જાણો.",
@@ -430,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/modi-governments-first-statement-on-petrol-and-diesel-price-hike-this-important-order-given-to-oil-companies-know-467624 ",
     "time": "2026-03-08T06:14:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "મહિલાઓ માટે રોકાણની શાનદાર યોજના, થોડા-થોડા પૈસા બચાવી મળશે મોટો લાભ!",
-    "desc": "મહિલા દિવસ 2026 પર જાણો મહિલાઓ માટે સૌથી શાનદાર બચત યોજનાઓ વિશે. આજે દરેક મહિલાઓએ આર્થિક રૂપથી મજબૂત થવું જરૂરી છે. સુકન્યા યોજના, પીપીએફ, સ્પેશિયલ એફડી અને SIP જેવી શાનદાર સ્કીમમાં થોડા પૈસા લગાવી મોટી કમાણી કરી શકાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/womens-day-2026-best-investment-and-saving-schemes-for-women-467617 ",
-    "time": "2026-03-08T05:11:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -583,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bollywood-stars-list-who-fell-in-love-during-film-and-get-married-after-first-film-together-466744 ",
     "time": "2026-03-01T13:03:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ગોપાલને મનાવવામાં તો સફળ રહેશે આર્ય, પણ અનુ આ કારણે લગ્ન કરવાથી કરશે ઈનકાર, જાણો",
-    "desc": "\"તુમ સે તુમ તક\" સીરિયલમાં, આર્ય ગોપાલને ઈમ્પ્રેસ કરવાનો પ્રયત્ન કરશે. મામલો લગ્ન સુધી પહોંચવાનો છે. જો કે, અનુ પોતે આર્ય સાથે લગ્ન કરવાનો ઇનકાર કરશે. આ દરમિયાન, માનસી અને મીરા અનુ માટે સમસ્યાઓ ઊભી કરવા જઈ રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/arya-will-be-successful-in-convincing-gopal-but-anu-will-refuse-to-marry-him-because-of-this-know-this-466743 ",
-    "time": "2026-03-01T12:44:41.000Z"
   },
   {
     "cat": "Tech",

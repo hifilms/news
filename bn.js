@@ -1,12 +1,39 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "প্রিয়বন্ধুর ঘর ভেঙে বিয়ে, সম্পর্ক টিকল না ৪ বছরও, আইনি বিচ্ছেদ হল হংসিকার",
+    "desc": "ভাঙল রূপকথার সংসার! আইনি বিচ্ছেদ হল অভিনেত্রী হংসিকা মোতওয়ানি ও সোহেল খাতুরিয়ার। পারস্পরিক সম্মতিতে ডিভোর্স মঞ্জুর করল বান্দ্রা ফ্যামিলি কোর্ট। প্রাক্তন স্বামীর থেকে কোনো খোরপোশ নেননি অভিনেত্রী। সব ছবি মুছে ফেলে এবার নতুন জীবনের পথে হংসিকা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/hansika-motwani-sohael-khaturiya-divorce-confirmed-bandra-court_644543.html ",
+    "time": "2026-03-11T14:42:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভারতীয় ১০,০০০ টাকা 'দুবাইতে' কত হবে জানেন...? চমকাবেন শুনলেই 'উত্তর'!",
+    "desc": "একদিকে যখন যুদ্ধের দামামা বাজছে মধ্যপ্রাচ্যে অন্যদিকে বাড়ছে মানুষের উৎকণ্ঠা আর উদ্বেগ। আলোচনায় বারবারই উঠে আসছে যুদ্ধের প্রভাবে বিপর্যস্ত দেশগুলির কথা। ঠিক তাই দুবাইয়ে যুদ্ধের আঁচ পড়তেই নড়ে চড়ে বসছেন ভারতীয়রা। প্রতি বছর বহু ভারতীয় এই ভারতীয় এই স্পটকেই বেড়ানোর ডেস্টিনেশন বানিয়ে থাকলেও অনেকেই কিন্তু জানেন না সেই দেশে ভারতের টাকা মূল্য এই মুহূর্তে কত?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/dubai-2026-03-02df3353a8fbe6bd06ad07f801041a35-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-dubai-uae-dirham-do-you-know-how-much-indian-rupees-10000-will-cost-in-dubai-you-will-be-shocked-to-hear-the-answer-sanj-2580065.html",
+    "time": "2026-03-11T13:44:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "মধ্যপ্রাচ্যে ঘোর সংকট; বাবা ভাঙ্গার মতে ইরান-মার্কিন যুদ্ধই সূচনা করবে তৃতীয় বিশ্বযুদ্ধের",
+    "desc": "শোনা যায়, অন্ধ ভবিষ্যদ্বক্তা বাবা ভাঙ্গা তাঁর স্বপ্নের মধ্যে দর্শন পেতেন। যা ক্রমে তাঁর নামে প্রচলিত ভবিষ্যদ্বাণীগুলোর ভিত্তি হয়ে দাঁড়িয়েছিল। এর মধ্যে খুবই গুরুত্বপূর্ণ হল তাঁর যুদ্ধ-সংক্রান্ত ভবিষ্যদ্বাণী। তিনি বলেছিলেন, যা পূর্ব দিকে শুরু হবে এবং ক্রমে পশ্চিমে ছড়িয়ে পড়বে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/baba-vanga-world-war-3-prediction-bulgarian-mystic-predicted-major-global-conflict-2026_644521.html ",
+    "time": "2026-03-11T13:04:28.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "বেঙ্গালুরু বিমানবন্দরে উদ্ধার রহস্যময় পার্সেল! ভিতরে অশ্লী*ল ছবি, মালা, লোহার কুঁচি, আর... ছড়াল আতঙ্ক",
+    "title": "বেঙ্গালুরু বিমানবন্দরে এল রহস্যময় পার্সেল! ভিতরে অশ্লী*ল ছবি, মালা, লোহার কুঁচি, আর... আতঙ্কে স্থানীয়রা",
     "desc": "বেঙ্গালুরু বিমানবন্দরে উদ্ধার হয়েছে একটি রহস্যময় পার্সেল, যা ঘিরে চাঞ্চল্য ছড়িয়েছে। ওই পার্সেল থেকে উদ্ধার করা হয়েছে এক পুরুষ এবং এক নারীর নগ্ন ছবি, পচা সবজি আর আরও কিছু অদ্ভুত জিনিস। এই পার্সেল নিয়ে কালো জাদুর ভয় ছড়িয়েছে, ঘটনাটি জানাজানি হতেই পুলিশ তদন্ত শুরু করেছে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/bengaluru-2026-03-41c23ea5933338124c131b3bf4bd5a2c-1200x800.jpg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/suspicious-parcel-received-at-bengaluru-airport-with-viral-photos-rotten-items-triggers-black-magic-fears-at-bengaluru-airport-rdp-2580010.html",
-    "time": "2026-03-11T12:50:51.000Z"
+    "time": "2026-03-11T12:53:32.000Z"
   },
   {
     "cat": "Politics",
@@ -324,15 +351,6 @@ const newsData_bn = [
     "time": "2026-03-10T08:40:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SIR শুনানিতে সুপ্রিম তিরস্কার: ক্ষমা চাইলেন মেনকা গুরুস্বামী, কমিশনকেও ৫ কড়া নির্দেশ",
-    "desc": "সুপ্রিম কোর্টে আজ বাংলা এসআইআর মামলার শুনানিতে অন্য মাত্রা পেল মেনকা গুরুস্বামী বনাম নির্বাচন কমিশন। বিচার বিভাগীয় কর্মকর্তাদের উপর মন্তব্য করার জন্য প্রধান বিচারপতির তিরস্কারের মুখে পড়লেন মেনকা গুরুস্বামী। শেষে বিচার বিভাগীয় কর্মকর্তাদের উপর মন্তব্য করার জন্য ক্ষমা চাইলেন। পাশাপাশি, বাংলায় এসআইআর প্রক্রিয়া সম্পূর্ণ করতে ও সাপ্লিমেন্টারি তালিকা প্রকাশের জন্য নির্বাচন কমিশনকে ৫টি নির্দেশ দিল সুপ্রিম কোর্ট।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/bengal-sir-hearing-supreme-court-today-menaka-guruswamy-rebuked-5-orders-to-election-commission_644349.html ",
-    "time": "2026-03-10T07:52:03.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "বক্রেশ্বরে এক 'ঐতিহাসিক' বিয়ের আসরে ফেলুদা! অতিথিদের মাঝে প্রকাশিত 'সুজনে দু'জনে' পত্রিকা",
     "desc": "বিয়ের হাজারও উপহারের মাঝে 'সুজনে দু'জনে' পত্রিকাটি এক কালজয়ী উপহার হিসেবে গণ্য হচ্ছে। এটি কেবল এক দম্পতির মিলন উৎসব নয়, বরং সৃজনশীল মানুষের মিলনমেলায় পরিণত হয়েছিল। পঁচানব্বই সালের সেই বন্ধুত্বের টান আজও যে কতটা অমলিন, বক্রেশ্বরের এই বিয়ের আসর তার এক জীবন্ত দলিল হয়ে রইল।",
@@ -475,15 +493,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/kolkata/west-bengal-news-west-bengal-ruling-party-tmc-took-to-the-field-with-a-report-card-on-tribal-development-after-president-murmus-recent-comment-on-state-government-sanj-2575240.html",
     "time": "2026-03-09T04:47:57.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ট্রাম্প-হুমকি উড়িয়ে ইরানের সর্বোচ্চ নেতা খামেইনিপুত্র মুজতবা, যুদ্ধের মোড় এবার কোনদিকে যাবে?",
-    "desc": "প্রত্যাশিতভাবেই খামেইনিপুত্র মুজতবা-ই ইরানের নতুন প্রধান নেতা হয়েছেন। ইরানের ৮৮ জন ধর্মীয় নেতার একটি দল ভোট দিয়ে তাঁকে এই দায়িত্ব দিয়েছেন। মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প এই নতুন নেতাকে মানতে চান না এবং কঠোর হুঁশিয়ারি দিয়েছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/irans-new-supreme-leader-mojtaba-khamenei_644167.html ",
-    "time": "2026-03-09T04:37:18.000Z"
   },
   {
     "cat": "Sports",
@@ -718,15 +727,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/indian-oil-corp-ltd-india-has-sufficient-fuel-stocks-tweets-indian-oil-corp-ltd-rm-2572547.html",
     "time": "2026-03-06T15:37:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'১০ বছর আগেই আমি ইরানে নিষিদ্ধ, ফিরব কোথায়?' উত্তাল পরিস্থিতির মাঝে ভারত ছাড়ার ঘোষণা মন্দানা করিমির",
-    "desc": "ইরান-ইসরায়েল যুদ্ধ এবং আয়াতুল্লাহ আলি খামেনেই-এর মৃত্যুর পরবর্তী টালমাটাল পরিস্থিতিতে নিজের অবস্থান পরিষ্কার করলেন ইরানি বংশোদ্ভূত বলিউড অভিনেত্রী মন্দানা করিমি। দেশজুড়ে চলা বিক্ষোভ এবং তাঁকে ঘিরে তৈরি হওয়া নানা বিভ্রান্তিকর খবরের প্রতিবাদে সরব হয়েছেন তিনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/mandana-karimi-leave-india-iran-conflict-ayatollah-khamenei-death_643941.html ",
-    "time": "2026-03-06T14:58:58.000Z"
   },
   {
     "cat": "Sports",

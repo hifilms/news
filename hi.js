@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Iran pulls out FIFA World Cup 2026 in US, 'under no circumstances we can participate', says Sports Minister",
+    "desc": "Iran has officially pulled out of the upcoming FIFA World Cup that will be co-hosted by the United States, Canada and Mexico amid war with US and Israel. The country's sports minister Ahmad Donyamali confirmed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/iran-pulls-out-fifa-world-cup-2026-in-us-under-no-circumstances-we-can-participate-says-sports-minister-2026-03-11-1033443",
+    "time": "2026-03-11T15:39:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh tumble records with stunning win over Pakistan in first ODI in Mirpur",
+    "desc": "Bangladesh seemed to have missed the T20 World Cup very badly as they treated a 50-over clash as a T20 game in the first ODI of the three-match series against Pakistan. They skittled the visitors...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ban-vs-pak-bangladesh-tumble-records-with-stunning-win-over-pakistan-in-first-odi-in-mirpur-2026-03-11-1033439",
+    "time": "2026-03-11T14:51:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 schedule announced, RCB to face SRH in opening game at Chinnaswamy Stadium on March 28",
+    "desc": "The Indian Premier League (IPL) schedule for the two weeks of the 2026 edition has been announced as the defending champions, Royal Challengers Bengaluru (RCB), will face the Sunrisers Hyderabad (SRH) in the opening game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-schedule-announced-rcb-to-face-srh-in-opening-game-at-chinnaswamy-stadium-on-march-28-2026-03-11-1033431",
+    "time": "2026-03-11T13:31:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How much prize money did India win after T20 World Cup 2026 triumph? ICC reveals",
     "desc": "The International Cricket Council (ICC) has confirmed the final distribution of the prize money among 20 teams after the successful conclusion of the T20 World Cup 2026. India defeated New Zealand in the final of...",
     "img": "",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/legends-league-cricket-2026-when-and-where-to-watch-marquee-event-live-on-tv-and-online-in-india-2026-03-11-1033368",
     "time": "2026-03-11T06:45:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shivam Dube travels incognito, takes train ride back home to Mumbai after T20 World Cup triumph",
-    "desc": "The Indian team etched their name in history as they lifted their second straight T20 World Cup title and third title overall. The side became the first team in history to defend the T20 World...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shivam-dube-travels-incognito-takes-train-ride-back-home-to-mumbai-after-t20-world-cup-triumph-2026-03-11-1033358",
-    "time": "2026-03-11T05:54:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Afghanistan-Sri Lanka multi-format series postponed amid West Asia tensions",
-    "desc": "With the ongoing West Asia war, the upcoming series between Afghanistan and Sri Lanka has been postponed. The two sides were scheduled to take on each other in the UAE. The reason for the series...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-sri-lanka-multi-format-series-postponed-amid-west-asia-tensions-2026-03-11-1033353",
-    "time": "2026-03-11T05:14:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Suryavanshi meets Ravindra Jadeja in Rajasthan Royals' camp ahead of IPL 2026",
-    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The 10 franchises will look to give it their all in hopes of getting their hands on the marquee title. Ahead...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-suryavanshi-meets-ravindra-jadeja-in-rajasthan-royals-camp-ahead-of-ipl-2026-watch-2026-03-11-1033342",
-    "time": "2026-03-11T04:17:08.000Z"
   }
 ];
