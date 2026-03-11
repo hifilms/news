@@ -1,6 +1,150 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Flipperachi cancels India performance amid Middle East tensions",
+    "desc": "Flipperachi, the Bahraini rapper who gained popularity in India after his track FA9LA featured in the spy thriller Dhurandhar, will no longer be performing at the upcoming UN40 Music & Beyond Festival in India due to the ongoing situation in the Middle East.",
+    "img": "https://static.toiimg.com/photo/msid-129475405,imgsize-62092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/flipperachi-rapper-behind-dhurandhars-viral-track-fa9la-cancels-india-performance-amid-middle-east-tensions/articleshow/129475405.cms",
+    "time": "2026-03-11T18:25:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Amid England’s struggles, Bethell shows he could be the real deal",
+    "desc": "While English cricket endured a tough winter that began with a hammering by Australia in the Ashes and ended with a semifinal loss to India in the T20 World Cup, the 22-year-old sparkled with maiden Test and T20I tons against high-quality opponents in contrasting conditions; the southpaw seems ready to take the next step in his fledgling career",
+    "img": "https://th-i.thgim.com/public/incoming/nvfrl6/article70732549.ece/alternates/LANDSCAPE_1200/11908_5_3_2026_22_54_52_1_DSC_3574.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/amid-englands-strugglesbethellshows-he-could-be-the-real-deal/article70732546.ece",
+    "time": "2026-03-11T18:20:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sales of electric cooktops sizzle as LPG flameout worries families",
+    "desc": "The conflict in West Asia has led to unprecedented demand for the product on e-commerce platforms and retail stores; the prices for induction cooktops have gone up but supplies largely remained available though the inventory is quickly going down",
+    "img": "https://th-i.thgim.com/public/incoming/e4yqc3/article70732556.ece/alternates/LANDSCAPE_1200/PTI03_11_2026_000219B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sales-of-electric-cooktops-sizzle-as-lpg-flameout-worries-families/article70730933.ece",
+    "time": "2026-03-11T18:08:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "A revision of GDP and its implications",
+    "desc": "The revised GDP series with 2022-23 as the base year shows a reduction in the absolute size of GDP and some changes in the production structure of the economy; while the correction in GDP size appears welcome, it remains unclear whether the revision addresses the red flags raised about the 2011-12 series",
+    "img": "https://th-i.thgim.com/public/news/national/9a8anm/article70732444.ece/alternates/LANDSCAPE_1200/iStock-2152570882.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/a-revision-of-gdp-and-its-implications/article70730934.ece",
+    "time": "2026-03-11T17:55:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shwetha Menon gets relief as HC quashes obscene content case",
+    "desc": "Shwetha Menon has received relief from the Kerala High Court after the court quashed criminal proceedings initiated against her over allegations that she acted in obscene films and advertisements for financial gain. Justice C. S. Dias allowed the actress’ petition seeking the quashing of the First Information Report (FIR) and all related criminal proceedings filed against her.",
+    "img": "https://static.toiimg.com/photo/msid-129474220,imgsize-97730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/shwetha-menon-gets-relief-as-kerala-high-court-quashes-obscene-content-case-says-complaint-aimed-at-harming-her-reputation/articleshow/129474220.cms",
+    "time": "2026-03-11T17:52:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parliament likely to take up Bill to codify IPS deputation in CAPFs this session",
+    "desc": "The Bill intends to codify the functioning of the Central Armed Police Forces (CAPFs) and is in response to a May 2025 Supreme Court ruling that asked the Ministry of Home Affairs (MHA) to “progressively reduce” the deputation of IPS officers",
+    "img": "https://th-i.thgim.com/public/news/national/d1f0zf/article70732498.ece/alternates/LANDSCAPE_1200/iStock-1326419416.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/parliament-likely-to-take-up-bill-to-codify-ips-deputation-in-capfs-this-session/article70732194.ece",
+    "time": "2026-03-11T17:29:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "George stuns former world champion Kean Yew at Swiss Open",
+    "desc": "India had mixed results at the Swiss Open as Kiran George stunned former world champion Loh Kean Yew 23-21, 21-19 to reach the next round. Dhruv Kapila and Tanisha Crasto also secured an upset win in mixed doubles. However, Kidambi Srikanth, Ayush Shetty, Tanvi Sharma and Unnati Hooda exited early, while Satwiksairaj Rankireddy and Chirag Shetty advanced.",
+    "img": "https://static.toiimg.com/photo/msid-129473346,imgsize-176076.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/kiran-george-stuns-former-world-champion-loh-kean-yew-at-swiss-open-badminton-tournament/articleshow/129473263.cms",
+    "time": "2026-03-11T17:24:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Our children are not safe': Iran says it cannot play 2026 FIFA World Cup",
+    "desc": "Iran's sports minister declared the nation will not participate in the 2026 FIFA World Cup, citing the US \"assassination\" of their leader and recent \"malicious actions.\" This follows similar sentiments from the Iranian Football Federation president. FIFA's president had previously stated the Iranian team would be welcomed in the US, which is co-hosting the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-129472958,imgsize-44668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/our-children-are-not-safe-iran-says-it-cannot-play-2026-fifa-world-cup/articleshow/129472734.cms",
+    "time": "2026-03-11T17:11:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition in Lok Sabha",
+    "desc": "Congress MP K.C. Venugopal says the Speaker had repeatedly barred Leader of Opposition Rahul Gandhi from speaking in the House; Parliamentary Affairs Minister says he has never witnessed such misbehaviour from MPs in front of a Speaker",
+    "img": "https://th-i.thgim.com/public/incoming/z4pte6/article70732331.ece/alternates/LANDSCAPE_1200/20260311335L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/speaker-forced-to-act-according-to-government-wishes-opposition-in-lok-sabha/article70731432.ece",
+    "time": "2026-03-11T17:06:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court judge distinguishes between active and passive euthanasia",
+    "desc": "The judge characterised active euthanasia as causing death by introducing a new, external agency of harm, such as a lethal injection. Conversely, he explained that passive euthanasia should be understood as allowing death to occur.",
+    "img": "https://th-i.thgim.com/public/news/national/d79xnk/article70732392.ece/alternates/LANDSCAPE_1200/iStock-1207897413.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-judge-distinguishes-between-active-and-passive-euthanasia/article70732031.ece",
+    "time": "2026-03-11T16:51:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "New EPS rules leave out clause on higher pension",
+    "desc": "EPFO board describes as obsolete the clause that provided a maximum of one year to employers and employees to exercise the higher pension option by making contributions above the wage cap of ₹15,000 every month",
+    "img": "https://th-i.thgim.com/public/incoming/wh12jx/article70732103.ece/alternates/LANDSCAPE_1200/20260302280L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/new-eps-rules-leave-out-clause-on-higher-pension/article70731399.ece",
+    "time": "2026-03-11T16:39:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition blames PM Modi’s foreign policy for fuel crisis in rural India",
+    "desc": "CPI(M)’s V. Sivadasan says the PM being a friend of U.S. President Donald Trump has not solved the crisis. AAP leader Sanjay Singh asks where the Prime Minister is hiding when country is standing in queue",
+    "img": "https://th-i.thgim.com/public/incoming/z73lj5/article70732278.ece/alternates/LANDSCAPE_1200/20260311418L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/opposition-blames-pm-modis-foreign-policy-for-fuel-crisis-in-rural-india/article70731784.ece",
+    "time": "2026-03-11T16:22:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kumbh Mela girl Monalisa marries beau Farman Khan in Kerala",
+    "desc": "Monalisa Bhosle, who shot to internet fame during the Kumbh Mela in Prayagraj, has married her boyfriend Farman Khan in Kerala after approaching the police following opposition from her family. The couple tied the knot at the Nainar Temple.",
+    "img": "https://static.toiimg.com/photo/msid-129470603,imgsize-76528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kumbh-mela-girl-monalisa-bhosle-marries-boyfriend-farman-khan-in-kerala-after-seeking-police-help-amid-family-opposition/articleshow/129470603.cms",
+    "time": "2026-03-11T16:15:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran’s new Supreme Leader injured but ‘safe’, officials say",
+    "desc": "The daytime air strike on the first day of the war on February 28 on a compound in Tehran killed his father, former supreme leader Ayatollah Ali Khamenei, as well as his mother and wife",
+    "img": "https://th-i.thgim.com/public/incoming/21fdjo/article70731640.ece/alternates/LANDSCAPE_1200/2026-03-10T145515Z_2005069500_RC2TX8AOWXKC_RTRMADP_3_IRAN-CRISIS-LEADER.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/irans-new-supreme-leader-mojtaba-hurt-in-strike-that-killed-his-father-report/article70731605.ece",
+    "time": "2026-03-11T16:05:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 South stories of the day",
+    "desc": "The South Indian film industry witnessed significant events today. Filmmaker Thakkali Srinivasan passed away. Harish Shankar apologized to Mahesh Babu fans. Parthiban clarified remarks on Vijay and Trisha. Hansika Motwani and Sohael Khaturiya officially divorced. Dinjith Ayyathan met Prabhas, sparking collaboration rumors. These developments kept fans engaged across social media.",
+    "img": "https://static.toiimg.com/photo/msid-129469944,imgsize-263706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/hansika-motwani-sohael-khaturiyas-divorce-thakkali-srinivasans-demise-harish-shankars-apology-to-mahesh-babu-fans-top-5-south-stories-of-the-day/articleshow/129469944.cms",
+    "time": "2026-03-11T15:48:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata holds review meeting on LPG crisis, calls for SOP and rationing of cylinders",
+    "desc": "People were seen crowding the offices of distribution agencies. Many complained that they have run out of LPG and cannot book a refill. Some schools said that they have no LPG to cook mid-day meals",
+    "img": "https://th-i.thgim.com/public/incoming/bf1t3h/article70518600.ece/alternates/LANDSCAPE_1200/20260113404L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/mamata-holds-review-meeting-on-lpg-crisis-calls-for-sop-and-rationing-of-cylinders/article70731780.ece",
+    "time": "2026-03-11T15:46:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "When Akshay spoke about extra-marital relationships: 'If you forgive your partner...'",
     "desc": "Twinkle Khanna's casual take on infidelity sparked online debate, contrasting with her husband Akshay Kumar's earlier views. While promoting 'Rustom', Kumar suggested forgiveness in relationships, especially with children involved, as a sign of strength. The couple, married since 2001, are known for their public affection.",
     "img": "https://static.toiimg.com/photo/msid-129469328,imgsize-26706.cms",
@@ -52,15 +196,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/28-indian-vessels-with-778-seafarers-onboard-stuck-in-persian-gulf-official/article70731599.ece",
     "time": "2026-03-11T14:21:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran's new Supreme Leader Mojtaba hurt in strike that killed his father: report",
-    "desc": "The daytime air strike on the first day of the war on February 28 on a compound in Tehran killed his father, former supreme leader Ayatollah Ali Khamenei, as well as his mother and wife",
-    "img": "https://th-i.thgim.com/public/incoming/21fdjo/article70731640.ece/alternates/LANDSCAPE_1200/2026-03-10T145515Z_2005069500_RC2TX8AOWXKC_RTRMADP_3_IRAN-CRISIS-LEADER.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/irans-new-supreme-leader-mojtaba-hurt-in-strike-that-killed-his-father-report/article70731605.ece",
-    "time": "2026-03-11T14:20:00.000Z"
   },
   {
     "cat": "Sports",
@@ -117,15 +252,6 @@ const newsData_en = [
     "time": "2026-03-11T13:45:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Groundbreaking ceremony for ArcelorMittal/Nippon Steel plant on March 23, says Chief Minister Chandrababu Naidu",
-    "desc": "Company plans to establish a state-of-the-art 17.80 MTPA Integrated Steel Plant in two phases at Rajayyapeta in Anakapalli district, and the first phase will have a production capacity of 8.20 MTPA; it invites Expression of Interest for establishment of a dedicated 1-million-tonne steel fabrication unit",
-    "img": "https://th-i.thgim.com/public/incoming/jmwua3/article70731396.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-11%20at%2011.44.23%20AM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/groundbreaking-ceremony-for-arcelormittalnippon-steel-plant-on-march-23-says-chief-minister-chandrababu-naidu/article70730947.ece",
-    "time": "2026-03-11T13:41:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Priyanka Chopra credits Vijay film for first fame taste",
     "desc": "watching Thalapathy Vijay draw massive crowds while filming 'Thamizhan', her first Tamil movie. The electric atmosphere surrounding Vijay made a lasting impression on the young actress, altering her perception of celebrity even before she delved into the deeper nuances of her craft.",
@@ -142,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/no-confidence-motion-against-lok-sabha-speaker-om-birla-defeated-by-voice-vote-amid-opposition-protest/articleshow/129464444.cms",
     "time": "2026-03-11T13:35:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A.P. CM Naidu proposes Indian School of Agriculture to render AI-based tech services to farmers",
-    "desc": "A 90-day drive for water conservation, including desilting of water bodies, to begin on April 1; special programme to be held on the 9th day of every month in all districts to resolve land disputes",
-    "img": "https://th-i.thgim.com/public/incoming/1124jy/article70731286.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-11%20at%2011.44.23%20AM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-cm-naidu-proposes-indian-school-of-agriculture-to-render-ai-based-tech-services-to-farmers/article70731177.ece",
-    "time": "2026-03-11T13:25:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -187,24 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/delhi-prepares-for-a-citywide-celebration-of-running-and-fitness-with-times-internet-delhi-half-marathon/articleshow/129462908.cms",
     "time": "2026-03-11T12:56:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Neena Gupta urges parents to keep homes; cites painful eviction case",
-    "desc": "Veteran star Neena Gupta has issued a compelling reminder to parents regarding the hasty transfer of property to their offspring. Drawing from a poignant personal story about a friend's heart-wrenching experience of being cut off after a gift of a house, she underscored that parental affection does not always equate to gratitude or care from children.",
-    "img": "https://static.toiimg.com/photo/msid-129462614,imgsize-7936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dont-give-the-house-to-your-kids-when-neena-gupta-recalled-a-heartbreaking-story-of-a-friend-thrown-out-by-children-over-property/articleshow/129462614.cms",
-    "time": "2026-03-11T12:48:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sai and Junaid's chemistry sparks love",
-    "desc": "Aamir Khan-backed romance 'Ek Din', starring Junaid Khan and Sai Pallavi's Bollywood debut, remakes Thai hit One Day. Fans rave over their chemistry, Arijit Singh's vocals, and Japan-set plot of one fateful day. Trailer hype builds for this heartfelt love story.",
-    "img": "https://static.toiimg.com/photo/msid-129462391,imgsize-22376.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ek-din-trailer-buzz-sai-pallavi-and-junaid-khans-chemistry-sparks-love-fans-hype-ramayana-stars-bollywood-debut/articleshow/129462391.cms",
-    "time": "2026-03-11T12:42:01.000Z"
   },
   {
     "cat": "Sports",
@@ -259,24 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gaurav-kapur-kritika-kamra-wedding-farhan-akhtar-zaheer-khan-sagarika-ghatke-virender-sehwag-soha-ali-khan-other-celebs-attend-videos/articleshow/129459837.cms",
     "time": "2026-03-11T12:04:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kashyap says got a heart attack after Netflix shelved 'Maximum City'",
-    "desc": "Filmmaker Anurag Kashyap faced a severe health crisis. His ambitious series 'Maximum City' was cancelled by Netflix. This led to a heart attack and a stint in rehab. Kashyap also suffered a ligament injury during his recovery. He has since moved on and resides in Bengaluru. Kashyap noted a shift in streaming platforms' focus towards subscribers over quality content.",
-    "img": "https://static.toiimg.com/photo/msid-129459140,imgsize-21120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-says-got-a-heart-attack-went-to-rehab-to-stop-drinking-after-netflix-shelved-his-series-maximum-city/articleshow/129459193.cms",
-    "time": "2026-03-11T11:42:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The Kerala Story 2 actress Aditi Bhatia shares BTS moments",
-    "desc": "Aditi Bhatia, TV star turned film debutante in 'The Kerala Story 2', shares fun BTS pics on Instagram—from set chats with Ganesh Acharya and Vipul Shah to dance rehearsals. Her grateful caption thanks the crew. The Feb 2026 release tackles conversion themes, earning Rs 3.5 cr on day 1.",
-    "img": "https://static.toiimg.com/photo/msid-129458964,imgsize-34162.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/grateful-for-the-journey-the-kerala-story-2-actress-aditi-bhatia-shares-heartfelt-post-and-behind-the-scenes-moments/articleshow/129458964.cms",
-    "time": "2026-03-11T11:38:02.000Z"
   },
   {
     "cat": "Business",
@@ -468,15 +549,6 @@ const newsData_en = [
     "time": "2026-03-11T08:39:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sandeep Patil recalls Big B's Coolie accident: 'Jaya Bachchan told me..'",
-    "desc": "Former cricketer Sandeep Patil reveals he was set to share screen space with Amitabh Bachchan in 'Kabhi Ajnabee The' before the star's near-fatal 'Coolie' accident. Patil recounts how Jaya Bachchan informed him of the incident, preventing their planned Bangalore shoot. Bachchan himself later described the traumatic recovery, grappling with his body's drastic change after the life-threatening injury.",
-    "img": "https://static.toiimg.com/photo/msid-129449093,imgsize-44528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jaya-bachchan-told-me-about-amitabh-bachchans-near-fatal-accident-on-coolie-set-former-cricketer-sandeep-patil-reveals-the-actor-was-to-do-a-cameo-in-his-film/articleshow/129449072.cms",
-    "time": "2026-03-11T08:30:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Domestic LPG price hiked by ₹60 amid West Asia conflict",
     "desc": "Non-subsidised LPG, the one that common household users other than the Ujjwala beneficiaries use in their kitchens, will now cost ₹913 per 14.2 kg cylinder in Delhi, according to the Indian Oil Corporation (IOC) website; the price increase is effective from March 7",
@@ -486,15 +558,6 @@ const newsData_en = [
     "time": "2026-03-11T08:27:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Air India Express plane makes hard landing at Phuket airport; pictures show nose-wheel damage",
-    "desc": "An Air India Express flight from Hyderabad to Phuket encountered a nose-wheel issue during landing on Wednesday, causing a rough touchdown and a temporary suspension of airport operations. The Boeing 737 MAX 8 aircraft became stuck on the runway. The airline confirmed the incident, stating the crew followed all protocols and passengers were safely deplaned.",
-    "img": "https://static.toiimg.com/photo/msid-129448754,imgsize-1004080.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/air-india-express-plane-makes-hard-landing-at-phuket-airport-pictures-show-nose-wheel-damage/articleshow/129448215.cms",
-    "time": "2026-03-11T08:27:08.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India buys 30 million barrels of Russian crude after US waiver",
     "desc": "India has secured approximately 30 million barrels of Russian crude following a US waiver, with refiners like Indian Oil and Reliance Industries swiftly acquiring stranded cargoes. This move comes as Middle East disruptions impact traditional oil flows, pushing India to seek alternative supplies. The US clarified the waiver is temporary, aimed at stabilizing global energy markets.",
@@ -502,24 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/iran-war-oil-shock-india-buys-30-million-barrels-of-russian-crude-after-us-waiver/articleshow/129444722.cms",
     "time": "2026-03-11T08:09:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court allows first-ever passive euthanasia; how it differs from active euthanasia",
-    "desc": "India's Supreme Court has permitted passive euthanasia, reigniting the debate on 'letting die' versus 'active killing'. While passive euthanasia involves withdrawing life support, active euthanasia means deliberately ending life. The court's ruling in the Harish Rana case underscores the complex ethical and legal considerations in end-of-life care, balancing life preservation with patient autonomy and suffering.",
-    "img": "https://static.toiimg.com/photo/msid-129447722,imgsize-517159.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/supreme-court-allows-first-ever-passive-euthanasia-how-it-differs-from-active-euthanasia/articleshow/129446238.cms",
-    "time": "2026-03-11T08:02:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC asks to disassociate professors from work paid by public funds",
-    "desc": "The Supreme Court has directed all publicly funded educational institutions to remove Professor Michel Denino and two associates from curriculum and textbook preparation. This decision follows concerns over \"offending\" content in an NCERT Class 8 social science textbook that allegedly misrepresented the Indian judiciary. The court also suggested the Centre form an expert committee for curriculum review.",
-    "img": "https://static.toiimg.com/photo/msid-129445921,imgsize-1180992.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ncert-corruption-chapter-row-sc-asks-to-disassociate-professors-from-work-paid-by-public-funds/articleshow/129444418.cms",
-    "time": "2026-03-11T07:57:16.000Z"
   },
   {
     "cat": "Business",
@@ -585,15 +630,6 @@ const newsData_en = [
     "time": "2026-03-11T06:34:45.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘India too good to think like that’: Gambhir shuts down pitch-tailoring claims",
-    "desc": "India's head coach Gautam Gambhir has strongly refuted claims of 'tailored' pitches favouring the home team, asserting India's strength makes such tactics unnecessary. He highlighted the team's consistent high scores globally, attributing them to player prowess and the T20 format's batting-friendly nature, not manipulated conditions. Gambhir also noted ICC oversight of pitches in global tournaments.",
-    "img": "https://static.toiimg.com/photo/msid-129442261,imgsize-76424.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-too-good-to-think-like-that-gautam-gambhir-shuts-down-pitch-tailoring-claims-after-t20-world-cup/articleshow/129442158.cms",
-    "time": "2026-03-11T06:19:05.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. must pull back instead of tailing Israel",
     "desc": "If Trump and Benjamin Netanyahu continue this war, the global economy will come under even greater stress. Whether they realise their grave miscalculation or not, the way forward is not more bombing. This war must be brought to an end immediately.",
@@ -610,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/travel-disruption-due-to-iran-war-air-india-air-india-express-to-run-58-flights-to-and-from-middle-east/articleshow/129434903.cms",
     "time": "2026-03-11T05:53:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold, silver price prediction today (March 11, 2026): Where are gold, silver headed in the near-term amid US-Iran war tensions?",
-    "desc": "Gold prices have been stuck in a range for some time now and developments on the US-Iran front will determine trajectory, says Maneesh Sharma, AVP - Commodities & Currencies at Anand Rathi Shares and Stock Brokers.",
-    "img": "https://static.toiimg.com/photo/msid-129434260,imgsize-62694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-march-11-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions/articleshow/129434161.cms",
-    "time": "2026-03-11T05:44:00.000Z"
   },
   {
     "cat": "Sports",
@@ -666,24 +693,6 @@ const newsData_en = [
     "time": "2026-03-11T05:00:13.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Reaching finals is no joke': Experts back Lakshya despite All England heartbreak",
-    "desc": "Lakshya Sen once again fell short in the All England Open final, losing to Lin Chun-yi. This marks India's continued 25-year wait for a men's singles champion at the prestigious event. Despite reaching multiple finals, experts believe Sen's consistent presence at this level is a significant achievement, highlighting his strong mental and physical game.",
-    "img": "https://static.toiimg.com/photo/msid-129434959,imgsize-41420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/reaching-finals-is-no-joke-experts-back-lakshya-sen-despite-all-england-heartbreak-exclusive/articleshow/129434256.cms",
-    "time": "2026-03-11T03:49:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "IEA proposes largest oil reserve release of 182 million barrels to ease crude prices",
-    "desc": "Amidst soaring crude oil prices due to the US-Iran conflict and Strait of Hormuz disruptions, the International Energy Agency is proposing a record oil reserve release. This move aims to stabilize global markets, potentially exceeding the 182 million barrels released in 2022. Member nations are expected to decide on the proposal soon, with potential delays if any country objects.",
-    "img": "https://static.toiimg.com/photo/msid-129432890,imgsize-976539.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/middle-east-crisis-iea-proposes-largest-oil-reserve-release-of-182-million-barrels-to-ease-crude-prices/articleshow/129432600.cms",
-    "time": "2026-03-11T02:40:19.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Criticism, satire of PM, UGC regulations target of government takedowns on X, Instagram",
     "desc": "The most up-to-date takedown stats from Meta show that the Instagram and Facebook parent took down three times as much content in response to government orders in January–June 2025 than in the same period in 2023",
@@ -691,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/criticism-satire-of-pm-ugc-regulations-target-of-government-takedowns-on-x-instagram/article70727083.ece",
     "time": "2026-03-11T02:35:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Historic $300 billion deal': Trump announces Reliance investment to build first new US oil refinery in 50 years",
-    "desc": "India's Reliance Industries is set to invest in America's first new oil refinery in 50 years, planned for Brownsville, Texas. US President Donald Trump announced the \"historic\" $300 billion deal, emphasising it will boost domestic energy production, create thousands of jobs, and strengthen national security.",
-    "img": "https://static.toiimg.com/photo/msid-129432083,imgsize-25420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/historic-300-billion-deal-trump-announces-reliance-investment-to-build-first-new-us-oil-refinery-in-50-years/articleshow/129431864.cms",
-    "time": "2026-03-11T02:19:35.000Z"
   },
   {
     "cat": "Sports",
@@ -718,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/hockey/fih-womens-world-cup-qualifiers-coach-marijne-wants-ever-improving-india-to-kill-the-matches/article70726940.ece",
     "time": "2026-03-10T13:42:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mumtaz hints Feroz Khan's death could be trigger for Fardeen's separation",
-    "desc": "Veteran actress Mumtaz candidly discussed her daughter Natasha Madhvani and Fardeen Khan's marital issues, suggesting Feroz Khan's passing might have contributed to their drift. Despite living apart, they remain connected co-parents, with Mumtaz praising Fardeen's dedication to their children and his care for Natasha when she was unwell.",
-    "img": "https://static.toiimg.com/photo/msid-129397942,imgsize-39214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mumtaz-hints-that-feroz-khans-death-could-be-a-trigger-for-fardeen-khan-natashas-separation-thats-when-some-problems-began/articleshow/129397667.cms",
-    "time": "2026-03-10T13:03:55.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/pietersen-says-he-is-open-to-england-coaching-role/article70718037.ece",
     "time": "2026-03-08T03:17:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amplifying women’s voices through movies",
+    "desc": "Movies are a powerful medium, often capable of giving voice to the voiceless, bringing untold stories to the big screen and capturing a global audience. On this Women’s Day, Rudrangsh Gupta reviews six movies — three Indian and three overseas — that speak about various facets of life central to girls and women.",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-in-school/lsqutd/article70671004.ece/alternates/LANDSCAPE_1200/2808305104_aca611c322_b.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/amplifying-womens-voices-through-movies/article70670910.ece",
+    "time": "2026-03-08T03:13:49.000Z"
   }
 ];

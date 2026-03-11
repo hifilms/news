@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 matches to look forward to from the first 20 fixtures of season",
+    "desc": "The schedule for the 19th edition of the Indian Premier League (IPL) was finally announced today, with the season commencing on March 28. However, the schedule has only been confirmed for the first two weeks...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-schedule-3-matches-to-look-forward-to-from-the-first-20-fixtures-of-season-2026-03-11-1033456",
+    "time": "2026-03-11T18:07:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan head coach Mike Hesson reacts to team's poor batting performance in 1st ODI vs Bangladesh",
+    "desc": "Pakistan head coach Mike Hesson's role has come under the scanner ever since Salman Ali Agha and his men failed to qualify for the semifinal of the T20 World Cup 2026. To make things worse,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-head-coach-mike-hesson-reacts-to-team-s-poor-batting-performance-in-1st-odi-vs-bangladesh-2026-03-11-1033451",
+    "time": "2026-03-11T17:07:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Iran pulls out FIFA World Cup 2026 in US, 'under no circumstances we can participate', says Sports Minister",
     "desc": "Iran has officially pulled out of the upcoming FIFA World Cup that will be co-hosted by the United States, Canada and Mexico amid war with US and Israel. The country's sports minister Ahmad Donyamali confirmed...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ban-vs-pak-1st-odi-live-cricket-score-pakistan-aim-for-good-showing-with-the-bat-in-the-first-innings-2026-03-11-1033384",
     "time": "2026-03-11T08:33:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma retains top spot, Ishan Kishan moves into second after latest ICC T20I rankings update",
-    "desc": "With India having won the T20 World Cup 2026, the ICC updated the latest T20I rankings, and star batter Abhishek Sharma has retained the number one spot after the tournament. In a major climb, star...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-retains-top-spot-ishan-kishan-moves-into-second-after-latest-icc-t20i-rankings-update-2026-03-11-1033380",
-    "time": "2026-03-11T08:06:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and Where to watch marquee event live on TV and online in India?",
-    "desc": "The stage is set for yet another season of the Legends League Cricket. The 2026 edition of the tournament is set to kick off on March 11. The final of the tournament is slated to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/legends-league-cricket-2026-when-and-where-to-watch-marquee-event-live-on-tv-and-online-in-india-2026-03-11-1033368",
-    "time": "2026-03-11T06:45:50.000Z"
   }
 ];
