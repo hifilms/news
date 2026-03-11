@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "West Indies players set to travel back home on commercial flights amid West Asia tensions",
+    "desc": "After days of being stranded in India, CWI (Cricket West Indies) has finally arranged for the Windies’ players to travel back home through commercial flights. It is interesting to note that the players had been...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-players-set-to-travel-back-home-on-commercial-flights-amid-west-asia-tensions-2026-03-11-1033325",
+    "time": "2026-03-11T01:35:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rishabh Pant trains under Yuvraj Singh in Mumbai, bats with slight different technique",
     "desc": "Lucknow Super Giants captain Rishabh Pant has begun his training ahead of the Indian Premier League (IPL) 2026 campaign, slated to begin on March 28. In a viral video, the southpaw was spotted training under...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-schedule-set-to-be-released-by-march-13-confirms-bcci-secretary-devajit-saikia-2026-03-10-1033270",
     "time": "2026-03-10T10:40:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Reminiscent of Viv Richards': Sunil Gavaskar heaps praise on Sanju Samson after recent exceptional showing",
-    "desc": "Former India cricketer Sunil Gavaskar recently came forward and heaped massive praise on star batter Sanju Samson. It is worth noting that Sanju Samson was named as the Player of the Tournament as India won...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/reminiscent-of-viv-richards-sunil-gavaskar-heaps-praise-on-sanju-samson-after-recent-exceptional-showing-2026-03-10-1033260",
-    "time": "2026-03-10T08:55:23.000Z"
   }
 ];
