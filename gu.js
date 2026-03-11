@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "LPG સિલિન્ડર થયા મોંઘા, પરંતુ આ યોજના હેઠળ હજુ પણ મળે છે 300 રૂપિયાની સબસિડી, જાણો",
+    "desc": "પશ્ચિમ એશિયામાં વધી રહેલા તણાવની અસર હવે ભારતના સામાન્ય લોકોના ખિસ્સા પર પડી રહી છે. ઈરાન અને ઈઝરાયલ વચ્ચે ચાલી રહેલા સંઘર્ષે વૈશ્વિક ઉર્જા બજારને અસ્થિર બનાવ્યું છે, જેની સીધી અસર પેટ્રોલિયમ ઉત્પાદનોના ભાવ પર પડી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/lpg-cylinders-have-become-expensive-but-subsidy-is-still-available-under-this-scheme-know-468059 ",
+    "time": "2026-03-11T03:28:27.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "અમેરિકા અને ઇઝરાયલે કર્યો અત્યાર સુધીનો સૌથી મોટો હુમલો, ઇરાને કહ્યું: નહીં કરીએ યુદ્ધવિરામ",
+    "desc": "અમેરિકા, ઇઝરાયલ અને ઈરાન વચ્ચેનું યુદ્ધ 12મા દિવસે પણ ચાલુ રહ્યું. અમેરિકા અને ઇઝરાયલે ઈરાન પર અત્યાર સુધીનો સૌથી મોટો હુમલો કર્યો, જેના કારણે તેહરાનના ઘણા વિસ્તારોમાં વીજળી ગુલ થઈ ગઈ અને રહેણાંક ઇમારતોને નુકસાન થયું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/america-and-israel-carried-out-the-biggest-attack-ever-iran-said-we-will-not-make-a-ceasefire-468055 ",
+    "time": "2026-03-11T02:45:05.000Z"
+  },
+  {
     "cat": "World",
     "title": "સુપ્રીમ લીડર બનતા જ એક્શનમાં મોજતબા, ઈઝરાયેલ પર છોડવામાં આવેલ મિસાઈલ પર શું લખ્યું?",
     "desc": "મોજતબા ખામેનેઈ સુપ્રીમ લીડર બન્યા બાદ જાણે ઈરાની સેનામાં એક નવો ઉત્સાહ જોવા મળી રહ્યો છે. ઈઝરાયેલ અને અમેરિકાના સતત હુમલાઓ છતાં ઈરાન સખત પલટવાર કરી રહ્યું છે. હવે મોજતબાએ પણ પોતાના ઈરાદા સ્પષ્ટ કરી દીધા છે.",
@@ -414,15 +432,6 @@ const newsData_gu = [
     "time": "2026-03-07T15:03:49.000Z"
   },
   {
-    "cat": "Business",
-    "title": "અચાનક બંપર ડિસ્કાઉન્ટ પર સોનું વેચી રહ્યા છે વેપારીઓ, જાણો કેમ અને શું ભાવ?",
-    "desc": "વૈશ્વિક સ્તરે ભારે ઉથલપાથલભર્યો માહોલ છે. મીડલ ઈસ્ટ ઈરાન અને ઈઝરાયેલ વચ્ચેના યુદ્ધને પગલે ભડકે બળી રહ્યું છે. અનેક દેશો તેની લપેટમાં આવ્યા છે. આ બધા વચ્ચે સામાન રઝળી પડ્યા છે. રિપોર્ટ મુજબ ગોલ્ડના અનેક શિપમેન્ટ દુબઈમા ફસાયા છે જેને પગલે આ સ્ટોક કાઢવા માટે ઓછા ભાવે વેચાઈ રહ્યો છે. વધુ વિગતો માટે વાંચો અહેવાલ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/iran-israel-war-dubai-traders-selling-gold-at-discounted-prices-know-the-reason-and-rate-467573 ",
-    "time": "2026-03-07T13:46:27.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "20 KM માઇલેજ, 6 એરબેગ અને એડવાન્સ ફીચર્સ! આ 7-સીટર MPV ના ભાવમાં ઘટાડો",
     "desc": "Toyota એ પોતાની 7 સીટર એમપીવી Rumion ના નવા બેઝ વેરિએન્ટ E MT ન્યૂડ્રાઇવને 9.55 લાખમાં લોન્ચ કર્યું છે. Rumion ની ડિઝાઇન ઇનોવા હાઇક્રોસ જેવી છે. તેમાં 1.5 લીટર કે-સિરીઝ પેટ્રોલ એન્જિન છે. આવો તેની કિંમત અને ફીચર્સ વિશે જાણીએ.",
@@ -430,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/toyota-launches-new-base-variant-e-mt-priced-at-9-55-lakh-check-all-details-467517 ",
     "time": "2026-03-07T09:13:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સાવધાન! તમારા ભાડાના ઘરનું ભાડું આપવામાં આ ભૂલ કરી તો આવશે ITની નોટિસ, લાગશે 1 લાખ સુધીનો દંડ",
-    "desc": "જો તમે કોઈ લક્ઝરી ફ્લેટ કે ઘરમાં ભાડે રહો છો અને તમારું માસિક ભાડું 50,000 રૂપિયાથી વધુ છે, તો આ સમાચાર તમારા માટે ખૂબ જ મહત્વપૂર્ણ છે. ઇન્કમ ટેક્સ વિભાગ હવે ભાડૂતો પર પણ ચાંપતી નજર રાખી રહ્યું છે. એક નાની બેદરકારી તમને માત્ર ડિફોલ્ટર જ નહીં બનાવે, પરંતુ તમારા ખિસ્સા પર 1 લાખ રૂપિયા સુધીનો મોટો દંડ પણ લગાવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/if-you-make-this-mistake-while-paying-rent-you-will-receive-an-income-tax-notice-and-a-fine-of-up-to-rs-1-lakh-467514 ",
-    "time": "2026-03-07T08:39:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -502,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/after-america-and-israel-one-more-country-will-attack-iran-orders-given-to-the-army-467413 ",
     "time": "2026-03-06T08:48:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "રશિયન તેલ ખરીદી શકે છે ભારત, જેણે ના પાડી હતી, તે અમેરિકાએ જ આપી છૂટ, જાણો કારણ",
-    "desc": "ગુરુવારે ખાનગી પોર્ટલ સાથે વાત કરતા, બે વરિષ્ઠ અમેરિકી અધિકારીઓએ જણાવ્યું હતું કે યુએસ સરકારે 30 દિવસની કામચલાઉ છૂટ આપવાનો નિર્ણય લીધો છે. ભારત હવે 30 દિવસ સુધી રશિયા પાસેથી તેલની ખરીદી કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/india-can-buy-russian-oil-america-has-given-permission-know-the-reason-467374 ",
-    "time": "2026-03-06T02:59:42.000Z"
   },
   {
     "cat": "Tech",

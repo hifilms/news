@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Suryavanshi meets Ravindra Jadeja in Rajasthan Royals' camp ahead of IPL 2026",
+    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The 10 franchises will look to give it their all in hopes of getting their hands on the marquee title. Ahead...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-suryavanshi-meets-ravindra-jadeja-in-rajasthan-royals-camp-ahead-of-ipl-2026-watch-2026-03-11-1033342",
+    "time": "2026-03-11T04:17:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It is absurd': Harbhajan Singh slams Kirti Azad after his comments on India's T20 World Cup title celebration",
+    "desc": "Former India cricketer Kirti Azad has been catching many headlines as of late due to his controversial comments on India’s T20 World Cup victory celebrations. It is worth noting that after India won the T20...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/it-is-absurd-harbhajan-singh-slams-kirti-azad-after-his-comments-on-india-s-t20-world-cup-title-celebration-2026-03-11-1033334",
+    "time": "2026-03-11T03:15:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mitchell Santner-Tom Latham to share New Zealand's captaincy duties ahead of South Africa series",
+    "desc": "New Zealand is all set to host South Africa in a five-game T20I series that is slated to begin on March 15. With both sides facing each other across five T20Is, NZC (New Zealand Cricket)...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-santner-tom-latham-to-share-new-zealand-s-captaincy-duties-ahead-of-south-africa-series-2026-03-11-1033332",
+    "time": "2026-03-11T02:43:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "West Indies players set to travel back home on commercial flights amid West Asia tensions",
     "desc": "After days of being stranded in India, CWI (Cricket West Indies) has finally arranged for the Windies’ players to travel back home through commercial flights. It is interesting to note that the players had been...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/fifa-says-2026-world-cup-too-big-to-postpone-despite-west-asia-tensions-monitoring-situation-2026-03-10-1033295",
     "time": "2026-03-10T13:29:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC books individual flights for West Indies, South Africa players, after chartered flight got cancelled",
-    "desc": "West Indies and South Africa players are still stranded in Kolkata after travel arrangements made for their return journey didn’t materialise on Tuesday. A chartered flight that was meant to take both teams to Johannesburg...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-books-individual-flights-for-west-indies-south-africa-players-after-chartered-flight-got-cancelled-2026-03-10-1033285",
-    "time": "2026-03-10T11:59:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arshdeep Singh handed 15% fine for breaching ICC Code of Conduct in T20 World Cup 2026 final",
-    "desc": "Arshdeep Singh has been fined 15% of his match fee for breaching Level 1 of the ICC Code of Conduct during the T20 World Cup 2026 Final between India and New Zealand at Narendra Modi...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-handed-15-fine-for-breaching-icc-code-of-conduct-in-t20-world-cup-2026-final-2026-03-10-1033275",
-    "time": "2026-03-10T10:58:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 schedule set to be released by March 13, confirms BCCI secretary Devajit Saikia",
-    "desc": "The Board of Control for Cricket in India (BCCI) secretary Devajit Saikia confirmed that the IPL 2026 schedule will be released in the next couple of days. Explaining the reason behind the delay, the veteran...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-schedule-set-to-be-released-by-march-13-confirms-bcci-secretary-devajit-saikia-2026-03-10-1033270",
-    "time": "2026-03-10T10:40:28.000Z"
   }
 ];
