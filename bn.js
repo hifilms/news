@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "US-Israel-Iran War News:'হরমুজ প্রণালী বন্ধই থাকবে!' ইরানের সর্বোচ্চ নেতা হিসেবে প্রথম মুখ খুলেই কড়া অবস্থান মোজতবার",
+    "desc": "পশ্চিম এশিয়ায় ইরান–ইজরায়েল সংঘাত ক্রমেই তীব্র হচ্ছে। ক্ষেপণাস্ত্র ও ড্রোন হামলার পাশাপাশি সমুদ্রপথেও আঘাতের ঘটনা ঘটছে। এই পরিস্থিতির মধ্যেই ইরানের নতুন সর্বোচ্চ নেতা মোজতবা খামেনেই প্রথম বার্তায় হরমুজ প্রণালী বন্ধ রাখার অবস্থান বজায় রাখার কথা জানিয়েছেন। সংঘাতের প্রভাব পড়েছে উপসাগরীয় দেশগুলিতে এবং বিশ্ববাজারেও, যেখানে তেলের দাম ১০০ ডলার ছাড়িয়েছে। একই সঙ্গে ইরানে আটকে থাকা ভারতীয় নাগরিকদের ফেরাতে তৎপর হয়েছে ভারত সরকার।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/khamenei-2026-03-356e1d6dc6cfbda4bfc8f814bf14a678-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/mojtaba-khamenei-first-message-strait-of-hormuz-iran-israel-war-us-west-asia-conflict-india-evacuation-news-tib-2582199.html",
+    "time": "2026-03-12T14:13:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "গোটা দেশে রান্নার গ্যাস ও তেলের তীব্র সংকট: কেন্দ্রীয় মন্ত্রীর বড় দাবি, দিল্লি থেকে বিগব্রেক",
+    "desc": "বর্তমানে মোট আমদানির প্রায় ৭০ শতাংশই আসছে হরমুজ প্রণালীর বাইরে থেকে। আমেরিকা, রাশিয়া, নরওয়ে, কানাডা এবং আলজেরিয়ার মতো দেশগুলো থেকে জ্বালানি সংগ্রহ বাড়িয়ে আমদানির উৎসে বৈচিত্র্য আনা হয়েছে। এর ফলে মধ্যপ্রাচ্যে দীর্ঘমেয়াদি সংঘাত চললেও ভারতের শিল্প ও বিদ্যুৎ খাতে জ্বালানি সরবরাহ ব্যাহত হবে না বলে সরকার মনে করছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/hardeep-singh-puri-petroleum-minister-says-no-shortage-of-lpg-crude-petrol-and-diesel_644654.html ",
+    "time": "2026-03-12T13:36:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'ভালোই হয়েছে, রক্ষিতের সঙ্গে সম্পর্ক ভেঙেছে', মায়ের অডিও ভাইরাল হতেই বিস্ফোরক রশ্মিকা",
+    "desc": "বিজয় দেবরাকোন্ডার সঙ্গে বিয়ের রেশ কাটতে না কাটতেই পুরোনো ‘কাশুন্দি’ ঘেঁটে সোশ্যাল মিডিয়ায় ঝড় তুলেছে রশ্মিকা মান্দান্নার মা সুমন মান্দান্নার একটি ভাইরাল ভিডিও। ৮ বছর আগের এক বিস্ফোরক সাক্ষাৎকারের ক্লিপ নতুন করে ছড়িয়ে পড়ায় কন্নড় ও তেলুগু ফিল্ম ইন্ডাস্ট্রিতে দানা বেঁধেছে নতুন বিতর্ক।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/rashmika-mandanna-mother-suman-allegations-against-rakshit-shetty-resurface-after-vijay-marriage_644653.html ",
+    "time": "2026-03-12T13:29:13.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "পেট্রল-ডিজেল নিয়ে দেশে কোনও সঙ্কট নেই! সংসদে জানালেন পেট্রোলিয়াম মন্ত্রী হরদীপ সিং পুরি",
     "desc": "সংসদে দেশের পেট্রোপণ্যের সঙ্কট নিয়ে বক্তব্য রাখলেন পেট্রোলিয়াম মন্ত্রী হরদীপ সিং পুরী। হরদীপ সিং পুরির বক্তব্যের সময় এপস্টিন এপস্টিন করে শোরগোল বিরোধীদের। বিক্ষোভ দেখান বিরোধীরা। পুরি এদিন লোকসভায় তেল নিয়ে চিন্তার কোনও কারণ নেই বলে আশ্বস্ত করেন।",
@@ -675,15 +702,6 @@ const newsData_bn = [
     "time": "2026-03-07T15:48:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "বাঙালির রহস্য-রোমাঞ্চে নতুন গোয়েন্দা, নারী দিবসে সামনে এল ‘ফুলপিসি ও এডওয়ার্ড’-এর মহিলা বাহিনী",
-    "desc": "নারী দিবসের প্রাক্কালে প্রকাশ্যে এল শিবপ্রসাদ মুখোপাধ্যায় ও নন্দিতা রায়ের নতুন ছবি 'ফুলপিসি ও এডওয়ার্ড'-এর মহিলা বাহিনী। সোহিনী সেনগুপ্ত থেকে রাইমা সেন— শক্তিশালী কাস্টিং নিয়ে বড় পর্দায় কামব্যাক করছে উইন্ডোজ প্রোডাকশন। রহস্য আর মনস্তত্ত্বের এই নতুন আখ্যান কবে আসবে পর্দায়?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/phulpishi-o-edward-shiboprosad-nandita-new-detective-movie-poster-launch_644053.html ",
-    "time": "2026-03-07T15:46:49.000Z"
-  },
-  {
     "cat": "Business",
     "title": "যুদ্ধের আঁচ রান্নাঘরে! গ্যাসের দামবৃদ্ধিতে নাজেহাল মধ্যবিত্ত",
     "desc": "মধ্য প্রাচ্যের যুদ্ধ পরিস্থিতিতে তেল, জ্বালানি গ্যাসের আমদানি-রফতানি ঘিরে সংকট তৈরি হয়েছে ইতিমধ্যেই৷ হরমুজ প্রণালি যেখান দিয়ে মূলত তেল আমদানি করে ভারত, সেই প্রণালিতে তেল সরবরাহ কার্যত রদ করে রেখেছে ইরান৷ এমন পরিস্থিতিতে গত শুক্রবার রাতে এক ধাক্কায় ৬০ টাকা বেড়েছে রান্নার গ্যাসের সিলিন্ডারের দাম৷ আজ থেকে রান্নার গ্যাসের দাম হবে ৯৩৯ টাকা এবং বাণিজ্যিক বা কমার্শিয়াল সিলিন্ডারের দাম বেড়ে হল ১৯৯৯ টাকা।",
@@ -691,15 +709,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/business/cooking-gas-price-hike-how-middle-class-people-are-facing-it-ank-2573935.html",
     "time": "2026-03-07T14:53:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'সুযোগ পেলেই ধর্ষণ করবে, এদের ঠাটিয়ে চড় মারুন', কার বিরুদ্ধে সরব জীতু?",
-    "desc": "জীতুর মতে, যারা জনসমক্ষে থাকা কোনো মহিলার পোস্টারের ওপর পানের পিক ফেলে বা শরীরের বিশেষ অংশ ছিঁড়ে বিকৃতি আনন্দ পায়, তারা আসলে মানসিকভাবে ধর্ষক। জীতু সাধারণ মানুষের কাছে আবেদন জানিয়েছেন, এই ধরণের কার্যকলাপের সঙ্গে যারা যুক্ত, তাদের অবিলম্বে বিরুদ্ধাচরণ করুন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/jeetu-kamal-viral-post-on-suspected-rapists-and-poster-defacing-2026_644046.html ",
-    "time": "2026-03-07T14:07:12.000Z"
   },
   {
     "cat": "World",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/kavinder-gupta-resigns-as-ladakh-lieutenant-governor-nine-months-after-taking-oath-sdg-2570999.html",
     "time": "2026-03-05T16:02:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আগামী ৭২ ঘণ্টা...! ভারী বৃষ্টি কাঁপাবে ১৭ রাজ্য, ৪৮ ঘণ্টায় তাপমাত্রায় চরম হুঁশিয়ারি কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "নতুন করে সৃষ্টি হওয়া পশ্চিমী ঝঞ্ঝার প্রভাবে আবহাওয়া আবারও বদলাতে চলেছে। আবহাওয়া বিভাগ একটি সতর্কতা জারি করেছে, আগামী ৭২ ঘণ্টায় অনেক রাজ্যে ভারী বৃষ্টিপাত হতে পারে দেশের একাধিক রাজ্যে। অন্যদিকে লাফিয়ে পারদ চড়বে এই রাজ্যগুলিতে! দেখুন আবহাওয়ার লেটেস্ট আপডেট।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj_rain_Thunder-2026-02-d4442b7a82e43dc3ddb6c50620195dec-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rainfall-alert-in-17-states-temperature-will-rise-massively-in-48-hours-for-these-states-check-latest-west-bengal-weather-sanj-2570625.html",
-    "time": "2026-03-05T11:30:18.000Z"
   }
 ];

@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Faf du Plessis gives his take on pressure that Rishabh Pant could face ahead of IPL 2026",
+    "desc": "The 19th edition of the IPL (Indian Premier League) 2026 is all set to kick off on March 28. With the tournament set to begin, many would look forward to the campaign of Lucknow Super...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/faf-du-plessis-gives-his-take-on-pressure-that-rishabh-pant-could-face-ahead-of-ipl-2026-2026-03-12-1033576",
+    "time": "2026-03-12T14:53:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravindra Jadeja hits massive sixes in first-ever training session for Rajasthan Royals",
+    "desc": "The 19th edition of the IPL (Indian Premier League) 2026 is all set to kick off on March 28. The 10 franchises will look to put in their best performances in hopes of getting their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadeja-hits-massive-sixes-in-first-ever-training-session-for-rajasthan-royals-watch-2026-03-12-1033571",
+    "time": "2026-03-12T13:59:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'I don't see a point': Cheteshwar Pujara weighs in on MS Dhoni's batting position for CSK ahead of IPL 2026",
     "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026, and the 10 franchises will be looking to put in their best performances in hopes of getting their hands on...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-in-trouble-complaint-filed-against-india-all-rounder-for-insulting-national-flag-2026-03-12-1033487",
     "time": "2026-03-12T05:06:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will Team India play their next T20I series after T20 World Cup triumph?",
-    "desc": "Team India created history last week, becoming the first team to win the T20 World Cup three times. They defeated New Zealand in the final by 96 runs at the Narendra Modi Stadium in Ahmedabad,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-will-team-india-play-their-next-t20i-series-after-t20-world-cup-triumph-2026-03-12-1033479",
-    "time": "2026-03-12T04:15:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch the event live on TV and online in India?",
-    "desc": "London's Piccadilly Lights witnessed history in the first-ever Women's Hundred auction on March 11 (Wednesday). The same venue will also host the first-ever Men's Hundred auction today as over 240 players are set to go...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/the-hundred-auction-2026-live-when-and-where-to-watch-the-event-live-on-tv-and-online-in-india-2026-03-12-1033471",
-    "time": "2026-03-12T02:57:32.000Z"
   }
 ];

@@ -1,12 +1,228 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "What is the Come Early Go Early policy?",
-    "desc": "On Women’s Day, the Maharashtra government rolled out the Come Early, Go Early policy for women government employees residing in the Mumbai Metropolitan area. Why has it been introduced and who is eligible for it?",
-    "img": "https://th-i.thgim.com/public/incoming/jroe5x/article70735210.ece/alternates/LANDSCAPE_1200/come%20early%20go%20early.png",
+    "cat": "Tech",
+    "title": "Karnataka government constitutes Committee on Responsible AI",
+    "desc": "The committee, in its maiden meeting held in Bengaluru on March 12, discussed the rapidly evolving AI landscape and the need to establish strong governance frameworks to ensure the responsible use of AI technologies, particularly in systems that impact citizens",
+    "img": "https://th-i.thgim.com/public/incoming/pvhm4m/article70736252.ece/alternates/LANDSCAPE_1200/Nuclear-energy-GFBFMQQFS.5.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-what-is-the-come-early-go-early-policy/article70735202.ece",
-    "time": "2026-03-12T12:43:33.000Z"
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-government-constitutes-committee-on-responsible-ai/article70735241.ece",
+    "time": "2026-03-12T15:50:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "2,455 cases of atrocities against SCs, STs in Chhattisgarh since 2023 with nearly 40% instances of rape: government data",
+    "desc": "Apart from rapes and murders, there were 380 cases of causing hurt, 60 cases of causing grievous hurt and 30 cases of abduction, the Chhattisgarh government said in response to a query by a BJP MLA",
+    "img": "https://th-i.thgim.com/public/incoming/91po1d/article70736203.ece/alternates/LANDSCAPE_1200/iStock-1334623338%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/2455-cases-of-atrocities-against-scs-sts-in-chhattisgarh-since-2023-with-nearly-40-instances-of-rape-government-data/article70734910.ece",
+    "time": "2026-03-12T15:44:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Marijne wants the Indian players to be more precise with finishing",
+    "desc": "The head coach reserves special praise for Navneet, who scored a hat-trick against Wales, but is quick to emphasise that the performance was a collective effort; the host celebrates its World Cup berth with an emphatic win over the European side",
+    "img": "https://th-i.thgim.com/public/incoming/uhaimd/article70736159.ece/alternates/LANDSCAPE_1200/vjkvg-india%2016.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/marijne-wants-the-indian-players-to-be-more-precise-with-finishing/article70736166.ece",
+    "time": "2026-03-12T15:35:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US stocks tumble at open as oil prices touched $100 per barrel amid Iran conflict",
+    "desc": "US stock markets plunged on Thursday as surging oil prices and escalating conflict involving the US, Israel, and Iran rattled investor confidence. Dow Jones Industrial Average fell 1.1 per cent to 46,879.09 while S&P 500 declined 1.0 per cent. Crude prices briefly surpassed $100 per barrel amid fears of Middle East supply disruptions, with no end in sight to the ongoing hostilities.",
+    "img": "https://static.toiimg.com/photo/msid-129514132,imgsize-1254263.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-tumble-at-open-as-oil-prices-touched-100-per-barrel-amid-iran-conflict/articleshow/129513899.cms",
+    "time": "2026-03-12T15:20:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sanjay Dutt refused to kiss Pooja Bhatt in 'Sadak'",
+    "desc": "Pooja Bhatt revealed on her podcast that her father, Mahesh Bhatt, confronted Sanjay Dutt over his discomfort kissing her, citing hypocrisy. Mahesh advised that 'it's never the act, it's the attitude' when filming intimate scenes. This incident occurred during the filming of a movie where Sanjay had known Pooja since childhood.",
+    "img": "https://static.toiimg.com/photo/msid-129513673,imgsize-58166.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-dutt-refused-to-kiss-pooja-bhatt-in-sadak-heres-why-mahesh-bhatt-called-it-hypocrisy/articleshow/129513547.cms",
+    "time": "2026-03-12T15:06:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Retail inflation rises to 3.21% in February as food prices climb",
+    "desc": "India's retail inflation climbed to 3.21% in February, primarily driven by a surge in food prices. While this rise is within the RBI's target, specific items like gold and silver saw price acceleration. Core inflation remained steady, suggesting underlying price trends are moderate. Experts anticipate potential upside risks from oil prices but view them as temporary.",
+    "img": "https://static.toiimg.com/photo/msid-129513634,imgsize-1256232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/retail-inflation-rises-to-3-21-in-february-as-food-prices-climb/articleshow/129513319.cms",
+    "time": "2026-03-12T15:05:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US, China, India, Gulf countries, Russia, Europe",
+    "desc": "In a more pessimistic outlook outlined by Goldman Sachs, crude prices could climb back to around $100 per barrel and remain elevated. Such a development could reduce global economic growth by roughly half a percentage point while increasing inflation by nearly one percentage point over the next year.",
+    "img": "https://static.toiimg.com/photo/msid-129513342,imgsize-156102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/iran-war-economic-impact-us-china-india-gulf-countries-russia-europe-who-are-the-winners-and-losers/articleshow/129512724.cms",
+    "time": "2026-03-12T14:53:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Not stepped away from activism, it requires clarity and sincere dialogue: Sonam Wangchuk",
+    "desc": "The statement comes in the backdrop of an interview of his wife Gitanjali J. Angmo with The Hindu in which she remarked that Mr. Wangchuk will not pursue the path of agitation after he is released from detention",
+    "img": "https://th-i.thgim.com/public/incoming/d4drql/article70735905.ece/alternates/LANDSCAPE_1200/Release-Sonam-WGAHFJL5EG.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/not-stepped-away-from-activism-it-requires-clarity-and-sincere-dialogue-sonam-wangchuk/article70735199.ece",
+    "time": "2026-03-12T14:49:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kumar Sanu gets interim relief in defamation case against ex-wife",
+    "desc": "Playback singer Kumar Sanu has received interim relief in his defamation suit against his ex-wife. The court granted temporary protection against Rita Bhattacharya, Google, Meta, and John Doe defendants, restraining the circulation of allegedly defamatory content. This ruling emphasizes the responsibility of digital platforms in safeguarding individuals' reputations online.",
+    "img": "https://static.toiimg.com/photo/msid-129512953,imgsize-27334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kumar-sanu-gets-interim-relief-from-court-in-defamation-case-against-his-ex-wife-rita-bhattacharya/articleshow/129512975.cms",
+    "time": "2026-03-12T14:45:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AI suggested ‘Karnataka model’ to win Assam polls, says D.K. Shivakumar",
+    "desc": "“I asked an AI platform how to win the Assam elections. It said the election could be won by adopting the Karnataka model,” he said, prompting a brief exchange and light-hearted remarks from the Opposition members in the House",
+    "img": "https://th-i.thgim.com/public/incoming/h3u4jh/article70735471.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-04%20at%2021.06.27.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/ai-suggested-karnataka-model-to-win-assam-polls-says-dk-shivakumar/article70735137.ece",
+    "time": "2026-03-12T14:41:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TTD fortifies LPG reserves amid West Asia war",
+    "desc": "To ensure uninterrupted Annadanam and laddu production at Tirumala, the temple administration extracts positive assurance from IOCL on continuous supplies, besides building a formidable reserve of 38 tonnes of the fuel sufficient to sustain operations for over a week even under adverse conditions",
+    "img": "https://th-i.thgim.com/public/incoming/5pa9xm/article70735709.ece/alternates/LANDSCAPE_1200/IMG_174_Annadhanam_at_Ti_2_1_K6A3UL2P.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-fortifies-lpg-reserves-amid-west-asia-war/article70734321.ece",
+    "time": "2026-03-12T14:20:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian-owned SunRisers Leeds buy Pakistan player",
+    "desc": "Pakistan spinner Abrar Ahmed was signed by SunRisers Leeds for £190,000 at the Hundred Auction 2026, ending speculation that IPL-linked teams would avoid Pakistani players. Usman Tariq was earlier picked by Birmingham Phoenix. Meanwhile, Haris Rauf, Shadab Khan, and Saim Ayub went unsold, while Shaheen Afridi withdrew before the auction due to scheduling clashes.",
+    "img": "https://static.toiimg.com/photo/msid-129511916,imgsize-87380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hundred-auction-2026-indian-owned-sunrisers-leeds-buy-pakistan-player-usman-tariq-also-picked/articleshow/129511774.cms",
+    "time": "2026-03-12T14:15:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'We make lot of money': Trump on rising oil prices, says stopping 'evil empire Iran' is of greater interest",
+    "desc": "President Donald Trump said that US gains from higher oil prices. However, his main focus is stopping Iran from obtaining nuclear weapons. He described Iran as an \"evil empire\" whose nuclear ambitions threaten global stability. The conflict with Iran has entered its thirteenth day. The US has reportedly spent over $11.",
+    "img": "https://static.toiimg.com/photo/msid-129511618,imgsize-700250.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/we-make-lot-of-money-trump-on-rising-oil-prices-says-stopping-evil-empire-iran-is-of-greater-interest/articleshow/129510838.cms",
+    "time": "2026-03-12T14:10:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "From Dhoni’s death stare to T20 WC heroics: Axar's fielding transformation",
+    "desc": "Axar Patel starred with exceptional fielding in India’s T20 World Cup 2026 semi-final win over England, taking three brilliant catches, including a relay catch with Shivam Dube. Coaches praised his intensity and work ethic, highlighting his transformation through improved fitness and training since 2018. Once criticized for poor fitness habits, Axar has evolved into one of India’s safest fielders.",
+    "img": "https://static.toiimg.com/photo/msid-129511069,imgsize-72148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-ms-dhonis-death-stare-to-t20-world-cup-heroics-axar-patels-fielding-transformation/articleshow/129510546.cms",
+    "time": "2026-03-12T13:49:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rishabh Pant undergoes special training with Yuvraj Singh ahead of IPL 2026",
+    "desc": "Rishabh Pant, aiming to revive his white-ball career, underwent training sessions with 2011 World Cup hero Yuvraj Singh in Mumbai. This comes after an ordinary IPL 2025 season where Pant scored 269 runs, leading to Lucknow Super Giants finishing seventh. Pant hopes Yuvraj's guidance will help him turn around his fortunes ahead of IPL 2026.",
+    "img": "https://static.toiimg.com/photo/msid-129510884,imgsize-959670.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rishabh-pant-undergoes-special-training-with-yuvraj-singh-ahead-of-ipl-2026-watch/articleshow/129510612.cms",
+    "time": "2026-03-12T13:46:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Garima Garg opens up on Zubeen Garg’s final fear",
+    "desc": "Six months post Zubeen Garg's tragic passing, his wife has disclosed his longstanding dread of time, possibly exacerbated by his recent emotional struggles. Once classified as an accidental death in Singapore, the case is now stirring controversy as an SIT investigates it as a potential homicide, fueled by the Chief Minister's suspicions. The search for truth is far from over.",
+    "img": "https://static.toiimg.com/photo/msid-129510786,imgsize-140762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/zubeen-gargs-wife-opens-up-on-the-singers-biggest-fear-before-death-and-personal-losses-he-lost-so-many-people/articleshow/129510786.cms",
+    "time": "2026-03-12T13:44:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TMC MPs seek meeting with President Murmu, request turned down: Report",
+    "desc": "The Trinamool Congress's request for a meeting with President Droupadi Murmu to discuss West Bengal's welfare initiatives was declined due to time constraints. This comes after a political controversy during the President's recent visit to Bagdogra, where she expressed displeasure over the absence of state officials.",
+    "img": "https://static.toiimg.com/photo/msid-129510651,imgsize-32144.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tmc-mps-seek-meeting-with-president-murmu-request-turned-down-report/articleshow/129510721.cms",
+    "time": "2026-03-12T13:38:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The fortune behind 'Dhurandhar'",
+    "desc": "The Surgical Strike' and his latest film 'Dhurandhar', is making waves once again. With a reported joint net worth alongside his wife, actress Yami Gautam, surpassing USD 12 million, Dhar's earnings of 8-10 crore per project showcase his ascent in the film industry.",
+    "img": "https://static.toiimg.com/photo/msid-129510348,imgsize-82948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditya-dhar-net-worth-delving-into-the-wealth-uri-and-dhurandhar-filmmaker-has-built/articleshow/129510348.cms",
+    "time": "2026-03-12T13:30:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anurag on brother Abhinav Kashyap's comments on Salman Khan",
+    "desc": "Filmmaker Anurag Kashyap has broken his silence on his brother Abhinav Kashyap's public spat with Salman Khan. Anurag stated he respects his brother's request not to comment publicly, despite the ongoing defamation case filed by the Khan brothers against Abhinav. Abhinav had made strong criticisms against Salman and Arbaaz Khan, leading to the legal action.",
+    "img": "https://static.toiimg.com/photo/msid-129510274,imgsize-30940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-breaks-silence-on-brother-abhinav-kashyaps-comments-on-salman-khan-publicly-i-wouldnt-want-to-/articleshow/129510235.cms",
+    "time": "2026-03-12T13:26:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyadarshan admits mistake while showing SRK's in Billu",
+    "desc": "Filmmaker Priyadarshan reflected on his 2009 film 'Billu', admitting he added too many songs, which weakened its screenplay. He said portraying Shah Rukh Khan’s stardom needed no effort. Priyadarshan now reunites with Akshay Kumar for the horror-comedy Bhooth Bangla, releasing April 10, 2026, followed by Haiwaan with Saif Ali Khan.",
+    "img": "https://static.toiimg.com/photo/msid-129510155,imgsize-48782.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-admits-one-mistake-while-showing-shah-rukh-khans-stardom-in-irrfan-khans-billu-screenplay-became-loose/articleshow/129510155.cms",
+    "time": "2026-03-12T13:22:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ASEAN Ministers to hold meetings to address West Asia crisis",
+    "desc": "The Philippines, this year’s ASEAN chair, is ⁠hosting the meetings as officials weigh impacts and responses to surging oil prices as well as disruptions to shipping, logistics, and trade flows across the ‌region’s export-reliant economies",
+    "img": "https://th-i.thgim.com/public/incoming/734ugv/article70734981.ece/alternates/LANDSCAPE_1200/AP02_24_2026_000191B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/asean-ministers-to-hold-meetings-to-address-west-asia-crisis/article70734960.ece",
+    "time": "2026-03-12T13:22:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Speaker stops Rahul Gandhi mid-speech after his remark on Hardeep Puri",
+    "desc": "Lok Sabha witnessed a heated exchange as Rahul Gandhi's speech on the energy crisis was cut short by Speaker Om Birla. Gandhi was questioned for targeting Oil Minister Hardeep Singh Puri and deviating from the stated notice regarding gas shortages. The opposition had previously accused the Chair of limiting Gandhi's speaking time.",
+    "img": "https://static.toiimg.com/photo/msid-129509135,imgsize-1732303.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/lok-sabha-showdown-continues-speaker-stops-rahul-gandhi-mid-speech-after-his-remark-on-hardeep-puri/articleshow/129509048.cms",
+    "time": "2026-03-12T12:55:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What is the political logic behind the Women’s Reservation Act?",
+    "desc": "There has been renewed talk regarding the early implementation of the Women’s Reservation Act. Why is it being talked about now, what is the BJP and NDA’s plan, with an eye on elections in the following year?",
+    "img": "https://th-i.thgim.com/public/incoming/hrt45v/article70735245.ece/alternates/LANDSCAPE_1200/womens%20bill.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shows/watch-what-is-the-political-logic-behind-the-womens-reservation-act/article70735244.ece",
+    "time": "2026-03-12T12:52:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika voices concern over Mumbai’s air pollution",
+    "desc": "Deepika Padukone, enjoying motherhood with daughter Dua, voiced concern over Mumbai’s poor air quality, tagging BMC for action. She skipped her Paris trip due to Middle East tensions. Up next, Deepika stars in 'King' with Shah Rukh Khan and Atlee’s 'AA22XA6' alongside Allu Arjun, releasing in 2026.",
+    "img": "https://static.toiimg.com/photo/msid-129509055,imgsize-11156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/this-city-and-children-are-choking-deepika-padukone-voices-concern-over-mumbais-air-pollution-tags-bmc/articleshow/129509055.cms",
+    "time": "2026-03-12T12:51:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Lagaan' easter egg in 'Young Sherlock' explained",
+    "desc": "Director Matthew Parkhill highlighted the impressive audition of Hero Fiennes Tiffin, which clinched him the role of 'Young Sherlock.' Emphasizing a novel perspective, Parkhill drew inspiration from the early works of Conan Doyle, portraying Sherlock as a youthful detective eager to delve into mysteries. Additionally, fans will recognize a celebrated actress from the legendary Bollywood film 'Lagaan' in the cast.",
+    "img": "https://static.toiimg.com/photo/msid-129508192,imgsize-139444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/young-sherlock-creator-matthew-parkhill-explains-surprising-lagaan-easter-egg-she-played-elizabeth/articleshow/129508192.cms",
+    "time": "2026-03-12T12:47:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -19,12 +235,21 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Three houses destroyed, 12 damaged in cyclone-like wind in coastal Chellanam panchayat in Kochi",
-    "desc": "Roofs of several houses were flown away by the strong wind that struck the coast south of the Chellanam panchayat office around 1.15 a.m. Chellanam is the worst affected among the 10 identified hotspots of sea erosion in Kerala.",
-    "img": "https://th-i.thgim.com/public/incoming/p56sq8/article70735165.ece/alternates/LANDSCAPE_1200/IMG-20260312-WA0058.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/three-houses-destroyed-12-damaged-in-cyclone-like-wind-in-coastal-chellanam-panchayat-in-kochi/article70734253.ece",
-    "time": "2026-03-12T12:34:01.000Z"
+    "title": "Rs 43-crore JKCA scam case: Court issues non-bailable warrant against Farooq Abdullah",
+    "desc": "A Srinagar court issued non-bailable warrants for former J&K Chief Minister Farooq Abdullah and another accused for failing to appear in connection with alleged financial irregularities in the Jammu and Kashmir Cricket Association. The court found prima facie evidence of criminal conspiracy and breach of trust in the siphoning of Rs 43 crore.",
+    "img": "https://static.toiimg.com/photo/msid-129508351,imgsize-29570.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rs-43-crore-jkca-scam-case-court-issues-non-bailable-warrant-against-farooq-abdullah/articleshow/129508442.cms",
+    "time": "2026-03-12T12:37:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan's Mirza denies 'misbehaviour’, sends legal notice",
+    "desc": "Pakistan pacer Salman Mirza sent a legal notice to a news outlet and journalist over reports alleging he misbehaved with a woman during the T20 World Cup 2026 in Sri Lanka. Calling the claims “false, malicious, and highly defamatory,” Mirza denied wrongdoing. The PCB also dismissed the reports, demanding a public apology and warning of action.",
+    "img": "https://static.toiimg.com/photo/msid-129508221,imgsize-164688.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/t20-world-cup-controversy-pakistans-salman-mirza-denies-misbehaviour-sends-legal-notice-to-journalist/articleshow/129506286.cms",
+    "time": "2026-03-12T12:34:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -73,12 +298,12 @@ const newsData_en = [
   },
   {
     "cat": "World",
-    "title": "ASEAN Ministers to hold meetings to address West Asia crisis",
-    "desc": "The Philippines, this year’s ASEAN chair, is ⁠hosting the meetings as officials weigh impacts and responses to surging oil prices as well as disruptions to shipping, logistics, and trade flows across the ‌region’s export-reliant economies",
-    "img": "https://th-i.thgim.com/public/incoming/734ugv/article70734981.ece/alternates/LANDSCAPE_1200/AP02_24_2026_000191B.jpg",
+    "title": "Iran sets three conditions for ending war",
+    "desc": "During nuclear talks ahead of the war, Iran had consistently argued that as a signatory of the Nuclear Non-Proliferation Treaty (NPT), nuclear enrichment is ‘a legitimate right’. This was also the first time a senior Iranian leader called for reparations as a condition to end the war",
+    "img": "https://th-i.thgim.com/public/incoming/o2ytgh/article70734009.ece/alternates/LANDSCAPE_1200/UN_General_Assembly_Iran_20793.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/asean-ministers-to-hold-meetings-to-address-west-asia-crisis/article70734960.ece",
-    "time": "2026-03-12T11:52:31.000Z"
+    "url": "https://www.thehindu.com/news/international/iran-sets-three-conditions-for-ending-war/article70733980.ece",
+    "time": "2026-03-12T11:59:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -216,15 +441,6 @@ const newsData_en = [
     "time": "2026-03-12T10:01:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Meet the singers who turned actors",
-    "desc": "Music has long opened the door to screen careers, and some stars made that switch with ease. As Vogue noted, several performers first built fame through songs, bands, or talent shows before landing acting roles. This lineup includes Lady Gaga, Harry Styles, Jennifer Hudson, Beyoncé, Rihanna, and Justin Timberlake. Each one entered film or television from a music background, then built screen credits that broadened their image. Some won major awards. Others landed breakout parts in studio films. Together, they show how stage presence, timing, and star power can move beyond the recording booth and thrive on screen in surprising ways. Here we are compiling a list of singers who also tried their hands on acting.",
-    "img": "https://static.toiimg.com/photo/msid-129502087,imgsize-75382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rihanna-harry-styles-lady-gaga-and-others-meet-the-singers-who-turned-actors/photostory/129502087.cms",
-    "time": "2026-03-12T10:00:28.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Jaishankar spoke to Iran FM 3 times': India flags ships safety, energy security concerns",
     "desc": "External Affairs Minister S Jaishankar held three recent talks with his Iranian counterpart, focusing on maritime shipping safety and India's energy security amid rising Middle East tensions. Iran has ensured safe passage for Indian-flagged vessels through the Strait of Hormuz, a crucial route for global oil trade and India's energy imports.",
@@ -243,15 +459,6 @@ const newsData_en = [
     "time": "2026-03-12T09:33:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "How Suriya became one of the most versatile actors in Tamil cinema",
-    "desc": "From his humble beginnings in 'Nerrukku Ner' to his acclaimed performances in 'Nandha' and 'Kaakha Kaakha,' Suriya has consistently showcased remarkable versatility. Blockbusters like 'Ghajini' and experimental roles in 'Maattrraan' solidified his position as a leading actor. His upcoming projects, including 'Karuppu,' demonstrate his continued dedication to diverse and impactful cinema.",
-    "img": "https://static.toiimg.com/photo/msid-129501123,imgsize-61350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nerukku-ner-to-karuppu-how-suriya-became-one-of-the-most-versatile-actors-in-tamil-cinema/articleshow/129501123.cms",
-    "time": "2026-03-12T09:28:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Dubai steps up security as Iran war rages; financial institutions move staff to remote work",
     "desc": "US financial and tech firms are enhancing security and reducing office presence in the Middle East following Iran's threats to target economic centers linked to America. Companies like Citigroup, Standard Chartered, and Google have implemented precautionary measures, including mandatory work-from-home policies for staff in the region due to heightened security concerns.",
@@ -259,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/dubai-steps-up-security-as-iran-war-rages-financial-institutions-move-staff-to-remote-work/articleshow/129496531.cms",
     "time": "2026-03-12T09:24:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Maitreyi Ramakrishnan spills beans on Devi’s ultimate fate",
-    "desc": "Maitreyi Ramakrishnan, who played Devi Vishwakumar in 'Never Have I Ever,' playfully declared the character is 'dead in a ditch' to encourage fans to move on. She believes Devi's true growth occurred during her final prayer. Ramakrishnan also candidly stated that Devi and Ben's relationship wouldn't last, hinting at a breakup.",
-    "img": "https://static.toiimg.com/photo/msid-129500819,imgsize-135518.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/what-happened-to-devi-after-never-have-i-ever-finale-heres-what-maitreyi-ramakrishnan-thinks/articleshow/129500777.cms",
-    "time": "2026-03-12T09:19:12.000Z"
   },
   {
     "cat": "Sports",
@@ -286,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mumtaz-opens-up-on-interfaith-marriage-shares-her-views-on-polygamy-marrying-three-four-times-how-does-it-make-you-better/articleshow/129500058.cms",
     "time": "2026-03-12T09:00:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Is YSRCP treading a tough road?",
-    "desc": "Decimated from holding 151 seats in the Andhra Pradesh Assembly to just 11 in the 2024 Assembly elections, the YSRCP now appears to be fighting its way back to relevance as the leading Opposition force",
-    "img": "https://th-i.thgim.com/public/incoming/vru8hl/article70734358.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202024-05-07%20at%2020.24.15.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-is-it-treading-a-tough-road/article70734286.ece",
-    "time": "2026-03-12T08:53:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,24 +531,6 @@ const newsData_en = [
     "time": "2026-03-12T08:29:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Timothée Chalamet stays quiet amid backlash in China: Report",
-    "desc": "Actor Timothée Chalamet is deftly avoiding the backlash for his statements about ballet and opera as he turns his attention to the global promotion of 'Marty Supreme.' During his vibrant press tour across Japan and China, crowds have shown overwhelming support, successfully shifting the narrative to his highly anticipated film project.",
-    "img": "https://static.toiimg.com/photo/msid-129499169,imgsize-22128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothe-chalamet-remains-silent-on-opera-backlash-during-marty-supreme-premiere-in-china-reports/articleshow/129499169.cms",
-    "time": "2026-03-12T08:29:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kharge and Nadda spar in Parliament over Farooq Abdullah attack",
-    "desc": "Tensions flared in the Rajya Sabha after an alleged attempt on former Jammu and Kashmir Chief Minister Farooq Abdullah’s life. Opposition leader Mallikarjun Kharge questioned the government on security lapses, while Union Minister J.P. Nadda assured a full investigation.",
-    "img": "https://th-i.thgim.com/public/incoming/pgng2b/article70734320.ece/alternates/LANDSCAPE_1200/News%20Video%20Thumbs%202026.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-kharge-and-nadda-spar-in-parliament-over-farooq-abdullah-attack/article70734326.ece",
-    "time": "2026-03-12T08:23:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Definitely a medal prospect’: Ex-CWG medallist backs Lakshya for LA 2028 medal",
     "desc": "India's Lakshya Sen is considered a strong medal contender for the 2028 Los Angeles Olympics after his Paris 2024 debut and a strong showing at the 2026 All England Championships. Former player Trupti Murgunde believes Sen is well-positioned but stresses the importance of sustained form, fitness, and wise tournament choices over the next two years.",
@@ -367,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/he-is-definitely-a-medal-prospect-former-cwg-medallist-backs-lakshya-sen-for-la-olympics-medal/articleshow/129498409.cms",
     "time": "2026-03-12T08:19:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer Singh's Dhurandhar returns to theatres worldwide",
-    "desc": "The Revenge, releasing March 19. Starting March 12 in India and March 13 overseas, the re-release spans 500 screens. With sold-out premieres, global buzz, and a viral trailer, Aditya Dhar’s spy-action sequel promises another cinematic spectacle starring Ranveer Singh across five languages.",
-    "img": "https://static.toiimg.com/photo/msid-129498898,imgsize-28612.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-dhurandhar-returns-to-theatres-worldwide-ahead-of-its-much-awaited-sequel/articleshow/129498898.cms",
-    "time": "2026-03-12T08:16:11.000Z"
   },
   {
     "cat": "World",
@@ -387,24 +549,6 @@ const newsData_en = [
     "time": "2026-03-12T07:59:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Misty Copeland shares her thoughts on Timothée Chalamet’s recent comments",
-    "desc": "Renowned dancer Misty Copeland has responded to Timothée Chalamet's controversial remarks about ballet and opera. While acknowledging their lack of mainstream 'pop culture' status, Copeland emphasized their enduring cultural relevance, citing their 400-year history. She argued that popularity shouldn't be mistaken for impact and that Chalamet's own acting career owes a debt to these art forms, urging against comparing them.",
-    "img": "https://static.toiimg.com/photo/msid-129498228,imgsize-96092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ballet-dancer-misty-copeland-reacts-to-timothe-chalamets-comments-about-ballet-and-opera-report/articleshow/129498228.cms",
-    "time": "2026-03-12T07:58:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Samridhi@Kochi feels the heat as cooking gas supply dries up in Kerala",
-    "desc": "Samridhi’s central kitchen at Paramara Road in Ernakulam North, along with its Fort Kochi outlet and three canteens are currently reportedly operating on the last lot of 30-odd commercial LPG cylinders arranged by the Corporation as an emergency measure",
-    "img": "https://th-i.thgim.com/public/incoming/57o3ln/article70734138.ece/alternates/LANDSCAPE_1200/10018_8_10_2025_19_4_5_3_SAMRUDHI_03.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/lpg-shortage-samridhikochi-feels-the-heat-as-cooking-gas-supply-dries-up-in-kerala/article70734104.ece",
-    "time": "2026-03-12T07:44:38.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Farooq Abdullah's first reaction after assassination attempt: 'The killer always has an advantage'",
     "desc": "Former Jammu and Kashmir Chief Minister Farooq Abdullah narrowly escaped an assassination attempt at a wedding. A man fired shots at him, but his security team intervened, saving his life. Abdullah expressed gratitude to God and called for an investigation into the incident. He also commented on the prevailing atmosphere of hatred and the need for unity.",
@@ -412,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/farooq-abdullahs-first-reaction-after-assassination-attempt-the-killer-always-has-an-advantage/articleshow/129496820.cms",
     "time": "2026-03-12T07:31:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "MGK ‘stoked’: Posts flirty comment on Megan Fox’s photos",
-    "desc": "In a stunning photoshoot that has captivated social media, actress Megan Fox has caught the attention of many, including her ex-fiancé, Machine Gun Kelly, who playfully commented on her stunning looks. Even after their breakup in early 2026, the duo maintains a positive relationship, putting their energy into co-parenting their beloved daughter while showcasing their ongoing friendship post-relationship.",
-    "img": "https://static.toiimg.com/photo/msid-129497108,imgsize-83334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/mgk-shares-teasing-comment-after-megan-foxs-latest-photoshoot-goes-viral-stoked/articleshow/129497108.cms",
-    "time": "2026-03-12T07:30:32.000Z"
   },
   {
     "cat": "Business",
@@ -468,15 +603,6 @@ const newsData_en = [
     "time": "2026-03-12T06:38:26.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran sets three conditions for ending war",
-    "desc": "During nuclear talks ahead of the war, Iran had consistently argued that as a signatory of the Nuclear Non-Proliferation Treaty (NPT), nuclear enrichment is ‘a legitimate right’. This was also the first time a senior Iranian leader called for reparations as a condition to end the war",
-    "img": "https://th-i.thgim.com/public/incoming/o2ytgh/article70734009.ece/alternates/LANDSCAPE_1200/UN_General_Assembly_Iran_20793.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-sets-three-conditions-for-ending-war/article70733980.ece",
-    "time": "2026-03-12T06:35:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘No better feeling’: Bumrah reveals what makes him happiest on the field",
     "desc": "India pace spearhead Jasprit Bumrah expressed immense joy in delivering under pressure, a mindset that fueled India's historic 2026 T20 World Cup triumph. His match-winning spell in the final, coupled with family presence and a sense of redemption at the Ahmedabad venue, made the victory deeply emotional and fulfilling for the spearhead.",
@@ -493,24 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/middle-east-crisis-india-backs-unsc-resolution-condemning-iranian-strikes-on-gulf-nations/articleshow/129494684.cms",
     "time": "2026-03-12T06:14:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "West Asia crisis exposes risks to India’s oil security and policy gaps",
-    "desc": "The escalating crisis in West Asia has raised fresh concerns over India’s energy security as the country imports nearly 90% of its oil. With the Strait of Hormuz remaining a critical supply route, disruptions could have major economic consequences.",
-    "img": "https://th-i.thgim.com/public/incoming/vvxlfo/article70733978.ece/alternates/LANDSCAPE_1200/Editorial%206.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-west-asia-crisis-exposes-risks-to-indias-oil-security-and-policy-gaps-the-hindu-editorial/article70733984.ece",
-    "time": "2026-03-12T06:08:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Draper stuns Djokovic in Indian Wells thriller; Alcaraz marches into quarters",
-    "desc": "Jack Draper achieved a career-defining victory by defeating former champion Novak Djokovic in a thrilling three-set match to advance to the Indian Wells Masters quarter-finals. Draper's determination and problem-solving skills were key to his upset win, especially after a lengthy layoff due to injury. He will now face Daniil Medvedev in the next round.",
-    "img": "https://static.toiimg.com/photo/msid-129494382,imgsize-73656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/jack-draper-stuns-novak-djokovic-in-indian-wells-thriller-carlos-alcaraz-marches-into-quarters/articleshow/129493975.cms",
-    "time": "2026-03-12T06:07:08.000Z"
   },
   {
     "cat": "World",
@@ -540,15 +648,6 @@ const newsData_en = [
     "time": "2026-03-12T05:31:59.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "TOI’s report card on Team India after record third T20 World Cup title",
-    "desc": "India achieved a historic feat by becoming the first team to defend their T20 World Cup title, winning on home soil. Led by Suryakumar Yadav and coached by Gautam Gambhir, the team showcased exceptional performances, with Jasprit Bumrah and Sanju Samson being standout players. The report card highlights individual contributions across the victorious campaign.",
-    "img": "https://static.toiimg.com/photo/msid-129493242,imgsize-139320.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-tois-report-card-on-team-india-after-record-third-title-triumph/articleshow/129493187.cms",
-    "time": "2026-03-12T05:30:38.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Hokum’ trailer: Adam Scott faces witch haunting in Damian McCarthy’s new horror",
     "desc": "The first trailer for the latest horror film from ‘Oddity’ and ‘Caveat’ director Damian McCarthy, has been unveiled, showing Adam Scott as a novelist drawn into a haunted Irish inn and a mystery tied to a witch haunting its honeymoon suite",
@@ -556,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/hokum-trailer-adam-scott-faces-witch-haunting-in-damian-mccarthys-new-horror/article70733903.ece",
     "time": "2026-03-12T05:23:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "All England win, foundation of my coaching path: Pullela Gopichand",
-    "desc": "Despite a challenging journey and a body weakened by previous surgeries, Pullela Gopichand achieved a life-changing All England victory in 2001. His rigorous Olympic preparation, though ending in early defeat, instilled a mental fortitude that proved crucial. The win provided recognition and laid the groundwork for his future coaching career and badminton development.",
-    "img": "https://static.toiimg.com/photo/msid-129492215,imgsize-19940.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/all-england-win-foundation-of-my-coaching-path-pullela-gopichand/articleshow/129492100.cms",
-    "time": "2026-03-12T04:51:34.000Z"
   },
   {
     "cat": "Politics",
@@ -594,15 +684,6 @@ const newsData_en = [
     "time": "2026-03-12T04:12:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Transit pass must now for vehicles entering Bihar with minerals",
-    "desc": "The decision has been taken by Deputy Chief Minister Vijay Kumar Sinha, who also holds the Mines and Geology department; he said that it will make the mineral transportation system more transparent, lawful and revenue-oriented in the state.",
-    "img": "https://th-i.thgim.com/public/incoming/jwit8r/article70733733.ece/alternates/LANDSCAPE_1200/90092_19_7_2022_10_14_47_2_GORUMAHISANI_IRON_ORE_MINES_2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/transit-pass-must-now-for-vehicles-entering-bihar-with-minerals/article70731371.ece",
-    "time": "2026-03-12T04:04:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How Sachin helped Sanju Samson, and many others",
     "desc": "Sanju Samson credits Sachin Tendulkar's guidance for his Player of the Tournament award at the 2026 T20 World Cup, highlighting the 'God of cricket's' consistent support. Tendulkar's willingness to share his expertise, from technical advice to mental fortitude, has made him a sought-after mentor for Indian cricketers navigating challenging periods.",
@@ -619,24 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-march-12-2026-inox-india-apollo-hospitals-tvs-motor-company-best-stocks-to-buy-or-sell-today/articleshow/129489664.cms",
     "time": "2026-03-12T03:17:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "J&K govt. ‘drags feet’ on relieving water sports expert Bilquis Mir to train national team for Asian Games",
-    "desc": "The Indian Kayaking & Canoeing Association (IKCA) on February 3, 2026, wrote to J&K Sports Minister Satish Sharma to spare “Ms. Bilquis Mir as coach for the national team preparation for the upcoming Asian Games 2026”.",
-    "img": "https://th-i.thgim.com/public/incoming/16jycl/article70733641.ece/alternates/LANDSCAPE_1200/12205_21_8_2025_11_29_58_3_08_KASHMIR%E2%80%99SFIRSTKHELONATIONALWATERSPORTSFESTIVAL_SGR_21_08_2025.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-govt-drags-feet-on-relieving-water-sports-expertbilquismir-to-train-national-team-for-asian-games/article70731381.ece",
-    "time": "2026-03-12T02:49:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘He doesn't need to say sorry’: Gambhir backs Arshdeep after Mitchell incident",
-    "desc": "Head coach Gautam Gambhir backed Arshdeep Singh after his on-field clash with Daryl Mitchell in the T20 World Cup final. Gambhir stated that competitive aggression is natural when representing the country and even suggested an apology wasn't necessary. He believes such incidents are amplified by social media, downplaying the controversy.",
-    "img": "https://static.toiimg.com/photo/msid-129488901,imgsize-40682.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/he-doesnt-need-to-say-sorry-gautam-gambhir-backs-arshdeep-singh-after-daryl-mitchell-incident-in-t20-world-cup-final/articleshow/129488911.cms",
-    "time": "2026-03-12T02:45:06.000Z"
   },
   {
     "cat": "World",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-best-picture-nominees-ranked-entertainment-news-academy-awards-date-time-schedule-how-to-watch-india/article70725922.ece",
     "time": "2026-03-10T09:38:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India’s T20 World Cup defence shows strength of a new era",
-    "desc": "India’s successful defence of the ICC T20 World Cup highlights the team’s smooth transition after the exit of senior stars such as Rohit Sharma, Virat Kohli and Ravindra Jadeja from T20Is. Under Suryakumar Yadav and coach Gautam Gambhir, a fearless approach and strong bench strength powered the campaign. Sanju Samson, Jasprit Bumrah and others stepped up as India continued to set the standard in the format.",
-    "img": "https://th-i.thgim.com/public/incoming/xh0idg/article70725982.ece/alternates/LANDSCAPE_1200/editorial%20india%20T20.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-indias-t20-world-cup-defence-shows-strength-of-a-new-era-the-hindu-editorial/article70725979.ece",
-    "time": "2026-03-10T09:24:08.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "May or may not be a \"friendly takeover\"",
-    "desc": "The Cuban ​government has said it is not in ⁠any high-level talks with the United States but has not outright ‌denied press reports that U.S. officials may be in informal talks with Raul Guillermo Rodriguez Castro",
-    "img": "https://th-i.thgim.com/public/incoming/faskt8/article70724885.ece/alternates/LANDSCAPE_1200/Trump_41095.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-on-cuba-may-or-may-not-be-a-friendly-takeover/article70724880.ece",
-    "time": "2026-03-10T08:15:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Timothée Chalamet faces backlash after comments dismissing ballet and opera",
-    "desc": "Chalamet has sparked backlash from performers and arts institutions after saying he would not want to work in ballet or opera because “no one cares about this anymore,” comments that have ignited debate across the performing arts community",
-    "img": "https://th-i.thgim.com/public/incoming/84xovo/article70725317.ece/alternates/LANDSCAPE_1200/2264285287.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/timothee-chalamet-faces-backlash-after-comments-dismissing-ballet-and-opera/article70725308.ece",
-    "time": "2026-03-10T06:32:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "West Asia conflict oil hike, market reactions Highlights: Markets climb, Rupee rebounds as oil prices fall",
-    "desc": "Investors, already spooked by concerns over extended tech valuations and the huge spending on AI, ran for the hills earlier in the day as crude rocketed to its highest level since the Russian invasion of Ukraine in 2022",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/crude-oil-price-today-march-9-iran-israel-us-war-brent-prices-surge-west-asia-crisis-stock-market-updates/article70721132.ece",
-    "time": "2026-03-10T05:36:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka names Kirsten as head coach with 2027 World Cup in focus",
-    "desc": "Kirsten, 58, previously guided ‌India to the 2011 World Cup title and later coached ‌South Africa from 2011 to ‌2013. ⁠He also briefly served as ⁠Pakistan's white-ball coach in 2024, resigning six months into the job.",
-    "img": "https://th-i.thgim.com/public/incoming/yofr8e/article70725130.ece/alternates/LANDSCAPE_1200/VIS_4076.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/sri-lanka-names-kirsten-as-head-coach-with-2027-world-cup-in-focus/article70725127.ece",
-    "time": "2026-03-10T04:52:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Stock market investors sell big as crude hits $100",
-    "desc": "The 30-share BSE Sensex tanked 1,352.74 points, or 1.71%, to settle at 77,566.16, registering its second day of decline. On similar lines, the 50-share NSE Nifty dropped 422.40 points, or 1.73%, to end at 24,028.05.",
-    "img": "https://th-i.thgim.com/public/business/markets/jrluuo/article70721170.ece/alternates/LANDSCAPE_1200/stockmarkets.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/west-asia-conflict-crude-oil-prices-surge-stock-markets-forex-markets-on-march-9-2026/article70721155.ece",
-    "time": "2026-03-09T20:31:15.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "How Iran is fighting back against U.S. and Israel",
-    "desc": "One week into the escalating war between Iran, the United States, and Israel, Tehran has intensified its response through missile strikes, regional alliances, and strategic pressure across the West Asia. With tensions rising and no immediate ceasefire in sight, the first week of fighting has already reshaped security calculations across the West Asia, raising fears that the conflict could expand into a wider regional war.",
-    "img": "https://th-i.thgim.com/public/news/national/ha03pw/article70724007.ece/alternates/LANDSCAPE_1200/trump%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-how-iran-is-fighting-back-against-us-and-israel/article70724008.ece",
-    "time": "2026-03-09T20:13:38.000Z"
   }
 ];
