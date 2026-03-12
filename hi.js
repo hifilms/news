@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI to honour Rahul Dravid with lifetime achievement award, Shubman Gill to be named Cricketer of the Year",
+    "desc": "Former India cricketer Rahul Dravid will be conferred with the Col CK Nayudu Lifetime Achievement award at the BCCI's annual Naman Awards, scheduled to take place in New Delhi on March 15 (Sunday). Along with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-to-honour-rahul-dravid-with-lifetime-achievement-award-shubman-gill-to-be-named-cricketer-of-the-year-2026-03-12-1033499",
+    "time": "2026-03-12T06:36:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya in trouble? Complaint filed against India all-rounder for 'insulting' national flag",
+    "desc": "India all-rounder Hardik Pandya is in legal trouble after a Pune-based lawyer has accused him of disrespecting the national flag while celebrating India's triumph in the T20 World Cup 2026. The name of the complainant...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-in-trouble-complaint-filed-against-india-all-rounder-for-insulting-national-flag-2026-03-12-1033487",
+    "time": "2026-03-12T05:06:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When will Team India play their next T20I series after T20 World Cup triumph?",
     "desc": "Team India created history last week, becoming the first team to win the T20 World Cup three times. They defeated New Zealand in the final by 96 runs at the Narendra Modi Stadium in Ahmedabad,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-schedule-announced-rcb-to-face-srh-in-opening-game-at-chinnaswamy-stadium-on-march-28-2026-03-11-1033431",
     "time": "2026-03-11T13:31:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How much prize money did India win after T20 World Cup 2026 triumph? ICC reveals",
-    "desc": "The International Cricket Council (ICC) has confirmed the final distribution of the prize money among 20 teams after the successful conclusion of the T20 World Cup 2026. India defeated New Zealand in the final of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-much-prize-money-did-india-win-after-t20-world-cup-2026-triumph-icc-reveals-2026-03-11-1033419",
-    "time": "2026-03-11T12:09:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Inko World Cup jeetna hai': Fans troll Pakistan after Bangladesh bowl them out for 114 in 1st ODI",
-    "desc": "After the poor performance in the T20 World Cup, Pakistan made a plethora of changes to their ODI squad for the series against Bangladesh. They dropped players like Babar Azam, Saim Ayub and Fakhar Zaman,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/inko-world-cup-jeetna-hai-fans-troll-pakistan-after-bangladesh-bowl-them-out-for-114-in-1st-odi-2026-03-11-1033409",
-    "time": "2026-03-11T11:23:39.000Z"
   }
 ];

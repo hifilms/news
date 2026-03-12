@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "R N Ravi takes oath as 22nd governor of West Bengal",
+    "desc": "He was administered the oath by Chief Justice of Calcutta High Court, Sujoy Paul, in the presence of Chief Minister Mamata Banerjee, Assembly Speaker Biman Banerjee, senior Minister and Kolkata Mayor Firhad Hakim and Left Front chairman Biman Bose.",
+    "img": "https://th-i.thgim.com/public/sport/cricket/ow3acj/article70734073.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-12%20121259.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/r-n-ravi-takes-oath-as-22nd-governor-of-west-bengal/article70734049.ece",
+    "time": "2026-03-12T06:47:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US 'unfair trade' probe on India, China and 14 others: What Washington is looking into",
+    "desc": "Following a Supreme Court setback on tariffs, the Trump administration has launched new \"Section 301\" investigations into alleged unfair trade practices by 16 key partners, including China and India. These probes aim to restore tariff pressure and could lead to new import taxes by summer, with officials emphasizing a commitment to protecting US manufacturing and reducing trade deficits.",
+    "img": "https://static.toiimg.com/photo/msid-129493855,imgsize-912790.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/us-unfair-trade-probe-on-india-china-and-14-others-what-washington-is-looking-into/articleshow/129493549.cms",
+    "time": "2026-03-12T06:40:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "What the U.S. probe revealed about the Tomahawk strike on Iran school",
+    "desc": "A U.S. military investigation has found that a Tomahawk missile mistakenly struck a girls’ school in Minab in southern Iran during the opening hours of the Israel–Iran war, reportedly due to outdated targeting data. A leading U.S. newspaper said preliminary findings suggest the United States was responsible for the February 28 strike.",
+    "img": "https://th-i.thgim.com/public/incoming/y7w9k1/article70734052.ece/alternates/LANDSCAPE_1200/Lebanon1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-what-the-us-probe-revealed-about-the-tomahawk-strike-on-iran-school/article70734057.ece",
+    "time": "2026-03-12T06:39:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. investigates India and China for ‘unfair trade practices’ as Trump tries to replace tariffs blocked by Supreme Court",
+    "desc": "Donald Trump and his team have made clear that they're seeking to replace the hundreds of billions of dollars in lost revenues after the Supreme Court's February ruling by using different laws to establish new tariffs",
+    "img": "https://th-i.thgim.com/public/incoming/bjbkde/article70733567.ece/alternates/LANDSCAPE_1200/2026-03-11T214433Z_2145729687_RC223IAC5XPE_RTRMADP_3_USA-TRUMP-TARIFFS-301.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-administration-kicks-off-new-process-to-try-to-replace-tariffs-struck-down-by-supreme-court/article70733566.ece",
+    "time": "2026-03-12T06:38:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran sets three conditions for ending war",
+    "desc": "During nuclear talks ahead of the war, Iran had consistently argued that as a signatory of the Nuclear Non-Proliferation Treaty (NPT), nuclear enrichment is ‘a legitimate right’. This was also the first time a senior Iranian leader called for reparations as a condition to end the war",
+    "img": "https://th-i.thgim.com/public/incoming/o2ytgh/article70734009.ece/alternates/LANDSCAPE_1200/UN_General_Assembly_Iran_20793.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-sets-three-conditions-for-ending-war/article70733980.ece",
+    "time": "2026-03-12T06:35:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bhooth Bangla' teaser: Akshay's film will remind you of BB",
+    "desc": "The long-awaited teaser for 'Bhooth Bangla,' a collaboration between Akshay Kumar and Priyadarshan, has just dropped! This snippet teases a chilling yet funny escapade in a haunted haveli located in Mangalpur, complete with a mysterious figure dubbed 'Vadhusur.' Fans of the iconic duo, celebrated for classics like 'Hera Pheri' and 'Garam Masala,' are buzzing with excitement. Read the full article to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129495135,imgsize-105962.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhooth-bangla-teaser-akshay-kumar-paresh-rawal-and-rajpal-yadav-starrer-will-remind-you-of-bhool-bhulaiyaa/articleshow/129495135.cms",
+    "time": "2026-03-12T06:31:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘No better feeling’: Jasprit Bumrah reveals what makes him happiest on the field",
+    "desc": "India pace spearhead Jasprit Bumrah expressed immense joy in delivering under pressure, a mindset that fueled India's historic 2026 T20 World Cup triumph. His match-winning spell in the final, coupled with family presence and a sense of redemption at the Ahmedabad venue, made the victory deeply emotional and fulfilling for the spearhead.",
+    "img": "https://static.toiimg.com/photo/msid-129495130,imgsize-170344.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/no-better-feeling-jasprit-bumrah-reveals-what-makes-him-happiest-on-the-field-after-t20-world-cup-triumph/articleshow/129495112.cms",
+    "time": "2026-03-12T06:28:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "West Asia crisis exposes risks to India’s oil security and policy gaps",
+    "desc": "The escalating crisis in West Asia has raised fresh concerns over India’s energy security as the country imports nearly 90% of its oil. With the Strait of Hormuz remaining a critical supply route, disruptions could have major economic consequences.",
+    "img": "https://th-i.thgim.com/public/incoming/vvxlfo/article70733978.ece/alternates/LANDSCAPE_1200/Editorial%206.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-west-asia-crisis-exposes-risks-to-indias-oil-security-and-policy-gaps-the-hindu-editorial/article70733984.ece",
+    "time": "2026-03-12T06:08:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Draper stuns Djokovic in Indian Wells thriller; Alcaraz marches into quarters",
+    "desc": "Jack Draper achieved a career-defining victory by defeating former champion Novak Djokovic in a thrilling three-set match to advance to the Indian Wells Masters quarter-finals. Draper's determination and problem-solving skills were key to his upset win, especially after a lengthy layoff due to injury. He will now face Daniil Medvedev in the next round.",
+    "img": "https://static.toiimg.com/photo/msid-129494382,imgsize-73656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/jack-draper-stuns-novak-djokovic-in-indian-wells-thriller-carlos-alcaraz-marches-into-quarters/articleshow/129493975.cms",
+    "time": "2026-03-12T06:07:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Indian national killed in attack by Iran against U.S.-owned oil tanker Safesea Vishnu in Iraqi waters",
+    "desc": "An Indian national, whose name is being withheld at the moment, has reportedly been killed in the attack, while the remaining 27 crew and personnel on the oil tanker have been rescued and taken to Basra, the sources said",
+    "img": "https://th-i.thgim.com/public/incoming/grbkqb/article70733944.ece/alternates/LANDSCAPE_1200/2026-03-12T031638Z_1171700488_RC2Q2KAOGFLE_RTRMADP_3_IRAN-CRISIS-IRAQ-TANKERS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/indian-national-killed-in-attack-by-iran-against-us-owned-oil-tanker-safesea-vishnu-in-iraqi-waters/article70733924.ece",
+    "time": "2026-03-12T05:57:23.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hezbollah says targeted north Israel with ‘dozens of rockets’ in new operation",
+    "desc": "Hezbollah in a statement said that \"in response to the criminal aggression against dozens of Lebanese cities and towns and Beirut's southern suburbs\", its fighters targeted sites in northern Israel \"with dozens of rockets\" as part of a new operation announced a short time earlier",
+    "img": "https://th-i.thgim.com/public/incoming/jeno3v/article70733937.ece/alternates/LANDSCAPE_1200/2026-03-12T020403Z_1672388042_RC2N2KAU7G0F_RTRMADP_3_IRAN-CRISIS-BEIRUT-STRIKE-SEAFRONT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hezbollah-says-targeted-north-israel-with-dozens-of-rockets-in-new-operation/article70733915.ece",
+    "time": "2026-03-12T05:46:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why is India staring at LPG shortage?",
+    "desc": "The Indian LPG system is designed for operational flow, not stockpiling. And there are no concrete proposals currently to increase large underground storage either. The International Energy Agency (IEA) has flagged the lack of such storage as an infrastructural weakness in India.",
+    "img": "https://th-i.thgim.com/public/incoming/d84jgf/article70731594.ece/alternates/LANDSCAPE_1200/2026-03-11T133205Z_468406883_RC292KAZMBSO_RTRMADP_3_IRAN-CRISIS-LPG-INDIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/surging-lpg-consumption-and-inadequate-storage-put-india-in-a-bind/article70731586.ece",
+    "time": "2026-03-12T05:31:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LPG shortage hits crematoria in city, contractors struggle to book supplies",
+    "desc": "The crematorium at Ambattur sees an average of five cremations a day and each crematorium requires about 10 kg of LPG; a Corporation official says that uninterrupted supply of LPG cylinders to crematoria across the city will be ensured",
+    "img": "https://th-i.thgim.com/public/incoming/z27qv3/article70732626.ece/alternates/LANDSCAPE_1200/Commercial%20LPG%20cylinders%204.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/lpg-shortage-hits-crematoria-in-city-contractors-struggle-to-book-supplies/article70732234.ece",
+    "time": "2026-03-12T05:31:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "TOI’s report card on Team India after record third T20 World Cup title",
+    "desc": "India achieved a historic feat by becoming the first team to defend their T20 World Cup title, winning on home soil. Led by Suryakumar Yadav and coached by Gautam Gambhir, the team showcased exceptional performances, with Jasprit Bumrah and Sanju Samson being standout players. The report card highlights individual contributions across the victorious campaign.",
+    "img": "https://static.toiimg.com/photo/msid-129493242,imgsize-139320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-tois-report-card-on-team-india-after-record-third-title-triumph/articleshow/129493187.cms",
+    "time": "2026-03-12T05:30:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Hokum’ trailer: Adam Scott faces witch haunting in Damian McCarthy’s new horror",
+    "desc": "The first trailer for the latest horror film from ‘Oddity’ and ‘Caveat’ director Damian McCarthy, has been unveiled, showing Adam Scott as a novelist drawn into a haunted Irish inn and a mystery tied to a witch haunting its honeymoon suite",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/ihuct2/article70733902.ece/alternates/LANDSCAPE_1200/Hokum_AdamScott_01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/hokum-trailer-adam-scott-faces-witch-haunting-in-damian-mccarthys-new-horror/article70733903.ece",
+    "time": "2026-03-12T05:23:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar: The Revenge' headed for USD 3 million mark",
+    "desc": "The Revenge' are soaring, projecting a USD 3 million debut in North America. With premiere shows already raking in significant figures, the Ranveer Singh starrer is poised for a massive opening. The film's wide release across Hindi and South markets, including dubbed versions, further bolsters its box office potential.",
+    "img": "https://static.toiimg.com/photo/msid-129492903,imgsize-49380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-the-revenge-advance-booking-ranveer-singh-starrer-headed-for-usd-3-million-mark-on-opening-weekend-in-usa/articleshow/129492826.cms",
+    "time": "2026-03-12T05:20:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'One Piece Season 2' ending explained",
+    "desc": "The Straw Hat Pirates concluded their Drum Island adventure with a thrilling victory against the tyrannical King Wapol. Tony Tony Chopper, a reindeer doctor, found peace as the crew, inspired by Luffy, helped liberate the island. A new threat emerges as Marine Captain Smoker mistakenly targets the Straw Hats, setting the stage for future confrontations.",
+    "img": "https://static.toiimg.com/photo/msid-129492869,imgsize-1006233.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/anime/one-piece-season-2-ending-explained-drum-island-showdown-sets-up-bigger-battles-ahead/articleshow/129492877.cms",
+    "time": "2026-03-12T05:15:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2': Yami to make a cameo in hospital setting?",
+    "desc": "The Revenge', linking it to 'Uri: The Surgical Strike'. Her cameo, set in a hospital, is said to advance the espionage thriller's plot at a crucial moment. Speculation also hints at Vicky Kaushal's potential return, though details remain under wraps. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129492139,imgsize-76270.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-yami-gautam-to-make-a-special-appearance-in-a-hospital-setting-report/articleshow/129492139.cms",
+    "time": "2026-03-12T04:53:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘One Piece’ season 2 X reviews reveal fans’ continued love for the show",
+    "desc": "Fans are buzzing with excitement for 'One Piece' season 2, released on March 10th. The new episodes follow Luffy's Straw Hat Pirates as they venture into the Grand Line, facing new villains and introducing beloved characters like Tony Tony Chopper.",
+    "img": "https://static.toiimg.com/photo/msid-129492143,imgsize-601306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/one-piece-season-2-x-reviews-fans-rave-about-the-new-season-so-dope/articleshow/129492143.cms",
+    "time": "2026-03-12T04:52:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "All England win, foundation of my coaching path: Pullela Gopichand",
+    "desc": "Despite a challenging journey and a body weakened by previous surgeries, Pullela Gopichand achieved a life-changing All England victory in 2001. His rigorous Olympic preparation, though ending in early defeat, instilled a mental fortitude that proved crucial. The win provided recognition and laid the groundwork for his future coaching career and badminton development.",
+    "img": "https://static.toiimg.com/photo/msid-129492215,imgsize-19940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/all-england-win-foundation-of-my-coaching-path-pullela-gopichand/articleshow/129492100.cms",
+    "time": "2026-03-12T04:51:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nicole Kidman's 'Scarpetta'",
+    "desc": "In a thrilling new eight-part series, Nicole Kidman takes on the role of Kay Scarpetta, a forensic pathologist whose character finally makes her on-screen debut. This gripping drama intricately weaves a contemporary investigation with flashbacks to a crucial case from the late 1990s, while also delving into Scarpetta’s nuanced family relationships.",
+    "img": "https://static.toiimg.com/photo/msid-129491905,imgsize-82620.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/nicole-kidmans-scarpetta-everything-you-need-to-know-about-the-crime-thriller/articleshow/129491905.cms",
+    "time": "2026-03-12T04:44:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indian national killed as Iran ‘suicide boat’ hits US-owned tanker Safesea Vishnu off Iraq",
+    "desc": "An Indian national has died following an attack by an Iranian suicide boat on a US-owned oil tanker near Iraq. The incident occurred off the Khor Al Zubair port, with the remaining 27 crew members rescued. The company expressed devastation and urged the Indian government to condemn the attack and ensure seafarer safety amid regional tensions",
+    "img": "https://static.toiimg.com/photo/msid-129492497,imgsize-47214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indian-national-killed-as-iran-suicide-boat-hits-us-owned-tanker-safesea-vishnu-off-iraq/articleshow/129491725.cms",
+    "time": "2026-03-12T04:33:23.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "‘VVS and I were not big talkers in the middle’: Dravid recalls 2001 Eden Test",
     "desc": "Rahul Dravid reflects on the iconic Eden Gardens Test victory against Australia, highlighting the tactical brilliance of batting at No. 6 and his marathon partnership with VVS Laxman. He emphasises how this monumental win, a testament to team effort and resilience, proved a significant turning point for Indian cricket, instilling belief and paving the way for future successes.",
@@ -28,7 +226,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "How Sachin Tendulkar helped Sanju Samson, and many others",
+    "title": "How Sachin helped Sanju Samson, and many others",
     "desc": "Sanju Samson credits Sachin Tendulkar's guidance for his Player of the Tournament award at the 2026 T20 World Cup, highlighting the 'God of cricket's' consistent support. Tendulkar's willingness to share his expertise, from technical advice to mental fortitude, has made him a sought-after mentor for Indian cricketers navigating challenging periods.",
     "img": "https://static.toiimg.com/photo/msid-129490756,imgsize-62554.cms",
     "src": "indiatimes.com",
@@ -63,6 +261,15 @@ const newsData_en = [
     "time": "2026-03-12T03:35:16.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Vishal Bhardwaj says, 'Good films are getting beaten'",
+    "desc": "Vishal Bhardwaj, an acclaimed filmmaker, expresses his concern over the hurdles faced by quality cinema today. With the rise of OTT platforms and compressed release schedules, he argues that securing funding for poignant, meaningful films has become increasingly challenging, pushing heartfelt storytelling to the sidelines in this tough global landscape.",
+    "img": "https://static.toiimg.com/photo/msid-129489822,imgsize-91730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vishal-bhardwaj-says-good-films-are-getting-beaten-amid-o-romeo-receiving-a-lukewarm-response-in-theaters/articleshow/129489822.cms",
+    "time": "2026-03-12T03:27:42.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Stock recommendations for March 12, 2026",
     "desc": "INOX India, and Apollo Hospitals Enterprise are buy calls from Aakash K Hindocha, Deputy Vice President - WM Research of Nuvama Professional Clients Group. The analyst recommends selling TVS Motor Company. Below is his views on on Nifty, Bank Nifty and each of the three stocks:",
@@ -79,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/seizures-are-what-made-me-decide-i-wasnt-done-living-willa-ford-talks-about-her-health-scare/articleshow/129489209.cms",
     "time": "2026-03-12T02:56:31.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why is India staring at LPG shortage?",
-    "desc": "The Indian LPG system is designed for operational flow, not stockpiling. And there are no concrete proposals currently to increase large underground storage either. The International Energy Agency (IEA) has flagged the lack of such storage as an infrastructural weakness in India.",
-    "img": "https://th-i.thgim.com/public/incoming/d84jgf/article70731594.ece/alternates/LANDSCAPE_1200/2026-03-11T133205Z_468406883_RC292KAZMBSO_RTRMADP_3_IRAN-CRISIS-LPG-INDIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/surging-lpg-consumption-and-inadequate-storage-put-india-in-a-bind/article70731586.ece",
-    "time": "2026-03-12T02:54:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -181,15 +379,6 @@ const newsData_en = [
   },
   {
     "cat": "World",
-    "title": "Trump administration kicks off new process to try to replace tariffs struck down by U.S. Supreme Court",
-    "desc": "Trump and his team have made clear that they're seeking to replace the hundreds of billions of dollars in lost revenues after the Supreme Court's February ruling by using different laws to establish new tariffs",
-    "img": "https://th-i.thgim.com/public/incoming/bjbkde/article70733567.ece/alternates/LANDSCAPE_1200/2026-03-11T214433Z_2145729687_RC223IAC5XPE_RTRMADP_3_USA-TRUMP-TARIFFS-301.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-administration-kicks-off-new-process-to-try-to-replace-tariffs-struck-down-by-supreme-court/article70733566.ece",
-    "time": "2026-03-12T01:53:25.000Z"
-  },
-  {
-    "cat": "World",
     "title": "U.S. will permanently close consulate in Peshawar, Pakistan, its closest mission to Afghanistan",
     "desc": "The department notified Congress this week of its intent to close the consulate and said it would save $7.5 million per year, while not adversely affecting its ability to advance U.S. national interests in Pakistan",
     "img": "https://th-i.thgim.com/public/incoming/yrqsj0/article70733594.ece/alternates/LANDSCAPE_1200/iStock-1340938288.jpg",
@@ -208,48 +397,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Andrea Bocelli reacts to Timothée Chalamet's opera remarks",
-    "desc": "Legendary tenor Andrea Bocelli responded to Timothée Chalamet's dismissive remarks about opera and ballet with an open invitation. Bocelli emphasized the timeless appeal and emotional power of these art forms, suggesting Chalamet might discover their value through live experience. He offered to host the actor at one of his concerts, promoting unity over division.",
-    "img": "https://static.toiimg.com/photo/msid-129486715,imgsize-826556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/andrea-bocelli-reacts-to-timothee-chalamets-opera-remarks-would-be-happy-to-welcome-him-as-a-guest-at-one-of-my-concerts/articleshow/129486721.cms",
-    "time": "2026-03-12T01:12:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Kritika-Gaurav's wedding: INSIDE pics from their ceremony",
     "desc": "Kritika Kamra and Gaurav Kapur have officially embarked on their journey together, celebrating their love in a private registered marriage ceremony at their Bandra home. The candlelit gathering, filled with warmth and laughter, saw only close family and charming friendships present, with celebrated photographer Joseph Radhik immortalizing the special moments. Read on to know more in details.",
     "img": "https://static.toiimg.com/photo/msid-129485599,imgsize-87700.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kritika-kamra-and-gaurav-kapurs-wedding-first-inside-photos-from-their-intimate-ceremony-at-their-mumbai-home/articleshow/129485599.cms",
     "time": "2026-03-12T01:12:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Pennu Case' OTT release: Where to stream comedy film",
-    "desc": "The Malayalam comedy-drama 'Pennu Case,' now streaming on Amazon Prime Video, tells the story of a con woman who marries multiple men across states. Her elaborate deception unravels at a wedding when over ten grooms arrive to expose her. Despite a compelling premise, the film received mixed reviews for its execution.",
-    "img": "https://static.toiimg.com/photo/msid-129486281,imgsize-144600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pennu-case-ott-release-where-to-watch-nikhila-vimals-comedy-entertainer-online/articleshow/129486281.cms",
-    "time": "2026-03-12T00:56:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All about Pooja Hegde’s home in Bandra",
-    "desc": "Nestled in the heart of Bandra, Pooja Hegde's luxury apartment boasts breathtaking vistas of the sea, embodying a harmonious blend of modern flair and classic Indian elegance. The airy living area, filled with natural light, showcases plush beige seating and a distinctive terrazzo fireplace, while the sleek kitchen, with its navy-blue cabinets, balances functionality with sophistication.",
-    "img": "https://static.toiimg.com/photo/msid-129486199,imgsize-120246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/a-look-inside-pooja-hegdes-lavish-apartment-a-mix-of-modern-architecture-with-indian-classic/articleshow/129486199.cms",
-    "time": "2026-03-12T00:53:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Drishyam 3’: Mohanlal's film teaser to release soon",
-    "desc": "Excitement for Drishyam 3 is soaring as reports indicate the teaser has completed censorship, boasting a 1 minute 44 second runtime. Mohanlal's return as Georgekutty promises a gripping conclusion to the beloved franchise, with the film slated for an April 2, 2026 release, aiming for a definitive end to the family's saga.",
-    "img": "https://static.toiimg.com/photo/msid-129485985,imgsize-63034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/drishyam-3-teaser-mohanlal-returns-as-georgekutty-1-min-44-seconds-teaser-censored-reports/articleshow/129485985.cms",
-    "time": "2026-03-12T00:41:43.000Z"
   },
   {
     "cat": "Sports",
@@ -268,33 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricketer-mohammad-rizwans-i-dont-watch-indias-matches-remark-resurfaces-after-bangladesh-humiliation/articleshow/129469055.cms",
     "time": "2026-03-12T00:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kneecap rapper WINS court battle over terrorism charge",
-    "desc": "An Irish-language singer from punk-rap group Kneecap will not face a terrorism charge after UK prosecutors lost a High Court challenge Wednesday against a judge's decision to dismiss the case. But in its decision on Wednesday, a two-judge panel at the High Court dismissed the appeal, siding with the chief magistrate.",
-    "img": "https://static.toiimg.com/photo/msid-129485664,imgsize-132180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/kneecap-rapper-wins-court-battle-against-uk-prosecutors-over-terrorism-charge/articleshow/129483853.cms",
-    "time": "2026-03-12T00:23:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nicole Kidman opens up about separating from Keith Urban",
-    "desc": "Nicole Kidman has broken her silence following her divorce from Keith Urban, sharing her first public thoughts on their split. After a period of quiet reflection, the actress expressed optimism for 2026, hinting at upcoming projects and her commitment to family. Kidman emphasized her focus on her daughters and maintaining a united family front.",
-    "img": "https://static.toiimg.com/photo/msid-129485667,imgsize-1067181.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nicole-kidman-breaks-the-silence-on-the-end-of-her-19-year-marriage-to-keith-urban-i-was-in-my-shell/articleshow/129485672.cms",
-    "time": "2026-03-12T00:23:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Release date out",
-    "desc": "A documentary chronicling Tamil star Ajith Kumar's professional racing journey is reportedly set for a grand theatrical release on May 1, 2026, coinciding with his birthday. Directed by A. L. Vijay, the film captures his motorsport experiences. Netflix has secured the OTT rights, with the score composed by G. V. Prakash Kumar.",
-    "img": "https://static.toiimg.com/photo/msid-129485519,imgsize-100122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ajith-kumar-racing-documentary-may-1-birthday-premiere-planned-for-aks-passion-project-reports/articleshow/129485519.cms",
-    "time": "2026-03-12T00:18:39.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +540,6 @@ const newsData_en = [
     "time": "2026-03-11T16:05:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Mamata holds review meeting on LPG crisis, calls for SOP and rationing of cylinders",
-    "desc": "People were seen crowding the offices of distribution agencies. Many complained that they have run out of LPG and cannot book a refill. Some schools said that they have no LPG to cook mid-day meals",
-    "img": "https://th-i.thgim.com/public/incoming/bf1t3h/article70518600.ece/alternates/LANDSCAPE_1200/20260113404L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/mamata-holds-review-meeting-on-lpg-crisis-calls-for-sop-and-rationing-of-cylinders/article70731780.ece",
-    "time": "2026-03-11T15:46:49.000Z"
-  },
-  {
     "cat": "World",
     "title": "Official",
     "desc": "24 of the vessels are on the western part of the 778 seafarers onboard778 seafarers onboard778 seafarers onboard with 677 seafarers, while 4 vessels with 101 persons are on the eastern side, Rajesh Kumar Sinha, Special Secretary in the Ministry of Ports, Shipping and Waterways",
@@ -448,24 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-schedule-announced-chinnaswamy-to-host-rcb-vs-srh-in-tournament-opener-on-march-28/articleshow/129463764.cms",
     "time": "2026-03-11T14:03:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Asian Weightlifting C'ships in India postponed due to Middle East conflict",
-    "desc": "The Asian Weightlifting Championships in Ahmedabad have been postponed from April 1–10 to May 12–17, 2026 due to the ongoing conflict in West Asia. The Asian Weightlifting Federation said the change was made to ensure safe travel and participation for all teams, as airspace disruptions in parts of the Middle East and Gulf region have affected international flights.",
-    "img": "https://static.toiimg.com/photo/msid-129465877,imgsize-108148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/asian-weightlifting-championships-in-india-postponed-due-to-middle-east-conflict/articleshow/129464213.cms",
-    "time": "2026-03-11T13:58:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hilarious! Barcelona fan lands at wrong St James Park, misses UCL clash",
-    "desc": "A Barcelona fan accidentally travelled nearly 600 km to Exeter instead of Newcastle after searching “St James Park” on his phone while trying to watch Barcelona’s Champions League match. He ended up watching Exeter City lose 1-0 to Lincoln instead. A club official said, “One of our volunteers… turned up expecting to see FC Barcelona.” Staff gave him a ticket anyway.",
-    "img": "https://static.toiimg.com/photo/msid-129463750,imgsize-184640.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/champions-league/top-stories/hilarious-barcelona-fan-lands-at-wrong-st-james-park-watches-third-tier-game-instead-of-champions-league-clash/articleshow/129463331.cms",
-    "time": "2026-03-11T13:12:30.000Z"
   },
   {
     "cat": "Sports",
@@ -511,24 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-thought-my-dream-was-broken-sanju-samsons-emotional-confession-after-t20-world-cup-glory/articleshow/129454706.cms",
     "time": "2026-03-11T10:20:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Shivam Dube had to travel by train after India's T20 World Cup glory",
-    "desc": "After India’s 2026 T20 World Cup win, Shivam Dube couldn’t find flights from Ahmedabad to Mumbai, so he travelled by train with his wife and a friend in 3rd AC. To avoid being recognised, he wore a cap and mask and boarded early morning. A ticket checker almost exposed him, but his wife quickly dismissed the suspicion, and the journey stayed smooth.",
-    "img": "https://static.toiimg.com/photo/msid-129453621,imgsize-18036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/why-shivam-dube-had-to-travel-by-train-after-indias-t20-world-cup-glory/articleshow/129452880.cms",
-    "time": "2026-03-11T09:58:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan closes in on No.1 Abhishek; Varun loses top spot",
-    "desc": "Abhishek Sharma maintains his No.1 T20I batting ranking despite a below-par T20 World Cup 2026 campaign, thanks to a match-winning 52 in the final. Ishan Kishan rose to second after a stellar tournament, while Rashid Khan reclaimed the top bowling spot.",
-    "img": "https://static.toiimg.com/photo/msid-129451865,imgsize-52656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-t20i-rankings-ishan-kishan-closes-in-on-no-1-abhishek-sharma-varun-chakaravarthy-loses-top-spot/articleshow/129451511.cms",
-    "time": "2026-03-11T09:27:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -817,86 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/iran-not-indian-corporates-top-priorities-days-ahead-of-attack/article70715571.ece",
     "time": "2026-03-07T19:31:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Government announces standards of green ammonia, green methanol",
-    "desc": "The mission was approved by the Union Cabinet on January 4, 2023, with an initial outlay of ₹19,744 crore to make India a global hub for production, utilisation and export of green hydrogen and its derivatives",
-    "img": "https://th-i.thgim.com/public/news/national/855wvk/article70716775.ece/alternates/LANDSCAPE_1200/iStock-1414841794.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/government-announces-standards-of-green-ammonia-green-methanol/article70716720.ece",
-    "time": "2026-03-07T16:29:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Hello Bachhon’ series review: Viineet Kumar Siingh’s earnesty gets diffused in TVF’s factory-made snoozefest",
-    "desc": "With a simplistic understanding of the world that extends even to its laid-back aesthetics, the show ends up feeling more like a mouthpiece of Physics Wallah, as it merely registers the journey of the ed-tech giant from a broad perspective",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/xmox3e/article70711018.ece/alternates/LANDSCAPE_1200/Vineet.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/hello-bachhon-series-review-viineet-kumar-siinghs-earnesty-gets-diffused-in-tvfs-factory-made-snoozefest/article70711007.ece",
-    "time": "2026-03-06T10:14:56.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "U.S. House committee wants travel companies to answer questions on use of AI for pricing",
-    "desc": "Surveillance pricing is a strategy ‌where ⁠companies use a consumer’s personal data — such as browsing history, location and ⁠shopping habits — to set individualised, algorithmic prices for products, as opposed to using standard, market-wide pricing",
-    "img": "https://th-i.thgim.com/public/incoming/yvik1f/article70710052.ece/alternates/LANDSCAPE_1200/2026-03-05T015719Z_1080327958_RC2XXJAV6C3Z_RTRMADP_3_CHILE-MOBILE-PHONES-SCHOOLS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/us-house-committee-wants-travel-companies-to-answer-questions-on-use-of-ai-for-pricing/article70710041.ece",
-    "time": "2026-03-06T06:03:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Thavil artiste Amirthavarshini: Performing with A.R. Rahman was a wonderful experience",
-    "desc": "From playing the thavil in the temples of Mannargudi near Thanjavur as a schoolgirl to joining A.R. Rahman’s ‘Wonderment Tour’ concert in Chennai recently, Amirthavarshini Manishankar’s musical journey seems like a fairy tale. But in reality, it is also a story of conviction and perseverance — of a young girl carving a space for herself as a thavil artiste in the male‑dominated world of Carnatic percussion.",
-    "img": "https://th-i.thgim.com/public/incoming/42r6ll/article70706717.ece/alternates/LANDSCAPE_1200/amirthavarshini.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-thavil-artiste-amirthavarshini-performing-with-ar-rahman-was-a-wonderful-experience/article70706716.ece",
-    "time": "2026-03-05T09:37:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Lanterns’ teaser: Kyle Chandler and Aaron Pierre’s tense partnership to steer upcoming DC series",
-    "desc": "HBO has unveiled the first teaser for Lanterns, offering a glimpse of Kyle Chandler’s veteran Hal Jordan and Aaron Pierre’s rookie John Stewart as the two Green Lanterns investigate a mysterious murder on Earth while clashing over authority and experience",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/2rggar/article70706164.ece/alternates/LANDSCAPE_1200/MV5BMWM1Mzk0MTgtNGNlNC00MDZiLWIyMDQtZDgxY2Y5NTlmMWQzXkEyXkFqcGc._V1_.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/lanterns-teaser-kyle-chandler-and-aaron-pierres-tense-partnership-to-steer-upcoming-dc-series/article70706165.ece",
-    "time": "2026-03-05T06:05:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bejoy Nambiar Interview: Why I never watched the original",
-    "desc": "In this episode of Inside Man, Sudhish Kamath sits down with filmmaker Bejoy Nambiar, director of Tu Yaa Main, for a candid conversation about finding — and defending — your creative voice. After years of being labelled “style over substance,” Bejoy opens up about how he battled the tag, why he has finally made peace with it, and how Tu Yaa Main — his best reviewed film yet — shifted that narrative.",
-    "img": "https://th-i.thgim.com/public/incoming/ar6ov1/article70702687.ece/alternates/LANDSCAPE_1200/05_Bejoy_Nambiar.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-bejoy-nambiar-interview-why-i-never-watched-the-original/article70702688.ece",
-    "time": "2026-03-04T08:40:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "From Tezaab to Subedar: Suresh Triveni’s Full Circle with Anil Kapoor",
-    "desc": "In this episode of Inside Man, Sudhish Kamath sits down with filmmaker Suresh Triveni — director of Subedar (releasing March 5), showrunner of Daldal on Prime Video, and the upcoming Netflix film Maa Behn starring Madhuri Dixit and Tripti Dimri. Before Tumhari Sulu, Suresh waited nearly eight years to make his breakthrough film. Since then, he went on to direct Jalsa — and now finds himself with three major releases in a single year.",
-    "img": "https://th-i.thgim.com/public/incoming/fm34ox/article70702483.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20at%2012.21.44%E2%80%AFPM.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-from-tezaab-to-subedar-suresh-trivenis-full-circle-with-anil-kapoor/article70702461.ece",
-    "time": "2026-03-04T06:56:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘One Piece’ creator Eiichiro Oda hides series’ biggest secret under the ocean as manga hits 600 million copies",
-    "desc": "In a special project revealed through an official video, Oda wrote down the answer to the central question of the story — the nature of the legendary treasure known as One Piece — for the first time",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/hcqtey/article70702256.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-04%20111111.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/one-piece-creator-eiichiro-oda-hides-series-biggest-secret-under-the-ocean-as-manga-hits-600-million-copies/article70702244.ece",
-    "time": "2026-03-04T05:43:50.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Anthropic’s resistance to the U.S. Department of Defence, OpenAI’s entry: Explained",
-    "desc": "The Dario Amodei-led firm refused to cooperate with the U.S. government’s demands that the firm’s products be used in the deployment of autonomous strikes. The firm has been threatened with being designated as a “supply chain risk”",
-    "img": "https://th-i.thgim.com/public/incoming/r2lf9o/article70698914.ece/alternates/LANDSCAPE_1200/2026-03-02T143303Z_571373715_RC2EWJADNSPA_RTRMADP_3_USA-PENTAGON-ANTHROPIC.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/anthropics-resistance-to-the-us-department-of-defense-openais-entry-explained/article70698887.ece",
-    "time": "2026-03-03T10:45:55.000Z"
   }
 ];

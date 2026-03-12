@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "3.70 લાખની કાર પર 42500 રૂપિયાનું બમ્પર ડિસ્કાઉન્ટ, મળશે 33.85 km/kg માઇલેજ",
+    "desc": "જો તમને કહીએ કે 4 લાખ રૂપિયાથી સસ્તી કાર પર તમને 40 હજાર રૂપિયાથી વધુની છૂટ મળી રહી છે તો તમે લગભગ વિશ્વાસ નહીં કરો, પરંતુ માર્ચના મહિનામાં આ સંભવ થઈ રહ્યું છે. મારૂતિની સસ્તી કાર અલ્ટો કે10 પર બમ્પર ડિસ્કાઉન્ટ મળી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-alto-k10-buyers-can-avail-discount-upto-42500-rupees-468235 ",
+    "time": "2026-03-12T06:47:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ગુજરાત ટાઈટન્સનું ફુલ શેડ્યૂલ જાહેર ! જાણો ક્યારે અને કોની સામે રમાશે પ્રથમ મેચ",
+    "desc": "IPL 2026નું શેડ્યૂલ જાહેર કરવામાં આવ્યું છે. ચૂંટણીના કારણે સંપૂર્ણ શેડ્યૂલ જાહેર કરવામાં આવ્યું નથી. પ્રથમ 20 મેચોનું જ શેડ્યૂલ જાહેર કરાયું છે. ત્યારે આ દરમિયાન ગુજરાતની કેટલી મેચો રમાશે અને પ્રથમ મેચ કોની સામે રમાશે તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-schedule-gujarat-titans-match-date-time-and-venue-468222 ",
+    "time": "2026-03-12T06:20:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI આપેલી 131 કરોડની ઈનામી રકમ ખેલાડીઓ વચ્ચે કેવી રીતે વહેંચાશે ? જાણો દરેકના ભાગે કેટલા આવશે",
+    "desc": "ભારતીય ક્રિકેટ ટીમે ફાઇનલમાં ન્યુઝીલેન્ડને 95 રને હરાવીને ત્રીજી વખત T20 વર્લ્ડ કપ જીત્યો હતો. જે બાદ બોર્ડે ટીમ માટે રૂપિયા 131 કરોડની ઇનામી રકમની જાહેરાત કરી હતી. ત્યારે આ રકમ ટીમના ખેલાડીઓ વચ્ચે કેવી રીતે વહેંચાશે અને દરેકના ભાગે કેટલા આવશે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/how-would-bcci-131-crore-reward-will-be-devided-between-team-india-players-468216 ",
+    "time": "2026-03-12T05:20:24.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાનના હુમલામાં ભારતીયનું મોત, અમેરિકી તેલ ટેન્કરને બનાવ્યું નિશાન, સ્યુસાઇડ બોટથી મારી ટક્કર",
+    "desc": "સેફસી વિષ્ણુ નામનું આ તેલ ટેન્કર ખોર અલ ઝુબૈર પોર્ટ જઈ રહ્યું હતું. આ દરમિયાન તેના પર હુમલો થયો હતો. આ વિસ્તાર ઇરાકના જળક્ષેત્રમાં આવે છે. ઈરાન-અમેરિકા યુદ્ધમાં લગભગ આ પ્રથમ ઘટના છે, જ્યારે કોઈ ભારતીયે જીવ ગુમાવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/indian-national-killed-in-iranian-attack-us-oil-tanker-engulfed-in-flames-after-collision-with-suicide-boat-468214 ",
+    "time": "2026-03-12T05:04:49.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "IPL 2026 પહેલા ગુજરાત ટાઇટન્સમાં ગૌતમ ગંભીરના ખાસ વ્યક્તિની એન્ટ્રી, KKR ને બનાવી ચૂક્યા છે ચેમ્પિયન",
     "desc": "આઈપીએલ 2026ની તૈયારીઓ પૂરજોશમાં ચાલી રહી છે. સીઝન 19 ની શરૂઆત 28 માર્ચથી થવા જઈ રહી છે અને BCCI દ્વારા તેના પ્રથમ ફેઝનું શેડ્યૂલ પણ જાહેર કરી દેવામાં આવ્યું છે. આ દરમિયાન ગુજરાત ટાઇટન્સની ટીમ એક અલગ જ તૈયારીમાં વ્યસ્ત છે. હવે કોલકાતા નાઈટ રાઈડર્સ (KKR) ને ચેમ્પિયન બનાવનાર દિગ્ગજ કોચની ગુજરાતની ટીમમાં એન્ટ્રી થઈ છે.",
@@ -315,15 +351,6 @@ const newsData_gu = [
     "time": "2026-03-09T16:46:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પેટ્રોલ અને ડીઝલના ભાવ પર ફક્ત મોદી સરકારની ગેરંટી, દુનિયાભરમાં હાલત ખરાબ; જાણો કેટલે પહોંચશે ક્રૂડના ભાવ?",
-    "desc": "શું પેટ્રોલ અને ડીઝલના ભાવ વધવાના છે. શું યુદ્ધને કારણે કિંમતો વધી શકે? તો જવાબ છે.... ના.. કેમ કે સરકારે સ્પષ્ટ કહ્યું છે કે ભારત પાસે પૂરતું તેલ ઉપલબ્ધ છે અને હાલમાં તેની કોઈ અછત પડવાની નથી. જો કે દુનિયાના બીજા દેશોમાં તેલના ભાવને લઈને ભારે ઉથલપાથલ મચી છે. મિડલ ઈસ્ટમાં ચાલતા યુદ્ધે અડધી દુનિયાના દેશોની ચિંતા વધારી દીધી છે. કેમ કે કાચા તેલના ભાવ જેમ વધતા જઈ રહ્યા છે, તે જોતા આગામી દિવસોમાં મુશ્કેલી વધી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/modi-government-guarantee-on-petrol-and-diesel-prices-situation-is-bad-all-over-the-world-know-how-much-crude-prices-will-reach-467861 ",
-    "time": "2026-03-09T16:41:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "LPG સિલિન્ડર પર સરકારનો મોટો નિર્ણય, ઘરેલુ ગેસ સિલિન્ડર બુક કરવાના નિયમોમાં ફેરફાર",
     "desc": "LPG સિલિન્ડર માટે સરકારે મોટો નિર્ણય કર્યો છે, જે દેશના કરોડો લોકોને અસર કરશે. આ પગલું એ માટે લેવામાં આવ્યું છે કે LPGની સંગ્રહખોરીને રોકવામાં આવે, જેથી તમામ ગ્રાહકોને સમયસર ગેસનો પૂરતો પુરવઠો મળી રહે.",
@@ -331,15 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/government-big-decision-on-lpg-cylinders-changes-in-rules-for-booking-domestic-gas-cylinders-467860 ",
     "time": "2026-03-09T16:16:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ટી20 વર્લ્ડ કપ જીતાડવામાં સિંહફાળો આપનારા સંજુ સેમસનના પિતા આ શું બોલ્યા? કોણે કર્યો હતો પુત્ર સાથે અન્યાય",
-    "desc": "ટી20 વર્લ્ડ કપ 2026 ટુર્નામેન્ટ ખાસ કરીને સંજુ સેમસન માટે ખુબ સારી રહી. ટીમને ફરીથી વર્લ્ડ કપ જીતાડવામાં તેનો સિંહફાળો રહ્યો જેને પગલે તે પ્લેયર ઓફ ધ સિરીઝ પણ બન્યો. સંજુના પિતા આ વાતથી ખુબ ખુશ પણ છે પરંતુ આમ છતાં તેમણે ભૂતકાળની કડવી યાદો યાદ કરીને બળાપો કાઢ્યો. જાણો તેમણે શું કહ્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-player-of-the-tournament-sanju-samson-father-samson-vishwanath-speaks-about-son-467857 ",
-    "time": "2026-03-09T15:21:30.000Z"
   },
   {
     "cat": "Tech",
@@ -414,24 +432,6 @@ const newsData_gu = [
     "time": "2026-03-08T13:38:04.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Post Office ની ધાંસૂ સ્કીમ, ₹2 લાખનું રોકાણ કરો અને ઘર બેઠા મેળવો 90 હજારનો ફાયદો!",
-    "desc": "જો તમે જોખમ વગર શાનદાર રિટર્ન ઈચ્છો છો તો પોસ્ટ ઓફિસની ટાઇમ ડિપોઝિટ સ્કીમ એક શાનદાર વિકલ્પ છે. આ સરકારી યોજનામાં માત્ર 2 લાખના રોકાણથી 5 વર્ષમાં તમે 90 હજારની કમાણી કરી શકો છો. તેમાં તમારા પૈસા સુરક્ષિત રહે છે અને ટેક્સ છૂટનો પણ લાભ મળે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/post-office-time-deposit-scheme-invest-2-lakh-and-get-a-profit-of-90000-467673 ",
-    "time": "2026-03-08T09:57:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મા પગાર પંચમાં મળશે આટલો પગાર! કેન્દ્રીય કર્મચારીઓ માટે સારા સમાચાર",
-    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ માટે 8મા પગાર પંચ અંગે કર્મચારી સંગઠનોની માંગણીઓ તીવ્ર બની છે. તેના જવાબમાં, ફેડરેશન ઓફ નેશનલ પોસ્ટલ ઓર્ગેનાઇઝેશન (FNPO) એ નેશનલ કાઉન્સિલ, જોઈન્ટ કન્સલ્ટેટિવ ​​મિકેનિઝમ (JCM) સ્ટાફ સાઇડને એક આવેદનપત્ર આપ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-is-how-much-salary-will-be-given-under-the-8th-pay-commission-good-news-for-central-employees-467670 ",
-    "time": "2026-03-08T09:49:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "અનુ સામે આવશે આર્યનું અતિત, પુષ્પા લગ્ન કરશે કેન્સલ, જાણો આવનારા એપિસોડ વિશે",
     "desc": "\"તુમ સે તુમ તક\" સિરિયલમાં, ગોપાલ અનુ અને આર્યના પ્રેમમાં હાર માની લે છે. તેણે તેમના સંબંધનો સ્વીકાર કરી લીધો છે. આ દરમિયાન, મીરાએ પણ આર્ય સમક્ષ પોતાના પ્રેમનો સ્વીકાર કરી લીધો છે. સિરિયલમાંમાં એક નવો વળાંક આવવાનો છે.",
@@ -484,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-official-trailer-released-watch-now-here-467497 ",
     "time": "2026-03-07T06:43:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાન જંગમાં હવે રશિયાની સીધી એન્ટ્રી! ડ્રોન અને બેલેસ્ટિક મિસાઈલો એમ જ કઈ નથી કરી રહ્યા અમેરિકી બેઝને ટાર્ગેટ",
-    "desc": "ઈરાન પર ઈઝરાયેલ અને અમેરિકાએ શરૂ કરેલા યુદ્ધનો આજે સાતમો દિવસ છે. આ વચ્ચે અમેરિકન રક્ષામંત્રાલય અને ખૂફિયા એજન્સીઓએ રાષ્ટ્રપતિ ટ્રમ્પને એવી વિગતો આપી છે કે ટ્રમ્પ ધૂઆપૂઆં થઈ ગયા છે. ઈરાન પર જીતના દાવા કરતાં ટ્રમ્પને એવી તો શું ખબર પડી છે કે આખી ગેમ બદલાઈ શકે છે. તો જાણી લો શું છે આ વિગતો......",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/is-russia-indirectly-supporting-iran-to-attack-america-why-such-speculation-is-happening-467444 ",
-    "time": "2026-03-06T15:47:06.000Z"
   },
   {
     "cat": "Tech",
@@ -565,14 +556,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/samsung-user-around-the-world-will-start-dancing-the-company-has-given-a-gift-now-they-will-be-able-to-talk-without-a-network-466450 ",
     "time": "2026-02-27T14:56:14.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "1 માર્ચથી ભારતમાં કરોડો યુઝર્સ માટે whatsapp થઈ જશે બંધ! ફટાફટ કરો ચેક",
-    "desc": "ભારતમાં સિમ બાઇડિંગના નિયમ લાગૂ થવા જઈ રહ્યાં છે. સરકારના આ નિર્ણયથી WhatsApp યુઝર્સ પ્રભાવિત થશે. પરંતુ તે માત્ર WhatsApp માટે નથી. આ નિયમથી તમામ એવી એપ્સ પ્રભાવિત થશે જે ફોન નંબરથી ચાલે છે, ખાસ કરી મેસેજિંગ એપ્સ જેને OTT પણ કહેવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/sim-binding-rule-whatsapp-telegram-users-impact-466411 ",
-    "time": "2026-02-27T10:54:44.000Z"
   }
 ];
