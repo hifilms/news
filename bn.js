@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "বাড়িতে 'কত' লিটার পেট্রোল রাখলে আপনার 'জেল' হতে পারে জানেন...? চমকাবেন শুনলেই!",
+    "desc": "বাড়ছে পেট্রোল-ডিজেলের দাম? অনেকেই বড় বড় ড্রামে পেট্রোল ডিজেল নিয়ে জমা করছেন বাড়িতে। এমন বহু ভিডিওও ভাইরাল হয়েছে সোশ্যাল মিডিয়াতে। কিন্তু জানেন কী আদতে পেট্রোলের ঘাটতি কতটা? আদৌ কতটা পেট্রোল আপনি বাড়িতে রাখতে পারেন আইনত? কতটা পেট্রোল বা ডিজেল রাখলে পড়বেন বিপদে?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/petrol-2-2026-03-6786705ffb07c59af4165418dd8b181f-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/petrol-do-you-know-how-many-liters-of-petrol-if-you-store-at-home-it-will-land-you-to-jail-you-will-be-shocked-to-hear-this-law-be-alert-before-storing-excessive-fuel-at-home-out-of-panic-sanj-2581510.html",
+    "time": "2026-03-12T09:14:45.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "জয়শঙ্করের ফোনেই ছাড়পত্র, বড় কূটনৈতিক সাফল্য ভারতের ! হরমুজ প্রণালী পেরিয়ে মুম্বই বন্দরে পৌঁছল প্রথম জাহাজ",
+    "desc": "India Receives First Crude Oil Shipment as Tanker Safely Reaches Mumbai Port: বুধবার ইরানের বিদেশমন্ত্রী আরাঘচির সঙ্গে ফোনে কথা হয় ভারতের বিদেশমন্ত্রী এস জয়শঙ্করের। এর পরেই হরমুজ প্রণালীতে সেফ প্যাসেজ পেল ভারতের ক্রুড অয়েলবাহী জাহাজ।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Jaishankar-Diplomacy-Wins-in-Straight-Of-Hormuz-Indian-Tanker-2026-03-6be2b0f22cbb0024e51bb02f3cd30d0b-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/jaishankars-diplomacy-wins-oil-tanker-shenlong-safely-crosses-strait-of-hormuz-for-mumbai-port-ss-2581443.html",
+    "time": "2026-03-12T08:36:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Iran-Israel Conflict: হরমুজ পেরিয়ে অপরিশোধিত তেল নিয়ে মুম্বইয়ে প্রথম জাহাজ",
+    "desc": "হরমুজ পেরিয়ে মুম্বইয়ে জাহাজ। অপরিশোধিত তেল নিয়ে মুম্বইয়ে জাহাজ। হরমুজ প্রণালী পেরিয়ে প্রথম জাহাজ ভারতে। মুম্বইয়ের বন্দরে পৌঁছল শেংলং জাহাজ। সৌদি আরব থেকে ভারতে তেলবাহী জাহাজ। অশোধিত তেল নিয়ে মুম্বই বন্দরে শেনলং জাহাজ। সৌদি আরবের রাস টানুরা বন্দর থেকে ভারতে জাহাজ। মধ্যপ্রাচ্যে মহাযুদ্ধের আঁচ পড়ছে হরমুজ প্রণালীতে। প্রণালীতে আটকে একাধিক দেশি-বিদেশি জাহাজ",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Saudi-crude-vessel-docks-in-Mumbai-2026-03-c211fc3ba476e6f7b37b373d94af5187-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/iran-israel-conflict-saudi-crude-vessel-docks-in-mumbai-first-india-bound-tanker-via-strait-of-hormuz-since-us-iran-war-rm-2581366.html",
+    "time": "2026-03-12T08:14:17.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "টানা ২০ বছর অপেক্ষার পর একেবারে মাথা লক্ষ্য করে গুলি, ফারুক আবদুল্লার উপরে হামলাকারী কে এই ব্যক্তি?",
     "desc": "বুধবার সন্ধেয় খুব অল্পের জন্য রক্ষা পেলেন জম্মু ও কাশ্মীরের রাজ্যপাল ফারুক আবদুল্লা। জম্মুর গ্রেটার কৈলাসে একটি বিয়েবাড়িতে তাকে লক্ষ্য় করে গুলি চালিয়ে দেয় এক ব্যক্তি। ভাগ্য়ক্রমে ফারুকের দেহরক্ষীরা হামলাকারীকে মুহূর্তে সরিয়ে দেন। প্রাণে বেঁচে যান ফারুক আবদুল্লা। ন্যাশনাল কনফারেন্সের লিগ্যাল সেলের প্রেসিডেন্টের মেয়ের বিয়েতে যোগ দিতে গিয়েছিলেন ফারুক আবদুল্লা।",
@@ -88,15 +115,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/seven-arrested-for-stealing-524-gas-cylinders-from-a-truck-in-jhansi-police-recovered-cash-worth-rs-13-lakh-rmj-2579974.html",
     "time": "2026-03-11T12:30:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "মার্চেই শুরু আইপিএল! দিন ঘোষণা আজই, সবার আগে জেনে নিন সেই তারিখ! প্রথম ম্যাচ কোন কোন দলের, দেখুন",
-    "desc": "ইন্ডিয়ান প্রিমিয়ার লিগ ২০২৬-এর প্রথম পর্বের শিডিউল ঘোষণা করা হয়েছে। ডিফেন্ডিং চ্যাম্পিয়ন রয়াল চ্যালেঞ্জার্স বেঙ্গালুরু তাদের সিজন ওপেনার ম্যাচে সানরাইজার্স হায়দরাবাদের মুখোমুখি হতে পারে চিন্নাস্বামী স্টেডিয়ামে, বেঙ্গালুরু শনিবার, ২৮ মার্চ (সম্ভাব্য তারিখ, আজ ঘোষণা করতে পারে বোর্ড)।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Tata-IPL-2026-Schedule-on-13-March-2026-03-35f317342a08999165a6a71401b6f7c7-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/indian-premier-league-2026-will-start-from-28th-march-bcci-will-snnounce-soon-smj-2579939.html",
-    "time": "2026-03-11T12:25:23.000Z"
   },
   {
     "cat": "Tech",
@@ -250,15 +268,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/central-government-mandates-ekyc-to-curb-lpg-black-marketing-lpg-consumers-must-complete-e-kyc-how-to-book-gas-tib-ws-ekl-2578332.html",
     "time": "2026-03-10T14:16:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "পুরীর জগন্নাথমন্দিরে নিত্যপুজোয় মহা বিঘ্ন! বড় মাপের গোষ্ঠীদ্বন্দ্ব? বুধবারই জরুরি বৈঠক...",
-    "desc": "জগন্নাথ মন্দিরে মহাপ্রভুর নিত্য সেবায় ঘন ঘন বিঘ্ন ঘটায় উদ্বেগ বেড়েছে। ফলে মন্দির প্রশাসন অবিলম্বে ব্যবস্থা নেওয়ার সিদ্ধান্ত নিয়েছে। রীতির শৃঙ্খলা ফিরিয়ে আনতে এবং পরিস্থিতি নিয়ন্ত্রণে আনতে আগামী বুধবার ১১ মার্চ এক গুরুত্বপূর্ণ বৈঠকের আয়োজন করা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/ritual-irregularities-puri-jagannath-closed-for-four-hours-monday_644410.html ",
-    "time": "2026-03-10T14:15:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -520,15 +529,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/icc-t-20-world-cup-2026-final-2026-hardik-pandya-girlfriend-mahika-sharma-was-present-after-the-match-sta-2575450.html",
     "time": "2026-03-09T05:35:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "১০০ ডলার ছাড়াল তেল, সর্বকালীন ঐতিহাসিক রের্কড দামে; ট্রাম্পের আশ্বাস, কমবে দ্রুত",
-    "desc": "পশ্চিম এশিয়ায় উত্তেজনার জেরে বিশ্ববাজারে তেলের দাম ব্যারেল প্রতি ১০০ ডলার ছাড়িয়েছে। এই আবহেই স্বস্তির কথা বললেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তাঁর মতে, ইরানের পরমাণু হুমকি নির্মূল করার জন্য এই সাময়িক মূল্যবৃদ্ধি একটি 'সামান্য ত্যাগ'।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/trump-defends-high-oil-prices-amid-iran-conflict_644169.html ",
-    "time": "2026-03-09T05:08:25.000Z"
   },
   {
     "cat": "Politics",

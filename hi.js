@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Are you serious?': Former selector reveals Sachin Tendulkar's reaction after being told about replacing him",
+    "desc": "Sachin Tendulkar is arguably the best cricketer ever to play the sport and rightly so. He is the leading run-scorer in Tests and ODIs and played a staggering 24 years for India during his glittering...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/are-you-serious-former-selector-reveals-sachin-tendulkar-s-reaction-after-being-told-about-replacing-him-2026-03-12-1033525",
+    "time": "2026-03-12T09:18:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav reveals prize money trick from fielding coach to improve India's catching in T20 World Cup",
+    "desc": "India were always the favourites to win the T20 World Cup this year as they had not lost a single bilateral series in the last two years in the lead-up to the mega event. But...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-reveals-prize-money-trick-from-fielding-coach-to-improve-india-s-catching-in-t20-world-cup-2026-03-12-1033512",
+    "time": "2026-03-12T08:00:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI to honour Rahul Dravid with lifetime achievement award, Shubman Gill to be named Cricketer of the Year",
     "desc": "Former India cricketer Rahul Dravid will be conferred with the Col CK Nayudu Lifetime Achievement award at the BCCI's annual Naman Awards, scheduled to take place in New Delhi on March 15 (Sunday). Along with...",
     "img": "",
@@ -37,7 +55,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "'MS Dhoni never said to drop Yuvi': Former India selector debunks rumours around selection meeting",
+    "title": "'MS Dhoni never said to drop Yuvraj Singh': Former India selector debunks rumours around selection meeting",
     "desc": "MS Dhoni and Yuvraj Singh were great friends during their playing days. The duo stitched some memorable partnerships for India that turned the game in the team's favour as well. But as their careers progressed, tensions...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/iran-pulls-out-fifa-world-cup-2026-in-us-under-no-circumstances-we-can-participate-says-sports-minister-2026-03-11-1033443",
     "time": "2026-03-11T15:39:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh tumble records with stunning win over Pakistan in first ODI in Mirpur",
-    "desc": "Bangladesh seemed to have missed the T20 World Cup very badly as they treated a 50-over clash as a T20 game in the first ODI of the three-match series against Pakistan. They skittled the visitors...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ban-vs-pak-bangladesh-tumble-records-with-stunning-win-over-pakistan-in-first-odi-in-mirpur-2026-03-11-1033439",
-    "time": "2026-03-11T14:51:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 schedule announced, RCB to face SRH in opening game at Chinnaswamy Stadium on March 28",
-    "desc": "The Indian Premier League (IPL) schedule for the two weeks of the 2026 edition has been announced as the defending champions, Royal Challengers Bengaluru (RCB), will face the Sunrisers Hyderabad (SRH) in the opening game...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-schedule-announced-rcb-to-face-srh-in-opening-game-at-chinnaswamy-stadium-on-march-28-2026-03-11-1033431",
-    "time": "2026-03-11T13:31:02.000Z"
   }
 ];

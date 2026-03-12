@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ટીમ ઈન્ડિયા હવે આગામી T20 આંતરરાષ્ટ્રીય મેચ ક્યારે રમશે ? આવી ગઈ તારીખ",
+    "desc": "ટીમ ઈન્ડિયાના લગભગ બધા ખેલાડીઓ આ મહિનાના અંતમાં શરૂ થનારી આઈપીએલમાં રમશે. આ દરમિયાન તમને સવાલ થતો હશે કે ભારતીય ટીમ તેની આગામી ટી20 આંતરરાષ્ટ્રીય મેચ ક્યારે અને ક્યાં રમશે. જેની તારીખ જાહેર થઈ ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-next-t20-international-match-know-full-schedule-468271 ",
+    "time": "2026-03-12T09:30:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 શરૂ થાય તે પહેલા જ વિવાદ, સિઝનની પહેલી મેચ પર મંડરાઈ રહ્યો છે ખતરો",
+    "desc": "IPL 2026 28 માર્ચથી શરૂ થવા જઈ રહી છે. ત્યારે ટુર્નામેન્ટ શરૂ થાય તે પહેલા જ નવી મુશ્કેલી સર્જાઈ છે. IPL 2026ની પહેલી મેચ રોયલ ચેલેન્જર્સ બેંગ્લોર અને સનરાઇઝર્સ હૈદરાબાદ વચ્ચે બેંગ્લોરના એમ ચિન્નાસ્વામી સ્ટેડિયમ ખાતે રમાશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-rcb-vs-srh-first-match-in-problem-due-to-bengaluru-m-chinnaswamy-stadium-468259 ",
+    "time": "2026-03-12T08:53:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આ મારી મોટી ભૂલ હતી... ટીમમાંથી બહાર કરાતાં ગુસ્સામાં હતો આ ખેલાડી, સૂર્યાને માંગવી પડી હતી માફી",
+    "desc": "દક્ષિણ આફ્રિકા સામેની મેચમાં અક્ષર પટેલનો પ્લેઇંગ ઇલેવનમાં સમાવેશ કરવામાં આવ્યો નહોતો. ભારતીય ટીમનો તે મેચમાં કારમી હારનો સામનો કરવો પડ્યો હતો. સૂર્યકુમાર યાદવે અક્ષર પટેલને પ્લેઇંગ ઇલેવનમાંથી બહાર કરવાની પોતાની ભૂલ સ્વીકારી હતી અને અક્ષર પટેલે ગુસ્સે થતાં માફી પણ માંગી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/suryakumar-yadav-apologises-dropping-axar-patel-vs-south-africa-in-t20-world-cup-468238 ",
+    "time": "2026-03-12T07:12:08.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "3.70 લાખની કાર પર 42500 રૂપિયાનું બમ્પર ડિસ્કાઉન્ટ, મળશે 33.85 km/kg માઇલેજ",
     "desc": "જો તમને કહીએ કે 4 લાખ રૂપિયાથી સસ્તી કાર પર તમને 40 હજાર રૂપિયાથી વધુની છૂટ મળી રહી છે તો તમે લગભગ વિશ્વાસ નહીં કરો, પરંતુ માર્ચના મહિનામાં આ સંભવ થઈ રહ્યું છે. મારૂતિની સસ્તી કાર અલ્ટો કે10 પર બમ્પર ડિસ્કાઉન્ટ મળી રહ્યું છે.",
@@ -331,15 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/lpg-cylinder-crisis-india-facing-cooking-gas-shortage-commercial-cylinder-467897 ",
     "time": "2026-03-10T03:30:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ન્યુઝીલેન્ડ સામે ભવ્ય જીત બાદ ટીમ ઈન્ડિયાએ રચ્યો ઈતિહાસ, તોડ્યા 18 વર્લ્ડ રેકોર્ડ; જાણો",
-    "desc": "ભારતે ત્રીજી વખત T20 વર્લ્ડ કપ જીત્યો છે. ટીમ ઈન્ડિયાએ ફાઇનલ મેચમાં ન્યુઝીલેન્ડને 96 રનથી હરાવીને ઇતિહાસ રચ્યો. ભારત T20 વર્લ્ડ કપ ટ્રોફીને ડિફેન્ડ કરનાર પ્રથમ દેશ બન્યો છે. અમદાવાદમાં રમાયેલી ફાઇનલ મેચમાં ભારતે પ્રથમ ઇનિંગમાં 255 રન બનાવ્યા હતા, જ્યારે કિવી ટીમ જવાબમાં ફક્ત 159 રન જ બનાવી શકી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-team-india-created-history-after-a-grand-victory-against-new-zealand-broke-18-world-records-know-467858 ",
-    "time": "2026-03-09T17:04:13.000Z"
   },
   {
     "cat": "Politics",
