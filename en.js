@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "SC",
+    "desc": "The Supreme Court ruled that parental job status, not just income, must determine OBC 'creamy layer' exclusion. This decision impacts wards of PSU and private sector employees, aligning their criteria with government employees. The court emphasized that income alone is insufficient for exclusion, stressing the importance of job category and status.",
+    "img": "https://static.toiimg.com/photo/msid-129524238,imgsize-157042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/income-cannot-be-sole-decider-of-obc-creamy-layer-sc/articleshow/129524158.cms",
+    "time": "2026-03-12T20:27:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Behind the crumbling walls of Bihar’s Balirajgarh Fort, a tale of monumental neglect",
+    "desc": "The approval, issued by the ASI on February 26, is valid for a year and authorises the agency’s Patna Circle to undertake excavation at the site, officially listed as the ‘Remains of Ancient Fort of Garh’",
+    "img": "https://th-i.thgim.com/public/news/cities/Delhi/hlgp7a/article70736689.ece/alternates/LANDSCAPE_1200/bali.jfif",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/behind-the-crumbling-walls-of-bihars-balirajgarh-fort-a-tale-of-monumental-neglect/article70736677.ece",
+    "time": "2026-03-12T20:02:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "HC disqualification of SNDP Yogam director board a test of Kerala govt.’s mettle",
+    "desc": "Given Vellappally Natesan’s close ties with the ruling establishment, the Kerala government will have a tough task abiding by the High Court’s directive to temporarily take charge of the Yogam and to set up a provisional board to oversee affairs till elections are held",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/hc-disqualification-of-sndp-yogam-director-boarda-test-of-kerala-govts-mettle/article70735868.ece",
+    "time": "2026-03-12T19:37:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MP seeks law to suspend judges facing serious allegations",
+    "desc": "DMK MP K. K. Wilson has called for legislation to suspend judges facing serious allegations with strong evidence, citing the complexity of impeachment. He also highlighted the lack of social diversity in judicial appointments, with nearly 80% of recent High Court judges from forward communities and limited representation for women, minorities, SCs, and STs in the Supreme Court.",
+    "img": "https://static.toiimg.com/photo/msid-129521788,imgsize-744366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mp-seeks-law-to-suspend-judges-facing-serious-allegations/articleshow/129521798.cms",
+    "time": "2026-03-12T18:56:19.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Priyadarshan criticises large entourages on a film set",
     "desc": "Filmmaker Priyadarshan has expressed concern over Bollywood's growing trend of large entourages, stating it inflates production costs and disrupts shoots. He said that actors arriving with teams of up to 20 people, many of whom do nothing but block views and add unnecessary expenses.",
@@ -7,6 +43,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-criticises-large-entourages-on-a-film-set-i-will-see-30-people-who-are-doing-nothing-on-a-set-and-still-getting-money/articleshow/129521126.cms",
     "time": "2026-03-12T18:42:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celebs attend Sooraj Barjatya’s daughter’s wedding reception",
+    "desc": "The wedding reception of filmmaker Sooraj Barjatya’s daughter, Eesha Barjatya, turned into a glittering affair in Mumbai as several celebrities from the film and sports world arrived to bless the newlyweds. The grand celebration is being held at JW Marriott Mumbai Juhu, with many prominent faces making stylish appearances on the red carpet.",
+    "img": "https://static.toiimg.com/photo/msid-129520638,imgsize-136792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-sachin-tendulkar-aamir-khan-rekha-attend-sooraj-barjatyas-daughter-eeshas-grand-wedding-reception-in-mumbai/articleshow/129520638.cms",
+    "time": "2026-03-12T18:37:35.000Z"
   },
   {
     "cat": "Politics",
@@ -270,15 +315,6 @@ const newsData_en = [
     "time": "2026-03-12T13:44:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "TMC MPs seek meeting with President Murmu, request turned down: Report",
-    "desc": "The Trinamool Congress's request for a meeting with President Droupadi Murmu to discuss West Bengal's welfare initiatives was declined due to time constraints. This comes after a political controversy during the President's recent visit to Bagdogra, where she expressed displeasure over the absence of state officials.",
-    "img": "https://static.toiimg.com/photo/msid-129510651,imgsize-32144.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tmc-mps-seek-meeting-with-president-murmu-request-turned-down-report/articleshow/129510721.cms",
-    "time": "2026-03-12T13:38:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "The fortune behind 'Dhurandhar'",
     "desc": "The Surgical Strike' and his latest film 'Dhurandhar', is making waves once again. With a reported joint net worth alongside his wife, actress Yami Gautam, surpassing USD 12 million, Dhar's earnings of 8-10 crore per project showcase his ascent in the film industry.",
@@ -315,15 +351,6 @@ const newsData_en = [
     "time": "2026-03-12T13:22:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Speaker stops Rahul Gandhi mid-speech after his remark on Hardeep Puri",
-    "desc": "Lok Sabha witnessed a heated exchange as Rahul Gandhi's speech on the energy crisis was cut short by Speaker Om Birla. Gandhi was questioned for targeting Oil Minister Hardeep Singh Puri and deviating from the stated notice regarding gas shortages. The opposition had previously accused the Chair of limiting Gandhi's speaking time.",
-    "img": "https://static.toiimg.com/photo/msid-129509135,imgsize-1732303.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/lok-sabha-showdown-continues-speaker-stops-rahul-gandhi-mid-speech-after-his-remark-on-hardeep-puri/articleshow/129509048.cms",
-    "time": "2026-03-12T12:55:22.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Deepika voices concern over Mumbai’s air pollution",
     "desc": "Deepika Padukone, enjoying motherhood with daughter Dua, voiced concern over Mumbai’s poor air quality, tagging BMC for action. She skipped her Paris trip due to Middle East tensions. Up next, Deepika stars in 'King' with Shah Rukh Khan and Atlee’s 'AA22XA6' alongside Allu Arjun, releasing in 2026.",
@@ -334,30 +361,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Lagaan' easter egg in 'Young Sherlock' explained",
-    "desc": "Director Matthew Parkhill highlighted the impressive audition of Hero Fiennes Tiffin, which clinched him the role of 'Young Sherlock.' Emphasizing a novel perspective, Parkhill drew inspiration from the early works of Conan Doyle, portraying Sherlock as a youthful detective eager to delve into mysteries. Additionally, fans will recognize a celebrated actress from the legendary Bollywood film 'Lagaan' in the cast.",
-    "img": "https://static.toiimg.com/photo/msid-129508192,imgsize-139444.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/young-sherlock-creator-matthew-parkhill-explains-surprising-lagaan-easter-egg-she-played-elizabeth/articleshow/129508192.cms",
-    "time": "2026-03-12T12:47:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Can’t take it lightly: Rashmika Mandanna warns legal action against privacy-violating content",
     "desc": "Rashmika Mandanna has reacted to a leaked audio of an alleged conversation involving her mother. The clip has reignited chatter about her past relationship with actor Rakshit Shetty. Rashmika has demanded the content be pulled down immediately",
     "img": "https://th-i.thgim.com/public/entertainment/movies/kg1i7s/article70735072.ece/alternates/LANDSCAPE_1200/Rashmika.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/rashmika-mandanna-rakshit-shetty-vijay-deverakonda-legal-action-privacy-violating-content-audio-clip-leaked/article70734828.ece",
     "time": "2026-03-12T12:40:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rs 43-crore JKCA scam case: Court issues non-bailable warrant against Farooq Abdullah",
-    "desc": "A Srinagar court issued non-bailable warrants for former J&K Chief Minister Farooq Abdullah and another accused for failing to appear in connection with alleged financial irregularities in the Jammu and Kashmir Cricket Association. The court found prima facie evidence of criminal conspiracy and breach of trust in the siphoning of Rs 43 crore.",
-    "img": "https://static.toiimg.com/photo/msid-129508351,imgsize-29570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rs-43-crore-jkca-scam-case-court-issues-non-bailable-warrant-against-farooq-abdullah/articleshow/129508442.cms",
-    "time": "2026-03-12T12:37:08.000Z"
   },
   {
     "cat": "Sports",
@@ -394,15 +403,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-sets-three-conditions-for-ending-war/article70733980.ece",
     "time": "2026-03-12T11:59:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Parting of ways': Mani Shankar Aiyar, Shashi Tharoor clash in fiery open letter war",
-    "desc": "A public spat has erupted between Congress leaders Mani Shankar Aiyar and Shashi Tharoor over foreign policy and ideology. Aiyar criticized Tharoor's views on the Iran-Israel conflict and his stance on the US, regretting his past support. Tharoor defended his nationalist perspective and responsible policymaking, rejecting Aiyar's accusations and highlighting their past mutual support.",
-    "img": "https://static.toiimg.com/photo/msid-129505815,imgsize-1042073.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/parting-of-ways-mani-shankar-aiyar-shashi-tharoor-clash-in-fiery-open-letter-war/articleshow/129505789.cms",
-    "time": "2026-03-12T11:34:14.000Z"
   },
   {
     "cat": "Sports",
@@ -477,15 +477,6 @@ const newsData_en = [
     "time": "2026-03-12T10:08:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "How India-bound vessel crossed Strait of Hormuz",
-    "desc": "A crude oil tanker has reached Mumbai Port after navigating the Strait of Hormuz. The Liberia-flagged Shenlong Suezmax brought crude from Saudi Arabia. It temporarily went off tracking systems in the high-risk strait. Iran has intensified shipping restrictions. Over 20 million barrels of oil pass through the strait daily.",
-    "img": "https://static.toiimg.com/photo/msid-129502464,imgsize-304026.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/went-dark-on-a-shadow-voyage-how-india-bound-vessel-crossed-strait-of-hormuz/articleshow/129502419.cms",
-    "time": "2026-03-12T10:06:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Deepika backs out of an event in Paris due to flight cancellations",
     "desc": "Bollywood star Deepika Padukone has cancelled her Paris trip. Flight disruptions linked to the Iran-Israel conflict escalation led to the last-minute withdrawal. Padukone was set to attend a luxury brand event. She will next be seen in 'King' with Shah Rukh Khan and Suhana Khan. The film releases December 24, 2026.",
@@ -502,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/toisa-2025-team-of-the-year-nominees-celebrating-success-as-a-team-on-the-global-stage/articleshow/129501903.cms",
     "time": "2026-03-12T10:01:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Jaishankar spoke to Iran FM 3 times': India flags ships safety, energy security concerns",
-    "desc": "External Affairs Minister S Jaishankar held three recent talks with his Iranian counterpart, focusing on maritime shipping safety and India's energy security amid rising Middle East tensions. Iran has ensured safe passage for Indian-flagged vessels through the Strait of Hormuz, a crucial route for global oil trade and India's energy imports.",
-    "img": "https://static.toiimg.com/photo/msid-129501890,imgsize-134030.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jaishankar-spoke-to-iran-fm-3-times-mea-india-flags-ships-safety-energy-security-concerns/articleshow/129501928.cms",
-    "time": "2026-03-12T09:48:16.000Z"
   },
   {
     "cat": "Sports",
@@ -574,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/reliance-backed-oil-refinery-in-us-what-makes-trumps-historic-300-billion-deal-significant-top-10-points/articleshow/129499055.cms",
     "time": "2026-03-12T08:30:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Choreographer Shakti Mohan refused to be paid for 'Padmaavat' song",
-    "desc": "Dancer Shakti Mohan shares her experience choreographing for Sanjay Leela Bhansali's film Padmaavat. Her first big project was the song 'Nainowale Ne'. Mohan found the opportunity overwhelming and chose not to accept payment. She described Bhansali as a strict director. Mohan also detailed working with actress Deepika Padukone on set due to tight schedules.",
-    "img": "https://static.toiimg.com/photo/msid-129499294,imgsize-73238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shakti-mohan-refused-to-be-paid-for-padmaavat-song-says-sanjay-leela-bhansali-is-very-strict-even-if-you-breathe-/articleshow/129499204.cms",
-    "time": "2026-03-12T08:29:49.000Z"
   },
   {
     "cat": "Sports",
@@ -700,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-missile-strike-kills-eight-on-beirut-seafront-as-israel-launches-wide-scale-attacks-on-hezbollah/article70733745.ece",
     "time": "2026-03-12T04:12:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Stock recommendations for March 12, 2026",
-    "desc": "INOX India, and Apollo Hospitals Enterprise are buy calls from Aakash K Hindocha, Deputy Vice President - WM Research of Nuvama Professional Clients Group. The analyst recommends selling TVS Motor Company. Below is his views on on Nifty, Bank Nifty and each of the three stocks:",
-    "img": "https://static.toiimg.com/photo/msid-129489706,imgsize-80478.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-march-12-2026-inox-india-apollo-hospitals-tvs-motor-company-best-stocks-to-buy-or-sell-today/articleshow/129489664.cms",
-    "time": "2026-03-12T03:17:03.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-best-picture-nominees-ranked-entertainment-news-academy-awards-date-time-schedule-how-to-watch-india/article70725922.ece",
     "time": "2026-03-10T09:38:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India’s T20 World Cup defence shows strength of a new era",
+    "desc": "India’s successful defence of the ICC T20 World Cup highlights the team’s smooth transition after the exit of senior stars such as Rohit Sharma, Virat Kohli and Ravindra Jadeja from T20Is. Under Suryakumar Yadav and coach Gautam Gambhir, a fearless approach and strong bench strength powered the campaign. Sanju Samson, Jasprit Bumrah and others stepped up as India continued to set the standard in the format.",
+    "img": "https://th-i.thgim.com/public/incoming/xh0idg/article70725982.ece/alternates/LANDSCAPE_1200/editorial%20india%20T20.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-indias-t20-world-cup-defence-shows-strength-of-a-new-era-the-hindu-editorial/article70725979.ece",
+    "time": "2026-03-10T09:24:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "May or may not be a \"friendly takeover\"",
+    "desc": "The Cuban ​government has said it is not in ⁠any high-level talks with the United States but has not outright ‌denied press reports that U.S. officials may be in informal talks with Raul Guillermo Rodriguez Castro",
+    "img": "https://th-i.thgim.com/public/incoming/faskt8/article70724885.ece/alternates/LANDSCAPE_1200/Trump_41095.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-on-cuba-may-or-may-not-be-a-friendly-takeover/article70724880.ece",
+    "time": "2026-03-10T08:15:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Timothée Chalamet faces backlash after comments dismissing ballet and opera",
+    "desc": "Chalamet has sparked backlash from performers and arts institutions after saying he would not want to work in ballet or opera because “no one cares about this anymore,” comments that have ignited debate across the performing arts community",
+    "img": "https://th-i.thgim.com/public/incoming/84xovo/article70725317.ece/alternates/LANDSCAPE_1200/2264285287.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/timothee-chalamet-faces-backlash-after-comments-dismissing-ballet-and-opera/article70725308.ece",
+    "time": "2026-03-10T06:32:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "West Asia conflict oil hike, market reactions Highlights: Markets climb, Rupee rebounds as oil prices fall",
+    "desc": "Investors, already spooked by concerns over extended tech valuations and the huge spending on AI, ran for the hills earlier in the day as crude rocketed to its highest level since the Russian invasion of Ukraine in 2022",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/crude-oil-price-today-march-9-iran-israel-us-war-brent-prices-surge-west-asia-crisis-stock-market-updates/article70721132.ece",
+    "time": "2026-03-10T05:36:45.000Z"
   }
 ];
