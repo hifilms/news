@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "জুবিন গর্গের মৃত্যু নিছক দুর্ঘটনা নাকি ষড়যন্ত্র? এসআইটি তদন্তের মাঝেই মুখ খুললেন স্ত্রী",
+    "desc": "সিঙ্গাপুরে জুবিন গর্গের রহস্যমৃত্যুর কয়েক মাস পর, এক অনুষ্ঠানে আবেগপ্রবণ হয়ে পড়লেন স্ত্রী গরিমা গর্গ। মা-বোন-বন্ধুকে হারানোর যন্ত্রণা থেকে শুরু করে জুবিনের মনের গভীর আশঙ্কার কথা শোনালেন তিনি। অন্যদিকে, SIT তদন্ত ঘিরে ক্রমশ ঘনীভূত হচ্ছে জুবিনের মৃত্যুর রহস্য।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/zubeen-garg-death-wife-garima-garg-emotional-interview-sit-investigation_644667.html ",
+    "time": "2026-03-12T15:57:41.000Z"
+  },
+  {
     "cat": "World",
     "title": "US-Israel-Iran War News:'হরমুজ প্রণালী বন্ধই থাকবে!' ইরানের সর্বোচ্চ নেতা হিসেবে প্রথম মুখ খুলেই কড়া অবস্থান মোজতবার",
     "desc": "পশ্চিম এশিয়ায় ইরান–ইজরায়েল সংঘাত ক্রমেই তীব্র হচ্ছে। ক্ষেপণাস্ত্র ও ড্রোন হামলার পাশাপাশি সমুদ্রপথেও আঘাতের ঘটনা ঘটছে। এই পরিস্থিতির মধ্যেই ইরানের নতুন সর্বোচ্চ নেতা মোজতবা খামেনেই প্রথম বার্তায় হরমুজ প্রণালী বন্ধ রাখার অবস্থান বজায় রাখার কথা জানিয়েছেন। সংঘাতের প্রভাব পড়েছে উপসাগরীয় দেশগুলিতে এবং বিশ্ববাজারেও, যেখানে তেলের দাম ১০০ ডলার ছাড়িয়েছে। একই সঙ্গে ইরানে আটকে থাকা ভারতীয় নাগরিকদের ফেরাতে তৎপর হয়েছে ভারত সরকার।",
@@ -169,15 +178,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/technology/old-laptop-speed-up-tips-how-to-boost-old-laptop-speed-with-these-useful-gadgets-hang-problem-solution-no-overheating-tc-ac-aa-2575893.html",
     "time": "2026-03-11T12:06:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'একদিন তোকেও ফ্রিজে পাওয়া যাবে', ৬ পাতার সুইসাইড নোটে কাঠগড়ায় প্রেমিক: চিকিত্‍সকের মৃত্যুতে শ্রদ্ধা ওয়াকারের ছায়া",
-    "desc": "মুম্বইয়ের এক মেধাবী হবুচিকিৎসকের আত্মহত্যার ঘটনায় চাঞ্চল্য ছড়িয়েছে গোটা দেশে। উঠে এসেছে শ্রদ্ধা ওয়াকার হত্যাকাণ্ডের সেই হাড়হিম করা অনুষঙ্গও। তবে এই আত্মহত্যার ঘটনায় সবথেকে বেশি শোরগোল ফেলেছে তাঁর ঘর থেকে উদ্ধার হওয়া ছয় পাতার একটি সুইসাইড নোট।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/mumbai-dentist-suicide-stuti-sonwane-shraddha-walkar-fridge-reference_644474.html ",
-    "time": "2026-03-11T08:36:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -684,15 +684,6 @@ const newsData_bn = [
     "time": "2026-03-07T16:14:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "১১ বছর পর ম্যাজিক ফিরছে! জন্মদিনে ‘বলাই’ নিয়ে প্রত্যাবর্তনের ঘোষণা প্রভাত রায়ের",
-    "desc": "দীর্ঘ ১১ বছর পর আবারও পরিচালকের আসনে বর্ষীয়ান পরিচালক প্রভাত রায়। ৮২তম জন্মদিনে ঘোষণা করলেন তাঁর নতুন কাজ— রবীন্দ্রনাথ ঠাকুরের ‘বলাই’ নিয়ে আসছেন তিনি। একতা ভট্টাচার্যের চিত্রনাট্যে কৌশিক সেন, বাসবদত্তা চট্টোপাধ্যায়দের নিয়ে শুরু হচ্ছে নতুন যাত্রা। জন্মদিনে এর থেকে বড় উপহার আর কী হতে পারে!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/prabhat-roy-returns-after-11-years-with-tagore-short-film-balai-cast-details_644055.html ",
-    "time": "2026-03-07T16:06:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "পশ্চিম এশিয়ার অশান্ত পরিস্থিতি, গাড়িতে কতটা তেল ভরে রাখবেন, জ্যারিকেনে তেল ভরে রাখাও কি দরকার",
     "desc": "জ্বালানি তেলের দাম বাড়ার আশঙ্কা, সন্দেশখালির পেট্রোল পাম্পে ড্রাম-ব্যারেল নিয়ে তেল ভরার হিড়িক মধ্যপ্রাচ্যে চলমান যুদ্ধ পরিস্থিতির জেরেই এই আতঙ্ক ছড়িয়েছে। গত কয়েকদিন ধরেই বিভিন্ন মহলে আলোচনা চলছে যে আন্তর্জাতিক পরিস্থিতির কারণে ভারতে জ্বালানি সরবরাহে প্রভাব পড়তে পারে।",
@@ -898,5 +889,14 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/kavinder-gupta-resigns-as-ladakh-lieutenant-governor-nine-months-after-taking-oath-sdg-2570999.html",
     "time": "2026-03-05T16:02:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "আগামী ৭২ ঘণ্টা...! ভারী বৃষ্টি কাঁপাবে ১৭ রাজ্য, ৪৮ ঘণ্টায় তাপমাত্রায় চরম হুঁশিয়ারি কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
+    "desc": "নতুন করে সৃষ্টি হওয়া পশ্চিমী ঝঞ্ঝার প্রভাবে আবহাওয়া আবারও বদলাতে চলেছে। আবহাওয়া বিভাগ একটি সতর্কতা জারি করেছে, আগামী ৭২ ঘণ্টায় অনেক রাজ্যে ভারী বৃষ্টিপাত হতে পারে দেশের একাধিক রাজ্যে। অন্যদিকে লাফিয়ে পারদ চড়বে এই রাজ্যগুলিতে! দেখুন আবহাওয়ার লেটেস্ট আপডেট।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj_rain_Thunder-2026-02-d4442b7a82e43dc3ddb6c50620195dec-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rainfall-alert-in-17-states-temperature-will-rise-massively-in-48-hours-for-these-states-check-latest-west-bengal-weather-sanj-2570625.html",
+    "time": "2026-03-05T11:30:18.000Z"
   }
 ];

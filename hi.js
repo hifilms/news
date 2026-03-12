@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Donald Trump warns Iran's footballers of 'life and safety' risks if they choose to play in FIFA World Cup 2026",
+    "desc": "The FIFA World Cup 2026 has been one of the most sought-after tournaments of the year. The marquee event is slated to be held in the USA, and with the ongoing West Asia war, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/donald-trump-warns-iran-s-footballers-of-life-and-safety-risks-if-they-choose-to-play-in-fifa-world-cup-2026-2026-03-12-1033586",
+    "time": "2026-03-12T17:22:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abrar Ahmed becomes first Pakistan player to be picked by IPL-based franchise in The Hundred",
+    "desc": "The Hundred auction saw several star players being sold to different franchises, but none managed to grab as many headlines as Pakistan’s Abrar Ahmed. It is worth noting that Abrar was bought by Sunrisers Leeds...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abrar-ahmed-becomes-first-pakistan-player-to-be-picked-by-ipl-based-franchise-in-the-hundred-2026-03-12-1033583",
+    "time": "2026-03-12T16:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Faf du Plessis gives his take on pressure that Rishabh Pant could face ahead of IPL 2026",
     "desc": "The 19th edition of the IPL (Indian Premier League) 2026 is all set to kick off on March 28. With the tournament set to begin, many would look forward to the campaign of Lucknow Super...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-reveals-prize-money-trick-from-fielding-coach-to-improve-india-s-catching-in-t20-world-cup-2026-03-12-1033512",
     "time": "2026-03-12T08:00:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI to honour Rahul Dravid with lifetime achievement award, Shubman Gill to be named Cricketer of the Year",
-    "desc": "Former India cricketer Rahul Dravid will be conferred with the Col CK Nayudu Lifetime Achievement award at the BCCI's annual Naman Awards, scheduled to take place in New Delhi on March 15 (Sunday). Along with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-to-honour-rahul-dravid-with-lifetime-achievement-award-shubman-gill-to-be-named-cricketer-of-the-year-2026-03-12-1033499",
-    "time": "2026-03-12T06:36:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya in trouble? Complaint filed against India all-rounder for 'insulting' national flag",
-    "desc": "India all-rounder Hardik Pandya is in legal trouble after a Pune-based lawyer has accused him of disrespecting the national flag while celebrating India's triumph in the T20 World Cup 2026. The name of the complainant...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-in-trouble-complaint-filed-against-india-all-rounder-for-insulting-national-flag-2026-03-12-1033487",
-    "time": "2026-03-12T05:06:53.000Z"
   }
 ];

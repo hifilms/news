@@ -1,5 +1,140 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Priyadarshan criticises large entourages on a film set",
+    "desc": "Filmmaker Priyadarshan has expressed concern over Bollywood's growing trend of large entourages, stating it inflates production costs and disrupts shoots. He said that actors arriving with teams of up to 20 people, many of whom do nothing but block views and add unnecessary expenses.",
+    "img": "https://static.toiimg.com/photo/msid-129521232,imgsize-15928.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-criticises-large-entourages-on-a-film-set-i-will-see-30-people-who-are-doing-nothing-on-a-set-and-still-getting-money/articleshow/129521126.cms",
+    "time": "2026-03-12T18:42:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Suspect admits he'd been planning to kill Farooq Abdullah for 20 years, Amit Shah calls NC chief",
+    "desc": "A 63-year-old man, Kamal Singh Jamwal, was arrested for attempting to shoot former J&K CM Farooq Abdullah at a wedding. Jamwal, claiming a personal agenda, stated he had planned the assassination for 20 years. Police have ruled out a terror angle, but the NC insists on a terror investigation, questioning a leaked video of the suspect.",
+    "img": "https://static.toiimg.com/photo/msid-129521029,imgsize-382117.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/suspect-admits-hed-been-planning-to-kill-farooq-abdullah-for-20-years-amit-shah-calls-nc-chief/articleshow/129520926.cms",
+    "time": "2026-03-12T18:37:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Court recalls non-bailable warrant against Farooq after issuing it",
+    "desc": "A Srinagar court recalled a non-bailable warrant against National Conference president Farooq Abdullah in the J&K cricket association scam. The warrant was issued after his plea for exemption was rejected, but later recalled following his advocate's submission about an assassination attempt and his subsequent shock.",
+    "img": "https://static.toiimg.com/photo/msid-129520733,imgsize-609757.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/court-recalls-non-bailable-warrant-against-farooq-after-issuing-it/articleshow/129520728.cms",
+    "time": "2026-03-12T18:30:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bumrah — the pace king and the master of the slower one",
+    "desc": "It’s impossible to imagine what it must be like to carry so many expectations every time he has the ball in his hand; to his credit, he has managed to distance himself from the ‘outside noise’, retain his focus and concentrate on what is in his control",
+    "img": "https://th-i.thgim.com/public/sport/1929zy/article70736597.ece/alternates/LANDSCAPE_1200/BUMRAH%20%203443.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/bumrah-the-pace-king-and-the-master-of-the-slower-one/article70736504.ece",
+    "time": "2026-03-12T18:06:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerosene, coal return as cooking options as energy supplies from West Asia remain disrupted",
+    "desc": "Petroleum ministry officials said that the govt has allocated 48,000 kilolitres (kl) of additional kerosene to states, in addition to the regular quota of one lakh kl, for use as cooking fuel. It has also asked the pollution control boards of respective states and Union Territories to allow the use of biomass, RDF pellets (produced from municipal, industrial and commercial waste) and coal as alternate fuel in the hospitality and restaurant segment for one month.",
+    "img": "https://static.toiimg.com/photo/msid-129519473,imgsize-299860.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kerosene-coal-return-as-cooking-options-as-energy-supplies-from-west-asia-remain-disrupted/articleshow/129519507.cms",
+    "time": "2026-03-12T17:55:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Antil leads India’s dominance at World Para Athletics GP with javelin gold",
+    "desc": "India dominated the World Para Athletics Grand Prix, led by Paralympic champion Sumit Antil, who won javelin gold with a 69.25m throw, ahead of compatriots Pushpendra Singh and Poonam Ram. Antil said he exceeded expectations and now targets 75m at the Asian Games. Indian athletes also shone across multiple track and field events, often sweeping the podium.",
+    "img": "https://static.toiimg.com/photo/msid-129518188,imgsize-153464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/sumit-antil-leads-indias-dominant-day-at-world-para-athletics-grand-prix-with-javelin-gold/articleshow/129517005.cms",
+    "time": "2026-03-12T17:19:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals tweak pre-season schedule, full squad camp to begin on March 17",
+    "desc": "Rajasthan Royals have shifted their IPL 2026 preparations. The full squad camp now begins on March 17 at the Sawai Man Singh Stadium. Head coach Kumar Sangakkara will oversee team bonding and intensive training. This marks the first gathering of all players, including new recruits. The team is expected to depart for Guwahati on March 26 for their season opener.",
+    "img": "https://static.toiimg.com/photo/msid-129517996,imgsize-118978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rajasthan-royals-tweak-pre-season-schedule-full-squad-camp-to-begin-on-march-17/articleshow/129517963.cms",
+    "time": "2026-03-12T17:15:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When ‘Naatu Naatu’ made history",
+    "desc": "The 2023 Oscars witnessed a thrilling moment for Indian cinema as 'Naatu Naatu' from 'RRR' took home the prestigious Best Original Song award. This landmark achievement not only showcased the film's infectious energy but also marked a significant milestone in the international acclaim of Indian artistry, with Deepika Padukone's introduction echoing the vibrancy of Indian talent on the global stage.",
+    "img": "https://static.toiimg.com/photo/msid-129505588,imgsize-106786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ahead-of-2026-oscars-a-look-back-at-s-s-rajamoulis-rrrs-iconic-moments-from-the-academy-awards-2023/articleshow/129505501.cms",
+    "time": "2026-03-12T16:53:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyadarshan doesn’t like making sequels to his own films",
+    "desc": "Filmmaker Priyadarshan is gearing up for his next directorial venture, Bhooth Bangla, starring Akshay Kumar in the lead role. While promoting the film, the veteran director opened up about the growing trend of franchises in Indian cinema. Interestingly, even though he is set to direct the third instalment of the popular comedy franchise Hera Pheri, Priyadarshan admitted that he is not particularly fond of making sequels to his own films.",
+    "img": "https://static.toiimg.com/photo/msid-129516890,imgsize-41032.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-says-he-doesnt-like-making-sequels-to-his-own-films-its-a-kind-of-extortion-of-the-first-film/articleshow/129516890.cms",
+    "time": "2026-03-12T16:50:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How much the ex-ENHYPEN K-pop star earns",
+    "desc": "Heeseung, the dynamo of ENHYPEN, is ready to spread his wings with a solo career following his meteoric rise in the K-pop world. Debuting in 2020, he’s projected to amass a net worth of USD 3 to 5 million by 2026, thanks to the popularity of his group, live performance tours, endorsement deals, and fan merchandise.",
+    "img": "https://static.toiimg.com/photo/msid-129506785,imgsize-75810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/heeseungs-net-worth-inside-the-ex-enhypen-k-pop-stars-million-dollar-fortune/articleshow/129506736.cms",
+    "time": "2026-03-12T16:49:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "White House mulls suspending 'Jones Act' to curb soaring oil prices amid Iran conflict",
+    "desc": "Amid escalating Iran conflict and rising oil prices, the Trump administration is considering a temporary waiver of the Jones Act. This maritime law requires US ships for domestic transport. The move aims to ensure free flow of vital energy and agricultural products to US ports by allowing foreign-flagged ships to operate domestically.",
+    "img": "https://static.toiimg.com/photo/msid-129516734,imgsize-1420429.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/white-house-mulls-suspending-jones-act-to-curb-soaring-oil-prices-amid-iran-conflict-key-maritime-law-explained/articleshow/129515402.cms",
+    "time": "2026-03-12T16:40:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Some people trying to create panic': PM Modi plays down LPG crisis; targets opposition",
+    "desc": "Prime Minister Modi downplayed the energy crisis, urging collective efforts and national interest over panic. He highlighted government initiatives like increased LPG connections and LNG terminals to boost self-reliance. Efforts are underway to shield citizens and farmers from the impact of global conflicts, with measures to manage LPG distribution and supply.",
+    "img": "https://static.toiimg.com/photo/msid-129516107,imgsize-719269.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/some-people-trying-to-create-panic-pm-modi-plays-down-lpg-crisis-targets-opposition/articleshow/129516056.cms",
+    "time": "2026-03-12T16:20:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Marijne wants the Indian players to be more precise with finishing",
+    "desc": "The head coach reserves special praise for Navneet, who scored a hat-trick against Wales, but is quick to emphasise that the performance was a collective effort; the Dutchman credits former junior team coach Wonink for making his task easier",
+    "img": "https://th-i.thgim.com/public/incoming/uhaimd/article70736159.ece/alternates/LANDSCAPE_1200/vjkvg-india%2016.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/marijne-wants-the-indian-players-to-be-more-precise-with-finishing/article70736166.ece",
+    "time": "2026-03-12T16:15:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Flights &amp; transit visas: How Indian missions in GCC are helping Indians get back home amid surging demand",
+    "desc": "According to the aviation ministry, over 1.5 lakh people have flown from GCC to India between Feb 28 and March 11. Indian carriers resumed Riyadh flights from Thursday, with Day One seeing four flights by Air India, IndiGo and AI Express. The Indian embassy in Qatar said on X Thursday 1-2 flights “of Qatar Airways are expected for India daily in the coming days.”",
+    "img": "https://static.toiimg.com/photo/msid-129515884,imgsize-78188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/flights-transit-visas-how-indian-missions-in-gcc-are-helping-indians-get-back-home-amid-surging-demand/articleshow/129515759.cms",
+    "time": "2026-03-12T16:15:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CAPF officers demoralised that Centre is not giving them their due, Samajwadi MP tells Rajya Sabha",
+    "desc": "Calls for quick implementation of May 2025 SC order to grant Organised Group A Services status to CAPF officers, reduce IPS officers’ deputation in CAPFs; Centre’s review petition against ruling was rejected by the court",
+    "img": "https://th-i.thgim.com/public/incoming/p03ggf/article70736257.ece/alternates/LANDSCAPE_1200/20260312269L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/capf-officers-demoralised-that-centre-is-not-giving-them-their-due-samajwadi-mp-tells-rajya-sabha/article70735367.ece",
+    "time": "2026-03-12T16:08:38.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "Karnataka government constitutes Committee on Responsible AI",
     "desc": "The committee, in its maiden meeting held in Bengaluru on March 12, discussed the rapidly evolving AI landscape and the need to establish strong governance frameworks to ensure the responsible use of AI technologies, particularly in systems that impact citizens",
@@ -18,13 +153,22 @@ const newsData_en = [
     "time": "2026-03-12T15:44:47.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Marijne wants the Indian players to be more precise with finishing",
-    "desc": "The head coach reserves special praise for Navneet, who scored a hat-trick against Wales, but is quick to emphasise that the performance was a collective effort; the host celebrates its World Cup berth with an emphatic win over the European side",
-    "img": "https://th-i.thgim.com/public/incoming/uhaimd/article70736159.ece/alternates/LANDSCAPE_1200/vjkvg-india%2016.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/marijne-wants-the-indian-players-to-be-more-precise-with-finishing/article70736166.ece",
-    "time": "2026-03-12T15:35:26.000Z"
+    "cat": "Entertainment",
+    "title": "Amitabh Bachchan mourns the loss of a ‘very dear friend’",
+    "desc": "Megastar Amitabh Bachchan turned emotional as he mourned the loss of a “very dear friend”. The veteran actor took to his personal blog on Thursday to share a heartfelt note remembering his late friend and the bond they shared. In his emotional message, Amitabh described his friend as someone who always found a solution even in the toughest situations and carried immense warmth and humour.",
+    "img": "https://static.toiimg.com/photo/msid-129514543,imgsize-41628.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-gets-emotional-as-he-mourns-the-loss-of-a-very-dear-friend-says-one-by-one-they-all-leave/articleshow/129514543.cms",
+    "time": "2026-03-12T15:42:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 South stories of the day",
+    "desc": "South cinema saw significant developments today, including the withdrawal of 'Jana Nayagan's' OTT deal due to censor delays and Rashmika Mandanna's warning of legal action over a leaked audio clip. Naga Chaitanya's gym look for 'Vrusha Karma' went viral, while Malayalam actor Hari Murali passed away at 27. Vishal also condemned Rajendra Prasad's remarks on MGR.",
+    "img": "https://static.toiimg.com/photo/msid-129514399,imgsize-158924.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rashmika-mandanna-reacts-to-leaked-audio-jana-nayagan-ott-deal-withdrawn-hari-murali-passes-away-at-27-top-5-south-stories-of-the-day/articleshow/129514399.cms",
+    "time": "2026-03-12T15:38:21.000Z"
   },
   {
     "cat": "Business",
@@ -79,24 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kumar-sanu-gets-interim-relief-from-court-in-defamation-case-against-his-ex-wife-rita-bhattacharya/articleshow/129512975.cms",
     "time": "2026-03-12T14:45:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AI suggested ‘Karnataka model’ to win Assam polls, says D.K. Shivakumar",
-    "desc": "“I asked an AI platform how to win the Assam elections. It said the election could be won by adopting the Karnataka model,” he said, prompting a brief exchange and light-hearted remarks from the Opposition members in the House",
-    "img": "https://th-i.thgim.com/public/incoming/h3u4jh/article70735471.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-04%20at%2021.06.27.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/ai-suggested-karnataka-model-to-win-assam-polls-says-dk-shivakumar/article70735137.ece",
-    "time": "2026-03-12T14:41:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TTD fortifies LPG reserves amid West Asia war",
-    "desc": "To ensure uninterrupted Annadanam and laddu production at Tirumala, the temple administration extracts positive assurance from IOCL on continuous supplies, besides building a formidable reserve of 38 tonnes of the fuel sufficient to sustain operations for over a week even under adverse conditions",
-    "img": "https://th-i.thgim.com/public/incoming/5pa9xm/article70735709.ece/alternates/LANDSCAPE_1200/IMG_174_Annadhanam_at_Ti_2_1_K6A3UL2P.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-fortifies-lpg-reserves-amid-west-asia-war/article70734321.ece",
-    "time": "2026-03-12T14:20:21.000Z"
   },
   {
     "cat": "Sports",
@@ -198,15 +324,6 @@ const newsData_en = [
     "time": "2026-03-12T12:55:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "What is the political logic behind the Women’s Reservation Act?",
-    "desc": "There has been renewed talk regarding the early implementation of the Women’s Reservation Act. Why is it being talked about now, what is the BJP and NDA’s plan, with an eye on elections in the following year?",
-    "img": "https://th-i.thgim.com/public/incoming/hrt45v/article70735245.ece/alternates/LANDSCAPE_1200/womens%20bill.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-what-is-the-political-logic-behind-the-womens-reservation-act/article70735244.ece",
-    "time": "2026-03-12T12:52:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Deepika voices concern over Mumbai’s air pollution",
     "desc": "Deepika Padukone, enjoying motherhood with daughter Dua, voiced concern over Mumbai’s poor air quality, tagging BMC for action. She skipped her Paris trip due to Middle East tensions. Up next, Deepika stars in 'King' with Shah Rukh Khan and Atlee’s 'AA22XA6' alongside Allu Arjun, releasing in 2026.",
@@ -253,15 +370,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Ahaan offered epic Karna and Anand L Rai's project",
-    "desc": "Post-Saiyaara's blockbuster run, Ahaan Panday is Bollywood's hot talent, teaming with Ali Abbas Zafar for a gangster romance. Aanand L Rai pitched his next; Rakeysh Omprakash Mehra offered Karna. He's rejected 10 scripts, prioritizing quality cinema for fans.",
-    "img": "https://static.toiimg.com/photo/msid-129507947,imgsize-26492.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-saiyaara-ahaan-panday-offered-rakeysh-omprakash-mehras-epic-karna-and-anand-l-rais-project-reports/articleshow/129507947.cms",
-    "time": "2026-03-12T12:26:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Rashmika breaks silence on her mother's conversation going viral",
     "desc": "Rashmika Mandanna has threatened legal action after a private audio clip of her mother discussing a past engagement went viral. The actress stated that the deliberate circulation of the out-of-context conversation, eight years old, constitutes a serious invasion of privacy and crosses a line that cannot be ignored. She has demanded the immediate removal of the content within 24 hours.",
     "img": "https://static.toiimg.com/photo/msid-129507709,imgsize-33622.cms",
@@ -279,24 +387,6 @@ const newsData_en = [
     "time": "2026-03-12T12:08:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay's 'Jana Nayagan' release delay: OTT partner withdraws its deal",
-    "desc": "The digital release of Thalapathy Vijay's film 'Jana Nayagan' is in jeopardy. An OTT partner has withdrawn a Rs 120 crore deal. This follows ongoing delays in obtaining a censor certificate. Objections over certain scenes have led to a revising committee review. The film's theatrical release is now uncertain, potentially after upcoming elections.",
-    "img": "https://static.toiimg.com/photo/msid-129506933,imgsize-104482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-release-delay-ott-partner-withdraws-its-deal-on-the-thalapathy-vijay-starrer/articleshow/129506933.cms",
-    "time": "2026-03-12T12:04:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Virgin River’ Season 7 OTT release in India: watch details",
-    "desc": "Virgin River's seventh season has arrived, bringing fresh challenges for Mel and Jack as they navigate married life and an adoption. The new episodes unravel Charmaine's mysterious disappearance, Doc's career-threatening investigation, and Lizzie and Denny's impending parenthood. The season also explores Mel's family history, promising romance, suspense, and emotional depth for fans.",
-    "img": "https://static.toiimg.com/photo/msid-129506838,imgsize-143930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/virgin-river-season-7-ott-release-in-india-when-and-where-to-watch-all-episodes-cast-and-more-details-revealed/articleshow/129506838.cms",
-    "time": "2026-03-12T12:01:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran sets three conditions for ending war",
     "desc": "During nuclear talks ahead of the war, Iran had consistently argued that as a signatory of the Nuclear Non-Proliferation Treaty (NPT), nuclear enrichment is ‘a legitimate right’. This was also the first time a senior Iranian leader called for reparations as a condition to end the war",
@@ -304,15 +394,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-sets-three-conditions-for-ending-war/article70733980.ece",
     "time": "2026-03-12T11:59:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Oscars 2026 adds time to ‘In Memoriam’ after losses",
-    "desc": "As the 2026 Oscars approach, an extended 'In Memoriam' segment promises to capture the hearts of viewers, reflecting on a year that has seen the industry bid farewell to many beloved figures. With careful curation, producers aim to honor this emotional legacy, recognizing the strong ties between audiences and cinematic icons.",
-    "img": "https://static.toiimg.com/photo/msid-129505965,imgsize-75454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-to-feature-extended-in-memoriam-segment-after-painful-year-of-hollywood-losses-reports/articleshow/129505965.cms",
-    "time": "2026-03-12T11:40:33.000Z"
   },
   {
     "cat": "Politics",
@@ -333,15 +414,6 @@ const newsData_en = [
     "time": "2026-03-12T11:16:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Naga Chaitanya flaunts six-pack look for ‘Vrusha Karma’",
-    "desc": "Naga Chaitanya has unveiled a dramatic six-pack transformation for his upcoming adventure thriller, 'Vrusha Karma.' The actor shared a gym photo as his character Arjun, showcasing a muscular physique and rugged beard. This intense physical makeover for the treasure hunter role has generated significant excitement among fans, who are eager to see his powerful new avatar.",
-    "img": "https://static.toiimg.com/photo/msid-129504630,imgsize-64210.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/naga-chaitanyas-beast-mode-transformation-is-unmissable-actor-flaunts-six-pack-look-for-vrusha-karma/articleshow/129504630.cms",
-    "time": "2026-03-12T11:06:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "$256K in, what’s next for Nepal? Competitive cricket, infra boost and a hand from India",
     "desc": "In the past two editions of the T20 World Cups, Nepal's fans have flooded the stands, be it in Texas or in Mumbai. The cricketers have shown the spunk, stomach for a fight, and pushed teams like South Africa and England to the brink. The Rohit Paudel-led team registered their first World Cup win in their third appearance, when they defeated Scotland at Wankhede. Now they must aim higher, but to achieve the summit of Mount Everest, they will need help.",
@@ -349,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/256k-in-whats-next-for-nepal-competitive-cricket-infra-boost-and-a-hand-from-india/articleshow/129503605.cms",
     "time": "2026-03-12T11:01:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Matthew Fox reveals heartbreaking reason for his 10-year hiatus after 'Lost'",
-    "desc": "Matthew Fox, the former 'Lost' star, has returned to acting after a decade-long hiatus, prioritizing family over Hollywood's demands. He explained that the relentless pace of his career meant missing crucial childhood moments. Now, at 59, Fox feels ready to re-engage with storytelling, starting with the 'Yellowstone' spinoff 'The Madison,' fulfilling a personal career ambition.",
-    "img": "https://static.toiimg.com/photo/msid-129503721,imgsize-69028.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/matthew-fox-reveals-heartbreaking-reason-for-his-10-year-hiatus-after-lost-i-had-missed-some-of-their-childhood/articleshow/129503721.cms",
-    "time": "2026-03-12T10:51:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -495,15 +558,6 @@ const newsData_en = [
     "time": "2026-03-12T08:40:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Liberia-flagged tanker ‘Shenlong’ carrying Saudi crude enters India via Strait of Hormuz",
-    "desc": "A Liberian-flagged oil tanker, captained by an Indian, successfully navigated the Strait of Hormuz to reach Mumbai Port. This marks a significant transit amid heightened Middle East tensions, with Iran reportedly granting safe passage to Indian vessels. Authorities are actively monitoring 28 Indian-flagged ships and seafarers in the Persian Gulf.",
-    "img": "https://static.toiimg.com/photo/msid-129499216,imgsize-550328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/liberia-flagged-tanker-shenlong-carrying-saudi-crude-enters-india-via-strait-of-hormuz/articleshow/129498755.cms",
-    "time": "2026-03-12T08:38:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "SA, WI finally leave India after travel chaos amid West Asia conflict",
     "desc": "South African and West Indies cricket contingents have finally left India after days of travel chaos. Airspace closures in West Asia disrupted flights, stranding players in Kolkata post-T20 World Cup. The ICC confirmed the safe departure of the remaining 29 South Africans and 16 West Indians, concluding a complex logistical operation amidst challenging global travel conditions.",
@@ -547,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-what-the-us-probe-revealed-about-the-tomahawk-strike-on-iran-school/article70734057.ece",
     "time": "2026-03-12T07:59:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Farooq Abdullah's first reaction after assassination attempt: 'The killer always has an advantage'",
-    "desc": "Former Jammu and Kashmir Chief Minister Farooq Abdullah narrowly escaped an assassination attempt at a wedding. A man fired shots at him, but his security team intervened, saving his life. Abdullah expressed gratitude to God and called for an investigation into the incident. He also commented on the prevailing atmosphere of hatred and the need for unity.",
-    "img": "https://static.toiimg.com/photo/msid-129496936,imgsize-1102454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/farooq-abdullahs-first-reaction-after-assassination-attempt-the-killer-always-has-an-advantage/articleshow/129496820.cms",
-    "time": "2026-03-12T07:31:22.000Z"
   },
   {
     "cat": "Business",
@@ -612,15 +657,6 @@ const newsData_en = [
     "time": "2026-03-12T06:28:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India backs UNSC resolution condemning Iranian strikes on Gulf nations",
-    "desc": "India backed a UN Security Council that strongly condemned Iran's attacks on regional neighbours, including Saudi Arabia and the UAE, with 13 votes in favour. The resolution demands an immediate halt to strikes on civilian areas and interference with maritime trade. China and Russia abstained, deeming the text biased, while Iran labelled it unjust.",
-    "img": "https://static.toiimg.com/photo/msid-129494787,imgsize-98000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/middle-east-crisis-india-backs-unsc-resolution-condemning-iranian-strikes-on-gulf-nations/articleshow/129494684.cms",
-    "time": "2026-03-12T06:14:03.000Z"
-  },
-  {
     "cat": "World",
     "title": "Indian national killed in attack by Iran against U.S.-owned oil tanker Safesea Vishnu in Iraqi waters",
     "desc": "An Indian national, whose name is being withheld at the moment, has reportedly been killed in the attack, while the remaining 27 crew and personnel on the oil tanker have been rescued and taken to Basra, the sources said",
@@ -657,24 +693,6 @@ const newsData_en = [
     "time": "2026-03-12T05:23:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Indian national killed as Iran ‘suicide boat’ hits US-owned tanker Safesea Vishnu off Iraq",
-    "desc": "An Indian national has died following an attack by an Iranian suicide boat on a US-owned oil tanker near Iraq. The incident occurred off the Khor Al Zubair port, with the remaining 27 crew members rescued. The company expressed devastation and urged the Indian government to condemn the attack and ensure seafarer safety amid regional tensions",
-    "img": "https://static.toiimg.com/photo/msid-129492497,imgsize-47214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-national-killed-as-iran-suicide-boat-hits-us-owned-tanker-safesea-vishnu-off-iraq/articleshow/129491725.cms",
-    "time": "2026-03-12T04:33:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘VVS and I were not big talkers in the middle’: Dravid recalls 2001 Eden Test",
-    "desc": "Rahul Dravid reflects on the iconic Eden Gardens Test victory against Australia, highlighting the tactical brilliance of batting at No. 6 and his marathon partnership with VVS Laxman. He emphasises how this monumental win, a testament to team effort and resilience, proved a significant turning point for Indian cricket, instilling belief and paving the way for future successes.",
-    "img": "https://static.toiimg.com/photo/msid-129491656,imgsize-66440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/toi-exclusive-vvs-laxman-and-i-were-not-big-talkers-in-the-middle-rahul-dravid-recalls-2001-eden-gardens-test-vs-australia/articleshow/129491638.cms",
-    "time": "2026-03-12T04:33:17.000Z"
-  },
-  {
     "cat": "World",
     "title": "Missile strike kills eight on Beirut seafront as Israel launches wide-scale attacks on Hezbollah",
     "desc": "In Lebanon, the Health Ministry said an Israeli strike hit Beirut’s Ramlet al-Baida seafront, killing at least eight people and wounding around 21 others. The attack comes as the Israel–Hezbollah conflict intensifies, with more than 600 people killed and around 800,000 displaced in Lebanon.",
@@ -682,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-missile-strike-kills-eight-on-beirut-seafront-as-israel-launches-wide-scale-attacks-on-hezbollah/article70733745.ece",
     "time": "2026-03-12T04:12:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Sachin helped Sanju Samson, and many others",
-    "desc": "Sanju Samson credits Sachin Tendulkar's guidance for his Player of the Tournament award at the 2026 T20 World Cup, highlighting the 'God of cricket's' consistent support. Tendulkar's willingness to share his expertise, from technical advice to mental fortitude, has made him a sought-after mentor for Indian cricketers navigating challenging periods.",
-    "img": "https://static.toiimg.com/photo/msid-129490756,imgsize-62554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dial-s-for-solutions-how-sachin-tendulkar-helped-sanju-samson-and-many-others/articleshow/129490694.cms",
-    "time": "2026-03-12T03:57:06.000Z"
   },
   {
     "cat": "Business",
@@ -709,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/india-joins-30-un-member-states-to-express-deep-alarm-at-escalation-of-hostilities-in-lebanon/article70733558.ece",
     "time": "2026-03-12T02:14:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil price today (March 12, 2026): Crude jumps after tanker strikes in Iraq; supply fears persist",
-    "desc": "Oil prices rose above 9% despite significant releases from strategic reserves by major economies. The United States and the International Energy Agency announced substantial crude oil withdrawals to stabilise markets. However, escalating tensions in the Middle East and the disruption of the Strait of Hormuz continue to fuel price volatility.",
-    "img": "https://static.toiimg.com/photo/msid-129488746,imgsize-39068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-march-12-2026-crude-jumps-after-tanker-strikes-in-iraq-supply-fears-persist/articleshow/129487734.cms",
-    "time": "2026-03-12T01:55:27.000Z"
   },
   {
     "cat": "World",
