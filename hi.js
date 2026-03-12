@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'I don't see a point': Cheteshwar Pujara weighs in on MS Dhoni's batting position for CSK ahead of IPL 2026",
+    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026, and the 10 franchises will be looking to put in their best performances in hopes of getting their hands on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-don-t-see-a-point-cheteshwar-pujara-weighs-in-on-ms-dhoni-s-batting-position-for-csk-ahead-of-ipl-2026-2026-03-12-1033563",
+    "time": "2026-03-12T12:39:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Team India faces jam-packed schedule for remainder of 2026, more games in the works: Report",
+    "desc": "With the T20 World Cup 2026 in the Indian team’s grasp, the side now faces a jam-packed schedule over the next 12 months. According to a Cricbuzz report, the Indian team is likely to play...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/team-india-faces-jam-packed-schedule-for-remainder-of-2026-more-games-in-the-works-report-2026-03-12-1033554",
+    "time": "2026-03-12T11:48:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Irfan Pathan previews CSK's clash with RR ahead of IPL 2026, highlights importance of Sanju Samson",
+    "desc": "The BCCI (Board of Control for Cricket in India) announced the schedule for the first two weeks of the IPL (Indian Premier League) 2026 season. The season opener of the tournament will see defending champions...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-previews-csk-s-clash-with-rr-ahead-of-ipl-2026-highlights-importance-of-sanju-samson-2026-03-12-1033544",
+    "time": "2026-03-12T11:05:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shivam Dube presents T20 World Cup winner's medal to his father in heartfelt moment",
+    "desc": "The Indian team returned triumphant from their T20 World Cup 2026 campaign. Under the leadership of Suryakumar Yadav, the Men in Blue just lost a single game throughout the tournament and went on to defeat...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shivam-dube-presents-t20-world-cup-winner-s-medal-to-his-father-in-heartfelt-moment-watch-2026-03-12-1033537",
+    "time": "2026-03-12T10:24:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Are you serious?': Former selector reveals Sachin Tendulkar's reaction after being told about replacing him",
     "desc": "Sachin Tendulkar is arguably the best cricketer ever to play the sport and rightly so. He is the leading run-scorer in Tests and ODIs and played a staggering 24 years for India during his glittering...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/the-hundred-auction-2026-live-when-and-where-to-watch-the-event-live-on-tv-and-online-in-india-2026-03-12-1033471",
     "time": "2026-03-12T02:57:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'MS Dhoni never said to drop Yuvraj Singh': Former India selector debunks rumours around selection meeting",
-    "desc": "MS Dhoni and Yuvraj Singh were great friends during their playing days. The duo stitched some memorable partnerships for India that turned the game in the team's favour as well. But as their careers progressed, tensions...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-never-said-to-drop-yuvi-former-india-selector-debunks-rumours-around-selection-meeting-2026-03-12-1033468",
-    "time": "2026-03-12T02:24:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 matches to look forward to from the first 20 fixtures of season",
-    "desc": "The schedule for the 19th edition of the Indian Premier League (IPL) was finally announced today, with the season commencing on March 28. However, the schedule has only been confirmed for the first two weeks...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-schedule-3-matches-to-look-forward-to-from-the-first-20-fixtures-of-season-2026-03-11-1033456",
-    "time": "2026-03-11T18:07:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan head coach Mike Hesson reacts to team's poor batting performance in 1st ODI vs Bangladesh",
-    "desc": "Pakistan head coach Mike Hesson's role has come under the scanner ever since Salman Ali Agha and his men failed to qualify for the semifinal of the T20 World Cup 2026. To make things worse,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-head-coach-mike-hesson-reacts-to-team-s-poor-batting-performance-in-1st-odi-vs-bangladesh-2026-03-11-1033451",
-    "time": "2026-03-11T17:07:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Iran pulls out FIFA World Cup 2026 in US, 'under no circumstances we can participate', says Sports Minister",
-    "desc": "Iran has officially pulled out of the upcoming FIFA World Cup that will be co-hosted by the United States, Canada and Mexico amid war with US and Israel. The country's sports minister Ahmad Donyamali confirmed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/iran-pulls-out-fifa-world-cup-2026-in-us-under-no-circumstances-we-can-participate-says-sports-minister-2026-03-11-1033443",
-    "time": "2026-03-11T15:39:27.000Z"
   }
 ];

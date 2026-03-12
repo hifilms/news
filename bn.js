@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "পেট্রল-ডিজেল নিয়ে দেশে কোনও সঙ্কট নেই! সংসদে জানালেন পেট্রোলিয়াম মন্ত্রী হরদীপ সিং পুরি",
+    "desc": "সংসদে দেশের পেট্রোপণ্যের সঙ্কট নিয়ে বক্তব্য রাখলেন পেট্রোলিয়াম মন্ত্রী হরদীপ সিং পুরী। হরদীপ সিং পুরির বক্তব্যের সময় এপস্টিন এপস্টিন করে শোরগোল বিরোধীদের। বিক্ষোভ দেখান বিরোধীরা। পুরি এদিন লোকসভায় তেল নিয়ে চিন্তার কোনও কারণ নেই বলে আশ্বস্ত করেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Puri-2026-03-f0be8d5bd32f8ce132158adff1bf13c1-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/petroleum-minister-hardeep-singh-puri-says-no-shortage-of-petrol-diesel-kerosene-atf-or-fuel-oil-rdp-2581999.html",
+    "time": "2026-03-12T12:45:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "শনিবার ব্রিগেডে মোদি...! প্রশাসনিক সভায় আমন্ত্রিত মুখ্যমন্ত্রী, রাজ্যপাল, উত্তরবঙ্গ থেকে ১৬ জোড়া বিশেষ ট্রেন, দেখে নিন সফরসূচি",
+    "desc": "শুক্রবারই রাজ্যে আসছেন নরেন্দ্র মোদি। শনিবার ব্রিগেড গ্রাউন্ডেই জোড়া-সভা করবেন প্রধানমন্ত্রী। র উপস্থিতিতে ব্রিগেডের সরকারি প্রোগ্রামে আমন্ত্রণ জানানো হয়েছে মমতাকে। আমন্ত্রিত রাজ্যের নতুন রাজ্যপাল আর এন রবি। রেলের তরফে ঘোষণা করা হল ১৬ জোড়া ট্রেনের।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/modi-mamta-2026-03-7dc6b3e7986e6290c5ef88b498c3ab59-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/kolkata/pm-modi-brigade-rally-prime-minister-modi-to-visit-west-bengal-railways-to-run-16-pairs-of-special-trains-from-north-bengal-cm-governor-invited-for-administrative-meeting-check-out-the-schedule-sanj-2581792.html",
+    "time": "2026-03-12T10:34:00.000Z"
+  },
+  {
     "cat": "Business",
     "title": "বাড়িতে 'কত' লিটার পেট্রোল রাখলে আপনার 'জেল' হতে পারে জানেন...? চমকাবেন শুনলেই!",
     "desc": "বাড়ছে পেট্রোল-ডিজেলের দাম? অনেকেই বড় বড় ড্রামে পেট্রোল ডিজেল নিয়ে জমা করছেন বাড়িতে। এমন বহু ভিডিওও ভাইরাল হয়েছে সোশ্যাল মিডিয়াতে। কিন্তু জানেন কী আদতে পেট্রোলের ঘাটতি কতটা? আদৌ কতটা পেট্রোল আপনি বাড়িতে রাখতে পারেন আইনত? কতটা পেট্রোল বা ডিজেল রাখলে পড়বেন বিপদে?",
@@ -169,15 +187,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/srijato-health-update-of-bengali-poet-srijato-after-he-met-with-an-accident-rm-2579075.html",
     "time": "2026-03-11T07:29:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বাংলাতেই ৫০°C ছাড়াবে গরম? রেকর্ড দিন তাপপ্রবাহ, ২০২৬-এ ভয়ংকর জ্বালাপোড়ায় 'ঝলসে' যাবে মানুষ",
-    "desc": "১৯০১ সালের পর অন্যতম উষ্ণ ফেব্রুয়ারি। মার্চ থেকে মে, বেশিরভাগ এলাকায় স্বাভাবিকের তুলনায় সর্বোচ্চ তাপমাত্রা বেশি থাকবে। IMD-র পূর্বাভাস অনুযায়ী, স্বাভাবিকের তুলনায় ৩ থেকে ১৫ দিন বেশি তাপপ্রবাহ চলবে। প্রায় সারা ভারতেই জারি হিটওয়েভের রেড অ্যালার্ট!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/temperature-will-cross-50%C2%B0c-heat-wave-alerts-across-india-2026-hottest-summer_644458.html ",
-    "time": "2026-03-11T07:11:12.000Z"
   },
   {
     "cat": "World",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rainfall-alert-in-17-states-temperature-will-rise-massively-in-48-hours-for-these-states-check-latest-west-bengal-weather-sanj-2570625.html",
     "time": "2026-03-05T11:30:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Petrol-Diesel Price Hike: মধ্যপ্রাচ্যে যুদ্ধ পরিস্থিতির জেরে কি বাড়তে চলেছে পেট্রোল-ডিজেলের দাম ?",
-    "desc": "মধ্যপ্রাচ্যের ভূ-রাজনৈতিক উত্তেজনার কারণে আন্তর্জাতিক বাজারে অপরিশোধিত তেলের দামে উত্থান দেখা যাচ্ছে। এর ফলে ভারতে পেট্রোল ও ডিজেলের দামে পরিবর্তন আসতে পারে কি না, তা নিয়েই বাড়ছে জল্পনা। বিশেষজ্ঞদের মতে পরিস্থিতির দিকে নজর রাখছে সরকার।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/petrol-21-2026-03-8465f53f3187c1e5a9b25db2ad995916-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/will-petrol-and-diesel-prices-rise-due-to-middle-east-war-impact-of-global-crude-oil-explained-dc-2570631.html",
-    "time": "2026-03-05T11:23:05.000Z"
   }
 ];

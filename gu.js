@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "અંધેરી રાત, મોતનો ડર અને ભારતનું સાહસ... કેવી રીતે સ્ટ્રેટ ઓફ હોર્મુઝમાંથી ઓઈલ ભરેલું જહાજ પહોંચ્યું મુંબઈ",
+    "desc": "મુંબઈ પોર્ટ પર એક જહાજ આજે ભારે માત્રામાં ક્રૂડ ઓઈલ લઈને પહોંચ્યું છે. 'Shenlong'એ યુદ્ધગ્રસ્ત સ્ટ્રેટ ઓફ હોર્મુઝમાંથી પસાર થતા સમયે AIS બંધ કરીને 'ડાર્ક મોડ'માં મુસાફરી કરી અને સાઉદી અરેબિયાથી 135,000 ટન ક્રૂડ ઓઈલ લઈને સુરક્ષિત રીતે મુંબઈ પહોંચ્યું. આ સંઘર્ષ શરૂ થયા પછી ભારત પહોંચનાર આ પહેલું જહાજ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/dark-night-fear-of-death-and-india-adventure-how-a-ship-full-of-oil-reached-mumbai-from-the-strait-of-hormuz-468300 ",
+    "time": "2026-03-12T12:36:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શહેરમાં 25, ગ્રામ્ય વિસ્તારમાં કેટલા દિવસમાં થશે સિલિન્ડરનું બુકિં? સરકારે આપ્યો જવાબ",
+    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા જંગને કારણે ગેસ સપ્લાય પર અસર જોવા મળી રહી છે. ભારતના ઘણા ભાગમાં લોકો સિલિન્ડર માટે લાઇનમાં ઉભેલા જોવા મળી રહ્યાં છે. કેટલાક લોકો કાળાબજારી કરી રહ્યાં છે. આ વચ્ચે સરકારે સિલિન્ડર બુકિંગના નિયમોમાં ફેરફાર કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lpg-gas-crisis-rural-area-refill-gap-increased-to-45-days-says-hardeep-singh-puri-468302 ",
+    "time": "2026-03-12T11:55:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પોલીસ અધિકારીની ડિમોશનની અપીલ, કહ્યું-&amp;#039;મારે સબ ઈન્સ્પેક્ટર નથી બનવું, કોન્સ્ટેબલ જ રહેવું છે&amp;#039;",
+    "desc": "પ્રમોશન કોને લેવું ન ગમે? પરંતુ દિલ્હી પોલીસનો એક કોન્સ્ટેબલ પ્રમોશનની ના પાડી રહ્યો છે અને આ મામલો હવે પોલીસ બેડામાં ચર્ચાનો વિષય બન્યો છે. આખરે શાં માટે કોન્સ્ટેબલ એસઆઈ બનવાની ના પાડે છે? આ અનુસંધાનમાં એક પત્ર હાલ વાયરલ થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/delhi-police-personal-letter-goes-viral-appeals-for-demotion-news-in-gujarati-468291 ",
+    "time": "2026-03-12T10:57:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આઠમાં પગાર પંચમાં આ યોજનામાં થશે મોટો ફેરફાર! સરકારી કર્મચારીઓના પ્રમોશન પર થશે અસર",
+    "desc": "આઠમાં પગાર પંચની ભલામણોની રાહ જોવાઈ રહી છે. આ બધા વચ્ચે કર્મચારી સંગઠનોએ MACP યોજનામાં ફેરફારની માંગણી કરી છે. ત્યારે આ યોજના વિશે ખાસ જાણો અને શાં માટે કર્મચારી સંગઠન આ યોજનામાં ફેરફાર ઈચ્છે છે અને શું ફેરફાર ઈચ્છે છે તે પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-update-employee-organization-wants-changes-in-macp-scheme-know-why-468283 ",
+    "time": "2026-03-12T10:30:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8 દિવસમાં આ IPOએ કરાવ્યું મોટું નુકસાન, 104 રૂપિયાનો શેર હવે 52 રૂપિયાથી નીચે પહોંચ્યો",
+    "desc": "શ્રી રામ ટ્વિસ્ટેક્સના IPO માં શેરનો ભાવ 104 રૂપિયા હતો. કંપનીના શેર 2 માર્ચે બજારમાં લિસ્ટ થયા હતા. શ્રી રામ ટ્વિસ્ટેક્સનો શેર ઘટીને 12 માર્ચે 51.45 રૂપિયા પર પહોંચી ગયો છે. 104 રૂપિયાની આઈપીઓ પ્રાઇસ મુકાબલે કંપનીના શેરમાં 50 ટકાથી વધુનો ઘટાડો થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/shree-ram-twistex-share-has-crashed-by-half-in-just-8-days-once-priced-at-%E2%82%B9104-has-now-dropped-below-%E2%82%B952-468281 ",
+    "time": "2026-03-12T09:55:27.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ટીમ ઈન્ડિયા હવે આગામી T20 આંતરરાષ્ટ્રીય મેચ ક્યારે રમશે ? આવી ગઈ તારીખ",
     "desc": "ટીમ ઈન્ડિયાના લગભગ બધા ખેલાડીઓ આ મહિનાના અંતમાં શરૂ થનારી આઈપીએલમાં રમશે. આ દરમિયાન તમને સવાલ થતો હશે કે ભારતીય ટીમ તેની આગામી ટી20 આંતરરાષ્ટ્રીય મેચ ક્યારે અને ક્યાં રમશે. જેની તારીખ જાહેર થઈ ગઈ છે.",
@@ -324,15 +369,6 @@ const newsData_gu = [
     "time": "2026-03-10T09:33:50.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ગુજરાત ટાઇટન્સમાં જોડાયો ઓસ્ટ્રેલિયન દિગ્ગજ ખેલાડી, આંતરરાષ્ટ્રીય ક્રિકેટમાં ફટકારી છે 40 સદી, જાણો",
-    "desc": "નવી IPL સીઝન પહેલા, ગુજરાત ટાઇટન્સની ટીમમાં મોટો ફેરફાર થયો છે. આ વખતે, એક ઓસ્ટ્રેલિયન અનુભવી ખેલાડી ટીમમાં જોડાઈ રહ્યો છે, જે ફ્રેન્ચાઇઝ માટે મુખ્ય ભૂમિકા ભજવશે. આ ખેલાડીએ પોતાની આંતરરાષ્ટ્રીય કારકિર્દીમાં 40 સદી ફટકારી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/australian-legend-joins-gujarat-titans-has-scored-40-centuries-in-international-cricket-know-467952 ",
-    "time": "2026-03-10T07:24:16.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "&amp;#039;મારા શરીરને આખું નિચોવી નાખ્યું...&amp;#039;ફિલ્મ &amp;#039;વશ&amp;#039;ની ગુજરાતી અભિનેત્રીએ ખોલ્યા રહસ્યો; કહ્યું- રોજ ક્યાંક ને ક્યાંક...",
     "desc": "અજય દેવગનની ફિલ્મ 'શૈતાન' દ્વારા જાણીતી થયેલી અભિનેત્રી જાનકી બોડીવાલાએ તાજેતરમાં પોતાના કામને લઈને મોટો ખુલાસો કર્યો છે. તેણે જણાવ્યું કે કેવી રીતે કામના ભારણને કારણે તેમની હાલત ખરાબ થઈ ગઈ હતી અને જ્યારે તે સેટ પરથી ઘરે જતી ત્યારે તેના શરીર પર ઈજાના નિશાન જોવા મળતા હતા.",
@@ -349,24 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/crude-oil-crosses-114-dollars-know-what-are-the-prices-of-petrol-and-diesel-in-your-city-467939 ",
     "time": "2026-03-10T06:13:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દેશભરમાં ગેસનું સંકટ, LPG ના મળતા મુંબઈ-બેંગલુરુમાં રેસ્ટોરન્ટ બંધ, જાણો શું કહ્યું સરકારે",
-    "desc": "મુંબઈમાં LPG સિલિન્ડરોની અછત હવે હોટેલ અને રેસ્ટોરન્ટ ઉદ્યોગ માટે એક મોટી કટોકટી બની રહી છે. જો પરિસ્થિતિ ટૂંક સમયમાં સુધરશે નહીં, તો શહેરના ઘણા રેસ્ટોરન્ટ આગામી બે દિવસમાં બંધ થઈ શકે છે. તેલ કંપનીઓ પાસે ફક્ત બે દિવસનો ગેસ બાકી હોવાથી કોમર્શિયલ ગેસ સપ્લાય એજન્સીઓ બંધ થઈ ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lpg-cylinder-crisis-india-facing-cooking-gas-shortage-commercial-cylinder-467897 ",
-    "time": "2026-03-10T03:30:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM મોદીનો એક કોલ અને ઈરાન યુદ્ધનો આવશે અંત, પૂર્વ રાજદૂતનું મોટું નિવેદન",
-    "desc": "પશ્ચિમ એશિયામાં ચાલી રહેલા યુદ્ધ વચ્ચે, ભૂતપૂર્વ રાજદૂતે ભારત અંગે એક મહત્વપૂર્ણ નિવેદન આપ્યું છે. તેમણે કહ્યું કે પીએમ મોદી આ બધા દેશોમાં ખૂબ જ આદરણીય છે. જો તેઓ ઈરાન અને ઈઝરાયલના નેતાઓને એક પણ ફોન કોલ કરશે, તો આ તણાવ નોંધપાત્ર રીતે ઓછો થશે અને આ યુદ્ધનો અંત આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/one-call-from-pm-modi-and-the-iran-war-will-end-big-statement-from-former-ambassador-467862 ",
-    "time": "2026-03-09T16:46:40.000Z"
   },
   {
     "cat": "Business",
@@ -430,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-fall-despite-war-situation-in-middle-east-why-check-the-latest-rates-aaj-no-sona-no-bhav-467777 ",
     "time": "2026-03-09T04:03:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોનાના ભાવમાં 19,000નો મોટો ઘટાડો, શું હજુ પણ ભાવ ઘટશે? જાણો શું કહે છે નિષ્ણાતો",
-    "desc": "નિષ્ણાતોના મતે, હાલમાં સ્થાનિક બજારમાં સોનું 1,37,000 રૂપિયાથી 1,65,000 રૂપિયા પ્રતિ 10 ગ્રામની મોટી રેન્જમાં વેપાર કરી શકે છે. જો કિંમતો 1,65,000 રૂપિયાની ઉપર બંધ થાય છે, તો ફરી એક નવી તેજી જોવા મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-price-drops-by-rs-19000-will-it-continue-to-fall-know-what-experts-say-467743 ",
-    "time": "2026-03-08T14:54:29.000Z"
   },
   {
     "cat": "World",
@@ -565,14 +574,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-murder-mystery-on-netflix-malayalam-film-forensic-in-hindi-on-ott-466891 ",
     "time": "2026-03-02T12:26:02.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "વિશ્વભરના સેમસંગ યુઝર્સની મોજ, કંપનીએ આપી ભેટ, હવે નેટવર્ક વિના કરી શકશે વાત, જાણો",
-    "desc": "જો તમે સેમસંગ સ્માર્ટફોનનો ઉપયોગ કરી રહ્યા છો, તો તમારા માટે સારા સમાચાર છે. ટૂંક સમયમાં, તમે નેટવર્ક કનેક્શન વિના તમારા સેમસંગ ફોન પર વાત કરી શકશો અને તમારા પ્રિયજનો સાથે હંમેશા જોડાયેલા રહી શકશો, ભલે નજીકમાં કોઈ સેલ્યુલર નેટવર્ક ન હોય.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/samsung-user-around-the-world-will-start-dancing-the-company-has-given-a-gift-now-they-will-be-able-to-talk-without-a-network-466450 ",
-    "time": "2026-02-27T14:56:14.000Z"
   }
 ];
