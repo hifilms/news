@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When will Team India play their next T20I series after T20 World Cup triumph?",
+    "desc": "Team India created history last week, becoming the first team to win the T20 World Cup three times. They defeated New Zealand in the final by 96 runs at the Narendra Modi Stadium in Ahmedabad,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-will-team-india-play-their-next-t20i-series-after-t20-world-cup-triumph-2026-03-12-1033479",
+    "time": "2026-03-12T04:15:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch the event live on TV and online in India?",
+    "desc": "London's Piccadilly Lights witnessed history in the first-ever Women's Hundred auction on March 11 (Wednesday). The same venue will also host the first-ever Men's Hundred auction today as over 240 players are set to go...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/the-hundred-auction-2026-live-when-and-where-to-watch-the-event-live-on-tv-and-online-in-india-2026-03-12-1033471",
+    "time": "2026-03-12T02:57:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'MS Dhoni never said to drop Yuvi': Former India selector debunks rumours around selection meeting",
+    "desc": "MS Dhoni and Yuvraj Singh were great friends during their playing days. The duo stitched some memorable partnerships for India that turned the game in the team's favour as well. But as their careers progressed, tensions...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-never-said-to-drop-yuvi-former-india-selector-debunks-rumours-around-selection-meeting-2026-03-12-1033468",
+    "time": "2026-03-12T02:24:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 matches to look forward to from the first 20 fixtures of season",
     "desc": "The schedule for the 19th edition of the Indian Premier League (IPL) was finally announced today, with the season commencing on March 28. However, the schedule has only been confirmed for the first two weeks...",
     "img": "",
@@ -61,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/inko-world-cup-jeetna-hai-fans-troll-pakistan-after-bangladesh-bowl-them-out-for-114-in-1st-odi-2026-03-11-1033409",
     "time": "2026-03-11T11:23:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sitanshu Kotak opens up on Shivam Dube's bowling prowess and game plan after India's World Cup victory",
-    "desc": "The Indian team was undoubtedly the best in the recently concluded T20 World Cup 2026. Under the leadership of Suryakumar Yadav, India lost just one game and went on to defeat New Zealand in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sitanshu-kotak-opens-up-on-shivam-dube-s-bowling-prowess-and-game-plan-after-india-s-world-cup-victory-2026-03-11-1033394",
-    "time": "2026-03-11T10:08:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh beat Pakistan by 8 wickets to take 1-0 lead in series",
-    "desc": "Pakistan and Bangladesh kick off their series by facing off in the 1st ODI of the series. The two sides meet at the Shere Bangla National Stadium in Mirpur. The game began on a positive note...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ban-vs-pak-1st-odi-live-cricket-score-pakistan-aim-for-good-showing-with-the-bat-in-the-first-innings-2026-03-11-1033384",
-    "time": "2026-03-11T08:33:05.000Z"
   }
 ];

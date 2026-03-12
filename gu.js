@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "IPL 2026 પહેલા ગુજરાત ટાઇટન્સમાં ગૌતમ ગંભીરના ખાસ વ્યક્તિની એન્ટ્રી, KKR ને બનાવી ચૂક્યા છે ચેમ્પિયન",
+    "desc": "આઈપીએલ 2026ની તૈયારીઓ પૂરજોશમાં ચાલી રહી છે. સીઝન 19 ની શરૂઆત 28 માર્ચથી થવા જઈ રહી છે અને BCCI દ્વારા તેના પ્રથમ ફેઝનું શેડ્યૂલ પણ જાહેર કરી દેવામાં આવ્યું છે. આ દરમિયાન ગુજરાત ટાઇટન્સની ટીમ એક અલગ જ તૈયારીમાં વ્યસ્ત છે. હવે કોલકાતા નાઈટ રાઈડર્સ (KKR) ને ચેમ્પિયન બનાવનાર દિગ્ગજ કોચની ગુજરાતની ટીમમાં એન્ટ્રી થઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/gautam-gambhirs-special-man-joins-gujarat-titans-ahead-of-ipl-2026-having-already-made-kkr-a-champion-468211 ",
+    "time": "2026-03-12T04:44:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "કેપ્ટનશીપ તો દૂરની વાત, શુભમન ગિલ માટે ટીમ ઈન્ડિયામાં જગ્યા પણ નથી: પૂર્વ ક્રિકેટરનો ચોંકાવનારો દાવો",
+    "desc": "ટીમ ઈન્ડિયાના સ્ટાર ખેલાડી શુભમન ગિલ હવે ટી20 ટીમ ઈન્ડિયામાં ક્યારેય વાપસી કરી શકશે નહીં, કેપ્ટનશીપ તો બહુ દૂરની વાત છે. ટીમ ઈન્ડિયાના પૂર્વ ક્રિકેટર અને એક્સપર્ટનું આવું માનવું છે. ગિલને તાજેતરમાં યોજાયેલા ટી20 વર્લ્ડ કપની ટીમમાંથી પણ બહાર રાખવામાં આવ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shubman-gill-has-no-place-in-team-india-let-alone-captaincy-a-shocking-claim-by-a-former-cricketer-468209 ",
+    "time": "2026-03-12T03:53:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આ ગુજરાતીનું ચાણક્ય જેવું મગજ, દવાથી ડિઓ સુધી દરેક વસ્તુ બનાવી, આજે કરોડોની કંપનીના માલિક",
+    "desc": "ગુજરાતી વેપારી દર્શન પટેલે કોઈ શિક્ષણ કે અનુભવ વગર માર્કેટિંગમાં પોતાની કુશળતા સાબિત કરી છે. દર્શન પટેલે ફોગ ડિઓડરેન્ટને ગેસ વગરનો સ્પ્રે કહી પ્રચાર કર્યો હતો. તેમની આ જાહેરાત ખુબ હીટ રહી. દર્શન પટેલ વિની કોસ્મેટિક્સ પ્રાઇવેટ લિમિટેડના ફાઉન્ડર છે. આજે અમે તમને દર્શન પટેલની સફળતાની કહાની જણાવીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/success-story-of-gujarati-businessman-darshan-patel-vini-cosmatics-fogg-moov-success-story-468132 ",
+    "time": "2026-03-12T02:30:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "કૃતિકા કામરા અને ગૌરવ કપૂર બન્યા પતિ-પત્ની, ધામધૂમ વિના ઘરની અગાસી પર કર્યા લગ્ન",
+    "desc": "એન્ટરટેઈનમેન્ટ ઈંડસ્ટ્રીમાં લગ્નની સીઝન ચાલી રહી છે. કલાકારો લગ્ન કરીને સેટલ થવાના મૂડમાં હોય તેવું લાગે છે. રશ્મિકા મંદાના અને વિજય દેવરકોંડા પછી હવે અભિનેત્રી કૃતિકા કામરા અને એક્ટર અને હોસ્ટ ગૌરવ કપૂર લગ્નના બંધનમાં બંધાયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/kritika-kamra-and-gaurav-kapur-got-married-11-march-2026-wedding-photo-viral-social-media-468198 ",
+    "time": "2026-03-12T02:05:38.000Z"
+  },
+  {
     "cat": "World",
     "title": "ઈરાની નેવીની ડેથ વેલી! જે પણ ઘૂસવાનો પ્રયત્ન કરશે તેનો નાશ કરીશું, જાણો શું છે",
     "desc": "અમેરિકા અને ઈઝરાયેલ સામેની યુદ્ધમાં ઈરાને હવે એક નવો મોરચો ખોલી દીધો છે. ડેથ વેલી ઈરાનની આ જ મોરચાબંધીનું પરિણામ માનવામાં આવી રહ્યું છે. દાવો એવો છે કે, આ વિસ્તારમાં જે પણ આવશે તે સલામત રીતે પરત જશે નહીં. આખરે ક્યાં છે આ ડેથ વેલી જે ઈરાની નેવીએ તૈયાર કરી છે. સમજીએ આ ખાસ અહેવાલમાં..",
@@ -313,42 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/worries-about-battery-drain-are-over-google-play-store-will-now-give-warnings-know-how-it-works-467855 ",
     "time": "2026-03-09T14:25:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દીકરીઓ માટે અદભુત સરકારી યોજના, 200 રૂપિયાનું રોકાણ કરવાથી 40 લાખનું  ફંડ બનશે, જાણો ગણતરી",
-    "desc": "મોંઘવારીના સમયમાં જ્યારે ઘરના બે છેડા માંડમાંડ મળતા હોય તો રોકાણ વિશે તો વાત જ ક્યાં કરે કોઈ? પરંતુ આમ છતાં તમને જણાવી દઈએ કે એવી પણ કેટલીક સરકારી યોજનાઓ છે જેમાં તમને રોકાણ કરવાથી સારામાં સારા લાભ મળી શકે છે. આવી જ એક યોજના વિશે અમે તમને જણાવીશું જે દીકરીઓનું સારું ભવિષ્ય બનાવવામાં મદદરૂપ થઈ શકે છે. માત્ર 200 રૂપિયાનું દૈનિક રોકાણ તમને લાખોનું ફંડ બનાવવામાં મદદરૂપ બની શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/government-scheme-sukanya-samriddhi-yojana-how-you-can-make-funds-of-40-lakh-by-investing-daily-200-rs-467846 ",
-    "time": "2026-03-09T12:52:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શું ભારતમાં સર્જાઈ રહી છે ઓઈલની અછત? મિડલ ઈસ્ટમાં યુદ્ધ વચ્ચે આ રાજ્યમાં ખાસ આદેશ જાહેર",
-    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા યુદ્ધ વચ્ચે મહારાષ્ટ્રના છત્રપતિ સંભાજીનગર જિલ્લામાં એક ખાસ આદેશ જાહેર કરવામાં આવ્યો છે. આ આદેશ ઓઈલના પુરવઠાને લઈને આપવામાં આવ્યો છે. જેમાં ઓઈલ અને ગેસ કંપનીઓને સૂચના આપવામાં આવી છે કે, આવશ્યક કામગીરીમાં રોકાયેલા સરકારી વાહનો માટે ઈંધણનો સ્ટોર કરવામાં આવે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/oil-shortages-looming-in-india-amid-the-middle-east-war-this-state-has-issued-a-special-order-467842 ",
-    "time": "2026-03-09T12:29:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ગંભીર, સૂર્યા, બુમરાહ જ નહીં આ ખેલાડીની પણ જીતમાં મોટી ભૂમિકા, પડદા પાછળ રહી કર્યું કામ",
-    "desc": "ટીમ ઈન્ડિયાને વર્લ્ડ ચેમ્પિયન બનાવવામાં સંજુ સેમસન, જસપ્રીત બુમરાહ, ઈશાન કિશન, શિવમ દુબે જેવા ખેલાડીઓનો હાથ રહ્યો. કોચ ગોતમ ગંભીરની ભૂમિકા મહત્વની રહી પરંતુ ચીફ સિલેક્ટર અજીત અગરકરે પણ પડદા પાછળ યોગદાન આપ્યું છે જેને ભૂલી શકાય નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-indian-team-win-ajit-agarkar-contribution-as-a-chief-selector-467805 ",
-    "time": "2026-03-09T12:02:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપ જીત્યો છતાં કેપ્ટન સૂર્યાનું નથી ભરાયું મન, કરી મોટી જાહેરાત",
-    "desc": "T20 વર્લ્ડ કપ 2026ની ફાઇનલમાં ભારત ન્યુઝીલેન્ડને 96 રનથી હરાવીને વર્લ્ડ ચેમ્પિયન બન્યું. ભારતની ઐતિહાસિક જીત બાદ કેપ્ટન સૂર્યકુમાર યાદવે આગામી યોજનાઓ પર નિવેદન આપ્યું છે. ત્યારે આ લેખમાં જાણીશું કે કેપ્ટને શું જાહેરાત કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/after-t20-world-cup-win-suryakumar-yadav-next-target-is-olympics-gold-467839 ",
-    "time": "2026-03-09T11:53:57.000Z"
   },
   {
     "cat": "Entertainment",
