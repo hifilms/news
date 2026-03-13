@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Salman Agha's stupidity triggers heated moment, Pakistan-Bangladesh's newfound 'love' turns ugly",
+    "desc": "Pakistan batter Salman Agha was left stunned and furious after Mehidy Hasan Miraz tricked and dismissed him in the second ODI between Bangladesh and Pakistan at the Sher-E-Bangla Stadium in Dhaka. The tense moment unfolded...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/salman-agha-s-stupidity-triggers-heated-moment-pakistan-bangladesh-s-newfound-love-turns-ugly-watch-2026-03-13-1033677",
+    "time": "2026-03-13T11:49:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa, stupidest team in T20 World Cup, should have eliminated India, says Michael Vaughan",
+    "desc": "Former England captain Michael Vaughan has stirred debate with a blunt assessment of South Africa’s campaign at the T20 World Cup 2026, arguing that their own decision-making indirectly cleared the path for India’s title run....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-stupidest-team-in-t20-world-cup-should-have-eliminated-india-says-michael-vaughan-2026-03-13-1033668",
+    "time": "2026-03-13T11:17:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajeev Shukla explains BCCI's stance on Sunrisers Leeds signing Pakistan's Abrar Ahmed in The Hundred",
+    "desc": "Sunrisers Leeds signed Pakistan leg-spinner Abrar Ahmed for 190,000 pounds on Thursday, March 12, for the upcoming The Hundred. The development drew significant attention, as the Indian owners have refrained from investing in Pakistani talent...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajeev-shukla-explains-bcci-s-stance-on-sunrisers-leeds-signing-pakistan-s-abrar-ahmed-in-the-hundred-2026-03-13-1033663",
+    "time": "2026-03-13T10:31:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Who is Kavya Maran? Sunrisers co-owner facing backlash for picking Abrar Ahmed in The Hundred",
     "desc": "Sunrisers Leeds are facing a massive backlash on social media for picking Pakistan's Abrar Ahmed in the Hundred auction on Thursday. This move from the franchise ended the unofficial 'shadow' ban on Pakistan players from...",
     "img": "",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/we-were-so-close-mahmudullah-recalls-bangladesh-s-heartbreaking-1-run-loss-to-india-in-t20-world-cup-2016-2026-03-13-1033602",
     "time": "2026-03-13T02:09:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Donald Trump warns Iran's footballers of 'life and safety' risks if they choose to play in FIFA World Cup 2026",
-    "desc": "The FIFA World Cup 2026 has been one of the most sought-after tournaments of the year. The marquee event is slated to be held in the USA, and with the ongoing West Asia war, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/donald-trump-warns-iran-s-footballers-of-life-and-safety-risks-if-they-choose-to-play-in-fifa-world-cup-2026-2026-03-12-1033586",
-    "time": "2026-03-12T17:22:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abrar Ahmed becomes first Pakistan player to be picked by IPL-based franchise in The Hundred",
-    "desc": "The Hundred auction saw several star players being sold to different franchises, but none managed to grab as many headlines as Pakistan’s Abrar Ahmed. It is worth noting that Abrar was bought by Sunrisers Leeds...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abrar-ahmed-becomes-first-pakistan-player-to-be-picked-by-ipl-based-franchise-in-the-hundred-2026-03-12-1033583",
-    "time": "2026-03-12T16:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Faf du Plessis gives his take on pressure that Rishabh Pant could face ahead of IPL 2026",
-    "desc": "The 19th edition of the IPL (Indian Premier League) 2026 is all set to kick off on March 28. With the tournament set to begin, many would look forward to the campaign of Lucknow Super...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/faf-du-plessis-gives-his-take-on-pressure-that-rishabh-pant-could-face-ahead-of-ipl-2026-2026-03-12-1033576",
-    "time": "2026-03-12T14:53:11.000Z"
   }
 ];

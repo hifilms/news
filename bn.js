@@ -1,5 +1,59 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "'আতঙ্ক নয়,গ্যাসের জোগান স্বাভাবিক-ই আছে', 'প্যানিক'-এ বাড়তি সিলিন্ডার বুক না করার আবেদন সরকারের",
+    "desc": "মধ্যপ্রাচ্যের আঁচ পড়েছে ভারতে! চারদিকে গ্যাসের জন্য হাহাকার! ভারত-সহ পশ্চিমবঙ্গে। নানা জায়গায় গ্যাসের অফিসের বাইরে লম্বা লাইন। অভিযোগ ফোনে বুক করা যাচ্ছে না। বুক করলেও মিলছে না। এই পরিস্থিতিতে অনেকেই বাড়তি সিলিন্ডার বুক করে রাখছেন ভয়ে! শুক্রবার সরকারের তরফে জানানো হল, 'প্যানিক বায়িং' নয়, দেশে জ্বালানির জোগান স্বাভাবিক-ই আছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1773292644_lpg-gas-cylinder-1-2026-03-2879f2ab13a6ed9f2fba43476c637054-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/lpg-cylinder-crisis-no-need-for-panic-buying-of-fuel-lpg-supply-to-households-uninterrupted-despite-concerns-says-govt-2583906.html",
+    "time": "2026-03-13T12:38:45.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "এক ক্লিকেই ফাঁকা হতে পারে অ্যাকাউন্ট! অনলাইন শপিংয়ে ভুলেও করবেন না এই কাজ, মাথায় রাখুন সিক্রেট টিপস",
+    "desc": "যে কোনও লিংক এ ক্লিক করে অনলাইনে কেনাকাটা করবেন না, তাহলে হতে পারে বিপদ৷ এর পাশাপাশি সবচেয়ে গুরুত্বপূর্ণ একটি বিষয় সেটি হচ্ছে যে কোনও ধরনের পণ্য কেনার আগে অবশ্যই ক্রেতাদের রেটিং, ও রিভিউ দেখে নিন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/HYP_5805503_cropped_13032026_153732_inshot_20260313_144613473__1-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/if-you-shopping-online-for-a-home-event-you-must-follow-these-specific-tips-l18-rds-local18-2583850.html",
+    "time": "2026-03-13T12:18:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "নিউমোনিয়ায় আক্রান্ত, ফুসফুসে গুরুতর সংক্রমণ, এখন কেমন আছে মহাগুরুর আদরের রোদ্দুর? বড় খবর দিলেন মা",
+    "desc": "একসময় মঞ্চ কাঁপিয়ে বেড়াত ডান্স বাংলা ডান্স-এর ‘হল্লা পার্টি’-র অন্যতম সদস্য রোদ্দুর৷ গত বুধবার, ৫ মার্চ গভীর রাতে হঠাৎ করেই ছোট্ট রোদ্দুরের শারীরিক অবস্থার অবনতি হয়৷ মহাগুরু মিঠুন চক্রবর্তীর আদরের মঞ্চ কাঁপানো রোদ্দুরকে নিয়ে বড় আপডেট দিলেন তার মা৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Dance-Bangla-Dance-Fame-Roddur-2026-03-2d8d0821ca5deeb377cd12bd103d3c09-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/dance-bangla-dance-fame-roddurs-mother-shares-his-health-update-rds-2583783.html",
+    "time": "2026-03-13T11:53:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মহুয়ার সুপ্রিম স্বস্তি: টাকার বিনিময়ে প্রশ্ন মামলায় এখনই চার্জশিট নয়, ৮৯ নম্বর অনুচ্ছেদে স্থগিতাদেশ",
+    "desc": "‘টাকার বিনিময়ে প্রশ্ন’ মামলায় শুক্রবার সব পক্ষকেই নোটিস দিয়েছে সুপ্রিম কোর্ট। মহুয়ার বিরুদ্ধে অভিযোগকারী ঝাড়খণ্ডের বিজেপি সাংসদ নিশিকান্ত দুবে ও সিবিআইকেও নোটিস পাঠানো হয়েছে। ৩ সপ্তাহের মধ্যে নোটিসের জবাব দিতে বলা হয়েছে সব পক্ষকে। ততদিন কার্যকর করা যাবে না দিল্লি হাইকোর্টের রায়ের ৮৯ নম্বর অনুচ্ছেদ।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/supreme-court-gives-stay-order-on-chargesheet-against-mahua-moitra-in-cash-for-query-case_644737.html ",
+    "time": "2026-03-13T11:19:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "৬৬ বছরেই মা হচ্ছেন নীনা গুপ্তা? ‘দেশ আধুনিক হচ্ছে', সত্যিটা জানালেন অভিনেত্রী নিজেই",
+    "desc": "সম্প্রতি হায়দ্রাবাদে দক্ষিণী তারকা বিজয় দেবেরাকোন্ডা এবং রশ্মিকা মন্দানার রাজকীয় বিয়ের রিসেপশনে উপস্থিত হয়েছিলেন নীনা গুপ্তা। সেই অনুষ্ঠানের কিছু ভিডিও এবং ছবি সামাজিক মাধ্যমে ছড়িয়ে পড়তেই নেটিজেনদের একাংশ দাবি করেন যে, তাঁর ‘বেবি বাম্প’ দেখা যাচ্ছে। সত্যিই সুখবর? জানালেন অভিনেত্রী নিজেই।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/neena-gupta-addresses-pregnancy-rumors-at-66-following-vijay-rashmika-reception_644730.html ",
+    "time": "2026-03-13T10:16:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "দিল্লির বিগ ব্রেকিং: CEC জ্ঞানেশ কুমারকে অপসারণে ১০ পাতার নোটিস, ৭ বড় অভিযোগ",
+    "desc": "তৃণমূলের দাবি, অপসারণ প্রস্তাবের সমর্থনে প্রয়োজনের চেয়ে বেশি সই ইতিমধ্যেই সংগৃহীত। বৃহস্পতিবার তৃণমূল দাবি করে যে, মোট ১৯৩ জন সাংসদ CEC জ্ঞানেশ কুমারের অপসারণ প্রস্তাবে সই করেছেন। প্রস্তাব গৃহীত হলে, তা পাস করাতে দুই-তৃতীয়াংশ সংখ্যাগরিষ্ঠতার সমর্থন প্রয়োজন। ভারতের নির্বাচনী ইতিহাসে এক নজিরবিহীন ঘটনা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/gyanesh-kumar-impeachment-10-page-proposal-served-in-parliament-7-points-mentioned_644725.html ",
+    "time": "2026-03-13T09:32:53.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "ফুসফুসে জটিল সংক্রমণ ডান্স বাংলা ডান্সের রোদ্দুরের, '১৫ লক্ষ আর দরকার নেই, শুধু প্রয়োজন': আবেগঘন পোস্ট মায়ের",
     "desc": "‘ডান্স বাংলা ডান্স’-এর গত সিজনে ‘হল্লা পার্টি’-র খুদেদের দস্যিপনা ছিল অন্যতম প্রধান আকর্ষণ। মহাগুরু মিঠুন চক্রবর্তীর সঙ্গে তাদের খুনসুটি দর্শকদের মন জয় করে নিয়েছিল। সেই দলেরই অন্যতম প্রতিভাবান সদস্য রোদ্দুরের এই অসুস্থতায় শোকস্তব্ধ ডান্স রিয়্যালিটি শোর কলাকুশলীরাও। বর্তমানে নেটপাড়া জুড়ে চলছে তার দ্রুত আরোগ্য কামনায় প্রার্থনা। তার মাঝেই বড় আপডেট দিলেন রোদ্দুরের মা।",
@@ -694,15 +748,6 @@ const newsData_bn = [
   },
   {
     "cat": "Entertainment",
-    "title": "অরুণাচলের পাহাড়ে রঙের উৎসব, ‘ছেলেধরা’র সেটে এক টুকরো মেঠো বসন্ত",
-    "desc": "পরিচালক শিলাদিত্য মৌলিক যাঁর আগের ছবি সূর্য টানা ১১ সপ্তাহ প্রেক্ষাগৃহে চলেছিল, এই ছবিতে ফিরছেন এক ভিন্নধর্মী গল্প নিয়ে। অরুণাচল প্রদেশের মনোমুগ্ধকর জিরো ভ্যালিতে শুটিং চলাকালীনই রঙের উৎসবে মেতে উঠলেন ‘ছেলেধরা’ ছবির শিল্পী ও কলাকুশলীরা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/chheledhora-film-team-holi-celebration-ziro-arunachal-pradesh-2026_644059.html ",
-    "time": "2026-03-07T16:59:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "রেড কার্পেটে চোখ সরানো কঠিন! মাধুরীর কালো গাউনের লুকেই মুগ্ধ সবাই",
     "desc": "মুম্বইয়ের ঝলমলে বিনোদন জগতের তারকারা ৮ মার্চ একত্রিত হয়েছিলেন News18 Showsha Reel Awards 2026 অনুষ্ঠানে। আর রেড কার্পেট দেখেই বোঝা গেল, সিনেমার বড় বড় তারকারা এখন আগের চেয়ে অনেক বেশি সাহসী ও নতুনধারার ফ্যাশনকে গ্রহণ করছেন।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/news18-12-2026-03-335b9be87e5c5bc4d14d0b122be6a5f0-1200x800.jpg",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/andhra-pradesh-bans-social-media-for-under-13-chief-minister-rmj-ws-l-2572001.html",
     "time": "2026-03-06T10:29:41.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ইরানের বিরুদ্ধে যুদ্ধ চালাতে প্রতি দিন কত খরচ হচ্ছে আমেরিকার? সবমিলিয়ে হিসাব শুনলে ভিরমি খাবেন",
-    "desc": "প্রায় এক সপ্তাহ ধরে জ্বলছে মধ্য-প্রাচ্য। আমেরিকা-ইজরায়েল বনাম ইরানের যুদ্ধে অশান্ত গোটা পশ্চিম এশিয়া। ইরানের বুকে এখনও পর্যন্ত ২০০০-এর বেশি হামলা চালানো হয়েছে বলে দাবি করেছে আমেরিকা। সাবমেরিন-সহ ইরানের ১৭টি জাহাজ ডুবিয়ে দেওয়া হয়েছে বলে দাবি করেছে আমেরিকা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-06-at-2.20.48-PM-2026-03-a04a45a4bdf9677b50a14de110052b4f-1200x800.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/iran-israel-war-how-much-america-spends-on-this-war-know-the-calculation-will-shock-you-smc-2571877.html",
-    "time": "2026-03-06T08:55:25.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "নামেই 'ভারত মহাসাগর'! ভারতের নিয়ন্ত্রণ কতটুকু? ইরানের যুদ্ধজাহাজ IRIS Dena ডুবতেই উঠছে প্রশ্ন!",
-    "desc": "ইরানের যুদ্ধজাহাজ আইআরআইএস ডেনা ডুবে যাওয়ার ঘটনাকে ঘিরে আন্তর্জাতিক কূটনীতি ও সামুদ্রিক নিয়ন্ত্রণ নিয়ে নতুন করে আলোচনা শুরু হয়েছে। ভারত মহাসাগরে মার্কিন নৌবাহিনীর হামলার পর প্রশ্ন উঠেছে—নামের সঙ্গে ‘ভারত’ থাকলেও এই বিশাল ভারত মহাসাগরের উপর ভারতের নিয়ন্ত্রণ আসলে কতটা। ঘটনাটি সামনে আসতেই আন্তর্জাতিক জলসীমা, সামুদ্রিক আইন এবং এই অঞ্চলে ভারতের কৌশলগত ভূমিকা নিয়ে বিতর্ক তীব্র হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/indian-ocean-2026-03-228affa3f5ee2bf4c7e1bc7d786c33ca-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/why-indian-ocean-not-controlled-by-india-iran-ship-iris-dena-sinking-territory-jurisdiction-explained-tib-2571712.html",
-    "time": "2026-03-06T07:22:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "১-২ কাঠা জমি থাকলেই 'রাজা'! হাওড়ার ঘরে ঘরে নতুন ব্যবসা, কৌশল জানলেই রোজগার হবে মোটা টাকা",
-    "desc": "জমি থাকলে আর চিন্তা নেই! হাওড়ার কিছু ব্লকের বাসিন্দারা প্রমাণ করেছেন যে মাত্র ১-২ কাঠা জমিতে নার্সারি করেই স্বনির্ভর হওয়া সম্ভব। অল্প পরিশ্রম আর সঠিক টিপস কাজে লাগিয়ে কীভাবে বাড়ছে আয়? জানুন হাওড়ার এই নতুন ব্যবসায়িক মডেল সম্পর্কে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/nursery-business-success-tips-2026-03-4793ad4e35d06f426fa850e99a1d6740-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/howrah-business-idea-howrah-nursery-business-success-tips-small-land-huge-income-l18-local18-2571057.html",
-    "time": "2026-03-06T07:17:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পকেটে ৩০,০০০ টাকা থাকলে এই ব্যবসা শুরু করুন, প্রতিদিন ৫,০০০ টাকার মালিক হয়ে যাবেন!",
-    "desc": "অনেকেই নিজের ব্যবসা শুরু করার স্বপ্ন দেখেন, কিন্তু সঠিক প্রশিক্ষণ এবং দক্ষতার অভাবে তাঁরা এই স্বপ্ন বাস্তবায়ন করতে পারেন না। তা বলে হতাশ হওয়ার কারণ নেই! এখানে এমন একটি ব্যবসায়িক ধারণা সম্পর্কে বলা হচ্ছে, যা অল্প সময়ের মধ্যে প্রতিদিন হাজার হাজার টাকা আয় করতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/New-Business-Idea-2026-03-2b9fc6a0e8a3830dd4f251b1956473e6-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/business-idea-if-you-have-30000-rupees-in-your-pocket-start-this-business-and-earn-5000-rupees-a-day-al18-ss-aa-local18-2570389.html",
-    "time": "2026-03-06T01:13:03.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "দুবাইয়ে ফের হামলা ইরানের! ড্রোন আক্রমণে কেঁপে উঠল মার্কিন দূতাবাস",
-    "desc": "বিশ্বের সবচেয়ে ‘নিরাপদ’ শহরও এখন আর নিরাপদ নয়৷ পর পর বিমানহানা ইরানের৷ ঝলমলে আকাশের স্কাইলাইন এখন মাঝমধ্যেই ঢাকছে কালো ধোঁয়ায়৷ রবিবারের পরে এবার আবারও দুবাইতে হামলা চালাল ইরান৷ এবার সরাসরি মার্কিন কনস্যুলেটকে টার্গেট করা হয়েছে বলে জানা গিয়েছে৷ মার্কিন বিদেশ সচিব মার্কো রুবিও খবরটির সত্যতা নিশ্চিত করেছেন৷ জানিয়েছেন, দুবাইয়ের ইউএস কনস্যুলেটের সব কর্মীই নিরাপদে রয়েছেন৷বুধবার আমেরিকার তরফে একটি বিবৃতি প্রকাশ করে জানানো হয়, মার্কিন কনস্যুলেট অর্থাৎ দূতাবাসের বাইরে একটি ড্রোন হামলা হয়, যার জেরে আগুন লেগে যায়৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1772737598_7IIRQeDuMS-jpg-i7JjG7BwoW.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/international/dubai-us-consulate-attack-iran-attacks-dubai-again-us-embassy-shaken-by-drone-attack-pbd-2571248.html",
-    "time": "2026-03-05T19:06:19.000Z"
   }
 ];
