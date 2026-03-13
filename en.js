@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Newcomers get abused, some end up in prostitution'",
+    "desc": "Tanushree Dutta has once again spoken about the darker side of the entertainment industry, warning aspiring actors about manipulation, exploitation and the dangers of blindly trusting people who promise opportunities. The actress said one of the reasons she speaks openly about such issues is to warn young aspirants who come to the industry chasing dreams.",
+    "img": "https://static.toiimg.com/photo/msid-129564492,imgsize-141808.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tanushree-dutta-makes-shocking-claim-about-exploitation-in-showbiz-many-newcomers-get-used-and-abused-some-even-end-up-in-prostitution/articleshow/129564492.cms",
+    "time": "2026-03-13T20:42:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Maha anti-conversion bill proposes 7-year jail, Rs 1 lakh fine",
+    "desc": "Maharashtra has introduced a stringent bill to curb religious conversions through coercion, fraud, or marriage inducement. The proposed law mandates a 60-day notice for conversions and imposes severe penalties, including a seven-year jail term for unlawful conversions linked to marriage. Critics argue the bill infringes on personal freedoms and could foster fear, particularly concerning inter-faith unions.",
+    "img": "https://static.toiimg.com/photo/msid-129564491,imgsize-735371.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/maha-anti-conversion-bill-proposes-7-year-jail-rs-1-lakh-fine/articleshow/129564494.cms",
+    "time": "2026-03-13T20:31:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'KJo had received an underworld threat during KKHH'",
+    "desc": "Filmmaker-choreographer Farah Khan recently looked back at the atmosphere in Bollywood when she began her career in the early 1990s, recalling a time when Hindi cinema struggled with its image and the industry was grappling with the shadow of the underworld. “I remember during the premiere of Duplicate and Kuch Kuch Hota Hai, Karan had received an underworld threat. It was very scary,” she said.",
+    "img": "https://static.toiimg.com/photo/msid-129564420,imgsize-52188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-recalls-bollywoods-dark-phase-in-the-90s-karan-johar-had-received-an-underworld-threat-during-kuch-kuch-hota-hai-premiere/articleshow/129564420.cms",
+    "time": "2026-03-13T20:21:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "War upends life as LPG crisis hits not only eateries &amp; hostels but also temples",
+    "desc": "The ongoing conflict between Iran, the US, and Israel has triggered a severe LPG cylinder shortage across India, leading to black marketing, price hikes, and widespread business closures. Restaurants and educational institutions are forced to reduce operations and meals, while families resort to traditional cooking methods to cope with the crisis.",
+    "img": "https://static.toiimg.com/photo/msid-129564412,imgsize-1265702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/war-upends-life-as-lpg-crisis-hits-not-only-eateries-hostels-but-also-temples/articleshow/129564416.cms",
+    "time": "2026-03-13T20:14:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "22 vessels set to dock at Kandla port in 3 days",
+    "desc": "Deendayal Port in Kandla is preparing to welcome 22 vessels in the next three days, including foreign-flagged ships rerouted from the conflict-hit Gulf region. The port will serve as a transhipment hub for cargo destined for West Asian countries. Preparations are underway to manage this surge due to 'change of voyage' orders.",
+    "img": "https://static.toiimg.com/photo/msid-129564384,imgsize-796925.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/22-vessels-set-to-dock-at-kandla-port-in-3-days/articleshow/129564385.cms",
+    "time": "2026-03-13T20:07:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Crude tankers from Russia, Liberia on way to Indian ports",
+    "desc": "Two crude oil tankers have successfully navigated the Strait of Hormuz, heading towards Indian ports. This offers some relief to energy supplies. Several tankers carrying Russian oil are also rerouting to India. Shipping operations in the Gulf remain challenging, with increased costs due to diversions and higher insurance premiums.",
+    "img": "https://static.toiimg.com/photo/msid-129564370,imgsize-765362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/crude-tankers-from-russia-liberia-on-way-to-indian-ports/articleshow/129564372.cms",
+    "time": "2026-03-13T20:03:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fatima recalls battling epileptic seizure during Dangal shoot",
+    "desc": "Fatima Sana Shaikh has often spoken about living with epilepsy, hoping that sharing her experiences will help create awareness around the neurological condition. In a recent conversation with Soha Ali Khan on her podcast, the actor opened up about the first time she experienced a seizure and how she was eventually diagnosed while shooting for Dangal.",
+    "img": "https://static.toiimg.com/photo/msid-129564350,imgsize-56236.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fatima-sana-shaikh-recalls-battling-epileptic-seizure-during-dangal-shoot-luckily-aamir-khan-sanya-malhotra-were-there/articleshow/129564350.cms",
+    "time": "2026-03-13T20:03:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "27 Indian-flagged ships remain stranded in Persian Gulf, one starts moving: Government official",
+    "desc": "Jag Prakash, an oil tanker with a carrying capacity of 48,000 tonnes, is headed to Tanzania, the official says; three cargo ships with 76 seafarers aboard are located in the Gulf of Oman, while 24 ships are stranded in the Persian Gulf; there are 23,000 Indian nationals working in the region on merchant ships, ports and offshore vessels",
+    "img": "https://th-i.thgim.com/public/incoming/gy4mqd/article70740941.ece/alternates/LANDSCAPE_1200/11908_13_3_2026_16_11_3_2_3488.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/27-indian-flagged-ships-remain-stranded-in-persian-gulf-one-starts-moving-government-official/article70740438.ece",
+    "time": "2026-03-13T19:59:55.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "BRICS should play a role in supporting global security, says Iran’s FM Araghchi, calls for condemnation of U.S.-Israeli strikes",
+    "desc": "Iran FM speaks to Jaishankar for the 4th time since War began, discusses situation; request from Tehran for a BRICS statement to ‘condemn the military aggression against Iran’ could prove awkward for India as it has thus far not criticised the U.S.-Israel strikes",
+    "img": "https://th-i.thgim.com/public/incoming/4ldn2u/article70738778.ece/alternates/LANDSCAPE_1200/jaishankar%20copy.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/eam-jaishankar-irans-araghchi-hold-4th-phone-call-since-start-of-west-asian-conflict/article70738752.ece",
+    "time": "2026-03-13T19:50:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cop, wife die as car falls into stream in J&amp;K’s Doda",
+    "desc": "A tragic accident in Doda district claimed the lives of a Jammu and Kashmir Police head constable and his wife. Their SUV skidded off the road and plunged into a stream. The couple died instantly. Their two sons sustained injuries and are receiving medical attention. The family was traveling to Bhaderwah when the incident occurred.",
+    "img": "https://static.toiimg.com/photo/msid-129563768,imgsize-669515.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cop-wife-die-as-car-falls-into-stream-in-jks-doda/articleshow/129563780.cms",
+    "time": "2026-03-13T19:04:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "HC quotes Einstein to nix PSA detention, Omar’s lawyer sons win case",
+    "desc": "The Jammu and Kashmir High Court quashed a preventive detention under the Public Safety Act for a Pulwama resident due to significant contradictions in official records. Justice Rahul Bharti cited discrepancies, including a detainee being held months before the detention order was issued, highlighting carelessness in the application of the stringent law.",
+    "img": "https://static.toiimg.com/photo/msid-129563738,imgsize-668324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/hc-quotes-einstein-to-nix-psa-detention-omars-lawyer-sons-win-case/articleshow/129563744.cms",
+    "time": "2026-03-13T19:00:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Heroin seized near international border in Jammu",
+    "desc": "Security forces in Jammu seized 503g of heroin, allegedly drone-dropped from Pakistan, near the international border in RS Pura sector. This follows a larger seizure of 2kg heroin just a day prior in Bishnah. The latest recovery was made in a farm following information from two arrested individuals.",
+    "img": "https://static.toiimg.com/photo/msid-129563708,imgsize-672294.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/heroin-seized-near-international-border-in-jammu/articleshow/129563711.cms",
+    "time": "2026-03-13T18:58:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Srinagar’s Jamia Mosque closed on last Friday of Ramzan, Mirwaiz placed under home detention",
+    "desc": "Authorities closed Srinagar's historic Jamia Masjid on the last Friday of Ramzan. Mirwaiz Umar Farooq, the chief cleric, was placed under house detention. This marks the seventh consecutive year of closure for the mosque on Jumat-ul-Vida. Congregational prayers were held at other locations like Hazratbal Shrine. Protests were also held in solidarity with Palestinians.",
+    "img": "https://static.toiimg.com/photo/msid-129563623,imgsize-800716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/srinagars-jamia-mosque-closed-on-last-friday-of-ramzan-mirwaiz-placed-under-home-detention/articleshow/129563627.cms",
+    "time": "2026-03-13T18:52:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ladakh administration urges LAB to reconsider March 16 rally, says new LG keen to engage with all stakeholders",
+    "desc": "The Ladakh administration has appealed to the Leh Apex Body to reconsider its proposed March 16 procession, emphasizing commitment to dialogue. Citing the upcoming tourist season and potential economic impact, officials urged a broad consensus on demands for statehood and Sixth Schedule inclusion. The administration highlighted the need for extensive deliberation before any significant decisions are made.",
+    "img": "https://static.toiimg.com/photo/msid-129563563,imgsize-977843.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ladakh-administration-urges-lab-to-reconsider-march-16-rally-says-new-lg-keen-to-engage-with-all-stakeholders/articleshow/129563571.cms",
+    "time": "2026-03-13T18:49:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil Ministry urges consumers to consider switching to piped gas to ease LPG demand",
+    "desc": "Domestic LPG production increases 30% vis-a-vis March 5; uninterrupted supply to households ensured, says Oil Ministry; Oppn parties on Friday urged the Centre to take immediate steps to address the alleged shortage of LPG cylinders in several parts of the country.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/lpg-crisis-and-oil-prices-gas-cylinder-shortage-west-asia-conflict-live-updates-march-13-2026/article70737850.ece",
+    "time": "2026-03-13T18:46:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vinai Kumar Saxena is Ladakh’s 4th LG, calls region ‘crown of India’",
+    "desc": "Vinai Kumar Saxena took oath as the fourth Lieutenant Governor of Ladakh. He previously served as the LG of Delhi. Saxena pledged to work for the people's aspirations and visit villages to find solutions. He aims to boost tourism and develop Ladakh into a progressive Union Territory. He will collaborate with the public for this transformation.",
+    "img": "https://static.toiimg.com/photo/msid-129563508,imgsize-663786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/vinai-kumar-saxena-is-ladakhs-4th-lg-calls-region-crown-of-india/articleshow/129563479.cms",
+    "time": "2026-03-13T18:45:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Farah Khan on her equation with SRK, Salman and Aamir",
+    "desc": "Filmmaker-choreographer Farah Khan recently spoke about her equation with Bollywood’s three biggest superstars — Shah Rukh Khan, Salman Khan and Aamir Khan — revealing that while she shares a warm bond with Shah Rukh and Salman, she never became very close to Aamir.",
+    "img": "https://static.toiimg.com/photo/msid-129563124,imgsize-77342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-says-salman-khan-doesnt-hide-from-controversies-salman-had-come-before-shah-rukh-khan-in-my-life-i-am-least-close-to-aamir/articleshow/129563124.cms",
+    "time": "2026-03-13T18:41:34.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "I want to play the next level; I’m at the top of my game and definitely ready: Shreyas Gopal",
     "desc": "The 32-year-old had an eye-catching Ranji season, claiming 48 wickets with his leg-spin and scoring valuable runs for Karnataka. In this chat, he talks about his ambitions, his evolution, the challenge of training two skills, and his upcoming IPL assignment with Chennai Super Kings",
@@ -36,15 +189,6 @@ const newsData_en = [
     "time": "2026-03-13T17:47:14.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Oil Ministry urges consumers to consider switching to PNG to ease LPG demand",
-    "desc": "Domestic LPG production increases 30% vis-a-vis March 5; uninterrupted supply to households ensured, says Oil Ministry; Oppn parties on Friday urged the Centre to take immediate steps to address the alleged shortage of LPG cylinders in several parts of the country.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/lpg-crisis-and-oil-prices-gas-cylinder-shortage-west-asia-conflict-live-updates-march-13-2026/article70737850.ece",
-    "time": "2026-03-13T17:43:48.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Congress MLAs reach Himachal Pradesh to prevent cross-voting",
     "desc": "After CLP meet, about 30 MLAs leave for Shimla; party insiders say the move is meant to keep the flock together ahead of three-cornered election; Congress holds 37 seats and needs 31 votes to send its candidate",
@@ -61,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ananya-panday-reflects-on-past-relationships-says-she-changed-herself-to-make-partners-shine-i-wish-i-had-realised-sooner/articleshow/129561682.cms",
     "time": "2026-03-13T17:33:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "27 Indian-flagged ships remain stranded in Persian Gulf, one starts moving: Government official",
-    "desc": "Jag Prakash, an oil tanker with a carrying capacity of 48,000 tonnes, is headed to Tanzania, the official says; three cargo ships with 76 seafarers aboard are located in the Gulf of Oman, while 24 ships are stranded in the Persian Gulf; there are 23,000 Indian nationals working in the region on merchant ships, ports and offshore vessels",
-    "img": "https://th-i.thgim.com/public/incoming/gy4mqd/article70740941.ece/alternates/LANDSCAPE_1200/11908_13_3_2026_16_11_3_2_3488.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/27-indian-flagged-ships-remain-stranded-in-persian-gulf-one-starts-moving-government-official/article70740438.ece",
-    "time": "2026-03-13T17:29:33.000Z"
   },
   {
     "cat": "Politics",
@@ -244,33 +379,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "A.P. Cabinet approves ₹9,355 crore for seven Multi-Village Schemes",
-    "desc": "The scheme is designed to provide a daily quota of 55 litre water per person to over 65 lakh people across 76 mandals; 30 ‘Sakhi Nivas’ hostels to ensure safe, affordable accommodation for single working women, widows, and those living away from their families",
-    "img": "https://th-i.thgim.com/public/incoming/blfxhb/article70740188.ece/alternates/LANDSCAPE_1200/10745_13_3_2026_19_29_5_3_24.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-cabinet-approves-9355-crore-for-seven-multi-village-schemes/article70739659.ece",
-    "time": "2026-03-13T14:36:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Strait of Hormuz closure disrupts Chittoor’s mango pulp exports",
-    "desc": "Consignments worth more than ₹300 crore from the Chittoor cluster have reportedly been stranded at Gulf ports, including Muscat, Kuwait City, and Dubai; the crisis has also disrupted import of leak-proof aseptic barrels and packaging bags from Europe",
-    "img": "https://th-i.thgim.com/public/incoming/xdt42d/article70739930.ece/alternates/LANDSCAPE_1200/10215_13_3_2026_18_13_53_1_IMG_20260313_WA0133.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/strait-of-hormuz-closure-disrupts-chittoors-mango-pulp-exports/article70739308.ece",
-    "time": "2026-03-13T14:32:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kollam Mayor announces major infrastructure and welfare projects",
-    "desc": "A.K. Hafeez says a Detailed Project Report for the reconstruction of the Chinnakada flyover will be ready within two weeks. The Mayor also outline plans to revitalise public spaces, enhance waste management with mechanized units, and address water supply issues related to the delayed Njankadavu drinking water project.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kollam-mayor-announces-major-infrastructure-and-welfare-projects/article70740031.ece",
-    "time": "2026-03-13T14:32:37.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "‘India is our friend’: Iran envoy hints at 'safe passage' for Indian ships via Strait of Hormuz",
     "desc": "Iran's Ambassador to India indicated that Indian vessels could soon receive safe passage through regional maritime routes, emphasizing strong bilateral ties. This development comes amid escalating tensions in West Asia affecting shipping and energy supplies through the Strait of Hormuz. Discussions are also underway for Indian ships to transport energy resources.",
     "img": "https://static.toiimg.com/photo/msid-129557339,imgsize-7582.cms",
@@ -331,15 +439,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/deadly-blast-rocks-iran-as-leaders-attend-rally-in-show-of-defiance/article70739328.ece",
     "time": "2026-03-13T13:58:22.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. opens unfair trade practices probe of 60 countries, including India, over forced labour",
-    "desc": "The list of 60 countries and economies includes some major U.S. trade ​partners and allies such ‌as Australia, Canada, the EU, Britain, Israel, India, Qatar and Saudi Arabia; China and Russia are also on the list",
-    "img": "https://th-i.thgim.com/public/incoming/sdnevf/article70739008.ece/alternates/LANDSCAPE_1200/2026-02-25T011629Z_243915464_RC2PSJAMIG3P_RTRMADP_3_USA-TRUMP-CONGRESS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/us-opens-unfair-trade-practices-probe-of-60-countries-including-india-over-forced-labor/article70738999.ece",
-    "time": "2026-03-13T13:55:44.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,15 +522,6 @@ const newsData_en = [
     "time": "2026-03-13T12:13:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rajendra Prasad apologises for controversial remarks about MGR",
-    "desc": "Veteran actor Rajendra Prasad has apologized for his remarks concerning M.G. Ramachandran, following backlash from the Tamil film industry. He explained his comments were made casually during an award ceremony and were later exaggerated on social media. Prasad emphasized his deep respect for the late actor-politician and sought forgiveness, promising such statements would not be repeated.",
-    "img": "https://static.toiimg.com/photo/msid-129551831,imgsize-97372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/if-my-words-hurt-anyone-forgive-me-rajendra-prasad-apologises-for-remarks-about-mgr/articleshow/129551831.cms",
-    "time": "2026-03-13T12:04:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Who next after Suryakumar Yadav? IPL 2026 should be an audition for next T20I captain",
     "desc": "Two years ago, Gautam Gambhir was appointed Team India's coach after he mentored the Kolkata Knight Riders (KKR) to the Indian Premier League (IPL) title. With the next T20 extravaganza cycle underway, IPL 2026 should be the audition for India's next T20I captain. The selectors must keep their eyes open because choosing the right man for the captaincy will not be easy.",
@@ -439,33 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/who-next-after-suryakumar-yadav-ipl-2026-should-be-an-audition-for-next-t20i-captain/articleshow/129550901.cms",
     "time": "2026-03-13T11:46:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Enjoy Enjaami' credit row resurfaces: Santhosh disputes Arivu",
-    "desc": "A dispute has erupted over the hit song 'Enjoy Enjaami' as Arivu claims he was not properly credited and has not received royalties, despite his significant role in its creation. Composer Santhosh Narayanan has refuted these claims, challenging Arivu to a public debate with evidence. The controversy has reignited discussions about artist recognition and fair compensation in the music industry.",
-    "img": "https://static.toiimg.com/photo/msid-129550765,imgsize-242006.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/enjoy-enjaami-row-santhosh-narayanan-hits-back-after-arivu-issues-fresh-clarification-on-social-media/articleshow/129550765.cms",
-    "time": "2026-03-13T11:30:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyadarshan to reunite with Mohanlal for his 100th movie",
-    "desc": "Filmmaker Priyadarshan is set to direct his 100th movie, reuniting with Malayalam superstar Mohanlal. This marks a significant milestone for the director. The upcoming film will not be a comedy, but rather a story heavily reliant on music. Fans eagerly await this special collaboration, which follows their previous successful ventures. The project is currently in the planning stages.",
-    "img": "https://static.toiimg.com/photo/msid-129550676,imgsize-126332.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/priyadarshan-to-reunite-with-mohanlal-for-his-100th-movie-director-hints-at-a-music-based-story/articleshow/129550676.cms",
-    "time": "2026-03-13T11:25:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'No need to queue outside LPG distributors': Govt says avoid panic buying",
-    "desc": "Addressing the concerns over the supply squeeze of the LPG cylinders, both commercial and domestic, the central government assured the \"uninterrupted supply to households,\" claiming that domestic LPG output was up 30 per cent compared to March 5. The ministry, responsible for looking petroleum and natural gases, ​​said LPG supplies are also being provided to hospitals and educational institutions.",
-    "img": "https://static.toiimg.com/photo/msid-129550591,imgsize-160202.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-need-to-queue-outside-lpg-distributors-govt-says-avoid-panic-booking/articleshow/129549944.cms",
-    "time": "2026-03-13T11:18:57.000Z"
   },
   {
     "cat": "Sports",
@@ -513,15 +576,6 @@ const newsData_en = [
     "time": "2026-03-13T10:28:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Uttar Pradesh pitches investment push, says over Rs 13 lakh crore projects have moved to implementation",
-    "desc": "Uttar Pradesh is witnessing a significant industrial surge, with over Rs 13 lakh crore in projects now underway from a total of Rs 40 lakh crore in proposals. This initiative is projected to create over 80 lakh jobs.",
-    "img": "https://static.toiimg.com/photo/msid-129548667,imgsize-279224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/uttar-pradesh-pitches-investment-push-says-over-rs-13-lakh-crore-projects-have-moved-to-implementation/articleshow/129548040.cms",
-    "time": "2026-03-13T10:28:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'CSK is incomplete without him': Pathan drops big statement on Dhoni's IPL future",
     "desc": "Former India all-rounder Irfan Pathan believes this IPL season could be MS Dhoni's last for Chennai Super Kings. Pathan emphasized Dhoni's crucial role in team unity and grooming future leaders, even if his playing time is limited. He suggested CSK aims for a title win to give the legend a fitting farewell.",
@@ -529,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-is-incomplete-without-him-irfan-pathan-drops-big-statement-on-ms-dhonis-ipl-future/articleshow/129548729.cms",
     "time": "2026-03-13T10:23:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jaishankar holds fourth call with Iranian FM Araghchi since war began, discusses bilateral ties",
-    "desc": "India's External Affairs Minister S Jaishankar held his fourth phone call with Iranian FM Abbas Araghchi, discussing bilateral ties and BRICS issues amidst Middle East tensions. The conversation followed recent discussions on the Strait of Hormuz and maritime security, with Iran blaming US actions for regional instability.",
-    "img": "https://static.toiimg.com/photo/msid-129547167,imgsize-41078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/middle-east-crisis-jaishankar-holds-fourth-call-with-iranian-fm-araghchi-since-war-began-discusses-bilateral-ties/articleshow/129547135.cms",
-    "time": "2026-03-13T10:20:18.000Z"
   },
   {
     "cat": "Sports",
@@ -565,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/ai-fears-trigger-eight-weeks-of-bloodbath-is-nifty-it-facing-a-pause-or-the-start-of-a-bigger-tide/articleshow/129544616.cms",
     "time": "2026-03-13T08:56:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Glad India taking initiative for peace': Tharoor lauds PM Modi's outreach to Iran president, holding talks",
-    "desc": "Congress MP Shashi Tharoor praised Prime Minister Modi and EAM Jaishankar for engaging with Iran amidst escalating West Asian tensions. He urged a collective push for peace, highlighting the risks to Indian citizens in the Gulf and the nation's role as a constructive voice.",
-    "img": "https://static.toiimg.com/photo/msid-129544430,imgsize-1231374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/glad-india-taking-initiative-for-peace-tharoor-lauds-pm-modis-outreach-to-iran-president-holding-talks/articleshow/129544226.cms",
-    "time": "2026-03-13T08:46:54.000Z"
   },
   {
     "cat": "World",
@@ -612,15 +648,6 @@ const newsData_en = [
     "time": "2026-03-13T07:16:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'These are plans to call women inferior': CJI led-Supreme Court bench rejects plea on menstrual leave",
-    "desc": "The Supreme Court has declined to mandate nationwide menstrual leave for women, citing concerns that it could reinforce gender stereotypes and harm employment prospects. While acknowledging voluntary policies are welcome, the court directed authorities to consider the petitioner's representation on the matter, emphasizing potential negative career impacts if made compulsory.",
-    "img": "https://static.toiimg.com/photo/msid-129541908,imgsize-1143120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/these-are-plans-to-call-women-inferior-cji-led-supreme-court-bench-rejects-plea-on-menstrual-leave/articleshow/129540882.cms",
-    "time": "2026-03-13T06:51:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Vettori explains",
     "desc": "Sunrisers Leeds' acquisition of Pakistani spinner Abrar Ahmed at The Hundred auction sparked controversy in India. Head coach Daniel Vettori clarified the move was a purely cricketing decision after missing out on Adil Rashid. Vettori emphasised that no internal discussions about avoiding Pakistani players occurred, focusing solely on the best available talent for the team's strategy.",
@@ -646,24 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-sanju-samson-or-jasprit-bumrah-ricky-ponting-gives-england-star-10/10-at-t20-world-cup/articleshow/129540328.cms",
     "time": "2026-03-13T06:24:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Why hesitancy now?': Congress reiterates 'compromised PM' charge over silence on Ayatollah Khamenei's death",
-    "desc": "Congress leader Jairam Ramesh criticized Prime Minister Modi for his silence on the reported assassination of Iran's Supreme Leader Ali Khamenei. Ramesh alleged Modi fears antagonizing US and Israeli allies, contrasting this with the government's earlier mourning for former Iranian President Raisi. He highlighted India's condemnation of Iran's actions while remaining quiet on the alleged US-Israeli strike.",
-    "img": "https://static.toiimg.com/photo/msid-129540514,imgsize-77596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-hesitancy-now-congress-reiterates-compromised-pm-charge-over-silence-on-ayatollah-khameneis-death/articleshow/129540040.cms",
-    "time": "2026-03-13T06:14:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "In a first, EC appoints officers of SDM level &amp; above as returning officers for Bengal polls",
-    "desc": "In a significant move for West Bengal's electoral process, the Election Commission has upgraded returning officers for 152 assembly constituencies to Sub-Divisional Magistrate (SDM) or Sub-Divisional Officer (SDO) level and above. This historic decision, aligning with national norms, aims to enhance the fairness and impartiality of upcoming assembly polls by appointing more senior officials.",
-    "img": "https://static.toiimg.com/photo/msid-129536892,imgsize-98440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/in-a-first-ec-appoints-officers-of-sdm-level-above-as-returning-officers-for-bengal-polls/articleshow/129534912.cms",
-    "time": "2026-03-13T04:24:25.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-geeta-gandbhir-indian-origin-nominated-documentary-feature-the-perfect-neighbor-the-devil-is-busy/article70730362.ece",
     "time": "2026-03-11T09:23:08.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Lessons from India’s C-DOT saga for technology development",
-    "desc": "The Centre for Development of Telematics heralded a communications revolution by developing indigenous rural telephone exchange technology; however, in the three months of K.P. Unnikrishnan as Minister for Communications, the project was derailed and a mass exodus of scientists began",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/lessons-from-indias-c-dot-saga-for-technology-development/article70726867.ece",
-    "time": "2026-03-11T07:03:45.000Z"
   }
 ];
