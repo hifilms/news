@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why did Sunrisers Leeds pick Pakistan's Abrar Ahmed in their squad at The Hundred auction? Reason revealed",
+    "desc": "Sunrisers Leeds have found themselves in troubled waters after picking Pakistan spinner Abrar Ahmed in their squad in the inaugural The Hundred auction on Thursday. Their co-owner, Kavya Maran, has faced massive backlash on social...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-did-sunrisers-leeds-pick-pakistan-s-abrar-ahmed-in-their-squad-at-the-hundred-auction-reason-revealed-2026-03-13-1033626",
+    "time": "2026-03-13T05:48:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunrisers Leeds' X account gets suspended after buying Pakistan's Abrar Ahmed in The Hundred auction 2026",
+    "desc": "The inaugural The Hundred auction took place at the Piccadilly Lights in London on Thursday and a controversy has emerged in India. Sunrisers Leeds, co-owned by Sun TV's Kavya Maran, who is also the owner...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-leeds-x-account-gets-suspended-after-buying-pakistan-s-abrar-ahmed-in-the-hundred-auction-2026-2026-03-13-1033619",
+    "time": "2026-03-13T04:59:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Did Shubman Gill really edit Sanju Samson out of T20 World Cup celebration picture? Here's the truth",
     "desc": "India won the T20 World Cup for the record third time on March 8, beating New Zealand by 96 runs in the final. Five days after the historic achievement by the men in blue, Shubman...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/i-don-t-see-a-point-cheteshwar-pujara-weighs-in-on-ms-dhoni-s-batting-position-for-csk-ahead-of-ipl-2026-2026-03-12-1033563",
     "time": "2026-03-12T12:39:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Team India faces jam-packed schedule for remainder of 2026, more games in the works: Report",
-    "desc": "With the T20 World Cup 2026 in the Indian team’s grasp, the side now faces a jam-packed schedule over the next 12 months. According to a Cricbuzz report, the Indian team is likely to play...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/team-india-faces-jam-packed-schedule-for-remainder-of-2026-more-games-in-the-works-report-2026-03-12-1033554",
-    "time": "2026-03-12T11:48:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Irfan Pathan previews CSK's clash with RR ahead of IPL 2026, highlights importance of Sanju Samson",
-    "desc": "The BCCI (Board of Control for Cricket in India) announced the schedule for the first two weeks of the IPL (Indian Premier League) 2026 season. The season opener of the tournament will see defending champions...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-previews-csk-s-clash-with-rr-ahead-of-ipl-2026-highlights-importance-of-sanju-samson-2026-03-12-1033544",
-    "time": "2026-03-12T11:05:57.000Z"
   }
 ];

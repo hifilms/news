@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "પિરિયડ્સ લીવ પર સુપ્રીમ કોર્ટનો મહત્વપૂર્ણ નિર્ણય; શું નોકરિયાત મહિલાઓ અને ભણતી વિદ્યાર્થિનીઓને રજા મળશે?",
+    "desc": "સુપ્રીમ કોર્ટે કામકાજ કરતી મહિલાઓ અને વિદ્યાર્થિનીઓ માટે પિરિયડ્સ લીવ (માસિક ધર્મની રજા) ને ફરજિયાત બનાવવાની માંગ કરતી અરજી પર સુનાવણી કરવાનો ઇનકાર કરી દીધો છે. અદાલતે જણાવ્યું હતું કે આવો કાયદો બનાવવાથી મહિલાઓની કારકિર્દી પર નકારાત્મક અસર પડી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cji-major-remark-on-period-leave-supreme-court-refuses-to-order-mandatory-leave-468373 ",
+    "time": "2026-03-13T06:30:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પાકિસ્તાની ખેલાડીને ખરીદ્યા બાદ મુશ્કેલીમાં ભરાઈ સનરાઇઝર્સ ટીમ! સોશિયલ મીડિયા એકાઉન્ટ સસ્પેન્ડ",
+    "desc": "તાજેતરમાં 'દ હન્ડ્રેડ' (The Hundred) લીગનું ઓક્શન પૂર્ણ થયું હતું. જેમાં સનરાઇઝર્સ લીડ્સે પાકિસ્તાનના અબરાર અહમદને પોતાની ટીમમાં સામેલ કર્યો છે. આ નિર્ણયને લીધે ભારતીય ફેન્સમાં ભારે રોષ જોવા મળી રહ્યો છે. આ વિવાદની વચ્ચે હવે સનરાઇઝર્સ લીડ્સનું X (ટ્વિટર) એકાઉન્ટ સસ્પેન્ડ કરી દેવામાં આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/sunrisers-team-lands-in-trouble-after-buying-pakistani-player-social-media-account-suspended-468363 ",
+    "time": "2026-03-13T05:36:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "સાવધાન! જૂના iPhone યુઝર્સ માટે સૌથી મોટો ખતરો, Apple એ જાહેર કર્યું ઇમરજન્સી અપડેટ",
+    "desc": "Apple એ લગભગ એક દાયકા જૂના iPhone અને iPad માટે પણ નવું સિક્યોરિટી અપડેટ જાહેર કર્યું છે. જો તમારી પાસે પણ જૂનો iPhone હોય, તો તેને તરત જ અપડેટ કરવો અત્યંત જરૂરી છે. ચાલો જાણીએ કેવી રીતે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/major-threat-for-older-iphone-users-apple-issues-emergency-update-468351 ",
+    "time": "2026-03-13T04:49:00.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ઈરાન-ઈઝરાયલ યુદ્ધના કારણે સ્થગિત થશે IPL 2026 ? શું છે BCCIનો પ્લાન ? જાણો A to Z",
     "desc": "મિડલ ઈસ્ટમાં વધતા તણાવની અસર હવે IPL 2026 પર પડી શકે છે. એરસ્પેસ બંધ થવા અને ફ્લાઇટમાં વિલંબ થવાને કારણે ઘણા વિદેશી ખેલાડીઓને ભારત મુસાફરી કરવામાં મુશ્કેલીઓનો સામનો કરવો પડી શકે છે. ત્યારે સવાલ એ છે કે જો પરિસ્થિતિ ટૂંક સમયમાં નહીં સુધરે તો શું IPL 2026 સ્થગિત કરવામાં આવશે ?",
@@ -297,15 +324,6 @@ const newsData_gu = [
     "time": "2026-03-11T08:58:12.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "એવું તો શું થયું કે શિવમ દુબેને ફ્લાઇટ ના બદલે ટ્રેનમાં કરવી પડી મુસાફરી ? કારણ આવ્યું સામે",
-    "desc": "T20 વર્લ્ડ કપ જીત્યા પછી શિવમ દુબે ફ્લાઇટ ના બદલે ટ્રેન દ્વારા મુંબઈ પહોંચ્યો. આ ઓલરાઉન્ડર થર્ડ એસીમાં મુસાફરી કરીને તાત્કાલિક મુંબઈ પહોંચ્યો હતો, ત્યારે લોકોના મનમાં સવાલ છે કે દુબેએ ફ્લાઈના બદલે ટ્રેનમાં કેમ મુસાફરી કરી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/why-shivam-dube-travels-in-train-to-mumbai-know-the-reason-468100 ",
-    "time": "2026-03-11T08:22:43.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "તેલ અને ગેસ પછી, હવે દવાઓનું સંકટ, યુદ્ધે વધાર્યું ભારતનું ટેન્શન, શું કહી રહ્યા છે એક્સપર્ટ?",
     "desc": "ફાર્માસ્યુટિકલ ઉદ્યોગમાં મોટાભાગના કાચા માલનો વેપાર ડોલરમાં થાય છે. યુદ્ધ શરૂ થતાં જ ડોલર મજબૂત થાય છે, જેના કારણે ભારતીય ઉત્પાદકો માટે આયાત ખર્ચ આપમેળે વધી જાય છે. છેલ્લા 11 દિવસથી આ યુદ્ધ ચાલુ છે.",
@@ -313,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/after-oil-and-gas-now-there-is-a-crisis-of-medicines-war-has-increased-india-tension-what-are-experts-saying-468099 ",
     "time": "2026-03-11T08:13:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વર્લ્ડ કપ હારતા ન્યુઝીલેન્ડ ક્રિકેટનો મોટો નિર્ણય, આ ખેલાડીઓને ટીમમાંથી કર્યા બહાર",
-    "desc": "ન્યૂઝીલેન્ડે દક્ષિણ આફ્રિકા સામેની T20 શ્રેણી માટે 18 સભ્યોની ટીમની જાહેરાત કરી છે. મિશેલ સેન્ટનર પ્રથમ ત્રણ મેચમાં ટીમનું નેતૃત્વ કરશે, જ્યારે ટોમ લાથમ અંતિમ બે મેચમાં કમાન સંભાળશે. ઘણા અનુભવી ખેલાડીઓને આરામ આપવામાં આવ્યો છે અને ત્રણ નવા ખેલાડીઓને ડેબ્યૂ કરવાની તક આપવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/new-zealand-crickets-big-decision-after-world-cup-final-loss-senior-players-out-468088 ",
-    "time": "2026-03-11T06:44:43.000Z"
   },
   {
     "cat": "Tech",
@@ -477,24 +486,6 @@ const newsData_gu = [
     "time": "2026-03-09T11:23:05.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ગણતરીની પળોમાં 13 લાખ કરોડ સ્વાહા, શેર બજારમાં આવી ગયો છે તબાહીનો દોર, 10% તૂટશે માર્કેટ!",
-    "desc": "નવા અઠવાડિયાના પહેલા જ કારોબારી દિવસે આજે શેર બજારમાં ભારે કડાકાનો માહોલ જોવા મળ્યો છે. ગણતરીની મિનિટોમાં રોકાણકારોના 13 લાખ કરોડ જેટલી મૂડીનું ધોવાણ થઈ ગયું છે. એક્સપર્ટ શું ચેતવણી આપે છે તે પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/stock-market-crashed-as-soon-as-it-opened-know-what-expert-warns-iran-israel-war-effect-467785 ",
-    "time": "2026-03-09T05:37:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "યુદ્ધનો માહોલ છતાં સોના-ચાંદી ધડામ, આજે ભાવમાં કડાકો, કેમ જોવા મળી &amp;#039;ઉલ્ટી ગંગા&amp;#039;? લેટેસ્ટ રેટ જાણો",
-    "desc": "યુદ્ધના માહોલમાં જ્યાં એક બાજ ક્રૂડ ઓઈલના ભાવમાં ભડકા જોવા મળી રહ્યા છે ત્યાં અપેક્ષાથી બિલકુલ વિરુદ્ધ સોના અને ચાંદીના ભાવમાં ઘટાડો જોવા મળી રહ્યો છે. આજનો વાયદા બજારનો લેટેસ્ટ ભાવ અને વૈશ્વિક સ્તરે તણાવની સ્થિતિ છતાં ભાવમાં ઘટાડા પાછળનું કારણ પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-fall-despite-war-situation-in-middle-east-why-check-the-latest-rates-aaj-no-sona-no-bhav-467777 ",
-    "time": "2026-03-09T04:03:41.000Z"
-  },
-  {
     "cat": "World",
     "title": "સ્ટ્રેટ ઓફ હોર્મુઝ: કેમ અહીં દુનિયાની શક્તિશાળી નૌસેનાઓ પણ ઘૂંટણ ટેકવે છે? યુરોપિયન દેશોના પીછેહઠનું શું છે અસલી કારણ",
     "desc": "સ્ટ્રેટ ઓફ હોર્મુઝ પર ઈરાનનું ભૌગોલિક નિયંત્રણ અને તેની મિસાઈલ ક્ષમતા બહારના દેશો માટે મોટો પડકાર છે. 21 માઈલ પહોળા આ સાંકડા દરિયાઈ માર્ગમાં જહાજોની જપ્તી અને જામિંગના ડરથી યુરોપિયન દેશો હવે પાછળ હટી રહ્યા છે.",
@@ -520,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-horror-comedy-film-on-ott-sarvam-maya-film-imdb-rating-best-south-hindi-film-on-jio-hotstar-467605 ",
     "time": "2026-03-08T02:42:54.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "કોણ બનશે ઈરાનના નવા સુપ્રીમ લીડર? ખામૈનેઈના ચારેય પુત્રો જીવિત, જાણો રેસમાં કોણ આગળ",
-    "desc": "ઈઝરાયેલ અને અમેરિકાએ ઈરાન પર ભીષણ હુમલાઓ કરીને ચારેબાજુ તબાહી મચાવી દીધી. ઈરાનના સુપ્રીમ લીડર અયાતોલ્લા અલી ખામૈનેઈ પણ માર્યા ગયા. ત્યારે હવે સવાલ એ છે કે નવા સુપ્રીમ લીડર કોણ? ખામેનેઈના ચાર પુત્રો સુરક્ષિત હોવાનું સામે આવ્યું છે. કોણ રેસમાં સૌથી આગળ...તમામ વિગતો જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/who-will-be-the-new-supreme-leader-of-iran-know-who-is-ahead-in-the-race-world-news-in-gujarati-467589 ",
-    "time": "2026-03-07T17:21:05.000Z"
   },
   {
     "cat": "Tech",

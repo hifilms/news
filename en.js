@@ -1,12 +1,138 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Santy backs Badshah amid Tateeree song lyrics controversy",
+    "desc": "Badshah's 'Tateeree' sparks outrage over vulgar lyrics and schoolgirl video, drawing Haryana police notice. He apologized, pulled the track, but stays silent amid backlash. Santy Sharma defends him, blaming video team and hip-hop misconceptions. Controversy rages on social media.",
+    "img": "https://static.toiimg.com/photo/msid-129541384,imgsize-30214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/badshah-is-being-judged-without-understanding-rapper-santy-sharma-backs-singer-amid-tateeree-song-lyrics-controversy/articleshow/129541384.cms",
+    "time": "2026-03-13T06:38:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Director Lal Jose remembers late actor Hari Murali",
+    "desc": "Malayalam cinema mourns child actor Hari Murali, who passed away at 27. Introduced by Lal Jose in 'Rasikan', Hari's talent shone brightly. Director Jose fondly recalled a chance meeting years later, remembering Hari's intelligence and charm. The son of theatre artist Murali Payyannur, Hari acted in over fifty films before pursuing other interests.",
+    "img": "https://static.toiimg.com/photo/msid-129541095,imgsize-89708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/rasikan-director-lal-jose-remembers-late-actor-hari-murali-he-was-a-very-smart-boy/articleshow/129541095.cms",
+    "time": "2026-03-13T06:33:22.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran’s new leader warns Strait of Hormuz could be used as strategic leverage",
+    "desc": "Mohammad Marandi, Professor of English Literature and Orientalism at the University of Tehran and a former adviser to Iran’s nuclear negotiating team, shares his perspective on the ongoing war, Iran’s military strategy, and the wider impact of the conflict on global energy markets and the world economy.",
+    "img": "https://th-i.thgim.com/public/news/national/mr4e1o/article70738277.ece/alternates/LANDSCAPE_1200/Iran%20MEA.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/irans-new-leader-warns-strait-of-hormuz-could-be-used-as-strategic-leverage/article70738288.ece",
+    "time": "2026-03-13T06:29:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Experts clash over HALEU-Th fuel for Indian nuclear reactors",
+    "desc": "Indian scientists and international experts are divided over a study questioning the viability of a nuclear reactor fuel called HALEU-thorium; while critics cite safety risks, proponents argue the technology is vital to achieve national energy goals",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/ojyatf/article70718807.ece/alternates/LANDSCAPE_1200/1xPHWR_under_Construction_at_Kakrapar_Gujarat_India.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/experts-clash-over-haleu-th-fuel-for-indian-nuclear-reactors/article70736279.ece",
+    "time": "2026-03-13T06:21:58.000Z"
+  },
+  {
     "cat": "Business",
-    "title": "Rupee hits record intra-day low, falls 12 paise to 92.37 against U.S. dollar",
+    "title": "Moscow piles pressure on U.S. over oil sanctions",
     "desc": "Amid rising oil prices, the Trump administration has announced a temporary authorisation to other countries to purchase Russian oil currently stranded at sea, as there were no immediate signs of an early end to the US war on Iran",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/lpg-crisis-and-oil-prices-gas-cylinder-shortage-west-asia-conflict-live-updates-march-13-2026/article70737850.ece",
-    "time": "2026-03-13T04:32:06.000Z"
+    "time": "2026-03-13T06:19:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Why hesitancy now?': Congress reiterates 'compromised PM' charge over silence on Ayatollah Khamenei's death",
+    "desc": "Congress leader Jairam Ramesh criticized Prime Minister Modi for his silence on the reported assassination of Iran's Supreme Leader Ali Khamenei. Ramesh alleged Modi fears antagonizing US and Israeli allies, contrasting this with the government's earlier mourning for former Iranian President Raisi. He highlighted India's condemnation of Iran's actions while remaining quiet on the alleged US-Israeli strike.",
+    "img": "https://static.toiimg.com/photo/msid-129540514,imgsize-77596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/why-hesitancy-now-congress-reiterates-compromised-pm-charge-over-silence-on-ayatollah-khameneis-death/articleshow/129540040.cms",
+    "time": "2026-03-13T06:14:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Women’s political participation in India",
+    "desc": "While the turnout of women voters has increased over the years, campaign participation still shows a clear gender gap. The disparity in Parliamentary representation also remains wide, reflecting limited candidature, party nominations, and constraints on political autonomy.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/womens-political-participation-in-india/article70736576.ece",
+    "time": "2026-03-13T06:11:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Sreeleela’s home in Bangalore",
+    "desc": "Telugu star Sreeleela, a 24-year-old powerhouse with 20 films, resides in a minimalist yet vibrant Bangalore home. Her sanctuary blends crisp white walls with natural elements and pops of color, featuring a cherished balcony. Beyond her acting career, Sreeleela is a trained dancer, pursuing an MBBS, and a devoted mother to three adopted children.",
+    "img": "https://static.toiimg.com/photo/msid-129539500,imgsize-68854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/guntur-kaaram-star-sreeleelas-family-home-in-bangalore-echoes-modern-minimalism-with-signature-yellow-couch-and-dance-spaces/articleshow/129539500.cms",
+    "time": "2026-03-13T06:02:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s oil and gas strategy amid U.S.-Iran tensions",
+    "desc": "India’s crude basket has jumped to $120 per barrel – an increase that will affect petrol and diesel prices, as well as domestic gas prices, which are linked to 10% of the Indian crude basket; higher fuel prices transmit inflationary and macro-economic pressures via higher cost of transport etc.",
+    "img": "https://th-i.thgim.com/public/incoming/plnky8/article70738166.ece/alternates/LANDSCAPE_1200/DSC7669.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/energy-power-play-indias-oil-and-gas-strategy-amid-us-iran-tensions/article70734769.ece",
+    "time": "2026-03-13T05:46:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunrisers Leeds’ official X account suspended shortly after signing Abrar Ahmed",
+    "desc": "Sunrisers faced social media backlash after signing Pakistan's Abrar Ahmed for The Hundred, becoming the first Pakistani player signed by an Indian-owned team in the competition. The move sparked criticism from Indian fans, with the team's official X account later being suspended.",
+    "img": "https://static.toiimg.com/photo/msid-129539245,imgsize-9102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/the-hundred-auction-2026-sunrisers-leeds-official-x-account-suspended-shortly-after-signing-abrar-ahmed/articleshow/129539245.cms",
+    "time": "2026-03-13T05:37:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunny Deol, Akhanda director Boyapati Srinu team up for Jaat 2",
+    "desc": "Bollywood star Sunny Deol is reportedly teaming up with 'Akhanda' director Boyapati Srinu for 'Jaat 2', following his collaboration with Gopichand Malineni in 'Jaat'. While no official confirmation exists, the buzz suggests Srinu will helm the project. Deol has a packed schedule, including 'Lahore 1947', OTT releases, and a role in 'Ramayana'. Read the full article to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129537617,imgsize-133610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-and-akhanda-director-boyapati-srinu-team-up-for-jaat-2-reports/articleshow/129537617.cms",
+    "time": "2026-03-13T05:05:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Six MPs urge Centre to include reservation Act of Karnataka in Ninth Schedule",
+    "desc": "In the memorandum dated March 10, the MPs expressed concern that the proposal sent by the government of Karnataka to include the Act in the Ninth Schedule has been pending with the Union Government for more than three years",
+    "img": "https://th-i.thgim.com/public/incoming/8sd54b/article70738059.ece/alternates/LANDSCAPE_1200/10258_12_3_2026_20_47_25_1_KUMAR_NAIK_1.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/six-mps-urge-centre-to-include-reservation-act-of-karnataka-in-ninth-schedule/article70736059.ece",
+    "time": "2026-03-13T04:53:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘My baby brother now belongs to Saaniya’: Sara’s emotional post for melts hearts",
+    "desc": "Sara Tendulkar celebrated her brother Arjun's recent wedding to Saaniya Chandhok with a touching Instagram post. She shared intimate photos from the Mumbai ceremony, expressing her joy at gaining a sister and wishing the newlyweds a lifetime of happiness and blessings. The star-studded event saw attendance from cricket legends, Bollywood stars, and business leaders.",
+    "img": "https://static.toiimg.com/photo/msid-129537613,imgsize-49240.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/my-baby-brother-now-belongs-to-saaniya-sara-tendulkars-emotional-post-for-brother-arjun-melts-hearts-online/articleshow/129536985.cms",
+    "time": "2026-03-13T04:47:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Elton John’s husband, David Furnish, shares health update about the musician",
+    "desc": "David Furnish took to social media to share uplifting news about his partner, Elton John, who is confronting recent health challenges with unwavering spirit. Despite experiencing vision loss in his right eye from an infection, the music legend is staying resilient and focusing on creating unforgettable moments with their two sons.",
+    "img": "https://static.toiimg.com/photo/msid-129537348,imgsize-89844.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/elton-johns-husband-david-furnish-gives-a-health-update-on-the-singer-says-he-is-keeping-busy-and-moving-forward/articleshow/129537348.cms",
+    "time": "2026-03-13T04:46:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "On the streets for survival",
+    "desc": "Economic hardship, social customs, displacement, and sudden life setbacks continue to push people into begging even as rehabilitation efforts struggle to keep pace. Nellore Sravani reports from Vijayawada on the lives caught between survival and law",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-miscellaneous/tp-others/56vmkt/article70737264.ece/alternates/LANDSCAPE_1200/-AP-Spotlight--GE4FN5IL2.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/on-the-streets-for-survival/article70736092.ece",
+    "time": "2026-03-13T04:41:44.000Z"
   },
   {
     "cat": "Politics",
@@ -25,6 +151,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/Hyderabad/neighbourhood-clinics-on-crutches/article70737975.ece",
     "time": "2026-03-13T04:29:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hollywood celebs who changed their names",
+    "desc": "In the ever-evolving world of showbiz, a name is more than just a label—it’s a brand. While some stars change their names for a fresh start, others are forced into it by industry rules or a desire to step out of a famous family’s shadow. Many stars swapped their birth names for ones that felt punchier, easier to remember, or simply more marketable as they chased the spotlight. Below are six celebs, who changed their original names to build a new persona.",
+    "img": "https://static.toiimg.com/photo/msid-129537081,imgsize-592069.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/emma-stone-katy-perry-bruno-mars-nicolas-cage-hollywood-stars-who-changed-their-names-and-built-unforgettable-identities/photostory/129537081.cms",
+    "time": "2026-03-13T04:29:40.000Z"
   },
   {
     "cat": "Politics",
@@ -100,8 +235,8 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Stock market today (March 13, 2026): Nifty50 opens below 23,500; BSE Sensex down around 600 points on oil prices, US-Iran war",
-    "desc": "Continuing the down trend, Nifty50 and BSE Sensex opened in red on Friday as oil prices climbed and the Strait of Hormuz closure halted important global trade. While Nifty50 went below 23,500, BSE Sensex was down over 580 points.",
+    "title": "Nifty50 goes below 23,400; BSE Sensex tumbles 900 points",
+    "desc": "Indian stock markets tumbled Friday, with Nifty50 and BSE Sensex opening sharply lower. Rising oil prices and global trade disruptions fueled investor caution. Experts highlight ongoing West Asian conflict uncertainty and sustained foreign institutional selling as key pressures. Pharmaceuticals emerge as a resilient sector amid the broader market weakness.",
     "img": "https://static.toiimg.com/photo/msid-129534786,imgsize-73848.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-13-2026-dalal-street-indian-equities-global-markets-us-iran-war-donald-trump-oil-prices/articleshow/129534696.cms",
@@ -124,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/toi-exclusive-playing-for-india-mind-becomes-stronger-than-the-body-vvs-laxman-recounts-his-epic-eden-knock-in-2001/articleshow/129535380.cms",
     "time": "2026-03-13T03:39:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Experts clash over HALEU-Th fuel for Indian nuclear reactors",
-    "desc": "Indian scientists and international experts are divided over a study questioning the viability of a nuclear reactor fuel called HALEU-thorium; while critics cite safety risks, proponents argue the technology is vital to achieve national energy goals",
-    "img": "https://th-i.thgim.com/public/sci-tech/science/ojyatf/article70718807.ece/alternates/LANDSCAPE_1200/1xPHWR_under_Construction_at_Kakrapar_Gujarat_India.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/experts-clash-over-haleu-th-fuel-for-indian-nuclear-reactors/article70736279.ece",
-    "time": "2026-03-13T03:39:50.000Z"
   },
   {
     "cat": "Politics",
@@ -333,51 +459,6 @@ const newsData_en = [
     "time": "2026-03-13T01:25:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kat Graham and Bryant Wood welcome their son into the world",
-    "desc": "In delightful news, Kat Graham, celebrated for her role in 'The Vampire Diaries', has embraced motherhood with the arrival of her son, Prospero 'Spero' Nyemah Wood, alongside her partner Bryant Wood. They joyously shared this milestone through heartfelt posts on social media, prompting an outpouring of congratulatory messages from fans and celebrities who are thrilled for the new family.",
-    "img": "https://static.toiimg.com/photo/msid-129531885,imgsize-91734.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/vampire-diaries-star-kat-graham-welcomes-first-baby-with-bryant-wood-nina-dobrev-and-nikki-reed-congratulate/articleshow/129531885.cms",
-    "time": "2026-03-13T01:17:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunjay Kapur sister files reply to Priya’s defamation suit",
-    "desc": "The courtroom drama surrounding Sunjay Kapur's estate escalates, with his sister Mandhira Kapur Smith insisting that widow Priya Sachdev Kapur produce critical documents in a defamation case. Scheduled for a hearing on March 30, 2026, the court's intervention has sparked debates over the documents' relevance, as Priya's legal counsel contends they are public and should remain unissued. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129531461,imgsize-134980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunjay-kapur-estate-row-sister-mandhira-kapur-smith-files-reply-to-priya-sachdevs-defamation-suit/articleshow/129531461.cms",
-    "time": "2026-03-13T01:10:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'KH x RK' may release in 2027",
-    "desc": "Indian cinema's most anticipated film, KH x RK, uniting Kamal Haasan and Rajinikanth, is reportedly eyeing a 2027 festival release, possibly during Dussehra or Diwali. Filming is slated to commence in August 2026, with Anirudh Ravichander composing music in a retro style. Rumours also suggest a potential cameo by Mammootty.",
-    "img": "https://static.toiimg.com/photo/msid-129531614,imgsize-113892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kamal-haasan-and-rajinikanths-kh-x-rk-may-release-in-2027-dussehra-or-diwali-window-eyed-reports/articleshow/129531614.cms",
-    "time": "2026-03-13T01:05:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Remembering the 'Rasikan' child artist Hari Murali",
-    "desc": "The Malayalam entertainment world is in shock following the untimely death of former child artist Hari Murali, aged 27. Known for his roles in films like 'Rasikan' and popular TV serials, he was found deceased at his home. Friends recall him being cheerful recently, though he was reportedly battling depression. His father is theatre personality K. U. Murali.",
-    "img": "https://static.toiimg.com/photo/msid-129531238,imgsize-75082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/who-was-hari-murali-remembering-the-rasikan-child-artist-who-appeared-in-over-40-serials/articleshow/129531238.cms",
-    "time": "2026-03-13T00:46:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Best dressed celebs at the pre-Oscars luncheon",
-    "desc": "In a star-studded affair leading up to the Oscars, Diane von Furstenberg's luncheon was a showcase of haute couture among Hollywood's finest. Gwyneth Paltrow exuded sophistication in an all-black ensemble, Demi Moore took risks with her modern twist on classic fashion, and Quinta Brunson brightened the room with her eye-catching print.",
-    "img": "https://static.toiimg.com/photo/msid-129531093,imgsize-167156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/2026-pre-oscars-luncheon-katy-perry-gwyneth-paltrow-demi-moore-jane-fonda-and-more-redefine-daytime-chicness/articleshow/129531093.cms",
-    "time": "2026-03-13T00:42:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'He doesn’t even look at me': Ex-BCCI selector opens up on Gambhir fallout after India snub",
     "desc": "Former chief selector Sandeep Patil revealed Gautam Gambhir hasn't spoken to him since being dropped from the Indian team in 2013. Despite their past closeness and numerous shared events, Gambhir maintains his distance, a decision Patil understands given his own experience of being dropped. Patil emphasized that personal relationships don't influence tough selection calls.",
@@ -468,24 +549,6 @@ const newsData_en = [
     "time": "2026-03-12T16:15:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CAPF officers demoralised that Centre is not giving them their due, Samajwadi MP tells Rajya Sabha",
-    "desc": "Calls for quick implementation of May 2025 SC order to grant Organised Group A Services status to CAPF officers, reduce IPS officers’ deputation in CAPFs; Centre’s review petition against ruling was rejected by the court",
-    "img": "https://th-i.thgim.com/public/incoming/p03ggf/article70736257.ece/alternates/LANDSCAPE_1200/20260312269L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/capf-officers-demoralised-that-centre-is-not-giving-them-their-due-samajwadi-mp-tells-rajya-sabha/article70735367.ece",
-    "time": "2026-03-12T16:08:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "2,455 cases of atrocities against SCs, STs in Chhattisgarh since 2023 with nearly 40% instances of rape: government data",
-    "desc": "Apart from rapes and murders, there were 380 cases of causing hurt, 60 cases of causing grievous hurt and 30 cases of abduction, the Chhattisgarh government said in response to a query by a BJP MLA",
-    "img": "https://th-i.thgim.com/public/incoming/91po1d/article70736203.ece/alternates/LANDSCAPE_1200/iStock-1334623338%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/chhattisgarh/2455-cases-of-atrocities-against-scs-sts-in-chhattisgarh-since-2023-with-nearly-40-instances-of-rape-government-data/article70734910.ece",
-    "time": "2026-03-12T15:44:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Indian-owned SunRisers Leeds buy Pakistan player",
     "desc": "Pakistan spinner Abrar Ahmed was signed by SunRisers Leeds for £190,000 at the Hundred Auction 2026, ending speculation that IPL-linked teams would avoid Pakistani players. Usman Tariq was earlier picked by Birmingham Phoenix. Meanwhile, Haris Rauf, Shadab Khan, and Saim Ayub went unsold, while Shaheen Afridi withdrew before the auction due to scheduling clashes.",
@@ -559,30 +622,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Pakistan's Rauf goes unsold, Afridi makes late withdrawal",
-    "desc": "Pakistan had a tough time at the 2026 Hundred auction. Haris Rauf went unsold, while ODI captain Shaheen Shah Afridi withdrew before bidding began. The ECB confirmed Quinton de Kock, Sunil Narine, AM Ghazanfar and Peter Siddle also pulled out due to schedule clashes. Earlier, no Pakistani women players were picked either, reducing Pakistan’s presence in the tournament.",
-    "img": "https://static.toiimg.com/photo/msid-129505028,imgsize-34716.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hundred-auction-2026-pakistans-haris-rauf-goes-unsold-shaheen-afridi-makes-late-withdrawal/articleshow/129504305.cms",
-    "time": "2026-03-12T11:16:11.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "$256K in, what’s next for Nepal? Competitive cricket, infra boost and a hand from India",
     "desc": "In the past two editions of the T20 World Cups, Nepal's fans have flooded the stands, be it in Texas or in Mumbai. The cricketers have shown the spunk, stomach for a fight, and pushed teams like South Africa and England to the brink. The Rohit Paudel-led team registered their first World Cup win in their third appearance, when they defeated Scotland at Wankhede. Now they must aim higher, but to achieve the summit of Mount Everest, they will need help.",
     "img": "https://static.toiimg.com/photo/msid-129504597,imgsize-43920.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/256k-in-whats-next-for-nepal-competitive-cricket-infra-boost-and-a-hand-from-india/articleshow/129503605.cms",
     "time": "2026-03-12T11:01:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Are you serious?': Sachin’s reaction after BCCI selectors told him it was time to move on",
-    "desc": "Cricket legend Sachin Tendulkar faced a tough phase in 2012. Poor form and team defeats led to discussions about his future. The BCCI selection committee chairman met with Tendulkar. This led to Tendulkar's retirement from ODIs and later Tests. He retired from international cricket after a long career, leaving behind numerous records.",
-    "img": "https://static.toiimg.com/photo/msid-129501290,imgsize-75166.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/are-you-serious-sachin-tendulkars-reaction-after-bcci-selectors-told-him-it-was-time-to-move-on/articleshow/129500994.cms",
-    "time": "2026-03-12T09:33:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -766,15 +811,6 @@ const newsData_en = [
   },
   {
     "cat": "World",
-    "title": "Hotels, restaurants across India grapple with gas shortage as West Asia conflict prolongs",
-    "desc": "Hotel associations and several hoteliers have warned that non-availability of cooking gas would force many units to shut their shops With the ongoing conflict in West Asia disrupting the global energy supply chain, India is facing a supply issue with cooking gas",
-    "img": "https://th-i.thgim.com/public/incoming/npujff/article70726097.ece/alternates/LANDSCAPE_1200/2026-03-10T071526Z_301689720_RC2H1KA035ZH_RTRMADP_3_IRAN-CRISIS-INDIA-LPG-HOTELS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indian-hotels-grapple-with-gas-shortage-as-west-asia-conflict-prolongs/article70726061.ece",
-    "time": "2026-03-11T06:34:45.000Z"
-  },
-  {
-    "cat": "World",
     "title": "U.S. must pull back instead of tailing Israel",
     "desc": "If Trump and Benjamin Netanyahu continue this war, the global economy will come under even greater stress. Whether they realise their grave miscalculation or not, the way forward is not more bombing. This war must be brought to an end immediately.",
     "img": "https://th-i.thgim.com/public/incoming/o7lvqt/article70729869.ece/alternates/LANDSCAPE_1200/editorial%20us%20israel.png",
@@ -817,15 +853,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/hockey/fih-womens-world-cup-qualifiers-coach-marijne-wants-ever-improving-india-to-kill-the-matches/article70726940.ece",
     "time": "2026-03-10T13:42:29.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Kremlin says Putin's proposals on Iran are still on the table",
-    "desc": "“Russia is ready to assist ‌to the best of its ability and will be ‌happy ⁠to do so, but you know that this ⁠requires multiple understandings and multiple agreements, so we’ll have to be a little patient,” Kremlin spokesperson Dmitry Peskov told reporters.",
-    "img": "https://th-i.thgim.com/public/incoming/yhk5ad/article70726256.ece/alternates/LANDSCAPE_1200/Russia_Putin_03923.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/kremlin-says-putins-proposals-on-iran-are-still-on-the-table/article70726226.ece",
-    "time": "2026-03-10T12:58:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/sri-lanka-names-kirsten-as-head-coach-with-2027-world-cup-in-focus/article70725127.ece",
     "time": "2026-03-10T04:52:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Stock market investors sell big as crude hits $100",
-    "desc": "The 30-share BSE Sensex tanked 1,352.74 points, or 1.71%, to settle at 77,566.16, registering its second day of decline. On similar lines, the 50-share NSE Nifty dropped 422.40 points, or 1.73%, to end at 24,028.05.",
-    "img": "https://th-i.thgim.com/public/business/markets/jrluuo/article70721170.ece/alternates/LANDSCAPE_1200/stockmarkets.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/west-asia-conflict-crude-oil-prices-surge-stock-markets-forex-markets-on-march-9-2026/article70721155.ece",
-    "time": "2026-03-09T20:31:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India glorious",
-    "desc": "A triumph of spirit, of team spirit, of belief in themselves and each other, the T20 World Cup title won by Suryakumar & Co. will be celebrated long and hard; India relished being installed the favourites and basked in the fact that everyone expected them to go all the way",
-    "img": "https://th-i.thgim.com/public/incoming/iemhf6/article70723904.ece/alternates/LANDSCAPE_1200/VIS_9323.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/indiaglorious/article70723898.ece",
-    "time": "2026-03-09T19:03:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shahid Kapoor starts shooting for Raj & DK’s 'Farzi 2'",
-    "desc": "The first season of ‘Farzi’ released in 2023 and featured Kapoor in the role of Sunny, a brilliant small-time artist, who gets propelled into the high-stakes world of counterfeiting after creating the perfect fake currency note.",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/miixp/article70721943.ece/alternates/LANDSCAPE_1200/Shahid%20K.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/shahid-kapoor-starts-shooting-for-raj-amp-dks-farzi-2/article70721919.ece",
-    "time": "2026-03-09T10:05:46.000Z"
   }
 ];
