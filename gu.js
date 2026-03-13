@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "ગેસ સિલિન્ડરની અછત વચ્ચે માર્કેટમાં આવ્યું નવું કોભાંડ, આ રીતે લોકો સાથે કરે છે છેતરપિંડી, આ રીતે રહો સાવધાન",
+    "desc": "LPG સિલિન્ડરની પર એક નવું ઓનલાઈન કૌભાંડ દેશમાં ઝડપથી ફેલાઈ રહ્યું છે. જેમાં નકલી જાહેરાતો દ્વારા લોકોને છેતરાઈ રહ્યા છે. આ ફ્રોડ કરનારા આ રીતે કાર્ય કરે છે, અને તેનાથી બચવા માટે અહીં કેટલીક ટિપ્સ આપી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/amidst-the-shortage-of-gas-cylinders-a-new-scam-has-come-in-the-market-this-is-how-people-are-being-cheated-be-careful-like-this-468397 ",
+    "time": "2026-03-13T09:26:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શહેરમાં 25, ગ્રામ્ય વિસ્તારમાં કેટલા દિવસમાં થશે સિલિન્ડરનું બુકિંગ? સરકારે આપ્યો જવાબ",
+    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા જંગને કારણે ગેસ સપ્લાય પર અસર જોવા મળી રહી છે. ભારતના ઘણા ભાગમાં લોકો સિલિન્ડર માટે લાઇનમાં ઉભેલા જોવા મળી રહ્યાં છે. કેટલાક લોકો કાળાબજારી કરી રહ્યાં છે. આ વચ્ચે સરકારે સિલિન્ડર બુકિંગના નિયમોમાં ફેરફાર કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lpg-gas-crisis-rural-area-refill-gap-increased-to-45-days-says-hardeep-singh-puri-468302 ",
+    "time": "2026-03-13T09:24:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શું નવા લેબર કોડથી બદલાશે PFના નિયમો? સરકારે આપ્યો આ જવાબ, કરોડો કર્મચારીઓની ચિંતા દૂર",
+    "desc": "EPFO સાથે જોડાયેલા કરોડો કર્મચારીઓ માટે સૌથી મહત્વની વાત એ છે કે, નવા લેબર કોડને કારણે તાત્કાલિક કોઈ મોટો ફેરફાર થવાનો નથી. હાલની EPF સ્કીમ પહેલાની જેમ જ ચાલુ રહેશે અને જો કોઈ ફેરફાર થશે તો તે નવા નિયમો લાગુ થયા બાદ ધીમે-ધીમે કરવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-pf-regulations-change-under-the-new-labour-codes-government-provides-a-response-ending-the-anxiety-of-millions-of-employees-468395 ",
+    "time": "2026-03-13T09:10:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અક્ષય કુમાર-પ્રિયદર્શનની હોરર કોમેડી ફિલ્મ ભૂત બંગલાનું જુઓ ટીઝર",
+    "desc": "અક્ષય કુમાર, પરેશ રાવલ અને પ્રિયદર્શન જ્યારે પણ સાથે આવ્યા છે ત્યારે દર્શકો નિરાશ નથી થયા. વર્ષ 2026 માં ફરીથી આ 3 કલાકારો ભૂત બંગલા ફિલ્મ લઈને આવી રહ્યા છે. આ ફિલ્મનું ટીઝર રિલીઝ થયું છે અને ટીઝર જોઈને તમને પણ લાગશે કે આ વખતે પણ દર્શકો નિરાશ નહીં થાય.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-priyadarshan-film-bhooth-bangla-teaser-bhooth-bangla-film-release-date-468394 ",
+    "time": "2026-03-13T09:08:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મોજ કરો! આજે સોનાના ભાવમાં મોટો ઘટાડો, ચાંદી પણ 8000 રૂપિયા સસ્તી, ફટાફટ ચેક કરો લેટેસ્ટ રેટ",
+    "desc": "સોના અને ચાંદીમાં આજે જોરદાર કડાકો જોવા મળ્યો છે. એક ઝટકે ભાવમાં તોતિંગ ઘટાડો જોવા મળ્યો. વાયદા બજાર અને રિટેલ બજાર બંનેમાં આજે ભાવ ગગડ્યા છે. જો તમે પણ સોનું લેવાનું વિચારતા હોવ તો ફટાફટ લેટેસ્ટ રેટ ખાસ ચેક કરો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-big-drop-in-gold-prices-silver-is-also-8000-rupees-cheaper-quickly-check-the-latest-rate-468377 ",
+    "time": "2026-03-13T07:40:45.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "25 kmpl માઇલેજ, 360 ડિગ્રી કેમેરા અને 5 સ્ટાર રેટિંગ, લોકોના દિલો પર રાજ કરે છે મારૂતિની આ કાર, કિંમત માત્ર 6.26 લાખ",
+    "desc": "દેશમાં ઘણી કાર વેચાઈ રહી છે, પરંતુ મારૂતિની એક કાર છેલ્લા કેટલાક મહિનાથી બેસ્ટ સેલિંગ કાર બનેલી છે. આ કાર માત્ર 6.26 લાખની શરૂઆતી કિંમતમાં આવે છે અને પોતાના સેગમેન્ટમાં શાનદાર ફીચર્સ આપે છે. લાંબી સમય દરમિયાન આ કાર ખૂબ આરામદાયક માનવામાં આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/top-selling-car-maruti-suzuki-dzire-become-peoples-favourite-price-starts-626000-468378 ",
+    "time": "2026-03-13T07:24:33.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "પિરિયડ્સ લીવ પર સુપ્રીમ કોર્ટનો મહત્વપૂર્ણ નિર્ણય; શું નોકરિયાત મહિલાઓ અને ભણતી વિદ્યાર્થિનીઓને રજા મળશે?",
     "desc": "સુપ્રીમ કોર્ટે કામકાજ કરતી મહિલાઓ અને વિદ્યાર્થિનીઓ માટે પિરિયડ્સ લીવ (માસિક ધર્મની રજા) ને ફરજિયાત બનાવવાની માંગ કરતી અરજી પર સુનાવણી કરવાનો ઇનકાર કરી દીધો છે. અદાલતે જણાવ્યું હતું કે આવો કાયદો બનાવવાથી મહિલાઓની કારકિર્દી પર નકારાત્મક અસર પડી શકે છે.",
@@ -97,15 +151,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/dark-night-fear-of-death-and-india-adventure-how-a-ship-full-of-oil-reached-mumbai-from-the-strait-of-hormuz-468300 ",
     "time": "2026-03-12T12:36:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શહેરમાં 25, ગ્રામ્ય વિસ્તારમાં કેટલા દિવસમાં થશે સિલિન્ડરનું બુકિં? સરકારે આપ્યો જવાબ",
-    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા જંગને કારણે ગેસ સપ્લાય પર અસર જોવા મળી રહી છે. ભારતના ઘણા ભાગમાં લોકો સિલિન્ડર માટે લાઇનમાં ઉભેલા જોવા મળી રહ્યાં છે. કેટલાક લોકો કાળાબજારી કરી રહ્યાં છે. આ વચ્ચે સરકારે સિલિન્ડર બુકિંગના નિયમોમાં ફેરફાર કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lpg-gas-crisis-rural-area-refill-gap-increased-to-45-days-says-hardeep-singh-puri-468302 ",
-    "time": "2026-03-12T11:55:07.000Z"
   },
   {
     "cat": "Politics",
@@ -313,15 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/malaika-arora-dating-rumors-with-sorab-bedi-dance-video-malaika-arora-sorab-bedi-went-viral-468105 ",
     "time": "2026-03-11T09:15:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL પર નવું સંકટ ! ટુર્નામેન્ટ શરૂ થવામાં થઈ શકે છે વિલંબ, ચેરમેન અરુણ ધુમલે આપ્યું મોટું અપડેટ",
-    "desc": "મિડલ ઈસ્ટમાં અમેરિકા અને ઈરાન વચ્ચે ચાલી રહેલા સંઘર્ષની અસર હવે ભારત પર પણ પડી રહી છે. દેશમાં LPGની અછત ઉભી થઈ રહી છે. આ દરમિયાન IPLના ચેરમેન અરુણ ધુમલે IPLના આયોજનને લઈને મોટું નિવેદન આપ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-may-postponed-due-to-lpg-shortage-chairman-gives-big-update-468103 ",
-    "time": "2026-03-11T08:58:12.000Z"
   },
   {
     "cat": "Politics",
@@ -592,14 +628,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/tumm-se-tumm-tak-pushpa-will-know-arya-truth-she-will-destroy-anu-relation-know-this-467049 ",
     "time": "2026-03-03T11:10:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આવી મર્ડર મિસ્ટ્રી આજ સુધી નહીં જોઈ હોય, ખૂની કોણ છે ખબર પડશે ત્યારે મોંમાં નાખી દેશો આંગળા, આજે જોઈ કાઢો આ ફિલ્મ",
-    "desc": "મર્ડર મિસ્ટ્રી ફિલ્મો અને વેબ સીરીઝ જોવાનો શોખીન એક અલગ વર્ગ છે. સારી મર્ડર મિસ્ટ્રી ફિલ્મ એને કહેવાય જેમાં છેલ્લા સીન સુધી ખૂની કોણ છે તેનો અંદાજ ન લગાવી શકાય અને છેલ્લે જ્યારે ખૂની કોણ છે ખબર પડે ત્યારે માથું ભમી જાય... આવી જ જબરદસ્ત ફિલ્મ વિશે તમને જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-murder-mystery-on-netflix-malayalam-film-forensic-in-hindi-on-ott-466891 ",
-    "time": "2026-03-02T12:26:02.000Z"
   }
 ];

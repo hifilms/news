@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Who is Kavya Maran? Sunrisers co-owner facing backlash for picking Abrar Ahmed in The Hundred",
+    "desc": "Sunrisers Leeds are facing a massive backlash on social media for picking Pakistan's Abrar Ahmed in the Hundred auction on Thursday. This move from the franchise ended the unofficial 'shadow' ban on Pakistan players from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-kavya-maran-sunrisers-co-owner-facing-backlash-for-picking-abrar-ahmed-in-the-hundred-2026-03-13-1033641",
+    "time": "2026-03-13T07:29:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why did Sunrisers Leeds pick Pakistan's Abrar Ahmed in their squad at The Hundred auction? Reason revealed",
     "desc": "Sunrisers Leeds have found themselves in troubled waters after picking Pakistan spinner Abrar Ahmed in their squad in the inaugural The Hundred auction on Thursday. Their co-owner, Kavya Maran, has faced massive backlash on social...",
     "img": "",
@@ -70,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/faf-du-plessis-gives-his-take-on-pressure-that-rishabh-pant-could-face-ahead-of-ipl-2026-2026-03-12-1033576",
     "time": "2026-03-12T14:53:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravindra Jadeja hits massive sixes in first-ever training session for Rajasthan Royals",
-    "desc": "The 19th edition of the IPL (Indian Premier League) 2026 is all set to kick off on March 28. The 10 franchises will look to put in their best performances in hopes of getting their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadeja-hits-massive-sixes-in-first-ever-training-session-for-rajasthan-royals-watch-2026-03-12-1033571",
-    "time": "2026-03-12T13:59:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I don't see a point': Cheteshwar Pujara weighs in on MS Dhoni's batting position for CSK ahead of IPL 2026",
-    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026, and the 10 franchises will be looking to put in their best performances in hopes of getting their hands on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-don-t-see-a-point-cheteshwar-pujara-weighs-in-on-ms-dhoni-s-batting-position-for-csk-ahead-of-ipl-2026-2026-03-12-1033563",
-    "time": "2026-03-12T12:39:10.000Z"
   }
 ];
