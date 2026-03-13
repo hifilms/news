@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Harshit Rana ruled out of IPL 2026, KKR working on replacement: Report",
+    "desc": "Kolkata Knight Riders all-rounder Harshit Rana has been ruled out of the Indian Premier League 2026 season. The Delhi cricketer was part of India’s T20 World Cup squad, but in the warm-up games, he suffered...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-ruled-out-of-ipl-2026-kkr-working-on-replacement-report-2026-03-13-1033699",
+    "time": "2026-03-13T14:33:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KKR sign Blessing Muzarabani for IPL 2026, Zimbabwe pacer leaves PSL contract",
+    "desc": "Kolkata Knight Riders have roped in Zimbabwe pacer Blessing Muzarabani for IPL 2026, replacing Bangladesh’s Mustafizur Rahman, who was released in line with BCCI guidelines. The 29-year-old had been part of Royal Challengers Bengaluru’s title-winning...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-sign-blessing-muzarabani-for-ipl-2026-zimbabwe-pacer-leaves-psl-contract-2026-03-13-1033694",
+    "time": "2026-03-13T13:41:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Salman Agha's stupidity triggers heated moment, Pakistan-Bangladesh's newfound 'love' turns ugly",
     "desc": "Pakistan batter Salman Agha was left stunned and furious after Mehidy Hasan Miraz tricked and dismissed him in the second ODI between Bangladesh and Pakistan at the Sher-E-Bangla Stadium in Dhaka. The tense moment unfolded...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/did-shubman-gill-really-edit-sanju-samson-out-of-t20-world-cup-celebration-picture-here-s-the-truth-2026-03-13-1033614",
     "time": "2026-03-13T04:18:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Final squads of all 8 teams after inaugural auction in London",
-    "desc": "The inaugural Men's Hundred auction took place at London's Picadilly Lights on Thursday. At the end of the event, young uncapped English player James Coles became the most expensive player with London Spirit splurging a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/the-hundred-2026-final-squads-of-all-8-teams-after-inaugural-auction-in-london-2026-03-13-1033605",
-    "time": "2026-03-13T02:46:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We were so close': Mahmudullah recalls Bangladesh's heartbreaking 1-run loss to India in T20 World Cup 2016",
-    "desc": "T20 World Cup 2016. Must-win game for India at the Chinnaswamy Stadium in Bengaluru. Bangladesh need only two runs off three balls to win and knock India out of a home World Cup in Super...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/we-were-so-close-mahmudullah-recalls-bangladesh-s-heartbreaking-1-run-loss-to-india-in-t20-world-cup-2016-2026-03-13-1033602",
-    "time": "2026-03-13T02:09:44.000Z"
   }
 ];

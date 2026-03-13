@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "શું આ મહેન્દ્ર સિંહ ધોનીની છેલ્લી IPL હશે? ઈરફાન પઠાણે કરી ભવિષ્યવાણી",
+    "desc": "છેલ્લા કેટલાક સીઝનથી એવું કહેવામાં આવી રહ્યું છે કે આ ધોનીની છેલ્લી IPL સીઝન છે, પરંતુ એવું થતું નથી. આગામી સીઝનમાં ફરી એ જ પ્રશ્ન ઉભો થાય છે. ભૂતપૂર્વ ભારતીય ઓલરાઉન્ડર ઇરફાન પઠાણે હવે આ અંગે એક ભવિષ્યવાણી કરી છે. તેમણે કહ્યું કે IPL 2026 કદાચ છેલ્લી વખત હશે જ્યારે આપણે ધોનીને પીળી જર્સીમાં રમતા જોઈશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/will-this-be-mahendra-singh-dhonis-last-ipl-irfan-pathan-makes-a-prediction-468460 ",
+    "time": "2026-03-13T15:26:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ખેડૂતો માટે ખુશખબર! વડાપ્રધાન મોદીએ જાહેર કર્યો પીએમ કિસાન યોજનાનો 22મો હપ્તો, આ રીતે ચેક કરો સ્ટેટસ",
+    "desc": "પીએમ કિસાન યોજના હેઠળ કેન્દ્ર સરકાર ખેડૂતોને દર વર્ષે 6,000 રૂપિયાની આર્થિક સહાય આપે છે. આ રકમ 2,000 રૂપિયાના ત્રણ હપ્તામાં સીધી બેન્ક ખાતામાં મોકલવામાં આવે છે, જેથી ખેડૂતો બિયારણ, ખાતર અને ખેતી સાથે જોડાયેલી જરૂરી ચીજવસ્તુઓ ખરીદી શકે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/pm-kisan-22nd-installment-released-how-to-check-status-direct-link-468459 ",
+    "time": "2026-03-13T15:09:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "બે ભવિષ્યવાણીઓ સાચી પડી, હવે ત્રીજીનો સમય ! ચીનના નોસ્ટ્રાડેમસે જણાવ્યું યુએસ-ઈરાન યુદ્ધનું વિનાશક પરિણામ, જાણો",
+    "desc": "ચીનના નોસ્ટ્રાડેમસ તરીકે જાણીતા પ્રોફેસર ઝુએક્વિન જિયાંગની ભવિષ્યવાણીઓ ઓનલાઈન વાયરલ થઈ રહી છે. તેમણે ડોનાલ્ડ ટ્રમ્પની જીત અને યુએસ-ઈરાન યુદ્ધની ભવિષ્યવાણી કરી હતી, અને હવે તેમણે ખુલાસો કર્યો છે કે આ યુદ્ધ કેવી રીતે સમાપ્ત થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/china-nostradamus-predicted-the-devastating-consequences-of-the-us-iran-war-know-this-468456 ",
+    "time": "2026-03-13T14:15:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ત્રીજા વિશ્વયુદ્ધના ભણકારા! 48 કલાકમાં ત્રણ NATO દેશો પર ઈરાનનો હુમલો, ફ્રાન્સે આપી ચેતવણી",
+    "desc": "છેલ્લા 48 કલાકમાં ઈરાન અને તેના સાથી લશ્કરી જૂથોએ ત્રણ નાટો સભ્ય દેશો ફ્રાન્સ, ઇટલી અને તુર્કીના આર્મી બેઝને સીધા નિશાન બનાવ્યા છે. આ હુમલાઓએ માત્ર પ્રાદેશિક તણાવને ગંભીર સ્તરે વધારી દીધો નથી, પરંતુ ઉત્તર એટલાન્ટિક સંધિ સંગઠન (NATO) આ યુદ્ધમાં સીધી પ્રવેશ કરી શકે છે તેવી આશંકા પણ વધારી દીધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/fears-of-world-war-iii-iran-to-attack-three-nato-countries-in-48-hours-france-warns-468441 ",
+    "time": "2026-03-13T13:06:43.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "શું ફરીથી રસોડામાં જોવા મળશે કેરોસીન? જાણો કેવી રીતે ઘર અને બજારમાંથી થયું હતું ગાયબ",
     "desc": "એક સમયે એવો હતો, જ્યારે રસોડા અને ફાનસ માટે કેરોસીનનો ઉપયોગ થતો હતો. જો કે, સમયની સાથે છેલ્લા દાયકામાં કેરોસીન લગભગ જાણે ગાયબ જ થઈ ગયું છે. જો કે, LPG સંકટ અને વૈકલ્પિક ઇંધણની ચર્ચાઓ વચ્ચે હવે કેરોસીન પાછું આવવાની ચર્ચા થઈ રહી છે. ચાલો જાણીએ કેરોસીન ગાયબ થવા પાછળનું કારણ અને ફરી પાછા ફરવાની કહાની.",
@@ -466,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/middle-east-war-cheaper-options-gas-free-kitchen-lpg-cylinder-price-hike-one-time-investment-your-kitchen-will-become-smart-know-467997 ",
     "time": "2026-03-10T11:25:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મા પગાર પંચના સમયમાં પહેલીવાર પગારમાં થશે વધારો, 60 % થઈ જશે DA! જાણો",
-    "desc": "જો બધું બરાબર રહ્યું, તો સરકારને આગામી 18 મહિનામાં આઠમા પગાર પંચની ભલામણો પ્રાપ્ત થશે. તેનો અમલ 1 જાન્યુઆરી, 2026થી થવાનું અનુમાન છે. જ્યાં સુધી આ નિર્ણય ન થાય, ત્યાં સુધી સરકાર જૂની પદ્ધતિનો ઉપયોગ કરીને કર્મચારીઓને આપવામાં આવતા મોંઘવારી ભથ્થા (DA)ની ગણતરી કરવાનું ચાલુ રાખશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/salary-will-increase-for-the-first-time-during-the-8th-pay-commission-da-will-be-increased-to-60-percent-know-467990 ",
-    "time": "2026-03-10T10:12:23.000Z"
   },
   {
     "cat": "Politics",

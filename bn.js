@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "সিপিএম নেতাদের সহায়তায়, বহু বাধা কাটিয়ে বিয়ে সারলেন মহাকুম্ভের ভাইরাল মোনালিসা... রইল বিয়ের অদেখা ছবি",
+    "desc": "কুম্ভমেলায় ভাইরাল হয়েছিলেন বেশ কয়েকজন সাধু, তাঁদের মধ্যে ছিলেন আইআইটি বাবা। ঠিক তেমন সকলের নজর কেড়েছিলেন এই মেয়ে। কুম্ভমেলায় মালা বিক্রি করতে দেখা যায় এক শ্যামলা রঙের মেয়েকে। হাতে বড় ব্যাগে নানা রকমের মালা নিয়ে সে ঘুরছিল মেলায়। সেই মালা বিক্রেতাকে নিয়ে মুহূর্তে তৈরি হয় শোরগোল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1773410492_bfbc-2026-03-426d7f08f35ac8793560ee39b6b5c5e3-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/off-beat/i-am-18-viral-mahakumbh-girl-monalisa-on-marrying-farman-khan-rmj-2584044.html",
+    "time": "2026-03-13T14:48:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বিরাট সরকারি ঘোষণা: আজ সন্ধ্যে থেকেই ব্যাংক অ্যাকাউন্টে ২০০০ টাকা, কারা পাবেন? কী ভাবে পাবেন? এখানেই দেখে নিন সব তথ্য",
+    "desc": "আজ ভারতের কোটি কোটি কৃষক পরিবারের জন্য অত্যন্ত আনন্দের দিন। প্রতিশ্রুতি মতো, প্রধানমন্ত্রী নরেন্দ্র মোদী ১৩ মার্চ বিকেলে অসমের গুয়াহাটিতে একটি কেন্দ্রীয় অনুষ্ঠান থেকে পিএম কিষাণ যোজনার ২২তম কিস্তি বাবদ মোট ১৮,৬৪০ কোটি টাকা পাঠিয়েছেন। দেশজুড়ে ৯.৩২ কোটি কৃষকের ব্যাংক অ্যাকাউন্টে সরাসরি গিয়েছে এই টাকা। ডাইরেক্ট বেনিফিট ট্রান্সফার (DBT) ব্যবস্থার মাধ্যমে এই অর্থ সরাসরি লগ্নিকারীদের অ্যাকাউন্টে পৌঁছে গিয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/pm-kisan-22nd-installment-released-by-pm-modi-check-beneficiary-status_644765.html ",
+    "time": "2026-03-13T14:42:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ক্রিকেটের জনপ্রিয় সঞ্চালক গৌরব কাপুর ও অভিনেত্রী কৃতিকা কামরার বিয়ে! পার্টির অন্দরের অদেখা ছবি ভাইরাল",
+    "desc": "খুবই সাধারণ ও ঘরোয়া পরিবেশে নতুন জীবনের শুরু করেছেন। এই অনুষ্ঠানে শুধু পরিবারের সদস্য ও কয়েকজন ঘনিষ্ঠ বন্ধু উপস্থিত ছিলেন। উল্লেখযোগ্য বিষয় হল, Breakfast with Champions-এর সঞ্চালক গৌরব কাপুর এবং অভিনেত্রী কৃতিকা কামরা দুজনেই দীর্ঘদিন ধরেই নিজেদের ব্যক্তিগত জীবন প্রচারের আড়ালে রেখেছিলেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1773405104_fff-2026-03-7563626c9e5a35870009a17f831224c9-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/bollywood-news-kritika-kamra-marries-gaurav-kapur-in-intimate-wedding-photos-rmj-2583925.html",
+    "time": "2026-03-13T12:59:00.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "'আতঙ্ক নয়,গ্যাসের জোগান স্বাভাবিক-ই আছে', 'প্যানিক'-এ বাড়তি সিলিন্ডার বুক না করার আবেদন সরকারের",
     "desc": "মধ্যপ্রাচ্যের আঁচ পড়েছে ভারতে! চারদিকে গ্যাসের জন্য হাহাকার! ভারত-সহ পশ্চিমবঙ্গে। নানা জায়গায় গ্যাসের অফিসের বাইরে লম্বা লাইন। অভিযোগ ফোনে বুক করা যাচ্ছে না। বুক করলেও মিলছে না। এই পরিস্থিতিতে অনেকেই বাড়তি সিলিন্ডার বুক করে রাখছেন ভয়ে! শুক্রবার সরকারের তরফে জানানো হল, 'প্যানিক বায়িং' নয়, দেশে জ্বালানির জোগান স্বাভাবিক-ই আছে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/1773292644_lpg-gas-cylinder-1-2026-03-2879f2ab13a6ed9f2fba43476c637054-1200x800.jpg",
@@ -214,15 +241,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/donald-trump-new-tariff-news-india-china-among-16-us-trading-partners-will-be-investigated-by-trumps-301-tariff-probes-sta-2580908.html",
     "time": "2026-03-12T05:06:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "পে কমিশনের বড় আপডেট: কেন্দ্রীয় সরকারী কর্মীদের মূল বেতনের সঙ্গেই ডিএ জুড়ে একলাফে ১৮,০০০ থেকে ৪৬,০০০ টাকা বেতন?",
-    "desc": "সপ্তম বেতন কমিশনের সুপারিশ অনুযায়ী একটি নিয়ম ছিল যে, যখনই মহার্ঘ ভাতা ৫০ শতাংশের ঘরে পৌঁছাবে, তখন তা মূল বেতনের সাথে যুক্ত করে দেওয়া হবে এবং ডিএ আবার শূন্য থেকে গণনা করা শুরু হবে। ইতিপূর্বে ২০০৪ সালে যখন ডিএ ৫০ শতাংশে পৌঁছেছিল, তখন তৎকালীন সরকার সেটি মূল বেতনের সঙ্গে যোগ করে দিয়েছিল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/8th-pay-commission-update-will-da-be-merged-with-basic-salary-minimum-pay-may-rise-to-46000_644551.html ",
-    "time": "2026-03-11T16:59:19.000Z"
   },
   {
     "cat": "World",
@@ -529,15 +547,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/east-medinipur-money-making-tips-egra-alanggiri-women-making-handicrafts-with-forest-resource-rural-economy-success-story-l18-local18-2577344.html",
     "time": "2026-03-10T09:11:45.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "পতন অব্যাহত, যুদ্ধ বাড়লেও কেন কমছে সোনার দাম? জানুন ৫ কারণ",
-    "desc": "সাধারণত যুদ্ধ বা কোনওরকম কোনও ভূ-রাজনৈতিক অস্থিরতার সময় নিরাপদ বিনিয়োগ হিসেবে সোনার চাহিদা বাড়ে। আর তার জেরে সোনার দামও বাড়ে। কিন্তু এবার একেবারে উল্টো প্রবণতা দেখা যাচ্ছে। যুদ্ধের শুরু থেকেই দামে পতন! যুদ্ধ পরিস্থিতি থাকা সত্ত্বেও কেন কমছে সোনা-রুপোর দাম? বিশ্লেষকরা বলছেন, এর পিছনে রয়েছে ৫ বড় কারণ। কী কী?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/gold-rate-10-march-why-gold-price-are-falling-in-us-iran-war-5-reasons-explained_644379.html ",
-    "time": "2026-03-10T09:09:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/from-richest-actress-to-ruin-tax-raid-found-millions-in-her-bathroom-one-lie-ended-career-rds-2572098.html",
     "time": "2026-03-06T11:29:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কর্ণাটকের পথে এবার অন্ধ্রপ্রদেশ... ১৩ বছরের কমবয়সী শিশুদের জন্য সোশ্যাল মিডিয়া নিষিদ্ধ ঘোষণা করলেন চন্দ্রবাবু নাইডু",
-    "desc": "শিশুদের সোশ্যাল মিডিয়া ব্যবহার নিয়ন্ত্রণ করা নিয়ে উপাচার্যদের মতামতও চান কর্ণাটকের মুখ্যমন্ত্রী৷ উপাচার্যদের মুখ্যমন্ত্রী সিদ্দারামাইয়া জানান, এ বিষয়ে তাঁদের মতামত অত্যন্ত গুরুত্বপূর্ণ৷ কারণ অনেক শিশুই সোশ্যাল মিডিয়া ব্যবহারের সূত্রে মাদকের ফাঁদে পড়ছে বলে অভিযোগ করেন সিদ্দারামাইয়া৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/chandrababu-2026-03-8b3cd329a734c035fa6089396e68ff90-1200x800.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/andhra-pradesh-bans-social-media-for-under-13-chief-minister-rmj-ws-l-2572001.html",
-    "time": "2026-03-06T10:29:41.000Z"
   }
 ];
