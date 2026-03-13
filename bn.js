@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "ভোটমুখী পড়শি রাজ্যে একাধিক রেল প্রকল্পের উদ্বোধন করলেন প্রধানমন্ত্রী! বেশ কিছু ট্রেন চলবে পশ্চিমবঙ্গেও",
+    "desc": "প্রধানমন্ত্রী কামাখ্যা-চার্লাপল্লী অমৃত ভারত এক্সপ্রেস, গুয়াহাটি-নিউ জলপাইগুড়ি এক্সপ্রেস এবং নারাঙ্গি-আগরতলা এক্সপ্রেসের যাত্রার সূচনা করেন, যা উত্তর-পূর্বাঞ্চলে রেল যোগাযোগ ব্যবস্থাকে আরও জোরদার করবে। প্রধানমন্ত্রী বলেন যে, এই নতুন ট্রেন এবং প্রকল্পগুলো বাণিজ্য ও পর্যটনকে উৎসাহিত করবে এবং শিক্ষার্থী ও রোগীদের জন্য অত্যন্ত উপকারী হবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Narendra-Modi-2026-02-086f0030ac34afd39e7810d9b27e120a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/narendra-modi-inaugurates-many-rail-projects-in-assam-also-few-new-trains-which-will-connect-west-bengal-rdp-2584137.html",
+    "time": "2026-03-13T16:19:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LPG বুকিং ছাড়াল ৭৫ লাখ, বাড়ি বা গুদামে গ্যাস লুকিয়ে রাখলে হতে পারে জেল! গ্যাস নিয়ে এল গুরুত্বপূর্ণ নির্দেশিকা",
+    "desc": "এলপিজি গ্যাস সিলিন্ডার নিয়ে এল বড় আপডেট। নয়াদিল্লিতে বিভিন্ন মন্ত্রকের মধ্যে আলোচনার পর একটি গুরুত্বপূর্ণ বিবৃতি দিয়ে পেট্রোলিয়াম, জাহাজ চলাচল এবং বিদেশ মন্ত্রকের ঊর্ধ্বতন কর্মকর্তারা জানিয়েছেন যে দেশে তেল ও গ্যাস সরবরাহ সম্পূর্ণ স্থিতিশীল এবং কোনও ঘাটতি নেই। একইসঙ্গে গ্যাস মজুদ করে রাখা নিয়েও এল জরুরি সতর্কীকরণ।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/lpg-1-2026-03-a6ecf9f9537173294986ad3fde4bd950-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/lpg-gas-cyllinder-rule-booking-crosses-75-lakhs-if-you-hide-gas-in-your-house-or-warehouse-you-can-be-jailed-important-guidelines-on-gas-cyllinder-crisis-sanj-2584127.html",
+    "time": "2026-03-13T16:09:22.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "সিপিএম নেতাদের সহায়তায়, বহু বাধা কাটিয়ে বিয়ে সারলেন মহাকুম্ভের ভাইরাল মোনালিসা... রইল বিয়ের অদেখা ছবি",
     "desc": "কুম্ভমেলায় ভাইরাল হয়েছিলেন বেশ কয়েকজন সাধু, তাঁদের মধ্যে ছিলেন আইআইটি বাবা। ঠিক তেমন সকলের নজর কেড়েছিলেন এই মেয়ে। কুম্ভমেলায় মালা বিক্রি করতে দেখা যায় এক শ্যামলা রঙের মেয়েকে। হাতে বড় ব্যাগে নানা রকমের মালা নিয়ে সে ঘুরছিল মেলায়। সেই মালা বিক্রেতাকে নিয়ে মুহূর্তে তৈরি হয় শোরগোল।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/1773410492_bfbc-2026-03-426d7f08f35ac8793560ee39b6b5c5e3-1200x800.jpg",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/isl-2026-mohun-bagan-fc-defeated-odisha-fc-by-5-goals-at-yuva-bharati-krianangan-smc-2572397.html",
     "time": "2026-03-06T14:31:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Gen Z আন্দোলনের মুখ! নেপালের নতুন প্রধানমন্ত্রী হতে চলেছেন পঁয়ত্রিশের র‍্যাপার বলেন্দ্র, ভারত থেকে পড়াশোনা করা এই নেতাকে চেনেন?",
-    "desc": "Gen Z: গত সেপ্টেম্বরে তরুণ প্রজন্ম বা জেন জি বিক্ষোভের জেরে নেপালের পতন হয়েছিল কেপি শর্মা ওলির সরকারের। সেই অস্থির সময়ে বিক্ষোভ, অবস্থান এবং প্রতিবাদে নেপাল আন্দোলনের অন্যতম মুখ হয়ে ওঠেন বলেন্দ্র শাহ বা বলেন্দ্র। ৫ মার্চ নেপালের সাধারণ নির্বাচন হওয়ার পর গণনা চলছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-06-at-6.08.58-PM-2026-03-87f0a2216d4008e0c139f0905cfc8240-1200x800.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/after-gen-z-protest-nepal-elections-2026-balendra-shah-expected-to-won-landslide-victory-for-pm-seat-smc-2572349.html",
-    "time": "2026-03-06T13:34:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বাথরুমে থরে থরে সাজানো লাখ লাখ টাকা, কোথা থেকে এল? ধরা পড়তেই সাফ উত্তর  'দেহব্যবসা করেই কামিয়েছি!' কে এই বিখ্যাত নায়িকা? বলুন তো?",
-    "desc": "পাঁচ ও ছয়ের দশকে অন্যতম ধনী নায়িকা তিনি৷ পারিশ্রমিকের দিক থেকেও বহু তারকাকে ছাপিয়ে গিয়েছিলেন খুব কম সময়ের মধ্যেই । কিন্তু কেরিয়ারের শীর্ষেই একটা বড় ভুল করেন তিনি আর এক ভুলেই কেরিয়ার শেষ হয় নায়িকার৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Mala-Sinha-2026-03-c26608b1d3e243fb08dc395004f38977-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/from-richest-actress-to-ruin-tax-raid-found-millions-in-her-bathroom-one-lie-ended-career-rds-2572098.html",
-    "time": "2026-03-06T11:29:56.000Z"
   }
 ];
