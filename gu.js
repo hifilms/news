@@ -324,15 +324,6 @@ const newsData_gu = [
     "time": "2026-03-11T06:44:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપ જીત્યા પછી નવા કેપ્ટનની શોધ ચાલુ ! અભિષેક, અક્ષર કે સેમસન કોણ લેશે સૂર્યાનું સ્થાન ?",
-    "desc": "T20 વર્લ્ડ કપ 2026 પછી ટીમ ઈન્ડિયાના આગામી કેપ્ટન અંગે ચર્ચા હવે શરૂ થઈ ગઈ છે. પૂર્વ ભારતીય ખેલાડી મોહમ્મદ કૈફે સંજુ સેમસન પર દાવ લગાવ્યો છે. તેમના મતે સંજુ વર્તમાન કેપ્ટન સૂર્યકુમાર યાદવનું સ્થાન લેવા માટે એક મજબૂત દાવેદાર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-will-be-next-captain-of-team-india-in-t20-mohammad-kaif-suggest-name-468073 ",
-    "time": "2026-03-11T05:18:38.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "2026મા થશે મોટો ધમાકો, Hyundai Creta ને ટક્કર આપવા આપી રહી છે 3 ધાકડ SUVs!",
     "desc": "ભારતમાં મિડ સાઇઝ SUV સેગમેન્ટમાં આ વર્ષે ઘણી નવી ગાડીઓ લોન્ચ થવાની છે, જે Hyundai Creta ને ટક્કર આપી શકે છે. Toyota Urban Cruiser Ebella, Renault Duster અને Skoda Kushaq જેવી SUVs નવા ફીચર્સ અને શાનદાર સ્ટાઇલની સાથે આવી શકે છે.",

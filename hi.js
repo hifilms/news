@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Did Shubman Gill really edit Sanju Samson out of T20 World Cup celebration picture? Here's the truth",
+    "desc": "India won the T20 World Cup for the record third time on March 8, beating New Zealand by 96 runs in the final. Five days after the historic achievement by the men in blue, Shubman...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/did-shubman-gill-really-edit-sanju-samson-out-of-t20-world-cup-celebration-picture-here-s-the-truth-2026-03-13-1033614",
+    "time": "2026-03-13T04:18:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Final squads of all 8 teams after inaugural auction in London",
+    "desc": "The inaugural Men's Hundred auction took place at London's Picadilly Lights on Thursday. At the end of the event, young uncapped English player James Coles became the most expensive player with London Spirit splurging a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/the-hundred-2026-final-squads-of-all-8-teams-after-inaugural-auction-in-london-2026-03-13-1033605",
+    "time": "2026-03-13T02:46:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We were so close': Mahmudullah recalls Bangladesh's heartbreaking 1-run loss to India in T20 World Cup 2016",
+    "desc": "T20 World Cup 2016. Must-win game for India at the Chinnaswamy Stadium in Bengaluru. Bangladesh need only two runs off three balls to win and knock India out of a home World Cup in Super...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/we-were-so-close-mahmudullah-recalls-bangladesh-s-heartbreaking-1-run-loss-to-india-in-t20-world-cup-2016-2026-03-13-1033602",
+    "time": "2026-03-13T02:09:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Donald Trump warns Iran's footballers of 'life and safety' risks if they choose to play in FIFA World Cup 2026",
     "desc": "The FIFA World Cup 2026 has been one of the most sought-after tournaments of the year. The marquee event is slated to be held in the USA, and with the ongoing West Asia war, the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-previews-csk-s-clash-with-rr-ahead-of-ipl-2026-highlights-importance-of-sanju-samson-2026-03-12-1033544",
     "time": "2026-03-12T11:05:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shivam Dube presents T20 World Cup winner's medal to his father in heartfelt moment",
-    "desc": "The Indian team returned triumphant from their T20 World Cup 2026 campaign. Under the leadership of Suryakumar Yadav, the Men in Blue just lost a single game throughout the tournament and went on to defeat...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shivam-dube-presents-t20-world-cup-winner-s-medal-to-his-father-in-heartfelt-moment-watch-2026-03-12-1033537",
-    "time": "2026-03-12T10:24:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Are you serious?': Former selector reveals Sachin Tendulkar's reaction after being told about replacing him",
-    "desc": "Sachin Tendulkar is arguably the best cricketer ever to play the sport and rightly so. He is the leading run-scorer in Tests and ODIs and played a staggering 24 years for India during his glittering...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/are-you-serious-former-selector-reveals-sachin-tendulkar-s-reaction-after-being-told-about-replacing-him-2026-03-12-1033525",
-    "time": "2026-03-12T09:18:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav reveals prize money trick from fielding coach to improve India's catching in T20 World Cup",
-    "desc": "India were always the favourites to win the T20 World Cup this year as they had not lost a single bilateral series in the last two years in the lead-up to the mega event. But...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-reveals-prize-money-trick-from-fielding-coach-to-improve-india-s-catching-in-t20-world-cup-2026-03-12-1033512",
-    "time": "2026-03-12T08:00:37.000Z"
   }
 ];
