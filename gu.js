@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "ઈરાન-ઈઝરાયલ યુદ્ધના કારણે સ્થગિત થશે IPL 2026 ? શું છે BCCIનો પ્લાન ? જાણો A to Z",
+    "desc": "મિડલ ઈસ્ટમાં વધતા તણાવની અસર હવે IPL 2026 પર પડી શકે છે. એરસ્પેસ બંધ થવા અને ફ્લાઇટમાં વિલંબ થવાને કારણે ઘણા વિદેશી ખેલાડીઓને ભારત મુસાફરી કરવામાં મુશ્કેલીઓનો સામનો કરવો પડી શકે છે. ત્યારે સવાલ એ છે કે જો પરિસ્થિતિ ટૂંક સમયમાં નહીં સુધરે તો શું IPL 2026 સ્થગિત કરવામાં આવશે ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/will-ipl-2026-to-be-postponed-due-to-iran-israel-war-bcci-give-massive-update-468301 ",
+    "time": "2026-03-13T01:30:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "દુનિયાના 4 બેટ્સમેન જેમણે T20માં બેવડી ફટકારી સદી, લિસ્ટમાં ભારતના 2 ખેલાડીઓ પણ સામેલ",
     "desc": "T20 ક્રિકેટમાં એવા મોટી-મોટી અજાયબીઓ જોવા મળી છે, જે ક્રિકેટ ફેન્સના હોશ ઉડાવી દે તેવી છે. T20 ક્રિકેટની એક ઇનિંગમાં કુલ 120 બોલ હોય છે, આવી સ્થિતિમાં કોઈ બેટ્સમેન બેવડી સદી ફટકારે તે કોઈ ચમત્કારથી ઓછું નથી.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -367,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/after-lpg-air-travel-now-becomes-more-expensive-air-india-hikes-fuel-surcharge-on-tickets-468039 ",
     "time": "2026-03-10T17:48:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ટ્રોફી લઈને હનુમાન મંદિર ગયા તો TMC સાંસદે ઉઠાવ્યો સવાલ, ઈશાને જે જવાબ આપ્યો, Watch Video",
-    "desc": "અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં ટી20 વર્લ્ડ કપ 2026ની ફાઈનલ ભારત અને ન્યૂઝીલેન્ડ વચ્ચે રમાઈ હતી જેમાં ટીમ ઈન્ડિયાએ 96 રનથી જીત મેળવી. ભવ્ય જીત મેળવ્યા બાદ ખેલાડીઓ મંદિર ગયા હતા જેને લઈને ટીએમસીના સાંસદ કિર્તી આઝાદે વિવાદિત નિવેદન આપ્યું હતું. હવે ઈશાન કિશને શું કહ્યું તેનો વીડિયો હાલ વાયરલ થઈ રહ્યો છે. ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-ishan-kishan-reaction-on-kirti-azad-statement-watch-video-468020 ",
-    "time": "2026-03-10T15:08:01.000Z"
   },
   {
     "cat": "World",

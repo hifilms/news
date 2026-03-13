@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "রান্নার গ্যাস বুকিংয়ের নিয়মে বড় বদল, গ্রামাঞ্চল ও দুর্গম এলাকায় ৪৫ দিন অন্তর মিলবে সিলিন্ডার! স্পষ্ট করলেন পেট্রোলিয়াম মন্ত্রী",
+    "desc": "প্রথমে বলা হয়েছিল, একটি সিলিন্ডার বুক করার ২১ দিন পর দ্বিতীয় সিলিন্ডার বুক করা যাবে। তার কিছু দিনের মধ্যেই তার ব্যবধান বাড়িয়ে ২৫ দিন করা হয়। তবে তা কেবল শহরাঞ্চলের ক্ষেত্রে প্রযোজ্য। পশ্চিম এশিয়ায় যুদ্ধের আবহে দেশের গ্রামাঞ্চল এবং দুর্গম এলাকায় দু’টি এলপিজি সিলিন্ডার বুকিংয়ের ব্যবধান বাড়িয়ে ৪৫ দিন করা হয়েছে। সংসদে এমনটাই জানালেন পেট্রোলিয়াম মন্ত্রী হরদীপ সিং পুরী। শহরাঞ্চলের ক্ষেত্রে অবশ্য এই ব্যবধান এখনও ২৫ দিন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Hardeep-Singh-Puri-Gas-Cylinder-2026-03-5fa0289c10e418cf814094b222a3d968-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/government-extends-lpg-booking-cycle-for-rural-households-to-45-days-amid-supply-concerns-after-hormuz-disruption-ss-2582637.html",
+    "time": "2026-03-13T01:33:07.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "জুবিন গর্গের মৃত্যু নিছক দুর্ঘটনা নাকি ষড়যন্ত্র? এসআইটি তদন্তের মাঝেই মুখ খুললেন স্ত্রী",
     "desc": "সিঙ্গাপুরে জুবিন গর্গের রহস্যমৃত্যুর কয়েক মাস পর, এক অনুষ্ঠানে আবেগপ্রবণ হয়ে পড়লেন স্ত্রী গরিমা গর্গ। মা-বোন-বন্ধুকে হারানোর যন্ত্রণা থেকে শুরু করে জুবিনের মনের গভীর আশঙ্কার কথা শোনালেন তিনি। অন্যদিকে, SIT তদন্ত ঘিরে ক্রমশ ঘনীভূত হচ্ছে জুবিনের মৃত্যুর রহস্য।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/kavinder-gupta-resigns-as-ladakh-lieutenant-governor-nine-months-after-taking-oath-sdg-2570999.html",
     "time": "2026-03-05T16:02:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আগামী ৭২ ঘণ্টা...! ভারী বৃষ্টি কাঁপাবে ১৭ রাজ্য, ৪৮ ঘণ্টায় তাপমাত্রায় চরম হুঁশিয়ারি কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "নতুন করে সৃষ্টি হওয়া পশ্চিমী ঝঞ্ঝার প্রভাবে আবহাওয়া আবারও বদলাতে চলেছে। আবহাওয়া বিভাগ একটি সতর্কতা জারি করেছে, আগামী ৭২ ঘণ্টায় অনেক রাজ্যে ভারী বৃষ্টিপাত হতে পারে দেশের একাধিক রাজ্যে। অন্যদিকে লাফিয়ে পারদ চড়বে এই রাজ্যগুলিতে! দেখুন আবহাওয়ার লেটেস্ট আপডেট।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj_rain_Thunder-2026-02-d4442b7a82e43dc3ddb6c50620195dec-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rainfall-alert-in-17-states-temperature-will-rise-massively-in-48-hours-for-these-states-check-latest-west-bengal-weather-sanj-2570625.html",
-    "time": "2026-03-05T11:30:18.000Z"
   }
 ];
