@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Stupidest team': Michael Vaughan slams South Africa after India's T20 World Cup 2026 triumph",
+    "desc": "The T20 World Cup 2026 saw the Indian team register brilliant victories and clinch their third T20 World Cup. Throughout the tournament, the Men in Blue just lost one game and went on to defeat...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/stupidest-team-michael-vaughan-slams-south-africa-after-india-s-t20-world-cup-2026-triumph-2026-03-14-1033735",
+    "time": "2026-03-14T04:40:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Robin Uthappa weighs in on Vaibhav Suryavanshi's potential ahead of IPL 2026",
+    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee event is all set to kick off on March 28, and with the tournament looming on the horizon, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/robin-uthappa-weighs-in-on-vaibhav-suryavanshi-s-potential-ahead-of-ipl-2026-2026-03-14-1033731",
+    "time": "2026-03-14T03:39:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aiden Markram set to lead Manchester Super Giants in The Hundred 2026 after huge payday",
+    "desc": "After becoming the highest-paid overseas signing in The Hundred 2026 auction, South Africa’s Aiden Markram is all set to lead Manchester Super Giants in the upcoming season of the tournament. It is worth noting that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-set-to-lead-manchester-super-giants-in-the-hundred-2026-after-huge-payday-2026-03-14-1033726",
+    "time": "2026-03-14T02:20:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Salman Ali Agha reflects on his controversial dismissal after 2nd ODI win against Bangladesh",
     "desc": "The 2nd ODI of the ongoing series between Pakistan and Bangladesh saw Pakistan register a comfortable victory. The side managed to defeat Bangladesh by 128 runs and levelled the series going into the third ODI....",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-ruled-out-of-ipl-2026-kkr-working-on-replacement-report-2026-03-13-1033699",
     "time": "2026-03-13T14:33:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKR sign Blessing Muzarabani for IPL 2026, Zimbabwe pacer leaves PSL contract",
-    "desc": "Kolkata Knight Riders have roped in Zimbabwe pacer Blessing Muzarabani for IPL 2026, replacing Bangladesh’s Mustafizur Rahman, who was released in line with BCCI guidelines. The 29-year-old had been part of Royal Challengers Bengaluru’s title-winning...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-sign-blessing-muzarabani-for-ipl-2026-zimbabwe-pacer-leaves-psl-contract-2026-03-13-1033694",
-    "time": "2026-03-13T13:41:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Salman Agha's stupidity triggers heated moment, Pakistan-Bangladesh's newfound 'love' turns ugly",
-    "desc": "Pakistan batter Salman Agha was left stunned and furious after Mehidy Hasan Miraz tricked and dismissed him in the second ODI between Bangladesh and Pakistan at the Sher-E-Bangla Stadium in Dhaka. The tense moment unfolded...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/salman-agha-s-stupidity-triggers-heated-moment-pakistan-bangladesh-s-newfound-love-turns-ugly-watch-2026-03-13-1033677",
-    "time": "2026-03-13T11:49:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa, stupidest team in T20 World Cup, should have eliminated India, says Michael Vaughan",
-    "desc": "Former England captain Michael Vaughan has stirred debate with a blunt assessment of South Africa’s campaign at the T20 World Cup 2026, arguing that their own decision-making indirectly cleared the path for India’s title run....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-stupidest-team-in-t20-world-cup-should-have-eliminated-india-says-michael-vaughan-2026-03-13-1033668",
-    "time": "2026-03-13T11:17:59.000Z"
   }
 ];

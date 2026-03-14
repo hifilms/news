@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "গ্যাস বুক করেও সিলিন্ডার পাচ্ছেন না? এক ফোনে অভিযোগ! e-KYC-র নয়া নির্দেশিকা জারি",
+    "desc": "দেশজুড়ে এলপিজি গ্যাস সরবরাহ নিয়ে বিভিন্ন সময়ে অভিযোগ সামনে আসছে। বিশেষ করে বুকিং করার পরেও অনেক ক্ষেত্রে সময়মতো সিলিন্ডার না পাওয়ার অভিযোগ তুলছেন গ্রাহকেরা। এই পরিস্থিতিতে গ্রাহকদের সুবিধার জন্য একাধিক হেল্পলাইন নম্বর চালু করেছে গ্যাস সংস্থাগুলি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/LPG-Crisis-2026-03-87cffb08d7cd668948498632d5400922-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/lpg-gas-booking-cylinder-is-not-available-even-after-gas-booking-one-phone-complaint-with-new-guidelines-for-e-kyc-l18-sdg-local18-2584420.html",
+    "time": "2026-03-14T04:36:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "পূর্ব রেলের বড় সিদ্ধান্ত, শিয়ালদহ-হাওড়া ডিভিশনের ১৩ স্টেশনে ৬৬ ইএমইউ লোকালের নতুন স্টপেজ! নিত্যযাত্রীদের স্বস্তি",
+    "desc": "শহরতলির রেল যোগাযোগ আরও শক্তিশালী করতে বড় সিদ্ধান্ত নিল পূর্ব রেল। শিয়ালদহ ও হাওড়া ডিভিশনের অন্তর্গত ১৩টি গুরুত্বপূর্ণ স্টেশনে ৬৬টি ইএমইউ লোকাল ট্রেনের অতিরিক্ত স্টপেজ চালু করা হচ্ছে। দীর্ঘদিনের যাত্রী দাবির প্রেক্ষিতে নেওয়া এই পদক্ষেপের ফলে নিত্যযাত্রীদের যাতায়াত যেমন সহজ হবে, তেমনই স্থানীয় অর্থনীতি, ক্ষুদ্র ব্যবসা ও আঞ্চলিক পর্যটনেও ইতিবাচক প্রভাব পড়বে বলে মনে করা হচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/railways-sealdah-1-2026-03-e70caba329b67a951c194dfe8ad772aa-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/eastern-railway-adds-66-emu-local-train-stoppages-at-13-suburban-stations-good-news-for-passengers-tib-2584517.html",
+    "time": "2026-03-14T03:36:36.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "এক সময় ছিল মধুর সম্পর্ক, কিন্তু আজ ক্রিকেট দুনিয়ার এই মানুষটি চোখের সামনে থাকলে একেবারেই সহ্য করতে পারেন না গৌতম গম্ভীর !",
     "desc": "গম্ভীরকে দল থেকে বাদ দেওয়ার পর কীভাবে গম্ভীরের সঙ্গে তাঁর সম্পর্ক নষ্ট হয়ে গিয়েছিল, সেটা নিজেই জানিয়েছেন তিনি। ইউটিউব চ্যানেল ‘দ্য ভিকি লালওয়ানি শো’-তে সন্দীপ পাটিল বলেন যে, ‘‘একই টিভি শোতে গিয়ে অনেক বার দেখা হয়েছে। সেখানে গৌতম গম্ভীরও রয়েছেন, আর আমিও রয়েছি। কিন্তু গৌতম গম্ভীর কখনও আমার দিকে তাকাননি পর্যন্ত।’’",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/us-iran-war-enters-seventh-day-intense-attacks-in-tehran-iran-entered-day-7-with-t-fresh-missile-strikes-on-the-military-bases-of-the-two-countries-in-west-asia-tib-ws-el-2572800.html",
     "time": "2026-03-07T03:25:31.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভারতের ৫০০ টাকার নোট দিলে 'নেপালে' কত পাবেন জানেন...? চমকে দেবে হিসেব, গ্যারান্টি!",
-    "desc": "নেপালে ফের সরকার ঘঠন হতে চলেছে। শুক্রবার চলছে গণনা! স্বভাবতই ফের আলোচনায় প্রাকৃতিক সৌন্দর্যে ভরপুর এই দেশটি। আচ্ছা বলুন তো, এই দেশের অর্থনৈতিক অবস্থা কেমন? প্রতি বছর প্রচুর ভারতীয় পর্যটক পাড়ি দেন এই দেশে। তাহলে বলুন তো নেপালের মুদ্রা আদৌ ভারতের তুলনায় ঠিক কতটা দামি? সেখানে ৫০০ টাকা নিয়ে গেলে তা কত হয়ে যেতে পারে?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/money-12-2026-03-d4723e2e9f9e347d9e2a90b87abb288c-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-nepalese-rupee-do-you-know-how-much-you-will-get-in-nepal-if-you-give-an-indian-500-rupee-note-the-calculation-will-surprise-you-guaranteed-sanj-2572461.html",
-    "time": "2026-03-06T16:18:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'ভারতে পর্যাপ্ত জ্বালানি রয়েছে, আতঙ্কিত হবেন না, পেট্রল পাম্পে ভিড় জমাবেন না', ট্যুইট করে আশ্বস্ত করল 'ইন্ডিয়ান অয়েল'",
-    "desc": "মধ্যপ্রাচ্যে উত্তপ্ত পরিস্থিতি। হরমুজ প্রণালীতে আটকে কয়েকশো তেলের ট্যাঙ্কার! এর মধ্যেই সোশ্যাল মিডিয়ায় গুজব ছড়িয়েছিল, দেশে নাকি পেট্রল- ডিজেলের ঘাটতি হয়েছে! কিন্তু এইসব গুঞ্জনলে উড়িয়ে দিয়ে ট্যুইট করল ইন্ডিয়ান অয়েল কর্পোরেশন! জানিয়ে দিল, পর্যাপ্ত তেল রয়েছে দেশে",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Reading-Books-2026-03-2223e04f80d8d8e1d7fd85a12a9474a3-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/indian-oil-corp-ltd-india-has-sufficient-fuel-stocks-tweets-indian-oil-corp-ltd-rm-2572547.html",
-    "time": "2026-03-06T15:37:49.000Z"
   }
 ];

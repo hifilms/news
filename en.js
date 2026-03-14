@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Emma-Robert have a Hermione–Cedric reunion",
+    "desc": "A surprise Hogwarts reunion unfolded at a pre-Oscar party as Emma Watson and Robert Pattinson were spotted catching up. Fans of the 'Harry Potter' series buzzed with excitement over photos of the actors, who played Hermione Granger and Cedric Diggory respectively, deep in conversation. Both have since forged successful Hollywood careers.",
+    "img": "https://static.toiimg.com/photo/msid-129568533,imgsize-203624.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harry-potter-stars-emma-watson-and-robert-pattinson-reunite-at-pre-oscar-bash-fans-say-welcome-back-hermione-granger-and-cedric-diggory/articleshow/129568504.cms",
+    "time": "2026-03-14T04:28:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Madhya Pradesh HC asks government to share clean-up plan",
+    "desc": "In an action taken report, the government told the court that a meeting chaired by Additional Chief Secretary Ashok Barnwal was held on March 3 to discuss a time-bound remediation of the Union Carbide India Ltd. (UCIL) factory",
+    "img": "https://th-i.thgim.com/public/incoming/1a461l/article70742272.ece/alternates/LANDSCAPE_1200/PTI03_03_2025_000371B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/bhopal-gas-tragedy-madhya-pradesh-hc-asks-government-to-share-clean-up-plan/article70740415.ece",
+    "time": "2026-03-14T04:22:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sebastian Bach apologises to Christina Applegate for 1989 VMAs",
+    "desc": "In a heartfelt move, rock icon Sebastian Bach has reached out to actress Christina Applegate with an apology following her candid memoir, where she reflected on their brief romance and a painful incident at the 1989 VMAs. Acknowledging the upheaval of his youth in the rock scene, Bach expressed genuine remorse for any hurt he may have inflicted.",
+    "img": "https://static.toiimg.com/photo/msid-129568540,imgsize-148558.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sebastian-bach-apologises-to-christina-applegate-for-1989-incident-i-apologize-if-i-hurt-her/articleshow/129568540.cms",
+    "time": "2026-03-14T04:19:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul Gandhi remembered Kanshi Ram ahead of birth anniversary, vows to fight for marginalised",
+    "desc": "“Today we remember Kanshi Ram ji’s struggle, his vision, and his influence on Indian politics. I thank him wholeheartedly. We pledge to follow his path and fight for the issues of marginalised sections. If the Congress had functioned effectively at that time, Kanshi Ram would not have needed to wage a separate struggle,” Rahul Gandhi",
+    "img": "https://th-i.thgim.com/public/incoming/4hyuwb/article70742261.ece/alternates/LANDSCAPE_1200/20260313477L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/rahul-gandhi-remembered-kanshi-ram-ahead-of-birth-anniversary-vows-to-fight-for-marginalised/article70740493.ece",
+    "time": "2026-03-14T04:13:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Declyn Lauper pleads guilty to 2024 gun charge; avoids jail term",
+    "desc": "Declyn Lauper, son of Cyndi Lauper, has pleaded guilty to a 2024 gun charge, avoiding jail time. He agreed to probation, remaining arrest-free for a year, and substance abuse treatment. If terms are met, his charge could be reduced to criminal possession of a firearm, a significant reduction from the potential seven-year sentence.",
+    "img": "https://static.toiimg.com/photo/msid-129568496,imgsize-114758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cyndi-laupers-son-declyn-lauper-pleads-guilty-to-2024-gun-charge-to-skip-jail-time-and-serve-probation/articleshow/129568496.cms",
+    "time": "2026-03-14T04:12:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Rishab Shetty’s 12-crore coastal home",
+    "desc": "Kantara star Rishab Shetty's coastal mansion in Kundapura, Karnataka, reportedly valued at Rs 12 crore, blends heritage with modern luxury. Featuring a skylit atrium with Yakshagana memorabilia, a unique 'Rain Room' for creative work, and a private screening room, the home reflects Shetty's artistic journey. His production facility, a renovated rice mill, is also nearby.",
+    "img": "https://static.toiimg.com/photo/msid-129568253,imgsize-189666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/inside-rishab-shettys-12-crore-coastal-home-kantara-stars-kundapura-mansion-blends-tradition-luxury-and-cinema/articleshow/129568253.cms",
+    "time": "2026-03-14T03:53:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'That sensational partnership changed everything': Wright on VVS–Dravid epic",
+    "desc": "John Wright reflects on India's improbable 2001 Eden Gardens Test victory against Australia. He highlights the sensational partnership of VVS Laxman and Rahul Dravid, and Harbhajan Singh's bowling heroics. The win injected immense self-belief into the team, paving the way for future overseas successes.",
+    "img": "https://static.toiimg.com/photo/msid-129568322,imgsize-55210.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/that-sensational-partnership-changed-everything-john-wright-on-vvs-laxmanrahul-dravid-epic/articleshow/129568299.cms",
+    "time": "2026-03-14T03:45:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2 The Revenge': Fans call out 'FAKE REVIEWS'",
+    "desc": "The Revenge' is soaring, with alleged early reviews praising Ranveer Singh's performance. However, fans are questioning the authenticity of these unverified reports, as the film is yet to be certified. Director Aditya Dhar's wife, Yami Gautam, called the film 'beyond extraordinary,' hinting at a memorable cinematic experience.",
+    "img": "https://static.toiimg.com/photo/msid-129568064,imgsize-193862.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-first-review-goes-viral-ranveer-singhs-fans-call-out-fake-reviews/articleshow/129568033.cms",
+    "time": "2026-03-14T03:34:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The curious case of SCR’s twin stations",
+    "desc": "From Lallaguda to Ammuguda, South Central Railway hosts rare “twin stations” sharing identical names yet serving different roles and routes. While some function purely as operational signalling points, others handle passengers, creating unique railway geography and occasional commuter confusion",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-miscellaneous/tp-others/oxkdbg/article70741814.ece/alternates/LANDSCAPE_1200/TNFocus_4col_shG0AFNA6JL.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/the-curious-case-of-scrs-twin-stations/article70740177.ece",
+    "time": "2026-03-14T03:32:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India–South Korea trade ties: Piyush Goyal meets Korean minister Yeo Han-Koo",
+    "desc": "Union Minister Piyush Goyal met with South Korean Trade Minister Yeo Han-Koo to bolster economic ties, boost investments, and deepen supply-chain collaboration. Both nations reaffirmed their commitment to enhancing trade, manufacturing, and exports, aiming for a mutually beneficial economic partnership. South Korea is a significant investor in India, with bilateral trade projected to reach $50 billion by 2030.",
+    "img": "https://static.toiimg.com/photo/msid-129568123,imgsize-1555041.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indiasouth-korea-trade-ties-piyush-goyal-meets-korean-minister-yeo-han-koo/articleshow/129568043.cms",
+    "time": "2026-03-14T03:18:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'When Hardik needs a shoulder, Rohit is there': Harbhajan",
+    "desc": "Harbhajan Singh urges Mumbai Indians to keep Rohit Sharma actively on the field, not as an Impact Player. He believes Rohit's leadership experience can significantly aid captain Hardik Pandya in crucial match decisions. Rohit's strong performance last season, including surpassing 7,000 IPL runs, underscores his value.",
+    "img": "https://static.toiimg.com/photo/msid-129568074,imgsize-39998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/when-captain-hardik-pandya-needs-a-shoulder-rohit-sharma-is-there-harbhajan-singh/articleshow/129568069.cms",
+    "time": "2026-03-14T03:06:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "South Korea's PM, Trump discuss possible talks with North’s Kim Jong Un",
+    "desc": "Mr. Kim did not say what specific suggestions he made to Mr. Trump but said he told Mr. Trump that recent comments by Pyongyang indicated Mr. Kim may be open to dialogue with the U.S.",
+    "img": "https://th-i.thgim.com/public/incoming/ri2jhe/article70742206.ece/alternates/LANDSCAPE_1200/2026-03-14T000814Z_85781024_RC2Z3KABP7HK_RTRMADP_3_USA-TRUMP-SOUTHKOREA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/south-koreas-pm-trump-discuss-possible-talks-with-norths-kim-jong-un/article70741295.ece",
+    "time": "2026-03-14T03:02:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What are the changes being proposed to Transgender Persons (Protection of Rights) Act, 2019",
+    "desc": "How is the government proposing to alter the definition of “transgender person”? Why has it argued for the omission of the right to “self-perceived gender identity”? What about the proposed changes have raised concerns among the trans community? What has the Supreme Court laid down in the landmark 2014 judgement recognising a third gender beyond male and female and the right to self-determination of gender identity?",
+    "img": "https://th-i.thgim.com/public/business/Economy/7201o0/article70742202.ece/alternates/LANDSCAPE_1200/LGBT.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/what-are-the-changes-being-proposed-to-transgender-persons-protection-of-rights-act-2019-explained/article70742191.ece",
+    "time": "2026-03-14T03:00:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar: The Revenge' censor certification details revealed",
+    "desc": "The Revenge' is set for a March 19 release, confirmed with an 18+ rating for its intense action and adult themes. The film boasts a massive 235-minute runtime, significantly longer than its predecessor. Advance bookings are strong, with early projections indicating a substantial opening weekend.",
+    "img": "https://static.toiimg.com/photo/msid-129567938,imgsize-238094.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-the-revenge-censor-certification-details-revealed-ahead-of-release-ranveer-singh-starrer-to-feature-strong-violence/articleshow/129567924.cms",
+    "time": "2026-03-14T02:50:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Rascal': Ex-Australia wicketkeeper's bold remark on Abhishek Sharma",
+    "desc": "Despite a shaky start with three consecutive ducks, Indian opener Abhishek Sharma proved his mettle in the T20 World Cup 2026 final. He smashed an explosive 18-ball fifty, setting the stage for India's dominant victory. Former Australian keeper Brad Haddin lauded Sharma's 'rascal' mentality, highlighting his ability to perform under pressure.",
+    "img": "https://static.toiimg.com/photo/msid-129567868,imgsize-53118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rascal-ex-australia-wicketkeepers-bold-remark-on-abhishek-sharma/articleshow/129567864.cms",
+    "time": "2026-03-14T02:41:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Happy Raj' Twitter review: A 'Paisa Vasool' flick",
+    "desc": "Early viewers are buzzing about the upcoming Tamil film 'Happy Raj', starring GV Prakash Kumar. Special screenings have generated significant online hype, with audiences praising the emotional father-son storyline and strong cast performances. The film, directed by Maria Raja Elanchezian, is set for a theatrical release on March 27, with many anticipating its success.",
+    "img": "https://static.toiimg.com/photo/msid-129567694,imgsize-157536.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/happy-raj-twitter-review-gv-prakash-kumar-starrer-gets-positive-early-reactions/articleshow/129567694.cms",
+    "time": "2026-03-14T02:23:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump admin set to receive $10 billion fee from investors for TikTok deal: Report",
+    "desc": "A TikTok US joint venture deal is expected to generate nearly $10 billion in payments for the Trump administration, according to The Wall Street Journal. This fee, paid by investors friendly to the administration, is part of an arrangement for them to control TikTok's US operations.",
+    "img": "https://static.toiimg.com/photo/msid-129567677,imgsize-102280.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/trump-admin-set-to-receive-10-billion-fee-from-investors-for-tiktok-deal-report/articleshow/129567633.cms",
+    "time": "2026-03-14T02:17:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Doja Cat reveals she has Borderline Personality Disorder",
+    "desc": "Global music sensation Doja Cat has bravely disclosed her diagnosis of Borderline Personality Disorder (BPD) in a recent social media video. The artist revealed years of internal struggle and pretending, which have now led to her grappling with the disorder. She shared that therapy has been a significant part of her journey towards healing and self-acceptance.",
+    "img": "https://static.toiimg.com/photo/msid-129567564,imgsize-48640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/doja-cat-reveals-she-has-borderline-personality-disorder-says-it-caught-up-with-me/articleshow/129567564.cms",
+    "time": "2026-03-14T01:56:32.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Parliamentary panel seeks allocation of realistic fertiliser subsidy fund at budget estimate stage",
     "desc": "A parliamentary panel urged the finance ministry to allocate fertilizer subsidy funds at the budget estimate stage to align with actual needs. The committee also recommended boosting domestic production due to higher subsidy burdens on imported urea and NPK fertilizers, citing significant cost differences.",
@@ -7,6 +169,24 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/parliamentary-panel-seeks-allocation-of-realistic-fertiliser-subsidy-fund-at-budget-estimate-stage/articleshow/129567425.cms",
     "time": "2026-03-14T01:38:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dheeram' OTT release: Where to watch crime thriller",
+    "desc": "Malayalam crime thriller 'Dheeram', starring Indrajith Sukumaran, has landed on Amazon Prime Video after a theatrical release. The film, a complex murder investigation, follows a determined officer uncovering disturbing connections. While praised for performances, the execution reportedly struggles with emotional engagement and narrative pacing, despite an intriguing premise.",
+    "img": "https://static.toiimg.com/photo/msid-129567470,imgsize-103560.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/dheeram-ott-release-indrajith-sukumarans-crime-thriller-starts-streaming-after-delay/articleshow/129567470.cms",
+    "time": "2026-03-14T01:37:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rebel planned to smear producer as 'sex trafficker'",
+    "desc": "Rebel Wilson's PR team allegedly plotted a severe smear campaign against 'The Deb' producer Amanda Ghost, with audio revealing discussions of fabricating accusations like sex trafficking. This emerges amid a separate lawsuit by Blake Lively against Wilson's former counsel and PR strategists for a similar campaign tied to 'It Ends With Us'. Ghost's attorney claims evidence contradicts Wilson's denials.",
+    "img": "https://static.toiimg.com/photo/msid-129567447,imgsize-80864.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rebel-wilson-planned-smear-campaign-against-the-deb-producer-lawsuit-references-links-to-johnny-depp-and-justin-baldoni-cases/articleshow/129567331.cms",
+    "time": "2026-03-14T01:30:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -153,15 +333,6 @@ const newsData_en = [
     "time": "2026-03-13T21:42:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Drone strike in Oman takes Indian toll to 5",
-    "desc": "Two Indian nationals were killed and ten others injured in a drone strike in Oman's Sohar province. This incident brings the total number of Indian deaths in the ongoing West Asian conflict to five. The Indian mission is providing assistance to the affected individuals and their company.",
-    "img": "https://static.toiimg.com/photo/msid-129564686,imgsize-486334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/drone-strike-in-oman-takes-indian-toll-to-5/articleshow/129564685.cms",
-    "time": "2026-03-13T21:38:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Newcomers get abused, some end up in prostitution'",
     "desc": "Tanushree Dutta has once again spoken about the darker side of the entertainment industry, warning aspiring actors about manipulation, exploitation and the dangers of blindly trusting people who promise opportunities. The actress said one of the reasons she speaks openly about such issues is to warn young aspirants who come to the industry chasing dreams.",
@@ -189,15 +360,6 @@ const newsData_en = [
     "time": "2026-03-13T20:17:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Fatima recalls battling epileptic seizure during Dangal shoot",
-    "desc": "Fatima Sana Shaikh has often spoken about living with epilepsy, hoping that sharing her experiences will help create awareness around the neurological condition. In a recent conversation with Soha Ali Khan on her podcast, the actor opened up about the first time she experienced a seizure and how she was eventually diagnosed while shooting for Dangal.",
-    "img": "https://static.toiimg.com/photo/msid-129564350,imgsize-56236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fatima-sana-shaikh-recalls-battling-epileptic-seizure-during-dangal-shoot-luckily-aamir-khan-sanya-malhotra-were-there/articleshow/129564350.cms",
-    "time": "2026-03-13T20:03:36.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "27 Indian-flagged ships remain stranded in Persian Gulf, one starts moving: Government official",
     "desc": "Jag Prakash, an oil tanker with a carrying capacity of 48,000 tonnes, is headed to Tanzania, the official says; three cargo ships with 76 seafarers aboard are located in the Gulf of Oman, while 24 ships are stranded in the Persian Gulf; there are 23,000 Indian nationals working in the region on merchant ships, ports and offshore vessels",
@@ -223,15 +385,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/west-asia-crisis-the-indians-caught-in-the-crossfire/article70740599.ece",
     "time": "2026-03-13T19:00:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Farah Khan on her equation with SRK, Salman and Aamir",
-    "desc": "Filmmaker-choreographer Farah Khan recently spoke about her equation with Bollywood’s three biggest superstars — Shah Rukh Khan, Salman Khan and Aamir Khan — revealing that while she shares a warm bond with Shah Rukh and Salman, she never became very close to Aamir.",
-    "img": "https://static.toiimg.com/photo/msid-129563124,imgsize-77342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-says-salman-khan-doesnt-hide-from-controversies-salman-had-come-before-shah-rukh-khan-in-my-life-i-am-least-close-to-aamir/articleshow/129563124.cms",
-    "time": "2026-03-13T18:41:34.000Z"
   },
   {
     "cat": "Politics",
@@ -277,15 +430,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/haryana-rajya-sabha-polls-congress-mlas-reach-himachal-pradesh-to-prevent-cross-voting/article70740394.ece",
     "time": "2026-03-13T17:36:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ananya says she changed herself to make partners shine",
-    "desc": "Ananya Panday recently opened up about the mistakes she made in her past relationships, admitting that she often changed herself to ensure her partner stood out more. The actor, who was last seen in Tu Meri Main Tera Main Tera Tu Meri alongside her ex-boyfriend Kartik Aaryan, spoke candidly about how her understanding of love and independence has evolved over time.",
-    "img": "https://static.toiimg.com/photo/msid-129561682,imgsize-104428.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ananya-panday-reflects-on-past-relationships-says-she-changed-herself-to-make-partners-shine-i-wish-i-had-realised-sooner/articleshow/129561682.cms",
-    "time": "2026-03-13T17:33:37.000Z"
   },
   {
     "cat": "Politics",
@@ -342,15 +486,6 @@ const newsData_en = [
     "time": "2026-03-13T16:25:55.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'It’s my loss'",
-    "desc": "Anil Kapoor recently revealed that he had to turn down a cameo in Dhurandhar 2 despite being approached by director Aditya Dhar. The actor said he declined the role because he had already committed his dates to another filmmaker.",
-    "img": "https://static.toiimg.com/photo/msid-129560222,imgsize-60154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-kapoor-reveals-why-he-turned-down-cameo-in-aditya-dhars-dhurandhar-2-its-my-loss-but-im-already-committed/articleshow/129560222.cms",
-    "time": "2026-03-13T16:19:48.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Kerala HC directs to defer nurses’ strike till March 19, suggests mediation",
     "desc": "Stating that any continuing difference of opinion between the nurses and private hospital managements will affect the people seeking treatment and other members of the public, the court says that it will be ideal if both sides choose mediation",
@@ -387,15 +522,6 @@ const newsData_en = [
     "time": "2026-03-13T15:37:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Top 5 South stories of the day",
-    "desc": "South cinema saw major updates today. Trisha Krishnan sidestepped questions about Vijay. A dispute over Enjoy Enjaami song credits between Arivu and Santhosh Narayanan reignited. Hansika Motwani shared her first post after her divorce. Rajendra Prasad apologized for his MGR remarks. Unseen pre-wedding photos of Vijay Deverakonda and Rashmika Mandanna also surfaced.",
-    "img": "https://static.toiimg.com/photo/msid-129559082,imgsize-124346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-avoids-vijay-question-enjoy-enjaami-credit-controversy-resurfaces-hansika-motwanis-first-post-after-divorce-top-5-south-stories-of-the-day/articleshow/129559082.cms",
-    "time": "2026-03-13T15:28:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Dube, who had to travel by train after T20 WC title, makes emotional post",
     "desc": "Shivam Dube shared an emotional Instagram post after India’s ICC Men's T20 World Cup 2026 win, placing his medal around his father’s neck and calling him \"The real hero of my life.\" After contributing to the title triumph, including a quick 26 in the final against the New Zealand national cricket team, Dube returned home by train as flights were unavailable.",
@@ -405,51 +531,6 @@ const newsData_en = [
     "time": "2026-03-13T15:25:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Amit Jadhav claims Saiyaara copied his YT short Khwaabon",
-    "desc": "A viral Instagram video by singer-filmmaker Amit Jadhav has sparked a fresh debate around Saiyaara, the film starring Ahaan Panday and Aneet Padda. Jadhav claims that the story of the 2025 film closely resembles the plot of his 2019 YouTube short film Khwaabon.",
-    "img": "https://static.toiimg.com/photo/msid-129558809,imgsize-65078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amit-jadhav-claims-mohit-suris-saiyaara-starring-ahaan-panday-aneet-padda-copied-his-youtube-short-khwaabon-i-almost-committed-suicide/articleshow/129558809.cms",
-    "time": "2026-03-13T15:21:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Spielberg returns with alien epic",
-    "desc": "Get ready for an exhilarating ride as Steven Spielberg unveils 'Disclosure Day,' a suspense-laden thriller featuring the dynamic duo of Emily Blunt and Josh O'Connor. The film's gripping narrative revolves around a world on the brink of collapse due to an enigmatic alien presence, which leads to chilling instances of possession and widespread media frenzy.",
-    "img": "https://static.toiimg.com/photo/msid-129558058,imgsize-75926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/disclosure-day-trailer-steven-spielberg-brings-aliens-back-to-the-big-screen-with-emily-blunt-and-josh-oconnor/articleshow/129558058.cms",
-    "time": "2026-03-13T14:57:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Kerosene, coal makes comeback for domestic household use as LPG supply concerns rise",
-    "desc": "India is temporarily reviving kerosene and coal for cooking as Middle East disruptions strain LPG supply chains. The nation is vulnerable due to significant energy imports transiting the Strait of Hormuz, forcing commercial users to switch to alternate fuels while new LPG cargoes are arranged.",
-    "img": "https://static.toiimg.com/photo/msid-129557394,imgsize-1302527.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-crisis-kerosene-coal-makes-comeback-for-domestic-household-use-as-lpg-supply-concerns-rise/articleshow/129555918.cms",
-    "time": "2026-03-13T14:36:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude shock for stock markets! Investors lose Rs 34 lakh crore since start of US-Iran war; where should they put money now?",
-    "desc": "on February 27 the combined market capitalisation of BSE-listed companies was Rs 46,325,200.41 crore. As of March 13, 2025, it has fallen to Rs 42,939,960.29 crore. That’s a loss of almost Rs 33 lakh crore in investor wealth over a span of two weeks and nine trading sessions!",
-    "img": "https://static.toiimg.com/photo/msid-129557032,imgsize-139224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/crude-shock-for-stock-markets-investors-lose-rs-34-lakh-crore-since-start-of-us-iran-war-where-should-they-put-money-now/articleshow/129556816.cms",
-    "time": "2026-03-13T14:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Sethupathi’s mystery series ‘Muthu Alias Kaattaan’ OTT release",
-    "desc": "Vijay Sethupathi's mystery series, 'Muthu Alias Kaattaan,' is set to premiere on JioHotstar on March 27. The suspenseful trailer hints at a gripping murder mystery with multiple perspectives on the titular character. Directed by M. Manikandan, the multilingual series also features Milind Soman and Sudev Nair, promising an intriguing watch.",
-    "img": "https://static.toiimg.com/photo/msid-129557129,imgsize-339690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/muthu-alias-kaattaan-ott-release-date-when-and-where-to-watch-vijay-sethupathis-mystery-series-trailer-out-now/articleshow/129557129.cms",
-    "time": "2026-03-13T14:27:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Huge blow! Harshit Rana ruled out of IPL 2026; KKR yet to decide replacement",
     "desc": "All-rounder Harshit Rana has been ruled out of the upcoming Indian Premier League season due to an injury sustained during a warm-up fixture. Kolkata Knight Riders are currently deliberating on a replacement for the injured player. This news follows KKR's earlier signing of Zimbabwean fast bowler Blessing Muzarabani for the 2026 season.",
@@ -457,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/huge-blow-harshit-rana-ruled-out-of-ipl-2026-kkr-yet-to-decide-replacement/articleshow/129556692.cms",
     "time": "2026-03-13T14:17:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Abhishek Bachchan’s first horror film set after ‘King’: Report",
-    "desc": "In exciting news, Abhishek Bachchan is exploring a potential role in a chilling folklore horror thriller, marking his full entrance into this spine-tingling genre. Helmed by Siddharth Anand, the story is set to focus on a heartfelt father-daughter relationship, accentuated by impressive visual effects.",
-    "img": "https://static.toiimg.com/photo/msid-129556290,imgsize-104138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchans-first-horror-film-with-siddharth-anand-set-after-shah-rukh-khans-king-report/articleshow/129556290.cms",
-    "time": "2026-03-13T14:01:16.000Z"
   },
   {
     "cat": "World",
@@ -541,33 +613,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "New Zealand coaches to miss international assignments for PSL",
-    "desc": "Luke Ronchi and Jacob Oram have been granted leave by New Zealand Cricket to coach Islamabad United in the 2026 Pakistan Super League. Ronchi will be head coach while Oram serves as assistant. They will miss New Zealand’s series against South Africa national cricket team and the Bangladesh tour, with NZC saying the experience will benefit the national setup.",
-    "img": "https://static.toiimg.com/photo/msid-129549624,imgsize-11358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/new-zealand-coaches-to-miss-international-assignments-for-psl/articleshow/129548604.cms",
-    "time": "2026-03-13T10:38:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How much 18K, 22K and 24K gold cost in your city? Check prices for Delhi, Kolkata &amp; more",
-    "desc": "Gold prices saw a significant dip on Friday, with futures trade closing at Rs 1.59 lakh per 10 grams. This decline was influenced by weaker international trends and a stronger US dollar. Analysts highlight the strengthening dollar as a key pressure point, while geopolitical risks and economic signals remain under close observation by traders.",
-    "img": "https://static.toiimg.com/photo/msid-129549109,imgsize-109712.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-prices-today-on-march-13-2026-how-much-18k-22k-and-24k-gold-cost-in-your-city-check-prices-for-delhi-kolkata-more/articleshow/129548400.cms",
-    "time": "2026-03-13T10:29:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We had a few players in our list': Badani on PAK players at The Hundred auction",
-    "desc": "Southern Braves coach Hemang Badani detailed the challenges of cricket auctions, emphasising discipline and patience. The team secured a mix of experienced players like Chris Jordan and Marcus Stoinis, alongside promising talent such as Thomas Rew. Badani highlighted David Miller's acquisition as a strategic move for finishing games.",
-    "img": "https://static.toiimg.com/photo/msid-129549293,imgsize-107850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/the-hundred-southern-braves-coach-hemang-badani-explains-auction-strategy/articleshow/129549257.cms",
-    "time": "2026-03-13T10:28:44.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'CSK is incomplete without him': Pathan drops big statement on Dhoni's IPL future",
     "desc": "Former India all-rounder Irfan Pathan believes this IPL season could be MS Dhoni's last for Chennai Super Kings. Pathan emphasized Dhoni's crucial role in team unity and grooming future leaders, even if his playing time is limited. He suggested CSK aims for a title win to give the legend a fitting farewell.",
     "img": "https://static.toiimg.com/photo/msid-129548784,imgsize-150564.cms",
@@ -576,19 +621,10 @@ const newsData_en = [
     "time": "2026-03-13T10:23:33.000Z"
   },
   {
-    "cat": "Business",
-    "title": "From cheering low gas cost to taking pride 'when oil prices go up': Donald Trump’s evolving stance",
-    "desc": "President Trump's stance on rising oil prices has shifted, now framing them as beneficial for the US as a major oil producer. This change follows strikes against Iran, which triggered a surge in global oil and petrol prices, impacting the Strait of Hormuz. The administration is grappling with economic consequences and political considerations ahead of midterm elections.",
-    "img": "https://static.toiimg.com/photo/msid-129547506,imgsize-105630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/from-cheering-low-gas-cost-to-taking-pride-when-oil-prices-go-up-donald-trumps-evolving-stance/articleshow/129546428.cms",
-    "time": "2026-03-13T09:41:11.000Z"
-  },
-  {
     "cat": "World",
     "title": "China passes new ethnic minority law, prioritise use of Mandarin language",
     "desc": "Called \"Promoting Ethnic Unity and Progress\", the ethnic minority law aims to forge national unity ‌and advance the rejuvenation of the Chinese nation with the Chinese Communist Party (CCP) at its core, a draft copy of the law showed",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-international/h5hjci/article70737070.ece/alternates/LANDSCAPE_1200/China-passes-neG4PFN51MC.3.jpg.jpg",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-international/3va4w6/article70737070.ece/alternates/LANDSCAPE_1200/China-passes-neG4PFN51MC.3.jpg.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-passes-new-ethnic-minority-law-prioritise-use-of-mandarin-language/article70736694.ece",
     "time": "2026-03-13T08:02:52.000Z"
@@ -612,15 +648,6 @@ const newsData_en = [
     "time": "2026-03-13T07:16:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Vettori explains",
-    "desc": "Sunrisers Leeds' acquisition of Pakistani spinner Abrar Ahmed at The Hundred auction sparked controversy in India. Head coach Daniel Vettori clarified the move was a purely cricketing decision after missing out on Adil Rashid. Vettori emphasised that no internal discussions about avoiding Pakistani players occurred, focusing solely on the best available talent for the team's strategy.",
-    "img": "https://static.toiimg.com/photo/msid-129541083,imgsize-61426.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-sunrisers-leeds-bought-pakistan-spinner-abrar-ahmed-at-the-hundred-2026-auction-daniel-vettori-explains/articleshow/129540992.cms",
-    "time": "2026-03-13T06:34:25.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran’s new leader warns Strait of Hormuz could be used as strategic leverage",
     "desc": "Mohammad Marandi, Professor of English Literature and Orientalism at the University of Tehran and a former adviser to Iran’s nuclear negotiating team, shares his perspective on the ongoing war, Iran’s military strategy, and the wider impact of the conflict on global energy markets and the world economy.",
@@ -628,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/irans-new-leader-warns-strait-of-hormuz-could-be-used-as-strategic-leverage/article70738288.ece",
     "time": "2026-03-13T06:29:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why did stock market crash today? Nifty50 ends below 23,200; BSE Sensex down over 1,400 points",
-    "desc": "Continuing the down trend, Nifty50 and BSE Sensex tanked in trade on Friday as oil prices climbed and the Strait of Hormuz closure halted important global trade. While Nifty50 went below 23,200, BSE Sensex was down over 1,400 points.",
-    "img": "https://static.toiimg.com/photo/msid-129534786,imgsize-73848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-13-2026-dalal-street-indian-equities-global-markets-us-iran-war-donald-trump-oil-prices/articleshow/129534696.cms",
-    "time": "2026-03-13T03:51:14.000Z"
   },
   {
     "cat": "Tech",
@@ -817,24 +835,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/a-revision-of-gdp-and-its-implications/article70730934.ece",
     "time": "2026-03-11T17:55:28.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran’s new Supreme Leader injured but ‘safe’, officials say",
-    "desc": "The daytime air strike on the first day of the war on February 28 on a compound in Tehran killed his father, former supreme leader Ayatollah Ali Khamenei, as well as his mother and wife",
-    "img": "https://th-i.thgim.com/public/incoming/21fdjo/article70731640.ece/alternates/LANDSCAPE_1200/2026-03-10T145515Z_2005069500_RC2TX8AOWXKC_RTRMADP_3_IRAN-CRISIS-LEADER.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/irans-new-supreme-leader-mojtaba-hurt-in-strike-that-killed-his-father-report/article70731605.ece",
-    "time": "2026-03-11T16:05:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Official",
-    "desc": "24 of the vessels are on the western part of the 778 seafarers onboard778 seafarers onboard778 seafarers onboard with 677 seafarers, while 4 vessels with 101 persons are on the eastern side, Rajesh Kumar Sinha, Special Secretary in the Ministry of Ports, Shipping and Waterways",
-    "img": "https://th-i.thgim.com/public/incoming/bahzwf/article70731628.ece/alternates/LANDSCAPE_1200/PTI03_11_2026_000337A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/28-indian-vessels-with-778-seafarers-onboard-stuck-in-persian-gulf-official/article70731599.ece",
-    "time": "2026-03-11T14:21:56.000Z"
   },
   {
     "cat": "Entertainment",
