@@ -198,15 +198,6 @@ const newsData_bn = [
     "time": "2026-03-13T08:51:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "দিল্লির বিগ ব্রেকিং: সংসদে আজ নোটিস পেশ, ভোট ঘোষণার আগেই CEC জ্ঞানেশ কুমারের অপসারণ?",
-    "desc": "অপসারণ নোটিসে তৃণমূলের তরফে মূলত ৫ দফা অভিযোগ আনা হয়েছে। অপসারণ প্রস্তাবের সমর্থনে প্রয়োজনের চেয়ে বেশি সই ইতিমধ্যেই সংগৃহীত। মোট ১৯৩ জন সাংসদ CEC জ্ঞানেশ কুমারের অপসারণ প্রস্তাবে সই করেছেন বলে দাবি তৃণমূলের। প্রস্তাব গৃহীত হলে, তা পাস করাতে দুই-তৃতীয়াংশ সংখ্যাগরিষ্ঠতার সমর্থন প্রয়োজন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/cec-gyanesh-kumar-impeachment-notice-will-serve-today-removal-before-election-date-announcement-5-points_644706.html ",
-    "time": "2026-03-13T06:34:55.000Z"
-  },
-  {
     "cat": "World",
     "title": "রাতের অন্ধকারে কাবুলে ভয়ংকর হামলা, এখনও পর্যন্ত শিশু-সহ নিহত বহু",
     "desc": "সীমান্তবর্তী এলাকায় জঙ্গি দমনের লক্ষ্যে আফগানিস্তানে বিমান হামলা চালিয়েছে পাকিস্তান। এই সংঘাতের কারণে প্রায় ১ লাখ ১৫ হাজার মানুষ বাড়ি ছাড়তে বাধ্য হয়েছে। দুই দেশের মধ্যকার বাণিজ্যিক সম্পর্ক ও সীমান্ত নিরাপত্তা চরম সংকটের মুখে পড়েছে।",
@@ -898,5 +889,14 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/us-iran-war-enters-seventh-day-intense-attacks-in-tehran-iran-entered-day-7-with-t-fresh-missile-strikes-on-the-military-bases-of-the-two-countries-in-west-asia-tib-ws-el-2572800.html",
     "time": "2026-03-07T03:25:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভারতের ৫০০ টাকার নোট দিলে 'নেপালে' কত পাবেন জানেন...? চমকে দেবে হিসেব, গ্যারান্টি!",
+    "desc": "নেপালে ফের সরকার ঘঠন হতে চলেছে। শুক্রবার চলছে গণনা! স্বভাবতই ফের আলোচনায় প্রাকৃতিক সৌন্দর্যে ভরপুর এই দেশটি। আচ্ছা বলুন তো, এই দেশের অর্থনৈতিক অবস্থা কেমন? প্রতি বছর প্রচুর ভারতীয় পর্যটক পাড়ি দেন এই দেশে। তাহলে বলুন তো নেপালের মুদ্রা আদৌ ভারতের তুলনায় ঠিক কতটা দামি? সেখানে ৫০০ টাকা নিয়ে গেলে তা কত হয়ে যেতে পারে?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/money-12-2026-03-d4723e2e9f9e347d9e2a90b87abb288c-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-nepalese-rupee-do-you-know-how-much-you-will-get-in-nepal-if-you-give-an-indian-500-rupee-note-the-calculation-will-surprise-you-guaranteed-sanj-2572461.html",
+    "time": "2026-03-06T16:18:23.000Z"
   }
 ];

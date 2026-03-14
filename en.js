@@ -1,6 +1,177 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "CM Stalin writes to PM to increase rice procurement",
+    "desc": "In a letter to Mr. Modi, he said the timely opening of the Mettur Dam for irrigation, favourable climatic conditions, increased area coverage, improved crop management practices, better irrigation support, and the adoption of high-yielding varieties of paddy by farmers",
+    "img": "https://th-i.thgim.com/public/incoming/hxeeck/article70744540.ece/alternates/LANDSCAPE_1200/BVR_0500.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-stalin-writes-to-pm-to-increase-rice-procurement/article70744106.ece",
+    "time": "2026-03-14T18:07:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress releases 2nd list of 23 candidates, leaves 15 seats for allies",
+    "desc": "The Indian National Congress has unveiled its second list of 23 candidates for the upcoming Assam Legislative Assembly election in 2026. Key leaders are fielded across various constituencies. The party has strategically left 15 seats for its alliance partners as part of the seat-sharing agreement. This move sets the stage for the upcoming electoral battle in Assam.",
+    "img": "https://static.toiimg.com/photo/msid-129579172,imgsize-736224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assam-elections-2026-congress-releases-2nd-list-of-23-candidates-leaves-15-seats-for-allies/articleshow/129578652.cms",
+    "time": "2026-03-14T17:57:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir celebrates 61st birthday with gf Gauri, kids Azad, Ira, Junaid: VIDEO",
+    "desc": "Aamir Khan marked his birthday with a heartwarming family gathering. His children, Ira, Junaid, and Azad, along with girlfriend Gauri Spratt, were present as he cut his cake. Former cricketer Irfan Pathan shared a glimpse of the intimate celebration, also highlighting Ira Khan's commendable work with the Agatsu Foundation for mental health awareness.",
+    "img": "https://static.toiimg.com/photo/msid-129579210,imgsize-49854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-cuts-his-birthday-cake-with-girlfriend-gauri-spratt-kids-azad-rao-ira-and-junaid-khan-irfan-pathan-shares-inside-video/articleshow/129578790.cms",
+    "time": "2026-03-14T17:57:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India at a crossroads, next step to define country’s future: Kamal Haasan",
+    "desc": "At the book launch of author and former West Bengal Governor Gopalkrishna Gandhi’s India and Her Futures, actor-MP Kamal Haasan said the question before our country is whether we join the chorus of nations exporting division as politics or remain true to the extraordinary, ethical, and moral imagination that created India",
+    "img": "https://th-i.thgim.com/public/incoming/w49thj/article70744489.ece/alternates/LANDSCAPE_1200/20260314384L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/books/india-at-a-crossroads-next-step-to-define-countrys-future-kamal-haasan/article70744313.ece",
+    "time": "2026-03-14T17:47:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Experts should decide': LDF govt on Sabarimala women entry; BJP demands apology",
+    "desc": "Kerala minister VN Vasavan stated the LDF government maintains its 2007 affidavit, advocating for ritualistic experts to decide on women's entry at Sabarimala. He accused BJP-linked lawyers of initiating the legal battle that led to the 2018 Supreme Court verdict allowing entry, a decision the government only implemented.",
+    "img": "https://static.toiimg.com/photo/msid-129578718,imgsize-2369173.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/experts-should-decide-ldf-govt-on-sabarimala-women-entry-bjp-demands-apology/articleshow/129578713.cms",
+    "time": "2026-03-14T17:31:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "An unholy havoc? Swami Avimukteshwaranand &amp; his coronation with controversy",
+    "desc": "In recent weeks, the seer has found himself at the centre of a political and legal storm that stretches from allegations under the Protection of Children from Sexual Offences (POCSO) Act to a decades old dispute over who has the right to call himself the Shankaracharya of Jyotirmath. For many followers of Sanatan Dharm, the position of Shankaracharya is among the most revered spiritual roles in Hindu tradition.",
+    "img": "https://static.toiimg.com/photo/msid-129578674,imgsize-83322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/an-unholy-havoc-swami-avimukteshwaranand-his-coronation-with-controversy/articleshow/129578137.cms",
+    "time": "2026-03-14T17:28:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why Indian airlines are among the worst hit by the Gulf conflict",
+    "desc": "Almost four crore people flew between India and the Gulf in 2025; half of all international passengers flying to or from India was on a Gulf route; idle aircraft, longer flights, higher costs, lower revenue all hurting Indian carriers",
+    "img": "https://th-i.thgim.com/public/incoming/pysrlo/article70744434.ece/alternates/LANDSCAPE_1200/2026-03-02T104628Z_1330775828_RC2GK5ALD0IO_RTRMADP_3_AIR-INDIA-EXP-MOVES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-indian-airlines-are-among-the-worst-hit-by-the-gulf-conflict/article70743856.ece",
+    "time": "2026-03-14T17:27:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India women qualify for Hockey World Cup despite runners-up finish",
+    "desc": "India’s women’s hockey team finished runners-up in the FIH Hockey World Cup Qualifiers after a 0–2 loss to England but still qualified for the World Cup. Grace Balsdon scored from a penalty corner in the 13th minute, while Elizabeth Neal added another in the 43rd. India created chances but couldn’t score. England, India and Scotland qualified for the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-129578648,imgsize-76402.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-womens-team-qualifies-for-hockey-world-cup-despite-runners-up-finish-in-qualifiers/articleshow/129578579.cms",
+    "time": "2026-03-14T17:27:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sukhbir Badal on BJP going solo in 2027 Punjab polls",
+    "desc": "Shiromani Akali Dal president Sukhbir Singh Badal reacted to the BJP's decision to contest the 2027 Punjab Assembly elections independently, stating that every party has the right to make its own alliance decisions. Badal emphasized Punjab's interests as paramount and expressed confidence in the SAD securing a landslide victory, differentiating his party from \"Delhi-based parties.\"",
+    "img": "https://static.toiimg.com/photo/msid-129578170,imgsize-35242.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/every-party-has-right-to-decide-alliances-sukhbir-badal-on-bjp-going-solo-in-2027-punjab-polls/articleshow/129578063.cms",
+    "time": "2026-03-14T17:22:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ladakh to protest for safeguards on March 16, despite Sonam Wangchuk release",
+    "desc": "Struggle for rights continue, say civil society groups while demanding release of two more detained since September 2025; Opposition questions Centre over the prolonged detention of the activist and says PM should apologise to people of Ladakh",
+    "img": "https://th-i.thgim.com/public/incoming/5kv4dk/article70744389.ece/alternates/LANDSCAPE_1200/India_Ladakh_Protest_64987.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ladakh-to-protest-for-safeguards-on-march-16-despite-wangchuk-release/article70744195.ece",
+    "time": "2026-03-14T17:22:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LPG crunch puts strain on mid-day meals for children at schools across India",
+    "desc": "Many schools are cutting down on their daily menu, affecting the nutritional quality of the food being provided to the children; reports indicate that as schools apply for gas cylinder refills, the situation may become dicey",
+    "img": "https://th-i.thgim.com/public/incoming/aaug2h/article70744407.ece/alternates/LANDSCAPE_1200/20260314389L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/lpg-crunch-puts-strain-on-mid-day-meals-for-children-at-schools-across-india/article70744009.ece",
+    "time": "2026-03-14T17:10:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hansika's estranged sister-in-law requests not to be dragged into her divorce",
+    "desc": "Hansika Motwani and Sohael Khaturiya's four-year marriage has officially concluded with a divorce granted by the Bandra Family Court. Amidst public attention, Hansika's estranged sister-in-law, Nancy James, has requested to be kept out of the divorce proceedings, citing her own ongoing legal battles and a desire for healing.",
+    "img": "https://static.toiimg.com/photo/msid-129578121,imgsize-41380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hansika-motwanis-estranged-sister-in-law-requests-not-to-be-dragged-into-her-divorce-im-on-my-healing-journey/articleshow/129578103.cms",
+    "time": "2026-03-14T16:50:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "HIV-positive man injects infected blood into woman in Hyderabad",
+    "desc": "A 24-year-old man allegedly injected HIV-infected blood into his 22-year-old relative in Hyderabad after her family cancelled their wedding upon discovering his positive status. The incident occurred on March 11, with police stating the accused forcibly administered the blood. He has been apprehended, and the woman is hospitalized.",
+    "img": "https://static.toiimg.com/photo/msid-129577816,imgsize-8120.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/marriage-proposal-cancelled-hiv-positive-man-injects-infected-blood-into-woman-in-hyderabad/articleshow/129577740.cms",
+    "time": "2026-03-14T16:24:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kuldeep Yadav ties knot with Vanshika Chadha",
+    "desc": "Kuldeep Yadav married Vanshika Chadha in a ceremony in Mussoorie, Uttarakhand, days after India’s ICC Men's T20 World Cup triumph. Several cricketers attended the celebrations, with a grand reception planned in Lucknow. Teammates including Yuzvendra Chahal and Tilak Varma expressed excitement while enjoying the wedding festivities before returning to cricket commitments.",
+    "img": "https://static.toiimg.com/photo/msid-129577708,imgsize-91796.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kuldeep-yadav-ties-knot-with-vanshika-chadha-pics-out/articleshow/129577627.cms",
+    "time": "2026-03-14T16:15:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nearly 100 stray dogs poisoned to death in Telangana village",
+    "desc": "Nearly 100 stray dogs were allegedly poisoned to death in Telangana's Mancherial district, with an animal welfare activist filing a complaint against village officials. Police have registered a case under relevant acts, investigating allegations of hired individuals administering poisonous injections and burying the animals. This incident follows a pattern of mass canine killings reported in Telangana last year.",
+    "img": "https://static.toiimg.com/photo/msid-129577545,imgsize-1100104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nearly-100-stray-dogs-poisoned-to-death-in-telangana-village/articleshow/129577548.cms",
+    "time": "2026-03-14T16:02:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MS Dhoni, Ruturaj Gaikwad blast bowlers; video goes viral",
+    "desc": "Chennai Super Kings have begun preparations for the Indian Premier League 2026 season, with a viral video showing MS Dhoni and captain Ruturaj Gaikwad hitting big shots in the nets. After missing the playoffs recently, CSK aim for a sixth title. They start their campaign against Rajasthan Royals on March 30.",
+    "img": "https://static.toiimg.com/photo/msid-129577445,imgsize-70036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/watch-ms-dhoni-ruturaj-gaikwad-blast-bowlers-video-goes-viral-ahead-of-ipl-2026/articleshow/129577329.cms",
+    "time": "2026-03-14T15:56:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Yet another act of aggression': India condemns Pakistan air strikes in Afghanistan",
+    "desc": "India has strongly condemned Pakistan's airstrikes in Afghanistan, labeling them an \"act of aggression\" and emphasizing the need to respect Afghanistan's sovereignty. The strikes, which reportedly caused civilian casualties, follow accusations by the Afghan Taliban government against Pakistan. Pakistan claims its operations target Pakistani Taliban militants and their support networks.",
+    "img": "https://static.toiimg.com/photo/msid-129577297,imgsize-1866125.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/yet-another-act-of-aggression-india-condemns-pakistan-air-strikes-in-afghanistan/articleshow/129577287.cms",
+    "time": "2026-03-14T15:46:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'That's all you need': Ponting reveals 'big decision' behind India's T20 WC title",
+    "desc": "Former Australia captain Ricky Ponting praised India’s decision to back Sanju Samson as opener in the ICC Men's T20 World Cup. Samson recovered from a slow start to score 321 runs, including key knocks against the West Indies national cricket team, England national cricket team and New Zealand national cricket team. Ponting credited captain Suryakumar Yadav and the team management for showing faith in him and guiding India to the title.",
+    "img": "https://static.toiimg.com/photo/msid-129576844,imgsize-92756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/thats-all-you-need-ricky-ponting-reveals-big-decision-behind-indias-t20-world-cup-title/articleshow/129576759.cms",
+    "time": "2026-03-14T15:12:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "R Madhavan warns fans against fake account claiming to be him",
+    "desc": "Actor R Madhavan has alerted fans to a fake social media account impersonating him. He clarified that the fraudulent profile, which contacts people on his behalf, has no connection to him or his team. Madhavan assured followers that legal action is underway against the impersonator.",
+    "img": "https://static.toiimg.com/photo/msid-129576805,imgsize-24902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-warns-fans-against-fake-account-claiming-to-be-him-on-social-media-appropriate-steps-are-being-taken/articleshow/129576810.cms",
+    "time": "2026-03-14T15:08:22.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Govt. making every effort to ensure adequate  LPG supply to households, says GoM",
     "desc": "Reiterating that people need not worry and warning against black marketing of LPG cylinders, the GoM says that priority is also being accorded to essential institutions such as hospitals and hostels so that their operations continue without disruption",
     "img": "https://th-i.thgim.com/public/incoming/yo5p42/article70743814.ece/alternates/LANDSCAPE_1200/DSC_8976.JPG",
@@ -43,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/golmaal-5-first-look-out-akshay-kumars-new-avatar-steals-the-show-ajay-devgn-arshad-warsi-tushar-kapoor-and-others-promise-a-laugh-riot-video/articleshow/129575792.cms",
     "time": "2026-03-14T14:05:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "HRD Minister Lokesh warns of strict action if quality of mid-day meal is compromised",
-    "desc": "Once food is prepared, a teacher must taste and check the quality every day before it is served to the students, he insists; as per the preliminary inquiry, the incident reported in a school at Mylavaram in NTR district is a deliberate act aimed at spreading misinformation, say officials",
-    "img": "https://th-i.thgim.com/public/incoming/f4o3zw/article70743646.ece/alternates/LANDSCAPE_1200/Laddu-row_-gheeGTOFKK8I2.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/hrd-minister-lokesh-warns-of-strict-action-if-quality-of-mid-day-meal-is-compromised/article70743497.ece",
-    "time": "2026-03-14T14:04:53.000Z"
   },
   {
     "cat": "Sports",
@@ -97,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zareen-khan-says-the-industry-looked-down-upon-her-after-hate-story-3-she-cannot-act-she-decided-to-strip/articleshow/129575068.cms",
     "time": "2026-03-14T13:14:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mayawati accuses Congress of misusing Kanshi Ram's name for political gains",
-    "desc": "The Congress never gave due honour to Babasaheb Dr Bhimrao Ambedkar -- the messiah of Dalits and the principal architect of the Constitution -- nor did they ever confer upon him the title of Bharat Ratna... How can the same party now honour Kanshi Ram, questiones BSP chief Mayawati",
-    "img": "https://th-i.thgim.com/public/incoming/y6v7os/article70743318.ece/alternates/LANDSCAPE_1200/PTI02_18_2026_000329B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-accuses-congress-of-misusing-kanshi-rams-name-for-political-gains/article70743312.ece",
-    "time": "2026-03-14T13:03:47.000Z"
   },
   {
     "cat": "Sports",
@@ -288,24 +441,6 @@ const newsData_en = [
     "time": "2026-03-14T10:00:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Taylor Hicks shares a cheeky comment about Kelly Clarkson",
-    "desc": "In a candid moment on her show, Kelly Clarkson shared the surprising news that the prized possessions promised to American Idol winners, specifically her missing car, never made it to her driveway. Meanwhile, fellow Idol champ Taylor Hicks jovially volunteered to help her track down a shiny new Mustang, proving that the camaraderie among winners lives on.",
-    "img": "https://static.toiimg.com/photo/msid-129572390,imgsize-90716.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-hicks-gives-a-cheeky-remark-to-kelly-clarkson-following-viral-car-story/articleshow/129572390.cms",
-    "time": "2026-03-14T09:59:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer says he is still battling internally after IGL row",
-    "desc": "Ranveer Allahbadia addressed the 2025 India’s Got Latent controversy on his YouTube channel with Farah Khan. He admitted he's still healing emotionally, revealed his mother was physically attacked and traumatized, and condemned cancel culture. The offensive remark led to FIRs amid online outrage.",
-    "img": "https://static.toiimg.com/photo/msid-129572381,imgsize-17678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-allahbadia-says-he-is-still-battling-internally-after-indias-got-latent-row-im-not-good-yet/articleshow/129572381.cms",
-    "time": "2026-03-14T09:53:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'I apologise': Trump aide Laura Loomer apologises for 'anti-India' posts on social media",
     "desc": "Far-right activist Laura Loomer apologised for \"anti-India\" social media posts after facing backlash for racist remarks. While she expressed regret for offending people, Loomer stood firm on her opposition to the H-1B visa program, citing a need to protect American workers. She also criticized Pakistan, accusing it of supporting extremist networks.",
@@ -423,15 +558,6 @@ const newsData_en = [
     "time": "2026-03-14T07:34:12.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Report",
-    "desc": "Pakistan Cricket Board is reportedly considering legal action against Zimbabwe's Blessing Muzarabani. He opted to play for Kolkata Knight Riders in the IPL instead of fulfilling his contract with Islamabad United in the Pakistan Super League. This move, driven by IPL's lucrative opportunities, has angered the PCB, who aim to protect the integrity of their league contracts.",
-    "img": "https://static.toiimg.com/photo/msid-129570696,imgsize-75754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-threatens-kkr-pacer-for-choosing-ipl-over-psl-sparks-massive-controversy/articleshow/129570651.cms",
-    "time": "2026-03-14T07:25:39.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What is DME? Scientists look to scale up output to offset LPG supply blow",
     "desc": "India is exploring increased production of dimethyl ether (DME) as an alternative to LPG amid global oil market disruptions. A government research institute has established a pilot plant and plans to scale up DME output, a fuel scientists say can be used with existing LPG infrastructure, addressing supply challenges and rising prices.",
@@ -439,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/what-is-dme-scientists-look-to-scale-up-output-to-offset-lpg-supply-blow/articleshow/129569646.cms",
     "time": "2026-03-14T07:15:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKR unveil new jersey ahead of IPL 2026 season",
-    "desc": "Kolkata Knight Riders unveiled their IPL 2026 jersey, themed 'Lines of Legacy,' inspired by iconic franchise moments. The design weaves these defining memories into abstract linear art forming the team's initials. KKR begins their campaign against Mumbai Indians on March 29 and will feature new signings like Cameron Green and Matheesha Pathirana.",
-    "img": "https://static.toiimg.com/photo/msid-129570420,imgsize-143796.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/kkr-unveil-new-jersey-ahead-of-ipl-2026-season/articleshow/129570318.cms",
-    "time": "2026-03-14T07:02:21.000Z"
   },
   {
     "cat": "Politics",
@@ -466,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/he-is-riding-his-luck-robin-uthappas-big-comment-on-vaibhav-sooryavanshi-ahead-of-ipl-2026/articleshow/129569928.cms",
     "time": "2026-03-14T06:28:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ladakh climate activist Sonam Wangchuk released from jail as govt revokes NSA detention",
-    "desc": "Climate activist Sonam Wangchuk's detention under the National Security Act has been revoked by the Centre with immediate effect. Wangchuk was detained over allegations of inciting unrest in Ladakh, with the government citing his remarks as potentially destabilizing. His wife had challenged the detention in the Supreme Court.",
-    "img": "https://static.toiimg.com/photo/msid-129569868,imgsize-1010448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ladakh-protest-climate-activist-sonam-wangchuk-to-be-released-as-govt-revokes-nsa-detention/articleshow/129569858.cms",
-    "time": "2026-03-14T06:22:54.000Z"
   },
   {
     "cat": "Business",
@@ -531,15 +639,6 @@ const newsData_en = [
     "time": "2026-03-14T04:03:46.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'That sensational partnership changed everything': Wright on VVS–Dravid epic",
-    "desc": "John Wright reflects on India's improbable 2001 Eden Gardens Test victory against Australia. He highlights the sensational partnership of VVS Laxman and Rahul Dravid, and Harbhajan Singh's bowling heroics. The win injected immense self-belief into the team, paving the way for future overseas successes.",
-    "img": "https://static.toiimg.com/photo/msid-129568322,imgsize-55210.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/that-sensational-partnership-changed-everything-john-wright-on-vvs-laxmanrahul-dravid-epic/articleshow/129568299.cms",
-    "time": "2026-03-14T03:45:15.000Z"
-  },
-  {
     "cat": "World",
     "title": "South Korea's PM, Trump discuss possible talks with North’s Kim Jong Un",
     "desc": "Mr. Kim did not say what specific suggestions he made to Mr. Trump but said he told Mr. Trump that recent comments by Pyongyang indicated Mr. Kim may be open to dialogue with the U.S.",
@@ -547,42 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/south-koreas-pm-trump-discuss-possible-talks-with-norths-kim-jong-un/article70741295.ece",
     "time": "2026-03-14T03:02:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Rascal': Ex-Australia wicketkeeper's bold remark on Abhishek Sharma",
-    "desc": "Despite a shaky start with three consecutive ducks, Indian opener Abhishek Sharma proved his mettle in the T20 World Cup 2026 final. He smashed an explosive 18-ball fifty, setting the stage for India's dominant victory. Former Australian keeper Brad Haddin lauded Sharma's 'rascal' mentality, highlighting his ability to perform under pressure.",
-    "img": "https://static.toiimg.com/photo/msid-129567868,imgsize-53118.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rascal-ex-australia-wicketkeepers-bold-remark-on-abhishek-sharma/articleshow/129567864.cms",
-    "time": "2026-03-14T02:41:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Trump admin set to receive $10 billion fee from investors for TikTok deal: Report",
-    "desc": "A TikTok US joint venture deal is expected to generate nearly $10 billion in payments for the Trump administration, according to The Wall Street Journal. This fee, paid by investors friendly to the administration, is part of an arrangement for them to control TikTok's US operations.",
-    "img": "https://static.toiimg.com/photo/msid-129567677,imgsize-102280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/trump-admin-set-to-receive-10-billion-fee-from-investors-for-tiktok-deal-report/articleshow/129567633.cms",
-    "time": "2026-03-14T02:17:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Parliamentary panel seeks allocation of realistic fertiliser subsidy fund at budget estimate stage",
-    "desc": "A parliamentary panel urged the finance ministry to allocate fertilizer subsidy funds at the budget estimate stage to align with actual needs. The committee also recommended boosting domestic production due to higher subsidy burdens on imported urea and NPK fertilizers, citing significant cost differences.",
-    "img": "https://static.toiimg.com/photo/msid-129567496,imgsize-264674.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/parliamentary-panel-seeks-allocation-of-realistic-fertiliser-subsidy-fund-at-budget-estimate-stage/articleshow/129567425.cms",
-    "time": "2026-03-14T01:38:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Infiltrators from B'desh behind Meghalaya violence",
-    "desc": "The BJP has blamed alleged Muslim infiltrators from Bangladesh for recent violence in Meghalaya's West Garo Hills, citing demographic shifts and attempts to usurp tribal rights. Tensions escalated after tribals protested non-tribal nominations for council elections, following a high court ruling.",
-    "img": "https://static.toiimg.com/photo/msid-129567150,imgsize-437406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-infiltrators-from-bdesh-behind-meghalaya-violence/articleshow/129567137.cms",
-    "time": "2026-03-13T23:51:30.000Z"
   },
   {
     "cat": "World",
@@ -642,7 +705,7 @@ const newsData_en = [
     "cat": "World",
     "title": "China passes new ethnic minority law, prioritise use of Mandarin language",
     "desc": "Called \"Promoting Ethnic Unity and Progress\", the ethnic minority law aims to forge national unity ‌and advance the rejuvenation of the Chinese nation with the Chinese Communist Party (CCP) at its core, a draft copy of the law showed",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-international/h5hjci/article70737070.ece/alternates/LANDSCAPE_1200/China-passes-neG4PFN51MC.3.jpg.jpg",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-international/3va4w6/article70737070.ece/alternates/LANDSCAPE_1200/China-passes-neG4PFN51MC.3.jpg.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-passes-new-ethnic-minority-law-prioritise-use-of-mandarin-language/article70736694.ece",
     "time": "2026-03-13T08:02:52.000Z"
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/criticism-satire-of-pm-ugc-regulations-target-of-government-takedowns-on-x-instagram/article70727083.ece",
     "time": "2026-03-11T02:35:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Formula One Australian GP",
-    "desc": "The race at Albert Park was a battle of wits, speed and a whole load of battery management; Mercedes’ lead driver Russell grabbed his moments to set the tone for the year, with the Ferraris breathing down his neck",
-    "img": "https://th-i.thgim.com/public/sport/26vhky/article70728203.ece/alternates/LANDSCAPE_1200/GettyImages-2265353502.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/motorsport/formula-one-australian-grand-prix-2026-review/article70728191.ece",
-    "time": "2026-03-10T17:39:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIH Women’s World Cup Qualifiers",
-    "desc": "He sheds light on the team’s inability to score more frequently from PCs, which eventually led to the host dropping points against Scotland; the 51-year-old, currently in his second stint with the team, adds that the side is gradually adapting to his style of play",
-    "img": "https://th-i.thgim.com/public/incoming/30gh8n/article70727080.ece/alternates/LANDSCAPE_1200/vjkvg-india%2013.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/fih-womens-world-cup-qualifiers-coach-marijne-wants-ever-improving-india-to-kill-the-matches/article70726940.ece",
-    "time": "2026-03-10T13:42:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranking every Best Picture nominee from worst to best",
-    "desc": "The Academy Awards will soon crown one of ten films as the official best film of 2025. Before that happens, here is a ranking of all ten nominees, from the most puzzling inclusion to the one that actually feels worthy of the top prize",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/8eegen/article70725888.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-best-picture-nominees-ranked-entertainment-news-academy-awards-date-time-schedule-how-to-watch-india/article70725922.ece",
-    "time": "2026-03-10T09:38:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India’s T20 World Cup defence shows strength of a new era",
-    "desc": "India’s successful defence of the ICC T20 World Cup highlights the team’s smooth transition after the exit of senior stars such as Rohit Sharma, Virat Kohli and Ravindra Jadeja from T20Is. Under Suryakumar Yadav and coach Gautam Gambhir, a fearless approach and strong bench strength powered the campaign. Sanju Samson, Jasprit Bumrah and others stepped up as India continued to set the standard in the format.",
-    "img": "https://th-i.thgim.com/public/incoming/xh0idg/article70725982.ece/alternates/LANDSCAPE_1200/editorial%20india%20T20.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-indias-t20-world-cup-defence-shows-strength-of-a-new-era-the-hindu-editorial/article70725979.ece",
-    "time": "2026-03-10T09:24:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Timothée Chalamet faces backlash after comments dismissing ballet and opera",
-    "desc": "Chalamet has sparked backlash from performers and arts institutions after saying he would not want to work in ballet or opera because “no one cares about this anymore,” comments that have ignited debate across the performing arts community",
-    "img": "https://th-i.thgim.com/public/incoming/84xovo/article70725317.ece/alternates/LANDSCAPE_1200/2264285287.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/timothee-chalamet-faces-backlash-after-comments-dismissing-ballet-and-opera/article70725308.ece",
-    "time": "2026-03-10T06:32:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka names Kirsten as head coach with 2027 World Cup in focus",
-    "desc": "Kirsten, 58, previously guided ‌India to the 2011 World Cup title and later coached ‌South Africa from 2011 to ‌2013. ⁠He also briefly served as ⁠Pakistan's white-ball coach in 2024, resigning six months into the job.",
-    "img": "https://th-i.thgim.com/public/incoming/yofr8e/article70725130.ece/alternates/LANDSCAPE_1200/VIS_4076.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/sri-lanka-names-kirsten-as-head-coach-with-2027-world-cup-in-focus/article70725127.ece",
-    "time": "2026-03-10T04:52:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India glorious",
-    "desc": "A triumph of spirit, of team spirit, of belief in themselves and each other, the T20 World Cup title won by Suryakumar & Co. will be celebrated long and hard; India relished being installed the favourites and basked in the fact that everyone expected them to go all the way",
-    "img": "https://th-i.thgim.com/public/incoming/iemhf6/article70723904.ece/alternates/LANDSCAPE_1200/VIS_9323.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/indiaglorious/article70723898.ece",
-    "time": "2026-03-09T19:03:30.000Z"
   }
 ];

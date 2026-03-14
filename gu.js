@@ -1,12 +1,21 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "લગ્ન તૂટવાથી પરેશાન યુવકે કરી શર્મનાક હરકત, યુવતીના ઘરે આવી કર્યું આ કૃત્ય, જાણો સમગ્ર મામલો",
+    "desc": "હૈદરાબાદમાંથી એક અજીબ ઘટના સામે આવી છે. 24 વર્ષીય એક પુરુષના લગ્ન તૂટવાથી તે યુવતી અને તેના પિતા પર નારાજ થયો હતો, આ ઘટના 11 માર્ચે બની હોવાનું પોલીસે જણાવ્યું હતું, યુવતીના ઘરે જઈ શરમજનક કૃત્ય કર્યાનું પણ જાણવા મળી રહ્યું છે. પોલીસે આરોપીની ઘરપકડ કરી લીધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/a-young-man-upset-by-the-breakup-of-his-marriage-came-to-the-girl-house-and-did-this-act-know-the-entire-matter-468625 ",
+    "time": "2026-03-14T17:16:03.000Z"
+  },
+  {
     "cat": "World",
-    "title": "શું નેતન્યાહૂની થઈ ગઈ છે હત્યા ? ઈરાની દૂતાવાસે આપ્યું પહેલું નિવેદન, જાણી લો કેમ ઉઠી છે આ ચર્ચા",
+    "title": "શું નેતન્યાહૂ ખરેખર ઠીક છે? ઈરાની દૂતાવાસે આપ્યું પહેલું નિવેદન, જાણી લો કેમ ઉઠી છે આ ચર્ચા",
     "desc": "ઈરાન સાથે ચાલી રહેલા યુદ્ધ વચ્ચે, ઈરાની સોશિયલ મીડિયા પ્લેટફોર્મ પર ઈઝરાયલના વડા પ્રધાન બેન્જામિન નેતન્યાહૂની હત્યાની અફવાઓ ફેલાઈ રહી છે. આ દરમિયાન, ઈરાની દૂતાવાસે પોતાનો પહેલું નિવેદન જાહેર કર્યું છે. જોકે, ઈઝરાયેલ આ તમામ બાબતોને અફવા ગણાવી રહ્યું છે પણ આ સવાલો કેમ થઈ રહ્યાં છે જાણી લો આ આર્ટિકલમાં...",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/has-benjamin-netanyahu-been-assassinated-the-first-statement-given-by-the-iranian-embassy-know-this-468611 ",
-    "time": "2026-03-14T15:24:08.000Z"
+    "time": "2026-03-14T15:43:14.000Z"
   },
   {
     "cat": "Business",
@@ -405,15 +414,6 @@ const newsData_gu = [
     "time": "2026-03-12T09:55:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ટીમ ઈન્ડિયા હવે આગામી T20 આંતરરાષ્ટ્રીય મેચ ક્યારે રમશે ? આવી ગઈ તારીખ",
-    "desc": "ટીમ ઈન્ડિયાના લગભગ બધા ખેલાડીઓ આ મહિનાના અંતમાં શરૂ થનારી આઈપીએલમાં રમશે. આ દરમિયાન તમને સવાલ થતો હશે કે ભારતીય ટીમ તેની આગામી ટી20 આંતરરાષ્ટ્રીય મેચ ક્યારે અને ક્યાં રમશે. જેની તારીખ જાહેર થઈ ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-next-t20-international-match-know-full-schedule-468271 ",
-    "time": "2026-03-12T09:30:22.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "3.70 લાખની કાર પર 42500 રૂપિયાનું બમ્પર ડિસ્કાઉન્ટ, મળશે 33.85 km/kg માઇલેજ",
     "desc": "જો તમને કહીએ કે 4 લાખ રૂપિયાથી સસ્તી કાર પર તમને 40 હજાર રૂપિયાથી વધુની છૂટ મળી રહી છે તો તમે લગભગ વિશ્વાસ નહીં કરો, પરંતુ માર્ચના મહિનામાં આ સંભવ થઈ રહ્યું છે. મારૂતિની સસ્તી કાર અલ્ટો કે10 પર બમ્પર ડિસ્કાઉન્ટ મળી રહ્યું છે.",
@@ -522,15 +522,6 @@ const newsData_gu = [
     "time": "2026-03-11T09:15:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "તેલ અને ગેસ પછી, હવે દવાઓનું સંકટ, યુદ્ધે વધાર્યું ભારતનું ટેન્શન, શું કહી રહ્યા છે એક્સપર્ટ?",
-    "desc": "ફાર્માસ્યુટિકલ ઉદ્યોગમાં મોટાભાગના કાચા માલનો વેપાર ડોલરમાં થાય છે. યુદ્ધ શરૂ થતાં જ ડોલર મજબૂત થાય છે, જેના કારણે ભારતીય ઉત્પાદકો માટે આયાત ખર્ચ આપમેળે વધી જાય છે. છેલ્લા 11 દિવસથી આ યુદ્ધ ચાલુ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/after-oil-and-gas-now-there-is-a-crisis-of-medicines-war-has-increased-india-tension-what-are-experts-saying-468099 ",
-    "time": "2026-03-11T08:13:07.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "2026મા થશે મોટો ધમાકો, Hyundai Creta ને ટક્કર આપવા આપી રહી છે 3 ધાકડ SUVs!",
     "desc": "ભારતમાં મિડ સાઇઝ SUV સેગમેન્ટમાં આ વર્ષે ઘણી નવી ગાડીઓ લોન્ચ થવાની છે, જે Hyundai Creta ને ટક્કર આપી શકે છે. Toyota Urban Cruiser Ebella, Renault Duster અને Skoda Kushaq જેવી SUVs નવા ફીચર્સ અને શાનદાર સ્ટાઇલની સાથે આવી શકે છે.",
@@ -538,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/upcoming-mid-size-suv-in-2026-new-duster-ebella-kushaq-will-launch-468071 ",
     "time": "2026-03-11T04:59:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અમેરિકા અને ઇઝરાયલે કર્યો અત્યાર સુધીનો સૌથી મોટો હુમલો, ઇરાને કહ્યું: નહીં કરીએ યુદ્ધવિરામ",
-    "desc": "અમેરિકા, ઇઝરાયલ અને ઈરાન વચ્ચેનું યુદ્ધ 12મા દિવસે પણ ચાલુ રહ્યું. અમેરિકા અને ઇઝરાયલે ઈરાન પર અત્યાર સુધીનો સૌથી મોટો હુમલો કર્યો, જેના કારણે તેહરાનના ઘણા વિસ્તારોમાં વીજળી ગુલ થઈ ગઈ અને રહેણાંક ઇમારતોને નુકસાન થયું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/america-and-israel-carried-out-the-biggest-attack-ever-iran-said-we-will-not-make-a-ceasefire-468055 ",
-    "time": "2026-03-11T02:45:05.000Z"
   },
   {
     "cat": "Tech",
