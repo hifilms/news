@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Iran hits back at Donald Trump's 'life and safety' comments ahead of FIFA World Cup 2026",
+    "desc": "The FIFA World Cup 2026 is looming on the horizon; the marquee tournament is all set to be co-hosted by the USA, Mexico, and Canada. With the ongoing West Asia war, the participation of Iran...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/iran-hits-back-at-donald-trump-s-life-and-safety-comments-ahead-of-fifa-world-cup-2026-2026-03-14-1033740",
+    "time": "2026-03-14T05:52:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Stupidest team': Michael Vaughan slams South Africa after India's T20 World Cup 2026 triumph",
     "desc": "The T20 World Cup 2026 saw the Indian team register brilliant victories and clinch their third T20 World Cup. Throughout the tournament, the Men in Blue just lost one game and went on to defeat...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-cricketer-backs-fittest-meanest-and-strongest-rohit-sharma-to-play-all-40-overs-in-ipl-2026-03-13-1033703",
     "time": "2026-03-13T15:36:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harshit Rana ruled out of IPL 2026, KKR working on replacement: Report",
-    "desc": "Kolkata Knight Riders all-rounder Harshit Rana has been ruled out of the Indian Premier League 2026 season. The Delhi cricketer was part of India’s T20 World Cup squad, but in the warm-up games, he suffered...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-ruled-out-of-ipl-2026-kkr-working-on-replacement-report-2026-03-13-1033699",
-    "time": "2026-03-13T14:33:15.000Z"
   }
 ];

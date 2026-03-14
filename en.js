@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "'He is riding his': Uthappa's big comment on Sooryavanshi ahead of IPL",
+    "desc": "Vaibhav Sooryavanshi, after a stellar IPL debut, faces heightened expectations and increased scrutiny in his second season. Former India cricketer Robin Uthappa suggests this year will be a crucial learning phase as opponents have analyzed his game. While expecting him to score, Uthappa believes the element of surprise has faded, making this season pivotal for his long-term development.",
+    "img": "https://static.toiimg.com/photo/msid-129569953,imgsize-122554.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/he-is-riding-his-luck-robin-uthappas-big-comment-on-vaibhav-sooryavanshi-ahead-of-ipl-2026/articleshow/129569928.cms",
+    "time": "2026-03-14T06:28:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I'M Game' star Dulquer Salmaan’s career journey",
+    "desc": "Despite his superstar father Mammootty's legacy, Dulquer Salmaan carved his own path, overcoming initial fears and insecurities. His journey, marked by a late debut and early struggles in Hindi cinema, highlights his dedication. From Malayalam hits like 'Ustad Hotel' to pan-Indian successes, Dulquer's hard work and passion for cinema continue to define his career.",
+    "img": "https://static.toiimg.com/photo/msid-129569917,imgsize-70680.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/dulquer-salmaans-career-journey-from-fearing-mammoottys-legacy-to-pan-india-stardom/articleshow/129569917.cms",
+    "time": "2026-03-14T06:27:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Climate activist Sonam Wangchuk to be released as govt revokes NSA detention",
+    "desc": "Climate activist Sonam Wangchuk's detention under the National Security Act has been revoked by the Centre with immediate effect. Wangchuk was detained over allegations of inciting unrest in Ladakh, with the government citing his remarks as potentially destabilizing. His wife had challenged the detention in the Supreme Court.",
+    "img": "https://static.toiimg.com/photo/msid-129569868,imgsize-1010448.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ladakh-protest-climate-activist-sonam-wangchuk-to-be-released-as-govt-revokes-nsa-detention/articleshow/129569858.cms",
+    "time": "2026-03-14T06:22:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lively's bid to sanction Baldoni's lawyer DENIED",
+    "desc": "A federal judge has denied Blake Lively's request for legal sanctions against Justin Baldoni's lawyer, Bryan Freedman. Lively's team argued Freedman's media comments could prejudice the jury, but the judge found the statements were made too early to cause substantial harm.",
+    "img": "https://static.toiimg.com/photo/msid-129569843,imgsize-182060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-livelys-bid-to-sanction-justin-baldonis-lawyer-denied-by-us-judge/articleshow/129569545.cms",
+    "time": "2026-03-14T06:19:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The secret behind India's 2026 T20 World Cup dominance",
+    "desc": "India's recent T20 World Cup triumphs highlight the IPL's transformative impact. Once criticized for player fatigue, the league now cultivates fearless, aggressive cricketers. This \"IPL generation\" thrives under pressure, consistently posting high scores, a stark contrast to earlier eras. The league has become India's biggest asset in white-ball cricket, bridging domestic and international gaps.",
+    "img": "https://static.toiimg.com/photo/msid-129569807,imgsize-156818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-effect-the-secret-behind-indias-2026-t20-world-cup-dominance/articleshow/129569784.cms",
+    "time": "2026-03-14T06:14:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Jet fuel prices jump amid Middle East conflict",
+    "desc": "Get ready for pricier flights as Middle East tensions escalate, driving up jet fuel costs significantly. Experts warn of inevitable fare hikes, especially on long-haul international routes, with some airlines already adjusting prices. Travelers are advised to book early and remain flexible to mitigate rising costs.",
+    "img": "https://static.toiimg.com/photo/msid-129569702,imgsize-181201.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/summer-travel-to-get-costlier-jet-fuel-prices-jump-amid-middle-east-conflict/articleshow/129569426.cms",
+    "time": "2026-03-14T06:06:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul Gandhi pays tribute to Kanshi Ram ahead of birth anniversary, vows to fight for marginalised",
+    "desc": "“Today we remember Kanshi Ram ji’s struggle, his vision, and his influence on Indian politics. I thank him wholeheartedly. We pledge to follow his path and fight for the issues of marginalised sections. If the Congress had functioned effectively at that time, Kanshi Ram would not have needed to wage a separate struggle,” Rahul Gandhi",
+    "img": "https://th-i.thgim.com/public/incoming/4hyuwb/article70742261.ece/alternates/LANDSCAPE_1200/20260313477L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/rahul-gandhi-remembered-kanshi-ram-ahead-of-birth-anniversary-vows-to-fight-for-marginalised/article70740493.ece",
+    "time": "2026-03-14T06:06:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When Dravid, Laxman stunned Australia",
+    "desc": "India achieved a historic Test win, following on against Australia, a feat accomplished only thrice before. This remarkable victory at Eden Gardens, marked by Sourav Ganguly's captaincy and the heroic partnership of Rahul Dravid and VVS Laxman, defied expectations. The match became a symbol of redemption, with fans' support echoing through the stadium.",
+    "img": "https://static.toiimg.com/photo/msid-129569634,imgsize-52934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/25-years-of-eden-miracle-when-rahul-dravid-vvs-laxman-stunned-australia/articleshow/129569635.cms",
+    "time": "2026-03-14T05:59:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Steven Spielberg takes jab on Timothee Chalamet's",
+    "desc": "In a recent public discussion, renowned filmmaker Steven Spielberg gracefully responded to Timothée Chalamet's contentious views on ballet and opera, which have stirred a wave of criticism. Spielberg championed the profound connection audiences experience during live performances, illustrating the timeless significance of these art forms despite the modern skepticism surrounding them.",
+    "img": "https://static.toiimg.com/photo/msid-129569521,imgsize-109770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothe-chalamet-controversy-did-steven-spielberg-take-a-jab-at-ballet-opera-remark-we-want-that-to-be-sustained/articleshow/129569521.cms",
+    "time": "2026-03-14T05:54:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Debut in politics, Nishant Kumar remains busy with party activities",
+    "desc": "Junior Mr. Kumar who is likely to become one of the new Deputy Chief Ministers of the State is visiting Temples, Gurudwara, Mazar and various other locations to pay homage to eminent leaders to seek their blessings after joining the party",
+    "img": "https://th-i.thgim.com/public/news/national/6hj4gr/article70742302.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-08%20at%2014.28.18.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/debut-in-politics-nishant-kumar-remains-busy-with-party-activities/article70740341.ece",
+    "time": "2026-03-14T05:53:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir Khan takes off shoes to light lamp; wins hearts online",
+    "desc": "Aamir Khan's humble act of removing his boots before lighting a ceremonial lamp at the Red Lorry Film Festival charmed fans. The superstar also shared how the cast of 'Lagaan' began each day with the Gayatri Mantra for a meditative state, and detailed their grassroots efforts for the film's Oscar campaign, urging everyone to attend screenings.",
+    "img": "https://static.toiimg.com/photo/msid-129569201,imgsize-71940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-takes-off-shoes-to-light-lamp-at-film-festival-wins-hearts-online/articleshow/129568978.cms",
+    "time": "2026-03-14T05:23:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Seven dead, 92 inmates infected with herpes virus at overcrowded Jalpaiguri correctional home",
+    "desc": "About 92 inmates have been infected in the outbreak of the Herpes Simplex Virus between August 20, 2025 and March 9, 2026. Seven persons infected by the virus have passed away. The number of inmates at correctional home with a capacity 700 is over 1200",
+    "img": "https://th-i.thgim.com/public/incoming/b35v7d/article70741301.ece/alternates/LANDSCAPE_1200/IMG_iStock-1395990123_2_1_36A6T8DK.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/seven-dead-92-inmates-infected-with-herpes-virus-at-overcrowded-jalpaiguri-correctional-home/article70740174.ece",
+    "time": "2026-03-14T05:14:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Madhya Pradesh HC asks government to share clean-up plan",
+    "desc": "In an action taken report, the government told the court that a meeting chaired by Additional Chief Secretary Ashok Barnwal was held on March 3 to discuss a time-bound remediation of the Union Carbide India Ltd. (UCIL) factory",
+    "img": "https://th-i.thgim.com/public/incoming/1a461l/article70742272.ece/alternates/LANDSCAPE_1200/PTI03_03_2025_000371B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/bhopal-gas-tragedy-madhya-pradesh-hc-asks-government-to-share-clean-up-plan/article70740415.ece",
+    "time": "2026-03-14T05:07:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Tata, Parle, M&amp;M canteens feel LPG squeeze; India Inc redesigns menu — less tea, no samosas or dosas",
+    "desc": "India's industrial sector faces disruption as commercial LPG shortages impact factory operations. Manufacturers report production hurdles, particularly in brazing and paint shops, while canteens are paring back menus. Companies are turning to electric alternatives and even firewood to cope with the 'hand-to-mouth' supply situation, with government intervention underway to prioritize household needs.",
+    "img": "https://static.toiimg.com/photo/msid-129569001,imgsize-2773114.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/tata-parle-mm-canteens-feel-lpg-squeeze-india-inc-redesigns-menu-less-tea-no-samosas-or-dosas/articleshow/129568595.cms",
+    "time": "2026-03-14T05:06:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He wasn't saying nice things': Agha on war of words with Mehidy",
+    "desc": "A controversial run-out of Pakistan's Salman Ali Agha by Bangladesh captain Mehidy Hasan Miraz reignited the 'spirit of cricket' debate. Agha, stepping out of his crease, bent to retrieve the ball, only for Miraz to swiftly dislodge the bails. While Agha felt he would have acted differently, he acknowledged the dismissal was within the rules, calling it a 'heat-of-the-moment' incident.",
+    "img": "https://static.toiimg.com/photo/msid-129568956,imgsize-60456.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-wasnt-saying-nice-things-salman-ali-agha-on-war-of-words-with-bangladesh-captain-mehidy-hasan-miraz/articleshow/129568942.cms",
+    "time": "2026-03-14T05:06:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India grants one-month visa extension to stranded foreigners",
+    "desc": "India is extending visas for foreign nationals affected by the Middle East conflict. Overstay penalties will be waived for those delayed until February 28. Exit permits will be issued free of charge. Temporary Landing Permits are also being granted to diverted flights. This comes as the conflict escalates, impacting regional travel and energy supplies.",
+    "img": "https://static.toiimg.com/photo/msid-129568878,imgsize-985591.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-conflict-india-grants-one-month-visa-extension-to-stranded-foreigners/articleshow/129568782.cms",
+    "time": "2026-03-14T04:49:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Never do what Bangladesh captain did': Ex-India star blasts Mehidy Hasan",
+    "desc": "Former India cricketer Mohammad Kaif strongly criticised Bangladesh captain Mehidy Hasan Miraz for a controversial run-out of Salman Ali Agha. Kaif deemed the unsportsmanlike act unacceptable, emphasizing that no wicket-taking desperation justifies such a dismissal, even in a high-stakes match.",
+    "img": "https://static.toiimg.com/photo/msid-129568680,imgsize-42118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/run-out-controversy-never-do-what-bangladesh-captain-did-ex-india-star-backs-salman-ali-agha-slams-mehidy-hasan-miraz/articleshow/129568678.cms",
+    "time": "2026-03-14T04:29:25.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Emma-Robert have a Hermione–Cedric reunion",
     "desc": "A surprise Hogwarts reunion unfolded at a pre-Oscar party as Emma Watson and Robert Pattinson were spotted catching up. Fans of the 'Harry Potter' series buzzed with excitement over photos of the actors, who played Hermione Granger and Cedric Diggory respectively, deep in conversation. Both have since forged successful Hollywood careers.",
@@ -9,15 +162,6 @@ const newsData_en = [
     "time": "2026-03-14T04:28:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Madhya Pradesh HC asks government to share clean-up plan",
-    "desc": "In an action taken report, the government told the court that a meeting chaired by Additional Chief Secretary Ashok Barnwal was held on March 3 to discuss a time-bound remediation of the Union Carbide India Ltd. (UCIL) factory",
-    "img": "https://th-i.thgim.com/public/incoming/1a461l/article70742272.ece/alternates/LANDSCAPE_1200/PTI03_03_2025_000371B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/bhopal-gas-tragedy-madhya-pradesh-hc-asks-government-to-share-clean-up-plan/article70740415.ece",
-    "time": "2026-03-14T04:22:45.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sebastian Bach apologises to Christina Applegate for 1989 VMAs",
     "desc": "In a heartfelt move, rock icon Sebastian Bach has reached out to actress Christina Applegate with an apology following her candid memoir, where she reflected on their brief romance and a painful incident at the 1989 VMAs. Acknowledging the upheaval of his youth in the rock scene, Bach expressed genuine remorse for any hurt he may have inflicted.",
@@ -25,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sebastian-bach-apologises-to-christina-applegate-for-1989-incident-i-apologize-if-i-hurt-her/articleshow/129568540.cms",
     "time": "2026-03-14T04:19:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul Gandhi remembered Kanshi Ram ahead of birth anniversary, vows to fight for marginalised",
-    "desc": "“Today we remember Kanshi Ram ji’s struggle, his vision, and his influence on Indian politics. I thank him wholeheartedly. We pledge to follow his path and fight for the issues of marginalised sections. If the Congress had functioned effectively at that time, Kanshi Ram would not have needed to wage a separate struggle,” Rahul Gandhi",
-    "img": "https://th-i.thgim.com/public/incoming/4hyuwb/article70742261.ece/alternates/LANDSCAPE_1200/20260313477L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/rahul-gandhi-remembered-kanshi-ram-ahead-of-birth-anniversary-vows-to-fight-for-marginalised/article70740493.ece",
-    "time": "2026-03-14T04:13:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -298,57 +433,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Seven dead, 92 inmates infected with herpes virus at overcrowded Jalpaiguri correctional home",
-    "desc": "About 92 inmates have been infected in the outbreak of the Herpes Simplex Virus between August 20, 2025 and March 9, 2026. Seven persons infected by the virus have passed away. The number of inmates at correctional home with a capacity 700 is over 1200",
-    "img": "https://th-i.thgim.com/public/incoming/b35v7d/article70741301.ece/alternates/LANDSCAPE_1200/IMG_iStock-1395990123_2_1_36A6T8DK.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/seven-dead-92-inmates-infected-with-herpes-virus-at-overcrowded-jalpaiguri-correctional-home/article70740174.ece",
-    "time": "2026-03-13T23:03:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Evacuate the office?’ Standard Chartered responds to viral rumours in UAE emirate amid Iran vs US-Israel war",
-    "desc": "Amidst escalating Iran vs US-Israel war, Standard Chartered clarified reports of a Dubai office evacuation, stating it extended existing work-from-home measures as a precaution. The bank emphasised its regional operations remain active. This comes as other financial institutions also implement safety protocols, highlighting Dubai's crucial role as a financial hub facing geopolitical risks.",
-    "img": "https://static.toiimg.com/photo/msid-129566775,imgsize-31558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/dubai-news-evacuate-the-office-standard-chartered-responds-to-viral-rumours-in-uae-emirate-amid-iran-vs-us-israel-war/articleshow/129564634.cms",
-    "time": "2026-03-13T22:42:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka Chopra and Nick Jonas attend pre-Oscar party",
-    "desc": "Priyanka Chopra and Nick Jonas were spotted at an exclusive pre-Oscars party, mingling with Hollywood A-listers like Emma Watson and Macaulay Culkin. Dressed in elegant white and grey, the couple joined a star-studded gathering that celebrated fashion and film ahead of the Academy Awards. The event featured karaoke and dancing, with other notable attendees including Robert Pattinson and Kendall Jenner.",
-    "img": "https://static.toiimg.com/photo/msid-129564878,imgsize-126152.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-and-nick-jonas-attend-pre-oscars-party-spotted-with-emma-watson-macaulay-culkin-and-other-hollywood-stars/articleshow/129564869.cms",
-    "time": "2026-03-13T22:30:17.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Retention rate below 50% in BMC schools, finds report",
     "desc": "According to the report, titled ‘State of Municipal Education in Mumbai’, during the period, the transition of students from Class 8 to Class 9 declined by 30%, and only 80% of students moved from Class 9 to Class 10",
     "img": "https://th-i.thgim.com/public/incoming/76vxq6/article70741288.ece/alternates/LANDSCAPE_1200/6629_16-2-2018_15-9-59_BMCSCHOOL02.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/mumbai/retention-rate-below-50-in-bmc-schools-finds-report/article70739948.ece",
     "time": "2026-03-13T21:42:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Newcomers get abused, some end up in prostitution'",
-    "desc": "Tanushree Dutta has once again spoken about the darker side of the entertainment industry, warning aspiring actors about manipulation, exploitation and the dangers of blindly trusting people who promise opportunities. The actress said one of the reasons she speaks openly about such issues is to warn young aspirants who come to the industry chasing dreams.",
-    "img": "https://static.toiimg.com/photo/msid-129564492,imgsize-141808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tanushree-dutta-makes-shocking-claim-about-exploitation-in-showbiz-many-newcomers-get-used-and-abused-some-even-end-up-in-prostitution/articleshow/129564492.cms",
-    "time": "2026-03-13T20:42:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'KJo had received an underworld threat during KKHH'",
-    "desc": "Filmmaker-choreographer Farah Khan recently looked back at the atmosphere in Bollywood when she began her career in the early 1990s, recalling a time when Hindi cinema struggled with its image and the industry was grappling with the shadow of the underworld. “I remember during the premiere of Duplicate and Kuch Kuch Hota Hai, Karan had received an underworld threat. It was very scary,” she said.",
-    "img": "https://static.toiimg.com/photo/msid-129564420,imgsize-52188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-recalls-bollywoods-dark-phase-in-the-90s-karan-johar-had-received-an-underworld-threat-during-kuch-kuch-hota-hai-premiere/articleshow/129564420.cms",
-    "time": "2026-03-13T20:21:09.000Z"
   },
   {
     "cat": "Politics",
@@ -576,55 +666,10 @@ const newsData_en = [
     "time": "2026-03-13T13:14:57.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘No one can ... ’: Iran hits back at Trump's 'Skip FIFA World Cup' remark",
-    "desc": "Iran's national football team has firmly stated that no entity can prevent their participation in the 2026 FIFA World Cup, directly countering US President Donald Trump's safety concerns. The team emphasized that FIFA governs the tournament and their qualification was earned through merit, questioning the host's ability to ensure security if they cannot.",
-    "img": "https://static.toiimg.com/photo/msid-129552249,imgsize-74860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/no-one-can-exclude-us-iran-hits-back-at-trumps-skip-fifa-world-cup-remark/articleshow/129552124.cms",
-    "time": "2026-03-13T12:13:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who next after Suryakumar Yadav? IPL 2026 should be an audition for next T20I captain",
-    "desc": "Two years ago, Gautam Gambhir was appointed Team India's coach after he mentored the Kolkata Knight Riders (KKR) to the Indian Premier League (IPL) title. With the next T20 extravaganza cycle underway, IPL 2026 should be the audition for India's next T20I captain. The selectors must keep their eyes open because choosing the right man for the captaincy will not be easy.",
-    "img": "https://static.toiimg.com/photo/msid-129550992,imgsize-81840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/who-next-after-suryakumar-yadav-ipl-2026-should-be-an-audition-for-next-t20i-captain/articleshow/129550901.cms",
-    "time": "2026-03-13T11:46:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI breaks silence after Sunrisers sign Pakistan spinner Abrar Ahmed in The Hundred",
-    "desc": "The BCCI has no say in Sunrisers signing Pakistan spinner Abrar Ahmed for The Hundred. This is an overseas league. The franchise faces social media criticism. Owner Kavya Maran is targeted. The official X account of Sunrisers Leeds was reportedly suspended. The BCCI cannot intervene in this matter. The franchise has not issued a statement.",
-    "img": "https://static.toiimg.com/photo/msid-129549997,imgsize-255124.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-breaks-silence-after-sunrisers-sign-pakistan-spinner-abrar-ahmed-in-the-hundred/articleshow/129549989.cms",
-    "time": "2026-03-13T10:54:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Dhoni's support, Sanju Samson's help will...': Irfan Pathan predicts bumper IPL 2026 for CSK",
-    "desc": "Chennai Super Kings aim for a record sixth IPL title in 2026, bolstered by Sanju Samson's arrival. Experts believe Samson's aggressive batting and presence will ease pressure on captain Ruturaj Gaikwad and solve CSK's opening woes. The team also appears to be building for the future with a mix of youth and experience.",
-    "img": "https://static.toiimg.com/photo/msid-129549825,imgsize-355707.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/dhonis-support-sanju-samsons-help-will-irfan-pathan-predicts-bumper-ipl-2026-for-csk/articleshow/129549279.cms",
-    "time": "2026-03-13T10:46:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'CSK is incomplete without him': Pathan drops big statement on Dhoni's IPL future",
-    "desc": "Former India all-rounder Irfan Pathan believes this IPL season could be MS Dhoni's last for Chennai Super Kings. Pathan emphasized Dhoni's crucial role in team unity and grooming future leaders, even if his playing time is limited. He suggested CSK aims for a title win to give the legend a fitting farewell.",
-    "img": "https://static.toiimg.com/photo/msid-129548784,imgsize-150564.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-is-incomplete-without-him-irfan-pathan-drops-big-statement-on-ms-dhonis-ipl-future/articleshow/129548729.cms",
-    "time": "2026-03-13T10:23:33.000Z"
-  },
-  {
     "cat": "World",
     "title": "China passes new ethnic minority law, prioritise use of Mandarin language",
     "desc": "Called \"Promoting Ethnic Unity and Progress\", the ethnic minority law aims to forge national unity ‌and advance the rejuvenation of the Chinese nation with the Chinese Communist Party (CCP) at its core, a draft copy of the law showed",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-international/3va4w6/article70737070.ece/alternates/LANDSCAPE_1200/China-passes-neG4PFN51MC.3.jpg.jpg",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-international/h5hjci/article70737070.ece/alternates/LANDSCAPE_1200/China-passes-neG4PFN51MC.3.jpg.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-passes-new-ethnic-minority-law-prioritise-use-of-mandarin-language/article70736694.ece",
     "time": "2026-03-13T08:02:52.000Z"
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-geeta-gandbhir-indian-origin-nominated-documentary-feature-the-perfect-neighbor-the-devil-is-busy/article70730362.ece",
     "time": "2026-03-11T09:23:08.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Lessons from India’s C-DOT saga for technology development",
-    "desc": "The Centre for Development of Telematics heralded a communications revolution by developing indigenous rural telephone exchange technology; however, in the three months of K.P. Unnikrishnan as Minister for Communications, the project was derailed and a mass exodus of scientists began",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/lessons-from-indias-c-dot-saga-for-technology-development/article70726867.ece",
-    "time": "2026-03-11T07:03:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sivaji Ganesan’s gift of baby elephant to American children and his U.S. visit as state guest",
-    "desc": "Sivaji Ganesan was invited to the United States as part of the U.S.–India Cultural Exchange Programme. During the trip, Sivaji was treated as a state guest, assigned two officials to assist him, and given a daily allowance of $160, a considerable sum at the time.",
-    "img": "https://th-i.thgim.com/public/incoming/3tl29a/article70728264.ece/alternates/LANDSCAPE_1200/HP120884.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/sivaji-ganesan-gift-of-baby-elephant-to-american-children-and-his-us-visit-as-state-guest-in-1962/article70728245.ece",
-    "time": "2026-03-11T07:02:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka Mohan on how filming ‘Made In Korea’ was an experience to cherish",
-    "desc": "Ahead of the release of Netflix’s cross-cultural project ‘Made in Korea’, we speak to Priyanka Arul Mohan and director Ra Karthik about filming in Seoul, working with a Korean cast and crew, and how the film felt like a journey of discovery",
-    "img": "https://th-i.thgim.com/public/life-and-style/k2jnfj/article70726606.ece/alternates/LANDSCAPE_1200/MadeInKorea_Netflix_343A3229_6593.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/priyanka-mohan-on-how-filming-made-in-korea-was-an-experience-to-cherish/article70726397.ece",
-    "time": "2026-03-11T06:47:35.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Criticism, satire of PM, UGC regulations target of government takedowns on X, Instagram",
-    "desc": "The most up-to-date takedown stats from Meta show that the Instagram and Facebook parent took down three times as much content in response to government orders in January–June 2025 than in the same period in 2023",
-    "img": "https://th-i.thgim.com/public/incoming/jzjtu8/article70727515.ece/alternates/LANDSCAPE_1200/2025-12-09T031523Z_863589627_RC2QCIAR4COP_RTRMADP_3_AUSTRALIA-SOCIALMEDIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/criticism-satire-of-pm-ugc-regulations-target-of-government-takedowns-on-x-instagram/article70727083.ece",
-    "time": "2026-03-11T02:35:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Formula One Australian GP",
-    "desc": "The race at Albert Park was a battle of wits, speed and a whole load of battery management; Mercedes’ lead driver Russell grabbed his moments to set the tone for the year, with the Ferraris breathing down his neck",
-    "img": "https://th-i.thgim.com/public/sport/26vhky/article70728203.ece/alternates/LANDSCAPE_1200/GettyImages-2265353502.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/motorsport/formula-one-australian-grand-prix-2026-review/article70728191.ece",
-    "time": "2026-03-10T17:39:52.000Z"
   }
 ];

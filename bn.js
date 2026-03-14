@@ -1,12 +1,21 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ইরানের 'মুকুটের রত্ন' খার্গকে বোমায় ছারখার করল আমেরিকা, মধ্যপ্রাচ্যের ইতিহাস বদলে দেবে এই হামলা?",
+    "desc": "মার্কিন সেন্ট্রাল কম্যান্ড মধ্যপ্রাচ্যের ইতিহাসের অন্যতম শক্তিশালী বোমা হামলা চালিয়েছে ইরানের “মুকুটের রত্ন” বলে পরিচিত খার্গ দ্বীপে। সেখানকার সব সামরিক ঘাঁটি সম্পূর্ণ ধ্বংস করা হয়েছে। মাত্র প্রায় ২০ বর্গকিলোমিটার আয়তনের ছোট্ট দ্বীপ খার্গ আইল্যান্ড ইরানের অর্থনীতিতে কেন এত গুরুত্বপূর্ণ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/us-bombs-iran-crown-jewel-kharg-island-trump-says-most-powerful-raid-in-middle-east-history_644815.html ",
+    "time": "2026-03-14T06:03:38.000Z"
+  },
+  {
     "cat": "Business",
     "title": "গ্যাস বুক করেও সিলিন্ডার পাচ্ছেন না? এক ফোনে অভিযোগ! e-KYC-র নয়া নির্দেশিকা জারি",
     "desc": "দেশজুড়ে এলপিজি গ্যাস সরবরাহ নিয়ে বিভিন্ন সময়ে অভিযোগ সামনে আসছে। বিশেষ করে বুকিং করার পরেও অনেক ক্ষেত্রে সময়মতো সিলিন্ডার না পাওয়ার অভিযোগ তুলছেন গ্রাহকেরা। এই পরিস্থিতিতে গ্রাহকদের সুবিধার জন্য একাধিক হেল্পলাইন নম্বর চালু করেছে গ্যাস সংস্থাগুলি।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/LPG-Crisis-2026-03-87cffb08d7cd668948498632d5400922-1200x800.jpg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/lpg-gas-booking-cylinder-is-not-available-even-after-gas-booking-one-phone-complaint-with-new-guidelines-for-e-kyc-l18-sdg-local18-2584420.html",
-    "time": "2026-03-14T04:36:46.000Z"
+    "time": "2026-03-14T04:42:01.000Z"
   },
   {
     "cat": "Politics",
@@ -529,15 +538,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/petrol-diesel-rule-india-how-many-liters-of-petrol-and-diesel-can-a-common-man-buy-the-rules-will-surprise-you-for-sure-check-out-what-law-says-amid-trending-fuel-crisis-sanj-2578058.html",
     "time": "2026-03-10T12:24:26.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ইরানের স্কুলের ১৭৫ শিশুকে 'খুন' করেছে আমেরিকাই? তদন্তে বেরিয়ে এল হাড়হিম তথ্য",
-    "desc": "ইরানের মিনাব শহরে প্রাথমিক বিদ্যালয়ে ক্ষেপণাস্ত্র হামলার কথা অস্বীকার করেই যাচ্ছেন মার্কিন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তাঁর দাবি ছিল, যুদ্ধের মধ্যে ইরানের ক্ষেপণাস্ত্রই আঘাত হানে স্কুলটিতে, যাতে দেড়শোরও বেশি শিশু নিহত হয়। তবে, তদন্তে নতুন করে যে-তথ্য় বেরিয়ে এল তা বিস্ময়কর!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/us-attacked-iran-school-death-toll-175-donald-trump_644395.html ",
-    "time": "2026-03-10T12:08:37.000Z"
   },
   {
     "cat": "Entertainment",
