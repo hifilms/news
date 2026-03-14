@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "દેશની સૌથી સસ્તી ઇલેક્ટ્રિક કાર પર મળી રહ્યું છે 60,000 રૂપિયાનું ડિસ્કાઉન્ટ, જાણો નવી કિંમત",
+    "desc": "MG મોટર ઇન્ડિયાએ માર્ચ 2026 માટે તેની કાર પર ડિસ્કાઉન્ટની જાહેરાત કરી છે. આ ડિસ્કાઉન્ટ સ્કીમમાં કંપનીની ઓફરોમાં Comet EV - દેશની સૌથી સસ્તી ઇલેક્ટ્રિક કારનો સમાવેશ થાય છે. કંપની આ મોડેલ પર 60,000 સુધીનું ડિસ્કાઉન્ટ આપી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/electric-car-discount-mg-comet-ev-discount-rs-60000-in-march-2026-468540 ",
+    "time": "2026-03-14T08:58:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કરોડો ખેડૂતોને મળ્યા 86400000000 કરોડ, તમારા ખાતામાં પૈસા આવ્યા કે નહીં? હવે શું કરશો?",
+    "desc": "પ્રધાનમંત્રી મોદીએ ગઈકાલે પીએમ કિસાન સન્માન નિધિની રાહ જોઈ રહેલા ખેડૂતોને એક મહત્વપૂર્ણ ભેટ આપી. 13 માર્ચ, 2026 ના રોજ, પ્રધાનમંત્રીએ આસામના ગુવાહાટીથી પીએમ કિસાન સન્માન નિધિ યોજનાનો ૨૨મો હપ્તો રજૂ કર્યો. 22મા હપ્તામાં, કુલ ₹18,640 કરોડ ડીબીટી દ્વારા આશરે 9 કરોડ પાત્ર ખેડૂતોના બેંક ખાતામાં ટ્રાન્સફર કરવામાં આવ્યા. દરેક લાભાર્થી ખેડૂતને ₹2,000 નો હપ્તો મળ્યો. પીએમ મોદીએ એક મુખ્ય કાર્યક્રમ દરમિયાન ડિજિટલી હપ્તો રજૂ કર્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/prime-minister-modi-yesterday-gave-an-important-message-to-the-farmers-waiting-for-pm-kisan-samman-nidhi-468535 ",
+    "time": "2026-03-14T08:53:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શુભમન ગિલની T20 વર્લ્ડ કપ પોસ્ટ પર બબાલ, ફોટામાંથી સંજુ ગાયબ, ચાહકોએ ઉઠાવ્યા સવાલ",
+    "desc": "ટીમ ઈન્ડિયાના T20 વર્લ્ડ કપ સેલિબ્રેશનના એક ફોટાને લઈને સોશિયલ મીડિયા પર વિવાદ શરૂ થયો છે. શુભમન ગિલ દ્વારા શેર કરાયેલા ઇન્સ્ટાગ્રામ ફોટામાં સંજુ સેમસન દેખાતો નથી, જેના કારણે ચાહકો દાવો કરી રહ્યા છે કે આ ફોટો એડિટ કરવામાં આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shubman-gill-instagram-photo-sanju-samson-missing-t20-world-cup-celebration-468534 ",
+    "time": "2026-03-14T08:30:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "છઠ્ઠી ઓવરના બીજા બોલ પર એવું તે શું થયું કે પાકિસ્તાની ખેલાડીને અચાનક છોડવું પડ્યું મેદાન, સ્ટ્રેચર પર લઈ જવાયો હોસ્પિટલ",
+    "desc": "બાંગ્લાદેશ સામેની બીજી વનડે દરમિયાન પાકિસ્તાનના ઓલરાઉન્ડર હુસૈન તલતને ફિલ્ડિંગ કરતી વખતે ગંભીર ઈજા થઈ હતી. તેના ખભામાં ઈજા થઈ હતી, જેના કારણે તેને તાત્કાલિક સ્ટ્રેચર પર મેદાનની બહાર લઈ જવામાં આવ્યો હતો અને ત્યારબાદ તેને હોસ્પિટલમાં લઈ જવામાં આવ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/hussain-talat-taken-to-hospital-due-to-injury-during-fielding-in-2nd-odi-pak-vs-ban-468528 ",
+    "time": "2026-03-14T07:14:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "1, 2 નહીં ઓટીટી પર આ વીકમાં જોવા જેવી છે 6 ફિલ્મો અને વેબ સીરીઝ, ચેક કરી લો લિસ્ટ",
+    "desc": "શનિ-રવિમાં પરિવાર સાથે ઓટીટી પર નવી નવી ફિલ્મો અને વેબ સીરીઝ જોવાનો શોખ ધરાવતા લોકો માટે આ જાણકારી ખાસ છે. માર્ચ મહિનાના આ વીકમાં ઓટીટી પર 6 ફિલ્મો અને વેબ સીરીઝ રિલીઝ થઈ છે જે તમે વીકેન્ડમાં પરિવાર સાથે જોઈ શકો છો. તો ફટાફટ ચેક કરી લો આ લિસ્ટ અને નક્કી કરી લો તમે શું જોવાના છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/ott-release-march-2026-weekend-release-on-netflix-hotstar-and-amazon-sankalp-zootopia-2-468526 ",
+    "time": "2026-03-14T06:46:22.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ધરમ કરતાં ધાડ પડી ! પાકિસ્તાની ક્રિકેટર આપવા ગયો બોલ અને થઈ ગયો રન આઉટ",
     "desc": "પાકિસ્તાનની ટીમ ત્રણ મેચની ODI શ્રેણી રમવા માટે બાંગ્લાદેશના પ્રવાસે છે, જેની બીજી મેચ મીરપુરના સ્ટેડિયમમાં રમાઈ હતી. આ મેચમાં પાકિસ્તાનનો ખેલાડી સલમાન આગા જે રીતે રન આઉટ થયો તે ચર્ચાનો મુખ્ય વિષય બન્યો છે.",
@@ -333,24 +378,6 @@ const newsData_gu = [
     "time": "2026-03-12T06:47:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ગુજરાત ટાઈટન્સનું ફુલ શેડ્યૂલ જાહેર ! જાણો ક્યારે અને કોની સામે રમાશે પ્રથમ મેચ",
-    "desc": "IPL 2026નું શેડ્યૂલ જાહેર કરવામાં આવ્યું છે. ચૂંટણીના કારણે સંપૂર્ણ શેડ્યૂલ જાહેર કરવામાં આવ્યું નથી. પ્રથમ 20 મેચોનું જ શેડ્યૂલ જાહેર કરાયું છે. ત્યારે આ દરમિયાન ગુજરાતની કેટલી મેચો રમાશે અને પ્રથમ મેચ કોની સામે રમાશે તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-schedule-gujarat-titans-match-date-time-and-venue-468222 ",
-    "time": "2026-03-12T06:20:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI આપેલી 131 કરોડની ઈનામી રકમ ખેલાડીઓ વચ્ચે કેવી રીતે વહેંચાશે ? જાણો દરેકના ભાગે કેટલા આવશે",
-    "desc": "ભારતીય ક્રિકેટ ટીમે ફાઇનલમાં ન્યુઝીલેન્ડને 95 રને હરાવીને ત્રીજી વખત T20 વર્લ્ડ કપ જીત્યો હતો. જે બાદ બોર્ડે ટીમ માટે રૂપિયા 131 કરોડની ઇનામી રકમની જાહેરાત કરી હતી. ત્યારે આ રકમ ટીમના ખેલાડીઓ વચ્ચે કેવી રીતે વહેંચાશે અને દરેકના ભાગે કેટલા આવશે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/how-would-bcci-131-crore-reward-will-be-devided-between-team-india-players-468216 ",
-    "time": "2026-03-12T05:20:24.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઈરાનના હુમલામાં ભારતીયનું મોત, અમેરિકી તેલ ટેન્કરને બનાવ્યું નિશાન, સ્યુસાઇડ બોટથી મારી ટક્કર",
     "desc": "સેફસી વિષ્ણુ નામનું આ તેલ ટેન્કર ખોર અલ ઝુબૈર પોર્ટ જઈ રહ્યું હતું. આ દરમિયાન તેના પર હુમલો થયો હતો. આ વિસ્તાર ઇરાકના જળક્ષેત્રમાં આવે છે. ઈરાન-અમેરિકા યુદ્ધમાં લગભગ આ પ્રથમ ઘટના છે, જ્યારે કોઈ ભારતીયે જીવ ગુમાવ્યો છે.",
@@ -484,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/mojtaba-khamenei-springs-into-action-immediately-upon-becoming-supreme-leader-what-did-he-write-on-the-missile-fired-at-israel-468040 ",
     "time": "2026-03-10T18:13:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "LPG બાદ હવે હવાઈ મુસાફરી થઈ મોંઘી, એર ઈન્ડિયાએ ટિકિટ પર ફ્યુઅલ સરચાર્જમાં કર્યો વધારો",
-    "desc": "ઈરાન યુદ્ધના કારણે પશ્ચિમ એશિયામાં વધેલા તણાવની અસર હવે ભારતમાં હવાઈ મુસાફરી પર પણ જોવા મળી રહી છે. જેટ ઈંધણના વધતા ભાવને કારણે એર ઈન્ડિયાએ તેની ટિકિટો પર ફ્યુઅલ સરચાર્જ વધારવાનો નિર્ણય લીધો છે. આ નિર્ણય બાદ મુસાફરોએ ડોમેસ્ટિક અને ઈન્ટરનેશનલ ફ્લાઈટ્સ માટે 400થી 3000 રૂપિયા સુધીની વધુ કિંમત ચૂકવવી પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/after-lpg-air-travel-now-becomes-more-expensive-air-india-hikes-fuel-surcharge-on-tickets-468039 ",
-    "time": "2026-03-10T17:48:18.000Z"
   },
   {
     "cat": "World",
@@ -646,14 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/ola-electric-bike-becomes-cheaper-than-super-splendor-467139 ",
     "time": "2026-03-04T07:43:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "પુષ્પાની સામે આવશે આર્યનું સત્ય, પોતે જ તોડી નાખશે અનુનું ઘર, જાણો",
-    "desc": "ટીવી સીરિયલ તુમ સે તુમ તકમાં, પુષ્પા તેની પુત્રી અને આર્યા વચ્ચેનો સંબંધ તોડવાની છે. પુષ્પા આર્યા વિશે એક મોટું સત્ય શોધવાની છે, જે અનુને આર્યાથી દૂર કરવા તરફ લઈ જશે. આ વળાંક કહાનીને બદલવા જઈ રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/tumm-se-tumm-tak-pushpa-will-know-arya-truth-she-will-destroy-anu-relation-know-this-467049 ",
-    "time": "2026-03-03T11:10:45.000Z"
   }
 ];

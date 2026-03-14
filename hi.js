@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer hails Jasprit Bumrah as poster boy of Indian cricket after recent success",
+    "desc": "There is no doubt that the Indian team is the most successful side in world cricket currently. Having won the Champions Trophy 2025, the Indian team came into the T20 World Cup 2026 as the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-hails-jasprit-bumrah-as-poster-boy-of-indian-cricket-after-recent-success-2026-03-14-1033755",
+    "time": "2026-03-14T08:22:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill, Rahul Dravid among those to be honoured on March 15",
+    "desc": "The BCCI (Board of Control for Cricket in India) is all set to host its annual Naman Awards. The ceremony will be held on March 15, and several stars from Indian cricket will be in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-naman-awards-2026-shubman-gill-rahul-dravid-among-those-to-be-honoured-on-march-15-2026-03-14-1033748",
+    "time": "2026-03-14T07:09:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Iran hits back at Donald Trump's 'life and safety' comments ahead of FIFA World Cup 2026",
     "desc": "The FIFA World Cup 2026 is looming on the horizon; the marquee tournament is all set to be co-hosted by the USA, Mexico, and Canada. With the ongoing West Asia war, the participation of Iran...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/hockey/india-women-qualify-for-hockey-world-cup-beat-italy-1-0-in-qualifiers-semi-final-manisha-chauhan-stars-2026-03-13-1033709",
     "time": "2026-03-13T17:02:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kuldeep Yadav's wedding festivities begin, Yuzvendra Chahal steals show with dance",
-    "desc": "Celebrations surrounding the wedding of India spinner Kuldeep Yadav are underway in the hill town of Mussoorie, where friends, family members and celebrities have begun gathering for the multi-day festivities. The picturesque destination in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kuldeep-yadav-s-wedding-festivities-begin-yuzvendra-chahal-steals-show-with-dance-watch-2026-03-13-1033708",
-    "time": "2026-03-13T16:12:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former cricketer urges 'fittest, meanest and strongest' Rohit Sharma to not play as Impact Sub in IPL 2026",
-    "desc": "Since India’s ODI series against New Zealand earlier this year, Rohit Sharma has been training intensively, focusing on fitness ahead of the ODI World Cup 2027. The upcoming IPL season offers the five-time title-winning captain...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-cricketer-backs-fittest-meanest-and-strongest-rohit-sharma-to-play-all-40-overs-in-ipl-2026-03-13-1033703",
-    "time": "2026-03-13T15:36:36.000Z"
   }
 ];

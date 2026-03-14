@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "মোজতবার খোঁজ দিলে মোটা পুরস্কার! খামেনেই পুত্রের মাথার দাম কত ধার্য করলেন ডোনাল্ড ট্রাম্প?",
+    "desc": "ইরানের নতুন সর্বোচ্চ নেতার মাথার দাম ঠিক করল আমেরিকা৷ মার্কিন বিদেশ দফতরের পক্ষ থেকে শুক্রবার ঘোষণা করা হয়, মোজতবা-সহ আরও বেশ কিছু ইরানের শীর্ষ নেতার খোঁজ দিলে মিলবে প্রায় ১০ মিলিয়ন ডলার (প্রায় ৯২ কোটি ৪৭ লক্ষ টাকা) পুরস্কার৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Iran-War-1-2026-03-cd767df2ef2177262c5a8fe911e06e04-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/us-has-set-bounty-information-on-mojtaba-khamenei-iran-us-israel-war-update-ank-2584903.html",
+    "time": "2026-03-14T09:07:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "সুখবর! গ্যাসের আকাল ঘুচবে এবারই! ‘শিবালিক’-এর পর হরমুজ প্রণালী পেরোল এলপিজি ক্যারিয়ার ‘নন্দা দেবী’, দু’দিনের মধ্যে পৌঁছতে পারে ভারতে!",
+    "desc": "উপসাগরীয় অঞ্চলের উত্তেজনার মাঝেই ভারতের জন্য বড় স্বস্তির খবর। ভারতের দ্বিতীয় এলপিজি ক্যারিয়ার ‘নন্দা দেবী’ সফলভাবে হরমুজ প্রণালী অতিক্রম করে উন্মুক্ত সমুদ্রে প্রবেশ করেছে। সরকারি সূত্রে জানা গিয়েছে, ৪৬ হাজার মেট্রিক টনেরও বেশি এলপিজি বোঝাই জাহাজটিকে এখন ভারতীয় নৌসেনা নিরাপত্তা দিয়ে ভারতের দিকে এগিয়ে নিয়ে যাচ্ছে এবং আগামী দু’দিনের মধ্যেই এটি মুম্বই বা কাণ্ডলা বন্দরে পৌঁছতে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/ship-2026-03-3f076e7715c8ce583a31647ec9c6e81d-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/cooking-gas-crisis-may-solved-nanda-devi-lpg-carrier-exits-strait-of-hormuz-under-indian-navy-escort-to-reach-india-soon-tib-2584816.html",
+    "time": "2026-03-14T08:19:26.000Z"
+  },
+  {
+    "cat": "World",
     "title": "ইরানের 'মুকুটের রত্ন' খার্গকে বোমায় ছারখার করল আমেরিকা, মধ্যপ্রাচ্যের ইতিহাস বদলে দেবে এই হামলা?",
     "desc": "মার্কিন সেন্ট্রাল কম্যান্ড মধ্যপ্রাচ্যের ইতিহাসের অন্যতম শক্তিশালী বোমা হামলা চালিয়েছে ইরানের “মুকুটের রত্ন” বলে পরিচিত খার্গ দ্বীপে। সেখানকার সব সামরিক ঘাঁটি সম্পূর্ণ ধ্বংস করা হয়েছে। মাত্র প্রায় ২০ বর্গকিলোমিটার আয়তনের ছোট্ট দ্বীপ খার্গ আইল্যান্ড ইরানের অর্থনীতিতে কেন এত গুরুত্বপূর্ণ?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -268,15 +286,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/iran-israel-conflict-saudi-crude-vessel-docks-in-mumbai-first-india-bound-tanker-via-strait-of-hormuz-since-us-iran-war-rm-2581366.html",
     "time": "2026-03-12T08:14:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "টানা ২০ বছর অপেক্ষার পর একেবারে মাথা লক্ষ্য করে গুলি, ফারুক আবদুল্লার উপরে হামলাকারী কে এই ব্যক্তি?",
-    "desc": "বুধবার সন্ধেয় খুব অল্পের জন্য রক্ষা পেলেন জম্মু ও কাশ্মীরের রাজ্যপাল ফারুক আবদুল্লা। জম্মুর গ্রেটার কৈলাসে একটি বিয়েবাড়িতে তাকে লক্ষ্য় করে গুলি চালিয়ে দেয় এক ব্যক্তি। ভাগ্য়ক্রমে ফারুকের দেহরক্ষীরা হামলাকারীকে মুহূর্তে সরিয়ে দেন। প্রাণে বেঁচে যান ফারুক আবদুল্লা। ন্যাশনাল কনফারেন্সের লিগ্যাল সেলের প্রেসিডেন্টের মেয়ের বিয়েতে যোগ দিতে গিয়েছিলেন ফারুক আবদুল্লা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/know-kamal-singh-jamwal-who-tried-to-assassinate-farooq-abdullah_644608.html ",
-    "time": "2026-03-12T06:44:27.000Z"
   },
   {
     "cat": "World",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/international/hormuz-blockade-us-reaches-out-to-india-for-russian-oil-help-to-lower-petrol-prices-hormuz-energy-secretary-chris-wright-ss-2572873.html",
     "time": "2026-03-07T04:52:41.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "আমেরিকা-ইরান যুদ্ধ সপ্তম দিনে! ইরানের ক্ষেপণাস্ত্র হামলা, ইজরায়েলের পাল্টা আঘাত! সংঘাতে জড়াল লেবাননও",
-    "desc": "মধ্যপ্রাচ্যে যুদ্ধের আগুন ক্রমশ ছড়িয়ে পড়ছে। মার্কিন যুক্তরাষ্ট্র, ইজরায়েল এবং ইরানের সংঘাত সপ্তম দিনে পৌঁছে আরও তীব্র হয়ে উঠেছে। একের পর এক ক্ষেপণাস্ত্র হামলা, পাল্টা বিমান আক্রমণ এবং নতুন নতুন দেশ এই সংঘাতে জড়িয়ে পড়ায় গোটা পশ্চিম এশিয়া জুড়ে উদ্বেগ বাড়ছে। ইরান, ইজরায়েল, লেবানন থেকে গালফের একাধিক দেশে যুদ্ধের সরাসরি বা পরোক্ষ প্রভাব পড়তে শুরু করেছে। সামরিক সংঘর্ষের পাশাপাশি কূটনৈতিক উত্তেজনাও চরমে পৌঁছেছে, যা আন্তর্জাতিক রাজনীতিতে নতুন অনিশ্চয়তার ইঙ্গিত দিচ্ছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/war-latest-news-2026-03-fd96f984fc876274a2fcd028918e7f20-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/us-iran-war-enters-seventh-day-intense-attacks-in-tehran-iran-entered-day-7-with-t-fresh-missile-strikes-on-the-military-bases-of-the-two-countries-in-west-asia-tib-ws-el-2572800.html",
-    "time": "2026-03-07T03:25:31.000Z"
   }
 ];
