@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "IPL શરૂ થાય તે પહેલા CSK સામે કેસ દાખલ, MS ધોનીની ટીમ મુશ્કેલીમાં, જાણો શું છે સમગ્ર મામલો",
+    "desc": "IPL 2026ની શરૂઆત પહેલા CSK વિરુદ્ધ કેસ નોંધાયો છે. આ સિઝનમાં CSK તેમની શરૂઆતની મેચમાં રાજસ્થાન રોયલ્સ સામે ટકરાશે. ત્યારે CSK સામે શેનો કેસ નોંધાયો છે અને આ સમગ્ર મામલો શું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/csk-embroiled-in-legal-battle-with-sun-tv-over-copyright-infringement-before-ipl-2026-468591 ",
+    "time": "2026-03-14T12:06:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સાહેબ.... પત્નીની હત્યા કરી આવ્યો છું.... કલ્યાણમાં પત્નીને પતાવી નાસિક પોલીસ સ્ટેશન પહોંચ્યો પતિ",
+    "desc": "કલ્યાણમાં એક વ્યક્તિએ કથિત રીતે પોતાની પત્નીનું ગળું દબાવી હત્યા કરી દીધી અને બાદમાં નાસિક પહોંચી ગયો, જ્યાં તેણે એક પોલીસ સ્ટેશનમાં પહોંચી પોતાનો ગુનો કબૂલ કર્યો હતો. આરોપીની ઓળખ વિશાલ ભુતકરના રૂપમાં થઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/husband-reached-nashik-police-station-after-wife-murder-in-kalyan-468587 ",
+    "time": "2026-03-14T11:42:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "હવે સમય આવી ગયો છે... અજિંક્ય રહાણે છોડશે કેપ્ટનશીપ ? કોણ સંભાળશે KKRની જવાબદારી ? થઈ ગયું કન્ફર્મ",
+    "desc": "IPL 2026માં કોલકાતા નાઈટ રાઈડર્સ ટીમની કમાન કોણ સંભાળશે ? આ સસ્પેન્સ આખરે સમાપ્ત થઈ ગયું છે. અજિંક્ય રહાણેની કેપ્ટનશીપ હેઠળ ગયા વર્ષે KKRનું પ્રદર્શન અત્યંત નિરાશાજનક હતું. ટીમ પોઈન્ટ ટેબલ પર આઠમા સ્થાને રહી હતી. જો કે, ફ્રેન્ચાઇઝીએ અનુભવી ખેલાડી પર પોતાનો વિશ્વાસ જાળવી રાખવાનો નિર્ણય લીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ajinkya-rahane-breaks-silence-on-kkr-captaincy-suspense-in-ipl-2026-468583 ",
+    "time": "2026-03-14T11:10:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "16 માર્ચે ખુલ્લી રહ્યો છે આ મેઈનબોર્ડ IPO, કંપનીએ એન્કર રોકાણકારો પાસેથી એકત્ર કર્યા 120 કરોડ, જાણો GMP",
+    "desc": "આ કંપનીનો આઈપીઓ 16 માર્ચના રોજ રોકાણ કરવા માટે ખુલ્લી રહ્યો છે, આ IPO મેઈનબોર્ડ છે, રોકાણકારોને ઓછામાં ઓછા 14,720 રૂપિયાનું રોકાણ કરવું પડશે. કંપનીએ 46 શેરનો એક લોટ બનાવ્યો છે. ચાલો આ IPOના GMP વિશે જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/upcoming-ipo-this-mainboard-ipo-is-open-on-march-16-company-raised-120-crores-from-anchor-investors-know-gmp-468575 ",
+    "time": "2026-03-14T10:54:48.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "OMG! શું દુનિયામાંથી સોનું ખતમ થઈ જશે? સોનાના શોખીનો આ વાત ખાસ જાણો",
+    "desc": "સોના અને ચાંદીના ભાવ જોઈએ તો છેલ્લા કેટલાક સમયથી જબરદસ્ત ઉછાળો જોવા મળી રહ્યો છે. હવે સોના વિશે એવી વાતો પણ થઈ રહી છે કે શું સોનું હવે ખતમ થઈ જશે? જાણો આ સવાલનો જવાબ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/will-the-world-face-gold-cricis-in-future-gold-lovers-should-know-the-answer-468565 ",
+    "time": "2026-03-14T10:33:12.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "દેશની સૌથી સસ્તી ઇલેક્ટ્રિક કાર પર મળી રહ્યું છે 60,000 રૂપિયાનું ડિસ્કાઉન્ટ, જાણો નવી કિંમત",
     "desc": "MG મોટર ઇન્ડિયાએ માર્ચ 2026 માટે તેની કાર પર ડિસ્કાઉન્ટની જાહેરાત કરી છે. આ ડિસ્કાઉન્ટ સ્કીમમાં કંપનીની ઓફરોમાં Comet EV - દેશની સૌથી સસ્તી ઇલેક્ટ્રિક કારનો સમાવેશ થાય છે. કંપની આ મોડેલ પર 60,000 સુધીનું ડિસ્કાઉન્ટ આપી રહી છે.",
@@ -351,24 +396,6 @@ const newsData_gu = [
     "time": "2026-03-12T09:30:22.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026 શરૂ થાય તે પહેલા જ વિવાદ, સિઝનની પહેલી મેચ પર મંડરાઈ રહ્યો છે ખતરો",
-    "desc": "IPL 2026 28 માર્ચથી શરૂ થવા જઈ રહી છે. ત્યારે ટુર્નામેન્ટ શરૂ થાય તે પહેલા જ નવી મુશ્કેલી સર્જાઈ છે. IPL 2026ની પહેલી મેચ રોયલ ચેલેન્જર્સ બેંગ્લોર અને સનરાઇઝર્સ હૈદરાબાદ વચ્ચે બેંગ્લોરના એમ ચિન્નાસ્વામી સ્ટેડિયમ ખાતે રમાશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-rcb-vs-srh-first-match-in-problem-due-to-bengaluru-m-chinnaswamy-stadium-468259 ",
-    "time": "2026-03-12T08:53:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આ મારી મોટી ભૂલ હતી... ટીમમાંથી બહાર કરાતાં ગુસ્સામાં હતો આ ખેલાડી, સૂર્યાને માંગવી પડી હતી માફી",
-    "desc": "દક્ષિણ આફ્રિકા સામેની મેચમાં અક્ષર પટેલનો પ્લેઇંગ ઇલેવનમાં સમાવેશ કરવામાં આવ્યો નહોતો. ભારતીય ટીમનો તે મેચમાં કારમી હારનો સામનો કરવો પડ્યો હતો. સૂર્યકુમાર યાદવે અક્ષર પટેલને પ્લેઇંગ ઇલેવનમાંથી બહાર કરવાની પોતાની ભૂલ સ્વીકારી હતી અને અક્ષર પટેલે ગુસ્સે થતાં માફી પણ માંગી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/suryakumar-yadav-apologises-dropping-axar-patel-vs-south-africa-in-t20-world-cup-468238 ",
-    "time": "2026-03-12T07:12:08.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "3.70 લાખની કાર પર 42500 રૂપિયાનું બમ્પર ડિસ્કાઉન્ટ, મળશે 33.85 km/kg માઇલેજ",
     "desc": "જો તમને કહીએ કે 4 લાખ રૂપિયાથી સસ્તી કાર પર તમને 40 હજાર રૂપિયાથી વધુની છૂટ મળી રહી છે તો તમે લગભગ વિશ્વાસ નહીં કરો, પરંતુ માર્ચના મહિનામાં આ સંભવ થઈ રહ્યું છે. મારૂતિની સસ્તી કાર અલ્ટો કે10 પર બમ્પર ડિસ્કાઉન્ટ મળી રહ્યું છે.",
@@ -511,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/mojtaba-khamenei-springs-into-action-immediately-upon-becoming-supreme-leader-what-did-he-write-on-the-missile-fired-at-israel-468040 ",
     "time": "2026-03-10T18:13:17.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "નોસ્ટ્રાડેમસની ઈરાન-અમેરિકા યુદ્ધ પર ખતરનાક ભવિષ્યવાણી, જણાવ્યું કોણ જીતશે જંગ? બદલાશે વૈશ્વિક સમીકરણ",
-    "desc": "ચીનના ઇતિહાસકાર જિયાંગ ઝુકિનની જૂની ભવિષ્યવાણીઓ સોશિયલ મીડિયા પર વાયરલ થઈ રહી છે. તેમણે ભવિષ્યવાણી કરી હતી કે ડોનાલ્ડ ટ્રમ્પ 2024માં સત્તામાં પાછા ફરશે અને યુએસ-ઈરાન સંઘર્ષ વધશે. હવે, ત્રીજી ભવિષ્યવાણી પણ ચર્ચામાં છે. ચાલો તેના વિશે જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/nostradamus-dangerous-prediction-on-iran-america-war-told-who-will-win-the-war-the-global-equation-will-change-467999 ",
-    "time": "2026-03-10T11:37:03.000Z"
   },
   {
     "cat": "Tech",

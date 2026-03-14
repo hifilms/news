@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "সিপিএম নেতাদের সহায়তায়, বহু বাধা কাটিয়ে বিয়ে সারলেন মহাকুম্ভের ভাইরাল মোনালিসা... রইল বিয়ের অদেখা ছবি",
+    "desc": "কুম্ভমেলায় ভাইরাল হয়েছিলেন বেশ কয়েকজন সাধু, তাঁদের মধ্যে ছিলেন আইআইটি বাবা। ঠিক তেমন সকলের নজর কেড়েছিলেন এই মেয়ে। কুম্ভমেলায় মালা বিক্রি করতে দেখা যায় এক শ্যামলা রঙের মেয়েকে। হাতে বড় ব্যাগে নানা রকমের মালা নিয়ে সে ঘুরছিল মেলায়। সেই মালা বিক্রেতাকে নিয়ে মুহূর্তে তৈরি হয় শোরগোল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1773410492_bfbc-2026-03-426d7f08f35ac8793560ee39b6b5c5e3-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/off-beat/i-am-18-viral-mahakumbh-girl-monalisa-on-marrying-farman-khan-rmj-2584044.html",
+    "time": "2026-03-14T12:31:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ফিক্সিংয়ের কালো ছায়া! চেষ্টা করেছিলেন চরম শাস্তি দিল বিসিসিআই, আজীবন নির্বাসনের খাঁড়া নেমে এল",
+    "desc": "গিরিনাথ রেড্ডি এসিইউ-তে দেওয়া তাঁর বিবৃতিতে বলেছেন যে ম্যাচের একদিন আগে রাজা রেড্ডি তাঁর কাছে প্লেয়িং ইলেভেন সম্পর্কে তথ্য চেয়েছিলেন এবং ২ ওভারে ৫ রান দেওয়ার বিনিময়ে তাকে ৫ লক্ষ টাকা (৫০০,০০০ টাকা) অফার করেছিলেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/BCCI-2026-03-fc38c5061737a637d88842283d52035a-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/bcci-ban-bcci-bans-video-analyst-raja-reddy-for-life-for-attempting-to-corruption-in-ranji-trophy-dd-2585203.html",
+    "time": "2026-03-14T12:12:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "AC ঘরে বসে আমি কত বড় দাদা, কী দাদাগিরি করতে পারি- এসব ছেড়ে টেকনিশিয়ানদের কথা ভাবুন: দেব 'বিশ্বাসে' টলিউডে তুলকালাম",
+    "desc": "শনিবার সকাল থেকেই স্টুডিও চত্বরে তিল ধারণের জায়গা ছিল না। দেবের এই উদ্যোগের পাশে দাঁড়াতে হাজির হয়েছিলেন অভিনেত্রী কোয়েল মল্লিক, পরিচালক সুদেষ্ণা রায়, লীনা গঙ্গোপাধ্যায়, অভিজিৎ গুহ এবং শান্তিলাল মুখোপাধ্যায়। তবে এরই মাঝে সামনে এল টলিউডের বিভাজনও। অভিযোগ উঠেছে, এই শিবিরে কার্ড করাতে এলে টেকনিশিয়ানদের ‘ব্যান’ করা বা কাজ কেড়ে নেওয়ার হুমকি দেওয়া হয়েছিল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/dev-attacks-swarup-biswas-over-tollywood-technician-health-card_644872.html ",
+    "time": "2026-03-14T11:59:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "চরম দুঃসংবাদ এবার সত্যি, আইপিএল থেকে ছিটকে গেলেন হর্ষিত রানা, কোন বদলি ক্রিকেটারদের তাক করছে কেকেআর",
+    "desc": "কলকাতা নাইট রাইডার্সের (কেকেআর) পেসার হর্ষিত রানা ২৮ মার্চ থেকে শুরু হতে যাওয়া আসন্ন ইন্ডিয়ান প্রিমিয়ার লিগ (আইপিএল) থেকে ছিটকে গেছেন বলে জানা গেছে। ফেব্রুয়ারিতে টি-টোয়েন্টি বিশ্বকাপের আগে দক্ষিণ আফ্রিকার বিপক্ষে একটি প্রস্তুতি ম্যাচে হাঁটুতে চোট পাওয়ার পর থেকে রানা মাঠের বাইরে রয়েছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Harshit-Rana-2026-03-6c4f29622f57d5a20ab0061b3bdaf389-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/harshit-rana-replacement-these-3-players-can-replace-injured-harshit-rana-in-kkr-ipl-2026-money-grewal-akash-madhwal-dd-2584901.html",
+    "time": "2026-03-14T10:08:01.000Z"
+  },
+  {
     "cat": "World",
     "title": "মোজতবার খোঁজ দিলে মোটা পুরস্কার! খামেনেই পুত্রের মাথার দাম কত ধার্য করলেন ডোনাল্ড ট্রাম্প?",
     "desc": "ইরানের নতুন সর্বোচ্চ নেতার মাথার দাম ঠিক করল আমেরিকা৷ মার্কিন বিদেশ দফতরের পক্ষ থেকে শুক্রবার ঘোষণা করা হয়, মোজতবা-সহ আরও বেশ কিছু ইরানের শীর্ষ নেতার খোঁজ দিলে মিলবে প্রায় ১০ মিলিয়ন ডলার (প্রায় ৯২ কোটি ৪৭ লক্ষ টাকা) পুরস্কার৷",
@@ -70,15 +106,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/lpg-gas-cyllinder-rule-booking-crosses-75-lakhs-if-you-hide-gas-in-your-house-or-warehouse-you-can-be-jailed-important-guidelines-on-gas-cyllinder-crisis-sanj-2584127.html",
     "time": "2026-03-13T16:09:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "সিপিএম নেতাদের সহায়তায়, বহু বাধা কাটিয়ে বিয়ে সারলেন মহাকুম্ভের ভাইরাল মোনালিসা... রইল বিয়ের অদেখা ছবি",
-    "desc": "কুম্ভমেলায় ভাইরাল হয়েছিলেন বেশ কয়েকজন সাধু, তাঁদের মধ্যে ছিলেন আইআইটি বাবা। ঠিক তেমন সকলের নজর কেড়েছিলেন এই মেয়ে। কুম্ভমেলায় মালা বিক্রি করতে দেখা যায় এক শ্যামলা রঙের মেয়েকে। হাতে বড় ব্যাগে নানা রকমের মালা নিয়ে সে ঘুরছিল মেলায়। সেই মালা বিক্রেতাকে নিয়ে মুহূর্তে তৈরি হয় শোরগোল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1773410492_bfbc-2026-03-426d7f08f35ac8793560ee39b6b5c5e3-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/off-beat/i-am-18-viral-mahakumbh-girl-monalisa-on-marrying-farman-khan-rmj-2584044.html",
-    "time": "2026-03-13T14:48:44.000Z"
   },
   {
     "cat": "Politics",
@@ -711,15 +738,6 @@ const newsData_bn = [
     "time": "2026-03-09T08:08:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "ঘুমের মধ্যেই চিরবিদায়, প্রয়াত অভিনেতা-নাট্য ব্যক্তিত্ব তমাল রায়চৌধুরী; শোকস্তব্ধ বিনোদন জগত",
-    "desc": "চিরঘুমে পাড়ি দিলেন বর্ষীয়ান অভিনেতা ও নির্দেশক তমাল রায়চৌধুরী। ‘জাতিস্মর’ থেকে ‘চাঁদের পাহাড়’— তাঁর অভিনয় দক্ষতা মুগ্ধ করেছে বারবার। সোমবার ভোরে ঘুমের মধ্যেই হৃদরোগে আক্রান্ত হয়ে শেষ নিঃশ্বাস ত্যাগ করেন তিনি। তাঁর অমলিন রসবোধ আর অদম্য প্রাণশক্তি আজ কেবলই স্মৃতি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/veteran-bengali-actor-tamal-raychaudhuri-passes-away-kolkata_644193.html ",
-    "time": "2026-03-09T07:48:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "গালে চুম্বন, জয়ের রাতে মাঠেই গলা জড়িয়ে আদর! ‘আমার স্ত্রী পাশে না থাকলে,’ প্রেমিকা মাহিকাকে নিয়ে সাহসী ‘ঘোষণা’ হার্দিকের",
     "desc": "ভারতের তিন তারকা ব্যাটারের হাতে শেষ কিউয়ি বোলিং। অভিষেক শর্মা ২১ বলে ৫২, ৪৬ বলে ৮৯ রান সঞ্জু স্যামসনের, ২৫ বলে ৫৪ রান ঈশান কিষাণের। তিন ব্যাটারের তাণ্ডবের সামনে অসহায় দেখাচ্ছিল লকি ফার্গুসন, ম্যাট হেনরিদের। ভারতের রান শেষ হয় ২৫৫-তে। ৫ উইকেটে।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/the-punjab-and-haryana-high-court-has-acquitted-dera-chief-gurmeet-ram-rahim-singh-in-the-murder-case-of-journalist-ramchandra-chhatrapati-ank-2573244.html",
     "time": "2026-03-07T07:57:22.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "'অস্ত্র উৎপাদন ৪ গুণ করা হোক'! গোলা-বারুদের সীমাহীন মজুত নিয়ে আশ্বস্ত করলেন ট্রাম্প, প্রতিরক্ষা সংস্থাগুলির সঙ্গে বৈঠকের দাবি!",
-    "desc": "মধ্যপ্রাচ্যে ইরানকে ঘিরে চলা সংঘাতের আবহেই মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প বড় ঘোষণা করলেন। তিনি জানিয়েছেন, যুক্তরাষ্ট্রের শীর্ষ প্রতিরক্ষা উৎপাদনকারী সংস্থাগুলির সঙ্গে বৈঠকের পর উন্নত অস্ত্র উৎপাদন দ্রুত বাড়ানোর সিদ্ধান্ত নেওয়া হয়েছে। ট্রাম্প তাঁর সোশ্যাল মিডিয়া প্ল্যাটফর্মে পোস্ট করে জানান, বৈঠকে অংশ নেওয়া সংস্থাগুলি ‘এক্সকুইজিট ক্লাস’ বা অত্যাধুনিক অস্ত্রশস্ত্রের উৎপাদন চারগুণ বাড়াতে সম্মত হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-07-at-10.42.22-AM-2026-03-3e2ed9855a1000eb50ee28f8f7d8b5b5-1200x800.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/us-president-donald-trump-announces-quadrupling-of-arms-production-amid-iran-israel-tensions-here-is-why-meeting-arranged-tib-ws-l-2572974.html",
-    "time": "2026-03-07T05:13:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "হরমুজ প্রণালী দিয়ে তেল আমদানি ধাক্কা খেলে ভারতে জ্বালানির দামে আগুন লাগতে পারে ! রাশিয়া থেকেও জ্বালানি আমদানি বাড়াল ভারত",
-    "desc": "হরমুজ প্রণালী বেশি দিন বন্ধ থাকলে ভারতের অর্থনীতি চাপে পড়ে যাবে। রফতানি মার খাবে। ধাক্কা খাবে তেল আমদানি। তখন সব জিনিসেরই দাম বাড়ার আশঙ্কা। হরমুজ প্রণালী বন্ধে অর্থনীতি চাপে ! হরমুজ বন্ধের প্রভাব ভারতের বাজারে ! চা থেকে চাল...ধাক্কা খেতে পারে রফতানি ৷ তেল আমদানিও ধাক্কা খাওয়ার আশঙ্কা ৷ ভারতে বেড়ে যেতে পারে জ্বালানির দাম ৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Hormuz-Blocked-2026-03-45c7cbf3262820a5989b28163a6ae002-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/hormuz-blockade-us-reaches-out-to-india-for-russian-oil-help-to-lower-petrol-prices-hormuz-energy-secretary-chris-wright-ss-2572873.html",
-    "time": "2026-03-07T04:52:41.000Z"
   }
 ];

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan selector Aaqib Javed makes bizarre comparison",
+    "desc": "Pakistan selector Aaqib Javed sparked a massive debate today, calling Jasprit Bumrah 'the Usman Tariq of fast bowlers'. He was the joint-leading wicket-taker of the recently T20 World Cup during India's triump, accounting for 14...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-is-usman-tariq-of-fast-bowlers-pakistan-selector-aaqib-javed-makes-bizarre-comparison-2026-03-14-1033776",
+    "time": "2026-03-14T11:52:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC reprimands Salman Agha for on-field outburst following controversial run-out vs Bangladesh in 2nd ODI",
+    "desc": "The International Cricket Council (ICC) reprimanded Salman Ali Agha for his outburst following the controversial run-out dismissal in the second ODI of the three-match series against Bangladesh. The ICC match referee, Neeyamur Rashid, charged him...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-reprimands-salman-agha-for-on-field-outburst-following-controversial-run-out-vs-bangladesh-in-2nd-odi-2026-03-14-1033769",
+    "time": "2026-03-14T11:07:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch T20I series live on TV and online in India?",
+    "desc": "The stage is set for New Zealand and South Africa to lock horns in a five-game T20I series. It is worth noting that the men’s and the women’s teams will play alongside each other, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-vs-south-africa-when-and-where-to-watch-t20i-series-live-on-tv-and-online-in-india-2026-03-14-1033761",
+    "time": "2026-03-14T09:30:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer hails Jasprit Bumrah as poster boy of Indian cricket after recent success",
     "desc": "There is no doubt that the Indian team is the most successful side in world cricket currently. Having won the Champions Trophy 2025, the Indian team came into the T20 World Cup 2026 as the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/salman-ali-agha-reflects-on-his-controversial-dismissal-after-2nd-odi-win-against-bangladesh-2026-03-14-1033723",
     "time": "2026-03-14T01:30:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "F1 races in Bahrain, Saudi Arabia set to be cancelled amid West Asia war, Audi reacts",
-    "desc": "Formula One races in the Middle East next month are expected to be scrapped as the region faces escalating military tensions. The Bahrain and Saudi Arabian Grand Prixes, scheduled for April, are now widely anticipated...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/formula-1/f1-races-in-bahrain-saudi-arabia-set-to-be-cancelled-amid-west-asia-war-audi-reacts-2026-03-13-1033716",
-    "time": "2026-03-13T18:19:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 cricketers who can replace Harshit Rana in KKR squad for IPL 2026, after reports of pacer's injury",
-    "desc": "Kolkata Knight Riders suffered a major blow ahead of the IPL 2026, as their star all-rounder Harshit Rana is likely to be ruled out of the entire season. He was expected to share the death-over...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/3-cricketers-who-can-replace-harshit-rana-in-kkr-squad-for-ipl-2026-after-reports-of-pacer-s-injury-2026-03-13-1033714",
-    "time": "2026-03-13T17:53:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India women qualify for Hockey World Cup, beat Italy 1-0 in qualifiers semi-final, Manisha Chauhan stars",
-    "desc": "India women’s team has qualified for the 2026 FIH Hockey World Cup after defeating Italy 1–0 in the semi-final of the qualifiers in Hyderabad on Friday. Manisha Chauhan, in the third quarter, converted a penalty...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/india-women-qualify-for-hockey-world-cup-beat-italy-1-0-in-qualifiers-semi-final-manisha-chauhan-stars-2026-03-13-1033709",
-    "time": "2026-03-13T17:02:21.000Z"
   }
 ];
