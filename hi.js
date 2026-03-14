@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'What if this doesn't go well?': England fast bowler contemplating retirement due to slow recovery from injury",
+    "desc": "England fast bowler Mark Wood seems to be contemplating retirement as he slowly recovers from a knee injury sustained during the Ashes. He made his comeback in the Test format in the first Ashes Test...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-if-this-doesn-t-go-well-england-fast-bowler-contemplating-retirement-due-to-slow-recovery-from-injury-2026-03-14-1033795",
+    "time": "2026-03-14T15:14:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'No consistency from them': Anil Kumble highlights wrong decisions taken by KKR ahead of IPL 2026",
+    "desc": "Former India cricketer Anil Kumble has highlighted the wrong decision taken by the Kolkata Knight Riders (KKR) after winning the Indian Premier League (IPL) for the third time in 2024. They failed to make it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/no-consistency-from-them-anil-kumble-highlights-wrong-decisions-taken-by-kkr-ahead-of-ipl-2026-2026-03-14-1033790",
+    "time": "2026-03-14T14:18:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Were Babar Azam and Fakhar Zaman injured during the T20 World Cup? PCB to probe into matter",
+    "desc": "Pakistan Cricket is never short of drama and controversy. The press conference from the Pakistan selectors has triggered a massive debate in the country as Aaqib Javed claimed that Babar Azam and Fakhar Zaman were...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/were-babar-azam-and-fakhar-zaman-injured-during-the-t20-world-cup-pcb-to-probe-into-matter-2026-03-14-1033782",
+    "time": "2026-03-14T13:00:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan selector Aaqib Javed makes bizarre comparison",
     "desc": "Pakistan selector Aaqib Javed sparked a massive debate today, calling Jasprit Bumrah 'the Usman Tariq of fast bowlers'. He was the joint-leading wicket-taker of the recently T20 World Cup during India's triump, accounting for 14...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/stupidest-team-michael-vaughan-slams-south-africa-after-india-s-t20-world-cup-2026-triumph-2026-03-14-1033735",
     "time": "2026-03-14T04:40:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Robin Uthappa weighs in on Vaibhav Suryavanshi's potential ahead of IPL 2026",
-    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee event is all set to kick off on March 28, and with the tournament looming on the horizon, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/robin-uthappa-weighs-in-on-vaibhav-suryavanshi-s-potential-ahead-of-ipl-2026-2026-03-14-1033731",
-    "time": "2026-03-14T03:39:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aiden Markram set to lead Manchester Super Giants in The Hundred 2026 after huge payday",
-    "desc": "After becoming the highest-paid overseas signing in The Hundred 2026 auction, South Africa’s Aiden Markram is all set to lead Manchester Super Giants in the upcoming season of the tournament. It is worth noting that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-set-to-lead-manchester-super-giants-in-the-hundred-2026-after-huge-payday-2026-03-14-1033726",
-    "time": "2026-03-14T02:20:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Salman Ali Agha reflects on his controversial dismissal after 2nd ODI win against Bangladesh",
-    "desc": "The 2nd ODI of the ongoing series between Pakistan and Bangladesh saw Pakistan register a comfortable victory. The side managed to defeat Bangladesh by 128 runs and levelled the series going into the third ODI....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/salman-ali-agha-reflects-on-his-controversial-dismissal-after-2nd-odi-win-against-bangladesh-2026-03-14-1033723",
-    "time": "2026-03-14T01:30:06.000Z"
   }
 ];

@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "શું નેતન્યાહૂની થઈ ગઈ છે હત્યા ? ઈરાની દૂતાવાસે આપ્યું પહેલું નિવેદન, જાણી લો કેમ ઉઠી છે આ ચર્ચા",
+    "desc": "ઈરાન સાથે ચાલી રહેલા યુદ્ધ વચ્ચે, ઈરાની સોશિયલ મીડિયા પ્લેટફોર્મ પર ઈઝરાયલના વડા પ્રધાન બેન્જામિન નેતન્યાહૂની હત્યાની અફવાઓ ફેલાઈ રહી છે. આ દરમિયાન, ઈરાની દૂતાવાસે પોતાનો પહેલું નિવેદન જાહેર કર્યું છે. જોકે, ઈઝરાયેલ આ તમામ બાબતોને અફવા ગણાવી રહ્યું છે પણ આ સવાલો કેમ થઈ રહ્યાં છે જાણી લો આ આર્ટિકલમાં...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/has-benjamin-netanyahu-been-assassinated-the-first-statement-given-by-the-iranian-embassy-know-this-468611 ",
+    "time": "2026-03-14T15:24:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold-Silver Weekly Rate Explainer: સોનું-ચાંદી ઘટાડા સાથે બંધ, સરકારે લીધો એક એવો નિર્ણય...શું સસ્તું થઈ જશે સોનું? ખાસ જાણો વિગતવાર માહિતી",
+    "desc": "સપ્તાહ દરમિયાન સોના અને ચાંદીમાં ભારે ઉતાર ચડાવ જોવા મળ્યો. સપ્તાહના છેલ્લા દિવસે બંને કિંમતી ધાતુઓ ઘટાડા સાથે બંધ થઈ. અઠવાડિયામાં શું મૂવમેન્ટ રહી અને સરકારે લીધેલા એક નિર્ણયથી સોનું સસ્તું અને ચાંદી મોંઘી થઈ શકે એવું કેમ? કારણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-weekly-rate-explainer-prices-closed-with-a-decline-what-will-be-the-impact-of-the-government-decision-468610 ",
+    "time": "2026-03-14T14:00:00.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "IPL શરૂ થાય તે પહેલા CSK સામે કેસ દાખલ, MS ધોનીની ટીમ મુશ્કેલીમાં, જાણો શું છે સમગ્ર મામલો",
     "desc": "IPL 2026ની શરૂઆત પહેલા CSK વિરુદ્ધ કેસ નોંધાયો છે. આ સિઝનમાં CSK તેમની શરૂઆતની મેચમાં રાજસ્થાન રોયલ્સ સામે ટકરાશે. ત્યારે CSK સામે શેનો કેસ નોંધાયો છે અને આ સમગ્ર મામલો શું છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -529,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/america-and-israel-carried-out-the-biggest-attack-ever-iran-said-we-will-not-make-a-ceasefire-468055 ",
     "time": "2026-03-11T02:45:05.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "સુપ્રીમ લીડર બનતા જ એક્શનમાં મોજતબા, ઈઝરાયેલ પર છોડવામાં આવેલ મિસાઈલ પર શું લખ્યું?",
-    "desc": "મોજતબા ખામેનેઈ સુપ્રીમ લીડર બન્યા બાદ જાણે ઈરાની સેનામાં એક નવો ઉત્સાહ જોવા મળી રહ્યો છે. ઈઝરાયેલ અને અમેરિકાના સતત હુમલાઓ છતાં ઈરાન સખત પલટવાર કરી રહ્યું છે. હવે મોજતબાએ પણ પોતાના ઈરાદા સ્પષ્ટ કરી દીધા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/mojtaba-khamenei-springs-into-action-immediately-upon-becoming-supreme-leader-what-did-he-write-on-the-missile-fired-at-israel-468040 ",
-    "time": "2026-03-10T18:13:17.000Z"
   },
   {
     "cat": "Tech",
