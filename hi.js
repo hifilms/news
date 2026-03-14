@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kuldeep Yadav gets married to girlfriend Vanshika Singh in Mussoorie, Chahal shares pics",
+    "desc": "India cricketer Kuldeep Yadav got married today to his longtime girlfriend and fiance, Vanshika Singh, in a grand, lavish ceremony in Mussoorie, Uttarakhand. The wedding was orginally slated to happen in November 2025 but had...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kuldeep-yadav-gets-married-to-girlfriend-vanshika-singh-in-mussoorie-chahal-shares-pics-2026-03-15-1033802",
+    "time": "2026-03-14T18:49:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'What if this doesn't go well?': England fast bowler contemplating retirement due to slow recovery from injury",
     "desc": "England fast bowler Mark Wood seems to be contemplating retirement as he slowly recovers from a knee injury sustained during the Ashes. He made his comeback in the Test format in the first Ashes Test...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/iran-hits-back-at-donald-trump-s-life-and-safety-comments-ahead-of-fifa-world-cup-2026-2026-03-14-1033740",
     "time": "2026-03-14T05:52:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Stupidest team': Michael Vaughan slams South Africa after India's T20 World Cup 2026 triumph",
-    "desc": "The T20 World Cup 2026 saw the Indian team register brilliant victories and clinch their third T20 World Cup. Throughout the tournament, the Men in Blue just lost one game and went on to defeat...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/stupidest-team-michael-vaughan-slams-south-africa-after-india-s-t20-world-cup-2026-triumph-2026-03-14-1033735",
-    "time": "2026-03-14T04:40:39.000Z"
   }
 ];
