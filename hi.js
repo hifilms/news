@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Salman Ali Agha reflects on his controversial dismissal after 2nd ODI win against Bangladesh",
+    "desc": "The 2nd ODI of the ongoing series between Pakistan and Bangladesh saw Pakistan register a comfortable victory. The side managed to defeat Bangladesh by 128 runs and levelled the series going into the third ODI....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/salman-ali-agha-reflects-on-his-controversial-dismissal-after-2nd-odi-win-against-bangladesh-2026-03-14-1033723",
+    "time": "2026-03-14T01:30:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "F1 races in Bahrain, Saudi Arabia set to be cancelled amid West Asia war, Audi reacts",
     "desc": "Formula One races in the Middle East next month are expected to be scrapped as the region faces escalating military tensions. The Bahrain and Saudi Arabian Grand Prixes, scheduled for April, are now widely anticipated...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/south-africa-stupidest-team-in-t20-world-cup-should-have-eliminated-india-says-michael-vaughan-2026-03-13-1033668",
     "time": "2026-03-13T11:17:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajeev Shukla explains BCCI's stance on Sunrisers Leeds signing Pakistan's Abrar Ahmed in The Hundred",
-    "desc": "Sunrisers Leeds signed Pakistan leg-spinner Abrar Ahmed for 190,000 pounds on Thursday, March 12, for the upcoming The Hundred. The development drew significant attention, as the Indian owners have refrained from investing in Pakistani talent...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajeev-shukla-explains-bcci-s-stance-on-sunrisers-leeds-signing-pakistan-s-abrar-ahmed-in-the-hundred-2026-03-13-1033663",
-    "time": "2026-03-13T10:31:16.000Z"
   }
 ];
