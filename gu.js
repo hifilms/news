@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "કેન્દ્રીય કર્મચારીઓના પગારમાં થશે 35%નો વધારો...એરિયસને લઈને સૌથી મોટા સમાચાર",
+    "desc": "કેન્દ્ર સરકારે નવેમ્બર 2025માં 8મા કેન્દ્રીય પગાર પંચની રચના સાથે લાખો સરકારી કર્મચારીઓ અને પેન્શનરો માટે એક મોટી પ્રક્રિયા શરૂ કરી દીધી છે. આ પંચ હાલના 7મા પગાર પંચનું સ્થાન લેશે, જે વર્ષ 2016થી અમલમાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-will-minimum-pay-rise-to-rs-46000-all-you-need-to-know-468660 ",
+    "time": "2026-03-15T06:46:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ટીમના ખેલાડીઓ અભિષેક શર્માની ઈર્ષ્યા કરે છે, સંજુ સેમસને કેમ કહ્યું આવું ?",
+    "desc": "સંજુ સેમસને મજાકમાં કહ્યું કે ટીમના ખેલાડીઓ અભિષેક શર્માની લોકપ્રિયતાની ઈર્ષ્યા કરે છે. અભિષેકે પોતાની સફળતાનો શ્રેય યુવરાજ સિંહને આપ્યો અને ભવિષ્યમાં ભારત માટે વનડે અને ટેસ્ટ રમવાની ઇચ્છા વ્યક્ત કરી. તે આગામી 2026ની IPLમાં જોવા મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/get-married-soon-brother-why-did-sanju-give-advice-to-abhishek-sharma-468655 ",
+    "time": "2026-03-15T05:35:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "અબુ ધાબીની તમામ અને દુબઈની 5 ફ્લાઈટ્સ રદ: મહાજંગ વચ્ચે એર ઈન્ડિયાનો મોટો નિર્ણય",
+    "desc": "યુએઈ એરપોર્ટ ઓથોરિટીના નિર્દેશોને કારણે 15 માર્ચે દુબઈ અને અબુ ધાબી જતી મોટાભાગની એર ઈન્ડિયા અને એર ઈન્ડિયા એક્સપ્રેસ ફ્લાઇટ્સ રદ કરવામાં આવી છે. છમાંથી પાંચ દુબઈ ફ્લાઇટ્સ અને બધી અબુ ધાબી ફ્લાઇટ્સ પ્રભાવિત થઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/all-abu-dhabi-flights-and-5-dubai-flights-cancelled-air-indias-major-decision-amidst-the-major-conflict-468653 ",
+    "time": "2026-03-15T05:09:22.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "દેશમાં LPG સંકટ વચ્ચે રાહતના સમાચાર : ગેસ ભરેલા બે જહાજ જલ્દી જ ગુજરાતના દરિયા કિનારે પહોંચશે, ઈરાને આપી મંજૂરી",
     "desc": "ગેસ સંકટ વચ્ચે સામે આવ્યા રાહતના સમાચાર આવ્યા. ભારતને ઈરાને આપી મોટી રાહત આપી છે. બે LPG ટેન્કરને સ્ટ્રેટ ઓફ હોર્મુઝમાંથી પસાર થવાની મંજૂરી આપી દીધી છે. તેથી ટેન્કર શિવાલિકા અને નંદા દેવી જહાજ જલ્દી જ ગુજરાત આવી પહોંચશે. ગેસ ભરેલા બે જહાજ 16 અને 17 માર્ચે ગુજરાતના પોર્ટ પર પહોંચશે. કારણ કે, ઈરાને ભારતના બે જહાજને નીકળવાની મંજૂરી આપી. ગેસ સંકટ હોવાની અફવામાં ન આવવા સરકારની લોકોને સલાહ..",
@@ -484,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-silver-mcx-latest-and-ibja-closing-rates-middle-east-war-aaj-no-sona-chandi-no-bhav-468162 ",
     "time": "2026-03-11T13:14:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "જો ઈરાન-અમેરિકા સંઘર્ષનો અંત નહીં આવે, તો ગેસ સિલિન્ડર કેટલા મોંઘા થશે? જાણો",
-    "desc": "ઈરાન-ઈઝરાયલ તણાવ અને વૈશ્વિક સપ્લાયમાં આવેલી મુશ્કેલીને કારણે ભારતમાં LPG સિલિન્ડર મોંઘા થઈ ગયા છે. તેલ કંપનીઓએ ઘરેલું સિલિન્ડરના ભાવમાં વધારો કર્યો છે. આ વચ્ચે સરકારે ઉત્પાદન વધારવા અને ગ્રાહકોને પ્રાથમિકતા આપવાનો નિર્દેશ આપ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/iran-us-war-does-not-end-how-much-more-expensive-gas-cylinders-468145 ",
-    "time": "2026-03-11T11:45:02.000Z"
   },
   {
     "cat": "Entertainment",

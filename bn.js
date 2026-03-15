@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "‘বেঁচে থাকলে রেহাই নেই’, নেতানিয়াহুকে ‘শিশু হত্যাকারী’ বলে হুঁশিয়ারি ইরানের বিপ্লবী গার্ডের!",
+    "desc": "পশ্চিম এশিয়ায় ইরান-ইজরায়েল সংঘাত ক্রমেই তীব্র হচ্ছে। এই পরিস্থিতিতে ইজরায়েলের প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহুকে সরাসরি নিশানা করে কড়া হুঁশিয়ারি দিয়েছে ইরানের ইসলামিক রেভলিউশনারি গার্ড কর্পস (IRGC)। তাদের দাবি, নেতানিয়াহু যদি এখনও বেঁচে থাকেন, তাহলে তাঁকে খুঁজে বের করার অভিযান চালিয়ে যাবে ইরান। একই সঙ্গে তেল আভিভে ক্ষেপণাস্ত্র হামলার কথাও দাবি করেছে তারা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Netanyahu-2026-03-f6bb508f2a941265d60b5d81ad565567-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/benjamin-netanyahu-threat-irgc-vows-to-pursue-netanyahu-if-alive-amid-iran-israel-war-missile-attacks-tel-aviv-tib-2585801.html",
+    "time": "2026-03-15T06:42:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বেতন ১৩.১ লাখ টাকা, নতুন কর ব্যবস্থায় কি ১২ লাখ টাকা পর্যন্ত করমুক্ত আয়ের সুবিধা পাওয়া যাবে? জানুন এখনই",
+    "desc": "নতুন কর ব্যবস্থায় ১২ লাখ টাকা পর্যন্ত আয় করমুক্ত থাকার বিষয়টি নিয়ে অনেকের মধ্যেই বিভ্রান্তি রয়েছে। বিশেষ করে যাদের বেতন ১৩ লাখ টাকার বেশি। ১৩.১ লাখ টাকা বেতনের ক্ষেত্রে কর কত লাগবে এবং রিবেটের সুবিধা পাওয়া যাবে কি না—সহজভাবে বুঝে নিন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/income-tax-6-new-1-2026-03-ba04f8549cc4ab43700d473f984dea19-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/salary-13-point-1-lakh-rupees-can-you-still-get-tax-free-income-up-to-12-lakh-rupees-under-the-new-tax-regime-tc-dc-aa-2583118.html",
+    "time": "2026-03-15T05:53:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "৫ বছরের শেয়ার বাজার বনাম ব্যাঙ্ক FD, কোন বিনিয়োগটি বেশি লাভ দিয়েছে দেখে নিন",
+    "desc": "গত পাঁচ বছরে বিনিয়োগকারীদের মধ্যে সবচেয়ে বড় প্রশ্ন ছিল—শেয়ার বাজারে বিনিয়োগ করলে বেশি লাভ নাকি ব্যাঙ্কের FD-তে টাকা রাখলে নিরাপদ রিটার্ন? এই প্রতিবেদনে ৫ বছরের তথ্য বিশ্লেষণ করে দেখা হচ্ছে কোন বিনিয়োগটি বাস্তবে বেশি লাভ দিয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/500-rupees-68-new-2026-03-c3163340aa03550c9f7abc0ee54ca49d-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/stock-market-vs-bank-fd-in-5-years-which-investment-gave-higher-returns-tc-dc-aa-2583439.html",
+    "time": "2026-03-15T05:25:00.000Z"
+  },
+  {
+    "cat": "World",
     "title": "ইরানের নতুন সর্বোচ্চ নেতা মোজতবা খামেনেই কোথায়? তিনি কি বেঁচে আছেন আদৌ...! প্রশ্ন তুললেন ট্রাম্প",
     "desc": "ইরানের নতুন সর্বোচ্চ নেতা মুজতবা খামেনেইকে ঘিরে বাড়ছে রহস্য। তিনি আদৌ বেঁচে আছেন কি না, তা নিয়ে প্রশ্ন তুলেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। ইরান, ইজরায়েল ও যুক্তরাষ্ট্রের মধ্যে চলমান সংঘাতের মধ্যেই তাঁর এই মন্তব্য নতুন করে জল্পনা তৈরি করেছে, কারণ নতুন দায়িত্ব নেওয়ার পর থেকে মুজতবা খামেনেইকে এখনও জনসমক্ষে দেখা যায়নি।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/trump-trump-2026-03-400eeff915592c78673d3246a3dbb553-1200x800.jpg",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/israel-vs-india-how-rich-are-israelis-compared-to-indians-the-daily-income-will-surely-surprise-you-this-interesting-fact-will-shock-you-for-sure-sanj-2573271.html",
     "time": "2026-03-07T09:14:37.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "প্রতিবেশী দেশগুলিতে হামলা নিয়ে ক্ষমা চাইলেন ইরানের প্রেসিডেন্ট, বললেন, ‘আমাদের উপর হামলায় মদত না দিলে আর কোনও দেশে হামলা নয়...!’",
-    "desc": "ইরানের প্রেসিডেন্ট বলেছেন, প্রতিবেশী দেশগুলোর উপর হামলা থেকে বিরত থাকবে ইরান, যদি না সেই দেশগুলোর এলাকা থেকে ইরানের উপর হামলা চালানো হয়। “ইরান কোনও প্রতিবেশী দেশের উপর হামলা বা মিসাইল হামলা করবে না, যদি না ইরানের উপর হামলা ওই দেশগুলো থেকে শুরু হয় ৷’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Iranian-President-2026-03-f23ddb6d8fbdf271819fe965c40b5eb2-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/iran-president-apologises-to-neighbouring-countries-for-attacks-says-will-not-strike-unless-know-what-he-said-ss-2573286.html",
-    "time": "2026-03-07T08:55:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বেনামী চিঠিতে ‘বাবার কীর্তি’ ফাঁস করার পরেই গুলি করে খুন! সাংবাদিক হত্যাকাণ্ডে অভিযুক্ত ডেরা সচ্চা সৌদা প্রধান রাম রহিম বেকসুর খালাস",
-    "desc": "স্বঘোষিত ধর্মগুরু গুরমিত রাম রহিমকে নিয়ে বিতর্কিত প্রতিবেদন নিজের সংবাদপত্রে প্রকাশ করেছিলেন সাংবাদিক রামচন্দ্র ছত্রপতি৷ এর মাসখানেক পরেই তাঁকে নিজের বাড়িতে গুলি করে খুন করা হয়৷ ঘটনায় গ্রেফতার করা হয় ডেরা সচ্চা সৌদা প্রধান রাম রহিমকে৷ এবার তাঁকে বেকসুর খালাস করল পঞ্জাব এবং হরিয়ানা হাই কোর্ট৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Gurmeet-Ram-Rahim-Singh-2026-03-b2bb6f330776eb93ede26045b245746d-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/the-punjab-and-haryana-high-court-has-acquitted-dera-chief-gurmeet-ram-rahim-singh-in-the-murder-case-of-journalist-ramchandra-chhatrapati-ank-2573244.html",
-    "time": "2026-03-07T07:57:22.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "'অস্ত্র উৎপাদন ৪ গুণ করা হোক'! গোলা-বারুদের সীমাহীন মজুত নিয়ে আশ্বস্ত করলেন ট্রাম্প, প্রতিরক্ষা সংস্থাগুলির সঙ্গে বৈঠকের দাবি!",
-    "desc": "মধ্যপ্রাচ্যে ইরানকে ঘিরে চলা সংঘাতের আবহেই মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প বড় ঘোষণা করলেন। তিনি জানিয়েছেন, যুক্তরাষ্ট্রের শীর্ষ প্রতিরক্ষা উৎপাদনকারী সংস্থাগুলির সঙ্গে বৈঠকের পর উন্নত অস্ত্র উৎপাদন দ্রুত বাড়ানোর সিদ্ধান্ত নেওয়া হয়েছে। ট্রাম্প তাঁর সোশ্যাল মিডিয়া প্ল্যাটফর্মে পোস্ট করে জানান, বৈঠকে অংশ নেওয়া সংস্থাগুলি ‘এক্সকুইজিট ক্লাস’ বা অত্যাধুনিক অস্ত্রশস্ত্রের উৎপাদন চারগুণ বাড়াতে সম্মত হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-07-at-10.42.22-AM-2026-03-3e2ed9855a1000eb50ee28f8f7d8b5b5-1200x800.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/us-president-donald-trump-announces-quadrupling-of-arms-production-amid-iran-israel-tensions-here-is-why-meeting-arranged-tib-ws-l-2572974.html",
-    "time": "2026-03-07T05:13:50.000Z"
   }
 ];

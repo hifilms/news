@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New Zealand 4 down early, SA in command",
+    "desc": "New Zealand and South Africa face off in the 1st T20I of the five-game series. It is worth noting that the two sides lock horns at the Bay Oval in Mount Maunganui for the first...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-sa-1st-t20i-live-cricket-score-new-zealand-4-down-early-sa-in-command-2026-03-15-1033830",
+    "time": "2026-03-15T06:46:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Irfan Pathan gives his take on Yuzvendra Chahal's absence from team India ahead of IPL 2026",
+    "desc": "The 19th edition of the IPL (Indian Premier League) is all set to kick off on March 28. Ahead of the new season, many eyes will be set upon last year’s finalists Punjab Kings. Led...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-gives-his-take-on-yuzvendra-chahal-s-absence-from-team-india-ahead-of-ipl-2026-2026-03-15-1033827",
+    "time": "2026-03-15T06:19:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan's Abrar Ahmed to miss The Hundred 2026? Check what latest report says",
     "desc": "The Hundred 2026 auction recently concluded, and with several star players making their way into different franchises, the purchase of Pakistan’s Abrar Ahmed in the auction caught major headlines. It is worth noting that Abrar...",
     "img": "",
@@ -19,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Kevin PIetersen steps down as Delhi Capitals' mentor ahead of IPL 2026",
+    "title": "Kevin Pietersen steps down as Delhi Capitals' mentor ahead of IPL 2026",
     "desc": "The 19th edition of the IPL (Indian Premier League) is all set to kick off on March 28. Ahead of the new season of the tournament, former England cricketer Kevin Pietersen took to social media...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/were-babar-azam-and-fakhar-zaman-injured-during-the-t20-world-cup-pcb-to-probe-into-matter-2026-03-14-1033782",
     "time": "2026-03-14T13:00:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan selector Aaqib Javed makes bizarre comparison",
-    "desc": "Pakistan selector Aaqib Javed sparked a massive debate today, calling Jasprit Bumrah 'the Usman Tariq of fast bowlers'. He was the joint-leading wicket-taker of the recently T20 World Cup during India's triump, accounting for 14...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-is-usman-tariq-of-fast-bowlers-pakistan-selector-aaqib-javed-makes-bizarre-comparison-2026-03-14-1033776",
-    "time": "2026-03-14T11:52:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC reprimands Salman Agha for on-field outburst following controversial run-out vs Bangladesh in 2nd ODI",
-    "desc": "The International Cricket Council (ICC) reprimanded Salman Ali Agha for his outburst following the controversial run-out dismissal in the second ODI of the three-match series against Bangladesh. The ICC match referee, Neeyamur Rashid, charged him...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-reprimands-salman-agha-for-on-field-outburst-following-controversial-run-out-vs-bangladesh-in-2nd-odi-2026-03-14-1033769",
-    "time": "2026-03-14T11:07:39.000Z"
   }
 ];

@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Venezuela opposition leader denounces 'selective' amnesty",
+    "desc": "The amnesty law was passed by interim leader Delcy Rodriguez under pressure from Washington after U.S. forces captured former leader Nicolas Maduro in January and took him to New York to face drug trafficking charges",
+    "img": "https://th-i.thgim.com/public/incoming/a6ysnx/article70745661.ece/alternates/LANDSCAPE_1200/2026-03-12T235208Z_733393899_RC273KADOSZZ_RTRMADP_3_CHILE-VENEZUELA-MACHADO.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/venezuela-opposition-leader-denounces-selective-amnesty/article70745658.ece",
+    "time": "2026-03-15T06:48:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "China may face closer scrutiny in U.S. forced-labour probe: GTRI",
+    "desc": "India's exports of solar panels, electronics, and garments to the U.S. may also face closer scrutiny under this new U.S. investigation into forced labour in global supply chains, says the Global Trade Research Initiative (GTRI)",
+    "img": "https://th-i.thgim.com/public/incoming/6cegqy/article70745913.ece/alternates/LANDSCAPE_1200/ajay1_7.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/china-may-face-closer-scrutiny-in-us-forced-labour-probe-gtri/article70745889.ece",
+    "time": "2026-03-15T06:43:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All you need to know about Oscars 2026",
+    "desc": "Get ready for the 98th Academy Awards on March 16th! Hosted by Conan O'Brien for the second year, the 2026 Oscars will feature performances by Josh Groban, Misty Copeland, and a K-Pop collaboration. Tune in to ET, ABC, E!, or stream on Hulu. Indian viewers can catch the action on JioHotstar starting 4 AM IST.",
+    "img": "https://static.toiimg.com/photo/msid-129585746,imgsize-63702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-guide-how-to-watch-where-to-stream-host-presenters-and-more/articleshow/129585746.cms",
+    "time": "2026-03-15T06:36:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Of the young, for the young’: The grainy charm of restored dreams in Pradip Krishen’s ‘In Which Annie Gives It Those Ones’",
+    "desc": "Watching the film in 2026 feels almost utopian as it carries the beat of a college campus where students are allowed to falter and the pressures of becoming are not so much as the pleasures of being",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/42zgix/article70742417.ece/alternates/LANDSCAPE_1200/In%20Which.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/pradip-krishens-in-which-annie-gives-it-those-ones-arundhati-roy-red-lorry-film-festival-2026/article70742395.ece",
+    "time": "2026-03-15T06:33:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Patrick J. Adams reveals secret to happy marriage",
+    "desc": "In a heartfelt conversation, Patrick J. Adams, the lead of 'The Madisson', revealed the foundation of his ten-year marriage to Troian Bellisario. Their relationship, which began with their wedding in 2016 and blossomed with three children, thrives on mutual respect, open communication, and a shared commitment to one another.",
+    "img": "https://static.toiimg.com/photo/msid-129585610,imgsize-85090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/patrick-j-adamss-secret-to-a-happy-marriage-with-troian-bellisario-putting-the-other-person-before-what-you-need/articleshow/129585610.cms",
+    "time": "2026-03-15T06:16:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump says U.S. strikes ‘demolished’ Iran’s Kharg Island, warns of more attacks",
+    "desc": "U.S. President Donald Trump said the U.S. ​strikes had “totally demolished” most of Kharg Island and warned that more could follow, telling NBC News, “We may hit it a few more times ⁠just for fun.”",
+    "img": "https://th-i.thgim.com/public/incoming/ds07l7/article70745809.ece/alternates/LANDSCAPE_1200/2026-03-13T040354Z_1222123882_RC2ZVJAO5DEE_RTRMADP_3_IRAN-CRISIS-TRUMP-STRATEGY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-says-us-strikes-demolished-irans-kharg-island-warns-of-more-attacks/article70745798.ece",
+    "time": "2026-03-15T06:11:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump’s forced labour probe: China faces closest scrutiny; what does it mean for India?",
+    "desc": "India's solar panel, electronics, and garment exports face heightened US scrutiny following a new trade probe into forced labor in global supply chains. The investigation, covering 60 economies including India, examines goods made with forced labor or using inputs from such sources. This could impact Indian exporters reliant on Chinese components, demanding stricter documentation and compliance.",
+    "img": "https://static.toiimg.com/photo/msid-129585575,imgsize-2492835.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/trumps-forced-labour-probe-china-faces-closest-scrutiny-what-does-it-mean-for-india/articleshow/129585373.cms",
+    "time": "2026-03-15T06:10:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Trisha spotted with Parthiban’s daughter Keerthana",
+    "desc": "Actress Trisha Krishnan was recently photographed with Keerthana Parthiban at a wedding, sparking considerable social media interest. This appearance follows a public disagreement between Trisha and Keerthana's father, R. Parthiban, over a remark made about Trisha's role in 'Ponniyin Selvan'. The photos, taken at a 'Ponniyin Selvan' team event, showcase a friendly interaction, drawing attention amidst the ongoing discussion.",
+    "img": "https://static.toiimg.com/photo/msid-129585530,imgsize-258036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-spotted-with-parthibans-daughter-keerthana-at-a-wedding-after-the-controversial-kundavai-remark/articleshow/129585530.cms",
+    "time": "2026-03-15T06:09:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "International status for Madurai airport will draw more tourists, pilgrims, says Union Minister",
+    "desc": "Formally according the status to Madurai airport, Civil Aviation Minister Kinjarapu Rammohan Naidu says the move will also help create more jobs and greatly boost hospitality, MSME, and agricultural sectors in the district; he also inaugurates new air traffic control tower set up at cost of ₹94 crore",
+    "img": "https://th-i.thgim.com/public/incoming/oebthi/article70743624.ece/alternates/LANDSCAPE_1200/Minister%20Rammohan%20Naidu-02.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Madurai/international-status-for-madurai-airport-will-draw-more-tourists-pilgrims-says-union-minister/article70743337.ece",
+    "time": "2026-03-15T06:08:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why did the SC allow passive euthanasia?",
+    "desc": "What test did the Supreme Court apply in the Harish Rana case to decide if continuing treatment was in his best interest? What nuanced distinction did it provide between active and passive euthanasia? What have been India’s past positions on the right to die?",
+    "img": "https://th-i.thgim.com/public/incoming/4uqbwp/article70744586.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%204.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-did-the-sc-allow-passive-euthanasia-explained/article70744584.ece",
+    "time": "2026-03-15T06:03:35.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. identifies six service members killed in plane crash over Iraq",
+    "desc": "The airmen were on a KC-135 aerial refuelling ‌tanker supporting U.S. attacks on Iran. The crash ‌involved another aircraft, but was ‌not ⁠the result of ⁠hostile or friendly fire and is under investigation, the military has said",
+    "img": "https://th-i.thgim.com/public/incoming/i4xmxg/article70745843.ece/alternates/LANDSCAPE_1200/Iran_US_Plane_Down_40612.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-identifies-six-service-members-killed-in-plane-crash-over-iraq/article70745820.ece",
+    "time": "2026-03-15T06:02:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Laxman-Dravid magic and his 'out-of-the-box' spell",
+    "desc": "Twenty-five years on, Sachin Tendulkar revisits India's iconic 2001 Eden Gardens Test win against Australia. He recalls the team's belief after a Mumbai defeat, the magic of Laxman and Dravid's partnership, and his own surprise bowling spell that broke Australia's resistance. This victory significantly boosted India's confidence and remains a career highlight.",
+    "img": "https://static.toiimg.com/photo/msid-129585335,imgsize-257650.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sachin-tendulkar-on-eden-2001-steve-waughs-mighty-aussies-laxman-dravid-magic-and-his-out-of-the-box-spell/articleshow/129585317.cms",
+    "time": "2026-03-15T05:49:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ram Gopal Varma talks about ‘Dhurandhar’ success",
+    "desc": "Filmmaker Ram Gopal Varma is championing Aditya Dhar's 'Dhurandhar', asserting it has revolutionized Indian storytelling and will challenge South Indian cinema's dominance. Varma believes the film's success, especially with the upcoming 'Dhurandhar 2', sets a new benchmark, potentially overshadowing traditional South Indian productions. He suggests this shift could redefine the industry's future.",
+    "img": "https://static.toiimg.com/photo/msid-129585300,imgsize-32232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-weighs-in-on-dhurandhars-success-says-pushpa-and-kgf-created-the-shift-but-dhurandhar-reversed-it/articleshow/129585300.cms",
+    "time": "2026-03-15T05:45:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Big B and Jr AB will be a part': RGV confirms 'Sarkar 4'",
+    "desc": "Renowned director Ram Gopal Varma has officially announced the development of 'Sarkar 4,' with the script finalized and filming expected to kick off in mid-2026. The iconic duo of Amitabh Bachchan and Abhishek Bachchan will reprise their legendary roles in this eagerly awaited political thriller, making a triumphant return to the franchise after a decade-long hiatus. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129585149,imgsize-113748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/both-amitabh-bachchan-and-abhishek-bachchan-will-be-a-part-ram-gopal-varma-confirms-sarkar-4/articleshow/129585149.cms",
+    "time": "2026-03-15T05:42:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fire breaks out at Nature Bazaar in south Delhi, around 50 shops gutted",
+    "desc": "According to the DFS, a call regarding the blaze was received at 7.37 a.m., following which 10 fire tenders were rushed to the spot to control the flames. No injury to anyone has been reported so far.",
+    "img": "https://th-i.thgim.com/public/news/national/vmc523/article70745773.ece/alternates/LANDSCAPE_1200/vbk-stock-fire-pixabay.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-fire-nature-bazar-several-shops-gutted-updates/article70745768.ece",
+    "time": "2026-03-15T05:36:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "HPV vaccination roll out, climate change, metabolic diseases and more",
+    "desc": "In this episode of Health Wrap, senior health journalists Ramya Kannan and Zubeda Hamid discuss the week’s important developments in public health. This episode looks at the rollout of Human papillomavirus (HPV) vaccination across States in India to prevent cervical cancer, which continues to claim thousands of lives each year.",
+    "img": "https://th-i.thgim.com/public/incoming/5hds/article70745821.ece/alternates/LANDSCAPE_1200/Final1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shows/watch-hpv-vaccination-roll-out-climate-change-metabolic-diseases-and-more-health-wrap/article70745826.ece",
+    "time": "2026-03-15T05:33:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I don't believe in this edge'",
+    "desc": "Former India captain Rohit Sharma lauded the men's and women's cricket teams for their recent World Cup victories, expressing hope they will maintain this winning momentum. He emphasized hard work and the contributions of \"people behind the scenes\" for the teams' successes. Sharma also encouraged T20 Mumbai league players to seize opportunities and praised the MCA for reviving the league.",
+    "img": "https://static.toiimg.com/photo/msid-129585115,imgsize-40022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharma-on-mumbai-vs-rest-debate-i-dont-believe-in-this-edge/articleshow/129585095.cms",
+    "time": "2026-03-15T05:20:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Aadu 2': Director confirms 'Part 2' will be the epic conclusion",
+    "desc": "One Last Ride', releasing in two parts. Director Midhun Manuel Thomas confirmed the finale, explaining the narrative's need for extensive world-building across timelines. The first part arrives March 19, 2026, promising an epic end to Shaji Pappan's saga.",
+    "img": "https://static.toiimg.com/photo/msid-129585040,imgsize-221884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aadu-2-update-midhun-manuel-thomas-confirms-part-2-will-be-the-epic-conclusion-of-jayasuryas-popular-franchise/articleshow/129585040.cms",
+    "time": "2026-03-15T05:14:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bridesmaids' reunion brings playful vibes to rehearsals",
+    "desc": "A-listers traded red-carpet polish for casual attire during rehearsals for the 98th Academy Awards. The 'Bridesmaids' cast reunited for a comedic bit, while stars like Javier Bardem and Adrien Brody honed their presentations. The venue buzzed with activity as crew finalized preparations for Hollywood's big night.",
+    "img": "https://static.toiimg.com/photo/msid-129585049,imgsize-1080412.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-rehearsals-turn-playful-as-bridesmaids-reunion-lights-up-theatre-ahead-of-big-night/articleshow/129585054.cms",
+    "time": "2026-03-15T05:13:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "About Mohanlal's three residences",
+    "desc": "South Indian superstar Mohanlal, a veteran actor since 1978, owns impressive residences in Ooty, Kochi, and Dubai. His Kochi home boasts a traditional waterfront bungalow and a modern duplex, while his Ooty property serves as a peaceful holiday villa. The actor also possesses a luxurious Dubai apartment, reflecting his global investments and successful career.",
+    "img": "https://static.toiimg.com/photo/msid-129585026,imgsize-99190.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlals-real-estate-inside-drishyam-3-stars-luxurious-properties-in-kochi-ooty-dubai-and-their-jaw-dropping-features/articleshow/129585026.cms",
+    "time": "2026-03-15T05:13:00.000Z"
+  },
+  {
     "cat": "Business",
     "title": "How will Americans pay for the Iran war as oil prices soar",
     "desc": "Global oil markets are on edge as the Strait of Hormuz, a vital shipping lane, faces closure due to ongoing conflict. Analysts warn of soaring fuel prices, potentially reaching $150 a barrel, impacting transportation costs and leading to higher prices for consumers. This instability could also pressure the US economy, increasing inflation and recession risks.",
@@ -36,6 +216,15 @@ const newsData_en = [
     "time": "2026-03-15T04:30:31.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Jeweller arrested in IDFC First Bank fraud case in Haryana; 12th arrest",
+    "desc": "The case pertains to private lender IDFC First Bank, which had disclosed a ₹590 crore fraud involving certain employees and others at its Chandigarh branch in a set of accounts held by the Haryana government",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/jeweller-arrested-in-idfc-first-bank-fraud-case-in-haryana-12th-arrest/article70744622.ece",
+    "time": "2026-03-15T04:29:02.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Top 3 special moments to take place",
     "desc": "The 98th Academy Awards are set to dazzle with a glamorous evening of surprises and cherished memories. Expect touching remembrances of cinematic legends, including an exclusive reunion of the iconic stars from 'When Harry Met Sally.' Additionally, fans can rejoice at the anticipated reunions of cast members from 'The Devil Wears Prada' and 'Bridesmaids.",
@@ -46,7 +235,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "EC likely to announce assembly polls schedule for five states",
+    "title": "Election Commission likely to announce assembly polls schedule for five states",
     "desc": "The Election Commission is set to announce the schedule for assembly elections in West Bengal, Assam, Tamil Nadu, Kerala, and Puducherry today. The upcoming polls are expected to involve fewer phases, particularly in West Bengal, with a substantial increase in central forces deployment. Supplementary voter lists for West Bengal will also be published following the adjudication of 'doubtful' voter cases.",
     "img": "https://static.toiimg.com/photo/msid-129584664,imgsize-1210827.cms",
     "src": "indiatimes.com",
@@ -92,7 +281,7 @@ const newsData_en = [
   {
     "cat": "Business",
     "title": "Air India cancels, IndiGo reschedules flights after UAE restricts ops",
-    "desc": "Air India and IndiGo are experiencing significant flight disruptions to the UAE, particularly Dubai, due to operational restrictions stemming from the West Asia crisis. Both airlines have cancelled multiple flights and are offering rebooking or refunds to affected passengers. These changes coincide with rising aviation fuel prices, leading airlines to implement fuel surcharges",
+    "desc": "Air India and IndiGo are experiencing significant flight disruptions to the UAE due to operational restrictions stemming from the West Asia crisis. Both airlines have cancelled multiple flights and are offering rebooking or refunds to affected passengers. These changes coincide with rising aviation fuel prices, leading airlines to implement fuel surcharges..",
     "img": "https://static.toiimg.com/photo/msid-129584495,imgsize-30480.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/dubai-air-travel-disruptions-air-india-cancels-indigo-reschedules-flights-after-uae-restricts-operations/articleshow/129584467.cms",
@@ -133,6 +322,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indias-dna-is-to-win-trophies-ours-is-to-lose-rashid-latif-tears-into-pakistan-cricket/articleshow/129584330.cms",
     "time": "2026-03-15T03:29:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "On ‘Muthu Engira Kaattaan’ and his secret to staying fit at 60",
+    "desc": "Actor Milind Soman speaks about returning to Tamil film industry with the web-series ‘Muthu Engira Kaattaan’, working with Vijay Sethupathi and filmmaker M Manikandan, and why consistency is the secret to staying fit at 60",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/fgmlpe/article70742956.ece/alternates/LANDSCAPE_1200/Milind%20Soman.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/milind-soman-interview-muthu-engira-kaattaan-vijay-sethupathi-m-manikandan/article70742888.ece",
+    "time": "2026-03-15T03:28:05.000Z"
   },
   {
     "cat": "Business",
@@ -189,15 +387,6 @@ const newsData_en = [
     "time": "2026-03-15T02:36:51.000Z"
   },
   {
-    "cat": "World",
-    "title": "Venezuela opposition leader denounces 'selective' amnesty",
-    "desc": "The amnesty law was passed by interim leader Delcy Rodriguez under pressure from Washington after U.S. forces captured former leader Nicolas Maduro in January and took him to New York to face drug trafficking charges",
-    "img": "https://th-i.thgim.com/public/incoming/a6ysnx/article70745661.ece/alternates/LANDSCAPE_1200/2026-03-12T235208Z_733393899_RC273KADOSZZ_RTRMADP_3_CHILE-VENEZUELA-MACHADO.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/venezuela-opposition-leader-denounces-selective-amnesty/article70745658.ece",
-    "time": "2026-03-15T02:33:38.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "War off the field, uncertainty on it: The 2026 FIFA World Cup dilemma amid Middle East conflict",
     "desc": "The escalating US-Iran conflict threatens the 2026 FIFA World Cup, with Iran's participation in doubt following controversial statements and their own reported intent to withdraw. FIFA faces a complex dilemma, balancing security concerns and potential sanctions against Iran's right to withdraw due to force majeure.",
@@ -234,24 +423,6 @@ const newsData_en = [
     "time": "2026-03-15T02:03:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Zendaya’s chapel crash fuels marriage buzz with Tom Holland",
-    "desc": "Zendaya surprised a Las Vegas wedding chapel, sparking marriage rumors with Tom Holland. Her appearance at a promotional event for 'The Drama,' where she signed a marriage license as a witness and wore a gold band, fueled speculation. This follows claims of a secret wedding and her private yet public romance with Holland.",
-    "img": "https://static.toiimg.com/photo/msid-129583674,imgsize-576531.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-crashes-las-vegas-wedding-during-film-promotion-fueling-fresh-buzz-about-rumored-secret-marriage-to-tom-holland/articleshow/129583672.cms",
-    "time": "2026-03-15T01:10:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay arrives in New Delhi for CBI questioning",
-    "desc": "Actor Thalapathy Vijay is in New Delhi for his third round of questioning by the CBI regarding the Karur stampede case. He has checked into the Taj Palace Hotel, with the interrogation scheduled for Sunday, March 15, 2026. Meanwhile, his upcoming film 'Jana Nayagan' faces uncertainty as its OTT rights deal has reportedly been cancelled amid ongoing controversies.",
-    "img": "https://static.toiimg.com/photo/msid-129583649,imgsize-79058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/watch-thalapathy-vijay-arrives-in-new-delhi-for-cbi-questioning-third-round-in-karur-stampede-case/articleshow/129583649.cms",
-    "time": "2026-03-15T01:09:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'8–0': Pak selector Aaqib revives Shadab's dig at legends during T20 WC",
     "desc": "Pakistan selector Aaqib Javed addressed Pakistan’s ICC Men's T20 World Cup campaign after India national cricket team won the title, saying the team’s 0–8 World Cup record against India should not be used as an excuse. He added Pakistan were eliminated only on net run rate. The discussion also revived controversy over Shadab Khan’s remarks about former players, which disappointed Saqlain Mushtaq.",
@@ -261,33 +432,6 @@ const newsData_en = [
     "time": "2026-03-15T01:00:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Motörhead Guitarist Phil Campbell passes away at 64",
-    "desc": "Legendary Motörhead guitarist Phil Campbell has passed away at 64 following complications from surgery. His family and the band confirmed the news, remembering him as a devoted father and a vital musician who shaped Motörhead's sound for 31 years. Fans are sharing heartfelt tributes online, celebrating his immense legacy.",
-    "img": "https://static.toiimg.com/photo/msid-129583554,imgsize-209060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/motrhead-guitarist-phil-campbell-passes-away-at-64-after-complex-major-operation-fans-mourns-veteran-musician/articleshow/129583554.cms",
-    "time": "2026-03-15T00:46:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kevin Jonas Sr reveals key to his lasting marriage with Denise",
-    "desc": "Celebrating four decades of love, Papa Jonas, the proud father of the Jonas Brothers, released a heartfelt new song, 'Key of You.' In his reflection on 40 years of marriage with Denise, he emphasized the power of mutual acceptance and encouragement. Overjoyed by his sons' supportive reaction to the poignant ballad, Kevin Jonas Sr.",
-    "img": "https://static.toiimg.com/photo/msid-129583531,imgsize-91558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/kevin-jonas-sr-says-accepting-each-other-is-key-to-his-lasting-marriage-with-denise-jonas/articleshow/129583531.cms",
-    "time": "2026-03-15T00:37:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sarah Michelle Gellar's ‘Buffy the Vampire Slayer’ revival cancelled",
-    "desc": "Fans of 'Buffy the Vampire Slayer' received disappointing news as the planned reboot, 'New Sunnydale,' has been cancelled by Hulu. Sarah Michelle Gellar, who starred as Buffy, confirmed the decision, expressing her sadness. Despite a pilot being filmed and excitement building, the project will not move forward, leaving a void for many.",
-    "img": "https://static.toiimg.com/photo/msid-129583516,imgsize-763095.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/sarah-michelle-gellars-buffy-the-vampire-slayer-revival-cancelled-actress-confirms-new-sunnydale-wont-move-forward/articleshow/129583517.cms",
-    "time": "2026-03-15T00:30:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rawalpindi Traffic Police trolls Pak batter Agha after controversial run-out",
     "desc": "A controversial run-out of Salman Ali Agha during the ODI between the Pakistan national cricket team and Bangladesh national cricket team sparked online debate after Mehidy Hasan Miraz dismissed him. As the moment went viral, the Rawalpindi Traffic Police used the clip to share a safety message, urging people to stay alert and take personal responsibility on roads and in daily life.",
@@ -295,24 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rawalpindi-traffic-police-trolls-pakistan-batter-salman-ali-agha-after-controversial-run-out-vs-bangladesh/articleshow/129578029.cms",
     "time": "2026-03-15T00:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chinmayi Sripada slams Vairamuthu’s Jnanpith honour",
-    "desc": "Veteran Tamil poet Vairamuthu's Jnanpith Award win has ignited controversy. Singer Chinmayi Sripada, who previously accused him of sexual misconduct, voiced strong criticism, questioning the accolades from industry figures like Rajinikanth and Kamal Haasan. She highlighted the impact of #MeToo allegations and the silencing of victims, expressing disappointment over the recognition.",
-    "img": "https://static.toiimg.com/photo/msid-129583482,imgsize-128894.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/chinmayi-sripada-questions-vairamuthus-jnanpith-honour-reacts-to-rajinikanth-and-kamal-haasans-praise/articleshow/129583482.cms",
-    "time": "2026-03-15T00:27:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Kerala Story 2’ bo: Film earns Rs 2.96 crore on third Saturday",
-    "desc": "Goes Beyond,' is just shy of the Rs 50 crore milestone. After a solid start to its third week, the film collected Rs 2.96 crore on the 16th day, showcasing a healthy increase from its previous Friday's earnings. With total net collections now at Rs 44.",
-    "img": "https://static.toiimg.com/photo/msid-129583489,imgsize-59134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-16-film-earns-big-on-3rd-saturday-inches-close-to-rs-50-crore/articleshow/129583489.cms",
-    "time": "2026-03-15T00:25:53.000Z"
   },
   {
     "cat": "Sports",
@@ -331,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-selector-aaquib-javed-justifies-t20-world-cup-sorry-sight-with-not-so-big-remark/articleshow/129574521.cms",
     "time": "2026-03-14T23:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jeweller arrested in IDFC First Bank fraud case in Haryana; 12th arrest",
-    "desc": "The case pertains to private lender IDFC First Bank, which had disclosed a ₹590 crore fraud involving certain employees and others at its Chandigarh branch in a set of accounts held by the Haryana government",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/haryana/jeweller-arrested-in-idfc-first-bank-fraud-case-in-haryana-12th-arrest/article70744622.ece",
-    "time": "2026-03-14T21:37:51.000Z"
   },
   {
     "cat": "Business",
@@ -361,30 +478,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Why did the SC allow passive euthanasia?",
-    "desc": "What test did the Supreme Court apply in the Harish Rana case to decide if continuing treatment was in his best interest? What nuanced distinction did it provide between active and passive euthanasia? What have been India’s past positions on the right to die?",
-    "img": "https://th-i.thgim.com/public/incoming/4uqbwp/article70744586.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%204.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/why-did-the-sc-allow-passive-euthanasia-explained/article70744584.ece",
-    "time": "2026-03-14T18:52:41.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Gateway to the world, from Madurai",
     "desc": "In the light of the Union government granting international airport status to the Madurai airport, S. Sundar traces the long history of such a demand and highlights what the new status will mean for the ever-growing tourism, connectivity, and industrial needs of districts in southern Tamil Nadu",
     "img": "https://th-i.thgim.com/public/incoming/vzcn8i/article70744518.ece/alternates/LANDSCAPE_1200/TH15_Madurai%20Airport%20.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/gateway-to-the-world-frommadurai/article70744484.ece",
     "time": "2026-03-14T18:26:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "International status for Madurai airport will draw more tourists, pilgrims, says Union Minister",
-    "desc": "Formally according the status to Madurai airport, Civil Aviation Minister Kinjarapu Rammohan Naidu says the move will also help create more jobs and greatly boost hospitality, MSME, and agricultural sectors in the district; he also inaugurates new air traffic control tower set up at cost of ₹94 crore",
-    "img": "https://th-i.thgim.com/public/incoming/oebthi/article70743624.ece/alternates/LANDSCAPE_1200/Minister%20Rammohan%20Naidu-02.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Madurai/international-status-for-madurai-airport-will-draw-more-tourists-pilgrims-says-union-minister/article70743337.ece",
-    "time": "2026-03-14T18:07:41.000Z"
   },
   {
     "cat": "Politics",
@@ -396,7 +495,7 @@ const newsData_en = [
     "time": "2026-03-14T18:07:38.000Z"
   },
   {
-    "cat": "Politics",
+    "cat": "World",
     "title": "Mojtaba Khamenei",
     "desc": "A wounded man who lost his parents and wife, and was elected the ‘Supreme Leader’ of a nation under attack from the world’s most powerful country and its closest ally, the ayatollah now faces a rare crisis his predecessors never confronted — to survive the storm and preserve the republic",
     "img": "https://th-i.thgim.com/public/news/national/ftp13j/article70744410.ece/alternates/LANDSCAPE_1200/khamenei%20mojtaba_Art.jpg",
@@ -496,15 +595,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Puranik, Aronyak clinch Blitz and Rapid titles at National Chess C'ship",
-    "desc": "The National Rapid and Blitz Chess Championship at Sarla Birla University in Ranchi saw over 400 players compete. Abhimanyu Puranik won the Blitz title with 9 points, beating Sayantan Das on tie-break, while Madhavan N B finished third. In Rapid, Aronyak Ghosh remained unbeaten with 9.5/11 to claim the championship.",
-    "img": "https://static.toiimg.com/photo/msid-129575803,imgsize-67834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/abhimanyu-puranik-aronyak-ghosh-clinch-blitz-and-rapid-titles-at-national-chess-championship/articleshow/129575337.cms",
-    "time": "2026-03-14T14:02:32.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'I can't': England legend Pietersen quits Delhi Capitals role",
     "desc": "Former England cricketer Kevin Pietersen has stepped down as mentor of Delhi Capitals ahead of the 2026 Indian Premier League, citing lack of time for the role. He will still appear as a commentator during the tournament. Pietersen joined the franchise in 2025 and previously played for several IPL teams during his career. The season begins March 28 in Bengaluru.",
     "img": "https://static.toiimg.com/photo/msid-129574758,imgsize-96942.cms",
@@ -520,33 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-is-the-usman-tariq-of-fast-bowlers-pakistan-selector-aaqib-javed-makes-shocking-claim/articleshow/129573855.cms",
     "time": "2026-03-14T11:59:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sathyanathan breaks national record, wins gold at NCAA Indoor C'ships",
-    "desc": "Indian long jumper Lokesh Sathyanathan won gold at the NCAA Division I Indoor Track and Field Championships in Fayetteville, Arkansas with an 8.21m leap, setting a new Indian indoor record. The Tarleton State University athlete finished ahead of De'Aundre Ward and Tafadzwa Chikomba. Lokesh dedicated the milestone to his late mother, who died from COVID-19 in 2021.",
-    "img": "https://static.toiimg.com/photo/msid-129573527,imgsize-37468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/lokesh-sathyanathan-breaks-national-record-wins-long-jump-gold-at-ncaa-indoor-championships/articleshow/129572791.cms",
-    "time": "2026-03-14T11:26:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "On ‘Muthu Engira Kaattaan’ and his secret to staying fit at 60",
-    "desc": "Actor Milind Soman speaks about returning to Tamil film industry with the web-series ‘Muthu Engira Kaattaan’, working with Vijay Sethupathi and filmmaker M Manikandan, and why consistency is the secret to staying fit at 60",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/fgmlpe/article70742956.ece/alternates/LANDSCAPE_1200/Milind%20Soman.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/milind-soman-interview-muthu-engira-kaattaan-vijay-sethupathi-m-manikandan/article70742888.ece",
-    "time": "2026-03-14T10:48:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Salman Ali Agha reprimanded after controversial run-out in 2nd ODI",
-    "desc": "Pakistan batter Salman Ali Agha was reprimanded after the second ODI against Bangladesh national cricket team at Sher-e-Bangla National Cricket Stadium. He was controversially run out by Mehidy Hasan Miraz after trying to pick up a live ball. Frustrated, Agha threw his gloves and argued with Litton Das, leading to a Level 1 breach under the International Cricket Council Code. Pakistan still won by 128 runs via DLS.",
-    "img": "https://static.toiimg.com/photo/msid-129572438,imgsize-44394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pak-vs-ban-salman-ali-agha-reprimanded-after-controversial-run-out-in-2nd-odi/articleshow/129572288.cms",
-    "time": "2026-03-14T10:00:29.000Z"
   },
   {
     "cat": "Entertainment",
@@ -619,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/summer-travel-to-get-costlier-jet-fuel-prices-jump-amid-middle-east-conflict/articleshow/129569426.cms",
     "time": "2026-03-14T06:06:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Tata, Parle, M&amp;M canteens feel LPG squeeze; India Inc redesigns menu — less tea, no samosas or dosas",
-    "desc": "India's industrial sector faces disruption as commercial LPG shortages impact factory operations. Manufacturers report production hurdles, particularly in brazing and paint shops, while canteens are paring back menus. Companies are turning to electric alternatives and even firewood to cope with the 'hand-to-mouth' supply situation, with government intervention underway to prioritize household needs.",
-    "img": "https://static.toiimg.com/photo/msid-129569001,imgsize-2773114.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/tata-parle-mm-canteens-feel-lpg-squeeze-india-inc-redesigns-menu-less-tea-no-samosas-or-dosas/articleshow/129568595.cms",
-    "time": "2026-03-14T05:06:09.000Z"
   },
   {
     "cat": "Sports",
@@ -747,15 +801,6 @@ const newsData_en = [
     "time": "2026-03-13T03:48:56.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.S. intelligence says Iran government is not at risk of collapse, say sources",
-    "desc": "A \"multitude\" of intelligence reports provide \"consistent analysis that the regime is not in danger\" of collapse and \"retains control ​of the Iranian public,\" said one of the sources, all of whom were granted anonymity to discuss ⁠U.S. intelligence findings",
-    "img": "https://th-i.thgim.com/public/incoming/6gsutp/article70737831.ece/alternates/LANDSCAPE_1200/Trump_23979.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-intelligence-says-iran-government-is-not-at-risk-of-collapse-say-sources/article70737822.ece",
-    "time": "2026-03-13T02:34:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Bumrah — the pace king and the master of the slower one",
     "desc": "It’s impossible to imagine what it must be like to carry so many expectations every time he has the ball in his hand; to his credit, he has managed to distance himself from the ‘outside noise’, retain his focus and concentrate on what is in his control",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-geeta-gandbhir-indian-origin-nominated-documentary-feature-the-perfect-neighbor-the-devil-is-busy/article70730362.ece",
     "time": "2026-03-11T09:23:08.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Lessons from India’s C-DOT saga for technology development",
-    "desc": "The Centre for Development of Telematics heralded a communications revolution by developing indigenous rural telephone exchange technology; however, in the three months of K.P. Unnikrishnan as Minister for Communications, the project was derailed and a mass exodus of scientists began",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/lessons-from-indias-c-dot-saga-for-technology-development/article70726867.ece",
-    "time": "2026-03-11T07:03:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sivaji Ganesan’s gift of baby elephant to American children and his U.S. visit as state guest",
-    "desc": "Sivaji Ganesan was invited to the United States as part of the U.S.–India Cultural Exchange Programme. During the trip, Sivaji was treated as a state guest, assigned two officials to assist him, and given a daily allowance of $160, a considerable sum at the time.",
-    "img": "https://th-i.thgim.com/public/incoming/3tl29a/article70728264.ece/alternates/LANDSCAPE_1200/HP120884.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/sivaji-ganesan-gift-of-baby-elephant-to-american-children-and-his-us-visit-as-state-guest-in-1962/article70728245.ece",
-    "time": "2026-03-11T07:02:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka Mohan on how filming ‘Made In Korea’ was an experience to cherish",
-    "desc": "Ahead of the release of Netflix’s cross-cultural project ‘Made in Korea’, we speak to Priyanka Arul Mohan and director Ra Karthik about filming in Seoul, working with a Korean cast and crew, and how the film felt like a journey of discovery",
-    "img": "https://th-i.thgim.com/public/life-and-style/k2jnfj/article70726606.ece/alternates/LANDSCAPE_1200/MadeInKorea_Netflix_343A3229_6593.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/priyanka-mohan-on-how-filming-made-in-korea-was-an-experience-to-cherish/article70726397.ece",
-    "time": "2026-03-11T06:47:35.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Criticism, satire of PM, UGC regulations target of government takedowns on X, Instagram",
-    "desc": "The most up-to-date takedown stats from Meta show that the Instagram and Facebook parent took down three times as much content in response to government orders in January–June 2025 than in the same period in 2023",
-    "img": "https://th-i.thgim.com/public/incoming/jzjtu8/article70727515.ece/alternates/LANDSCAPE_1200/2025-12-09T031523Z_863589627_RC2QCIAR4COP_RTRMADP_3_AUSTRALIA-SOCIALMEDIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/criticism-satire-of-pm-ugc-regulations-target-of-government-takedowns-on-x-instagram/article70727083.ece",
-    "time": "2026-03-11T02:35:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Formula One Australian GP",
-    "desc": "The race at Albert Park was a battle of wits, speed and a whole load of battery management; Mercedes’ lead driver Russell grabbed his moments to set the tone for the year, with the Ferraris breathing down his neck",
-    "img": "https://th-i.thgim.com/public/sport/26vhky/article70728203.ece/alternates/LANDSCAPE_1200/GettyImages-2265353502.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/motorsport/formula-one-australian-grand-prix-2026-review/article70728191.ece",
-    "time": "2026-03-10T17:39:52.000Z"
   }
 ];
