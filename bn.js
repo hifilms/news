@@ -1,12 +1,12 @@
 const newsData_bn = [
   {
-    "cat": "Business",
-    "title": "LNG, PNG, CNG...! শব্দগুলির 'মানে' কী বলুন তো? অনেকেই জানেন সম্পূর্ণ 'ভুল', আপনি?",
-    "desc": "দেশজুড়ে রান্নার গ্যাসের সঙ্কট চরমে। এই পরিস্থিতিতে এলপিজি রান্নার গ্যাসের পাশাপাশি আরও বেশ কিছু সংক্ষিপ্ত নাম বারবারই আলোচনায়, খবরের কাগজের পাতায় উঠে আসছে। এই শব্দগুলি হল এলএনজি, পিএনজি এবং সিএনজি। বললে শুনতে একই রকম শোনাতে পারে, তবে এগুলি বিভিন্ন ধরণের জ্বালানির নাম। প্রতিটি কিন্তু নির্দিষ্ট কিছু ব্যবহারের জন্যই ডিজাইন করা হয়েছে। কী সেই ব্যবহার জানেন?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/GAS-2026-03-ff2a116004e48f80a60d21cd1a5ad3b9-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/lpg-lng-png-cng-what-is-the-meaning-of-these-words-most-people-know-absoulutely-wrong-do-you-have-an-idea-about-the-correct-answer-check-this-trending-gk-sanj-2586069.html",
-    "time": "2026-03-15T12:07:08.000Z"
+    "cat": "World",
+    "title": "মরিয়া ট্রাম্পের মোজতবা খামেইনির মাথার মূল্য ঘোষণা; কত দাম ইরান-সুপ্রিমোর, জানেন?",
+    "desc": "ইরানের নতুন সর্বোচ্চ নেতা আয়াতুল্লাহ মোজতবা খামেনিকে হত্যা করতে মরিয়া হয়ে উঠেছে মার্কিন যুক্তরাষ্ট্র। ইতিমধ্যে তাঁর মাথার দামও ঘোষণা করেছে তারা। একই সঙ্গে তাঁর সরকারের গুরুত্বপূর্ণ কর্মকর্তা ও সামরিক শীর্ষ কর্মকর্তাদের গোপন তথ্যের জন্যও পুরস্কার ঘোষণা করেছে ওয়াশিংটন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/us-offers-10-million-dollar-bounty-for-irans-supreme-leader-mojtaba-khamenei_644963.html ",
+    "time": "2026-03-15T14:48:19.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +15,16 @@ const newsData_bn = [
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/Election-2026-2026-03-089aa6acdb6358bac0485f0a8936d792-1200x800.jpg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/assembly-elections-2026-puducherry-vote-9-april-result-4-may-west-bengal-2-phase-assam-kerala-tamil-nadu-vote-in-1-phase-pbd-2586018.html",
-    "time": "2026-03-15T11:54:26.000Z"
+    "time": "2026-03-15T14:06:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "LNG, PNG, CNG...! শব্দগুলির 'মানে' কী বলুন তো? অনেকেই জানেন সম্পূর্ণ 'ভুল', আপনি?",
+    "desc": "দেশজুড়ে রান্নার গ্যাসের সঙ্কট চরমে। এই পরিস্থিতিতে এলপিজি রান্নার গ্যাসের পাশাপাশি আরও বেশ কিছু সংক্ষিপ্ত নাম বারবারই আলোচনায়, খবরের কাগজের পাতায় উঠে আসছে। এই শব্দগুলি হল এলএনজি, পিএনজি এবং সিএনজি। বললে শুনতে একই রকম শোনাতে পারে, তবে এগুলি বিভিন্ন ধরণের জ্বালানির নাম। প্রতিটি কিন্তু নির্দিষ্ট কিছু ব্যবহারের জন্যই ডিজাইন করা হয়েছে। কী সেই ব্যবহার জানেন?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/GAS-2026-03-ff2a116004e48f80a60d21cd1a5ad3b9-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/lpg-lng-png-cng-what-is-the-meaning-of-these-words-most-people-know-absoulutely-wrong-do-you-have-an-idea-about-the-correct-answer-check-this-trending-gk-sanj-2586069.html",
+    "time": "2026-03-15T12:07:08.000Z"
   },
   {
     "cat": "Politics",
@@ -502,15 +511,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/srijato-health-update-of-bengali-poet-srijato-after-he-met-with-an-accident-rm-2579075.html",
     "time": "2026-03-11T07:29:55.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ট্রাম্পের টেক্সাসে এবার তেলের ব্যবসা আম্বানির, শোধনাগারে বিনিয়োগ ₹২৭৫৬৪৮২৫০০০০০০",
-    "desc": "টেক্সাসে ৫০ বছর পর আমেরিকার প্রথম নতুন তেল শোধনাগার তৈরির ঐতিহাসিক ঘোষণা দিয়েছেন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প, যেখানে বিনিয়োগ সহযোগী হিসেবে তিনি ভারতের রিলায়েন্স ইন্ডাস্ট্রিজকে ধন্যবাদ জানিয়েছেন। ৩০০ বিলিয়ন ডলারের এই বিশাল প্রকল্প মার্কিন জ্বালানি নিরাপত্তা নিশ্চিত করবে",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/donald-trump-texas-oil-refinery-indias-reliance-industry_644456.html ",
-    "time": "2026-03-11T06:53:49.000Z"
   },
   {
     "cat": "Politics",

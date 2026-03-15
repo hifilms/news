@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI felicitates India's World Cup winning teams at Naman Awards in New Delhi",
+    "desc": "The Board of Control for Cricket in India (BCCI), today, felicitated India's five World Cup-winning teams at the Naman Awards in New Delhi. India won the inaugural U19 Women's World Cup, Champions Trophy, U19 Men's...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-felicitates-india-s-world-cup-winning-teams-at-naman-awards-in-new-delhi-2026-03-15-1033871",
+    "time": "2026-03-15T15:25:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain vs Argentina Finalissima 2026 cancelled due to Middle East conflict, UEFA confirms",
+    "desc": "The 2026 edition of the Finalissima between Spain and Argentina has been cancelled due to the ongoing Middle East conflict. The clash was scheduled to be played in Qatar on March 27 but the current...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/spain-vs-argentina-finalissima-2026-cancelled-due-to-middle-east-conflict-uefa-confirms-2026-03-15-1033869",
+    "time": "2026-03-15T14:39:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Full list of award winners from the ceremony",
+    "desc": "The Board of Control for Cricket in India (BCCI) is celebrating excellence across the Indian cricketing spectrum today at the prestigious Naman Awards 2026 in New Delhi. It is the annual ceremony that recognises exceptional...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-naman-awards-2026-full-list-of-award-winners-from-the-ceremony-2026-03-15-1033866",
+    "time": "2026-03-15T13:36:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "New Zealand get bowled out under 100 for 14th time in T20Is, lose to South Africa in 1st T20I",
     "desc": "New Zealand and South Africa locked horns for the first time since the T20 World Cup concluded. The Kiwis hosted the Proteas for the five-match T20I series and the runners-up of the World Cup surrendered...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-s-abrar-ahmed-to-miss-the-hundred-2026-check-what-latest-report-says-2026-03-15-1033819",
     "time": "2026-03-15T05:01:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer questions Kolkata Knight Riders' retention policy ahead of IPL 2026",
-    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee tournament is set to kick off on March 28, and with the competition right around the corner, the 10...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-questions-kolkata-knight-riders-retention-policy-ahead-of-ipl-2026-2026-03-15-1033812",
-    "time": "2026-03-15T03:59:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kevin Pietersen steps down as Delhi Capitals' mentor ahead of IPL 2026",
-    "desc": "The 19th edition of the IPL (Indian Premier League) is all set to kick off on March 28. Ahead of the new season of the tournament, former England cricketer Kevin Pietersen took to social media...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kevin-pietersen-steps-down-as-delhi-capitals-mentor-ahead-of-ipl-2026-2026-03-15-1033809",
-    "time": "2026-03-15T02:44:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'All about hard work': Rohit Sharma backs India men's and women's teams to continue title-winning streak",
-    "desc": "There is no doubt that when the best teams in world cricket are spoken about, the Indian team is put at the forefront of the discussion. Both the Indian men’s and women’s teams have seen...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/all-about-hard-work-rohit-sharma-backs-india-men-s-and-women-s-teams-to-continue-title-winning-streak-2026-03-15-1033806",
-    "time": "2026-03-15T01:31:30.000Z"
   }
 ];

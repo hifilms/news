@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "અમેરિકા પર થઈ શકે છે 9/11 જેવો બીજો મોટો હુમલો, યુદ્ધ વચ્ચે દિગ્ગજે કર્યો દાવો, જાણો",
+    "desc": "ઈરાનના ભૂતપૂર્વ સુપ્રીમ લીડર અલી ખામેનીના મુખ્ય સલાહકાર અલી લારજિનીએ દાવો કર્યો છે કે એપ્સ્ટેઈનના બાકીના મિત્રો અમેરિકા પર 9/11 જેવો હુમલો કરી શકે છે અને તેનો દોષ ઈરાન પર ઢોળી શકે છે. લાર્જિનીએ જણાવ્યું હતું કે ઈરાન આવા કોઈપણ કાવતરાનો વિરોધ કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/another-major-attack-like-9/11-may-happen-on-america-a-veteran-made-a-claim-in-the-midst-of-war-know-this-468751 ",
+    "time": "2026-03-15T15:25:06.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "લોકોના ખિસ્સા પર વધુ એક માર ! 1 એપ્રિલથી મોંઘું થશે ફાસ્ટેગનું રિચાર્જ, હાઈવે પર ફરવું થશે મોંઘું",
+    "desc": "માર્ગ પરિવહન અને રાજમાર્ગ મંત્રાલયના જણાવ્યા મુજબ આ વધારો 1 એપ્રિલથી લાગુ કરવામાં આવશે. ખાનગી વાહન ચાલકોમાં તેની લોકપ્રિયતા પણ વધી રહી છે. આ વધારાને કારણે લોકોને 1લી તારીખ પર વધારાની ચુકવણી કરવી પડશે, જો કે કોઈ 1લી તારીખ પહેલા રિન્યુ કરાવે છે તો તેને જૂની કિંમતે મળી જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/fastag-recharge-will-become-expensive-from-april-1-travelling-on-highways-will-become-expensive-468745 ",
+    "time": "2026-03-15T14:52:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ગઈ વખતે 8, પણ આ વખતે બંગાળમાં માત્ર બે તબક્કામાં ચૂંટણી; 5 વર્ષમાં કેવી રીતે બદલાઈ પરિસ્થિતિ",
+    "desc": "ચૂંટણી પંચે પશ્ચિમ બંગાળ માટે વિધાનસભા ચૂંટણીની તારીખો જાહેર કરી દીધી છે. ચૂંટણી પંચની જાહેરાતની સૌથી ખાસ વાત એ છે કે, આ વખતે અહીં માત્ર બે જ તબક્કામાં મતદાન થશે. બંગાળના ઇતિહાસમાં આ પ્રથમ વખત છે જ્યારે માત્ર બે તબક્કામાં ચૂંટણી યોજાવા જઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/last-time-there-were-8-but-this-time-there-were-only-two-phases-of-elections-in-west-bengal-how-has-the-situation-changed-in-5-years-468743 ",
+    "time": "2026-03-15T13:42:20.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ભારતમાં 2BHK ઘર બનાવવું હોય તો કેટલો આવે ખર્ચ ? એક ક્લિકમાં જાણી લો જવાબ",
     "desc": "ભારતમાં 2BHK એપાર્ટમેન્ટ બનાવવાનો ખર્ચ દરેક દરેક જગ્યાએ બદલાય છે. તમે કયા શહેર કે વિસ્તારમાં રહો છો તેના આધારે ખર્ચ આવે છે, ત્યારે આ લેખમાં 2BHK ઘર બનાવવાનો ખર્ચ કેટલો આવી શકે, તેના વિશે જાણીશું.",
@@ -459,15 +486,6 @@ const newsData_gu = [
     "time": "2026-03-12T10:57:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "આઠમાં પગાર પંચમાં આ યોજનામાં થશે મોટો ફેરફાર! સરકારી કર્મચારીઓના પ્રમોશન પર થશે અસર",
-    "desc": "આઠમાં પગાર પંચની ભલામણોની રાહ જોવાઈ રહી છે. આ બધા વચ્ચે કર્મચારી સંગઠનોએ MACP યોજનામાં ફેરફારની માંગણી કરી છે. ત્યારે આ યોજના વિશે ખાસ જાણો અને શાં માટે કર્મચારી સંગઠન આ યોજનામાં ફેરફાર ઈચ્છે છે અને શું ફેરફાર ઈચ્છે છે તે પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-update-employee-organization-wants-changes-in-macp-scheme-know-why-468283 ",
-    "time": "2026-03-12T10:30:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "8 દિવસમાં આ IPOએ કરાવ્યું મોટું નુકસાન, 104 રૂપિયાનો શેર હવે 52 રૂપિયાથી નીચે પહોંચ્યો",
     "desc": "શ્રી રામ ટ્વિસ્ટેક્સના IPO માં શેરનો ભાવ 104 રૂપિયા હતો. કંપનીના શેર 2 માર્ચે બજારમાં લિસ્ટ થયા હતા. શ્રી રામ ટ્વિસ્ટેક્સનો શેર ઘટીને 12 માર્ચે 51.45 રૂપિયા પર પહોંચી ગયો છે. 104 રૂપિયાની આઈપીઓ પ્રાઇસ મુકાબલે કંપનીના શેરમાં 50 ટકાથી વધુનો ઘટાડો થયો છે.",
@@ -646,15 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-official-trailer-released-watch-now-here-467497 ",
     "time": "2026-03-07T06:43:18.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "માર્કેટમાં ધુમ મચાવવા આવી રહી છે TATAની આ SUV, તેના માટે ખુલશે નવા શોરૂમ, જાણો ક્યારે લોન્ચ થશે ?",
-    "desc": "ટાટા મોટર્સે પુષ્ટિ કરી છે કે તેની આ ગાડી જલ્દી માર્કેટમાં આવશે. તેના માટે , જે 2025 ઇન્ડિયા મોબિલિટી એક્સ્પોમાં પ્રદર્શિત કરવામાં આવ્યું હતું. કંપનીએ જણાવ્યું છે કે તે નાના ફૂટપ્રિન્ટ સાથે હાઇ-ઓન-એક્સપિરિયન્સ મોડેલ પર કામ કરી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/this-suv-from-tata-is-coming-to-create-a-buzz-in-the-market-new-showrooms-will-open-for-it-know-when-it-will-be-launched-467285 ",
-    "time": "2026-03-05T08:36:26.000Z"
   },
   {
     "cat": "Entertainment",
