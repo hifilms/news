@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "‘পুরোহিত ও ইমাম ভাতা বাড়ানো আদর্শ আচরণবিধি ভঙ্গ করেনি’! মমতার ঘোষণা নিয়ে জানিয়ে দিলেন জ্ঞানেশ কুমার",
+    "desc": "বাংলার ভোটের দিন ঘোষণার আগেই পুরোহিত ও ইমাম মোয়াজ্জেমদের আর্থিক সহায়তা বাড়ানোর কথা ঘোষণা করেন মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায়৷ এ প্রসঙ্গে মুখ্য নির্বাচন কমিশনার জ্ঞানেশ কুমার জানালেন, ‘‘বাংলায় মোয়াজ্জেন, পুরোহিতদের ভাতা বাড়ানো আদর্শ আচরণবিধি ভঙ্গ করেনি৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-15-at-4.59.26-PM-2026-03-40ac2c4d9b05dcfb02258b18f4cefdf3-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/elections/bengal-assembly-elections-chief-election-commissioner-gyanesh-kumar-on-cm-increasing-stipend-for-priests-and-muezzins-did-not-violate-the-rules-ank-2586079.html",
+    "time": "2026-03-15T16:56:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ভয়ংকর অচলাবস্থার মুখে গোটা বিশ্ব! হরমুজের পর এবার বাবেল প্রণালী বন্ধ হলেই হাহাকার বাণিজ্যে",
+    "desc": "ইরানের যুদ্ধে যোগ দিতে পারে ইয়েমেনের হুথি গোষ্ঠী। সেরকমই ইঙ্গিত মিলছে। আর হুথিরা যদি সত্যিই যুদ্ধে যোগ দেয়, তাহলে আরও বড় সংকট তৈরি হতে চলেছে বিশ্ববাণিজ্যে। কেননা, সেক্ষেত্রে বন্ধ হতে চলেছে আর এক গুরুত্বপূর্ণ প্রণালী।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/bab-el-mandeb-strait-may-choked-after-hormuz-if-houthi-will-join-middle-east-war_644966.html ",
+    "time": "2026-03-15T15:34:22.000Z"
+  },
+  {
     "cat": "World",
     "title": "মরিয়া ট্রাম্পের মোজতবা খামেইনির মাথার মূল্য ঘোষণা; কত দাম ইরান-সুপ্রিমোর, জানেন?",
     "desc": "ইরানের নতুন সর্বোচ্চ নেতা আয়াতুল্লাহ মোজতবা খামেনিকে হত্যা করতে মরিয়া হয়ে উঠেছে মার্কিন যুক্তরাষ্ট্র। ইতিমধ্যে তাঁর মাথার দামও ঘোষণা করেছে তারা। একই সঙ্গে তাঁর সরকারের গুরুত্বপূর্ণ কর্মকর্তা ও সামরিক শীর্ষ কর্মকর্তাদের গোপন তথ্যের জন্যও পুরস্কার ঘোষণা করেছে ওয়াশিংটন।",
@@ -25,15 +43,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/lpg-lng-png-cng-what-is-the-meaning-of-these-words-most-people-know-absoulutely-wrong-do-you-have-an-idea-about-the-correct-answer-check-this-trending-gk-sanj-2586069.html",
     "time": "2026-03-15T12:07:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘পুরোহিত ও ইমাম ভাতা বাড়ানো আদর্শ আচরণবিধি ভঙ্গ করেনি’! মমতার ঘোষণা নিয়ে জানিয়ে দিলেন জ্ঞানেশ কুমার",
-    "desc": "বাংলার ভোটের দিন ঘোষণার আগেই পুরোহিত ও ইমাম মোয়াজ্জেমদের আর্থিক সহায়তা বাড়ানোর কথা ঘোষণা করেন মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায়৷ এ প্রসঙ্গে মুখ্য নির্বাচন কমিশনার জ্ঞানেশ কুমার জানালেন, ‘‘বাংলায় মোয়াজ্জেন, পুরোহিতদের ভাতা বাড়ানো আদর্শ আচরণবিধি ভঙ্গ করেনি৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-15-at-4.59.26-PM-2026-03-40ac2c4d9b05dcfb02258b18f4cefdf3-1200x800.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/elections/bengal-assembly-elections-chief-election-commissioner-gyanesh-kumar-on-cm-increasing-stipend-for-priests-and-muezzins-did-not-violate-the-rules-ank-2586079.html",
-    "time": "2026-03-15T11:33:10.000Z"
   },
   {
     "cat": "World",
@@ -259,15 +268,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/dance-bangla-dance-fame-roddurs-mother-shares-his-health-update-rds-2583783.html",
     "time": "2026-03-13T11:53:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মহুয়ার সুপ্রিম স্বস্তি: টাকার বিনিময়ে প্রশ্ন মামলায় এখনই চার্জশিট নয়, ৮৯ নম্বর অনুচ্ছেদে স্থগিতাদেশ",
-    "desc": "‘টাকার বিনিময়ে প্রশ্ন’ মামলায় শুক্রবার সব পক্ষকেই নোটিস দিয়েছে সুপ্রিম কোর্ট। মহুয়ার বিরুদ্ধে অভিযোগকারী ঝাড়খণ্ডের বিজেপি সাংসদ নিশিকান্ত দুবে ও সিবিআইকেও নোটিস পাঠানো হয়েছে। ৩ সপ্তাহের মধ্যে নোটিসের জবাব দিতে বলা হয়েছে সব পক্ষকে। ততদিন কার্যকর করা যাবে না দিল্লি হাইকোর্টের রায়ের ৮৯ নম্বর অনুচ্ছেদ।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-gives-stay-order-on-chargesheet-against-mahua-moitra-in-cash-for-query-case_644737.html ",
-    "time": "2026-03-13T11:19:26.000Z"
   },
   {
     "cat": "Entertainment",

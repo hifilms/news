@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Agha’s ton goes in vain as Taskin powers Ban to 11-run series win over Pak",
+    "desc": "Bangladesh secured a thrilling 11-run victory over Pakistan in the third ODI, clinching the series 2-1. Tanzid Hasan Tamim's century propelled Bangladesh to 290/5, a total Pakistan couldn't chase despite Salman Agha's valiant hundred. Taskin Ahmed and Mustafizur Rahman's crucial wickets sealed the win for the hosts in a nail-biting finish.",
+    "img": "https://static.toiimg.com/photo/msid-129593618,imgsize-1253654.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/salman-aghas-ton-goes-in-vain-as-taskin-ahmed-powers-bangladesh-to-11-run-series-win-over-pakistan/articleshow/129593620.cms",
+    "time": "2026-03-15T17:41:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IEA says strategic oil reserves to be released immediately in Asia-Oceania",
+    "desc": "Asia and Oceania will immediately receive strategic oil reserves, while the Americas and Europe will start releases by late March. This emergency action by the IEA aims to cushion the oil shock from the West Asia war, releasing 271.7 million barrels globally. Despite this, oil prices remain near $100, highlighting concerns over the Strait of Hormuz closure.",
+    "img": "https://static.toiimg.com/photo/msid-129593396,imgsize-78458.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/iran-crisis-iea-says-strategic-oil-reserves-to-be-released-immediately-in-asia-oceania-from-end-march-in-us-and-europe/articleshow/129593320.cms",
+    "time": "2026-03-15T17:26:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why is the U.S. investigating India?",
+    "desc": "What allegations has the U.S. made on excess capacity and forced labour? How do the two Section 301 investigations relate to the current U.S. tariff regime? What issues are the U.S. investigations examining and why do industry experts see them as a pathway to new tariffs?",
+    "img": "https://th-i.thgim.com/public/news/national/jf1bpj/article70747423.ece/alternates/LANDSCAPE_1200/iStock-1126948682.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/why-is-the-us-investigating-india-explained/article70746388.ece",
+    "time": "2026-03-15T17:16:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Farah recalls Salman breaking down while filming Sau Dard Hai",
+    "desc": "Filmmaker and choreographer Farah Khan recently opened up about an emotional moment involving Salman Khan while shooting the song Sau Dard Hai from the film Jaan-E-Mann. In a recent conversation, Farah revealed that Salman didn’t rely on glycerine for the emotional sequence and actually broke down while filming the scene.",
+    "img": "https://static.toiimg.com/photo/msid-129593179,imgsize-56096.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-recalls-salman-khan-breaking-down-while-filming-sau-dard-hai-i-dont-know-what-was-going-on-in-his-life/articleshow/129593179.cms",
+    "time": "2026-03-15T17:11:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Seven pilgrims from Tamil Nadu  killed, seven others injured in road accident in Nepal",
+    "desc": "A total of 24 pilgrims from Pollachi and Devakottai travelled to the Manakamana Temple in Gorkha district. The bodies are being taken to Kathmandu, from where they will be sent to Chennai, says a State government statement",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/seven-pilgrims-from-tamil-nadu-killed-seven-others-injured-in-road-accident-in-nepal/article70747348.ece",
+    "time": "2026-03-15T17:06:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ahead of Id, NC seeks release of Kashmiris booked under UAPA for protesting Khamenei killing",
+    "desc": "National Conference describes protest rallies as “mourning gatherings”, noting that Khamenei was not just a head of state, but a revered religious leader to many Kashmiris; MLAs say L-G promised to review cases ahead of Id",
+    "img": "https://th-i.thgim.com/public/incoming/lzyoho/article70747453.ece/alternates/LANDSCAPE_1200/PTI03_13_2026_000251B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/ahead-of-id-nc-seeks-release-of-kashmiris-booked-under-uapa-for-protesting-khamenei-killing/article70747317.ece",
+    "time": "2026-03-15T16:49:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parties, outfits invoke ‘Brahmin’ angle to ‘pandit’ reference in U.P. police recruitment exam",
+    "desc": "A question asked candidates to choose a term for ‘a person who changes according to circumstances’. The options were ‘Pandit’ (scholar), ‘Avsarvadi’ (opportunist), ‘Nishkapat’ (innocent or sincere) and ‘Sadachari’ (virtuous). CM issues directions to avoid ‘derogatory’ and ‘disrespectful’ references",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/parties-outfits-invoke-brahmin-angle-to-pandit-reference-in-up-police-recruitment-exam/article70746751.ece",
+    "time": "2026-03-15T16:36:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Upgrad signs term sheet to acquire Unacademy in all-stock deal",
+    "desc": "Edtech giants Upgrad and Unacademy are set to merge in an all-stock deal, a significant consolidation for India's online education sector. Upgrad founder Ronnie Screwvala confirmed the term sheet signing, with Unacademy CEO Gaurav Munjal to continue leading the merged entity. This move signals a new chapter for both companies after a period of market recalibration.",
+    "img": "https://static.toiimg.com/photo/msid-129592686,imgsize-53068.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/upgrad-signs-term-sheet-to-acquire-unacademy-in-all-stock-deal/articleshow/129592490.cms",
+    "time": "2026-03-15T16:35:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyadarshan defends Rajpal after bail, says he got into a trap",
+    "desc": "Filmmaker Priyadarshan has come out in support of actor Rajpal Yadav after the latter was granted interim bail in a cheque bounce case. The director, who has collaborated with Yadav in several films over the years, described him as an “innocent” person who got caught in a “trap”.",
+    "img": "https://static.toiimg.com/photo/msid-129591956,imgsize-46728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-defends-rajpal-yadav-after-interim-bail-says-he-got-into-a-trap-he-is-the-most-innocent-actor-i-have-ever-seen/articleshow/129591956.cms",
+    "time": "2026-03-15T15:51:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gill bags Polly Umrigar Award, Mandhana makes history with fifth BCCI honour",
+    "desc": "Shubman Gill and Smriti Mandhana were honored as India's top cricketers at the BCCI Naman Awards 2026. Gill secured the Polly Umrigar Award for his stellar 2025 season, including a remarkable Test series in England. Mandhana also shone, setting new ODI run-scoring records and playing a pivotal role in India's World Cup win.",
+    "img": "https://static.toiimg.com/photo/msid-129591796,imgsize-1155674.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-bags-polly-umrigar-award-smriti-mandhana-makes-history-with-fifth-bcci-honour/articleshow/129591771.cms",
+    "time": "2026-03-15T15:35:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'In supreme interest of nation': RSS backs Centre's decisions amid Middle East turmoil; calls for peace",
+    "desc": "The RSS has called for an immediate end to the Middle East conflict, emphasizing global peace while backing the Indian government's actions as being in the nation's supreme interest. General secretary Dattatreya Hosabale also addressed protests following a leader's killing, stressing peaceful expression and communal harmony. The organization reiterated its stance on Hindutva and its inclusive vision for Indians abroad.",
+    "img": "https://static.toiimg.com/photo/msid-129591690,imgsize-59262.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-supreme-interest-of-nation-rss-backs-centres-decisions-amid-middle-east-turmoil-calls-for-peace/articleshow/129591615.cms",
+    "time": "2026-03-15T15:26:15.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Civic polls will be held in May, DKS tells ticket aspirants",
     "desc": "The Deputy Chief Minister held a preparatory meeting with ticket aspirants and office-bearers for the GBA civic body elections at Bharat Jodo Bhavan in Bengaluru on Sunday (March 15); it was attended by over 950 aspirants and several city Congress leaders.",
@@ -225,24 +324,6 @@ const newsData_en = [
     "time": "2026-03-15T12:07:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ECI announces election schedule for 4 States, Puducherry; two-phase polling in West Bengal",
-    "desc": "Kerala, Assam and Puducherry will go to the polls on April 9, while Tamil Nadu will vote in a single phase on April 23. Voting in West Bengal will be held in multiple phases beginning April 23",
-    "img": "https://th-i.thgim.com/public/incoming/6wmvr9/article70746350.ece/alternates/LANDSCAPE_1200/PTI03_15_2026_000163A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/election-commission-announces-poll-schedules-for-five-assemblies/article70746347.ece",
-    "time": "2026-03-15T12:04:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bengali ‘asmita’, Matua factor, urban discontent key issues",
-    "desc": "Before the SIR exercise acquired political centre stage in Bengal, the TMC aggressively campaigned, both on the streets as well as in judicial corridors and parliament, against alleged coordinated attacks on Bengali-speaking migrants across BJP-ruled States",
-    "img": "https://th-i.thgim.com/public/news/national/fdye3q/article70746405.ece/alternates/LANDSCAPE_1200/iStock-1175482282.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-election-2026-bengali-asmita-matua-factor-urban-discontent-key-issues/article70746371.ece",
-    "time": "2026-03-15T12:04:32.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Zakir Khan hospitalized? Video of him leaves fans concerned",
     "desc": "Renowned comedian Zakir Khan has taken a step back from his bustling career for health reasons, sending fans into a frenzy. Concerns escalated when a clip of him in hospital attire, engrossed in a cricket match, circulated online, shared by his brother. However, official updates from Lilavati Hospital regarding his health condition are still awaited. Read on to know more in detail.",
@@ -441,15 +522,6 @@ const newsData_en = [
     "time": "2026-03-15T08:55:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Opposition questions Election Commission’s neutrality ahead of state assembly schedule announcement",
-    "desc": "The Election Commission is set to announce the schedule for assembly elections in Assam, Kerala, Puducherry, Tamil Nadu, and West Bengal today at 4 pm. Ahead of the announcement, opposition leaders have voiced concerns, questioning the poll body's neutrality and the effectiveness of the Model Code of Conduct.",
-    "img": "https://static.toiimg.com/photo/msid-129586872,imgsize-1071516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/opposition-questions-election-commissions-neutrality-ahead-of-state-assembly-schedule-announcement/articleshow/129586776.cms",
-    "time": "2026-03-15T08:27:41.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Foreign investors pull out Rs 52,704 crore in a fortnight as Middle East conflict rattles markets",
     "desc": "Foreign investors aggressively sold Indian stocks in early March, withdrawing over Rs 52,000 crore due to West Asian tensions, a weakening rupee, and rising oil prices. This follows a brief inflow in February, with analysts citing geopolitical risks and better prospects in other Asian markets. Despite outflows, opportunities arise for domestic investors.",
@@ -502,33 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/back-to-the-drawing-board-for-varun-chakravarthy-harbhajan-singh-backs-spinner-to-bounce-back/articleshow/129586441.cms",
     "time": "2026-03-15T07:46:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actors who have surprisingly never won an Oscar",
-    "desc": "In the grand tapestry of cinema, even the most gifted stars like Amy Adams, Tom Cruise, and Harrison Ford have shockingly not secured an Oscar. These formidable talents boast a slew of nominations and performances that have dazzled audiences and critics, yet they continuously find themselves on the outside looking in, prompting discussions around their alarming Oscar omissions.",
-    "img": "https://static.toiimg.com/photo/msid-129586259,imgsize-102650.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/actors-who-have-surprisingly-never-won-an-oscar-tom-cruise-harrison-ford-and-more/articleshow/129586259.cms",
-    "time": "2026-03-15T07:45:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Celebrating India’s top track and field performers",
-    "desc": "The eighth Times of India Sports Awards will honour India's top athletes in Lucknow on March 21, 2026, for their 2025 season achievements. A distinguished jury will select winners across over 45 categories, recognising both established and emerging talents. The athletics nominees showcase exceptional performances, including national records and international medals.",
-    "img": "https://static.toiimg.com/photo/msid-129586362,imgsize-80016.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/toisa-2025-athletics-nominees-celebrating-indias-top-track-and-field-performers/articleshow/129586304.cms",
-    "time": "2026-03-15T07:38:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Maya Hawke teases ‘secret’ summer plans",
-    "desc": "Maya Hawke, known for her role in 'Stranger Things', is teasing fans with mysterious summer plans, sharing just a whisper of a 'secret' project on the horizon. Despite her excitement for the upcoming release of her sci-fi rom-com 'Wishful Thinking', her itinerary for the warmer months remains shrouded in intrigue.",
-    "img": "https://static.toiimg.com/photo/msid-129586212,imgsize-87448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/stranger-things-fame-maya-hawke-teases-secret-summer-plans-says-i-wish-i-could-tell-you-but-i-cant/articleshow/129586212.cms",
-    "time": "2026-03-15T07:26:10.000Z"
   },
   {
     "cat": "Business",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/karnataka-government-constitutes-committee-on-responsible-ai/article70735241.ece",
     "time": "2026-03-13T03:48:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bumrah — the pace king and the master of the slower one",
-    "desc": "It’s impossible to imagine what it must be like to carry so many expectations every time he has the ball in his hand; to his credit, he has managed to distance himself from the ‘outside noise’, retain his focus and concentrate on what is in his control",
-    "img": "https://th-i.thgim.com/public/sport/1929zy/article70736597.ece/alternates/LANDSCAPE_1200/BUMRAH%20%203443.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/bumrah-the-pace-king-and-the-master-of-the-slower-one/article70736504.ece",
-    "time": "2026-03-12T18:06:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Marijne wants the Indian players to be more precise with finishing",
-    "desc": "The head coach reserves special praise for Navneet, who scored a hat-trick against Wales, but is quick to emphasise that the performance was a collective effort; the Dutchman credits former junior team coach Wonink for making his task easier",
-    "img": "https://th-i.thgim.com/public/incoming/uhaimd/article70736159.ece/alternates/LANDSCAPE_1200/vjkvg-india%2016.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/marijne-wants-the-indian-players-to-be-more-precise-with-finishing/article70736166.ece",
-    "time": "2026-03-12T16:15:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Can’t take it lightly: Rashmika Mandanna warns legal action against privacy-violating content",
-    "desc": "Rashmika Mandanna has reacted to a leaked audio of an alleged conversation involving her mother. The clip has reignited chatter about her past relationship with actor Rakshit Shetty. Rashmika has demanded the content be pulled down immediately",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/kg1i7s/article70735072.ece/alternates/LANDSCAPE_1200/Rashmika.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/rashmika-mandanna-rakshit-shetty-vijay-deverakonda-legal-action-privacy-violating-content-audio-clip-leaked/article70734828.ece",
-    "time": "2026-03-12T12:40:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How Padmini Chettur and Preethi Athreya built a platform for contemporary dance in Chennai",
-    "desc": "March Dance, the festival they launched in 2017, aimed to address a vacuum for artistes who did not fit into the traditional dance forms. This year’s edition will be held on March 16, 20 and 21.",
-    "img": "https://th-i.thgim.com/public/entertainment/music/t1w923/article70731014.ece/alternates/LANDSCAPE_1200/13fr_PRIME%20Avantika%20Bahl.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/dance/how-padmini-chettur-and-preethi-athreya-built-a-platform-for-contemporary-dance-in-chennai/article70730493.ece",
-    "time": "2026-03-12T08:40:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why is India staring at LPG shortage?",
-    "desc": "The Indian LPG system is designed for operational flow, not stockpiling. And there are no concrete proposals currently to increase large underground storage either. The International Energy Agency (IEA) has flagged the lack of such storage as an infrastructural weakness in India.",
-    "img": "https://th-i.thgim.com/public/incoming/d84jgf/article70731594.ece/alternates/LANDSCAPE_1200/2026-03-11T133205Z_468406883_RC292KAZMBSO_RTRMADP_3_IRAN-CRISIS-LPG-INDIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/surging-lpg-consumption-and-inadequate-storage-put-india-in-a-bind/article70731586.ece",
-    "time": "2026-03-12T05:31:59.000Z"
   }
 ];

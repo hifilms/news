@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India is going to win more ICC trophies in the coming years, says Sanju Samson",
+    "desc": "India opener Sanju Samson has predicted that the Indian cricket team will win more ICC trophies in the upcoming years. He was part of India's T20 World Cup triumph earlier this month and also won...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-is-going-to-win-more-icc-trophies-in-the-coming-years-says-sanju-samson-2026-03-15-1033878",
+    "time": "2026-03-15T17:23:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan's 15-year wait to win ODI series in Bangladesh continues, Salman Agha's fighting ton goes in vain",
+    "desc": "Bangladesh defeated Pakistan by 11 runs in the third and final ODI to win their second consecutive series in the format against them. Both teams played superbly as the crowd at the Shere Bangla National Stadium...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-s-15-year-wait-to-win-odi-series-in-bangladesh-continues-salman-agha-s-fighting-ton-goes-in-vain-2026-03-15-1033877",
+    "time": "2026-03-15T16:58:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI felicitates India's World Cup winning teams at Naman Awards in New Delhi",
     "desc": "The Board of Control for Cricket in India (BCCI), today, felicitated India's five World Cup-winning teams at the Naman Awards in New Delhi. India won the inaugural U19 Women's World Cup, Champions Trophy, U19 Men's...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-sa-1st-t20i-live-cricket-score-new-zealand-4-down-early-sa-in-command-2026-03-15-1033830",
     "time": "2026-03-15T06:46:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Irfan Pathan gives his take on Yuzvendra Chahal's absence from team India ahead of IPL 2026",
-    "desc": "The 19th edition of the IPL (Indian Premier League) is all set to kick off on March 28. Ahead of the new season, many eyes will be set upon last year’s finalists Punjab Kings. Led...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-gives-his-take-on-yuzvendra-chahal-s-absence-from-team-india-ahead-of-ipl-2026-2026-03-15-1033827",
-    "time": "2026-03-15T06:19:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan's Abrar Ahmed to miss The Hundred 2026? Check what latest report says",
-    "desc": "The Hundred 2026 auction recently concluded, and with several star players making their way into different franchises, the purchase of Pakistan’s Abrar Ahmed in the auction caught major headlines. It is worth noting that Abrar...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-s-abrar-ahmed-to-miss-the-hundred-2026-check-what-latest-report-says-2026-03-15-1033819",
-    "time": "2026-03-15T05:01:50.000Z"
   }
 ];
