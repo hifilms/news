@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "New Zealand 4 down early, SA in command",
+    "title": "Bangladesh hope for good start with the bat",
+    "desc": "Bangladesh and Pakistan lock horns in the 3rd ODI of the ongoing series. The two sides take on each other at the Shere Bangla National Stadium in Mirpur. It is worth noting that the two...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ban-vs-pak-3rd-odi-live-score-bangladesh-hope-for-good-start-with-the-bat-2026-03-15-1033839",
+    "time": "2026-03-15T08:38:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harbhajan Singh opens up on Mumbai Indians' potential playing XI ahead of IPL 2026",
+    "desc": "With the IPL (Indian Premier League) 2026 all set to kick off on March 28, former India cricketer Harbhajan Singh came forward and talked about the potential playing combination for five-time champions Mumbai Indians in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harbhajan-singh-opens-up-on-mumbai-indians-potential-playing-xi-ahead-of-ipl-2026-2026-03-15-1033836",
+    "time": "2026-03-15T08:16:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa need 92 runs to win",
     "desc": "New Zealand and South Africa face off in the 1st T20I of the five-game series. It is worth noting that the two sides lock horns at the Bay Oval in Mount Maunganui for the first...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/what-if-this-doesn-t-go-well-england-fast-bowler-contemplating-retirement-due-to-slow-recovery-from-injury-2026-03-14-1033795",
     "time": "2026-03-14T15:14:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'No consistency from them': Anil Kumble highlights wrong decisions taken by KKR ahead of IPL 2026",
-    "desc": "Former India cricketer Anil Kumble has highlighted the wrong decision taken by the Kolkata Knight Riders (KKR) after winning the Indian Premier League (IPL) for the third time in 2024. They failed to make it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/no-consistency-from-them-anil-kumble-highlights-wrong-decisions-taken-by-kkr-ahead-of-ipl-2026-2026-03-14-1033790",
-    "time": "2026-03-14T14:18:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Were Babar Azam and Fakhar Zaman injured during the T20 World Cup? PCB to probe into matter",
-    "desc": "Pakistan Cricket is never short of drama and controversy. The press conference from the Pakistan selectors has triggered a massive debate in the country as Aaqib Javed claimed that Babar Azam and Fakhar Zaman were...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/were-babar-azam-and-fakhar-zaman-injured-during-the-t20-world-cup-pcb-to-probe-into-matter-2026-03-14-1033782",
-    "time": "2026-03-14T13:00:44.000Z"
   }
 ];

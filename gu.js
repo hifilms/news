@@ -691,14 +691,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/march-first-week-ott-release-which-new-films-releasing-on-ott-march-2026-first-week-467161 ",
     "time": "2026-03-04T10:14:20.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "સુપર સ્પ્લેન્ડરથી પણ સસ્તી થઈ આ ઈલેક્ટ્રિક બાઇક, 200 કિમીથી વધુ રેન્જ, જાણો કિંમત",
-    "desc": "હોળીના તહેવાર પર જે લોકો ઈલેક્ટ્રિક બાઇક ખરીદવાનું વિચારી રહ્યાં છે, તેના માટે ખૂબ સારી તક છે. ઓલાએ પોતાની ઈલેક્ટ્રિક બાઇકની કિંમતો ઘટાડી દીધી છે. હવે આ બાઇક હીરો સુપર સ્પ્લેન્ડરથી પણ સસ્તી થઈ ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/ola-electric-bike-becomes-cheaper-than-super-splendor-467139 ",
-    "time": "2026-03-04T07:43:05.000Z"
   }
 ];

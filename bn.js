@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "স্বয়ং নবির মসজিদে সমবেত কোটি কোটি মুসলিম; রমজানের ২০ দিনেই মক্কা-মদিনায় প্রায় ১০ কোটি পুণ্যার্থী",
+    "desc": "মুসলিমদের কাছে সবচেয়ে পবিত্র মাস রমজান মাস। এসময়ে সূর্যোদয় থেকে সূর্যাস্ত পর্যন্ত রোজা রাখেন তাঁরা। রমজানের শেষ দিনে পালিত হয়-- ইদ-উল ফিতর। এহেন পবিত্র রমজান মাসের প্রথম ২০ দিনেই মক্কা ও মদিনায় রেকর্ড ভিড়! সেখান সমবেত হয়েছেন ৯ কোটি ৬৬ লাখেরও বেশি মুসলিম ও উমরাহ যাত্রী! ভাবা যায়!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/millions-of-pilgrims-visiting-mecca-madinah-ramadan-prophets-mosque_644943.html ",
+    "time": "2026-03-15T09:20:22.000Z"
+  },
+  {
+    "cat": "World",
     "title": "‘বেঁচে থাকলে রেহাই নেই’, নেতানিয়াহুকে ‘শিশু হত্যাকারী’ বলে হুঁশিয়ারি ইরানের বিপ্লবী গার্ডের!",
     "desc": "পশ্চিম এশিয়ায় ইরান-ইজরায়েল সংঘাত ক্রমেই তীব্র হচ্ছে। এই পরিস্থিতিতে ইজরায়েলের প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহুকে সরাসরি নিশানা করে কড়া হুঁশিয়ারি দিয়েছে ইরানের ইসলামিক রেভলিউশনারি গার্ড কর্পস (IRGC)। তাদের দাবি, নেতানিয়াহু যদি এখনও বেঁচে থাকেন, তাহলে তাঁকে খুঁজে বের করার অভিযান চালিয়ে যাবে ইরান। একই সঙ্গে তেল আভিভে ক্ষেপণাস্ত্র হামলার কথাও দাবি করেছে তারা।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/Netanyahu-2026-03-f6bb508f2a941265d60b5d81ad565567-1200x800.jpg",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/no-information-will-be-shared-about-the-crude-oil-import-to-india-smc-2573783.html",
     "time": "2026-03-07T12:29:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভারতীয়দের তুলনায় ইজরায়েলিরা কত 'ধনী' বলুন তো...? চমকে দেবে ডেইলি 'ইনকাম', শিওর!",
-    "desc": "যুযুধান ইরান-ইজরায়েল। বর্তমান যুদ্ধ পরিস্থিতিতে আঁচ পৌঁছে যাচ্ছে বিশ্ব জুড়ে। আর তাতেই ইরানের মতোই চর্চায় ইজরায়েল। প্রশ্ন উঠছে ইজরায়েলের সামাজিক আর্থিক পরিস্থিতি কেমন? আচ্ছা বলুন তো, ইজরায়েলের মানুষ ভারতীয়দের তুলনায় কত ধনী? দুই দেশের নাগরিকদের দৈনিক আয়ের পার্থক্যই বা কত? পরিসংখ্যান শুনলে চমকে যাবেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/israel-7-2026-03-b298b28aff6854196f61c77735053fe7-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/israel-vs-india-how-rich-are-israelis-compared-to-indians-the-daily-income-will-surely-surprise-you-this-interesting-fact-will-shock-you-for-sure-sanj-2573271.html",
-    "time": "2026-03-07T09:14:37.000Z"
   }
 ];
