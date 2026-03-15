@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "After Arijit, Shreya says 'I also feel like taking a break'",
+    "desc": "After Arijit Singh’s decision to step away from playback singing sparked discussion among fans, Shreya Ghoshal has shared her thoughts on the singer’s move and the importance of authenticity in live performances. The singer stressed that lip-syncing on stage is something she would never want to rely on. She also described Arijit as someone deeply connected to music.",
+    "img": "https://static.toiimg.com/photo/msid-129595626,imgsize-86560.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-arijit-singh-shreya-ghoshal-says-i-also-feel-like-taking-a-break-i-will-stop-singing-the-day-i-have-to-lip-sync/articleshow/129595626.cms",
+    "time": "2026-03-15T20:44:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Interviewing PM Modi easier than delivering a hit",
+    "desc": "Akshay Kumar recently reflected on his widely discussed interview with Narendra Modi, saying the experience was a “delight” and far easier compared to the challenge of delivering a successful film. He also addressed the long-standing controversy surrounding his former Canadian passport while responding to the debate around his perceived “nationalist hero” image.",
+    "img": "https://static.toiimg.com/photo/msid-129595468,imgsize-56586.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-says-interviewing-pm-narendra-modi-was-easier-than-delivering-a-hit-film-addresses-canadian-passport-criticism/articleshow/129595468.cms",
+    "time": "2026-03-15T20:00:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Civic polls will be held in May, DKS tells ticket aspirants",
+    "desc": "The Deputy Chief Minister held a preparatory meeting with ticket aspirants and office-bearers for the GBA civic body elections at Bharat Jodo Bhavan in Bengaluru on Sunday (March 15); it was attended by over 950 aspirants and several city Congress leaders.",
+    "img": "https://th-i.thgim.com/public/incoming/mwoaz7/article70747152.ece/alternates/LANDSCAPE_1200/DKS%20GBA%202.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/civic-polls-will-be-held-in-may-dks-tells-ticket-aspirants/article70746731.ece",
+    "time": "2026-03-15T19:20:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "KJo cried after troll said he 'denied his children a mother'",
+    "desc": "Filmmaker Karan Johar has spoken candidly about raising his twins and the emotional toll of social media trolling. In a recent conversation, Johar reflected on parenting his children, Yash Johar and Roohi Johar, and how certain online comments deeply affected him.",
+    "img": "https://static.toiimg.com/photo/msid-129595035,imgsize-61694.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-recalls-crying-after-troll-said-he-denied-his-children-a-mother-i-asked-yash-and-roohi-are-you-happy/articleshow/129595035.cms",
+    "time": "2026-03-15T19:06:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In poll-bound Assam, Shah plays Bangladesh infiltrators card",
+    "desc": "Union Home Minister Amit Shah accused Congress of aiding infiltrators in Assam and launched development projects worth over Rs 2,000 crore. He inaugurated healthcare facilities, including a medical college, and highlighted peace accords ending decades of militancy. Shah predicted a massive mandate for BJP, praising the state's improved healthcare and peace initiatives.",
+    "img": "https://static.toiimg.com/photo/msid-129595044,imgsize-1153388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-poll-bound-assam-shah-plays-bangladesh-infiltrators-card/articleshow/129595047.cms",
+    "time": "2026-03-15T19:05:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Here we go Kimi... victory!’",
+    "desc": "Antonelli’s dominant win marks the culmination of years of preparation, development and Mercedes’ faith in him as Hamilton’s successor; Mercedes looks extremely strong and early title predictions revolve around an intra-team battle between its drivers",
+    "img": "https://th-i.thgim.com/public/incoming/16yxxa/article70747585.ece/alternates/LANDSCAPE_1200/China_F1_GP_Auto_Racing_64919.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/motorsport/here-we-go-kimi-victory/article70747581.ece",
+    "time": "2026-03-15T18:44:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Scheme to reduce chemical fertiliser use remains a ‘non-starter’; no incentives released to states yet",
+    "desc": "The government's PM-PRANAM scheme, designed to cut chemical fertiliser use, has failed to disburse any incentives to states over two and a half years. A parliamentary committee urges an urgent review to simplify eligibility and release due funds, as the scheme's impact window closes.",
+    "img": "https://static.toiimg.com/photo/msid-129594532,imgsize-1248634.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/scheme-to-reduce-chemical-fertiliser-use-remains-a-non-starter-no-incentives-released-to-states-yet/articleshow/129594503.cms",
+    "time": "2026-03-15T18:30:06.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Agha’s ton goes in vain as Taskin powers Ban to 11-run series win over Pak",
     "desc": "Bangladesh secured a thrilling 11-run victory over Pakistan in the third ODI, clinching the series 2-1. Tanzid Hasan Tamim's century propelled Bangladesh to 290/5, a total Pakistan couldn't chase despite Salman Agha's valiant hundred. Taskin Ahmed and Mustafizur Rahman's crucial wickets sealed the win for the hosts in a nail-biting finish.",
@@ -90,24 +153,6 @@ const newsData_en = [
     "time": "2026-03-15T15:35:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'In supreme interest of nation': RSS backs Centre's decisions amid Middle East turmoil; calls for peace",
-    "desc": "The RSS has called for an immediate end to the Middle East conflict, emphasizing global peace while backing the Indian government's actions as being in the nation's supreme interest. General secretary Dattatreya Hosabale also addressed protests following a leader's killing, stressing peaceful expression and communal harmony. The organization reiterated its stance on Hindutva and its inclusive vision for Indians abroad.",
-    "img": "https://static.toiimg.com/photo/msid-129591690,imgsize-59262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/in-supreme-interest-of-nation-rss-backs-centres-decisions-amid-middle-east-turmoil-calls-for-peace/articleshow/129591615.cms",
-    "time": "2026-03-15T15:26:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Civic polls will be held in May, DKS tells ticket aspirants",
-    "desc": "The Deputy Chief Minister held a preparatory meeting with ticket aspirants and office-bearers for the GBA civic body elections at Bharat Jodo Bhavan in Bengaluru on Sunday (March 15); it was attended by over 950 aspirants and several city Congress leaders.",
-    "img": "https://th-i.thgim.com/public/incoming/mwoaz7/article70747152.ece/alternates/LANDSCAPE_1200/DKS%20GBA%202.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/civic-polls-will-be-held-in-may-dks-tells-ticket-aspirants/article70746731.ece",
-    "time": "2026-03-15T15:15:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Expectations were immense': Dravid hails Surya &amp; Gambhir in India’s T20 WC win",
     "desc": "Rahul Dravid highlights India's consistent success in global tournaments. He credits this to the nation's immense cricketing talent finally being realized. Dravid noted the alignment of players, administrators, coaches, and fans. He also praised the T20 World Cup winning team for handling immense expectations and performing under pressure. This marks a significant period for Indian cricket.",
@@ -144,15 +189,6 @@ const newsData_en = [
     "time": "2026-03-15T14:55:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "AAP’s Arvind Kejriwal, Manish Sisodia move Supreme Court after Delhi HC rejects plea to transfer excise policy case",
-    "desc": "Arvind Kejriwal and Manish Sisodia have approached the Supreme Court after the Delhi High Court Chief Justice rejected their plea to transfer the CBI's challenge to their discharge in the excise policy case. The appeal was to be heard by Justice Swarana Kanta Sharma, a decision the AAP leaders deemed lacking impartiality, citing early observations by the judge.",
-    "img": "https://static.toiimg.com/photo/msid-129591032,imgsize-80384.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/aaps-kejriwal-sisodia-move-supreme-court-after-delhi-hc-rejects-plea-to-transfer-excise-policy-case/articleshow/129590968.cms",
-    "time": "2026-03-15T14:29:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Chandrika Pujari wins gold as India finish with five medals at World Boxing Futures Cup 2026",
     "desc": "India concluded its World Boxing Futures Cup 2026 campaign in Bangkok with five medals. Chandrika Pujari won gold in the women's 51kg category. Three boxers earned silver medals, and one secured bronze. The performance highlights the nation's growing youth boxing program. This event provided valuable experience for young athletes preparing for future competitions.",
@@ -169,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/did-trisha-krishnans-mother-uma-krishnan-hint-at-her-wedding-with-thalapathy-vijay-a-like-sets-the-internet-talking/articleshow/129590817.cms",
     "time": "2026-03-15T14:13:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "YSRCP and Congress demand strict action against Eluru MP",
-    "desc": "Despite testing positive in a narcotics test, the TDP is trying to shield Putta Mahesh Yadav, alleges Tirupati MP Gurumoorthy; it is shameful that a sitting MP has been caught at a drugs party even as Parliament sessions are going on, says APCC chief Sharmila",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/narcotics-case-ysrcp-and-congress-demand-strict-action-against-eluru-mp/article70746706.ece",
-    "time": "2026-03-15T14:05:10.000Z"
   },
   {
     "cat": "Politics",
@@ -261,15 +288,6 @@ const newsData_en = [
     "time": "2026-03-15T12:47:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "EC announces poll schedule for 4 states, 1 UT; Rahul Gandhi demands Bharat Ratna for Kanshi Ram; &amp; more",
-    "desc": "The Election Commission has announced poll dates for West Bengal, Tamil Nadu, Assam, Kerala, and Puducherry, with results on May 4. Meanwhile, Iran stated its war will cease only after assurances against future US-Israel attacks, as fighting intensifies. Rahul Gandhi urged PM Modi to posthumously award the Bharat Ratna to BSP founder Kanshi Ram.",
-    "img": "https://static.toiimg.com/photo/msid-129589758,imgsize-68490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-ec-announces-poll-schedule-for-4-states-1-ut-rahul-gandhi-demands-bharat-ratna-for-kanshi-ram-more/articleshow/129589553.cms",
-    "time": "2026-03-15T12:33:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Celebrating India’s standout performers on the pitch",
     "desc": "The Times of India Sports Awards (TOISA) 2025 will honour India's top athletes on March 21, 2026, in Lucknow. The event recognises performances from 2025, with a distinguished jury selecting winners across numerous categories. Hockey nominees include Abhishek Nain, Harmanpreet Singh, Jugraj Singh, Amit Rohidas, Udita Duhan, Navneet Kaur, Mumtaz Khan, and Rutuja Pisal for their significant contributions.",
@@ -277,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/toisa-2025-hockey-nominees-celebrating-indias-standout-performers-on-the-pitch/articleshow/129589587.cms",
     "time": "2026-03-15T12:25:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi lauds Om Birla's leadership after no-trust motion fails; Lok Sabha Speaker reacts",
-    "desc": "Prime Minister Narendra Modi lauded Lok Sabha Speaker Om Birla for his composure and impartiality following the rejection of a no-confidence motion against him. Modi commended Birla's adherence to parliamentary decorum and his affirmation that no one is above the rules, reinforcing democratic traditions.",
-    "img": "https://static.toiimg.com/photo/msid-129589573,imgsize-838948.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-lauds-om-birlas-leadership-after-no-trust-motion-fails-lok-sabha-speaker-reacts/articleshow/129589461.cms",
-    "time": "2026-03-15T12:18:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -297,15 +306,6 @@ const newsData_en = [
     "time": "2026-03-15T12:15:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'See medium term shift in traffic flows to, from India; have upped capacity here due to demand:’ Lufthansa",
-    "desc": "The Israel-Iran conflict is poised to reshape international air traffic to and from India in the medium term, with Gulf carriers' schedules uncertain. Lufthansa Group is evaluating expanding its India operations, potentially bringing more airlines like Austrian and Eurowings to the country. The group is also enhancing its partnership with Air India through a joint business agreement.",
-    "img": "https://static.toiimg.com/photo/msid-129589530,imgsize-637640.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/see-medium-term-shift-in-traffic-flows-to-from-india-have-upped-capacity-here-due-to-demand-lufthansa/articleshow/129589535.cms",
-    "time": "2026-03-15T12:14:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No Hitman! Virat Kohli picks Chris Gayle over Rohit Sharma as best T20 opener",
     "desc": "Virat Kohli, in a recent 'This or That' challenge, named Chris Gayle as his top T20 opener over Rohit Sharma. Kohli's selections progressed through Adam Gilchrist, Travis Head, and Virender Sehwag before reaching the final showdown. Gayle's prolific T20 record, including the highest individual IPL score, solidifies his legendary status in the format.",
@@ -315,15 +315,6 @@ const newsData_en = [
     "time": "2026-03-15T12:08:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "EC announces bypoll dates for 8 assembly constituencies across six states; check schedule",
-    "desc": "By-elections for eight assembly seats across six states, including Goa, Gujarat, Karnataka, Maharashtra, Nagaland, and Tripura, have been announced by the Election Commission. Polling dates are set for April 9 and April 23, with vote counting scheduled for May 4. These elections will fill vacant legislative seats, ensuring full representation in state assemblies.",
-    "img": "https://static.toiimg.com/photo/msid-129589437,imgsize-404755.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ec-announces-bypoll-dates-for-8-assembly-constituencies-across-six-states-check-schedule/articleshow/129589440.cms",
-    "time": "2026-03-15T12:07:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Zakir Khan hospitalized? Video of him leaves fans concerned",
     "desc": "Renowned comedian Zakir Khan has taken a step back from his bustling career for health reasons, sending fans into a frenzy. Concerns escalated when a clip of him in hospital attire, engrossed in a cricket match, circulated online, shared by his brother. However, official updates from Lilavati Hospital regarding his health condition are still awaited. Read on to know more in detail.",
@@ -331,51 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zakir-khan-hospitalized-in-mumbai-viral-video-of-the-stand-up-comedian-in-a-hospital-robe-sparks-fan-concern/articleshow/129589282.cms",
     "time": "2026-03-15T12:00:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Full schedule, voting date, result and full details",
-    "desc": "Puducherry will vote for its 30 Assembly seats on April 9, 2026, with results announced on May 4. Nearly 9.44 lakh voters are eligible, including 23,033 first-time electors. The Election Commission emphasized free and fair polls, deploying extensive webcasting and model polling stations. The NDA, including AINRC and BJP, has finalized its seat-sharing plan.",
-    "img": "https://static.toiimg.com/photo/msid-129588777,imgsize-221532.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/puducherry-assembly-election-2026-schedule-date-voting-phase-result-counting-polls-full-details-election-commission/articleshow/129588202.cms",
-    "time": "2026-03-15T11:17:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Full schedule, voting date, result, and all you need to know",
-    "desc": "The Trinamool Congress won a decisive victory in the 2021 West Bengal Assembly elections, securing a third consecutive term. The party claimed 213 seats in the 294-member assembly. The Bharatiya Janata Party emerged as the principal opposition, winning 77 seats. This election marked a significant shift in the state's political landscape.",
-    "img": "https://static.toiimg.com/photo/msid-129588943,imgsize-1595885.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-assembly-election-2026-schedule-date-voting-phase-result-counting-polls-full-details-election-commission/articleshow/129588136.cms",
-    "time": "2026-03-15T11:11:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why your brain struggles to finish this sentence after an hour of reels",
-    "desc": "Scientists warn that habitual short-form video consumption may be weakening crucial brain circuits for deep thinking and focus. Studies show a negative correlation between short-video addiction and prefrontal brain activity, impacting attention, impulse control, and self-regulation.",
-    "img": "https://static.toiimg.com/photo/msid-129588572,imgsize-984476.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-your-brain-struggles-to-finish-this-sentence-after-an-hour-of-reels/articleshow/129588302.cms",
-    "time": "2026-03-15T11:03:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Voting date, result and full details for West Bengal, Tamil Nadu, Assam, Kerala &amp; Puducherry",
-    "desc": "The Election Commission has unveiled the assembly poll schedule for West Bengal, Tamil Nadu, Assam, Kerala, and Puducherry. Key political players like Mamata Banerjee, MK Stalin, and Himanta Biswa Sarma are gearing up for intense electoral battles across these states and the Union Territory.",
-    "img": "https://static.toiimg.com/photo/msid-129586910,imgsize-388132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assembly-election-2026-date-schedule-voting-phase-result-counting-polls-4-states-1-ut-full-details-election-commission/articleshow/129586874.cms",
-    "time": "2026-03-15T11:02:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Voting in one phase on April 23, results on May 4; check full details",
-    "desc": "Tamil Nadu gears up for assembly elections on April 23, with vote counting on May 4. The DMK-led alliance seeks to retain power against the AIADMK-NDA bloc. Notably, actor Vijay's new party, Tamilaga Vettri Kazhagam, has emerged as a significant contender, aiming to disrupt the established political landscape.",
-    "img": "https://static.toiimg.com/photo/msid-129588668,imgsize-1528722.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-election-2026-schedule-date-voting-phase-result-counting-polls-full-details-election-commission/articleshow/129588541.cms",
-    "time": "2026-03-15T11:01:46.000Z"
   },
   {
     "cat": "Business",
@@ -432,15 +378,6 @@ const newsData_en = [
     "time": "2026-03-15T10:16:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Mamata Banerjee raises monthly honorarium for priests, muezzins by Rs 500 ahead of EC's poll schedule announcement",
-    "desc": "West Bengal Chief Minister Mamata Banerjee announced a Rs 500 hike in monthly honorariums for priests and muezzins, raising their pay to Rs 2,000. This move, along with the approval of all new applications, was made just before the Election Commission declared poll dates. Banerjee stated the decision recognizes the vital role of religious functionaries in community life.",
-    "img": "https://static.toiimg.com/photo/msid-129587852,imgsize-682612.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mamata-banerjee-raises-monthly-honorarium-for-priests-muezzins-by-rs-500-ahead-of-ecs-poll-schedule-announcement/articleshow/129587805.cms",
-    "time": "2026-03-15T10:09:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Mother quit job, son scripts history: How Mayank, 16, became Northeast’s 1st GM",
     "desc": "Sixteen-year-old Mayank Chakraborty has made history as the first Grandmaster from Assam and Northeast India. His landmark achievement in Sweden follows years of immense sacrifice, including his mother, Dr. Monomita Chakraborty, resigning from her medical career to support his journey. While celebrated as India’s 94th GM, Mayank’s family now seeks government and corporate backing to sustain his elite professional career.",
@@ -448,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/mother-quit-job-son-scripts-history-how-mayank-chakraborty-16-became-northeasts-1st-gm/articleshow/129587609.cms",
     "time": "2026-03-15T10:03:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul Gandhi demands Bharat Ratna for BSP founder Kanshi Ram; writes to PM Modi",
-    "desc": "Rahul Gandhi has urged Prime Minister Narendra Modi to posthumously award the Bharat Ratna to Bahujan Samaj Party founder Kanshi Ram. Gandhi highlighted Kanshi Ram's significant role in social justice and empowering marginalized communities. This call follows consistent demands from Dalit leaders and intellectuals for the highest national honor for the BSP founder.",
-    "img": "https://static.toiimg.com/photo/msid-129587727,imgsize-634480.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-demands-bharat-ratna-for-bsp-founder-kanshi-ram-writes-to-pm-modi/articleshow/129587487.cms",
-    "time": "2026-03-15T09:57:23.000Z"
   },
   {
     "cat": "Sports",
@@ -504,15 +432,6 @@ const newsData_en = [
     "time": "2026-03-15T09:15:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "The incredible resilience of superstar Ajith Kumar",
-    "desc": "Ajith Kumar, a Tamil film superstar, initially pursued his lifelong passion for motorsports before a career in cinema. After two near-fatal accidents, he shifted focus to acting, achieving significant success with family support. Years later, he returned to professional racing, demonstrating unwavering dedication and discipline, while fans eagerly anticipate his cinematic comeback.",
-    "img": "https://static.toiimg.com/photo/msid-129587164,imgsize-97944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/from-high-speed-tracks-to-blockbuster-screens-the-incredible-resilience-of-superstar-ajith-kumar/articleshow/129587164.cms",
-    "time": "2026-03-15T09:00:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'No team is bigger than the organisation': ICC chairman Jay Shah sends clear message",
     "desc": "ICC Chairman Jay Shah emphasized that no team is bigger than the organization, reflecting on the recent T20 World Cup's success despite pre-tournament uncertainties. He highlighted shattered viewership records and congratulated associate teams for their strong performances. Shah also urged India's captain and coach to maintain their winning momentum and plan for future tournaments.",
@@ -529,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/fpi-profile-foreign-investors-pull-out-rs-52704-crore-in-a-fortnight-as-middle-east-conflict-rattles-markets/articleshow/129586325.cms",
     "time": "2026-03-15T08:24:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How the security is being handled at Oscars 2026",
-    "desc": "Oscars 2026 security is unprecedented, with extensive barricades, over 1,000 law enforcement officials, SWAT teams, and rooftop snipers. The FBI is leveraging AI surveillance for enhanced safety. Executive producer Raj Kapoor emphasized a collaborative effort with law enforcement to ensure everyone feels protected and welcome, highlighting meticulous planning for the event's smooth operation.",
-    "img": "https://static.toiimg.com/photo/msid-129586802,imgsize-132850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-security-rooftop-snipers-ai-surveillance-and-anti-drone-units-protect-the-dolby-theatre-reports/articleshow/129586802.cms",
-    "time": "2026-03-15T08:20:07.000Z"
   },
   {
     "cat": "World",
@@ -583,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/market-recap-mcap-of-top-10-firms-tumbles-by-rs-4-48-lakh-cr-state-bank-hdfc-bank-biggest-laggards/articleshow/129586195.cms",
     "time": "2026-03-15T07:25:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Madras High Court warns six-month jail for'Kochadaiiyaan' producer",
-    "desc": "Rajinikanth's 'Kochadaiiyaan' producer faces a six-month jail term if unpaid dues aren't settled by April 20. The Madras High Court issued this stern warning in a cheque bounce case. A significant portion of the Rs 5 crore owed remains outstanding, with strict payment deadlines set for March 20 and April 20.",
-    "img": "https://static.toiimg.com/photo/msid-129586221,imgsize-83214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kochadaiiyaan-cheque-bounce-case-madras-high-court-warns-six-month-jail-time-to-rajinikanths-film-producer-over-unpaid-dues/articleshow/129586221.cms",
-    "time": "2026-03-15T07:25:25.000Z"
   },
   {
     "cat": "Sports",
@@ -858,7 +759,7 @@ const newsData_en = [
     "cat": "World",
     "title": "China passes new ethnic minority law, prioritise use of Mandarin language",
     "desc": "Called \"Promoting Ethnic Unity and Progress\", the ethnic minority law aims to forge national unity ‌and advance the rejuvenation of the Chinese nation with the Chinese Communist Party (CCP) at its core, a draft copy of the law showed",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-international/h5hjci/article70737070.ece/alternates/LANDSCAPE_1200/China-passes-neG4PFN51MC.3.jpg.jpg",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-international/3va4w6/article70737070.ece/alternates/LANDSCAPE_1200/China-passes-neG4PFN51MC.3.jpg.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-passes-new-ethnic-minority-law-prioritise-use-of-mandarin-language/article70736694.ece",
     "time": "2026-03-13T08:02:52.000Z"
@@ -882,15 +783,6 @@ const newsData_en = [
     "time": "2026-03-13T07:16:27.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran’s new leader warns Strait of Hormuz could be used as strategic leverage",
-    "desc": "Mohammad Marandi, Professor of English Literature and Orientalism at the University of Tehran and a former adviser to Iran’s nuclear negotiating team, shares his perspective on the ongoing war, Iran’s military strategy, and the wider impact of the conflict on global energy markets and the world economy.",
-    "img": "https://th-i.thgim.com/public/news/national/mr4e1o/article70738277.ece/alternates/LANDSCAPE_1200/Iran%20MEA.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/irans-new-leader-warns-strait-of-hormuz-could-be-used-as-strategic-leverage/article70738288.ece",
-    "time": "2026-03-13T06:29:11.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Karnataka government constitutes Committee on Responsible AI",
     "desc": "The committee, in its maiden meeting held in Bengaluru on March 12, discussed the rapidly evolving AI landscape and the need to establish strong governance frameworks to ensure the responsible use of AI technologies, particularly in systems that impact citizens",
@@ -898,5 +790,113 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/karnataka-government-constitutes-committee-on-responsible-ai/article70735241.ece",
     "time": "2026-03-13T03:48:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bumrah — the pace king and the master of the slower one",
+    "desc": "It’s impossible to imagine what it must be like to carry so many expectations every time he has the ball in his hand; to his credit, he has managed to distance himself from the ‘outside noise’, retain his focus and concentrate on what is in his control",
+    "img": "https://th-i.thgim.com/public/sport/1929zy/article70736597.ece/alternates/LANDSCAPE_1200/BUMRAH%20%203443.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/bumrah-the-pace-king-and-the-master-of-the-slower-one/article70736504.ece",
+    "time": "2026-03-12T18:06:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Marijne wants the Indian players to be more precise with finishing",
+    "desc": "The head coach reserves special praise for Navneet, who scored a hat-trick against Wales, but is quick to emphasise that the performance was a collective effort; the Dutchman credits former junior team coach Wonink for making his task easier",
+    "img": "https://th-i.thgim.com/public/incoming/uhaimd/article70736159.ece/alternates/LANDSCAPE_1200/vjkvg-india%2016.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/marijne-wants-the-indian-players-to-be-more-precise-with-finishing/article70736166.ece",
+    "time": "2026-03-12T16:15:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Can’t take it lightly: Rashmika Mandanna warns legal action against privacy-violating content",
+    "desc": "Rashmika Mandanna has reacted to a leaked audio of an alleged conversation involving her mother. The clip has reignited chatter about her past relationship with actor Rakshit Shetty. Rashmika has demanded the content be pulled down immediately",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/kg1i7s/article70735072.ece/alternates/LANDSCAPE_1200/Rashmika.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/rashmika-mandanna-rakshit-shetty-vijay-deverakonda-legal-action-privacy-violating-content-audio-clip-leaked/article70734828.ece",
+    "time": "2026-03-12T12:40:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Padmini Chettur and Preethi Athreya built a platform for contemporary dance in Chennai",
+    "desc": "March Dance, the festival they launched in 2017, aimed to address a vacuum for artistes who did not fit into the traditional dance forms. This year’s edition will be held on March 16, 20 and 21.",
+    "img": "https://th-i.thgim.com/public/entertainment/music/t1w923/article70731014.ece/alternates/LANDSCAPE_1200/13fr_PRIME%20Avantika%20Bahl.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/dance/how-padmini-chettur-and-preethi-athreya-built-a-platform-for-contemporary-dance-in-chennai/article70730493.ece",
+    "time": "2026-03-12T08:40:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why is India staring at LPG shortage?",
+    "desc": "The Indian LPG system is designed for operational flow, not stockpiling. And there are no concrete proposals currently to increase large underground storage either. The International Energy Agency (IEA) has flagged the lack of such storage as an infrastructural weakness in India.",
+    "img": "https://th-i.thgim.com/public/incoming/d84jgf/article70731594.ece/alternates/LANDSCAPE_1200/2026-03-11T133205Z_468406883_RC292KAZMBSO_RTRMADP_3_IRAN-CRISIS-LPG-INDIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/surging-lpg-consumption-and-inadequate-storage-put-india-in-a-bind/article70731586.ece",
+    "time": "2026-03-12T05:31:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Hokum’ trailer: Adam Scott faces witch haunting in Damian McCarthy’s new horror",
+    "desc": "The first trailer for the latest horror film from ‘Oddity’ and ‘Caveat’ director Damian McCarthy, has been unveiled, showing Adam Scott as a novelist drawn into a haunted Irish inn and a mystery tied to a witch haunting its honeymoon suite",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/ihuct2/article70733902.ece/alternates/LANDSCAPE_1200/Hokum_AdamScott_01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/hokum-trailer-adam-scott-faces-witch-haunting-in-damian-mccarthys-new-horror/article70733903.ece",
+    "time": "2026-03-12T05:23:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Amid England’s struggles, Bethell shows he could be the real deal",
+    "desc": "While English cricket endured a tough winter that began with a hammering by Australia in the Ashes and ended with a semifinal loss to India in the T20 World Cup, the 22-year-old sparkled with maiden Test and T20I tons against high-quality opponents in contrasting conditions; the southpaw seems ready to take the next step in his fledgling career",
+    "img": "https://th-i.thgim.com/public/incoming/nvfrl6/article70732549.ece/alternates/LANDSCAPE_1200/11908_5_3_2026_22_54_52_1_DSC_3574.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/amid-englands-strugglesbethellshows-he-could-be-the-real-deal/article70732546.ece",
+    "time": "2026-03-11T18:20:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sales of electric cooktops sizzle as LPG flameout worries families",
+    "desc": "The conflict in West Asia has led to unprecedented demand for the product on e-commerce platforms and retail stores; the prices for induction cooktops have gone up but supplies largely remained available though the inventory is quickly going down",
+    "img": "https://th-i.thgim.com/public/incoming/e4yqc3/article70732556.ece/alternates/LANDSCAPE_1200/PTI03_11_2026_000219B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sales-of-electric-cooktops-sizzle-as-lpg-flameout-worries-families/article70730933.ece",
+    "time": "2026-03-11T18:08:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "A revision of GDP and its implications",
+    "desc": "The revised GDP series with 2022-23 as the base year shows a reduction in the absolute size of GDP and some changes in the production structure of the economy; while the correction in GDP size appears welcome, it remains unclear whether the revision addresses the red flags raised about the 2011-12 series",
+    "img": "https://th-i.thgim.com/public/news/national/9a8anm/article70732444.ece/alternates/LANDSCAPE_1200/iStock-2152570882.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/a-revision-of-gdp-and-its-implications/article70730934.ece",
+    "time": "2026-03-11T17:55:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Artist Jitish Kallat to chair curator selection for next edition of Kochi-Muziris Biennale",
+    "desc": "Jitish Kallat, who lives and works in Mumbai, is a member of the Board of Trustees of the Kochi Biennale Foundation. He previously served as curator of the second edition of the Kochi–Muziris Biennale (2014–15), titled Whorled Explorations",
+    "img": "https://th-i.thgim.com/public/incoming/owlgiw/article70730567.ece/alternates/LANDSCAPE_1200/Jitish_Kallat_04.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/jitish-kallat-to-chair-curator-selection-for-next-edition-of-kochi-muziris-biennale/article70730461.ece",
+    "time": "2026-03-11T10:21:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meet Geeta Gandbhir, the director with two separate Oscar-nominated films",
+    "desc": "Geeta Gandbhir, the Indian-origin American filmmaker is waves at this year’s Oscars with not one, but two nominations. Her documentaries, ‘The Perfect Neighbor’ and ‘The Devil is Busy’ are in the race for the Academy Award",
+    "img": "https://th-i.thgim.com/public/incoming/h1ticq/article70730367.ece/alternates/LANDSCAPE_1200/Geeta%20Gandbhir.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-geeta-gandbhir-indian-origin-nominated-documentary-feature-the-perfect-neighbor-the-devil-is-busy/article70730362.ece",
+    "time": "2026-03-11T09:23:08.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Lessons from India’s C-DOT saga for technology development",
+    "desc": "The Centre for Development of Telematics heralded a communications revolution by developing indigenous rural telephone exchange technology; however, in the three months of K.P. Unnikrishnan as Minister for Communications, the project was derailed and a mass exodus of scientists began",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/lessons-from-indias-c-dot-saga-for-technology-development/article70726867.ece",
+    "time": "2026-03-11T07:03:45.000Z"
   }
 ];
