@@ -1,6 +1,132 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Zendaya’s chapel crash fuels marriage buzz with Tom Holland",
+    "desc": "Zendaya surprised a Las Vegas wedding chapel, sparking marriage rumors with Tom Holland. Her appearance at a promotional event for 'The Drama,' where she signed a marriage license as a witness and wore a gold band, fueled speculation. This follows claims of a secret wedding and her private yet public romance with Holland.",
+    "img": "https://static.toiimg.com/photo/msid-129583674,imgsize-576531.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-crashes-las-vegas-wedding-during-film-promotion-fueling-fresh-buzz-about-rumored-secret-marriage-to-tom-holland/articleshow/129583672.cms",
+    "time": "2026-03-15T01:10:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay arrives in New Delhi for CBI questioning",
+    "desc": "Actor Thalapathy Vijay is in New Delhi for his third round of questioning by the CBI regarding the Karur stampede case. He has checked into the Taj Palace Hotel, with the interrogation scheduled for Sunday, March 15, 2026. Meanwhile, his upcoming film 'Jana Nayagan' faces uncertainty as its OTT rights deal has reportedly been cancelled amid ongoing controversies.",
+    "img": "https://static.toiimg.com/photo/msid-129583649,imgsize-79058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/watch-thalapathy-vijay-arrives-in-new-delhi-for-cbi-questioning-third-round-in-karur-stampede-case/articleshow/129583649.cms",
+    "time": "2026-03-15T01:09:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'8–0': Pak selector Aaqib revives Shadab's dig at legends during T20 WC",
+    "desc": "Pakistan selector Aaqib Javed addressed Pakistan’s ICC Men's T20 World Cup campaign after India national cricket team won the title, saying the team’s 0–8 World Cup record against India should not be used as an excuse. He added Pakistan were eliminated only on net run rate. The discussion also revived controversy over Shadab Khan’s remarks about former players, which disappointed Saqlain Mushtaq.",
+    "img": "https://static.toiimg.com/photo/msid-129576655,imgsize-57112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/80-pakistan-selector-aaqib-javed-revives-shadab-khans-dig-at-legends-during-t20-world-cup/articleshow/129576242.cms",
+    "time": "2026-03-15T01:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Motörhead Guitarist Phil Campbell passes away at 64",
+    "desc": "Legendary Motörhead guitarist Phil Campbell has passed away at 64 following complications from surgery. His family and the band confirmed the news, remembering him as a devoted father and a vital musician who shaped Motörhead's sound for 31 years. Fans are sharing heartfelt tributes online, celebrating his immense legacy.",
+    "img": "https://static.toiimg.com/photo/msid-129583554,imgsize-209060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/motrhead-guitarist-phil-campbell-passes-away-at-64-after-complex-major-operation-fans-mourns-veteran-musician/articleshow/129583554.cms",
+    "time": "2026-03-15T00:46:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kevin Jonas Sr reveals key to his lasting marriage with Denise",
+    "desc": "Celebrating four decades of love, Papa Jonas, the proud father of the Jonas Brothers, released a heartfelt new song, 'Key of You.' In his reflection on 40 years of marriage with Denise, he emphasized the power of mutual acceptance and encouragement. Overjoyed by his sons' supportive reaction to the poignant ballad, Kevin Jonas Sr.",
+    "img": "https://static.toiimg.com/photo/msid-129583531,imgsize-91558.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/kevin-jonas-sr-says-accepting-each-other-is-key-to-his-lasting-marriage-with-denise-jonas/articleshow/129583531.cms",
+    "time": "2026-03-15T00:37:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sarah Michelle Gellar's ‘Buffy the Vampire Slayer’ revival cancelled",
+    "desc": "Fans of 'Buffy the Vampire Slayer' received disappointing news as the planned reboot, 'New Sunnydale,' has been cancelled by Hulu. Sarah Michelle Gellar, who starred as Buffy, confirmed the decision, expressing her sadness. Despite a pilot being filmed and excitement building, the project will not move forward, leaving a void for many.",
+    "img": "https://static.toiimg.com/photo/msid-129583516,imgsize-763095.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/sarah-michelle-gellars-buffy-the-vampire-slayer-revival-cancelled-actress-confirms-new-sunnydale-wont-move-forward/articleshow/129583517.cms",
+    "time": "2026-03-15T00:30:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rawalpindi Traffic Police trolls Pak batter Agha after controversial run-out",
+    "desc": "A controversial run-out of Salman Ali Agha during the ODI between the Pakistan national cricket team and Bangladesh national cricket team sparked online debate after Mehidy Hasan Miraz dismissed him. As the moment went viral, the Rawalpindi Traffic Police used the clip to share a safety message, urging people to stay alert and take personal responsibility on roads and in daily life.",
+    "img": "https://static.toiimg.com/photo/msid-129578129,imgsize-60456.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rawalpindi-traffic-police-trolls-pakistan-batter-salman-ali-agha-after-controversial-run-out-vs-bangladesh/articleshow/129578029.cms",
+    "time": "2026-03-15T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chinmayi Sripada slams Vairamuthu’s Jnanpith honour",
+    "desc": "Veteran Tamil poet Vairamuthu's Jnanpith Award win has ignited controversy. Singer Chinmayi Sripada, who previously accused him of sexual misconduct, voiced strong criticism, questioning the accolades from industry figures like Rajinikanth and Kamal Haasan. She highlighted the impact of #MeToo allegations and the silencing of victims, expressing disappointment over the recognition.",
+    "img": "https://static.toiimg.com/photo/msid-129583482,imgsize-128894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/chinmayi-sripada-questions-vairamuthus-jnanpith-honour-reacts-to-rajinikanth-and-kamal-haasans-praise/articleshow/129583482.cms",
+    "time": "2026-03-15T00:27:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Kerala Story 2’ bo: Film earns Rs 2.96 crore on third Saturday",
+    "desc": "Goes Beyond,' is just shy of the Rs 50 crore milestone. After a solid start to its third week, the film collected Rs 2.96 crore on the 16th day, showcasing a healthy increase from its previous Friday's earnings. With total net collections now at Rs 44.",
+    "img": "https://static.toiimg.com/photo/msid-129583489,imgsize-59134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-16-film-earns-big-on-3rd-saturday-inches-close-to-rs-50-crore/articleshow/129583489.cms",
+    "time": "2026-03-15T00:25:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Thaai Kizhavi' BO day 17: Film gross nears Rs 55 cr",
+    "desc": "Radikaa Sarathkumar's 'Thaai Kizhavi' is enjoying a strong theatrical run, crossing 17 days and amassing over ₹48 crore net. The film saw a significant boost during its third weekend, with collections climbing to ₹3.71 crore on Saturday. Directed by Sivakumar Murugesan, the movie features a notable ensemble cast. It's slated for an OTT release on JioHotstar by late March 2026.",
+    "img": "https://static.toiimg.com/photo/msid-129583439,imgsize-166982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-box-office-collections-day-17-radikaa-sarathkumars-film-gross-nears-rs-55-cr/articleshow/129583439.cms",
+    "time": "2026-03-15T00:06:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After Azad’s criticism, SKY, Gambhir visit temple with T20 WC",
+    "desc": "India's T20 World Cup champions visited a Mumbai temple, continuing celebrations despite a debate sparked by Kirti Azad's remarks questioning religious inclusivity. Azad argued the victory belonged to all Indians, not a specific faith. Harbhajan Singh and Gautam Gambhir defended the team's actions, emphasizing the magnitude of their achievement.",
+    "img": "https://static.toiimg.com/photo/msid-129574983,imgsize-203952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/after-kirti-azads-criticism-suryakumar-yadav-gautam-gambhir-visit-temple-with-t20-world-cup-again-watch/articleshow/129574977.cms",
+    "time": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pak selector Javed justifies T20 WC sorry sight with 'not so big' remark",
+    "desc": "Pakistan's T20 World Cup 2026 journey ended prematurely, missing semifinals on net run rate despite a final win. Selector Aaqib Javed admitted the situation is serious but not catastrophic, emphasizing the team's capability. He pledged a review of the campaign to learn from mistakes and shape the future of Pakistan cricket.",
+    "img": "https://static.toiimg.com/photo/msid-129574529,imgsize-82050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-selector-aaquib-javed-justifies-t20-world-cup-sorry-sight-with-not-so-big-remark/articleshow/129574521.cms",
+    "time": "2026-03-14T23:30:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran Foreign Minister says 'no problem' with Supreme Leader after reported injuries",
+    "desc": "U.S. Secretary of Defense Pete Hegseth said he believed Mr. Khamenei, who took power after his father was killed in a strike at the start of the U.S.-Israeli war on Iran, “is wounded and likely disfigured.”",
+    "img": "https://th-i.thgim.com/public/incoming/86b598/article70744739.ece/alternates/LANDSCAPE_1200/Iran_US_Israel_93175.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-foreign-minister-says-no-problem-with-supreme-leader-after-reported-injuries/article70744516.ece",
+    "time": "2026-03-14T22:42:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jeweller arrested in IDFC First Bank fraud case in Haryana; 12th arrest",
+    "desc": "The case pertains to private lender IDFC First Bank, which had disclosed a ₹590 crore fraud involving certain employees and others at its Chandigarh branch in a set of accounts held by the Haryana government",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/jeweller-arrested-in-idfc-first-bank-fraud-case-in-haryana-12th-arrest/article70744622.ece",
+    "time": "2026-03-14T21:37:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Akshay reacts to paparazzi culture after Jaya Bachchan's comment",
     "desc": "Akshay Kumar shared his perspective on paparazzi, stating that photographers earning a living by clicking him and his family is not an invasion of privacy. He believes that if people stop recognizing him, that would be a genuine concern for an actor. Kumar views it as a part of his profession, not a hazard.",
     "img": "https://static.toiimg.com/photo/msid-129581041,imgsize-36704.cms",
@@ -55,6 +181,24 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "Gateway to the world, from Madurai",
+    "desc": "In the light of the Union government granting international airport status to the Madurai airport, S. Sundar traces the long history of such a demand and highlights what the new status will mean for the ever-growing tourism, connectivity, and industrial needs of districts in southern Tamil Nadu",
+    "img": "https://th-i.thgim.com/public/incoming/vzcn8i/article70744518.ece/alternates/LANDSCAPE_1200/TH15_Madurai%20Airport%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/gateway-to-the-world-frommadurai/article70744484.ece",
+    "time": "2026-03-14T18:26:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "International status for Madurai airport will draw more tourists, pilgrims, says Union Minister",
+    "desc": "Formally according the status to Madurai airport, Civil Aviation Minister Kinjarapu Rammohan Naidu says the move will also help create more jobs and greatly boost hospitality, MSME, and agricultural sectors in the district; he also inaugurates new air traffic control tower set up at cost of ₹94 crore",
+    "img": "https://th-i.thgim.com/public/incoming/oebthi/article70743624.ece/alternates/LANDSCAPE_1200/Minister%20Rammohan%20Naidu-02.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Madurai/international-status-for-madurai-airport-will-draw-more-tourists-pilgrims-says-union-minister/article70743337.ece",
+    "time": "2026-03-14T18:07:41.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "CM Stalin writes to PM to increase rice procurement",
     "desc": "In a letter to Mr. Modi, he said the timely opening of the Mettur Dam for irrigation, favourable climatic conditions, increased area coverage, improved crop management practices, better irrigation support, and the adoption of high-yielding varieties of paddy by farmers",
     "img": "https://th-i.thgim.com/public/incoming/hxeeck/article70744540.ece/alternates/LANDSCAPE_1200/BVR_0500.JPG",
@@ -70,15 +214,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/mojtaba-khamenei-the-cleric-with-a-gun/article70744423.ece",
     "time": "2026-03-14T18:06:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress releases 2nd list of 23 candidates, leaves 15 seats for allies",
-    "desc": "The Indian National Congress has unveiled its second list of 23 candidates for the upcoming Assam Legislative Assembly election in 2026. Key leaders are fielded across various constituencies. The party has strategically left 15 seats for its alliance partners as part of the seat-sharing agreement. This move sets the stage for the upcoming electoral battle in Assam.",
-    "img": "https://static.toiimg.com/photo/msid-129579172,imgsize-736224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assam-elections-2026-congress-releases-2nd-list-of-23-candidates-leaves-15-seats-for-allies/articleshow/129578652.cms",
-    "time": "2026-03-14T17:57:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -118,24 +253,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "'Experts should decide': LDF govt on Sabarimala women entry; BJP demands apology",
-    "desc": "Kerala minister VN Vasavan stated the LDF government maintains its 2007 affidavit, advocating for ritualistic experts to decide on women's entry at Sabarimala. He accused BJP-linked lawyers of initiating the legal battle that led to the 2018 Supreme Court verdict allowing entry, a decision the government only implemented.",
-    "img": "https://static.toiimg.com/photo/msid-129578718,imgsize-2369173.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/experts-should-decide-ldf-govt-on-sabarimala-women-entry-bjp-demands-apology/articleshow/129578713.cms",
-    "time": "2026-03-14T17:31:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "An unholy havoc? Swami Avimukteshwaranand &amp; his coronation with controversy",
-    "desc": "In recent weeks, the seer has found himself at the centre of a political and legal storm that stretches from allegations under the Protection of Children from Sexual Offences (POCSO) Act to a decades old dispute over who has the right to call himself the Shankaracharya of Jyotirmath. For many followers of Sanatan Dharm, the position of Shankaracharya is among the most revered spiritual roles in Hindu tradition.",
-    "img": "https://static.toiimg.com/photo/msid-129578674,imgsize-83322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/an-unholy-havoc-swami-avimukteshwaranand-his-coronation-with-controversy/articleshow/129578137.cms",
-    "time": "2026-03-14T17:28:18.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Why Indian airlines are among the worst hit by the Gulf conflict",
     "desc": "Almost four crore people flew between India and the Gulf in 2025; half of all international passengers flying to or from India was on a Gulf route; idle aircraft, longer flights, higher costs, lower revenue all hurting Indian carriers",
     "img": "https://th-i.thgim.com/public/incoming/pysrlo/article70744434.ece/alternates/LANDSCAPE_1200/2026-03-02T104628Z_1330775828_RC2GK5ALD0IO_RTRMADP_3_AIR-INDIA-EXP-MOVES.JPG",
@@ -151,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-womens-team-qualifies-for-hockey-world-cup-despite-runners-up-finish-in-qualifiers/articleshow/129578579.cms",
     "time": "2026-03-14T17:27:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sukhbir Badal on BJP going solo in 2027 Punjab polls",
-    "desc": "Shiromani Akali Dal president Sukhbir Singh Badal reacted to the BJP's decision to contest the 2027 Punjab Assembly elections independently, stating that every party has the right to make its own alliance decisions. Badal emphasized Punjab's interests as paramount and expressed confidence in the SAD securing a landslide victory, differentiating his party from \"Delhi-based parties.\"",
-    "img": "https://static.toiimg.com/photo/msid-129578170,imgsize-35242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/every-party-has-right-to-decide-alliances-sukhbir-badal-on-bjp-going-solo-in-2027-punjab-polls/articleshow/129578063.cms",
-    "time": "2026-03-14T17:22:14.000Z"
   },
   {
     "cat": "Politics",
@@ -225,24 +333,6 @@ const newsData_en = [
     "time": "2026-03-14T15:08:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Govt. making every effort to ensure adequate  LPG supply to households, says GoM",
-    "desc": "Reiterating that people need not worry and warning against black marketing of LPG cylinders, the GoM says that priority is also being accorded to essential institutions such as hospitals and hostels so that their operations continue without disruption",
-    "img": "https://th-i.thgim.com/public/incoming/yo5p42/article70743814.ece/alternates/LANDSCAPE_1200/DSC_8976.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-making-every-effort-to-ensure-adequate-lpg-supply-to-households-says-gom/article70743683.ece",
-    "time": "2026-03-14T14:46:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Beyond 'Harry Potter' Daniel Radcliffe's most notable roles",
-    "desc": "For most of us Daniel Radcliffe is Harry Potter, the boy who survived! The actor who shot to fame at the age of 10 has spent enough time trying to prove he is much more than the chosen one for Hogwarts. In a career spanning over two decades, the actor has experimented with roles across genres which has made his filmography diverse. From playing Arthur Kipps in ‘The Woman in Black’ or the budding lyricist in ‘Merrily We Roll Along’, Daniel’s filmography is far more eclectic than what viewers expect.",
-    "img": "https://static.toiimg.com/photo/msid-129575795,imgsize-36714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/beyond-harry-potter-daniel-radcliffes-most-notable-roles/photostory/129575795.cms",
-    "time": "2026-03-14T14:22:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Slumdog Millionaire' Oscars sweep: Looking back at the 8 wins",
     "desc": "Fifteen years ago, 'Slumdog Millionaire' captivated the Oscars, clinching eight awards including Best Picture. Danny Boyle's directorial triumph and A.R. Rahman's historic double win for music and song, alongside Resul Pookutty's sound mixing Oscar, marked a monumental moment for Indian cinema on the global stage, proving a homegrown story could conquer Hollywood.",
@@ -288,15 +378,6 @@ const newsData_en = [
     "time": "2026-03-14T13:29:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Zareen says the industry looked down upon her after 'Hate Story 3'",
-    "desc": "Actress Zareen Khan recently detailed her negative experience filming 'Aksar 2', claiming director Anant Mahadevan misrepresented the project, initially pitching it as a stylish noir film. Khan alleged the script was altered to include more bold scenes than initially agreed upon, leading to significant on-set conflict and her exclusion from the film's premiere.",
-    "img": "https://static.toiimg.com/photo/msid-129575095,imgsize-43402.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zareen-khan-says-the-industry-looked-down-upon-her-after-hate-story-3-she-cannot-act-she-decided-to-strip/articleshow/129575068.cms",
-    "time": "2026-03-14T13:14:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I can't': England legend Pietersen quits Delhi Capitals role",
     "desc": "Former England cricketer Kevin Pietersen has stepped down as mentor of Delhi Capitals ahead of the 2026 Indian Premier League, citing lack of time for the role. He will still appear as a commentator during the tournament. Pietersen joined the franchise in 2025 and previously played for several IPL teams during his career. The season begins March 28 in Bengaluru.",
@@ -315,33 +396,6 @@ const newsData_en = [
     "time": "2026-03-14T12:47:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dolly Parton gives health update",
-    "desc": "In a heartfelt update during Dollywood's grand opening, Dolly Parton spoke candidly about her recent health struggles that had delayed her Las Vegas residency. Reflecting on the toll of mourning her beloved husband, Carl Dean, she noted feeling 'worn down' but emphasized her commitment to nurturing her spiritual, emotional, and physical health.",
-    "img": "https://static.toiimg.com/photo/msid-129574618,imgsize-215622.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/dolly-parton-gives-health-update-in-first-major-public-appearance-after-revealing-health-struggles-were-taking-good-care/articleshow/129574618.cms",
-    "time": "2026-03-14T12:39:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Angad shares UNSEEN video from Kritika and Gaurav's wedding party",
-    "desc": "Actress Kritika Kamra and cricket host Gaurav Kapur have officially tied the knot in an intimate registrar wedding ceremony at their Mumbai residence. The private affair was attended by close family and friends, with an after-party featuring former cricketers Yuvraj Singh and Ajit Agarkar. An unseen clip from the lively celebration was recently shared by actor Angad Bedi.",
-    "img": "https://static.toiimg.com/photo/msid-129574631,imgsize-32300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/watch-angad-bedi-shares-unseen-video-from-kritika-kamra-and-gaurav-kapurs-wedding-party/articleshow/129574585.cms",
-    "time": "2026-03-14T12:39:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Haramol Gill opens up about reconnecting with Jessica Barrett",
-    "desc": "In a surprising turn of events, Haramol Gill and Jessica Barrett from Love Is Blind are reigniting their spark after their pod encounter. Jessica's previous engagement faltered mainly due to a lack of physical chemistry, but she seems to have found that missing piece with Haramol.",
-    "img": "https://static.toiimg.com/photo/msid-129574154,imgsize-71750.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/love-is-blind-season-10-haramol-gill-opens-up-about-reconnecting-with-jessica-barrett-after-her-split/articleshow/129574154.cms",
-    "time": "2026-03-14T12:10:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "PCB to probe into Babar Azam, Fakhar Zaman after T20 World Cup exit",
     "desc": "Pakistan's selectors are demanding an inquiry into how star players Babar Azam and Fakhar Zaman sustained injuries, with concerns raised that fitness issues were not disclosed during the T20 World Cup. Aaqib Javed questioned if players would have been declared fit had Pakistan advanced, highlighting a lack of transparency. Younger players are now being given opportunities.",
@@ -349,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-to-probe-into-babar-azam-fakhar-zaman-after-t20-world-cup-exit/articleshow/129574162.cms",
     "time": "2026-03-14T12:10:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Parineeti Chopra gives a peek into Thailand's family trip with Raghav Chadha",
-    "desc": "Recently, Parineeti Chopra and Raghav Chadha whisked away for a family retreat in Thailand, revealing charming snapshots from their explorations in Chinatown and a wedding celebration. Their laid-back holiday vibes, highlighted by pictures with Raghav's mother, have charmed their followers.",
-    "img": "https://static.toiimg.com/photo/msid-129574027,imgsize-275492.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/parineeti-chopra-gives-a-peek-into-thailands-family-trip-with-raghav-chadha/articleshow/129574027.cms",
-    "time": "2026-03-14T12:04:58.000Z"
   },
   {
     "cat": "Sports",
@@ -369,15 +414,6 @@ const newsData_en = [
     "time": "2026-03-14T11:59:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "best performances to watch on OTT",
-    "desc": "Over the years, Aamir Khan has taken on parts that demand discipline, range, and emotional precision. From the resilient Bhuvan in ‘Lagaan’ to the exacting Mahavir Singh Phogat in 'Dangal,' the empathetic Ram Shankar Nikumbh in ‘Taare Zameen Par,' and the unusual yet affecting PK in 'PK,' he has repeatedly shown an ability to step into very different worlds and make each character convincing. He often prepares by reshaping both his body and his understanding of the character in detail. Viewers respond to his roles because they come across as human, believable, and easy to understand. That consistency has helped him shape some of Hindi cinema’s most memorable performances. Today, as the actor has turned 61 years old, here's a list of Aamir Khan's best performances to watch on OTT.",
-    "img": "https://static.toiimg.com/photo/msid-129573929,imgsize-81546.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-birthday-special-taare-zameen-par-to-pk-best-performances-to-watch-on-ott/photostory/129573929.cms",
-    "time": "2026-03-14T11:57:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sathyanathan breaks national record, wins gold at NCAA Indoor C'ships",
     "desc": "Indian long jumper Lokesh Sathyanathan won gold at the NCAA Division I Indoor Track and Field Championships in Fayetteville, Arkansas with an 8.21m leap, setting a new Indian indoor record. The Tarleton State University athlete finished ahead of De'Aundre Ward and Tafadzwa Chikomba. Lokesh dedicated the milestone to his late mother, who died from COVID-19 in 2021.",
@@ -385,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/lokesh-sathyanathan-breaks-national-record-wins-long-jump-gold-at-ncaa-indoor-championships/articleshow/129572791.cms",
     "time": "2026-03-14T11:26:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "BTS faces backlash over alleged racism in new ‘Arirang’ release content",
-    "desc": "The internationally acclaimed group BTS is under fire as backlash develops regarding the animated trailer for 'Arirang,' with accusations of racism and whitewashing coming to the forefront. Critics highlight the representation of Howard University - a central site in the history of the folk song - arguing that the portrayal neglects the presence of Black individuals in pivotal crowd scenes.",
-    "img": "https://static.toiimg.com/photo/msid-129573118,imgsize-101382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bts-faces-backlash-over-alleged-racism-in-new-arirang-release-content/articleshow/129573118.cms",
-    "time": "2026-03-14T10:58:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -486,24 +513,6 @@ const newsData_en = [
     "time": "2026-03-14T08:23:48.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "MS Dhoni's last IPL season? Ex-cricketer makes big prediction",
-    "desc": "Former India all-rounder Irfan Pathan suggests the upcoming IPL season might be MS Dhoni's final appearance for Chennai Super Kings. While Dhoni's fitness is praised, his role is expected to shift towards mentoring, with Sanju Samson potentially benefiting from his guidance. The team aims for a sixth IPL trophy as a fitting farewell.",
-    "img": "https://static.toiimg.com/photo/msid-129571354,imgsize-59362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhonis-last-ipl-season-ex-cricketer-makes-big-prediction/articleshow/129571345.cms",
-    "time": "2026-03-14T08:23:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We're going to create ... ': Suryakumar Yadav pens emotional note",
-    "desc": "Suryakumar Yadav celebrates five years in international cricket, a journey marked by a remarkable T20 World Cup triumph. His impactful debut in 2022 paved the way for a career defined by explosive batting and astute leadership. Yadav's impressive stats and captaincy record highlight his significant contributions to Team India's success.",
-    "img": "https://static.toiimg.com/photo/msid-129570694,imgsize-28750.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/were-going-to-create-suryakumar-yadav-pens-emotional-note/articleshow/129570686.cms",
-    "time": "2026-03-14T07:34:35.000Z"
-  },
-  {
     "cat": "World",
     "title": "The Indians caught in the crossfire",
     "desc": "Since February 28, when Israel and the U.S. jointly attacked Iran, plunging the entire West Asian region into war, thousands of Indian tourists and expatriates have been left stranded across the Gulf. Indian missions have struggled to keep up with requests and demands. From missile and drone strikes, to soaring prices, to communication blackouts, the conflict has left civilians vulnerable, reports Kallol Bhattacherjee",
@@ -540,15 +549,6 @@ const newsData_en = [
     "time": "2026-03-14T06:06:21.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "When Dravid, Laxman stunned Australia",
-    "desc": "India achieved a historic Test win, following on against Australia, a feat accomplished only thrice before. This remarkable victory at Eden Gardens, marked by Sourav Ganguly's captaincy and the heroic partnership of Rahul Dravid and VVS Laxman, defied expectations. The match became a symbol of redemption, with fans' support echoing through the stadium.",
-    "img": "https://static.toiimg.com/photo/msid-129569634,imgsize-52934.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/25-years-of-eden-miracle-when-rahul-dravid-vvs-laxman-stunned-australia/articleshow/129569635.cms",
-    "time": "2026-03-14T05:59:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Tata, Parle, M&amp;M canteens feel LPG squeeze; India Inc redesigns menu — less tea, no samosas or dosas",
     "desc": "India's industrial sector faces disruption as commercial LPG shortages impact factory operations. Manufacturers report production hurdles, particularly in brazing and paint shops, while canteens are paring back menus. Companies are turning to electric alternatives and even firewood to cope with the 'hand-to-mouth' supply situation, with government intervention underway to prioritize household needs.",
@@ -565,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-conflict-india-grants-one-month-visa-extension-to-stranded-foreigners/articleshow/129568782.cms",
     "time": "2026-03-14T04:49:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Never do what Bangladesh captain did': Ex-India star blasts Mehidy Hasan",
-    "desc": "Former India cricketer Mohammad Kaif strongly criticised Bangladesh captain Mehidy Hasan Miraz for a controversial run-out of Salman Ali Agha. Kaif deemed the unsportsmanlike act unacceptable, emphasizing that no wicket-taking desperation justifies such a dismissal, even in a high-stakes match.",
-    "img": "https://static.toiimg.com/photo/msid-129568680,imgsize-42118.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/run-out-controversy-never-do-what-bangladesh-captain-did-ex-india-star-backs-salman-ali-agha-slams-mehidy-hasan-miraz/articleshow/129568678.cms",
-    "time": "2026-03-14T04:29:25.000Z"
   },
   {
     "cat": "Sports",
@@ -718,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/hockey/marijne-wants-the-indian-players-to-be-more-precise-with-finishing/article70736166.ece",
     "time": "2026-03-12T16:15:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ASEAN Ministers to hold meetings to address West Asia crisis",
-    "desc": "The Philippines, this year’s ASEAN chair, is ⁠hosting the meetings as officials weigh impacts and responses to surging oil prices as well as disruptions to shipping, logistics, and trade flows across the ‌region’s export-reliant economies",
-    "img": "https://th-i.thgim.com/public/incoming/734ugv/article70734981.ece/alternates/LANDSCAPE_1200/AP02_24_2026_000191B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/asean-ministers-to-hold-meetings-to-address-west-asia-crisis/article70734960.ece",
-    "time": "2026-03-12T13:22:29.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/sri-lanka-names-kirsten-as-head-coach-with-2027-world-cup-in-focus/article70725127.ece",
     "time": "2026-03-10T04:52:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shahid Kapoor starts shooting for Raj & DK’s 'Farzi 2'",
+    "desc": "The first season of ‘Farzi’ released in 2023 and featured Kapoor in the role of Sunny, a brilliant small-time artist, who gets propelled into the high-stakes world of counterfeiting after creating the perfect fake currency note.",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/miixp/article70721943.ece/alternates/LANDSCAPE_1200/Shahid%20K.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/shahid-kapoor-starts-shooting-for-raj-amp-dks-farzi-2/article70721919.ece",
+    "time": "2026-03-09T10:05:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "VPNs up, porn websites down as Australia brings in new online age-restrictions",
+    "desc": "“A child today can’t walk into a bar and order ​a drink, they can’t stroll into ‌a strip club or browse an adult shop or sit down at a blackjack table in a casino,” eSafety Commissioner Julie Inman Grant said",
+    "img": "https://th-i.thgim.com/public/incoming/l9l8ep/article70721073.ece/alternates/LANDSCAPE_1200/2015-06-21T034151Z_1385551238_GF10000134665_RTRMADP_3_CYBERSECURITY-USA-DEEP-PANDA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/vpns-up-porn-websites-down-as-australia-brings-in-new-online-age-restrictions/article70721067.ece",
+    "time": "2026-03-09T04:45:54.000Z"
   }
 ];

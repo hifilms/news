@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'All about hard work': Rohit Sharma backs India men's and women's teams to continue title-winning streak",
+    "desc": "There is no doubt that when the best teams in world cricket are spoken about, the Indian team is put at the forefront of the discussion. Both the Indian men’s and women’s teams have seen...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/all-about-hard-work-rohit-sharma-backs-india-men-s-and-women-s-teams-to-continue-title-winning-streak-2026-03-15-1033806",
+    "time": "2026-03-15T01:31:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kuldeep Yadav gets married to girlfriend Vanshika Singh in Mussoorie, Chahal shares pics",
     "desc": "India cricketer Kuldeep Yadav got married today to his longtime girlfriend and fiance, Vanshika Singh, in a grand, lavish ceremony in Mussoorie, Uttarakhand. The wedding was orginally slated to happen in November 2025 but had...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-naman-awards-2026-shubman-gill-rahul-dravid-among-those-to-be-honoured-on-march-15-2026-03-14-1033748",
     "time": "2026-03-14T07:09:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Iran hits back at Donald Trump's 'life and safety' comments ahead of FIFA World Cup 2026",
-    "desc": "The FIFA World Cup 2026 is looming on the horizon; the marquee tournament is all set to be co-hosted by the USA, Mexico, and Canada. With the ongoing West Asia war, the participation of Iran...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/iran-hits-back-at-donald-trump-s-life-and-safety-comments-ahead-of-fifa-world-cup-2026-2026-03-14-1033740",
-    "time": "2026-03-14T05:52:01.000Z"
   }
 ];
