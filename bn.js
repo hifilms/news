@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "LNG, PNG, CNG...! শব্দগুলির 'মানে' কী বলুন তো? অনেকেই জানেন সম্পূর্ণ 'ভুল', আপনি?",
+    "desc": "দেশজুড়ে রান্নার গ্যাসের সঙ্কট চরমে। এই পরিস্থিতিতে এলপিজি রান্নার গ্যাসের পাশাপাশি আরও বেশ কিছু সংক্ষিপ্ত নাম বারবারই আলোচনায়, খবরের কাগজের পাতায় উঠে আসছে। এই শব্দগুলি হল এলএনজি, পিএনজি এবং সিএনজি। বললে শুনতে একই রকম শোনাতে পারে, তবে এগুলি বিভিন্ন ধরণের জ্বালানির নাম। প্রতিটি কিন্তু নির্দিষ্ট কিছু ব্যবহারের জন্যই ডিজাইন করা হয়েছে। কী সেই ব্যবহার জানেন?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/GAS-2026-03-ff2a116004e48f80a60d21cd1a5ad3b9-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/lpg-lng-png-cng-what-is-the-meaning-of-these-words-most-people-know-absoulutely-wrong-do-you-have-an-idea-about-the-correct-answer-check-this-trending-gk-sanj-2586069.html",
+    "time": "2026-03-15T12:07:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ভোটের দিন ঘোষণা, ১ দফা নির্বাচন কেন্দ্রশাসিত অঞ্চল পুদুচেরিতে, ৯ এপ্রিল ভোট গ্রহণ, ৪ মে গণনা",
+    "desc": "নির্বাচন কমিশনার জানান যে, \"প্রতিটি ভোটকেন্দ্রে স্বচ্ছতা নিশ্চিত করার জন্য ১০০% ওয়েবকাস্টিং থাকবে। প্রতিটি ভোটকেন্দ্রের প্রিজাইডিং অফিসাররা প্রতি দুই ঘণ্টা পর পর ভোটের সংখ্যা ইনপুট করবেন যাতে নিশ্চিত করা যায় যে মিডিয়ার মাধ্যমে জনসাধারণের কাছে প্রচারিত ভোটের শতাংশ মোটামুটি সঠিক\"৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Election-2026-2026-03-089aa6acdb6358bac0485f0a8936d792-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/assembly-elections-2026-puducherry-vote-9-april-result-4-may-west-bengal-2-phase-assam-kerala-tamil-nadu-vote-in-1-phase-pbd-2586018.html",
+    "time": "2026-03-15T11:54:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘পুরোহিত ও ইমাম ভাতা বাড়ানো আদর্শ আচরণবিধি ভঙ্গ করেনি’! মমতার ঘোষণা নিয়ে জানিয়ে দিলেন জ্ঞানেশ কুমার",
+    "desc": "বাংলার ভোটের দিন ঘোষণার আগেই পুরোহিত ও ইমাম মোয়াজ্জেমদের আর্থিক সহায়তা বাড়ানোর কথা ঘোষণা করেন মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায়৷ এ প্রসঙ্গে মুখ্য নির্বাচন কমিশনার জ্ঞানেশ কুমার জানালেন, ‘‘বাংলায় মোয়াজ্জেন, পুরোহিতদের ভাতা বাড়ানো আদর্শ আচরণবিধি ভঙ্গ করেনি৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-15-at-4.59.26-PM-2026-03-40ac2c4d9b05dcfb02258b18f4cefdf3-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/elections/bengal-assembly-elections-chief-election-commissioner-gyanesh-kumar-on-cm-increasing-stipend-for-priests-and-muezzins-did-not-violate-the-rules-ank-2586079.html",
+    "time": "2026-03-15T11:33:10.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "বিশ্বের ৮টি দেশে রয়েছে সবথেকে বেশি তেলের 'খনি'! আমেরিকা নেই সেই তালিকায়, ভারত কত নম্বরে? জানুন",
+    "desc": "বিশ্বের বৃহত্তম তেল মজুদসম্পন্ন ৮টি দেশ: অপরিশোধিত তেল বিশ্ব অর্থনীতি এবং জ্বালানি খাতের জন্য সবচেয়ে গুরুত্বপূর্ণ সম্পদ হিসেবে রয়ে গেছে। একটি দেশের অর্থনৈতিক শক্তি মূলত তার তেল মজুদের উপর নির্ভর করে। প্রতিবেদন অনুসারে, বিশ্বের বৃহত্তম তেল মজুদসম্পন্ন ৮টি দেশের তালিকা এখানে দেওয়া হল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1773567302_1773546093_dsvfdv-2026-03-036b6fd2a25c35f5e0168f3031ad5c7e-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/8-countries-with-the-largest-oil-reserves-in-the-world-know-here-india-position-transpg-pbd-2585979.html",
+    "time": "2026-03-15T10:33:01.000Z"
+  },
+  {
     "cat": "World",
     "title": "স্বয়ং নবির মসজিদে সমবেত কোটি কোটি মুসলিম; রমজানের ২০ দিনেই মক্কা-মদিনায় প্রায় ১০ কোটি পুণ্যার্থী",
     "desc": "মুসলিমদের কাছে সবচেয়ে পবিত্র মাস রমজান মাস। এসময়ে সূর্যোদয় থেকে সূর্যাস্ত পর্যন্ত রোজা রাখেন তাঁরা। রমজানের শেষ দিনে পালিত হয়-- ইদ-উল ফিতর। এহেন পবিত্র রমজান মাসের প্রথম ২০ দিনেই মক্কা ও মদিনায় রেকর্ড ভিড়! সেখান সমবেত হয়েছেন ৯ কোটি ৬৬ লাখেরও বেশি মুসলিম ও উমরাহ যাত্রী! ভাবা যায়!",
@@ -232,15 +268,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/neena-gupta-addresses-pregnancy-rumors-at-66-following-vijay-rashmika-reception_644730.html ",
     "time": "2026-03-13T10:16:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "দিল্লির বিগ ব্রেকিং: CEC জ্ঞানেশ কুমারকে অপসারণে ১০ পাতার নোটিস, ৭ বড় অভিযোগ",
-    "desc": "তৃণমূলের দাবি, অপসারণ প্রস্তাবের সমর্থনে প্রয়োজনের চেয়ে বেশি সই ইতিমধ্যেই সংগৃহীত। বৃহস্পতিবার তৃণমূল দাবি করে যে, মোট ১৯৩ জন সাংসদ CEC জ্ঞানেশ কুমারের অপসারণ প্রস্তাবে সই করেছেন। প্রস্তাব গৃহীত হলে, তা পাস করাতে দুই-তৃতীয়াংশ সংখ্যাগরিষ্ঠতার সমর্থন প্রয়োজন। ভারতের নির্বাচনী ইতিহাসে এক নজিরবিহীন ঘটনা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/gyanesh-kumar-impeachment-10-page-proposal-served-in-parliament-7-points-mentioned_644725.html ",
-    "time": "2026-03-13T09:32:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/lpg-do-you-know-the-full-form-of-the-word-lpg-in-lpg-gas-cylinder-most-people-know-it-absolutely-wrong-but-the-answer-will-surprise-you-for-sure-sanj-2573808.html",
     "time": "2026-03-07T16:14:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পশ্চিম এশিয়ার অশান্ত পরিস্থিতি, গাড়িতে কতটা তেল ভরে রাখবেন, জ্যারিকেনে তেল ভরে রাখাও কি দরকার",
-    "desc": "জ্বালানি তেলের দাম বাড়ার আশঙ্কা, সন্দেশখালির পেট্রোল পাম্পে ড্রাম-ব্যারেল নিয়ে তেল ভরার হিড়িক মধ্যপ্রাচ্যে চলমান যুদ্ধ পরিস্থিতির জেরেই এই আতঙ্ক ছড়িয়েছে। গত কয়েকদিন ধরেই বিভিন্ন মহলে আলোচনা চলছে যে আন্তর্জাতিক পরিস্থিতির কারণে ভারতে জ্বালানি সরবরাহে প্রভাব পড়তে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/HYP_5800609_cropped_07032026_154611_img_20260307_153336_waterm_1-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/line-in-petrol-pump-scare-of-increase-in-fuel-price-people-gathering-in-sandeshkhali-petrol-pumps-are-filled-with-drum-barrels-dd-l18-local18-2573676.html",
-    "time": "2026-03-07T15:48:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "যুদ্ধের আঁচ রান্নাঘরে! গ্যাসের দামবৃদ্ধিতে নাজেহাল মধ্যবিত্ত",
-    "desc": "মধ্য প্রাচ্যের যুদ্ধ পরিস্থিতিতে তেল, জ্বালানি গ্যাসের আমদানি-রফতানি ঘিরে সংকট তৈরি হয়েছে ইতিমধ্যেই৷ হরমুজ প্রণালি যেখান দিয়ে মূলত তেল আমদানি করে ভারত, সেই প্রণালিতে তেল সরবরাহ কার্যত রদ করে রেখেছে ইরান৷ এমন পরিস্থিতিতে গত শুক্রবার রাতে এক ধাক্কায় ৬০ টাকা বেড়েছে রান্নার গ্যাসের সিলিন্ডারের দাম৷ আজ থেকে রান্নার গ্যাসের দাম হবে ৯৩৯ টাকা এবং বাণিজ্যিক বা কমার্শিয়াল সিলিন্ডারের দাম বেড়ে হল ১৯৯৯ টাকা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Gas-Price-Hike-2026-03-b0ac1e84ffcced671c74fadb1c918f2b-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/business/cooking-gas-price-hike-how-middle-class-people-are-facing-it-ank-2573935.html",
-    "time": "2026-03-07T14:53:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "'কোনও হিসাব দেওয়া হবে না'- ভারতে রফতানি করা তেলের কোনও তথ্য দেবে না রাশিয়া! স্পষ্ট জানাল ক্রেমলিন",
-    "desc": "রাশিয়া থেকে ভারতের কাছে কত পরিমাণ অশোধিত তেল রফতানি করা হচ্ছে, সে সংক্রান্ত কোনও তথ্য প্রকাশ্যে আনা হবে না। শুক্রবার ক্রেমলিনের তরফে সরাসরি এ কথা জানিয়ে দেওয়া হয়েছে। পাশাপাশি, রুশ প্রেসিডেন্ট ভ্লাদিমির পুতিনের দফতরের মুখপাত্র দিমিত্রি পেসকভ এই বিষয়ে খানিক বিদ্রুপে সুরেই মন্তব্য করেন, ‘‘আমরা অতি অশুভাকাঙ্ক্ষীদের তেল রফতানির তথ্য গোপন রাখব।’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/WhatsApp-Image-2026-03-07-at-5.41.57-PM-2026-03-a450383c439c20f15e8a3c0d5592ee84-1200x800.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/no-information-will-be-shared-about-the-crude-oil-import-to-india-smc-2573783.html",
-    "time": "2026-03-07T12:29:09.000Z"
   }
 ];

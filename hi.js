@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New Zealand get bowled out under 100 for 14th time in T20Is, lose to South Africa in 1st T20I",
+    "desc": "New Zealand and South Africa locked horns for the first time since the T20 World Cup concluded. The Kiwis hosted the Proteas for the five-match T20I series and the runners-up of the World Cup surrendered...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-sa-new-zealand-get-bowled-out-under-100-for-14th-time-in-t20is-lose-to-south-africa-in-1st-t20i-2026-03-15-1033857",
+    "time": "2026-03-15T11:53:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sarfaraz Ahmed, former Pakistan captain, announces retirement from international cricket",
+    "desc": "Sarfaraz Ahmed has announced his retirement from international cricket with immediate effect. His career spanned nearly two decades and remains the last captain to lead Pakistan to an ICC trophy. Under his captaincy, Pakistan won...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sarfaraz-ahmed-former-pakistan-captain-announces-retirement-from-international-cricket-2026-03-15-1033853",
+    "time": "2026-03-15T11:02:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bangladesh hope for good start with the bat",
     "desc": "Bangladesh and Pakistan lock horns in the 3rd ODI of the ongoing series. The two sides take on each other at the Shere Bangla National Stadium in Mirpur. It is worth noting that the two...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/all-about-hard-work-rohit-sharma-backs-india-men-s-and-women-s-teams-to-continue-title-winning-streak-2026-03-15-1033806",
     "time": "2026-03-15T01:31:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kuldeep Yadav gets married to girlfriend Vanshika Singh in Mussoorie, Chahal shares pics",
-    "desc": "India cricketer Kuldeep Yadav got married today to his longtime girlfriend and fiance, Vanshika Singh, in a grand, lavish ceremony in Mussoorie, Uttarakhand. The wedding was orginally slated to happen in November 2025 but had...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kuldeep-yadav-gets-married-to-girlfriend-vanshika-singh-in-mussoorie-chahal-shares-pics-2026-03-15-1033802",
-    "time": "2026-03-14T18:49:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'What if this doesn't go well?': England fast bowler contemplating retirement due to slow recovery from injury",
-    "desc": "England fast bowler Mark Wood seems to be contemplating retirement as he slowly recovers from a knee injury sustained during the Ashes. He made his comeback in the Test format in the first Ashes Test...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-if-this-doesn-t-go-well-england-fast-bowler-contemplating-retirement-due-to-slow-recovery-from-injury-2026-03-14-1033795",
-    "time": "2026-03-14T15:14:14.000Z"
   }
 ];
