@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ইরানের নতুন সর্বোচ্চ নেতা মোজতবা খামেনেই কোথায়? তিনি কি বেঁচে আছেন আদৌ...! প্রশ্ন তুললেন ট্রাম্প",
+    "desc": "ইরানের নতুন সর্বোচ্চ নেতা মুজতবা খামেনেইকে ঘিরে বাড়ছে রহস্য। তিনি আদৌ বেঁচে আছেন কি না, তা নিয়ে প্রশ্ন তুলেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। ইরান, ইজরায়েল ও যুক্তরাষ্ট্রের মধ্যে চলমান সংঘাতের মধ্যেই তাঁর এই মন্তব্য নতুন করে জল্পনা তৈরি করেছে, কারণ নতুন দায়িত্ব নেওয়ার পর থেকে মুজতবা খামেনেইকে এখনও জনসমক্ষে দেখা যায়নি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/trump-trump-2026-03-400eeff915592c78673d3246a3dbb553-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/where-is-mojtaba-khamenei-donald-trump-questions-if-irans-new-supreme-leader-is-alive-tib-2585763.html",
+    "time": "2026-03-15T04:58:28.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "১৫তম দিন! তেলের আকাল, যুদ্ধ থামাতেই চাইছে ইরান, কিন্তু...ট্রাম্প যা বললেন! বাড়ল উদ্বেগ",
+    "desc": "Donald Trump ceasefire statement ইরান-ইজরায়েল সংঘাত ক্রমেই জটিল আকার নিচ্ছে। যুদ্ধের ১৫তম দিনে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প জানিয়েছেন, ইরান যুদ্ধবিরতি নিয়ে আলোচনায় আগ্রহী হলেও যুক্তরাষ্ট্র এখনও কোনও চুক্তিতে রাজি নয়। তাঁর দাবি, প্রস্তাবিত শর্তগুলি এখনও আমেরিকার কাছে গ্রহণযোগ্য নয়। সংঘাতের আবহে তেহরানে বিস্ফোরণের খবর, বাড়ছে মৃতের সংখ্যা, পাশাপাশি হরমুজ প্রণালী ঘিরে নতুন উত্তেজনাও তৈরি হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/image-2026-03-a5a4581080f14bdbc1473100ce27b12b-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/trump-says-iran-ready-for-ceasefire-talks-but-us-not-ready-for-deal-amid-iran-israel-war-donald-trump-ceasefire-statement-tib-ws-e-2585714.html",
+    "time": "2026-03-15T03:28:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘দাদাগিরি নয়, টেকনিশিয়ানদের স্বার্থ বড়...!’ টলিউডের ‘হুমকি’ সংস্কৃতি নিয়ে সরব দেব, পাল্টা জবাব স্বরূপ বিশ্বাসেরও",
+    "desc": "দেবের দাবি, ভাল করে খোঁজ নিলে দেখা যাবে, ৭,৫০০ টেকনিশিয়ানের মধ্যে নিয়মিত কাজ পান বড় জোর আড়াই হাজার জন। বাকি ৫,০০০ জন এই আওতায় পড়েন না। স্বরূপ বিশ্বাস পাল্টা বলেন, দেবকে কোনও ভাবে হয়তো ভুল বোঝানো হয়েছে। তাই তিনি এই ধরনের মন্তব্য করেছেন।’’",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Dev-and-Swarup-Biswas-2026-03-7fda968da08ecbea9da71efbc0f7f47c-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/actor-dev-and-federation-president-swarup-biswas-row-speak-out-about-threat-culture-in-tollywood-what-is-their-message-ss-2585695.html",
+    "time": "2026-03-15T02:55:54.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "সিপিএম নেতাদের সহায়তায়, বহু বাধা কাটিয়ে বিয়ে সারলেন মহাকুম্ভের ভাইরাল মোনালিসা... রইল বিয়ের অদেখা ছবি",
     "desc": "কুম্ভমেলায় ভাইরাল হয়েছিলেন বেশ কয়েকজন সাধু, তাঁদের মধ্যে ছিলেন আইআইটি বাবা। ঠিক তেমন সকলের নজর কেড়েছিলেন এই মেয়ে। কুম্ভমেলায় মালা বিক্রি করতে দেখা যায় এক শ্যামলা রঙের মেয়েকে। হাতে বড় ব্যাগে নানা রকমের মালা নিয়ে সে ঘুরছিল মেলায়। সেই মালা বিক্রেতাকে নিয়ে মুহূর্তে তৈরি হয় শোরগোল।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/us-president-donald-trump-announces-quadrupling-of-arms-production-amid-iran-israel-tensions-here-is-why-meeting-arranged-tib-ws-l-2572974.html",
     "time": "2026-03-07T05:13:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "হরমুজ প্রণালী দিয়ে তেল আমদানি ধাক্কা খেলে ভারতে জ্বালানির দামে আগুন লাগতে পারে ! রাশিয়া থেকেও জ্বালানি আমদানি বাড়াল ভারত",
-    "desc": "হরমুজ প্রণালী বেশি দিন বন্ধ থাকলে ভারতের অর্থনীতি চাপে পড়ে যাবে। রফতানি মার খাবে। ধাক্কা খাবে তেল আমদানি। তখন সব জিনিসেরই দাম বাড়ার আশঙ্কা। হরমুজ প্রণালী বন্ধে অর্থনীতি চাপে ! হরমুজ বন্ধের প্রভাব ভারতের বাজারে ! চা থেকে চাল...ধাক্কা খেতে পারে রফতানি ৷ তেল আমদানিও ধাক্কা খাওয়ার আশঙ্কা ৷ ভারতে বেড়ে যেতে পারে জ্বালানির দাম ৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Hormuz-Blocked-2026-03-45c7cbf3262820a5989b28163a6ae002-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/hormuz-blockade-us-reaches-out-to-india-for-russian-oil-help-to-lower-petrol-prices-hormuz-energy-secretary-chris-wright-ss-2572873.html",
-    "time": "2026-03-07T04:52:41.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "আমেরিকা-ইরান যুদ্ধ সপ্তম দিনে! ইরানের ক্ষেপণাস্ত্র হামলা, ইজরায়েলের পাল্টা আঘাত! সংঘাতে জড়াল লেবাননও",
-    "desc": "মধ্যপ্রাচ্যে যুদ্ধের আগুন ক্রমশ ছড়িয়ে পড়ছে। মার্কিন যুক্তরাষ্ট্র, ইজরায়েল এবং ইরানের সংঘাত সপ্তম দিনে পৌঁছে আরও তীব্র হয়ে উঠেছে। একের পর এক ক্ষেপণাস্ত্র হামলা, পাল্টা বিমান আক্রমণ এবং নতুন নতুন দেশ এই সংঘাতে জড়িয়ে পড়ায় গোটা পশ্চিম এশিয়া জুড়ে উদ্বেগ বাড়ছে। ইরান, ইজরায়েল, লেবানন থেকে গালফের একাধিক দেশে যুদ্ধের সরাসরি বা পরোক্ষ প্রভাব পড়তে শুরু করেছে। সামরিক সংঘর্ষের পাশাপাশি কূটনৈতিক উত্তেজনাও চরমে পৌঁছেছে, যা আন্তর্জাতিক রাজনীতিতে নতুন অনিশ্চয়তার ইঙ্গিত দিচ্ছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/war-latest-news-2026-03-fd96f984fc876274a2fcd028918e7f20-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/us-iran-war-enters-seventh-day-intense-attacks-in-tehran-iran-entered-day-7-with-t-fresh-missile-strikes-on-the-military-bases-of-the-two-countries-in-west-asia-tib-ws-el-2572800.html",
-    "time": "2026-03-07T03:25:31.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভারতের ৫০০ টাকার নোট দিলে 'নেপালে' কত পাবেন জানেন...? চমকে দেবে হিসেব, গ্যারান্টি!",
-    "desc": "নেপালে ফের সরকার ঘঠন হতে চলেছে। শুক্রবার চলছে গণনা! স্বভাবতই ফের আলোচনায় প্রাকৃতিক সৌন্দর্যে ভরপুর এই দেশটি। আচ্ছা বলুন তো, এই দেশের অর্থনৈতিক অবস্থা কেমন? প্রতি বছর প্রচুর ভারতীয় পর্যটক পাড়ি দেন এই দেশে। তাহলে বলুন তো নেপালের মুদ্রা আদৌ ভারতের তুলনায় ঠিক কতটা দামি? সেখানে ৫০০ টাকা নিয়ে গেলে তা কত হয়ে যেতে পারে?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/money-12-2026-03-d4723e2e9f9e347d9e2a90b87abb288c-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-nepalese-rupee-do-you-know-how-much-you-will-get-in-nepal-if-you-give-an-indian-500-rupee-note-the-calculation-will-surprise-you-guaranteed-sanj-2572461.html",
-    "time": "2026-03-06T16:18:23.000Z"
   }
 ];

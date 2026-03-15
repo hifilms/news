@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan's Abrar Ahmed to miss The Hundred 2026? Check what latest report says",
+    "desc": "The Hundred 2026 auction recently concluded, and with several star players making their way into different franchises, the purchase of Pakistan’s Abrar Ahmed in the auction caught major headlines. It is worth noting that Abrar...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-s-abrar-ahmed-to-miss-the-hundred-2026-check-what-latest-report-says-2026-03-15-1033819",
+    "time": "2026-03-15T05:01:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer questions Kolkata Knight Riders' retention policy ahead of IPL 2026",
+    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee tournament is set to kick off on March 28, and with the competition right around the corner, the 10...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-questions-kolkata-knight-riders-retention-policy-ahead-of-ipl-2026-2026-03-15-1033812",
+    "time": "2026-03-15T03:59:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kevin PIetersen steps down as Delhi Capitals' mentor ahead of IPL 2026",
+    "desc": "The 19th edition of the IPL (Indian Premier League) is all set to kick off on March 28. Ahead of the new season of the tournament, former England cricketer Kevin Pietersen took to social media...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kevin-pietersen-steps-down-as-delhi-capitals-mentor-ahead-of-ipl-2026-2026-03-15-1033809",
+    "time": "2026-03-15T02:44:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'All about hard work': Rohit Sharma backs India men's and women's teams to continue title-winning streak",
     "desc": "There is no doubt that when the best teams in world cricket are spoken about, the Indian team is put at the forefront of the discussion. Both the Indian men’s and women’s teams have seen...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/icc-reprimands-salman-agha-for-on-field-outburst-following-controversial-run-out-vs-bangladesh-in-2nd-odi-2026-03-14-1033769",
     "time": "2026-03-14T11:07:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch T20I series live on TV and online in India?",
-    "desc": "The stage is set for New Zealand and South Africa to lock horns in a five-game T20I series. It is worth noting that the men’s and the women’s teams will play alongside each other, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-vs-south-africa-when-and-where-to-watch-t20i-series-live-on-tv-and-online-in-india-2026-03-14-1033761",
-    "time": "2026-03-14T09:30:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer hails Jasprit Bumrah as poster boy of Indian cricket after recent success",
-    "desc": "There is no doubt that the Indian team is the most successful side in world cricket currently. Having won the Champions Trophy 2025, the Indian team came into the T20 World Cup 2026 as the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-hails-jasprit-bumrah-as-poster-boy-of-indian-cricket-after-recent-success-2026-03-14-1033755",
-    "time": "2026-03-14T08:22:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill, Rahul Dravid among those to be honoured on March 15",
-    "desc": "The BCCI (Board of Control for Cricket in India) is all set to host its annual Naman Awards. The ceremony will be held on March 15, and several stars from Indian cricket will be in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-naman-awards-2026-shubman-gill-rahul-dravid-among-those-to-be-honoured-on-march-15-2026-03-14-1033748",
-    "time": "2026-03-14T07:09:37.000Z"
   }
 ];
