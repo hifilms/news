@@ -1,12 +1,21 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "રાહનો આવ્યો અંત ! કિંમત છે 10 લાખથી ઓછી, કાલે ભારતમાં લોન્ચ થવા જઈ રહી છે મોસ્ટ અવેટેડ કાર, ફીચર્સ હશે ખાસ",
+    "desc": "આ નવી કાર ત્રણ એન્જિન ઓપ્શન સાથે ઓફર કરવામાં આવશે, જેમાં બે ટર્બો પેટ્રોલ એન્જિન અને એક મજબૂત હાઇબ્રિડ એન્જિનનો સમાવેશ થાય છે. કાર કાલે ભારતમાં લોન્ચ થવા જઈ રહી છે, ભારતમાં તેના જુના મોડલનું ખુબ વેચાણ થયું છે અને લોકોમાં તે લોકપ્રિય પણ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/price-is-less-than-10-lakhs-most-awaited-renault-duster-car-is-going-to-be-launched-in-india-tomorrow-features-will-be-special-468851 ",
+    "time": "2026-03-16T13:59:12.000Z"
+  },
+  {
     "cat": "World",
-    "title": "&amp;quot;જીવતા હશે તો, મારી નાખીશું&amp;quot;, નેતન્યાહૂના મોતની અફવાઓ વચ્તે ઈરાને આપી ચેતવણી, જાણો",
+    "title": "&amp;quot;જીવતા હશે તો, મારી નાખીશું&amp;quot;, નેતન્યાહૂના મોતની અફવાઓ વચ્ચે ઈરાને આપી ચેતવણી, જાણો",
     "desc": "ઈરાનના ઈસ્લામિક રિવોલ્યુશનરી ગાર્ડ કોર્પ્સ (IRGC)એ ઈઝરાયલી વડા પ્રધાન બેન્જામિન નેતન્યાહૂ અંગે કડક ચેતવણી જાહેર કરી છે. IRGCએ જણાવ્યું હતું કે જો નેતન્યાહૂ જીવતા હશે તો તેઓ તેમનો પીછો કરવાનું ચાલુ રાખશે. આ દરમિયાન, ઈઝરાયલે નેતન્યાહૂના મૃત્યુની સોશિયલ મીડિયા અફવાઓને ફગાવી દીધી હતી અને કહ્યું હતું કે વડા પ્રધાન સુરક્ષિત છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/if-he-is-alive-we-will-hunt-him-down-and-kill-him-iran-warns-amid-rumors-of-netanyahu-death-know-this-468842 ",
-    "time": "2026-03-16T12:51:43.000Z"
+    "time": "2026-03-16T13:26:14.000Z"
   },
   {
     "cat": "Politics",
@@ -349,15 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/csk-embroiled-in-legal-battle-with-sun-tv-over-copyright-infringement-before-ipl-2026-468591 ",
     "time": "2026-03-14T12:06:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સાહેબ.... પત્નીની હત્યા કરી આવ્યો છું.... કલ્યાણમાં પત્નીને પતાવી નાસિક પોલીસ સ્ટેશન પહોંચ્યો પતિ",
-    "desc": "કલ્યાણમાં એક વ્યક્તિએ કથિત રીતે પોતાની પત્નીનું ગળું દબાવી હત્યા કરી દીધી અને બાદમાં નાસિક પહોંચી ગયો, જ્યાં તેણે એક પોલીસ સ્ટેશનમાં પહોંચી પોતાનો ગુનો કબૂલ કર્યો હતો. આરોપીની ઓળખ વિશાલ ભુતકરના રૂપમાં થઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/husband-reached-nashik-police-station-after-wife-murder-in-kalyan-468587 ",
-    "time": "2026-03-14T11:42:19.000Z"
   },
   {
     "cat": "Sports",
@@ -718,15 +718,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/bumper-discount-up-to-5-lakh-on-skoda-kodiaq-check-last-date-auto-news-in-gujarati-467577 ",
     "time": "2026-03-07T17:08:09.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "20 KM માઇલેજ, 6 એરબેગ અને એડવાન્સ ફીચર્સ! આ 7-સીટર MPV ના ભાવમાં ઘટાડો",
-    "desc": "Toyota એ પોતાની 7 સીટર એમપીવી Rumion ના નવા બેઝ વેરિએન્ટ E MT ન્યૂડ્રાઇવને 9.55 લાખમાં લોન્ચ કર્યું છે. Rumion ની ડિઝાઇન ઇનોવા હાઇક્રોસ જેવી છે. તેમાં 1.5 લીટર કે-સિરીઝ પેટ્રોલ એન્જિન છે. આવો તેની કિંમત અને ફીચર્સ વિશે જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/toyota-launches-new-base-variant-e-mt-priced-at-9-55-lakh-check-all-details-467517 ",
-    "time": "2026-03-07T09:13:35.000Z"
   },
   {
     "cat": "Entertainment",

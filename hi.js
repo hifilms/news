@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Fire alarm creates chaos during cricket match in Australia, play stopped for 25 minutes in Sheffield Shield",
+    "desc": "The third day's play of the Tasmania vs New South Wales match in the Sheffield Shield was interrupted due to a fire alarm on Monday. The play had to be stopped for nearly half an...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/fire-alarm-creates-chaos-during-cricket-match-in-australia-play-stopped-for-25-minutes-in-sheffield-shield-2026-03-16-1033974",
+    "time": "2026-03-16T15:40:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand to tour Bangladesh during IPL 2026, schedule announced for 3 ODIs and 3 T20Is",
+    "desc": "Bangladesh Cricket Board (BCB) has confirmed the schedule for the national team's next series against New Zealand. The two teams will face each other in six white-ball matches - 3 ODIs and 3 T20Is -...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-to-tour-bangladesh-during-ipl-2026-schedule-announced-for-3-odis-and-3-t20is-2026-03-16-1033971",
+    "time": "2026-03-16T14:47:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Contributes to death of our soldiers': Gavaskar drops massive statement after Sunrisers' Abrar Ahmed deal",
+    "desc": "Sunrisers Hyderabad CEO and co-owner of the team in the Indian Premier League (IPL), Kavya Maran, made the headlines recently as the sister team of the franchise, Sunrisers Leeds, picked Pakistan's Abrar Ahmed in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/contributes-to-death-of-our-soldiers-gavaskar-drops-massive-statement-after-sunrisers-abrar-ahmed-deal-2026-03-16-1033967",
+    "time": "2026-03-16T14:08:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shahid Afridi slams Pakistan selectors after ODI series defeat vs Bangladesh, 'surgery needed on committee'",
     "desc": "Former Pakistan captain Shahid Afridi has slammed the selectors of the national team after the ODI series defeat against Bangladesh on Sunday. Pakistan lost to Bangladesh 1-2 in the three-match series following a poor show...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-lodges-official-complaint-against-bangladesh-over-controversial-review-in-third-odi-2026-03-16-1033904",
     "time": "2026-03-16T04:53:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Their net run rate was not that good': Suresh Raina reflects on KKR's batting order ahead of IPL 2026",
-    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee tournament is all set to kick off on March 28, and ahead of the new season, former India cricketer...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/their-net-run-rate-was-not-that-good-suresh-raina-reflects-on-kkr-s-batting-order-ahead-of-ipl-2026-2026-03-16-1033899",
-    "time": "2026-03-16T04:02:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Great opportunity for us': Shubman Gill lays out India's 'ultimate' 2027 ODI World Cup goal",
-    "desc": "The BCCI (Board of Control for Cricket in India) annual awards saw the board felicitate a plethora of players for their contributions to Indian cricket. From Smriti Mandhana being named the women’s cricketer of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/great-opportunity-for-us-shubman-gill-lays-out-india-s-ultimate-2027-odi-world-cup-goal-2026-03-16-1033893",
-    "time": "2026-03-16T02:33:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ish Sodhi ruled out remainder of South Africa series with broken thumb",
-    "desc": "With New Zealand and South Africa kicking off their five-game T20I series, and the Proteas registering a comfortable win on foreign soil, the Black Caps have been hit with yet another roadblock as star spinner...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ish-sodhi-ruled-out-remainder-of-south-africa-series-with-broken-thumb-2026-03-16-1033889",
-    "time": "2026-03-16T01:38:50.000Z"
   }
 ];

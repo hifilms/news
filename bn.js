@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Tech",
+    "title": "অনলাইনে কোনও লিঙ্ক-এ ক্লিক করার আগে সাবধান, বীরভূমের বাসিন্দাদের সঙ্গে যা হয়েছে...",
+    "desc": "কাররা জালিয়াতির নতুন নতুন পথ অবলম্বন করেছে সাধারণ মানুষের টাকা ব্যাংক থেকে হাতিয়ে নেওয়ার। শুধু তাই নয়, মোবাইলের নিয়ন্ত্রণও চলে যাচ্ছে সাইবার প্রতারকদের হাতে। ঠিক তেমন বীরভূমের মুরারইয়ে একদিনে বেশ কয়েকজনের সঙ্গে এমন ঘটনা ঘটেছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/HYP_5807039_cropped_15032026_220423_scamalertwarningwithcybers_1-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/technology/cyber-fraud-be-cautious-before-clicking-on-any-online-link-consider-what-happened-to-the-residents-of-birbhum-sal-l18-local18-2586472.html",
+    "time": "2026-03-16T14:40:09.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'কেউ বিভ্রান্ত হবেন না... !' সোমবার থেকে স্থগিত স্বাস্থ্য সাথীর আবেদন, লাইভে এসে টেকনিশিয়ানদের আশ্বস্ত করলেন দেব",
     "desc": "রাজ্যে কোড অফ কন্ডাক্ট চালু হওয়ায় সোমবার থেকে টেকনিশিয়ানদের স্বাস্থ্যসাথীর আবেদন স্থগিত, লাইভে এসে জানালেন অভিনেতা দেব। সেই সঙ্গে জানান ৪ঠা মে -এর পর যখন নতুন করে তাদের সরকার গঠিত হবে তখন টেকনিশিয়ানরা এই স্বাস্থ্যসাথী প্রকল্পে রেজিস্ট্রেশনের সুবিধা পাবেন।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/icc-t-20-world-cup-2026-final-2026-hardik-pandya-girlfriend-mahika-sharma-was-present-after-the-match-sta-2575450.html",
     "time": "2026-03-09T05:35:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রাষ্ট্রপতি ভবন বনাম..., আদিবাসী উন্নয়নের 'রিপোর্ট কার্ড' নিয়ে ময়দানে নামছে রাজ্যের শাসক দল",
-    "desc": "রাষ্ট্রপতি প্রতিভা মুর্মুর সাম্প্রতিক মন্তব্যের পর কার্যত রাষ্ট্রপতি ভবনের সঙ্গে সংঘাত আবহে রাজ্য। এই পরিতস্থিতিতে আদিবাসী উন্নয়নে রাজ্যের তরফে যাবতীয় তথ্য নিয়ে জোরদার প্রচার চালানোর সিদ্ধান্ত নেওয়া হচ্ছে । সূত্রের খবর এর পাশাপাশি আর্থিক স্বনির্ভরতার প্রসঙ্গও তুলে ধরা হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/TV_5801747_nabbana_1.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/kolkata/west-bengal-news-west-bengal-ruling-party-tmc-took-to-the-field-with-a-report-card-on-tribal-development-after-president-murmus-recent-comment-on-state-government-sanj-2575240.html",
-    "time": "2026-03-09T04:47:57.000Z"
   }
 ];
