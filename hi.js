@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shahid Afridi slams Pakistan selectors after ODI series defeat vs Bangladesh, 'surgery needed on committee'",
+    "desc": "Former Pakistan captain Shahid Afridi has slammed the selectors of the national team after the ODI series defeat against Bangladesh on Sunday. Pakistan lost to Bangladesh 1-2 in the three-match series following a poor show...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shahid-afridi-slams-pakistan-selectors-after-odi-series-defeat-vs-bangladesh-surgery-needed-on-committee-2026-03-16-1033961",
+    "time": "2026-03-16T12:36:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "West Indies' qualification chances hinder after Bangladesh's ODI series win over Pakistan",
+    "desc": "Bangladesh are back in the reckoning to qualify directly for the World Cup next year after registering a series win over Pakistan in the three-match rubber on Sunday. They defended 290 runs at the Shere...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/world-cup-2027-west-indies-qualification-chances-hinder-after-bangladesh-s-odi-series-win-over-pakistan-2026-03-16-1033956",
+    "time": "2026-03-16T11:17:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Aryna Sabalenka defeats Elena Rybakina, clinches Indian Wells 2026 title after stellar showing",
     "desc": "Belarus’ Aryna Sabalenka re-established herself as one of the best players in world tennis as she defeated Elena Rybakina in the final of Indian Wells 2026. Breaking her tournament curse, Sabalenka clinched her first BNP...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ish-sodhi-ruled-out-remainder-of-south-africa-series-with-broken-thumb-2026-03-16-1033889",
     "time": "2026-03-16T01:38:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India is going to win more ICC trophies in the coming years, says Sanju Samson",
-    "desc": "India opener Sanju Samson has predicted that the Indian cricket team will win more ICC trophies in the upcoming years. He was part of India's T20 World Cup triumph earlier this month and also won...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-is-going-to-win-more-icc-trophies-in-the-coming-years-says-sanju-samson-2026-03-15-1033878",
-    "time": "2026-03-15T17:23:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan's 15-year wait to win ODI series in Bangladesh continues, Salman Agha's fighting ton goes in vain",
-    "desc": "Bangladesh defeated Pakistan by 11 runs in the third and final ODI to win their second consecutive series in the format against them. Both teams played superbly as the crowd at the Shere Bangla National Stadium...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-s-15-year-wait-to-win-odi-series-in-bangladesh-continues-salman-agha-s-fighting-ton-goes-in-vain-2026-03-15-1033877",
-    "time": "2026-03-15T16:58:17.000Z"
   }
 ];

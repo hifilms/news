@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "'কেউ বিভ্রান্ত হবেন না... !' সোমবার থেকে স্থগিত স্বাস্থ্য সাথীর আবেদন, লাইভে এসে টেকনিশিয়ানদের আশ্বস্ত করলেন দেব",
+    "desc": "রাজ্যে কোড অফ কন্ডাক্ট চালু হওয়ায় সোমবার থেকে টেকনিশিয়ানদের স্বাস্থ্যসাথীর আবেদন স্থগিত, লাইভে এসে জানালেন অভিনেতা দেব। সেই সঙ্গে জানান ৪ঠা মে -এর পর যখন নতুন করে তাদের সরকার গঠিত হবে তখন টেকনিশিয়ানরা এই স্বাস্থ্যসাথী প্রকল্পে রেজিস্ট্রেশনের সুবিধা পাবেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Swasthya-Sathi-Card-2026-03-ae73d3de908b45830b20b0aa6fd69c5e-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/technicians-applications-for-swasthya-sathi-card-have-been-suspended-since-monday-dev-assured-echnicians-on-live-rds-2587739.html",
+    "time": "2026-03-16T11:10:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arijit Singh-Qazi Touqeer: যার কাছে প্রতিযোগিতার মঞ্চে হেরেছিলেন অরিজিৎ, সেই 'ফ্লপ' গায়ক জিয়াগঞ্জে এলেন কী চাইতে?",
+    "desc": "এবার সেই জনপ্রিয়তা পুনরুদ্ধার করতেই কি অরিজিৎ সিং -এর সঙ্গে জুটি বাঁধতে চলেছেন তিনি? নাকি শুধু মাত্র পুরনো বন্ধুত্বের টানে জিয়াগঞ্জে পা রাখলেন ফেম গুরুকুল খ্যাত এই গায়ক। যদিও কাজীর এই জিয়াগঞ্জ সফরের মূল উদ্দেশ্য এখনও পর্যন্ত স্পষ্ট নয়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Arijit-Singh-friend-2026-03-4c027a0505e39192e14dd0faab819920-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/arijit-singh-was-defeated-by-him-on-fame-gurukul-now-after-21-years-qazi-touqeer-comes-to-visit-him-at-jiaganj-l18-pbd-local18-2587542.html",
+    "time": "2026-03-16T10:53:41.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ইরান প্রথমবারের মতো ব্যবহার করল ‘ডান্সিং মিসাইল’! রাডার দেখলেই সাপের মতো ঢেউ খেলায়, তারপর করে হামলা",
+    "desc": "ইরান এবার লঞ্চ করল তাদের নিজস্ব প্রযুক্তিতে তৈরি ‘সেজ্জিল ২’ মিসাইল। সলিড ফুয়েল চালিত দুই স্টেজের এই মিসাইলের পাল্লা ২০০০ কিলোমিটার। ফলে খুব সহজেই এটির পাল্লায় চলে আসছে ইজরায়েল। গত ২৮ ফেব্রুয়ারি যুদ্ধ শুরু পর এই প্রথম ইরান এরকম এক শক্তিশালী ক্ষেপণাস্ত্র ব্যবহার করল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Iran-Dancing-Missile-2026-03-d42d6cecd71207bf284def0761fea762-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/iran-first-time-uses-sejjil-2-dancing-missiles-deceives-radar-highly-maneuverable-war-against-israel-and-usa-ss-2587546.html",
+    "time": "2026-03-16T10:37:28.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ওরা আমাকে যা করছে, আর পারছি না: ৫ বন্ধুকে দায়ী করে ১৭ পাতার চিঠি নিয়ে ট্রেনের সামনে মরণঝাঁপ মেধাবী ডাক্তারি পড়ুয়ার",
     "desc": "পুলিস জানিয়েছে যে প্রাথমিক তদন্তে জানা গিয়েছে যে রতন এর আগে দুবার আত্মহত্যার চেষ্টা করেছিলেন, তারপরে তার কাউন্সেলিং করা হয়েছিল। পরিবারের অভিযোগ, প্রথম আত্মহত্যার চেষ্টার সময় যদি ব্যবস্থা নেওয়া হত, তাহলে রতনের জীবন বাঁচানো যেত।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/kolkata/west-bengal-news-west-bengal-ruling-party-tmc-took-to-the-field-with-a-report-card-on-tribal-development-after-president-murmus-recent-comment-on-state-government-sanj-2575240.html",
     "time": "2026-03-09T04:47:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘মনে হয়েছিল সব স্বপ্ন শেষ...’ টি২০ বিশ্বকাপে তৃতীয় ভারতীয় ক্রিকেটার হিসেবে ‘প্লেয়ার অফ দ্য টুর্নামেন্ট’ জেতার পর বললেন স্যামসন",
-    "desc": "সঞ্জু স্যামসন টিমম্যান। ম্যানেজমেন্টের সিদ্ধান্ত মানেন। কোনওদিন কোনও অভিযোগ করেন না। কিন্তু দেশকে বিশ্বসেরার পর হয়তো আবেগে ভেসে গিয়েছিলেন। বলেই ফেললেন, বিশ্বকাপের ঠিক আগে আগে তাঁর মনে হয়েছিল, সব যেন শেষ হয়ে গিয়েছে, তাঁর স্বপ্ন শেষ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Sanju-Samson-Man-Of-The-Tournament-2026-03-d2f70a6dc9a0603e3ef41b5ef531aca5-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/icc-t20-world-cup-2026-sanju-samson-becomes-3rd-indian-after-virat-kohli-and-jasprit-bumrah-to-win-player-of-the-tournament-award-in-t20-world-cupss-2575239.html",
-    "time": "2026-03-09T02:55:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ফাইনালেও সঞ্জু ধামাকা! সুযোগই পাচ্ছিলেন না, স্যামসনের তাণ্ডবেই ৩ নকআউট ম্যাচে রানের পাহাড়ে ভারত",
-    "desc": "প্রথম একাদশে দুই ওপেনার, অভিষেক শর্মার সঙ্গে ঈশান কিশান না কি সঞ্জু, কে ওপেন করবেন, তা নিয়ে প্রথম থেকেই নানা মুনির নানা মত ছিল। বিশ্বকাপে নিয়মিত সুযোগও পাচ্ছিলেন না, সেই সঞ্জুই ঝড় তুললেন বিশ্বকাপ ফাইনালেও।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Sanju-Samson-27-2026-03-aa3801d834399de87e977bb57ccbb0ee-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/sanju-samson-again-scores-big-run-in-india-vs-new-zealand-t20-world-cup-final-2026-rdp-2574966.html",
-    "time": "2026-03-08T16:32:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "টি-২০ বিশ্বকাপ ফাইনালে আজ কি থাকবে বুমরাহ ম্যাজিক? জসপ্রীত বুমরাহের স্কুলে হইহই রব!",
-    "desc": "বুমরাহের প্রশংসায় পঞ্চমুখ হয়েছেন প্রাক্তন ক্রিকেটার ও বিশেষজ্ঞরা। প্রাক্তন ভারতীয় ক্রিকেটার সঞ্জয় মঞ্জেরেকর সোশ্যাল মিডিয়ায় লেখেন, “খেলার মধ্যে এত কিছু বলার আছে। দুই দলের ব্যাটিংই ছিল রোমাঞ্চকর। কিন্তু শেষ পর্যন্ত দুই দলের মধ্যে পার্থক্য ছিল মাত্র একজনের। দুর্দান্ত জসপ্রীত বুমরাহ!” হর্ষ ভোগলেও বুমরাহের প্রশংসা করে বলেন,”ভারতের জন্য এত গুরুত্বপূর্ণ ছোট ছোট পারফরম্যান্স। শেষে তিলক ভার্মা, সর্বত্র হার্দিক পান্ডিয়া, মাঠে অক্ষর দারুন… কিন্তু চিরকালের জন্য অমূল্য হীরা হলেন জসপ্রীত বুমরাহ। আজ টি ২০ বিশ্বকাপে নিউজিল্যান্ডের বিরুদ্ধে তাঁর পারফরমেন্সের দিকে নজর গোটা দেশের৷ ইতিমধ্যেই বুমরাহের স্কুলে যেন সাজো সাজো রব৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1772969368_OUh3D1sZV4-Jasprit-Bumrahjpg-IFbvZwgVJK-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/sports/will-bumrah-magic-be-there-in-the-t20-world-cup-final-today-jasprit-bumrah-school-preperation-pbd-2574773.html",
-    "time": "2026-03-08T11:29:07.000Z"
   }
 ];

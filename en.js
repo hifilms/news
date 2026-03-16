@@ -1,12 +1,264 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Shutdown, protest rallies in Ladakh over Statehood, Sixth Schedule demands",
+    "desc": "Hundreds of locals marched from Singay Namgyal Chowk up to Leh Polo Ground in Leh town, while protesters held a rally in Kargil town that was attended by hundreds of locals; this came even as activist Sonam Wangchuk was released from jail; the KDA and the LAB had called for the shutdown on March 16 in Ladakh",
+    "img": "https://th-i.thgim.com/public/incoming/ri4z50/article70749957.ece/alternates/LANDSCAPE_1200/PTI03_16_2026_000186A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ladakh/shutdown-protest-rallies-in-ladakh-over-statehood-sixth-schedule-demands/article70749757.ece",
+    "time": "2026-03-16T12:50:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shreya secretly watched SRK's Fauji during music lessons",
+    "desc": "Shreya Ghoshal was shocked as her guru Mahesh Chandra Sharma shared how she ditched music classes to watch Fauji and Ramayan at his home. \"Kids are naughty,\" he laughed, praising her sincerity. An emotional letter from young Shreya moved the set. Fauji launched SRK's iconic career in 1989.",
+    "img": "https://static.toiimg.com/photo/msid-129610141,imgsize-32126.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/shreya-ghoshal-secretly-watched-shah-rukh-khans-fauji-during-music-lessons-reveals-her-guru-mahesh-chandra-sharma/articleshow/129610141.cms",
+    "time": "2026-03-16T12:34:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Have almost 100% attendance': Shashi Tharoor says Kerala polls may break his Parliament record",
+    "desc": "Congress MP Shashi Tharoor anticipates missing the final two weeks of Parliament to campaign for the Kerala Assembly elections, a departure from his strong attendance record. He highlighted the crucial nature of the polls, aiming to unseat the ruling LDF. Tharoor also noted the surprise early election schedule, leaving parties with limited preparation time.",
+    "img": "https://static.toiimg.com/photo/msid-129610005,imgsize-1010440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/have-almost-100-attendance-shashi-tharoor-says-kerala-polls-may-break-his-parliament-record-watch/articleshow/129609989.cms",
+    "time": "2026-03-16T12:29:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Iran warns Hormuz can’t be used for attacks; BJP releases 1st candidate list for Bengal, Kerala polls",
+    "desc": "Iran issued a stern warning regarding the Strait of Hormuz amid fresh Israeli strikes, while India advised caution for its citizens. The BJP unveiled its first candidate lists for West Bengal and Kerala polls, notably fielding Suvendu Adhikari from two seats. Meanwhile, an LPG carrier safely reached Mundra, and India's trade deal with the US awaits Washington's tariff framework finalization.",
+    "img": "https://static.toiimg.com/photo/msid-129609979,imgsize-94684.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-iran-warns-hormuz-cant-be-used-for-attacks-bjp-releases-1st-candidate-list-for-bengal-kerala-polls/articleshow/129609398.cms",
+    "time": "2026-03-16T12:27:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Injured Harshit Rana on crutches at BCCI Naman Awards",
+    "desc": "Harshit Rana was seen on crutches at the BCCI Naman Awards, indicating his recovery is not progressing as expected. The Kolkata Knight Riders fast bowler is set to miss the IPL 2026 season due to a knee injury sustained earlier this year. This setback adds to KKR's bowling concerns for the upcoming tournament.",
+    "img": "https://static.toiimg.com/photo/msid-129609697,imgsize-30908.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-injured-harshit-rana-on-crutches-at-bcci-naman-awards-watch/articleshow/129608933.cms",
+    "time": "2026-03-16T12:25:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India ‘engaged’ with U.S. on trade deal, says Commerce Secretary as officials warn of delays",
+    "desc": "Sources in the Ministry of Commerce and Industry say India will sign the deal only once the final “tariff architecture” of the U.S. becomes clear; this comes against the backdrop of a temporary 10% tariff by the U.S. and two new investigations it has launched on trade partners, including India.",
+    "img": "https://th-i.thgim.com/public/incoming/dhbcie/article70749866.ece/alternates/LANDSCAPE_1200/PTI01_27_2026_000329A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/india-engaged-with-us-on-trade-deal-says-commerce-secretary-as-officials-warn-of-delays/article70749810.ece",
+    "time": "2026-03-16T12:12:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After Mustafizur, Harshit blows, KKR get cryptic Pathirana boost",
+    "desc": "Kolkata Knight Riders face setbacks ahead of the Indian Premier League 2026 after being asked by the Board of Control for Cricket in India to release Mustafizur Rahman amid controversy. Paceman Harshit Rana is also doubtful due to knee surgery. However, a cryptic post hints at possible relief regarding Matheesha Pathirana, while Blessing Muzarabani has been added as backup.",
+    "img": "https://static.toiimg.com/photo/msid-129609470,imgsize-59520.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-after-mustafizur-harshit-rana-blows-kkr-get-cryptic-matheesha-pathirana-boost/articleshow/129608619.cms",
+    "time": "2026-03-16T12:04:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parliament yet to act on end-of-life care law despite repeated Supreme Court nudges: Rajya Sabha MP",
+    "desc": "IUML MP Haris Beeran (Kerala) called on the government to introduce the Medical Treatment of terminally ill patients (End-of-Life Care) Act, as recommended by the Law Commission, and to mandate palliative care infrastructure at every district hospital and primary health centre",
+    "img": "https://th-i.thgim.com/public/incoming/kllud8/article70749601.ece/alternates/LANDSCAPE_1200/20260212299L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/parliament-yet-to-act-on-end-of-life-care-law-despite-repeated-supreme-court-nudges-rajya-sabha-mp/article70749506.ece",
+    "time": "2026-03-16T11:50:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why nurses in Kerala’s private hospitals went on strike",
+    "desc": "Nurses in private hospitals across Kerala went on an ‘indefinite strike’ from March 9 to 13, demanding higher wages and better working conditions. Though the agitation has been temporarily withdrawn after a Kerala High Court directive, the United Nurses Association, the main organiser, says it will be resumed if there is no progress in the mediation efforts",
+    "img": "https://th-i.thgim.com/public/incoming/s26uv5/article70749126.ece/alternates/LANDSCAPE_1200/Nurse11.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/why-nurses-in-keralas-private-hospitals-went-on-strike-explained/article70749052.ece",
+    "time": "2026-03-16T11:45:27.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "EU, UN discussing Black Sea type initiative for Strait of Hormuz: Kaja Kallas",
+    "desc": "U.S. President Donald Trump had called on NATO allies and other countries to assist in forcibly opening the Strait of Hormuz, telling the Financial Times on March 15, that it would be “very bad” for the future of NATO if allies did not help the U.S. in opening the passage.",
+    "img": "https://th-i.thgim.com/public/incoming/mseybg/article70749764.ece/alternates/LANDSCAPE_1200/2026-03-16T075406Z_1638231164_RC2J5KAS31VO_RTRMADP_3_IRAN-CRISIS-EU.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/eu-un-discussing-black-sea-type-initiative-for-strait-of-hormuz-kaja-kallas/article70749513.ece",
+    "time": "2026-03-16T11:43:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Palla flays YSRCP for obstructing development through legal cases",
+    "desc": "During the five-year tenure of the YSRCP government, the State witnessed exodus of industries and as many as 913 companies left A.P., TDP State president said reacting to YSRCP MP filing a PIL against the Google AI Hub and Data Center in Visakhapatnam",
+    "img": "https://th-i.thgim.com/public/incoming/sl55ua/article70749802.ece/alternates/LANDSCAPE_1200/Palla-SrinivasaGFAF6BUG5.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/palla-flays-ysrcp-for-obstructing-development-through-legal-cases/article70749753.ece",
+    "time": "2026-03-16T11:42:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP releases candidates for 144 seats in 1st list, fields Suvendu Adhikari in Mamata's Bhabanipur",
+    "desc": "The BJP has unveiled its initial candidate list for 144 West Bengal assembly seats, featuring prominent figures like Suvendu Adhikari, who will contest from Bhabanipur and Nandigram, challenging Chief Minister Mamata Banerjee. Dilip Ghosh is set to run from Kharagpur Sadar. These announcements precede the two-phase elections scheduled for April 23 and 29, with vote counting on May 4.",
+    "img": "https://static.toiimg.com/photo/msid-129608865,imgsize-47354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-2026-bjp-releases-candidates-for-144-seats-in-1st-list-fields-suvendu-adhikari-in-mamatas-bhabanipur/articleshow/129608686.cms",
+    "time": "2026-03-16T11:35:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Naga Chaitanya credits Sobhita Dhulipala for his success",
+    "desc": "Naga Chaitanya credits wife Sobhita Dhulipala for his recent success, calling her a lucky charm after winning Best Actor for 'Thandel'. He highlighted the film's personal significance, being his first release post-wedding. Chaitanya emphasized how domestic harmony fuels his professional achievements, with both he and Dhulipala sharing a deep passion for cinema.",
+    "img": "https://static.toiimg.com/photo/msid-129608493,imgsize-159438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/naga-chaitanya-credits-sobhita-dhulipala-for-his-success-calls-her-his-lucky-charm/articleshow/129608493.cms",
+    "time": "2026-03-16T11:28:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mohanlal gets emotional at Blessy’s son’s wedding",
+    "desc": "Veteran actor Mohanlal expressed deep emotion at filmmaker Blessy's son's wedding, stating it felt like his own son's ceremony. He highlighted their enduring friendship, forged during Blessy's early career. Their past collaborations on acclaimed films like 'Thanmathra' and 'Bhramaram' were also fondly recalled, underscoring their significant impact on Malayalam cinema.",
+    "img": "https://static.toiimg.com/photo/msid-129608177,imgsize-145964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlal-gets-emotional-at-blessys-sons-wedding-feels-like-my-own-sons-wedding/articleshow/129608177.cms",
+    "time": "2026-03-16T11:15:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Experts, policy makers gather to discuss India's evolving political thought, public life",
+    "desc": "The Political Science Conclave 2026, held at the India International Centre in New Delhi, convened scholars, policymakers, and practitioners to discuss contemporary political thought and public life in India. The two-day event featured plenary sessions, thematic discussions, and workshops, with over 150 research papers presented and approximately 300 participants in attendance.",
+    "img": "https://static.toiimg.com/photo/msid-129608149,imgsize-949811.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/political-science-conclave-2026-experts-policy-makers-gather-to-discuss-indias-political-thought-and-public-life/articleshow/129608035.cms",
+    "time": "2026-03-16T11:15:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Prannoy withdraws from Orleans Masters Super 300 tournament",
+    "desc": "HS Prannoy has withdrawn from the Orleans Masters Super 300 after a shoulder injury suffered during the Swiss Open in Basel. Scans showed a minor tear, and he hopes to return for the Asian Championships in Ningbo. With him out, youngsters like Ayush Shetty and Tanvi Sharma will lead India’s challenge.",
+    "img": "https://static.toiimg.com/photo/msid-129608127,imgsize-188594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/hs-prannoy-withdraws-from-orleans-masters-super-300-badminton-tournament/articleshow/129608007.cms",
+    "time": "2026-03-16T11:14:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP releases first list of 47 candidates; fields Rajeev Chandrasekhar, K Surendran",
+    "desc": "The Bharatiya Janata Party has announced its initial list of 47 candidates for the upcoming Kerala assembly elections. Key leaders like Rajeev Chandrasekhar and K Surendran are among those fielded. The party aims to contest across various constituencies in the state. Kerala will go to polls on April 9, with results declared on May 4.",
+    "img": "https://static.toiimg.com/photo/msid-129608145,imgsize-1003192.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kerala-elections-2026-bjp-releases-first-list-of-47-candidates-fields-rajeev-chandrasekhar-k-surendran/articleshow/129608012.cms",
+    "time": "2026-03-16T11:09:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ashwiny Iyer Tiwari reveals dream project is worth Rs 1000 crore",
+    "desc": "Director Ashwiny Iyer Tiwari expressed her dream cast for a big-budget film, including Deepika Padukone, Alia Bhatt, and Sai Pallavi. She also advocated for gender equality in directing large-scale projects, emphasizing the crucial role of studio support and her interest in exploring the action genre.",
+    "img": "https://static.toiimg.com/photo/msid-129608013,imgsize-26336.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ashwiny-iyer-tiwari-reveals-dream-project-is-worth-rs-1000-crore-wants-deepika-padukone-alia-bhatt-sai-pallavi-together/articleshow/129607991.cms",
+    "time": "2026-03-16T11:08:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'In the name of surgery': Afridi blasts Pak selectors for dropping Babar &amp; Co.",
+    "desc": "Shahid Afridi criticised Pakistan’s selectors after the Pakistan national cricket team lost the ODI series 2–1 to the Bangladesh national cricket team following a poor ICC Men's T20 World Cup 2026 campaign. Afridi blamed excessive experimentation and sidelining experienced players. Bangladesh secured the series with an 11-run win at Sher-e-Bangla National Cricket Stadium despite Salman Ali Agha’s century for Pakistan.",
+    "img": "https://static.toiimg.com/photo/msid-129607178,imgsize-64514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/in-the-name-of-surgery-shahid-afridi-blasts-pakistan-selectors-for-dropping-babar-azam-co-/articleshow/129606435.cms",
+    "time": "2026-03-16T10:48:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Antony Dasan records a song for Jason Sanjay's ‘Sigma’",
+    "desc": "A viral photo of folk singer Antony Dasan with Jason Sanjay, son of Thalapathy Vijay, has sparked speculation that Dasan has recorded a song for Sanjay's directorial debut, 'Sigma.' The singer's social media post, featuring an energetic folk track, has fueled fan excitement for a potential powerful rural flavor in the film's soundtrack.",
+    "img": "https://static.toiimg.com/photo/msid-129606910,imgsize-78288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/antony-dasan-records-a-song-for-jason-sanjays-sigma-viral-pic-sparks-buzz/articleshow/129606910.cms",
+    "time": "2026-03-16T10:25:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The meaning of BTS’ new album name ‘Arirang’",
+    "desc": "In an exciting announcement, BTS, the K-pop juggernaut, is poised to unveil their latest album titled 'Arirang.' This title honors a beloved Korean folk song, revered as an unofficial anthem filled with messages of love and resilience.",
+    "img": "https://static.toiimg.com/photo/msid-129606776,imgsize-68738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/the-meaning-behind-arirang-how-bts-is-connecting-the-past-and-the-present/articleshow/129606776.cms",
+    "time": "2026-03-16T10:19:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Assaulted my very idea of parliamentary democracy’: Deve Gowda writes to Sonia Gandhi; flags ‘far too many disruptions’ in Parliament",
+    "desc": "Former Prime Minister H.D. Deve Gowda expressed deep concern to Sonia Gandhi about the \"chaos\" and excessive disruptions within Parliament, attributing them primarily to opposition parties. He cautioned that such actions could severely harm democratic institutions and urged Gandhi to use her experience to guide opposition leaders towards a more constructive approach to protests.",
+    "img": "https://static.toiimg.com/photo/msid-129606647,imgsize-686863.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assaulted-my-very-idea-of-parliamentary-democracy-deve-gowda-writes-to-sonia-gandhi-flags-far-too-many-disruptions-in-parliament/articleshow/129606612.cms",
+    "time": "2026-03-16T10:10:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kate, Kylie, Teyana lead",
+    "desc": "The 2026 Oscars turned into a breathtaking fashion spectacle, where the Hollywood elite shone brightly under the limelight. Leading the charge was Kate Hudson, who donned an astonishing USD 35 million in mesmerizing green diamonds, a sight to behold.",
+    "img": "https://static.toiimg.com/photo/msid-129606391,imgsize-106356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscar-2026-most-expensive-looks-kate-hudson-kylie-jenner-teyana-taylor-top-the-list/articleshow/129606391.cms",
+    "time": "2026-03-16T10:07:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "No gas, no problem: Ready-made meals and frozen foods take over Indian homes",
+    "desc": "Middle East tensions are disrupting LPG supplies, pushing Indian households towards ready-to-cook meals and frozen snacks. Retailers report a significant surge in demand for these alternatives, with some anticipating a lasting shift in consumer habits. Despite government efforts, shortages persist, driving interest in electric cooking solutions.",
+    "img": "https://static.toiimg.com/photo/msid-129606559,imgsize-164811.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/no-gas-no-problem-ready-made-meals-and-frozen-foods-take-over-indian-homes/articleshow/129605664.cms",
+    "time": "2026-03-16T10:06:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Targeted for being Hardeep Puri's daughter': Minister's kin files defamation plea in Delhi HC over Epstein posts",
+    "desc": "Union Minister Hardeep Singh Puri's daughter has filed a plea in the Delhi High Court, seeking legal action against individuals and online platforms. She alleges defamatory content linking her to Jeffrey Epstein is being circulated, causing significant damage to her reputation. The petition requests an injunction against further publication, removal of existing material, and compensation for damages.",
+    "img": "https://static.toiimg.com/photo/msid-129606488,imgsize-80016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/targeted-for-being-hardeep-puris-daughter-ministers-kin-files-defamation-plea-in-delhi-hc-over-epstein-posts/articleshow/129606508.cms",
+    "time": "2026-03-16T10:04:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "UAE's Port of Fujairah: A strategic lifeline for the nation and global oil markets",
+    "desc": "A drone strike hit a petroleum facility at the Port of Fujairah in the UAE. Emergency teams controlled the fire. No injuries were reported. This attack occurs amid escalating Middle East tensions. The port is a vital alternative route for oil exports, bypassing the Strait of Hormuz. Disruptions here could impact global energy markets.",
+    "img": "https://static.toiimg.com/photo/msid-129606385,imgsize-96112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/uae-news-uaes-port-of-fujairah-a-strategic-lifeline-for-the-nation-and-global-oil-markets/articleshow/129606354.cms",
+    "time": "2026-03-16T10:04:07.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Chandrababu Naidu inaugurates Potti Sriramulu statue in Amaravati",
     "desc": "The statue is the first major monumental sculpture to be established in Amaravati, the structure was built using about 26 tonnes of bronze and 42 tonnes of iron framework, and the first phase of the project was completed in a record six-month period, officials said",
     "img": "https://th-i.thgim.com/public/incoming/x9iaq7/article70749408.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-16%20at%202.17.25%20PM.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/chandrababu-naidu-inaugurates-potti-sriramulu-statue-in-amaravati/article70748915.ece",
     "time": "2026-03-16T09:52:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Best-dressed stars at Vanity Fair's 2026 Oscars after-party gala",
+    "desc": "The 2026 Vanity Fair Oscars after-party turned into a fashion haven for Hollywood's brightest stars, including Olivia Rodrigo, Bella Hadid, and Kendall Jenner, who showcased their unique interpretations of style on the silver carpet. The event brought a refreshing break from the Oscars' classic elegance, highlighting a more relaxed yet daring approach to red carpet glam.",
+    "img": "https://static.toiimg.com/photo/msid-129605644,imgsize-148400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/best-dressed-stars-at-the-2026-vanity-fair-oscars-after-party-who-owned-the-silver-carpet/articleshow/129605644.cms",
+    "time": "2026-03-16T09:49:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Usme apna hath set hai': Surya opens up on his favourite cricket format",
+    "desc": "India's T20 World Cup-winning captain Suryakumar Yadav, despite dreaming of Test cricket, finds T20 his natural comfort zone. He admits ODI cricket proved challenging, requiring a blend of styles he never fully grasped. However, he acknowledges the unique charm and atmosphere the 50-over format generated during the 2023 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-129606127,imgsize-88198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/usme-apna-hath-set-hai-suryakumar-yadav-opens-up-on-his-favourite-cricket-format/articleshow/129606087.cms",
+    "time": "2026-03-16T09:47:30.000Z"
   },
   {
     "cat": "Politics",
@@ -61,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nora-fatehi-varun-dhawan-janhvi-kapoor-celebs-pay-their-respects-as-celebrity-hairstylist-marco-pedrozo-passes-away/articleshow/129605497.cms",
     "time": "2026-03-16T09:20:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why nurses in Kerala’s private hospitals went on strike",
-    "desc": "Nurses at private hospitals across Kerala went on an ‘indefinite strike’ from March 9 to 13, led by United Nurses Association, demanding higher wages and better working conditions. Though the strike, which disrupted critical services, has been temporarily withdrawn after a Kerala High Court directive, UNA says it will relaunch the strike if there is no progress in mediation efforts",
-    "img": "https://th-i.thgim.com/public/incoming/s26uv5/article70749126.ece/alternates/LANDSCAPE_1200/Nurse11.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/why-nurses-in-keralas-private-hospitals-went-on-strike-explained/article70749052.ece",
-    "time": "2026-03-16T09:16:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -154,30 +397,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Sneha on reports of being cast with Salman only because she looked like Aishwarya",
+    "title": "Please don't hate me",
     "desc": "Actress Sneha Ullal, often compared to Aishwarya Rai Bachchan upon her debut, shared her experience working with Salman Khan and meeting Aishwarya. Despite media speculation linking her casting to a resemblance with Rai Bachchan, Ullal stated she was never bothered by the comparisons and was warmly welcomed by Aishwarya into Bollywood.",
     "img": "https://static.toiimg.com/photo/msid-129603878,imgsize-43440.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sneha-ullal-addresses-speculations-of-being-cast-opposite-salman-khan-only-because-she-looked-like-aishwarya-rai-recalls-meeting-the-devdas-actress-dont-hate-me/articleshow/129603859.cms",
     "time": "2026-03-16T07:54:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Where to stream winning movies",
-    "desc": "The Oscar-winning films mentioned in the article bring together prestige dramas, performance-driven standouts, animated favorites, documentaries, and a short film that offers an accessible entry point for viewers catching up after awards season. This lineup moves from star-led epics and technical showcases to intimate global cinema and impactful nonfiction, making it a varied post-Oscars watchlist for every kind of movie lover.",
-    "img": "https://static.toiimg.com/photo/msid-129603685,imgsize-28048.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-where-to-stream-one-battle-after-another-sinners-weapons-hamnet-and-other-winning-titles-online/photostory/129603685.cms",
-    "time": "2026-03-16T07:53:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Best and worst moments",
-    "desc": "The 2026 Academy Awards dazzled with groundbreaking victories, marking a first in cinematography and an uncommon tie for Best Live-Action Short. The evening was rife with stunning performances and tear-jerking tributes to cinema icons. Fans celebrated beloved cast reunions and moving acknowledgments of motherhood, making it a night to remember in Hollywood history.",
-    "img": "https://static.toiimg.com/photo/msid-129603410,imgsize-98006.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-highlights-from-moving-tributes-the-devil-wears-prada-skit-to-the-awkward-tie-gaffe-and-speech-cut-offs/articleshow/129603410.cms",
-    "time": "2026-03-16T07:49:31.000Z"
   },
   {
     "cat": "World",
@@ -225,24 +450,6 @@ const newsData_en = [
     "time": "2026-03-16T07:19:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nick Jonas shows off his mangalsutra bracelet at the Oscars",
-    "desc": "Nick Jonas captured Indian fans' hearts at the Oscars by proudly displaying traditional Indian accessories. He sported a sacred Kalava on his wrist and a mangalsutra-inspired bracelet, a piece he's frequently worn. This sentimental gesture, alongside Priyanka Chopra's presence, made a significant impact, showcasing a beautiful blend of cultures on the global stage.",
-    "img": "https://static.toiimg.com/photo/msid-129601699,imgsize-121350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-steals-all-the-attention-from-priyanka-chopra-proud-hubby-shows-off-his-mangalsutra-bracelet-at-the-oscars/articleshow/129601598.cms",
-    "time": "2026-03-16T07:19:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Michael B. Jordan shared a laugh with Jr. NTR",
-    "desc": "Michael B. Jordan won Best Actor for Sinners at 2026 Oscars—his first. The film, out April 2025, wowed all. He recalled meeting Jr NTR, eyeing Bollywood. Viral 2023 after-party pics show them laughing; Jr NTR in sherwani, Jordan suited. Sixth Black actor to win.",
-    "img": "https://static.toiimg.com/photo/msid-129602992,imgsize-26358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-2026-academy-award-winner-michael-b-jordan-shared-a-laugh-with-rrr-star-jr-ntr-at-2023-oscars-after-party/articleshow/129602992.cms",
-    "time": "2026-03-16T07:10:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘You can make two-three XIs’: Surya says India’s T20 talent pool now ‘unlimited’",
     "desc": "India's T20 talent pool is so deep, Suryakumar Yadav believes multiple international-quality teams could be formed, thanks to robust domestic cricket and the IPL. He highlighted the current generation as India's strongest T20 group. Under his captaincy, Team India boasts an impressive win rate, a testament to the team's collective mindset and his strong rapport with coach Gautam Gambhir.",
@@ -250,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-can-make-two-three-xis-suryakumar-yadav-says-indias-t20-talent-pool-now-unlimited/articleshow/129602751.cms",
     "time": "2026-03-16T07:02:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Women who made history at Oscars 2026",
-    "desc": "The Oscars 2026 delivered a night of historic wins, including Autumn Durald Arkapaw becoming the first woman to clinch Best Cinematography. 'Kpop Demon Hunters' shone, with its song 'Golden' marking the first K-pop track to win an Academy Award. A rare tie occurred in Best Live Action Short, and Amy Madigan finally secured her first Oscar after a 40-year wait.",
-    "img": "https://static.toiimg.com/photo/msid-129602391,imgsize-111298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-historic-wins-autumn-durald-arkapaw-and-amy-madigan-k-pop-demon-hunters-shatter-records/articleshow/129602391.cms",
-    "time": "2026-03-16T06:41:25.000Z"
   },
   {
     "cat": "Sports",
@@ -270,15 +468,6 @@ const newsData_en = [
     "time": "2026-03-16T06:34:56.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Top 5 candid moments from the 2026 Oscars",
-    "desc": "Amidst the glamour of the 2026 Oscars, heartfelt moments revealed the true essence of Hollywood. Jacob Elordi swayed to the rhythms of live music alongside his mom, while Ryan Coogler reveled in the joy of a screenplay accolade. Backstage, laughter echoed between Pedro Pascal and Sigourney Weaver, creating a bond beyond the spotlight.",
-    "img": "https://static.toiimg.com/photo/msid-129602253,imgsize-97958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/top-5-candid-moments-from-the-2026-oscars-that-we-did-not-see-on-the-live-broadcast/articleshow/129602253.cms",
-    "time": "2026-03-16T06:33:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "China urges Trump to 'immediately correct erroneous' trade practices",
     "desc": "China has lodged formal objections with the US over new trade investigations into forced labor and excess industrial capacity, urging Washington to correct its \"erroneous ways.\" The probes, targeting 60 economies including China, come as trade negotiators meet in Paris. Beijing criticizes the investigations as \"political manipulation\" and \"discriminatory,\" while the US cites concerns over forced labor in Xinjiang.",
@@ -286,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-forced-labour-probe-china-urges-trump-to-immediately-correct-erroneous-trade-practices/articleshow/129602007.cms",
     "time": "2026-03-16T06:26:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajpal Yadav shares how he stays strong amid legal battle",
-    "desc": "As Rajpal Yadav marks his 55th birthday, he reflects on a personal philosophy that champions daily renewal, a strategy to bolster emotional resilience in the face of adversity. Amidst recent challenges, including a stint in jail over a financial dispute, the beloved actor is undeterred, pouring his energy into upcoming film projects. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129602038,imgsize-101362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-turns-55-bhooth-bangla-actor-shares-how-he-stays-strong-amid-legal-battle-says-every-day-is-a-new-day/articleshow/129602038.cms",
-    "time": "2026-03-16T06:23:21.000Z"
   },
   {
     "cat": "Politics",
@@ -351,15 +531,6 @@ const newsData_en = [
     "time": "2026-03-16T05:41:56.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "EJAE, Rei Ami, Audrey Nuna turn Oscars into KPop concert",
-    "desc": "The 98th Academy Awards witnessed an unexpected K-Pop spectacle as 'KPop Demon Hunters' trio EJAE, Rei Ami, and Audrey Nuna performed their hit 'Golden.' Hollywood stars like Leonardo DiCaprio and Steven Spielberg were seen enthusiastically waving lightsticks, transforming the Dolby Theatre into a vibrant concert atmosphere. The film also secured two major Oscar wins, marking a significant achievement.",
-    "img": "https://static.toiimg.com/photo/msid-129601126,imgsize-121848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ejae-rei-ami-audrey-nunas-golden-performance-turns-oscars-into-kpop-concert-leonardo-dicaprio-steven-spielberg-emma-stone-dance-with-lightsticks-watch/articleshow/129600703.cms",
-    "time": "2026-03-16T05:36:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Our forever begins now’: Kuldeep shares first post after wedding with Vanshika",
     "desc": "Indian spinner Kuldeep Yadav tied the knot with childhood friend Vanshika Chaddha in a star-studded Mussoorie wedding. The private ceremony saw cricketers like Suresh Raina and Yuzvendra Chahal in attendance. The couple, who grew up near each other in Kanpur, celebrated with traditional functions before the main event. This marks a new chapter for the cricketer.",
@@ -376,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/i-have-the-absolute-right-to-charge-tariffs-in-another-form-trump-slams-supreme-court-ruling/articleshow/129601033.cms",
     "time": "2026-03-16T05:22:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mick Jagger and Melanie Hamrick shine at Oscars after-party",
-    "desc": "Mick Jagger, 82, and his fiancée Melanie Hamrick, 38, radiated charm at the Vanity Fair Oscars Party 2026, showcasing their decade-long bond. The couple, who met in 2014, appeared comfortable and connected, with Hamrick emphasizing their contentment and Jagger referring to her ring as a promise ring.",
-    "img": "https://static.toiimg.com/photo/msid-129601021,imgsize-996608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mick-jagger-and-melanie-hamrick-radiate-romance-at-oscars-after-party-2026/articleshow/129601040.cms",
-    "time": "2026-03-16T05:17:43.000Z"
   },
   {
     "cat": "Sports",
@@ -442,15 +604,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Late Richarlison goal rescues Tottenham at Liverpool; United beat Villa",
-    "desc": "Tottenham Hotspur secured a dramatic 1-1 draw at Liverpool with a last-gasp equaliser from Richarlison, while Manchester United solidified their Champions League pursuit by defeating Aston Villa 3-1. Liverpool's Szoboszlai scored a stunning free-kick, but a late defensive lapse allowed Richarlison to snatch a point for Spurs. United's victory, featuring goals from Casemiro, Cunha, and Sesko, keeps them third.",
-    "img": "https://static.toiimg.com/photo/msid-129600192,imgsize-180328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/epl-late-richarlison-goal-rescues-tottenham-at-liverpool-manchester-united-beat-aston-villa-3-1/articleshow/129600197.cms",
-    "time": "2026-03-16T04:14:32.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Last-over drama! Pak file complaint after controversial DRS call in B'desh ODI",
     "desc": "Pakistan has lodged a complaint with the match referee over a controversial DRS call in the final over of their ODI loss to Bangladesh. The Pakistan camp alleges Bangladesh reviewed a decision after seeing a replay on the big screen and potentially outside the allowed time. This overturned wide call significantly impacted the match's outcome.",
     "img": "https://static.toiimg.com/photo/msid-129599980,imgsize-105468.cms",
@@ -466,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/25-years-of-india-vs-australia-eden-gardens-test-and-thus-died-the-follow-on-or-did-it/articleshow/129599909.cms",
     "time": "2026-03-16T03:53:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Coach Marijne impressed, but Indian women's hockey team still a work in progress",
-    "desc": "Indian women's hockey team secured World Cup qualification under coach Sjoerd Marijne, showcasing strong defense and midfield play despite a final loss to England. Marijne praised the team's performance under pressure, highlighting areas for improvement in penalty corner conversion and technical decision-making. The squad, a blend of youth and experience, demonstrated promising potential for future tournaments.",
-    "img": "https://static.toiimg.com/photo/msid-129599617,imgsize-48106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/coach-sjoerd-marijne-impressed-but-indian-womens-hockey-team-still-a-work-in-progress/articleshow/129599593.cms",
-    "time": "2026-03-16T03:21:56.000Z"
   },
   {
     "cat": "Business",
@@ -496,48 +640,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Like a comedy series’: Ex-cricketer slams Pakistan after series loss to Bangladesh",
-    "desc": "Former Pakistan wicketkeeper Kamran Akmal lambasted the national team after their unexpected 1-2 ODI series loss to Bangladesh. He urged treating their matches as comedy, highlighting the disgrace of losing to a lower-ranked opponent. Bangladesh secured a historic series win, their first against Pakistan in 11 years, with standout performances from Tanzid Hasan Tamim and Taskin Ahmed.",
-    "img": "https://static.toiimg.com/photo/msid-129599376,imgsize-133070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/treat-pakistan-matches-like-a-comedy-series-ex-cricketer-slams-team-after-series-loss-to-bangladesh/articleshow/129599356.cms",
-    "time": "2026-03-16T02:59:32.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Has it really happened?': Samson still in disbelief after India’s T20 World Cup win",
     "desc": "Sanju Samson still cannot believe India won the 2026 T20 World Cup at home. He was the Player of the Tournament. Samson believes India's young talent will bring more such victories. He scored 321 runs in five matches. Mohammed Siraj also joined the squad late and won his second World Cup medal.",
     "img": "https://static.toiimg.com/photo/msid-129593407,imgsize-183418.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/has-it-really-happened-sanju-samson-still-in-disbelief-after-indias-t20-world-cup-win/articleshow/129593411.cms",
     "time": "2026-03-16T01:45:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Worked so hard and it all came together': Dravid on Samson’s unforgettable T20 WC",
-    "desc": "Rahul Dravid, honored with the Col CK Nayudu Award, expressed deep gratitude for his cricketing journey and opportunities. He lauded Sanju Samson's remarkable Player of the Tournament performance in the T20 World Cup 2026, highlighting his perseverance and crucial match-winning contributions. Samson's record-breaking spree included most sixes and highest final score.",
-    "img": "https://static.toiimg.com/photo/msid-129591630,imgsize-98124.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/worked-so-hard-and-it-all-came-together-rahul-dravid-on-sanju-samsons-unforgettable-t20-world-cup-run/articleshow/129591627.cms",
-    "time": "2026-03-16T00:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'The goal is to win the IPL trophy': Vaibhav Sooryavanshi targets Rajasthan Royals glory",
-    "desc": "U-19 sensation Vaibhav Sooryavanshi, already an IPL centurion at 14, is laser-focused on winning the IPL trophy for Rajasthan Royals. Having led India to U-19 World Cup glory, the young batter aims to contribute significantly to RR's success. He cherishes reuniting with U-19 teammates and credits early learning from seniors and Rahul Dravid for his development.",
-    "img": "https://static.toiimg.com/photo/msid-129593245,imgsize-183156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/the-goal-is-to-win-the-ipl-trophy-vaibhav-sooryavanshi-targets-rajasthan-royals-glory/articleshow/129593262.cms",
-    "time": "2026-03-16T00:00:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Bhai isko abhi delete kar de': Shivam Dube’s off-guard reaction to camera goes viral",
-    "desc": "India's star all-rounder Shivam Dube charmed fans with a playful interaction with paparazzi outside his Mumbai home. Captured on video, Dube, fresh off a T20 World Cup victory, humorously asked a photographer to delete footage. His significant contributions to India's 2026 triumph, including 235 runs at a 169.06 strike rate, have cemented his status as a key player.",
-    "img": "https://static.toiimg.com/photo/msid-129590086,imgsize-703643.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/bhai-isko-abhi-delete-kar-de-shivam-dubes-off-guard-reaction-to-camera-goes-viral-watch/articleshow/129590022.cms",
-    "time": "2026-03-15T23:30:00.000Z"
   },
   {
     "cat": "Politics",
@@ -583,33 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/why-is-the-us-investigating-india-explained/article70746388.ece",
     "time": "2026-03-15T17:16:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Seven pilgrims from Tamil Nadu  killed, seven others injured in road accident in Nepal",
-    "desc": "A total of 24 pilgrims from Pollachi and Devakottai travelled to the Manakamana Temple in Gorkha district. The bodies are being taken to Kathmandu, from where they will be sent to Chennai, says a State government statement",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/seven-pilgrims-from-tamil-nadu-killed-seven-others-injured-in-road-accident-in-nepal/article70747348.ece",
-    "time": "2026-03-15T17:06:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ahead of Id, NC seeks release of Kashmiris booked under UAPA for protesting Khamenei killing",
-    "desc": "National Conference describes protest rallies as “mourning gatherings”, noting that Khamenei was not just a head of state, but a revered religious leader to many Kashmiris; MLAs say L-G promised to review cases ahead of Id",
-    "img": "https://th-i.thgim.com/public/incoming/lzyoho/article70747453.ece/alternates/LANDSCAPE_1200/PTI03_13_2026_000251B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/ahead-of-id-nc-seeks-release-of-kashmiris-booked-under-uapa-for-protesting-khamenei-killing/article70747317.ece",
-    "time": "2026-03-15T16:49:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Parties, outfits invoke ‘Brahmin’ angle to ‘pandit’ reference in U.P. police recruitment exam",
-    "desc": "A question asked candidates to choose a term for ‘a person who changes according to circumstances’. The options were ‘Pandit’ (scholar), ‘Avsarvadi’ (opportunist), ‘Nishkapat’ (innocent or sincere) and ‘Sadachari’ (virtuous). CM issues directions to avoid ‘derogatory’ and ‘disrespectful’ references",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/parties-outfits-invoke-brahmin-angle-to-pandit-reference-in-up-police-recruitment-exam/article70746751.ece",
-    "time": "2026-03-15T16:36:23.000Z"
   },
   {
     "cat": "World",
@@ -774,24 +855,6 @@ const newsData_en = [
     "time": "2026-03-13T16:25:55.000Z"
   },
   {
-    "cat": "World",
-    "title": "Deadly blast rocks Iran as leaders attend rally in show of defiance",
-    "desc": "\"These attacks are out of fear, out of desperation,\" said Ali Larijani, secretary of the Supreme National Security Council, who attended the rally in Iran to mark Quds Day; President Masoud Pezeshkian and Foreign Minister Abbas Araghchi also attended the rally",
-    "img": "https://th-i.thgim.com/public/sport/cricket/1vt9gz/article70739383.ece/alternates/LANDSCAPE_1200/HDSfXmKWYAAc7DV.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/deadly-blast-rocks-iran-as-leaders-attend-rally-in-show-of-defiance/article70739328.ece",
-    "time": "2026-03-13T13:58:22.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran’s new Supreme Leader ‘wounded,’ ‘likely disfigured’, claims Hegseth",
-    "desc": "U.S. will not allow Strait of Hormuz shipping to be contested, says U.S. Defence Secretary Pete Hegseth; Iranian officials have confirmed Iran's new Supreme Leader Mojtaba Khamenei is wounded but have given no further detail",
-    "img": "https://th-i.thgim.com/public/incoming/yfzddt/article70739512.ece/alternates/LANDSCAPE_1200/2026-03-07T152143Z_584376498_RC2QZJAGPFO7_RTRMADP_3_USA-TRUMP-AMERICAS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-secretary-of-defense-pete-hegseth-briefing-on-us-israel-iran-war-march-13-2026/article70739482.ece",
-    "time": "2026-03-13T13:14:57.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India’s oil and gas strategy amid U.S.-Iran tensions",
     "desc": "India’s crude basket has jumped to $120 per barrel – an increase that will affect petrol and diesel prices, as well as domestic gas prices, which are linked to 10% of the Indian crude basket; higher fuel prices transmit inflationary and macro-economic pressures via higher cost of transport etc.",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/rashmika-mandanna-rakshit-shetty-vijay-deverakonda-legal-action-privacy-violating-content-audio-clip-leaked/article70734828.ece",
     "time": "2026-03-12T12:40:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How Padmini Chettur and Preethi Athreya built a platform for contemporary dance in Chennai",
-    "desc": "March Dance, the festival they launched in 2017, aimed to address a vacuum for artistes who did not fit into the traditional dance forms. This year’s edition will be held on March 16, 20 and 21.",
-    "img": "https://th-i.thgim.com/public/entertainment/music/t1w923/article70731014.ece/alternates/LANDSCAPE_1200/13fr_PRIME%20Avantika%20Bahl.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/dance/how-padmini-chettur-and-preethi-athreya-built-a-platform-for-contemporary-dance-in-chennai/article70730493.ece",
-    "time": "2026-03-12T08:40:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why is India staring at LPG shortage?",
-    "desc": "The Indian LPG system is designed for operational flow, not stockpiling. And there are no concrete proposals currently to increase large underground storage either. The International Energy Agency (IEA) has flagged the lack of such storage as an infrastructural weakness in India.",
-    "img": "https://th-i.thgim.com/public/incoming/d84jgf/article70731594.ece/alternates/LANDSCAPE_1200/2026-03-11T133205Z_468406883_RC292KAZMBSO_RTRMADP_3_IRAN-CRISIS-LPG-INDIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/surging-lpg-consumption-and-inadequate-storage-put-india-in-a-bind/article70731586.ece",
-    "time": "2026-03-12T05:31:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Hokum’ trailer: Adam Scott faces witch haunting in Damian McCarthy’s new horror",
-    "desc": "The first trailer for the latest horror film from ‘Oddity’ and ‘Caveat’ director Damian McCarthy, has been unveiled, showing Adam Scott as a novelist drawn into a haunted Irish inn and a mystery tied to a witch haunting its honeymoon suite",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/ihuct2/article70733902.ece/alternates/LANDSCAPE_1200/Hokum_AdamScott_01.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/hokum-trailer-adam-scott-faces-witch-haunting-in-damian-mccarthys-new-horror/article70733903.ece",
-    "time": "2026-03-12T05:23:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Amid England’s struggles, Bethell shows he could be the real deal",
-    "desc": "While English cricket endured a tough winter that began with a hammering by Australia in the Ashes and ended with a semifinal loss to India in the T20 World Cup, the 22-year-old sparkled with maiden Test and T20I tons against high-quality opponents in contrasting conditions; the southpaw seems ready to take the next step in his fledgling career",
-    "img": "https://th-i.thgim.com/public/incoming/nvfrl6/article70732549.ece/alternates/LANDSCAPE_1200/11908_5_3_2026_22_54_52_1_DSC_3574.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/amid-englands-strugglesbethellshows-he-could-be-the-real-deal/article70732546.ece",
-    "time": "2026-03-11T18:20:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Sales of electric cooktops sizzle as LPG flameout worries families",
-    "desc": "The conflict in West Asia has led to unprecedented demand for the product on e-commerce platforms and retail stores; the prices for induction cooktops have gone up but supplies largely remained available though the inventory is quickly going down",
-    "img": "https://th-i.thgim.com/public/incoming/e4yqc3/article70732556.ece/alternates/LANDSCAPE_1200/PTI03_11_2026_000219B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sales-of-electric-cooktops-sizzle-as-lpg-flameout-worries-families/article70730933.ece",
-    "time": "2026-03-11T18:08:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "A revision of GDP and its implications",
-    "desc": "The revised GDP series with 2022-23 as the base year shows a reduction in the absolute size of GDP and some changes in the production structure of the economy; while the correction in GDP size appears welcome, it remains unclear whether the revision addresses the red flags raised about the 2011-12 series",
-    "img": "https://th-i.thgim.com/public/news/national/9a8anm/article70732444.ece/alternates/LANDSCAPE_1200/iStock-2152570882.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/a-revision-of-gdp-and-its-implications/article70730934.ece",
-    "time": "2026-03-11T17:55:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Artist Jitish Kallat to chair curator selection for next edition of Kochi-Muziris Biennale",
-    "desc": "Jitish Kallat, who lives and works in Mumbai, is a member of the Board of Trustees of the Kochi Biennale Foundation. He previously served as curator of the second edition of the Kochi–Muziris Biennale (2014–15), titled Whorled Explorations",
-    "img": "https://th-i.thgim.com/public/incoming/owlgiw/article70730567.ece/alternates/LANDSCAPE_1200/Jitish_Kallat_04.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/jitish-kallat-to-chair-curator-selection-for-next-edition-of-kochi-muziris-biennale/article70730461.ece",
-    "time": "2026-03-11T10:21:44.000Z"
   }
 ];
