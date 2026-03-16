@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Aryna Sabalenka defeats Elena Rybakina, clinches Indian Wells 2026 title after stellar showing",
+    "desc": "Belarus’ Aryna Sabalenka re-established herself as one of the best players in world tennis as she defeated Elena Rybakina in the final of Indian Wells 2026. Breaking her tournament curse, Sabalenka clinched her first BNP...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-defeats-elena-rybakina-clinches-indian-wells-2026-title-after-stellar-showing-2026-03-16-1033936",
+    "time": "2026-03-16T08:50:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB and KSCA receive final clearance to host IPL matches at Chinnaswamy Stadium ahead of IPL 2026",
+    "desc": "In a major development of the KSCA-RCB saga, the Karnataka government has given the final clearance to the KSCA (Karnataka State Cricket Association) and RCB (Royal Challengers Bengaluru) for hosting their IPL 2026 matches at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-and-ksca-receive-final-clearance-to-host-ipl-matches-at-chinnaswamy-stadium-ahead-of-ipl-2026-2026-03-16-1033924",
+    "time": "2026-03-16T07:35:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bruno Fernandes breaks Manchester United's assists record with stellar showing against Aston Villa",
     "desc": "Manchester United got back to winning ways as life under Michael Carrick continued to get better for the Red Devils. It is worth noting that United took on Aston Villa at Old Trafford on March...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-s-15-year-wait-to-win-odi-series-in-bangladesh-continues-salman-agha-s-fighting-ton-goes-in-vain-2026-03-15-1033877",
     "time": "2026-03-15T16:58:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI felicitates India's World Cup winning teams at Naman Awards in New Delhi",
-    "desc": "The Board of Control for Cricket in India (BCCI), today, felicitated India's five World Cup-winning teams at the Naman Awards in New Delhi. India won the inaugural U19 Women's World Cup, Champions Trophy, U19 Men's...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-felicitates-india-s-world-cup-winning-teams-at-naman-awards-in-new-delhi-2026-03-15-1033871",
-    "time": "2026-03-15T15:25:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spain vs Argentina Finalissima 2026 cancelled due to Middle East conflict, UEFA confirms",
-    "desc": "The 2026 edition of the Finalissima between Spain and Argentina has been cancelled due to the ongoing Middle East conflict. The clash was scheduled to be played in Qatar on March 27 but the current...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/spain-vs-argentina-finalissima-2026-cancelled-due-to-middle-east-conflict-uefa-confirms-2026-03-15-1033869",
-    "time": "2026-03-15T14:39:53.000Z"
   }
 ];

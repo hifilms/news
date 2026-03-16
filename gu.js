@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "LPG સિલિન્ડર બુક કરાવ્યા પછી પણ ડિલિવરી ન મળે તો ક્યાં કરવી ફરિયાદ ? નોંધી લો આ નંબર",
+    "desc": "મિડલ ઈસ્ટમાં વધતા તણાવ વચ્ચે દેશમાં LPG ગેસની સોર્ટેજ ઉભી થઈ રહી છે. વારંવાર એવી ફરિયાદો આવી રહી છે કે, કન્ફર્મ બુકિંગ પછી પણ કેટલાક ડીલરો ગ્રાહકોને સિલિન્ડર પહોંચાડવાનો ઇનકાર કરી રહ્યા છે અને વધારાના પૈસાની માંગણી કરી રહ્યા છે. ત્યારે જાણી લઈએ કે આવી પરિસ્થિતિમાં શું કરવું જોઈએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lpg-cylinder-complaint-number-what-to-do-if-gas-dealer-refuses-delivery-468828 ",
+    "time": "2026-03-16T09:49:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;બધાને માફ કરતા, માફી માંગતા જાઓ&amp;#039; હરીશ રાણાની ભાવુક વિદાયનો Video, આગળ શું પ્રક્રિયા એ પણ જાણો",
+    "desc": "સુપ્રીમ કોર્ટે હરીશ રાણાને ઈચ્છામૃત્યુની મંજૂરી આપી છે. દેશમાં પહેલીવાર આ પ્રકારનો કિસ્સો જોવા મળ્યો છે. તેમને જ્યારે એમ્સમાં લઈ જવામાં આવ્યાં તે પહેલાનો એક વીડિયો હાલ ખુબ વાયરલ થઈ રહ્યો છે જે આંખમાં પાણી લાવી દેશે. આ ઉપરાંત અત્યાર સુધી શું પ્રક્રિયા થઈ અને હવે શું પ્રક્રિયા હાથ ધરાશે એ પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/euthanasia-process-of-harish-rana-emotional-video-gone-viral-468819 ",
+    "time": "2026-03-16T08:46:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "કરોડો PF ધારકો માટે ખુશીના સમાચાર ! આ દિવસે જમા થશે વ્યાજના રૂપિયા",
+    "desc": "દેશભરના કરોડો પગારદાર વ્યક્તિઓ માટે PF તેમની સૌથી મહત્વપૂર્ણ બચતમાંની એક છે. દર વર્ષની જેમ લોકો ફરી એકવાર જાણવા ઉત્સુક છે કે તેમના PF ખાતામાં વ્યાજ ક્યારે જમા થશે અને કેટલી રકમ જમા થશે. ઇપીએફઓના સેન્ટ્રલ બોર્ડ ઓફ ટ્રસ્ટીએ નાણાકીય વર્ષ 2025-26 માટે 8.25% વ્યાજ દર નક્કી કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/when-will-pf-interest-be-credited-know-how-to-calculate-pf-interest-468818 ",
+    "time": "2026-03-16T08:07:07.000Z"
+  },
+  {
     "cat": "Business",
     "title": "આજે એક જ ઝટકે સોનાના ભાવમાં બંપર ઘટાડો, ચાંદી પણ ધડામ, જાણો લેટેસ્ટ રેટ",
     "desc": "નવા અઠવાડિયાના પહેલા જ દિવસે આજે વાયદા બજાર અને રિટેલ બજારમાં સોના-ચાંદીમાં મોટો કડાકો જોવા મળ્યો છે. યુદ્ધની બદલાતી પરિસ્થિતિ, વૈશ્વિક આર્થિક અનિશ્ચિતતાઓને પગલે કિમતી ધાતુઓ પર દબાણ જોવા મળી રહ્યું છે. જો તમે સસ્તાભાવે કિંમતી ધાતુઓની ખરીદીની વાટ જોતા હોવ તો તમારા માટે આ સારી તક કહી શકાય. જાણો આજનો લેટેસ્ટ રેટ.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-gold-prices-fell-sharply-in-one-fell-swoop-silver-also-down-know-the-latest-rate-468813 ",
-    "time": "2026-03-16T07:12:17.000Z"
+    "time": "2026-03-16T07:18:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પહેલી T20માં હાર બાદ કિવી ટીમને મોટો ઝટકો, મેચ વિનર ખેલાડી સિરીઝમાંથી બહાર",
+    "desc": "ન્યુઝીલેન્ડ અને દક્ષિણ આફ્રિકા વચ્ચે હાલમાં પાંચ મેચની ટી20 શ્રેણી રમાઈ રહી છે. આ શ્રેણી વચ્ચે જ કિવી ટીમને મોટો ઝટકો લાગ્યો છે. ટીમનો મેચ વિનર બોલર ઇશ સોઢી ઈજાને કારણે આખી સિરીઝમાંથી બહાર થઈ ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/new-zealand-spinner-ish-sodhi-ruled-out-of-t20i-series-against-south-africa-468814 ",
+    "time": "2026-03-16T07:16:47.000Z"
   },
   {
     "cat": "Politics",
@@ -556,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/not-only-iran-israel-these-40-major-countries-are-caught-in-the-wave-of-war-know-468306 ",
     "time": "2026-03-12T12:59:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8 દિવસમાં આ IPOએ કરાવ્યું મોટું નુકસાન, 104 રૂપિયાનો શેર હવે 52 રૂપિયાથી નીચે પહોંચ્યો",
-    "desc": "શ્રી રામ ટ્વિસ્ટેક્સના IPO માં શેરનો ભાવ 104 રૂપિયા હતો. કંપનીના શેર 2 માર્ચે બજારમાં લિસ્ટ થયા હતા. શ્રી રામ ટ્વિસ્ટેક્સનો શેર ઘટીને 12 માર્ચે 51.45 રૂપિયા પર પહોંચી ગયો છે. 104 રૂપિયાની આઈપીઓ પ્રાઇસ મુકાબલે કંપનીના શેરમાં 50 ટકાથી વધુનો ઘટાડો થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/shree-ram-twistex-share-has-crashed-by-half-in-just-8-days-once-priced-at-%E2%82%B9104-has-now-dropped-below-%E2%82%B952-468281 ",
-    "time": "2026-03-12T09:55:27.000Z"
   },
   {
     "cat": "Tech",

@@ -1,6 +1,60 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "ওরা আমাকে যা করছে, আর পারছি না: ৫ বন্ধুকে দায়ী করে ১৭ পাতার চিঠি নিয়ে ট্রেনের সামনে মরণঝাঁপ মেধাবী ডাক্তারি পড়ুয়ার",
+    "desc": "পুলিস জানিয়েছে যে প্রাথমিক তদন্তে জানা গিয়েছে যে রতন এর আগে দুবার আত্মহত্যার চেষ্টা করেছিলেন, তারপরে তার কাউন্সেলিং করা হয়েছিল। পরিবারের অভিযোগ, প্রথম আত্মহত্যার চেষ্টার সময় যদি ব্যবস্থা নেওয়া হত, তাহলে রতনের জীবন বাঁচানো যেত।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/17-page-last-note-by-aiims-rajkot-student-death_645060.html ",
+    "time": "2026-03-16T10:02:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "নামমাত্র পরিশ্রমে অনুর্বর মাটিতেই ফলবে সোনা! মেদিনীপুরের চাষির এক অভিনব আইডিয়া বদলে দিল রোজগারের দিশা",
+    "desc": "যে জমিতে ফসল ফলানো ছিল দুঃসাধ্য, সেখানেই এখন লাভের জোয়ার। মেদিনীপুরের এক কৃষক প্রথাগত চাষের বাইরে গিয়ে এমন এক চাষ করেছেন, যাতে কম পরিশ্রমেও আসছে মোটা টাকা। তাঁর এই সাফল্য এখন জেলার অন্য চাষিদের কাছেও বড় অনুপ্রেরণা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/profitable-agriculture-2026-03-7b3a3dc49686895bf7b9806847360ccc-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/west-medinipur-agriculture-news-medinipur-farmer-innovative-farming-idea-profit-barren-land-sunflower-cultivation-l18-local18-2587084.html",
+    "time": "2026-03-16T09:54:14.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "গ্যাস সঙ্কটে বেড়েছে ইন্ডাকশন ব্যবহার, দিনে ৪ ঘণ্টা রান্না করলে মাসে কত টাকা ইলেক্ট্রিক বিল আসতে পারে? রইল হিসাব",
+    "desc": "গ্যাসের ঘাটতি দেখা দেওয়ায় এবং গ্যাস সিলিন্ডারের দাম বাড়ায় ইন্ডাকশন এবং বৈদ্যুতিক রাইস কুকারের ব্যবহার বৃদ্ধি পেয়েছে। কিন্তু তাতেই বাড়তে পারে বিদ্যুতের বিল। দিনে চার ঘণ্টা ধরে ইন্ডাকশন ওভেনে রান্না করলে মাসে কত টাকা বিদ্যুতের বিল আসতে পারে?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Induction-3-2026-03-f3445635c1166059a56fa7e2c1228679-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/if-you-use-an-induction-stove-for-4-hours-in-a-day-for-cooking-how-much-your-monthly-electricity-bill-will-increase-here-a-detailed-calculation-sdg-2587235.html",
+    "time": "2026-03-16T09:27:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ইরানের অনুমতি! হরমুজ প্রণালী পেরিয়ে ভারতে ফিরছে জ্বালানি ট্যাঙ্কার, মিটবে LPG সঙ্কট?",
+    "desc": "Iran এর অনুমতি! Strait of Hormuz পেরিয়ে ভারতে ফিরছে জ্বালানি ট্যাঙ্কার, মিটবে LPG সংকট? হরমুজ বন্ধের মধ্যেও জ্বালানি-সংকটে কিছুটা স্বস্তি। হরমুজ আংশিক খুলতেই ভারতে জ্বালানি-বাহী ট্যাঙ্কার। হরমুজ হয়ে গুজরাতের মুন্দ্রা বন্দরে ১টি LPG ট্যাঙ্কার ২টি ট্যাঙ্কারকে দেশে ফেরার অনুমতি ইরানের। ইরানের অনুমতি পেয়েই দেশে ট্যাঙ্কার শিবালিক। জ্বালানি নিয়ে আটকে ২০টিরও বেশি ভারতীয় জাহাজ।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/LPG-Gas-Cylinder-6-2026-03-b8bb098928bab96eaa651e22496299a0-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/lpg-cylinder-crisis-to-over-as-iran-clears-two-tankers-of-india-from-hormuz-here-is-the-update-sta-2587316.html",
+    "time": "2026-03-16T08:58:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বারান্দায় পড়ে শিশুর নিথর দেহ, শরীরে আঘাত ও পোড়ার দাগ! গ্রেফতার বাবা ও সৎমা",
+    "desc": "উত্তরপ্রদেশের লখনউ শহরে চার বছরের এক শিশুকে নৃশংসভাবে খুন করার অভিযোগে বাবা ও সৎমাকে গ্রেফতার করল পুলিশ। ঘটনায় ব্যাপক চাঞ্চল্য ছড়িয়েছে শহরের চক এলাকায়। পুলিশ সূত্রে জানা গিয়েছে, অভিযুক্ত বাবা ভীষ্ম খারবন্দা (৩৫) এবং তাঁর স্ত্রী রাগিনী খারবন্দা (৩০)।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/crime-news-2026-02-6260976ed39c8a91503d40ad71298708-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/crime-news-lucknow-chowk-child-murder-father-stepmother-arrested-4-year-old-boy-killed-sal-2587181.html",
+    "time": "2026-03-16T08:30:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "হায়দরাবাদে মর্মান্তিক পথ দুর্ঘটনা! দ্রুতগতির গাড়ির ধাক্কায় মৃত্যু বাইক আরোহীর, গুরুতর জখম স্ত্রী-সন্তান",
+    "desc": "হায়দরাবাদে ভয়াবহ পথ দুর্ঘটনায় মৃত্যু হল এক ব্যক্তির, গুরুতর জখম হলেন তাঁর স্ত্রী ও ছোট ছেলে। রবিবার মেডিপল্লি এলাকায় এই মর্মান্তিক ঘটনাটি ঘটে। পুলিশ সূত্রে জানা গিয়েছে, নিহত ব্যক্তি তাঁর স্ত্রী ও সন্তানকে নিয়ে মোটরবাইকে করে যাচ্ছিলেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Accident-3-2026-03-b92bec40d99ee978717b22b895021af2-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/accident-hyderabad-medipalli-hit-and-run-accident-bike-rider-killed-wife-son-injured-sal-2587071.html",
+    "time": "2026-03-16T07:15:47.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "‘সবাইকে ক্ষমা করে দিও,’ নিষ্কৃতি মৃত্য়ুর পথে হরিশ রাণা! চোখের জলে বিদায় পরিবারের",
     "desc": "গাজিয়াবাদের বছর বত্রিশের তরুণের ‘নিষ্কৃতি মৃত্যু’ অধিকারে মান্যতা দিয়েছে সুপ্রিম কোর্ট৷ এবার ধীরে ধীরে তাঁর জীবনদায়ী সাপোর্ট খুলে নেবেন দিল্লি এইমসের বিশেষ চিকিৎসক দল৷ বাবা-মায়ের বারংবার আর্জির পরে দেশের ইতিহাসে প্রথম এমন রায় দিয়েছে আদালত৷",
     "img": "https://images.news18.com/static-bengali/uploads/2026/03/Harish-Rana-2026-03-aa6315cd869ce1c17dcf8b906eaf8512-1200x800.jpg",
@@ -268,15 +322,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/lpg-gas-cyllinder-rule-booking-crosses-75-lakhs-if-you-hide-gas-in-your-house-or-warehouse-you-can-be-jailed-important-guidelines-on-gas-cyllinder-crisis-sanj-2584127.html",
     "time": "2026-03-13T16:09:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিরাট সরকারি ঘোষণা: আজ সন্ধ্যে থেকেই ব্যাংক অ্যাকাউন্টে ২০০০ টাকা, কারা পাবেন? কী ভাবে পাবেন? এখানেই দেখে নিন সব তথ্য",
-    "desc": "আজ ভারতের কোটি কোটি কৃষক পরিবারের জন্য অত্যন্ত আনন্দের দিন। প্রতিশ্রুতি মতো, প্রধানমন্ত্রী নরেন্দ্র মোদী ১৩ মার্চ বিকেলে অসমের গুয়াহাটিতে একটি কেন্দ্রীয় অনুষ্ঠান থেকে পিএম কিষাণ যোজনার ২২তম কিস্তি বাবদ মোট ১৮,৬৪০ কোটি টাকা পাঠিয়েছেন। দেশজুড়ে ৯.৩২ কোটি কৃষকের ব্যাংক অ্যাকাউন্টে সরাসরি গিয়েছে এই টাকা। ডাইরেক্ট বেনিফিট ট্রান্সফার (DBT) ব্যবস্থার মাধ্যমে এই অর্থ সরাসরি লগ্নিকারীদের অ্যাকাউন্টে পৌঁছে গিয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/pm-kisan-22nd-installment-released-by-pm-modi-check-beneficiary-status_644765.html ",
-    "time": "2026-03-13T14:42:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/sports/will-bumrah-magic-be-there-in-the-t20-world-cup-final-today-jasprit-bumrah-school-preperation-pbd-2574773.html",
     "time": "2026-03-08T11:29:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "৩ হাজার পুলিশকর্মী, ১ হাজার হোমগার্ড!অ্যান্টি ড্রোন সিস্টেম, ফাইনালের নরেন্দ্র মোদি স্টেডিয়াম যেন দুর্গ!",
-    "desc": "রবিবার ICC Men's T20 World Cup 2026-এর ফাইনালে ভারত বনাম নিউজিল্যান্ডের ম্যাচকে ঘিরে আহমেদাবাদে কড়া নিরাপত্তা ব্যবস্থা নেওয়া হয়েছে। কর্মকর্তাদের মতে, এই ম্যাচের জন্য ৩,০০০-এর বেশি পুলিশ কর্মী, প্রায় ১,০০০ হোমগার্ড এবং তিনটি অ্যান্টি-ড্রোন সিস্টেম মোতায়েন করা হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/icc-2-2026-03-2d34fd246373b7c5b5401341b6061aac-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/3000-police-personnel-1000-home-guards-anti-drone-systems-elaborate-security-arrangements-made-for-t20-world-cup-final-smc-2574556.html",
-    "time": "2026-03-08T08:39:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "টি-২০ বিশ্বকাপের অদ্ভুত অভিশাপ! এতদিন পারেনি কেউ, এবার কি ভাঙতে পারবে ভারত?",
-    "desc": "ফাইনাল ম্যাচের জন্য কালো মাটি, লাল মাটি এবং দুই মাটির মিশ্রণে মোট তিন ধরনের পিচ প্রস্তুত করা হয়েছে বলে খবর। তবে শেষ পর্যন্ত কোন পিচে ফাইনাল অনুষ্ঠিত হবে, তা এখনও নিশ্চিত নয়—এ নিয়েই বাড়ছে উত্তেজনা।এদিকে ফাইনাল জিতে টি–২০ বিশ্বকাপের সেই পুরনো ‘হোস্ট অভিশাপ’ ভাঙার লক্ষ্যেই মাঠে নামছে India national cricket team। তাই শিরোপা জয়ের লড়াইয়ে ভারত কতটা সফল হয়, সেটাই এখন দেখার বিষয়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1772955841_FotoJet-96-2026-03-475c30884822995b86635cc486010378-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/ind-vs-nz-final-t20-world-cup-2026-no-host-nation-has-ever-won-the-t20-world-cup-on-home-soil-can-india-break-this-home-curse-smc-2574535.html",
-    "time": "2026-03-08T07:53:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "রাশিয়ার তেলেরও দাম বাড়ল! ‘ডিসকাউন্ট’-এর বদলে ‘প্রিমিয়াম’ নিচ্ছেন পুতিন? বাড়ছে ভারতের উদ্বেগ!",
-    "desc": "মধ্যপ্রাচ্যে চলা যুদ্ধ এবং হরমুজ প্রণালী ঘিরে উত্তেজনার জেরে বিশ্বজুড়ে তেলের বাজারে অস্থিরতা তৈরি হয়েছে। এই পরিস্থিতিতে রাশিয়াও তেলের দাম বাড়িয়েছে। আগে যেখানে ছাড় দিয়ে ভারতকে তেল দিত মস্কো, এখন সেখানে উল্টে অতিরিক্ত দাম বা ‘প্রিমিয়াম’ নেওয়া হচ্ছে। ফলে ভারতের জ্বালানি সরবরাহ ও অর্থনীতির উপর নতুন করে চাপ তৈরি হয়েছে বলে মনে করা হচ্ছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/putin-2026-03-7798cfacbee6b5b3327f5a394da6090f-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/russia-hikes-oil-prices-putin-charges-premium-instead-of-discount-india-tension-rises-russian-oil-price-hike-due-to-middle-east-war-causes-crisis-tib-ws-el-2574371.html",
-    "time": "2026-03-08T07:29:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ক্রেডিট কার্ড বিলকে EMI-তে রূপান্তরিত করছেন ? বড় ভুল করছেন না তো",
-    "desc": "ক্রেডিট কার্ডের বড় অঙ্কের বিল পরিশোধ করতে অনেকেই EMI অপশন বেছে নেন। কিন্তু এতে অতিরিক্ত সুদ ও প্রসেসিং ফি যোগ হয়ে মোট খরচ বেড়ে যেতে পারে। তাই এই সিদ্ধান্ত নেওয়ার আগে বিষয়টি ভালোভাবে বোঝা জরুরি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/rupay-card-8-2026-03-99d4ec90a8d08c35c02fcd5d0cf55e31-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/converting-credit-card-bill-into-emi-know-the-hidden-costs-before-you-decide-tc-dc-aa-2571563.html",
-    "time": "2026-03-08T06:46:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "স্ত্রী সঙ্গীতা বিবাহবিচ্ছেদের আবেদন করার কয়েকদিন পরেই বিজয়-তৃষা একই গাড়িতে, একই সাজে বিয়েবাড়ি গেলেন",
-    "desc": "TVK Vijay - Trisha | বিবাহবিচ্ছেদের আবেদনে সঙ্গীতা বলেছেন, ‘‘বিজয় এক অভিনেত্রীর সঙ্গে বিবাহ বহির্ভূত সম্পর্কে জড়িয়ে পড়েছিলেন। এটি জানতে পেরে আমি বিজয়ের দ্বারা প্রতারিত বোধ করি। আমি কষ্ট পেয়েছিলাম কারণ বিজয় সেই অভিনেত্রীর সঙ্গে সম্পর্কে ছিলেন। ২০২১ সালে, আমরা একই বাড়িতে থাকলেও আলাদা থাকতাম।’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Actor-Vijay-and-Trisha-Attend-Wedding-2026-03-ebb05ccc4d26434c296c81f77cff3179-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/actor-vijay-and-trisha-attend-wedding-in-same-car-with-same-costume-while-wife-sangeetha-filed-divorce-ss-aa-2571966.html",
-    "time": "2026-03-08T02:13:11.000Z"
   }
 ];
