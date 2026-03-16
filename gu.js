@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "મહિલા ક્રિકેટરોને મળ્યું પાઠ્યપુસ્તકમાં સ્થાન, હવે બાળકો વાંચશે દીકરીઓની સફળતાની ગાથા",
+    "desc": "છેલ્લા કેટલાક વર્ષોમાં ભારતીય મહિલા ક્રિકેટ ટીમે નોંધપાત્ર સફળતા મેળવી છે. 2025માં તેઓએ પહેલીવાર ICC મહિલા ODI વર્લ્ડ કપનો ખિતાબ પણ જીત્યો હતો. હવે એવું લાગે છે કે તેઓ આ સિદ્ધિઓનું ફળ મેળવી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/cricket-queens-indian-women-cricketers-in-class-5-textbook-468700 ",
+    "time": "2026-03-16T01:30:01.000Z"
+  },
+  {
     "cat": "World",
     "title": "ઈરાને વધારી ઈઝરાયેલ-અમેરિકાની ચિંતા, પહેલીવાર છોડી &amp;#039;ડાન્સિંગ મિસાઈલ&amp;#039;; જાણો મિસાઈલની તાકાત",
     "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલ અમેરિકા-ઈઝરાયેલ અને ઈરાન યુદ્ધના 16મા દિવસે રવિવારે ઈરાને ઈઝરાયેલ અને અમેરિકાના ઠેકાણાઓ પર મોટા પાયે મિસાઈલ હુમલા કર્યા છે. ઈરાની સમાચાર એજન્સી 'પ્રેસ ટીવી' અનુસાર, આ હુમલાઓમાં સ્વદેશી રીતે વિકસિત સેજ્જિલ બેલેસ્ટિક મિસાઈલનો પહેલીવાર ઉપયોગ કરવામાં આવ્યો છે.",
@@ -457,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/cji-major-remark-on-period-leave-supreme-court-refuses-to-order-mandatory-leave-468373 ",
     "time": "2026-03-13T06:30:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પાકિસ્તાની ખેલાડીને ખરીદ્યા બાદ મુશ્કેલીમાં ભરાઈ સનરાઇઝર્સ ટીમ! સોશિયલ મીડિયા એકાઉન્ટ સસ્પેન્ડ",
-    "desc": "તાજેતરમાં 'દ હન્ડ્રેડ' (The Hundred) લીગનું ઓક્શન પૂર્ણ થયું હતું. જેમાં સનરાઇઝર્સ લીડ્સે પાકિસ્તાનના અબરાર અહમદને પોતાની ટીમમાં સામેલ કર્યો છે. આ નિર્ણયને લીધે ભારતીય ફેન્સમાં ભારે રોષ જોવા મળી રહ્યો છે. આ વિવાદની વચ્ચે હવે સનરાઇઝર્સ લીડ્સનું X (ટ્વિટર) એકાઉન્ટ સસ્પેન્ડ કરી દેવામાં આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/sunrisers-team-lands-in-trouble-after-buying-pakistani-player-social-media-account-suspended-468363 ",
-    "time": "2026-03-13T05:36:51.000Z"
   },
   {
     "cat": "Tech",

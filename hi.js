@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ish Sodhi ruled out remainder of South Africa series with broken thumb",
+    "desc": "With New Zealand and South Africa kicking off their five-game T20I series, and the Proteas registering a comfortable win on foreign soil, the Black Caps have been hit with yet another roadblock as star spinner...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ish-sodhi-ruled-out-remainder-of-south-africa-series-with-broken-thumb-2026-03-16-1033889",
+    "time": "2026-03-16T01:38:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India is going to win more ICC trophies in the coming years, says Sanju Samson",
     "desc": "India opener Sanju Samson has predicted that the Indian cricket team will win more ICC trophies in the upcoming years. He was part of India's T20 World Cup triumph earlier this month and also won...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harbhajan-singh-opens-up-on-mumbai-indians-potential-playing-xi-ahead-of-ipl-2026-2026-03-15-1033836",
     "time": "2026-03-15T08:16:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa need 92 runs to win",
-    "desc": "New Zealand and South Africa face off in the 1st T20I of the five-game series. It is worth noting that the two sides lock horns at the Bay Oval in Mount Maunganui for the first...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-sa-1st-t20i-live-cricket-score-new-zealand-4-down-early-sa-in-command-2026-03-15-1033830",
-    "time": "2026-03-15T06:46:13.000Z"
   }
 ];

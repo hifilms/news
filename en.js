@@ -1,21 +1,237 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "RGV reveals flat where 'Bhoot' was shot is still vacant",
+    "desc": "Filmmaker Ram Gopal Varma shared a chilling anecdote about his 2003 horror hit 'Bhoot'. He revealed that the Mumbai apartment used for filming, chosen for its relatability, has remained unoccupied for over two decades since the movie's release. The film, starring Ajay Devgn and Urmila Matondkar, depicted a couple moving into a haunted flat. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129598611,imgsize-209084.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-reveals-the-apartment-where-bhoot-was-shot-is-still-vacant-been-more-than-20-years/articleshow/129598611.cms",
+    "time": "2026-03-16T01:50:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Has it really happened?': Samson still in disbelief after India’s T20 World Cup win",
+    "desc": "Sanju Samson still cannot believe India won the 2026 T20 World Cup at home. He was the Player of the Tournament. Samson believes India's young talent will bring more such victories. He scored 321 runs in five matches. Mohammed Siraj also joined the squad late and won his second World Cup medal.",
+    "img": "https://static.toiimg.com/photo/msid-129593407,imgsize-183418.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/has-it-really-happened-sanju-samson-still-in-disbelief-after-indias-t20-world-cup-win/articleshow/129593411.cms",
+    "time": "2026-03-16T01:45:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Conan Obrien's wife Liza Powel O'Brien",
+    "desc": "As Conan O'Brien prepares for another exciting night as Oscars host in 2026, his unwavering supporter, Liza Powel O'Brien, stands proudly by his side. A gifted playwright and former copywriter, Liza crossed paths with Conan in 1999 during a comedic segment on television. Since tying the knot in 2002, they have welcomed two delightful children, Neve and Beckett.",
+    "img": "https://static.toiimg.com/photo/msid-129598644,imgsize-86180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/who-is-oscars-2026-host-conan-obriens-wife-all-about-liza-powel-obrien/articleshow/129598644.cms",
+    "time": "2026-03-16T01:40:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nicole Kidman talks about 2003 Oscars win for Best Actress",
+    "desc": "During the presentation at the 2026 Oscars, Nicole Kidman shared heartfelt memories of her 2003 triumph as Best Actress for 'The Hours.' Despite the glittering recognition, she opened up about the profound loneliness that washed over her when the spotlight dimmed, revealing she had no companion to celebrate the achievement.",
+    "img": "https://static.toiimg.com/photo/msid-129598526,imgsize-65568.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-nicole-kidman-recalls-lonely-2003-academy-award-win-says-i-dont-have-anyone-to-jump-on-the-bed-with/articleshow/129598526.cms",
+    "time": "2026-03-16T01:23:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Film earns over Rs 22 cr",
+    "desc": "The Revenge', the numbers speak volumes. Advance ticket sales have crossed 600,000 in India, bringing in over Rs 14 crore on Day 1. The premiere night was a blockbuster success, netting Rs 37 crore. With international markets buzzing, pre-sales are surpassing Rs 110 crore globally, hinting at a formidable challenge in the box office arena. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129598409,imgsize-112310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-the-revenge-advance-booking-day-1-ranveer-singh-led-thriller-earns-a-gross-of-over-a-massive-rs-22-crore/articleshow/129598409.cms",
+    "time": "2026-03-16T01:09:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cassandra Kulukundis wins first ever Best Casting Oscar",
+    "desc": "In a dazzling twist at the Oscars, 'One Battle After Another' made waves by winning the debut Best Casting award, with Cassandra Kulukundis proudly claiming the honor. This win not only recognizes her exceptional work but also elevates the often-overlooked contributions of casting directors in cinema.",
+    "img": "https://static.toiimg.com/photo/msid-129598448,imgsize-113870.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cassandra-kulukundis-wins-first-ever-best-casting-oscar-for-one-battle-after-another/articleshow/129598405.cms",
+    "time": "2026-03-16T01:09:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Aadu 3' advance booking day 1 crosses Rs 1 crore",
+    "desc": "One Last Ride' are exceeding expectations, with over Rs 1 crore already booked in Kerala. The highly anticipated third installment, releasing March 19, 2026, is planned as a two-part story to accommodate extensive world-building. The popular cast returns, promising an epic conclusion for fans.",
+    "img": "https://static.toiimg.com/photo/msid-129598399,imgsize-80520.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aadu-3-one-last-ride-advance-booking-day-1-jayasurya-and-vinayakans-comedy-film-crosses-rs-1-crore/articleshow/129598399.cms",
+    "time": "2026-03-16T01:06:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Demi Moore dazzles in emerald feathered gown at Oscars",
+    "desc": "Demi Moore captivated on the 2026 Oscars red carpet in a dramatic, emerald green Gucci gown adorned with cascading feathers. The 63-year-old actress, presenting at the ceremony, showcased timeless glamour with her signature sleek hairstyle and romantic makeup. This stunning appearance follows her 2025 Best Actress nomination, solidifying her status as a fashion icon.",
+    "img": "https://static.toiimg.com/photo/msid-129598402,imgsize-517335.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-demi-moore-turns-heads-in-an-emerald-feathered-custom-gown/articleshow/129598404.cms",
+    "time": "2026-03-16T01:03:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Buttler’s form is pedestrian': Ex-India cricketer sounds alarm on Gujarat Titans top order",
+    "desc": "Former cricketer Aakash Chopra has raised concerns for Gujarat Titans ahead of IPL 2026, citing an over-reliance on their top-order batsmen. He specifically highlighted Jos Buttler's recent \"pedestrian\" form, noting that if both openers don't consistently perform, it could significantly impact the team's performance, despite their playoff run last season.",
+    "img": "https://static.toiimg.com/photo/msid-129592725,imgsize-144994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/jos-buttlers-form-is-pedestrian-ex-india-cricketer-sounds-alarm-on-gujarat-titans-top-order/articleshow/129592745.cms",
+    "time": "2026-03-16T01:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Singers' and 'Two People Exchanging Saliva' TIE; fans react",
+    "desc": "A surprising tie at the 98th Academy Awards saw 'The Singers' and 'Two People Exchanging Saliva' share the Best Live Action Short Film Oscar, leaving many viewers stunned. This rare occurrence, allowed by Academy rules for identical vote counts, echoes historical ties, including a famous 1969 Best Actress split. The unexpected win adds to the Oscars' memorable moments.",
+    "img": "https://static.toiimg.com/photo/msid-129598238,imgsize-94078.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-singers-and-two-people-exchanging-saliva-tie-for-best-live-action-short-film-netizens-ask-since-when-can-you-tie-an-oscar/articleshow/129598187.cms",
+    "time": "2026-03-16T00:55:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ustaad Bhagat Singh' advance booking cross 200K USD",
+    "desc": "Pawan Kalyan's 'Ustaad Bhagat Singh' is creating buzz with advance bookings exceeding $200,000 in North America. The action-comedy, a remake of 'Theri', releases on March 19, coinciding with Ugadi. Andhra Pradesh government permits early morning benefit shows, with tickets priced at Rs 500. Early overseas screenings have drawn praise for Pawan Kalyan's entry.",
+    "img": "https://static.toiimg.com/photo/msid-129598295,imgsize-210806.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/pawan-kalyans-ustaad-bhagat-singh-advance-booking-north-america-pre-sales-cross-200k-usd/articleshow/129598295.cms",
+    "time": "2026-03-16T00:45:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How much is Host Conan O’Brien getting paid?",
+    "desc": "While many envision the Oscars as a glittering affair filled with luxury, the financial reality for hosts tells a different story. Conan O’Brien is set to return in 2026, earning a modest five-figure paycheck similar to Jimmy Kimmel’s $15,000. Wanda Sykes humorously pointed out that the hosting fee might end up costing her more than she earns.",
+    "img": "https://static.toiimg.com/photo/msid-129598275,imgsize-68242.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-oscars-2026-paycheck-host-conan-obriens-academy-awards-salary-explained/articleshow/129598275.cms",
+    "time": "2026-03-16T00:42:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Worked so hard and it all came together': Dravid on Samson’s unforgettable T20 WC",
+    "desc": "Rahul Dravid, honored with the Col CK Nayudu Award, expressed deep gratitude for his cricketing journey and opportunities. He lauded Sanju Samson's remarkable Player of the Tournament performance in the T20 World Cup 2026, highlighting his perseverance and crucial match-winning contributions. Samson's record-breaking spree included most sixes and highest final score.",
+    "img": "https://static.toiimg.com/photo/msid-129591630,imgsize-98124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/worked-so-hard-and-it-all-came-together-rahul-dravid-on-sanju-samsons-unforgettable-t20-world-cup-run/articleshow/129591627.cms",
+    "time": "2026-03-16T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Domhnall Gleeson credits Taylor Swift at the 2026 Oscars red carpet",
+    "desc": "Domhnall Gleeson expressed his delight at starring in Taylor Swift's \"Opalite\" music video, a dream he never anticipated. The \"Retirement Plan\" nominee, who pitched the quirky concept himself, described the experience as a nostalgic \"school project for adults.\" The collaboration, featuring a star-studded Irish cast, became a surprise career highlight for Gleeson.",
+    "img": "https://static.toiimg.com/photo/msid-129598201,imgsize-739177.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/domnhall-gleeson-credits-taylor-swift-for-surprise-career-highlight-opens-up-about-viral-opalite-video-at-2026-oscars/articleshow/129598202.cms",
+    "time": "2026-03-16T00:24:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Kerala Story 2' box office Day 17: Film crosses Rs 47 cr",
+    "desc": "Goes Beyond' is still making waves at the box office, garnering Rs 47.78 crore as it nears the end of its third week. While it trails behind the financial triumph of the previous film, its compelling narrative featuring three women questing for liberation amid familial opposition resonates powerfully with audiences. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129598131,imgsize-67506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-17-the-ulka-gupta-and-aditi-bhatia-starrer-crosses-rs-47-crore/articleshow/129598131.cms",
+    "time": "2026-03-16T00:22:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ahaana Krishna's wedding confirmed by father",
+    "desc": "Ahaana Krishna's father, Krishna Kumar, revealed his daughter's wedding plans, confirming her relationship with cinematographer Nimish Ravi. Kumar shared the families' long-standing comfort and familiarity, highlighting his 35-year friendship with Nimish's father. He also praised Nimish's humble growth in the film industry, suggesting a wedding announcement could be imminent.",
+    "img": "https://static.toiimg.com/photo/msid-129598169,imgsize-136328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/ahaana-krishnas-wedding-father-krishna-kumar-says-she-sent-me-a-message-saying-that-she-is-getting-married/articleshow/129598169.cms",
+    "time": "2026-03-16T00:21:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka and Nick turn Oscars into date night",
+    "desc": "Priyanka Chopra and Nick Jonas graced the 98th Academy Awards red carpet, with Priyanka stunning in a white Dior gown and Nick in a classic velvet suit. Nick also honored his Indian roots by wearing a Kalava.",
+    "img": "https://static.toiimg.com/photo/msid-129597941,imgsize-80430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-and-nick-jonas-turn-oscars-into-date-night-actress-stuns-in-white-gown-with-thigh-high-slit-pics/articleshow/129597935.cms",
+    "time": "2026-03-16T00:12:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Thaai Kizhavi' BO day 18: Film crosses Rs 58 crores",
+    "desc": "Radikaa Sarathkumar's 'Thaai Kizhavi' is a box office success, grossing over Rs 58 crore worldwide in its third week. The rural entertainer, directed by debutant Sivakumar Murugesan, skillfully blends comedy and drama, with critics praising its entertaining narrative and well-defined characters. The film's strong performance highlights its appeal to a wide audience.",
+    "img": "https://static.toiimg.com/photo/msid-129598054,imgsize-86884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-box-office-collections-day-18-radikaa-sarathkumars-film-crosses-rs-58-crore-gross-worldwide/articleshow/129598054.cms",
+    "time": "2026-03-16T00:01:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'The goal is to win the IPL trophy': Vaibhav Sooryavanshi targets Rajasthan Royals glory",
+    "desc": "U-19 sensation Vaibhav Sooryavanshi, already an IPL centurion at 14, is laser-focused on winning the IPL trophy for Rajasthan Royals. Having led India to U-19 World Cup glory, the young batter aims to contribute significantly to RR's success. He cherishes reuniting with U-19 teammates and credits early learning from seniors and Rahul Dravid for his development.",
+    "img": "https://static.toiimg.com/photo/msid-129593245,imgsize-183156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/the-goal-is-to-win-the-ipl-trophy-vaibhav-sooryavanshi-targets-rajasthan-royals-glory/articleshow/129593262.cms",
+    "time": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'KPop Demon Hunters' wins for Best Animated Film",
+    "desc": "K-Pop Demon Hunters, Netflix's animated hit, clinched the Best Animated Feature Oscar, marking a significant win for Korean-Canadian director Maggie Kang. This genre-bending tale of a K-pop group moonlighting as demon hunters has captivated audiences and critics alike, following earlier wins at the Golden Globes and Critics Choice Awards.",
+    "img": "https://static.toiimg.com/photo/msid-129598013,imgsize-150322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/oscar-awards-kpop-demon-hunters-wins-academy-award-for-best-animated-film/articleshow/129597948.cms",
+    "time": "2026-03-15T23:49:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Bhai isko abhi delete kar de': Shivam Dube’s off-guard reaction to camera goes viral",
+    "desc": "India's star all-rounder Shivam Dube charmed fans with a playful interaction with paparazzi outside his Mumbai home. Captured on video, Dube, fresh off a T20 World Cup victory, humorously asked a photographer to delete footage. His significant contributions to India's 2026 triumph, including 235 runs at a 169.06 strike rate, have cemented his status as a key player.",
+    "img": "https://static.toiimg.com/photo/msid-129590086,imgsize-703643.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/bhai-isko-abhi-delete-kar-de-shivam-dubes-off-guard-reaction-to-camera-goes-viral-watch/articleshow/129590022.cms",
+    "time": "2026-03-15T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nick spotted wearing a Kalava",
+    "desc": "Nick Jonas, affectionately known as 'Jiju' by fans, preempted any Oscar night concerns by humorously explaining his need for water due to the Los Angeles heat. He also subtly honored his wife Priyanka Chopra's heritage by wearing a Kalava, a sacred red and yellow thread, delighting Desi fans who praised his adherence to Indian customs on this significant occasion.",
+    "img": "https://static.toiimg.com/photo/msid-129597838,imgsize-129928.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/oscars-2026-nick-jonas-spotted-wearing-a-kalava-on-his-wrist-as-he-supports-wife-priyanka-chopra-set-to-presenter-for-awards-show/articleshow/129597799.cms",
+    "time": "2026-03-15T23:13:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "With five wins on the trot, Congress pins hopes on Paravur, CPI hopeful of wresting seat",
+    "desc": "The CPI, which won the seat in the maiden contest in 1957, emerged victorious the last time in 1996. Since then, it has been V.D. Satheesan all the way. This time, the Left party is fielding E.T. Taison against him",
+    "img": "https://th-i.thgim.com/public/incoming/uag123/article70747762.ece/alternates/LANDSCAPE_1200/PTI03_11_2026_000418A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2026-with-five-wins-on-the-trot-congress-pins-hopes-on-paravur-cpi-hopeful-of-wresting-seat/article70743322.ece",
+    "time": "2026-03-15T22:06:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "U.K. military bases given to U.S. to reduce impact of war on millions of Indians in Gulf, says U.K. Deputy High Commissioner",
+    "desc": "U.K. Foreign Secretary has been in touch to express the country’s solidarity with partners in the region, including the UAE, Saudi Arabia, Bahrain, Oman, Qatar, and Kuwait — many of whom have been targeted with Iranian strikes, which we strongly condemn, says Shalini Medepalli",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/lz8tfx/article70731339.ece/alternates/LANDSCAPE_1200/IMG_5481.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uk-military-bases-given-to-us-to-reduce-impact-of-war-on-millions-of-indians-in-gulf-says-uk-deputy-high-commissioner/article70731336.ece",
+    "time": "2026-03-15T21:56:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka opts for white look again",
+    "desc": "Priyanka Chopra is set to present at the Oscars 2026, offering fans a glimpse of her last-minute preparations. The actress teased a stunning white Dior gown, a color she's favored at past ceremonies. Her team meticulously worked on her look, with hair and makeup artists also racing against time. Chopra joins a star-studded list of presenters for the prestigious event.",
+    "img": "https://static.toiimg.com/photo/msid-129595710,imgsize-105810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/oscars-2026-priyanka-chopra-teases-white-look-ahead-of-red-carpet-appearance/articleshow/129595707.cms",
+    "time": "2026-03-15T21:23:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "After Arijit, Shreya says 'I also feel like taking a break'",
     "desc": "After Arijit Singh’s decision to step away from playback singing sparked discussion among fans, Shreya Ghoshal has shared her thoughts on the singer’s move and the importance of authenticity in live performances. The singer stressed that lip-syncing on stage is something she would never want to rely on. She also described Arijit as someone deeply connected to music.",
     "img": "https://static.toiimg.com/photo/msid-129595626,imgsize-86560.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-arijit-singh-shreya-ghoshal-says-i-also-feel-like-taking-a-break-i-will-stop-singing-the-day-i-have-to-lip-sync/articleshow/129595626.cms",
     "time": "2026-03-15T20:44:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Interviewing PM Modi easier than delivering a hit",
-    "desc": "Akshay Kumar recently reflected on his widely discussed interview with Narendra Modi, saying the experience was a “delight” and far easier compared to the challenge of delivering a successful film. He also addressed the long-standing controversy surrounding his former Canadian passport while responding to the debate around his perceived “nationalist hero” image.",
-    "img": "https://static.toiimg.com/photo/msid-129595468,imgsize-56586.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-says-interviewing-pm-narendra-modi-was-easier-than-delivering-a-hit-film-addresses-canadian-passport-criticism/articleshow/129595468.cms",
-    "time": "2026-03-15T20:00:31.000Z"
   },
   {
     "cat": "Politics",
@@ -27,24 +243,6 @@ const newsData_en = [
     "time": "2026-03-15T19:20:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "KJo cried after troll said he 'denied his children a mother'",
-    "desc": "Filmmaker Karan Johar has spoken candidly about raising his twins and the emotional toll of social media trolling. In a recent conversation, Johar reflected on parenting his children, Yash Johar and Roohi Johar, and how certain online comments deeply affected him.",
-    "img": "https://static.toiimg.com/photo/msid-129595035,imgsize-61694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-recalls-crying-after-troll-said-he-denied-his-children-a-mother-i-asked-yash-and-roohi-are-you-happy/articleshow/129595035.cms",
-    "time": "2026-03-15T19:06:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "In poll-bound Assam, Shah plays Bangladesh infiltrators card",
-    "desc": "Union Home Minister Amit Shah accused Congress of aiding infiltrators in Assam and launched development projects worth over Rs 2,000 crore. He inaugurated healthcare facilities, including a medical college, and highlighted peace accords ending decades of militancy. Shah predicted a massive mandate for BJP, praising the state's improved healthcare and peace initiatives.",
-    "img": "https://static.toiimg.com/photo/msid-129595044,imgsize-1153388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/in-poll-bound-assam-shah-plays-bangladesh-infiltrators-card/articleshow/129595047.cms",
-    "time": "2026-03-15T19:05:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Here we go Kimi... victory!’",
     "desc": "Antonelli’s dominant win marks the culmination of years of preparation, development and Mercedes’ faith in him as Hamilton’s successor; Mercedes looks extremely strong and early title predictions revolve around an intra-team battle between its drivers",
@@ -52,15 +250,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/motorsport/here-we-go-kimi-victory/article70747581.ece",
     "time": "2026-03-15T18:44:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Scheme to reduce chemical fertiliser use remains a ‘non-starter’; no incentives released to states yet",
-    "desc": "The government's PM-PRANAM scheme, designed to cut chemical fertiliser use, has failed to disburse any incentives to states over two and a half years. A parliamentary committee urges an urgent review to simplify eligibility and release due funds, as the scheme's impact window closes.",
-    "img": "https://static.toiimg.com/photo/msid-129594532,imgsize-1248634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/scheme-to-reduce-chemical-fertiliser-use-remains-a-non-starter-no-incentives-released-to-states-yet/articleshow/129594503.cms",
-    "time": "2026-03-15T18:30:06.000Z"
   },
   {
     "cat": "Sports",
@@ -88,15 +277,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/why-is-the-us-investigating-india-explained/article70746388.ece",
     "time": "2026-03-15T17:16:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Farah recalls Salman breaking down while filming Sau Dard Hai",
-    "desc": "Filmmaker and choreographer Farah Khan recently opened up about an emotional moment involving Salman Khan while shooting the song Sau Dard Hai from the film Jaan-E-Mann. In a recent conversation, Farah revealed that Salman didn’t rely on glycerine for the emotional sequence and actually broke down while filming the scene.",
-    "img": "https://static.toiimg.com/photo/msid-129593179,imgsize-56096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-recalls-salman-khan-breaking-down-while-filming-sau-dard-hai-i-dont-know-what-was-going-on-in-his-life/articleshow/129593179.cms",
-    "time": "2026-03-15T17:11:02.000Z"
   },
   {
     "cat": "Politics",
@@ -135,15 +315,6 @@ const newsData_en = [
     "time": "2026-03-15T16:35:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyadarshan defends Rajpal after bail, says he got into a trap",
-    "desc": "Filmmaker Priyadarshan has come out in support of actor Rajpal Yadav after the latter was granted interim bail in a cheque bounce case. The director, who has collaborated with Yadav in several films over the years, described him as an “innocent” person who got caught in a “trap”.",
-    "img": "https://static.toiimg.com/photo/msid-129591956,imgsize-46728.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-defends-rajpal-yadav-after-interim-bail-says-he-got-into-a-trap-he-is-the-most-innocent-actor-i-have-ever-seen/articleshow/129591956.cms",
-    "time": "2026-03-15T15:51:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gill bags Polly Umrigar Award, Mandhana makes history with fifth BCCI honour",
     "desc": "Shubman Gill and Smriti Mandhana were honored as India's top cricketers at the BCCI Naman Awards 2026. Gill secured the Polly Umrigar Award for his stellar 2025 season, including a remarkable Test series in England. Mandhana also shone, setting new ODI run-scoring records and playing a pivotal role in India's World Cup win.",
@@ -171,15 +342,6 @@ const newsData_en = [
     "time": "2026-03-15T15:02:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aamir reveals he has finalised his next films as he turns 61",
-    "desc": "Aamir Khan celebrated his 61st birthday on March 14 and marked the occasion with a special video message for his fans. The actor revealed that he has spent the last few months focusing on selecting scripts and is now gearing up to concentrate more on acting.",
-    "img": "https://static.toiimg.com/photo/msid-129591316,imgsize-119918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-reveals-he-has-finalised-his-next-films-as-he-turns-61-last-six-months-ive-only-been-listening-to-scripts/articleshow/129591316.cms",
-    "time": "2026-03-15T14:57:31.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Over 6.4 lakh students to write SSC public examinations from March 16",
     "desc": "The examinations will be held from 9.30 a.m. to 12.45 p.m. and students must report at the examination centre by 8.30 a.m., and entry will not be permitted after 10 a.m., says Director of Government Examinations Srinivasulu Reddy",
@@ -196,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/boxing/chandrika-pujari-wins-gold-as-india-finish-with-five-medals-at-world-boxing-futures-cup-2026/articleshow/129590640.cms",
     "time": "2026-03-15T14:25:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did Trisha’s mother Uma hint at her wedding with Vijay?",
-    "desc": "Speculation around the alleged relationship between Vijay and Trisha Krishnan refuses to die down, and a recent social media activity by the actress’ mother Uma Krishnan has now added fuel to the rumour mill. Amid the ongoing speculation, a fan-made reel claiming that Vijay and Trisha might soon tie the knot began circulating online. What caught the attention of netizens, however, was that Trisha’s mother, Uma Krishnan, had “liked” the reel.",
-    "img": "https://static.toiimg.com/photo/msid-129590817,imgsize-74674.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/did-trisha-krishnans-mother-uma-krishnan-hint-at-her-wedding-with-thalapathy-vijay-a-like-sets-the-internet-talking/articleshow/129590817.cms",
-    "time": "2026-03-15T14:13:39.000Z"
   },
   {
     "cat": "Politics",
@@ -234,15 +387,6 @@ const newsData_en = [
     "time": "2026-03-15T13:25:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Lavanya Tripathi recalls painful experience with a Tamil director",
-    "desc": "Lavanya Tripathi recently opened up about a difficult phase in her career, recalling how turning down a Tamil film led to legal trouble and negative media coverage. Speaking at an Open House With Fans session organised by Mahi Originals, the actress said the incident took place nearly a decade ago and that she had never spoken about it publicly until now.",
-    "img": "https://static.toiimg.com/photo/msid-129590218,imgsize-63158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/lavanya-tripathi-recalls-painful-experience-with-a-tamil-director-they-put-a-case-on-me-and-published-wrong-articles/articleshow/129590218.cms",
-    "time": "2026-03-15T13:16:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "CWI",
     "desc": "After an arduous wait, the West Indies cricket team and its staff have successfully made their journey back home following their time in India for the T20 World Cup. The team faced significant challenges due to travel restrictions caused by escalating tensions in West Asia, resulting in closed airspace and canceled flights that kept them in Kolkata longer than anticipated.",
@@ -252,15 +396,6 @@ const newsData_en = [
     "time": "2026-03-15T13:15:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anshuman Jha's 'Lakadbaggha 2' set to clash with 'Ramayana'",
-    "desc": "The Monkey Business', is gearing up for a Diwali debut, set to compete head-on with Nitesh Tiwari's grand adaptation of 'Ramayana'. Jha proudly presents the film’s cheeky monkey as a homage to Lord Hanuman, weaving in themes of resilience and environmental respect. Read the full article in detail to know more.",
-    "img": "https://static.toiimg.com/photo/msid-129590090,imgsize-194242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anshuman-jha-confirms-diwali-2026-release-for-lakadbaggha-2-set-to-clash-with-ranbir-kapoor-starrer-ramayana-part-1/articleshow/129590090.cms",
-    "time": "2026-03-15T13:06:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No change to Guwahati games despite Assam polls, says BCCI’s Devajit Saikia",
     "desc": "IPL 2026 matches in Guwahati will proceed as scheduled despite Assam's April 9 elections. BCCI secretary Devajit Saikia confirmed discussions with state officials, who assured full cooperation for the Rajasthan Royals' games. The Election Commission's announcement places matches around the polling date, but authorities are prepared to manage the logistics without any rescheduling.",
@@ -268,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/no-change-to-guwahati-games-despite-assam-polls-says-bccis-devajit-saikia/articleshow/129590143.cms",
     "time": "2026-03-15T13:04:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyadarshan reveals Tabu's secret role in ‘Bhooth Bangla’",
-    "desc": "Prepare for a spine-tingling yet side-splitting experience with 'Bhooth Bangla', the latest horror-comedy from Priyadarshan! Slated for release next month, it brings Akshay Kumar back into the fold after a 15-year break. Priyadarshan highlights Tabu's indispensable character, insisting the story wouldn’t hold up without her. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129589992,imgsize-97790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-reveals-tabus-secret-role-in-akshay-kumar-starrer-bhooth-bangla-no-logic-in-the-story-without-her/articleshow/129589992.cms",
-    "time": "2026-03-15T12:59:35.000Z"
   },
   {
     "cat": "Sports",
@@ -297,15 +423,6 @@ const newsData_en = [
     "time": "2026-03-15T12:25:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'AA23': Anirudh Ravichander sets new salary record",
-    "desc": "Music composer Anirudh Ravichander is reportedly set to receive a record-breaking Rs 25 crore for his work on the upcoming film 'AA23'. This project stars Allu Arjun and is directed by Lokesh Kanagaraj. The film is expected to be a massive action entertainer. This reported fee surpasses his previous earnings for Rajinikanth's 'Coolie'.",
-    "img": "https://static.toiimg.com/photo/msid-129589507,imgsize-106772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anirudh-ravichander-sets-new-salary-record-rockstar-composer-hikes-fee-for-allu-arjunlokesh-kanagarajs-aa23-reports/articleshow/129589507.cms",
-    "time": "2026-03-15T12:15:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No Hitman! Virat Kohli picks Chris Gayle over Rohit Sharma as best T20 opener",
     "desc": "Virat Kohli, in a recent 'This or That' challenge, named Chris Gayle as his top T20 opener over Rohit Sharma. Kohli's selections progressed through Adam Gilchrist, Travis Head, and Virender Sehwag before reaching the final showdown. Gayle's prolific T20 record, including the highest individual IPL score, solidifies his legendary status in the format.",
@@ -313,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/no-hitman-virat-kohli-picks-chris-gayle-over-rohit-sharma-as-best-t20-opener/articleshow/129589353.cms",
     "time": "2026-03-15T12:08:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zakir Khan hospitalized? Video of him leaves fans concerned",
-    "desc": "Renowned comedian Zakir Khan has taken a step back from his bustling career for health reasons, sending fans into a frenzy. Concerns escalated when a clip of him in hospital attire, engrossed in a cricket match, circulated online, shared by his brother. However, official updates from Lilavati Hospital regarding his health condition are still awaited. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129589282,imgsize-96372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zakir-khan-hospitalized-in-mumbai-viral-video-of-the-stand-up-comedian-in-a-hospital-robe-sparks-fan-concern/articleshow/129589282.cms",
-    "time": "2026-03-15T12:00:07.000Z"
   },
   {
     "cat": "Business",
@@ -333,24 +441,6 @@ const newsData_en = [
     "time": "2026-03-15T10:51:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Varun REACTS to being compared to Govinda; 'Very tall...'",
-    "desc": "Filmmaker David Dhawan revealed on Kapil Sharma's show that he always envisioned Govinda performing scenes while writing scripts, a practice he continued with son Varun Dhawan. Varun acknowledged the challenge of living up to his father's iconic collaborations, noting his father's references to past superstars. The father-son duo have continued their successful partnership, with new projects on the horizon. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129588132,imgsize-101932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-dhawan-on-being-compared-to-govinda-in-every-scene-by-his-father-david-dhawan-its-a-very-tall-order-to-live-up-to/articleshow/129588132.cms",
-    "time": "2026-03-15T10:42:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Sethupathi confirms script for 'Maharaja 2' is complete",
-    "desc": "Actor Vijay Sethupathi confirmed that director Nithilan Saminathan has completed the script for 'Maharaja 2,' the sequel to their 2024 blockbuster. Sethupathi expressed his excitement to hear the script soon. This news follows his recent confirmation of other upcoming collaborations with renowned filmmakers and several projects in various stages of production.",
-    "img": "https://static.toiimg.com/photo/msid-129588003,imgsize-162820.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-sethupathi-confirms-script-for-maharaja-2-by-nithilan-saminathan-is-complete-im-excited-to-hear-it/articleshow/129588003.cms",
-    "time": "2026-03-15T10:25:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "2017 Champions Trophy-winning captain Sarfaraz Ahmed retires from all forms of cricket",
     "desc": "Former Pakistan captain Sarfaraz Ahmed has announced his retirement from all formats of cricket. The wicketkeeper-batter, who led Pakistan to major ICC tournament final victories, will now focus on administrative and mentoring roles. His retirement opens the door for a potential long-term appointment as the national Test team's head coach.",
@@ -358,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/2017-champions-trophy-winning-captain-sarfaraz-ahmed-retires-from-all-forms-of-cricket/articleshow/129587961.cms",
     "time": "2026-03-15T10:24:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Honey Singh’s Delhi concert ends in chaos following major fight",
-    "desc": "During Yo Yo Honey Singh's electrifying concert in Delhi, which kicked off his much-anticipated India tour, chaos erupted in the crowd as a major altercation broke out. Unfazed, the artist continued to serenade his fans, while security and police swiftly sprang into action to quash the disruption. This unexpected incident overshadowed the vibrant atmosphere at the Indira Gandhi Indoor Stadium.",
-    "img": "https://static.toiimg.com/photo/msid-129587732,imgsize-85572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/yo-yo-honey-singhs-delhi-concert-ends-in-chaos-following-a-major-fight-in-the-crowd-watch-viral-video/articleshow/129587732.cms",
-    "time": "2026-03-15T10:23:26.000Z"
   },
   {
     "cat": "Business",
@@ -388,15 +469,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Celebrating India’s stars in the saddle",
-    "desc": "The eighth Times of India Sports Awards will honour India's top athletes on March 21, 2026, in Lucknow. The event recognises performances from 2025, with equestrian nominees Ashish Limaye, Shruti Vora, and Divyakriti Singh highlighted for their significant achievements at the FEI Asian Equestrian Championships.",
-    "img": "https://static.toiimg.com/photo/msid-129587676,imgsize-51020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/toisa-2025-equestrian-nominees-celebrating-indias-stars-in-the-saddle/articleshow/129587688.cms",
-    "time": "2026-03-15T09:53:56.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Babar Azam don't have a voice': Ex-Pakistan batter cites Virat Kohli example in T20 World Cup rant",
     "desc": "Former Pakistan batter Basit Ali criticized the decision to bat Babar Azam at No.4 during the T20 World Cup, suggesting he should have opposed the move like Virat Kohli. However, Kamran Akmal disagreed, stating players rarely challenge management, especially when out of form.",
     "img": "https://static.toiimg.com/photo/msid-129587451,imgsize-977529.cms",
@@ -412,24 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-conflict-forces-indian-exporters-to-reroute-shipments-absorb-higher-costs/articleshow/129587491.cms",
     "time": "2026-03-15T09:38:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kamal Haasan's ‘Ammayane Sathyam’ remake exit reason revealed",
-    "desc": "Director Balachandra Menon revealed that Kamal Haasan exited the Tamil remake of 'Ammayane Sathyam,' titled 'Kanden Seethaiyai,' after just ten days of shooting. A discussion on set about a female character in disguise reportedly sparked an idea for Haasan to play a similar role, leading him to withdraw from the project.",
-    "img": "https://static.toiimg.com/photo/msid-129587360,imgsize-67110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/director-balachandra-menon-reveals-why-kamal-haasan-exited-the-ammayane-sathyam-remake/articleshow/129587360.cms",
-    "time": "2026-03-15T09:25:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sethupathi says he did 'Jawan' just for SRK and THIS person",
-    "desc": "Vijay Sethupathi shared his heartfelt reasons for joining the cast of Shah Rukh Khan's hit film 'Jawan'. He expressed that his decision was fueled by a deep-seated admiration for SRK and a genuine respect for director Atlee's unique storytelling. The way Atlee curated his scenes with palpable confidence captivated Sethupathi, compelling him to be part of this cinematic journey. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129587145,imgsize-186242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vijay-sethupathi-reveals-he-did-jawan-just-for-shah-rukh-khan-and-this-person-just-for-them-only-i-did-that-film/articleshow/129587145.cms",
-    "time": "2026-03-15T09:15:28.000Z"
   },
   {
     "cat": "Sports",
@@ -459,15 +513,6 @@ const newsData_en = [
     "time": "2026-03-15T08:03:26.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Celebrating India’s best of the best",
-    "desc": "The eighth Times of India Sports Awards will honourr India's top athletes in Lucknow on March 21, 2026, recognising achievements from 2025. A distinguished jury will select winners from over 45 categories, highlighting both established stars and emerging talents who have made the nation proud.",
-    "img": "https://static.toiimg.com/photo/msid-129586608,imgsize-59666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/toisa-2025-sportsperson-of-the-year-nominees-celebrating-indias-best-of-the-best/articleshow/129586550.cms",
-    "time": "2026-03-15T08:00:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "China may face closer scrutiny in U.S. forced-labour probe: GTRI",
     "desc": "India's exports of solar panels, electronics, and garments to the U.S. may also face closer scrutiny under this new U.S. investigation into forced labour in global supply chains, says the Global Trade Research Initiative (GTRI)",
@@ -475,15 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/china-may-face-closer-scrutiny-in-us-forced-labour-probe-gtri/article70745889.ece",
     "time": "2026-03-15T07:53:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Back to the drawing board for Varun Chakravarthy? Harbhajan Singh backs spinner to bounce back",
-    "desc": "Despite being a joint-highest wicket-taker at the T20 World Cup, Varun Chakravarthy's economy rate raised concerns. Experts suggest batters found him easier to read, possibly due to slight errors in length. Harbhajan Singh believes Varun, a champion bowler, will bounce back by focusing on execution and developing his away-going delivery, crucial for India's future T20 ambitions.",
-    "img": "https://static.toiimg.com/photo/msid-129586426,imgsize-44916.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/back-to-the-drawing-board-for-varun-chakravarthy-harbhajan-singh-backs-spinner-to-bounce-back/articleshow/129586441.cms",
-    "time": "2026-03-15T07:46:22.000Z"
   },
   {
     "cat": "Business",
@@ -576,15 +612,6 @@ const newsData_en = [
     "time": "2026-03-15T04:16:54.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'We are not ice and fire, we are fire and fire': Samson on partnership with Abhishek",
-    "desc": "Sanju Samson and Abhishek Sharma's explosive 98-run opening partnership powered India to a massive 255/5 in the T20 World Cup final. India secured a commanding 96-run victory, clinching their third T20 World Cup title and becoming the first host nation to defend the crown. Samson lauded their 'fire and fire' partnership, highlighting their natural understanding and bravery.",
-    "img": "https://static.toiimg.com/photo/msid-129584582,imgsize-73336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-are-not-ice-and-fire-we-are-fire-and-fire-sanju-samson-on-partnership-with-abhishek-sharma/articleshow/129584567.cms",
-    "time": "2026-03-15T04:14:04.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Air India cancels, IndiGo reschedules flights after UAE restricts ops",
     "desc": "Air India and IndiGo are experiencing significant flight disruptions to the UAE due to operational restrictions stemming from the West Asia crisis. Both airlines have cancelled multiple flights and are offering rebooking or refunds to affected passengers. These changes coincide with rising aviation fuel prices, leading airlines to implement fuel surcharges..",
@@ -592,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/dubai-air-travel-disruptions-air-india-cancels-indigo-reschedules-flights-after-uae-restricts-operations/articleshow/129584467.cms",
     "time": "2026-03-15T03:54:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'He didn't have great time as player, but he lifted the WC': Ponting on Surya",
-    "desc": "Ricky Ponting lauded Suryakumar Yadav's leadership during India's ICC Men's T20 World Cup 2026 campaign, highlighting his ability to guide the team despite personal batting struggles. Ponting emphasized Yadav's crucial role in managing players like Abhishek Sharma and Sanju Samson, whose resurgence under pressure proved vital to India's success.",
-    "img": "https://static.toiimg.com/photo/msid-129584415,imgsize-182762.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/how-suryakumar-yadav-led-india-to-t20-world-cup-glory-despite-poor-form/articleshow/129584396.cms",
-    "time": "2026-03-15T03:47:14.000Z"
   },
   {
     "cat": "Entertainment",
@@ -754,24 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-secretary-of-defense-pete-hegseth-briefing-on-us-israel-iran-war-march-13-2026/article70739482.ece",
     "time": "2026-03-13T13:14:57.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "China passes new ethnic minority law, prioritise use of Mandarin language",
-    "desc": "Called \"Promoting Ethnic Unity and Progress\", the ethnic minority law aims to forge national unity ‌and advance the rejuvenation of the Chinese nation with the Chinese Communist Party (CCP) at its core, a draft copy of the law showed",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-international/3va4w6/article70737070.ece/alternates/LANDSCAPE_1200/China-passes-neG4PFN51MC.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/china-passes-new-ethnic-minority-law-prioritise-use-of-mandarin-language/article70736694.ece",
-    "time": "2026-03-13T08:02:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S., Israel wanted quick win, but they failed: Mohammad Marandi",
-    "desc": "“As time goes on, the price of oil is going to go up. And the world knows that this is not Iran’s fault. This is the fault of the Trump regime and Netanyahu,” says Marandi",
-    "img": "https://th-i.thgim.com/public/incoming/srg7br/article70738366.ece/alternates/LANDSCAPE_1200/0afa6534-3338-4397-b93d-87d2082dd565.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-israel-wanted-quick-win-but-they-failed-mohammad-marandi/article70738322.ece",
-    "time": "2026-03-13T07:36:37.000Z"
   },
   {
     "cat": "Business",
