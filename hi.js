@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan lodges official complaint against Bangladesh over controversial review in third ODI",
+    "desc": "Bangladesh registered an emphatic victory over Pakistan in the third ODI, clinching the series between the two sides. The two sides locked horns at the Shere Bangla National Stadium in Mirpur, and while Bangladesh managed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-lodges-official-complaint-against-bangladesh-over-controversial-review-in-third-odi-2026-03-16-1033904",
+    "time": "2026-03-16T04:53:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Their net run rate was not that good': Suresh Raina reflects on KKR's batting order ahead of IPL 2026",
+    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee tournament is all set to kick off on March 28, and ahead of the new season, former India cricketer...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/their-net-run-rate-was-not-that-good-suresh-raina-reflects-on-kkr-s-batting-order-ahead-of-ipl-2026-2026-03-16-1033899",
+    "time": "2026-03-16T04:02:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Great opportunity for us': Shubman Gill lays out India's 'ultimate' 2027 ODI World Cup goal",
+    "desc": "The BCCI (Board of Control for Cricket in India) annual awards saw the board felicitate a plethora of players for their contributions to Indian cricket. From Smriti Mandhana being named the women’s cricketer of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/great-opportunity-for-us-shubman-gill-lays-out-india-s-ultimate-2027-odi-world-cup-goal-2026-03-16-1033893",
+    "time": "2026-03-16T02:33:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ish Sodhi ruled out remainder of South Africa series with broken thumb",
     "desc": "With New Zealand and South Africa kicking off their five-game T20I series, and the Proteas registering a comfortable win on foreign soil, the Black Caps have been hit with yet another roadblock as star spinner...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-sa-new-zealand-get-bowled-out-under-100-for-14th-time-in-t20is-lose-to-south-africa-in-1st-t20i-2026-03-15-1033857",
     "time": "2026-03-15T11:53:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sarfaraz Ahmed, former Pakistan captain, announces retirement from international cricket",
-    "desc": "Sarfaraz Ahmed has announced his retirement from international cricket with immediate effect. His career spanned nearly two decades and remains the last captain to lead Pakistan to an ICC trophy. Under his captaincy, Pakistan won...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sarfaraz-ahmed-former-pakistan-captain-announces-retirement-from-international-cricket-2026-03-15-1033853",
-    "time": "2026-03-15T11:02:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh hope for good start with the bat",
-    "desc": "Bangladesh and Pakistan lock horns in the 3rd ODI of the ongoing series. The two sides take on each other at the Shere Bangla National Stadium in Mirpur. It is worth noting that the two...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ban-vs-pak-3rd-odi-live-score-bangladesh-hope-for-good-start-with-the-bat-2026-03-15-1033839",
-    "time": "2026-03-15T08:38:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harbhajan Singh opens up on Mumbai Indians' potential playing XI ahead of IPL 2026",
-    "desc": "With the IPL (Indian Premier League) 2026 all set to kick off on March 28, former India cricketer Harbhajan Singh came forward and talked about the potential playing combination for five-time champions Mumbai Indians in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harbhajan-singh-opens-up-on-mumbai-indians-potential-playing-xi-ahead-of-ipl-2026-2026-03-15-1033836",
-    "time": "2026-03-15T08:16:58.000Z"
   }
 ];

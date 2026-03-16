@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ইরান যুদ্ধের মধ্যে পুতিনের ‘এন্ট্রি’? মোজতবা খামেনেইকে তুলে নিয়ে গেল রাশিয়া, তাহলে আমেরিকার ১০০ কোটি টাকার পুরস্কারের কী হবে?",
+    "desc": "ইরান যুদ্ধ শুরু হওয়া ইস্তক একাধিক ফ্রন্টে লাভবান হচ্ছে রাশিয়া। মার্কিন যুক্তরাষ্ট্র ও পশ্চিমি দুনিয়ার চাপে প্রায় থমকে যাওয়া খনিজ তেল ‘উরাল ক্রুড’ এবং তরল প্রাকৃতিক গ্যাসের ব্যবসা ইতিমধ্যেই নতুন উদ্যমে শুরু করেছেন পুতিন। তাঁর সামনে চলে এসেছে ইউক্রেন কব্জা করার সুযোগ। পাশাপাশি, অত্যাধুনিক হাতিয়ার বিক্রি করেও মুনাফা লুটতে পারবেন তিনি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Iran-Israel-Putin-2026-03-a8e5a12a168938779c31d3b3a1a0646f-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/iran-us-war-news-russia-enters-in-war-airlifted-mojtaba-khamemnei-to-moscow-for-secure-treatment-ss-2586695.html",
+    "time": "2026-03-16T04:44:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "রাজ্যসভায় ব্যাটেলগ্রাউন্ড বিহার, ওড়িশা! জিততে মরিয়া বিজেপি, আজ ভোটগ্রহণ...ভাগ্য নির্ধারণ হবে নীতীশ-নিতিনের",
+    "desc": "পশ্চিমবঙ্গ থেকে ৫টি আসনের মেয়াদ ফুরিয়েছিল৷ তারমধ্যে তৃণমূল কংগ্রেসের চার প্রার্থী প্রাক্তন পুলিশ কর্তা রাজীব কুমার, প্রাক্তন কেন্দ্রীয় মন্ত্রী বাবুল সুপ্রিয়, আইনজীবী মেনকা গুরুস্বামী এবং অভিনেত্রী কোয়েল মল্লিক বিনা প্রতিদ্বন্দ্বিতায় জয়ী হয়েছেন৷ বিজেপির তরফে বিনা প্রতিদ্বন্দ্বিতায় জয়ী হয়েছেন বিজেপির প্রাক্তন রাজ্য সভাপতি রাহুল সিনহা৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Rajya-Sabha-Election-2-2026-03-ace7a67bbeeb2c89f621f54b2e23aedf-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/rajya-sabha-election-results-2026-voting-today-bjp-congress-nitish-kumar-sharad-pawar-winners-list-eci-sta-2586711.html",
+    "time": "2026-03-16T04:41:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভিনরাজ্যে কাজের দিন শেষ! এক আইডিয়াতেই ঘুরল ভাগ্যের চাকা, জানুন কীভাবে বাড়িতেই শোল মাছ চাষে তাক লাগালেন এই যুবক",
+    "desc": "কষ্টের দিন ঘুচল এক অভিনব বিজনেস আইডিয়াতে। এককালে ভিনরাজ্যে শ্রমিকের কাজ করা যুবক এখন নিজের বাড়িতেই মাছ চাষ করে স্বাবলম্বী। শোল মাছ চাষের আধুনিক পদ্ধতি ব্যবহার করে তিনি কীভাবে লক্ষ লক্ষ টাকা আয় করছেন জানুন",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/shol-fish-pisciculture-business-idea-2026-03-cb59c31167dd38e9f0fa16ef2fdd99f6-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/east-medinipur-money-making-tips-migrant-worker-success-story-shol-fish-pisciculture-business-idea-l18-local18-2586443.html",
+    "time": "2026-03-16T02:44:18.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "অস্কারের মঞ্চে ট্রাম্পকে ‘ধুয়ে দিলেন’ কোনান, এপস্টিন কাণ্ড টেনে বিস্ফোরক মন্তব্য: ভাইরাল ভিডিও",
     "desc": "হাসির তোপে বিঁধলেন পাওয়ারকে! অস্কার ২০২৬-এর মঞ্চে সঞ্চালক কোনান ও'ব্রায়েন মনে করিয়ে দিলেন জেফরি এপস্টিন কেলেঙ্কারির কথা। ব্রিটিশ রাজপুত্র অ্যান্ড্রুর গ্রেফতারি থেকে শুরু করে ডোনাল্ড ট্রাম্পের ছায়া— বাদ গেলেন না কেউই। ডলবি থিয়েটারের নিস্তব্ধতা ভেঙে কোনানের এই ‘জোক’ এখন ইন্টারনেটে সুপারভাইরাল!",
@@ -450,15 +477,6 @@ const newsData_bn = [
     "time": "2026-03-11T13:44:50.000Z"
   },
   {
-    "cat": "World",
-    "title": "মধ্যপ্রাচ্যে ঘোর সংকট; বাবা ভাঙ্গার মতে ইরান-মার্কিন যুদ্ধই সূচনা করবে তৃতীয় বিশ্বযুদ্ধের",
-    "desc": "শোনা যায়, অন্ধ ভবিষ্যদ্বক্তা বাবা ভাঙ্গা তাঁর স্বপ্নের মধ্যে দর্শন পেতেন। যা ক্রমে তাঁর নামে প্রচলিত ভবিষ্যদ্বাণীগুলোর ভিত্তি হয়ে দাঁড়িয়েছিল। এর মধ্যে খুবই গুরুত্বপূর্ণ হল তাঁর যুদ্ধ-সংক্রান্ত ভবিষ্যদ্বাণী। তিনি বলেছিলেন, যা পূর্ব দিকে শুরু হবে এবং ক্রমে পশ্চিমে ছড়িয়ে পড়বে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/baba-vanga-world-war-3-prediction-bulgarian-mystic-predicted-major-global-conflict-2026_644521.html ",
-    "time": "2026-03-11T13:04:28.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "বেঙ্গালুরু বিমানবন্দরে এল রহস্যময় পার্সেল! ভিতরে অশ্লী*ল ছবি, মালা, লোহার কুঁচি, আর... আতঙ্কে স্থানীয়রা",
     "desc": "বেঙ্গালুরু বিমানবন্দরে উদ্ধার হয়েছে একটি রহস্যময় পার্সেল, যা ঘিরে চাঞ্চল্য ছড়িয়েছে। ওই পার্সেল থেকে উদ্ধার করা হয়েছে এক পুরুষ এবং এক নারীর নগ্ন ছবি, পচা সবজি আর আরও কিছু অদ্ভুত জিনিস। এই পার্সেল নিয়ে কালো জাদুর ভয় ছড়িয়েছে, ঘটনাটি জানাজানি হতেই পুলিশ তদন্ত শুরু করেছে।",
@@ -601,15 +619,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/central-government-mandates-ekyc-to-curb-lpg-black-marketing-lpg-consumers-must-complete-e-kyc-how-to-book-gas-tib-ws-ekl-2578332.html",
     "time": "2026-03-10T14:16:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "মৃত্যুর সঙ্গে পাঞ্জা ‘ডান্স বাংলা ডান্স’-এর রোদ্দুরের: 'শুনে থাকতে পারিনি', খবর পেয়েই হাসপাতালে ছুটলেন অঙ্কুশ",
-    "desc": "ছোট্ট রোদ্দুরের এই লড়াই এখন গোটা বাংলার প্রার্থনা। জনপ্রিয় রিয়ালিটি শো 'ডান্স বাংলা ডান্স'-এর সেই চঞ্চল শিশুটির অসুস্থতার খবর নাড়িয়ে দিয়েছে বিনোদন জগতকে। রোদ্দুরকে দেখতে সোমবার হাসপাতালে যান অঙ্কুশ হাজরা। অভিনেতাকে দেখেই মুখে হাসি রোদ্দুরের।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/ankush-hazra-visits-dance-bangla-dance-fame-roddur-in-hospital-help-needed-15-lac-for-treatment_644409.html ",
-    "time": "2026-03-10T14:03:33.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/madhuri-dixit-turns-heads-in-sculptural-black-gown-with-dramatic-silver-ruffle-smc-2574024.html",
     "time": "2026-03-07T16:39:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "এলপিজি সিলিন্ডারের 'LPG' শব্দের ফুল ফর্ম কী জানেন...? শুনলেই চমকাবেন 'উত্তরে'!",
-    "desc": "এলপিজি রান্নার গ্যাসের দাম বাড়ল আজ! ৬০ টাকা থেকে এক ধাক্কায় গ্যাসের দাম বেড়ে হল ৯৩৯ টাকা। অন্যদিকে, বাণিজ্যিক বা কমার্শিয়াল সিলিন্ডারের দাম বাড়ল ১১৪.৫০ টাকা । বাণিজ্যিক এলপিজি সিলিন্ডারের দাম বেড়ে হল ১৯৯৯ টাকা। এই পরিস্থিতিতে দেশ জুড়ে ফের আলোচনায় উঠে এসেছে এলপিজি। কিন্তু জানেন কি এই এলপিজি সিলিন্ডারে LPG-শব্দের অর্থ কী বলুন তো?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/LPG-2026-03-109416ff533f2970d837533369e272a0-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/lpg-do-you-know-the-full-form-of-the-word-lpg-in-lpg-gas-cylinder-most-people-know-it-absolutely-wrong-but-the-answer-will-surprise-you-for-sure-sanj-2573808.html",
-    "time": "2026-03-07T16:14:37.000Z"
   }
 ];

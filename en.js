@@ -1,12 +1,282 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "No Eid celebrations for Shias in MP in the wake of Khamenei's death in the Iran-Iraq War",
+    "desc": "\"Around 4,000 Shia families are living in Madhya Pradesh. We will not wear new clothes or celebrate Eid this year as we are saddened by Khamenei's death. We will only offer namaz,\" says All India Shia Samaj State president",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/no-eid-celebrations-for-shias-in-mp-in-the-wake-of-khameneis-death-in-the-iran-iraq-war/article70748708.ece",
+    "time": "2026-03-16T05:07:01.000Z"
+  },
+  {
     "cat": "Entertainment",
-    "title": "RGV reveals flat where 'Bhoot' was shot is still vacant",
-    "desc": "Filmmaker Ram Gopal Varma shared a chilling anecdote about his 2003 horror hit 'Bhoot'. He revealed that the Mumbai apartment used for filming, chosen for its relatability, has remained unoccupied for over two decades since the movie's release. The film, starring Ajay Devgn and Urmila Matondkar, depicted a couple moving into a haunted flat. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129598611,imgsize-209084.cms",
+    "title": "Celebs take a jab at Timothee Chalamet at the Oscars for opera/ballet comment",
+    "desc": "Timothée Chalamet faced playful jabs at the Oscars regarding his recent comments on ballet and opera. Comedian Conan O'Brien humorously warned of potential backlash from the arts communities, while director Alexandre Singh subtly referenced theater and ballet in his acceptance speech, sparking mixed audience reactions. Chalamet, nominated for two awards, attended the ceremony with Kylie Jenner.",
+    "img": "https://static.toiimg.com/photo/msid-129600694,imgsize-93462.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-reveals-the-apartment-where-bhoot-was-shot-is-still-vacant-been-more-than-20-years/articleshow/129598611.cms",
-    "time": "2026-03-16T01:50:25.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-conan-obrien-and-alexandre-singh-take-a-jab-at-timothee-chalamet-for-ballet-opera-comment/articleshow/129600694.cms",
+    "time": "2026-03-16T05:00:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Reason and coordinate': Jaishankar reveals how India secured passage for 2 tankers in Strait of Hormuz amid Iran war",
+    "desc": "External affairs minister S Jaishankar hailed direct talks with Iran as the most effective way to resume shipping through the Strait of Hormuz. Tehran has allowed Indian-flagged vessels to pass, demonstrating the success of diplomacy over potential military action. This approach offers a potential model for other nations grappling with disrupted energy supplies.",
+    "img": "https://static.toiimg.com/photo/msid-129600612,imgsize-1051724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/reason-and-coordinate-jaishankar-reveals-how-india-secured-passage-for-2-tankers-in-strait-of-hormuz-amid-iran-war/articleshow/129600563.cms",
+    "time": "2026-03-16T04:56:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chris Evans, Alba Baptista charm in rare Oscars 2026 outing",
+    "desc": "Chris Evans and Alba Baptista made a stunning red carpet debut as new parents at the 2026 Oscars. The couple, who welcomed their daughter in October, captivated onlookers with their coordinated, elegant ensembles. This rare public appearance highlighted their blossoming romance and private life amidst Hollywood's glitz.",
+    "img": "https://static.toiimg.com/photo/msid-129600491,imgsize-615810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chris-evans-and-alba-baptista-charm-fans-with-a-rare-red-carpet-appearance-at-the-2026-oscars-after-welcoming-their-daughter/articleshow/129600483.cms",
+    "time": "2026-03-16T04:39:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gas supply crunch a worry for AC makers ahead of peak season",
+    "desc": "West Asia war-induced supply chain disruptions are impacting AC production in India, with shortages of LPG and petrochemicals affecting manufacturing processes. Companies are facing challenges with raw material availability and price hikes, potentially leading to increased costs for consumers ahead of the peak summer season.",
+    "img": "https://static.toiimg.com/photo/msid-129600323,imgsize-424310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gas-supply-crunch-a-worry-for-ac-makers-ahead-of-peak-season/articleshow/129600053.cms",
+    "time": "2026-03-16T04:27:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "The oil lifeline Trump just put in his crosshairs",
+    "desc": "A small rocky island, Kharg Island, has become a focal point in US-Iran tensions due to its critical role in Iran's oil exports. US forces struck military installations on the island, deliberately sparing oil facilities to signal leverage without crippling Iran's economy.",
+    "img": "https://static.toiimg.com/photo/msid-129600249,imgsize-1373088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/why-kharg-island-matters-the-oil-lifeline-trump-just-put-in-his-crosshairs/articleshow/129600228.cms",
+    "time": "2026-03-16T04:21:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Oscars slammed as 'RACIST and DISRESPECTFUL'",
+    "desc": "A historic night for K-pop at the Oscars saw the team behind 'Golden' from 'KPop Demon Hunters' clinch the original song award. However, the celebration was marred by accusations of racism and disrespect as the Academy cut short Yu Han Lee's acceptance speech, sparking outrage among viewers and fans online.",
+    "img": "https://static.toiimg.com/photo/msid-129599776,imgsize-108608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-slammed-as-racist-and-disrespectful-for-cutting-off-kpop-demon-hunters-historic-best-original-song-winning-speech/articleshow/129599689.cms",
+    "time": "2026-03-16T04:20:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Late Richarlison goal rescues Tottenham at Liverpool; United beat Villa",
+    "desc": "Tottenham Hotspur secured a dramatic 1-1 draw at Liverpool with a last-gasp equaliser from Richarlison, while Manchester United solidified their Champions League pursuit by defeating Aston Villa 3-1. Liverpool's Szoboszlai scored a stunning free-kick, but a late defensive lapse allowed Richarlison to snatch a point for Spurs. United's victory, featuring goals from Casemiro, Cunha, and Sesko, keeps them third.",
+    "img": "https://static.toiimg.com/photo/msid-129600192,imgsize-180328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/epl-late-richarlison-goal-rescues-tottenham-at-liverpool-manchester-united-beat-aston-villa-3-1/articleshow/129600197.cms",
+    "time": "2026-03-16T04:14:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ryan Coogler calls his children the ‘best producers’",
+    "desc": "Filmmaker Ryan Coogler's 'Sinners' triumphed at the 2026 Oscars, securing Best Actor for Michael B. Jordan and Best Original Screenplay. Coogler, accepting the latter, emotionally thanked his wife Zinzi and their three children, calling them his 'best producers' and expressing his deep love and apologies for time away. The couple, married since 2016, welcomed their third child in 2025.",
+    "img": "https://static.toiimg.com/photo/msid-129599971,imgsize-97958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sinners-director-ryan-coogler-calls-his-children-the-best-producers-as-he-accepts-the-oscar-for-best-original-screenplay/articleshow/129599971.cms",
+    "time": "2026-03-16T04:09:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Barbra Streisand honors Robert Redford at the 2026 Oscars",
+    "desc": "Barbra Streisand returned to the Oscars stage after over a decade to honor her late \"The Way We Were\" co-star, Robert Redford. She shared intimate memories of their bond and his impact on the film, before delivering an emotional performance of the iconic title track. The tribute celebrated Redford's enduring legacy in cinema.",
+    "img": "https://static.toiimg.com/photo/msid-129600050,imgsize-24384.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/barbra-streisand-shares-intellectual-cowboy-robert-redfords-final-words-during-oscars-2026-tribute-b-i-love-you-dearly/articleshow/129600052.cms",
+    "time": "2026-03-16T04:02:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Oscars 2026 complete winners list",
+    "desc": "At the star-studded 98th Academy Awards, a plethora of cinematic triumphs were on display, with 'One Battle After Another' stealing the spotlight by winning Best Picture alongside numerous other awards. Jessie Buckley dazzled the audience and judges alike, scoring Best Actress for her moving role in 'Hamnet', while Michael B.",
+    "img": "https://static.toiimg.com/photo/msid-129599959,imgsize-50756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-complete-winners-list-paul-thomas-anderson-michael-b-jordan-jessie-buckley-k-pop-demon-hunters-win-at-98th-academy-awards/articleshow/129599959.cms",
+    "time": "2026-03-16T03:58:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Last-over drama! Pak file complaint after controversial DRS call in B'desh ODI",
+    "desc": "Pakistan has lodged a complaint with the match referee over a controversial DRS call in the final over of their ODI loss to Bangladesh. The Pakistan camp alleges Bangladesh reviewed a decision after seeing a replay on the big screen and potentially outside the allowed time. This overturned wide call significantly impacted the match's outcome.",
+    "img": "https://static.toiimg.com/photo/msid-129599980,imgsize-105468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/last-over-drama-pakistan-file-complaint-after-controversial-drs-decision-in-bangladesh-odi/articleshow/129599941.cms",
+    "time": "2026-03-16T03:55:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "And thus died the follow-on, or did it?",
+    "desc": "India’s fightback at the Eden Gardens did make captains and teams wary of enforcing the follow-on. Australia, even under successful captains like Ricky Ponting and Adam Gilchrist enforced it just four times out of the 14 in which they had a choice to do so. Steve Waugh though enforced it seven times post Kolkata and won every Test!",
+    "img": "https://static.toiimg.com/photo/msid-129599955,imgsize-80308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/25-years-of-india-vs-australia-eden-gardens-test-and-thus-died-the-follow-on-or-did-it/articleshow/129599909.cms",
+    "time": "2026-03-16T03:53:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rachel McAdams delivers emotional tribute at 2026 Oscars",
+    "desc": "Rachel McAdams delivered a deeply moving In Memoriam tribute at the 98th Academy Awards, honoring lost artists. She shared heartfelt memories of her 'Family Stone' co-star Diane Keaton and fellow Canadian Catherine O'Hara, highlighting their immense contributions and personal impact. McAdams' emotional words resonated with the audience, celebrating the legacies of these beloved actresses.",
+    "img": "https://static.toiimg.com/photo/msid-129599759,imgsize-1149873.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-rachel-mcadams-delivers-emotional-in-memoriam-tribute-to-diane-keaton-and-catherine-ohara/articleshow/129599764.cms",
+    "time": "2026-03-16T03:34:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Oscars 26’: James Van Der Beek not included in televised in memoriam",
+    "desc": "The 2026 Oscars elicited a wave of reactions when the in memoriam segment left out beloved actor James Van Der Beek, who died in February following a courageous battle with colorectal cancer. Although the Academy paid tribute to him online, fans took to social media to voice their disappointment regarding his exclusion from the live tribute.",
+    "img": "https://static.toiimg.com/photo/msid-129599589,imgsize-85254.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-james-van-der-beeks-name-not-included-in-the-memoriam-segment/articleshow/129599589.cms",
+    "time": "2026-03-16T03:28:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Coach Marijne impressed, but Indian women's hockey team still a work in progress",
+    "desc": "Indian women's hockey team secured World Cup qualification under coach Sjoerd Marijne, showcasing strong defense and midfield play despite a final loss to England. Marijne praised the team's performance under pressure, highlighting areas for improvement in penalty corner conversion and technical decision-making. The squad, a blend of youth and experience, demonstrated promising potential for future tournaments.",
+    "img": "https://static.toiimg.com/photo/msid-129599617,imgsize-48106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/coach-sjoerd-marijne-impressed-but-indian-womens-hockey-team-still-a-work-in-progress/articleshow/129599593.cms",
+    "time": "2026-03-16T03:21:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Crude continues to rise as US-Iran war rages on; Brent surges past $105 a barrel",
+    "desc": "Global oil prices eased slightly as President Trump urged international cooperation to secure the Strait of Hormuz, following a sharp rally driven by US-Iran tensions. The disruption has impacted a fifth of global oil supply, prompting the IEA to release over 400 million barrels from strategic reserves.",
+    "img": "https://static.toiimg.com/photo/msid-129599569,imgsize-39284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-march-16-crude-continues-to-rise-as-us-iran-war-rages-on-brent-crude-surges-past-105-a-barrel/articleshow/129599496.cms",
+    "time": "2026-03-16T03:18:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Actor John Alford passes away in jail at 54",
+    "desc": "Actor John Alford, convicted of sexually assaulting two teenagers, has died in prison at 54. He was serving time at HMP Bure in Norfolk, England, after being found guilty in January of supplying alcohol and exploiting the girls. Alford maintained his innocence until his death. This follows a 1999 conviction for drug offenses.",
+    "img": "https://static.toiimg.com/photo/msid-129599498,imgsize-65360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/grange-hill-actor-john-alford-passes-away-in-jail-months-after-sexual-assault-case-conviction/articleshow/129599498.cms",
+    "time": "2026-03-16T03:18:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Who is Emma Stone’s husband, Dave McCary?",
+    "desc": "Dave McCary, Emma Stone's husband, has been her steadfast support as she achieves seven Oscar nominations for \"Bugonia.\" Their romance began on the \"Saturday Night Live\" set in 2016, leading to a private courtship, a secret wedding in 2020, and the birth of their daughter, Louise.",
+    "img": "https://static.toiimg.com/photo/msid-129599485,imgsize-524868.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/who-is-dave-mccary-inside-emma-stones-low-key-husband-and-the-filmmaker-behind-her-hollywood-journey/articleshow/129599488.cms",
+    "time": "2026-03-16T03:10:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Michael B Jordan wins Best Actor for 'Sinners'",
+    "desc": "Michael B. Jordan clinched the Best Actor Oscar for his dual role in the critically acclaimed \"Sinners.\" This marks a significant career milestone for the actor, who has been building towards such recognition for over two decades. The film, set in 1930s Mississippi, also garnered a record 16 nominations, solidifying its impact on the awards circuit.",
+    "img": "https://static.toiimg.com/photo/msid-129599444,imgsize-32624.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-b-jordan-wins-best-actor-for-sinners-beats-timothee-chalamet-to-clinch-first-oscar/articleshow/129599352.cms",
+    "time": "2026-03-16T03:07:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya remains India’s most reliable big-match allrounder",
+    "desc": "Hardik Pandya's crucial performances in India's back-to-back T20 World Cup victories in 2024 and 2026 are often overshadowed by his flamboyant lifestyle. Despite off-field distractions, Pandya delivered match-winning spells and vital batting contributions, proving an indispensable asset alongside Jasprit Bumrah. His dedication and improved game intelligence remain key to his success.",
+    "img": "https://static.toiimg.com/photo/msid-129599407,imgsize-137196.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/beyond-the-bling-hardik-pandya-remains-indias-most-reliable-big-match-allrounder/articleshow/129599397.cms",
+    "time": "2026-03-16T03:03:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Like a comedy series’: Ex-cricketer slams Pakistan after series loss to Bangladesh",
+    "desc": "Former Pakistan wicketkeeper Kamran Akmal lambasted the national team after their unexpected 1-2 ODI series loss to Bangladesh. He urged treating their matches as comedy, highlighting the disgrace of losing to a lower-ranked opponent. Bangladesh secured a historic series win, their first against Pakistan in 11 years, with standout performances from Tanzid Hasan Tamim and Taskin Ahmed.",
+    "img": "https://static.toiimg.com/photo/msid-129599376,imgsize-133070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/treat-pakistan-matches-like-a-comedy-series-ex-cricketer-slams-team-after-series-loss-to-bangladesh/articleshow/129599356.cms",
+    "time": "2026-03-16T02:59:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dharmendra, Manoj Kumar remembered",
+    "desc": "The 98th Academy Awards paid a poignant tribute to cinematic legends lost between 2025 and 2026. Beyond Hollywood's celebrated figures, the Oscars' official website honoured Indian cinema icons like Dharmendra, Manoj Kumar, B. Saroja Devi, and Kota Srinivasa Rao.",
+    "img": "https://static.toiimg.com/photo/msid-129599079,imgsize-92050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/oscars-remember-indian-stars-dharmendra-manoj-kumar-b-saroja-devi-and-kota-srinivasa-rao-in-memorium-segment/articleshow/129599064.cms",
+    "time": "2026-03-16T02:52:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay leaves Delhi HQ",
+    "desc": "Actor Vijay appeared before the CBI in Delhi for nearly seven hours regarding the 2025 Karur stampede, which claimed 41 lives. He had requested an extension and a venue change, both denied by the agency. The Supreme Court is monitoring the probe into the tragic incident during his party's rally. Vijay later greeted supporters outside the CBI headquarters.",
+    "img": "https://static.toiimg.com/photo/msid-129599179,imgsize-102680.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karur-stampede-case-vijay-appears-before-central-bureau-of-investigation-leaves-delhi-hq-after-7-hour-questioning/articleshow/129599179.cms",
+    "time": "2026-03-16T02:48:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Conan O’Brien takes dig at Timothée Chalamet controversy",
+    "desc": "At the 2026 Academy Awards, Conan O'Brien brought his signature wit to the stage, zeroing in on Timothée Chalamet’s recent provocative statements regarding ballet and opera. With girlfriend Kylie Jenner at his side, Chalamet embraced the humor, bursting into laughter at O'Brien's cheeky remark.",
+    "img": "https://static.toiimg.com/photo/msid-129599190,imgsize-145652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/conan-obrien-takes-a-dig-at-timothe-chalamets-ballet-opera-controversy-im-told-there-are-concerns-about-attacks/articleshow/129599190.cms",
+    "time": "2026-03-16T02:44:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Farah shares how 'Tees Maar Khan' failure affected her",
+    "desc": "Filmmaker Farah Khan revealed the profound impact of her film 'Tees Maar Khan's' box office failure, calling it her career's toughest phase. She admitted to being bedridden for days, overwhelmed by criticism. Khan now believes this setback made her wiser, acknowledging that constant success can lead to overconfidence and a dismissive attitude on set. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129598666,imgsize-120024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-shares-how-tees-maar-khan-failure-put-her-on-her-back-foot-i-couldnt-even-get-out-of-my-bed/articleshow/129598666.cms",
+    "time": "2026-03-16T02:35:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Golden' creates Oscar HISTORY with Best Original Song win",
+    "desc": "History was made at the 98th Academy Awards as Netflix's 'KPop Demon Hunters' secured the Oscar for Best Original Song with its hit 'Golden,' marking the first K-pop song to achieve this feat. The film also clinched Best Animated Feature. This groundbreaking win follows the song's earlier Grammy success, solidifying its global impact and the film's phenomenal reception.",
+    "img": "https://static.toiimg.com/photo/msid-129598960,imgsize-114730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/golden-from-kpop-demon-hunters-creates-oscar-history-becomes-first-k-pop-song-to-win-best-original-song/articleshow/129598902.cms",
+    "time": "2026-03-16T02:19:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka Chopra and Nick Jonas escape near accident",
+    "desc": "Priyanka Chopra and Nick Jonas experienced a dramatic start to the Oscars, with their golf cart nearly tipping over while en route to the red carpet due to high-security measures. Despite the near-accident, the couple arrived safely and on time, with Priyanka later stunning in a white gown. She also presented the Best Foreign Film award.",
+    "img": "https://static.toiimg.com/photo/msid-129598555,imgsize-110842.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/priyanka-chopra-and-nick-jonas-escape-near-accident-ahead-of-oscars-appearance-golf-cart-nearly-tips-over-watch/articleshow/129598078.cms",
+    "time": "2026-03-16T02:07:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kate Hudson attends Oscars 2026 in USD 35 million jewelry",
+    "desc": "Hollywood star Kate Hudson captivated the Oscars 2026 red carpet, adorned in a breathtaking USD 35 million jewelry ensemble. Her stunning green diamond necklace, boasting 41 carats, and matching stud earrings perfectly complemented her custom gown. Nominated for Best Actress, Hudson expressed immense joy and gratitude for the recognition, calling the experience \"crazy in the best way.\"",
+    "img": "https://static.toiimg.com/photo/msid-129598553,imgsize-144840.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-kate-hudson-returns-25-years-after-almost-famous-the-best-actress-nominee-stuns-in-usd-35m-jewels/articleshow/129598553.cms",
+    "time": "2026-03-16T02:02:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sean Penn’s Oscars 2026 absence sparks buzz after BAFTA win",
+    "desc": "Sean Penn missed the 98th Academy Awards ceremony. He was nominated for Best Supporting Actor for his role in 'One Battle After Another'. This absence follows a trend of him skipping award events this season. Penn's decision highlights his focus on new projects and his independent approach to Hollywood. His past wins and this year's no-show solidify his unique status.",
+    "img": "https://static.toiimg.com/photo/msid-129598780,imgsize-566915.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/actor-sean-penns-absence-from-the-2026-oscars-sparks-buzz-after-surprise-bafta-win/articleshow/129598782.cms",
+    "time": "2026-03-16T01:57:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "$240 billion wealth wiped out in just one week",
+    "desc": "Geopolitical tensions in the Middle East have sent shockwaves through India's stock markets, erasing an estimated $240 billion in investor wealth. Soaring oil prices and foreign investor withdrawals amplified the sell-off, impacting sectors from banking to automobiles. Experts urge calm, noting historical market resilience post-crises but future direction hinges on Iran vs US-Israel war de-escalation.",
+    "img": "https://static.toiimg.com/photo/msid-129598671,imgsize-58290.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-conflict-sends-dalal-street-into-panic-iran-vs-us-israel-war-sparks-india-market-crash-sensex-nifty-slide-as-240-billion-investor-wealth-wiped-out-in-just-one-week/articleshow/129598439.cms",
+    "time": "2026-03-16T01:48:33.000Z"
   },
   {
     "cat": "Sports",
@@ -18,60 +288,6 @@ const newsData_en = [
     "time": "2026-03-16T01:45:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "All about Conan Obrien's wife Liza Powel O'Brien",
-    "desc": "As Conan O'Brien prepares for another exciting night as Oscars host in 2026, his unwavering supporter, Liza Powel O'Brien, stands proudly by his side. A gifted playwright and former copywriter, Liza crossed paths with Conan in 1999 during a comedic segment on television. Since tying the knot in 2002, they have welcomed two delightful children, Neve and Beckett.",
-    "img": "https://static.toiimg.com/photo/msid-129598644,imgsize-86180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/who-is-oscars-2026-host-conan-obriens-wife-all-about-liza-powel-obrien/articleshow/129598644.cms",
-    "time": "2026-03-16T01:40:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nicole Kidman talks about 2003 Oscars win for Best Actress",
-    "desc": "During the presentation at the 2026 Oscars, Nicole Kidman shared heartfelt memories of her 2003 triumph as Best Actress for 'The Hours.' Despite the glittering recognition, she opened up about the profound loneliness that washed over her when the spotlight dimmed, revealing she had no companion to celebrate the achievement.",
-    "img": "https://static.toiimg.com/photo/msid-129598526,imgsize-65568.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-nicole-kidman-recalls-lonely-2003-academy-award-win-says-i-dont-have-anyone-to-jump-on-the-bed-with/articleshow/129598526.cms",
-    "time": "2026-03-16T01:23:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Film earns over Rs 22 cr",
-    "desc": "The Revenge', the numbers speak volumes. Advance ticket sales have crossed 600,000 in India, bringing in over Rs 14 crore on Day 1. The premiere night was a blockbuster success, netting Rs 37 crore. With international markets buzzing, pre-sales are surpassing Rs 110 crore globally, hinting at a formidable challenge in the box office arena. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129598409,imgsize-112310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-the-revenge-advance-booking-day-1-ranveer-singh-led-thriller-earns-a-gross-of-over-a-massive-rs-22-crore/articleshow/129598409.cms",
-    "time": "2026-03-16T01:09:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Cassandra Kulukundis wins first ever Best Casting Oscar",
-    "desc": "In a dazzling twist at the Oscars, 'One Battle After Another' made waves by winning the debut Best Casting award, with Cassandra Kulukundis proudly claiming the honor. This win not only recognizes her exceptional work but also elevates the often-overlooked contributions of casting directors in cinema.",
-    "img": "https://static.toiimg.com/photo/msid-129598448,imgsize-113870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cassandra-kulukundis-wins-first-ever-best-casting-oscar-for-one-battle-after-another/articleshow/129598405.cms",
-    "time": "2026-03-16T01:09:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Aadu 3' advance booking day 1 crosses Rs 1 crore",
-    "desc": "One Last Ride' are exceeding expectations, with over Rs 1 crore already booked in Kerala. The highly anticipated third installment, releasing March 19, 2026, is planned as a two-part story to accommodate extensive world-building. The popular cast returns, promising an epic conclusion for fans.",
-    "img": "https://static.toiimg.com/photo/msid-129598399,imgsize-80520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aadu-3-one-last-ride-advance-booking-day-1-jayasurya-and-vinayakans-comedy-film-crosses-rs-1-crore/articleshow/129598399.cms",
-    "time": "2026-03-16T01:06:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Demi Moore dazzles in emerald feathered gown at Oscars",
-    "desc": "Demi Moore captivated on the 2026 Oscars red carpet in a dramatic, emerald green Gucci gown adorned with cascading feathers. The 63-year-old actress, presenting at the ceremony, showcased timeless glamour with her signature sleek hairstyle and romantic makeup. This stunning appearance follows her 2025 Best Actress nomination, solidifying her status as a fashion icon.",
-    "img": "https://static.toiimg.com/photo/msid-129598402,imgsize-517335.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-demi-moore-turns-heads-in-an-emerald-feathered-custom-gown/articleshow/129598404.cms",
-    "time": "2026-03-16T01:03:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Buttler’s form is pedestrian': Ex-India cricketer sounds alarm on Gujarat Titans top order",
     "desc": "Former cricketer Aakash Chopra has raised concerns for Gujarat Titans ahead of IPL 2026, citing an over-reliance on their top-order batsmen. He specifically highlighted Jos Buttler's recent \"pedestrian\" form, noting that if both openers don't consistently perform, it could significantly impact the team's performance, despite their playoff run last season.",
@@ -79,33 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/jos-buttlers-form-is-pedestrian-ex-india-cricketer-sounds-alarm-on-gujarat-titans-top-order/articleshow/129592745.cms",
     "time": "2026-03-16T01:00:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Singers' and 'Two People Exchanging Saliva' TIE; fans react",
-    "desc": "A surprising tie at the 98th Academy Awards saw 'The Singers' and 'Two People Exchanging Saliva' share the Best Live Action Short Film Oscar, leaving many viewers stunned. This rare occurrence, allowed by Academy rules for identical vote counts, echoes historical ties, including a famous 1969 Best Actress split. The unexpected win adds to the Oscars' memorable moments.",
-    "img": "https://static.toiimg.com/photo/msid-129598238,imgsize-94078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-singers-and-two-people-exchanging-saliva-tie-for-best-live-action-short-film-netizens-ask-since-when-can-you-tie-an-oscar/articleshow/129598187.cms",
-    "time": "2026-03-16T00:55:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ustaad Bhagat Singh' advance booking cross 200K USD",
-    "desc": "Pawan Kalyan's 'Ustaad Bhagat Singh' is creating buzz with advance bookings exceeding $200,000 in North America. The action-comedy, a remake of 'Theri', releases on March 19, coinciding with Ugadi. Andhra Pradesh government permits early morning benefit shows, with tickets priced at Rs 500. Early overseas screenings have drawn praise for Pawan Kalyan's entry.",
-    "img": "https://static.toiimg.com/photo/msid-129598295,imgsize-210806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/pawan-kalyans-ustaad-bhagat-singh-advance-booking-north-america-pre-sales-cross-200k-usd/articleshow/129598295.cms",
-    "time": "2026-03-16T00:45:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How much is Host Conan O’Brien getting paid?",
-    "desc": "While many envision the Oscars as a glittering affair filled with luxury, the financial reality for hosts tells a different story. Conan O’Brien is set to return in 2026, earning a modest five-figure paycheck similar to Jimmy Kimmel’s $15,000. Wanda Sykes humorously pointed out that the hosting fee might end up costing her more than she earns.",
-    "img": "https://static.toiimg.com/photo/msid-129598275,imgsize-68242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-oscars-2026-paycheck-host-conan-obriens-academy-awards-salary-explained/articleshow/129598275.cms",
-    "time": "2026-03-16T00:42:00.000Z"
   },
   {
     "cat": "Sports",
@@ -117,51 +306,6 @@ const newsData_en = [
     "time": "2026-03-16T00:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Domhnall Gleeson credits Taylor Swift at the 2026 Oscars red carpet",
-    "desc": "Domhnall Gleeson expressed his delight at starring in Taylor Swift's \"Opalite\" music video, a dream he never anticipated. The \"Retirement Plan\" nominee, who pitched the quirky concept himself, described the experience as a nostalgic \"school project for adults.\" The collaboration, featuring a star-studded Irish cast, became a surprise career highlight for Gleeson.",
-    "img": "https://static.toiimg.com/photo/msid-129598201,imgsize-739177.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/domnhall-gleeson-credits-taylor-swift-for-surprise-career-highlight-opens-up-about-viral-opalite-video-at-2026-oscars/articleshow/129598202.cms",
-    "time": "2026-03-16T00:24:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Kerala Story 2' box office Day 17: Film crosses Rs 47 cr",
-    "desc": "Goes Beyond' is still making waves at the box office, garnering Rs 47.78 crore as it nears the end of its third week. While it trails behind the financial triumph of the previous film, its compelling narrative featuring three women questing for liberation amid familial opposition resonates powerfully with audiences. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129598131,imgsize-67506.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-17-the-ulka-gupta-and-aditi-bhatia-starrer-crosses-rs-47-crore/articleshow/129598131.cms",
-    "time": "2026-03-16T00:22:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ahaana Krishna's wedding confirmed by father",
-    "desc": "Ahaana Krishna's father, Krishna Kumar, revealed his daughter's wedding plans, confirming her relationship with cinematographer Nimish Ravi. Kumar shared the families' long-standing comfort and familiarity, highlighting his 35-year friendship with Nimish's father. He also praised Nimish's humble growth in the film industry, suggesting a wedding announcement could be imminent.",
-    "img": "https://static.toiimg.com/photo/msid-129598169,imgsize-136328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/ahaana-krishnas-wedding-father-krishna-kumar-says-she-sent-me-a-message-saying-that-she-is-getting-married/articleshow/129598169.cms",
-    "time": "2026-03-16T00:21:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka and Nick turn Oscars into date night",
-    "desc": "Priyanka Chopra and Nick Jonas graced the 98th Academy Awards red carpet, with Priyanka stunning in a white Dior gown and Nick in a classic velvet suit. Nick also honored his Indian roots by wearing a Kalava.",
-    "img": "https://static.toiimg.com/photo/msid-129597941,imgsize-80430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-and-nick-jonas-turn-oscars-into-date-night-actress-stuns-in-white-gown-with-thigh-high-slit-pics/articleshow/129597935.cms",
-    "time": "2026-03-16T00:12:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Thaai Kizhavi' BO day 18: Film crosses Rs 58 crores",
-    "desc": "Radikaa Sarathkumar's 'Thaai Kizhavi' is a box office success, grossing over Rs 58 crore worldwide in its third week. The rural entertainer, directed by debutant Sivakumar Murugesan, skillfully blends comedy and drama, with critics praising its entertaining narrative and well-defined characters. The film's strong performance highlights its appeal to a wide audience.",
-    "img": "https://static.toiimg.com/photo/msid-129598054,imgsize-86884.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-box-office-collections-day-18-radikaa-sarathkumars-film-crosses-rs-58-crore-gross-worldwide/articleshow/129598054.cms",
-    "time": "2026-03-16T00:01:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'The goal is to win the IPL trophy': Vaibhav Sooryavanshi targets Rajasthan Royals glory",
     "desc": "U-19 sensation Vaibhav Sooryavanshi, already an IPL centurion at 14, is laser-focused on winning the IPL trophy for Rajasthan Royals. Having led India to U-19 World Cup glory, the young batter aims to contribute significantly to RR's success. He cherishes reuniting with U-19 teammates and credits early learning from seniors and Rahul Dravid for his development.",
@@ -171,15 +315,6 @@ const newsData_en = [
     "time": "2026-03-16T00:00:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'KPop Demon Hunters' wins for Best Animated Film",
-    "desc": "K-Pop Demon Hunters, Netflix's animated hit, clinched the Best Animated Feature Oscar, marking a significant win for Korean-Canadian director Maggie Kang. This genre-bending tale of a K-pop group moonlighting as demon hunters has captivated audiences and critics alike, following earlier wins at the Golden Globes and Critics Choice Awards.",
-    "img": "https://static.toiimg.com/photo/msid-129598013,imgsize-150322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/oscar-awards-kpop-demon-hunters-wins-academy-award-for-best-animated-film/articleshow/129597948.cms",
-    "time": "2026-03-15T23:49:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Bhai isko abhi delete kar de': Shivam Dube’s off-guard reaction to camera goes viral",
     "desc": "India's star all-rounder Shivam Dube charmed fans with a playful interaction with paparazzi outside his Mumbai home. Captured on video, Dube, fresh off a T20 World Cup victory, humorously asked a photographer to delete footage. His significant contributions to India's 2026 triumph, including 235 runs at a 169.06 strike rate, have cemented his status as a key player.",
@@ -187,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/bhai-isko-abhi-delete-kar-de-shivam-dubes-off-guard-reaction-to-camera-goes-viral-watch/articleshow/129590022.cms",
     "time": "2026-03-15T23:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nick spotted wearing a Kalava",
-    "desc": "Nick Jonas, affectionately known as 'Jiju' by fans, preempted any Oscar night concerns by humorously explaining his need for water due to the Los Angeles heat. He also subtly honored his wife Priyanka Chopra's heritage by wearing a Kalava, a sacred red and yellow thread, delighting Desi fans who praised his adherence to Indian customs on this significant occasion.",
-    "img": "https://static.toiimg.com/photo/msid-129597838,imgsize-129928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/oscars-2026-nick-jonas-spotted-wearing-a-kalava-on-his-wrist-as-he-supports-wife-priyanka-chopra-set-to-presenter-for-awards-show/articleshow/129597799.cms",
-    "time": "2026-03-15T23:13:38.000Z"
   },
   {
     "cat": "Politics",
@@ -216,22 +342,13 @@ const newsData_en = [
     "time": "2026-03-15T21:56:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyanka opts for white look again",
-    "desc": "Priyanka Chopra is set to present at the Oscars 2026, offering fans a glimpse of her last-minute preparations. The actress teased a stunning white Dior gown, a color she's favored at past ceremonies. Her team meticulously worked on her look, with hair and makeup artists also racing against time. Chopra joins a star-studded list of presenters for the prestigious event.",
-    "img": "https://static.toiimg.com/photo/msid-129595710,imgsize-105810.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/oscars-2026-priyanka-chopra-teases-white-look-ahead-of-red-carpet-appearance/articleshow/129595707.cms",
-    "time": "2026-03-15T21:23:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "After Arijit, Shreya says 'I also feel like taking a break'",
-    "desc": "After Arijit Singh’s decision to step away from playback singing sparked discussion among fans, Shreya Ghoshal has shared her thoughts on the singer’s move and the importance of authenticity in live performances. The singer stressed that lip-syncing on stage is something she would never want to rely on. She also described Arijit as someone deeply connected to music.",
-    "img": "https://static.toiimg.com/photo/msid-129595626,imgsize-86560.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-arijit-singh-shreya-ghoshal-says-i-also-feel-like-taking-a-break-i-will-stop-singing-the-day-i-have-to-lip-sync/articleshow/129595626.cms",
-    "time": "2026-03-15T20:44:25.000Z"
+    "cat": "Politics",
+    "title": "It’s ironic welfare schemes implemented in T.N. are portrayed as fiscally irresponsible: Thangam Thennarasu",
+    "desc": "Our aim has always been an inclusive growth. Economists and development experts have recognised that direct transfer of benefits reduces leakages, provides autonomy to beneficiaries in deciding how best to utilise the support, and stimulates local and rural economies, he says",
+    "img": "https://th-i.thgim.com/public/incoming/xt8dh5/article70746987.ece/alternates/LANDSCAPE_1200/TN%20GOVERNOR%20FOREIGN%20INVESTMENT%20THANGAM%20THENNARASU%20FINANCE_02.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/its-ironic-welfare-schemes-implemented-in-tn-are-portrayed-as-fiscally-irresponsible-thangam-thennarasu/article70746460.ece",
+    "time": "2026-03-15T19:26:41.000Z"
   },
   {
     "cat": "Politics",
@@ -360,15 +477,6 @@ const newsData_en = [
     "time": "2026-03-15T14:25:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kanaka Durga temple gears up for Ugadi Vasantha Navaratri from March 19",
-    "desc": "Sri Durga Malleswara Swamyvarla Devasthanam to organise Pushparchanas, Vedic rituals and Vendi Radhotsavam from March 19 to 28, coinciding with Ugadi and Sri Rama Navami; special seva tickets priced at ₹2,500 per couple for darshan and prasadam",
-    "img": "https://th-i.thgim.com/public/incoming/dbam72/article70746858.ece/alternates/LANDSCAPE_1200/10215_15_3_2026_19_27_22_2_DSC_5468.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/kanaka-durga-temple-gears-up-for-ugadi-vasantha-navaratri-from-march-19/article70746712.ece",
-    "time": "2026-03-15T14:05:08.000Z"
-  },
-  {
     "cat": "Business",
     "title": "DGCA temporarily eases pilot duty norms for Air India long-haul flights amid airspace curbs",
     "desc": "Air India's long-haul flights face extended duty times due to Middle East airspace restrictions. The DGCA has granted temporary relaxations, extending flight duty limits by over an hour. However, allegations suggest Air India may have exceeded these new allowances on a Jeddah flight, highlighting the ongoing impact of regional conflict on aviation.",
@@ -397,33 +505,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "No change to Guwahati games despite Assam polls, says BCCI’s Devajit Saikia",
-    "desc": "IPL 2026 matches in Guwahati will proceed as scheduled despite Assam's April 9 elections. BCCI secretary Devajit Saikia confirmed discussions with state officials, who assured full cooperation for the Rajasthan Royals' games. The Election Commission's announcement places matches around the polling date, but authorities are prepared to manage the logistics without any rescheduling.",
-    "img": "https://static.toiimg.com/photo/msid-129590123,imgsize-235518.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/no-change-to-guwahati-games-despite-assam-polls-says-bccis-devajit-saikia/articleshow/129590143.cms",
-    "time": "2026-03-15T13:04:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Celebrating India’s sharpshooters",
-    "desc": "The Times of India Sports Awards (TOISA) 2025 will honour India's top athletes in Lucknow on March 21, 2026. The event recognises performances from 2025, with a distinguished jury selecting winners across over 45 categories. The shooting nominees showcase exceptional talent, with several athletes achieving global success.",
-    "img": "https://static.toiimg.com/photo/msid-129589921,imgsize-49242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/toisa-2025-shooting-nominees-celebrating-indias-sharpshooters-who-excelled-on-the-global-stage/articleshow/129589859.cms",
-    "time": "2026-03-15T12:47:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Celebrating India’s standout performers on the pitch",
-    "desc": "The Times of India Sports Awards (TOISA) 2025 will honour India's top athletes on March 21, 2026, in Lucknow. The event recognises performances from 2025, with a distinguished jury selecting winners across numerous categories. Hockey nominees include Abhishek Nain, Harmanpreet Singh, Jugraj Singh, Amit Rohidas, Udita Duhan, Navneet Kaur, Mumtaz Khan, and Rutuja Pisal for their significant contributions.",
-    "img": "https://static.toiimg.com/photo/msid-129589651,imgsize-60956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/toisa-2025-hockey-nominees-celebrating-indias-standout-performers-on-the-pitch/articleshow/129589587.cms",
-    "time": "2026-03-15T12:25:12.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "No Hitman! Virat Kohli picks Chris Gayle over Rohit Sharma as best T20 opener",
     "desc": "Virat Kohli, in a recent 'This or That' challenge, named Chris Gayle as his top T20 opener over Rohit Sharma. Kohli's selections progressed through Adam Gilchrist, Travis Head, and Virender Sehwag before reaching the final showdown. Gayle's prolific T20 record, including the highest individual IPL score, solidifies his legendary status in the format.",
     "img": "https://static.toiimg.com/photo/msid-129589456,imgsize-1216635.cms",
@@ -439,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-war-crude-prices-to-steer-dalal-street-this-week-fed-inflation-data-also-in-focus/articleshow/129588339.cms",
     "time": "2026-03-15T10:51:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "2017 Champions Trophy-winning captain Sarfaraz Ahmed retires from all forms of cricket",
-    "desc": "Former Pakistan captain Sarfaraz Ahmed has announced his retirement from all formats of cricket. The wicketkeeper-batter, who led Pakistan to major ICC tournament final victories, will now focus on administrative and mentoring roles. His retirement opens the door for a potential long-term appointment as the national Test team's head coach.",
-    "img": "https://static.toiimg.com/photo/msid-129587968,imgsize-47484.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/2017-champions-trophy-winning-captain-sarfaraz-ahmed-retires-from-all-forms-of-cricket/articleshow/129587961.cms",
-    "time": "2026-03-15T10:24:28.000Z"
   },
   {
     "cat": "Business",
@@ -468,15 +540,6 @@ const newsData_en = [
     "time": "2026-03-15T10:03:09.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Babar Azam don't have a voice': Ex-Pakistan batter cites Virat Kohli example in T20 World Cup rant",
-    "desc": "Former Pakistan batter Basit Ali criticized the decision to bat Babar Azam at No.4 during the T20 World Cup, suggesting he should have opposed the move like Virat Kohli. However, Kamran Akmal disagreed, stating players rarely challenge management, especially when out of form.",
-    "img": "https://static.toiimg.com/photo/msid-129587451,imgsize-977529.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-dont-have-a-voice-former-pakistan-batter-cites-virat-kohli-example-in-t20-world-cup-rant/articleshow/129587354.cms",
-    "time": "2026-03-15T09:49:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Middle East conflict forces Indian exporters to reroute shipments, absorb higher costs",
     "desc": "Indian exporters are navigating Middle East conflict fallout, facing rising freight, insurance, and transit times. Businesses are adapting by adjusting inventory and contracts, while shipping lines reroute vessels around Africa, adding significant delays and costs. The government is exploring support measures, including airlifting perishables and alternative port options.",
@@ -495,15 +558,6 @@ const newsData_en = [
     "time": "2026-03-15T08:55:31.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Foreign investors pull out Rs 52,704 crore in a fortnight as Middle East conflict rattles markets",
-    "desc": "Foreign investors aggressively sold Indian stocks in early March, withdrawing over Rs 52,000 crore due to West Asian tensions, a weakening rupee, and rising oil prices. This follows a brief inflow in February, with analysts citing geopolitical risks and better prospects in other Asian markets. Despite outflows, opportunities arise for domestic investors.",
-    "img": "https://static.toiimg.com/photo/msid-129586718,imgsize-26600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/fpi-profile-foreign-investors-pull-out-rs-52704-crore-in-a-fortnight-as-middle-east-conflict-rattles-markets/articleshow/129586325.cms",
-    "time": "2026-03-15T08:24:14.000Z"
-  },
-  {
     "cat": "World",
     "title": "Mojtaba Khamenei",
     "desc": "A wounded man who lost his parents and wife, and was elected the ‘Supreme Leader’ of a nation under attack from the world’s most powerful country and its closest ally, the ayatollah now faces a rare crisis his predecessors never confronted — to survive the storm and preserve the republic",
@@ -520,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/china-may-face-closer-scrutiny-in-us-forced-labour-probe-gtri/article70745889.ece",
     "time": "2026-03-15T07:53:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Mcap of top-10 firms erodes Rs 4.48 lakh crore; SBI, HDFC Bank see sharpest fall",
-    "desc": "Indian markets witnessed a sharp sell-off last week, with the top 10 companies losing a staggering Rs 4.48 lakh crore. Rising crude oil prices and escalating global tensions fueled inflation fears, impacting major firms like SBI and HDFC Bank the most. Despite the downturn, Reliance Industries retained its top valuation spot.",
-    "img": "https://static.toiimg.com/photo/msid-129586219,imgsize-61874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/market-recap-mcap-of-top-10-firms-tumbles-by-rs-4-48-lakh-cr-state-bank-hdfc-bank-biggest-laggards/articleshow/129586195.cms",
-    "time": "2026-03-15T07:25:28.000Z"
   },
   {
     "cat": "Sports",
@@ -567,15 +612,6 @@ const newsData_en = [
     "time": "2026-03-15T06:11:24.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Trump’s forced labour probe: China faces closest scrutiny; what does it mean for India?",
-    "desc": "India's solar panel, electronics, and garment exports face heightened US scrutiny following a new trade probe into forced labor in global supply chains. The investigation, covering 60 economies including India, examines goods made with forced labor or using inputs from such sources. This could impact Indian exporters reliant on Chinese components, demanding stricter documentation and compliance.",
-    "img": "https://static.toiimg.com/photo/msid-129585575,imgsize-2492835.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/trumps-forced-labour-probe-china-faces-closest-scrutiny-what-does-it-mean-for-india/articleshow/129585373.cms",
-    "time": "2026-03-15T06:10:16.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. identifies six service members killed in plane crash over Iraq",
     "desc": "The airmen were on a KC-135 aerial refuelling ‌tanker supporting U.S. attacks on Iran. The crash ‌involved another aircraft, but was ‌not ⁠the result of ⁠hostile or friendly fire and is under investigation, the military has said",
@@ -583,24 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-identifies-six-service-members-killed-in-plane-crash-over-iraq/article70745820.ece",
     "time": "2026-03-15T06:02:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Laxman-Dravid magic and his 'out-of-the-box' spell",
-    "desc": "Twenty-five years on, Sachin Tendulkar revisits India's iconic 2001 Eden Gardens Test win against Australia. He recalls the team's belief after a Mumbai defeat, the magic of Laxman and Dravid's partnership, and his own surprise bowling spell that broke Australia's resistance. This victory significantly boosted India's confidence and remains a career highlight.",
-    "img": "https://static.toiimg.com/photo/msid-129585335,imgsize-257650.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sachin-tendulkar-on-eden-2001-steve-waughs-mighty-aussies-laxman-dravid-magic-and-his-out-of-the-box-spell/articleshow/129585317.cms",
-    "time": "2026-03-15T05:49:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How will Americans pay for the Iran war as oil prices soar",
-    "desc": "Global oil markets are on edge as the Strait of Hormuz, a vital shipping lane, faces closure due to ongoing conflict. Analysts warn of soaring fuel prices, potentially reaching $150 a barrel, impacting transportation costs and leading to higher prices for consumers. This instability could also pressure the US economy, increasing inflation and recession risks.",
-    "img": "https://static.toiimg.com/photo/msid-129584797,imgsize-96154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/middle-east-crisis-how-will-americans-pay-for-the-iran-war-as-oil-prices-soar/articleshow/129584195.cms",
-    "time": "2026-03-15T04:45:31.000Z"
   },
   {
     "cat": "World",
@@ -612,15 +630,6 @@ const newsData_en = [
     "time": "2026-03-15T04:16:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Air India cancels, IndiGo reschedules flights after UAE restricts ops",
-    "desc": "Air India and IndiGo are experiencing significant flight disruptions to the UAE due to operational restrictions stemming from the West Asia crisis. Both airlines have cancelled multiple flights and are offering rebooking or refunds to affected passengers. These changes coincide with rising aviation fuel prices, leading airlines to implement fuel surcharges..",
-    "img": "https://static.toiimg.com/photo/msid-129584495,imgsize-30480.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/dubai-air-travel-disruptions-air-india-cancels-indigo-reschedules-flights-after-uae-restricts-operations/articleshow/129584467.cms",
-    "time": "2026-03-15T03:54:55.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "On ‘Muthu Engira Kaattaan’ and his secret to staying fit at 60",
     "desc": "Actor Milind Soman speaks about returning to Tamil film industry with the web-series ‘Muthu Engira Kaattaan’, working with Vijay Sethupathi and filmmaker M Manikandan, and why consistency is the secret to staying fit at 60",
@@ -630,15 +639,6 @@ const newsData_en = [
     "time": "2026-03-15T03:28:05.000Z"
   },
   {
-    "cat": "Business",
-    "title": "‘More than adequate stocks’: Govt assures no fertiliser shortage amid Middle East crisis",
-    "desc": "Amidst Middle East crisis concerns, India assures stable fertiliser supply for the upcoming Kharif season. Government data reveals urea stocks are higher than last year, with DAP and NPK reserves also significantly boosted. Domestic production is expected to exceed consumption, and global tenders have been issued to ensure uninterrupted shipments.",
-    "img": "https://static.toiimg.com/photo/msid-129584239,imgsize-264674.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/more-than-adequate-stocks-government-assures-no-fertiliser-shortage-amid-middle-east-crisis-concerns/articleshow/129584166.cms",
-    "time": "2026-03-15T03:09:38.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Exploring the history and evolution of escalators",
     "desc": "Escalators are one of those places where adults might wish to indulge their inner child and move in the opposite direction, if only society didn’t expect them to act their age. It should perhaps come as no surprise therefore that one of the first escalators ever built actually served as a ride in an amusement park! A.S.Ganesh takes you up and down with this story about escalators…",
@@ -646,24 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/moving-up-and-down-while-standing-still/article70706988.ece",
     "time": "2026-03-15T02:52:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Best tools, smart money hacks to beat rising cost of living in emirates",
-    "desc": "UAE residents are embracing new ways to save money amidst rising living costs. Digital budgeting apps, automated savings tools and smart banking platforms are becoming essential. These technologies help track spending and build savings efficiently. Deal and rewards apps also offer savings opportunities. Financial discipline remains key to long-term financial health.",
-    "img": "https://static.toiimg.com/photo/msid-129580873,imgsize-44110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-savings-strategies-2026-explained-best-apps-tools-budget-rules-and-smart-money-hacks-to-beat-rising-cost-of-living-in-emirates/articleshow/129580188.cms",
-    "time": "2026-03-14T19:51:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why Gulf countries are invoking it amid Iran vs US-Israel war",
-    "desc": "Middle East conflict triggers force majeure declarations from Gulf energy producers like Qatar, Bahrain and Kuwait. Attacks and shipping disruptions in the Strait of Hormuz have halted oil and gas exports, causing global price spikes and supply chain concerns amid Iran vs US-Israel war. This legal clause highlights the immediate economic impact of geopolitical instability on energy markets.",
-    "img": "https://static.toiimg.com/photo/msid-129580620,imgsize-30134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/force-majeure-explained-why-gulf-countries-are-invoking-it-amid-iran-vs-us-israel-war/articleshow/129580267.cms",
-    "time": "2026-03-14T19:21:11.000Z"
   },
   {
     "cat": "Sports",
@@ -718,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/south-koreas-pm-trump-discuss-possible-talks-with-norths-kim-jong-un/article70741295.ece",
     "time": "2026-03-14T03:02:33.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "BRICS should play a role in supporting global security, says Iran’s FM Araghchi, calls for condemnation of U.S.-Israeli strikes",
-    "desc": "Iran FM speaks to Jaishankar for the 4th time since War began, discusses situation; request from Tehran for a BRICS statement to ‘condemn the military aggression against Iran’ could prove awkward for India as it has thus far not criticised the U.S.-Israel strikes",
-    "img": "https://th-i.thgim.com/public/incoming/4ldn2u/article70738778.ece/alternates/LANDSCAPE_1200/jaishankar%20copy.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/eam-jaishankar-irans-araghchi-hold-4th-phone-call-since-start-of-west-asian-conflict/article70738752.ece",
-    "time": "2026-03-13T19:50:50.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/lessons-from-indias-c-dot-saga-for-technology-development/article70726867.ece",
     "time": "2026-03-11T07:03:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sivaji Ganesan’s gift of baby elephant to American children and his U.S. visit as state guest",
+    "desc": "Sivaji Ganesan was invited to the United States as part of the U.S.–India Cultural Exchange Programme. During the trip, Sivaji was treated as a state guest, assigned two officials to assist him, and given a daily allowance of $160, a considerable sum at the time.",
+    "img": "https://th-i.thgim.com/public/incoming/3tl29a/article70728264.ece/alternates/LANDSCAPE_1200/HP120884.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/sivaji-ganesan-gift-of-baby-elephant-to-american-children-and-his-us-visit-as-state-guest-in-1962/article70728245.ece",
+    "time": "2026-03-11T07:02:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka Mohan on how filming ‘Made In Korea’ was an experience to cherish",
+    "desc": "Ahead of the release of Netflix’s cross-cultural project ‘Made in Korea’, we speak to Priyanka Arul Mohan and director Ra Karthik about filming in Seoul, working with a Korean cast and crew, and how the film felt like a journey of discovery",
+    "img": "https://th-i.thgim.com/public/life-and-style/k2jnfj/article70726606.ece/alternates/LANDSCAPE_1200/MadeInKorea_Netflix_343A3229_6593.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/priyanka-mohan-on-how-filming-made-in-korea-was-an-experience-to-cherish/article70726397.ece",
+    "time": "2026-03-11T06:47:35.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Criticism, satire of PM, UGC regulations target of government takedowns on X, Instagram",
+    "desc": "The most up-to-date takedown stats from Meta show that the Instagram and Facebook parent took down three times as much content in response to government orders in January–June 2025 than in the same period in 2023",
+    "img": "https://th-i.thgim.com/public/incoming/jzjtu8/article70727515.ece/alternates/LANDSCAPE_1200/2025-12-09T031523Z_863589627_RC2QCIAR4COP_RTRMADP_3_AUSTRALIA-SOCIALMEDIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/criticism-satire-of-pm-ugc-regulations-target-of-government-takedowns-on-x-instagram/article70727083.ece",
+    "time": "2026-03-11T02:35:23.000Z"
   }
 ];
