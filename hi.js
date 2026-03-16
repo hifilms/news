@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'No one cares about you': Liam Livingstone tears into McCullum and England management after being dropped",
+    "desc": "Liam Livingstone has made scathing claims about the England environment under head coach Brendon McCullum and managing director Rob Key. He is set to feature in the upcoming edition of the Indian Premier League (IPL)...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/no-one-cares-about-you-liam-livingstone-tears-into-mccullum-and-england-management-after-being-dropped-2026-03-16-1033979",
+    "time": "2026-03-16T17:24:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harbhajan Singh believes Mumbai Indians will bench either De Kock or Rickelton in IPL 2026",
+    "desc": "The 19th edition of the Indian Premier League (IPL) and all teams are gearing up for their respective opening games of the season. Even the former cricketers and experts are busy analysing every team now...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harbhajan-singh-believes-mumbai-indians-will-bench-either-de-kock-or-rickelton-in-ipl-2026-2026-03-16-1033976",
+    "time": "2026-03-16T16:52:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Fire alarm creates chaos during cricket match in Australia, play stopped for 25 minutes in Sheffield Shield",
     "desc": "The third day's play of the Tasmania vs New South Wales match in the Sheffield Shield was interrupted due to a fire alarm on Monday. The play had to be stopped for nearly half an...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/bruno-fernandes-breaks-manchester-united-s-assists-record-with-stellar-showing-against-aston-villa-2026-03-16-1033918",
     "time": "2026-03-16T06:55:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nahid Rana loses temper, abuses Pakistan batter after dismissing him in third ODI",
-    "desc": "The third and final ODI of the series between Pakistan and Bangladesh saw the two sides lock horns at the Shere Bangla National Stadium in Mirpur. The clash saw Bangladesh register an emphatic victory, defeating...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nahid-rana-loses-temper-abuses-pakistan-batter-after-dismissing-him-in-third-odi-watch-2026-03-16-1033910",
-    "time": "2026-03-16T05:32:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan lodges official complaint against Bangladesh over controversial review in third ODI",
-    "desc": "Bangladesh registered an emphatic victory over Pakistan in the third ODI, clinching the series between the two sides. The two sides locked horns at the Shere Bangla National Stadium in Mirpur, and while Bangladesh managed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-lodges-official-complaint-against-bangladesh-over-controversial-review-in-third-odi-2026-03-16-1033904",
-    "time": "2026-03-16T04:53:14.000Z"
   }
 ];

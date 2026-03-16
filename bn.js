@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "৫৪,০০০ টন LPG নিয়ে ভারতে পৌঁছাল শিবালিক: বিধিনিষেধও শিথিল কেন্দ্রের, মাসে কটি সিলিন্ডার এখন?",
+    "desc": "সোমবার নতুন নির্দেশিকায় এলপিজি ডিস্ট্রিবিউটরদের বলা হয়েছে কোনও প্রতিষ্ঠান এক মাসে মোট যতটা বাণিজ্যিক এলপিজি নেয়, তার ২০ শতাংশ তাকে ডেলিভারি দিতে হবে। অর্থাৎ আপনার যদি মাসে ১০০টি ১৯ কেজি বাণিজ্যিক সিলিন্ডার চাহিদা থাকে, তাহলে আপনি সিলিন্ডার পাবেন...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/lpg-tanker-shivalik-arrives-at-the-gujarat-mundra-port-crossing-hormuz-strait_645103.html ",
+    "time": "2026-03-16T17:22:40.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "অনলাইনে কোনও লিঙ্ক-এ ক্লিক করার আগে সাবধান, বীরভূমের বাসিন্দাদের সঙ্গে যা হয়েছে...",
     "desc": "কাররা জালিয়াতির নতুন নতুন পথ অবলম্বন করেছে সাধারণ মানুষের টাকা ব্যাংক থেকে হাতিয়ে নেওয়ার। শুধু তাই নয়, মোবাইলের নিয়ন্ত্রণও চলে যাচ্ছে সাইবার প্রতারকদের হাতে। ঠিক তেমন বীরভূমের মুরারইয়ে একদিনে বেশ কয়েকজনের সঙ্গে এমন ঘটনা ঘটেছে।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/eam-jaishankar-briefs-parliament-on-west-asia-conflict-rmj-ws-l-2575572.html",
     "time": "2026-03-09T08:08:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "গালে চুম্বন, জয়ের রাতে মাঠেই গলা জড়িয়ে আদর! ‘আমার স্ত্রী পাশে না থাকলে,’ প্রেমিকা মাহিকাকে নিয়ে সাহসী ‘ঘোষণা’ হার্দিকের",
-    "desc": "ভারতের তিন তারকা ব্যাটারের হাতে শেষ কিউয়ি বোলিং। অভিষেক শর্মা ২১ বলে ৫২, ৪৬ বলে ৮৯ রান সঞ্জু স্যামসনের, ২৫ বলে ৫৪ রান ঈশান কিষাণের। তিন ব্যাটারের তাণ্ডবের সামনে অসহায় দেখাচ্ছিল লকি ফার্গুসন, ম্যাট হেনরিদের। ভারতের রান শেষ হয় ২৫৫-তে। ৫ উইকেটে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Hardik-pandya-5-2026-03-7598df13be7f37baea46dac88e4eb60c-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/icc-t-20-world-cup-2026-final-2026-hardik-pandya-girlfriend-mahika-sharma-was-present-after-the-match-sta-2575450.html",
-    "time": "2026-03-09T05:35:39.000Z"
   }
 ];

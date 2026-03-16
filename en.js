@@ -1,6 +1,150 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Naval ships escort Indian vessels from Gulf of Oman",
+    "desc": "Three warships escort Shivalik, Nanda Devi, and Jag Laadki; naval protection for Indian ships to continue; warships operating under Operation Sankalp, a mission aimed at safeguarding merchant shipping and protecting India’s maritime interests in the Gulf region",
+    "img": "https://th-i.thgim.com/public/incoming/qo8mry/article70751374.ece/alternates/LANDSCAPE_1200/2026-03-16T132217Z_1679008328_RC2M5KANAIIS_RTRMADP_3_IRAN-CRISIS-INDIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/naval-ships-escort-indian-vessels-from-gulf-of-oman/article70750900.ece",
+    "time": "2026-03-16T18:44:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold",
+    "desc": "BJP national president Nitin Nabin and Bihar CM Nitish Kumar romp home as NDA secures all five Rajya Sabha seats in Bihar; the party also secures victory of three candidates in Odisha; BJP and the Congress file separate plaints in Haryana",
+    "img": "https://th-i.thgim.com/public/incoming/2exzbo/article70751483.ece/alternates/LANDSCAPE_1200/20260316661L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
+    "time": "2026-03-16T18:43:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vivek recalls reunion with kids, shares life in UAE amid conflict",
+    "desc": "Actor and entrepreneur Vivek Oberoi has opened up about life in the United Arab Emirates amid concerns triggered by the ongoing Iran–Israel conflict. In a new interview, the actor spoke about the situation in Dubai, where he runs multiple business ventures.",
+    "img": "https://static.toiimg.com/photo/msid-129616897,imgsize-55136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vivek-oberoi-recalls-emotional-reunion-with-his-children-in-dubai-shares-life-in-uae-amid-iranisrael-conflict-we-are-growing/articleshow/129616897.cms",
+    "time": "2026-03-16T18:28:48.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran, at UN, insists will not submit to ‘lawless aggression’",
+    "desc": "\"The most urgent and fundamental human rights issue concerning Iran is the imminent threat to the lives of 90 million people whose lives are in immediate and grave danger under the shadow of reckless military aggression,\" said Ali Bahreini, Iran's ambassador to the UN in Geneva.",
+    "img": "https://th-i.thgim.com/public/incoming/fyujux/article70751461.ece/alternates/LANDSCAPE_1200/2026-03-16T102608Z_1335308936_RC2L5KA7JK22_RTRMADP_3_IRAN-CRISIS-UN-RIGHTS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-at-un-insists-will-not-submit-to-lawless-aggression/article70751204.ece",
+    "time": "2026-03-16T18:13:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hardeep Puri’s daughter moves Delhi HC to remove content linking her to Jeffrey Epstein",
+    "desc": "In her lawsuit seeking ₹10 crore in damages, Himayani Puri has also called for an order to restrain several entities from disseminating defamatory content; it is likely to be heard in the HC next week",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/hardeep-puris-daughter-moves-delhi-hc-to-remove-content-linking-her-to-jeffrey-epstein/article70750474.ece",
+    "time": "2026-03-16T18:03:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Consensus reached to revoke suspension of eight Opposition MPs",
+    "desc": "Sources say parties agree that members will not cross over into the Well of the House to confront those on the other side, throw papers at the Speaker’s podium or protest at the desk of the secretary general.",
+    "img": "https://th-i.thgim.com/public/incoming/k1y109/article70751263.ece/alternates/LANDSCAPE_1200/20260310143L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/consensus-reached-to-revoke-suspension-of-eight-opposition-mps/article70750797.ece",
+    "time": "2026-03-16T17:48:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NDA dominates poll round, sweeps Bihar and bags three in Odisha; Haryana result put on hold",
+    "desc": "The NDA has significantly bolstered its Rajya Sabha presence, securing all five seats in Bihar and three of four in Odisha. Haryana's results are pending due to a vote secrecy controversy involving Congress MLAs. This round of elections saw the NDA win eight of eleven contested seats, strengthening its position in the Upper House.",
+    "img": "https://static.toiimg.com/photo/msid-129616180,imgsize-184646.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rajya-sabha-elections-results-nda-dominates-poll-round-sweeps-bihar-and-bags-three-in-odisha-haryana-result-put-on-hold/articleshow/129616083.cms",
+    "time": "2026-03-16T17:48:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK sign former KKR coach ahead of IPL 2026",
+    "desc": "James Foster, previously with KKR, has been appointed fielding coach of Chennai Super Kings ahead of the Indian Premier League 2026. The former England national cricket team wicketkeeper joins the coaching staff led by Stephen Fleming alongside Michael Hussey and Eric Simmons. Foster brings international and franchise coaching experience, including a recent International League T20 title with Desert Vipers.",
+    "img": "https://static.toiimg.com/photo/msid-129616013,imgsize-145904.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-sign-former-kkr-coach-ahead-of-ipl-2026/articleshow/129615808.cms",
+    "time": "2026-03-16T17:41:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Rekha Gupta",
+    "desc": "Delhi government has approved a proposal to include transgender passengers in its free bus travel scheme, the 'Saheli Pink' card. This initiative aims to ensure safe and convenient travel for the transgender community, reflecting a commitment to social inclusion and equal access to public services. Women and transgenders with Aadhaar cards in Delhi are eligible for these cards.",
+    "img": "https://static.toiimg.com/photo/msid-129615916,imgsize-1486140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhdelhi-govt-approves-free-bus-travel-for-transgender-passengers-cm-rekha-guptai-govt-approves-free-bus-travel-for-transgender-passengers-cm-rekha-gupta/articleshow/129615882.cms",
+    "time": "2026-03-16T17:30:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why are thousands signing up for the Times Internet Delhi Half Marathon?",
+    "desc": "For most people, the finish line defines a marathon. But for runners, the real achievement begins much earlier, in the quiet weeks of preparation that lead to race day. With the Times Internet Delhi Half Marathon set for March 29, the final weeks before the event are when many people decide whether to take the leap and sign up. Because in distance running, the most important step is rarely the last one, it’s the decision to start.",
+    "img": "https://static.toiimg.com/photo/msid-129615843,imgsize-696050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/why-are-thousands-signing-up-for-the-times-internet-delhi-half-marathon/articleshow/129615701.cms",
+    "time": "2026-03-16T17:28:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Neena spoke about not having any grudge against Viv or any ex-boyfriend",
+    "desc": "Neena Gupta addressed pregnancy rumors at 66, attributing her appearance to a thick saree. The actress also reflected on her past, including her relationship with Viv Richards and her decision to raise their child as a single mother. Gupta emphasized her belief in moving on from past relationships without resentment, stating she doesn't hate her ex-partners.",
+    "img": "https://static.toiimg.com/photo/msid-129615581,imgsize-27284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-neena-gupta-spoke-about-not-having-any-grudges-towards-viv-richards-or-any-of-her-ex-boyfriends-toh-main-bacha-use-paida-karungi-kyun/articleshow/129615570.cms",
+    "time": "2026-03-16T17:17:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "EU, UN discussing Black Sea type initiative for Strait of Hormuz: Kaja Kallas",
+    "desc": "U.S. President Donald Trump had called on NATO allies and other countries to assist in forcibly opening the Strait of Hormuz, telling the Financial Times on March 15, that it would be “very bad” for the future of NATO if allies did not help the U.S. in opening the passage.",
+    "img": "https://th-i.thgim.com/public/incoming/mseybg/article70749764.ece/alternates/LANDSCAPE_1200/2026-03-16T075406Z_1638231164_RC2J5KAS31VO_RTRMADP_3_IRAN-CRISIS-EU.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/eu-un-discussing-black-sea-type-initiative-for-strait-of-hormuz-kaja-kallas/article70749513.ece",
+    "time": "2026-03-16T17:13:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Navnindra Behl passes away at 76; son Kanu Behl pens note",
+    "desc": "Veteran actress Navnindra Behl, known for her roles in Ishqbaaaz and the film Queen, has passed away at the age of 76. Her death was confirmed by her son, filmmaker Kanu Behl, who shared an emotional tribute on social media while remembering her profound influence on his life.",
+    "img": "https://static.toiimg.com/photo/msid-129615340,imgsize-60876.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ishqbaaaz-and-queen-actress-navnindra-behl-passes-away-at-76-son-kanu-behl-pens-emotional-note-my-eyes-shall-always-seek-that-irrepressible-smile/articleshow/129615340.cms",
+    "time": "2026-03-16T17:10:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Hard to argue': Ponting reveals ‘overlooked’ factor in India’s T20 WC success",
+    "desc": "Ricky Ponting hailed the India national cricket team as one of the strongest T20 sides after their triumph in the ICC Men's T20 World Cup 2026, where they beat the New Zealand national cricket team by 96 runs at Narendra Modi Stadium. Ponting credited India’s depth, experience and Indian Premier League exposure for their dominance in white-ball cricket and back-to-back titles.",
+    "img": "https://static.toiimg.com/photo/msid-129615274,imgsize-67976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/hard-to-argue-ricky-ponting-reveals-overlooked-factor-in-indias-t20-world-cup-success/articleshow/129614894.cms",
+    "time": "2026-03-16T17:04:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nora-Sanjay’s Sarke Chunar faces backlash for 'vulgar' lyrics",
+    "desc": "The Devil, featuring Nora Fatehi and Sanjay Dutt, has sparked widespread debate online. While some viewers praised Nora’s energetic dance performance, a large section of social media users criticised the song’s lyrics and choreography, calling them vulgar and inappropriate.",
+    "img": "https://static.toiimg.com/photo/msid-129614746,imgsize-99774.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/nora-fatehi-and-sanjay-dutts-sarke-chunar-teri-sarke-from-kd-the-devil-faces-backlash-for-cheap-and-vulgar-lyrics-armaan-malik-calls-it-a-new-low/articleshow/129614746.cms",
+    "time": "2026-03-16T16:42:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England all-rounder blasts McCullum, reveals 'an eye-opening experience'",
+    "desc": "Liam Livingstone criticised England management, including coach Brendon McCullum and director Rob Key, for poor communication after he was dropped in 2025. The all-rounder said the experience was “eye-opening” and expressed frustration over his role and batting position. Now with Sunrisers Hyderabad for the Indian Premier League 2026, he hopes strong performances revive his England chances.",
+    "img": "https://static.toiimg.com/photo/msid-129614478,imgsize-89920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-all-rounder-blasts-brendon-mccullum-reveals-an-eye-opening-experience/articleshow/129614088.cms",
+    "time": "2026-03-16T16:28:57.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Pension issue of aided educational institutions’ staff  will be referred to committee: Madhu Bangarappa",
     "desc": "BJP member S.V. Sankanur urged the government to consider pension benefits for employees of aided educational institutions who were appointed prior to 2006 and later brought under the grant-in-aid system, as well as those appointed after 2006.",
     "img": "https://th-i.thgim.com/public/incoming/wtcaxj/article70751051.ece/alternates/LANDSCAPE_1200/council%202.JPEG",
@@ -109,15 +253,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "LDF seeks third term, UDF readies to end 10-year drought; BJP a bystander",
-    "desc": "A good outing in the 2025 local body polls has energised the UDF that seeks to deny the LDF a hattrick in Kerala; amid welfare promises, the West Asia war may dominate political discourse; the BJP hopes to make a mark, having won a Lok Sabha seat and the Thiruvananthapuram corporation",
-    "img": "https://th-i.thgim.com/public/incoming/qxfqgf/article70750724.ece/alternates/LANDSCAPE_1200/Election06.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/ldf-seeks-third-term-udf-readies-to-end-10-year-drought-bjp-a-bystander/article70749515.ece",
-    "time": "2026-03-16T15:14:39.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "TDP accuses YSRCP of ‘legal terrorism’ to stall investments in Andhra Pradesh",
     "desc": "Party spokesman Neelayapalem Vijay Kumar alleges that the Opposition is obstructing projects such as the proposed Google data centre in Visakhapatnam, hampering the State’s efforts to compete with regional IT hubs such as Hyderabad and Bengaluru",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -128,7 +263,7 @@ const newsData_en = [
   {
     "cat": "Sports",
     "title": "Ishan Kishan likely to lead SRH",
-    "desc": "Ishan Kishan is the leading candidate to captain Sunrisers Hyderabad in the Indian Premier League 2026 if Pat Cummins is unavailable at the start. Kishan enters the season in strong form after scoring 354 runs in IPL 2025 and 317 runs for the India national cricket team in the ICC Men's T20 World Cup 2026, where he helped India win the title.",
+    "desc": "Ishan Kishan is the leading candidate to captain Sunrisers Hyderabad in the Indian Premier League 2026 if Pat Cummins is unavailable at the start. Kishan enters the season in strong form after scoring 354 runs in IPL 2025 and 317 runs for the India national cricket team in the ICC Men's T20 World Cup 2026, where he helped India win the title. Abhishek Sharma will be Ishan's deputy.",
     "img": "https://static.toiimg.com/photo/msid-129613107,imgsize-35424.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-ishan-kishan-likely-to-lead-srh/articleshow/129613093.cms",
@@ -190,21 +325,21 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "BJP releases first list of 47 candidates for Assembly polls",
-    "desc": "Key candidates include State president Rajeev Chandrasekhar in Nemom, Union Minister George Kurian from from Kanjirappally and former Union Minister V. Muraleedharan in Kazhakuttom. With plans to boost its vote share following recent local successes, the BJP is gearing up for a significant electoral challenge in the State.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/bjp-releases-first-list-of-47-candidates-for-assembly-polls/article70750423.ece",
-    "time": "2026-03-16T14:23:18.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'Distorted picture of India': MEA slams US report recommending sanctions on RSS, R&amp;AW",
     "desc": "India has strongly rejected the US Commission on International Religious Freedom's 2026 report, calling it biased and distorted. The MEA spokesperson criticized the commission's reliance on questionable sources and ideological narratives, urging it to address religious freedom issues within the US. India maintains its commitment to religious harmony.",
     "img": "https://static.toiimg.com/photo/msid-129612250,imgsize-887998.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/distorted-picture-of-india-mea-slams-us-report-recommending-sanctions-on-rss-raw/articleshow/129612176.cms",
     "time": "2026-03-16T14:21:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "KJo broke into tears when a troll commented he's depriving his kids of a mother",
+    "desc": "Filmmaker Karan Johar candidly discussed the emotional toll of online criticism regarding his single parenthood. A comment questioning his decision to deny his children a mother deeply affected him, leading to tears. However, his children's affirmation of their happiness with him as 'Dada' reassured him, reinforcing his commitment to his family.",
+    "img": "https://static.toiimg.com/photo/msid-129611572,imgsize-37066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-broke-into-tears-when-a-troll-commented-hes-denied-his-children-a-mother-it-made-me-question-/articleshow/129611587.cms",
+    "time": "2026-03-16T13:42:53.000Z"
   },
   {
     "cat": "Business",
@@ -333,15 +468,6 @@ const newsData_en = [
     "time": "2026-03-16T12:04:40.000Z"
   },
   {
-    "cat": "World",
-    "title": "EU, UN discussing Black Sea type initiative for Strait of Hormuz: Kaja Kallas",
-    "desc": "U.S. President Donald Trump had called on NATO allies and other countries to assist in forcibly opening the Strait of Hormuz, telling the Financial Times on March 15, that it would be “very bad” for the future of NATO if allies did not help the U.S. in opening the passage.",
-    "img": "https://th-i.thgim.com/public/incoming/mseybg/article70749764.ece/alternates/LANDSCAPE_1200/2026-03-16T075406Z_1638231164_RC2J5KAS31VO_RTRMADP_3_IRAN-CRISIS-EU.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/eu-un-discussing-black-sea-type-initiative-for-strait-of-hormuz-kaja-kallas/article70749513.ece",
-    "time": "2026-03-16T11:43:11.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "BJP releases candidates for 144 seats in 1st list, fields Suvendu Adhikari in Mamata's Bhabanipur",
     "desc": "The BJP has unveiled its initial candidate list for 144 West Bengal assembly seats, featuring prominent figures like Suvendu Adhikari, who will contest from Bhabanipur and Nandigram, challenging Chief Minister Mamata Banerjee. Dilip Ghosh is set to run from Kharagpur Sadar. These announcements precede the two-phase elections scheduled for April 23 and 29, with vote counting on May 4.",
@@ -349,24 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-2026-bjp-releases-candidates-for-144-seats-in-1st-list-fields-suvendu-adhikari-in-mamatas-bhabanipur/articleshow/129608686.cms",
     "time": "2026-03-16T11:35:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Naga Chaitanya credits Sobhita Dhulipala for his success",
-    "desc": "Naga Chaitanya credits wife Sobhita Dhulipala for his recent success, calling her a lucky charm after winning Best Actor for 'Thandel'. He highlighted the film's personal significance, being his first release post-wedding. Chaitanya emphasized how domestic harmony fuels his professional achievements, with both he and Dhulipala sharing a deep passion for cinema.",
-    "img": "https://static.toiimg.com/photo/msid-129608493,imgsize-159438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/naga-chaitanya-credits-sobhita-dhulipala-for-his-success-calls-her-his-lucky-charm/articleshow/129608493.cms",
-    "time": "2026-03-16T11:28:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mohanlal gets emotional at Blessy’s son’s wedding",
-    "desc": "Veteran actor Mohanlal expressed deep emotion at filmmaker Blessy's son's wedding, stating it felt like his own son's ceremony. He highlighted their enduring friendship, forged during Blessy's early career. Their past collaborations on acclaimed films like 'Thanmathra' and 'Bhramaram' were also fondly recalled, underscoring their significant impact on Malayalam cinema.",
-    "img": "https://static.toiimg.com/photo/msid-129608177,imgsize-145964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlal-gets-emotional-at-blessys-sons-wedding-feels-like-my-own-sons-wedding/articleshow/129608177.cms",
-    "time": "2026-03-16T11:15:40.000Z"
   },
   {
     "cat": "Politics",
@@ -396,15 +504,6 @@ const newsData_en = [
     "time": "2026-03-16T11:09:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ashwiny Iyer Tiwari reveals dream project is worth Rs 1000 crore",
-    "desc": "Director Ashwiny Iyer Tiwari expressed her dream cast for a big-budget film, including Deepika Padukone, Alia Bhatt, and Sai Pallavi. She also advocated for gender equality in directing large-scale projects, emphasizing the crucial role of studio support and her interest in exploring the action genre.",
-    "img": "https://static.toiimg.com/photo/msid-129608013,imgsize-26336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ashwiny-iyer-tiwari-reveals-dream-project-is-worth-rs-1000-crore-wants-deepika-padukone-alia-bhatt-sai-pallavi-together/articleshow/129607991.cms",
-    "time": "2026-03-16T11:08:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'In the name of surgery': Afridi blasts Pak selectors for dropping Babar &amp; Co.",
     "desc": "Shahid Afridi criticised Pakistan’s selectors after the Pakistan national cricket team lost the ODI series 2–1 to the Bangladesh national cricket team following a poor ICC Men's T20 World Cup 2026 campaign. Afridi blamed excessive experimentation and sidelining experienced players. Bangladesh secured the series with an 11-run win at Sher-e-Bangla National Cricket Stadium despite Salman Ali Agha’s century for Pakistan.",
@@ -430,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/no-gas-no-problem-ready-made-meals-and-frozen-foods-take-over-indian-homes/articleshow/129605664.cms",
     "time": "2026-03-16T10:06:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Targeted for being Hardeep Puri's daughter': Minister's kin files defamation plea in Delhi HC over Epstein posts",
-    "desc": "Union Minister Hardeep Singh Puri's daughter has filed a plea in the Delhi High Court, seeking legal action against individuals and online platforms. She alleges defamatory content linking her to Jeffrey Epstein is being circulated, causing significant damage to her reputation. The petition requests an injunction against further publication, removal of existing material, and compensation for damages.",
-    "img": "https://static.toiimg.com/photo/msid-129606488,imgsize-80016.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/targeted-for-being-hardeep-puris-daughter-ministers-kin-files-defamation-plea-in-delhi-hc-over-epstein-posts/articleshow/129606508.cms",
-    "time": "2026-03-16T10:04:17.000Z"
   },
   {
     "cat": "Business",
@@ -477,15 +567,6 @@ const newsData_en = [
     "time": "2026-03-16T09:29:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "EC orders major bureaucratic reshuffle in Bengal; chief secretary, DGP, Kolkata CP replaced ahead of Assembly polls",
-    "desc": "The Election Commission has initiated a significant reshuffle of top administrative and police officials in West Bengal shortly after announcing the election schedule. Key positions including Chief Secretary, DGP, and Kolkata Police Commissioner have been changed, citing the EC's constitutional powers to ensure free and fair polls. These transfers, while standard practice, have drawn criticism from the Trinamool Congress.",
-    "img": "https://static.toiimg.com/photo/msid-129605246,imgsize-943890.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ec-orders-major-bureaucratic-reshuffle-in-bengal-chief-secretary-dgp-kolkata-cp-replaced-ahead-of-assembly-polls/articleshow/129605185.cms",
-    "time": "2026-03-16T09:05:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Trade deficit for February widens to $3.96 billion: India’s exports climb 11%, imports surge 21%",
     "desc": "India's exports reached $76.13 billion in February 2026, showing strong growth. Imports rose even faster, leading to a wider trade deficit. For the fiscal year, exports are on track for growth. The country previously set a record in exports for the 2024-25 fiscal year. Challenges like the West Asia crisis may impact March exports.",
@@ -493,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/trade-deficit-for-february-widens-to-3-96-billion-indias-exports-climb-11-imports-surge-21/articleshow/129604688.cms",
     "time": "2026-03-16T08:47:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Did PM Modi know about US-Israel's Iran strike plan? What Israeli envoy said",
-    "desc": "Israel's envoy, Reuven Azar, clarified that the military operation against Iran was timed post-PM Modi's visit to seize an \"operational opportunity.\" He emphasized Israel's anticipation of Iranian retaliation and its commitment to neutralizing nuclear and missile threats, while also debunking disinformation about PM Netanyahu. Israel aims to prevent the Iranian regime from reconstituting its plans.",
-    "img": "https://static.toiimg.com/photo/msid-129604886,imgsize-995527.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/did-pm-modi-know-about-us-israels-iran-strike-plan-what-israeli-envoy-said/articleshow/129604779.cms",
-    "time": "2026-03-16T08:45:51.000Z"
   },
   {
     "cat": "Entertainment",
@@ -549,15 +621,6 @@ const newsData_en = [
     "time": "2026-03-16T07:41:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "EC removes DGP, Kolkata CP and other top bureaucrats a day after poll schedule announcement",
-    "desc": "The Election Commission ordered the transfer of top bureaucrats in West Bengal, including the Chief Secretary and Principal Secretary of Home and Hill Affairs, citing preparedness for upcoming assembly elections. This move led to a walkout by TMC MPs from the Rajya Sabha, who accused the EC of misusing its powers against the elected government.",
-    "img": "https://static.toiimg.com/photo/msid-129603365,imgsize-1144487.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/major-reshuffle-in-bengal-ec-removes-dgp-kolkata-cp-and-other-top-bureaucrats-a-day-after-poll-schedule-announcement/articleshow/129603219.cms",
-    "time": "2026-03-16T07:29:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Gold price today (March 16, 2026): How much 18K, 22K and 24K gold cost in your city; check rates for Delhi, Mumbai &amp; more",
     "desc": "Gold futures experienced a significant drop of Rs 2,225 to Rs 1.56 lakh per 10 grams, influenced by a stronger US dollar and weaker international markets. Analysts attribute the decline to rising energy prices and diminished expectations for Federal Reserve interest rate cuts, impacting investor sentiment and leading to outflows from gold-backed ETFs.",
@@ -565,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-march-16-2026-how-much-18k-22k-and-24k-gold-cost-in-your-city-check-rates-for-delhi-mumbai-more/articleshow/129602744.cms",
     "time": "2026-03-16T07:21:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How India is stepping up engagement with Iran as Hormuz crisis deepens",
-    "desc": "India is prioritizing diplomatic engagement with Iran to ensure safe passage through the Strait of Hormuz, offering a stark contrast to the US military approach. New Delhi's direct talks have already yielded results, with Indian tankers resuming transit. This strategy aims to secure India's crucial energy imports while carefully managing its relationship with the United States.",
-    "img": "https://static.toiimg.com/photo/msid-129603190,imgsize-1119680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-balancing-act-how-india-is-stepping-up-engagement-with-iran-as-hormuz-crisis-deepens/articleshow/129601438.cms",
-    "time": "2026-03-16T07:19:28.000Z"
   },
   {
     "cat": "Sports",
@@ -630,15 +684,6 @@ const newsData_en = [
     "time": "2026-03-16T05:59:08.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Our forever begins now’: Kuldeep shares first post after wedding with Vanshika",
-    "desc": "Indian spinner Kuldeep Yadav tied the knot with childhood friend Vanshika Chaddha in a star-studded Mussoorie wedding. The private ceremony saw cricketers like Suresh Raina and Yuzvendra Chahal in attendance. The couple, who grew up near each other in Kanpur, celebrated with traditional functions before the main event. This marks a new chapter for the cricketer.",
-    "img": "https://static.toiimg.com/photo/msid-129601266,imgsize-59544.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/our-forever-begins-now-kuldeep-yadav-shares-heartfelt-post-after-wedding-with-vanshika-chaddha/articleshow/129601252.cms",
-    "time": "2026-03-16T05:36:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "‘I have the absolute right to charge tariffs in another form’: Trump slams Supreme Court ruling",
     "desc": "President Trump criticized the Supreme Court's decision to invalidate his global tariffs, warning of trillions in losses and vowing to impose them in new forms. He thanked three justices for their stance while also criticizing Republican appointees for perceived disrespect and politicized rulings. The administration is exploring alternative legal avenues to recover lost tariff revenue.",
@@ -646,24 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/i-have-the-absolute-right-to-charge-tariffs-in-another-form-trump-slams-supreme-court-ruling/articleshow/129601033.cms",
     "time": "2026-03-16T05:22:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Will you steal ICC trophies now?’ Akmal blasts Pakistan after series loss to Bangladesh",
-    "desc": "Pakistan's cricket woes deepened with a 2-1 ODI series loss to Bangladesh, drawing sharp criticism from former wicketkeeper Kamran Akmal. Akmal questioned the team's performance and administration, highlighting their struggles after an early T20 World Cup exit. Bangladesh secured the series win in Dhaka after a strong batting performance and effective bowling.",
-    "img": "https://static.toiimg.com/photo/msid-129600897,imgsize-129670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/will-you-steal-icc-trophies-now-kamran-akmal-blasts-pakistan-after-odi-series-loss-to-bangladesh/articleshow/129600764.cms",
-    "time": "2026-03-16T05:10:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I’ll hit it’: Samson reveals Sooryavanshi’s fearless chat with Dravid before IPL debut",
-    "desc": "Rajasthan Royals' young sensation Vaibhav Sooryavanshi surprised coach Rahul Dravid with his fearless approach before his IPL debut. Samson revealed Sooryavanshi's confident response to Dravid's queries, stating he'd 'just play' and 'hit the first ball in the air' if in his zone. Sooryavanshi, the youngest IPL debutant, aims to help RR win the trophy in IPL 2026.",
-    "img": "https://static.toiimg.com/photo/msid-129600708,imgsize-63912.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/if-i-get-the-first-ball-ill-hit-it-sanju-samson-reveals-vaibhav-sooryavanshis-fearless-chat-with-rahul-dravid-before-ipl-debut/articleshow/129600687.cms",
-    "time": "2026-03-16T04:58:29.000Z"
   },
   {
     "cat": "Business",
@@ -855,15 +882,6 @@ const newsData_en = [
     "time": "2026-03-13T18:30:15.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.K. Defence Minister suggests Putin’s ‘hidden hand’ behind Iran tactics",
-    "desc": "He told reporters that officials were analysing an Iranian-made drone that hit the U.K.’s Akrotiri air force base in Cyprus on March 1 “for any evidence of Russian or any other foreign components and parts”",
-    "img": "https://th-i.thgim.com/public/incoming/pw6q2d/article70740785.ece/alternates/LANDSCAPE_1200/Britain_Healey_12300.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/uk-defence-minister-suggests-putins-hidden-hand-behind-iran-tactics/article70740689.ece",
-    "time": "2026-03-13T16:25:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India’s oil and gas strategy amid U.S.-Iran tensions",
     "desc": "India’s crude basket has jumped to $120 per barrel – an increase that will affect petrol and diesel prices, as well as domestic gas prices, which are linked to 10% of the Indian crude basket; higher fuel prices transmit inflationary and macro-economic pressures via higher cost of transport etc.",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/karnataka-government-constitutes-committee-on-responsible-ai/article70735241.ece",
     "time": "2026-03-13T03:48:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bumrah — the pace king and the master of the slower one",
-    "desc": "It’s impossible to imagine what it must be like to carry so many expectations every time he has the ball in his hand; to his credit, he has managed to distance himself from the ‘outside noise’, retain his focus and concentrate on what is in his control",
-    "img": "https://th-i.thgim.com/public/sport/1929zy/article70736597.ece/alternates/LANDSCAPE_1200/BUMRAH%20%203443.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/bumrah-the-pace-king-and-the-master-of-the-slower-one/article70736504.ece",
-    "time": "2026-03-12T18:06:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Marijne wants the Indian players to be more precise with finishing",
-    "desc": "The head coach reserves special praise for Navneet, who scored a hat-trick against Wales, but is quick to emphasise that the performance was a collective effort; the Dutchman credits former junior team coach Wonink for making his task easier",
-    "img": "https://th-i.thgim.com/public/incoming/uhaimd/article70736159.ece/alternates/LANDSCAPE_1200/vjkvg-india%2016.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/marijne-wants-the-indian-players-to-be-more-precise-with-finishing/article70736166.ece",
-    "time": "2026-03-12T16:15:48.000Z"
   }
 ];

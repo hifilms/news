@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ઈરાન-ઈઝરાયેલ યુદ્ધ વચ્ચે ચર્ચામાં આવ્યું 130 વર્ષ જૂનું હિન્દુ મંદિર, જાણો ગુજરાત સાથે શું છે કનેક્શન?",
+    "desc": "ઈરાનમાં હિન્દુઓની સંખ્યા ઘણી ઓછી છે, પરંતુ હોર્મુઝ પાસે આવેલા બંદર અબ્બાસમાં ભગવાન વિષ્ણુને સમર્પિત લગભગ 130 વર્ષ જૂનું એક હિન્દુ મંદિર આવેલું છે. એવું કહેવાય છે કે, આ મંદિરનું નિર્માણ બ્રિટિશ ઈસ્ટ ઈન્ડિયા કંપનીમાં કામ કરતા ભારતીયો દ્વારા કરવામાં આવ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-israel-us-war-130-year-old-hindu-temple-came-into-the-spotlight-know-what-is-its-connection-with-gujarat-468894 ",
+    "time": "2026-03-16T18:02:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "1 એપ્રિલથી બદલાશે આવકવેરાના નિયમો, જાણો તમારા પગાર અને ટેક્સ પર શું થશે અસર",
+    "desc": "1 એપ્રિલ 2026થી દેશમાં ઈનકમ ટેક્સ સાથે જોડાયેલા નવા નિયમો લાગુ થવા જઈ રહ્યા છે. સરકારે ઇન્કમ ટેક્સ રૂલ્સ, 2026નો ડ્રાફ્ટ જાહેર કર્યો છે, જે જૂના ઇન્કમ ટેક્સ એક્ટ, 1961ના સ્થાને નવા ઇન્કમ ટેક્સ એક્ટ 2025ને સપોર્ટ કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/income-tax-rules-will-change-from-april-1-know-what-will-be-the-impact-on-your-salary-and-taxes-468880 ",
+    "time": "2026-03-16T17:31:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ભારતે જપ્ત કર્યા ઇરાનના ત્રણ ટેન્કર ? હોર્મુઝ સંકટ વચ્ચે ઈરાને ભારત સામે મુકી આ શરતો ? જાણો",
+    "desc": "ઈરાને ભારત દ્વારા જપ્ત કરાયેલા ત્રણ ટેન્કરોને મુક્ત કરવાની માંગ કરી છે, જેના બદલામાં ભારતીય ધ્વજવાળા અથવા ભારત જતા જહાજોને હોર્મુઝની સ્ટ્રેટમાંથી સુરક્ષિત પસાર થવાની મંજૂરી આપવામાં આવે. ખાનગી પોર્ટનલના અહેવાલ મુજબ, તેહરાને આ મુદ્દા પર ભારત સાથેની વાતચીતમાં આ શરત મૂકી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/india-seized-three-iranian-tankers-amidst-the-hormuz-crisis-iran-put-these-conditions-before-india-know-468873 ",
+    "time": "2026-03-16T16:25:42.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "રાહનો આવ્યો અંત ! કિંમત છે 10 લાખથી ઓછી, કાલે ભારતમાં લોન્ચ થવા જઈ રહી છે મોસ્ટ અવેટેડ કાર, ફીચર્સ હશે ખાસ",
     "desc": "આ નવી કાર ત્રણ એન્જિન ઓપ્શન સાથે ઓફર કરવામાં આવશે, જેમાં બે ટર્બો પેટ્રોલ એન્જિન અને એક મજબૂત હાઇબ્રિડ એન્જિનનો સમાવેશ થાય છે. કાર કાલે ભારતમાં લોન્ચ થવા જઈ રહી છે, ભારતમાં તેના જુના મોડલનું ખુબ વેચાણ થયું છે અને લોકોમાં તે લોકપ્રિય પણ છે.",
@@ -565,24 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/major-threat-for-older-iphone-users-apple-issues-emergency-update-468351 ",
     "time": "2026-03-13T04:49:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કેન્દ્રીય કર્મચારીઓને મોજે દરિયા! 8મા પગાર પંચમાં દર વર્ષે 6% ઇન્ક્રિમેન્ટ... DAનું બદલાશે કેલ્ક્યુલેશન?",
-    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ માટે બનેલા ઓલ ઇન્ડિયા ડિફેન્સ એમ્પ્લોઇઝ ફેડરેશન (AIDEF) દ્વારા 8મા કેન્દ્રીય પગાર પંચને અનેક મહત્વના સૂચનો આપવામાં આવ્યા છે. કર્મચારી સંગઠને પંચના અધ્યક્ષ જસ્ટિસ રંજના પ્રકાશ દેસાઈને મોકલેલા પત્રમાં કુલ 17 માંગણીઓ રજૂ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-central-govt-employees-salary-hike-da-calculation-demands-468314 ",
-    "time": "2026-03-12T16:53:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "મોતનો બદલો લઈશું, સ્ટ્રેટ ઓફ હોર્મુઝ બંધ જ રહેશે... ઈરાનના નવા સુપ્રીમ લીડર મોજતબાનો પહેલો સંદેશ",
-    "desc": "ઈરાનના નવા સુપ્રીમ લીડર મોજતબા ખામેનેઈએ પદ સંભાળ્યા બાદ પોતાના પહેલા સંબોધનમાં અમેરિકા અને ઇઝરાયલને એક કડક સંદેશ આપ્યો છે. તેમણે સ્પષ્ટ કહ્યું કે, ઈરાન તેમના શહીદો અને ખાસ કરીને યુદ્ધમાં મૃત્યુ પામેલા બાળકોનોનો બદલો જરૂર લેશે અને આ ક્ષેત્રમાં તેમના દુશ્મનોના સૈન્ય ઠેકાણાને નિશાન બનાવવાનું ચાલુ રાખશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/first-statement-from-iran-new-supreme-leader-mojtaba-khamenei-strait-of-hormuz-will-remain-closed-468309 ",
-    "time": "2026-03-12T14:18:00.000Z"
   },
   {
     "cat": "Tech",
