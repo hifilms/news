@@ -1,6 +1,177 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Election Commission removes Chief Secretary, Home Secretary in poll-bound West Bengal",
+    "desc": "Kolkata Police Commissioner, DGP West Bengal, and ADG Law and Order have also been transferred; ECI said its directions are to be implemented with immediate effect and asked for a report of the joining of the two officers in their respective offices by 3 p.m. on March 16",
+    "img": "https://th-i.thgim.com/public/incoming/i3qoau/article70652390.ece/alternates/LANDSCAPE_1200/Election-CommisG41F776D7.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/election-commission-removes-chief-secretary-home-secretary-in-poll-bound-west-bengal/article70748767.ece",
+    "time": "2026-03-16T07:02:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Women who made history at Oscars 2026",
+    "desc": "The Oscars 2026 delivered a night of historic wins, including Autumn Durald Arkapaw becoming the first woman to clinch Best Cinematography. 'Kpop Demon Hunters' shone, with its song 'Golden' marking the first K-pop track to win an Academy Award. A rare tie occurred in Best Live Action Short, and Amy Madigan finally secured her first Oscar after a 40-year wait.",
+    "img": "https://static.toiimg.com/photo/msid-129602391,imgsize-111298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-historic-wins-autumn-durald-arkapaw-and-amy-madigan-k-pop-demon-hunters-shatter-records/articleshow/129602391.cms",
+    "time": "2026-03-16T06:41:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I want to break that’: Vaibhav Sooryavanshi targets Chris Gayle’s iconic IPL record",
+    "desc": "Teen sensation Vaibhav Sooryavanshi aims to shatter Chris Gayle's iconic 175-run T20 record in the upcoming IPL season. After a stellar 2025, including a U-19 World Cup final century, the Rajasthan Royals star is focused on team victory while eyeing individual milestones. He credits the franchise and Rahul Dravid for his rapid development.",
+    "img": "https://static.toiimg.com/photo/msid-129602296,imgsize-122554.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/i-want-to-break-that-vaibhav-sooryavanshi-targets-chris-gayles-iconic-ipl-record/articleshow/129602278.cms",
+    "time": "2026-03-16T06:34:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 candid moments from the 2026 Oscars",
+    "desc": "Amidst the glamour of the 2026 Oscars, heartfelt moments revealed the true essence of Hollywood. Jacob Elordi swayed to the rhythms of live music alongside his mom, while Ryan Coogler reveled in the joy of a screenplay accolade. Backstage, laughter echoed between Pedro Pascal and Sigourney Weaver, creating a bond beyond the spotlight.",
+    "img": "https://static.toiimg.com/photo/msid-129602253,imgsize-97958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/top-5-candid-moments-from-the-2026-oscars-that-we-did-not-see-on-the-live-broadcast/articleshow/129602253.cms",
+    "time": "2026-03-16T06:33:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "China urges Trump to 'immediately correct erroneous' trade practices",
+    "desc": "China has lodged formal objections with the US over new trade investigations into forced labor and excess industrial capacity, urging Washington to correct its \"erroneous ways.\" The probes, targeting 60 economies including China, come as trade negotiators meet in Paris. Beijing criticizes the investigations as \"political manipulation\" and \"discriminatory,\" while the US cites concerns over forced labor in Xinjiang.",
+    "img": "https://static.toiimg.com/photo/msid-129602091,imgsize-58670.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-forced-labour-probe-china-urges-trump-to-immediately-correct-erroneous-trade-practices/articleshow/129602007.cms",
+    "time": "2026-03-16T06:26:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajpal Yadav shares how he stays strong amid legal battle",
+    "desc": "As Rajpal Yadav marks his 55th birthday, he reflects on a personal philosophy that champions daily renewal, a strategy to bolster emotional resilience in the face of adversity. Amidst recent challenges, including a stint in jail over a financial dispute, the beloved actor is undeterred, pouring his energy into upcoming film projects. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129602038,imgsize-101362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-turns-55-bhooth-bangla-actor-shares-how-he-stays-strong-amid-legal-battle-says-every-day-is-a-new-day/articleshow/129602038.cms",
+    "time": "2026-03-16T06:23:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why India must electrify its kitchens at scale",
+    "desc": "An IEEFA study from October 2025 found that electric cooking is 37% cheaper than non-subsidised LPG and 14% cheaper than piped natural gas for a family of four in Delhi — without any electricity subsidy",
+    "img": "https://th-i.thgim.com/public/news/national/y2gy52/article70748854.ece/alternates/LANDSCAPE_1200/iStock-844385510.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/opinion/op-ed/plugging-in-why-india-must-electrify-its-kitchens-at-scale/article70748711.ece",
+    "time": "2026-03-16T06:12:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Where is Nifty headed this week amid US-Iran war? Check sectors in focus",
+    "desc": "Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities shares his view on Nifty, Bank Nifty and top sectors in focus amid the ongoing Middle East conflict and US-Iran war. Here is his view for the week starting March 16, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-129601882,imgsize-87746.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-sectors-stocks-in-focus-this-week-march-16-to-march-20-nifty-bank-nifty-outlook/articleshow/129601780.cms",
+    "time": "2026-03-16T06:11:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Pakistan becoming an associate team’: Shehzad slams Afridi, management",
+    "desc": "Ahmed Shehzad, a former Pakistan cricketer, has strongly criticized the team's leadership following their ODI series defeat to Bangladesh. He expressed concerns about the declining standards in Pakistan cricket. Shehzad questioned the management's decisions and their handling of player availability. The team's recent performance has drawn significant criticism.",
+    "img": "https://static.toiimg.com/photo/msid-129601742,imgsize-118048.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-becoming-an-associate-team-ahmed-shehzad-slams-shaheen-afridi-team-management-after-bangladesh-series-defeat/articleshow/129601763.cms",
+    "time": "2026-03-16T06:07:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump demands others help secure Strait of Hormuz, Japan and Australia say no plans to send ships",
+    "desc": "“I think China should help too because China gets 90% of its oil from the Straits,” Donald Trump said. “We may delay,” he said in reference to his visit if China did not ⁠offer support in the Gulf.",
+    "img": "https://th-i.thgim.com/public/incoming/4k3mdr/article70748835.ece/alternates/LANDSCAPE_1200/Trump_64121.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-demands-others-help-secure-strait-of-hormuz-japan-and-australia-say-no-plans-to-send-ships/article70748764.ece",
+    "time": "2026-03-16T06:02:02.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Nvidia to focus on competition-beating AI advances at megaconference",
+    "desc": "Nvidia GTC, as the conference is known, has become CEO Huang’s preferred event to show off ⁠Nvidia’s AI advances in chips, data centres, its chip programming software CUDA, digital assistants known as AI agents, and physical AI such as robots",
+    "img": "https://th-i.thgim.com/public/incoming/3ap0zg/article70748570.ece/alternates/LANDSCAPE_1200/2026-03-13T061907Z_994719350_RC2LEGAANDCC_RTRMADP_3_BYTEDANCE-NVIDIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/nvidia-to-focus-on-competition-beating-ai-advances-at-megaconference/article70748569.ece",
+    "time": "2026-03-16T05:59:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Light to moderate rain likely in Hyderabad on March 16, says IMD",
+    "desc": "“City is expected to experience a partly cloudy sky through the day. “Light to moderate rain or thundershowers accompanied by gusty winds are likely to occur in parts of the city towards the evening or night,” says IMD",
+    "img": "https://th-i.thgim.com/public/incoming/3pblbb/article70748831.ece/alternates/LANDSCAPE_1200/PTI02_23_2026_000340A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/light-to-moderate-rain-likely-in-hyderabad-on-march-16-says-imd/article70748624.ece",
+    "time": "2026-03-16T05:51:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The ruling party and the opposition must rise above partisanship",
+    "desc": "The Lok Sabha rejected by voice vote, on March 11, a resolution under Article 94(C) of the Constitution for the removal of Lok Sabha Speaker Om Birla from office, but only after a hostile debate on the functioning of the House deepened the wedge between the government and the Opposition.",
+    "img": "https://th-i.thgim.com/public/incoming/i8ukhr/article70748792.ece/alternates/LANDSCAPE_1200/editorial%20-%20parliament1.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-the-ruling-party-and-the-opposition-must-rise-above-partisanship-the-hindu-editorial/article70748789.ece",
+    "time": "2026-03-16T05:41:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "EJAE, Rei Ami, Audrey Nuna turn Oscars into KPop concert",
+    "desc": "The 98th Academy Awards witnessed an unexpected K-Pop spectacle as 'KPop Demon Hunters' trio EJAE, Rei Ami, and Audrey Nuna performed their hit 'Golden.' Hollywood stars like Leonardo DiCaprio and Steven Spielberg were seen enthusiastically waving lightsticks, transforming the Dolby Theatre into a vibrant concert atmosphere. The film also secured two major Oscar wins, marking a significant achievement.",
+    "img": "https://static.toiimg.com/photo/msid-129601126,imgsize-121848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ejae-rei-ami-audrey-nunas-golden-performance-turns-oscars-into-kpop-concert-leonardo-dicaprio-steven-spielberg-emma-stone-dance-with-lightsticks-watch/articleshow/129600703.cms",
+    "time": "2026-03-16T05:36:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Our forever begins now’: Kuldeep shares first post after wedding with Vanshika",
+    "desc": "Indian spinner Kuldeep Yadav tied the knot with childhood friend Vanshika Chaddha in a star-studded Mussoorie wedding. The private ceremony saw cricketers like Suresh Raina and Yuzvendra Chahal in attendance. The couple, who grew up near each other in Kanpur, celebrated with traditional functions before the main event. This marks a new chapter for the cricketer.",
+    "img": "https://static.toiimg.com/photo/msid-129601266,imgsize-59544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/our-forever-begins-now-kuldeep-yadav-shares-heartfelt-post-after-wedding-with-vanshika-chaddha/articleshow/129601252.cms",
+    "time": "2026-03-16T05:36:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘I have the absolute right to charge tariffs in another form’: Trump slams Supreme Court ruling",
+    "desc": "President Trump criticized the Supreme Court's decision to invalidate his global tariffs, warning of trillions in losses and vowing to impose them in new forms. He thanked three justices for their stance while also criticizing Republican appointees for perceived disrespect and politicized rulings. The administration is exploring alternative legal avenues to recover lost tariff revenue.",
+    "img": "https://static.toiimg.com/photo/msid-129601089,imgsize-62770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/i-have-the-absolute-right-to-charge-tariffs-in-another-form-trump-slams-supreme-court-ruling/articleshow/129601033.cms",
+    "time": "2026-03-16T05:22:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mick Jagger and Melanie Hamrick shine at Oscars after-party",
+    "desc": "Mick Jagger, 82, and his fiancée Melanie Hamrick, 38, radiated charm at the Vanity Fair Oscars Party 2026, showcasing their decade-long bond. The couple, who met in 2014, appeared comfortable and connected, with Hamrick emphasizing their contentment and Jagger referring to her ring as a promise ring.",
+    "img": "https://static.toiimg.com/photo/msid-129601021,imgsize-996608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mick-jagger-and-melanie-hamrick-radiate-romance-at-oscars-after-party-2026/articleshow/129601040.cms",
+    "time": "2026-03-16T05:17:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Shruti Haasan’s Rs 15 crore Mumbai duplex",
+    "desc": "Shruti Haasan's Rs 15 crore Mumbai duplex is a vibrant sanctuary blending music, art, and personal expression. The stylish loft features bold colours, eclectic décor, and polished concrete floors. From a mint-green kitchen to a music room filled with instruments and vinyl toys, her home reflects her creative spirit and love for art.",
+    "img": "https://static.toiimg.com/photo/msid-129600902,imgsize-111124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/inside-shruti-haasans-rs-15-crore-mumbai-duplex-a-look-at-her-artistic-loft-with-a-personal-music-corner/articleshow/129600902.cms",
+    "time": "2026-03-16T05:14:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Will you steal ICC trophies now?’ Akmal blasts Pakistan after series loss to Bangladesh",
+    "desc": "Pakistan's cricket woes deepened with a 2-1 ODI series loss to Bangladesh, drawing sharp criticism from former wicketkeeper Kamran Akmal. Akmal questioned the team's performance and administration, highlighting their struggles after an early T20 World Cup exit. Bangladesh secured the series win in Dhaka after a strong batting performance and effective bowling.",
+    "img": "https://static.toiimg.com/photo/msid-129600897,imgsize-129670.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/will-you-steal-icc-trophies-now-kamran-akmal-blasts-pakistan-after-odi-series-loss-to-bangladesh/articleshow/129600764.cms",
+    "time": "2026-03-16T05:10:05.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "No Eid celebrations for Shias in MP in the wake of Khamenei's death in the Iran-Iraq War",
     "desc": "\"Around 4,000 Shia families are living in Madhya Pradesh. We will not wear new clothes or celebrate Eid this year as we are saddened by Khamenei's death. We will only offer namaz,\" says All India Shia Samaj State president",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -16,6 +187,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-conan-obrien-and-alexandre-singh-take-a-jab-at-timothee-chalamet-for-ballet-opera-comment/articleshow/129600694.cms",
     "time": "2026-03-16T05:00:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I’ll hit it’: Samson reveals Sooryavanshi’s fearless chat with Dravid before IPL debut",
+    "desc": "Rajasthan Royals' young sensation Vaibhav Sooryavanshi surprised coach Rahul Dravid with his fearless approach before his IPL debut. Samson revealed Sooryavanshi's confident response to Dravid's queries, stating he'd 'just play' and 'hit the first ball in the air' if in his zone. Sooryavanshi, the youngest IPL debutant, aims to help RR win the trophy in IPL 2026.",
+    "img": "https://static.toiimg.com/photo/msid-129600708,imgsize-63912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/if-i-get-the-first-ball-ill-hit-it-sanju-samson-reveals-vaibhav-sooryavanshis-fearless-chat-with-rahul-dravid-before-ipl-debut/articleshow/129600687.cms",
+    "time": "2026-03-16T04:58:29.000Z"
   },
   {
     "cat": "Politics",
@@ -205,69 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/oscars-remember-indian-stars-dharmendra-manoj-kumar-b-saroja-devi-and-kota-srinivasa-rao-in-memorium-segment/articleshow/129599064.cms",
     "time": "2026-03-16T02:52:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay leaves Delhi HQ",
-    "desc": "Actor Vijay appeared before the CBI in Delhi for nearly seven hours regarding the 2025 Karur stampede, which claimed 41 lives. He had requested an extension and a venue change, both denied by the agency. The Supreme Court is monitoring the probe into the tragic incident during his party's rally. Vijay later greeted supporters outside the CBI headquarters.",
-    "img": "https://static.toiimg.com/photo/msid-129599179,imgsize-102680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karur-stampede-case-vijay-appears-before-central-bureau-of-investigation-leaves-delhi-hq-after-7-hour-questioning/articleshow/129599179.cms",
-    "time": "2026-03-16T02:48:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Conan O’Brien takes dig at Timothée Chalamet controversy",
-    "desc": "At the 2026 Academy Awards, Conan O'Brien brought his signature wit to the stage, zeroing in on Timothée Chalamet’s recent provocative statements regarding ballet and opera. With girlfriend Kylie Jenner at his side, Chalamet embraced the humor, bursting into laughter at O'Brien's cheeky remark.",
-    "img": "https://static.toiimg.com/photo/msid-129599190,imgsize-145652.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/conan-obrien-takes-a-dig-at-timothe-chalamets-ballet-opera-controversy-im-told-there-are-concerns-about-attacks/articleshow/129599190.cms",
-    "time": "2026-03-16T02:44:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Farah shares how 'Tees Maar Khan' failure affected her",
-    "desc": "Filmmaker Farah Khan revealed the profound impact of her film 'Tees Maar Khan's' box office failure, calling it her career's toughest phase. She admitted to being bedridden for days, overwhelmed by criticism. Khan now believes this setback made her wiser, acknowledging that constant success can lead to overconfidence and a dismissive attitude on set. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129598666,imgsize-120024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-shares-how-tees-maar-khan-failure-put-her-on-her-back-foot-i-couldnt-even-get-out-of-my-bed/articleshow/129598666.cms",
-    "time": "2026-03-16T02:35:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Golden' creates Oscar HISTORY with Best Original Song win",
-    "desc": "History was made at the 98th Academy Awards as Netflix's 'KPop Demon Hunters' secured the Oscar for Best Original Song with its hit 'Golden,' marking the first K-pop song to achieve this feat. The film also clinched Best Animated Feature. This groundbreaking win follows the song's earlier Grammy success, solidifying its global impact and the film's phenomenal reception.",
-    "img": "https://static.toiimg.com/photo/msid-129598960,imgsize-114730.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/golden-from-kpop-demon-hunters-creates-oscar-history-becomes-first-k-pop-song-to-win-best-original-song/articleshow/129598902.cms",
-    "time": "2026-03-16T02:19:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka Chopra and Nick Jonas escape near accident",
-    "desc": "Priyanka Chopra and Nick Jonas experienced a dramatic start to the Oscars, with their golf cart nearly tipping over while en route to the red carpet due to high-security measures. Despite the near-accident, the couple arrived safely and on time, with Priyanka later stunning in a white gown. She also presented the Best Foreign Film award.",
-    "img": "https://static.toiimg.com/photo/msid-129598555,imgsize-110842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/priyanka-chopra-and-nick-jonas-escape-near-accident-ahead-of-oscars-appearance-golf-cart-nearly-tips-over-watch/articleshow/129598078.cms",
-    "time": "2026-03-16T02:07:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kate Hudson attends Oscars 2026 in USD 35 million jewelry",
-    "desc": "Hollywood star Kate Hudson captivated the Oscars 2026 red carpet, adorned in a breathtaking USD 35 million jewelry ensemble. Her stunning green diamond necklace, boasting 41 carats, and matching stud earrings perfectly complemented her custom gown. Nominated for Best Actress, Hudson expressed immense joy and gratitude for the recognition, calling the experience \"crazy in the best way.\"",
-    "img": "https://static.toiimg.com/photo/msid-129598553,imgsize-144840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-kate-hudson-returns-25-years-after-almost-famous-the-best-actress-nominee-stuns-in-usd-35m-jewels/articleshow/129598553.cms",
-    "time": "2026-03-16T02:02:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sean Penn’s Oscars 2026 absence sparks buzz after BAFTA win",
-    "desc": "Sean Penn missed the 98th Academy Awards ceremony. He was nominated for Best Supporting Actor for his role in 'One Battle After Another'. This absence follows a trend of him skipping award events this season. Penn's decision highlights his focus on new projects and his independent approach to Hollywood. His past wins and this year's no-show solidify his unique status.",
-    "img": "https://static.toiimg.com/photo/msid-129598780,imgsize-566915.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/actor-sean-penns-absence-from-the-2026-oscars-sparks-buzz-after-surprise-bafta-win/articleshow/129598782.cms",
-    "time": "2026-03-16T01:57:17.000Z"
   },
   {
     "cat": "Business",
@@ -468,15 +585,6 @@ const newsData_en = [
     "time": "2026-03-15T14:55:41.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Chandrika Pujari wins gold as India finish with five medals at World Boxing Futures Cup 2026",
-    "desc": "India concluded its World Boxing Futures Cup 2026 campaign in Bangkok with five medals. Chandrika Pujari won gold in the women's 51kg category. Three boxers earned silver medals, and one secured bronze. The performance highlights the nation's growing youth boxing program. This event provided valuable experience for young athletes preparing for future competitions.",
-    "img": "https://static.toiimg.com/photo/msid-129590684,imgsize-803929.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/boxing/chandrika-pujari-wins-gold-as-india-finish-with-five-medals-at-world-boxing-futures-cup-2026/articleshow/129590640.cms",
-    "time": "2026-03-15T14:25:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "DGCA temporarily eases pilot duty norms for Air India long-haul flights amid airspace curbs",
     "desc": "Air India's long-haul flights face extended duty times due to Middle East airspace restrictions. The DGCA has granted temporary relaxations, extending flight duty limits by over an hour. However, allegations suggest Air India may have exceeded these new allowances on a Jeddah flight, highlighting the ongoing impact of regional conflict on aviation.",
@@ -486,24 +594,6 @@ const newsData_en = [
     "time": "2026-03-15T13:53:00.000Z"
   },
   {
-    "cat": "Business",
-    "title": "IEA’s record oil release may offer only limited relief if Hormuz stays shut: S&amp;P",
-    "desc": "The International Energy Agency's historic 400 million barrel oil reserve release offers limited relief as the Strait of Hormuz remains closed. S&P Global Energy warns this move won't solve the core issue of disrupted shipping, leaving Asian markets particularly vulnerable. Markets face continued imbalance until this critical chokepoint reopens.",
-    "img": "https://static.toiimg.com/photo/msid-129590367,imgsize-77752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/ieas-record-400-million-barrel-oil-release-may-offer-only-limited-relief-if-hormuz-stays-shut-sp-global-energy/articleshow/129590332.cms",
-    "time": "2026-03-15T13:25:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CWI",
-    "desc": "After an arduous wait, the West Indies cricket team and its staff have successfully made their journey back home following their time in India for the T20 World Cup. The team faced significant challenges due to travel restrictions caused by escalating tensions in West Asia, resulting in closed airspace and canceled flights that kept them in Kolkata longer than anticipated.",
-    "img": "https://static.toiimg.com/photo/msid-129590252,imgsize-158084.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/west-indies-players-return-home-after-travel-disruption-cwi/articleshow/129590252.cms",
-    "time": "2026-03-15T13:15:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No Hitman! Virat Kohli picks Chris Gayle over Rohit Sharma as best T20 opener",
     "desc": "Virat Kohli, in a recent 'This or That' challenge, named Chris Gayle as his top T20 opener over Rohit Sharma. Kohli's selections progressed through Adam Gilchrist, Travis Head, and Virender Sehwag before reaching the final showdown. Gayle's prolific T20 record, including the highest individual IPL score, solidifies his legendary status in the format.",
@@ -511,51 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/no-hitman-virat-kohli-picks-chris-gayle-over-rohit-sharma-as-best-t20-opener/articleshow/129589353.cms",
     "time": "2026-03-15T12:08:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Iran war, crude prices to steer Dalal Street this week",
-    "desc": "Indian equity markets face a volatile week, driven by Middle East conflict developments and crude oil price movements. Investors are also keenly watching the US Federal Reserve's interest rate decision and inflation data. Steep losses were recorded last week amid rising oil, a weakening rupee, and foreign fund outflows.",
-    "img": "https://static.toiimg.com/photo/msid-129588398,imgsize-126300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-war-crude-prices-to-steer-dalal-street-this-week-fed-inflation-data-also-in-focus/articleshow/129588339.cms",
-    "time": "2026-03-15T10:51:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Good stocks in hand’: India well placed on crude, fuel despite Middle East war, says Goyal",
-    "desc": "India is well-prepared for Middle East crisis disruptions, with ample fuel stocks and no supply issues reported. The government is diversifying gas import sources and will soon announce support for affected exporters, including insurance schemes. Despite short-term economic pressures and rupee stress, India remains confident in its growth trajectory.",
-    "img": "https://static.toiimg.com/photo/msid-129587898,imgsize-119638.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/good-stocks-in-hand-india-well-placed-on-crude-fuel-despite-middle-east-war-says-piyush-goyal/articleshow/129587855.cms",
-    "time": "2026-03-15T10:16:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mother quit job, son scripts history: How Mayank, 16, became Northeast’s 1st GM",
-    "desc": "Sixteen-year-old Mayank Chakraborty has made history as the first Grandmaster from Assam and Northeast India. His landmark achievement in Sweden follows years of immense sacrifice, including his mother, Dr. Monomita Chakraborty, resigning from her medical career to support his journey. While celebrated as India’s 94th GM, Mayank’s family now seeks government and corporate backing to sustain his elite professional career.",
-    "img": "https://static.toiimg.com/photo/msid-129587643,imgsize-67830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/mother-quit-job-son-scripts-history-how-mayank-chakraborty-16-became-northeasts-1st-gm/articleshow/129587609.cms",
-    "time": "2026-03-15T10:03:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Middle East conflict forces Indian exporters to reroute shipments, absorb higher costs",
-    "desc": "Indian exporters are navigating Middle East conflict fallout, facing rising freight, insurance, and transit times. Businesses are adapting by adjusting inventory and contracts, while shipping lines reroute vessels around Africa, adding significant delays and costs. The government is exploring support measures, including airlifting perishables and alternative port options.",
-    "img": "https://static.toiimg.com/photo/msid-129587560,imgsize-205806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-conflict-forces-indian-exporters-to-reroute-shipments-absorb-higher-costs/articleshow/129587491.cms",
-    "time": "2026-03-15T09:38:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'No team is bigger than the organisation': ICC chairman Jay Shah sends clear message",
-    "desc": "ICC Chairman Jay Shah emphasized that no team is bigger than the organization, reflecting on the recent T20 World Cup's success despite pre-tournament uncertainties. He highlighted shattered viewership records and congratulated associate teams for their strong performances. Shah also urged India's captain and coach to maintain their winning momentum and plan for future tournaments.",
-    "img": "https://static.toiimg.com/photo/msid-129587089,imgsize-82722.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-team-is-bigger-than-the-organisation-icc-chairman-jay-shah-sends-clear-message/articleshow/129587089.cms",
-    "time": "2026-03-15T08:55:31.000Z"
   },
   {
     "cat": "World",
@@ -574,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/china-may-face-closer-scrutiny-in-us-forced-labour-probe-gtri/article70745889.ece",
     "time": "2026-03-15T07:53:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Phone pakad, social media hata': Abhishek reveals tough advice from Surya, Gambhir",
-    "desc": "Abhishek Sharma faced a challenging start to the T20 World Cup 2026, scoring three consecutive ducks. Supported by captain Suryakumar Yadav and coach Gautam Gambhir, who advised him to disconnect from social media, Sharma regained his form. He played a crucial role in India's title win with a blistering 52 in the final.",
-    "img": "https://static.toiimg.com/photo/msid-129586035,imgsize-51362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/phone-pakad-social-media-hata-abhishek-sharma-reveals-tough-advice-from-suryakumar-yadav-gautam-gambhir-hardik-pandya/articleshow/129586039.cms",
-    "time": "2026-03-15T07:03:03.000Z"
   },
   {
     "cat": "World",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-geeta-gandbhir-indian-origin-nominated-documentary-feature-the-perfect-neighbor-the-devil-is-busy/article70730362.ece",
     "time": "2026-03-11T09:23:08.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Lessons from India’s C-DOT saga for technology development",
-    "desc": "The Centre for Development of Telematics heralded a communications revolution by developing indigenous rural telephone exchange technology; however, in the three months of K.P. Unnikrishnan as Minister for Communications, the project was derailed and a mass exodus of scientists began",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/lessons-from-indias-c-dot-saga-for-technology-development/article70726867.ece",
-    "time": "2026-03-11T07:03:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sivaji Ganesan’s gift of baby elephant to American children and his U.S. visit as state guest",
-    "desc": "Sivaji Ganesan was invited to the United States as part of the U.S.–India Cultural Exchange Programme. During the trip, Sivaji was treated as a state guest, assigned two officials to assist him, and given a daily allowance of $160, a considerable sum at the time.",
-    "img": "https://th-i.thgim.com/public/incoming/3tl29a/article70728264.ece/alternates/LANDSCAPE_1200/HP120884.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/sivaji-ganesan-gift-of-baby-elephant-to-american-children-and-his-us-visit-as-state-guest-in-1962/article70728245.ece",
-    "time": "2026-03-11T07:02:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka Mohan on how filming ‘Made In Korea’ was an experience to cherish",
-    "desc": "Ahead of the release of Netflix’s cross-cultural project ‘Made in Korea’, we speak to Priyanka Arul Mohan and director Ra Karthik about filming in Seoul, working with a Korean cast and crew, and how the film felt like a journey of discovery",
-    "img": "https://th-i.thgim.com/public/life-and-style/k2jnfj/article70726606.ece/alternates/LANDSCAPE_1200/MadeInKorea_Netflix_343A3229_6593.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/priyanka-mohan-on-how-filming-made-in-korea-was-an-experience-to-cherish/article70726397.ece",
-    "time": "2026-03-11T06:47:35.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Criticism, satire of PM, UGC regulations target of government takedowns on X, Instagram",
-    "desc": "The most up-to-date takedown stats from Meta show that the Instagram and Facebook parent took down three times as much content in response to government orders in January–June 2025 than in the same period in 2023",
-    "img": "https://th-i.thgim.com/public/incoming/jzjtu8/article70727515.ece/alternates/LANDSCAPE_1200/2025-12-09T031523Z_863589627_RC2QCIAR4COP_RTRMADP_3_AUSTRALIA-SOCIALMEDIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/criticism-satire-of-pm-ugc-regulations-target-of-government-takedowns-on-x-instagram/article70727083.ece",
-    "time": "2026-03-11T02:35:23.000Z"
   }
 ];

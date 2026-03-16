@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "‘সবাইকে ক্ষমা করে দিও,’ নিষ্কৃতি মৃত্য়ুর পথে হরিশ রাণা! চোখের জলে বিদায় পরিবারের",
+    "desc": "গাজিয়াবাদের বছর বত্রিশের তরুণের ‘নিষ্কৃতি মৃত্যু’ অধিকারে মান্যতা দিয়েছে সুপ্রিম কোর্ট৷ এবার ধীরে ধীরে তাঁর জীবনদায়ী সাপোর্ট খুলে নেবেন দিল্লি এইমসের বিশেষ চিকিৎসক দল৷ বাবা-মায়ের বারংবার আর্জির পরে দেশের ইতিহাসে প্রথম এমন রায় দিয়েছে আদালত৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Harish-Rana-2026-03-aa6315cd869ce1c17dcf8b906eaf8512-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/harish-rana-emotional-video-of-farewell-from-family-before-life-support-withdrawal-euthanasia-supreme-court-sta-2586886.html",
+    "time": "2026-03-16T05:58:36.000Z"
+  },
+  {
     "cat": "World",
     "title": "ইরান যুদ্ধের মধ্যে পুতিনের ‘এন্ট্রি’? মোজতবা খামেনেইকে তুলে নিয়ে গেল রাশিয়া, তাহলে আমেরিকার ১০০ কোটি টাকার পুরস্কারের কী হবে?",
     "desc": "ইরান যুদ্ধ শুরু হওয়া ইস্তক একাধিক ফ্রন্টে লাভবান হচ্ছে রাশিয়া। মার্কিন যুক্তরাষ্ট্র ও পশ্চিমি দুনিয়ার চাপে প্রায় থমকে যাওয়া খনিজ তেল ‘উরাল ক্রুড’ এবং তরল প্রাকৃতিক গ্যাসের ব্যবসা ইতিমধ্যেই নতুন উদ্যমে শুরু করেছেন পুতিন। তাঁর সামনে চলে এসেছে ইউক্রেন কব্জা করার সুযোগ। পাশাপাশি, অত্যাধুনিক হাতিয়ার বিক্রি করেও মুনাফা লুটতে পারবেন তিনি।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/actor-vijay-and-trisha-attend-wedding-in-same-car-with-same-costume-while-wife-sangeetha-filed-divorce-ss-aa-2571966.html",
     "time": "2026-03-08T02:13:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "রেড কার্পেটে চোখ সরানো কঠিন! মাধুরীর কালো গাউনের লুকেই মুগ্ধ সবাই",
-    "desc": "মুম্বইয়ের ঝলমলে বিনোদন জগতের তারকারা ৮ মার্চ একত্রিত হয়েছিলেন News18 Showsha Reel Awards 2026 অনুষ্ঠানে। আর রেড কার্পেট দেখেই বোঝা গেল, সিনেমার বড় বড় তারকারা এখন আগের চেয়ে অনেক বেশি সাহসী ও নতুনধারার ফ্যাশনকে গ্রহণ করছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/news18-12-2026-03-335b9be87e5c5bc4d14d0b122be6a5f0-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/madhuri-dixit-turns-heads-in-sculptural-black-gown-with-dramatic-silver-ruffle-smc-2574024.html",
-    "time": "2026-03-07T16:39:54.000Z"
   }
 ];

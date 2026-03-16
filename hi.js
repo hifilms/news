@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bruno Fernandes breaks Manchester United's assists record with stellar showing against Aston Villa",
+    "desc": "Manchester United got back to winning ways as life under Michael Carrick continued to get better for the Red Devils. It is worth noting that United took on Aston Villa at Old Trafford on March...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bruno-fernandes-breaks-manchester-united-s-assists-record-with-stellar-showing-against-aston-villa-2026-03-16-1033918",
+    "time": "2026-03-16T06:55:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nahid Rana loses temper, abuses Pakistan batter after dismissing him in third ODI",
+    "desc": "The third and final ODI of the series between Pakistan and Bangladesh saw the two sides lock horns at the Shere Bangla National Stadium in Mirpur. The clash saw Bangladesh register an emphatic victory, defeating...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nahid-rana-loses-temper-abuses-pakistan-batter-after-dismissing-him-in-third-odi-watch-2026-03-16-1033910",
+    "time": "2026-03-16T05:32:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan lodges official complaint against Bangladesh over controversial review in third ODI",
     "desc": "Bangladesh registered an emphatic victory over Pakistan in the third ODI, clinching the series between the two sides. The two sides locked horns at the Shere Bangla National Stadium in Mirpur, and while Bangladesh managed...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/spain-vs-argentina-finalissima-2026-cancelled-due-to-middle-east-conflict-uefa-confirms-2026-03-15-1033869",
     "time": "2026-03-15T14:39:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Full list of award winners from the ceremony",
-    "desc": "The Board of Control for Cricket in India (BCCI) is celebrating excellence across the Indian cricketing spectrum today at the prestigious Naman Awards 2026 in New Delhi. It is the annual ceremony that recognises exceptional...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-naman-awards-2026-full-list-of-award-winners-from-the-ceremony-2026-03-15-1033866",
-    "time": "2026-03-15T13:36:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand get bowled out under 100 for 14th time in T20Is, lose to South Africa in 1st T20I",
-    "desc": "New Zealand and South Africa locked horns for the first time since the T20 World Cup concluded. The Kiwis hosted the Proteas for the five-match T20I series and the runners-up of the World Cup surrendered...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-sa-new-zealand-get-bowled-out-under-100-for-14th-time-in-t20is-lose-to-south-africa-in-1st-t20i-2026-03-15-1033857",
-    "time": "2026-03-15T11:53:54.000Z"
   }
 ];

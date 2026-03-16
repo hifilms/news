@@ -1,12 +1,12 @@
 const newsData_gu = [
   {
-    "cat": "Sports",
-    "title": "IPL 2026 પર ફરી ઘેરાયા સંકટના વાદળો ! બદલાઈ શકે છે શેડ્યૂલ, જાણો શું છે કારણ",
-    "desc": "9 એપ્રિલે આસામમાં યોજાનારી વિધાનસભા ચૂંટણીને કારણે IPL 2026ના શેડ્યૂલ પર અસર પડી શકે છે. રાજસ્થાન રોયલ્સની ત્રણ મેચ 30 માર્ચ, 7 એપ્રિલ અને 10 એપ્રિલે ગુવાહાટીના બારસાપારા ક્રિકેટ સ્ટેડિયમમાં યોજાવાની છે. BCCIએ હાલમાં પ્રથમ 20 મેચનું શેડ્યૂલ જાહેર કર્યું છે.",
+    "cat": "Business",
+    "title": "આજે એક જ ઝટકે સોનાના ભાવમાં બંપર ઘટાડો, ચાંદી પણ ધડામ, જાણો લેટેસ્ટ રેટ",
+    "desc": "નવા અઠવાડિયાના પહેલા જ દિવસે આજે વાયદા બજાર અને રિટેલ બજારમાં સોના-ચાંદીમાં મોટો કડાકો જોવા મળ્યો છે. યુદ્ધની બદલાતી પરિસ્થિતિ, વૈશ્વિક આર્થિક અનિશ્ચિતતાઓને પગલે કિમતી ધાતુઓ પર દબાણ જોવા મળી રહ્યું છે. જો તમે સસ્તાભાવે કિંમતી ધાતુઓની ખરીદીની વાટ જોતા હોવ તો તમારા માટે આ સારી તક કહી શકાય. જાણો આજનો લેટેસ્ટ રેટ.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bcci-may-change-ipl-2026-schedule-due-to-assembly-elections-468792 ",
-    "time": "2026-03-16T05:12:12.000Z"
+    "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-gold-prices-fell-sharply-in-one-fell-swoop-silver-also-down-know-the-latest-rate-468813 ",
+    "time": "2026-03-16T07:12:17.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +15,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/tamil-nadu-assembly-election-findings-of-opinion-poll-nda-may-form-government-for-the-first-time-468791 ",
-    "time": "2026-03-16T05:10:19.000Z"
+    "time": "2026-03-16T06:39:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "મેચમાં હાઈવોલ્ટેજ ડ્રામા ! અમ્પાયરે આપ્યો વાઈડ, બાંગ્લાદેશ લીધો રિવ્યુ અને સિરીઝ હારી ગયું પાકિસ્તાન",
+    "desc": "પાકિસ્તાન ક્રિકેટ ટીમને ફરી એકવાર બાંગ્લાદેશ સામે હારનો સામનો કરવો પડ્યો છે. બાંગ્લાદેશ સામે વનડે શ્રેણીમાં તેનો 2-1થી પરાજય થયો છે. જો કે, ત્રીજી વનડે દરમિયાન કંઈક એવું બન્યું જે હવે ચર્ચાનો વિષય બની ગયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bangladesh-took-review-for-wide-and-pakistan-lost-the-series-468796 ",
+    "time": "2026-03-16T06:03:30.000Z"
   },
   {
     "cat": "World",
@@ -24,7 +33,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-israel-us-war-19-indians-arrested-in-uae-know-what-is-the-matter-world-news-in-gujarati-468783 ",
-    "time": "2026-03-16T04:34:15.000Z"
+    "time": "2026-03-16T05:37:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 પર ફરી ઘેરાયા સંકટના વાદળો ! બદલાઈ શકે છે શેડ્યૂલ, જાણો શું છે કારણ",
+    "desc": "9 એપ્રિલે આસામમાં યોજાનારી વિધાનસભા ચૂંટણીને કારણે IPL 2026ના શેડ્યૂલ પર અસર પડી શકે છે. રાજસ્થાન રોયલ્સની ત્રણ મેચ 30 માર્ચ, 7 એપ્રિલ અને 10 એપ્રિલે ગુવાહાટીના બારસાપારા ક્રિકેટ સ્ટેડિયમમાં યોજાવાની છે. BCCIએ હાલમાં પ્રથમ 20 મેચનું શેડ્યૂલ જાહેર કર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bcci-may-change-ipl-2026-schedule-due-to-assembly-elections-468792 ",
+    "time": "2026-03-16T05:12:12.000Z"
   },
   {
     "cat": "Entertainment",
