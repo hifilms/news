@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "AB de Villiers shares key advice to MS Dhoni before IPL 2026, believes Sanju Samson is ready to take over",
+    "desc": "In a blockbuster trade deal ahead of the IPL 2026 auction, Chennai Super Kings roped in Sanju Samson for Ravindra Jadeja. The all-rounder was a key part of CSK’s three title-winning campaigns, but the team...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ab-de-villiers-shares-key-advice-to-ms-dhoni-before-ipl-2026-believes-sanju-samson-is-ready-to-take-over-2026-03-17-1034073",
+    "time": "2026-03-17T12:12:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Should KL Rahul open for Delhi Capitals in IPL 2026? Former cricketer analyses impact",
+    "desc": "In IPL 2025, senior India batter KL Rahul amassed 539 runs in 13 matches at a strike rate of 149.72. Interestingly, he was slotted in the middle order to start with, as Jake Fraser-McGurk and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/should-kl-rahul-open-for-delhi-capitals-in-ipl-2026-former-cricketer-analyses-impact-2026-03-17-1034066",
+    "time": "2026-03-17T11:30:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kiwi pacers dominate after Devon Conway show as New Zealand script comeback in T20I series vs South Africa",
+    "desc": "New Zealand bowlers tormented South Africa in the second T20I in Hamilton, securing a 68-run win to square the series 1-1. The pacers lived up to the expectations, outclassing the Proteas, who were bundled for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kiwi-pacers-dominate-after-devon-conway-show-as-new-zealand-script-comeback-in-t20i-series-vs-south-africa-2026-03-17-1034055",
+    "time": "2026-03-17T10:32:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer reflects on Kuldeep Yadav's role for Delhi Capitals ahead of IPL 2026",
     "desc": "The 19th edition of the IPL (Indian Premier League) is all set to kick off on March 28. Ahead of the start of the tournament, former India cricketer Mohammad Kaif took centre stage and talked...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-set-to-miss-majority-of-ipl-2026-after-knee-surgery-2026-03-17-1033999",
     "time": "2026-03-17T02:55:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chennai Super Kings announce James Foster as new fielding coach ahead of IPL 2026",
-    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee tournament is set to begin on March 28, and ahead of the new season, five-time champions Chennai Super Kings...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/chennai-super-kings-announce-james-foster-as-new-fielding-coach-ahead-of-ipl-2026-2026-03-17-1033992",
-    "time": "2026-03-17T01:43:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'No one cares about you': Liam Livingstone tears into McCullum and England management after being dropped",
-    "desc": "Liam Livingstone has made scathing claims about the England environment under head coach Brendon McCullum and managing director Rob Key. He is set to feature in the upcoming edition of the Indian Premier League (IPL)...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/no-one-cares-about-you-liam-livingstone-tears-into-mccullum-and-england-management-after-being-dropped-2026-03-16-1033979",
-    "time": "2026-03-16T17:24:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harbhajan Singh believes Mumbai Indians will bench either De Kock or Rickelton in IPL 2026",
-    "desc": "The 19th edition of the Indian Premier League (IPL) and all teams are gearing up for their respective opening games of the season. Even the former cricketers and experts are busy analysing every team now...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harbhajan-singh-believes-mumbai-indians-will-bench-either-de-kock-or-rickelton-in-ipl-2026-2026-03-16-1033976",
-    "time": "2026-03-16T16:52:57.000Z"
   }
 ];
