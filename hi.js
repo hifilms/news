@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "MCC slams Salman Agha over frustration after run-out against Bangladesh in second ODI",
+    "desc": "The Marylebone Cricket Club (MCC) has weighed in on a contentious run-out involving Pakistan’s Salman Agha during the second ODI against Bangladesh in Mirpur. The moment unfolded late in Pakistan’s innings at the Sher-e-Bangla National...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mcc-slams-salman-agha-over-frustration-after-run-out-against-bangladesh-in-second-odi-2026-03-17-1034097",
+    "time": "2026-03-17T15:45:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Iran pushes to move FIFA World Cup 2026 matches from USA to Mexico amid West Asia war",
+    "desc": "Iran is seeking to move its FIFA World Cup matches from the United States to Mexico, citing player safety amid escalating regional tensions. The country’s football federation president, Mehdi Taj, confirmed that negotiations with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/iran-pushes-to-move-fifa-world-cup-2026-matches-from-usa-to-mexico-amid-west-asia-war-2026-03-17-1034091",
+    "time": "2026-03-17T14:38:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How many IPL 2026 matches will RCB pacer miss?",
+    "desc": "Royal Challengers Bengaluru pacer Josh Hazlewood is expected to miss the first two games of the IPL 2026 season. He suffered a hamstring injury for New South Wales, which resulted in him being ruled out...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/josh-hazlewood-update-how-many-ipl-2026-matches-will-rcb-pacer-miss-2026-03-17-1034081",
+    "time": "2026-03-17T13:17:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "AB de Villiers shares key advice to MS Dhoni before IPL 2026, believes Sanju Samson is ready to take over",
     "desc": "In a blockbuster trade deal ahead of the IPL 2026 auction, Chennai Super Kings roped in Sanju Samson for Ravindra Jadeja. The all-rounder was a key part of CSK’s three title-winning campaigns, but the team...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dane-van-niekerk-ruled-out-of-new-zealand-tour-sustaining-calf-injury-2026-03-17-1034023",
     "time": "2026-03-17T06:23:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "24-year-old South Africa batter ruled out of remainder of New Zealand T20Is, replacement yet to be announced",
-    "desc": "With New Zealand and South Africa facing off across five T20Is, South Africa have been dealt a blow early into the series as 24-year-old Jordan Hermann has been ruled out of the remainder of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/24-year-old-south-africa-batter-ruled-out-of-remainder-of-new-zealand-t20is-replacement-yet-to-be-announced-2026-03-17-1034015",
-    "time": "2026-03-17T05:08:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Deeply saddened': Rashid Khan and other Afghanistan cricketers condemn Pakistan's deadly airstrikes in Kabul",
-    "desc": "Star Afghanistan all-rounder Rashid Khan has taken to social media to slam Pakistan after civilian casualties were reported in Kabul as a result of the airstrikes by Pakistan. It is worth noting that Pakistan carried...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/deeply-saddened-rashid-khan-and-other-afghanistan-cricketers-condemn-pakistan-s-deadly-airstrikes-in-kabul-2026-03-17-1034008",
-    "time": "2026-03-17T04:03:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harshit Rana set to miss majority of IPL 2026 after knee surgery",
-    "desc": "The IPL (Indian Premier League) 2026 season is all set to kick off on March 28, and ahead of the new season, three-time champions Kolkata Knight Riders seem to be in trouble as their frontline...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-set-to-miss-majority-of-ipl-2026-after-knee-surgery-2026-03-17-1033999",
-    "time": "2026-03-17T02:55:54.000Z"
   }
 ];
