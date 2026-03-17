@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Hansika Motwani seeks blessings at Golden Temple after divorce",
+    "desc": "Hansika Motwani was recently seen seeking solace and strength at the Golden Temple following her separation from Sohael Khaturiya. The actress shared glimpses of her peaceful visit on social media, offering fans a quiet moment of faith.",
+    "img": "https://static.toiimg.com/photo/msid-129641684,imgsize-100878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/held-by-him-always-hansika-motwani-seeks-blessings-at-golden-temple-after-divorce-from-sohael-khaturiya/articleshow/129641684.cms",
+    "time": "2026-03-17T20:25:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Laporta's new Barca chapter begins with Newcastle clash",
+    "desc": "Newcastle visit on Wednesday in the Champions League last 16, the tie delicately poised after a 1-1 draw on Tyneside last week, Eddie Howe’s men underdogs but posing a clear threat to Laporta’s dream as shown by their strong first leg display",
+    "img": "https://th-i.thgim.com/public/incoming/aia47/article70755599.ece/alternates/LANDSCAPE_1200/th17-ib-barca_GGPVFNMCQM.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/laportas-new-barca-chapter-begins-with-newcastle-clash/article70755514.ece",
+    "time": "2026-03-17T19:09:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ab Bharatiya cinema ka mustaqbil Dhurandhar 2 tay karegi'",
+    "desc": "The Revenge in Mumbai, making a high-energy entry that instantly set the tone for the evening. Addressing the media and fans, Ranveer expressed gratitude for the love the franchise has received. Ending on a dramatic note, he added, “Ab Bharatiya cinema ka mustaqbil Dhurandhar: The Revenge tay karegi (Now, the future of Indian cinema will be decided by Dhurandhar: The Revenge).”",
+    "img": "https://static.toiimg.com/photo/msid-129640632,imgsize-112580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-hails-fans-for-dhurandhar-success-ab-bharatiya-cinema-ka-mustaqbil-dhurandhar-2-the-revenge-tay-karegi/articleshow/129640632.cms",
+    "time": "2026-03-17T19:07:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Can your UAE employer stop your salary if you are stranded outside the emirates amid Iran vs US-Israel war? Here’s what the law really says",
+    "desc": "Geopolitical tensions have left many expatriates stranded abroad, raising questions about salary continuation. UAE labour law dictates salary is tied to work but unavoidable absences due to conflict or travel bans are considered justified. Outcomes depend on remote work capability, employer agreement and clear communication, with flexibility and negotiation being key.",
+    "img": "https://static.toiimg.com/photo/msid-129640606,imgsize-29626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/can-your-uae-employer-stop-your-salary-if-you-are-stranded-outside-the-emirates-amid-iran-vs-us-israel-war-heres-what-the-law-really-says/articleshow/129639962.cms",
+    "time": "2026-03-17T18:51:37.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Amid confusion over internal reservation, Karnataka SC/ST commission holds deliberations",
     "desc": "Amid confusion over the internal reservation among Scheduled Castes, and reduction of overall reservation to Scheduled Castes and Scheduled Tribes from 56% to 50% for recruitment to 56,432 posts, the Karnataka State Commission for Scheduled Castes and Scheduled Tribes held deliberations with senior officials, former KPSC functionaries, and community representatives",
@@ -36,6 +72,15 @@ const newsData_en = [
     "time": "2026-03-17T18:07:27.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Ramit Tandon",
+    "desc": "From training bases in the United States to competing at home in Mumbai, the Indian men’s No. 2 is balancing preparation and performance. He shares insights on life on tour and discusses his Asian Games ambitions, the depth in Indian squash, and the challenge of breaking into the world’s elite",
+    "img": "https://th-i.thgim.com/public/incoming/gcv3sp/article70755386.ece/alternates/LANDSCAPE_1200/DSC04011.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/all-our-scheduling-is-going-to-revolve-around-peaking-for-the-asian-games-ramit-tandon/article70755322.ece",
+    "time": "2026-03-17T18:06:05.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Redeployment of specialist doctors from CHCs to taluk hospitals done to reduce neonatal mortality, says Karnataka Health Minister",
     "desc": "Health Minister Dinesh Gundu Rao has said that redeployment of gynaecologists and anaesthetists from community health centres in rural areas with lesser deliveries to taluk hospitals was done in an effort to reduce neonatal deaths after an audit of neonatal deaths in different areas of the State",
@@ -70,15 +115,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-to-face-pakistan-in-hockey-world-cup-group-stage/articleshow/129638977.cms",
     "time": "2026-03-17T17:50:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ramit Tandon",
-    "desc": "From training bases in the United States to competing at home in Mumbai, The Indian men’s No. 2 is balancing preparation and performance. He shares insights on life on tour and discusses his Asian Games ambitions, the depth in Indian squash, and the challenge of breaking into the world’s elite",
-    "img": "https://th-i.thgim.com/public/incoming/gcv3sp/article70755386.ece/alternates/LANDSCAPE_1200/DSC04011.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/all-our-scheduling-is-going-to-revolve-around-peaking-for-the-asian-games-ramit-tandon/article70755322.ece",
-    "time": "2026-03-17T17:39:17.000Z"
   },
   {
     "cat": "Politics",
@@ -252,15 +288,6 @@ const newsData_en = [
     "time": "2026-03-17T15:19:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "No evidence of increased efficiency due to mechanisation of sewer cleaning, Centre tells LS",
-    "desc": "Centre says 622 deaths from hazardous cleaning reported since 2017, 842 complaints in 2025 over denial of wages, no protective gear, and caste bias; insists that sewer and septic tank cleaning work is “occupation-based”, not caste-based",
-    "img": "https://th-i.thgim.com/public/incoming/ly4y20/article70754907.ece/alternates/LANDSCAPE_1200/PTI02_05_2026_000213B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/no-evidence-of-increased-efficiency-due-to-mechanisation-of-sewer-cleaning-centre-tells-ls/article70753876.ece",
-    "time": "2026-03-17T15:09:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Thalapathy Vijay's 'Jana Nayagan' re-censorship delayed again",
     "desc": "Thalapathy Vijay's final film, Jana Nayagan, faces new delays. The re-censorship process has been cancelled again, disappointing fans and the makers. The film's release is now uncertain. It was initially planned for January 9. The team withdrew their case and resubmitted for a fresh review. The movie is expected to release after the Tamil Nadu elections.",
@@ -315,15 +342,6 @@ const newsData_en = [
     "time": "2026-03-17T14:12:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Congress alleges BJP tried ‘vote chori’ in Haryana, warns cross-voters of strict action",
-    "desc": "The Congress accused the BJP of \"vote chori\" and \"murdering democracy\" in Haryana's Rajya Sabha elections after cross-voting and invalid ballots marred the contest. Despite acknowledging internal cross-voting and promising strict action against its MLAs, the Congress secured one seat, while the BJP won the other. The outcome has ignited a political battle and an internal party crisis.",
-    "img": "https://static.toiimg.com/photo/msid-129634238,imgsize-158100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rajya-sabha-polls-congress-alleges-bjp-tried-vote-chori-in-haryana-warns-cross-voters-of-strict-action/articleshow/129634085.cms",
-    "time": "2026-03-17T13:37:31.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Akshay opens up on LPG shortage, says wife Twinkle has bought 2 inductions",
     "desc": "Akshay Kumar, promoting his upcoming film 'Bhooth Bangla', addressed concerns about potential LPG shortages due to Middle East tensions. He revealed his wife, Twinkle Khanna, has ordered electric stoves as a backup, though his home currently has no gas shortage. Kumar also emphasized the importance of cleanliness initiatives.",
@@ -360,15 +378,6 @@ const newsData_en = [
     "time": "2026-03-17T12:52:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India at UN slams Pakistan for ‘fabricating’ Islamophobia narratives, flags Ahmadiyya repression, Afghan bombings",
-    "desc": "India has accused Pakistan of fabricating Islamophobia narratives at the UN, questioning Islamabad's treatment of minorities and its actions against Afghanistan. Ambassador Parvathaneni Harish urged the UN to address all religious discrimination, not just one faith, highlighting India's large Muslim population and pluralistic ethos. He warned against weaponizing religion for political gain.",
-    "img": "https://static.toiimg.com/photo/msid-129633364,imgsize-57290.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-at-un-slams-pakistan-for-fabricating-islamophobia-narratives-flags-ahmadiyya-repression-afghan-bombings/articleshow/129632997.cms",
-    "time": "2026-03-17T12:51:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'See It worked out'",
     "desc": "Ali Fazal celebrated his anniversary with Richa Chadha, sharing heartfelt photos and a personal note on Instagram. The post highlighted their journey from meeting on the 'Fukrey' set to building a family, including the recent arrival of their daughter. Fazal's message emphasized cherished memories and the comfort of their enduring bond, marking another significant moment in their shared timeline.",
@@ -396,15 +405,6 @@ const newsData_en = [
     "time": "2026-03-17T12:28:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'We just wanted talks': Sonam Wangchuk in his first reaction on Ladakh demands after NSA release",
-    "desc": "Climate activist Sonam Wangchuk, released after NSA detention, stated Ladakh's goal is dialogue with the Centre. He called his release a \"win-win,\" enabling trust-building for meaningful talks. Wangchuk, detained for six months, expressed relief at avoiding sharing his \"horror stories\" from jail, hoping for constructive engagement.",
-    "img": "https://static.toiimg.com/photo/msid-129632781,imgsize-55886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-just-wanted-talks-sonam-wangchuk-in-his-first-reaction-on-ladakh-demands-after-nsa-release/articleshow/129632516.cms",
-    "time": "2026-03-17T12:25:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "EXCLUSIVE",
     "desc": "India's Sumit Nagal is fighting back after a turbulent career plagued by injuries, including hip surgery and a hip flexor tear, that saw him drop from World No. 68 to No. 278. Now refocused on fitness, diet, and the controllables of his game, Nagal heads into his favourite time of the season - on clay - with hard-won maturity and renewed determination.",
@@ -412,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/exclusive-if-i-could-change-my-body-i-would-sumit-nagal-opens-up-on-injuries-and-patient-rebuilding/articleshow/129632501.cms",
     "time": "2026-03-17T12:24:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SRK to return in old school romantic drama after King",
-    "desc": "Shah Rukh Khan prepares to headline action-thriller 'King' on December 24, 2026, directed by Siddharth Anand, sporting silver hair alongside Suhana Khan and Deepika Padukone. Pinkvilla reports SRK's interest in a mature romantic drama post-King (Jan/Feb 2027 shoot), opting for lighter roles after injuries. King stars Rani Mukerji, Abhishek Bachchan, and more, with SRK as a fierce assassin in the teaser.",
-    "img": "https://static.toiimg.com/photo/msid-129632692,imgsize-41560.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-to-return-in-old-school-romantic-drama-after-high-octane-action-thriller-king-reports/articleshow/129632692.cms",
-    "time": "2026-03-17T12:18:50.000Z"
   },
   {
     "cat": "Sports",
@@ -432,15 +423,6 @@ const newsData_en = [
     "time": "2026-03-17T12:00:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "TMC releases list of 291 candidates; stage set for Suvendu vs Mamata in Bhabanipur",
-    "desc": "Trinamool Congress revealed its candidate list for the West Bengal Assembly elections, contesting 291 out of 294 seats. Chief Minister Mamata Banerjee will run from Bhabanipur, while allies will contest three seats in Darjeeling. The party expressed confidence in retaining power with a significant majority, aiming for over 226 seats.",
-    "img": "https://static.toiimg.com/photo/msid-129631501,imgsize-926254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-tmc-releases-list-of-291-candidates-stage-set-suvendu-vs-mamata-in-bhabanipur/articleshow/129631361.cms",
-    "time": "2026-03-17T11:27:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "LPG consumption slumps 17% in March on war-related shortages",
     "desc": "LPG consumption fell to 1.147 million tonne during the first fortnight of March, 17.3% lower than 1.387 million tonne consumed in the same period last year and 26.3% lower than 1.557 million tonne demand in the first half of February",
@@ -448,15 +430,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/lpg-consumption-slumps-17-in-march-on-war-related-shortages/article70753643.ece",
     "time": "2026-03-17T11:26:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lyricist credited for Nora's song denies writing such obscene lyrics",
-    "desc": "The Devil' faces severe backlash for vulgar lyrics, with lyricist Raqueeb Alam denying authorship of the controversial lines. He claims he refused to write them, only agreeing to a literal translation of the Kannada original. The song's YouTube video was removed, and a revised, cleaner version is planned with an apology.",
-    "img": "https://static.toiimg.com/photo/msid-129631413,imgsize-47240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lyricist-credited-for-nora-fatehis-sarki-chunar-song-raqueeb-alam-denies-writing-it-maine-nai-likha-hai-i-feel-humiliated/articleshow/129631443.cms",
-    "time": "2026-03-17T11:24:26.000Z"
   },
   {
     "cat": "Business",
@@ -628,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/nvidia-chief-expects-revenue-of-1-trillion-through-2027/article70752418.ece",
     "time": "2026-03-17T04:31:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil price today (March 17, 2026): Crude continues to climb amid Hormuz supply crisis; Brent, WTI jump 2%",
-    "desc": "Middle East conflict intensifies, driving oil prices higher as fears of supply disruptions mount. The Strait of Hormuz remains largely disrupted, impacting production and leading to calls for strategic reserve releases. Analysts warn of further price hikes if tensions persist, potentially impacting global economies.",
-    "img": "https://static.toiimg.com/photo/msid-129622956,imgsize-116060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-march-17-2026-crude-continues-to-climb-amid-hormuz-supply-crisis-brent-wti-jump-2/articleshow/129622921.cms",
-    "time": "2026-03-17T03:30:40.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/rashmika-mandanna-rakshit-shetty-vijay-deverakonda-legal-action-privacy-violating-content-audio-clip-leaked/article70734828.ece",
     "time": "2026-03-12T12:40:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Padmini Chettur and Preethi Athreya built a platform for contemporary dance in Chennai",
+    "desc": "March Dance, the festival they launched in 2017, aimed to address a vacuum for artistes who did not fit into the traditional dance forms. This year’s edition will be held on March 16, 20 and 21.",
+    "img": "https://th-i.thgim.com/public/entertainment/music/t1w923/article70731014.ece/alternates/LANDSCAPE_1200/13fr_PRIME%20Avantika%20Bahl.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/dance/how-padmini-chettur-and-preethi-athreya-built-a-platform-for-contemporary-dance-in-chennai/article70730493.ece",
+    "time": "2026-03-12T08:40:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Hokum’ trailer: Adam Scott faces witch haunting in Damian McCarthy’s new horror",
+    "desc": "The first trailer for the latest horror film from ‘Oddity’ and ‘Caveat’ director Damian McCarthy, has been unveiled, showing Adam Scott as a novelist drawn into a haunted Irish inn and a mystery tied to a witch haunting its honeymoon suite",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/ihuct2/article70733902.ece/alternates/LANDSCAPE_1200/Hokum_AdamScott_01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/hokum-trailer-adam-scott-faces-witch-haunting-in-damian-mccarthys-new-horror/article70733903.ece",
+    "time": "2026-03-12T05:23:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Artist Jitish Kallat to chair curator selection for next edition of Kochi-Muziris Biennale",
+    "desc": "Jitish Kallat, who lives and works in Mumbai, is a member of the Board of Trustees of the Kochi Biennale Foundation. He previously served as curator of the second edition of the Kochi–Muziris Biennale (2014–15), titled Whorled Explorations",
+    "img": "https://th-i.thgim.com/public/incoming/owlgiw/article70730567.ece/alternates/LANDSCAPE_1200/Jitish_Kallat_04.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/jitish-kallat-to-chair-curator-selection-for-next-edition-of-kochi-muziris-biennale/article70730461.ece",
+    "time": "2026-03-11T10:21:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meet Geeta Gandbhir, the director with two separate Oscar-nominated films",
+    "desc": "Geeta Gandbhir, the Indian-origin American filmmaker is waves at this year’s Oscars with not one, but two nominations. Her documentaries, ‘The Perfect Neighbor’ and ‘The Devil is Busy’ are in the race for the Academy Award",
+    "img": "https://th-i.thgim.com/public/incoming/h1ticq/article70730367.ece/alternates/LANDSCAPE_1200/Geeta%20Gandbhir.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-geeta-gandbhir-indian-origin-nominated-documentary-feature-the-perfect-neighbor-the-devil-is-busy/article70730362.ece",
+    "time": "2026-03-11T09:23:08.000Z"
   }
 ];
