@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "New Zealand hope for good start with the bat",
+    "title": "Former India cricketer reflects on Kuldeep Yadav's role for Delhi Capitals ahead of IPL 2026",
+    "desc": "The 19th edition of the IPL (Indian Premier League) is all set to kick off on March 28. Ahead of the start of the tournament, former India cricketer Mohammad Kaif took centre stage and talked...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-reflects-on-kuldeep-yadav-s-role-for-delhi-capitals-ahead-of-ipl-2026-2026-03-17-1034049",
+    "time": "2026-03-17T09:14:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson breaks silence on his exit from Rajasthan Royals, opens up on facing them in IPL 2026",
+    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026. The marquee tournament is slated to begin on March 28, and the 10 franchises will look to put in their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-breaks-silence-on-his-exit-from-rajasthan-royals-opens-up-on-facing-them-in-ipl-2026-2026-03-17-1034037",
+    "time": "2026-03-17T07:37:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand defeat South Africa by 68 runs",
     "desc": "New Zealand and South Africa take on each other in the 2nd T20I of the ongoing series. The two sides lock horns at Seddon Park in Hamilton on March 17. The clash has begun on...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harbhajan-singh-believes-mumbai-indians-will-bench-either-de-kock-or-rickelton-in-ipl-2026-2026-03-16-1033976",
     "time": "2026-03-16T16:52:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Fire alarm creates chaos during cricket match in Australia, play stopped for 25 minutes in Sheffield Shield",
-    "desc": "The third day's play of the Tasmania vs New South Wales match in the Sheffield Shield was interrupted due to a fire alarm on Monday. The play had to be stopped for nearly half an...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/fire-alarm-creates-chaos-during-cricket-match-in-australia-play-stopped-for-25-minutes-in-sheffield-shield-2026-03-16-1033974",
-    "time": "2026-03-16T15:40:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand to tour Bangladesh during IPL 2026, schedule announced for 3 ODIs and 3 T20Is",
-    "desc": "Bangladesh Cricket Board (BCB) has confirmed the schedule for the national team's next series against New Zealand. The two teams will face each other in six white-ball matches - 3 ODIs and 3 T20Is -...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-to-tour-bangladesh-during-ipl-2026-schedule-announced-for-3-odis-and-3-t20is-2026-03-16-1033971",
-    "time": "2026-03-16T14:47:41.000Z"
   }
 ];
