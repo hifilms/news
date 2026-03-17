@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Chennai Super Kings announce James Foster as new fielding coach ahead of IPL 2026",
+    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee tournament is set to begin on March 28, and ahead of the new season, five-time champions Chennai Super Kings...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/chennai-super-kings-announce-james-foster-as-new-fielding-coach-ahead-of-ipl-2026-2026-03-17-1033992",
+    "time": "2026-03-17T01:43:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'No one cares about you': Liam Livingstone tears into McCullum and England management after being dropped",
     "desc": "Liam Livingstone has made scathing claims about the England environment under head coach Brendon McCullum and managing director Rob Key. He is set to feature in the upcoming edition of the Indian Premier League (IPL)...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rcb-and-ksca-receive-final-clearance-to-host-ipl-matches-at-chinnaswamy-stadium-ahead-of-ipl-2026-2026-03-16-1033924",
     "time": "2026-03-16T07:35:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bruno Fernandes breaks Manchester United's assists record with stellar showing against Aston Villa",
-    "desc": "Manchester United got back to winning ways as life under Michael Carrick continued to get better for the Red Devils. It is worth noting that United took on Aston Villa at Old Trafford on March...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/bruno-fernandes-breaks-manchester-united-s-assists-record-with-stellar-showing-against-aston-villa-2026-03-16-1033918",
-    "time": "2026-03-16T06:55:25.000Z"
   }
 ];

@@ -1,6 +1,141 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Meghan Markle shares sweet glimpses of life in Montecito",
+    "desc": "Meghan Markle provided an enchanting insight into her peaceful Montecito existence, featuring daughter Lilibet frolicking with chickens at their delightful 'Archie's Chick Inn.' Alongside this everyday magic, Meghan's love for flower arranging shone through, with Prince Harry’s affectionate words floating in the background. This portrayal reveals the couple's family life, embracing simplicity and joy outside the royal spotlight.",
+    "img": "https://static.toiimg.com/photo/msid-129621930,imgsize-6886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markle-shares-sweet-glimpses-of-life-in-montecito-flower-arranging-daughter-lilibet-chasing-chickens-and-more/articleshow/129621930.cms",
+    "time": "2026-03-17T01:46:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Esha Deol REACTS to Oscars 2026 snubbing Dharmendra",
+    "desc": "Dharmendra's omission from the Oscars' In Memoriam segment sparked fan outrage, but his daughter Esha Deol believes he wouldn't be bothered, valuing love over accolades. Hema Malini expressed disappointment, calling it a \"shame\" for the Academy to overlook the legendary actor, though Dharmendra was honored on the Oscars website alongside other Indian film personalities. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129621737,imgsize-65848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/esha-deol-reacts-to-oscars-2026-snubbing-dharmendra-from-in-memoriam-segment-life-was-never-about-recognition-for-him/articleshow/129621737.cms",
+    "time": "2026-03-17T01:25:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jack O'Connell joins Emily Blunt in 'A Quiet Place III'",
+    "desc": "Part III', welcoming Jack O’Connell, Jason Clarke, and Katy O’Brian alongside returning stars Emily Blunt and Cillian Murphy. Filming is set to commence this spring, with Krasinski directing. This latest installment in the successful horror franchise is slated for a July 2027 release.",
+    "img": "https://static.toiimg.com/photo/msid-129621551,imgsize-157342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/a-quiet-place-part-iii-jack-oconnell-joins-emily-blunt-and-cillian-murphy-in-john-krasinskis-next/articleshow/129621413.cms",
+    "time": "2026-03-17T01:19:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘One Piece Season 2’: Taz Skyler is surprised by show's popularity",
+    "desc": "Taz Skylar, who takes on the role of Sanji in the live-action adaptation of 'One Piece,' shared his astonishment at the series' lasting appeal, highlighting how it continues to gain traction even after years of absence.",
+    "img": "https://static.toiimg.com/photo/msid-129621567,imgsize-139884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/one-piece-season-2-actor-taz-skyler-expresses-his-surprise-on-shows-enduring-popularity/articleshow/129621567.cms",
+    "time": "2026-03-17T00:54:13.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "At least 400 people killed in Pakistan strike on Afghanistan hospital treating drug users",
+    "desc": "The alleged attack came hours after Afghan officials said the two sides exchanged fire along their common border, killing four people in Afghanistan, as the deadliest fighting between the neighbors in years entered a third week",
+    "img": "https://th-i.thgim.com/public/incoming/94eokb/article70751706.ece/alternates/LANDSCAPE_1200/AFP_A3JM96A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/pakistan-strike-on-afghanistan-hospital-many-dead-march-17-2026/article70751698.ece",
+    "time": "2026-03-17T00:49:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Kerala Story 2' inches closer to Rs 50 cr mark on Day 18",
+    "desc": "Goes Beyond' inches closer to the Rs 50 crore mark, tallying up to Rs 48.86 crore by its third Monday. Although it has maintained consistent earnings, it has not replicated the blockbuster status of the first installment, which was released in the year 2023. Read the full article to know more about its Day 18 collection in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129621418,imgsize-68632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-18-film-inches-closer-to-rs-50-crore-mark-on-third-tuesday/articleshow/129621418.cms",
+    "time": "2026-03-17T00:16:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dune: Part Three' first look out, teaser trailer to release tonight",
+    "desc": "Part Three' as Timothée Chalamet unveils his character's masked poster. The film, marking the epic conclusion to Denis Villeneuve's trilogy, promises a trailer debut soon. Returning stars and new additions like Anya Taylor-Joy join the cast for this highly anticipated sci-fi saga, set for a December 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-129621339,imgsize-119116.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dune-part-three-first-look-timothee-chalamet-zendaya-florence-pugh-return-in-denis-villeneuves-epic-conclusion-teaser-trailer-to-release-tonight/articleshow/129621336.cms",
+    "time": "2026-03-16T23:52:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump upset as U.S. partners reject call for Hormuz warship escorts",
+    "desc": "A number of U.S. partners, including Germany, Spain and Italy, said they had no immediate plans to ‌send ships to help reopen the strategic waterway, which Iran has effectively shut with drones and naval mines",
+    "img": "https://th-i.thgim.com/public/incoming/vg5vkj/article70751705.ece/alternates/LANDSCAPE_1200/APTOPIX_Trump_19919.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-upset-as-us-partners-reject-call-for-hormuz-warship-escorts/article70751689.ece",
+    "time": "2026-03-16T23:29:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Oscars defend 'In Memoriam' segment amid backlash",
+    "desc": "Oscars telecast executive Rob Mills defended the 'In Memoriam' segment's omissions, calling it the Academy's toughest task. Despite an extended runtime, several stars, including Indian actor Dharmendra, were excluded from the televised tribute, appearing only online. This sparked criticism, with Dharmendra's wife calling it a shame. Mills, however, praised the segment as potentially the best ever.",
+    "img": "https://static.toiimg.com/photo/msid-129621278,imgsize-59994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-defends-in-memoriam-segment-amid-backlash-over-omitting-stars-from-televised-montage-its-hard-when-the-academy-is-villainised-for-this/articleshow/129620958.cms",
+    "time": "2026-03-16T23:06:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NDA wins nine Rajya Sabha seats from Bihar, Odisha, Haryana",
+    "desc": "BJP national president Nitin Nabin and Bihar CM Nitish Kumar romp home as NDA secures all five Rajya Sabha seats in Bihar; the party also secures victory of three candidates in Odisha; BJP and the Congress file separate plaints in Haryana",
+    "img": "https://th-i.thgim.com/public/incoming/2exzbo/article70751483.ece/alternates/LANDSCAPE_1200/20260316661L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
+    "time": "2026-03-16T23:03:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Poll heat rises in Palakkad as BJP trains guns on UDF MLA scandal",
+    "desc": "The BJP has fielded Sobha Surendran, who helped the party leap to the second position in the constituency for the first time in 2016, hoping to wrest the seat from the United Democratic Front. The Left Democratic Front has been finishing in third spot in the segment for the past three elections. Neither the UDF nor the LDF has announced candidates for the segment",
+    "img": "https://th-i.thgim.com/public/incoming/dq6mmx/article70751693.ece/alternates/LANDSCAPE_1200/graffiti%20_5.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-poll-heat-rises-in-palakkad-as-bjp-trains-guns-on-udf-mla-scandal/article70747128.ece",
+    "time": "2026-03-16T22:23:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kristin Cabot spills the beans to Oprah",
+    "desc": "Kristin Cabot, embroiled in the Coldplay kiss cam controversy, revealed to Oprah that her estranged husband was at the same concert with his own date. She admitted she didn't anticipate running into him at the massive event. Cabot also suggested her ex-husband was aware of her close working relationship with boss Andy Byron, downplaying the significance of their interactions.",
+    "img": "https://static.toiimg.com/photo/msid-129619168,imgsize-105408.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/coldplay-kiss-cam-controversy-kristin-cabot-spills-the-beans-to-oprah-reveals-ex-husband-was-also-at-concert-with-his-date/articleshow/129619163.cms",
+    "time": "2026-03-16T22:22:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Political crossovers gather pace in Kerala as Assembly elections near",
+    "desc": "Defections and cross-affiliations are blurring the traditional ideological boundaries between the United Democratic Front, Left Democratic Front, and the National Democratic Alliance. Increasingly, electoral pragmatism rather than ideological loyalty appears to be shaping political choices",
+    "img": "https://th-i.thgim.com/public/incoming/g5tcub/article70751691.ece/alternates/LANDSCAPE_1200/11073_16_10_2025_19_44_31_1_02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-political-crossovers-gather-pace-in-kerala-as-assembly-elections-near/article70749723.ece",
+    "time": "2026-03-16T22:20:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sebastian Stan and Annabelle Wallis expecting first child together",
+    "desc": "Marvel star Sebastian Stan, famed as Bucky Barnes, is reportedly expecting his first child with girlfriend Annabelle Wallis. The couple, together for four years, are said to be preparing for parenthood. This news arrives as both actors have busy schedules with upcoming film releases. Stan joins fellow 'Avengers' stars like Chris Evans in entering fatherhood.",
+    "img": "https://static.toiimg.com/photo/msid-129618903,imgsize-51786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sebastian-stan-and-partner-annabelle-wallis-expecting-first-child-together/articleshow/129618885.cms",
+    "time": "2026-03-16T21:29:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Stranded in Doha, Chennai resident reaches Riyadh by road to fly back home",
+    "desc": "Varun Krishnan, who departed for Barcelona on February 28 and returned home on March 7, says the episode has changed the way he views travel — what once seemed like a predictable system of schedules and connections now appears far more uncertain and fragile",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/d18wfm/article70750956.ece/alternates/LANDSCAPE_1200/DSC_4725.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/stranded-in-doha-chennai-resident-reaches-riyadh-by-road-to-fly-back-home/article70750961.ece",
+    "time": "2026-03-16T21:16:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'I felt like giving up'",
     "desc": "Actress Tejaswini Kolhapure has opened up about the pressures of coming from a well-known film family and constantly being compared to her sister, veteran actor Padmini Kolhapure. Speaking about the expectations that come with such a background, Tejaswini said the visibility may open doors but it also brings immense scrutiny.",
     "img": "https://static.toiimg.com/photo/msid-129618728,imgsize-97166.cms",
@@ -16,15 +151,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/naval-ships-escort-indian-vessels-from-gulf-of-oman/article70750900.ece",
     "time": "2026-03-16T21:02:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold",
-    "desc": "BJP national president Nitin Nabin and Bihar CM Nitish Kumar romp home as NDA secures all five Rajya Sabha seats in Bihar; the party also secures victory of three candidates in Odisha; BJP and the Congress file separate plaints in Haryana",
-    "img": "https://th-i.thgim.com/public/incoming/2exzbo/article70751483.ece/alternates/LANDSCAPE_1200/20260316661L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
-    "time": "2026-03-16T20:20:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -70,15 +196,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/Delhi/hardeep-puris-daughter-moves-delhi-hc-to-remove-content-linking-her-to-jeffrey-epstein/article70750474.ece",
     "time": "2026-03-16T18:03:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NDA dominates poll round, sweeps Bihar and bags three in Odisha; Haryana result put on hold",
-    "desc": "The NDA has significantly bolstered its Rajya Sabha presence, securing all five seats in Bihar and three of four in Odisha. Haryana's results are pending due to a vote secrecy controversy involving Congress MLAs. This round of elections saw the NDA win eight of eleven contested seats, strengthening its position in the Upper House.",
-    "img": "https://static.toiimg.com/photo/msid-129616180,imgsize-184646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rajya-sabha-elections-results-nda-dominates-poll-round-sweeps-bihar-and-bags-three-in-odisha-haryana-result-put-on-hold/articleshow/129616083.cms",
-    "time": "2026-03-16T17:48:06.000Z"
   },
   {
     "cat": "Sports",
@@ -151,15 +268,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/pension-issue-of-aided-educational-institutions-staff-will-be-referred-to-committee-madhu-bangarappa/article70749954.ece",
     "time": "2026-03-16T15:43:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Stranded in Doha, Chennai resident reaches Riyadh by road to fly back home",
-    "desc": "Varun Krishnan, who departed for Barcelona on February 28 and returned home on March 7, says the episode has changed the way he views travel — what once seemed like a predictable system of schedules and connections now appears far more uncertain and fragile",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/d18wfm/article70750956.ece/alternates/LANDSCAPE_1200/DSC_4725.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/stranded-in-doha-chennai-resident-reaches-riyadh-by-road-to-fly-back-home/article70750961.ece",
-    "time": "2026-03-16T15:43:21.000Z"
   },
   {
     "cat": "Politics",
@@ -243,15 +351,6 @@ const newsData_en = [
     "time": "2026-03-16T15:26:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "TDP accuses YSRCP of ‘legal terrorism’ to stall investments in Andhra Pradesh",
-    "desc": "Party spokesman Neelayapalem Vijay Kumar alleges that the Opposition is obstructing projects such as the proposed Google data centre in Visakhapatnam, hampering the State’s efforts to compete with regional IT hubs such as Hyderabad and Bengaluru",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-accuses-ysrcp-of-legal-terrorism-to-stall-investments-in-andhra-pradesh/article70750748.ece",
-    "time": "2026-03-16T15:13:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ishan Kishan likely to lead SRH",
     "desc": "Ishan Kishan is the leading candidate to captain Sunrisers Hyderabad in the Indian Premier League 2026 if Pat Cummins is unavailable at the start. Kishan enters the season in strong form after scoring 354 runs in IPL 2025 and 317 runs for the India national cricket team in the ICC Men's T20 World Cup 2026, where he helped India win the title. Abhishek Sharma will be Ishan's deputy.",
@@ -289,48 +388,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Rishab Shetty’s next directorial to be mythological",
-    "desc": "Following 'Kantara's' phenomenal success, Rishab Shetty has confirmed his next directorial venture will be a mythological tale. While currently focused on acting in 'Jai Hanuman,' Shetty is actively developing his next directorial project. This has fueled speculation that he might be involved with the long-delayed 'Randamoozham' adaptation, a retelling of the Mahabharata's Bhima.",
-    "img": "https://static.toiimg.com/photo/msid-129612906,imgsize-133536.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/rishab-shettys-next-directorial-to-be-mythological-fans-think-his-randamoozham-finally-on-track/articleshow/129612906.cms",
-    "time": "2026-03-16T14:59:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hema reacts to Dharmendra being snubbed at Oscars, but here's the truth",
-    "desc": "Indian fans expressed disappointment as veteran actor Dharmendra was seemingly overlooked in the Oscars 2026 'In Memoriam' segment. While his name appeared on the Oscars website, the live broadcast omitted him, sparking online debate. Hema Malini voiced her dismay, calling it a 'shame' for the Academy to ignore such a globally recognized star.",
-    "img": "https://static.toiimg.com/photo/msid-129612339,imgsize-26134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hema-malini-reacts-to-dharmendra-being-snubbed-at-oscars-2026-but-was-he-really-missing-from-the-in-memoriam-segment-heres-the-truth/articleshow/129612062.cms",
-    "time": "2026-03-16T14:35:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "KJo broke into tears when a troll commented he's depriving his kids of a mother",
     "desc": "Filmmaker Karan Johar candidly discussed the emotional toll of online criticism regarding his single parenthood. A comment questioning his decision to deny his children a mother deeply affected him, leading to tears. However, his children's affirmation of their happiness with him as 'Dada' reassured him, reinforcing his commitment to his family.",
     "img": "https://static.toiimg.com/photo/msid-129611572,imgsize-37066.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-broke-into-tears-when-a-troll-commented-hes-denied-his-children-a-mother-it-made-me-question-/articleshow/129611587.cms",
     "time": "2026-03-16T13:42:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India ‘engaged’ with U.S. on trade deal, says Commerce Secretary as officials warn of delays",
-    "desc": "Sources in the Ministry of Commerce and Industry say India will sign the deal only once the final “tariff architecture” of the U.S. becomes clear; this comes against the backdrop of a temporary 10% tariff by the U.S. and two new investigations it has launched on trade partners, including India.",
-    "img": "https://th-i.thgim.com/public/incoming/dhbcie/article70749866.ece/alternates/LANDSCAPE_1200/PTI01_27_2026_000329A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/india-engaged-with-us-on-trade-deal-says-commerce-secretary-as-officials-warn-of-delays/article70749810.ece",
-    "time": "2026-03-16T13:30:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nana scolded Pankaj for taking a small role in Kaala",
-    "desc": "Nana Patekar urged actors to know their worth and pick roles wisely, recalling his shock at seeing Pankaj Tripathi in a tiny cop role in Rajinikanth's 'Kaala'. \"Pankaj, what are you doing here?\" he asked, warning, \"You're already big—don't do small parts or I'll beat you!\" Pankaj rose to fame via 'Mirzapur' and 'Stree'.",
-    "img": "https://static.toiimg.com/photo/msid-129611135,imgsize-67846.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-scolded-pankaj-tripathi-for-taking-a-small-role-in-rajinikanths-kaala-ill-beat-you/articleshow/129611135.cms",
-    "time": "2026-03-16T13:22:16.000Z"
   },
   {
     "cat": "Sports",
@@ -351,15 +414,6 @@ const newsData_en = [
     "time": "2026-03-16T13:15:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Marvel fans can't keep calm as Robert Downey Jr, Chris Evans reunite",
-    "desc": "At the Oscars, Robert Downey Jr. and Chris Evans turned up the laughter with their unexpected onstage reunion while presenting awards for screenplay excellence. Downey cleverly unveiled a dazzling thong from 'Magic Mike,' leading to a playful banter that even had Channing Tatum chortling in the audience.",
-    "img": "https://static.toiimg.com/photo/msid-129610938,imgsize-81930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/marvel-fans-cant-keep-calm-as-robert-downey-jr-chris-evans-reunite-at-oscars-2026/articleshow/129610938.cms",
-    "time": "2026-03-16T13:13:12.000Z"
-  },
-  {
     "cat": "World",
     "title": "Inside Nigeria’s backyard mining boom driven by poverty",
     "desc": "Families in central Nigeria are digging deep mining shafts in their own backyards in search of minerals such as tin and columbite. This video looks at why backyard mining is spreading in Jos, the dangers involved, and how poverty is pushing families to dig for survival beneath their own homes.",
@@ -367,42 +421,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-inside-nigerias-backyard-mining-boom-driven-by-poverty/article70750154.ece",
     "time": "2026-03-16T13:12:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Thalapathy Vijay's 'Jana Nayagan' to be reviewed tomorrow",
-    "desc": "Thalapathy Vijay's 'Jana Nayagan' faces a revised censor screening on March 17th after earlier postponements. This crucial step follows court intervention and ongoing certification delays, which have also impacted the film's OTT deal. High expectations surround the movie, potentially Vijay's last before his political focus, as fans await a release date post-certification.",
-    "img": "https://static.toiimg.com/photo/msid-129610752,imgsize-366750.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-row-revising-committee-to-watch-thalapathy-vijays-film-on-this-date/articleshow/129610752.cms",
-    "time": "2026-03-16T13:06:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All The Empty Rooms wins, sparking tears",
-    "desc": "The 98th Academy Awards turned into a moment of reckoning as 'All the Empty Rooms' clinched the award for Best Documentary Short Film. This impactful documentary sheds light on the silent witnesses of gun violence—the unoccupied bedrooms of children lost to senseless school shootings.",
-    "img": "https://static.toiimg.com/photo/msid-129610709,imgsize-110086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-the-victory-of-all-the-empty-rooms-makes-for-one-of-the-most-emotional-moments/articleshow/129610709.cms",
-    "time": "2026-03-16T13:05:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Suriya's'Vishwanath &amp; Sons' teaser hints at unusual romance",
-    "desc": "The teaser for 'Vishwanath & Sons' is out, showcasing Suriya as a driven pistol shooter. The film hints at an unusual romance with Mamitha Baiju. Directed by Venky Atluri, the movie explores ambition and family issues. Suriya delivers a mature performance, and Mamitha Baiju adds fresh energy. G. V. Prakash Kumar's music and Nimish Ravi's cinematography enhance the drama.",
-    "img": "https://static.toiimg.com/photo/msid-129610620,imgsize-111878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-sons-teaser-out-the-suriya-mamitha-baiju-starrer-hints-at-unusual-romance/articleshow/129610620.cms",
-    "time": "2026-03-16T12:59:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shreya secretly watched SRK's Fauji during music lessons",
-    "desc": "Shreya Ghoshal was shocked as her guru Mahesh Chandra Sharma shared how she ditched music classes to watch Fauji and Ramayan at his home. \"Kids are naughty,\" he laughed, praising her sincerity. An emotional letter from young Shreya moved the set. Fauji launched SRK's iconic career in 1989.",
-    "img": "https://static.toiimg.com/photo/msid-129610141,imgsize-32126.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/shreya-ghoshal-secretly-watched-shah-rukh-khans-fauji-during-music-lessons-reveals-her-guru-mahesh-chandra-sharma/articleshow/129610141.cms",
-    "time": "2026-03-16T12:34:41.000Z"
   },
   {
     "cat": "Sports",
@@ -738,15 +756,6 @@ const newsData_en = [
     "time": "2026-03-14T09:33:53.000Z"
   },
   {
-    "cat": "World",
-    "title": "The Indians caught in the crossfire",
-    "desc": "Since February 28, when Israel and the U.S. jointly attacked Iran, plunging the entire West Asian region into war, thousands of Indian tourists and expatriates have been left stranded across the Gulf. Indian missions have struggled to keep up with requests and demands. From missile and drone strikes, to soaring prices, to communication blackouts, the conflict has left civilians vulnerable, reports Kallol Bhattacherjee",
-    "img": "https://th-i.thgim.com/public/incoming/354lur/article70740586.ece/alternates/LANDSCAPE_1200/Emirates_Iran_Stranded_Travellers_94426.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-asia-crisis-the-indians-caught-in-the-crossfire/article70740599.ece",
-    "time": "2026-03-14T07:34:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Women’s WC Qualifiers: India pips Italy, advances to the final",
     "desc": "India finally found the breakthrough in the 40th minute, with a stroke of fortune. Manisha’s drag-flick from a penalty corner took deflections off Teresa Dalla Vittoria and Sofia Laurito, wrong-footing Caruso and sailing into the net",
@@ -754,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/india-pips-italy-advances-to-the-final/article70741070.ece",
     "time": "2026-03-14T04:03:46.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "South Korea's PM, Trump discuss possible talks with North’s Kim Jong Un",
-    "desc": "Mr. Kim did not say what specific suggestions he made to Mr. Trump but said he told Mr. Trump that recent comments by Pyongyang indicated Mr. Kim may be open to dialogue with the U.S.",
-    "img": "https://th-i.thgim.com/public/incoming/ri2jhe/article70742206.ece/alternates/LANDSCAPE_1200/2026-03-14T000814Z_85781024_RC2Z3KABP7HK_RTRMADP_3_USA-TRUMP-SOUTHKOREA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/south-koreas-pm-trump-discuss-possible-talks-with-norths-kim-jong-un/article70741295.ece",
-    "time": "2026-03-14T03:02:33.000Z"
   },
   {
     "cat": "Sports",

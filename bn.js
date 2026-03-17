@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "বিনা পুঁজিতে লাভের ব্যবসা! ৪০-৫০ টাকা কেজি দরে বিক্রি, জঙ্গলের কুড়ানো এই ফুলেই আয়ের মুখ দেখছেন গ্রাম্য বধূরা",
+    "desc": "জঙ্গলমহলের জঙ্গলে এখন ঝরে পড়ছে ‘হলুদ সোনা’। বিনিয়োগ বলতে কেবল ভোরবেলা থেকে হাড়ভাঙা পরিশ্রম। সেই কুড়ানো এই ফুল শুকিয়ে বাজারে বিক্রি করেই এখন লাভের মুখ দেখছেন শয়ে শয়ে মহিলা। এই ক্ষুদ্র ব্যবসাই এখন জঙ্গলমহলের গ্রামীণ অর্থনীতিতে যোগাচ্ছে নতুন অক্সিজেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/mahua-flower-collectio-2026-03-fdf3016e8bb6f3a82a859b22fe2729f5-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/mahua-flower-profit-jungle-mahal-women-livelihood-mahua-flower-sale-profit-l18-local18-2587172.html",
+    "time": "2026-03-17T00:38:02.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "৫৪,০০০ টন LPG নিয়ে ভারতে পৌঁছাল শিবালিক: বিধিনিষেধও শিথিল কেন্দ্রের, মাসে কটি সিলিন্ডার এখন?",
     "desc": "সোমবার নতুন নির্দেশিকায় এলপিজি ডিস্ট্রিবিউটরদের বলা হয়েছে কোনও প্রতিষ্ঠান এক মাসে মোট যতটা বাণিজ্যিক এলপিজি নেয়, তার ২০ শতাংশ তাকে ডেলিভারি দিতে হবে। অর্থাৎ আপনার যদি মাসে ১০০টি ১৯ কেজি বাণিজ্যিক সিলিন্ডার চাহিদা থাকে, তাহলে আপনি সিলিন্ডার পাবেন...",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/south-cinema-actor-thalapathy-vijay-rumoured-girlfriend-trisha-krishnan-net-worth-peek-into-luxurious-lifestyle-see-here-rds-2576112.html",
     "time": "2026-03-09T10:58:45.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "'ভারতীয়দের নিরাপত্তা অগ্রাধিকার, তিনটি ইরানি জাহাজকে আশ্রয় দেওয়া হয়েছে ভারতে', জানালেন বিদেশমন্ত্রী",
-    "desc": "২৮ ফেব্রুয়ারি ইরানে মার্কিন যুক্তরাষ্ট্র ও ইজরায়েলের যৌথ সামরিক হামলায় খামেনেইয়ের মৃত্যুর পর পশ্চিম এশিয়ায় তীব্র উত্তেজনা বৃদ্ধি পাওয়ার পরেই এহেন মন্তব্য করেন বিদেশমন্ত্রী। এই হামলায় ইসলামিক প্রজাতন্ত্রের বেশ কয়েকজন নেতা নিহত হয়েছেন বলেও জানা গিয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/jai-1-2026-03-17e1d087117264826eb1bd693464fb8c-1200x800.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/eam-jaishankar-briefs-parliament-on-west-asia-conflict-rmj-ws-l-2575572.html",
-    "time": "2026-03-09T08:08:24.000Z"
   }
 ];
