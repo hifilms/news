@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Where to watch UEFA Champions League clash on TV and stream online in India?",
+    "desc": "Manchester City need to pull off a miracle at Etihad Stadium to beat Real Madrid by a four-goal margin to qualify for the quarter-final of the UEFA Champions League. Courtesy of a Federico Valverde hat-trick...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/real-madrid-vs-manchester-city-where-to-watch-uefa-champions-league-clash-on-tv-and-stream-online-in-india-2026-03-17-1034108",
+    "time": "2026-03-17T18:07:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Adar Poonawalla, Manchester United co-owners exit race to buy RCB, two contenders remain",
+    "desc": "The ownership battle for Royal Challengers Bengaluru has entered its final stage, with only two bidders left after the submission of binding offers. United Spirits, part of the Diageo group, is now preparing to review...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/adar-poonawalla-manchester-united-co-owners-exit-race-to-buy-rcb-two-contenders-remain-2026-03-17-1034106",
+    "time": "2026-03-17T17:43:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "MCC slams Salman Agha over frustration after run-out against Bangladesh in second ODI",
     "desc": "The Marylebone Cricket Club (MCC) has weighed in on a contentious run-out involving Pakistan’s Salman Agha during the second ODI against Bangladesh in Mirpur. The moment unfolded late in Pakistan’s innings at the Sher-e-Bangla National...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-breaks-silence-on-his-exit-from-rajasthan-royals-opens-up-on-facing-them-in-ipl-2026-2026-03-17-1034037",
     "time": "2026-03-17T07:37:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand defeat South Africa by 68 runs",
-    "desc": "New Zealand and South Africa take on each other in the 2nd T20I of the ongoing series. The two sides lock horns at Seddon Park in Hamilton on March 17. The clash has begun on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-sa-2nd-t20i-live-score-new-zealand-hope-for-good-start-with-the-bat-2026-03-17-1034027",
-    "time": "2026-03-17T06:49:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dane van Niekerk ruled out of New Zealand tour sustaining calf injury",
-    "desc": "With New Zealand women and South Africa women taking on each other in a five-game T20I series, South Africa women have been hit with a major roadblock, as star all-rounder Dane van Niekerk has been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dane-van-niekerk-ruled-out-of-new-zealand-tour-sustaining-calf-injury-2026-03-17-1034023",
-    "time": "2026-03-17T06:23:05.000Z"
   }
 ];

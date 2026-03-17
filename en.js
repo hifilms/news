@@ -1,12 +1,192 @@
 const newsData_en = [
   {
-    "cat": "World",
-    "title": "Iran-Israel war LIVE: U.S. top counterterrorism official resigns over Iran war",
-    "desc": "Joe Kent, director of the National Counterterrorism Centre, said Iran “posed no imminent threat to our nation, and it is clear that we started this war due to pressure from Israel and its powerful American lobby”; no immediate comment from the White House",
+    "cat": "Politics",
+    "title": "Amid confusion over internal reservation, Karnataka SC/ST commission holds deliberations",
+    "desc": "Amid confusion over the internal reservation among Scheduled Castes, and reduction of overall reservation to Scheduled Castes and Scheduled Tribes from 56% to 50% for recruitment to 56,432 posts, the Karnataka State Commission for Scheduled Castes and Scheduled Tribes held deliberations with senior officials, former KPSC functionaries, and community representatives",
+    "img": "https://th-i.thgim.com/public/incoming/od0y3a/article70755572.ece/alternates/LANDSCAPE_1200/SC_and_ST_03.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/amid-confusion-over-internal-reservation-karnataka-scst-commission-holds-deliberations/article70754714.ece",
+    "time": "2026-03-17T18:29:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gippy Grewal receives alleged threat from Goldy Brar",
+    "desc": "A purported audio clip allegedly linked to foreign-based gangster Goldy Brar threatening Punjabi actor-singer Gippy Grewal surfaced on social media on Tuesday, sparking concern among fans and industry insiders. In the unverified audio recording, the caller—believed to be Brar—can be heard confronting Grewal for not responding to an earlier message, as reported by PTI.",
+    "img": "https://static.toiimg.com/photo/msid-129639942,imgsize-105514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/punjabi/movies/news/message-can-be-ignored-not-bullets-gippy-grewal-receives-alleged-threat-from-goldy-brar-chilling-audio-clip-goes-viral/articleshow/129639942.cms",
+    "time": "2026-03-17T18:28:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nemom constituency in for a tight and unpredictable contest",
+    "desc": "While LDF has announced incumbent MLA V. Sivankutty as its candidate, Rajeev Chandrasekhar will contest for NDA. UDF yet to propose its candidate. With BJP again setting high hopes for constituency, LDF fighting hard to defend its turf and UDF yet to reveal its cards, an exciting contest is on the cards in Nemom",
+    "img": "https://th-i.thgim.com/public/incoming/hq4avi/article70755542.ece/alternates/LANDSCAPE_1200/ThiruvananthapuGM3FNJ7NE.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2026-nemom-constituency-in-for-a-tight-and-unpredictable-contest/article70750037.ece",
+    "time": "2026-03-17T18:09:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dhurandhar 2 is a tsunami’: Ranveer’s film eyes Rs 1000 cr",
+    "desc": "The Revenge, the buzz around the Ranveer Singh starrer has reached unprecedented levels. Riding high on the success of its first part, the sequel is already making waves with massive advance bookings and near housefull paid previews.",
+    "img": "https://static.toiimg.com/photo/msid-129639453,imgsize-49000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-is-a-tsunami-trade-predicts-ranveer-singhs-film-to-shatter-records-eyes-rs-1000-crore-milestone/articleshow/129639453.cms",
+    "time": "2026-03-17T18:07:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Redeployment of specialist doctors from CHCs to taluk hospitals done to reduce neonatal mortality, says Karnataka Health Minister",
+    "desc": "Health Minister Dinesh Gundu Rao has said that redeployment of gynaecologists and anaesthetists from community health centres in rural areas with lesser deliveries to taluk hospitals was done in an effort to reduce neonatal deaths after an audit of neonatal deaths in different areas of the State",
+    "img": "https://th-i.thgim.com/public/incoming/9h9cw1/article70755142.ece/alternates/LANDSCAPE_1200/Assembly%206.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/redeployment-of-specialist-doctors-from-chcs-to-taluk-hospitals-done-to-reduce-neonatal-mortality-says-karnataka-health-minister/article70755068.ece",
+    "time": "2026-03-17T17:59:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka Health Minister",
+    "desc": "Acknowledging that there were some problems related to the supply of certain medicines at primary health centres in the State, Health and Family Welfare Minister Dinesh Gundu Rao, however, told the Legislative Council that the drugs were not in short supply at State-run hospitals at the district and the taluk level",
+    "img": "https://th-i.thgim.com/public/incoming/q5h6dk/article70755261.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UUE5GG710_R1551375658_0_141e039b-c03b-4001-a3b5-61622d7490b6.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/there-are-some-problems-in-supply-of-certain-drugs-only-at-primary-health-centres-karnataka-health-minister/article70755158.ece",
+    "time": "2026-03-17T17:59:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Anti-Ambedkar' BJP used money power, deployed ‘agent RO’ to defeat dalit activist in Haryana Rajya Sabha: Congress",
+    "desc": "Congress accused the BJP of using \"money power, threats, and a partisan returning officer\" to secure victory in the Haryana Rajya Sabha polls. The party alleged that five Congress MLAs cross-voted and four votes were wrongly invalidated, claiming the BJP \"murdered democracy.\" Congress vowed strong action against the MLAs who betrayed the party's mandate.",
+    "img": "https://static.toiimg.com/photo/msid-129639363,imgsize-158100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/anti-ambedkar-bjp-used-money-power-deployed-agent-ro-to-defeat-dalit-activist-in-haryana-rajya-sabha-congress/articleshow/129639311.cms",
+    "time": "2026-03-17T17:58:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India to face Pakistan in Hockey World Cup group stage",
+    "desc": "India's men's and women's hockey teams have learned their group-stage opponents for the FIH Hockey World Cup, with both sides drawn in Pool D. The men will face Pakistan, England, and Wales, while the women will compete against China, England, and South Africa. Both teams will play their matches in the Netherlands.",
+    "img": "https://static.toiimg.com/photo/msid-129639173,imgsize-57464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-to-face-pakistan-in-hockey-world-cup-group-stage/articleshow/129638977.cms",
+    "time": "2026-03-17T17:50:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ramit Tandon",
+    "desc": "From training bases in the United States to competing at home in Mumbai, The Indian men’s No. 2 is balancing preparation and performance. He shares insights on life on tour and discusses his Asian Games ambitions, the depth in Indian squash, and the challenge of breaking into the world’s elite",
+    "img": "https://th-i.thgim.com/public/incoming/gcv3sp/article70755386.ece/alternates/LANDSCAPE_1200/DSC04011.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/all-our-scheduling-is-going-to-revolve-around-peaking-for-the-asian-games-ramit-tandon/article70755322.ece",
+    "time": "2026-03-17T17:39:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Land acquisition notification ahead of polls keeps Sabari rail hopes alive",
+    "desc": "The notification, which mentions the survey numbers of land parcels to be acquired in Ernakulam, Kottayam and Idukki districts, was issued by the Revenue department on March 14, a day before the Assembly election was announced",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-usa-war-live-updates-march-17-2026/article70752382.ece",
-    "time": "2026-03-17T15:51:04.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/land-acquisition-notification-ahead-of-polls-keeps-sabari-rail-hopes-alive/article70755153.ece",
+    "time": "2026-03-17T17:39:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court",
+    "desc": "The Supreme Court has acquitted a son and his wife, who spent eight years in jail for allegedly killing his parents in a house fire. The court lambasted the investigation as a \"sham\" and \"premeditated,\" highlighting procedural flaws and a lack of concrete evidence.",
+    "img": "https://static.toiimg.com/photo/msid-129638875,imgsize-119118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/overzealous-investigation-is-as-fatal-as-lethargic-and-tardy-supreme-court/articleshow/129638809.cms",
+    "time": "2026-03-17T17:33:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress, Rahul Gandhi endorsing ‘anti-India’ report, claims BJP",
+    "desc": "The report by the U.S. Commission on International Religious Freedom (USCIRF) undermines India’s image as it sought sanctions on the Rashtriya Swayamsevak Sangh (RSS) and the Research & Analysis Wing (RAW), says party spokesperson Sambit Patra",
+    "img": "https://th-i.thgim.com/public/incoming/mcptyd/article70755485.ece/alternates/LANDSCAPE_1200/PTI12_02_2025_000357A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-rahul-gandhi-endorsing-anti-india-report-claims-bjp/article70755211.ece",
+    "time": "2026-03-17T17:29:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Rahul Gandhi must apologise to the nation’: 204 retired officers, Army veterans and advocates slam LOP in open letter on Parliament conduct",
+    "desc": "Over 200 retired officials, including veterans and former bureaucrats, have penned an open letter criticizing Rahul Gandhi and other opposition MPs for their conduct within Parliament on March 12. They deemed the protest on Parliament steps a \"conscious disregard for parliamentary authority\" and urged Gandhi to apologize for undermining the \"temple of democracy.\"",
+    "img": "https://static.toiimg.com/photo/msid-129638699,imgsize-1045034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-must-apologise-to-the-nation-204-retired-officers-army-veterans-and-advocates-slam-lop-in-open-letter-on-parliament-conduct/articleshow/129638084.cms",
+    "time": "2026-03-17T17:27:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NCB marks 41st Raising Day with nationwide youth programmes promoting a drug-free India",
+    "desc": "The Narcotics Control Bureau celebrated its 41st Raising Day with nationwide youth mobilization programs for a Drug-Free India. Events across nearly 40 locations included anti-drug pledges, awareness sessions, and rallies, emphasizing healthy lifestyle choices and the consequences of substance abuse. Participants were encouraged to utilize the MANAS Helpline for reporting and assistance.",
+    "img": "https://static.toiimg.com/photo/msid-129637663,imgsize-648439.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ncb-marks-41st-raising-day-with-nationwide-youth-programmes-promoting-a-drug-free-india/articleshow/129637558.cms",
+    "time": "2026-03-17T16:34:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MDMK calls for total prohibition and life imprisonment for sexual offenders",
+    "desc": "In its manifesto released on Tuesday (March 17, 2026) by party general secretary Vaiko, the MDMK said Tamil Nadu should be free from liquor and other drugs which are ‘responsible for the degeneration of youth’",
+    "img": "https://th-i.thgim.com/public/incoming/nbfvpf/article70755194.ece/alternates/LANDSCAPE_1200/DSC_3286.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/mdmk-calls-for-total-prohibition-and-life-imprisonment-for-sexual-offenders/article70754977.ece",
+    "time": "2026-03-17T16:29:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "India terms Pakistan’s bombing of drug rehab centre in Kabul a ‘barbaric’ act",
+    "desc": "The Omid Drug Addiction Treatment Hospital in Kabul is a former U.S. military base that has been converted into a drug addiction treatment centre for Afghanistan’s drug addicts; the Taliban administration has revealed that the bombing led to the death of 400 people seeking treatment in the facility; MEA spokesperson says the ‘heinous act of aggression by Pakistan is also a blatant assault on Afghanistan’s sovereignty’",
+    "img": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/e301eo/article70754527.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-17%20at%206.38.14%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kabul-hospital-airstrike-pakistan-afghanistan-conflict-india-response-march-17-2026/article70752886.ece",
+    "time": "2026-03-17T16:27:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sobhita reused her Ponniyin Selvan jewellery for wedding",
+    "desc": "Sobhita Dhulipala’s bridal look at her wedding with Naga Chaitanya may have looked effortless and rooted in tradition, but it came with a story that began years earlier—on the sets of Ponniyin Selvan. The designer also spoke about her experience working with Aishwarya Rai Bachchan, underlining the level of precision the actress brings to her craft.",
+    "img": "https://static.toiimg.com/photo/msid-129637324,imgsize-84522.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sobhita-dhulipala-reused-her-ponniyin-selvan-jewellery-for-wedding-with-naga-chaitanya-designer-calls-aishwarya-rai-a-thorough-professional/articleshow/129637324.cms",
+    "time": "2026-03-17T16:20:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 Countdown",
+    "desc": "The PBKS skipper’s role will be to hold the batting contingent together; the willow-wielders are expected to stick to their slam-bang approach, whereas the plethora of all-rounders available will provide a happy headache for Ponting & Co.",
+    "img": "https://th-i.thgim.com/public/sport/v5n2l/article70754254.ece/alternates/LANDSCAPE_1200/ponting%20shreyas.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-countdown-shreyas-kings-have-the-resources-to-go-one-step-further/article70754195.ece",
+    "time": "2026-03-17T16:12:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. does ‘not need’ help from allies on Iran, says Donald Trump",
+    "desc": "Iran’s attacks on Gulf nations and its grip on the Strait of Hormuz, through which a fifth of the world’s oil is transported, have sparked increasing concerns of a global energy crisis and are unnerving the world economy",
+    "img": "https://th-i.thgim.com/public/incoming/otr6n8/article70755200.ece/alternates/LANDSCAPE_1200/2026-03-16T205407Z_1119138847_RC2W5KA7KSRA_RTRMADP_3_USA-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-does-not-need-help-from-allies-on-iran-says-donald-trump/article70755208.ece",
+    "time": "2026-03-17T16:09:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prabhu Deva sells two apartments in Mumbai worth Rs 14.80 crore",
+    "desc": "Actor and choreographer Prabhu Deva has sold two South Mumbai apartments for ₹14.80 crore, which he originally purchased for ₹14.45 crore in 2012. The 1,295 sq ft flats, located on the 32nd and 33rd floors, were sold for ₹7.40 crore each. The deal was registered on March 13, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-129637080,imgsize-45088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prabhu-deva-sells-two-apartments-in-mumbai-worth-rs-14-80-crore-details-inside/articleshow/129637043.cms",
+    "time": "2026-03-17T15:58:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Athawale",
+    "desc": "Union Minister Ramdas Athawale highlighted Census 2027 as a crucial opportunity for accurate disability data, enabling targeted policymaking post the Rights of Persons with Disabilities Act, 2016. A new handbook aims to help parliamentarians translate legal provisions into actionable policy, addressing barriers faced by persons with disabilities, particularly in healthcare.",
+    "img": "https://static.toiimg.com/photo/msid-129636983,imgsize-469115.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/census-2027-offers-historic-opportunity-to-record-data-on-disabilities-athawale/articleshow/129636958.cms",
+    "time": "2026-03-17T15:54:57.000Z"
   },
   {
     "cat": "Sports",
@@ -108,24 +288,6 @@ const newsData_en = [
     "time": "2026-03-17T14:45:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Govt. sets May 15 as deadline for completion of all irrigation O&M works in Andhra Pradesh",
-    "desc": "Basic maintenance measures such as greasing equipment too have been ignored by the YSRCP government, alleges Water Resources Minister Nimmala Ramanaidu, and directs officials to undertake the works before the commencement of the 2026 Kharif season",
-    "img": "https://th-i.thgim.com/public/incoming/efogkf/article70754701.ece/alternates/LANDSCAPE_1200/PolavaramNallaGB9FEAQH1.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-sets-may-15-as-deadline-for-completion-of-all-irrigation-oampm-works-in-andhra-pradesh/article70754050.ece",
-    "time": "2026-03-17T14:38:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "No LPG shortage in Andhra Pradesh, says CM Naidu",
-    "desc": "Highlighting that the State has sufficient reserves to meet the demand for the next 15 days, the Chief Minister orders strict monitoring of LPG distribution through e-KYC and OTP-based systems to curb the diversion of cylinders",
-    "img": "https://th-i.thgim.com/public/incoming/waq967/article70754577.ece/alternates/LANDSCAPE_1200/10745_17_3_2026_18_23_49_1_IMG_20260317_WA0051.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/no-lpg-shortage-in-andhra-pradesh-says-cm-naidu/article70753894.ece",
-    "time": "2026-03-17T14:18:45.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Only Amitabh Bachchan and I call': Nana says most actors don't talk without managers",
     "desc": "Veteran actor Nana Patekar and director Prakash Jha have voiced concerns about the growing complexity and cost associated with working with big stars. They highlighted how unreachable stars and their large entourages, managed by corporate structures, inflate film budgets, making direct communication and creative collaboration increasingly difficult.",
@@ -151,24 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-dominate-latest-rankings-smriti-mandhana-no-1-harmanpreet-kaur-climbs/articleshow/129634479.cms",
     "time": "2026-03-17T14:12:43.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "India terms Pakistan’s bombing of drug rehab centre in Kabul a ‘barbaric’ act",
-    "desc": "The Omid Drug Addiction Treatment Hospital in Kabul is a former U.S. military base that has been converted into a drug addiction treatment centre for Afghanistan’s drug addicts; the Taliban administration has revealed that the bombing led to the death of 400 people seeking treatment in the facility; MEA spokesperson says the ‘heinous act of aggression by Pakistan is also a blatant assault on Afghanistan’s sovereignty’",
-    "img": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/e301eo/article70754527.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-17%20at%206.38.14%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kabul-hospital-airstrike-pakistan-afghanistan-conflict-india-response-march-17-2026/article70752886.ece",
-    "time": "2026-03-17T14:05:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 Countdown",
-    "desc": "The PBKS skipper’s role will be to hold the batting contingent together; the willow wielders are expected to stick to their slam-bang approach, whereas the plethora of all-rounders available will provide a happy headache for Ponting & Co.",
-    "img": "https://th-i.thgim.com/public/sport/v5n2l/article70754254.ece/alternates/LANDSCAPE_1200/ponting%20shreyas.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-countdown-shreyas-kings-have-the-resources-to-go-one-step-further/article70754195.ece",
-    "time": "2026-03-17T13:38:13.000Z"
   },
   {
     "cat": "Politics",
@@ -315,15 +459,6 @@ const newsData_en = [
     "time": "2026-03-17T11:24:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Adrian Grenier sets condition for acting comeback",
-    "desc": "the projects must shoot near his scenic Texas homestead. With family and a commitment to eco-friendly living at the forefront of his priorities, Grenier welcomes the burgeoning film scene in Texas as a perfect opportunity.",
-    "img": "https://static.toiimg.com/photo/msid-129631072,imgsize-412984.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-devil-wears-prada-actor-adrian-grenier-on-the-one-condition-for-an-acting-comeback-id-like-to-stay-close-to-home/articleshow/129631072.cms",
-    "time": "2026-03-17T11:09:19.000Z"
-  },
-  {
     "cat": "Business",
     "title": "US-Iran war: How the LPG cylinder has become the face of Middle East mayhem's impact on India",
     "desc": "Global tensions in the Middle East are directly impacting Indian households, causing a severe LPG shortage. Rising fuel costs and disrupted shipments have led to panic bookings, long queues, and black marketing, forcing businesses to adapt and highlighting India's heavy reliance on imports. The situation is escalating, affecting daily life and livelihoods across the nation.",
@@ -331,24 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-how-the-lpg-cylinder-has-become-the-face-of-middle-east-mayhems-impact-on-india/articleshow/129628323.cms",
     "time": "2026-03-17T11:08:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Antony Varghese's 'fanboy moment' with Suriya",
-    "desc": "Malayalam actor Antony Varghese shared a fanboy moment with Suriya on the sets of 'Vishwanath and Sons'. He lauded Suriya's dedication to a tough action sequence. Varghese's post has fueled speculation about his potential cameo or role in the film. The movie, a Tamil-Telugu bilingual, stars Suriya, Mamitha Baiju, Raveena Tandon, and Radikaa Sarathkumar.",
-    "img": "https://static.toiimg.com/photo/msid-129630939,imgsize-115006.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/antony-varghese-has-fanboy-moment-with-suriyas-action-sequence-in-vishwanath-and-sons-pure-art/articleshow/129630939.cms",
-    "time": "2026-03-17T11:08:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Teyana Taylor addresses Oscars 2026 backstage clash",
-    "desc": "During the electrifying 2026 Oscars, Teyana Taylor made headlines not just for her film 'One Battle After Another' clinching Best Picture, but for a dramatic backstage showdown with a security guard. After being jostled, she boldly addressed the situation, asserting her unwillingness to accept disrespectful behavior.",
-    "img": "https://static.toiimg.com/photo/msid-129630925,imgsize-115406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/teyana-taylor-addresses-viral-oscars-2026-backstage-confrontation-i-just-dont-tolerate-disrespect/articleshow/129630925.cms",
-    "time": "2026-03-17T11:03:50.000Z"
   },
   {
     "cat": "Business",
@@ -369,15 +486,6 @@ const newsData_en = [
     "time": "2026-03-17T10:35:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "How Harish Rana's case revived memories for Aruna Shanbaug's long, silent fight for dignity in death",
-    "desc": "The Supreme Court has granted approval for passive euthanasia for Harish Rana, a 32-year-old man in a vegetative state for over 13 years. This historic verdict allows the withdrawal of life support, offering a dignified death and ending his family's prolonged agony. The decision follows recommendations from medical boards and personal interaction with Rana's parents.",
-    "img": "https://static.toiimg.com/photo/msid-129629741,imgsize-1300469.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/passive-euthanasia-how-harish-ranas-case-revived-memories-for-aruna-shanbaugs-long-silent-fight-for-dignity-in-death/articleshow/129629282.cms",
-    "time": "2026-03-17T10:19:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Conway shines as New Zealand crush South Africa to level series",
     "desc": "Devon Conway's composed half-century guided New Zealand to 175/6 before a clinical bowling performance secured a 68-run victory over South Africa. Pace bowlers Ben Sears and Lockie Ferguson were instrumental, taking three wickets each as the Proteas were bowled out for 107, leveling the five-match series at 1-1.",
@@ -394,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-am-sorry-how-suryakumar-yadav-diffused-arshdeep-singh-daryl-mitchell-scuffle/articleshow/129628915.cms",
     "time": "2026-03-17T10:12:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Use LPG wisely': Centre says supply 'matter of concern'; advises consumers not to panic",
-    "desc": "India's energy crisis persists due to Middle East conflict, but the government assures consumers about LPG supplies. While urging judicious consumption and alternate fuel use, authorities are conducting raids to curb hoarding and black marketing of LPG cylinders across several states.",
-    "img": "https://static.toiimg.com/photo/msid-129629744,imgsize-910181.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/use-lpg-wisely-centre-says-supply-matter-of-concern-advises-consumers-not-to-panic/articleshow/129629680.cms",
-    "time": "2026-03-17T10:11:22.000Z"
   },
   {
     "cat": "Business",
@@ -439,24 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/iran-war-shakes-skies-emirates-jets-fly-back-to-dubai-nearly-empty-as-travellers-flee/articleshow/129627506.cms",
     "time": "2026-03-17T08:48:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Time doesn't speak, but it waits': Rajinikanth reacts to TVK's 'DMK threat' claim",
-    "desc": "TVK functionary Aadhav Arjuna had alleged that the DMK family threatened actor Rajinikanth when he tried to enter politics. ​​Arjuna said he was not criticising Rajinikanth but added that Vijay had the courage to withstand such pressure. TVK organised protests at district headquarters across Tamil Nadu on Thursday, accusing the state government of failing to maintain law and order.",
-    "img": "https://static.toiimg.com/photo/msid-129627196,imgsize-38254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/time-doesnt-speak-but-it-waits-rajinikanth-reacts-to-tvks-dmk-threat-claim/articleshow/129626830.cms",
-    "time": "2026-03-17T08:32:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Unconstitutional': SC rules adoptive mothers can't be denied maternity leave if child is older than 3 months",
-    "desc": "The Supreme Court has struck down a provision in the Social Security Code 2020 that limited maternity leave for adoptive mothers. The court declared the provision irrational, stating adoptive children are no different from biological ones. Consequently, adoptive mothers are now entitled to 12 weeks of maternity leave, irrespective of the child's age at adoption.",
-    "img": "https://static.toiimg.com/photo/msid-129627656,imgsize-1084681.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/unconstitutional-sc-rules-adoptive-mothers-cant-be-denied-maternity-leave-if-child-is-older-than-3-months/articleshow/129627620.cms",
-    "time": "2026-03-17T08:19:36.000Z"
   },
   {
     "cat": "Sports",
@@ -504,15 +585,6 @@ const newsData_en = [
     "time": "2026-03-17T07:31:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "After Shivalik, Nanda Devi LPG tanker reaches India after navigating through Strait of Hormuz amid war",
-    "desc": "The LPG tanker Nanda Devi arrived in Gujarat carrying 46,500 metric tonnes of LPG, set for ship-to-ship transfer. This marks the second successful LPG carrier navigating the Strait of Hormuz amid global tensions. The shipment will help manage India's LPG supply pressures.",
-    "img": "https://static.toiimg.com/photo/msid-129626705,imgsize-1960260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-after-shivalik-nanda-devi-lpg-tanker-reaches-india-after-navigating-through-strait-of-hormuz-amid-war/articleshow/129625954.cms",
-    "time": "2026-03-17T07:21:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sean Penn skips ceremony to meet Ukraine President Zelenskyy, who calls him a ‘true friend’",
     "desc": "Sean Penn skipped the Oscars despite winning Best Supporting Actor for his role in Paul Thomas Anderson’s ‘One Batte After Another’ to visit Ukraine, where President Volodymyr Zelenskyy thanked him as a “true friend” for his continued support during the war",
@@ -520,24 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-sean-penn-skips-ceremony-to-meet-ukraine-president-zelenskyy-who-calls-him-a-true-friend/article70752942.ece",
     "time": "2026-03-17T07:17:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Targeting civilians is a war crime’: Afghan cricketers react to Pakistan airstrikes",
-    "desc": "Afghanistan's cricket stars, including Naveen-ul-Haq and Rashid Khan, have expressed outrage and grief following a devastating airstrike in Kabul that reportedly killed hundreds. The attack, which targeted a hospital, has intensified tensions between Pakistan and the Taliban administration. Cricketers are calling for accountability and justice for the victims.",
-    "img": "https://static.toiimg.com/photo/msid-129625836,imgsize-79570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/hard-to-find-any-difference-between-israel-and-pakistani-regime-afghanistan-cricketers-react-to-deadly-kabul-airstrikes/articleshow/129625729.cms",
-    "time": "2026-03-17T06:53:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India’s mental health helpline flooded: 34 lakh calls signal rising anxiety crisis",
-    "desc": "India's national mental health helpline, Tele-MANAS, has received over 34.34 lakh calls since its October 2022 launch, indicating a significant rise in demand for psychological support. Uttar Pradesh leads in call volume, with other states like Tamil Nadu and Karnataka also showing high engagement.",
-    "img": "https://static.toiimg.com/photo/msid-129625715,imgsize-30010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indias-mental-health-helpline-flooded-34-lakh-calls-signal-rising-anxiety-crisis/articleshow/129624463.cms",
-    "time": "2026-03-17T06:44:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -565,24 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/iran-war-scare-pragg-vaishali-divya-set-for-candidates-2026-after-koneru-humpy-doubt/articleshow/129624612.cms",
     "time": "2026-03-17T05:50:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "War chokes Middle East supply, oil prices spike globally",
-    "desc": "Global oil prices are soaring due to Middle East conflict. Dubai crude reached an all-time high, becoming the world's most expensive. Supply disruptions are impacting Asian refiners. They are cutting operations or seeking oil from other regions. Middle East exports to Asia have significantly dropped. Trading activity is slowing, with some benchmarks considered broken.",
-    "img": "https://static.toiimg.com/photo/msid-129623968,imgsize-51806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/middle-east-oil-price-strait-of-hormuz-disruption-war-chokes-middle-east-supply-oil-prices-spike-globally/articleshow/129623459.cms",
-    "time": "2026-03-17T05:03:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘My time there was over’: Samson opens up on RR exit, eyes fresh start with CSK",
-    "desc": "Sanju Samson, fresh from T20 World Cup heroics, revealed his Rajasthan Royals departure was a mutual feeling of a journey's end. He's now eager to learn from MS Dhoni at Chennai Super Kings, promising to play his best against his former team despite the unusual opening fixture. Samson aims to repay Chennai's fan support.",
-    "img": "https://static.toiimg.com/photo/msid-129623920,imgsize-41424.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/my-time-there-was-over-sanju-samson-opens-up-on-rajasthan-royals-exit-eyes-fresh-start-with-csk/articleshow/129623895.cms",
-    "time": "2026-03-17T04:59:30.000Z"
   },
   {
     "cat": "Tech",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/rashmika-mandanna-rakshit-shetty-vijay-deverakonda-legal-action-privacy-violating-content-audio-clip-leaked/article70734828.ece",
     "time": "2026-03-12T12:40:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How Padmini Chettur and Preethi Athreya built a platform for contemporary dance in Chennai",
-    "desc": "March Dance, the festival they launched in 2017, aimed to address a vacuum for artistes who did not fit into the traditional dance forms. This year’s edition will be held on March 16, 20 and 21.",
-    "img": "https://th-i.thgim.com/public/entertainment/music/t1w923/article70731014.ece/alternates/LANDSCAPE_1200/13fr_PRIME%20Avantika%20Bahl.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/dance/how-padmini-chettur-and-preethi-athreya-built-a-platform-for-contemporary-dance-in-chennai/article70730493.ece",
-    "time": "2026-03-12T08:40:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Hokum’ trailer: Adam Scott faces witch haunting in Damian McCarthy’s new horror",
-    "desc": "The first trailer for the latest horror film from ‘Oddity’ and ‘Caveat’ director Damian McCarthy, has been unveiled, showing Adam Scott as a novelist drawn into a haunted Irish inn and a mystery tied to a witch haunting its honeymoon suite",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/ihuct2/article70733902.ece/alternates/LANDSCAPE_1200/Hokum_AdamScott_01.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/hokum-trailer-adam-scott-faces-witch-haunting-in-damian-mccarthys-new-horror/article70733903.ece",
-    "time": "2026-03-12T05:23:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Artist Jitish Kallat to chair curator selection for next edition of Kochi-Muziris Biennale",
-    "desc": "Jitish Kallat, who lives and works in Mumbai, is a member of the Board of Trustees of the Kochi Biennale Foundation. He previously served as curator of the second edition of the Kochi–Muziris Biennale (2014–15), titled Whorled Explorations",
-    "img": "https://th-i.thgim.com/public/incoming/owlgiw/article70730567.ece/alternates/LANDSCAPE_1200/Jitish_Kallat_04.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/jitish-kallat-to-chair-curator-selection-for-next-edition-of-kochi-muziris-biennale/article70730461.ece",
-    "time": "2026-03-11T10:21:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Meet Geeta Gandbhir, the director with two separate Oscar-nominated films",
-    "desc": "Geeta Gandbhir, the Indian-origin American filmmaker is waves at this year’s Oscars with not one, but two nominations. Her documentaries, ‘The Perfect Neighbor’ and ‘The Devil is Busy’ are in the race for the Academy Award",
-    "img": "https://th-i.thgim.com/public/incoming/h1ticq/article70730367.ece/alternates/LANDSCAPE_1200/Geeta%20Gandbhir.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-geeta-gandbhir-indian-origin-nominated-documentary-feature-the-perfect-neighbor-the-devil-is-busy/article70730362.ece",
-    "time": "2026-03-11T09:23:08.000Z"
   }
 ];
