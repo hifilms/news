@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Deeply saddened': Rashid Khan and other Afghanistan cricketers condemn Pakistan's deadly airstrikes in Kabul",
+    "desc": "Star Afghanistan all-rounder Rashid Khan has taken to social media to slam Pakistan after civilian casualties were reported in Kabul as a result of the airstrikes by Pakistan. It is worth noting that Pakistan carried...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/deeply-saddened-rashid-khan-and-other-afghanistan-cricketers-condemn-pakistan-s-deadly-airstrikes-in-kabul-2026-03-17-1034008",
+    "time": "2026-03-17T04:03:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harshit Rana set to miss majority of IPL 2026 after knee surgery",
+    "desc": "The IPL (Indian Premier League) 2026 season is all set to kick off on March 28, and ahead of the new season, three-time champions Kolkata Knight Riders seem to be in trouble as their frontline...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-set-to-miss-majority-of-ipl-2026-after-knee-surgery-2026-03-17-1033999",
+    "time": "2026-03-17T02:55:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Chennai Super Kings announce James Foster as new fielding coach ahead of IPL 2026",
     "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee tournament is set to begin on March 28, and ahead of the new season, five-time champions Chennai Super Kings...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/world-cup-2027-west-indies-qualification-chances-hinder-after-bangladesh-s-odi-series-win-over-pakistan-2026-03-16-1033956",
     "time": "2026-03-16T11:17:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aryna Sabalenka defeats Elena Rybakina, clinches Indian Wells 2026 title after stellar showing",
-    "desc": "Belarus’ Aryna Sabalenka re-established herself as one of the best players in world tennis as she defeated Elena Rybakina in the final of Indian Wells 2026. Breaking her tournament curse, Sabalenka clinched her first BNP...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-defeats-elena-rybakina-clinches-indian-wells-2026-title-after-stellar-showing-2026-03-16-1033936",
-    "time": "2026-03-16T08:50:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB and KSCA receive final clearance to host IPL matches at Chinnaswamy Stadium ahead of IPL 2026",
-    "desc": "In a major development of the KSCA-RCB saga, the Karnataka government has given the final clearance to the KSCA (Karnataka State Cricket Association) and RCB (Royal Challengers Bengaluru) for hosting their IPL 2026 matches at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-and-ksca-receive-final-clearance-to-host-ipl-matches-at-chinnaswamy-stadium-ahead-of-ipl-2026-2026-03-16-1033924",
-    "time": "2026-03-16T07:35:32.000Z"
   }
 ];

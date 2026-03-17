@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "કેવી રીતે ગયો હશે આ ભારતીય વિદ્યાર્થીનો જીવ! કેનેડાનો દિલ હચમચાવી નાંખે તેવો કિસ્સો!",
+    "desc": "ઉજ્જૈનના એક યુવાન જે નોર્ધન લાઇટ્સ કોલેજમાં બિઝનેસ મેનેજમેન્ટનો અભ્યાસ કરવા માટે કેનેડા ગયો હતો, તેની હત્યા કરવામાં આવી હતી. કોલેજના વિદ્યાર્થીઓ વચ્ચે ગેંગ વોર દરમિયાન તેનું અપહરણ કરવામાં આવ્યું હતું, ક્રૂરતાથી હુમલો કરવામાં આવ્યો હતો અને પછી કાર દ્વારા કચડી નાખવામાં આવ્યો હતો. આ ક્રૂર હત્યા છતાં કેનેડિયન પોલીસે તાત્કાલિક કસ્ટડીમાં રહેલા આઠ શંકાસ્પદોને છોડી દીધા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/ujjain-student-killed-in-canada-had-gone-to-study-business-management-at-northern-lights-college-468908 ",
+    "time": "2026-03-17T04:33:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LPGનો બાટલો સસ્તો પડે કે પછી ગેસ પાઈપલાઈન? PNG કનેક્શન કેવી રીતે લેવું...ખાસ જાણો",
+    "desc": "ઈઝરાયેલ અને ઈરાન અમેરિકા વચ્ચે ચાલી રહેલા ભીષણ યુદ્ધથી મિડલ ઈસ્ટ ભડકે બળ્યું છે. તેની આંચ બીજા દેશો સુધી પણ પહોંચી છે. ઈરાને હોર્મુઝ જળમાર્ગ બંધ કરતા ભારતના અનેક જહાજ પણ ત્યાં અટવાયેલા છે. આ બધા વચ્ચે દેશમાં એલપીજીના બાટલાની કાળાબજારીના મામલા સામે આવતા લોકો હાલાકી ભોગવી રહ્યા છે. ત્યારે સરકાર હવે પીએનજી ગેસ માટે પણ લોકોને પ્રોત્સાહિત કરી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lpg-cylinder-is-cheaper-or-gas-pipeline-which-one-is-better-option-how-to-get-png-connection-468907 ",
+    "time": "2026-03-17T04:31:24.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "કાળઝાળ ગરમીમાં આ ટેમ્પરેચર પર રાખો AC, અડધું થઈ જશે વીજળીનું બિલ !",
+    "desc": "ઉનાળાની કાળઝાળ ગરમીમાં એર કંડિશનર (AC) રાહત આપે છે, પરંતુ જ્યારે મહિનાના અંતે વીજળીનું બિલ આવે છે, ત્યારે મોટા ભાગના લોકો પણ પરસેવાથી છુટી જાય છે. લોકો ઘણીવાર એવું માને છે કે જો તેઓ ઠંડક ઇચ્છતા હોય, તો તેમણે મોટું બિલ ચૂકવવું પડશે, પરંતુ આ સંપૂર્ણપણે સાચું નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/keep-the-ac-at-this-temperature-in-the-scorching-heat-your-electricity-bill-will-be-reduced-468905 ",
+    "time": "2026-03-17T03:56:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પાકિસ્તાને કાબુલમાં હોસ્પિટલ પર કરેલી એરસ્ટ્રાઈકમાં 400ના મોત, નશાની લત છોડાવવા આવ્યા હતાં લોકો",
+    "desc": "અફઘાનિસ્તાને મોટો દાવો કર્યો છે કે પાકિસ્તાને કાબુલમાં એક રિહેબ સેન્ટર પર હુમલો કર્યો જેમાં 400 લોકોના મોત થયા છે જ્યારે 250થી વધુ લોકો ઘાયલ થયા છે. અફઘાનિસ્તાનના આ દાવાને પાકિસ્તાન ફગાવી રહ્યુ છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/afghanistan-claims-400-killed-in-pakistan-airstrike-on-drug-rehabilitation-hospital-in-kabul-468896 ",
+    "time": "2026-03-17T02:46:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આસમાને પહોંચી રહ્યા છે ક્રૂડ ઓઇલના ભાવ, શું ભારતમાં પણ પેટ્રોલ અને ડીઝલના ભાવ વધશે? જાણો કારણ",
+    "desc": "ગલ્ફ દેશોમાં યુદ્ધ અને ઈરાન દ્વારા હોર્મુઝ સ્ટ્રેટ પર નાકાબંધી કરવાથી ક્રૂડ ઓઈલના ભાવ 136 ડોલર પ્રતિ બેરલને વટાવી ગયા છે. જાણો કે આ ભારતીય અર્થતંત્ર, તેલ કંપનીઓના નફા અને પેટ્રોલ અને ડીઝલના ભાવ પર કેવી અસર કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/crude-oil-prices-are-increasing-rapidly-will-petrol-and-diesel-prices-increase-in-india-too-know-the-reason-468895 ",
+    "time": "2026-03-17T02:40:23.000Z"
+  },
+  {
+    "cat": "World",
     "title": "ઈરાન-ઈઝરાયેલ યુદ્ધ વચ્ચે ચર્ચામાં આવ્યું 130 વર્ષ જૂનું હિન્દુ મંદિર, જાણો ગુજરાત સાથે શું છે કનેક્શન?",
     "desc": "ઈરાનમાં હિન્દુઓની સંખ્યા ઘણી ઓછી છે, પરંતુ હોર્મુઝ પાસે આવેલા બંદર અબ્બાસમાં ભગવાન વિષ્ણુને સમર્પિત લગભગ 130 વર્ષ જૂનું એક હિન્દુ મંદિર આવેલું છે. એવું કહેવાય છે કે, આ મંદિરનું નિર્માણ બ્રિટિશ ઈસ્ટ ઈન્ડિયા કંપનીમાં કામ કરતા ભારતીયો દ્વારા કરવામાં આવ્યું હતું.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -351,15 +396,6 @@ const newsData_gu = [
     "time": "2026-03-15T03:57:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "લગ્ન તૂટવાથી પરેશાન યુવકે કરી શર્મનાક હરકત, યુવતીના ઘરે આવી કર્યું આ કૃત્ય, જાણો સમગ્ર મામલો",
-    "desc": "હૈદરાબાદમાંથી એક અજીબ ઘટના સામે આવી છે. 24 વર્ષીય એક પુરુષના લગ્ન તૂટવાથી તે યુવતી અને તેના પિતા પર નારાજ થયો હતો, આ ઘટના 11 માર્ચે બની હોવાનું પોલીસે જણાવ્યું હતું, યુવતીના ઘરે જઈ શરમજનક કૃત્ય કર્યાનું પણ જાણવા મળી રહ્યું છે. પોલીસે આરોપીની ઘરપકડ કરી લીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/a-young-man-upset-by-the-breakup-of-his-marriage-came-to-the-girl-house-and-did-this-act-know-the-entire-matter-468625 ",
-    "time": "2026-03-14T17:16:03.000Z"
-  },
-  {
     "cat": "World",
     "title": "શું નેતન્યાહૂ ખરેખર ઠીક છે? ઈરાની દૂતાવાસે આપ્યું પહેલું નિવેદન, જાણી લો કેમ ઉઠી છે આ ચર્ચા",
     "desc": "ઈરાન સાથે ચાલી રહેલા યુદ્ધ વચ્ચે, ઈરાની સોશિયલ મીડિયા પ્લેટફોર્મ પર ઈઝરાયલના વડા પ્રધાન બેન્જામિન નેતન્યાહૂની હત્યાની અફવાઓ ફેલાઈ રહી છે. આ દરમિયાન, ઈરાની દૂતાવાસે પોતાનો પહેલું નિવેદન જાહેર કર્યું છે. જોકે, ઈઝરાયેલ આ તમામ બાબતોને અફવા ગણાવી રહ્યું છે પણ આ સવાલો કેમ થઈ રહ્યાં છે જાણી લો આ આર્ટિકલમાં...",
@@ -502,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/fears-of-world-war-iii-iran-to-attack-three-nato-countries-in-48-hours-france-warns-468441 ",
     "time": "2026-03-13T13:06:43.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "હોર્મુઝ બાદ હવે બાબ અલ-મંદેબ પણ થશે બંધ? ઈરાનની ધમકીથી હડકંપ, ભારત માટે ચિંતાજનક!",
-    "desc": "ઈરાને હોર્મુઝ જળમાર્ગ બંધ કરતા હાહાકાર મચ્યો છે. ઈરાને વધુ એક ધમકી આપી છે કે તે બાબ અલ મંદેબને પણ બંધ કરશે અને જો આમ થયું તો ભારત માટે મુશ્કેલીઓ ઊભી થશે. જાણો શું છે આ બાબ અલ મંદેબ અને કઈ રીતે ભારતને મુશ્કેલીમાં મૂકી શકે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/after-hormuz-will-bab-el-mandeb-also-be-closed-irans-threat-worrying-for-india-world-news-in-gujarati-468401 ",
-    "time": "2026-03-13T10:44:40.000Z"
   },
   {
     "cat": "Business",
@@ -718,15 +745,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-horror-comedy-film-on-ott-sarvam-maya-film-imdb-rating-best-south-hindi-film-on-jio-hotstar-467605 ",
     "time": "2026-03-08T02:42:54.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "OMG! 7 સીટર લોકપ્રિય SUV 5 લાખ રૂપિયા સુધી સસ્તી થઈ ગઈ, આ તારીખ સુધી મળશે લાભ",
-    "desc": "મોટું ફેમિલી હોય અને તેમના માટે તમે મોટી ગાડી ખરીદવાનું વિચારતા હોવ એટલે કે 7 સીટર ગાડી ખરીદવી હોય તો આ ગાડી એક સારો વિકલ્પ બની શકે છે. તેમાં તમને 5 લાખ રૂપિયા સુધીનું ડિસ્કાઉન્ટ મળી શકે છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/bumper-discount-up-to-5-lakh-on-skoda-kodiaq-check-last-date-auto-news-in-gujarati-467577 ",
-    "time": "2026-03-07T17:08:09.000Z"
   },
   {
     "cat": "Entertainment",
