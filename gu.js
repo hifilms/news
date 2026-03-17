@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
-    "cat": "World",
-    "title": "કેવી રીતે ગયો હશે આ ભારતીય વિદ્યાર્થીનો જીવ! કેનેડાનો દિલ હચમચાવી નાંખે તેવો કિસ્સો!",
-    "desc": "ઉજ્જૈનના એક યુવાન જે નોર્ધન લાઇટ્સ કોલેજમાં બિઝનેસ મેનેજમેન્ટનો અભ્યાસ કરવા માટે કેનેડા ગયો હતો, તેની હત્યા કરવામાં આવી હતી. કોલેજના વિદ્યાર્થીઓ વચ્ચે ગેંગ વોર દરમિયાન તેનું અપહરણ કરવામાં આવ્યું હતું, ક્રૂરતાથી હુમલો કરવામાં આવ્યો હતો અને પછી કાર દ્વારા કચડી નાખવામાં આવ્યો હતો. આ ક્રૂર હત્યા છતાં કેનેડિયન પોલીસે તાત્કાલિક કસ્ટડીમાં રહેલા આઠ શંકાસ્પદોને છોડી દીધા.",
+    "cat": "Politics",
+    "title": "&amp;#039;બધાની માફી માંગતા જાઓ...&amp;#039; હરીશ રાણાને અંતિમ વિદાય પહેલા કેમ કહેવામાં આવી આ વાત? જાણો તેનો અર્થ?",
+    "desc": "ગાઝિયાબાદના હરીશ રાણાની અંતિમ વિદાય પહેલા આપવામાં આવેલો સંદેશ 'બધાની માફી માંગતા જાઓ' હાલ ચર્ચાનો વિષય બન્યો છે. બ્રહ્માકુમારી સંસ્થા સાથે જોડાયેલા બહેન લવલીએ હરીશને એઈમ્સ (AIIMS) લઈ જતા પહેલા જે શબ્દો કહ્યા હતા, હવે તેનો આધ્યાત્મિક અર્થ સમજાવ્યો છે. નિષ્ણાતોનું કહેવું છે કે અંતિમ સમયે માફીનો સંદેશ માનસિક શાંતિ અને ભાવનાત્મક સંતુલન માટે અત્યંત મહત્વનો માનવામાં આવે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/ujjain-student-killed-in-canada-had-gone-to-study-business-management-at-northern-lights-college-468908 ",
-    "time": "2026-03-17T04:33:59.000Z"
+    "url": " http://zeenews.india.com/gujarati/india/why-were-these-words-spoken-to-harish-rana-before-his-final-farewell-find-out-what-they-mean-468918 ",
+    "time": "2026-03-17T06:58:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રાજ્યસભાની 37 સીટોની ચૂંટણીનું ફાઈનલ સ્કોરકાર્ડ, કોણે મારી બાજી, કોણે ભોગવ્યું નુકસાન, ખાસ જાણો",
+    "desc": "સંસદના ઉપલા ગૃહ એટલે કે રાજ્યસભાની ખાલી થઈ રહેલી 37 સીટો માટે 16 માર્ચના રોજ ચૂંટણી થઈ. જો કે તેમાંથી 26 સભ્યો તો નિર્વિરોધ ચૂંટાઈ આવ્યા એટલે 11 બેઠકો માટે જ મત પડ્યા હતા. મતદાન પત્યા બાદ તરત જ મતગણતરી હાથ ધરાઈ અને પરિણામ પણ આવી ગયા. 37 સીટોમાં કોને કેટલી સીટો ગઈ અને કોણ ફાયદો લઈ ગયું તે તમામ વિગતો જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/explainer-rajya-sabha-election-results-for-37-seats-who-won-who-suffered-loss-know-in-detail-468916 ",
+    "time": "2026-03-17T06:56:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "લેવલ 1 થી 18 સુધી...કયા કર્મચારીઓનો કેટલો વધી શકે છે પગાર, જાણો સંભવિત ફિટમેન્ટ ફેક્ટર?",
+    "desc": "8મા પગાર પંચને મંજૂરી મળ્યા બાદ કર્મચારીઓમાં ભારે ઉત્સુકતા જોવા મળી રહી છે કે આખરે તેમના પગારમાં કેટલો વધારો થશે. ચાલો જાણીએ લેવલ 1 થી 18 સુધીના કર્મચારીઓના પગારમાં કેટલો સંભવિત વધારો થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-levels-1-to-18-which-employees-could-see-a-salary-hike-and-by-how-much-find-out-here-468915 ",
+    "time": "2026-03-17T06:07:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "નોરા ફતેહીના ગીત &amp;#039;સરકે ચુનાર તેરી સરકે&amp;#039; ના શબ્દો કોણે લખ્યા છે, કઈ ફિલ્મનું છે આઇટમ સોંગ?",
+    "desc": "નોરા ફતેહીના વિવાદાસ્પદ ગીત \"સરકે ચુનાર તેરી સરકે\" ને લઈને ચર્ચા વધી રહી છે. અલ્લુ અર્જુનની ફિલ્મ \"પુષ્પા 2\" ના ગીતો લખનારા ગીતકારે નોરા ફતેહીના ગીત \"સરકે ચુનાર તેરી સરકે\" (પુષ્પા 2)ના ગીતો પણ લખ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/who-has-written-the-lyrics-of-nora-fatehi-song-sarke-chunar-teri-sarke-from-which-film-is-the-item-song-468913 ",
+    "time": "2026-03-17T05:30:51.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +42,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/lpg-cylinder-is-cheaper-or-gas-pipeline-which-one-is-better-option-how-to-get-png-connection-468907 ",
-    "time": "2026-03-17T04:31:24.000Z"
+    "time": "2026-03-17T05:10:10.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "કેવી રીતે ગયો હશે આ ભારતીય વિદ્યાર્થીનો જીવ! કેનેડાનો દિલ હચમચાવી નાંખે તેવો કિસ્સો!",
+    "desc": "ઉજ્જૈનના એક યુવાન જે નોર્ધન લાઇટ્સ કોલેજમાં બિઝનેસ મેનેજમેન્ટનો અભ્યાસ કરવા માટે કેનેડા ગયો હતો, તેની હત્યા કરવામાં આવી હતી. કોલેજના વિદ્યાર્થીઓ વચ્ચે ગેંગ વોર દરમિયાન તેનું અપહરણ કરવામાં આવ્યું હતું, ક્રૂરતાથી હુમલો કરવામાં આવ્યો હતો અને પછી કાર દ્વારા કચડી નાખવામાં આવ્યો હતો. આ ક્રૂર હત્યા છતાં કેનેડિયન પોલીસે તાત્કાલિક કસ્ટડીમાં રહેલા આઠ શંકાસ્પદોને છોડી દીધા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/ujjain-student-killed-in-canada-had-gone-to-study-business-management-at-northern-lights-college-468908 ",
+    "time": "2026-03-17T04:33:59.000Z"
   },
   {
     "cat": "Tech",
@@ -387,15 +423,6 @@ const newsData_gu = [
     "time": "2026-03-15T05:09:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "દેશમાં LPG સંકટ વચ્ચે રાહતના સમાચાર : ગેસ ભરેલા બે જહાજ જલ્દી જ ગુજરાતના દરિયા કિનારે પહોંચશે, ઈરાને આપી મંજૂરી",
-    "desc": "ગેસ સંકટ વચ્ચે સામે આવ્યા રાહતના સમાચાર આવ્યા. ભારતને ઈરાને આપી મોટી રાહત આપી છે. બે LPG ટેન્કરને સ્ટ્રેટ ઓફ હોર્મુઝમાંથી પસાર થવાની મંજૂરી આપી દીધી છે. તેથી ટેન્કર શિવાલિકા અને નંદા દેવી જહાજ જલ્દી જ ગુજરાત આવી પહોંચશે. ગેસ ભરેલા બે જહાજ 16 અને 17 માર્ચે ગુજરાતના પોર્ટ પર પહોંચશે. કારણ કે, ઈરાને ભારતના બે જહાજને નીકળવાની મંજૂરી આપી. ગેસ સંકટ હોવાની અફવામાં ન આવવા સરકારની લોકોને સલાહ..",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/two-ship-full-of-lpg-coming-to-gujarat-soon-after-iran-confirms-safe-pa0ssage-from-strait-of-hormuz-468649 ",
-    "time": "2026-03-15T03:57:50.000Z"
-  },
-  {
     "cat": "World",
     "title": "શું નેતન્યાહૂ ખરેખર ઠીક છે? ઈરાની દૂતાવાસે આપ્યું પહેલું નિવેદન, જાણી લો કેમ ઉઠી છે આ ચર્ચા",
     "desc": "ઈરાન સાથે ચાલી રહેલા યુદ્ધ વચ્ચે, ઈરાની સોશિયલ મીડિયા પ્લેટફોર્મ પર ઈઝરાયલના વડા પ્રધાન બેન્જામિન નેતન્યાહૂની હત્યાની અફવાઓ ફેલાઈ રહી છે. આ દરમિયાન, ઈરાની દૂતાવાસે પોતાનો પહેલું નિવેદન જાહેર કર્યું છે. જોકે, ઈઝરાયેલ આ તમામ બાબતોને અફવા ગણાવી રહ્યું છે પણ આ સવાલો કેમ થઈ રહ્યાં છે જાણી લો આ આર્ટિકલમાં...",
@@ -763,14 +790,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/why-actor-ram-charan-stay-bare-foot-why-actor-ram-charan-doing-41-days-ayyappa-deeksha-every-year-467282 ",
     "time": "2026-03-05T07:31:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "હવે ઓટીટી પર આવશે ઓ રોમિયો, જાણો ક્યારે અને કયાં જોવા મળશે શાહિદ કપૂરની ફિલ્મ",
-    "desc": "શાહિદ કપૂરની ફિલ્મ ઓ રોમિયો બોક્સ ઓફિસ પર ધમાકો નથી કરી શકી, પરંતુ શક્ય છે કે ઓટીટી પર આ ફિલ્મ ટ્રેંડ કરે. શાહિદ કપૂરની ફિલ્મ ઓ રોમિયો હવે ઓટીટી પર રિલીઝ માટે તૈયાર છે. જાણી લો આ ફિલ્મ ક્યારે અને કયા ઓટીટી પ્લેટફોર્મ પર જોવા મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/shahid-kapoor-film-o-romeo-ott-release-date-prime-video-467278 ",
-    "time": "2026-03-05T06:43:18.000Z"
   }
 ];

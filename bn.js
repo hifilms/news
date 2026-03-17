@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "US-Israel-Iran War: দুবাই-দোহায় একাধিক বিস্ফোরণ! বাগদাদে মিসাইল হানা ! তেহরান এবং বেইরুটেও পাল্টা হামলা ইজরায়েলি বাহিনীর",
+    "desc": "দুই সপ্তাহেরও বেশি সময় ধরে পশ্চিম এশিয়ায় অস্থিরতা তৈরি হয়ে রয়েছে। আমেরিকার বিভিন্ন ‘বন্ধুদেশ’-এর উপর ধারাবাহিক হামলা চালাচ্ছে ইরান। সোমবার রাতেও সংযুক্ত আরব আমিরশাহিকে লক্ষ্য করে একের পর এক ড্রোন এবং ক্ষেপণাস্ত্রের হামলা শুরু করে ইরান। আমিরশাহির আকাশ প্রতিরক্ষা ব্যবস্থা ওই হামলার বেশির ভাগই প্রতিহত করেছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/03/Gulf-Countries-War-Effect-2026-03-63ec8047e1ec06f2c647ea8a2e05361c-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/us-israel-iran-war-news-middle-east-oil-crisis-conflict-latest-updates-today-drone-missile-attack-dubai-doha-explosions-strait-of-hormuz-ss-2588736.html",
+    "time": "2026-03-17T05:30:32.000Z"
+  },
+  {
     "cat": "Business",
     "title": "বিনা পুঁজিতে লাভের ব্যবসা! ৪০-৫০ টাকা কেজি দরে বিক্রি, জঙ্গলের কুড়ানো এই ফুলেই আয়ের মুখ দেখছেন গ্রাম্য বধূরা",
     "desc": "জঙ্গলমহলের জঙ্গলে এখন ঝরে পড়ছে ‘হলুদ সোনা’। বিনিয়োগ বলতে কেবল ভোরবেলা থেকে হাড়ভাঙা পরিশ্রম। সেই কুড়ানো এই ফুল শুকিয়ে বাজারে বিক্রি করেই এখন লাভের মুখ দেখছেন শয়ে শয়ে মহিলা। এই ক্ষুদ্র ব্যবসাই এখন জঙ্গলমহলের গ্রামীণ অর্থনীতিতে যোগাচ্ছে নতুন অক্সিজেন।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/abhishek-bachchan-and-aishwarya-rai-bachchan-seen-together-at-arjun-tendulkar-marriage-but-jaya-bachchan-avoided-them-pbd-2576266.html",
     "time": "2026-03-09T12:12:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বিলাসবহুল বাংলো-গাড়ি, কোটি কোটি টাকার মালকিন, তবুও ৪২ বছরে একা বিজয়ের চর্চিত প্রেমিকা তৃষা, সম্পত্তির পরিমাণ জানলে ঘুম উড়বে",
-    "desc": "দুই দশকেরও বেশি সময় ধরে তার কেরিয়ারে, তিনি তামিল এবং তেলেগু সিনেমায় অসংখ্য স্মরণীয় এবং সুপারহিট ছবি উপহার দিয়েছেন। তার প্রতিভা, কঠোর পরিশ্রম এবং ধারাবাহিক সাফল্যের জন্য, তৃষা এখন দক্ষিণ ভারতীয় চলচ্চিত্র জগতের সবচেয়ে বিশ্বস্ত এবং সর্বোচ্চ পারিশ্রমিকপ্রাপ্ত অভিনেত্রীদের একজন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/03/1773051701_1773044572_fhgh-2026-03-a85bd564b754913525311d647b669d05-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/south-cinema-actor-thalapathy-vijay-rumoured-girlfriend-trisha-krishnan-net-worth-peek-into-luxurious-lifestyle-see-here-rds-2576112.html",
-    "time": "2026-03-09T10:58:45.000Z"
   }
 ];

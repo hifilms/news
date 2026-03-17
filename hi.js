@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New Zealand hope for good start with the bat",
+    "desc": "New Zealand and South Africa take on each other in the 2nd T20I of the ongoing series. The two sides lock horns at Seddon Park in Hamilton on March 17. The clash has begun on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-sa-2nd-t20i-live-score-new-zealand-hope-for-good-start-with-the-bat-2026-03-17-1034027",
+    "time": "2026-03-17T06:49:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dane van Niekerk ruled out of New Zealand tour sustaining calf injury",
+    "desc": "With New Zealand women and South Africa women taking on each other in a five-game T20I series, South Africa women have been hit with a major roadblock, as star all-rounder Dane van Niekerk has been...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dane-van-niekerk-ruled-out-of-new-zealand-tour-sustaining-calf-injury-2026-03-17-1034023",
+    "time": "2026-03-17T06:23:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "24-year-old South Africa batter ruled out of remainder of New Zealand T20Is, replacement yet to be announced",
+    "desc": "With New Zealand and South Africa facing off across five T20Is, South Africa have been dealt a blow early into the series as 24-year-old Jordan Hermann has been ruled out of the remainder of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/24-year-old-south-africa-batter-ruled-out-of-remainder-of-new-zealand-t20is-replacement-yet-to-be-announced-2026-03-17-1034015",
+    "time": "2026-03-17T05:08:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Deeply saddened': Rashid Khan and other Afghanistan cricketers condemn Pakistan's deadly airstrikes in Kabul",
     "desc": "Star Afghanistan all-rounder Rashid Khan has taken to social media to slam Pakistan after civilian casualties were reported in Kabul as a result of the airstrikes by Pakistan. It is worth noting that Pakistan carried...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-to-tour-bangladesh-during-ipl-2026-schedule-announced-for-3-odis-and-3-t20is-2026-03-16-1033971",
     "time": "2026-03-16T14:47:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Contributes to death of our soldiers': Gavaskar drops massive statement after Sunrisers' Abrar Ahmed deal",
-    "desc": "Sunrisers Hyderabad CEO and co-owner of the team in the Indian Premier League (IPL), Kavya Maran, made the headlines recently as the sister team of the franchise, Sunrisers Leeds, picked Pakistan's Abrar Ahmed in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/contributes-to-death-of-our-soldiers-gavaskar-drops-massive-statement-after-sunrisers-abrar-ahmed-deal-2026-03-16-1033967",
-    "time": "2026-03-16T14:08:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shahid Afridi slams Pakistan selectors after ODI series defeat vs Bangladesh, 'surgery needed on committee'",
-    "desc": "Former Pakistan captain Shahid Afridi has slammed the selectors of the national team after the ODI series defeat against Bangladesh on Sunday. Pakistan lost to Bangladesh 1-2 in the three-match series following a poor show...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shahid-afridi-slams-pakistan-selectors-after-odi-series-defeat-vs-bangladesh-surgery-needed-on-committee-2026-03-16-1033961",
-    "time": "2026-03-16T12:36:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "West Indies' qualification chances hinder after Bangladesh's ODI series win over Pakistan",
-    "desc": "Bangladesh are back in the reckoning to qualify directly for the World Cup next year after registering a series win over Pakistan in the three-match rubber on Sunday. They defended 290 runs at the Shere...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/world-cup-2027-west-indies-qualification-chances-hinder-after-bangladesh-s-odi-series-win-over-pakistan-2026-03-16-1033956",
-    "time": "2026-03-16T11:17:16.000Z"
   }
 ];
