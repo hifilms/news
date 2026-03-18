@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sunrisers Hyderabad announce Ishan Kishan as new captain as Pat Cummins to miss start of IPL 2026",
+    "desc": "Sunrisers Hyderabad captain Pat Cummins will miss the first few matches of the IPL 2026. The pacer is currently recovering from a back injury, for which he featured in only one of the Ashes Tests...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-announce-new-captain-as-pat-cummins-to-miss-start-of-ipl-2026-2026-03-18-1034215",
+    "time": "2026-03-18T11:27:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma reflects on struggles and mental reset during T20 World Cup 2026",
+    "desc": "India opener Abhishek Sharma has reflected on a challenging stretch during the T20 World Cup 2026, describing it as a phase that forced him to confront both expectation and adversity at the highest level. Entering...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-reflects-on-struggles-and-mental-reset-during-t20-world-cup-2026-2026-03-18-1034208",
+    "time": "2026-03-18T11:02:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jasprit Bumrah, unlikely to play T20Is until ODI World Cup 2027, jumps in ICC T20I rankings without playing",
     "desc": "India have not played any T20I since winning the T20 World Cup on March 8. In fact, they aren't scheduled to play in the format until July as per the official schedule released so far....",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/real-madrid-vs-manchester-city-where-to-watch-uefa-champions-league-clash-on-tv-and-stream-online-in-india-2026-03-17-1034108",
     "time": "2026-03-17T18:07:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Adar Poonawalla, Manchester United co-owners exit race to buy RCB, two contenders remain",
-    "desc": "The ownership battle for Royal Challengers Bengaluru has entered its final stage, with only two bidders left after the submission of binding offers. United Spirits, part of the Diageo group, is now preparing to review...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/adar-poonawalla-manchester-united-co-owners-exit-race-to-buy-rcb-two-contenders-remain-2026-03-17-1034106",
-    "time": "2026-03-17T17:43:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MCC slams Salman Agha over frustration after run-out against Bangladesh in second ODI",
-    "desc": "The Marylebone Cricket Club (MCC) has weighed in on a contentious run-out involving Pakistan’s Salman Agha during the second ODI against Bangladesh in Mirpur. The moment unfolded late in Pakistan’s innings at the Sher-e-Bangla National...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mcc-slams-salman-agha-over-frustration-after-run-out-against-bangladesh-in-second-odi-2026-03-17-1034097",
-    "time": "2026-03-17T15:45:37.000Z"
   }
 ];

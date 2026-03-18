@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ઈશાન કિશન બન્યો SRHનો કેપ્ટન, અભિષેકને પણ મોટી જવાબદારી, કમિન્સનું શું થશે ?",
+    "desc": "IPL 2026 પહેલા સનરાઇઝર્સ હૈદરાબાદે ઇશાન કિશનને સ્ટેન્ડ-ઇન કેપ્ટન તરીકે નિયુક્ત કર્યો છે. નિયમિત કેપ્ટન પેટ કમિન્સ પીઠની ઇજાને કારણે શરૂઆતની મેચો ગુમાવશે. અભિષેક શર્માને વાઈસ કેપ્ટન બનાવવામાં આવ્યો છે. તાજેતરના T20 વર્લ્ડ કપ અને સૈયદ મુશ્તાક અલી ટ્રોફીમાં શાનદાર પ્રદર્શન બાદ કિશનને આ જવાબદારી સોંપવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-ishan-kishan-named-srh-captain-pat-cummins-injury-469115 ",
+    "time": "2026-03-18T12:21:11.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "રાતોરાત દરિયામાં ખેલ પડી ગયો, ચીન જઈ રહેલા ઓઈલ જહાજો અચાનક ભારત તરફ વળ્યા",
+    "desc": "રશિયાથી ક્રુડ ઓઈલ લઈને ચીન જઈ રહેલા સાત જહાજો અચાનક ભારત તરફ વળ્યા હતા. આ દરમિયાન તમામ મુખ્ય ભારતીય રિફાઇનરી કંપનીઓ રશિયન ક્રૂડ ઓઇલ ખરીદવા માટે એક્ટિવ થઈ ગઈ છે. ત્યારે આ લેખમાં જાણીશું કે રાતોરાત દરિયામાં એવું તે શું થયું કે જહાજોએ યુ-ટર્ન લીધો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/russian-oil-tanker-u-turn-heading-to-india-instead-of-china-469095 ",
+    "time": "2026-03-18T11:45:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "કેન્દ્રીય કર્મચારીઓ માટે રાહતના સમાચાર, સૂચનો આપવાની મુદ્દતમાં કરાયો વધારો; જાણો કેવી રીતે કરશો સબમિટ",
+    "desc": "8મા પગાર પંચ અંગે એક મહત્વના સમાચાર સામે આવ્યા છે. કમિશને તેના 18 પ્રશ્નોના જવાબો સબમિટ કરવાની અંતિમ તારીખ લંબાવી છે. હવે કર્મચારીઓ, પેન્શનરો અને અન્ય હિસ્સેદારો 31 માર્ચે 2026 સુધી તેમના સૂચનો સબમિટ કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/relief-news-for-central-employees-deadline-for-submitting-suggestions-regarding-8th-pay-commission-has-been-extended-know-469101 ",
+    "time": "2026-03-18T11:15:40.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "એરબેગથી સજ્જ વિશ્વનું પ્રથમ સ્કૂટર લોન્ચ, મળશે 292cc નું એન્જિન, મળશે આ ફીચર્સ",
+    "desc": "Yamaha એ દુનિયાનું પ્રથમ એરબેગથી સજ્જ સ્કૂટર લોન્ચ કર્યું છે. આ થ્રી-વ્હીલર સ્કૂટર છે, જે સારા બેલેન્સ અને સેફ્ટી સાથે આવે છે. તેના ફ્રંટમાં એરબેગ આપવામાં આવી છે, જે ટક્કર થવાની સ્થિતિમાં રાઇડરની સુરક્ષાની ખાતરી કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/yamaha-tricity-300-this-world-first-airbag-scooter-292cc-engine-check-mileage-469100 ",
+    "time": "2026-03-18T11:11:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારત વિરુદ્ધ અમેરિકા-યુક્રેનનું ખતરનાક &amp;#039;પ્રોક્સી વોર&amp;#039;: ફ્લાઈટ પકડે તે પહેલા જ અમેરિકી માસ્ટરમાઈન્ડ જેલ ભેગો",
+    "desc": "મ્યાંનમારમાં આતંકી સમૂહોને ડ્રોનની ટ્રેનીંગ માટે ભારત આવેલા અમેરિકી અને યુક્રેની નાગરિકોને એનઆઈએ ઝડપ લીધા છે. આ નાગરિકો સામે ભારત સામે ષડયંત્ર રચવાની ધારાઓ લગાવાઈ છે. નિષ્ણાતો આને પૂર્વોત્તરમાં પોક્સીવોર માટે વિદેશી તાકાતો સક્રિય થઈ હોવાના આરોપો લગાવી રહ્યાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/matthew-aaron-vandyke-nia-arrest-seven-foreigners-al-aqida-affiliate-fighter-india-proxy-war-469093 ",
+    "time": "2026-03-18T09:58:47.000Z"
+  },
+  {
     "cat": "Business",
     "title": "તૈયાર રાખજો રૂપિયા! Jio લાવી રહ્યું છે દેશનો સૌથી મોટો IPO, આ મહિનાના અંત સુધીમાં આવી શકે મોટું અપડેટ",
     "desc": "Jioનો IPO ભારતનો અત્યાર સુધીનો સૌથી મોટો IPO સાબિત થઈ શકે છે. સૌથી મહત્વની વાત એ છે કે, અબજોપતિ મુકેશ અંબાણીની મુખ્ય કંપની રિલાયન્સની કોઈ મોટી પેટા કંપનીનો આશરે બે દાયકામાં આ પ્રથમ IPO હશે.",
@@ -333,15 +378,6 @@ const newsData_gu = [
     "time": "2026-03-16T13:26:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "શિવાલિક જહાજની કેટલી છે સ્પીડ, એક કલાકમાં કેટલું જોઈએ છે ફ્યુઅલ",
-    "desc": "દેશના અનેક શહેરોમાં LPG ગેસની અછત વચ્ચે બધાની નજર ગેસથી ભરેલા જહાજ 'શિવાલિક' પર હતી, જે હવે ગુજરાત આવી ગયું છે. આ જહાજ આશરે 46,000 ટન LPG ગેસ લઈને આવ્યું છે. ભારતમાં તેના આગમનથી ગેસ પુરવઠાની અછતનો સામનો કરી રહેલા લોકોને રાહત મળશે. ત્યારે આ લેખમાં આ જહાજ વિશે જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lpg-tanker-shivalik-reach-gujarat-mundra-know-what-is-the-speed-of-ship-468839 ",
-    "time": "2026-03-16T12:20:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "વિરાટ કોહલીએ પહેલીવાર પસંદ કરી RCBની ઓલટાઇમ પ્લેઈંગ XI, જાણો કોને બનાવ્યો કેપ્ટન",
     "desc": "વિરાટ કોહલી છેલ્લા 18 વર્ષથી RCBનો ભાગ છે. પોતાના અનુભવના આધારે તેણે પહેલીવાર ટીમની ઓલ-ટાઇમ પ્લેઇંગ ઇલેવન પસંદ કરી છે, ત્યારે આ ટીમમાં કયા ખેલાડીઓને સ્થાન આપ્યું છે અને ટીમનો કેપ્ટન કોને બનાવવામાં આવ્યો છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -349,24 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/rcb-all-time-playing-11-picked-by-virat-kohli-know-who-is-captain-468838 ",
     "time": "2026-03-16T11:32:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "હજી ફાઇનલ નથી થઈ ભારત અને અમેરિકાની ટ્રેડ ડીલ, કેન્દ્ર સરકારે જણાવ્યું કારણ",
-    "desc": "ભારત અને અમેરિકા વચ્ચે લાંબી વાતચીત પછી ટ્રેડ ડીલ થઈ હતી. જો કે, સરકારે હવે જણાવ્યું છે કે આ ટ્રેડ ડીલ પર હજુ સુધી હસ્તાક્ષર થયા નથી. સરકાર યુએસ સુપ્રીમ કોર્ટના ટેરિફ ઘટાડવાના નિર્ણયની રાહ જોઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/india-us-trade-deal-not-finalized-yet-central-government-explains-reason-468837 ",
-    "time": "2026-03-16T11:25:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સરકારી કર્મચારીઓ માટે ખુશખબર! મોંઘવારી ભથ્થામાં 5% વધારાની જાહેરાત, લાખો પરિવારોને થશે સીધો ફાયદો",
-    "desc": "ત્રિપુરાના મુખ્યમંત્રીએ જણાવ્યું કે, નાણાકીય પડકારો હોવા છતાં સરકારે આ નિર્ણય કર્મચારીઓ અને પેન્શનરોની આર્થિક મદદ માટે લીધો છે. આ વધારવામાં આવેલ DA 1 એપ્રિલથી લાગુ થશે અને તેનો સીધો લાભ રાજ્યના હજારો કર્મચારીઓ અને પેન્શનરોને મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/good-news-for-government-employees-tripura-government-announces-5-percent-da-increase-for-government-employees-and-pensioners-468835 ",
-    "time": "2026-03-16T11:08:18.000Z"
   },
   {
     "cat": "Business",
@@ -529,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/how-much-salary-should-be-required-to-take-a-home-loan-of-75-lakhs-from-sbi-how-much-will-be-the-emi-468718 ",
     "time": "2026-03-15T11:47:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ટીમના ખેલાડીઓ અભિષેક શર્માની ઈર્ષ્યા કરે છે, સંજુ સેમસને કેમ કહ્યું આવું ?",
-    "desc": "સંજુ સેમસને મજાકમાં કહ્યું કે ટીમના ખેલાડીઓ અભિષેક શર્માની લોકપ્રિયતાની ઈર્ષ્યા કરે છે. અભિષેકે પોતાની સફળતાનો શ્રેય યુવરાજ સિંહને આપ્યો અને ભવિષ્યમાં ભારત માટે વનડે અને ટેસ્ટ રમવાની ઇચ્છા વ્યક્ત કરી. તે આગામી 2026ની IPLમાં જોવા મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/get-married-soon-brother-why-did-sanju-give-advice-to-abhishek-sharma-468655 ",
-    "time": "2026-03-15T05:35:39.000Z"
   },
   {
     "cat": "World",
@@ -709,15 +718,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/gujarati-film-vansh-actress-janki-bodiwala-made-a-big-revelation-about-herself-467950 ",
     "time": "2026-03-10T06:51:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "બેટરી ખતમ થવાની ચિંતાનો આવ્યો અંત! ગૂગલ પ્લે સ્ટોર હવે આપશે વોર્નિંગ, જાણો કેવી રીતે કરે છે કામ",
-    "desc": "મોટા ભાગના લોકોને સ્માર્ટફોનની બેટરી જલ્દી પુરી થઈ જાય છે, ત્યારે મોટા ભાગના લોકોને ખબર હોતી નથી કે કોઈ એપ્લિકેશન કે કોઈ સર્વિસ બેકગ્રાઉન્ડમાં ચાલી રહી છે અને બેટરીનો ઉપયોગ કરી રહી છે. ત્યારે તે પ્રોબ્લમનું સોલ્યુશન ગુગલ લાવ્યું છે. ચાલો તેના વિશે જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/worries-about-battery-drain-are-over-google-play-store-will-now-give-warnings-know-how-it-works-467855 ",
-    "time": "2026-03-09T14:25:31.000Z"
   },
   {
     "cat": "Entertainment",
