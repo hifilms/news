@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "As fire and fury hit MAGA tent, Vance walks the tightrope for 2028",
+    "desc": "The new war launched by U.S. President Donald Trump and Benjamin Netanyahu is triggering a wide range of realignment of personal loyalties and political positions across both parties, but a role reversal within the Republican Party is remarkable.",
+    "img": "https://th-i.thgim.com/public/incoming/su5e1/article70757014.ece/alternates/LANDSCAPE_1200/2026-03-17T163410Z_815742965_RC2G6KAANCDP_RTRMADP_3_USA-IRELAND.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/as-fire-and-fury-hit-maga-tent-vance-walks-the-tightrope-for-2028/article70757010.ece",
+    "time": "2026-03-18T06:44:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "LPG cylinder rate, petrol, diesel price today (March 18, 2026): Check city-wise list of latest prices amid Middle East conflict",
+    "desc": "The ongoing US-Iran war has meant that shipments from the Middle East and in particular the Strait of Hormuz have been held up. India imports a major chunk of its LPG needs, and a substantial percentage of that comes from the Middle East.",
+    "img": "https://static.toiimg.com/photo/msid-129649167,imgsize-77742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/lpg-cylinder-rate-petrol-diesel-price-today-march-18-2026-check-city-wise-list-of-latest-prices-amid-middle-east-conflict/articleshow/129649135.cms",
+    "time": "2026-03-18T06:37:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Cannot understand the sensitivity?’ Humpy breaks silence on Candidates call",
+    "desc": "Indian Grandmaster Koneru Humpy expressed safety concerns regarding the upcoming Candidates Tournament in Cyprus due to the West Asia conflict, leaving her participation undecided. While Humpy cited a drone attack as a reason for her hesitation, FIDE downplayed the risks, assuring that preparations are ongoing and the region remains stable.",
+    "img": "https://static.toiimg.com/photo/msid-129648966,imgsize-49124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/cannot-understand-the-sensitivity-koneru-humpy-breaks-silence-on-candidates-call/articleshow/129648963.cms",
+    "time": "2026-03-18T06:23:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hailee Steinfeld cheers ‘Sinners’ nods from home pregnancy",
+    "desc": "Hailee Steinfeld missed the 2026 Oscars ceremony as she is expecting her first child. She sent a message of pride to her 'Sinners' castmates after their film received five nominations. The movie, starring Michael B. Jordan, was recognized for its vampire story. Steinfeld praised her co-stars, wishing them well from home. Her absence highlighted a personal milestone alongside professional success.",
+    "img": "https://static.toiimg.com/photo/msid-129648915,imgsize-1146641.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/mom-to-be-hailee-steinfeld-cheers-sinners-oscar-nominations-from-home-while-expecting-first-child/articleshow/129648895.cms",
+    "time": "2026-03-18T06:20:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Perry and Trudeau to make their long-distance love work",
+    "desc": "Pop star Katy Perry and former Canadian Prime Minister Justin Trudeau are navigating a serious long-distance relationship, defying packed schedules and family commitments. Their bond, sparked in 2025, has grown stronger, with both prioritizing their children's stability while making significant efforts to spend time together, demonstrating a commitment to making their complex lives work.",
+    "img": "https://static.toiimg.com/photo/msid-129648840,imgsize-77446.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/katy-perry-and-justin-trudeau-determined-to-make-their-long-distance-love-work/articleshow/129648787.cms",
+    "time": "2026-03-18T06:17:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Will be very bad for Pakistan': Afghan IPL star warns after attack, seeks India's help",
+    "desc": "Afghanistan spinner Allah Ghazanfar made an emotional plea to the world after a devastating airstrike hit a Kabul rehabilitation centre. He highlighted the human cost of escalating Pakistan-Afghanistan tensions, urging global intervention to de-escalate the conflict. Ghazanfar stressed India's close ties and the need for dialogue to prevent such tragedies.",
+    "img": "https://static.toiimg.com/photo/msid-129648350,imgsize-847172.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/will-be-very-bad-for-pakistan-afghan-ipl-star-allah-ghazanfar-warns-after-kabul-attack-seeks-indias-help/articleshow/129648223.cms",
+    "time": "2026-03-18T05:52:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I’ve lost more than I’ve won’: PV Sindhu opens up on failure, resilience",
+    "desc": "Olympic medallist PV Sindhu shared her journey of resilience with students, emphasising that success is built on overcoming numerous losses. She highlighted that consistent hard work and unwavering belief are crucial, whether in sports or academics. Sindhu also stressed the vital role of strong support systems from family and coaches in achieving long-term goals.",
+    "img": "https://static.toiimg.com/photo/msid-129648344,imgsize-349852.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/ive-lost-more-than-ive-won-pv-sindhu-opens-up-on-failure-resilience/articleshow/129648330.cms",
+    "time": "2026-03-18T05:51:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RGV says film makes Mughal-e-Azam look like TV show",
+    "desc": "The Revenge' as a groundbreaking spectacle that eclipses even the most revered classics in cinema history. He emphasized its 'Sholay x 100 level grandeur,' asserting that it will transform the landscape of film and strongly encouraging Hollywood moguls to take note of its revolutionary influence. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129648190,imgsize-214474.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-ram-gopal-varma-says-ranveer-singh-led-film-makes-mughal-e-azam-look-like-a-tv-serial/articleshow/129648190.cms",
+    "time": "2026-03-18T05:47:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Hormuz chokehold forces oil reroute via Red Sea — but how long can this lifeline hold?",
+    "desc": "Middle East conflict escalates, disrupting global oil flow. Iran's Strait of Hormuz threats push crude to the Red Sea, but even this route faces danger. Iran warns of targeting US-linked facilities, raising fears of further supply disruptions and potential oil price spikes, impacting consumers worldwide.",
+    "img": "https://static.toiimg.com/photo/msid-129648220,imgsize-1129686.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/middle-east-news-iran-israel-us-oil-hormuz-chokehold-forces-oil-reroute-via-red-sea-but-how-long-can-this-lifeline-hold/articleshow/129648092.cms",
+    "time": "2026-03-18T05:43:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bob Barker’s secret struggle with mental health revealed",
+    "desc": "Beloved 'Price Is Right' host Bob Barker, who passed away in August 2023, privately battled suicidal thoughts following his wife's death, as revealed by ex-girlfriend Nancy Lee Heckert. He confessed that the show was his lifeline, preventing him from succumbing to despair during their 10-year relationship in the 1980s.",
+    "img": "https://static.toiimg.com/photo/msid-129647862,imgsize-953574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/the-price-is-right-star-bob-barkers-secret-struggle-with-mental-health-revealed-the-show-saved-me/articleshow/129647871.cms",
+    "time": "2026-03-18T05:41:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Rubio denies U.S. seeking to oust Cuba President",
+    "desc": "In a late-night post on X, Marco Rubio said that the article by The New York Times was \"fake\" and was among media reports that relied on \"charlatans and liars claiming to be in the know\" as sources.",
+    "img": "https://th-i.thgim.com/public/incoming/sq0mq1/article70756824.ece/alternates/LANDSCAPE_1200/2026-03-16T220452Z_1559020742_RC28XJAGVUI4_RTRMADP_3_IRAN-CRISIS-USA-DETAINEE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/rubio-denies-us-seeking-to-oust-cuba-president/article70756793.ece",
+    "time": "2026-03-18T05:30:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. Attorney General Pam Bondi subpoenaed to answer questions from Congress about the Epstein files",
+    "desc": "Attorney General Pam Bondi has been subpoenaed to answer questions from Congress about the Justice Department’s sex trafficking investigation of Jeffrey Epstein and the agency’s handling of millions of files related to the disgraced financier",
+    "img": "https://th-i.thgim.com/public/incoming/cxz6ls/article70755857.ece/alternates/LANDSCAPE_1200/2026-03-17T190724Z_1346941096_RC2TJJA8U71J_RTRMADP_3_USA-TRUMP-EPSTEIN-BONDI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-attorney-general-pam-bondi-subpoenaed-to-answer-questions-from-congress-about-the-epstein-files/article70755646.ece",
+    "time": "2026-03-18T05:22:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Call me’: Lalit Modi reacts to Kavya Maran after Abrar Ahmed row",
+    "desc": "Abrar Ahmed's selection for The Hundred by Sunrisers Leeds has ignited a storm, drawing criticism from former IPL chairman Lalit Modi and sparking political debate. Despite backlash and Sunil Gavaskar's remarks, the franchise and sources close to the player emphasise cricketing merit and focus on his career, highlighting the ongoing geopolitical tensions impacting sports.",
+    "img": "https://static.toiimg.com/photo/msid-129647942,imgsize-42936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/call-me-lalit-modi-reacts-to-kavya-maran-after-abrar-ahmed-row/articleshow/129647907.cms",
+    "time": "2026-03-18T05:21:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' advance collections hit USD 9 million",
+    "desc": "The Revenge' are soaring, projecting a massive opening weekend. The film has already secured an estimated USD 9 million internationally, with North America leading the charge at USD 2.85 million in advance sales. This strong performance hints at a potential box office record-breaker, challenging previous industry benchmarks set by films like 'Pathaan'.",
+    "img": "https://static.toiimg.com/photo/msid-129647491,imgsize-84234.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-advance-booking-report-ranveer-singh-starrer-scores-usd-9-million-haul-from-international-markets-on-opening-weekend/articleshow/129647471.cms",
+    "time": "2026-03-18T05:20:38.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. encourages Syrian action against Hezbollah, Damascus is hesitant, sources say",
+    "desc": "Despite historic enmity towards Hezbollah and Tehran - both fought ​alongside Bashar al-Assad during Syria’s 2011-24 civil war - Syrian President Ahmed ‌al-Sharaa has moved cautiously since U.S.-Israeli airstrikes on Iran began on February 28",
+    "img": "https://th-i.thgim.com/public/incoming/rdfhrf/article70755876.ece/alternates/LANDSCAPE_1200/2026-02-04T181049Z_1711225588_RC22FJAKE6GE_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-encourages-syrian-action-against-hezbollah-damascus-is-hesitant-sources-say/article70755665.ece",
+    "time": "2026-03-18T05:12:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhoni to hand WK gloves to Samson, captaincy next? Kumble on CSK plan",
+    "desc": "Sanju Samson embarks on a new IPL chapter with Chennai Super Kings after a stellar T20 World Cup. Anil Kumble highlights Samson's form, leadership potential, and regional connection as significant assets for CSK. His arrival strengthens the squad and offers stability, potentially even taking over keeping duties from MS Dhoni.",
+    "img": "https://static.toiimg.com/photo/msid-129647003,imgsize-175440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/dhoni-to-hand-wk-gloves-to-samson-captaincy-next-kumble-on-csk-plan/articleshow/129647018.cms",
+    "time": "2026-03-18T05:09:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did Taylor Swift make a low-key appearance at Oscars after party?",
+    "desc": "Taylor Swift, the queen of emotional ballads, is taking a step back from the spotlight with her 'understated charm.' Recently, she graced a glamorous after-party, where a sneak peek of her legs confirmed her arrival.",
+    "img": "https://static.toiimg.com/photo/msid-129647397,imgsize-42138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-gave-oscars-2026-a-miss-but-made-a-low-key-appearance-at-jay-z-and-beyonces-after-party-heres-what-we-know/articleshow/129647397.cms",
+    "time": "2026-03-18T04:51:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘At least 60% seats should be given without charge; flyers of same PNR should be seated together:’ DGCA to airlines",
+    "desc": "Airlines must now allocate at least 60% of seats free of charge, ensuring families and groups on the same PNR are seated together, preferably adjacently. This directive aims to address passenger grievances regarding seat selection fees and separation of travel companions. The DGCA also mandates transparent policies for sports equipment, musical instruments, and pets, alongside prominent display of passenger rights.",
+    "img": "https://static.toiimg.com/photo/msid-129647458,imgsize-167981.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/at-least-60-seats-should-be-given-without-charge-flyers-of-same-pnr-should-be-seated-together-dgca-to-airlines/articleshow/129647294.cms",
+    "time": "2026-03-18T04:47:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Disease in Indian cricket': Ashwin raises concerns over fan armies 'ecosystem'",
+    "desc": "Cricket icon Ravichandran Ashwin has voiced strong concerns about 'fan armies' on social media, labelling their influence a 'disease.' He believes these organized narratives, often focusing on individuals over team performance, are shifting focus away from the game itself. Ashwin shared his personal experience with criticism after analyzing Shubman Gill's dismissals, highlighting the shift towards a superstar-driven culture.",
+    "img": "https://static.toiimg.com/photo/msid-129647245,imgsize-141166.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/disease-in-indian-cricket-r-ashwin-raises-concerns-over-fan-armies-ecosystem/articleshow/129647256.cms",
+    "time": "2026-03-18T04:44:09.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Why is Maharashtra’s Freedom of Religion Bill so controversial?",
     "desc": "Maharashtra’s Freedom of Religion Bill, 2026 has sparked a major political and legal debate. The proposed law aims to prevent forced religious conversions through strict rules, including a 60-day prior notice and severe penalties. While the government says it protects vulnerable individuals, critics argue it could violate fundamental rights, enable misuse, and impact personal freedom and interfaith relationships. The bill has been passed in both houses.",
@@ -225,60 +396,6 @@ const newsData_en = [
     "time": "2026-03-18T00:49:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Valavaara' OTT: Where to watch Sutan Gowda's film",
-    "desc": "Mark your calendars for March 20, as 'Valavaara' graces Sun NXT with its digital premiere! This acclaimed Kannada film, skillfully directed by Sutan Gowda, offers an intimate glimpse into the emotional landscape of a rural family from Sakleshpur.",
-    "img": "https://static.toiimg.com/photo/msid-129644724,imgsize-271800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/valavaara-ott-release-when-and-where-to-watch-sutan-gowdas-coming-of-age-drama/articleshow/129644724.cms",
-    "time": "2026-03-18T00:36:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Alia shares pics with Ranbir, Raha from b'day getaway",
-    "desc": "Alia Bhatt celebrated her 33rd birthday with a magical family weekend in Hong Kong, sharing heartwarming photos with husband Ranbir Kapoor, daughter Raha, and sister Shaheen Bhatt. The intimate celebrations included a visit to Disneyland and a sweet birthday note from Raha. The getaway provided a brief respite from their busy film schedules, with both stars working on upcoming projects.",
-    "img": "https://static.toiimg.com/photo/msid-129644557,imgsize-109282.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-kisses-alia-bhatt-in-intimate-click-from-birthday-celebrations-couple-spends-weekend-with-daughter-raha-at-disneyland-pics/articleshow/129644553.cms",
-    "time": "2026-03-18T00:21:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Aadu 3' advance booking: Film off to strong start",
-    "desc": "One Last Ride - Part 1' is making waves at the box office, racking up an impressive Rs 1.78 crore in advance sales across more than 1,230 screenings in Kerala. The excitement is tangible, with more than a lakh tickets already sold.",
-    "img": "https://static.toiimg.com/photo/msid-129644652,imgsize-185012.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aadu-3-advance-booking-jayasurya-starrer-off-to-strong-start-crosses-rs-1-78-crore-in-kerala-pre-sales/articleshow/129644652.cms",
-    "time": "2026-03-18T00:18:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Thaai Kizhavi' BO day 20: Film nears Rs 60 crore mark",
-    "desc": "'Thaai Kizhavi' is nearing Rs 60 crore at the box office, showcasing a steady run even in its third week. The film, starring Radikaa Sarathkumar as a feared matriarch, blends dark humor with rural drama. Critics praised the storytelling and performances, though some noted issues in the second half. Its wide release continues to ensure strong theatre presence.",
-    "img": "https://static.toiimg.com/photo/msid-129644565,imgsize-230542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-box-office-collections-day-20-radikaa-sarathkumars-film-nears-rs-60-crore-mark/articleshow/129644565.cms",
-    "time": "2026-03-18T00:01:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kerala Story 2 crosses Rs 50 cr on Day 19 amid Dhurandhar 2 buzz",
-    "desc": "Goes Beyond is wrapping up its third week with impressive earnings of over Rs 50 crore. Although it's holding steady, it falls short of the heights reached by its predecessor. Diving into themes of autonomy and oppression, the film may face a decline in box office numbers as new contenders hit the screens. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129644521,imgsize-34484.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-19-film-crosses-rs-50-crore-mark-amid-dhurandhar-2-buzz/articleshow/129644521.cms",
-    "time": "2026-03-17T23:55:17.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. encourages Syrian action against Hezbollah, Damascus is hesitant, sources say",
-    "desc": "Despite historic enmity towards Hezbollah and Tehran - both fought ​alongside Bashar al-Assad during Syria’s 2011-24 civil war - Syrian President Ahmed ‌al-Sharaa has moved cautiously since U.S.-Israeli airstrikes on Iran began on February 28",
-    "img": "https://th-i.thgim.com/public/incoming/rdfhrf/article70755876.ece/alternates/LANDSCAPE_1200/2026-02-04T181049Z_1711225588_RC22FJAKE6GE_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-encourages-syrian-action-against-hezbollah-damascus-is-hesitant-sources-say/article70755665.ece",
-    "time": "2026-03-17T23:29:14.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Nemom constituency in for a tight and unpredictable contest",
     "desc": "While LDF has announced incumbent MLA V. Sivankutty as its candidate, Rajeev Chandrasekhar will contest for NDA. UDF yet to propose its candidate. With BJP again setting high hopes for constituency, LDF fighting hard to defend its turf and UDF yet to reveal its cards, an exciting contest is on the cards in Nemom",
@@ -286,15 +403,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2026-nemom-constituency-in-for-a-tight-and-unpredictable-contest/article70750037.ece",
     "time": "2026-03-17T22:33:47.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. Attorney General Pam Bondi subpoenaed to answer questions from Congress about the Epstein files",
-    "desc": "Attorney General Pam Bondi has been subpoenaed to answer questions from Congress about the Justice Department’s sex trafficking investigation of Jeffrey Epstein and the agency’s handling of millions of files related to the disgraced financier",
-    "img": "https://th-i.thgim.com/public/incoming/cxz6ls/article70755857.ece/alternates/LANDSCAPE_1200/2026-03-17T190724Z_1346941096_RC2TJJA8U71J_RTRMADP_3_USA-TRUMP-EPSTEIN-BONDI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-attorney-general-pam-bondi-subpoenaed-to-answer-questions-from-congress-about-the-epstein-files/article70755646.ece",
-    "time": "2026-03-17T21:59:18.000Z"
   },
   {
     "cat": "Politics",
@@ -415,51 +523,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Much fitter': Rohit gets MI head coach's boost ahead of IPL 2026",
-    "desc": "Mumbai Indians head coach Mahela Jayawardene praised Mumbai Indians’ strong core, with Suryakumar Yadav, Jasprit Bumrah, Hardik Pandya and Tilak Varma shining in India’s T20 World Cup win. MI have given them an extended break. He backed Suryakumar, praised Bumrah, hinted at a bigger role for Rohit Sharma, and welcomed healthy selection competition.",
-    "img": "https://static.toiimg.com/photo/msid-129636645,imgsize-125974.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/much-fitter-rohit-sharma-gets-mumbai-indians-head-coachs-boost-ahead-of-ipl-2026/articleshow/129636136.cms",
-    "time": "2026-03-17T15:38:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress announces first list of 55 candidates, yet to take a call on MPs wishing to contest",
-    "desc": "K.C. Venugopal says party will take a decision on MPs' desire to contest later. Party has not yet named candidates for Kannur and Konni for which MPs K. Sudhakaran and Adoor Prakash respectively raised demands. The initial list includes 20 incumbent MLAs",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-congress-announces-first-list-of-55-candidates-yet-to-take-a-call-on-mps-wishing-to-contest/article70754662.ece",
-    "time": "2026-03-17T15:29:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Farmers are saving ₹25,000 through the paddy bonus: Bhatti",
-    "desc": "₹57,000 crore in interest-free loans provided to women, says Deputy Chief Minister; the previous regime failed to implement key promises like double-bedroom houses, one job per household, a Dalit Chief Minister, and land distribution to the landless poor even after ten years in power, says Bhatti",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/farmers-are-saving-25000-through-the-paddy-bonus-bhatti/article70754944.ece",
-    "time": "2026-03-17T15:19:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Beyond oil &amp; gas: How Middle East conflict impacts India",
-    "desc": "Beyond oil and gas, several other sectors of the economy will likely see a hit if the US-Iran war continues for a longer duration. According to Barclays, India's non-energy imports from the Middle East are sizable as well - at approximately 10% of total non-energy imports.",
-    "img": "https://static.toiimg.com/photo/msid-129635934,imgsize-135638.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/beyond-oil-gas-how-middle-east-conflict-us-iran-war-impacts-india-from-gold-diamonds-to-aircraft-fertilizers-sector-wise-explained/articleshow/129635784.cms",
-    "time": "2026-03-17T14:49:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Iran vs US tensions cloud FIFA WC plans, matches may shift to Mexico",
-    "desc": "Iran’s 2026 World Cup participation is uncertain amid rising tensions. The country is negotiating with FIFA to shift matches from the US to Mexico, citing safety concerns. Officials said, \"We will certainly not travel to America.\" FIFA hasn’t agreed yet. After Donald Trump warned about safety, Iran insisted \"no one can exclude\" them from the tournament.",
-    "img": "https://static.toiimg.com/photo/msid-129635843,imgsize-199448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/iran-vs-us-tensions-cloud-fifa-world-cup-plans-matches-may-shift-to-mexico/articleshow/129635336.cms",
-    "time": "2026-03-17T14:45:59.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Mandhana No.1, Harmanpreet climbs",
     "desc": "India women's team skipper Harmanpreet Kaur rose to seventh in ICC ODI rankings, while Smriti Mandhana stayed No.1. All-rounder Sophie Devine slipped to ninth. New Zealand stars impressed Maddy Green and Amelia Kerr made big gains. In T20Is, Kerr, Georgia Plimmer and Jess Kerr also climbed rankings with strong performances.",
     "img": "https://static.toiimg.com/photo/msid-129635044,imgsize-54180.cms",
@@ -487,15 +550,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "EXCLUSIVE",
-    "desc": "India's Sumit Nagal is fighting back after a turbulent career plagued by injuries, including hip surgery and a hip flexor tear, that saw him drop from World No. 68 to No. 278. Now refocused on fitness, diet, and the controllables of his game, Nagal heads into his favourite time of the season - on clay - with hard-won maturity and renewed determination.",
-    "img": "https://static.toiimg.com/photo/msid-129632545,imgsize-35412.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/exclusive-if-i-could-change-my-body-i-would-sumit-nagal-opens-up-on-injuries-and-patient-rebuilding/articleshow/129632501.cms",
-    "time": "2026-03-17T12:24:06.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "KL Rahul to lead Delhi Capitals charge from the top",
     "desc": "KL Rahul is set to open for the Delhi Capitals in IPL 2026. The move follows a mid-season shift that boosted his form. The 33-year-old will also keep wickets for the Delhi Capitals in this season. With a strong squad featuring experienced Indian players and impactful overseas signings, Capitals aim to bounce back and push for their maiden IPL title.",
     "img": "https://static.toiimg.com/photo/msid-129632198,imgsize-49720.cms",
@@ -511,15 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/lpg-consumption-slumps-17-in-march-on-war-related-shortages/article70753643.ece",
     "time": "2026-03-17T11:26:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why SRH chose Ishan Kishan over Abhishek Sharma as captain",
-    "desc": "Ishan Kishan’s rise as a leadership contender stems from his strong domestic captaincy record, ability to manage young players, and tactical awareness as a wicketkeeper. His recent international form, successfully leading Jharkhand to the Syed Mushtaq Ali Trophy title, has strengthened his case, helping him get the vote of approval from the SRH management.",
-    "img": "https://static.toiimg.com/photo/msid-129626732,imgsize-155088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-why-srh-chose-ishan-kishan-over-abhishek-sharma-as-captain/articleshow/129626616.cms",
-    "time": "2026-03-17T07:31:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -747,15 +792,6 @@ const newsData_en = [
     "time": "2026-03-12T18:06:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Marijne wants the Indian players to be more precise with finishing",
-    "desc": "The head coach reserves special praise for Navneet, who scored a hat-trick against Wales, but is quick to emphasise that the performance was a collective effort; the Dutchman credits former junior team coach Wonink for making his task easier",
-    "img": "https://th-i.thgim.com/public/incoming/uhaimd/article70736159.ece/alternates/LANDSCAPE_1200/vjkvg-india%2016.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/marijne-wants-the-indian-players-to-be-more-precise-with-finishing/article70736166.ece",
-    "time": "2026-03-12T16:15:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Can’t take it lightly: Rashmika Mandanna warns legal action against privacy-violating content",
     "desc": "Rashmika Mandanna has reacted to a leaked audio of an alleged conversation involving her mother. The clip has reignited chatter about her past relationship with actor Rakshit Shetty. Rashmika has demanded the content be pulled down immediately",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
