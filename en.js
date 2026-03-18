@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "JSW Infrastructure, Tata Motors PV &amp; more: Top stocks to watch on March 18, 2026",
+    "desc": "Brokerages reinstate 'add' and 'buy' ratings on Aster DM, Marico, and Hindalco, citing robust growth prospects driven by mergers, value-added products, and domestic demand. Tata Motors PV sees a target price cut due to JLR woes and rising costs, while JSW Infrastructure maintains strong growth targets despite geopolitical headwinds.",
+    "img": "https://static.toiimg.com/photo/msid-129645195,imgsize-74058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/jsw-infrastructure-tata-motors-pv-aster-dm-marico-hindalco-top-stocks-to-watch-on-march-18-2026/articleshow/129645145.cms",
+    "time": "2026-03-18T01:45:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Prathichaya' Vs 'Drishyam 3' clash is on",
+    "desc": "Nivin Pauly's political thriller 'Prathichaya' is set for a March 26, 2026 release, promising a narrative of legacy and destiny. It will face a box office challenge from Mohanlal's highly anticipated 'Drishyam 3', arriving just a week later on April 2. 'Drishyam 3' makers are opting for minimal promotion to preserve suspense.",
+    "img": "https://static.toiimg.com/photo/msid-129645159,imgsize-98356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/prathichaya-vs-drishyam-3-clash-nivin-pauly-film-locks-horns-with-mohanlal-starrer/articleshow/129645159.cms",
+    "time": "2026-03-18T01:45:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kanye West moves to overturn Malibu mansion verdict",
+    "desc": "Kanye West is appealing a court's decision ordering him to pay $140,000 to a former contractor for chaotic renovation work on his Malibu mansion. The contractor alleged breach of contract, unpaid wages, and unsafe conditions, claiming he was forced to sleep on the floor and suffered injuries.",
+    "img": "https://static.toiimg.com/photo/msid-129645020,imgsize-490700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/kanye-west-refuses-to-accept-malibu-mansion-court-loss-moves-to-overturn-jury-verdict-in-contractor-dispute/articleshow/129645024.cms",
+    "time": "2026-03-18T01:26:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vishwanath and Sons' OTT : Film to stream on THIS platform",
+    "desc": "Suriya's upcoming film, 'Vishwanath and Sons', has unveiled its teaser, generating significant fan excitement. The movie, also starring Mamitha Baiju, will stream on Netflix after its theatrical release. Directed by Venky Atluri, it explores a complex relationship between a veteran shooter and a younger woman, promising a unique romantic drama.",
+    "img": "https://static.toiimg.com/photo/msid-129644968,imgsize-68640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-ott-release-suriya-starrer-to-stream-on-this-platform-after-theatrical-run/articleshow/129644968.cms",
+    "time": "2026-03-18T01:22:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kristin Cabot slams Gwyneth Paltrow, Ryan Reynolds over Astronomers AD",
+    "desc": "A Coldplay concert kiss cam moment led to a scandal for tech executives at Astronomer. Former Chief People Officer Kristin Cabot now speaks out against Gwyneth Paltrow and Ryan Reynolds' response. The viral clip caused significant personal and professional fallout for Cabot. She faced harassment and regrets the situation. An ad campaign aimed to shift public perception.",
+    "img": "https://static.toiimg.com/photo/msid-129644887,imgsize-710634.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/astronomers-executive-kristin-cabot-slams-gwyneth-paltrow-ryan-reynolds-over-ad-after-viral-coldplay-kiss-cam-scandal/articleshow/129644888.cms",
+    "time": "2026-03-18T01:06:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Can’t go downstairs to hotel bar': MS Dhoni's 'Shisha man' secret revealed",
+    "desc": "Sam Billings revealed that former CSK captain MS Dhoni maintained a relaxed team atmosphere, even employing a “Shisha man” in his hotel room. While Billings praised Dhoni’s calm and inclusive nature, the revelation sparked debate. Former cricketer Manoj Tiwary earlier hinted such bonding sessions may have influenced team selection dynamics.",
+    "img": "https://static.toiimg.com/photo/msid-129638859,imgsize-39780.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/cant-go-downstairs-to-hotel-bar-ms-dhonis-shisha-man-secret-revealed/articleshow/129638578.cms",
+    "time": "2026-03-18T01:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' AI poster lands Ranveer Singh in trouble",
+    "desc": "The Revenge' over a poster depicting Ranveer Singh's Sikh character smoking. The Sikh community has raised objections, citing religious insensitivity. However, netizens claim the controversial poster is fan-made and not official, with no such song existing in the film. Read the full article to know more in detail about what exactly happened.",
+    "img": "https://static.toiimg.com/photo/msid-129644814,imgsize-87518.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-ai-poster-lands-ranveer-singh-in-trouble-sikh-community-raises-objection/articleshow/129644700.cms",
+    "time": "2026-03-18T00:49:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Valavaara' OTT: Where to watch Sutan Gowda's film",
+    "desc": "Mark your calendars for March 20, as 'Valavaara' graces Sun NXT with its digital premiere! This acclaimed Kannada film, skillfully directed by Sutan Gowda, offers an intimate glimpse into the emotional landscape of a rural family from Sakleshpur.",
+    "img": "https://static.toiimg.com/photo/msid-129644724,imgsize-271800.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/valavaara-ott-release-when-and-where-to-watch-sutan-gowdas-coming-of-age-drama/articleshow/129644724.cms",
+    "time": "2026-03-18T00:36:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia shares pics with Ranbir, Raha from b'day getaway",
+    "desc": "Alia Bhatt celebrated her 33rd birthday with a magical family weekend in Hong Kong, sharing heartwarming photos with husband Ranbir Kapoor, daughter Raha, and sister Shaheen Bhatt. The intimate celebrations included a visit to Disneyland and a sweet birthday note from Raha. The getaway provided a brief respite from their busy film schedules, with both stars working on upcoming projects.",
+    "img": "https://static.toiimg.com/photo/msid-129644557,imgsize-109282.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-kisses-alia-bhatt-in-intimate-click-from-birthday-celebrations-couple-spends-weekend-with-daughter-raha-at-disneyland-pics/articleshow/129644553.cms",
+    "time": "2026-03-18T00:21:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Aadu 3' advance booking: Film off to strong start",
+    "desc": "One Last Ride - Part 1' is making waves at the box office, racking up an impressive Rs 1.78 crore in advance sales across more than 1,230 screenings in Kerala. The excitement is tangible, with more than a lakh tickets already sold.",
+    "img": "https://static.toiimg.com/photo/msid-129644652,imgsize-185012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aadu-3-advance-booking-jayasurya-starrer-off-to-strong-start-crosses-rs-1-78-crore-in-kerala-pre-sales/articleshow/129644652.cms",
+    "time": "2026-03-18T00:18:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Thaai Kizhavi' BO day 20: Film nears Rs 60 crore mark",
+    "desc": "'Thaai Kizhavi' is nearing Rs 60 crore at the box office, showcasing a steady run even in its third week. The film, starring Radikaa Sarathkumar as a feared matriarch, blends dark humor with rural drama. Critics praised the storytelling and performances, though some noted issues in the second half. Its wide release continues to ensure strong theatre presence.",
+    "img": "https://static.toiimg.com/photo/msid-129644565,imgsize-230542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-box-office-collections-day-20-radikaa-sarathkumars-film-nears-rs-60-crore-mark/articleshow/129644565.cms",
+    "time": "2026-03-18T00:01:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kerala Story 2 crosses Rs 50 cr on Day 19 amid Dhurandhar 2 buzz",
+    "desc": "Goes Beyond is wrapping up its third week with impressive earnings of over Rs 50 crore. Although it's holding steady, it falls short of the heights reached by its predecessor. Diving into themes of autonomy and oppression, the film may face a decline in box office numbers as new contenders hit the screens. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129644521,imgsize-34484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-kerala-story-2-goes-beyond-box-office-collection-day-19-film-crosses-rs-50-crore-mark-amid-dhurandhar-2-buzz/articleshow/129644521.cms",
+    "time": "2026-03-17T23:55:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man: Brand New Day' teasers release before trailer- WATCH",
+    "desc": "Brand New Day' is finally here, following an innovative global rollout of short clips. Fans can expect action, romance, and epic superhero moments, including the introduction of Bernthal's Punisher and Sink's powerful character, speculated to be Jean Grey. The film hits cinemas on July 31.",
+    "img": "https://static.toiimg.com/photo/msid-129644451,imgsize-69772.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-tom-holland-zendaya-sadie-sink-jon-bernthal-feature-in-special-glimpses-ahead-of-trailer-launch/articleshow/129644419.cms",
+    "time": "2026-03-17T23:29:41.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. encourages Syrian action against Hezbollah, Damascus is hesitant, sources say",
+    "desc": "Despite historic enmity towards Hezbollah and Tehran - both fought ​alongside Bashar al-Assad during Syria’s 2011-24 civil war - Syrian President Ahmed ‌al-Sharaa has moved cautiously since U.S.-Israeli airstrikes on Iran began on February 28",
+    "img": "https://th-i.thgim.com/public/incoming/rdfhrf/article70755876.ece/alternates/LANDSCAPE_1200/2026-02-04T181049Z_1711225588_RC22FJAKE6GE_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-encourages-syrian-action-against-hezbollah-damascus-is-hesitant-sources-say/article70755665.ece",
+    "time": "2026-03-17T23:29:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'In Main Hoon Na, Amrita’s character came from me'",
+    "desc": "Filmmaker-choreographer Farah Khan recently opened up about her turbulent childhood, rejecting the “nepo kid” tag as she revisited her family’s dramatic fall from wealth to poverty after her father Kamran Khan’s film Aisa Bhi Hota Hai failed at the box office. She added, “In Main Hoon Na, Amrita’s character came from me because my dad wanted a son and the minute Sajid Khan was born, I was sidelined.\"",
+    "img": "https://static.toiimg.com/photo/msid-129643596,imgsize-66384.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-recalls-father-kamran-khan-dying-a-pauper-with-rs-30-in-main-hoon-na-amritas-character-came-from-me/articleshow/129643596.cms",
+    "time": "2026-03-17T22:35:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nemom constituency in for a tight and unpredictable contest",
+    "desc": "While LDF has announced incumbent MLA V. Sivankutty as its candidate, Rajeev Chandrasekhar will contest for NDA. UDF yet to propose its candidate. With BJP again setting high hopes for constituency, LDF fighting hard to defend its turf and UDF yet to reveal its cards, an exciting contest is on the cards in Nemom",
+    "img": "https://th-i.thgim.com/public/incoming/hq4avi/article70755542.ece/alternates/LANDSCAPE_1200/ThiruvananthapuGM3FNJ7NE.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2026-nemom-constituency-in-for-a-tight-and-unpredictable-contest/article70750037.ece",
+    "time": "2026-03-17T22:33:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dune: Part Three' teaser trailer is here",
+    "desc": "Part Three' has arrived, hinting at a dramatic conclusion to Paul Atreides' saga. Director Denis Villeneuve returns, driven by a sense of responsibility to complete the story. The trailer showcases intimate moments between Paul and Chani, discussing future children, juxtaposed with intense warfare and Paul's struggle with his growing power and his mother's counsel.",
+    "img": "https://static.toiimg.com/photo/msid-129642538,imgsize-30080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dune-part-three-teaser-trailer-timothee-chalamet-and-zendaya-return-in-action-packed-finale-with-robert-pattinson-and-anya-taylor-joy/articleshow/129641876.cms",
+    "time": "2026-03-17T22:17:14.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. Attorney General Pam Bondi subpoenaed to answer questions from Congress about the Epstein files",
+    "desc": "Attorney General Pam Bondi has been subpoenaed to answer questions from Congress about the Justice Department’s sex trafficking investigation of Jeffrey Epstein and the agency’s handling of millions of files related to the disgraced financier",
+    "img": "https://th-i.thgim.com/public/incoming/cxz6ls/article70755857.ece/alternates/LANDSCAPE_1200/2026-03-17T190724Z_1346941096_RC2TJJA8U71J_RTRMADP_3_USA-TRUMP-EPSTEIN-BONDI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-attorney-general-pam-bondi-subpoenaed-to-answer-questions-from-congress-about-the-epstein-files/article70755646.ece",
+    "time": "2026-03-17T21:59:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After revocation of suspension, Congress MPs insist protest was for Opposition rights, question Speaker",
+    "desc": "Congress MPs, whose suspension was revoked, asserted their dignified protest aimed at securing the right for LoP Rahul Gandhi and other opposition members to speak in Parliament. They highlighted perceived discrimination and biased decisions by the Speaker, arguing for equal application of parliamentary traditions and rules for all MPs.",
+    "img": "https://static.toiimg.com/photo/msid-129642139,imgsize-719405.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/after-revocation-of-suspension-congress-mps-insist-protest-was-for-opposition-rights-question-speaker/articleshow/129642129.cms",
+    "time": "2026-03-17T21:51:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' scenes and runtime cut by CBFC",
+    "desc": "The Revenge' has hit cinemas with a significant runtime reduction for its Indian release due to CBFC cuts. Despite an 'A' rating, scenes of extreme violence were trimmed, making the Indian version shorter than its overseas counterpart. The film, however, has already seen a strong advance booking performance.",
+    "img": "https://static.toiimg.com/photo/msid-129641800,imgsize-193862.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-ranveer-singh-starrer-faces-cbfc-cuts-violent-scenes-and-runtime-reduced-ahead-of-release/articleshow/129641796.cms",
+    "time": "2026-03-17T21:29:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A kidney sale that led to a CB-CID probe in Tamil Nadu",
+    "desc": "The nexus of agents with doctors and hospitals in the illegal sale of kidneys was exposed, the then Deputy Superintendent of Police V. Parthasarathy, who led the Organised Crime Unit of the CB-CID in investigating the case, wrote in a police journal published in 2010",
+    "img": "https://th-i.thgim.com/public/incoming/plhn52/article70755704.ece/alternates/LANDSCAPE_1200/wangsina_333_03_2022_2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-kidney-sale-in-2007-that-led-to-a-cb-cid-probe-in-tamil-nadu/article70755552.ece",
+    "time": "2026-03-17T21:22:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Raj Kundra calls for ban on porn sites, backs Harbhajan Singh",
+    "desc": "Raj Kundra has spoken out on the growing concern around explicit content online, calling for stricter regulations and even a potential ban on pornographic websites in India. His statement comes days after Harbhajan Singh raised similar concerns in Parliament about the impact of such content on young minds.",
+    "img": "https://static.toiimg.com/photo/msid-129641825,imgsize-67104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raj-kundra-calls-for-ban-on-porn-sites-backs-harbhajan-singh-on-regulating-explicit-content-restrict-social-media-for-children-under-16/articleshow/129641825.cms",
+    "time": "2026-03-17T21:20:12.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Hansika Motwani seeks blessings at Golden Temple after divorce",
     "desc": "Hansika Motwani was recently seen seeking solace and strength at the Golden Temple following her separation from Sohael Khaturiya. The actress shared glimpses of her peaceful visit on social media, offering fans a quiet moment of faith.",
@@ -43,24 +241,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/amid-confusion-over-internal-reservation-karnataka-scst-commission-holds-deliberations/article70754714.ece",
     "time": "2026-03-17T18:29:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gippy Grewal receives alleged threat from Goldy Brar",
-    "desc": "A purported audio clip allegedly linked to foreign-based gangster Goldy Brar threatening Punjabi actor-singer Gippy Grewal surfaced on social media on Tuesday, sparking concern among fans and industry insiders. In the unverified audio recording, the caller—believed to be Brar—can be heard confronting Grewal for not responding to an earlier message, as reported by PTI.",
-    "img": "https://static.toiimg.com/photo/msid-129639942,imgsize-105514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/punjabi/movies/news/message-can-be-ignored-not-bullets-gippy-grewal-receives-alleged-threat-from-goldy-brar-chilling-audio-clip-goes-viral/articleshow/129639942.cms",
-    "time": "2026-03-17T18:28:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nemom constituency in for a tight and unpredictable contest",
-    "desc": "While LDF has announced incumbent MLA V. Sivankutty as its candidate, Rajeev Chandrasekhar will contest for NDA. UDF yet to propose its candidate. With BJP again setting high hopes for constituency, LDF fighting hard to defend its turf and UDF yet to reveal its cards, an exciting contest is on the cards in Nemom",
-    "img": "https://th-i.thgim.com/public/incoming/hq4avi/article70755542.ece/alternates/LANDSCAPE_1200/ThiruvananthapuGM3FNJ7NE.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2026-nemom-constituency-in-for-a-tight-and-unpredictable-contest/article70750037.ece",
-    "time": "2026-03-17T18:09:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -145,24 +325,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "‘Rahul Gandhi must apologise to the nation’: 204 retired officers, Army veterans and advocates slam LOP in open letter on Parliament conduct",
-    "desc": "Over 200 retired officials, including veterans and former bureaucrats, have penned an open letter criticizing Rahul Gandhi and other opposition MPs for their conduct within Parliament on March 12. They deemed the protest on Parliament steps a \"conscious disregard for parliamentary authority\" and urged Gandhi to apologize for undermining the \"temple of democracy.\"",
-    "img": "https://static.toiimg.com/photo/msid-129638699,imgsize-1045034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-must-apologise-to-the-nation-204-retired-officers-army-veterans-and-advocates-slam-lop-in-open-letter-on-parliament-conduct/articleshow/129638084.cms",
-    "time": "2026-03-17T17:27:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NCB marks 41st Raising Day with nationwide youth programmes promoting a drug-free India",
-    "desc": "The Narcotics Control Bureau celebrated its 41st Raising Day with nationwide youth mobilization programs for a Drug-Free India. Events across nearly 40 locations included anti-drug pledges, awareness sessions, and rallies, emphasizing healthy lifestyle choices and the consequences of substance abuse. Participants were encouraged to utilize the MANAS Helpline for reporting and assistance.",
-    "img": "https://static.toiimg.com/photo/msid-129637663,imgsize-648439.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ncb-marks-41st-raising-day-with-nationwide-youth-programmes-promoting-a-drug-free-india/articleshow/129637558.cms",
-    "time": "2026-03-17T16:34:11.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "MDMK calls for total prohibition and life imprisonment for sexual offenders",
     "desc": "In its manifesto released on Tuesday (March 17, 2026) by party general secretary Vaiko, the MDMK said Tamil Nadu should be free from liquor and other drugs which are ‘responsible for the degeneration of youth’",
     "img": "https://th-i.thgim.com/public/incoming/nbfvpf/article70755194.ece/alternates/LANDSCAPE_1200/DSC_3286.JPG",
@@ -178,15 +340,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kabul-hospital-airstrike-pakistan-afghanistan-conflict-india-response-march-17-2026/article70752886.ece",
     "time": "2026-03-17T16:27:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sobhita reused her Ponniyin Selvan jewellery for wedding",
-    "desc": "Sobhita Dhulipala’s bridal look at her wedding with Naga Chaitanya may have looked effortless and rooted in tradition, but it came with a story that began years earlier—on the sets of Ponniyin Selvan. The designer also spoke about her experience working with Aishwarya Rai Bachchan, underlining the level of precision the actress brings to her craft.",
-    "img": "https://static.toiimg.com/photo/msid-129637324,imgsize-84522.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sobhita-dhulipala-reused-her-ponniyin-selvan-jewellery-for-wedding-with-naga-chaitanya-designer-calls-aishwarya-rai-a-thorough-professional/articleshow/129637324.cms",
-    "time": "2026-03-17T16:20:08.000Z"
   },
   {
     "cat": "Sports",
@@ -207,24 +360,6 @@ const newsData_en = [
     "time": "2026-03-17T16:09:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Prabhu Deva sells two apartments in Mumbai worth Rs 14.80 crore",
-    "desc": "Actor and choreographer Prabhu Deva has sold two South Mumbai apartments for ₹14.80 crore, which he originally purchased for ₹14.45 crore in 2012. The 1,295 sq ft flats, located on the 32nd and 33rd floors, were sold for ₹7.40 crore each. The deal was registered on March 13, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-129637080,imgsize-45088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prabhu-deva-sells-two-apartments-in-mumbai-worth-rs-14-80-crore-details-inside/articleshow/129637043.cms",
-    "time": "2026-03-17T15:58:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Athawale",
-    "desc": "Union Minister Ramdas Athawale highlighted Census 2027 as a crucial opportunity for accurate disability data, enabling targeted policymaking post the Rights of Persons with Disabilities Act, 2016. A new handbook aims to help parliamentarians translate legal provisions into actionable policy, addressing barriers faced by persons with disabilities, particularly in healthcare.",
-    "img": "https://static.toiimg.com/photo/msid-129636983,imgsize-469115.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/census-2027-offers-historic-opportunity-to-record-data-on-disabilities-athawale/articleshow/129636958.cms",
-    "time": "2026-03-17T15:54:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Much fitter': Rohit gets MI head coach's boost ahead of IPL 2026",
     "desc": "Mumbai Indians head coach Mahela Jayawardene praised Mumbai Indians’ strong core, with Suryakumar Yadav, Jasprit Bumrah, Hardik Pandya and Tilak Varma shining in India’s T20 World Cup win. MI have given them an extended break. He backed Suryakumar, praised Bumrah, hinted at a bigger role for Rohit Sharma, and welcomed healthy selection competition.",
@@ -234,15 +369,6 @@ const newsData_en = [
     "time": "2026-03-17T15:38:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shilpa Shirodkar says she's not shy about asking for work in the industry",
-    "desc": "Shilpa Shirodkar is making a strong comeback with multiple projects lined up, including a web series and another film, following her 'Bigg Boss 18' stint. She remains open to full-fledged work and actively seeks opportunities by networking. Her recent traditional look on Instagram, shared with 'Bigg Boss' friends, has further engaged fans eagerly awaiting her next announcements.",
-    "img": "https://static.toiimg.com/photo/msid-129636644,imgsize-37208.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shilpa-shirodkar-says-shes-not-shy-about-asking-industry-people-for-work-mujhe-kaam-chahiye-toh-kuch-acha-hoga-toh/articleshow/129636633.cms",
-    "time": "2026-03-17T15:33:37.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Congress announces first list of 55 candidates, yet to take a call on MPs wishing to contest",
     "desc": "K.C. Venugopal says party will take a decision on MPs' desire to contest later. Party has not yet named candidates for Kannur and Konni for which MPs K. Sudhakaran and Adoor Prakash respectively raised demands. The initial list includes 20 incumbent MLAs",
@@ -250,24 +376,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-congress-announces-first-list-of-55-candidates-yet-to-take-a-call-on-mps-wishing-to-contest/article70754662.ece",
     "time": "2026-03-17T15:29:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 South stories of the day",
-    "desc": "Rashmika Mandanna returns to the sets of 'Mysaa' after her wedding, while actor R. Parthiban has apologized for a caste remark made during a promotional event. Delays plague Vijay's 'Jana Nayagan' due to re-censorship issues, and Ram Charan's 'Peddi' is nearing completion. Meanwhile, Khushbu Sundar defends Trisha Krishnan against personal life rumors.",
-    "img": "https://static.toiimg.com/photo/msid-129636473,imgsize-163638.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rashmika-mandanna-resumes-mysaa-shoot-parthiban-apologises-after-caste-remark-jana-nayagan-review-cancellation-top-5-south-stories-of-the-day/articleshow/129636473.cms",
-    "time": "2026-03-17T15:26:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sara asked to submit affidavit to pray at Badrinath, Kedarnath",
-    "desc": "Bollywood actress Sara Ali Khan has been asked to submit an affidavit if she wishes to seek blessings at the revered Badrinath Temple and Kedarnath Temple. On Tuesday, Badri-Kedar Temple Committee Chairman Hemant Dwivedi addressed the media and stated that, going forward, all non-Hindus will be required to submit an affidavit if they wish to offer prayers at the temples.",
-    "img": "https://static.toiimg.com/photo/msid-129636358,imgsize-100148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sara-ali-khan-asked-to-submit-affidavit-to-offer-prayers-at-badrinath-kedarnath-temple-committee-clarifies-rule/articleshow/129636358.cms",
-    "time": "2026-03-17T15:22:00.000Z"
   },
   {
     "cat": "Politics",
@@ -288,15 +396,6 @@ const newsData_en = [
     "time": "2026-03-17T15:19:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Thalapathy Vijay's 'Jana Nayagan' re-censorship delayed again",
-    "desc": "Thalapathy Vijay's final film, Jana Nayagan, faces new delays. The re-censorship process has been cancelled again, disappointing fans and the makers. The film's release is now uncertain. It was initially planned for January 9. The team withdrew their case and resubmitted for a fresh review. The movie is expected to release after the Tamil Nadu elections.",
-    "img": "https://static.toiimg.com/photo/msid-129635998,imgsize-69398.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-re-censorship-delayed-again-thalapathy-vijays-final-film-faces-fresh-uncertainty/articleshow/129635998.cms",
-    "time": "2026-03-17T14:54:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Beyond oil &amp; gas: How Middle East conflict impacts India",
     "desc": "Beyond oil and gas, several other sectors of the economy will likely see a hit if the US-Iran war continues for a longer duration. According to Barclays, India's non-energy imports from the Middle East are sizable as well - at approximately 10% of total non-energy imports.",
@@ -315,24 +414,6 @@ const newsData_en = [
     "time": "2026-03-17T14:45:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Only Amitabh Bachchan and I call': Nana says most actors don't talk without managers",
-    "desc": "Veteran actor Nana Patekar and director Prakash Jha have voiced concerns about the growing complexity and cost associated with working with big stars. They highlighted how unreachable stars and their large entourages, managed by corporate structures, inflate film budgets, making direct communication and creative collaboration increasingly difficult.",
-    "img": "https://static.toiimg.com/photo/msid-129635193,imgsize-41680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/only-amitabh-bachchan-and-i-call-nana-patekar-reveals-its-difficult-to-talk-to-actors-directly-without-managers-prakash-jha-says-they-have-entourage-of-27-28-people/articleshow/129635036.cms",
-    "time": "2026-03-17T14:17:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Maatrubhumi’s Chand Dekh Lena teaser: Salman and Chitrangda portray silent pain",
-    "desc": "Salman Khan Films drops teaser for third song ‘Chand Dekh Lena’ after ‘Maatrubhumi’ title track's 50M views and soulful ‘Main Hoon’. It shows army officer's life, family waits like Chitrangda Singh for Salman post-duty, evoking Eid-Karwa Chauth love. Apoorva Lakhia directs, Salma Khan produces—honoring sacrifice.",
-    "img": "https://static.toiimg.com/photo/msid-129635070,imgsize-58468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maatrubhumi-chand-dekh-lena-teaser-salman-khan-and-chitrangda-singh-portray-silent-pain-and-love-of-army-families/articleshow/129635070.cms",
-    "time": "2026-03-17T14:13:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Mandhana No.1, Harmanpreet climbs",
     "desc": "India women's team skipper Harmanpreet Kaur rose to seventh in ICC ODI rankings, while Smriti Mandhana stayed No.1. All-rounder Sophie Devine slipped to ninth. New Zealand stars impressed Maddy Green and Amelia Kerr made big gains. In T20Is, Kerr, Georgia Plimmer and Jess Kerr also climbed rankings with strong performances.",
@@ -340,24 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-dominate-latest-rankings-smriti-mandhana-no-1-harmanpreet-kaur-climbs/articleshow/129634479.cms",
     "time": "2026-03-17T14:12:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay opens up on LPG shortage, says wife Twinkle has bought 2 inductions",
-    "desc": "Akshay Kumar, promoting his upcoming film 'Bhooth Bangla', addressed concerns about potential LPG shortages due to Middle East tensions. He revealed his wife, Twinkle Khanna, has ordered electric stoves as a backup, though his home currently has no gas shortage. Kumar also emphasized the importance of cleanliness initiatives.",
-    "img": "https://static.toiimg.com/photo/msid-129634248,imgsize-27874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-opens-up-on-lpg-shortage-due-to-middle-east-tensions-says-wife-twinkle-khanna-has-bought-two-electric-stoves/articleshow/129634233.cms",
-    "time": "2026-03-17T13:36:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Malayalam cinema’s highest-grossing movies",
-    "desc": "Malayalam cinema is captivating global audiences with its realistic storytelling and strong performances. Recent hits like 'Manjummel Boys' and '2018' have shattered box office records, demonstrating the industry's growing international appeal. With upcoming releases featuring top stars and sequels to popular franchises, Malayalam films are poised for even greater success, reaching viewers worldwide through OTT platforms and word-of-mouth.",
-    "img": "https://static.toiimg.com/photo/msid-129634102,imgsize-240830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/lokah-to-2018-malayalam-cinemas-highest-grossing-movies/articleshow/129634102.cms",
-    "time": "2026-03-17T13:32:03.000Z"
   },
   {
     "cat": "Sports",
@@ -376,33 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rcbs-josh-hazlewood-to-miss-ipl-2026-start-out-for-two-weeks-report/articleshow/129633082.cms",
     "time": "2026-03-17T12:52:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'See It worked out'",
-    "desc": "Ali Fazal celebrated his anniversary with Richa Chadha, sharing heartfelt photos and a personal note on Instagram. The post highlighted their journey from meeting on the 'Fukrey' set to building a family, including the recent arrival of their daughter. Fazal's message emphasized cherished memories and the comfort of their enduring bond, marking another significant moment in their shared timeline.",
-    "img": "https://static.toiimg.com/photo/msid-129633030,imgsize-225700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/richa-chadha-gets-sweet-anniversary-message-from-ali-fazal-see-it-worked-out/articleshow/129633030.cms",
-    "time": "2026-03-17T12:38:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika Mandanna resumes ‘Mysaa’ shoot",
-    "desc": "Actress Rashmika Mandanna returns to the sets of her film 'Mysaa'. This action-thriller is set to begin filming soon. Mandanna will portray a Gond woman in the movie. She also has other projects lined up. Her wedding to Vijay Deverakonda took place recently. Both stars are now focusing on their professional commitments.",
-    "img": "https://static.toiimg.com/photo/msid-129632905,imgsize-90854.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-resumes-mysaa-shoot-weeks-after-wedding-to-vijay-deverakonda-the-hunt-begins/articleshow/129632905.cms",
-    "time": "2026-03-17T12:30:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nivin Pauly’s 'Prathichaya' set for March 26 release",
-    "desc": "Nivin Pauly's political thriller 'Prathichaya' is slated for a worldwide theatrical release on March 26. Directed by Unnikrishnan B, the film delves into the complexities of politics, power, and corruption. The trailer offers a glimpse into Nivin's character navigating a tense political landscape, highlighting the struggle for power and the creation of public images.",
-    "img": "https://static.toiimg.com/photo/msid-129632842,imgsize-129756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/nivin-pauly-announces-release-date-of-political-thriller-prathichaya-for-march-26-a-fathers-legacy-a-sons-destiny/articleshow/129632842.cms",
-    "time": "2026-03-17T12:28:48.000Z"
   },
   {
     "cat": "Sports",
@@ -522,15 +558,6 @@ const newsData_en = [
     "time": "2026-03-17T08:18:40.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Kaise kheloge?’: Wife’s honest question that sparked Surya’s India career",
-    "desc": "Suryakumar Yadav credits his wife Devisha's \"brutally honest\" question in 2018 as the catalyst for his international cricket career. Her direct inquiry about his aspirations pushed him to implement disciplined lifestyle changes, leading to consistent performances and his eventual India debut. Devisha's support extended beyond cricket, focusing on mindset and humility.",
-    "img": "https://static.toiimg.com/photo/msid-129627566,imgsize-72644.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kaise-kheloge-wifes-honest-question-that-sparked-suryakumar-yadavs-india-career/articleshow/129627546.cms",
-    "time": "2026-03-17T08:14:34.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Staff face salary cuts, layoffs as eateries struggle to keep kitchens running",
     "desc": "Middle East tensions are disrupting LPG supplies to India's food services sector, leading to operational stress. Restaurant owners warn of layoffs and salary cuts as commercial LPG access remains inconsistent, impacting smaller businesses and street vendors most severely. The industry braces for prolonged disruption with no clear recovery timeline.",
@@ -574,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/oscars-2026-kpop-demon-hunters-songwriters-react-after-speech-cut-off-disney-tv-exec-says-changes-being-considered/article70752789.ece",
     "time": "2026-03-17T06:28:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "After Anthropic hit, Infosys, TCS &amp; other Indian IT stocks tank on Nvidia’s new AI system news; what’s happening",
-    "desc": "​​Tata Consultancy Services (TCS) and HCL Technologies dropped nearly 2%, while Tech Mahindra slipped more than 1%. The declines pushed the Nifty IT index down by over 2%, making it the worst-performing sectoral index on the NSE.",
-    "img": "https://static.toiimg.com/photo/msid-129625065,imgsize-111350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/after-anthropic-hit-infosys-tcs-other-indian-it-stocks-tank-on-nvidias-new-ai-system-news-whats-happening/articleshow/129624979.cms",
-    "time": "2026-03-17T06:09:03.000Z"
   },
   {
     "cat": "Sports",
@@ -684,15 +702,6 @@ const newsData_en = [
     "time": "2026-03-15T17:16:28.000Z"
   },
   {
-    "cat": "World",
-    "title": "Mojtaba Khamenei",
-    "desc": "A wounded man who lost his parents and wife, and was elected the ‘Supreme Leader’ of a nation under attack from the world’s most powerful country and its closest ally, the ayatollah now faces a rare crisis his predecessors never confronted — to survive the storm and preserve the republic",
-    "img": "https://th-i.thgim.com/public/news/national/ftp13j/article70744410.ece/alternates/LANDSCAPE_1200/khamenei%20mojtaba_Art.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/mojtaba-khamenei-the-cleric-with-a-gun/article70744423.ece",
-    "time": "2026-03-15T08:03:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "China may face closer scrutiny in U.S. forced-labour probe: GTRI",
     "desc": "India's exports of solar panels, electronics, and garments to the U.S. may also face closer scrutiny under this new U.S. investigation into forced labour in global supply chains, says the Global Trade Research Initiative (GTRI)",
@@ -736,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-identifies-six-service-members-killed-in-plane-crash-over-iraq/article70745820.ece",
     "time": "2026-03-15T06:02:26.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran foreign minister says ‘no problem’ with new Supreme Leader Mojtaba Khamenei after injury reports",
-    "desc": "U.S. Secretary of Defense Pete Hegseth said he believed Mr. Khamenei, who took power after his father was killed in a strike at the start of the U.S.-Israeli war on Iran, “is wounded and likely disfigured.”",
-    "img": "https://th-i.thgim.com/public/incoming/86b598/article70744739.ece/alternates/LANDSCAPE_1200/Iran_US_Israel_93175.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-foreign-minister-says-no-problem-with-supreme-leader-after-reported-injuries/article70744516.ece",
-    "time": "2026-03-15T04:16:54.000Z"
   },
   {
     "cat": "Entertainment",
