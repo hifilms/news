@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "હવે મમતા બેનર્જીએ પણ અપનાવ્યો ભાજપનો &amp;#039;વિનિંગ ફોર્મ્યૂલા&amp;#039;, ગુજરાતમાં વિરોધીઓના સૂપડાં થઈ જતા સાફ",
+    "desc": "ભાજપે જે વિનિંગ ફોર્મ્યૂલાની શરૂઆત ગુજરાતથી કરી અને પછી તેની સફળતા બીજે પણ અજમાવી હવે એ જ ફોર્મ્યૂલા જાણે બંગાળમાં મમતા બેનર્જી પણ અજમાવતા જોવા મળી રહ્યા છે. જેના પગલે તેઓ ફરીથી બંપર જીત સાથે સત્તામાં પાછા ફરવાના સપના સેવી રહ્યા છે. શું ભાજપનો આ ફોર્મ્યૂલા અપનાવીને ટીએમસીને ભાજપ જેવી જીત મળશે? ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/explainer-has-mamata-banerjee-also-adopted-bjp-winning-formula-successful-in-gujarat-469052 ",
+    "time": "2026-03-18T04:48:58.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "હોર્મુઝ જળમાર્ગ ખોલાવવા માટે અમેરિકાએ મોરચો સંભાળ્યો, 2200 કિલોનો મહાબોમ્બ ઝીંક્યો",
+    "desc": "ઈરાને ઈઝરાયેલ અને અમેરિકા સાથે યુદ્ધના પગલે વેપાર માટે મહત્વના ગણાતા હોર્મુઝ જળમાર્ગને બંધ કર્યો તો અનેક દેશો બૂમ પાડી ઉઠ્યા. હવે અમેરિકાએ આ હોર્મુઝ જળમાર્ગને ખોલાવવા માટે મોરચો સંભાળતા મોટી કાર્યવાહી હાથ ધરી છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/america-takes-the-lead-in-opening-the-strait-of-hormuz-dropped-a-bunker-buster-bomb-469041 ",
+    "time": "2026-03-18T04:15:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આંખ ફોડવી, માથા પર હથોડા મારવા સહિતના સીન કપાયા, 21 સીન કપાયા પછી ફિલ્મનો રન ટાઈમ કેટલો હશે જાણો",
+    "desc": "રણવીર સિંહની ફિલ્મ ધુરંધર 2 જોવા માટે એકતરફ લોકો તલપાપડ છે. અને બીજી તરફ ફિલ્મની લંબાઈ ચર્ચાનો વિષય બની છે. સેન્સર બોર્ડે ધુરંધર 2 ફિલ્મના 21 સીન કટ કરાવ્યા છે. હવે આટલા સીન કટ થયા પછી ફિલ્મનો ખરેખર રન ટાઈમ કેટલો હશે ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-the-revenge-censor-board-cut-21-disturbing-scene-what-is-actual-runtime-of-dhurandhar-2-film-469049 ",
+    "time": "2026-03-18T03:53:28.000Z"
+  },
+  {
     "cat": "World",
     "title": "ટ્રમ્પની ટીમમાં તિરાડ ! સિનિયર અધિકારીએ આપ્યું રાજીનામું, કહ્યું",
     "desc": "ઈરાન સાથેના યુદ્ધને લઈને અમેરિકાના કાઉન્ટર ટેરરિઝમ સેન્ટરના ડિરેક્ટર જો કેન્ટે રાજીનામું આપી દીધું છે. કેન્ટે જણાવ્યું હતું કે અમેરિકાએ ઇઝરાયલના દબાણ હેઠળ આ યુદ્ધ શરૂ કર્યું હતું અને તેઓ હવે તેનું સમર્થન કરશે નહીં. કેન્ટના રાજીનામાથી ડોનાલ્ડ ટ્રમ્પને મોટો ઝટકો લાગ્યો છે.",
@@ -322,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/new-zealand-spinner-ish-sodhi-ruled-out-of-t20i-series-against-south-africa-468814 ",
     "time": "2026-03-16T07:16:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "તમિલનાડુમાં બધાને પછાડી પહેલીવાર NDAની સરકાર બની શકે, ઓપિનિયન પોલના ચોંકાવનારા તારણો",
-    "desc": "ચૂંટણી પંચે તમિલનાડુમાં વિધાનસભા ચૂંટણીની તારીખો જાહેર કરી દીધી. આ બધા વચ્ચે તમિલનાડુ માટે એક ઓપિનિયન પોલ પણ સામે આવ્યો જેના તારણો સત્તાધારી પાર્ટીને ચિંતામાં મૂકી શકે જ્યારે એનડીએને ખુશ કરી શકે તેવા છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/tamil-nadu-assembly-election-findings-of-opinion-poll-nda-may-form-government-for-the-first-time-468791 ",
-    "time": "2026-03-16T06:39:02.000Z"
   },
   {
     "cat": "Sports",
@@ -790,14 +808,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-official-trailer-released-watch-now-here-467497 ",
     "time": "2026-03-07T06:43:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રશ્મિકા-વિજયના રિસેપ્શનમાં એક્ટર રામ ચરણ પહોંચ્યો સાદા કપડામાં અને ખુલ્લા પગે, પત્નીનો હાથ પકડવાનું પણ ટાળ્યું",
-    "desc": "સાઉથ સુપરસ્ટાર રામ ચરણ હાલ જ્યાં પણ જોવા મળે છે ત્યાં સાદા કાળા કપડામાં અને ખુલ્લા પગે જોવા મળે છે. રશ્મિકા મંદાના અને વિજય દેવરકોંડાના લગ્નના રિસેપ્શનમાં પણ રામ ચરણ ખુલ્લા પગે જોવા મળ્યો હતો એટલું જ નહીં તેણે પોતાની પત્ની ઉપાસનાથી દુરી પણ જાળવી રાખી હતી આવું શા માટે છે ચાલો તેનું કારણ જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/why-actor-ram-charan-stay-bare-foot-why-actor-ram-charan-doing-41-days-ayyappa-deeksha-every-year-467282 ",
-    "time": "2026-03-05T07:31:02.000Z"
   }
 ];

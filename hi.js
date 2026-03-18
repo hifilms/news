@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Senegal's AFCON title win overturned two months after final, Morocco declared champions in stunning verdict",
+    "desc": "Morocco was stunning awarded the African Cup of Nations (AFCON) title on Tuesday by appeals judges by overturning Senegal's 1-0 win in the controversial final played, exactly two months ago, on January 18. The Confederation...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/senegal-s-afcon-title-win-overturned-two-months-after-final-morocco-declared-champions-in-stunning-verdict-2026-03-18-1034149",
+    "time": "2026-03-18T04:51:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India, Pakistan clubbed in same group in Men's Hockey World Cup, arch-rivals to clash three times in 2026",
+    "desc": "India and Pakistan have been clubbed in the same group in the upcoming FIH Men's Hockey World Cup. The mega event is scheduled to take place from August 15 to 30, with the Netherlands and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-pakistan-clubbed-in-same-group-in-men-s-hockey-world-cup-arch-rivals-to-clash-three-times-in-2026-2026-03-18-1034133",
+    "time": "2026-03-18T03:02:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma to play as an impact player again in IPL 2026? Mumbai Indians' head coach opens up",
+    "desc": "Mumbai Indians head coach Mahela Jayawardene has opened up on the possibility of playing Rohit Sharma as an impact player yet again in IPL 2026. The five-time champions were criticised a lot by many for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-to-play-as-an-impact-player-again-in-ipl-2026-mumbai-indians-head-coach-opens-up-2026-03-18-1034129",
+    "time": "2026-03-18T02:28:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australian players advised to stay away from Peshawar in PSL 2026 amid Pakistan's tensions with Afghanistan",
+    "desc": "The upcoming edition of the Pakistan Super League (PSL) is set to commence on March 26, and a strong overseas contingent has been signed by the league to feature in the tournament. Star players from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australian-players-advised-to-stay-away-from-peshawar-in-psl-2026-amid-pakistan-s-tensions-with-afghanistan-2026-03-18-1034124",
+    "time": "2026-03-18T01:55:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Where to watch UEFA Champions League clash on TV and stream online in India?",
     "desc": "Manchester City need to pull off a miracle at Etihad Stadium to beat Real Madrid by a four-goal margin to qualify for the quarter-final of the UEFA Champions League. Courtesy of a Federico Valverde hat-trick...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ab-de-villiers-shares-key-advice-to-ms-dhoni-before-ipl-2026-believes-sanju-samson-is-ready-to-take-over-2026-03-17-1034073",
     "time": "2026-03-17T12:12:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Should KL Rahul open for Delhi Capitals in IPL 2026? Former cricketer analyses impact",
-    "desc": "In IPL 2025, senior India batter KL Rahul amassed 539 runs in 13 matches at a strike rate of 149.72. Interestingly, he was slotted in the middle order to start with, as Jake Fraser-McGurk and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/should-kl-rahul-open-for-delhi-capitals-in-ipl-2026-former-cricketer-analyses-impact-2026-03-17-1034066",
-    "time": "2026-03-17T11:30:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kiwi pacers dominate after Devon Conway show as New Zealand script comeback in T20I series vs South Africa",
-    "desc": "New Zealand bowlers tormented South Africa in the second T20I in Hamilton, securing a 68-run win to square the series 1-1. The pacers lived up to the expectations, outclassing the Proteas, who were bundled for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kiwi-pacers-dominate-after-devon-conway-show-as-new-zealand-script-comeback-in-t20i-series-vs-south-africa-2026-03-17-1034055",
-    "time": "2026-03-17T10:32:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer reflects on Kuldeep Yadav's role for Delhi Capitals ahead of IPL 2026",
-    "desc": "The 19th edition of the IPL (Indian Premier League) is all set to kick off on March 28. Ahead of the start of the tournament, former India cricketer Mohammad Kaif took centre stage and talked...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-reflects-on-kuldeep-yadav-s-role-for-delhi-capitals-ahead-of-ipl-2026-2026-03-17-1034049",
-    "time": "2026-03-17T09:14:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson breaks silence on his exit from Rajasthan Royals, opens up on facing them in IPL 2026",
-    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026. The marquee tournament is slated to begin on March 28, and the 10 franchises will look to put in their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-breaks-silence-on-his-exit-from-rajasthan-royals-opens-up-on-facing-them-in-ipl-2026-2026-03-17-1034037",
-    "time": "2026-03-17T07:37:46.000Z"
   }
 ];
