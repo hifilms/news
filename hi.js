@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Faf du Plessis advises KKR to play IPL 2026 matches on spin-friendly deck amid injury concerns",
+    "desc": "Former cricketer Faf du Plessis has weighed in on what could shape Kolkata Knight Riders’ fortunes in IPL 2026. He pointed firmly toward conditions at their home ground, Eden Gardens and believes the franchise holds...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/faf-du-plessis-advises-kkr-to-play-ipl-2026-matches-on-spin-friendly-deck-amid-injury-concerns-2026-03-18-1034242",
+    "time": "2026-03-18T15:58:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma, MS Dhoni, Virat Kohli chase AB de Villiers' all-time record in IPL 2026",
+    "desc": "Former cricketer AB de Villiers still holds the record for the most Player of the Match awards in Indian Premier League (IPL) history. The keeper-batter claimed the honour 12 times before calling his time in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-ms-dhoni-virat-kohli-chase-ab-de-villiers-all-time-record-in-ipl-2026-2026-03-18-1034239",
+    "time": "2026-03-18T15:16:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jos Buttler unsure of international future, expresses desire to continue playing for England",
+    "desc": "Jos Buttler has admitted uncertainty over his immediate international future following England’s semi-final exit against India at the T20 World Cup. While he remains eager to continue representing his country, selection for the upcoming white-ball...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-unsure-of-international-future-expresses-desire-to-continue-playing-for-england-2026-03-18-1034235",
+    "time": "2026-03-18T14:17:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shivam Dube shares reason behind choosing train over flight after T20 World Cup win",
+    "desc": "All-rounder Shivam Dube chose an unusual route home after winning the T20 World Cup 2026, beating New Zealand at the Narendra Modi Stadium in Ahmedabad. While the rest of the squad prepared for a scheduled...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shivam-dube-shares-reason-behind-choosing-train-over-flight-after-t20-world-cup-win-2026-03-18-1034228",
+    "time": "2026-03-18T13:12:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sunrisers Hyderabad announce Ishan Kishan as new captain as Pat Cummins to miss start of IPL 2026",
     "desc": "Sunrisers Hyderabad captain Pat Cummins will miss the first few matches of the IPL 2026. The pacer is currently recovering from a back injury, for which he featured in only one of the Ashes Tests...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/senegal-s-afcon-title-win-overturned-two-months-after-final-morocco-declared-champions-in-stunning-verdict-2026-03-18-1034149",
     "time": "2026-03-18T04:51:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India, Pakistan clubbed in same group in Men's Hockey World Cup, arch-rivals to clash three times in 2026",
-    "desc": "India and Pakistan have been clubbed in the same group in the upcoming FIH Men's Hockey World Cup. The mega event is scheduled to take place from August 15 to 30, with the Netherlands and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-pakistan-clubbed-in-same-group-in-men-s-hockey-world-cup-arch-rivals-to-clash-three-times-in-2026-2026-03-18-1034133",
-    "time": "2026-03-18T03:02:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma to play as an impact player again in IPL 2026? Mumbai Indians' head coach opens up",
-    "desc": "Mumbai Indians head coach Mahela Jayawardene has opened up on the possibility of playing Rohit Sharma as an impact player yet again in IPL 2026. The five-time champions were criticised a lot by many for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-to-play-as-an-impact-player-again-in-ipl-2026-mumbai-indians-head-coach-opens-up-2026-03-18-1034129",
-    "time": "2026-03-18T02:28:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australian players advised to stay away from Peshawar in PSL 2026 amid Pakistan's tensions with Afghanistan",
-    "desc": "The upcoming edition of the Pakistan Super League (PSL) is set to commence on March 26, and a strong overseas contingent has been signed by the league to feature in the tournament. Star players from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australian-players-advised-to-stay-away-from-peshawar-in-psl-2026-amid-pakistan-s-tensions-with-afghanistan-2026-03-18-1034124",
-    "time": "2026-03-18T01:55:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch UEFA Champions League clash on TV and stream online in India?",
-    "desc": "Manchester City need to pull off a miracle at Etihad Stadium to beat Real Madrid by a four-goal margin to qualify for the quarter-final of the UEFA Champions League. Courtesy of a Federico Valverde hat-trick...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/real-madrid-vs-manchester-city-where-to-watch-uefa-champions-league-clash-on-tv-and-stream-online-in-india-2026-03-17-1034108",
-    "time": "2026-03-17T18:07:21.000Z"
   }
 ];

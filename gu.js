@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "&amp;#039;અમારા પર યુદ્ધ થોપવામાં આવ્યું, મિત્રો માટે હોર્મુઝ ખુલ્લું છે...&amp;#039; Wion World Pulseમાં ઈરાનના ડેપ્યુટી ચીફનું નિવેદન",
+    "desc": "ઈરાન-ઈઝરાયેલ અને અમેરિકા વચ્ચે છેલ્લા ઘણા દિવસોથી યુદ્ધ ચાલી રહ્યું છે. આ વચ્ચે ભારતમાં ઈરાનના ડેપ્યુટી ચીફ મોહમ્મદ જાવેદ હુસૈનીએ WION World Pulse કાર્યક્રમમાં કહ્યું કે, મિત્રો માટે 'સ્ટ્રેટ ઓફ હોર્મુઝ' ખુલ્લું છે. પરંતુ એ દેશો માટે નહીં જે ઈઝરાયેલ અને અમેરિકાના મિત્રો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/war-imposed-on-us-hormuz-is-open-for-friends-statement-by-iran-deputy-chief-in-wion-world-pulse-469145 ",
+    "time": "2026-03-18T16:05:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "200 કિલોમીટરમાં ફેલાયેલું શહેર રાતોરાત થઈ ગયું હતું ગાયબ, આજ સુધી નથી ખુલ્યું રહસ્ય",
+    "desc": "તમને જાણીને નવાઈ લાગશે પણ સ્પેનના ગુઆડિયાના ઘાટીમાં ટાર્ટેસોસ નામનું એક શહેર 200 કિલોમીટર વિસ્તારમાં ફેલાયેલું હતું. એકાએક કંઈક એવું થયું તે આખી સભ્યતા જ ખતમ થઈ ગઈ, આ શહેર ક્યાં ગાયબ થઈ ગયું એનું રહસ્ય આજદીન સુધી વઉકલ્યું છે. જોકે, એ સમયે એવું તો શું થયું તે રાતોરાત આખી સભ્યતા ગાયબ થઈ ગઈ જાણી લો આ આર્ટિકલમાં....",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/tartessos-civilization-mystery-city-spread-over-200-kilometers-disappeared-overnight-mystery-has-not-been-solved-till-date-469143 ",
+    "time": "2026-03-18T15:07:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "જીન્સ-ટીશર્ટ પર પ્રતિબંધ, સોશિયલ મીડિયા પર પણ સરકારની &amp;#039;વોચ&amp;#039;... સરકારી કર્મચારીઓ માટે નવા નિયમો લાગુ",
+    "desc": "હિમાચલ પ્રદેશ સરકારે તમામ સરકારી કર્મચારીઓ માટે નવો ડ્રેસ કોડ લાગુ કર્યો છે. જેમાં ઓફિસમાં ફોર્મલ અને શાલીન પોશાક અનિવાર્ય કરવામાં આવ્યો છે અને જીન્સ તેમજ ટી-શર્ટ પર સંપૂર્ણ પ્રતિબંધ મૂકવામાં આવ્યો છે. સાથે જ સોશિયલ મીડિયા પર પરવાનગી વગર સરકારી નીતિઓ પર ટિપ્પણી કરવા અને સત્તાવાર માહિતી શેર કરવા પર મનાઈ ફરમાવવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ban-on-jeans-and-t-shirts-strict-social-media-restrictions-new-rules-implemented-for-government-employees-in-himachal-469142 ",
+    "time": "2026-03-18T14:33:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "તહેરાનમાં લોહીની હોળી, ઈઝરાયેલે ઈરાનના &amp;#039;ચાણક્ય&amp;#039; લારિજાનીને ફૂંકી માર્યા, જાણો કોણ કોણ મોતને ભેટ્યું",
+    "desc": "Iran US War; લારિજાની દેશના સૌથી પ્રભાવશાળી નેતાઓમાંથી એક હતા. ઈઝરાયેલે આ નેતાને ઉડાવી દીધા છે જ્યારે તેઓ પોતાની દીકરીના ઘરે તહેરાનમાં હતા. લારિજાનીના મોતને પગલે રશિયાએ કડક શબ્દોમાં નિંદા કરીને અમેરિકા અને ઈઝરાયેલ દ્વારા કરાયેલી હત્યા ગણાવી છે. જાણી લો આ નેતાના મોતથી ઈરાનને કેટલું નુક્સાન જશે...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-us-war-ali-khamenei-to-larijani-finished-us-can-get-trouble-iran-top-leader-killing-469141 ",
+    "time": "2026-03-18T14:05:06.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ઈશાન કિશન બન્યો SRHનો કેપ્ટન, અભિષેકને પણ મોટી જવાબદારી, કમિન્સનું શું થશે ?",
     "desc": "IPL 2026 પહેલા સનરાઇઝર્સ હૈદરાબાદે ઇશાન કિશનને સ્ટેન્ડ-ઇન કેપ્ટન તરીકે નિયુક્ત કર્યો છે. નિયમિત કેપ્ટન પેટ કમિન્સ પીઠની ઇજાને કારણે શરૂઆતની મેચો ગુમાવશે. અભિષેક શર્માને વાઈસ કેપ્ટન બનાવવામાં આવ્યો છે. તાજેતરના T20 વર્લ્ડ કપ અને સૈયદ મુશ્તાક અલી ટ્રોફીમાં શાનદાર પ્રદર્શન બાદ કિશનને આ જવાબદારી સોંપવામાં આવી છે.",
@@ -556,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/all-abu-dhabi-flights-and-5-dubai-flights-cancelled-air-indias-major-decision-amidst-the-major-conflict-468653 ",
     "time": "2026-03-15T05:09:22.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "શું નેતન્યાહૂ ખરેખર ઠીક છે? ઈરાની દૂતાવાસે આપ્યું પહેલું નિવેદન, જાણી લો કેમ ઉઠી છે આ ચર્ચા",
-    "desc": "ઈરાન સાથે ચાલી રહેલા યુદ્ધ વચ્ચે, ઈરાની સોશિયલ મીડિયા પ્લેટફોર્મ પર ઈઝરાયલના વડા પ્રધાન બેન્જામિન નેતન્યાહૂની હત્યાની અફવાઓ ફેલાઈ રહી છે. આ દરમિયાન, ઈરાની દૂતાવાસે પોતાનો પહેલું નિવેદન જાહેર કર્યું છે. જોકે, ઈઝરાયેલ આ તમામ બાબતોને અફવા ગણાવી રહ્યું છે પણ આ સવાલો કેમ થઈ રહ્યાં છે જાણી લો આ આર્ટિકલમાં...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/has-benjamin-netanyahu-been-assassinated-the-first-statement-given-by-the-iranian-embassy-know-this-468611 ",
-    "time": "2026-03-14T15:43:14.000Z"
   },
   {
     "cat": "Tech",

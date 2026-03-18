@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "বিনা মেঘে বজ্রপাত; সংকটের দিনেই LPG-র নয়া নিয়ম, রিফিল সিলিন্ডারে ঘোর কড়াকড়ি",
+    "desc": "রান্নার গ্যাসের সিলিন্ডার বুকিং নিয়ে কড়া নিয়ম চালু করল তেল বিপণন সংস্থাগুলি। এখন থেকে কোনো গ্রাহক যদি টানা ৯ মাস বা তার বেশি সময় কোনো সিলিন্ডার বুক না করেন, তবে তাঁর গ্যাসসংযোগ সাময়িকভাবে নিষ্ক্রিয় হয়ে যেতে পারে। তখন কী করতে হবে গ্রাহককে?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/did-not-book-gas-for-9-months-head-to-lpg-office-for-kyc-to-get-cylinder-png_645351.html ",
+    "time": "2026-03-18T13:39:40.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "জগন্নাথ দর্শন সেরে ফেরা হল না: থেমে গেল 'সাধক বামাখ্যাপা'-খ্যাত ঋতমের কলম",
     "desc": "মাত্র ৫২ বছর বয়সে হৃদরোগে আক্রান্ত হয়ে শেষ নিশ্বাস ত্যাগ করলেন জনপ্রিয় ধারাবাহিক ‘সাধক বামাখ্যাপা’-র স্রষ্টা তথা বিশিষ্ট চিত্রনাট্যকার ঋতম ঘোষাল। ওটিটি (OTT)-র যুগে যখন বাংলা টেলিভিশনের আধেয় দ্রুত পাল্টাচ্ছে, তখন ঋতম ঘোষালের মতো একজন লেখকের চলে যাওয়া বড়সড় শূন্যতা তৈরি করল।",
@@ -70,15 +79,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/lpg-tanker-shivalik-arrives-at-the-gujarat-mundra-port-crossing-hormuz-strait_645103.html ",
     "time": "2026-03-16T17:22:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ওরা আমাকে যা করছে, আর পারছি না: ৫ বন্ধুকে দায়ী করে ১৭ পাতার চিঠি নিয়ে ট্রেনের সামনে মরণঝাঁপ মেধাবী ডাক্তারি পড়ুয়ার",
-    "desc": "পুলিস জানিয়েছে যে প্রাথমিক তদন্তে জানা গিয়েছে যে রতন এর আগে দুবার আত্মহত্যার চেষ্টা করেছিলেন, তারপরে তার কাউন্সেলিং করা হয়েছিল। পরিবারের অভিযোগ, প্রথম আত্মহত্যার চেষ্টার সময় যদি ব্যবস্থা নেওয়া হত, তাহলে রতনের জীবন বাঁচানো যেত।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/17-page-last-note-by-aiims-rajkot-student-death_645060.html ",
-    "time": "2026-03-16T10:02:16.000Z"
   },
   {
     "cat": "Entertainment",
@@ -178,14 +178,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/rashmika-mandanna-mother-suman-allegations-against-rakshit-shetty-resurface-after-vijay-marriage_644653.html ",
     "time": "2026-03-12T13:29:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "প্রিয়বন্ধুর ঘর ভেঙে বিয়ে, সম্পর্ক টিকল না ৪ বছরও, আইনি বিচ্ছেদ হল হংসিকার",
-    "desc": "ভাঙল রূপকথার সংসার! আইনি বিচ্ছেদ হল অভিনেত্রী হংসিকা মোতওয়ানি ও সোহেল খাতুরিয়ার। পারস্পরিক সম্মতিতে ডিভোর্স মঞ্জুর করল বান্দ্রা ফ্যামিলি কোর্ট। প্রাক্তন স্বামীর থেকে কোনো খোরপোশ নেননি অভিনেত্রী। সব ছবি মুছে ফেলে এবার নতুন জীবনের পথে হংসিকা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/hansika-motwani-sohael-khaturiya-divorce-confirmed-bandra-court_644543.html ",
-    "time": "2026-03-11T14:42:24.000Z"
   }
 ];
