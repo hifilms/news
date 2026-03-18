@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Five Iran women players seeking asylum in Australia after AFC Asian Cup return home, two players remain",
+    "desc": "Members of the Iran women's team have returned home after seeking asylum in Australia during their recent trip for the AFC Women’s Asian Cup. The group travelled from Australia via Istanbul before heading toward the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/five-iran-women-players-seeking-asylum-in-australia-after-afc-asian-cup-return-home-two-players-remain-2026-03-18-1034255",
+    "time": "2026-03-18T18:14:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yuzvendra Chahal quits alcohol ahead of IPL 2026, states reason behind Punjab's IPL 2025 final loss to RCB",
+    "desc": "Ahead of the IPL 2026 campaign, Punjab Kings’ marquee spinner Yuzvendra Chahal revealed the discipline and the lifestyle change he has adopted for the tournament. The leg-spinner, who remains the league’s highest wicket-taker, has mentioned...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yuzvendra-chahal-quits-alcohol-ahead-of-ipl-2026-states-reason-behind-punjab-s-ipl-2025-final-loss-to-rcb-2026-03-18-1034252",
+    "time": "2026-03-18T17:22:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KKR invite three pacers for trials as three-time champions seek Harshit Rana's replacement in IPL 2026",
+    "desc": "Harshit Rana’s injury has disrupted Kolkata Knight Riders’ bowling unit ahead of the IPL 2026. They were forced to release Mustafizur Rahman earlier and signed Blessing Muzarabani instead, who is an excellent addition, but has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-invite-three-pacers-for-trials-as-three-time-champions-seek-harshit-rana-s-replacement-in-ipl-2026-2026-03-18-1034245",
+    "time": "2026-03-18T16:29:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Faf du Plessis advises KKR to play IPL 2026 matches on spin-friendly deck amid injury concerns",
     "desc": "Former cricketer Faf du Plessis has weighed in on what could shape Kolkata Knight Riders’ fortunes in IPL 2026. He pointed firmly toward conditions at their home ground, Eden Gardens and believes the franchise holds...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-unlikely-to-play-until-odi-world-cup-2027-jumps-in-icc-t20i-rankings-without-playing-2026-03-18-1034186",
     "time": "2026-03-18T08:22:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Fakhar Zaman breaks silence on fitness concerns, responds to selector's claims of playing T20 WC with injury",
-    "desc": "Pakistan selector Aaqib Javed turned heads recently in a press conference when he claimed that Babar Azam and Fakhar Zaman were injured during the T20 World Cup. He alleged that the selection committee wasn't aware...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/fakhar-zaman-breaks-silence-on-fitness-concerns-responds-to-selector-s-claims-of-playing-t20-wc-with-injury-2026-03-18-1034179",
-    "time": "2026-03-18T07:53:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI likely to revisit central contract pay structure as Jasprit Bumrah's A+ grade exit leaves Rs 2 crore gap",
-    "desc": "The Board of Control for Cricket in India (BCCI) removed the A+ category from its central contract system last month. The Indian board cited that there weren't enough candidates in the top bracket with the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-likely-to-revisit-central-contract-pay-structure-as-jasprit-bumrah-s-a-grade-exit-leaves-rs-2-crore-gap-2026-03-18-1034167",
-    "time": "2026-03-18T07:03:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Senegal's AFCON title win overturned two months after final, Morocco declared champions in stunning verdict",
-    "desc": "Morocco was stunning awarded the African Cup of Nations (AFCON) title on Tuesday by appeals judges by overturning Senegal's 1-0 win in the controversial final played, exactly two months ago, on January 18. The Confederation...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/senegal-s-afcon-title-win-overturned-two-months-after-final-morocco-declared-champions-in-stunning-verdict-2026-03-18-1034149",
-    "time": "2026-03-18T04:51:14.000Z"
   }
 ];
