@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "તૈયાર રાખજો રૂપિયા! Jio લાવી રહ્યું છે દેશનો સૌથી મોટો IPO, આ મહિનાના અંત સુધીમાં આવી શકે મોટું અપડેટ",
+    "desc": "Jioનો IPO ભારતનો અત્યાર સુધીનો સૌથી મોટો IPO સાબિત થઈ શકે છે. સૌથી મહત્વની વાત એ છે કે, અબજોપતિ મુકેશ અંબાણીની મુખ્ય કંપની રિલાયન્સની કોઈ મોટી પેટા કંપનીનો આશરે બે દાયકામાં આ પ્રથમ IPO હશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/jio-is-bringing-the-countrys-largest-ipo-a-major-update-is-expected-by-the-end-of-this-month-469078 ",
+    "time": "2026-03-18T08:50:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "થઈ ગયો ખુલાસો... સૂર્યાને કેપ્ટન બનાવવામાં ગંભીર નહીં, આ 4 લોકોનો છે હાથ, નામ જાણીને ચોંકી જશો!",
+    "desc": "સૂર્યકુમાર યાદવને કેપ્ટન બનાવવામાં કોણે મહત્વનો ભાગ ભજવ્યો ? તમે વિચારી રહ્યા હશો કે ગૌતમ ગંભીરે તેને કેપ્ટન બનાવવામાં મદદ કરી હતી, પરંતુ હકીકતમાં સૂર્યાના નામનો ઉલ્લેખ ગંભીરે નહીં પણ આ ચાર લોકોએ કર્યો હતો. ત્યારે આ 4 લોકો કોણ છે અને હાર્દિકના બદલે સૂર્યાને કેમ કેપ્ટન બનાવાયો, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/suryakumar-yadav-reveals-4-people-decided-make-him-captain-469079 ",
+    "time": "2026-03-18T08:40:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનું-ચાંદી સસ્તું થયું: ભાવમાં ₹1.68 લાખ સુધીનો ઘટાડો, જાણો હવે ક્યારે વધશે કિંમત?",
+    "desc": "હાલમાં સૌથી વધુ તેજી મંદી એ સોના અને ચાંદીમાં થાય છે. છેલ્લા કેટલાક મહિનાથી સોના અને ચાંદીના ભાવમાં મોટો ઘટાડો થયો છે. જેને પગલે Gold-Silver ETFsના ભાવ બહુ ઝડપથી ઘટ્યા છે. ચાંદી હાલમાં રેકોર્ડથી 40 ટકા નીચે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-drop-is-this-the-right-time-to-buy-469073 ",
+    "time": "2026-03-18T08:23:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "90s ની ફિલ્મોમાં પણ હતો ડબલ મિનિંગ ગીતોનો ટ્રેંડ, જુહી-કરિશ્મા સહિતની અભિનેત્રીઓ કરી ચુકી છે આવા ગીતો",
+    "desc": "ઈંટરનેટ પર ચારેતરફ નોરા ફતેહીના ચુનર તેરી સરકે ગીતની ચર્ચાઓ થઈ રહી છે. આ ગીતને અશ્લીલ શબ્દોના કારણે યુટ્યુબ પરથી હટાવી દેવામાં આવ્યું છે. જો કે આ પહેલું ગીત નથી જેમાં અશ્લીલ શબ્દો અને ડાન્સ દેખાડ્યો હોય. યુટ્યુબ પર આવા ગીતો આજે પણ છે જે લોકપ્રિય થયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/5-double-meaning-song-of-bollywood-90s-filmy-song-with-bad-lyrics-nora-fatehi-song-controversy-469077 ",
+    "time": "2026-03-18T08:18:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આજે પણ ભાવમાં ભારે ઘટાડો, સોનું-ચાંદી અકલ્પનીય સ્તરે પહોંચ્યા! જાણો દાગીના-લગડી માટેનો આજનો રેટ",
+    "desc": "જે લોકો લગ્નગાળા, પ્રસંગો માટે કે દાગીના લગડી માટે સોનું ખરીદવાનું વિચારતા હોય તેમના માટે સારા સમાચાર છે કારણે સોના-ચાંદી સતત ઘટીને અકલ્પનીય સપાટી પર પહોંચી ગયા છે. સોનું 1.55 લાખ આસપાસ અને ચાંદી 2.50 લાખ આસપાસ પહોંચી ગઈ છે. લેટેસ્ટ રેટ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-fell-again-today-if-you-are-thinking-of-buying-know-the-latest-rates-469072 ",
+    "time": "2026-03-18T07:21:48.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "LPG સિલિન્ડરના નિયમમાં મોટો ફેરફાર; હવે આ એક ડોક્યુમેન્ટ વગર નહીં મળે ગેસનો બાટલો, જાણો સરકારનો નવો નિયમ",
     "desc": "ઘરેલૂ ગેસ ગ્રાહકો માટે એક મોટો નિયમ અમલમાં આવ્યો છે. હવે, આધાર e-KYC વિના તમારા ચૂલાને ચાલુ રાખવો મુશ્કેલ બની શકે છે. જી હા..સરકારે ગેસ સબસિડી અને બુકિંગ માટે બાયોમેટ્રિક ચકાસણી ફરજિયાત બનાવી દીધી છે. પરંતુ ચિંતા કરશો નહીં, તમારે લાઇનમાં ઊભા રહેવાની જરૂર નથી. તમારા મોબાઇલનો ઉપયોગ કરીને તમે ફક્ત બે મિનિટમાં આ પ્રક્રિયા કેવી રીતે પૂર્ણ કરી શકો છો તે જાણો. સંપૂર્ણ વિગતો અહીં વાંચો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -486,24 +531,6 @@ const newsData_gu = [
     "time": "2026-03-15T11:47:34.000Z"
   },
   {
-    "cat": "Business",
-    "title": "1 પર 3 મફત શેર આપશે આ કંપની, આ અઠવાડિયે છે રેકોર્ડ ડેટ, ફોકસમાં રહેશે સ્ટોક",
-    "desc": "આ અઠવાડિયે, સ્ટોક એક્સચેન્જ પર ફક્ત એક જ કંપની એક્સ-બોનસ સ્ટોક તરીકે ટ્રેડ થશે. કંપની દરેક 1 શેર માટે 3 શેરનું બોનસ ઓફર કરશે. બોનસ ઇશ્યૂ માટે કંપની દ્વારા નક્કી કરવામાં આવેલી રેકોર્ડ તારીખ સુધી વધુ સમય બાકી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-company-will-give-3-free-shares-for-1-share-this-week-is-the-record-date-the-shares-will-be-in-the-focus-468703 ",
-    "time": "2026-03-15T10:05:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કેન્દ્રીય કર્મચારીઓના પગારમાં થશે 35%નો વધારો...એરિયસને લઈને સૌથી મોટા સમાચાર",
-    "desc": "કેન્દ્ર સરકારે નવેમ્બર 2025માં 8મા કેન્દ્રીય પગાર પંચની રચના સાથે લાખો સરકારી કર્મચારીઓ અને પેન્શનરો માટે એક મોટી પ્રક્રિયા શરૂ કરી દીધી છે. આ પંચ હાલના 7મા પગાર પંચનું સ્થાન લેશે, જે વર્ષ 2016થી અમલમાં છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-will-minimum-pay-rise-to-rs-46000-all-you-need-to-know-468660 ",
-    "time": "2026-03-15T06:46:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ટીમના ખેલાડીઓ અભિષેક શર્માની ઈર્ષ્યા કરે છે, સંજુ સેમસને કેમ કહ્યું આવું ?",
     "desc": "સંજુ સેમસને મજાકમાં કહ્યું કે ટીમના ખેલાડીઓ અભિષેક શર્માની લોકપ્રિયતાની ઈર્ષ્યા કરે છે. અભિષેકે પોતાની સફળતાનો શ્રેય યુવરાજ સિંહને આપ્યો અને ભવિષ્યમાં ભારત માટે વનડે અને ટેસ્ટ રમવાની ઇચ્છા વ્યક્ત કરી. તે આગામી 2026ની IPLમાં જોવા મળશે.",
@@ -529,51 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/has-benjamin-netanyahu-been-assassinated-the-first-statement-given-by-the-iranian-embassy-know-this-468611 ",
     "time": "2026-03-14T15:43:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold-Silver Weekly Rate Explainer: સોનું-ચાંદી ઘટાડા સાથે બંધ, સરકારે લીધો એક એવો નિર્ણય...શું સસ્તું થઈ જશે સોનું? ખાસ જાણો વિગતવાર માહિતી",
-    "desc": "સપ્તાહ દરમિયાન સોના અને ચાંદીમાં ભારે ઉતાર ચડાવ જોવા મળ્યો. સપ્તાહના છેલ્લા દિવસે બંને કિંમતી ધાતુઓ ઘટાડા સાથે બંધ થઈ. અઠવાડિયામાં શું મૂવમેન્ટ રહી અને સરકારે લીધેલા એક નિર્ણયથી સોનું સસ્તું અને ચાંદી મોંઘી થઈ શકે એવું કેમ? કારણ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-silver-weekly-rate-explainer-prices-closed-with-a-decline-what-will-be-the-impact-of-the-government-decision-468610 ",
-    "time": "2026-03-14T14:00:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL શરૂ થાય તે પહેલા CSK સામે કેસ દાખલ, MS ધોનીની ટીમ મુશ્કેલીમાં, જાણો શું છે સમગ્ર મામલો",
-    "desc": "IPL 2026ની શરૂઆત પહેલા CSK વિરુદ્ધ કેસ નોંધાયો છે. આ સિઝનમાં CSK તેમની શરૂઆતની મેચમાં રાજસ્થાન રોયલ્સ સામે ટકરાશે. ત્યારે CSK સામે શેનો કેસ નોંધાયો છે અને આ સમગ્ર મામલો શું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/csk-embroiled-in-legal-battle-with-sun-tv-over-copyright-infringement-before-ipl-2026-468591 ",
-    "time": "2026-03-14T12:06:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "હવે સમય આવી ગયો છે... અજિંક્ય રહાણે છોડશે કેપ્ટનશીપ ? કોણ સંભાળશે KKRની જવાબદારી ? થઈ ગયું કન્ફર્મ",
-    "desc": "IPL 2026માં કોલકાતા નાઈટ રાઈડર્સ ટીમની કમાન કોણ સંભાળશે ? આ સસ્પેન્સ આખરે સમાપ્ત થઈ ગયું છે. અજિંક્ય રહાણેની કેપ્ટનશીપ હેઠળ ગયા વર્ષે KKRનું પ્રદર્શન અત્યંત નિરાશાજનક હતું. ટીમ પોઈન્ટ ટેબલ પર આઠમા સ્થાને રહી હતી. જો કે, ફ્રેન્ચાઇઝીએ અનુભવી ખેલાડી પર પોતાનો વિશ્વાસ જાળવી રાખવાનો નિર્ણય લીધો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ajinkya-rahane-breaks-silence-on-kkr-captaincy-suspense-in-ipl-2026-468583 ",
-    "time": "2026-03-14T11:10:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "16 માર્ચે ખુલ્લી રહ્યો છે આ મેઈનબોર્ડ IPO, કંપનીએ એન્કર રોકાણકારો પાસેથી એકત્ર કર્યા 120 કરોડ, જાણો GMP",
-    "desc": "આ કંપનીનો આઈપીઓ 16 માર્ચના રોજ રોકાણ કરવા માટે ખુલ્લી રહ્યો છે, આ IPO મેઈનબોર્ડ છે, રોકાણકારોને ઓછામાં ઓછા 14,720 રૂપિયાનું રોકાણ કરવું પડશે. કંપનીએ 46 શેરનો એક લોટ બનાવ્યો છે. ચાલો આ IPOના GMP વિશે જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/upcoming-ipo-this-mainboard-ipo-is-open-on-march-16-company-raised-120-crores-from-anchor-investors-know-gmp-468575 ",
-    "time": "2026-03-14T10:54:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "OMG! શું દુનિયામાંથી સોનું ખતમ થઈ જશે? સોનાના શોખીનો આ વાત ખાસ જાણો",
-    "desc": "સોના અને ચાંદીના ભાવ જોઈએ તો છેલ્લા કેટલાક સમયથી જબરદસ્ત ઉછાળો જોવા મળી રહ્યો છે. હવે સોના વિશે એવી વાતો પણ થઈ રહી છે કે શું સોનું હવે ખતમ થઈ જશે? જાણો આ સવાલનો જવાબ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/will-the-world-face-gold-cricis-in-future-gold-lovers-should-know-the-answer-468565 ",
-    "time": "2026-03-14T10:33:12.000Z"
   },
   {
     "cat": "Tech",
@@ -772,14 +754,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-horror-comedy-film-on-ott-sarvam-maya-film-imdb-rating-best-south-hindi-film-on-jio-hotstar-467605 ",
     "time": "2026-03-08T02:42:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dhurandhar 2 માં વધારે ઘાતક બનશે હમઝા અલી, પાકિસ્તાનમાં મચાવશે તબાહી, જુઓ રણવીર સિંહની ફિલ્મનું ધમકેદાર Trailer",
-    "desc": "રણવીર સિંહની બ્લોકબસ્ટર હિટ ધુરંધર ફિલ્મની સીક્વલ ફિલ્મ ધુરંધર 2 નું ટ્રેલર જોવા લોકો આતુર હતા અને આ આતુરતાનો અંત આવી ગયો છે. ધુરંધર 2 નું ટ્રેલર રિલીઝ થઈ ચુક્યું છે. જો તમે ન જોયું હોય તો ફટાફટ જુઓ અહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-official-trailer-released-watch-now-here-467497 ",
-    "time": "2026-03-07T06:43:18.000Z"
   }
 ];
