@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rishabh Pant left shocked by Arjun Tendulkar’s massive bat weight, conversation goes viral",
+    "desc": "Arjun Tendulkar is starting a new chapter in his cricket career with the Lucknow Super Giants in the upcoming edition of the Indian Premier League (IPL). The franchise traded him from five-time champions Mumbai Indians...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-rishabh-pant-left-shocked-by-arjun-tendulkars-massive-bat-weight-conversation-goes-viral-2026-03-19-1034302",
+    "time": "2026-03-19T04:47:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "AB de Villiers backs Royal Challengers Bengaluru to defend their IPL title, 'Can go all the way again'",
+    "desc": "AB de Villiers believes that Royal Challengers Bengaluru (RCB) can defend their Indian Premier League (IPL) title this year and win the tournament for the second consecutive season. RCB won the IPL last year for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ab-de-villiers-backs-royal-challengers-bengaluru-to-defend-their-ipl-title-can-go-all-the-way-again-2026-03-19-1034289",
+    "time": "2026-03-19T03:35:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs Pakistan fixture to be played on August 19",
+    "desc": "The International Hockey Federation unveiled the full schedule of the Hockey World Cup late on Wednesday (March 18). As per the schedule, the marquee clash between India and Pakistan is set to take place on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/hockey-world-cup-2026-schedule-unveiled-india-vs-pakistan-fixture-to-be-played-on-august-19-2026-03-19-1034278",
+    "time": "2026-03-19T02:29:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Babar Azam, Fakhar Zaman likely to be in trouble for playing with injury in T20 World Cup 2026",
+    "desc": "Pakistan's senior players, Babar Azam and Fakhar Zaman, might not have been 100% fit when they were picked in the T20 World Cup squad. The controversy around their fitness has deepened after the medical panel of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-fakhar-zaman-likely-to-be-in-trouble-for-playing-with-injury-in-t20-world-cup-2026-2026-03-19-1034274",
+    "time": "2026-03-19T02:04:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Five Iran women players seeking asylum in Australia after AFC Asian Cup return home, two players remain",
     "desc": "Members of the Iran women's team have returned home after seeking asylum in Australia during their recent trip for the AFC Women’s Asian Cup. The group travelled from Australia via Istanbul before heading toward the...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-unsure-of-international-future-expresses-desire-to-continue-playing-for-england-2026-03-18-1034235",
     "time": "2026-03-18T14:17:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shivam Dube shares reason behind choosing train over flight after T20 World Cup win",
-    "desc": "All-rounder Shivam Dube chose an unusual route home after winning the T20 World Cup 2026, beating New Zealand at the Narendra Modi Stadium in Ahmedabad. While the rest of the squad prepared for a scheduled...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shivam-dube-shares-reason-behind-choosing-train-over-flight-after-t20-world-cup-win-2026-03-18-1034228",
-    "time": "2026-03-18T13:12:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunrisers Hyderabad announce Ishan Kishan as new captain as Pat Cummins to miss start of IPL 2026",
-    "desc": "Sunrisers Hyderabad captain Pat Cummins will miss the first few matches of the IPL 2026. The pacer is currently recovering from a back injury, for which he featured in only one of the Ashes Tests...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-announce-new-captain-as-pat-cummins-to-miss-start-of-ipl-2026-2026-03-18-1034215",
-    "time": "2026-03-18T11:27:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma reflects on struggles and mental reset during T20 World Cup 2026",
-    "desc": "India opener Abhishek Sharma has reflected on a challenging stretch during the T20 World Cup 2026, describing it as a phase that forced him to confront both expectation and adversity at the highest level. Entering...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-reflects-on-struggles-and-mental-reset-during-t20-world-cup-2026-2026-03-18-1034208",
-    "time": "2026-03-18T11:02:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah, unlikely to play T20Is until ODI World Cup 2027, jumps in ICC T20I rankings without playing",
-    "desc": "India have not played any T20I since winning the T20 World Cup on March 8. In fact, they aren't scheduled to play in the format until July as per the official schedule released so far....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-unlikely-to-play-until-odi-world-cup-2027-jumps-in-icc-t20i-rankings-without-playing-2026-03-18-1034186",
-    "time": "2026-03-18T08:22:10.000Z"
   }
 ];
