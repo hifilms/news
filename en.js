@@ -1,6 +1,159 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Steven Spielberg says he has a ‘strong suspicion’ we’re ‘not alone’",
+    "desc": "Acclaimed director Steven Spielberg, whose films often delve into the mysteries of the cosmos, recently expressed his deep conviction that we are not the only beings inhabiting Earth. This revelation comes on the heels of comments from former President Barack Obama, who has also shared his thoughts on extraterrestrial life.",
+    "img": "https://static.toiimg.com/photo/msid-129672513,imgsize-48954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/is-e-t-real-filmmaker-steven-spielberg-says-he-has-a-strong-suspicion-were-not-alone-on-earth/articleshow/129672513.cms",
+    "time": "2026-03-19T06:38:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Shadi ke agle din hi?': Pant stunned at Arjun Tendulkar’s post-wedding revelation",
+    "desc": "Arjun Tendulkar has moved to Lucknow Super Giants for the 2026 IPL season, trading Mumbai Indians for ₹30 lakh. In a video, he discussed his preference for heavier bats, inspired by his father Sachin Tendulkar. Arjun also revealed he trained with Yuvraj Singh immediately after his wedding, impressing Rishabh Pant with his dedication.",
+    "img": "https://static.toiimg.com/photo/msid-129672390,imgsize-751804.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/shadi-ke-agle-din-hi-pant-stunned-at-arjun-tendulkars-post-wedding-revelation/articleshow/129672309.cms",
+    "time": "2026-03-19T06:33:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Six Uttar Pradesh nominees in Para Sports categories",
+    "desc": "The Times of India Sports Awards returns for its eighth edition, honouring India's sporting excellence in 2025. Lucknow will host the ceremony on March 21, 2026. This year highlights significant achievements in para sports, with Uttar Pradesh athletes Preethi Pal, Vivek Chikara, Vaibhav Gautam, and Praveen Kumar, along with coaches Gaurav Khanna and Dr. Satyapal Singh among the TOISA 2025 nominees.",
+    "img": "https://static.toiimg.com/photo/msid-129672381,imgsize-86020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/toisa-2025-six-uttar-pradesh-nominees-in-para-sports-categories/articleshow/129671884.cms",
+    "time": "2026-03-19T06:28:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aditya worked on film till 2 am ahead of release",
+    "desc": "The Revenge' is now a box office hit. Director Aditya Dhar worked tirelessly to resolve technical issues, earning praise for his dedication. The film, released in multiple languages, faced some delays in South India and for Malayalam and Kannada shows, but is now captivating audiences nationwide.",
+    "img": "https://static.toiimg.com/photo/msid-129671919,imgsize-198174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-mukesh-chhabra-reveals-aditya-dhar-was-working-on-the-film-till-2-am-post-paid-reviews-cancellation/articleshow/129671919.cms",
+    "time": "2026-03-19T06:25:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jimmy Fallon's college hair ‘transformation’ made his mom cry",
+    "desc": "Jimmy Fallon recounted a college hair disaster on 'The Tonight Show,' where a free 'body wave' perm left him with an extremely tight curl. His mother's tearful reaction to his new look became a memorable, albeit embarrassing, anecdote. Fallon, a beloved comedian and host, shared this relatable tale of youthful experimentation gone awry.",
+    "img": "https://static.toiimg.com/photo/msid-129672207,imgsize-113308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/jimmy-fallon-reveals-disastrous-college-hair-transformation-that-made-his-mom-cry/articleshow/129672158.cms",
+    "time": "2026-03-19T06:20:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Is Shashi Tharoor in the race for Kerala CM? Congress MP answers",
+    "desc": "Congress leader Shashi Tharoor has ruled himself out of the Kerala chief ministerial race, stating he is not contesting the upcoming assembly elections. Tharoor emphasized that the chief minister should be chosen from elected MLAs and expressed confidence in the UDF's prospects, predicting a strong seat tally.",
+    "img": "https://static.toiimg.com/photo/msid-129672179,imgsize-1160246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/is-shashi-tharoor-in-the-race-for-kerala-cm-congress-mp-answers/articleshow/129672197.cms",
+    "time": "2026-03-19T06:18:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Leah McSweeney’s lawsuit against Andy Cohen to be held in public court",
+    "desc": "Leah McSweeney's bid to move her lawsuit against Andy Cohen to private arbitration has been rejected by a U.S. District Judge. The case, which alleges a \"coordinated attack\" and drug use by Cohen, will now proceed in federal court. Defendants reportedly waited too long to request arbitration, forfeiting their right to a private hearing.",
+    "img": "https://static.toiimg.com/photo/msid-129672073,imgsize-95386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/real-housewives-leah-mcsweeneys-lawsuit-against-andy-cohen-moved-to-federal-court-judge-rejects-private-arbitration/articleshow/129672073.cms",
+    "time": "2026-03-19T06:16:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "civic issues take centre stage as electors in Chepauk-Thiruvallikeni call for permanent solutions, improved security",
+    "desc": "The DMK stronghold is set for a 4-cornered contest, with the ruling party and its allies, the AIADMK and BJP, TVK, and NTK in the fray. A few party representatives say they expect a narrow victory margin as it is likely that voters aged 18-30 may back parties such as TVK over the Dravidian majors",
+    "img": "https://th-i.thgim.com/public/incoming/j2m0ti/article70760805.ece/alternates/LANDSCAPE_1200/CAR%20STREET%20.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-civic-issues-take-centre-stage-as-electors-in-chepauk-thiruvallikeni-call-for-permanent-solutions-improved-security/article70759072.ece",
+    "time": "2026-03-19T06:15:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meghan Markle shares sweet video featuring her and prince Harry's kids",
+    "desc": "In a charming promotional video, Meghan Markle took us inside her serene Montecito home as she embraced her roles as a doting mother. Joined by her playful duo, Princess Lilibet and Prince Archie, the trio joyfully immersed themselves in a creative flower-arranging activity.",
+    "img": "https://static.toiimg.com/photo/msid-129671997,imgsize-282264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markle-shares-sweet-behind-the-scenes-video-featuring-her-adorable-helpers-princess-lilibet-and-prince-archie/articleshow/129671997.cms",
+    "time": "2026-03-19T06:09:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gabriel Iglesias opens up about using Ozempic",
+    "desc": "Comedian Gabriel Iglesias shared his experience with Ozempic on the 'Club Shay Shay' podcast, revealing rapid weight regain after stopping the medication. He noted the drug's effectiveness in curbing appetite for five months, emphasizing his commitment to weight loss for long-term health, even if it means shedding his 'Fluffy' persona.",
+    "img": "https://static.toiimg.com/photo/msid-129671955,imgsize-51512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/gabriel-iglesias-on-going-off-ozempic-it-is-scary-i-regained-20-pounds-quickly/articleshow/129671955.cms",
+    "time": "2026-03-19T06:08:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vikram Doraiswami appointed India’s next Ambassador to China",
+    "desc": "Vikram K Doraiswami will be India's new Ambassador to China. The ministry of external affairs announced his appointment. Doraiswami is a senior Indian Foreign Service officer. He currently serves as High Commissioner to the United Kingdom. He is expected to take up his new role shortly. This appointment occurs as India and China continue diplomatic discussions on bilateral issues.",
+    "img": "https://static.toiimg.com/photo/msid-129671845,imgsize-802471.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/vikram-doraiswami-appointed-indias-next-ambassador-to-china/articleshow/129671817.cms",
+    "time": "2026-03-19T06:01:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Price Is Right’ star Holly Hallstrom reveals what led to her firing",
+    "desc": "In a shocking revelation more than 30 years after her exit from 'The Price Is Right,' Holly Hallstrom shares the truth about her firing. She asserts that it wasn't her weight that led to her dismissal but her decision to decline cooperation against Dian Parkinson in a sexual harassment lawsuit.",
+    "img": "https://static.toiimg.com/photo/msid-129671762,imgsize-94997.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/the-price-is-right-star-holly-hallstrom-claims-her-refusal-to-testify-for-bob-barker-led-to-her-firing-i-was-not-surprised/articleshow/129671762.cms",
+    "time": "2026-03-19T05:54:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PCB under fire after report claims Babar, Fakhar played World Cup injured",
+    "desc": "Pakistan cricket faces a new controversy. Questions surround the fitness of Babar Azam and Fakhar Zaman during T20 World Cup selections. Medical evaluations flagged concerns after the tournament. Both players reportedly played with injuries. This has led to a review of their fitness clearances. Babar is now rehabilitating. Fakhar has returned to domestic cricket.",
+    "img": "https://static.toiimg.com/photo/msid-129671307,imgsize-109880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-under-fire-after-report-claims-babar-fakhar-played-world-cup-injured/articleshow/129671352.cms",
+    "time": "2026-03-19T05:53:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar The Revenge': Celebrities review Ranveer starrer",
+    "desc": "The Revenge' has ignited excitement, with celebrities like Allu Arjun and Ranveer Singh showering it with praise. Early previews have garnered immense fan frenzy and critical acclaim, with many predicting a massive box office success. The film's powerful performances and direction are being lauded, setting high expectations for its official release.",
+    "img": "https://static.toiimg.com/photo/msid-129670954,imgsize-105374.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-review-kartik-aaryan-ananya-panday-allu-arjun-and-other-celebrities-blown-away-by-ranveer-singh-starrer/articleshow/129667992.cms",
+    "time": "2026-03-19T05:28:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ajit Agarkar seeks 2027 extension, will BCCI agree with no clear successor in sight?",
+    "desc": "With Ajit Agarkar seeking extension on his tenure as chief selector until the 2027 ODI World Cup, the BCCI is considering his request following India's recent ICC title wins. Discussions are ongoing regarding his future and potential successors. The board faces a decision as India prepares for upcoming tournaments and potential player transitions.",
+    "img": "https://static.toiimg.com/photo/msid-129671091,imgsize-44346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ajit-agarkar-seeks-2027-extension-will-bcci-agree-with-no-clear-successor-in-sight-mithun-manhas-chief-selector-gautam-gambhir/articleshow/129670989.cms",
+    "time": "2026-03-19T05:18:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kunal Kemmu, Chirag Nihalani launch production banner 'DRONGO Films'",
+    "desc": "Kemmu, who made his directorial debut in 2024 with ‘Madgaon Express’ and is known for his work in movies such as ‘99’ , ‘Zakhm’ and ‘Go Goa Gone’, said the new venture marks a step toward creative independence.",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/rokn9z/article70760665.ece/alternates/LANDSCAPE_1200/Kunal%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/kunal-kemmu-chirag-nihalani-launch-production-banner-drongo-films/article70760639.ece",
+    "time": "2026-03-19T05:11:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘What’s the big deal?’: Ashwin shuts down hype over Shivam Dube’s train ride",
+    "desc": "Ravichandran Ashwin has commented on Shivam Dube's train journey after India's T20 World Cup 2026 victory. Ashwin believes such everyday experiences should not be sensationalized. He advocates for international cricketers to enjoy simple moments. Dube traveled by train to reunite with his family. He was a key player in India's successful campaign.",
+    "img": "https://static.toiimg.com/photo/msid-129671119,imgsize-986765.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/whats-the-big-deal-r-ashwin-shuts-down-hype-over-shivam-dubes-train-ride/articleshow/129670994.cms",
+    "time": "2026-03-19T05:07:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Priyanka Chopra among Top 5 Oscar attendees by EMV",
     "desc": "Priyanka Chopra Jonas shone brightly at the 2026 Oscars, not just on the red carpet but also in online influence. She secured a spot among the top five most influential attendees, measured by Earned Media Value. Her presence as a presenter and her stunning fashion choices contributed to her significant digital impact, placing her fourth on the prestigious list.",
     "img": "https://static.toiimg.com/photo/msid-129670268,imgsize-55740.cms",
@@ -27,6 +180,15 @@ const newsData_en = [
     "time": "2026-03-19T04:20:55.000Z"
   },
   {
+    "cat": "Business",
+    "title": "Markets fall as oil tops $112, inflation concerns weigh; Wall Street extends losses",
+    "desc": "Asian markets tumbled Thursday, mirroring Wall Street's decline as soaring oil prices above $110 and persistent inflation fears rattled investors. Tensions in the Middle East escalated with Iran threatening retaliation against regional energy infrastructure, further fueling concerns about supply disruptions and their impact on global economic growth and interest rate outlooks.",
+    "img": "https://static.toiimg.com/photo/msid-129670393,imgsize-528156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-fall-as-oil-tops-112-inflation-concerns-weigh-wall-street-extends-losses/articleshow/129670231.cms",
+    "time": "2026-03-19T04:13:02.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'I’ve stopped drinking': Star India player's honest admission before IPL 2026",
     "desc": "Yuzvendra Chahal is embracing a fresh start with Punjab Kings for IPL 2026, prioritizing fitness after a challenging period. The veteran leg-spinner has quit alcohol, aiming to deliver his best. Despite past personal and professional hurdles, including injuries, Chahal remains IPL's leading wicket-taker and is determined to lead Punjab to their maiden title.",
@@ -37,7 +199,7 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "HDFC Bank share price plunges over 4% after part-time chairman Atanu Chakraborty's sudden resignation",
+    "title": "HDFC Bank share price plunges 9% after part-time chairman Atanu Chakraborty's sudden resignation; market cap erased by Rs 1 lakh crore",
     "desc": "The stock movement is in focus after HDFC Bank part-time chairman and independent director Atanu Chakraborty resigned abruptly. The Reserve Bank of India has cleared the appointment of Keki Mistry, former chief executive of HDFC, as interim part-time chairman.",
     "img": "https://static.toiimg.com/photo/msid-129670006,imgsize-46724.cms",
     "src": "indiatimes.com",
@@ -61,6 +223,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-ram-gopal-varma-hypes-up-ranveer-singh-starrer-says-people-who-watched-/articleshow/129670001.cms",
     "time": "2026-03-19T03:49:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock market crash erases Rs 7 lakh crore investors’ wealth in minutes! Sensex plunges over 1,600 points on oil prices, US Fed decision",
+    "desc": "Higher crude oil prices and a hawkish stance from the US Federal Reserve weighed heavily on investor sentiment.Within minutes of trading, the sharp decline erased over Rs 7 lakh crore from the total market capitalisation of BSE-listed firms.",
+    "img": "https://static.toiimg.com/photo/msid-129669686,imgsize-106692.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-19-2026-dalal-street-indian-equities-global-markets-us-federal-reserve-middle-east-war-iran-donald-trump/articleshow/129669665.cms",
+    "time": "2026-03-19T03:48:44.000Z"
   },
   {
     "cat": "Sports",
@@ -163,15 +334,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Dakota Mortensen on the ongoing domestic assault investigation",
-    "desc": "In a surprising twist, reality TV stars Taylor Frankie Paul and Dakota Mortensen find themselves in the midst of a domestic abuse inquiry. Mortensen, via his lawyer, stressed that their son's welfare is paramount, firmly denying any unauthorized disclosure of case specifics. Meanwhile, Paul has confirmed that the two are currently estranged, with intermediaries overseeing their communications.",
-    "img": "https://static.toiimg.com/photo/msid-129668936,imgsize-115322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/dakota-mortensen-talks-about-mormon-wives-ex-taylor-frankie-paul-and-the-ongoing-alleged-assault-case/articleshow/129668936.cms",
-    "time": "2026-03-19T02:10:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Sarke Chunar' song controversy: Singer Mangli APOLOGIZES",
     "desc": "The Devil' has been pulled from all platforms following widespread criticism for its vulgar lyrics and visuals. Singer Mangli has apologized and announced a corrected version will be released soon. Actress Nora Fatehi also addressed the controversy, stating she was unaware of the song's content and had filmed it years ago in Kannada. Read on to know more in detail.",
     "img": "https://static.toiimg.com/photo/msid-129668867,imgsize-135232.cms",
@@ -187,51 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-march-19-2026-chambal-fertilisers-and-chemicals-ather-energy-ksb-best-stocks-to-buy-today/articleshow/129662915.cms",
     "time": "2026-03-19T02:02:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rebecca Gayheart's first public appearance since Eric Dane’s demise",
-    "desc": "Rebecca Gayheart emerged from a period of mourning to attend the premiere of 'The Drama,' accompanied by her daughters. This event marked her first public appearance since the loss of Eric Dane, as she honored his legacy by supporting Zendaya, just as he had often done.",
-    "img": "https://static.toiimg.com/photo/msid-129668744,imgsize-171032.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rebecca-gayheart-makes-her-first-public-appearance-with-her-daughters-since-eric-danes-demise-at-the-drama-premiere/articleshow/129668744.cms",
-    "time": "2026-03-19T01:32:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Miley Cyrus on whether she would ever headline Super Bowl",
-    "desc": "Miley Cyrus revealed that headlining the Super Bowl halftime show feels \"too much pressure\" and is intimidating. However, she hinted at the possibility, stating she could consider it if the performance focused on a \"journey through the discography and appreciating each song, each era.\" She emphasized the need for significant personal preparation for such a massive event.",
-    "img": "https://static.toiimg.com/photo/msid-129668637,imgsize-78670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/miley-cyrus-speaks-about-her-super-bowl-possibility-in-the-future-feels-like-too-much-pressure/articleshow/129668637.cms",
-    "time": "2026-03-19T01:18:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "HC issues directives against illegal streaming",
-    "desc": "The Revenge' gears up for its much-anticipated release on March 19, it has received a vital boost from the Madras High Court. The court has issued a temporary restraining order against illegal streaming and broadcasting, ensuring the film's protection from piracy until April 15. The producers have emphasized that such piracy could lead to severe financial setbacks.",
-    "img": "https://static.toiimg.com/photo/msid-129668614,imgsize-126244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-faces-piracy-threat-madras-high-court-issues-strict-directive-against-illegal-streaming/articleshow/129668614.cms",
-    "time": "2026-03-19T01:14:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Team responds",
-    "desc": "Anushka Shetty's team has strongly refuted recent marriage rumors, slamming media speculation and age-shaming. The official statement emphasized the need for verification before publishing personal details, highlighting the unfair fixation on the actress's age. Shetty previously addressed similar rumors in 2020, urging sensitivity regarding her personal life.",
-    "img": "https://static.toiimg.com/photo/msid-129668609,imgsize-142482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/anushka-shetty-marriage-rumours-actress-team-denies-claims-at-least-wait-for-official-confirmation/articleshow/129668609.cms",
-    "time": "2026-03-19T01:11:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar: The Revenge' features TWO post-credit scenes",
-    "desc": "The Revenge' has hit cinemas, with fans buzzing about its two post-credit scenes. Despite some initial screening delays and technical issues in southern regions, the film is drawing crowds. Director Aditya Dhar urged fans to avoid spoilers, while assuring affected viewers of refunds or subtitle options.",
-    "img": "https://static.toiimg.com/photo/msid-129668475,imgsize-84028.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-ranveer-singh-starrer-features-two-post-credit-scenes-fans-say-dont-leave-seats-till-screen-turns-blank/articleshow/129668404.cms",
-    "time": "2026-03-19T01:06:13.000Z"
   },
   {
     "cat": "Sports",
@@ -250,33 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-ranveer-singh-starrer-mints-rs-44-crore-from-early-preview-shows/articleshow/129668543.cms",
     "time": "2026-03-19T00:56:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Aadu 3' advance booking: Jayasurya film eyes grand opening",
-    "desc": "'Aadu 3' gears up for a March 19, 2026 release, boasting impressive pre-sales nearing Rs 6 crore, with Kerala leading ticket sales. Director Midhun Manuel Thomas reveals a two-part narrative strategy for extensive world-building. The film reunites Jayasurya with a large ensemble cast, promising an epic conclusion if audiences support it.",
-    "img": "https://static.toiimg.com/photo/msid-129668493,imgsize-138306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aadu-3-advance-booking-jayasurya-set-for-biggest-opener-rs-5-2-crore-pre-sales/articleshow/129668493.cms",
-    "time": "2026-03-19T00:45:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' Twitter review: 'SKIP WORK, but WATCH IT'",
-    "desc": "The Revenge' has already grossed over Rs 50 crore from paid previews, igniting massive excitement. Audiences are raving about director Aditya Dhar's masterpiece and Ranveer Singh's performance, with many calling it a record-breaking film. Despite its nearly four-hour runtime, viewers found it captivating throughout, praising its grandeur and thrilling twists.",
-    "img": "https://static.toiimg.com/photo/msid-129668436,imgsize-222606.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-twitter-review-audience-hails-ranveer-singh-led-film-says-skip-work-but-watch-it/articleshow/129668436.cms",
-    "time": "2026-03-19T00:33:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ustaad Bhagat Singh' OTT: Where to stream film",
-    "desc": "Pawan Kalyan's 'Ustaad Bhagat Singh' has secured a Netflix deal, with an expected OTT premiere five weeks post-theatrical release, potentially around April 24, 2026. While advance bookings show a strong start, early audience reactions are divided, with some praising its commercial entertainment value and others deeming it outdated. The film boasts a notable star cast alongside Kalyan.",
-    "img": "https://static.toiimg.com/photo/msid-129668416,imgsize-104404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ustaad-bhagat-singh-ott-release-where-to-watch-pawan-kalyans-actioner-after-the-theatrical-run/articleshow/129668416.cms",
-    "time": "2026-03-19T00:26:23.000Z"
   },
   {
     "cat": "Business",
@@ -369,15 +459,6 @@ const newsData_en = [
     "time": "2026-03-18T17:13:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Wish my younger self had studied more': Ding Liren",
-    "desc": "Former world champion Ding Liren has dropped out of the FIDE ratings list due to inactivity but says he is content with the break. After losing his title to D Gukesh, Ding is enjoying a quieter phase, playing casual online games. Reflecting on his journey, he admitted regrets about academics but remains relaxed, focusing on a less intense relationship with chess.",
-    "img": "https://static.toiimg.com/photo/msid-129661839,imgsize-121520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/wish-my-younger-self-had-studied-more-former-world-chess-champion-ding-liren/articleshow/129661239.cms",
-    "time": "2026-03-18T17:01:16.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Congress says Pradyut Bordoloi’s exit ‘unfortunate’, accuses BJP of poaching its leaders",
     "desc": "Priyanka Gandhi Vadra says differences over ticket allocation may have triggered Bordoloi’s exit. MP Manickam Tagore says a traitor who switches sides in the middle of the battlefield cannot escape the judgment of the people.",
@@ -405,15 +486,6 @@ const newsData_en = [
     "time": "2026-03-18T16:20:18.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "List of coaches for all 10 teams",
-    "desc": "IPL 2026 begins March 28 with Royal Challengers Bengaluru facing Sunrisers Hyderabad. All teams have finalised coaching staffs featuring experienced names. Andy Flower leads RCB, Stephen Fleming heads CSK, while Mahela Jayawardene guides MI. Other teams also boast strong coaching setups, setting the stage for a competitive season.",
-    "img": "https://static.toiimg.com/photo/msid-129660914,imgsize-33320.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-list-of-coaches-for-all-10-teams/articleshow/129660608.cms",
-    "time": "2026-03-18T16:07:17.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Sharmila slams Avinash Reddy for remarks on Viveka’s murder, calls Jagan a ‘disgrace to word brother’",
     "desc": "Objecting to the YSRCP MP’s claim that the heart attack theory has initially been created by the slain leader’s daughter, the APCC chief alleges that the narrative surrounding the case has been kept shifting under Jagan Mohan Reddy’s leadership",
@@ -421,15 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/Visakhapatnam/sharmila-slams-avinash-reddy-for-remarks-in-vivekas-murder-calls-jagan-a-disgrace-to-word-brother/article70758796.ece",
     "time": "2026-03-18T15:53:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bihar Congress asks three truant MLAs to explain their absence during the RS polling",
-    "desc": "Their absence led to the defeat of the Mahagathbandhan candidate; the three MLAs alleged that the State Congress chief told them to skip voting as he had not been involved in choosing the alliance candidate",
-    "img": "https://th-i.thgim.com/public/incoming/7a6lnh/article70759049.ece/alternates/LANDSCAPE_1200/PTI03_17_2026_000158B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/bihar-congress-asks-three-truant-mlas-to-explain-their-absence-during-the-rs-polling/article70758221.ece",
-    "time": "2026-03-18T15:34:38.000Z"
   },
   {
     "cat": "World",
@@ -495,15 +558,6 @@ const newsData_en = [
     "time": "2026-03-18T14:23:38.000Z"
   },
   {
-    "cat": "Business",
-    "title": "US-Iran war: Is India’s Gulf remittance lifeline at risk? Billions at stake!",
-    "desc": "India continues to be the largest recipient of remittances in the world. India’s share in the world remittances stood at 14% in 2024. What does the current US-Iran war and the Middle East conflict mean for remittance flows to India? What is the dependence, macro importance?",
-    "img": "https://static.toiimg.com/photo/msid-129658902,imgsize-111978.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-is-indias-gulf-remittance-lifeline-at-risk-billions-at-stake/articleshow/129658051.cms",
-    "time": "2026-03-18T13:59:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Retirement soon? Buttler makes honest admission after poor T20 WC",
     "desc": "Jos Buttler admitted he had a poor T20 World Cup, scoring just 87 runs, but remains determined to continue his England career. He said, \"Obviously I had a poor tournament, which is disappointing,\" yet added he hopes to return to form. After taking a refreshing break in France, Buttler reflected, \"It wasn’t for a lack of effort, it just didn't quite happen.\"",
@@ -514,30 +568,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "5 IPL legends who have never won the Purple Cap",
-    "desc": "Several IPL greats like Sunil Narine, Piyush Chawla, Ravichandran Ashwin, Jasprit Bumrah, and Ravindra Jadeja have taken plenty of wickets but never won the Purple Cap. Their focus on economy, control, and team roles often limits big wicket hauls, despite consistent performances over many seasons.",
-    "img": "https://static.toiimg.com/photo/msid-129656943,imgsize-31570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/5-ipl-legends-who-have-never-won-the-purple-cap/articleshow/129655828.cms",
-    "time": "2026-03-18T12:49:09.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Ishan Kishan to lead SRH, Abhishek Sharma also gets new role",
     "desc": "Sunrisers Hyderabad have appointed Ishan Kishan as captain for the upcoming IPL season, with Abhishek Sharma as his deputy. This leadership change is in effect until regular captain Pat Cummins recovers from injury. Kishan, a dynamic wicketkeeper-batter, brings his explosive form and proven IPL record to the role, aiming to lead the franchise effectively during Cummins' absence.",
     "img": "https://static.toiimg.com/photo/msid-129655317,imgsize-52140.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-ishan-kishan-to-lead-srh-abhishek-sharma-also-gets-new-role/articleshow/129655010.cms",
     "time": "2026-03-18T11:41:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India set for though start",
-    "desc": "India’s badminton teams face tough draws in the Thomas and Uber Cups in Horsens, with both squads grouped alongside defending champions China. While the men aim to build on their 2022 title win, the women also face strong rivals. In-form Lakshya Sen offers hope as 16 teams compete, with top two from each group reaching the quarterfinals.",
-    "img": "https://static.toiimg.com/photo/msid-129655434,imgsize-82422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/thomas-cup-and-uber-cup-badminton-draw-india-set-for-though-start-see-full-groups-list-here/articleshow/129654656.cms",
-    "time": "2026-03-18T11:40:59.000Z"
   },
   {
     "cat": "World",
@@ -558,15 +594,6 @@ const newsData_en = [
     "time": "2026-03-18T10:39:35.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "KKR player gets angry at reporter; interview ends with 'waste of time' remark",
-    "desc": "The incident took place outside Western Australia’s dressing room after the third day of the match on Monday. A report in The Age detailed the interaction with 'visibly annoyed' Green, stating that the interview began with a question about Green’s century for Western Australia against New South Wales.",
-    "img": "https://static.toiimg.com/photo/msid-129653292,imgsize-39872.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kkrs-cameron-green-gets-angry-at-reporter-interview-ends-with-waste-of-time-remark/articleshow/129653002.cms",
-    "time": "2026-03-18T10:16:35.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Of the young, for the young’: The grainy charm of restored dreams in Pradip Krishen’s ‘In Which Annie Gives It Those Ones’",
     "desc": "Watching the film in 2026 feels almost utopian as it carries the beat of a college campus where students are allowed to falter and the pressures of becoming are not so much as the pleasures of being",
@@ -574,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/pradip-krishens-in-which-annie-gives-it-those-ones-arundhati-roy-red-lorry-film-festival-2026/article70742395.ece",
     "time": "2026-03-18T09:23:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Favourites tag doesn’t come easy’: Shubman Gill’s bold Team India message",
-    "desc": "Shubman Gill, recipient of the Polly Umrigar Award, emphasised the collective effort behind India's dominant status and their hard-earned reputation as favourites. He highlighted the team's fearless approach, shaped by coach Gautam Gambhir and support staff, and reflected on a successful past year, looking forward to crucial upcoming Test series.",
-    "img": "https://static.toiimg.com/photo/msid-129651707,imgsize-24278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/favourites-tag-doesnt-come-easy-shubman-gills-bold-team-india-message/articleshow/129651657.cms",
-    "time": "2026-03-18T08:43:26.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
   }
 ];

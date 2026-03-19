@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "અમેરિકામાં ગેરકાયદેસર રહેતા ભારતીયો માટે મોટી ઓફર; ઘરવાપસી માટે ફ્રી એર ટિકિટ સાથે 2.4 લાખ રોકડા!",
+    "desc": "અમેરિકામાં ગેરકાયદે વસવાટ કરતાં ઇમિગ્રાન્ટ્સ કે જેમાં મોટી સંખ્યામાં ભારતીયોનો સમાવેશ થાય છે તેમને સ્વદેશ પરત મોકલવા માટે પ્રેસિડેન્ટ ટ્રમ્પના તંત્ર દ્વારા એક અનોખી યોજના પ્રોજેક્ટ હોમકમિંગ શરૂ કરાઈ છે. આ યોજના હેઠળ જે પ્રવાસી સ્વૈચ્છાથી પોતાના દેશ પરત જવાનો નિર્ણય કરશે તેને અમેરિકાની સરકાર મફત હવાઈ ટિકિટ સાથે આશરે 2.4 લાખ રૂપિયા રોકડા એકિઝટ બોનસ તરીકે આપશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/big-offer-for-indians-living-illegally-in-america-2-4-lakh-cash-along-with-free-air-tickets-to-return-home-469201 ",
+    "time": "2026-03-19T06:07:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "6 મહિનાથી &amp;#039;ગંદી લત&amp;#039; નથી, ઈચ્છુ છું કે લોકો મને હીરોની જેમ જુએ- યુજવેન્દ્ર ચહલ",
+    "desc": "આઈપીએલ ટુર્નામેન્ટ હવે શરૂ થવાની તૈયારીમાં છે ત્યારે તે પહેલા પંજાબ કિંગ્સના સ્પીનર યુજવેન્દ્ર ચહલે એક એવો ખુલાસો કર્યો કે તેના ફેન્સ દંગ રહી ગયા. જો કે આ ખુલાસા સાથે ફેન્સ આનંદમાં પણ છે. જાણો એવું તે શું કહ્યું ચહલે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/yuzvendra-chahal-big-revelation-about-alcohol-before-ipl-2026-cricket-news-in-gujarati-469200 ",
+    "time": "2026-03-19T06:05:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ન તો ઇમરાન હાશ્મી ન સલમાન... આ  છે &amp;#039;ધુરંધર 2&amp;#039; ના બડે સાહબ, જેના ઈશારા પર આ બધુ થયું",
+    "desc": "ધુરંધર 2 જોઈ ચુકેલા લોકોને અત્યાર સુધી તે સવાલનો જવાબ મળી ગયો છે કે કોણ છે બડે સાહબ? પ્રથમ ફિલ્મ બાદ બધાના મનમાં આ સવાલ હતો. કેટલાક લોકોનું કહેવું હતું કે ઇમરાન હાશમિ બડે સાહબ હશે, તો કોઈ સલમાન કે અક્ષયનું નામ લેતા હતા. પરંતુ આ ત્રણમાંથી કોઈ બડે સાહબ નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/who-is-bade-sahab-in-dhurandhar-2-469199 ",
+    "time": "2026-03-19T05:56:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ઘરમાં  100 ગ્રામથી વધુ સોનું છે? તો થઈ જજો સાવધાન, પડી શકે છે આવકવેરા વિભાગની નજર",
+    "desc": "ભારતમાં સોનું રાખવાની કોઈ નક્કી મર્યાદા નથી, પરંતુ જો તમારી પાસે 100 ગ્રામથી વધુ સોનું છે અને તેના દસ્તાવેજ નથી તો આવકવેરા વિભાગની તપાસમાં સવાલ ઉઠી શકે છે. CBDT ની ગાઇડલાઇન અનુસાર એક મર્યાદા સુધી સોનું જપ્ત કરી શકાય નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/how-much-gold-allowed-to-be-kept-at-home-as-per-income-tax-rules-469195 ",
+    "time": "2026-03-19T05:33:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શેર બજાર ખુલતાની સાથે જ ક્રેશ, સેન્સેક્સ 1900 પોઈન્ટ ગગડ્યો, નિફ્ટી પણ ધડામ, જાણો કયા શેર પછડાયા?",
+    "desc": "મિડલ ઈસ્ટમાં ભડકેલી યુદ્ધની જ્વાળાઓ અને ધીરે ધીરે ઓઈલ યુદ્ધમાં ફેરવાઈ રહેલી પરિસ્થિતિએ આજે માર્કેટમાં કોહરામ મચાવી દીધો. ભારતીય બજારો ખુલતા જ ક્રેશ થયા. નિફ્ટી અને ઈન્ડેક્સ ધડામ થયા. જાણો કેમ આવું થયું અને કયા શેરોને સૌથી વધુ અસર થઈ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/stock-market-crash-due-to-the-escalating-war-situation-in-the-middle-east-rising-crude-prices-469194 ",
+    "time": "2026-03-19T05:00:02.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ભારત-પાકિસ્તાન વચ્ચે પરમાણુ યુદ્ધનું જોખમ, US ઈન્ટેલિજન્સ રિપોર્ટમાં ચોંકાવનારો ખુલાસો",
     "desc": "એક બાજુ જ્યાં દુનિયા ઈરાન-ઈઝરાયેલ અમેરિકા તથા અફઘાનિસ્તાન અને પાકિસ્તાન વચ્ચેના યુદ્ધની સાક્ષી બની રહી છે અને તેના કારણે ઊભા થતા પડકારો પણ ઝેલી રહી છે ત્યાં હવે ભારત-પાકિસ્તાન વચ્ચે પરમાણુ યુદ્ધ છેડાઈ શકે એવો પણ એક રિપોર્ટમાં ચોંકાવનારો ખુલાસો થયો છે. જાણો વિગતો.",
@@ -540,15 +585,6 @@ const newsData_gu = [
     "time": "2026-03-15T16:46:21.000Z"
   },
   {
-    "cat": "Business",
-    "title": "₹1ના શેર ખરીદવાની લૂંટ, 5 દિવસમાં શેર 21% વધ્યો, અનિલ અંબાણીની કંપની વિશે આવ્યા મોટા સમાચાર",
-    "desc": "આવતીકાલે, સોમવારે અને 16 માર્ચના રોજ અનિલ અંબાણીની આ કંપનીના શેર ફોકસમાં હોઈ શકે છે. શુક્રવારે કંપનીના શેર 1.01 રૂપિયા પર બંધ થયા, જે 4 ટકાથી વધુ વધીને 1.01 રૂપિયા છે. છેલ્લા પાંચ દિવસમાં, શેરમાં 21 ટકાનો વધારો થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/loot-to-buy-shares-for-1-rupee-shares-rose-21-percent-in-5-days-big-news-came-about-anil-ambani-company-468753 ",
-    "time": "2026-03-15T16:25:50.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકા પર થઈ શકે છે 9/11 જેવો બીજો મોટો હુમલો, યુદ્ધ વચ્ચે દિગ્ગજે કર્યો દાવો, જાણો",
     "desc": "ઈરાનના ભૂતપૂર્વ સુપ્રીમ લીડર અલી ખામેનીના મુખ્ય સલાહકાર અલી લારજિનીએ દાવો કર્યો છે કે એપ્સ્ટેઈનના બાકીના મિત્રો અમેરિકા પર 9/11 જેવો હુમલો કરી શકે છે અને તેનો દોષ ઈરાન પર ઢોળી શકે છે. લાર્જિનીએ જણાવ્યું હતું કે ઈરાન આવા કોઈપણ કાવતરાનો વિરોધ કરે છે.",
@@ -567,15 +603,6 @@ const newsData_gu = [
     "time": "2026-03-15T14:52:40.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ભારતમાં 2BHK ઘર બનાવવું હોય તો કેટલો આવે ખર્ચ ? એક ક્લિકમાં જાણી લો જવાબ",
-    "desc": "ભારતમાં 2BHK એપાર્ટમેન્ટ બનાવવાનો ખર્ચ દરેક દરેક જગ્યાએ બદલાય છે. તમે કયા શહેર કે વિસ્તારમાં રહો છો તેના આધારે ખર્ચ આવે છે, ત્યારે આ લેખમાં 2BHK ઘર બનાવવાનો ખર્ચ કેટલો આવી શકે, તેના વિશે જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/how-much-does-it-cost-to-build-2bhk-house-in-india-468729 ",
-    "time": "2026-03-15T12:26:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "સદીનો વિચાર તો આવ્યો હતો, પણ... T20 વર્લ્ડ કપમાં 3 સદી ચૂકી જવા પર સંજૂ સેમસને કર્યો મોટો ખુલાસો",
     "desc": "સંજૂ સેમસન T20 વર્લ્ડ કપ 2026માં એક કે બે નહીં પણ ત્રણ-ત્રણ વાર સદી ફટકારવામાંથી ચૂકી ગયો હતો. સેમસને આ ટૂર્નામેન્ટમાં ભારત માટે સૌથી વધુ રન બનાવનાર બેટ્સમેન બન્યો છે. ખિતાબ જીત્યા બાદ વિકેટકીપર સેમસને એક મોટી કબૂલાત કરી છે.",
@@ -592,24 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/pakistani-cricketer-sarfaraz-ahmed-to-retire-after-t20-world-cup-2026-468719 ",
     "time": "2026-03-15T11:52:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "SBI માંથી 75 લાખની Home Loan લેવા માટે કેટલો પગાર હોવો જોઈએ, કેટલી આવશે EMI?",
-    "desc": "સરકારી બેંક ઓફ ઈન્ડિયા 7.10 ટકાથી શરૂ થતા વ્યાજ દરે હોમ લોન ઓફર કરે છે. કેનેરા બેંક, પંજાબ નેશનલ બેંક અને પંજાબ એન્ડ સિંધ બેંક પણ સસ્તા વ્યાજ દરે હોમ લોન ઓફર કરે છે. SBIમાં પણ સસ્તા દરે લોન ઓફર કરવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/how-much-salary-should-be-required-to-take-a-home-loan-of-75-lakhs-from-sbi-how-much-will-be-the-emi-468718 ",
-    "time": "2026-03-15T11:47:34.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અબુ ધાબીની તમામ અને દુબઈની 5 ફ્લાઈટ્સ રદ: મહાજંગ વચ્ચે એર ઈન્ડિયાનો મોટો નિર્ણય",
-    "desc": "યુએઈ એરપોર્ટ ઓથોરિટીના નિર્દેશોને કારણે 15 માર્ચે દુબઈ અને અબુ ધાબી જતી મોટાભાગની એર ઈન્ડિયા અને એર ઈન્ડિયા એક્સપ્રેસ ફ્લાઇટ્સ રદ કરવામાં આવી છે. છમાંથી પાંચ દુબઈ ફ્લાઇટ્સ અને બધી અબુ ધાબી ફ્લાઇટ્સ પ્રભાવિત થઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/all-abu-dhabi-flights-and-5-dubai-flights-cancelled-air-indias-major-decision-amidst-the-major-conflict-468653 ",
-    "time": "2026-03-15T05:09:22.000Z"
   },
   {
     "cat": "Tech",
@@ -790,14 +799,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/anu-will-come-out-to-confront-arya-past-pushpa-will-cancel-her-marriage-know-about-the-upcoming-episode-467632 ",
     "time": "2026-03-08T08:16:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સારામાં સારી હોરર કોમેડી ફિલ્મ જોવી હોય તો OTT પર જુઓ આ ફિલ્મ, 99 ટકા લોકો આ મસ્ટ વોચ ફિલ્મથી હશે અજાણ",
-    "desc": "જો તમને સ્ત્રી, સ્ત્રી 2, મુંજીયા જેવી હોરર કોમેડી ફિલ્મો ગમે છે તો ચાલો તમને OTT પર જોઈ શકાય એવી ફિલ્મ વિશે જણાવીએ જેને જોઈ તમે ચોક્કસથી કહેશો પૈસા વસુલ ફિલ્મ છે... આ ફિલ્મ તમને ડરાવતાં ડરાવતા ખૂબ હસાવશે. આ ફિલ્મની કમાણી તેના બજેટ કરતાં 5 ગણી વધારે હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-horror-comedy-film-on-ott-sarvam-maya-film-imdb-rating-best-south-hindi-film-on-jio-hotstar-467605 ",
-    "time": "2026-03-08T02:42:54.000Z"
   }
 ];

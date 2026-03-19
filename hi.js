@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Dinesh Karthik, Dipika Pallikal welcome third child, reveal name of baby girl",
+    "desc": "Former India wicketkeeper-batter Dinesh Karthik and his wife, as well as squash star Dipika Pallikal, have been blessed with a baby girl. The couple announced the arrival of the new member in their family. They...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dinesh-karthik-dipika-pallikal-welcome-third-child-reveal-name-of-baby-girl-2026-03-19-1034318",
+    "time": "2026-03-19T06:50:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "First time in 19 years! Pat Cummins injury creates history in IPL 2026 as Ishan Kishan takes over",
+    "desc": "Pat Cummins' injury has created history in the Indian Premier League (IPL). This statement will look weird for many, but yes, Cummins' injury has led to Sunrisers Hyderabad appointing Ishan Kishan as their stand-in captain....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/first-time-in-19-years-pat-cummins-injury-creates-history-in-ipl-2026-as-ishan-kishan-takes-over-2026-03-19-1034313",
+    "time": "2026-03-19T06:07:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rishabh Pant left shocked by Arjun Tendulkar’s massive bat weight, conversation goes viral",
     "desc": "Arjun Tendulkar is starting a new chapter in his cricket career with the Lucknow Super Giants in the upcoming edition of the Indian Premier League (IPL). The franchise traded him from five-time champions Mumbai Indians...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/faf-du-plessis-advises-kkr-to-play-ipl-2026-matches-on-spin-friendly-deck-amid-injury-concerns-2026-03-18-1034242",
     "time": "2026-03-18T15:58:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma, MS Dhoni, Virat Kohli chase AB de Villiers' all-time record in IPL 2026",
-    "desc": "Former cricketer AB de Villiers still holds the record for the most Player of the Match awards in Indian Premier League (IPL) history. The keeper-batter claimed the honour 12 times before calling his time in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-ms-dhoni-virat-kohli-chase-ab-de-villiers-all-time-record-in-ipl-2026-2026-03-18-1034239",
-    "time": "2026-03-18T15:16:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler unsure of international future, expresses desire to continue playing for England",
-    "desc": "Jos Buttler has admitted uncertainty over his immediate international future following England’s semi-final exit against India at the T20 World Cup. While he remains eager to continue representing his country, selection for the upcoming white-ball...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-unsure-of-international-future-expresses-desire-to-continue-playing-for-england-2026-03-18-1034235",
-    "time": "2026-03-18T14:17:03.000Z"
   }
 ];
