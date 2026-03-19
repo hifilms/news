@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ટ્રમ્પનો પ્લાન ફ્લોપ, યુદ્ધથી માલામાલ થઈ રહ્યું છે ઈરાન; દરરોજ તિજોરીમાં આવી રહ્યા છે ₹13,05,36,73,906",
+    "desc": "20 દિવસ પછી પણ અમેરિકા, ઈઝરાયેલ અને ખાડી દેશો મળીને પણ ઈરાનને ઝુકાવી શક્યા નથી. પોતાના સુપ્રીમ લીડરને ગુમાવવા છતાં પણ ઈરાન યુદ્ધમાં મજબૂત રીતે ટકી રહ્યું છે. ઈરાન માટે આ યુદ્ધ હવે કમાણીનું મોટું સાધન બની ગયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/trump-plan-flops-iran-is-getting-rich-from-war-13053673906-is-coming-into-the-treasury-every-day-469311 ",
+    "time": "2026-03-19T16:50:26.000Z"
+  },
+  {
     "cat": "Business",
     "title": "8મા પગાર પંચમાં બદલાશે DAની ફોર્મ્યુલા ! સરકારી કર્મચારીઓનો કેટલો વધશે પગાર ?",
     "desc": "દેશના અગ્રણી ટ્રેડ યુનિયન ઓલ ઈન્ડિયા ટ્રેડ યુનિયન કોંગ્રેસ (AITUC) સહિત અનેક સંગઠનોએ માંગ કરી છે કે સરકાર હાલની ફોર્મ્યુલામાં સુધારો કરે, કારણ કે તે આજના વધતા ખર્ચ સાથે મેળ ખાતી નથી. મોંઘવારી ભથ્થાની ગણતરી માટેની વર્તમાન ફોર્મ્યુલા જૂની થઈ ગઈ છે.",
@@ -637,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/yash-dayal-shweta-pundir-wedding-rcb-bowler-marriage-who-is-shweta-pundir-468756 ",
     "time": "2026-03-15T17:05:08.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઇઝરાયલના PMના મોતના દાવાઓ પર આવ્યો વધુ એક Video, કહ્યું: હું મરી ગયો છું..., જાણો",
-    "desc": "ઇઝરાયલ અને અમેરિકાએ ઇરાનમાં 15,000થી વધુ સ્થળો પર હુમલો કર્યો છે. યુદ્ધમાં અત્યાર સુધીમાં 2,000થી વધુ લોકો માર્યા ગયા છે. ઇરાનના રિવોલ્યુશનરી ગાર્ડ્સે એક નિવેદનમાં કહ્યું છે કે જો નેતન્યાહૂ જીવતા રહેશે, તો તેઓ તેમને તેમની બધી શક્તિથી મારી નાખશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/another-video-came-out-claiming-the-death-of-israeli-pm-he-said-i-am-dead-know-468755 ",
-    "time": "2026-03-15T16:46:21.000Z"
   },
   {
     "cat": "Tech",

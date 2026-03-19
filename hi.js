@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Matheesha Pathirana likely to play KKR's first IPL 2026 opener vs SRH; NOC to be given next week",
+    "desc": "Matheesha Pathirana is very likely to be available for Kolkata Knight Riders’ opening IPL 2026 match against Sunrisers Hyderabad. The pacer had earlier picked up a hamstring injury during the T20 World Cup, which ruled...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/matheesha-pathirana-likely-to-play-kkr-s-first-ipl-2026-opener-vs-srh-noc-to-be-given-next-week-2026-03-19-1034409",
+    "time": "2026-03-19T18:00:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunrisers Hyderabad's overseas all rounder ruled out of IPL 2026",
+    "desc": "Sunrisers Hyderabad all-rounder Jack Edwards has been ruled out of the IPL 2026. The Australia international played just one T20I match in his career, but impressed head coach Daniel Vettori and captain Pat Cummins, which...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-s-overseas-all-rounder-ruled-out-of-ipl-2026-2026-03-19-1034406",
+    "time": "2026-03-19T17:16:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Punjab Kings' star pacer to miss first few games of IPL 2026, explains reason",
+    "desc": "Punjab Kings pacer Lockie Ferguson is expected to miss a significant portion of the first half of the IPL 2026. The New Zealand pacer delayed his arrival in India following the birth of his child...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-star-pacer-to-miss-first-few-games-of-ipl-2026-explains-reason-2026-03-19-1034399",
+    "time": "2026-03-19T16:28:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 cricketers who can replace Nathan Ellis in CSK squad for IPL 2026",
+    "desc": "Chennai Super Kings pacer Nathan Ellis has been ruled out of the IPL 2026, owing to a hamstring injury. CEO Kasi Vishwanathan has confirmed the development, stating that they are currently in search for possible...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-cricketers-who-can-replace-nathan-ellis-in-csk-squad-for-ipl-2026-2026-03-19-1034397",
+    "time": "2026-03-19T16:04:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rajasthan Royals suffer major blow, key first-team player is likely ruled out of IPL 2026",
     "desc": "Rajasthan Royals have suffered a major blow ahead of the IPL 2026. England all-rounder Sam Curran is set to miss the entire season with a suspected groin injury. He was brought in as a part...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/neymar-left-disappointed-after-brazil-snub-says-hey-ancelotti-what-about-me-watch-2026-03-19-1034353",
     "time": "2026-03-19T10:34:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How is Ishan Kishan's record as captain in T20 cricket? A look at numbers ahead of IPL 2026",
-    "desc": "Sunrisers Hyderabad (SRH) appointed Ishan Kishan as stand-in captain on Wednesday for the upcoming edition of the Indian Premier League (IPL). Notably, their regular skipper Pat Cummins is set to miss the first few matches...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-is-ishan-kishan-s-record-as-captain-in-t20-cricket-a-look-at-numbers-ahead-of-ipl-2026-2026-03-19-1034344",
-    "time": "2026-03-19T08:36:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dinesh Karthik, Dipika Pallikal welcome third child, reveal name of baby girl",
-    "desc": "Former India wicketkeeper-batter Dinesh Karthik and his wife, as well as squash star Dipika Pallikal, have been blessed with a baby girl. The couple announced the arrival of the new member in their family. They...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dinesh-karthik-dipika-pallikal-welcome-third-child-reveal-name-of-baby-girl-2026-03-19-1034318",
-    "time": "2026-03-19T06:50:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "First time in 19 years! Pat Cummins injury creates history in IPL 2026 as Ishan Kishan takes over",
-    "desc": "Pat Cummins' injury has created history in the Indian Premier League (IPL). This statement will look weird for many, but yes, Cummins' injury has led to Sunrisers Hyderabad appointing Ishan Kishan as their stand-in captain....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/first-time-in-19-years-pat-cummins-injury-creates-history-in-ipl-2026-as-ishan-kishan-takes-over-2026-03-19-1034313",
-    "time": "2026-03-19T06:07:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant left shocked by Arjun Tendulkar’s massive bat weight, conversation goes viral",
-    "desc": "Arjun Tendulkar is starting a new chapter in his cricket career with the Lucknow Super Giants in the upcoming edition of the Indian Premier League (IPL). The franchise traded him from five-time champions Mumbai Indians...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-rishabh-pant-left-shocked-by-arjun-tendulkars-massive-bat-weight-conversation-goes-viral-2026-03-19-1034302",
-    "time": "2026-03-19T04:47:39.000Z"
   }
 ];
