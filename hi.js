@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How is Ishan Kishan's record as captain in T20 cricket? A look at numbers ahead of IPL 2026",
+    "desc": "Sunrisers Hyderabad (SRH) appointed Ishan Kishan as stand-in captain on Wednesday for the upcoming edition of the Indian Premier League (IPL). Notably, their regular skipper Pat Cummins is set to miss the first few matches...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-is-ishan-kishan-s-record-as-captain-in-t20-cricket-a-look-at-numbers-ahead-of-ipl-2026-2026-03-19-1034344",
+    "time": "2026-03-19T08:36:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Dinesh Karthik, Dipika Pallikal welcome third child, reveal name of baby girl",
     "desc": "Former India wicketkeeper-batter Dinesh Karthik and his wife, as well as squash star Dipika Pallikal, have been blessed with a baby girl. The couple announced the arrival of the new member in their family. They...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kkr-invite-three-pacers-for-trials-as-three-time-champions-seek-harshit-rana-s-replacement-in-ipl-2026-2026-03-18-1034245",
     "time": "2026-03-18T16:29:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Faf du Plessis advises KKR to play IPL 2026 matches on spin-friendly deck amid injury concerns",
-    "desc": "Former cricketer Faf du Plessis has weighed in on what could shape Kolkata Knight Riders’ fortunes in IPL 2026. He pointed firmly toward conditions at their home ground, Eden Gardens and believes the franchise holds...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/faf-du-plessis-advises-kkr-to-play-ipl-2026-matches-on-spin-friendly-deck-amid-injury-concerns-2026-03-18-1034242",
-    "time": "2026-03-18T15:58:13.000Z"
   }
 ];

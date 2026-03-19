@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "‘Like replacing Virat Kohli’: Riyan Parag on Sanju Samson’s Rajasthan Royals exit",
+    "desc": "Rajasthan Royals captain Riyan Parag acknowledged the immense void left by Sanju Samson's departure, comparing his irreplaceable talent to Virat Kohli's. Parag highlighted the team's focus on addressing last season's late-game losses and building a balanced squad with strong spin and pace options. He expressed confidence in the team's all-round strength and their ability to perform regardless of the venue.",
+    "img": "https://static.toiimg.com/photo/msid-129675509,imgsize-165802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/like-replacing-virat-kohli-riyan-parag-on-sanju-samsons-rajasthan-royals-exit/articleshow/129675479.cms",
+    "time": "2026-03-19T09:14:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'500 cr will be because of Rakesh Bedi': Ranveer's prediction",
+    "desc": "Celebrated veteran actor Rakesh Bedi steps into the shoes of Jameel Jamali, a Pakistani Awami Party leader, in Aditya Dhar's much-anticipated 'Dhurandhar' series. Co-star Ranveer Singh couldn't help but praise Bedi's performance, quipping that should 'Dhurandhar 2' reach the monumental Rs 1000 crore mark, half of that success can be traced back to Bedi's remarkable portrayal. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129675215,imgsize-120534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenges-jameel-jamali-recalls-ranveer-singhs-bold-box-office-prediction-on-sets-500-crore-will-be-because-of-rakesh-bedi/articleshow/129675215.cms",
+    "time": "2026-03-19T09:11:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gaiety Galaxy owner lashes out at 'Dhurandhar 2' makers: EXCLUSIVE",
+    "desc": "The Revenge' faced widespread paid preview cancellations due to a critical technical delay. Theater owners expressed frustration as Jio Studios failed to deliver the necessary Key Delivery Messages (KDMs) on time. This prevented approximately 500 theaters nationwide from screening the film as scheduled, impacting multiple shows and causing significant disruption for eager audiences.",
+    "img": "https://static.toiimg.com/photo/msid-129674857,imgsize-72600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gaeity-galaxy-owner-manoj-desai-lashes-out-at-dhurandhar-2-makers-for-not-giving-kdm-on-time-500-theatres-mein-show-cancel-huye-exclusive/articleshow/129674718.cms",
+    "time": "2026-03-19T08:37:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rebel Wilson faces four lawsuits in 'The Deb' case amid audio leak",
+    "desc": "Rebel Wilson's latest film, 'The Deb,' has spiraled into controversy, with the actress now entangled in a series of escalating lawsuits. The accusations range from producer fraud to allegations of a calculated smear campaign orchestrated by her crisis PR team.",
+    "img": "https://static.toiimg.com/photo/msid-129674603,imgsize-34916.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rebel-wilson-vs-the-deb-four-lawsuits-explode-as-leaked-audio-alleges-smear-campaign-against-producer-reports/articleshow/129674603.cms",
+    "time": "2026-03-19T08:23:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Love Island USA’s Huda Mustafa denies allegations",
+    "desc": "Love Island USA's Huda Mustafa faces serious accusations from her boyfriend Louis Russell's ex, Nicole Olivera, who filed a restraining order. Nicole alleges Huda made threats and disturbing statements. Huda denies the claims, stating she's letting legal channels handle the situation. A temporary order requires Huda to stay away from Nicole and her son until a court date.",
+    "img": "https://static.toiimg.com/photo/msid-129674519,imgsize-97746.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/love-island-usas-huda-mustafa-breaks-silence-after-restraining-order-drama/articleshow/129674481.cms",
+    "time": "2026-03-19T08:18:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee weakens in NDF, set to slip past 93 as oil surges; RBI steps up key tool",
+    "desc": "The Indian rupee plunged to a record low of 93.36 against the US dollar amid global market volatility and a strong dollar. The Reserve Bank of India has significantly ramped up its intervention using forward contracts, with its net-short dollar position nearing $100 billion. This stepped-up intervention aims to stabilize the rupee amidst renewed pressure on emerging market currencies.",
+    "img": "https://static.toiimg.com/photo/msid-129674492,imgsize-972724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-weakens-in-ndf-set-to-slip-past-93-as-oil-surges-rbi-steps-up-key-tool/articleshow/129674306.cms",
+    "time": "2026-03-19T08:16:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'ARIRANG': All about the BTS comeback concert",
+    "desc": "BTS, the world's biggest boy band, reunites on stage on Saturday in a K-pop extravaganza watched by hundreds of thousands of fans in downtown Seoul and by millions around the planet online. Hotels are booked out in Seoul with thousands of fans flying in from abroad for the concert.",
+    "img": "https://static.toiimg.com/photo/msid-129674362,imgsize-144890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/arirangeverything-to-know-about-btss-comebackconcert/articleshow/129674225.cms",
+    "time": "2026-03-19T08:09:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Uma Thurman reveals why she never lived in Los Angeles",
+    "desc": "Hollywood star Uma Thurman reveals why she never settled in Los Angeles, despite her iconic career. A pregnancy shortly after signing a lease for an LA apartment cemented her decision to remain in New York. This choice, she feels, kept her somewhat apart from the industry's inner circle, finding community instead with fellow mothers.",
+    "img": "https://static.toiimg.com/photo/msid-129674296,imgsize-16788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/uma-thurman-explains-why-she-never-lived-in-los-angeles-while-raising-kids-in-new-york-city-i-never-did-time/articleshow/129674296.cms",
+    "time": "2026-03-19T08:07:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Bade Sahab’ in ‘Dhurandhar 2’ revealed: No Salman or Emraan",
+    "desc": "Dhurandhar's mystery ‘Bade Sahab’ from Ranveer Singh's diary? Not Salman or Emraan—NSD's Danish Iqbal plays the Dawood-inspired villain masterminding Hamza's arc. Backed by stellar creds from Maharani 2 to Sankalp, he joins Rampal, Dutt, Madhavan.",
+    "img": "https://static.toiimg.com/photo/msid-129674310,imgsize-37716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bade-sahab-in-dhurandhar-2-revealed-no-salman-khan-or-emraan-hashmi-but-nsd-actor-steals-the-show-in-ranveer-singhs-film/articleshow/129674310.cms",
+    "time": "2026-03-19T08:05:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Next Dhoni? No…‘One and only Sanju’ When Gambhir corrected Tharoor",
+    "desc": "Congress MP Shashi Tharoor expressed immense pride in Sanju Samson's Player of the Tournament performance in India's T20 World Cup triumph. Tharoor recalled an early prediction of Samson becoming the 'next Dhoni,' a sentiment later refined by Gautam Gambhir, who emphasized Samson forging his own unique path. Samson's recent match-winning innings solidified his status as a selfless and talented player.",
+    "img": "https://static.toiimg.com/photo/msid-129674223,imgsize-244334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/next-dhoni-noone-and-only-sanju-when-gautam-gambhir-corrected-shashi-tharoor/articleshow/129673998.cms",
+    "time": "2026-03-19T08:04:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Badal Pe Paon Hai' singer reveals why she QUIT Bollywood",
+    "desc": "Renowned artist Hemaa Sardesai, best known for her hit 'Aawaara Bhanware', recently shared her surprising choice to leave Bollywood while riding high on success. Foregoing potential projects to stay true to her core values, she decided that aligning with her beliefs was more important than profits—despite her earlier triumphs like the celebrated 'Badal Pe Paon Hai' alongside AR Rahman. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129673597,imgsize-179188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/badal-pe-paon-hai-singer-hemaa-sardesai-reveals-why-she-quit-bollywood-i-refused-to-compromise-my-virtues-values-and-principles/articleshow/129673597.cms",
+    "time": "2026-03-19T08:02:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar: The Revenge' vs 'Ustaad Bhagat Singh' box office collection day 1",
+    "desc": "The Revenge', starring Ranveer Singh, has stormed ticket windows following a record-breaking Rs. 43 crore paid previews. Targeting a historic Rs. 100 crore opening day worldwide, the sequel is currently running across a massive 8,928 shows. On the other hand, Pawan Kalyan’s 'Ustaad Bhagat Singh' is reasserting the Power Star’s local dominance, capitalizing on the Ugadi and Gudi Padwa festivities.",
+    "img": "https://static.toiimg.com/photo/msid-129673426,imgsize-418396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-vs-ustaad-bhagat-singh-box-office-collection-day-1-live-ranveer-singhs-sequel-eyes-a-rs-100-opening-day-while-pawan-kalyans-film-dominates-single-screens/articleshow/129673426.cms",
+    "time": "2026-03-19T07:46:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "From cricket to para sports, UP athletes make strong impact across categories",
+    "desc": "The Times of India Sports Awards (TOISA) returns for its eighth edition, set to honour India's top athletes on March 21, 2026, in Lucknow. This edition's nominations highlight exceptional performances from January 1 to December 31, 2025, with a strong representation from Uttar Pradesh athletes across various disciplines.",
+    "img": "https://static.toiimg.com/photo/msid-129673734,imgsize-69626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/toisa-2025-from-cricket-to-para-sports-up-athletes-make-strong-impact-across-categories/articleshow/129673427.cms",
+    "time": "2026-03-19T07:37:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Filmmaker Michal Kwiecinski presents lively new Frederic  Chopin biopic",
+    "desc": "As the poet of the piano comes to town in a new avatar, Polish filmmaker Michal Kwiecinski discusses Chopin, A Sonata in Paris, the well-crafted biopic that is livelier and less sanctimonious than older portrayals of the master",
+    "img": "https://th-i.thgim.com/public/incoming/jgpck5/article70756889.ece/alternates/LANDSCAPE_1200/IFFK-2025_-The-GVQF9VBIA.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/filmmaker-michal-kwiecinski-presents-lively-new-frederic-chopin-biopic/article70756901.ece",
+    "time": "2026-03-19T07:34:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP releases list of candidates; CM Himanta Sarma to contest from Jalukbari",
+    "desc": "The Bharatiya Janata Party has unveiled its initial list of 88 candidates for the Assam assembly elections, with chief minister Himanta Biswa Sarma contesting from Jalukbari. The party has finalized seat-sharing with AGP and BPF, aiming to retain power. The announcement follows the declaration of the poll schedule for the 126-member assembly.",
+    "img": "https://static.toiimg.com/photo/msid-129673194,imgsize-1180064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assam-election-2026-bjp-releases-list-of-candidates-cm-himanta-sarma-to-contest-from-jalukbari/articleshow/129672996.cms",
+    "time": "2026-03-19T07:24:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brody Jenner defends Kylie Jenner and Timothée Chalamet's relationship",
+    "desc": "In a recent statement, Brody Jenner stepped up to defend his sister, Kylie, and her romance with Timothée Chalamet, pushing back against Sarah Tena's allegations of a previous connection. He called for the public to respect their relationship, implying that Tena is merely looking for her moment in the limelight.",
+    "img": "https://static.toiimg.com/photo/msid-129673338,imgsize-111728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kylie-jenner-and-timothe-chalamet-brody-jenner-defends-their-relationship-saying-just-leave-the-happy-couple-alone/articleshow/129673338.cms",
+    "time": "2026-03-19T07:19:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI faces legal showdown, Kerala HC steps in",
+    "desc": "The Kerala High Court has dismissed a plea challenging the 'Indian Premier League' name, deeming it without merit. Meanwhile, Karnataka has greenlit the M. Chinnaswamy Stadium for IPL 2026 matches, ending venue uncertainty. The 19th IPL season kicks off March 28th, with defending champions RCB facing Sunrisers Hyderabad in Bengaluru.",
+    "img": "https://static.toiimg.com/photo/msid-129673215,imgsize-195164.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-name-controversy-bcci-faces-legal-showdown-kerala-hc-steps-in/articleshow/129673021.cms",
+    "time": "2026-03-19T07:15:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I have to defend my creative choices'",
+    "desc": "Doja Cat has opened up about her ongoing battle with online trolls, revealing she feels compelled to defend her creative decisions when faced with hate. The artist admitted that while she knows these critics might not be significant, the feeling of being threatened, even if imagined, prompts her to respond. She remains uncertain if this will change in the future.",
+    "img": "https://static.toiimg.com/photo/msid-129673114,imgsize-164068.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/doja-cat-on-addressing-trolls-online-i-feel-like-i-have-to-defend-my-creative-choices/articleshow/129673114.cms",
+    "time": "2026-03-19T07:07:56.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Steven Spielberg says he has a ‘strong suspicion’ we’re ‘not alone’",
     "desc": "Acclaimed director Steven Spielberg, whose films often delve into the mysteries of the cosmos, recently expressed his deep conviction that we are not the only beings inhabiting Earth. This revelation comes on the heels of comments from former President Barack Obama, who has also shared his thoughts on extraterrestrial life.",
@@ -81,15 +243,6 @@ const newsData_en = [
     "time": "2026-03-19T06:09:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Gabriel Iglesias opens up about using Ozempic",
-    "desc": "Comedian Gabriel Iglesias shared his experience with Ozempic on the 'Club Shay Shay' podcast, revealing rapid weight regain after stopping the medication. He noted the drug's effectiveness in curbing appetite for five months, emphasizing his commitment to weight loss for long-term health, even if it means shedding his 'Fluffy' persona.",
-    "img": "https://static.toiimg.com/photo/msid-129671955,imgsize-51512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/gabriel-iglesias-on-going-off-ozempic-it-is-scary-i-regained-20-pounds-quickly/articleshow/129671955.cms",
-    "time": "2026-03-19T06:08:17.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Vikram Doraiswami appointed India’s next Ambassador to China",
     "desc": "Vikram K Doraiswami will be India's new Ambassador to China. The ministry of external affairs announced his appointment. Doraiswami is a senior Indian Foreign Service officer. He currently serves as High Commissioner to the United Kingdom. He is expected to take up his new role shortly. This appointment occurs as India and China continue diplomatic discussions on bilateral issues.",
@@ -97,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/vikram-doraiswami-appointed-indias-next-ambassador-to-china/articleshow/129671817.cms",
     "time": "2026-03-19T06:01:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Price Is Right’ star Holly Hallstrom reveals what led to her firing",
-    "desc": "In a shocking revelation more than 30 years after her exit from 'The Price Is Right,' Holly Hallstrom shares the truth about her firing. She asserts that it wasn't her weight that led to her dismissal but her decision to decline cooperation against Dian Parkinson in a sexual harassment lawsuit.",
-    "img": "https://static.toiimg.com/photo/msid-129671762,imgsize-94997.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/english/the-price-is-right-star-holly-hallstrom-claims-her-refusal-to-testify-for-bob-barker-led-to-her-firing-i-was-not-surprised/articleshow/129671762.cms",
-    "time": "2026-03-19T05:54:38.000Z"
   },
   {
     "cat": "Sports",
@@ -117,17 +261,8 @@ const newsData_en = [
     "time": "2026-03-19T05:53:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar The Revenge': Celebrities review Ranveer starrer",
-    "desc": "The Revenge' has ignited excitement, with celebrities like Allu Arjun and Ranveer Singh showering it with praise. Early previews have garnered immense fan frenzy and critical acclaim, with many predicting a massive box office success. The film's powerful performances and direction are being lauded, setting high expectations for its official release.",
-    "img": "https://static.toiimg.com/photo/msid-129670954,imgsize-105374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-review-kartik-aaryan-ananya-panday-allu-arjun-and-other-celebrities-blown-away-by-ranveer-singh-starrer/articleshow/129667992.cms",
-    "time": "2026-03-19T05:28:13.000Z"
-  },
-  {
     "cat": "Sports",
-    "title": "Ajit Agarkar seeks 2027 extension, will BCCI agree with no clear successor in sight?",
+    "title": "Agarkar seeks 2027 extension, will BCCI agree with no clear successor in sight?",
     "desc": "With Ajit Agarkar seeking extension on his tenure as chief selector until the 2027 ODI World Cup, the BCCI is considering his request following India's recent ICC title wins. Discussions are ongoing regarding his future and potential successors. The board faces a decision as India prepares for upcoming tournaments and potential player transitions.",
     "img": "https://static.toiimg.com/photo/msid-129671091,imgsize-44346.cms",
     "src": "indiatimes.com",
@@ -151,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/whats-the-big-deal-r-ashwin-shuts-down-hype-over-shivam-dubes-train-ride/articleshow/129670994.cms",
     "time": "2026-03-19T05:07:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka Chopra among Top 5 Oscar attendees by EMV",
-    "desc": "Priyanka Chopra Jonas shone brightly at the 2026 Oscars, not just on the red carpet but also in online influence. She secured a spot among the top five most influential attendees, measured by Earned Media Value. Her presence as a presenter and her stunning fashion choices contributed to her significant digital impact, placing her fourth on the prestigious list.",
-    "img": "https://static.toiimg.com/photo/msid-129670268,imgsize-55740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-among-top-5-oscar-attendees-by-emv-features-alongside-pedro-pascal-kylie-jenner-anne-hathaway/articleshow/129670097.cms",
-    "time": "2026-03-19T04:31:29.000Z"
   },
   {
     "cat": "Sports",
@@ -207,27 +333,9 @@ const newsData_en = [
     "time": "2026-03-19T03:52:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rebel Wilson opens up about ‘The Deb’ controversy and legal cases",
-    "desc": "In the eye of a media storm, Rebel Wilson remains unyielding with her directorial film, 'The Deb.' Facing allegations of inciting a smear campaign against the producers, she openly challenges these claims, vowing to expose the truth behind the film's troubled journey. Confident and defiant, Wilson asserts that influential players are trying to suppress her narrative.",
-    "img": "https://static.toiimg.com/photo/msid-129670079,imgsize-108340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rebel-wilson-comments-on-the-deb-controversy-im-going-to-get-on-the-stand-and-tell-it-like-it-is/articleshow/129670079.cms",
-    "time": "2026-03-19T03:50:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2': RGV hypes up Ranveer starrer once again",
-    "desc": "The Revenge,' calling it a revolutionary action film. He believes the movie will redefine Indian cinema, even suggesting legendary directors should study it. Varma's enthusiastic praise, comparing its impact to 'Sholay x 100,' has significantly amplified the film's anticipation ahead of its March 19, 2026 release. Read on to know more.",
-    "img": "https://static.toiimg.com/photo/msid-129670001,imgsize-99264.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-ram-gopal-varma-hypes-up-ranveer-singh-starrer-says-people-who-watched-/articleshow/129670001.cms",
-    "time": "2026-03-19T03:49:06.000Z"
-  },
-  {
     "cat": "Business",
-    "title": "Stock market crash erases Rs 7 lakh crore investors’ wealth in minutes! Sensex plunges over 1,600 points on oil prices, US Fed decision",
-    "desc": "Higher crude oil prices and a hawkish stance from the US Federal Reserve weighed heavily on investor sentiment.Within minutes of trading, the sharp decline erased over Rs 7 lakh crore from the total market capitalisation of BSE-listed firms.",
+    "title": "Stock market crash erases Rs 10 lakh crore investors’ wealth! Sensex plunges over 2,100 points on oil prices, US Fed decision",
+    "desc": "Higher crude oil prices and a hawkish stance from the US Federal Reserve weighed heavily on investor sentiment.Within minutes of trading, the sharp decline erased over Rs 10 lakh crore from the total market capitalisation of BSE-listed firms.",
     "img": "https://static.toiimg.com/photo/msid-129669686,imgsize-106692.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-19-2026-dalal-street-indian-equities-global-markets-us-federal-reserve-middle-east-war-iran-donald-trump/articleshow/129669665.cms",
@@ -241,33 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/toisa-2025-uttar-pradesh-dominates-with-four-nominations-in-athlete-of-the-year-category/articleshow/129669781.cms",
     "time": "2026-03-19T03:44:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Spider-Man: Brand New Day’ trailer SHATTERS records",
-    "desc": "Brand New Day' trailer shattered records, surpassing 500 million views in 24 hours, eclipsing the 'Grand Theft Auto VI' trailer. Despite prior leaks, the official release captivated audiences with a glimpse of a transformed Peter Parker, four years after 'No Way Home'.",
-    "img": "https://static.toiimg.com/photo/msid-129669857,imgsize-148470.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-trailer-shatters-records-tom-holland-and-zendaya-starrer-crosses-500-million-views-in-under-24-hours/articleshow/129669646.cms",
-    "time": "2026-03-19T03:33:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Selena Gomez to feature in ‘Hannah Montana 20th Anniversary Special’",
-    "desc": "Get ready to relive the magic as Miley Cyrus gears up for the 'Hannah Montana 20th Anniversary Special.' Joining her is the beloved Selena Gomez, whose appearance was orchestrated by podcast host Alex Cooper. This special celebration of the cherished series promises heartfelt moments and a thrilling performance of 'Best of Both Worlds.' Mark your calendars for March 24, 2026!",
-    "img": "https://static.toiimg.com/photo/msid-129669714,imgsize-206758.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/miley-cyrus-reveals-selena-gomez-will-feature-in-the-upcoming-hannah-montana-20th-anniversary-special/articleshow/129669714.cms",
-    "time": "2026-03-19T03:19:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Dhurandhar: The Revenge’ box office collection in North America",
-    "desc": "The Revenge' has exceeded expectations, grossing USD 1.43 million in North America from premiere shows. The spy thriller, a sequel to the 2025 hit, is lauded for its action, story, and performances, with Ranveer Singh's portrayal being a standout. Industry peers, including Vijay Deverakonda, have praised the film and its director, Aditya Dhar.",
-    "img": "https://static.toiimg.com/photo/msid-129669644,imgsize-86786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-ranveer-singh-starrer-mints-usd-1-44-million-in-north-america/articleshow/129669620.cms",
-    "time": "2026-03-19T03:14:17.000Z"
   },
   {
     "cat": "Politics",
@@ -322,24 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rishabh-pant-returns-to-ipl-grind-chasing-another-india-comeback/articleshow/129669097.cms",
     "time": "2026-03-19T02:20:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘KPop Demon Hunters’ set for GLOBAL TOUR post Oscar success?",
-    "desc": "Following its Oscar win and Netflix success, 'KPop Demon Hunters' is reportedly planning a massive global live tour. Netflix is in early talks with promoters for a worldwide concert series, set to launch next year before the sequel. The animated film's hit song 'Golden' also garnered significant awards, highlighting the franchise's immense popularity.",
-    "img": "https://static.toiimg.com/photo/msid-129669074,imgsize-113788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/kpop-demon-hunters-to-head-out-on-global-tour-post-oscar-success/articleshow/129668697.cms",
-    "time": "2026-03-19T02:16:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Sarke Chunar' song controversy: Singer Mangli APOLOGIZES",
-    "desc": "The Devil' has been pulled from all platforms following widespread criticism for its vulgar lyrics and visuals. Singer Mangli has apologized and announced a corrected version will be released soon. Actress Nora Fatehi also addressed the controversy, stating she was unaware of the song's content and had filmed it years ago in Kannada. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129668867,imgsize-135232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sarke-chunar-song-controversy-singer-mangli-apologizes-says-corrected-version-will-be-out-soon/articleshow/129668867.cms",
-    "time": "2026-03-19T02:09:02.000Z"
   },
   {
     "cat": "Business",
@@ -477,24 +540,6 @@ const newsData_en = [
     "time": "2026-03-18T16:33:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘I cannot help feeling I have been taken for a ride,’ says Justice Swaminathan",
-    "desc": "The judge adjourns till April 9 the hearing on contempt of court cases initiated by him in connection with the row, following an interim stay granted by a Division Bench of the Madurai Bench of the Madras High Court",
-    "img": "https://th-i.thgim.com/public/incoming/27779p/article70759002.ece/alternates/LANDSCAPE_1200/2col_with_pictuGTOF9H5FA.11.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/thirupparankundram-row-i-cannot-help-feeling-i-have-been-taken-for-a-ride-says-justice-swaminathan/article70758835.ece",
-    "time": "2026-03-18T16:20:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sharmila slams Avinash Reddy for remarks on Viveka’s murder, calls Jagan a ‘disgrace to word brother’",
-    "desc": "Objecting to the YSRCP MP’s claim that the heart attack theory has initially been created by the slain leader’s daughter, the APCC chief alleges that the narrative surrounding the case has been kept shifting under Jagan Mohan Reddy’s leadership",
-    "img": "https://th-i.thgim.com/public/incoming/uj41gv/article70759084.ece/alternates/LANDSCAPE_1200/Sharmila-slams-G5OFMLP5A.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/sharmila-slams-avinash-reddy-for-remarks-in-vivekas-murder-calls-jagan-a-disgrace-to-word-brother/article70758796.ece",
-    "time": "2026-03-18T15:53:51.000Z"
-  },
-  {
     "cat": "World",
     "title": "Israel claims it killed Iran Intelligence Minister; Tehran vows revenge for strike on gas field",
     "desc": "Israel has killed three top Iranian officials in one day; Iran insists assassinations will not destabilise its political structure; vows to strike energy infra in Gulf nations after its mega gas field at South Pars was hit",
@@ -532,39 +577,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Smith says missing IPL a blessing in disguise ahead of Tests",
-    "desc": "Smith, who went unsold in the IPL auction, said he initially wanted to be part of the league but now sees the break as useful ahead of England’s Test summer, which begins against New Zealand in June.",
-    "img": "https://static.toiimg.com/photo/msid-129658949,imgsize-67378.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/smith-says-missing-ipl-a-blessing-in-disguise-ahead-of-tests/articleshow/129658579.cms",
-    "time": "2026-03-18T14:33:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Senegal allege 'corruption' and reveal their next move",
-    "desc": "Senegal’s AFCON win has been overturned by Confederation of African Football, awarding the title to Morocco and sparking outrage. CAF cited rules after Senegal players briefly left the pitch during the final. Senegal has rejected the decision, alleged corruption, and will appeal to the Court of Arbitration for Sport, leaving the final outcome uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-129659025,imgsize-217676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/afcon-chaos-senegal-stripped-of-title-allege-corruption-and-reveal-their-next-move/articleshow/129658595.cms",
-    "time": "2026-03-18T14:23:43.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Kishan to lead Sunrisers in Cummins’ absence",
     "desc": "This marks a rare moment in IPL history, where every team features an Indian captain — at least until Cummins regains full fitness, the last time being in the early stages of the 2019 edition",
     "img": "https://th-i.thgim.com/public/incoming/wmft71/article70758609.ece/alternates/LANDSCAPE_1200/PTI05_23_2025_000469B.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-kishan-to-lead-sunrisers-in-cummins-absence/article70758461.ece",
     "time": "2026-03-18T14:23:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Retirement soon? Buttler makes honest admission after poor T20 WC",
-    "desc": "Jos Buttler admitted he had a poor T20 World Cup, scoring just 87 runs, but remains determined to continue his England career. He said, \"Obviously I had a poor tournament, which is disappointing,\" yet added he hopes to return to form. After taking a refreshing break in France, Buttler reflected, \"It wasn’t for a lack of effort, it just didn't quite happen.\"",
-    "img": "https://static.toiimg.com/photo/msid-129658258,imgsize-103940.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/retirement-soon-jos-buttler-makes-honest-admission-after-horrible-t20-world-cup/articleshow/129658065.cms",
-    "time": "2026-03-18T13:47:52.000Z"
   },
   {
     "cat": "Sports",
@@ -855,15 +873,6 @@ const newsData_en = [
     "time": "2026-03-12T08:40:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Hokum’ trailer: Adam Scott faces witch haunting in Damian McCarthy’s new horror",
-    "desc": "The first trailer for the latest horror film from ‘Oddity’ and ‘Caveat’ director Damian McCarthy, has been unveiled, showing Adam Scott as a novelist drawn into a haunted Irish inn and a mystery tied to a witch haunting its honeymoon suite",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/ihuct2/article70733902.ece/alternates/LANDSCAPE_1200/Hokum_AdamScott_01.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/hokum-trailer-adam-scott-faces-witch-haunting-in-damian-mccarthys-new-horror/article70733903.ece",
-    "time": "2026-03-12T05:23:59.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Lessons from India’s C-DOT saga for technology development",
     "desc": "The Centre for Development of Telematics heralded a communications revolution by developing indigenous rural telephone exchange technology; however, in the three months of K.P. Unnikrishnan as Minister for Communications, the project was derailed and a mass exodus of scientists began",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
     "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
