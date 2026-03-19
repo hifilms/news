@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rajasthan Royals suffer major blow, key first-team player is likely ruled out of IPL 2026",
+    "desc": "Rajasthan Royals have suffered a major blow ahead of the IPL 2026. England all-rounder Sam Curran is set to miss the entire season with a suspected groin injury. He was brought in as a part...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-suffer-major-blow-key-first-team-player-is-likely-ruled-out-of-ipl-2026-2026-03-19-1034393",
+    "time": "2026-03-19T15:10:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Thibaut Courtois ruled out for six weeks; to miss UCL tie vs Bayern Munich, La Liga clash vs Atletico Madrid",
+    "desc": "Thibaut Courtois faces a spell on the sidelines after picking up a thigh injury during Real Madrid’s 2-1 victory over Manchester City on Tuesday. The Belgian goalkeeper will now miss an estimated six weeks, as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/thibaut-courtois-ruled-out-for-six-weeks-to-miss-ucl-tie-vs-bayern-munich-la-liga-clash-vs-atletico-madrid-2026-03-19-1034384",
+    "time": "2026-03-19T13:50:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Paul Stirling steps down as T20I captain, Ireland confirm T20I series against India",
+    "desc": "Ireland were in constant touch with the BCCI, with the hope of hosting India later in the year. They have now finalised it, as a T20I series will be played in June. However, the series...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/paul-stirling-steps-down-as-t20i-captain-ireland-confirm-t20i-series-against-india-2026-03-19-1034380",
+    "time": "2026-03-19T13:07:55.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Star CSK pacer ruled out of IPL 2026, five-time champions in hunt for replacement",
     "desc": "Chennai Super Kings have been dealt a setback ahead of IPL 2026, with Nathan Ellis sidelined for the season due to a hamstring injury sustained during training. The Australian pacer is unlikely to regain fitness...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-rishabh-pant-left-shocked-by-arjun-tendulkars-massive-bat-weight-conversation-goes-viral-2026-03-19-1034302",
     "time": "2026-03-19T04:47:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "AB de Villiers backs Royal Challengers Bengaluru to defend their IPL title, 'Can go all the way again'",
-    "desc": "AB de Villiers believes that Royal Challengers Bengaluru (RCB) can defend their Indian Premier League (IPL) title this year and win the tournament for the second consecutive season. RCB won the IPL last year for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ab-de-villiers-backs-royal-challengers-bengaluru-to-defend-their-ipl-title-can-go-all-the-way-again-2026-03-19-1034289",
-    "time": "2026-03-19T03:35:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs Pakistan fixture to be played on August 19",
-    "desc": "The International Hockey Federation unveiled the full schedule of the Hockey World Cup late on Wednesday (March 18). As per the schedule, the marquee clash between India and Pakistan is set to take place on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/hockey-world-cup-2026-schedule-unveiled-india-vs-pakistan-fixture-to-be-played-on-august-19-2026-03-19-1034278",
-    "time": "2026-03-19T02:29:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar Azam, Fakhar Zaman likely to be in trouble for playing with injury in T20 World Cup 2026",
-    "desc": "Pakistan's senior players, Babar Azam and Fakhar Zaman, might not have been 100% fit when they were picked in the T20 World Cup squad. The controversy around their fitness has deepened after the medical panel of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-fakhar-zaman-likely-to-be-in-trouble-for-playing-with-injury-in-t20-world-cup-2026-2026-03-19-1034274",
-    "time": "2026-03-19T02:04:37.000Z"
   }
 ];

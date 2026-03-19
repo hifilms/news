@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "'৪ মে সব উত্তর দেব', টিকিট পেয়েই মুখ খুললেন হিরণ: নমিনেশনে ‘স্ত্রী’র জায়গায় কার নাম? প্রশ্ন অনিন্দিতার",
+    "desc": "ব্যক্তিগত জীবনের বিতর্ক আর রাজনীতির ময়দান— দুইয়ের টানাপড়েনে এখন টলিউড অভিনেতা হিরণ চট্টোপাধ্যায় সংবাদ শিরোনামে। ‘অবৈধ বিয়ে’র অভিযোগ তুলে যখন প্রথম স্ত্রী অনিন্দিতা চট্টোপাধ্যায় সরব, তখনই বিজেপি হিরণকে হাওড়ার **শ্যামপুর** কেন্দ্রের প্রার্থী হিসেবে ঘোষণা করে তাঁর ওপর আস্থার সিলমোহর দিল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/hiraan-chatterjee-shyampur-candidate-wife-anindita-reaction_645498.html ",
+    "time": "2026-03-19T14:21:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "মুম্বইয়ের রেস্তোরাঁয় নাসিরুদ্দিন শাহকে ছুরির কোপ, রক্তাক্ত অভিনেতাকে নিয়ে তড়িঘড়ি হাসপাতালে বন্ধু ওম",
     "desc": "নাসিরুদ্দিন শাহ এবং ওম পুরির বন্ধুত্ব ছিল ভারতীয় চলচ্চিত্রের এক কিংবদন্তি অধ্যায়। তবে রূপালি পর্দার রসায়নের বাইরেও তাঁদের বাস্তব জীবনের এক রোমহর্ষক ঘটনা প্রমাণ করে দেয় যে, তাঁদের এই সম্পর্ক কেবল পেশাদারিত্বে সীমাবদ্ধ ছিল না। ওম পুরি কীভাবে নিজের প্রাণের ঝুঁকি নিয়ে বন্ধু নাসিরুদ্দিনের জীবন বাঁচিয়েছিলেন, সেই অবিশ্বাস্য কাহিনী নাসিরুদ্দিন শাহ নিজেই তাঁর ২০১৪ সালে প্রকাশিত আত্মজীবনী 'অ্যান্ড দেন ওয়ান ডে: আ মেমোয়ার'-এ তুলে ধরেছেন।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -52,15 +61,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/harish-rana-body-donate-supreme-court-euthanasia-case_645311.html ",
     "time": "2026-03-18T10:23:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ঠিক ডিমটা খাচ্ছেন, তো? কী দেখে চিনে নেবেন আসল? ১ এপ্রিল থেকেই 'বদলে' যাচ্ছে প্রতিটি ডিম, কড়া নির্দেশ",
-    "desc": "সাধারণ মানুষের স্বাস্থ্যের কথা মাথায় রেখে বড় পদক্ষেপ উত্তরপ্রদেশ সরকারের। প্রতিটি ডিমের গায়েই এবার থেকে লেখা থাকবে এক্সপায়ারি ডেট। বলা থাকবে সেটি কতদিন পর্যন্ত ব্যবহারযোগ্য থাকবে। আগামী ১ এপ্রিল থেকেই এই নতুন নিয়ম কার্যকরের নির্দেশ।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/expiry-date-on-eggs-not-make-customer-stupid-in-name-of-fresh-eggs-from-1-april_645212.html ",
-    "time": "2026-03-17T14:08:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -160,14 +160,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/zee-bangla-dance-bangla-dance-fame-roddur-health-update-recovery-news_644724.html ",
     "time": "2026-03-13T09:18:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "জুবিন গর্গের মৃত্যু নিছক দুর্ঘটনা নাকি ষড়যন্ত্র? এসআইটি তদন্তের মাঝেই মুখ খুললেন স্ত্রী",
-    "desc": "সিঙ্গাপুরে জুবিন গর্গের রহস্যমৃত্যুর কয়েক মাস পর, এক অনুষ্ঠানে আবেগপ্রবণ হয়ে পড়লেন স্ত্রী গরিমা গর্গ। মা-বোন-বন্ধুকে হারানোর যন্ত্রণা থেকে শুরু করে জুবিনের মনের গভীর আশঙ্কার কথা শোনালেন তিনি। অন্যদিকে, SIT তদন্ত ঘিরে ক্রমশ ঘনীভূত হচ্ছে জুবিনের মৃত্যুর রহস্য।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/zubeen-garg-death-wife-garima-garg-emotional-interview-sit-investigation_644667.html ",
-    "time": "2026-03-12T15:57:41.000Z"
   }
 ];
