@@ -169,14 +169,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/zubeen-garg-death-wife-garima-garg-emotional-interview-sit-investigation_644667.html ",
     "time": "2026-03-12T15:57:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'ভালোই হয়েছে, রক্ষিতের সঙ্গে সম্পর্ক ভেঙেছে', মায়ের অডিও ভাইরাল হতেই বিস্ফোরক রশ্মিকা",
-    "desc": "বিজয় দেবরাকোন্ডার সঙ্গে বিয়ের রেশ কাটতে না কাটতেই পুরোনো ‘কাশুন্দি’ ঘেঁটে সোশ্যাল মিডিয়ায় ঝড় তুলেছে রশ্মিকা মান্দান্নার মা সুমন মান্দান্নার একটি ভাইরাল ভিডিও। ৮ বছর আগের এক বিস্ফোরক সাক্ষাৎকারের ক্লিপ নতুন করে ছড়িয়ে পড়ায় কন্নড় ও তেলুগু ফিল্ম ইন্ডাস্ট্রিতে দানা বেঁধেছে নতুন বিতর্ক।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/rashmika-mandanna-mother-suman-allegations-against-rakshit-shetty-resurface-after-vijay-marriage_644653.html ",
-    "time": "2026-03-12T13:29:13.000Z"
   }
 ];

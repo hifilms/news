@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Star CSK pacer ruled out of IPL 2026, five-time champions in hunt for replacement",
+    "desc": "Chennai Super Kings have been dealt a setback ahead of IPL 2026, with Nathan Ellis sidelined for the season due to a hamstring injury sustained during training. The Australian pacer is unlikely to regain fitness...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/star-csk-pacer-ruled-out-of-ipl-2026-five-time-champions-in-hunt-for-replacement-2026-03-19-1034371",
+    "time": "2026-03-19T12:03:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Yashasvi Jaiswal change batting approach after Sanju Samson's exit? Faf du Plessis analyses",
+    "desc": "In a blockbuster trade deal with Chennai Super Kings, Rajasthan Royals signed Ravindra Jadeja and Sam Curran in exchange for Sanju Samson. The keeper-batter was one of the most dependable batters in the side and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-yashasvi-jaiswal-change-batting-approach-after-sanju-samson-s-exit-faf-du-plessis-analyses-2026-03-19-1034363",
+    "time": "2026-03-19T11:31:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neymar left disappointed after Brazil snub, says 'Hey Ancelotti, what about me?'",
+    "desc": "Despite proving his mettle while playing for Santos this season, Neymar Jr. wasn’t called up for Brazil’s upcoming friendlies against France and Croatia. These are the last two international matches Brazil will play before the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/neymar-left-disappointed-after-brazil-snub-says-hey-ancelotti-what-about-me-watch-2026-03-19-1034353",
+    "time": "2026-03-19T10:34:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How is Ishan Kishan's record as captain in T20 cricket? A look at numbers ahead of IPL 2026",
     "desc": "Sunrisers Hyderabad (SRH) appointed Ishan Kishan as stand-in captain on Wednesday for the upcoming edition of the Indian Premier League (IPL). Notably, their regular skipper Pat Cummins is set to miss the first few matches...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-fakhar-zaman-likely-to-be-in-trouble-for-playing-with-injury-in-t20-world-cup-2026-2026-03-19-1034274",
     "time": "2026-03-19T02:04:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Five Iran women players seeking asylum in Australia after AFC Asian Cup return home, two players remain",
-    "desc": "Members of the Iran women's team have returned home after seeking asylum in Australia during their recent trip for the AFC Women’s Asian Cup. The group travelled from Australia via Istanbul before heading toward the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/five-iran-women-players-seeking-asylum-in-australia-after-afc-asian-cup-return-home-two-players-remain-2026-03-18-1034255",
-    "time": "2026-03-18T18:14:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yuzvendra Chahal quits alcohol ahead of IPL 2026, states reason behind Punjab's IPL 2025 final loss to RCB",
-    "desc": "Ahead of the IPL 2026 campaign, Punjab Kings’ marquee spinner Yuzvendra Chahal revealed the discipline and the lifestyle change he has adopted for the tournament. The leg-spinner, who remains the league’s highest wicket-taker, has mentioned...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/yuzvendra-chahal-quits-alcohol-ahead-of-ipl-2026-states-reason-behind-punjab-s-ipl-2025-final-loss-to-rcb-2026-03-18-1034252",
-    "time": "2026-03-18T17:22:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKR invite three pacers for trials as three-time champions seek Harshit Rana's replacement in IPL 2026",
-    "desc": "Harshit Rana’s injury has disrupted Kolkata Knight Riders’ bowling unit ahead of the IPL 2026. They were forced to release Mustafizur Rahman earlier and signed Blessing Muzarabani instead, who is an excellent addition, but has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-invite-three-pacers-for-trials-as-three-time-champions-seek-harshit-rana-s-replacement-in-ipl-2026-2026-03-18-1034245",
-    "time": "2026-03-18T16:29:00.000Z"
   }
 ];

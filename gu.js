@@ -1,12 +1,75 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ઈરાન યુદ્ધને કારણે LPGની સ્થિતિ ચિંતાજનક, પરંતુ... ગેસ સંકટ પર સરકારનું નિવેદન; ભારતમાં શું છે વર્તમાન સ્થિતિ?",
+    "desc": "દેશમાં ચાલી રહેલા LPG સંકટને લઈને કેન્દ્ર સરકારે કહ્યું કે, પશ્ચિમ એશિયામાં ચાલી રહેલા ઈરાન યુદ્ધને કારણે સ્થિતિ ચિંતાજનક બની છે. જો કે, સરકારે આશ્વાસન આપ્યું કે, અત્યાર સુધી દેશમાં ક્યાંય પણ તેની અછત જોવા મળી નથી અને સરકાર સતત અન્ય વિકલ્પો તરફ આગળ વધી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lpg-situation-is-worrying-due-to-iran-war-but-government-statement-on-gas-crisis-what-is-the-current-situation-in-india-469279 ",
+    "time": "2026-03-19T12:06:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આ કર્મચારીઓને મોજે મોજ! 50% DA બાદ પગારમાં વધુ 25%નો વધારો, જાણો કેટલો વધશે પગાર",
+    "desc": "ભારતીય રેલવેના લાખો કર્મચારીઓ માટે ચૈત્ર નવરાત્રિ ખુશીઓની ભેટ લઈને આવી છે. કેન્દ્ર સરકાર દ્વારા મોંઘવારી ભથ્થા (DA)માં 50%નો વધારો લાગુ કર્યા પછી રેલવે મંત્રાલયે હવે તેમના કિલોમીટર ભથ્થા (KMA)માં પણ 25%નો વધારો કરવા માટે સૈદ્ધાંતિક મંજૂરી આપી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/railway-news-25-percent-increase-in-kilometer-allowance-for-running-staff-469271 ",
+    "time": "2026-03-19T11:47:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોના-ચાંદીમાં ભયંકર કડાકો, સિલ્વર રેકોર્ડ હાઈથી 1.85 લાખ અને ગોલ્ડ 40,000 થયું સસ્તું; જાણો શું છે કારણ?",
+    "desc": "સોના અને ચાંદીના ભાવમાં સતત આવી રહેલા ઘટાડાને કારણે આગામી સમયમાં રોકાણની દ્રષ્ટિએ આ એક સારો વિકલ્પ બની શકે છે. નિષ્ણાતોનું કહેવું છે કે, ક્રૂડ ઓઈલના ભાવમાં તેજી અને યુદ્ધની સ્થિતિ વચ્ચે રોકાણકારો પ્રોફિટ બુકિંગ પર ધ્યાન કેન્દ્રિત કરી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-price-crash-silver-fell-from-record-high-to-1-85-lakh-and-gold-became-cheaper-by-40000-know-what-is-the-reason-469269 ",
+    "time": "2026-03-19T11:21:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફરી ભારત-પાકિસ્તાન વચ્ચે જોવા મળશે ટક્કર, આ દિવસે રમાશે મેચ, શેડ્યૂલ જાહેર",
+    "desc": "2026 હોકી વર્લ્ડ કપ 15 ઓગસ્ટથી શરૂ થવાનો છે અને ટુર્નામેન્ટનું સંપૂર્ણ શેડ્યૂલ હવે જાહેર કરવામાં આવ્યું છે. ખાસ કરીને ભારત અને પાકિસ્તાનને એક જ ગ્રુપમાં રાખવામાં આવ્યા છે. આ મેચની તારીખ પણ જાહેર કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/hockey-world-cup-2026-schedule-announced-ind-vs-pak-match-on-19th-august-469266 ",
+    "time": "2026-03-19T11:01:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મિડલ ઈસ્ટમાં ચાલતા યુદ્ધ પર ભારત સરકારના વલણને કોંગ્રેસના જ 2 ધૂરંધર નેતાઓનો ટેકો",
+    "desc": "મિડલ ઈસ્ટમાં જે પરિસ્થિતિ હાલ જોવા મળી રહી છે અને ભારત જે પ્રકારે ચૂપ્પી સાધી રહ્યું છે તેની વિપક્ષી દળો દ્વારા આકરી ટીકા થઈ રહી છે. હવે કોંગ્રેસના જ બે નેતાઓએ ભારત સરકારની આ ચૂપ્પી પર મોટું નિવેદન આપ્યું છે અને તેને ટેકો આપ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/two-congress-leaders-support-indian-government-stance-on-the-ongoing-war-in-the-middle-east-469265 ",
+    "time": "2026-03-19T10:32:47.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Reels તમને બનાવશે લાખોપતિ, ઝુકરબર્ગે લોન્ચ કર્યો નવો પ્રોગ્રામ, કન્ટેન્ટ ક્રિએટરને મોજ",
+    "desc": "જો તમારા TikTok, YouTube કે Instagram પર 1 લાખથી વધુ ફોલોઅર્સ છે તો આ સમાચાર તમારા માટે છે. હવે તમારે કમાણી કરવાનો સમય આવી ગયો છે. મેટાએ હવે ક્રિએટર્સને ફેસબુક પર લાવવા માટે મહત્વનો નિર્ણય કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/tiktok-or-youtube-good-followers-meta-offer-guaranteed-monthly-469264 ",
+    "time": "2026-03-19T10:24:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ભારતીય શેરબજારમાં &amp;#039;બ્લડબાથ&amp;#039;, આખરે કેમ ડૂબી ગયા રોકાણકારોના 9 લાખ કરોડ રૂપિયા? આ છે 7 મોટા કારણ",
+    "desc": "સેન્સેક્સ 2,100 પોઈન્ટ તૂટ્યો તો નિફ્ટીએ પણ ડૂબકી લગાવી છે. HDFC બેંકના સંકટથી લઈને ક્રૂડ ઓઈલના વધતા ભાવ સુધી, આખરે કેમ ડૂબી ગયા રોકાણકારોના 9 લાખ કરોડ રૂપિયા? જાણો બજારમાં આવેલી આ તબાહી પાછળના એ 7 મુખ્ય કારણો જેણે દલાલ સ્ટ્રીટને હચમચાવી દીધું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/stock-market-crash-sensex-breaks-2100-points-nifty-below-23150-investors-lost-rs-9-lakh-crore-469263 ",
+    "time": "2026-03-19T10:10:22.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "&amp;#039;આપણે ODI વર્લ્ડ કપ જીતી લઈએ ત્યાં સુધી મને રહેવા દો&amp;#039;, આ દિગ્ગજની મોટી માંગ, હવે BCCI શું કરશે ?",
     "desc": "ટી20 વર્લ્ડ કપ અને ચેમ્પિયન્સ ટ્રોફીમાં ભારતની જીત બાદ મુખ્ય પસંદગીકાર અજિત અગરકરે BCCIને તેમનો કાર્યકાળ 2027ના વનડે વર્લ્ડ કપ સુધી લંબાવવા વિનંતી કરી છે. તેમના કાર્યકાળ દરમિયાન ટીમ ઈન્ડિયાએ ત્રણ ICC ટાઇટલ જીત્યા હતા, જોકે ટેસ્ટ ક્રિકેટમાં તેમનું પ્રદર્શન નિરાશાજનક રહ્યું હતું. બોર્ડે હવે તેમના ભવિષ્ય અંગે મોટો નિર્ણય લેવો પડશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/chief-selector-ajit-agarkar-demand-tenure-extension-till-odi-world-cup-2027-469240 ",
-    "time": "2026-03-19T09:18:23.000Z"
+    "time": "2026-03-19T09:53:52.000Z"
   },
   {
     "cat": "World",
@@ -351,15 +414,6 @@ const newsData_gu = [
     "time": "2026-03-17T11:07:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "80 બેઠકો અને DyCM પદ પણ ઓછું પડ્યું! ભાજપને નમવાને બદલે એકલા હાથે લડવાની જીદ કોની?",
-    "desc": "ઝૂકશે નહીં... ભાજપની 'બમ્પર ઓફર' ઠુકરાવી મેદાનમાં ઉતરી પડ્યો છે આ સુપરસ્ટાર! જેને ન પદની લાલચ, ન સીટોનો મોહ છે. દિલ્હીના દાવપેચ સામે 'એકલા' લડી રહેલા આ સુપરસ્ટારને ખુરશી કરતા ખુમારી વહાલી છે. ભાજપની તમામ શરતો અને ઓફરને ફગાવનાર હીરોની રોચક કહાનીને તમે પણ જાણી લો. આંધ્રપ્રદેશમાં પવન કલ્યાણે ડેપ્યૂટી સીએમ પદ સ્વીકારી લીધું પણ આ સુપરસ્ટાર ભાજપ સાથે ગઠબંધન ન કરવાની જીદ લઈને બેઠો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/tamil-nadu-elections-80-seats-dycm-post-fell-short-vijay-insistence-on-fighting-alone-instead-of-bowing-to-bjp-468973 ",
-    "time": "2026-03-17T10:04:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "વિરાટ અને રોહિત સાથેના અણબનાવ અંગે ગંભીરે પહેલીવાર કર્યો ખુલાસો, જાણો શું કહ્યું",
     "desc": "વિરાટ અને રોહિત સાથેના અણબનાવના અહેવાલો વચ્ચે મુખ્ય કોચ ગૌતમ ગંભીરે જણાવ્યું કે તેઓ પણ માણસ છે અને ભૂલો કરી શકે છે. તેમણે સ્પષ્ટતા કરી હતી કે ફક્ત સાચા ઇરાદા સાથે લેવામાં આવેલા નિર્ણયો જ ખરેખર મહત્વ ધરાવે છે અને તેઓ હંમેશા ડ્રેસિંગ રૂમ પ્રત્યે પ્રામાણિક રહ્યા છે.",
@@ -367,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/gautam-gambhirs-big-statement-on-controversy-with-virat-and-rohit-468970 ",
     "time": "2026-03-17T09:32:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શું બાળક દત્તક લેનારી માતાઓને હવે મેટરનિટી લીવ મળશે? સુપ્રીમ કોર્ટનો મહત્વપૂર્ણ ચુકાદો",
-    "desc": "જો કોઈ મહિલા ત્રણ મહિનાથી ઓછી ઉંમરના બાળકને કાયદેસર રીતે દત્તક લે તો જ તેને 12 અઠવાડિયાની મેટરનિટી લીવ મળવાનો નિયમ છે. તેથી અરજદારે ત્રણ મહિનાથી ઉપરના અનાથ બાળકો માટે આ નિયમ ભેદભાવપૂર્ણ હોવાની દલીલ કરી હતી. આના પર આજે સુપ્રીમ કોર્ટે પોતાનો ચુકાદો આપ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/major-sc-verdict-on-maternity-leave-adoptive-mothers-also-have-the-right-to-take-leave-468933 ",
-    "time": "2026-03-17T08:36:22.000Z"
   },
   {
     "cat": "Business",
@@ -394,24 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/bank-holidays-2026-banks-to-remain-closed-for-several-days-this-week-check-the-rbi-holiday-list-468928 ",
     "time": "2026-03-17T07:16:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;બધાની માફી માંગતા જાઓ...&amp;#039; હરીશ રાણાને અંતિમ વિદાય પહેલા કેમ કહેવામાં આવી આ વાત? જાણો તેનો અર્થ?",
-    "desc": "ગાઝિયાબાદના હરીશ રાણાની અંતિમ વિદાય પહેલા આપવામાં આવેલો સંદેશ 'બધાની માફી માંગતા જાઓ' હાલ ચર્ચાનો વિષય બન્યો છે. બ્રહ્માકુમારી સંસ્થા સાથે જોડાયેલા બહેન લવલીએ હરીશને એઈમ્સ (AIIMS) લઈ જતા પહેલા જે શબ્દો કહ્યા હતા, હવે તેનો આધ્યાત્મિક અર્થ સમજાવ્યો છે. નિષ્ણાતોનું કહેવું છે કે અંતિમ સમયે માફીનો સંદેશ માનસિક શાંતિ અને ભાવનાત્મક સંતુલન માટે અત્યંત મહત્વનો માનવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-were-these-words-spoken-to-harish-rana-before-his-final-farewell-find-out-what-they-mean-468918 ",
-    "time": "2026-03-17T06:58:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રાજ્યસભાની 37 સીટોની ચૂંટણીનું ફાઈનલ સ્કોરકાર્ડ, કોણે મારી બાજી, કોણે ભોગવ્યું નુકસાન, ખાસ જાણો",
-    "desc": "સંસદના ઉપલા ગૃહ એટલે કે રાજ્યસભાની ખાલી થઈ રહેલી 37 સીટો માટે 16 માર્ચના રોજ ચૂંટણી થઈ. જો કે તેમાંથી 26 સભ્યો તો નિર્વિરોધ ચૂંટાઈ આવ્યા એટલે 11 બેઠકો માટે જ મત પડ્યા હતા. મતદાન પત્યા બાદ તરત જ મતગણતરી હાથ ધરાઈ અને પરિણામ પણ આવી ગયા. 37 સીટોમાં કોને કેટલી સીટો ગઈ અને કોણ ફાયદો લઈ ગયું તે તમામ વિગતો જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/explainer-rajya-sabha-election-results-for-37-seats-who-won-who-suffered-loss-know-in-detail-468916 ",
-    "time": "2026-03-17T06:56:50.000Z"
   },
   {
     "cat": "Business",
@@ -477,15 +504,6 @@ const newsData_gu = [
     "time": "2026-03-16T18:02:29.000Z"
   },
   {
-    "cat": "Business",
-    "title": "1 એપ્રિલથી બદલાશે આવકવેરાના નિયમો, જાણો તમારા પગાર અને ટેક્સ પર શું થશે અસર",
-    "desc": "1 એપ્રિલ 2026થી દેશમાં ઈનકમ ટેક્સ સાથે જોડાયેલા નવા નિયમો લાગુ થવા જઈ રહ્યા છે. સરકારે ઇન્કમ ટેક્સ રૂલ્સ, 2026નો ડ્રાફ્ટ જાહેર કર્યો છે, જે જૂના ઇન્કમ ટેક્સ એક્ટ, 1961ના સ્થાને નવા ઇન્કમ ટેક્સ એક્ટ 2025ને સપોર્ટ કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/income-tax-rules-will-change-from-april-1-know-what-will-be-the-impact-on-your-salary-and-taxes-468880 ",
-    "time": "2026-03-16T17:31:08.000Z"
-  },
-  {
     "cat": "World",
     "title": "ભારતે જપ્ત કર્યા ઇરાનના ત્રણ ટેન્કર ? હોર્મુઝ સંકટ વચ્ચે ઈરાને ભારત સામે મુકી આ શરતો ? જાણો",
     "desc": "ઈરાને ભારત દ્વારા જપ્ત કરાયેલા ત્રણ ટેન્કરોને મુક્ત કરવાની માંગ કરી છે, જેના બદલામાં ભારતીય ધ્વજવાળા અથવા ભારત જતા જહાજોને હોર્મુઝની સ્ટ્રેટમાંથી સુરક્ષિત પસાર થવાની મંજૂરી આપવામાં આવે. ખાનગી પોર્ટનલના અહેવાલ મુજબ, તેહરાને આ મુદ્દા પર ભારત સાથેની વાતચીતમાં આ શરત મૂકી છે.",
@@ -520,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/rcb-all-time-playing-11-picked-by-virat-kohli-know-who-is-captain-468838 ",
     "time": "2026-03-16T11:32:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કરોડો PF ધારકો માટે ખુશીના સમાચાર ! આ દિવસે જમા થશે વ્યાજના રૂપિયા",
-    "desc": "દેશભરના કરોડો પગારદાર વ્યક્તિઓ માટે PF તેમની સૌથી મહત્વપૂર્ણ બચતમાંની એક છે. દર વર્ષની જેમ લોકો ફરી એકવાર જાણવા ઉત્સુક છે કે તેમના PF ખાતામાં વ્યાજ ક્યારે જમા થશે અને કેટલી રકમ જમા થશે. ઇપીએફઓના સેન્ટ્રલ બોર્ડ ઓફ ટ્રસ્ટીએ નાણાકીય વર્ષ 2025-26 માટે 8.25% વ્યાજ દર નક્કી કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/when-will-pf-interest-be-credited-know-how-to-calculate-pf-interest-468818 ",
-    "time": "2026-03-16T08:07:07.000Z"
   },
   {
     "cat": "Sports",
@@ -637,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/sanju-samson-t20-world-cup-2026-missed-centuries-truth-revelation-468721 ",
     "time": "2026-03-15T11:57:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપ બાદ પાકિસ્તાની ક્રિકેટરે અચાનક લીધી નિવૃત્તિ, બે દાયકા લાંબી કારકિર્દીનો અંત",
-    "desc": "T20 વર્લ્ડ કપ બાદ અચાનક નિવૃત્તિની જાહેરાત કરીને પાકિસ્તાનના એક દિગ્ગજે ક્રિકેટ જગતને ચોંકાવી દીધું છે. આ ક્રિકેટરે લગભગ બે દાયકા લાંબી આંતરરાષ્ટ્રીય કારકિર્દી પછી ક્રિકેટમાંથી નિવૃત્તિ લીધી છે. તેણે પાકિસ્તાન માટે 54 ટેસ્ટ, 117 ODI અને 61 T20 મેચ રમી હતી, જેમાં કુલ 6,164 રન બનાવ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/pakistani-cricketer-sarfaraz-ahmed-to-retire-after-t20-world-cup-2026-468719 ",
-    "time": "2026-03-15T11:52:20.000Z"
   },
   {
     "cat": "Tech",
@@ -781,15 +781,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/middle-east-war-cheaper-options-gas-free-kitchen-lpg-cylinder-price-hike-one-time-investment-your-kitchen-will-become-smart-know-467997 ",
     "time": "2026-03-10T11:25:11.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "6300mAh બેટરી અને 32MP કેમેરા, 10999 રૂપિયામાં લોન્ચ થયો ધાંસૂ 5G ફોન",
-    "desc": "Poco C85x 5G ભારતમાં લોન્ચ થઈ ગયો છે. તેમાં 6.9 ઇંચ ડિસ્પ્લે, 6300mAh બેટરી અને 32MP કેમેરો મળે છે. તેની શરૂઆતી કિંમત 10999 રૂપિયા રાખવામાં આવી છે અને વેચાણ 14 માર્ચથી ફ્લિપકાર્ડ પર શરૂ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/poco-c85x-5g-launched-in-india-with-6300mah-battery-32mp-camera-467978 ",
-    "time": "2026-03-10T09:33:50.000Z"
   },
   {
     "cat": "Entertainment",
