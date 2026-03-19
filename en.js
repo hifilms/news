@@ -1,5 +1,59 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Lloyds List",
+    "desc": "The maritime data company has reported that nine ships have exited through Iran’s corridor in Strait of Hormuz; reliable sources in India, meanwhile, said that with the situation in West Asia escalating further, Indian ships stuck in the strait for more than two weeks have been asked to ‘stay put’ for now after Israeli strikes on Iran’s largest gas fields",
+    "img": "https://th-i.thgim.com/public/incoming/rhr91x/article70763062.ece/alternates/LANDSCAPE_1200/Emirates_Iran_War_43469.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/iran-creating-corridor-for-safe-exit-of-india-bound-ships-lloyds-list/article70762901.ece",
+    "time": "2026-03-19T20:50:48.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. F-35 stealth fighter hit by suspected Iranian fire: reports",
+    "desc": "The United States has lost multiple aircraft during the conflict — including three F-15s mistakenly shot down by Kuwaiti forces, and a KC-135 refueling aircraft that crashed in Iraq — but none that are known to have been hit by Iranian fire",
+    "img": "https://th-i.thgim.com/public/incoming/nsuroj/article70763212.ece/alternates/LANDSCAPE_1200/Screenshot%201721.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-f-35-stealth-fighter-hit-by-suspected-iranian-fire-reports/article70763202.ece",
+    "time": "2026-03-19T20:38:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mahesh Babu, Jr NTR review Dhurandhar 2: The Revenge",
+    "desc": "The Revenge has opened to packed theatres and a historic start, with the Ranveer Singh-starrer earning Rs. 96.78 crore on day one and Rs. 139.78 crore net including previews. Amid mixed word of mouth, Mahesh Babu and Jr NTR have praised the film’s scale, performances, and direction.",
+    "img": "https://static.toiimg.com/photo/msid-129687216,imgsize-72772.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahesh-babu-jr-ntr-review-dhurandhar-2-the-revenge-ranveer-singh-is-breathtaking-special-mention-to-akshaye-khanna/articleshow/129687216.cms",
+    "time": "2026-03-19T20:05:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bail for three Jaish OGWs with GPS anklets",
+    "desc": "Jammu and Kashmir Police have placed GPS anklets on three individuals accused of aiding Jaish-e-Mohammad terrorists. These overground workers were released on interim bail after a court order. The anklets will monitor their movements continuously. This measure follows their arrest in connection with a 2024 attack on an army convoy in Kathua.",
+    "img": "https://static.toiimg.com/photo/msid-129686950,imgsize-655486.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bail-for-three-jaish-ogws-with-gps-anklets/articleshow/129686942.cms",
+    "time": "2026-03-19T19:28:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Book offering behind-the-scenes glimpse of political strategy launched",
+    "desc": "Speaking at the launch event, Minister Palanivel Thiaga Rajan says the book distills the author’s experiences, covering a wide range of scenarios with clarity and will serve as a learning curve for anyone entering politics or campaign-related fields",
+    "img": "https://th-i.thgim.com/public/incoming/4qaxyi/article70763171.ece/alternates/LANDSCAPE_1200/4871_19_3_2026_19_13_27_1_DSC_3949.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/book-offering-behind-the-scenes-glimpse-of-political-strategy-launched/article70762195.ece",
+    "time": "2026-03-19T19:08:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhar ‘went blatant this time’",
+    "desc": "The Revenge has opened to packed theatres and strong footfall. While many viewers have praised the film’s scale, performances, and storytelling, a section of the audience feels it doesn’t match up to the first installment. Amid the buzz, YouTuber Dhruv Rathee has once again stirred controversy, this time targeting Dhurandhar 2: The Revenge and its director Aditya Dhar.",
+    "img": "https://static.toiimg.com/photo/msid-129686521,imgsize-76752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhruv-rathee-slams-dhurandhar-2-the-revenge-says-aditya-dhar-went-blatant-this-time-ab-toh-well-made-propaganda-bhi-nahi-raha/articleshow/129686521.cms",
+    "time": "2026-03-19T19:05:27.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "T.N. Assembly’s annual sitting days declined from 64 in the first term to 32 in the 16th: PRS study",
     "desc": "According to an analysis by PRS Legislative Research, the 16th Assembly, whose tenure began on May 11, 2021, and is set to conclude on May 10, 2026, met for only 155 days, the lowest for a full-term Assembly since 1952",
@@ -7,15 +61,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-assemblys-annual-sitting-days-declined-from-64-in-the-first-term-to-32-in-the-16th-prs-study/article70762592.ece",
     "time": "2026-03-19T18:48:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Iran creating corridor for safe exit of India-bound ships: Lloyds List",
-    "desc": "The maritime data company has reported that nine ships have exited through Iran’s corridor in Strait of Hormuz; reliable sources in India, meanwhile, said that with the situation in West Asia escalating further, Indian ships stuck in the strait for more than two weeks have been asked to ‘stay put’ for now after Israeli strikes on Iran’s largest gas fields",
-    "img": "https://th-i.thgim.com/public/incoming/rhr91x/article70763062.ece/alternates/LANDSCAPE_1200/Emirates_Iran_War_43469.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/iran-creating-corridor-for-safe-exit-of-india-bound-ships-lloyds-list/article70762901.ece",
-    "time": "2026-03-19T18:46:24.000Z"
   },
   {
     "cat": "Business",
@@ -61,6 +106,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/unfenced-border-in-focus-amid-arrest-of-seven-foreigners-who-crossed-to-myanmar-via-porous-border/article70762674.ece",
     "time": "2026-03-19T17:48:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Asian Games cruise ship and wooden huts will be 'unique experience'",
+    "desc": "About half of the expected 15,000 athletes and officials will live in the eye-catching temporary accommodation during the Games, which are in Nagoya and the wider Aichi area from September 19 to October 4 — coinciding with typhoon season in Japan",
+    "img": "https://th-i.thgim.com/public/incoming/swo54m/article70763067.ece/alternates/LANDSCAPE_1200/AFP_A3UY3WE.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/asian-games-cruise-ship-and-wooden-huts-will-be-unique-experience/article70763064.ece",
+    "time": "2026-03-19T17:48:04.000Z"
   },
   {
     "cat": "World",
@@ -208,15 +262,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Celebrating the top talent in various fields",
-    "desc": "Mannava Satyanarayana, who has the distinction of being the first visually impaired individual in India to achieve a Ph.D. in the field of literature, and Satyavada Sisters, both visually impaired from birth and widely acclaimed Carnatic vocal musicians and prolific writers, among the host of recipients of the Ugadi awards",
-    "img": "https://th-i.thgim.com/public/incoming/2xhq5l/article70762580.ece/alternates/LANDSCAPE_1200/08_President_Murmu_09_12_Delhi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/celebrating-the-top-talent-in-various-fields/article70762329.ece",
-    "time": "2026-03-19T15:47:50.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Here's how participants can prepare for Times Internet Delhi Half Marathon",
     "desc": "Preparing for a first race looks different for everyone. Some runners follow structured training plans, others rely on simple consistency, social accountability, or technology-driven routines to stay motivated. Technological innovations make it easy to track your progress and goals. As March 29, the date of the Times Internet Delhi Half Marathon approaches at Major Dhyan Chand National Stadium in Delhi, here’s what one can do to stay in prime form.",
     "img": "https://static.toiimg.com/photo/msid-129682947,imgsize-53930.cms",
@@ -259,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-recalls-lagaan-spat-with-ashutosh-gowariker-over-clean-shaven-bhuvan-he-should-have-been-how-i-look-now/articleshow/129682447.cms",
     "time": "2026-03-19T15:18:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP cadre in Ernakulam irked over Twenty20’s sway in seat allocation",
-    "desc": "Having contested 11 of the 14 Assembly constituencies in Ernakulam in 2021, the party is now likely to be restricted to just three, while the BDJS may have to settle for two, down from three seats last time",
-    "img": "https://th-i.thgim.com/public/incoming/egcem6/article70762562.ece/alternates/LANDSCAPE_1200/BJP1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/bjp-cadres-in-ernakulam-irked-over-twenty20s-sway-in-seat-allocation/article70761046.ece",
-    "time": "2026-03-19T15:16:26.000Z"
   },
   {
     "cat": "Sports",
@@ -612,15 +648,6 @@ const newsData_en = [
     "time": "2026-03-19T07:34:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP releases list of candidates; CM Himanta Sarma to contest from Jalukbari",
-    "desc": "The Bharatiya Janata Party has unveiled its initial list of 88 candidates for the Assam assembly elections, with chief minister Himanta Biswa Sarma contesting from Jalukbari. The party has finalized seat-sharing with AGP and BPF, aiming to retain power. The announcement follows the declaration of the poll schedule for the 126-member assembly.",
-    "img": "https://static.toiimg.com/photo/msid-129673194,imgsize-1180064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assam-election-2026-bjp-releases-list-of-candidates-cm-himanta-sarma-to-contest-from-jalukbari/articleshow/129672996.cms",
-    "time": "2026-03-19T07:24:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Inside Chennai’s Pickleball boom: From midnight games to thriving WhatsApp communities",
     "desc": "As new pickleball courts open across Injambakkam, T Nagar and Gandhi Nagar, the sport is doing more than just filling evening slots — it is creating WhatsApp communities, business networks and unlikely friendships across the city",
@@ -628,24 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/life-and-style/picklers-unite/article70609768.ece",
     "time": "2026-03-19T06:45:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Is Shashi Tharoor in the race for Kerala CM? Congress MP answers",
-    "desc": "Congress leader Shashi Tharoor has ruled himself out of the Kerala chief ministerial race, stating he is not contesting the upcoming assembly elections. Tharoor emphasized that the chief minister should be chosen from elected MLAs and expressed confidence in the UDF's prospects, predicting a strong seat tally.",
-    "img": "https://static.toiimg.com/photo/msid-129672179,imgsize-1160246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/is-shashi-tharoor-in-the-race-for-kerala-cm-congress-mp-answers/articleshow/129672197.cms",
-    "time": "2026-03-19T06:18:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vikram Doraiswami appointed India’s next Ambassador to China",
-    "desc": "Vikram K Doraiswami will be India's new Ambassador to China. The ministry of external affairs announced his appointment. Doraiswami is a senior Indian Foreign Service officer. He currently serves as High Commissioner to the United Kingdom. He is expected to take up his new role shortly. This appointment occurs as India and China continue diplomatic discussions on bilateral issues.",
-    "img": "https://static.toiimg.com/photo/msid-129671845,imgsize-802471.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/vikram-doraiswami-appointed-indias-next-ambassador-to-china/articleshow/129671817.cms",
-    "time": "2026-03-19T06:01:29.000Z"
   },
   {
     "cat": "Sports",
@@ -712,15 +721,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Qatar expels Iranian military, security attachés and staff after strikes on key energy facilities",
-    "desc": "Qatar expelled key Iranian military and security officials following missile strikes on its energy infrastructure. The Qatari Foreign Ministry declared the attachés and their staff persona non grata, citing repeated Iranian aggression and violations of sovereignty. This diplomatic fallout follows significant damage to the Ras Laffan Industrial City, a critical gas processing hub.",
-    "img": "https://static.toiimg.com/photo/msid-129668160,imgsize-448027.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/qatar-expels-iranian-military-security-attachs-and-staff-after-strikes-on-key-energy-facilities/articleshow/129668150.cms",
-    "time": "2026-03-18T23:16:26.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Oil, gas firms ordered to share import, export data with PPAC",
     "desc": "All companies involved in the oil and gas supply chain including ‌oil producers, importers, refiners, fuel and gas retailers, liquefied ​natural gas importers, pipeline operators, and petrochemical plants were ordered to provide PPAC with data",
     "img": "https://th-i.thgim.com/public/incoming/a9fbb2/article70759732.ece/alternates/LANDSCAPE_1200/20260311584L.jpg",
@@ -763,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-countdown-capitals-need-to-deliver-at-optimum-capacity-to-fulfil-their-elusive-dream/article70759319.ece",
     "time": "2026-03-18T17:13:53.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Israel claims it killed Iran Intelligence Minister; Tehran vows revenge for strike on gas field",
-    "desc": "Israel has killed three top Iranian officials in one day; Iran insists assassinations will not destabilise its political structure; vows to strike energy infra in Gulf nations after its mega gas field at South Pars was hit",
-    "img": "https://th-i.thgim.com/public/incoming/cljf61/article70759020.ece/alternates/LANDSCAPE_1200/Iran_Esmail_Khatib_75759.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/israel-claims-another-top-iranian-official-killed-while-irans-attacks-kill-2-near-tel-aviv/article70758002.ece",
-    "time": "2026-03-18T15:34:09.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
