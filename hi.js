@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "England announce squad for friendlies before FIFA World Cup, Tuchel explains reason behind dropping Trent",
+    "desc": "England manager Thomas Tuchel has named a 35-man squad for the upcoming friendlies against Uruguay and Japan, offering the final opportunity for players to stake their claim ahead of the FIFA World Cup this summer....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/england-announce-squad-for-friendlies-before-fifa-world-cup-thomas-tuchel-explains-reason-behind-dropping-trent-alexander-arnold-2026-03-20-1034526",
+    "time": "2026-03-20T15:07:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ajinkya Rahane praises KKR's batting unit, keeps mystery around opening slot ahead of IPL 2026",
+    "desc": "Kolkata Knight Riders are spoiled for choice as far as the opening combination goes in the upcoming IPL 2026. They have two marquee overseas cricketers in Finn Allen and Tim Seifert for the slot and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-praises-kkr-s-batting-unit-keeps-opening-slot-mystery-ahead-of-ipl-2026-2026-03-20-1034523",
+    "time": "2026-03-20T14:32:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 cricketers who can replace Sam Curran in Rajasthan Royals squad for IPL 2026",
+    "desc": "Rajasthan Royals all-rounder Sam Curran has been ruled out of the IPL 2026. The England international is currently dealing with a groin injury and will not recover in time for the cash-rich tournament. Notably, he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-cricketers-who-can-replace-sam-curran-in-rajasthan-royals-squad-for-ipl-2026-2026-03-20-1034516",
+    "time": "2026-03-20T13:38:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When will Matheesha Pathirana join KKR squad for IPL 2026? Head coach Abhishek Nayar confirms",
     "desc": "Matheesha Pathirana is set to miss the opening matches of IPL 2026, with Kolkata Knight Riders head coach Abhishek Nayar confirming the update during a press conference. He revealed that the franchise has been in...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/why-is-wayne-rooney-vs-neymar-debate-trending-on-social-media-check-what-sparked-the-debate-2026-03-20-1034447",
     "time": "2026-03-20T05:58:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals dealt major blow, star pacer Mitchell Starc set to miss start of IPL 2026; Check details",
-    "desc": "The IPL (Indian Premier League) 2026 is all set to kick off on March 28; ahead of the start of the season, the various franchises have already dealt with many injuries. The likes of Nathan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-dealt-major-blow-star-pacer-mitchell-starc-set-to-miss-start-of-ipl-2026-check-details-2026-03-20-1034438",
-    "time": "2026-03-20T04:51:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson captured chatting with MS Dhoni ahead of IPL 2026 season",
-    "desc": "With the IPL (Indian Premier League) 2026 season all set to kick off on March 28, many would look forward to the campaign of five-time champions Chennai Super Kings. The side will have the likes...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-captured-chatting-with-ms-dhoni-ahead-of-ipl-2026-season-watch-2026-03-20-1034431",
-    "time": "2026-03-20T03:42:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCB to look for government clearance for players' PSL participation amid regional tensions",
-    "desc": "With the ongoing political dispute between Pakistan and Afghanistan, the dispute is affecting the BCB (Bangladesh Cricket Board) as well. It is worth noting that the 10th edition of the PSL (Pakistan Super League) is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcb-to-look-for-government-clearance-for-players-psl-participation-amid-regional-tensions-2026-03-20-1034425",
-    "time": "2026-03-20T02:43:37.000Z"
   }
 ];
