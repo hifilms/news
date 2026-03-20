@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'This should be considered a threat,' Rakesh Roshan reviews 'Dhurandhar 2'",
+    "desc": "The Revenge', starring Ranveer Singh, is making waves at the box office despite facing criticism. Director Rakesh Roshan lauded the film as a historic achievement, calling it a new era in filmmaking. Siddharth Malhotra echoed the sentiment, urging filmmakers and actors to prioritize scripts and conviction.",
+    "img": "https://static.toiimg.com/photo/msid-129708828,imgsize-77976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/this-should-be-considered-a-threat-rakesh-roshan-reviews-dhurandhar-2-the-audacity-with-which-aditya-dhar-has-made-/articleshow/129708774.cms",
+    "time": "2026-03-20T20:54:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer's BTS of 'Dhurandhar 2' underwater scene goes VIRAL, netizens react",
+    "desc": "The Revenge' is generating buzz, with a viral behind-the-scenes video showcasing his impressive breath-holding for a crucial underwater scene. Netizens are showering praise on his dedication, with many calling it his career-best performance and a testament to his commitment to the film.",
+    "img": "https://static.toiimg.com/photo/msid-129708633,imgsize-36366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-bts-video-of-dhurandhar-2-underwater-scene-goes-viral-netizens-say-he-really-gave-it-his-all-watch/articleshow/129708556.cms",
+    "time": "2026-03-20T20:04:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CAPF Bill says IPS officers’ deputation necessary for Union-State coordination, reserves 50% I-G rank posts for IPS",
+    "desc": "The Bill seeks to negate a May 23, 2025 Supreme Court judgment which asked the Home Ministry to “progressively reduce” IPS deputation in CAPFs up to the rank of I-Gs in the next two years",
+    "img": "https://th-i.thgim.com/public/incoming/3jexcq/article70767186.ece/alternates/LANDSCAPE_1200/20250801018L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/capf-bill-says-ips-necessary-for-union-state-coordination-reserves-50-i-g-rank-posts-for-ips/article70767162.ece",
+    "time": "2026-03-20T19:51:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian archery has no missing pieces; to win an Olympic medal, they just need to be managed differently: Yusuf Ergin",
+    "desc": "The Turkiye head coach was instrumental in his country winning its first Olympic archery medal. At a recent workshop, Ergin got a close look at the sport in India. He discusses what he observed, how India can end its Olympic drought, which Indian archers have impressed him and why hiring foreign coaches isn’t a silver bullet",
+    "img": "https://th-i.thgim.com/public/incoming/vkp5hk/article70767212.ece/alternates/LANDSCAPE_1200/1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/yusuf-ergin-interview-indian-archery-olympics-medal-analysis-2028/article70767218.ece",
+    "time": "2026-03-20T19:34:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Peering into Formula One’s crystal ball: the early-season signs that bear watching",
+    "desc": "Two races in, the sport’s radical overhaul continues to be criticised, defended and discussed. What works and what doesn’t? Will Mercedes’ superiority make it a dull season? How many overtakes are too many? And why are some drivers comparing the racing to a video game?",
+    "img": "https://th-i.thgim.com/public/incoming/8evq2i/article70767203.ece/alternates/LANDSCAPE_1200/GettyImages-2265364251.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/formula-one-2026-early-season-analysis-new-rules-mercedes-dominance-overtakes/article70767211.ece",
+    "time": "2026-03-20T19:24:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Seeman",
+    "desc": "Naam Tamilar Katchi chief coordinator Seeman contends that without discipline, there will be no order; he bats for an economy centred on agriculture in T.N. and plans to create government-led industries based on local resources if his party emerges victorious in the Assembly election",
+    "img": "https://th-i.thgim.com/public/incoming/lhv6uw/article70766842.ece/alternates/LANDSCAPE_1200/2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-true-benevolent-authoritarian-enforces-discipline-for-the-greater-good-seeman/article70766533.ece",
+    "time": "2026-03-20T19:24:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP cadre in Ernakulam irked over Twenty20’s sway in seat allocation",
+    "desc": "Having contested 11 of the 14 Assembly constituencies in Ernakulam in 2021, the party is now likely to be restricted to just three, while the BDJS may have to settle for two, down from three seats last time",
+    "img": "https://th-i.thgim.com/public/incoming/egcem6/article70762562.ece/alternates/LANDSCAPE_1200/BJP1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/bjp-cadres-in-ernakulam-irked-over-twenty20s-sway-in-seat-allocation/article70761046.ece",
+    "time": "2026-03-20T19:20:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ayesha says Ranveer deserves the world in a note for team 'Dhurandhar'",
+    "desc": "Actress Ayesha Khan reflects on her journey with the 'Dhurandhar' franchise as the second part releases. She expressed gratitude to the cast and crew, including Ranveer Singh, Aditya Dhar, and Krystle D'souza, for a fulfilling experience. Khan highlighted the appreciation received and credited her family for their support.",
+    "img": "https://static.toiimg.com/photo/msid-129708068,imgsize-32384.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayesha-khan-says-ranveer-singh-deserves-the-world-in-a-note-post-dhurandhar-2-release-says-every-conversation-with-aditya-dhar-will-stay-with-her/articleshow/129708062.cms",
+    "time": "2026-03-20T19:06:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tanvi, Isharani enter semifinals of Orleans Masters",
+    "desc": "Tanvi, who is the youngest Indian to reach a BWF World Tour final at the 2025 U.S. Open Super 300, will take on either former world champion Nozomi Okuhara of Japan or Vietnam's Nguyen Thuy Linh next",
+    "img": "https://th-i.thgim.com/public/incoming/tsuo8u/article70767160.ece/alternates/LANDSCAPE_1200/YONEX%20BADMINTON%20DELHI_14_01_3.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/tanvi-isharani-enter-semifinals-of-orleans-masters/article70767151.ece",
+    "time": "2026-03-20T18:34:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika attends concert, fans ask why she's not celebrating 'Dhurandhar 2' success with Ranveer",
+    "desc": "The Revenge' is a massive hit, crossing Rs 100 crore. While Ranveer Singh attended the premiere, his wife Deepika Padukone was seen enjoying Rishab Rikhiram Sharma's concert with his family. Fans are speculating about her absence from the film's celebrations, praising her bond with Ranveer's mother and sister.",
+    "img": "https://static.toiimg.com/photo/msid-129706589,imgsize-41118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-dhurandhar-2-success-deepika-padukone-attends-rishab-sharmas-concert-with-ranveer-singhs-mother-and-sister-fans-react-watch-video/articleshow/129706377.cms",
+    "time": "2026-03-20T17:51:03.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "French GM Maxime Vachier-Lagrave doubts Pragg's chances",
     "desc": "Maxime Vachier-Lagrave ranked R Praggnanandhaa in B tier for the Candidates, calling it a “hot take” based on recent form. Despite strong 2025 performances, he cited six months of inconsistent results, saying, “It’s harsh… Pragg would have been at S tier.” He added, “It’s been 6 months and his form has really not been great.”",
@@ -70,15 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/raymond-md-gautam-singhania-injured-in-maldives-speedboat-accident-2-indians-missing/articleshow/129704975.cms",
     "time": "2026-03-20T16:32:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka mandates weekly reviews, control rooms to tackle rural drinking water shortage",
-    "desc": "As part of the measures, all zilla panchayat Chief Executive Officers have been directed to hold mandatory review meetings with Panchayat Development Officers on the second and fourth Mondays for the next three months to assess ground-level realities",
-    "img": "https://th-i.thgim.com/public/incoming/mndtxp/article70766776.ece/alternates/LANDSCAPE_1200/25-qubit-quantuGH5FN222C.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-mandates-weekly-reviews-control-rooms-to-tackle-rural-drinking-water-shortage/article70765980.ece",
-    "time": "2026-03-20T15:36:08.000Z"
   },
   {
     "cat": "Sports",
@@ -351,15 +432,6 @@ const newsData_en = [
     "time": "2026-03-20T12:35:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Arjun thanks Mukesh Chhabra as Dhurandhar 2 shakes the box office",
-    "desc": "Arjun Rampal hailed casting director Mukesh Chhabra as the \"real Dhurandhars\" in a video, crediting him for his chilling Major Iqbal role in the box-office tsunami 'Dhurandhar 2'. Chhabra praised Aditya Dhar's genius. Film stars Ranveer Singh, R Madhavan, Sanjay Dutt.",
-    "img": "https://static.toiimg.com/photo/msid-129700784,imgsize-18128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arjun-rampal-thanks-mukesh-chhabra-as-dhurandhar-2-the-revenge-shakes-the-box-office-gratitude-and-love/articleshow/129700784.cms",
-    "time": "2026-03-20T12:19:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Hit for 1st-ball 6, Jadeja mocks Jaiswal's ‘no sleep’ claim",
     "desc": "Yashasvi Jaiswal stole the show in Rajasthan Royals’ IPL 2026 practice, smashing Ravindra Jadeja for a six off his first ball despite saying he hadn’t slept well. Jadeja’s amused reaction went viral. After a poor 2025 season, RR hope such moments signal a turnaround, with new additions and young talents boosting confidence ahead of the campaign.",
@@ -397,24 +469,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Director Shankar hails 'Dhurandhar: The Revenge' as ‘historic’",
-    "desc": "The Revenge' a historic moment for Indian cinema, praising director Aditya Dhar's bold craft and seamless blend of reality with fiction. He was particularly impressed by Ranveer Singh's unconventional performance and R. Madhavan's nuanced portrayal, calling the film an astounding, immersive experience despite its length.",
-    "img": "https://static.toiimg.com/photo/msid-129699925,imgsize-138138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/director-shankar-hails-dhurandhar-2-the-revenge-as-historic-praises-ranveer-singhs-unconventional-performance/articleshow/129699925.cms",
-    "time": "2026-03-20T11:44:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sasikumar's'My Lord' OTT release date",
-    "desc": "The Sasikumar-starrer 'My Lord' has arrived on OTT platforms. The film began streaming on Friday, March 20, 2026. This hard-hitting tale is a social satire and investigative thriller. It features Sasikumar and Chaithra J Achar. The movie is now available for viewers to watch from home. It is currently in Tamil with English subtitles.",
-    "img": "https://static.toiimg.com/photo/msid-129699725,imgsize-170220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/my-lord-ott-release-when-and-where-to-stream-sasikumar-starrer-hard-hitting-tale-helmed-by-raju-murugan/articleshow/129699725.cms",
-    "time": "2026-03-20T11:34:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "India’s artist fraternity is uniting to devise meaningful responses to growing censorship",
     "desc": "From literature festivals to film screenings, artists flag rising pressure on creative voices The dismantling of a publisher’s stall at a children’s literature festival in Patna recently has become a flashpoint for concerns within India’s artistic community",
     "img": "https://th-i.thgim.com/public/incoming/ioro93/article70761857.ece/alternates/LANDSCAPE_1200/Udaan%20festival1.jpg",
@@ -439,24 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/nz-vs-sa-tom-latham-leads-new-zealand-to-easy-win-over-south-africa-go-2-1-up/articleshow/129698854.cms",
     "time": "2026-03-20T11:08:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indian national dies in Saudi Arabia, embassy extends support to family; MEA says 6 deaths so far",
-    "desc": "Tragedy struck Riyadh as an Indian national lost their life on March 18th amidst escalating regional tensions. The Indian Embassy in Saudi Arabia has confirmed the demise and is actively supporting the deceased's family while coordinating with local authorities.",
-    "img": "https://static.toiimg.com/photo/msid-129698558,imgsize-603078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-national-dies-in-saudi-arabia-embassy-extends-support-to-family-mea-says-6-deaths-so-far/articleshow/129698381.cms",
-    "time": "2026-03-20T10:53:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre forms expert panel to rewrite NCERT Class 8 chapter after row over 'corruption in judiciary' section",
-    "desc": "A three-member expert committee will rewrite the Class 8 NCERT textbook chapter on the judiciary. This follows a controversy over a section mentioning corruption in the judiciary. The Supreme Court has closed its proceedings after the government's assurance. NCERT had previously withdrawn the chapter. The committee includes K. K. Venugopal, Indu Malhotra, and Justice Aniruddha Bose.",
-    "img": "https://static.toiimg.com/photo/msid-129698305,imgsize-570298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/centre-forms-expert-panel-to-rewrite-ncert-class-8-chapter-after-row-over-corruption-in-judiciary-section/articleshow/129698103.cms",
-    "time": "2026-03-20T10:29:25.000Z"
   },
   {
     "cat": "Sports",
@@ -502,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/fire-at-south-korean-auto-parts-factory-in-daejeon/article70764574.ece",
     "time": "2026-03-20T08:56:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'India can end ongoing war': RSS chief Mohan Bhagwat calls for global harmony as Middle East tensions escalate",
-    "desc": "RSS chief Mohan Bhagwat asserted that India possesses the capability to end the Middle East conflict, noting global recognition of its peace-promoting role. He attributed wars to selfish interests and dominance, advocating for harmony and India's traditional philosophy of interconnectedness to restore global balance through dharma.",
-    "img": "https://static.toiimg.com/photo/msid-129695828,imgsize-34666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-can-end-ongoing-war-rss-chief-mohan-bhagwat-calls-for-global-harmony-as-middle-east-tensions-escalate/articleshow/129695814.cms",
-    "time": "2026-03-20T08:50:39.000Z"
   },
   {
     "cat": "World",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
   }
 ];
