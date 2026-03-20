@@ -1,21 +1,210 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Dravidian titans face a new disruptor as Tamil Nadu girds for a high-stakes contest",
+    "desc": "The principal players made compromises to strengthen alliances; M.K. Stalin, to prevent vote spillover, has given a Rajya Sabha berth to the DMDK, while Edappadi Palaniswami roped in the PMK by giving Anbumani a similar deal",
+    "img": "https://th-i.thgim.com/public/incoming/bz2tlc/article70754717.ece/alternates/LANDSCAPE_1200/20260223194L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/t-n-braces-for-intense-contest-as-dravidian-giants-face-new-disruptor/article70749653.ece",
+    "time": "2026-03-20T06:42:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ryan Gosling reveals early discussion for the Ghost Rider role",
+    "desc": "Ryan Gosling has taken to the spotlight to tackle the ongoing speculation surrounding his interest in stepping into Ghost Rider's flames. Although he didn't declare a concrete commitment, the actor hinted at conversations with Marvel Studios' maestro, Kevin Feige.",
+    "img": "https://static.toiimg.com/photo/msid-129694052,imgsize-13324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-gosling-reveals-early-discussion-with-marvel-for-the-ghost-rider-role-its-a-complicated-situation/articleshow/129694052.cms",
+    "time": "2026-03-20T06:35:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Destiny got me here': Samson on Dhoni as CSK drops 1st Sanju-MSD video",
+    "desc": "Sanju Samson's long-held dream of playing alongside MS Dhoni has materialized as he joins Chennai Super Kings for IPL 2026. This move follows Samson's stellar performance, earning him Player of the Tournament in the T20 World Cup 2026, where he set new Indian batting records. Fans eagerly anticipate this exciting new chapter.",
+    "img": "https://static.toiimg.com/photo/msid-129693874,imgsize-1304448.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/destiny-got-me-here-samson-on-dhoni-as-csk-drops-1st-sanju-msd-video-watch/articleshow/129693699.cms",
+    "time": "2026-03-20T06:23:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "HDFC Bank shares down 7.5% in just two days after Atanu Chakraborty’s resignation; what’s the outlook?",
+    "desc": "With the latest slide, the stock has fallen around 7.5 per cent over the past two trading sessions. The sustained pressure on ADRs points to ongoing investor unease after the sudden resignation of chairman Atanu Chakraborty.",
+    "img": "https://static.toiimg.com/photo/msid-129693857,imgsize-46724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/hdfc-bank-shares-down-7-5-in-just-two-days-after-atanu-chakrabortys-resignation-whats-the-outlook/articleshow/129693837.cms",
+    "time": "2026-03-20T06:21:24.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. NTSB launches safety probe after Alaska Airlines jet overflies FedEx at Newark",
+    "desc": "“An air traffic controller instructed ‌Alaska Airlines Flight 294, a Boeing 737, to perform a go-around because FedEx Flight 721, ‌a Boeing 777, was cleared for the ‌final ⁠approach to an intersecting runway at the ⁠New Jersey airport near New York City,” says FAA",
+    "img": "https://th-i.thgim.com/public/incoming/axven9/article70764431.ece/alternates/LANDSCAPE_1200/2025-10-23T234447Z_927293111_RC2IK5AE7BZ8_RTRMADP_3_USA-ALASKA-AIRLINES-GROUND-STOP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-ntsb-launches-safety-probe-after-alaska-airlines-jet-overflies-fedex-at-newark/article70764397.ece",
+    "time": "2026-03-20T06:21:23.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Political tug of war over Iranian women's football team prompts criticism in Australia",
+    "desc": "Iran has claimed victory in the extraordinary public relations battle that played out since Australian Immigration Minister Tony Burke released to the media on March 10 a photo of him posing with five women who had accepted protection visas",
+    "img": "https://th-i.thgim.com/public/incoming/f9ktmf/article70764427.ece/alternates/LANDSCAPE_1200/2026-03-18T100313Z_204820098_RC2Y6KAGWS7U_RTRMADP_3_IRAN-CRISIS-SOCCER-TURKEY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/political-tug-of-war-over-iranian-womens-football-team-prompts-criticism-in-australia/article70764424.ece",
+    "time": "2026-03-20T06:20:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celebs arrive at Manish Malhotra's mother's funeral: Pics",
+    "desc": "In a heartfelt farewell, the illustrious fashion designer Manish Malhotra mourns the loss of his beloved mother, Sudarshan Malhotra, who left this world at the age of 94. Today, March 20, 2026, the Santacruz crematorium in Mumbai was filled with compassion as friends and Bollywood luminaries like Karan Johar and Aishwarya Rai Bachchan gathered to honor her remarkable life. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129693401,imgsize-187920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manish-malhotras-mothers-funeral-karan-johar-urmila-matondkar-others-arrive-to-pay-their-last-respects-at-the-crematorium/articleshow/129693401.cms",
+    "time": "2026-03-20T06:12:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In Kerala, war reaches the doorsteps",
+    "desc": "The war that broke out in West Asia has impacted lives in Kerala in myriad forms. Expatriates’ travel plans were in disarray, tourism hit the pause button. But it was the unprecedented LPG crisis that put the economy under heavy strain. M.P. Praveen finds out how various segments, from restaurants to rubber industry, are coping with the situation",
+    "img": "https://th-i.thgim.com/public/incoming/5aqtme/article70764413.ece/alternates/LANDSCAPE_1200/War-at-our-doorG1IFO497T.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/lpg-crisis-in-kerala-war-reaches-the-doorsteps/article70758028.ece",
+    "time": "2026-03-20T06:08:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The outrage over amendments to trans rights law",
+    "desc": "Protests have erupted across the country, with tens of thousands of people coming out onto the streets, signing petitions online, and campaigning for the withdrawal of the proposed Transgender Persons (Protection of Rights) Amendment Bill, 2026. Ashna Butani and Abhinay Lakshman report on the outrage of trans communities, who say that the Bill violates their fundamental right to gender self-identification",
+    "img": "https://th-i.thgim.com/public/incoming/yy085f/article70762284.ece/alternates/LANDSCAPE_1200/10_Transgender_Leaders_PC_16_03_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/the-long-walk/article70762269.ece",
+    "time": "2026-03-20T06:08:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "UP’s big push for sporting excellence, rewards and jobs for athletes",
+    "desc": "Uttar Pradesh is bolstering its sports sector with an ambitious incentive structure, offering substantial monetary rewards for medal winners at international and national events. The state is also prioritising job security for athletes, with over 500 securing government positions, fostering a robust sporting ecosystem.",
+    "img": "https://static.toiimg.com/photo/msid-129693381,imgsize-17954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/toisa-2025-ups-big-push-for-sporting-excellence-rewards-and-jobs-power-athletes-rise/articleshow/129693356.cms",
+    "time": "2026-03-20T05:56:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BTS release 'Swim' music video from new album 'ARIRANG'",
+    "desc": "K-pop megastars BTS released their fifth studio album on Friday, after an almost four-year hiatus. Including tracks like \"Hooligan\" and \"SWIM\", the 14-track \"ARIRANG\" album is named after a Korean folk song and is billed as reflecting the seven-member boy band's roots and identity. cdl-stu/lb",
+    "img": "https://static.toiimg.com/photo/msid-129693263,imgsize-79226.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/arirang-bts-release-first-music-video-swim-k-pop-stars-hit-the-high-sea-with-lili-reinhart/articleshow/129692718.cms",
+    "time": "2026-03-20T05:48:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jessi Ngatikaura and Jordan Ngatikaura split after five-year marriage",
+    "desc": "Jessi Ngatikaura's marriage to Jordan Ngatikaura has ended, with Jordan filing for divorce in Utah after five years. The couple, who share three children, faced public scrutiny due to Jessi's emotional affair and accusations of abuse. Despite therapy and attempts at reconciliation, their relationship ultimately dissolved.",
+    "img": "https://static.toiimg.com/photo/msid-129692895,imgsize-749269.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/jessi-ngatikaura-and-jordan-ngatikaura-split-after-five-year-marriage-the-secret-lives-of-mormon-wives-stars-personal-life-unravels-publicly/articleshow/129692898.cms",
+    "time": "2026-03-20T05:24:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee breaches 93 per dollar for first time amid Iran war oil shock; down 19 paise in early trade",
+    "desc": "The Indian rupee hit a record low of 93.12 against the US dollar on Friday, driven by escalating Middle East tensions and soaring crude oil prices. Despite this currency weakness, domestic equity markets staged a significant recovery. Analysts anticipate continued pressure on the rupee as foreign investors withdraw funds, potentially impacting India's growth and inflation.",
+    "img": "https://static.toiimg.com/photo/msid-129692870,imgsize-972724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-breaches-93-per-dollar-for-first-time-amid-iran-war-oil-shock-down-19-paise-in-early-trade/articleshow/129692875.cms",
+    "time": "2026-03-20T05:22:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "5 players CSK could target as replacements for injured Nathan Ellis",
+    "desc": "Chennai Super Kings face a major blow as Australian pacer Nathan Ellis is ruled out of IPL 2026 with a hamstring injury. Ellis was expected to be CSK's primary death bowler, leaving a significant void. The franchise is now exploring replacements like Ottneil Baartman, Sean Abbott, Gerald Coetzee, Shamar Joseph, and Fazalhaq Farooqi.",
+    "img": "https://static.toiimg.com/photo/msid-129692756,imgsize-1226182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-here-are-five-players-csk-could-target-as-replacements-for-nathan-ellis/articleshow/129692736.cms",
+    "time": "2026-03-20T05:16:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Before salt, there was water: why Mahad Satyagraha deserves its centenary",
+    "desc": "The republic must mark the centenary of the Mahad Satyagraha with the seriousness it deserves; it calls for a year of honest reckoning to ask whether the constitutional promise of dignity and freedom from untouchability has become a lived reality for all",
+    "img": "https://th-i.thgim.com/public/incoming/6ouy7r/article70763013.ece/alternates/LANDSCAPE_1200/Standing-tall_GG27FMHBC6.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/before-salt-there-was-water-why-mahad-satyagraha-deserves-its-centenary/article70762022.ece",
+    "time": "2026-03-20T05:12:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Crude sinks after Benjamin Netanyahu tries to reassure on Iran war",
+    "desc": "But with the conflict heading into a fourth week, most equities fell as investors fret over energy markets, with oil still holding around $100 and gas surging amid the effective closure of the crucial Strait of Hormuz",
+    "img": "https://th-i.thgim.com/public/business/Economy/pstotd/article70764107.ece/alternates/LANDSCAPE_1200/OilGas.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/crude-oil-prices-israel-us-strikes-on-iran-west-asia-conflict-benjamin-netanyahu-donald-trump/article70764101.ece",
+    "time": "2026-03-20T05:02:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2': Montreal theatre vandalised mid-show",
+    "desc": "The Revenge' experienced a sensational box office debut, crossing Rs 150 crore on its opening day. However, screenings in Montreal were marred by alleged sabotage, with a person reportedly damaging a theatre screen mid-show. This incident follows a pattern of attacks on cinemas showing South Asian films in Canada.",
+    "img": "https://static.toiimg.com/photo/msid-129692078,imgsize-86336.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-screenings-of-ranveer-singh-starrer-disrupted-in-montreal-theatre-screen-sliced-mid-show-watch/articleshow/129691895.cms",
+    "time": "2026-03-20T04:54:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UAE, Qatar, Kuwait &amp; more: DGCA asks airlines to avoid 9 airspaces amid escalating Middle East tensions",
+    "desc": "Indian airlines may continue operating over Oman and Saudi Arabia, subject to conditions. The regulator said flights must not operate below FL 320, or 32,000 feet, in specified parts of these airspaces. About the nine airspaces, the DGCA asked airlines to \"refrain from operating within the affected airspace...at all flight levels and altitudes\".",
+    "img": "https://static.toiimg.com/photo/msid-129692411,imgsize-11882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/uae-qatar-kuwait-more-dgca-asks-airlines-to-avoid-9-airspaces-amid-escalating-middle-east-tensions-gulf-news/articleshow/129692321.cms",
+    "time": "2026-03-20T04:51:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Disney Cruise Line’s largest ship on its Asia debut",
+    "desc": "On board Disney Cruise Line’s Disney Adventure, inaugurated by actor Robert Downey Jr., we set sail on a four-day voyage that includes dining with Mickey Mouse and the first-ever roller coaster on a Disney Cruise Line ship — the longest at sea at over 250 metres",
+    "img": "https://th-i.thgim.com/public/life-and-style/84jrq4/article70761319.ece/alternates/LANDSCAPE_1200/Float%20Out%202_1MB.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/life-and-style/travel/inside-disney-cruise-lines-largest-ship-on-its-asia-debut/article70761351.ece",
+    "time": "2026-03-20T04:51:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Complete list of injured and unavailable players",
+    "desc": "IPL 2026 faces a challenge with numerous player injuries. Key bowlers like Harshit Rana and Nathan Ellis are out for the season. Sam Curran and Jack Edwards will also miss the entire tournament. Pat Cummins and Josh Hazlewood will be absent for initial matches. Lockie Ferguson and Mitchell Starc's early availability is uncertain. Matheesha Pathirana is also sidelined.",
+    "img": "https://static.toiimg.com/photo/msid-129692412,imgsize-1376593.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-complete-list-of-injured-and-unavailable-players/articleshow/129692341.cms",
+    "time": "2026-03-20T04:51:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Dilli hai bhai sabki dhadkan': Delhi falls back in love with football after 7 years",
+    "desc": "It took 2,587 days for top-tier club football to return to Delhi. And then it took a while for the stands to get occupied. But when they did -- for SC Delhi vs Jamshedpur FC at the Jawaharlal Nehru Stadium -- by 6,372 fans, it was met by loud chants, dhol beats, and deafening celebrations despite rain in the air.",
+    "img": "https://static.toiimg.com/photo/msid-129692275,imgsize-86966.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/dilli-hai-bhai-sabki-dhadkan-delhi-falls-back-in-love-with-football-after-7-years/articleshow/129692142.cms",
+    "time": "2026-03-20T04:49:32.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Teenagers sue Musk’s xAI claiming image-generator made sexually explicit images of them as minors",
+    "desc": "Other AI companies have prohibited their image-generators from producing any sexually explicit content, even of adults. Mr. Musk saw this as a business opportunity and promoted the ability of xAI's Grok chatbot to create “spicy” content, the lawsuit claims.",
+    "img": "https://th-i.thgim.com/public/incoming/vfdspx/article70764256.ece/alternates/LANDSCAPE_1200/2026-03-18T142725Z_1699232240_RC2PVCAIIX5G_RTRMADP_3_XAI-GROK-EU.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/teenagers-sue-musks-xai-claiming-image-generator-made-sexually-explicit-images-of-them-as-minors/article70764255.ece",
+    "time": "2026-03-20T04:45:53.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Cooking gas crisis on the boil across Telangana",
     "desc": "An LPG shortage triggered by global supply disruptions has begun to ripple across Telangana, hitting restaurants, temples, industries and households alike. While domestic supplies are officially being prioritised, panic bookings have surged, overwhelming systems and fuelling anxiety among consumers. Industry bodies warn of a wider economic fallout, including job losses and disrupted food access, even as authorities insist the situation is under control. N. Ravi Kumar and Siddharth Kumar Singh bring you a ground reality check",
     "img": "https://th-i.thgim.com/public/incoming/mwf7y4/article70763188.ece/alternates/LANDSCAPE_1200/Biryani%20dishes%20by%20using%20firewood%20and%20coal%20%2008.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/telangana/cooking-gas-crisis-on-the-boil-across-telangana/article70763185.ece",
     "time": "2026-03-20T04:41:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why is the transgender community saying #RejectTransBill",
-    "desc": "Protests have erupted across the country, with tens of thousands of people coming out onto the streets, signing petitions online, and campaigning for the withdrawal of the proposed Transgender Persons (Protection of Rights) Amendment Bill, 2026. Ashna Butani and Abhinay Lakshman report on the outrage of trans communities, who say that the Bill violates their fundamental right to gender self-identification",
-    "img": "https://th-i.thgim.com/public/incoming/yy085f/article70762284.ece/alternates/LANDSCAPE_1200/10_Transgender_Leaders_PC_16_03_Delhi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/the-long-walk/article70762269.ece",
-    "time": "2026-03-20T04:36:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -46,11 +235,11 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Mohsin Naqvi slammed as 'weakest ever PCB' tag fuels Pakistan cricket turmoil",
+    "title": "Mohsin Naqvi’s PCB termed ‘weak’, accused of ‘kneeling before players’",
     "desc": "Pakistan cricket faces renewed criticism after a T20 World Cup exit and ODI series loss. Former opener Ahmed Shehzad alleges the PCB built up a select group of players, now failing to deliver, while neglecting accountability and player development. He claims the board's weakness empowers these stars, hindering genuine progress and leaving fans disillusioned.",
     "img": "https://static.toiimg.com/photo/msid-129691628,imgsize-151706.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mohsin-naqvi-slammed-as-weakest-ever-pcb-tag-fuels-pakistan-cricket-turmoil/articleshow/129691592.cms",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mohsin-naqvis-pcb-termed-weak-accused-of-kneeling-before-players/articleshow/129691592.cms",
     "time": "2026-03-20T03:51:25.000Z"
   },
   {
@@ -64,8 +253,8 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Stock market today (March 20, 2026): Nifty50 opens above 23,200; BSE Sensex up over 700 points",
-    "desc": "Benchmark indices Nifty50 and BSE Sensex opened in green on Friday after a big selloff on Thursday that saw markets tank over 3%. While Nifty50 opened above 23,200, BSE Sensex rose over 700 points, just shy of 75,000.",
+    "title": "Why is stock market rallying today? BSE Sensex rises over 1,000 points to cross 75,000; top reasons for rise",
+    "desc": "Benchmark indices Nifty50 and BSE Sensex rallied in trade on Friday after a big selloff on Thursday that saw markets tank over 3%. The rally added more than Rs 6 lakh crore to the total market capitalisation of BSE-listed companies, taking it to Rs 432 lakh crore.",
     "img": "https://static.toiimg.com/photo/msid-129691452,imgsize-104856.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-20-2026-dalal-street-indian-equities-global-markets-us-iran-war-oil-prices-donald-trump/articleshow/129691441.cms",
@@ -79,6 +268,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/indonesian-billionaire-michael-bambang-hartono-dies-at-86/article70764128.ece",
     "time": "2026-03-20T03:41:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Crude eases after spike as Trump, Netanyahu seek to ease concerns over Iran war",
+    "desc": "Global crude prices saw a dip on Friday. Statements from US President Donald Trump and Israeli prime minister Benjamin Netanyahu helped calm fears of more attacks on energy facilities. Brent crude moved towards $107 a barrel. West Texas Intermediate for May hovered around $94. This follows a sharp rally due to supply disruptions in the Persian Gulf region.",
+    "img": "https://static.toiimg.com/photo/msid-129691512,imgsize-798575.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-eases-after-spike-as-trump-netanyahu-seek-to-ease-concerns-over-iran-war/articleshow/129691391.cms",
+    "time": "2026-03-20T03:37:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -124,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/stay-off-social-media-riyan-parags-advice-to-vaibhav-sooryavanshi/articleshow/129691170.cms",
     "time": "2026-03-20T03:09:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude sinks after Benjamin Netanyahu tries to reassure on Iran war",
-    "desc": "But with the conflict heading into a fourth week, most equities fell as investors fret over energy markets, with oil still holding around $100 and gas surging amid the effective closure of the crucial Strait of Hormuz",
-    "img": "https://th-i.thgim.com/public/business/Economy/pstotd/article70764107.ece/alternates/LANDSCAPE_1200/OilGas.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/crude-oil-prices-israel-us-strikes-on-iran-west-asia-conflict-benjamin-netanyahu-donald-trump/article70764101.ece",
-    "time": "2026-03-20T03:07:12.000Z"
   },
   {
     "cat": "Politics",
@@ -235,51 +424,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Dhurandhar 2': Actor opens up about his prep for Bade Saab",
-    "desc": "The Revenge,' where he embraced the role of notorious figure Dawood Ibrahim. Preparations were no small feat, requiring up to 12 intense hours of work a day, coupled with a physically demanding costume that made simple activities like eating a challenge. Read the full article to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129689977,imgsize-58428.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-danish-iqbal-opens-up-about-his-transformation-into-bade-saab-for-the-ranveer-singh-starrer/articleshow/129689977.cms",
-    "time": "2026-03-20T01:20:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "BTS reunites with ‘Arirang’ album, ends nearly four-year hiatus",
-    "desc": "Global K-pop sensation BTS is set to reunite on March 20, 2026, with their fifth studio album, ‘Arirang,’ marking the end of their military service hiatus. The album, inspired by Korea's folk song, features 14 tracks and celebrates the group's roots and deep emotions. A free live performance in Seoul and U.S. appearances will follow the highly anticipated release.",
-    "img": "https://static.toiimg.com/photo/msid-129690202,imgsize-706083.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/bts-reunites-with-arirang-album-ends-nearly-four-year-hiatus-reignites-global-pop-dominance/articleshow/129690204.cms",
-    "time": "2026-03-20T01:19:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Youth' BO day 1: Film opens with Rs 3 crores",
-    "desc": "Suraj Venjaramoodu and Ken Karunas' film 'Youth' has made a promising debut, collecting over Rs 3 crore on its opening day. The feel-good entertainer, released on March 19, 2026, is receiving positive audience reviews. Director Ken Karunas shared an emotional note about his personal journey with the film, highlighting his deep connection to cinema.",
-    "img": "https://static.toiimg.com/photo/msid-129690118,imgsize-173500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/youth-box-office-collections-day-1-suraj-venjaramoodu-film-opens-decently-crosses-rs-3-crore/articleshow/129690118.cms",
-    "time": "2026-03-20T01:05:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ustaad Bhagat Singh': Pawan Kalyan film leaked online",
-    "desc": "Pawan Kalyan's 'Ustaad Bhagat Singh' faces piracy just hours after its March 19, 2026 release, despite legal protection. The action-comedy has garnered mixed reviews, with praise for Kalyan's screen presence but criticism for its outdated narrative. While some mass moments and humor landed, the film's overall reception remains divided.",
-    "img": "https://static.toiimg.com/photo/msid-129690040,imgsize-112022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ustaad-bhagat-singh-leaked-online-pawan-kalyan-film-faces-piracy-blow-despite-court-protection/articleshow/129690040.cms",
-    "time": "2026-03-20T00:44:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Frankie Paul's ' Bachelorette' season scrapped amid video row",
-    "desc": "TikTok influencer Taylor Frankie Paul's season of 'The Bachelorette' was abruptly canceled days before its March 22, 2026 premiere due to a resurfaced 2023 video showing a physical altercation. The decision by Disney Entertainment Television followed the video's release, which reignited a domestic violence investigation. Contestants reportedly feel betrayed by the cancellation after months of filming.",
-    "img": "https://static.toiimg.com/photo/msid-129690030,imgsize-687677.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/focus-to-support-family-taylor-frankie-pauls-bachelorette-season-scrapped-days-before-premiere-amid-resurfaced-assault-video-controversy/articleshow/129690033.cms",
-    "time": "2026-03-20T00:39:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar: The Revenge’ inches close to Rs 150 cr on day 1",
     "desc": "The Revenge,' starring Ranveer Singh, has exceeded expectations, earning over Rs 100 crore on its opening Friday. The film's premiere shows on March 18, 2026, garnered Rs 43 crore, contributing to a domestic total nearing Rs 150 crore.",
     "img": "https://static.toiimg.com/photo/msid-129689984,imgsize-34998.cms",
@@ -342,15 +486,6 @@ const newsData_en = [
     "time": "2026-03-19T22:18:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Dravidian titans face a new disruptor as Tamil Nadu girds for a high-stakes contest",
-    "desc": "The principal players made compromises to strengthen alliances; M.K. Stalin, to prevent vote spillover, has given a Rajya Sabha berth to the DMDK, while Edappadi Palaniswami roped in the PMK by giving Anbumani a similar deal",
-    "img": "https://th-i.thgim.com/public/incoming/bz2tlc/article70754717.ece/alternates/LANDSCAPE_1200/20260223194L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/t-n-braces-for-intense-contest-as-dravidian-giants-face-new-disruptor/article70749653.ece",
-    "time": "2026-03-19T21:26:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Lloyds List",
     "desc": "The maritime data company has reported that nine ships have exited through Iran’s corridor in Strait of Hormuz; reliable sources in India, meanwhile, said that with the situation in West Asia escalating further, Indian ships stuck in the strait for more than two weeks have been asked to ‘stay put’ for now after Israeli strikes on Iran’s largest gas fields",
@@ -405,15 +540,6 @@ const newsData_en = [
     "time": "2026-03-19T18:40:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Unfenced border in focus amid arrest of seven foreigners who crossed to Myanmar via porous border",
-    "desc": "According to the latest data, of the total 1,643 km of fencing approved by the government, only 43.75 km has been completed so far; fencing project has faced resistance from residents of border States as people on either side share deep ethnic, social and cultural ties",
-    "img": "https://th-i.thgim.com/public/incoming/ahcdmr/article70763083.ece/alternates/LANDSCAPE_1200/IMG_TH_-_MANIPUR_ELECTIO_2_1_DGDP1T3D.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/unfenced-border-in-focus-amid-arrest-of-seven-foreigners-who-crossed-to-myanmar-via-porous-border/article70762674.ece",
-    "time": "2026-03-19T17:48:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Asian Games cruise ship and wooden huts will be 'unique experience'",
     "desc": "About half of the expected 15,000 athletes and officials will live in the eye-catching temporary accommodation during the Games, which are in Nagoya and the wider Aichi area from September 19 to October 4 — coinciding with typhoon season in Japan",
@@ -421,15 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/asian-games-cruise-ship-and-wooden-huts-will-be-unique-experience/article70763064.ece",
     "time": "2026-03-19T17:48:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Before salt, there was water: why Mahad Satyagraha deserves its centenary",
-    "desc": "The republic must mark the centenary of the Mahad Satyagraha with the seriousness it deserves; it calls for a year of honest reckoning to ask whether the constitutional promise of dignity and freedom from untouchability has become a lived reality for all",
-    "img": "https://th-i.thgim.com/public/incoming/dw74mv/article70763013.ece/alternates/LANDSCAPE_1200/Standing-tall_GG27FMHBC6.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/before-salt-there-was-water-why-mahad-satyagraha-deserves-its-centenary/article70762022.ece",
-    "time": "2026-03-19T17:48:01.000Z"
   },
   {
     "cat": "World",
@@ -459,15 +576,6 @@ const newsData_en = [
     "time": "2026-03-19T17:28:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Delhi HC directs Tamil media outlet to remove defamatory content against Isha Foundation and Sadhguru",
-    "desc": "The Delhi High Court has ordered Tamil media outlet Nakkheeran Media to remove defamatory videos and articles targeting Isha Foundation and Sadhguru. The court's interim order follows a defamation suit filed by the Foundation, which has welcomed the decision and vowed to continue legal action against those spreading false content.",
-    "img": "https://static.toiimg.com/photo/msid-129684643,imgsize-1075355.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-hc-directs-tamil-media-outlet-to-remove-defamatory-content-against-isha-foundation-and-sadhguru/articleshow/129684571.cms",
-    "time": "2026-03-19T17:18:31.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Big oil relief soon? What Trump’s possible ‘unsanctioning’ of Iran crude means for India",
     "desc": "India has not been buying crude oil from Iran since mid-2019 after the US ended waiver for sanctions on Iran crude. Around 35-40% of India’s crude oil needs are met through cargoes that make their way towards Asia through the Strait of Hormuz.",
@@ -475,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/big-oil-relief-soon-what-trumps-possible-unsanctioning-of-iran-crude-means-for-india/articleshow/129683949.cms",
     "time": "2026-03-19T16:50:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Gukesh won title by chance': Ex-world champ Karpov sparks controversy",
-    "desc": "D Gukesh has faced criticism from Anatoly Karpov, who said his world title win over Ding Liren was “by chance.” Vladimir Kramnik also questioned the match quality. Despite this, Ding has remained calm, saying he is enjoying a quieter phase, playing casually and staying away from intense competition.",
-    "img": "https://static.toiimg.com/photo/msid-129683942,imgsize-109462.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/gukesh-won-title-by-chance-former-world-chess-champion-karpov-sparks-controversy/articleshow/129683687.cms",
-    "time": "2026-03-19T16:47:23.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +594,6 @@ const newsData_en = [
     "time": "2026-03-19T16:18:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Strength behind my Man's success': Sakshi pens post for Dhoni's father",
-    "desc": "MS Dhoni's wife Sakshi Dhoni shared a heartfelt post for Pan Singh Dhoni, calling him the \"strength behind my Man's success.\" She praised his inspiring journey and role in shaping MS Dhoni. Meanwhile, AB de Villiers suggested Dhoni should bat higher for Chennai Super Kings or consider a mentoring role.",
-    "img": "https://static.toiimg.com/photo/msid-129683379,imgsize-41962.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/strength-behind-my-mans-success-sakshi-pens-heartfelt-post-for-ms-dhonis-father/articleshow/129683319.cms",
-    "time": "2026-03-19T16:09:11.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Armageddon scenario! Why Iran’s missile strikes on Qatar’s LNG spell nightmare for Europe, Asia",
     "desc": "Under normal conditions, roughly one-fifth of the world’s LNG supply originates from Ras Laffan, which is a sprawling industrial hub developed over three decades at a cost of hundreds of billions of dollars and covering an area nearly three times that of Paris.",
@@ -511,24 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/armageddon-scenario-how-irans-missile-strikes-on-qatars-lng-spell-nightmare-for-europe-asia/articleshow/129683074.cms",
     "time": "2026-03-19T16:02:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How Iran's strikes on Qatar's Ras Laffan, world's largest LNG hub &amp; other Middle East oil &amp; gas infra, will impact India",
-    "desc": "India gets around 40% of its LNG requirements from Qatar. Reacting to the damage to key energy infrastructure in the Middle East, External Affairs Ministry spokesperson Randhir Jaiswal said, “India had previously called for the avoidance of targeting civilian infrastructure, including energy infrastructure, across the region.”",
-    "img": "https://static.toiimg.com/photo/msid-129682756,imgsize-116974.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/how-irans-strikes-on-qatars-ras-laffan-worlds-largest-lng-hub-other-middle-east-oil-gas-infra-will-impact-india/articleshow/129682405.cms",
-    "time": "2026-03-19T15:31:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US may unsanction Iranian oil to cool prices as Gulf war shakes energy markets",
-    "desc": "The Trump administration is considering releasing 140 million barrels of Iranian oil to stabilize global prices amid escalating Gulf conflict. US Treasury Secretary Scott Bessent indicated a potential move within days to boost physical supply, describing it as a \"break the glass plan.",
-    "img": "https://static.toiimg.com/photo/msid-129682595,imgsize-105822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-may-unsanction-140-million-barrels-of-iranian-oil-to-cool-prices-as-gulf-war-shakes-energy-markets/articleshow/129682500.cms",
-    "time": "2026-03-19T15:20:55.000Z"
   },
   {
     "cat": "Sports",
@@ -540,33 +612,6 @@ const newsData_en = [
     "time": "2026-03-19T15:02:48.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'I measure people by results,' says LSG owner; fans ask ‘Rahul ke liye ya Pant?'",
-    "desc": "The post did not mention any individual, but several users linked it to former LSG captain KL Rahul, who is no longer part of the franchise setup, while some linked it to current LSG captain Rishabh Pant.",
-    "img": "https://static.toiimg.com/photo/msid-129682123,imgsize-54292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/lsg-owner-fuels-speculation-with-output-counts-post-fans-ask-rahul-ke-liye-ya-pant/articleshow/129681981.cms",
-    "time": "2026-03-19T14:54:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Govt launches Rs 497cr RELIEF scheme to support exporters hit by Middle East conflict",
-    "desc": "India has launched the Rs 497 crore RELIEF scheme to aid exporters facing Middle East conflict disruptions. The initiative, managed by ECGC, offers extended export obligations, enhanced insurance cover, and crucial support for MSMEs grappling with increased freight and insurance costs. This aims to maintain India's market share and prevent shipment delays.",
-    "img": "https://static.toiimg.com/photo/msid-129682090,imgsize-132192.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/government-launches-rs-497-crore-relief-scheme-to-support-exporters-hit-by-middle-east-conflict-all-you-need-to-know/articleshow/129681975.cms",
-    "time": "2026-03-19T14:49:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What next?",
-    "desc": "Chennai Super Kings have suffered a setback ahead of the new IPL season, with Nathan Ellis ruled out due to injury. His absence weakens their pace attack, already missing Matheesha Pathirana. The team is yet to name a replacement, with an official saying, \"Yes, he is out. We have not yet decided on the replacement.\" Led by Ruturaj Gaikwad, CSK open against Rajasthan Royals on March 30.",
-    "img": "https://static.toiimg.com/photo/msid-129681726,imgsize-190816.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/nathan-ellis-ruled-out-as-csk-suffer-massive-blow-what-next/articleshow/129681693.cms",
-    "time": "2026-03-19T14:28:51.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran-Israel war: A day‑by‑day rundown of the escalating crisis",
     "desc": "A joint U.S.-Israel attack on Iran and the killing of Supreme Leader Ayatollah Ali Khamenei have plunged West Asia into a fast‑spreading war, with Tehran and its allies launching retaliatory strikes across Israel, the Gulf and U.S. bases.",
@@ -574,24 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
     "time": "2026-03-19T13:51:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Which are top 10 losers on NSE, BSE today? Check list as one Nifty stock bucks trend",
-    "desc": "Indian stock markets experienced a significant downturn on Thursday, with both Sensex and Nifty plunging over 3%. Surging crude oil prices due to escalating West Asia attacks, coupled with weak global cues, triggered a broad market rout. Financials, autos, and industrials were heavily impacted, while ONGC was the sole gainer.",
-    "img": "https://static.toiimg.com/photo/msid-129680829,imgsize-112588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-are-the-top-10-losers-on-nse-bse-on-march-19-2026-check-list-as-one-nifty-stock-bucks-trend/articleshow/129680490.cms",
-    "time": "2026-03-19T13:29:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Disney Cruise Line’s largest ship on its Asia debut",
-    "desc": "On board Disney Cruise Line’s Disney Adventure, inaugurated by actor Robert Downey Jr., we set sail on a four-day voyage that includes dining with Mickey Mouse and the first-ever roller coaster on a Disney Cruise Line ship — the longest at sea at over 250 metres",
-    "img": "https://th-i.thgim.com/public/life-and-style/84jrq4/article70761319.ece/alternates/LANDSCAPE_1200/Float%20Out%202_1MB.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/travel/inside-disney-cruise-lines-largest-ship-on-its-asia-debut/article70761351.ece",
-    "time": "2026-03-19T12:19:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -718,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/all-our-scheduling-is-going-to-revolve-around-peaking-for-the-asian-games-ramit-tandon/article70755322.ece",
     "time": "2026-03-17T18:06:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "LPG consumption slumps 17% in March on war-related shortages",
-    "desc": "LPG consumption fell to 1.147 million tonne during the first fortnight of March, 17.3% lower than 1.387 million tonne consumed in the same period last year and 26.3% lower than 1.557 million tonne demand in the first half of February",
-    "img": "https://th-i.thgim.com/public/incoming/s4gxca/article70753704.ece/alternates/LANDSCAPE_1200/20260317150L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/lpg-consumption-slumps-17-in-march-on-war-related-shortages/article70753643.ece",
-    "time": "2026-03-17T11:26:02.000Z"
   },
   {
     "cat": "Entertainment",

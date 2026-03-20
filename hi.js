@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "South Africa hope for good start with the bat",
+    "desc": "New Zealand and South Africa lock horns in the third T20I of the ongoing five-game series. The teams face off at Eden Park in Auckland. Currently, the series is on level terms, with both teams...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-sa-3rd-t20i-live-score-south-africa-hope-for-good-start-with-the-bat-2026-03-20-1034453",
+    "time": "2026-03-20T06:34:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Wayne Rooney vs Neymar debate trending on social media? Check what sparked the debate",
+    "desc": "The debate on who is better – such discussions are way too common in the world of sports, with fans arguing over the skills of Lionel Messi and the flair of Cristiano Ronaldo for several...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-is-wayne-rooney-vs-neymar-debate-trending-on-social-media-check-what-sparked-the-debate-2026-03-20-1034447",
+    "time": "2026-03-20T05:58:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi Capitals dealt major blow, star pacer Mitchell Starc set to miss start of IPL 2026; Check details",
+    "desc": "The IPL (Indian Premier League) 2026 is all set to kick off on March 28; ahead of the start of the season, the various franchises have already dealt with many injuries. The likes of Nathan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-dealt-major-blow-star-pacer-mitchell-starc-set-to-miss-start-of-ipl-2026-check-details-2026-03-20-1034438",
+    "time": "2026-03-20T04:51:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sanju Samson captured chatting with MS Dhoni ahead of IPL 2026 season",
     "desc": "With the IPL (Indian Premier League) 2026 season all set to kick off on March 28, many would look forward to the campaign of five-time champions Chennai Super Kings. The side will have the likes...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/3-cricketers-who-can-replace-nathan-ellis-in-csk-squad-for-ipl-2026-2026-03-19-1034397",
     "time": "2026-03-19T16:04:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals suffer major blow, key first-team player is likely ruled out of IPL 2026",
-    "desc": "Rajasthan Royals have suffered a major blow ahead of the IPL 2026. England all-rounder Sam Curran is set to miss the entire season with a suspected groin injury. He was brought in as a part...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-suffer-major-blow-key-first-team-player-is-likely-ruled-out-of-ipl-2026-2026-03-19-1034393",
-    "time": "2026-03-19T15:10:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Thibaut Courtois ruled out for six weeks; to miss UCL tie vs Bayern Munich, La Liga clash vs Atletico Madrid",
-    "desc": "Thibaut Courtois faces a spell on the sidelines after picking up a thigh injury during Real Madrid’s 2-1 victory over Manchester City on Tuesday. The Belgian goalkeeper will now miss an estimated six weeks, as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/thibaut-courtois-ruled-out-for-six-weeks-to-miss-ucl-tie-vs-bayern-munich-la-liga-clash-vs-atletico-madrid-2026-03-19-1034384",
-    "time": "2026-03-19T13:50:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Paul Stirling steps down as T20I captain, Ireland confirm T20I series against India",
-    "desc": "Ireland were in constant touch with the BCCI, with the hope of hosting India later in the year. They have now finalised it, as a T20I series will be played in June. However, the series...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/paul-stirling-steps-down-as-t20i-captain-ireland-confirm-t20i-series-against-india-2026-03-19-1034380",
-    "time": "2026-03-19T13:07:55.000Z"
   }
 ];
