@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ક્રૂડ ઓઈલ અને ગેસ જ નહીં, હવે પર્યટન સ્થળો પર પણ ખતરો; ઈદ પર ઈરાનની ધમકીથી દુનિયાભરમાં ફફડાટ",
+    "desc": "ઈરાનના ટોપના સૈન્ય પ્રવક્તા અબ્દુલફઝલ શેકરચી (Abolfazl Shekarchi)એ શુક્રવારે એક કડક નિવેદન જાહેર કરીને ચેતવણી આપી છે કે, દુનિયાભરના પાર્ક, મનોરંજન સ્થળો અને પર્યટન કેન્દ્રો હવે સુરક્ષિત રહેશે નહીં. આ જાહેરાતથી ભારે ગભરાટ ફેલાયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/not-only-crude-oil-and-gas-now-tourist-destinations-are-also-under-threat-irans-threat-on-eid-creates-a-stir-around-the-world-469452 ",
+    "time": "2026-03-20T17:48:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SBIએ કરોડો ગ્રાહકોને આપી ભેટ, FD પર વ્યાજ દરોમાં કર્યો વધારો; જાણો હવે કેટલો થશે ફાયદો",
+    "desc": "પબ્લિક સેક્ટરની સૌથી મોટી બેન્ક સ્ટેટ બેન્ક ઓફ ઇન્ડિયા (SBI)એ બલ્ક ફિક્સ્ડ ડિપોઝિટ (FD) પરના વ્યાજ દરોમાં 25 બેસિસ પોઈન્ટ્સ (0.25%) સુધીનો વધારો કર્યો છે. નોંધનીય છે કે, આ વધારો 3 કરોડથી વધુના રોકાણ પર કરવામાં આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/sbi-bulk-fd-interest-rates-hiked-march-2026-senior-citizen-benefits-469450 ",
+    "time": "2026-03-20T16:38:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આ મહિનાના પગારમાં આવશે બાકી એરિયરના પૈસા! કેન્દ્રીય કર્મચારીઓ માટે મોંઘવારી ભથ્થા પર એક મોટી અપડેટ, જાણો",
+    "desc": "કેન્દ્રીય કર્મચારીઓ અને પેન્શનરો માટે જાન્યુઆરી 2026થી ચૂકવવાપાત્ર મોંઘવારી ભથ્થા (DA)ની રાહ ટૂંક સમયમાં સમાપ્ત થઈ શકે છે. સરકાર આ સમયે જાહેરાત કરી શકે છે. ચાલો ગણતરી સાથે જાણીએ કે વધારો કેટલો થઈ શકે છે અને કેટલો પગાર હાથમાં આવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/the-remaining-arrears-will-be-paid-in-this-month-salary-a-big-update-on-dearness-allowance-employees-know-469449 ",
+    "time": "2026-03-20T16:35:22.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "1000 કિમી લાંબી પટ્ટીએ કેવી રીતે બગાડ્યું 3-3 દેશોનું હવામાન? કેમ પડ્યો વરસાદ, જાણો",
     "desc": "હવામાન પરિવર્તને હવામાન ચક્રને સંપૂર્ણપણે વિક્ષેપિત કરી દીધું છે. તાજેતરના એક અહેવાલમાં મુંબઈ અને કાશ્મીરમાં વધતી ગરમી અંગે ચિંતા વ્યક્ત કરવામાં આવી હતી. આ દરમિયાન, ગુરુવારે બગડેલા હવામાનમાં શુક્રવારે કોઈ સુધારો થયો નથી. આ માટે 1,000 કિલોમીટર લાંબા પટ્ટીને જવાબદાર ઠેરવવામાં આવી રહ્યો છે.",
@@ -468,15 +495,6 @@ const newsData_gu = [
     "time": "2026-03-18T09:58:47.000Z"
   },
   {
-    "cat": "Business",
-    "title": "તૈયાર રાખજો રૂપિયા! Jio લાવી રહ્યું છે દેશનો સૌથી મોટો IPO, આ મહિનાના અંત સુધીમાં આવી શકે મોટું અપડેટ",
-    "desc": "Jioનો IPO ભારતનો અત્યાર સુધીનો સૌથી મોટો IPO સાબિત થઈ શકે છે. સૌથી મહત્વની વાત એ છે કે, અબજોપતિ મુકેશ અંબાણીની મુખ્ય કંપની રિલાયન્સની કોઈ મોટી પેટા કંપનીનો આશરે બે દાયકામાં આ પ્રથમ IPO હશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/jio-is-bringing-the-countrys-largest-ipo-a-major-update-is-expected-by-the-end-of-this-month-469078 ",
-    "time": "2026-03-18T08:50:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "થઈ ગયો ખુલાસો... સૂર્યાને કેપ્ટન બનાવવામાં ગંભીર નહીં, આ 4 લોકોનો છે હાથ, નામ જાણીને ચોંકી જશો!",
     "desc": "સૂર્યકુમાર યાદવને કેપ્ટન બનાવવામાં કોણે મહત્વનો ભાગ ભજવ્યો ? તમે વિચારી રહ્યા હશો કે ગૌતમ ગંભીરે તેને કેપ્ટન બનાવવામાં મદદ કરી હતી, પરંતુ હકીકતમાં સૂર્યાના નામનો ઉલ્લેખ ગંભીરે નહીં પણ આ ચાર લોકોએ કર્યો હતો. ત્યારે આ 4 લોકો કોણ છે અને હાર્દિકના બદલે સૂર્યાને કેમ કેપ્ટન બનાવાયો, તેના વિશે આ લેખમાં જાણીશું.",
@@ -486,15 +504,6 @@ const newsData_gu = [
     "time": "2026-03-18T08:40:13.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોનું-ચાંદી સસ્તું થયું: ભાવમાં ₹1.68 લાખ સુધીનો ઘટાડો, જાણો હવે ક્યારે વધશે કિંમત?",
-    "desc": "હાલમાં સૌથી વધુ તેજી મંદી એ સોના અને ચાંદીમાં થાય છે. છેલ્લા કેટલાક મહિનાથી સોના અને ચાંદીના ભાવમાં મોટો ઘટાડો થયો છે. જેને પગલે Gold-Silver ETFsના ભાવ બહુ ઝડપથી ઘટ્યા છે. ચાંદી હાલમાં રેકોર્ડથી 40 ટકા નીચે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-drop-is-this-the-right-time-to-buy-469073 ",
-    "time": "2026-03-18T08:23:06.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "90s ની ફિલ્મોમાં પણ હતો ડબલ મિનિંગ ગીતોનો ટ્રેંડ, જુહી-કરિશ્મા સહિતની અભિનેત્રીઓ કરી ચુકી છે આવા ગીતો",
     "desc": "ઈંટરનેટ પર ચારેતરફ નોરા ફતેહીના ચુનર તેરી સરકે ગીતની ચર્ચાઓ થઈ રહી છે. આ ગીતને અશ્લીલ શબ્દોના કારણે યુટ્યુબ પરથી હટાવી દેવામાં આવ્યું છે. જો કે આ પહેલું ગીત નથી જેમાં અશ્લીલ શબ્દો અને ડાન્સ દેખાડ્યો હોય. યુટ્યુબ પર આવા ગીતો આજે પણ છે જે લોકપ્રિય થયા છે.",
@@ -502,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/5-double-meaning-song-of-bollywood-90s-filmy-song-with-bad-lyrics-nora-fatehi-song-controversy-469077 ",
     "time": "2026-03-18T08:18:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આજે પણ ભાવમાં ભારે ઘટાડો, સોનું-ચાંદી અકલ્પનીય સ્તરે પહોંચ્યા! જાણો દાગીના-લગડી માટેનો આજનો રેટ",
-    "desc": "જે લોકો લગ્નગાળા, પ્રસંગો માટે કે દાગીના લગડી માટે સોનું ખરીદવાનું વિચારતા હોય તેમના માટે સારા સમાચાર છે કારણે સોના-ચાંદી સતત ઘટીને અકલ્પનીય સપાટી પર પહોંચી ગયા છે. સોનું 1.55 લાખ આસપાસ અને ચાંદી 2.50 લાખ આસપાસ પહોંચી ગઈ છે. લેટેસ્ટ રેટ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-fell-again-today-if-you-are-thinking-of-buying-know-the-latest-rates-469072 ",
-    "time": "2026-03-18T07:21:48.000Z"
   },
   {
     "cat": "Sports",
@@ -655,15 +655,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/cricket-queens-indian-women-cricketers-in-class-5-textbook-468700 ",
     "time": "2026-03-16T01:30:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કોણ છે શ્વેતા પુંડીર? જેની સાથે યશ દયાલે કર્યા લગ્ન, ફોટા અને રીલ્સ થઈ રહી છે વાયરલ",
-    "desc": "RCBના ફાસ્ટ બોલર યશ દયાલની દુલ્હન શ્વેતા પુંડીર કોણ છે? જેની સાથે યશ દયાલે લગ્ન કરી લીધા છે અને હવે સોશિયલ મીડિયા પર તેમના ફાટા અને રીલ્સ ખૂબ જ વાયરલ થઈ રહી છે. રિપોર્ટ અનુસાર, તેમણે 4 ફેબ્રુઆરીએ જ લગ્ન કરી લીધા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/yash-dayal-shweta-pundir-wedding-rcb-bowler-marriage-who-is-shweta-pundir-468756 ",
-    "time": "2026-03-15T17:05:08.000Z"
   },
   {
     "cat": "Tech",

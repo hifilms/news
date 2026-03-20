@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shreyas Iyer committed to win IPL in 2026, says 'my eye is on the trophy'",
+    "desc": "Punjab Kings captain Shreyas Iyer has set his sights firmly on the IPL title in 2026, after narrowly missing out in 2025, losing to Royal Challengers Bengaluru in the final. The side reached the final...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-committed-to-win-ipl-in-2026-says-my-eye-is-on-the-trophy-2026-03-20-1034543",
+    "time": "2026-03-20T18:24:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "International Masters League 2 will begin on October 24; Mumbai, Vadodara, Vizag to host",
+    "desc": "Cricket fans can brace themselves for another electrifying chapter of the International Masters League (IML), as the much-anticipated Season 2 prepares to make its return to Indian shores. After a successful debut season, the league...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/international-masters-league-2-will-begin-on-october-24-mumbai-vadodara-vizag-to-host-2026-03-20-1034542",
+    "time": "2026-03-20T18:08:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cristiano Ronaldo omitted from Portugal squad for friendlies before FIFA World Cup 2026, coach explains reason",
+    "desc": "Cristiano Ronaldo has been excluded from Portugal’s squad for the upcoming pre-World Cup friendlies against Mexico and the United States as he recovers from a hamstring injury. The 41-year-old has not appeared for his Saudi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-omitted-from-portugal-squad-for-friendlies-before-fifa-world-cup-2026-coach-explains-reason-2026-03-20-1034540",
+    "time": "2026-03-20T17:51:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Angkrish Raghuvanshi smacks century in KKR's intra-squad practice match, Kartik Tyagi impresses",
+    "desc": "Angkrish Raghuvanshi gave a strong indication of his preferred batting role during a Kolkata Knight Riders intra-squad match at Eden Gardens. He delivered a match-winning century in the game while batting at number three. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/angkrish-raghuvanshi-smacks-century-in-kkr-s-intra-squad-practice-match-kartik-tyagi-impresses-2026-03-20-1034535",
+    "time": "2026-03-20T17:25:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Laxman Sivaramakrishnan announces retirement from BCCI commentary, accuses board of racism",
+    "desc": "Former India cricketer Laxman Sivaramakrishnan has announced his decision to retire from commentary assignments with the Board of Control for Cricket in India (BCCI). He has served for over two decades, spanning international, domestic and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/laxman-sivaramakrishnan-announces-retirement-from-bcci-commentary-accuses-board-of-racism-2026-03-20-1034532",
+    "time": "2026-03-20T16:20:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rishabh Pant reflects on physical and mental preparation ahead of IPL 2026",
+    "desc": "Lucknow Super Giants captain Rishabh Pant failed to live up to the potential in IPL 2025. The keeper-batter made 269 runs in 14 matches at a strike rate of 133.16 last season, which includes a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-reflects-on-physical-and-mental-preparation-ahead-of-ipl-2026-2026-03-20-1034530",
+    "time": "2026-03-20T15:49:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England announce squad for friendlies before FIFA World Cup, Tuchel explains reason behind dropping Trent",
     "desc": "England manager Thomas Tuchel has named a 35-man squad for the upcoming friendlies against Uruguay and Japan, offering the final opportunity for players to stake their claim ahead of the FIFA World Cup this summer....",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/when-will-matheesha-pathirana-join-kkr-squad-for-ipl-2026-head-coach-abhishek-nayar-confirms-2026-03-20-1034505",
     "time": "2026-03-20T12:09:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK's star Australia all-rounder set to miss initial few games of IPL 2026",
-    "desc": "Chennai Super Kings all-rounder Matthew Short is set to miss the initial few games of the Indian Premier League (IPL) 2026. As reported by Cricbuzz, the Australia international is currently dealing with a fractured thumb...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-s-star-australia-all-rounder-set-to-miss-initial-few-games-of-ipl-2026-nathan-ellis-ruled-out-2026-03-20-1034489",
-    "time": "2026-03-20T10:38:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand take the lead against South Africa, register dominant win in third T20I",
-    "desc": "New Zealand and South Africa continued their ongoing five-game T20I series by taking on each other in the third T20I. The two sides locked horns at Eden Park in Auckland on March 20, and the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-take-the-lead-against-south-africa-register-dominant-win-in-third-t20i-2026-03-20-1034480",
-    "time": "2026-03-20T09:33:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'This is very important': Irfan Pathan shares his wisdom with superstar youngster ahead of IPL 2026",
-    "desc": "The 19th edition of the IPL (Indian Premier League) is slated to kick off on March 28. Ahead of the new season, many fans would be looking forward to the performances of 14-year-old India youngster...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/this-is-very-important-irfan-pathan-shares-his-wisdom-with-superstar-youngster-ahead-of-ipl-2026-2026-03-20-1034470",
-    "time": "2026-03-20T08:34:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals' probable playing XI for IPL 2026: Adam Milne IN, Nandre Burger OUT?",
-    "desc": "The 19th edition of the IPL (Indian Premier League) is all set to kick off on March 28, and ahead of the new season, many fans would be wondering what the probable XI of their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-probable-playing-xi-for-ipl-2026-adam-milne-in-nandre-burger-out-2026-03-20-1034461",
-    "time": "2026-03-20T07:26:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand defeat South Africa by eight wickets",
-    "desc": "New Zealand and South Africa lock horns in the third T20I of the ongoing five-game series. The teams face off at Eden Park in Auckland. Currently, the series is on level terms, with both teams...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-sa-3rd-t20i-live-score-south-africa-hope-for-good-start-with-the-bat-2026-03-20-1034453",
-    "time": "2026-03-20T06:34:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Wayne Rooney vs Neymar debate trending on social media? Check what sparked the debate",
-    "desc": "The debate on who is better – such discussions are way too common in the world of sports, with fans arguing over the skills of Lionel Messi and the flair of Cristiano Ronaldo for several...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-is-wayne-rooney-vs-neymar-debate-trending-on-social-media-check-what-sparked-the-debate-2026-03-20-1034447",
-    "time": "2026-03-20T05:58:26.000Z"
   }
 ];
