@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When will Matheesha Pathirana join KKR squad for IPL 2026? Head coach Abhishek Nayar confirms",
+    "desc": "Matheesha Pathirana is set to miss the opening matches of IPL 2026, with Kolkata Knight Riders head coach Abhishek Nayar confirming the update during a press conference. He revealed that the franchise has been in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-will-matheesha-pathirana-join-kkr-squad-for-ipl-2026-head-coach-abhishek-nayar-confirms-2026-03-20-1034505",
+    "time": "2026-03-20T12:09:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK's star Australia all-rounder set to miss initial few games of IPL 2026",
+    "desc": "Chennai Super Kings all-rounder Matthew Short is set to miss the initial few games of the Indian Premier League (IPL) 2026. As reported by Cricbuzz, the Australia international is currently dealing with a fractured thumb...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-s-star-australia-all-rounder-set-to-miss-initial-few-games-of-ipl-2026-nathan-ellis-ruled-out-2026-03-20-1034489",
+    "time": "2026-03-20T10:38:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "New Zealand take the lead against South Africa, register dominant win in third T20I",
     "desc": "New Zealand and South Africa continued their ongoing five-game T20I series by taking on each other in the third T20I. The two sides locked horns at Eden Park in Auckland on March 20, and the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcb-to-look-for-government-clearance-for-players-psl-participation-amid-regional-tensions-2026-03-20-1034425",
     "time": "2026-03-20T02:43:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'No replacement for Sanju bhaiya': Riyan Parag weighs in on Samson's trade to CSK ahead of IPL 2026",
-    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee tournament will kick off on March 28, and ahead of the new season, many eyes will be set upon...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/riyan-parag-weighs-in-on-samson-s-trade-to-csk-ahead-of-ipl-2026-2026-03-20-1034420",
-    "time": "2026-03-20T01:37:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Matheesha Pathirana likely to play KKR's first IPL 2026 opener vs SRH; NOC to be given next week",
-    "desc": "Matheesha Pathirana is very likely to be available for Kolkata Knight Riders’ opening IPL 2026 match against Sunrisers Hyderabad. The pacer had earlier picked up a hamstring injury during the T20 World Cup, which ruled...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/matheesha-pathirana-likely-to-play-kkr-s-first-ipl-2026-opener-vs-srh-noc-to-be-given-next-week-2026-03-19-1034409",
-    "time": "2026-03-19T18:00:03.000Z"
   }
 ];

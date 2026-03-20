@@ -1,12 +1,66 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "LPG બાદ હવે ઇન્ટરનેટ પર જોખમ? સ્ટ્રેટ ઓફ હોર્મુઝમાં કેબલ કપાય તો ભારતમાં સર્જાઈ શકે છે મોટું સંકટ!",
+    "desc": "ઇરાન, અમેરિકા અને ઇઝરાયેલ વચ્ચેના ગલ્ફમાં ચાલી રહેલા યુદ્ધને કારણે સ્ટ્રેટ ઓફ હોર્મુઝમાં સમુદ્રની નીચે બિછાવેલા ઇન્ટરનેટ કેબલોને નુકસાન પહોંચવાનો ડર છે. મીડિયા રિપોર્ટ્સ અનુસાર, આ કેબલોને કોઈપણ નુકસાન થવા પર ઇન્ટરનેટ કનેક્ટિવિટીને અસર કરી શકે છે. ભારત પણ આનાથી બાકાત રહેશે નહીં. જો કેબલ કાપી નાખવામાં આવે છે, તો સમસ્યાનું નિરાકરણ લાવવામાં સમય લાગી શકે છે, કારણ કે સમારકામનું કામ વિશેષ જહાજો દ્વારા કરવામાં આવે છે અને જહાજોની અવરજવર આ વિસ્તારમાં ગંભીર રીતે પ્રભાવિત છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/after-lpg-there-now-a-risk-to-the-internet-if-the-cable-in-the-strait-of-hormuz-is-cut-a-major-crisis-can-arise-in-india-469404 ",
+    "time": "2026-03-20T12:44:59.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "60 વર્ષ પછી શરૂ થયું ખતરનાક વર્ષ, 2026માં વિશ્વના નકશા પરથી ભૂંસાઈ જશે અનેક દેશ? જ્યોતિષીની વિશ્વયુદ્ધ અને તખ્તાપલટની મોટી ભવિષ્યવાણી",
+    "desc": "હિન્દુ નવું વર્ષ, વિક્રમ સંવત 2083, રુદ્ર સંવત્સર તરીકે ઓળખાય છે, જે શરૂ થઈ ગયું છે. રુદ્ર સંવત્સર 60 વર્ષ પછી આવ્યું છે, અને જ્યોતિષશાસ્ત્ર અનુસાર, તે સમગ્ર વિશ્વમાં પરિવર્તન લાવી શકે છે. જ્યોતિષીઓએ તેના વિશે ચિંતાજનક ભવિષ્યવાણીઓ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/dangerous-year-has-begun-after-60-years-astrologer-big-prediction-of-world-war-and-coup-469394 ",
+    "time": "2026-03-20T11:30:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "જેનો ડર હતો એ જ થયું, રાતોરાત પેટ્રોલના ભાવમાં રૂપિયા 2નો વધારો : જાણો તમારા શહેરનો આજે કેટલો છે પેટ્રોલ અને ડીઝલનો ભાવ",
+    "desc": "ક્રૂડ ઓઈલના ભાવમાં સતત વધારાની અસર હવે પાવર અને પ્રીમિયમ પેટ્રોલના ભાવને થઈ છે. આજે પ્રિમીયમ અને પાવર પેટ્રોલના ભાવમાં 2.09 રૂપિયાનો વધારો થઈ ગયો છે. શું તમે પણ જાણવા માગો છો કે ગુજરાતના મેગા શહેરોમાં આજે પેટ્રોલ અને ડીઝલનો ભાવ કેટલો છે તો આર્ટિકલ તમારા માટે જ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/premium-petrol-price-hike-find-out-what-the-price-of-petrol-and-diesel-is-in-your-city-today-469379 ",
+    "time": "2026-03-20T10:48:06.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "પોસ્ટપેડ લેતા પહેલા આ માહિતી જરૂર વાંચો…Jio, Airtel કે Vi કઈ કંપનીનો પ્લાન છે સસ્તો અને શ્રેષ્ઠ?",
+    "desc": "શું તમે પ્રીપેડથી પોસ્ટપેઇડ પર સ્વિચ કરવાનું વિચારી રહ્યા છો? Jio, Airtel અને Vi બધા જ સુંદર પ્લાન ઓફર કરે છે, પરંતુ કયો પ્લાન વાસ્તવિક લાભ આપે છે? શું તમે મોંઘો પ્લાન પસંદ કરીને નુકસાનનું જોખમ લઈ રહ્યા છો? હકીકત જાણો અને પછી યોગ્ય પસંદગી કરો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/jio-airtel-vi-news-of-which-company-offers-the-cheapest-and-best-postpaid-plan-469389 ",
+    "time": "2026-03-20T10:35:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "દેશમાં લાગુ થયું નવું ટેક્સ માળખું; HRA થી લઈને બાળકોના શિક્ષણ સુધી, જાણો શું-શું બદલાશે?",
+    "desc": "ભારતીય કરદાતાઓ માટે આજે એક ઐતિહાસિક દિવસ છે. કેન્દ્ર સરકારે Income-tax Rules, 2026 સત્તાવાર રીતે જાહેર (Notify) કર્યા છે. 1 એપ્રિલ 2026 થી અમલમાં આવનારા 'નવા આવકવેરા અધિનિયમ, 2025' ને લાગુ કરવા તરફનું આ સૌથી મોટું પગલું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/income-tax-rules-2026-new-tax-regime-implemented-in-the-country-from-hra-to-childrens-education-469378 ",
+    "time": "2026-03-20T10:06:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મિડલ ઈસ્ટમાં ચાલતા યુદ્ધની અસર! પેટ્રોલના ભાવમાં વધારો ઝીંકાયો, જાણો લેટેસ્ટ રેટ",
+    "desc": "મિડલ ઈસ્ટમાં ઈરાન અને ઈઝરાયેલ અમેરિકા વચ્ચે ચાલી રહેલા યુદ્ધને પગલે હવે ભારતમાં પણ પેટ્રોલના ભાવમાં વધારો જોવા મળતા સામાન્ય નાગરિકને મોટો ઝટકો મળ્યો છે. ઓઈલ કંપનીઓએ પ્રીમિયમ પેટ્રોલના ભાવમાં વધારો કર્યો છે. વધુ વિગતો માટે વાંચો અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/speed-power-premium-petrol-rate-increased-by-2-09-rs-per-liter-check-latest-petrol-rate-469370 ",
+    "time": "2026-03-20T09:55:21.000Z"
+  },
+  {
+    "cat": "World",
     "title": "રાતોરાત દુનિયામાંથી 1/3 હિલિયમ ગાયબ :  ભારત સહિત 12 દેશોમાં ફફડાટ, જાણો હવે કઈ વસ્તુઓના વધશે ભાવ કે બંધ થશે",
     "desc": "ઈરાને કતરના રાસ લાફાન હિલિયમ પ્લાન્ટ પર હુમલો કરતાં આખી દુનિયા ફફડી ગઈ છે. ટેક અને મેડિકલ ઈન્ડસ્ટ્રીઝ લાઈફ સપોર્ટ પર આવી ગઈ છે. સેમસંગ, TSMC, SK Hynix જેવી ચીપ ફેક્ટરીઓ અને MRI મશીનો હવે સંકટમાં આવી ગઈ છે. ઈરાનના આ હુમલાથી દક્ષિણ કોરિયા, તાઈવાન, જાપાન, ભારત અને અમેરિકા સહિત 12 દેશો ફફડાટ છે. હવે જાણી લો કઈ પ્રોડક્ટસના વધી જશે ભાવ...",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/helium-crisis-flurry-in-12-countries-including-india-know-which-items-will-become-expensive-iran-israel-us-war-469375 ",
-    "time": "2026-03-20T09:37:46.000Z"
+    "time": "2026-03-20T09:41:51.000Z"
   },
   {
     "cat": "Business",
@@ -16,15 +70,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/lpg-gas-booking-timings-kitchen-gas-cylinder-booking-schedule-changed-is-the-24-hour-service-suspended-469372 ",
     "time": "2026-03-20T09:28:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "મિડલ ઈસ્ટમાં ચાલતા યુદ્ધની અસર! પેટ્રોલના ભાવમાં વધારો ઝીંકાયો, જાણો લેટેસ્ટ રેટ",
-    "desc": "મિડલ ઈસ્ટમાં ઈરાન અને ઈઝરાયેલ અમેરિકા વચ્ચે ચાલી રહેલા યુદ્ધને પગલે હવે ભારતમાં પણ પેટ્રોલના ભાવમાં વધારો જોવા મળતા સામાન્ય નાગરિકને મોટો ઝટકો મળ્યો છે. ઓઈલ કંપનીઓએ પ્રીમિયમ પેટ્રોલના ભાવમાં વધારો કર્યો છે. વધુ વિગતો માટે વાંચો અહેવાલ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/speed-power-premium-petrol-rate-increased-by-2-09-rs-per-liter-check-latest-petrol-rate-469370 ",
-    "time": "2026-03-20T09:27:42.000Z"
   },
   {
     "cat": "Business",
@@ -477,15 +522,6 @@ const newsData_gu = [
     "time": "2026-03-18T05:59:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "હવે મમતા બેનર્જીએ પણ અપનાવ્યો ભાજપનો &amp;#039;વિનિંગ ફોર્મ્યૂલા&amp;#039;, ગુજરાતમાં વિરોધીઓના સૂપડાં થઈ જાય છે સાફ!",
-    "desc": "ભાજપે જે વિનિંગ ફોર્મ્યૂલાની શરૂઆત ગુજરાતથી કરી અને પછી તેની સફળતા બીજે પણ અજમાવી હવે એ જ ફોર્મ્યૂલા જાણે બંગાળમાં મમતા બેનર્જી પણ અજમાવતા જોવા મળી રહ્યા છે. જેના પગલે તેઓ ફરીથી બંપર જીત સાથે સત્તામાં પાછા ફરવાના સપના સેવી રહ્યા છે. શું ભાજપનો આ ફોર્મ્યૂલા અપનાવીને ટીએમસીને ભાજપ જેવી જીત મળશે? ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/explainer-has-mamata-banerjee-also-adopted-bjp-winning-formula-successful-in-gujarat-469052 ",
-    "time": "2026-03-18T04:56:11.000Z"
-  },
-  {
     "cat": "World",
     "title": "હોર્મુઝ જળમાર્ગ ખોલાવવા માટે અમેરિકાએ મોરચો સંભાળ્યો, 2200 કિલોનો મહાબોમ્બ ઝીંક્યો",
     "desc": "ઈરાને ઈઝરાયેલ અને અમેરિકા સાથે યુદ્ધના પગલે વેપાર માટે મહત્વના ગણાતા હોર્મુઝ જળમાર્ગને બંધ કર્યો તો અનેક દેશો બૂમ પાડી ઉઠ્યા. હવે અમેરિકાએ આ હોર્મુઝ જળમાર્ગને ખોલાવવા માટે મોરચો સંભાળતા મોટી કાર્યવાહી હાથ ધરી છે. જાણો વિગતો.",
@@ -549,15 +585,6 @@ const newsData_gu = [
     "time": "2026-03-17T05:30:51.000Z"
   },
   {
-    "cat": "World",
-    "title": "કેવી રીતે ગયો હશે આ ભારતીય વિદ્યાર્થીનો જીવ! કેનેડાનો દિલ હચમચાવી નાંખે તેવો કિસ્સો!",
-    "desc": "ઉજ્જૈનના એક યુવાન જે નોર્ધન લાઇટ્સ કોલેજમાં બિઝનેસ મેનેજમેન્ટનો અભ્યાસ કરવા માટે કેનેડા ગયો હતો, તેની હત્યા કરવામાં આવી હતી. કોલેજના વિદ્યાર્થીઓ વચ્ચે ગેંગ વોર દરમિયાન તેનું અપહરણ કરવામાં આવ્યું હતું, ક્રૂરતાથી હુમલો કરવામાં આવ્યો હતો અને પછી કાર દ્વારા કચડી નાખવામાં આવ્યો હતો. આ ક્રૂર હત્યા છતાં કેનેડિયન પોલીસે તાત્કાલિક કસ્ટડીમાં રહેલા આઠ શંકાસ્પદોને છોડી દીધા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/ujjain-student-killed-in-canada-had-gone-to-study-business-management-at-northern-lights-college-468908 ",
-    "time": "2026-03-17T04:33:59.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "કાળઝાળ ગરમીમાં આ ટેમ્પરેચર પર રાખો AC, અડધું થઈ જશે વીજળીનું બિલ !",
     "desc": "ઉનાળાની કાળઝાળ ગરમીમાં એર કંડિશનર (AC) રાહત આપે છે, પરંતુ જ્યારે મહિનાના અંતે વીજળીનું બિલ આવે છે, ત્યારે મોટા ભાગના લોકો પણ પરસેવાથી છુટી જાય છે. લોકો ઘણીવાર એવું માને છે કે જો તેઓ ઠંડક ઇચ્છતા હોય, તો તેમણે મોટું બિલ ચૂકવવું પડશે, પરંતુ આ સંપૂર્ણપણે સાચું નથી.",
@@ -565,24 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/keep-the-ac-at-this-temperature-in-the-scorching-heat-your-electricity-bill-will-be-reduced-468905 ",
     "time": "2026-03-17T03:56:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "પાકિસ્તાને કાબુલમાં હોસ્પિટલ પર કરેલી એરસ્ટ્રાઈકમાં 400ના મોત, નશાની લત છોડાવવા આવ્યા હતાં લોકો",
-    "desc": "અફઘાનિસ્તાને મોટો દાવો કર્યો છે કે પાકિસ્તાને કાબુલમાં એક રિહેબ સેન્ટર પર હુમલો કર્યો જેમાં 400 લોકોના મોત થયા છે જ્યારે 250થી વધુ લોકો ઘાયલ થયા છે. અફઘાનિસ્તાનના આ દાવાને પાકિસ્તાન ફગાવી રહ્યુ છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/afghanistan-claims-400-killed-in-pakistan-airstrike-on-drug-rehabilitation-hospital-in-kabul-468896 ",
-    "time": "2026-03-17T02:46:58.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાન-ઈઝરાયેલ યુદ્ધ વચ્ચે ચર્ચામાં આવ્યું 130 વર્ષ જૂનું હિન્દુ મંદિર, જાણો ગુજરાત સાથે શું છે કનેક્શન?",
-    "desc": "ઈરાનમાં હિન્દુઓની સંખ્યા ઘણી ઓછી છે, પરંતુ હોર્મુઝ પાસે આવેલા બંદર અબ્બાસમાં ભગવાન વિષ્ણુને સમર્પિત લગભગ 130 વર્ષ જૂનું એક હિન્દુ મંદિર આવેલું છે. એવું કહેવાય છે કે, આ મંદિરનું નિર્માણ બ્રિટિશ ઈસ્ટ ઈન્ડિયા કંપનીમાં કામ કરતા ભારતીયો દ્વારા કરવામાં આવ્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-israel-us-war-130-year-old-hindu-temple-came-into-the-spotlight-know-what-is-its-connection-with-gujarat-468894 ",
-    "time": "2026-03-16T18:02:29.000Z"
   },
   {
     "cat": "Tech",
@@ -790,15 +799,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/upcoming-mid-size-suv-in-2026-new-duster-ebella-kushaq-will-launch-468071 ",
     "time": "2026-03-11T04:59:10.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "સિલિન્ડરના 900 ખર્ચવાનું ભૂલી જાઓ! હવે 5000 રૂપિયાના વન-ટાઇમ રોકાણ સાથે રસોડું બનશે સ્માર્ટ અને Gas-Free, જાણો કેવી રીતે",
-    "desc": "દેશભરમાં LPGને લઈને પેનિકની સ્થિતિ બની રહી છે. મિડલ ઈસ્ટમાં ચાલી રહેલા યુદ્ધને તેનું કારણ બતાવવામાં આવી રહ્યું છે. સિલિન્ડરના ભાવમાં વધારો થયો છે અને ઘણા રાજ્યોમાં સિલિન્ડર કાળા બજારમાં બમણા ભાવે વેચાઈ રહ્યા છે. આ પરિસ્થિતિનો સામનો કરવા માટે તમે GAS Free Cooking પસંદ કરી શકો છો. તે એક સસ્તું ઉકેલ છે. ચાલો જોઈએ કે તમારા રસોડાને ગેસ-ફ્રી કેવી રીતે બનાવવું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/middle-east-war-cheaper-options-gas-free-kitchen-lpg-cylinder-price-hike-one-time-investment-your-kitchen-will-become-smart-know-467997 ",
-    "time": "2026-03-10T11:25:11.000Z"
   },
   {
     "cat": "Entertainment",
