@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ઈરાન સામે એકજૂથ થઈ દુનિયા, હોર્મુઝને સુરક્ષા પૂરી પાડવા માટે આ દેશોએ કાઢ્યો મોટો તોડ",
+    "desc": "દુનિયાભરમાં ક્રૂડ ઓઈલ અને ગેસની સપ્લાય ચેન ખોરવાય નહીં અને દેશોને ઉર્જા સંકટમાંથી ઉગારવા માટે હવે અનેક દેશો આગળ આવ્યા છે. મિડલ ઈસ્ટમાં વધતા તણાવ વચ્ચે યુરોપ અને જાપાન કઈક મોટું કરવા જઈ રહ્યા હોય તેવા સંકેત મળી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/eu-japan-big-move-about-security-to-strait-of-hormuz-iran-israel-us-war-world-news-in-gujarati-469328 ",
+    "time": "2026-03-20T03:18:21.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "શું બદલાઈ જશે IPLનું નામ ? BCCI પર લાગ્યા આરોપ, કોર્ટે આપ્યો મોટો ચુકાદો",
     "desc": "2026ની સિઝન શરૂ થાય તે પહેલા જ ઇન્ડિયન પ્રીમિયર લીગના નામને લઈને એક મોટો વિવાદ સામે આવ્યો હતો, જેના કારણે તેના નામના ઉપયોગ અંગે પ્રશ્નો ઉભા થયા હતા. જો કે, કોર્ટે હવે આ મામલે પોતાનો ચુકાદો આપ્યો છે, જેનાથી BCCIને મોટી રાહત મળી છે. ત્યારે શું છે સમગ્ર ઘટના તેના વિશે લેખમાં જાણીશું.",
@@ -637,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/cricket-queens-indian-women-cricketers-in-class-5-textbook-468700 ",
     "time": "2026-03-16T01:30:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાને વધારી ઈઝરાયેલ-અમેરિકાની ચિંતા, પહેલીવાર છોડી &amp;#039;ડાન્સિંગ મિસાઈલ&amp;#039;; જાણો મિસાઈલની તાકાત",
-    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલ અમેરિકા-ઈઝરાયેલ અને ઈરાન યુદ્ધના 16મા દિવસે રવિવારે ઈરાને ઈઝરાયેલ અને અમેરિકાના ઠેકાણાઓ પર મોટા પાયે મિસાઈલ હુમલા કર્યા છે. ઈરાની સમાચાર એજન્સી 'પ્રેસ ટીવી' અનુસાર, આ હુમલાઓમાં સ્વદેશી રીતે વિકસિત સેજ્જિલ બેલેસ્ટિક મિસાઈલનો પહેલીવાર ઉપયોગ કરવામાં આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-again-raises-concerns-of-israel-america-releases-dancing-missile-for-the-first-time-know-power-of-the-missile-468757 ",
-    "time": "2026-03-15T17:35:09.000Z"
   },
   {
     "cat": "Sports",

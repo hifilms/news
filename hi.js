@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sanju Samson captured chatting with MS Dhoni ahead of IPL 2026 season",
+    "desc": "With the IPL (Indian Premier League) 2026 season all set to kick off on March 28, many would look forward to the campaign of five-time champions Chennai Super Kings. The side will have the likes...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-captured-chatting-with-ms-dhoni-ahead-of-ipl-2026-season-watch-2026-03-20-1034431",
+    "time": "2026-03-20T03:42:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCB to look for government clearance for players' PSL participation amid regional tensions",
+    "desc": "With the ongoing political dispute between Pakistan and Afghanistan, the dispute is affecting the BCB (Bangladesh Cricket Board) as well. It is worth noting that the 10th edition of the PSL (Pakistan Super League) is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcb-to-look-for-government-clearance-for-players-psl-participation-amid-regional-tensions-2026-03-20-1034425",
+    "time": "2026-03-20T02:43:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'No replacement for Sanju bhaiya': Riyan Parag weighs in on Samson's trade to CSK ahead of IPL 2026",
     "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee tournament will kick off on March 28, and ahead of the new season, many eyes will be set upon...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/paul-stirling-steps-down-as-t20i-captain-ireland-confirm-t20i-series-against-india-2026-03-19-1034380",
     "time": "2026-03-19T13:07:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Star CSK pacer ruled out of IPL 2026, five-time champions in hunt for replacement",
-    "desc": "Chennai Super Kings have been dealt a setback ahead of IPL 2026, with Nathan Ellis sidelined for the season due to a hamstring injury sustained during training. The Australian pacer is unlikely to regain fitness...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/star-csk-pacer-ruled-out-of-ipl-2026-five-time-champions-in-hunt-for-replacement-2026-03-19-1034371",
-    "time": "2026-03-19T12:03:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Yashasvi Jaiswal change batting approach after Sanju Samson's exit? Faf du Plessis analyses",
-    "desc": "In a blockbuster trade deal with Chennai Super Kings, Rajasthan Royals signed Ravindra Jadeja and Sam Curran in exchange for Sanju Samson. The keeper-batter was one of the most dependable batters in the side and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-yashasvi-jaiswal-change-batting-approach-after-sanju-samson-s-exit-faf-du-plessis-analyses-2026-03-19-1034363",
-    "time": "2026-03-19T11:31:06.000Z"
   }
 ];
