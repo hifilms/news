@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'No replacement for Sanju bhaiya': Riyan Parag weighs in on Samson's trade to CSK ahead of IPL 2026",
+    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee tournament will kick off on March 28, and ahead of the new season, many eyes will be set upon...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/riyan-parag-weighs-in-on-samson-s-trade-to-csk-ahead-of-ipl-2026-2026-03-20-1034420",
+    "time": "2026-03-20T01:37:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Matheesha Pathirana likely to play KKR's first IPL 2026 opener vs SRH; NOC to be given next week",
     "desc": "Matheesha Pathirana is very likely to be available for Kolkata Knight Riders’ opening IPL 2026 match against Sunrisers Hyderabad. The pacer had earlier picked up a hamstring injury during the T20 World Cup, which ruled...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/will-yashasvi-jaiswal-change-batting-approach-after-sanju-samson-s-exit-faf-du-plessis-analyses-2026-03-19-1034363",
     "time": "2026-03-19T11:31:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neymar left disappointed after Brazil snub, says 'Hey Ancelotti, what about me?'",
-    "desc": "Despite proving his mettle while playing for Santos this season, Neymar Jr. wasn’t called up for Brazil’s upcoming friendlies against France and Croatia. These are the last two international matches Brazil will play before the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/neymar-left-disappointed-after-brazil-snub-says-hey-ancelotti-what-about-me-watch-2026-03-19-1034353",
-    "time": "2026-03-19T10:34:11.000Z"
   }
 ];
