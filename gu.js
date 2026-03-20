@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "રાતોરાત દુનિયામાંથી 1/3 હિલિયમ ગાયબ :  ભારત સહિત 12 દેશોમાં ફફડાટ, જાણો હવે કઈ વસ્તુઓના વધશે ભાવ કે બંધ થશે",
+    "desc": "ઈરાને કતરના રાસ લાફાન હિલિયમ પ્લાન્ટ પર હુમલો કરતાં આખી દુનિયા ફફડી ગઈ છે. ટેક અને મેડિકલ ઈન્ડસ્ટ્રીઝ લાઈફ સપોર્ટ પર આવી ગઈ છે. સેમસંગ, TSMC, SK Hynix જેવી ચીપ ફેક્ટરીઓ અને MRI મશીનો હવે સંકટમાં આવી ગઈ છે. ઈરાનના આ હુમલાથી દક્ષિણ કોરિયા, તાઈવાન, જાપાન, ભારત અને અમેરિકા સહિત 12 દેશો ફફડાટ છે. હવે જાણી લો કઈ પ્રોડક્ટસના વધી જશે ભાવ...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/helium-crisis-flurry-in-12-countries-including-india-know-which-items-will-become-expensive-iran-israel-us-war-469375 ",
+    "time": "2026-03-20T09:37:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "બદલાઈ ગયો ગેસનો બાટલો બુક કરાવવાનો સમય, 24 કલાકની સેવા બંધ? જાણો નવા નિયમ અને રીત",
+    "desc": "હવે તમારે તમારા રસોઈ ગેસ સિલિન્ડરનું બુકિંગ કરતી વખતે થોડું વધારે સાવધ રહેવાની જરૂર છે. જો તમે દિવસના કોઈપણ સમયે ફોન ઉપાડીને ગેસ બુક કરાવતા હતા, તો હવે તે શક્ય બનશે નહીં. ગેસ એજન્સીઓએ બુકિંગ માટે એક ચોક્કસ સમયપત્રક લાગુ કર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/lpg-gas-booking-timings-kitchen-gas-cylinder-booking-schedule-changed-is-the-24-hour-service-suspended-469372 ",
+    "time": "2026-03-20T09:28:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મિડલ ઈસ્ટમાં ચાલતા યુદ્ધની અસર! પેટ્રોલના ભાવમાં વધારો ઝીંકાયો, જાણો લેટેસ્ટ રેટ",
+    "desc": "મિડલ ઈસ્ટમાં ઈરાન અને ઈઝરાયેલ અમેરિકા વચ્ચે ચાલી રહેલા યુદ્ધને પગલે હવે ભારતમાં પણ પેટ્રોલના ભાવમાં વધારો જોવા મળતા સામાન્ય નાગરિકને મોટો ઝટકો મળ્યો છે. ઓઈલ કંપનીઓએ પ્રીમિયમ પેટ્રોલના ભાવમાં વધારો કર્યો છે. વધુ વિગતો માટે વાંચો અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/speed-power-premium-petrol-rate-increased-by-2-09-rs-per-liter-check-latest-petrol-rate-469370 ",
+    "time": "2026-03-20T09:27:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "કોણ છે આ ગુજરાતી IAS અતનું ચક્રવર્તી? જેના કારણે HDFC બેન્કને 1 દિવસમાં 1 લાખ કરોડનો લાગ્યો છે ઝટકો",
+    "desc": "અતનું ચક્રવર્તી હાલમાં દેશભરમાં સૌથી ચર્ચાસ્પદ નામ છે. જેના એક રાજીનામાથી દેશની બીજા નંબરની સૌથી મોટી બેન્કના એક દિવસમાં એક લાખ કરોડ ડૂબી ગયા છે. તમે ના જાણતા હો તો આ એક ગુજરાતી IAS અધિકારી છે. જેમની પાસે ગુજરાતમાં 30 વર્ષ સુધી સેવા કરવાનો અનુભવ છે. હવે જાણો કે તેમને દેશની સૌથી મોટી ખાનગી બેન્કની નોકરી કેમ છોડી...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/who-is-gujarati-ias-atanu-chakraborty-due-to-which-hdfc-bank-got-a-shock-of-rs-1-lakh-crore-in-1-day-469374 ",
+    "time": "2026-03-20T09:27:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ગુજરાતથી આવ્યા સારા સમાચાર અને રોકેટ બન્યો TATAનો આ શેર, જાણો",
+    "desc": "ગુજરાત સરકારે એક ડીલને મંજૂરી આપી દીધી છે. આ આદેશ હવે તેના પ્રોજેક્ટને શરૂ કરવાની મંજૂરી આપે છે, જેની અસર તેના શેર પર જોવા મળ્યો હતો, અને શેર ઓલ ટાઈમ હાઈ પર પહોંચી ગયો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/good-news-came-from-gujarat-and-this-tata-power-share-rocketed-know-this-469373 ",
+    "time": "2026-03-20T09:12:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;CM મને ધમકાવે છે મારે ઘરે જવું છે પણ મને ધમકીઓ મળી રહી છે&amp;#039;, સુપ્રીમ કોર્ટ પહોંચી મહિલા રાજકારણી",
+    "desc": "મહિલા તરફથી કોર્ટમાં વકીલે કહ્યું કે મને ધમકીઓ મળી રહી છે અને હું કર્ણાટકમાં પ્રવેશ કરી શકતી નથી. મારી સુરક્ષા સાથે ચેડાં કરાઈ રહ્યાં છે. એટલે હું દિલ્હીમાં રહેવા માટે મજબૂર બની છે મને વારંવાર ધમકીઓ મળી રહી છે. એક નેતા સુપ્રીમમાં પહોંચતાં કોર્ટ પણ ચોંકી ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cm-siddaramaiah-issues-threats-woman-approaches-supreme-court-with-complaint-469369 ",
+    "time": "2026-03-20T08:52:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આજે સોનું 4297 રૂપિયા સસ્તું થયું, ઓલટાઈમ હાઈથી 28000 અને ચાંદી 1.52 લાખ સસ્તી, જાણો આજનો ભાવ",
+    "desc": "મિડલ ઈસ્ટમાં ચાલતા યુદ્ધના પગલે હાલ વૈશ્વિક સ્તરે ઉથલપાથલનો માહોલ છે. જેમાં કિંમતી ધાતુઓ સોનું અને ચાંદી પણ સપડાયા છે. આજે રિટેલ બજારમાં સોનું કડાકા સાથે જોવા મળ્યું. છેલ્લા 24 કલાકમાં સોનામાં 4 હજારથી વધુનો ઘટાડો નોંધાયો છે. વધુ વિગતો માટે વાંચો અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-gold-became-cheaper-28000-from-all-time-high-and-check-silver-rate-aaj-no-sona-no-bhav-469365 ",
+    "time": "2026-03-20T07:52:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ધુરંધર 2 એ બનાવ્યો સૌથી મોટો રેકોર્ડ, 2 દિવસમાં જ ફિલ્મની કમાણી 200 કરોડને પાર",
+    "desc": "ધુરંધર 2 ફિલ્મની કમાણીએ સૌથી મોટો ઈતિહાસ રચી દીધો છે. ફિલ્મના પેડ પ્રીવ્યુની કમાણી 43 કરોડ હતી. ત્યારબાદ પહેલા દિવસે જ ફિલ્મની કમાણી 100 કરોડથી વધી હતી. ફિલ્મની વર્લ્ડવાઈડ કમાણી 200 કરોડને પાર પહોંચી ચુકી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-box-office-collection-200-crore-in-2-days-dhurandhar-2-latest-news-469364 ",
+    "time": "2026-03-20T07:18:07.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ગુજરાતમાં અત્યારે વાવાઝોડા જેવો વરસાદ કેમ? 1000 KM લાંબી આ દુર્લભ સિસ્ટમે વૈજ્ઞાનિકોને પણ ચોંકાવ્યા",
     "desc": "ગુજરાત સહિત અનેક રાજ્યોમાં વેસ્ટર્ન ડિસ્ટર્બન્સના કારણે વરસાદી હવામાન જોવા મળ્યું છે. વેસ્ટર્ન ડિસ્ટર્બન્સ તો આવતા રહે છે પરંતુ અત્યારે જે વેસ્ટર્ન ડિસ્ટર્બન્સ જોવા મળ્યું છે તે વિશેષ છે. શું છે એ 1000 કિમી લાંબી વરસાદી પટ્ટીનું રહસ્ય? આ ઉપરાંત હવામાન વિભાગ અને અંબાલાલ શું કહે છે તે પણ જાણો.",
@@ -441,15 +513,6 @@ const newsData_gu = [
     "time": "2026-03-17T16:00:29.000Z"
   },
   {
-    "cat": "Business",
-    "title": "EPFOમાં મોટા ફેરફાર... હવે ગણતરીની કલાકોમાં થશે ક્લેમ સેટલમેન્ટ, પેન્શનર માટે પણ ખાસ સિસ્ટમ",
-    "desc": "EPFOએ ખાનગી ક્ષેત્રના કર્મચારીઓ માટે પ્રક્રિયાઓને વધુ સુવ્યવસ્થિત કરવા માટે ઘણા મોટા ફેરફારો અમલમાં મૂક્યા છે. આ ફેરફારો ક્લેમ સેટલમેન્ટથી લઈને પેન્શન સંબંધિત બાબતો સુધીના વિવિધ મુદ્દાઓને આવરી લે છે. ત્યારે કયા કયા ફેરફારો કરવામાં આવ્યા છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/epfo-rules-change-claim-settlements-pension-rules-469002 ",
-    "time": "2026-03-17T14:32:31.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "WhatsApp, કોલ અને એપથી ઘરે બેઠા-બેઠા આ રીતે બુક કરો LPG સિલિન્ડર, લાંબી લાઈનથી મળશે છુટકારો",
     "desc": "LPG સિલિન્ડર બુક કરાવવા માટે કંપનીઓએ WhatsApp અને એપ આધારિત સેવાઓ ઉપલબ્ધ કરાવી છે. ફોન કોલ દ્વારા પણ બુકિંગ કરી શકાય છે. જો કે, WhatsApp ભારતમાં ખૂબ જ લોકપ્રિય છે, તેથી આ એપ દ્વારા ગેસ સિલિન્ડર પણ બુક કરાવી શકાય છે.",
@@ -468,33 +531,6 @@ const newsData_gu = [
     "time": "2026-03-17T13:46:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "2026માં 226 સીટો જીતીશું, મમતા ઉમેદવારોની જાહેરાત પહેલાં જ ગરજી, દિલ્હીને નહીં જીતવા દઈએ",
-    "desc": "બંગાળમાં 2 ચરમોમાં જાહેર થયેલી ચૂંટણી અંતર્ગત ભાજપ અને કોંગ્રેસે પોતાના ઉમેદવારોની જાહેરાત કરી દીધી છે. મમતાએ આજે 291 ઉમેદવારોના નામોની જાહેરાત કરી દીધી છે. મમતા એ ભાજપના શુભેન્દુ અધિકારી સામે ભવાનીપુર સીટથી લડશે, આ જાહેરાત સમયે મમતાએ જીતની દાવેદારી પણ કરી દીધી છે. જાણી લો ટીએમસીનું શું છે પ્લાનિંગ...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/west-bengal-elections-we-will-win-226-seats-in-2026-mamata-says-even-before-the-announcement-of-candidates-we-will-not-let-delhi-win-468987 ",
-    "time": "2026-03-17T12:30:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મમતાએ 291 ઉમેદવારોનું લિસ્ટ કર્યું જાહેર, CMએ આ સીટ છોડી દીધી, શુભેન્દું સામે લેશે ટક્કર",
-    "desc": "પશ્વિમ બંગાળમાં વિધાનસભાની ચૂંટણી માટે ટીડીપીએ પણ ઉમેદવારોની જાહેરાત કરી દીધી છે. ટીએમસીએ પ્રેસ કોન્ફરન્સ કરીને ઉમેદવારોના નામ જાહેર કર્યા છે. બંગાળની સીએમ મમતા બેનર્જીએ ભવાનીપુરથી ચૂંટણી લડશે. એમની સામે ભાજપના દિગ્ગજ નેતા શુભેન્દુ અધિકારી ઉભા રહ્યાં છે. હવે વિધાનસભા ચૂંટણીમાં ભવાનીપુરની સીટ હોટ સીટ બની ગઈ છે. જોકે, મમતાએ વિધાનસભાની સીટ પરથી ચૂંટણી લડવાનું છોડી દીધું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/mamata-banerjee-will-not-contest-elections-from-nandigram-tmc-releases-first-list-468986 ",
-    "time": "2026-03-17T12:04:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "1 એપ્રિલથી બદલાઈ જશે આ બેંકના નિયમો, તમારા ખિસ્સા પર પડશે સીધી અસર",
-    "desc": "HDFC અને PNB બેંકના લાખો ગ્રાહકો માટે એક મોટા સમાચાર છે. બેંકે તેના સર્વિસ ચાર્જમાં નોંધપાત્ર ફેરફારો લાગુ કરવાનો નિર્ણય લીધો છે, જે 1 એપ્રિલ, 2026થી અમલમાં આવશે. જો તમે આ બેંકના ગ્રાહક છો, તો તમારા ખિસ્સા પર આની સીધી અસર થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/hdfc-and-pnb-bank-rules-change-from-1-april-468982 ",
-    "time": "2026-03-17T11:07:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "વિરાટ અને રોહિત સાથેના અણબનાવ અંગે ગંભીરે પહેલીવાર કર્યો ખુલાસો, જાણો શું કહ્યું",
     "desc": "વિરાટ અને રોહિત સાથેના અણબનાવના અહેવાલો વચ્ચે મુખ્ય કોચ ગૌતમ ગંભીરે જણાવ્યું કે તેઓ પણ માણસ છે અને ભૂલો કરી શકે છે. તેમણે સ્પષ્ટતા કરી હતી કે ફક્ત સાચા ઇરાદા સાથે લેવામાં આવેલા નિર્ણયો જ ખરેખર મહત્વ ધરાવે છે અને તેઓ હંમેશા ડ્રેસિંગ રૂમ પ્રત્યે પ્રામાણિક રહ્યા છે.",
@@ -502,24 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/gautam-gambhirs-big-statement-on-controversy-with-virat-and-rohit-468970 ",
     "time": "2026-03-17T09:32:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ઓલટાઈમ હાઈથી સોનું 20000 અને ચાંદી 1.31 લાખ સસ્તી, ફટાફટ ચેક કરી લો આજનો કેરેટ પ્રમાણે ભાવ",
-    "desc": "કિંમતી ધાતુઓ સોનું અને ચાંદી આજે વધેલા જોવા મળ્યા છે. વાયદા બજારમાં લીલા નિશાન સાથે ટ્રેડ થઈ રહ્યા છે. જ્યારે રિટેલ બજારમાં પણ ઉછાળા સાથે ખુલ્યા છે. પછડાયા બાદ અચાનક ભાવ વધવા પાછળ કયા કારણો જવાબદાર? આ સાથે સોના-ચાંદીના લેટેસ્ટ રેટ્સ પણ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-20000-and-silver-1-31-lakh-cheaper-from-ibja-all-time-high-quickly-check-todays-price-by-carat-468930 ",
-    "time": "2026-03-17T07:42:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આ અઠવાડિયે ઘણા દિવસોમાં બેંકો રહેશે બંધ, જાણો તમારા શહેરમાં ક્યારે છે રજા?",
-    "desc": "જો તમારે માર્ચ મહિનામાં બેંકને લગતું કોઈ મહત્વનું કામ પતાવવાનું હોય, તો ઘરની બહાર નીકળતા પહેલા રજાઓની યાદી ચોક્કસ તપાસી લો. બેંક શાખાએ જતાં પહેલાં એ જાણી લેવું જરૂરી છે કે તમારા શહેરમાં બેંક ખુલ્લી છે કે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/bank-holidays-2026-banks-to-remain-closed-for-several-days-this-week-check-the-rbi-holiday-list-468928 ",
-    "time": "2026-03-17T07:16:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -565,15 +583,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-israel-us-war-130-year-old-hindu-temple-came-into-the-spotlight-know-what-is-its-connection-with-gujarat-468894 ",
     "time": "2026-03-16T18:02:29.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ભારતે જપ્ત કર્યા ઇરાનના ત્રણ ટેન્કર ? હોર્મુઝ સંકટ વચ્ચે ઈરાને ભારત સામે મુકી આ શરતો ? જાણો",
-    "desc": "ઈરાને ભારત દ્વારા જપ્ત કરાયેલા ત્રણ ટેન્કરોને મુક્ત કરવાની માંગ કરી છે, જેના બદલામાં ભારતીય ધ્વજવાળા અથવા ભારત જતા જહાજોને હોર્મુઝની સ્ટ્રેટમાંથી સુરક્ષિત પસાર થવાની મંજૂરી આપવામાં આવે. ખાનગી પોર્ટનલના અહેવાલ મુજબ, તેહરાને આ મુદ્દા પર ભારત સાથેની વાતચીતમાં આ શરત મૂકી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/india-seized-three-iranian-tankers-amidst-the-hormuz-crisis-iran-put-these-conditions-before-india-know-468873 ",
-    "time": "2026-03-16T16:25:42.000Z"
   },
   {
     "cat": "Tech",
@@ -808,14 +817,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/anupama-trolled-on-social-media-anupama-show-leap-with-goa-sixth-man-entry-in-anupama-life-467838 ",
     "time": "2026-03-09T11:44:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અનુ સામે આવશે આર્યનું સૌથી મોટું સત્ય, ગાયત્રી નથી તેની માતા, અનુ લગ્નની પાડી દેશે ના, જાણો",
-    "desc": "ટીવી સીરિયલ 'તુમ સે તુમ તક' માં એક મોટો વળાંક આવ્યો છે. જ્યારે અનુ અને આર્યના લગ્નની ચર્ચા ચાલી રહી હતી, ત્યારે સત્ય બહાર આવ્યું છે. અનુને ખબર પડે છે કે રાજનંદિનીની માતા કોણ છે અને આર્ય કોનો પુત્ર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/anu-will-reveal-aryas-biggest-truth-gayatri-is-not-his-mother-anu-will-break-the-marriage-know-this-467836 ",
-    "time": "2026-03-09T11:27:16.000Z"
   }
 ];

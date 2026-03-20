@@ -1,7 +1,34 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "South Africa hope for good start with the bat",
+    "title": "New Zealand take the lead against South Africa, register dominant win in third T20I",
+    "desc": "New Zealand and South Africa continued their ongoing five-game T20I series by taking on each other in the third T20I. The two sides locked horns at Eden Park in Auckland on March 20, and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-take-the-lead-against-south-africa-register-dominant-win-in-third-t20i-2026-03-20-1034480",
+    "time": "2026-03-20T09:33:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'This is very important': Irfan Pathan shares his wisdom with superstar youngster ahead of IPL 2026",
+    "desc": "The 19th edition of the IPL (Indian Premier League) is slated to kick off on March 28. Ahead of the new season, many fans would be looking forward to the performances of 14-year-old India youngster...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/this-is-very-important-irfan-pathan-shares-his-wisdom-with-superstar-youngster-ahead-of-ipl-2026-2026-03-20-1034470",
+    "time": "2026-03-20T08:34:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals' probable playing XI for IPL 2026: Adam Milne IN, Nandre Burger OUT?",
+    "desc": "The 19th edition of the IPL (Indian Premier League) is all set to kick off on March 28, and ahead of the new season, many fans would be wondering what the probable XI of their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-probable-playing-xi-for-ipl-2026-adam-milne-in-nandre-burger-out-2026-03-20-1034461",
+    "time": "2026-03-20T07:26:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand defeat South Africa by eight wickets",
     "desc": "New Zealand and South Africa lock horns in the third T20I of the ongoing five-game series. The teams face off at Eden Park in Auckland. Currently, the series is on level terms, with both teams...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/matheesha-pathirana-likely-to-play-kkr-s-first-ipl-2026-opener-vs-srh-noc-to-be-given-next-week-2026-03-19-1034409",
     "time": "2026-03-19T18:00:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunrisers Hyderabad's overseas all rounder ruled out of IPL 2026",
-    "desc": "Sunrisers Hyderabad all-rounder Jack Edwards has been ruled out of the IPL 2026. The Australia international played just one T20I match in his career, but impressed head coach Daniel Vettori and captain Pat Cummins, which...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-s-overseas-all-rounder-ruled-out-of-ipl-2026-2026-03-19-1034406",
-    "time": "2026-03-19T17:16:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings' star pacer to miss first few games of IPL 2026, explains reason",
-    "desc": "Punjab Kings pacer Lockie Ferguson is expected to miss a significant portion of the first half of the IPL 2026. The New Zealand pacer delayed his arrival in India following the birth of his child...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-star-pacer-to-miss-first-few-games-of-ipl-2026-explains-reason-2026-03-19-1034399",
-    "time": "2026-03-19T16:28:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 cricketers who can replace Nathan Ellis in CSK squad for IPL 2026",
-    "desc": "Chennai Super Kings pacer Nathan Ellis has been ruled out of the IPL 2026, owing to a hamstring injury. CEO Kasi Vishwanathan has confirmed the development, stating that they are currently in search for possible...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/3-cricketers-who-can-replace-nathan-ellis-in-csk-squad-for-ipl-2026-2026-03-19-1034397",
-    "time": "2026-03-19T16:04:50.000Z"
   }
 ];
