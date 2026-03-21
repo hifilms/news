@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sri Lanka players instructed to clear fitness tests to get NOCs for IPL 2026",
+    "desc": "The IPL (Indian Premier League) 2026 is right around the corner, and the marquee event is all set to kick off on March 28. Ahead of the start of the tournament, SLC (Sri Lanka Cricket)...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-players-instructed-to-clear-fitness-tests-to-get-nocs-for-ipl-2026-2026-03-21-1034588",
+    "time": "2026-03-21T09:24:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gary Kirsten slams Pakistan cricket, opens up on 'difficult' coaching environment",
+    "desc": "Former Pakistan white-ball head coach Gary Kirsten recently came forward and talked about his exit from the side. Branding the environment inside as difficult. Describing a toxic work culture, Kirsten talked about a lack of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gary-kirsten-slams-pakistan-cricket-opens-up-on-difficult-coaching-environment-2026-03-21-1034582",
+    "time": "2026-03-21T08:16:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Riyan Parag advises Vaibhav Suryavanshi to stay away from social media ahead of IPL 2026",
+    "desc": "The 19th edition of the IPL (Indian Premier League) is all set to kick off on March 28, and ahead of the tournament, many fans will look forward to the performance of 14-year-old Vaibhav Suryavanshi....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/riyan-parag-advises-vaibhav-suryavanshi-to-stay-away-from-social-media-ahead-of-ipl-2026-2026-03-21-1034576",
+    "time": "2026-03-21T07:07:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ravichandran Ashwin rates Royal Challengers Bengaluru's chances of defending IPL title",
     "desc": "With the IPL (Indian Premier League) 2026 all set to kick off on March 28, many fans would be backing defending champions Royal Challengers Bengaluru to perform brilliantly once more and get their hands on...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/international-masters-league-2-will-begin-on-october-24-mumbai-vadodara-vizag-to-host-2026-03-20-1034542",
     "time": "2026-03-20T18:08:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo omitted from Portugal squad for friendlies before FIFA World Cup 2026, coach explains reason",
-    "desc": "Cristiano Ronaldo has been excluded from Portugal’s squad for the upcoming pre-World Cup friendlies against Mexico and the United States as he recovers from a hamstring injury. The 41-year-old has not appeared for his Saudi...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-omitted-from-portugal-squad-for-friendlies-before-fifa-world-cup-2026-coach-explains-reason-2026-03-20-1034540",
-    "time": "2026-03-20T17:51:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Angkrish Raghuvanshi smacks century in KKR's intra-squad practice match, Kartik Tyagi impresses",
-    "desc": "Angkrish Raghuvanshi gave a strong indication of his preferred batting role during a Kolkata Knight Riders intra-squad match at Eden Gardens. He delivered a match-winning century in the game while batting at number three. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/angkrish-raghuvanshi-smacks-century-in-kkr-s-intra-squad-practice-match-kartik-tyagi-impresses-2026-03-20-1034535",
-    "time": "2026-03-20T17:25:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Laxman Sivaramakrishnan announces retirement from BCCI commentary, accuses board of racism",
-    "desc": "Former India cricketer Laxman Sivaramakrishnan has announced his decision to retire from commentary assignments with the Board of Control for Cricket in India (BCCI). He has served for over two decades, spanning international, domestic and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/laxman-sivaramakrishnan-announces-retirement-from-bcci-commentary-accuses-board-of-racism-2026-03-20-1034532",
-    "time": "2026-03-20T16:20:06.000Z"
   }
 ];
