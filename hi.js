@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ireland announce ODI series against Afghanistan in August 2026 despite 'moral discomfort'",
+    "desc": "CI (Cricket Ireland) recently came forward and announced a five-game ODI series against Afghanistan. It is worth noting that the bilateral series has been announced despite the board’s moral discomfort over the Taliban's treatment of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ireland-announce-odi-series-against-afghanistan-in-august-2026-despite-moral-discomfort-2026-03-21-1034548",
+    "time": "2026-03-21T01:40:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shreyas Iyer committed to win IPL in 2026, says 'my eye is on the trophy'",
     "desc": "Punjab Kings captain Shreyas Iyer has set his sights firmly on the IPL title in 2026, after narrowly missing out in 2025, losing to Royal Challengers Bengaluru in the final. The side reached the final...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/3-cricketers-who-can-replace-sam-curran-in-rajasthan-royals-squad-for-ipl-2026-2026-03-20-1034516",
     "time": "2026-03-20T13:38:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will Matheesha Pathirana join KKR squad for IPL 2026? Head coach Abhishek Nayar confirms",
-    "desc": "Matheesha Pathirana is set to miss the opening matches of IPL 2026, with Kolkata Knight Riders head coach Abhishek Nayar confirming the update during a press conference. He revealed that the franchise has been in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-will-matheesha-pathirana-join-kkr-squad-for-ipl-2026-head-coach-abhishek-nayar-confirms-2026-03-20-1034505",
-    "time": "2026-03-20T12:09:26.000Z"
   }
 ];
