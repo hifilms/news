@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "HDFC બેંકના શેર હોલ્ડરો માટે મહત્વના સમાચાર, 3 અધિકારીઓની હકાલપટ્ટીથી શેર પર પડશે મોટી અસર!",
+    "desc": "HDFC બેંકમાં તમારું ખાતું હોય તો કે તેના શેરમાં રોકાણ કર્યું હોય તો આ સમાચાર તમારે જાણવા જરૂરી છે. પહેલા તો પાર્ટ ટાઈમ ચેરમેનનું રાજીનામું પડ્યું અવે હવે 3 મોટા અધિકારીઓને કાઢી મૂકવામાં આવ્યા. વધુ વિગતો માટે વાંચો અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-news-hdfc-bank-ask-3-employees-to-resign-for-at1-bond-mis-selling-news-in-gujarati-469462 ",
+    "time": "2026-03-21T04:11:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આ ગુજરાતી ક્રિકેટરે T20માં રચ્યો ઇતિહાસ, વૈભવ સૂર્યવંશી પહેલા તોડ્યો ક્રિસ ગેલનો વર્લ્ડ રેકોર્ડ",
+    "desc": "IPL 2026 પહેલા ક્રિસ ગેલનો T20 ક્રિકેટમાં સૌથી વધુ વ્યક્તિગત સ્કોરનો વર્લ્ડ રેકોર્ડ તૂટી ગયો છે. આ રેકોર્ડ એક ગુજરાતી બેટ્સમેને તોડ્યો છે. તાજેતરમાં આર્ય દેસાઇએ 193 રનની ધમાકેદાર ઇનિંગ રમીને આ વર્લ્ડ રેકોર્ડ તોડ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/gujarat-aarya-desai-creates-history-breaks-chris-gayle-world-record-469461 ",
+    "time": "2026-03-21T03:50:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LPG પર રાહતના સમાચાર! ભારતીય ઝંડાવાળા વધુ 2 જહાજ હોર્મુઝનો પડકાર પાર કરશે",
+    "desc": "હોર્મુઝ જળમાર્ગ બંધ થવાથી દુનિયાના અનેક દેશોમાં ઓઈલ અને ગેસ સંકટ વધી રહ્યું છે. ભારતમાં પણ સ્થિતિ જો આમ જ રહી તો આગળ જતા મુશ્કેલી સર્જાઈ શકે પરંતુ આ બધા વચ્ચે એક રાહતના સમાચાર એ આવ્યા છે કે વધુ બે ભારતીય જહાજ હોર્મુઝ જળમાર્ગ પસાર કરવા જઈ રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-news-on-lpg-2-more-indian-flagged-ships-may-cross-the-strait-of-hormuz-469454 ",
+    "time": "2026-03-21T03:08:26.000Z"
+  },
+  {
     "cat": "World",
     "title": "ક્રૂડ ઓઈલ અને ગેસ જ નહીં, હવે પર્યટન સ્થળો પર પણ ખતરો; ઈદ પર ઈરાનની ધમકીથી દુનિયાભરમાં ફફડાટ",
     "desc": "ઈરાનના ટોપના સૈન્ય પ્રવક્તા અબ્દુલફઝલ શેકરચી (Abolfazl Shekarchi)એ શુક્રવારે એક કડક નિવેદન જાહેર કરીને ચેતવણી આપી છે કે, દુનિયાભરના પાર્ક, મનોરંજન સ્થળો અને પર્યટન કેન્દ્રો હવે સુરક્ષિત રહેશે નહીં. આ જાહેરાતથી ભારે ગભરાટ ફેલાયો છે.",
@@ -646,15 +673,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/5-must-watch-oscar-winning-movies-in-hindi-on-ott-amazon-and-netflix-468782 ",
     "time": "2026-03-16T03:49:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "મહિલા ક્રિકેટરોને મળ્યું પાઠ્યપુસ્તકમાં સ્થાન, હવે બાળકો વાંચશે દીકરીઓની સફળતાની ગાથા",
-    "desc": "છેલ્લા કેટલાક વર્ષોમાં ભારતીય મહિલા ક્રિકેટ ટીમે નોંધપાત્ર સફળતા મેળવી છે. 2025માં તેઓએ પહેલીવાર ICC મહિલા ODI વર્લ્ડ કપનો ખિતાબ પણ જીત્યો હતો. હવે એવું લાગે છે કે તેઓ આ સિદ્ધિઓનું ફળ મેળવી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/cricket-queens-indian-women-cricketers-in-class-5-textbook-468700 ",
-    "time": "2026-03-16T01:30:01.000Z"
   },
   {
     "cat": "Tech",

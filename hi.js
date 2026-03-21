@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli shares words of wisdom with RCB teammates ahead of IPL 2026",
+    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026; the marquee event is all set to kick off on March 28, and many eyes will be set upon defending...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-shares-words-of-wisdom-with-rcb-teammates-ahead-of-ipl-2026-watch-2026-03-21-1034560",
+    "time": "2026-03-21T03:47:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cricket Ireland set to launch Euro Nations Cup by 2027, to feature several European teams",
+    "desc": "In a major development, Cricket Ireland is looking for support to launch the Euro Nations Cup. The board’s chairman, Brian MacNeice, is confident that the tournament could be launched as soon as 2027. Notably, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cricket-ireland-set-to-launch-euro-nations-cup-by-2027-to-feature-several-european-teams-2026-03-21-1034553",
+    "time": "2026-03-21T02:45:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ireland announce ODI series against Afghanistan in August 2026 despite 'moral discomfort'",
     "desc": "CI (Cricket Ireland) recently came forward and announced a five-game ODI series against Afghanistan. It is worth noting that the bilateral series has been announced despite the board’s moral discomfort over the Taliban's treatment of...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/england-announce-squad-for-friendlies-before-fifa-world-cup-thomas-tuchel-explains-reason-behind-dropping-trent-alexander-arnold-2026-03-20-1034526",
     "time": "2026-03-20T15:07:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ajinkya Rahane praises KKR's batting unit, keeps mystery around opening slot ahead of IPL 2026",
-    "desc": "Kolkata Knight Riders are spoiled for choice as far as the opening combination goes in the upcoming IPL 2026. They have two marquee overseas cricketers in Finn Allen and Tim Seifert for the slot and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-praises-kkr-s-batting-unit-keeps-opening-slot-mystery-ahead-of-ipl-2026-2026-03-20-1034523",
-    "time": "2026-03-20T14:32:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 cricketers who can replace Sam Curran in Rajasthan Royals squad for IPL 2026",
-    "desc": "Rajasthan Royals all-rounder Sam Curran has been ruled out of the IPL 2026. The England international is currently dealing with a groin injury and will not recover in time for the cash-rich tournament. Notably, he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/3-cricketers-who-can-replace-sam-curran-in-rajasthan-royals-squad-for-ipl-2026-2026-03-20-1034516",
-    "time": "2026-03-20T13:38:08.000Z"
   }
 ];
