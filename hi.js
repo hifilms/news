@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Anaya Bangar thanks father for support after undergoing gender-affirming surgery in Thailand",
+    "desc": "Anaya Bangar, daughter of former India cricketer Sanjay Bangar, has shared that she has undergone gender-affirming surgery in Thailand. She posted an update on social media, reflecting on the emotional journey and the support from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/anaya-bangar-undergoes-gender-affirming-surgery-in-thailand-thanks-father-for-support-2026-03-21-1034620",
+    "time": "2026-03-21T15:01:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Defending champions can drop Venkatesh Iyer, Jacob Bethell, Yash Dayal",
+    "desc": "Defending champions Royal Challengers Bengaluru will begin their IPL 2026 campaign against Sunrisers Hyderabad on March 28 at the M Chinnaswamy Stadium. After last year’s June 4 mishap, which saw 11 people, including children, lose...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-predicted-playing-xi-for-ipl-2026-defending-champions-can-drop-venkatesh-iyer-jacob-bethell-yash-dayal-2026-03-21-1034617",
+    "time": "2026-03-21T14:29:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Japan beat Australia to lift title in record-breaking AFC women's Asian Cup final",
     "desc": "Japan defeated Australia in a tightly contested final to lift the Women’s Asian Cup. In the summit clash in Sydney, Maika Hamano’s early strike proved decisive for the visitors, who scored a stunning goal in...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/vladimir-putin-kneels-down-to-honour-paralympic-champion-ivan-golubkov-watch-2026-03-21-1034566",
     "time": "2026-03-21T05:14:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli shares words of wisdom with RCB teammates ahead of IPL 2026",
-    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026; the marquee event is all set to kick off on March 28, and many eyes will be set upon defending...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-shares-words-of-wisdom-with-rcb-teammates-ahead-of-ipl-2026-watch-2026-03-21-1034560",
-    "time": "2026-03-21T03:47:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cricket Ireland set to launch Euro Nations Cup by 2027, to feature several European teams",
-    "desc": "In a major development, Cricket Ireland is looking for support to launch the Euro Nations Cup. The board’s chairman, Brian MacNeice, is confident that the tournament could be launched as soon as 2027. Notably, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cricket-ireland-set-to-launch-euro-nations-cup-by-2027-to-feature-several-european-teams-2026-03-21-1034553",
-    "time": "2026-03-21T02:45:59.000Z"
   }
 ];

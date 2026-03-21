@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Will the ‘Suresh Gopi effect’ work again in Thrissur?",
+    "desc": "The actor won the 2024 Lok Sabha election from Thrissur with a massive margin of 74,840 votes, giving BJP its first MP from the State. The key question for the party is whether his vote-pulling ability can transfer to another candidate; this time, Padmaja Venugopal in the Assembly election. Critics argue that the sheen of the LS poll victory has since faded",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/will-the-suresh-gopi-effect-work-again-in-thrissur/article70766516.ece",
+    "time": "2026-03-21T15:13:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM to release first instalment of Rythu Bharosa today",
+    "desc": "The second instalment of ₹2,650 crore will be released on April 9 or 10, and the balance ₹2,860 crore will be credited as the third instalment before April end; Revanth to inaugurate oil palm factory in Siddipet",
+    "img": "https://th-i.thgim.com/public/incoming/tbb29u/article70768507.ece/alternates/LANDSCAPE_1200/Chief-Minister-GS6FO9RJU.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/cm-revanth-to-release-first-instalment-of-rythu-bharosa-on-march-22-inaugurates-oil-palm-factory-in-siddipet/article70768433.ece",
+    "time": "2026-03-21T14:52:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nora Fatehi’s work permit in India in trouble after the ‘Sarke Chunar’ controversy?",
+    "desc": "Nora Fatehi's song 'Sarke Chunar' has been banned following a controversy over its alleged double-meaning lyrics. Ten lawyers have petitioned for her work permit cancellation and deportation, citing obscenity and offense to public morality. Fatehi claims she was unaware of the Hindi lyrics' meaning, stating she shot the song in Kannada and did not consent to the translation.",
+    "img": "https://static.toiimg.com/photo/msid-129720994,imgsize-18740.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-nora-fatehis-work-permit-in-india-in-trouble-after-the-sarke-chunar-controversy-lawyers-approach-ministry-of-home-affairs/articleshow/129720954.cms",
+    "time": "2026-03-21T14:49:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Role of TV journalists in effecting global response pertinent in view of attacks against Iran’",
+    "desc": "Speaking at the 25th anniversary celebrations of the Light and Life Academy in Udhagamandalam, N. Ram, Director of The Hindu Group, highlights pivotal role played by television journalists in effecting the global response to the Ethiopian famine between 1983 and 1985",
+    "img": "https://th-i.thgim.com/public/incoming/y6d7fz/article70769408.ece/alternates/LANDSCAPE_1200/10214_21_3_2026_15_33_4_5__SAT8949.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/role-of-tv-journalists-in-effecting-global-response-pertinent-in-view-of-attacks-against-iran/article70768894.ece",
+    "time": "2026-03-21T14:33:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Firing outside Rohit Shetty's house: 14th accused detained",
+    "desc": "Mumbai Crime Branch detained the 14th accused, Golu Pandit, in Uttar Pradesh for the firing incident outside Rohit Shetty's home on February 1. The police have invoked stringent MCOCA provisions, suspecting an organized crime syndicate. Investigations are ongoing to retrieve deleted chats and uncover the full conspiracy.",
+    "img": "https://static.toiimg.com/photo/msid-129720643,imgsize-24254.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/firing-outside-rohit-shettys-house-mumbai-crime-branch-detains-14th-accused-in-the-case-from-uttar-pradesh/articleshow/129720651.cms",
+    "time": "2026-03-21T14:26:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Domestic companies launch semaglutide jabs at affordable prices",
+    "desc": "Indian pharmaceutical giants like Sun Pharma, Torrent, and Dr. Reddy's have launched affordable semaglutide, a groundbreaking weight-loss drug, following Novo Nordisk's patent expiry. This move significantly reduces therapy costs, offering patients greater access to treatment for obesity and type-2 diabetes. Torrent Pharma even introduced both oral and injectable versions, marking a significant step in addressing India's growing metabolic disorder crisis.",
+    "img": "https://static.toiimg.com/photo/msid-129720378,imgsize-89242.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/domestic-companies-launch-semaglutide-jabs-at-affordable-prices/articleshow/129720314.cms",
+    "time": "2026-03-21T14:04:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘B-Team of BJP’: Kerala CM Vijayan slams Rahul Gandhi, Congress ahead of polls",
+    "desc": "Kerala CM Pinarayi Vijayan sharply criticized Congress and Rahul Gandhi, labeling them the \"B-team of BJP\" and accusing them of failing to learn from past experiences. He highlighted their repeated allegations against Arvind Kejriwal despite court dismissals and claimed Congress aligns with the BJP at both national and state levels.",
+    "img": "https://static.toiimg.com/photo/msid-129720336,imgsize-611495.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/b-team-of-bjp-kerala-cm-vijayan-slams-rahul-gandhi-congress-ahead-of-polls/articleshow/129720326.cms",
+    "time": "2026-03-21T14:03:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dhurandhar: The Revenge’ Canada screening turns chaotic",
+    "desc": "The Revenge', chaos erupted as theater screens faced alleged vandalism. Authorities had to step in to restore order amidst growing disturbances. Nevertheless, the action-packed film featuring Ranveer Singh continues to captivate audiences, raking in an impressive Rs 300 crore globally.",
+    "img": "https://static.toiimg.com/photo/msid-129720272,imgsize-63238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-the-revenge-screening-turns-ugly-in-canada-as-theatre-screen-gets-damaged/articleshow/129720272.cms",
+    "time": "2026-03-21T13:58:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Not going to affect us’: India sees no major power supply risk from Middle East crisis",
+    "desc": "India anticipates meeting peak summer electricity demand despite Middle East conflict, relying on coal, renewables, and battery storage. Power Secretary Pankaj Agarwal stated limited gas dependence shields the system. A 4 GW imported coal plant and fast-tracked wind projects will bolster supply, while solar covers daytime needs and batteries address evening demand.",
+    "img": "https://static.toiimg.com/photo/msid-129720268,imgsize-143020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/not-going-to-affect-us-india-sees-no-major-power-supply-risk-from-middle-east-crisis-government-says/articleshow/129719897.cms",
+    "time": "2026-03-21T13:55:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Beer, vape, golf clique’: McCullum faces damning Ashes allegations",
+    "desc": "England's Ashes campaign faced intense scrutiny over dressing-room culture, with allegations of indiscipline and a lack of seriousness. Despite initial setbacks and off-field controversies, Brendon McCullum's job was saved by a decisive shift in approach during the Sri Lanka tour and subsequent World Cup progress. However, lingering questions remain about the team's ability to perform under pressure.",
+    "img": "https://static.toiimg.com/photo/msid-129720190,imgsize-32800.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/beer-vape-golf-clique-brendon-mccullum-faces-damning-ashes-allegations/articleshow/129720153.cms",
+    "time": "2026-03-21T13:49:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Securing LPG, LNG, crude oil: India plans evacuation for ships near Strait of Hormuz",
+    "desc": "India imports a big percentage of its crude oil, LPG, and LNG needs and a substantial portion of that transits through the Strait of Hormuz which is a narrow maritime route, in effect closed since the start of the US-Israel-Iran war.",
+    "img": "https://static.toiimg.com/photo/msid-129720156,imgsize-53920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/securing-lpg-lng-crude-oil-india-plans-evacuation-for-ships-near-strait-of-hormuz-heres-whats-being-considered/articleshow/129719785.cms",
+    "time": "2026-03-21T13:49:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman greets fans on Eid, Salim Khan makes first appearance after hospitalisation",
+    "desc": "Eid celebrations saw Salman Khan greet adoring fans from his Bandra residence, accompanied by his father Salim Khan, who recently recovered from a hospital stay. The actor, now with bulletproof glass on his balcony, shared flying kisses. Family members, including Salman's mother and Sohail Khan, were also present, highlighting the festive family spirit.",
+    "img": "https://static.toiimg.com/photo/msid-129719842,imgsize-18172.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-fulfills-eid-ritual-of-greeting-fans-salim-khan-spotted-for-the-first-time-after-being-discharged-from-hospital-watch-video/articleshow/129719697.cms",
+    "time": "2026-03-21T13:28:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Akash Deep out of IPL with back injury; doubtful for one-off Test against Afghanistan in June",
+    "desc": "“It will take considerable time for healing, workload adaptation followed by Return To Play protocols. So conservative estimate of recovery will be around 10 weeks, but it could take more time,” a BCCI source said",
+    "img": "https://th-i.thgim.com/public/incoming/2zb38a/article70769103.ece/alternates/LANDSCAPE_1200/18_RVM_4464.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/akash-deep-out-of-ipl-with-back-injury-doubtful-for-one-off-test-against-afghanistan-in-june/article70769068.ece",
+    "time": "2026-03-21T13:24:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘More sweat, more glory’: Prasad Sanyal sets the stage for TOISA 2025",
+    "desc": "At the Times of India Sports Awards (TOISA) 2025 in Lucknow, Prasad Sanyal highlighted the event’s growth into a national movement celebrating athletes’ journeys. Emphasising the theme “More Sweat More Glory,” he praised dedication behind success and lauded para-athletes’ resilience. He also acknowledged Uttar Pradesh’s rising sports culture and an eminent jury.",
+    "img": "https://static.toiimg.com/photo/msid-129719738,imgsize-35456.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/more-sweat-more-glory-prasad-sanyal-sets-the-stage-for-toisa-2025-in-lucknow/articleshow/129718599.cms",
+    "time": "2026-03-21T13:20:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rakesh Bedi called himself 'Dhurandhar' 12 years ago",
+    "desc": "The Revenge' is making waves at the box office. The synchronicity of Bedi's character with the film's title has sparked excitement among viewers, creating a buzz that complements the movie's remarkable success, grossing over Rs 280 crore.",
+    "img": "https://static.toiimg.com/photo/msid-129719655,imgsize-112656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakesh-bedi-called-himself-dhurandhar-12-years-ago-amid-dhurandhar-the-revenge-success-watch-video/articleshow/129719655.cms",
+    "time": "2026-03-21T13:18:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'He should be called Dhurandhar Dhami': Defence minister Rajnath Singh on 4 years of Uttarakhand govt",
+    "desc": "Addressing a public gathering here on the completion of four years of the Uttarakhand government, the Defence Minister expressed pride and confidence in the government led by CM Dhami and attributed the state's growth to him.",
+    "img": "https://static.toiimg.com/photo/msid-129719491,imgsize-749545.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/he-should-be-called-dhurandhar-dhami-defence-minister-rajnath-singh-on-4-years-of-uttarakhand-govt/articleshow/129719457.cms",
+    "time": "2026-03-21T13:00:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Inflation coming': Rahul slams Centre over weak rupee; predicts when govt will hike fuel price",
+    "desc": "Rahul Gandhi criticizes the central government over the rupee's record low. He warns of inevitable inflation due to the West Asia crisis impacting fuel prices. Gandhi states production and transport costs will rise, hitting small businesses. He predicts hikes in petrol, diesel, and LPG prices after state elections.",
+    "img": "https://static.toiimg.com/photo/msid-129719522,imgsize-820163.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/inflation-coming-rahul-slams-centre-over-weak-rupee-predicts-when-govt-will-hike-fuel-price/articleshow/129718791.cms",
+    "time": "2026-03-21T12:47:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Manish's mother's prayer meet: Celebs arrive to offer condolences",
+    "desc": "Bollywood stars gathered for a prayer meeting honoring Manish Malhotra's late mother, Sudarshan Malhotra, who passed away at 93. The event followed her funeral on March 20th. Numerous celebrities, including Ajay Devgn, Kajol, and Aishwarya Rai Bachchan, had previously visited Malhotra's residence to offer condolences after her demise on March 19th. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129718463,imgsize-138042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manish-malhotras-mother-sudarshan-malhotras-prayer-meet-ajay-devgn-vicky-kaushal-sara-ali-khan-gauri-khan-kajol-and-more-offer-condolences/articleshow/129718463.cms",
+    "time": "2026-03-21T12:30:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Here’s why",
+    "desc": "Former India pacer Irfan Pathan believes Mumbai Indians edge out Chennai Super Kings as the IPL's greatest team, highlighting MI's significant contribution of match-winners to the Indian squad. Pathan also noted that the upcoming IPL season will be a crucial learning phase for young batting sensation Vaibhav Sooryavanshi, who faces increased scrutiny from opposition bowlers.",
+    "img": "https://static.toiimg.com/photo/msid-129718615,imgsize-119408.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-dont-have-4-ind-captains-mi-do-why-pathan-picked-mumbai-as-greatest-ipl-team/articleshow/129718610.cms",
+    "time": "2026-03-21T12:23:10.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Sarath Kumar praises Aditya Dhar’s 'Dhurandhar The Revenge'",
     "desc": "The Revenge,' calling it a 'bold narration of untold truth.' He highlighted the film's focus on 'unsung heroes' and their selfless patriotism. Kumar praised the gripping screenplay, intense action, and the entire team, including Ranveer Singh, for an engaging cinematic experience that kept audiences glued to their seats.",
@@ -48,7 +219,7 @@ const newsData_en = [
     "cat": "Entertainment",
     "title": "When ‘Desi Girl’ interviewed 'Friends' star Jennifer Aniston",
     "desc": "The 2017 Oscars, infamous for its Best Picture mix-up, also hosted an unforgettable backstage moment. Priyanka Chopra and Jennifer Aniston engaged in a hilariously awkward, unplanned interview with Chrissy Teigen and Kelly Ripa. Their genuine confusion and laughter over a 'hall pass' question created a relatable, unscripted gem that still delights audiences.",
-    "img": "https://static.toiimg.com/photo/msid-129717208,imgsize-85494.cms",
+    "img": "https://static.toiimg.com/photo/msid-129720353,imgsize-113454.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/revisiting-oscars-2017-memory-when-desi-girl-priyanka-chopra-jonas-interviewed-friends-star-jennifer-aniston/articleshow/129717147.cms",
     "time": "2026-03-21T11:29:54.000Z"
@@ -81,15 +252,6 @@ const newsData_en = [
     "time": "2026-03-21T11:19:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Chief Minister Chandrababu Naidu calls for transforming TTD temples into advanced spiritual hubs",
-    "desc": "The Chief Minister emphasised the importance of proactive governance in ensuring a seamless and hassle-free pilgrimage. He directed the officials to further strengthen systems capable of anticipating potential inconveniences to devotees and addressing them in real time",
-    "img": "https://th-i.thgim.com/public/incoming/5cszp3/article70768970.ece/alternates/LANDSCAPE_1200/IMG-20260321-WA0018.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-chandrababu-naidu-calls-for-transforming-ttd-temples-into-advanced-spiritual-hubs/article70768864.ece",
-    "time": "2026-03-21T11:13:29.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Dhurandhar 2': RGV calls the film a 'RESET BUTTON'",
     "desc": "The Revenge', suggesting it acts as a 'reset button' for the Indian film industry. Debuting on March 19, 2026, this gripping espionage thriller chronicles a spy's ascent in Pakistan and has already raked in more than Rs 270 crore. Read on to know more in detail.",
@@ -97,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-the-revenge-ram-gopal-varma-hails-the-ranveer-singh-starrer-a-reset-button-in-new-review/articleshow/129716717.cms",
     "time": "2026-03-21T11:08:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The Left grapples with shifting loyalties",
-    "desc": "Ahead of the 2026 Assembly polls, six former legislators, four from the CPI(M) and two from the CPI, severed their communist ties and are now gearing up to contest from the rival camps or as Independents. The happenings, rather uncommon in Kerala, have garnered much attention.",
-    "img": "https://th-i.thgim.com/public/incoming/h4z0os/article70769007.ece/alternates/LANDSCAPE_1200/11073_16_10_2025_19_44_31_3_03.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-the-left-grapples-with-shifting-loyalties/article70761804.ece",
-    "time": "2026-03-21T11:02:03.000Z"
   },
   {
     "cat": "Politics",
@@ -162,15 +315,6 @@ const newsData_en = [
     "time": "2026-03-21T10:37:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ex-CPI(M) Minister G. Sudhakaran files papers as ‘people’s Independent’ in Ambalappuzha",
-    "desc": "G. Sudhakaran, who had broken his six-decade-old association with CPI(M) after feeling “discriminated against” that he was not given a term waiver accorded to other leaders for contesting Assembly polls, has set the stage for a riveting electoral battle with his one-time protege H. Salam",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/okp8ei/article70768831.ece/alternates/LANDSCAPE_1200/PRPR3562.jpg.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-polls-ex-cpim-minister-g-sudhakaran-files-papers-as-peoples-independent-in-ambalappuzha/article70768811.ece",
-    "time": "2026-03-21T10:32:35.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Imtiaz Ali thanks Nazim Pathan for airport bag help",
     "desc": "Filmmaker Imtiaz Ali expressed gratitude to Mumbai Police after Officer Nazim Pathan helped him retrieve a forgotten bag at the airport. Ali shared the stressful incident on Instagram, highlighting the prompt and exceptional assistance received. Meanwhile, Ali is gearing up for his next film, 'Main Vaapas Aaunga,' a romantic drama slated for a June 12, 2026 release.",
@@ -225,15 +369,6 @@ const newsData_en = [
     "time": "2026-03-21T10:20:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Won’t allow BJP to snatch voting rights, will fight till end: Mamata Banerjee",
-    "desc": "The TMC supremo alleged that the SIR exercise, which the ruling party claimed had led to large-scale deletions of voter names, was part of a \"broader attempt\" to influence the electoral process in the State",
-    "img": "https://th-i.thgim.com/public/incoming/bcyb45/article70768792.ece/alternates/LANDSCAPE_1200/20260321063L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/wont-allow-bjp-to-snatch-voting-rights-will-fight-till-end-mamata-banerjee/article70768786.ece",
-    "time": "2026-03-21T10:06:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "KKR asked to fix Rinku Singh 'problem'",
     "desc": "Irfan Pathan expresses concern over Rinku Singh's recent form slump ahead of IPL 2026, highlighting his struggles post-2023 breakthrough and at the T20 World Cup. Pathan also points to Varun Chakravarthy's inconsistent performance as a key challenge for Kolkata Knight Riders, though he believes the spinner can bounce back in familiar conditions.",
@@ -271,48 +406,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Bharath's 'Kaalidas 2' promises a gripping crime thriller",
-    "desc": "Actor Karthi launched the trailer for 'Kaalidas 2', a standalone crime thriller featuring Bharath as Inspector Kaalidas. The film, shot in Chennai and Kerala, promises a gripping whodunnit involving a murder at a cinema and a woman's distress call. With music by Sam C.S. and a strong supporting cast, the movie is set for a theatrical release on April 10.",
-    "img": "https://static.toiimg.com/photo/msid-129716117,imgsize-335300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karthi-unveils-kaalidas-2-trailer-bharath-returns-as-a-tough-cop-in-a-gripping-crime-thriller-watch/articleshow/129716117.cms",
-    "time": "2026-03-21T09:10:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Yash and Kiccha Sudeep",
     "desc": "Sandalwood's biggest stars, including Kiccha Sudeep, Yash, and Ganesh, began their careers on television before conquering the silver screen. From popular serials to blockbuster films, these actors successfully transitioned, captivating a wider audience. Rachita Ram and Prakash Raj also followed similar paths, showcasing television's role as a launchpad for Kannada cinema's leading talents.",
     "img": "https://static.toiimg.com/photo/msid-129716007,imgsize-132124.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/sandalwood-stars-like-yash-kiccha-sudeep-and-darshan-who-started-their-careers-on-television/articleshow/129716007.cms",
     "time": "2026-03-21T09:00:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did you know Ranbir and Prithviraj both played Lord Ram roles?",
-    "desc": "Bollywood is set for a grand Diwali with Ranbir Kapoor stepping into the iconic shoes of Lord Ram in Nitesh Tiwari's 'Ramayana'. This marks a significant full-circle moment, with Ranbir portraying the same revered character his great-grandfather, Prithviraj Kapoor, famously essayed in 1934.",
-    "img": "https://static.toiimg.com/photo/msid-129715557,imgsize-108456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-follows-in-great-grandfather-prithviraj-kapoors-footsteps-with-lord-rama-role-in-ramayana-fans-find-90-year-old-pics/articleshow/129715547.cms",
-    "time": "2026-03-21T08:59:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Daniel Kwan teases more details about his upcoming project",
-    "desc": "Acclaimed filmmaker Daniel Kwan, known for his Oscar-winning work, is diving into an exciting new venture that blends sci-fi thrills with comedic charm. This upcoming project, set to premiere in November 2027, explores existential themes amidst the chaos of modern life. Production is scheduled to kick off this summer, hinting at yet another whimsical and thought-provoking experience for audiences.",
-    "img": "https://static.toiimg.com/photo/msid-129716009,imgsize-77906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/after-everything-everywhere-all-at-once-daniel-kwan-teases-new-sci-fi-action-comedy-set-for-november-2027-release/articleshow/129716009.cms",
-    "time": "2026-03-21T08:58:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "V.D. Satheesan praises G. Sudhakaran as ‘a just administrator’",
-    "desc": "Kerala’s Leader of the Opposition says G. Sudhakaran was the only member of LDF Cabinet between 2006 and 2011 who was spared of corruption allegations raised by him, and one for whom he had the ‘utmost respect’",
-    "img": "https://th-i.thgim.com/public/incoming/covaca/article70768672.ece/alternates/LANDSCAPE_1200/10018_14_11_2025_19_7_46_2_V_D_SATHEESAN_02.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-vd-satheesan-praises-g-sudhakaran-as-a-just-administrator/article70768653.ece",
-    "time": "2026-03-21T08:58:28.000Z"
   },
   {
     "cat": "Sports",
@@ -331,33 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/fpi-profile-foreign-portfolio-investors-remain-net-sellers-withdrew-rs-35475-crore-from-dalal-street-this-week/articleshow/129715908.cms",
     "time": "2026-03-21T08:56:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How Gina Gershon once almost broke Tom Cruise’ nose",
-    "desc": "During a recent interview, Gina Gershon shared a hilarious memory from her time on the set of 'Cocktail.' She revealed that a lighthearted tickling incident from Tom Cruise almost ended with him sporting a broken nose! As they filmed a close-up scene, Gershon's instinctive response to Cruise's antics led to an accidental kick that surprised them both.",
-    "img": "https://static.toiimg.com/photo/msid-129715966,imgsize-122830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/gina-gershon-recalls-kicking-tom-cruise-in-the-face-says-i-could-tell-the-poor-guy-was-in-pain/articleshow/129715966.cms",
-    "time": "2026-03-21T08:55:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "BTS under fire due to comments about Jin’s involvement in the album",
-    "desc": "BTS's comeback album 'ARIRANG' is topping charts, but a live stream has ignited controversy. Members' comments suggesting Jin's limited album contribution due to his solo tour have angered fans. Viewers felt the remarks were insensitive, highlighting Jin's solo success and his visible reaction during the discussion, leading to widespread backlash.",
-    "img": "https://static.toiimg.com/photo/msid-129715945,imgsize-92066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/bts-members-under-fire-after-comments-about-jins-involvement-go-viral-they-didnt-even-let-him-speak/articleshow/129715945.cms",
-    "time": "2026-03-21T08:50:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar's' soundtrack carefully brings forth nostalgia",
-    "desc": "The Revenge', as they weave together contemporary hits with timeless classics. Songs like 'Ari Ari' and 'Na De Dil Pardesi Nu' resonate deeply, channeling the essence of traditional Punjabi folk and heart-touching qawalis, thus honoring the remarkable talents and iconic symphonies of the past.",
-    "img": "https://static.toiimg.com/photo/msid-129715844,imgsize-45628.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-music-breakdown-ramba-ho-ari-ari-songs-reprised-in-ranveer-singhs-espionage-drama-for-a-perfect-score/articleshow/129715844.cms",
-    "time": "2026-03-21T08:43:43.000Z"
   },
   {
     "cat": "Business",
@@ -486,15 +558,6 @@ const newsData_en = [
     "time": "2026-03-21T04:24:02.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Mohsin Naqvi-led PCB under scanner, Kirsten exposes ‘constant outside noise’",
-    "desc": "Former Pakistan head coach Gary Kirsten cited excessive interference from the Pakistan Cricket Board (PCB) as the primary reason for his abrupt departure after just six months. He described the constant external noise and punitive actions around poor performance as a significant challenge, making it difficult to implement plans or build relationships with players.",
-    "img": "https://static.toiimg.com/photo/msid-129712728,imgsize-201516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mohsin-naqvi-led-pcb-under-scanner-kirsten-exposes-constant-outside-noise/articleshow/129712697.cms",
-    "time": "2026-03-21T04:02:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "central Seoul locks down for K-pop supergroup's first show in years",
     "desc": "The BTS world tour for their comeback ‘Arirang’ will last into 2027 and is set to ‌be the biggest global K-pop tour of all time as well as the largest of their career to date, spanning 34 regions and 82 shows as of this week according to the tour website",
@@ -532,15 +595,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Ex-India star quits commentary, alleges 'colour discrimination' in BCCI setup",
-    "desc": "Former India leg-spinner Laxman Sivaramakrishnan has retired from the BCCI commentary panel. He cited a lack of opportunities for toss and presentation ceremonies over two decades. Sivaramakrishnan indicated this was a long-standing pattern. He also suggested colour discrimination might be a factor. His retirement highlights issues within TV production. Sivaramakrishnan was a prominent leg-spinner in the 1980s.",
-    "img": "https://static.toiimg.com/photo/msid-129712332,imgsize-38148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ex-india-star-laxman-sivaramakrishnan-quits-commentary-alleges-colour-discrimination-in-bcci-setup/articleshow/129712323.cms",
-    "time": "2026-03-21T03:06:42.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Rohit Sharma, Virat Kohli's fight for relevance before 2027 WC",
     "desc": "Rohit Sharma and Virat Kohli face a crucial IPL season, their most visible audition for the 2027 ODI World Cup. With shrinking game-time and increasing selector pragmatism, this tournament is a fitness and form test. They must prove their present-day relevance and endurance to secure a spot, as reputation alone won't suffice for the demanding ODI format.",
     "img": "https://static.toiimg.com/photo/msid-129712088,imgsize-1158038.cms",
@@ -565,24 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/bring-almost-140-mn-barrels-to-global-markets-after-russian-us-waives-sanctions-on-iranian-oil/articleshow/129711926.cms",
     "time": "2026-03-21T02:14:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Dhurandhar: The Revenge’ inches close to Rs 230 crore on day 2",
-    "desc": "The Revenge' shattered box office records with a Rs 226.27 crore net collection in India within its first two days. Despite a slight dip on day two, the film's paid preview shows and strong opening day performance highlight its massive impact.",
-    "img": "https://static.toiimg.com/photo/msid-129712500,imgsize-94362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-2-ranveer-singhs-spy-thriller-misses-the-rs-230-crore-mark-by-a-whisker/articleshow/129711521.cms",
-    "time": "2026-03-21T00:33:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "$44 billion acquisition: Elon Musk 'misled' Twitter shareholders in 2022, says US jury",
-    "desc": "A federal jury found Elon Musk liable for defrauding Twitter investors in 2022 by disparaging the company to secure a lower purchase price. Jurors concluded Musk intentionally misled shareholders through two tweets, including one stating the deal was \"temporarily on hold,\" but absolved him of a broader scheme to defraud.",
-    "img": "https://static.toiimg.com/photo/msid-129710855,imgsize-443761.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/44-billion-acquisition-elon-musk-misled-twitter-shareholders-in-2022-rules-us-jury/articleshow/129710663.cms",
-    "time": "2026-03-20T22:31:21.000Z"
   },
   {
     "cat": "World",
@@ -819,24 +855,6 @@ const newsData_en = [
     "time": "2026-03-18T14:23:38.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Laporta's new Barca chapter begins with Newcastle clash",
-    "desc": "Newcastle visit on Wednesday in the Champions League last 16, the tie delicately poised after a 1-1 draw on Tyneside last week, Eddie Howe’s men underdogs but posing a clear threat to Laporta’s dream as shown by their strong first leg display",
-    "img": "https://th-i.thgim.com/public/incoming/aia47/article70755599.ece/alternates/LANDSCAPE_1200/th17-ib-barca_GGPVFNMCQM.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/laportas-new-barca-chapter-begins-with-newcastle-clash/article70755514.ece",
-    "time": "2026-03-17T19:09:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ramit Tandon",
-    "desc": "From training bases in the United States to competing at home in Mumbai, the Indian men’s No. 2 is balancing preparation and performance. He shares insights on life on tour and discusses his Asian Games ambitions, the depth in Indian squash, and the challenge of breaking into the world’s elite",
-    "img": "https://th-i.thgim.com/public/incoming/gcv3sp/article70755386.ece/alternates/LANDSCAPE_1200/DSC04011.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/all-our-scheduling-is-going-to-revolve-around-peaking-for-the-asian-games-ramit-tandon/article70755322.ece",
-    "time": "2026-03-17T18:06:05.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Nvidia chief expects revenue of $1 trillion through 2027",
     "desc": "The entire tech world, from big names like OpenAI and Anthropic to young startups, feels like they could grow revenue and their AI \"if they could just get more capacity,\" Jensen Huang told the audience",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
   }
 ];

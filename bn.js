@@ -124,14 +124,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/us-offers-10-million-dollar-bounty-for-irans-supreme-leader-mojtaba-khamenei_644963.html ",
     "time": "2026-03-15T14:48:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "AC ঘরে বসে আমি কত বড় দাদা, কী দাদাগিরি করতে পারি- এসব ছেড়ে টেকনিশিয়ানদের কথা ভাবুন: দেব 'বিশ্বাসে' টলিউডে তুলকালাম",
-    "desc": "শনিবার সকাল থেকেই স্টুডিও চত্বরে তিল ধারণের জায়গা ছিল না। দেবের এই উদ্যোগের পাশে দাঁড়াতে হাজির হয়েছিলেন অভিনেত্রী কোয়েল মল্লিক, পরিচালক সুদেষ্ণা রায়, লীনা গঙ্গোপাধ্যায়, অভিজিৎ গুহ এবং শান্তিলাল মুখোপাধ্যায়। তবে এরই মাঝে সামনে এল টলিউডের বিভাজনও। অভিযোগ উঠেছে, এই শিবিরে কার্ড করাতে এলে টেকনিশিয়ানদের ‘ব্যান’ করা বা কাজ কেড়ে নেওয়ার হুমকি দেওয়া হয়েছিল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/dev-attacks-swarup-biswas-over-tollywood-technician-health-card_644872.html ",
-    "time": "2026-03-14T11:59:20.000Z"
   }
 ];

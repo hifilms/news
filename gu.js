@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "8મું પગાર પંચ ક્યારે લાગુ થશે? જૂના ટ્રેન્ડ, એરિયરની ચુકવણી અને ડિમાંડની સંપૂર્ણ ડીટેલ, જાણો",
+    "desc": "ઓલ ઈન્ડિયા ટ્રેડ યુનિયન કોંગ્રેસ (AITUC) માંગ કરી રહી છે કે પગાર ધોરણ, ભથ્થાં, પેન્શન અને અન્ય લાભોમાં સુધારા 1 જાન્યુઆરી, 2026થી અમલમાં આવવા જોઈએ, કામચલાઉ તારીખથી નહીં. AITUCએ જાળવી રાખ્યું છે કે પગાર સુધારા પહેલાથી જ બાકી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/when-will-the-8th-pay-commission-be-implemented-complete-details-of-old-trends-arrears-payment-and-demand-469550 ",
+    "time": "2026-03-21T13:17:01.000Z"
+  },
+  {
     "cat": "World",
     "title": "મુસલમાનો અને ઇસ્લામિક દેશો પર ખતરનાક ભવિષ્યવાણી વાયરલ ! શું પાકિસ્તાનનો નક્શો મટી થશે? ભારત વિશે પણ ચોંકાવનારા દાવા",
     "desc": "1969માં વેજિટેરિયન એથિકલ ચિલ્ડ્રન્સ એસોસિએશન મેગેઝિનની સ્થાપના કરવામાં આવી હતી. જ્યારે 1972માં તે મેગેઝિનની કથિત ભવિષ્યવાણી સોશિયલ મીડિયા પર વાયરલ થઈ રહી છે. તેમાં યુદ્ધ અને વૈશ્વિક પરિવર્તનના દાવા કરવામાં આવ્યા છે. એક્સપર્ટ કહે છે કે આ ધાર્મિક/વૈચારિક રીતે આધારિત લેખો છે, ચકાસણીયોગ્ય ભવિષ્યવાણીઓ નથી.",
@@ -459,15 +468,6 @@ const newsData_gu = [
     "time": "2026-03-19T05:56:41.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ઘરમાં  100 ગ્રામથી વધુ સોનું છે? તો થઈ જજો સાવધાન, પડી શકે છે આવકવેરા વિભાગની નજર",
-    "desc": "ભારતમાં સોનું રાખવાની કોઈ નક્કી મર્યાદા નથી, પરંતુ જો તમારી પાસે 100 ગ્રામથી વધુ સોનું છે અને તેના દસ્તાવેજ નથી તો આવકવેરા વિભાગની તપાસમાં સવાલ ઉઠી શકે છે. CBDT ની ગાઇડલાઇન અનુસાર એક મર્યાદા સુધી સોનું જપ્ત કરી શકાય નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/how-much-gold-allowed-to-be-kept-at-home-as-per-income-tax-rules-469195 ",
-    "time": "2026-03-19T05:33:45.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "ભારત-પાકિસ્તાન વચ્ચે પરમાણુ યુદ્ધનું જોખમ, US ઈન્ટેલિજન્સ રિપોર્ટમાં ચોંકાવનારો ખુલાસો",
     "desc": "એક બાજુ જ્યાં દુનિયા ઈરાન-ઈઝરાયેલ અમેરિકા તથા અફઘાનિસ્તાન અને પાકિસ્તાન વચ્ચેના યુદ્ધની સાક્ષી બની રહી છે અને તેના કારણે ઊભા થતા પડકારો પણ ઝેલી રહી છે ત્યાં હવે ભારત-પાકિસ્તાન વચ્ચે પરમાણુ યુદ્ધ છેડાઈ શકે એવો પણ એક રિપોર્ટમાં ચોંકાવનારો ખુલાસો થયો છે. જાણો વિગતો.",
@@ -781,14 +781,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/malaika-arora-dating-rumors-with-sorab-bedi-dance-video-malaika-arora-sorab-bedi-went-viral-468105 ",
     "time": "2026-03-11T09:15:56.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "2026મા થશે મોટો ધમાકો, Hyundai Creta ને ટક્કર આપવા આપી રહી છે 3 ધાકડ SUVs!",
-    "desc": "ભારતમાં મિડ સાઇઝ SUV સેગમેન્ટમાં આ વર્ષે ઘણી નવી ગાડીઓ લોન્ચ થવાની છે, જે Hyundai Creta ને ટક્કર આપી શકે છે. Toyota Urban Cruiser Ebella, Renault Duster અને Skoda Kushaq જેવી SUVs નવા ફીચર્સ અને શાનદાર સ્ટાઇલની સાથે આવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/upcoming-mid-size-suv-in-2026-new-duster-ebella-kushaq-will-launch-468071 ",
-    "time": "2026-03-11T04:59:10.000Z"
   }
 ];
