@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "સોનામાં 11000 અને ચાંદીમાં 28000 રૂપિયાનો કડાકો, આગળ શું રહી શકે સ્થિતિ? જાણો એક્સપર્ટ્સના મત",
+    "desc": "સોના અને ચાંદીમાં આ સપ્તાહમાં ભારે ઉથલપાથલ જોવા મળી છે. સ્થિતિ જો આમ જ રહી તો માર્ચ મહિનો 2008 બાદ સૌથી ખરાબ મહિનો સાબિત થઈ શકે છે. એક અઠવાડિયામાં રિટેલ સોનાના ભાવમાં 11000 અને ચાંદીમાં 28 હજાર સુધીનો ઘટાડો જોવા મળ્યો જ્યારે વાયદા બજારમાં સોનું ઓલટાઈમ હાઈથી 36 હજાર જેટલું અને ચાંદી 1.92 લાખ સુધી સસ્તા છે. વિસ્તૃત માહિતી ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-weekly-rate-explainer-gold-plunges-by-rs-11000-and-silver-by-rs-28000-what-could-happen-next-469468 ",
+    "time": "2026-03-21T06:29:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "6,6,6,6,6... IPL પહેલા KKRના બેટ્સમેનનો કમાલ, 55 બોલમાં ફટકાર્યા 103 રન",
+    "desc": "KKRની પ્રેક્ટિસ મેચમાં અંગક્રિશ રઘુવંશીએ સદી ફટકારીને શાનદાર પ્રદર્શન કર્યું. પ્રથમ બેટિંગ કરતા ગોલ્ડન નાઈટ્સે કુલ 199 રન બનાવ્યા હતા. જવાબમાં પર્પલ ટીમે 19.2 ઓવરમાં ટાર્ગેટ ચેઝ કર્યો હતો. રઘુવંશીએ તેની ઇનિંગમાં 5 છગ્ગા પણ ફટકાર્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-kkr-practice-match-angkrish-raghuvanshi-century-469470 ",
+    "time": "2026-03-21T05:46:37.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "HDFC બેંકના શેર હોલ્ડરો માટે મહત્વના સમાચાર, 3 અધિકારીઓની હકાલપટ્ટીથી શેર પર પડશે મોટી અસર!",
     "desc": "HDFC બેંકમાં તમારું ખાતું હોય તો કે તેના શેરમાં રોકાણ કર્યું હોય તો આ સમાચાર તમારે જાણવા જરૂરી છે. પહેલા તો પાર્ટ ટાઈમ ચેરમેનનું રાજીનામું પડ્યું અવે હવે 3 મોટા અધિકારીઓને કાઢી મૂકવામાં આવ્યા. વધુ વિગતો માટે વાંચો અહેવાલ.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -414,15 +432,6 @@ const newsData_gu = [
     "time": "2026-03-19T05:33:45.000Z"
   },
   {
-    "cat": "Business",
-    "title": "શેર બજાર ખુલતાની સાથે જ ક્રેશ, સેન્સેક્સ 1900 પોઈન્ટ ગગડ્યો, નિફ્ટી પણ ધડામ, જાણો કયા શેર પછડાયા?",
-    "desc": "મિડલ ઈસ્ટમાં ભડકેલી યુદ્ધની જ્વાળાઓ અને ધીરે ધીરે ઓઈલ યુદ્ધમાં ફેરવાઈ રહેલી પરિસ્થિતિએ આજે માર્કેટમાં કોહરામ મચાવી દીધો. ભારતીય બજારો ખુલતા જ ક્રેશ થયા. નિફ્ટી અને ઈન્ડેક્સ ધડામ થયા. જાણો કેમ આવું થયું અને કયા શેરોને સૌથી વધુ અસર થઈ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/stock-market-crash-due-to-the-escalating-war-situation-in-the-middle-east-rising-crude-prices-469194 ",
-    "time": "2026-03-19T05:00:02.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "ભારત-પાકિસ્તાન વચ્ચે પરમાણુ યુદ્ધનું જોખમ, US ઈન્ટેલિજન્સ રિપોર્ટમાં ચોંકાવનારો ખુલાસો",
     "desc": "એક બાજુ જ્યાં દુનિયા ઈરાન-ઈઝરાયેલ અમેરિકા તથા અફઘાનિસ્તાન અને પાકિસ્તાન વચ્ચેના યુદ્ધની સાક્ષી બની રહી છે અને તેના કારણે ઊભા થતા પડકારો પણ ઝેલી રહી છે ત્યાં હવે ભારત-પાકિસ્તાન વચ્ચે પરમાણુ યુદ્ધ છેડાઈ શકે એવો પણ એક રિપોર્ટમાં ચોંકાવનારો ખુલાસો થયો છે. જાણો વિગતો.",
@@ -493,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/russian-oil-tanker-u-turn-heading-to-india-instead-of-china-469095 ",
     "time": "2026-03-18T11:45:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કેન્દ્રીય કર્મચારીઓ માટે રાહતના સમાચાર, સૂચનો આપવાની મુદ્દતમાં કરાયો વધારો; જાણો કેવી રીતે કરશો સબમિટ",
-    "desc": "8મા પગાર પંચ અંગે એક મહત્વના સમાચાર સામે આવ્યા છે. કમિશને તેના 18 પ્રશ્નોના જવાબો સબમિટ કરવાની અંતિમ તારીખ લંબાવી છે. હવે કર્મચારીઓ, પેન્શનરો અને અન્ય હિસ્સેદારો 31 માર્ચે 2026 સુધી તેમના સૂચનો સબમિટ કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/relief-news-for-central-employees-deadline-for-submitting-suggestions-regarding-8th-pay-commission-has-been-extended-know-469101 ",
-    "time": "2026-03-18T11:15:40.000Z"
   },
   {
     "cat": "Tech",
@@ -655,15 +655,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/bangladesh-took-review-for-wide-and-pakistan-lost-the-series-468796 ",
     "time": "2026-03-16T06:03:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 પર ફરી ઘેરાયા સંકટના વાદળો ! બદલાઈ શકે છે શેડ્યૂલ, જાણો શું છે કારણ",
-    "desc": "9 એપ્રિલે આસામમાં યોજાનારી વિધાનસભા ચૂંટણીને કારણે IPL 2026ના શેડ્યૂલ પર અસર પડી શકે છે. રાજસ્થાન રોયલ્સની ત્રણ મેચ 30 માર્ચ, 7 એપ્રિલ અને 10 એપ્રિલે ગુવાહાટીના બારસાપારા ક્રિકેટ સ્ટેડિયમમાં યોજાવાની છે. BCCIએ હાલમાં પ્રથમ 20 મેચનું શેડ્યૂલ જાહેર કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bcci-may-change-ipl-2026-schedule-due-to-assembly-elections-468792 ",
-    "time": "2026-03-16T05:12:12.000Z"
   },
   {
     "cat": "Entertainment",

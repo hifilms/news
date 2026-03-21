@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ravichandran Ashwin rates Royal Challengers Bengaluru's chances of defending IPL title",
+    "desc": "With the IPL (Indian Premier League) 2026 all set to kick off on March 28, many fans would be backing defending champions Royal Challengers Bengaluru to perform brilliantly once more and get their hands on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-rates-royal-challengers-bengaluru-s-chances-of-defending-ipl-title-2026-03-21-1034569",
+    "time": "2026-03-21T06:09:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vladimir Putin kneels down to honour Paralympic champion Ivan Golubkov",
+    "desc": "The president of Russia, Vladimir Putin, has caught every headline as of late after he was captured kneeling down to honour Paralympic champion Ivan Golubkov. The video of the same has gone viral all over...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/vladimir-putin-kneels-down-to-honour-paralympic-champion-ivan-golubkov-watch-2026-03-21-1034566",
+    "time": "2026-03-21T05:14:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli shares words of wisdom with RCB teammates ahead of IPL 2026",
     "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026; the marquee event is all set to kick off on March 28, and many eyes will be set upon defending...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/laxman-sivaramakrishnan-announces-retirement-from-bcci-commentary-accuses-board-of-racism-2026-03-20-1034532",
     "time": "2026-03-20T16:20:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant reflects on physical and mental preparation ahead of IPL 2026",
-    "desc": "Lucknow Super Giants captain Rishabh Pant failed to live up to the potential in IPL 2025. The keeper-batter made 269 runs in 14 matches at a strike rate of 133.16 last season, which includes a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-reflects-on-physical-and-mental-preparation-ahead-of-ipl-2026-2026-03-20-1034530",
-    "time": "2026-03-20T15:49:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England announce squad for friendlies before FIFA World Cup, Tuchel explains reason behind dropping Trent",
-    "desc": "England manager Thomas Tuchel has named a 35-man squad for the upcoming friendlies against Uruguay and Japan, offering the final opportunity for players to stake their claim ahead of the FIFA World Cup this summer....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/england-announce-squad-for-friendlies-before-fifa-world-cup-thomas-tuchel-explains-reason-behind-dropping-trent-alexander-arnold-2026-03-20-1034526",
-    "time": "2026-03-20T15:07:18.000Z"
   }
 ];
