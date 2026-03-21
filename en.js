@@ -1,12 +1,75 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Kanshi Ram returns",
+    "desc": "The Bahujan Samaj Party founder’s name is being invoked by the leaders in Uttar Pradesh across political lines over the past two weeks and his supporters say that the architect of Dalit consciousness is being resurrected for the State’s Assembly poll next year, finds Mayank Kumar",
+    "img": "https://th-i.thgim.com/public/incoming/kumnoi/article70766187.ece/alternates/LANDSCAPE_1200/6744_19_3_2026_17_41_10_2_02_KANSHIRAM.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/kanshi-ram-returns/article70766163.ece",
+    "time": "2026-03-21T21:03:06.000Z"
+  },
+  {
     "cat": "Entertainment",
-    "title": "Celebrated Narungga stories from Australia come to Chennai",
-    "desc": "Your weekend plans in Chennai ought to include a viewing of Guuranda, a unique show by Australian First Nations artist Jacob Boehme, KM Music Conservatory’s choir, dancers, and Tholpaavai shadow puppeteers, as we learn Aboriginal fables and their relevance in today’s world. The show is on till March 22 at Anna Nagar Tower Park",
+    "title": "'Should be ashamed to call 'Dhurandhar 2' propaganda,' Anupam Kher reviews the film",
+    "desc": "Anupam Kher lauded 'Dhurandhar 2' as outstanding, praising its writing, direction, and acting, particularly Ranveer Singh's performance. He defended the film against 'propaganda' accusations, calling it a celebration of modern India and its agencies. Kher expressed pride in the film's ability to unite Indians, comparing its impact to a cricket match. The film has achieved significant box office success.",
+    "img": "https://static.toiimg.com/photo/msid-129724940,imgsize-51406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/should-be-ashamed-to-call-dhurandhar-2-propaganda-anupam-kher-reviews-the-film-salutes-ranveer-singh-aditya-dhar-kaunsi-mitti-ke-bane-ho/articleshow/129724926.cms",
+    "time": "2026-03-21T20:09:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: For second time, Pottalurani residents to boycott polls over fish waste processing units",
+    "desc": "The residents have been demanding the closure of fish waste processing units near the village since 2019, and have submitted multiple petitions in this regard. However, the protest intensified in early 2024 ahead of the Lok Sabha election",
+    "img": "https://th-i.thgim.com/public/incoming/bmz9k7/article70769739.ece/alternates/LANDSCAPE_1200/9865_7_12_2025_15_24_49_1_DSC_0483.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/for-second-time-pottalurani-residents-to-boycott-polls-over-fish-waste-processing-units/article70769594.ece",
+    "time": "2026-03-21T19:35:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CPI(M) State Committee stands firmon six seats",
+    "desc": "The CPI(M)’s contention is that it had been promised an increase in the seats for the 2021 Tamil Nadu Assembly election by the DMK leadership. On the other hand, the DMK argues that it has included more political parties in the alliance and is likely to lose 15 constituencies from its share.",
+    "img": "https://th-i.thgim.com/public/incoming/flazzi/article70768806.ece/alternates/LANDSCAPE_1200/PTI02_13_2026_000647B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-cpim-meeting-to-decide-on-seat-sharing-with-dmk/article70768800.ece",
+    "time": "2026-03-21T19:33:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: parties must avoid excessive freebies, focus on development, says ex-Minister Semmalai",
+    "desc": "Contending that these handouts being announced as part of electoral promises by major parties will not facilitate T.N.’s development, he criticises the DMK government for not increasing the capital expenditure substantially over the last 5 years and ‘frittering away’ funds for distributing freebies",
+    "img": "https://th-i.thgim.com/public/incoming/r8alrn/article70769971.ece/alternates/LANDSCAPE_1200/11658_21_3_2026_18_55_45_2_2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/parties-must-avoid-excessive-freebies-focus-on-development-says-ex-minister-semmalai/article70769698.ece",
+    "time": "2026-03-21T19:23:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ibrahim Ali Khan drops glimpse into Eid celebrations with Taimur and family",
+    "desc": "Saif Ali Khan and Kareena Kapoor Khan celebrated Eid with the Pataudi family, including Sara and Ibrahim Ali Khan. Ibrahim shared a glimpse of the festive feast, featuring biryani enjoyed by Taimur. Saba Ali Pataudi also showcased the tradition of giving Eidi to the younger family members.",
+    "img": "https://static.toiimg.com/photo/msid-129724598,imgsize-61376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-kareena-kapoor-khans-son-taimur-enjoys-biryani-on-eid-ibrahim-ali-khan-gives-a-sneak-peek-into-the-celebrations/articleshow/129724560.cms",
+    "time": "2026-03-21T19:12:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Narungga stories from Australia come to Chennai",
+    "desc": "Watch Guuranda this weekend in Chennai, a unique show by Australian First Nations artiste Jacob Boehme, KM Music Conservatory’s choir, dancers, and Tholpaavai shadow puppeteers. The performance of Aboriginal fables is on till March 22 at Anna Nagar Tower Park",
     "img": "https://th-i.thgim.com/public/life-and-style/qur50m/article70770323.ece/alternates/LANDSCAPE_1200/IMG_20260321_193737.jpg.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/dance/experience-guuranda-celebrated-narungga-stories-from-australia-come-to-chennai/article70770324.ece",
-    "time": "2026-03-21T18:23:06.000Z"
+    "time": "2026-03-21T18:31:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Kantara' star Rishab Shetty calls Ranveer Singh's'Dhurandhar 2' brilliant",
+    "desc": "The Revenge' is garnering significant praise from audiences and celebrities alike. Rishab Shetty and SS Rajamouli have lauded the film's brilliant storytelling, powerful performances, and spectacular visuals, with Rajamouli highlighting its emotional depth and flawless execution, even for its four-hour runtime.",
+    "img": "https://static.toiimg.com/photo/msid-129723572,imgsize-40156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kantara-star-rishab-shetty-calls-ranveer-singhsdhurandhar-2-brilliant-comments-on-aditya-dhars-detailing/articleshow/129723432.cms",
+    "time": "2026-03-21T18:04:14.000Z"
   },
   {
     "cat": "Politics",
@@ -34,6 +97,24 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/toisa-2025-a-grand-roll-call-of-excellence-in-indian-sports/articleshow/129722848.cms",
     "time": "2026-03-21T17:43:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Tucker Carlson",
+    "desc": "The American conservative commentator, who says his worldview is shaped by his Christian faith, has emerged as one of the most influential critics of U.S. interventionist foreign policy, Washington’s support for Tel Aviv, and, more specifically, Israel’s war in Palestine and the ongoing U.S.-Israel attack on Iran",
+    "img": "https://th-i.thgim.com/public/news/national/5xylju/article70770211.ece/alternates/LANDSCAPE_1200/tucker%20carlson_Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/tucker-carlson-voice-of-america/article70770212.ece",
+    "time": "2026-03-21T17:33:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump eases oil sanctions on Iran, says Hormuz should be guarded by other nations",
+    "desc": "U.S. lifts sanctions on Iranian oil already loaded onto ships to increase the supply of oil and ease rocketing prices; Mr. Trump says U.S. is very close to meeting its objectives as Iran continues attacks on U.S. bases in the Gulf",
+    "img": "https://th-i.thgim.com/public/incoming/brmffi/article70767401.ece/alternates/LANDSCAPE_1200/2026-03-20T221336Z_839893080_RC2M8KA90RWV_RTRMADP_3_USA-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-says-considering-winding-down-iran-war-but-rules-out-ceasefire/article70767398.ece",
+    "time": "2026-03-21T17:25:07.000Z"
   },
   {
     "cat": "Politics",
@@ -124,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karisma-kapoor-would-send-someone-from-to-check-on-raveena-tandons-costumes-ask-her-stylist-to-take-note-of-it-recalls-designer-ashley-rebello/articleshow/129721386.cms",
     "time": "2026-03-21T15:41:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre allocates another 20% of commercial LPG requirements to States, starting from March 23",
-    "desc": "To get this hiked quantum, consumers must also scale “a state of readiness” to start using PNG; with the latest directive, States will start getting 50% of their monthly commercial cooking gas needs from next week",
-    "img": "https://th-i.thgim.com/public/incoming/wev1wk/article70769425.ece/alternates/LANDSCAPE_1200/LPG%20SHORTAGE%20%20DELHI%202026_20_03_4.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/govt-hikes-commercial-lpg-allocation-to-50-as-domestic-output-improves/article70769398.ece",
-    "time": "2026-03-21T15:27:52.000Z"
   },
   {
     "cat": "Politics",
@@ -459,24 +531,6 @@ const newsData_en = [
     "time": "2026-03-21T10:42:06.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rashmika Mandanna and Vijay Deverakonda jet off to Thailand",
-    "desc": "Newlyweds Rashmika Mandanna and Vijay Deverakonda have jetted off to Koh Samui, Thailand, for a private getaway following their recent wedding. Opting for a secluded villa near the beach over a luxury resort, the couple is enjoying peaceful moments away from the public eye. Their tranquil escape continues to captivate fans eager for glimpses of their romantic honeymoon.",
-    "img": "https://static.toiimg.com/photo/msid-129717133,imgsize-174662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-and-vijay-deverakonda-jet-off-to-thailand-to-enjoy-a-quiet-koh-samui-getaway-in-private-villa/articleshow/129717133.cms",
-    "time": "2026-03-21T10:37:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Imtiaz Ali thanks Nazim Pathan for airport bag help",
-    "desc": "Filmmaker Imtiaz Ali expressed gratitude to Mumbai Police after Officer Nazim Pathan helped him retrieve a forgotten bag at the airport. Ali shared the stressful incident on Instagram, highlighting the prompt and exceptional assistance received. Meanwhile, Ali is gearing up for his next film, 'Main Vaapas Aaunga,' a romantic drama slated for a June 12, 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-129717072,imgsize-64358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imtiaz-ali-recounts-how-a-mumbai-police-officer-saved-him-from-an-airport-mishap-came-out-of-the-airport-and-into-a-fix/articleshow/129717072.cms",
-    "time": "2026-03-21T10:31:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Has oil crisis Trumped US? Inside the war-time paradox of fighting Iran and funding its crude",
     "desc": "The US faces a paradox in its conflict with Iran, relying on the nation's oil to stabilize global markets while simultaneously trying to weaken it. Disruptions through the Strait of Hormuz and attacks on energy infrastructure have sent prices soaring, forcing Washington to ease sanctions on Iranian crude. This move offers temporary relief but highlights the limited options available.",
@@ -538,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/indias-oil-lpg-lifeline-two-more-tankers-set-to-cross-strait-of-hormuz-list-of-vessels-that-have-arrived/articleshow/129716300.cms",
     "time": "2026-03-21T09:30:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yash and Kiccha Sudeep",
-    "desc": "Sandalwood's biggest stars, including Kiccha Sudeep, Yash, and Ganesh, began their careers on television before conquering the silver screen. From popular serials to blockbuster films, these actors successfully transitioned, captivating a wider audience. Rachita Ram and Prakash Raj also followed similar paths, showcasing television's role as a launchpad for Kannada cinema's leading talents.",
-    "img": "https://static.toiimg.com/photo/msid-129716007,imgsize-132124.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/sandalwood-stars-like-yash-kiccha-sudeep-and-darshan-who-started-their-careers-on-television/articleshow/129716007.cms",
-    "time": "2026-03-21T09:00:50.000Z"
   },
   {
     "cat": "Business",
@@ -612,15 +657,6 @@ const newsData_en = [
     "time": "2026-03-21T06:10:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Won’t let Modi ji snatch rights’: Mamata Banerjee targets BJP during Eid in Kolkata -watch",
-    "desc": "West Bengal Chief Minister Mamata Banerjee criticised the BJP during Eid-ul-Fitr celebrations in Kolkata, accusing the Centre of trying to remove voters through SIR and impose President’s Rule. She said her government would resist such moves and protect people’s rights. Her remarks come amid a political row over electoral roll scrutiny ahead of the assembly elections, with the TMC alleging attempts to target genuine voters and divide society.",
-    "img": "https://static.toiimg.com/photo/msid-129713666,imgsize-1142630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/wont-let-modi-ji-snatch-rights-mamata-banerjee-targets-bjp-during-eid-in-kolkata-watch/articleshow/129713056.cms",
-    "time": "2026-03-21T05:24:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India's crude shuffle: How Iran's Hormuz chokehold rerouted oil imports from Gulf to Russia",
     "desc": "India's crude oil imports have significantly dropped in March due to disruptions in the Strait of Hormuz, forcing refiners to pivot towards Russia and African producers. Russia has emerged as the largest supplier, nearly doubling its shipments, while African nations like Angola have also increased their exports to compensate for reduced Middle Eastern supplies.",
@@ -637,15 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-fires-its-going-to-get-tougher-warning-as-rcb-gears-up-for-ipl-2026/articleshow/129713272.cms",
     "time": "2026-03-21T05:06:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM",
-    "desc": "Prime Minister Narendra Modi spoke about the Yuge Yugeen Bharat Museum in New Delhi's North and South Blocks. This historic center of power is becoming a cultural hub. The museum, set to be the world's largest, will showcase India's rich heritage. Its first gallery opens this year, with full completion in three years.",
-    "img": "https://static.toiimg.com/photo/msid-129712994,imgsize-930408.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/yuge-yugeen-bharat-museum-transforming-seat-of-power-to-symbol-of-civilisational-continuity-pm/articleshow/129712999.cms",
-    "time": "2026-03-21T04:29:58.000Z"
   },
   {
     "cat": "Business",
@@ -675,15 +702,6 @@ const newsData_en = [
     "time": "2026-03-21T03:52:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Brotherhood and kindness': PM Modi extends greetings on Eid-ul-Fitr; celebrations begin across nation",
-    "desc": "Prime Minister Narendra Modi and President Droupadi Murmu extended warm Eid-ul-Fitr greetings, emphasizing brotherhood and peace. Celebrations unfolded across the nation following the sighting of the Shawwal moon, marking the conclusion of Ramazan. Devotees gathered at Delhi's Jama Masjid for special prayers, with vibrant scenes of community spirit and festive greetings.",
-    "img": "https://static.toiimg.com/photo/msid-129712517,imgsize-46778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/brotherhood-and-kindness-pm-modi-extends-greetings-on-eid-ul-fitr-celebrations-begin-across-nation/articleshow/129712286.cms",
-    "time": "2026-03-21T03:46:07.000Z"
-  },
-  {
     "cat": "World",
     "title": "Political tug of war over Iranian women's football team prompts criticism in Australia",
     "desc": "Iran has claimed victory in the extraordinary public relations battle that played out since Australian Immigration Minister Tony Burke released to the media on March 10 a photo of him posing with five women who had accepted protection visas",
@@ -691,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/political-tug-of-war-over-iranian-womens-football-team-prompts-criticism-in-australia/article70764424.ece",
     "time": "2026-03-21T03:29:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Bring almost 140 mn barrels to global markets': After Russian, US waives sanctions on Iranian oil",
-    "desc": "The US has granted a 30-day waiver on Iranian oil shipments currently at sea, aiming to stabilize global energy supplies amid escalating Middle East tensions. This move, intended to inject approximately 140 million barrels into the market, follows similar relaxations on Russian oil. While the US asserts control over revenue, Iran claims no surplus oil is available.",
-    "img": "https://static.toiimg.com/photo/msid-129712967,imgsize-65420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/bring-almost-140-mn-barrels-to-global-markets-after-russian-us-waives-sanctions-on-iranian-oil/articleshow/129711926.cms",
-    "time": "2026-03-21T02:14:54.000Z"
   },
   {
     "cat": "World",
@@ -781,15 +790,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/norways-crown-princess-says-she-was-manipulated-and-deceived-by-epstein/article70764560.ece",
     "time": "2026-03-20T08:11:38.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. NTSB launches safety probe after Alaska Airlines jet overflies FedEx at Newark",
-    "desc": "“An air traffic controller instructed ‌Alaska Airlines Flight 294, a Boeing 737, to perform a go-around because FedEx Flight 721, ‌a Boeing 777, was cleared for the ‌final ⁠approach to an intersecting runway at the ⁠New Jersey airport near New York City,” says FAA",
-    "img": "https://th-i.thgim.com/public/incoming/axven9/article70764431.ece/alternates/LANDSCAPE_1200/2025-10-23T234447Z_927293111_RC2IK5AE7BZ8_RTRMADP_3_USA-ALASKA-AIRLINES-GROUND-STOP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-ntsb-launches-safety-probe-after-alaska-airlines-jet-overflies-fedex-at-newark/article70764397.ece",
-    "time": "2026-03-20T06:21:23.000Z"
   },
   {
     "cat": "Business",
