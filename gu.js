@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "2008 જેવો લાગી શકે છે મોટો ઝટકો, પરંતુ શું અસલી સંકટ હજુ આવવાનું બાકી છે?",
+    "desc": "તેલના ભાવ ઓછા દેખાય છે, પરંતુ અસલમાં, ફુગાવો ઊંચો છે. પેટ્રોલ અને ડીઝલના ભાવ વધુ ઝડપથી વધી રહ્યા છે. જો યુદ્ધ ચાલુ રહે તો, તેલના ભાવ 2008ના રેકોર્ડને વટાવી શકે છે. ઈરાન યુદ્ધ વચ્ચે અસલી વાર્તા શું છે તે જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/world-oil-crisis-2008-may-seem-like-a-big-shock-but-is-the-real-crisis-yet-to-come-469582 ",
+    "time": "2026-03-21T15:52:34.000Z"
+  },
+  {
     "cat": "Business",
     "title": "8મું પગાર પંચ ક્યારે લાગુ થશે? જૂના ટ્રેન્ડ, એરિયરની ચુકવણી અને ડિમાંડની સંપૂર્ણ ડીટેલ, જાણો",
     "desc": "ઓલ ઈન્ડિયા ટ્રેડ યુનિયન કોંગ્રેસ (AITUC) માંગ કરી રહી છે કે પગાર ધોરણ, ભથ્થાં, પેન્શન અને અન્ય લાભોમાં સુધારા 1 જાન્યુઆરી, 2026થી અમલમાં આવવા જોઈએ, કામચલાઉ તારીખથી નહીં. AITUCએ જાળવી રાખ્યું છે કે પગાર સુધારા પહેલાથી જ બાકી છે.",
@@ -574,15 +583,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ms-dhoni-changes-iconic-jersey-number-7-before-ipl-2026-know-reasons-469057 ",
     "time": "2026-03-18T05:59:19.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "હોર્મુઝ જળમાર્ગ ખોલાવવા માટે અમેરિકાએ મોરચો સંભાળ્યો, 2200 કિલોનો મહાબોમ્બ ઝીંક્યો",
-    "desc": "ઈરાને ઈઝરાયેલ અને અમેરિકા સાથે યુદ્ધના પગલે વેપાર માટે મહત્વના ગણાતા હોર્મુઝ જળમાર્ગને બંધ કર્યો તો અનેક દેશો બૂમ પાડી ઉઠ્યા. હવે અમેરિકાએ આ હોર્મુઝ જળમાર્ગને ખોલાવવા માટે મોરચો સંભાળતા મોટી કાર્યવાહી હાથ ધરી છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/america-takes-the-lead-in-opening-the-strait-of-hormuz-dropped-a-bunker-buster-bomb-469041 ",
-    "time": "2026-03-18T04:15:57.000Z"
   },
   {
     "cat": "Entertainment",

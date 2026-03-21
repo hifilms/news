@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Arne Slot registers unwanted feat as Liverpool lose to Brighton in Premier League, UCL spot heats up",
+    "desc": "Liverpool’s Premier League struggles deepened on Saturday as they suffered a 2-1 defeat against Brighton, marking the first time in a decade that the club has lost 10 league games in a season. The defending...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/arne-slot-registers-unwanted-feat-as-liverpool-lose-to-brighton-in-premier-league-ucl-spot-heats-up-2026-03-21-1034633",
+    "time": "2026-03-21T17:51:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Wimbledon to introduce video review technology from 2026 season",
+    "desc": "Wimbledon will introduce video review technology from the 2026 edition, signalling a notable change in how matches are officiated at the All England Lawn Tennis and Croquet Club. The decision allows players to challenge selected...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/wimbledon-to-introduce-video-review-technology-from-2026-season-2026-03-21-1034629",
+    "time": "2026-03-21T17:23:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rwanda's Fanny Utagushumanide sets two new world records, with century against Ghana",
+    "desc": "Rwanda’s teenage debutant Fanny Utagushimaninde created history on Friday, becoming the youngest centurion across genders in T20Is during the Nigeria Invitational Women’s T20 tournament. At just 15 years and 223 days old, Fanny reached her...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rwanda-s-fanny-utagushumanide-sets-two-new-world-records-with-century-against-ghana-2026-03-21-1034625",
+    "time": "2026-03-21T16:34:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Brendon McCullum set to continue as England coach despite Ashes, T20 World Cup failure",
+    "desc": "Brendon McCullum is set to continue as England’s head coach, with the England and Wales Cricket Board expected to confirm his position following its ongoing assessment of the recent Ashes tour. The review was initiated after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/brendon-mccullum-set-to-continue-as-england-coach-despite-ashes-t20-world-cup-failure-2026-03-21-1034624",
+    "time": "2026-03-21T15:40:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Anaya Bangar thanks father for support after undergoing gender-affirming surgery in Thailand",
     "desc": "Anaya Bangar, daughter of former India cricketer Sanjay Bangar, has shared that she has undergone gender-affirming surgery in Thailand. She posted an update on social media, reflecting on the emotional journey and the support from...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-players-instructed-to-clear-fitness-tests-to-get-nocs-for-ipl-2026-2026-03-21-1034588",
     "time": "2026-03-21T09:24:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gary Kirsten slams Pakistan cricket, opens up on 'difficult' coaching environment",
-    "desc": "Former Pakistan white-ball head coach Gary Kirsten recently came forward and talked about his exit from the side. Branding the environment inside as difficult. Describing a toxic work culture, Kirsten talked about a lack of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gary-kirsten-slams-pakistan-cricket-opens-up-on-difficult-coaching-environment-2026-03-21-1034582",
-    "time": "2026-03-21T08:16:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Riyan Parag advises Vaibhav Suryavanshi to stay away from social media ahead of IPL 2026",
-    "desc": "The 19th edition of the IPL (Indian Premier League) is all set to kick off on March 28, and ahead of the tournament, many fans will look forward to the performance of 14-year-old Vaibhav Suryavanshi....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/riyan-parag-advises-vaibhav-suryavanshi-to-stay-away-from-social-media-ahead-of-ipl-2026-2026-03-21-1034576",
-    "time": "2026-03-21T07:07:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravichandran Ashwin rates Royal Challengers Bengaluru's chances of defending IPL title",
-    "desc": "With the IPL (Indian Premier League) 2026 all set to kick off on March 28, many fans would be backing defending champions Royal Challengers Bengaluru to perform brilliantly once more and get their hands on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-rates-royal-challengers-bengaluru-s-chances-of-defending-ipl-title-2026-03-21-1034569",
-    "time": "2026-03-21T06:09:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vladimir Putin kneels down to honour Paralympic champion Ivan Golubkov",
-    "desc": "The president of Russia, Vladimir Putin, has caught every headline as of late after he was captured kneeling down to honour Paralympic champion Ivan Golubkov. The video of the same has gone viral all over...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/vladimir-putin-kneels-down-to-honour-paralympic-champion-ivan-golubkov-watch-2026-03-21-1034566",
-    "time": "2026-03-21T05:14:06.000Z"
   }
 ];

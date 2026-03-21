@@ -1,21 +1,165 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Celebrated Narungga stories from Australia come to Chennai",
+    "desc": "Your weekend plans in Chennai ought to include a viewing of Guuranda, a unique show by Australian First Nations artist Jacob Boehme, KM Music Conservatory’s choir, dancers, and Tholpaavai shadow puppeteers, as we learn Aboriginal fables and their relevance in today’s world. The show is on till March 22 at Anna Nagar Tower Park",
+    "img": "https://th-i.thgim.com/public/life-and-style/qur50m/article70770323.ece/alternates/LANDSCAPE_1200/IMG_20260321_193737.jpg.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/dance/experience-guuranda-celebrated-narungga-stories-from-australia-come-to-chennai/article70770324.ece",
+    "time": "2026-03-21T18:23:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP announces nine candidates for Puducherry polls",
+    "desc": "The Bharatiya Janata Party (BJP) has announced nine candidates for the Puducherry Legislative Assembly elections, contesting in alliance with the All India NR Congress. The Election Commission of India has also completed the first randomisation of EVMs and VVPATs for the upcoming polls in Puducherry, Assam, and Kerala, as well as for bye-elections in other states.",
+    "img": "https://static.toiimg.com/photo/msid-129723475,imgsize-128028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-announces-nine-candidates-for-puducherry-polls/articleshow/129723446.cms",
+    "time": "2026-03-21T17:55:37.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Supreme Court concerned over cops uploading videos online, says poses threat to fair trial",
+    "desc": "The senior counsel flagged the recent trend of police posting the images of accused persons being handcuffed, tied by ropes, paraded, forced to kneel, etc, on social media, which, apart from causing an affront to personal dignity, adds to the public bias.",
+    "img": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/tiamsv/article70770304.ece/alternates/LANDSCAPE_1200/iStock-1422775084.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-concerned-over-cops-uploading-videos-online-says-poses-threat-to-fair-trial/article70768980.ece",
+    "time": "2026-03-21T17:53:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "A grand roll call of excellence in Indian sports",
+    "desc": "The Times of India Sports Awards 2025 showcased a grand celebration of Indian sporting excellence, bringing together top athletes, legends, and officials under one roof. The event highlighted outstanding achievements across disciplines, honouring dedication, performance, and resilience. With inspiring moments and recognition of emerging and established stars alike, it reflected India’s growing stature in global sports and its deep talent pool.",
+    "img": "https://static.toiimg.com/photo/msid-129722925,imgsize-90952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/toisa-2025-a-grand-roll-call-of-excellence-in-indian-sports/articleshow/129722848.cms",
+    "time": "2026-03-21T17:43:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Power distribution companies in Delhi, Noida emerge top performers in government survey",
+    "desc": "Mumbai, Delhi, and Noida power companies lead in performance for 2024-25. Adani Electricity Mumbai, TPDDL, and NPCL secured top positions. Delhi's discoms also excelled in consumer service. These rankings highlight operational efficiency and customer satisfaction. The surveys aim to drive improvements across the power sector.",
+    "img": "https://static.toiimg.com/photo/msid-129722811,imgsize-1121260.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/power-distribution-companies-in-delhi-noida-emerge-top-performers-in-govt-survey/articleshow/129722665.cms",
+    "time": "2026-03-21T17:20:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘India’s gem, jewellery sector shows resilience’",
+    "desc": "Mr. Bhansali said reaching ₹2.28 lakh crore in exports with over 4% growth between April 2025 and February 2026, despite a 44% dip in traditional markets like the U.S. was a testament to the industry’s successful strategy of market diversification",
+    "img": "https://th-i.thgim.com/public/incoming/po85wr/article70770225.ece/alternates/LANDSCAPE_1200/IMG_INDIA-ECONOMY-JEWELL_2_1_OSC1H5IJ.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/indias-gem-jewellery-sector-shows-resilience/article70770142.ece",
+    "time": "2026-03-21T17:13:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'IPL 2026 is likely to be Dhoni's last': Former CSK star makes big prediction",
+    "desc": "Robin Uthappa predicts IPL 2026 could be MS Dhoni's final season with CSK, suggesting a shift to a mentor-cum-player role. Dhoni's 2025 season saw him step in as captain due to Ruturaj Gaikwad's injury, while continuing his wicketkeeping excellence, reaching 200 dismissals.",
+    "img": "https://static.toiimg.com/photo/msid-129722396,imgsize-21598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-is-likely-to-be-ms-dhonis-last-former-csk-star-makes-big-prediction/articleshow/129722392.cms",
+    "time": "2026-03-21T16:56:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata targets Modi; Suvendu pushes Hindutva agenda",
+    "desc": "Chief Minister Mamata Banerjee, participating in Id prayers, accuses Prime Minister Narenda Modi of promoting Hindu-Muslim narrative and taking away voting rights. LOP Suvendu Adhikari says he prayed for the well-being of sanatanis at the Kalighat temple.",
+    "img": "https://th-i.thgim.com/public/incoming/bcyb45/article70768792.ece/alternates/LANDSCAPE_1200/20260321063L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/wont-allow-bjp-to-snatch-voting-rights-will-fight-till-end-mamata-banerjee/article70768786.ece",
+    "time": "2026-03-21T16:52:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "State cannot put ‘arbitrary ceiling’ on disability limits when RPwD Act does not prescribe any: SC",
+    "desc": "Says none of the provisions of the Rights to Persons with Disabilities (RPwD) Act, 2016 indicates that an upper limit could be prescribed in matter of adjudging suitability of a candidate for a particular post.",
+    "img": "https://th-i.thgim.com/public/incoming/lvycj6/article70770156.ece/alternates/LANDSCAPE_1200/IMG_SUPREME_COURT__DELHI_2_1_JNDSN349.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/state-cannot-put-arbitrary-ceiling-on-disability-limits-when-rpwd-act-does-not-prescribe-any-sc/article70770033.ece",
+    "time": "2026-03-21T16:43:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Farah Khan asked Javed Akhtar to translate Gulzar's lyrics of 'Satrangi Re'",
+    "desc": "Choreographer Farah Khan revealed the challenges behind the iconic 'Satrangi Re' song from Dil Se. Struggling with Gulzar's complex lyrics in Ladakh, she sought help from Javed Akhtar. Even director Mani Ratnam and composer AR Rahman, who didn't know Hindi, were puzzled by the song's meaning, highlighting the lyrical depth.",
+    "img": "https://static.toiimg.com/photo/msid-129722004,imgsize-25734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-asked-javed-akhtar-to-translate-gulzars-lyrics-of-satrangi-re-mani-ratnam-did-not-know-hindi/articleshow/129721956.cms",
+    "time": "2026-03-21T16:24:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ashwin says 'deduct Rs 2 crores' if star Australian fails to bowl 4 overs in IPL",
+    "desc": "During the T20 World Cup, Green scored 24 runs in three innings with a highest score of 21. He bowled three overs across two matches and picked up one wicket. In a recent Sheffield Shield match for Western Australia against New South Wales, where he scored a century, he did not bowl.",
+    "img": "https://static.toiimg.com/photo/msid-129721746,imgsize-29730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ashwin-says-deduct-rs-2-crores-if-star-australian-cricketer-fails-to-bowl-four-overs-in-ipl/articleshow/129721627.cms",
+    "time": "2026-03-21T16:08:01.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Engineers will be better off with emerging new roles due to AI, say panelists at webinar",
+    "desc": "The webinar, jointly presented by Vellore Institute of Technology, Vellore and The Hindu Education Plus as part of their career path series, provided insights into emerging engineering domains, skills sought by industry, and how aspiring engineers can make themselves future-ready",
+    "img": "https://th-i.thgim.com/public/news/national/maewc/article70770053.ece/alternates/LANDSCAPE_1200/VIT%20Logo%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/engineers-will-be-better-off-with-emerging-new-roles-due-to-ai-say-panelists-at-webinar/article70769796.ece",
+    "time": "2026-03-21T16:03:07.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Will the ‘Suresh Gopi effect’ work again in Thrissur?",
     "desc": "The actor won the 2024 Lok Sabha election from Thrissur with a massive margin of 74,840 votes, giving BJP its first MP from the State. The key question for the party is whether his vote-pulling ability can transfer to another candidate; this time, Padmaja Venugopal in the Assembly election. Critics argue that the sheen of the LS poll victory has since faded",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/kerala-assembly/will-the-suresh-gopi-effect-work-again-in-thrissur/article70766516.ece",
-    "time": "2026-03-21T15:13:05.000Z"
+    "time": "2026-03-21T15:51:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Karisma would send someone from to check on Raveena's costumes,' Designer on their feud",
+    "desc": "Costume designer Ashley Rebello revealed that the off-screen rivalry between Karisma Kapoor and Raveena Tandon during 'Andaz Apna Apna' extended to their on-screen costumes. Rebello detailed how he enhanced Raveena's nighties for a song, making them more elaborate than Karisma's. He also noted Karisma's team closely monitored Raveena's styling.",
+    "img": "https://static.toiimg.com/photo/msid-129721452,imgsize-38214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karisma-kapoor-would-send-someone-from-to-check-on-raveena-tandons-costumes-ask-her-stylist-to-take-note-of-it-recalls-designer-ashley-rebello/articleshow/129721386.cms",
+    "time": "2026-03-21T15:41:15.000Z"
   },
   {
     "cat": "Politics",
-    "title": "CM to release first instalment of Rythu Bharosa today",
-    "desc": "The second instalment of ₹2,650 crore will be released on April 9 or 10, and the balance ₹2,860 crore will be credited as the third instalment before April end; Revanth to inaugurate oil palm factory in Siddipet",
-    "img": "https://th-i.thgim.com/public/incoming/tbb29u/article70768507.ece/alternates/LANDSCAPE_1200/Chief-Minister-GS6FO9RJU.3.jpg.jpg",
+    "title": "Centre allocates another 20% of commercial LPG requirements to States, starting from March 23",
+    "desc": "To get this hiked quantum, consumers must also scale “a state of readiness” to start using PNG; with the latest directive, States will start getting 50% of their monthly commercial cooking gas needs from next week",
+    "img": "https://th-i.thgim.com/public/incoming/wev1wk/article70769425.ece/alternates/LANDSCAPE_1200/LPG%20SHORTAGE%20%20DELHI%202026_20_03_4.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/cm-revanth-to-release-first-instalment-of-rythu-bharosa-on-march-22-inaugurates-oil-palm-factory-in-siddipet/article70768433.ece",
-    "time": "2026-03-21T14:52:25.000Z"
+    "url": "https://www.thehindu.com/news/national/govt-hikes-commercial-lpg-allocation-to-50-as-domestic-output-improves/article70769398.ece",
+    "time": "2026-03-21T15:27:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Did not initiate war': In call with PM Modi, Iran President Pezeshkian calls on India-chaired Brics to play role in halting aggressions",
+    "desc": "Iranian President Pezeshkian urged the India-led BRICS to play an independent role in halting aggressions against Iran amid escalating Middle East tensions. He highlighted alleged US and Israeli \"unlawful attacks\" and crimes, emphasizing Iran's opposition to nuclear weapons. PM Modi condemned attacks on energy infrastructure and called for dialogue and peace.",
+    "img": "https://static.toiimg.com/photo/msid-129721130,imgsize-42766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/did-not-initiate-war-in-call-with-pm-modi-iran-president-pezeshkian-calls-on-india-chaired-brics-to-play-role-in-halting-aggressions/articleshow/129721126.cms",
+    "time": "2026-03-21T15:20:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smriti Mandhana, Samrat Rana win Sportsperson of the Year",
+    "desc": "Smriti Mandhana and Samrat Rana were crowned Sportspersons of the Year at the TOISA awards for their stellar 2025 performances. Mandhana led India to their maiden Women's Cricket World Cup title, while pistol shooter Rana became India's first 10m air pistol world champion, clinching two golds. The event celebrated a landmark year for Indian sports.",
+    "img": "https://static.toiimg.com/photo/msid-129698808,imgsize-66068.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/toisa-2025-smriti-mandhana-samrat-rana-win-sportsperson-of-the-year/articleshow/129698767.cms",
+    "time": "2026-03-21T15:15:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "India’s creative community is uniting to devise meaningful responses to growing censorship",
+    "desc": "From literature festivals to film screenings, artists flag rising pressure on creative voices The dismantling of a publisher’s stall at a children’s literature festival in Patna recently has become a flashpoint for concerns among authors, publishers and other creatives",
+    "img": "https://th-i.thgim.com/public/incoming/ioro93/article70761857.ece/alternates/LANDSCAPE_1200/Udaan%20festival1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/society/creative-community-uniting-against-censorship-udaan-childrens-festival/article70753725.ece",
+    "time": "2026-03-21T15:05:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -25,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-nora-fatehis-work-permit-in-india-in-trouble-after-the-sarke-chunar-controversy-lawyers-approach-ministry-of-home-affairs/articleshow/129720954.cms",
     "time": "2026-03-21T14:49:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Role of TV journalists in effecting global response pertinent in view of attacks against Iran’",
-    "desc": "Speaking at the 25th anniversary celebrations of the Light and Life Academy in Udhagamandalam, N. Ram, Director of The Hindu Group, highlights pivotal role played by television journalists in effecting the global response to the Ethiopian famine between 1983 and 1985",
-    "img": "https://th-i.thgim.com/public/incoming/y6d7fz/article70769408.ece/alternates/LANDSCAPE_1200/10214_21_3_2026_15_33_4_5__SAT8949.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/role-of-tv-journalists-in-effecting-global-response-pertinent-in-view-of-attacks-against-iran/article70768894.ece",
-    "time": "2026-03-21T14:33:12.000Z"
   },
   {
     "cat": "Entertainment",
@@ -99,6 +234,15 @@ const newsData_en = [
     "time": "2026-03-21T13:49:09.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "'Biwi ki suno sirf toh ...': Kuldeep Yadav makes honest admission",
+    "desc": "At the Times of India Sports Awards 2025, Kuldeep Yadav and Harmanpreet Kaur won Cricketer of the Year. Spinner Kuldeep impressed with match-winning spin performances, while batter Harmanpreet led with aggressive captaincy and consistency. The awards reflected Indian cricket’s strong 2025, with both teams achieving success and rising global dominance.",
+    "img": "https://static.toiimg.com/photo/msid-129721550,imgsize-95564.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/biwi-ki-suno-sirf-toh-newlywed-kuldeep-yadav-makes-honest-admission-at-toisa-2025/articleshow/129719700.cms",
+    "time": "2026-03-21T13:36:10.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Salman greets fans on Eid, Salim Khan makes first appearance after hospitalisation",
     "desc": "Eid celebrations saw Salman Khan greet adoring fans from his Bandra residence, accompanied by his father Salim Khan, who recently recovered from a hospital stay. The actor, now with bulletproof glass on his balcony, shared flying kisses. Family members, including Salman's mother and Sohail Khan, were also present, highlighting the festive family spirit.",
@@ -151,6 +295,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/inflation-coming-rahul-slams-centre-over-weak-rupee-predicts-when-govt-will-hike-fuel-price/articleshow/129718791.cms",
     "time": "2026-03-21T12:47:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Economic ties with China see a calibrated reset with easing of FDI rules",
+    "desc": "Six years after locking foreign capital out of the door, India has opened it — just wide enough. The Cabinet's amendment to Press Note 3 clears the fog around who can invest from where. What it does not do is throw open the floodgates.",
+    "img": "https://static.toiimg.com/photo/msid-129718722,imgsize-1531831.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/the-door-india-left-ajar-economic-ties-with-china-see-a-calibrated-reset-with-easing-of-fdi-rules-explained/articleshow/129718674.cms",
+    "time": "2026-03-21T12:38:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,15 +495,6 @@ const newsData_en = [
     "time": "2026-03-21T10:28:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside Ranveer Singh and Deepika Padukone’s ₹181 crore homes in Mumbai-Alibaug",
-    "desc": "In the glamorous realm of Bollywood, Ranveer Singh and Deepika Padukone shine not just on screen but also in the real estate market, amassing a stunning property portfolio valued at roughly Rs. 181 crore. Highlights of their luxurious assets include a breathtaking Rs. 119 crore quadruplex with mesmerizing sea views in Bandra, a chic Rs.",
-    "img": "https://static.toiimg.com/photo/msid-129717017,imgsize-1208862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-rs-119-crore-bandra-quadruplex-to-alibaug-retreat-decoding-ranveer-singh-and-deepika-padukones-luxury-properties/articleshow/129717017.cms",
-    "time": "2026-03-21T10:27:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Wasn't easy': Anaya reveals Sanjar's role after gender-affirming surgery",
     "desc": "Anaya Bangar shared emotional journey after gender-affirming surgery, saying, \"This journey wasn't easy… not just for me, but for my family too.\" Anaya highlighted Sanjay Bangar’s evolving support, calling it \"real, unconditional, and strong.\" Once a cricketer, Anaya reflected on early identity struggles, recalling, \"I used to… say I'm a girl.\"",
@@ -387,15 +531,6 @@ const newsData_en = [
     "time": "2026-03-21T09:44:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Radhika Sarathkumar's'Thaai Kizhavi' OTT release date",
-    "desc": "Radhika Sarathkumar's village drama 'Thaai Kizhavi' is set for its OTT release on March 26, following a successful theatrical run. The film, backed by Sivakarthikeyan Productions, garnered over Rs. 72 crore worldwide and is praised for its modern take on the genre. Viewers can now catch the acclaimed performance of Radhika as the spirited matriarch on JioHotstar.",
-    "img": "https://static.toiimg.com/photo/msid-129716478,imgsize-253536.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thaai-kizhavi-ott-release-date-when-and-where-to-watch-radhika-sarathkumar-starrer-village-drama/articleshow/129716478.cms",
-    "time": "2026-03-21T09:37:41.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India's oil, LPG lifeline: Two more tankers set to cross Strait of Hormuz",
     "desc": "India sees a cautious easing of maritime movement as three crude oil tankers successfully navigated the Strait of Hormuz, with two more LPG tankers preparing to follow. This comes after diplomatic engagements with Iran, ensuring safe passage for Indian vessels amidst regional tensions. The successful transits underscore India's commitment to securing unhindered movement for its fleet.",
@@ -412,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/sandalwood-stars-like-yash-kiccha-sudeep-and-darshan-who-started-their-careers-on-television/articleshow/129716007.cms",
     "time": "2026-03-21T09:00:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'He is absolutely fit'- Chopra slams Cricket Australia over Starc absence",
-    "desc": "Aakash Chopra questions Cricket Australia's decision to rest a fit Mitchell Starc for early IPL 2026 matches, citing workload management ahead of a Test series. He also expresses concern over Lockie Ferguson's potential absence for seven games to spend time with family, suggesting franchises may need to re-evaluate player commitments.",
-    "img": "https://static.toiimg.com/photo/msid-129715935,imgsize-151764.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-he-is-absolutely-fit-chopra-slams-cricket-australia-over-starc-absence/articleshow/129715891.cms",
-    "time": "2026-03-21T08:57:58.000Z"
   },
   {
     "cat": "Business",
@@ -486,24 +612,6 @@ const newsData_en = [
     "time": "2026-03-21T06:10:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Shubman Gill’s World Cup snub ‘will fire him up’, says Pujara",
-    "desc": "Cheteshwar Pujara believes Shubman Gill's T20 World Cup snub will fuel a stellar IPL 2026, urging him to boost his strike rate. Pujara hails Gujarat Titans' formidable top order, featuring Gill, Sudharsan, and Buttler, as key to their title aspirations. He also highlights the team's all-round depth and potent pace attack.",
-    "img": "https://static.toiimg.com/photo/msid-129714100,imgsize-202908.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-shubman-gills-world-cup-snub-will-fire-him-up-says-pujara/articleshow/129714025.cms",
-    "time": "2026-03-21T06:10:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'3 ducks ke baad ... bat de de': Abhishek Sharma's message to Shubman Gill",
-    "desc": "Despite a shaky start with three consecutive ducks at the T20 World Cup 2026, Abhishek Sharma found support from childhood friend Shubman Gill. Sharma humorously recounted seeking Gill's bat after his struggles. He later bounced back spectacularly, scoring a match-winning 52 in the final, helping India secure their third T20 World Cup title.",
-    "img": "https://static.toiimg.com/photo/msid-129713607,imgsize-44886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/3-ducks-ke-baad-bat-de-de-abhishek-sharmas-message-to-shubman-gill/articleshow/129713591.cms",
-    "time": "2026-03-21T05:27:28.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "‘Won’t let Modi ji snatch rights’: Mamata Banerjee targets BJP during Eid in Kolkata -watch",
     "desc": "West Bengal Chief Minister Mamata Banerjee criticised the BJP during Eid-ul-Fitr celebrations in Kolkata, accusing the Centre of trying to remove voters through SIR and impose President’s Rule. She said her government would resist such moves and protect people’s rights. Her remarks come amid a political row over electoral roll scrutiny ahead of the assembly elections, with the TMC alleging attempts to target genuine voters and divide society.",
@@ -529,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-fires-its-going-to-get-tougher-warning-as-rcb-gears-up-for-ipl-2026/articleshow/129713272.cms",
     "time": "2026-03-21T05:06:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Meet Hardik, he is going to play very soon': Dinner-table prediction that proved right",
-    "desc": "Hardik Pandya once again named domestic legend Wasim Jaffer as his idol at the Naman Awards, recalling their first meeting at an Irfan Pathan dinner in 2014-15. Pandya, then an emerging talent, expressed his admiration for Jaffer's batting style. Jaffer, who amassed nearly 20,000 first-class runs, acknowledged Pandya's continued respect.",
-    "img": "https://static.toiimg.com/photo/msid-129713228,imgsize-55456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/meet-hardik-pandya-he-is-going-to-play-very-soon-dinner-table-prediction-that-proved-right-watch/articleshow/129713197.cms",
-    "time": "2026-03-21T04:52:42.000Z"
   },
   {
     "cat": "Politics",
@@ -592,24 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/political-tug-of-war-over-iranian-womens-football-team-prompts-criticism-in-australia/article70764424.ece",
     "time": "2026-03-21T03:29:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma, Virat Kohli's fight for relevance before 2027 WC",
-    "desc": "Rohit Sharma and Virat Kohli face a crucial IPL season, their most visible audition for the 2027 ODI World Cup. With shrinking game-time and increasing selector pragmatism, this tournament is a fitness and form test. They must prove their present-day relevance and endurance to secure a spot, as reputation alone won't suffice for the demanding ODI format.",
-    "img": "https://static.toiimg.com/photo/msid-129712088,imgsize-1158038.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-rohit-sharma-virat-kohlis-fight-for-relevance-before-2027-wc/articleshow/129712081.cms",
-    "time": "2026-03-21T02:38:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "5 sixes, 9 fours! KKR's 21-year-old blasts brutal ton, rivals on alert",
-    "desc": "Young batter Angkrish Raghuvanshi's blistering 103* in a KKR intra-squad match has created a selection headache for the team. With a revamped squad featuring new overseas stars, head coach Abhishek Nayar faces the challenge of finalising combinations for their IPL 2026 campaign opener against Mumbai Indians on March 29.",
-    "img": "https://static.toiimg.com/photo/msid-129712086,imgsize-44614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/66666-kkrs-21-year-old-blasts-brutal-ton-rings-warning-bells/articleshow/129712083.cms",
-    "time": "2026-03-21T02:28:53.000Z"
   },
   {
     "cat": "Business",
@@ -682,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-warns-world-tourism-sites-not-safe-for-israeli-us-officials/article70766005.ece",
     "time": "2026-03-20T14:23:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "India’s artist fraternity is uniting to devise meaningful responses to growing censorship",
-    "desc": "From literature festivals to film screenings, artists flag rising pressure on creative voices The dismantling of a publisher’s stall at a children’s literature festival in Patna recently has become a flashpoint for concerns within India’s artistic community",
-    "img": "https://th-i.thgim.com/public/incoming/ioro93/article70761857.ece/alternates/LANDSCAPE_1200/Udaan%20festival1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/society/artists-uniting-against-growing-censorship-udaan-childrens-festival/article70753725.ece",
-    "time": "2026-03-20T11:24:14.000Z"
   },
   {
     "cat": "World",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/men-in-blue-a-t20-behemoth/article70759275.ece",
     "time": "2026-03-18T17:54:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 Countdown",
-    "desc": "The core of the DC squad isn’t different to the last season, where it finished fifth after a sparkling start; Rahul will shoulder the responsibility of laying a strong base as opener; Axar, Kuldeep and Vipraj round off a well-stocked spin department",
-    "img": "https://th-i.thgim.com/public/sport/hjs1xh/article70759325.ece/alternates/LANDSCAPE_1200/AXAR.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-countdown-capitals-need-to-deliver-at-optimum-capacity-to-fulfil-their-elusive-dream/article70759319.ece",
-    "time": "2026-03-18T17:13:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Airlines told to curb extra fees for seat selection",
-    "desc": "At least 60% of seats on each flight must be available for selection without extra fees; passengers under the same PNR must be seated together; publicise passenger rights in case of flight cancellation, delay, baggage loss",
-    "img": "https://th-i.thgim.com/public/incoming/3hcj/article70756828.ece/alternates/LANDSCAPE_1200/iStock-157685333.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/govt-mandates-airlines-to-keep-at-least-60-seats-on-flights-free-of-charge/article70756785.ece",
-    "time": "2026-03-18T14:49:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kishan to lead Sunrisers in Cummins’ absence",
-    "desc": "This marks a rare moment in IPL history, where every team features an Indian captain — at least until Cummins regains full fitness, the last time being in the early stages of the 2019 edition",
-    "img": "https://th-i.thgim.com/public/incoming/wmft71/article70758609.ece/alternates/LANDSCAPE_1200/PTI05_23_2025_000469B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-kishan-to-lead-sunrisers-in-cummins-absence/article70758461.ece",
-    "time": "2026-03-18T14:23:38.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Nvidia chief expects revenue of $1 trillion through 2027",
-    "desc": "The entire tech world, from big names like OpenAI and Anthropic to young startups, feels like they could grow revenue and their AI \"if they could just get more capacity,\" Jensen Huang told the audience",
-    "img": "https://th-i.thgim.com/public/incoming/g6gtzz/article70752419.ece/alternates/LANDSCAPE_1200/2026-03-17T012901Z_460422352_RC206KAB03XD_RTRMADP_3_NVIDIA-GTC-SK-HYNIX-CHAIRMAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/nvidia-chief-expects-revenue-of-1-trillion-through-2027/article70752418.ece",
-    "time": "2026-03-17T04:31:24.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Nvidia to focus on competition-beating AI advances at megaconference",
-    "desc": "Nvidia GTC, as the conference is known, has become CEO Huang’s preferred event to show off ⁠Nvidia’s AI advances in chips, data centres, its chip programming software CUDA, digital assistants known as AI agents, and physical AI such as robots",
-    "img": "https://th-i.thgim.com/public/incoming/3ap0zg/article70748570.ece/alternates/LANDSCAPE_1200/2026-03-13T061907Z_994719350_RC2LEGAANDCC_RTRMADP_3_BYTEDANCE-NVIDIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/nvidia-to-focus-on-competition-beating-ai-advances-at-megaconference/article70748569.ece",
-    "time": "2026-03-16T05:59:08.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
