@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "મુસલમાનો અને ઇસ્લામિક દેશો પર ખતરનાક ભવિષ્યવાણી વાયરલ ! શું પાકિસ્તાનનો નક્શો મટી થશે? ભારત વિશે પણ ચોંકાવનારા દાવા",
+    "desc": "1969માં વેજિટેરિયન એથિકલ ચિલ્ડ્રન્સ એસોસિએશન મેગેઝિનની સ્થાપના કરવામાં આવી હતી. જ્યારે 1972માં તે મેગેઝિનની કથિત ભવિષ્યવાણી સોશિયલ મીડિયા પર વાયરલ થઈ રહી છે. તેમાં યુદ્ધ અને વૈશ્વિક પરિવર્તનના દાવા કરવામાં આવ્યા છે. એક્સપર્ટ કહે છે કે આ ધાર્મિક/વૈચારિક રીતે આધારિત લેખો છે, ચકાસણીયોગ્ય ભવિષ્યવાણીઓ નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/dangerous-prophecy-on-muslims-and-islamic-countries-goes-viral-shocking-claims-about-india-too-469543 ",
+    "time": "2026-03-21T12:04:40.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "IPL પહેલા BCCIની મોટી જાહેરાત, આ દેશના પ્રવાસે જશે ટીમ ઈન્ડિયા, રમશે T20 સિરીઝ",
     "desc": "IPL 2026ની શરૂઆત પહેલા BCCIએ એક મોટી જાહેરાત કરી છે. ટીમ ઇન્ડિયા જૂન મહિનામાં એક નવી સિરીઝ રમવા માટે તૈયાર છે. આ બે મેચની સિરીઝ હશે. BCCIએ સોશિયલ મીડિયા પર આ અંગે સંપૂર્ણ વિગતો જાહેર કરી છે.",
@@ -585,15 +594,6 @@ const newsData_gu = [
     "time": "2026-03-18T03:53:28.000Z"
   },
   {
-    "cat": "World",
-    "title": "ટ્રમ્પની ટીમમાં તિરાડ ! સિનિયર અધિકારીએ આપ્યું રાજીનામું, કહ્યું",
-    "desc": "ઈરાન સાથેના યુદ્ધને લઈને અમેરિકાના કાઉન્ટર ટેરરિઝમ સેન્ટરના ડિરેક્ટર જો કેન્ટે રાજીનામું આપી દીધું છે. કેન્ટે જણાવ્યું હતું કે અમેરિકાએ ઇઝરાયલના દબાણ હેઠળ આ યુદ્ધ શરૂ કર્યું હતું અને તેઓ હવે તેનું સમર્થન કરશે નહીં. કેન્ટના રાજીનામાથી ડોનાલ્ડ ટ્રમ્પને મોટો ઝટકો લાગ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/trump-govt-senior-officer-joe-kent-resigns-amid-war-with-iran-469013 ",
-    "time": "2026-03-17T16:00:29.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "WhatsApp, કોલ અને એપથી ઘરે બેઠા-બેઠા આ રીતે બુક કરો LPG સિલિન્ડર, લાંબી લાઈનથી મળશે છુટકારો",
     "desc": "LPG સિલિન્ડર બુક કરાવવા માટે કંપનીઓએ WhatsApp અને એપ આધારિત સેવાઓ ઉપલબ્ધ કરાવી છે. ફોન કોલ દ્વારા પણ બુકિંગ કરી શકાય છે. જો કે, WhatsApp ભારતમાં ખૂબ જ લોકપ્રિય છે, તેથી આ એપ દ્વારા ગેસ સિલિન્ડર પણ બુક કરાવી શકાય છે.",
@@ -646,24 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/price-is-less-than-10-lakhs-most-awaited-renault-duster-car-is-going-to-be-launched-in-india-tomorrow-features-will-be-special-468851 ",
     "time": "2026-03-16T13:59:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વિરાટ કોહલીએ પહેલીવાર પસંદ કરી RCBની ઓલટાઇમ પ્લેઈંગ XI, જાણો કોને બનાવ્યો કેપ્ટન",
-    "desc": "વિરાટ કોહલી છેલ્લા 18 વર્ષથી RCBનો ભાગ છે. પોતાના અનુભવના આધારે તેણે પહેલીવાર ટીમની ઓલ-ટાઇમ પ્લેઇંગ ઇલેવન પસંદ કરી છે, ત્યારે આ ટીમમાં કયા ખેલાડીઓને સ્થાન આપ્યું છે અને ટીમનો કેપ્ટન કોને બનાવવામાં આવ્યો છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rcb-all-time-playing-11-picked-by-virat-kohli-know-who-is-captain-468838 ",
-    "time": "2026-03-16T11:32:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પહેલી T20માં હાર બાદ કિવી ટીમને મોટો ઝટકો, મેચ વિનર ખેલાડી સિરીઝમાંથી બહાર",
-    "desc": "ન્યુઝીલેન્ડ અને દક્ષિણ આફ્રિકા વચ્ચે હાલમાં પાંચ મેચની ટી20 શ્રેણી રમાઈ રહી છે. આ શ્રેણી વચ્ચે જ કિવી ટીમને મોટો ઝટકો લાગ્યો છે. ટીમનો મેચ વિનર બોલર ઇશ સોઢી ઈજાને કારણે આખી સિરીઝમાંથી બહાર થઈ ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/new-zealand-spinner-ish-sodhi-ruled-out-of-t20i-series-against-south-africa-468814 ",
-    "time": "2026-03-16T07:16:47.000Z"
   },
   {
     "cat": "Entertainment",

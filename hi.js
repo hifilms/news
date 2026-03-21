@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Japan beat Australia to lift title in record-breaking AFC women's Asian Cup final",
+    "desc": "Japan defeated Australia in a tightly contested final to lift the Women’s Asian Cup. In the summit clash in Sydney, Maika Hamano’s early strike proved decisive for the visitors, who scored a stunning goal in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/japan-beat-australia-to-lift-title-in-record-breaking-afc-women-s-asian-cup-final-2026-03-21-1034605",
+    "time": "2026-03-21T12:37:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 players who can replace Akash Deep in KKR squad for IPL 2026",
+    "desc": "Kolkata Knight Riders pacer Akash Deep has been ruled out of IPL 2026, owing to a stress reaction in the lower back. He is expected to recover in 8-12 weeks, effectively ruling him out of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-players-who-can-replace-akash-deep-in-kkr-squad-for-ipl-2026-2026-03-21-1034601",
+    "time": "2026-03-21T11:50:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Another KKR pacer after Harshit Rana ruled out of IPL 2026, franchise seeking replacement",
+    "desc": "Kolkata Knight Riders are confronting a growing crisis in their pace department ahead of IPL 2026, with another setback further weakening their options before the tournament begins. Akash Deep has now been ruled out for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/another-kkr-pacer-after-harshit-rana-ruled-out-of-ipl-2026-franchise-seeking-replacement-2026-03-21-1034595",
+    "time": "2026-03-21T10:28:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sri Lanka players instructed to clear fitness tests to get NOCs for IPL 2026",
     "desc": "The IPL (Indian Premier League) 2026 is right around the corner, and the marquee event is all set to kick off on March 28. Ahead of the start of the tournament, SLC (Sri Lanka Cricket)...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/cricket-ireland-set-to-launch-euro-nations-cup-by-2027-to-feature-several-european-teams-2026-03-21-1034553",
     "time": "2026-03-21T02:45:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ireland announce ODI series against Afghanistan in August 2026 despite 'moral discomfort'",
-    "desc": "CI (Cricket Ireland) recently came forward and announced a five-game ODI series against Afghanistan. It is worth noting that the bilateral series has been announced despite the board’s moral discomfort over the Taliban's treatment of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ireland-announce-odi-series-against-afghanistan-in-august-2026-despite-moral-discomfort-2026-03-21-1034548",
-    "time": "2026-03-21T01:40:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer committed to win IPL in 2026, says 'my eye is on the trophy'",
-    "desc": "Punjab Kings captain Shreyas Iyer has set his sights firmly on the IPL title in 2026, after narrowly missing out in 2025, losing to Royal Challengers Bengaluru in the final. The side reached the final...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-committed-to-win-ipl-in-2026-says-my-eye-is-on-the-trophy-2026-03-20-1034543",
-    "time": "2026-03-20T18:24:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "International Masters League 2 will begin on October 24; Mumbai, Vadodara, Vizag to host",
-    "desc": "Cricket fans can brace themselves for another electrifying chapter of the International Masters League (IML), as the much-anticipated Season 2 prepares to make its return to Indian shores. After a successful debut season, the league...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/international-masters-league-2-will-begin-on-october-24-mumbai-vadodara-vizag-to-host-2026-03-20-1034542",
-    "time": "2026-03-20T18:08:40.000Z"
   }
 ];
