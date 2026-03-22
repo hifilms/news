@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "PSL 2026 to face West Asia war impact, PCB announces major changes for tournament",
+    "desc": "The Pakistan Cricket Board (PCB) announced on Sunday that the initial phase of the Pakistan Super League (PSL) 2026 will be played behind closed doors due to heightened tensions in the region stemming from the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/psl-2026-to-face-west-asia-war-impact-pcb-announces-major-changes-for-tournament-2026-03-22-1034683",
+    "time": "2026-03-22T11:41:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli reacts to speculations on 'chartered London flights' request during IPL 2026",
+    "desc": "Indian batting icon Virat Kohli has ended the silence on his rumoured requests to travel from India to London frequently during games in the Indian Premier League 2026. Kohli, who spends time with his family...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-reacts-to-speculations-on-chartered-london-flights-request-during-ipl-2026-2026-03-22-1034677",
+    "time": "2026-03-22T10:20:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Dasun Shanaka becomes latest to ditch Pakistan Super League, set to feature for Rajasthan Royals in IPL 2026",
     "desc": "In what has become a regular occurrence for the PSL (Pakistan Super League), star all-rounder Dasun Shanaka has reportedly opted out of the PSL 2026. The Sri Lanka captain was picked by Lahore Qalandars for...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-captured-grooving-to-divine-attends-mi-fan-fest-alongside-tilak-varma-and-co-watch-2026-03-22-1034640",
     "time": "2026-03-22T01:43:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arne Slot registers unwanted feat as Liverpool lose to Brighton in Premier League, UCL spot heats up",
-    "desc": "Liverpool’s Premier League struggles deepened on Saturday as they suffered a 2-1 defeat against Brighton, marking the first time in a decade that the club has lost 10 league games in a season. The defending...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/arne-slot-registers-unwanted-feat-as-liverpool-lose-to-brighton-in-premier-league-ucl-spot-heats-up-2026-03-21-1034633",
-    "time": "2026-03-21T17:51:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Wimbledon to introduce video review technology from 2026 season",
-    "desc": "Wimbledon will introduce video review technology from the 2026 edition, signalling a notable change in how matches are officiated at the All England Lawn Tennis and Croquet Club. The decision allows players to challenge selected...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/wimbledon-to-introduce-video-review-technology-from-2026-season-2026-03-21-1034629",
-    "time": "2026-03-21T17:23:00.000Z"
   }
 ];

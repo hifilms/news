@@ -106,14 +106,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/conan-obrien-oscars-2026-trump-epstein-joke-controversy-viral-video_644981.html ",
     "time": "2026-03-16T01:47:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ভয়ংকর অচলাবস্থার মুখে গোটা বিশ্ব! হরমুজের পর এবার বাবেল প্রণালী বন্ধ হলেই হাহাকার বাণিজ্যে",
-    "desc": "ইরানের যুদ্ধে যোগ দিতে পারে ইয়েমেনের হুথি গোষ্ঠী। সেরকমই ইঙ্গিত মিলছে। আর হুথিরা যদি সত্যিই যুদ্ধে যোগ দেয়, তাহলে আরও বড় সংকট তৈরি হতে চলেছে বিশ্ববাণিজ্যে। কেননা, সেক্ষেত্রে বন্ধ হতে চলেছে আর এক গুরুত্বপূর্ণ প্রণালী।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/bab-el-mandeb-strait-may-choked-after-hormuz-if-houthi-will-join-middle-east-war_644966.html ",
-    "time": "2026-03-15T15:34:22.000Z"
   }
 ];
