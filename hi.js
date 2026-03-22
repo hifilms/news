@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Axed RCB IPL winner scores 195* off 69 balls in 20-over game in Ayodhya Premier League",
+    "desc": "Dropped from the Royal Challengers Bengaluru after their 2025 title campaign, young batter Swastik Chikara has stormed into the headlines with a jaw-dropping knock. Chikara, who did not get to play a game last year...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/axed-rcb-ipl-winner-scores-195-off-69-balls-in-20-over-game-in-ayodhya-premier-league-2026-03-22-1034699",
+    "time": "2026-03-22T14:32:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Amelia Kerr creates world record across women's and men's T20Is as New Zealand seal South Africa series",
+    "desc": "New Zealand captain Amelia Kerr has etched her name into the history books for her terrific run as she created a world record across women's and men's T20Is. Kerr scored 31 from 29 balls as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/amelia-kerr-creates-world-record-across-womens-and-mens-t20is-as-new-zealand-seal-south-africa-series-2026-03-22-1034695",
+    "time": "2026-03-22T13:41:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cricket Australia announces 2026-27 calendar as historic 4-Test series against New Zealand headlines schedule",
+    "desc": "Cricket Australia (CA) on Sunday announced the 2026-27 home calendar, which will be headlined with a historic four-Test series against New Zealand. The series will mark the first instance of the Kiwis playing in more...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cricket-australia-announces-2026-27-calendar-as-historic-4-test-series-against-new-zealand-headlines-schedule-2026-03-22-1034689",
+    "time": "2026-03-22T12:50:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PSL 2026 to face West Asia war impact, PCB announces major changes for tournament",
     "desc": "The Pakistan Cricket Board (PCB) announced on Sunday that the initial phase of the Pakistan Super League (PSL) 2026 will be played behind closed doors due to heightened tensions in the region stemming from the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-weighs-in-on-rr-s-home-venue-situation-ahead-of-ipl-2026-2026-03-22-1034658",
     "time": "2026-03-22T05:42:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Do teen hazaar runs': Vaibhav Suryavanshi's hilarious response to question leaves everyone in splits",
-    "desc": "With the IPL (Indian Premier League) 2026 season all set to kick off on March 28, many eyes will set upon 14-year-old India superstar Vaibhav Suryavanshi. The star batter established himself as one of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/do-teen-hazaar-runs-vaibhav-suryavanshi-s-hilarious-response-to-question-leaves-everyone-in-splits-watch-2026-03-22-1034646",
-    "time": "2026-03-22T03:48:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jimmy Neesham to lead New Zealand against South Africa after Tom Latham's injury",
-    "desc": "The stage is set for the fourth T20I of the ongoing five-game series between New Zealand and South Africa. The two sides will take on each other in the fourth T20I of the series at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jimmy-neesham-to-lead-new-zealand-against-south-africa-after-tom-latham-s-injury-2026-03-22-1034643",
-    "time": "2026-03-22T03:03:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma captured grooving to Divine, attends MI fan fest alongside Tilak Varma and co.",
-    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee tournament is all set to kick off on March 28, and ahead of the tournament, veteran India batter Rohit...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-captured-grooving-to-divine-attends-mi-fan-fest-alongside-tilak-varma-and-co-watch-2026-03-22-1034640",
-    "time": "2026-03-22T01:43:11.000Z"
   }
 ];
