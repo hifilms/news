@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rohit Sharma captured grooving to Divine, attends MI fan fest alongside Tilak Varma and co.",
+    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee tournament is all set to kick off on March 28, and ahead of the tournament, veteran India batter Rohit...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-captured-grooving-to-divine-attends-mi-fan-fest-alongside-tilak-varma-and-co-watch-2026-03-22-1034640",
+    "time": "2026-03-22T01:43:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Arne Slot registers unwanted feat as Liverpool lose to Brighton in Premier League, UCL spot heats up",
     "desc": "Liverpool’s Premier League struggles deepened on Saturday as they suffered a 2-1 defeat against Brighton, marking the first time in a decade that the club has lost 10 league games in a season. The defending...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/another-kkr-pacer-after-harshit-rana-ruled-out-of-ipl-2026-franchise-seeking-replacement-2026-03-21-1034595",
     "time": "2026-03-21T10:28:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka players instructed to clear fitness tests to get NOCs for IPL 2026",
-    "desc": "The IPL (Indian Premier League) 2026 is right around the corner, and the marquee event is all set to kick off on March 28. Ahead of the start of the tournament, SLC (Sri Lanka Cricket)...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-players-instructed-to-clear-fitness-tests-to-get-nocs-for-ipl-2026-2026-03-21-1034588",
-    "time": "2026-03-21T09:24:25.000Z"
   }
 ];

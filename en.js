@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Trump threatens Iran with power plant strikes over Hormuz blockade",
+    "desc": "If Iran doesn’t FULLY OPEN, WITHOUT THREAT, the Strait of Hormuz, within 48 HOURS from this exact point in ‌time, the United States of America will hit and obliterate their various POWER PLANTS, STARTING WITH THE BIGGEST ONE FIRST, says U.S. President Donald Trump",
+    "img": "https://th-i.thgim.com/public/incoming/6jeyg3/article70771378.ece/alternates/LANDSCAPE_1200/2026-03-18T110040Z_1584054438_RC2K6HAS98AC_RTRMADP_3_USA-TRUMP-DRILLING-ALASKA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-threatens-iran-with-power-plant-strikes-over-hormuz-blockade/article70771376.ece",
+    "time": "2026-03-22T01:53:43.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Why is Israel attacking Lebanon?",
+    "desc": "Why is the ground offensive concentrated in southern Lebanon? Why has Israel carried out several attacks against Hezbollah in the past and why does it want to dismantle the Shia militant group? What does it want to achieve?",
+    "img": "https://th-i.thgim.com/public/incoming/207vlc/article70770290.ece/alternates/LANDSCAPE_1200/2026-03-21T044507Z_1951504255_RC2E6KAOWG3D_RTRMADP_3_IRAN-CRISIS-LEBANON-HEZBOLLAH.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/explained-why-is-israel-attacking-lebanon/article70770015.ece",
+    "time": "2026-03-22T01:36:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war LIVE: Trump threatens Iran with power plant strikes over Hormuz blockade",
+    "desc": "Israeli officials said that ‌Iranian ⁠forces had for the first time fired long-range missiles, expanding the ⁠risk of attacks beyond West Asia, even as an Iranian strike injured dozens of people not far from Israel’s nuclear site.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-hezbollah-oil-supply-march-22-2026/article70771375.ece",
+    "time": "2026-03-22T01:34:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Youth' BO day 3: Suraj Venjaramoodu’s film sees Rs 4.85 cr jump",
+    "desc": "Suraj Venjaramoodu's Tamil film 'Youth' is making a strong box office debut, crossing Rs 11.95 crore net in its opening three days. The coming-of-age drama, focusing on a 15-year-old's journey, saw a significant 38.6% growth on its third day. The film's steady performance indicates a positive reception for the actor's latest Tamil venture.",
+    "img": "https://static.toiimg.com/photo/msid-129727247,imgsize-111710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/youth-box-office-collections-day-3-suraj-venjaramoodus-film-sees-rs-4-85-cr-jump-collects-rs-11-95-cr-net/articleshow/129727247.cms",
+    "time": "2026-03-22T01:34:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "LeBron James breaks record for most NBA games played",
+    "desc": "\"He's got to be insane,\" 27-year-old teammate Austin Reaves said of James's continued appetite for excellence. \"Can't be normal things going on in his brain to do it so well at such a high level.",
+    "img": "https://th-i.thgim.com/public/incoming/dgkvx7/article70771386.ece/alternates/LANDSCAPE_1200/Lakers_Magic_Basketball_03386.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/lebron-james-breaks-record-for-most-nba-games-played/article70771385.ece",
+    "time": "2026-03-22T01:32:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Actor Ryan Gosling reveals being a wedding singer as a kid",
+    "desc": "Actor Ryan Gosling's early career began at wedding receptions. His uncle, an Elvis Presley impersonator, inspired his performance journey. Gosling sang for brides for pocket money. This experience honed skills that led to his role on The All-New Mickey Mouse Club. His uncle's local fame also taught him about the magic of performance.",
+    "img": "https://static.toiimg.com/photo/msid-129727197,imgsize-670317.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/actor-ryan-gosling-reveals-being-a-wedding-singer-as-a-kid-says-elvis-presley-obsessed-uncle-sparked-his-journey-to-stardom/articleshow/129727198.cms",
+    "time": "2026-03-22T01:16:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shilpa Shetty reacts to ‘Dhurandhar 2’",
+    "desc": "The Revenge,' calling him a 'Babbar Sher.' She also praised R. Madhavan, Rakesh Bedi, Arjun Rampal, and Sanjay Dutt for their contributions. The film, directed by Aditya Dhar, has garnered widespread appreciation and achieved over Rs 500 crore globally within three days of its release.",
+    "img": "https://static.toiimg.com/photo/msid-129727101,imgsize-164662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-shilpa-shetty-praises-ranveer-singhs-film-says-aap-babbar-sher-ho/articleshow/129727101.cms",
+    "time": "2026-03-22T01:03:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Holland is excited for Zendaya’s new film ‘The Drama’",
+    "desc": "With infectious enthusiasm, Tom Holland has taken to social media to champion Zendaya's upcoming film, 'The Drama,' which pairs her with Robert Pattinson. His fervent support adds fuel to the fire of ongoing discussions about their potential romance.",
+    "img": "https://static.toiimg.com/photo/msid-129727096,imgsize-147932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-couldnt-be-more-excited-for-zendayas-new-film-the-drama-amid-wedding-speculations/articleshow/129727096.cms",
+    "time": "2026-03-22T00:54:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Peaky Blinders: The Immortal Man’ ending explained",
+    "desc": "The Immortal Man' not with a bang, but a quiet reckoning. Haunted and frail, he seeks to make amends for his past actions. His final mission, driven by the death of his sister Ada, leads to a personal confrontation and a self-chosen end, fulfilling a long-planned farewell.",
+    "img": "https://static.toiimg.com/photo/msid-129727090,imgsize-699989.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/peaky-blinders-immortal-man-ending-explained-thomas-shelby-delivers-a-quiet-reckoning/articleshow/129727037.cms",
+    "time": "2026-03-22T00:52:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mohanlal and Priyadarshan reunite for 100th film",
+    "desc": "Mohanlal and Priyadarshan are coming together once again for the director's 100th film, a moment that has deeply resonated with the veteran actor. In an emotional statement, Mohanlal conveyed his thanks for experiencing such a pivotal chapter in their careers.",
+    "img": "https://static.toiimg.com/photo/msid-129727058,imgsize-137520.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlal-and-priyadarshan-reunite-for-100th-film-drishyam-3-actor-says-some-milestones-do-not-belong-to-one-person-alone/articleshow/129727058.cms",
+    "time": "2026-03-22T00:40:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dhurandhar: The Revenge’ crosses Rs 500 cr mark in 3 days",
+    "desc": "The Revenge' has shattered box office records, crossing the ₹500 crore mark globally in just three days. The Aditya Dhar-directed film, following the journey of an undercover spy infiltrating Lyari's underworld, has garnered immense audience appreciation for its high-octane action and compelling narrative.",
+    "img": "https://static.toiimg.com/photo/msid-129727045,imgsize-86786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-3-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-starrer-crosses-rs-500-crore-mark-globally/articleshow/129727042.cms",
+    "time": "2026-03-22T00:31:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Aadu 3' BO day 3: Jayasurya’s film touches Rs 19.45 cr net",
+    "desc": "One Last Ride - Part 1' is showing strong box office growth, nearing ₹20 crore net after its opening weekend. Despite mixed audience reactions, the film's steady performance and the return of popular characters are drawing crowds. Weekday collections will be crucial for its continued success.",
+    "img": "https://static.toiimg.com/photo/msid-129727022,imgsize-196234.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aadu-3-box-office-collections-day-3-jayasuryas-film-touches-rs-19-45-cr-net-with-solid-weekend-growth/articleshow/129727022.cms",
+    "time": "2026-03-22T00:21:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ustaad Bhagat Singh' BO day 3: Film mints Rs 71.67 cr",
+    "desc": "Pawan Kalyan's 'Ustaad Bhagat Singh' is off to a strong start, crossing Rs 70 crore worldwide in its opening weekend. Despite a festive Ugadi release boosting initial numbers, audience reactions are divided, with some praising its mass appeal and others finding it outdated.",
+    "img": "https://static.toiimg.com/photo/msid-129727005,imgsize-103578.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ustaad-bhagat-singh-box-office-collections-day-3-pawan-kalyan-and-raashii-khanna-film-mints-rs-71-67-cr-worldwide/articleshow/129727005.cms",
+    "time": "2026-03-22T00:05:51.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Kanshi Ram returns",
     "desc": "The Bahujan Samaj Party founder’s name is being invoked by the leaders in Uttar Pradesh across political lines over the past two weeks and his supporters say that the architect of Dalit consciousness is being resurrected for the State’s Assembly poll next year, finds Mayank Kumar",
@@ -73,12 +190,21 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "BJP announces nine candidates for Puducherry polls",
-    "desc": "The Bharatiya Janata Party (BJP) has announced nine candidates for the Puducherry Legislative Assembly elections, contesting in alliance with the All India NR Congress. The Election Commission of India has also completed the first randomisation of EVMs and VVPATs for the upcoming polls in Puducherry, Assam, and Kerala, as well as for bye-elections in other states.",
-    "img": "https://static.toiimg.com/photo/msid-129723475,imgsize-128028.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-announces-nine-candidates-for-puducherry-polls/articleshow/129723446.cms",
-    "time": "2026-03-21T17:55:37.000Z"
+    "title": "What did the Supreme Court say about paid maternity leave?",
+    "desc": "Why did the Supreme Court strike down Section 60(4) of the Social Security Code, 2020? What did it say about maternity leave for adoptive mothers? What did the Court recommend that the Union government do regarding paternity leave?",
+    "img": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/4d7dse/article70770278.ece/alternates/LANDSCAPE_1200/iStock-672165776.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/what-did-the-supreme-court-say-about-paid-maternity-leave/article70770019.ece",
+    "time": "2026-03-21T18:02:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A game of four",
+    "desc": "The Tamil Nadu Assembly election will see a four-cornered contest this April. As the DMK and its allies and the AIADMK and its partners remain the principal participants of the big fight, it is also clear that the newly formed Tamilaga Vettri Kazhagam and the steady presence of the Naam Tamizhar Katchi in electoral politics will have roles to play. This report analyses the political situation ahead of this election that entices voters with the promise that it will be like nothing the State has never seen so far",
+    "img": "https://th-i.thgim.com/public/incoming/r1x3qr/article70770287.ece/alternates/LANDSCAPE_1200/ELECTION%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-game-of-four/article70770259.ece",
+    "time": "2026-03-21T17:53:13.000Z"
   },
   {
     "cat": "Tech",
@@ -187,15 +313,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/engineers-will-be-better-off-with-emerging-new-roles-due-to-ai-say-panelists-at-webinar/article70769796.ece",
     "time": "2026-03-21T16:03:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Will the ‘Suresh Gopi effect’ work again in Thrissur?",
-    "desc": "The actor won the 2024 Lok Sabha election from Thrissur with a massive margin of 74,840 votes, giving BJP its first MP from the State. The key question for the party is whether his vote-pulling ability can transfer to another candidate; this time, Padmaja Venugopal in the Assembly election. Critics argue that the sheen of the LS poll victory has since faded",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/will-the-suresh-gopi-effect-work-again-in-thrissur/article70766516.ece",
-    "time": "2026-03-21T15:51:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,15 +459,6 @@ const newsData_en = [
     "time": "2026-03-21T13:20:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rakesh Bedi called himself 'Dhurandhar' 12 years ago",
-    "desc": "The Revenge' is making waves at the box office. The synchronicity of Bedi's character with the film's title has sparked excitement among viewers, creating a buzz that complements the movie's remarkable success, grossing over Rs 280 crore.",
-    "img": "https://static.toiimg.com/photo/msid-129719655,imgsize-112656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakesh-bedi-called-himself-dhurandhar-12-years-ago-amid-dhurandhar-the-revenge-success-watch-video/articleshow/129719655.cms",
-    "time": "2026-03-21T13:18:15.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'He should be called Dhurandhar Dhami': Defence minister Rajnath Singh on 4 years of Uttarakhand govt",
     "desc": "Addressing a public gathering here on the completion of four years of the Uttarakhand government, the Defence Minister expressed pride and confidence in the government led by CM Dhami and attributed the state's growth to him.",
@@ -378,15 +486,6 @@ const newsData_en = [
     "time": "2026-03-21T12:38:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Manish's mother's prayer meet: Celebs arrive to offer condolences",
-    "desc": "Bollywood stars gathered for a prayer meeting honoring Manish Malhotra's late mother, Sudarshan Malhotra, who passed away at 93. The event followed her funeral on March 20th. Numerous celebrities, including Ajay Devgn, Kajol, and Aishwarya Rai Bachchan, had previously visited Malhotra's residence to offer condolences after her demise on March 19th. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129718463,imgsize-138042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manish-malhotras-mother-sudarshan-malhotras-prayer-meet-ajay-devgn-vicky-kaushal-sara-ali-khan-gauri-khan-kajol-and-more-offer-condolences/articleshow/129718463.cms",
-    "time": "2026-03-21T12:30:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Here’s why",
     "desc": "Former India pacer Irfan Pathan believes Mumbai Indians edge out Chennai Super Kings as the IPL's greatest team, highlighting MI's significant contribution of match-winners to the Indian squad. Pathan also noted that the upcoming IPL season will be a crucial learning phase for young batting sensation Vaibhav Sooryavanshi, who faces increased scrutiny from opposition bowlers.",
@@ -396,15 +495,6 @@ const newsData_en = [
     "time": "2026-03-21T12:23:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sarath Kumar praises Aditya Dhar’s 'Dhurandhar The Revenge'",
-    "desc": "The Revenge,' calling it a 'bold narration of untold truth.' He highlighted the film's focus on 'unsung heroes' and their selfless patriotism. Kumar praised the gripping screenplay, intense action, and the entire team, including Ranveer Singh, for an engaging cinematic experience that kept audiences glued to their seats.",
-    "img": "https://static.toiimg.com/photo/msid-129718505,imgsize-204014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sarath-kumar-praises-aditya-dhars-dhurandhar-the-revenge-for-its-bold-narration-a-story-of-unsung-heroes/articleshow/129718505.cms",
-    "time": "2026-03-21T12:14:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Anahat Singh, Tanvi Khanna make it to the semi-finals",
     "desc": "India's Anahat Singh and Tanvi Khanna secured semifinal berths at the Indian Open Squash Championship, guaranteeing a national presence in the final. Top seed Anahat dominated her quarterfinal, while Tanvi staged an impressive upset. Local favorite Joshna Chinappa, however, was eliminated by Egypt's Nadien El Hammamy.",
@@ -412,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/india-open-squash-anahat-singh-tanvi-khanna-make-it-to-the-semi-finals/articleshow/129718189.cms",
     "time": "2026-03-21T11:56:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sivakarthikeyan’s salary for ‘Seyon’ revealed",
-    "desc": "Actor Bharath candidly discussed the volatile nature of the film industry at the 'Kaalidas 2' audio launch, emphasizing that an actor's market value is dictated by their last film's performance. He highlighted the crucial role of a good director in an actor's career and reflected on 'Kaalidas' as his significant comeback film.",
-    "img": "https://static.toiimg.com/photo/msid-129718100,imgsize-108982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sivakarthikeyans-salary-for-seyon-revealed-opts-for-70-profit-sharing-with-kamal-haasans-production-banner-reports/articleshow/129718100.cms",
-    "time": "2026-03-21T11:51:10.000Z"
   },
   {
     "cat": "Politics",
@@ -441,15 +522,6 @@ const newsData_en = [
     "time": "2026-03-21T11:33:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When ‘Desi Girl’ interviewed 'Friends' star Jennifer Aniston",
-    "desc": "The 2017 Oscars, infamous for its Best Picture mix-up, also hosted an unforgettable backstage moment. Priyanka Chopra and Jennifer Aniston engaged in a hilariously awkward, unplanned interview with Chrissy Teigen and Kelly Ripa. Their genuine confusion and laughter over a 'hall pass' question created a relatable, unscripted gem that still delights audiences.",
-    "img": "https://static.toiimg.com/photo/msid-129720353,imgsize-113454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/revisiting-oscars-2017-memory-when-desi-girl-priyanka-chopra-jonas-interviewed-friends-star-jennifer-aniston/articleshow/129717147.cms",
-    "time": "2026-03-21T11:29:54.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Condemn attack on critical infrastructure': PM Modi speaks to Iran president, says 'shipping lanes must stay open'",
     "desc": "Prime Minister Narendra Modi spoke with Iranian President Masoud Pezeshkian, condemning attacks on critical infrastructure that threaten regional stability and global supply chains. Modi reiterated the importance of open and secure shipping lanes and conveyed Eid al-Fitr and Nowruz greetings, expressing hope for peace and prosperity in the Middle East.",
@@ -457,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/condemn-attack-on-critical-infrastructure-pm-modi-speaks-to-iran-president-says-shipping-lanes-must-stay-open/articleshow/129717695.cms",
     "time": "2026-03-21T11:28:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karan Johar rules out ‘K3G 2’, shares update on ‘Takht’",
-    "desc": "Karan Johar has addressed the buzz about a potential continuation of his iconic movie 'Kabhi Khushi Kabhie Gham,' firmly declaring that he won't disturb the cherished memories associated with it. While his ambitious project 'Takht' remains archived for now, he reassures audiences that it will not be forgotten.",
-    "img": "https://static.toiimg.com/photo/msid-129717683,imgsize-11666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-rules-out-kabhi-khushi-kabhie-gham-2-and-provides-an-update-on-takht-will-never-mess-with-that-nostalgia/articleshow/129717683.cms",
-    "time": "2026-03-21T11:26:48.000Z"
   },
   {
     "cat": "Sports",
@@ -477,15 +540,6 @@ const newsData_en = [
     "time": "2026-03-21T11:19:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2': RGV calls the film a 'RESET BUTTON'",
-    "desc": "The Revenge', suggesting it acts as a 'reset button' for the Indian film industry. Debuting on March 19, 2026, this gripping espionage thriller chronicles a spy's ascent in Pakistan and has already raked in more than Rs 270 crore. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129716717,imgsize-132836.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-the-revenge-ram-gopal-varma-hails-the-ranveer-singh-starrer-a-reset-button-in-new-review/articleshow/129716717.cms",
-    "time": "2026-03-21T11:08:16.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "How BJP manages ‘floating majority’ with bellwether backings",
     "desc": "​When the BJP swept to power in 2014 with a decisive majority in the Lok Sabha, it did not carry that dominance into the Rajya Sabha. The Upper House, by design, is insulated from electoral waves. Its members are elected by state assemblies, and their terms are staggered, ensuring continuity and preventing sudden shifts. This meant that even as the BJP commanded brute strength in the Lower House, it remained a minority in the Upper House for years. That imbalance mattered!",
@@ -495,15 +549,6 @@ const newsData_en = [
     "time": "2026-03-21T10:58:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "FINNEAS found Timberlake's DUI video ‘funnier'",
-    "desc": "Justin Timberlake's 2024 DUI arrest bodycam footage has surfaced, sparking viral reactions. FINNEAS humorously commented on the video, drawing mixed responses. Timberlake was pulled over for traffic violations, admitting to one drink, and later pleaded guilty to a lesser charge, receiving a fine and community service. He had fought to keep the footage private.",
-    "img": "https://static.toiimg.com/photo/msid-129717419,imgsize-80350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/finneas-finds-justin-timberlakes-dui-arrest-footage-funnier-than-he-had-ever-imagined/articleshow/129717381.cms",
-    "time": "2026-03-21T10:55:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "From Sachin to Sunil Narine, how the system works",
     "desc": "The IPL 2026 season kicks off March 28. The Most Valuable Player is determined by a points system rewarding fours, sixes, wickets, dot balls, catches, and stumpings. Sunil Narine holds the record for most MVP awards with three wins. Suryakumar Yadav was the MVP in 2025.",
@@ -511,24 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-mvps-since-2008-from-sachin-tendulkar-to-sunil-narine-how-the-system-works/articleshow/129716910.cms",
     "time": "2026-03-21T10:52:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kangana HAILS Aditya Dhar as a 'superstar filmmaker'",
-    "desc": "The Revenge,' calling him a visionary talent. She drew attention to the film's outstanding box office performance, advocating for greater recognition of the hard work that Indian filmmakers invest compared to their Hollywood peers. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129717238,imgsize-100738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shining-brighter-than-any-hero-kangana-ranaut-hails-aditya-dhar-as-a-superstar-filmmaker/articleshow/129717238.cms",
-    "time": "2026-03-21T10:45:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why Kerala's 'semi-final' verdict has put Left on red alert ahead of April 9 polls",
-    "desc": "Local body poll results in Kerala signal a potential shift, with the Congress-led UDF gaining momentum against the ruling LDF. The UDF secured key urban strongholds, raising concerns about anti-incumbency for Chief Minister Pinarayi Vijayan's government. The BJP also shows strategic expansion, hinting at a more competitive assembly election.",
-    "img": "https://static.toiimg.com/photo/msid-129717246,imgsize-590472.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-keralas-semi-final-verdict-has-put-left-on-red-alert-ahead-of-april-9-polls/articleshow/129717022.cms",
-    "time": "2026-03-21T10:42:06.000Z"
   },
   {
     "cat": "Business",
@@ -556,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/wasnt-easy-anaya-reveals-father-sanjay-bangars-role-after-gender-affirming-surgery/articleshow/129716576.cms",
     "time": "2026-03-21T10:26:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Moral cowardice': Congress slams Centre as Middle East war enters third week, poses 4 questions to PM Modi",
-    "desc": "Congress leader Jairam Ramesh has accused Prime Minister Narendra Modi of 'moral cowardice and political betrayal' over the Centre's silence on the US-Israel conflict with Iran. Ramesh highlighted the government's lack of condemnation or diplomatic initiative to de-escalate tensions, questioning the PM's inaction despite his recent visit to Israel and claimed friendships.",
-    "img": "https://static.toiimg.com/photo/msid-129716941,imgsize-717180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/moral-cowardice-congress-slams-centre-as-middle-east-war-enters-third-week-poses-4-questions-to-pm-modi/articleshow/129716792.cms",
-    "time": "2026-03-21T10:20:18.000Z"
   },
   {
     "cat": "Sports",
@@ -637,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-signs-sanju-samson-refuses-csks-new-star-wins-hearts-with-classy-gesture-watch/articleshow/129714330.cms",
     "time": "2026-03-21T06:30:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Winnability a factor’: Shashi Tharoor on concern over less women in Kerala fray",
-    "desc": "Congress leader Shama Mohamed on Friday raised concerns over the low representation of women in the party's candidate list, urging Rahul Gandhi to intervene. In a post on X, Mohamed said that out of 92 tickets, only nine had been allotted to women. She also pointed to the Lok Sabha elections, where just one woman was fielded among 16 candidates in Kerala.\"Denied but not defeated,\" she wrote, appealing to Rahul Gandhi to support women leaders in the state unit.",
-    "img": "https://static.toiimg.com/photo/msid-129714212,imgsize-74940.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/winnability-a-factor-shashi-tharoor-on-concern-over-less-women-in-kerala-fray/articleshow/129713482.cms",
-    "time": "2026-03-21T06:14:50.000Z"
   },
   {
     "cat": "Business",
@@ -774,24 +783,6 @@ const newsData_en = [
     "time": "2026-03-20T14:23:10.000Z"
   },
   {
-    "cat": "World",
-    "title": "Fire at South Korean auto parts factory injures at least 53",
-    "desc": "Some people were injured while jumping from the building during escape attempts, while others suffered from smoke inhalation, the fire chief of the city’s Daedeok district said. Police were tracking mobile phone signals of the 14 people still unaccounted for.",
-    "img": "https://th-i.thgim.com/public/incoming/stw5o5/article70764586.ece/alternates/LANDSCAPE_1200/South_Korea_Fire_37858.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/fire-at-south-korean-auto-parts-factory-in-daejeon/article70764574.ece",
-    "time": "2026-03-20T08:56:03.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Norway's crown princess says she was 'manipulated and deceived' by Epstein",
-    "desc": "The U.S. Justice Department's release of ⁠millions of Epstein documents has sent shockwaves around the world, revealing the disgraced financier's ties to prominent people, including the crown ‌princess and top Norwegian politicians, business executives and diplomats",
-    "img": "https://th-i.thgim.com/public/incoming/7xp8vh/article70764642.ece/alternates/LANDSCAPE_1200/2026-03-20T064233Z_378798132_RC2PDIA849RT_RTRMADP_3_USA-TRUMP-EPSTEIN-NORWAY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/norways-crown-princess-says-she-was-manipulated-and-deceived-by-epstein/article70764560.ece",
-    "time": "2026-03-20T08:11:38.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Crude sinks after Benjamin Netanyahu tries to reassure on Iran war",
     "desc": "But with the conflict heading into a fourth week, most equities fell as investors fret over energy markets, with oil still holding around $100 and gas surging amid the effective closure of the crucial Strait of Hormuz",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/men-in-blue-a-t20-behemoth/article70759275.ece",
     "time": "2026-03-18T17:54:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 Countdown",
+    "desc": "The core of the DC squad isn’t different to the last season, where it finished fifth after a sparkling start; Rahul will shoulder the responsibility of laying a strong base as opener; Axar, Kuldeep and Vipraj round off a well-stocked spin department",
+    "img": "https://th-i.thgim.com/public/sport/hjs1xh/article70759325.ece/alternates/LANDSCAPE_1200/AXAR.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-countdown-capitals-need-to-deliver-at-optimum-capacity-to-fulfil-their-elusive-dream/article70759319.ece",
+    "time": "2026-03-18T17:13:53.000Z"
   }
 ];
