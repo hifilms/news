@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "સૌથી લાંબા સમય સુધી સેવા કરનાર સરકારના પ્રમુખ બન્યા પીએમ મોદી, CM-PM ના રૂપમાં થયા 8931 દિવસ",
+    "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદીએ ભારતમાં સૌથી લાંબા સમય સુધી સેવા કરનાર ચૂંટાયેલી સરકારના પ્રમુખનો નવો રેકોર્ડ બનાવ્યો છે. મુખ્યમંત્રી અને પ્રધાનમંત્રીના રૂપમાં કુલ 8931 દિવસ પુરા કરી તેમણે સિક્કિમના પૂર્વ મુખ્યમંત્રી પવન કુમાર ચામલિંગને પાછળ છોડ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/narendra-modi-breaks-record-india-longest-serving-elected-leader-cm-pm-469657 ",
+    "time": "2026-03-22T09:20:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KKRને ઝટકા પર ઝટકો ! વધુ એક ભારતીય ફાસ્ટ બોલર IPL 2026માંથી બહાર",
+    "desc": "IPL 2026 28 માર્ચથી શરૂ થવાની છે, પરંતુ ટુર્નામેન્ટ પહેલા KKRને વધુ એક ઝટકો લાગ્યો છે. ફાસ્ટ બોલર આકાશ દીપ આખી સીઝનમાંથી બહાર થઈ ગયો છે. KKRએ મિની-ઓક્શન દરમિયાન આકાશ દીપને 1 કરોડમાં ખરીદ્યો હતો. આ પહેલા પણ બે ફાસ્ટ બોલર ઈજાગ્રસ્ત થતાં બહાર થયા છે, ત્યારે વધુ એક બોલર ઈજાગ્રસ્ત થતાં KKRની મુશ્કેલી વધી ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/kkr-pacer-akash-deep-ruled-out-of-ipl-2026-due-to-injury-469649 ",
+    "time": "2026-03-22T06:50:57.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "1 બોલમાં 21 રન... વર્લ્ડ કપની એ મેચ, જેમાં રમત નહીં પણ નિયમ જીત્યો",
     "desc": "ક્રિકેટના ઇતિહાસમાં 22 માર્ચ, 1992ના રોજ સિડની ક્રિકેટ ગ્રાઉન્ડ ખાતે એક એવી મેચ રમાઈ હતી. જેને આજે પણ એક વિચિત્ર નિયમના કારણે યાદ કરવામાં આવે છે. આ મેચ ઇંગ્લેન્ડ અને દક્ષિણ આફ્રિકા વચ્ચે રમાઈ હતી. એક એવો નિયમ કે જેના કારણે જીતેલી મેચ દક્ષિણ આફ્રિકા હારી ગયું હતું.",
@@ -511,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/tartessos-civilization-mystery-city-spread-over-200-kilometers-disappeared-overnight-mystery-has-not-been-solved-till-date-469143 ",
     "time": "2026-03-18T15:07:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "જીન્સ-ટીશર્ટ પર પ્રતિબંધ, સોશિયલ મીડિયા પર પણ સરકારની &amp;#039;વોચ&amp;#039;... સરકારી કર્મચારીઓ માટે નવા નિયમો લાગુ",
-    "desc": "હિમાચલ પ્રદેશ સરકારે તમામ સરકારી કર્મચારીઓ માટે નવો ડ્રેસ કોડ લાગુ કર્યો છે. જેમાં ઓફિસમાં ફોર્મલ અને શાલીન પોશાક અનિવાર્ય કરવામાં આવ્યો છે અને જીન્સ તેમજ ટી-શર્ટ પર સંપૂર્ણ પ્રતિબંધ મૂકવામાં આવ્યો છે. સાથે જ સોશિયલ મીડિયા પર પરવાનગી વગર સરકારી નીતિઓ પર ટિપ્પણી કરવા અને સત્તાવાર માહિતી શેર કરવા પર મનાઈ ફરમાવવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ban-on-jeans-and-t-shirts-strict-social-media-restrictions-new-rules-implemented-for-government-employees-in-himachal-469142 ",
-    "time": "2026-03-18T14:33:00.000Z"
   },
   {
     "cat": "World",

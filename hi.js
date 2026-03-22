@@ -1,7 +1,34 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "South Africa hope for good start with the bat",
+    "title": "Dasun Shanaka becomes latest to ditch Pakistan Super League, set to feature for Rajasthan Royals in IPL 2026",
+    "desc": "In what has become a regular occurrence for the PSL (Pakistan Super League), star all-rounder Dasun Shanaka has reportedly opted out of the PSL 2026. The Sri Lanka captain was picked by Lahore Qalandars for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dasun-shanaka-becomes-latest-to-ditch-pakistan-super-league-set-to-feature-for-rajasthan-royals-2026-03-22-1034672",
+    "time": "2026-03-22T09:10:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'No one can stop RR': Former India spinner backs Vaibhav Suryavanshi to impress with Rajasthan Royals",
+    "desc": "With the IPL (Indian Premier League) 2026 right around the corner, many fans will be lying in wait to see 14-year-old India batter Viabhav Suryavanshi in action. Establishing himself as one of the world’s biggest...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-spinner-backs-vaibhav-suryavanshi-to-impress-with-rajasthan-royals-2026-03-22-1034670",
+    "time": "2026-03-22T08:48:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCB postpones Ireland series, set to host team India in September 2026: Report",
+    "desc": "In a major development for the Bangladesh Cricket Board, a recent report came forward to state that Bangladesh’s upcoming tour of Ireland, which was scheduled for September 2026, has been postponed. The reason for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcb-postpones-ireland-series-set-to-host-team-india-in-september-2026-report-2026-03-22-1034664",
+    "time": "2026-03-22T07:36:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand need 165 runs to win",
     "desc": "New Zealand and South Africa lock horns in the fourth T20I of the ongoing five-game series. The two sides lock horns at the Sky Stadium in Wellington on March 22, and the game began with...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/wimbledon-to-introduce-video-review-technology-from-2026-season-2026-03-21-1034629",
     "time": "2026-03-21T17:23:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rwanda's Fanny Utagushumanide sets two new world records, with century against Ghana",
-    "desc": "Rwanda’s teenage debutant Fanny Utagushimaninde created history on Friday, becoming the youngest centurion across genders in T20Is during the Nigeria Invitational Women’s T20 tournament. At just 15 years and 223 days old, Fanny reached her...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rwanda-s-fanny-utagushumanide-sets-two-new-world-records-with-century-against-ghana-2026-03-21-1034625",
-    "time": "2026-03-21T16:34:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brendon McCullum set to continue as England coach despite Ashes, T20 World Cup failure",
-    "desc": "Brendon McCullum is set to continue as England’s head coach, with the England and Wales Cricket Board expected to confirm his position following its ongoing assessment of the recent Ashes tour. The review was initiated after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/brendon-mccullum-set-to-continue-as-england-coach-despite-ashes-t20-world-cup-failure-2026-03-21-1034624",
-    "time": "2026-03-21T15:40:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anaya Bangar thanks father for support after undergoing gender-affirming surgery in Thailand",
-    "desc": "Anaya Bangar, daughter of former India cricketer Sanjay Bangar, has shared that she has undergone gender-affirming surgery in Thailand. She posted an update on social media, reflecting on the emotional journey and the support from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/anaya-bangar-undergoes-gender-affirming-surgery-in-thailand-thanks-father-for-support-2026-03-21-1034620",
-    "time": "2026-03-21T15:01:13.000Z"
   }
 ];
