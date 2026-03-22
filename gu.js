@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "48 કલાકમાં હોર્મુઝ સ્ટ્રેટ ન ખોલ્યું તો પાવર પ્લાન્ટ પર કરીશું હુમલા.. ટ્રમ્પની ઈરાનને ધમકી",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ઈરાનને અલ્ટીમેટમ આપ્યું છે. જો 48 કલાકની અંદર હોર્મુઝ સ્ટ્રેટ ન ખોલ્યું તો અમેરિકા તેના પાવર પ્લાન્ટ પર હુમલો કરશે. ટ્રમ્પે સ્પષ્ટ રીતે કહ્યું કે તેની શરૂઆત સૌથી મોટા પાવર પ્લાન્ટથી કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/trump-warns-iran-open-strait-of-hormuz-attack-on-power-plant-469610 ",
+    "time": "2026-03-22T02:49:39.000Z"
+  },
+  {
+    "cat": "World",
     "title": "2008 જેવો લાગી શકે છે મોટો ઝટકો, પરંતુ શું અસલી સંકટ હજુ આવવાનું બાકી છે?",
     "desc": "તેલના ભાવ ઓછા દેખાય છે, પરંતુ અસલમાં, ફુગાવો ઊંચો છે. પેટ્રોલ અને ડીઝલના ભાવ વધુ ઝડપથી વધી રહ્યા છે. જો યુદ્ધ ચાલુ રહે તો, તેલના ભાવ 2008ના રેકોર્ડને વટાવી શકે છે. ઈરાન યુદ્ધ વચ્ચે અસલી વાર્તા શું છે તે જાણીએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -430,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/hajipur-newlywed-woman-allegedly-strangled-to-death-by-dowry-seekers-469209 ",
     "time": "2026-03-19T07:18:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "રાતોરાત સોનાના ભાવમાં તોતિંગ ઘટાડો, ચાંદી પણ 13000 તૂટી, આજનો ભાવ જાણીને ખરીદવા દોડશો",
-    "desc": "મિડલ ઈસ્ટમાં યુદ્ધની સ્થિતિ વકરી છે. જેના કારણે આજે શેર બજારમાં ભારે કોહરામ મચ્યો. આ સાથે આજે કોમોડિટી બજારમાં પણ ઉથલપાથલ જોવા મળી રહી છે. વાયદા બજાર અને રિટેલ બજારમાં સોનું અને ચાંદી ભયંકર પછડાયા છે. લગ્નગાળો હોય અને પ્રસંગો કે ઘરમાં દાગીના લેવાનું પ્લાનિંગ કરતા હોવ તો તમારા માટે સારા સમાચાર છે. જાણો આજનો સોના-ચાંદીનો ભાવ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-prices-drop-sharply-silver-also-drops-by-13000-know-gold-rate-by-carat-aaj-no-sona-no-bhav-469208 ",
-    "time": "2026-03-19T07:09:59.000Z"
   },
   {
     "cat": "Tech",

@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Do teen hazaar runs': Vaibhav Suryavanshi's hilarious response to question leaves everyone in splits",
+    "desc": "With the IPL (Indian Premier League) 2026 season all set to kick off on March 28, many eyes will set upon 14-year-old India superstar Vaibhav Suryavanshi. The star batter established himself as one of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/do-teen-hazaar-runs-vaibhav-suryavanshi-s-hilarious-response-to-question-leaves-everyone-in-splits-watch-2026-03-22-1034646",
+    "time": "2026-03-22T03:48:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jimmy Neesham to lead New Zealand against South Africa after Tom Latham's injury",
+    "desc": "The stage is set for the fourth T20I of the ongoing five-game series between New Zealand and South Africa. The two sides will take on each other in the fourth T20I of the series at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jimmy-neesham-to-lead-new-zealand-against-south-africa-after-tom-latham-s-injury-2026-03-22-1034643",
+    "time": "2026-03-22T03:03:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rohit Sharma captured grooving to Divine, attends MI fan fest alongside Tilak Varma and co.",
     "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee tournament is all set to kick off on March 28, and ahead of the tournament, veteran India batter Rohit...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/japan-beat-australia-to-lift-title-in-record-breaking-afc-women-s-asian-cup-final-2026-03-21-1034605",
     "time": "2026-03-21T12:37:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 players who can replace Akash Deep in KKR squad for IPL 2026",
-    "desc": "Kolkata Knight Riders pacer Akash Deep has been ruled out of IPL 2026, owing to a stress reaction in the lower back. He is expected to recover in 8-12 weeks, effectively ruling him out of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/3-players-who-can-replace-akash-deep-in-kkr-squad-for-ipl-2026-2026-03-21-1034601",
-    "time": "2026-03-21T11:50:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Another KKR pacer after Harshit Rana ruled out of IPL 2026, franchise seeking replacement",
-    "desc": "Kolkata Knight Riders are confronting a growing crisis in their pace department ahead of IPL 2026, with another setback further weakening their options before the tournament begins. Akash Deep has now been ruled out for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/another-kkr-pacer-after-harshit-rana-ruled-out-of-ipl-2026-franchise-seeking-replacement-2026-03-21-1034595",
-    "time": "2026-03-21T10:28:37.000Z"
   }
 ];

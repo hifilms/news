@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Legends, rising stars shine as TOISA celebrates sporting glory",
+    "desc": "The Times of India Sports Awards (TOISA) celebrated India's top athletes in Lucknow, honouring excellence and dedication. Uttar Pradesh Chief Minister Yogi Adityanath presented awards to sporting legends like Leander Paes and the women's World Cup-winning cricket team, recognizing their significant contributions to Indian sports.",
+    "img": "https://static.toiimg.com/photo/msid-129728296,imgsize-104742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/legends-rising-stars-shine-as-toisa-celebrates-sporting-glory/articleshow/129728247.cms",
+    "time": "2026-03-22T04:39:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AI Dashcams to detect 30 types of highway defects",
+    "desc": "The National Highways Authority of India is deploying AI-powered dashcams across 40,000 km of its network to address a significant rise in commuter complaints regarding road conditions. These dashcams will monitor over 30 types of defects, including pavement issues and safety concerns, with reports generated daily to facilitate prompt repairs.",
+    "img": "https://static.toiimg.com/photo/msid-129728230,imgsize-18070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/potholes-to-poor-lighting-ai-dashcams-to-detect-30-types-of-highway-defects/articleshow/129728242.cms",
+    "time": "2026-03-22T04:34:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Regé-Jean Page backs rom-coms with upcoming Tuscany love tale",
+    "desc": "Regé-Jean Page is championing romantic comedies with his upcoming film, 'You, Me, and Tuscany,' set to release April 10, 2026. He stars alongside Halle Bailey in the picturesque Italian setting, portraying a man falling for his cousin's fiancée. Page believes the genre, focusing on love and communication, remains vital and enduring.",
+    "img": "https://static.toiimg.com/photo/msid-129728050,imgsize-479585.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-star-reg-jean-page-champions-rom-com-revival-with-you-me-and-tuscany-calls-love-timeless/articleshow/129728052.cms",
+    "time": "2026-03-22T04:08:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Soccer star Jorginho Frello slams Chappell Roan",
+    "desc": "During an unexpected episode at Lollapalooza Brazil, Brazilian footballer Jorginho Frello claimed that singer Chappel Roan directed a bodyguard to confront his young daughter in an aggressive manner. The incident occurred after Frello's 11-year-old daughter, thrilled by the presence of Roan at a hotel breakfast, merely glanced in the musician's direction.",
+    "img": "https://static.toiimg.com/photo/msid-129727851,imgsize-82284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/soccer-star-jorginho-frello-slams-chappell-roan-says-she-doesnt-deserve-fans-affection-after-daughters-upsetting-encounter/articleshow/129727851.cms",
+    "time": "2026-03-22T03:42:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rwanda's Utagushimaninde becomes youngest to score T20 international century",
+    "desc": "Utagushimaninde, aged 15 ‌years ⁠and 223 days, ⁠smashed an unbeaten 111 off 65 balls, surpassing the ​previous record ‌held by Uganda's Prosscovia Alako, who was 16 years and 233 ‌days old when ​she struck 116 against Mali in ⁠Kigali in 2019.",
+    "img": "https://th-i.thgim.com/public/news/national/xr2vb9/article70771483.ece/alternates/LANDSCAPE_1200/iStock-177427917.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/rwandas-utagushimaninde-becomes-youngest-to-score-t20-international-century/article70771479.ece",
+    "time": "2026-03-22T03:42:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Bulk diesel price hike rolled back for Gujarat fishermen, will be treated as special exception",
+    "desc": "Gujarat fishermen will continue to receive subsidised diesel after the Centre rolled back a steep Rs 22.43 per litre price hike for bulk fuel. The state government's intervention successfully shielded the fishing community from increased costs, ensuring diesel remains at previously agreed concessional rates.",
+    "img": "https://static.toiimg.com/photo/msid-129727848,imgsize-35466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/diesel-price-bulk-diesel-price-hike-rolled-back-for-gujarat-fishermen-will-be-treated-as-special-exception/articleshow/129727706.cms",
+    "time": "2026-03-22T03:41:07.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Why is Israel attacking Lebanon?",
+    "desc": "Why is the ground offensive concentrated in southern Lebanon? Why has Israel carried out several attacks against Hezbollah in the past and why does it want to dismantle the Shia militant group? What does it want to achieve?",
+    "img": "https://th-i.thgim.com/public/incoming/207vlc/article70770290.ece/alternates/LANDSCAPE_1200/2026-03-21T044507Z_1951504255_RC2E6KAOWG3D_RTRMADP_3_IRAN-CRISIS-LEBANON-HEZBOLLAH.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/explained-why-is-israel-attacking-lebanon/article70770015.ece",
+    "time": "2026-03-22T03:32:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit, Pandya OUT! Ex-England star picks IPL XI, names 'worst decision' in history",
+    "desc": "Kevin Pietersen unveiled his all-time IPL XI, notably excluding stars like Rohit Sharma. He lauded Yuzvendra Chahal, calling his release by RCB the league's worst decision. Pietersen's XI featured Gayle, Kohli, de Villiers, Raina, Dhoni, Russell, Jadeja, Narine, Chahal, Malinga, and Bumrah, prioritising impact over strict overseas limits.",
+    "img": "https://static.toiimg.com/photo/msid-129727750,imgsize-60448.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rohit-sharma-hardik-pandya-out-ex-england-star-picks-ipl-xi-names-worst-decision-in-history/articleshow/129727740.cms",
+    "time": "2026-03-22T03:25:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Frankie Paul’s ‘The Bachelorette’ exit sparks casting chaos",
+    "desc": "TikTok star Taylor Frankie Paul's abrupt exit from 'The Bachelorette' has sparked controversy. Her history of personal turmoil and a messy public feud with ex-partner Dakota Mortensen, involving a protective order, clashed with the show's wholesome image. Insiders suggest producers prioritized viral appeal over potential red flags, leaving the franchise facing backlash and questioning its influencer casting strategy.",
+    "img": "https://static.toiimg.com/photo/msid-129727738,imgsize-687677.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/taylor-frankie-pauls-abrupt-exit-from-the-bachelorette-exposes-casting-risks-and-reality-tv-backlash/articleshow/129727741.cms",
+    "time": "2026-03-22T03:24:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shah Rukh Khan posts about Eid",
+    "desc": "In a heartfelt gesture, Bollywood icon Shah Rukh Khan took to social media to convey joyous Eid greetings to his fans, donning a chic green sherwani. As he gears up for his highly-anticipated action-thriller 'KING,' featuring his daughter Suhana Khan, excitement is building for the December 24 release that guarantees gripping and authentic fight scenes.",
+    "img": "https://static.toiimg.com/photo/msid-129727717,imgsize-32966.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-wishes-everyone-a-happy-eid-love-and-light-to-one-and-all/articleshow/129727717.cms",
+    "time": "2026-03-22T03:23:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Seeman",
+    "desc": "Naam Tamilar Katchi chief coordinator Seeman contends that without discipline, there will be no order; he bats for an economy centred on agriculture in T.N. and plans to create government-led industries based on local resources if his party emerges victorious in the Assembly election",
+    "img": "https://th-i.thgim.com/public/incoming/lhv6uw/article70766842.ece/alternates/LANDSCAPE_1200/2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-true-benevolent-authoritarian-enforces-discipline-for-the-greater-good-seeman/article70766533.ece",
+    "time": "2026-03-22T03:18:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'All bowlers will be ready'",
+    "desc": "Rajasthan Royals' Vaibhav Sooryavanshi, a 14-year-old batting sensation, faces a crucial IPL 2026 season. Following a stellar Under-19 World Cup, former India all-rounder Irfan Pathan highlights the importance of this phase for the young prodigy. Pathan believes opposition teams are closely analyzing Sooryavanshi's game, making this season a significant learning curve for him to evolve and prove his mettle.",
+    "img": "https://static.toiimg.com/photo/msid-129727586,imgsize-29118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/big-ipl-warning-for-vaibhav-sooryavanshi-all-bowlers-will-be-ready/articleshow/129727589.cms",
+    "time": "2026-03-22T02:50:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Hormuz supply shock widens gap between future and physical fuel",
+    "desc": "The Iran war's fourth week sees a stark divergence between rising physical oil prices and futures, driven by the Strait of Hormuz closure and infrastructure attacks. Refiners face steep premiums, while trucking, shipping, and airline industries grapple with escalating fuel costs, impacting consumers and the broader economy.",
+    "img": "https://static.toiimg.com/photo/msid-129727529,imgsize-2204780.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-hormuz-supply-shock-widens-gap-between-future-and-physical-fuel/articleshow/129727281.cms",
+    "time": "2026-03-22T02:40:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gwyneth Paltrow jokes about being “original nepo baby”",
+    "desc": "Gwyneth Paltrow, accepting an honor at the 2026 New York Women in Film & Television Muse Awards, reflected on her \"nepo baby\" start, acknowledging her early opportunities while asserting that a family name didn't guarantee an easy path.",
+    "img": "https://static.toiimg.com/photo/msid-129727520,imgsize-646130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/gwyneth-paltrow-calls-herself-one-of-the-original-nepo-babies-reflects-on-privilege-pressure-and-carving-her-own-path/articleshow/129727523.cms",
+    "time": "2026-03-22T02:38:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amy Duggar King breaks down over Kendra Duggar’s arrest",
+    "desc": "Amy Duggar King expressed shock and emotion following the arrest of her cousin Kendra Duggar, who faces charges of endangering a minor. This follows the earlier arrest of Kendra's husband, Joseph Duggar, on allegations of molesting a child. Amy highlighted concerns about the 'toxic system' and emphasized child safety, praying for the victim.",
+    "img": "https://static.toiimg.com/photo/msid-129727487,imgsize-132750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/joseph-duggar-case-amy-duggar-king-breaks-down-in-tears-over-cousins-wife-kendra-duggars-arrest/articleshow/129727487.cms",
+    "time": "2026-03-22T02:34:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran army says will target energy, desalination infrastructure after U.S. threats",
+    "desc": "If Iran's fuel and energy infrastructure is violated by the enemy, all energy, information technology and desalination infrastructure belonging to the U.S. and the regime in the region will be targeted, says Iranian military's operational command Khatam Al-Anbiya",
+    "img": "https://th-i.thgim.com/public/incoming/gzj6hc/article70771403.ece/alternates/LANDSCAPE_1200/2026-03-20T113615Z_2027040585_RC2B2KAIREVF_RTRMADP_3_IRAN-CRISIS-EMIRATES-HORMUZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-army-says-will-target-energy-desalination-infrastructure-after-us-threats/article70771400.ece",
+    "time": "2026-03-22T02:20:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Justin Timberlake’s DWI arrest footage released after legal deal",
+    "desc": "Bodycam footage from Justin Timberlake's June 2024 DWI arrest, released in March 2026, captured the pop star struggling to define his profession. Pulled over for traffic violations, Timberlake, 45, stated, \"I'm Justin Timberlake\" when asked about his job, later referencing his world tour.",
+    "img": "https://static.toiimg.com/photo/msid-129727325,imgsize-1095516.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/justin-timberlakes-2024-dwi-bodycam-footage-surfaces-pop-stars-awkward-introduction-moment-draws-fresh-scrutiny/articleshow/129727329.cms",
+    "time": "2026-03-22T01:55:50.000Z"
+  },
+  {
     "cat": "World",
     "title": "Trump threatens Iran with power plant strikes over Hormuz blockade",
     "desc": "If Iran doesn’t FULLY OPEN, WITHOUT THREAT, the Strait of Hormuz, within 48 HOURS from this exact point in ‌time, the United States of America will hit and obliterate their various POWER PLANTS, STARTING WITH THE BIGGEST ONE FIRST, says U.S. President Donald Trump",
@@ -9,22 +162,13 @@ const newsData_en = [
     "time": "2026-03-22T01:53:43.000Z"
   },
   {
-    "cat": "World",
-    "title": "Why is Israel attacking Lebanon?",
-    "desc": "Why is the ground offensive concentrated in southern Lebanon? Why has Israel carried out several attacks against Hezbollah in the past and why does it want to dismantle the Shia militant group? What does it want to achieve?",
-    "img": "https://th-i.thgim.com/public/incoming/207vlc/article70770290.ece/alternates/LANDSCAPE_1200/2026-03-21T044507Z_1951504255_RC2E6KAOWG3D_RTRMADP_3_IRAN-CRISIS-LEBANON-HEZBOLLAH.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/explained-why-is-israel-attacking-lebanon/article70770015.ece",
-    "time": "2026-03-22T01:36:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel war LIVE: Trump threatens Iran with power plant strikes over Hormuz blockade",
-    "desc": "Israeli officials said that ‌Iranian ⁠forces had for the first time fired long-range missiles, expanding the ⁠risk of attacks beyond West Asia, even as an Iranian strike injured dozens of people not far from Israel’s nuclear site.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-hezbollah-oil-supply-march-22-2026/article70771375.ece",
-    "time": "2026-03-22T01:34:59.000Z"
+    "cat": "Entertainment",
+    "title": "Karan Johar on celebrities leaving his talent management agency",
+    "desc": "In an insightful statement, filmmaker Karan Johar discussed the recent departures from his talent agency, including the exit of rising star Janhvi Kapoor. He emphasized his commitment to nurturing in-house talent while maintaining connections with those who have moved on. Acknowledging the relentless scrutiny young celebrities endure, Johar highlighted its toll on their mental health.",
+    "img": "https://static.toiimg.com/photo/msid-129727299,imgsize-11666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-addresses-janhvi-kapoors-exit-from-his-talent-agency-i-will-always-wish-them-well/articleshow/129727299.cms",
+    "time": "2026-03-22T01:49:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -97,6 +241,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-3-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-starrer-crosses-rs-500-crore-mark-globally/articleshow/129727042.cms",
     "time": "2026-03-22T00:31:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK's playing XI for IPL 2026: Dhoni as impact sub, no place for Sarfaraz?",
+    "desc": "Chennai Super Kings gear up for IPL 2026 with a new look, led by Ruturaj Gaikwad. A blockbuster trade brings Sanju Samson aboard, while young talents like Ayush Mhatre and Kartik Sharma are set to shine. Despite Nathan Ellis's injury, CSK boasts a balanced squad, aiming for a record sixth title.",
+    "img": "https://static.toiimg.com/photo/msid-129721944,imgsize-94724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-playing-xi-ipl-2026-predicted-strongest-full-squad-ms-dhoni-sanju-samson-chennai-super-kings/articleshow/129721915.cms",
+    "time": "2026-03-22T00:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -288,15 +441,6 @@ const newsData_en = [
     "time": "2026-03-21T16:43:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Farah Khan asked Javed Akhtar to translate Gulzar's lyrics of 'Satrangi Re'",
-    "desc": "Choreographer Farah Khan revealed the challenges behind the iconic 'Satrangi Re' song from Dil Se. Struggling with Gulzar's complex lyrics in Ladakh, she sought help from Javed Akhtar. Even director Mani Ratnam and composer AR Rahman, who didn't know Hindi, were puzzled by the song's meaning, highlighting the lyrical depth.",
-    "img": "https://static.toiimg.com/photo/msid-129722004,imgsize-25734.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-asked-javed-akhtar-to-translate-gulzars-lyrics-of-satrangi-re-mani-ratnam-did-not-know-hindi/articleshow/129721956.cms",
-    "time": "2026-03-21T16:24:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ashwin says 'deduct Rs 2 crores' if star Australian fails to bowl 4 overs in IPL",
     "desc": "During the T20 World Cup, Green scored 24 runs in three innings with a highest score of 21. He bowled three overs across two matches and picked up one wicket. In a recent Sheffield Shield match for Western Australia against New South Wales, where he scored a century, he did not bowl.",
@@ -313,15 +457,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/engineers-will-be-better-off-with-emerging-new-roles-due-to-ai-say-panelists-at-webinar/article70769796.ece",
     "time": "2026-03-21T16:03:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Karisma would send someone from to check on Raveena's costumes,' Designer on their feud",
-    "desc": "Costume designer Ashley Rebello revealed that the off-screen rivalry between Karisma Kapoor and Raveena Tandon during 'Andaz Apna Apna' extended to their on-screen costumes. Rebello detailed how he enhanced Raveena's nighties for a song, making them more elaborate than Karisma's. He also noted Karisma's team closely monitored Raveena's styling.",
-    "img": "https://static.toiimg.com/photo/msid-129721452,imgsize-38214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karisma-kapoor-would-send-someone-from-to-check-on-raveena-tandons-costumes-ask-her-stylist-to-take-note-of-it-recalls-designer-ashley-rebello/articleshow/129721386.cms",
-    "time": "2026-03-21T15:41:15.000Z"
   },
   {
     "cat": "Politics",
@@ -351,24 +486,6 @@ const newsData_en = [
     "time": "2026-03-21T15:05:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nora Fatehi’s work permit in India in trouble after the ‘Sarke Chunar’ controversy?",
-    "desc": "Nora Fatehi's song 'Sarke Chunar' has been banned following a controversy over its alleged double-meaning lyrics. Ten lawyers have petitioned for her work permit cancellation and deportation, citing obscenity and offense to public morality. Fatehi claims she was unaware of the Hindi lyrics' meaning, stating she shot the song in Kannada and did not consent to the translation.",
-    "img": "https://static.toiimg.com/photo/msid-129720994,imgsize-18740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-nora-fatehis-work-permit-in-india-in-trouble-after-the-sarke-chunar-controversy-lawyers-approach-ministry-of-home-affairs/articleshow/129720954.cms",
-    "time": "2026-03-21T14:49:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Firing outside Rohit Shetty's house: 14th accused detained",
-    "desc": "Mumbai Crime Branch detained the 14th accused, Golu Pandit, in Uttar Pradesh for the firing incident outside Rohit Shetty's home on February 1. The police have invoked stringent MCOCA provisions, suspecting an organized crime syndicate. Investigations are ongoing to retrieve deleted chats and uncover the full conspiracy.",
-    "img": "https://static.toiimg.com/photo/msid-129720643,imgsize-24254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/firing-outside-rohit-shettys-house-mumbai-crime-branch-detains-14th-accused-in-the-case-from-uttar-pradesh/articleshow/129720651.cms",
-    "time": "2026-03-21T14:26:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Domestic companies launch semaglutide jabs at affordable prices",
     "desc": "Indian pharmaceutical giants like Sun Pharma, Torrent, and Dr. Reddy's have launched affordable semaglutide, a groundbreaking weight-loss drug, following Novo Nordisk's patent expiry. This move significantly reduces therapy costs, offering patients greater access to treatment for obesity and type-2 diabetes. Torrent Pharma even introduced both oral and injectable versions, marking a significant step in addressing India's growing metabolic disorder crisis.",
@@ -385,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/b-team-of-bjp-kerala-cm-vijayan-slams-rahul-gandhi-congress-ahead-of-polls/articleshow/129720326.cms",
     "time": "2026-03-21T14:03:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Dhurandhar: The Revenge’ Canada screening turns chaotic",
-    "desc": "The Revenge', chaos erupted as theater screens faced alleged vandalism. Authorities had to step in to restore order amidst growing disturbances. Nevertheless, the action-packed film featuring Ranveer Singh continues to captivate audiences, raking in an impressive Rs 300 crore globally.",
-    "img": "https://static.toiimg.com/photo/msid-129720272,imgsize-63238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-the-revenge-screening-turns-ugly-in-canada-as-theatre-screen-gets-damaged/articleshow/129720272.cms",
-    "time": "2026-03-21T13:58:26.000Z"
   },
   {
     "cat": "Business",
@@ -432,15 +540,6 @@ const newsData_en = [
     "time": "2026-03-21T13:36:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Salman greets fans on Eid, Salim Khan makes first appearance after hospitalisation",
-    "desc": "Eid celebrations saw Salman Khan greet adoring fans from his Bandra residence, accompanied by his father Salim Khan, who recently recovered from a hospital stay. The actor, now with bulletproof glass on his balcony, shared flying kisses. Family members, including Salman's mother and Sohail Khan, were also present, highlighting the festive family spirit.",
-    "img": "https://static.toiimg.com/photo/msid-129719842,imgsize-18172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-fulfills-eid-ritual-of-greeting-fans-salim-khan-spotted-for-the-first-time-after-being-discharged-from-hospital-watch-video/articleshow/129719697.cms",
-    "time": "2026-03-21T13:28:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Akash Deep out of IPL with back injury; doubtful for one-off Test against Afghanistan in June",
     "desc": "“It will take considerable time for healing, workload adaptation followed by Return To Play protocols. So conservative estimate of recovery will be around 10 weeks, but it could take more time,” a BCCI source said",
@@ -457,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/more-sweat-more-glory-prasad-sanyal-sets-the-stage-for-toisa-2025-in-lucknow/articleshow/129718599.cms",
     "time": "2026-03-21T13:20:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'He should be called Dhurandhar Dhami': Defence minister Rajnath Singh on 4 years of Uttarakhand govt",
-    "desc": "Addressing a public gathering here on the completion of four years of the Uttarakhand government, the Defence Minister expressed pride and confidence in the government led by CM Dhami and attributed the state's growth to him.",
-    "img": "https://static.toiimg.com/photo/msid-129719491,imgsize-749545.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/he-should-be-called-dhurandhar-dhami-defence-minister-rajnath-singh-on-4-years-of-uttarakhand-govt/articleshow/129719457.cms",
-    "time": "2026-03-21T13:00:36.000Z"
   },
   {
     "cat": "Business",
@@ -504,15 +594,6 @@ const newsData_en = [
     "time": "2026-03-21T11:56:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "From eviction drives to NRC debate, issues set to dominate state poll campaign",
-    "desc": "Assam's election campaign is set to be dominated by key issues including eviction policies, infiltration concerns, and development projects. Political parties will debate the government's actions on land reclamation and child marriage, while illegal immigration and the CAA remain contentious. The ruling alliance will highlight welfare schemes and job recruitment, facing opposition critiques on development disparities and crime against women.",
-    "img": "https://static.toiimg.com/photo/msid-129718081,imgsize-1632743.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assam-assembly-elections-2026-from-eviction-drives-to-nrc-debate-issues-set-to-dominate-state-poll-campaign/articleshow/129718014.cms",
-    "time": "2026-03-21T11:47:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran-Israel war: A day‑by‑day rundown of the escalating crisis",
     "desc": "A joint U.S.-Israel attack on Iran and the killing of Supreme Leader Ayatollah Ali Khamenei have plunged West Asia into a fast‑spreading war, with Tehran and its allies launching retaliatory strikes across Israel, the Gulf and U.S. bases.",
@@ -522,15 +603,6 @@ const newsData_en = [
     "time": "2026-03-21T11:33:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Condemn attack on critical infrastructure': PM Modi speaks to Iran president, says 'shipping lanes must stay open'",
-    "desc": "Prime Minister Narendra Modi spoke with Iranian President Masoud Pezeshkian, condemning attacks on critical infrastructure that threaten regional stability and global supply chains. Modi reiterated the importance of open and secure shipping lanes and conveyed Eid al-Fitr and Nowruz greetings, expressing hope for peace and prosperity in the Middle East.",
-    "img": "https://static.toiimg.com/photo/msid-129717829,imgsize-45416.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/condemn-attack-on-critical-infrastructure-pm-modi-speaks-to-iran-president-says-shipping-lanes-must-stay-open/articleshow/129717695.cms",
-    "time": "2026-03-21T11:28:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "MI's playing XI for IPL 2026: Rohit to open, will Shardul make it to the 11?",
     "desc": "Mumbai Indians, IPL 2026 favourites, boast a formidable squad after key T20 World Cup 2026 performances. With a strong core and strategic auction buys like Quinton de Kock, MI aims for their sixth title. Key players Rohit Sharma, Suryakumar Yadav, and Jasprit Bumrah are set to lead the charge, supported by impactful all-rounders and a potent bowling attack.",
@@ -538,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mi-playing-xi-ipl-2026-predicted-strongest-full-squad-rohit-sharma-will-jacks-mumbai-indians/articleshow/129717549.cms",
     "time": "2026-03-21T11:19:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How BJP manages ‘floating majority’ with bellwether backings",
-    "desc": "​When the BJP swept to power in 2014 with a decisive majority in the Lok Sabha, it did not carry that dominance into the Rajya Sabha. The Upper House, by design, is insulated from electoral waves. Its members are elected by state assemblies, and their terms are staggered, ensuring continuity and preventing sudden shifts. This meant that even as the BJP commanded brute strength in the Lower House, it remained a minority in the Upper House for years. That imbalance mattered!",
-    "img": "https://static.toiimg.com/photo/msid-129717468,imgsize-642122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/a-rajya-sabha-rummy-how-bjp-manages-floating-majority-with-bellwether-backings/articleshow/129717119.cms",
-    "time": "2026-03-21T10:58:16.000Z"
   },
   {
     "cat": "Sports",
@@ -568,30 +631,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Paddikal, Iyer dropped as R Ashwin reveals his RCB playing XI",
-    "desc": "Ravichandran Ashwin believes Royal Challengers Bengaluru possess a squad capable of defending their IPL title in the next two seasons. Following a successful rebuild after the 2025 mega auction, RCB boasts a balanced roster with strong foreign talent and flexible bowling options, addressing past weaknesses. Ashwin sees this depth as a significant advantage for their title defense.",
-    "img": "https://static.toiimg.com/photo/msid-129716989,imgsize-202810.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-paddikal-iyer-dropped-as-r-ashwin-reveals-his-rcb-playing-xi/articleshow/129716949.cms",
-    "time": "2026-03-21T10:28:52.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Wasn't easy': Anaya reveals Sanjar's role after gender-affirming surgery",
     "desc": "Anaya Bangar shared emotional journey after gender-affirming surgery, saying, \"This journey wasn't easy… not just for me, but for my family too.\" Anaya highlighted Sanjay Bangar’s evolving support, calling it \"real, unconditional, and strong.\" Once a cricketer, Anaya reflected on early identity struggles, recalling, \"I used to… say I'm a girl.\"",
     "img": "https://static.toiimg.com/photo/msid-129717021,imgsize-49212.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/wasnt-easy-anaya-reveals-father-sanjay-bangars-role-after-gender-affirming-surgery/articleshow/129716576.cms",
     "time": "2026-03-21T10:26:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKR asked to fix Rinku Singh 'problem'",
-    "desc": "Irfan Pathan expresses concern over Rinku Singh's recent form slump ahead of IPL 2026, highlighting his struggles post-2023 breakthrough and at the T20 World Cup. Pathan also points to Varun Chakravarthy's inconsistent performance as a key challenge for Kolkata Knight Riders, though he believes the spinner can bounce back in familiar conditions.",
-    "img": "https://static.toiimg.com/photo/msid-129716732,imgsize-28030.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/kkr-have-issues-to-fix-rinku-singh-one-of-them-ex-india-cricketer/articleshow/129716715.cms",
-    "time": "2026-03-21T09:58:15.000Z"
   },
   {
     "cat": "Business",
@@ -639,24 +684,6 @@ const newsData_en = [
     "time": "2026-03-21T08:23:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar' Day 3 LIVE: Ranveer Singh film eyes Rs 300 crore global gross",
-    "desc": "The Revenge' is rewriting box office history, netting a staggering Rs. 246.99 crore in just 60 hours. Following the massive success of the 2025 original, the Ranveer Singh-starrer opened to a record-breaking Rs. 102.55 crore on Day 1, maintaining an iron grip on the domestic market despite its sprawling 3-hour and 49-minute runtime. Upped by the festive Ugadi and Gudi Padwa window, the espionage thriller has seen a massive Saturday surge, with Day 3 morning shows alone raking in Rs. 20.72 crore across 6,622 screenings.",
-    "img": "https://static.toiimg.com/photo/msid-129714991,imgsize-178692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-3-live-ranveer-singh-sanjay-dutt-rakesh-bedi-arjun-rampal-starrer-crosses-rs-240-crore-net-eyes-rs-300-crore-global-gross/articleshow/129714991.cms",
-    "time": "2026-03-21T07:34:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dhoni signs, Samson refuses — CSK's new star wins hearts",
-    "desc": "Sanju Samson's humility shone as he joined MS Dhoni at a CSK event, declining to sign a bat until Dhoni encouraged him. Fresh off a T20 World Cup win, Samson expressed excitement about learning from Dhoni and playing for CSK, anticipating an emotional opening match against his former team, Rajasthan Royals.",
-    "img": "https://static.toiimg.com/photo/msid-129714352,imgsize-81534.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-signs-sanju-samson-refuses-csks-new-star-wins-hearts-with-classy-gesture-watch/articleshow/129714330.cms",
-    "time": "2026-03-21T06:30:49.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Premium petrol price hiked; how much fuel costs in your city today? Check list",
     "desc": "Amidst Middle East conflict and soaring oil prices, Indian oil companies have increased premium petrol variants by over Rs 2 per litre. However, retail prices for regular petrol and diesel remain unchanged, while industrial diesel costs have surged by Rs 22 per litre due to global crude oil volatility.",
@@ -673,15 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-crude-shuffle-how-irans-hormuz-chokehold-rerouted-oil-imports-from-gulf-to-russia/articleshow/129713233.cms",
     "time": "2026-03-21T05:21:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli fires ‘It’s going to get tougher’ warning as RCB gear up for IPL 2026",
-    "desc": "Royal Challengers Bengaluru kick off their IPL 2026 title defence on March 28 against Sunrisers Hyderabad. Virat Kohli, fresh from practice, urged his team to maintain intensity for another successful campaign. Head coach Andy Flower expressed confidence in the squad, while Kohli eyes becoming the first to score 9,000 IPL runs.",
-    "img": "https://static.toiimg.com/photo/msid-129713350,imgsize-188268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-fires-its-going-to-get-tougher-warning-as-rcb-gears-up-for-ipl-2026/articleshow/129713272.cms",
-    "time": "2026-03-21T05:06:10.000Z"
   },
   {
     "cat": "Business",
@@ -772,15 +790,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/tanvi-isharani-enter-semifinals-of-orleans-masters/article70767151.ece",
     "time": "2026-03-20T18:34:22.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran warns world tourism sites ‘not safe’ for Israeli, U.S. officials; says it is still building missiles nearly three weeks into war",
-    "desc": "With little information coming out of Iran, it was not clear how much damage its arms, nuclear or energy facilities have sustained since the war began February 28 or even who was truly in charge of the country",
-    "img": "https://th-i.thgim.com/public/incoming/kfob7n/article70766230.ece/alternates/LANDSCAPE_1200/2026-03-20T112759Z_2050564620_RC2A8KASQUTS_RTRMADP_3_IRAN-CRISIS-ISRAEL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-warns-world-tourism-sites-not-safe-for-israeli-us-officials/article70766005.ece",
-    "time": "2026-03-20T14:23:10.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/men-in-blue-a-t20-behemoth/article70759275.ece",
     "time": "2026-03-18T17:54:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 Countdown",
-    "desc": "The core of the DC squad isn’t different to the last season, where it finished fifth after a sparkling start; Rahul will shoulder the responsibility of laying a strong base as opener; Axar, Kuldeep and Vipraj round off a well-stocked spin department",
-    "img": "https://th-i.thgim.com/public/sport/hjs1xh/article70759325.ece/alternates/LANDSCAPE_1200/AXAR.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-countdown-capitals-need-to-deliver-at-optimum-capacity-to-fulfil-their-elusive-dream/article70759319.ece",
-    "time": "2026-03-18T17:13:53.000Z"
   }
 ];
