@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "South Africa hope for good start with the bat",
+    "desc": "New Zealand and South Africa lock horns in the fourth T20I of the ongoing five-game series. The two sides lock horns at the Sky Stadium in Wellington on March 22, and the game began with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-sa-4th-t20i-live-score-south-africa-hope-for-good-start-with-the-bat-2026-03-22-1034661",
+    "time": "2026-03-22T06:45:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravichandran Ashwin weighs in on RR's home venue situation ahead of IPL 2026",
+    "desc": "With the IPL (Indian Premier League) 2026 kicking off on March 28, the home venue conundrum of the inaugural champions Rajasthan Royals has caught many headlines. It is worth noting that Royals are slated to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-weighs-in-on-rr-s-home-venue-situation-ahead-of-ipl-2026-2026-03-22-1034658",
+    "time": "2026-03-22T05:42:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Do teen hazaar runs': Vaibhav Suryavanshi's hilarious response to question leaves everyone in splits",
     "desc": "With the IPL (Indian Premier League) 2026 season all set to kick off on March 28, many eyes will set upon 14-year-old India superstar Vaibhav Suryavanshi. The star batter established himself as one of the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/anaya-bangar-undergoes-gender-affirming-surgery-in-thailand-thanks-father-for-support-2026-03-21-1034620",
     "time": "2026-03-21T15:01:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Defending champions can drop Venkatesh Iyer, Jacob Bethell, Yash Dayal",
-    "desc": "Defending champions Royal Challengers Bengaluru will begin their IPL 2026 campaign against Sunrisers Hyderabad on March 28 at the M Chinnaswamy Stadium. After last year’s June 4 mishap, which saw 11 people, including children, lose...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-predicted-playing-xi-for-ipl-2026-defending-champions-can-drop-venkatesh-iyer-jacob-bethell-yash-dayal-2026-03-21-1034617",
-    "time": "2026-03-21T14:29:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Japan beat Australia to lift title in record-breaking AFC women's Asian Cup final",
-    "desc": "Japan defeated Australia in a tightly contested final to lift the Women’s Asian Cup. In the summit clash in Sydney, Maika Hamano’s early strike proved decisive for the visitors, who scored a stunning goal in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/japan-beat-australia-to-lift-title-in-record-breaking-afc-women-s-asian-cup-final-2026-03-21-1034605",
-    "time": "2026-03-21T12:37:28.000Z"
   }
 ];

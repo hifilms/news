@@ -1,5 +1,140 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "a game of four",
+    "desc": "The Tamil Nadu Assembly election will see a four-cornered contest this April. As the DMK and its allies and the AIADMK and its partners remain the principal participants of the big fight, it is also clear that the newly-formed Tamilaga Vettri Kazhagam and the steady presence of the Naam Tamizhar Katchi in electoral politics will have roles to play. This report analyses the political situation ahead of this election that entices voters with the promise that it will be like nothing the State has never seen so far.",
+    "img": "https://th-i.thgim.com/public/incoming/tryvma/article70770287.ece/alternates/LANDSCAPE_1200/ELECTION%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-2026-a-game-of-four/article70770259.ece",
+    "time": "2026-03-22T06:33:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CPI(M) State Committee stands firm on six seats",
+    "desc": "The CPI(M)’s contention is that it had been promised an increase in the seats for the 2021 Tamil Nadu Assembly election by the DMK leadership. On the other hand, the DMK argues that it has included more political parties in the alliance and is likely to lose 15 constituencies from its share",
+    "img": "https://th-i.thgim.com/public/incoming/flazzi/article70768806.ece/alternates/LANDSCAPE_1200/PTI02_13_2026_000647B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-cpim-meeting-to-decide-on-seat-sharing-with-dmk/article70768800.ece",
+    "time": "2026-03-22T06:28:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I saw you'",
+    "desc": "Buffy the Vampire Slayer fans mourn Nicholas Brendon, the beloved Xander Harris. Co-star Sarah Michelle Gellar shared a heartfelt tribute, quoting his character and expressing peace for his soul. Brendon's passing, attributed to natural causes, followed his openness about health and addiction struggles, yet he remained hopeful.",
+    "img": "https://static.toiimg.com/photo/msid-129729221,imgsize-95998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/nicholas-brendon-passes-away-sarah-michelle-gellar-shares-touching-tribute/articleshow/129729180.cms",
+    "time": "2026-03-22T06:21:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Karan has ‘Dhurandhar FOMO’; Filmmaker says, ' I can’t wait to watch it '",
+    "desc": "The Revenge' is shattering box office records, achieving a remarkable Rs 339.27 crore in its opening three days. Despite the film's immense success and audience praise, director Karan Johar has yet to see it due to his remote filming location, expressing his 'Dhurandhar FOMO' online. The film's performances, particularly Singh's, are receiving strong accolades.",
+    "img": "https://static.toiimg.com/photo/msid-129729171,imgsize-45620.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-has-dhurandhar-fomo-filmmaker-says-i-cant-wait-to-watch-it-/articleshow/129729155.cms",
+    "time": "2026-03-22T06:16:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: For second time, Thoothukudi’s Pottalurani residents to boycott polls over fish waste processing units",
+    "desc": "The residents have been demanding the closure of fish waste processing units near the village since 2019, and have submitted multiple petitions in this regard. However, the protest intensified in early 2024 ahead of the Lok Sabha election",
+    "img": "https://th-i.thgim.com/public/incoming/bmz9k7/article70769739.ece/alternates/LANDSCAPE_1200/9865_7_12_2025_15_24_49_1_DSC_0483.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/for-second-time-pottalurani-residents-to-boycott-polls-over-fish-waste-processing-units/article70769594.ece",
+    "time": "2026-03-22T06:10:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: parties must avoid excessive freebies, focus on development, says AIADMK leader Semmalai",
+    "desc": "Contending that these handouts being announced as part of electoral promises by major parties will not facilitate T.N.’s development, he criticises the DMK government for not increasing the capital expenditure substantially over the last 5 years and ‘frittering away’ funds for distributing freebies",
+    "img": "https://th-i.thgim.com/public/incoming/hnjfi3/article70769971.ece/alternates/LANDSCAPE_1200/11658_21_3_2026_18_55_45_2_2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/parties-must-avoid-excessive-freebies-focus-on-development-says-ex-minister-semmalai/article70769698.ece",
+    "time": "2026-03-22T06:08:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Meghalaya leader of Opposition Mukul Sangma demands independent inquiry into Garo Hills violence",
+    "desc": "In a petition to Governor C.H. Vijayashankar, Mr. Sangma flagged a \"serious law and order situation\" in the Garo Hills region, which he said stemmed from a series of developments linked to the elections to the tribal Garo Hills Autonomous District Council",
+    "img": "https://th-i.thgim.com/public/incoming/cvlyl5/article70771632.ece/alternates/LANDSCAPE_1200/IMG_41_World_Congress_Ag_2_1_AD9GKR7V.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/meghalaya/meghalaya-leader-of-opposition-mukul-sangma-demands-independent-inquiry-into-garo-hills-violence/article70771617.ece",
+    "time": "2026-03-22T05:56:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Robert Pattinson used to lie about being Michael Jackson’s son",
+    "desc": "During an amusing segment on 'Jimmy Kimmel Live!', Robert Pattinson shared a childhood anecdote that revealed his youthful imagination—he once boldly proclaimed that Michael Jackson was his dad during show and tell. He even brought along a cassette, playfully asserting it featured Jackson performing while under the influence of medication.",
+    "img": "https://static.toiimg.com/photo/msid-129728965,imgsize-94104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-drama-star-robert-pattinson-reveals-that-he-used-to-lie-about-being-michael-jacksons-son/articleshow/129728965.cms",
+    "time": "2026-03-22T05:55:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sophia Culpo shuts down reunion rumors with Braxton Berrios",
+    "desc": "Sophia Culpo playfully debunked rumors of rekindling with ex Braxton Berrios, confirming she's \"just begun dating again\" and might have a crush. The influencer, known for 'Perfect Match,' is cautiously exploring new romantic possibilities after past high-profile relationships.",
+    "img": "https://static.toiimg.com/photo/msid-129728930,imgsize-862808.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sophia-culpo-shuts-down-reunion-rumors-with-braxton-berrios-hints-at-new-romance-ive-just-begun-dating-again/articleshow/129728933.cms",
+    "time": "2026-03-22T05:49:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amanda Peet reflects on her breast cancer diagnosis",
+    "desc": "Actress Amanda Peet, 54, bravely revealed her breast cancer diagnosis, which surfaced during a period of immense personal grief as both her parents were in hospice care. Routine scans detected early-stage, treatable cancer, a relief amidst her family's struggles. Following a lumpectomy and radiation, Peet is now focusing on recovery and cherishing life.",
+    "img": "https://static.toiimg.com/photo/msid-129728871,imgsize-381757.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/amanda-peet-reveals-breast-cancer-battle-amid-family-tragedy-shares-emotional-journey-of-loss-diagnosis-and-recovery/articleshow/129728875.cms",
+    "time": "2026-03-22T05:41:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Manish grateful to paps for privacy post Mother's passing",
+    "desc": "Manish Malhotra thanked paparazzi for privacy post-mother Garima's death (March 19, age 94). At her March 21 prayer meet, he said, “Thank you... ekdum private moment tha.\" Celebs like Karisma Kapoor consoled him; he posted “Love and Miss You Forever.”",
+    "img": "https://static.toiimg.com/photo/msid-129728748,imgsize-56632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manish-malhotra-grateful-to-paps-for-privacy-post-mothers-passing-ekdum-private-moment-tha/articleshow/129728748.cms",
+    "time": "2026-03-22T05:28:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anupam praises 'Dhurandhar 2'; Calls Aditya‘Rockstar’; Ranveer REACTS",
+    "desc": "The Revenge' as a film that will make every Indian proud, praising its storytelling, direction by Aditya Dhar, and powerful performances, especially from Ranveer Singh. Kher was deeply moved by the audience's emotional response and the film's nationalistic spirit, noting its ability to unite Indians.",
+    "img": "https://static.toiimg.com/photo/msid-129728659,imgsize-61326.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-praises-dhurandhar-2-calls-aditya-dhar-rockstar-ranveer-singh-reacts/articleshow/129728678.cms",
+    "time": "2026-03-22T05:20:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Can Hardik Pandya end Mumbai Indians' title drought?",
+    "desc": "Mumbai Indians aim to end their IPL title drought in 2026, relying on superstar players to unite under Hardik Pandya's leadership. Despite a star-studded squad, the team must overcome past struggles and foster harmony to rediscover their winning formula and secure the championship.",
+    "img": "https://static.toiimg.com/photo/msid-129728393,imgsize-53776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-can-hardik-pandya-end-mumbai-indians-title-drought/articleshow/129728399.cms",
+    "time": "2026-03-22T04:55:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil prices cross $100 — what lies ahead as the Middle East crisis intensifies?",
+    "desc": "Middle East crisis fuels oil market volatility, with prices holding above $100 due to disrupted supplies and infrastructure damage. Experts warn of prolonged high prices, potentially lasting years, as key shipping routes remain impacted. Airlines are preparing for sustained elevated fuel costs, while LNG exports face significant cuts.",
+    "img": "https://static.toiimg.com/photo/msid-129728336,imgsize-51806.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-cross-100-what-lies-ahead-as-the-middle-east-crisis-intensifies/articleshow/129728070.cms",
+    "time": "2026-03-22T04:55:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Tucker Carlson",
+    "desc": "The American conservative commentator, who says his worldview is shaped by his Christian faith, has emerged as one of the most influential critics of U.S. interventionist foreign policy, Washington’s support for Tel Aviv, and, more specifically, Israel’s war in Palestine and the ongoing U.S.-Israel attack on Iran",
+    "img": "https://th-i.thgim.com/public/news/national/5xylju/article70770211.ece/alternates/LANDSCAPE_1200/tucker%20carlson_Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/tucker-carlson-voice-of-america/article70770212.ece",
+    "time": "2026-03-22T04:53:07.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Legends, rising stars shine as TOISA celebrates sporting glory",
     "desc": "The Times of India Sports Awards (TOISA) celebrated India's top athletes in Lucknow, honouring excellence and dedication. Uttar Pradesh Chief Minister Yogi Adityanath presented awards to sporting legends like Leander Paes and the women's World Cup-winning cricket team, recognizing their significant contributions to Indian sports.",
@@ -16,6 +151,24 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/potholes-to-poor-lighting-ai-dashcams-to-detect-30-types-of-highway-defects/articleshow/129728242.cms",
     "time": "2026-03-22T04:34:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Iss baar No. 6': Rohit Sharma's big promise to Mumbai Indians fans",
+    "desc": "Mumbai Indians captain Rohit Sharma has vowed to bring home their sixth IPL title, addressing fans at a recent event. Meanwhile, former cricketer Irfan Pathan argues that MI edges out CSK as the greatest IPL team due to their significant contribution in producing top Indian cricketers.",
+    "img": "https://static.toiimg.com/photo/msid-129728130,imgsize-64134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/is-baar-no-6-rohit-sharmas-big-promise-to-mumbai-indians-fans-watch/articleshow/129728137.cms",
+    "time": "2026-03-22T04:20:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What did the Supreme Court say about paid maternity leave?",
+    "desc": "Why did the Supreme Court strike down Section 60(4) of the Social Security Code, 2020? What did it say about maternity leave for adoptive mothers? What did the Court recommend that the Union government do regarding paternity leave?",
+    "img": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/4d7dse/article70770278.ece/alternates/LANDSCAPE_1200/iStock-672165776.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/what-did-the-supreme-court-say-about-paid-maternity-leave/article70770019.ece",
+    "time": "2026-03-22T04:14:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -217,24 +370,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "‘Peaky Blinders: The Immortal Man’ ending explained",
-    "desc": "The Immortal Man' not with a bang, but a quiet reckoning. Haunted and frail, he seeks to make amends for his past actions. His final mission, driven by the death of his sister Ada, leads to a personal confrontation and a self-chosen end, fulfilling a long-planned farewell.",
-    "img": "https://static.toiimg.com/photo/msid-129727090,imgsize-699989.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/peaky-blinders-immortal-man-ending-explained-thomas-shelby-delivers-a-quiet-reckoning/articleshow/129727037.cms",
-    "time": "2026-03-22T00:52:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mohanlal and Priyadarshan reunite for 100th film",
-    "desc": "Mohanlal and Priyadarshan are coming together once again for the director's 100th film, a moment that has deeply resonated with the veteran actor. In an emotional statement, Mohanlal conveyed his thanks for experiencing such a pivotal chapter in their careers.",
-    "img": "https://static.toiimg.com/photo/msid-129727058,imgsize-137520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlal-and-priyadarshan-reunite-for-100th-film-drishyam-3-actor-says-some-milestones-do-not-belong-to-one-person-alone/articleshow/129727058.cms",
-    "time": "2026-03-22T00:40:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "‘Dhurandhar: The Revenge’ crosses Rs 500 cr mark in 3 days",
     "desc": "The Revenge' has shattered box office records, crossing the ₹500 crore mark globally in just three days. The Aditya Dhar-directed film, following the journey of an undercover spy infiltrating Lyari's underworld, has garnered immense audience appreciation for its high-octane action and compelling narrative.",
     "img": "https://static.toiimg.com/photo/msid-129727045,imgsize-86786.cms",
@@ -252,24 +387,6 @@ const newsData_en = [
     "time": "2026-03-22T00:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Aadu 3' BO day 3: Jayasurya’s film touches Rs 19.45 cr net",
-    "desc": "One Last Ride - Part 1' is showing strong box office growth, nearing ₹20 crore net after its opening weekend. Despite mixed audience reactions, the film's steady performance and the return of popular characters are drawing crowds. Weekday collections will be crucial for its continued success.",
-    "img": "https://static.toiimg.com/photo/msid-129727022,imgsize-196234.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aadu-3-box-office-collections-day-3-jayasuryas-film-touches-rs-19-45-cr-net-with-solid-weekend-growth/articleshow/129727022.cms",
-    "time": "2026-03-22T00:21:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ustaad Bhagat Singh' BO day 3: Film mints Rs 71.67 cr",
-    "desc": "Pawan Kalyan's 'Ustaad Bhagat Singh' is off to a strong start, crossing Rs 70 crore worldwide in its opening weekend. Despite a festive Ugadi release boosting initial numbers, audience reactions are divided, with some praising its mass appeal and others finding it outdated.",
-    "img": "https://static.toiimg.com/photo/msid-129727005,imgsize-103578.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ustaad-bhagat-singh-box-office-collections-day-3-pawan-kalyan-and-raashii-khanna-film-mints-rs-71-67-cr-worldwide/articleshow/129727005.cms",
-    "time": "2026-03-22T00:05:51.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Kanshi Ram returns",
     "desc": "The Bahujan Samaj Party founder’s name is being invoked by the leaders in Uttar Pradesh across political lines over the past two weeks and his supporters say that the architect of Dalit consciousness is being resurrected for the State’s Assembly poll next year, finds Mayank Kumar",
@@ -280,84 +397,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Should be ashamed to call 'Dhurandhar 2' propaganda,' Anupam Kher reviews the film",
-    "desc": "Anupam Kher lauded 'Dhurandhar 2' as outstanding, praising its writing, direction, and acting, particularly Ranveer Singh's performance. He defended the film against 'propaganda' accusations, calling it a celebration of modern India and its agencies. Kher expressed pride in the film's ability to unite Indians, comparing its impact to a cricket match. The film has achieved significant box office success.",
-    "img": "https://static.toiimg.com/photo/msid-129724940,imgsize-51406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/should-be-ashamed-to-call-dhurandhar-2-propaganda-anupam-kher-reviews-the-film-salutes-ranveer-singh-aditya-dhar-kaunsi-mitti-ke-bane-ho/articleshow/129724926.cms",
-    "time": "2026-03-21T20:09:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. Assembly election: For second time, Pottalurani residents to boycott polls over fish waste processing units",
-    "desc": "The residents have been demanding the closure of fish waste processing units near the village since 2019, and have submitted multiple petitions in this regard. However, the protest intensified in early 2024 ahead of the Lok Sabha election",
-    "img": "https://th-i.thgim.com/public/incoming/bmz9k7/article70769739.ece/alternates/LANDSCAPE_1200/9865_7_12_2025_15_24_49_1_DSC_0483.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/for-second-time-pottalurani-residents-to-boycott-polls-over-fish-waste-processing-units/article70769594.ece",
-    "time": "2026-03-21T19:35:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CPI(M) State Committee stands firmon six seats",
-    "desc": "The CPI(M)’s contention is that it had been promised an increase in the seats for the 2021 Tamil Nadu Assembly election by the DMK leadership. On the other hand, the DMK argues that it has included more political parties in the alliance and is likely to lose 15 constituencies from its share.",
-    "img": "https://th-i.thgim.com/public/incoming/flazzi/article70768806.ece/alternates/LANDSCAPE_1200/PTI02_13_2026_000647B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-cpim-meeting-to-decide-on-seat-sharing-with-dmk/article70768800.ece",
-    "time": "2026-03-21T19:33:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. Assembly election: parties must avoid excessive freebies, focus on development, says ex-Minister Semmalai",
-    "desc": "Contending that these handouts being announced as part of electoral promises by major parties will not facilitate T.N.’s development, he criticises the DMK government for not increasing the capital expenditure substantially over the last 5 years and ‘frittering away’ funds for distributing freebies",
-    "img": "https://th-i.thgim.com/public/incoming/r8alrn/article70769971.ece/alternates/LANDSCAPE_1200/11658_21_3_2026_18_55_45_2_2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/parties-must-avoid-excessive-freebies-focus-on-development-says-ex-minister-semmalai/article70769698.ece",
-    "time": "2026-03-21T19:23:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ibrahim Ali Khan drops glimpse into Eid celebrations with Taimur and family",
-    "desc": "Saif Ali Khan and Kareena Kapoor Khan celebrated Eid with the Pataudi family, including Sara and Ibrahim Ali Khan. Ibrahim shared a glimpse of the festive feast, featuring biryani enjoyed by Taimur. Saba Ali Pataudi also showcased the tradition of giving Eidi to the younger family members.",
-    "img": "https://static.toiimg.com/photo/msid-129724598,imgsize-61376.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-kareena-kapoor-khans-son-taimur-enjoys-biryani-on-eid-ibrahim-ali-khan-gives-a-sneak-peek-into-the-celebrations/articleshow/129724560.cms",
-    "time": "2026-03-21T19:12:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Narungga stories from Australia come to Chennai",
     "desc": "Watch Guuranda this weekend in Chennai, a unique show by Australian First Nations artiste Jacob Boehme, KM Music Conservatory’s choir, dancers, and Tholpaavai shadow puppeteers. The performance of Aboriginal fables is on till March 22 at Anna Nagar Tower Park",
     "img": "https://th-i.thgim.com/public/life-and-style/qur50m/article70770323.ece/alternates/LANDSCAPE_1200/IMG_20260321_193737.jpg.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/dance/experience-guuranda-celebrated-narungga-stories-from-australia-come-to-chennai/article70770324.ece",
     "time": "2026-03-21T18:31:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Kantara' star Rishab Shetty calls Ranveer Singh's'Dhurandhar 2' brilliant",
-    "desc": "The Revenge' is garnering significant praise from audiences and celebrities alike. Rishab Shetty and SS Rajamouli have lauded the film's brilliant storytelling, powerful performances, and spectacular visuals, with Rajamouli highlighting its emotional depth and flawless execution, even for its four-hour runtime.",
-    "img": "https://static.toiimg.com/photo/msid-129723572,imgsize-40156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kantara-star-rishab-shetty-calls-ranveer-singhsdhurandhar-2-brilliant-comments-on-aditya-dhars-detailing/articleshow/129723432.cms",
-    "time": "2026-03-21T18:04:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What did the Supreme Court say about paid maternity leave?",
-    "desc": "Why did the Supreme Court strike down Section 60(4) of the Social Security Code, 2020? What did it say about maternity leave for adoptive mothers? What did the Court recommend that the Union government do regarding paternity leave?",
-    "img": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/4d7dse/article70770278.ece/alternates/LANDSCAPE_1200/iStock-672165776.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/what-did-the-supreme-court-say-about-paid-maternity-leave/article70770019.ece",
-    "time": "2026-03-21T18:02:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A game of four",
-    "desc": "The Tamil Nadu Assembly election will see a four-cornered contest this April. As the DMK and its allies and the AIADMK and its partners remain the principal participants of the big fight, it is also clear that the newly formed Tamilaga Vettri Kazhagam and the steady presence of the Naam Tamizhar Katchi in electoral politics will have roles to play. This report analyses the political situation ahead of this election that entices voters with the promise that it will be like nothing the State has never seen so far",
-    "img": "https://th-i.thgim.com/public/incoming/r1x3qr/article70770287.ece/alternates/LANDSCAPE_1200/ELECTION%20.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-game-of-four/article70770259.ece",
-    "time": "2026-03-21T17:53:13.000Z"
   },
   {
     "cat": "Tech",
@@ -376,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/toisa-2025-a-grand-roll-call-of-excellence-in-indian-sports/articleshow/129722848.cms",
     "time": "2026-03-21T17:43:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Tucker Carlson",
-    "desc": "The American conservative commentator, who says his worldview is shaped by his Christian faith, has emerged as one of the most influential critics of U.S. interventionist foreign policy, Washington’s support for Tel Aviv, and, more specifically, Israel’s war in Palestine and the ongoing U.S.-Israel attack on Iran",
-    "img": "https://th-i.thgim.com/public/news/national/5xylju/article70770211.ece/alternates/LANDSCAPE_1200/tucker%20carlson_Art.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/tucker-carlson-voice-of-america/article70770212.ece",
-    "time": "2026-03-21T17:33:09.000Z"
   },
   {
     "cat": "World",
@@ -421,24 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-is-likely-to-be-ms-dhonis-last-former-csk-star-makes-big-prediction/articleshow/129722392.cms",
     "time": "2026-03-21T16:56:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mamata targets Modi; Suvendu pushes Hindutva agenda",
-    "desc": "Chief Minister Mamata Banerjee, participating in Id prayers, accuses Prime Minister Narenda Modi of promoting Hindu-Muslim narrative and taking away voting rights. LOP Suvendu Adhikari says he prayed for the well-being of sanatanis at the Kalighat temple.",
-    "img": "https://th-i.thgim.com/public/incoming/bcyb45/article70768792.ece/alternates/LANDSCAPE_1200/20260321063L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/wont-allow-bjp-to-snatch-voting-rights-will-fight-till-end-mamata-banerjee/article70768786.ece",
-    "time": "2026-03-21T16:52:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "State cannot put ‘arbitrary ceiling’ on disability limits when RPwD Act does not prescribe any: SC",
-    "desc": "Says none of the provisions of the Rights to Persons with Disabilities (RPwD) Act, 2016 indicates that an upper limit could be prescribed in matter of adjudging suitability of a candidate for a particular post.",
-    "img": "https://th-i.thgim.com/public/incoming/lvycj6/article70770156.ece/alternates/LANDSCAPE_1200/IMG_SUPREME_COURT__DELHI_2_1_JNDSN349.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/state-cannot-put-arbitrary-ceiling-on-disability-limits-when-rpwd-act-does-not-prescribe-any-sc/article70770033.ece",
-    "time": "2026-03-21T16:43:10.000Z"
   },
   {
     "cat": "Sports",
@@ -577,15 +595,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Here’s why",
-    "desc": "Former India pacer Irfan Pathan believes Mumbai Indians edge out Chennai Super Kings as the IPL's greatest team, highlighting MI's significant contribution of match-winners to the Indian squad. Pathan also noted that the upcoming IPL season will be a crucial learning phase for young batting sensation Vaibhav Sooryavanshi, who faces increased scrutiny from opposition bowlers.",
-    "img": "https://static.toiimg.com/photo/msid-129718615,imgsize-119408.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-dont-have-4-ind-captains-mi-do-why-pathan-picked-mumbai-as-greatest-ipl-team/articleshow/129718610.cms",
-    "time": "2026-03-21T12:23:10.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Anahat Singh, Tanvi Khanna make it to the semi-finals",
     "desc": "India's Anahat Singh and Tanvi Khanna secured semifinal berths at the Indian Open Squash Championship, guaranteeing a national presence in the final. Top seed Anahat dominated her quarterfinal, while Tanvi staged an impressive upset. Local favorite Joshna Chinappa, however, was eliminated by Egypt's Nadien El Hammamy.",
     "img": "https://static.toiimg.com/photo/msid-129718222,imgsize-598741.cms",
@@ -601,24 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
     "time": "2026-03-21T11:33:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MI's playing XI for IPL 2026: Rohit to open, will Shardul make it to the 11?",
-    "desc": "Mumbai Indians, IPL 2026 favourites, boast a formidable squad after key T20 World Cup 2026 performances. With a strong core and strategic auction buys like Quinton de Kock, MI aims for their sixth title. Key players Rohit Sharma, Suryakumar Yadav, and Jasprit Bumrah are set to lead the charge, supported by impactful all-rounders and a potent bowling attack.",
-    "img": "https://static.toiimg.com/photo/msid-129717639,imgsize-379035.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mi-playing-xi-ipl-2026-predicted-strongest-full-squad-rohit-sharma-will-jacks-mumbai-indians/articleshow/129717549.cms",
-    "time": "2026-03-21T11:19:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "From Sachin to Sunil Narine, how the system works",
-    "desc": "The IPL 2026 season kicks off March 28. The Most Valuable Player is determined by a points system rewarding fours, sixes, wickets, dot balls, catches, and stumpings. Sunil Narine holds the record for most MVP awards with three wins. Suryakumar Yadav was the MVP in 2025.",
-    "img": "https://static.toiimg.com/photo/msid-129717235,imgsize-61120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-mvps-since-2008-from-sachin-tendulkar-to-sunil-narine-how-the-system-works/articleshow/129716910.cms",
-    "time": "2026-03-21T10:52:05.000Z"
   },
   {
     "cat": "Business",
@@ -691,24 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/petrol-and-diesel-price-today-premium-petrol-price-hiked-how-much-fuel-costs-in-your-city-today-check-list/articleshow/129713514.cms",
     "time": "2026-03-21T06:10:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India's crude shuffle: How Iran's Hormuz chokehold rerouted oil imports from Gulf to Russia",
-    "desc": "India's crude oil imports have significantly dropped in March due to disruptions in the Strait of Hormuz, forcing refiners to pivot towards Russia and African producers. Russia has emerged as the largest supplier, nearly doubling its shipments, while African nations like Angola have also increased their exports to compensate for reduced Middle Eastern supplies.",
-    "img": "https://static.toiimg.com/photo/msid-129713528,imgsize-44580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-crude-shuffle-how-irans-hormuz-chokehold-rerouted-oil-imports-from-gulf-to-russia/articleshow/129713233.cms",
-    "time": "2026-03-21T05:21:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US taps emergency oil reserve, releases 45 million barrels to tame war-driven price hike",
-    "desc": "Amidst the ongoing war with Iran, the Trump administration is releasing 45.2 million barrels from the Strategic Petroleum Reserve to curb soaring oil prices. This move, part of a global effort, involves lending crude to energy firms with repayment including a premium, aiming to stabilize markets without taxpayer cost. The reserve, holding significant oil, is expected to grow upon repayment.",
-    "img": "https://static.toiimg.com/photo/msid-129712807,imgsize-47212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-taps-emergency-oil-reserve-releases-45-million-barrels-to-tame-war-driven-price-hike/articleshow/129712690.cms",
-    "time": "2026-03-21T04:24:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/men-in-blue-a-t20-behemoth/article70759275.ece",
     "time": "2026-03-18T17:54:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 Countdown",
+    "desc": "The core of the DC squad isn’t different to the last season, where it finished fifth after a sparkling start; Rahul will shoulder the responsibility of laying a strong base as opener; Axar, Kuldeep and Vipraj round off a well-stocked spin department",
+    "img": "https://th-i.thgim.com/public/sport/hjs1xh/article70759325.ece/alternates/LANDSCAPE_1200/AXAR.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-countdown-capitals-need-to-deliver-at-optimum-capacity-to-fulfil-their-elusive-dream/article70759319.ece",
+    "time": "2026-03-18T17:13:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Airlines told to curb extra fees for seat selection",
+    "desc": "At least 60% of seats on each flight must be available for selection without extra fees; passengers under the same PNR must be seated together; publicise passenger rights in case of flight cancellation, delay, baggage loss",
+    "img": "https://th-i.thgim.com/public/incoming/3hcj/article70756828.ece/alternates/LANDSCAPE_1200/iStock-157685333.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/govt-mandates-airlines-to-keep-at-least-60-seats-on-flights-free-of-charge/article70756785.ece",
+    "time": "2026-03-18T14:49:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kishan to lead Sunrisers in Cummins’ absence",
+    "desc": "This marks a rare moment in IPL history, where every team features an Indian captain — at least until Cummins regains full fitness, the last time being in the early stages of the 2019 edition",
+    "img": "https://th-i.thgim.com/public/incoming/wmft71/article70758609.ece/alternates/LANDSCAPE_1200/PTI05_23_2025_000469B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-kishan-to-lead-sunrisers-in-cummins-absence/article70758461.ece",
+    "time": "2026-03-18T14:23:38.000Z"
   }
 ];
