@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Kotak sells stake in capital market lending arm",
+    "desc": "Kotak Mahindra Capital Company will sell nearly 31% of its stake in Infina Finance for approximately Rs 1,293.9 crore. The stake will be acquired by investors including the Rakesh Jhunjhunwala estate and other entities. This transaction will reduce KMCC's holding in the capital market lending arm to 19%.",
+    "img": "https://static.toiimg.com/photo/msid-129738559,imgsize-988701.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kotak-sells-stake-in-capital-market-lending-arm/articleshow/129738556.cms",
+    "time": "2026-03-22T20:29:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'India-EU trade pact to better tech access'",
+    "desc": "The India-EU free trade agreement is anticipated to boost technology access and localization efforts for Skoda Auto Volkswagen India, according to MD and CEO Piyush Arora. The pact is expected to enhance product development in India for local and export markets, with easier component access supporting future localization.",
+    "img": "https://static.toiimg.com/photo/msid-129738519,imgsize-1012732.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-eu-trade-pact-to-better-tech-access/articleshow/129738517.cms",
+    "time": "2026-03-22T20:00:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: residents of Tiruttani constituency seek more support to improve their livelihood",
+    "desc": "Farmers, who recently set up a producer organisation and started growing millets, complain that they still do not have machinery needed to process the crop. Residents say work to lay a second access road to Subramaniaswami Temple is yet to be completed, with land acquisition still under way",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/ozh3hh/article70773206.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-22%20at%209.11.58%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-residents-of-tiruttani-constituency-seek-more-support-to-improve-their-livelihood/article70773036.ece",
+    "time": "2026-03-22T19:32:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP will draw a blank this time too, says Pinarayi Vijayan",
+    "desc": "The Kerala Chief Minister doesn’t see defections from the Left helping either the BJP or the Congress, which, according to him, is the BJP’s ‘B team’; for the State to be in step with the modern era, the Left should continue to be in govt, he argues",
+    "img": "https://th-i.thgim.com/public/latest-news/akbcli/article70773382.ece/alternates/LANDSCAPE_1200/PinarayiVijayan.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2026-pinarayi-vijayan-interview/article70772737.ece",
+    "time": "2026-03-22T19:30:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "If America strikes us, we should attack Indian cities like Delhi and Mumbai: Ex-Pak envoy",
+    "desc": "Former Pakistani envoy Abdul Basit stated that striking Indian cities like New Delhi and Mumbai would be Islamabad's \"default move\" if Pakistan were attacked by the US. He asserted that Pakistan's nuclear deterrence is India-specific, not aimed at the US, and that any aggression would be met with retaliation against India.",
+    "img": "https://static.toiimg.com/photo/msid-129738175,imgsize-677703.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/if-america-strikes-us-we-should-attack-indian-cities-like-delhi-and-mumbai-ex-pak-envoy/articleshow/129738185.cms",
+    "time": "2026-03-22T19:13:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fear of rebellion looms large over Congress in Davangere",
+    "desc": "Though KPCC president and Deputy Chief Minister D.K. Shivakumar claimed in Bengaluru that candidates’ selection for the Assembly bypoll was based on consensus and the decision was unanimous, a Congress leader and disappointed ticket aspirant for Davangere South constituency Mohammad Sadiq Pehelwan announced in Davangere that he would challenge Congress candidate Samarth as a rebel candidate",
+    "img": "https://th-i.thgim.com/public/incoming/wnjphs/article70773373.ece/alternates/LANDSCAPE_1200/20260320108L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-bypolls-fear-of-rebellion-looms-large-over-congress-in-davangere/article70772830.ece",
+    "time": "2026-03-22T19:12:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Veteran BJP leader Datta Meghe passes away at 89; great loss for Vidarbha, says Gadkari",
+    "desc": "Veteran BJP leader Datta Meghe passed away at 89. A four-time Lok Sabha MP and former state minister, Meghe joined the BJP in 2014. Union Minister Nitin Gadkari remembered him as an elder brother, highlighting his significant contributions to education and healthcare in Vidarbha, particularly in tribal areas.",
+    "img": "https://static.toiimg.com/photo/msid-129737984,imgsize-790121.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/veteran-bjp-leader-datta-meghe-passes-away-at-89-great-loss-for-vidarbha-says-gadkari/articleshow/129737963.cms",
+    "time": "2026-03-22T18:55:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer's transformation for 'ghost' sequence in 'Dhurandhar 2' leaves fans shocked",
+    "desc": "The Revenge' was achieved through masterful practical makeup, not CGI, stunning fans. Behind-the-scenes footage reveals the intricate process, earning widespread praise for the actor's dedication and the film's commitment to authenticity. The blockbuster continues its box office dominance.",
+    "img": "https://static.toiimg.com/photo/msid-129737736,imgsize-55608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-transformation-for-ghost-born-from-the-shadows-sequence-in-dhurandhar-2-leaves-fans-shocked-this-was-not-cg/articleshow/129737477.cms",
+    "time": "2026-03-22T18:43:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smaran",
+    "desc": "He had a stupendous sophomore season as he accumulated a tournament-high 950 runs in the 2025-26 Ranji Trophy. After a sedate start to his domestic career in 2024, the 22-year-old from Karnataka has emerged as one of the brightest prospects in the country across formats",
+    "img": "https://th-i.thgim.com/public/incoming/nu7y9q/article70773342.ece/alternates/LANDSCAPE_1200/NH02Smaran09.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/i-will-go-forward-through-runs-and-runs-only-smaran/article70773341.ece",
+    "time": "2026-03-22T18:42:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Back in Ladakh to rousing reception, Wangchuk calls for ‘give and take’ solution",
+    "desc": "Released activist Sonam Wangchuk urged the Union government for \"win-win\" talks with Ladakhi leaders, emphasizing a \"give and take\" approach. He vowed to continue his struggle if necessary, highlighting his fight for Ladakh's culture and environment. Wangchuk expressed hope for justice regarding the September 24 firing and the release of arrested individuals.",
+    "img": "https://static.toiimg.com/photo/msid-129737557,imgsize-1228240.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/back-in-ladakh-to-rousing-reception-wangchuk-calls-for-give-and-take-solution/articleshow/129737569.cms",
+    "time": "2026-03-22T18:34:45.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Mamata begins campaign with workers’ meet",
     "desc": "In the 2026 Assembly polls, the contest has become interesting because BJP leader Suvendu Adhikari is contesting against the Chief Minister. The Assembly has seen about 47,000 electors deleted during SIR and fate of 14,000 others hanging under judicial adjudication",
@@ -70,15 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-has-a-proud-wife-smile-as-fans-mob-ranveer-singh-post-dhurandhar-2-success-couple-steps-out-on-a-lunch-date/articleshow/129735818.cms",
     "time": "2026-03-22T17:14:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP will draw a blank this time too, says Pinarayi Vijayan",
-    "desc": "Kerala Chief Minister Pinarayi Vijayan doesn’t see defections from the Left helping either the BJP or the Congress, which, according to him, is the BJP’s ‘B team’. For the State to be in step with the modern era, the Left should continue to be in govt, he argues",
-    "img": "https://th-i.thgim.com/public/incoming/19qy66/article70765058.ece/alternates/LANDSCAPE_1200/10018_1_2_2026_17_44_45_3_KERALA_FOR_ALL_09.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2026-pinarayi-vijayan-interview/article70772737.ece",
-    "time": "2026-03-22T17:12:34.000Z"
   },
   {
     "cat": "Sports",
@@ -163,48 +244,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "CPI(M) courts IUML rebels, leaves seats open for strategic gains",
-    "desc": "An IUML rebel has entered the fray in Mankada as an Independent against UDF nominee Manjalamkuzhi Ali, with the CPI(M) candidate expressing willingness to withdraw from the race. The CPI(M) had earlier tried to garner support of ‘disgruntled’ League leaders, but did not meet with much success",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/cpim-courts-iuml-rebels-leaves-seats-open-for-strategic-gains/article70772834.ece",
-    "time": "2026-03-22T15:42:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Police serve notice to Muthappa Rai’s son Ricky Rai",
-    "desc": "Police said the high-end car was traced to Ricky Rai’s residence in Sadashivanagar and has been seized. However, there is no clarity on who owns the vehicle or whether it was being driven by Mr. Rai.",
-    "img": "https://th-i.thgim.com/public/news/national/karnataka/cy6km6/article70771980.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-22%20at%2011.10.43.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/lamborghini-stunt-in-bengaluru-police-serve-notice-to-muthappa-rais-son-ricky-rai/article70771901.ece",
-    "time": "2026-03-22T15:32:52.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'Pop a pill and carry on': The workplace silence on India's menstrual leave debate",
     "desc": "Millions of women navigate monthly hormonal cycles impacting energy and resilience, yet modern workplaces expect consistent performance. The debate around mandatory menstrual leave in India highlights concerns about potential hiring bias versus the need for biological accommodation. Experts and individuals offer varied perspectives.",
     "img": "https://static.toiimg.com/photo/msid-129734875,imgsize-39882.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/pop-a-pill-and-carry-on-the-workplace-silence-on-indias-menstrual-leave-debate/articleshow/129730849.cms",
     "time": "2026-03-22T15:32:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Voting behaviour of Christian community draws parties’ attention",
-    "desc": "The preferences of the community, which accounts for 18% of the population, vary across denominations and are shaped by regional factors. The Malankara Church dispute, crisis in aided schools, and the Munambam land row are among the issues that may influence the community",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/voting-behaviour-of-christian-community-draws-parties-attention/article70772428.ece",
-    "time": "2026-03-22T15:30:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Alert issued against Nipah in Kerala from April to September",
-    "desc": "Previous outbreaks and spillover cases suggest that the virus is found to have been active in the State in the the six-month period starting in April; health officials lay focus on Kozhikode, Malappuram, Palakkad, and Thrissur districts",
-    "img": "https://th-i.thgim.com/public/incoming/jlfv2b/article70772596.ece/alternates/LANDSCAPE_1200/IMG_Nipah_2_1_EFCKRB37.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/alert-issued-against-nipah-in-kerala-from-april-to-september/article70772258.ece",
-    "time": "2026-03-22T15:22:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -441,15 +486,6 @@ const newsData_en = [
     "time": "2026-03-22T09:51:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Allies in Delhi, rivals in states: Why Congress should quit INDIA bloc, fight regional parties",
-    "desc": "The INDIA bloc faces internal strife post-Rajya Sabha elections, with allies like SP, CPM, and CPI(ML) criticising Congress. Cross-voting and state-level rivalries, particularly in Maharashtra, Delhi, West Bengal, Tamil Nadu, and Kerala, have frayed the alliance. Regional parties question Congress's leadership, suggesting a need for independent rebuilding before any grand coalition.",
-    "img": "https://static.toiimg.com/photo/msid-129731195,imgsize-136634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/allies-in-delhi-rivals-in-states-why-congress-should-quit-india-bloc-fight-regional-parties-assembly-elections-20206/articleshow/129731064.cms",
-    "time": "2026-03-22T09:40:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Middle East conflict, crude oil trends to guide markets",
     "desc": "Investor sentiment remains cautious as the Middle East conflict enters its fourth week, impacting global stock markets and crude oil prices. For the upcoming holiday-shortened week, market direction will be guided by geopolitical developments, foreign investor activity, and rupee fluctuations. Incoming data and global uncertainties are expected to drive market sensitivity.",
@@ -468,15 +504,6 @@ const newsData_en = [
     "time": "2026-03-22T09:24:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rethinking Down Syndrome in a more inclusive world",
-    "desc": "World Down Syndrome Day on March 21 highlights Trisomy 21, a genetic condition affecting millions. While biology is understood, outcomes depend on care, early intervention, and societal perception. Early diagnosis and therapies are crucial for individuals to achieve milestones and participate fully in life.",
-    "img": "https://static.toiimg.com/photo/msid-129730928,imgsize-1302130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/beyond-a-diagnosis-rethinking-down-syndrome-in-a-more-inclusive-world/articleshow/129730870.cms",
-    "time": "2026-03-22T09:15:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Kohli reacts to viral 'chartered London flights' rumours ahead of IPL 2026",
     "desc": "Virat Kohli has debunked rumors about requesting chartered flights for travel between India and the UK during IPL 2026. The RCB icon dismissed the speculation with laughing emojis on Instagram. The IPL 2026 season begins March 28, with RCB defending their title.",
@@ -484,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-reacts-to-viral-chartered-london-flights-rumour-ahead-of-ipl-2026/articleshow/129731010.cms",
     "time": "2026-03-22T09:15:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "​Blue saree brigade: Women at the heart of India’s water systems",
-    "desc": "Women make up less than 17 percent of the paid water workforce globally — but in India's villages, they are already running the systems. This is the story of how grassroots networks and government schemes are turning water's biggest burden-bearers into its most effective managers.",
-    "img": "https://static.toiimg.com/photo/msid-129730930,imgsize-1151199.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/blue-saree-brigade-women-at-the-heart-of-indias-water-systems/articleshow/129730813.cms",
-    "time": "2026-03-22T09:01:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -549,33 +567,6 @@ const newsData_en = [
     "time": "2026-03-22T08:24:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "8,931 days milestone! PM Modi overtakes Pawan Kumar Chamling to become longest-serving head of government",
-    "desc": "Prime Minister Narendra Modi has become India's longest-serving head of government, completing 8,931 days in office. This milestone surpasses the previous record held by Pawan Kumar Chamling. Modi's extensive public service includes over 13 years as Gujarat's Chief Minister and his tenure as Prime Minister since 2014.",
-    "img": "https://static.toiimg.com/photo/msid-129730491,imgsize-856660.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/8931-days-milestone-pm-modi-overtakes-pawan-kumar-chamling-to-become-longest-serving-head-of-government/articleshow/129730456.cms",
-    "time": "2026-03-22T08:22:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Middle East tensions raise alarm for India's smartphone shipments",
-    "desc": "India's smartphone market faces a grim outlook as the Middle East crisis impacts demand and supply. Analysts have slashed shipment forecasts for 2026, citing rising essential goods prices and component shortages. The conflict's ripple effects, including disrupted trade routes and potential helium supply issues, are expected to worsen the situation, particularly in the latter half of the year.",
-    "img": "https://static.toiimg.com/photo/msid-129730321,imgsize-38208.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/dialling-down-middle-east-tensions-raise-alarm-for-indias-smartphone-shipments/articleshow/129729879.cms",
-    "time": "2026-03-22T08:05:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Steven Knight says the ending of the ‘Peaky Blinders’ movie was planned ahead",
-    "desc": "The Immortal Man', sheds light on the predetermined downfall of Tommy Shelby, which was always a cornerstone of the narrative. He crafted Shelby as a man who sees death not as an end but as a compelling challenge, a trait Knight dubbed his ultimate superpower.",
-    "img": "https://static.toiimg.com/photo/msid-129730216,imgsize-60834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/steven-knight-explains-the-ending-of-peaky-blinders-the-immortal-man-i-thought-to-end-it-hes-gonna-have-to-go/articleshow/129730216.cms",
-    "time": "2026-03-22T08:00:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "KKR's playing XI for IPL 2026: Harshit, Pathirana out, Kartik Tyagi to debut",
     "desc": "Kolkata Knight Riders face pace bowling woes for IPL 2026 with key players injured. Despite a massive auction spend, including record signing Cameron Green, the team's strategy is reshaped. The predicted XI features new faces and retained stars, with Umran Malik poised for an impact role in a bid for redemption.",
@@ -583,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/kkr-playing-xi-ipl-2026-predicted-strongest-full-squad-harshit-rana-cameron-green-kolkata-knight-riders/articleshow/129730163.cms",
     "time": "2026-03-22T07:52:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "US House resolution seeks ‘genocide’ tag for Pakistan’s 1971 atrocities on Bengali Hindus",
-    "desc": "US Congressman Greg Landsman has introduced a resolution in the House of Representatives seeking to recognise the atrocities committed by the Pakistani army and its allies against Bengali Hindus in 1971 as war crimes and genocide. The resolution cites the 'Blood Telegram' and details the systematic targeting of Hindus for extermination, urging condemnation of these actions",
-    "img": "https://static.toiimg.com/photo/msid-129730079,imgsize-77482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/us-house-resolution-seeks-genocide-tag-for-pakistans-1971-atrocities-on-bengali-hindus/articleshow/129730157.cms",
-    "time": "2026-03-22T07:47:11.000Z"
   },
   {
     "cat": "Sports",
@@ -612,24 +594,6 @@ const newsData_en = [
     "time": "2026-03-22T07:22:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP names candidate for Karaikal South",
-    "desc": "The BJP has finalized its Puducherry assembly election candidates, naming M Arulmurugan for Karaikal South. This completes their list for the April 9 polls, where they contest 10 seats alongside allies AINRC, AIADMK, and LJK. Preparations are in full swing for the 30-seat election, with EVMs and VVPATs readied for over 9.44 lakh voters.",
-    "img": "https://static.toiimg.com/photo/msid-129729707,imgsize-309570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/puducherry-polls-bjp-names-another-candidate-for-karaikal-south-check-full-list/articleshow/129729017.cms",
-    "time": "2026-03-22T07:12:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Sky‑high losses: Iran war drives airlines to biggest crash since Covid – $50bn gone",
-    "desc": "Global airlines face their worst financial crisis since COVID-19 due to the Iran conflict, wiping over $50 billion off major carriers' market value. Soaring jet fuel prices, now double, threaten ticket price hikes and potential shortages. Executives warn of dampened demand from sustained high fares, while Middle Eastern airlines are hit particularly hard by airspace closures and tourism collapse.",
-    "img": "https://static.toiimg.com/photo/msid-129729500,imgsize-1127126.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/skyhigh-losses-iran-war-drives-airlines-to-biggest-crash-since-covid-50bn-gone/articleshow/129729280.cms",
-    "time": "2026-03-22T06:43:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Can Hardik Pandya end Mumbai Indians' title drought?",
     "desc": "Mumbai Indians aim to end their IPL title drought in 2026, relying on superstar players to unite under Hardik Pandya's leadership. Despite a star-studded squad, the team must overcome past struggles and foster harmony to rediscover their winning formula and secure the championship.",
@@ -637,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-can-hardik-pandya-end-mumbai-indians-title-drought/articleshow/129728399.cms",
     "time": "2026-03-22T04:55:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil prices cross $100 — what lies ahead as the Middle East crisis intensifies?",
-    "desc": "Middle East crisis fuels oil market volatility, with prices holding above $100 due to disrupted supplies and infrastructure damage. Experts warn of prolonged high prices, potentially lasting years, as key shipping routes remain impacted. Airlines are preparing for sustained elevated fuel costs, while LNG exports face significant cuts.",
-    "img": "https://static.toiimg.com/photo/msid-129728336,imgsize-51806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-cross-100-what-lies-ahead-as-the-middle-east-crisis-intensifies/articleshow/129728070.cms",
-    "time": "2026-03-22T04:55:00.000Z"
   },
   {
     "cat": "World",
@@ -684,15 +639,6 @@ const newsData_en = [
     "time": "2026-03-22T03:42:07.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Bulk diesel price hike rolled back for Gujarat fishermen, will be treated as special exception",
-    "desc": "Gujarat fishermen will continue to receive subsidised diesel after the Centre rolled back a steep Rs 22.43 per litre price hike for bulk fuel. The state government's intervention successfully shielded the fishing community from increased costs, ensuring diesel remains at previously agreed concessional rates.",
-    "img": "https://static.toiimg.com/photo/msid-129727848,imgsize-35466.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/diesel-price-bulk-diesel-price-hike-rolled-back-for-gujarat-fishermen-will-be-treated-as-special-exception/articleshow/129727706.cms",
-    "time": "2026-03-22T03:41:07.000Z"
-  },
-  {
     "cat": "World",
     "title": "Why is Israel attacking Lebanon?",
     "desc": "Why is the ground offensive concentrated in southern Lebanon? Why has Israel carried out several attacks against Hezbollah in the past and why does it want to dismantle the Shia militant group? What does it want to achieve?",
@@ -700,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/explained-why-is-israel-attacking-lebanon/article70770015.ece",
     "time": "2026-03-22T03:32:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Hormuz supply shock widens gap between future and physical fuel",
-    "desc": "The Iran war's fourth week sees a stark divergence between rising physical oil prices and futures, driven by the Strait of Hormuz closure and infrastructure attacks. Refiners face steep premiums, while trucking, shipping, and airline industries grapple with escalating fuel costs, impacting consumers and the broader economy.",
-    "img": "https://static.toiimg.com/photo/msid-129727529,imgsize-2204780.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-hormuz-supply-shock-widens-gap-between-future-and-physical-fuel/articleshow/129727281.cms",
-    "time": "2026-03-22T02:40:06.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +835,68 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/asian-games-cruise-ship-and-wooden-huts-will-be-unique-experience/article70763064.ece",
     "time": "2026-03-19T17:48:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Def Leppard’s India debut: Joe Elliot on the band’s glam-rock legacy and finally pouring some sugar on India",
+    "desc": "Nearly 50 years after a missed bus in Sheffield sparked it all, the Def Leppard frontman talks about spending three years perfecting ‘Hysteria’, the last-minute gamble that turned ‘Pour Some Sugar On Me’ into a stadium staple, and finally bringing those songs to an India that’s waited decades to hear them live",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/c4xemh/article70761267.ece/alternates/LANDSCAPE_1200/DSC09822.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/def-leppards-india-2026-joe-elliot-interview/article70761242.ece",
+    "time": "2026-03-19T10:59:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Filmmaker Michal Kwiecinski presents lively new Frederic  Chopin biopic",
+    "desc": "As the poet of the piano comes to town in a new avatar, Polish filmmaker Michal Kwiecinski discusses Chopin, A Sonata in Paris, the well-crafted biopic that is livelier and less sanctimonious than older portrayals of the master",
+    "img": "https://th-i.thgim.com/public/incoming/jgpck5/article70756889.ece/alternates/LANDSCAPE_1200/IFFK-2025_-The-GVQF9VBIA.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/filmmaker-michal-kwiecinski-presents-lively-new-frederic-chopin-biopic/article70756901.ece",
+    "time": "2026-03-19T07:34:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Chennai’s Pickleball boom: From midnight games to thriving WhatsApp communities",
+    "desc": "As new pickleball courts open across Injambakkam, T Nagar and Gandhi Nagar, the sport is doing more than just filling evening slots — it is creating WhatsApp communities, business networks and unlikely friendships across the city",
+    "img": "https://th-i.thgim.com/public/incoming/psg6w/article70614742.ece/alternates/LANDSCAPE_1200/BVR_7095.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/life-and-style/picklers-unite/article70609768.ece",
+    "time": "2026-03-19T06:45:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil, gas firms ordered to share import, export data with PPAC",
+    "desc": "All companies involved in the oil and gas supply chain including ‌oil producers, importers, refiners, fuel and gas retailers, liquefied ​natural gas importers, pipeline operators, and petrochemical plants were ordered to provide PPAC with data",
+    "img": "https://th-i.thgim.com/public/incoming/a9fbb2/article70759732.ece/alternates/LANDSCAPE_1200/20260311584L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/oil-gas-firms-ordered-to-share-import-export-data-with-ppac/article70759528.ece",
+    "time": "2026-03-18T23:13:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "22 India-bound ships on Hormuz evacuation list",
+    "desc": "Of these, 20 vessels have been assessed as critical to India’s energy security, carrying over 5 lakh tonnes of LNG and LPG and 16.76 lakh tonnes of crude oil; various agencies join hands for evacuation",
+    "img": "https://th-i.thgim.com/public/incoming/exh5gc/article70759417.ece/alternates/LANDSCAPE_1200/2026-03-18T143802Z_347538997_RC2W7FAY6ZO3_RTRMADP_3_IRAN-CRISIS-ENERGY-SECURITY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/22-india-bound-ships-on-hormuz-evacuation-list/article70759218.ece",
+    "time": "2026-03-18T19:48:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Airlines told to curb extra fees for seat selection",
+    "desc": "At least 60% of seats on each flight must be available for selection without extra fees; passengers under the same PNR must be seated together; publicise passenger rights in case of flight cancellation, delay, baggage loss",
+    "img": "https://th-i.thgim.com/public/incoming/3hcj/article70756828.ece/alternates/LANDSCAPE_1200/iStock-157685333.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/govt-mandates-airlines-to-keep-at-least-60-seats-on-flights-free-of-charge/article70756785.ece",
+    "time": "2026-03-18T14:49:43.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Nvidia chief expects revenue of $1 trillion through 2027",
+    "desc": "The entire tech world, from big names like OpenAI and Anthropic to young startups, feels like they could grow revenue and their AI \"if they could just get more capacity,\" Jensen Huang told the audience",
+    "img": "https://th-i.thgim.com/public/incoming/g6gtzz/article70752419.ece/alternates/LANDSCAPE_1200/2026-03-17T012901Z_460422352_RC206KAB03XD_RTRMADP_3_NVIDIA-GTC-SK-HYNIX-CHAIRMAN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/nvidia-chief-expects-revenue-of-1-trillion-through-2027/article70752418.ece",
+    "time": "2026-03-17T04:31:24.000Z"
   }
 ];
