@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New Zealand Cricket backs NZ20 as preferred domestic competition over Super Smash",
+    "desc": "In a major development for NZC (New Zealand Cricket), the board is looking to back NZ20 as its preferred domestic T20 competition. The NZC stated the same in a release on March 23; the NZC’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-cricket-backs-nz20-as-preferred-domestic-competition-over-super-smash-2026-03-23-1034733",
+    "time": "2026-03-23T04:27:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He looks really fit': R Ashwin backs Rohit Sharma to fire on all cylinders for Mumbai Indians in IPL 2026",
+    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee tournament will kick off on March 28 and will see the 10 franchises giving it their best shot in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/he-looks-really-fit-r-ashwin-backs-rohit-sharma-to-fire-on-all-cylinders-for-mumbai-indians-in-ipl-2026-2026-03-23-1034723",
+    "time": "2026-03-23T03:14:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manchester City crushes Arsenal's hopes, clinches Carabao cup title in stellar fashion",
+    "desc": "The Carabao Cup final saw Manchester City take on Arsenal. The two sides took on each other in the summit clash at Wembley Stadium in London on March 22, and the game saw City register...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/manchester-city-crushes-arsenal-s-hopes-clinches-carabao-cup-title-in-stellar-fashion-2026-03-23-1034720",
+    "time": "2026-03-23T02:41:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "KKR pick replacement for Akash Deep ahead of IPL 2026; tournament's remainder schedule soon",
     "desc": "Kolkata Knight Riders have named Vidarbha left-arm fast-bowler Saurabh Dubey as a replacement for India speedster Akash Deep for the Indian Premier League 2026. Deep has been undergoing rehabilitation at the Centre of Excellence (CoE)...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/cricket-australia-announces-2026-27-calendar-as-historic-4-test-series-against-new-zealand-headlines-schedule-2026-03-22-1034689",
     "time": "2026-03-22T12:50:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PSL 2026 to face West Asia war impact, PCB announces major changes for tournament",
-    "desc": "The Pakistan Cricket Board (PCB) announced on Sunday that the initial phase of the Pakistan Super League (PSL) 2026 will be played behind closed doors due to heightened tensions in the region stemming from the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/psl-2026-to-face-west-asia-war-impact-pcb-announces-major-changes-for-tournament-2026-03-22-1034683",
-    "time": "2026-03-22T11:41:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli reacts to speculations on 'chartered London flights' request during IPL 2026",
-    "desc": "Indian batting icon Virat Kohli has ended the silence on his rumoured requests to travel from India to London frequently during games in the Indian Premier League 2026. Kohli, who spends time with his family...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-reacts-to-speculations-on-chartered-london-flights-request-during-ipl-2026-2026-03-22-1034677",
-    "time": "2026-03-22T10:20:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dasun Shanaka becomes latest to ditch Pakistan Super League, set to feature for Rajasthan Royals in IPL 2026",
-    "desc": "In what has become a regular occurrence for the PSL (Pakistan Super League), star all-rounder Dasun Shanaka has reportedly opted out of the PSL 2026. The Sri Lanka captain was picked by Lahore Qalandars for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dasun-shanaka-becomes-latest-to-ditch-pakistan-super-league-set-to-feature-for-rajasthan-royals-2026-03-22-1034672",
-    "time": "2026-03-22T09:10:57.000Z"
   }
 ];
