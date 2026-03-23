@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Reports",
+    "desc": "BTS's grand comeback concert in Seoul has sparked controversy, with wedding couples reporting disrupted plans due to traffic restrictions and venue access issues. Organizers now face potential lawsuits as residents and businesses express frustration over the public space's commandeering. Meanwhile, BTS member V engaged with fans, discussing new music and upcoming choreography releases.",
+    "img": "https://static.toiimg.com/photo/msid-129740982,imgsize-119618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/arirang-bts-comeback-concert-at-gwanghwamun-triggers-backlash-k-pop-stars-could-face-lawsuit/articleshow/129740944.cms",
+    "time": "2026-03-23T01:42:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Regé-Jean Page and Nicola Coughlan reunite at SNL UK debut",
+    "desc": "Bridgerton stars Regé-Jean Page and Nicola Coughlan delighted fans with a surprise reunion during the debut of Saturday Night Live UK. The heartwarming moment, captured as the show concluded, sparked nostalgia and social media buzz. Page and Coughlan, who first shared the screen in the hit Netflix series, were seen chatting and embracing onstage, fueling hopes for future on-screen chemistry.",
+    "img": "https://static.toiimg.com/photo/msid-129741035,imgsize-479585.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-stars-reg-jean-page-and-nicola-coughlan-reunite-reigniting-hopes-for-a-long-awaited-on-screen-return/articleshow/129741038.cms",
+    "time": "2026-03-23T01:21:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jason Momoa and family forced to evacuate Hawaii home amid floods",
+    "desc": "Hollywood star Jason Momoa and his family were compelled to evacuate their Oahu North Shore residence due to severe flooding impacting Hawaii. The actor shared a social media update, confirming their safety while expressing concern for others affected by the storms. Momoa highlighted the widespread impact on communities, particularly those already facing difficulties, and urged everyone to stay safe.",
+    "img": "https://static.toiimg.com/photo/msid-129740993,imgsize-128102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jason-momoa-and-family-evacuate-north-shore-home-in-hawaii-share-video-updates-of-the-storm-hopefully-everyones-safe/articleshow/129740993.cms",
+    "time": "2026-03-23T01:12:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zendayaand Tom Holland spotted hand-in-hand in Los Angeles",
+    "desc": "Zendaya and Tom Holland were spotted hand-in-hand in Los Angeles, quelling separation fears amid persistent wedding rumors sparked by stylist Law Roach. Zendaya playfully addressed the speculation on Jimmy Kimmel Live!, revealing how AI-generated wedding photos fooled many. The couple continues to navigate Hollywood's spotlight while maintaining their private romance.",
+    "img": "https://static.toiimg.com/photo/msid-129740977,imgsize-943371.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-and-tom-holland-spotted-hand-in-hand-in-los-angeles-amid-wedding-buzz/articleshow/129740980.cms",
+    "time": "2026-03-23T01:06:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya told to step aside, ‘let Suryakumar Yadav lead’ at Mumbai Indians",
+    "desc": "Mumbai Indians, despite a star-studded lineup, face a captaincy dilemma ahead of IPL 2026. Former selector Kris Srikkanth suggests Suryakumar Yadav, fresh from leading India to T20 World Cup glory, could take over from Hardik Pandya to revitalize the team's fortunes. Srikkanth highlighted the unusual situation of multiple World Cup-winning captains playing under Pandya.",
+    "img": "https://static.toiimg.com/photo/msid-129734320,imgsize-170188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/hardik-pandya-told-to-step-aside-let-suryakumar-yadav-lead-at-mumbai-indians/articleshow/129734319.cms",
+    "time": "2026-03-23T01:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dhurandhar: The Revenge’ inches close to Rs 700 crore in 4 days",
+    "desc": "The Revenge' has stormed the box office, raking in Rs 500 crore domestically and Rs 690 crore worldwide. Directed by Aditya Dhar, this spy thriller, a sequel to 'Dhurandhar,' captivated audiences with its gripping narrative and action. The film's impressive opening weekend and subsequent strong performance are setting new benchmarks for Bollywood.",
+    "img": "https://static.toiimg.com/photo/msid-129740866,imgsize-44042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-4-ranveer-singh-rakesh-bedi-starrer-inches-close-to-rs-700-crore-globally/articleshow/129740865.cms",
+    "time": "2026-03-23T00:43:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man 4' to have Peter-Gwen reunion?",
+    "desc": "Brand New Day' with rumours swirling about Andrew Garfield and Kiernan Shipka joining Tom Holland. Shipka is reportedly eyed for Gwen Stacy, whose MCU debut seems imminent given Peter Parker's Empire State University attire in the trailer, mirroring comic origins. Garfield's cryptic trailer response fuels speculation.",
+    "img": "https://static.toiimg.com/photo/msid-129740787,imgsize-110242.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-andrew-garfield-and-kiernan-shipka-casting-buzz-in-tom-holland-starrer-grows-fans-speculate-peter-parker-and-gwen-stacy-reunion/articleshow/129740728.cms",
+    "time": "2026-03-23T00:20:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jorginho's wife issues statement",
+    "desc": "After soccer star Jorginho expressed his outrage over a security guard's alleged mistreatment of his stepdaughter at a hotel, Grammy-winning artist Chappell Roan quickly stepped in to set the record straight. She asserted that the guard was unrelated to her and that she didn’t witness the event in question.",
+    "img": "https://static.toiimg.com/photo/msid-129740633,imgsize-129498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chappell-roan-controversy-jorginhos-wife-catherine-harding-issues-statement-as-singer-claims-man-who-mistreated-11-year-old-was-not-her-guard/articleshow/129738818.cms",
+    "time": "2026-03-22T23:41:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EPFO reaches out to subscribers with unclaimed balance",
+    "desc": "EPFO is developing an auto-settlement facility to disburse unclaimed money from inoperative accounts directly to subscribers. This initiative will initially target Aadhaar-verified accounts with balances of Rs 1,000 or less, aiming to clear idle funds and simplify the withdrawal process for members.",
+    "img": "https://static.toiimg.com/photo/msid-129740660,imgsize-727590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/epfo-reaches-out-to-subscribers-with-unclaimed-balance/articleshow/129740656.cms",
+    "time": "2026-03-22T23:35:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma had ‘six-hitting skills from the start’, teammate reveals untold story",
+    "desc": "Abhishek Sharma faced early struggles in the T20 World Cup but bounced back to help India win. His friend Nehal Wadhera shared insights into Abhishek's talent and hard work. Wadhera also discussed his own IPL journey, learning from coaches like Ricky Ponting and playing under captains Rohit Sharma and Shreyas Iyer. Punjab Kings aims for the title in IPL 2026.",
+    "img": "https://static.toiimg.com/photo/msid-129733356,imgsize-266742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/abhishek-sharma-had-six-hitting-skills-from-the-start-teammate-reveals-untold-story/articleshow/129733182.cms",
+    "time": "2026-03-22T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer-Deepika pose for selfies post lunch date",
+    "desc": "The Revenge', the couple was spotted enjoying a low-key lunch date. Photos of them with restaurant staff and fans surfaced, showing them in high spirits. This public appearance followed Deepika's absence from the film's screening, fueling social media chatter.",
+    "img": "https://static.toiimg.com/photo/msid-129740577,imgsize-84482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-and-deepika-padukone-pose-for-selfies-post-lunch-date-as-they-celebrate-dhurandhar-2-the-revenge-box-office-success/articleshow/129740488.cms",
+    "time": "2026-03-22T23:10:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CAFE 3.0 rollout: Penalty recovery for carmakers remains a grey area",
+    "desc": "Government seeks clarity on recovering hefty penalties from carmakers for missing fuel efficiency targets. With stricter norms ahead, the PMO is pushing ministries to define who evaluates, approves, and recovers the dues. Over Rs 8,800 crore in penalties have been levied for past non-compliance, yet no recovery has occurred.",
+    "img": "https://static.toiimg.com/photo/msid-129740603,imgsize-1115523.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cafe-3-0-rollout-penalty-recovery-for-carmakers-remains-a-grey-area/articleshow/129740600.cms",
+    "time": "2026-03-22T22:58:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kilometrage allowance hiked by 25% for train crew",
+    "desc": "Indian Railways has boosted Kilometrage Allowance and Allowance in lieu of Kilometrage by 25% for over two lakh running staff, effective January 2024. This decision aligns compensation with the 50% Dearness Allowance hike, addressing long-standing demands for better financial benefits for essential operational personnel.",
+    "img": "https://static.toiimg.com/photo/msid-129740596,imgsize-949570.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kilometrage-allowance-hiked-by-25-for-train-crew/articleshow/129740589.cms",
+    "time": "2026-03-22T22:51:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Maoist endgame nears, but no political fanfare in offing",
+    "desc": "The March 31 deadline for eliminating Left-wing extremism may pass without fanfare, having successfully created a psychological impetus for stakeholders. This pressure led to the neutralization or surrender of most CPI(Maoist) leadership, fracturing the group and pushing remaining members towards surrender.",
+    "img": "https://static.toiimg.com/photo/msid-129740572,imgsize-63428.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/maoist-endgame-nears-but-no-political-fanfare-in-offing/articleshow/129740567.cms",
+    "time": "2026-03-22T22:41:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC judge",
+    "desc": "Supreme Court's Justice Vikram Nath asserted AI can aid judicial processes but won't replace judges' core judgment-writing role. He highlighted AI's limitations in complex cases like matrimonial disputes and constitutional matters. Other judges echoed concerns about AI's potential for bias and the need for human conscience in justice delivery, emphasizing its role as a facilitator, not a substitute.",
+    "img": "https://static.toiimg.com/photo/msid-129740563,imgsize-660625.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ai-can-never-perform-core-job-of-judgment-writing-sc-judge/articleshow/129740550.cms",
+    "time": "2026-03-22T22:37:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Few women get past collegium's subjective assessment: SC judge",
+    "desc": "Supreme Court Justice Ujjal Bhuyan highlighted a stark gender disparity in higher judicial appointments, noting women excel in lower judicial services but are underrepresented in High Courts and the Supreme Court due to subjective collegium criteria. He stressed the need for greater gender parity for India to achieve developed nation status by 2047.",
+    "img": "https://static.toiimg.com/photo/msid-129740499,imgsize-1304329.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/few-women-get-past-collegiums-subjective-assessment-sc-judge/articleshow/129740461.cms",
+    "time": "2026-03-22T22:33:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kim Kardashian-Lewis Hamilton hold hands in Tokyo",
+    "desc": "Formula 1 star Lewis Hamilton and reality TV personality Kim Kardashian were recently spotted together in Tokyo, Japan. Photos circulating online show the duo enjoying their time in the bustling city, with Hamilton even seen waving to fans. The unexpected sighting has sparked considerable interest among followers of both celebrities.",
+    "img": "https://static.toiimg.com/photo/msid-129739305,imgsize-83648.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kim-kardashian-and-lewis-hamilton-hold-hands-in-tokyo-amid-new-relationship-buzz-watch/articleshow/129738815.cms",
+    "time": "2026-03-22T22:30:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi is India's longest serving head of govt",
+    "desc": "Prime Minister Narendra Modi has become the longest-serving head of government, surpassing the record previously held by Pawan Kumar Chamling. This milestone marks 25 continuous years in leadership, beginning with his tenure as Gujarat Chief Minister in October 2001 and continuing as Prime Minister since May 2014.",
+    "img": "https://static.toiimg.com/photo/msid-129739401,imgsize-56060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-is-indias-longest-serving-head-of-govt/articleshow/129739205.cms",
+    "time": "2026-03-22T22:09:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CCS recognises 'significant impact' of West Asia conflict",
+    "desc": "Prime Minister Narendra Modi's cabinet committee on security discussed measures to diversify import sources for key sectors like chemicals and pharmaceuticals due to the West Asia conflict's global economic impact. The government is preparing short-, medium-, and long-term strategies to safeguard citizens and ensure the availability of essential goods like fertilizers and coal.",
+    "img": "https://static.toiimg.com/photo/msid-129738816,imgsize-115552.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ccs-recognises-significant-impact-of-west-asia-conflict/articleshow/129738765.cms",
+    "time": "2026-03-22T21:43:23.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Kotak sells stake in capital market lending arm",
     "desc": "Kotak Mahindra Capital Company will sell nearly 31% of its stake in Infina Finance for approximately Rs 1,293.9 crore. The stake will be acquired by investors including the Rakesh Jhunjhunwala estate and other entities. This transaction will reduce KMCC's holding in the capital market lending arm to 19%.",
@@ -207,15 +378,6 @@ const newsData_en = [
     "time": "2026-03-22T16:31:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Russian oil tanker MT Aqua Tita arrives off Mangaluru port amid Middle East tensions",
-    "desc": "A Russian oil tanker chartered by MRPL arrived off the Indian coast amid escalating West Asian tensions and volatile global energy markets. This arrival, along with an LPG cargo from the US, highlights India's efforts to secure energy supplies. Officials confirmed no port congestion and the safety of Indian vessels and sailors in the Persian Gulf.",
-    "img": "https://static.toiimg.com/photo/msid-129735196,imgsize-10544.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/russian-oil-tanker-mt-aqua-tita-arrives-off-mangaluru-port-amid-middle-east-tensions/articleshow/129735050.cms",
-    "time": "2026-03-22T15:57:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Dhurandhar 2' actor Mustafa started with Rs 10,000 a month as a gym trainer",
     "desc": "Mustafa Ahmed, once a struggling gym trainer earning Rs 10,000 monthly, defied dyslexia and societal expectations to become a sought-after fitness expert. His journey, marked by a pivotal moment with a client, led him to train Bollywood stars like Hrithik Roshan and eventually to an acting role in 'Dhurandhar 2', proving that passion and perseverance can overcome any obstacle.",
@@ -225,15 +387,6 @@ const newsData_en = [
     "time": "2026-03-22T15:56:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NCTP members oppose transgender Act amendments, say not consulted",
-    "desc": "National Council for Transgender Persons (NCTP) members state they are in the process of issuing a joint statement to register their objections to Transgender Persons (Protection of Rights) Amendment Bill 2026 that seeks to amend the Transgender Persons (Protection of Rights) Act, 2019.",
-    "img": "https://th-i.thgim.com/public/incoming/ky4ov0/article70753912.ece/alternates/LANDSCAPE_1200/PTI03_17_2026_000204B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/nctp-members-oppose-transgender-act-amendments-say-not-consulted/article70753207.ece",
-    "time": "2026-03-22T15:48:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pathan explains ‘identification of talent’ as reason why DC, PBKS haven’t won IPL yet",
     "desc": "Former India all-rounder Irfan Pathan believes Delhi Capitals' past struggles with talent identification, citing instances like letting go of AB de Villiers and Andre Russell, contributed to their title drought. In contrast, Punjab Kings' recent progress, marked by strong leadership, strategic auction buys like Shreyas Iyer, and improved squad depth, has propelled them towards success, reaching the IPL final.",
@@ -241,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/pathan-explains-identification-of-talent-as-reason-why-dc-pbks-havent-won-ipl-yet/articleshow/129734853.cms",
     "time": "2026-03-22T15:45:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Pop a pill and carry on': The workplace silence on India's menstrual leave debate",
-    "desc": "Millions of women navigate monthly hormonal cycles impacting energy and resilience, yet modern workplaces expect consistent performance. The debate around mandatory menstrual leave in India highlights concerns about potential hiring bias versus the need for biological accommodation. Experts and individuals offer varied perspectives.",
-    "img": "https://static.toiimg.com/photo/msid-129734875,imgsize-39882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pop-a-pill-and-carry-on-the-workplace-silence-on-indias-menstrual-leave-debate/articleshow/129730849.cms",
-    "time": "2026-03-22T15:32:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -279,15 +423,6 @@ const newsData_en = [
     "time": "2026-03-22T13:42:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Can’t survive without terrorism': BJP reacts to ex-Pakistan envoy's remarks on striking India",
-    "desc": "Former Pakistani diplomat Abdul Basit's remarks suggesting Pakistan would strike Mumbai and New Delhi if its nuclear capabilities were threatened have drawn sharp criticism from the BJP. The party spokesperson stated these comments reveal Pakistan's continued reliance on terrorism and its rattled state, asserting that terrorism is ingrained in their nature.",
-    "img": "https://static.toiimg.com/photo/msid-129733493,imgsize-947237.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cant-survive-without-terrorism-bjp-reacts-to-ex-pakistan-envoys-remarks-on-striking-india/articleshow/129733465.cms",
-    "time": "2026-03-22T13:11:04.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Only 60 percent brutality shown in Dhurandhar 2,' says action director",
     "desc": "The Revenge' toned down 40% of its brutality for a wider audience, despite director Aditya Dhar encouraging extreme violence. Actors Arjun Rampal and Ranveer Singh sustained injuries during intense, often improvised, fight sequences, including a demanding chain fight.",
@@ -306,15 +441,6 @@ const newsData_en = [
     "time": "2026-03-22T12:58:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Preparations begin for hoisting flags atop 6 sub-temples in Ram Janmabhoomi complex",
-    "desc": "Preparations are underway for flag hoisting ceremonies at six sub-temples within the Ram Janmabhoomi complex, following similar events on the main spire. The Hanuman temple ceremony is scheduled for Hanuman Jayanti on April 2, while the other five will occur in phases from March 22 to March 31. These events will be small gatherings of seers, engineers, and workers.",
-    "img": "https://static.toiimg.com/photo/msid-129733252,imgsize-1223110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/preparations-begin-for-hoisting-flags-atop-6-sub-temples-in-ram-janmabhoomi-complex/articleshow/129733232.cms",
-    "time": "2026-03-22T12:42:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Rajkummar praises Aditya after watching Dhurandhar 2",
     "desc": "The Revenge', starring Ranveer Singh, calling the filmmaker a “master” who “raised the bar very high.” On Instagram, he hailed Ranveer’s “pitch-perfect performance” and lauded co-stars R. Madhavan, Sara Arjun, Sanjay Dutt, and Rakesh Bedi. He also applauded Mukesh Chhabra for “behtareen casting.”",
@@ -322,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajkummar-rao-praises-aditya-dhar-youve-raised-the-bar-very-high-after-watching-dhurandhar-2/articleshow/129733231.cms",
     "time": "2026-03-22T12:41:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'We will help fulfil Charan Singh's dream': KC Tyagi joins RLD, says JD(U) bond remains intact",
-    "desc": "Senior JD(U) leader KC Tyagi has joined the Rashtriya Lok Dal, aiming to uphold Chaudhary Charan Singh's legacy. Tyagi, whose political roots are in western Uttar Pradesh, stated his move signifies continuity, not change, emphasizing the ideological closeness between JD(U) and RLD. He clarified his departure wasn't driven by personal friction or Rajya Sabha ambitions.",
-    "img": "https://static.toiimg.com/photo/msid-129733092,imgsize-1068079.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-will-help-fulfil-charan-singhs-dream-kc-tyagi-joins-rld-says-jdu-bond-remains-intact/articleshow/129733017.cms",
-    "time": "2026-03-22T12:39:14.000Z"
   },
   {
     "cat": "Sports",
@@ -351,15 +468,6 @@ const newsData_en = [
     "time": "2026-03-22T12:23:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi reviews energy preparedness amid crisis; IDF flags Europe in Iranian missile range &amp; more",
-    "desc": "Amidst escalating Middle East tensions, PM Modi reviewed energy preparedness, focusing on uninterrupted supply of fuel and fertilizers. Iran's missile strikes and threats to oil facilities have heightened concerns. Meanwhile, foreign investors withdrew significantly from Indian equities in March due to global uncertainties and a weakening rupee.",
-    "img": "https://static.toiimg.com/photo/msid-129732874,imgsize-965684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-reviews-energy-preparedness-amid-crisis-idf-flags-europe-in-iranian-missile-range-more/articleshow/129732914.cms",
-    "time": "2026-03-22T12:23:13.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran-Israel war: A day‑by‑day rundown of the escalating crisis",
     "desc": "A joint U.S.-Israel attack on Iran and the killing of Supreme Leader Ayatollah Ali Khamenei have plunged West Asia into a fast‑spreading war, with Tehran and its allies launching retaliatory strikes across Israel, the Gulf and U.S. bases.",
@@ -367,24 +475,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
     "time": "2026-03-22T11:49:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Swift's viral photo? Here's what the truth is",
-    "desc": "A photograph of Taylor Swift conversing with actor Paul Mescal at an Oscars afterparty has ignited fan speculation. While neither has commented, the image, shared online, sparked numerous theories. Swift was also reportedly seen at a separate afterparty with Travis Kelce, amidst ongoing wedding planning for their June 2026 nuptials.",
-    "img": "https://static.toiimg.com/photo/msid-129732580,imgsize-82248.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/is-taylor-swift-partying-with-this-a-list-actor-heres-the-real-story-behind-the-viral-photo/articleshow/129732507.cms",
-    "time": "2026-03-22T11:47:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hindi-Telugu clash sparks fight",
-    "desc": "Fight erupts at Hyderabad PVR over Dhurandhar 2 screening mixing Hindi-Telugu tickets on one screen. Viral videos show chaos during Cocktail 2 promo; cops intervene. Theater plays Hindi despite Telugu bookings. Netizens meme it up. Aditya Dhar's spy sequel earned ₹500cr+; South dubs delayed to March 21.",
-    "img": "https://static.toiimg.com/photo/msid-129732576,imgsize-30274.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-chaos-in-hyderabad-hindi-telugu-clash-sparks-fight-cops-step-in/articleshow/129732576.cms",
-    "time": "2026-03-22T11:44:56.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +504,6 @@ const newsData_en = [
     "time": "2026-03-22T11:22:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Modi ji, ab jhola uthaiye aur chale jaiye': Sanjay Raut's suggestion to PM over inflation",
-    "desc": "Shiv Sena's Sanjay Raut and Congress's Rahul Gandhi have slammed the Modi government over the rupee's sharp fall against the dollar. They argue this decline reflects a loss of national prestige and signals impending inflation, accusing the government of prioritizing elections over economic stability and offering only rhetoric instead of solutions.",
-    "img": "https://static.toiimg.com/photo/msid-129732200,imgsize-801035.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/modi-ji-ab-jhola-uthaiye-aur-chale-jaiye-sanjay-rauts-suggestion-to-pm-over-inflation/articleshow/129732163.cms",
-    "time": "2026-03-22T11:09:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "LSG's big call for IPL 2026: Rishabh Pant to bat no.3, Pooran pushed down?",
     "desc": "Lucknow Super Giants captain Rishabh Pant will bat at number three this IPL season. This move is crucial for his career and India's T20 plans. Pant aims to perform well after a costly auction. The team management supports this batting position. The squad is preparing for their opening match. Bowling improvements are noted, with Mayank Yadav returning.",
@@ -430,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/lsgs-big-call-for-ipl-2026-rishabh-pant-to-bat-no-3-pooran-pushed-down/articleshow/129732066.cms",
     "time": "2026-03-22T10:55:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tabu gifts a kurta to Irrfan Khan’s son Babil Khan on Eid",
-    "desc": "On Eid, Babil shared Tabu’s heartfelt kurta gift online, honoring late Irrfan Khan’s close co-star. Their Maqbool, Haider chemistry was iconic; Tabu credits him for career transformation. Irrfan’s 2020 passing left a global void. Familial bonds endure.",
-    "img": "https://static.toiimg.com/photo/msid-129732073,imgsize-33306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tabu-gifts-a-kurta-to-irrfan-khans-son-babil-khan-on-eid-see-photo/articleshow/129732073.cms",
-    "time": "2026-03-22T10:55:19.000Z"
   },
   {
     "cat": "Sports",
@@ -457,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/market-recap-mcap-of-five-of-top-10-most-valued-firms-erodes-by-rs-1-lakh-cr-hdfc-bank-biggest-laggard/articleshow/129731420.cms",
     "time": "2026-03-22T10:09:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi to chair high-level meeting to review energy preparedness amid Middle East tensions",
-    "desc": "Prime Minister Narendra Modi will chair a high-level meeting to review India's energy preparedness amid escalating West Asian tensions. The focus will be on ensuring uninterrupted supply, stable logistics, and efficient distribution of petroleum, power, and fertilisers across the nation. This comes as the ongoing conflict impacts global energy supplies and international supply chains.",
-    "img": "https://static.toiimg.com/photo/msid-129731547,imgsize-503919.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-to-chair-high-level-meeting-to-review-energy-preparedness-amid-middle-east-tensions/articleshow/129731519.cms",
-    "time": "2026-03-22T10:08:47.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +558,6 @@ const newsData_en = [
     "time": "2026-03-22T09:38:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "RGV crowns Aditya the real Hamza",
-    "desc": "RGV calls Aditya Dhar \"real Hamza,\" crushing Indian filmmakers' old ways after meeting him and Yami Gautam— dubbing them \"power couple.\" He lauds Dhurandhar 2's realistic hero Ranveer Singh, ditching masala tropes. The March 19 pan-India hit stars Ranveer, Arjun Rampal, Sanjay Dutt.",
-    "img": "https://static.toiimg.com/photo/msid-129731095,imgsize-49044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-ram-gopal-varma-crowns-aditya-dhar-the-real-hamza-crushing-indian-cinema-amid-box-office-storm-shares-pic-with-director-and-yami-gautam/articleshow/129731095.cms",
-    "time": "2026-03-22T09:24:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Kohli reacts to viral 'chartered London flights' rumours ahead of IPL 2026",
     "desc": "Virat Kohli has debunked rumors about requesting chartered flights for travel between India and the UK during IPL 2026. The RCB icon dismissed the speculation with laughing emojis on Instagram. The IPL 2026 season begins March 28, with RCB defending their title.",
@@ -513,33 +567,6 @@ const newsData_en = [
     "time": "2026-03-22T09:15:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Fans catch cameraman reflection in fight scene",
-    "desc": "The Revenge' lauds scale but draws propaganda flak. Fans spot cameraman reflection in Ranveer Singh's Hamza vs. Pinda (drug cartel foe) clash. Viral clip sparks fake/AI debates; some cite Nolan. Film crushes Rs 300cr in 3 days.",
-    "img": "https://static.toiimg.com/photo/msid-129730765,imgsize-19856.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-fans-catch-cameraman-reflection-in-ranveer-singh-fight-scene-peak-detailing-goes-viral/articleshow/129730765.cms",
-    "time": "2026-03-22T08:44:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "About BTS’ comeback stage in Gwanghwamun",
-    "desc": "After a four-year hiatus, BTS's grand comeback concert in Gwanghwamun became a sensational event, luring in massive crowds of devoted fans. While the event implemented rigorous security protocols with thousands of guards on duty, discrepancies in attendance figures shared by the band and local authorities ignited a flurry of debates on social media.",
-    "img": "https://static.toiimg.com/photo/msid-129730690,imgsize-150248.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/bts-gwanghwamun-becomes-their-most-protected-event-discrepancy-in-attendees-number-causes-debate/articleshow/129730690.cms",
-    "time": "2026-03-22T08:40:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rio Mayor threatens to ‘ban’ Chappell Roan",
-    "desc": "Pop sensation Chappell Roan faces a ban from Rio de Janeiro's mayor after footballer Jorginho accused her security of making his 11-year-old daughter cry. The incident allegedly occurred at a hotel breakfast. Mayor Eduardo Cavaliere publicly disinvited Roan from a major concert, while inviting Jorginho's daughter, sparking a global debate on fan interactions and artist boundaries.",
-    "img": "https://static.toiimg.com/photo/msid-129730605,imgsize-68662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rio-mayor-threatens-to-ban-chappell-roan-after-her-alleged-incident-with-soccer-star-jorginhos-daughter/articleshow/129730554.cms",
-    "time": "2026-03-22T08:31:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Foreign investors pull out Rs 88,180 cr amid Middle East tensions; over Rs 1 lakh cr withdrawn so far in 2026",
     "desc": "Foreign investors have withdrawn Rs 88,180 crore from Indian equities in March, driven by rising global tensions, a weakening rupee, and high oil prices. This sharp outflow follows a strong February and highlights investor caution due to geopolitical risks and concerns over corporate earnings. Analysts anticipate continued market volatility until global uncertainties ease.",
@@ -547,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/march-fpi-outflow-foreign-investors-pull-out-rs-88180-cr-amid-middle-east-tensions-over-rs-1-lakh-cr-withdrawn-so-far-in-2026/articleshow/129730558.cms",
     "time": "2026-03-22T08:31:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Madisson’ Season 1 ending explained",
-    "desc": "The first season finale of 'The Madison' concludes with an emotional rush, showcasing Stacy's heartfelt departure to Montana after the loss of her father. Despite ongoing family tensions, there's a silver lining for fans—season two is officially on the horizon, with production in the bag.",
-    "img": "https://static.toiimg.com/photo/msid-129730518,imgsize-156952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-madisson-season-1-ending-explained-stays-unexpected-move-leads-to-grief-and-emotional-goodbyes/articleshow/129730518.cms",
-    "time": "2026-03-22T08:25:39.000Z"
   },
   {
     "cat": "Sports",
@@ -594,15 +612,6 @@ const newsData_en = [
     "time": "2026-03-22T07:22:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Can Hardik Pandya end Mumbai Indians' title drought?",
-    "desc": "Mumbai Indians aim to end their IPL title drought in 2026, relying on superstar players to unite under Hardik Pandya's leadership. Despite a star-studded squad, the team must overcome past struggles and foster harmony to rediscover their winning formula and secure the championship.",
-    "img": "https://static.toiimg.com/photo/msid-129728393,imgsize-53776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-can-hardik-pandya-end-mumbai-indians-title-drought/articleshow/129728399.cms",
-    "time": "2026-03-22T04:55:21.000Z"
-  },
-  {
     "cat": "World",
     "title": "Tucker Carlson",
     "desc": "The American conservative commentator, who says his worldview is shaped by his Christian faith, has emerged as one of the most influential critics of U.S. interventionist foreign policy, Washington’s support for Tel Aviv, and, more specifically, Israel’s war in Palestine and the ongoing U.S.-Israel attack on Iran",
@@ -610,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/tucker-carlson-voice-of-america/article70770212.ece",
     "time": "2026-03-22T04:53:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Legends, rising stars shine as TOISA celebrates sporting glory",
-    "desc": "The Times of India Sports Awards (TOISA) celebrated India's top athletes in Lucknow, honouring excellence and dedication. Uttar Pradesh Chief Minister Yogi Adityanath presented awards to sporting legends like Leander Paes and the women's World Cup-winning cricket team, recognizing their significant contributions to Indian sports.",
-    "img": "https://static.toiimg.com/photo/msid-129728296,imgsize-104742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/legends-rising-stars-shine-as-toisa-celebrates-sporting-glory/articleshow/129728247.cms",
-    "time": "2026-03-22T04:39:31.000Z"
   },
   {
     "cat": "Sports",
@@ -664,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/lebron-james-breaks-record-for-most-nba-games-played/article70771385.ece",
     "time": "2026-03-22T01:32:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Dhurandhar: The Revenge’ crosses Rs 500 cr mark in 3 days",
-    "desc": "The Revenge' has shattered box office records, crossing the ₹500 crore mark globally in just three days. The Aditya Dhar-directed film, following the journey of an undercover spy infiltrating Lyari's underworld, has garnered immense audience appreciation for its high-octane action and compelling narrative.",
-    "img": "https://static.toiimg.com/photo/msid-129727045,imgsize-86786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-3-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-starrer-crosses-rs-500-crore-mark-globally/articleshow/129727042.cms",
-    "time": "2026-03-22T00:31:50.000Z"
   },
   {
     "cat": "Sports",
@@ -882,15 +873,6 @@ const newsData_en = [
     "time": "2026-03-18T19:48:43.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Airlines told to curb extra fees for seat selection",
-    "desc": "At least 60% of seats on each flight must be available for selection without extra fees; passengers under the same PNR must be seated together; publicise passenger rights in case of flight cancellation, delay, baggage loss",
-    "img": "https://th-i.thgim.com/public/incoming/3hcj/article70756828.ece/alternates/LANDSCAPE_1200/iStock-157685333.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/govt-mandates-airlines-to-keep-at-least-60-seats-on-flights-free-of-charge/article70756785.ece",
-    "time": "2026-03-18T14:49:43.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Nvidia chief expects revenue of $1 trillion through 2027",
     "desc": "The entire tech world, from big names like OpenAI and Anthropic to young startups, feels like they could grow revenue and their AI \"if they could just get more capacity,\" Jensen Huang told the audience",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/nvidia-chief-expects-revenue-of-1-trillion-through-2027/article70752418.ece",
     "time": "2026-03-17T04:31:24.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Nvidia to focus on competition-beating AI advances at megaconference",
+    "desc": "Nvidia GTC, as the conference is known, has become CEO Huang’s preferred event to show off ⁠Nvidia’s AI advances in chips, data centres, its chip programming software CUDA, digital assistants known as AI agents, and physical AI such as robots",
+    "img": "https://th-i.thgim.com/public/incoming/3ap0zg/article70748570.ece/alternates/LANDSCAPE_1200/2026-03-13T061907Z_994719350_RC2LEGAANDCC_RTRMADP_3_BYTEDANCE-NVIDIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/nvidia-to-focus-on-competition-beating-ai-advances-at-megaconference/article70748569.ece",
+    "time": "2026-03-16T05:59:08.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
   }
 ];
