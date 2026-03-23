@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Arsenal head coach Mikel Arteta opens up after heartbreaking EFL cup final loss",
+    "desc": "The Carabao Cup final saw Manchester City take on Arsenal. The two sides locked horns at Wembley Stadium in London on March 22 in hopes of getting their hands on the prestigious title. While many...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/arsenal-head-coach-mikel-arteta-opens-up-after-heartbreaking-efl-cup-final-loss-2026-03-23-1034777",
+    "time": "2026-03-23T09:16:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where will KL Rahul bat for Delhi Capitals in IPL 2026? Captain Axar Patel reveals",
+    "desc": "The IPL (Indian Premier League) 2026 season is all set to kick off on March 28, and ahead of the season, the 10 franchises are gearing up to put in their best performances in hopes...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/where-will-kl-rahul-bat-for-delhi-capitals-in-ipl-2026-captain-axar-patel-reveals-2026-03-23-1034768",
+    "time": "2026-03-23T08:29:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026's injury crisis: Check full list of injured and unavailable players ahead of new season",
+    "desc": "Injury crisis plagues the IPL (Indian Premier League) 2026 season, with the 19th edition of the marquee tournament all set to kick off on March 28; there have been a ton of players who will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-s-injury-crisis-check-full-list-of-injured-and-unavailable-players-ahead-of-new-season-2026-03-23-1034761",
+    "time": "2026-03-23T07:31:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "IPL fan parks to be hosted across 15 cities for the first phase of the tournament",
     "desc": "With the IPL (Indian Premier League) 2026 all set to kick off on March 28, the fans will be heavily anticipating the start of the tournament, as they will be looking to see their favourite...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/csk-inducts-suresh-raina-matthew-hayden-into-first-ever-hall-of-fame-during-roar-26-event-2026-03-22-1034709",
     "time": "2026-03-22T17:52:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohsin Naqvi",
-    "desc": "The Pakistan Cricket Board chairman, Mohsin Naqvi, has vowed to take action against players who have left the Pakistan Super League for the Indian Premier League at the 11th hour. The PSL 2026 is set...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pcb-will-take-action-against-players-opting-out-of-psl-for-ipl-mohsin-naqvi-2026-03-22-1034705",
-    "time": "2026-03-22T16:35:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant set for new batting role in IPL 2026 with LSG in potentially make-or-break season",
-    "desc": "Lucknow Super Giants captain Rishabh Pant is set to bat at number three in the next IPL season, which could be a make-or-break one for the most expensive player in the league's history, news agency...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-set-for-new-batting-role-in-ipl-2026-with-lsg-in-potentially-make-or-break-season-2026-03-22-1034700",
-    "time": "2026-03-22T15:41:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Axed RCB IPL winner scores 195* off 69 balls in 20-over game in Ayodhya Premier League",
-    "desc": "Dropped from the Royal Challengers Bengaluru after their 2025 title campaign, young batter Swastik Chikara has stormed into the headlines with a jaw-dropping knock. Chikara, who did not get to play a game last year...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/axed-rcb-ipl-winner-scores-195-off-69-balls-in-20-over-game-in-ayodhya-premier-league-2026-03-22-1034699",
-    "time": "2026-03-22T14:32:10.000Z"
   }
 ];

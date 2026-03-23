@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "કઈંક મોટું થવાનું છે? PM મોદીએ કોવિડને યાદ કરી શેના માટે તૈયાર રહેવાનું કહ્યું.. ખાસ જાણો",
+    "desc": "ઈરાન અને અમેરિકા-ઈઝરાયેલ વચ્ચે ફાટી નીકળેલા યુદ્ધના પગલે મિડલ ઈસ્ટમાં મોટું સંકટ ઊભુ થયું છે જેની અસર અન્ય દેશો ઉપર પણ પડી રહી છે. પીએમ મોદીએ આ સંકટ પર આજે લોકસભામાં સંબોધન કરી અનેક મહત્વની વાતો કરી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modi-address-on-middle-east-crisis-iran-israel-usa-war-news-in-gujarati-469797 ",
+    "time": "2026-03-23T09:42:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મહિલાઓને મળશે વર્ષે 40 હજાર પેન્શન, આ પાર્ટીએ કરી મોટી જાહેરાત",
+    "desc": "સમાજવાદી પાર્ટીના વડા અખિલેશ યાદવે 2027ની વિધાનસભા ચૂંટણીની તૈયારીઓ શરૂ કરી દીધી છે. તેમણે મહિલા મતદારોને આકર્ષવા માટે એક મોટી જાહેરાત કરી છે. અખિલેશ યાદવે કહ્યું છે કે જો તેમની પાર્ટી 2027માં સરકાર બનાવશે, તો તેઓ મહિલાઓને વાર્ષિક ₹40,000 પેન્શન આપશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/akhilesh-yadav-announces-annual-pension-of-40000-for-women-469809 ",
+    "time": "2026-03-23T09:39:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 પહેલા BCCIએ ચાહકોને આપી મોટી ભેટ, આ 15 શહેરોમાં મફતમાં જોઈ શકશો લાઈવ મેચો",
+    "desc": "IPL 2026 28 માર્ચથી શરૂ થવાની છે, જેની ચાહકો આતુરતાથી રાહ જોઈ રહ્યા હતા. આ દરમિયાન ચાહકોને એક મોટી ભેટ આપતા BCCIએ ફેન પાર્કના સ્થળોની જાહેરાત કરી છે, જ્યાં તમે વિશાળ સ્ક્રીન પર લાઈવ મેચો સંપૂર્ણપણે મફતમાં જોઈ શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bcci-announced-ipl-2026-fan-parks-schedule-check-full-list-469798 ",
+    "time": "2026-03-23T08:57:19.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ઓલટાઈમ હાઈથી ખુબ પછડાયા, સોનું 46000 અને ચાંદી 2.14 લાખ રૂપિયા સસ્તી થઈ, જાણો લેટેસ્ટ રેટ",
     "desc": "સોના અને ચાંદીમાં ભારે કડાકો જોવા મળ્યો છે. રિટેલ બજાર અને વાયદા બજાર બંનેમાં સોનું અને ચાંદી ભારે સસ્તા થયા છે. જો તમે ખરીદવાનું વિચારતા હોવ તો આ શાનદાર તક કહી શકાય. જાણો ઓલટાઈમ હાઈથી કેટલા સસ્તા થયા અને આજે સોના ચાંદીના વાયદા અને રિટેલ બજારના લેટેસ્ટ રેટ શું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-plunged-sharply-today-falling-far-short-of-all-time-highs-check-latest-rates-469777 ",
-    "time": "2026-03-23T07:05:43.000Z"
+    "time": "2026-03-23T07:18:14.000Z"
   },
   {
     "cat": "World",
@@ -448,24 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/paul-stirling-resigns-as-t20-captain-ireland-t20-world-cup-2026-469298 ",
     "time": "2026-03-19T13:56:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઈરાન યુદ્ધને કારણે LPGની સ્થિતિ ચિંતાજનક, પરંતુ... ગેસ સંકટ પર સરકારનું નિવેદન; ભારતમાં શું છે વર્તમાન સ્થિતિ?",
-    "desc": "દેશમાં ચાલી રહેલા LPG સંકટને લઈને કેન્દ્ર સરકારે કહ્યું કે, પશ્ચિમ એશિયામાં ચાલી રહેલા ઈરાન યુદ્ધને કારણે સ્થિતિ ચિંતાજનક બની છે. જો કે, સરકારે આશ્વાસન આપ્યું કે, અત્યાર સુધી દેશમાં ક્યાંય પણ તેની અછત જોવા મળી નથી અને સરકાર સતત અન્ય વિકલ્પો તરફ આગળ વધી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lpg-situation-is-worrying-due-to-iran-war-but-government-statement-on-gas-crisis-what-is-the-current-situation-in-india-469279 ",
-    "time": "2026-03-19T12:06:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આ કર્મચારીઓને મોજે મોજ! 50% DA બાદ પગારમાં વધુ 25%નો વધારો, જાણો કેટલો વધશે પગાર",
-    "desc": "ભારતીય રેલવેના લાખો કર્મચારીઓ માટે ચૈત્ર નવરાત્રિ ખુશીઓની ભેટ લઈને આવી છે. કેન્દ્ર સરકાર દ્વારા મોંઘવારી ભથ્થા (DA)માં 50%નો વધારો લાગુ કર્યા પછી રેલવે મંત્રાલયે હવે તેમના કિલોમીટર ભથ્થા (KMA)માં પણ 25%નો વધારો કરવા માટે સૈદ્ધાંતિક મંજૂરી આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/railway-news-25-percent-increase-in-kilometer-allowance-for-running-staff-469271 ",
-    "time": "2026-03-19T11:47:20.000Z"
   },
   {
     "cat": "Sports",

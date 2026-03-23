@@ -1,5 +1,275 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "'Vaibhav Sooryavanshi is not professional': RCB star’s stunning remark goes viral",
+    "desc": "Rajasthan Royals' young sensation Vaibhav Sooryavanshi, set to turn 15, is poised for IPL 2026 after a record-breaking debut. His meteoric rise includes international centuries and a match-winning U-19 World Cup performance. While lauded for his talent, questions linger about his professional approach off the field, sparking debate among cricket veterans.",
+    "img": "https://static.toiimg.com/photo/msid-129748300,imgsize-179800.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/vaibhav-sooryavanshi-is-not-professional-rcb-stars-stunning-remark-goes-viral/articleshow/129748323.cms",
+    "time": "2026-03-23T09:46:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lokesh Kanagaraj film shoot props mistaken for AK-47 rifles",
+    "desc": "Chennai police mistook film props for real AK-47 rifles during a vehicle check. The weapons were for a Lokesh Kanagaraj film shoot. The discovery caused brief panic but was quickly resolved. This incident has fueled speculation about a promo for Allu Arjun's upcoming film, AA23. Fans anticipate an action-packed release.",
+    "img": "https://static.toiimg.com/photo/msid-129747899,imgsize-137486.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/lokesh-kanagaraj-film-shoot-props-mistaken-for-ak-47-rifles-in-chennai-is-promo-loading-for-the-allu-arjun-starrer/articleshow/129747899.cms",
+    "time": "2026-03-23T09:20:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi’s per capita income to grow at 7.09%: Economic Survey of Delhi 2025-26",
+    "desc": "“Government of NCT of Delhi is budgeted to have a Fiscal Deficit of ₹13,703 Crore in BE 2025-26, which is mainly on the account of increase of more than double (145%) in capital expenditure over 2024-25,” the report said",
+    "img": "https://th-i.thgim.com/public/incoming/y2n48y/article70774826.ece/alternates/LANDSCAPE_1200/20260323016L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-economic-survey-2025-2026-budget-session/article70774774.ece",
+    "time": "2026-03-23T09:20:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "For breaking Kohli's record, Pakistan batter named ICC Player of the Month",
+    "desc": "Pakistan's Sahibzada Farhan has been crowned ICC Men's Player of the Month for February 2026 after smashing Virat Kohli's T20 World Cup record with 383 runs. India's Arundhati Reddy also earned the Women's Player of the Month award for her stellar bowling performance in Australia. Both players expressed immense pride in their achievements.",
+    "img": "https://static.toiimg.com/photo/msid-129747968,imgsize-71186.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/for-breaking-virat-kohlis-record-pakistan-batter-named-icc-player-of-the-month/articleshow/129747789.cms",
+    "time": "2026-03-23T09:20:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India’s gem, jewellery sector aims to increase domestic sales by up to 15% in 2026 to offset war impact on exports",
+    "desc": "Gem and Jewellery Export Promotion Council and the industry are doing everything possible to increase domestic consumption and sales by at least 10 to 15% during 2026 in order to offset the possible impacts of the war in West Asia on exports",
+    "img": "https://th-i.thgim.com/public/incoming/jizsup/article70772801.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-22%20at%2018.50.18.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/indias-gem-jewellery-sector-aims-to-increase-domestic-sales-by-up-to-15-in-2026-to-offset-war-impact-on-exports/article70772448.ece",
+    "time": "2026-03-23T09:19:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jitesh smokes 81 off 37; Virat strikes at 241 in RCB warm-up",
+    "desc": "Defending champions Royal Challengers Bengaluru held their first warm-up game for IPL 2026, with Virat Kohli showing good form. Jitesh Sharma starred with a blistering 81, while Rajat Patidar sealed the win for Team Krunal. RCB begin their title defence against Sunrisers Hyderabad on March 28, facing player unavailability.",
+    "img": "https://static.toiimg.com/photo/msid-129747809,imgsize-35108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-jitesh-sharma-smokes-81-off-37-virat-kohli-strikes-at-241-in-rcb-warm-up/articleshow/129747606.cms",
+    "time": "2026-03-23T09:12:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Situation worrisome': PM Modi clears India's stand on Iran war, flags impact of Hormuz disruption",
+    "desc": "Prime Minister Narendra Modi addressed the Lok Sabha on the West Asian crisis, highlighting its negative impact on the global economy and India. He assured that the government is providing full support to the nearly one crore Indians living and working in the Gulf region, with missions in constant contact and advisories being issued.",
+    "img": "https://static.toiimg.com/photo/msid-129747303,imgsize-1056139.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/situation-worrisome-pm-modi-clears-indias-stand-on-iran-war-flags-impact-of-hormuz-disruption/articleshow/129747334.cms",
+    "time": "2026-03-23T09:05:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee nears 94-mark vs USD: Middle East tensions drag currency to new low, what's next?",
+    "desc": "Middle East tensions are significantly impacting global financial markets, pushing the Indian Rupee to record lows near 94 against the US dollar. Analysts believe crude oil prices and geopolitical developments, particularly concerning the Strait of Hormuz, will dictate the currency's next move. The Reserve Bank of India is expected to intervene to manage volatility.",
+    "img": "https://static.toiimg.com/photo/msid-129747600,imgsize-1874796.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-nears-94-mark-vs-usd-middle-east-tensions-drag-currency-to-new-low-whats-next/articleshow/129744087.cms",
+    "time": "2026-03-23T09:03:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar's Uzair calls Ranveer 'one of the finest actors'",
+    "desc": "The Revenge', couldn't help but sing praises for his co-star, calling him one of the greatest actors of this era. Reflecting on Singh's unforgettable performances as Hamza and Jaskirat, Pandor emphasized that they were unparalleled in their depth. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129747432,imgsize-80698.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-star-danish-pandor-calls-ranveer-singh-one-of-the-finest-actors-of-this-generation/articleshow/129747432.cms",
+    "time": "2026-03-23T08:55:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "AR Rahman shares epic Dhoni meet-up video",
+    "desc": "AR Rahman shared a fun video call with MS Dhoni at CSK's ‘ROAR 2026’ pre-IPL fan fest in Chennai. Smiling together amid fireworks, captioned “Thala meets Thala.” Fans raved; ex-players joined. Rahman next composes for Mani Ratnam's ‘Production 23’ with Vijay Sethupathi, Sai Pallavi.",
+    "img": "https://static.toiimg.com/photo/msid-129747486,imgsize-51748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/thala-meets-thala-ar-rahman-shares-epic-ms-dhoni-meet-up-video-from-csks-pre-ipl-bash/articleshow/129747486.cms",
+    "time": "2026-03-23T08:54:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'No update' on Starc, DC's Axar says 'no temptation to replace' the pacer",
+    "desc": "Delhi Capitals are awaiting Cricket Australia's clearance for pace spearhead Mitchell Starc's participation in IPL 2026. While coach Hemang Badani confirmed no official update, captain Axar Patel and Director of Cricket Venugopal Rao expressed optimism about his eventual arrival. Starc, 36, is expected to miss initial matches due to workload management.",
+    "img": "https://static.toiimg.com/photo/msid-129747423,imgsize-136688.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-no-update-on-starc-dcs-axar-says-no-temptation-to-replace-the-pacer/articleshow/129747264.cms",
+    "time": "2026-03-23T08:46:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Gautam Gambhir does not need to be rude, rough': Ganguly",
+    "desc": "Sourav Ganguly lauded Gautam Gambhir's coaching success, highlighting his T20 World Cup and Champions Trophy wins. While acknowledging Gambhir's aggressive style, Ganguly believes he doesn't need to be rude, calling him a \"good man\" and a competitor. Ganguly expressed confidence in Gambhir improving his Test coaching, especially on good wickets, and expects him to master away tours.",
+    "img": "https://static.toiimg.com/photo/msid-129747321,imgsize-58810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/gautam-gambhir-does-not-need-to-be-rude-rough-because-he-is-a-good-man-sourav-ganguly/articleshow/129747224.cms",
+    "time": "2026-03-23T08:45:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tyriq Withers talks about his social media presence",
+    "desc": "Actor Tyriq Withers, known for his roles in 'Tell Me Lies' and 'Atlanta', addressed his 'chronically online' reputation at the NAACP Image Awards. He revealed his extensive social media use is primarily for research and engaging with fans.",
+    "img": "https://static.toiimg.com/photo/msid-129747225,imgsize-69328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tyriq-withers-addresses-the-chronically-online-label-god-forbid-i-do-research-god-forbid/articleshow/129747225.cms",
+    "time": "2026-03-23T08:41:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "First trailer reveals the villains",
+    "desc": "Get ready for an adventure of galactic proportions as Din Djarin and Grogu make their grand entrance in 'The Mandalorian and Grogu,' coming to theaters on May 22, 2026. This film propels their journey from mere bounty hunters to guardians of the galaxy, fending off iconic adversaries like Grand Admiral Thrawn and the haunting echoes of Moff Gideon’s reign.",
+    "img": "https://static.toiimg.com/photo/msid-129747173,imgsize-127072.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-mandalorian-and-grogu-trailer-reveals-major-villains-what-we-know-about-the-star-wars-film/articleshow/129747131.cms",
+    "time": "2026-03-23T08:38:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alan Ritchson allegedly assaulted one of his neighbours",
+    "desc": "Actor Alan Ritchson, known for his action-packed role in 'Reacher,' is at the center of controversy after an altercation with Tennessee neighbor Ronnie Taylor. Reports indicate that the clash ignited when Ritchson's motorcycle allegedly sped through the area, prompting Taylor’s outrage. A video capturing the chaotic moment has gone viral, showing Ritchson engaging in a physical confrontation.",
+    "img": "https://static.toiimg.com/photo/msid-129746539,imgsize-78804.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/reacher-star-alan-ritchson-under-fire-after-alleged-video-of-him-punching-someone-goes-viral-report/articleshow/129746539.cms",
+    "time": "2026-03-23T08:37:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Coco Chanel",
+    "desc": "Coco Chanel, the trailblazing French fashion designer, changed the course of women's style by merging comfort with elegance. Starting from a background of limited means, she carved her niche by founding the esteemed Chanel brand, renowned for pioneering pieces such as the classic little black dress and the sophisticated Chanel suit.",
+    "img": "https://static.toiimg.com/photo/msid-129747084,imgsize-91228.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-coco-chanel-in-order-to-be-irreplaceable-one-must-always-be-different/articleshow/129747084.cms",
+    "time": "2026-03-23T08:35:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What's the outlook for Nifty for March 23-27 week? Check list of top stock recommendations",
+    "desc": "Coal India, and JB Chemicals and Pharmaceuticals stocks that Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities recommends buying for the week starting March 23, 2026. There is also a detailed analysis on Nifty and Bank Nifty:",
+    "img": "https://static.toiimg.com/photo/msid-129746464,imgsize-77164.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stocks-to-buy-this-week-march-23-to-march-27-stock-recommendations-coal-india-jb-chemicals-and-pharmaceuticals/articleshow/129746430.cms",
+    "time": "2026-03-23T07:56:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Bitcoin falls below $70,000 mark, Middle East conflict drags down cryptocurrencies",
+    "desc": "The Middle East conflict is impacting global markets, causing a sell-off in cryptocurrencies and pushing Bitcoin below $70,000. Rapid liquidations and macroeconomic pressures like elevated oil prices are weighing on digital assets. Analysts suggest a cautious consolidation phase, with short-term volatility expected to persist due to geopolitical events and reduced US rate cut expectations.",
+    "img": "https://static.toiimg.com/photo/msid-129746411,imgsize-88042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/bitcoin-falls-below-70000-mark-middle-east-conflict-drags-down-cryptocurrencies/articleshow/129746229.cms",
+    "time": "2026-03-23T07:55:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Orry, Bhumi, and Khushi stun in black beauty vibes",
+    "desc": "Orry, Bhumi Pednekar, and Khushi Kapoor lit up an all-black bash—pics inside! Orry's Insta shares spotlight Bhumi and Samiksha's chic looks, Khushi's cut-out vibe, and fun with pals. He teased Ananya in a hilarious reel. Khushi stars in 'Nadaaniyan' and upcoming 'Mom 2'.",
+    "img": "https://static.toiimg.com/photo/msid-129746349,imgsize-34748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/orry-bhumi-pednekar-and-khushi-kapoor-stun-in-black-beauty-vibes-at-epic-bash-pics-inside/articleshow/129746349.cms",
+    "time": "2026-03-23T07:53:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Gracia ke papa': Sakshi Dhoni's shout for Suresh Raina lights up CSK event",
+    "desc": "Suresh Raina, affectionately known as 'Mr. IPL', was inducted into the Chennai Super Kings Hall of Fame, celebrating his significant contributions to the franchise's four title wins. Fans cheered as he received the honour, with MS Dhoni's wife adding a personal touch by calling him 'Gracia ke papa'. Raina's remarkable IPL career includes 5,528 runs in 205 matches.",
+    "img": "https://static.toiimg.com/photo/msid-129746263,imgsize-42832.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/gracia-ke-papa-sakshi-dhonis-shout-for-suresh-raina-lights-up-csk-event-watch/articleshow/129746218.cms",
+    "time": "2026-03-23T07:44:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Film eyes Rs 700 cr global gross",
+    "desc": "The Revenge,' which officially crossed the Rs. 691 crore mark in worldwide gross collections on its first Monday. As of Day 5 live tracking on March 23, 2026, the Ranveer Singh-starrer has maintained a rock-solid weekday hold. Despite a massive 229-minute runtime and an 'A' certificate, the film featuring Singh as the elite agent Jaskirat Singh Rangi alias Hamza has outperformed the opening trajectories of blockbusters like 'RRR' and 'KGF: Chapter 2.' The high-octane thriller is currently eyeing the Rs. 700 crore global milestone.",
+    "img": "https://static.toiimg.com/photo/msid-129744544,imgsize-220916.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-5-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-starrer-spy-thriller-eyes-rs-700-crore-global-gross/articleshow/129744544.cms",
+    "time": "2026-03-23T07:38:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why ‘Vishwaguru’ not advancing BRICS summit for diplomatic initiative on West Asia crisis: Congress",
+    "desc": "Congress general secretary in charge of communications, Jairam Ramesh, pointed out that the 18th annual BRICS+ Summit will take place in New Delhi under India's Presidency later this year, with Brazil, Russia, India, China, South Africa, Argentina, Egypt, Ethiopia, Saudi Arabia, Iran, and the UAE as members.",
+    "img": "https://th-i.thgim.com/public/incoming/1ouklh/article70774626.ece/alternates/LANDSCAPE_1200/20260226617L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-vishwaguru-not-advancing-brics-summit-for-diplomatic-initiative-on-west-asia-crisis-congress/article70774542.ece",
+    "time": "2026-03-23T07:37:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sarah Michelle Gellar says no to these two '90s trends",
+    "desc": "Iconic '90s star Sarah Michelle Gellar is embracing the decade's fashion revival, even saving her Calvin Klein slip dresses. However, she's firmly against the return of ultra-thin eyebrows and chokers, humorously stating they make necks disappear. Gellar also shared disappointment over a scrapped 'Buffy the Vampire Slayer' reboot.",
+    "img": "https://static.toiimg.com/photo/msid-129746077,imgsize-96412.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sarah-michelle-gellar-wants-90s-fashion-back-but-says-no-to-these-two-trends/articleshow/129746077.cms",
+    "time": "2026-03-23T07:35:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "154 YouTube videos, 703 Insta reels linked to Badshah's song ‘Tateeree’ removed: Haryana Police",
+    "desc": "The DGP also emphasised that the Haryana government is fully committed to creating a safe and responsible digital environment, and continuous effective measures are being taken jointly by the police and the administration in this regard.",
+    "img": "https://th-i.thgim.com/public/incoming/s262c6/article70774675.ece/alternates/LANDSCAPE_1200/HAciTp5acAE1ZWM.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/154-youtube-videos-703-insta-reels-linked-to-badshahs-song-tateeree-removed-haryana-police/article70774641.ece",
+    "time": "2026-03-23T07:25:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How much 18K, 22K and 24K gold costs in your city? Check prices in Delhi, Mumbai, Chennai &amp; more",
+    "desc": "Gold futures experienced a significant sell-off, dropping by Rs 8,089 to Rs 1.36 lakh per 10 grams on Monday, mirroring global trends. This decline, attributed to inflation fears and a stronger US dollar, marks the fourth consecutive week of losses for the yellow metal. Analysts anticipate continued downward pressure amid geopolitical tensions and potential interest rate hikes.",
+    "img": "https://static.toiimg.com/photo/msid-129745745,imgsize-237662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-on-march-23-2026-how-much-18k-22k-and-24k-gold-costs-in-your-city-check-prices-in-delhi-mumbai-jaipur-kanpur-bangalore-kolkata/articleshow/129745389.cms",
+    "time": "2026-03-23T07:15:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mikayla Matthews takes a stand for estranged husband, Jace Terry",
+    "desc": "Reality star Mikayla Matthews defended her estranged husband, Jace Terry, against online criticism following their separation announcement. Matthews expressed her displeasure with negative comments, particularly those stemming from a podcast episode where Jace was labeled 'weenie of the week.' The couple had mutually agreed to separate, citing pressures from 'MomTok drama' and personal struggles.",
+    "img": "https://static.toiimg.com/photo/msid-129745663,imgsize-258886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/mikayla-matthews-says-she-hates-this-takes-a-stand-for-estranged-husband-jace-terry-after-online-backlash/articleshow/129745663.cms",
+    "time": "2026-03-23T07:14:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Muzychuk replaces Humpy in Candidates after safety concerns",
+    "desc": "Anna Muzychuk will play in the Cyprus Candidates Tournament. Indian Grandmaster Koneru Humpy withdrew citing safety concerns. The tournament will decide challengers for world championship titles. Humpy's withdrawal is a setback for India. Other Indians participating include R Praggnanandhaa, R Vaishali, and Divya Deshmukh. FIDE confirmed Muzychuk's inclusion.",
+    "img": "https://static.toiimg.com/photo/msid-129745647,imgsize-55824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/anna-muzychuk-replaces-koneru-humpy-in-candidates-after-safety-concerns/articleshow/129745627.cms",
+    "time": "2026-03-23T07:11:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alex Warren talks about the moment that made him feel his career was over",
+    "desc": "Musician Alex Warren revealed a career-defining moment at the 2016 Grammys where technical issues during his performance of ‘Ordinary’ led him to believe his music career was over. Despite meticulous rehearsals, a malfunction in his in-ear monitors caused him to falter on stage, a setback he feared would end his industry prospects.",
+    "img": "https://static.toiimg.com/photo/msid-129745552,imgsize-81944.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/alex-warren-talks-about-2016-grammy-malfunctions-we-rehearsed-it-all-week/articleshow/129745552.cms",
+    "time": "2026-03-23T07:09:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Alert issued against Nipah in Kerala from April to September",
+    "desc": "Previous outbreaks and spillover cases suggest that the virus is found to have been active in the State in the the six-month period starting in April; health officials lay focus on Kozhikode, Malappuram, Palakkad, and Thrissur districts",
+    "img": "https://th-i.thgim.com/public/incoming/jlfv2b/article70772596.ece/alternates/LANDSCAPE_1200/IMG_Nipah_2_1_EFCKRB37.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/alert-issued-against-nipah-in-kerala-from-april-to-september/article70772258.ece",
+    "time": "2026-03-23T07:06:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Organisational changes are being made to reach every part of India, says Sunil Ambekar of RSS",
+    "desc": "“The core idea has always been that this is a Hindu nation, where Hindutva is understood as a way of life. This way of life is not opposed to anyone, nor is it meant to eliminate or harm others,” says Sunil Ambekar",
+    "img": "https://th-i.thgim.com/public/incoming/c6jphs/article70773222.ece/alternates/LANDSCAPE_1200/Sunil%20Ambekar%20RSS%201.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/organisational-changes-are-being-made-to-reach-every-part-of-india-says-sunil-ambekar-of-rss/article70772451.ece",
+    "time": "2026-03-23T07:00:42.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Riddhima hails daughter as greatest blessing, shares throwback pic",
     "desc": "Jewellery designer Riddhima Kapoor Sahni hailed daughter Samara as her \"greatest blessing\" on her 15th birthday, sharing throwback photos—including first steps with uncle Ranbir Kapoor—and a heartfelt note. Days earlier, a video of toddler Samara on stage surfaced. Daughter of Rishi and Neetu Kapoor, she debuted on OTT in 'The Fabulous Lives of Bollywood Wives'.",
@@ -36,13 +306,13 @@ const newsData_en = [
     "time": "2026-03-23T06:48:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why ‘Vishwaguru’ not advancing BRICS summit for diplomatic initiative on West Asia crisis: Congress",
-    "desc": "Congress general secretary in charge of communications, Jairam Ramesh, pointed out that the 18th annual BRICS+ Summit will take place in New Delhi under India's Presidency later this year, with Brazil, Russia, India, China, South Africa, Argentina, Egypt, Ethiopia, Saudi Arabia, Iran, and the UAE as members.",
-    "img": "https://th-i.thgim.com/public/incoming/1ouklh/article70774626.ece/alternates/LANDSCAPE_1200/20260226617L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/why-vishwaguru-not-advancing-brics-summit-for-diplomatic-initiative-on-west-asia-crisis-congress/article70774542.ece",
-    "time": "2026-03-23T06:44:31.000Z"
+    "cat": "Sports",
+    "title": "Sanju Samson's respect-first approach for CSK legend ends with a stunning twist",
+    "desc": "Sanju Samson transitions to Chennai Super Kings for IPL 2026. He recently played a key role in India's T20 World Cup 2026 victory. Samson shared a memorable moment with MS Dhoni and Muttiah Muralitharan during a CSK event. India won their third T20 World Cup title. CSK begins their IPL 2026 season against Rajasthan Royals.",
+    "img": "https://static.toiimg.com/photo/msid-129745005,imgsize-28844.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/sanju-samsons-respect-first-approach-for-csk-legend-ends-with-a-stunning-twist-watch/articleshow/129744838.cms",
+    "time": "2026-03-23T06:41:01.000Z"
   },
   {
     "cat": "Politics",
@@ -162,24 +432,6 @@ const newsData_en = [
     "time": "2026-03-23T05:05:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Khloe Kardashian says divorce helped her lead a healthy lifestyle",
-    "desc": "In a candid moment on her podcast, the 41-year-old Khloe Kardashian opened up about her battle with binge eating triggered by emotional upheaval. She recalled how her divorce from Lamar Odom, 46, was a wake-up call, prompting her to transform her lifestyle through healthier eating and consistent workouts.",
-    "img": "https://static.toiimg.com/photo/msid-129743372,imgsize-70434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/khloe-kardashian-shares-how-her-divorce-became-a-catalyst-for-her-in-leading-a-healthy-lifestyle/articleshow/129743372.cms",
-    "time": "2026-03-23T05:04:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Carrie Anne Fleming passes away at 51",
-    "desc": "In a tragic turn of events, the film industry bids farewell to Carrie Anne Fleming, a talented Canadian actress renowned for her chilling roles in 'Masters of Horror' and the cult favorite 'Supernatural'. At the age of 51, Fleming succumbed to breast cancer on February 26, as confirmed by her friend and fellow actor Jim Beaver.",
-    "img": "https://static.toiimg.com/photo/msid-129743312,imgsize-77738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/izombie-and-supernatural-star-carrie-anne-fleming-passes-away-at-age-51/articleshow/129743312.cms",
-    "time": "2026-03-23T05:01:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "When Sachin said no but Dada said, ‘Let’s go’",
     "desc": "BCCI vice-president Rajeev Shukla revealed that Sourav Ganguly's iconic T-shirt twirl at Lord's in 2002 was initially intended as a team celebration. However, Sachin Tendulkar advised against it, deeming it inappropriate. Ganguly proceeded alone, creating a memorable cricketing moment after India's NatWest Trophy win.",
@@ -216,33 +468,6 @@ const newsData_en = [
     "time": "2026-03-23T04:22:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' actor Gursewak recalls accident with Ranveer",
-    "desc": "The Revenge' filming. While shooting an action sequence, both he and co-star Ranveer Singh were injured. Singh's immediate concern for Gursewak, despite his own injury, and his reassuring words highlighted his remarkable humanity and professionalism, earning him praise.",
-    "img": "https://static.toiimg.com/photo/msid-129742516,imgsize-89984.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-dhurandhar-2-the-revenge-co-star-gursewak-singh-recalls-on-set-accident-praises-actors-compassion-he-never-let-me-feel-like-i-made-a-mistake/articleshow/129742483.cms",
-    "time": "2026-03-23T04:20:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar: The Revenge': Veteran actress Jaya praises the film",
-    "desc": "The Revenge', urging audiences to watch it. She praised the team's hard work and the film's unique storytelling, expressing pride in its success. The movie, a sequel to a record-breaking hit, continues the espionage thriller with Ranveer Singh in the lead.",
-    "img": "https://static.toiimg.com/photo/msid-129742815,imgsize-42382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-the-revenge-veteran-actress-jaya-prada-praises-aditya-dhar-and-ranveer-singhs-film-says-im-very-proud-of-this-film/articleshow/129742832.cms",
-    "time": "2026-03-23T04:17:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Steven Conrad on Jason Bateman's role in ‘DTF St. Louis’",
-    "desc": "In a surprising twist, showrunner Steven Conrad disclosed that Jason Bateman took over the role of Clark in 'DTF St. Louis' after the project underwent a narrative recalibration that initially earmarked the part for Pedro Pascal.",
-    "img": "https://static.toiimg.com/photo/msid-129742567,imgsize-159038.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/steven-conrad-explains-how-jason-bateman-replaced-pedro-pascal-in-dtf-st-louis-it-all-made-sense/articleshow/129742567.cms",
-    "time": "2026-03-23T04:16:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Currency tumbles to 93.8 against US dollar amid Middle East tensions",
     "desc": "The Indian Rupee hit a record low against the US dollar, plummeting to 93.86 amid escalating Middle East tensions and fears of disrupted energy supplies. Crude oil prices have surged over 50% this month, exacerbating the currency's weakness. Indian stock markets also experienced a significant downturn, reflecting the global economic strain.",
@@ -259,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-23-2026-dalal-street-indian-equities-global-markets-us-iran-war-middle-east-conflict-donald-trump-oil-prices/articleshow/129742276.cms",
     "time": "2026-03-23T03:49:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arielle Kebbel talks about filming ‘John Tucker Must Die’",
-    "desc": "Reflecting on her time in Vancouver, actress Arielle Kebbel shared playful memories of shooting 'John Tucker Must Die' and 'She's the Man' simultaneously. The overlapping casts brought a spirited, camp-like vibe to their shared hotel, leading to spontaneous set-hopping and joyful group adventures. These moments fostered a remarkable connection that transcended the films themselves.",
-    "img": "https://static.toiimg.com/photo/msid-129742431,imgsize-46464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/arielle-kebbel-recalls-sharing-the-hotel-with-shes-the-man-cast-during-shoot-we-literally-moved-in-a-herd/articleshow/129742431.cms",
-    "time": "2026-03-23T03:48:52.000Z"
   },
   {
     "cat": "World",
@@ -297,33 +513,6 @@ const newsData_en = [
     "time": "2026-03-23T03:37:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Taylor Frankie, Paul’s'The Bachelorette' premiere scrapped",
-    "desc": "Taylor Frankie Paul's 'The Bachelorette' premiere was abruptly cancelled by ABC due to a resurfaced video of the star in a past altercation. The network replaced the highly anticipated dating show with an 'American Idol' rerun, prioritizing brand safety. While a new dating series, 'Love Overboard,' still aired later, the 'Bachelorette' season remains shelved indefinitely.",
-    "img": "https://static.toiimg.com/photo/msid-129742158,imgsize-706466.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/taylor-frankie-pauls-the-bachelorette-premiere-was-scrapped-at-the-last-minute-amid-controversy/articleshow/129742160.cms",
-    "time": "2026-03-23T03:26:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Pretty Lethal’ director Vicky Jewson says Uma Thurman is an ‘icon’",
-    "desc": "Director Vicky Jewson lauded Uma Thurman as an 'icon' and one of the best villains she's worked with for their new film, 'Pretty Lethal'. Thurman, known for her iconic roles, brings a unique blend of humor and empathy to her character in the revenge-driven action flick, a project that resonated with her despite her general aversion to violence.",
-    "img": "https://static.toiimg.com/photo/msid-129742119,imgsize-11894.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/pretty-lethal-director-vicky-jewson-says-uma-thurman-is-an-icon-discusses-her-villainous-role-in-latest-film/articleshow/129742119.cms",
-    "time": "2026-03-23T03:23:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Fans compare 'Dhurandhar 2' MISTAKE to 'Dark Knight'",
-    "desc": "The Revenge' is a box office hit, but a brief cameraman appearance in a mirror reflection has sparked online debate. Fans are defending the film, drawing parallels to similar 'errors' in Christopher Nolan's 'The Dark Knight'. Director Aditya Dhar expressed gratitude for the overwhelming support and even the memes.",
-    "img": "https://static.toiimg.com/photo/msid-129741862,imgsize-233154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditya-dhars-dhurandhar-2-the-revenge-starring-ranveer-singh-had-the-same-mistake-as-christopher-nolans-dark-knight/articleshow/129741850.cms",
-    "time": "2026-03-23T03:18:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I was just a batter': All-rounder Hardik Pandya hails MI scouting system",
     "desc": "Hardik Pandya revealed his journey from a dedicated batter to a top white-ball all-rounder, crediting Mumbai Indians' sharp scouting and his own relentless hard work. He emphasised the importance of adapting and body management for aspiring cricketers. Pandya expressed his ambition to lead MI to a record sixth IPL title, inspiring the next generation with his fearless approach.",
@@ -331,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/i-was-just-a-batter-all-rounder-hardik-pandya-hails-mi-scouting-system/articleshow/129741939.cms",
     "time": "2026-03-23T03:07:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Balanced on paper, but rust, injuries and pressure loom large",
-    "desc": "Defending champions RCB boast a balanced squad on paper, with a potent top order and experienced bowling attack. However, potential rustiness from key players returning from breaks and the pressure of defending their title pose significant challenges. Strategic utilisation of their young domestic talent and all-rounders could be crucial for success.",
-    "img": "https://static.toiimg.com/photo/msid-129741741,imgsize-45134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rcb-swot-balanced-on-paper-but-rust-injuries-and-pressure-loom-large/articleshow/129741733.cms",
-    "time": "2026-03-23T02:50:10.000Z"
   },
   {
     "cat": "Sports",
@@ -369,15 +549,6 @@ const newsData_en = [
     "time": "2026-03-23T02:36:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Lisa Kudrow on 90s nostalgia, Phoebe’s future revealed",
-    "desc": "Lisa Kudrow, reflecting on 90s nostalgia, cautions against romanticizing the era that launched her career. While appreciating younger audiences discovering 'Friends,' she emphasizes the unreliability of historical interpretations. Kudrow also shared her vision for Phoebe's future and discussed the enduring bond with her 'Friends' castmates.",
-    "img": "https://static.toiimg.com/photo/msid-129741564,imgsize-500243.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/lisa-kudrow-on-90s-nostalgia-warns-against-rewriting-history-and-shares-phoebes-imagined-future/articleshow/129741568.cms",
-    "time": "2026-03-23T02:29:44.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Mamata begins campaign with workers’ meet",
     "desc": "In the 2026 Assembly polls, the contest has become interesting because BJP leader Suvendu Adhikari is contesting against the Chief Minister. The Assembly has seen about 47,000 electors deleted during SIR and fate of 14,000 others hanging under judicial adjudication",
@@ -385,24 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/west-bengal-assembly/battle-for-bhabanipur-mamata-begins-campaign-with-workers-meet/article70773008.ece",
     "time": "2026-03-23T02:21:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Justin Timberlake’s 2024 arrest video goes viral",
-    "desc": "In a shocking turn of events, footage from pop sensation Justin Timberlake's DWI arrest has taken social media by storm. The latest bodycam videos capture the singer sharing light-hearted banter with police, humorously referencing his celebrity lifestyle while feeling the weight of his situation.",
-    "img": "https://static.toiimg.com/photo/msid-129741440,imgsize-271322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/justin-timberlakes-2024-arrest-video-goes-viral-as-he-mentions-his-race-calling-the-police-officers-wild/articleshow/129741440.cms",
-    "time": "2026-03-23T02:16:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Drop these players': Gavaskar fumes at IPL no-shows, slams ‘taking for granted’ culture",
-    "desc": "Sunil Gavaskar has criticized overseas players for missing early IPL 2026 matches, citing a pattern of taking franchise hospitality for granted. He urged franchises to adopt stricter policies, warning that late unavailability disrupts team planning and hinders title aspirations. This stance reflects growing concerns within the cricketing fraternity regarding player commitment.",
-    "img": "https://static.toiimg.com/photo/msid-129735397,imgsize-1264096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/drop-these-players-gavaskar-fumes-at-ipl-no-shows-slams-taking-for-granted-culture/articleshow/129735359.cms",
-    "time": "2026-03-23T02:00:00.000Z"
   },
   {
     "cat": "Politics",
@@ -423,24 +576,6 @@ const newsData_en = [
     "time": "2026-03-23T01:43:36.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Hardik Pandya told to step aside, ‘let Suryakumar Yadav lead’ at Mumbai Indians",
-    "desc": "Mumbai Indians, despite a star-studded lineup, face a captaincy dilemma ahead of IPL 2026. Former selector Kris Srikkanth suggests Suryakumar Yadav, fresh from leading India to T20 World Cup glory, could take over from Hardik Pandya to revitalize the team's fortunes. Srikkanth highlighted the unusual situation of multiple World Cup-winning captains playing under Pandya.",
-    "img": "https://static.toiimg.com/photo/msid-129734320,imgsize-170188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/hardik-pandya-told-to-step-aside-let-suryakumar-yadav-lead-at-mumbai-indians/articleshow/129734319.cms",
-    "time": "2026-03-23T01:00:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Dhurandhar: The Revenge’ inches close to Rs 700 crore in 4 days",
-    "desc": "The Revenge' has stormed the box office, raking in Rs 500 crore domestically and Rs 690 crore worldwide. Directed by Aditya Dhar, this spy thriller, a sequel to 'Dhurandhar,' captivated audiences with its gripping narrative and action. The film's impressive opening weekend and subsequent strong performance are setting new benchmarks for Bollywood.",
-    "img": "https://static.toiimg.com/photo/msid-129740865,imgsize-44042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-4-ranveer-singh-rakesh-bedi-starrer-inches-close-to-rs-700-crore-globally/articleshow/129740865.cms",
-    "time": "2026-03-23T00:43:19.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "EPFO reaches out to subscribers with unclaimed balance",
     "desc": "EPFO is developing an auto-settlement facility to disburse unclaimed money from inoperative accounts directly to subscribers. This initiative will initially target Aadhaar-verified accounts with balances of Rs 1,000 or less, aiming to clear idle funds and simplify the withdrawal process for members.",
@@ -448,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/epfo-reaches-out-to-subscribers-with-unclaimed-balance/articleshow/129740656.cms",
     "time": "2026-03-22T23:35:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma had ‘six-hitting skills from the start’, teammate reveals untold story",
-    "desc": "Abhishek Sharma faced early struggles in the T20 World Cup but bounced back to help India win. His friend Nehal Wadhera shared insights into Abhishek's talent and hard work. Wadhera also discussed his own IPL journey, learning from coaches like Ricky Ponting and playing under captains Rohit Sharma and Shreyas Iyer. Punjab Kings aims for the title in IPL 2026.",
-    "img": "https://static.toiimg.com/photo/msid-129733356,imgsize-266742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/abhishek-sharma-had-six-hitting-skills-from-the-start-teammate-reveals-untold-story/articleshow/129733182.cms",
-    "time": "2026-03-22T23:30:00.000Z"
   },
   {
     "cat": "Politics",
@@ -531,15 +657,6 @@ const newsData_en = [
     "time": "2026-03-22T20:29:06.000Z"
   },
   {
-    "cat": "Business",
-    "title": "'India-EU trade pact to better tech access'",
-    "desc": "The India-EU free trade agreement is anticipated to boost technology access and localization efforts for Skoda Auto Volkswagen India, according to MD and CEO Piyush Arora. The pact is expected to enhance product development in India for local and export markets, with easier component access supporting future localization.",
-    "img": "https://static.toiimg.com/photo/msid-129738519,imgsize-1012732.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-eu-trade-pact-to-better-tech-access/articleshow/129738517.cms",
-    "time": "2026-03-22T20:00:59.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "If America strikes us, we should attack Indian cities like Delhi and Mumbai: Ex-Pak envoy",
     "desc": "Former Pakistani envoy Abdul Basit stated that striking Indian cities like New Delhi and Mumbai would be Islamabad's \"default move\" if Pakistan were attacked by the US. He asserted that Pakistan's nuclear deterrence is India-specific, not aimed at the US, and that any aggression would be met with retaliation against India.",
@@ -576,15 +693,6 @@ const newsData_en = [
     "time": "2026-03-22T18:34:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Welfare of handloom artisans priority for government, says Minister",
-    "desc": "Savitha says government is implementing several schemes to strengthen the handloom sector; subsidies on raw materials, net funds, and training in modern designs being provided and up to 90% subsidy is being offered on purchase of equipment to enhance productivity",
-    "img": "https://th-i.thgim.com/public/incoming/wxnzjn/article70773322.ece/alternates/LANDSCAPE_1200/DSC_2317.JPG.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/welfare-of-handloom-artisans-priority-for-government-says-minister/article70773072.ece",
-    "time": "2026-03-22T18:02:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What insurance numbers do not reveal",
     "desc": "Insurance penetration and density are widely used measures, but they show premium collection, not how well households are protected against loss of income; as a result, premium growth is often mistaken for progress, even when financial protection remains limited",
@@ -592,24 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/what-insurance-numbers-do-not-reveal/article70772195.ece",
     "time": "2026-03-22T17:42:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Koneru Humpy withdraws from Women’s Candidates, cites safety concerns",
-    "desc": "Top Indian Grandmaster Koneru Humpy has withdrawn from the FIDE Women's Candidates Tournament, prioritizing her personal safety and well-being. Citing security concerns despite assurances, Humpy's decision opens a spot for Anna Muzychuk. While India retains representation with R Vaishali and Divya Deshmukh, Humpy's withdrawal raises questions about potential FIDE penalties and impacts Indian chess.",
-    "img": "https://static.toiimg.com/photo/msid-129736389,imgsize-262000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-withdraws-from-womens-candidates-cites-safety-concerns/articleshow/129736372.cms",
-    "time": "2026-03-22T17:34:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK induct Suresh Raina, Matthew Hayden into first-ever Hall of Fame",
-    "desc": "Chennai Super Kings inducted Suresh Raina and Matthew Hayden into their inaugural Hall of Fame at the \"Roar’26\" fan event. Raina, 'Chinna Thala', was instrumental in four title wins and remains CSK's leading run-scorer. Hayden contributed to the 2010 IPL victory and was the first CSK player to win the Orange Cap.",
-    "img": "https://static.toiimg.com/photo/msid-129736069,imgsize-264668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-csk-induct-suresh-raina-matthew-hayden-into-first-ever-hall-of-fame/articleshow/129736053.cms",
-    "time": "2026-03-22T17:10:16.000Z"
   },
   {
     "cat": "World",
@@ -639,15 +729,6 @@ const newsData_en = [
     "time": "2026-03-22T11:49:42.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Another PSL exit, Shanaka set to replace Sam Curran in RR for IPL 2026",
-    "desc": "Sri Lanka captain Dasun Shanaka is reportedly set to join the Rajasthan Royals for IPL 2026 as a replacement for the injured Sam Curran. This move follows a trend of players switching from the PSL to the IPL, highlighting the latter's prominence. Shanaka, who went unsold in the mini-auction, previously played for Gujarat Titans.",
-    "img": "https://static.toiimg.com/photo/msid-129732487,imgsize-15744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/another-psl-exit-dasun-shanaka-set-to-replace-sam-curran-in-rajasthan-royals-for-ipl-2026/articleshow/129732481.cms",
-    "time": "2026-03-22T11:37:50.000Z"
-  },
-  {
     "cat": "World",
     "title": "UNESCO",
     "desc": "A report by UNESCO’s Global Education Monitoring (GEM) team noted alarming trends related to TikTok’s algorithm, which targets teenagers with body image content every 39 seconds and promotes content related to eating disorders every eight minutes",
@@ -655,24 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/over-half-of-countries-have-banned-phones-in-schools-unesco/article70771882.ece",
     "time": "2026-03-22T11:23:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Why don’t you just die': India star reveals shocking death threats and abuse",
-    "desc": "Spinner Varun Chakravarthy revealed the severe online abuse he endured after testing positive for COVID-19 during the 2021 IPL, which led to the tournament's suspension. Fans directed hateful messages, including death wishes, towards him. Despite this traumatic experience, Chakravarthy has since become a key player for KKR and performed well in the recent T20 World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-129731225,imgsize-163084.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/why-dont-you-just-die-india-star-varun-chakravarthy-reveals-shocking-death-threats-and-abuse/articleshow/129731240.cms",
-    "time": "2026-03-22T09:51:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kohli reacts to viral 'chartered London flights' rumours ahead of IPL 2026",
-    "desc": "Virat Kohli has debunked rumors about requesting chartered flights for travel between India and the UK during IPL 2026. The RCB icon dismissed the speculation with laughing emojis on Instagram. The IPL 2026 season begins March 28, with RCB defending their title.",
-    "img": "https://static.toiimg.com/photo/msid-129731034,imgsize-709626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-reacts-to-viral-chartered-london-flights-rumour-ahead-of-ipl-2026/articleshow/129731010.cms",
-    "time": "2026-03-22T09:15:10.000Z"
   },
   {
     "cat": "Sports",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/life-and-style/travel/inside-disney-cruise-lines-largest-ship-on-its-asia-debut/article70761351.ece",
     "time": "2026-03-20T04:51:20.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Teenagers sue Musk’s xAI claiming image-generator made sexually explicit images of them as minors",
-    "desc": "Other AI companies have prohibited their image-generators from producing any sexually explicit content, even of adults. Mr. Musk saw this as a business opportunity and promoted the ability of xAI's Grok chatbot to create “spicy” content, the lawsuit claims.",
-    "img": "https://th-i.thgim.com/public/incoming/vfdspx/article70764256.ece/alternates/LANDSCAPE_1200/2026-03-18T142725Z_1699232240_RC2PVCAIIX5G_RTRMADP_3_XAI-GROK-EU.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/teenagers-sue-musks-xai-claiming-image-generator-made-sexually-explicit-images-of-them-as-minors/article70764255.ece",
-    "time": "2026-03-20T04:45:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Lloyds List",
-    "desc": "The maritime data company has reported that nine ships have exited through Iran’s corridor in Strait of Hormuz; reliable sources in India, meanwhile, said that with the situation in West Asia escalating further, Indian ships stuck in the strait for more than two weeks have been asked to ‘stay put’ for now after Israeli strikes on Iran’s largest gas fields",
-    "img": "https://th-i.thgim.com/public/incoming/rhr91x/article70763062.ece/alternates/LANDSCAPE_1200/Emirates_Iran_War_43469.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/iran-creating-corridor-for-safe-exit-of-india-bound-ships-lloyds-list/article70762901.ece",
-    "time": "2026-03-19T20:50:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Asian Games cruise ship and wooden huts will be 'unique experience'",
-    "desc": "About half of the expected 15,000 athletes and officials will live in the eye-catching temporary accommodation during the Games, which are in Nagoya and the wider Aichi area from September 19 to October 4 — coinciding with typhoon season in Japan",
-    "img": "https://th-i.thgim.com/public/incoming/swo54m/article70763067.ece/alternates/LANDSCAPE_1200/AFP_A3UY3WE.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/asian-games-cruise-ship-and-wooden-huts-will-be-unique-experience/article70763064.ece",
-    "time": "2026-03-19T17:48:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Def Leppard’s India debut: Joe Elliot on the band’s glam-rock legacy and finally pouring some sugar on India",
-    "desc": "Nearly 50 years after a missed bus in Sheffield sparked it all, the Def Leppard frontman talks about spending three years perfecting ‘Hysteria’, the last-minute gamble that turned ‘Pour Some Sugar On Me’ into a stadium staple, and finally bringing those songs to an India that’s waited decades to hear them live",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/c4xemh/article70761267.ece/alternates/LANDSCAPE_1200/DSC09822.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/def-leppards-india-2026-joe-elliot-interview/article70761242.ece",
-    "time": "2026-03-19T10:59:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Filmmaker Michal Kwiecinski presents lively new Frederic  Chopin biopic",
-    "desc": "As the poet of the piano comes to town in a new avatar, Polish filmmaker Michal Kwiecinski discusses Chopin, A Sonata in Paris, the well-crafted biopic that is livelier and less sanctimonious than older portrayals of the master",
-    "img": "https://th-i.thgim.com/public/incoming/jgpck5/article70756889.ece/alternates/LANDSCAPE_1200/IFFK-2025_-The-GVQF9VBIA.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/filmmaker-michal-kwiecinski-presents-lively-new-frederic-chopin-biopic/article70756901.ece",
-    "time": "2026-03-19T07:34:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Chennai’s Pickleball boom: From midnight games to thriving WhatsApp communities",
-    "desc": "As new pickleball courts open across Injambakkam, T Nagar and Gandhi Nagar, the sport is doing more than just filling evening slots — it is creating WhatsApp communities, business networks and unlikely friendships across the city",
-    "img": "https://th-i.thgim.com/public/incoming/psg6w/article70614742.ece/alternates/LANDSCAPE_1200/BVR_7095.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/picklers-unite/article70609768.ece",
-    "time": "2026-03-19T06:45:54.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
   }
 ];
