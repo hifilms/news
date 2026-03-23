@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ઓલટાઈમ હાઈથી ખુબ પછડાયા, સોનું 46000 અને ચાંદી 2.14 લાખ રૂપિયા સસ્તી થઈ, જાણો લેટેસ્ટ રેટ",
+    "desc": "સોના અને ચાંદીમાં ભારે કડાકો જોવા મળ્યો છે. રિટેલ બજાર અને વાયદા બજાર બંનેમાં સોનું અને ચાંદી ભારે સસ્તા થયા છે. જો તમે ખરીદવાનું વિચારતા હોવ તો આ શાનદાર તક કહી શકાય. જાણો ઓલટાઈમ હાઈથી કેટલા સસ્તા થયા અને આજે સોના ચાંદીના વાયદા અને રિટેલ બજારના લેટેસ્ટ રેટ શું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-plunged-sharply-today-falling-far-short-of-all-time-highs-check-latest-rates-469777 ",
+    "time": "2026-03-23T07:05:43.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાન સાથે યુદ્ધ વચ્ચે ન્યૂયોર્ક એરપોર્ટ પર મોટી દુર્ઘટના, લેન્ડિંગ કરતું પ્લેન ટ્રક સાથે અથડાયું, Video વાયરલ",
+    "desc": "ન્યૂયોર્ક એરપોર્ટ પર એક અજીબ ઘટના ઘટી. સામાન્ય રીતે આવું જોવા મળે નહીં. કારણ કે જ્યારે એર કેનેડાનું વિમાન લેન્ડિંગ કરતું હતું ત્યારે તે ફાયર ટ્રક સાથે અથડાયું. ફાયર ટ્રકનું ત્યાં હોવું અને એ જ વખતે વિમાનનું ઉતરણ કરવું એ શક્ય કઈ રીતે બની શકે? તપાસ અધિકારીઓ હાલ તે અંગે તપાસ કરી રહ્યા છે. ઘટનાના અનેક વીડિયો પણ સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/air-canada-plane-collided-with-firetruck-at-new-york-laguardia-airport-watch-viral-video-469768 ",
+    "time": "2026-03-23T06:46:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સંન્યાસ છોડી મમતા કુલકર્ણી બની મોડર્ન, ગોવામાં મિત્રો સાથે ચીલ કરતી હોવાના Video વાયરલ",
+    "desc": "મહાકુંભ વખતે કિન્નર અખાડામાં મહા મંડલેશ્વર બની વિવાદ સર્જી દેનાર અભિનેત્રી મમતા કુલકર્ણીએ દાવો કર્યો હતો કે તેણે 25 વર્ષ તપસ્યા કરી છે અને સંન્યાસી જીવન જીવી સિદ્ધિઓ હાંસલ કરી છે. આવા દાવા કરનાર અભિનેત્રી ગોવામાં મિત્રો સાથે ચીલ કરતી જોવા મળી છે. મમતા કુલકર્ણીએ એવી પલટી મારી છે કે લોકો તેને ટ્રોલ કરવા લાગ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/mamta-kulkarni-goa-video-mamta-kulkarni-modern-look-viral-enjoying-vacation-in-goa-469767 ",
+    "time": "2026-03-23T06:15:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ઓક્શનમાં ના પૂછ્યો કોઈએ ભાવ, હવે ચમક્યું કિસ્મત, આ ઘાતક બોલરની અચાનક KKRમાં એન્ટ્રી",
+    "desc": "IPL 2026 પહેલા KKR ટીમમાં એક ફાસ્ટ બોલરની અચાનક એન્ટ્રી થઈ છે. આ બોલર ઈજાગ્રસ્ત આકાશ દીપનું સ્થાન લેવા માટે તૈયાર છે. આ મેગા ઈવેન્ટ પહેલા યોજાયેલ મિની ઓક્શનમાં કોઈએ આ ખેલાડીને ખરીદવામાં રસ દાખવ્યો નહોતો. ત્યારે હવે અચાનક તેનું કિસ્મત ચમક્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-saurabh-dubey-as-replacement-for-akash-deep-for-kkr-469765 ",
+    "time": "2026-03-23T05:41:56.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "14.2 Kg સિલિન્ડરમાં મળશે માત્ર 10 કિલો ગેસ? LPG સંકટને કારણે થઈ રહ્યો છે વિચાર",
     "desc": "ઓયલ માર્કેટિંગ કંપનીઓને આશંકા છે કે અચાનક ઘટાડાથી ગ્રાહકોમાં ભ્રમ ફેલાઈ શકે છે અને વિરોધ કે રાજકીય દબાવ પણ વધી શકે છે. તેમ છતાં અધિકારીઓનું માનવું છે કે આગામી કેટલાક સપ્તાહમાં સપ્લાયની સ્થિતિ વધુ ખરાબ થઈ શકે છે, જેથી મજબૂરીમાં આ નિર્ણય લેવો પડી શકે છે.",
@@ -342,15 +378,6 @@ const newsData_gu = [
     "time": "2026-03-20T10:35:10.000Z"
   },
   {
-    "cat": "Business",
-    "title": "દેશમાં લાગુ થયું નવું ટેક્સ માળખું; HRA થી લઈને બાળકોના શિક્ષણ સુધી, જાણો શું-શું બદલાશે?",
-    "desc": "ભારતીય કરદાતાઓ માટે આજે એક ઐતિહાસિક દિવસ છે. કેન્દ્ર સરકારે Income-tax Rules, 2026 સત્તાવાર રીતે જાહેર (Notify) કર્યા છે. 1 એપ્રિલ 2026 થી અમલમાં આવનારા 'નવા આવકવેરા અધિનિયમ, 2025' ને લાગુ કરવા તરફનું આ સૌથી મોટું પગલું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/income-tax-rules-2026-new-tax-regime-implemented-in-the-country-from-hra-to-childrens-education-469378 ",
-    "time": "2026-03-20T10:06:17.000Z"
-  },
-  {
     "cat": "World",
     "title": "રાતોરાત દુનિયામાંથી 1/3 હિલિયમ ગાયબ :  ભારત સહિત 12 દેશોમાં ફફડાટ, જાણો હવે કઈ વસ્તુઓના વધશે ભાવ કે બંધ થશે",
     "desc": "ઈરાને કતરના રાસ લાફાન હિલિયમ પ્લાન્ટ પર હુમલો કરતાં આખી દુનિયા ફફડી ગઈ છે. ટેક અને મેડિકલ ઈન્ડસ્ટ્રીઝ લાઈફ સપોર્ટ પર આવી ગઈ છે. સેમસંગ, TSMC, SK Hynix જેવી ચીપ ફેક્ટરીઓ અને MRI મશીનો હવે સંકટમાં આવી ગઈ છે. ઈરાનના આ હુમલાથી દક્ષિણ કોરિયા, તાઈવાન, જાપાન, ભારત અને અમેરિકા સહિત 12 દેશો ફફડાટ છે. હવે જાણી લો કઈ પ્રોડક્ટસના વધી જશે ભાવ...",
@@ -394,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/middle-east-gulf-countries-and-arab-countries-know-what-is-the-difference-469347 ",
     "time": "2026-03-20T05:42:55.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાન સામે એકજૂથ થઈ દુનિયા, હોર્મુઝને સુરક્ષા પૂરી પાડવા માટે આ દેશોએ કાઢ્યો મોટો તોડ",
-    "desc": "દુનિયાભરમાં ક્રૂડ ઓઈલ અને ગેસની સપ્લાય ચેન ખોરવાય નહીં અને દેશોને ઉર્જા સંકટમાંથી ઉગારવા માટે હવે અનેક દેશો આગળ આવ્યા છે. મિડલ ઈસ્ટમાં વધતા તણાવ વચ્ચે યુરોપ અને જાપાન કઈક મોટું કરવા જઈ રહ્યા હોય તેવા સંકેત મળી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/eu-japan-big-move-about-security-to-strait-of-hormuz-iran-israel-us-war-world-news-in-gujarati-469328 ",
-    "time": "2026-03-20T03:18:21.000Z"
   },
   {
     "cat": "Sports",
@@ -457,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/hockey-world-cup-2026-schedule-announced-ind-vs-pak-match-on-19th-august-469266 ",
     "time": "2026-03-19T11:01:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મિડલ ઈસ્ટમાં ચાલતા યુદ્ધ પર ભારત સરકારના વલણને કોંગ્રેસના જ 2 ધૂરંધર નેતાઓનો ટેકો",
-    "desc": "મિડલ ઈસ્ટમાં જે પરિસ્થિતિ હાલ જોવા મળી રહી છે અને ભારત જે પ્રકારે ચૂપ્પી સાધી રહ્યું છે તેની વિપક્ષી દળો દ્વારા આકરી ટીકા થઈ રહી છે. હવે કોંગ્રેસના જ બે નેતાઓએ ભારત સરકારની આ ચૂપ્પી પર મોટું નિવેદન આપ્યું છે અને તેને ટેકો આપ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/two-congress-leaders-support-indian-government-stance-on-the-ongoing-war-in-the-middle-east-469265 ",
-    "time": "2026-03-19T10:32:47.000Z"
   },
   {
     "cat": "Tech",
@@ -529,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/yamaha-tricity-300-this-world-first-airbag-scooter-292cc-engine-check-mileage-469100 ",
     "time": "2026-03-18T11:11:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "થઈ ગયો ખુલાસો... સૂર્યાને કેપ્ટન બનાવવામાં ગંભીર નહીં, આ 4 લોકોનો છે હાથ, નામ જાણીને ચોંકી જશો!",
-    "desc": "સૂર્યકુમાર યાદવને કેપ્ટન બનાવવામાં કોણે મહત્વનો ભાગ ભજવ્યો ? તમે વિચારી રહ્યા હશો કે ગૌતમ ગંભીરે તેને કેપ્ટન બનાવવામાં મદદ કરી હતી, પરંતુ હકીકતમાં સૂર્યાના નામનો ઉલ્લેખ ગંભીરે નહીં પણ આ ચાર લોકોએ કર્યો હતો. ત્યારે આ 4 લોકો કોણ છે અને હાર્દિકના બદલે સૂર્યાને કેમ કેપ્ટન બનાવાયો, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/suryakumar-yadav-reveals-4-people-decided-make-him-captain-469079 ",
-    "time": "2026-03-18T08:40:13.000Z"
   },
   {
     "cat": "Entertainment",

@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Riddhima hails daughter as greatest blessing, shares throwback pic",
+    "desc": "Jewellery designer Riddhima Kapoor Sahni hailed daughter Samara as her \"greatest blessing\" on her 15th birthday, sharing throwback photos—including first steps with uncle Ranbir Kapoor—and a heartfelt note. Days earlier, a video of toddler Samara on stage surfaced. Daughter of Rishi and Neetu Kapoor, she debuted on OTT in 'The Fabulous Lives of Bollywood Wives'.",
+    "img": "https://static.toiimg.com/photo/msid-129745252,imgsize-52774.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/riddhima-kapoor-hails-daughter-samara-as-greatest-blessing-shares-a-major-throwback-photo-on-her-15th-birthday/articleshow/129745252.cms",
+    "time": "2026-03-23T06:52:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chappell Roan security controversy explained",
+    "desc": "Pop star Chappell Roan faces backlash after a footballer alleged her security guard yelled at his 11-year-old stepdaughter in a São Paulo hotel. The child reportedly only looked at Roan during breakfast. Roan denied involvement, stating the guard wasn't hers and apologized for the incident, which led to the girl missing Roan's concert.",
+    "img": "https://static.toiimg.com/photo/msid-129745191,imgsize-120330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/chappell-roan-security-controversy-explained-what-happened-what-followed-and-where-things-stand-now/articleshow/129745166.cms",
+    "time": "2026-03-23T06:51:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Khelega hi nahi': Ashwin's blunt verdict on Arjun Tendulkar at LSG",
+    "desc": "Former India cricketer Ravichandran Ashwin believes Arjun Tendulkar will face significant challenges securing a spot in the Lucknow Super Giants' playing XI due to the team's formidable pace attack. Ashwin also expressed doubt about LSG's playoff chances this season, predicting they will miss the top six.",
+    "img": "https://static.toiimg.com/photo/msid-129745194,imgsize-40542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/khelega-hi-nahi-ashwins-blunt-verdict-on-arjun-tendulkar-at-lsg/articleshow/129742177.cms",
+    "time": "2026-03-23T06:50:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunny shares heartwarming pic with mother",
+    "desc": "Sunny Deol shared an emotional moment with his mother on social media, posting a picture with the caption \"MAA\" that garnered widespread affection. The heartwarming gesture reminded fans of the Deol brothers' childhood stories and their deep respect for their parents, as previously shared on The Great Indian Kapil Show.",
+    "img": "https://static.toiimg.com/photo/msid-129745155,imgsize-63872.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-shares-heartwarming-pic-with-mother-bobby-deol-reacts-with-love/articleshow/129745150.cms",
+    "time": "2026-03-23T06:48:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why ‘Vishwaguru’ not advancing BRICS summit for diplomatic initiative on West Asia crisis: Congress",
+    "desc": "Congress general secretary in charge of communications, Jairam Ramesh, pointed out that the 18th annual BRICS+ Summit will take place in New Delhi under India's Presidency later this year, with Brazil, Russia, India, China, South Africa, Argentina, Egypt, Ethiopia, Saudi Arabia, Iran, and the UAE as members.",
+    "img": "https://th-i.thgim.com/public/incoming/1ouklh/article70774626.ece/alternates/LANDSCAPE_1200/20260226617L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-vishwaguru-not-advancing-brics-summit-for-diplomatic-initiative-on-west-asia-crisis-congress/article70774542.ece",
+    "time": "2026-03-23T06:44:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: residents of Tiruttani constituency seek more support to improve their livelihood",
+    "desc": "Farmers, who recently set up a producer organisation and started growing millets, complain that they still do not have machinery needed to process the crop. Residents say work to lay a second access road to Subramaniaswami Temple is yet to be completed, with land acquisition still under way",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/ozh3hh/article70773206.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-22%20at%209.11.58%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-residents-of-tiruttani-constituency-seek-more-support-to-improve-their-livelihood/article70773036.ece",
+    "time": "2026-03-23T06:28:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'BTS: The Return': All you need to know about the documentary",
+    "desc": "BTS returns with their first album post-military service, 'ARIRANG,' exploring their renewed bond and creative journey. The documentary highlights their swift return to the studio in Los Angeles, the challenges of finding their evolving sound, and the deep connection to Korean heritage that inspired the album.",
+    "img": "https://static.toiimg.com/photo/msid-129744583,imgsize-177232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/bts-the-return-everything-you-need-to-know-about-documentary-on-k-pop-superstars-comeback/articleshow/129744178.cms",
+    "time": "2026-03-23T06:18:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lewis Capaldi comforts Jude Law’s daughter after a fan clash",
+    "desc": "A distressing encounter between Jude Law’s daughter Ada and a security guard linked to Chappell Roan in São Paulo sparked online backlash after the young fan was reportedly left in tears. The situation drew further attention when footballer Jorginho publicly criticised the guard’s behavior.",
+    "img": "https://static.toiimg.com/photo/msid-129744520,imgsize-554352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lewis-capaldi-comforts-jude-laws-daughter-after-a-tense-fan-encounter-turning-tears-into-a-moment-of-kindness/articleshow/129744530.cms",
+    "time": "2026-03-23T06:15:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP will draw a blank this time too, says Pinarayi Vijayan",
+    "desc": "The Kerala Chief Minister doesn’t see defections from the Left helping either the BJP or the Congress, which, according to him, is the BJP’s ‘B team’; for the State to be in step with the modern era, the Left should continue to be in govt, he argues",
+    "img": "https://th-i.thgim.com/public/latest-news/akbcli/article70773382.ece/alternates/LANDSCAPE_1200/PinarayiVijayan.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2026-pinarayi-vijayan-interview/article70772737.ece",
+    "time": "2026-03-23T06:15:25.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Why is the assassination of Congo’s first PM Patrice Lumumba being talked about now?",
+    "desc": "For more than six decades after the assassination of Patrice Lumumba, there was silence. He was shot. His body was dismembered and dissolved in sulphuric acid. No one was held accountable. Now, that silence may finally be breaking. The attention is now on 93 year old Belgian diplomat Étienne Davignon who will stand trial",
+    "img": "https://th-i.thgim.com/public/incoming/8corp6/article70774556.ece/alternates/LANDSCAPE_1200/CONGO%20THUMB.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-why-is-the-assassination-of-congos-first-pm-patrice-lumumba-being-talked-about-now/article70774560.ece",
+    "time": "2026-03-23T06:05:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Markets trade in red amid Middle East standoff; Kospi down 6%, Nikkei sheds 1,800 points",
+    "desc": "Asian markets experienced a significant sell-off, with South Korea's Kospi plunging 6%, as fears of a deepening energy crisis gripped investors. Geopolitical tensions, particularly concerning the Strait of Hormuz and potential US-Iran conflict, fueled the market panic. Investors fled technology and consumption sectors, while energy-linked stocks saw inflows amid concerns over global supply chains and rising oil prices.",
+    "img": "https://static.toiimg.com/photo/msid-129744285,imgsize-2743385.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-march-23-2026-markets-trade-in-red-amid-middle-east-standoff-kospi-down-6-nikkei-sheds-1800-points/articleshow/129743842.cms",
+    "time": "2026-03-23T06:03:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Yellow metal registers worst weekly fall in 40 years, what should investors do?",
+    "desc": "Gold prices have plummeted to their steepest weekly fall in nearly four decades, dropping significantly from recent highs. Despite Middle East tensions, the precious metal's safe-haven appeal has waned, with broader financial factors now dominating. Analysts suggest current lower prices could offer opportunities for long-term investors, though short-term volatility persists.",
+    "img": "https://static.toiimg.com/photo/msid-129743827,imgsize-149784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/gold-prices-crash-march-23-2026-yellow-metal-registers-worst-weekly-fall-in-40-years-what-should-investors-do/articleshow/129743153.cms",
+    "time": "2026-03-23T05:39:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Frankie Paul’s turbulent love life",
+    "desc": "Taylor Frankie Paul's public love life, marked by a 'soft-swinging' marriage, a turbulent romance with Dakota Mortensen leading to an arrest, and the birth of three children, took a dramatic turn. Her planned 'Bachelorette' season was cancelled amid renewed scrutiny of her past, leaving her story open-ended.",
+    "img": "https://static.toiimg.com/photo/msid-129743918,imgsize-843047.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/taylor-frankie-pauls-turbulent-love-life-from-marriage-and-scandal-to-a-scrapped-bachelorette-chapter/articleshow/129743882.cms",
+    "time": "2026-03-23T05:38:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pinarayi Vijayan interview: Congress is BJP’s ‘B-team’; Left defections won’t matter",
+    "desc": "The Chief Minister of Kerala opens up about the general mood ahead of the elections and the LDF’s bid for a historic third term. From outlining “Vision 2031” for modernizing the state’s education and IT sectors to heavily criticizing the Central Government for financially strangulating Kerala and denying disaster relief, the CM holds nothing back.",
+    "img": "https://th-i.thgim.com/public/incoming/w25ofx/article70774503.ece/alternates/LANDSCAPE_1200/vijayan.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-pinarayi-vijayan-interview-congress-is-bjps-b-team-left-defections-wont-matter/article70774507.ece",
+    "time": "2026-03-23T05:35:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhoni to play for CSK till 60! His 'I can try' reply sends fans into frenzy",
+    "desc": "Fans eagerly await MS Dhoni's IPL future, with many hoping he continues beyond 2026. When questioned about retirement, the former CSK captain offered a subtle hint, stating, \"It is very difficult. It is on the way down, not on the way up. But I will try,\" sparking thunderous applause from the excited crowd.",
+    "img": "https://static.toiimg.com/photo/msid-129743598,imgsize-39382.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/dhoni-to-play-for-csk-till-60-his-i-can-try-reply-sends-fans-into-frenzy-watch/articleshow/129743533.cms",
+    "time": "2026-03-23T05:19:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mob attacks Kuki Zo Council chairman's residence in Churachandpur, blank fire reported",
+    "desc": "Tension flared in Churachandpur as a mob attempted to storm the residence of Kuki Zo Council chairman H Thanglet. Protesters, alleging militants were present, first pelted stones and tried to force entry, prompting tear gas deployment. Later, armed individuals fired blank shots to deter a renewed attempt to breach the property, while separate tyre-burning protests were also dispersed.",
+    "img": "https://static.toiimg.com/photo/msid-129743571,imgsize-35042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/manipur-mob-attacks-kuki-zo-council-chairmans-residence-in-churachandpur-blank-fire-reported/articleshow/129743556.cms",
+    "time": "2026-03-23T05:14:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jessica Biel is unhappy with Justin Timberlake’s video",
+    "desc": "Jessica Biel is said to be distressed over the leaked footage of Justin Timberlake's DUI arrest, a situation that's been weighing heavily on her. Nevertheless, she remains a steadfast partner, prioritizing their family's well-being and supporting his career. The shocking video, made public on March 20, captures Timberlake's encounter with law enforcement in Sag Harbor.",
+    "img": "https://static.toiimg.com/photo/msid-129743396,imgsize-144000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/wife-jessica-biel-is-not-happy-with-justin-timberlakes-dui-video-says-shes-focused-on-moving-forward-report/articleshow/129743396.cms",
+    "time": "2026-03-23T05:05:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What made Kuldeep Yadav emotional? Spinner's candid revelation at TOISA 2025",
+    "desc": "Kuldeep Yadav reflects on India's consecutive T20 World Cup triumphs, calling it an incredible feeling. He highlights his father's encouragement as his career's biggest moment and was moved by Sanju Samson's crucial World Cup knock. Yadav is focused on taking wickets for Delhi Capitals in the IPL and gradually preparing for the ODI World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-129743424,imgsize-8910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-made-kuldeep-yadav-emotional-spinners-candid-revelation-at-toisa-2025/articleshow/129743331.cms",
+    "time": "2026-03-23T05:05:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Khloe Kardashian says divorce helped her lead a healthy lifestyle",
+    "desc": "In a candid moment on her podcast, the 41-year-old Khloe Kardashian opened up about her battle with binge eating triggered by emotional upheaval. She recalled how her divorce from Lamar Odom, 46, was a wake-up call, prompting her to transform her lifestyle through healthier eating and consistent workouts.",
+    "img": "https://static.toiimg.com/photo/msid-129743372,imgsize-70434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/khloe-kardashian-shares-how-her-divorce-became-a-catalyst-for-her-in-leading-a-healthy-lifestyle/articleshow/129743372.cms",
+    "time": "2026-03-23T05:04:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Carrie Anne Fleming passes away at 51",
+    "desc": "In a tragic turn of events, the film industry bids farewell to Carrie Anne Fleming, a talented Canadian actress renowned for her chilling roles in 'Masters of Horror' and the cult favorite 'Supernatural'. At the age of 51, Fleming succumbed to breast cancer on February 26, as confirmed by her friend and fellow actor Jim Beaver.",
+    "img": "https://static.toiimg.com/photo/msid-129743312,imgsize-77738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/izombie-and-supernatural-star-carrie-anne-fleming-passes-away-at-age-51/articleshow/129743312.cms",
+    "time": "2026-03-23T05:01:03.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "When Sachin said no but Dada said, ‘Let’s go’",
     "desc": "BCCI vice-president Rajeev Shukla revealed that Sourav Ganguly's iconic T-shirt twirl at Lord's in 2002 was initially intended as a team celebration. However, Sachin Tendulkar advised against it, deeming it inappropriate. Ganguly proceeded alone, creating a memorable cricketing moment after India's NatWest Trophy win.",
@@ -73,8 +253,8 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Why is stock market down today? Rs 5 lakh crore wiped out! BSE Sensex crashes over 1,500 points",
-    "desc": "Nifty50 and BSE Sensex plunged in opening trade on Monday with oil prices continuing to remain hugh amid the ongoing US-Iran war. Investor sentiment continues to weaken amid escalating tensions between Iran and the US, a falling rupee, and other global concerns.",
+    "title": "Why is stock market down today? Rs 11 lakh crore wiped out! BSE Sensex crashes over 1,800 points",
+    "desc": "Nifty50 and BSE Sensex plunged in opening trade on Monday with oil prices continuing to remain high amid the ongoing US-Iran war. Investor sentiment continues to weaken amid escalating tensions between Iran and the US, a falling rupee, and other global concerns.",
     "img": "https://static.toiimg.com/photo/msid-129742335,imgsize-93070.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-23-2026-dalal-street-indian-equities-global-markets-us-iran-war-middle-east-conflict-donald-trump-oil-prices/articleshow/129742276.cms",
@@ -102,7 +282,7 @@ const newsData_en = [
     "cat": "Politics",
     "title": "TVK goes solo in Puducherry elections, fields candidates in all constituencies",
     "desc": "TVK has announced its candidates for all 30 Puducherry Assembly constituencies, contesting independently. The party has fielded two women candidates and included experienced leaders from other political parties, including former AIADMK and BJP members, to contest the upcoming elections.",
-    "img": "https://static.toiimg.com/photo/msid-129742528,imgsize-45392.cms",
+    "img": "https://static.toiimg.com/photo/msid-129742348,imgsize-45392.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/tvk-goes-solo-in-puducherry-polls-names-candidates-for-30-seats/articleshow/129742348.cms",
     "time": "2026-03-23T03:39:35.000Z"
@@ -115,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-icons-reunite-at-chepauk-as-sanju-samson-eyes-six-hitting-spree-in-ipl/articleshow/129742270.cms",
     "time": "2026-03-23T03:37:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Khelega hi nahi': Ashwin's blunt verdict on Arjun Tendulkar at LSG",
-    "desc": "Former India cricketer Ravichandran Ashwin believes Arjun Tendulkar will face significant challenges securing a spot in the Lucknow Super Giants' playing XI due to the team's formidable pace attack. Ashwin also expressed doubt about LSG's playoff chances this season, predicting they will miss the top six.",
-    "img": "https://static.toiimg.com/photo/msid-129743224,imgsize-57814.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/khelega-hi-nahi-ashwins-blunt-verdict-on-arjun-tendulkar-at-lsg/articleshow/129742177.cms",
-    "time": "2026-03-23T03:29:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -225,15 +396,6 @@ const newsData_en = [
     "time": "2026-03-23T02:16:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "James McCoy Taylor was arrested again in relation to the 2024 assault case",
-    "desc": "Following a seriously troubling incident, reality television figure James McCoy Taylor, who gained fame on 'The Bachelorette', found himself back in handcuffs in Texas due to assault allegations from an episode in April 2024. Authorities took action after a probable cause notice revealed claims of a violent encounter in which he allegedly held a woman against her will.",
-    "img": "https://static.toiimg.com/photo/msid-129741438,imgsize-.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-mccoy-taylor-has-a-run-in-with-authorities-again-arrested-a-year-after-assault-charges-report/articleshow/129741438.cms",
-    "time": "2026-03-23T02:15:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Drop these players': Gavaskar fumes at IPL no-shows, slams ‘taking for granted’ culture",
     "desc": "Sunil Gavaskar has criticized overseas players for missing early IPL 2026 matches, citing a pattern of taking franchise hospitality for granted. He urged franchises to adopt stricter policies, warning that late unavailability disrupts team planning and hinders title aspirations. This stance reflects growing concerns within the cricketing fraternity regarding player commitment.",
@@ -261,42 +423,6 @@ const newsData_en = [
     "time": "2026-03-23T01:43:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Reports",
-    "desc": "BTS's grand comeback concert in Seoul has sparked controversy, with wedding couples reporting disrupted plans due to traffic restrictions and venue access issues. Organizers now face potential lawsuits as residents and businesses express frustration over the public space's commandeering. Meanwhile, BTS member V engaged with fans, discussing new music and upcoming choreography releases.",
-    "img": "https://static.toiimg.com/photo/msid-129740982,imgsize-119618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/arirang-bts-comeback-concert-at-gwanghwamun-triggers-backlash-k-pop-stars-could-face-lawsuit/articleshow/129740944.cms",
-    "time": "2026-03-23T01:42:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Regé-Jean Page and Nicola Coughlan reunite at SNL UK debut",
-    "desc": "Bridgerton stars Regé-Jean Page and Nicola Coughlan delighted fans with a surprise reunion during the debut of Saturday Night Live UK. The heartwarming moment, captured as the show concluded, sparked nostalgia and social media buzz. Page and Coughlan, who first shared the screen in the hit Netflix series, were seen chatting and embracing onstage, fueling hopes for future on-screen chemistry.",
-    "img": "https://static.toiimg.com/photo/msid-129741035,imgsize-479585.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-stars-reg-jean-page-and-nicola-coughlan-reunite-reigniting-hopes-for-a-long-awaited-on-screen-return/articleshow/129741038.cms",
-    "time": "2026-03-23T01:21:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jason Momoa and family forced to evacuate Hawaii home amid floods",
-    "desc": "Hollywood star Jason Momoa and his family were compelled to evacuate their Oahu North Shore residence due to severe flooding impacting Hawaii. The actor shared a social media update, confirming their safety while expressing concern for others affected by the storms. Momoa highlighted the widespread impact on communities, particularly those already facing difficulties, and urged everyone to stay safe.",
-    "img": "https://static.toiimg.com/photo/msid-129740993,imgsize-128102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jason-momoa-and-family-evacuate-north-shore-home-in-hawaii-share-video-updates-of-the-storm-hopefully-everyones-safe/articleshow/129740993.cms",
-    "time": "2026-03-23T01:12:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zendayaand Tom Holland spotted hand-in-hand in Los Angeles",
-    "desc": "Zendaya and Tom Holland were spotted hand-in-hand in Los Angeles, quelling separation fears amid persistent wedding rumors sparked by stylist Law Roach. Zendaya playfully addressed the speculation on Jimmy Kimmel Live!, revealing how AI-generated wedding photos fooled many. The couple continues to navigate Hollywood's spotlight while maintaining their private romance.",
-    "img": "https://static.toiimg.com/photo/msid-129740977,imgsize-943371.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-and-tom-holland-spotted-hand-in-hand-in-los-angeles-amid-wedding-buzz/articleshow/129740980.cms",
-    "time": "2026-03-23T01:06:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Hardik Pandya told to step aside, ‘let Suryakumar Yadav lead’ at Mumbai Indians",
     "desc": "Mumbai Indians, despite a star-studded lineup, face a captaincy dilemma ahead of IPL 2026. Former selector Kris Srikkanth suggests Suryakumar Yadav, fresh from leading India to T20 World Cup glory, could take over from Hardik Pandya to revitalize the team's fortunes. Srikkanth highlighted the unusual situation of multiple World Cup-winning captains playing under Pandya.",
@@ -315,24 +441,6 @@ const newsData_en = [
     "time": "2026-03-23T00:43:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Spider-Man 4' to have Peter-Gwen reunion?",
-    "desc": "Brand New Day' with rumours swirling about Andrew Garfield and Kiernan Shipka joining Tom Holland. Shipka is reportedly eyed for Gwen Stacy, whose MCU debut seems imminent given Peter Parker's Empire State University attire in the trailer, mirroring comic origins. Garfield's cryptic trailer response fuels speculation.",
-    "img": "https://static.toiimg.com/photo/msid-129740787,imgsize-110242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-andrew-garfield-and-kiernan-shipka-casting-buzz-in-tom-holland-starrer-grows-fans-speculate-peter-parker-and-gwen-stacy-reunion/articleshow/129740728.cms",
-    "time": "2026-03-23T00:20:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jorginho's wife issues statement",
-    "desc": "After soccer star Jorginho expressed his outrage over a security guard's alleged mistreatment of his stepdaughter at a hotel, Grammy-winning artist Chappell Roan quickly stepped in to set the record straight. She asserted that the guard was unrelated to her and that she didn’t witness the event in question.",
-    "img": "https://static.toiimg.com/photo/msid-129740633,imgsize-129498.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chappell-roan-controversy-jorginhos-wife-catherine-harding-issues-statement-as-singer-claims-man-who-mistreated-11-year-old-was-not-her-guard/articleshow/129738818.cms",
-    "time": "2026-03-22T23:41:44.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "EPFO reaches out to subscribers with unclaimed balance",
     "desc": "EPFO is developing an auto-settlement facility to disburse unclaimed money from inoperative accounts directly to subscribers. This initiative will initially target Aadhaar-verified accounts with balances of Rs 1,000 or less, aiming to clear idle funds and simplify the withdrawal process for members.",
@@ -349,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/abhishek-sharma-had-six-hitting-skills-from-the-start-teammate-reveals-untold-story/articleshow/129733182.cms",
     "time": "2026-03-22T23:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer-Deepika pose for selfies post lunch date",
-    "desc": "The Revenge', the couple was spotted enjoying a low-key lunch date. Photos of them with restaurant staff and fans surfaced, showing them in high spirits. This public appearance followed Deepika's absence from the film's screening, fueling social media chatter.",
-    "img": "https://static.toiimg.com/photo/msid-129740577,imgsize-84482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-and-deepika-padukone-pose-for-selfies-post-lunch-date-as-they-celebrate-dhurandhar-2-the-revenge-box-office-success/articleshow/129740488.cms",
-    "time": "2026-03-22T23:10:21.000Z"
   },
   {
     "cat": "Politics",
@@ -442,24 +541,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "T.N. Assembly election: residents of Tiruttani constituency seek more support to improve their livelihood",
-    "desc": "Farmers, who recently set up a producer organisation and started growing millets, complain that they still do not have machinery needed to process the crop. Residents say work to lay a second access road to Subramaniaswami Temple is yet to be completed, with land acquisition still under way",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/ozh3hh/article70773206.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-22%20at%209.11.58%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-residents-of-tiruttani-constituency-seek-more-support-to-improve-their-livelihood/article70773036.ece",
-    "time": "2026-03-22T19:32:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP will draw a blank this time too, says Pinarayi Vijayan",
-    "desc": "The Kerala Chief Minister doesn’t see defections from the Left helping either the BJP or the Congress, which, according to him, is the BJP’s ‘B team’; for the State to be in step with the modern era, the Left should continue to be in govt, he argues",
-    "img": "https://th-i.thgim.com/public/latest-news/akbcli/article70773382.ece/alternates/LANDSCAPE_1200/PinarayiVijayan.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2026-pinarayi-vijayan-interview/article70772737.ece",
-    "time": "2026-03-22T19:30:42.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "If America strikes us, we should attack Indian cities like Delhi and Mumbai: Ex-Pak envoy",
     "desc": "Former Pakistani envoy Abdul Basit stated that striking Indian cities like New Delhi and Mumbai would be Islamabad's \"default move\" if Pakistan were attacked by the US. He asserted that Pakistan's nuclear deterrence is India-specific, not aimed at the US, and that any aggression would be met with retaliation against India.",
     "img": "https://static.toiimg.com/photo/msid-129738175,imgsize-677703.cms",
@@ -513,15 +594,6 @@ const newsData_en = [
     "time": "2026-03-22T17:42:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi reviews West Asia situation, underlines diversification imperatives",
-    "desc": "The meeting took stock of the current global situation in the wake of the West Asia conflict and the measures taken to protect consumer and industry interests, which is the key focus of the government, the sources said.",
-    "img": "https://th-i.thgim.com/public/incoming/tr5e62/article70772382.ece/alternates/LANDSCAPE_1200/20260322196L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-ministerial-meeting-on-energy-supply-challenges-amid-west-asia-conflict/article70771872.ece",
-    "time": "2026-03-22T17:38:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Koneru Humpy withdraws from Women’s Candidates, cites safety concerns",
     "desc": "Top Indian Grandmaster Koneru Humpy has withdrawn from the FIDE Women's Candidates Tournament, prioritizing her personal safety and well-being. Citing security concerns despite assurances, Humpy's decision opens a spot for Anna Muzychuk. While India retains representation with R Vaishali and Divya Deshmukh, Humpy's withdrawal raises questions about potential FIDE penalties and impacts Indian chess.",
@@ -529,24 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-withdraws-from-womens-candidates-cites-safety-concerns/articleshow/129736372.cms",
     "time": "2026-03-22T17:34:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Organisational changes are being made to reach every part of India, says Sunil Ambekar of RSS",
-    "desc": "“The core idea has always been that this is a Hindu nation, where Hindutva is understood as a way of life. This way of life is not opposed to anyone, nor is it meant to eliminate or harm others,” says Sunil Ambekar",
-    "img": "https://th-i.thgim.com/public/incoming/c6jphs/article70773222.ece/alternates/LANDSCAPE_1200/Sunil%20Ambekar%20RSS%201.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/organisational-changes-are-being-made-to-reach-every-part-of-india-says-sunil-ambekar-of-rss/article70772451.ece",
-    "time": "2026-03-22T17:30:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Opposition MPs, activists seek withdrawal",
-    "desc": "Opposition MPs and transgender activists are demanding the withdrawal of the Transgender Persons (Protection of Rights) Amendment Bill, 2026. They argue the proposed changes could undermine the community's rights, particularly self-identification, which they fought hard to achieve. Concerns were voiced at a public discussion in Delhi, with calls for parliamentary review.",
-    "img": "https://static.toiimg.com/photo/msid-129736369,imgsize-1471659.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/transgender-rights-bill-row-opposition-mps-activists-seek-withdrawal/articleshow/129736370.cms",
-    "time": "2026-03-22T17:27:27.000Z"
   },
   {
     "cat": "Sports",
@@ -565,24 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-army-says-will-target-energy-desalination-infrastructure-after-us-threats/article70771400.ece",
     "time": "2026-03-22T17:04:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Even Muslim-majority countries don’t allow namaz on roads, says Sunil Ambekar of RSS",
-    "desc": "Mr. Ambekar, in charge of the RSS’s national publicity, responds to questions on how incidents in BJP-ruled States — such as FIRs over namaz on roads, iftar on a boat in the Ganga, or the Char Dham temples asking for ‘Sanatani’ affidavits — impact the RSS’s message of unity in diversity.",
-    "img": "https://th-i.thgim.com/public/incoming/g1qmdw/article70772271.ece/alternates/LANDSCAPE_1200/Sunil%20Ambekar%20RSS%204.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/even-muslim-majority-countries-dont-allow-namaz-on-roads-says-sunil-ambekar-of-rss/article70772182.ece",
-    "time": "2026-03-22T16:51:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pathan explains ‘identification of talent’ as reason why DC, PBKS haven’t won IPL yet",
-    "desc": "Former India all-rounder Irfan Pathan believes Delhi Capitals' past struggles with talent identification, citing instances like letting go of AB de Villiers and Andre Russell, contributed to their title drought. In contrast, Punjab Kings' recent progress, marked by strong leadership, strategic auction buys like Shreyas Iyer, and improved squad depth, has propelled them towards success, reaching the IPL final.",
-    "img": "https://static.toiimg.com/photo/msid-129734845,imgsize-224110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/pathan-explains-identification-of-talent-as-reason-why-dc-pbks-havent-won-ipl-yet/articleshow/129734853.cms",
-    "time": "2026-03-22T15:45:13.000Z"
   },
   {
     "cat": "World",
@@ -619,24 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/over-half-of-countries-have-banned-phones-in-schools-unesco/article70771882.ece",
     "time": "2026-03-22T11:23:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PSL 2026 behind closed doors; Mohsin Naqvi warns of action against players joining IPL",
-    "desc": "Pakistan Super League 2026 will commence on March 26 behind closed doors due to regional tensions, with matches limited to Karachi and Lahore. The Pakistan Cricket Board cited government austerity measures, not security fears, for the decision. The tournament's opening ceremony has been canceled, and refunds will be issued to ticket holders.",
-    "img": "https://static.toiimg.com/photo/msid-129732320,imgsize-66108.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-2026-behind-closed-doors-mohsin-naqvi-warns-of-action-against-players-joining-ipl/articleshow/129732142.cms",
-    "time": "2026-03-22T11:22:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan gets animated send-off as things heat up in SRH camp",
-    "desc": "Sunrisers Hyderabad's stand-in captain Ishan Kishan was playfully sent off by teammate Zeeshan Ansari during a practice game. Kishan, who is leading SRH in Pat Cummins' absence due to injury, responded sportingly to the leg-spinner's animated gesture. This incident occurs as Kishan takes on leadership duties following his stellar T20 World Cup performance.",
-    "img": "https://static.toiimg.com/photo/msid-129731929,imgsize-671015.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-ishan-kishan-gets-animated-send-off-as-things-heat-up-in-srh-camp/articleshow/129731937.cms",
-    "time": "2026-03-22T10:48:50.000Z"
   },
   {
     "cat": "Sports",
@@ -873,30 +891,12 @@ const newsData_en = [
     "time": "2026-03-19T06:45:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Oil, gas firms ordered to share import, export data with PPAC",
-    "desc": "All companies involved in the oil and gas supply chain including ‌oil producers, importers, refiners, fuel and gas retailers, liquefied ​natural gas importers, pipeline operators, and petrochemical plants were ordered to provide PPAC with data",
-    "img": "https://th-i.thgim.com/public/incoming/a9fbb2/article70759732.ece/alternates/LANDSCAPE_1200/20260311584L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/oil-gas-firms-ordered-to-share-import-export-data-with-ppac/article70759528.ece",
-    "time": "2026-03-18T23:13:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "22 India-bound ships on Hormuz evacuation list",
-    "desc": "Of these, 20 vessels have been assessed as critical to India’s energy security, carrying over 5 lakh tonnes of LNG and LPG and 16.76 lakh tonnes of crude oil; various agencies join hands for evacuation",
-    "img": "https://th-i.thgim.com/public/incoming/exh5gc/article70759417.ece/alternates/LANDSCAPE_1200/2026-03-18T143802Z_347538997_RC2W7FAY6ZO3_RTRMADP_3_IRAN-CRISIS-ENERGY-SECURITY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/22-india-bound-ships-on-hormuz-evacuation-list/article70759218.ece",
-    "time": "2026-03-18T19:48:43.000Z"
-  },
-  {
     "cat": "Tech",
-    "title": "Nvidia chief expects revenue of $1 trillion through 2027",
-    "desc": "The entire tech world, from big names like OpenAI and Anthropic to young startups, feels like they could grow revenue and their AI \"if they could just get more capacity,\" Jensen Huang told the audience",
-    "img": "https://th-i.thgim.com/public/incoming/g6gtzz/article70752419.ece/alternates/LANDSCAPE_1200/2026-03-17T012901Z_460422352_RC206KAB03XD_RTRMADP_3_NVIDIA-GTC-SK-HYNIX-CHAIRMAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/nvidia-chief-expects-revenue-of-1-trillion-through-2027/article70752418.ece",
-    "time": "2026-03-17T04:31:24.000Z"
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
   }
 ];

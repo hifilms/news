@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "IPL fan parks to be hosted across 15 cities for the first phase of the tournament",
+    "desc": "With the IPL (Indian Premier League) 2026 all set to kick off on March 28, the fans will be heavily anticipating the start of the tournament, as they will be looking to see their favourite...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-fan-parks-to-be-hosted-across-15-cities-for-the-first-phase-of-the-tournament-2026-03-23-1034746",
+    "time": "2026-03-23T05:45:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Starting from scratch is not easy': Irfan Pathan dissects Delhi Capitals' failure to win IPL title",
+    "desc": "The IPL (Indian Premier League) 2026 is all set to kick off on March 28. The 19th edition of the tournament will see the 10 franchises putting in their best efforts in hopes of getting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/starting-from-scratch-is-not-easy-irfan-pathan-dissects-delhi-capitals-failure-to-win-ipl-title-2026-03-23-1034737",
+    "time": "2026-03-23T05:03:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "New Zealand Cricket backs NZ20 as preferred domestic competition over Super Smash",
     "desc": "In a major development for NZC (New Zealand Cricket), the board is looking to back NZ20 as its preferred domestic T20 competition. The NZC stated the same in a release on March 23; the NZC’s...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/axed-rcb-ipl-winner-scores-195-off-69-balls-in-20-over-game-in-ayodhya-premier-league-2026-03-22-1034699",
     "time": "2026-03-22T14:32:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Amelia Kerr creates world record across women's and men's T20Is as New Zealand seal South Africa series",
-    "desc": "New Zealand captain Amelia Kerr has etched her name into the history books for her terrific run as she created a world record across women's and men's T20Is. Kerr scored 31 from 29 balls as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/amelia-kerr-creates-world-record-across-womens-and-mens-t20is-as-new-zealand-seal-south-africa-series-2026-03-22-1034695",
-    "time": "2026-03-22T13:41:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cricket Australia announces 2026-27 calendar as historic 4-Test series against New Zealand headlines schedule",
-    "desc": "Cricket Australia (CA) on Sunday announced the 2026-27 home calendar, which will be headlined with a historic four-Test series against New Zealand. The series will mark the first instance of the Kiwis playing in more...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cricket-australia-announces-2026-27-calendar-as-historic-4-test-series-against-new-zealand-headlines-schedule-2026-03-22-1034689",
-    "time": "2026-03-22T12:50:56.000Z"
   }
 ];
