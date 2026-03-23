@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Sebi tightens disclosures for top officials",
+    "desc": "Sebi's board has greenlit significant disclosure rule changes for its top brass, including public asset declarations for chairmen and whole-time members, aligning with conflict-of-interest committee recommendations. These officials will now be classified as 'insiders' with investment restrictions similar to employees. The regulator also approved netting benefits for foreign portfolio investors in equity trades.",
+    "img": "https://static.toiimg.com/photo/msid-129762357,imgsize-1113326.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-tightens-disclosures-for-top-officials/articleshow/129762353.cms",
+    "time": "2026-03-23T21:04:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Seeman",
+    "desc": "Naam Tamilar Katchi chief coordinator Seeman contends that without discipline, there will be no order; he bats for an economy centred on agriculture in T.N. and plans to create government-led industries based on local resources if his party emerges victorious in the Assembly election",
+    "img": "https://th-i.thgim.com/public/incoming/lhv6uw/article70766842.ece/alternates/LANDSCAPE_1200/2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/a-true-benevolent-authoritarian-enforces-discipline-for-the-greater-good-seeman/article70766533.ece",
+    "time": "2026-03-23T21:01:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sebi chief",
+    "desc": "Sebi Chairman Tuhin Kanta Pandey emphasized that independent directors must act responsibly and avoid vague insinuations, following Atanu Chakraborty's resignation from HDFC Bank. Chakraborty cited \"happenings and practices\" not aligning with his values, leading to a significant drop in the bank's stock value. Pandey stressed the need for clear documentation of ethical concerns in meeting minutes.",
+    "img": "https://static.toiimg.com/photo/msid-129762344,imgsize-460118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/independent-directors-must-act-responsibly-sebi-chief/articleshow/129762334.cms",
+    "time": "2026-03-23T20:55:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Companies Act seeks to allow new exec compensation tools",
+    "desc": "Finance Minister Nirmala Sitharaman has introduced significant amendments to the Companies Act, aiming to decriminalize procedural defaults and boost flexibility in share buybacks. The proposed changes also introduce new executive compensation instruments and streamline merger processes. Special benches for the National Company Law Tribunal are planned, alongside relaxations for small companies regarding CSR requirements.",
+    "img": "https://static.toiimg.com/photo/msid-129762327,imgsize-28476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/companies-act-seeks-to-allow-new-exec-compensation-tools/articleshow/129762320.cms",
+    "time": "2026-03-23T20:49:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "People will assess governance failure, corruption and favour UDF: KPCC chief",
+    "desc": "Sunny Joseph dismisses concerns of internal dissent within the Congress over granting electoral berth to former CPI(M) leaders; he says the UDF’s decision to support such leaders will strengthen the coalition; results of local body elections indicate strong anti-incumbency sentiment, he adds",
+    "img": "https://th-i.thgim.com/public/incoming/gioyr3/article70775505.ece/alternates/LANDSCAPE_1200/KPCC-president-GDHF9M9MS.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/congress-to-highlight-sabarimala-corruption-charges-udf-confident-of-sweeping-mandate-in-kerala-says-kpcc-chief-sunny-joseph/article70771635.ece",
+    "time": "2026-03-23T20:45:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI",
+    "desc": "India's economy shows resilience, but the Reserve Bank of India notes rising price risks. A severe global conflict in West Asia has disrupted oil and commodity markets, causing price surges and volatility. This geopolitical shock is impacting financial systems, leading to equity market sell-offs and pressure on emerging market currencies, including the Indian Rupee.",
+    "img": "https://static.toiimg.com/photo/msid-129762302,imgsize-929270.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/upside-risk-to-prices-as-west-asia-simmers-rbi/articleshow/129762301.cms",
+    "time": "2026-03-23T20:41:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mannachanallur DMK MLA ‘distributes’ SUVs; ECI issues notice",
+    "desc": "The AIADMK alleged that Kathiravan and his father V. Srinivasan had given SUVs to five panchayat union secretaries and two town panchayat secretaries of the DMK on March 16 and 17 when the Model Code of Conduct was in force",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/mannachanallur-dmk-mla-distributes-suvs-eci-issues-notice/article70761956.ece",
+    "time": "2026-03-23T20:36:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Arcelor-Nippon to pump Rs 70k cr in Andhra plant",
+    "desc": "Lakshmi Mittal has launched his most ambitious greenfield project in India, breaking ground on an 8.2 million-tonne steel plant in Anakapalli, Andhra Pradesh. ArcelorMittal will invest over Rs 70,000 crore in the facility, expected to begin operations by early 2029. This marks a significant renewed push into India for the steel magnate, following earlier unmaterialized greenfield plans.",
+    "img": "https://static.toiimg.com/photo/msid-129762251,imgsize-1425925.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/arcelor-nippon-to-pump-rs-70k-cr-in-andhra-plant/articleshow/129762240.cms",
+    "time": "2026-03-23T20:27:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre mulls delimitation based on 2011 Census to fast-track Women’s Reservation Act",
+    "desc": "“Under the amendments that the government wants to bring in, the basis for the selection of seats will be the Census data of 2011. The number of seats in Parliament will increase to 816, out of which 273 will be reserved for women,” a source said",
+    "img": "https://th-i.thgim.com/public/incoming/54sn6b/article70776915.ece/alternates/LANDSCAPE_1200/women%20reservation%20bill.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/govt-revs-up-consultations-on-early-implementation-of-womens-reservation-act/article70776010.ece",
+    "time": "2026-03-23T20:23:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Impact of West Asia war likely to be felt for long time, PM tells Lok Sabha",
+    "desc": "Country should be prepared and united, says Modi as he condemns attacks on commercial ships and obstruction of Strait of Hormuz; India has 5.3 million tonnes of petrol reserves, and govt. is working towards increasing this to 6.5 million tonnes",
+    "img": "https://th-i.thgim.com/public/incoming/4v8636/article70775160.ece/alternates/LANDSCAPE_1200/20260323117L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-in-parliament-on-israel-iran-war-energy-crisis/article70775086.ece",
+    "time": "2026-03-23T20:23:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parl panel calls for comprehensive 'gender-sensitive' law to combat cybercrime",
+    "desc": "A parliamentary committee has urged the government to create a unified, gender-sensitive cybercrime law following a significant rise in online offenses against women and children. The report highlights the need for age-appropriate social media regulations and stronger platform accountability, including mandatory KYC verification, to combat fake profiles and harassment.",
+    "img": "https://static.toiimg.com/photo/msid-129762221,imgsize-1502270.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/parl-panel-calls-for-comprehensive-gender-sensitive-law-to-combat-cybercrime/articleshow/129762222.cms",
+    "time": "2026-03-23T20:22:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rakesh hits back at ‘creepy’ comments over Sara Arjun kiss",
+    "desc": "Veteran actor Rakesh Bedi recently addressed the backlash he faced after a video from the trailer launch of Dhurandhar went viral in November 2025. The clip showed him greeting co-star Sara Arjun with a kiss on the shoulder, sparking criticism online, with some calling the gesture “creepy” and inappropriate. In a new interview, the 71-year-old actor dismissed the outrage, maintaining that his actions were purely paternal.",
+    "img": "https://static.toiimg.com/photo/msid-129762161,imgsize-71138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakesh-bedi-hits-back-at-creepy-comments-over-sara-arjun-shoulder-kiss-at-dhurandhar-event-ive-always-treated-her-like-this/articleshow/129762161.cms",
+    "time": "2026-03-23T20:08:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Naveen reacts to Rathee’s ‘propaganda’ claim, Chopra’s criticism",
+    "desc": "The Revenge starring Ranveer Singh being labelled a “propaganda film,” actor Naveen Kaushik has weighed in, offering a layered take on the controversy and urging audiences to look beyond surface-level reactions. He also addressed Dhruv Rathee's 'propaganda' claim and Anupama Chopra's review of Dhurandhar.",
+    "img": "https://static.toiimg.com/photo/msid-129761411,imgsize-56316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-actor-naveen-kaushik-reacts-to-dhruv-rathees-propaganda-claim-anupama-chopras-criticism-film-ko-hate-ka-source-mat-banao/articleshow/129761411.cms",
+    "time": "2026-03-23T19:15:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP seal on Election Commission of India letter sparks row in State",
+    "desc": "CPI(M) asks whether seals are being casually swapped and all pretences are being dropped. Office of CEO, Kerala, says the 2019 letter, on which the BJP had affixed a seal when its functionaries approached the CEO’s office for clarification, was distributed recently by oversight",
+    "img": "https://th-i.thgim.com/public/news/national/jcfsg5/article70776369.ece/alternates/LANDSCAPE_1200/HEGGjkSboAAchTq.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/bjp-seal-on-election-commission-of-india-letter-sparks-row-in-kerala/article70775771.ece",
+    "time": "2026-03-23T19:13:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MDMK releases manifesto; calls for total prohibition, life imprisonment for sexual offenders",
+    "desc": "In its manifesto released on Tuesday (March 17, 2026) by party general secretary Vaiko, the MDMK said Tamil Nadu should be free from liquor and other drugs which are ‘responsible for the degeneration of youth’",
+    "img": "https://th-i.thgim.com/public/incoming/nbfvpf/article70755194.ece/alternates/LANDSCAPE_1200/DSC_3286.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/mdmk-releases-manifesto-calls-for-total-prohibition-life-imprisonment-for-sexual-offenders/article70754977.ece",
+    "time": "2026-03-23T19:12:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ladakhi leaders say Wangchuk should be part of Ladakh-Centre talks panel",
+    "desc": "Ladakhi delegates are urging the inclusion of environmentalist Sonam Wangchuk in future talks with the Centre, following his release from NSA detention. They emphasize sincerity in negotiations and call for the withdrawal of cases against protesters. The ongoing struggle for Ladakh's demands, including statehood and Sixth Schedule inclusion, continues after inconclusive dialogue rounds.",
+    "img": "https://static.toiimg.com/photo/msid-129761429,imgsize-930444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ladakhi-leaders-say-wangchuk-should-be-part-of-ladakh-centre-talks-panel/articleshow/129761387.cms",
+    "time": "2026-03-23T19:08:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jammu Univ panel recommends removing Jinnah, Sir Syed, Iqbal from PG syllabus; J&amp;K minister, BJP neta oppose proposal",
+    "desc": "A University of Jammu committee recommended removing Jinnah, Sir Syed Ahmad Khan, and Iqbal from the MA Political Science syllabus following ABVP protests. This move has drawn strong condemnation from a local minister and a BJP leader, who label it as 'intellectual vandalism' and a threat to India's heritage.",
+    "img": "https://static.toiimg.com/photo/msid-129761307,imgsize-96946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-univ-panel-recommends-removing-jinnah-sir-syed-iqbal-from-pg-syllabus-jk-minister-bjp-neta-oppose-proposal/articleshow/129761187.cms",
+    "time": "2026-03-23T19:01:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CPI(M), Congress accuse each other of fragmenting ‘LDF-UDF duopoly’ in Kerala by aiding BJP",
+    "desc": "Chief Minister Pinarayi Vijayan accuses Congress national leadership under Rahul Gandhi of playing as BJP’s ‘B-Team’. AICC general secretary K.C. Venugopal says PM Modi and Amit Shah have found ‘a willing tool’ in Pinarayi Vijayan to attack Rahul Gandhi, who is ‘fighting a lone battle against Sangh Parivar and its corporate backers’",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/4l2vfl/article70775376.ece/alternates/LANDSCAPE_1200/Pinarayi%20Vijayan_Ramesh%20Chennithala.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-cpim-congress-accuse-each-other-of-fragmenting-ldf-udf-duopoly-in-kerala-by-aiding-bjp/article70775267.ece",
+    "time": "2026-03-23T19:00:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nirav Modi appears in person to fight Rs 100 crore Bank of India case in London",
+    "desc": "Fugitive jeweller Nirav Modi appeared in a London court to contest a Rs 100 crore claim by Bank of India. The bank seeks repayment of a loan to his company, Firestar Diamond, for which Modi provided a personal guarantee.",
+    "img": "https://static.toiimg.com/photo/msid-129761120,imgsize-23162.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nirav-modi-appears-in-person-to-fight-rs-100-crore-bank-of-india-case-in-london/articleshow/129761134.cms",
+    "time": "2026-03-23T18:52:55.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "1.68 lakh cases of defacement removed in Tamil Nadu, says Election Commission",
     "desc": "It says the statues of late leaders need not be covered, but the photographs of politically active leaders must be covered. It also issues a clarification in respect of cases wherein individuals are found carrying cash",
@@ -18,15 +189,6 @@ const newsData_en = [
     "time": "2026-03-23T18:39:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Centre mulls delimitation based on 2011 Census to fast-track Women’s Reservation Act",
-    "desc": "“Under the amendments that the government wants to bring in, the basis for the selection of seats will be the Census data of 2011. The number of seats in Parliament will increase to 816, out of which 273 will be reserved for women,” a source said",
-    "img": "https://th-i.thgim.com/public/incoming/54sn6b/article70776915.ece/alternates/LANDSCAPE_1200/women%20reservation%20bill.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/govt-revs-up-consultations-on-early-implementation-of-womens-reservation-act/article70776010.ece",
-    "time": "2026-03-23T18:27:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL too good an opportunity to pass up",
     "desc": "The Indian domestic T20 tournament is in a league of its own, so it’s no surprise that players like Muzarabani and Shanaka have made last-minute shifts from the PSL; there will be no satisfactory conclusion to the debate of whether making such late moves is morally right",
@@ -36,13 +198,13 @@ const newsData_en = [
     "time": "2026-03-23T18:16:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP seal on Election Commission of India letter sparks row in State",
-    "desc": "CPI(M) asks whether seals are being casually swapped and all pretences are being dropped. Office of CEO, Kerala, says the 2019 letter, on which the BJP had affixed a seal when its functionaries approached the CEO’s office for clarification, was distributed recently by oversight",
-    "img": "https://th-i.thgim.com/public/news/national/jcfsg5/article70776369.ece/alternates/LANDSCAPE_1200/HEGGjkSboAAchTq.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/bjp-seal-on-election-commission-of-india-letter-sparks-row-in-kerala/article70775771.ece",
-    "time": "2026-03-23T18:15:43.000Z"
+    "cat": "Business",
+    "title": "Private sector capex to shrink 17% in FY27: NSO Survey",
+    "desc": "India Inc's private sector capital expenditure is projected to dip by nearly 17% next year, signaling a more cautious approach from large firms amid global uncertainties. While final spending might exceed current conservative estimates, a slight stabilization is expected after a strong 2025-26. Emerging sectors like green energy and robotics also see planned investment declines.",
+    "img": "https://static.toiimg.com/photo/msid-129759570,imgsize-47506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/private-sector-capex-to-shrink-17-in-fy27-nso-survey/articleshow/129759237.cms",
+    "time": "2026-03-23T17:53:47.000Z"
   },
   {
     "cat": "Politics",
@@ -91,15 +253,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "CPI (M) accepts five-seat offer, signs pact with DMK",
-    "desc": "The CPI (M), which was allotted six seats in the last Assembly elections in the same alliance, sought double-digit seats from the DMK but was denied due to the entry of more parties in the alliance",
-    "img": "https://th-i.thgim.com/public/incoming/zh6i76/article70776717.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-23%20at%209.07.05%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-cpi-m-accepts-five-seat-offer-signs-pact-with-dmk/article70776711.ece",
-    "time": "2026-03-23T16:57:05.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "‘Self-boasts, silence on US’: Congress attacks PM Modi over West Asia remarks",
     "desc": "Rahul Gandhi accused Prime Minister Narendra Modi of being 'compromised' and controlled by US President Donald Trump, criticizing his speech on the West Asia conflict. Gandhi also voiced concerns over a trade deal he claims will harm Indian farmers and alleged the BJP-RSS are undermining tribal rights by promoting the term 'Vanvasi'.",
     "img": "https://static.toiimg.com/photo/msid-129757982,imgsize-32482.cms",
@@ -135,24 +288,6 @@ const newsData_en = [
     "time": "2026-03-23T16:17:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kurinjipadi voters want non-polluting, agro-based industrial boost",
-    "desc": "Minister MRK Panneerselvam is in the fray aiming for a hat-trick in Kurinjipadi. The DMK-led Democratic Progressive Alliance needs to be aware that the Tamizhaga Vazhvurimai Katchi headed by T. Velmurugan and now delinked from the DMK-led alliance, is capable of eating into the votes of the DMK in areas like Kurinjipadi and Kullanchavadi where it has significant presence",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/kurinjipadi-voters-want-non-polluting-agro-based-industrial-boost/article70774721.ece",
-    "time": "2026-03-23T16:16:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jammu University pitches for dropping Jinnah and Iqbal from syllabus; NC, PDP oppose move",
-    "desc": "This followed protests by the Akhil Bharatiya Vidyarthi Parishad (ABVP) on Friday as they demanded that a chapter on Jinnah be dropped following which the university’s departmental affairs committee (DAC) chaired a meeting on March 22 ‘to deliberate upon the issues raised concerning the syllabi’",
-    "img": "https://th-i.thgim.com/public/incoming/5uqovq/article70776619.ece/alternates/LANDSCAPE_1200/20260320447L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-university-pitches-for-dropping-jinnah-and-iqbal-from-syllabus-nc-pdp-oppose-move/article70776148.ece",
-    "time": "2026-03-23T16:14:23.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street jumps as Trump delays Iran strikes; oil prices retreat",
     "desc": "Global markets surged Monday as President Trump announced talks with Iran and a delay in planned strikes, easing fears of Middle East conflict. US stocks rallied significantly, oil prices tumbled, and European markets reversed earlier losses. However, Iran challenged the negotiation claims, casting a shadow of uncertainty over the de-escalation.",
@@ -160,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-23-march-2026-wall-street-jumps-as-donald-trump-delays-iran-strikes-oil-prices-retreat/articleshow/129756850.cms",
     "time": "2026-03-23T16:07:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP hails PM’s milestone of 8,931 days in public office",
-    "desc": "Union Minister Shivraj Singh Chouhan, at a press conference, expresses gratitude to PM Narendra Modi for India’s powerful representation in the changing global landscape, stating that Mr. Modi has taken the country to new heights",
-    "img": "https://th-i.thgim.com/public/incoming/i5qqo0/article70776779.ece/alternates/LANDSCAPE_1200/PTI03_23_2026_000182B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bjp-hails-pms-milestone-of-8931-days-in-public-office/article70776463.ece",
-    "time": "2026-03-23T16:06:51.000Z"
   },
   {
     "cat": "Sports",
@@ -423,15 +549,6 @@ const newsData_en = [
     "time": "2026-03-23T11:55:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'You can't say..'",
-    "desc": "Rajeev Khandelwal ignites casting couch debate, saying exploitation persists despite talks. He faced it early but resisted, notes no crime drop, and views victims' choices through vulnerability lens - \"You can't claim exploitation if seeking easy way out.\"",
-    "img": "https://static.toiimg.com/photo/msid-129751641,imgsize-24874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajeev-khandelwal-sparks-casting-couch-debate-you-cant-say-you-were-exploited-if-you-were-looking-for-an-easy-way-out/articleshow/129751641.cms",
-    "time": "2026-03-23T11:50:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Less than a week before IPL starts, Bumrah reaches BCCI CoE",
     "desc": "Jasprit Bumrah has arrived at the BCCI Centre of Excellence in Karnataka, with his presence not confirmed to be injury-related or for routine checks. This comes as Mumbai Indians' T20 World Cup winning players, including Bumrah, were granted an extended break. MI's IPL 2026 campaign begins against KKR on March 29.",
@@ -466,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/jan-jan-ki-sarkar-uttarakhand-cm-dhami-celebrates-4-saal-bemisaal-of-development-and-heritage/articleshow/129750779.cms",
     "time": "2026-03-23T11:30:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jibin Gopinath joins Vetri Maaran’s 'Arasan' with a surprise entry",
-    "desc": "Malayalam actor Jibin Gopinath makes a surprise debut in Vetri Maaran's 'Arasan', starring Silambarasan TR and Vijay Sethupathi. Gopinath described the opportunity as a dream come true, praising Vetri Maaran's direction and the supportive cast. He expressed excitement about his significant role alongside the lead actors in the 'Vada Chennai' universe film.",
-    "img": "https://static.toiimg.com/photo/msid-129750867,imgsize-103138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jibin-gopinath-joins-vetri-maarans-arasan-with-a-surprise-entry-the-kalamkaval-actor-calls-it-a-dream-debut/articleshow/129750867.cms",
-    "time": "2026-03-23T11:22:01.000Z"
   },
   {
     "cat": "Sports",
@@ -603,33 +711,6 @@ const newsData_en = [
     "time": "2026-03-23T08:45:23.000Z"
   },
   {
-    "cat": "Business",
-    "title": "What's the outlook for Nifty for March 23-27 week? Check list of top stock recommendations",
-    "desc": "Coal India, and JB Chemicals and Pharmaceuticals stocks that Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities recommends buying for the week starting March 23, 2026. There is also a detailed analysis on Nifty and Bank Nifty:",
-    "img": "https://static.toiimg.com/photo/msid-129746464,imgsize-77164.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stocks-to-buy-this-week-march-23-to-march-27-stock-recommendations-coal-india-jb-chemicals-and-pharmaceuticals/articleshow/129746430.cms",
-    "time": "2026-03-23T07:56:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Bitcoin falls below $70,000 mark, Middle East conflict drags down cryptocurrencies",
-    "desc": "The Middle East conflict is impacting global markets, causing a sell-off in cryptocurrencies and pushing Bitcoin below $70,000. Rapid liquidations and macroeconomic pressures like elevated oil prices are weighing on digital assets. Analysts suggest a cautious consolidation phase, with short-term volatility expected to persist due to geopolitical events and reduced US rate cut expectations.",
-    "img": "https://static.toiimg.com/photo/msid-129746411,imgsize-88042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/bitcoin-falls-below-70000-mark-middle-east-conflict-drags-down-cryptocurrencies/articleshow/129746229.cms",
-    "time": "2026-03-23T07:55:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How much 18K, 22K and 24K gold costs in your city? Check prices in Delhi, Mumbai, Chennai &amp; more",
-    "desc": "Gold futures experienced a significant sell-off, dropping by Rs 8,089 to Rs 1.36 lakh per 10 grams on Monday, mirroring global trends. This decline, attributed to inflation fears and a stronger US dollar, marks the fourth consecutive week of losses for the yellow metal. Analysts anticipate continued downward pressure amid geopolitical tensions and potential interest rate hikes.",
-    "img": "https://static.toiimg.com/photo/msid-129745745,imgsize-237662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-on-march-23-2026-how-much-18k-22k-and-24k-gold-costs-in-your-city-check-prices-in-delhi-mumbai-jaipur-kanpur-bangalore-kolkata/articleshow/129745389.cms",
-    "time": "2026-03-23T07:15:37.000Z"
-  },
-  {
     "cat": "World",
     "title": "Why is the assassination of Congo’s first PM Patrice Lumumba being talked about now?",
     "desc": "For more than six decades after the assassination of Patrice Lumumba, there was silence. He was shot. His body was dismembered and dissolved in sulphuric acid. No one was held accountable. Now, that silence may finally be breaking. The attention is now on 93 year old Belgian diplomat Étienne Davignon who will stand trial",
@@ -639,15 +720,6 @@ const newsData_en = [
     "time": "2026-03-23T06:05:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Mob attacks Kuki Zo Council chairman's residence in Churachandpur, blank fire reported",
-    "desc": "Tension flared in Churachandpur as a mob attempted to storm the residence of Kuki Zo Council chairman H Thanglet. Protesters, alleging militants were present, first pelted stones and tried to force entry, prompting tear gas deployment. Later, armed individuals fired blank shots to deter a renewed attempt to breach the property, while separate tyre-burning protests were also dispersed.",
-    "img": "https://static.toiimg.com/photo/msid-129743571,imgsize-35042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/manipur-mob-attacks-kuki-zo-council-chairmans-residence-in-churachandpur-blank-fire-reported/articleshow/129743556.cms",
-    "time": "2026-03-23T05:14:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why did stock market crash today? Rs 14 lakh crore wiped out! BSE Sensex ends over 1,800 points down",
     "desc": "Nifty50 and BSE Sensex plunged in opening trade on Monday with oil prices continuing to remain high amid the ongoing US-Iran war. Investor sentiment continues to weaken amid escalating tensions between Iran and the US, a falling rupee, and other global concerns.",
@@ -655,33 +727,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-23-2026-dalal-street-indian-equities-global-markets-us-iran-war-middle-east-conflict-donald-trump-oil-prices/articleshow/129742276.cms",
     "time": "2026-03-23T03:49:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TVK goes solo in Puducherry elections, fields candidates in all constituencies",
-    "desc": "TVK has announced its candidates for all 30 Puducherry Assembly constituencies, contesting independently. The party has fielded two women candidates and included experienced leaders from other political parties, including former AIADMK and BJP members, to contest the upcoming elections.",
-    "img": "https://static.toiimg.com/photo/msid-129754956,imgsize-29840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tvk-goes-solo-in-puducherry-polls-names-candidates-for-30-seats/articleshow/129742348.cms",
-    "time": "2026-03-23T03:39:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "EPFO reaches out to subscribers with unclaimed balance",
-    "desc": "EPFO is developing an auto-settlement facility to disburse unclaimed money from inoperative accounts directly to subscribers. This initiative will initially target Aadhaar-verified accounts with balances of Rs 1,000 or less, aiming to clear idle funds and simplify the withdrawal process for members.",
-    "img": "https://static.toiimg.com/photo/msid-129740660,imgsize-727590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/epfo-reaches-out-to-subscribers-with-unclaimed-balance/articleshow/129740656.cms",
-    "time": "2026-03-22T23:35:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CAFE 3.0 rollout: Penalty recovery for carmakers remains a grey area",
-    "desc": "Government seeks clarity on recovering hefty penalties from carmakers for missing fuel efficiency targets. With stricter norms ahead, the PMO is pushing ministries to define who evaluates, approves, and recovers the dues. Over Rs 8,800 crore in penalties have been levied for past non-compliance, yet no recovery has occurred.",
-    "img": "https://static.toiimg.com/photo/msid-129740603,imgsize-1115523.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cafe-3-0-rollout-penalty-recovery-for-carmakers-remains-a-grey-area/articleshow/129740600.cms",
-    "time": "2026-03-22T22:58:11.000Z"
   },
   {
     "cat": "Sports",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/yusuf-ergin-interview-indian-archery-olympics-medal-analysis-2028/article70767218.ece",
     "time": "2026-03-20T19:34:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Peering into Formula One’s crystal ball: the early-season signs that bear watching",
-    "desc": "Two races in, the sport’s radical overhaul continues to be criticised, defended and discussed. What works and what doesn’t? Will Mercedes’ superiority make it a dull season? How many overtakes are too many? And why are some drivers comparing the racing to a video game?",
-    "img": "https://th-i.thgim.com/public/incoming/8evq2i/article70767203.ece/alternates/LANDSCAPE_1200/GettyImages-2265364251.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/formula-one-2026-early-season-analysis-new-rules-mercedes-dominance-overtakes/article70767211.ece",
-    "time": "2026-03-20T19:24:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tanvi, Isharani enter semifinals of Orleans Masters",
-    "desc": "Tanvi, who is the youngest Indian to reach a BWF World Tour final at the 2025 U.S. Open Super 300, will take on either former world champion Nozomi Okuhara of Japan or Vietnam's Nguyen Thuy Linh next",
-    "img": "https://th-i.thgim.com/public/incoming/tsuo8u/article70767160.ece/alternates/LANDSCAPE_1200/YONEX%20BADMINTON%20DELHI_14_01_3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/tanvi-isharani-enter-semifinals-of-orleans-masters/article70767151.ece",
-    "time": "2026-03-20T18:34:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude sinks after Benjamin Netanyahu tries to reassure on Iran war",
-    "desc": "But with the conflict heading into a fourth week, most equities fell as investors fret over energy markets, with oil still holding around $100 and gas surging amid the effective closure of the crucial Strait of Hormuz",
-    "img": "https://th-i.thgim.com/public/business/Economy/pstotd/article70764107.ece/alternates/LANDSCAPE_1200/OilGas.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/crude-oil-prices-israel-us-strikes-on-iran-west-asia-conflict-benjamin-netanyahu-donald-trump/article70764101.ece",
-    "time": "2026-03-20T05:02:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Disney Cruise Line’s largest ship on its Asia debut",
-    "desc": "On board Disney Cruise Line’s Disney Adventure, inaugurated by actor Robert Downey Jr., we set sail on a four-day voyage that includes dining with Mickey Mouse and the first-ever roller coaster on a Disney Cruise Line ship — the longest at sea at over 250 metres",
-    "img": "https://th-i.thgim.com/public/life-and-style/84jrq4/article70761319.ece/alternates/LANDSCAPE_1200/Float%20Out%202_1MB.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/travel/inside-disney-cruise-lines-largest-ship-on-its-asia-debut/article70761351.ece",
-    "time": "2026-03-20T04:51:20.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Teenagers sue Musk’s xAI claiming image-generator made sexually explicit images of them as minors",
-    "desc": "Other AI companies have prohibited their image-generators from producing any sexually explicit content, even of adults. Mr. Musk saw this as a business opportunity and promoted the ability of xAI's Grok chatbot to create “spicy” content, the lawsuit claims.",
-    "img": "https://th-i.thgim.com/public/incoming/vfdspx/article70764256.ece/alternates/LANDSCAPE_1200/2026-03-18T142725Z_1699232240_RC2PVCAIIX5G_RTRMADP_3_XAI-GROK-EU.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/teenagers-sue-musks-xai-claiming-image-generator-made-sexually-explicit-images-of-them-as-minors/article70764255.ece",
-    "time": "2026-03-20T04:45:53.000Z"
   }
 ];
