@@ -1,12 +1,147 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Congress to highlight Sabarimala, corruption charges; UDF confident of sweeping mandate in Kerala, says KPCC chief Sunny Joseph",
-    "desc": "Sunny Joseph dismisses concerns of internal dissent within the Congress over granting electoral berth to former CPI(M) leaders, says the UDF’s decision to support such leaders will strengthen the coalition; results of local body elections indicate strong anti-incumbency sentiment, he adds",
-    "img": "https://th-i.thgim.com/public/incoming/gioyr3/article70775505.ece/alternates/LANDSCAPE_1200/KPCC-president-GDHF9M9MS.3.jpg.jpg",
+    "title": "1.68 lakh cases of defacement removed in Tamil Nadu, says Election Commission",
+    "desc": "It says the statues of late leaders need not be covered, but the photographs of politically active leaders must be covered. It also issues a clarification in respect of cases wherein individuals are found carrying cash",
+    "img": "https://th-i.thgim.com/public/incoming/qtd3eh/article70757121.ece/alternates/LANDSCAPE_1200/1.68-lakh-casesG6SFNRIN5.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/congress-to-highlight-sabarimala-corruption-charges-udf-confident-of-sweeping-mandate-in-kerala-says-kpcc-chief-sunny-joseph/article70771635.ece",
-    "time": "2026-03-23T15:50:06.000Z"
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/168lakhcases-of-defacement-removed-in-tamil-nadu-says-election-commission/article70753555.ece",
+    "time": "2026-03-23T18:44:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "FIR against Pahalgam hotel for concealing stay of foreigners, mostly British",
+    "desc": "Authorities in Pahalgam have registered a case against Hotel Misty Mountains for failing to report the arrival of 23 foreign guests, including 19 British nationals. The hotel management allegedly neglected to submit the mandatory Form C, a violation of security protocols. This action follows increased scrutiny of foreign visitor regulations in the Kashmir Valley after a past terror incident.",
+    "img": "https://static.toiimg.com/photo/msid-129760864,imgsize-77590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fir-against-pahalgam-hotel-for-concealing-stay-of-foreigners-mostly-british/articleshow/129760850.cms",
+    "time": "2026-03-23T18:39:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre mulls delimitation based on 2011 Census to fast-track Women’s Reservation Act",
+    "desc": "“Under the amendments that the government wants to bring in, the basis for the selection of seats will be the Census data of 2011. The number of seats in Parliament will increase to 816, out of which 273 will be reserved for women,” a source said",
+    "img": "https://th-i.thgim.com/public/incoming/54sn6b/article70776915.ece/alternates/LANDSCAPE_1200/women%20reservation%20bill.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/govt-revs-up-consultations-on-early-implementation-of-womens-reservation-act/article70776010.ece",
+    "time": "2026-03-23T18:27:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL too good an opportunity to pass up",
+    "desc": "The Indian domestic T20 tournament is in a league of its own, so it’s no surprise that players like Muzarabani and Shanaka have made last-minute shifts from the PSL; there will be no satisfactory conclusion to the debate of whether making such late moves is morally right",
+    "img": "https://th-i.thgim.com/public/incoming/k98z7i/article70777094.ece/alternates/LANDSCAPE_1200/DSC_5475.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-too-good-an-opportunity-to-pass-up/article70777087.ece",
+    "time": "2026-03-23T18:16:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP seal on Election Commission of India letter sparks row in State",
+    "desc": "CPI(M) asks whether seals are being casually swapped and all pretences are being dropped. Office of CEO, Kerala, says the 2019 letter, on which the BJP had affixed a seal when its functionaries approached the CEO’s office for clarification, was distributed recently by oversight",
+    "img": "https://th-i.thgim.com/public/news/national/jcfsg5/article70776369.ece/alternates/LANDSCAPE_1200/HEGGjkSboAAchTq.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/bjp-seal-on-election-commission-of-india-letter-sparks-row-in-kerala/article70775771.ece",
+    "time": "2026-03-23T18:15:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi congratulates Uttarakhand government on completing 4 years, CM Pushkar Singh Dhami responds",
+    "desc": "Prime Minister Narendra Modi congratulated the Chief Minister Pushkar Singh Dhami-led Uttarakhand government on completing four years in office, lauding its efforts in driving development, ensuring good governance, and promoting public welfare across the state.",
+    "img": "https://static.toiimg.com/photo/msid-129759464,imgsize-114698.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-congratulates-uttarakhand-government-on-completing-4-years-cm-pushkar-singh-dhami-responds/articleshow/129759379.cms",
+    "time": "2026-03-23T17:49:58.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Path ahead for Nepal’s new leadership",
+    "desc": "After securing a historic mandate in Nepal’s polls, Balendra Shah and the RSP face the task of navigating the West Asia conflict and managing ties with India, China and the U.S. While capitalising on old-guard fatigue proved an effective electoral strategy, the new leadership now faces a test in international relations",
+    "img": "https://th-i.thgim.com/public/incoming/nn7c9h/article70777013.ece/alternates/LANDSCAPE_1200/AFP_A33N6CT.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/path-ahead-for-nepals-new-leadership/article70776990.ece",
+    "time": "2026-03-23T17:26:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Burnt in Ashes, but no clean-up: ECB decides against sacking Stokes &amp; McCullum",
+    "desc": "The review, which was announced soon after the final Test in January, was completed on Monday. ECB chief executive Richard Gould said removing individuals would have been the easier option but the board has chosen not to take that route.",
+    "img": "https://static.toiimg.com/photo/msid-129758474,imgsize-38320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ashes/burnt-in-the-ashes-but-no-clean-up-ecb-decides-against-sacking-ben-stokes-and-mccullum/articleshow/129758356.cms",
+    "time": "2026-03-23T17:25:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He is like a teacher': Mayank Yadav reveals Bumrah’s role in injury comeback",
+    "desc": "Fast bowler Mayank Yadav has transformed his fitness and recovery approach after surgery, previously neglecting his body. Now, he prioritizes recovery, nutrition, and sleep, inspired by Jasprit Bumrah's guidance. Yadav, who recorded the fastest Indian delivery in IPL 2024, discovered his pace talent early and was inspired by Morne Morkel and Dale Steyn.",
+    "img": "https://static.toiimg.com/photo/msid-129758400,imgsize-1184089.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/he-is-like-a-teacher-mayank-yadav-reveals-bumrahs-role-in-injury-comeback/articleshow/129758325.cms",
+    "time": "2026-03-23T17:23:32.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "As conflicts intensify in Sudan and South Sudan, fleeing civilians are caught within closed borders",
+    "desc": "While the conflict between SAF and RSF in Sudan have only intensified, South Sudan is on the verge of civil war with the government forces and the opposition forces fighting for control. In both countries, the conflicts have now become a regional emergency marked by mass killings, fragmentation of territory, and international complicity.",
+    "img": "https://th-i.thgim.com/public/incoming/zc4y8o/article70776999.ece/alternates/LANDSCAPE_1200/2026-02-23T131954Z_1073126371_RC2J1IAAUS69_RTRMADP_3_CHAD-SECURITY-SUDAN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/as-conflicts-intensify-in-sudan-and-south-sudan-fleeing-civilians-are-caught-within-closed-borders/article70775877.ece",
+    "time": "2026-03-23T17:08:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CPI (M) accepts five-seat offer, signs pact with DMK",
+    "desc": "The CPI (M), which was allotted six seats in the last Assembly elections in the same alliance, sought double-digit seats from the DMK but was denied due to the entry of more parties in the alliance",
+    "img": "https://th-i.thgim.com/public/incoming/zh6i76/article70776717.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-23%20at%209.07.05%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-cpi-m-accepts-five-seat-offer-signs-pact-with-dmk/article70776711.ece",
+    "time": "2026-03-23T16:57:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Self-boasts, silence on US’: Congress attacks PM Modi over West Asia remarks",
+    "desc": "Rahul Gandhi accused Prime Minister Narendra Modi of being 'compromised' and controlled by US President Donald Trump, criticizing his speech on the West Asia conflict. Gandhi also voiced concerns over a trade deal he claims will harm Indian farmers and alleged the BJP-RSS are undermining tribal rights by promoting the term 'Vanvasi'.",
+    "img": "https://static.toiimg.com/photo/msid-129757982,imgsize-32482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/self-boasts-silence-on-us-congress-attacks-pm-modi-over-west-asia-remarks/articleshow/129757130.cms",
+    "time": "2026-03-23T16:48:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Union Minister Ashwini Vaishnaw unveils three new initiatives to promote ‘orange economy’",
+    "desc": "The three initiatives in the creative economy are the National AI Skilling Initiative in partnership with Google and YouTube; MyWAVES, a citizen creator platform on WAVES OTT; and the rollout of advanced Electronic Programme Guide (EPG) and in-built satellite tuners in television sets for enhancing access to DD Free Dish ser vices",
+    "img": "https://th-i.thgim.com/public/incoming/i7rb/article70776307.ece/alternates/LANDSCAPE_1200/20260318258L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/union-minister-ashwini-vaishnaw-unveils-three-new-initiatives-to-promote-orange-economy/article70775882.ece",
+    "time": "2026-03-23T16:43:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rahane sends strong message ahead of IPL 2026 with blazing 20-ball fifty",
+    "desc": "Kolkata Knight Riders captain Ajinkya Rahane signaled his intent for IPL 2026 with a rapid 58 off 25 balls in a practice game. Despite a tough 2025, Rahane, the team's leading scorer, expressed optimism and a positive outlook towards the upcoming season. He emphasized the importance of a strong start and consistent performance for the revamped KKR squad.",
+    "img": "https://static.toiimg.com/photo/msid-129757430,imgsize-108782.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ajinkya-rahane-sends-strong-message-ahead-of-ipl-2026-with-blazing-20-ball-fifty/articleshow/129757436.cms",
+    "time": "2026-03-23T16:27:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Plea seeks ban on Dhurandhar 2 in Tamil Nadu ahead of elections",
+    "desc": "The Revenge has landed in fresh controversy even as it continues its dream run at the box office. An urgent plea has reportedly been made before the Madras High Court seeking a ban on the film’s release in Tamil Nadu, citing concerns over the Model Code of Conduct ahead of the upcoming Assembly elections.",
+    "img": "https://static.toiimg.com/photo/msid-129757392,imgsize-53902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-faces-legal-hurdle-in-tamil-nadu-plea-seeks-ban-ahead-of-elections-as-film-smashes-box-office-records/articleshow/129757392.cms",
+    "time": "2026-03-23T16:17:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kurinjipadi voters want non-polluting, agro-based industrial boost",
+    "desc": "Minister MRK Panneerselvam is in the fray aiming for a hat-trick in Kurinjipadi. The DMK-led Democratic Progressive Alliance needs to be aware that the Tamizhaga Vazhvurimai Katchi headed by T. Velmurugan and now delinked from the DMK-led alliance, is capable of eating into the votes of the DMK in areas like Kurinjipadi and Kullanchavadi where it has significant presence",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/kurinjipadi-voters-want-non-polluting-agro-based-industrial-boost/article70774721.ece",
+    "time": "2026-03-23T16:16:43.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +150,43 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/5uqovq/article70776619.ece/alternates/LANDSCAPE_1200/20260320447L.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-university-pitches-for-dropping-jinnah-and-iqbal-from-syllabus-nc-pdp-oppose-move/article70776148.ece",
-    "time": "2026-03-23T15:37:02.000Z"
+    "time": "2026-03-23T16:14:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Wall Street jumps as Trump delays Iran strikes; oil prices retreat",
+    "desc": "Global markets surged Monday as President Trump announced talks with Iran and a delay in planned strikes, easing fears of Middle East conflict. US stocks rallied significantly, oil prices tumbled, and European markets reversed earlier losses. However, Iran challenged the negotiation claims, casting a shadow of uncertainty over the de-escalation.",
+    "img": "https://static.toiimg.com/photo/msid-129757292,imgsize-98566.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-23-march-2026-wall-street-jumps-as-donald-trump-delays-iran-strikes-oil-prices-retreat/articleshow/129756850.cms",
+    "time": "2026-03-23T16:07:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP hails PM’s milestone of 8,931 days in public office",
+    "desc": "Union Minister Shivraj Singh Chouhan, at a press conference, expresses gratitude to PM Narendra Modi for India’s powerful representation in the changing global landscape, stating that Mr. Modi has taken the country to new heights",
+    "img": "https://th-i.thgim.com/public/incoming/i5qqo0/article70776779.ece/alternates/LANDSCAPE_1200/PTI03_23_2026_000182B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bjp-hails-pms-milestone-of-8931-days-in-public-office/article70776463.ece",
+    "time": "2026-03-23T16:06:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Temple visits not a bad thing': Axar Patel shares insight into team India culture",
+    "desc": "Indian cricketer Axar Patel revealed the team's temple visits during major tournaments are often for convenience and security. He also reiterated his strong disapproval of the Impact Player rule, stating it negatively affects all-rounders like himself by reducing the need for multi-skilled players. Patel's views echo those of other senior players.",
+    "img": "https://static.toiimg.com/photo/msid-129756570,imgsize-144440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/temple-visits-not-a-bad-thing-axar-patel-shares-insight-into-team-india-culture/articleshow/129756529.cms",
+    "time": "2026-03-23T15:49:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold prices crash! US-Iran war wipes out $9 trillion yellow metal market cap",
+    "desc": "In times of geopolitical uncertainties, gold is the go to investment - it’s a time-tested safe haven that investors rush to. Then why are gold prices plunging amidst the ongoing war? Does this mean that gold’s safe haven appeal is fading?",
+    "img": "https://static.toiimg.com/photo/msid-129756599,imgsize-135702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-prices-crash-us-iran-war-wipes-out-9-trillion-yellow-metal-market-cap-why-is-gold-falling-is-it-losing-safe-haven-appeal/articleshow/129756525.cms",
+    "time": "2026-03-23T15:45:14.000Z"
   },
   {
     "cat": "Business",
@@ -70,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-irrfan-khan-made-global-dreams-feel-possible-tia-bajpai-on-her-return-with-international-projects-after-a-3-year-break-exclusive/articleshow/129755942.cms",
     "time": "2026-03-23T15:02:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP seal on Election Commission of India letter sparks row in State",
-    "desc": "CPI(M) asks whether seals are being casually swapped and all pretences are being dropped. Office of CEO, Kerala, says the 2019 letter, on which the BJP had affixed a seal when its functionaries approached the CEO’s office for clarification, was distributed recently by oversight",
-    "img": "https://th-i.thgim.com/public/news/national/jcfsg5/article70776369.ece/alternates/LANDSCAPE_1200/HEGGjkSboAAchTq.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/bjp-seal-on-election-commission-of-india-letter-sparks-row-in-kerala/article70775771.ece",
-    "time": "2026-03-23T14:47:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -280,15 +442,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Tovino Thomas 's'Pallichattambi' teaser unveils intense period world",
-    "desc": "The teaser for Tovino Thomas's period drama thriller 'Pallichattambi' has been released, showcasing a visually striking 1950s-60s world with intense drama. Directed by Dijo Jose Antony, the film features a strong supporting cast and music by Jakes Bejoy, promising a gripping cinematic experience. 'Pallichattambi' is set to release worldwide on April 10 in five languages.",
-    "img": "https://static.toiimg.com/photo/msid-129751436,imgsize-61042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pallichattambi-teaser-tovino-thomas-starrer-unveils-intense-period-world-with-striking-visuals-vows-a-gripping-thriller/articleshow/129751436.cms",
-    "time": "2026-03-23T11:47:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Kangana Ranaut meets PM Narendra Modi on her birthday",
     "desc": "Kangana Ranaut marked turning 40 with an unforgettable meeting with Prime Minister Narendra Modi, joined by her family. Expressing heartfelt thanks on Instagram, she cherishes the wisdom he shared. Following her role in 'Emergency', the actress is enthusiastically diving into her next project, 'Bharat Bhagya Viddhatha', honoring the courageous nurses from the 2008 Mumbai terror attacks. Read on to know more.",
     "img": "https://static.toiimg.com/photo/msid-129751399,imgsize-190516.cms",
@@ -342,15 +495,6 @@ const newsData_en = [
     "time": "2026-03-23T11:11:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "?Are Nicole Kidman and Simon Baker dating?",
-    "desc": "At the recent 'Scarpetta' premiere, the chemistry between Nicole Kidman and Simon Baker prompted a buzz of romance rumors. Despite the palpable spark of their cinematic partnership, insiders are quick to dismiss notions of love, asserting that their relationship is rooted in a long-standing friendship.",
-    "img": "https://static.toiimg.com/photo/msid-129750535,imgsize-82856.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/are-nicole-kidman-and-simon-baker-dating-inside-the-scarpetta-co-stars-rumored-romance/articleshow/129750421.cms",
-    "time": "2026-03-23T11:10:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Everyone knows how he became captain': Ex-India captain's cryptic dig at Riyan Parag",
     "desc": "Former India captain Krishnamachari Srikkanth has raised questions about Riyan Parag's appointment as Rajasthan Royals captain for IPL 2026. Srikkanth suggests Parag receives preferential treatment within the franchise. He noted Parag's inconsistent performance last season. The Royals' chances for the upcoming season are seen as unpredictable. Their top order has the potential to win matches.",
@@ -367,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/hormuz-blocked-yanbu-rises-saudis-inland-pipeline-keeps-oil-flowing/articleshow/129749864.cms",
     "time": "2026-03-23T10:53:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ajay reunites with Rohit Jugraj for epic horror flick",
-    "desc": "Ajay Devgn teams with Rohit Jugraj (Sardaarji fame) for Kumar Mangat's high-concept horror, post-Bhoot (2003). London shoot in July; title soon. Atmospheric plot, ensemble cast underway. Meanwhile, filming Golmaal 5 with Akshay in Mumbai for 2027 release.",
-    "img": "https://static.toiimg.com/photo/msid-129749842,imgsize-17864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgn-reunites-with-sardaarji-director-rohit-jugraj-for-epic-horror-flick-july-shoot-ahead/articleshow/129749842.cms",
-    "time": "2026-03-23T10:43:11.000Z"
   },
   {
     "cat": "Business",
@@ -397,7 +532,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "NDA finalises seat sharing, BJP gets 27, PMK 18, AMMK 11; AIADMK to contest on rest",
+    "title": "AIADMK allots 27 seats to BJP, 18 to PMK nd 11 to AMMK",
     "desc": "The NDA has finalized its seat-sharing for the Tamil Nadu Assembly elections, allocating 27 seats to the BJP, 18 to the PMK, and 11 to the AMMK. BJP leader Piyush Goyal expressed confidence that the alliance will sweep Tamil Nadu and Puducherry, projecting Edappadi K Palaniswami as the Chief Ministerial face.",
     "img": "https://static.toiimg.com/photo/msid-129749075,imgsize-21262.cms",
     "src": "indiatimes.com",
@@ -433,15 +568,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "For breaking Kohli's record, Pakistan batter named ICC Player of the Month",
-    "desc": "Pakistan's Sahibzada Farhan has been crowned ICC Men's Player of the Month for February 2026 after smashing Virat Kohli's T20 World Cup record with 383 runs. India's Arundhati Reddy also earned the Women's Player of the Month award for her stellar bowling performance in Australia. Both players expressed immense pride in their achievements.",
-    "img": "https://static.toiimg.com/photo/msid-129747968,imgsize-71186.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/for-breaking-virat-kohlis-record-pakistan-batter-named-icc-player-of-the-month/articleshow/129747789.cms",
-    "time": "2026-03-23T09:20:11.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Jitesh smokes 81 off 37; Virat strikes at 241 in RCB warm-up",
     "desc": "Defending champions Royal Challengers Bengaluru held their first warm-up game for IPL 2026, with Virat Kohli showing good form. Jitesh Sharma starred with a blistering 81, while Rajat Patidar sealed the win for Team Krunal. RCB begin their title defence against Sunrisers Hyderabad on March 28, facing player unavailability.",
     "img": "https://static.toiimg.com/photo/msid-129747809,imgsize-35108.cms",
@@ -466,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-nears-94-mark-vs-usd-middle-east-tensions-drag-currency-to-new-low-whats-next/articleshow/129744087.cms",
     "time": "2026-03-23T09:03:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'No update' on Starc, DC's Axar says 'no temptation to replace' the pacer",
-    "desc": "Delhi Capitals are awaiting Cricket Australia's clearance for pace spearhead Mitchell Starc's participation in IPL 2026. While coach Hemang Badani confirmed no official update, captain Axar Patel and Director of Cricket Venugopal Rao expressed optimism about his eventual arrival. Starc, 36, is expected to miss initial matches due to workload management.",
-    "img": "https://static.toiimg.com/photo/msid-129747423,imgsize-136688.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-no-update-on-starc-dcs-axar-says-no-temptation-to-replace-the-pacer/articleshow/129747264.cms",
-    "time": "2026-03-23T08:46:00.000Z"
   },
   {
     "cat": "Sports",
@@ -522,33 +639,6 @@ const newsData_en = [
     "time": "2026-03-23T06:05:26.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Markets trade in red amid Middle East standoff; Kospi down 6%, Nikkei sheds 1,800 points",
-    "desc": "Asian markets experienced a significant sell-off, with South Korea's Kospi plunging 6%, as fears of a deepening energy crisis gripped investors. Geopolitical tensions, particularly concerning the Strait of Hormuz and potential US-Iran conflict, fueled the market panic. Investors fled technology and consumption sectors, while energy-linked stocks saw inflows amid concerns over global supply chains and rising oil prices.",
-    "img": "https://static.toiimg.com/photo/msid-129744285,imgsize-2743385.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-march-23-2026-markets-trade-in-red-amid-middle-east-standoff-kospi-down-6-nikkei-sheds-1800-points/articleshow/129743842.cms",
-    "time": "2026-03-23T06:03:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Yellow metal registers worst weekly fall in 40 years, what should investors do?",
-    "desc": "Gold prices have plummeted to their steepest weekly fall in nearly four decades, dropping significantly from recent highs. Despite Middle East tensions, the precious metal's safe-haven appeal has waned, with broader financial factors now dominating. Analysts suggest current lower prices could offer opportunities for long-term investors, though short-term volatility persists.",
-    "img": "https://static.toiimg.com/photo/msid-129743827,imgsize-149784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/gold-prices-crash-march-23-2026-yellow-metal-registers-worst-weekly-fall-in-40-years-what-should-investors-do/articleshow/129743153.cms",
-    "time": "2026-03-23T05:39:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dhoni to play for CSK till 60! His 'I can try' reply sends fans into frenzy",
-    "desc": "Fans eagerly await MS Dhoni's IPL future, with many hoping he continues beyond 2026. When questioned about retirement, the former CSK captain offered a subtle hint, stating, \"It is very difficult. It is on the way down, not on the way up. But I will try,\" sparking thunderous applause from the excited crowd.",
-    "img": "https://static.toiimg.com/photo/msid-129743598,imgsize-39382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/dhoni-to-play-for-csk-till-60-his-i-can-try-reply-sends-fans-into-frenzy-watch/articleshow/129743533.cms",
-    "time": "2026-03-23T05:19:14.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Mob attacks Kuki Zo Council chairman's residence in Churachandpur, blank fire reported",
     "desc": "Tension flared in Churachandpur as a mob attempted to storm the residence of Kuki Zo Council chairman H Thanglet. Protesters, alleging militants were present, first pelted stones and tried to force entry, prompting tear gas deployment. Later, armed individuals fired blank shots to deter a renewed attempt to breach the property, while separate tyre-burning protests were also dispersed.",
@@ -556,24 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/manipur-mob-attacks-kuki-zo-council-chairmans-residence-in-churachandpur-blank-fire-reported/articleshow/129743556.cms",
     "time": "2026-03-23T05:14:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What made Kuldeep Yadav emotional? Spinner's candid revelation at TOISA 2025",
-    "desc": "Kuldeep Yadav reflects on India's consecutive T20 World Cup triumphs, calling it an incredible feeling. He highlights his father's encouragement as his career's biggest moment and was moved by Sanju Samson's crucial World Cup knock. Yadav is focused on taking wickets for Delhi Capitals in the IPL and gradually preparing for the ODI World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-129743424,imgsize-8910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-made-kuldeep-yadav-emotional-spinners-candid-revelation-at-toisa-2025/articleshow/129743331.cms",
-    "time": "2026-03-23T05:05:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When Sachin said no but Dada said, ‘Let’s go’",
-    "desc": "BCCI vice-president Rajeev Shukla revealed that Sourav Ganguly's iconic T-shirt twirl at Lord's in 2002 was initially intended as a team celebration. However, Sachin Tendulkar advised against it, deeming it inappropriate. Ganguly proceeded alone, creating a memorable cricketing moment after India's NatWest Trophy win.",
-    "img": "https://static.toiimg.com/photo/msid-129743150,imgsize-68516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/when-sachin-said-no-but-dada-said-lets-go-the-story-of-lords-t-shirt-celebration/articleshow/129743135.cms",
-    "time": "2026-03-23T04:46:26.000Z"
   },
   {
     "cat": "Business",
@@ -610,42 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/cafe-3-0-rollout-penalty-recovery-for-carmakers-remains-a-grey-area/articleshow/129740600.cms",
     "time": "2026-03-22T22:58:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kilometrage allowance hiked by 25% for train crew",
-    "desc": "Indian Railways has boosted Kilometrage Allowance and Allowance in lieu of Kilometrage by 25% for over two lakh running staff, effective January 2024. This decision aligns compensation with the 50% Dearness Allowance hike, addressing long-standing demands for better financial benefits for essential operational personnel.",
-    "img": "https://static.toiimg.com/photo/msid-129740596,imgsize-949570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kilometrage-allowance-hiked-by-25-for-train-crew/articleshow/129740589.cms",
-    "time": "2026-03-22T22:51:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Maoist endgame nears, but no political fanfare in offing",
-    "desc": "The March 31 deadline for eliminating Left-wing extremism may pass without fanfare, having successfully created a psychological impetus for stakeholders. This pressure led to the neutralization or surrender of most CPI(Maoist) leadership, fracturing the group and pushing remaining members towards surrender.",
-    "img": "https://static.toiimg.com/photo/msid-129740572,imgsize-63428.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/maoist-endgame-nears-but-no-political-fanfare-in-offing/articleshow/129740567.cms",
-    "time": "2026-03-22T22:41:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC judge",
-    "desc": "Supreme Court's Justice Vikram Nath asserted AI can aid judicial processes but won't replace judges' core judgment-writing role. He highlighted AI's limitations in complex cases like matrimonial disputes and constitutional matters. Other judges echoed concerns about AI's potential for bias and the need for human conscience in justice delivery, emphasizing its role as a facilitator, not a substitute.",
-    "img": "https://static.toiimg.com/photo/msid-129740563,imgsize-660625.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ai-can-never-perform-core-job-of-judgment-writing-sc-judge/articleshow/129740550.cms",
-    "time": "2026-03-22T22:37:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Few women get past collegium's subjective assessment: SC judge",
-    "desc": "Supreme Court Justice Ujjal Bhuyan highlighted a stark gender disparity in higher judicial appointments, noting women excel in lower judicial services but are underrepresented in High Courts and the Supreme Court due to subjective collegium criteria. He stressed the need for greater gender parity for India to achieve developed nation status by 2047.",
-    "img": "https://static.toiimg.com/photo/msid-129740499,imgsize-1304329.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/few-women-get-past-collegiums-subjective-assessment-sc-judge/articleshow/129740461.cms",
-    "time": "2026-03-22T22:33:46.000Z"
   },
   {
     "cat": "Sports",
@@ -774,15 +810,6 @@ const newsData_en = [
     "time": "2026-03-21T17:53:02.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump eases oil sanctions on Iran, says Hormuz should be guarded by other nations",
-    "desc": "U.S. lifts sanctions on Iranian oil already loaded onto ships to increase the supply of oil and ease rocketing prices; Mr. Trump says U.S. is very close to meeting its objectives as Iran continues attacks on U.S. bases in the Gulf",
-    "img": "https://th-i.thgim.com/public/incoming/brmffi/article70767401.ece/alternates/LANDSCAPE_1200/2026-03-20T221336Z_839893080_RC2M8KA90RWV_RTRMADP_3_USA-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-says-considering-winding-down-iran-war-but-rules-out-ceasefire/article70767398.ece",
-    "time": "2026-03-21T17:25:07.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Engineers will be better off with emerging new roles due to AI, say panelists at webinar",
     "desc": "The webinar, jointly presented by Vellore Institute of Technology, Vellore and The Hindu Education Plus as part of their career path series, provided insights into emerging engineering domains, skills sought by industry, and how aspiring engineers can make themselves future-ready",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/teenagers-sue-musks-xai-claiming-image-generator-made-sexually-explicit-images-of-them-as-minors/article70764255.ece",
     "time": "2026-03-20T04:45:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Lloyds List",
-    "desc": "The maritime data company has reported that nine ships have exited through Iran’s corridor in Strait of Hormuz; reliable sources in India, meanwhile, said that with the situation in West Asia escalating further, Indian ships stuck in the strait for more than two weeks have been asked to ‘stay put’ for now after Israeli strikes on Iran’s largest gas fields",
-    "img": "https://th-i.thgim.com/public/incoming/rhr91x/article70763062.ece/alternates/LANDSCAPE_1200/Emirates_Iran_War_43469.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/iran-creating-corridor-for-safe-exit-of-india-bound-ships-lloyds-list/article70762901.ece",
-    "time": "2026-03-19T20:50:48.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
   }
 ];

@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Batting top-class, what about bowling? CSK's best Playing XI for IPL 2026",
+    "desc": "Chennai Super Kings will look to revive themselves from the 2025 horror, where they finished at the bottom in the 10-team event. The Super Kings had one of the most terrible IPL seasons as they...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/batting-top-class-what-about-bowling-csks-best-playing-xi-for-ipl-2026-2026-03-24-1034826",
+    "time": "2026-03-23T18:38:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England decide to stick with Stokes, McCullum and Key despite Ashes humiliation",
+    "desc": "England have decided to stay with their top personnel despite the 4-1 Ashes humbling to Australia Down Under. The England and Wales Cricket Board launched a review within hours after England's series loss, and it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-decide-to-stick-with-stokes-mccullum-and-key-despite-ashes-humiliation-2026-03-23-1034824",
+    "time": "2026-03-23T17:58:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCB announces new selection panel, former-captain Habibul Bashar named chairman",
+    "desc": "The Bangladesh Cricket Board (BCB) has announced a new national selection panel, appointing former captain Kazi Habibul Bashar as the Chairman. The 53-year-old Bashar brings a strong experience behind him as he has served as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcb-announces-new-selection-panel-former-captain-habibul-bashar-named-chairman-2026-03-23-1034821",
+    "time": "2026-03-23T16:50:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RR coach and director Kumar Sangakkara",
+    "desc": "Rajasthan Royals' head coach and team director Kumar Sangakkara has highlighted that Sam Curran's absence from the Indian Premier League 2026 is a loss for them, as he pointed out the quality that he brings...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/disappointed-to-lose-sam-curran-for-ipl-2026-rr-coach-and-director-kumar-sangakkara-2026-03-23-1034819",
+    "time": "2026-03-23T16:02:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "If Shreyas Iyer wins T20 World Cup as captain, he will not need leadership endorsement, says Aakash Chopra",
     "desc": "Former Indian cricketer Aakash Chopra has stated that if Shreyas Iyer goes on to win the T20 World Cup as captain for India in 2028, he would not need any endorsement for leadership from anyone....",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/arsenal-head-coach-mikel-arteta-opens-up-after-heartbreaking-efl-cup-final-loss-2026-03-23-1034777",
     "time": "2026-03-23T09:16:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where will KL Rahul bat for Delhi Capitals in IPL 2026? Captain Axar Patel reveals",
-    "desc": "The IPL (Indian Premier League) 2026 season is all set to kick off on March 28, and ahead of the season, the 10 franchises are gearing up to put in their best performances in hopes...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-will-kl-rahul-bat-for-delhi-capitals-in-ipl-2026-captain-axar-patel-reveals-2026-03-23-1034768",
-    "time": "2026-03-23T08:29:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026's injury crisis: Check full list of injured and unavailable players ahead of new season",
-    "desc": "Injury crisis plagues the IPL (Indian Premier League) 2026 season, with the 19th edition of the marquee tournament all set to kick off on March 28; there have been a ton of players who will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-s-injury-crisis-check-full-list-of-injured-and-unavailable-players-ahead-of-new-season-2026-03-23-1034761",
-    "time": "2026-03-23T07:31:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL fan parks to be hosted across 15 cities for the first phase of the tournament",
-    "desc": "With the IPL (Indian Premier League) 2026 all set to kick off on March 28, the fans will be heavily anticipating the start of the tournament, as they will be looking to see their favourite...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-fan-parks-to-be-hosted-across-15-cities-for-the-first-phase-of-the-tournament-2026-03-23-1034746",
-    "time": "2026-03-23T05:45:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Starting from scratch is not easy': Irfan Pathan dissects Delhi Capitals' failure to win IPL title",
-    "desc": "The IPL (Indian Premier League) 2026 is all set to kick off on March 28. The 19th edition of the tournament will see the 10 franchises putting in their best efforts in hopes of getting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/starting-from-scratch-is-not-easy-irfan-pathan-dissects-delhi-capitals-failure-to-win-ipl-title-2026-03-23-1034737",
-    "time": "2026-03-23T05:03:37.000Z"
   }
 ];
