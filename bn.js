@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "লক্ষ টাকার চাকরি ছেড়ে ১০ হাজারে শুরু, রণবীর-হৃতিকের ট্রেনার থেকে অভিনেতা; ডিসলেক্সিয়া জয়ী মুস্তাফার 'ধুরন্ধর' সফর",
+    "desc": "বিখ্যাত ফিটনেস ট্রেনার থেকে অভিনেতা হয়ে ওঠার এক অনন্য রূপকথার নাম মুস্তাফা আহমেদ। বর্তমানে রণবীর সিং অভিনীত 'ধুরন্ধর: দ্য রিভেঞ্জ' ছবিতে 'রিজওয়ান' চরিত্রে তাঁর অভিনয় প্রশংসিত হচ্ছে। তবে এই সাফল্যের পেছনে রয়েছে এক কঠিন লড়াইয়ের গল্প।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/mustafa-ahmed-gym-trainer-to-actor-ranveer-singh-dhurandhar_645922.html ",
+    "time": "2026-03-23T13:13:41.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "অসুস্থ সদ্যোজাতকে দেখভালেও নেই ছাড়: WFH না মেলায় মা এলেন অফিসে, মারা গেল বাচ্চা-- তারপরই ভয়ংকর",
+    "desc": "অফিস তাঁকে সাফ জানিয়ে দেওয়া হয় যে, তাঁকে অফিসেই আসতে হবে, অন্যথায় তাঁর চাকরি থাকবে না। অভাবের সংসার এবং চাকরির প্রয়োজনে বাধ্য হয়েই অসুস্থ সন্তানকে বাড়িতে রেখে বা কোনওভাবে ম্যানেজ করে তিনি অফিসে যাতায়াত শুরু করেন",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/newborn-death-wfh-denied-company-fined-rs-210-crore-ohio-case_645921.html ",
+    "time": "2026-03-23T13:01:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'ভ্লগাররা যা শুরু করেছে, আর ভ্লগ নয়', ডিজিটাল ডিটক্সের পথে ছোটপর্দার জনপ্রিয় অভিনেত্রী",
     "desc": "ব্যক্তিগত জীবনের কঠিন লড়াইয়ের মাঝে এক সাহসী সিদ্ধান্ত নিলেন অভিনেত্রী মানসী সেনগুপ্ত। ভ্লগিংয়ের দুনিয়ায় আর নয়, এবার তিনি মন দিতে চান শুধুই কাজে। \"মানসিক অশান্তি\" এড়াতে এবং \"কুরুচিকর\" কন্টেন্ট থেকে দূরে থাকতে কেন এই পদক্ষেপ?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -79,15 +97,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/om-puri-saved-naseeruddin-shah-life-from-attacker-memoir_645442.html ",
     "time": "2026-03-19T08:31:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কে এই অতনু চক্রবর্তী? চেয়ারম্যান পদ থেকে হঠাৎ ইস্তফা, ‘নীতির’ আড়ালে HDFC Bank-এ বড় সংঘাতের গন্ধ",
-    "desc": "দুই বছর ধরে জমছিল অস্বস্তি, শেষমেশ ‘values & ethics’ ইস্যুতে সরে দাঁড়ালেন প্রাক্তন আমলা। বাজারে ধাক্কা, প্রশ্ন উঠছে স্বচ্ছতা নিয়েই। ভারতের ব্যাঙ্কিং সেক্টরের অন্যতম নক্ষত্র অতনু চক্রবর্তীর পদত্যাগ ঘিরে এখন সরগরম দালালে স্ট্রিট। পেশাদার আমলা থেকে এইচডিএফসি ব্যাঙ্কের চেয়ারম্যান— তাঁর এই সফর যেমন বর্ণময় ছিল, শেষটা হলো তেমনই নাটকীয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/why-atanu-chakraborty-resigned-as-hdfc-bank-chairman-ethics-row_645435.html ",
-    "time": "2026-03-19T07:27:50.000Z"
   },
   {
     "cat": "Entertainment",

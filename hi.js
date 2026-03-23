@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "If Shreyas Iyer wins T20 World Cup as captain, he will not need leadership endorsement, says Aakash Chopra",
+    "desc": "Former Indian cricketer Aakash Chopra has stated that if Shreyas Iyer goes on to win the T20 World Cup as captain for India in 2028, he would not need any endorsement for leadership from anyone....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/if-shreyas-iyer-wins-t20-world-cup-as-captain-he-will-not-need-leadership-endorsement-says-aakash-chopra-2026-03-23-1034813",
+    "time": "2026-03-23T14:25:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Personally I don't like it'",
+    "desc": "Delhi Capitals captain Axar Patel has become the latest advocate against the IPL's Impact Player rule that was introduced in 2023. Speaking at a media briefing, Axar stated that he 'personally doesn't like' the rule,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-captain-axar-patel-not-fan-of-impact-player-rule-personally-i-dont-like-it-2026-03-23-1034807",
+    "time": "2026-03-23T13:24:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Dasun Shanaka officially named Sam Curran's replacement at Rajasthan Royals after ditching PSL for IPL 2026",
     "desc": "Sri Lanka star Dasun Shanaka has been officially named as Sam Curran's replacement at the Rajasthan Royals for the Indian Premier League 2026. The IPL body shared the announcement through a media release. \"Rajasthan Royals (RR)...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/starting-from-scratch-is-not-easy-irfan-pathan-dissects-delhi-capitals-failure-to-win-ipl-title-2026-03-23-1034737",
     "time": "2026-03-23T05:03:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand Cricket backs NZ20 as preferred domestic competition over Super Smash",
-    "desc": "In a major development for NZC (New Zealand Cricket), the board is looking to back NZ20 as its preferred domestic T20 competition. The NZC stated the same in a release on March 23; the NZC’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-cricket-backs-nz20-as-preferred-domestic-competition-over-super-smash-2026-03-23-1034733",
-    "time": "2026-03-23T04:27:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'He looks really fit': R Ashwin backs Rohit Sharma to fire on all cylinders for Mumbai Indians in IPL 2026",
-    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League). The marquee tournament will kick off on March 28 and will see the 10 franchises giving it their best shot in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/he-looks-really-fit-r-ashwin-backs-rohit-sharma-to-fire-on-all-cylinders-for-mumbai-indians-in-ipl-2026-2026-03-23-1034723",
-    "time": "2026-03-23T03:14:32.000Z"
   }
 ];

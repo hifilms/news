@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ઈરાન યુદ્ધ પર ટ્રમ્પનું સૌથી મોટું નિવેદન, આટલા સમયમાં થઈ શકે છે યુદ્ઘવિરામ, જાણો",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે એક મહત્વપૂર્ણ નિવેદન આપ્યું છે, જેમાં કહેવામાં આવ્યું છે કે ઈરાન સાથે યુદ્ધવિરામ થઈ શકે છે. સોમવારે ખાનગી ન્યુઝ ચેનલ સાથે વાત કરતા ટ્રમ્પે કહ્યું કે ઈરાન ડીલ માટે ઉત્સુક છે અને આટલા દિવસ કે તેથી ઓછા સમયમાં ડીલ થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/donald-trump-biggest-statement-on-iran-war-ceasefire-can-happen-in-this-much-time-know-469852 ",
+    "time": "2026-03-23T13:50:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કઈંક મોટું થવાનું છે? PM મોદીએ કોવિડને યાદ કરી શેના માટે તૈયાર રહેવાનું કહ્યું.. ખાસ જાણો",
+    "desc": "ઈરાન અને અમેરિકા-ઈઝરાયેલ વચ્ચે ફાટી નીકળેલા યુદ્ધના પગલે મિડલ ઈસ્ટમાં મોટું સંકટ ઊભુ થયું છે જેની અસર અન્ય દેશો ઉપર પણ પડી રહી છે. પીએમ મોદીએ આ સંકટ પર આજે લોકસભામાં સંબોધન કરી અનેક મહત્વની વાતો કરી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modi-address-on-middle-east-crisis-iran-israel-usa-war-news-in-gujarati-469797 ",
+    "time": "2026-03-23T13:39:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ધુરંધર 2 જોયા પછી, લોકો સાંભળી રહ્યા છે સની દેઓલની ફિલ્મનું આ ગીત, શું તમને પણ આવી હતી યાદ ?",
+    "desc": "ધુરંધર 2 ના ઘણા ગીતો તમને 90ના દાયકામાં પાછા લઈ જાય છે. આવા એક ગીતમાં ઘણા લોકો યુટ્યુબ પર સની દેઓલની જૂની ફિલ્મના ગીતો સાંભળે છે. જાણો કે શું તમને ફિલ્મ જોતી વખતે તે યાદ પણ આવ્યા છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/after-watching-dhurandhar-2-people-are-listening-to-this-song-from-sunny-deol-film-did-you-also-remember-it-469851 ",
+    "time": "2026-03-23T13:31:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "મિડિલ ઇસ્ટમાં શાંતિના સંકેત! ઈરાનની ધમકી બાદ &amp;#039;5 દિવસનો બ્રેક&amp;#039;, ટ્રમ્પના &amp;#039;યુ-ટર્ન&amp;#039; પાછળનું શું છે સાચું સત્ય?",
+    "desc": "મિડિલ ઇસ્ટમાં ચાલી રહેલા તણાવ વચ્ચે એક સારા સમાચાર સામે આવ્યા છે. અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે સંકેત આપ્યો છે કે, વોશિંગ્ટન અને તેહરાન વચ્ચે મધ્ય પૂર્વમાં ચાલી રહેલા સંઘર્ષને સંપૂર્ણપણે સમાપ્ત કરવા માટે 'ખૂબ જ સારી અને સાર્થક વાતચીત' શરૂ થઈ ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/signs-of-peace-in-the-middle-east-5-day-break-after-iran-threat-what-is-the-real-truth-behind-trump-u-turn-469844 ",
+    "time": "2026-03-23T13:13:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "LPG સંકટ વચ્ચે, સરકારેનો એક મોટો નિર્ણય, પહેલા આ લોકોને આપવામાં આવશે સિલિન્ડર, જાણો",
+    "desc": "દેશમાં હાલમાં LPGની તકલીફ ચાલી રહી છે, લોકોને સિલિન્ડર મળી રહ્યા નથી, ત્યારે સરકારે આ લોકો માટે મોટો નિર્ણય લીધો છે અને આ લોકોને પ્રાયોરિટીમાં ગેસ આપવાનો નિર્ણય કર્યો છે. તેથી તેમને રસોઈ બનાવવામાં કોઈ તકલીફ ન પડે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/amidst-the-lpg-crisis-a-big-decision-by-the-government-cylinders-will-be-given-to-these-people-first-know-469843 ",
+    "time": "2026-03-23T13:08:40.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "14.2 Kg સિલિન્ડરમાં મળશે માત્ર 10 કિલો ગેસ? LPG સંકટને કારણે થઈ રહ્યો છે વિચાર",
     "desc": "ઓયલ માર્કેટિંગ કંપનીઓને આશંકા છે કે અચાનક ઘટાડાથી ગ્રાહકોમાં ભ્રમ ફેલાઈ શકે છે અને વિરોધ કે રાજકીય દબાવ પણ વધી શકે છે. તેમ છતાં અધિકારીઓનું માનવું છે કે આગામી કેટલાક સપ્તાહમાં સપ્લાયની સ્થિતિ વધુ ખરાબ થઈ શકે છે, જેથી મજબૂરીમાં આ નિર્ણય લેવો પડી શકે છે.",
@@ -25,15 +70,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-ministry-of-foreign-affairs-statement-on-maritime-security-safety-in-strait-of-hormuz-469817 ",
     "time": "2026-03-23T10:32:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કઈંક મોટું થવાનું છે? PM મોદીએ કોવિડને યાદ કરી શેના માટે તૈયાર રહેવાનું કહ્યું.. ખાસ જાણો",
-    "desc": "ઈરાન અને અમેરિકા-ઈઝરાયેલ વચ્ચે ફાટી નીકળેલા યુદ્ધના પગલે મિડલ ઈસ્ટમાં મોટું સંકટ ઊભુ થયું છે જેની અસર અન્ય દેશો ઉપર પણ પડી રહી છે. પીએમ મોદીએ આ સંકટ પર આજે લોકસભામાં સંબોધન કરી અનેક મહત્વની વાતો કરી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-modi-address-on-middle-east-crisis-iran-israel-usa-war-news-in-gujarati-469797 ",
-    "time": "2026-03-23T09:42:35.000Z"
   },
   {
     "cat": "Politics",
@@ -360,15 +396,6 @@ const newsData_gu = [
     "time": "2026-03-20T17:48:57.000Z"
   },
   {
-    "cat": "Business",
-    "title": "SBIએ કરોડો ગ્રાહકોને આપી ભેટ, FD પર વ્યાજ દરોમાં કર્યો વધારો; જાણો હવે કેટલો થશે ફાયદો",
-    "desc": "પબ્લિક સેક્ટરની સૌથી મોટી બેન્ક સ્ટેટ બેન્ક ઓફ ઇન્ડિયા (SBI)એ બલ્ક ફિક્સ્ડ ડિપોઝિટ (FD) પરના વ્યાજ દરોમાં 25 બેસિસ પોઈન્ટ્સ (0.25%) સુધીનો વધારો કર્યો છે. નોંધનીય છે કે, આ વધારો 3 કરોડથી વધુના રોકાણ પર કરવામાં આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/sbi-bulk-fd-interest-rates-hiked-march-2026-senior-citizen-benefits-469450 ",
-    "time": "2026-03-20T16:38:34.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "1000 કિમી લાંબી પટ્ટીએ કેવી રીતે બગાડ્યું 3-3 દેશોનું હવામાન? કેમ પડ્યો વરસાદ, જાણો",
     "desc": "હવામાન પરિવર્તને હવામાન ચક્રને સંપૂર્ણપણે વિક્ષેપિત કરી દીધું છે. તાજેતરના એક અહેવાલમાં મુંબઈ અને કાશ્મીરમાં વધતી ગરમી અંગે ચિંતા વ્યક્ત કરવામાં આવી હતી. આ દરમિયાન, ગુરુવારે બગડેલા હવામાનમાં શુક્રવારે કોઈ સુધારો થયો નથી. આ માટે 1,000 કિલોમીટર લાંબા પટ્ટીને જવાબદાર ઠેરવવામાં આવી રહ્યો છે.",
@@ -385,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/after-lpg-there-now-a-risk-to-the-internet-if-the-cable-in-the-strait-of-hormuz-is-cut-a-major-crisis-can-arise-in-india-469404 ",
     "time": "2026-03-20T12:44:59.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "60 વર્ષ પછી શરૂ થયું ખતરનાક વર્ષ, 2026માં વિશ્વના નકશા પરથી ભૂંસાઈ જશે અનેક દેશ? જ્યોતિષીની વિશ્વયુદ્ધ અને તખ્તાપલટની મોટી ભવિષ્યવાણી",
-    "desc": "હિન્દુ નવું વર્ષ, વિક્રમ સંવત 2083, રુદ્ર સંવત્સર તરીકે ઓળખાય છે, જે શરૂ થઈ ગયું છે. રુદ્ર સંવત્સર 60 વર્ષ પછી આવ્યું છે, અને જ્યોતિષશાસ્ત્ર અનુસાર, તે સમગ્ર વિશ્વમાં પરિવર્તન લાવી શકે છે. જ્યોતિષીઓએ તેના વિશે ચિંતાજનક ભવિષ્યવાણીઓ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/dangerous-year-has-begun-after-60-years-astrologer-big-prediction-of-world-war-and-coup-469394 ",
-    "time": "2026-03-20T11:30:48.000Z"
   },
   {
     "cat": "Politics",
@@ -414,15 +432,6 @@ const newsData_gu = [
     "time": "2026-03-20T10:35:10.000Z"
   },
   {
-    "cat": "World",
-    "title": "રાતોરાત દુનિયામાંથી 1/3 હિલિયમ ગાયબ :  ભારત સહિત 12 દેશોમાં ફફડાટ, જાણો હવે કઈ વસ્તુઓના વધશે ભાવ કે બંધ થશે",
-    "desc": "ઈરાને કતરના રાસ લાફાન હિલિયમ પ્લાન્ટ પર હુમલો કરતાં આખી દુનિયા ફફડી ગઈ છે. ટેક અને મેડિકલ ઈન્ડસ્ટ્રીઝ લાઈફ સપોર્ટ પર આવી ગઈ છે. સેમસંગ, TSMC, SK Hynix જેવી ચીપ ફેક્ટરીઓ અને MRI મશીનો હવે સંકટમાં આવી ગઈ છે. ઈરાનના આ હુમલાથી દક્ષિણ કોરિયા, તાઈવાન, જાપાન, ભારત અને અમેરિકા સહિત 12 દેશો ફફડાટ છે. હવે જાણી લો કઈ પ્રોડક્ટસના વધી જશે ભાવ...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/helium-crisis-flurry-in-12-countries-including-india-know-which-items-will-become-expensive-iran-israel-us-war-469375 ",
-    "time": "2026-03-20T09:41:51.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "&amp;#039;CM મને ધમકાવે છે મારે ઘરે જવું છે પણ મને ધમકીઓ મળી રહી છે&amp;#039;, સુપ્રીમ કોર્ટ પહોંચી મહિલા રાજકારણી",
     "desc": "મહિલા તરફથી કોર્ટમાં વકીલે કહ્યું કે મને ધમકીઓ મળી રહી છે અને હું કર્ણાટકમાં પ્રવેશ કરી શકતી નથી. મારી સુરક્ષા સાથે ચેડાં કરાઈ રહ્યાં છે. એટલે હું દિલ્હીમાં રહેવા માટે મજબૂર બની છે મને વારંવાર ધમકીઓ મળી રહી છે. એક નેતા સુપ્રીમમાં પહોંચતાં કોર્ટ પણ ચોંકી ગઈ છે.",
@@ -439,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-box-office-collection-200-crore-in-2-days-dhurandhar-2-latest-news-469364 ",
     "time": "2026-03-20T07:18:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ગુજરાતમાં અત્યારે વાવાઝોડા જેવો વરસાદ કેમ? 1000 KM લાંબી આ દુર્લભ સિસ્ટમે વૈજ્ઞાનિકોને પણ ચોંકાવ્યા",
-    "desc": "ગુજરાત સહિત અનેક રાજ્યોમાં વેસ્ટર્ન ડિસ્ટર્બન્સના કારણે વરસાદી હવામાન જોવા મળ્યું છે. વેસ્ટર્ન ડિસ્ટર્બન્સ તો આવતા રહે છે પરંતુ અત્યારે જે વેસ્ટર્ન ડિસ્ટર્બન્સ જોવા મળ્યું છે તે વિશેષ છે. શું છે એ 1000 કિમી લાંબી વરસાદી પટ્ટીનું રહસ્ય? આ ઉપરાંત હવામાન વિભાગ અને અંબાલાલ શું કહે છે તે પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-is-there-storm-like-rain-in-gujarat-what-is-the-secret-behind-1000-km-long-rain-band-469361 ",
-    "time": "2026-03-20T06:23:32.000Z"
   },
   {
     "cat": "Sports",
@@ -502,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/have-you-seen-the-new-version-of-whatsapp-the-interface-changed-with-an-update-what-is-this-feature-469207 ",
     "time": "2026-03-19T07:03:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "6 મહિનાથી &amp;#039;ગંદી લત&amp;#039; નથી, ઈચ્છુ છું કે લોકો મને હીરોની જેમ જુએ- યુજવેન્દ્ર ચહલ",
-    "desc": "આઈપીએલ ટુર્નામેન્ટ હવે શરૂ થવાની તૈયારીમાં છે ત્યારે તે પહેલા પંજાબ કિંગ્સના સ્પીનર યુજવેન્દ્ર ચહલે એક એવો ખુલાસો કર્યો કે તેના ફેન્સ દંગ રહી ગયા. જો કે આ ખુલાસા સાથે ફેન્સ આનંદમાં પણ છે. જાણો એવું તે શું કહ્યું ચહલે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/yuzvendra-chahal-big-revelation-about-alcohol-before-ipl-2026-cricket-news-in-gujarati-469200 ",
-    "time": "2026-03-19T06:05:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -709,14 +700,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/actress-hansika-motwani-gets-divorced-with-sohail-kathuria-468130 ",
     "time": "2026-03-11T10:46:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "મલાઈકા અરોરા સાથે ડેટિંગની ચર્ચાઓ વચ્ચે સોરાબ બેદીનો ખુલાસો કહ્યું, &amp;#039;અમે તો જસ્ટ ફ્રેન્ડ્સ છીએ&amp;#039;",
-    "desc": "મલાઈકા અરોરાનું નામ વધુ એક વ્યક્તિ સાથે જોડાયું છે. મલાઈકાને નવો બોયફ્રેન્ડ મળ્યો છે તે વાતની ચર્ચાઓ ત્યારે તેજ થઈ જ્યારે તેનો એક વીડિયો સોશિયલ મીડિયામાં વાયરલ થયો. આ વીડિયોમાં તે સ્પ્લિટ્સવિલા 16 ફેમ સોરાબ બેદી સાથે કોઝી થતી દેખાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/malaika-arora-dating-rumors-with-sorab-bedi-dance-video-malaika-arora-sorab-bedi-went-viral-468105 ",
-    "time": "2026-03-11T09:15:56.000Z"
   }
 ];

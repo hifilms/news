@@ -1,12 +1,228 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Velachery constituency residents demand desilting of lake as flooding, infra issues remain major concerns",
-    "desc": "Velachery, which became a separate constituency in 2008, lags behind on various fronts, say residents; they are worried by the routine flooding of the area, poor road conditions, and heavy traffic congestion caused largely by encroachments",
-    "img": "https://th-i.thgim.com/public/incoming/t3x36o/article70768416.ece/alternates/LANDSCAPE_1200/LAKE%20A2.JPG",
+    "title": "Congress to highlight Sabarimala, corruption charges; UDF confident of sweeping mandate in Kerala, says KPCC chief Sunny Joseph",
+    "desc": "Sunny Joseph dismisses concerns of internal dissent within the Congress over granting electoral berth to former CPI(M) leaders, says the UDF’s decision to support such leaders will strengthen the coalition; results of local body elections indicate strong anti-incumbency sentiment, he adds",
+    "img": "https://th-i.thgim.com/public/incoming/gioyr3/article70775505.ece/alternates/LANDSCAPE_1200/KPCC-president-GDHF9M9MS.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/velachery-constituency-residents-demand-desilting-of-lake-as-flooding-infra-issues-remain-major-concerns/article70765557.ece",
-    "time": "2026-03-23T12:54:22.000Z"
+    "url": "https://www.thehindu.com/elections/kerala-assembly/congress-to-highlight-sabarimala-corruption-charges-udf-confident-of-sweeping-mandate-in-kerala-says-kpcc-chief-sunny-joseph/article70771635.ece",
+    "time": "2026-03-23T15:50:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jammu University pitches for dropping Jinnah and Iqbal from syllabus; NC, PDP oppose move",
+    "desc": "This followed protests by the Akhil Bharatiya Vidyarthi Parishad (ABVP) on Friday as they demanded that a chapter on Jinnah be dropped following which the university’s departmental affairs committee (DAC) chaired a meeting on March 22 ‘to deliberate upon the issues raised concerning the syllabi’",
+    "img": "https://th-i.thgim.com/public/incoming/5uqovq/article70776619.ece/alternates/LANDSCAPE_1200/20260320447L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-university-pitches-for-dropping-jinnah-and-iqbal-from-syllabus-nc-pdp-oppose-move/article70776148.ece",
+    "time": "2026-03-23T15:37:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee breaches 94 against dollar for first time, closes flat after recovery",
+    "desc": "The Indian rupee hit an all-time low against the dollar, breaching 94 for the first time amid Middle East tensions, significant foreign fund outflows, and soaring crude oil prices. This sharp decline, extending since the regional conflict began, has put pressure on Asia's third-largest economy, highly reliant on imported energy. The Reserve Bank of India is reportedly offering mild support.",
+    "img": "https://static.toiimg.com/photo/msid-129754390,imgsize-972724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-under-pressure-inr-breaches-94-per-dollar-mark-for-the-first-time-geopolitical-tensions-foreign-outflows-weigh-heavily/articleshow/129754128.cms",
+    "time": "2026-03-23T15:33:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 South stories of the day",
+    "desc": "The Revenge' as a game-changer, while Tovino Thomas's 'Pallichattambi' teaser captivated audiences. A Lokesh Kanagaraj film's props were mistakenly identified as real weapons, and Rishab Shetty shared a warm Tamil chat with Vijay Sethupathi. Jibin Gopinath also joined Vetrimaaran's 'Arasan'.",
+    "img": "https://static.toiimg.com/photo/msid-129756499,imgsize-197492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nagarjuna-praises-dhurandhar-the-revenge-tovino-thomass-pallichattambi-teaser-impresses-lokesh-kanagarajs-film-props-mistaken-top-5-south-stories-of-the-day/articleshow/129756499.cms",
+    "time": "2026-03-23T15:24:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Sanjay Dutt’s Rs 295 crore life: homes, cars, Dubai",
+    "desc": "Sanjay Dutt's Rs 40 crore Pali Hill residence, built on his parents' ancestral land, is a luxurious sanctuary blending family legacy with modern aesthetics. Beyond this Mumbai abode, his lifestyle is reportedly fueled by significant business ventures in Dubai, including a production house and diverse investments, contributing to his estimated Rs 295 crore net worth.",
+    "img": "https://static.toiimg.com/photo/msid-129756364,imgsize-439692.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-sanjay-dutts-rs-295-crore-lifestyle-mumbai-home-dubai-ventures-and-luxury-cars/articleshow/129756364.cms",
+    "time": "2026-03-23T15:17:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mohanlal's 'Drishyam 3' release postponed to May",
+    "desc": "Mohanlal's highly anticipated 'Drishyam 3' has been rescheduled for a worldwide release on May 21, 2026, coinciding with the superstar's birthday. The makers announced the new date after initial reports suggested a postponement due to ongoing tensions in the Gulf. The film, which concluded shooting last December, sees Mohanlal reprising his iconic role as Georgekutty.",
+    "img": "https://static.toiimg.com/photo/msid-129756445,imgsize-21100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/drishyam-3-release-postponed-to-may-21-film-to-arrive-on-mohanlals-birthday-worldwide/articleshow/129756407.cms",
+    "time": "2026-03-23T15:17:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shakira’s India gig postponed; fans express disappointment",
+    "desc": "In light of current Middle East geopolitical tensions, Shakira's much-anticipated performances set for April in Mumbai and Delhi are now on hold. The ticketing platform District emphasized that the health and safety of fans and the artist are of utmost importance. While refunds are rolling out, fans have expressed their discontent, particularly regarding non-refundable travel costs. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129756196,imgsize-106434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/shakiras-india-gig-postponed-no-new-dates-announced-yet-fans-left-disappointed/articleshow/129756196.cms",
+    "time": "2026-03-23T15:15:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "PC, Irrfan made global dreams feel possible: Tia Bajpai",
+    "desc": "From reality TV to her Bollywood debut in Haunted 3D to carving a space across music and films, Tia Bajpai has had a journey marked by reinvention. Now, after a three-year break, she returns with her international film Lilly Rose – Chapter 1 and her music project Love Mafia, where she sings in five languages. In this exclusive interview with ETimes, Tia talks about working across cultures, the challenges of being an outsider, and how artists like Priyanka Chopra and Irrfan Khan made global ambitions feel within reach.",
+    "img": "https://static.toiimg.com/photo/msid-129755942,imgsize-42654.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-irrfan-khan-made-global-dreams-feel-possible-tia-bajpai-on-her-return-with-international-projects-after-a-3-year-break-exclusive/articleshow/129755942.cms",
+    "time": "2026-03-23T15:02:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP seal on Election Commission of India letter sparks row in State",
+    "desc": "CPI(M) asks whether seals are being casually swapped and all pretences are being dropped. Office of CEO, Kerala, says the 2019 letter, on which the BJP had affixed a seal when its functionaries approached the CEO’s office for clarification, was distributed recently by oversight",
+    "img": "https://th-i.thgim.com/public/news/national/jcfsg5/article70776369.ece/alternates/LANDSCAPE_1200/HEGGjkSboAAchTq.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/bjp-seal-on-election-commission-of-india-letter-sparks-row-in-kerala/article70775771.ece",
+    "time": "2026-03-23T14:47:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harsh says 'Lucky Deepika gets to sleep next to Ranveer'",
+    "desc": "The Revenge,' Ranveer Singh's stunning performance is capturing the hearts of audiences everywhere. YouTube sensation Harsh Beniwal couldn't help but share his light-hearted envy of Deepika Padukone on social media, commending the film with his signature humor. Even director Aditya Dhar joined the fun, thanking Beniwal for his kind words. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129754923,imgsize-86574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-harsh-beniwal-says-lucky-deepika-padukone-gets-to-sleep-next-to-ranveer-singh-aditya-dhar-reacts/articleshow/129754923.cms",
+    "time": "2026-03-23T14:46:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Former AI Express CEO Aloke Singh now in IndiGo cockpit as CSO",
+    "desc": "IndiGo has appointed Aloke Singh, former Air India Express MD & CEO, as its Chief Strategy Officer. This move, by interim CEO Rahul Bhatia, signals an aggressive talent acquisition strategy. Singh's expertise in aviation strategy and operations is expected to drive IndiGo's global expansion and enhance its competitive edge in a dynamic market.",
+    "img": "https://static.toiimg.com/photo/msid-129755368,imgsize-147440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/former-ai-express-ceo-aloke-singh-now-in-indigo-cockpit-as-cso/articleshow/129755339.cms",
+    "time": "2026-03-23T14:28:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "What happened to Thalapathy Vijay's ‘Jana Nayagan’ release?",
+    "desc": "Thalapathy Vijay's final film, 'Jana Nayagan,' faces an indefinite postponement from its planned Pongal release. Censor issues, including strong political dialogues and religious sentiment concerns, along with technical glitches and Revising Committee setbacks, have led to significant delays and mounting losses for distributors and exhibitors. The makers remain silent, leaving fans in uncertainty about the film's eventual release.",
+    "img": "https://static.toiimg.com/photo/msid-129754928,imgsize-306660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/what-happened-to-the-jana-nayagan-release-thalapathy-vijays-film-faces-delays-and-uncertainty/articleshow/129754928.cms",
+    "time": "2026-03-23T14:09:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Is 'Dhurandhar 3' releasing in June this year? FACT CHECK",
+    "desc": "The Revenge,' and an intriguing viral image hints at the possibility of 'Dhurandhar 3' being in the works for June 2026. Yet, the creators have not officially commented on this speculation, with insiders suggesting the storyline is intended as a thrilling two-part saga. Read the article to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129754166,imgsize-112538.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fact-check-is-dhurandhar-3-releasing-in-june-truth-behind-viral-final-chapter-end-credit-leak/articleshow/129754166.cms",
+    "time": "2026-03-23T13:47:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Veteran journalist S Thyagarajan dies",
+    "desc": "Veteran Indian sports journalist S Thyagarajan, a renowned hockey writer, passed away at 85 after a battle with age-related ailments. He covered six Olympics and nine Asian Games during his extensive career with 'The Hindu' and 'The Indian Express'. His contributions to sports journalism and hockey were immense, leaving an irreparable loss for the fraternity.",
+    "img": "https://static.toiimg.com/photo/msid-129754586,imgsize-673953.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/veteran-journalist-s-thyagarajan-dies/articleshow/129754433.cms",
+    "time": "2026-03-23T13:45:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Wankhede tells HC he never sought Rs 25 crore bribe from SRK",
+    "desc": "The legal battle surrounding the high-profile cruise drugs case took a fresh turn on Monday, with former Sameer Wankhede telling the Bombay High Court that he neither demanded nor accepted any bribe from Bollywood superstar Shah Rukh Khan to spare his son Aryan Khan.",
+    "img": "https://static.toiimg.com/photo/msid-129754240,imgsize-75444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sameer-wankhede-tells-bombay-hc-he-never-sought-rs-25-crore-bribe-from-shah-rukh-khan-in-aryan-khan-case/articleshow/129754240.cms",
+    "time": "2026-03-23T13:40:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ravi Kishan lauds Aditya Dhar's ‘Dhurandhar’",
+    "desc": "The Revenge by Aditya Dhar opened big on March 19, thrilling with Ranveer Singh's spy saga against Pakistan terrorists. Ravi Kishan praises it \"intense, unforgettable\" on X. Stars: Arjun Rampal, Madhavan, Sanjay Dutt, Yami Gautam.",
+    "img": "https://static.toiimg.com/photo/msid-129754112,imgsize-12790.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ravi-kishan-lauds-aditya-dhars-dhurandhar-intense-compelling-and-unforgettable/articleshow/129754112.cms",
+    "time": "2026-03-23T13:30:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NDA announces seat-sharing pact: Why BJP is the real winner before Tamil Nadu poll battle",
+    "desc": "The NDA has finalized its seat-sharing for Tamil Nadu polls, with AIADMK allocating 27 seats to BJP, 18 to PMK, and 11 to AMMK. This strategic distribution aims to balance electoral gains and coalition unity. BJP's focused allocation seeks to maximize its strike rate, leveraging AIADMK's strength in a state dominated by regional parties.",
+    "img": "https://static.toiimg.com/photo/msid-129754054,imgsize-128028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nda-announces-seat-sharing-pact-why-bjp-is-the-real-winner-before-tamil-nadu-poll-battle/articleshow/129753284.cms",
+    "time": "2026-03-23T13:28:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How India, China face sizeable economic damage prospects from US-Iran war; outlook has grown more daunting",
+    "desc": "What does this latest disruption mean for the growth prospects of Asian economies that are in large part dependent on oil and energy imports. Since the start of the Middle East conflict, passage of ships through the Strait of Hormuz has been curtailed.",
+    "img": "https://static.toiimg.com/photo/msid-129754044,imgsize-132982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/fragile-footing-how-india-china-face-sizeable-economic-damage-prospects-from-us-iran-war-outlook-has-grown-more-daunting/articleshow/129753757.cms",
+    "time": "2026-03-23T13:27:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Madhoo hints at Phool Aur Kaante 2 with Ajay Devgn",
+    "desc": "Madhoo Shah and Ajay Devgn debuted in 1991's Phool Aur Kaante. Her recent IG story contrasts their then-now looks, joking \"Phool Aur Kaante 2\" possible after 33 years. The action-romance plot follows Ajay's revenge quest. Madhoo rose via Roja; Ajay now shoots Golmaal 5.",
+    "img": "https://static.toiimg.com/photo/msid-129754033,imgsize-27322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madhoo-shah-hints-at-phool-aur-kaante-2-with-ajay-devgn-in-viral-then-vs-now-clip-even-after-33-years-/articleshow/129754033.cms",
+    "time": "2026-03-23T13:26:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Top gainers and losers on NSE and BSE",
+    "desc": "Indian stock markets experienced a severe downturn Monday, mirroring a global sell-off. Escalating Middle East tensions, rising crude oil prices, consistent foreign investor withdrawals, and a record-low rupee significantly impacted investor confidence, leading to broad-based losses across major indices and sectors.",
+    "img": "https://static.toiimg.com/photo/msid-129753796,imgsize-100988.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-are-top-gainers-and-losers-on-nse-bse-on-march-23-2026-check-list/articleshow/129753612.cms",
+    "time": "2026-03-23T13:15:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shoba Chandrasekhar’s heartfelt words on Sangeetha and family go viral",
+    "desc": "Shoba Chandrasekhar's heartwarming statements about her daughter-in-law Sangeetha and grandchildren Sanjay and Sasha are resurfacing online. She shared cherished memories of their family life, including cooking together and the children's love for biryani. These recollections offer a glimpse into their personal bond, shifting focus from recent discussions to fond family moments.",
+    "img": "https://static.toiimg.com/photo/msid-129753635,imgsize-151754.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/shoba-chandrasekhars-heartfelt-words-on-sangeetha-and-family-go-viral-sanjay-and-sashas-sweet-moments-are-recalled/articleshow/129753635.cms",
+    "time": "2026-03-23T13:10:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cristiano Ronaldo breaks silence on injury with positive message to fans",
+    "desc": "Football superstar Cristiano Ronaldo has shared positive news about his recovery, stating he's improving daily after a recent hamstring injury. The Al-Nassr captain sustained the setback during a league match, leading to his omission from Portugal's upcoming friendlies. While his return timeline remains unconfirmed, fans are hopeful for his swift comeback to the pitch.",
+    "img": "https://static.toiimg.com/photo/msid-129753403,imgsize-110062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-ronaldo-breaks-silence-on-injury-with-positive-message-to-fans/articleshow/129753377.cms",
+    "time": "2026-03-23T13:07:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian sports economy crosses $2 billion mark; cricket accounts for 89%",
+    "desc": "India's sports economy has surged past $2 billion, driven by a 13.4% year-on-year increase to $2.13 billion. Cricket dominates, accounting for 89% of total receipts and a staggering Rs 16,704 crore. Emerging Sports' share has contracted to 11%, with the postponement of the Indian Super League impacting growth.",
+    "img": "https://static.toiimg.com/photo/msid-129753560,imgsize-51272.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/indian-sports-economy-crosses-2-billion-mark-cricket-accounts-for-89/articleshow/129753506.cms",
+    "time": "2026-03-23T13:03:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil price dips! Brent slips below $100 as Trump delays strike on Iranian power plants",
+    "desc": "Oil prices experienced a sharp decline as President Trump ordered a five-day halt to planned military strikes on Iranian energy infrastructure, easing fears of Middle East conflict escalation. Brent crude fell over 15%, and WTI slid significantly, reversing earlier gains driven by concerns over disrupted oil transit routes.",
+    "img": "https://static.toiimg.com/photo/msid-129753343,imgsize-44360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-dips-brent-slips-below-100-as-trump-delays-strike-on-iranian-power-plants/articleshow/129753150.cms",
+    "time": "2026-03-23T12:54:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "9 cops convicted 5 years after father, son killed in Tamil Nadu",
+    "desc": "A Tamil Nadu court convicted nine police officers for the 2020 custodial torture and deaths of father and son Jeyaraj and Beniks. The CBI investigation revealed the victims were subjected to brutal torture and evidence was destroyed to conceal the crime. The court's verdict brings a measure of justice for the victims.",
+    "img": "https://static.toiimg.com/photo/msid-129753103,imgsize-715467.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sathankulam-custodial-deaths-9-cops-convicted-5-years-after-father-son-killed-in-tamil-nadu/articleshow/129753016.cms",
+    "time": "2026-03-23T12:45:58.000Z"
   },
   {
     "cat": "Sports",
@@ -18,6 +234,15 @@ const newsData_en = [
     "time": "2026-03-23T12:34:59.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Irfan Pathan predicts this Indian player to hold SRH together",
+    "desc": "Hyderabad begin their campaign against Royal Challengers Bengaluru (RCB) at the M Chinnaswamy Stadium on March 28. While focus remains on players like Abhishek Sharma, Travis Head, Ishan Kishan, Heinrich Klaasen and Liam Livingstone, Pathan said Reddy could provide balance after a dip in form last season.",
+    "img": "https://static.toiimg.com/photo/msid-129752487,imgsize-73024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/not-kishan-or-abhishek-irfan-pathan-predicts-this-indian-player-to-hold-srh-together/articleshow/129752027.cms",
+    "time": "2026-03-23T12:34:09.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Trump declares 5-day halt on Iran infra strikes, Tehran mocks him; Sensex slumps 1,800 points and more",
     "desc": "US President Trump has paused planned strikes on Iran for five days following \"productive\" talks, a move Iran claims as a \"backing down.\" This de-escalation saw Brent crude fall sharply. Meanwhile, PM Modi highlighted the Middle East conflict's \"unprecedented challenges\" for India, as markets crashed, wiping out Rs 14 lakh crore amid surging oil prices and war fears.",
@@ -25,33 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-trump-declares-5-day-halt-on-iran-infra-strikes-tehran-mocks-him-sensex-slumps-1800-points-and-more/articleshow/129751949.cms",
     "time": "2026-03-23T12:31:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi did not say anything new, discussion on West Asia should happen in Parliament: Priyanka Gandhi",
-    "desc": "“The notice we have given for discussion should happen so that we can also reply and all sides can put forward their views. It would be good that a discussion happens in Parliament,” Ms. Gandhi said",
-    "img": "https://th-i.thgim.com/public/incoming/o40y8o/article70775318.ece/alternates/LANDSCAPE_1200/20260323136L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-did-not-say-anything-new-discussion-on-west-asia-should-happen-in-parliament-priyanka-gandhi/article70775287.ece",
-    "time": "2026-03-23T12:15:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Organisational changes are being made to reach every part of India, says Sunil Ambekar of RSS",
-    "desc": "“The core idea has always been that this is a Hindu nation, where Hindutva is understood as a way of life. This way of life is not opposed to anyone, nor is it meant to eliminate or harm others,” says Sunil Ambekar",
-    "img": "https://th-i.thgim.com/public/incoming/c6jphs/article70773222.ece/alternates/LANDSCAPE_1200/Sunil%20Ambekar%20RSS%201.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/organisational-changes-are-being-made-to-reach-every-part-of-india-says-sunil-ambekar-of-rss/article70772451.ece",
-    "time": "2026-03-23T12:10:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IRS officer Sameer Wankhede",
-    "desc": "Mr. Wankhede's counsel was arguing the Indian Revenue Service (IRS) officer’s petition seeking to quash the FIR registered against him in May 2023 by the Central Bureau of Investigation (CBI) on charges of corruption and bribery",
-    "img": "https://th-i.thgim.com/public/incoming/v1s5v9/article70775394.ece/alternates/LANDSCAPE_1200/IMG_Sameer_Wankhede_in_D_2_1_HLA57UM7.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/never-sought-bribe-from-shah-rukh-khan-to-spare-his-son-in-drugs-case-irs-officer-sameer-wankhede/article70775301.ece",
-    "time": "2026-03-23T12:05:43.000Z"
   },
   {
     "cat": "Sports",
@@ -99,6 +297,15 @@ const newsData_en = [
     "time": "2026-03-23T11:46:11.000Z"
   },
   {
+    "cat": "Tech",
+    "title": "Exploring the history and evolution of escalators",
+    "desc": "Escalators are one of those places where adults might wish to indulge their inner child and move in the opposite direction, if only society didn’t expect them to act their age. It should perhaps come as no surprise therefore that one of the first escalators ever built actually served as a ride in an amusement park! A.S.Ganesh takes you up and down with this story about escalators…",
+    "img": "https://th-i.thgim.com/public/incoming/b0f081/article70707023.ece/alternates/LANDSCAPE_1200/15istb%20escalators%2093302_box3_215.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/moving-up-and-down-while-standing-still/article70706988.ece",
+    "time": "2026-03-23T11:36:56.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'Jan-jan ki sarkar': Uttarakhand CM Dhami celebrates '4 saal bemisaal' of development and heritage",
     "desc": "Uttarakhand chief minister Pushkar Singh Dhami on Monday marked four years of his Bharatiya Janata Party (BJP) government, emphasising its guiding mantra of development as well as heritage while fulfilling the dreams of the statehood agitators and the aspirations of the state's 1.25 crore residents.",
@@ -109,39 +316,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Top 5 Hulu series, which are simply too good to miss:",
-    "desc": "Hulu is packed with sharp writing, unforgettable characters, and shows that feel dangerously bingeable. If you are scrolling late at night and want something that grabs you and does not let go, here are five series you really should not miss, complete with their runtime and key creative voices. So what are you waiting for? Just scroll down",
-    "img": "https://static.toiimg.com/photo/msid-129747042,imgsize-1099319.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/top-5-hulu-series-which-are-simply-too-good-to-miss-from-shogun-the-great-to-only-murders-in-the-building/photostory/129747042.cms",
-    "time": "2026-03-23T11:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CPI(M), Congress accuse each other of fragmenting ‘LDF-UDF duopoly’ in Kerala by aiding BJP",
-    "desc": "Chief Minister Pinarayi Vijayan accuses Congress national leadership under Rahul Gandhi of playing as BJP’s ‘B-Team’. AICC general secretary K.C. Venugopal says PM Modi and Amit Shah have found ‘a willing tool’ in Pinarayi Vijayan to attack Rahul Gandhi, who is ‘fighting a lone battle against Sangh Parivar and its corporate backers’",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/4l2vfl/article70775376.ece/alternates/LANDSCAPE_1200/Pinarayi%20Vijayan_Ramesh%20Chennithala.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-cpim-congress-accuse-each-other-of-fragmenting-ldf-udf-duopoly-in-kerala-by-aiding-bjp/article70775267.ece",
-    "time": "2026-03-23T11:25:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Jibin Gopinath joins Vetri Maaran’s 'Arasan' with a surprise entry",
     "desc": "Malayalam actor Jibin Gopinath makes a surprise debut in Vetri Maaran's 'Arasan', starring Silambarasan TR and Vijay Sethupathi. Gopinath described the opportunity as a dream come true, praising Vetri Maaran's direction and the supportive cast. He expressed excitement about his significant role alongside the lead actors in the 'Vada Chennai' universe film.",
     "img": "https://static.toiimg.com/photo/msid-129750867,imgsize-103138.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jibin-gopinath-joins-vetri-maarans-arasan-with-a-surprise-entry-the-kalamkaval-actor-calls-it-a-dream-debut/articleshow/129750867.cms",
     "time": "2026-03-23T11:22:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Two more Indian-flagged LPG tankers set to cross Strait of Hormuz",
-    "desc": "LPG tankers Pine Gas and Jag Vasant, sailing close to each other on the afternoon of March 23, were near the waters between Iran's Larak and Qeshm islands — possibly to make their identity clear to Iranian authorities before they cross the Strait",
-    "img": "https://th-i.thgim.com/public/incoming/b3j4x1/article70775334.ece/alternates/LANDSCAPE_1200/2026-03-20T143444Z_1732960580_RC2W7FAW2EUK_RTRMADP_3_IRAN-CRISIS-SHIPPING.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/two-more-indian-flagged-lpg-tankers-set-to-cross-strait-of-hormuz/article70775288.ece",
-    "time": "2026-03-23T11:18:48.000Z"
   },
   {
     "cat": "Sports",
@@ -216,22 +396,13 @@ const newsData_en = [
     "time": "2026-03-23T10:23:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside Kurt Russell and Goldie Hawn's 43-year love story",
-    "desc": "Kurt Russell and Goldie Hawn, Hollywood's quintessential pair, have chosen the path of companionship over traditional matrimony for more than 40 years. Emphasizing joy and deep-seated respect for one another, their unique relationship thrives on trust and transparency. Even without a formal marriage, they've skillfully crafted a beautiful blended family, demonstrating that genuine love doesn't hinge on a legal contract.",
-    "img": "https://static.toiimg.com/photo/msid-129748604,imgsize-124948.cms",
+    "cat": "Politics",
+    "title": "NDA finalises seat sharing, BJP gets 27, PMK 18, AMMK 11; AIADMK to contest on rest",
+    "desc": "The NDA has finalized its seat-sharing for the Tamil Nadu Assembly elections, allocating 27 seats to the BJP, 18 to the PMK, and 11 to the AMMK. BJP leader Piyush Goyal expressed confidence that the alliance will sweep Tamil Nadu and Puducherry, projecting Edappadi K Palaniswami as the Chief Ministerial face.",
+    "img": "https://static.toiimg.com/photo/msid-129749075,imgsize-21262.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/why-kurt-russell-and-goldie-hawn-never-married-inside-their-43-year-love-story/articleshow/129748528.cms",
-    "time": "2026-03-23T10:16:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tamil movies that defined the 90s era",
-    "desc": "The 1990s marked a transformative era for Tamil cinema, laying a strong foundation for its current success. This decade witnessed groundbreaking storytelling in films like 'Roja' and 'Baasha,' alongside romantic hits such as 'Kadhal Kottai' and 'Love Today.' Superstars like Ajith, Vijay, Suriya, and Vikram emerged, building legacies that continue to resonate with audiences through evergreen music and cherished narratives.",
-    "img": "https://static.toiimg.com/photo/msid-129748706,imgsize-149802.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/roja-baasha-kadhal-kottai-to-love-today-tamil-movies-that-defined-the-90s-era/articleshow/129748706.cms",
-    "time": "2026-03-23T10:08:45.000Z"
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-polls-nda-finalises-seat-sharing-bjp-gets-27-pmk-18-ammk-11/articleshow/129747266.cms",
+    "time": "2026-03-23T10:12:06.000Z"
   },
   {
     "cat": "World",
@@ -261,24 +432,6 @@ const newsData_en = [
     "time": "2026-03-23T09:46:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Lokesh Kanagaraj film shoot props mistaken for AK-47 rifles",
-    "desc": "Chennai police mistook film props for real AK-47 rifles during a vehicle check. The weapons were for a Lokesh Kanagaraj film shoot. The discovery caused brief panic but was quickly resolved. This incident has fueled speculation about a promo for Allu Arjun's upcoming film, AA23. Fans anticipate an action-packed release.",
-    "img": "https://static.toiimg.com/photo/msid-129747899,imgsize-137486.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/lokesh-kanagaraj-film-shoot-props-mistaken-for-ak-47-rifles-in-chennai-is-promo-loading-for-the-allu-arjun-starrer/articleshow/129747899.cms",
-    "time": "2026-03-23T09:20:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi’s per capita income to grow at 7.09%: Economic Survey of Delhi 2025-26",
-    "desc": "“Government of NCT of Delhi is budgeted to have a Fiscal Deficit of ₹13,703 Crore in BE 2025-26, which is mainly on the account of increase of more than double (145%) in capital expenditure over 2024-25,” the report said",
-    "img": "https://th-i.thgim.com/public/incoming/y2n48y/article70774826.ece/alternates/LANDSCAPE_1200/20260323016L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-economic-survey-2025-2026-budget-session/article70774774.ece",
-    "time": "2026-03-23T09:20:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "For breaking Kohli's record, Pakistan batter named ICC Player of the Month",
     "desc": "Pakistan's Sahibzada Farhan has been crowned ICC Men's Player of the Month for February 2026 after smashing Virat Kohli's T20 World Cup record with 383 runs. India's Arundhati Reddy also earned the Women's Player of the Month award for her stellar bowling performance in Australia. Both players expressed immense pride in their achievements.",
@@ -286,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/for-breaking-virat-kohlis-record-pakistan-batter-named-icc-player-of-the-month/articleshow/129747789.cms",
     "time": "2026-03-23T09:20:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India’s gem, jewellery sector aims to increase domestic sales by up to 15% in 2026 to offset war impact on exports",
-    "desc": "Gem and Jewellery Export Promotion Council and the industry are doing everything possible to increase domestic consumption and sales by at least 10 to 15% during 2026 in order to offset the possible impacts of the war in West Asia on exports",
-    "img": "https://th-i.thgim.com/public/incoming/jizsup/article70772801.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-22%20at%2018.50.18.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/indias-gem-jewellery-sector-aims-to-increase-domestic-sales-by-up-to-15-in-2026-to-offset-war-impact-on-exports/article70772448.ece",
-    "time": "2026-03-23T09:19:11.000Z"
   },
   {
     "cat": "Sports",
@@ -324,24 +468,6 @@ const newsData_en = [
     "time": "2026-03-23T09:03:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar's Uzair calls Ranveer 'one of the finest actors'",
-    "desc": "The Revenge', couldn't help but sing praises for his co-star, calling him one of the greatest actors of this era. Reflecting on Singh's unforgettable performances as Hamza and Jaskirat, Pandor emphasized that they were unparalleled in their depth. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129747432,imgsize-80698.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-star-danish-pandor-calls-ranveer-singh-one-of-the-finest-actors-of-this-generation/articleshow/129747432.cms",
-    "time": "2026-03-23T08:55:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "AR Rahman shares epic Dhoni meet-up video",
-    "desc": "AR Rahman shared a fun video call with MS Dhoni at CSK's ‘ROAR 2026’ pre-IPL fan fest in Chennai. Smiling together amid fireworks, captioned “Thala meets Thala.” Fans raved; ex-players joined. Rahman next composes for Mani Ratnam's ‘Production 23’ with Vijay Sethupathi, Sai Pallavi.",
-    "img": "https://static.toiimg.com/photo/msid-129747486,imgsize-51748.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/thala-meets-thala-ar-rahman-shares-epic-ms-dhoni-meet-up-video-from-csks-pre-ipl-bash/articleshow/129747486.cms",
-    "time": "2026-03-23T08:54:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'No update' on Starc, DC's Axar says 'no temptation to replace' the pacer",
     "desc": "Delhi Capitals are awaiting Cricket Australia's clearance for pace spearhead Mitchell Starc's participation in IPL 2026. While coach Hemang Badani confirmed no official update, captain Axar Patel and Director of Cricket Venugopal Rao expressed optimism about his eventual arrival. Starc, 36, is expected to miss initial matches due to workload management.",
@@ -358,42 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/gautam-gambhir-does-not-need-to-be-rude-rough-because-he-is-a-good-man-sourav-ganguly/articleshow/129747224.cms",
     "time": "2026-03-23T08:45:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tyriq Withers talks about his social media presence",
-    "desc": "Actor Tyriq Withers, known for his roles in 'Tell Me Lies' and 'Atlanta', addressed his 'chronically online' reputation at the NAACP Image Awards. He revealed his extensive social media use is primarily for research and engaging with fans.",
-    "img": "https://static.toiimg.com/photo/msid-129747225,imgsize-69328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tyriq-withers-addresses-the-chronically-online-label-god-forbid-i-do-research-god-forbid/articleshow/129747225.cms",
-    "time": "2026-03-23T08:41:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "First trailer reveals the villains",
-    "desc": "Get ready for an adventure of galactic proportions as Din Djarin and Grogu make their grand entrance in 'The Mandalorian and Grogu,' coming to theaters on May 22, 2026. This film propels their journey from mere bounty hunters to guardians of the galaxy, fending off iconic adversaries like Grand Admiral Thrawn and the haunting echoes of Moff Gideon’s reign.",
-    "img": "https://static.toiimg.com/photo/msid-129747173,imgsize-127072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-mandalorian-and-grogu-trailer-reveals-major-villains-what-we-know-about-the-star-wars-film/articleshow/129747131.cms",
-    "time": "2026-03-23T08:38:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Alan Ritchson allegedly assaulted one of his neighbours",
-    "desc": "Actor Alan Ritchson, known for his action-packed role in 'Reacher,' is at the center of controversy after an altercation with Tennessee neighbor Ronnie Taylor. Reports indicate that the clash ignited when Ritchson's motorcycle allegedly sped through the area, prompting Taylor’s outrage. A video capturing the chaotic moment has gone viral, showing Ritchson engaging in a physical confrontation.",
-    "img": "https://static.toiimg.com/photo/msid-129746539,imgsize-78804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/reacher-star-alan-ritchson-under-fire-after-alleged-video-of-him-punching-someone-goes-viral-report/articleshow/129746539.cms",
-    "time": "2026-03-23T08:37:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Coco Chanel",
-    "desc": "Coco Chanel, the trailblazing French fashion designer, changed the course of women's style by merging comfort with elegance. Starting from a background of limited means, she carved her niche by founding the esteemed Chanel brand, renowned for pioneering pieces such as the classic little black dress and the sophisticated Chanel suit.",
-    "img": "https://static.toiimg.com/photo/msid-129747084,imgsize-91228.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-coco-chanel-in-order-to-be-irreplaceable-one-must-always-be-different/articleshow/129747084.cms",
-    "time": "2026-03-23T08:35:32.000Z"
   },
   {
     "cat": "Business",
@@ -414,33 +504,6 @@ const newsData_en = [
     "time": "2026-03-23T07:55:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Orry, Bhumi, and Khushi stun in black beauty vibes",
-    "desc": "Orry, Bhumi Pednekar, and Khushi Kapoor lit up an all-black bash—pics inside! Orry's Insta shares spotlight Bhumi and Samiksha's chic looks, Khushi's cut-out vibe, and fun with pals. He teased Ananya in a hilarious reel. Khushi stars in 'Nadaaniyan' and upcoming 'Mom 2'.",
-    "img": "https://static.toiimg.com/photo/msid-129746349,imgsize-34748.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/orry-bhumi-pednekar-and-khushi-kapoor-stun-in-black-beauty-vibes-at-epic-bash-pics-inside/articleshow/129746349.cms",
-    "time": "2026-03-23T07:53:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Film eyes Rs 700 cr global gross",
-    "desc": "The Revenge,' which officially crossed the Rs. 691 crore mark in worldwide gross collections on its first Monday. As of Day 5 live tracking on March 23, 2026, the Ranveer Singh-starrer has maintained a rock-solid weekday hold. Despite a massive 229-minute runtime and an 'A' certificate, the film featuring Singh as the elite agent Jaskirat Singh Rangi alias Hamza has outperformed the opening trajectories of blockbusters like 'RRR' and 'KGF: Chapter 2.' The high-octane thriller is currently eyeing the Rs. 700 crore global milestone.",
-    "img": "https://static.toiimg.com/photo/msid-129744544,imgsize-220916.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-5-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-starrer-spy-thriller-eyes-rs-700-crore-global-gross/articleshow/129744544.cms",
-    "time": "2026-03-23T07:38:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why ‘Vishwaguru’ not advancing BRICS summit for diplomatic initiative on West Asia crisis: Congress",
-    "desc": "Congress general secretary in charge of communications, Jairam Ramesh, pointed out that the 18th annual BRICS+ Summit will take place in New Delhi under India's Presidency later this year, with Brazil, Russia, India, China, South Africa, Argentina, Egypt, Ethiopia, Saudi Arabia, Iran, and the UAE as members.",
-    "img": "https://th-i.thgim.com/public/incoming/1ouklh/article70774626.ece/alternates/LANDSCAPE_1200/20260226617L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/why-vishwaguru-not-advancing-brics-summit-for-diplomatic-initiative-on-west-asia-crisis-congress/article70774542.ece",
-    "time": "2026-03-23T07:37:09.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How much 18K, 22K and 24K gold costs in your city? Check prices in Delhi, Mumbai, Chennai &amp; more",
     "desc": "Gold futures experienced a significant sell-off, dropping by Rs 8,089 to Rs 1.36 lakh per 10 grams on Monday, mirroring global trends. This decline, attributed to inflation fears and a stronger US dollar, marks the fourth consecutive week of losses for the yellow metal. Analysts anticipate continued downward pressure amid geopolitical tensions and potential interest rate hikes.",
@@ -448,24 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-on-march-23-2026-how-much-18k-22k-and-24k-gold-costs-in-your-city-check-prices-in-delhi-mumbai-jaipur-kanpur-bangalore-kolkata/articleshow/129745389.cms",
     "time": "2026-03-23T07:15:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Khelega hi nahi': Ashwin's blunt verdict on Arjun Tendulkar at LSG",
-    "desc": "Former India cricketer Ravichandran Ashwin believes Arjun Tendulkar will face significant challenges securing a spot in the Lucknow Super Giants' playing XI due to the team's formidable pace attack. Ashwin also expressed doubt about LSG's playoff chances this season, predicting they will miss the top six.",
-    "img": "https://static.toiimg.com/photo/msid-129745194,imgsize-40542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/khelega-hi-nahi-ashwins-blunt-verdict-on-arjun-tendulkar-at-lsg/articleshow/129742177.cms",
-    "time": "2026-03-23T06:50:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson's respect-first approach for CSK legend ends with a stunning twist",
-    "desc": "Sanju Samson transitions to Chennai Super Kings for IPL 2026. He recently played a key role in India's T20 World Cup 2026 victory. Samson shared a memorable moment with MS Dhoni and Muttiah Muralitharan during a CSK event. India won their third T20 World Cup title. CSK begins their IPL 2026 season against Rajasthan Royals.",
-    "img": "https://static.toiimg.com/photo/msid-129745005,imgsize-28844.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/sanju-samsons-respect-first-approach-for-csk-legend-ends-with-a-stunning-twist-watch/articleshow/129744838.cms",
-    "time": "2026-03-23T06:41:01.000Z"
   },
   {
     "cat": "World",
@@ -532,24 +577,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "'Crisis worse than two 1970s oil shocks put together': IEA chief's big warning on Strait of Hormuz",
-    "desc": "The world faces an unprecedented energy crisis, a potent mix of oil and gas shocks, warns the International Energy Agency. With infrastructure damaged and the vital Strait of Hormuz threatened, global economic stability is at risk. The agency stresses the need for international cooperation to resolve the escalating situation and prevent widespread fuel shortages.",
-    "img": "https://static.toiimg.com/photo/msid-129742927,imgsize-133732.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/crisis-worse-than-two-1970s-oil-shocks-put-together-iea-chiefs-big-warning-on-strait-of-hormuz/articleshow/129741973.cms",
-    "time": "2026-03-23T04:32:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Currency tumbles to 93.8 against US dollar amid Middle East tensions",
-    "desc": "The Indian Rupee hit a record low against the US dollar, plummeting to 93.86 amid escalating Middle East tensions and fears of disrupted energy supplies. Crude oil prices have surged over 50% this month, exacerbating the currency's weakness. Indian stock markets also experienced a significant downturn, reflecting the global economic strain.",
-    "img": "https://static.toiimg.com/photo/msid-129742758,imgsize-2111778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-hits-record-low-currency-tumbles-to-93-8-against-us-dollar-amid-middle-east-tensions-rupee-trading-on-march-23-2026/articleshow/129742706.cms",
-    "time": "2026-03-23T04:10:49.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Why did stock market crash today? Rs 14 lakh crore wiped out! BSE Sensex ends over 1,800 points down",
     "desc": "Nifty50 and BSE Sensex plunged in opening trade on Monday with oil prices continuing to remain high amid the ongoing US-Iran war. Investor sentiment continues to weaken amid escalating tensions between Iran and the US, a falling rupee, and other global concerns.",
     "img": "https://static.toiimg.com/photo/msid-129742335,imgsize-93070.cms",
@@ -561,19 +588,10 @@ const newsData_en = [
     "cat": "Politics",
     "title": "TVK goes solo in Puducherry elections, fields candidates in all constituencies",
     "desc": "TVK has announced its candidates for all 30 Puducherry Assembly constituencies, contesting independently. The party has fielded two women candidates and included experienced leaders from other political parties, including former AIADMK and BJP members, to contest the upcoming elections.",
-    "img": "https://static.toiimg.com/photo/msid-129742348,imgsize-45392.cms",
+    "img": "https://static.toiimg.com/photo/msid-129754956,imgsize-29840.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/tvk-goes-solo-in-puducherry-polls-names-candidates-for-30-seats/articleshow/129742348.cms",
     "time": "2026-03-23T03:39:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Brent steady at $112 as Trump's ultimatum, Iran threat keep markets on edge",
-    "desc": "Oil prices remained volatile as traders reacted to escalating geopolitical tensions around the Strait of Hormuz. President Trump issued a 48-hour ultimatum to Iran to reopen the key shipping route, threatening to target its power infrastructure. Tehran responded with threats of striking critical infrastructure across the Middle East, further unsettling global markets.",
-    "img": "https://static.toiimg.com/photo/msid-129741615,imgsize-1369164.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-brent-steady-at-112-as-trumps-ultimatum-iran-threat-keep-markets-on-edge/articleshow/129741435.cms",
-    "time": "2026-03-23T02:36:01.000Z"
   },
   {
     "cat": "Politics",
@@ -628,33 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/few-women-get-past-collegiums-subjective-assessment-sc-judge/articleshow/129740461.cms",
     "time": "2026-03-22T22:33:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi is India's longest serving head of govt",
-    "desc": "Prime Minister Narendra Modi has become the longest-serving head of government, surpassing the record previously held by Pawan Kumar Chamling. This milestone marks 25 continuous years in leadership, beginning with his tenure as Gujarat Chief Minister in October 2001 and continuing as Prime Minister since May 2014.",
-    "img": "https://static.toiimg.com/photo/msid-129739401,imgsize-56060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-is-indias-longest-serving-head-of-govt/articleshow/129739205.cms",
-    "time": "2026-03-22T22:09:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CCS recognises 'significant impact' of West Asia conflict",
-    "desc": "Prime Minister Narendra Modi's cabinet committee on security discussed measures to diversify import sources for key sectors like chemicals and pharmaceuticals due to the West Asia conflict's global economic impact. The government is preparing short-, medium-, and long-term strategies to safeguard citizens and ensure the availability of essential goods like fertilizers and coal.",
-    "img": "https://static.toiimg.com/photo/msid-129738816,imgsize-115552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ccs-recognises-significant-impact-of-west-asia-conflict/articleshow/129738765.cms",
-    "time": "2026-03-22T21:43:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kotak sells stake in capital market lending arm",
-    "desc": "Kotak Mahindra Capital Company will sell nearly 31% of its stake in Infina Finance for approximately Rs 1,293.9 crore. The stake will be acquired by investors including the Rakesh Jhunjhunwala estate and other entities. This transaction will reduce KMCC's holding in the capital market lending arm to 19%.",
-    "img": "https://static.toiimg.com/photo/msid-129738559,imgsize-988701.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kotak-sells-stake-in-capital-market-lending-arm/articleshow/129738556.cms",
-    "time": "2026-03-22T20:29:06.000Z"
   },
   {
     "cat": "Sports",
@@ -891,12 +882,21 @@ const newsData_en = [
     "time": "2026-03-19T20:50:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Def Leppard’s India debut: Joe Elliot on the band’s glam-rock legacy and finally pouring some sugar on India",
-    "desc": "Nearly 50 years after a missed bus in Sheffield sparked it all, the Def Leppard frontman talks about spending three years perfecting ‘Hysteria’, the last-minute gamble that turned ‘Pour Some Sugar On Me’ into a stadium staple, and finally bringing those songs to an India that’s waited decades to hear them live",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/c4xemh/article70761267.ece/alternates/LANDSCAPE_1200/DSC09822.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/def-leppards-india-2026-joe-elliot-interview/article70761242.ece",
-    "time": "2026-03-19T10:59:23.000Z"
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
