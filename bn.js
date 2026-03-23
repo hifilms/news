@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "'ভ্লগাররা যা শুরু করেছে, আর ভ্লগ নয়', ডিজিটাল ডিটক্সের পথে ছোটপর্দার জনপ্রিয় অভিনেত্রী",
+    "desc": "ব্যক্তিগত জীবনের কঠিন লড়াইয়ের মাঝে এক সাহসী সিদ্ধান্ত নিলেন অভিনেত্রী মানসী সেনগুপ্ত। ভ্লগিংয়ের দুনিয়ায় আর নয়, এবার তিনি মন দিতে চান শুধুই কাজে। \"মানসিক অশান্তি\" এড়াতে এবং \"কুরুচিকর\" কন্টেন্ট থেকে দূরে থাকতে কেন এই পদক্ষেপ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/manosi-sengupta-quits-vlogging-divorce-announcement-social-media_645920.html ",
+    "time": "2026-03-23T12:44:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ও মরতে চায়নি: ৩০ বছর পর সামনে এল দিব্যা ভারতীর মৃত্যুর প্রত্যক্ষদর্শীর নাম, কী ঘটেছিল সেদিন?",
+    "desc": "১৯ বছর বয়স, আকাশছোঁয়া সাফল্য আর এক নিশিরাতের রহস্য! দিব্যা ভারতীর মৃত্যু নিয়ে আজও জল্পনা থামে না। \"কেউ কি ধাক্কা দিয়েছিল তাঁকে?\" এক অভিনেত্রী ফাঁস করলেন সেই রাতের অজানা সত্যি। সেদিন দিব্যার ঘরে ছিলেন জনপ্রিয় ডিজাইনারও।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/divya-bharti-death-mystery-guddi-maruti-reveals-real-reason-behind-the-fall-witnessed-by-designer-neeta-lulla_645909.html ",
+    "time": "2026-03-23T10:46:08.000Z"
+  },
+  {
     "cat": "World",
     "title": "বিমানে ৭৬ যাত্রী, রানওয়ের উপরই প্লেন ও ট্রাকের ভয়ংকর সংঘর্ষ- হাড়হিম ভিডিয়ো",
     "desc": "দুর্ঘটনার পরই সোশ্যাল মিডিয়ায় ছড়িয়ে পড়ে বেশ কয়েকটি ভিডিয়ো। বিমানটিতে ছিলেন প্রায় ৭২ জন যাত্রী এবং ৪ জন ক্রু সদস্য। দুর্ঘটনার পরই জরুরি পরিস্থিতির কারণে নিউ ইয়র্কের ওই বিমানবন্দরে সব ফ্লাইট ওঠানামা বন্ধ করে দেওয়া হয়েছে।",
@@ -106,14 +124,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/jeetu-kamal-removed-from-erao-manush-film-director-controversy_645186.html ",
     "time": "2026-03-17T09:32:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "অস্কারের মঞ্চে ট্রাম্পকে ‘ধুয়ে দিলেন’ কোনান, এপস্টিন কাণ্ড টেনে বিস্ফোরক মন্তব্য: ভাইরাল ভিডিও",
-    "desc": "হাসির তোপে বিঁধলেন পাওয়ারকে! অস্কার ২০২৬-এর মঞ্চে সঞ্চালক কোনান ও'ব্রায়েন মনে করিয়ে দিলেন জেফরি এপস্টিন কেলেঙ্কারির কথা। ব্রিটিশ রাজপুত্র অ্যান্ড্রুর গ্রেফতারি থেকে শুরু করে ডোনাল্ড ট্রাম্পের ছায়া— বাদ গেলেন না কেউই। ডলবি থিয়েটারের নিস্তব্ধতা ভেঙে কোনানের এই ‘জোক’ এখন ইন্টারনেটে সুপারভাইরাল!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/conan-obrien-oscars-2026-trump-epstein-joke-controversy-viral-video_644981.html ",
-    "time": "2026-03-16T01:47:31.000Z"
   }
 ];

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Dasun Shanaka officially named Sam Curran's replacement at Rajasthan Royals after ditching PSL for IPL 2026",
+    "desc": "Sri Lanka star Dasun Shanaka has been officially named as Sam Curran's replacement at the Rajasthan Royals for the Indian Premier League 2026. The IPL body shared the announcement through a media release. \"Rajasthan Royals (RR)...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dasun-shanaka-officially-named-sam-currans-replacement-at-rajasthan-royals-after-ditching-psl-for-ipl-2026-2026-03-23-1034795",
+    "time": "2026-03-23T11:50:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Mitchell Starc miss Delhi Capitals' IPL 2026 opener? Franchise shares major update",
+    "desc": "Australian players' availability for the upcoming Indian Premier League 2026 has been a major talking point, with the franchises grappling with issues. Sunrisers Hyderabad will be missing captain Pat Cummins for the start of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-mitchell-starc-miss-delhi-capitals-ipl-2026-opener-franchise-shares-major-update-2026-03-23-1034791",
+    "time": "2026-03-23T11:25:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC announces Player of the Month award winners, Arundhati Reddy bags women's honour",
+    "desc": "The International Cricket Council (ICC) on Monday announced the Player of the Month Award winners for February. Star India bowling all-rounder Arundhati Reddy bagged the women's honour for her impressive performances in a T20I series...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-player-of-the-month-award-winners-arundhati-reddy-bags-womens-honour-2026-03-23-1034784",
+    "time": "2026-03-23T10:29:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Arsenal head coach Mikel Arteta opens up after heartbreaking EFL cup final loss",
     "desc": "The Carabao Cup final saw Manchester City take on Arsenal. The two sides locked horns at Wembley Stadium in London on March 22 in hopes of getting their hands on the prestigious title. While many...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/he-looks-really-fit-r-ashwin-backs-rohit-sharma-to-fire-on-all-cylinders-for-mumbai-indians-in-ipl-2026-2026-03-23-1034723",
     "time": "2026-03-23T03:14:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manchester City crushes Arsenal's hopes, clinches Carabao cup title in stellar fashion",
-    "desc": "The Carabao Cup final saw Manchester City take on Arsenal. The two sides took on each other in the summit clash at Wembley Stadium in London on March 22, and the game saw City register...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/manchester-city-crushes-arsenal-s-hopes-clinches-carabao-cup-title-in-stellar-fashion-2026-03-23-1034720",
-    "time": "2026-03-23T02:41:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKR pick replacement for Akash Deep ahead of IPL 2026; tournament's remainder schedule soon",
-    "desc": "Kolkata Knight Riders have named Vidarbha left-arm fast-bowler Saurabh Dubey as a replacement for India speedster Akash Deep for the Indian Premier League 2026. Deep has been undergoing rehabilitation at the Centre of Excellence (CoE)...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-pick-replacement-for-akash-deep-ahead-of-ipl-2026-tournaments-remainder-schedule-soon-2026-03-22-1034711",
-    "time": "2026-03-22T18:23:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK inducts Suresh Raina, Matthew Hayden into first-ever Hall of Fame during \"Roar'26\" event",
-    "desc": "Chennai Super Kings on Sunday inducted legendary former cricketers Suresh Raina and Matthew Hayden into the franchise’s first-ever Hall of Fame. The announcement was made during the team’s fan event “Roar’26” at the MA Chidambaram...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-inducts-suresh-raina-matthew-hayden-into-first-ever-hall-of-fame-during-roar-26-event-2026-03-22-1034709",
-    "time": "2026-03-22T17:52:10.000Z"
   }
 ];
