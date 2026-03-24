@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kolkata Knight Riders set to replace Akash Deep with Saurabh Dubey ahead of IPL 2026",
+    "desc": "The IPL (Indian Premier League) 2026 is all set to kick off on March 28. Ahead of the new season, three-time champions Kolkata Knight Riders have been going through an injury crisis. With the likes...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kolkata-knight-riders-set-to-replace-akash-deep-with-saurabh-dubey-ahead-of-ipl-2026-2026-03-24-1034838",
+    "time": "2026-03-24T01:42:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Batting top-class, what about bowling? CSK's best Playing XI for IPL 2026",
     "desc": "Chennai Super Kings will look to revive themselves from the 2025 horror, where they finished at the bottom in the 10-team event. The Super Kings had one of the most terrible IPL seasons as they...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-player-of-the-month-award-winners-arundhati-reddy-bags-womens-honour-2026-03-23-1034784",
     "time": "2026-03-23T10:29:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arsenal head coach Mikel Arteta opens up after heartbreaking EFL cup final loss",
-    "desc": "The Carabao Cup final saw Manchester City take on Arsenal. The two sides locked horns at Wembley Stadium in London on March 22 in hopes of getting their hands on the prestigious title. While many...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/arsenal-head-coach-mikel-arteta-opens-up-after-heartbreaking-efl-cup-final-loss-2026-03-23-1034777",
-    "time": "2026-03-23T09:16:09.000Z"
   }
 ];
