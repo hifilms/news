@@ -1,5 +1,113 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Dhurandhar 2 auto driver can’t afford Rs 500 ticket to watch",
+    "desc": "The Revenge continues its record-breaking run, a small, real-life moment linked to the film has gone viral for very different reasons. An auto-rickshaw driver, who appears briefly in the film’s final scene, has revealed that he hasn’t yet watched the Ranveer Singh starrer in theatres. In a candid interaction caught on camera, he was asked if he had seen the film.",
+    "img": "https://static.toiimg.com/photo/msid-129786596,imgsize-50758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-auto-driver-says-he-cant-afford-rs-500-ticket-to-watch-his-own-scene-with-family-rs-2500-is-our-monthly-savings/articleshow/129786596.cms",
+    "time": "2026-03-24T20:51:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gujarat government plans India’s third spaceport near Gir Somnath",
+    "desc": "India is set to establish its third satellite launch centre in Gujarat, with a site identified near Gir Somnath district. This move, following consultations with IN-SPACe, aims to bolster the nation's growing space sector. Gujarat is also developing a space park and a private satellite manufacturing plant, positioning the state as a key hub.",
+    "img": "https://static.toiimg.com/photo/msid-129786605,imgsize-662655.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/gujarat-government-plans-indias-third-spaceport-near-gir-somnath/articleshow/129786612.cms",
+    "time": "2026-03-24T20:51:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chinook deploys Army’s heavy-duty assault bridge along western sector",
+    "desc": "Indian Army and Air Force have successfully deployed a pontoon assault bridge using a Chinook helicopter. This joint exercise showcased seamless coordination and enhanced battlefield mobility. The capability allows swift river crossing, crucial for offensive operations and disaster relief. The versatile Chinook helicopter played a key role in this rapid deployment.",
+    "img": "https://static.toiimg.com/photo/msid-129786558,imgsize-740016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/chinook-deploys-armys-heavy-duty-assault-bridge-along-western-sector/articleshow/129786554.cms",
+    "time": "2026-03-24T20:37:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. election 2026: Kurinjipadi constituency voters want non-polluting, agro-based industrial boost",
+    "desc": "Minister MRK Panneerselvam is in the fray aiming for a hat-trick in Kurinjipadi. The DMK-led Democratic Progressive Alliance needs to be aware that the Tamizhaga Vazhvurimai Katchi headed by T. Velmurugan and now delinked from the DMK-led alliance, is capable of eating into the votes of the DMK in areas like Kurinjipadi and Kullanchavadi where it has significant presence",
+    "img": "https://th-i.thgim.com/public/incoming/gvs4ln/article70778683.ece/alternates/LANDSCAPE_1200/Kurinjipadi-votGD6FOM26E.1.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/kurinjipadi-voters-want-non-polluting-agro-based-industrial-boost/article70774721.ece",
+    "time": "2026-03-24T20:30:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Study lessons from West Asia conflict to improve India’s def preparedness: Rajnath",
+    "desc": "Defence Minister Rajnath Singh convened a high-level meeting to assess the West Asia crisis's impact on India's security. He stressed learning from the conflict to bolster defence preparedness, emphasizing a decade-long roadmap for integrated defence, self-reliance, and operational readiness. The meeting also reviewed supply chain resilience for defence equipment.",
+    "img": "https://static.toiimg.com/photo/msid-129786522,imgsize-991124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/study-lessons-from-w-asia-conflict-to-improve-indias-def-preparedness-rajnath/articleshow/129786526.cms",
+    "time": "2026-03-24T20:28:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "At 'Jan Aakrosh Rally' CPM flags gas cylinder scarcity, price rise amid Iran-US-Israel war",
+    "desc": "Thousands gathered at Delhi's Ramlila Maidan for a CPI(M) rally, demanding the government condemn US-Israel attacks on Iran and Palestine and protect Indians abroad. Protesters also called for scrapping labour codes, a new rural employment act, and opposing trade deals. CPI(M) leader M A Baby challenged claims of the Left's decline, highlighting widespread participation.",
+    "img": "https://static.toiimg.com/photo/msid-129786507,imgsize-1279695.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/at-jan-aakrosh-rally-cpm-flags-gas-cylinder-scarcity-price-rise-amid-iran-us-israel-war/articleshow/129786508.cms",
+    "time": "2026-03-24T20:25:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gujarat CM invokes Sanatan values, Rigveda as UCC Bill tabled in Assembly",
+    "desc": "The Bill was tabled by Chief Minister Bhupendra Patel a week after a State-appointed panel submitted its final report on implementation of the UCC; the Bill proposes a common framework for marriage, succession and live-in relationships",
+    "img": "https://th-i.thgim.com/public/incoming/aymn6h/article70779474.ece/alternates/LANDSCAPE_1200/Gujarat-unveilsGGCFLI9L6.5.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ucc-bill-tabled-in-gujarat-assembly-proposes-common-framework-for-marriage-succession-and-live-in-ties/article70779414.ece",
+    "time": "2026-03-24T20:22:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "I-PAC raid: Supreme Court poses question to West Bengal CM",
+    "desc": "Court’s query comes in reaction to submissions made by both Ms. Banerjee and State of West Bengal that Directorate of Enforcement (ED) cannot move Supreme Court directly under Article 32 of Constitution, “crying” violation of its fundamental rights.",
+    "img": "https://th-i.thgim.com/public/incoming/tkrkv5/article70781178.ece/alternates/LANDSCAPE_1200/TH22-SHIV-SAHAYGGRFOHM07.6.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/how-would-you-react-if-you-were-in-power-at-centre-and-a-rival-cm-did-this-sc-asks-mamata-banerjee/article70780804.ece",
+    "time": "2026-03-24T20:21:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celina Jaitly pens heartfelt birthday note for twin sons",
+    "desc": "Celina Jaitly penned a deeply emotional note for her twin sons, Winston and Viraaj, as they turned 14. Taking to Instagram, she shared a series of throwback pictures and expressed her pain at being away from them for months.",
+    "img": "https://static.toiimg.com/photo/msid-129786222,imgsize-70490.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-pens-heartfelt-birthday-note-for-twin-sons-winston-and-viraaj-i-never-imagined-i-wouldnt-hear-your-voices/articleshow/129786222.cms",
+    "time": "2026-03-24T19:43:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: Tiruttani constituency residents seek more support to improve their livelihood",
+    "desc": "Farmers, who recently set up a producer organisation and started growing millets, complain that they still do not have machinery needed to process the crop. Residents say work to lay a second access road to Subramaniaswami Temple is yet to be completed, with land acquisition still under way",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/ozh3hh/article70773206.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-22%20at%209.11.58%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-residents-of-tiruttani-constituency-seek-more-support-to-improve-their-livelihood/article70773036.ece",
+    "time": "2026-03-24T19:39:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "JICA funds Bengaluru Metro phase 3",
+    "desc": "The project is scheduled to be completed by January 2032, with invitations for consulting services expected to be issued in April 2026. The tender announcement for the initial procurement package for civil works for the viaduct portion is planned for May 2026.",
+    "img": "https://th-i.thgim.com/public/incoming/mciydn/article70781247.ece/alternates/LANDSCAPE_1200/_KMK4554.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/jica-funds-bengaluru-metro-phase-3/article70779783.ece",
+    "time": "2026-03-24T19:21:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Actor-model Harshil Kalia, 30, dies in Jaipur car crash",
+    "desc": "30 pm, when Kalia was returning home from work. According to reports, her vehicle rammed into a divider and overturned. CCTV footage of the incident shows the car flipping onto its left side after the impact.",
+    "img": "https://static.toiimg.com/photo/msid-129785699,imgsize-67008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/actor-model-harshil-kalia-30-dies-in-tragic-jaipur-car-crash-vehicle-flips-after-hitting-divider/articleshow/129785699.cms",
+    "time": "2026-03-24T19:13:54.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Trump dials Modi as US contemplates peace talks with Iran",
     "desc": "President Trump and PM Modi discussed the West Asia situation, emphasizing the critical need to keep the Strait of Hormuz open and secure. Modi reiterated India's support for de-escalation and peace, highlighting the importance of safe passage for global stability and economic well-being.",
@@ -63,24 +171,6 @@ const newsData_en = [
     "time": "2026-03-24T17:57:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Gujarat Government tables UCC Bill in Assembly",
-    "desc": "The Bill was tabled by Chief Minister Bhupendra Patel a week after a State-appointed panel submitted its final report on implementation of the UCC; the Bill proposes a common framework for marriage, succession and live-in relationships",
-    "img": "https://th-i.thgim.com/public/incoming/aymn6h/article70779474.ece/alternates/LANDSCAPE_1200/Gujarat-unveilsGGCFLI9L6.5.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ucc-bill-tabled-in-gujarat-assembly-proposes-common-framework-for-marriage-succession-and-live-in-ties/article70779414.ece",
-    "time": "2026-03-24T17:53:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Higher Education Dept. cancels event on Deendayal Upadhyay at KSOU following protocol violation row",
-    "desc": "As the objective and subject matter of the conference are found to be inconsistent with the aims and objectives of the university, granting permission for a private programme in violation of government guidelines, rules, and protocol cannot be accepted, the govt. said before cancelling the programme with immediate effect",
-    "img": "https://th-i.thgim.com/public/incoming/iqwhrj/article70780932.ece/alternates/LANDSCAPE_1200/IMG_2303_10_7_2023_20_26_2_1_4RBUD7LI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-higher-education-dept-cancels-event-on-deendayal-upadhyay-at-ksou-following-protocol-violation-row/article70780582.ece",
-    "time": "2026-03-24T17:29:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "HDFC Life Insurance gets I-T order for ₹172 crore",
     "desc": "Consisting of ₹126.46 crore tax demand, ₹45.55 crore interest, and nil penalty, the order from the Income Tax authorities in Mumbai is for Assessment Year 2023-24 (financial year 2022-23) and related to multiple alleged violations",
@@ -88,33 +178,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/hdfc-life-insurance-gets-i-t-order-for-172-crore/article70780211.ece",
     "time": "2026-03-24T17:21:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AIADMK assures ration card-holders of free dal and cooking oil in its manifesto for the 2026 Assembly election",
-    "desc": "The distribution of free refrigerators to women beneficiaries of the PDS, the revision of electricity tariff on common facilities in multi-storey apartments, and the increase in horizontal reservation for government school students in admission to the medical courses from 7.5% to 10.5% are among the highlights of the manifesto",
-    "img": "https://th-i.thgim.com/public/incoming/2sr1xm/article70780681.ece/alternates/LANDSCAPE_1200/PTI03_24_2026_000272B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmkassures-ration-card-holders-of-freedal-and-cooking-oil-in-its-manifesto-for-the-2026-assembly-election/article70780538.ece",
-    "time": "2026-03-24T17:11:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "U.S. President Trump dials PM Modi, discusses need for keeping Strait of Hormuz open",
-    "desc": "This is the first conversation between the two leaders since February 28, when the war broke out and has since killed at least six Indians in the West Asia region; the conflict has impacted free movement of energy resources through the Strait of Hormuz",
-    "img": "https://th-i.thgim.com/public/incoming/5iaiz9/article70780574.ece/alternates/LANDSCAPE_1200/India_US_Tariffs_20860.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-us-president-trump-discuss-west-asia-crisis-focus-on-keeping-strait-of-hormuz-open-for-shipping/article70780491.ece",
-    "time": "2026-03-24T17:07:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Women short-changed yet again as Kerala’s poll fronts refuse to change course",
-    "desc": "Although Kerala is the only Indian State where women outnumber men, this demographic strength has never translated into political power; in the 140 Assembly constituencies in the State, the LDF has fielded 17 women candidates, the UDF 12, and the NDA 14",
-    "img": "https://th-i.thgim.com/public/incoming/2x8t0d/article70781237.ece/alternates/LANDSCAPE_1200/80692_24_3_2026_19_50_56_2_25TVKZELECTION1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/women-short-changed-yet-again-as-keralas-poll-fronts-refuse-to-change-course/article70779881.ece",
-    "time": "2026-03-24T17:05:01.000Z"
   },
   {
     "cat": "Sports",
@@ -133,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/what-makes-rcb-one-of-the-most-valuable-brands-in-ipl-history/articleshow/129781994.cms",
     "time": "2026-03-24T16:49:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How would you react if you were in power at Centre, and a rival CM did this? SC asks Mamata Banerjee",
-    "desc": "Court’s query comes in reaction to submissions made by both Ms. Banerjee and State of West Bengal that Directorate of Enforcement (ED) cannot move Supreme Court directly under Article 32 of Constitution, “crying” violation of its fundamental rights.",
-    "img": "https://th-i.thgim.com/public/incoming/tkrkv5/article70781178.ece/alternates/LANDSCAPE_1200/TH22-SHIV-SAHAYGGRFOHM07.6.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/how-would-you-react-if-you-were-in-power-at-centre-and-a-rival-cm-did-this-sc-asks-mamata-banerjee/article70780804.ece",
-    "time": "2026-03-24T16:48:57.000Z"
   },
   {
     "cat": "Sports",
@@ -351,15 +405,6 @@ const newsData_en = [
     "time": "2026-03-24T12:39:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Miley Cyrus revisits Hannah Montana in new anniversary special on OTT",
-    "desc": "In an exclusive special now available on JioHotstar in India, Miley Cyrus takes a nostalgic journey back to her days as 'Hannah Montana.' This captivating 58-minute tribute marks the 20th anniversary of the iconic Disney series, featuring nostalgic sets, heartfelt discussions with Alex Cooper, and an electrifying new musical number.",
-    "img": "https://static.toiimg.com/photo/msid-129776783,imgsize-145336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hannah-montana-20th-anniversary-special-india-release-ott-platform-runtime-cast-reunion-starring-miley-cyrus-revealed/articleshow/129776783.cms",
-    "time": "2026-03-24T12:29:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "When will Somani-led consortium's RR buy come into effect?",
     "desc": "The champions of the inaugural edition of the Indian Premier League (IPL), Rajasthan Royals have been acquired for $1.63 billion by a Kal Somani-led consortium ahead of IPL 2026, though ownership will transfer after the season. Backed by major investors like Rob Walton and Sheila Ford Hamp, the deal highlights IPL’s rising global value. Somani",
@@ -370,39 +415,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Meghan and Harry team up for a new Netflix series?",
-    "desc": "Meghan Markle and Prince Harry are taking the reins on a fresh Netflix scripted drama that uncovers the high-stakes realm of polo, even as whispers of a rocky relationship with the streaming service circulate. Teaming up with Archewell Productions, the series aims to unravel the intricate rivalries and familial ties found within the equestrian community.",
-    "img": "https://static.toiimg.com/photo/msid-129776115,imgsize-89200.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markle-and-prince-harry-team-up-for-new-polo-drama-series-amid-strained-deal-with-the-streamer-what-we-know/articleshow/129776072.cms",
-    "time": "2026-03-24T12:25:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Madhavan breaks silence after Sikh community files FIR against 'Dhurandhar 2'",
     "desc": "A controversy erupted over a scene in 'Dhurandhar 2' featuring R Madhavan and Ranveer Singh, with a Shiv Sena leader filing an FIR for alleged disrespect to Gurbani. Madhavan has since clarified, stating the scene was misunderstood and that he extinguished his cigarette before reciting sacred lines, emphasizing respect for the Sikh community.",
     "img": "https://static.toiimg.com/photo/msid-129776665,imgsize-11414.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-issues-clarification-after-sikh-community-file-fir-against-dhurandhar-2-maine-bakaayda-cigarette-bujha-diya-tha/articleshow/129776146.cms",
     "time": "2026-03-24T12:21:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Harish Rana, India's first passive euthanasia case, dies after 13 years in vegetative state",
-    "desc": "India's first passive euthanasia recipient, Harish Rana, passed away at AIIMS-Delhi after 13 years in a vegetative state. The Supreme Court had permitted the withdrawal of life support, allowing a dignified end. This case reignited the debate on 'letting a patient die' versus actively ending life, highlighting the legal and ethical complexities surrounding end-of-life decisions.",
-    "img": "https://static.toiimg.com/photo/msid-129776519,imgsize-25972.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/harish-rana-indias-first-passive-euthanasia-case-dies-after-13-years-in-vegetative-state/articleshow/129776211.cms",
-    "time": "2026-03-24T12:19:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi compares fuel crisis to Covid-19 in Parliament; Rahul Gandhi says 'don't forget the deaths'",
-    "desc": "Rahul Gandhi criticized PM Modi's comparison of the current fuel crisis to the Covid-19 pandemic, highlighting the tragic loss of life during the pandemic. He also accused Modi of compromising India's foreign policy and questioned the government's handling of the West Asia conflict and the stranded Indian ships.",
-    "img": "https://static.toiimg.com/photo/msid-129776212,imgsize-59366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-compares-fuel-crisis-to-covid-19-in-parliament-rahul-gandhi-says-dont-forget-the-deaths/articleshow/129775986.cms",
-    "time": "2026-03-24T12:18:08.000Z"
   },
   {
     "cat": "Sports",
@@ -421,33 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/from-cheapest-to-one-of-the-costliest-rr-sees-2332-84-jump-in-value-in-19-years/articleshow/129775504.cms",
     "time": "2026-03-24T11:41:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Modi may not be PM by 2026 end': Arvind Kejriwal at Sanjay Raut launch",
-    "desc": "Arvind Kejriwal predicted Prime Minister Narendra Modi might not remain in office beyond 2026, citing a decline in popularity and alleged electoral \"corruption.\" Opposition leaders at a book launch echoed concerns about institutions like the EC and ED, with Derek O’Brien predicting electoral defeats for the BJP.",
-    "img": "https://static.toiimg.com/photo/msid-129775393,imgsize-26844.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/modi-may-not-be-pm-by-2026-end-arvind-kejriwal-at-sanjay-raut-launch/articleshow/129775240.cms",
-    "time": "2026-03-24T11:40:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'KGF' star Yash's THEN and NOW looks",
-    "desc": "Kannada superstar Yash, initially known for his boyish charm in 'Jambada Hudugi,' underwent a dramatic transformation with the 'KGF' series, becoming a pan-India action icon. His signature beard, long hair, and intense portrayal of Rocky Bhai captivated audiences worldwide. Now, fans eagerly anticipate his next venture, 'Toxic,' directed by Geethu Mohandas, expecting a fresh, modern, and potentially darker avatar.",
-    "img": "https://static.toiimg.com/photo/msid-129774958,imgsize-115092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/jambada-hudugi-to-toxic-check-kgf-star-yashs-then-and-now-looks/articleshow/129774958.cms",
-    "time": "2026-03-24T11:24:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi court sentences Kashmiri separatist Asiya Andrabi to life in UAPA case; two associates jailed for 30 years",
-    "desc": "Kashmiri separatist leader Asiya Andrabi has been sentenced to life imprisonment by a Delhi court under the UAPA. Her associates, Fehmeeda and Nasreen, received 30-year sentences in the same case. The convictions stem from charges including waging war against India and promoting enmity.",
-    "img": "https://static.toiimg.com/photo/msid-129775135,imgsize-606614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-court-sentences-kashmiri-separatist-asiya-andrabi-to-life-in-uapa-case-two-associates-jailed-for-30-years/articleshow/129775157.cms",
-    "time": "2026-03-24T11:23:27.000Z"
   },
   {
     "cat": "Entertainment",
