@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "યુદ્ધવિરામ પર ફરી પેચ ફસાયો ! ટ્રમ્પના દાવા વચ્ચે, ઈરાની સેનાએ કરી એક મોટી જાહેરાત",
+    "desc": "મધ્ય પૂર્વમાં ચાલી રહેલા તણાવ વચ્ચે, ઈરાનના ટોચના લશ્કરી કમાન્ડે મંગળવારે એક મોટી જાહેરાત કરી. ઈરાની સૈન્યએ જણાવ્યું કે તેની સશસ્ત્ર દળો આ સમય લડાઈ ચાલુ રાખશે. ઈરાન અને અમેરિકા ઈઝરાયેલ સાથેનું યુદ્ધને અનેક દિવસો થઈ ગયા છે, ત્યારે અમેરિકાએ 5 દિવસ યુદ્ધ બંધ રાખવાની જાહેરાત કરી છે. ઈરાનની આ જાહેરાતથી યુદ્ધવિરાન મુશ્કેલ લાગી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-us-ceasefire-again-falters-amid-trump-claims-iranian-army-makes-a-big-announcement-469963 ",
+    "time": "2026-03-24T13:02:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "યુદ્ધ વચ્ચે ઈરાન દ્વારા ભારતને ક્રૂડ ઓઈલની ઓફર! પણ સામે રાખી ટેન્શન વધારનારી શરતો",
+    "desc": "ઈરાન અને અમેરિકા-ઇઝરાયેલ વચ્ચે વધતા સૈન્ય તણાવએ વૈશ્વિક ઊર્જા બજારમાં અનિશ્ચિતતાનું વાતાવરણ ઊભું કર્યું છે. ક્રૂડ ઓઈલની અછતે ભારતની ચિંતાઓ વધારી દીધી છે. આ વચ્ચે ઈરાન દ્વારા ઓઈલની ઓફર કરવામાં આવી છે, પરંતુ સાથે જ કેટલીક કડક શરતો પણ મુકવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/iran-offers-crude-oil-to-india-amid-war-but-puts-forward-conditions-that-increase-tension-469962 ",
+    "time": "2026-03-24T12:13:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "તમે કરાવ્યો હુમલો, ડોનાલ્ડ ટ્રમ્પે કોના પર ફોડ્યું ઈરાન પરના હુમલાનું ઠીકરું",
+    "desc": "એક કાર્યક્રમ દરમિયાન યુએસ પ્રમુખ ડોનાલ્ડ ટ્રમ્પે જણાવ્યું હતું કે તેમણે સૌપ્રથમ રક્ષા મંત્રી પીટ હેગસેથ સાથે ઈરાન પર હુમલા અંગે વાત કરી હતી. તેમણે કહ્યું કે પીટે સૂચન કર્યું હતું કે, ચલો લશ્કરી કાર્યવાહી કરી જોઈએ શું થાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/who-did-donald-trump-blame-for-the-attack-on-iran-469943 ",
+    "time": "2026-03-24T11:52:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "બાદશાહે કર્યા બીજા લગ્ન! છૂટાછેડા લીધાના 6 વર્ષ પછી, આ પંજાબી એક્ટ્રેસ સાથે કર્યા લગ્ન, જાણો",
+    "desc": "રેપર બાદશાહે બીજા લગ્ન કર્યા છે. 6 વર્ષ પહેલાં, તેની પહેલી પત્ની જાસ્મીન મસીહને છૂટાછેડા આપી દીધા હતા. જો કે, હવે તેણે આ પંજાબી અભિનેત્રી સાથે લગ્ન કર્યા છે. આ સમારોહ ખૂબ જ ખાનગી હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/badshah-got-married-in-a-big-way-six-years-after-his-divorce-he-got-married-again-to-this-punjabi-actress-469942 ",
+    "time": "2026-03-24T10:23:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "એલર્ટ મોડ પર આવ્યું ભારત! ગભરાવાની જરૂર નથી પણ સાવચેત રહેજો, દિલ્હીમાં શરૂ થયો બેઠકોનો દોર",
+    "desc": "પહેલા લોકસભામાં પીએમ મોદીનું સંબોધન અને પછી રાજ્યસભામાં, રાજનાથ સિંહની બેઠક અને હવે ઓલપાર્ટી મિટિંગ....પીએમ મોદીએ સંબોધનમાં કહ્યું કે કોરોના જેવા પડકારો માટે તૈયાર રહેવું પડશે. ત્યારે સવાલ સ્વાભાવિક રીતે થાય કે 5 વર્ષ પહેલા જેવું સંકટ દેશમાં દસ્તક આપી રહ્યું છે? જો કે સરકારનું પૂરેપૂરું આશ્વાસન છે કે સ્થિતિને પહોંચી વળવા માટે પૂરતી તૈયારીઓ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/middle-east-crisis-india-on-alert-mode-no-need-to-panic-but-be-careful-469940 ",
+    "time": "2026-03-24T10:21:49.000Z"
+  },
+  {
+    "cat": "World",
     "title": "અંતિમ ચરણમાં પહોંચ્યું યુદ્ધ ! ઈરાને દબાવી અરબ દેશોની દુખતી નસ, લાગ્યો ડર",
     "desc": "અમેરિકાની ધમકીના જવાબમાં, ઈરાને એક વળતો જવાબ આપ્યો છે, જેનાથી ખાડી દેશો ચોકી ગયા છે. ઈરાને કહ્યું છે કે જો તેના પાવર પ્લાન્ટ્સને નિશાન બનાવવામાં આવશે, તો તે મધ્ય પૂર્વના પાવર પ્લાન્ટ્સને પણ છોડશે નહીં.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -333,15 +378,6 @@ const newsData_gu = [
     "time": "2026-03-22T11:31:38.000Z"
   },
   {
-    "cat": "World",
-    "title": "હોર્મુઝ પાસે દુશ્મનનું F-15 ફાઇટર જેટ તોડી પાડ્યું, ઈરાનનો મોટો દાવો",
-    "desc": "ઈરાની મીડિયા અનુસાર, હોર્મુઝ પાસે એક F-15 ફાઇટર જેટને તોડી પાડવામાં આવ્યું હોવાના દાવા કરવામાં આવ્યા છે. આ વર્ષે અત્યાર સુધીમાં, યુનાઇટેડ સ્ટેટ્સે 17 લશ્કરી વિમાન ગુમાવ્યા છે. જેમાં 12 MQ-9 રીપર ડ્રોન અને ચાર અન્ય વિમાનોનો સમાવેશ થાય છે. જ્યારે એક F-35 ફાઇટર જેટને પણ નુકસાન થયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/f15-fighter-jet-was-shot-down-by-iranian-air-defense-systems-near-hormuz-iran-claim-469672 ",
-    "time": "2026-03-22T11:17:33.000Z"
-  },
-  {
     "cat": "Business",
     "title": "રૂપિયો પહેલી વાર ₹93 પ્રતિ ડોલરને પાર, તમારા પર શું પડશે અસર, જાણો ઘટાડાનું કારણ",
     "desc": "રૂપિયો 3 પૈસા ઘટીને 92.92 પર ખુલ્યો અને પછી 93.08 પર ગબડ્યો હતો, જે અત્યાર સુધીનો સૌથી નીચો લેવલ છે. ડોલર સામે રૂપિયાનો ઘટાડો માત્ર સરકારની જ નહીં પરંતુ સામાન્ય લોકોની પણ મુશ્કેલીઓમાં વધારો કરે છે. ચાલો સમજીએ કે રૂપિયાનું મૂલ્ય શા માટે ઘટે છે અને તે તમારા પર કેવી અસર કરે છે.",
@@ -349,24 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/rupee-crosses-93-per-dollar-for-the-first-time-what-will-be-the-impact-on-you-know-the-reason-for-the-decline-469663 ",
     "time": "2026-03-22T10:13:03.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "કોવિડ બાદ લાગવા જઈ રહ્યું છે સૌથી મોટું &amp;#039;લોકડાઉન&amp;#039; ? જાણો કેવી ચાલી રહી છે દુનિયામાં તૈયારી",
-    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા સંઘર્ષને કારણે ઓઈલના ભાવ પ્રતિ બેરલ 112 ડોલર સુધી પહોંચી ગયા છે. એરલાઇન્સ ફ્લાઇટ્સમાં ઘટાડો કરી રહી છે અને પરિવહન ખર્ચ વધી રહ્યો છે. ઘણા દેશોમાં ક્રુડ ઓઈલની અછતના કારણે પેટ્રોલ-ડીઝલના ભાવ આસમાને પહોંચી રહ્યા છે. વિશ્વભરની સરકારો આને એનર્જી સિક્યોરીટી કહી રહી છે, પરંતુ તેની અસર પહેલાથી જ લોકડાઉન જેવી લાગવા લાગી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/oil-crisis-is-the-biggest-lockdown-after-covid-coming-469660 ",
-    "time": "2026-03-22T09:32:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સૌથી લાંબા સમય સુધી સેવા કરનાર સરકારના પ્રમુખ બન્યા પીએમ મોદી, CM-PM ના રૂપમાં થયા 8931 દિવસ",
-    "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદીએ ભારતમાં સૌથી લાંબા સમય સુધી સેવા કરનાર ચૂંટાયેલી સરકારના પ્રમુખનો નવો રેકોર્ડ બનાવ્યો છે. મુખ્યમંત્રી અને પ્રધાનમંત્રીના રૂપમાં કુલ 8931 દિવસ પુરા કરી તેમણે સિક્કિમના પૂર્વ મુખ્યમંત્રી પવન કુમાર ચામલિંગને પાછળ છોડ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/narendra-modi-breaks-record-india-longest-serving-elected-leader-cm-pm-469657 ",
-    "time": "2026-03-22T09:20:51.000Z"
   },
   {
     "cat": "Sports",
@@ -448,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-box-office-collection-200-crore-in-2-days-dhurandhar-2-latest-news-469364 ",
     "time": "2026-03-20T07:18:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શું બદલાઈ જશે IPLનું નામ ? BCCI પર લાગ્યા આરોપ, કોર્ટે આપ્યો મોટો ચુકાદો",
-    "desc": "2026ની સિઝન શરૂ થાય તે પહેલા જ ઇન્ડિયન પ્રીમિયર લીગના નામને લઈને એક મોટો વિવાદ સામે આવ્યો હતો, જેના કારણે તેના નામના ઉપયોગ અંગે પ્રશ્નો ઉભા થયા હતા. જો કે, કોર્ટે હવે આ મામલે પોતાનો ચુકાદો આપ્યો છે, જેનાથી BCCIને મોટી રાહત મળી છે. ત્યારે શું છે સમગ્ર ઘટના તેના વિશે લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/kerala-high-court-dismisses-pil-against-bcci-over-illegal-use-of-ipl-name-469310 ",
-    "time": "2026-03-20T01:30:02.000Z"
   },
   {
     "cat": "Tech",
@@ -646,14 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/kritika-kamra-and-gaurav-kapur-got-married-11-march-2026-wedding-photo-viral-social-media-468198 ",
     "time": "2026-03-12T02:05:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ઘર બેઠા પરિવાર સાથે જુઓ મર્દાની 3, આ OTT પ્લેટફોર્મ પર થશે રિલીઝ",
-    "desc": "રાની મુખર્જીની ફિલ્મ મર્દાની 3 ને સિનેમાઘરો પછી હવે ઓટીટી પ્લેટફોર્મ પર રિલીઝ માટે રેડી છે. મર્દાની 3 ફિલ્મનું ભારતમાં કલેકશન 50 કરોડથી વધારેનું થયું છે. હવે આ ફિલ્મ તમે ઘર બેઠા પરીવાર સાથે માણી શકશો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/mardaani-3-ott-release-date-mardaani-3-on-netflix-468144 ",
-    "time": "2026-03-11T11:41:41.000Z"
   }
 ];

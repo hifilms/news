@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "CSK pick replacement for Nathan Ellis for IPL 2026, rope in former KKR, GT bowler",
+    "desc": "Chennai Super Kings have picked Australian fast bowler Spencer Johnson as a replacement for the injured Nathan Ellis for the upcoming Indian Premier League, the IPL body confirmed on Tuesday, March 24. Ellis was ruled out...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-pick-replacement-for-nathan-ellis-for-ipl-2026-rope-in-former-kkr-gt-bowler-2026-03-24-1034935",
+    "time": "2026-03-24T12:52:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Another Australia cricketer to miss first few IPL 2026 games after being bought for Rs 8.6 crore",
+    "desc": "Australia keeper-batter Josh Inglis is set to miss the opening games for Lucknow Super Giants in IPL 2026 due to personal commitments. The 31-year-old, who played for Punjab Kings last season, was initially expected to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/another-australia-cricketer-to-miss-first-few-ipl-2026-games-after-being-bought-for-rs-8-6-crore-2026-03-24-1034930",
+    "time": "2026-03-24T12:30:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Kal Somani, the entrepreneur whose consortium bought Rajasthan Royals for Rs 15K crore?",
+    "desc": "In a major ownership change in Rajasthan Royals, the franchise is set to be sold to a US-based Kal Somani-led consortium for a huge sum of USD 1.63 billion (approx Rs 15,290 crore). The Somani...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-kal-somani-the-entrepreneur-to-buy-rajasthan-royals-for-rs-15k-crore-2026-03-24-1034928",
+    "time": "2026-03-24T12:13:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smriti Mandhana holds second spot, Deepti climbs to third spot in ICC rankings",
+    "desc": "India vice-captain and star batter Smriti Mandhana held her second spot in the ICC rankings for the T20I batters as a host the charts saw a host of changes during the busy T20I calendar. Mandhana...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-holds-second-spot-deepti-climbs-to-third-spot-in-icc-rankings-2026-03-24-1034925",
+    "time": "2026-03-24T11:48:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals become most expensive IPL franchise ever, sold for Rs 15290 crore",
+    "desc": "A major ownership change is set to reshape one of the IPL’s founding teams, with Rajasthan Royals moving into new hands following a high-value deal. Kal Somani, already a shareholder in the franchise, has secured...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-sold-for-1-6-billion-kal-somani-places-winning-bid-with-support-from-walmart-2026-03-24-1034919",
+    "time": "2026-03-24T11:14:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB confirm no replacement for Yash Dayal in IPL 2026, franchise may trust uncapped India pacer: Exclusive",
+    "desc": "Royal Challengers Bengaluru have confirmed that pacer Yash Dayal will miss the upcoming IPL 2026 season due to personal reasons. The 28-year-old was instrumental in RCB’s campaign last year, picking up 13 wickets while maintaining...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-confirm-no-replacement-for-yash-dayal-in-ipl-2026-franchise-may-trust-uncapped-india-pacer-exclusive-2026-03-24-1034911",
+    "time": "2026-03-24T10:39:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australian-born Ryan Williams likely to make India debut, named in squad for AFC Hong Kong qualifier",
+    "desc": "Ryan Williams, the Australian-born striker, is likely to make his India debut after being named in the squad for the AFC Asian Cup 2027 Qualifier against Hong Kong on March 31 in Kochi. Williams, who...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/australian-born-ryan-williams-likely-to-make-india-debut-named-in-squad-for-afc-hong-kong-qualifier-2026-03-24-1034910",
+    "time": "2026-03-24T10:37:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sunrisers Hyderabad announces veteran England bowler as Jack Edwards' replacement for IPL 2026",
     "desc": "With the ongoing injury crisis ahead of the 19th edition of the IPL (Indian Premier League), 2016 champions Sunrisers Hyderabad came forward and announced the signing of 35-year-old English bowler David Payne as the replacement...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rcb-to-honour-stampede-victims-set-to-leave-11-empty-seats-at-the-chinnaswamy-stadium-in-memory-of-the-fans-2026-03-24-1034890",
     "time": "2026-03-24T08:02:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB share major update on Yash Dayal's availability ahead of IPL 2026; Check details",
-    "desc": "In a major development and a blow to Royal Challengers Bengaluru ahead of the IPL (Indian Premier League) 2026. Bowler Yash Dayal is all set to miss out on the upcoming season of the tournament,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-share-major-update-on-yash-dayal-s-availability-ahead-of-ipl-2026-check-details-2026-03-24-1034886",
-    "time": "2026-03-24T07:29:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ben Stokes opens up on 'hardest period of his captaincy', entrusts McCullum-Key to take England forward",
-    "desc": "England’s Test skipper Ben Stokes has caught major headlines after he took to social media and wrote a heartfelt note for his fans. It is worth noting that Ben Stokes recently led England in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-opens-up-on-hardest-period-of-his-captaincy-entrusts-mccullum-key-to-take-england-forward-2026-03-24-1034878",
-    "time": "2026-03-24T06:17:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India women's squad for South Africa T20I series announced, uncapped star gets maiden call-up",
-    "desc": "The BCCI (Board of Control for Cricket in India) took centre stage and announced India women’s squad for the upcoming five-game T20I series against South Africa women. It is worth noting that the two sides...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-women-s-squad-for-south-africa-t20i-series-announced-uncapped-star-gets-maiden-call-up-2026-03-24-1034868",
-    "time": "2026-03-24T05:36:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Not even close to Andre Russell': Mohammad Kaif makes massive statement on Cameron Green ahead of IPL 2026",
-    "desc": "With the IPL (Indian Premier League) 2026 all set to kick off on March 28, many fans will be looking to see star all-rounder Cameron Green in action. Green was roped in by the three-time...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-kaif-makes-massive-statement-on-cameron-green-ahead-of-ipl-2026-2026-03-24-1034859",
-    "time": "2026-03-24T04:58:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Georgia Voll's stellar ton helps Australia women whitewash West Indies women in Kingston",
-    "desc": "Australia women continued their dominant performance against West Indies women and whitewashed their opponents with their third straight victory against them. The two sides locked horns at the Arnos Vale Ground, Kingstown, St Vincent, on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/georgia-voll-s-stellar-ton-helps-australia-women-whitewash-west-indies-women-in-kingston-2026-03-24-1034852",
-    "time": "2026-03-24T04:00:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka Cricket clears Eshan Malinga ahead of IPL 2026, Pathirana-Hasaranga await clearance",
-    "desc": "In a major development, SLC (Sri Lanka Cricket) has cleared Eshan Malinga to participate in the upcoming edition of the IPL (Indian Premier League). It is worth noting that Malinga will be reporting to Sunrisers...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-cricket-clears-eshan-malinga-ahead-of-ipl-2026-pathirana-hasaranga-await-clearance-2026-03-24-1034844",
-    "time": "2026-03-24T02:36:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kolkata Knight Riders set to replace Akash Deep with Saurabh Dubey ahead of IPL 2026",
-    "desc": "The IPL (Indian Premier League) 2026 is all set to kick off on March 28. Ahead of the new season, three-time champions Kolkata Knight Riders have been going through an injury crisis. With the likes...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kolkata-knight-riders-set-to-replace-akash-deep-with-saurabh-dubey-ahead-of-ipl-2026-2026-03-24-1034838",
-    "time": "2026-03-24T01:42:50.000Z"
   }
 ];
