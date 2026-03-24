@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "&amp;#039;જો અમેરિકા પાકિસ્તાન પર હુમલો કરશે તો અમે દિલ્હી-મુંબઈને નિશાન બનાવીશું&amp;#039;, જાણો કોને આપી ભારતને ધમકી?",
+    "desc": "મધ્ય ઈસ્ટમાં ચાલી રહેલા યુદ્ધ વચ્ચે ભૂતપૂર્વ પાકિસ્તાની રાજદ્વારી અબ્દુલ બાસિતે ભારત વિરુદ્ધ ઝેર ઓક્યું છે. પાકિસ્તાનના પૂર્વ રાજદ્વારી અબ્દુલ બાસિતે ભારત વિરુદ્ધ ઉશ્કેરણીજનક નિવેદન આપ્યું છે. તેમણે કહ્યું કે જો અમેરિકા પાકિસ્તાનના પરમાણુ કાર્યક્રમને નિશાન બનાવશે, તો પાકિસ્તાન પાસે દિલ્હી અને મુંબઈ જેવા ભારતીય શહેરો પર હુમલો કરવા સિવાય બીજો કોઈ વિકલ્પ રહેશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/if-america-attacks-pakistan-we-will-target-delhi-and-mumbai-former-pakistani-ambassador-issues-a-hollow-threat-to-india-469903 ",
+    "time": "2026-03-24T06:57:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL પહેલા મોટા સમાચાર, આ દિગ્ગજ ક્રિકેટરે અચાનક નિવૃત્તિની કરી જાહેરાત",
+    "desc": "IPL 2026 પહેલા મોટા સમાચાર સામે આવ્યા છે. બોલિંગ ઓલરાઉન્ડર જેમ્સ હેરિસે 19 વર્ષની કારકિર્દી પછી વ્યાવસાયિક ક્રિકેટમાંથી નિવૃત્તિ લીધી છે. માત્ર 16 વર્ષની ઉંમરે ફર્સ્ટ ક્લાસ ડેબ્યૂ કરનાર હેરિસ ગ્લેમોર્ગન અને મિડલસેક્સ માટે રમ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/england-cricketer-james-harris-announces-retirement-469901 ",
+    "time": "2026-03-24T06:40:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "તારક મહેતા....સિરીયલનો આ કલાકાર ધૂરંધર-2નો મોટો ગેમ ચેન્જર સાબિત થયો, રણવીર સિંહને પણ પાછળ પાડ્યો",
+    "desc": "ધૂરંધર 2 ફિલ્મ જ્યારથી રિલીઝ થઈ છે ત્યારથી બોક્સ ઓફિસ પર સુનામી બનીને ફરી વળી છે. આ ફિલ્મે સફળતાના તમામ રેકોર્ડ તોડ્યા છે. પરંતુ શું તમને ખબર છે કે આ ફિલ્મમાં તારક મહેતા...સિરીયલના એક કલાકારે રણવીર સિંહ સહિત તમામ કલાકારોને પાછળ પાડી દીધા?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/tmkoc-serial-actor-proved-to-be-a-big-game-changer-for-dhurandhar-2-even-beating-ranveer-singh-469898 ",
+    "time": "2026-03-24T06:18:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર, જાણો તમારા શહેરમાં કેટલો છે આજનો ભાવ",
+    "desc": "આજે સવારે દેશભરમાં પેટ્રોલ અને ડીઝલના નવા ભાવ જાહેર કરવામાં આવ્યા હતા. આ ભાવ આંતરરાષ્ટ્રીય બજારમાં ક્રૂડ ઓઇલની હિલચાલ અને ડોલર સામે રૂપિયાની સ્થિતિ દ્વારા નક્કી થાય છે. આજે ઘણા શહેરોમાં ભાવ સ્થિર રહ્યા હતા, જ્યારે ટેક્સના કારણે કેટલીક જગ્યાએ થોડી વધઘટ જોવા મળી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-check-fuel-rates-in-your-city-469895 ",
+    "time": "2026-03-24T06:00:08.000Z"
+  },
+  {
+    "cat": "World",
     "title": "કોલંબિયામાં સૈન્ય વિમાન ક્રેશ થતા 66 લોકોના મોત, રાષ્ટ્રપતિએ શેર કર્યો હચમચાવી નાખે તેવો Video",
     "desc": "એકબાજુ વિશ્વમાં અનેક જગ્યાએ સૈન્ય સંઘર્ષ ચાલુ છે ત્યાં કોલંબિયામાં એક સૈન્ય માલવાહક વિમાન ટેકઓફ બાદ ક્રેશ થઈ ગયું જેમાં ઓછામાં ઓછા 66 લોકોના મોત થયા હોવાનું કહેવાય છે. વિમાનમાં 125 જવાનો અને ક્રૂ સભ્યો સવાર હોવાનું કહેવાય છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -342,24 +378,6 @@ const newsData_gu = [
     "time": "2026-03-21T15:52:34.000Z"
   },
   {
-    "cat": "Business",
-    "title": "8મું પગાર પંચ ક્યારે લાગુ થશે? જૂના ટ્રેન્ડ, એરિયરની ચુકવણી અને ડિમાંડની સંપૂર્ણ ડીટેલ, જાણો",
-    "desc": "ઓલ ઈન્ડિયા ટ્રેડ યુનિયન કોંગ્રેસ (AITUC) માંગ કરી રહી છે કે પગાર ધોરણ, ભથ્થાં, પેન્શન અને અન્ય લાભોમાં સુધારા 1 જાન્યુઆરી, 2026થી અમલમાં આવવા જોઈએ, કામચલાઉ તારીખથી નહીં. AITUCએ જાળવી રાખ્યું છે કે પગાર સુધારા પહેલાથી જ બાકી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/when-will-the-8th-pay-commission-be-implemented-complete-details-of-old-trends-arrears-payment-and-demand-469550 ",
-    "time": "2026-03-21T13:17:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "મુસલમાનો અને ઇસ્લામિક દેશો પર ખતરનાક ભવિષ્યવાણી વાયરલ ! શું પાકિસ્તાનનો નક્શો મટી થશે? ભારત વિશે પણ ચોંકાવનારા દાવા",
-    "desc": "1969માં વેજિટેરિયન એથિકલ ચિલ્ડ્રન્સ એસોસિએશન મેગેઝિનની સ્થાપના કરવામાં આવી હતી. જ્યારે 1972માં તે મેગેઝિનની કથિત ભવિષ્યવાણી સોશિયલ મીડિયા પર વાયરલ થઈ રહી છે. તેમાં યુદ્ધ અને વૈશ્વિક પરિવર્તનના દાવા કરવામાં આવ્યા છે. એક્સપર્ટ કહે છે કે આ ધાર્મિક/વૈચારિક રીતે આધારિત લેખો છે, ચકાસણીયોગ્ય ભવિષ્યવાણીઓ નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/dangerous-prophecy-on-muslims-and-islamic-countries-goes-viral-shocking-claims-about-india-too-469543 ",
-    "time": "2026-03-21T12:04:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL પહેલા BCCIની મોટી જાહેરાત, આ દેશના પ્રવાસે જશે ટીમ ઈન્ડિયા, રમશે T20 સિરીઝ",
     "desc": "IPL 2026ની શરૂઆત પહેલા BCCIએ એક મોટી જાહેરાત કરી છે. ટીમ ઇન્ડિયા જૂન મહિનામાં એક નવી સિરીઝ રમવા માટે તૈયાર છે. આ બે મેચની સિરીઝ હશે. BCCIએ સોશિયલ મીડિયા પર આ અંગે સંપૂર્ણ વિગતો જાહેર કરી છે.",
@@ -423,15 +441,6 @@ const newsData_gu = [
     "time": "2026-03-20T13:15:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "જેનો ડર હતો એ જ થયું, રાતોરાત પેટ્રોલના ભાવમાં રૂપિયા 2નો વધારો : જાણો તમારા શહેરનો આજે કેટલો છે પેટ્રોલ અને ડીઝલનો ભાવ",
-    "desc": "ક્રૂડ ઓઈલના ભાવમાં સતત વધારાની અસર હવે પાવર અને પ્રીમિયમ પેટ્રોલના ભાવને થઈ છે. આજે પ્રિમીયમ અને પાવર પેટ્રોલના ભાવમાં 2.09 રૂપિયાનો વધારો થઈ ગયો છે. શું તમે પણ જાણવા માગો છો કે ગુજરાતના મેગા શહેરોમાં આજે પેટ્રોલ અને ડીઝલનો ભાવ કેટલો છે તો આર્ટિકલ તમારા માટે જ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/premium-petrol-price-hike-find-out-what-the-price-of-petrol-and-diesel-is-in-your-city-today-469379 ",
-    "time": "2026-03-20T10:48:06.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "પોસ્ટપેડ લેતા પહેલા આ માહિતી જરૂર વાંચો…Jio, Airtel કે Vi કઈ કંપનીનો પ્લાન છે સસ્તો અને શ્રેષ્ઠ?",
     "desc": "શું તમે પ્રીપેડથી પોસ્ટપેઇડ પર સ્વિચ કરવાનું વિચારી રહ્યા છો? Jio, Airtel અને Vi બધા જ સુંદર પ્લાન ઓફર કરે છે, પરંતુ કયો પ્લાન વાસ્તવિક લાભ આપે છે? શું તમે મોંઘો પ્લાન પસંદ કરીને નુકસાનનું જોખમ લઈ રહ્યા છો? હકીકત જાણો અને પછી યોગ્ય પસંદગી કરો.",
@@ -439,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/jio-airtel-vi-news-of-which-company-offers-the-cheapest-and-best-postpaid-plan-469389 ",
     "time": "2026-03-20T10:35:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;CM મને ધમકાવે છે મારે ઘરે જવું છે પણ મને ધમકીઓ મળી રહી છે&amp;#039;, સુપ્રીમ કોર્ટ પહોંચી મહિલા રાજકારણી",
-    "desc": "મહિલા તરફથી કોર્ટમાં વકીલે કહ્યું કે મને ધમકીઓ મળી રહી છે અને હું કર્ણાટકમાં પ્રવેશ કરી શકતી નથી. મારી સુરક્ષા સાથે ચેડાં કરાઈ રહ્યાં છે. એટલે હું દિલ્હીમાં રહેવા માટે મજબૂર બની છે મને વારંવાર ધમકીઓ મળી રહી છે. એક નેતા સુપ્રીમમાં પહોંચતાં કોર્ટ પણ ચોંકી ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/cm-siddaramaiah-issues-threats-woman-approaches-supreme-court-with-complaint-469369 ",
-    "time": "2026-03-20T08:52:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -475,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/paul-stirling-resigns-as-t20-captain-ireland-t20-world-cup-2026-469298 ",
     "time": "2026-03-19T13:56:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ફરી ભારત-પાકિસ્તાન વચ્ચે જોવા મળશે ટક્કર, આ દિવસે રમાશે મેચ, શેડ્યૂલ જાહેર",
-    "desc": "2026 હોકી વર્લ્ડ કપ 15 ઓગસ્ટથી શરૂ થવાનો છે અને ટુર્નામેન્ટનું સંપૂર્ણ શેડ્યૂલ હવે જાહેર કરવામાં આવ્યું છે. ખાસ કરીને ભારત અને પાકિસ્તાનને એક જ ગ્રુપમાં રાખવામાં આવ્યા છે. આ મેચની તારીખ પણ જાહેર કરવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/hockey-world-cup-2026-schedule-announced-ind-vs-pak-match-on-19th-august-469266 ",
-    "time": "2026-03-19T11:01:03.000Z"
   },
   {
     "cat": "Tech",
@@ -691,14 +682,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/mardaani-3-ott-release-date-mardaani-3-on-netflix-468144 ",
     "time": "2026-03-11T11:41:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "કોઈ મિલ ગયા ફેમ અભિનેત્રીના છૂટાછેડા, 4 વર્ષમાં તૂટ્યું ઘર, ફ્રેન્ડના એક્સ સાથે કર્યા હતા લગ્ન",
-    "desc": "અભિનેત્રી હંસિકા મોટવાણી વિશે મોટા સમાચાર સામે આવ્યા છે. તેણીએ તેના પતિ સાથે છૂટાછેડા લીધા છે. ઘણા સમયથી તેમના લગ્નજીવનમાં તિરાડ પડી હોવાની અફવાઓ ફેલાઈ રહી હતી. હવે આના પર મહાર લાગી ગઈ છે. મુંબઈની બાંદ્રા કોર્ટે હંસિકા અને તેના પતિ વચ્ચે છૂટાછેડાને અંતિમ સ્વરૂપ આપ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/actress-hansika-motwani-gets-divorced-with-sohail-kathuria-468130 ",
-    "time": "2026-03-11T10:46:59.000Z"
   }
 ];

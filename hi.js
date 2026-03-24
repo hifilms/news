@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ben Stokes opens up on 'hardest period of his captaincy', entrusts McCullum-Key to take England forward",
+    "desc": "England’s Test skipper Ben Stokes has caught major headlines after he took to social media and wrote a heartfelt note for his fans. It is worth noting that Ben Stokes recently led England in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-opens-up-on-hardest-period-of-his-captaincy-entrusts-mccullum-key-to-take-england-forward-2026-03-24-1034878",
+    "time": "2026-03-24T06:17:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India women's squad for South Africa T20I series announced, uncapped star gets maiden call-up",
+    "desc": "The BCCI (Board of Control for Cricket in India) took centre stage and announced India women’s squad for the upcoming five-game T20I series against South Africa women. It is worth noting that the two sides...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-women-s-squad-for-south-africa-t20i-series-announced-uncapped-star-gets-maiden-call-up-2026-03-24-1034868",
+    "time": "2026-03-24T05:36:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Not even close to Andre Russell': Mohammad Kaif makes massive statement on Cameron Green ahead of IPL 2026",
+    "desc": "With the IPL (Indian Premier League) 2026 all set to kick off on March 28, many fans will be looking to see star all-rounder Cameron Green in action. Green was roped in by the three-time...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-kaif-makes-massive-statement-on-cameron-green-ahead-of-ipl-2026-2026-03-24-1034859",
+    "time": "2026-03-24T04:58:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Georgia Voll's stellar ton helps Australia women whitewash West Indies women in Kingston",
     "desc": "Australia women continued their dominant performance against West Indies women and whitewashed their opponents with their third straight victory against them. The two sides locked horns at the Arnos Vale Ground, Kingstown, St Vincent, on...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/disappointed-to-lose-sam-curran-for-ipl-2026-rr-coach-and-director-kumar-sangakkara-2026-03-23-1034819",
     "time": "2026-03-23T16:02:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "If Shreyas Iyer wins T20 World Cup as captain, he will not need leadership endorsement, says Aakash Chopra",
-    "desc": "Former Indian cricketer Aakash Chopra has stated that if Shreyas Iyer goes on to win the T20 World Cup as captain for India in 2028, he would not need any endorsement for leadership from anyone....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/if-shreyas-iyer-wins-t20-world-cup-as-captain-he-will-not-need-leadership-endorsement-says-aakash-chopra-2026-03-23-1034813",
-    "time": "2026-03-23T14:25:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Personally I don't like it'",
-    "desc": "Delhi Capitals captain Axar Patel has become the latest advocate against the IPL's Impact Player rule that was introduced in 2023. Speaking at a media briefing, Axar stated that he 'personally doesn't like' the rule,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-captain-axar-patel-not-fan-of-impact-player-rule-personally-i-dont-like-it-2026-03-23-1034807",
-    "time": "2026-03-23T13:24:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dasun Shanaka officially named Sam Curran's replacement at Rajasthan Royals after ditching PSL for IPL 2026",
-    "desc": "Sri Lanka star Dasun Shanaka has been officially named as Sam Curran's replacement at the Rajasthan Royals for the Indian Premier League 2026. The IPL body shared the announcement through a media release. \"Rajasthan Royals (RR)...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dasun-shanaka-officially-named-sam-currans-replacement-at-rajasthan-royals-after-ditching-psl-for-ipl-2026-2026-03-23-1034795",
-    "time": "2026-03-23T11:50:11.000Z"
   }
 ];
