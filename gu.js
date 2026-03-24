@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "અંતિમ ચરણમાં પહોંચ્યું યુદ્ધ ! ઈરાને દબાવી અરબ દેશોની દુખતી નસ, લાગ્યો ડર",
+    "desc": "અમેરિકાની ધમકીના જવાબમાં, ઈરાને એક વળતો જવાબ આપ્યો છે, જેનાથી ખાડી દેશો ચોકી ગયા છે. ઈરાને કહ્યું છે કે જો તેના પાવર પ્લાન્ટ્સને નિશાન બનાવવામાં આવશે, તો તે મધ્ય પૂર્વના પાવર પ્લાન્ટ્સને પણ છોડશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/the-war-has-reached-its-final-stage-iran-has-pressed-a-painful-nerve-in-the-arab-countries-fear-has-arisen-469936 ",
+    "time": "2026-03-24T09:29:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોના-ચાંદીમાં અફરાતફરી! શું એપ્રિલમાં ભાવ 1 લાખ રૂપિયા સુધી ગગડી જશે? જાણો આજનો લેટેસ્ટ રેટ",
+    "desc": "સોના અને ચાંદીમાં સોમવારે ભારે કડાકો જોવા મળ્યો હતો. ચાંદી તો સીધી 206000 આસપાસ પહોંચી ગઈ હતી. જો કે ત્યારબાદ ભાવમાં કરેક્શન જોવા મળ્યું અને પછી વાયદા બજાર અને રિટેલ બજારમાં વધારા સાથે બંધ થતા જોવા મળ્યા. જો કે આજે પાછી ઉથલપાથલ જોવા મળી છે ત્યારે હવે વૈશ્વિક પરિસ્થિતિઓના પગલે ચિંતા પેઠી છે કે શું ભાવ તળિયે જશે? ખાસ જાણો આજના લેટેસ્ટ રેટ અને શું કહે છે એક્સપર્ટ્સ...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-what-experts-say-for-april-2026-aaj-no-sona-chandi-no-bhav-business-news-in-gujarati-469922 ",
+    "time": "2026-03-24T08:28:20.000Z"
+  },
+  {
+    "cat": "World",
     "title": "&amp;#039;જો અમેરિકા પાકિસ્તાન પર હુમલો કરશે તો અમે દિલ્હી-મુંબઈને નિશાન બનાવીશું&amp;#039;, જાણો કોને આપી ભારતને ધમકી?",
     "desc": "મધ્ય ઈસ્ટમાં ચાલી રહેલા યુદ્ધ વચ્ચે ભૂતપૂર્વ પાકિસ્તાની રાજદ્વારી અબ્દુલ બાસિતે ભારત વિરુદ્ધ ઝેર ઓક્યું છે. પાકિસ્તાનના પૂર્વ રાજદ્વારી અબ્દુલ બાસિતે ભારત વિરુદ્ધ ઉશ્કેરણીજનક નિવેદન આપ્યું છે. તેમણે કહ્યું કે જો અમેરિકા પાકિસ્તાનના પરમાણુ કાર્યક્રમને નિશાન બનાવશે, તો પાકિસ્તાન પાસે દિલ્હી અને મુંબઈ જેવા ભારતીય શહેરો પર હુમલો કરવા સિવાય બીજો કોઈ વિકલ્પ રહેશે નહીં.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/if-america-attacks-pakistan-we-will-target-delhi-and-mumbai-former-pakistani-ambassador-issues-a-hollow-threat-to-india-469903 ",
-    "time": "2026-03-24T06:57:29.000Z"
+    "time": "2026-03-24T07:52:23.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "યુદ્ધ વચ્ચે અમેરિકાને કેમ જરૂર પડી નેગોશિએટિંગ પાર્ટનરની, ઈરાની નેતા Mohammad-Bagher Ghalibaf કરશે ઈચ્છા પૂરી?",
+    "desc": "ઈરાન સાથે યુદ્ધ છેડીને જાણે અમેરિકા માટે આ બેલ મુજે માર જેવી સ્થિતિ પેદા થઈ ગઈ છે. સૂત્ર મુજબ અમેરિકા ઈચ્છે છે કે ઈરાનમાં પોતાને મનપંસદ વ્યક્તિ સત્તા પર બિરાજમાન થાય. નેગોશિએશન માટે હવાતીયા પણ મારી રહ્યું છે. જેમાં ઈરાનની સંસદના સ્પીકર ઉપર પણ નજર છે. ખાસ જાણો તેમના વિશે અને શું છે અમેરિકાના મનમાં?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/why-us-need-a-negotiating-partner-in-the-midst-of-war-will-mohammad-bagher-ghalibaf-fulfill-the-wish-469904 ",
+    "time": "2026-03-24T07:09:33.000Z"
   },
   {
     "cat": "Sports",
@@ -360,24 +387,6 @@ const newsData_gu = [
     "time": "2026-03-22T05:17:09.000Z"
   },
   {
-    "cat": "World",
-    "title": "48 કલાકમાં હોર્મુઝ સ્ટ્રેટ ન ખોલ્યું તો પાવર પ્લાન્ટ પર કરીશું હુમલા.. ટ્રમ્પની ઈરાનને ધમકી",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ઈરાનને અલ્ટીમેટમ આપ્યું છે. જો 48 કલાકની અંદર હોર્મુઝ સ્ટ્રેટ ન ખોલ્યું તો અમેરિકા તેના પાવર પ્લાન્ટ પર હુમલો કરશે. ટ્રમ્પે સ્પષ્ટ રીતે કહ્યું કે તેની શરૂઆત સૌથી મોટા પાવર પ્લાન્ટથી કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/trump-warns-iran-open-strait-of-hormuz-attack-on-power-plant-469610 ",
-    "time": "2026-03-22T02:49:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "2008 જેવો લાગી શકે છે મોટો ઝટકો, પરંતુ શું અસલી સંકટ હજુ આવવાનું બાકી છે?",
-    "desc": "તેલના ભાવ ઓછા દેખાય છે, પરંતુ અસલમાં, ફુગાવો ઊંચો છે. પેટ્રોલ અને ડીઝલના ભાવ વધુ ઝડપથી વધી રહ્યા છે. જો યુદ્ધ ચાલુ રહે તો, તેલના ભાવ 2008ના રેકોર્ડને વટાવી શકે છે. ઈરાન યુદ્ધ વચ્ચે અસલી વાર્તા શું છે તે જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/world-oil-crisis-2008-may-seem-like-a-big-shock-but-is-the-real-crisis-yet-to-come-469582 ",
-    "time": "2026-03-21T15:52:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL પહેલા BCCIની મોટી જાહેરાત, આ દેશના પ્રવાસે જશે ટીમ ઈન્ડિયા, રમશે T20 સિરીઝ",
     "desc": "IPL 2026ની શરૂઆત પહેલા BCCIએ એક મોટી જાહેરાત કરી છે. ટીમ ઇન્ડિયા જૂન મહિનામાં એક નવી સિરીઝ રમવા માટે તૈયાર છે. આ બે મેચની સિરીઝ હશે. BCCIએ સોશિયલ મીડિયા પર આ અંગે સંપૂર્ણ વિગતો જાહેર કરી છે.",
@@ -423,24 +432,6 @@ const newsData_gu = [
     "time": "2026-03-21T03:50:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "LPG પર રાહતના સમાચાર! ભારતીય ઝંડાવાળા વધુ 2 જહાજ હોર્મુઝનો પડકાર પાર કરશે",
-    "desc": "હોર્મુઝ જળમાર્ગ બંધ થવાથી દુનિયાના અનેક દેશોમાં ઓઈલ અને ગેસ સંકટ વધી રહ્યું છે. ભારતમાં પણ સ્થિતિ જો આમ જ રહી તો આગળ જતા મુશ્કેલી સર્જાઈ શકે પરંતુ આ બધા વચ્ચે એક રાહતના સમાચાર એ આવ્યા છે કે વધુ બે ભારતીય જહાજ હોર્મુઝ જળમાર્ગ પસાર કરવા જઈ રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-news-on-lpg-2-more-indian-flagged-ships-may-cross-the-strait-of-hormuz-469454 ",
-    "time": "2026-03-21T03:08:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "1000 કિમી લાંબી પટ્ટીએ કેવી રીતે બગાડ્યું 3-3 દેશોનું હવામાન? કેમ પડ્યો વરસાદ, જાણો",
-    "desc": "હવામાન પરિવર્તને હવામાન ચક્રને સંપૂર્ણપણે વિક્ષેપિત કરી દીધું છે. તાજેતરના એક અહેવાલમાં મુંબઈ અને કાશ્મીરમાં વધતી ગરમી અંગે ચિંતા વ્યક્ત કરવામાં આવી હતી. આ દરમિયાન, ગુરુવારે બગડેલા હવામાનમાં શુક્રવારે કોઈ સુધારો થયો નથી. આ માટે 1,000 કિલોમીટર લાંબા પટ્ટીને જવાબદાર ઠેરવવામાં આવી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-did-a-1000-km-long-strip-spoil-the-weather-of-3-countries-find-out-why-it-rained-469413 ",
-    "time": "2026-03-20T13:15:30.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "પોસ્ટપેડ લેતા પહેલા આ માહિતી જરૂર વાંચો…Jio, Airtel કે Vi કઈ કંપનીનો પ્લાન છે સસ્તો અને શ્રેષ્ઠ?",
     "desc": "શું તમે પ્રીપેડથી પોસ્ટપેઇડ પર સ્વિચ કરવાનું વિચારી રહ્યા છો? Jio, Airtel અને Vi બધા જ સુંદર પ્લાન ઓફર કરે છે, પરંતુ કયો પ્લાન વાસ્તવિક લાભ આપે છે? શું તમે મોંઘો પ્લાન પસંદ કરીને નુકસાનનું જોખમ લઈ રહ્યા છો? હકીકત જાણો અને પછી યોગ્ય પસંદગી કરો.",
@@ -466,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/kerala-high-court-dismisses-pil-against-bcci-over-illegal-use-of-ipl-name-469310 ",
     "time": "2026-03-20T01:30:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપમાં ખરાબ પ્રદર્શનથી તૂટ્યું આ ક્રિકેટરનું દિલ, કેપ્ટન પદેથી આપ્યું રાજીનામું",
-    "desc": "આઇરિશ ક્રિકેટ ટીમ હવે ટી20 ક્રિકેટમાં નવા કેપ્ટનની શોધમાં છે. અનુભવી બેટ્સમેન પોલ સ્ટર્લિંગે ટી20 ટીમના કેપ્ટન પદેથી રાજીનામું આપવાનો મોટો નિર્ણય લીધો છે. આ નિર્ણય એવા સમયે લેવામાં આવ્યો છે, જ્યારે આઇરિશ ટીમ બદલાવના તબક્કામાંથી પસાર થઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/paul-stirling-resigns-as-t20-captain-ireland-t20-world-cup-2026-469298 ",
-    "time": "2026-03-19T13:56:40.000Z"
   },
   {
     "cat": "Tech",
@@ -655,15 +637,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/major-threat-for-older-iphone-users-apple-issues-emergency-update-468351 ",
     "time": "2026-03-13T04:49:00.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3.70 લાખની કાર પર 42500 રૂપિયાનું બમ્પર ડિસ્કાઉન્ટ, મળશે 33.85 km/kg માઇલેજ",
-    "desc": "જો તમને કહીએ કે 4 લાખ રૂપિયાથી સસ્તી કાર પર તમને 40 હજાર રૂપિયાથી વધુની છૂટ મળી રહી છે તો તમે લગભગ વિશ્વાસ નહીં કરો, પરંતુ માર્ચના મહિનામાં આ સંભવ થઈ રહ્યું છે. મારૂતિની સસ્તી કાર અલ્ટો કે10 પર બમ્પર ડિસ્કાઉન્ટ મળી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-alto-k10-buyers-can-avail-discount-upto-42500-rupees-468235 ",
-    "time": "2026-03-12T06:47:56.000Z"
   },
   {
     "cat": "Entertainment",

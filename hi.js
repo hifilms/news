@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sunrisers Hyderabad announces veteran England bowler as Jack Edwards' replacement for IPL 2026",
+    "desc": "With the ongoing injury crisis ahead of the 19th edition of the IPL (Indian Premier League), 2016 champions Sunrisers Hyderabad came forward and announced the signing of 35-year-old English bowler David Payne as the replacement...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-announces-veteran-england-bowler-as-jack-edwards-replacement-for-ipl-2026-2026-03-24-1034901",
+    "time": "2026-03-24T08:52:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manchester United announces withdrawal of key stars from national duty ahead of the international break",
+    "desc": "English Premier League club Manchester United has come forward and announced that two of their star players, Benjamin Sesko and Bryan Mbeumo, will not be fulfilling their international duties with Slovenia and Cameroon for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/manchester-united-announces-withdrawal-of-key-stars-from-national-duty-ahead-of-the-international-break-2026-03-24-1034896",
+    "time": "2026-03-24T08:29:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB to honour stampede victims, set to leave 11 empty seats at the Chinnaswamy Stadium in memory of the fans",
+    "desc": "In a moving moment from the IPL’s (Indian Premier League) defending champions Royal Challengers Bengaluru, the franchise will be honouring the 11 fans who lost their lives in the Bengaluru stampede back in June 2025....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-to-honour-stampede-victims-set-to-leave-11-empty-seats-at-the-chinnaswamy-stadium-in-memory-of-the-fans-2026-03-24-1034890",
+    "time": "2026-03-24T08:02:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB share major update on Yash Dayal's availability ahead of IPL 2026; Check details",
+    "desc": "In a major development and a blow to Royal Challengers Bengaluru ahead of the IPL (Indian Premier League) 2026. Bowler Yash Dayal is all set to miss out on the upcoming season of the tournament,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-share-major-update-on-yash-dayal-s-availability-ahead-of-ipl-2026-check-details-2026-03-24-1034886",
+    "time": "2026-03-24T07:29:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ben Stokes opens up on 'hardest period of his captaincy', entrusts McCullum-Key to take England forward",
     "desc": "England’s Test skipper Ben Stokes has caught major headlines after he took to social media and wrote a heartfelt note for his fans. It is worth noting that Ben Stokes recently led England in the...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kolkata-knight-riders-set-to-replace-akash-deep-with-saurabh-dubey-ahead-of-ipl-2026-2026-03-24-1034838",
     "time": "2026-03-24T01:42:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Batting top-class, what about bowling? CSK's best Playing XI for IPL 2026",
-    "desc": "Chennai Super Kings will look to revive themselves from the 2025 horror, where they finished at the bottom in the 10-team event. The Super Kings had one of the most terrible IPL seasons as they...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/batting-top-class-what-about-bowling-csks-best-playing-xi-for-ipl-2026-2026-03-24-1034826",
-    "time": "2026-03-23T18:38:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England decide to stick with Stokes, McCullum and Key despite Ashes humiliation",
-    "desc": "England have decided to stay with their top personnel despite the 4-1 Ashes humbling to Australia Down Under. The England and Wales Cricket Board launched a review within hours after England's series loss, and it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-decide-to-stick-with-stokes-mccullum-and-key-despite-ashes-humiliation-2026-03-23-1034824",
-    "time": "2026-03-23T17:58:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCB announces new selection panel, former-captain Habibul Bashar named chairman",
-    "desc": "The Bangladesh Cricket Board (BCB) has announced a new national selection panel, appointing former captain Kazi Habibul Bashar as the Chairman. The 53-year-old Bashar brings a strong experience behind him as he has served as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcb-announces-new-selection-panel-former-captain-habibul-bashar-named-chairman-2026-03-23-1034821",
-    "time": "2026-03-23T16:50:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RR coach and director Kumar Sangakkara",
-    "desc": "Rajasthan Royals' head coach and team director Kumar Sangakkara has highlighted that Sam Curran's absence from the Indian Premier League 2026 is a loss for them, as he pointed out the quality that he brings...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/disappointed-to-lose-sam-curran-for-ipl-2026-rr-coach-and-director-kumar-sangakkara-2026-03-23-1034819",
-    "time": "2026-03-23T16:02:59.000Z"
   }
 ];
