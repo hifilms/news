@@ -1,7 +1,34 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "CSK pick replacement for Nathan Ellis for IPL 2026, rope in former KKR, GT bowler",
+    "title": "3 players who can replace Ben Duckett in Delhi Capitals squad for IPL 2026",
+    "desc": "Delhi Capitals opener Ben Duckett has pulled out of the IPL 2026. The England international noted that his focus is to do well for the national team in all three formats of the game, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-players-who-can-replace-ben-duckett-in-delhi-capitals-squad-for-ipl-2026-2026-03-24-1034953",
+    "time": "2026-03-24T14:43:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rinku Singh gets new role, appointed vice-captain of KKR ahead of IPL 2026",
+    "desc": "Star India batter Rinku Singh will have a new role in the Kolkata Knight Riders as he has been appointed as vice-captain of the team ahead of the Indian Premier League 2026. Rinku has been an...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-gets-new-role-appointed-vice-captain-of-kkr-ahead-of-ipl-2026-2026-03-24-1034949",
+    "time": "2026-03-24T14:29:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ben Duckett pulls out of IPL 2026 to 'save England career', set to be banned for three years",
+    "desc": "Delhi Capitals opener Ben Duckett has pulled out of IPL 2026. The England international was bought for INR 2 crore in the auction and was expected to be reckoning for the opening slot alongside KL...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-duckett-pulls-out-of-ipl-2026-to-save-england-career-set-to-be-banned-for-three-years-2026-03-24-1034938",
+    "time": "2026-03-24T13:23:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK pick replacement for Nathan Ellis for IPL 2026, rope in bowler who left PSL 2026",
     "desc": "Chennai Super Kings have picked Australian fast bowler Spencer Johnson as a replacement for the injured Nathan Ellis for the upcoming Indian Premier League, the IPL body confirmed on Tuesday, March 24. Ellis was ruled out...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/australian-born-ryan-williams-likely-to-make-india-debut-named-in-squad-for-afc-hong-kong-qualifier-2026-03-24-1034910",
     "time": "2026-03-24T10:37:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunrisers Hyderabad announces veteran England bowler as Jack Edwards' replacement for IPL 2026",
-    "desc": "With the ongoing injury crisis ahead of the 19th edition of the IPL (Indian Premier League), 2016 champions Sunrisers Hyderabad came forward and announced the signing of 35-year-old English bowler David Payne as the replacement...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-announces-veteran-england-bowler-as-jack-edwards-replacement-for-ipl-2026-2026-03-24-1034901",
-    "time": "2026-03-24T08:52:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manchester United announces withdrawal of key stars from national duty ahead of the international break",
-    "desc": "English Premier League club Manchester United has come forward and announced that two of their star players, Benjamin Sesko and Bryan Mbeumo, will not be fulfilling their international duties with Slovenia and Cameroon for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/manchester-united-announces-withdrawal-of-key-stars-from-national-duty-ahead-of-the-international-break-2026-03-24-1034896",
-    "time": "2026-03-24T08:29:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB to honour stampede victims, set to leave 11 empty seats at the Chinnaswamy Stadium in memory of the fans",
-    "desc": "In a moving moment from the IPL’s (Indian Premier League) defending champions Royal Challengers Bengaluru, the franchise will be honouring the 11 fans who lost their lives in the Bengaluru stampede back in June 2025....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-to-honour-stampede-victims-set-to-leave-11-empty-seats-at-the-chinnaswamy-stadium-in-memory-of-the-fans-2026-03-24-1034890",
-    "time": "2026-03-24T08:02:52.000Z"
   }
 ];
