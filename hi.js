@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Georgia Voll's stellar ton helps Australia women whitewash West Indies women in Kingston",
+    "desc": "Australia women continued their dominant performance against West Indies women and whitewashed their opponents with their third straight victory against them. The two sides locked horns at the Arnos Vale Ground, Kingstown, St Vincent, on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/georgia-voll-s-stellar-ton-helps-australia-women-whitewash-west-indies-women-in-kingston-2026-03-24-1034852",
+    "time": "2026-03-24T04:00:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka Cricket clears Eshan Malinga ahead of IPL 2026, Pathirana-Hasaranga await clearance",
+    "desc": "In a major development, SLC (Sri Lanka Cricket) has cleared Eshan Malinga to participate in the upcoming edition of the IPL (Indian Premier League). It is worth noting that Malinga will be reporting to Sunrisers...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-cricket-clears-eshan-malinga-ahead-of-ipl-2026-pathirana-hasaranga-await-clearance-2026-03-24-1034844",
+    "time": "2026-03-24T02:36:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kolkata Knight Riders set to replace Akash Deep with Saurabh Dubey ahead of IPL 2026",
     "desc": "The IPL (Indian Premier League) 2026 is all set to kick off on March 28. Ahead of the new season, three-time champions Kolkata Knight Riders have been going through an injury crisis. With the likes...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dasun-shanaka-officially-named-sam-currans-replacement-at-rajasthan-royals-after-ditching-psl-for-ipl-2026-2026-03-23-1034795",
     "time": "2026-03-23T11:50:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Mitchell Starc miss Delhi Capitals' IPL 2026 opener? Franchise shares major update",
-    "desc": "Australian players' availability for the upcoming Indian Premier League 2026 has been a major talking point, with the franchises grappling with issues. Sunrisers Hyderabad will be missing captain Pat Cummins for the start of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-mitchell-starc-miss-delhi-capitals-ipl-2026-opener-franchise-shares-major-update-2026-03-23-1034791",
-    "time": "2026-03-23T11:25:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC announces Player of the Month award winners, Arundhati Reddy bags women's honour",
-    "desc": "The International Cricket Council (ICC) on Monday announced the Player of the Month Award winners for February. Star India bowling all-rounder Arundhati Reddy bagged the women's honour for her impressive performances in a T20I series...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-player-of-the-month-award-winners-arundhati-reddy-bags-womens-honour-2026-03-23-1034784",
-    "time": "2026-03-23T10:29:45.000Z"
   }
 ];

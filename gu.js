@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "કોલંબિયામાં સૈન્ય વિમાન ક્રેશ થતા 66 લોકોના મોત, રાષ્ટ્રપતિએ શેર કર્યો હચમચાવી નાખે તેવો Video",
+    "desc": "એકબાજુ વિશ્વમાં અનેક જગ્યાએ સૈન્ય સંઘર્ષ ચાલુ છે ત્યાં કોલંબિયામાં એક સૈન્ય માલવાહક વિમાન ટેકઓફ બાદ ક્રેશ થઈ ગયું જેમાં ઓછામાં ઓછા 66 લોકોના મોત થયા હોવાનું કહેવાય છે. વિમાનમાં 125 જવાનો અને ક્રૂ સભ્યો સવાર હોવાનું કહેવાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/colombia-plane-crash-viral-video-many-people-died-world-news-in-gujarati-469889 ",
+    "time": "2026-03-24T04:36:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL માટે નવી ગાઈડલાઈન જાહેર, હવે ખેલાડીઓની મનમાની નહીં ચાલે, BCCIએ લગાવ્યા આ પ્રતિબંધ",
+    "desc": "BCCIએ IPL 2026 પહેલા ટીમો માટે એક ગાઈડલાઈન જારી કરી છે. આમાં ખેલાડીઓ અને સપોર્ટ સ્ટાફથી લઈને પરિવારના સભ્યો, નેટ બોલરો અને અન્ય લોકો માટે કડક નિયમોનો સમાવેશ થાય છે, જેનું કડક પાલન કરવું જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bcci-issues-updated-ipl-2026-guidelines-for-players-support-staff-469887 ",
+    "time": "2026-03-24T04:04:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel US War: ભયાનક થશે યુદ્ધ? ઈરાન-ઈઝરાયેલ અમેરિકાના યુદ્ધમાં હવે આ દેશો પણ મોરચો માંડશે",
+    "desc": "અમેરિકા અને ઈઝરાયેલના ઈરાન સાથેના યુદ્ધમાં હવે બીજા દેશો પણ ઝંપ લગાવે તેવા અહેવાલ સામે આવી રહ્યા છે. એકબાજુ જ્યાં અમેરિકા ઈરાન સાથે યુદ્ધનો અંત આવે તેવી વાતચીત કરવાનો દાવો કરે છે ત્યાં આ દેશો મોરચો માંડે એનો શું અર્થ તારવી શકાય?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/will-these-countries-also-be-involved-in-the-iran-israel-america-war-what-wsj-reports-469885 ",
+    "time": "2026-03-24T03:43:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મિડલ ઈસ્ટ યુદ્ધમાં ભારત કોની સાથે ? PM મોદીએ પહેલીવાર આપ્યો જવાબ",
+    "desc": "વૈશ્વિક પરિદૃશ્ય પર બોલતા PM મોદીએ જણાવ્યું હતું કે જ્યારે વિશ્વ વિવિધ જૂથોમાં વહેંચાયેલું છે, ત્યારે ભારતે મજબૂત અને વ્યાપક ભાગીદારી બનાવી છે. પશ્ચિમ એશિયામાં સંઘર્ષ અને ઉર્જા પુરવઠામાં વિક્ષેપો હોવા છતાં ભારતે ગલ્ફ રાષ્ટ્રોથી લઈને વૈશ્વિક પશ્ચિમ અને દક્ષિણ સુધીના દરેક સાથે વિશ્વસનીય ભાગીદારી સ્થાપિત કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-is-india-supporting-amid-iran-conflict-pm-modi-gives-answer-first-time-469884 ",
+    "time": "2026-03-24T03:16:16.000Z"
+  },
+  {
     "cat": "Business",
     "title": "કેન્દ્રીય કર્મચારીઓની લાગશે લોટરી! બમ્પર પગાર વધારા સાથે મળી શકે છે ₹15 લાખ સુધી એરિયર્સ, સમજો કેલ્ક્યુલેશન",
     "desc": "8મા પગાર પંચમાં પગાર વધારાની આખી રમત ફિટમેન્ટ ફેક્ટર (Fitment Factor) પર નિર્ભર કરે છે. હાલમાં સરકારે 8મા પગાર પંચની તારીખ ફાઈનલ કરી નથી, પરંતુ એવું માનવામાં આવે છે કે, તે 1 જાન્યુઆરી 2026થી લાગુ થઈ શકે છે.",
@@ -378,15 +414,6 @@ const newsData_gu = [
     "time": "2026-03-21T03:08:26.000Z"
   },
   {
-    "cat": "World",
-    "title": "ક્રૂડ ઓઈલ અને ગેસ જ નહીં, હવે પર્યટન સ્થળો પર પણ ખતરો; ઈદ પર ઈરાનની ધમકીથી દુનિયાભરમાં ફફડાટ",
-    "desc": "ઈરાનના ટોપના સૈન્ય પ્રવક્તા અબ્દુલફઝલ શેકરચી (Abolfazl Shekarchi)એ શુક્રવારે એક કડક નિવેદન જાહેર કરીને ચેતવણી આપી છે કે, દુનિયાભરના પાર્ક, મનોરંજન સ્થળો અને પર્યટન કેન્દ્રો હવે સુરક્ષિત રહેશે નહીં. આ જાહેરાતથી ભારે ગભરાટ ફેલાયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/not-only-crude-oil-and-gas-now-tourist-destinations-are-also-under-threat-irans-threat-on-eid-creates-a-stir-around-the-world-469452 ",
-    "time": "2026-03-20T17:48:57.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "1000 કિમી લાંબી પટ્ટીએ કેવી રીતે બગાડ્યું 3-3 દેશોનું હવામાન? કેમ પડ્યો વરસાદ, જાણો",
     "desc": "હવામાન પરિવર્તને હવામાન ચક્રને સંપૂર્ણપણે વિક્ષેપિત કરી દીધું છે. તાજેતરના એક અહેવાલમાં મુંબઈ અને કાશ્મીરમાં વધતી ગરમી અંગે ચિંતા વ્યક્ત કરવામાં આવી હતી. આ દરમિયાન, ગુરુવારે બગડેલા હવામાનમાં શુક્રવારે કોઈ સુધારો થયો નથી. આ માટે 1,000 કિલોમીટર લાંબા પટ્ટીને જવાબદાર ઠેરવવામાં આવી રહ્યો છે.",
@@ -394,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/how-did-a-1000-km-long-strip-spoil-the-weather-of-3-countries-find-out-why-it-rained-469413 ",
     "time": "2026-03-20T13:15:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "LPG બાદ હવે ઇન્ટરનેટ પર જોખમ? સ્ટ્રેટ ઓફ હોર્મુઝમાં કેબલ કપાય તો ભારતમાં સર્જાઈ શકે છે મોટું સંકટ!",
-    "desc": "ઇરાન, અમેરિકા અને ઇઝરાયેલ વચ્ચેના ગલ્ફમાં ચાલી રહેલા યુદ્ધને કારણે સ્ટ્રેટ ઓફ હોર્મુઝમાં સમુદ્રની નીચે બિછાવેલા ઇન્ટરનેટ કેબલોને નુકસાન પહોંચવાનો ડર છે. મીડિયા રિપોર્ટ્સ અનુસાર, આ કેબલોને કોઈપણ નુકસાન થવા પર ઇન્ટરનેટ કનેક્ટિવિટીને અસર કરી શકે છે. ભારત પણ આનાથી બાકાત રહેશે નહીં. જો કેબલ કાપી નાખવામાં આવે છે, તો સમસ્યાનું નિરાકરણ લાવવામાં સમય લાગી શકે છે, કારણ કે સમારકામનું કામ વિશેષ જહાજો દ્વારા કરવામાં આવે છે અને જહાજોની અવરજવર આ વિસ્તારમાં ગંભીર રીતે પ્રભાવિત છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/after-lpg-there-now-a-risk-to-the-internet-if-the-cable-in-the-strait-of-hormuz-is-cut-a-major-crisis-can-arise-in-india-469404 ",
-    "time": "2026-03-20T12:44:59.000Z"
   },
   {
     "cat": "Politics",
@@ -475,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/tiktok-or-youtube-good-followers-meta-offer-guaranteed-monthly-469264 ",
     "time": "2026-03-19T10:24:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "&amp;#039;આપણે ODI વર્લ્ડ કપ જીતી લઈએ ત્યાં સુધી મને રહેવા દો&amp;#039;, આ દિગ્ગજની મોટી માંગ, હવે BCCI શું કરશે ?",
-    "desc": "ટી20 વર્લ્ડ કપ અને ચેમ્પિયન્સ ટ્રોફીમાં ભારતની જીત બાદ મુખ્ય પસંદગીકાર અજિત અગરકરે BCCIને તેમનો કાર્યકાળ 2027ના વનડે વર્લ્ડ કપ સુધી લંબાવવા વિનંતી કરી છે. તેમના કાર્યકાળ દરમિયાન ટીમ ઈન્ડિયાએ ત્રણ ICC ટાઇટલ જીત્યા હતા, જોકે ટેસ્ટ ક્રિકેટમાં તેમનું પ્રદર્શન નિરાશાજનક રહ્યું હતું. બોર્ડે હવે તેમના ભવિષ્ય અંગે મોટો નિર્ણય લેવો પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/chief-selector-ajit-agarkar-demand-tenure-extension-till-odi-world-cup-2027-469240 ",
-    "time": "2026-03-19T09:53:52.000Z"
   },
   {
     "cat": "Tech",
