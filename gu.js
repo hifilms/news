@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "દુનિયામાં પરમાણુ યુદ્ધનો ખતરો? શું સાચી પડવાની છે બાબા વેંગાની આ ડરામણી ભવિષ્યવાણી?",
+    "desc": "અમેરિકા, ઈઝરાયેલ અને ઈરાન વચ્ચે ચાલી રહેલા યુદ્ધે ખતરનાક સ્વરૂપ ધારણ કર્યું છે. હવે દુનિયા પર પરમાણુ યુદ્ધના વાદળો મંડરાઈ રહ્યા છે. આ સ્થિતિ વચ્ચે સોશિયલ મીડિયા પર બાબા વેંગાની ડરામણી ભવિષ્યવાણી વાયરલ થઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/us-israel-iran-war-is-there-a-threat-of-nuclear-war-in-the-world-is-this-scary-prophecy-of-baba-venga-coming-true-469994 ",
+    "time": "2026-03-24T17:08:17.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ધર્મ પરિવર્તન કરીને તમે ઈસાઈ કે મુસ્લિમ બન્યા તો.... સુપ્રીમે આપ્યો ઐતિહાસિક ચૂકાદો",
     "desc": "સુપ્રીમ કોર્ટે મંગળવારે એક ઐતિહાસિક ચૂકાદો આપતા સ્પષ્ટ કર્યું છે કે, હિન્દુ, શીખ અથવા બૌદ્ધ ધર્મ સિવાયનો અન્ય ધર્મ પાળતી વ્યક્તિ અનુસૂચિત જાતિ (SC) ના સભ્ય તરીકે ગણાઈ શકે નહીં. કોર્ટે સ્પષ્ટ કર્યું કે આ વ્યક્તિ એસસી/ એસટી એક્ટ હેઠળ સુરક્ષાનો દાવો કરી શકે નહીં.",
@@ -367,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/mumbai-indians-in-trouble-before-ipl-hardik-advised-to-step-down-as-captain-know-the-full-story-469741 ",
     "time": "2026-03-22T16:00:35.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "સરકારે પેટ્રોલ અને ડીઝલના ભાવમાં કર્યો 25% વધારો, હવે આ દેશ પર મંડરાઈ રહ્યો છે તેલ સંકટનો ખતરો !",
-    "desc": "અમેરિકા, ઇઝરાયલ અને ઈરાન વચ્ચે વધતા લશ્કરી તણાવની અસર હવે વિશ્વના ઘણા દેશોની અર્થવ્યવસ્થા પર સ્પષ્ટપણે દેખાઈ રહી છે. વૈશ્વિક ક્રૂડ ઓઇલ સપ્લાયમાં વિક્ષેપોના કારણે કિંમતોમાં સતત વધારો થઈ રહ્યો છે, જેની સીધી અસર નાના આયાત-આધારિત દેશો પર પડી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/the-government-has-increased-the-prices-of-petrol-and-diesel-by-25-percent-now-the-threat-of-an-oil-crisis-is-looming-over-this-country-469726 ",
-    "time": "2026-03-22T14:54:18.000Z"
   },
   {
     "cat": "Sports",
