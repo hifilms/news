@@ -1,6 +1,141 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "surfeit of faces for CM’s post in Congress in Kerala",
+    "desc": "P.J. Kurien endorses Chennithala, but leader downplays it, says final decision rests with high command; K.C. Joseph warns against potential divisiveness; Congress has ‘a galaxy of leaders’ capable of executing any political task, says Satheesan",
+    "img": "https://th-i.thgim.com/public/incoming/8ms3sy/article70785629.ece/alternates/LANDSCAPE_1200/JA13CongressProtest02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-polls-buzz-over-congress-cm-candidate-continues-despite-leaderships-efforts-to-rein-it-in/article70783175.ece",
+    "time": "2026-03-25T21:31:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "OpenAI hires JioStar's ex-CEO to lead Apac ops",
+    "desc": "OpenAI, the creator of ChatGPT, is expanding in Asia. Kiran Mani, former JioStar CEO, will lead the company's operations in the Asia-Pacific region. He joins in June. This move signals OpenAI's focus on growing its user base in key markets like India. Mani will oversee regional strategy and operations.",
+    "img": "https://static.toiimg.com/photo/msid-129811391,imgsize-.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/openai-hires-jiostars-ex-ceo-to-lead-apac-ops/articleshow/129811391.cms",
+    "time": "2026-03-25T21:14:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IHC arm gets RBI nod to buy Sammaan Capital",
+    "desc": "Sammaan Capital shares surged 6% following the RBI's approval for a controlling stake acquisition by UAE's International Holding Company (IHC). IHC will invest approximately Rs 8,850 crore through its entity, Avenir Investment, marking a significant development for the company.",
+    "img": "https://static.toiimg.com/photo/msid-129811384,imgsize-221213.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ihc-arm-gets-rbi-nod-to-buy-sammaan-capital/articleshow/129811371.cms",
+    "time": "2026-03-25T21:09:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sensex jumps 1.2k pts as efforts to end war gain pace",
+    "desc": "Indian stock markets surged today, with Sensex crossing 75,000 points. This rally, driven by hopes of a West Asia conflict resolution and easing crude oil prices, saw global markets also perform strongly. Foreign fund selling slowed, while domestic investors bought heavily, adding significant wealth to investors.",
+    "img": "https://static.toiimg.com/photo/msid-129811354,imgsize-1214436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-jumps-1-2k-pts-as-efforts-to-end-war-gain-pace/articleshow/129811352.cms",
+    "time": "2026-03-25T21:00:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Finance Bill passed with 32 amendments",
+    "desc": "Lok Sabha approved the Finance Bill with key amendments. Promoters' capital gains from share buybacks will now face a 12% surcharge. Startup tax holidays have been extended, with the turnover threshold raised to Rs 300 crore. Taxpayers will now receive a minimum of 30 days to respond to reassessment notices, fostering a trust-based tax administration.",
+    "img": "https://static.toiimg.com/photo/msid-129811345,imgsize-1171097.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/finance-bill-passed-with-32-amendments/articleshow/129811340.cms",
+    "time": "2026-03-25T20:56:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Officials meet to map demand &amp; supply to avoid disruptions",
+    "desc": "An empowered group of officials has begun assessing demand and supply chains to mitigate the impact of the West Asia conflict. The government is prioritizing food and fuel availability, exploring alternative import sources and potential duty cuts to stabilize prices. Efforts are underway to secure LPG supplies, with a focus on diversifying from West Asian sources.",
+    "img": "https://static.toiimg.com/photo/msid-129811337,imgsize-1277835.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/officials-meet-to-map-demand-supply-to-avoid-disruptions/articleshow/129811332.cms",
+    "time": "2026-03-25T20:52:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil slides, gold &amp; silver rise on US move to end conflict",
+    "desc": "Oil prices dropped significantly on Wednesday. This followed a US proposal to Iran and a slowdown in regional hostilities. Brent crude fell 3%. Gold and silver prices saw a substantial increase. This rally in precious metals reflects reduced fears of energy supply disruptions and potential inflation.",
+    "img": "https://static.toiimg.com/photo/msid-129811302,imgsize-1021011.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-crisis-oil-slides-gold-silver-rise-on-us-move-to-end-conflict/articleshow/129811285.cms",
+    "time": "2026-03-25T20:40:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Infosys to buy two US cos for $560mn",
+    "desc": "Infosys is significantly expanding its healthcare and insurance sectors in the US through two major acquisitions. The company is acquiring Optimum Healthcare IT for up to $465 million to enhance its provider segment presence. Additionally, Stratus will be acquired for up to $95 million to strengthen its P&C insurance capabilities and AI-driven transformation services.",
+    "img": "https://static.toiimg.com/photo/msid-129811277,imgsize-585407.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/infosys-to-buy-two-us-cos-for-560mn/articleshow/129811273.cms",
+    "time": "2026-03-25T20:36:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US, EU seek WTO reform as meet starts",
+    "desc": "The World Trade Organization's ministerial meeting in Cameroon will focus on reforming the 30-year-old body. The US and EU aim to expand talks to new issues and recognize plurilateral agreements, while India will advocate for farm trade reforms and preserve the WTO's core principles, prioritizing small farmers and policy space for developing economies.",
+    "img": "https://static.toiimg.com/photo/msid-129811270,imgsize-36120.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-eu-seek-wto-reform-as-meet-starts/articleshow/129811266.cms",
+    "time": "2026-03-25T20:33:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘I felt critics didn’t understand my work'",
+    "desc": "At a time when the lines between creators, critics and audiences are increasingly blurring, Abhishek Bachchan, son of megastar Amitabh Bachchan, shared a candid and introspective take on the evolving ecosystem of content and criticism.",
+    "img": "https://static.toiimg.com/photo/msid-129811198,imgsize-76206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-admits-he-once-struggled-with-criticism-i-felt-critics-didnt-understand-my-work-or-werent-qualified-to-judge-it/articleshow/129811198.cms",
+    "time": "2026-03-25T20:23:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Banks tap costly funds as credit outpaces deposits",
+    "desc": "Indian banks face a growing funding gap as credit expansion outpaces deposit growth. Lenders are turning to certificates of deposit, a wholesale funding source, to meet loan demand. This shift reflects changing household savings patterns and strong credit appetite across various sectors. Banks are also reallocating capital from government securities to support lending activities.",
+    "img": "https://static.toiimg.com/photo/msid-129811227,imgsize-1649848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/banks-tap-costly-funds-as-credit-outpaces-deposits/articleshow/129811215.cms",
+    "time": "2026-03-25T20:19:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Now, Airbus mulls ATR final assembly line in India after Embraer",
+    "desc": "Airbus is considering establishing a final assembly line (FAL) in India for its ATR regional aircraft, driven by the government's focus on enhancing aerial connectivity. This move aligns with India's 'Make in India' vision and could reduce acquisition costs for local airlines, potentially boosting regional air travel.",
+    "img": "https://static.toiimg.com/photo/msid-129811142,imgsize-145582.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/regional-push-now-airbus-mulls-atr-final-assembly-line-in-india-after-embraer/articleshow/129811148.cms",
+    "time": "2026-03-25T20:00:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "No interest in ‘playing a hairy man covered in blood’",
+    "desc": "At a time when action-heavy, hyper-masculine protagonists are dominating the big screen, Imran Khan has made it clear he isn’t looking to join that wave. During a recent Reddit AMA, the actor addressed a fan’s suggestion about avoiding “macho roles” and responded with a remark that quickly caught attention.",
+    "img": "https://static.toiimg.com/photo/msid-129810591,imgsize-46766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imran-khan-questions-angry-hero-trend-says-he-has-no-interest-in-playing-a-hairy-man-covered-in-blood/articleshow/129810591.cms",
+    "time": "2026-03-25T19:17:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PDP MLA’s bill proposing new divisions, districts in J&amp;K faces flak from NC, BJP",
+    "desc": "PDP legislator Waheed Parra's bill proposing 16 new districts and two divisions in J&K has drawn sharp criticism. The ruling NC called it a sabotage attempt to undermine sub-region empowerment, while the BJP alleged it aligns with Pakistan's ISI agenda to create a 'Greater Kashmir' by dividing Jammu.",
+    "img": "https://static.toiimg.com/photo/msid-129810559,imgsize-1989485.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pdp-mlas-bill-proposing-new-divisions-districts-in-jk-faces-flak-from-nc-bjp/articleshow/129810425.cms",
+    "time": "2026-03-25T19:12:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parliament passes bill to amend transgender law; two members of council for TG persons quit in protest",
+    "desc": "Parliament passed the Transgender Persons (Protection of Rights) Bill 2026, sparking immediate resignations from two National Council for Transgender Persons members protesting the lack of community consultation. The bill removes self-perceived gender identity, introducing a medical board for transgender certificates, a move critics deem regressive and a step backward for fundamental rights.",
+    "img": "https://static.toiimg.com/photo/msid-129810506,imgsize-1675460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/parl-passes-bill-to-amend-transgender-law-two-members-of-council-for-tg-persons-quit-in-protest/articleshow/129810492.cms",
+    "time": "2026-03-25T19:09:38.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "J&amp;K admin defends ban on books in HC, says ‘secessionist’ in nature",
     "desc": "Jammu and Kashmir administration defended its ban on 25 Kashmir-related books in high court, citing state security and public order. The government also justified the legal provision used for the ban. Petitioners challenging the order have been given time to respond. The full bench will hear the case.",
     "img": "https://static.toiimg.com/photo/msid-129810015,imgsize-1244038.cms",
@@ -124,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-reacts-to-age-gap-with-wamiqa-gabbi-and-romancing-her-in-bhooth-bangla-humne-pehle-dekha-nahi-hai-kya-kabhi/articleshow/129807253.cms",
     "time": "2026-03-25T16:54:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Parliament will function until April 2; Lok Sabha starts debate on amendments to insolvency & bankruptcy law",
-    "desc": "Parliamentary Affairs Minister Kiren Rijiju says that though there was a proposal to hold sittings during the weekend, Parliament will not function on March 28 and March 29; March 31 will be a holiday because of Mahavir Jayanti",
-    "img": "https://th-i.thgim.com/public/incoming/p8vzme/article70785316.ece/alternates/LANDSCAPE_1200/20260325151L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/parliament-budget-session-phase-2-function-until-april-2-lok-sabha-debate-amendments-insolvency-bankruptcy-law/article70784816.ece",
-    "time": "2026-03-25T16:39:43.000Z"
   },
   {
     "cat": "Sports",
@@ -486,15 +612,6 @@ const newsData_en = [
     "time": "2026-03-25T11:27:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Is Shreya Ghoshal taking Rs 1.65 crore for a live show? Netizens react",
-    "desc": "A viral screenshot suggests Shreya Ghoshal earned Rs 1.65 crore for a live show, sparking debate. While unconfirmed, fans argue the amount is too low for her talent and demand, with many believing she deserves significantly more. The discussion highlights her immense popularity and vocal prowess.",
-    "img": "https://static.toiimg.com/photo/msid-129799659,imgsize-28810.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-shreya-ghoshal-taking-rs-1-65-crore-for-a-live-show-netizens-react-and-say-she-is-honestly-undercharging/articleshow/129799552.cms",
-    "time": "2026-03-25T11:22:38.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "War-hit schedule sees Iran's Tractor travel to Saudi for ACL quarterfinal berth",
     "desc": "Iran’s Tractor FC will travel to Saudi Arabia to face Shabab Al Ahli in a playoff. The winner will move into the quarterfinals of the Asian Champions League Elite, where they will meet Buriram United.",
@@ -502,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/war-hit-schedule-sees-irans-tractor-travel-to-saudi-for-acl-quarterfinal-berth/articleshow/129799210.cms",
     "time": "2026-03-25T11:21:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ashwath Marimuthu reveals missed film opportunity with Rajinikanth",
-    "desc": "Director Ashwath Marimuthu revealed a missed opportunity to direct a film for Rajinikanth. The legendary actor was so impressed with Marimuthu's story that he skipped his food during the narration. Despite the project not materializing, Rajinikanth encouraged Marimuthu to keep the story safe, suggesting it would suit him or Kamal Haasan.",
-    "img": "https://static.toiimg.com/photo/msid-129799434,imgsize-107784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ashwath-marimuthu-reveals-missed-film-opportunity-with-rajinikanth-he-heard-the-story-and-even-skipped-his-food/articleshow/129799434.cms",
-    "time": "2026-03-25T11:17:00.000Z"
   },
   {
     "cat": "Sports",
@@ -531,15 +639,6 @@ const newsData_en = [
     "time": "2026-03-25T11:04:38.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Are banks open or closed on March 26 and 27; check state-wise list",
-    "desc": "Bank customers must check holiday schedules before visiting branches this week. Closures will occur due to festivals and state holidays. RBI guidelines also mean branches will be shut on the second and fourth Saturdays of March. Plan your banking needs accordingly. Digital platforms like mobile apps and UPI remain active for everyday transactions. Services requiring branch visits will be unavailable.",
-    "img": "https://static.toiimg.com/photo/msid-129798973,imgsize-2760078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-on-ram-navmi-are-banks-open-or-closed-on-march-26-and-27-check-state-wise-list/articleshow/129798175.cms",
-    "time": "2026-03-25T10:59:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Facing racism in Indian dressing room, how Sivaramakrishnan found comfort in WI",
     "desc": "Sivaramakrishnan, who played 25 international matches for India, made his Test debut in Antigua in April 1983 at the age of 17 years and 118 days, becoming one of the youngest to represent the country in the format.",
@@ -549,33 +648,6 @@ const newsData_en = [
     "time": "2026-03-25T10:48:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "From thin margin wins to increasing NOTA, what last elections vote share reveal",
-    "desc": "Kerala's 2026 Assembly elections are poised for close contests, mirroring the 2021 polls where narrow victory margins and fragmented vote shares were prevalent. Despite a consistent but limited NOTA presence, the focus remains on micro-level swings and party strength, as recent local body elections indicate potential shifts in tightly contested constituencies.",
-    "img": "https://static.toiimg.com/photo/msid-129798661,imgsize-579870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kerala-polls-2026-from-thin-margin-wins-to-increasing-nota-what-last-elections-vote-share-reveal/articleshow/129797481.cms",
-    "time": "2026-03-25T10:46:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will NSE, BSE remain shut for trading on Ram Navmi?",
-    "desc": "Investors can note that Dalal Street will observe a holiday on March 26 for Ram Navmi, as per the exchange's official calendar. This early pause in the trading week means equity markets will be closed. The article also lists upcoming stock market holidays for 2026, including Shri Mahavir Jayanti and Good Friday.",
-    "img": "https://static.toiimg.com/photo/msid-129798129,imgsize-2781046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-on-march-26-will-nse-bse-remain-shut-for-trading-on-ram-navmi/articleshow/129798096.cms",
-    "time": "2026-03-25T10:27:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Private sector weather guidelines explained",
-    "desc": "Unstable weather in the UAE prompts questions about mandatory remote work for private sector employees. While not automatically mandated, authorities strongly encourage companies to prioritise worker safety, offering flexibility like remote or hybrid options. Employers must ensure safe conditions, with a focus on protecting outdoor workers, reflecting a balance between business continuity and employee wellbeing.",
-    "img": "https://static.toiimg.com/photo/msid-129798094,imgsize-27996.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-remote-work-policy-amid-rains-and-storm-private-sector-weather-guidelines-explained/articleshow/129796401.cms",
-    "time": "2026-03-25T10:24:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Is Arshdeep losing his swing? Irfan Pathan flags concern for Punjab's pacer",
     "desc": "Former Indian all-rounder Irfan Pathan has urged Arshdeep Singh to focus on his new-ball swing, noting a decline in this area over the past year. Despite Arshdeep's success as India's leading T20 World Cup wicket-taker and a consistent performer for Punjab Kings, Pathan believes improving new-ball bowling and economy rate is crucial for his future.",
@@ -583,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/is-arshdeep-losing-his-swing-irfan-pathan-flags-concern-for-punjabs-pacer/articleshow/129798149.cms",
     "time": "2026-03-25T10:21:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "60 million barrels of Russian crude booked by Indian refiners amid global supply strain",
-    "desc": "Indian refiners have significantly increased purchases of Russian crude, securing around 60 million barrels for the upcoming month amidst Middle East conflict-driven supply disruptions. This surge is supported by a US waiver allowing imports of Russian oil loaded before March 12, with refiners also diversifying with Venezuelan and previously Iranian crude.",
-    "img": "https://static.toiimg.com/photo/msid-129797873,imgsize-490954.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/60-million-barrels-of-russian-crude-booked-by-indian-refiners-amid-global-supply-strain/articleshow/129796029.cms",
-    "time": "2026-03-25T10:15:33.000Z"
   },
   {
     "cat": "Sports",
@@ -621,24 +684,6 @@ const newsData_en = [
     "time": "2026-03-25T09:54:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Doctors say veteran Congress leader to remain under observation",
-    "desc": "Veteran Congress leader Sonia Gandhi is stable and under observation at Sir Ganga Ram Hospital after being admitted Tuesday night due to feeling unwell following a weather change. Doctors are conducting investigations for potential stomach and urinary tract infections, with antibiotics administered as part of her treatment. Her condition is being closely monitored by a medical team.",
-    "img": "https://static.toiimg.com/photo/msid-129797691,imgsize-31240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sonia-gandhi-in-hospital-doctors-say-veteran-congress-leaders-condition-is-stable/articleshow/129797465.cms",
-    "time": "2026-03-25T09:54:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Historic step': After Uttarakhand, Gujarat passes Uniform Civil Code Bill",
-    "desc": "Gujarat has passed its Uniform Civil Code Bill, 2026. This makes it the second Indian state to adopt a unified law for marriage, divorce, and inheritance. Union Home Minister Amit Shah hailed it as a historic step for equality. Chief Minister Bhupendra Patel stated the UCC will ensure equal rights and dignity for women across all communities.",
-    "img": "https://static.toiimg.com/photo/msid-129797402,imgsize-491203.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/historic-step-after-uttarakhand-gujarat-passes-uniform-civil-code-bill/articleshow/129797203.cms",
-    "time": "2026-03-25T09:52:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Barred by interim govt, BCB now wants Hasina-linked cricketer back for 'long term'",
     "desc": "Shakib, 39, had moved to the United States after the country's Awami League government led by Sheikh Hasina was removed following a student uprising in 2024. The interim government had barred Shakib from representing Bangladesh",
@@ -655,24 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/exclusive-cooper-connolly-looks-to-learn-grow-and-emulate-shaun-marsh-at-punjab-kings/articleshow/129795669.cms",
     "time": "2026-03-25T08:49:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Anti-Bengali party': Mamata vs BJP over puja pandal permission row",
-    "desc": "As West Bengal assembly elections approach, the BJP and TMC are trading sharp accusations. BJP chief Nitin Nabin alleged Hindus need court permission for puja pandals while Muslims can offer namaz freely. Chief Minister Mamata Banerjee countered, calling the BJP an 'anti-Bengali' party and raising concerns about voter roll deletions and citizenship.",
-    "img": "https://static.toiimg.com/photo/msid-129795949,imgsize-1128206.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/anti-bengali-party-mamata-vs-bjp-over-puja-pandal-permission-row/articleshow/129795617.cms",
-    "time": "2026-03-25T08:36:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Middle East tensions ripple through Pakistan’s fragile economy: Fuel cost soars, household bills pile up and more",
-    "desc": "The Middle East crisis is severely impacting Pakistan's already fragile economy, triggering soaring oil and LNG prices. This energy shock is fueling inflation, raising travel costs, and straining household budgets. Experts warn of deepening vulnerabilities, with potential collapse if the conflict escalates and reserves dwindle, disproportionately affecting the poor.",
-    "img": "https://static.toiimg.com/photo/msid-129795568,imgsize-2276266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/middle-east-tensions-ripple-through-pakistans-fragile-economy-fuel-cost-soars-household-bills-pile-up-and-more/articleshow/129794684.cms",
-    "time": "2026-03-25T08:21:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
   }
 ];
