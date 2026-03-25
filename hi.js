@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why has Jasprit Bumrah reported to BCCI CoE before start of IPL 2026?",
+    "desc": "As the IPL sits on the horizon, Jasprit Bumrah has reported to the Board of Control for Cricket in India's (BCCI) Centre of Excellence (CoE). Bumrah has been a vital man for the Mumbai Indians,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-has-jasprit-bumrah-reported-to-bcci-coe-before-start-of-ipl-2026-2026-03-25-1035060",
+    "time": "2026-03-25T11:47:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav makes two-place jump, New Zealand quicks rise in ICC rankings",
+    "desc": "India T20I captain Suryakumar Yadav made a two-place jump in the latest ICC T20I rankings for the batters, while several New Zealand and South Africa stars also gained spots in the weekly ranking update. SKY, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-makes-two-place-jump-new-zealand-quicks-rise-in-icc-rankings-2026-03-25-1035058",
+    "time": "2026-03-25T11:18:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KKR skipper Ajinkya Rahane puts focus on 'fearless, positive brand of cricket' ahead of IPL 2026",
+    "desc": "Leading Kolkata Knight Riders into his second season, India batter Ajinkya Rahane emphasised on the need of 'fearlessness' and 'positive brand of cricket' as the team looks to bounce back from the underwhelming 2025, when...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-skipper-ajinkya-rahane-puts-focus-on-fearless-positive-brand-of-cricket-ahead-of-ipl-2026-2026-03-25-1035050",
+    "time": "2026-03-25T10:29:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Connor Esterhuizen produces stunning knock as South Africa seal T20I series vs New Zealand",
+    "desc": "South Africa defeated hosts New Zealand by 33 runs to seal the T20I series 3-2. It was a landmark moment for the Proteas, who marked their first away series win in the format under head...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/connor-esterhuizen-produces-stunning-knock-as-south-africa-seal-t20i-series-vs-new-zealand-2026-03-25-1035049",
+    "time": "2026-03-25T10:21:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bangladesh eye long-term return for Shakib Al Hasan, target all-rounder for 2027 World Cup",
     "desc": "Habibul Bashar has indicated that Bangladesh are exploring a long-term return for Shakib Al Hasan, with the newly-appointed chairman of selectors keen to see the veteran all-rounder back in national colours for an extended period. The...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/if-they-could-give-0-5-paul-van-meekeran-urges-to-support-netherlands-cricket-amid-rcb-s-sale-2026-03-25-1035009",
     "time": "2026-03-25T05:37:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will Chennai's top order shape, who will replace Ravindra Jadeja?",
-    "desc": "Ahead of IPL 2026, Chennai Super Kings made a bold trade by bringing in Sanju Samson in exchange for their former captain Ravindra Jadeja and Sam Curran. The deal signals a transition phase for CSK,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-predicted-playing-xi-for-ipl-2026-how-will-chennai-s-top-order-shape-who-will-replace-ravindra-jadeja-2026-03-25-1034997",
-    "time": "2026-03-25T04:31:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What led to Egyptian winger's departure from Premier League club?",
-    "desc": "After a nine-year-long association, Mohammed Salah has decided to leave Liverpool at the end of the season, bringing an end to one of the most decorated individual eras in the club’s modern history. Since arriving...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/mohammed-salah-to-leave-liverpool-what-led-to-egyptian-winger-s-departure-from-premier-league-club-2026-03-25-1034991",
-    "time": "2026-03-25T03:37:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Meet RCB's new owner, Aryaman Birla, who played with captain Rajat Patidar, was with RR too",
-    "desc": "Royal Challengers Bengaluru have been acquired completely by a consortium led by the Aditya Birla Group (ABG) for a whopping amount of USD 1.78 billion (approximately Rs 16,706 crore) from its current owner the United...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/meet-rcbs-new-owner-aryaman-birla-who-played-with-captain-rajat-patidar-was-with-rr-too-2026-03-24-1034977",
-    "time": "2026-03-24T18:29:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sourav Ganguly gives honest reaction on Mitchell Starc's uncertainty ahead of IPL 2026",
-    "desc": "Director of Cricket at Delhi Capitals, Sourav Ganguly, criticised the uncertainty over Mitchell Starc for the start of the Indian Premier League 2026, which gets underway on March 28. With Starc's availability for the initial...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sourav-ganguly-gives-honest-reaction-on-mitchell-starcs-uncertainty-ahead-of-ipl-2026-2026-03-24-1034971",
-    "time": "2026-03-24T17:41:51.000Z"
   }
 ];
