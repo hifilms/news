@@ -1,6 +1,177 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Travis Kelce nods to Taylor Swift during Chiefs deal",
+    "desc": "Kansas City Chiefs tight end Travis Kelce celebrated his one-year, $12 million contract extension with a sweet gesture, waving at a photo of his girlfriend Taylor Swift at Arrowhead Stadium. Kelce credited Swift's passion for her music with inspiring his own renewed dedication to football, motivating him to return for another season with the Chiefs.",
+    "img": "https://static.toiimg.com/photo/msid-129793148,imgsize-754315.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/travis-kelce-shares-sweet-moment-with-taylor-swift-photo-during-usd-12m-chiefs-signing/articleshow/129793140.cms",
+    "time": "2026-03-25T06:33:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kumbh Mela fame Monalisa Bhosle accuses director of ‘misbehaving’ with minor girls",
+    "desc": "Monalisa Bhosle made the allegation at a press conference in Kerala, where she also sought help from the Centre and State governments of Kerala and Madhya Pradesh, claiming that she and her husband were receiving death threats",
+    "img": "https://th-i.thgim.com/public/incoming/baoqa1/article70782559.ece/alternates/LANDSCAPE_1200/NH12Monalisa05.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/monalisa-bhosle-accuses-director-of-misbehaving-with-minor-girls/article70781454.ece",
+    "time": "2026-03-25T06:30:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Trying to deflect attention from Iran war': Congress slams BJP over Lutyens eviction notice",
+    "desc": "The Congress party has received an eviction notice for its long-standing national headquarters at 24, Akbar Road, with a deadline of March 28. The party alleges the move is politically motivated by the BJP government to divert attention from the Iran war. Congress plans to challenge the notice in court, calling it undemocratic and illegal.",
+    "img": "https://static.toiimg.com/photo/msid-129792888,imgsize-1006784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/trying-to-deflect-attention-from-iran-war-congress-slams-bjp-over-lutyens-eviction-notice/articleshow/129792648.cms",
+    "time": "2026-03-25T06:28:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Four queer voices explain the impact of the Trans Amendment Bill 2026",
+    "desc": "The Transgender Amendment Bill which was passed in Lok Sabha on March 24 impacts a trans person’s ability to access better education, health care, and the right to self-determination, say gender-diverse members who took part in a nation-wide protest in Chennai on March 23. They strongly call for repealing the amendment",
+    "img": "https://th-i.thgim.com/public/life-and-style/xedmg3/article70779389.ece/alternates/LANDSCAPE_1200/IMG_20260323_165159.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/fiour-queer-voices-explain-the-impact-of-the-trans-amendment-bill-2026/article70779417.ece",
+    "time": "2026-03-25T06:15:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Reese Witherspoon’s 50th Party: Inside the birthday bash",
+    "desc": "Hollywood star Reese Witherspoon celebrated her 50th birthday in Nashville with a star-studded bash at Bayou Keys. Surrounded by family and friends like Nicole Kidman and Jennifer Garner, the actress, known for her roles and successful production company, radiated joy.",
+    "img": "https://static.toiimg.com/photo/msid-129792654,imgsize-102466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/reese-witherspoon-turns-50-inside-her-star-studded-nashville-birthday-bash/articleshow/129792610.cms",
+    "time": "2026-03-25T06:08:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Emmy winner Paul Walter Hauser joins Scooby-Doo series",
+    "desc": "Emmy-winning actor Paul Walter Hauser has joined the upcoming live-action 'Scooby-Doo' series as a series regular. While his exact role remains unconfirmed, speculation suggests he may portray Scooby's original owner, potentially expanding the beloved dog's backstory. Hauser's casting signals a focus on character-driven storytelling for the modern reimagining.",
+    "img": "https://static.toiimg.com/photo/msid-129792587,imgsize-763897.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/paul-walter-hauser-joins-live-action-scooby-doo-emmy-winner-boards-origin-story-series-as-cast-expands/articleshow/129792602.cms",
+    "time": "2026-03-25T06:03:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Himanta's allegations linking me to Pakistan wild theory existing in his head: Gaurav Gogoi",
+    "desc": "What we are saying about his family, his wealth, corruption, and the benefit that the government machinery is giving to his wife’s company — that is for everybody to see, claimed Assam Congress President Gaurav Gogoi",
+    "img": "https://th-i.thgim.com/public/incoming/cwa1jh/article70782712.ece/alternates/LANDSCAPE_1200/20260209291L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/himantas-allegations-linking-me-to-pakistan-wild-theory-existing-in-his-head-gaurav-gogoi/article70782710.ece",
+    "time": "2026-03-25T06:02:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zendaya makes appearance in an all-white wedding dress",
+    "desc": "As Zendaya captivates audiences during her promotional events for 'The Drama', she's sparking whispers of a secret wedding with Tom Holland. Flaunting ethereal white outfits, her stylist Law Roach has teased that a nuptial might have already taken place, sending fans into a frenzy.",
+    "img": "https://static.toiimg.com/photo/msid-129792497,imgsize-89010.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-makes-another-appearance-in-an-all-white-wedding-dress-for-the-drama-amid-secret-wedding-rumors-with-tom-holland/articleshow/129792497.cms",
+    "time": "2026-03-25T05:58:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When the Chief Justice steps away",
+    "desc": "The recusal of CJI Surya Kant from the Chief Election Commissioner appointment law challenge case raises important questions about conflict of interest, the doctrine of necessity, and the limits of pre-emptive judicial direction, as well as the need for a statute governing judicial recusal",
+    "img": "https://th-i.thgim.com/public/incoming/jy8isx/article70782812.ece/alternates/LANDSCAPE_1200/28VJPG1-CJI_G6GGL1FLE3PA.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/when-the-chief-justice-steps-away/article70781217.ece",
+    "time": "2026-03-25T05:57:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "GLP-1 gold rush under scanner: Raids across India expose easy access to weight-loss drugs",
+    "desc": "India's drug regulator is cracking down on the easy availability of GLP-1 weight-loss drugs following nationwide raids. Inspections revealed significant gaps in how these prescription medicines are sold and promoted, with concerns over sales without prescriptions and inadequate medical oversight. Authorities are intensifying enforcement to curb misuse and ensure these drugs are only dispensed under strict medical supervision.",
+    "img": "https://static.toiimg.com/photo/msid-129792296,imgsize-53658.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/glp-1-gold-rush-under-scanner-raids-across-india-expose-easy-access-to-weight-loss-drugs/articleshow/129792211.cms",
+    "time": "2026-03-25T05:44:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Health of Delhi’s economy: fiscal deficit widens by 62% in 2025-26 as revenue falls",
+    "desc": "Last year, the first budget presented by the BJP government (2025–26) had seen an increase in the total outlay by 43.88% to ₹1 lakh crore compared to the ₹69,500 crore budget presented by the AAP government in 2024–25.",
+    "img": "https://th-i.thgim.com/public/incoming/ldr1qt/article70781507.ece/alternates/LANDSCAPE_1200/20260324385L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/health-of-delhis-economy-fiscal-deficit-widens-by-62-in-2025-26-as-revenue-falls/article70781385.ece",
+    "time": "2026-03-25T05:40:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'U-turn Ustad': Congress slams PM bid for 'special session' to pass women quota law amendments",
+    "desc": "Congress general secretary in charge of communications, Jairam Ramesh, said the Modi government is also planning to increase the size of the Lok Sabha and the Vidhan Sabhas by 50%, which also needs careful deliberation.",
+    "img": "https://th-i.thgim.com/public/news/national/ehl1y4/article70782801.ece/alternates/LANDSCAPE_1200/women%20reservation%20bill.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/u-turn-ustad-congress-slams-pm-bid-for-special-session-to-pass-women-quota-law-amendments/article70782675.ece",
+    "time": "2026-03-25T05:36:43.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump should end the war and ask Israel to leave Iran alone",
+    "desc": "Donald Trump, whose administration has already eased some sanctions on Iran’s oil, could be looking for a deal, and Tehran could reciprocate if common ground is found. But for any diplomatic effort to progress, Mr. Trump must first rein in his ally Israel, which continues to pound Iran and Lebanon like an unhinged bully.",
+    "img": "https://th-i.thgim.com/public/incoming/liv93u/article70782769.ece/alternates/LANDSCAPE_1200/editorial%20trump.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-trump-should-end-the-war-and-ask-israel-to-leave-iran-alone-the-hindu-editorial/article70782773.ece",
+    "time": "2026-03-25T05:35:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Godman' Kharat faces 8 FIRs, including of rape; SIT probing role of officials, aides: Fadnavis",
+    "desc": "Maharashtra CM Fadnavis said another complaint was filed on February 18, 2026, in Shirdi in Ahilyanagar district, where a woman alleged that one Neeraj Jadhav had created and shared an AI-generated image of her and threatened to make it viral.",
+    "img": "https://th-i.thgim.com/public/incoming/sr6nfr/article70782756.ece/alternates/LANDSCAPE_1200/13_mn%20BJP%20party%20workers%20meeting%2010.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/godman-kharat-faces-8-firs-including-of-rape-sit-probing-role-of-officials-aides-fadnavis/article70780714.ece",
+    "time": "2026-03-25T05:29:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Farah calls Sunita a ‘giver of advice and food’ in heartfelt birthday tribute",
+    "desc": "Filmmaker Farah Khan shared a heartfelt birthday message for her close friend Sunita Kapoor, calling her a \"BFF in sukh and dukh.\" Khan lauded Sunita's unwavering support, from sending food for her children to offering comfort during difficult times. She emphasized the rarity and value of their decades-long friendship, expressing immense gratitude for Sunita's generous spirit and constant presence.",
+    "img": "https://static.toiimg.com/photo/msid-129792044,imgsize-40298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-calls-sunita-kapoor-a-giver-of-advice-and-food-in-heartfelt-birthday-tribute-best-frend-in-dukh-n-sukh/articleshow/129792031.cms",
+    "time": "2026-03-25T05:25:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 captain's meet: When, where and the complete agenda",
+    "desc": "IPL captains will meet BCCI officials on March 25 to discuss crucial rules like the two-bouncer rule and ball replacement. The session, featuring match referees and umpires, will clarify regulations on bat checks, saliva use, and the retired-out provision. Key changes to ball replacement rules, especially in the second innings, will be detailed.",
+    "img": "https://static.toiimg.com/photo/msid-129791971,imgsize-104766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-captains-meet-when-where-and-the-complete-agenda/articleshow/129791955.cms",
+    "time": "2026-03-25T05:19:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer croons 'Ari Ari' with Bombay Rockers",
+    "desc": "The Revenge.' The film features a reimagined version of the Bombay Rockers' 2003 hit, 'Ari Ari Ari.' A viral clip shows Singh singing the catchy hook with band member Navtej Singh Rehal, bringing back nostalgic early 2000s beats for a new generation. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129791887,imgsize-206948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-ranveer-singh-croons-ari-ari-ari-with-og-hitmakers-bombay-rockers-watch/articleshow/129791887.cms",
+    "time": "2026-03-25T05:18:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Your yorker is breathtaking': Shami breathes fire, stumps shattered in nets",
+    "desc": "Veteran pacer Mohammed Shami, 35, showcased lethal yorkers in Lucknow Super Giants' nets, impressing coach Justin Langer. Bowling coach Bharat Arun expressed excitement about working with Shami again, highlighting his significant contribution to India's past overseas Test victories. LSG's pace attack, a blend of experience and emerging talent, faces the challenge of managing workloads post-injury.",
+    "img": "https://static.toiimg.com/photo/msid-129791886,imgsize-48796.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/your-yorker-is-breathtaking-mohammed-shami-breathes-fire-stumps-shattered-in-nets-watch/articleshow/129791836.cms",
+    "time": "2026-03-25T05:13:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' trailer becomes first to cross 1 billion views",
+    "desc": "Brand New Day' trailer has shattered records, becoming the first to surpass 1 billion global views. It dominated the 24-hour debut mark, eclipsing previous records held by 'Grand Theft Auto VI' and 'Deadpool & Wolverine' trailers. This massive online buzz sets high expectations for the film's July 31 release.",
+    "img": "https://static.toiimg.com/photo/msid-129791056,imgsize-156138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-tom-holland-shatters-records-becomes-first-trailer-to-surpass-1-1-billion-views/articleshow/129791020.cms",
+    "time": "2026-03-25T04:55:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "‘E.T.’ star Henry Thomas reflects on child stardom",
     "desc": "Henry Thomas, the beloved star of 'E.T.', recalls his abrupt rise to fame as a bewildering journey of childhood stardom. The actor openly shares that the limelight caught him off guard, leaving him to navigate the strange world of fame with hesitance and pressure to perform.",
     "img": "https://static.toiimg.com/photo/msid-129791312,imgsize-67994.cms",
@@ -61,24 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/drew-barrymore-gets-candid-about-perimenopause-struggles-opens-up-about-feeling-unattractive/articleshow/129790842.cms",
     "time": "2026-03-25T03:50:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Four queer voices explain the impact of the Trans Amendment Bill 2026",
-    "desc": "The Transgender Amendment Bill is set to be discussed in Parliament today. What will be the impact of amendments to an already existing progressive act that guarantees better education, health care, and self-determination? Five members of the community who took part in a nation-wide protest in Chennai on March 23, explain the repercussions",
-    "img": "https://th-i.thgim.com/public/life-and-style/xedmg3/article70779389.ece/alternates/LANDSCAPE_1200/IMG_20260323_165159.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/fiour-queer-voices-explain-the-impact-of-the-trans-amendment-bill-2026/article70779417.ece",
-    "time": "2026-03-25T03:43:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Monalisa Bhosle accuses director of ‘misbehaving’ with minor girls",
-    "desc": "Monalisa Bhosle made the allegation at a press conference here, where she also sought help from the Centre and State governments of Kerala and Madhya Pradesh, claiming that she and her husband were receiving death threats",
-    "img": "https://th-i.thgim.com/public/incoming/baoqa1/article70782559.ece/alternates/LANDSCAPE_1200/NH12Monalisa05.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/monalisa-bhosle-accuses-director-of-misbehaving-with-minor-girls/article70781454.ece",
-    "time": "2026-03-25T03:35:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -216,15 +369,6 @@ const newsData_en = [
     "time": "2026-03-25T01:50:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "The Truth to counter D2",
-    "desc": "The Revenge' against claims of being propaganda. He challenged critics to create their own version if they disagree with the narrative. The espionage thriller, directed by Aditya Dhar and starring Ranveer Singh, is achieving significant box office success, nearing Rs 1000 crore globally. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129789327,imgsize-108164.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-suggests-pakistan-make-dhurandhar-the-truth-as-the-ranveer-singh-starrer-faces-a-propaganda-tag/articleshow/129789327.cms",
-    "time": "2026-03-25T01:41:59.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "T.N. CM Stalin calls for constitutional safeguards to retain current share of States’ representation in delimitation",
     "desc": "The current proportional representation of States should not be disturbed under any circumstances, says Chief Minister; Statement comes in the wake of reports that 2011 Census may be used for women’s reservation in Parliament and Legislative Assemblies",
@@ -232,15 +376,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-calls-for-constitutional-safeguards-to-retain-current-share-of-states-representation-in-delimitation/article70779665.ece",
     "time": "2026-03-25T01:30:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Teresa Giudice, Melissa Gorga, Dolores Catania return for ‘RHONJ' Season 15",
-    "desc": "Get ready for 'Real Housewives of New Jersey' Season 15! Teresa Giudice, Melissa Gorga, and Dolores Catania are confirmed to return after a dramatic finale. While Margaret Josephs is out, new cast members will be revealed soon. Filming kicks off this spring, promising more drama and family dynamics.",
-    "img": "https://static.toiimg.com/photo/msid-129789483,imgsize-163416.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/real-housewives-of-new-jersey-season-15-teresa-giudice-melissa-gorga-and-dolores-catania-return/articleshow/129789483.cms",
-    "time": "2026-03-25T01:28:55.000Z"
   },
   {
     "cat": "Tech",
@@ -253,57 +388,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Valathu Vashathe Kallan' OTT: Where to watch thriller online",
-    "desc": "Jeethu Joseph's latest thriller, 'Valathu Vashathe Kallan,' starring Biju Menon and Joju George, is now available on Lionsgate Play and Manorama Max. The film, a gripping tale of revenge and a race against time, has garnered mixed to positive reviews. Meanwhile, the highly anticipated 'Drishyam 3' has been rescheduled for a May 21, 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-129789425,imgsize-188916.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/valathu-vashathe-kallan-ott-when-and-where-to-watch-jeethu-josephs-thriller-online/articleshow/129789425.cms",
-    "time": "2026-03-25T01:20:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "‘Dhurandhar: The Revenge’ eyes Rs 1,000 crore globally in 6 days",
     "desc": "The Revenge' is making waves at the box office, nearing Rs 600 crore net domestically within its first week. The film experienced a strong opening and weekend, with day 6 collections showing a slight dip but still contributing to impressive overall figures. Worldwide collections are projected to reach Rs 1,000 crore.",
     "img": "https://static.toiimg.com/photo/msid-129789317,imgsize-86786.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-6-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampals-film-eyes-rs-1000-crore-globally/articleshow/129789322.cms",
     "time": "2026-03-25T00:59:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Nick Jonas was my boyfriend'",
-    "desc": "Celebrating the two-decade mark of 'Hannah Montana', Miley Cyrus candidly disclosed that her decision to feature Nick Jonas on tour was influenced by their dating history, a move that played a crucial role in launching the Jonas Brothers' careers. She also reminisced about her early romance with Dylan Sprouse, providing a nostalgic glimpse into her formative years in show business.",
-    "img": "https://static.toiimg.com/photo/msid-129789209,imgsize-179824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/miley-cyrus-spills-beans-on-relationship-with-nick-jonas-reveals-jonas-brothers-joined-tour-because-she-wanted-her-boyfriend-to-come-along/articleshow/129789199.cms",
-    "time": "2026-03-25T00:54:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Aadu 3' BO day 7: Comedy film earns Rs 66.28 cr worldwide",
-    "desc": "The beloved 'Aadu' series returns with 'Aadu 3', featuring a time travel twist and a significant budget. The film has garnered Rs 32.25 crore net in India and Rs 29 crore overseas in its first week, totaling Rs 66.28 crore worldwide.",
-    "img": "https://static.toiimg.com/photo/msid-129789285,imgsize-163266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aadu-3-box-office-collections-day-7-jayasurya-starrer-earns-rs-66-28-cr-worldwide/articleshow/129789285.cms",
-    "time": "2026-03-25T00:51:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dhurandhar 2's Rizwan tells Ranveer: 'Will always have your back'",
-    "desc": "The Revenge,' starring Ranveer Singh, has become a monumental hit, amassing over ₹560 crore in merely six days. Mustafa Ahmed, who portrays Rizwan, celebrated his long-standing friendship with Singh in a touching social media post, reminiscing about their ten-year journey together and their intuitive chemistry that captivates audiences.",
-    "img": "https://static.toiimg.com/photo/msid-129789197,imgsize-127680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-mustafa-ahmed-aka-rizwan-drops-a-post-for-ranveer-singh-says-i-will-always-have-your-back/articleshow/129789197.cms",
-    "time": "2026-03-25T00:37:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Kajal Aggarwal's Rs 20–30 Cr Mumbai apartment",
-    "desc": "South Indian star Kajal Aggarwal's Mumbai residence, likely in Bandra or Juhu, is valued between Rs 20-30 crores, reflecting its prime location. The elegant, modern interiors complement her family-oriented lifestyle. Married to Gautam Kitchlu, the couple welcomed their son Neil. Kajal's career continues with recent appearances, though 'Kannappa' didn't perform well.",
-    "img": "https://static.toiimg.com/photo/msid-129789220,imgsize-240868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kajal-aggarwal-house-inside-her-rs-2030-cr-mumbai-apartment-in-elite-area/articleshow/129789220.cms",
-    "time": "2026-03-25T00:30:30.000Z"
   },
   {
     "cat": "Politics",
@@ -322,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/kashmiri-separatist-andrabi-gets-life-term-2-aides-30-yrs/articleshow/129789161.cms",
     "time": "2026-03-25T00:09:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ustaad Bhagat Singh' BO day 7: Film reaches Rs 86.47 Cr",
-    "desc": "Pawan Kalyan's 'Ustaad Bhagat Singh' has garnered Rs 86.47 crore worldwide in its first week, despite mixed reviews and a challenging release window. While the weekend saw moderate collections, weekday figures experienced a sharp decline. Director Harish Shankar acknowledged the film's performance, attributing it to release strategy and competition, emphasizing effort over outcome.",
-    "img": "https://static.toiimg.com/photo/msid-129789123,imgsize-152992.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ustaad-bhagat-singh-box-office-collections-day-7-pawan-kalyan-and-raashii-khannas-film-reaches-rs-86-47-cr-worldwide/articleshow/129789123.cms",
-    "time": "2026-03-25T00:02:07.000Z"
   },
   {
     "cat": "Politics",
@@ -441,33 +522,6 @@ const newsData_en = [
     "time": "2026-03-24T22:55:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Trials in UAPA cases must be completed in 1 year",
-    "desc": "The Supreme Court mandated that UAPA cases investigated by the NIA must conclude within a year through exclusive special courts. States must identify court needs and appoint dedicated prosecutors. The Centre offers funding for these courts, aiming to expedite trials and address bail concerns. Delhi leads in pending NIA cases.",
-    "img": "https://static.toiimg.com/photo/msid-129788859,imgsize-703965.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-trials-in-uapa-cases-must-be-completed-in-1-year/articleshow/129788792.cms",
-    "time": "2026-03-24T22:42:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Civils '25: OBCs pip EWS despite interview drag",
-    "desc": "In a shift from previous trends, Other Backward Classes (OBC) candidates outperformed Economically Weaker Sections (EWS) in the 2025 Civil Service Examinations final merit list. Despite lower interview scores, OBCs' strong performance in written exams secured them a higher overall cut-off than EWS, reversing a recent pattern.",
-    "img": "https://static.toiimg.com/photo/msid-129788598,imgsize-2664860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/civils-25-obcs-pip-ews-despite-interview-drag/articleshow/129788343.cms",
-    "time": "2026-03-24T22:25:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress gets notice to move out of Lutyens address",
-    "desc": "The Congress party is set to lose its long-standing national headquarters at 24, Akbar Road. An eviction notice has also been issued for the Indian Youth Congress office at 5, Raisina Road. Both premises must be vacated by March 28. The party intends to challenge the notices in court, citing illegality and political motivation.",
-    "img": "https://static.toiimg.com/photo/msid-129787580,imgsize-997631.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-gets-notice-to-move-out-of-lutyens-address/articleshow/129787346.cms",
-    "time": "2026-03-24T22:11:01.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Government plans to merge Ircon, RVNL to help them scale up",
     "desc": "Two major railway PSUs, Rail Vikas Nigam (RVNL) and Ircon International, are set to merge to create a larger entity capable of undertaking significant domestic and international projects. This strategic move aims to eliminate duplication, pool resources, and enhance the combined company's ability to bid for mega infrastructure projects, with a combined order book exceeding Rs 1.5 lakh crore.",
@@ -520,51 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/aiadmkreleases-manifesto-for-tn-assembly-election-2026-assures-free-refrigerators-to-women-ration-card-holders/article70780538.ece",
     "time": "2026-03-24T21:37:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. election 2026: Kurinjipadi constituency voters want non-polluting, agro-based industrial boost",
-    "desc": "Minister MRK Panneerselvam is in the fray aiming for a hat-trick in Kurinjipadi. The DMK-led Democratic Progressive Alliance needs to be aware that the Tamizhaga Vazhvurimai Katchi headed by T. Velmurugan and now delinked from the DMK-led alliance, is capable of eating into the votes of the DMK in areas like Kurinjipadi and Kullanchavadi where it has significant presence",
-    "img": "https://th-i.thgim.com/public/incoming/gvs4ln/article70778683.ece/alternates/LANDSCAPE_1200/Kurinjipadi-votGD6FOM26E.1.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/kurinjipadi-voters-want-non-polluting-agro-based-industrial-boost/article70774721.ece",
-    "time": "2026-03-24T20:30:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Gujarat CM invokes Sanatan values, Rigveda as UCC Bill tabled in Assembly",
-    "desc": "The Bill was tabled by Chief Minister Bhupendra Patel a week after a State-appointed panel submitted its final report on implementation of the UCC; the Bill proposes a common framework for marriage, succession and live-in relationships",
-    "img": "https://th-i.thgim.com/public/incoming/aymn6h/article70779474.ece/alternates/LANDSCAPE_1200/Gujarat-unveilsGGCFLI9L6.5.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ucc-bill-tabled-in-gujarat-assembly-proposes-common-framework-for-marriage-succession-and-live-in-ties/article70779414.ece",
-    "time": "2026-03-24T20:22:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "I-PAC raid: Supreme Court poses question to West Bengal CM",
-    "desc": "Court’s query comes in reaction to submissions made by both Ms. Banerjee and State of West Bengal that Directorate of Enforcement (ED) cannot move Supreme Court directly under Article 32 of Constitution, “crying” violation of its fundamental rights.",
-    "img": "https://th-i.thgim.com/public/incoming/tkrkv5/article70781178.ece/alternates/LANDSCAPE_1200/TH22-SHIV-SAHAYGGRFOHM07.6.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/how-would-you-react-if-you-were-in-power-at-centre-and-a-rival-cm-did-this-sc-asks-mamata-banerjee/article70780804.ece",
-    "time": "2026-03-24T20:21:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. Assembly election: Tiruttani constituency residents seek more support to improve their livelihood",
-    "desc": "Farmers, who recently set up a producer organisation and started growing millets, complain that they still do not have machinery needed to process the crop. Residents say work to lay a second access road to Subramaniaswami Temple is yet to be completed, with land acquisition still under way",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/ozh3hh/article70773206.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-22%20at%209.11.58%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-residents-of-tiruttani-constituency-seek-more-support-to-improve-their-livelihood/article70773036.ece",
-    "time": "2026-03-24T19:39:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "JICA funds Bengaluru Metro phase 3",
-    "desc": "The project is scheduled to be completed by January 2032, with invitations for consulting services expected to be issued in April 2026. The tender announcement for the initial procurement package for civil works for the viaduct portion is planned for May 2026.",
-    "img": "https://th-i.thgim.com/public/incoming/mciydn/article70781247.ece/alternates/LANDSCAPE_1200/_KMK4554.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/jica-funds-bengaluru-metro-phase-3/article70779783.ece",
-    "time": "2026-03-24T19:21:58.000Z"
   },
   {
     "cat": "Sports",
@@ -657,15 +666,6 @@ const newsData_en = [
     "time": "2026-03-24T13:28:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Who is Ryan Williams? Australia-born footballer likely to play for India",
-    "desc": "The Australian-born forward was included after FIFA approved his change of association, allowing him to represent India at the senior level. He had earlier been part of the preparatory camp for the Bangladesh qualifier but could not make the squad due to pending paperwork.",
-    "img": "https://static.toiimg.com/photo/msid-129777042,imgsize-57654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/who-is-ryan-williams-australia-born-footballer-set-to-play-for-india-in-asian-cup-qualifier/articleshow/129776879.cms",
-    "time": "2026-03-24T12:44:08.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Where does the India-U.S. trade deal stand?",
     "desc": "After the U.S. Supreme Court struck down the tariffs imposed by Donald Trump on countries across the world, how did the American President react? Will reciprocal tariffs be removed? Why does a 50% tariff on aluminium and steel imports continue?",
@@ -682,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/from-cheapest-to-one-of-the-costliest-rr-sees-2332-84-jump-in-value-in-19-years/articleshow/129775504.cms",
     "time": "2026-03-24T11:41:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will the ghost of Lalit Modi finally fade away after Rajasthan Royals sale?",
-    "desc": "The sale of Rajasthan Royals marks a potential turning point for the franchise, long associated with controversy and speculation around Lalit Modi. While the former IPL commissioner has denied any links, rumours persisted for years. With a new ownership group led by Kal Somani, the Royals now have a chance to move past their turbulent past and redefine their identity.",
-    "img": "https://static.toiimg.com/photo/msid-129774448,imgsize-34170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/will-the-ghost-of-lalit-modi-finally-fade-away/articleshow/129774218.cms",
-    "time": "2026-03-24T10:57:14.000Z"
   },
   {
     "cat": "World",
@@ -772,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/moving-up-and-down-while-standing-still/article70706988.ece",
     "time": "2026-03-23T11:36:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Slovenia's liberals and populists neck and neck, preliminary results show",
-    "desc": "Prime Minister Robert Golob's centre-left Freedom Movement won 28.5% of the votes while the right-wing Slovenian Democratic Party, or SDS, led by ex-premier Janez Jansa — an admirer of U.S. President Donald Trump — had 28.1%",
-    "img": "https://th-i.thgim.com/public/incoming/ti51gh/article70774295.ece/alternates/LANDSCAPE_1200/Slovenia_Elections_50134.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/slovenia-parliament-election-result-liberals-and-populists-updates/article70774262.ece",
-    "time": "2026-03-23T10:03:08.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
   }
 ];

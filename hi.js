@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'If they could give 0.5%'",
+    "desc": "Netherlands fast bowler Paul van Meekeren has reignited the conversation around financial disparity in world cricket, linking the massive valuation of franchise leagues to the challenges faced by associate nations. His remarks came in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/if-they-could-give-0-5-paul-van-meekeran-urges-to-support-netherlands-cricket-amid-rcb-s-sale-2026-03-25-1035009",
+    "time": "2026-03-25T05:37:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will Chennai's top order shape, who will replace Ravindra Jadeja?",
     "desc": "Ahead of IPL 2026, Chennai Super Kings made a bold trade by bringing in Sanju Samson in exchange for their former captain Ravindra Jadeja and Sam Curran. The deal signals a transition phase for CSK,...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/if-ms-dhoni-plays-as-an-impact-player-in-ipl-2026-it-s-time-for-him-to-retire-aakash-chopra-2026-03-24-1034960",
     "time": "2026-03-24T16:02:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 players who can replace Ben Duckett in Delhi Capitals squad for IPL 2026",
-    "desc": "Delhi Capitals opener Ben Duckett has pulled out of the IPL 2026. The England international noted that his focus is to do well for the national team in all three formats of the game, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/3-players-who-can-replace-ben-duckett-in-delhi-capitals-squad-for-ipl-2026-2026-03-24-1034953",
-    "time": "2026-03-24T14:43:05.000Z"
   }
 ];
