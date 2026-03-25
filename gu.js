@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "શું ફરી હિન્દુ ધર્મ અપનાવવાથી મળે શકે છે SCનો દરજ્જો ? સુપ્રીમ કોર્ટનો મોટો ચુકાદો",
+    "desc": "પાદરી સી. આનંદે 2021માં ભારતીય દંડ સંહિતા અને SC/ST કાયદાની કલમોનો ઉલ્લેખ કરીને એ.આર. રેડ્ડી નામના વ્યક્તિ સામે ફોજદારી કેસ દાખલ કર્યો હતો. આનંદનો જન્મ અનુસૂચિત જાતિમાં થયો હતો પરંતુ બાદમાં તે ખ્રિસ્તી ધર્મ અપનાવી લીધો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/can-one-get-sc-status-by-converting-to-hinduism-again-supreme-courts-big-verdict-470031 ",
+    "time": "2026-03-25T04:39:13.000Z"
+  },
+  {
     "cat": "World",
     "title": "દુનિયામાં પરમાણુ યુદ્ધનો ખતરો? શું સાચી પડવાની છે બાબા વેંગાની આ ડરામણી ભવિષ્યવાણી?",
     "desc": "અમેરિકા, ઈઝરાયેલ અને ઈરાન વચ્ચે ચાલી રહેલા યુદ્ધે ખતરનાક સ્વરૂપ ધારણ કર્યું છે. હવે દુનિયા પર પરમાણુ યુદ્ધના વાદળો મંડરાઈ રહ્યા છે. આ સ્થિતિ વચ્ચે સોશિયલ મીડિયા પર બાબા વેંગાની ડરામણી ભવિષ્યવાણી વાયરલ થઈ રહી છે.",
@@ -358,15 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/india-vs-australia-test-series-schedule-border-gavaskar-trophy-469744 ",
     "time": "2026-03-22T17:35:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "મિડલ ઈસ્ટમાં પરમાણુ યુદ્ધના ભણકારા! ઈઝરાયેલના ડિમોના પર ઈરાનના હુમલાએ વધારી દુનિયાની ચિંતા",
-    "desc": "ઈઝરાયેલ અને ઈરાન વચ્ચે ચાલી રહેલો સંઘર્ષ હવે પરમાણું ઠેકાણાઓ સુધી પહોંચી ગયો છે. નતાન્ઝ પર ઈઝરાયેલી હુમલા બાદ હવે ઈરાને જબરદસ્ત જવાબી કાર્યવાહી કરી છે. ઈરાનની બેલિસ્ટિક મિસાઈલોએ ઈઝરાયેલના અરાદ અને ડિમોના શહેરો પર હુમલો કર્યો છે. એટલે કે મધ્ય પૂર્વમાં પરમાણું યુદ્ધના સંકેતો વધી રહ્યા છે. ચાલો આ રિપોર્ટમાં જો પરમાણું યુદ્ધ શરૂ થાય તો શું થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/fears-of-nuclear-war-in-the-middle-east-iran-attack-on-the-israeli-city-of-dimona-has-further-worried-the-world-469742 ",
-    "time": "2026-03-22T16:40:13.000Z"
   },
   {
     "cat": "Sports",

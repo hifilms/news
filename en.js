@@ -1,6 +1,222 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "‘E.T.’ star Henry Thomas reflects on child stardom",
+    "desc": "Henry Thomas, the beloved star of 'E.T.', recalls his abrupt rise to fame as a bewildering journey of childhood stardom. The actor openly shares that the limelight caught him off guard, leaving him to navigate the strange world of fame with hesitance and pressure to perform.",
+    "img": "https://static.toiimg.com/photo/msid-129791312,imgsize-67994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/e-t-star-henry-thomas-reflects-on-child-stardom-i-wasnt-ready-for-it/articleshow/129791312.cms",
+    "time": "2026-03-25T04:33:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Currency falls 20 paise to 93.96 per US dollar in early trade",
+    "desc": "The Indian rupee continued its downward trend, falling to 93.96 against the US dollar amid persistent foreign fund outflows and global crude oil price hikes. Forex traders attribute the sustained weakness to uncertainty surrounding the West Asia crisis. Despite the rupee's decline, Indian stock markets showed strength, with benchmark indices trading higher.",
+    "img": "https://static.toiimg.com/photo/msid-129791205,imgsize-670950.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-inches-closer-to-94-currency-falls-20-paise-to-93-76-per-us-dollar-in-early-trade/articleshow/129791028.cms",
+    "time": "2026-03-25T04:29:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "HDFC Life Insurance gets I-T order for ₹172 crore",
+    "desc": "Consisting of ₹126.46 crore tax demand, ₹45.55 crore interest, and nil penalty, the order from the Income Tax authorities in Mumbai is for Assessment Year 2023-24 (financial year 2022-23) and related to multiple alleged violations",
+    "img": "https://th-i.thgim.com/public/news/national/duudl/article70782627.ece/alternates/LANDSCAPE_1200/jpgFile.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/hdfc-life-insurance-gets-i-t-order-for-172-crore/article70780211.ece",
+    "time": "2026-03-25T04:11:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nicola Coughlan’s net worth in 2026",
+    "desc": "Irish actress Nicola Coughlan, celebrated for 'Derry Girls' and 'Bridgerton', has amassed a multi-million dollar net worth. Her earnings stem from significant roles, lucrative brand endorsements, and voice work. Despite her success, she maintains a modest lifestyle, showcasing a practical approach to her comfortable financial standing in the entertainment industry.",
+    "img": "https://static.toiimg.com/photo/msid-129791025,imgsize-425506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nicola-coughlans-net-worth-in-2026-how-rich-is-the-bridgerton-and-derry-girls-star-today/articleshow/129791029.cms",
+    "time": "2026-03-25T04:07:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Three killed in a road accident in Kurnool",
+    "desc": "Kummari Sekhar was first hit by a speeding lorry and was left critically injured on the road; as locals rushed to rescue him, another lorry rammed into the group, killing two of the rescuers on the spot",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-kurnool-road-accident-deaths-march-25-2026/article70782592.ece",
+    "time": "2026-03-25T04:05:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Hero ko mard hona chahiye'",
+    "desc": "The Revenge', featuring Ranveer Singh, for demonstrating the genuine box office potential of Indian films. He commended director Aditya Dhar and the entire crew for their impressive financial success, distinguishing it from exaggerated figures prevalent in the industry. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129790892,imgsize-108504.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-the-revenge-kunal-kohli-praises-ranveer-singh-starrer-says-hindi-film-hero-ko-mard-hona-chahiye-not-some/articleshow/129790892.cms",
+    "time": "2026-03-25T04:00:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Drew Barrymore opens up on menopause struggles",
+    "desc": "Drew Barrymore is openly discussing her perimenopause and menopause experiences, sharing candid details about bloating, mood swings, and feeling unattractive. She revealed a recent return of her period after nearly a year, causing emotional instability and confusion. Barrymore also highlighted how hormone replacement therapy and self-care rituals have helped her regain confidence during this natural life phase.",
+    "img": "https://static.toiimg.com/photo/msid-129790839,imgsize-1035921.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/drew-barrymore-gets-candid-about-perimenopause-struggles-opens-up-about-feeling-unattractive/articleshow/129790842.cms",
+    "time": "2026-03-25T03:50:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Four queer voices explain the impact of the Trans Amendment Bill 2026",
+    "desc": "The Transgender Amendment Bill is set to be discussed in Parliament today. What will be the impact of amendments to an already existing progressive act that guarantees better education, health care, and self-determination? Five members of the community who took part in a nation-wide protest in Chennai on March 23, explain the repercussions",
+    "img": "https://th-i.thgim.com/public/life-and-style/xedmg3/article70779389.ece/alternates/LANDSCAPE_1200/IMG_20260323_165159.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/fiour-queer-voices-explain-the-impact-of-the-trans-amendment-bill-2026/article70779417.ece",
+    "time": "2026-03-25T03:43:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Monalisa Bhosle accuses director of ‘misbehaving’ with minor girls",
+    "desc": "Monalisa Bhosle made the allegation at a press conference here, where she also sought help from the Centre and State governments of Kerala and Madhya Pradesh, claiming that she and her husband were receiving death threats",
+    "img": "https://th-i.thgim.com/public/incoming/baoqa1/article70782559.ece/alternates/LANDSCAPE_1200/NH12Monalisa05.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/monalisa-bhosle-accuses-director-of-misbehaving-with-minor-girls/article70781454.ece",
+    "time": "2026-03-25T03:35:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar 2 falls short of Pushpa 2 record",
+    "desc": "The Revenge' has achieved a monumental Rs 919 crore worldwide, solidifying its place as India's third-highest-grossing film franchise. Surpassing 'Pushpa', the franchise is now chasing the 'Baahubali' legacy. While a record-breaking pace is evident, the film is on track to enter the Rs 1000 crore club soon.",
+    "img": "https://static.toiimg.com/photo/msid-129790034,imgsize-180644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-become-third-highest-grossing-indian-franchise-ranveer-singh-falls-short-of-allu-arjuns-pushpa-2-record-of-fastest-film-to-hit-rs-1000-crore/articleshow/129790021.cms",
+    "time": "2026-03-25T03:33:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Reinforced squad, balanced core",
+    "desc": "Delhi Capitals have bolstered their lower-middle order with experienced David Miller and explosive talents like Tristian Stubbs and Ashutosh Sharma. However, their historical struggles in crunch situations and uncertainty around Mitchell Starc's availability remain concerns. Axar Patel has an opportunity to impress as a leader, but a stable Powerplay opening partnership is crucial to avoid a slow start.",
+    "img": "https://static.toiimg.com/photo/msid-129790582,imgsize-147408.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/delhi-capitals-swot-reinforced-squad-balanced-core-can-dc-deliver/articleshow/129790585.cms",
+    "time": "2026-03-25T03:28:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock recommendations for March 25, 2026",
+    "desc": "Aurobindo Pharma, Infosys, and Larsen & Toubro (L&T) - these are the stocks that Mehul Kothari, DVP - Technical Research at Anand Rathi Shares and Stock Brokers has recommended as top stocks to buy today (March 25, 2026):",
+    "img": "https://static.toiimg.com/photo/msid-129790327,imgsize-80346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-march-25-2026-aurobindo-pharma-infosys-larsen-toubro-best-stocks-to-buy-today/articleshow/129790244.cms",
+    "time": "2026-03-25T03:06:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL's power shift fuels deeper talent pool",
+    "desc": "India's selectors are closely watching the IPL to identify new talent and track consistency, moving beyond just top teams. Franchise scouting networks are now crucial, mirroring domestic cricket's shift. Focus remains on ODI core development and assessing players like Mayank Yadav and Rishabh Pant, while monitoring Hardik Pandya's bowling fitness.",
+    "img": "https://static.toiimg.com/photo/msid-129790343,imgsize-49618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/casting-a-wider-net-ipls-power-shift-fuels-deeper-talent-pool/articleshow/129790283.cms",
+    "time": "2026-03-25T03:06:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Bridgerton S5’: Cast membersreveal their most exciting scenes",
+    "desc": "Bridgerton's upcoming Season 5 promises a passionate second-chance romance for widow Francesca Bridgerton and Michaela Stirling. Filming excites actresses Hannah Dodd and Masali Baduza, particularly a dramatic horseback scene and intimate moments in a Highland cottage. This arc explores vulnerability, desire, and Francesca finally choosing her own happiness, making it a tender and sensual journey.",
+    "img": "https://static.toiimg.com/photo/msid-129790291,imgsize-1286910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-5-hannah-dodd-and-masali-baduza-get-candid-about-their-most-exciting-scenes/articleshow/129790296.cms",
+    "time": "2026-03-25T03:02:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "JoJo Siwa says her boyrfriend inspired her new song ‘Serendipity’",
+    "desc": "Jojo Siwa is set to captivate fans with her upcoming single 'Serendipity,' dropping on April 7. This track, infused with the essence of love, draws inspiration from her romance with Chris Hughes, whom she met during Celebrity Big Brother UK in 2025. After going public with their relationship in June, Jojo described their bond as a beautiful twist of fate.",
+    "img": "https://static.toiimg.com/photo/msid-129790253,imgsize-146032.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jojo-siwa-says-her-very-sweet-love-chris-hughes-inspired-her-new-song-serendipity/articleshow/129790253.cms",
+    "time": "2026-03-25T03:00:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Who is Isha Rikhi? Actress rumored to have married Badshah",
+    "desc": "Love has blossomed in the limelight, as whispers circulate that the beloved Punjabi actress Isha Rikhi has married the charismatic singer and rapper Badshah in a discreet ceremony following their four-year relationship. Though the couple has yet to share any official announcements or photographs, their rumored nuptials are lighting up social media with speculation and joy. Read on to know more.",
+    "img": "https://static.toiimg.com/photo/msid-129790069,imgsize-139482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-is-isha-rikhi-all-about-the-punjabi-and-bollywood-actress-rumored-to-have-married-badshah/articleshow/129790069.cms",
+    "time": "2026-03-25T02:59:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Facing legal charges, Yash Dayal won't be part of IPL",
+    "desc": "Royal Challengers Bengaluru's Director of Cricket, Mo Bobat, confirmed that pacer Yash Dayal will not participate in the upcoming IPL season due to personal circumstances and ongoing legal issues. Dayal, who missed the domestic season, remains under contract, but his absence is deemed best for both him and the franchise. Bowling depth is further tested by Josh Hazlewood's recovery.",
+    "img": "https://static.toiimg.com/photo/msid-129790216,imgsize-39512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/facing-legal-charges-yash-dayal-wont-be-part-of-ipl/articleshow/129790221.cms",
+    "time": "2026-03-25T02:55:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Congested schedule': Mo Bobat flags busy calendar for IPL injury concerns",
+    "desc": "IPL 2026 faces a fast-bowling crisis as injuries sideline key players, including RCB's Josh Hazlewood. Director of Cricket Mo Bobat attributes this to a congested cricket calendar, impacting team planning. Despite Phil Salt's recent T20 form dip, Bobat expresses confidence in his ability to perform for RCB.",
+    "img": "https://static.toiimg.com/photo/msid-129790193,imgsize-29752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/congested-schedule-mo-bobat-flags-busy-calendar-for-ipl-2026-injury-concerns/articleshow/129790200.cms",
+    "time": "2026-03-25T02:54:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election 2026: Livelihood security, affordable housing cause of concern in Royapuram constituency",
+    "desc": "Residents want the government to implement social welfare measures for the economically disadvantaged. Other demands include redevelopment of dilapidated TNUHDB houses, establishment of a maternity hospital, and flood mitigation measures, particularly in areas along the coastline",
+    "img": "https://th-i.thgim.com/public/incoming/mupc7x/article70781461.ece/alternates/LANDSCAPE_1200/MC%20ROAD%201.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-royapuram-a-coastal-area-where-livelihood-security-and-affordable-housing-are-major-issues/article70779888.ece",
+    "time": "2026-03-25T02:53:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Falling emissions intensity masks India’s rising absolute output",
+    "desc": "While the country has successfully reduced emissions intensity, and increased non-fossil power capacity, challenges remain in translating these achievements into absolute emissions reductions. The next few years will be critical in addressing these gaps and ensuring a sustainable future",
+    "img": "https://th-i.thgim.com/public/incoming/n2w003/article70483789.ece/alternates/LANDSCAPE_1200/IMG_COP27_India_Expectat_2_1_ACDU832Q.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/indias-progress-on-its-climate-targets/article70481985.ece",
+    "time": "2026-03-25T02:45:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ITC, Tata Power &amp; more: Top stocks to watch for today",
+    "desc": "Analysts are bullish on Fractal Analytics and Tata Power, citing strong growth prospects and positive developments. UBS maintains a buy on ITC, expecting it to beat expectations despite pricing strategy impacts. However, Nuvama and Kotak Institutional Equities express caution on Coal India and Power Grid Corp, respectively, due to potential headwinds and saturated valuations.",
+    "img": "https://static.toiimg.com/photo/msid-129789930,imgsize-70892.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/itc-tata-power-fractal-analytics-coal-india-power-grid-corp-more-top-stocks-to-watch-for-on-march-25-2026/articleshow/129789945.cms",
+    "time": "2026-03-25T02:25:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jay-Z breaks silence on dismissed lawsuit",
+    "desc": "Jay-Z expressed deep emotional distress over a dismissed 2024 assault lawsuit that falsely implicated him. He described experiencing \"uncontrollable anger\" and feeling \"heartbroken by everything that occurred.\" Despite the emotional toll and the temptation to settle, Jay-Z refused, asserting his innocence and believing truth would prevail.",
+    "img": "https://static.toiimg.com/photo/msid-129789772,imgsize-401544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jay-z-breaks-silence-on-dismissed-lawsuit-i-knew-what-was-coming-wasnt-nave/articleshow/129789757.cms",
+    "time": "2026-03-25T02:05:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Poll authorities accept V.D. Satheesan’s nomination papers, reject LDF’s complaint",
+    "desc": "The Returning Officer for the Paravur constituency dismissed the complaint lodged by LDF candidate E.T. Taison, alleging that Mr. Satheesan had failed to disclose his income as a lawyer, despite adding the title of advocate to his name.",
+    "img": "https://th-i.thgim.com/public/incoming/nf4kbx/article70765302.ece/alternates/LANDSCAPE_1200/10018_14_11_2025_19_7_46_2_V_D_SATHEESAN_02.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala-assembly-elections-2026-poll-authorities-accept-vd-satheesans-nomination-papers-reject-ldfs-complaint/article70781168.ece",
+    "time": "2026-03-25T01:54:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Masthishka Maranam' OTT: Where to watch cyberpunk thriller",
+    "desc": "Mollywood's unique cyberpunk thriller, 'Masthishka Maranam,' directed by Krishand and starring Rajisha Vijayan, is heading to OTT. Set in a dystopian Neo Kochi of 2046, the film explores a grieving father's quest through memories after his daughter's loss. While receiving mixed reviews for its disjointed narrative and visuals, the performances have been praised.",
+    "img": "https://static.toiimg.com/photo/msid-129789626,imgsize-167122.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/masthishka-maranam-ott-release-where-to-watch-rajisha-vijayans-cyberpunk-thriller/articleshow/129789626.cms",
+    "time": "2026-03-25T01:50:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "The Truth to counter D2",
     "desc": "The Revenge' against claims of being propaganda. He challenged critics to create their own version if they disagree with the narrative. The espionage thriller, directed by Aditya Dhar and starring Ranveer Singh, is achieving significant box office success, nearing Rs 1000 crore globally. Read on to know more in detail.",
     "img": "https://static.toiimg.com/photo/msid-129789327,imgsize-108164.cms",
@@ -109,15 +325,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Zendaya BLUSHES as paparazzi call her 'Madame Holland'",
-    "desc": "Zendaya captivated Paris in a stunning white gown at 'The Drama' premiere, sparking wedding rumors as French paparazzi called her 'Madame Holland.' Her rumored fiancé, Tom Holland, made a low-key appearance, supporting her from the sidelines. The couple later shared a heartwarming embrace, fueling speculation about a secret wedding.",
-    "img": "https://static.toiimg.com/photo/msid-129789067,imgsize-121644.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-blushes-as-paparazzi-call-her-madame-holland-at-paris-premiere-of-the-drama-with-robert-pattinson-tom-holland-attends-watch/articleshow/129789058.cms",
-    "time": "2026-03-25T00:05:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Ustaad Bhagat Singh' BO day 7: Film reaches Rs 86.47 Cr",
     "desc": "Pawan Kalyan's 'Ustaad Bhagat Singh' has garnered Rs 86.47 crore worldwide in its first week, despite mixed reviews and a challenging release window. While the weekend saw moderate collections, weekday figures experienced a sharp decline. Director Harish Shankar acknowledged the film's performance, attributing it to release strategy and competition, emphasizing effort over outcome.",
     "img": "https://static.toiimg.com/photo/msid-129789123,imgsize-152992.cms",
@@ -189,15 +396,6 @@ const newsData_en = [
     "time": "2026-03-24T23:27:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Varanasi' set photos: SS Rajamouli recreates city at studio",
-    "desc": "SS Rajamouli's ambitious film 'Varanasi' is generating immense buzz with stunning set photos revealed. International media witnessed the recreation of iconic Varanasi landmarks, impressing fans. Starring Mahesh Babu, Priyanka Chopra, and Prithviraj Sukumaran, the project is set for a 2027 release after shoots in Africa and upcoming Antarctica filming.",
-    "img": "https://static.toiimg.com/photo/msid-129788980,imgsize-160456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varanasi-set-pics-unveiled-ss-rajamouli-recreates-city-for-mahesh-babu-priyanka-chopra-and-prithviraj-sukumaran-starrer/articleshow/129788838.cms",
-    "time": "2026-03-24T23:25:46.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "NSO survey",
     "desc": "India's informal sector added nearly 75 lakh jobs between January and December 2025, signaling a strong recovery from recent economic shocks. The 'other services' sector led growth with 35 lakh new jobs, while manufacturing and trade also saw significant additions. The number of informal establishments also grew by 8%.",
@@ -252,24 +450,6 @@ const newsData_en = [
     "time": "2026-03-24T22:42:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Alan Ritchson's body cam footage released post fight with neighbour",
-    "desc": "Hollywood star Alan Ritchson has been cleared of criminal charges following a viral video of a physical altercation with his neighbour. Police determined Ritchson acted in self-defence after his neighbour initiated the dispute and blocked his path. Ritchson chose not to press charges against his neighbour, leading to the case being closed.",
-    "img": "https://static.toiimg.com/photo/msid-129787888,imgsize-77944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/alan-ritchsons-body-cam-footage-released-tennessee-police-drop-criminal-charges-saying-reacher-star-acted-in-self-defense-watch/articleshow/129787483.cms",
-    "time": "2026-03-24T22:35:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Danish recalls serious thumb injury during brutal Uzair scene",
-    "desc": "The Revenge continues its blockbuster run, one of the most talked-about moments from the film remains the violent sequence featuring Uzair Baloch, played by Danish Pandor. The scene, depicting the gruesome killing of gangster Arshad Pappu, has sparked conversations for its raw and gory portrayal. Opening up about filming it, Danish revealed that the real-life inspiration made it even more intense.",
-    "img": "https://static.toiimg.com/photo/msid-129788230,imgsize-47578.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-actor-danish-pandor-recalls-serious-thumb-injury-during-brutal-uzair-baloch-scene-i-was-terrified-i-lost-control/articleshow/129788230.cms",
-    "time": "2026-03-24T22:29:48.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Civils '25: OBCs pip EWS despite interview drag",
     "desc": "In a shift from previous trends, Other Backward Classes (OBC) candidates outperformed Economically Weaker Sections (EWS) in the 2025 Civil Service Examinations final merit list. Despite lower interview scores, OBCs' strong performance in written exams secured them a higher overall cut-off than EWS, reversing a recent pattern.",
@@ -288,15 +468,6 @@ const newsData_en = [
     "time": "2026-03-24T22:11:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Avatar: Fire and Ash’ OTT release set for March 31",
-    "desc": "Fire and Ash' is set for a digital release on March 31, following its impressive billion-dollar box office run. While a commercial success, the film's future installments face uncertainty as Cameron seeks more cost-effective production methods. Fans can also anticipate a physical release on May 19.",
-    "img": "https://static.toiimg.com/photo/msid-129786954,imgsize-147322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avatar-fire-and-ash-ott-release-james-cameron-directorial-set-for-digital-debut-on-march-31-after-usd-1-48-billion-box-office-run/articleshow/129786677.cms",
-    "time": "2026-03-24T22:01:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Government plans to merge Ircon, RVNL to help them scale up",
     "desc": "Two major railway PSUs, Rail Vikas Nigam (RVNL) and Ircon International, are set to merge to create a larger entity capable of undertaking significant domestic and international projects. This strategic move aims to eliminate duplication, pool resources, and enhance the combined company's ability to bid for mega infrastructure projects, with a combined order book exceeding Rs 1.5 lakh crore.",
@@ -313,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/fmcg-companies-plan-to-hike-prices-cut-grammage/articleshow/129786937.cms",
     "time": "2026-03-24T21:53:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajpal breaks silence on Akshay 'pushing him to the side'",
-    "desc": "Rajpal Yadav has addressed the recent controversy involving Akshay Kumar during the promotions of their upcoming film Bhooth Bangla, after a viral video sparked speculation online. The clip, which featured Akshay posing with Priyanka Chahar Chaudhary, Ekta Kapoor and Kanika Mann, showed him asking Rajpal to stand to the side—something many netizens interpreted as a slight insult. However, Rajpal dismissed the claims, offering context behind the moment.",
-    "img": "https://static.toiimg.com/photo/msid-129786915,imgsize-103150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-breaks-silence-on-akshay-kumar-pushing-him-to-the-side-during-bhooth-bangla-promotions-he-loves-me-i-love-him/articleshow/129786915.cms",
-    "time": "2026-03-24T21:49:52.000Z"
   },
   {
     "cat": "Business",
@@ -360,15 +522,6 @@ const newsData_en = [
     "time": "2026-03-24T21:37:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dhurandhar 2 auto driver can’t afford Rs 500 ticket to watch",
-    "desc": "The Revenge continues its record-breaking run, a small, real-life moment linked to the film has gone viral for very different reasons. An auto-rickshaw driver, who appears briefly in the film’s final scene, has revealed that he hasn’t yet watched the Ranveer Singh starrer in theatres. In a candid interaction caught on camera, he was asked if he had seen the film.",
-    "img": "https://static.toiimg.com/photo/msid-129786596,imgsize-50758.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-auto-driver-says-he-cant-afford-rs-500-ticket-to-watch-his-own-scene-with-family-rs-2500-is-our-monthly-savings/articleshow/129786596.cms",
-    "time": "2026-03-24T20:51:45.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "T.N. election 2026: Kurinjipadi constituency voters want non-polluting, agro-based industrial boost",
     "desc": "Minister MRK Panneerselvam is in the fray aiming for a hat-trick in Kurinjipadi. The DMK-led Democratic Progressive Alliance needs to be aware that the Tamizhaga Vazhvurimai Katchi headed by T. Velmurugan and now delinked from the DMK-led alliance, is capable of eating into the votes of the DMK in areas like Kurinjipadi and Kullanchavadi where it has significant presence",
@@ -396,15 +549,6 @@ const newsData_en = [
     "time": "2026-03-24T20:21:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Celina Jaitly pens heartfelt birthday note for twin sons",
-    "desc": "Celina Jaitly penned a deeply emotional note for her twin sons, Winston and Viraaj, as they turned 14. Taking to Instagram, she shared a series of throwback pictures and expressed her pain at being away from them for months.",
-    "img": "https://static.toiimg.com/photo/msid-129786222,imgsize-70490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-pens-heartfelt-birthday-note-for-twin-sons-winston-and-viraaj-i-never-imagined-i-wouldnt-hear-your-voices/articleshow/129786222.cms",
-    "time": "2026-03-24T19:43:47.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "T.N. Assembly election: Tiruttani constituency residents seek more support to improve their livelihood",
     "desc": "Farmers, who recently set up a producer organisation and started growing millets, complain that they still do not have machinery needed to process the crop. Residents say work to lay a second access road to Subramaniaswami Temple is yet to be completed, with land acquisition still under way",
@@ -421,42 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/bangalore/jica-funds-bengaluru-metro-phase-3/article70779783.ece",
     "time": "2026-03-24T19:21:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actor-model Harshil Kalia, 30, dies in Jaipur car crash",
-    "desc": "30 pm, when Kalia was returning home from work. According to reports, her vehicle rammed into a divider and overturned. CCTV footage of the incident shows the car flipping onto its left side after the impact.",
-    "img": "https://static.toiimg.com/photo/msid-129785699,imgsize-67008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/actor-model-harshil-kalia-30-dies-in-tragic-jaipur-car-crash-vehicle-flips-after-hitting-divider/articleshow/129785699.cms",
-    "time": "2026-03-24T19:13:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Only structured party machinery with popularity can ensure success, says Thousand Lights DMK MLA Ezhilan",
-    "desc": "In an interview with The Hindu, the doctor-legislator speaks on his tenure as first-time MLA from Thousand Lights Assembly constituency in Chennai, Vijay’s political entry shaping the 2026 elections, redressal of key grievances and more.",
-    "img": "https://th-i.thgim.com/public/incoming/avw3uk/article70772309.ece/alternates/LANDSCAPE_1200/2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/only-structured-party-machinery-with-popularity-can-ensure-success-says-thousand-lights-dmk-mla-n-ezhilan/article70771692.ece",
-    "time": "2026-03-24T18:20:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kunickaa Sadanand slams trolls over AI image with Kumar Sanu",
-    "desc": "Actor Kunickaa Sadanand has strongly reacted to trolls circulating an AI-generated image featuring her and singer Kumar Sanu. Taking to X (formerly Twitter), Kunickaa issued a sharp warning, calling out the misuse of technology and invasion of privacy.",
-    "img": "https://static.toiimg.com/photo/msid-129783744,imgsize-100192.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kunickaa-sadanand-slams-trolls-over-ai-image-with-kumar-sanu-warns-of-defamation-says-sharam-karo-this-man-is-happily-married/articleshow/129783744.cms",
-    "time": "2026-03-24T17:59:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "HDFC Life Insurance gets I-T order for ₹172 crore",
-    "desc": "Consisting of ₹126.46 crore tax demand, ₹45.55 crore interest, and nil penalty, the order from the Income Tax authorities in Mumbai is for Assessment Year 2023-24 (financial year 2022-23) and related to multiple alleged violations",
-    "img": "https://th-i.thgim.com/public/incoming/fh71xs/article70781287.ece/alternates/LANDSCAPE_1200/2026-03-24T005833Z_371497632_RC2V5FAVBASN_RTRMADP_3_HDFC-BANK-CHAKRABORTY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/hdfc-life-insurance-gets-i-t-order-for-172-crore/article70780211.ece",
-    "time": "2026-03-24T17:21:55.000Z"
   },
   {
     "cat": "Sports",
@@ -541,15 +649,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "India name squads for Thomas, Uber Cup; Sen, Sindhu set to headline",
-    "desc": "India have named balanced squads for the Thomas and Uber Cup in Denmark, blending experience with young talent. Lakshya Sen leads the men’s team, which retains its 2022-winning core, while PV Sindhu and Unnati Hooda headline the women’s side. New and returning players add depth. Selections were based on rankings and team needs, with officials confident the mix can deliver strong results.",
-    "img": "https://static.toiimg.com/photo/msid-129779019,imgsize-42912.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/india-name-squads-for-thomas-uber-cup-lakshya-sen-pv-sindhu-set-to-headline/articleshow/129778490.cms",
-    "time": "2026-03-24T14:06:16.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Years of pain, now an era of pride",
     "desc": "Royal Challengers Bengaluru endured years of near misses in the Indian Premier League before finally winning their maiden title in 2025. While the men’s team battled inconsistency, the women’s side quickly found success, winning WPL titles in 2024 and 2026, completing a remarkable transformation of the franchise’s legacy.",
     "img": "https://static.toiimg.com/photo/msid-129778134,imgsize-202810.cms",
@@ -574,24 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/where-does-the-india-us-trade-deal-stand-explained/article70689001.ece",
     "time": "2026-03-24T12:39:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will Somani-led consortium's RR buy come into effect?",
-    "desc": "The champions of the inaugural edition of the Indian Premier League (IPL), Rajasthan Royals have been acquired for $1.63 billion by a Kal Somani-led consortium ahead of IPL 2026, though ownership will transfer after the season. Backed by major investors like Rob Walton and Sheila Ford Hamp, the deal highlights IPL’s rising global value. Somani",
-    "img": "https://static.toiimg.com/photo/msid-129776660,imgsize-31964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-when-will-kal-somani-led-consortiums-rajasthan-royal-buy-come-into-effect/articleshow/129776267.cms",
-    "time": "2026-03-24T12:25:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Why such a big craze?’: Ex-IPL star baffled by Pant's Rs 27.5cr price tag",
-    "desc": "Rishabh Pant’s poor IPL season and record Rs 27.50 crore price tag have drawn criticism after LSG missed the playoffs. Faf du Plessis questioned his lack of a clear T20 game plan and consistency, saying Pant has too many options and plays on the edge. He also doubted the hype around Pant, citing his modest T20 numbers and underwhelming performances.",
-    "img": "https://static.toiimg.com/photo/msid-129775570,imgsize-65218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/why-such-a-big-craze-over-rishabh-ex-ipl-star-baffled-by-pants-rs-27-5cr-price-tag/articleshow/129775228.cms",
-    "time": "2026-03-24T11:41:27.000Z"
   },
   {
     "cat": "Sports",
@@ -622,39 +703,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Yellow metal falls for 5th straight session; check latest rates",
-    "desc": "Gold prices saw a fifth consecutive day of decline on Tuesday, despite rising retail rates in major Indian cities. Futures contracts on MCX and international markets fell due to geopolitical tensions in the Middle East. Investors are now keenly awaiting key US economic data for insights into the Federal Reserve's interest rate decisions.",
-    "img": "https://static.toiimg.com/photo/msid-129773172,imgsize-99422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-check-gold-rate-in-your-city-on-march-24-2026-delhi-mumbai-bangalore-chennai-kolkata-hyderabad-ahmedabad-jaipur/articleshow/129773078.cms",
-    "time": "2026-03-24T10:08:26.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "How BioPharma SHAKTI can transform biologics with non-animal models",
     "desc": "A class of drugs called biologics is becoming more popular worldwide against many chronic diseases; on the flip side, animal models not do reliably predict their safety and efficacy, prompting scientists to shift to bioengineered, human-relevant systems such as organoids, organ-on-a-chip, and 3D bioprinting",
     "img": "https://th-i.thgim.com/public/incoming/mak6fi/article70158480.ece/alternates/LANDSCAPE_1200/IMG_iStock-801314880_2_1_UQESRO84.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/how-biopharma-shakti-can-transform-biologics-with-non-animal-models/article70779037.ece",
     "time": "2026-03-24T09:39:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How much oil does India have? PM Modi explains nation’s preparedness amid global fuel crisis",
-    "desc": "Prime Minister Narendra Modi assured India of sufficient crude oil storage and uninterrupted supply amidst the West Asia war's global fuel crunch. He highlighted the nation's strategic oil reserves and increased refining capacity, while emphasizing India's commitment to peace through dialogue and diplomacy in the region.",
-    "img": "https://static.toiimg.com/photo/msid-129772238,imgsize-868446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/how-much-oil-does-india-have-pm-modi-explains-nations-preparedness-amid-global-fuel-crisis/articleshow/129772053.cms",
-    "time": "2026-03-24T09:21:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Big blow to RCB, Yash Dayal ruled of IPL 2026 due to personal reasons",
-    "desc": "Defending champions Royal Challengers Bengaluru will be without fast bowler Yash Dayal for IPL 2026 due to personal reasons. Director of Cricket Mo Bobat confirmed Dayal remains under contract and will receive continued support from the franchise during this challenging period. Dayal was a key bowler for RCB, contributing significantly to their 2024 playoff run and 2025 title win.",
-    "img": "https://static.toiimg.com/photo/msid-129771512,imgsize-41072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/big-blow-to-rcb-yash-dayal-ruled-of-ipl-2026-due-to-personal-reasons/articleshow/129771532.cms",
-    "time": "2026-03-24T08:41:33.000Z"
   },
   {
     "cat": "World",
@@ -729,15 +783,6 @@ const newsData_en = [
     "time": "2026-03-23T10:03:08.000Z"
   },
   {
-    "cat": "World",
-    "title": "Why is the assassination of Congo’s first PM Patrice Lumumba being talked about now?",
-    "desc": "For more than six decades after the assassination of Patrice Lumumba, there was silence. He was shot. His body was dismembered and dissolved in sulphuric acid. No one was held accountable. Now, that silence may finally be breaking. The attention is now on 93 year old Belgian diplomat Étienne Davignon who will stand trial",
-    "img": "https://th-i.thgim.com/public/incoming/8corp6/article70774556.ece/alternates/LANDSCAPE_1200/CONGO%20THUMB.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-why-is-the-assassination-of-congos-first-pm-patrice-lumumba-being-talked-about-now/article70774560.ece",
-    "time": "2026-03-23T06:05:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Smaran",
     "desc": "He had a stupendous sophomore season as he accumulated a tournament-high 950 runs in the 2025-26 Ranji Trophy. After a sedate start to his domestic career in 2024, the 22-year-old from Karnataka has emerged as one of the brightest prospects in the country across formats",
@@ -745,15 +790,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/i-will-go-forward-through-runs-and-runs-only-smaran/article70773341.ece",
     "time": "2026-03-22T18:42:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What insurance numbers do not reveal",
-    "desc": "Insurance penetration and density are widely used measures, but they show premium collection, not how well households are protected against loss of income; as a result, premium growth is often mistaken for progress, even when financial protection remains limited",
-    "img": "https://th-i.thgim.com/public/news/national/epn9lj/article70773252.ece/alternates/LANDSCAPE_1200/iStock-1444046201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/what-insurance-numbers-do-not-reveal/article70772195.ece",
-    "time": "2026-03-22T17:42:39.000Z"
   },
   {
     "cat": "Sports",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
   }
 ];

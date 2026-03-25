@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will Chennai's top order shape, who will replace Ravindra Jadeja?",
+    "desc": "Ahead of IPL 2026, Chennai Super Kings made a bold trade by bringing in Sanju Samson in exchange for their former captain Ravindra Jadeja and Sam Curran. The deal signals a transition phase for CSK,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-predicted-playing-xi-for-ipl-2026-how-will-chennai-s-top-order-shape-who-will-replace-ravindra-jadeja-2026-03-25-1034997",
+    "time": "2026-03-25T04:31:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What led to Egyptian winger's departure from Premier League club?",
+    "desc": "After a nine-year-long association, Mohammed Salah has decided to leave Liverpool at the end of the season, bringing an end to one of the most decorated individual eras in the club’s modern history. Since arriving...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/mohammed-salah-to-leave-liverpool-what-led-to-egyptian-winger-s-departure-from-premier-league-club-2026-03-25-1034991",
+    "time": "2026-03-25T03:37:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Meet RCB's new owner, Aryaman Birla, who played with captain Rajat Patidar, was with RR too",
     "desc": "Royal Challengers Bengaluru have been acquired completely by a consortium led by the Aditya Birla Group (ABG) for a whopping amount of USD 1.78 billion (approximately Rs 16,706 crore) from its current owner the United...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/3-players-who-can-replace-ben-duckett-in-delhi-capitals-squad-for-ipl-2026-2026-03-24-1034953",
     "time": "2026-03-24T14:43:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rinku Singh gets new role, appointed vice-captain of KKR ahead of IPL 2026",
-    "desc": "Star India batter Rinku Singh will have a new role in the Kolkata Knight Riders as he has been appointed as vice-captain of the team ahead of the Indian Premier League 2026. Rinku has been an...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-gets-new-role-appointed-vice-captain-of-kkr-ahead-of-ipl-2026-2026-03-24-1034949",
-    "time": "2026-03-24T14:29:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ben Duckett pulls out of IPL 2026 to 'save England career', set to be banned for three years",
-    "desc": "Delhi Capitals opener Ben Duckett has pulled out of IPL 2026. The England international was bought for INR 2 crore in the auction and was expected to be reckoning for the opening slot alongside KL...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-duckett-pulls-out-of-ipl-2026-to-save-england-career-set-to-be-banned-for-three-years-2026-03-24-1034938",
-    "time": "2026-03-24T13:23:21.000Z"
   }
 ];
