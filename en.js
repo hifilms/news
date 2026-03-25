@@ -1,12 +1,174 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "China border patrols went up significantly post Galwan clash, data shows",
-    "desc": "From 173 patrols per month in 2017-18, the ITBP has ramped up the number of patrols to around 500 in 2023-24; the data was reported in the Union Home Ministry’s annual report for 2024-25 which was published on Wednesday",
-    "img": "https://th-i.thgim.com/public/incoming/afokyf/article70785213.ece/alternates/LANDSCAPE_1200/03_Army.jpg",
+    "title": "J&amp;K admin defends ban on books in HC, says ‘secessionist’ in nature",
+    "desc": "Jammu and Kashmir administration defended its ban on 25 Kashmir-related books in high court, citing state security and public order. The government also justified the legal provision used for the ban. Petitioners challenging the order have been given time to respond. The full bench will hear the case.",
+    "img": "https://static.toiimg.com/photo/msid-129810015,imgsize-1244038.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-admin-defends-ban-on-books-in-hc-says-secessionist-in-nature/articleshow/129809889.cms",
+    "time": "2026-03-25T18:41:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Time for Australian cricket to do some soul-searching",
+    "desc": "Buchanan, the former coach, reflects on what it takes to build a successful unit; says he was fortunate to have worked with greats like Warne and McGrath; feels that the younger crop of Aussies has not able to survive at the highest level, particularly in the longest format",
+    "img": "https://th-i.thgim.com/public/sport/i20kvx/article70785450.ece/alternates/LANDSCAPE_1200/BUCHANAN%202.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/china-border-patrols-went-up-significantly-post-galwan-clash-data-shows/article70784762.ece",
-    "time": "2026-03-25T16:02:30.000Z"
+    "url": "https://www.thehindu.com/sport/time-for-australian-cricket-to-do-some-soul-searching/article70785442.ece",
+    "time": "2026-03-25T18:19:41.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. to deploy 1,000 elite troops to West Asia",
+    "desc": "In a latest addition to the Iran war effort, U.S. officials say thousands of Marines, as well as rapid response naval vessels, will be heading to the region; Iran and Israel exchange strikes; Gulf neighbours Kuwait and Saudi Arabia come under fire; Iran’s military says it also targeted a U.S. aircraft carrier",
+    "img": "https://th-i.thgim.com/public/incoming/gtce39/article70785516.ece/alternates/LANDSCAPE_1200/Kuwait_Iran_War_51471.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-to-deploy-1000-elite-troops-to-west-asia/article70785462.ece",
+    "time": "2026-03-25T18:19:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Russia says it shot down almost 400 Ukrainian drones as Moscow, Kyiv escalate aerial barrages",
+    "desc": "Alexander Drozdenko, Governor of the Leningrad region north of Moscow, said 56 drones were shot down there, and a fire broke out in the Baltic Sea port of Ust-Luga as the result of Ukraine’s attack",
+    "img": "https://th-i.thgim.com/public/incoming/hnq3ey/article70785523.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_69362.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russia-says-it-shot-down-almost-400-ukrainian-drones-as-moscow-kyiv-escalate-aerial-barrages/article70785468.ece",
+    "time": "2026-03-25T18:19:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rohit Pawar",
+    "desc": "The MLA cited documents with signatures of Mr. Patel and Mr. Tatkare which he claims stated that in the absence of a national president, all authority would vest in the national working president and all decisions would be taken by him",
+    "img": "https://th-i.thgim.com/public/incoming/3o8qxo/article70783708.ece/alternates/LANDSCAPE_1200/PTI02_23_2026_000108B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/praful-patel-tatkare-sought-to-take-over-ncp-after-ajit-pawars-death-wrote-to-ec-rohit-pawar/article70783587.ece",
+    "time": "2026-03-25T18:19:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP fields R.G. Kar victim’s mother from Panihati in West Bengal Assembly polls",
+    "desc": "A few days ago, Abhaya’s mother had confirmed that she will contest from Panihati Assembly seat on a BJP ticket. Several BJP leaders including Leader of Opposition Suvendu Adhikari had reached out to the family convincing the mother to contest the polls",
+    "img": "https://th-i.thgim.com/public/incoming/oojv5o/article70785479.ece/alternates/LANDSCAPE_1200/PTI3_25_2019_000150A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-fields-rg-kar-victims-mother-from-panihati-in-west-bengal-assembly-polls/article70785191.ece",
+    "time": "2026-03-25T18:09:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gujarat Titans pick left-arm pacer to replace injured Prithviraj Yarra",
+    "desc": "Gujarat Titans signed Kulwant Khejroliya as replacement for injured Prithviraj Yarra ahead of IPL 2026. Captain Shubman Gill stressed calm, confident leadership and long-term vision. Director Vikram Solanki highlighted minimal squad changes and continuity. With a strong core and clear approach, Gujarat Titans begin their campaign aiming to build on past success.",
+    "img": "https://static.toiimg.com/photo/msid-129808740,imgsize-169828.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-gujarat-titans-pick-left-arm-pacer-to-replace-injured-prithviraj-yarra/articleshow/129808668.cms",
+    "time": "2026-03-25T17:57:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "What is at stake at the WTO’s MC14?",
+    "desc": "What is the context in which MC14 is taking place? What has weakened the WTO’s dispute settlement system? What are the key issues before MC14? Why is the e-commerce moratorium contentious? What role should India play at MC14?",
+    "img": "https://th-i.thgim.com/public/incoming/i83cla/article70785447.ece/alternates/LANDSCAPE_1200/1187996506",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/what-is-at-stake-at-the-wtos-mc14-explained/article70784056.ece",
+    "time": "2026-03-25T17:39:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Report",
+    "desc": "British Airways is set to reward pilots with bonuses up to 1% of their salary for cutting carbon emissions. Pilots must collectively reduce CO2 by 60,000 tonnes above 2025 levels to earn the payout, starting next year. This initiative, focusing on fuel-saving practices, aims to address rising oil prices and climate pressures, with a union vote expected soon.",
+    "img": "https://static.toiimg.com/photo/msid-129808152,imgsize-54300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/british-airways-plans-bonus-for-pilots-for-cutting-fuel-use-under-new-emissions-linked-plan-report/articleshow/129808092.cms",
+    "time": "2026-03-25T17:36:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Iran War tests European unity amid German economic slowdown and fears over Ukraine support",
+    "desc": "The stand of EU member states in the conflict is divergent as Europe faces economic slowdown and inflation amid rising oil and gas prices; Germany fears opposing U.S.-Israel actions could prompt U.S. to withdraw support from Ukraine, while the war could hurt its already faltering economy more",
+    "img": "https://th-i.thgim.com/public/incoming/vohs7x/article70785436.ece/alternates/LANDSCAPE_1200/2026-03-25T163045Z_829006475_RC2PBKAHMXZS_RTRMADP_3_IRAN-CRISIS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/iran-war-tests-european-unity-amid-german-economic-slowdown-and-fears-over-ukraine-support/article70784632.ece",
+    "time": "2026-03-25T17:33:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "FM Sitharaman defends Centre’s right to levy cess, says Constitution allows it",
+    "desc": "Speaking in the Lok Sabha, Ms. Sitharaman also said that the Centre was sending more to the States than it collected from cesses and surcharges. The Opposition had argued that these levies were not part of the divisible pool.",
+    "img": "https://th-i.thgim.com/public/incoming/endqd1/article70783903.ece/alternates/LANDSCAPE_1200/20260325149L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/constitution-makers-knew-what-they-were-doing-fm-sitharaman-defends-centres-cess-collections/article70783833.ece",
+    "time": "2026-03-25T17:20:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Insensitive, reckless’, SC describes Haryana Police conduct to a traumatised minor in a sexual assault case",
+    "desc": "The Bench constituted a three-member Special Investigation Team (SIT) of senior women IPS officers — Kala Ramachandran, Anshu Singla and Jasleen Kaur — to take over the probe of the case from the Gurugram Police with immediate effect",
+    "img": "https://th-i.thgim.com/public/incoming/n2vsww/article69577810.ece/alternates/LANDSCAPE_1200/vbk-supreme%20court-stock-sc2025-PTI05_05_2025_000098A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/gurugram-child-rape-case-supreme-court-haryana-police-haryana-child-welfare-committee/article70783384.ece",
+    "time": "2026-03-25T17:19:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Consumer protection watchdog warns restaurants against levying gas, LPG charge",
+    "desc": "CCPA made it clear that only applicable taxes can be added to the price mentioned in the menu of restaurants and hotels; all input costs should be factored into the prices displayed in the menu",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/lpg-fuel-petrol-crisis-live-updates-west-asia-war-straight-of-hormuz/article70782692.ece",
+    "time": "2026-03-25T17:04:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay on backlash over age-gap love story with Wamiqa",
+    "desc": "Akshay Kumar has weighed in on the debate surrounding age gaps between romantic leads in films, stating it's often a script requirement and happens in real life too. Director Priyadarshan added that screen age and audience acceptance are more crucial than chronological age. Their film 'Bhooth Bangla' releases April 10.",
+    "img": "https://static.toiimg.com/photo/msid-129807258,imgsize-39386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-reacts-to-age-gap-with-wamiqa-gabbi-and-romancing-her-in-bhooth-bangla-humne-pehle-dekha-nahi-hai-kya-kabhi/articleshow/129807253.cms",
+    "time": "2026-03-25T16:54:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parliament will function until April 2; Lok Sabha starts debate on amendments to insolvency & bankruptcy law",
+    "desc": "Parliamentary Affairs Minister Kiren Rijiju says that though there was a proposal to hold sittings during the weekend, Parliament will not function on March 28 and March 29; March 31 will be a holiday because of Mahavir Jayanti",
+    "img": "https://th-i.thgim.com/public/incoming/p8vzme/article70785316.ece/alternates/LANDSCAPE_1200/20260325151L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/parliament-budget-session-phase-2-function-until-april-2-lok-sabha-debate-amendments-insolvency-bankruptcy-law/article70784816.ece",
+    "time": "2026-03-25T16:39:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gurindervir wins 60m gold at National Indoor C'ships with new record",
+    "desc": "Gurindervir Singh won 60m gold at the National Indoor Championships with a record 6.60s, after favourite Animesh Kujur was disqualified following multiple false starts. Gurindervir said he wanted tougher competition but stayed focused. He reflected on past struggles and a fresh mindset. Elsewhere, G Reegan won pole vault, while several athletes impressed across events.",
+    "img": "https://static.toiimg.com/photo/msid-129806805,imgsize-106862.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/gurindervir-singh-wins-60m-gold-at-national-indoor-cships-with-new-record/articleshow/129806717.cms",
+    "time": "2026-03-25T16:39:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajnath Singh chairs parliamentary panel meeting on BRO, reviews border infrastructure push",
+    "desc": "Defence Minister Rajnath Singh reviewed the Border Roads Organisation's (BRO) progress on critical infrastructure projects, including over 1,000 road and connectivity initiatives under the 2023-28 plan. The focus is on enhancing all-weather access in remote areas, bolstering defence preparedness, and strengthening border management, particularly along the Indo-Myanmar frontier.",
+    "img": "https://static.toiimg.com/photo/msid-129808619,imgsize-142378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rajnath-singh-chairs-parliamentary-panel-meeting-on-bro-reviews-border-infrastructure-push/articleshow/129806351.cms",
+    "time": "2026-03-25T16:31:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Cricket is my passion. No one can take this away from me': Prithvi Shaw",
+    "desc": "Prithvi Shaw opens up on his year-long reset after missing IPL 2025, calling it a much-needed mental break. The Delhi Capitals opener reflects on inconsistent form, handling criticism, and lessons from setbacks, including his Mumbai exit. Back with a clearer mindset, Shaw emphasises quality practice, staying at present, and his unwavering ambition to return to the Indian team.",
+    "img": "https://static.toiimg.com/photo/msid-129806168,imgsize-42088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-cricket-is-my-passion-and-no-one-can-take-this-away-from-me-prithvi-shaw/articleshow/129806117.cms",
+    "time": "2026-03-25T16:17:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shiva Rajkumar reviews Ranveer Singh starrer Dhurandhar 2",
+    "desc": "The Revenge shows no signs of fading even as the film completes a week in theatres. Directed by Aditya Dhar and led by Ranveer Singh, the spy thriller continues its dream run at the box office, drawing praise from across industries. The latest to join the chorus is Kannada superstar Shiva Rajkumar, who took to X on Wednesday to share his admiration for the film, calling it “absolutely fantastic.”",
+    "img": "https://static.toiimg.com/photo/msid-129806359,imgsize-93802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shiva-rajkumar-reviews-ranveer-singh-starrer-dhurandhar-2-the-revenge-lauds-aditya-dhars-vision-absolutely-fantastic/articleshow/129806359.cms",
+    "time": "2026-03-25T16:15:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -16,24 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sab-jaan-gaye-notebandi-kyun-hua-ravi-kishan-slams-people-calling-dhurandhar-2-a-propaganda-film-samaaj-ka-aaina-hai/articleshow/129805871.cms",
     "time": "2026-03-25T15:54:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre extends subsidy to five years, shifts funding to exchequer",
-    "desc": "The revamp comes as more than 90% of routes under the old scheme fell into disuse after the subsidy period; the ₹28,840 crore outlay of the modified scheme marks a nearly six-fold jump in funding",
-    "img": "https://th-i.thgim.com/public/incoming/kr0jgl/article70783807.ece/alternates/LANDSCAPE_1200/BVR_7028.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/govt-clears-28840-crore-revamped-udan-scheme-offers-support-for-airport-operations-shifts-airline-subsidy-burden-to-exchequer/article70783818.ece",
-    "time": "2026-03-25T15:44:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Deputy CM Pawan Kalyan virtually inaugurates ‘Giri Pradakshina’ path at Ramateertham temple",
-    "desc": "It has been laid at a cost of ₹3.40 crore provided from the VB-G RAM G funds; the NDA government has provided road connectivity to 22 major temples in the last 20 months at a cost of ₹40 crore drawn out of VB-G RAM G, Panchayat Raj and SASCI funds, he says",
-    "img": "https://th-i.thgim.com/public/incoming/kxxve/article70784994.ece/alternates/LANDSCAPE_1200/Legal-system-toGEOFO4IB1.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/deputy-cm-pawan-kalyan-virtually-inaugurates-giri-pradakshina-path-at-ramateertham-temple/article70784591.ece",
-    "time": "2026-03-25T15:39:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -91,15 +235,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Corporation launches smart devices to combat mosquito menace in Vijayawada",
-    "desc": "The smart mosquito eliminator can trap approximately 50,000 mosquitoes within a range of 50 to 100 metres and kill them, while the sensor only provides information about the gender, species and density of mosquitoes in the city",
-    "img": "https://th-i.thgim.com/public/incoming/aehy6/article70784774.ece/alternates/LANDSCAPE_1200/10745_25_3_2026_20_18_55_1_IMG_20260325_WA0091.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/corporation-launches-smart-devices-to-combat-mosquito-menace-in-vijayawada/article70784059.ece",
-    "time": "2026-03-25T15:08:52.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Indiaspora and Zinnov release reports on India’s AI start-ups and GCCs",
     "desc": "Two new reports highlight India's growing role as a global AI hub, detailing the impact of artificial intelligence on its startup and Global Capability Center (GCC) ecosystems. The studies reveal how AI is accelerating innovation and forcing GCCs to shift from execution to co-creation to avoid displacement, emphasizing India's unique advantages in this transformation.",
     "img": "https://static.toiimg.com/photo/msid-129805076,imgsize-25468.cms",
@@ -124,15 +259,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/most-americans-say-us-military-action-against-iran-has-gone-too-far-poll-finds/article70784404.ece",
     "time": "2026-03-25T14:38:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Consumer protection watchdog warns restaurants against levying gas, LPG charge",
-    "desc": "CCPA made it clear that only applicable taxes can be added to the price mentioned in the menu of restaurants and hotels; all input costs should be factored into the prices displayed in the menu",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/lpg-fuel-petrol-crisis-live-updates-west-asia-war-straight-of-hormuz/article70782692.ece",
-    "time": "2026-03-25T14:36:10.000Z"
   },
   {
     "cat": "Politics",
@@ -252,6 +378,15 @@ const newsData_en = [
     "time": "2026-03-25T13:17:03.000Z"
   },
   {
+    "cat": "Tech",
+    "title": "New Mexico jury says Meta harms children’s mental health and safety, violating state law",
+    "desc": "The landmark decision comes after a nearly seven-week trial, and as jurors in a federal court in California have been sequestered in deliberations for more than a week about whether Meta and YouTube should be liable in a similar case",
+    "img": "https://th-i.thgim.com/public/incoming/7366yo/article70782439.ece/alternates/LANDSCAPE_1200/Meta_New_Mexico_Trial_13859.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/new-mexico-jury-says-meta-harms-childrens-mental-health-and-safety-violating-state-law/article70782437.ece",
+    "time": "2026-03-25T13:00:53.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Priyadarshan reveals Farah doubted Vidya's dance skills",
     "desc": "Priyadarshan, prepping Bhooth Bangla, recalls Bhool Bhulaiyaa's 'Mere Dholna'. Vidya Balan overcame Farah Khan's dance doubts after 35-40 days' practice, earning praise. She matched Vineeth's energy, cherishing the validation. The iconic track and her Manjulika role made the film a horror hit.",
@@ -289,48 +424,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "SS Rajamouli brings cutting-edge motion capture to 'Varanasi'",
-    "desc": "Director SS Rajamouli is using cutting-edge motion capture for his film 'Varanasi' starring Mahesh Babu. This advanced technology is being employed at Annapurna Studios in Hyderabad. A significant 25-minute action sequence is being filmed using this method. This innovation brings high-end visual effects production to India. The film promises to be a technically advanced project.",
-    "img": "https://static.toiimg.com/photo/msid-129801447,imgsize-113604.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ss-rajamouli-brings-cutting-edge-motion-capture-to-mahesh-babus-varanasi-an-action-sequence-shot-with-advanced-tech/articleshow/129801447.cms",
-    "time": "2026-03-25T12:27:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tom Holland movies to watch other than Spider-Man",
-    "desc": "While most know him as Spider-Man, Tom Holland's acting skills reveal a broader spectrum. In 'Cherry,' he ventures into the harrowing world of a war vet grappling with PTSD, showcasing a raw intensity. 'The Devil All the Time' presents him in a chilling psychological narrative, and 'Uncharted' catapults him into adrenaline-fueled adventures.",
-    "img": "https://static.toiimg.com/photo/msid-129801100,imgsize-27070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-movies-to-watch-other-than-spider-man-from-uncharted-to-cherry/articleshow/129801100.cms",
-    "time": "2026-03-25T12:14:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "FM Sitharaman defends Centre’s cess collections",
-    "desc": "Speaking in the Lok Sabha, Ms. Sitharaman also said that the Centre was sending more to the States than it collected from cesses and surcharges. The Opposition had argued that these levies were not part of the divisible pool.",
-    "img": "https://th-i.thgim.com/public/incoming/endqd1/article70783903.ece/alternates/LANDSCAPE_1200/20260325149L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/constitution-makers-knew-what-they-were-doing-fm-sitharaman-defends-centres-cess-collections/article70783833.ece",
-    "time": "2026-03-25T12:06:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Abhishek Bachchan's physical transformation shocks the internet",
     "desc": "Abhishek Bachchan is filming Shah Rukh Khan's 'King'. He is reportedly playing a negative role. A recent picture shows Abhishek with a new muscular physique. This transformation has surprised fans and social media users. Many have commented positively on his new look. The actor is keeping details about his role private.",
     "img": "https://static.toiimg.com/photo/msid-129800223,imgsize-56220.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchans-physical-transformation-shocks-the-internet-netizens-think-its-for-king-he-is-huge-and-muscular-now/articleshow/129800007.cms",
     "time": "2026-03-25T11:59:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Stephen Colbert, son team with Peter Jackson on LOTR film",
-    "desc": "Exciting news for Middle-earth fans! A brand new film, 'Shadows of the Past,' is on the horizon, with comedian Stephen Colbert and his son Peter McGee penning the storyline. This film will delve into untold tales from the early days of 'The Fellowship of the Ring' that Peter Jackson's adaptations missed.",
-    "img": "https://static.toiimg.com/photo/msid-129800310,imgsize-112158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lord-of-the-rings-shadows-of-the-past-stephen-colbert-and-son-peter-mcgee-partner-with-peter-jackson-for-new-movie/articleshow/129800310.cms",
-    "time": "2026-03-25T11:47:36.000Z"
   },
   {
     "cat": "Sports",
@@ -550,15 +649,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Pant a prisoner of his own reputation’: Ex-India cricketer flags concerns",
-    "desc": "Rishabh Pant's IPL 2025 campaign saw him struggle with form, averaging 24.45. Former opener Aakash Chopra believes Pant's risky batting approach, which even former coach Rahul Dravid questioned, has led to criticism and a loss of national team spot. Pant's decision to seek guidance from Yuvraj Singh is seen as a positive step towards improving his white-ball game.",
-    "img": "https://static.toiimg.com/photo/msid-129796257,imgsize-50082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rishabh-pant-a-prisoner-of-his-own-reputation-ex-india-cricketer-flags-concerns-ahead-of-ipl-2026/articleshow/129796075.cms",
-    "time": "2026-03-25T09:02:29.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "EXCLUSIVE",
     "desc": "Perth-born Cooper Connolly, who has modelled his batting on Shaun Marsh, a former star for Punjab Kings (then Kings XI Punjab), is set to turn up for the Mohali-based franchise as he looks to emulate his idol. The 22-year-old was bought by Punjab Kings for Rs 3 crore during last year’s IPL mini auction.",
     "img": "https://static.toiimg.com/photo/msid-129796001,imgsize-40596.cms",
@@ -585,42 +675,6 @@ const newsData_en = [
     "time": "2026-03-25T08:21:50.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Ashwin terms Gill 'bit like a don', but advised against 'chasing strike-rate'",
-    "desc": "Ravichandran Ashwin described Shubman Gill as a \"don\" who will be \"really hungry\" to return to the Indian T20I side this season. Ashwin urged Gill to focus on scoring runs normally rather than chasing a high strike rate, believing his natural game will lead to success and potentially another Orange Cap.",
-    "img": "https://static.toiimg.com/photo/msid-129795532,imgsize-1311103.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ashwin-terms-shubman-gill-bit-like-a-don-but-advised-against-chasing-strike-rate/articleshow/129795509.cms",
-    "time": "2026-03-25T08:17:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Shameful to summon 3-year old': Supreme Court slams Haryana Police for 'insensitive' handling of child rape case",
-    "desc": "The Supreme Court has sharply criticized Haryana Police and the Child Welfare Committee for their insensitive handling of a three-year-old rape survivor's case. The court condemned summoning the minor to the police station and expressed concern over the apparent downgrading of charges under the Pocso Act, emphasizing the need for a child-sensitive approach.",
-    "img": "https://static.toiimg.com/photo/msid-129795105,imgsize-810538.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/shameful-to-summon-3-year-old-supreme-court-slams-haryana-police-for-insensitive-handling-of-child-rape-case/articleshow/129794959.cms",
-    "time": "2026-03-25T07:58:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Adequate stock available': Govt issues clarification on LPG refill booking timeline amid confusion",
-    "desc": "Government has debunked false reports circulating on social media about revised LPG refill booking timelines. Existing booking periods of 25 days in urban and 45 days in rural areas remain unchanged. Authorities assure sufficient fuel stocks amidst Middle East tensions and urge the public to avoid panic buying and misinformation.",
-    "img": "https://static.toiimg.com/photo/msid-129794627,imgsize-114580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/adequate-stock-available-govt-issues-clarification-on-lpg-refill-booking-timeline-amid-confusion/articleshow/129793936.cms",
-    "time": "2026-03-25T07:50:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'No shortage of petrol, diesel, or LPG': BPCL, HPCL, IOCL soothe fuel concerns in India",
-    "desc": "Major oil companies have debunked claims of a fuel shortage, assuring the public that supplies are normal and sufficient. Despite global supply tensions due to the Middle East crisis, firms like BPCL, HPCL, and Indian Oil emphasize no panic buying is needed. They are committed to uninterrupted service, with real-time updates confirming smooth operations at retail outlets.",
-    "img": "https://static.toiimg.com/photo/msid-129793780,imgsize-39294.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/no-shortage-of-petrol-diesel-or-lpg-bpcl-hpcl-iocl-soothe-fuel-concerns-in-india/articleshow/129792537.cms",
-    "time": "2026-03-25T06:57:36.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Stephen Colbert to develop new ‘The Lord of the Rings’ movie at Warner Bros",
     "desc": "According to the film’s synopsis, the story is set years after the events of ‘The Return of the King’, following Sam, Merry and Pippin as they revisit the early stages of their journey, while a new mystery involving Sam’s daughter begins to unfold, uncovering hidden aspects of the War of the Ring",
@@ -639,15 +693,6 @@ const newsData_en = [
     "time": "2026-03-25T06:48:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Trying to deflect attention from Iran war': Congress slams BJP after 24 Akbar eviction notice",
-    "desc": "The Congress party has received an eviction notice for its long-standing national headquarters at 24, Akbar Road, with a deadline of March 28. The party alleges the move is politically motivated by the BJP government to divert attention from the Iran war. Congress plans to challenge the notice in court, calling it undemocratic and illegal.",
-    "img": "https://static.toiimg.com/photo/msid-129792888,imgsize-1006784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/trying-to-deflect-attention-from-iran-war-congress-slams-bjp-over-lutyens-eviction-notice/articleshow/129792648.cms",
-    "time": "2026-03-25T06:28:34.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump should end the war and ask Israel to leave Iran alone",
     "desc": "Donald Trump, whose administration has already eased some sanctions on Iran’s oil, could be looking for a deal, and Tehran could reciprocate if common ground is found. But for any diplomatic effort to progress, Mr. Trump must first rein in his ally Israel, which continues to pound Iran and Lebanon like an unhinged bully.",
@@ -655,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-trump-should-end-the-war-and-ask-israel-to-leave-iran-alone-the-hindu-editorial/article70782773.ece",
     "time": "2026-03-25T05:35:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 captain's meet: When, where and the complete agenda",
-    "desc": "IPL captains will meet BCCI officials on March 25 to discuss crucial rules like the two-bouncer rule and ball replacement. The session, featuring match referees and umpires, will clarify regulations on bat checks, saliva use, and the retired-out provision. Key changes to ball replacement rules, especially in the second innings, will be detailed.",
-    "img": "https://static.toiimg.com/photo/msid-129791971,imgsize-104766.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-captains-meet-when-where-and-the-complete-agenda/articleshow/129791955.cms",
-    "time": "2026-03-25T05:19:24.000Z"
   },
   {
     "cat": "Business",
@@ -682,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/indias-progress-on-its-climate-targets/article70481985.ece",
     "time": "2026-03-25T02:45:28.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "New Mexico jury says Meta harms children’s mental health and safety, violating state law",
-    "desc": "The landmark decision comes after a nearly seven-week trial, and as jurors in a federal court in California have been sequestered in deliberations for more than a week about whether Meta and YouTube should be liable in a similar case",
-    "img": "https://th-i.thgim.com/public/incoming/7366yo/article70782439.ece/alternates/LANDSCAPE_1200/Meta_New_Mexico_Trial_13859.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/new-mexico-jury-says-meta-harms-childrens-mental-health-and-safety-violating-state-law/article70782437.ece",
-    "time": "2026-03-25T01:25:27.000Z"
   },
   {
     "cat": "Sports",
@@ -738,24 +765,6 @@ const newsData_en = [
     "time": "2026-03-24T09:39:46.000Z"
   },
   {
-    "cat": "World",
-    "title": "Path ahead for Nepal’s new leadership",
-    "desc": "After securing a historic mandate in Nepal’s polls, Balendra Shah and the RSP face the task of navigating the West Asia conflict and managing ties with India, China and the U.S. While capitalising on old-guard fatigue proved an effective electoral strategy, the new leadership now faces a test in international relations",
-    "img": "https://th-i.thgim.com/public/incoming/nn7c9h/article70777013.ece/alternates/LANDSCAPE_1200/AFP_A33N6CT.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/path-ahead-for-nepals-new-leadership/article70776990.ece",
-    "time": "2026-03-24T07:46:32.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran sends waves of missiles into Israel, dismisses Trump's talk of negotiations as 'fake news'",
-    "desc": "The missiles triggered ‌air raid sirens in parts of Israel, including Tel Aviv where blasts from interceptions were heard. In one attack, ​homes in northern Israel were damaged by falling debris following an interception. No deaths were reported.",
-    "img": "https://th-i.thgim.com/public/incoming/ciuyq4/article70778393.ece/alternates/LANDSCAPE_1200/2026-03-19T150054Z_340422853_RC2ZYIAJTHS0_RTRMADP_3_IRAN-CRISIS-QALIBAF.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-sends-waves-of-missiles-into-israel-dismisses-trumps-talk-of-negotiations-as-fake-news/article70778360.ece",
-    "time": "2026-03-24T06:59:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL too good an opportunity to pass up",
     "desc": "The Indian domestic T20 tournament is in a league of its own, so it’s no surprise that players like Muzarabani and Shanaka have made last-minute shifts from the PSL; there will be no satisfactory conclusion to the debate of whether making such late moves is morally right",
@@ -772,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/moving-up-and-down-while-standing-still/article70706988.ece",
     "time": "2026-03-23T11:36:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smaran",
-    "desc": "He had a stupendous sophomore season as he accumulated a tournament-high 950 runs in the 2025-26 Ranji Trophy. After a sedate start to his domestic career in 2024, the 22-year-old from Karnataka has emerged as one of the brightest prospects in the country across formats",
-    "img": "https://th-i.thgim.com/public/incoming/nu7y9q/article70773342.ece/alternates/LANDSCAPE_1200/NH02Smaran09.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/i-will-go-forward-through-runs-and-runs-only-smaran/article70773341.ece",
-    "time": "2026-03-22T18:42:38.000Z"
   },
   {
     "cat": "Tech",

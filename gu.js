@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "PAN, HRA અને ATM ટ્રાન્ઝેક્શન... 1 એપ્રિલથી બદલાશે આ 5 મોટા નિયમો, તમારા ખિસ્સા પર પડશે સીધી અસર",
+    "desc": "1 એપ્રિલથી ઘણા નાણાકીય નિયમો બદલાવાના છે. જેની સીધી અસર સામાન્ય લોકોના ખિસ્સા અને રોજિંદા ખર્ચ પર પડવાની છે. આ ફેરફારો ખાસ કરીને નોકરિયાત વર્ગ, કરદાતાઓ અને રોકાણકારો માટે મહત્વના છે. જેમાં પાન કાર્ડ (PAN), HRA, ક્રેડિટ કાર્ડ, ઇન્કમ ટેક્સ અને ITR ફાઇલિંગ સાથે જોડાયેલા નિયમો સામેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/pan-hra-and-atm-transactions-these-5-big-rules-will-change-from-april-1-will-have-a-direct-impact-on-your-pocket-470136 ",
+    "time": "2026-03-25T18:04:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Dream11 લાવી રહ્યું છે નવું સ્ટોક બ્રોકિંગ પ્લેટફોર્મ, AI ફીચર્સ સાથે ગ્રો અને ઝેરોધાને આપશે સીધી ટક્કર!",
+    "desc": "ડ્રીમ11 (Dream11) પોતાની નવી સ્ટોક બ્રોકિંગ પ્લેટફોર્મ 'ડ્રીમ સ્ટ્રીટ' (Dream Street) લોન્ચ કરવા જઈ રહ્યું છે. જે AI આધારિત ઇન્વેસ્ટમેન્ટ ટૂલ્સ દ્વારા યુઝર્સને સ્માર્ટ ઇન્વેસ્ટિંગમાં મદદ કરશે. આ પ્લેટફોર્મ ખાસ કરીને નવા અને નાના શહેરોના રોકાણકારોને ધ્યાનમાં રાખીને બનાવવામાં આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/dream11-is-bringing-a-new-stock-broking-platform-will-directly-compete-with-grow-and-zerodha-with-ai-features-470135 ",
+    "time": "2026-03-25T17:36:36.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "જસપ્રીત બુમરાહને લઈને મોટા સમાચાર, IPL 2026માં રમશે કે નહીં ? આવી ગયું ફિટનેસ અપડેટ",
     "desc": "IPL 2026 પહેલા મુંબઈ ઈન્ડિયન્સના સ્ટાર ફાસ્ટ બોલર જસપ્રીત બુમરાહની ફિટનેસ અંગે એક મોટી અપડેટ સામે આવી છે. ટુર્નામેન્ટ શરૂ થાય તે પહેલા તે બેંગલુરુમાં સ્થિત BCCIના સેન્ટર ઓફ એક્સેલન્સમાં જોડાયો હતો. આ પછી ચાહકોને લાગતું હતું કે બુમરાહ IPL 2026માંથી બહાર થઈ શકે છે. જો કે, હવે મુંબઈ ઈન્ડિયન્સના ચાહકો માટે રાહતના સમાચાર સામે આવ્યા છે.",
@@ -430,24 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-saurabh-dubey-as-replacement-for-akash-deep-for-kkr-469765 ",
     "time": "2026-03-23T05:41:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "શેર બજારમાં હાહાકાર, સેન્સેક્સ-નિફ્ટી ધડામ, સોના-ચાંદીના ભાવમાં પણ જોરદાર કડાકો, જાણો લેટેસ્ટ સ્થિતિ",
-    "desc": "વૈશ્વિક સ્તરે ભારે ઉથલપાથલ અને આર્થિક અનિશ્ચિતતાઓના માહોલ વચ્ચે આજે ભારતીય શેર બજારોમાં પણ ભારે કોહરામ મચ્યો છે. આ ઉપરાંત કોમોડિટી બજારમાં પણ કિંમતી ધાતુઓ જોરદાર પછડાઈ છે. સોનું અને ચાંદી ભયંકર ગગડ્યા છે. જાણો લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/sensex-nifty-down-as-markets-open-gold-and-silver-prices-also-witnessed-a-sharp-fall-know-the-latest-situation-469760 ",
-    "time": "2026-03-23T04:15:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સરકારની અનોખી પહેલ, દીકરીઓના શિક્ષણ આપે છે 50000 રૂપિયા; જાણો કોણ લઈ શકે છે લાભ",
-    "desc": "દીકરીઓના શિક્ષણનો ખર્ચ ઉઠાવવા અને તેમને આર્થિક સહાય પૂરી પાડવા માટે કેન્દ્ર અને રાજ્ય સરકારો દ્વારા ઘણી યોજનાઓ ચલાવવામાં આવે છે. આ યોજનાઓ શિક્ષણથી લઈને લગ્ન સુધીનો ખર્ચ ઉઠાવવાની ક્ષમતા ધરાવે છે. સરકાર આ યોજનાઓ હેઠળ દર વર્ષે કરોડો રૂપિયા આપી રહી છે. આજે અમે આવી જ એક યોજના વિશે જણાવવા જઈ રહ્યા છીએ, જેનો લાભ તમે લઈ શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/mukhyamantri-rajshree-yojana-rajasthan-benefits-eligibility-registration-469745 ",
-    "time": "2026-03-22T18:09:54.000Z"
   },
   {
     "cat": "Sports",
