@@ -1,12 +1,255 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Govt clears ₹28,840 crore revamped UDAN scheme; offers support for airport operations, shifts airline subsidy burden to exchequer",
-    "desc": "In a key shift, the subsidy to airlines operating on selected Tier-2 and Tier-3 routes, which was earlier funded through a Regional Connectivity Scheme levy on passengers flying on non UDAN routes, will now be directly borne by the government",
+    "title": "China border patrols went up significantly post Galwan clash, data shows",
+    "desc": "From 173 patrols per month in 2017-18, the ITBP has ramped up the number of patrols to around 500 in 2023-24; the data was reported in the Union Home Ministry’s annual report for 2024-25 which was published on Wednesday",
+    "img": "https://th-i.thgim.com/public/incoming/afokyf/article70785213.ece/alternates/LANDSCAPE_1200/03_Army.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/china-border-patrols-went-up-significantly-post-galwan-clash-data-shows/article70784762.ece",
+    "time": "2026-03-25T16:02:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sab jaan gaye notebandi ka,' Ravi Kishan calls 'Dhurandhar' reflection of society",
+    "desc": "The Revenge' is receiving widespread acclaim with discussions on the internet and box office success. Actor-turned-politician Ravi Kishan lauded the film as a mirror to society, asserting it reveals the true reasons behind demonetisation. He urged the film industry to create more such awareness-raising movies.",
+    "img": "https://static.toiimg.com/photo/msid-129806084,imgsize-50896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sab-jaan-gaye-notebandi-kyun-hua-ravi-kishan-slams-people-calling-dhurandhar-2-a-propaganda-film-samaaj-ka-aaina-hai/articleshow/129805871.cms",
+    "time": "2026-03-25T15:54:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre extends subsidy to five years, shifts funding to exchequer",
+    "desc": "The revamp comes as more than 90% of routes under the old scheme fell into disuse after the subsidy period; the ₹28,840 crore outlay of the modified scheme marks a nearly six-fold jump in funding",
     "img": "https://th-i.thgim.com/public/incoming/kr0jgl/article70783807.ece/alternates/LANDSCAPE_1200/BVR_7028.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/govt-clears-28840-crore-revamped-udan-scheme-offers-support-for-airport-operations-shifts-airline-subsidy-burden-to-exchequer/article70783818.ece",
-    "time": "2026-03-25T12:51:55.000Z"
+    "time": "2026-03-25T15:44:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Deputy CM Pawan Kalyan virtually inaugurates ‘Giri Pradakshina’ path at Ramateertham temple",
+    "desc": "It has been laid at a cost of ₹3.40 crore provided from the VB-G RAM G funds; the NDA government has provided road connectivity to 22 major temples in the last 20 months at a cost of ₹40 crore drawn out of VB-G RAM G, Panchayat Raj and SASCI funds, he says",
+    "img": "https://th-i.thgim.com/public/incoming/kxxve/article70784994.ece/alternates/LANDSCAPE_1200/Legal-system-toGEOFO4IB1.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/deputy-cm-pawan-kalyan-virtually-inaugurates-giri-pradakshina-path-at-ramateertham-temple/article70784591.ece",
+    "time": "2026-03-25T15:39:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 South stories of the day",
+    "desc": "Ram Charan sustained a minor eye injury on the 'Peddi' set, requiring stitches but returning to shoot. Meanwhile, Pawan Kalyan's wife Anna Konidela made her Instagram debut, and the 'Youth' team clarified copyright claims for a song. Samuthirakani addressed a viral video controversy, and Balachandra Menon criticized recent Malayalam film titles.",
+    "img": "https://static.toiimg.com/photo/msid-129805541,imgsize-155044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ram-charan-injured-at-peddi-set-pawan-kalyans-wife-annas-instagram-debut-youth-teams-response-to-copyright-violation-top-5-south-stories-of-the-day/articleshow/129805541.cms",
+    "time": "2026-03-25T15:32:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Misogynistic and insulting': Keralam CM Pinarayi Vijayan slams UDF leader A Irshad's 'beauty' remark on MLA Pratibha",
+    "desc": "Keralam Chief Minister Pinarayi Vijayan has strongly condemned misogynistic remarks made by a UDF leader against MLA U Prathibha, terming them an insult to all women in public life. Prathibha plans legal action, stating the comments were beyond character assassination and aimed at discouraging women. The UDF candidate distanced himself from the remarks.",
+    "img": "https://static.toiimg.com/photo/msid-129805649,imgsize-25140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/misogynistic-and-insulting-keralam-cm-pinarayi-vijayan-slams-udf-leader-a-irshads-beauty-remark-on-mla-pratibha/articleshow/129805488.cms",
+    "time": "2026-03-25T15:24:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US-Iran war: Why India is facing an LPG crisis — explained in charts",
+    "desc": "India grapples with a severe cooking gas shortage, driven by Middle East conflict-induced import disruptions. Long queues and panic buying plague cities as supply chains strain. The government is prioritising household needs, cutting industrial allocations, while seeking to restore commercial supplies and urging a shift to alternatives like piped natural gas.",
+    "img": "https://static.toiimg.com/photo/msid-129805165,imgsize-104632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-why-india-is-facing-an-lpg-crisis-explained-in-charts/articleshow/129804757.cms",
+    "time": "2026-03-25T15:21:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No clash of dates between Commonwealth TTC and UTT",
+    "desc": "Multiple officials, requesting anonymity, confirmed that the seventh edition of UTT will be held in Goa from July 9 to 26. The 22nd edition of the CTTC will then begin in New Delhi on July 27, with the finals scheduled for August 2",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/no-clash-of-dates-between-commonwealth-ttc-and-utt/article70784768.ece",
+    "time": "2026-03-25T15:18:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mustafa on 'Dhurandhar 2' being called propaganda: 'Mahesh/Mukesh ko lete'",
+    "desc": "The Revenge' faces 'propaganda' accusations. Actor Mustafa Ahmed and filmmaker Ram Gopal Varma have refuted these claims, with Varma suggesting critics create their own narratives. Anupam Kher lauded the film's portrayal of modern India and its agencies, praising director Aditya Dhar's work.",
+    "img": "https://static.toiimg.com/photo/msid-129805306,imgsize-54066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-actor-reacts-to-accusations-of-aditya-dhar-making-a-propaganda-film-mera-naam-mustafa-ahmed-hai-aisa-hota-toh-mukesh/mahesh-ko-lete/articleshow/129805182.cms",
+    "time": "2026-03-25T15:17:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "RG Kar victim’s mother Ratna Debnath gets BJP ticket from Panihati",
+    "desc": "The BJP has nominated Ratna Debnath, mother of the RG Kar Medical College rape and murder victim, from Panihati for the West Bengal Assembly elections. Her decision to contest on a BJP ticket stems from her pursuit of justice for her daughter and a broader fight for women's safety. This move has sparked debate among activists.",
+    "img": "https://static.toiimg.com/photo/msid-129805773,imgsize-153514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-rg-kar-victims-mother-ratna-debnath-gets-bjp-ticket-from-panihati/articleshow/129804969.cms",
+    "time": "2026-03-25T15:09:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Corporation launches smart devices to combat mosquito menace in Vijayawada",
+    "desc": "The smart mosquito eliminator can trap approximately 50,000 mosquitoes within a range of 50 to 100 metres and kill them, while the sensor only provides information about the gender, species and density of mosquitoes in the city",
+    "img": "https://th-i.thgim.com/public/incoming/aehy6/article70784774.ece/alternates/LANDSCAPE_1200/10745_25_3_2026_20_18_55_1_IMG_20260325_WA0091.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/corporation-launches-smart-devices-to-combat-mosquito-menace-in-vijayawada/article70784059.ece",
+    "time": "2026-03-25T15:08:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indiaspora and Zinnov release reports on India’s AI start-ups and GCCs",
+    "desc": "Two new reports highlight India's growing role as a global AI hub, detailing the impact of artificial intelligence on its startup and Global Capability Center (GCC) ecosystems. The studies reveal how AI is accelerating innovation and forcing GCCs to shift from execution to co-creation to avoid displacement, emphasizing India's unique advantages in this transformation.",
+    "img": "https://static.toiimg.com/photo/msid-129805076,imgsize-25468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indiaspora-and-zinnov-release-reports-on-indias-ai-start-ups-and-gccs/articleshow/129804287.cms",
+    "time": "2026-03-25T15:06:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jannik Sinner scripts history, breaks Djokovic's 10-year-old record",
+    "desc": "Jannik Sinner reached the Miami Open quarter-finals after beating Alex Michelsen and setting a record of 28 consecutive Masters 1000 sets, surpassing Novak Djokovic. Despite a tough fight, he won in straight sets. Sinner stays on track for the Sunshine Double. Elsewhere, Frances Tiafoe advanced, while Martin Landaluce impressed with an emotional upset win.",
+    "img": "https://static.toiimg.com/photo/msid-129804869,imgsize-43398.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/jannik-sinner-scripts-history-breaks-novak-djokovics-10-year-old-record/articleshow/129804630.cms",
+    "time": "2026-03-25T14:56:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Most Americans say U.S. military action against Iran has gone too far, poll finds",
+    "desc": "About 4 in 10 U.S. adults continue to approve of Mr. Trump’s performance as president, which is unchanged from last month; his approval on foreign policy, while slightly lower than his overall approval, also largely held steady",
+    "img": "https://th-i.thgim.com/public/incoming/x7svcq/article70784621.ece/alternates/LANDSCAPE_1200/AP03_25_2026_000104A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/most-americans-say-us-military-action-against-iran-has-gone-too-far-poll-finds/article70784404.ece",
+    "time": "2026-03-25T14:38:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Consumer protection watchdog warns restaurants against levying gas, LPG charge",
+    "desc": "CCPA made it clear that only applicable taxes can be added to the price mentioned in the menu of restaurants and hotels; all input costs should be factored into the prices displayed in the menu",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/lpg-fuel-petrol-crisis-live-updates-west-asia-war-straight-of-hormuz/article70782692.ece",
+    "time": "2026-03-25T14:36:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "All-party meet on Middle East: Opposition backs government steps in crisis, says Kiren Rijiju after briefing",
+    "desc": "Opposition parties pledged full support to the government on the Middle East crisis following an all-party meeting. Ministers addressed concerns regarding the Iran-Israel-US conflict's impact on India, including energy supplies and citizen safety. While most parties expressed satisfaction, some, like the TMC, skipped the meeting, and a few voiced lingering concerns about parliamentary debate.",
+    "img": "https://static.toiimg.com/photo/msid-129804303,imgsize-43382.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/all-party-meet-on-middle-east-opposition-backs-government-steps-in-crisis-says-kiren-rijiju-after-briefing/articleshow/129804178.cms",
+    "time": "2026-03-25T14:34:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Ex-Google executive Matt Brittin named new BBC boss",
+    "desc": "The BBC is facing a $10 billion lawsuit from Mr. Trump, who accuses the publicly funded broadcaster of defamation over how it spliced ‌together footage of parts of a speech he gave on January 6, 2021, before his supporters ‌stormed the U.S. Capitol",
+    "img": "https://th-i.thgim.com/public/incoming/y73h68/article70784558.ece/alternates/LANDSCAPE_1200/EU-Britain-BBC_29703.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ex-google-executive-matt-brittin-named-new-bbc-boss/article70784534.ece",
+    "time": "2026-03-25T14:19:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Goals, trophies and records after 9 years",
+    "desc": "Mohamed Salah will leave Liverpool after nine years, ending a historic era. He scored 255 goals in 435 games and won eight major trophies, including the Premier League and Champions League. Despite a difficult final season and tensions with the manager, Salah’s legacy remains unmatched. His future is uncertain, but Liverpool now face a major rebuild without their talisman.",
+    "img": "https://static.toiimg.com/photo/msid-129802900,imgsize-96946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/mohamed-salah-to-leave-liverpool-goals-trophies-and-records-after-9-years/articleshow/129802324.cms",
+    "time": "2026-03-25T14:17:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war: A day‑by‑day rundown of the escalating crisis",
+    "desc": "A joint U.S.-Israel attack on Iran and the killing of Supreme Leader Ayatollah Ali Khamenei have plunged West Asia into a fast‑spreading war, with Tehran and its allies launching retaliatory strikes across Israel, the Gulf and U.S. bases.",
+    "img": "https://th-i.thgim.com/public/incoming/z8eofi/article70702941.ece/alternates/LANDSCAPE_1200/AFP_99V379F.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
+    "time": "2026-03-25T14:04:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Auto driver who debuted in films can’t afford Dhurandhar 2 tickets",
+    "desc": "The Revenge earned Rs 919 Cr worldwide. Yet auto driver Badrul Islam, with a brief final-scene role, can't afford Rs 500 tickets—let alone Rs 2,500 for his family of five. Viral video: \"Haven't seen it yet.\"",
+    "img": "https://static.toiimg.com/photo/msid-129803531,imgsize-31320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ticket-costs-around-rs-500-ill-watch-it-later-auto-driver-who-debuted-in-films-cant-afford-dhurandhar-2-tickets/articleshow/129803531.cms",
+    "time": "2026-03-25T14:01:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Can Himanta Sarma retain power or will Gaurav Gogoi's debut shift the tide?",
+    "desc": "Assam's political landscape is heating up alongside spring festivities, with the BJP aiming for a solo majority against a resurgent Congress. Key contests include Himanta Biswa Sarma versus Gaurav Gogoi, while issues like identity, infiltration, and development shape the electoral battleground. Post-delimitation changes add another layer to this defining election.",
+    "img": "https://static.toiimg.com/photo/msid-129803423,imgsize-104654.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assam-assembly-election-2026-swot-analysis-can-himanta-sarma-retain-power-or-will-gaurav-gogois-debut-shift-the-tide-bpf-agp-ajp-cpm-aiudf-bjp-congress-raijor-dal/articleshow/129797273.cms",
+    "time": "2026-03-25T13:58:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nivin Pauly reacts to comparison with Mohanlal",
+    "desc": "Nivin Pauly is ready for his upcoming film Prathichaya. He has addressed comparisons with veteran actor Mohanlal, stating Mohanlal is unparalleled. Pauly describes his acting as simple and natural, not relying on extensive preparation. He trusts directors for guidance and finds character clarity through collaboration. This approach helps him avoid pressure.",
+    "img": "https://static.toiimg.com/photo/msid-129803283,imgsize-122584.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/lalettan-is-lalettan-nivin-pauly-reacts-to-comparison-with-mohanlal-at-prathichaya-promotions/articleshow/129803283.cms",
+    "time": "2026-03-25T13:56:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajpal Yadav opens up on slapping Akshay Kumar in 'Bhooth Bangla'",
+    "desc": "Rajpal Yadav's upcoming film 'Bhooth Bangla' features a scene where he slaps Akshay Kumar, a reversal of their 'Bhool Bhulaiyaa' dynamic. Yadav revealed the slap was Akshay's improvisation during rehearsals, highlighting their strong on-set coordination. This moment has generated significant buzz ahead of the film's release.",
+    "img": "https://static.toiimg.com/photo/msid-129803361,imgsize-27818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-opens-up-on-slapping-akshay-kumar-in-bhooth-bangla-scene-yeh-akki-paaji-ka-idea-tha/articleshow/129803331.cms",
+    "time": "2026-03-25T13:54:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Daredevil: Born Again’ season 2 hits series high with critics",
+    "desc": "Born Again has made a triumphant return for its second season on Disney+, receiving rave reviews with a remarkable 89% score on Rotten Tomatoes. This season, which debuted on March 24, 2026, showcases a sharper storyline and standout performances that have captivated audiences.",
+    "img": "https://static.toiimg.com/photo/msid-129803183,imgsize-35932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/daredevil-born-again-season-2-opens-to-the-highest-critic-score-since-the-earlier-series/articleshow/129803183.cms",
+    "time": "2026-03-25T13:44:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ECB hits back at batter's 'no one cares' claim",
+    "desc": "Livingstone, who has not played international cricket since England’s winless campaign in the ICC Champions Trophy under former captain Jos Buttler, had told ESPNCricinfo that the management, including Key and head coach Brendon McCullum, did not show enough concern for players once they were dropped.",
+    "img": "https://static.toiimg.com/photo/msid-129802921,imgsize-26346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-selection-row-explodes-ecbs-people-will-be-upset-response-to-liam-livingstones-no-one-cares-claim/articleshow/129801735.cms",
+    "time": "2026-03-25T13:27:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rio Raj begins 'Maddy' shoot with grand launch",
+    "desc": "Rio Raj's new film 'Maddy' has officially commenced shooting in Chennai with a grand launch ceremony. Sivakarthikeyan gave the first clap, marking the start of this romantic and comic entertainer aimed at the youth. The film boasts a promising cast and crew, with expectations high for Rio Raj's next career move.",
+    "img": "https://static.toiimg.com/photo/msid-129802734,imgsize-174490.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rio-raj-begins-maddy-shoot-with-grand-launch-sivakarthikeyan-kicks-off-filming-with-first-clap/articleshow/129802734.cms",
+    "time": "2026-03-25T13:23:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Adah Sharma on 'Ramarasa' with Karthik Mahesh",
+    "desc": "Adah Sharma debuted in Kannada cinema with Puneeth Rajkumar in 2015's Rana Vikrama, but returns only now in Ramarasa (June 2026), post-Kerala Story success. She picks films by director trust, not stars, does one per year for memorable roles, and joins Karthik Mahesh in BM Giriraj's project with Hebbah Patel.",
+    "img": "https://static.toiimg.com/photo/msid-129802879,imgsize-42802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/adah-sharma-on-ramarasa-with-karthik-mahesh-i-dont-pick-films-based-on-the-star-cast/articleshow/129802879.cms",
+    "time": "2026-03-25T13:23:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "From ‘Black Adam’ to ‘The Smashing Machine’: Dwayne Johnson’s biggest flops",
+    "desc": "Dwayne Johnson's new venture, 'The Smashing Machine,' has hit theaters with a disappointing USD 6 million opening, sparking fresh debates about his box office appeal. Known primarily for his action-packed hits, this R-rated drama marks a bold turn towards serious storytelling, but the lackluster numbers present a challenging moment in his otherwise illustrious career.",
+    "img": "https://static.toiimg.com/photo/msid-129802202,imgsize-90636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/from-black-adam-to-the-smashing-machine-dwayne-johnsons-biggest-flops/articleshow/129802202.cms",
+    "time": "2026-03-25T13:17:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -27,15 +270,6 @@ const newsData_en = [
     "time": "2026-03-25T12:39:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Praful Patel, Tatkare sought to take over NCP after Ajit Pawar's death, wrote to EC: Rohit Pawar",
-    "desc": "The MLA cited documents with signatures of Mr. Patel and Mr. Tatkare which he claims stated that in the absence of a national president, all authority would vest in the national working president and all decisions would be taken by him",
-    "img": "https://th-i.thgim.com/public/incoming/3o8qxo/article70783708.ece/alternates/LANDSCAPE_1200/PTI02_23_2026_000108B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/praful-patel-tatkare-sought-to-take-over-ncp-after-ajit-pawars-death-wrote-to-ec-rohit-pawar/article70783587.ece",
-    "time": "2026-03-25T12:39:09.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "With NavIC setback, India unable to use satellite system for security purposes: experts",
     "desc": "A major setback occurred after the last atomic clock on board the Indian Regional Navigational Satellite System-1F (IRNSS-1F) stopped functioning on March 10, leaving only three satellites of the NavIC constellation in function; armed forces of countries use the navigation satellite system for logistics, mapping and operational planning, and relying on a foreign navigation satellite system could pose security issues, especially during wars",
@@ -43,6 +277,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/another-satellite-in-navic-satellite-system-unable-to-function-limiting-its-security-capabilities-amid-concerns-of-reliance-on-foreign-navigation-systems/article70783744.ece",
     "time": "2026-03-25T12:37:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Vague apprehension of discrimination': SC dismisses plea challenging home ministry circular on Vande Mataram",
+    "desc": "The Supreme Court refused to hear a plea challenging a home ministry circular on singing 'Vande Mataram' at official events. The court stated the directive is not mandatory, calling the petition premature and based on a vague apprehension of discrimination. It advised the petitioner to approach the court if any action is taken against him in the future.",
+    "img": "https://static.toiimg.com/photo/msid-129801928,imgsize-29526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/vague-apprehension-of-discrimination-sc-dismisses-plea-challenging-home-ministry-circular-on-vande-mataram/articleshow/129801712.cms",
+    "time": "2026-03-25T12:32:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -79,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchans-physical-transformation-shocks-the-internet-netizens-think-its-for-king-he-is-huge-and-muscular-now/articleshow/129800007.cms",
     "time": "2026-03-25T11:59:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pawan Kalyan's wife Anna Konidela makes Instagram debut",
-    "desc": "Pawan Kalyan's wife, Anna Konidela, has made her Instagram debut, sharing an unseen picture with the 'Ustaad Bhagat Singh' actor. Her post, expressing gratitude to Chiranjeevi and Pawan Kalyan, quickly went viral, with fans warmly welcoming her. Anna's bio, \"Russian Heart, Indian Soul,\" resonated with many, highlighting her blended identity and values.",
-    "img": "https://static.toiimg.com/photo/msid-129800495,imgsize-100642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/long-overdue-pawan-kalyans-wife-anna-konidela-makes-instagram-debut-with-unseen-pic-of-the-ustaad-bhagat-singh-actor/articleshow/129800495.cms",
-    "time": "2026-03-25T11:55:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -172,30 +406,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "When and where to watch crime drama",
-    "desc": "'Vadh 2' hits Netflix April 3 after strong theatrical run. Sanjay Mishra-Neena Gupta lead spiritual sequel to 2022's Vadh. Set in MP prison, retiring guard investigates missing inmate amid corruption. Follows 8-week Bollywood window from Feb 6 release. Critics praise story, cast, gritty atmosphere.",
-    "img": "https://static.toiimg.com/photo/msid-129799575,imgsize-29272.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vadh-2-ott-update-when-and-where-to-watch-sanjay-mishra-and-neena-guptas-crime-drama-online/articleshow/129799575.cms",
-    "time": "2026-03-25T11:19:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Ashwath Marimuthu reveals missed film opportunity with Rajinikanth",
     "desc": "Director Ashwath Marimuthu revealed a missed opportunity to direct a film for Rajinikanth. The legendary actor was so impressed with Marimuthu's story that he skipped his food during the narration. Despite the project not materializing, Rajinikanth encouraged Marimuthu to keep the story safe, suggesting it would suit him or Kamal Haasan.",
     "img": "https://static.toiimg.com/photo/msid-129799434,imgsize-107784.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ashwath-marimuthu-reveals-missed-film-opportunity-with-rajinikanth-he-heard-the-story-and-even-skipped-his-food/articleshow/129799434.cms",
     "time": "2026-03-25T11:17:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actor reveals stage 1 diagnosis",
-    "desc": "Actress Amanda Peet candidly shared her stage 1 breast cancer journey, detailing the difficult conversation with her children and the emotional toll of her parents' passing concurrently. She found solace in friends and family, and her children's reactions, ranging from tears to quiet support, helped ground her.",
-    "img": "https://static.toiimg.com/photo/msid-129798967,imgsize-152646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/amanda-peet-reveals-breast-cancer-diagnosis-how-her-kids-reacted-and-all-about-her-health-journey/articleshow/129798946.cms",
-    "time": "2026-03-25T11:08:14.000Z"
   },
   {
     "cat": "Sports",
@@ -223,24 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-on-ram-navmi-are-banks-open-or-closed-on-march-26-and-27-check-state-wise-list/articleshow/129798175.cms",
     "time": "2026-03-25T10:59:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Samuthirakani responds to viral remarks on Vijay and Trisha",
-    "desc": "Actor Samuthirakani addresses a viral video controversy. He explains his remarks about Vijay and Trisha were taken out of context. Samuthirakani insists his words came from genuine concern and emotion. He maintains he speaks honestly and has no regrets about his statements. The actor clarifies his perspective on public appearances.",
-    "img": "https://static.toiimg.com/photo/msid-129798865,imgsize-55848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/samuthirakani-responds-to-viral-remarks-on-vijay-and-trisha-says-remarks-came-from-concern-not-criticism/articleshow/129798865.cms",
-    "time": "2026-03-25T10:55:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajinikanth’s emotional Kargil War speech resurfaces",
-    "desc": "The Revenge' has resurfaced an emotional Kargil War speech where he recalled his elder brother's sacrifice in the 1965 war. His poignant words highlighted the profound impact of war on families and underscored his deep patriotism and desire for India to be a superpower.",
-    "img": "https://static.toiimg.com/photo/msid-129798724,imgsize-113258.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/as-rajinikanth-praises-dhurandhar-2-the-revenge-the-jailer-actors-emotional-kargil-war-speech-recalling-his-brothers-sacrifice-resurfaces/articleshow/129798724.cms",
-    "time": "2026-03-25T10:49:54.000Z"
   },
   {
     "cat": "Sports",
@@ -279,15 +477,6 @@ const newsData_en = [
     "time": "2026-03-25T10:24:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rajpal Yadav opens up about his time in jail, recalls a near-death experience",
-    "desc": "Actor Rajpal Yadav expressed immense relief and a feeling of being reborn after his recent release from prison in a cheque-bounce case. The film industry's widespread support and efforts to clear his dues were instrumental in securing his bail. Yadav, who feels emotionally indebted to his well-wishers, is now focused on promoting his upcoming film 'Bhooth Bangla'.",
-    "img": "https://static.toiimg.com/photo/msid-129798148,imgsize-16042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-opens-up-on-his-time-in-jail-in-rs-9-crore-debt-case-recalls-childhood-incident-where-he-almost-died-im-a-fighter/articleshow/129798114.cms",
-    "time": "2026-03-25T10:22:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Is Arshdeep losing his swing? Irfan Pathan flags concern for Punjab's pacer",
     "desc": "Former Indian all-rounder Irfan Pathan has urged Arshdeep Singh to focus on his new-ball swing, noting a decline in this area over the past year. Despite Arshdeep's success as India's leading T20 World Cup wicket-taker and a consistent performer for Punjab Kings, Pathan believes improving new-ball bowling and economy rate is crucial for his future.",
@@ -297,15 +486,6 @@ const newsData_en = [
     "time": "2026-03-25T10:21:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "What if Manjulika, Raju and Baburao got locked in 'Bhooth Bangla'? Read here",
-    "desc": "In an exciting blend of laughter and scares, Akshay Kumar and Priyadarshan's horror-comedy 'Bhooth Bangla' is set to hit theaters on April 10, 2026. During a cheeky discussion about the film, the duo playfully pondered which legendary character would outlast the frights of their haunted abode—Manjulika, Raju, or Baburao.",
-    "img": "https://static.toiimg.com/photo/msid-129797806,imgsize-214876.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/what-if-bhool-bhulaiyaas-manjulika-raju-and-baburao-from-hera-pheri-got-locked-in-bhooth-bangla-akshay-kumar-and-priyadarshan-script-impromptu-hilarious-plot-exclusive/articleshow/129797806.cms",
-    "time": "2026-03-25T10:17:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "60 million barrels of Russian crude booked by Indian refiners amid global supply strain",
     "desc": "Indian refiners have significantly increased purchases of Russian crude, securing around 60 million barrels for the upcoming month amidst Middle East conflict-driven supply disruptions. This surge is supported by a US waiver allowing imports of Russian oil loaded before March 12, with refiners also diversifying with Venezuelan and previously Iranian crude.",
@@ -313,24 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/60-million-barrels-of-russian-crude-booked-by-indian-refiners-amid-global-supply-strain/articleshow/129796029.cms",
     "time": "2026-03-25T10:15:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "I-PAC raid: Supreme Court poses question to West Bengal CM",
-    "desc": "Court’s query comes in reaction to submissions made by both Ms. Banerjee and State of West Bengal that Directorate of Enforcement (ED) cannot move Supreme Court directly under Article 32 of Constitution, “crying” violation of its fundamental rights.",
-    "img": "https://th-i.thgim.com/public/incoming/7knsf5/article70781178.ece/alternates/LANDSCAPE_1200/TH22-SHIV-SAHAYGGRFOHM07.6.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/how-would-you-react-if-you-were-in-power-at-centre-and-a-rival-cm-did-this-sc-asks-mamata-banerjee/article70780804.ece",
-    "time": "2026-03-25T10:13:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ECI probing glitch that marked all Bengal voters 'under adjudication': Official",
-    "desc": "\"The issue was noticed on the night of March 24 and was caused by a technical error, possibly related to the server or backend integration. It has since been rectified, and we are probing the cause behind it,\" says ECI official",
-    "img": "https://th-i.thgim.com/public/incoming/41g7co/article70783475.ece/alternates/LANDSCAPE_1200/IMG_INDEXELECTIONCOMMISS_2_1_B6EB6NQQ.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/eci-probing-glitch-that-marked-all-bengal-voters-under-adjudication-official/article70783443.ece",
-    "time": "2026-03-25T10:09:55.000Z"
   },
   {
     "cat": "Sports",
@@ -361,7 +523,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Doctors say veteran Congress leader’s condition is stable",
+    "title": "Doctors say veteran Congress leader to remain under observation",
     "desc": "Veteran Congress leader Sonia Gandhi is stable and under observation at Sir Ganga Ram Hospital after being admitted Tuesday night due to feeling unwell following a weather change. Doctors are conducting investigations for potential stomach and urinary tract infections, with antibiotics administered as part of her treatment. Her condition is being closely monitored by a medical team.",
     "img": "https://static.toiimg.com/photo/msid-129797691,imgsize-31240.cms",
     "src": "indiatimes.com",
@@ -378,24 +540,6 @@ const newsData_en = [
     "time": "2026-03-25T09:52:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nagarjuna Akkineni’s family tree, legacy, and film journey",
-    "desc": "Nagarjuna Akkineni, a prominent Telugu actor, continues his family's cinematic legacy. From his debut as a child artist to becoming a super hit hero, he has built a distinguished career. His sons, Naga Chaitanya and Akhil, are also carving their paths in the film industry, further strengthening the Akkineni and Daggubati families' powerful presence in Telugu cinema.",
-    "img": "https://static.toiimg.com/photo/msid-129796285,imgsize-142488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/akkineni-roots-to-stardom-nagarjuna-akkinenis-family-tree-legacy-and-film-journey/articleshow/129796285.cms",
-    "time": "2026-03-25T09:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All we know about baby #4",
-    "desc": "Abby and Matt Howard are expecting their fourth child, a beacon of hope six months after the devastating loss of their unborn daughter, Emerson Nicole. The couple, known for their candid sharing of life's ups and downs, announced the pregnancy with sonogram photos, expressing profound gratitude. Their journey through grief, openly shared, highlights resilience and enduring love.",
-    "img": "https://static.toiimg.com/photo/msid-129796556,imgsize-118594.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/abby-and-matt-howard-expecting-again-after-pregnancy-loss-inside-their-grateful-beyond-measure-announcement/articleshow/129796520.cms",
-    "time": "2026-03-25T09:20:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Barred by interim govt, BCB now wants Hasina-linked cricketer back for 'long term'",
     "desc": "Shakib, 39, had moved to the United States after the country's Awami League government led by Sheikh Hasina was removed following a student uprising in 2024. The interim government had barred Shakib from representing Bangladesh",
@@ -403,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/barred-by-interim-govt-bangladesh-now-wants-sheikh-hasina-linked-cricketer-back-for-long-term/articleshow/129796322.cms",
     "time": "2026-03-25T09:15:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Youth' team CLARIFIES copyright allegations",
-    "desc": "Gaana singer Dinesh has accused the 'Youth' film team of using his song 'Naa Aasapetta Ponnu Peru Monisha' without permission, leading to a police complaint. The film's makers, however, clarified that they obtained all necessary rights and paid the required fees to DIVO, asserting legal compliance. Meanwhile, 'Youth' is enjoying significant box office success.",
-    "img": "https://static.toiimg.com/photo/msid-129796354,imgsize-112978.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/gaana-singer-dinesh-alleges-unauthorized-use-of-his-song-in-youth-film-team-clarifies/articleshow/129796354.cms",
-    "time": "2026-03-25T09:11:52.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +603,6 @@ const newsData_en = [
     "time": "2026-03-25T07:58:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Ganguly's 'Sachin' remark goes viral",
-    "desc": "Former India captain Sourav Ganguly addressed the enduring debate between Sachin Tendulkar and Virat Kohli. Ganguly emphasized that both players are exceptional and have significantly contributed to India's victories. He highlighted the difficulty of achieving their records and stated that playing alongside great players like Tendulkar improved his own game, making a direct comparison between the two unnecessary.",
-    "img": "https://static.toiimg.com/photo/msid-129794962,imgsize-58808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-vs-sachin-tendulkar-sourav-gangulys-sachin-remark-goes-viral-watch/articleshow/129794958.cms",
-    "time": "2026-03-25T07:53:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Adequate stock available': Govt issues clarification on LPG refill booking timeline amid confusion",
     "desc": "Government has debunked false reports circulating on social media about revised LPG refill booking timelines. Existing booking periods of 25 days in urban and 45 days in rural areas remain unchanged. Authorities assure sufficient fuel stocks amidst Middle East tensions and urge the public to avoid panic buying and misinformation.",
@@ -486,15 +612,6 @@ const newsData_en = [
     "time": "2026-03-25T07:50:12.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Dhoni hits Mukesh for a six; internet trolls with 'Isko koi bhi maar de'",
-    "desc": "Veteran MS Dhoni, at 44, gears up for his 19th IPL season, showcasing his enduring finishing prowess in a recent net session. Despite trolling for the bowler, Dhoni's continued impact is evident. CSK, under Ruturaj Gaikwad, faces challenges with Nathan Ellis's injury but has bolstered their squad with Sanju Samson, signaling a future-focused approach.",
-    "img": "https://static.toiimg.com/photo/msid-129794581,imgsize-1635561.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-hits-mukesh-chaudhary-for-a-six-internet-trolls-with-isko-koi-bhi-maar-de-watch/articleshow/129794556.cms",
-    "time": "2026-03-25T07:32:43.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'No shortage of petrol, diesel, or LPG': BPCL, HPCL, IOCL soothe fuel concerns in India",
     "desc": "Major oil companies have debunked claims of a fuel shortage, assuring the public that supplies are normal and sufficient. Despite global supply tensions due to the Middle East crisis, firms like BPCL, HPCL, and Indian Oil emphasize no panic buying is needed. They are committed to uninterrupted service, with real-time updates confirming smooth operations at retail outlets.",
@@ -502,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/no-shortage-of-petrol-diesel-or-lpg-bpcl-hpcl-iocl-soothe-fuel-concerns-in-india/articleshow/129792537.cms",
     "time": "2026-03-25T06:57:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Salary, role explained",
-    "desc": "Rinku Singh received a dual honor, being appointed vice-captain of KKR for IPL 2026 and then appointed as a Regional Sports Officer by the Uttar Pradesh Government. CM Yogi Adityanath presented him with the appointment letter, highlighting UP's commitment to prioritizing athletes in government service. This new role will see Rinku shaping the future of sports in Uttar Pradesh.",
-    "img": "https://static.toiimg.com/photo/msid-129793741,imgsize-38192.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rinku-singh-appointed-regional-sports-officer-salary-role-and-key-details-explained/articleshow/129793762.cms",
-    "time": "2026-03-25T06:56:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -540,15 +648,6 @@ const newsData_en = [
     "time": "2026-03-25T06:28:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "GLP-1 gold rush under scanner: Raids across India expose easy access to weight-loss drugs",
-    "desc": "India's drug regulator is cracking down on the easy availability of GLP-1 weight-loss drugs following nationwide raids. Inspections revealed significant gaps in how these prescription medicines are sold and promoted, with concerns over sales without prescriptions and inadequate medical oversight. Authorities are intensifying enforcement to curb misuse and ensure these drugs are only dispensed under strict medical supervision.",
-    "img": "https://static.toiimg.com/photo/msid-129792296,imgsize-53658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/glp-1-gold-rush-under-scanner-raids-across-india-expose-easy-access-to-weight-loss-drugs/articleshow/129792211.cms",
-    "time": "2026-03-25T05:44:41.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump should end the war and ask Israel to leave Iran alone",
     "desc": "Donald Trump, whose administration has already eased some sanctions on Iran’s oil, could be looking for a deal, and Tehran could reciprocate if common ground is found. But for any diplomatic effort to progress, Mr. Trump must first rein in his ally Israel, which continues to pound Iran and Lebanon like an unhinged bully.",
@@ -567,24 +666,6 @@ const newsData_en = [
     "time": "2026-03-25T05:19:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Your yorker is breathtaking': Shami breathes fire, stumps shattered in nets",
-    "desc": "Veteran pacer Mohammed Shami, 35, showcased lethal yorkers in Lucknow Super Giants' nets, impressing coach Justin Langer. Bowling coach Bharat Arun expressed excitement about working with Shami again, highlighting his significant contribution to India's past overseas Test victories. LSG's pace attack, a blend of experience and emerging talent, faces the challenge of managing workloads post-injury.",
-    "img": "https://static.toiimg.com/photo/msid-129791886,imgsize-48796.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/your-yorker-is-breathtaking-mohammed-shami-breathes-fire-stumps-shattered-in-nets-watch/articleshow/129791836.cms",
-    "time": "2026-03-25T05:13:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Currency falls 20 paise to 93.96 per US dollar in early trade",
-    "desc": "The Indian rupee continued its downward trend, falling to 93.96 against the US dollar amid persistent foreign fund outflows and global crude oil price hikes. Forex traders attribute the sustained weakness to uncertainty surrounding the West Asia crisis. Despite the rupee's decline, Indian stock markets showed strength, with benchmark indices trading higher.",
-    "img": "https://static.toiimg.com/photo/msid-129791205,imgsize-670950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-inches-closer-to-94-currency-falls-20-paise-to-93-76-per-us-dollar-in-early-trade/articleshow/129791028.cms",
-    "time": "2026-03-25T04:29:04.000Z"
-  },
-  {
     "cat": "Business",
     "title": "HDFC Life Insurance gets I-T order for ₹172 crore",
     "desc": "Consisting of ₹126.46 crore tax demand, ₹45.55 crore interest, and nil penalty, the order from the Income Tax authorities in Mumbai is for Assessment Year 2023-24 (financial year 2022-23) and related to multiple alleged violations",
@@ -592,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/hdfc-life-insurance-gets-i-t-order-for-172-crore/article70780211.ece",
     "time": "2026-03-25T04:11:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Stock recommendations for March 25, 2026",
-    "desc": "Aurobindo Pharma, Infosys, and Larsen & Toubro (L&T) - these are the stocks that Mehul Kothari, DVP - Technical Research at Anand Rathi Shares and Stock Brokers has recommended as top stocks to buy today (March 25, 2026):",
-    "img": "https://static.toiimg.com/photo/msid-129790327,imgsize-80346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-march-25-2026-aurobindo-pharma-infosys-larsen-toubro-best-stocks-to-buy-today/articleshow/129790244.cms",
-    "time": "2026-03-25T03:06:52.000Z"
   },
   {
     "cat": "Business",
@@ -612,15 +684,6 @@ const newsData_en = [
     "time": "2026-03-25T02:45:28.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ITC, Tata Power &amp; more: Top stocks to watch for today",
-    "desc": "Analysts are bullish on Fractal Analytics and Tata Power, citing strong growth prospects and positive developments. UBS maintains a buy on ITC, expecting it to beat expectations despite pricing strategy impacts. However, Nuvama and Kotak Institutional Equities express caution on Coal India and Power Grid Corp, respectively, due to potential headwinds and saturated valuations.",
-    "img": "https://static.toiimg.com/photo/msid-129789930,imgsize-70892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/itc-tata-power-fractal-analytics-coal-india-power-grid-corp-more-top-stocks-to-watch-for-on-march-25-2026/articleshow/129789945.cms",
-    "time": "2026-03-25T02:25:27.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "New Mexico jury says Meta harms children’s mental health and safety, violating state law",
     "desc": "The landmark decision comes after a nearly seven-week trial, and as jurors in a federal court in California have been sequestered in deliberations for more than a week about whether Meta and YouTube should be liable in a similar case",
@@ -628,69 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/new-mexico-jury-says-meta-harms-childrens-mental-health-and-safety-violating-state-law/article70782437.ece",
     "time": "2026-03-25T01:25:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "HC bins Lalu's plea to quash land-for-jobs FIR",
-    "desc": "The Delhi High Court has refused to quash a CBI case against RJD chief Lalu Prasad and his family in the alleged land-for-railway-jobs scam. The court rejected arguments that the FIR was unsustainable due to the timing of the Prevention of Corruption Act amendment.",
-    "img": "https://static.toiimg.com/photo/msid-129789187,imgsize-1146036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hc-bins-lalus-plea-to-quash-land-for-jobs-fir/articleshow/129789182.cms",
-    "time": "2026-03-25T00:15:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kashmiri separatist Andrabi gets life term, 2 aides 30 yrs",
-    "desc": "A Delhi court has sentenced Kashmiri separatist leader Asiya Andrabi to life imprisonment for conspiring against the state. Her associates, Sofi Fehmeeda and Nahida Nasreen, received 30-year sentences. The court found they plotted to secede Kashmir from India, emphasizing that leniency would embolden such secessionist aims.",
-    "img": "https://static.toiimg.com/photo/msid-129789168,imgsize-343300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kashmiri-separatist-andrabi-gets-life-term-2-aides-30-yrs/articleshow/129789161.cms",
-    "time": "2026-03-25T00:09:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi's foreign policy a 'universal joke': Rahul",
-    "desc": "Rahul Gandhi has sharply criticized Prime Minister Modi's foreign policy, labeling it a \"universal joke\" and \"compromised.\" He questioned India's diminished role in international affairs, citing Pakistan's potential mediation in the Iran war. Gandhi asserted that Modi's personal approach has left India without a clear stance on global issues, making the Prime Minister's parliamentary speeches seem \"irrelevant.\"",
-    "img": "https://static.toiimg.com/photo/msid-129789118,imgsize-938697.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modis-foreign-policy-a-universal-joke-rahul/articleshow/129789109.cms",
-    "time": "2026-03-24T23:58:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi sets up 7 empowered groups to assess impact of war",
-    "desc": "Prime Minister Narendra Modi announced the formation of seven empowered groups to assess the impact of the West Asian conflict on India's energy supplies, essential commodities, and supply chains. These quick-response teams will develop strategies to mitigate economic repercussions, drawing lessons from the Covid-19 pandemic playbook.",
-    "img": "https://static.toiimg.com/photo/msid-129789094,imgsize-1063996.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/middle-east-crisis-pm-modi-sets-up-7-empowered-groups-to-assess-impact-of-war/articleshow/129789086.cms",
-    "time": "2026-03-24T23:53:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Government calls all-party meet today to address concerns over West Asia crisis",
-    "desc": "Following Prime Minister Modi's statements on the West Asia conflict, the government has convened an all-party meeting to foster a united parliamentary voice. The meeting aims to address opposition concerns and present a unified stance on the escalating crisis, which impacts India's energy supply and its large diaspora in the Gulf.",
-    "img": "https://static.toiimg.com/photo/msid-129789084,imgsize-1480775.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/government-calls-all-party-meet-today-to-address-concerns-over-west-asia-crisis/articleshow/129789078.cms",
-    "time": "2026-03-24T23:51:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "5 India-flagged LPG-loaded tankers stuck at Hormuz",
-    "desc": "India's government confirmed five LPG tankers, carrying approximately 2.3 lakh tonnes of cooking gas, are positioned west of the Strait of Hormuz. Two ships are expected at Indian ports this week. Officials clarified that no special permission is required for vessels to transit the international strait, though safety assessments are crucial given the current geopolitical climate.",
-    "img": "https://static.toiimg.com/photo/msid-129789075,imgsize-953861.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/5-india-flagged-lpg-loaded-tankers-stuck-at-hormuz/articleshow/129789073.cms",
-    "time": "2026-03-24T23:47:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Do not agitate us by saying that we are agitated, SC tells Sibal",
-    "desc": "A sharp exchange occurred in the Supreme Court between the bench and Mamata Banerjee's counsel Kapil Sibal regarding ED proceedings. The court clarified it was not presuming guilt, but rather acknowledging allegations require investigation. The case involves petitions seeking a CBI probe into alleged obstruction of ED officials during raids linked to a money laundering probe.",
-    "img": "https://static.toiimg.com/photo/msid-129789062,imgsize-52034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/do-not-agitate-us-by-saying-that-we-are-agitated-sc-tells-sibal/articleshow/129789061.cms",
-    "time": "2026-03-24T23:41:14.000Z"
   },
   {
     "cat": "Sports",
@@ -739,15 +739,6 @@ const newsData_en = [
   },
   {
     "cat": "World",
-    "title": "Iran-Israel war: A day‑by‑day rundown of the escalating crisis",
-    "desc": "A joint U.S.-Israel attack on Iran and the killing of Supreme Leader Ayatollah Ali Khamenei have plunged West Asia into a fast‑spreading war, with Tehran and its allies launching retaliatory strikes across Israel, the Gulf and U.S. bases.",
-    "img": "https://th-i.thgim.com/public/incoming/z8eofi/article70702941.ece/alternates/LANDSCAPE_1200/AFP_99V379F.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
-    "time": "2026-03-24T08:21:06.000Z"
-  },
-  {
-    "cat": "World",
     "title": "Path ahead for Nepal’s new leadership",
     "desc": "After securing a historic mandate in Nepal’s polls, Balendra Shah and the RSP face the task of navigating the West Asia conflict and managing ties with India, China and the U.S. While capitalising on old-guard fatigue proved an effective electoral strategy, the new leadership now faces a test in international relations",
     "img": "https://th-i.thgim.com/public/incoming/nn7c9h/article70777013.ece/alternates/LANDSCAPE_1200/AFP_A33N6CT.jpg",
@@ -763,15 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-sends-waves-of-missiles-into-israel-dismisses-trumps-talk-of-negotiations-as-fake-news/article70778360.ece",
     "time": "2026-03-24T06:59:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Kim vows to ’irreversibly’ cement North Korea’s nuclear status, calls South ’most hostile’",
-    "desc": "Analysts say Mr. Kim’s vilification of South Korea reflects his view that Seoul, which helped arrange his first meetings with Trump in 2018 and 2019, is no longer a useful intermediary with Washington but an obstacle to his push for a more assertive regional role",
-    "img": "https://th-i.thgim.com/public/incoming/74krji/article70778211.ece/alternates/LANDSCAPE_1200/North_Korea_04711.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/kim-vows-to-irreversibly-cement-north-koreas-nuclear-status-calls-south-most-hostile/article70778208.ece",
-    "time": "2026-03-24T06:02:20.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
     "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
   }
 ];

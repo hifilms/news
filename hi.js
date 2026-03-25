@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Navdeep Saini named Harshit Rana's replacement for IPL 2026",
+    "desc": "Kolkata Knight Riders have announced Navdeep Saini as the injury replacement for Harshit Ranas, the IPL body confirmed on Wednesday, March 25. Meanwhile, GT have announced Kulwant Khejroliya as a replacement for Prithviraj Yarri. \"Kolkata Knight...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/navdeep-saini-named-harshit-ranas-replacement-for-ipl-2026-2026-03-25-1035087",
+    "time": "2026-03-25T15:38:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur feels ODI World Cup win gives confidence of winning titles anywhere",
+    "desc": "Winning the ODI World Cup 2025 and ending a long wait in Indian women's cricket has given the Women in Blue much-needed confidence of heading into global tournaments, India captain Harmanpreet Kaur said. Harmanpreet's Indian...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-feels-odi-world-cup-win-gives-confidence-of-winning-titles-anywhere-2026-03-25-1035073",
+    "time": "2026-03-25T13:32:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why has Jasprit Bumrah reported to BCCI CoE before start of IPL 2026?",
     "desc": "As the IPL sits on the horizon, Jasprit Bumrah has reported to the Board of Control for Cricket in India's (BCCI) Centre of Excellence (CoE). Bumrah has been a vital man for the Mumbai Indians,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/faf-du-plessis-advises-lsg-captain-rishabh-pant-to-add-method-to-t20-madness-2026-03-25-1035030",
     "time": "2026-03-25T07:48:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why did Aryaman Birla, new chariman of RCB, leave cricket at 21 and what are his cricket stats?",
-    "desc": "Royal Challengers Bengaluru (RCB) has changed hands in a landmark deal ahead of IPL 2026, with the franchise sold for a staggering USD 1.78 billion (Rs 16,660 crore) to a multi-industry consortium. The sale, announced...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-did-aryaman-birla-new-chariman-of-rcb-leave-cricket-at-21-and-what-are-his-cricket-stats-2026-03-25-1035022",
-    "time": "2026-03-25T07:11:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'If they could give 0.5%'",
-    "desc": "Netherlands fast bowler Paul van Meekeren has reignited the conversation around financial disparity in world cricket, linking the massive valuation of franchise leagues to the challenges faced by associate nations. His remarks came in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/if-they-could-give-0-5-paul-van-meekeran-urges-to-support-netherlands-cricket-amid-rcb-s-sale-2026-03-25-1035009",
-    "time": "2026-03-25T05:37:17.000Z"
   }
 ];
