@@ -1,6 +1,132 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Tamil Nadu’s Nitish Kumar or assertive chief? Edappadi Palaniswami confronts a battle of perceptions",
+    "desc": "DMK claims AIADMK is subservient to the Modi government, framing the Assembly election as Tamil Nadu vs Delhi; BJP leaders avoid naming Mr. Palaniswami as NDA’s CM face, but he asserts himself in seat-sharing announcements",
+    "img": "https://th-i.thgim.com/public/incoming/3c5tjx/article70788647.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiG5LFP0TR7.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/edappadi-palaniswami-fights-political-reputation-of-becoming-tamil-nadus-nitish-kumar-subject-to-bjp-whims/article70788391.ece",
+    "time": "2026-03-26T21:23:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "President urged not to grant assent to Transgender Amendment Bill",
+    "desc": "The letter was written by All-India Feminist Alliance (ALIFA), a pan-India collective of grassroots organisations, along with National Alliance for Justice, Accountability and Rights (NAJAR); the groups said they were ‘extremely alarmed and distressed at the undue and unjustifiable haste’ with which the Bill was passed in Parliament",
+    "img": "https://th-i.thgim.com/public/incoming/im62sc/article70789441.ece/alternates/LANDSCAPE_1200/TRANS%20BILL%20PROTEST%20DELHI%202026_26_03_105.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/groups-urge-president-not-to-grant-assent-to-regressive-transgender-amendment-bill/article70788397.ece",
+    "time": "2026-03-26T21:20:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Deutsche Bank GCC fuels AI push with incubator",
+    "desc": "Deutsche Bank's Indian Global Capability Center is accelerating AI adoption with a startup-style incubator, drawing 100 ideas in its first 100 days. Employees are embracing AI transformation with less resistance than in mature markets, a cultural shift attributed to India's rapid digital progress.",
+    "img": "https://static.toiimg.com/photo/msid-129833903,imgsize-781880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/deutsche-bank-gcc-fuels-ai-push-with-incubator/articleshow/129833899.cms",
+    "time": "2026-03-26T21:01:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "E-comm hiring up 35% in 2 yrs; AI, ops lead: Report",
+    "desc": "India's e-commerce and quick commerce sectors are experiencing a hiring surge, with a significant 35% increase in roles. Companies are now prioritizing technology and operational capabilities, particularly in AI, machine learning, and supply chain, to drive platform strength and efficient fulfillment, especially in smaller cities.",
+    "img": "https://static.toiimg.com/photo/msid-129833888,imgsize-506061.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/e-comm-hiring-up-35-in-2-yrs-ai-ops-lead-report/articleshow/129833886.cms",
+    "time": "2026-03-26T20:57:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India backs WTO reset with core focus intact",
+    "desc": "India advocates for World Trade Organisation reform, emphasizing development for poorer nations and consensus-based decisions. Commerce Minister Piyush Goyal stressed the need to revive the dispute settlement mechanism and address long-pending issues like public stockholding for cotton-growing countries. India also signaled reservations about incorporating plurilateral agreements and continuing customs waivers for e-commerce.",
+    "img": "https://static.toiimg.com/photo/msid-129833877,imgsize-33804.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-backs-wto-reset-with-core-focus-intact/articleshow/129833869.cms",
+    "time": "2026-03-26T20:53:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Jindal Steel's deal with Thyssenkrupp faces delay",
+    "desc": "Jindal Steel International's proposed acquisition of Thyssenkrupp Steel is facing delays due to unresolved pension-related issues with German authorities. While talks remain active, further assurances from German stakeholders are needed to move forward with the deal, which includes plans for a green steel facility.",
+    "img": "https://static.toiimg.com/photo/msid-129833772,imgsize-1046948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/jindal-steels-deal-with-thyssenkrupp-faces-delay/articleshow/129833768.cms",
+    "time": "2026-03-26T20:14:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "E-2-wheelers may get subsidy for 3 more months",
+    "desc": "Government is likely to extend subsidies for electric two-wheelers and e-rickshaws under the PM e-Drive scheme. While e-two-wheeler subsidies may continue until June, e-rickshaw incentives could last for about two years. This extension aims to allow more people to benefit from the scheme, despite challenges in localization for e-rickshaw manufacturers.",
+    "img": "https://static.toiimg.com/photo/msid-129833765,imgsize-971805.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/e-2-wheelers-may-get-subsidy-for-3-more-months/articleshow/129833748.cms",
+    "time": "2026-03-26T20:09:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Industry knocks on govt doors, seeks supply woes resolution",
+    "desc": "Industry has urged the government to address supply chain disruptions impacting sectors from pharmaceuticals to plastics. Suggestions include loan relief for small businesses, a \"green corridor\" for goods, and restricting certain input uses. Rising freight rates and a potential container crunch are also major concerns.",
+    "img": "https://static.toiimg.com/photo/msid-129833742,imgsize-1028647.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/industry-knocks-on-govt-doors-seeks-supply-woes-resolution/articleshow/129833731.cms",
+    "time": "2026-03-26T20:04:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar actor reveals getting 'I love you' msgs from Pak",
+    "desc": "Dhurandhar actor Vivek Sinha recently spoke about the overwhelming response to his performance, his unconventional journey, and the life lessons that shaped him. From going viral for his intense role to receiving love—even from across the border—the actor didn’t hold back.",
+    "img": "https://static.toiimg.com/photo/msid-129833691,imgsize-30182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-actor-vivek-sinha-reveals-getting-i-love-you-messages-from-pakistan-those-14-seconds-of-footage-made-me-feel-like-a-star/articleshow/129833691.cms",
+    "time": "2026-03-26T20:01:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The surging cost of health care in Kerala",
+    "desc": "The interest shown by global private equity firms in Kerala’s private health sector has given rise to apprehensions that medical treatment may become a costly affair. A.S. Jayanth finds out A look at the possible fallout of the massive foreign investments in Kerala's hospitals",
+    "img": "https://th-i.thgim.com/public/incoming/q3aoqq/article70788964.ece/alternates/LANDSCAPE_1200/Medical.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/the-surging-cost-of-health-care-in-kerala/article70784005.ece",
+    "time": "2026-03-26T19:38:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "an allegorical Tamil short story on the emotional coercion of voters",
+    "desc": "Unlike high-pitched electioneering the State is known for, the TVK’s campaign seems in part to be unfolding quietly within households. What unfolds is reminiscent of the short story Marumagal Vaaku (Dauther-in-law’s Vote) by the late Tamil writer Krishnan Nambi",
+    "img": "https://th-i.thgim.com/public/incoming/uwwzjq/article70789689.ece/alternates/LANDSCAPE_1200/voter.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/marumagal-vaaku-an-allegorical-tamil-short-story-on-the-emotional-coercion-of-voters/article70789650.ece",
+    "time": "2026-03-26T19:25:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Eshwar Khandre says Karnataka govt. will recover money from IAF for giving 58 acres of forest land to BMRCL for compensation",
+    "desc": "Forest Minister B. Eshwar Khandre on Thursday told the Legislative Assembly that the Indian Air Force (IAF) authorities were not only in ‘illegal possession’ of forest land in Jarakbande Kaval village of Bengaluru North taluk as the land granted to them had been cancelled, but it had also given about 58 acres of forest land to BMRCL for monetary compensation",
+    "img": "https://th-i.thgim.com/public/incoming/ld7kw4/article70789701.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-26%20at%2016.25.32.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/eshwar-khandre-says-karnataka-govt-will-recover-money-from-iaf-for-giving-58-acres-of-forest-land-to-bmrcl-for-compensation/article70788968.ece",
+    "time": "2026-03-26T19:18:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UK judges say claims of interrogation torture in India worrying, only India govt promises reassured them",
+    "desc": "Fugitive jeweller Nirav Modi has lost his final bid to reopen his extradition appeal in London. Judges expressed concern over the use of 'proscribed treatment' to obtain confessions in India, but stated they would have reopened the appeal were it not for government assurances. Modi now faces extradition within a month, with limited avenues for further legal challenge.",
+    "img": "https://static.toiimg.com/photo/msid-129833320,imgsize-23162.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nirav-modi-case-uk-judges-say-claims-of-interrogation-torture-in-india-worrying-only-india-govt-promises-reassured-them/articleshow/129833339.cms",
+    "time": "2026-03-26T19:10:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Raids in Srinagar, Badgam for fake Covid medical supply orders",
+    "desc": "J&K police's economic offences wing raided three locations in Srinagar and Budgam in connection with an alleged fraud. Two men are accused of issuing fake medical procurement orders and impersonating government officials to siphon off funds during the Covid-19 pandemic. A Delhi-based firm filed a complaint alleging deceitful inducement for medical supplies, leading to the recovery of evidence.",
+    "img": "https://static.toiimg.com/photo/msid-129833235,imgsize-105420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/raids-in-srinagar-badgam-for-fake-covid-medical-supply-orders/articleshow/129833219.cms",
+    "time": "2026-03-26T19:06:14.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "AIADMK allotted Ministers’ constituencies to allies as it is colluding with DMK: Seeman",
     "desc": "He alleges that this is to ensure the defeat of its allies, including BJP. Criticising the Congress, he accuses the party of having harmed the interests of the Tamil people while in power at the Centre",
     "img": "https://th-i.thgim.com/public/incoming/v8elqa/article70788712.ece/alternates/LANDSCAPE_1200/9869_26_3_2026_19_17_56_2_1000203351.JPG",
@@ -10,21 +136,30 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "You've got mail: J&amp;K's first postwoman clocks 25 letters a day, 30 years on foot",
+    "desc": "In Shopian's Hirapora village, 55-year-old Ulfat Bano has been Kashmir's first postwoman for over three decades, delivering mail on foot through challenging terrain and harsh winters. Despite the physical toll, her passion for connecting people fuels her dedication. She finds immense satisfaction in bringing good news and parcels to her community, viewing her work as a vital service.",
+    "img": "https://static.toiimg.com/photo/msid-129833023,imgsize-1165748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/youve-got-mail-jks-first-postwoman-clocks-25-letters-a-day-30-years-on-foot/articleshow/129833031.cms",
+    "time": "2026-03-26T18:53:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Raids in 10 locations in 3 Kashmir districts",
+    "desc": "Counter Intelligence Kashmir busted a terror recruitment module with links to handlers across the LoC and Bangladesh. Raids across three districts yielded incriminating materials. A Bangladesh-based LeT operative, Shabir Ahmad Lone, allegedly coordinated recruitment and network expansion, operating as a most wanted terrorist from abroad. An associate was previously arrested.",
+    "img": "https://static.toiimg.com/photo/msid-129832908,imgsize-1833159.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/terror-recruitment-case-raids-in-10-locations-in-3-kashmir-districts/articleshow/129832918.cms",
+    "time": "2026-03-26T18:49:27.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Nirav Modi defiant, blames CBI and ED for destroying his businesses",
     "desc": "Appearing defiant in London, Nirav Modi testified in a civil trial, denying owing Bank of India over $10.7 million. He claimed banks, CBI, and ED destroyed his 20-year business, asserting no fraud against Punjab National Bank. Modi alleged PNB colluded with CBI, leading to an FIR without his input, and ED's actions halted his operations.",
     "img": "https://static.toiimg.com/photo/msid-129832750,imgsize-21674.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/nirav-modi-defiant-blames-cbi-and-ed-for-destroying-his-businesses/articleshow/129832773.cms",
     "time": "2026-03-26T18:42:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "an allegorical short story on the emotional coercion of voters",
-    "desc": "Unlike high-pitched electioneering the State is known for, the TVK’s campaign seems in part to be unfolding quietly within households. What unfolds is reminiscent of the short story Marumagal Vaaku (Dauther-in-law’s Vote) by the late Tamil writer Krishnan Nambi",
-    "img": "https://th-i.thgim.com/public/incoming/uwwzjq/article70789689.ece/alternates/LANDSCAPE_1200/voter.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/an-allegorical-short-story-on-the-emotional-coercion-of-voters/article70789650.ece",
-    "time": "2026-03-26T18:41:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -144,15 +279,6 @@ const newsData_en = [
     "time": "2026-03-26T16:57:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Stress laid on proper hygiene to prevent shigella spread in Kerala",
-    "desc": "A total of 15 cases, including one death, have been reported across the State this month due to shigellosis, a disease caused by Shigella bacteria. As many as 29 confirmed cases have been reported across the State so far this year",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/stress-laid-on-proper-hygiene-to-prevent-shigella-spread-in-kerala/article70789002.ece",
-    "time": "2026-03-26T16:47:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shami's latest act triggers big reaction from Langer",
     "desc": "Mohammed Shami is training hard ahead of IPL 2026, aiming to return to India’s squad. The 35-year-old impressed LSG coach Justin Langer with his yorkers, who called them “breathtaking.” Langer also praised Shami’s leadership among younger players. With selectors overlooking him, the IPL offers Shami a crucial chance to prove himself and push for a comeback.",
@@ -169,24 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nandamuri-balakrishna-touches-hema-malinis-feet-at-iffd-2026-seeks-her-blessings-video-goes-viral/articleshow/129829505.cms",
     "time": "2026-03-26T16:21:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Groups urge President not to grant assent to ‘regressive’ Transgender Amendment Bill",
-    "desc": "The letter was written by All-India Feminist Alliance (ALIFA), a pan-India collective of grassroots organisations, along with National Alliance for Justice, Accountability and Rights (NAJAR); the groups said they were ‘extremely alarmed and distressed at the undue and unjustifiable haste’ with which the Bill was passed in Parliament",
-    "img": "https://th-i.thgim.com/public/incoming/im62sc/article70789441.ece/alternates/LANDSCAPE_1200/TRANS%20BILL%20PROTEST%20DELHI%202026_26_03_105.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/groups-urge-president-not-to-grant-assent-to-regressive-transgender-amendment-bill/article70788397.ece",
-    "time": "2026-03-26T16:17:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "At least 14 killed, 28 injured as bus collides with lorry,  triggers blaze near A.P.’s Markapuram",
-    "desc": "Victims include a five-month-old baby; bus owner, who was driving, is injured and in police custody; an investigation is underway, though officials are blaming bus driver’s negligence and a short circuit in bus AC battery system",
-    "img": "https://th-i.thgim.com/public/incoming/ewbhuy/article70789442.ece/alternates/LANDSCAPE_1200/10745_26_3_2026_18_40_2_3_DSC_0073.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/markapuram-road-accident-several-killed-many-injured/article70786585.ece",
-    "time": "2026-03-26T16:13:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -360,15 +468,6 @@ const newsData_en = [
     "time": "2026-03-26T12:49:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay Deverakonda marks a month of togetherness with wife Rashmika",
-    "desc": "Celebrating one month of marriage, Vijay Deverakonda shared cherished, unseen wedding pictures with wife Rashmika Mandanna. He expressed gratitude for the special people who made their union memorable, highlighting their dedication. The couple continues to delight fans with glimpses into their joyous celebrations, keeping their followers engaged with ongoing updates.",
-    "img": "https://static.toiimg.com/photo/msid-129825155,imgsize-184950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-marks-a-month-of-togetherness-with-wife-rashmika-mandanna-shares-unseen-wedding-pictures/articleshow/129825155.cms",
-    "time": "2026-03-26T12:41:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Time for Australian cricket to do some soul-searching",
     "desc": "Buchanan, the former coach, reflects on what it takes to build a successful unit; says he was fortunate to have worked with greats like Warne and McGrath; feels that the younger crop of Aussies has not able to survive at the highest level, particularly in the longest format",
@@ -421,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/nayara-energy-hikes-petrol-prices-by-rs-5-diesel-by-rs-3-amid-middle-east-crisis/articleshow/129823620.cms",
     "time": "2026-03-26T11:55:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Harish Shankar hits back at trolls over ‘Ustaad Bhagat Singh’",
-    "desc": "Director Harish Shankar dismisses online trolls targeting his film 'Ustaad Bhagat Singh,' stating he doesn't take them seriously as they lack identity and accountability. He emphasizes his focus on the film's output and his personal achievement in releasing it under pressure, asserting he only reacts to abusive language or crossed limits.",
-    "img": "https://static.toiimg.com/photo/msid-129823621,imgsize-327214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/harish-shankar-hits-back-at-trolls-over-ustaad-bhagat-singh-says-i-dont-take-them-seriously/articleshow/129823621.cms",
-    "time": "2026-03-26T11:53:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -486,15 +576,6 @@ const newsData_en = [
     "time": "2026-03-26T11:05:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Some hope to profit from discord': Envoy flags 'China threat' hype in India",
-    "desc": "Chinese Ambassador Xu Feihong urged Indian youth to adopt objective views, cautioning against narratives amplifying a \"Beijing threat.\" He emphasized the mutual benefit of partnership and encouraged more cultural exchanges to foster a balanced perception between the two nations.",
-    "img": "https://static.toiimg.com/photo/msid-129822236,imgsize-23678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/some-hope-to-profit-from-discord-envoy-flags-china-threat-hype-in-india/articleshow/129822280.cms",
-    "time": "2026-03-26T10:55:31.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran War tests European unity amid German economic slowdown and fears over Ukraine support",
     "desc": "The stand of EU member states in the conflict is divergent as Europe faces economic slowdown and inflation amid rising oil and gas prices; Germany fears opposing U.S.-Israel actions could prompt U.S. to withdraw support from Ukraine, while the war could hurt its already faltering economy more",
@@ -513,15 +594,6 @@ const newsData_en = [
     "time": "2026-03-26T10:36:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi to hold talks with CMs tomorrow, review preparedness",
-    "desc": "Prime Minister Narendra Modi will convene a virtual meeting with chief ministers on Friday to assess India's preparedness for the ongoing Middle East conflict. The discussion will focus on coordinating national and state-level responses, particularly concerning supply chains, energy, and emergency systems. States under the model code of conduct will have a separate meeting.",
-    "img": "https://static.toiimg.com/photo/msid-129821590,imgsize-51696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/middle-east-crisis-pm-modi-to-hold-talks-with-cms-tomorrow-review-preparedness/articleshow/129821628.cms",
-    "time": "2026-03-26T10:31:45.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'We need to think about next spin pair after Jadeja-Ashwin': Ex-India spinner Nilesh Kulkarni",
     "desc": "Former India spinner Nilesh Kulkarni assesses India's spin legacy transition, highlighting the need to groom future match-winners for red-ball cricket. He discusses challenges for batters against spin, the impact of pitch conditions, and the role of T20 and AI, advocating for balance and adaptability.",
@@ -529,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-need-to-think-about-next-spin-pair-after-jadeja-ashwin-ex-india-spinner-nilesh-kulkarni/articleshow/129820619.cms",
     "time": "2026-03-26T10:29:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Simple stool test may detect hidden cause of chronic diarrhoea",
-    "desc": "A simple stool test could soon revolutionize chronic diarrhoea diagnosis in India. Researchers found measuring bile acids in one sample accurately identifies bile acid malabsorption, a commonly missed condition. This accessible test, with high accuracy, could help millions suffering from undiagnosed BAM, offering targeted treatment and improved quality of life.",
-    "img": "https://static.toiimg.com/photo/msid-129821351,imgsize-84338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/simple-stool-test-may-detect-hidden-cause-of-chronic-diarrhoea/articleshow/129821269.cms",
-    "time": "2026-03-26T10:23:58.000Z"
   },
   {
     "cat": "Sports",
@@ -594,15 +657,6 @@ const newsData_en = [
     "time": "2026-03-26T09:28:12.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Basmati exporters left pending payments; funds ranging Rs 2,000 to Rs 25,000 crore in limbo",
-    "desc": "West Asia's escalating conflict is severely impacting India's premium basmati rice trade, with thousands of crores in payments pending and consignments stuck at ports. This disruption threatens significant losses for Indian traders and could negatively affect farming communities. The government is assessing the broader implications for various Indian sectors exposed to the region.",
-    "img": "https://static.toiimg.com/photo/msid-129820188,imgsize-67422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-conflict-hits-rice-traders-basmati-exporters-left-pending-payments-funds-ranging-rs-2000-to-rs-25000-crore-in-limbo/articleshow/129819520.cms",
-    "time": "2026-03-26T09:23:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Not as spicy anymore’: AB de Villiers flags concern over MI star ahead of IPL",
     "desc": "Former South Africa captain AB de Villiers has expressed concern for Mumbai Indians ahead of IPL 2026, suggesting Trent Boult may have lost pace and effectiveness. De Villiers warned that this could be an area opposition batters might target, despite the team's otherwise strong squad. However, Abhinav Mukund remains optimistic about Mumbai's depth and balance.",
@@ -610,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/not-as-spicy-anymore-ab-de-villiers-flags-concern-over-mi-star-ahead-of-ipl/articleshow/129820066.cms",
     "time": "2026-03-26T09:16:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Which one is better? Does it cover flood damage",
-    "desc": "mandatory third-party insurance or optional comprehensive cover. While third-party is cheaper, it leaves your own vehicle and medical costs exposed. Comprehensive offers full protection against damage, theft, and weather, becoming increasingly vital due to rising repair expenses and extreme weather risks. Consider your vehicle's value and your risk tolerance.",
-    "img": "https://static.toiimg.com/photo/msid-129819480,imgsize-64032.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-car-insurance-explained-third-party-vs-comprehensive-which-is-right-for-you-and-does-it-cover-flood-damage/articleshow/129817186.cms",
-    "time": "2026-03-26T08:35:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladesh-pm-tarique-rahman-calls-march-25-1971-genocide-as-pre-planned-massacre/article70787234.ece",
     "time": "2026-03-26T08:03:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "UDAN 2.0 scheme: How will it benefit consumers? Check key features of the aviation initiative",
-    "desc": "India's UDAN 2.0 scheme, with a Rs 28,000 crore outlay, aims to significantly boost regional air travel over 10 years. The revamped initiative will develop 100 airports, support aerodrome operations, build helipads, and provide financial aid to airlines, enhancing connectivity to Tier-2 and Tier-3 cities.",
-    "img": "https://static.toiimg.com/photo/msid-129818678,imgsize-1454219.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/udan-2-0-scheme-how-will-it-benefit-consumers-check-key-features-of-the-aviation-initiative/articleshow/129818250.cms",
-    "time": "2026-03-26T07:41:24.000Z"
   },
   {
     "cat": "Sports",
@@ -700,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/tighee-jeejivisha-kale-marathi-film-sonalee-kulkarni-neha-pendse-bharti-achrekar-nikhil-mahajan/article70784030.ece",
     "time": "2026-03-26T06:22:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Toll system in Strait of Hormuz? Iran drafts bill to charge ships for safe passage amid war",
-    "desc": "The Middle East war has intensified an oil crisis as Iran's actions in the Strait of Hormuz disrupt global energy supplies. While the Red Sea's Bab el-Mandeb Strait is considered an alternative, it also faces threats. Reopening Hormuz is complicated by its geography and requires significant security measures, including a multinational coalition, to overcome the risks of attacks and minefields.",
-    "img": "https://static.toiimg.com/photo/msid-129816883,imgsize-198972.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/toll-system-in-strait-of-hormuz-iran-drafts-bill-to-charge-ships-for-safe-passage-amid-war/articleshow/129815616.cms",
-    "time": "2026-03-26T06:01:50.000Z"
   },
   {
     "cat": "Tech",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/hdfc-life-insurance-gets-i-t-order-for-172-crore/article70780211.ece",
     "time": "2026-03-25T04:11:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Falling emissions intensity masks India’s rising absolute output",
-    "desc": "While the country has successfully reduced emissions intensity, and increased non-fossil power capacity, challenges remain in translating these achievements into absolute emissions reductions. The next few years will be critical in addressing these gaps and ensuring a sustainable future",
-    "img": "https://th-i.thgim.com/public/incoming/n2w003/article70483789.ece/alternates/LANDSCAPE_1200/IMG_COP27_India_Expectat_2_1_ACDU832Q.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/indias-progress-on-its-climate-targets/article70481985.ece",
-    "time": "2026-03-25T02:45:28.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Exploring the history and evolution of escalators",
-    "desc": "Escalators are one of those places where adults might wish to indulge their inner child and move in the opposite direction, if only society didn’t expect them to act their age. It should perhaps come as no surprise therefore that one of the first escalators ever built actually served as a ride in an amusement park! A.S.Ganesh takes you up and down with this story about escalators…",
-    "img": "https://th-i.thgim.com/public/incoming/b0f081/article70707023.ece/alternates/LANDSCAPE_1200/15istb%20escalators%2093302_box3_215.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/children/moving-up-and-down-while-standing-still/article70706988.ece",
-    "time": "2026-03-23T11:36:56.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
   }
 ];
