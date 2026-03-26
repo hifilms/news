@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "આ તો હજુ ટ્રેલર છે, આગળ આવી શકે છે મોટું સંકટ,  નિષ્ણાંતોની ચેતવણી",
+    "desc": "અમેરિકા-ઈઝરાયલ અને ઈરાન વચ્ચે ચાલી રહેલા યુદ્ધના 27 દિવસ થઈ ગયા છે. મધ્યપૂર્વમાં ચાલી રહેલા તણાવની અસર અનેક દેશોમાં જોવા મળી રહી છે. ખાસ કરીને એશિયામાં એનર્જી સંકટ જોવા મળી રહ્યું છે. ઈરાને હોર્મુઝ જળમાર્ગ બંધ કરતા કાચા તેલની સપ્લાય પર મોટી અસર પડી છે. આ સ્થિતિ જો યથાવત રહી તો સ્થિતિ વધુ ગંભીર બની શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/energy-crisis-this-is-still-a-trailer-a-bigger-crisis-may-come-know-what-experts-say-470220 ",
+    "time": "2026-03-26T16:00:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પીએમ મોદીને જીતાડનારની પણ હાલત છે ખરાબ, આ સુપરસ્ટારે ડેપ્યૂટી સીએમનું પદ ઠુકરાવીને લીધું છે રિસ્ક",
+    "desc": "દક્ષિણી રાજ્ય તામિલનાડુમાં ડીએમકે અને એઆઈડીએમકેના ગઠબંધનો વચ્ચે હવે 234 સીટો પર ચતુષ્કોણીય મુકાબલો થવાનો છે. સૌથી મોટી વાત એ છે કે એક્ટર વિજયની ટીવીકેએ મોટી પાર્ટીઓએ ગઠબંધનની ઓફર કરી હોવા છતાં મેદાનમાં એકલા ઉતરવાનો નિર્ણય લીધો છે. જાણી લો વિજયે આમ કેમ કર્યું?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/the-person-who-made-pm-modi-win-is-also-in-a-bad-situation-superstar-actor-vijay-has-taken-a-risk-by-turning-down-the-post-of-deputy-cm-470219 ",
+    "time": "2026-03-26T15:36:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ઈન્ડક્શન vs ઈન્ફ્રારેડ સ્ટવઃ ખરીદતા પહેલા જાણી લો મોટો તફાવત, બાકી પૈસા થઈ જશે બરબાદ",
+    "desc": "સૌથી પહેલા તમને જણાવી દઈએ કે ઈન્ડક્શન અને ઈન્ફ્રારેડ સ્ટવ બંને વીજળીથી ચાલે છે, પરંતુ કામ કરવાની પદ્ધતિ, સુરક્ષા અને પરફોર્મંસના મામલામાં બંનેમાં તફાવત જોવા મળે છે. જો તમે પણ નવો કુકટોપ ખરીદવાનું વિચારી રહ્યાં છો તો પહેલા બંનેના અંતરને સમજો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/induction-vs-infrared-chulha-kaun-sa-best-hai-infrared-vs-induction-difference-470217 ",
+    "time": "2026-03-26T14:51:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8માં પગાર પંચમાં લેવલ-1 ના કર્મચારીઓના પગારમાં થશે 36,000 રૂપિયાનો વધારો, લાગુ થશે આ ફોર્મ્યુલા!",
+    "desc": "કેન્દ્રીય કર્મચારીઓ આઠમા પગાર પંચની ભલામણોની આતુરતાથી રાહ જોઈ રહ્યા છે. આ વખતે પગાર વધારામાં ફિટમેન્ટ ફેક્ટર (Fitment Factor) મોટી ભૂમિકા ભજવવાનું છે. ચાલો સમજીએ કે કેવી રીતે ફિટમેન્ટ ફોર્મ્યુલા હેઠળ 6ઠ્ઠા અને 7મા પગાર પંચમાં પગારમાં વધારો થયો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/salary-of-level-1-employees-will-increase-by-rs-36000-in-the-8th-pay-commission-this-formula-may-be-implemented-470208 ",
+    "time": "2026-03-26T13:38:02.000Z"
+  },
+  {
+    "cat": "World",
     "title": "શું છે બાબ અલ-મંડેબ સ્ટ્રેટ? કેમ કહેવામાં આવે છે &amp;#039;આંસુઓનો દ્વાર&amp;#039;, ઓઈલના એક-એક ટીપા માટે તરસી જશે દુનિયા; જાણો ઈરાનનો પ્લાન",
     "desc": "અરબી ભાષામાં 'બાબ અલ-મંડેબ'નો અર્થ 'આંસુઓનો દ્વાર' થાય છે. આ સાંકડો દરિયાઈ માર્ગ લાલ સમુદ્રને એડનની ખાડી અને અરબી સમુદ્ર સાથે જોડે છે. તે યમન (જ્યાં ઈરાન સમર્થિત હૂતી સક્રિય છે) અને હોર્ન ઓફ આફ્રિકા ક્ષેત્ર વચ્ચે સ્થિત છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -441,15 +477,6 @@ const newsData_gu = [
     "time": "2026-03-24T06:18:26.000Z"
   },
   {
-    "cat": "World",
-    "title": "કોલંબિયામાં સૈન્ય વિમાન ક્રેશ થતા 66 લોકોના મોત, રાષ્ટ્રપતિએ શેર કર્યો હચમચાવી નાખે તેવો Video",
-    "desc": "એકબાજુ વિશ્વમાં અનેક જગ્યાએ સૈન્ય સંઘર્ષ ચાલુ છે ત્યાં કોલંબિયામાં એક સૈન્ય માલવાહક વિમાન ટેકઓફ બાદ ક્રેશ થઈ ગયું જેમાં ઓછામાં ઓછા 66 લોકોના મોત થયા હોવાનું કહેવાય છે. વિમાનમાં 125 જવાનો અને ક્રૂ સભ્યો સવાર હોવાનું કહેવાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/colombia-plane-crash-viral-video-many-people-died-world-news-in-gujarati-469889 ",
-    "time": "2026-03-24T04:36:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL માટે નવી ગાઈડલાઈન જાહેર, હવે ખેલાડીઓની મનમાની નહીં ચાલે, BCCIએ લગાવ્યા આ પ્રતિબંધ",
     "desc": "BCCIએ IPL 2026 પહેલા ટીમો માટે એક ગાઈડલાઈન જારી કરી છે. આમાં ખેલાડીઓ અને સપોર્ટ સ્ટાફથી લઈને પરિવારના સભ્યો, નેટ બોલરો અને અન્ય લોકો માટે કડક નિયમોનો સમાવેશ થાય છે, જેનું કડક પાલન કરવું જરૂરી છે.",
@@ -691,14 +718,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rashmika-mandanna-mother-leaked-audio-actress-warns-of-legal-action-468398 ",
     "time": "2026-03-13T09:40:43.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "25 kmpl માઇલેજ, 360 ડિગ્રી કેમેરા અને 5 સ્ટાર રેટિંગ, લોકોના દિલો પર રાજ કરે છે મારૂતિની આ કાર, કિંમત માત્ર 6.26 લાખ",
-    "desc": "દેશમાં ઘણી કાર વેચાઈ રહી છે, પરંતુ મારૂતિની એક કાર છેલ્લા કેટલાક મહિનાથી બેસ્ટ સેલિંગ કાર બનેલી છે. આ કાર માત્ર 6.26 લાખની શરૂઆતી કિંમતમાં આવે છે અને પોતાના સેગમેન્ટમાં શાનદાર ફીચર્સ આપે છે. લાંબી સમય દરમિયાન આ કાર ખૂબ આરામદાયક માનવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/top-selling-car-maruti-suzuki-dzire-become-peoples-favourite-price-starts-626000-468378 ",
-    "time": "2026-03-13T07:24:33.000Z"
   }
 ];

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "What are IPL 2026 groups? Check where MI, CSK and RCB are placed",
+    "desc": "The IPL 2026 full league stage schedule is out now as the BCCI made the big announcement on Thursday, March 26. Previously, schedule for only 20 matches was announced due to the upcoming elections in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-are-ipl-2026-groups-check-where-mi-csk-and-rcb-are-placed-2026-03-26-1035232",
+    "time": "2026-03-26T15:19:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Check defending champions' complete fixtures for upcoming season here",
+    "desc": "The Board of Control for Cricket in India (BCCI) finally announced the schedule for the second phase of the Indian Premier League 2026. The second phase will see matches running from April 13 to May...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-ipl-2026-full-schedule-check-defending-champions-complete-fixtures-for-upcoming-season-here-2026-03-26-1035228",
+    "time": "2026-03-26T14:39:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistani league kicks off at Gaddafi Stadium",
+    "desc": "The PSL 2026 season kicks off with an exciting clash as Lahore Qalandars take on Hyderabad Kingsmen at the iconic Gaddafi Stadium in Lahore. With a fresh season comes renewed hopes, and both teams will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lahore-qalandars-vs-hyderabad-kingsmen-psl-2026-live-score-pakistan-super-league-gaddafi-stadium-latest-match-updates-scorecard-teams-2026-03-26-1035216",
+    "time": "2026-03-26T13:29:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Chinnaswamy Stadium racing against time to be ready before RCB vs SRH IPL 2026 opener",
     "desc": "Bengaluru’s M Chinnaswamy Stadium is racing against time to complete the remainder of the infrastructure work and be ready for the IPL 2026 opener between the Royal Challengers Bengaluru and Sunrisers Hyderabad on March 28....",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/david-warner-slams-shaheen-afridi-marnus-labuschagne-during-psl-press-conference-says-we-got-school-kids-here-2026-03-26-1035133",
     "time": "2026-03-26T05:16:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kolkata's possible opening combo and who will replace Andre Russell?",
-    "desc": "Three-time champions Kolkata Knight Riders have suffered heavily ahead of the IPL 2026. The franchise released Mustafizur Rahman following BCCI’s guidelines, while their star all-rounder Harshit Rana is ruled out of the season. Matheesha Pathirana,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-predicted-playing-xi-for-ipl-2026-kolkata-s-possible-opening-combo-and-who-will-replace-andre-russell-2026-03-26-1035132",
-    "time": "2026-03-26T04:59:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ruturaj Gaikwad reveals CSK's new opening combination for IPL 2026",
-    "desc": "Chennai Super Kings captain Ruturaj Gaikwad has confirmed the opening pair for the IPL 2026. In the last season, the 29-year-old moved down to number three to make room for Devon Conway and Rachin Ravindra....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ruturaj-gaikwad-reveals-csk-s-new-opening-combination-for-ipl-2026-2026-03-26-1035124",
-    "time": "2026-03-26T03:55:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Obviously a blow losing a player like Yash Dayal, but we have three excellent options: RCB's Mo Bobat",
-    "desc": "Yash Dayal has opted out of the IPL 2026, citing personal reasons. Since the end of the 2025 season, the pacer hasn’t played any competitive game due to serious, ongoing legal issues, including accusations of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/obviously-a-blow-losing-a-player-like-yash-dayal-but-we-have-three-excellent-options-rcb-s-mo-bobat-2026-03-26-1035114",
-    "time": "2026-03-26T02:43:43.000Z"
   }
 ];
