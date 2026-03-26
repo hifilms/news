@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Where to watch Pakistan Super League on TV and stream online in India? Check full squads",
+    "desc": "The Pakistan Super League (PSL) 2026 is set to begin on March 26 with defending champions Lahore Qalandars taking on the new franchise Hyderabad Kingsmen. Under the leadership of Shaheen Afridi, the Qalandars have been...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/psl-2026-where-to-watch-pakistan-super-league-on-tv-and-stream-online-in-india-check-full-squads-2026-03-26-1035109",
+    "time": "2026-03-26T01:48:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Prithvi Shaw finds clarity after season away from IPL, eyes fresh start in 2026 edition",
+    "desc": "A return to familiar colours brings renewed purpose for Prithvi Shaw, who is back with Delhi Capitals for IPL 2026 after going unsold in the previous auction cycle. Across the 2023 and 2024 IPL seasons,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/prithvi-shaw-finds-clarity-after-season-away-from-ipl-eyes-fresh-start-in-2026-edition-2026-03-26-1035106",
+    "time": "2026-03-26T01:17:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India to face Pakistan in SAFF U20 Championship in Maldives",
     "desc": "India are set to face Pakistan in their SAFF U20 Championship on Thursday, March 26, as the rivals will be up against each other at the National Football Stadium in Malé, the capital of the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-makes-two-place-jump-new-zealand-quicks-rise-in-icc-rankings-2026-03-25-1035058",
     "time": "2026-03-25T11:18:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKR skipper Ajinkya Rahane puts focus on 'fearless, positive brand of cricket' ahead of IPL 2026",
-    "desc": "Leading Kolkata Knight Riders into his second season, India batter Ajinkya Rahane emphasised on the need of 'fearlessness' and 'positive brand of cricket' as the team looks to bounce back from the underwhelming 2025, when...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-skipper-ajinkya-rahane-puts-focus-on-fearless-positive-brand-of-cricket-ahead-of-ipl-2026-2026-03-25-1035050",
-    "time": "2026-03-25T10:29:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Connor Esterhuizen produces stunning knock as South Africa seal T20I series vs New Zealand",
-    "desc": "South Africa defeated hosts New Zealand by 33 runs to seal the T20I series 3-2. It was a landmark moment for the Proteas, who marked their first away series win in the format under head...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/connor-esterhuizen-produces-stunning-knock-as-south-africa-seal-t20i-series-vs-new-zealand-2026-03-25-1035049",
-    "time": "2026-03-25T10:21:40.000Z"
   }
 ];
