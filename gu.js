@@ -1,6 +1,87 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "પેટ્રોલ 100ને પાર, ડીઝલના ભાવમાં પણ વધારો... મિડલ ઈસ્ટના યુદ્ધ વચ્ચે નાયરાનો મોટો નિર્ણય",
+    "desc": "અમેરિકા-ઇઝરાઇલ અને ઇરાન વચ્ચે ચાલી રહેલા તણાવ વચ્ચે ભારતની સૌથી મોટી ખાનગી ફ્યુઅલ રિટેલર વેચતી કંપની Nayara Energyએ શુક્રવારે પેટ્રોલ અને ડીઝલના ભાવમાં વધારો કર્યો છે. જેના કારણે પેટ્રોલના ભાવ 100ને પાર પહોંચી ગયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/nayara-energy-hikes-petrol-diesel-prices-across-india-amid-middle-east-tension-470158 ",
+    "time": "2026-03-26T06:59:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સિરિયલ કિલિંગની સત્ય ઘટના પર આધારિત વેબ સીરીઝ, સગીરા પર થયેલી ક્રૂરતાની જોઈ હાથ-પગ ઠંડા પડી જશે",
+    "desc": "મહારાષ્ટ્રના મનવત નામના ગામમાં અમુક વર્ષો પહેલા સગીરાઓ અને મહિલાઓની હત્યાઓ થઈ હતી. તંત્ર-મંત્ર, અંશ્રદ્ધા અને ક્રૂરતાની પરાકાષ્ઠાની સત્ય ઘટના પર આધારિત એક વેબ સીરીઝ બની છે. આ વેબ સીરીઝ ક્રાઈમ થ્રિલર વેબ સીરીઝ જોવાના શોખીનો માટે મસ્ટ વોચ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-crime-thriller-web-series-hindi-based-on-real-life-murders-maharashtra-manvat-murders-real-life-story-470159 ",
+    "time": "2026-03-26T06:51:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર, જાણો તમારા શહેરમાં કેટલો છે આજનો ભાવ",
+    "desc": "આજે સવારે દેશભરમાં પેટ્રોલ અને ડીઝલના નવા ભાવ જાહેર કરવામાં આવ્યા હતા. આ ભાવ આંતરરાષ્ટ્રીય બજારમાં ક્રૂડ ઓઇલની હિલચાલ અને ડોલર સામે રૂપિયાની સ્થિતિ દ્વારા નક્કી થાય છે. આજે ઘણા શહેરોમાં ભાવ સ્થિર રહ્યા હતા, જ્યારે ટેક્સના કારણે કેટલીક જગ્યાએ થોડી વધઘટ જોવા મળી હતી. જોકે, નાયરાએ આજે પેટ્રોલમાં 5 રૂપિયા અને ડીઝલમાં 3 રૂપિયાનો વધારો કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-check-fuel-rates-in-your-city-469895 ",
+    "time": "2026-03-26T06:36:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વૈભવ સૂર્યવંશી માટે ખુલશે ટીમ ઇન્ડિયાના દરવાજા, 27 માર્ચે બની રહ્યો છે ખાસ સંયોગ !",
+    "desc": "વૈભવ સૂર્યવંશી હવે IPL 2026માં રમતા જોવા મળશે. જો કે, 14 વર્ષીય વૈભવ સૂર્યવંશીને લઈને હંમેશા એક પ્રશ્ન રહે છે કે તે ટીમ ઇન્ડિયાની સિનિયર ટીમ માટે ક્યારે રમી શકશે ? હવે આ અંગે એક અપડેટ સામે આવ્યું છે. તે ટૂંક સમયમાં ટીમ ઇન્ડિયા માટે રમતો જોવા મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-team-india-selection-27-march-age-rules-470156 ",
+    "time": "2026-03-26T06:12:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "327 બોલમાં 1009 રન... 129 ચોગ્ગા અને 59 સિક્સર, આ ભારતીય બેટ્સમેન બન્યો નિર્દયી! ત્રાહિમામ-ત્રાહિમામ પોકારી ઉઠ્યા બોલરો",
+    "desc": "ક્રિકેટમાં કોઈપણ બેટ્સમેન માટે 1009 રનની ઈનિંગ રમવાનું વિચારવું પણ અશક્ય લાગે છે, પરંતુ ભારતના એક બેટ્સમેને આ અશક્ય લાગતો વર્લ્ડ રેકોર્ડ વર્ષો પહેલા બનાવી દીધો છે. આ ખતરનાક બેટ્સમેને મેદાન પર એવો તે કહેર મચાવ્યો કે માત્ર 327 બોલમાં અણનમ 1009 રન ઝૂડી કાઢ્યા હતા. પોતાની આ ઐતિહાસિક ઈનિંગમાં તેણે 129 ચોગ્ગા અને 59 છગ્ગા ફટકાર્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/when-15-year-old-pranav-dhanawade-stunned-cricket-with-1009-runs-470155 ",
+    "time": "2026-03-26T06:05:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "વિદેશ મંત્રીનું મોટું નિવેદન, કહ્યું- ઈઝરાયેલે અનેક યુદ્ધોમાં ભારતને મદદ કરી, US-ઈરાન પર શું કહ્યું એ પણ જાણો",
+    "desc": "અમેરિકા અને ઈઝરાયેલનું ઈરાન સાથે જે યુદ્ધ ચાલુ છે તેમાં ભારતના સ્ટેન્ડ મુદ્દે વિપક્ષ સરકારને આડેહાથ લઈ રહ્યું છે. પરંતુ આ બધા વચ્ચે વિદેશમંત્રી જયશંકરે સર્વપક્ષીય બેઠકમાં એક મોટું નિવેદન આપ્યું અને કહ્યું ઈઝરાયેલ સાથે મિત્રતા, ભારતની ચૂપ્પી અને ઈરાન સાથેના સંબંધ વિશે એક એક વાત કરી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/foreign-minister-s-jaishankar-speaks-on-israel-india-relation-also-on-silence-on-iran-us-war-470154 ",
+    "time": "2026-03-26T05:55:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અરે ગેસ બાટલો છોડો...મોદી સરકારના નવા નિર્ણયથી 24 કલાક ચાલુ રહેશે ચૂલો; ખર્ચ પણ ઘટશે અને ટેન્શન થશે ખતમ!",
+    "desc": "સરકાર હવે ઝડપથી PNG ને પ્રોત્સાહન આપી રહી છે. એક નવી નીતિ રજૂ કરવામાં આવી છે, જેમાં જણાવાયું છે કે જે વિસ્તારોમાં PNG ઉપલબ્ધ છે, ત્યાં જો લોકો PNG તરફ ન વળે તો ભવિષ્યમાં LPG સિલિન્ડરનો પુરવઠો મર્યાદિત અથવા બંધ પણ થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-to-get-png-gas-connection-online-check-steps-and-documents-needed-470153 ",
+    "time": "2026-03-26T05:42:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LPG, ATM થી લઈને PAN કાર્ડ સુધી... 1 એપ્રિલથી દેશમાં થશે 5 મોટા ફેરફાર, તમારા ખિસ્સા પર થશે સીધી અસર",
+    "desc": "માર્ચ મહિનો પૂરો થવા જઈ રહ્યો છે અને માત્ર પાંચ દિવસમાં એપ્રિલ શરૂ થશે. દર મહિનાની જેમ આ નવો મહિનો પણ દેશભરમાં ઘણા મોટા નાણાકીય ફેરફારો સાથે શરૂ થવાનો છે. ત્યારે 1 એપ્રિલથી અમલમાં આવતા નવા નિયમોની અસર સીધી તમારા ખિસ્સા પર અનુભવાય તેવી શક્યતા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/rule-change-from-1st-april-lpg-atm-pan-card-income-tax-and-train-ticket-470152 ",
+    "time": "2026-03-26T05:24:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "LPG ક્રાઈસિસ વચ્ચે ભારતને ઝટકા પર ઝટકા આપી રહ્યું છે રશિયા, મોંઘા તેલ બાદ હવે લીધો આ નિર્ણય",
+    "desc": "ભારત સાથે દરેક સુખ-દુઃખમાં ખભેખભો મિલાવીને સાથ આપનાર રશિયા પણ ઈરાન યુદ્ધ બાદ ભારતને એક પછી એક ઝટકા આપી રહ્યું છે. પહેલા રશિયાએ તેલ પર આપવામાં આવતી છૂટ બંધ કરી અને હવે ખાતરની નિકાસ પર રોક લગાવીને બીજો ફટકો આપ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/why-is-russia-dealing-a-blow-to-india-amidst-the-lpg-crisis-this-decision-was-taken-after-ending-the-discount-on-oil-470151 ",
+    "time": "2026-03-26T05:10:26.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "PAN, HRA અને ATM ટ્રાન્ઝેક્શન... 1 એપ્રિલથી બદલાશે આ 5 મોટા નિયમો, તમારા ખિસ્સા પર પડશે સીધી અસર",
     "desc": "1 એપ્રિલથી ઘણા નાણાકીય નિયમો બદલાવાના છે. જેની સીધી અસર સામાન્ય લોકોના ખિસ્સા અને રોજિંદા ખર્ચ પર પડવાની છે. આ ફેરફારો ખાસ કરીને નોકરિયાત વર્ગ, કરદાતાઓ અને રોકાણકારો માટે મહત્વના છે. જેમાં પાન કાર્ડ (PAN), HRA, ક્રેડિટ કાર્ડ, ઇન્કમ ટેક્સ અને ITR ફાઇલિંગ સાથે જોડાયેલા નિયમો સામેલ છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -306,15 +387,6 @@ const newsData_gu = [
     "time": "2026-03-24T06:18:26.000Z"
   },
   {
-    "cat": "Business",
-    "title": "પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર, જાણો તમારા શહેરમાં કેટલો છે આજનો ભાવ",
-    "desc": "આજે સવારે દેશભરમાં પેટ્રોલ અને ડીઝલના નવા ભાવ જાહેર કરવામાં આવ્યા હતા. આ ભાવ આંતરરાષ્ટ્રીય બજારમાં ક્રૂડ ઓઇલની હિલચાલ અને ડોલર સામે રૂપિયાની સ્થિતિ દ્વારા નક્કી થાય છે. આજે ઘણા શહેરોમાં ભાવ સ્થિર રહ્યા હતા, જ્યારે ટેક્સના કારણે કેટલીક જગ્યાએ થોડી વધઘટ જોવા મળી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-check-fuel-rates-in-your-city-469895 ",
-    "time": "2026-03-24T06:00:08.000Z"
-  },
-  {
     "cat": "World",
     "title": "કોલંબિયામાં સૈન્ય વિમાન ક્રેશ થતા 66 લોકોના મોત, રાષ્ટ્રપતિએ શેર કર્યો હચમચાવી નાખે તેવો Video",
     "desc": "એકબાજુ વિશ્વમાં અનેક જગ્યાએ સૈન્ય સંઘર્ષ ચાલુ છે ત્યાં કોલંબિયામાં એક સૈન્ય માલવાહક વિમાન ટેકઓફ બાદ ક્રેશ થઈ ગયું જેમાં ઓછામાં ઓછા 66 લોકોના મોત થયા હોવાનું કહેવાય છે. વિમાનમાં 125 જવાનો અને ક્રૂ સભ્યો સવાર હોવાનું કહેવાય છે.",
@@ -396,15 +468,6 @@ const newsData_gu = [
     "time": "2026-03-23T12:26:33.000Z"
   },
   {
-    "cat": "World",
-    "title": "ટ્રમ્પની ધમકીઓ વચ્ચે ઈરાને હોર્મુઝ પર કરી મોટી જાહેરાત, શું સંકટનો આવશે ઉકેલ?",
-    "desc": "હોર્મુઝ સંકટની અસર દુનિયાના અનેક દેશો પર જોવા મળી રહી છે જેમાં ભારત પણ સામેલ છે. પીએ મોદીએ આજે સંસદમાં આ મુદ્દે નિવેદન પણ આપ્યું. આ બધા વચ્ચે ઈરાનના વિદેશ મંત્રાલયે આ હોર્મુઝ જળમાર્ગ પર મોટું નિવેદન આપ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-ministry-of-foreign-affairs-statement-on-maritime-security-safety-in-strait-of-hormuz-469817 ",
-    "time": "2026-03-23T10:32:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026 પહેલા BCCIએ ચાહકોને આપી મોટી ભેટ, આ 15 શહેરોમાં મફતમાં જોઈ શકશો લાઈવ મેચો",
     "desc": "IPL 2026 28 માર્ચથી શરૂ થવાની છે, જેની ચાહકો આતુરતાથી રાહ જોઈ રહ્યા હતા. આ દરમિયાન ચાહકોને એક મોટી ભેટ આપતા BCCIએ ફેન પાર્કના સ્થળોની જાહેરાત કરી છે, જ્યાં તમે વિશાળ સ્ક્રીન પર લાઈવ મેચો સંપૂર્ણપણે મફતમાં જોઈ શકો છો.",
@@ -412,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/bcci-announced-ipl-2026-fan-parks-schedule-check-full-list-469798 ",
     "time": "2026-03-23T08:57:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ઓલટાઈમ હાઈથી ખુબ પછડાયા, સોનું 46000 અને ચાંદી 2.14 લાખ રૂપિયા સસ્તી થઈ, જાણો લેટેસ્ટ રેટ",
-    "desc": "સોના અને ચાંદીમાં ભારે કડાકો જોવા મળ્યો છે. રિટેલ બજાર અને વાયદા બજાર બંનેમાં સોનું અને ચાંદી ભારે સસ્તા થયા છે. જો તમે ખરીદવાનું વિચારતા હોવ તો આ શાનદાર તક કહી શકાય. જાણો ઓલટાઈમ હાઈથી કેટલા સસ્તા થયા અને આજે સોના ચાંદીના વાયદા અને રિટેલ બજારના લેટેસ્ટ રેટ શું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-plunged-sharply-today-falling-far-short-of-all-time-highs-check-latest-rates-469777 ",
-    "time": "2026-03-23T07:18:14.000Z"
   },
   {
     "cat": "Entertainment",
@@ -475,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/kkr-pacer-akash-deep-ruled-out-of-ipl-2026-due-to-injury-469649 ",
     "time": "2026-03-22T06:50:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "1 બોલમાં 21 રન... વર્લ્ડ કપની એ મેચ, જેમાં રમત નહીં પણ નિયમ જીત્યો",
-    "desc": "ક્રિકેટના ઇતિહાસમાં 22 માર્ચ, 1992ના રોજ સિડની ક્રિકેટ ગ્રાઉન્ડ ખાતે એક એવી મેચ રમાઈ હતી. જેને આજે પણ એક વિચિત્ર નિયમના કારણે યાદ કરવામાં આવે છે. આ મેચ ઇંગ્લેન્ડ અને દક્ષિણ આફ્રિકા વચ્ચે રમાઈ હતી. એક એવો નિયમ કે જેના કારણે જીતેલી મેચ દક્ષિણ આફ્રિકા હારી ગયું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/1-ball-21-runs-world-cup-1992-south-africa-vs-england-match-controversy-469637 ",
-    "time": "2026-03-22T05:17:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -673,15 +718,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rashmika-mandanna-mother-leaked-audio-actress-warns-of-legal-action-468398 ",
     "time": "2026-03-13T09:40:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અક્ષય કુમાર-પ્રિયદર્શનની હોરર કોમેડી ફિલ્મ ભૂત બંગલાનું જુઓ ટીઝર",
-    "desc": "અક્ષય કુમાર, પરેશ રાવલ અને પ્રિયદર્શન જ્યારે પણ સાથે આવ્યા છે ત્યારે દર્શકો નિરાશ નથી થયા. વર્ષ 2026 માં ફરીથી આ 3 કલાકારો ભૂત બંગલા ફિલ્મ લઈને આવી રહ્યા છે. આ ફિલ્મનું ટીઝર રિલીઝ થયું છે અને ટીઝર જોઈને તમને પણ લાગશે કે આ વખતે પણ દર્શકો નિરાશ નહીં થાય.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-priyadarshan-film-bhooth-bangla-teaser-bhooth-bangla-film-release-date-468394 ",
-    "time": "2026-03-13T09:08:21.000Z"
   },
   {
     "cat": "Tech",

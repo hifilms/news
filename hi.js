@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "David Warner slams Shaheen Afridi, Labuschagne during PSL press conference, says 'we got school kids here'",
+    "desc": "The captains of the Pakistan Super League gathered for a pre-season media event that quickly became a viral moment for reasons beyond cricket. While the discussion primarily focused on team preparations, a light-hearted exchange involving...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/david-warner-slams-shaheen-afridi-marnus-labuschagne-during-psl-press-conference-says-we-got-school-kids-here-2026-03-26-1035133",
+    "time": "2026-03-26T05:16:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kolkata's possible opening combo and who will replace Andre Russell?",
     "desc": "Three-time champions Kolkata Knight Riders have suffered heavily ahead of the IPL 2026. The franchise released Mustafizur Rahman following BCCI’s guidelines, while their star all-rounder Harshit Rana is ruled out of the season. Matheesha Pathirana,...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/playoffs-not-enough-we-have-to-win-trophy-lsg-owner-sanjiv-goenka-ahead-of-ipl-2026-2026-03-25-1035089",
     "time": "2026-03-25T16:12:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Navdeep Saini named Harshit Rana's replacement for IPL 2026",
-    "desc": "Kolkata Knight Riders have announced Navdeep Saini as the injury replacement for Harshit Ranas, the IPL body confirmed on Wednesday, March 25. Meanwhile, GT have announced Kulwant Khejroliya as a replacement for Prithviraj Yarra. \"Kolkata Knight...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/navdeep-saini-named-harshit-ranas-replacement-for-ipl-2026-2026-03-25-1035087",
-    "time": "2026-03-25T15:38:46.000Z"
   }
 ];
