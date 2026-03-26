@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI announce schedule for India's home season, check five Test venues for Australia series",
+    "desc": "The Board of Control for Cricket in India (BCCI) confirmed all the venues for India’s upcoming domestic season, in which they will play a five-match Test series against Australia, a three-match ODI series and a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announce-schedule-for-india-s-home-season-check-five-test-venues-for-australia-series-2026-03-26-1035181",
+    "time": "2026-03-26T09:27:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "LSG's Tom Moody happy with squad development, says 'all our fast bowlers are giving us a selection headache'",
+    "desc": "Lucknow Super Giants suffered multiple setbacks in the 2025 season, with several of their pacers, including Mayank Yadav and Mohsin Khan, being ruled out for either the majority of the season or the entire. Shamar...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lsg-s-tom-moody-happy-with-squad-development-says-all-our-fast-bowlers-are-giving-us-a-selection-headache-2026-03-26-1035172",
+    "time": "2026-03-26T08:43:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli on course to join legendary IPL club in 2026",
+    "desc": "Legendary cricketer Virat Kohli is on course to join Chris Gayle and Rohit Sharma in the list of cricketers to hit 300 sixes in the Indian Premier League (IPL). The former Royal Challengers Bengaluru (RCB)...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-on-course-to-join-legendary-ipl-club-in-2026-2026-03-26-1035155",
+    "time": "2026-03-26T07:13:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "David Warner slams Shaheen Afridi, Labuschagne during PSL press conference, says 'we got school kids here'",
     "desc": "The captains of the Pakistan Super League gathered for a pre-season media event that quickly became a viral moment for reasons beyond cricket. While the discussion primarily focused on team preparations, a light-hearted exchange involving...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/india-to-face-pakistan-in-saff-u20-championship-in-maldives-2026-03-25-1035098",
     "time": "2026-03-25T18:19:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will Pat Cummins play in IPL 2026? SRH skipper drops biggest update",
-    "desc": "Sunrisers Hyderabad are fretting over the availability of their regular captain Pat Cummins, who is recovering from a lumbar stress issue. While Sunrisers have named Ishan Kishan as their interim captain, the leadership and the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-will-pat-cummins-play-in-ipl-2026-srh-skipper-drops-biggest-update-2026-03-25-1035097",
-    "time": "2026-03-25T18:03:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Majority of IPL captains express reservations against Impact Player rule as voices grow over it",
-    "desc": "The majority of Indian Premier League captains have expressed their reservations over the Impact Player rule, which was introduced by the Board of Control for Cricket in India in 2023. The rule was extended for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/majority-of-ipl-captains-express-reservations-against-impact-player-rule-as-voices-grow-over-it-2026-03-25-1035093",
-    "time": "2026-03-25T17:23:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Playoffs not enough, we have to win trophy': LSG owner Sanjiv Goenka ahead of IPL 2026",
-    "desc": "Lucknow Super Giants owner Sanjiv Goenka has expressed his desire to win an IPL trophy, stating that reaching the playoffs is not enough to command respect. LSG, now led by Rishabh Pant, have never played...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/playoffs-not-enough-we-have-to-win-trophy-lsg-owner-sanjiv-goenka-ahead-of-ipl-2026-2026-03-25-1035089",
-    "time": "2026-03-25T16:12:59.000Z"
   }
 ];

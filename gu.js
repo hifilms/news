@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
-    "cat": "Business",
-    "title": "પેટ્રોલ 100ને પાર, ડીઝલના ભાવમાં પણ વધારો... મિડલ ઈસ્ટના યુદ્ધ વચ્ચે નાયરાનો મોટો નિર્ણય",
-    "desc": "અમેરિકા-ઇઝરાઇલ અને ઇરાન વચ્ચે ચાલી રહેલા તણાવ વચ્ચે ભારતની સૌથી મોટી ખાનગી ફ્યુઅલ રિટેલર વેચતી કંપની Nayara Energyએ શુક્રવારે પેટ્રોલ અને ડીઝલના ભાવમાં વધારો કર્યો છે. જેના કારણે પેટ્રોલના ભાવ 100ને પાર પહોંચી ગયા છે.",
+    "cat": "Politics",
+    "title": "શું ખરેખર ખાલી થવાના છે પેટ્રોલ પંપ? અનેક શહેરોમાં લાગ્યા &amp;#039;No Stock&amp;#039; ના બોર્ડ, જાણો અછતની શું છે હકીકત",
+    "desc": "દેશના અનેક રાજ્યોમાં પેટ્રોલ-ડીઝલ અને LPGની અછતની અફવાઓ બાદ ગભરાટમાં ખરીદી (Panic Buying) શરૂ થઈ ગઈ છે. અનેક પેટ્રોલ પંપ પર 'નો સ્ટોક' ના બોર્ડ લાગી ગયા છે. પરંતુ બે દિવસ બાદ સ્થિતિ નોર્મલ થઈ ચૂકી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/nayara-energy-hikes-petrol-diesel-prices-across-india-amid-middle-east-tension-470158 ",
-    "time": "2026-03-26T06:59:05.000Z"
+    "url": " http://zeenews.india.com/gujarati/india/petrol-diesel-shortage-hyderabad-maharashtra-uttar-pradesh-panic-buying-no-stock-board-on-pumps-470162 ",
+    "time": "2026-03-26T09:16:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 પહેલા BCCIનો મોટો નિર્ણય, આ વર્ષે નહીં યોજાય ઓપનિંગ સેરેમની, જાણો શું છે કારણ",
+    "desc": "IPL 2026 પહેલા એક નવી અપડેટ સામે આવી છે. BCCIએ એક મહત્વપૂર્ણ નિર્ણય લીધો છે, જે હેઠળ આ વખતે ટુર્નામેન્ટ શરૂ થાય તે પહેલાં ઓપનિંગ સેરેમની યોજાશે નહીં. ત્યારે આ લેખમાં જાણીશું કે બોર્ડે આ નિર્ણય કેમ લીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-opening-ceremony-cancelled-bcci-big-decision-know-reason-470172 ",
+    "time": "2026-03-26T08:31:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર, જાણો તમારા શહેરમાં કેટલો છે આજનો ભાવ",
+    "desc": "આજે સવારે દેશભરમાં પેટ્રોલ અને ડીઝલના નવા ભાવ જાહેર કરવામાં આવ્યા હતા. આ ભાવ આંતરરાષ્ટ્રીય બજારમાં ક્રૂડ ઓઇલની હિલચાલ અને ડોલર સામે રૂપિયાની સ્થિતિ દ્વારા નક્કી થાય છે. આજે ઘણા શહેરોમાં ભાવ સ્થિર રહ્યા હતા, જ્યારે ટેક્સના કારણે કેટલીક જગ્યાએ થોડી વધઘટ જોવા મળી હતી. જોકે, નાયરાએ આજે પેટ્રોલમાં 5 રૂપિયા અને ડીઝલમાં 3 રૂપિયાનો વધારો કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-check-fuel-rates-in-your-city-469895 ",
+    "time": "2026-03-26T08:03:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાન સાથે યુદ્ધ વચ્ચે અમેરિકામાં ફેલાઈ રહ્યો છે કોરોનાનો નવો વેરિએન્ટ, જાણો કેટલો જોખમી? તેના લક્ષણો",
+    "desc": "એકબાજુ જ્યાં દુનિયા અનેક દેશો વચ્ચે યુદ્ધના કારણે ઊભા થયેલા સંકટનો સામનો કરી રહી છે ત્યાં ફરીથી કોરોના વાયરસના નવા વેરિએન્ટનું જોખમ તોળાઈ રહ્યું છે જેણે વિશ્વમાં ચિંતા વધારી છે. જાણો આ નવા વેરિએન્ટ BA.3.2 વિશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/new-variant-of-corona-is-spreading-in-usa-know-how-dangerous-it-is-and-symptoms-470161 ",
+    "time": "2026-03-26T07:13:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -16,15 +43,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-crime-thriller-web-series-hindi-based-on-real-life-murders-maharashtra-manvat-murders-real-life-story-470159 ",
     "time": "2026-03-26T06:51:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર, જાણો તમારા શહેરમાં કેટલો છે આજનો ભાવ",
-    "desc": "આજે સવારે દેશભરમાં પેટ્રોલ અને ડીઝલના નવા ભાવ જાહેર કરવામાં આવ્યા હતા. આ ભાવ આંતરરાષ્ટ્રીય બજારમાં ક્રૂડ ઓઇલની હિલચાલ અને ડોલર સામે રૂપિયાની સ્થિતિ દ્વારા નક્કી થાય છે. આજે ઘણા શહેરોમાં ભાવ સ્થિર રહ્યા હતા, જ્યારે ટેક્સના કારણે કેટલીક જગ્યાએ થોડી વધઘટ જોવા મળી હતી. જોકે, નાયરાએ આજે પેટ્રોલમાં 5 રૂપિયા અને ડીઝલમાં 3 રૂપિયાનો વધારો કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-check-fuel-rates-in-your-city-469895 ",
-    "time": "2026-03-26T06:36:42.000Z"
   },
   {
     "cat": "Sports",
@@ -324,15 +342,6 @@ const newsData_gu = [
     "time": "2026-03-24T10:23:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "એલર્ટ મોડ પર આવ્યું ભારત! ગભરાવાની જરૂર નથી પણ સાવચેત રહેજો, દિલ્હીમાં શરૂ થયો બેઠકોનો દોર",
-    "desc": "પહેલા લોકસભામાં પીએમ મોદીનું સંબોધન અને પછી રાજ્યસભામાં, રાજનાથ સિંહની બેઠક અને હવે ઓલપાર્ટી મિટિંગ....પીએમ મોદીએ સંબોધનમાં કહ્યું કે કોરોના જેવા પડકારો માટે તૈયાર રહેવું પડશે. ત્યારે સવાલ સ્વાભાવિક રીતે થાય કે 5 વર્ષ પહેલા જેવું સંકટ દેશમાં દસ્તક આપી રહ્યું છે? જો કે સરકારનું પૂરેપૂરું આશ્વાસન છે કે સ્થિતિને પહોંચી વળવા માટે પૂરતી તૈયારીઓ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/middle-east-crisis-india-on-alert-mode-no-need-to-panic-but-be-careful-469940 ",
-    "time": "2026-03-24T10:21:49.000Z"
-  },
-  {
     "cat": "World",
     "title": "અંતિમ ચરણમાં પહોંચ્યું યુદ્ધ ! ઈરાને દબાવી અરબ દેશોની દુખતી નસ, લાગ્યો ડર",
     "desc": "અમેરિકાની ધમકીના જવાબમાં, ઈરાને એક વળતો જવાબ આપ્યો છે, જેનાથી ખાડી દેશો ચોકી ગયા છે. ઈરાને કહ્યું છે કે જો તેના પાવર પ્લાન્ટ્સને નિશાન બનાવવામાં આવશે, તો તે મધ્ય પૂર્વના પાવર પ્લાન્ટ્સને પણ છોડશે નહીં.",
@@ -459,15 +468,6 @@ const newsData_gu = [
     "time": "2026-03-23T13:08:40.000Z"
   },
   {
-    "cat": "Business",
-    "title": "વેચવાલીના માર્કેટમાં પણ આ શેરમાં લાગી 20%ની અપર સર્કિટ, 100ની નીચે છે ભાવ, રોકાણકારો તૂટી પડ્યા! જાણો",
-    "desc": "સોમવારે શેરબજારમાં ભારે વેચવાલી વચ્ચે 100 રૂપિયાથી નીચે ભાવ ધરાવતા કંપનીના શેરમાં અપરની સર્કિટ લાગી હતી. શેર માર્કેટમાં આજે ભારે ઘટાડો જોવા મળ્યો હતો, રોકાણકારોને કરોડો રૂપિયાનું નુકશાન થયું છે, ત્યારે આ કંપનીના શેરમાં 20 ટકાની અપર સર્કિટ લાગી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/even-in-the-sell-off-market-this-stock-has-an-upper-circuit-of-20-percent-the-price-is-below-100-find-out-469841 ",
-    "time": "2026-03-23T12:26:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026 પહેલા BCCIએ ચાહકોને આપી મોટી ભેટ, આ 15 શહેરોમાં મફતમાં જોઈ શકશો લાઈવ મેચો",
     "desc": "IPL 2026 28 માર્ચથી શરૂ થવાની છે, જેની ચાહકો આતુરતાથી રાહ જોઈ રહ્યા હતા. આ દરમિયાન ચાહકોને એક મોટી ભેટ આપતા BCCIએ ફેન પાર્કના સ્થળોની જાહેરાત કરી છે, જ્યાં તમે વિશાળ સ્ક્રીન પર લાઈવ મેચો સંપૂર્ણપણે મફતમાં જોઈ શકો છો.",
@@ -520,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/i-am-the-punching-bag-of-social-media-rishabh-pant-leaving-the-lucknow-team-sanjiv-goenka-breaks-his-silence-469724 ",
     "time": "2026-03-22T14:28:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKRને ઝટકા પર ઝટકો ! વધુ એક ભારતીય ફાસ્ટ બોલર IPL 2026માંથી બહાર",
-    "desc": "IPL 2026 28 માર્ચથી શરૂ થવાની છે, પરંતુ ટુર્નામેન્ટ પહેલા KKRને વધુ એક ઝટકો લાગ્યો છે. ફાસ્ટ બોલર આકાશ દીપ આખી સીઝનમાંથી બહાર થઈ ગયો છે. KKRએ મિની-ઓક્શન દરમિયાન આકાશ દીપને 1 કરોડમાં ખરીદ્યો હતો. આ પહેલા પણ બે ફાસ્ટ બોલર ઈજાગ્રસ્ત થતાં બહાર થયા છે, ત્યારે વધુ એક બોલર ઈજાગ્રસ્ત થતાં KKRની મુશ્કેલી વધી ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/kkr-pacer-akash-deep-ruled-out-of-ipl-2026-due-to-injury-469649 ",
-    "time": "2026-03-22T06:50:57.000Z"
   },
   {
     "cat": "Entertainment",

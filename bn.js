@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "'লকডাউন' কি গুজব, না, ঘোর বাস্তব? 'প্রস্তুতি'র ব্য়াপারে অবশেষে সরকার সত্যিটা বলল",
+    "desc": "'ইন্ডিয়া লকডাউন' আর 'এনার্জি লকডাউন' শব্দদুটি খুব শোনা যাচ্ছে। কেন শোনা যাচ্ছে? সামনে কি কোনও মহাবিপদ? সরকার বলল, দেশবাসীকে প্রস্তুত থাকতে বলা হয়েছিল। সেই 'প্রস্তুতি' সংক্রান্ত মন্তব্যেরই ভুল ব্যাখ্যা করা হয়েছে। বেড়েছে উদ্বেগ। কিন্তু সত্যিটা কী?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/india-heading-for-lockdown-govt-clears-amid-energy-concerns-government-denies-lockdown-rumours_646237.html ",
+    "time": "2026-03-26T08:06:07.000Z"
+  },
+  {
     "cat": "World",
     "title": "ইরান বিরাট উপহার দিল ট্রাম্পকে; 'গিফট' পেয়ে উল্লসিত ট্রাম্প কি থামিয়ে দেবেন যুদ্ধ? কী উপহার?",
     "desc": "কী উপহার, সেটা অবশ্য় খোলসা করেননি ট্রাম্প। শুধু বলেছেন, হরমুজ প্রণালীর সঙ্গে সম্পর্কিত এটা। এদিকে, শোনা যাচ্ছে, ইরানও আমেরিকার কাছে শর্তের পাহাড় রেখেছে। তারা নাকি চায়, মধ্য প্রাচ্য আমেরিকার সমস্ত ঘাঁটি বন্ধ করে দিক! কিন্তু দুই দেশ কি এই শর্তে রাজি হবে? সময়ই বলবে।",
@@ -124,15 +133,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/shreya-ghoshal-husband-shiladitya-mukhopadhyaya-net-worth-career-profile_645896.html ",
     "time": "2026-03-23T08:06:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran Strikes US-UK Base: বিশ্বকে চমকে দিয়ে ৪০০০ কিমি দূরের মার্কিন ঘাঁটি নিশানা করে অবিশ্বাস্য ক্ষেপণাস্ত্র নিক্ষেপ ইরানের",
-    "desc": "অনুমান, ইরান এমন এক পরীক্ষা চালিয়েছে, যা মাঝারি পাল্লার ব্যালিস্টিক ক্ষেপণাস্ত্রের কাছাকাছি। এই ক্ষেপণাস্ত্র ভারত মহাসাগরের গভীরে, এমনকি দক্ষিণ ইউরোপ পর্যন্ত পৌঁছতে সক্ষম। সন্দেহ নেই, নিজেদের যুদ্ধক্ষমতা সম্পর্কে শত্রুদের ধোঁয়াশায় রেখে বাড়তি সুবিধা পাচ্ছে ইরান।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/iran-missiles-go-attack-diego-garcia-us-uk-base-4000-kms-away-big-war-signal_645819.html ",
-    "time": "2026-03-22T08:26:10.000Z"
   },
   {
     "cat": "Entertainment",
