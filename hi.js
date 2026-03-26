@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'My journey ends here'",
+    "desc": "Carolina Marin, one of badminton’s greatest players, has announced her retirement due to a persistent knee injury, ending a remarkable career that included an Olympic gold medal and three World Championship titles. Marin won the gold...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/rio-olympics-gold-medallist-carolina-marin-announces-retirement-my-journey-ends-here-2026-03-26-1035242",
+    "time": "2026-03-26T18:24:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are CSK facing RCB only once in IPL 2026 despite being in same group?",
+    "desc": "The IPL 2026 league stage schedule is completely out as the BCCI made the announcement on Thursday, March 26. Earlier, the schedule for 20 matches was announced. However, now full league stage fixtures are out,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-csk-facing-rcb-only-once-in-ipl-2026-despite-being-in-same-group-2026-03-26-1035238",
+    "time": "2026-03-26T17:36:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "In big move before Los Angeles Games 2028, transgender athletes banned from women's sports at Olympics",
+    "desc": "Transgender women athletes will no longer be allowed to compete in women’s events at the Olympics after the International Olympic Committee (IOC) approved a new eligibility policy on Thursday. The decision aligns with an executive...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/in-big-move-before-los-angeles-games-2028-transgender-athletes-banned-from-womens-sports-at-olympics-2026-03-26-1035236",
+    "time": "2026-03-26T16:29:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "What are IPL 2026 groups? Check where MI, CSK and RCB are placed",
     "desc": "The IPL 2026 full league stage schedule is out now as the BCCI made the big announcement on Thursday, March 26. Previously, schedule for only 20 matches was announced due to the upcoming elections in...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-announce-schedule-for-india-s-home-season-check-five-test-venues-for-australia-series-2026-03-26-1035181",
     "time": "2026-03-26T09:27:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "LSG's Tom Moody happy with squad development, says 'all our fast bowlers are giving us a selection headache'",
-    "desc": "Lucknow Super Giants suffered multiple setbacks in the 2025 season, with several of their pacers, including Mayank Yadav and Mohsin Khan, being ruled out for either the majority of the season or the entire. Shamar...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-s-tom-moody-happy-with-squad-development-says-all-our-fast-bowlers-are-giving-us-a-selection-headache-2026-03-26-1035172",
-    "time": "2026-03-26T08:43:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli on course to join legendary IPL club in 2026",
-    "desc": "Legendary cricketer Virat Kohli is on course to join Chris Gayle and Rohit Sharma in the list of cricketers to hit 300 sixes in the Indian Premier League (IPL). The former Royal Challengers Bengaluru (RCB)...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-on-course-to-join-legendary-ipl-club-in-2026-2026-03-26-1035155",
-    "time": "2026-03-26T07:13:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "David Warner slams Shaheen Afridi, Labuschagne during PSL press conference, says 'we got school kids here'",
-    "desc": "The captains of the Pakistan Super League gathered for a pre-season media event that quickly became a viral moment for reasons beyond cricket. While the discussion primarily focused on team preparations, a light-hearted exchange involving...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/david-warner-slams-shaheen-afridi-marnus-labuschagne-during-psl-press-conference-says-we-got-school-kids-here-2026-03-26-1035133",
-    "time": "2026-03-26T05:16:44.000Z"
   }
 ];

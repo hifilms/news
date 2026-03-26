@@ -1,12 +1,192 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Within a year of getting powers, MHA agency issued 290 takedown notices a day on average for online content",
-    "desc": "According to MHA report for 2024-25, till March 31, 2025, 1,11,185 suspicious online content has been blocked under Section 79(3)(b) of IT Act. On March 13, 2024, the Indian Cyber Crime Coordination Centre was designated as the MHA’s agency to perform the functions under Section 79 (3) (b) of IT Act.",
-    "img": "https://th-i.thgim.com/public/news/national/w99d63/article70789353.ece/alternates/LANDSCAPE_1200/Untitled%20design%2035.png",
+    "title": "AIADMK allotted Ministers’ constituencies to allies as it is colluding with DMK: Seeman",
+    "desc": "He alleges that this is to ensure the defeat of its allies, including BJP. Criticising the Congress, he accuses the party of having harmed the interests of the Tamil people while in power at the Centre",
+    "img": "https://th-i.thgim.com/public/incoming/v8elqa/article70788712.ece/alternates/LANDSCAPE_1200/9869_26_3_2026_19_17_56_2_1000203351.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/within-a-year-of-getting-powers-mha-agency-issued-290-takedown-notices-a-day-on-average-for-online-content/article70788677.ece",
-    "time": "2026-03-26T15:49:19.000Z"
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/aiadmk-allotted-ministers-constituencies-to-allies-as-it-is-colluding-with-dmk-seeman/article70788033.ece",
+    "time": "2026-03-26T18:58:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nirav Modi defiant, blames CBI and ED for destroying his businesses",
+    "desc": "Appearing defiant in London, Nirav Modi testified in a civil trial, denying owing Bank of India over $10.7 million. He claimed banks, CBI, and ED destroyed his 20-year business, asserting no fraud against Punjab National Bank. Modi alleged PNB colluded with CBI, leading to an FIR without his input, and ED's actions halted his operations.",
+    "img": "https://static.toiimg.com/photo/msid-129832750,imgsize-21674.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nirav-modi-defiant-blames-cbi-and-ed-for-destroying-his-businesses/articleshow/129832773.cms",
+    "time": "2026-03-26T18:42:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "an allegorical short story on the emotional coercion of voters",
+    "desc": "Unlike high-pitched electioneering the State is known for, the TVK’s campaign seems in part to be unfolding quietly within households. What unfolds is reminiscent of the short story Marumagal Vaaku (Dauther-in-law’s Vote) by the late Tamil writer Krishnan Nambi",
+    "img": "https://th-i.thgim.com/public/incoming/uwwzjq/article70789689.ece/alternates/LANDSCAPE_1200/voter.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/an-allegorical-short-story-on-the-emotional-coercion-of-voters/article70789650.ece",
+    "time": "2026-03-26T18:41:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Malaika Arora shuts down dating rumours with Sorab Bedi",
+    "desc": "Malaika Arora is unfazed by her relationship status and the constant speculation around her personal life. The actress recently addressed ongoing dating rumours with Sorab Bedi and opened up about companionship, independence, and being a single mother, making it clear that she is in no rush to find a partner.",
+    "img": "https://static.toiimg.com/photo/msid-129832497,imgsize-82974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/malaika-arora-shuts-down-dating-rumours-with-sorab-bedi-says-i-dont-need-a-partner-arhaan-and-me-have-a-good-laugh/articleshow/129832497.cms",
+    "time": "2026-03-26T18:35:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Annamalai unhappy with constituencies allocated by AIADMK",
+    "desc": "The former BJP Tamil Nadu president is learnt to have requested the party leadership not to identify any seat for him as he has decided against contesting in the Assembly election. But he will continue to work “as a party karyakarta for all BJP and NDA candidates”",
+    "img": "https://th-i.thgim.com/public/incoming/xpni8i/article70789811.ece/alternates/LANDSCAPE_1200/BJP-leader-AnnaG3EFJJ8AA.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/annamalaiunhappy-with-constituencies-allocated-by-aiadmk/article70789767.ece",
+    "time": "2026-03-26T18:32:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, Dhaka should address sensitive issues with sincerity, candour: Envoy",
+    "desc": "Bangladesh High Commissioner Riaz Hamidullah emphasized sincere dialogue on trade, security, and resource sharing for a prosperous future built on shared democratic beliefs. He highlighted the need for mutual respect and interdependence, recalling India's crucial support during Bangladesh's 1971 Liberation War and the spirit of equality and justice.",
+    "img": "https://static.toiimg.com/photo/msid-129832521,imgsize-959206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-dhaka-should-address-sensitive-issues-with-sincerity-candour-envoy/articleshow/129832397.cms",
+    "time": "2026-03-26T18:29:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Slovak detained along Mizoram-Myanmar border, likely to be deported",
+    "desc": "The man, a resident of Thailand, was allegedly trying to cross into Myanmar to meet a friend; he did not have a protected area permit; detention comes after American, Ukrainians tried to cross border to train armed ethnic groups",
+    "img": "https://th-i.thgim.com/public/incoming/wtb82w/article70789802.ece/alternates/LANDSCAPE_1200/IMG_INDIA-MYANMAR-COUP-R_2_1_91CCOD10.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/slovak-detained-along-mizoram-myanmar-border-likely-to-be-deported/article70789552.ece",
+    "time": "2026-03-26T18:21:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Freebies first, development later? Karnataka cuts programs to fund welfare schemes, CAG flags deficit risks",
+    "desc": "Karnataka's finances are strained by welfare schemes, forcing cuts in other programs. The CAG report reveals Rs 52,525 crore spent on five guarantee schemes, consuming a significant portion of revenue and necessitating increased borrowing. This fiscal pressure impacts capital expenditure and raises concerns about future growth and debt servicing obligations.",
+    "img": "https://static.toiimg.com/photo/msid-129831431,imgsize-79384.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/freebies-first-development-later-karnataka-cuts-programs-to-fund-welfare-schemes-cag-flags-deficit-risks/articleshow/129831323.cms",
+    "time": "2026-03-26T17:51:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘I never taught Aditya Dhar, he learned himself’",
+    "desc": "Filmmaker Aditya Dhar’s fearless approach to storytelling is earning praise from his former mentor Priyadarshan, especially as Dhurandhar 2 continues its record-breaking run. Speaking about Dhar’s conviction, Priyadarshan highlighted how the director has managed to challenge conventional industry formulas.",
+    "img": "https://static.toiimg.com/photo/msid-129831228,imgsize-72022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-backs-aditya-dhars-bold-filmmaking-says-conviction-drives-dhurandhars-success-i-never-taught-him-he-learned-himself/articleshow/129831228.cms",
+    "time": "2026-03-26T17:48:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBI arrests human trafficking ‘kingpin’ in Myanmar-based cyber scam compounds case",
+    "desc": "The accused has been identified as Sunil Nellathu Ramakrishnan, alias Krish, a resident of Mumbai. During the CBI probe, he emerged as one of the main “facilitators” in the trafficking network, through which victims were being illegally transported for exploitation in the scam centres in Southeast Asia.",
+    "img": "https://th-i.thgim.com/public/news/national/4d0fqf/article70789679.ece/alternates/LANDSCAPE_1200/TH---INDEX-CBI-HEADQUARTER.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cbi-arrests-human-trafficking-kingpin-in-myanmar-based-cyber-scam-compounds-case/article70789073.ece",
+    "time": "2026-03-26T17:27:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Triangular battle on the cards in nine seats in Kerala",
+    "desc": "The LDF, the UDF and the NDA are locked in three-cornered fights in the constituencies of Nemom, Kazhakkoottam, Vattiyoorkkavu, Aranmula, Pala, Thrissur, Nattika, Palakkad and Manjeshwaram. The outcomes from these seats could even determine the final outcome of the polls.",
+    "img": "https://th-i.thgim.com/public/incoming/3zts5m/article70789682.ece/alternates/LANDSCAPE_1200/80688_26_3_2026_20_14_51_4_ONEWAL_KKN4.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2026-triangular-battle-on-the-cards-in-nine-seats-in-kerala/article70779616.ece",
+    "time": "2026-03-26T17:25:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India beat Pakistan 3-0 to reach SAFF U20 semi-finals",
+    "desc": "India secured a commanding 3-0 victory over Pakistan in the SAFF U20 Championship. Omang Dodum scored twice, with Vishal Yadav adding another goal. This win guarantees India a spot in the semi-finals. Pakistan has been eliminated from the tournament. India will face Bangladesh next to determine the group leader.",
+    "img": "https://static.toiimg.com/photo/msid-129830503,imgsize-93422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/india-beat-pakistan-3-0-to-reach-saff-u20-semi-finals/articleshow/129830524.cms",
+    "time": "2026-03-26T17:15:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pandya wins hearts with promise kept, rewards Wankhede groundstaff",
+    "desc": "Hardik Pandya fulfilled a promise to reward Wankhede groundstaff who supported his late-night World Cup training, earning praise for his humility. The two-time T20 World Cup winner acknowledged their behind-the-scenes efforts while continuing to shine on the field. Reflecting on life, he said, “Jab se Mahieka aayi hai, life mein bas jeet hi jeet hai.”",
+    "img": "https://static.toiimg.com/photo/msid-129830463,imgsize-60762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-wins-hearts-with-promise-kept-rewards-wankhede-groundstaff/articleshow/129829833.cms",
+    "time": "2026-03-26T17:10:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Jaishankar, French counterpart discuss Iran, Hormuz at G7 meet",
+    "desc": "The participation of External Affairs Minister S. Jaishankar in the G7 meetings signified “the importance France attaches to closely associating India — currently holding the BRICS presidency — with its G7 presidency”, the French government said",
+    "img": "https://th-i.thgim.com/public/incoming/l7f9tj/article70786971.ece/alternates/LANDSCAPE_1200/2026-03-15T192310Z_54505575_RC2I0HARZ5DR_RTRMADP_3_IRAN-CRISIS-INDIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jaishankar-in-france-for-g7-meet-west-asia-crisis-tops-agenda/article70786927.ece",
+    "time": "2026-03-26T17:05:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Steel ministry seeks intervention for mills facing LPG shortages, source says",
+    "desc": "India, the world’s second-biggest crude steel producer, is in ‌the midst of its worst ‌LPG ⁠supply crisis in decades ⁠as shipments from key producers in West Asia have been disrupted because of the ​Iran war.",
+    "img": "https://th-i.thgim.com/public/incoming/b4sf67/article70789561.ece/alternates/LANDSCAPE_1200/2025-12-01T051235Z_185670977_RC2U6GAV5L3L_RTRMADP_3_INDIA-MONGOLIA-COKING-COAL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/steel-ministry-seeks-intervention-for-mills-facing-lpg-shortages-source-says/article70789518.ece",
+    "time": "2026-03-26T16:57:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump threatens Iran to make a deal or the U.S. will “keep blowing them away”",
+    "desc": "Donald Trump issues a stark warning to Iran, saying the U.S. will “keep blowing them away” if a deal is not reached. The statement comes amid rising tensions in West Asia, fuelling fears of further escalation.",
+    "img": "https://th-i.thgim.com/public/news/national/1sp2oq/article70789576.ece/alternates/LANDSCAPE_1200/japan.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/trump-threatens-iran-to-make-a-deal-or-the-us-will-keep-blowing-them-away/article70789582.ece",
+    "time": "2026-03-26T16:57:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Stress laid on proper hygiene to prevent shigella spread in Kerala",
+    "desc": "A total of 15 cases, including one death, have been reported across the State this month due to shigellosis, a disease caused by Shigella bacteria. As many as 29 confirmed cases have been reported across the State so far this year",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/stress-laid-on-proper-hygiene-to-prevent-shigella-spread-in-kerala/article70789002.ece",
+    "time": "2026-03-26T16:47:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shami's latest act triggers big reaction from Langer",
+    "desc": "Mohammed Shami is training hard ahead of IPL 2026, aiming to return to India’s squad. The 35-year-old impressed LSG coach Justin Langer with his yorkers, who called them “breathtaking.” Langer also praised Shami’s leadership among younger players. With selectors overlooking him, the IPL offers Shami a crucial chance to prove himself and push for a comeback.",
+    "img": "https://static.toiimg.com/photo/msid-129829602,imgsize-45008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/watch-mohammed-shamis-latest-act-triggers-big-reaction-from-justin-langer/articleshow/129827949.cms",
+    "time": "2026-03-26T16:23:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nandamuri Balakrishna touches Hema Malini’s feet",
+    "desc": "A heartwarming moment from the International Film Festival Delhi (IFFD) 2026 is winning the internet. Nandamuri Balakrishna was seen touching the feet of his on-screen mother Hema Malini on the red carpet, and the video is now going viral across social media.",
+    "img": "https://static.toiimg.com/photo/msid-129829505,imgsize-81602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nandamuri-balakrishna-touches-hema-malinis-feet-at-iffd-2026-seeks-her-blessings-video-goes-viral/articleshow/129829505.cms",
+    "time": "2026-03-26T16:21:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Groups urge President not to grant assent to ‘regressive’ Transgender Amendment Bill",
+    "desc": "The letter was written by All-India Feminist Alliance (ALIFA), a pan-India collective of grassroots organisations, along with National Alliance for Justice, Accountability and Rights (NAJAR); the groups said they were ‘extremely alarmed and distressed at the undue and unjustifiable haste’ with which the Bill was passed in Parliament",
+    "img": "https://th-i.thgim.com/public/incoming/im62sc/article70789441.ece/alternates/LANDSCAPE_1200/TRANS%20BILL%20PROTEST%20DELHI%202026_26_03_105.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/groups-urge-president-not-to-grant-assent-to-regressive-transgender-amendment-bill/article70788397.ece",
+    "time": "2026-03-26T16:17:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "At least 14 killed, 28 injured as bus collides with lorry,  triggers blaze near A.P.’s Markapuram",
+    "desc": "Victims include a five-month-old baby; bus owner, who was driving, is injured and in police custody; an investigation is underway, though officials are blaming bus driver’s negligence and a short circuit in bus AC battery system",
+    "img": "https://th-i.thgim.com/public/incoming/ewbhuy/article70789442.ece/alternates/LANDSCAPE_1200/10745_26_3_2026_18_40_2_3_DSC_0073.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/markapuram-road-accident-several-killed-many-injured/article70786585.ece",
+    "time": "2026-03-26T16:13:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -25,24 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-deverakondarashmikas-unseen-wedding-pics-ravi-mohans-goa-investment-nagabandham-release-date-top-5-south-stories-of-the-day/articleshow/129828934.cms",
     "time": "2026-03-26T15:37:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Cabinet to promote use of PNG, targets to give 10 lakh connections in Andhra Pradesh",
-    "desc": "Approvals for laying PNG pipelines will be granted in 24 hours, or processed automatically, says Civil Supplies Minister Nadendla Manohar, while asserting that there is no shortage of petrol, diesel, or LPG in the State",
-    "img": "https://th-i.thgim.com/public/incoming/8v665s/article70789249.ece/alternates/LANDSCAPE_1200/10745_26_3_2026_18_59_25_1_IMG_20260326_WA0186.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/cabinet-to-promote-use-of-png-targets-to-give-10-lakh-connections-in-andhra-pradesh/article70788852.ece",
-    "time": "2026-03-26T15:27:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Welfare Party declares support for UDF ahead of elections",
-    "desc": "Sangh Parivar seeks to maintain a favourable social atmosphere for its progress in the State by keeping the Left in power, and the WPI strives to keep such forces at bay, according to the party",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-welfare-party-declares-support-for-udf-ahead-of-elections/article70788678.ece",
-    "time": "2026-03-26T15:27:42.000Z"
   },
   {
     "cat": "Sports",
@@ -288,24 +450,6 @@ const newsData_en = [
     "time": "2026-03-26T11:30:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ranveer's on-screen sister reveals why Jaskirat became Hamza",
-    "desc": "Hitika Bali (Harleen Rangi) shares why Ranveer Singh's Jaskirat becomes Hamza in Dhurandhar 2, via viral family photo and tie-samosa joke. Fans love her arc; Grok outfit swap amuses. Sequel to 2025 hit explores backstory with returning cast like Arjun Rampal.",
-    "img": "https://static.toiimg.com/photo/msid-129823207,imgsize-34060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-ranveer-singhs-on-screen-sister-reveals-why-jaskirat-became-hamza-made-me-laugh-with-tie-samosa-joke/articleshow/129823207.cms",
-    "time": "2026-03-26T11:28:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "RGV urges industry to ‘Shed ego’; tags 'Dhurandhar: The Revenge'",
-    "desc": "The Revenge' has inspired him to reinvent his filmmaking style, urging the industry to abandon outdated ideas. He believes the film has significantly raised cinematic benchmarks, prompting him to move beyond his previous influences and embrace a new approach to filmmaking.",
-    "img": "https://static.toiimg.com/photo/msid-129823015,imgsize-25032.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-urges-industry-to-shed-ego-tags-dhurandhar-the-revenge-a-new-benchmark/articleshow/129822908.cms",
-    "time": "2026-03-26T11:23:11.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "SC flags 'menace' of AI-generated fake judgments, cautions lawyers",
     "desc": "The Supreme Court has voiced concern over lawyers and litigants citing non-existent judgments generated by artificial intelligence, a practice becoming increasingly common globally. Justices Rajesh Bindal and Vijay Bishnoi emphasized the need for greater caution with AI-assisted material, noting the issue is under judicial consideration.",
@@ -322,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dont-ask-about-pakistan-cricket-irritated-shaheen-afridi-shushes-media-watch/articleshow/129822033.cms",
     "time": "2026-03-26T11:12:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ravi Mohan’s Goa investments with Kenishaa sparks buzz",
-    "desc": "Actor Ravi Mohan's recent property investment in Goa with Kenishaa Francis has ignited considerable discussion. The controversy stems from property documents reportedly listing Ravi Mohan as 'unmarried,' despite his ongoing divorce proceedings with Aarti Ravi. This discrepancy has fueled speculation about the nature of the deal and Kenishaa's involvement, with no official statement yet from either party.",
-    "img": "https://static.toiimg.com/photo/msid-129822674,imgsize-119010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ravi-mohans-goa-investments-with-kenishaa-sparks-buzz-parasakthi-actors-marital-status-claim-raises-big-questions/articleshow/129822674.cms",
-    "time": "2026-03-26T11:10:13.000Z"
   },
   {
     "cat": "Politics",
@@ -441,15 +576,6 @@ const newsData_en = [
     "time": "2026-03-26T09:52:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Excessive noise’ forces Air India A350 to divert after flying for 7 hours",
-    "desc": "Air India's new Airbus A350, VT-JRF, faced a recurring issue with turbulence and noise in its belly hold, forcing a return to Delhi from a London-bound flight. This marks the second such incident in ten days, prompting a DGCA investigation. The aircraft had previously diverted to Shannon for checks after a similar problem on a New York to Delhi route.",
-    "img": "https://static.toiimg.com/photo/msid-129820427,imgsize-62614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/2nd-time-in-10-days-excessive-noise-forces-air-india-a350-to-divert-london-bound-air-india-flight-makes-u-turn-after-7-hours/articleshow/129820428.cms",
-    "time": "2026-03-26T09:36:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "BCCI unveils India’s 2026-27 home fixtures: 22 matches across 17 cities",
     "desc": "Team India gears up for a massive 2026-27 home cricket season, hosting West Indies, Sri Lanka, Zimbabwe, and Australia in 22 matches across 17 cities. The packed schedule features ODIs, T20Is, and culminates with a five-Test Border-Gavaskar Trophy against Australia, promising thrilling contests nationwide.",
@@ -478,30 +604,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Reality of doing business': FIFA VC remark sparks debate ahead of World Cup",
-    "desc": "FIFA Vice-President Victor Montagliani downplayed concerns surrounding the upcoming World Cup, stating political and security issues are common before every tournament. He emphasized FIFA's priority is fan safety and coordination with host governments, asserting these challenges are inherent to organizing global events. Montagliani believes once the tournament begins, focus will shift to the football.",
-    "img": "https://static.toiimg.com/photo/msid-129820187,imgsize-279634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/reality-of-doing-business-fifa-vice-president-remark-sparks-debate-ahead-of-world-cup/articleshow/129820214.cms",
-    "time": "2026-03-26T09:22:41.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "‘Not as spicy anymore’: AB de Villiers flags concern over MI star ahead of IPL",
     "desc": "Former South Africa captain AB de Villiers has expressed concern for Mumbai Indians ahead of IPL 2026, suggesting Trent Boult may have lost pace and effectiveness. De Villiers warned that this could be an area opposition batters might target, despite the team's otherwise strong squad. However, Abhinav Mukund remains optimistic about Mumbai's depth and balance.",
     "img": "https://static.toiimg.com/photo/msid-129820090,imgsize-27776.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/not-as-spicy-anymore-ab-de-villiers-flags-concern-over-mi-star-ahead-of-ipl/articleshow/129820066.cms",
     "time": "2026-03-26T09:16:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kylian Mbappe dismisses reports Real Madrid examined the ‘wrong knee’",
-    "desc": "Kylian Mbappe has refuted claims that Real Madrid mistakenly scanned the wrong knee following his injury last year. He acknowledged that a lack of communication might have fueled speculation. Mbappé confirmed his rehabilitation was managed effectively, with the team performing well in his absence. He expressed relief that the injury is now behind him.",
-    "img": "https://static.toiimg.com/photo/msid-129819455,imgsize-175492.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/kylian-mbappe-dismisses-reports-real-madrid-examined-the-wrong-knee/articleshow/129819467.cms",
-    "time": "2026-03-26T08:40:40.000Z"
   },
   {
     "cat": "Business",
@@ -511,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-car-insurance-explained-third-party-vs-comprehensive-which-is-right-for-you-and-does-it-cover-flood-damage/articleshow/129817186.cms",
     "time": "2026-03-26T08:35:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Give him a challenge’: How teenage Virat Kohli overcame coach bias with runs",
-    "desc": "Virat Kohli's unwavering mental fortitude was evident even in his Under-17 days. Despite facing opposition from a coach, a young Kohli responded to challenges with fierce determination. He famously vowed to \"beat the living hell out of these people\" before smashing a double century against Punjab, showcasing the resilience that propelled his career.",
-    "img": "https://static.toiimg.com/photo/msid-129819089,imgsize-26342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/give-him-a-challenge-how-teenage-virat-kohli-overcame-coach-bias-with-runs/articleshow/129819058.cms",
-    "time": "2026-03-26T08:16:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -558,15 +657,6 @@ const newsData_en = [
     "time": "2026-03-26T07:40:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Jaishankar in France to attend G7 meeting with focus on West Asia crisis",
-    "desc": "External Affairs Minister S Jaishankar is in France for the G7 Foreign Ministers' Meeting, focusing on Ukraine's reconstruction, maritime security, and global governance reforms. Discussions aim for impactful results on nuclear safety and demining. India, alongside other partner nations, will participate in sessions designed to prepare for the upcoming G7 Leaders' Summit.",
-    "img": "https://static.toiimg.com/photo/msid-129818974,imgsize-34718.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jaishankar-in-france-to-attend-g7-meeting-with-focus-on-west-asia-crisis/articleshow/129818307.cms",
-    "time": "2026-03-26T07:19:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why IPL 2026 could unleash Virat Kohli’s most dangerous version yet",
     "desc": "Virat Kohli, IPL's leading run-scorer, finally achieved his dream of winning the IPL trophy with Royal Challengers Bengaluru in 2025. Now, unburdened by expectations after relinquishing captaincy, he enters IPL 2026 with a rare sense of freedom, potentially unleashing his most dangerous form yet.",
@@ -586,7 +676,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 8 [LIVE]: Ranveer Singh film eyes 'Dhurandhar 1' record of Rs 840",
+    "title": "'Dhurandhar 2' BO day 8 [LIVE]:Ranveer Singh starrer crosses Rs. 660 crore mark in India",
     "desc": "The Revenge enters its eighth day on Thursday, March 26, 2026, the Ranveer Singh starrer is rewriting the history of Indian cinema. Having already shattered the Rs. 1,000 crore worldwide milestone in record time, the film is now tracking at nearly double the efficiency of previous blockbusters like 'Jawan', 'Pathaan', and 'Animal.' Despite its sprawling 3-hour and 49-minute runtime, the sequel's domestic net collection has surged to more than Rs. 630 crore, fueled by unprecedented demand for midnight screenings and a gripping narrative that sees Jaskirat Singh Rangi, played by Ranveer Singh deeper than ever into the Karachi underworld as Hamza Ali Mazari.",
     "img": "https://static.toiimg.com/photo/msid-129817383,imgsize-49360.cms",
     "src": "indiatimes.com",
@@ -619,15 +709,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/toll-system-in-strait-of-hormuz-iran-drafts-bill-to-charge-ships-for-safe-passage-amid-war/articleshow/129815616.cms",
     "time": "2026-03-26T06:01:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Friendly nations' only: Iran allows India, Pakistan, 3 other countries to use Strait of Hormuz amid war",
-    "desc": "Iran has opened the Strait of Hormuz for friendly nations like India, China, Russia, Iraq, and Pakistan. This comes as UN Secretary-General Antonio Guterres urged an end to the conflict and the reopening of the vital waterway. The Strait of Hormuz is a crucial oil route, and its volatility impacts global energy flows amid regional tensions.",
-    "img": "https://static.toiimg.com/photo/msid-129815498,imgsize-514447.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/friendly-nations-only-iran-allows-india-pakistan-3-other-countries-to-use-strait-of-hormuz-amid-war/articleshow/129815391.cms",
-    "time": "2026-03-26T04:26:35.000Z"
   },
   {
     "cat": "Tech",
@@ -817,86 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
     "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
   }
 ];
