@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Chinnaswamy Stadium racing against time to be ready before RCB vs SRH IPL 2026 opener",
+    "desc": "Bengaluru’s M Chinnaswamy Stadium is racing against time to complete the remainder of the infrastructure work and be ready for the IPL 2026 opener between the Royal Challengers Bengaluru and Sunrisers Hyderabad on March 28....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/chinnaswamy-stadium-racing-against-time-to-be-ready-before-rcb-vs-srh-ipl-2026-opener-2026-03-26-1035205",
+    "time": "2026-03-26T12:27:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How many ODIs will India play till mid-2027 as BCCI announces home season schedule?",
+    "desc": "The Board of Control for Cricket in India (BCCI) announced India's 2026-27 home season schedule with some action-packed series lined up. Four teams will be visiting India from September 2026 till the early late early...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-many-odis-will-india-play-till-mid-2027-as-bcci-announces-home-season-schedule-2026-03-26-1035200",
+    "time": "2026-03-26T11:33:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I have not lost what I had': Lewis Hamilton looks to give everything he has for F1 title challenge",
+    "desc": "Lewis Hamilton has turned the fortunes from a dismal 2025 season to an impressive start in 2026 under the new regulations of Formula 1. With his former team, Mercedes, being the trend-setter so far in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/formula-1/i-have-not-lost-what-i-had-lewis-hamilton-looks-to-give-everything-he-has-for-f1-title-challenge-2026-03-26-1035192",
+    "time": "2026-03-26T10:39:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI announce schedule for India's home season, check five Test venues for Australia series",
     "desc": "The Board of Control for Cricket in India (BCCI) confirmed all the venues for India’s upcoming domestic season, in which they will play a five-match Test series against Australia, a three-match ODI series and a...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/obviously-a-blow-losing-a-player-like-yash-dayal-but-we-have-three-excellent-options-rcb-s-mo-bobat-2026-03-26-1035114",
     "time": "2026-03-26T02:43:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch Pakistan Super League on TV and stream online in India? Check full squads",
-    "desc": "The Pakistan Super League (PSL) 2026 is set to begin on March 26 with defending champions Lahore Qalandars taking on the new franchise Hyderabad Kingsmen. Under the leadership of Shaheen Afridi, the Qalandars have been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/psl-2026-where-to-watch-pakistan-super-league-on-tv-and-stream-online-in-india-check-full-squads-2026-03-26-1035109",
-    "time": "2026-03-26T01:48:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Prithvi Shaw finds clarity after season away from IPL, eyes fresh start in 2026 edition",
-    "desc": "A return to familiar colours brings renewed purpose for Prithvi Shaw, who is back with Delhi Capitals for IPL 2026 after going unsold in the previous auction cycle. Across the 2023 and 2024 IPL seasons,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/prithvi-shaw-finds-clarity-after-season-away-from-ipl-eyes-fresh-start-in-2026-edition-2026-03-26-1035106",
-    "time": "2026-03-26T01:17:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India to face Pakistan in SAFF U20 Championship in Maldives",
-    "desc": "India are set to face Pakistan in their SAFF U20 Championship on Thursday, March 26, as the rivals will be up against each other at the National Football Stadium in Malé, the capital of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/india-to-face-pakistan-in-saff-u20-championship-in-maldives-2026-03-25-1035098",
-    "time": "2026-03-25T18:19:24.000Z"
   }
 ];

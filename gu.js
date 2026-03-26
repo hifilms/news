@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "શું છે બાબ અલ-મંડેબ સ્ટ્રેટ? કેમ કહેવામાં આવે છે &amp;#039;આંસુઓનો દ્વાર&amp;#039;, ઓઈલના એક-એક ટીપા માટે તરસી જશે દુનિયા; જાણો ઈરાનનો પ્લાન",
+    "desc": "અરબી ભાષામાં 'બાબ અલ-મંડેબ'નો અર્થ 'આંસુઓનો દ્વાર' થાય છે. આ સાંકડો દરિયાઈ માર્ગ લાલ સમુદ્રને એડનની ખાડી અને અરબી સમુદ્ર સાથે જોડે છે. તે યમન (જ્યાં ઈરાન સમર્થિત હૂતી સક્રિય છે) અને હોર્ન ઓફ આફ્રિકા ક્ષેત્ર વચ્ચે સ્થિત છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/explainer-what-is-bab-al-mandeb-strait-why-called-gate-of-tears-iran-oil-blockade-plan-470204 ",
+    "time": "2026-03-26T12:53:33.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ઓછા બજેટમાં મોટી ફેમિલી કાર! આ છે ટોપ-3 સસ્તી 7 સીટર SUVs, જાણો કિંમત અને ફીચર્સ",
+    "desc": "આ 7-સીટર કારમાં તમે તમારા બજેટ હિસાબથી પસંદ કરી શકો છો. જો તમને આરામ અને સારી માઇલેજ જોઈએ તો મારૂતિ અર્ટિગા અને ટોયોટા મરૂયિન સારી છે. જો તમને ડીઝલ એસયુવી અને મજબૂત બિલ્ડ ક્વોલિટી જોઈએ તો બોલેરો નિયો એક સારો વિકલ્પ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/top-3-affordable-7-seater-cars-in-india-list-includes-mahindra-maruti-and-toyota-470200 ",
+    "time": "2026-03-26T12:16:24.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "સાવધાન! યુદ્ધ વચ્ચે ફરી કોરોનાનો પગપેસારો, શું નકામી થઈ જશે તમારી જૂની વેક્સિન? જાણો શું છે નવા લક્ષણો",
+    "desc": "કોરોનાનું નામ સાંભળતા જ આજે પણ લોકો ડરી જાય છે. જો કે, અત્યારે ભારતમાં લોકો આ બાબતે નિશ્ચિંત છે, પરંતુ એકવાર ફરી કોવિડના નવા વેરિએન્ટે અન્ય દેશોમાં દસ્તક આપી દીધી છે. ચાલો જાણીએ તેના વિશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/corona-returns-will-your-previous-vaccine-become-useless-know-what-the-symptoms-are-this-time-470199 ",
+    "time": "2026-03-26T12:05:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "17 શહેર, 22 મેચ... BCCIએ જાહેર કર્યું ટીમ ઈન્ડિયાનું હોમ શેડ્યૂલ, જાણો અમદાવાદમાં ક્યારે ક્યારે છે મેચ",
+    "desc": "BCCIએ ટીમ ઈન્ડિયાની ઘરેલુ સિઝન 2026-27નું શેડ્યૂલ જાહેર કર્યું છે. આ ઘરેલું સિઝન દરમિયાન ભારતીય ટીમ 17 શહેરોમાં 22 મેચ રમશે. ત્યારે આ દરમિયાન ભારત અમદાવાદમાં કેટલી મેચો રમશે અને ક્યારે ક્યારે રમશે ? તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bcci-announces-team-india-home-season-schedule-470198 ",
+    "time": "2026-03-26T11:50:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું ફરી લાગશે લોકડાઉન? પેટ્રોલ-ડીઝલ ખૂટી જવાની અફવાઓ વચ્ચે સરકારે કર્યા 5 મોટા ખુલાસા! તમને ડર હોય તો જાણી લેજો",
+    "desc": "દેશમાં પેટ્રોલ-ડીઝલની અછતની અફવાઓ અને ગેસ સિલિન્ડર માટે લાઈનો વચ્ચે આજે સરકારે મોટો ખુલાસો કર્યો છે. સરકારે એક એક આંકડાઓ આપીને જણાવ્યું છે કે ભારત પાસે પૂરતો પૂરવઠો છે અને કોઈ પણ પ્રકારની અછત નથી. સરકારે આ મામલે 5 મોટા ખુલાસા કર્યા છે. સરકારે એ પણ કહ્યું છે કે દેશમાં 2 મહિનાનો પેટ્રોલ અને ડીઝલનો એક મહિના માટે ગેસનો સ્ટોક એડવાન્સમાં છે. જાણો સરકારે શું શું ખુલાસાઓ કર્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/will-lockdown-again-amidst-rumors-of-petrol-diesel-shortage-government-5-big-revelations-470192 ",
+    "time": "2026-03-26T11:30:58.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "શું ખરેખર ખાલી થવાના છે પેટ્રોલ પંપ? અનેક શહેરોમાં લાગ્યા &amp;#039;No Stock&amp;#039; ના બોર્ડ, જાણો અછતની શું છે હકીકત",
     "desc": "દેશના અનેક રાજ્યોમાં પેટ્રોલ-ડીઝલ અને LPGની અછતની અફવાઓ બાદ ગભરાટમાં ખરીદી (Panic Buying) શરૂ થઈ ગઈ છે. અનેક પેટ્રોલ પંપ પર 'નો સ્ટોક' ના બોર્ડ લાગી ગયા છે. પરંતુ બે દિવસ બાદ સ્થિતિ નોર્મલ થઈ ચૂકી છે.",
@@ -414,15 +459,6 @@ const newsData_gu = [
     "time": "2026-03-24T04:04:12.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran-Israel US War: ભયાનક થશે યુદ્ધ? ઈરાન-ઈઝરાયેલ અમેરિકાના યુદ્ધમાં હવે આ દેશો પણ મોરચો માંડશે",
-    "desc": "અમેરિકા અને ઈઝરાયેલના ઈરાન સાથેના યુદ્ધમાં હવે બીજા દેશો પણ ઝંપ લગાવે તેવા અહેવાલ સામે આવી રહ્યા છે. એકબાજુ જ્યાં અમેરિકા ઈરાન સાથે યુદ્ધનો અંત આવે તેવી વાતચીત કરવાનો દાવો કરે છે ત્યાં આ દેશો મોરચો માંડે એનો શું અર્થ તારવી શકાય?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/will-these-countries-also-be-involved-in-the-iran-israel-america-war-what-wsj-reports-469885 ",
-    "time": "2026-03-24T03:43:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "કેન્દ્રીય કર્મચારીઓની લાગશે લોટરી! બમ્પર પગાર વધારા સાથે મળી શકે છે ₹15 લાખ સુધી એરિયર્સ, સમજો કેલ્ક્યુલેશન",
     "desc": "8મા પગાર પંચમાં પગાર વધારાની આખી રમત ફિટમેન્ટ ફેક્ટર (Fitment Factor) પર નિર્ભર કરે છે. હાલમાં સરકારે 8મા પગાર પંચની તારીખ ફાઈનલ કરી નથી, પરંતુ એવું માનવામાં આવે છે કે, તે 1 જાન્યુઆરી 2026થી લાગુ થઈ શકે છે.",
@@ -432,15 +468,6 @@ const newsData_gu = [
     "time": "2026-03-23T17:15:49.000Z"
   },
   {
-    "cat": "World",
-    "title": "ઈરાન યુદ્ધ પર ટ્રમ્પનું સૌથી મોટું નિવેદન, આટલા સમયમાં થઈ શકે છે યુદ્ઘવિરામ, જાણો",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે એક મહત્વપૂર્ણ નિવેદન આપ્યું છે, જેમાં કહેવામાં આવ્યું છે કે ઈરાન સાથે યુદ્ધવિરામ થઈ શકે છે. સોમવારે ખાનગી ન્યુઝ ચેનલ સાથે વાત કરતા ટ્રમ્પે કહ્યું કે ઈરાન ડીલ માટે ઉત્સુક છે અને આટલા દિવસ કે તેથી ઓછા સમયમાં ડીલ થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/donald-trump-biggest-statement-on-iran-war-ceasefire-can-happen-in-this-much-time-know-469852 ",
-    "time": "2026-03-23T13:50:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ધુરંધર 2 જોયા પછી, લોકો સાંભળી રહ્યા છે સની દેઓલની ફિલ્મનું આ ગીત, શું તમને પણ આવી હતી યાદ ?",
     "desc": "ધુરંધર 2 ના ઘણા ગીતો તમને 90ના દાયકામાં પાછા લઈ જાય છે. આવા એક ગીતમાં ઘણા લોકો યુટ્યુબ પર સની દેઓલની જૂની ફિલ્મના ગીતો સાંભળે છે. જાણો કે શું તમને ફિલ્મ જોતી વખતે તે યાદ પણ આવ્યા છે?",
@@ -448,24 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/after-watching-dhurandhar-2-people-are-listening-to-this-song-from-sunny-deol-film-did-you-also-remember-it-469851 ",
     "time": "2026-03-23T13:31:37.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "મિડિલ ઇસ્ટમાં શાંતિના સંકેત! ઈરાનની ધમકી બાદ &amp;#039;5 દિવસનો બ્રેક&amp;#039;, ટ્રમ્પના &amp;#039;યુ-ટર્ન&amp;#039; પાછળનું શું છે સાચું સત્ય?",
-    "desc": "મિડિલ ઇસ્ટમાં ચાલી રહેલા તણાવ વચ્ચે એક સારા સમાચાર સામે આવ્યા છે. અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે સંકેત આપ્યો છે કે, વોશિંગ્ટન અને તેહરાન વચ્ચે મધ્ય પૂર્વમાં ચાલી રહેલા સંઘર્ષને સંપૂર્ણપણે સમાપ્ત કરવા માટે 'ખૂબ જ સારી અને સાર્થક વાતચીત' શરૂ થઈ ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/signs-of-peace-in-the-middle-east-5-day-break-after-iran-threat-what-is-the-real-truth-behind-trump-u-turn-469844 ",
-    "time": "2026-03-23T13:13:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "LPG સંકટ વચ્ચે, સરકારેનો એક મોટો નિર્ણય, પહેલા આ લોકોને આપવામાં આવશે સિલિન્ડર, જાણો",
-    "desc": "દેશમાં હાલમાં LPGની તકલીફ ચાલી રહી છે, લોકોને સિલિન્ડર મળી રહ્યા નથી, ત્યારે સરકારે આ લોકો માટે મોટો નિર્ણય લીધો છે અને આ લોકોને પ્રાયોરિટીમાં ગેસ આપવાનો નિર્ણય કર્યો છે. તેથી તેમને રસોઈ બનાવવામાં કોઈ તકલીફ ન પડે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/amidst-the-lpg-crisis-a-big-decision-by-the-government-cylinders-will-be-given-to-these-people-first-know-469843 ",
-    "time": "2026-03-23T13:08:40.000Z"
   },
   {
     "cat": "Sports",
@@ -493,33 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-saurabh-dubey-as-replacement-for-akash-deep-for-kkr-469765 ",
     "time": "2026-03-23T05:41:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ભારત અને ઓસ્ટ્રેલિયા વચ્ચે ક્યારે રમાશે ટેસ્ટ સિરીઝ? ક્રિકેટ ઓસ્ટ્રેલિયાએ શેડ્યૂલ કર્યું જાહેર",
-    "desc": "ક્રિકેટ ઓસ્ટ્રેલિયા (CA)એ રવિવારે 2026-27ના ઇન્ટરનેશનલ સમર માટે શેડ્યૂલની જાહેરાત કરી છે. આ આઠ મહિના દરમિયાન 14 વેન્યુ પર કુલ 27 મેચો રમાશે. જેની શરૂઆત ઓગસ્ટમાં બાંગ્લાદેશ સામેની બે ટેસ્ટ મેચોથી થશે અને સમાપન આવતા વર્ષે માર્ચમાં મેલબોર્ન ક્રિકેટ ગ્રાઉન્ડ ખાતે ઇંગ્લેન્ડ સામેની ઐતિહાસિક 150મી એનિવર્સરી ટેસ્ટ મેચ સાથે થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-vs-australia-test-series-schedule-border-gavaskar-trophy-469744 ",
-    "time": "2026-03-22T17:35:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL પહેલા મુંબઈ ઈન્ડિયન્સ મુશ્કેલીમાં? હાર્દિકે કેપ્ટન પદ છોડવાની  આપી સલાહ, જાણો સંપૂર્ણ મામલો",
-    "desc": "મુંબઈ ઈન્ડિયન્સની કેપ્ટનશીપ પર એક નવી ચર્ચા શરૂ થઈ છે. શ્રીકાંતે હાર્દિક પંડ્યાને કેપ્ટનશીપ છોડીને આ ખેલાડિને સોંપવાની સલાહ આપી છે. તેમણે આ માટે અનેક દલીલો પણ રજૂ કરી છે. નોંધનીય છે કે હાર્દિકને ગુજરાતથી લાવવામાં આવ્યો હતો અને મુંબઈની કેપ્ટનશીપ આપવામાં આવી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/mumbai-indians-in-trouble-before-ipl-hardik-advised-to-step-down-as-captain-know-the-full-story-469741 ",
-    "time": "2026-03-22T16:00:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "હું સોશિયલ મીડિયાનો પંચિંગ બેગ... શું રિષભ પંત છોડી રહ્યો છે લખનૌની ટીમ? સંજીવ ગોયનકાએ તોડ્યું મૌન!",
-    "desc": "IPLની ગત સીઝન લખનૌ સુપર જાયન્ટ્સ (LSG) માટે ખૂબ જ ખરાબ રહી હતી. તેમાં પણ સૌથી વધુ નિશાના પર ટીમનો કેપ્ટન રિષભ પંત રહ્યો હતો, જેનું બેટ આખી સીઝન શાંત રહ્યું હતું અને તેની કેપ્ટનશીપ પર પણ સવાલો ઉઠ્યા હતા. લખનૌએ તેને 27 કરોડની માતબર રકમ આપીને પોતાની સાથે જોડ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/i-am-the-punching-bag-of-social-media-rishabh-pant-leaving-the-lucknow-team-sanjiv-goenka-breaks-his-silence-469724 ",
-    "time": "2026-03-22T14:28:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -718,14 +700,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/top-selling-car-maruti-suzuki-dzire-become-peoples-favourite-price-starts-626000-468378 ",
     "time": "2026-03-13T07:24:33.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "સાવધાન! જૂના iPhone યુઝર્સ માટે સૌથી મોટો ખતરો, Apple એ જાહેર કર્યું ઇમરજન્સી અપડેટ",
-    "desc": "Apple એ લગભગ એક દાયકા જૂના iPhone અને iPad માટે પણ નવું સિક્યોરિટી અપડેટ જાહેર કર્યું છે. જો તમારી પાસે પણ જૂનો iPhone હોય, તો તેને તરત જ અપડેટ કરવો અત્યંત જરૂરી છે. ચાલો જાણીએ કેવી રીતે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/major-threat-for-older-iphone-users-apple-issues-emergency-update-468351 ",
-    "time": "2026-03-13T04:49:00.000Z"
   }
 ];
