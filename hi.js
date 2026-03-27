@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'I don't think I have anything to prove': GT skipper Shubman Gill oozes confidence ahead of IPL 2026",
+    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026. The marquee event is all set to kick off on March 28, and ahead of the tournament, the 10 franchises...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-don-t-think-i-have-anything-to-prove-gt-skipper-shubman-gill-oozes-confidence-ahead-of-ipl-2026-2026-03-27-1035252",
+    "time": "2026-03-27T01:40:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'My journey ends here'",
     "desc": "Carolina Marin, one of badminton’s greatest players, has announced her retirement due to a persistent knee injury, ending a remarkable career that included an Olympic gold medal and three World Championship titles. Marin won the gold...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/formula-1/i-have-not-lost-what-i-had-lewis-hamilton-looks-to-give-everything-he-has-for-f1-title-challenge-2026-03-26-1035192",
     "time": "2026-03-26T10:39:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI announce schedule for India's home season, check five Test venues for Australia series",
-    "desc": "The Board of Control for Cricket in India (BCCI) confirmed all the venues for India’s upcoming domestic season, in which they will play a five-match Test series against Australia, a three-match ODI series and a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announce-schedule-for-india-s-home-season-check-five-test-venues-for-australia-series-2026-03-26-1035181",
-    "time": "2026-03-26T09:27:41.000Z"
   }
 ];
