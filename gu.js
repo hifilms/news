@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "પાકિસ્તાનની ગજબ બેઇજ્જતી ! PSLમાં ચાલુ મેચે બદલાઈ ગયો બોલનો રંગ, કારણ જાણીને ચોંકી જશો",
+    "desc": "પાકિસ્તાન સુપર લીગ 2026ની પહેલી જ મેચ દરમિયાન PCBની જોરદાર મજાક ઉડી હતી. લાહોર કલંદર્સ અને હૈદરાબાદ કિંગ્સમેન વચ્ચેની મેચ દરમિયાન બોલનો રંગ અચાનક બદલાઈ ગયો હતો. સફેદ બોલ ગુલાબી થઈ ગયો હતો. ત્યારે આવું કેવી રીતે થયું તે અંગે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/psl-2026-ball-color-change-white-turns-to-pink-know-why-470266 ",
+    "time": "2026-03-27T06:36:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Petrol-Diesel Rate: એક્સાઈઝ ડ્યૂટીમાં 10 રૂપિયાનો તોતિંગ ઘટાડો, શું ઘટશે પેટ્રોલ-ડીઝલના ભાવ? જાણો જવાબ",
+    "desc": "કેન્દ્ર સરકારે આજે પેટ્રોલ અને ડીઝલમાં એક્સાઈઝ ડ્યૂટીમાં ભારે ઘટાડો કર્યો જેના પગલે એવો પણ સવાલ થઈ રહ્યો છે કે શું પેટ્રોલ ડીઝલના ભાવમાં ઘટાડો થશે? કારણ કે સામાન્ય રીતે એક્સાઈસ ડ્યૂટીમાં ઘટાડો થાય તો ભાવ ઘટતા હોય છે. જાણો સરકારે શું જવાબ આપ્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/excise-duty-on-petrol-diesel-cut-by-10-rs-will-prices-come-down-know-what-govt-says-470264 ",
+    "time": "2026-03-27T06:31:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "મિડલ ઈસ્ટમાં યુદ્ધને પગલે ગંભીર બની સ્થિતિ, આ દેશે જાહેર કરી ઉર્જા કટોકટી, માત્ર 45 દિવસ ચાલે એટલો પુરવઠો",
+    "desc": "ઈરાન અને ઈઝરાયેલ અમેરિકા યુદ્ધની હવે ધીરે ધીરે અન્ય દેશો પર અસર જોવા મળી રહી છે. જેનો સૌથી વધુ ભોગ એશિયાઈ દેશો બની રહ્યા છે. ફિલિપાઈન્સ પહેલો એવો દેશ બન્યો છે જેણે દેશમાં ઉર્જા કટોકટી જાહેર કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-israel-us-war-effect-philippines-declared-energy-emergency-world-news-in-gujarati-470256 ",
+    "time": "2026-03-27T05:48:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું ભારતમાં લાગશે લોકડાઉન? સરકારે શું કહ્યું તે ખાસ જાણો, આજે PM મોદીની મુખ્યમંત્રીઓ સાથે મહત્વની બેઠક",
+    "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદીએ હાલમાં જ મિડલ ઈસ્ટમાં યુદ્ધ જેવી સ્થિતિ પર લોકસભા અને રાજ્યસભામાં સંબોધન કર્યું હતું. જેમાં તેમણે કહ્યું હતું કે આ સંકટનો પ્રભાવ લાંબા સમય સુધી રહી શકે છે. આથી આપણે તેનો સામનો કોરોના સંકટ સમયે જે રીતે કર્યો હતો તે રીતે કરવો પડશે. સોશિયલ મીડિયામાં લોકડાઉન પછી ચર્ચામાં આવ્યું. સરકારે તેના વિશે શું કહ્યું અને આજે કઈ મહત્વની બેઠક છે તેના વિશે પણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/iran-israel-us-war-what-government-says-on-lockdown-like-situation-important-meeting-today-470247 ",
+    "time": "2026-03-27T05:13:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું છે &amp;#039;એનર્જી લોકડાઉન&amp;#039;? શું તેમાં કોરોના જેવા કડક પ્રતિબંધ લાગી શકે, જાણી લો સત્ય",
+    "desc": "મિડલ ઈસ્ટ તણાવ વચ્ચે એનર્જી લોકડાઉન શબ્દ ચર્ચામાં છે. ક્રૂડ ઓયલ સપ્લાયમાં સમસ્યા આવવાથી ઘણા દેશ ઉર્જા બચાવવા માટે પ્રતિબંધ લગાવી રહ્યાં છે. પરંતુ આ કોવિડ જેવું લોકડાઉન નથી. ભારતમાં આવા પ્રતિબંધની કોઈ યોજના નથી. સરકાર સપ્લાય અને કિંમતોને સ્થિર રાખવા પર ધ્યાન આપી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-is-energy-lockdown-and-will-countries-impose-restrictions-amid-global-crude-oil-crisis-470248 ",
+    "time": "2026-03-27T05:09:14.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "42 હજાર ટન LPG લઈને આવેલું &amp;#039;જગ વસંત&amp;#039; નામનું જહાજ હોર્મુઝ થઈને કંડલા બંદર પહોંચ્યું",
     "desc": "દેશમાં તોળાઈ રહેલા ઉર્જા સંકટ વચ્ચે એક મોટી રાહતના સમાચાર આવ્યા છે. જગ વસંત નામનું એલપીજી ટેન્કર ગુજરાતના કંડલા બંદરે પહોંચી ગયુ છે. આ જહાજ હોર્મુઝ જળમાર્ગથી ભારત આવ્યું. ઈરાને ગણ્યા ગાંઠ્યા દેશોના જહાજોને હોર્મુઝમાંથી પસાર થવાની મંજૂરી આપેલી છે જેમાં ભારત પણ સામેલ છે.",
@@ -351,15 +396,6 @@ const newsData_gu = [
     "time": "2026-03-25T06:40:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "શું ફરી હિન્દુ ધર્મ અપનાવવાથી મળે શકે છે SCનો દરજ્જો ? સુપ્રીમ કોર્ટનો મોટો ચુકાદો",
-    "desc": "પાદરી સી. આનંદે 2021માં ભારતીય દંડ સંહિતા અને SC/ST કાયદાની કલમોનો ઉલ્લેખ કરીને એ.આર. રેડ્ડી નામના વ્યક્તિ સામે ફોજદારી કેસ દાખલ કર્યો હતો. આનંદનો જન્મ અનુસૂચિત જાતિમાં થયો હતો પરંતુ બાદમાં તે ખ્રિસ્તી ધર્મ અપનાવી લીધો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/can-one-get-sc-status-by-converting-to-hinduism-again-supreme-courts-big-verdict-470031 ",
-    "time": "2026-03-25T04:39:13.000Z"
-  },
-  {
     "cat": "World",
     "title": "દુનિયામાં પરમાણુ યુદ્ધનો ખતરો? શું સાચી પડવાની છે બાબા વેંગાની આ ડરામણી ભવિષ્યવાણી?",
     "desc": "અમેરિકા, ઈઝરાયેલ અને ઈરાન વચ્ચે ચાલી રહેલા યુદ્ધે ખતરનાક સ્વરૂપ ધારણ કર્યું છે. હવે દુનિયા પર પરમાણુ યુદ્ધના વાદળો મંડરાઈ રહ્યા છે. આ સ્થિતિ વચ્ચે સોશિયલ મીડિયા પર બાબા વેંગાની ડરામણી ભવિષ્યવાણી વાયરલ થઈ રહી છે.",
@@ -367,24 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/us-israel-iran-war-is-there-a-threat-of-nuclear-war-in-the-world-is-this-scary-prophecy-of-baba-venga-coming-true-469994 ",
     "time": "2026-03-24T17:08:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ધર્મ પરિવર્તન કરીને તમે ઈસાઈ કે મુસ્લિમ બન્યા તો.... સુપ્રીમે આપ્યો ઐતિહાસિક ચૂકાદો",
-    "desc": "સુપ્રીમ કોર્ટે મંગળવારે એક ઐતિહાસિક ચૂકાદો આપતા સ્પષ્ટ કર્યું છે કે, હિન્દુ, શીખ અથવા બૌદ્ધ ધર્મ સિવાયનો અન્ય ધર્મ પાળતી વ્યક્તિ અનુસૂચિત જાતિ (SC) ના સભ્ય તરીકે ગણાઈ શકે નહીં. કોર્ટે સ્પષ્ટ કર્યું કે આ વ્યક્તિ એસસી/ એસટી એક્ટ હેઠળ સુરક્ષાનો દાવો કરી શકે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/if-you-convert-to-christianity-or-islam-you-will-lose-your-sc-status-supreme-court-gives-historic-verdict-469983 ",
-    "time": "2026-03-24T15:16:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "હોર્મુઝ પાર કરવા માટે ભારતીય જહાજને ચૂકવવી પડી હતી ચીની કરન્સી? ભારત સરકારે આપ્યો જવાબ",
-    "desc": "તાજેતરમાં, સોશિયલ મીડિયા પર એક દાવો વાયરલ થયો હતો કે એક ભારતીય ટેન્કરને હોર્મુઝ સ્ટ્રેટ પાર કરવા માટે ટ્રાન્ઝિટ ફી ચૂકવવી પડી હતી, અને તે પણ ચીની ચલણ, યુઆનમાં. ભારત સરકારે આ દાવાઓ પર પોતાની પ્રતિક્રિયા આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/did-indian-ship-have-to-pay-chinese-currency-to-cross-hormuz-indian-government-gave-reply-469973 ",
-    "time": "2026-03-24T14:06:44.000Z"
   },
   {
     "cat": "Business",
@@ -442,15 +460,6 @@ const newsData_gu = [
   },
   {
     "cat": "World",
-    "title": "&amp;#039;જો અમેરિકા પાકિસ્તાન પર હુમલો કરશે તો અમે દિલ્હી-મુંબઈને નિશાન બનાવીશું&amp;#039;, જાણો કોને આપી ભારતને ધમકી?",
-    "desc": "મધ્ય ઈસ્ટમાં ચાલી રહેલા યુદ્ધ વચ્ચે ભૂતપૂર્વ પાકિસ્તાની રાજદ્વારી અબ્દુલ બાસિતે ભારત વિરુદ્ધ ઝેર ઓક્યું છે. પાકિસ્તાનના પૂર્વ રાજદ્વારી અબ્દુલ બાસિતે ભારત વિરુદ્ધ ઉશ્કેરણીજનક નિવેદન આપ્યું છે. તેમણે કહ્યું કે જો અમેરિકા પાકિસ્તાનના પરમાણુ કાર્યક્રમને નિશાન બનાવશે, તો પાકિસ્તાન પાસે દિલ્હી અને મુંબઈ જેવા ભારતીય શહેરો પર હુમલો કરવા સિવાય બીજો કોઈ વિકલ્પ રહેશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/if-america-attacks-pakistan-we-will-target-delhi-and-mumbai-former-pakistani-ambassador-issues-a-hollow-threat-to-india-469903 ",
-    "time": "2026-03-24T07:52:23.000Z"
-  },
-  {
-    "cat": "World",
     "title": "યુદ્ધ વચ્ચે અમેરિકાને કેમ જરૂર પડી નેગોશિએટિંગ પાર્ટનરની, ઈરાની નેતા Mohammad-Bagher Ghalibaf કરશે ઈચ્છા પૂરી?",
     "desc": "ઈરાન સાથે યુદ્ધ છેડીને જાણે અમેરિકા માટે આ બેલ મુજે માર જેવી સ્થિતિ પેદા થઈ ગઈ છે. સૂત્ર મુજબ અમેરિકા ઈચ્છે છે કે ઈરાનમાં પોતાને મનપંસદ વ્યક્તિ સત્તા પર બિરાજમાન થાય. નેગોશિએશન માટે હવાતીયા પણ મારી રહ્યું છે. જેમાં ઈરાનની સંસદના સ્પીકર ઉપર પણ નજર છે. ખાસ જાણો તેમના વિશે અને શું છે અમેરિકાના મનમાં?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -486,15 +495,6 @@ const newsData_gu = [
     "time": "2026-03-24T04:04:12.000Z"
   },
   {
-    "cat": "Business",
-    "title": "કેન્દ્રીય કર્મચારીઓની લાગશે લોટરી! બમ્પર પગાર વધારા સાથે મળી શકે છે ₹15 લાખ સુધી એરિયર્સ, સમજો કેલ્ક્યુલેશન",
-    "desc": "8મા પગાર પંચમાં પગાર વધારાની આખી રમત ફિટમેન્ટ ફેક્ટર (Fitment Factor) પર નિર્ભર કરે છે. હાલમાં સરકારે 8મા પગાર પંચની તારીખ ફાઈનલ કરી નથી, પરંતુ એવું માનવામાં આવે છે કે, તે 1 જાન્યુઆરી 2026થી લાગુ થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/central-employees-will-feel-like-lottery-along-with-bumper-salary-hike-arrears-up-to-15-lakh-can-be-received-469874 ",
-    "time": "2026-03-23T17:15:49.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ધુરંધર 2 જોયા પછી, લોકો સાંભળી રહ્યા છે સની દેઓલની ફિલ્મનું આ ગીત, શું તમને પણ આવી હતી યાદ ?",
     "desc": "ધુરંધર 2 ના ઘણા ગીતો તમને 90ના દાયકામાં પાછા લઈ જાય છે. આવા એક ગીતમાં ઘણા લોકો યુટ્યુબ પર સની દેઓલની જૂની ફિલ્મના ગીતો સાંભળે છે. જાણો કે શું તમને ફિલ્મ જોતી વખતે તે યાદ પણ આવ્યા છે?",
@@ -520,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/mamta-kulkarni-goa-video-mamta-kulkarni-modern-look-viral-enjoying-vacation-in-goa-469767 ",
     "time": "2026-03-23T06:15:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઓક્શનમાં ના પૂછ્યો કોઈએ ભાવ, હવે ચમક્યું કિસ્મત, આ ઘાતક બોલરની અચાનક KKRમાં એન્ટ્રી",
-    "desc": "IPL 2026 પહેલા KKR ટીમમાં એક ફાસ્ટ બોલરની અચાનક એન્ટ્રી થઈ છે. આ બોલર ઈજાગ્રસ્ત આકાશ દીપનું સ્થાન લેવા માટે તૈયાર છે. આ મેગા ઈવેન્ટ પહેલા યોજાયેલ મિની ઓક્શનમાં કોઈએ આ ખેલાડીને ખરીદવામાં રસ દાખવ્યો નહોતો. ત્યારે હવે અચાનક તેનું કિસ્મત ચમક્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-saurabh-dubey-as-replacement-for-akash-deep-for-kkr-469765 ",
-    "time": "2026-03-23T05:41:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -682,15 +673,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/electric-car-discount-mg-comet-ev-discount-rs-60000-in-march-2026-468540 ",
     "time": "2026-03-14T08:58:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "1, 2 નહીં ઓટીટી પર આ વીકમાં જોવા જેવી છે 6 ફિલ્મો અને વેબ સીરીઝ, ચેક કરી લો લિસ્ટ",
-    "desc": "શનિ-રવિમાં પરિવાર સાથે ઓટીટી પર નવી નવી ફિલ્મો અને વેબ સીરીઝ જોવાનો શોખ ધરાવતા લોકો માટે આ જાણકારી ખાસ છે. માર્ચ મહિનાના આ વીકમાં ઓટીટી પર 6 ફિલ્મો અને વેબ સીરીઝ રિલીઝ થઈ છે જે તમે વીકેન્ડમાં પરિવાર સાથે જોઈ શકો છો. તો ફટાફટ ચેક કરી લો આ લિસ્ટ અને નક્કી કરી લો તમે શું જોવાના છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/ott-release-march-2026-weekend-release-on-netflix-hotstar-and-amazon-sankalp-zootopia-2-468526 ",
-    "time": "2026-03-14T06:46:22.000Z"
   },
   {
     "cat": "Tech",

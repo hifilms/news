@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Aryna Sabalenka storms into Miami Open 2026 final, sets up summit clash against Coco Gauff",
+    "desc": "The stage is set for the final of the Miami Open 2026. Belarus’ Aryna Sabalenka will be taking on the USA’s Coco Gauff in the summit clash of the tournament. The two stars will face...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-storms-into-miami-open-2026-final-sets-up-summit-clash-against-coco-gauff-2026-03-27-1035285",
+    "time": "2026-03-27T06:27:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'One of the most powerful partnerships': R Ashwin gives his take on CSK's potential opening combination",
+    "desc": "Five-time IPL (Indian Premier League) champions Chennai Super Kings will be one of the sides whose performances could be the most anticipated as the 19th edition of the tournament kicks off. It is worth noting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/one-of-the-most-powerful-partnerships-r-ashwin-gives-his-take-on-csk-s-potential-opening-combination-2026-03-27-1035276",
+    "time": "2026-03-27T05:40:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Teenage superstar set for another stellar IPL season? Check stats",
     "desc": "India’s young teenage sensation, Vaibhav Sooryavanshi, turns 15 years old on March 27, 2026. The youngster garnered attention through his performances in the IPL (Indian Premier League) 2025 and for India U19 after that. Born...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/what-are-ipl-2026-groups-check-where-mi-csk-and-rcb-are-placed-2026-03-26-1035232",
     "time": "2026-03-26T15:19:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Check defending champions' complete fixtures for upcoming season here",
-    "desc": "The Board of Control for Cricket in India (BCCI) finally announced the schedule for the second phase of the Indian Premier League 2026. The second phase will see matches running from April 13 to May...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-ipl-2026-full-schedule-check-defending-champions-complete-fixtures-for-upcoming-season-here-2026-03-26-1035228",
-    "time": "2026-03-26T14:39:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistani league kicks off at Gaddafi Stadium",
-    "desc": "The PSL 2026 season kicks off with an exciting clash as Lahore Qalandars take on Hyderabad Kingsmen at the iconic Gaddafi Stadium in Lahore. With a fresh season comes renewed hopes, and both teams will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lahore-qalandars-vs-hyderabad-kingsmen-psl-2026-live-score-pakistan-super-league-gaddafi-stadium-latest-match-updates-scorecard-teams-2026-03-26-1035216",
-    "time": "2026-03-26T13:29:54.000Z"
   }
 ];

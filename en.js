@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Excise cuts won't change fuel price, relief only in narrative: Congress claims",
+    "desc": "Pawan Khera pointed out that these companies have been absorbing losses since the outbreak of the conflict in West Asia; \"The government has now merely agreed to share a small part of that burden but reducing the 'special additional' levy - that too almost a month later,\" the Congress leader said.",
+    "img": "https://th-i.thgim.com/public/incoming/yzdjmu/article70791514.ece/alternates/LANDSCAPE_1200/_NGP5699.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/excise-cuts-wont-change-fuel-price-relief-only-in-narrative-congress-claims/article70791490.ece",
+    "time": "2026-03-27T06:53:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Dupatta gali se color karwaya hai': Kamran Akmal roasts PSL for jersey color",
+    "desc": "The Pakistan Super League's 2026 season kicked off with a bizarre incident where the white match ball turned pink due to color transfer from the Hyderabad Kingsmen's jerseys. Former cricketer Kamran Akmal heavily criticized the league over the poor-quality kits, while captain Marnus Labuschagne expressed his bewilderment at the unprecedented event.",
+    "img": "https://static.toiimg.com/photo/msid-129840535,imgsize-733023.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dupatta-gali-se-color-karwaya-hai-kamran-akmal-roasts-psl-over-jersey-color-fiasco/articleshow/129840470.cms",
+    "time": "2026-03-27T06:43:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alex Warren dedicates award to late parents",
+    "desc": "In a heartfelt moment at the iHeartRadio Music Awards, Alex Warren was celebrated as the Breakthrough Artist, charming the audience with his poignant acceptance speech. He paid tribute to his beloved parents, emphasizing the importance of self-belief among fans facing life's challenges.",
+    "img": "https://static.toiimg.com/photo/msid-129840399,imgsize-96594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/alex-warren-dedicates-artist-of-the-year-win-to-late-parents-at-2026-iheartradio-music-awards-i-know-youre-watching/articleshow/129840399.cms",
+    "time": "2026-03-27T06:38:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar: The Revenge' BO day 9 [LIVE]: Ranveer Singh film inches closer to netting Rs. 700 crore",
+    "desc": "The Revenge', shows no signs of slowing down as it enters its high-stakes second weekend. Starring Ranveer Singh as the covert spy Hamza, the film has officially joined the elite Rs. 1,000 crore global club in just nine days, matching the record-shattering pace of Allu Arjun starrer 'Pushpa 2.' The sequel is now poised to surpass the Rs. 894.49 crore lifetime record set by the original 2025 released 'Dhurandhar.'",
+    "img": "https://static.toiimg.com/photo/msid-129839191,imgsize-55350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/url-dhurandhar-2-the-revenge-box-office-collection-day-9-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-r-madhavan-starrer-spy-thriller-inches-closer-to-netting-rs-700-crore-in-india-chases-rs-840-crore-lifetime-record-of-dhurandhar-1/articleshow/129839191.cms",
+    "time": "2026-03-27T06:35:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parliament panel calls for preserving British-era heritage sites not under ASI ambit",
+    "desc": "The committee has recommended that the Ministry of Culture \"prepare an inventory of non-ASI heritage structures at risk, in coordination with state governments\" and also ensure protection of the architectural heritage component, under the proposed new infrastructure scheme, specifically addressing 100-200 year-old facades and structures",
+    "img": "https://th-i.thgim.com/public/incoming/4flbms/article70791464.ece/alternates/LANDSCAPE_1200/iStock-2256438097.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/parliament-panel-calls-for-preserving-british-era-heritage-sites-not-under-asi-ambit/article70791396.ece",
+    "time": "2026-03-27T06:33:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Someone attempts to break into Christian Combs and Raven McEachin’s home",
+    "desc": "Authorities responded to an attempted burglary at Christian Combs' home yesterday morning after an intruder tried to force entry through a backyard sliding door. The residents were not present during the incident. This event occurs as Christian's father, Sean 'Diddy' Combs, is serving a prison sentence for a conviction related to prostitution. The investigation into the attempted break-in is ongoing.",
+    "img": "https://static.toiimg.com/photo/msid-129840282,imgsize-129192.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/diddys-son-christian-king-combs-and-raven-tracy-are-safe-after-a-scary-attempted-home-burglary-in-porter-ranch-reports/articleshow/129840282.cms",
+    "time": "2026-03-27T06:33:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Haryana’s cotton farms holding on by a thread",
+    "desc": "The Bt cotton revolution of the early 2000s had farmers in Haryana’s Hisar, Sirsa, Fatehabad, and Jind reaping rewards. Now, the pink bollworm is slashing yields and squeezing profits and the MSP is not enough. As farmers ditch cotton for paddy, the impact is soon likely to be felt by farm labourers, traders, and the economy as a whole, reports Ashok Kumar",
+    "img": "https://th-i.thgim.com/public/incoming/gm2rv5/article70784348.ece/alternates/LANDSCAPE_1200/COTTON%20FARMER%20HARYANA%20SPOTLIGHT%205.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/haryanas-cotton-farms-holding-on-by-a-thread/article70784114.ece",
+    "time": "2026-03-27T06:27:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bailey eyes 'Bridgerton' crown: Halle wants to be the queen",
+    "desc": "Halle Bailey, co-starring with Regé-Jean Page in 'You, Me & Tuscany,' revealed her ideal 'Bridgerton' role isn't a romantic lead. Instead, she desires to portray Queen Charlotte, relishing the power to orchestrate matches and influence the season's events. This preference highlights her interest in authoritative characters beyond typical romantic arcs.",
+    "img": "https://static.toiimg.com/photo/msid-129840206,imgsize-99650.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/halle-bailey-on-why-tuscany-co-star-reg-jean-page-wont-be-a-bridgerton-couple-want-to-be-the-one-who-calls-the-shots/articleshow/129840169.cms",
+    "time": "2026-03-27T06:25:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Explained: The faultlines in DMK’s seat-sharing",
+    "desc": "The DMK wants to contest around 175 seats and cross the majority mark on its own. Chief Minister MK Stalin has insisted that everything is smooth within the alliance. Parties like MNM and VCK have publicly backed the DMK. Though Stalin remains confident, the seat sharing has exposed an undercurrent.",
+    "img": "https://th-i.thgim.com/public/incoming/7p7ggj/article70791427.ece/alternates/LANDSCAPE_1200/TN%20election%20-%20dmk%20alliance.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-explained-the-faultlines-in-dmks-seat-sharing/article70791428.ece",
+    "time": "2026-03-27T06:23:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Expelled IUML leader Irshad arrested, released on bail over derogatory remarks against woman MLA",
+    "desc": "According to police, a case was registered against Irshad based on a complaint by U. Prathibha. He was taken into custody, and his arrest was recorded. As the charges invoked were bailable, he was released on bail",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/c634wm/article70791426.ece/alternates/LANDSCAPE_1200/irshad.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-polls-expelled-iuml-leader-irshad-arrested-released-on-bail-over-derogatory-remarks-against-woman-mla/article70791411.ece",
+    "time": "2026-03-27T06:21:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Massive ruckus in J&amp;K Assembly as NC MLAs protest over killing of Iran's Ali Khamenei",
+    "desc": "National Conference MLAs protested the killing of former Iranian Supreme Leader Ayatollah Khamenei and US-Israel military actions in Iran within the Jammu and Kashmir Assembly. The protest led to a scuffle with BJP MLAs, prompting an adjournment. Chief Minister Omar Abdullah condemned the conflict, stating regime change cannot be achieved through military bombardment.",
+    "img": "https://static.toiimg.com/photo/msid-129840100,imgsize-2712997.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/watch-massive-ruckus-in-jk-assembly-as-nc-mlas-protest-over-killing-of-irans-ali-khamenei/articleshow/129839452.cms",
+    "time": "2026-03-27T05:59:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "To keep fuel prices stable, govt hikes ATF duty, cuts excise on petrol, diesel",
+    "desc": "Amidst the Middle East conflict impacting global oil supplies, India has implemented measures to ensure domestic fuel availability. The government has imposed export duties on diesel and aviation fuel while simultaneously reducing excise duties on petrol and diesel for local consumption, aiming to shield citizens from price hikes.",
+    "img": "https://static.toiimg.com/photo/msid-129839662,imgsize-813006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/to-keep-fuel-prices-stable-govt-hikes-atf-duty-cuts-excise-on-petrol-diesel/articleshow/129838948.cms",
+    "time": "2026-03-27T05:53:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Taylor Lautner's wife Taylor Dome",
+    "desc": "Twilight star Taylor Lautner and his wife, Taylor Dome, are expecting their first child. The couple, who married in 2022, announced the happy news in March 2026. Dome, a registered nurse and influencer, met Lautner through his sister in 2018. Their journey from meeting to parenthood is a heartwarming tale.",
+    "img": "https://static.toiimg.com/photo/msid-129839556,imgsize-203700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/who-is-taylor-dome-inside-the-life-of-taylor-lautners-wife-as-the-couple-prepares-to-welcome-their-first-child-together/articleshow/129839556.cms",
+    "time": "2026-03-27T05:43:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S.-Israel-Iran war: List of countries allowed to cross the Strait of Hormuz",
+    "desc": "Global oil and gas prices have surged after Iran virtually blocked the Strait of Hormuz, a narrow shipping lane between the Persian Gulf and the Gulf of Oman, that handles roughly 20 per cent of global oil and LNG (Liquefied Natural Gas).",
+    "img": "https://th-i.thgim.com/public/incoming/dgru8d/article70789059.ece/alternates/LANDSCAPE_1200/2026-03-24T161018Z_1901368334_RC23BKA3KAX9_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-israel-iran-war-list-of-countries-allowed-to-cross-the-strait-of-hormuz/article70791104.ece",
+    "time": "2026-03-27T05:39:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Now officially eligible, is India senior next?",
+    "desc": "Vaibhav Sooryavanshi, turning 15 today, is now eligible for senior international cricket after a sensational IPL debut. His record-breaking performances, including a 35-ball century and U19 World Cup heroics, have positioned him as a top prospect. Selectors are watching closely as he could soon represent India's senior men's team.",
+    "img": "https://static.toiimg.com/photo/msid-129839483,imgsize-54564.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/vaibhav-sooryanshi-turns-15-now-officially-eligible-is-india-senior-debut-next/articleshow/129839458.cms",
+    "time": "2026-03-27T05:36:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When 13-year-old Vaibhav Sooryavanshi smashed a 157kph ball for straight six",
+    "desc": "A single, audacious six off extreme pace in a trial session catapulted Vaibhav Sooryavanshi into the cricketing spotlight. The teenage prodigy, who turned 15 in March 27, 2026, has since dominated age-group and senior cricket, even smashing a 35-ball century in IPL 2025. Rajasthan Royals secured him for Rs 1.1 crore, a move that has already proven its worth.",
+    "img": "https://static.toiimg.com/photo/msid-129839427,imgsize-41110.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/when-13-year-old-vaibhav-sooryavanshi-smashed-a-157kph-ball-for-straight-six/articleshow/129839408.cms",
+    "time": "2026-03-27T05:32:17.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Multiple drones strike U.S. embassy in Baghdad",
+    "desc": "The U.S. embassy in Baghdad came under attack early Tuesday, March 17, as drones targeted the heavily fortified compound in Iraq’s capital. Eyewitness footage showed air defence systems firing into the night sky, intercepting incoming drones during what Iraqi security sources described as one of the most intense assaults in recent weeks.",
+    "img": "https://th-i.thgim.com/public/incoming/a6cwpe/article70752879.ece/alternates/LANDSCAPE_1200/2026-03-17T022923Z_952580932_RC226KAKZMJG_RTRMADP_3_IRAN-CRIRIS-IRAQ-USA-EMBASSY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-multiple-drones-strike-us-embassy-in-baghdad/article70752881.ece",
+    "time": "2026-03-27T05:29:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "1,033 candidates in one election: Tamil Nadu’s craziest poll",
+    "desc": "Today, voting in India is simple. You walk into a polling booth, press a button on an Electronic Voting Machine, and your vote is cast in seconds. But in 1996, voters in one constituency in Tamil Nadu faced a very different situation. They had to search through a booklet running into more than 60 pages just to find the candidate they wanted to vote for. Because, that election had 1,033 candidates.",
+    "img": "https://th-i.thgim.com/public/incoming/ct403n/article70753357.ece/alternates/LANDSCAPE_1200/TN%20election%20-%201033.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-1033-candidates-in-one-election-tamil-nadus-craziest-poll/article70753343.ece",
+    "time": "2026-03-27T05:27:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil drops as Trump pauses Iran strikes, but stock traders nervous",
+    "desc": "Trump had earlier denied he was desperate for a deal to end the war, despite the Islamic republic’s cool response to an American peace plan and fears the spike in oil prices would fan inflation",
+    "img": "https://th-i.thgim.com/public/business/markets/3txf0/article70791118.ece/alternates/LANDSCAPE_1200/Oilprices.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/oil-drops-as-trump-pauses-iran-strikes-but-stock-traders-nervous/article70791089.ece",
+    "time": "2026-03-27T05:22:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "a quiet case for pluralism in Myanmar",
+    "desc": "In a country where geography mirrors diversity and authority remains contested, elections in Myanmar unfold detached from realities on the ground; with key Opposition forces excluded and large swathes of the nation outside effective participation, the exercise underscores how the absence of pluralism and federal accommodation continue to undermine any meaningful democratic transition",
+    "img": "https://th-i.thgim.com/public/incoming/5nwvs1/article70789771.ece/alternates/LANDSCAPE_1200/AFP_A3EU4F6.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ballots-without-a-country-a-quiet-case-for-pluralism-in-myanmar/article70788535.ece",
+    "time": "2026-03-27T05:21:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Thousand Lights MLA N. Ezhilan",
+    "desc": "Thousand Lights MLA from the DMK N. Ezhilan, in an interview to The Hindu, observes that any popular personality entering politics will attract the limelight. But only a structured party machinery combined with popularity can ensure success. In this interview, he speaks about his tenure as first-time MLA from Thousand Lights Assembly constituency in Chennai, Vijay’s political entry shaping the 2026 elections, redressal of key grievances and more.",
+    "img": "https://th-i.thgim.com/public/incoming/ojzlmp/article70785465.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-25%20at%207.28.40%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/only-a-structured-party-combined-with-popularity-can-reach-success-thousand-lights-mla-n-ezhilan/article70785467.ece",
+    "time": "2026-03-27T05:11:47.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Ranbir's 'Ramayana' FIRST LOOK to be unveiled April 2",
     "desc": "The first look of Nitesh Tiwari's 'Ramayana', starring Ranbir Kapoor as Lord Ram, will be unveiled on April 2, Hanuman Jayanti. Producer Namit Malhotra confirmed the date, emphasizing the film's sincere and grand scale. This highly anticipated project, slated for a Diwali 2026 and 2027 release, is embarking on an extensive international promotional tour, beginning in the US.",
@@ -88,15 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-schedule-2026-full-list-of-fixtures-for-all-10-teams/articleshow/129838168.cms",
     "time": "2026-03-27T03:53:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil drops as Trump pauses Iran strikes, but stock traders nervous",
-    "desc": "Trump had earlier denied he was desperate for a deal to end the war, despite the Islamic republic’s cool response to an American peace plan and fears the spike in oil prices would fan inflation",
-    "img": "https://th-i.thgim.com/public/business/markets/3txf0/article70791118.ece/alternates/LANDSCAPE_1200/Oilprices.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/oil-drops-as-trump-pauses-iran-strikes-but-stock-traders-nervous/article70791089.ece",
-    "time": "2026-03-27T03:53:30.000Z"
   },
   {
     "cat": "Politics",
@@ -210,7 +390,7 @@ const newsData_en = [
     "cat": "Sports",
     "title": "IPL 2026 Countdown",
     "desc": "Statistical stalemates were inevitable in a landscape full of world-beaters, which meant that the final list of players expected to set the stage on fire as the curtains rise for the 19th iteration of the premier T20 league was driven by sixth sense",
-    "img": "https://th-i.thgim.com/public/sport/4khl4c/article70789875.ece/alternates/LANDSCAPE_1200/SAMSON.jpg",
+    "img": "https://th-i.thgim.com/public/sport/rqnhz9/article70789875.ece/alternates/LANDSCAPE_1200/SAMSON.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-preview-12-players-to-watch-out-for/article70789870.ece",
     "time": "2026-03-27T03:27:09.000Z"
@@ -342,15 +522,6 @@ const newsData_en = [
     "time": "2026-03-27T01:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "All about Kannada star Puneeth Rajkumar’s home",
-    "desc": "A glimpse into the elegant Sadashivnagar villa of the late Kannada superstar Puneeth Rajkumar reveals a modern, white exterior with a contemporary interior. The home features cozy living spaces adorned with artwork, accented by greenery, and personalized touches like mirrors and paintings. This beloved actor, known for his diverse talents and philanthropic spirit, left behind a legacy cherished by many.",
-    "img": "https://static.toiimg.com/photo/msid-129836808,imgsize-83334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/puneeth-rajkumars-home-inside-the-late-appu-actors-serene-villa-in-sadashivnagar-bangalore/articleshow/129836808.cms",
-    "time": "2026-03-27T01:24:58.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Karnataka’s gender minority communities question Trans Bill 2026",
     "desc": "Karnataka has played a significant role in shaping India’s gender minorities rights movement, with activists, lawyers and groups laying the groundwork. Shilpa Elizabeth talks to the community that feels The Transgender Persons (Protection of Rights) Amendment Bill recently passed by Parliament undoes some of the gains of the struggle",
@@ -360,33 +531,6 @@ const newsData_en = [
     "time": "2026-03-27T01:23:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "German filmmaker Alexander Kluge passes away at 94",
-    "desc": "The German film landscape is in mourning as it bids farewell to Alexander Kluge, a cornerstone of the New German Cinema movement, who has passed away at the age of 94. Renowned for his groundbreaking cinematic collages and thought-provoking films, Kluge was a two-time winner of the prestigious Venice Film Festival's highest honor.",
-    "img": "https://static.toiimg.com/photo/msid-129836776,imgsize-56944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/alexander-kluge-pioneer-filmmaker-of-new-german-cinema-passes-away-at-94/articleshow/129836776.cms",
-    "time": "2026-03-27T01:20:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Swift-Travis Kelce make first award show appearance",
-    "desc": "Taylor Swift and fiancé Travis Kelce made their dazzling debut as an engaged couple at the 2026 iHeartRadio Music Awards. Swift, leading nominations, showcased her engagement ring while Kelce kept his look sharp. The couple's affectionate display and enthusiastic participation captivated fans, marking a significant public appearance ahead of their rumored summer wedding.",
-    "img": "https://static.toiimg.com/photo/msid-129836673,imgsize-87412.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-and-travis-kelce-make-their-first-joint-appearance-as-an-engaged-couple-at-iheartradio-music-awards-watch/articleshow/129836645.cms",
-    "time": "2026-03-27T01:17:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Prathichaya' Twitter review: Film gets mixed talk",
-    "desc": "Nivin Pauly's political thriller 'Prathichaya' has sparked a divided response from audiences, especially on social media, where some viewers label it as too predictable. While Balachandra Menon's stellar performance and the gripping second half have garnered acclaim, detractors point out issues with pacing and production quality.",
-    "img": "https://static.toiimg.com/photo/msid-129836752,imgsize-244334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/prathichaya-twitter-review-nivin-pauly-starrer-gets-mixed-talk-called-predictable-and-clichd/articleshow/129836752.cms",
-    "time": "2026-03-27T01:17:18.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Army puts to test its new ‘Shaurya’ drone squadron for tank units",
     "desc": "The Indian Army is bolstering its armoured regiments with dedicated drone units, 'Shaurya Squadrons', to enhance surveillance, precision strikes, and electronic warfare. Recently tested in a realistic battle scenario, these units aim to significantly boost battlefield awareness and response times for tank formations. This move reflects lessons learned from global drone-centric conflicts.",
@@ -394,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/army-puts-to-test-its-new-shaurya-drone-squadron-for-tank-units/articleshow/129836740.cms",
     "time": "2026-03-27T01:08:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Singer Dash Crofts of Seals &amp; Crofts passes away at 87",
-    "desc": "Darrell 'Dash' Crofts, the legendary voice of 'Summer Breeze' and one half of the cherished duo Seals & Crofts, has sadly departed at the age of 87. His passing, a result of heart surgery complications, comes just one year after Jim Seals, his musical partner and soulmate.",
-    "img": "https://static.toiimg.com/photo/msid-129836625,imgsize-88194.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/summer-breeze-singer-dash-crofts-of-seals-crofts-passes-away-at-87-after-heart-surgery/articleshow/129836625.cms",
-    "time": "2026-03-27T00:43:04.000Z"
   },
   {
     "cat": "Sports",
@@ -558,15 +693,6 @@ const newsData_en = [
     "time": "2026-03-26T22:19:31.000Z"
   },
   {
-    "cat": "World",
-    "title": "a quiet case for pluralism in Myanmar",
-    "desc": "In a country where geography mirrors diversity and authority remains contested, elections in Myanmar unfold detached from realities on the ground; with key Opposition forces excluded and large swathes of the nation outside effective participation, the exercise underscores how the absence of pluralism and federal accommodation continue to undermine any meaningful democratic transition",
-    "img": "https://th-i.thgim.com/public/incoming/5nwvs1/article70789771.ece/alternates/LANDSCAPE_1200/AFP_A3EU4F6.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ballots-without-a-country-a-quiet-case-for-pluralism-in-myanmar/article70788535.ece",
-    "time": "2026-03-26T22:14:12.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "EC",
     "desc": "Poll inducements worth over Rs 400 crore have been seized across poll-bound states and UTs since February 26. This includes significant amounts of cash, liquor, drugs, precious metals, and other freebies. Tamil Nadu leads with the highest seizure value, as the Election Commission reviews poll readiness and deploys enforcement teams.",
@@ -583,33 +709,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/president-urged-not-to-grant-assent-to-transgender-bill/articleshow/129834619.cms",
     "time": "2026-03-26T22:10:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi leads state-wise donations to national parties, shows ADR analysis",
-    "desc": "Delhi leads national parties in donations for FY 2024-25, contributing Rs 2,639.4 crore. Maharashtra and Gujarat follow with significant contributions. The Association for Democratic Reforms report highlights a substantial increase in total donations, with corporate entities being the primary source.",
-    "img": "https://static.toiimg.com/photo/msid-129834381,imgsize-1581890.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-leads-state-wise-donations-to-national-parties-shows-adr-analysis/articleshow/129834415.cms",
-    "time": "2026-03-26T22:07:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CBI files case against 2 ex-directors of Reliance Telecom",
-    "desc": "CBI has registered a bank fraud case against former Reliance Telecom directors Satish Seth and Gautam Doshi, along with public servants, following a complaint by State Bank of India. The alleged fraud amounts to Rs 115 crore. Searches were conducted at the directors' residences, and documents related to loan transactions were recovered.",
-    "img": "https://static.toiimg.com/photo/msid-129834206,imgsize-865903.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bank-fraud-cbi-files-case-against-2-ex-directors-of-reliance-telecom/articleshow/129834204.cms",
-    "time": "2026-03-26T22:01:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Haryana’s cotton farms holding on by a thread",
-    "desc": "The Bt cotton revolution of the early 2000s had farmers in Haryana’s Hisar, Sirsa, Fatehabad, and Jind reaping rewards. Now, the pink bollworm is slashing yields and squeezing profits and the MSP is not enough. As farmers ditch cotton for paddy, the impact is soon likely to be felt by farm labourers, traders, and the economy as a whole, reports Ashok Kumar",
-    "img": "https://th-i.thgim.com/public/incoming/gm2rv5/article70784348.ece/alternates/LANDSCAPE_1200/COTTON%20FARMER%20HARYANA%20SPOTLIGHT%205.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/haryana/haryanas-cotton-farms-holding-on-by-a-thread/article70784114.ece",
-    "time": "2026-03-26T21:58:28.000Z"
   },
   {
     "cat": "Politics",
@@ -675,24 +774,6 @@ const newsData_en = [
     "time": "2026-03-26T20:04:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "an allegorical Tamil short story on the emotional coercion of voters",
-    "desc": "Unlike high-pitched electioneering the State is known for, the TVK’s campaign seems in part to be unfolding quietly within households. What unfolds is reminiscent of the short story Marumagal Vaaku (Dauther-in-law’s Vote) by the late Tamil writer Krishnan Nambi",
-    "img": "https://th-i.thgim.com/public/incoming/uwwzjq/article70789689.ece/alternates/LANDSCAPE_1200/voter.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/marumagal-vaaku-an-allegorical-tamil-short-story-on-the-emotional-coercion-of-voters/article70789650.ece",
-    "time": "2026-03-26T19:25:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Eshwar Khandre says Karnataka govt. will recover money from IAF for giving 58 acres of forest land to BMRCL for compensation",
-    "desc": "Forest Minister B. Eshwar Khandre on Thursday told the Legislative Assembly that the Indian Air Force (IAF) authorities were not only in ‘illegal possession’ of forest land in Jarakbande Kaval village of Bengaluru North taluk as the land granted to them had been cancelled, but it had also given about 58 acres of forest land to BMRCL for monetary compensation",
-    "img": "https://th-i.thgim.com/public/incoming/ld7kw4/article70789701.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-26%20at%2016.25.32.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/eshwar-khandre-says-karnataka-govt-will-recover-money-from-iaf-for-giving-58-acres-of-forest-land-to-bmrcl-for-compensation/article70788968.ece",
-    "time": "2026-03-26T19:18:05.000Z"
-  },
-  {
     "cat": "World",
     "title": "Jaishankar, French counterpart discuss Iran, Hormuz at G7 meet",
     "desc": "The participation of External Affairs Minister S. Jaishankar in the G7 meetings signified “the importance France attaches to closely associating India — currently holding the BRICS presidency — with its G7 presidency”, the French government said",
@@ -702,24 +783,6 @@ const newsData_en = [
     "time": "2026-03-26T18:58:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "AIADMK allotted Ministers’ constituencies to allies as it is colluding with DMK: Seeman",
-    "desc": "He alleges that this is to ensure the defeat of its allies, including BJP. Criticising the Congress, he accuses the party of having harmed the interests of the Tamil people while in power at the Centre",
-    "img": "https://th-i.thgim.com/public/incoming/v8elqa/article70788712.ece/alternates/LANDSCAPE_1200/9869_26_3_2026_19_17_56_2_1000203351.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/aiadmk-allotted-ministers-constituencies-to-allies-as-it-is-colluding-with-dmk-seeman/article70788033.ece",
-    "time": "2026-03-26T18:58:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Farmers dying by suicide in W.B. due to faulty policies of TMC, claims BJP president",
-    "desc": "W.B. BJP president Samik Bhattacharya cited names of farmers who have ended their lives in the past two months. The BJP leader said that the people will respond to the faulty policies of Trinamool Congress in the upcoming elections",
-    "img": "https://th-i.thgim.com/public/incoming/gojk5/article70789816.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_BusinessLine_UU941V740_R1325863036_0_569.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/farmers-dying-by-suicide-in-wb-due-to-faulty-policies-of-tmc-claims-bjp-president/article70789258.ece",
-    "time": "2026-03-26T18:48:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump threatens Iran to make a deal or the U.S. will “keep blowing them away”",
     "desc": "Donald Trump issues a stark warning to Iran, saying the U.S. will “keep blowing them away” if a deal is not reached. The statement comes amid rising tensions in West Asia, fuelling fears of further escalation.",
@@ -727,33 +790,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/trump-threatens-iran-to-make-a-deal-or-the-us-will-keep-blowing-them-away/article70789582.ece",
     "time": "2026-03-26T18:37:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Slovak detained along Mizoram-Myanmar border, likely to be deported",
-    "desc": "The man, a resident of Thailand, was allegedly trying to cross into Myanmar to meet a friend; he did not have a protected area permit; detention comes after American, Ukrainians tried to cross border to train armed ethnic groups",
-    "img": "https://th-i.thgim.com/public/incoming/wtb82w/article70789802.ece/alternates/LANDSCAPE_1200/IMG_INDIA-MYANMAR-COUP-R_2_1_91CCOD10.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/slovak-detained-along-mizoram-myanmar-border-likely-to-be-deported/article70789552.ece",
-    "time": "2026-03-26T18:21:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India beat Pakistan 3-0 to reach SAFF U20 semi-finals",
-    "desc": "India secured a commanding 3-0 victory over Pakistan in the SAFF U20 Championship. Omang Dodum scored twice, with Vishal Yadav adding another goal. This win guarantees India a spot in the semi-finals. Pakistan has been eliminated from the tournament. India will face Bangladesh next to determine the group leader.",
-    "img": "https://static.toiimg.com/photo/msid-129830503,imgsize-93422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/india-beat-pakistan-3-0-to-reach-saff-u20-semi-finals/articleshow/129830524.cms",
-    "time": "2026-03-26T17:15:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pandya wins hearts with promise kept, rewards Wankhede groundstaff",
-    "desc": "Hardik Pandya fulfilled a promise to reward Wankhede groundstaff who supported his late-night World Cup training, earning praise for his humility. The two-time T20 World Cup winner acknowledged their behind-the-scenes efforts while continuing to shine on the field. Reflecting on life, he said, “Jab se Mahieka aayi hai, life mein bas jeet hi jeet hai.”",
-    "img": "https://static.toiimg.com/photo/msid-129830463,imgsize-60762.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-wins-hearts-with-promise-kept-rewards-wankhede-groundstaff/articleshow/129829833.cms",
-    "time": "2026-03-26T17:10:19.000Z"
   },
   {
     "cat": "Business",
@@ -774,15 +810,6 @@ const newsData_en = [
     "time": "2026-03-26T15:26:13.000Z"
   },
   {
-    "cat": "Business",
-    "title": "US-Iran war impact: India’s crude imports from Russia near all time highs; will such high numbers continue?",
-    "desc": "The inflows of Russian crude oil have risen sharply since the US-Iran war began and imports via the Strait of Hormuz were disrupted. In fact, crude imports from Russia are now nearing lifetime monthly highs!",
-    "img": "https://static.toiimg.com/photo/msid-129827901,imgsize-106064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-impact-indias-crude-imports-from-russia-near-all-time-highs-will-such-high-numbers-continue/articleshow/129827687.cms",
-    "time": "2026-03-26T14:47:40.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran-Israel war: A day‑by‑day rundown of the escalating crisis",
     "desc": "A joint U.S.-Israel attack on Iran and the killing of Supreme Leader Ayatollah Ali Khamenei have plunged West Asia into a fast‑spreading war, with Tehran and its allies launching retaliatory strikes across Israel, the Gulf and U.S. bases.",
@@ -790,15 +817,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
     "time": "2026-03-26T14:07:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carolina Marin, one of badminton’s greatest, retires at 32",
-    "desc": "Carolina Marin has retired from professional badminton due to recurring injuries, opting out of the European Championships despite a wild card. The Olympic champion said she didn’t want to risk her body for a final match. Marin bows out with an illustrious career, including Olympic gold and three world titles, and now looks ahead to a new chapter.",
-    "img": "https://static.toiimg.com/photo/msid-129827257,imgsize-54184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/carolina-marin-one-of-badmintons-greatest-and-rio-olympics-gold-medallist-retires-at-32/articleshow/129825701.cms",
-    "time": "2026-03-26T14:04:59.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/meta-is-laying-off-hundreds-of-employees-source-says/article70786606.ece",
     "time": "2026-03-26T04:21:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. to deploy 1,000 elite troops to West Asia",
-    "desc": "In a latest addition to the Iran war effort, U.S. officials say thousands of Marines, as well as rapid response naval vessels, will be heading to the region; Iran and Israel exchange strikes; Gulf neighbours Kuwait and Saudi Arabia come under fire; Iran’s military says it also targeted a U.S. aircraft carrier",
-    "img": "https://th-i.thgim.com/public/incoming/gtce39/article70785516.ece/alternates/LANDSCAPE_1200/Kuwait_Iran_War_51471.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-to-deploy-1000-elite-troops-to-west-asia/article70785462.ece",
-    "time": "2026-03-25T18:19:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Russia says it shot down almost 400 Ukrainian drones as Moscow, Kyiv escalate aerial barrages",
-    "desc": "Alexander Drozdenko, Governor of the Leningrad region north of Moscow, said 56 drones were shot down there, and a fire broke out in the Baltic Sea port of Ust-Luga as the result of Ukraine’s attack",
-    "img": "https://th-i.thgim.com/public/incoming/hnq3ey/article70785523.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_69362.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/russia-says-it-shot-down-almost-400-ukrainian-drones-as-moscow-kyiv-escalate-aerial-barrages/article70785468.ece",
-    "time": "2026-03-25T18:19:29.000Z"
   }
 ];
