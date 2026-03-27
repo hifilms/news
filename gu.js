@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "ધુરંધર 2ની સફળતા વચ્ચે સંજય દત્તનો વીડિયો થઈ રહ્યો છે વાયરલ, પૈપ્સને એવું તો શું કહ્યું, જુઓ Video",
+    "desc": "ધુરંધર 2ની સફળતા વચ્ચે, સંજય દત્તનો એક વીડિયો સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યો છે. આ વીડિયોમાં, સંજય દત્ત તેની પત્ની માન્યતા દત્ત અને બાળકો સાથે જોવા મળે છે. પાપારાઝી તેનું શૂટિંગ કરી રહ્યા છે. ત્યારે સંજય દત્ત પેપ્સને જે કહે છે તે વાયરલ થઈ જાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/amidst-the-success-of-dhurandhar-2-sanjay-dutts-video-is-going-viral-what-did-he-say-to-the-paps-watch-the-video-470378 ",
+    "time": "2026-03-27T16:57:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ખરાબ હાલતમાં આવ્યો TATAનો શેર, 291થી 33 રૂપિયા પર આવ્યો ભાવ, જાણો",
+    "desc": "ટાટા ગ્રુપની કંપનીના શેર તેમના ઓલ ટાઈમ હાઈ લેવલથી 87 ટકાથી વધુ તૂટ્યો છે. આ કંપનીનો શેર 291.05 પર હતો. આજે એટલે કે 27 માર્ચ, 2026ના રોજ શેર 33.14 પર બંધ થયો છે. રોકાણકારોને ભારે નુકશાન થયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/tata-share-is-in-bad-condition-price-dropped-from-291-to-33-rupees-know-470377 ",
+    "time": "2026-03-27T16:31:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાનની મંજૂરી વિના હોર્મુઝ સ્ટ્રેટ પાર કરી રહ્યું હતું જહાજ, મિસાઈલ મારી ઉડાડી દીધું! જુઓ Viral Video",
+    "desc": "એવો દાવો કરવામાં આવે છે કે સ્ટ્રેટ ઓફ હોર્મુઝમાંથી પસાર થઈ રહેલા એક જહાજ પર મિસાઈલનો હુમલો થયો હતો. ત્યારબાદ જહાજમાંથી ધુમાડાના ગોટે ગોટા નિકળતા જોવા મળ્યા છે. આ વીડિયો સામે આવ્યો, જેનાથી લોકોમાં ભય અને રાજકીય ચર્ચા શરૂ થઈ ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/ship-was-crossing-the-strait-of-hormuz-without-iran-permission-missile-shot-it-down-watch-viral-video-470376 ",
+    "time": "2026-03-27T16:09:59.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "Appleનો સૌથી સસ્તો iPhone, પૈસા વસૂલ કે ઓવરરેટેડ? જાણો",
     "desc": "શું એપલનો નવો આઈફોન ખરેખર પૈસા માટે યોગ્ય છે? ચાલો તેની વિગતવાર જોઈએ કે શું તે તેની કિંમત વાજબી છે અને રોજિંદા ઉપયોગમાં તે કેટલો ઉપયોગી છે. નવી સિરિઝનો આ સૌથી સસ્તો મોડલ છે. ચાલો તેની કિંમત અને ફિચર્સ વિશે જાણીએ.",
@@ -682,15 +709,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/price-is-less-than-10-lakhs-most-awaited-renault-duster-car-is-going-to-be-launched-in-india-tomorrow-features-will-be-special-468851 ",
     "time": "2026-03-16T13:59:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ઓસ્કર એવોર્ડ જીતી ચુકેલી 5 ફિલ્મો, આ ફિલ્મ જોઈ આંખમાં આંસુ પણ આવશે અને ચહેરા પર સ્માઈલ પણ હશે",
-    "desc": "ઓસ્કર એવોર્ડની ચર્ચાઓ જોરશોરથી ચારેતરફ થઈ રહી છે ત્યારે આજે તમને ઓસ્કર વિનર 5 એવી ફિલ્મો વિશે જણાવીએ જે ઓટીટી પર હિંદીમાં ઉપલબ્ધ છે અને ફિલ્મો જોવાના શોખીનોએ એકવાર તો આ સિનેમાનો અનુભવ કરવો જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/5-must-watch-oscar-winning-movies-in-hindi-on-ott-amazon-and-netflix-468782 ",
-    "time": "2026-03-16T03:49:11.000Z"
   },
   {
     "cat": "Tech",

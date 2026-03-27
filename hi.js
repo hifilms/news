@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "SRH coach shares major update on Pat Cummins' fitness ahead of IPL 2026 opener vs RCB",
+    "desc": "Sunrisers Hyderabad captain Pat Cummins has been ruled out of the first few games of the IPL 2026. The franchise has already notified the development, as Ishan Kishan has been named the new captain for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-coach-shares-major-update-on-pat-cummins-fitness-ahead-of-ipl-2026-opener-vs-rcb-2026-03-27-1035376",
+    "time": "2026-03-27T17:59:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mitchell Santner, Will Jacks yet to link up with Mumbai Indians camp for IPL 2026, Jasprit Bumrah joins squad",
+    "desc": "Ace pacer Jasprit Bumrah has joined the Mumbai Indians squad ahead of their blockbuster clash against Kolkata Knight Riders at the Wankhede Stadium on March 29. The star bowler recently checked into BCCI’s Centre of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-santner-will-jacks-yet-to-link-up-with-mumbai-indians-camp-for-ipl-2026-jasprit-bumrah-joins-squad-2026-03-27-1035373",
+    "time": "2026-03-27T17:33:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli, Rohit Sharma or MS Dhoni, who will have better IPL? Aakash Chopra analyses",
+    "desc": "Since the back-to-back ducks in the ODIs against Australia, Virat Kohli has staged a remarkable turnaround, re-establishing himself as one of India’s most consistent performers. However, it has been over two months since the 37-year-old...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-rohit-sharma-or-ms-dhoni-who-will-have-better-ipl-aakash-chopra-analyses-2026-03-27-1035369",
+    "time": "2026-03-27T16:33:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Batters can give nightmares to opponents, bowlers to fans",
+    "desc": "Sunrisers Hyderabad have assembled an explosive batting unit for the IPL 2026. However, it’s the bowlers that win the tournament for a team and in that regard, the 2016 champions could be having a nightmare...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-predicted-xi-for-ipl-2026-batters-can-give-nightmares-to-opponents-bowlers-to-fans-2026-03-27-1035367",
+    "time": "2026-03-27T15:53:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Auqib Nabi aims to win maiden IPL title with Delhi Capitals, downplays India call-up",
     "desc": "After a stunning Ranji Trophy, where Aquib Nabi finished as the leading wicket-taker, claiming 60 wickets, the 29-year-old enters the IPL with plenty of attention and maybe a bit of pressure because of the hype....",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/hockey/manpreet-singh-dismisses-reports-of-fallout-with-dilip-tirkey-says-he-wants-me-to-play-500-matches-2026-03-27-1035320",
     "time": "2026-03-27T10:36:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Schedule, squads, players, live streaming, and all you need to know",
-    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026. The marquee event kicks off on March 28, and the 10 franchises will be battling it out for a shot...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-schedule-squads-players-live-streaming-and-all-you-need-to-know-2026-03-27-1035307",
-    "time": "2026-03-27T08:33:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Will always score runs': Irfan Pathan gives his take on star India batter ahead of IPL 2026",
-    "desc": "With the IPL (Indian Premier League) 2026 all set to kick off on March 28, the 10 franchises will look to put in their best work in hopes of getting their hands on the marquee...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-gives-his-take-on-star-india-batter-ahead-of-ipl-2026-2026-03-27-1035293",
-    "time": "2026-03-27T07:23:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aryna Sabalenka storms into Miami Open 2026 final, sets up summit clash against Coco Gauff",
-    "desc": "The stage is set for the final of the Miami Open 2026. Belarus’ Aryna Sabalenka will be taking on the USA’s Coco Gauff in the summit clash of the tournament. The two stars will face...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-storms-into-miami-open-2026-final-sets-up-summit-clash-against-coco-gauff-2026-03-27-1035285",
-    "time": "2026-03-27T06:27:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'One of the most powerful partnerships': R Ashwin gives his take on CSK's potential opening combination",
-    "desc": "Five-time IPL (Indian Premier League) champions Chennai Super Kings will be one of the sides whose performances could be the most anticipated as the 19th edition of the tournament kicks off. It is worth noting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/one-of-the-most-powerful-partnerships-r-ashwin-gives-his-take-on-csk-s-potential-opening-combination-2026-03-27-1035276",
-    "time": "2026-03-27T05:40:56.000Z"
   }
 ];
