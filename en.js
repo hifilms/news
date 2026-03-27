@@ -1,6 +1,114 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Jan Vishwas bill moots fine, jail for grabbing govt land",
+    "desc": "The bill — introduced in Lok Sabha on Friday — proposes to amend Section-11 of the Public Premises (Eviction of Unauthorised Occupants) Act that at present provides for six months’ jail or with Rs 5,000 penalty or both. As per the proposal, the fine would be 5% of land value for every year of occupation or both — penalty and jail. Officials said this would deter encroachment and check land grabbing.",
+    "img": "https://static.toiimg.com/photo/msid-129854369,imgsize-142206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jan-vishwas-bill-moots-fine-jail-for-grabbing-govt-land/articleshow/129854371.cms",
+    "time": "2026-03-27T21:14:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Interview",
+    "desc": "“Our supreme leader issued a fatwa. He said nuclear weapons are forbidden, haraam. So, we don't have it. We don't want to have it. We are not looking for it,” said Ilahi. Ending the war in West Asia depends on countries that started it, he said. He dismissed Pakistan’s claim that it was mediating between Iran and the US.",
+    "img": "https://static.toiimg.com/photo/msid-129854363,imgsize-121398.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/interview-iran-will-never-go-nuclear-india-can-help-end-this-war-says-khameneis-representative/articleshow/129854345.cms",
+    "time": "2026-03-27T21:10:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Unite to face West Asia crisis, PM tells CMs; urges to boost people’sconfidence",
+    "desc": "While he focused on preparing for prolonged disruption of supply lines, Modi also conveyed assurance about the country being in good stead, saying “efforts...in recent years to strengthen India’s economic and supply systems have proved beneficial”. In his virtual meeting with CMs — except those of Assam, West Bengal, Tamil Nadu, Kerala and Puducherry where assembly polls are due next month — on Friday, PM Modi said while addressing a challenge is a shared responsibility.",
+    "img": "https://static.toiimg.com/photo/msid-129854328,imgsize-66492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/unite-to-face-west-asia-crisis-pm-tells-cms-urges-to-boost-peoplesconfidence/articleshow/129854329.cms",
+    "time": "2026-03-27T21:00:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt slashes excise duty on petrol, diesel to shield consumers, oil companies",
+    "desc": "The windfall tax will also help the Centre partly offset the impact of the excise duty cut. Central Board of Indirect Taxes and Customs chairman Vivek Chaturvedi said the windfall tax on exports will result in a gain of about Rs 1,500 crore in the first fortnight while the govt will have to forgo over Rs 7,000 crore in revenue because of the excise duty cut. He said the export tax will be reviewed fortnightly.",
+    "img": "https://static.toiimg.com/photo/msid-129854317,imgsize-134402.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-slashes-excise-duty-on-petrol-diesel-to-shield-consumers-oil-companies/articleshow/129854306.cms",
+    "time": "2026-03-27T20:54:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Elon Musk joined Trump's call with PM Modi on Iran war earlier this week: Report",
+    "desc": "The conversation focused on the evolving situation in West Asia, with both leaders emphasising the importance of keeping the Strait of Hormuz open, secure and accessible. The key maritime corridor handles a significant share of global oil shipments and remains critical to international energy markets. However, it remains unclear why Musk was included in the call or whether he spoke.",
+    "img": "https://static.toiimg.com/photo/msid-129854233,imgsize-104350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/elon-musk-joined-trumps-call-with-pm-modi-on-iran-war-earlier-this-week-report/articleshow/129854234.cms",
+    "time": "2026-03-27T20:19:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Ranveer deserves a National Award for Dhurandhar, Aditya too’",
+    "desc": "As Dhurandhar and its sequel continue to dominate both box office and conversations, producer Bhushan Kumar has weighed in on the film’s impact — strongly backing Ranveer Singh and director Aditya Dhar for National Awards. Bhushan Kumar emphasised that while Ranveer’s performance stands out, director Aditya Dhar played a crucial role in elevating it.",
+    "img": "https://static.toiimg.com/photo/msid-129854174,imgsize-43252.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-deserves-a-national-award-for-dhurandhar-aditya-dhar-too-says-bhushan-kumar/articleshow/129854174.cms",
+    "time": "2026-03-27T20:08:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. government releases draft State Mental Healthcare Regulations, 2026",
+    "desc": "The Tamil Nadu State Mental Health Authority will maintain a register of practising mental health professionals in the State that will be updated monthly. It also proposes to publish a district-wise list of mental health professionals on January 1 every year",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-releases-draft-state-mental-healthcare-regulations-2026/article70792168.ece",
+    "time": "2026-03-27T19:51:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: AIADMK fields new face in Sengottaiyan’s stronghold of Gobichettipalayam",
+    "desc": "V.B. Prabhu, who joined the party in 2002, rose through the ranks to serve as deputy secretary of the party’s student wing for a decade. Over the past six months, he was the West Union secretary in the constituency",
+    "img": "https://th-i.thgim.com/public/incoming/t1lgnl/article70793676.ece/alternates/LANDSCAPE_1200/9870_27_3_2026_17_48_26_1_IMG_20260327_WA0086.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-aiadmk-fields-new-face-in-sengottaiyans-stronghold-of-gobichettipalayam/article70792631.ece",
+    "time": "2026-03-27T19:33:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Service sector fuels Telangana’s explosive per capita income growth in 10 years",
+    "desc": "Though Telangana witnessed a sharp rise in per capita income led by districts like Mahabubnagar and Rangareddy, the gains remain uneven with most districts lagging behind the State average, highlighting persistent regional disparities despite strong service-led economic growth across the State",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/service-secto-fuels-telanganas-explosive-per-capita-income-growth-in-10-years/article70792714.ece",
+    "time": "2026-03-27T19:01:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "an allegorical Tamil short story on the emotional coercion of voters",
+    "desc": "Unlike high-pitched electioneering the State is known for, the TVK’s campaign seems in part to be unfolding quietly within households. What unfolds is reminiscent of the short story Marumagal Vaaku (Dauther-in-law’s Vote) by the late Tamil writer Krishnan Nambi",
+    "img": "https://th-i.thgim.com/public/incoming/io3rcw/article70789689.ece/alternates/LANDSCAPE_1200/voter.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/marumagal-vaaku-an-allegorical-tamil-short-story-on-the-emotional-coercion-of-voters/article70789650.ece",
+    "time": "2026-03-27T18:49:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Capturing the political acumen of DMK men in a short story",
+    "desc": "Vaaku Porukkikal is a short story by Sahitya Akademi Award-winning writer Nanjil Nadan that explores how the then DMK leaders and candidates represented the aspirations of the people, leading to the victory of the party in 1967",
+    "img": "https://th-i.thgim.com/public/incoming/izwqex/article70794095.ece/alternates/LANDSCAPE_1200/DMK%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/capturing-the-political-acumen-of-dmkmen-in-a-short-story/article70794085.ece",
+    "time": "2026-03-27T18:48:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer delivers career-best",
+    "desc": "The Revenge starring Ranveer Singh continues to win praise from across the film industry, and the latest to join the chorus is filmmaker Karan Johar. The director-producer said the blockbuster took him back to the era of 70s Hindi cinema, often experienced in single-screen theatres.",
+    "img": "https://static.toiimg.com/photo/msid-129852964,imgsize-93788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-reviews-dhurandhar-2-the-revenge-ranveer-singh-delivers-his-career-best-calls-aditya-dhar-an-outstanding-filmmaker/articleshow/129852964.cms",
+    "time": "2026-03-27T18:40:49.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Mirwaiz meets Iranian envoy, calls Kashmir ‘little Iran’",
     "desc": "The delegation condemned the war, which it said was “imposed” on Iran, and expressed hope that diplomatic efforts would prevail and peace and stability would be restored. Others who were part of the delegation included Mufti Nasir-ul-Islam, Aga Syed Hassan Al-Mosvi, and Aga Syed Hadi AlMosvi, Aga Syed Mujtaba. During the meeting, Mirwaiz also highlighted the “deep-rooted cultural, historical and religious ties between Kashmir and Iran”.",
     "img": "https://static.toiimg.com/photo/msid-129853042,imgsize-180714.cms",
@@ -36,15 +144,6 @@ const newsData_en = [
     "time": "2026-03-27T18:32:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Capturing the political acumen of DMK men in a short story",
-    "desc": "Vaaku Porukkikal is a short story by Sahitya Akademi Award-winning writer Nanjil Nadan that explores how the then DMK leaders and candidates represented the aspirations of the people, leading to the victory of the party in 1967",
-    "img": "https://th-i.thgim.com/public/incoming/izwqex/article70794095.ece/alternates/LANDSCAPE_1200/DMK%20.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/capturing-the-political-acumen-of-dmkmen-in-a-short-story/article70794085.ece",
-    "time": "2026-03-27T18:02:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Only Madhavan said yes; Arjun, Sanjay, Akshaye weren't sure’",
     "desc": "Aditya Dhar’s Dhurandhar has been dominating conversations ever since its first instalment, winning both critical acclaim and audience love. While the film’s performances have been widely praised, casting director Mukesh Chhabra has now revealed that getting its star-studded ensemble on board wasn’t easy.",
@@ -64,48 +163,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Tracing Puducherry’s voting pattern in the past three electoral battles",
-    "desc": "The AINRC remains the mainstay of the Union Territory’s political landscape, a position once occupied by the Congress. The decision of businessman Jose Charles Martin — who has deep pockets — to venture into electoral politics may have changed the dynamics of the 2026 election in Puducherry",
-    "img": "https://th-i.thgim.com/public/incoming/bvabny/article70794086.ece/alternates/LANDSCAPE_1200/PTI03_20_2026_000334B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/puducherry-assembly/tracing-puducherrys-voting-pattern-in-the-past-three-electoral-battles/article70794037.ece",
-    "time": "2026-03-27T17:34:04.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Father arrested as 10-year-old dies after being hung upside down overnight",
     "desc": "A horrific incident in Sangli, Maharashtra, saw a 10-year-old girl die after her father allegedly hung her upside down overnight, suspecting her of theft. The 11-year-old sister also endured similar torture and is hospitalized. Family members' attempts to intervene were met with threats. The accused farmer has been apprehended.",
     "img": "https://static.toiimg.com/photo/msid-129851533,imgsize-382602.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/maharashtra-father-arrested-as-10-year-old-dies-after-being-hung-upside-down-overnight/articleshow/129851490.cms",
     "time": "2026-03-27T17:29:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Eight killed in Kaushambi as pickup truck rams into trailer",
-    "desc": "The pickup truck, carrying two dozen devotees, including women and children, was travelling from Prayagraj to Fatehpur; U.P. CM announces financial aid of ₹2 lakh each to kin of the dead, ₹50,000 to the injured",
-    "img": "https://th-i.thgim.com/public/incoming/bxn8w1/article70794053.ece/alternates/LANDSCAPE_1200/PTI03_27_2026_000446B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/eight-killed-in-kaushambi-as-pickup-truck-rams-into-trailer/article70793519.ece",
-    "time": "2026-03-27T17:21:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED arrests Al-Falah Group chief in another case",
-    "desc": "On March 25, the agency took him into custody from Tihar Jail where he was lodged in judicial custody in a case related to Al-Falah Charitable Trust/Al-Falah University and allied institutions/entities, being investigated by the ED and the Delhi Police",
-    "img": "https://th-i.thgim.com/public/incoming/2ctt3o/article70718449.ece/alternates/LANDSCAPE_1200/PTI12_01_2025_000014B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ed-arrests-al-falah-group-chairman-in-second-pmla-case/article70792307.ece",
-    "time": "2026-03-27T17:07:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Modi government may hike fuel prices after Assembly polls, says Abhishek Banerjee",
-    "desc": "The TMC general secretary dared PM Modi and his Ministers to make a promise at their election meetings that there would be no hike in the prices of LPG, petrol, and diesel over the next five years.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/assembly-elections-kerala-assam-tamil-nadu-west-bengal-puducherry-2026-live/article70790956.ece",
-    "time": "2026-03-27T16:54:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -154,15 +217,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "J&K, Ladakh all set for upscaled Kumbh Melas this year",
-    "desc": "Swami Kalikananda Saraswati, who is spearheading the conduct of the festival, said the aim of holding the Kumbh Mela, which used to take place till 1941 in Kashmir, ‘is to convey that God is one irrespective of names we ascribe’",
-    "img": "https://th-i.thgim.com/public/news/national/9tx94c/article70793858.ece/alternates/LANDSCAPE_1200/6607_14_1_2025_16_23_19_3_14_01_MAHAKUMBHSHAHISNAN_I.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jk-ladakh-all-set-for-upscaled-kumbh-melas-this-year/article70793557.ece",
-    "time": "2026-03-27T16:21:27.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "7 killed as multiple avalanches hit Srinagar–Leh national highway, several vehicles trapped under snow",
     "desc": "Multiple avalanches struck the Srinagar–Leh national highway on Friday, resulting in the tragic deaths of seven people and injuring five others. The avalanches hit the stretch between Zero Point and Minimarg, trapping several vehicles. Rescue operations are underway, with officials personally monitoring the situation and providing assistance.",
     "img": "https://static.toiimg.com/photo/msid-129850861,imgsize-1343936.cms",
@@ -187,15 +241,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-srh-vs-rcb-cummins-is-fit-and-working-on-his-bowling-load-says-srh-head-coach-vettori/article70793083.ece",
     "time": "2026-03-27T15:50:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shift in dynamics as franchises depend more and more on domestic talent",
-    "desc": "Foreign recruits are increasingly being used to plug supply gaps rather than define the sides; as the new season gets underway on Saturday, the spotlight will remain firmly on how effectively teams harness their Indian core while complementing it with high-impact overseas specialists",
-    "img": "https://th-i.thgim.com/public/incoming/d5ywcs/article70792789.ece/alternates/LANDSCAPE_1200/In-a-first-mulGHPFP48K8.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-shift-in-dynamics-as-franchises-depend-more-and-more-on-domestic-talent/article70792776.ece",
-    "time": "2026-03-27T15:48:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -442,24 +487,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Inside Bappi Lahiri's 1,050 sq ft Mumbai home",
-    "desc": "music, memories, gold chair, 1,000 Ganesh idols, Kishore Kumar's last photo. Grandson reveals cozy rooms, award walls, soundproof studio for Disco Dancer, heartfelt meals, faith nooks, and verandah vibes—beyond real estate, a disco era shrine.",
-    "img": "https://static.toiimg.com/photo/msid-129848360,imgsize-26888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-bappi-lahiris-1050-sq-ft-mumbai-home-gold-chair-1000-ganesh-idols-kishore-kumars-last-photo/articleshow/129848360.cms",
-    "time": "2026-03-27T12:58:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Varun Dhawan shares his daughter was diagnosed with DDH",
-    "desc": "Actor Varun Dhawan revealed his daughter was diagnosed with DDH, a condition affecting hip development. She recently underwent a procedure and was in a spica cast for 2.5 months. Dhawan shared this to raise awareness about the treatable condition in India, urging parents to monitor their children's movements. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129847616,imgsize-87968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-dhawan-shares-his-daughter-was-diagnosed-with-developmental-dysplasia-of-hip-ddh-says-want-to-write-book-on-it/articleshow/129847616.cms",
-    "time": "2026-03-27T12:46:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Saba diagnosed with parasite cyclospora cayetanensis, Hrithik keeping her spirit up",
     "desc": "Actor Saba Azad has been hospitalized after contracting the parasite Cyclospora cayetanensis, describing the experience as the \"worst 14 days\" of her life. She lost significant weight and strength due to the illness. Throughout her ordeal, actor Hrithik Roshan has been a constant source of support, helping to lift her spirits.",
     "img": "https://static.toiimg.com/photo/msid-129847641,imgsize-39634.cms",
@@ -549,15 +576,6 @@ const newsData_en = [
     "time": "2026-03-27T10:25:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rajnath Singh to head inter-ministerial group to monitor conflict-linked issues",
-    "desc": "Rajnath Singh will lead a new inter-ministerial group addressing the Middle East conflict's impact. Union ministers Amit Shah, Nirmala Sitharaman, and Hardeep Singh Puri are members. The group will focus on energy security, supply chains, and global order disruptions. Prime Minister Narendra Modi announced seven empowered groups to assess and mitigate economic effects.",
-    "img": "https://static.toiimg.com/photo/msid-129844611,imgsize-674577.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/middle-east-crisis-rajnath-singh-to-head-inter-ministerial-group-to-monitor-conflict-linked-issues/articleshow/129843808.cms",
-    "time": "2026-03-27T10:22:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Check dates, venues and home-away fixtures",
     "desc": "Defending champions Royal Challengers Bengaluru begin their IPL 2026 campaign on March 28 against Sunrisers Hyderabad at home. RCB, with a retained core and new additions, aims to replicate their success. The article details their full schedule, including home and away fixtures, and their updated squad for the upcoming season.",
@@ -639,15 +657,6 @@ const newsData_en = [
     "time": "2026-03-27T08:02:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi prays to Lord Ram, observes Surya Tilak ceremony at Ayodhya's Ram Mandir virtually",
-    "desc": "Prime Minister Narendra Modi offered prayers and joined the Surya Tilak ceremony at Ayodhya's Ram Mandir virtually. He conveyed greetings for Ram Navami, wishing for renewed energy and enthusiasm across the nation. Devotees gathered at temples nationwide, with Ayodhya seeing large crowds. Security was enhanced to manage the pilgrims. Ram Navami celebrates the birth of Lord Rama.",
-    "img": "https://static.toiimg.com/photo/msid-129840914,imgsize-99908.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-prayers-to-lord-ram-observes-surya-tilak-ceremony-at-ayodhyas-ram-mandir-virtually/articleshow/129840890.cms",
-    "time": "2026-03-27T07:35:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Centre announces extra 20% LPG allocation to states amid global energy crisis — what it means",
     "desc": "Amidst global energy supply concerns due to Middle East conflict, India has boosted commercial LPG allocation to 70% for industries like steel, auto, and textiles. This move aims to support labour-intensive sectors and those with specialized heating needs. The government also assured fuel security, refuting shortage claims and increasing refinery output.",
@@ -673,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohlis-new-lotus-tattoo-goes-viral-artist-reveals-deeper-meaning-watch/articleshow/129840603.cms",
     "time": "2026-03-27T06:50:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Massive ruckus in J&amp;K Assembly as NC MLAs protest over killing of Iran's Ali Khamenei",
-    "desc": "National Conference MLAs protested the killing of former Iranian Supreme Leader Ayatollah Khamenei and US-Israel military actions in Iran within the Jammu and Kashmir Assembly. The protest led to a scuffle with BJP MLAs, prompting an adjournment. Chief Minister Omar Abdullah condemned the conflict, stating regime change cannot be achieved through military bombardment.",
-    "img": "https://static.toiimg.com/photo/msid-129840100,imgsize-2712997.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-massive-ruckus-in-jk-assembly-as-nc-mlas-protest-over-killing-of-irans-ali-khamenei/articleshow/129839452.cms",
-    "time": "2026-03-27T05:59:56.000Z"
   },
   {
     "cat": "Business",
@@ -736,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-preview-12-players-to-watch-out-for/article70789870.ece",
     "time": "2026-03-27T03:27:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Army puts to test its new ‘Shaurya’ drone squadron for tank units",
-    "desc": "The Indian Army is bolstering its armoured regiments with dedicated drone units, 'Shaurya Squadrons', to enhance surveillance, precision strikes, and electronic warfare. Recently tested in a realistic battle scenario, these units aim to significantly boost battlefield awareness and response times for tank formations. This move reflects lessons learned from global drone-centric conflicts.",
-    "img": "https://static.toiimg.com/photo/msid-129836739,imgsize-1038438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/army-puts-to-test-its-new-shaurya-drone-squadron-for-tank-units/articleshow/129836740.cms",
-    "time": "2026-03-27T01:08:21.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
