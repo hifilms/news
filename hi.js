@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Teenage superstar set for another stellar IPL season? Check stats",
+    "desc": "India’s young teenage sensation, Vaibhav Sooryavanshi, turns 15 years old on March 27, 2026. The youngster garnered attention through his performances in the IPL (Indian Premier League) 2025 and for India U19 after that. Born...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/happy-birthday-vaibhav-sooryavanshi-teenage-superstar-set-for-another-stellar-ipl-season-check-stats-2026-03-27-1035272",
+    "time": "2026-03-27T05:01:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "West Indies' Evin Lewis reverses international retirement, eyes red-ball comeback",
+    "desc": "Veteran West Indies batter Evin Lewis came forward and announced that he would be reversing his international retirement. It is worth noting that the 34-year-old announced his retirement after being left out of the Windies’...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-vin-lewis-reverses-international-retirement-eyes-red-ball-comeback-2026-03-27-1035263",
+    "time": "2026-03-27T03:45:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PSL 2026 introduces new rule, teams to submit two XIs at the toss for the new season",
+    "desc": "The PSL (Pakistan Super League) 2026 is well underway. The marquee event kicked off on March 26, and the season opener saw Lahore Qalandars taking on Hyderabad Kingsmen. With the new season well underway, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/psl-2026-introduces-new-rule-teams-to-submit-two-xis-at-the-toss-for-the-new-season-2026-03-27-1035257",
+    "time": "2026-03-27T02:36:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'I don't think I have anything to prove': GT skipper Shubman Gill oozes confidence ahead of IPL 2026",
     "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026. The marquee event is all set to kick off on March 28, and ahead of the tournament, the 10 franchises...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/lahore-qalandars-vs-hyderabad-kingsmen-psl-2026-live-score-pakistan-super-league-gaddafi-stadium-latest-match-updates-scorecard-teams-2026-03-26-1035216",
     "time": "2026-03-26T13:29:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chinnaswamy Stadium racing against time to be ready before RCB vs SRH IPL 2026 opener",
-    "desc": "Bengaluru’s M Chinnaswamy Stadium is racing against time to complete the remainder of the infrastructure work and be ready for the IPL 2026 opener between the Royal Challengers Bengaluru and Sunrisers Hyderabad on March 28....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/chinnaswamy-stadium-racing-against-time-to-be-ready-before-rcb-vs-srh-ipl-2026-opener-2026-03-26-1035205",
-    "time": "2026-03-26T12:27:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How many ODIs will India play till mid-2027 as BCCI announces home season schedule?",
-    "desc": "The Board of Control for Cricket in India (BCCI) announced India's 2026-27 home season schedule with some action-packed series lined up. Four teams will be visiting India from September 2026 till the early late early...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-many-odis-will-india-play-till-mid-2027-as-bcci-announces-home-season-schedule-2026-03-26-1035200",
-    "time": "2026-03-26T11:33:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I have not lost what I had': Lewis Hamilton looks to give everything he has for F1 title challenge",
-    "desc": "Lewis Hamilton has turned the fortunes from a dismal 2025 season to an impressive start in 2026 under the new regulations of Formula 1. With his former team, Mercedes, being the trend-setter so far in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/formula-1/i-have-not-lost-what-i-had-lewis-hamilton-looks-to-give-everything-he-has-for-f1-title-challenge-2026-03-26-1035192",
-    "time": "2026-03-26T10:39:27.000Z"
   }
 ];

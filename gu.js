@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "42 હજાર ટન LPG લઈને આવેલું &amp;#039;જગ વસંત&amp;#039; નામનું જહાજ હોર્મુઝ થઈને કંડલા બંદર પહોંચ્યું",
+    "desc": "દેશમાં તોળાઈ રહેલા ઉર્જા સંકટ વચ્ચે એક મોટી રાહતના સમાચાર આવ્યા છે. જગ વસંત નામનું એલપીજી ટેન્કર ગુજરાતના કંડલા બંદરે પહોંચી ગયુ છે. આ જહાજ હોર્મુઝ જળમાર્ગથી ભારત આવ્યું. ઈરાને ગણ્યા ગાંઠ્યા દેશોના જહાજોને હોર્મુઝમાંથી પસાર થવાની મંજૂરી આપેલી છે જેમાં ભારત પણ સામેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/jag-vasant-lpg-vessel-reached-kandla-port-gujart-via-strait-of-hormuz-iran-israel-us-war-news-470240 ",
+    "time": "2026-03-27T03:16:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ધુરંધર 3 આવશે કે નહીં થઈ ગયું કંફર્મ, તમે પણ જાણો ધુરંધર ફિલ્મના ત્રીજા પાર્ટ અંગેનું અપડેટ",
+    "desc": "ધુરંધર અને ધુરંધર 2 બંને ફિલ્મોને પબ્લિક તરફથી જોરદાર રિસ્પોન્સ મળ્યો છે. તેવામાં ધુરંધર 3 ફિલ્મ આવશે કે નહીં આવે તે ચર્ચાએ જોર પકડ્યું છે. વાત એવી પણ છે કે જૂન મહિનામાં ફિલ્મનો 3 પાર્ટ આવશે. તો ચાલો તમને આ અંગેની હકીકત શું છે તે જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-film-part-3-related-update-adhitya-dhar-dhurandhar-film-latest-update-470238 ",
+    "time": "2026-03-27T02:09:31.000Z"
+  },
+  {
     "cat": "World",
     "title": "આ તો હજુ ટ્રેલર છે, આગળ આવી શકે છે મોટું સંકટ,  નિષ્ણાંતોની ચેતવણી",
     "desc": "અમેરિકા-ઈઝરાયલ અને ઈરાન વચ્ચે ચાલી રહેલા યુદ્ધના 27 દિવસ થઈ ગયા છે. મધ્યપૂર્વમાં ચાલી રહેલા તણાવની અસર અનેક દેશોમાં જોવા મળી રહી છે. ખાસ કરીને એશિયામાં એનર્જી સંકટ જોવા મળી રહ્યું છે. ઈરાને હોર્મુઝ જળમાર્ગ બંધ કરતા કાચા તેલની સપ્લાય પર મોટી અસર પડી છે. આ સ્થિતિ જો યથાવત રહી તો સ્થિતિ વધુ ગંભીર બની શકે છે.",
@@ -369,15 +387,6 @@ const newsData_gu = [
     "time": "2026-03-24T14:06:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ખાડી દેશોમાં ચાલી રહેલા તણાવ વચ્ચે ટ્રમ્પે PM મોદીને કર્યો ફોન, સ્ટેટ ઓફ હોર્મુઝ પર શું થઈ ચર્ચા? જાણો",
-    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા તણાવ વચ્ચે, મહત્વપૂર્ણ સમાચાર સામે આવ્યા છે. અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે પ્રધાનમંત્રી મોદી સાથે વાત કરી છે. ભારતમાં અમેરિકાના રાજદૂત સર્જિયો ગોરે જણાવ્યું હતું કે રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે પ્રધાનમંત્રી નરેન્દ્ર મોદી સાથે ફોન પર વાત કરી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/amidst-the-ongoing-tension-in-the-gulf-countries-trump-called-pm-modi-what-was-discussed-on-the-strait-of-hormuz-find-out-469965 ",
-    "time": "2026-03-24T13:32:38.000Z"
-  },
-  {
     "cat": "Business",
     "title": "કેન્દ્રીય કર્મચારીઓ માટે મહત્ત્વના સમાચાર, બોનસના નિયમો અને ભથ્થામાં થઈ શકે છે મોટા ફેરફાર",
     "desc": "હાલમાં કેન્દ્ર સરકારના કર્મચારીઓને ઉત્પાદકતા-સંલગ્ન બોનસ અને બિન-ઉત્પાદકતા બોનસ આપવામાં આવે છે. જો કે, આ માટેની મર્યાદા અને પાત્રતા માપદંડો વર્ષોથી મોટાભાગે યથાવત રહ્યા છે. મોંઘવારી અને બદલાતી આર્થિક પરિસ્થિતિઓ હોવા છતાં આ બોનસની ગણતરી માટે ઉપયોગમાં લેવાતા ધોરણોમાં અપેક્ષિત સુધારો થયો નથી.",
@@ -394,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-us-ceasefire-again-falters-amid-trump-claims-iranian-army-makes-a-big-announcement-469963 ",
     "time": "2026-03-24T13:02:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "યુદ્ધ વચ્ચે ઈરાન દ્વારા ભારતને ક્રૂડ ઓઈલની ઓફર! પણ સામે રાખી ટેન્શન વધારનારી શરતો",
-    "desc": "ઈરાન અને અમેરિકા-ઇઝરાયેલ વચ્ચે વધતા સૈન્ય તણાવએ વૈશ્વિક ઊર્જા બજારમાં અનિશ્ચિતતાનું વાતાવરણ ઊભું કર્યું છે. ક્રૂડ ઓઈલની અછતે ભારતની ચિંતાઓ વધારી દીધી છે. આ વચ્ચે ઈરાન દ્વારા ઓઈલની ઓફર કરવામાં આવી છે, પરંતુ સાથે જ કેટલીક કડક શરતો પણ મુકવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/iran-offers-crude-oil-to-india-amid-war-but-puts-forward-conditions-that-increase-tension-469962 ",
-    "time": "2026-03-24T12:13:00.000Z"
   },
   {
     "cat": "World",
@@ -709,14 +709,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/amidst-the-shortage-of-gas-cylinders-a-new-scam-has-come-in-the-market-this-is-how-people-are-being-cheated-be-careful-like-this-468397 ",
     "time": "2026-03-13T09:49:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રશ્મિકા મન્દાનાની 8 વર્ષ જૂની ચેટ વાયરલ થયા બાદ બબાલ, અભિનેત્રીએ આપ્યું અલ્ટીમેટમ",
-    "desc": "રશ્મિકા મંદાના ઓડિયો લીક વિવાદ પર લાલધૂમ થઈ ગઈ છે. તેણે કહ્યું કે આ પ્રાઇવેસીનું ઉલ્લંઘન છે. લોકોએ વાતચીતના માત્ર એક હિસ્સા પર ધ્યાન કેન્દ્રીત કરી તેને વાયરલ કર્યો. આ સાથે તેણે કાર્યવાહી કરવાની પણ ધમકી આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/rashmika-mandanna-mother-leaked-audio-actress-warns-of-legal-action-468398 ",
-    "time": "2026-03-13T09:40:43.000Z"
   }
 ];

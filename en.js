@@ -1,12 +1,345 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Ranbir's 'Ramayana' FIRST LOOK to be unveiled April 2",
+    "desc": "The first look of Nitesh Tiwari's 'Ramayana', starring Ranbir Kapoor as Lord Ram, will be unveiled on April 2, Hanuman Jayanti. Producer Namit Malhotra confirmed the date, emphasizing the film's sincere and grand scale. This highly anticipated project, slated for a Diwali 2026 and 2027 release, is embarking on an extensive international promotional tour, beginning in the US.",
+    "img": "https://static.toiimg.com/photo/msid-129838726,imgsize-175528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-ranbir-kapoors-first-look-of-lord-ram-to-be-unveiled-on-hanuman-jayanti-producer-confirms/articleshow/129838699.cms",
+    "time": "2026-03-27T04:51:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Winner’s list for iHeartRadio Music Awards 2026",
+    "desc": "The iHeartRadio Music Awards 2026 concluded with Taylor Swift and Sabrina Carpenter shining. Swift took home Artist of the Year and Pop Song of the Year, while Carpenter won Pop Artist of the Year. Kendrick Lamar dominated Hip-Hop categories, and Morgan Wallen led the Country awards. The event celebrated a diverse range of musical talent.",
+    "img": "https://static.toiimg.com/photo/msid-129838756,imgsize-156888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/iheartradio-music-awards-2026-complete-winner-list-for-the-night-alex-warren-taylor-swift-and-more/articleshow/129838756.cms",
+    "time": "2026-03-27T04:47:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Embarrassment for PSL as Labuschagne left baffled by low quality jersey",
+    "desc": "The Pakistan Super League began its 2026 season with an unusual incident. During the opening match between Lahore Qalandars and Hyderabad Kingsmen, the white ball turned pink. Dye from the Hyderabad Kingsmen's jerseys rubbed off onto the ball. This unexpected color change caused concern and drew attention on social media. The match proceeded with the altered ball.",
+    "img": "https://static.toiimg.com/photo/msid-129838825,imgsize-1033951.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/embarrassment-for-psl-as-labuschagne-left-baffled-by-low-quality-jersey-turning-ball-pink/articleshow/129838784.cms",
+    "time": "2026-03-27T04:43:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yami Gautam attends ‘Dhurandhar 2’ screening in a jam-packed theatre",
+    "desc": "The Revenge,' directed by her husband Aditya Dhar, actress Yami Gautam was caught on camera displaying her authentic reactions. The footage, shared by her sister Surilie, shows Yami playfully hiding her face during her cameo, much to the delight of fellow attendees.",
+    "img": "https://static.toiimg.com/photo/msid-129838519,imgsize-125934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yami-gautam-attends-dhurandhar-2-the-revenge-screening-in-theatre-shares-glimpses/articleshow/129838519.cms",
+    "time": "2026-03-27T04:22:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SS Rajamouli and team 'Varanasi' wish fans",
+    "desc": "Filmmaker SS Rajamouli's 'Varanasi', starring Mahesh Babu as Lord Ram, offered a glimpse of an epic battle sequence on Ram Navami, teasing a 2027 release. The film promises a grand scale with a significant battle scene. Meanwhile, Nitesh Tiwari's 'Ramayana' and Bhavna Talwar's 'Valmiki Ramayana' also shared updates, with the latter unveiling its first poster.",
+    "img": "https://static.toiimg.com/photo/msid-129838200,imgsize-86294.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-navami-2026-ss-rajamouli-and-team-varanasi-wish-fans-share-ramayana-scene-and-says-youll-see-him-in-theatres-by-next-sri-rama-navami/articleshow/129838183.cms",
+    "time": "2026-03-27T04:22:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian football team, coach Jamil denied entry over Kochi stadium pay dispute",
+    "desc": "Indian football team and coach Khalid Jamil were denied entry to Kochi's Jawaharlal Nehru International Stadium for an Asian Cup qualifier. Officials cited unpaid rent and security deposit by the Kerala Football Association, forcing the team to train elsewhere. The situation caused embarrassment before the match.",
+    "img": "https://static.toiimg.com/photo/msid-129838540,imgsize-19738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/indian-football-team-coach-khalid-jamil-denied-entry-over-kochi-stadium-pay-dispute/articleshow/129838557.cms",
+    "time": "2026-03-27T04:22:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hyderabad’s rapid urban expansion: Resetting the lines of control",
+    "desc": "From the bustling lanes of its historic core to the glass towers of the western IT corridor and the ever-expanding suburbs beyond, Hyderabad’s rapid growth is testing its administrative limits. As the capital of India’s youngest State grows outwards, the government has overhauled its policing structure, redrawing boundaries, reshaping existing commissionerates and introducing a new one to keep pace with the city’s scale. The move aims to improve oversight and bring policing closer to residents, even as questions remain over coordination and on-ground clarity, write Lavpreet Kaur and Naveen Kumar",
+    "img": "https://th-i.thgim.com/public/incoming/9cjkyw/article70791086.ece/alternates/LANDSCAPE_1200/DSC1239.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabads-rapid-urban-expansion-resetting-the-lines-of-control/article70791038.ece",
+    "time": "2026-03-27T04:21:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian women’s football’s freefall: Five coaches in five years, another one loading",
+    "desc": "India’s disastrous AFC Women’s Asia Cup campaign, marked by three losses, including a humiliating 0–11 defeat to Japan, has exposed the All India Football Federation’s chronic mismanagement. Frequent coaching changes, rushed appointments, and opaque decision-making reflect a lack of planning, leaving the team directionless.",
+    "img": "https://static.toiimg.com/photo/msid-129838435,imgsize-71076.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/news/indian-womens-footballs-freefall-five-coaches-in-five-years-another-one-loading/articleshow/129838340.cms",
+    "time": "2026-03-27T04:15:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mirabai Chanu trades pizza for discipline with an eye on Asian Games, CWG",
+    "desc": "Olympic medalist Mirabai Chanu is adhering to a rigorous diet for the 48kg category, foregoing local delicacies to maintain peak performance for upcoming Asian and Commonwealth Games. Despite a Paris Olympics setback, her record-breaking national performance fuels confidence for the Asian Championships. Chanu also champions grassroots talent through initiatives like the Khelo India Tribal Games.",
+    "img": "https://static.toiimg.com/photo/msid-129838329,imgsize-19804.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/mirabai-chanu-trades-pizza-for-discipline-with-an-eye-on-asian-games-cwg/articleshow/129838293.cms",
+    "time": "2026-03-27T04:06:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Full list of fixtures for all 10 teams",
+    "desc": "The BCCI has unveiled the IPL 2026 schedule, with the 19th season commencing on March 28 and concluding on May 31. A total of 74 matches will be played, featuring a home and away format for each of the 10 teams. The top four teams will advance to the playoffs after the league stage.",
+    "img": "https://static.toiimg.com/photo/msid-129838208,imgsize-1052272.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-schedule-2026-full-list-of-fixtures-for-all-10-teams/articleshow/129838168.cms",
+    "time": "2026-03-27T03:53:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil drops as Trump pauses Iran strikes, but stock traders nervous",
+    "desc": "Trump had earlier denied he was desperate for a deal to end the war, despite the Islamic republic’s cool response to an American peace plan and fears the spike in oil prices would fan inflation",
+    "img": "https://th-i.thgim.com/public/business/markets/3txf0/article70791118.ece/alternates/LANDSCAPE_1200/Oilprices.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/oil-drops-as-trump-pauses-iran-strikes-but-stock-traders-nervous/article70791089.ece",
+    "time": "2026-03-27T03:53:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bitter battle for nine seats that can turn electoral fortunes",
+    "desc": "The LDF, the UDF and the NDA are locked in three-cornered fights in the constituencies of Nemom, Kazhakkoottam, Vattiyoorkkavu, Aranmula, Pala, Thrissur, Nattika, Palakkad and Manjeshwaram. The outcomes from these seats could even determine the final outcome of the polls.",
+    "img": "https://th-i.thgim.com/public/incoming/3zts5m/article70789682.ece/alternates/LANDSCAPE_1200/80688_26_3_2026_20_14_51_4_ONEWAL_KKN4.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-triangular-battle-on-the-cards-in-nine-seats-in-kerala/article70779616.ece",
+    "time": "2026-03-27T03:51:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "President urged not to grant assent to Transgender Amendment Bill",
+    "desc": "The letter was written by All-India Feminist Alliance (ALIFA), a pan-India collective of grassroots organisations, along with National Alliance for Justice, Accountability and Rights (NAJAR); the groups said they were ‘extremely alarmed and distressed at the undue and unjustifiable haste’ with which the Bill was passed in Parliament",
+    "img": "https://th-i.thgim.com/public/incoming/im62sc/article70789441.ece/alternates/LANDSCAPE_1200/TRANS%20BILL%20PROTEST%20DELHI%202026_26_03_105.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/groups-urge-president-not-to-grant-assent-to-regressive-transgender-amendment-bill/article70788397.ece",
+    "time": "2026-03-27T03:50:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock market today (March 27, 2026): Nifty50 opens below 23,100; BSE Sensex down over 800 points as US-Iran war, oil prices weigh on sentiment",
+    "desc": "Nifty50 and BSE Sensex dropped in opening trade on Friday as US-Iran war tensions and crude oil prices continued to weight on sentiment. While Nifty50 went below 23,100, BSE Sensex was down over 800 points.",
+    "img": "https://static.toiimg.com/photo/msid-129838028,imgsize-107068.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-27-2026-dalal-street-indian-equities-global-markets-us-iran-war-donald-trump-oil-prices/articleshow/129838012.cms",
+    "time": "2026-03-27T03:48:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The surging cost of health care in Kerala",
+    "desc": "The interest shown by global private equity firms in Kerala’s private health sector has given rise to apprehensions that medical treatment may become a costly affair. A.S. Jayanth finds out A look at the possible fallout of the massive foreign investments in Kerala's hospitals",
+    "img": "https://th-i.thgim.com/public/incoming/q3aoqq/article70788964.ece/alternates/LANDSCAPE_1200/Medical.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/the-surging-cost-of-health-care-in-kerala/article70784005.ece",
+    "time": "2026-03-27T03:46:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Harry Potter’ series is going to be INCREDIBLE'",
+    "desc": "J.K. Rowling has officially endorsed the new 'Harry Potter' web series, expressing excitement for the upcoming adaptation. Despite her approval, the casting of Paapa Essiedu as Professor Snape has sparked online criticism from fans. The eight-episode season, featuring a fresh cast, is slated for a Christmas 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-129837653,imgsize-89770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jk-rowling-praises-harry-potter-and-the-philosophers-stone-trailer-its-going-to-be-incredible/articleshow/129836909.cms",
+    "time": "2026-03-27T03:41:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Powerplay blitz defines modern T20 batting",
+    "desc": "The T20 Powerplay has transformed from a tone-setting phase to a game-deciding period, with teams now relentlessly attacking to maximize scoring. This aggressive intent, evident in record-breaking scores, forces bowlers to adapt strategically, while captains face a difficult choice in deploying their best resources early. The first six overs have become the most crucial swing phase in T20 cricket.",
+    "img": "https://static.toiimg.com/photo/msid-129838036,imgsize-71790.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/no-time-for-caution-powerplay-blitz-defines-modern-t20-batting/articleshow/129837997.cms",
+    "time": "2026-03-27T03:41:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "APSRTC’s electric push has staff worried",
+    "desc": "The State government’s drive to replace diesel buses in the APSRTC fleet with electric ones promises a cleaner and quieter future, but it has also sparked anxiety among employees, who fear that the transition to e-buses could eventually threaten job security and livelihoods, writes P. Sujatha Varma",
+    "img": "https://th-i.thgim.com/public/incoming/j9fo4z/article70789708.ece/alternates/LANDSCAPE_1200/26GNRAO-SPOTLIGHT-01%2012.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Vijayawada/andhra-pradesh-electric-bus-apsrtcs-electric-push-has-staff-worried/article70789632.ece",
+    "time": "2026-03-27T03:39:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Danish Pandor says Yami Gautam's 'Dhurandhar The Revenge' cameo was 'totally surprising'",
+    "desc": "The Revenge,' has revealed that Yami Gautam's cameo in the film came as a complete surprise, not just to audiences, but to the cast as well. In a recent interview, the actor shared that he had no idea about Yami's appearance in the film. In the film, Yami plays Shazia Bano, a nurse who has a brief but pivotal scene with Ranveer Singh's Hamza. Danish praised her screen presence, saying she lights up every frame she appears in. He also expressed admiration for director Aditya Dhar, calling him one of his biggest inspirations.",
+    "img": "https://static.toiimg.com/photo/msid-129837804,imgsize-90812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/danish-pandor-on-yami-gautams-totally-surprising-dhurandhar-2-the-revenge-cameo-appearance-she-enters-the-frame-and-the-whole-frame-lifts-up/articleshow/129837804.cms",
+    "time": "2026-03-27T03:37:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pressure, trolling, captaincy: Riyan Parag faces his biggest IPL yet",
+    "desc": "Riyan Parag steps into IPL 2026 as Rajasthan Royals captain amid intense scrutiny and past trolling. Backed by the franchise after a rigorous selection process, the 24-year-old faces a defining season. Inspired by Hardik Pandya’s journey and focused on team success, Parag aims to silence critics and revive his chances of returning to the Indian team.",
+    "img": "https://static.toiimg.com/photo/msid-129837971,imgsize-99424.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/pressure-trolling-captaincy-riyan-parag-faces-his-biggest-ipl-yet/articleshow/129837914.cms",
+    "time": "2026-03-27T03:35:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt cuts excise duty to Rs 3 a litre on petrol, to nil on diesel amid Middle East tensions",
+    "desc": "India has reduced its fuel duty, lowering the special additional excise duty on petrol to Rs 3 per litre and removing it entirely on diesel. This move comes amid global oil supply disruptions and follows a price hike by Nayara Energy. Crude prices retreated as US-Iran negotiations showed progress.",
+    "img": "https://static.toiimg.com/photo/msid-129837874,imgsize-48146.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-cuts-excise-duty-to-rs-3-a-litre-on-petrol-to-nil-on-diesel-amid-middle-east-tension/articleshow/129837789.cms",
+    "time": "2026-03-27T03:27:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arbaaz Khan and Sshura Khan share photo of baby girl Sipaara",
+    "desc": "Arbaaz Khan and Sshura Khan offered a rare peek at their daughter, Sipaara, during recent Eid celebrations. Sshura shared a heartwarming photo of Sipaara's feet adorned with silver anklets, captioning it \"Eid Vibes.\" The couple continues to maintain privacy around their child, with this being another instance of sharing glimpses without revealing her face.",
+    "img": "https://static.toiimg.com/photo/msid-129837877,imgsize-63644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arbaaz-khan-and-sshura-khan-share-rare-glimpse-of-baby-sipaara-amid-festivities-eid-vibes/articleshow/129837877.cms",
+    "time": "2026-03-27T03:27:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Allrounder-heavy Punjab Kings face middle-order concern",
+    "desc": "Punjab Kings, last season's runners-up, boast a high-potential, high-variance squad packed with all-rounders, aiming for their maiden IPL title under Shreyas Iyer. While their batting depth and left-arm pace are strengths, a lack of a consistent domestic opener and potential over-reliance on key players pose challenges.",
+    "img": "https://static.toiimg.com/photo/msid-129837889,imgsize-162908.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/pbks-swot-allrounder-heavy-punjab-kings-face-middle-order-concern/articleshow/129837885.cms",
+    "time": "2026-03-27T03:27:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 Countdown",
+    "desc": "Statistical stalemates were inevitable in a landscape full of world-beaters, which meant that the final list of players expected to set the stage on fire as the curtains rise for the 19th iteration of the premier T20 league was driven by sixth sense",
+    "img": "https://th-i.thgim.com/public/sport/4khl4c/article70789875.ece/alternates/LANDSCAPE_1200/SAMSON.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-preview-12-players-to-watch-out-for/article70789870.ece",
+    "time": "2026-03-27T03:27:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer’s Punjab Kings target IPL 2026 glory",
+    "desc": "Punjab Kings enter the new IPL season with renewed purpose after a narrow six-run loss in last year's final. Led by skipper Shreyas Iyer, the team boasts a balanced squad with a strong Indian core, including explosive openers Prabhsimran Singh and Priyansh Arya. They aim to leverage their experience and a potent all-rounders' department to finally clinch their maiden title.",
+    "img": "https://static.toiimg.com/photo/msid-129837748,imgsize-205438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/unfinished-business-shreyas-iyers-punjab-kings-target-ipl-2026-glory/articleshow/129837739.cms",
+    "time": "2026-03-27T03:11:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Annamalai unhappy with constituencies allocated by AIADMK",
+    "desc": "The former BJP Tamil Nadu president is learnt to have requested the party leadership not to identify any seat for him as he has decided against contesting in the Assembly election. But he will continue to work “as a party karyakarta for all BJP and NDA candidates”",
+    "img": "https://th-i.thgim.com/public/incoming/xpni8i/article70789811.ece/alternates/LANDSCAPE_1200/BJP-leader-AnnaG3EFJJ8AA.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/annamalaiunhappy-with-constituencies-allocated-by-aiadmk/article70789767.ece",
+    "time": "2026-03-27T02:54:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We are happy': MCA president Ajinkya reacts to missing out on BGT Test",
+    "desc": "The Mumbai Cricket Association (MCA) is unperturbed about not hosting a Test match during the upcoming India-Australia series, expressing happiness to host an ODI between India and Zimbabwe. MCA president Ajinkya Naik stated that all matches are important and the association will continue working for the betterment of cricket in Mumbai.",
+    "img": "https://static.toiimg.com/photo/msid-129837549,imgsize-50986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-are-happy-mca-president-ajinkya-naik-reacts-to-missing-out-on-bgt-test/articleshow/129837465.cms",
+    "time": "2026-03-27T02:52:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PSL 2026 opener sees ball turn pink, fans flood social media with memes",
+    "desc": "Lahore Qalandars kicked off the Pakistan Super League 2026 with a dominant win, but the match was overshadowed by a bizarre incident where the ball inexplicably turned pink. Despite the unusual occurrence and broadcast glitches, the focus remains on the cricket and the viral online buzz surrounding the unexpected colour change.",
+    "img": "https://static.toiimg.com/photo/msid-129837510,imgsize-41666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-2026-opener-sees-ball-turn-pink-fans-flood-social-media-with-memes-watch/articleshow/129837448.cms",
+    "time": "2026-03-27T02:50:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US paper currency to bear Donald Trump’s signature",
+    "desc": "The Trump administration is proposing to feature the President's signature on US dollar bills for the nation's 250th anniversary. Officials cite economic achievements and national pride as reasons. This move, however, faces scrutiny due to historical laws restricting living individuals on currency and a separate plan for a Trump commemorative coin.",
+    "img": "https://static.toiimg.com/photo/msid-129837202,imgsize-1044528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/first-since-1861-us-paper-currency-to-bear-donald-trumps-signature/articleshow/129837075.cms",
+    "time": "2026-03-27T02:49:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Cipla, Bajaj Finserv &amp; more: Top stocks to watch today",
+    "desc": "Analysts have adjusted targets for several companies, with UBS neutral on Cipla citing supply headwinds despite a healthy pipeline. Motilal Oswal initiated coverage on Bajaj Finserv with a neutral rating, highlighting its strong customer base and predictable earnings. Jefferies is bullish on LG India, anticipating price hikes due to rising costs and a weak rupee.",
+    "img": "https://static.toiimg.com/photo/msid-129837417,imgsize-584531.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/cipla-bajaj-finserv-more-top-stocks-to-watch-on-march-27-2026/articleshow/129837402.cms",
+    "time": "2026-03-27T02:42:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Varanasi' to release in 2 parts after 'Dhurandhar' success",
+    "desc": "Filmmaker SS Rajamouli is reportedly considering a two-part release for his upcoming magnum opus, 'Varanasi', following the success of the 'Dhurandhar' franchise. Despite earlier denials, sources suggest the ambitious time-travel film, with a budget exceeding Rs 1,000 crore, will be split to allow for a more expansive narrative, mirroring the 'Dhurandhar' model.",
+    "img": "https://static.toiimg.com/photo/msid-129837055,imgsize-158138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-dhurandhar-2-the-revene-box-office-success-and-ramayana-ss-rajamoulis-varanasi-to-be-split-into-two-parts-reports/articleshow/129837019.cms",
+    "time": "2026-03-27T02:40:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Udaybir Sandhu on his 10 year grind before breakout role as Pinda in 'Dhurandhar 2'",
+    "desc": "The Revenge, has become one of the most talked-about actors from the film despite having only a few scenes. In a candid chat, the actor opened up about his ten-year-long journey in Bollywood — starting out as a model in Delhi, moving to Mumbai, giving countless auditions and working in ad films before finally landing a role that has put him on the map. He also spoke honestly about how difficult it is for outsiders to break into the industry, saying that one simply has to wait for a small opening and make the most of it when it comes.",
+    "img": "https://static.toiimg.com/photo/msid-129837255,imgsize-97236.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/udaybir-sandhu-on-his-10-year-grind-before-landing-the-breakout-role-as-pinda-in-dhurandhar-2-the-revenge-itne-zyada-auditions-diye-na/articleshow/129837255.cms",
+    "time": "2026-03-27T02:39:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rosalía stops Milan concert after 11 songs, citing health issues",
+    "desc": "In a heartbreaking twist at her Milan concert, global music sensation Rosalía had to step back from the stage after only 11 songs due to a sudden bout of food poisoning. Struggling through her discomfort, the 33-year-old singer openly addressed her fans, sharing the unfortunate news that she simply couldn't continue.",
+    "img": "https://static.toiimg.com/photo/msid-129837299,imgsize-50114.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/blinding-lights-singer-rosala-stops-milan-concert-after-11-songs-due-to-food-poisoning-tried-to-push-it-till-the-end/articleshow/129837299.cms",
+    "time": "2026-03-27T02:34:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Iran’s revenue soars as others struggle due to Hormuz crisis; how much is it earning daily?",
+    "desc": "Iran is experiencing a dual benefit from rising oil prices, with daily revenue increasing significantly in March. Despite ongoing tensions, crude exports remain near pre-war levels, with activity at Kharg Island terminal picking up. Iran has also blocked ships to aggressor nations via the Strait of Hormuz.",
+    "img": "https://static.toiimg.com/photo/msid-129837192,imgsize-275786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/irans-oil-revenue-soars-as-others-struggle-due-to-strait-of-hormuz-crisis-how-much-is-it-earning-daily/articleshow/129837056.cms",
+    "time": "2026-03-27T02:30:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Crude falls as Trump pauses attacks on Iranian energy plants; Brent at $105 per barrel",
+    "desc": "Oil prices are soaring past $100 a barrel as the Middle East conflict nears a month, impacting global supply. Brent crude is trading above $107, while WTI is near $94. Goldman Sachs predicts further increases before a gradual decline. Iran's tightening control over the Strait of Hormuz and potential new fees on ships are key factors driving these price hikes.",
+    "img": "https://static.toiimg.com/photo/msid-129837264,imgsize-2108222.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-march-27-2026-crude-falls-as-trump-pauses-attacks-on-iranian-energy-plants-brent-at-105-per-barrel/articleshow/129837008.cms",
+    "time": "2026-03-27T02:26:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Aadu 3' BO day 9: Jayasurya's film crosses Rs 42 Cr",
+    "desc": "Jayasurya's 'Aadu 3' is riding high in its second week, amassing a fantastic Rs 36.55 crore net in India. The film, bringing back the beloved Shaji Pappan and diving into a whimsical world of time travel alongside a magical stone, is captivating viewers far and wide.",
+    "img": "https://static.toiimg.com/photo/msid-129837059,imgsize-111426.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aadu-3-box-office-collections-day-9-jayasuryas-film-crosses-rs-42-cr-gross-while-nivin-paulys-prathichaya-struggles/articleshow/129837059.cms",
+    "time": "2026-03-27T01:59:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Samantha Ruth Prabhu speaks up on gender bias in cinema",
     "desc": "Samantha Ruth Prabhu powerfully articulated the uphill battle women face in cinema, stating they must \"fight for everything twice as hard.\" She highlighted women's tendency to adjust, sacrifice, and apologize excessively. Prabhu envisions a future where female-led stories are simply \"stories,\" and women on screen are complex individuals, not just plot devices.",
     "img": "https://static.toiimg.com/photo/msid-129836921,imgsize-66586.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/samantha-ruth-prabhu-on-gender-bias-stop-adjusting-says-maa-inti-bangaram-actor-shares-bold-vision-for-women/articleshow/129836921.cms",
     "time": "2026-03-27T01:43:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘They might die’: Vaibhav Sooryavanshi terrifies bowlers, called ‘Baby Hulk’",
+    "desc": "Teenage sensation Vaibhav Sooryavanshi, now 15, is making waves as a destructive hitter in Indian cricket and the IPL. His rapid rise includes an India A debut and a strong bond with captain Jitesh Sharma, who highlights his natural power and the fear he instills in bowlers. Sooryavanshi is poised for a key role with Rajasthan Royals in IPL 2026.",
+    "img": "https://static.toiimg.com/photo/msid-129829557,imgsize-160886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/they-might-die-vaibhav-sooryavanshi-terrifies-bowlers-called-baby-hulk/articleshow/129829376.cms",
+    "time": "2026-03-27T01:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -72,22 +405,13 @@ const newsData_en = [
     "time": "2026-03-27T00:43:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Zendaya BORROWS Cate Blanchett's gown for film premiere",
-    "desc": "Zendaya stunned at 'The Drama' premiere in a borrowed vintage Armani Privé gown from Cate Blanchett, embracing the 'something borrowed' tradition. The actress also shared her thoughts on marriage, suggesting best friends make for a perfect union. Following a packed year, she plans a hiatus in 2027.",
-    "img": "https://static.toiimg.com/photo/msid-129836558,imgsize-91680.cms",
+    "cat": "Sports",
+    "title": "Shubman Gill fires bold ‘I don’t have anything to prove' message despite T20 WC snub",
+    "desc": "Gujarat Titans captain Shubman Gill is focused on winning the IPL 2026 title. He stated that personal achievements are secondary to team goals. Gill believes his past performances speak for themselves and he has nothing to prove. He aims to help his team achieve consistency and secure another championship. Gill's priority remains the team's victory in every match and tournament.",
+    "img": "https://static.toiimg.com/photo/msid-129828966,imgsize-71358.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-borrows-cate-blanchetts-gown-for-the-drama-rome-premiere-pics/articleshow/129836329.cms",
-    "time": "2026-03-27T00:42:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Prathichaya' BO day 1: Nivin Pauly film opens slow",
-    "desc": "Nivin Pauly's political thriller 'Prathichaya' has opened to a lukewarm box office reception, collecting Rs 65 lakhs net on its first day. The film, which sees Pauly's son stepping in to protect his father's image amidst a political crisis, registered a modest 24.44% occupancy. Its success now hinges on positive word-of-mouth against strong competition.",
-    "img": "https://static.toiimg.com/photo/msid-129836579,imgsize-35744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/prathichaya-box-office-collections-day-1-nivin-pauly-film-opens-slow-earns-rs-75-lakhs-gross/articleshow/129836579.cms",
-    "time": "2026-03-27T00:28:32.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-shubman-gill-fires-bold-i-dont-have-anything-to-prove-message-despite-t20-wc-snub/articleshow/129828990.cms",
+    "time": "2026-03-27T00:30:00.000Z"
   },
   {
     "cat": "Politics",
@@ -135,13 +459,13 @@ const newsData_en = [
     "time": "2026-03-26T23:43:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ranbir to begin 'Ramayana' promotions in US",
-    "desc": "Nitesh Tiwari's epic 'Ramayana' is gearing up for a grand Diwali 2026 release, with promotional activities kicking off in the United States. Ranbir Kapoor, director Tiwari, and producer Malhotra will lead a media interaction in late March, offering a first glimpse into the ambitious project.",
-    "img": "https://static.toiimg.com/photo/msid-129836123,imgsize-138002.cms",
+    "cat": "Sports",
+    "title": "‘He shouldn’t play entire season if…’",
+    "desc": "Ravichandran Ashwin firmly believes MS Dhoni should start in Chennai Super Kings' playing XI if he's part of the squad, rejecting the Impact Player role. Ashwin emphasized Dhoni's unwavering self-belief and his crucial on-field guidance for new captain Ruturaj Gaikwad, highlighting his wicket-keeping and tactical acumen as vital contributions beyond just batting.",
+    "img": "https://static.toiimg.com/photo/msid-129824210,imgsize-76298.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-ranbir-kapoor-and-nitesh-tiwari-to-begin-film-promotions-in-the-united-states-end-march/articleshow/129836099.cms",
-    "time": "2026-03-26T23:07:17.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl2026ashwin-drops-blunt-verdict-on-ms-dhoni-he-shouldnt-play-entire-season-if/articleshow/129824082.cms",
+    "time": "2026-03-26T23:30:00.000Z"
   },
   {
     "cat": "Politics",
@@ -216,15 +540,6 @@ const newsData_en = [
     "time": "2026-03-26T22:32:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ranveer-Deepika celebrate ‘Dhurandhar 2’ success",
-    "desc": "The Revenge' crossed Rs 1000 crore globally. The duo was spotted enjoying a low-key date, indulging in dosas with Ranveer's father. The film's phenomenal box office success continues to shatter records, making it one of the fastest to reach this achievement.",
-    "img": "https://static.toiimg.com/photo/msid-129834560,imgsize-133988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-and-deepika-padukone-celebrate-dhurandhar-2-the-revenge-rs-1000-crore-box-office-success-with-dosa-shop-date-pic/articleshow/129834201.cms",
-    "time": "2026-03-26T22:30:54.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "British Airways and SWISS add India flights",
     "desc": "Foreign airlines are boosting India routes as Gulf carriers scale back operations. SWISS is adding a second daily flight to Delhi, while British Airways will offer a third daily service from Delhi and Mumbai. These expansions aim to satisfy robust travel demand, with airlines reallocating capacity due to the evolving West Asia situation.",
@@ -241,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/fewer-flights-no-fare-caps-domestic-airfares-set-to-soar/articleshow/129835239.cms",
     "time": "2026-03-26T22:19:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Madhoo regrets turning down Shilpa Shetty's role in Baazigar",
-    "desc": "Madhoo Shah recently opened up about her early years in cinema, recalling her experiences of working with legendary stars and the lessons she carried forward. She admitted that turning down Baazigar remains one of her few regrets in life. She also talked about her admiration for Shah Rukh Khan.",
-    "img": "https://static.toiimg.com/photo/msid-129834617,imgsize-120278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madhoo-shah-regrets-turning-down-shilpa-shettys-role-in-baazigar-confesses-her-admiration-for-shah-rukh-khan-im-your-biggest-fan/articleshow/129834617.cms",
-    "time": "2026-03-26T22:14:17.000Z"
   },
   {
     "cat": "World",
@@ -306,24 +612,6 @@ const newsData_en = [
     "time": "2026-03-26T21:58:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Twilight' star Taylor Lautner announces wife's pregnancy",
-    "desc": "Actor Taylor Lautner and his wife, also named Taylor Lautner, are joyfully expecting their first child. The couple shared the heartwarming news through a social media post featuring intimate photos of the pregnancy. 'Twilight' co-star Nikki Reed expressed her excitement and well wishes for the parents-to-be. This marks a significant new chapter for the couple, who married in 2022.",
-    "img": "https://static.toiimg.com/photo/msid-129834185,imgsize-163012.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/twilight-star-taylor-lautner-announces-wifes-pregnancy-whats-better-than-two-taylor-lautners/articleshow/129833946.cms",
-    "time": "2026-03-26T21:53:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bitter battle for nine seats that can turn electoral fortunes",
-    "desc": "The LDF, the UDF and the NDA are locked in three-cornered fights in the constituencies of Nemom, Kazhakkoottam, Vattiyoorkkavu, Aranmula, Pala, Thrissur, Nattika, Palakkad and Manjeshwaram. The outcomes from these seats could even determine the final outcome of the polls.",
-    "img": "https://th-i.thgim.com/public/incoming/3zts5m/article70789682.ece/alternates/LANDSCAPE_1200/80688_26_3_2026_20_14_51_4_ONEWAL_KKN4.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-triangular-battle-on-the-cards-in-nine-seats-in-kerala/article70779616.ece",
-    "time": "2026-03-26T21:26:13.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Tamil Nadu’s Nitish Kumar or assertive chief? Edappadi Palaniswami confronts a battle of perceptions",
     "desc": "DMK claims AIADMK is subservient to the Modi government, framing the Assembly election as Tamil Nadu vs Delhi; BJP leaders avoid naming Mr. Palaniswami as NDA’s CM face, but he asserts himself in seat-sharing announcements",
@@ -331,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/edappadi-palaniswami-fights-political-reputation-of-becoming-tamil-nadus-nitish-kumar-subject-to-bjp-whims/article70788391.ece",
     "time": "2026-03-26T21:23:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "President urged not to grant assent to Transgender Amendment Bill",
-    "desc": "The letter was written by All-India Feminist Alliance (ALIFA), a pan-India collective of grassroots organisations, along with National Alliance for Justice, Accountability and Rights (NAJAR); the groups said they were ‘extremely alarmed and distressed at the undue and unjustifiable haste’ with which the Bill was passed in Parliament",
-    "img": "https://th-i.thgim.com/public/incoming/im62sc/article70789441.ece/alternates/LANDSCAPE_1200/TRANS%20BILL%20PROTEST%20DELHI%202026_26_03_105.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/groups-urge-president-not-to-grant-assent-to-regressive-transgender-amendment-bill/article70788397.ece",
-    "time": "2026-03-26T21:20:41.000Z"
   },
   {
     "cat": "Business",
@@ -387,15 +666,6 @@ const newsData_en = [
     "time": "2026-03-26T20:09:08.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026 Countdown",
-    "desc": "Statistical stalemates were inevitable in a landscape full of world-beaters, which meant that the final list of players expected to set the stage on fire as the curtains rise for the 19th iteration of the premier T20 league was driven by sixth sense",
-    "img": "https://th-i.thgim.com/public/sport/4khl4c/article70789875.ece/alternates/LANDSCAPE_1200/SAMSON.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-preview-12-players-to-watch-out-for/article70789870.ece",
-    "time": "2026-03-26T20:08:07.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Industry knocks on govt doors, seeks supply woes resolution",
     "desc": "Industry has urged the government to address supply chain disruptions impacting sectors from pharmaceuticals to plastics. Suggestions include loan relief for small businesses, a \"green corridor\" for goods, and restricting certain input uses. Rising freight rates and a potential container crunch are also major concerns.",
@@ -403,24 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/industry-knocks-on-govt-doors-seeks-supply-woes-resolution/articleshow/129833731.cms",
     "time": "2026-03-26T20:04:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dhurandhar actor reveals getting 'I love you' msgs from Pak",
-    "desc": "Dhurandhar actor Vivek Sinha recently spoke about the overwhelming response to his performance, his unconventional journey, and the life lessons that shaped him. From going viral for his intense role to receiving love—even from across the border—the actor didn’t hold back.",
-    "img": "https://static.toiimg.com/photo/msid-129833691,imgsize-30182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-actor-vivek-sinha-reveals-getting-i-love-you-messages-from-pakistan-those-14-seconds-of-footage-made-me-feel-like-a-star/articleshow/129833691.cms",
-    "time": "2026-03-26T20:01:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The surging cost of health care in Kerala",
-    "desc": "The interest shown by global private equity firms in Kerala’s private health sector has given rise to apprehensions that medical treatment may become a costly affair. A.S. Jayanth finds out A look at the possible fallout of the massive foreign investments in Kerala's hospitals",
-    "img": "https://th-i.thgim.com/public/incoming/q3aoqq/article70788964.ece/alternates/LANDSCAPE_1200/Medical.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/the-surging-cost-of-health-care-in-kerala/article70784005.ece",
-    "time": "2026-03-26T19:38:02.000Z"
   },
   {
     "cat": "Politics",
@@ -477,24 +729,6 @@ const newsData_en = [
     "time": "2026-03-26T18:37:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Malaika Arora shuts down dating rumours with Sorab Bedi",
-    "desc": "Malaika Arora is unfazed by her relationship status and the constant speculation around her personal life. The actress recently addressed ongoing dating rumours with Sorab Bedi and opened up about companionship, independence, and being a single mother, making it clear that she is in no rush to find a partner.",
-    "img": "https://static.toiimg.com/photo/msid-129832497,imgsize-82974.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/malaika-arora-shuts-down-dating-rumours-with-sorab-bedi-says-i-dont-need-a-partner-arhaan-and-me-have-a-good-laugh/articleshow/129832497.cms",
-    "time": "2026-03-26T18:35:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Annamalai unhappy with constituencies allocated by AIADMK",
-    "desc": "The former BJP Tamil Nadu president is learnt to have requested the party leadership not to identify any seat for him as he has decided against contesting in the Assembly election. But he will continue to work “as a party karyakarta for all BJP and NDA candidates”",
-    "img": "https://th-i.thgim.com/public/incoming/xpni8i/article70789811.ece/alternates/LANDSCAPE_1200/BJP-leader-AnnaG3EFJJ8AA.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/annamalaiunhappy-with-constituencies-allocated-by-aiadmk/article70789767.ece",
-    "time": "2026-03-26T18:32:05.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Slovak detained along Mizoram-Myanmar border, likely to be deported",
     "desc": "The man, a resident of Thailand, was allegedly trying to cross into Myanmar to meet a friend; he did not have a protected area permit; detention comes after American, Ukrainians tried to cross border to train armed ethnic groups",
@@ -502,24 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/slovak-detained-along-mizoram-myanmar-border-likely-to-be-deported/article70789552.ece",
     "time": "2026-03-26T18:21:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘I never taught Aditya Dhar, he learned himself’",
-    "desc": "Filmmaker Aditya Dhar’s fearless approach to storytelling is earning praise from his former mentor Priyadarshan, especially as Dhurandhar 2 continues its record-breaking run. Speaking about Dhar’s conviction, Priyadarshan highlighted how the director has managed to challenge conventional industry formulas.",
-    "img": "https://static.toiimg.com/photo/msid-129831228,imgsize-72022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-backs-aditya-dhars-bold-filmmaking-says-conviction-drives-dhurandhars-success-i-never-taught-him-he-learned-himself/articleshow/129831228.cms",
-    "time": "2026-03-26T17:48:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CBI arrests human trafficking ‘kingpin’ in Myanmar-based cyber scam compounds case",
-    "desc": "The accused has been identified as Sunil Nellathu Ramakrishnan, alias Krish, a resident of Mumbai. During the CBI probe, he emerged as one of the main “facilitators” in the trafficking network, through which victims were being illegally transported for exploitation in the scam centres in Southeast Asia.",
-    "img": "https://th-i.thgim.com/public/news/national/4d0fqf/article70789679.ece/alternates/LANDSCAPE_1200/TH---INDEX-CBI-HEADQUARTER.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cbi-arrests-human-trafficking-kingpin-in-myanmar-based-cyber-scam-compounds-case/article70789073.ece",
-    "time": "2026-03-26T17:27:55.000Z"
   },
   {
     "cat": "Sports",
@@ -550,33 +766,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Shami's latest act triggers big reaction from Langer",
-    "desc": "Mohammed Shami is training hard ahead of IPL 2026, aiming to return to India’s squad. The 35-year-old impressed LSG coach Justin Langer with his yorkers, who called them “breathtaking.” Langer also praised Shami’s leadership among younger players. With selectors overlooking him, the IPL offers Shami a crucial chance to prove himself and push for a comeback.",
-    "img": "https://static.toiimg.com/photo/msid-129829602,imgsize-45008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/watch-mohammed-shamis-latest-act-triggers-big-reaction-from-justin-langer/articleshow/129827949.cms",
-    "time": "2026-03-26T16:23:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nandamuri Balakrishna touches Hema Malini’s feet",
-    "desc": "A heartwarming moment from the International Film Festival Delhi (IFFD) 2026 is winning the internet. Nandamuri Balakrishna was seen touching the feet of his on-screen mother Hema Malini on the red carpet, and the video is now going viral across social media.",
-    "img": "https://static.toiimg.com/photo/msid-129829505,imgsize-81602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nandamuri-balakrishna-touches-hema-malinis-feet-at-iffd-2026-seeks-her-blessings-video-goes-viral/articleshow/129829505.cms",
-    "time": "2026-03-26T16:21:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Deepak questions ‘half-muting’ of abuses",
-    "desc": "The Revenge refuses to die down, but amid its roaring box office run, a curious debate has now taken centre stage. Actor-director Deepak Tijori has called out what he sees as a puzzling inconsistency in the way films are censored for theatrical release versus how they are later consumed on OTT platforms.",
-    "img": "https://static.toiimg.com/photo/msid-129829001,imgsize-75052.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-dhurandhar-2s-success-deepak-tijori-questions-half-muting-of-abuses-in-theatres-whats-the-logic-when-ott-versions-are-uncut/articleshow/129829001.cms",
-    "time": "2026-03-26T15:42:00.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "IOC bans transgender women from LA 2028 Olympics",
     "desc": "The IOC will bar transgender women from women’s Olympic events starting 2028, allowing only biological females with a one-time gene test. The move aims to ensure fairness, citing physical advantages linked to male biology. Backed by president Kirsty Coventry, the policy also impacts some DSD athletes and is expected to draw criticism despite calls for uniform global rules.",
     "img": "https://static.toiimg.com/photo/msid-129828778,imgsize-154798.cms",
@@ -592,15 +781,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-impact-indias-crude-imports-from-russia-near-all-time-highs-will-such-high-numbers-continue/articleshow/129827687.cms",
     "time": "2026-03-26T14:47:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill joins criticism of Impact Player rule, says ‘It takes the skill out’",
-    "desc": "Gujarat Titans captain Shubman Gill has voiced concerns about the IPL Impact Player rule. He believes it reduces the skill element in cricket. Several other Indian players share similar sentiments. The rule allows an extra player, impacting the traditional balance of the game. Gill feels it makes matches more predictable. The rule is set to continue until 2027.",
-    "img": "https://static.toiimg.com/photo/msid-129827674,imgsize-80678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/shubman-gill-joins-criticism-of-impact-player-rule-says-it-takes-the-skill-out/articleshow/129827631.cms",
-    "time": "2026-03-26T14:38:19.000Z"
   },
   {
     "cat": "World",
@@ -628,15 +808,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/olympics/transgender-women-athletes-banned-from-olympics-by-new-ioc-policy-on-female-eligibility/article70788680.ece",
     "time": "2026-03-26T14:04:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Another setback for RCB as star pacer ruled out after Hazlewood",
-    "desc": "Sri Lankan pacer Nuwan Thushara will miss the Indian Premier League. Sri Lanka Cricket denied him a No Objection Certificate. This follows a new strict fitness policy. Players must meet new physical benchmarks for overseas leagues. Thushara reportedly fell short of these standards. This could cost him his contract with Royal Challengers Bengaluru.",
-    "img": "https://static.toiimg.com/photo/msid-129826400,imgsize-129590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-another-setback-for-rcb-as-star-pacer-ruled-out-after-josh-hazlewood/articleshow/129826436.cms",
-    "time": "2026-03-26T13:26:39.000Z"
   },
   {
     "cat": "Sports",
@@ -675,42 +846,6 @@ const newsData_en = [
     "time": "2026-03-26T11:57:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Nayara Energy hikes petrol prices by Rs 5, diesel by Rs 3 amid Middle East crisis",
-    "desc": "Nayara Energy has increased petrol and diesel prices. This move comes as global oil prices climb due to the Middle East crisis. Other fuel retailers are taking different approaches. Some are absorbing losses, while state-run companies have kept standard fuel prices unchanged since April 2022. Premium petrol prices have risen.",
-    "img": "https://static.toiimg.com/photo/msid-129823902,imgsize-818081.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/nayara-energy-hikes-petrol-prices-by-rs-5-diesel-by-rs-3-amid-middle-east-crisis/articleshow/129823620.cms",
-    "time": "2026-03-26T11:55:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "LSG owner Sanjiv Goenka breaks silence on Pant captaincy ‘speculations’",
-    "desc": "Lucknow Super Giants owner Sanjiv Goenka has ended rumors about Rishabh Pant's captaincy for IPL 2026. Goenka publicly backed Pant, calling the speculation baseless. Pant faced criticism after a disappointing IPL 2025 season. The team begins its IPL 2026 campaign against Delhi Capitals on April 1. Pant's performance will be closely watched.",
-    "img": "https://static.toiimg.com/photo/msid-129823057,imgsize-224170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-lsg-owner-sanjiv-goenka-breaks-silence-on-rishabh-pant-captaincy-speculations/articleshow/129822370.cms",
-    "time": "2026-03-26T11:30:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Don't ask about Pakistan cricket': Irritated Afridi shushes media",
-    "desc": "Shaheen Shah Afridi drew attention at a PSL 2026 event by avoiding questions on Pakistan’s poor international form, asking reporters to focus only on the league. In a viral moment, he said, “Don’t ask about Pakistan… ask questions on PSL only.” The incident comes amid criticism after Pakistan’s early T20 World Cup exit, while Lahore Qalandars prepare to start their title defence.",
-    "img": "https://static.toiimg.com/photo/msid-129822650,imgsize-63644.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dont-ask-about-pakistan-cricket-irritated-shaheen-afridi-shushes-media-watch/articleshow/129822033.cms",
-    "time": "2026-03-26T11:12:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil &amp; energy price shock: Goldman Sachs sees India’s macro outlook worsening; cuts Nifty target",
-    "desc": "The bank has reduced its 12-month Nifty target, for end-March 2027, to 25,900 from an earlier 29,300. This suggests expected returns of about 13% in rupee terms and 12% in dollar terms over the next year, which is lower than the 19% upside projected for the MXAPJ index.",
-    "img": "https://static.toiimg.com/photo/msid-129822585,imgsize-111900.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/oil-energy-price-shock-goldman-sachs-sees-indias-macro-outlook-worsening-cuts-nifty-target/articleshow/129822310.cms",
-    "time": "2026-03-26T11:05:01.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran War tests European unity amid German economic slowdown and fears over Ukraine support",
     "desc": "The stand of EU member states in the conflict is divergent as Europe faces economic slowdown and inflation amid rising oil and gas prices; Germany fears opposing U.S.-Israel actions could prompt U.S. to withdraw support from Ukraine, while the war could hurt its already faltering economy more",
@@ -720,78 +855,6 @@ const newsData_en = [
     "time": "2026-03-26T10:52:39.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Franchise has backed you': Pathan challenges LSG star to step up in IPL 2026",
-    "desc": "Irfan Pathan emphasizes IPL 2026 as a crucial season for Mayank Yadav, urging him to repay Lucknow Super Giants' faith after injuries hampered his progress. LSG's strong pace attack, led by Mohammed Shami and supported by a talented Indian unit, is highlighted. Pathan also notes LSG's ongoing search for a distinct franchise identity.",
-    "img": "https://static.toiimg.com/photo/msid-129821532,imgsize-229758.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/franchise-has-backed-you-irfan-pathan-challenges-lsg-star-to-step-up-in-ipl-2026/articleshow/129821424.cms",
-    "time": "2026-03-26T10:36:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We need to think about next spin pair after Jadeja-Ashwin': Ex-India spinner Nilesh Kulkarni",
-    "desc": "Former India spinner Nilesh Kulkarni assesses India's spin legacy transition, highlighting the need to groom future match-winners for red-ball cricket. He discusses challenges for batters against spin, the impact of pitch conditions, and the role of T20 and AI, advocating for balance and adaptability.",
-    "img": "https://static.toiimg.com/photo/msid-129820924,imgsize-24200.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-need-to-think-about-next-spin-pair-after-jadeja-ashwin-ex-india-spinner-nilesh-kulkarni/articleshow/129820619.cms",
-    "time": "2026-03-26T10:29:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Worst nightmare top tennis player can have': Iga Swiatek",
-    "desc": "Iga Swiatek admitted she is going through a difficult phase after her Miami Open loss, calling it “the worst nightmare” as her level drops. Despite her success, pressure has led to overthinking and self-doubt, worsened by a past suspension and losing the No 1 ranking. Though she won Wimbledon, inconsistency remains. She has now split with coach Wim Fissette and aims to regain confidence and control of her game.",
-    "img": "https://static.toiimg.com/photo/msid-129821241,imgsize-24756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/worst-nightmare-a-top-tennis-player-can-have-iga-swiatek-makes-honest-admission/articleshow/129821115.cms",
-    "time": "2026-03-26T10:21:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK’s risky call: Injured Spencer Johnson replaces injured Nathan Ellis",
-    "desc": "CSK’s decision to sign Spencer Johnson as a replacement for injured Nathan Ellis has raised questions, with the Australian pacer still recovering from a back injury. Despite pulling out of the PSL and not playing competitive cricket recently, Johnson is gradually returning to bowling. His delayed arrival and fitness status highlight the growing challenge of finding replacements during IPL 2026.",
-    "img": "https://static.toiimg.com/photo/msid-129821003,imgsize-80178.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csks-risky-call-injured-spencer-johnson-replaces-injured-nathan-ellis/articleshow/129820979.cms",
-    "time": "2026-03-26T10:08:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "No LPG shortage, crude reserves secured, PNG transition underway",
-    "desc": "India's fuel supply remains stable and secure. The government assures citizens that petrol, diesel, and LPG are readily available nationwide. Officials are combating a misinformation campaign designed to create panic. Strategic reserves are robust, covering approximately 60 days of supply. Domestic production and imports ensure continuous availability of essential fuels.",
-    "img": "https://static.toiimg.com/photo/msid-129820838,imgsize-668181.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/government-assures-strong-fuel-security-no-lpg-shortage-crude-reserves-secured-png-transition-underway/articleshow/129820731.cms",
-    "time": "2026-03-26T10:00:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Prove me wrong': Ex-India batter throws challenge to Rahane ahead of IPL",
-    "desc": "Aakash Chopra believes Ajinkya Rahane has a point to prove in IPL 2026, particularly regarding his post-powerplay scoring, despite a strong IPL 2025. Chopra also highlighted Rinku Singh's potential as a future captain and urged Varun Chakaravarthy to regain his wicket-taking form after a dip in the T20 World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-129820625,imgsize-105990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/prove-me-wrong-ex-india-batter-throws-challenge-to-ajinkya-rahane-ahead-of-ipl-2026/articleshow/129820597.cms",
-    "time": "2026-03-26T09:52:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI unveils India’s 2026-27 home fixtures: 22 matches across 17 cities",
-    "desc": "Team India gears up for a massive 2026-27 home cricket season, hosting West Indies, Sri Lanka, Zimbabwe, and Australia in 22 matches across 17 cities. The packed schedule features ODIs, T20Is, and culminates with a five-Test Border-Gavaskar Trophy against Australia, promising thrilling contests nationwide.",
-    "img": "https://static.toiimg.com/photo/msid-129820340,imgsize-42496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-unveils-indias-2026-27-home-fixtures-full-schedule-venues-revealed/articleshow/129820355.cms",
-    "time": "2026-03-26T09:35:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Not as spicy anymore’: AB de Villiers flags concern over MI star ahead of IPL",
-    "desc": "Former South Africa captain AB de Villiers has expressed concern for Mumbai Indians ahead of IPL 2026, suggesting Trent Boult may have lost pace and effectiveness. De Villiers warned that this could be an area opposition batters might target, despite the team's otherwise strong squad. However, Abhinav Mukund remains optimistic about Mumbai's depth and balance.",
-    "img": "https://static.toiimg.com/photo/msid-129820090,imgsize-27776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/not-as-spicy-anymore-ab-de-villiers-flags-concern-over-mi-star-ahead-of-ipl/articleshow/129820066.cms",
-    "time": "2026-03-26T09:16:16.000Z"
-  },
-  {
     "cat": "World",
     "title": "Bangladesh PM Tarique Rahman calls March 25, 1971 genocide as ‘pre-planned massacre’",
     "desc": "“The Great Independence Day inspires us anew with the spirit of courage, sacrifice and patriotism. The fundamental goal of independence was to establish a Bangladesh that is free from discrimination, and to be democratic, peaceful and prosperous,” Tarique Rahman said",
@@ -799,24 +862,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladesh-pm-tarique-rahman-calls-march-25-1971-genocide-as-pre-planned-massacre/article70787234.ece",
     "time": "2026-03-26T08:03:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi HC orders media platforms to remove posts",
-    "desc": "Gautam Gambhir secured a major win as the Delhi High Court ordered tech giants like Google, Meta, and Amazon to remove content misusing his identity for commercial gain. The court's directive protects his personality and publicity rights, demanding takedown of AI-generated deepfakes and unauthorized merchandise, while also seeking details of offenders.",
-    "img": "https://static.toiimg.com/photo/msid-129818668,imgsize-148848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/gautam-gambhir-deepfake-case-delhi-hc-orders-google-meta-amazon-to-remove-posts/articleshow/129818625.cms",
-    "time": "2026-03-26T07:40:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why IPL 2026 could unleash Virat Kohli’s most dangerous version yet",
-    "desc": "Virat Kohli, IPL's leading run-scorer, finally achieved his dream of winning the IPL trophy with Royal Challengers Bengaluru in 2025. Now, unburdened by expectations after relinquishing captaincy, he enters IPL 2026 with a rare sense of freedom, potentially unleashing his most dangerous form yet.",
-    "img": "https://static.toiimg.com/photo/msid-129818107,imgsize-32552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/why-ipl-2026-could-unleash-virat-kohlis-most-dangerous-version-yet/articleshow/129818059.cms",
-    "time": "2026-03-26T07:09:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/russia-says-it-shot-down-almost-400-ukrainian-drones-as-moscow-kyiv-escalate-aerial-barrages/article70785468.ece",
     "time": "2026-03-25T18:19:29.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "What is at stake at the WTO’s MC14?",
-    "desc": "What is the context in which MC14 is taking place? What has weakened the WTO’s dispute settlement system? What are the key issues before MC14? Why is the e-commerce moratorium contentious? What role should India play at MC14?",
-    "img": "https://th-i.thgim.com/public/incoming/i83cla/article70785447.ece/alternates/LANDSCAPE_1200/1187996506",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/what-is-at-stake-at-the-wtos-mc14-explained/article70784056.ece",
-    "time": "2026-03-25T17:39:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "FM Sitharaman defends Centre’s right to levy cess, says Constitution allows it",
-    "desc": "Speaking in the Lok Sabha, Ms. Sitharaman also said that the Centre was sending more to the States than it collected from cesses and surcharges. The Opposition had argued that these levies were not part of the divisible pool.",
-    "img": "https://th-i.thgim.com/public/incoming/endqd1/article70783903.ece/alternates/LANDSCAPE_1200/20260325149L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/constitution-makers-knew-what-they-were-doing-fm-sitharaman-defends-centres-cess-collections/article70783833.ece",
-    "time": "2026-03-25T17:20:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Consumer protection watchdog warns restaurants against levying gas, LPG charge",
-    "desc": "CCPA made it clear that only applicable taxes can be added to the price mentioned in the menu of restaurants and hotels; all input costs should be factored into the prices displayed in the menu",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/lpg-fuel-petrol-crisis-live-updates-west-asia-war-straight-of-hormuz/article70782692.ece",
-    "time": "2026-03-25T17:04:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No clash of dates between Commonwealth TTC and UTT",
-    "desc": "Multiple officials, requesting anonymity, confirmed that the seventh edition of UTT will be held in Goa from July 9 to 26. The 22nd edition of the CTTC will then begin in New Delhi on July 27, with the finals scheduled for August 2",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/no-clash-of-dates-between-commonwealth-ttc-and-utt/article70784768.ece",
-    "time": "2026-03-25T15:18:59.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Most Americans say U.S. military action against Iran has gone too far, poll finds",
-    "desc": "About 4 in 10 U.S. adults continue to approve of Mr. Trump’s performance as president, which is unchanged from last month; his approval on foreign policy, while slightly lower than his overall approval, also largely held steady",
-    "img": "https://th-i.thgim.com/public/incoming/x7svcq/article70784621.ece/alternates/LANDSCAPE_1200/AP03_25_2026_000104A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/most-americans-say-us-military-action-against-iran-has-gone-too-far-poll-finds/article70784404.ece",
-    "time": "2026-03-25T14:38:54.000Z"
   }
 ];
