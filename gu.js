@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
-    "cat": "Politics",
-    "title": "&amp;#039;કંઈક ખરાબ થવાનું છે...&amp;#039; Google પર અચાનક કેમ આ ટ્રેન્ડ થઈ રહ્યું છે ? શું ખરેખર દુનિયા ખતરામાં છે ?",
-    "desc": "‘Something Very Bad Is Going To Happen’ ગૂગલ પર અચાનક કેમ આ ટ્રેન્ડ થઈ રહ્યું છે ? આની પાછળની કહાની શું છે, શું ખરેખર દુનિયા ખતરામાં છે ? ત્યારે શું છે સમગ્ર મામલો તેના વિશે આ લેખમાં જાણીશું.",
+    "cat": "Business",
+    "title": "અમેરિકા-ઈરાન યુદ્ધથી અસર ભારત પહોચી, દેશના ટોપમાં 7 શહેરોમાં ઘટ્યું ઘરોનું વેચાણ, જાણો",
+    "desc": "મધ્ય પૂર્વમાં ચાલી રહેલા તણાવ હવે ભારતીય રિયલ એસ્ટેટ માટે ખતરો ઉભો કરી રહ્યા છે. દેશના ઘણા શહેરોમાં મિલકતના વેચાણમાં 7 ટકાનો ઘટાડો થયો છે, અને જો યુદ્ધ ચાલુ રહેશે તો પરિસ્થિતિ વધુ ખરાબ થઈ શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-something-very-bad-is-going-to-happen-is-suddenly-trending-on-google-470307 ",
-    "time": "2026-03-27T09:44:20.000Z"
+    "url": " http://zeenews.india.com/gujarati/business/the-impact-of-the-us-iran-war-has-reached-india-house-prices-have-decreased-in-7-of-the-country-top-cities-know-470327 ",
+    "time": "2026-03-27T12:26:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ઈરાનની ડગરી છટકી તો ભારતના મોબાઈલ, ટીવી થઈ જશે ડબલા, સરકાર અને કંપનીઓને પણ છે ડર",
+    "desc": "ભારતનો અમેરિકા અને યુરોપ વચ્ચેનો 33 ટકા ડેટા આ રસ્તા પરથી પસાર થાય છે. જો ઈરાને હોર્મુંઝ ખાડીમાં રહેલા કેબલને કાપ્યો તો ઈકોમર્સ, શેરબજાર અને આઈટી સેક્ટર એક જ ઝાટકમાં જમીન પર આવી જશે. સરકારે ટેલીકોમ કંપનીઓને દરિયાના તળિયામાં નાખેલો કેબલ કપાય તો શું નુક્સાન થઈ શકે એના જોખમનું આંકલન કરવા માટે બેકઅપ પ્લાન બનાવવાનો આદેશ કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-will-happen-in-india-if-iran-cuts-the-internet-cable-in-strait-of-hormuz-470329 ",
+    "time": "2026-03-27T12:23:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "&amp;quot;ભારતના લોકોનો આભાર&amp;quot; લખીને ઈરાને ઇઝરાયલ પર છોડી મિસાઇલ, જાણો ઈરાને કેમ કર્યું આવું",
+    "desc": "ઈરાને યુદ્ધ વચ્ચે એક અનોખી રણનીતિ અપનાવી છે. તે ભારત સહિત અન્ય દેશોના આભાર સંદેશ લખીને મિસાઇલો અને ડ્રોન છોડી રહ્યું છે. સરકારી મીડિયા દ્વારા બહાર પાડવામાં આવેલા વીડિયોમાં આ સ્પષ્ટપણે જોઈ શકાય છે. ત્યારે ઈરાન આવું કેમ કરી રહ્યું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-wrote-thank-you-people-of-india-on-missile-and-fires-on-israel-470324 ",
+    "time": "2026-03-27T11:43:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બે સગાભાઈ સાથે લગ્ન કરનાર મહિલા છે પ્રેગનેન્ટ! સંતાનની પાછળ કોનું નામ લાગશે, આવો છે રિવાજ",
+    "desc": "ગયા વર્ષે હિમાચલમાં થયેલા અનોખા લગ્ન તો યાદ હશે, જેમાં એક મહિલા બે સગાભાઈઓને પરણી હતી. ત્યારે આ પરિવારે ખુશખબરી આપીને જણાવ્યું કે, પત્ની પ્રેગનેન્ટ છે. આ પરિવાર ત્રણમાંથી ચાર થવાનો છે, ત્યારે હટ્ટી સમાજમાં આવા લગ્ન પ્રથામાં સંતાન માટે કેવા રિવાજ હોય છે તે પણ જાણીએ",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bride-marry-with-two-brothers-now-pregnant-who-will-become-childs-official-father-470311 ",
+    "time": "2026-03-27T11:33:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેટ્રોલની મૂળ કિંમત 55 રૂપિયા, ગ્રાહકો ચુકવે છે 95-100 રૂપિયા, જાણો વચ્ચેના 45 રૂપિયા ક્યાં જાય છે",
+    "desc": "પેટ્રોલ અને ડીઝલ આજે રોજિંદા જીવનનો હિસ્સો બની ગયા છે. લોકો દરરોજ પોતાના વાહનોમાં પેટ્રોલ અને ડીઝલ ભરાવતા હોય છે. વર્તમાનમાં ગુજરાતમાં પેટ્રોલની કિંમત 95-96 રૂપિયા પ્રતિ લીટર જોવા મળી રહી છે. પરંતુ જો મૂળ કિંમતની વાત કરવામાં આવે તો માત્ર 55-56 રૂપિયા છે, ત્યારે ગ્રાહકો પહોંચતું પેટ્રોલ કેમ મોંઘુ થઈ જાય છે? તમે પણ જાણો તેની પાછળનું ગણિત...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/original-price-of-petrol-is-rs-55-customers-pay-rs-95-100-know-where-the-remaining-rs-45-goes-470312 ",
+    "time": "2026-03-27T11:21:49.000Z"
   },
   {
     "cat": "World",
@@ -15,7 +51,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/explainer-iran-attacked-6-gulf-countries-including-uae-saudi-arabia-yet-they-did-not-retaliate-why-470297 ",
-    "time": "2026-03-27T09:38:03.000Z"
+    "time": "2026-03-27T10:44:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;કંઈક ખરાબ થવાનું છે...&amp;#039; Google પર અચાનક કેમ આ ટ્રેન્ડ થઈ રહ્યું છે ? શું ખરેખર દુનિયા ખતરામાં છે ?",
+    "desc": "‘Something Very Bad Is Going To Happen’ ગૂગલ પર અચાનક કેમ આ ટ્રેન્ડ થઈ રહ્યું છે ? આની પાછળની કહાની શું છે, શું ખરેખર દુનિયા ખતરામાં છે ? ત્યારે શું છે સમગ્ર મામલો તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-something-very-bad-is-going-to-happen-is-suddenly-trending-on-google-470307 ",
+    "time": "2026-03-27T09:44:20.000Z"
   },
   {
     "cat": "Business",
@@ -333,15 +378,6 @@ const newsData_gu = [
     "time": "2026-03-25T16:07:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ગુજરાતના વાડિનારની દેશની બીજી સૌથી મોટી રિફાઈનરીમાં 35 દિવસનું &amp;#039;શટડાઉન&amp;#039;, મધ્ય-પૂર્વના તણાવ વચ્ચે સપ્લાય ખોરવાવાની ભીતિ!",
-    "desc": "દેશની બીજી સૌથી મોટી રિફાઇનિંગ કંપની નાયરા એનર્જી એપ્રિલની શરૂઆતથી લગભગ 35 દિવસ માટે કામગીરી બંધ કરવાની તૈયારીમાં છે. પરિણામે એવી આશંકા છે કે આનાથી દેશમાં તેલ અને ગેસની ઉપલબ્ધતા પર દબાણ વધી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/amid-us-iran-war-nayara-schedules-35-day-shutdown-for-maintenance-470132 ",
-    "time": "2026-03-25T15:33:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ઝટકો કે તક? સોના-ચાંદીના ભાવમાં ગાબડું, રોકાણ કે ખરીદી કરતાં પહેલા આ ખાસ જાણી લો",
     "desc": "સોના-ચાંદીના ભાવમાં સપ્તાહના બીજા દિવસ એટલે કે મંગળવારે પણ ભાવમાં ઘટાડો જોવા મળ્યો. Comexથી લઈને MCX પર ભાવ જોઈને રોકાણકારોને ઝટકો લાગી રહ્યો છે. ચાંદીમાં હાલના ગગડેલા ભાવ જોઈએ તો એના હાઈવેલવથી 2.06 લાખ રૂપિયા ભાવ ઘટી ગયા છે. સોના -ચાંદીમાં હાઈલેવલે રોકાણ કરનારા પસ્તાઈ રહ્યાં છે. જ્યાં સુધી ડોલર ઊંચો છે ત્યાં સુધી સોના-ચાંદીના ભાવ વધે તેવી સંભાવના ઓછી છે.",
@@ -349,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-continued-to-decline-today-know-this-before-investing-or-buying-470131 ",
     "time": "2026-03-25T15:14:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પેટ્રોલ-ડીઝલની અછત પર સરકારનું મોટું નિવેદન, જાણો શું કહ્યું",
-    "desc": "મિડલ-ઈસ્ટમાં ચાલી રહેલા તણાવ અને પેટ્રોલ-ડીઝલની અછતની અફવાઓ વચ્ચે ભારત સરકારે નાગરિકોને નોંધપાત્ર રાહત આપી છે. પેટ્રોલિયમ મંત્રાલયે સ્પષ્ટતા કરી છે કે દેશમાં પેટ્રોલ અને ડીઝલનો પૂરતો જથ્થો છે અને ગભરાવાની કોઈ જરૂર નથી. વધુમાં LPG સિલિન્ડર પર દબાણ ઘટાડવા માટે શાળાઓ અને હોસ્ટેલ માટે નવી માર્ગદર્શિકા બહાર પાડવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/no-shortage-of-petrol-and-diesel-government-gives-update-470101 ",
-    "time": "2026-03-25T12:56:44.000Z"
   },
   {
     "cat": "Business",
@@ -450,15 +477,6 @@ const newsData_gu = [
     "time": "2026-03-24T17:08:17.000Z"
   },
   {
-    "cat": "Business",
-    "title": "કેન્દ્રીય કર્મચારીઓ માટે મહત્ત્વના સમાચાર, બોનસના નિયમો અને ભથ્થામાં થઈ શકે છે મોટા ફેરફાર",
-    "desc": "હાલમાં કેન્દ્ર સરકારના કર્મચારીઓને ઉત્પાદકતા-સંલગ્ન બોનસ અને બિન-ઉત્પાદકતા બોનસ આપવામાં આવે છે. જો કે, આ માટેની મર્યાદા અને પાત્રતા માપદંડો વર્ષોથી મોટાભાગે યથાવત રહ્યા છે. મોંઘવારી અને બદલાતી આર્થિક પરિસ્થિતિઓ હોવા છતાં આ બોનસની ગણતરી માટે ઉપયોગમાં લેવાતા ધોરણોમાં અપેક્ષિત સુધારો થયો નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-important-news-for-central-employees-big-changes-may-be-made-in-bonus-rules-and-allowances-469964 ",
-    "time": "2026-03-24T13:06:11.000Z"
-  },
-  {
     "cat": "World",
     "title": "યુદ્ધવિરામ પર ફરી પેચ ફસાયો ! ટ્રમ્પના દાવા વચ્ચે, ઈરાની સેનાએ કરી એક મોટી જાહેરાત",
     "desc": "મધ્ય પૂર્વમાં ચાલી રહેલા તણાવ વચ્ચે, ઈરાનના ટોચના લશ્કરી કમાન્ડે મંગળવારે એક મોટી જાહેરાત કરી. ઈરાની સૈન્યએ જણાવ્યું કે તેની સશસ્ત્ર દળો આ સમય લડાઈ ચાલુ રાખશે. ઈરાન અને અમેરિકા ઈઝરાયેલ સાથેનું યુદ્ધને અનેક દિવસો થઈ ગયા છે, ત્યારે અમેરિકાએ 5 દિવસ યુદ્ધ બંધ રાખવાની જાહેરાત કરી છે. ઈરાનની આ જાહેરાતથી યુદ્ધવિરાન મુશ્કેલ લાગી રહ્યું છે.",
@@ -468,15 +486,6 @@ const newsData_gu = [
     "time": "2026-03-24T13:02:33.000Z"
   },
   {
-    "cat": "World",
-    "title": "તમે કરાવ્યો હુમલો, ડોનાલ્ડ ટ્રમ્પે કોના પર ફોડ્યું ઈરાન પરના હુમલાનું ઠીકરું",
-    "desc": "એક કાર્યક્રમ દરમિયાન યુએસ પ્રમુખ ડોનાલ્ડ ટ્રમ્પે જણાવ્યું હતું કે તેમણે સૌપ્રથમ રક્ષા મંત્રી પીટ હેગસેથ સાથે ઈરાન પર હુમલા અંગે વાત કરી હતી. તેમણે કહ્યું કે પીટે સૂચન કર્યું હતું કે, ચલો લશ્કરી કાર્યવાહી કરી જોઈએ શું થાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/who-did-donald-trump-blame-for-the-attack-on-iran-469943 ",
-    "time": "2026-03-24T11:52:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "બાદશાહે કર્યા બીજા લગ્ન! છૂટાછેડા લીધાના 6 વર્ષ પછી, આ પંજાબી એક્ટ્રેસ સાથે કર્યા લગ્ન, જાણો",
     "desc": "રેપર બાદશાહે બીજા લગ્ન કર્યા છે. 6 વર્ષ પહેલાં, તેની પહેલી પત્ની જાસ્મીન મસીહને છૂટાછેડા આપી દીધા હતા. જો કે, હવે તેણે આ પંજાબી અભિનેત્રી સાથે લગ્ન કર્યા છે. આ સમારોહ ખૂબ જ ખાનગી હતો.",
@@ -484,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/badshah-got-married-in-a-big-way-six-years-after-his-divorce-he-got-married-again-to-this-punjabi-actress-469942 ",
     "time": "2026-03-24T10:23:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અંતિમ ચરણમાં પહોંચ્યું યુદ્ધ ! ઈરાને દબાવી અરબ દેશોની દુખતી નસ, લાગ્યો ડર",
-    "desc": "અમેરિકાની ધમકીના જવાબમાં, ઈરાને એક વળતો જવાબ આપ્યો છે, જેનાથી ખાડી દેશો ચોકી ગયા છે. ઈરાને કહ્યું છે કે જો તેના પાવર પ્લાન્ટ્સને નિશાન બનાવવામાં આવશે, તો તે મધ્ય પૂર્વના પાવર પ્લાન્ટ્સને પણ છોડશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/the-war-has-reached-its-final-stage-iran-has-pressed-a-painful-nerve-in-the-arab-countries-fear-has-arisen-469936 ",
-    "time": "2026-03-24T09:29:32.000Z"
   },
   {
     "cat": "Sports",
@@ -709,14 +709,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/india-mobile-data-tax-1-rupee-per-gb-internet-may-get-costly-468402 ",
     "time": "2026-03-13T10:17:01.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ગેસ સિલિન્ડરની અછત વચ્ચે માર્કેટમાં આવ્યું નવું કૌભાંડ, આ રીતે લોકો સાથે કરે છે છેતરપિંડી, આ રીતે રહો સાવધાન",
-    "desc": "LPG સિલિન્ડરની પર એક નવું ઓનલાઈન કૌભાંડ દેશમાં ઝડપથી ફેલાઈ રહ્યું છે. જેમાં નકલી જાહેરાતો દ્વારા લોકોને છેતરાઈ રહ્યા છે. આ ફ્રોડ કરનારા આ રીતે કાર્ય કરે છે, અને તેનાથી બચવા માટે અહીં કેટલીક ટિપ્સ આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/amidst-the-shortage-of-gas-cylinders-a-new-scam-has-come-in-the-market-this-is-how-people-are-being-cheated-be-careful-like-this-468397 ",
-    "time": "2026-03-13T09:49:58.000Z"
   }
 ];

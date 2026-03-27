@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "J-K's Ranji victory inspires new generation, redefines regional aspirations, Auqib Nabi reflects",
+    "desc": "Jammu and Kashmir scripted one of the most remarkable stories of the 2025–26 domestic season, clinching the Ranji Trophy after years of steady progression. Having pushed stronger sides in recent editions, the Paras Dogra-led unit...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/j-k-s-ranji-victory-inspires-new-generation-redefines-regional-aspirations-as-auqib-nabi-reflects-2026-03-27-1035342",
+    "time": "2026-03-27T12:16:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nuwan Thushara fails fitness test, Sri Lanka Cricket denies NOC to join RCB for IPL 2026",
+    "desc": "Royal Challengers Bengaluru suffered a major blow on the eve of their opening IPL 2026 match against Sunrisers Hyderabad at the M Chinnaswamy Stadium. The defending champions have already notified that Yash Dayal has opted...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nuwan-thushara-fails-fitness-test-sri-lanka-cricket-denies-noc-to-join-rcb-for-ipl-2026-2026-03-27-1035325",
+    "time": "2026-03-27T11:04:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manpreet Singh dismisses reports of fallout with president Tirkey, says 'he wants me to play 500 matches'",
+    "desc": "Indian hockey is on the brink of witnessing a historic milestone as the veteran Manpreet Singh is closing in on becoming the most capped player in the country’s history. The 33-year-old is just two matches...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/manpreet-singh-dismisses-reports-of-fallout-with-dilip-tirkey-says-he-wants-me-to-play-500-matches-2026-03-27-1035320",
+    "time": "2026-03-27T10:36:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Schedule, squads, players, live streaming, and all you need to know",
     "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026. The marquee event kicks off on March 28, and the 10 franchises will be battling it out for a shot...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/psl-2026-introduces-new-rule-teams-to-submit-two-xis-at-the-toss-for-the-new-season-2026-03-27-1035257",
     "time": "2026-03-27T02:36:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I don't think I have anything to prove': GT skipper Shubman Gill oozes confidence ahead of IPL 2026",
-    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026. The marquee event is all set to kick off on March 28, and ahead of the tournament, the 10 franchises...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-don-t-think-i-have-anything-to-prove-gt-skipper-shubman-gill-oozes-confidence-ahead-of-ipl-2026-2026-03-27-1035252",
-    "time": "2026-03-27T01:40:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'My journey ends here'",
-    "desc": "Carolina Marin, one of badminton’s greatest players, has announced her retirement due to a persistent knee injury, ending a remarkable career that included an Olympic gold medal and three World Championship titles. Marin won the gold...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/rio-olympics-gold-medallist-carolina-marin-announces-retirement-my-journey-ends-here-2026-03-26-1035242",
-    "time": "2026-03-26T18:24:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are CSK facing RCB only once in IPL 2026 despite being in same group?",
-    "desc": "The IPL 2026 league stage schedule is completely out as the BCCI made the announcement on Thursday, March 26. Earlier, the schedule for 20 matches was announced. However, now full league stage fixtures are out,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-csk-facing-rcb-only-once-in-ipl-2026-despite-being-in-same-group-2026-03-26-1035238",
-    "time": "2026-03-26T17:36:24.000Z"
   }
 ];

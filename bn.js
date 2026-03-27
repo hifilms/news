@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কোথায় গেল ২৩০০ কেজি মাদক? পুলিস বলল 'ইঁদুরে সাবাড় করে দিয়েছে'",
+    "desc": "৩০০০ টন নিউ জেনারেশন কর্ভেটে। এই যুদ্ধজাহাজগুলি তৈরি করবে গার্ডেন রিচ শিপ বিল্ডার্স অ্যান্ড ইঞ্জিনিয়ার্স এবং গোয়া শিপইয়ার্ড লিমিটেড। সম্পূর্ণ দেশীয় প্রযুক্তিতে নির্মিত এই প্ল্যাটফর্মগুলি ভারতের নৌশক্তিকে নতুন উচ্চতায় নিয়ে যাবে বলে মত সংশ্লিষ্ট মহলের।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/2300-kg-drugs-vanish-from-police-custody-govt-says-it-was-eaten-by-rats_646378.html ",
+    "time": "2026-03-27T10:31:45.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'লকডাউন' কি গুজব, না, ঘোর বাস্তব? 'প্রস্তুতি'র ব্য়াপারে অবশেষে সরকার সত্যিটা বলল",
     "desc": "'ইন্ডিয়া লকডাউন' আর 'এনার্জি লকডাউন' শব্দদুটি খুব শোনা যাচ্ছে। কেন শোনা যাচ্ছে? সামনে কি কোনও মহাবিপদ? সরকার বলল, দেশবাসীকে প্রস্তুত থাকতে বলা হয়েছিল। সেই 'প্রস্তুতি' সংক্রান্ত মন্তব্যেরই ভুল ব্যাখ্যা করা হয়েছে। বেড়েছে উদ্বেগ। কিন্তু সত্যিটা কী?",
@@ -25,15 +43,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/supreme-court-blasts-gurugram-police-in-4-years-old-rape-case_646127.html ",
     "time": "2026-03-25T11:25:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "চাকরিতে বজ্রপাত: SSC নিয়োগ মামলায় দাগি প্রার্থীদের বেতন ফেরতের মামলায় বিস্ফোরক 'সুপ্রিম' সিদ্ধান্ত",
-    "desc": "বেঞ্চ প্রশ্ন তোলে, আদালতের পূর্ববর্তী নির্দেশ থাকা সত্ত্বেও কেন এখনো তা কার্যকর করা হয়নি? বিচারপতির পর্যবেক্ষণে উঠে আসে যে, আদালতের দেওয়া নির্দেশাবলীর প্রয়োগে বিলম্ব এবং বিভ্রান্তি কোনোভাবেই গ্রহণযোগ্য নয়। এটি সরাসরি নিয়োগ প্রক্রিয়ার স্বচ্ছতাকে কালিমালিপ্ত করছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/tainted-teachers-have-to-return-all-their-salary-in-ssc-case-verdict-by-supreme-court_646119.html ",
-    "time": "2026-03-25T09:39:13.000Z"
   },
   {
     "cat": "Entertainment",
