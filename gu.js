@@ -1,5 +1,86 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "&amp;#039;કંઈક ખરાબ થવાનું છે...&amp;#039; Google પર અચાનક કેમ આ ટ્રેન્ડ થઈ રહ્યું છે ? શું ખરેખર દુનિયા ખતરામાં છે ?",
+    "desc": "‘Something Very Bad Is Going To Happen’ ગૂગલ પર અચાનક કેમ આ ટ્રેન્ડ થઈ રહ્યું છે ? આની પાછળની કહાની શું છે, શું ખરેખર દુનિયા ખતરામાં છે ? ત્યારે શું છે સમગ્ર મામલો તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-something-very-bad-is-going-to-happen-is-suddenly-trending-on-google-470307 ",
+    "time": "2026-03-27T09:44:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાનના હુમલાથી UAE-સાઉદી સહિત 6 ખાડી દેશ હચમચી ગયા, છતાં વળતો પ્રહાર નથી કરતા, કેમ? વિગતો જાણીને ચોંકી જશો",
+    "desc": "જ્યારથી અમેરિકા અને ઈઝરાયેલે ઈરાન પર હુમલા કર્યા છે ત્યારથી લઈને અત્યાર સુધી ઈરાને ઈઝરાયેલ તો ઠીક ખાડીના 6 દેશોને પણ હચમચાવી નાખ્યા છે. યુએઈ, સાઉદી અરબ સહિત 6 જીસીસી દેશો પર એવા હુમલા કર્યા કે તેઓ થરથરી ગયા. આર્થિક રીતે સદ્ધર એવા આ દેશોએ પોતાના પર હુમલાને કેમ સાખી લીધા? વળતો પ્રહાર કેમ ન કર્યો તે સવાલ અનેક લોકોના મનમાં ઘૂમરાયા કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/explainer-iran-attacked-6-gulf-countries-including-uae-saudi-arabia-yet-they-did-not-retaliate-why-470297 ",
+    "time": "2026-03-27T09:38:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "જ્યાં પોસ્ટિંગ, ત્યાં પોતાનું ઘર.... સરકારી કર્મચારીઓને મળી મોટી ભેટ, જાણો",
+    "desc": "સરકાર દ્વારા એક પોર્ટલ શરૂ કરવામાં આવ્યું છે. આ પોર્ટલ દ્વારા સરકારી કર્મચારી જેમાં રાજ્ય અને કેન્દ્ર સરકાર બન્નેનો સમાવેશ થાય છે, તેમને પોતાના ઘર માટે સરકાર દ્વારા એક પહેલ શરૂ કરવામાં આવી છે. ચાલો તેના વિશે ડિટેલમાં જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/government-employees-will-be-given-home-loans-for-their-houses-through-the-griha-sugam-scheme-470295 ",
+    "time": "2026-03-27T09:16:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "રિટાયરમેન્ટ બાદ પણ સરકારી નોકરી જેવી આવક, આ યોજનામાં રોકાણ કરીને મેળવો બમ્પર વળતર",
+    "desc": "વૃદ્ધાવસ્થા દરમિયાન નિયમિત આવક મેળવવા હવે વરિષ્ઠ નાગરિકો માટે સરળ બન્યું છે. SCSS અને RBI બોન્ડ જેવી સરકારી યોજનાઓ 8% સુધીનું વળતર આપી રહી છે. યોગ્ય પોર્ટફોલિયો અને સ્માર્ટ રોકાણ વ્યૂહરચના અપનાવીને તમે કોઈપણ જોખમ વિના નોંધપાત્ર માસિક આવક મેળવી શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/senior-citizen-savings-scheme-benefits-and-interest-rates-know-full-details-470275 ",
+    "time": "2026-03-27T08:07:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "નોકરી છોડવા પર 2 દિવસમાં મળશે પગાર, રજા અને બોનસના પૈસા, 1 એપ્રિલથી લાગૂ થશે નવો નિયમ",
+    "desc": "ઘણીવાર નોકરી છોડ્યા બાદ જૂની કંપની પૈસા આપવામાં વિલંબ કરે છે. પરંતુ નવા લેબર કોડથી કર્મચારીઓને રાહત મળવાની છે. હવે નોકરીમાંથી રાજીનામું આપવા કે નોકરીમાંથી કાઢી મુકવા કે લેઓફની સ્થિતિમાં કંપનીએ 2 દિવસની અંદર પગાર, રજા, બોનસ અને ગ્રેચ્યુઇટીના પૈસા ચુકવવા પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/employer-must-pay-your-full-and-final-settlement-after-quitting-job-new-labour-law-470273 ",
+    "time": "2026-03-27T07:50:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું ભારતમાં લાગશે લોકડાઉન? સરકારે શું કહ્યું તે ખાસ જાણો, આજે PM મોદીની મુખ્યમંત્રીઓ સાથે મહત્વની બેઠક",
+    "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદીએ હાલમાં જ મિડલ ઈસ્ટમાં યુદ્ધ જેવી સ્થિતિ પર લોકસભા અને રાજ્યસભામાં સંબોધન કર્યું હતું. જેમાં તેમણે કહ્યું હતું કે આ સંકટનો પ્રભાવ લાંબા સમય સુધી રહી શકે છે. આથી આપણે તેનો સામનો કોરોના સંકટ સમયે જે રીતે કર્યો હતો તે રીતે કરવો પડશે. સોશિયલ મીડિયામાં લોકડાઉન પછી ચર્ચામાં આવ્યું. સરકારે તેના વિશે શું કહ્યું અને આજે કઈ મહત્વની બેઠક છે તેના વિશે પણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/iran-israel-us-war-what-government-says-on-lockdown-like-situation-important-meeting-today-470247 ",
+    "time": "2026-03-27T07:46:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "એક દેશ, બે તસવીર : ગુજરાતમં લિવ ઈન રિલેશનશીપ પર કડકાઈ, તો કર્ણાટકમાં પ્રેમ કરનારાઓને ખુલ્લી આઝાદી",
+    "desc": "ગુજરાત અને કર્ણાટકની સરકારના પ્રેમને લઈને અલગ અલગ વિચારો જોવા મળ્યા છે. એક રાજ્ય પ્રેમ કરનારાઓને છૂટ આપી રહ્યું છે, તો બીજુ રાજ્ય પ્રેમ કરવા માટે કાયદા લાવ્યું છે. ગુજરાત સરકાર જ્યાં યુસીસી લાગુ કરે છે, ત્યાં કર્ણાટક સરકાર ઈવા નમ્માવા બિલ લાવ્યું, આ બંનેમાં કેટલું અંતર છે જાણીએ",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/karnataka-eva-nammava-bill-vs-gujarat-ucc-law-for-marriage-and-live-in-relationship-470272 ",
+    "time": "2026-03-27T07:40:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ખરીદી માટે શાનદાર તક! આજે એક ઝટકે સોના-ચાંદીના ભાવમાં ધરખમ ઘટાડો, તમારા શહેરમાં શું છે ભાવ? જાણો રેટ",
+    "desc": "મિડલ ઈસ્ટમાં જે યુદ્ધ ફાટી નીકળ્યું છે તેણે ધીરે ધીરે હવે અસર દેખાડવાની શરૂ કરી છે. ભારતમાં આ સંકટ લોકો પર તૂટી ન પડે તેના માટે થઈને સરકાર તકેદારી રાખીને પગલાં લઈ રહી છે. આજે પેટ્રોલ-ડીઝલની એક્સાઈઝ ડ્યૂટી પર ઘટાડો જાહેર કર્યો. પરંતુ છતાં શેર બજાર ધડામ થયું. આ સાથે સોના અને ચાંદીમાં પણ ભારે ઉથલપાથલ જોવા મળી રહી છે. એકબાજુ જ્યાં વાયદા બજારમાં સોનું ચાંદી ઉછાળા મારે છે ત્યાં રિટેલ બજારમાં સોનું ચાંદી ધડામ થયા છે. દાગીના અને લગડી ખરીદવા માટે જો કે સારી તક છે. જાણો આજનો લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-news-gold-and-silver-prices-dropped-today-as-per-ibja-check-latest-rates-aaj-no-sona-chandi-no-bhav-470269 ",
+    "time": "2026-03-27T07:16:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રિટાયરમેન્ટથી યુ-ટર્ન, આ સ્ટાર ખેલાડીએ બે મહિનામાં જ નિવૃત્તિ પાછી ખેંચી",
+    "desc": "વેસ્ટ ઈન્ડિઝના બેટ્સમેન એવિન લુઈસે નિવૃત્તિની જાહેરાત કર્યાના બે મહિના પછી જ નિવૃત્તિ લેવાનો નિર્ણય પાછો ખેંચી લીધો છે. ટી20 વર્લ્ડ કપ ટીમમાંથી બહાર થયા બાદ તેણે આ પગલું ભર્યું હતું. હવે લુઈસ નવ વર્ષ પછી સ્થાનિક ફર્સ્ટ-ક્લાસ ટુર્નામેન્ટમાં ત્રિનિદાદ માટે વાપસી કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/west-indies-evin-lewis-retirement-u-turn-returns-to-red-ball-cricket-470270 ",
+    "time": "2026-03-27T07:12:58.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "પાકિસ્તાનની ગજબ બેઇજ્જતી ! PSLમાં ચાલુ મેચે બદલાઈ ગયો બોલનો રંગ, કારણ જાણીને ચોંકી જશો",
     "desc": "પાકિસ્તાન સુપર લીગ 2026ની પહેલી જ મેચ દરમિયાન PCBની જોરદાર મજાક ઉડી હતી. લાહોર કલંદર્સ અને હૈદરાબાદ કિંગ્સમેન વચ્ચેની મેચ દરમિયાન બોલનો રંગ અચાનક બદલાઈ ગયો હતો. સફેદ બોલ ગુલાબી થઈ ગયો હતો. ત્યારે આવું કેવી રીતે થયું તે અંગે આ લેખમાં જાણીશું.",
@@ -25,15 +106,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-israel-us-war-effect-philippines-declared-energy-emergency-world-news-in-gujarati-470256 ",
     "time": "2026-03-27T05:48:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શું ભારતમાં લાગશે લોકડાઉન? સરકારે શું કહ્યું તે ખાસ જાણો, આજે PM મોદીની મુખ્યમંત્રીઓ સાથે મહત્વની બેઠક",
-    "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદીએ હાલમાં જ મિડલ ઈસ્ટમાં યુદ્ધ જેવી સ્થિતિ પર લોકસભા અને રાજ્યસભામાં સંબોધન કર્યું હતું. જેમાં તેમણે કહ્યું હતું કે આ સંકટનો પ્રભાવ લાંબા સમય સુધી રહી શકે છે. આથી આપણે તેનો સામનો કોરોના સંકટ સમયે જે રીતે કર્યો હતો તે રીતે કરવો પડશે. સોશિયલ મીડિયામાં લોકડાઉન પછી ચર્ચામાં આવ્યું. સરકારે તેના વિશે શું કહ્યું અને આજે કઈ મહત્વની બેઠક છે તેના વિશે પણ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/iran-israel-us-war-what-government-says-on-lockdown-like-situation-important-meeting-today-470247 ",
-    "time": "2026-03-27T05:13:24.000Z"
   },
   {
     "cat": "Politics",
@@ -160,15 +232,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-opening-ceremony-cancelled-bcci-big-decision-know-reason-470172 ",
     "time": "2026-03-26T08:31:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર, જાણો તમારા શહેરમાં કેટલો છે આજનો ભાવ",
-    "desc": "આજે સવારે દેશભરમાં પેટ્રોલ અને ડીઝલના નવા ભાવ જાહેર કરવામાં આવ્યા હતા. આ ભાવ આંતરરાષ્ટ્રીય બજારમાં ક્રૂડ ઓઇલની હિલચાલ અને ડોલર સામે રૂપિયાની સ્થિતિ દ્વારા નક્કી થાય છે. આજે ઘણા શહેરોમાં ભાવ સ્થિર રહ્યા હતા, જ્યારે ટેક્સના કારણે કેટલીક જગ્યાએ થોડી વધઘટ જોવા મળી હતી. જોકે, નાયરાએ આજે પેટ્રોલમાં 5 રૂપિયા અને ડીઝલમાં 3 રૂપિયાનો વધારો કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-today-check-fuel-rates-in-your-city-469895 ",
-    "time": "2026-03-26T08:03:02.000Z"
   },
   {
     "cat": "World",
@@ -306,24 +369,6 @@ const newsData_gu = [
     "time": "2026-03-25T12:03:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ફરી એ જ દહેશત! Google પર ટોપ સર્ચમાં &amp;#039;Lockdown&amp;#039;, શું યુદ્ધને કારણે ભારતને થશે અસર ?",
-    "desc": "સોશિયલ મીડિયા અને ગુગલ પર 'Lockdown in India 2026' ટ્રેન્ડ થઈ રહ્યું છે. લોકો ચિંતિત છે કે શું દેશમાં ફરી એકવાર કોરોના કાળની જેમ લોકડાઉન લાગવા જઈ રહ્યું છે ? આ વખતે કોઈ વાયરસ નહીં પણ યુદ્ધના કારણે પરિસ્થિતિ વિકટ બની રહી છે. ત્યારે આ લેખમાં જાણીશું કે Google પર 'Lockdown' કેમ ટ્રેન્ડ થઈ રહ્યું છે અને PM મોદીએ દેશની સ્થિતિ અંગે તાજેતરમાં સંસદમાં શું કહ્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lockdown-in-top-search-on-google-will-india-be-shut-down-due-to-war-470077 ",
-    "time": "2026-03-25T11:37:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "તમારા શહેરમાં PNG કનેક્શન હોય તો લઈ લેજો, બાકી નહીં મળશે LPG સિલિન્ડર, સરકારનો મોટો નિર્ણય",
-    "desc": "કેન્દ્ર સરકારે એક નવો આદેશ જાહેર કર્યો છે, જેમાં કહેવામાં આવ્યું છે કે જ્યાં પીએનજીની સુવિધા ઉપલબ્ધ છે, ત્યાં જો યુઝર્સ પીએનજી પર સ્વિચ નહીં કરે તો તેની એલપીજી ગેસ સપ્લાય બંધ કરવામાં આવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lpg-crisis-govt-make-new-rule-lpg-supply-to-be-cut-off-if-households-refuse-png-switch-where-available-470079 ",
-    "time": "2026-03-25T11:28:37.000Z"
-  },
-  {
     "cat": "World",
     "title": "મિસાઈલ પ્રોગ્રામ રોકવા તૈયાર, પરંતુ... ટ્રમ્પની 15 શરતો પર ઈરાનનો જવાબ, યુદ્ધ રોકવા માટે કરી દીધી 6 મોટી ડિમાન્ડ",
     "desc": "અમેરિકાની 15 શરતો સામે ઈરાને વળતો જવાબ આપતા 6 મોટી માંગણીઓ રજૂ કરી છે. ઈરાને કથિત રીતે ઘણી મોટી માંગણીઓ રજૂ કરી છે, જેમાં ખાડીમાંથી અમેરિકી સૈન્ય હટાવવા, હોર્મુઝ શિપિંગ રૂટ પર ટેક્સ વસૂલવા અને ઈઝરાયેલનું અભિયાન રોકવા જેવી કડક શરતો સામેલ છે.",
@@ -448,24 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/the-war-has-reached-its-final-stage-iran-has-pressed-a-painful-nerve-in-the-arab-countries-fear-has-arisen-469936 ",
     "time": "2026-03-24T09:29:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોના-ચાંદીમાં અફરાતફરી! શું એપ્રિલમાં ભાવ 1 લાખ રૂપિયા સુધી ગગડી જશે? જાણો આજનો લેટેસ્ટ રેટ",
-    "desc": "સોના અને ચાંદીમાં સોમવારે ભારે કડાકો જોવા મળ્યો હતો. ચાંદી તો સીધી 206000 આસપાસ પહોંચી ગઈ હતી. જો કે ત્યારબાદ ભાવમાં કરેક્શન જોવા મળ્યું અને પછી વાયદા બજાર અને રિટેલ બજારમાં વધારા સાથે બંધ થતા જોવા મળ્યા. જો કે આજે પાછી ઉથલપાથલ જોવા મળી છે ત્યારે હવે વૈશ્વિક પરિસ્થિતિઓના પગલે ચિંતા પેઠી છે કે શું ભાવ તળિયે જશે? ખાસ જાણો આજના લેટેસ્ટ રેટ અને શું કહે છે એક્સપર્ટ્સ...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-what-experts-say-for-april-2026-aaj-no-sona-chandi-no-bhav-business-news-in-gujarati-469922 ",
-    "time": "2026-03-24T08:28:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "યુદ્ધ વચ્ચે અમેરિકાને કેમ જરૂર પડી નેગોશિએટિંગ પાર્ટનરની, ઈરાની નેતા Mohammad-Bagher Ghalibaf કરશે ઈચ્છા પૂરી?",
-    "desc": "ઈરાન સાથે યુદ્ધ છેડીને જાણે અમેરિકા માટે આ બેલ મુજે માર જેવી સ્થિતિ પેદા થઈ ગઈ છે. સૂત્ર મુજબ અમેરિકા ઈચ્છે છે કે ઈરાનમાં પોતાને મનપંસદ વ્યક્તિ સત્તા પર બિરાજમાન થાય. નેગોશિએશન માટે હવાતીયા પણ મારી રહ્યું છે. જેમાં ઈરાનની સંસદના સ્પીકર ઉપર પણ નજર છે. ખાસ જાણો તેમના વિશે અને શું છે અમેરિકાના મનમાં?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/why-us-need-a-negotiating-partner-in-the-midst-of-war-will-mohammad-bagher-ghalibaf-fulfill-the-wish-469904 ",
-    "time": "2026-03-24T07:09:33.000Z"
   },
   {
     "cat": "Sports",

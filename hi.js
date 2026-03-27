@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Schedule, squads, players, live streaming, and all you need to know",
+    "desc": "The stage is set for the 19th edition of the IPL (Indian Premier League) 2026. The marquee event kicks off on March 28, and the 10 franchises will be battling it out for a shot...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-schedule-squads-players-live-streaming-and-all-you-need-to-know-2026-03-27-1035307",
+    "time": "2026-03-27T08:33:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Will always score runs': Irfan Pathan gives his take on star India batter ahead of IPL 2026",
+    "desc": "With the IPL (Indian Premier League) 2026 all set to kick off on March 28, the 10 franchises will look to put in their best work in hopes of getting their hands on the marquee...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-gives-his-take-on-star-india-batter-ahead-of-ipl-2026-2026-03-27-1035293",
+    "time": "2026-03-27T07:23:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Aryna Sabalenka storms into Miami Open 2026 final, sets up summit clash against Coco Gauff",
     "desc": "The stage is set for the final of the Miami Open 2026. Belarus’ Aryna Sabalenka will be taking on the USA’s Coco Gauff in the summit clash of the tournament. The two stars will face...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-are-csk-facing-rcb-only-once-in-ipl-2026-despite-being-in-same-group-2026-03-26-1035238",
     "time": "2026-03-26T17:36:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "In big move before Los Angeles Games 2028, transgender athletes banned from women's sports at Olympics",
-    "desc": "Transgender women athletes will no longer be allowed to compete in women’s events at the Olympics after the International Olympic Committee (IOC) approved a new eligibility policy on Thursday. The decision aligns with an executive...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/in-big-move-before-los-angeles-games-2028-transgender-athletes-banned-from-womens-sports-at-olympics-2026-03-26-1035236",
-    "time": "2026-03-26T16:29:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What are IPL 2026 groups? Check where MI, CSK and RCB are placed",
-    "desc": "The IPL 2026 full league stage schedule is out now as the BCCI made the big announcement on Thursday, March 26. Previously, schedule for only 20 matches was announced due to the upcoming elections in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-are-ipl-2026-groups-check-where-mi-csk-and-rcb-are-placed-2026-03-26-1035232",
-    "time": "2026-03-26T15:19:26.000Z"
   }
 ];
