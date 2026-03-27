@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "Appleનો સૌથી સસ્તો iPhone, પૈસા વસૂલ કે ઓવરરેટેડ? જાણો",
+    "desc": "શું એપલનો નવો આઈફોન ખરેખર પૈસા માટે યોગ્ય છે? ચાલો તેની વિગતવાર જોઈએ કે શું તે તેની કિંમત વાજબી છે અને રોજિંદા ઉપયોગમાં તે કેટલો ઉપયોગી છે. નવી સિરિઝનો આ સૌથી સસ્તો મોડલ છે. ચાલો તેની કિંમત અને ફિચર્સ વિશે જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/apple-cheapest-iphone-17e-money-back-or-underrated-470353 ",
+    "time": "2026-03-27T13:55:49.000Z"
+  },
+  {
     "cat": "Business",
     "title": "અમેરિકા-ઈરાન યુદ્ધથી અસર ભારત પહોચી, દેશના ટોપમાં 7 શહેરોમાં ઘટ્યું ઘરોનું વેચાણ, જાણો",
     "desc": "મધ્ય પૂર્વમાં ચાલી રહેલા તણાવ હવે ભારતીય રિયલ એસ્ટેટ માટે ખતરો ઉભો કરી રહ્યા છે. દેશના ઘણા શહેરોમાં મિલકતના વેચાણમાં 7 ટકાનો ઘટાડો થયો છે, અને જો યુદ્ધ ચાલુ રહેશે તો પરિસ્થિતિ વધુ ખરાબ થઈ શકે છે.",
@@ -700,14 +709,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/electric-car-discount-mg-comet-ev-discount-rs-60000-in-march-2026-468540 ",
     "time": "2026-03-14T08:58:33.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "તો હવે મોબાઇલ ડેટા પર લાગશે નવો ટેક્સ, દર GB ડેટા પર આપવા પડશે રૂપિયા, જાણો શું છે સરકારની તૈયારી",
-    "desc": "છેલ્લા કેટલાક દિવસથી સોશિયલ મીડિયા પ્લેટફોર્મ પર ડેટા ટેક્સની ચર્ચા થઈ રહી છે. રિપોર્ટ પ્રમાણે સરકાર ડેટા પર ટેક્સ લગાવવાનો વિચાર કરી રહી છે. ઘણી રિપોર્ટ્સમાં પણ આ દાવો કરવામાં આવ્યો છે. જાણો શું છે આ મામલો....",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/india-mobile-data-tax-1-rupee-per-gb-internet-may-get-costly-468402 ",
-    "time": "2026-03-13T10:17:01.000Z"
   }
 ];

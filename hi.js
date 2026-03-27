@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Auqib Nabi aims to win maiden IPL title with Delhi Capitals, downplays India call-up",
+    "desc": "After a stunning Ranji Trophy, where Aquib Nabi finished as the leading wicket-taker, claiming 60 wickets, the 29-year-old enters the IPL with plenty of attention and maybe a bit of pressure because of the hype....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-aims-to-win-maiden-ipl-title-with-delhi-capitals-downplays-india-call-up-2026-03-27-1035363",
+    "time": "2026-03-27T15:10:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at M Chinnaswamy Stadium in Bengaluru play in IPL 2026?",
+    "desc": "Defending champions Royal Challengers Bengaluru will host Sunrisers Hyderabad in the opening game of the IPL 2026 at the M Chinnaswamy Stadium. It will also mark the return of professional cricket in the stadium, which...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-srh-pitch-report-how-will-surface-at-m-chinnaswamy-stadium-in-bengaluru-play-in-ipl-2026-2026-03-27-1035356",
+    "time": "2026-03-27T13:54:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'You have to love this role': PBKS star Shashank Singh on how he performs the tough finishing job in IPL",
+    "desc": "Punjab Kings star batter Shashank Singh opened up on how he has found the finishing job like a home to him. Doing one of the toughest jobs of finishing matches in IPL, Shashank spoke on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/you-have-to-love-this-role-pbks-star-shashank-singh-on-how-he-performs-the-tough-finishing-job-in-ipl-2026-03-27-1035351",
+    "time": "2026-03-27T13:29:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "J-K's Ranji victory inspires new generation, redefines regional aspirations, Auqib Nabi reflects",
     "desc": "Jammu and Kashmir scripted one of the most remarkable stories of the 2025–26 domestic season, clinching the Ranji Trophy after years of steady progression. Having pushed stronger sides in recent editions, the Paras Dogra-led unit...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/one-of-the-most-powerful-partnerships-r-ashwin-gives-his-take-on-csk-s-potential-opening-combination-2026-03-27-1035276",
     "time": "2026-03-27T05:40:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Teenage superstar set for another stellar IPL season? Check stats",
-    "desc": "India’s young teenage sensation, Vaibhav Sooryavanshi, turns 15 years old on March 27, 2026. The youngster garnered attention through his performances in the IPL (Indian Premier League) 2025 and for India U19 after that. Born...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/happy-birthday-vaibhav-sooryavanshi-teenage-superstar-set-for-another-stellar-ipl-season-check-stats-2026-03-27-1035272",
-    "time": "2026-03-27T05:01:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "West Indies' Evin Lewis reverses international retirement, eyes red-ball comeback",
-    "desc": "Veteran West Indies batter Evin Lewis came forward and announced that he would be reversing his international retirement. It is worth noting that the 34-year-old announced his retirement after being left out of the Windies’...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-vin-lewis-reverses-international-retirement-eyes-red-ball-comeback-2026-03-27-1035263",
-    "time": "2026-03-27T03:45:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PSL 2026 introduces new rule, teams to submit two XIs at the toss for the new season",
-    "desc": "The PSL (Pakistan Super League) 2026 is well underway. The marquee event kicked off on March 26, and the season opener saw Lahore Qalandars taking on Hyderabad Kingsmen. With the new season well underway, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/psl-2026-introduces-new-rule-teams-to-submit-two-xis-at-the-toss-for-the-new-season-2026-03-27-1035257",
-    "time": "2026-03-27T02:36:50.000Z"
   }
 ];
