@@ -1,12 +1,111 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Not a good precedent for Governors to contest elections immediately after office, says Sreedharan Pillai",
-    "desc": "The BJP leader, who served as Governor of Mizoram and Goa, talks about his decision not to contest the Assembly polls from Chengannur, the BJP-led NDA’s chances, and the focused attacks on the BJP by the LDF and the UDF",
-    "img": "https://th-i.thgim.com/public/incoming/kpzph6/article70796201.ece/alternates/LANDSCAPE_1200/11073_28_3_2026_17_28_24_4_29TVKZ4_SREEDHARANPILLAI.JPEG",
+    "title": "Iran war: Yemen’s Houthis confirm launching attack on Israel",
+    "desc": "Yemen’s Houthi rebels have confirmed launching an attack on Israel amid escalating tensions in the Iran war. The development signals a widening of the conflict, raising fears of a broader regional escalation in the West Asia",
+    "img": "https://th-i.thgim.com/public/news/national/8zzxud/article70796981.ece/alternates/LANDSCAPE_1200/Oli%201.png",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-not-a-good-precedent-for-governors-to-contest-elections-immediately-after-office-says-sreedharan-pillai/article70796151.ece",
-    "time": "2026-03-28T12:43:19.000Z"
+    "url": "https://www.thehindu.com/news/national/iran-war-yemens-houthis-confirm-launching-attack-on-israel/article70796983.ece",
+    "time": "2026-03-28T15:15:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Age catches up with even the evergreen Dhoni",
+    "desc": "When CSK put out a message on social media that its talisman is likely to miss the first two weeks of IPL 2026 due to a calf strain, the old maxim time and tide wait for none, came to the fore again",
+    "img": "https://th-i.thgim.com/public/incoming/2wi53v/article70796790.ece/alternates/LANDSCAPE_1200/DSC_4079.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/age-catches-up-with-even-the-evergreen-dhoni/article70796806.ece",
+    "time": "2026-03-28T14:45:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AIMIM, AJUP flag poor socio-economic condition of Bengal Muslims, aim to erode Trinamool’s minority support",
+    "desc": "AIMIM led by Asaduddin Owaisi and AJUP of Humayun Kabir have decided to form an alliance for the upcoming Assembly polls in West Bengal. They accuse Trinamool Congress of depriving Muslims of proportional representation either in jobs or in politics.",
+    "img": "https://th-i.thgim.com/public/incoming/bjhv0y/article70796811.ece/alternates/LANDSCAPE_1200/PTI03_27_2026_000294A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/aimim-ajup-flag-poor-socio-economic-condition-of-bengal-muslims-aim-to-erode-trinamools-minority-support/article70793496.ece",
+    "time": "2026-03-28T14:44:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi, Saudi Crown Prince discuss Middle East crisis, push for open sea lanes",
+    "desc": "Prime Minister Narendra Modi held a telephonic conversation with Saudi Crown Prince Mohammed bin Salman, discussing the ongoing Middle East conflict. Both leaders emphasized the importance of ensuring freedom of navigation and keeping shipping lines open and secure, while India reiterated its condemnation of attacks on energy infrastructure.",
+    "img": "https://static.toiimg.com/photo/msid-129866956,imgsize-756266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-saudi-crown-prince-discuss-middle-east-crisis-push-for-open-sea-lanes/articleshow/129866959.cms",
+    "time": "2026-03-28T14:40:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TDP’s blood donation camp in Kuwait received  overwhelming support, says Palla",
+    "desc": "The State party president states that the 44th Foundation Day celebrations will be observed with enthusiasm across the globe, with events planned in nearly 90 countries—from the United States to Australia—including dedicated programmes in 25 cities across the U.S.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdps-blood-donation-camp-in-kuwait-received-overwhelming-support-says-palla/article70796308.ece",
+    "time": "2026-03-28T14:33:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir Khan says he was not allowed to watch romantic films while growing up",
+    "desc": "Aamir Khan, known for his romantic comedies, revealed a surprising childhood restriction, he was not allowed to watch romantic films. Despite his career, the actor admits to rarely watching movies, preferring to read and focus on filmmaking. He is now gearing up for several upcoming projects, including 'Ek Din' and 'Lahore 1947'.",
+    "img": "https://static.toiimg.com/photo/msid-129866539,imgsize-159256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-says-he-was-not-allowed-to-watch-romantic-films-while-growing-up-i-make-films-barely-watch-them/articleshow/129866539.cms",
+    "time": "2026-03-28T14:24:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Traffic management of unpredictable Zojila Pass comes under scanner as avalanche toll touches 7",
+    "desc": "Body of a missing person recovered on Saturday while another dies in hospital; authorities issue fresh avalanche warnings; officials question traffic timing and mixing of light and heavy motor vehicles in one of the most dangerous highway in the country",
+    "img": "https://th-i.thgim.com/public/incoming/1wn1xr/article70796684.ece/alternates/LANDSCAPE_1200/PTI03_28_2026_000017B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/traffic-management-of-unpredictable-zojila-pass-comes-under-scanner-as-avalanche-toll-touches-7/article70796321.ece",
+    "time": "2026-03-28T14:17:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Abhinandan Singh? Meet RCB’s debutant who dismissed Virat Kohli twice",
+    "desc": "Uttar Pradesh pacer Abhinandan Singh made his IPL debut for Royal Challengers Bengaluru against Sunrisers Hyderabad, a remarkable rise from tennis-ball cricket just four years ago. His impressive intra-squad performances, including dismissing Virat Kohli, secured his spot amidst RCB's bowling challenges. This debut marks a significant moment for the young talent.",
+    "img": "https://static.toiimg.com/photo/msid-129866434,imgsize-194156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-who-is-abhinandan-singh-meet-rcbs-debutant-who-dismissed-virat-kohli-twice/articleshow/129866458.cms",
+    "time": "2026-03-28T14:08:35.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war: A day‑by‑day rundown of the escalating crisis",
+    "desc": "A joint U.S.-Israel attack on Iran and the killing of Supreme Leader Ayatollah Ali Khamenei have plunged West Asia into a fast‑spreading war, with Tehran and its allies launching retaliatory strikes across Israel, the Gulf and U.S. bases.",
+    "img": "https://th-i.thgim.com/public/incoming/z8eofi/article70702941.ece/alternates/LANDSCAPE_1200/AFP_99V379F.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
+    "time": "2026-03-28T14:07:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026",
+    "desc": "The England star, who endured a dismal T20 World Cup, acknowledges that the nature of the game sometimes places outcomes beyond control; GT will be hoping the ace wicketkeeper-batter comes out firing in the new season",
+    "img": "https://th-i.thgim.com/public/incoming/k32sus/article70796599.ece/alternates/LANDSCAPE_1200/PTI03_28_2026_000197B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-key-is-to-give-yourself-the-best-chance-to-succeed-buttler/article70795987.ece",
+    "time": "2026-03-28T13:59:11.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Situating Nepal’s current political moment in the long history of feudalism to republican democracy",
+    "desc": "Nepal’s history since 1950 has seen feudal rule, absolute monarchy, civil war, and a republic — each transition promising transformation but leaving most fundamental constraints untouched. The RSP’s 2026 landslide win after a massive but violent Gen Z movement faces the same test",
+    "img": "https://th-i.thgim.com/public/incoming/6exoam/article70795917.ece/alternates/LANDSCAPE_1200/HP22800.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/situating-nepals-current-political-moment-in-thelong-history-of-feudalismto-republican-democracy/article70795913.ece",
+    "time": "2026-03-28T13:52:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ashwin first Indian-capped player in MLC, to play alongside Pakistan’s Haris Rauf",
+    "desc": "Veteran Indian spinner Ravichandran Ashwin is set to make history as the first Indian-capped player in Major League Cricket, joining the San Francisco Unicorns for the 2026 season. Ashwin, a celebrated international cricketer, expressed his excitement about the league's growth and his commitment to helping the Unicorns secure a championship.",
+    "img": "https://static.toiimg.com/photo/msid-129865934,imgsize-122442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/r-ashwin-first-indian-capped-player-in-mlc-to-play-alongside-pakistans-haris-rauf/articleshow/129865845.cms",
+    "time": "2026-03-28T13:37:30.000Z"
   },
   {
     "cat": "Politics",
@@ -27,6 +126,15 @@ const newsData_en = [
     "time": "2026-03-28T12:34:21.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Tolkan's journey from being a busboy to a Hollywood star",
+    "desc": "Veteran actor James Tolkan, known for his authoritative roles in 'Back to the Future' and 'Top Gun', has passed away at 94. Starting with just $75 and a dream, Tolkan built a five-decade career through sheer persistence, gracing both stage and screen with his memorable presence before leaving a legacy of dedication.",
+    "img": "https://static.toiimg.com/photo/msid-129863933,imgsize-109770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-tolkan-passes-away-at-94-his-journey-from-being-a-busboy-with-75-dollars-in-his-pocket-to-becoming-the-top-gun-star/articleshow/129863899.cms",
+    "time": "2026-03-28T12:30:00.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "‘Complete nonsense’: Nihal Sarin on Dutch No. 1 Anish Giri ‘drawish’ tag before Candidates",
     "desc": "As the 2026 Candidates tournament approaches, Dutch Grandmaster Anish Giri faces the lingering \"King of Draws\" stereotype. Indian Grandmaster Nihal Sarin refutes this, highlighting Giri's fighting spirit and recent FIDE Grand Swiss victory as proof of his winning intent. Sarin also offers his predictions for the volatile Open and Women's Candidates fields.",
@@ -37,12 +145,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "IPL 2026",
-    "desc": "I put a lot of effort into that World Cup, and for a multitude of reasons, it just didn’t quite work out. There are elements of the game you can’t control, and everyone else is trying to do well too, says Jos Buttler",
-    "img": "https://th-i.thgim.com/public/incoming/pv82om/article70796179.ece/alternates/LANDSCAPE_1200/PTI03_26_2026_000418A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-key-is-to-give-yourself-the-best-chance-to-succeed-buttler/article70795987.ece",
-    "time": "2026-03-28T12:21:21.000Z"
+    "title": "Why ISL clubs want FanCode over Genius Sports as commercial partner",
+    "desc": "Genius Sports and FanCode have submitted bids for Indian Super League (ISL) and Federation Cup commercial rights, with Genius Sports offering a significantly higher amount. While the All India Football Federation (AIFF) favours Genius Sports' larger upfront offer, ISL clubs prefer FanCode's more sustainable financial structure, leading to a divergence in opinions on the long-term deal.",
+    "img": "https://static.toiimg.com/photo/msid-129864458,imgsize-82746.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/why-isl-clubs-want-fancode-over-genius-sports-as-commercial-partner-explained/articleshow/129864373.cms",
+    "time": "2026-03-28T12:08:44.000Z"
   },
   {
     "cat": "Sports",
@@ -72,15 +180,6 @@ const newsData_en = [
     "time": "2026-03-28T11:40:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Intensified enforcement measures to ensure passenger safety, says Minister for Transport",
-    "desc": "A total of 1,036 buses were inspected at 16 strategic points, including toll plazas and checkposts across the State, during which 236 buses found operating without proper documentation were booked and penalised, the Minister said",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/intensified-enforcement-measures-to-ensure-passenger-safety-says-minister-for-transport/article70795805.ece",
-    "time": "2026-03-28T11:40:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "Political metamorphosis of contemporary Nepal",
     "desc": "Nepal’s traditional political parties, both the Nepali Congress and the many communist parties, came to life during the Cold War era and were structured around feudal-style vertical hierarchies. Today, after the March elections, they have been swept aside by a generation that has organised horizontally, communicating through popular rap songs and social media and which views politics through the lens of individual aspiration rather than collective ideology. This mobilisation helped a relatively new force to win the elections, but will it be able to govern?",
@@ -97,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/real-hero-somy-ali-remembers-sanjay-dutts-equal-respect-for-spot-boys-and-crew/articleshow/129864061.cms",
     "time": "2026-03-28T11:36:40.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Situating Nepal’s current  political moment in the long history of feudalism to republican democracy",
-    "desc": "Nepal’s history since 1950 has seen feudal rule, absolute monarchy, civil war, and a republic — each transition promising transformation but leaving most fundamental constraints untouched. The RSP’s 2026 landslide win after a massive but violent Gen Z movement faces the same test",
-    "img": "https://th-i.thgim.com/public/incoming/6exoam/article70795917.ece/alternates/LANDSCAPE_1200/HP22800.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/situating-nepals-current-political-moment-in-thelong-history-of-feudalismto-republican-democracy/article70795913.ece",
-    "time": "2026-03-28T11:35:13.000Z"
   },
   {
     "cat": "World",
@@ -133,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harry-potter-and-the-sorcerers-stone-to-harry-potter-deathly-hallows-part-2-plot-recap-ahead-of-tv-series-release/photostory/129862550.cms",
     "time": "2026-03-28T11:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Andhra Pradesh launches digital health portal for adolescents",
-    "desc": "Minister for Health said the portal enables self-learning through e-modules on key topics such as personal hygiene, mental health, physical changes, gender equality, HIV awareness, substance abuse prevention, road safety, nutrition, healthy relationships and safe use of the internet and social media",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-launches-digital-health-portal-for-adolescents/article70795769.ece",
-    "time": "2026-03-28T11:00:38.000Z"
   },
   {
     "cat": "Politics",
@@ -270,15 +351,6 @@ const newsData_en = [
     "time": "2026-03-28T09:06:04.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran-Israel war: A day‑by‑day rundown of the escalating crisis",
-    "desc": "A joint U.S.-Israel attack on Iran and the killing of Supreme Leader Ayatollah Ali Khamenei have plunged West Asia into a fast‑spreading war, with Tehran and its allies launching retaliatory strikes across Israel, the Gulf and U.S. bases.",
-    "img": "https://th-i.thgim.com/public/incoming/z8eofi/article70702941.ece/alternates/LANDSCAPE_1200/AFP_99V379F.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
-    "time": "2026-03-28T08:43:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Cody Linley addresses whether there will be a 'Hannah Montana' spin-off",
     "desc": "The air is thick with nostalgia as fans celebrate the 'Hannah Montana 20th Anniversary Special,' igniting conversations about a possible spin-off. Cody Linley, who charmed audiences as Jake Ryan, teased that the idea is not off the table, saying, 'Anything is possible.",
@@ -387,15 +459,6 @@ const newsData_en = [
     "time": "2026-03-28T07:55:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Katy Perry and Justin Trudeau share pics from playful date night",
-    "desc": "Pop star Katy Perry and Canadian Prime Minister Justin Trudeau shared a playful glimpse into their date night, poking fun at their age difference with a fun quiz. The couple, who have been keeping their relationship relatively private, posted photos that also featured Perry's daughter. Despite a long-distance dynamic, they prioritize making their relationship work, traveling to spend time together.",
-    "img": "https://static.toiimg.com/photo/msid-129861025,imgsize-81362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/katy-perry-and-justin-trudeau-poke-fun-at-their-age-gap-on-date-night-how-old-would-you-be-if/articleshow/129861025.cms",
-    "time": "2026-03-28T07:43:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why are Indians not starting as favourites?",
     "desc": "The Candidates tournament begins in Cyprus with American duo Nakamura and Caruana favored over Indian contenders like Praggnanandhaa. In the women's section, Divya Deshmukh is seen as a strong challenger to top seed Zhu Jiner. This event tests if India's chess dominance extends beyond Gukesh.",
@@ -423,15 +486,6 @@ const newsData_en = [
     "time": "2026-03-28T07:18:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar' characters make their way into the exam paper",
-    "desc": "In a delightful twist, the hit movie 'Dhurandhar' has become the muse for an innovative accounting exam, where characters from the film take the spotlight in place of traditional question phrasing. This humorous initiative has garnered a wave of applause from online audiences, who are reveling in the educator's inventive method to make learning more fun. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129860343,imgsize-142770.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-characters-make-their-way-into-the-exam-paper-netizens-call-it-peak-level-detailing/articleshow/129860343.cms",
-    "time": "2026-03-28T07:06:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How did I become a coach and Carlsen’s second? I got too weak as a player: Jan Gustafsson",
     "desc": "Gustafsson has lived in many corners of the chess world. In addition to discussing his various experiences in the game, he also talks in this interview about the Candidates, which begins on Sunday, and the rise of German chess",
@@ -450,15 +504,6 @@ const newsData_en = [
     "time": "2026-03-28T07:00:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aneet's sister Reet goes private on insta after Dhurandhar Propaganda backlash",
-    "desc": "Aneet Padda's sister Reet Padda faces backlash for calling Dhurandhar, The Kerala Story, The Kashmir Files \"propaganda\" on Instagram. Netizens troll both; Reet goes private, deletes pic amid dating rumors with Pakistani man Fazil Ahmed.",
-    "img": "https://static.toiimg.com/photo/msid-129860431,imgsize-19008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aneet-paddas-sister-reet-padda-goes-private-on-instagram-after-dhurandhar-propaganda-backlash/articleshow/129860431.cms",
-    "time": "2026-03-28T06:56:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Payment nahi milegi ab': Babar Azam's ad shoot goes wrong",
     "desc": "Peshawar Zalmi captain Babar Azam faced online trolling after dropping a catch during an advertisement shoot ahead of the PSL 2026. The tournament will be played behind closed doors due to geopolitical tensions, a move Azam acknowledged will be missed by players and fans alike.",
@@ -475,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-10-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-film-eyes-dhurandhar-1-rs-840-crore-india-net-record-as-second-weekend-kicks-in/articleshow/129857742.cms",
     "time": "2026-03-28T06:33:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. Assembly election: parties must avoid excessive freebies, focus on development, says AIADMK leader Semmalai",
-    "desc": "Contending that these handouts being announced as part of electoral promises by major parties will not facilitate T.N.’s development, he criticises the DMK government for not increasing the capital expenditure substantially over the last 5 years and ‘frittering away’ funds for distributing freebies",
-    "img": "https://th-i.thgim.com/public/incoming/hnjfi3/article70769971.ece/alternates/LANDSCAPE_1200/11658_21_3_2026_18_55_45_2_2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/parties-must-avoid-excessive-freebies-focus-on-development-says-ex-minister-semmalai/article70769698.ece",
-    "time": "2026-03-28T06:20:03.000Z"
   },
   {
     "cat": "Business",
@@ -531,15 +567,6 @@ const newsData_en = [
     "time": "2026-03-28T05:15:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "T.N. government releases draft State Mental Healthcare Regulations, 2026",
-    "desc": "The Tamil Nadu State Mental Health Authority will maintain a register of practising mental health professionals in the State that will be updated monthly. It also proposes to publish a district-wise list of mental health professionals on January 1 every year",
-    "img": "https://th-i.thgim.com/public/incoming/n9d3oq/article70795433.ece/alternates/LANDSCAPE_1200/FORT%20ST%20GEORGE%20STATE%20SECRETARIAT%20ASSEMBLY_10.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-releases-draft-state-mental-healthcare-regulations-2026/article70792168.ece",
-    "time": "2026-03-28T05:10:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Queen' jibe lands Naseem Shah in hot water; PCB sends notice",
     "desc": "Pakistan Cricket Board (PCB) has issued a show-cause notice to pacer Naseem Shah for allegedly violating his central contract. A deleted X post by Shah appeared to criticize Punjab CM Maryam Nawaz, who was the guest of honor at the PSL 2026 opening match. The PCB stated that disciplinary action will be determined after hearing Shah's explanation.",
@@ -549,33 +576,6 @@ const newsData_en = [
     "time": "2026-03-28T04:49:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Fearing ground assault, our families have started leaving Tehran': Iranians in India",
-    "desc": "Fear grips Tehran as residents anticipate a ground assault. Ambiguous statements from Washington and threats from Tel Aviv fuel anxiety. Many families are leaving the capital for safer rural areas. Iranians in India report loved ones are rationing essentials and struggling with communication blackouts. Video calls offer brief solace amidst the uncertainty of escalating conflict.",
-    "img": "https://static.toiimg.com/photo/msid-129858881,imgsize-1141757.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/iranians-in-india-say-families-have-started-leaving-tehran/articleshow/129858818.cms",
-    "time": "2026-03-28T04:36:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Anger on the banks of the Musi",
-    "desc": "With the Telangana government ready to implement the Musi Riverfront Development Project in Hyderabad, residents along the river are facing possible displacement and uncertainty over compensation. The Moosa and Esi tributaries, once seasonal streams, now flow with sewage and industrial effluents, raising questions about ecological restoration. Swathi Vadlamudi speaks to citizens and environmentalists",
-    "img": "https://th-i.thgim.com/public/incoming/lk3mkn/article70793830.ece/alternates/LANDSCAPE_1200/2248_26_3_2026_19_49_21_1_NGP8283.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Hyderabad/anger-on-the-banks-of-the-musi/article70793826.ece",
-    "time": "2026-03-28T04:28:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "On debut, Divya Deshmukh could cause a dent in Candidates",
-    "desc": "Divya Deshmukh, the youngest participant at 20, makes her debut in the World Championship Candidates chess tournament in Cyprus. Having qualified by winning the Women's World Cup, she aims to leverage her strong opening preparations and aggressive play against higher-rated opponents.",
-    "img": "https://static.toiimg.com/photo/msid-129858588,imgsize-40706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/on-debut-divya-deshmukh-could-cause-a-dent-in-candidates/articleshow/129858584.cms",
-    "time": "2026-03-28T04:06:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "not a cog in — but the wheel running — the Manchester United wheel",
     "desc": "The United captain has dragged his club into the Premier League’s top three on the back of brilliant individual moments. With eight goals and 16 assists, he has won the Red Devils games even when they have been outplayed. If he can secure United’s Champions League spot and break the Premier League’s assists record, he will have had an all-timer of a season",
@@ -583,15 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/bruno-fernandes-2025-26-season-stats-man-utd-assists-record-analysis/article70795289.ece",
     "time": "2026-03-28T03:39:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Service sector fuels Telangana’s explosive per capita income growth in 10 years",
-    "desc": "Though Telangana witnessed a sharp rise in per capita income led by districts like Mahabubnagar and Rangareddy, the gains remain uneven with most districts lagging behind the State average, highlighting persistent regional disparities despite strong service-led economic growth across the State",
-    "img": "https://th-i.thgim.com/public/incoming/5ga4gl/article70795285.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-28%20at%208.44.45%20AM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Hyderabad/service-secto-fuels-telanganas-explosive-per-capita-income-growth-in-10-years/article70792714.ece",
-    "time": "2026-03-28T03:32:37.000Z"
   },
   {
     "cat": "Sports",
@@ -610,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-bangladesh-govt-opens-door-for-broadcast-in-the-country/articleshow/129857757.cms",
     "time": "2026-03-28T02:45:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "DUI charge, mug shot released",
-    "desc": "Golf legend Tiger Woods was arrested on a DUI charge after his Land Rover overturned near his Florida home. Woods showed signs of impairment but passed a breathalyzer test. He refused a urine analysis, leading to DUI charges, with experts suspecting medication or drug influence.",
-    "img": "https://static.toiimg.com/photo/msid-129857709,imgsize-125442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/golf/top-stories/tiger-woods-arrested-after-car-crash-dui-charge-mug-shot-released/articleshow/129857677.cms",
-    "time": "2026-03-28T02:32:58.000Z"
   },
   {
     "cat": "Business",
@@ -673,24 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-breaches-94-worst-fiscal-year-fall-in-over-a-decade/articleshow/129857083.cms",
     "time": "2026-03-28T00:15:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "EC seeks report on Mamata’s ‘provocative’ remark from CEO",
-    "desc": "With her statement seen as a provocation to TMC women workers and supporters to launch attacks at polling stations in rural areas, posing a risk to the central armed police forces deployed there, of facing criminal charges were they to intervene and stop them, EC will examine if the statement amounts of provocation and interferes in discharge of duties by poll and security personnel.",
-    "img": "https://static.toiimg.com/photo/msid-129856934,imgsize-94004.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ec-seeks-report-on-mamatas-provocative-remark-from-ceo/articleshow/129856936.cms",
-    "time": "2026-03-27T23:13:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED chargesheets Anil aide in RCom laundering case",
-    "desc": "RCom, Ambani, his close associates and some family members are under investigation in the purchase and sale of an apartment worth over Rs 70 crore in Manhattan, New York. Sources said the chargesheet has mentioned Vaishali Jairam Mane, besides Garg, as an accused. Mane was an RCom employee based in the US. ED had questioned Ambani and his son in this case earlier.",
-    "img": "https://static.toiimg.com/photo/msid-129856926,imgsize-956729.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ed-chargesheets-anil-aide-in-rcom-laundering-case/articleshow/129856930.cms",
-    "time": "2026-03-27T23:10:54.000Z"
   },
   {
     "cat": "Business",
@@ -754,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/excise-cuts-wont-change-fuel-price-relief-only-in-narrative-congress-claims/article70791490.ece",
     "time": "2026-03-27T13:30:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘We saw tanks on the road’: How playing chess amid regional conflict feels",
-    "desc": "The 2026 Candidates chess tournament in Cyprus faces pre-event anxieties due to Middle East tensions, leading to a player withdrawal and concerns over logistics. This echoes a past instance in 1978 Tehran, where Indian players competed amidst a crumbling monarchy and civil unrest, largely shielded by isolation from news and the tournament's remote location.",
-    "img": "https://static.toiimg.com/photo/msid-129846463,imgsize-177346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/we-saw-tanks-on-the-road-how-playing-chess-amid-regional-conflict-feels/articleshow/129846384.cms",
-    "time": "2026-03-27T11:42:32.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/new-mexico-jury-says-meta-harms-childrens-mental-health-and-safety-violating-state-law/article70782437.ece",
     "time": "2026-03-25T13:00:53.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "With NavIC setback, India unable to use satellite system for security purposes: experts",
+    "desc": "A major setback occurred after the last atomic clock on board the Indian Regional Navigational Satellite System-1F (IRNSS-1F) stopped functioning on March 10, leaving only three satellites of the NavIC constellation in function; armed forces of countries use the navigation satellite system for logistics, mapping and operational planning, and relying on a foreign navigation satellite system could pose security issues, especially during wars",
+    "img": "https://th-i.thgim.com/public/incoming/46xqm/article70784020.ece/alternates/LANDSCAPE_1200/PTI8_30_2017_000133B.JPEG-07231.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/another-satellite-in-navic-satellite-system-unable-to-function-limiting-its-security-capabilities-amid-concerns-of-reliance-on-foreign-navigation-systems/article70783744.ece",
+    "time": "2026-03-25T12:37:11.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
