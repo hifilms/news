@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "કોઈ સાંસદ બન્યું, તો કોઈ પાકિસ્તાની સિલેક્ટર... હાલ ક્યાં છે પહેલી IPL જીતનાર ટીમના ખેલાડી ?",
+    "desc": "2008નું વર્ષ ઇન્ડિયન પ્રીમિયર લીગ (IPL)ની શરૂઆતનું વર્ષ હતું અને તેની પહેલી જ સીઝનમાં રાજસ્થાન રોયલ્સે ટાઇટલ જીતીને બધાને આશ્ચર્યચકિત કરી દીધા હતા. તે ટીમમાં મોટા નામો નહોતા છતાં કેપ્ટન શેન વોર્નની રણનિતીએ કમાલ કર્યો હતો. તાજેતરમાં ફ્રેન્ચાઇઝી વેચાતા રાજસ્થાન રોયલ્સ ફરી એકવાર ચર્ચામાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-2008-where-are-the-rajasthan-royals-players-now-470319 ",
+    "time": "2026-03-28T01:30:01.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "ધુરંધર 2ની સફળતા વચ્ચે સંજય દત્તનો વીડિયો થઈ રહ્યો છે વાયરલ, પૈપ્સને એવું તો શું કહ્યું, જુઓ Video",
     "desc": "ધુરંધર 2ની સફળતા વચ્ચે, સંજય દત્તનો એક વીડિયો સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યો છે. આ વીડિયોમાં, સંજય દત્ત તેની પત્ની માન્યતા દત્ત અને બાળકો સાથે જોવા મળે છે. પાપારાઝી તેનું શૂટિંગ કરી રહ્યા છે. ત્યારે સંજય દત્ત પેપ્સને જે કહે છે તે વાયરલ થઈ જાય છે.",
@@ -565,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/after-watching-dhurandhar-2-people-are-listening-to-this-song-from-sunny-deol-film-did-you-also-remember-it-469851 ",
     "time": "2026-03-23T13:31:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 પહેલા BCCIએ ચાહકોને આપી મોટી ભેટ, આ 15 શહેરોમાં મફતમાં જોઈ શકશો લાઈવ મેચો",
-    "desc": "IPL 2026 28 માર્ચથી શરૂ થવાની છે, જેની ચાહકો આતુરતાથી રાહ જોઈ રહ્યા હતા. આ દરમિયાન ચાહકોને એક મોટી ભેટ આપતા BCCIએ ફેન પાર્કના સ્થળોની જાહેરાત કરી છે, જ્યાં તમે વિશાળ સ્ક્રીન પર લાઈવ મેચો સંપૂર્ણપણે મફતમાં જોઈ શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bcci-announced-ipl-2026-fan-parks-schedule-check-full-list-469798 ",
-    "time": "2026-03-23T08:57:19.000Z"
   },
   {
     "cat": "Entertainment",

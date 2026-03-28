@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer backs Axar Patel to impress with the ball ahead of IPL 2026",
+    "desc": "The 19th edition of the IPL (Indian Premier League) kicks off on March 28, with the tournament right around the corner, and the 10 franchises will be looking to put in their best work in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-backs-axar-patel-to-impress-with-the-ball-ahead-of-ipl-2026-2026-03-28-1035382",
+    "time": "2026-03-28T01:42:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "SRH coach shares major update on Pat Cummins' fitness ahead of IPL 2026 opener vs RCB",
     "desc": "Sunrisers Hyderabad captain Pat Cummins has been ruled out of the first few games of the IPL 2026. The franchise has already notified the development, as Ishan Kishan has been named the new captain for...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/nuwan-thushara-fails-fitness-test-sri-lanka-cricket-denies-noc-to-join-rcb-for-ipl-2026-2026-03-27-1035325",
     "time": "2026-03-27T11:04:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manpreet Singh dismisses reports of fallout with president Tirkey, says 'he wants me to play 500 matches'",
-    "desc": "Indian hockey is on the brink of witnessing a historic milestone as the veteran Manpreet Singh is closing in on becoming the most capped player in the country’s history. The 33-year-old is just two matches...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/manpreet-singh-dismisses-reports-of-fallout-with-dilip-tirkey-says-he-wants-me-to-play-500-matches-2026-03-27-1035320",
-    "time": "2026-03-27T10:36:42.000Z"
   }
 ];
