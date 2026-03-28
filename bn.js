@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "১৯ বছরে মাথায় টাক, করিশ্মার সঙ্গে বিয়ে ভাঙা থেকে বাবার আশ্রমে চলে যাওয়া- অক্ষয় খান্নার জীবন যেন সিনেমার চেয়েও টানটান",
+    "desc": "৫ বছর বয়সে বাবার চলে যাওয়া, ১৯ বছরেই মাথায় টাক, আর একের পর এক ২৩টি ফ্লপ সিনেমা! তবুও দমে যাননি অক্ষয় খান্না। আজ 'ধুরন্ধর'-এর রেহমান ডাকাত হিসেবে তিনি গোটা ভারতের সেনসেশন। অভিনেতার জন্মদিনে ফিরে দেখা হার না মানা এক লড়াকুর গল্প।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/akshaye-khanna-dhurandhar-comeback-struggle-success-story-break-up-with-karisma-kapoor_646450.html ",
+    "time": "2026-03-28T05:35:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "কোথায় গেল ২৩০০ কেজি মাদক? পুলিস বলল 'ইঁদুরে সাবাড় করে দিয়েছে'",
     "desc": "৩০০০ টন নিউ জেনারেশন কর্ভেটে। এই যুদ্ধজাহাজগুলি তৈরি করবে গার্ডেন রিচ শিপ বিল্ডার্স অ্যান্ড ইঞ্জিনিয়ার্স এবং গোয়া শিপইয়ার্ড লিমিটেড। সম্পূর্ণ দেশীয় প্রযুক্তিতে নির্মিত এই প্ল্যাটফর্মগুলি ভারতের নৌশক্তিকে নতুন উচ্চতায় নিয়ে যাবে বলে মত সংশ্লিষ্ট মহলের।",
@@ -88,14 +106,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/shreya-ghoshal-husband-shiladitya-mukhopadhyaya-net-worth-career-profile_645896.html ",
     "time": "2026-03-23T08:06:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'৪ মে সব উত্তর দেব', টিকিট পেয়েই মুখ খুললেন হিরণ: নমিনেশনে ‘স্ত্রী’র জায়গায় কার নাম? প্রশ্ন অনিন্দিতার",
-    "desc": "ব্যক্তিগত জীবনের বিতর্ক আর রাজনীতির ময়দান— দুইয়ের টানাপড়েনে এখন টলিউড অভিনেতা হিরণ চট্টোপাধ্যায় সংবাদ শিরোনামে। ‘অবৈধ বিয়ে’র অভিযোগ তুলে যখন প্রথম স্ত্রী অনিন্দিতা চট্টোপাধ্যায় সরব, তখনই বিজেপি হিরণকে হাওড়ার **শ্যামপুর** কেন্দ্রের প্রার্থী হিসেবে ঘোষণা করে তাঁর ওপর আস্থার সিলমোহর দিল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/hiraan-chatterjee-shyampur-candidate-wife-anindita-reaction_645498.html ",
-    "time": "2026-03-19T14:21:02.000Z"
   }
 ];

@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "MS Dhoni likely to miss first two weeks of IPL 2026 due to calf strain",
+    "desc": "In a major development for Chennai Super Kings, star keeper-batter and former skipper MS Dhoni is likely to miss the first two weeks of the upcoming IPL (Indian Premier League) 2026 as he is currently...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-likely-to-miss-first-two-weeks-of-ipl-2026-due-to-calf-strain-2026-03-28-1035395",
+    "time": "2026-03-28T05:10:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Tiger Woods, golf legend, arrested on suspicion of DUI after rollover crash in Florida",
     "desc": "In a major development, 50-year-old golf legend Tiger Woods has been arrested in Florida on suspicion of driving under the influence. It is worth noting that his Land Rover was travelling at a high speed...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-aims-to-win-maiden-ipl-title-with-delhi-capitals-downplays-india-call-up-2026-03-27-1035363",
     "time": "2026-03-27T15:10:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at M Chinnaswamy Stadium in Bengaluru play in IPL 2026?",
-    "desc": "Defending champions Royal Challengers Bengaluru will host Sunrisers Hyderabad in the opening game of the IPL 2026 at the M Chinnaswamy Stadium. It will also mark the return of professional cricket in the stadium, which...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-srh-pitch-report-how-will-surface-at-m-chinnaswamy-stadium-in-bengaluru-play-in-ipl-2026-2026-03-27-1035356",
-    "time": "2026-03-27T13:54:30.000Z"
   }
 ];

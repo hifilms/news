@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "આજે રાત્રે 1 કલાક અંધારામાં ડૂબી જશે દુનિયા! જાણો કેમ ખાસ છે Earth Hour ની આ 60 મિનિટ",
+    "desc": "આજે રાત્રે માત્ર એક કલાક માટે બિનજરૂરી લાઇટો બંધ રહેશે, પરંતુ તેનો સંદેશ મોટો છે. Earth Hour 2026ના 20 વર્ષ પૂરા થવા પર દુનિયાના 190 દેશોની સાથે ભારતના લોકો પણ આ વૈશ્વિક અભિયાનમાં સામેલ થઈ રહ્યાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/earth-hour-2026-lights-off-for-one-hour-india-impact-470405 ",
+    "time": "2026-03-28T06:53:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "માર્ચ મહિનાનું છેલ્લું વીકેન્ડ ઓટીટી માટે ખાસ, દમદાર ફિલ્મો અને ધાંસુ વેબ સીરીઝ થઈ ગઈ સ્ટ્રીમ",
+    "desc": "શનિ-રવિમાં ફિલ્મો અને વેબ સીરીઝ જોવાના શોખીનો એ જાણવા માંગતા હોય છે કે આ વીકેન્ડમાં કયા ઓટીટી પ્લેટફોર્મ પર શું નવું આવ્યું છે. માર્ચ મહિનાનું આ છેલ્લું વીકેન્ડ છે અને આ વીકેન્ડમાં પણ ઓટીટી પર વેબ સીરીઝ અને ફિલ્મો સ્ટ્રીમ કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/ott-new-release-march-2026-last-weekend-new-hindi-film-and-web-series-on-ott-march-2026-470404 ",
+    "time": "2026-03-28T06:33:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "લોનના નિયમોનો ઉલાળિયો કે મિલીભગત? SFIO સરકારી નાણાકીય સંસ્થાને NCLTમાં ઢસડી ગઈ",
+    "desc": "સરકારી નાણાકીય સંસ્થા IFCI અને તેના અધિકારીઓ તથા કેટલીક કંપનીઓ વિરુદ્ધ 6855 કરોડ રૂપિયાના કથિત કૌભાંડ અંગે NCLTમાં સરકારી તપાસ એજન્સી SFIOએ અરજી દાખલ કરી છે. ખુબ જ ચોંકાવનારા આ કેસની વિગતો જાણીને દંગ રહી જશો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/ifci-6855-crore-case-inside-story-shocking-details-of-corporate-fraud-loan-scam-470397 ",
+    "time": "2026-03-28T05:33:51.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "એક્સાઈઝ ડ્યુટી ઘટ્યા બાદ શું સસ્તું થયું પેટ્રોલ-ડીઝલ? ચેક કરો તમારા શહેરનો આજનો લેટેસ્ટ ભાવ",
     "desc": "કેન્દ્ર સરકાર દ્વારા એક્સાઈઝ ડ્યુટીમાં ઘટાડો કરવામાં આવ્યા બાદ શું પેટ્રોલ-ડીઝલના ભાવમાં ફેરફાર થયો છે? આ સવાલ ઘણા લોકોના મનમાં ફરી રહ્યો છે, જો તમે પણ આવું જ કંઈક વિચારી રહ્યા હોવ તો ચેક કરો આજનો લેટેસ્ટ ભાવ..",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -387,15 +414,6 @@ const newsData_gu = [
     "time": "2026-03-26T05:42:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "LPG, ATM થી લઈને PAN કાર્ડ સુધી... 1 એપ્રિલથી દેશમાં થશે 5 મોટા ફેરફાર, તમારા ખિસ્સા પર થશે સીધી અસર",
-    "desc": "માર્ચ મહિનો પૂરો થવા જઈ રહ્યો છે અને માત્ર પાંચ દિવસમાં એપ્રિલ શરૂ થશે. દર મહિનાની જેમ આ નવો મહિનો પણ દેશભરમાં ઘણા મોટા નાણાકીય ફેરફારો સાથે શરૂ થવાનો છે. ત્યારે 1 એપ્રિલથી અમલમાં આવતા નવા નિયમોની અસર સીધી તમારા ખિસ્સા પર અનુભવાય તેવી શક્યતા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/rule-change-from-1st-april-lpg-atm-pan-card-income-tax-and-train-ticket-470152 ",
-    "time": "2026-03-26T05:24:29.000Z"
-  },
-  {
     "cat": "World",
     "title": "LPG ક્રાઈસિસ વચ્ચે ભારતને ઝટકા પર ઝટકા આપી રહ્યું છે રશિયા, મોંઘા તેલ બાદ હવે લીધો આ નિર્ણય",
     "desc": "ભારત સાથે દરેક સુખ-દુઃખમાં ખભેખભો મિલાવીને સાથ આપનાર રશિયા પણ ઈરાન યુદ્ધ બાદ ભારતને એક પછી એક ઝટકા આપી રહ્યું છે. પહેલા રશિયાએ તેલ પર આપવામાં આવતી છૂટ બંધ કરી અને હવે ખાતરની નિકાસ પર રોક લગાવીને બીજો ફટકો આપ્યો છે.",
@@ -484,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/who-is-aryaman-birla-former-rajasthan-royals-batsman-now-rcb-chairman-470046 ",
     "time": "2026-03-25T07:47:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "દેવામાંથી મુક્ત થવા અનિલ અંબાણીનો મોટો પ્લાન, SBI સહિત 2 બેંકોને લખ્યો પત્ર, જાણો",
-    "desc": "અનિલ અંબાણી પર દેવાનો બોજ છે, ત્યારે હાલમાં અનિલ અંબાણીએ બોજમાંથી મુક્તિ મેળવવા માટે 3 બેંકોને પત્ર લખ્યો છે અને માગ કરી છે. અનિલ અંબાણીએ કહ્યું કે મારા ગ્રુપે દેવાની ચુકવણીમાં સારો રેકોર્ડ રાખ્યો છે, જેને ધ્યાનમાં લેવામાં આવવો જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/anil-ambanis-big-plan-to-get-rid-of-debt-wrote-a-letter-to-2-banks-including-sbi-know-470045 ",
-    "time": "2026-03-25T07:18:33.000Z"
   },
   {
     "cat": "Entertainment",
@@ -682,15 +691,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/book-lpg-cylinders-from-home-using-whatsapp-call-and-app-get-rid-of-long-queues-469001 ",
     "time": "2026-03-17T14:04:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "નોરા ફતેહીના ગીત &amp;#039;સરકે ચુનાર તેરી સરકે&amp;#039; ના શબ્દો કોણે લખ્યા છે, કઈ ફિલ્મનું છે આઇટમ સોંગ?",
-    "desc": "નોરા ફતેહીના વિવાદાસ્પદ ગીત \"સરકે ચુનાર તેરી સરકે\" ને લઈને ચર્ચા વધી રહી છે. અલ્લુ અર્જુનની ફિલ્મ \"પુષ્પા 2\" ના ગીતો લખનારા ગીતકારે નોરા ફતેહીના ગીત \"સરકે ચુનાર તેરી સરકે\" (પુષ્પા 2)ના ગીતો પણ લખ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/who-has-written-the-lyrics-of-nora-fatehi-song-sarke-chunar-teri-sarke-from-which-film-is-the-item-song-468913 ",
-    "time": "2026-03-17T05:30:51.000Z"
   },
   {
     "cat": "Tech",
