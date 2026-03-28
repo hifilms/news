@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "PM, Saudi crown prince agree on need to keep shipping lines open",
+    "desc": "Underscoring India’s energy and diaspora interests in the Gulf, Modi has twice spoken to leaders of all GCC countries since the conflict started and condemned the violation of their sovereignty and territorial integrity. India, however, is yet to condemn the US-Israel strikes on Iran. This was the second telephonic conversation between the PM and the crown prince since the West Asia conflict started on Feb 28.",
+    "img": "https://static.toiimg.com/photo/msid-129872134,imgsize-70606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-saudi-crown-prince-agree-on-need-to-keep-shipping-lines-open/articleshow/129872131.cms",
+    "time": "2026-03-28T21:09:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB pays tribute to 2025 stampede victims; 11 reserved seats at M. Chinnaswamy",
+    "desc": "Notably, these seats are set to remain permanently unoccupied during all IPL and international matches. Ahead of the IPL 2026 opener, players from both RCB and SRH also observed a one-minute silence to pay tribute to the fans who lost their lives in 2025",
+    "img": "https://th-i.thgim.com/public/incoming/oa48g/article70797536.ece/alternates/LANDSCAPE_1200/2026-03-28T180028Z_1505489230_UP1EM3S1AP10N_RTRMADP_3_CRICKET-IPL-RCB-SRH.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-rcb-pays-tribute-to-2025-stampede-victims-11-reserved-seats-at-m-chinnaswamy/article70797533.ece",
+    "time": "2026-03-28T21:05:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IAF starts work on ‘Vayu Baan’, India’s first helicopter-dropped drone project",
+    "desc": "Vayu Baan is an indigenous air-launched effects (ALE) programme designed to integrate unmanned aerial systems directly with manned rotary-wing platforms. It is a small, autonomous drone designed to be dropped from a moving helicopter mid-flight. Once released, the drone unfolds its wings, activates its propulsion and operates as either a surveillance asset or a precision-guided munition (kamikaze drone).",
+    "img": "https://static.toiimg.com/photo/msid-129872116,imgsize-8376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iaf-starts-work-on-vayu-baan-indias-first-helicopter-dropped-drone-project/articleshow/129872081.cms",
+    "time": "2026-03-28T21:04:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "15 lakh Bengal voters in limbo due to missing e-signatures",
+    "desc": "EC officials said 60 lakh voters were initially marked for scrutiny after a special intensive revision (SIR) of rolls, with over 700 judicial officers assigned to review them. By March 23 evening, around 29 lakh cases had been cleared. Bengal CEO Manoj Agarwal said names carrying e-signatures till 5pm would be published in the first supplementary list. The list released around midnight carried about 10 lakh names.",
+    "img": "https://static.toiimg.com/photo/msid-129872057,imgsize-452770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/15-lakh-bengal-voters-in-limbo-due-to-missing-e-signatures/articleshow/129872058.cms",
+    "time": "2026-03-28T20:59:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi backs ethanol blending as key to cutting crude imports",
+    "desc": "“Farmers’ efforts in this have given a lot of relief to the country at this time of global crisis,” he said. Ethanol production, he added, has not only benefited the nation but also farmers, with approximately Rs 1.5 lakh crore worth of foreign exchange being saved. Jewar is a gateway to the sugarcane belts of western UP. Sugarcane feedstock is a key source of ethanol.",
+    "img": "https://static.toiimg.com/photo/msid-129872049,imgsize-75742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-backs-ethanol-blending-as-key-to-cutting-crude-imports/articleshow/129872025.cms",
+    "time": "2026-03-28T20:53:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat throws flying kisses at Anushka, netizens can't keep calm: VIDEO",
+    "desc": "Following its box office success and internet buzz, 'Dhurandhar 2' has been overshadowed by Virat Kohli and Anushka Sharma. Kohli's impressive 69-run performance led Royal Challengers Bangalore to victory against Sunrisers Hyderabad in IPL 2026. Post-match, Kohli was seen blowing flying kisses to Sharma in the stands.",
+    "img": "https://static.toiimg.com/photo/msid-129871896,imgsize-28962.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-throws-flying-kisses-at-anushka-sharma-after-rcb-wins-the-internet-cant-keep-calm-someone-tell-them-they-are-married-video/articleshow/129871781.cms",
+    "time": "2026-03-28T19:47:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' creates history, scores highest 2nd Saturday in Hindi cinema",
+    "desc": "'Dhurandhar 2' continues its record-breaking streak, dominating the box office and online conversations. The film achieved the highest second Saturday collection in Hindi cinema history, surpassing 'Pushpa 2'. Its strong performance has led to other releases being postponed, ensuring its continued dominance in the coming week.",
+    "img": "https://static.toiimg.com/photo/msid-129871725,imgsize-60652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-creates-history-the-ranveer-singh-r-madhavan-sanjay-dutt-starrer-scores-highest-second-saturday-in-hindi-cinema-with-rs-62-crore-beats-pushpa-2/articleshow/129871586.cms",
+    "time": "2026-03-28T19:25:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Over 3000 J&amp;K govt schools have under 10 students: Minister",
+    "desc": "Of the 3,192 such schools,1494 are in Jammu division and 1,698 in Kashmir, National Conference’s (NC) Itoo said in a written reply to a question from BJP legislator RS Pathania. In Jammu, Kathua district has the highest number of such schools at 508. In Kashmir, Baramulla district tops the list of such schools with 396.",
+    "img": "https://static.toiimg.com/photo/msid-129870607,imgsize-272408.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/over-3000-jk-govt-schools-have-under-10-students-minister/articleshow/129870615.cms",
+    "time": "2026-03-28T19:18:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After Zoji La avalanche deaths, Ladakh hill council stakes claim on Zero Point",
+    "desc": "Addressing a press conference in Drass, LAHDC-Kargil councillors praised the Army, civil administration and Ladakh Police for prompt rescue efforts and retrieval of bodies from the snow following the accident on Friday afternoon. However, they expressed surprise over “J&K Police investigating the incident on Saturday morning”. While J&K claimed the area to be part of its territory, its administrative machinery was always slow to respond when any mishap occurred there, they alleged.",
+    "img": "https://static.toiimg.com/photo/msid-129870645,imgsize-95500.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/after-zoji-la-avalanche-deaths-ladakh-hill-council-stakes-claim-on-zero-point/articleshow/129870703.cms",
+    "time": "2026-03-28T19:18:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What did the Supreme Court rule on Scheduled Castes and religion?",
+    "desc": "What did the Supreme Court say about Scheduled Caste status for those not belonging to Hinduism, Sikhism, or Buddhism? Can SC status be restored through reconversion? What is the Centre’s position on SC status for Dalit Muslims and Christians? What about Scheduled Tribes?",
+    "img": "https://th-i.thgim.com/public/incoming/ooa5u8/article70797493.ece/alternates/LANDSCAPE_1200/vbk-stock-SClatest_supreme%20court_lat_PTI10_14_2024_000209B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/what-did-the-supreme-court-rule-on-scheduled-castes-and-religion/article70797335.ece",
+    "time": "2026-03-28T18:59:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bhooth Bangla' release postponed to avoid competition from Dhurandhar 2",
+    "desc": "Priyadarshan's horror-comedy 'Bhooth Bangla', starring Akshay Kumar, has been postponed from April 10 to April 17, 2026. This strategic move avoids a clash with the dominant 'Dhurandhar 2' and ensures better screen allocation. The film's trailer launch has also been rescheduled.",
+    "img": "https://static.toiimg.com/photo/msid-129871209,imgsize-48462.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumars-bhooth-bangla-release-delayed-to-avoid-competition-from-ranveer-singh-starrer-dhurandhar-2-report/articleshow/129869743.cms",
+    "time": "2026-03-28T18:44:18.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Kohli, Padikkal shine as RCB chase down 202 with ease against SRH in season opener",
     "desc": "Chasing 202, RCB reached 203 for 4 in 15.4 overs. Padikkal scored 61 off 26 balls, while Kohli remained unbeaten on 69 from 38 deliveries. The pair added 101 runs for the second wicket in just 45 balls after the early dismissal of Phil Salt.",
@@ -16,6 +115,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-drops-sitter-vs-srh-anushka-sharmas-reaction-goes-viral-watch/articleshow/129869139.cms",
     "time": "2026-03-28T17:40:11.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Pedro Sanchez",
+    "desc": "The Spanish leader, who describes Israel’s atrocities in Gaza as genocide, has characterised the U.S.-Israel war on Iran as a violation of international law, becoming the only European head of government to publicly reject the war on principle",
+    "img": "https://th-i.thgim.com/public/news/national/pm3ve3/article70797230.ece/alternates/LANDSCAPE_1200/PedroSanchez_Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/pedro-sanchez-europes-only-anti-war-prime-minister/article70797237.ece",
+    "time": "2026-03-28T17:34:37.000Z"
   },
   {
     "cat": "Sports",
@@ -91,21 +199,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Dhurandhar 2's Shirani started career Daler Mehndi's iconic song",
+    "title": "Dhurandhar 2's Shirani started career with Daler Mehndi's iconic song",
     "desc": "Actor Bimal Oberoi, currently viral for memes, credits Daler Mehndi for his career's foundation. Mehndi's early financial support and accidental entry into acting via a hit music video paved Oberoi's path. He honed filmmaking skills with Anubhav Sinha before taking on diverse acting roles, including upcoming projects with David Dhawan and Prashanth Neel.",
     "img": "https://static.toiimg.com/photo/msid-129867769,imgsize-28750.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2s-shirani-aka-bimal-oberoi-started-his-career-with-daler-mehndis-ho-jayegi-balle-balle-got-first-cheque-of-rs-10000/articleshow/129867737.cms",
     "time": "2026-03-28T15:43:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Traffic management of unpredictable Zojila Pass comes under scanner as avalanche toll touches 7",
-    "desc": "Body of a missing person recovered on Saturday while another dies in hospital; authorities issue fresh avalanche warnings; officials question traffic timing and mixing of light and heavy motor vehicles in one of the most dangerous highway in the country",
-    "img": "https://th-i.thgim.com/public/incoming/1wn1xr/article70796684.ece/alternates/LANDSCAPE_1200/PTI03_28_2026_000017B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/traffic-management-of-unpredictable-zojila-pass-comes-under-scanner-as-avalanche-toll-touches-7/article70796321.ece",
-    "time": "2026-03-28T15:40:45.000Z"
   },
   {
     "cat": "Sports",
@@ -342,15 +441,6 @@ const newsData_en = [
     "time": "2026-03-28T10:53:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Cash, care and constant connect: How the 'Didi model' is shaping Bengal’s ballot",
-    "desc": "As the political landscape of West Bengal gears up for the 2026 elections, Mamata Banerjee's government is capitalizing on an extensive welfare system. Programs such as Lakshmir Bhandar and Khadya Sathi are at the forefront, addressing critical issues related to women's empowerment, food access, educational advancement, and job creation for the youth.",
-    "img": "https://static.toiimg.com/photo/msid-129863163,imgsize-167098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cash-care-and-constant-connect-how-the-didi-model-is-shaping-bengals-ballot/articleshow/129862918.cms",
-    "time": "2026-03-28T10:44:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘There’s always another way’: Rick Allen on survival, drumming and Def Leppard’s first-ever India tour",
     "desc": "From Hysteria to his India connection, Def Leppard’s legendary one-armed drummer Rick Allen reflects on reinvention, discipline and the enduring pull of rock escapism; the Rock and Roll Hall of Famers conclude their India tour in Bengaluru on March 29",
@@ -387,15 +477,6 @@ const newsData_en = [
     "time": "2026-03-28T09:57:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Total disarray': BJP's CR Kesavan targets Congress amid row over candidate selection in Tamil Nadu",
-    "desc": "BJP spokesperson CR Kesavan slammed the Congress in Tamil Nadu, citing MP Jothimani's public criticism of opaque constituency selection for the 2026 Assembly polls. He alleged a \"deep divide\" and \"disarray\" within the party, linking it to alleged ticket selling and a \"compromised\" Congress.",
-    "img": "https://static.toiimg.com/photo/msid-129862588,imgsize-721904.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/total-disarray-bjps-cr-kesavan-targets-congress-amid-row-over-candidate-selection-in-tamil-nadu/articleshow/129862586.cms",
-    "time": "2026-03-28T09:55:30.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Dia Mirza slams Jingoism trend in Dhurandhar vs IC 814 row",
     "desc": "Aditya Dhar’s Dhurandhar sequel hit Rs 1,000 crore in 9 days amid buzz. Stars like Aamir Khan haven't seen it; Dia Mirza slams jingoism trend, defends IC 814's balance against backlash. She urges artists to speak up despite trolling. Bollywood quiets post-Dhurandhar 2; South praises, others decry propaganda.",
@@ -403,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dia-mirza-slams-jingoism-trend-in-dhurandhar-vs-ic-814-row-theres-a-trend-to-enjoy-celebrate-it/articleshow/129862582.cms",
     "time": "2026-03-28T09:54:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AMMK releases manifesto, rolls out 120 promises",
-    "desc": "TTV Dhinakaran's AMMK unveiled a 120-point manifesto for the 2026 Tamil Nadu polls, promising 85% jobs for Tamils, making Tamil the official language, and waiving all farmer loans. The party also pledged to increase rural employment days and restore the Old Pension Scheme, while seeking Bharat Ratna for Jayalalithaa.",
-    "img": "https://static.toiimg.com/photo/msid-129862394,imgsize-797156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-polls-ammk-releases-manifesto-rolls-out-120-promises/articleshow/129862329.cms",
-    "time": "2026-03-28T09:38:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -430,33 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/cole-bennett-praises-girlfriend-camila-morrone-for-something-very-bad-is-going-to-happen-says-she-inspires-me-every-day/articleshow/129861958.cms",
     "time": "2026-03-28T09:15:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kristen Bell celebrates daughter’s 13th birthday",
-    "desc": "Celebrating a special milestone, actress Kristen Bell took to Instagram to honor her daughter Lincoln on her 13th birthday. The beloved star of 'Frozen' created a touching video montage that showcased precious family moments, highlighting the beauty and trials of motherhood.",
-    "img": "https://static.toiimg.com/photo/msid-129861704,imgsize-241872.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kristen-bell-celebrates-daughters-13th-birthday-shares-sweet-candid-family-pictures/articleshow/129861704.cms",
-    "time": "2026-03-28T09:06:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Cody Linley addresses whether there will be a 'Hannah Montana' spin-off",
-    "desc": "The air is thick with nostalgia as fans celebrate the 'Hannah Montana 20th Anniversary Special,' igniting conversations about a possible spin-off. Cody Linley, who charmed audiences as Jake Ryan, teased that the idea is not off the table, saying, 'Anything is possible.",
-    "img": "https://static.toiimg.com/photo/msid-129861659,imgsize-74362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/will-there-be-a-hannah-montana-spin-off-after-the-20th-anniversary-special-alum-cody-linley-says-anything-is-possible/articleshow/129861659.cms",
-    "time": "2026-03-28T08:40:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tate Paul’s calls with the police about 2023 domestic violence case revealed",
-    "desc": "Newly revealed police calls from ex-husband Tate Paul shed light on a 2023 domestic violence case involving 'The Secret Lives of Mormon Wives' star Taylor Frankie Paul. Tate expressed deep concern for his children's well-being, alleging Taylor's mother coached their daughter. The calls relate to an incident where a barstool struck their child during an altercation.",
-    "img": "https://static.toiimg.com/photo/msid-129861575,imgsize-84268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/calls-between-police-and-taylor-frankie-pauls-ex-husband-tate-paul-revealed-talks-about-domestic-violence-arrest-from-2023/articleshow/129861575.cms",
-    "time": "2026-03-28T08:36:48.000Z"
   },
   {
     "cat": "Sports",
@@ -756,15 +801,6 @@ const newsData_en = [
     "time": "2026-03-26T16:57:51.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Transgender women athletes banned from Olympics by new IOC policy on female eligibility",
-    "desc": "Transgender women athletes are now excluded from the Olympics after the IOC agreed to a new eligibility policy It aligns with U.S. President Donald Trump’s executive order on women’s sports ahead of the 2028 Los Angeles Games",
-    "img": "https://th-i.thgim.com/public/incoming/a7f1tn/article70788725.ece/alternates/LANDSCAPE_1200/2026-03-26T111755Z_1802574274_RC28CKAO35FQ_RTRMADP_3_OLYMPICS-IOC.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/olympics/transgender-women-athletes-banned-from-olympics-by-new-ioc-policy-on-female-eligibility/article70788680.ece",
-    "time": "2026-03-26T14:04:27.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Every ride has a price",
     "desc": "The first internal combustion-powered cabs in London with taximeters are believed to have begun their operations on March 22, 1907. In a world where ride-hailing services with app-based GPS are on the rise, taximeters still remain in vogue in traditional taxis and autorickshaws. A.S.Ganesh takes you on a ride to learn more about these instruments…",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
   }
 ];
