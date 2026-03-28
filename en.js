@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Iranians in India say families have started leaving Tehran",
+    "desc": "Fear grips Tehran as residents anticipate a ground assault. Ambiguous statements from Washington and threats from Tel Aviv fuel anxiety. Many families are leaving the capital for safer rural areas. Iranians in India report loved ones are rationing essentials and struggling with communication blackouts. Video calls offer brief solace amidst the uncertainty of escalating conflict.",
+    "img": "https://static.toiimg.com/photo/msid-129858881,imgsize-1141757.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iranians-in-india-say-families-have-started-leaving-tehran/articleshow/129858818.cms",
+    "time": "2026-03-28T04:36:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "John Hannah joins the cast of the upcoming ‘The Mummy 4'",
+    "desc": "In a thrilling announcement, fans are buzzing with excitement as John Hannah has confirmed his much-anticipated return as Jonathan Carnahan in 'The Mummy 4' alongside beloved stars Brendan Fraser and Rachel Weisz. Scheduled for a 2028 release, the film will be directed by the talented duo Matt Bettinelli-Olpin and Tyler Gillett, who tease an adventure packed with chills and thrills.",
+    "img": "https://static.toiimg.com/photo/msid-129858635,imgsize-42368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-mummy-4-update-john-hannah-returns-with-brendan-fraser-and-rachel-weisz-for-new-film/articleshow/129858635.cms",
+    "time": "2026-03-28T04:12:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Iran’s soccer players hold schoolbags wearing black armbands in solidarity with slain girls",
+    "desc": "The players lined ⁠up holding pink and purple bags with ribbons on them - a reference to the attack on the Shajareh Tayyebeh School ​which Tehran says killed ‌more than 175 people including children and teachers on the first day of joint U.S.-Israeli strikes.",
+    "img": "https://th-i.thgim.com/public/incoming/1e1aim/article70795312.ece/alternates/LANDSCAPE_1200/2026-03-28T032136Z_1811379535_RC21DKAAR6AC_RTRMADP_3_IRAN-CRISIS-SOCCER.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/irans-soccer-players-hold-schoolbags-wearing-black-armbands-in-solidarity-with-slain-girls/article70795307.ece",
+    "time": "2026-03-28T04:09:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "On debut, Divya Deshmukh could cause a dent in Candidates",
+    "desc": "Divya Deshmukh, the youngest participant at 20, makes her debut in the World Championship Candidates chess tournament in Cyprus. Having qualified by winning the Women's World Cup, she aims to leverage her strong opening preparations and aggressive play against higher-rated opponents.",
+    "img": "https://static.toiimg.com/photo/msid-129858588,imgsize-40706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/on-debut-divya-deshmukh-could-cause-a-dent-in-candidates/articleshow/129858584.cms",
+    "time": "2026-03-28T04:06:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yami watches 'Dhurandhar 2' at theatre",
+    "desc": "The Revenge' crossing Rs 1,100 crore worldwide. She was spotted enjoying a theatre screening, visibly thrilled by audience reactions and her own scenes. Previously, Yami had lauded the film as 'beyond extraordinary,' highlighting Dhar's dedication and the unforgettable cinematic experience it offers.",
+    "img": "https://static.toiimg.com/photo/msid-129858096,imgsize-60562.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yami-gautam-watches-dhurandhar-2-the-revenge-in-theatres-as-it-crosses-rs-1100-crore-blushes-as-her-scene-plays-on-big-screen-watch/articleshow/129857959.cms",
+    "time": "2026-03-28T03:45:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How did I become a coach and Carlsen’s second? I got too weak as a player: Jan Gustafsson",
+    "desc": "Gustafsson has lived in many corners of the chess world. In addition to discussing his various experiences in the game, he also talks in this interview about the Candidates, which begins on Sunday, and the rise of German chess",
+    "img": "https://th-i.thgim.com/public/incoming/bvsk00/article70795296.ece/alternates/LANDSCAPE_1200/gustafsson1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/jan-gustafsson-interview-magnus-carlsen-coach-candidates-chess-analysis/article70795306.ece",
+    "time": "2026-03-28T03:39:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "not a cog in — but the wheel running — the Manchester United wheel",
+    "desc": "The United captain has dragged his club into the Premier League’s top three on the back of brilliant individual moments. With eight goals and 16 assists, he has won the Red Devils games even when they have been outplayed. If he can secure United’s Champions League spot and break the Premier League’s assists record, he will have had an all-timer of a season",
+    "img": "https://th-i.thgim.com/public/incoming/on9gux/article70795284.ece/alternates/LANDSCAPE_1200/GettyImages-2260376152.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/bruno-fernandes-2025-26-season-stats-man-utd-assists-record-analysis/article70795289.ece",
+    "time": "2026-03-28T03:39:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Service sector fuels Telangana’s explosive per capita income growth in 10 years",
+    "desc": "Though Telangana witnessed a sharp rise in per capita income led by districts like Mahabubnagar and Rangareddy, the gains remain uneven with most districts lagging behind the State average, highlighting persistent regional disparities despite strong service-led economic growth across the State",
+    "img": "https://th-i.thgim.com/public/incoming/5ga4gl/article70795285.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-28%20at%208.44.45%20AM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/service-secto-fuels-telanganas-explosive-per-capita-income-growth-in-10-years/article70792714.ece",
+    "time": "2026-03-28T03:32:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Defending champions RCB begin title defence against SRH",
+    "desc": "Royal Challengers Bengaluru begin their title defence against Sunrisers Hyderabad at the M Chinnaswamy Stadium. After a historic maiden IPL win, RCB faces an immediate challenge from SRH's explosive batting. Despite key absences in their bowling attack, RCB relies on a strong batting core and a revamped squad to protect their reputation and start the season strongly.",
+    "img": "https://static.toiimg.com/photo/msid-129850255,imgsize-86580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-defending-champions-rcb-begin-title-defence-against-srh-at-chinnaswamy/articleshow/129850204.cms",
+    "time": "2026-03-28T03:22:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Veteran actor James Tolkan passes away at 94",
+    "desc": "Veteran actor James Tolkan, celebrated for his iconic roles in 'Top Gun', 'Back to the Future', and 'Miami Vice', has passed away at 94. The beloved performer, who served in the Korean War before embarking on a prolific acting career spanning decades, died peacefully at his New York home. His extensive filmography includes 'Serpico' and 'The Amityville Horror'.",
+    "img": "https://static.toiimg.com/photo/msid-129858110,imgsize-50526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/back-to-the-future-star-james-tolkan-passes-away-at-age-94-report/articleshow/129858110.cms",
+    "time": "2026-03-28T03:14:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gaten Matarazzo mocks Timothée Chalamet’s' Marty Supreme' hype",
+    "desc": "Gaten Matarazzo and Sean Giambrone hilariously spoof Timothée Chalamet's 'Marty Supreme' promotion for their upcoming comedy, 'Pizza Movie'. Filmed atop Las Vegas' Sphere, the duo mimics Chalamet's dramatic style, shouting movie details and even referencing his controversial ballet comments. This playful Hollywood jab is generating significant buzz for their film, set to release April 3, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-129858075,imgsize-689294.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-fame-gaten-matarazzo-hilariously-spoofs-timothe-chalamets-marty-supreme-promo-in-a-viral-video/articleshow/129858084.cms",
+    "time": "2026-03-28T03:08:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Urine test refusal, what law says, cops break silence",
+    "desc": "Golf legend Tiger Woods was arrested on a DUI charge after his Land Rover overturned near his Florida home. Woods showed signs of impairment and refused a urine test, though a breathalyzer showed no alcohol. This incident follows a serious 2017 car crash that resulted in severe leg injuries.",
+    "img": "https://static.toiimg.com/photo/msid-129857973,imgsize-206372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/golf/top-stories/tiger-woods-jailed-urine-test-refusal-what-law-says-cops-break-silence/articleshow/129857942.cms",
+    "time": "2026-03-28T03:02:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chloe Fineman talks about Harry Styles on ‘Saturday Night Live’",
+    "desc": "Saturday Night Live's Chloe Fineman shared her delightful experience working with Harry Styles, describing him as genuinely nice and low-key, remembering everyone's names. She even worked hard on skits hoping to perform alongside the 'Don't Worry Darling' star. Fineman also praised Styles' infectious joy and his conscious effort to bring light into the world, finding him truly inspiring.",
+    "img": "https://static.toiimg.com/photo/msid-129857803,imgsize-84848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/he-was-so-genuinely-nice-chloe-fineman-recalls-working-with-harry-styles-on-saturday-night-live/articleshow/129857803.cms",
+    "time": "2026-03-28T02:47:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh govt. opens door for broadcast in the country",
+    "desc": "Bangladesh's new government has lifted the ban on broadcasting the Indian Premier League (IPL), signaling a shift towards a more commercial approach. Information Minister Zahir Uddin Swapan confirmed no restrictions exist, and any broadcaster can telecast the tournament positively. Cable operators also stated previous directives are no longer valid, allowing IPL broadcasts.",
+    "img": "https://static.toiimg.com/photo/msid-129857817,imgsize-26558.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-bangladesh-govt-opens-door-for-broadcast-in-the-country/articleshow/129857757.cms",
+    "time": "2026-03-28T02:45:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kylie Jenner puts her USD 20 million mansion on sale",
+    "desc": "Kylie Jenner is parting ways with her extravagant California estate, now on the market for a staggering $20.2 million. Acquired back in 2016, this luxurious residence boasts eight spacious bedrooms and ten opulent bathrooms, making it the perfect setting for family life.",
+    "img": "https://static.toiimg.com/photo/msid-129857753,imgsize-92138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kylie-jenner-puts-her-usd-20-million-mansion-on-sale-inside-her-lavish-california-abode/articleshow/129857753.cms",
+    "time": "2026-03-28T02:40:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Nepal's former PM Oli arrested over deaths during Gen Z protests",
+    "desc": "Police spokesperson Om ‌Adhikari confirmed the detainment of ​K.P. ​Sharma Oli and his Home Minister, Ramesh Lekhak; a panel ⁠which investigated violence ⁠during the anti-corruption protests recommended that Mr. Oli be prosecuted for ​failing to ‌prevent the crackdown on the protests",
+    "img": "https://th-i.thgim.com/public/incoming/ouid7c/article70795246.ece/alternates/LANDSCAPE_1200/2026-03-28T012132Z_1371891616_RC2XSJAC5M8O_RTRMADP_3_NEPAL-POLITICS-ARREST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/nepals-former-pm-oli-arrested-over-deaths-during-gen-z-protests/article70795245.ece",
+    "time": "2026-03-28T02:39:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Charlie Puth welcomes baby with wife Brooke Sansone",
+    "desc": "Pop sensation Charlie Puth embraces fatherhood, welcoming baby Jude with wife Brooke Sansone. His latest album, 'Whatever's Clever!', reflects this profound personal shift, moving away from polished hits to raw, genuine emotions. Puth shares heartwarming family traditions, inspired by his own childhood, and how fatherhood has reshaped his creative process, prioritizing life and allowing music to follow.",
+    "img": "https://static.toiimg.com/photo/msid-129857751,imgsize-537615.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/charlie-puth-welcomes-baby-with-wife-brooke-sansone-opens-up-on-fatherhood-and-deeply-personal-whatevers-clever-album/articleshow/129857741.cms",
+    "time": "2026-03-28T02:38:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "DUI charge, mug shot released",
+    "desc": "Golf legend Tiger Woods was arrested on a DUI charge after his Land Rover overturned near his Florida home. Woods showed signs of impairment but passed a breathalyzer test. He refused a urine analysis, leading to DUI charges, with experts suspecting medication or drug influence.",
+    "img": "https://static.toiimg.com/photo/msid-129857709,imgsize-125442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/golf/top-stories/tiger-woods-arrested-after-car-crash-dui-charge-mug-shot-released/articleshow/129857677.cms",
+    "time": "2026-03-28T02:32:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Anger on the banks of the Musi",
+    "desc": "With the Telangana government ready to implement the Musi Riverfront Development Project in Hyderabad, residents along the river are facing possible displacement and uncertainty over compensation. The Moosa and Esi tributaries, once seasonal streams, now flow with sewage and industrial effluents, raising questions about ecological restoration. Swathi Vadlamudi speaks to citizens and environmentalists",
+    "img": "https://th-i.thgim.com/public/incoming/lk3mkn/article70793830.ece/alternates/LANDSCAPE_1200/2248_26_3_2026_19_49_21_1_NGP8283.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/anger-on-the-banks-of-the-musi/article70793826.ece",
+    "time": "2026-03-28T02:13:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Wildlife incursion, a vote-catcher issue in many constituencies",
+    "desc": "Wildlife attacks have claimed many lives and ruined farmers financially. So affected are the farmers that they have fielded a candidate in Kozhikode against the State Forest Minister. They are seeking the views of candidates across all constituencies regarding conflict mitigation plans. In at least one-fourth of the constituencies in the State, it is the main topic of electioneering",
+    "img": "https://th-i.thgim.com/public/incoming/ovi50p/article70795237.ece/alternates/LANDSCAPE_1200/6678_9_9_2025_18_49_52_2_ELEPHANT_2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-2026-wildlife-incursion-a-vote-catcher-issue-in-many-constituencies/article70792944.ece",
+    "time": "2026-03-28T01:51:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Aadu 3' BO day 10: Jayasurya film crosses Rs 100 cr worldwide",
+    "desc": "Shaji Pappan's 'Aadu 3' has achieved a remarkable Rs 100 crore worldwide box office milestone within just 10 days. The comedy entertainer, featuring a unique time travel plot across past, present, and future, has garnered significant overseas contributions. While audiences are divided, with some praising its experimental nature and others criticizing execution, the film's success is undeniable.",
+    "img": "https://static.toiimg.com/photo/msid-129857337,imgsize-115172.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aadu-3-box-office-collections-day-10-jayasurya-film-crosses-rs-100-cr-worldwide-india-net-at-rs-38-cr/articleshow/129857337.cms",
+    "time": "2026-03-28T01:45:28.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Hudson Williams and Dylan O’Brien to work together on ‘Apparatus’",
     "desc": "Exciting news for fans as Dylan O’Brien and Hudson Williams are set to star together in the upcoming psychological thriller, 'Apparatus.' Penned by Sofia Banzhaf, the film follows a struggling ride-share driver lured into a dangerous situation by a charismatic entrepreneur. Filming is slated to commence soon in Toronto, promising a gripping cinematic experience.",
@@ -135,24 +324,6 @@ const newsData_en = [
     "time": "2026-03-28T00:15:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Ustaad Bhagat Singh' BO day 10: Film crosses Rs 91 cr",
-    "desc": "Pawan Kalyan's 'Ustaad Bhagat Singh' is performing steadily, crossing ₹91 crore worldwide by its tenth day. While the action drama maintains a decent hold, weekday collections show a slowdown. The film, inspired by a tribal boy's journey against injustice, has garnered mixed reviews, with some characters feeling underwritten. Despite a notable global milestone, word-of-mouth is impacting its run.",
-    "img": "https://static.toiimg.com/photo/msid-129857032,imgsize-110184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ustaad-bhagat-singh-box-office-collection-day-10-pawan-kalyan-and-raashii-khanna-film-crosses-rs-91-cr-worldwide/articleshow/129857032.cms",
-    "time": "2026-03-28T00:00:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ram Charan performs homam",
-    "desc": "Ram Charan celebrated his birthday with a special homam alongside father Chiranjeevi, marking Sri Rama Navami. The actor's dedication was lauded by his father in an emotional tribute. Fans were treated to the teaser of his upcoming film 'Peddi Pehelwan', showcasing his powerful on-screen presence and a stellar supporting cast.",
-    "img": "https://static.toiimg.com/photo/msid-129856969,imgsize-125820.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-charan-and-chiranjeevi-perform-a-special-homam-as-rama-navami-coincides-with-actors-birthday-watch/articleshow/129856840.cms",
-    "time": "2026-03-27T23:31:30.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "EC seeks report on Mamata’s ‘provocative’ remark from CEO",
     "desc": "With her statement seen as a provocation to TMC women workers and supporters to launch attacks at polling stations in rural areas, posing a risk to the central armed police forces deployed there, of facing criminal charges were they to intervene and stop them, EC will examine if the statement amounts of provocation and interferes in discharge of duties by poll and security personnel.",
@@ -225,15 +396,6 @@ const newsData_en = [
     "time": "2026-03-27T22:37:06.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Baldoni scores wins in legal battle with Blake",
-    "desc": "Director Justin Baldoni has achieved a significant legal victory, successfully pushing back pretrial deadlines in his dispute with Blake Lively due to an overwhelming document submission. Furthermore, a judge has allowed Baldoni's defamation lawsuit against his former publicist, Stephanie Jones, to proceed, potentially involving communications with Lively and Ryan Reynolds.",
-    "img": "https://static.toiimg.com/photo/msid-129856108,imgsize-128050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/justin-baldoni-scores-wins-in-legal-battle-with-blake-lively-and-defamation-case-against-former-publicist/articleshow/129854666.cms",
-    "time": "2026-03-27T22:27:54.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "‘Evidence insufficient’: Spl Delhi court clears ex-MP Darda, son &amp; others in coal ‘scam’ case",
     "desc": "The case stemmed from the allocation in Maharashtra’s Bandar and led to the first CBI chargesheet in the larger coal block controversy dating back to the time Congress-led UPA was in office. The FIR was filed in 2012 and the chargesheet in 2014. Judge Sunena Sharma held that there was no proof of criminal conspiracy, noting the case was based on conjectures and lacked evidence of a “meeting of minds” or illegal agreement.",
@@ -261,15 +423,6 @@ const newsData_en = [
     "time": "2026-03-27T22:17:13.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rajpal Yadav reveals why he couldn’t attend Asrani’s last rites",
-    "desc": "The passing of veteran actor Asrani has left the industry in mourning, but for Rajpal Yadav, the loss is deeply personal. The actor revealed that he could not attend Asrani’s last rites, a regret he carries as he remembers working closely with him until the very end.",
-    "img": "https://static.toiimg.com/photo/msid-129855059,imgsize-77086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-reveals-why-he-couldnt-attend-asranis-last-rites-recalls-shooting-bhooth-bangla-my-father-was-in-the-icu/articleshow/129855059.cms",
-    "time": "2026-03-27T22:13:22.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Indian ships face GPS jams, mine alerts in Hormuz",
     "desc": "Ships in the region are reporting repeated radio broadcasts over maritime channels warning vessels against transit. “Attention all ships… This is the Sepah Navy… navigation through Strait of Hormuz is forbidden… no ship is allowed to pass until further notice,” the radio messages repeatedly blare. Crews attributed these announcements to Iran’s Islamic Revolutionary Guard Corps (IRGC) Navy.",
@@ -286,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/commercial-lpg-allocation-to-states-increased-by-20/articleshow/129854679.cms",
     "time": "2026-03-27T22:02:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Anger on the banks of the Musi",
-    "desc": "With the Telangana government ready to implement the Musi Riverfront Development Project in Hyderabad, residents along the river are facing possible displacement and uncertainty over compensation. The Moosa and Esi tributaries, once seasonal streams, now flow with sewage and industrial effluents, raising questions about ecological restoration. Swathi Vadlamudi speaks to citizens and environmentalists",
-    "img": "https://th-i.thgim.com/public/incoming/lk3mkn/article70793830.ece/alternates/LANDSCAPE_1200/2248_26_3_2026_19_49_21_1_NGP8283.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Hyderabad/anger-on-the-banks-of-the-musi/article70793826.ece",
-    "time": "2026-03-27T22:02:09.000Z"
   },
   {
     "cat": "Politics",
@@ -334,24 +478,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Diabetic drug metformin found to act on brain",
-    "desc": "A study published in Science Advances by Baylor College of Medicine has uncovered a hidden brain pathway that helps explain how metformin lowers blood sugar, offering fresh insight into a medicine used for over six decades. For years, metformin was believed to act mainly on the liver and gut. The new research shows it also works through the ventromedial hypothalamus — a small but crucial brain region that controls hunger, energy use and glucose balance.",
-    "img": "https://static.toiimg.com/photo/msid-129854379,imgsize-834720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/diabetic-drug-metformin-found-to-act-on-brain/articleshow/129854377.cms",
-    "time": "2026-03-27T21:23:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Ranveer deserves a National Award for Dhurandhar, Aditya too’",
-    "desc": "As Dhurandhar and its sequel continue to dominate both box office and conversations, producer Bhushan Kumar has weighed in on the film’s impact — strongly backing Ranveer Singh and director Aditya Dhar for National Awards. Bhushan Kumar emphasised that while Ranveer’s performance stands out, director Aditya Dhar played a crucial role in elevating it.",
-    "img": "https://static.toiimg.com/photo/msid-129854174,imgsize-43252.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-deserves-a-national-award-for-dhurandhar-aditya-dhar-too-says-bhushan-kumar/articleshow/129854174.cms",
-    "time": "2026-03-27T20:08:25.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "T.N. government releases draft State Mental Healthcare Regulations, 2026",
     "desc": "The Tamil Nadu State Mental Health Authority will maintain a register of practising mental health professionals in the State that will be updated monthly. It also proposes to publish a district-wise list of mental health professionals on January 1 every year",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -367,15 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-aiadmk-fields-new-face-in-sengottaiyans-stronghold-of-gobichettipalayam/article70792631.ece",
     "time": "2026-03-27T19:33:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Service sector fuels Telangana’s explosive per capita income growth in 10 years",
-    "desc": "Though Telangana witnessed a sharp rise in per capita income led by districts like Mahabubnagar and Rangareddy, the gains remain uneven with most districts lagging behind the State average, highlighting persistent regional disparities despite strong service-led economic growth across the State",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/service-secto-fuels-telanganas-explosive-per-capita-income-growth-in-10-years/article70792714.ece",
-    "time": "2026-03-27T19:01:41.000Z"
   },
   {
     "cat": "Politics",
@@ -396,51 +513,6 @@ const newsData_en = [
     "time": "2026-03-27T18:48:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ranveer delivers career-best",
-    "desc": "The Revenge starring Ranveer Singh continues to win praise from across the film industry, and the latest to join the chorus is filmmaker Karan Johar. The director-producer said the blockbuster took him back to the era of 70s Hindi cinema, often experienced in single-screen theatres.",
-    "img": "https://static.toiimg.com/photo/msid-129852964,imgsize-93788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-reviews-dhurandhar-2-the-revenge-ranveer-singh-delivers-his-career-best-calls-aditya-dhar-an-outstanding-filmmaker/articleshow/129852964.cms",
-    "time": "2026-03-27T18:40:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SI suspended in Tiruvannamalai for transferring ₹1.5 lakh from suspect’s account",
-    "desc": "Police said that as part of the inquiry, station inspector Lakshmi and sub-inspector Kavitha reportedly asked him to surrender his mobile phone and a bank passbook. They also told him to share the password of his bank accounts.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/si-suspended-in-tiruvannamalai-for-transferring-15-lakh-from-suspects-account/article70792514.ece",
-    "time": "2026-03-27T18:31:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Only Madhavan said yes; Arjun, Sanjay, Akshaye weren't sure’",
-    "desc": "Aditya Dhar’s Dhurandhar has been dominating conversations ever since its first instalment, winning both critical acclaim and audience love. While the film’s performances have been widely praised, casting director Mukesh Chhabra has now revealed that getting its star-studded ensemble on board wasn’t easy.",
-    "img": "https://static.toiimg.com/photo/msid-129851608,imgsize-69468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/only-r-madhavan-said-yes-immediately-arjun-rampal-sanjay-dutt-and-akshaye-khanna-werent-sure-mukesh-chhabra-on-dhurandhar-casting/articleshow/129851608.cms",
-    "time": "2026-03-27T17:44:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "South Korean actor Lee Sang-bo passes away at 44",
-    "desc": "The entertainment world mourns the loss of South Korean actor Lee Sang-bo, who tragically passed away at the age of 44. Discovered by a family member, the circumstances surrounding his death are still being examined. After overcoming unfounded drug allegations linked to prescribed antidepressants amid personal struggles, Lee had made a hopeful return to his acting career. Read on to know more.",
-    "img": "https://static.toiimg.com/photo/msid-129851234,imgsize-54190.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/south-korean-actor-lee-sang-bo-passes-away-at-44-cause-of-death-under-investigation/articleshow/129851234.cms",
-    "time": "2026-03-27T16:43:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lion King singer sues comedian for mistranslating Circle of Life",
-    "desc": "In a dramatic turn of events, Grammy-winning composer Lebohang Morake is embarking on a legal battle against comedian Learnmore Jonasi, claiming damages exceeding USD 20 million. Morake accuses Jonasi of sullying his reputation by inaccurately interpreting the opening chant of 'Circle of Life' on his podcast and during a comedy set. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129851193,imgsize-68854.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-lion-king-composer-files-usd-20-million-lawsuit-over-circle-of-life-chant-mistranslation/articleshow/129851193.cms",
-    "time": "2026-03-27T16:35:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why hasn’t Mitchell Starc joined DC yet? Alyssa Healy gives blunt reply",
     "desc": "Injuries are impacting IPL 2026 team plans, with Australian pacers Starc, Cummins, and Hazlewood facing early absences. While Cummins' recovery is monitored and Hazlewood has joined RCB, Starc's return timeline remains uncertain, causing fan frustration. Delhi Capitals, heavily reliant on Starc, are reassessing strategies to end their playoff drought.",
@@ -448,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/why-hasnt-mitchell-starc-joined-delhi-capitals-yet-alyssa-healy-gives-blunt-reply/articleshow/129851179.cms",
     "time": "2026-03-27T16:33:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Not propaganda’, praises Dhar",
-    "desc": "The Revenge continues its record-breaking run at the box office, the film has also found itself at the centre of a political debate, with some critics and politicians calling it propaganda. Reacting to the controversy, veteran actor and politician Shatrughan Sinha has weighed in, making his stance clear.",
-    "img": "https://static.toiimg.com/photo/msid-129851174,imgsize-61594.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shatrughan-sinha-defends-dhurandhar-a-film-is-a-film-not-propaganda-calls-aditya-dhar-a-role-model-hasnt-watched-dhurandhar-2/articleshow/129851174.cms",
-    "time": "2026-03-27T16:33:37.000Z"
   },
   {
     "cat": "Business",
@@ -504,13 +567,13 @@ const newsData_en = [
     "time": "2026-03-27T14:49:08.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Defending champions RCB begin title defence against SRH",
-    "desc": "Royal Challengers Bengaluru begin their title defence against Sunrisers Hyderabad at the M Chinnaswamy Stadium. After a historic maiden IPL win, RCB faces an immediate challenge from SRH's explosive batting. Despite key absences in their bowling attack, RCB relies on a strong batting core and a revamped squad to protect their reputation and start the season strongly.",
-    "img": "https://static.toiimg.com/photo/msid-129850255,imgsize-86580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-defending-champions-rcb-begin-title-defence-against-srh-at-chinnaswamy/articleshow/129850204.cms",
-    "time": "2026-03-27T14:37:39.000Z"
+    "cat": "Business",
+    "title": "Fulva, a halwa start-up from Kozhikode, secures an investment from entrepreneur Aman Gupta",
+    "desc": "Launched in September 2023, Fulva has secured an investment from the co-founder of boAt. The start-up specialises in halwa flavours, ranging from the traditional black halwa to innovative varieties such as green chilli and passion fruit",
+    "img": "https://th-i.thgim.com/public/incoming/8fpna8/article70792371.ece/alternates/LANDSCAPE_1200/Fulva%20AG%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/food/features/fulva-a-halwa-start-up-from-kozhikode-secures-an-investment-from-entrepreneur-aman-gupta/article70787790.ece",
+    "time": "2026-03-27T14:47:39.000Z"
   },
   {
     "cat": "Sports",
@@ -702,33 +765,6 @@ const newsData_en = [
     "time": "2026-03-27T08:30:33.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Pak cricketer’s 'Queen' jibe at Maryam sparks debate, later deletes post",
-    "desc": "Pakistan pacer Naseem Shah courted controversy before PSL 2026 with a sarcastic X post about Punjab CM Maryam Nawaz, questioning her VIP treatment. Though he later claimed his account was hacked and deleted the tweet, the incident went viral. Meanwhile, the PSL opener saw Hyderabad Kingsmen's jersey color inexplicably turn the ball pink and red.",
-    "img": "https://static.toiimg.com/photo/msid-129842367,imgsize-929680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pak-cricketers-queen-jibe-at-maryam-nawaz-sparks-debate-later-deletes-post/articleshow/129842225.cms",
-    "time": "2026-03-27T08:27:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli’s new lotus tattoo goes viral, artist reveals deeper meaning",
-    "desc": "Virat Kohli has unveiled a striking new full-sleeve tattoo ahead of IPL 2026, featuring a lotus and peony. This evolving artwork, created by Aliens Tattoo India, symbolizes his personal transformation and journey, with the lotus representing purity and resilience. The design integrates and refines his existing tattoos into a cohesive narrative.",
-    "img": "https://static.toiimg.com/photo/msid-129840662,imgsize-33508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohlis-new-lotus-tattoo-goes-viral-artist-reveals-deeper-meaning-watch/articleshow/129840603.cms",
-    "time": "2026-03-27T06:50:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Now officially eligible, is India senior next?",
-    "desc": "Vaibhav Sooryavanshi, turning 15 today, is now eligible for senior international cricket after a sensational IPL debut. His record-breaking performances, including a 35-ball century and U19 World Cup heroics, have positioned him as a top prospect. Selectors are watching closely as he could soon represent India's senior men's team.",
-    "img": "https://static.toiimg.com/photo/msid-129839483,imgsize-54564.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/vaibhav-sooryanshi-turns-15-now-officially-eligible-is-india-senior-debut-next/articleshow/129839458.cms",
-    "time": "2026-03-27T05:36:46.000Z"
-  },
-  {
     "cat": "World",
     "title": "Multiple drones strike U.S. embassy in Baghdad",
     "desc": "The U.S. embassy in Baghdad came under attack early Tuesday, March 17, as drones targeted the heavily fortified compound in Iraq’s capital. Eyewitness footage showed air defence systems firing into the night sky, intercepting incoming drones during what Iraqi security sources described as one of the most intense assaults in recent weeks.",
@@ -828,15 +864,6 @@ const newsData_en = [
     "time": "2026-03-26T10:52:39.000Z"
   },
   {
-    "cat": "World",
-    "title": "Bangladesh PM Tarique Rahman calls March 25, 1971 genocide as ‘pre-planned massacre’",
-    "desc": "“The Great Independence Day inspires us anew with the spirit of courage, sacrifice and patriotism. The fundamental goal of independence was to establish a Bangladesh that is free from discrimination, and to be democratic, peaceful and prosperous,” Tarique Rahman said",
-    "img": "https://th-i.thgim.com/public/incoming/j2x0dt/article70787288.ece/alternates/LANDSCAPE_1200/Bangladesh-to-tGADFJVIIS.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/bangladesh-pm-tarique-rahman-calls-march-25-1971-genocide-as-pre-planned-massacre/article70787234.ece",
-    "time": "2026-03-26T08:03:45.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Tighee’: How Jeejivisha Kale shaped her Marathi debut feature",
     "desc": "Filmmaker Jeejivisha Kale and producer Suhrud Godbole speak about ‘Tighee’, what inspired Jeejivisha to tell the story of siblings, her process of shooting emotional scenes, why Suhrud feels the need for more women filmmakers telling their stories and more",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/lpg-fuel-petrol-crisis-live-updates-west-asia-war-straight-of-hormuz/article70782692.ece",
     "time": "2026-03-25T17:04:48.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "New Mexico jury says Meta harms children’s mental health and safety, violating state law",
-    "desc": "The landmark decision comes after a nearly seven-week trial, and as jurors in a federal court in California have been sequestered in deliberations for more than a week about whether Meta and YouTube should be liable in a similar case",
-    "img": "https://th-i.thgim.com/public/incoming/7366yo/article70782439.ece/alternates/LANDSCAPE_1200/Meta_New_Mexico_Trial_13859.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/new-mexico-jury-says-meta-harms-childrens-mental-health-and-safety-violating-state-law/article70782437.ece",
-    "time": "2026-03-25T13:00:53.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "With NavIC setback, India unable to use satellite system for security purposes: experts",
-    "desc": "A major setback occurred after the last atomic clock on board the Indian Regional Navigational Satellite System-1F (IRNSS-1F) stopped functioning on March 10, leaving only three satellites of the NavIC constellation in function; armed forces of countries use the navigation satellite system for logistics, mapping and operational planning, and relying on a foreign navigation satellite system could pose security issues, especially during wars",
-    "img": "https://th-i.thgim.com/public/incoming/46xqm/article70784020.ece/alternates/LANDSCAPE_1200/PTI8_30_2017_000133B.JPEG-07231.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/another-satellite-in-navic-satellite-system-unable-to-function-limiting-its-security-capabilities-amid-concerns-of-reliance-on-foreign-navigation-systems/article70783744.ece",
-    "time": "2026-03-25T12:37:11.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
   }
 ];

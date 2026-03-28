@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "એક્સાઈઝ ડ્યુટી ઘટ્યા બાદ શું સસ્તું થયું પેટ્રોલ-ડીઝલ? ચેક કરો તમારા શહેરનો આજનો લેટેસ્ટ ભાવ",
+    "desc": "કેન્દ્ર સરકાર દ્વારા એક્સાઈઝ ડ્યુટીમાં ઘટાડો કરવામાં આવ્યા બાદ શું પેટ્રોલ-ડીઝલના ભાવમાં ફેરફાર થયો છે? આ સવાલ ઘણા લોકોના મનમાં ફરી રહ્યો છે, જો તમે પણ આવું જ કંઈક વિચારી રહ્યા હોવ તો ચેક કરો આજનો લેટેસ્ટ ભાવ..",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/petrol-diesel-became-cheaper-after-the-excise-duty-fell-check-the-rate-of-your-city-470393 ",
+    "time": "2026-03-28T04:30:59.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "કોઈ સાંસદ બન્યું, તો કોઈ પાકિસ્તાની સિલેક્ટર... હાલ ક્યાં છે પહેલી IPL જીતનાર ટીમના ખેલાડી ?",
     "desc": "2008નું વર્ષ ઇન્ડિયન પ્રીમિયર લીગ (IPL)ની શરૂઆતનું વર્ષ હતું અને તેની પહેલી જ સીઝનમાં રાજસ્થાન રોયલ્સે ટાઇટલ જીતીને બધાને આશ્ચર્યચકિત કરી દીધા હતા. તે ટીમમાં મોટા નામો નહોતા છતાં કેપ્ટન શેન વોર્નની રણનિતીએ કમાલ કર્યો હતો. તાજેતરમાં ફ્રેન્ચાઇઝી વેચાતા રાજસ્થાન રોયલ્સ ફરી એકવાર ચર્ચામાં છે.",
@@ -520,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/us-israel-iran-war-is-there-a-threat-of-nuclear-war-in-the-world-is-this-scary-prophecy-of-baba-venga-coming-true-469994 ",
     "time": "2026-03-24T17:08:17.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "યુદ્ધવિરામ પર ફરી પેચ ફસાયો ! ટ્રમ્પના દાવા વચ્ચે, ઈરાની સેનાએ કરી એક મોટી જાહેરાત",
-    "desc": "મધ્ય પૂર્વમાં ચાલી રહેલા તણાવ વચ્ચે, ઈરાનના ટોચના લશ્કરી કમાન્ડે મંગળવારે એક મોટી જાહેરાત કરી. ઈરાની સૈન્યએ જણાવ્યું કે તેની સશસ્ત્ર દળો આ સમય લડાઈ ચાલુ રાખશે. ઈરાન અને અમેરિકા ઈઝરાયેલ સાથેનું યુદ્ધને અનેક દિવસો થઈ ગયા છે, ત્યારે અમેરિકાએ 5 દિવસ યુદ્ધ બંધ રાખવાની જાહેરાત કરી છે. ઈરાનની આ જાહેરાતથી યુદ્ધવિરાન મુશ્કેલ લાગી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-us-ceasefire-again-falters-amid-trump-claims-iranian-army-makes-a-big-announcement-469963 ",
-    "time": "2026-03-24T13:02:33.000Z"
   },
   {
     "cat": "Entertainment",

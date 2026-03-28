@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Tiger Woods, golf legend, arrested on suspicion of DUI after rollover crash in Florida",
+    "desc": "In a major development, 50-year-old golf legend Tiger Woods has been arrested in Florida on suspicion of driving under the influence. It is worth noting that his Land Rover was travelling at a high speed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/tiger-woods-golf-legend-arrested-on-suspicion-of-dui-after-rollover-crash-in-florida-2026-03-28-1035394",
+    "time": "2026-03-28T04:46:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Stafanie Taylor's ton in vain as Australia women thump West Indies in first ODI",
+    "desc": "Australia women and the West Indies women continued their ongoing multi-format series by taking on each other in the first ODI. The two sides locked horns at Warner Park, Basseterre, St Kitts, on March 28....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/stafanie-taylor-s-ton-in-vain-as-australia-women-thump-west-indies-in-first-odi-2026-03-28-1035390",
+    "time": "2026-03-28T03:46:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will weather in Bengaluru fare for IPL 2026 opening day?",
+    "desc": "The stage is set for the opening game of the IPL (Indian Premier League) 2026. The marquee tournament is all set to kick off on March 28. The season opener of the tournament sees defending...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-srh-weather-report-how-will-weather-in-bengaluru-fare-for-ipl-2026-opening-day-2026-03-28-1035387",
+    "time": "2026-03-28T02:49:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer backs Axar Patel to impress with the ball ahead of IPL 2026",
     "desc": "The 19th edition of the IPL (Indian Premier League) kicks off on March 28, with the tournament right around the corner, and the 10 franchises will be looking to put in their best work in...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-srh-pitch-report-how-will-surface-at-m-chinnaswamy-stadium-in-bengaluru-play-in-ipl-2026-2026-03-27-1035356",
     "time": "2026-03-27T13:54:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'You have to love this role': PBKS star Shashank Singh on how he performs the tough finishing job in IPL",
-    "desc": "Punjab Kings star batter Shashank Singh opened up on how he has found the finishing job like a home to him. Doing one of the toughest jobs of finishing matches in IPL, Shashank spoke on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/you-have-to-love-this-role-pbks-star-shashank-singh-on-how-he-performs-the-tough-finishing-job-in-ipl-2026-03-27-1035351",
-    "time": "2026-03-27T13:29:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "J-K's Ranji victory inspires new generation, redefines regional aspirations, Auqib Nabi reflects",
-    "desc": "Jammu and Kashmir scripted one of the most remarkable stories of the 2025–26 domestic season, clinching the Ranji Trophy after years of steady progression. Having pushed stronger sides in recent editions, the Paras Dogra-led unit...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/j-k-s-ranji-victory-inspires-new-generation-redefines-regional-aspirations-as-auqib-nabi-reflects-2026-03-27-1035342",
-    "time": "2026-03-27T12:16:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nuwan Thushara fails fitness test, Sri Lanka Cricket denies NOC to join RCB for IPL 2026",
-    "desc": "Royal Challengers Bengaluru suffered a major blow on the eve of their opening IPL 2026 match against Sunrisers Hyderabad at the M Chinnaswamy Stadium. The defending champions have already notified that Yash Dayal has opted...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nuwan-thushara-fails-fitness-test-sri-lanka-cricket-denies-noc-to-join-rcb-for-ipl-2026-2026-03-27-1035325",
-    "time": "2026-03-27T11:04:13.000Z"
   }
 ];
