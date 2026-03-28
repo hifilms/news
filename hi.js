@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Royal Challengers Bengaluru vs Sunrisers Hyderabad head-to-head record ahead of IPL 2026 season opener",
+    "desc": "The IPL (Indian Premier League) 2020 kicks off with defending champions Royal Challengers Bengaluru taking on Sunrisers Hyderabad. The two sides will lock horns at the M Chinnaswamy Stadium on March 28. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/royal-challengers-bengaluru-vs-sunrisers-hyderabad-head-to-head-record-ahead-of-ipl-2026-season-opener-2026-03-28-1035411",
+    "time": "2026-03-28T09:14:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Mission 300 is truly on': Ravichandran Ashwin previews RCB vs SRH clash, predicts high-scoring encounter",
+    "desc": "The stage is set for the season opener of the IPL (Indian Premier League) 2026. The first game of the season sees Royal Challengers Bengaluru taking on Sunrisers Hyderabad. With the clash approaching, the fans...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mission-300-is-truly-on-ravichandran-ashwin-previews-rcb-vs-srh-clash-predicts-high-scoring-encounter-2026-03-28-1035402",
+    "time": "2026-03-28T06:57:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "MS Dhoni likely to miss first two weeks of IPL 2026 due to calf strain",
     "desc": "In a major development for Chennai Super Kings, star keeper-batter and former skipper MS Dhoni is likely to miss the first two weeks of the upcoming IPL (Indian Premier League) 2026 as he is currently...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-rohit-sharma-or-ms-dhoni-who-will-have-better-ipl-aakash-chopra-analyses-2026-03-27-1035369",
     "time": "2026-03-27T16:33:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Batters can give nightmares to opponents, bowlers to fans",
-    "desc": "Sunrisers Hyderabad have assembled an explosive batting unit for the IPL 2026. However, it’s the bowlers that win the tournament for a team and in that regard, the 2016 champions could be having a nightmare...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/srh-predicted-xi-for-ipl-2026-batters-can-give-nightmares-to-opponents-bowlers-to-fans-2026-03-27-1035367",
-    "time": "2026-03-27T15:53:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Auqib Nabi aims to win maiden IPL title with Delhi Capitals, downplays India call-up",
-    "desc": "After a stunning Ranji Trophy, where Aquib Nabi finished as the leading wicket-taker, claiming 60 wickets, the 29-year-old enters the IPL with plenty of attention and maybe a bit of pressure because of the hype....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-aims-to-win-maiden-ipl-title-with-delhi-capitals-downplays-india-call-up-2026-03-27-1035363",
-    "time": "2026-03-27T15:10:33.000Z"
   }
 ];

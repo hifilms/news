@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "Iran-Israel war: দাউ দাউ করে জ্বলছে হোটেল: ইরান ইসরায়েল যুদ্ধে এবার বিরাট ড্রোন হামলা দুবাইয়ে, ছদ্মবেশে থাকা মার্কিন সেনা খতম",
+    "desc": "গত বৃহস্পতিবার ইরানের স্বরাষ্ট্রমন্ত্রী আব্বাস আরাঘাচি দাবি করেছিলেন যে, পারস্য উপসাগরীয় দেশগুলোতে মোতায়েন থাকা মার্কিন সেনারা তাদের নিয়মিত সামরিক ঘাঁটি ছেড়ে বিভিন্ন হোটেলে আশ্রয় নিয়েছে। আরাঘাচি স্পষ্টভাবে ওই অঞ্চলের হোটেল মালিকদের সতর্ক করে বলেছিলেন যেন তারা মার্কিন সেনাদের থাকার সুবিধা না দেয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/iran-drone-strike-dubai-hotel-us-presence-kamikaze-uav-attack-middle-east-war_646466.html ",
+    "time": "2026-03-28T07:49:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "৬,৮৫৫ কোটির অন্ধকার গলিতে কেন্দ্রের সরকারি সংস্থা IFCI: বিরাট দুর্নীতির পর্দাফাঁস",
+    "desc": "দেশের শিল্পের মেরুদণ্ড ছিল যে সংস্থা, আজ সেই IFCI-তেই ৬,৮৫৫ কোটি টাকার তছরুপের অভিযোগ! ৩ জন প্রাক্তন প্রধানের দিকে উঠেছে আঙুল। ৯০ জনের এই তালিকায় আপনার চেনা কোনো বড় কর্পোরেট নাম নেই তো? তদন্তের জালে এবার রাঘববোয়ালরা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/ifci-6855-crore-scam-sfio-investigation-former-directors_646457.html ",
+    "time": "2026-03-28T06:53:23.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "১৯ বছরে মাথায় টাক, করিশ্মার সঙ্গে বিয়ে ভাঙা থেকে বাবার আশ্রমে চলে যাওয়া- অক্ষয় খান্নার জীবন যেন সিনেমার চেয়েও টানটান",
     "desc": "৫ বছর বয়সে বাবার চলে যাওয়া, ১৯ বছরেই মাথায় টাক, আর একের পর এক ২৩টি ফ্লপ সিনেমা! তবুও দমে যাননি অক্ষয় খান্না। আজ 'ধুরন্ধর'-এর রেহমান ডাকাত হিসেবে তিনি গোটা ভারতের সেনসেশন। অভিনেতার জন্মদিনে ফিরে দেখা হার না মানা এক লড়াকুর গল্প।",
@@ -70,15 +88,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/mustafa-ahmed-gym-trainer-to-actor-ranveer-singh-dhurandhar_645922.html ",
     "time": "2026-03-23T13:13:41.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "অসুস্থ সদ্যোজাতকে দেখভালেও নেই ছাড়: WFH না মেলায় মা এলেন অফিসে, মারা গেল বাচ্চা-- তারপরই ভয়ংকর",
-    "desc": "অফিস তাঁকে সাফ জানিয়ে দেওয়া হয় যে, তাঁকে অফিসেই আসতে হবে, অন্যথায় তাঁর চাকরি থাকবে না। অভাবের সংসার এবং চাকরির প্রয়োজনে বাধ্য হয়েই অসুস্থ সন্তানকে বাড়িতে রেখে বা কোনওভাবে ম্যানেজ করে তিনি অফিসে যাতায়াত শুরু করেন",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/newborn-death-wfh-denied-company-fined-rs-210-crore-ohio-case_645921.html ",
-    "time": "2026-03-23T13:01:12.000Z"
   },
   {
     "cat": "Entertainment",

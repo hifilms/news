@@ -1,12 +1,237 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "ECI publishes second supplementary voter list in Bengal",
-    "desc": "The commission had released the first supplementary list of 'Under Adjudication' voters on March 23, but remained tight-lipped on the number of deletions or the precise figure of cases disposed of on that list, drawing criticism from various quarters.",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "cat": "Entertainment",
+    "title": "Kristen Bell celebrates daughter’s 13th birthday",
+    "desc": "Celebrating a special milestone, actress Kristen Bell took to Instagram to honor her daughter Lincoln on her 13th birthday. The beloved star of 'Frozen' created a touching video montage that showcased precious family moments, highlighting the beauty and trials of motherhood.",
+    "img": "https://static.toiimg.com/photo/msid-129861704,imgsize-241872.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kristen-bell-celebrates-daughters-13th-birthday-shares-sweet-candid-family-pictures/articleshow/129861704.cms",
+    "time": "2026-03-28T09:06:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war: A day‑by‑day rundown of the escalating crisis",
+    "desc": "A joint U.S.-Israel attack on Iran and the killing of Supreme Leader Ayatollah Ali Khamenei have plunged West Asia into a fast‑spreading war, with Tehran and its allies launching retaliatory strikes across Israel, the Gulf and U.S. bases.",
+    "img": "https://th-i.thgim.com/public/incoming/z8eofi/article70702941.ece/alternates/LANDSCAPE_1200/AFP_99V379F.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/assembly-elections-kerala-assam-tamil-nadu-west-bengal-puducherry-2026-live/article70795253.ece",
-    "time": "2026-03-28T06:53:13.000Z"
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
+    "time": "2026-03-28T08:43:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cody Linley addresses whether there will be a 'Hannah Montana' spin-off",
+    "desc": "The air is thick with nostalgia as fans celebrate the 'Hannah Montana 20th Anniversary Special,' igniting conversations about a possible spin-off. Cody Linley, who charmed audiences as Jake Ryan, teased that the idea is not off the table, saying, 'Anything is possible.",
+    "img": "https://static.toiimg.com/photo/msid-129861659,imgsize-74362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/will-there-be-a-hannah-montana-spin-off-after-the-20th-anniversary-special-alum-cody-linley-says-anything-is-possible/articleshow/129861659.cms",
+    "time": "2026-03-28T08:40:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tate Paul’s calls with the police about 2023 domestic violence case revealed",
+    "desc": "Newly revealed police calls from ex-husband Tate Paul shed light on a 2023 domestic violence case involving 'The Secret Lives of Mormon Wives' star Taylor Frankie Paul. Tate expressed deep concern for his children's well-being, alleging Taylor's mother coached their daughter. The calls relate to an incident where a barstool struck their child during an altercation.",
+    "img": "https://static.toiimg.com/photo/msid-129861575,imgsize-84268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/calls-between-police-and-taylor-frankie-pauls-ex-husband-tate-paul-revealed-talks-about-domestic-violence-arrest-from-2023/articleshow/129861575.cms",
+    "time": "2026-03-28T08:36:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "5 players to watch out for in today’s clash",
+    "desc": "Royal Challengers Bengaluru face Sunrisers Hyderabad in a high-pressure opening match. Virat Kohli and Phil Salt will aim for strong starts for RCB. Abhishek Sharma and Travis Head bring attacking intent for SRH. Ishan Kishan leads SRH with added responsibility. This contest promises a run-fest with individual brilliance expected to decide the outcome.",
+    "img": "https://static.toiimg.com/photo/msid-129849026,imgsize-1261374.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rcb-vs-srh-ipl-2026-5-players-to-watch-out-for-in-todays-clash/articleshow/129848856.cms",
+    "time": "2026-03-28T08:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Animal Friends’ to hit theatres in early 2027 now",
+    "desc": "Originally scheduled for May 2026, 'Animal Friends,' the highly anticipated film starring Ryan Reynolds and Jason Momoa, will now hit theaters on January 22, 2027. The release has been postponed due to the impressive cast, which includes Aubrey Plaza and Dan Levy.",
+    "img": "https://static.toiimg.com/photo/msid-129861472,imgsize-110556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-reynolds-and-jason-momoa-starrer-animal-friends-release-date-shifts-again-to-hit-theatres-in-early-2027-now/articleshow/129861472.cms",
+    "time": "2026-03-28T08:22:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Why was a businessman present?': Congress questions PM Modi over Elon Musk's presence in Trump call",
+    "desc": "The Congress party has sharply criticized Prime Minister Narendra Modi following reports of Elon Musk's alleged presence during a call with US President Donald Trump. The opposition questioned the transparency and protocol of a private businessman participating in a high-level diplomatic discussion on the West Asia crisis.",
+    "img": "https://static.toiimg.com/photo/msid-129861482,imgsize-979955.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/why-was-a-businessman-present-congress-questions-pm-modi-over-elon-musks-presence-in-trump-call/articleshow/129861329.cms",
+    "time": "2026-03-28T08:21:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about the ‘Back to the Future’ star",
+    "desc": "Beloved veteran actor James Tolkan, famed for his unforgettable roles in classics like 'Top Gun' and 'Back to the Future,' has sadly passed away at the age of 94. His family confirmed the news from Saranac Lake, New York.",
+    "img": "https://static.toiimg.com/photo/msid-129861413,imgsize-105014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-tolkan-passes-away-at-94-all-about-the-back-to-the-future-star-his-family-rise-to-fame-and-legacy/articleshow/129861413.cms",
+    "time": "2026-03-28T08:17:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Rubio sees U.S. action in Iran completed in weeks as airstrikes rumble on",
+    "desc": "Mr. Rubio told reporters after meeting Group of Seven counterparts in France that Washington was “on or ahead of schedule in that operation and expect to conclude it at the appropriate time here - a matter of weeks, not months”.",
+    "img": "https://th-i.thgim.com/public/incoming/ieiqhq/article70795709.ece/alternates/LANDSCAPE_1200/France_G7_Foreign_Ministers_Meeting_16_47.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/rubio-sees-us-action-in-iran-completed-in-weeks-as-airstrikes-rumble-on/article70795587.ece",
+    "time": "2026-03-28T08:10:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head-to-head, pitch report, weather update",
+    "desc": "IPL 2026 commences with a thrilling encounter between defending champions RCB and 2016 winners SRH. RCB, led by Rajat Patidar, face challenges with key pacers missing, while SRH will be without Pat Cummins. The M Chinnaswamy Stadium is set for a high-scoring affair with clear skies predicted.",
+    "img": "https://static.toiimg.com/photo/msid-129851333,imgsize-96136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rcb-vs-srh-ipl-records-head-to-head-pitch-report-weather-update/articleshow/129851317.cms",
+    "time": "2026-03-28T07:59:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Varun reveals he wanted to make debut with Hollywood film",
+    "desc": "to step onto the American film stage with none other than Steven Spielberg at the helm. His mission? To shine in the industry without riding on the coattails of his father, director David Dhawan. While his mother gently cautioned him against banking on his father’s connections, Varun was resolute. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129861060,imgsize-95264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-dhawan-reveals-he-wanted-to-make-debut-with-hollywood-film-directed-by-steven-spielberg-says-papa-ko-jhatka-lagta/articleshow/129861060.cms",
+    "time": "2026-03-28T07:59:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Pakistan, IMF strike deal over disbursement of $1.2 billion fund",
+    "desc": "IMF mission chief Iva Petrova said, subject to IMF board approval, Pakistan will have access to about $1.0 billion (SDR 760 million) under the EFF and about $210 million (SDR 154 million) under the RSF",
+    "img": "https://th-i.thgim.com/public/incoming/jh6bdu/article70795529.ece/alternates/LANDSCAPE_1200/2026-03-28T030131Z_1603688151_RC2SBBAMVE5Q_RTRMADP_3_IMF-PAKISTAN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/pakistan-imf-strike-deal-over-disbursement-of-12-billion-fund/article70795507.ece",
+    "time": "2026-03-28T07:59:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Studio hires Connor Osborne McIntyre to write",
+    "desc": "'Lights Out 2' has finally emerged from the shadows after prolonged delays, now with 'Animals' scribe Connor Osborne McIntyre bringing new life to the script. New Line is vigorously crafting this sequel to recapture the spine-tingling essence of the original that kept audiences on the edge of their seats.",
+    "img": "https://static.toiimg.com/photo/msid-129861208,imgsize-87562.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lights-out-2-back-in-development-as-the-studio-hires-animals-writer-heres-what-we-know-about-the-long-awaited-sequel/articleshow/129861186.cms",
+    "time": "2026-03-28T07:57:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Defending champions RCB begin title defence against SRH",
+    "desc": "Royal Challengers Bengaluru begin their title defence against Sunrisers Hyderabad at the M Chinnaswamy Stadium. After a historic maiden IPL win, RCB faces an immediate challenge from SRH's explosive batting. Despite key absences in their bowling attack, RCB relies on a strong batting core and a revamped squad to protect their reputation and start the season strongly.",
+    "img": "https://static.toiimg.com/photo/msid-129850255,imgsize-86580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-defending-champions-rcb-begin-title-defence-against-srh-at-chinnaswamy/articleshow/129850204.cms",
+    "time": "2026-03-28T07:55:35.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Missile fired from Yemen as Israel and U.S. target Iran",
+    "desc": "Hours earlier, Yemen’s Iran-aligned Houthis said they were prepared to act if what the group called an escalation against Iran and the “axis of resistance” continued, but did not say what form any intervention would ‌take",
+    "img": "https://th-i.thgim.com/public/incoming/xag1an/article70795571.ece/alternates/LANDSCAPE_1200/2026-03-27T223339Z_1664804113_RC2ADKAXJPM4_RTRMADP_3_IRAN-CRISIS-ISRAEL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/missile-fired-from-yemen-as-israel-and-us-target-iran/article70795541.ece",
+    "time": "2026-03-28T07:46:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Katy Perry and Justin Trudeau share pics from playful date night",
+    "desc": "Pop star Katy Perry and Canadian Prime Minister Justin Trudeau shared a playful glimpse into their date night, poking fun at their age difference with a fun quiz. The couple, who have been keeping their relationship relatively private, posted photos that also featured Perry's daughter. Despite a long-distance dynamic, they prioritize making their relationship work, traveling to spend time together.",
+    "img": "https://static.toiimg.com/photo/msid-129861025,imgsize-81362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/katy-perry-and-justin-trudeau-poke-fun-at-their-age-gap-on-date-night-how-old-would-you-be-if/articleshow/129861025.cms",
+    "time": "2026-03-28T07:43:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are Indians not starting as favourites?",
+    "desc": "The Candidates tournament begins in Cyprus with American duo Nakamura and Caruana favored over Indian contenders like Praggnanandhaa. In the women's section, Divya Deshmukh is seen as a strong challenger to top seed Zhu Jiner. This event tests if India's chess dominance extends beyond Gukesh.",
+    "img": "https://static.toiimg.com/photo/msid-129860890,imgsize-113614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-2026-why-are-indians-not-starting-as-favourites/articleshow/129860913.cms",
+    "time": "2026-03-28T07:35:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "5 athletes who became Hollywood stars",
+    "desc": "Athletes often dazzle on the field with raw power and precision, but a select few have traded cleats for cameras, building thriving careers in Hollywood and beyond. These sports stars leveraged their charisma, discipline, and physicality to conquer entertainment, starring in blockbusters, TV hits, and even music ventures. From wrestling rings to NBA courts, here are five who nailed the pivot, proving athletic prowess translates to stardom.",
+    "img": "https://static.toiimg.com/photo/msid-129859793,imgsize-670855.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/from-john-cena-to-dave-bautista-5-athletes-who-became-hollywood-stars/photostory/129859793.cms",
+    "time": "2026-03-28T07:30:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump says ‘Cuba is next’ in speech touting U.S. military successes",
+    "desc": "While the President did not ‌specify what precisely he plans to do with the island nation, he ‌has frequently said he believes the government ‌in ⁠Havana, facing a severe economic crisis, ⁠is on the verge of collapse",
+    "img": "https://th-i.thgim.com/public/incoming/snz86v/article70795467.ece/alternates/LANDSCAPE_1200/2026-03-27T213852Z_141731673_RC29DKA8P51E_RTRMADP_3_USA-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-says-cuba-is-next-in-speech-touting-us-military-successes/article70795408.ece",
+    "time": "2026-03-28T07:21:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhoni out for 2 weeks, Samson to open; Ex-CSK star reveals Playing XI",
+    "desc": "Chennai Super Kings face a significant setback as MS Dhoni is ruled out for the first two weeks of IPL 2026 due to a calf strain. In response, former CSK player Ravichandran Ashwin has unveiled his strongest playing XI, featuring Sanju Samson as wicketkeeper-opener and a balanced mix of batsmen and bowlers.",
+    "img": "https://static.toiimg.com/photo/msid-129860709,imgsize-69620.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-out-for-2-weeks-sanju-samson-to-open-big-changes-as-ex-csk-star-reveals-playing-xi/articleshow/129860676.cms",
+    "time": "2026-03-28T07:18:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' characters make their way into the exam paper",
+    "desc": "In a delightful twist, the hit movie 'Dhurandhar' has become the muse for an innovative accounting exam, where characters from the film take the spotlight in place of traditional question phrasing. This humorous initiative has garnered a wave of applause from online audiences, who are reveling in the educator's inventive method to make learning more fun. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129860343,imgsize-142770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-characters-make-their-way-into-the-exam-paper-netizens-call-it-peak-level-detailing/articleshow/129860343.cms",
+    "time": "2026-03-28T07:06:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How did I become a coach and Carlsen’s second? I got too weak as a player: Jan Gustafsson",
+    "desc": "Gustafsson has lived in many corners of the chess world. In addition to discussing his various experiences in the game, he also talks in this interview about the Candidates, which begins on Sunday, and the rise of German chess",
+    "img": "https://th-i.thgim.com/public/incoming/bvsk00/article70795296.ece/alternates/LANDSCAPE_1200/gustafsson1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/jan-gustafsson-interview-magnus-carlsen-coach-candidates-chess-analysis/article70795306.ece",
+    "time": "2026-03-28T07:06:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Delhi-NCR gets new airport",
+    "desc": "Prime Minister Narendra Modi inaugurated Phase I of the Noida International Airport, a significant addition to India's aviation infrastructure. Developed under a PPP model, this airport aims to enhance regional and international connectivity for the NCR, easing pressure on existing facilities and supporting India's global aviation ambitions.",
+    "img": "https://static.toiimg.com/photo/msid-129860493,imgsize-167352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/noida-international-airport-inauguration-delhi-ncr-gets-new-airport-all-you-need-to-know-pm-modi-inaugurates-jewar-airport/articleshow/129860014.cms",
+    "time": "2026-03-28T07:00:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aneet's sister Reet goes private on insta after Dhurandhar Propaganda backlash",
+    "desc": "Aneet Padda's sister Reet Padda faces backlash for calling Dhurandhar, The Kerala Story, The Kashmir Files \"propaganda\" on Instagram. Netizens troll both; Reet goes private, deletes pic amid dating rumors with Pakistani man Fazil Ahmed.",
+    "img": "https://static.toiimg.com/photo/msid-129860431,imgsize-19008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aneet-paddas-sister-reet-padda-goes-private-on-instagram-after-dhurandhar-propaganda-backlash/articleshow/129860431.cms",
+    "time": "2026-03-28T06:56:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "VIXX’s Ravi posts apology about military controversy",
+    "desc": "In a heartfelt announcement, former VIXX member Ravi has publicly acknowledged the serious allegations surrounding him, including accusations of feigning epilepsy and breaching military service regulations. After fulfilling his service obligations, he expressed profound regret for his actions, recognizing the distress they have caused to his supporters and the broader community.",
+    "img": "https://static.toiimg.com/photo/msid-129860105,imgsize-63414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/former-vixx-member-ravi-posts-apology-months-after-military-controversy-i-will-continue-to-learn-and-discipline-myself/articleshow/129860105.cms",
+    "time": "2026-03-28T06:49:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Payment nahi milegi ab': Babar Azam's ad shoot goes wrong",
+    "desc": "Peshawar Zalmi captain Babar Azam faced online trolling after dropping a catch during an advertisement shoot ahead of the PSL 2026. The tournament will be played behind closed doors due to geopolitical tensions, a move Azam acknowledged will be missed by players and fans alike.",
+    "img": "https://static.toiimg.com/photo/msid-129860306,imgsize-87492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/payment-nahi-milegi-ab-babar-azams-ad-shoot-goes-wrong-trolled-heavily/articleshow/129860297.cms",
+    "time": "2026-03-28T06:46:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -16,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-10-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-film-eyes-dhurandhar-1-rs-840-crore-india-net-record-as-second-weekend-kicks-in/articleshow/129857742.cms",
     "time": "2026-03-28T06:33:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Missile fired from Yemen as Israel and U.S. target Iran",
-    "desc": "Hours earlier, Yemen’s Iran-aligned Houthis said they were prepared to act if what the group called an escalation against Iran and the “axis of resistance” continued, but did not say what form any intervention would ‌take",
-    "img": "https://th-i.thgim.com/public/incoming/xag1an/article70795571.ece/alternates/LANDSCAPE_1200/2026-03-27T223339Z_1664804113_RC2ADKAXJPM4_RTRMADP_3_IRAN-CRISIS-ISRAEL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/missile-fired-from-yemen-as-israel-and-us-target-iran/article70795541.ece",
-    "time": "2026-03-28T06:30:20.000Z"
   },
   {
     "cat": "Politics",
@@ -73,66 +289,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Miranda Hope on ex Chase McWhorter’s kiss with Jessi Draper",
-    "desc": "‘Secret Lives of Mormon Wives’ star Miranda Hope revealed her ex-husband, Chase McWhorter, kissed her co-star, Jessi Draper, during Jessi's divorce. Miranda expressed feeling disrespected by Chase and betrayed by Jessi, emphasizing her focus remains solely on her two children amidst the unfolding drama and the show's filming hiatus.",
-    "img": "https://static.toiimg.com/photo/msid-129859759,imgsize-189588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/secret-lives-of-mormon-wives-star-miranda-hope-breaks-silence-on-ex-chase-mcwhorters-kiss-with-co-star-jessi-draper/articleshow/129859759.cms",
-    "time": "2026-03-28T06:01:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Pakistan, IMF strike deal over disbursement of $1.2 billion fund",
-    "desc": "IMF mission chief Iva Petrova said, subject to IMF board approval, Pakistan will have access to about $1.0 billion (SDR 760 million) under the EFF and about $210 million (SDR 154 million) under the RSF",
-    "img": "https://th-i.thgim.com/public/incoming/jh6bdu/article70795529.ece/alternates/LANDSCAPE_1200/2026-03-28T030131Z_1603688151_RC2SBBAMVE5Q_RTRMADP_3_IMF-PAKISTAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/pakistan-imf-strike-deal-over-disbursement-of-12-billion-fund/article70795507.ece",
-    "time": "2026-03-28T06:00:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Drama’ director Kristoffer Borgli 2012 essay under fire",
-    "desc": "Filmmaker Kristoffer Borgli faces online backlash over a resurfaced 2012 essay detailing his relationship with a teenager. The piece, originally published in D2 magazine, discusses his romance with a high school student who was 10 years his junior. Borgli reportedly referenced Woody Allen's controversial film and cited 'Lost In Translation' as influencing his perspective on the age gap.",
-    "img": "https://static.toiimg.com/photo/msid-129859706,imgsize-349620.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-drama-director-kristoffer-borgli-under-fire-after-a-2012-essay-about-romance-with-teen-resurfaces/articleshow/129859706.cms",
-    "time": "2026-03-28T05:58:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Amanda Peet talks about her breast cancer diagnosis",
-    "desc": "In a heartfelt revelation, actress Amanda Peet has opened up about her stage 1 breast cancer diagnosis, which she faced during a tumultuous time as her parents were in hospice. After successfully undergoing a lumpectomy and radiation treatment, she is now on the mend and diving into the promotion of her latest project, 'Fantasy Life.",
-    "img": "https://static.toiimg.com/photo/msid-129859258,imgsize-89314.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/a-lot-like-love-star-amanda-peet-opens-up-about-breast-cancer-diagnosis-im-doing-great/articleshow/129859258.cms",
-    "time": "2026-03-28T05:51:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Kubbra REACTS to Dhurandhar being labelled as propaganda",
     "desc": "In a recent interview, actress Kubbra Sait passionately praised Ranveer Singh's spy thriller 'Dhurandhar', exclaiming it as a 'remarkable cinematic achievement.' Responding to any criticism of its alleged propaganda, she emphasized that the film presents a unique narrative viewpoint, effectively captivating the audience. Read on to know more about what the actress has to say in detail.",
     "img": "https://static.toiimg.com/photo/msid-129859426,imgsize-129074.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kubbra-sait-reacts-to-dhurandhar-being-labelled-as-propaganda-adds-she-looks-like-ranveer-singhs-hamza-but-with-curly-hair/articleshow/129859426.cms",
     "time": "2026-03-28T05:48:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "James Tolkan’s must-watch films",
-    "desc": "James Tolkan, the gravel-voiced king of tough-guy roles, is being remembered for his unforgettable performances following news of his passing. A defining presence in Hollywood’s character-actor legacy, he has left an indelible mark on cinema as the ultimate tough-guy archetype. From drill-sergeant principals to corrupt cops and military hardliners, his commanding presence elevated every scene he appeared in. As fans revisit his work, these five must-watch classics make for perfect OTT binges, celebrating a career that continues to resonate even after he is no more with us.",
-    "img": "https://static.toiimg.com/photo/msid-129859481,imgsize-538939.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/james-tolkans-must-watch-films-back-to-the-future-top-gun-and-the-wild-river/photostory/129859481.cms",
-    "time": "2026-03-28T05:34:12.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump says ‘Cuba is next’ in speech touting U.S. military successes",
-    "desc": "While the President did not ‌specify what precisely he plans to do with the island nation, he ‌has frequently said he believes the government ‌in ⁠Havana, facing a severe economic crisis, ⁠is on the verge of collapse",
-    "img": "https://th-i.thgim.com/public/incoming/snz86v/article70795467.ece/alternates/LANDSCAPE_1200/2026-03-27T213852Z_141731673_RC29DKA8P51E_RTRMADP_3_USA-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-says-cuba-is-next-in-speech-touting-us-military-successes/article70795408.ece",
-    "time": "2026-03-28T05:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -189,24 +351,6 @@ const newsData_en = [
     "time": "2026-03-28T04:49:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' release: Film to arrive after 'Toxic'",
-    "desc": "Vijay's highly anticipated 'Jana Nayagan' faces further release delays due to censor board issues and scheduling conflicts. Originally slated for early 2026, the film's release is now reportedly pushed to June or July, potentially after Yash's 'Toxic'. Concerns are also rising over a potential cancellation of its OTT deal.",
-    "img": "https://static.toiimg.com/photo/msid-129858918,imgsize-219294.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-release-update-thalapathy-vijays-film-likely-to-arrive-after-yashs-toxic-reports/articleshow/129858918.cms",
-    "time": "2026-03-28T04:41:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tom Felton shares advice for new Draco Malfoy actor",
-    "desc": "Draco Malfoy actor Tom Felton offered advice to the new Harry Potter cast, urging them to enjoy the experience and seize opportunities. He shared his admiration for Emma Watson's portrayal of Hermione and reflected on his own journey. Daniel Radcliffe also encouraged the new actors to relish their time on set, emphasizing fun.",
-    "img": "https://static.toiimg.com/photo/msid-129858777,imgsize-78862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-felton-shares-his-advice-for-new-draco-malfoy-actor-lox-pratt-praises-harry-potter-co-star-emma-watson/articleshow/129858764.cms",
-    "time": "2026-03-28T04:41:33.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Fearing ground assault, our families have started leaving Tehran': Iranians in India",
     "desc": "Fear grips Tehran as residents anticipate a ground assault. Ambiguous statements from Washington and threats from Tel Aviv fuel anxiety. Many families are leaving the capital for safer rural areas. Iranians in India report loved ones are rationing essentials and struggling with communication blackouts. Video calls offer brief solace amidst the uncertainty of escalating conflict.",
@@ -225,15 +369,6 @@ const newsData_en = [
     "time": "2026-03-28T04:28:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "John Hannah joins the cast of the upcoming ‘The Mummy 4'",
-    "desc": "In a thrilling announcement, fans are buzzing with excitement as John Hannah has confirmed his much-anticipated return as Jonathan Carnahan in 'The Mummy 4' alongside beloved stars Brendan Fraser and Rachel Weisz. Scheduled for a 2028 release, the film will be directed by the talented duo Matt Bettinelli-Olpin and Tyler Gillett, who tease an adventure packed with chills and thrills.",
-    "img": "https://static.toiimg.com/photo/msid-129858635,imgsize-42368.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-mummy-4-update-john-hannah-returns-with-brendan-fraser-and-rachel-weisz-for-new-film/articleshow/129858635.cms",
-    "time": "2026-03-28T04:12:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "On debut, Divya Deshmukh could cause a dent in Candidates",
     "desc": "Divya Deshmukh, the youngest participant at 20, makes her debut in the World Championship Candidates chess tournament in Cyprus. Having qualified by winning the Women's World Cup, she aims to leverage her strong opening preparations and aggressive play against higher-rated opponents.",
@@ -241,24 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/on-debut-divya-deshmukh-could-cause-a-dent-in-candidates/articleshow/129858584.cms",
     "time": "2026-03-28T04:06:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yami watches 'Dhurandhar 2' at theatre",
-    "desc": "The Revenge' crossing Rs 1,100 crore worldwide. She was spotted enjoying a theatre screening, visibly thrilled by audience reactions and her own scenes. Previously, Yami had lauded the film as 'beyond extraordinary,' highlighting Dhar's dedication and the unforgettable cinematic experience it offers.",
-    "img": "https://static.toiimg.com/photo/msid-129858096,imgsize-60562.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yami-gautam-watches-dhurandhar-2-the-revenge-in-theatres-as-it-crosses-rs-1100-crore-blushes-as-her-scene-plays-on-big-screen-watch/articleshow/129857959.cms",
-    "time": "2026-03-28T03:45:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How did I become a coach and Carlsen’s second? I got too weak as a player: Jan Gustafsson",
-    "desc": "Gustafsson has lived in many corners of the chess world. In addition to discussing his various experiences in the game, he also talks in this interview about the Candidates, which begins on Sunday, and the rise of German chess",
-    "img": "https://th-i.thgim.com/public/incoming/bvsk00/article70795296.ece/alternates/LANDSCAPE_1200/gustafsson1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/jan-gustafsson-interview-magnus-carlsen-coach-candidates-chess-analysis/article70795306.ece",
-    "time": "2026-03-28T03:39:52.000Z"
   },
   {
     "cat": "Sports",
@@ -280,48 +397,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Defending champions RCB begin title defence against SRH",
-    "desc": "Royal Challengers Bengaluru begin their title defence against Sunrisers Hyderabad at the M Chinnaswamy Stadium. After a historic maiden IPL win, RCB faces an immediate challenge from SRH's explosive batting. Despite key absences in their bowling attack, RCB relies on a strong batting core and a revamped squad to protect their reputation and start the season strongly.",
-    "img": "https://static.toiimg.com/photo/msid-129850255,imgsize-86580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-defending-champions-rcb-begin-title-defence-against-srh-at-chinnaswamy/articleshow/129850204.cms",
-    "time": "2026-03-28T03:22:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Veteran actor James Tolkan passes away at 94",
-    "desc": "Veteran actor James Tolkan, celebrated for his iconic roles in 'Top Gun', 'Back to the Future', and 'Miami Vice', has passed away at 94. The beloved performer, who served in the Korean War before embarking on a prolific acting career spanning decades, died peacefully at his New York home. His extensive filmography includes 'Serpico' and 'The Amityville Horror'.",
-    "img": "https://static.toiimg.com/photo/msid-129858110,imgsize-50526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/back-to-the-future-star-james-tolkan-passes-away-at-age-94-report/articleshow/129858110.cms",
-    "time": "2026-03-28T03:14:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gaten Matarazzo mocks Timothée Chalamet’s' Marty Supreme' hype",
-    "desc": "Gaten Matarazzo and Sean Giambrone hilariously spoof Timothée Chalamet's 'Marty Supreme' promotion for their upcoming comedy, 'Pizza Movie'. Filmed atop Las Vegas' Sphere, the duo mimics Chalamet's dramatic style, shouting movie details and even referencing his controversial ballet comments. This playful Hollywood jab is generating significant buzz for their film, set to release April 3, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-129858075,imgsize-689294.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-fame-gaten-matarazzo-hilariously-spoofs-timothe-chalamets-marty-supreme-promo-in-a-viral-video/articleshow/129858084.cms",
-    "time": "2026-03-28T03:08:26.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Urine test refusal, what law says, cops break silence",
     "desc": "Golf legend Tiger Woods was arrested on a DUI charge after his Land Rover overturned near his Florida home. Woods showed signs of impairment and refused a urine test, though a breathalyzer showed no alcohol. This incident follows a serious 2017 car crash that resulted in severe leg injuries.",
     "img": "https://static.toiimg.com/photo/msid-129857973,imgsize-206372.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/golf/top-stories/tiger-woods-jailed-urine-test-refusal-what-law-says-cops-break-silence/articleshow/129857942.cms",
     "time": "2026-03-28T03:02:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chloe Fineman talks about Harry Styles on ‘Saturday Night Live’",
-    "desc": "Saturday Night Live's Chloe Fineman shared her delightful experience working with Harry Styles, describing him as genuinely nice and low-key, remembering everyone's names. She even worked hard on skits hoping to perform alongside the 'Don't Worry Darling' star. Fineman also praised Styles' infectious joy and his conscious effort to bring light into the world, finding him truly inspiring.",
-    "img": "https://static.toiimg.com/photo/msid-129857803,imgsize-84848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/he-was-so-genuinely-nice-chloe-fineman-recalls-working-with-harry-styles-on-saturday-night-live/articleshow/129857803.cms",
-    "time": "2026-03-28T02:47:03.000Z"
   },
   {
     "cat": "Sports",
@@ -541,24 +622,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "NCERT reset, AI push: Pradhan spells out education roadmap",
-    "desc": "On the recent controversy involving UGC regulations aimed at maintaining standards, quality and equity in Indian higher education, Pradhan refrained from detailed comment, noting the matter is sub judice. “The govt’s responsibility is to ensure that no one faces injustice or discrimination. We will abide by whatever directions court issues,” he said. Outlining the ministry’s broader priorities, Pradhan said the education system currently serves around 30 crore students, placing significant responsibility on policymakers.",
-    "img": "https://static.toiimg.com/photo/msid-129854462,imgsize-79834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ncert-reset-ai-push-pradhan-spells-out-education-roadmap/articleshow/129854464.cms",
-    "time": "2026-03-27T21:38:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Defence, security at core of India-US ties: Sergio Gor",
-    "desc": "In an interview with the US embassy publication, Span magazine, the ambassador also spoke about the significance of Quad as he predicted further strengthening of defence ties. “India is a Major Defence Partner, and defence cooperation is one of the brightest spots in our bilateral relationship. We also strengthen US-India military interoperability through participation in military exercises such as Malabar, Tiger Triumph, and Cope India,” said Gor.",
-    "img": "https://static.toiimg.com/photo/msid-129854447,imgsize-117208.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/defence-security-at-core-of-india-us-ties-sergio-gor/articleshow/129854442.cms",
-    "time": "2026-03-27T21:31:33.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "T.N. Assembly election: AIADMK fields new face in Sengottaiyan’s stronghold of Gobichettipalayam",
     "desc": "V.B. Prabhu, who joined the party in 2002, rose through the ranks to serve as deputy secretary of the party’s student wing for a decade. Over the past six months, he was the West Union secretary in the constituency",
     "img": "https://th-i.thgim.com/public/incoming/t1lgnl/article70793676.ece/alternates/LANDSCAPE_1200/9870_27_3_2026_17_48_26_1_IMG_20260327_WA0086.JPG",
@@ -649,30 +712,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'IPL se better offer mila aur woh chale gaye': Ex-Pakistan star questions PSL's decline",
-    "desc": "Former Pakistan batter Ahmed Shehzad has sharply criticized the Pakistan Super League (PSL), ranking it significantly below the Indian Premier League (IPL). He highlighted how many overseas players commit to the PSL but later opt for the IPL due to better offers, impacting Pakistan's premier T20 competition and its national team's development.",
-    "img": "https://static.toiimg.com/photo/msid-129849678,imgsize-64938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-se-better-offer-mila-aur-woh-chale-gaye-ex-pakistan-star-questions-psls-decline/articleshow/129849618.cms",
-    "time": "2026-03-27T14:05:54.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "In maiden IPL, Auqib Nabi wants to stay true to his strengths",
     "desc": "With the 29-year-old in the prime of his career, a chance in the Indian Premier League — he was picked up by Delhi Capitals for ₹8.4 crore in December’s mini-auction — couldn’t have come at a more opportune moment",
     "img": "https://th-i.thgim.com/public/incoming/i92700/article70793008.ece/alternates/LANDSCAPE_1200/_DSC3028.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/in-maiden-ipl-auqib-nabi-wants-to-stay-true-to-his-strengths/article70792933.ece",
     "time": "2026-03-27T13:57:26.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel war: A day‑by‑day rundown of the escalating crisis",
-    "desc": "A joint U.S.-Israel attack on Iran and the killing of Supreme Leader Ayatollah Ali Khamenei have plunged West Asia into a fast‑spreading war, with Tehran and its allies launching retaliatory strikes across Israel, the Gulf and U.S. bases.",
-    "img": "https://th-i.thgim.com/public/incoming/z8eofi/article70702941.ece/alternates/LANDSCAPE_1200/AFP_99V379F.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
-    "time": "2026-03-27T13:56:17.000Z"
   },
   {
     "cat": "Business",
@@ -682,33 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/excise-cuts-wont-change-fuel-price-relief-only-in-narrative-congress-claims/article70791490.ece",
     "time": "2026-03-27T13:30:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek, Sooryavanshi changing T20 game; GT batter has a different plan",
-    "desc": "Sai Sudharsan prioritizes batting versatility over solely chasing high strike rates for IPL 2026, aiming to adapt to various pitch conditions. He believes in playing longer innings to secure team victories. Sudharsan also expressed strong trust in Gujarat Titans captain Shubman Gill's leadership and his ability to understand and support players.",
-    "img": "https://static.toiimg.com/photo/msid-129848628,imgsize-80830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/abhishek-sharma-vaibhav-sooryavanshi-changing-t20-game-gt-batter-sai-sudharsan-has-a-different-plan/articleshow/129848620.cms",
-    "time": "2026-03-27T13:12:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'You were a complete pain on court': Sindhu pays tribute to Marin",
-    "desc": "PV Sindhu penned an emotional tribute to her long-time rival Carolina Marin following the Spanish legend's retirement announcement. Sindhu recalled their shared history from junior days to intense on-court battles, highlighting Marin's skill and fighting spirit. She expressed gratitude for their camaraderie and wished Marin a happy retirement, acknowledging the void her absence will leave in badminton.",
-    "img": "https://static.toiimg.com/photo/msid-129847177,imgsize-106092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/you-were-a-complete-pain-on-court-pv-sindhu-pays-tribute-to-carolina-marin/articleshow/129847164.cms",
-    "time": "2026-03-27T12:10:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Punjab Kings will lift the cup’: PBKS batter’s bold IPL 2026 prediction",
-    "desc": "Shashank Singh is confident Punjab Kings will win the IPL trophy this season after their narrow 2025 final loss. He emphasizes team belief and a match-by-match approach, focusing on preparation over past success. Singh also highlights the importance of embracing his lower-middle order role and prioritizing team impact over individual milestones.",
-    "img": "https://static.toiimg.com/photo/msid-129847042,imgsize-192298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/punjab-kings-will-lift-the-cup-pbks-batters-bold-ipl-2026-prediction/articleshow/129847036.cms",
-    "time": "2026-03-27T12:07:13.000Z"
   },
   {
     "cat": "Sports",
@@ -754,15 +772,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-has-it-easier-than-rohit-sharma-ex-india-batters-explosive-take/articleshow/129844640.cms",
     "time": "2026-03-27T10:39:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Rohit can’t be an Impact Player': Ex-India batter sends strong message to Hardik",
-    "desc": "Mohammad Kaif urges Mumbai Indians to fully utilize Rohit Sharma on the field, not just as an Impact Player. He believes Rohit's leadership and on-field presence are crucial, especially in high-pressure situations, and would benefit both the team and his own batting. Kaif emphasized that a fitter Rohit should be involved in all game phases.",
-    "img": "https://static.toiimg.com/photo/msid-129843780,imgsize-130958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rohit-sharma-cant-be-an-impact-player-ex-india-batter-sends-strong-message-to-hardik-pandya/articleshow/129843792.cms",
-    "time": "2026-03-27T10:00:59.000Z"
   },
   {
     "cat": "World",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/lpg-fuel-petrol-crisis-live-updates-west-asia-war-straight-of-hormuz/article70782692.ece",
     "time": "2026-03-25T17:04:48.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "New Mexico jury says Meta harms children’s mental health and safety, violating state law",
-    "desc": "The landmark decision comes after a nearly seven-week trial, and as jurors in a federal court in California have been sequestered in deliberations for more than a week about whether Meta and YouTube should be liable in a similar case",
-    "img": "https://th-i.thgim.com/public/incoming/7366yo/article70782439.ece/alternates/LANDSCAPE_1200/Meta_New_Mexico_Trial_13859.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/new-mexico-jury-says-meta-harms-childrens-mental-health-and-safety-violating-state-law/article70782437.ece",
-    "time": "2026-03-25T13:00:53.000Z"
   }
 ];
