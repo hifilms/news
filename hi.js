@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli shares recipe behind sheer consistency, registers 17th 50+ total in last 33 IPL matches",
+    "desc": "Virat Kohli has rediscovered himself in white-ball cricket. After a couple of underwhelming years, many former cricketers and experts called him out over poor form, with some claiming that Kohli no longer fits in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-shares-recipe-behind-sheer-consistency-registers-17th-50-total-in-last-33-ipl-matches-2026-03-28-1035461",
+    "time": "2026-03-28T18:24:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB create history with commanding win over Sunrisers Hyderabad in IPL 2026 opener",
+    "desc": "Royal Challengers Bengaluru defeated Sunrisers Hyderabad by six wickets in their IPL 2026 opener at the M Chinnaswamy Stadium. Chasing 202 runs, the Rajat Patidar-led side dominated with the bat, with Devdutt Padikkal and Virat...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-create-history-with-commanding-win-over-sunrisers-hyderabad-in-ipl-2026-opener-2026-03-28-1035459",
+    "time": "2026-03-28T18:09:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB make statement of intent, hammer SRH in IPL 2026 season opener; Kohli, Padikkal, Duffy dominate",
+    "desc": "Royal Challengers Bengaluru defeated Sunrisers Hyderabad by six wickets in the IPL 2026 opener at the M Chinnaswamy Stadium. The match carried emotional significance as cricket returned to the venue nearly a year after the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-make-statement-of-intent-hammer-srh-in-ipl-2026-season-opener-kohli-padikkal-duffy-dominate-2026-03-28-1035457",
+    "time": "2026-03-28T17:34:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Phil Salt grabs one-handed stunner to end Ishan Kishan's stay in IPL 2026 opener",
+    "desc": "Royal Challengers Bengaluru opener Phil Salt grabbed a stunning one-handed catch to end Ishan Kishan’s stay in the IPL 2026 opener at the M Chinnaswamy Stadium. The Sunrisers Hyderabad captain proved to be a one-man...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-grabs-one-handed-stunner-to-end-ishan-kishan-s-stay-in-ipl-2026-opener-watch-2026-03-28-1035449",
+    "time": "2026-03-28T15:41:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ravichandran Ashwin signs for MLC team, ready to help USA cricket before 2028 Olympics",
     "desc": "Former India cricketer Ravichandran Ashwin has signed for San Francisco Unicorns in the Major League Cricket. The off-spinner, who stepped away from international cricket in December 2024 and later concluded his IPL journey following the...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-slams-media-speculation-shares-update-on-joining-dc-for-ipl-2026-2026-03-28-1035424",
     "time": "2026-03-28T11:18:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh softens stance, lifts IPL broadcast restrictions amid improving ties with BCCI",
-    "desc": "Bangladesh has reversed its earlier stance on televising the Indian Premier League (IPL). The decision was confirmed on Saturday, March 28, by Information and Broadcasting Minister Zahir Uddin Swapan during a media briefing. The change comes...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-softens-stance-lifts-ipl-broadcast-restrictions-amid-improving-ties-with-bcci-2026-03-28-1035419",
-    "time": "2026-03-28T10:29:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Royal Challengers Bengaluru vs Sunrisers Hyderabad head-to-head record ahead of IPL 2026 season opener",
-    "desc": "The IPL (Indian Premier League) 2020 kicks off with defending champions Royal Challengers Bengaluru taking on Sunrisers Hyderabad. The two sides will lock horns at the M Chinnaswamy Stadium on March 28. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/royal-challengers-bengaluru-vs-sunrisers-hyderabad-head-to-head-record-ahead-of-ipl-2026-season-opener-2026-03-28-1035411",
-    "time": "2026-03-28T09:14:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Mission 300 is truly on': Ravichandran Ashwin previews RCB vs SRH clash, predicts high-scoring encounter",
-    "desc": "The stage is set for the season opener of the IPL (Indian Premier League) 2026. The first game of the season sees Royal Challengers Bengaluru taking on Sunrisers Hyderabad. With the clash approaching, the fans...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mission-300-is-truly-on-ravichandran-ashwin-previews-rcb-vs-srh-clash-predicts-high-scoring-encounter-2026-03-28-1035402",
-    "time": "2026-03-28T06:57:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni likely to miss first two weeks of IPL 2026 due to calf strain",
-    "desc": "In a major development for Chennai Super Kings, star keeper-batter and former skipper MS Dhoni is likely to miss the first two weeks of the upcoming IPL (Indian Premier League) 2026 as he is currently...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-likely-to-miss-first-two-weeks-of-ipl-2026-due-to-calf-strain-2026-03-28-1035395",
-    "time": "2026-03-28T05:10:25.000Z"
   }
 ];
