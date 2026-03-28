@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "સોના-ચાંદીના ભાવમાં ભારે ઉથલપાથલ, ઈરાન યુદ્ધ વચ્ચે Goldની તેજી પર લાગી બ્રેક; એક મહિનામાં કિંમતોમાં જોવા મળ્યો રેકોર્ડબ્રેક ઘટાડો",
+    "desc": "જ્યારેથી યુદ્ધ શરૂ થયું છે ત્યારથી 24 કેરેટ સોનાના ભાવમાં 24,529 રૂપિયાનો ઘટાડો આવ્યો છે. જ્યારે બીજી તરફ ચાંદીના ભાવમાં ત્યારથી અત્યાર સુધીમાં 68,210 રૂપિયાનો ઘટાડો થયો છે. 28 ફેબ્રુઆરી અને 1 માર્ચના રોજ બજાર બંધ હોવાને કારણે સોના અને ચાંદીની કિંમતોમાં કોઈ ફેરફાર જોવા મળ્યો ન હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-today-gold-silver-rates-drop-after-iran-war-impact-march-2026-470460 ",
+    "time": "2026-03-28T12:36:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ગુજરાત ભાજપના એ સાંસદે એક સમયે હેમામાલિનીને મારી હતી 20 થપ્પડ, હિરોઈનનો ચહેરો થઈ ગયો હતો લાલચોળ, જાણો",
+    "desc": "રામાનંદ સાગરની રામાયણમાં રાવણની ભૂમિકા ભજવીને અતિ પ્રખ્યાત થયેલા અરવિંદ ત્રિવેદીએ એકવાર હમ તેરે આશિક હૈ ફિલ્મના સેટ પર હેમા માલિનીને 20 જોરદાર થપ્પડ મારી હતી અને તેમની હાલત ખરાબ થઈ ગઈ હતી. પ્રેમ સાગરે એક ઈન્ટરવ્યુંમાં આ કિસ્સો સંભળાવ્યો હતો. જાણી લો શું છે આ કિસ્સો",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/this-gujarat-bjp-mp-once-slapped-hema-malini-20-times-the-heroine-face-turned-red-470459 ",
+    "time": "2026-03-28T12:09:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ભારતીય રોકાણકારોને મોંઘુ પડી રહ્યું છે ઈરાન યુદ્ધ, 1 મહિનામાં ગુમાવ્યા 41 લાખ કરોડ રૂપિયા",
+    "desc": "ઈરાન યુદ્ધને કારણે શેર બજારમાં હાહાકાર મચી ગયો છે. ઘરેલું શેર બજારમાં સેન્સેક્સ છેલ્લા એક મહિનામાં 7700થી વધુ પોઈન્ટ તૂટી ગયો છે. તેનાથી રોકાણકારોને 41.4 લાખ કરોડની ખોટ ગઈ છે. જાણકારોનું કહેવું છે કે નજીકના ભવિષ્યમાં પણ સ્થિતિ બદલવાની નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/iran-us-war-impact-on-india-sell-off-left-investors-poorer-by-nearly-rs-41-lakh-crore-470450 ",
+    "time": "2026-03-28T11:44:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "યુદ્ધ વચ્ચે બે તાનાશાહે કરી મુલાકાત, એશિયામાં બનશે નવો વર્લ્ડ ઓર્ડર, જાણો",
+    "desc": "દુનિયાના બે જાહેર થયેલા તાનાશાહની મુલાકાત ચર્ચામાં છે, આ બન્ને માત્ર પોતાના દેશોના તાનાશાહ જ નથી, પરંતુ એકબીજાના નજીકના મિત્રો પણ છે. ખાનગી રીતે પણ અને વ્યૂહાત્મક રીતે પણ આ લોકો બોમ્બ અને મિસાઈલથી ઓછું કંઈ બોલતા નથી. પરંતુ તેમની નવી મુલાકાતમાં આ બંદૂક કેમ ચર્ચામાં આવી છે. જાણીએ આ ખાસ અહેવાલમાં,",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/two-dictators-meet-in-the-midst-of-war-new-world-order-will-be-created-in-asia-know-470447 ",
+    "time": "2026-03-28T11:20:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "એક કિલો PNG કે LPG... ક્યા ગેસમાં કેટલા દિવસ બને છે રસોઈ, જાણો કયો વિકલ્પ તમારા માટે વધુ ફાયદાકારક",
+    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા તણાવના કારણે સ્ટ્રેટ ઓફ હોર્મુઝના માર્ગે આવતો ગેસ અને ઓઈલનો પુરવઠો ખોરવાઈ ગયો છે, જેના કારણે ભારતમાં પણ ગેસની અછતનો સામનો કરવો પડી રહ્યો છે. ગેસ સંબંધિત મુશ્કેલીઓને ઓછી કરવા માટે સરકાર વિવિધ પગલાં લઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/one-kg-of-png-or-lpg-how-many-days-does-cooking-take-in-which-gas-know-which-option-is-more-beneficial-for-you-470446 ",
+    "time": "2026-03-28T11:02:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ન 13, ન 15... કેમ 14.2 કિલોનો હોય છે ઘરેલું સિલિન્ડર? શું તમે જાણો છો",
+    "desc": "ક્યારેય વિચાર્યું છે કે ઘરેલું ગેસ સિલિન્ડરનું વજન માત્ર 14.2 કિલોગ્રામ કેમ હોય છે? તે 13 કિલો, 15 કિલો કે 16 કિલોનો કેમ હોતો નથી? આવો જાણીએ સિલિન્ડરનું વજન 14.2 કિલો હોવાના મુખ્ય કારણ શું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/gk-trending-quiz-neither-13-nor-15-kg-why-is-the-domestic-cylinder-only-14-point-2-kilogram-lpg-do-you-know-470444 ",
+    "time": "2026-03-28T10:49:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બાંગ્લાદેશના નરમ પડ્યા તેવર, IPL ટેલિકાસ્ટ પર લાગેલો બેન હટાવી દીધો",
+    "desc": "શેખ હસીનાની સરકારના પતન બાદ બાંગ્લાદેશમાં ભારત માટે સ્થિતિઓ વિપરીત જોવા મળી રહી હતી પરંતુ જ્યારથી ચૂંટણી બાદ નવી સરકાર આવી છે ત્યારથી પરિસ્થિતિમાં ફરી બદલાવ જોવા મળી રહ્યો છે. હવે આઈપીએલ 2026નું પણ પ્રસારણ થઈ શકે છે. સૂચના અને પ્રસારણ મંત્રી ઝહીર ઉદ્દીન સ્વપને આ અંગે મોટું નિવેદન આપ્યું છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/big-news-about-ipl-2026-broadcast-ban-lifted-in-bangladesh-cricket-news-in-gujarati-470442 ",
+    "time": "2026-03-28T10:34:25.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "રસ્તા પર ભારે ક્રૂરતા: વાળ ખેંચ્યા, ગળું કાપી માથે કાર ચઢાવી.... પતિએ કરી પત્નીની હત્યા",
     "desc": "કર્ણાટકના કલબુર્ગી જિલ્લામાં એક હચમચાવી દેતી ઘટના સામે આવી છે. જ્યાં ધોળા દિવસે રસ્તા પર પત્નીની ગળું કાપી હત્યા કરી દેવામાં આવી. આ ઘટનાનો વીડિયો સામે આવ્યો છે, જેમાં લોકો મદદ કરવાની જગ્યાએ રેકોર્ડિંગ કરતા જોવા મળી રહ્યાં છે. પોલીસે સમગ્ર મામલાની તપાસ શરૂ કરી છે.",
@@ -369,15 +432,6 @@ const newsData_gu = [
     "time": "2026-03-26T11:50:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "શું ફરી લાગશે લોકડાઉન? પેટ્રોલ-ડીઝલ ખૂટી જવાની અફવાઓ વચ્ચે સરકારે કર્યા 5 મોટા ખુલાસા! તમને ડર હોય તો જાણી લેજો",
-    "desc": "દેશમાં પેટ્રોલ-ડીઝલની અછતની અફવાઓ અને ગેસ સિલિન્ડર માટે લાઈનો વચ્ચે આજે સરકારે મોટો ખુલાસો કર્યો છે. સરકારે એક એક આંકડાઓ આપીને જણાવ્યું છે કે ભારત પાસે પૂરતો પૂરવઠો છે અને કોઈ પણ પ્રકારની અછત નથી. સરકારે આ મામલે 5 મોટા ખુલાસા કર્યા છે. સરકારે એ પણ કહ્યું છે કે દેશમાં 2 મહિનાનો પેટ્રોલ અને ડીઝલનો એક મહિના માટે ગેસનો સ્ટોક એડવાન્સમાં છે. જાણો સરકારે શું શું ખુલાસાઓ કર્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/will-lockdown-again-amidst-rumors-of-petrol-diesel-shortage-government-5-big-revelations-470192 ",
-    "time": "2026-03-26T11:30:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026 પહેલા BCCIનો મોટો નિર્ણય, આ વર્ષે નહીં યોજાય ઓપનિંગ સેરેમની, જાણો શું છે કારણ",
     "desc": "IPL 2026 પહેલા એક નવી અપડેટ સામે આવી છે. BCCIએ એક મહત્વપૂર્ણ નિર્ણય લીધો છે, જે હેઠળ આ વખતે ટુર્નામેન્ટ શરૂ થાય તે પહેલાં ઓપનિંગ સેરેમની યોજાશે નહીં. ત્યારે આ લેખમાં જાણીશું કે બોર્ડે આ નિર્ણય કેમ લીધો છે.",
@@ -441,15 +495,6 @@ const newsData_gu = [
     "time": "2026-03-25T18:04:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Dream11 લાવી રહ્યું છે નવું સ્ટોક બ્રોકિંગ પ્લેટફોર્મ, AI ફીચર્સ સાથે ગ્રો અને ઝેરોધાને આપશે સીધી ટક્કર!",
-    "desc": "ડ્રીમ11 (Dream11) પોતાની નવી સ્ટોક બ્રોકિંગ પ્લેટફોર્મ 'ડ્રીમ સ્ટ્રીટ' (Dream Street) લોન્ચ કરવા જઈ રહ્યું છે. જે AI આધારિત ઇન્વેસ્ટમેન્ટ ટૂલ્સ દ્વારા યુઝર્સને સ્માર્ટ ઇન્વેસ્ટિંગમાં મદદ કરશે. આ પ્લેટફોર્મ ખાસ કરીને નવા અને નાના શહેરોના રોકાણકારોને ધ્યાનમાં રાખીને બનાવવામાં આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/dream11-is-bringing-a-new-stock-broking-platform-will-directly-compete-with-grow-and-zerodha-with-ai-features-470135 ",
-    "time": "2026-03-25T17:36:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "જસપ્રીત બુમરાહને લઈને મોટા સમાચાર, IPL 2026માં રમશે કે નહીં ? આવી ગયું ફિટનેસ અપડેટ",
     "desc": "IPL 2026 પહેલા મુંબઈ ઈન્ડિયન્સના સ્ટાર ફાસ્ટ બોલર જસપ્રીત બુમરાહની ફિટનેસ અંગે એક મોટી અપડેટ સામે આવી છે. ટુર્નામેન્ટ શરૂ થાય તે પહેલા તે બેંગલુરુમાં સ્થિત BCCIના સેન્ટર ઓફ એક્સેલન્સમાં જોડાયો હતો. આ પછી ચાહકોને લાગતું હતું કે બુમરાહ IPL 2026માંથી બહાર થઈ શકે છે. જો કે, હવે મુંબઈ ઈન્ડિયન્સના ચાહકો માટે રાહતના સમાચાર સામે આવ્યા છે.",
@@ -457,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/will-jasprit-bumrah-play-in-ipl-2026-or-not-know-latest-fitness-update-470133 ",
     "time": "2026-03-25T16:07:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ઝટકો કે તક? સોના-ચાંદીના ભાવમાં ગાબડું, રોકાણ કે ખરીદી કરતાં પહેલા આ ખાસ જાણી લો",
-    "desc": "સોના-ચાંદીના ભાવમાં સપ્તાહના બીજા દિવસ એટલે કે મંગળવારે પણ ભાવમાં ઘટાડો જોવા મળ્યો. Comexથી લઈને MCX પર ભાવ જોઈને રોકાણકારોને ઝટકો લાગી રહ્યો છે. ચાંદીમાં હાલના ગગડેલા ભાવ જોઈએ તો એના હાઈવેલવથી 2.06 લાખ રૂપિયા ભાવ ઘટી ગયા છે. સોના -ચાંદીમાં હાઈલેવલે રોકાણ કરનારા પસ્તાઈ રહ્યાં છે. જ્યાં સુધી ડોલર ઊંચો છે ત્યાં સુધી સોના-ચાંદીના ભાવ વધે તેવી સંભાવના ઓછી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-continued-to-decline-today-know-this-before-investing-or-buying-470131 ",
-    "time": "2026-03-25T15:14:56.000Z"
   },
   {
     "cat": "World",
@@ -520,24 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/shane-warne-may-earn-his-family-rs-460-crore-how-unique-negotiation-after-rajasthan-royals-rs-15290-crore-470043 ",
     "time": "2026-03-25T07:01:53.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "નમવા તૈયાર નથી ઈરાન, ટ્રમ્પના શાંતિ પ્રસ્તાવ પર લગાવી કડક શરતો, ટોણો પણ માર્યો",
-    "desc": "યુનાઇટેડ સ્ટેટ્સ અને ઇરાન વચ્ચે તણાવ ચરમસીમાએ છે. ડોનાલ્ડ ટ્રમ્પના 15-મુદ્દાના શાંતિ પ્રસ્તાવના જવાબમાં, ઇરાને કડક શરતો મૂકી છે, જેમાં પ્રતિબંધો હટાવવા અને યુએસ લશ્કરી થાણાઓ બંધ કરવાનો સમાવેશ થાય છે. જાણો અમેરિકા અને ઇરાને એક બીજા સામે શું શરત રાખી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-not-ready-to-bow-down-imposes-strict-conditions-on-trump-peace-proposal-even-taunts-470040 ",
-    "time": "2026-03-25T06:40:07.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "દુનિયામાં પરમાણુ યુદ્ધનો ખતરો? શું સાચી પડવાની છે બાબા વેંગાની આ ડરામણી ભવિષ્યવાણી?",
-    "desc": "અમેરિકા, ઈઝરાયેલ અને ઈરાન વચ્ચે ચાલી રહેલા યુદ્ધે ખતરનાક સ્વરૂપ ધારણ કર્યું છે. હવે દુનિયા પર પરમાણુ યુદ્ધના વાદળો મંડરાઈ રહ્યા છે. આ સ્થિતિ વચ્ચે સોશિયલ મીડિયા પર બાબા વેંગાની ડરામણી ભવિષ્યવાણી વાયરલ થઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-israel-iran-war-is-there-a-threat-of-nuclear-war-in-the-world-is-this-scary-prophecy-of-baba-venga-coming-true-469994 ",
-    "time": "2026-03-24T17:08:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -673,15 +691,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/5-double-meaning-song-of-bollywood-90s-filmy-song-with-bad-lyrics-nora-fatehi-song-controversy-469077 ",
     "time": "2026-03-18T08:18:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આંખ ફોડવી, માથા પર હથોડા મારવા સહિતના સીન કપાયા, 21 સીન કપાયા પછી ફિલ્મનો રન ટાઈમ કેટલો હશે જાણો",
-    "desc": "રણવીર સિંહની ફિલ્મ ધુરંધર 2 જોવા માટે એકતરફ લોકો તલપાપડ છે. અને બીજી તરફ ફિલ્મની લંબાઈ ચર્ચાનો વિષય બની છે. સેન્સર બોર્ડે ધુરંધર 2 ફિલ્મના 21 સીન કટ કરાવ્યા છે. હવે આટલા સીન કટ થયા પછી ફિલ્મનો ખરેખર રન ટાઈમ કેટલો હશે ચાલો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-the-revenge-censor-board-cut-21-disturbing-scene-what-is-actual-runtime-of-dhurandhar-2-film-469049 ",
-    "time": "2026-03-18T03:53:28.000Z"
   },
   {
     "cat": "Tech",

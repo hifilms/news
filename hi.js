@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mitchell Starc slams media speculation, shares update on joining DC for IPL 2026",
+    "desc": "Delhi Capitals pacer Mitchell Starc blasted at media narratives, informing that he is currently managing shoulder and elbow injuries. Earlier, head coach Hemang Badani, in a press conference, shared that the veteran is training in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-slams-media-speculation-shares-update-on-joining-dc-for-ipl-2026-2026-03-28-1035424",
+    "time": "2026-03-28T11:18:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh softens stance, lifts IPL broadcast restrictions amid improving ties with BCCI",
+    "desc": "Bangladesh has reversed its earlier stance on televising the Indian Premier League (IPL). The decision was confirmed on Saturday, March 28, by Information and Broadcasting Minister Zahir Uddin Swapan during a media briefing. The change comes...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-softens-stance-lifts-ipl-broadcast-restrictions-amid-improving-ties-with-bcci-2026-03-28-1035419",
+    "time": "2026-03-28T10:29:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Royal Challengers Bengaluru vs Sunrisers Hyderabad head-to-head record ahead of IPL 2026 season opener",
     "desc": "The IPL (Indian Premier League) 2020 kicks off with defending champions Royal Challengers Bengaluru taking on Sunrisers Hyderabad. The two sides will lock horns at the M Chinnaswamy Stadium on March 28. It is worth...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/srh-coach-shares-major-update-on-pat-cummins-fitness-ahead-of-ipl-2026-opener-vs-rcb-2026-03-27-1035376",
     "time": "2026-03-27T17:59:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Santner, Will Jacks yet to link up with Mumbai Indians camp for IPL 2026, Jasprit Bumrah joins squad",
-    "desc": "Ace pacer Jasprit Bumrah has joined the Mumbai Indians squad ahead of their blockbuster clash against Kolkata Knight Riders at the Wankhede Stadium on March 29. The star bowler recently checked into BCCI’s Centre of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-santner-will-jacks-yet-to-link-up-with-mumbai-indians-camp-for-ipl-2026-jasprit-bumrah-joins-squad-2026-03-27-1035373",
-    "time": "2026-03-27T17:33:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli, Rohit Sharma or MS Dhoni, who will have better IPL? Aakash Chopra analyses",
-    "desc": "Since the back-to-back ducks in the ODIs against Australia, Virat Kohli has staged a remarkable turnaround, re-establishing himself as one of India’s most consistent performers. However, it has been over two months since the 37-year-old...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-rohit-sharma-or-ms-dhoni-who-will-have-better-ipl-aakash-chopra-analyses-2026-03-27-1035369",
-    "time": "2026-03-27T16:33:55.000Z"
   }
 ];

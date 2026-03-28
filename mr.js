@@ -7,14 +7,5 @@ const newsData_mr = [
     "src": "abplive.com",
     "url": "https://marathi.abplive.com/videos/news/trending-news-central-government-reduce-excise-duty-on-petrol-and-diesel-1417854",
     "time": "2026-03-27T06:52:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "मोठी बातमी! नरहरी झिरवळ यांना राष्ट्रवादी पक्षाकडून अभय",
-    "desc": "आखाती देशात सुरु असलेल्या युद्धाच्या पार्श्वभूमीवर आज भारतात महत्त्वाची बैठक होणार आहे. आज नैसर्गिक आणि पेट्रोलियम गॅससंदर्भात महत्त्वाची बैठक होणार आहे. पंतप्रधान नरेंद्र मोदी (Narendra Modi) सर्व राज्यातील मुख्यमंत्र्यांसोबत व्हिडीओ कॉन्फरन्सिंगद्वारे चर्चा करणार आहेत. आज सायंकाळी 6.30 वाजता ही महत्त्वपूर्ण बैठक होणार आहे. प्रत्येक राज्यातील सध्याचा इंधन पुरवठा यासंदर्भात या बैठकीमध्ये चर्चा होणार असल्याची माहिती आहे. भविष्यातील उपाययोजनांसंदर्भात या बैठकीत चर्चा होणार आहे.",
-    "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/27/d68cec83d38fd01e01bec3b9f30ef3a51774575813014987_original.jpg",
-    "src": "abplive.com",
-    "url": "https://marathi.abplive.com/crime/maharashtra-live-blog-updates-27-march-2026-ashok-kharat-nashik-news-devendra-fadnavis-eknath-shinde-sunetra-pawar-maharashtra-politics-petrol-diesel-shortage-india-donald-trump-iran-israel-america-war-1417798",
-    "time": "2026-03-27T01:54:10.000Z"
   }
 ];
