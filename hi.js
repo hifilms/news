@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Haven't had a moment to stop': Aryna Sabalenka opens up after defeating Coco Gauff in Miami Open final",
+    "desc": "Belarus’ Aryna Sabalenka extended her stay at the number one spot in the WTA rankings after she defeated Coco Gauff in the summit clash of the Miami Open 2026. She re-established herself as one of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/haven-t-had-a-moment-to-stop-aryna-sabalenka-opens-up-after-defeating-coco-gauff-in-miami-open-final-2026-03-29-1035505",
+    "time": "2026-03-29T08:44:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I find him quite bizarre': R Ashwin gives his take on Virat Kohli's knock against Sunrisers Hyderabad",
+    "desc": "Defending IPL (Indian Premier League) champions Royal Challengers Bengaluru put in a brilliant performance against Sunrisers Hyderabad in game 2 of the tournament. The two sides locked horns at the M Chinnaswamy Stadium in Bengaluru,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-find-him-quite-bizarre-r-ashwin-gives-his-take-on-virat-kohli-s-knock-against-sunrisers-hyderabad-2026-03-29-1035503",
+    "time": "2026-03-29T08:16:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will weather in Mumbai fare for IPL 2026 game 2?",
+    "desc": "Game 2 of the ongoing IPL (Indian Premier League) 2026 sees Mumbai Indians taking on Kolkata Knight Riders. The two sides are set to lock horns at the Wankhede Stadium in Mumbai on March 29....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-kkr-weather-report-how-will-weather-in-mumbai-fare-for-ipl-2026-game-2-2026-03-29-1035501",
+    "time": "2026-03-29T07:38:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "T20 World Cup has brought joy to the nation, says PM Modi, congratulates J-K after Ranji victory",
     "desc": "The 132nd episode of Prime Minister Narendra Modi’s monthly radio show 'Mann Ki Baat' aired on March 29. In the new episode, the Prime Minister addressed a plethora of topics, with one of them being...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rcb-create-history-with-commanding-win-over-sunrisers-hyderabad-in-ipl-2026-opener-2026-03-28-1035459",
     "time": "2026-03-28T18:09:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB make statement of intent, hammer SRH in IPL 2026 season opener; Kohli, Padikkal, Duffy dominate",
-    "desc": "Royal Challengers Bengaluru defeated Sunrisers Hyderabad by six wickets in the IPL 2026 opener at the M Chinnaswamy Stadium. The match carried emotional significance as cricket returned to the venue nearly a year after the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-make-statement-of-intent-hammer-srh-in-ipl-2026-season-opener-kohli-padikkal-duffy-dominate-2026-03-28-1035457",
-    "time": "2026-03-28T17:34:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Phil Salt grabs one-handed stunner to end Ishan Kishan's stay in IPL 2026 opener",
-    "desc": "Royal Challengers Bengaluru opener Phil Salt grabbed a stunning one-handed catch to end Ishan Kishan’s stay in the IPL 2026 opener at the M Chinnaswamy Stadium. The Sunrisers Hyderabad captain proved to be a one-man...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-grabs-one-handed-stunner-to-end-ishan-kishan-s-stay-in-ipl-2026-opener-watch-2026-03-28-1035449",
-    "time": "2026-03-28T15:41:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravichandran Ashwin signs for MLC team, ready to help USA cricket before 2028 Olympics",
-    "desc": "Former India cricketer Ravichandran Ashwin has signed for San Francisco Unicorns in the Major League Cricket. The off-spinner, who stepped away from international cricket in December 2024 and later concluded his IPL journey following the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-signs-for-mlc-team-ready-to-help-usa-cricket-before-2028-olympics-2026-03-28-1035446",
-    "time": "2026-03-28T15:25:04.000Z"
   }
 ];
