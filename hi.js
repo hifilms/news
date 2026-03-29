@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "T20 World Cup has brought joy to the nation, says PM Modi, congratulates J-K after Ranji victory",
+    "desc": "The 132nd episode of Prime Minister Narendra Modi’s monthly radio show 'Mann Ki Baat' aired on March 29. In the new episode, the Prime Minister addressed a plethora of topics, with one of them being...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mann-ki-baat-t20-world-cup-has-brought-joy-to-the-nation-says-pm-modi-congratulates-j-k-after-ranji-victory-2026-03-29-1035496",
+    "time": "2026-03-29T06:56:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Wankhede Stadium in Mumbai play in IPL 2026?",
+    "desc": "The stage is set for game 2 of the ongoing IPL (Indian Premier League) 2026. Five-time champions Mumbai Indians will take on three-time winners Kolkata Knight Riders. The two sides will lock horns at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-kkr-pitch-report-how-will-surface-at-wankhede-stadium-in-mumbai-play-in-ipl-2026-2026-03-29-1035485",
+    "time": "2026-03-29T05:25:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'He is at his peak': RCB skipper hails ace batter Virat Kohli after thumping victory over SRH",
     "desc": "The IPL (Indian Premier League) 2026 kicked off with Royal Challengers Bengaluru registering a brilliant victory against Sunrisers Hyderabad. The two sides locked horns at the M Chinnaswamy Stadium in Bengaluru on March 28 for...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-signs-for-mlc-team-ready-to-help-usa-cricket-before-2028-olympics-2026-03-28-1035446",
     "time": "2026-03-28T15:25:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Jasprit Bumrah play in Mumbai Indians' IPL 2026 opener vs KKR? Head coach shares update",
-    "desc": "Mumbai Indians have confirmed that star pacer Jasprit Bumrah is available for the IPL 2026 opener against Kolkata Knight Riders at the Wankhede Stadium. Earlier in the week, Bumrah reported to BCCI’s Centre of Excellence,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-jasprit-bumrah-play-in-mumbai-indians-ipl-2026-opener-vs-kkr-head-coach-shares-update-2026-03-28-1035445",
-    "time": "2026-03-28T14:47:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are RCB players wearing black armbands in IPL 2026 opener vs Sunrisers Hyderabad in Bengaluru?",
-    "desc": "Royal Challengers Bengaluru (RCB) players wore black armbands during their IPL 2026 opener against Sunrisers Hyderabad at the M. Chinnaswamy Stadium. The move was to pay honour to the 11 people who lost their lives...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-rcb-players-wearing-black-armbands-in-ipl-2026-opener-vs-sunrisers-hyderabad-in-bengaluru-2026-03-28-1035440",
-    "time": "2026-03-28T14:10:45.000Z"
   }
 ];
