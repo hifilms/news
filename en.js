@@ -1,12 +1,192 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Erosion of public trust in journalism a major concern, says Union Minister Pemmasani Chandra Sekhar",
-    "desc": "Credibility can only be restored through fact-based, data-driven reporting, clear separation of news and opinion, and strong ethical practices, he says, while underscoring the need for fair salaries, healthcare and financial stability for maintaining independent and fearless journalism",
-    "img": "https://th-i.thgim.com/public/incoming/mrlaum/article70800155.ece/alternates/LANDSCAPE_1200/DSC_0640.JPG",
+    "title": "Promises delivered and undelivered during 5 years of DMK government",
+    "desc": "The govt. introduced schemes that did not figure in its manifesto, even while delivering key assurances such as Kalaignar Magalir Urimai Thittam and free bus travel; but it has not formulated the Higher Education policy, set up Kalaignar Canteens or created special courts for corruption cases",
+    "img": "https://th-i.thgim.com/public/incoming/rg5mqq/article70800550.ece/alternates/LANDSCAPE_1200/2501_13_3_2021_12_47_38_3_0CB37A9F_7ECE_486A_B965_A3AEC9FFAE0A.JPEG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/erosion-of-public-trust-in-journalism-a-major-concern-says-union-minister-pemmasani-chandra-sekhar/article70799917.ece",
-    "time": "2026-03-29T15:24:51.000Z"
+    "url": "https://www.thehindu.com/news/national/promises-delivered-and-undelivered-during-5-years-of-dmk-government/article70800551.ece",
+    "time": "2026-03-29T18:34:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Poll promises may hit the coffers hard",
+    "desc": "While campaigning, LDF is highlighting welfare measures such as increased pensions and monthly wages implemented by the government. UDF has promised five basic ‘welfare guarantees,’ including raising welfare pensions to ₹3,000 if it comes to power. Experts question the rationale of such promises, given the huge cost involved in implementing and sustaining them",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-poll-promises-may-hit-the-coffers-hard/article70799420.ece",
+    "time": "2026-03-29T18:31:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘A double-engine govt. will de-risk people from  political conflicts that hurt their development’: Rajeev Chandrasekhar",
+    "desc": "If a State government has ‘24x7 animosity towards the Centre, the people will suffer’, says Kerala BJP president Rajeev Chandrasekhar; calling the party’s performance in the 2025 local body elections in the State a ‘big jump forward’, he slams ‘fake narratives’ against the BJP among minorities",
+    "img": "https://th-i.thgim.com/public/incoming/ijdb1k/article70800539.ece/alternates/LANDSCAPE_1200/NH28RajeevChandrasekhar03.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/a-double-engine-govt-will-de-risk-people-from-political-conflicts-that-hurt-their-development-rajeev-chandrasekhar/article70799213.ece",
+    "time": "2026-03-29T18:22:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma, Rickelton fire MI to record chase, ending 13-year jinx",
+    "desc": "Mumbai Indians shattered their opening match losing streak, chasing down KKR's 220 with a six-wicket victory. Rickelton and Rohit Sharma's explosive 148-run stand powered the chase. Despite KKR's strong batting performance, including fifties from Rahane and Raghuvanshi, MI's bowlers, led by Shardul Thakur, managed to restrict them. This win marks a significant start for MI in IPL 2026.",
+    "img": "https://static.toiimg.com/photo/msid-129885613,imgsize-840777.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-rohit-sharma-rickelton-fire-mi-to-record-chase-ending-13-year-jinx/articleshow/129885542.cms",
+    "time": "2026-03-29T18:14:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Report highlights steps taken to mitigate risks posed by offshore Virtual Asset Service Providers",
+    "desc": "Listing the measures taken by India, the report said that the FIU has set up a dedicated Working Group with local VASPs and other stakeholders, such as banks, payment aggregators, and gateways, to formulate red flag indicators and develop strategies to detect and address operations of oVASPs serving Indian users",
+    "img": "https://th-i.thgim.com/public/incoming/2s0i1y/article70800608.ece/alternates/LANDSCAPE_1200/IMG_-__-_PAKISTAN-MONEYL_2_1_EU9TQA3R.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/report-highlights-steps-taken-to-mitigate-risks-posed-by-offshore-virtual-asset-service-providers/article70799962.ece",
+    "time": "2026-03-29T18:08:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyadarshan clarifies ‘poor education’ remark on Rajpal Yadav",
+    "desc": "Filmmaker Priyadarshan has addressed the controversy surrounding his “education” remark about Rajpal Yadav, clarifying that his comment was misunderstood and was never meant to question the actor’s academic background. The remark had sparked debate earlier, especially at a time when Rajpal Yadav was in the news for his Rs 9 crore cheque-bounce case and legal troubles.",
+    "img": "https://static.toiimg.com/photo/msid-129885306,imgsize-99714.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-clarifies-poor-education-remark-on-rajpal-yadav-was-about-exposure-not-schooling-he-was-never-hurt-or-worried/articleshow/129885306.cms",
+    "time": "2026-03-29T17:59:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhurandhar 2 fame Sara Arjun turns heads at Wankhede for MI vs KKR",
+    "desc": "Actress Sara Arjun graced the Wankhede Stadium with her family, witnessing Mumbai Indians' thrilling six-wicket IPL victory over Kolkata Knight Riders. This win marked MI's first opening-game success since 2012, fueled by stellar performances from Rohit Sharma and Ryan Rickelton. KKR's strong total was overcome by MI's dominant batting, delighting fans and celebrity guests alike.",
+    "img": "https://static.toiimg.com/photo/msid-129884868,imgsize-1014399.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/dhurandhar-2-fame-sara-arjun-turns-heads-at-wankhede-for-mi-vs-kkr-watch/articleshow/129884941.cms",
+    "time": "2026-03-29T17:54:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: TVK promises free education loans, unemployment allowance and incentives for firms that employ Tamil workers",
+    "desc": "Internship opportunities with stipend, schemes for entrepreneurs, and the establishment of a youth advisory council are among the other promises announced by TVK president C. Joseph Vijay before releasing the candidate list for the Assemble election in Chennai",
+    "img": "https://th-i.thgim.com/public/incoming/9xbmin/article70800573.ece/alternates/LANDSCAPE_1200/PTI03_29_2026_000054A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-tvk-promises-free-education-loans-unemployment-allowance-and-incentives-for-firms-that-employ-tamil-workers/article70799780.ece",
+    "time": "2026-03-29T17:48:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DMK promises homemakers ₹8,000 coupon for buying home appliances of their choice",
+    "desc": "Illatharasi scheme will allow homemakers to buy or replace household appliances. It will be the “heroine” of the 2026 election, says DMK president and Chief Minister M.K. Stalin. The manifesto also proposes to extend the Chief Minister’s Breakfast Scheme up to Class 8",
+    "img": "https://th-i.thgim.com/public/incoming/i2bptz/article70800501.ece/alternates/LANDSCAPE_1200/4871_29_3_2026_20_19_36_1_DSC_5288.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-elections-2026-dmk-election-manifesto/article70799667.ece",
+    "time": "2026-03-29T17:19:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What is the Maharashtra Freedom of Religion Bill?",
+    "desc": "How does the 60-day notice requirement work? Who can file a complaint under the law? What penalties does the Bill prescribe for violations? When can a marriage be declared null and void? Why have civil rights groups raised concerns? How has the State justified the need for the law?",
+    "img": "https://th-i.thgim.com/public/incoming/jsdqt3/article70800505.ece/alternates/LANDSCAPE_1200/PTI03_11_2026_000328B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/what-is-the-maharashtra-freedom-of-religion-bill-explained/article70799325.ece",
+    "time": "2026-03-29T17:18:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma scripts history with 50th IPL fifty, joins Virat Kohli in elite list",
+    "desc": "Rohit Sharma's magnificent 78 off 39 balls powered Mumbai Indians' chase against KKR, marking his 50th IPL half-century. He partnered with Ryan Rickelton for a record 148-run opening stand, setting the tone for a strong pursuit of KKR's 221. Despite falling short of a century, Sharma's innings was crucial in keeping MI ahead of the required rate.",
+    "img": "https://static.toiimg.com/photo/msid-129884303,imgsize-152182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rohit-sharma-scripts-history-with-50th-ipl-fifty-joins-virat-kohli-in-elite-list/articleshow/129884306.cms",
+    "time": "2026-03-29T17:14:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Dalal Street heads for holiday-shortened week amid Mahavir Jayanti, Good Friday",
+    "desc": "Indian stock markets face a shortened trading week with closures on Tuesday, March 31, for Mahavir Jayanti and Friday, April 3, for Good Friday. This marks the end of the financial year on a holiday. Commodity traders on MCX will have a partial opening on Mahavir Jayanti but will be fully closed on Good Friday.",
+    "img": "https://static.toiimg.com/photo/msid-129884413,imgsize-110832.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holidays-dalal-street-heads-for-holiday-shortened-week-amid-mahavir-jayanti-good-friday/articleshow/129884289.cms",
+    "time": "2026-03-29T17:12:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Closed-door meeting at CM’s house on the eve of Nitish Kumar’s likely resignation",
+    "desc": "Sources say some senior JD(U) leaders pleaded with Mr. Kumar to stay in Bihar politics; BJP national president Nitin Nabin was also scheduled to resign as an MLA, but postponed it at the last minute",
+    "img": "https://th-i.thgim.com/public/incoming/e74vq/article70800457.ece/alternates/LANDSCAPE_1200/20260325202L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/closed-door-meeting-at-cms-house-on-the-eve-of-nitish-kumars-likely-resignation/article70799993.ece",
+    "time": "2026-03-29T16:55:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israeli police block Catholic cardinal from Jerusalem's Holy Sepulchre on Palm Sunday",
+    "desc": "Cardinal Pierbattista Pizzaballa ⁠and Friar Francesco Ielpo were stopped by police while walking to the church, built on the site where Christians believe Jesus was crucified and rose from the dead, the Latin Patriarchate of Jerusalem said",
+    "img": "https://th-i.thgim.com/public/incoming/5nbv6i/article70800437.ece/alternates/LANDSCAPE_1200/2026-03-29T163026Z_1665451742_RC2CEKARD9YY_RTRMADP_3_RELIGION-EASTER-JERUSALEM-PALM-SUNDAY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israeli-police-block-catholic-cardinal-from-jerusalems-holy-sepulchre-on-palm-sunday/article70800428.ece",
+    "time": "2026-03-29T16:48:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shirani of 'Dhurandhar' calls director 'Aditya DhuranDHAR'",
+    "desc": "Actor Bimal Oberoi, who plays Shirani in Aditya Dhar's 'Dhurandhar' films, shared his journey to bagging the pivotal role. He lauded director Aditya Dhar's exceptional craft and vision, comparing the film to industry benchmarks. Oberoi highlighted Dhar's ability to assemble a talented team and seamlessly integrate diverse musical elements, calling him a true 'Dhurandhar' director. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129883728,imgsize-91232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bimal-oberoi-who-played-shirani-in-dhurandhar-the-revenge-says-directors-name-should-be-aditya-dhurandhar-exclusive/articleshow/129883728.cms",
+    "time": "2026-03-29T16:39:58.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "China protests U.S. alert over security rules change in Hong Kong",
+    "desc": "Hong Kong this month ​amended its enforcement rules for the national security regime, making ⁠it an offence in national security cases to refuse to provide ‌passwords or other decryption assistance to access an electronic device",
+    "img": "https://th-i.thgim.com/public/incoming/tf9psd/article70800400.ece/alternates/LANDSCAPE_1200/iStock-1199877228.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/china-protests-us-alert-over-security-rules-change-in-hong-kong/article70800373.ece",
+    "time": "2026-03-29T16:38:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "KPMG UK puts nearly 600 audit jobs at risk as cost pressure deepens",
+    "desc": "KPMG UK is cutting nearly 600 roles in its audit division and around 120 in advisory, citing tougher market conditions and unusually low staff turnover. The proposed redundancies, potentially affecting up to 440 audit staff, aim to right-size operations. This move highlights broader cost-cutting pressures across professional services firms.",
+    "img": "https://static.toiimg.com/photo/msid-129883725,imgsize-93722.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/kpmg-uk-puts-nearly-600-audit-jobs-at-risk-as-cost-pressure-deepens-advisory-cuts-also-hit/articleshow/129883629.cms",
+    "time": "2026-03-29T16:31:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TVK chief Vijay to make electoral debut from Perambur, Tiruchi East; prominent faces in Chennai",
+    "desc": "TVK general secretary ‘Bussy’ N. Anand will contest from T. Nagar in Chennai, while K.A. Sengottaiyan will test the waters from his home turf, Gobichettipalayam. Aadhav Arjuna will contest from Villivakkam, K.G. Arunraaj from Tiruchengode and C.T.R. Nirmal Kumar from Thirupparankundram.",
+    "img": "https://th-i.thgim.com/public/incoming/87vkjb/article70800293.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-29%20at%2020.19.13.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-to-contest-from-perambur-tiruchi-east-constituencies-making-electoral-debut-in-tn-assembly-election-2026/article70798908.ece",
+    "time": "2026-03-29T16:27:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyadarshan recalls Aditya Dhar’s struggles, defends Dhurandhar",
+    "desc": "Veteran filmmaker Priyadarshan has opened up about Aditya Dhar’s early struggles in the industry, while also weighing in on the “propaganda” debate surrounding his Dhurandhar films. Addressing criticism around Dhar’s Dhurandhar franchise starring Ranveer Singh, Priyadarshan dismissed the “propaganda” label.",
+    "img": "https://static.toiimg.com/photo/msid-129883392,imgsize-58406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-recalls-aditya-dhars-struggles-defends-dhurandhar-propaganda-debate-if-majority-of-india-has-accepted-it-/articleshow/129883392.cms",
+    "time": "2026-03-29T16:10:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "America is not winning Iran war; a ground attack would be complete insanity: Trita Parsi",
+    "desc": "“I think they can probably withstand this war for six months to a year, probably longer than they themselves thought at the beginning of this war. But I don’t think that would be good for them at all,” Mr. Tripti says",
+    "img": "https://th-i.thgim.com/public/incoming/x4n47x/article70800089.ece/alternates/LANDSCAPE_1200/Trita-Parsi.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trita-parsi-interview-us-israel-iran-conflict-war-complexities/article70799394.ece",
+    "time": "2026-03-29T15:56:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma shell-shocked after dropping sitter off Raghuvanshi",
+    "desc": "Rohit Sharma dropped a crucial catch off Angkrish Raghuvanshi's bat during the Mumbai Indians vs. Kolkata Knight Riders IPL 2026 clash. The costly miss allowed Raghuvanshi to continue his impressive innings, contributing significantly to KKR's formidable total of 220. This fielding lapse, among others, highlighted MI's struggles as KKR dominated the match.",
+    "img": "https://static.toiimg.com/photo/msid-129883193,imgsize-1521750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-rohit-sharma-shell-shocked-after-dropping-sitter-off-raghuvanshi-watch/articleshow/129883196.cms",
+    "time": "2026-03-29T15:54:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -18,24 +198,6 @@ const newsData_en = [
     "time": "2026-03-29T15:09:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "MGNREGA workers denied work despite Centre’s assurance of continuity",
-    "desc": "From Bihar to Rajasthan, thousands of rural workers say work has been halted; some district officials say they have been directed not to start new works as MGNREGA has been discontinued, though there are no such formal orders",
-    "img": "https://th-i.thgim.com/public/incoming/cze857/article70799916.ece/alternates/LANDSCAPE_1200/TH29-Sobhana-EcG3QFGOBHA.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/mgnrega-workers-denied-work-despite-centres-assurance-of-continuity/article70799564.ece",
-    "time": "2026-03-29T14:37:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pedda Peta Ram Mandir closed",
-    "desc": "The police have intensified the search for the 37 accused who absconded; Charges of criminal conspiracy, attempt to murder and promoting enmity and hatred among the locals charged against 58 accused involved in the clash.",
-    "img": "https://th-i.thgim.com/public/incoming/1p6djx/article70799889.ece/alternates/LANDSCAPE_1200/10237_28_3_2026_19_23_24_1_VARMA.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/akiveedu-attack-pedda-peta-ram-mandir-closed/article70799406.ece",
-    "time": "2026-03-29T14:34:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sunil Narine scripts history, etches name in IPL record books",
     "desc": "Sunil Narine has set a new IPL record. He is now the overseas player with the most appearances in the tournament's history. Narine achieved this milestone in his 190th match for Kolkata Knight Riders. He surpassed Kieron Pollard's previous record. Narine has been a consistent performer for KKR since his debut in 2012.",
@@ -45,33 +207,6 @@ const newsData_en = [
     "time": "2026-03-29T14:33:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Its a fight between youth and experience at Eravipuram",
-    "desc": "RSP’s young candidate Vishnu Mohan is contesting against sitting MLA and LDF candidate M. Noushad and NDA’s Saji D. Anand, a veteran who spent decades within the RSP before his recent exit following internal feuds",
-    "img": "https://th-i.thgim.com/public/incoming/lrtzwp/article70799682.ece/alternates/LANDSCAPE_1200/80686_28_3_2026_19_45_18_1_29TVKO_LDFCANDIDATE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-its-a-fight-between-youth-and-experience-at-eravipuram/article70793236.ece",
-    "time": "2026-03-29T14:26:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Divergent campaign strategies mark the race in Kalpetta",
-    "desc": "UDF, LDF and NDA candidates proceed with outwardly contrasting campaigns, one structured and emotive, one rooted in familiarity, and one quietly personal, each vying to connect with over two lakh voters in their own way",
-    "img": "https://th-i.thgim.com/public/incoming/o4v7el/article70799840.ece/alternates/LANDSCAPE_1200/80692_29_3_2026_15_53_52_1_30TVKZUDF1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-2026-divergent-campaign-strategies-mark-the-race-in-kalpetta/article70799232.ece",
-    "time": "2026-03-29T14:26:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TVK chief Vijay to make electoral debut from Perambur, Tiruchi East; prominent faces in Chennai",
-    "desc": "TVK general secretary ‘Bussy’ N. Anand will contest from T. Nagar in Chennai, while K.A. Sengottaiyan will test the waters from his home turf, Gobichettipalayam. Aadhav Arjuna will contest from Villivakkam, K.G. Arunraaj from Tiruchengode and C.T.R. Nirmal Kumar from Thirupparankundram.",
-    "img": "https://th-i.thgim.com/public/news/international/g7omdg/article70798924.ece/alternates/LANDSCAPE_1200/TVK.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-to-contest-from-perambur-tiruchi-east-constituencies-making-electoral-debut-in-tn-assembly-election-2026/article70798908.ece",
-    "time": "2026-03-29T14:13:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Priyadarshan on Akshaye, Salman, Govinda being difficult",
     "desc": "Veteran filmmaker Priyadarshan has opened up about his working equation with actors, stressing that understanding individuals is key to a smooth collaboration. The director had high praise for Akshaye Khanna, calling him “a complete actor” and someone he shares a strong rapport with. Backing his stance with examples, the director spoke about working with stars like Salman Khan and Govinda, both of whom are often labelled as unpredictable.",
@@ -79,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-reveals-whether-akshaye-khanna-salman-khan-govinda-were-difficult-to-work-with-dont-try-to-change-actors-accept-them/articleshow/129881863.cms",
     "time": "2026-03-29T14:04:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "In Vellore Assembly constituency, residents are unhappy over tardy work under Smart Cities Mission project",
-    "desc": "A resident complains that work done under the project drains the taxpayers’ money; other issues that plague the Vellore constituency include improper re-laying of damages stretches that lead to waterlogging during rain and traffic rule violations",
-    "img": "https://th-i.thgim.com/public/incoming/rli8qq/article70797222.ece/alternates/LANDSCAPE_1200/9712_28_3_2026_18_34_24_1__DSC6161.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-2026-in-vellore-assembly-constituency-residents-are-unhappy-over-tardy-work-under-smart-cities-mission-project/article70796249.ece",
-    "time": "2026-03-29T13:59:16.000Z"
   },
   {
     "cat": "Business",
@@ -361,33 +487,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Abhijeet Ghoshal compares new song to BTS and BLACKPINK",
-    "desc": "Vibrant artist Abhijeet Ghoshal has expertly transformed the sacred Hanuman Chalisa into a catchy 'Clubmix' version, merging its classic spiritual lyrics with a pulsating rap flow and upbeat rhythms. He argues that this exciting fusion speaks to a new generation’s musical preferences, akin to the chart-topping styles of BTS and BLACKPINK.",
-    "img": "https://static.toiimg.com/photo/msid-129877563,imgsize-107030.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/our-hanuman-chalisa-club-mix-is-even-more-interesting-than-bts-or-blackpink-abhijeet-ghoshal-makes-a-bold-claim-the-internet-reacts/articleshow/129877563.cms",
-    "time": "2026-03-29T08:11:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kartik sports rugged look in leaked pics from Anurag Basu's film",
-    "desc": "Stunning images leaked from a scenic Srinagar set have fans abuzz, featuring Kartik Aaryan and Sreeleela hard at work on Anurag Basu's upcoming film. Caught in candid moments between shots, the pair brings a spark of chemistry against the breathtaking backdrop of Kashmir, which seems poised to play a pivotal role in the film's narrative. Read on to know more in detail..",
-    "img": "https://static.toiimg.com/photo/msid-129877468,imgsize-111922.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kartik-aaryan-sports-rugged-long-hair-and-a-beard-in-leaked-pictures-from-the-anurag-basu-films-kashmir-schedule-reports/articleshow/129877468.cms",
-    "time": "2026-03-29T08:11:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "5 players to watch out for",
-    "desc": "Mumbai Indians face Kolkata Knight Riders in their IPL 2026 opener at Wankhede. MI aim to end their title drought, while KKR seek a comeback. Key players include Rohit Sharma, Suryakumar Yadav, and Mitchell Santner for MI, alongside Sunil Narine and Blessing Muzarabani for KKR, who could play decisive roles in this high-stakes clash.",
-    "img": "https://static.toiimg.com/photo/msid-129877560,imgsize-86120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-mi-vs-kkr-5-players-to-watch-out-for/articleshow/129877231.cms",
-    "time": "2026-03-29T08:08:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Gopichand Malineni shuts down 'NBK111' casting rumours",
     "desc": "Director Gopichand Malineni has humorously denied casting rumors for Dimple Hayathi in Nandamuri Balakrishna's upcoming film 'NBK111'. He used a Mahesh Babu meme to shut down the speculation. Nayanthara is expected to play the female lead. The film is set in Mumbai with Balakrishna as a gangster. Samuthirakani is also part of the cast. Thaman is composing the music.",
     "img": "https://static.toiimg.com/photo/msid-129877179,imgsize-101060.cms",
@@ -405,17 +504,8 @@ const newsData_en = [
     "time": "2026-03-29T07:16:54.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Tough call’: Sam Curran reveals injury that forced IPL 2026 withdrawal",
-    "desc": "England all-rounder Sam Curran has revealed his withdrawal from IPL 2026 was due to a groin injury that had been worsening. He admitted the issue, carried through the T20 World Cup, required a \"tough decision\" after scans confirmed significant damage. Curran is now focused on rehabilitation in England, with his return timeline uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-129876961,imgsize-83586.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-news-tough-call-sam-curran-reveals-injury-that-forced-ipl-2026-withdrawal/articleshow/129876956.cms",
-    "time": "2026-03-29T07:02:52.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 11 [LIVE]: Ranveer Singh film crosses Rs 836 crore net",
+    "title": "'Dhurandhar 2' BO day 11 [LIVE]: Ranveer Singh film smashes 'Dhurandhar 1's record",
     "desc": "The Revenge' is making history with every passing day at the Indian box office. Directed by Aditya Dhar and starring Ranveer Singh, the espionage thriller has crossed Rs. 790 crore in India net after eleven days, becoming only the third Hindi film ever to breach the Rs. 800 crore domestic net mark. The film is now chasing the lifetime record of its predecessor, 'Dhurandhar,' which stands at Rs. 894.49 crore — a milestone that could fall within the current week. Globally, the film is tracking past Rs. 1,079 crore and closing in on Rs. 1,200 crore worldwide, which would place it among the top three highest-grossing Indian films of all time.",
     "img": "https://static.toiimg.com/photo/msid-129876781,imgsize-118678.cms",
     "src": "indiatimes.com",
@@ -430,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/two-year-ban-not-working-sunil-gavaskar-calls-for-stricter-ipl-pullout-rules/articleshow/129876608.cms",
     "time": "2026-03-29T06:27:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘We weren’t disciplined’: Vettori comes down hard on SRH bowlers after loss",
-    "desc": "Sunrisers Hyderabad head coach Daniel Vettori described his team's bowling effort in their IPL 2026 opener as \"one of our poorer performances\" after a six-wicket loss to Royal Challengers Bengaluru. Despite posting 201/9, SRH struggled to contain RCB's batting, with Vettori citing missed lengths and a lack of discipline as key issues.",
-    "img": "https://static.toiimg.com/photo/msid-129876292,imgsize-164634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/we-werent-disciplined-vettori-comes-down-hard-on-srh-bowlers-after-loss-to-rcb/articleshow/129876286.cms",
-    "time": "2026-03-29T05:52:37.000Z"
   },
   {
     "cat": "Sports",
@@ -457,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/saudi-arabia-pumps-7-million-bpd-via-east-west-pipeline-amid-hormuz-disruption/articleshow/129875927.cms",
     "time": "2026-03-29T05:17:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli surpasses Pakistan batter to become Asia’s top T20 run-scorer",
-    "desc": "Virat Kohli has etched his name in T20 history, becoming the Asian batter with the most runs, surpassing Shoaib Malik. Achieving this feat in the IPL opener, Kohli's unbeaten 69 guided RCB to victory. He attributed his sustained performance to careful workload management and a commitment to team success, highlighting his enduring impact on the game.",
-    "img": "https://static.toiimg.com/photo/msid-129875974,imgsize-94562.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-surpasses-pakistan-batter-to-become-asias-top-t20-run-scorer/articleshow/129875923.cms",
-    "time": "2026-03-29T05:14:19.000Z"
   },
   {
     "cat": "World",
@@ -639,15 +711,6 @@ const newsData_en = [
     "time": "2026-03-28T07:59:26.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump says ‘Cuba is next’ in speech touting U.S. military successes",
-    "desc": "While the President did not ‌specify what precisely he plans to do with the island nation, he ‌has frequently said he believes the government ‌in ⁠Havana, facing a severe economic crisis, ⁠is on the verge of collapse",
-    "img": "https://th-i.thgim.com/public/incoming/snz86v/article70795467.ece/alternates/LANDSCAPE_1200/2026-03-27T213852Z_141731673_RC29DKA8P51E_RTRMADP_3_USA-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-says-cuba-is-next-in-speech-touting-us-military-successes/article70795408.ece",
-    "time": "2026-03-28T07:21:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How did I become a coach and Carlsen’s second? I got too weak as a player: Jan Gustafsson",
     "desc": "Gustafsson has lived in many corners of the chess world. In addition to discussing his various experiences in the game, he also talks in this interview about the Candidates, which begins on Sunday, and the rise of German chess",
@@ -655,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/jan-gustafsson-interview-magnus-carlsen-coach-candidates-chess-analysis/article70795306.ece",
     "time": "2026-03-28T07:06:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Delhi-NCR gets new airport",
-    "desc": "Prime Minister Narendra Modi inaugurated Phase I of the Noida International Airport, a significant addition to India's aviation infrastructure. Developed under a PPP model, this airport aims to enhance regional and international connectivity for the NCR, easing pressure on existing facilities and supporting India's global aviation ambitions.",
-    "img": "https://static.toiimg.com/photo/msid-129860493,imgsize-167352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/noida-international-airport-inauguration-delhi-ncr-gets-new-airport-all-you-need-to-know-pm-modi-inaugurates-jewar-airport/articleshow/129860014.cms",
-    "time": "2026-03-28T07:00:19.000Z"
   },
   {
     "cat": "Sports",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
   }
 ];

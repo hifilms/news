@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mumbai Indians end 14-year-long wait, complete record chase against KKR to kick off IPL 2026 in style",
+    "desc": "After years of waiting, the Mumbai Indians have finally won their first match of an IPL season. Since 2012, they had never won their opening match in a season, as the wait came to an...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-end-14-year-long-wait-complete-record-chase-against-kkr-to-kick-off-ipl-2026-in-style-2026-03-29-1035550",
+    "time": "2026-03-29T17:42:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is leading KKR as Ajinkya Rahane goes down in second innings during MI clash in IPL 2026?",
+    "desc": "Kolkata Knight Riders suffered a blow when captain Ajinkya Rahane walked off the field mid-way during their IPL 2026 opener against the Mumbai Indians. Rahane, who scored an impressive 67 from 40 balls earlier, left...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-leading-kkr-as-ajinkya-rahane-goes-down-in-second-innings-during-mi-clash-in-ipl-2026-2026-03-29-1035547",
+    "time": "2026-03-29T16:57:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kieron Pollard's all-time IPL record broken, Sunil Narine etches name into history books",
+    "desc": "Kolkata Knight Riders star Sunil Narine has shattered a massive Kieron Pollard record during his team's IPL 2026 opener against the Mumbai Indians at the Wankhede Stadium in Mumbai. Narine has been a KKR icon,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kieron-pollards-all-time-ipl-record-broken-sunil-narine-etches-name-into-history-books-2026-03-29-1035544",
+    "time": "2026-03-29T15:48:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "After MS Dhoni, CSK dealt with another injury blow, star batter ruled out of team's IPL 2026 opener",
     "desc": "Injury troubles have hit the Chennai Super Kings hard even before they have taken the field in the Indian Premier League 2026. With Nathan Ellis out of the season and MS Dhoni likely to miss...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-creates-all-time-ipl-record-after-stellar-knock-in-record-chase-against-srh-2026-03-29-1035521",
     "time": "2026-03-29T11:19:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "19-year-old sensation Kimi Antonelli achieves F1 history after winning Japanese GP",
-    "desc": "Mercedes young sensation Kimi Antonelli has etched his name into the history books after winning the Japanese GP with a stellar drive in Suzuka on Sunday, March 29. The 19-year-old Italian has now won back-to-back...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/formula-1/19-year-old-sensation-kimi-antonelli-achieves-f1-history-after-winning-japanese-gp-2026-03-29-1035514",
-    "time": "2026-03-29T10:45:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Haven't had a moment to stop': Aryna Sabalenka opens up after defeating Coco Gauff in Miami Open final",
-    "desc": "Belarus’ Aryna Sabalenka extended her stay at the number one spot in the WTA rankings after she defeated Coco Gauff in the summit clash of the Miami Open 2026. She re-established herself as one of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/haven-t-had-a-moment-to-stop-aryna-sabalenka-opens-up-after-defeating-coco-gauff-in-miami-open-final-2026-03-29-1035505",
-    "time": "2026-03-29T08:44:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I find him quite bizarre': R Ashwin gives his take on Virat Kohli's knock against Sunrisers Hyderabad",
-    "desc": "Defending IPL (Indian Premier League) champions Royal Challengers Bengaluru put in a brilliant performance against Sunrisers Hyderabad in game 2 of the tournament. The two sides locked horns at the M Chinnaswamy Stadium in Bengaluru,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-find-him-quite-bizarre-r-ashwin-gives-his-take-on-virat-kohli-s-knock-against-sunrisers-hyderabad-2026-03-29-1035503",
-    "time": "2026-03-29T08:16:53.000Z"
   }
 ];
