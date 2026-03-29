@@ -45,6 +45,15 @@ const newsData_bn = [
     "time": "2026-03-28T05:35:16.000Z"
   },
   {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "কোথায় গেল ২৩০০ কেজি মাদক? পুলিস বলল 'ইঁদুরে সাবাড় করে দিয়েছে'",
     "desc": "৩০০০ টন নিউ জেনারেশন কর্ভেটে। এই যুদ্ধজাহাজগুলি তৈরি করবে গার্ডেন রিচ শিপ বিল্ডার্স অ্যান্ড ইঞ্জিনিয়ার্স এবং গোয়া শিপইয়ার্ড লিমিটেড। সম্পূর্ণ দেশীয় প্রযুক্তিতে নির্মিত এই প্ল্যাটফর্মগুলি ভারতের নৌশক্তিকে নতুন উচ্চতায় নিয়ে যাবে বলে মত সংশ্লিষ্ট মহলের।",
@@ -79,15 +88,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/rakesh-bedi-reacts-to-sara-arjun-kiss-controversy-dhurandhar-2_646038.html ",
     "time": "2026-03-24T13:41:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ওড়ার পরই ১২৫ যাত্রী নিয়ে ভেঙে পড়ল বিমান, ঝলসে তালগোল পাকিয়ে গেল একের পর এক",
-    "desc": "স্থানীয় এক কৃষক জানান, 'আমি আকাশে বিকট শব্দ শুনতে পাই। তাকিয়ে দেখি বিমানটি আমার বাড়ির ওপর দিয়ে উড়ে গিয়ে ভেঙে পড়ে।' সামরিক সূত্র জানিয়েছে, নিহতদের মধ্যে ৫৮ জন সেনা সদস্য, ৬ জন বিমান বাহিনীর কর্মী এবং ২ জন পুলিস কর্মকর্তা রয়েছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/66-dead-in-colombian-military-plane-crash_645983.html ",
-    "time": "2026-03-24T09:10:59.000Z"
   },
   {
     "cat": "Entertainment",

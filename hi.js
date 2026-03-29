@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'He is at his peak': RCB skipper hails ace batter Virat Kohli after thumping victory over SRH",
+    "desc": "The IPL (Indian Premier League) 2026 kicked off with Royal Challengers Bengaluru registering a brilliant victory against Sunrisers Hyderabad. The two sides locked horns at the M Chinnaswamy Stadium in Bengaluru on March 28 for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/he-is-at-his-peak-rcb-skipper-hails-ace-batter-virat-kohli-after-thumping-victory-over-srh-2026-03-29-1035476",
+    "time": "2026-03-29T03:58:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'The real difference': SRH head coach weighs in on turning point after loss against RCB in IPL 2026 opener",
+    "desc": "The IPL (Indian Premier League) 2026 season kicked off with Royal Challengers Bengaluru taking on Sunrisers Hyderabad. The two sides locked horns at the M Chinnaswamy Stadium on March 28. While both sides hoped for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/the-real-difference-srh-head-coach-weighs-in-on-turning-point-after-loss-against-rcb-in-ipl-2026-opener-2026-03-29-1035469",
+    "time": "2026-03-29T02:45:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England's Test skipper Ben Stokes ruled out of action until May due to broken cheekbone",
     "desc": "In a major blow, England’s Test skipper Ben Stokes has been ruled out of action until May 2026 due to a broken cheekbone. Stokes is expected to miss the first month of the county season...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-are-rcb-players-wearing-black-armbands-in-ipl-2026-opener-vs-sunrisers-hyderabad-in-bengaluru-2026-03-28-1035440",
     "time": "2026-03-28T14:10:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Josh Hazlewood not playing for RCB vs Sunrisers Hyderabad in IPL 2026 opener in Bengaluru?",
-    "desc": "Royal Challengers Bengaluru pacer Josh Hazlewood is ruled out of the season opener against Sunrisers Hyderabad at the M Chinnaswamy Stadium in Bengaluru. The 35-year-old joined the RCB camp on March 26 but is currently...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-josh-hazlewood-not-playing-for-rcb-vs-sunrisers-hyderabad-in-ipl-2026-opener-in-bengaluru-2026-03-28-1035438",
-    "time": "2026-03-28T13:37:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Pat Cummins not playing for Sunrisers Hyderabad vs RCB in IPL 2026 opener in Bengaluru?",
-    "desc": "Sunrisers Hyderabad captain Pat Cummins has joined the squad, but is unavailable for the opening game against Royal Challengers Bengaluru in IPL 2026. The ace pacer is continuing his recovery from a lumbar bone stress...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-pat-cummins-not-playing-for-sunrisers-hyderabad-vs-rcb-in-ipl-2026-opener-in-bengaluru-2026-03-28-1035437",
-    "time": "2026-03-28T13:34:16.000Z"
   }
 ];
