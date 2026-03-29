@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Erosion of public trust in journalism a major concern, says Union Minister Pemmasani Chandra Sekhar",
+    "desc": "Credibility can only be restored through fact-based, data-driven reporting, clear separation of news and opinion, and strong ethical practices, he says, while underscoring the need for fair salaries, healthcare and financial stability for maintaining independent and fearless journalism",
+    "img": "https://th-i.thgim.com/public/incoming/mrlaum/article70800155.ece/alternates/LANDSCAPE_1200/DSC_0640.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/erosion-of-public-trust-in-journalism-a-major-concern-says-union-minister-pemmasani-chandra-sekhar/article70799917.ece",
+    "time": "2026-03-29T15:24:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Supriya Pathak recalls thinking first period was a ‘punishment’",
+    "desc": "Veteran actor Supriya Pathak has candidly spoken about two deeply personal phases of a woman’s life—her first period and menopause—revealing how both experiences shaped her understanding of herself. Recalling her first period, Supriya said she had absolutely no awareness about it. Opening up about menopause, Supriya described it as a “strange phase,” but one that brought an unexpected sense of freedom.",
+    "img": "https://static.toiimg.com/photo/msid-129882653,imgsize-71860.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/supriya-pathak-recalls-thinking-first-period-was-a-punishment-says-menopause-made-her-more-individualistic/articleshow/129882653.cms",
+    "time": "2026-03-29T15:09:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MGNREGA workers denied work despite Centre’s assurance of continuity",
+    "desc": "From Bihar to Rajasthan, thousands of rural workers say work has been halted; some district officials say they have been directed not to start new works as MGNREGA has been discontinued, though there are no such formal orders",
+    "img": "https://th-i.thgim.com/public/incoming/cze857/article70799916.ece/alternates/LANDSCAPE_1200/TH29-Sobhana-EcG3QFGOBHA.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/mgnrega-workers-denied-work-despite-centres-assurance-of-continuity/article70799564.ece",
+    "time": "2026-03-29T14:37:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pedda Peta Ram Mandir closed",
+    "desc": "The police have intensified the search for the 37 accused who absconded; Charges of criminal conspiracy, attempt to murder and promoting enmity and hatred among the locals charged against 58 accused involved in the clash.",
+    "img": "https://th-i.thgim.com/public/incoming/1p6djx/article70799889.ece/alternates/LANDSCAPE_1200/10237_28_3_2026_19_23_24_1_VARMA.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/akiveedu-attack-pedda-peta-ram-mandir-closed/article70799406.ece",
+    "time": "2026-03-29T14:34:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunil Narine scripts history, etches name in IPL record books",
+    "desc": "Sunil Narine has set a new IPL record. He is now the overseas player with the most appearances in the tournament's history. Narine achieved this milestone in his 190th match for Kolkata Knight Riders. He surpassed Kieron Pollard's previous record. Narine has been a consistent performer for KKR since his debut in 2012.",
+    "img": "https://static.toiimg.com/photo/msid-129882114,imgsize-133956.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/sunil-narine-scripts-history-etches-name-in-ipl-record-books/articleshow/129882090.cms",
+    "time": "2026-03-29T14:33:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Its a fight between youth and experience at Eravipuram",
+    "desc": "RSP’s young candidate Vishnu Mohan is contesting against sitting MLA and LDF candidate M. Noushad and NDA’s Saji D. Anand, a veteran who spent decades within the RSP before his recent exit following internal feuds",
+    "img": "https://th-i.thgim.com/public/incoming/lrtzwp/article70799682.ece/alternates/LANDSCAPE_1200/80686_28_3_2026_19_45_18_1_29TVKO_LDFCANDIDATE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-its-a-fight-between-youth-and-experience-at-eravipuram/article70793236.ece",
+    "time": "2026-03-29T14:26:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Divergent campaign strategies mark the race in Kalpetta",
+    "desc": "UDF, LDF and NDA candidates proceed with outwardly contrasting campaigns, one structured and emotive, one rooted in familiarity, and one quietly personal, each vying to connect with over two lakh voters in their own way",
+    "img": "https://th-i.thgim.com/public/incoming/o4v7el/article70799840.ece/alternates/LANDSCAPE_1200/80692_29_3_2026_15_53_52_1_30TVKZUDF1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-2026-divergent-campaign-strategies-mark-the-race-in-kalpetta/article70799232.ece",
+    "time": "2026-03-29T14:26:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TVK chief Vijay to make electoral debut from Perambur, Tiruchi East; prominent faces in Chennai",
+    "desc": "TVK general secretary ‘Bussy’ N. Anand will contest from T. Nagar in Chennai, while K.A. Sengottaiyan will test the waters from his home turf, Gobichettipalayam. Aadhav Arjuna will contest from Villivakkam, K.G. Arunraaj from Tiruchengode and C.T.R. Nirmal Kumar from Thirupparankundram.",
+    "img": "https://th-i.thgim.com/public/news/international/g7omdg/article70798924.ece/alternates/LANDSCAPE_1200/TVK.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-to-contest-from-perambur-tiruchi-east-constituencies-making-electoral-debut-in-tn-assembly-election-2026/article70798908.ece",
+    "time": "2026-03-29T14:13:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyadarshan on Akshaye, Salman, Govinda being difficult",
+    "desc": "Veteran filmmaker Priyadarshan has opened up about his working equation with actors, stressing that understanding individuals is key to a smooth collaboration. The director had high praise for Akshaye Khanna, calling him “a complete actor” and someone he shares a strong rapport with. Backing his stance with examples, the director spoke about working with stars like Salman Khan and Govinda, both of whom are often labelled as unpredictable.",
+    "img": "https://static.toiimg.com/photo/msid-129881863,imgsize-33266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-reveals-whether-akshaye-khanna-salman-khan-govinda-were-difficult-to-work-with-dont-try-to-change-actors-accept-them/articleshow/129881863.cms",
+    "time": "2026-03-29T14:04:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In Vellore Assembly constituency, residents are unhappy over tardy work under Smart Cities Mission project",
+    "desc": "A resident complains that work done under the project drains the taxpayers’ money; other issues that plague the Vellore constituency include improper re-laying of damages stretches that lead to waterlogging during rain and traffic rule violations",
+    "img": "https://th-i.thgim.com/public/incoming/rli8qq/article70797222.ece/alternates/LANDSCAPE_1200/9712_28_3_2026_18_34_24_1__DSC6161.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-2026-in-vellore-assembly-constituency-residents-are-unhappy-over-tardy-work-under-smart-cities-mission-project/article70796249.ece",
+    "time": "2026-03-29T13:59:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold, silver outlook: Markets brace for volatile week as Gulf tensions, Fed cues weigh",
+    "desc": "Precious metals are poised for a corrective phase this week, with Middle East developments and crucial US economic data, including Fed speeches, shaping investor sentiment. Domestic gold saw a slight dip, while silver gained, supported by a weaker rupee. Global gold declined, but silver rebounded, buoyed by safe-haven demand and strong Chinese imports.",
+    "img": "https://static.toiimg.com/photo/msid-129881788,imgsize-97722.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-outlook-bullion-markets-brace-for-volatile-week-as-middle-east-tensions-and-fed-cues-weigh/articleshow/129881732.cms",
+    "time": "2026-03-29T13:56:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No Suryakumar Yadav in MI XI as Hardik Pandya opts to bowl vs KKR",
+    "desc": "Mumbai Indians captain Hardik Pandya won the toss and chose to bowl against Kolkata Knight Riders at Wankhede Stadium, citing a greener pitch. Suryakumar Yadav is absent from the starting XI, expected as an Impact Player. MI aims to break their opening match losing streak since 2012, with debut caps for Ghazanfar and Rutherford.",
+    "img": "https://static.toiimg.com/photo/msid-129881514,imgsize-126884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/no-suryakumar-yadav-in-mi-xi-as-hardik-pandya-opts-to-bowl-vs-kkr/articleshow/129881424.cms",
+    "time": "2026-03-29T13:39:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bimal Oberoi reveals multiple auditions for Dhurandhar",
+    "desc": "Actor-producer Bimal Oberoi, who plays the pivotal role of Shirani in Dhurandhar, recently opened up about landing the part and the transformation he underwent for it. The film is helmed by Aditya Dhar. Bimal also had high praise for co-star Ranveer Singh, who plays Hamza in the film. According to him, Ranveer’s involvement went far beyond just acting.",
+    "img": "https://static.toiimg.com/photo/msid-129881436,imgsize-73924.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bimal-oberoi-reveals-multiple-auditions-for-aditya-dhars-dhurandhar-praises-ranveer-singh-he-wasnt-only-hamza-but-also-the-first-ad/articleshow/129881436.cms",
+    "time": "2026-03-29T13:35:22.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war: A day‑by‑day rundown of the escalating crisis",
+    "desc": "A joint U.S.-Israel attack on Iran and the killing of Supreme Leader Ayatollah Ali Khamenei have plunged West Asia into a fast‑spreading war, with Tehran and its allies launching retaliatory strikes across Israel, the Gulf and U.S. bases.",
+    "img": "https://th-i.thgim.com/public/incoming/z8eofi/article70702941.ece/alternates/LANDSCAPE_1200/AFP_99V379F.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
+    "time": "2026-03-29T13:30:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK in trouble! After Dhoni injury, star player ruled out of IPL 2026 start",
+    "desc": "Chennai Super Kings face significant injury blows ahead of IPL 2026, with Dewald Brevis sidelined for the initial matches due to a side strain. This adds to the absence of MS Dhoni and Nathan Ellis, impacting the team's middle order and bowling attack. CSK will aim to overcome these setbacks as they begin their campaign against Rajasthan Royals.",
+    "img": "https://static.toiimg.com/photo/msid-129881149,imgsize-122272.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-in-trouble-after-ms-dhoni-injury-star-player-ruled-out-of-ipl-2026-start/articleshow/129881190.cms",
+    "time": "2026-03-29T13:19:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KPMG to evaluate 'feasibility' of bids received for Indian football's commercial rights",
+    "desc": "The AIFF Executive Committee has referred three long-term commercial rights bids for club competitions to KPMG for audit. This decision follows ISL clubs' request to avoid a binding decision on the 15+5 rights cycle. Clubs will also meet with bidders to address queries, ensuring transparency before the AIFF General Body considers the matter.",
+    "img": "https://static.toiimg.com/photo/msid-129880925,imgsize-47578.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/kpmg-to-evaluate-feasibility-of-bids-received-for-indian-footballs-long-term-commercial-rights/articleshow/129880925.cms",
+    "time": "2026-03-29T12:57:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Singer Arpit Bala allegedly spits at crowd during concert",
+    "desc": "Singer Arpit Bala's Hyderabad concert turned controversial after a bottle was thrown at him. Bala stopped the show, had the individual removed, and issued a warning. However, allegations of him spitting at the audience and throwing the bottle back have sparked a divided online reaction, with some condemning his actions and others defending his response to the provocation.",
+    "img": "https://static.toiimg.com/photo/msid-129880610,imgsize-107728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bargad-singer-arpit-bala-allegedly-spits-at-crowd-after-bottle-is-thrown-at-him-during-hyderabad-concert-watch-viral-video/articleshow/129880610.cms",
+    "time": "2026-03-29T12:42:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Middle East war, oil prices to steer markets in holiday-shortened week",
+    "desc": "Indian stock markets brace for a volatile, shortened week. Geopolitical tensions in the Middle East, crude oil price fluctuations, and the rupee's stability are key concerns. Foreign investors have pulled significant funds amid the ongoing conflict. Analysts anticipate continued sensitivity to global developments, with domestic economic data also under scrutiny.",
+    "img": "https://static.toiimg.com/photo/msid-129880754,imgsize-153982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-war-oil-prices-to-steer-markets-in-holiday-shortened-week-rupee-and-fii-flows-in-focus/articleshow/129880674.cms",
+    "time": "2026-03-29T12:41:23.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Ben Stokes injury 'so much worse than what you think', reveals coach",
     "desc": "England Test captain Ben Stokes' return to cricket is delayed due to a serious facial injury sustained in February. Recovering from a fractured cheekbone, Stokes will miss Durham's opening County Championship match. Head coach Ryan Campbell confirmed the injury's severity and Stokes' determination to regain fitness after a challenging Ashes campaign and personal difficulties.",
@@ -9,13 +171,13 @@ const newsData_en = [
     "time": "2026-03-29T12:34:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Government ramps up measures to ensure fuel, LPG supplies amid Hormuz disruption",
-    "desc": "To boost domestic availability, the government has cut excise duty on petrol and diesel by ₹10 per litre and imposed export levies of ₹21.50 per litre on diesel and ₹29.50 per litre on aviation turbine fuel (ATF)",
-    "img": "https://th-i.thgim.com/public/incoming/gjc4zd/article70799296.ece/alternates/LANDSCAPE_1200/IMG_Apollo_Ocean_2_1_U7FP370E.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/government-ramps-up-measures-to-ensure-fuel-lpg-supplies-amid-hormuz-disruption/article70799281.ece",
-    "time": "2026-03-29T12:20:01.000Z"
+    "cat": "Entertainment",
+    "title": "'Leader' trailer: Legend Saravanan returns with massive action film",
+    "desc": "Legend Saravanan makes a grand return in the action-packed trailer for 'Leader,' set for an April 3 release. Directed by RS Durai Senthilkumar, the film promises a blend of stylized action, emotional depth, and mass appeal visuals. The trailer highlights intense fight sequences and hints at a story exploring power dynamics and relationships.",
+    "img": "https://static.toiimg.com/photo/msid-129880577,imgsize-194306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/leader-trailer-out-legend-saravanan-returns-with-massive-action-packed-visuals-ahead-of-april-3-release-watch/articleshow/129880577.cms",
+    "time": "2026-03-29T12:31:51.000Z"
   },
   {
     "cat": "Entertainment",
@@ -52,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ram-charan-trained-every-day-for-peddi-pehelwan-physique-even-during-ayyappa-deeksha-reveals-buchi-babu-sana-was-on-pure-vegetarian-diet/articleshow/129879431.cms",
     "time": "2026-03-29T11:09:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Incarceration without trial is punishment, says Supreme Court; grants bail to accused in jail for two years",
-    "desc": "A bench of Justices Dipankar Datta and P.V. Varale, in its recent order, said Pradeep Kumar alias Banu was booked for various offences, including attempt to murder, in February 2024, but the prosecution is yet to examine any one of the 23 witnesses related to the case",
-    "img": "https://th-i.thgim.com/public/news/national/vz39d6/article70799163.ece/alternates/LANDSCAPE_1200/iStock-121586241.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/incarceration-without-trial-is-punishment-says-supreme-court-grants-bail-to-accused-in-jail-for-two-years/article70799149.ece",
-    "time": "2026-03-29T11:08:12.000Z"
   },
   {
     "cat": "Sports",
@@ -235,39 +388,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Did Kubbra Sait just take dig at actors undergoing surgery?",
-    "desc": "In a world dominated by filtered images and unrealistic beauty standards, actress Kubbra Sait champions the power of self-acceptance. She believes that true insecurity arises from within and asserts that confidence is key. As she celebrates a successful decade in the industry, Sait attributes her achievements to unwavering discipline, consistency, and a love for her craft. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129876894,imgsize-78746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-kubbra-sait-just-take-a-dig-at-actors-undergoing-surgery-for-unrealistic-body-standards-says-why-are-we-insecure-in-the-first-place/articleshow/129876894.cms",
-    "time": "2026-03-29T07:39:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "All three candidates sound confident as campaign trail heats up along coastal Kochi",
-    "desc": "UDF’s Mohammed Shiyas warns that past elections were ignored lessons for the Left front, with voters now set to oust them; LDF’s K.J. Maxy emphasises a decade of development work; NDA’s Xavier Julappan spotlights unimplemented local projects",
-    "img": "https://th-i.thgim.com/public/incoming/wg8hwz/article70796710.ece/alternates/LANDSCAPE_1200/Kochi_03.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-all-three-candidates-sound-confident-as-campaign-trail-heats-up-along-coastal-kochi/article70795890.ece",
-    "time": "2026-03-29T07:38:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Gopichand Malineni shuts down 'NBK111' casting rumours",
     "desc": "Director Gopichand Malineni has humorously denied casting rumors for Dimple Hayathi in Nandamuri Balakrishna's upcoming film 'NBK111'. He used a Mahesh Babu meme to shut down the speculation. Nayanthara is expected to play the female lead. The film is set in Mumbai with Balakrishna as a gangster. Samuthirakani is also part of the cast. Thaman is composing the music.",
     "img": "https://static.toiimg.com/photo/msid-129877179,imgsize-101060.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/has-dimple-hayathi-joined-balakrishnas-nbk111-gopichand-malineni-shuts-down-casting-rumours-with-a-mahesh-babu-meme/articleshow/129877179.cms",
     "time": "2026-03-29T07:30:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pattinson’s ‘red flag’ joke sparks ex shade debate",
-    "desc": "Robert Pattinson's lighthearted quip labeling Aries as a 'red flag' sent fans into a whirl, with many speculating it was a dig at his ex, Aries-born Kristen Stewart. Although Pattinson remarked it was all in good fun, the online chatter illuminated the complex narrative of their past romance versus his present joy with fiancé Suki Waterhouse.",
-    "img": "https://static.toiimg.com/photo/msid-129877184,imgsize-113582.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinsons-red-flag-joke-sparks-ex-kristen-stewart-shade-debate-what-he-said-and-what-we-know/articleshow/129877165.cms",
-    "time": "2026-03-29T07:29:52.000Z"
   },
   {
     "cat": "Sports",
@@ -277,24 +403,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/motorsport/kimi-antonelli-of-mercedes-wins-japanese-gp-for-second-straight-victory/article70798957.ece",
     "time": "2026-03-29T07:16:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TVK chief Vijay to contest from Perambur, Tiruchi East constituencies making electoral debut in T.N. Assembly election",
-    "desc": "TVK general secretary ‘Bussy’ N. Anand will contest from T. Nagar in Chennai, while K.A. Sengottaiyan will test the waters from his home turf, Gobichettipalayam. Aadhav Arjuna will contest from Villivakkam, K.G. Arunraaj from Tiruchengode and C.T.R. Nirmal Kumar from Thirupparankundram.",
-    "img": "https://th-i.thgim.com/public/news/international/g7omdg/article70798924.ece/alternates/LANDSCAPE_1200/TVK.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-to-contest-from-perambur-tiruchi-east-constituencies-making-electoral-debut-in-tn-assembly-election-2026/article70798908.ece",
-    "time": "2026-03-29T07:10:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tracing Puducherry’s voting pattern in the past three electoral battles",
-    "desc": "The AINRC remains the mainstay of the Union Territory’s political landscape, a position once occupied by the Congress. The decision of businessman Jose Charles Martin — who has deep pockets — to venture into electoral politics may have changed the dynamics of the 2026 election in Puducherry",
-    "img": "https://th-i.thgim.com/public/incoming/bvabny/article70794086.ece/alternates/LANDSCAPE_1200/PTI03_20_2026_000334B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/puducherry-assembly/tracing-puducherrys-voting-pattern-in-the-past-three-electoral-battles/article70794037.ece",
-    "time": "2026-03-29T07:05:06.000Z"
   },
   {
     "cat": "Sports",
@@ -307,39 +415,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Ryan Gosling helps Eva Mendes’ brother find a job",
-    "desc": "Hollywood star Ryan Gosling surprised attendees at a 'Project Hail Mary' event by publicly advocating for his brother-in-law, Carlo Mendez, to be hired. Gosling urged directors and producers to give Mendez, an actor with a decade-long career, a chance, calling him the 'hardest-working nonworking actor.' This rare public display of support highlights Gosling's genuine backing for his family.",
-    "img": "https://static.toiimg.com/photo/msid-129876924,imgsize-910700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-gosling-pauses-project-hail-mary-spotlight-to-quietly-help-eva-mendes-brother-find-a-job/articleshow/129876937.cms",
-    "time": "2026-03-29T06:59:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 11 [LIVE]: Ranveer Singh film crosses Rs 820 crore net",
+    "title": "'Dhurandhar 2' BO day 11 [LIVE]: Ranveer Singh film crosses Rs 836 crore net",
     "desc": "The Revenge' is making history with every passing day at the Indian box office. Directed by Aditya Dhar and starring Ranveer Singh, the espionage thriller has crossed Rs. 790 crore in India net after eleven days, becoming only the third Hindi film ever to breach the Rs. 800 crore domestic net mark. The film is now chasing the lifetime record of its predecessor, 'Dhurandhar,' which stands at Rs. 894.49 crore — a milestone that could fall within the current week. Globally, the film is tracking past Rs. 1,079 crore and closing in on Rs. 1,200 crore worldwide, which would place it among the top three highest-grossing Indian films of all time.",
     "img": "https://static.toiimg.com/photo/msid-129876781,imgsize-118678.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-11-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-film-eyes-dhurandhar-1-rs-840-crore-india-net-milestone-on-second-sunday/articleshow/129876781.cms",
     "time": "2026-03-29T06:51:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Baahubali 2’ producer reacts to ‘Dhurandhar 2’ nearing his BO record",
-    "desc": "The mastermind behind 'Baahubali 2' has expressed high praise for the 'Dhurandhar 2' crew, as the thrilling blockbuster approaches a monumental 9-year standing record in North American ticket sales. With an impressive haul of over $19 million, 'Dhurandhar 2' is tantalizingly close to eclipsing the $20 million mark set by its predecessor.",
-    "img": "https://static.toiimg.com/photo/msid-129876681,imgsize-109288.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/baahubali-2-producer-reacts-as-dhurandhar-2-nears-nine-year-north-america-box-office-record-happy-to-see-it/articleshow/129876681.cms",
-    "time": "2026-03-29T06:39:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Upcoming OTT releases",
-    "desc": "The March end and April opening OTT lineup is tailor‑made for viewers who like to switch between Hindi crime dramas, English thrillers, and flavorful South Indian stories. A fresh batch of series that balances mood, pacing, and runtime, making it easy to build a diverse weekend binge. Here are five projects, one from each language and platform combo, to keep you glued to the screen over the next few days.",
-    "img": "https://static.toiimg.com/photo/msid-129876659,imgsize-1068371.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/upcoming-ott-releases-from-the-cleaning-lady-to-the-boys-5-series-to-binge-watch/photostory/129876659.cms",
-    "time": "2026-03-29T06:30:51.000Z"
   },
   {
     "cat": "Sports",
@@ -369,15 +450,6 @@ const newsData_en = [
     "time": "2026-03-29T05:27:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "High up, and soaring: Chennai’s rental market",
-    "desc": "From core city neighbourhoods to fast-growing suburbs, Chennai’s rental market is witnessing a sharp upswing. Nearly 49% of the households in the city still depend on rental accommodation, data show. More often than not, tenants are forced to compromise on space and budget. This report presents a list of emerging rental trends",
-    "img": "https://th-i.thgim.com/public/incoming/gdkdc0/article70797433.ece/alternates/LANDSCAPE_1200/DJI_20260328131546_0129_D.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/high-up-and-soaring/article70797425.ece",
-    "time": "2026-03-29T05:26:49.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Saudi Arabia pumps 7 million bpd via east-west pipeline amid Hormuz disruption",
     "desc": "Saudi Arabia has fully operationalized its East-West pipeline, moving 7 million barrels of oil daily to the Red Sea port of Yanbu. This crucial alternative route aims to maintain export supplies following disruptions to the Strait of Hormuz. While not fully replacing Hormuz volumes, the pipeline's operation is mitigating significant price increases amid escalating regional tensions.",
@@ -405,15 +477,6 @@ const newsData_en = [
     "time": "2026-03-29T05:01:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Chasemaster’ Virat Kohli scripts IPL history, first to 4,000 in chases",
-    "desc": "Virat Kohli made history by becoming the first player to score 4000+ IPL runs in chases and surpassed Shoaib Malik in T20 runs. Sunrisers Hyderabad posted 201/9, powered by Ishan Kishan’s 80. In reply, Kohli’s 69*, along with Devdutt Padikkal and Rajat Patidar, helped Bengaluru chase 202 in 15.4 overs—the fastest 200+ chase.",
-    "img": "https://static.toiimg.com/photo/msid-129875798,imgsize-59944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/chasemaster-virat-kohli-scripts-ipl-history-first-to-4000-in-chases/articleshow/129875696.cms",
-    "time": "2026-03-29T04:54:08.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How the oil crunch is reshaping daily life in different nations",
     "desc": "Global economies reel as Middle East conflict escalates, disrupting oil supplies via the Strait of Hormuz. Nations like Vietnam and India are cutting fuel taxes, while Japan and Germany consider increased coal use. Venezuela faces power cuts, and Pakistan grapples with soaring jet fuel prices. Sri Lanka implements strict fuel rationing, highlighting widespread energy challenges.",
@@ -421,51 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/from-office-desks-to-dark-streets-how-the-oil-crunch-is-reshaping-daily-life-in-different-nations/articleshow/129875135.cms",
     "time": "2026-03-29T03:42:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can CSK learn to live without Dhoni? Legend set to miss up to six games",
-    "desc": "MS Dhoni's 'final' IPL season faces an early setback with a calf strain, potentially sidelining him for three weeks and at least six matches. This injury forces CSK to rely on a new leadership group and opens opportunities for younger players in the lower order, while Sanju Samson will handle wicket-keeping duties.",
-    "img": "https://static.toiimg.com/photo/msid-129875209,imgsize-175508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-can-csk-learn-to-live-without-dhoni-legend-set-to-miss-up-to-six-games/articleshow/129875186.cms",
-    "time": "2026-03-29T03:31:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Inflation, a major talking point ahead of polls",
-    "desc": "The spike in food prices has emerged as a major concern for the public. A long-standing welfare architecture in Kerala has attempted to cushion the effects of inflation, especially for the vulnerable. However, a few experts have raised doubts about the effectiveness of the State government’s market intervention measures",
-    "img": "https://th-i.thgim.com/public/incoming/t1nmwr/article70798661.ece/alternates/LANDSCAPE_1200/80968_30_9_2024_19_17_48_1_NIT_9842.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-inflation-a-major-talking-point-ahead-of-polls/article70792990.ece",
-    "time": "2026-03-29T03:22:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre continues to be evasive on AIIMS for Kerala",
-    "desc": "Responding to questions posed by Kodikunnil Suresh and Adoor Prakash in the Lok Sabha, Union Minister of Health said “the proposal for establishment of AIIMS in Kerala has not been approved” and provided no concrete timeline for future approval",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/centre-continues-to-be-evasive-on-aiims-for-kerala/article70796364.ece",
-    "time": "2026-03-29T03:17:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘No words for Virat Kohli’: Rajat Patidar hails RCB star after emphatic win",
-    "desc": "Defending champions Royal Challengers Bengaluru launched their IPL 2026 title defence with a commanding six-wicket victory over Sunrisers Hyderabad. Virat Kohli's unbeaten 69 was the cornerstone of the chase, with skipper Rajat Patidar hailing him as the team's backbone. Debutant Jacob Duffy's early wickets also proved crucial in securing the win.",
-    "img": "https://static.toiimg.com/photo/msid-129875007,imgsize-176400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/no-words-for-virat-kohli-rajat-patidar-hails-rcb-star-after-emphatic-win/articleshow/129874996.cms",
-    "time": "2026-03-29T03:03:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB rewrite record books with fastest 200+ chase in IPL history",
-    "desc": "Royal Challengers Bengaluru achieved the IPL's fastest 200-plus chase, defeating Sunrisers Hyderabad by six wickets. Chasing 202, RCB reached the target in just 15.4 overs, powered by a rapid 101-run partnership between Virat Kohli and Devdutt Padikkal. Padikkal's explosive 61 off 26 balls set the tone for the record-breaking victory.",
-    "img": "https://static.toiimg.com/photo/msid-129874862,imgsize-197060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rcb-rewrite-record-books-with-fastest-200-chase-in-ipl-history/articleshow/129874829.cms",
-    "time": "2026-03-29T02:41:08.000Z"
   },
   {
     "cat": "World",
@@ -484,15 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-amphibious-assault-ship-arrives-in-west-asia/article70798599.ece",
     "time": "2026-03-29T01:13:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Dhurandhar: The Revenge’ makes over Rs 1,200 crore worldwide in 10 days",
-    "desc": "The Revenge' is performing strongly at the box office, crossing Rs 1,200 crore worldwide after a 10-day run. The action-thriller saw a significant surge on its second Saturday, contributing to its impressive domestic and global collections. The film continues the story of an undercover agent battling terrorism.",
-    "img": "https://static.toiimg.com/photo/msid-129874783,imgsize-27980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-10-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampals-film-crosses-rs-1200-crore-mark-worldwide/articleshow/129874297.cms",
-    "time": "2026-03-29T00:26:24.000Z"
   },
   {
     "cat": "World",
@@ -565,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/age-catches-up-with-even-the-evergreen-dhoni/article70796806.ece",
     "time": "2026-03-28T14:45:24.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel war: A day‑by‑day rundown of the escalating crisis",
-    "desc": "A joint U.S.-Israel attack on Iran and the killing of Supreme Leader Ayatollah Ali Khamenei have plunged West Asia into a fast‑spreading war, with Tehran and its allies launching retaliatory strikes across Israel, the Gulf and U.S. bases.",
-    "img": "https://th-i.thgim.com/public/incoming/z8eofi/article70702941.ece/alternates/LANDSCAPE_1200/AFP_99V379F.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
-    "time": "2026-03-28T14:07:19.000Z"
   },
   {
     "cat": "Sports",
@@ -664,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/noida-international-airport-inauguration-delhi-ncr-gets-new-airport-all-you-need-to-know-pm-modi-inaugurates-jewar-airport/articleshow/129860014.cms",
     "time": "2026-03-28T07:00:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Petrol, diesel prices today: With ongoing US-Israel-Iran war, what India's fuel situation looks like – 10 things to know",
-    "desc": "Petrol and diesel prices remained largely stable across major Indian cities today, despite global crude oil surges due to the US-Iran conflict. The government's excise duty cuts and strategic measures aim to shield consumers from international price volatility and ensure uninterrupted fuel supply.",
-    "img": "https://static.toiimg.com/photo/msid-129859850,imgsize-1348337.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/petrol-diesel-prices-today-with-ongoing-us-israel-iran-war-what-indias-fuel-situation-looks-like-10-things-to-know/articleshow/129859321.cms",
-    "time": "2026-03-28T06:07:09.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
   }
 ];

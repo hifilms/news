@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "After MS Dhoni, CSK dealt with another injury blow, star batter ruled out of team's IPL 2026 opener",
+    "desc": "Injury troubles have hit the Chennai Super Kings hard even before they have taken the field in the Indian Premier League 2026. With Nathan Ellis out of the season and MS Dhoni likely to miss...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/after-ms-dhoni-csk-dealt-with-another-injury-blow-star-batter-ruled-out-of-teams-ipl-2026-opener-2026-03-29-1035538",
+    "time": "2026-03-29T14:58:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Harshit Rana not playing in MI vs KKR IPL 2026 at Wankhede Stadium?",
+    "desc": "Kolkata Knight Riders open their IPL 2026 campaign against the Mumbai Indians at the Wankhede Stadium as they look to bounce back from their poor 2025 season. The Knight Riders have been pegged back by...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-harshit-rana-not-playing-in-mi-vs-kkr-ipl-2026-at-wankhede-stadium-2026-03-29-1035535",
+    "time": "2026-03-29T14:05:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Quinton de Kock not playing for MI in their IPL 2026 opener against KKR?",
+    "desc": "Quinton de Kock missed out as the Mumbai Indians face the Kolkata Knight Riders in their IPL 2026 opener at the Wankhede Stadium in Mumbai on Sunday, March 29. Having returned with the MI, many...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-quinton-de-kock-not-playing-for-mi-in-their-ipl-2026-opener-against-kkr-2026-03-29-1035534",
+    "time": "2026-03-29T13:50:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mumbai Indians become first-ever franchise to hit 300 mark during IPL 2026 clash against KKR",
+    "desc": "Mumbai Indians have etched their name into the history books as soon as they took the field against Kolkata Knight Riders for their IPL 2026 opener at the Wankhede Stadium on Sunday, March 29. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-become-first-ever-franchise-to-hit-300-mark-during-ipl-2026-clash-against-kkr-2026-03-29-1035529",
+    "time": "2026-03-29T13:34:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Andre Russell not playing in MI vs KKR IPL 2026 clash?",
+    "desc": "Kolkata Knight Riders open their IPL 2026 campaign against Mumbai Indians in at the Wankhede Stadium in Mumbai on Sunday, March 29. Having had a poor IPL 2025, the three-time champions are looking to bounce...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-andre-russell-not-playing-in-mi-vs-kkr-ipl-2026-clash-2026-03-29-1035532",
+    "time": "2026-03-29T13:31:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Devdutt Padikkal reveals Virat Kohli's instruction during his rampage against SRH in IPL 2026 opener",
     "desc": "Devdutt Padikkal was on a rampage in Royal Challengers Bengaluru's IPL 2026 opener against the Sunrisers Hyderabad on Saturday, March 28. The 25-year-old batter took the attack on the SRH bowling unit with a blasting...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/i-find-him-quite-bizarre-r-ashwin-gives-his-take-on-virat-kohli-s-knock-against-sunrisers-hyderabad-2026-03-29-1035503",
     "time": "2026-03-29T08:16:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will weather in Mumbai fare for IPL 2026 game 2?",
-    "desc": "Game 2 of the ongoing IPL (Indian Premier League) 2026 sees Mumbai Indians taking on Kolkata Knight Riders. The two sides are set to lock horns at the Wankhede Stadium in Mumbai on March 29....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-kkr-weather-report-how-will-weather-in-mumbai-fare-for-ipl-2026-game-2-2026-03-29-1035501",
-    "time": "2026-03-29T07:38:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup has brought joy to the nation, says PM Modi, congratulates J-K after Ranji victory",
-    "desc": "The 132nd episode of Prime Minister Narendra Modi’s monthly radio show 'Mann Ki Baat' aired on March 29. In the new episode, the Prime Minister addressed a plethora of topics, with one of them being...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mann-ki-baat-t20-world-cup-has-brought-joy-to-the-nation-says-pm-modi-congratulates-j-k-after-ranji-victory-2026-03-29-1035496",
-    "time": "2026-03-29T06:56:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Wankhede Stadium in Mumbai play in IPL 2026?",
-    "desc": "The stage is set for game 2 of the ongoing IPL (Indian Premier League) 2026. Five-time champions Mumbai Indians will take on three-time winners Kolkata Knight Riders. The two sides will lock horns at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-kkr-pitch-report-how-will-surface-at-wankhede-stadium-in-mumbai-play-in-ipl-2026-2026-03-29-1035485",
-    "time": "2026-03-29T05:25:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'He is at his peak': RCB skipper hails ace batter Virat Kohli after thumping victory over SRH",
-    "desc": "The IPL (Indian Premier League) 2026 kicked off with Royal Challengers Bengaluru registering a brilliant victory against Sunrisers Hyderabad. The two sides locked horns at the M Chinnaswamy Stadium in Bengaluru on March 28 for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/he-is-at-his-peak-rcb-skipper-hails-ace-batter-virat-kohli-after-thumping-victory-over-srh-2026-03-29-1035476",
-    "time": "2026-03-29T03:58:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'The real difference': SRH head coach weighs in on turning point after loss against RCB in IPL 2026 opener",
-    "desc": "The IPL (Indian Premier League) 2026 season kicked off with Royal Challengers Bengaluru taking on Sunrisers Hyderabad. The two sides locked horns at the M Chinnaswamy Stadium on March 28. While both sides hoped for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/the-real-difference-srh-head-coach-weighs-in-on-turning-point-after-loss-against-rcb-in-ipl-2026-opener-2026-03-29-1035469",
-    "time": "2026-03-29T02:45:28.000Z"
   }
 ];

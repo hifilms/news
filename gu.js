@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "વિધવા પુત્રવધૂની જવાબદારીમાં આવે છે સાસુ-સસરા? વૃદ્ધ દંપતીની અરજી પર હાઇકોર્ટે શું કહ્યું?",
+    "desc": "ન્યાયાધીશ મદન પાલ સિંહે જણાવ્યું હતું કે ભારતીય સમાજમાં, પુત્રવધૂને તેના સાસરિયાઓની સંભાળ રાખવાની જવાબદારી માનવામાં આવે છે. હાલમાં એક કેસની ચર્ચા ચાલી રહી છે, જેમાં સાસુ સસરા દ્વારા વહુ પાસે ભરણ પોષણની માંગ કરવામાં આવી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/are-in-laws-responsible-for-widowed-daughter-in-law-what-did-the-high-court-say-on-the-petition-of-an-elderly-couple-470657 ",
+    "time": "2026-03-29T15:18:12.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "આગામી 12 કલાક ભારે... આ વિસ્તારોમાં વાવાઝોડા સાથે વરસાદ બોલાવશે ભુક્કા !",
     "desc": "દેશના હવામાન વિભાગે ફરી એકવાર મધ્યમથી ભારે વરસાદની આગાહી કરી છે. IMD અનુસાર ગુજરાત, દિલ્હી, યુપી અને બિહાર સહિત 17 રાજ્યોમાં વરસાદની શક્યતા છે. લોકોને આગામી 36 કલાક દરમિયાન સાવધ રહેવાની સલાહ આપવામાં આવી છે. પૂર્વ અને ઉત્તરીય પ્રદેશોના ઘણા રાજ્યોમાં વાવાઝોડાની ચેતવણી પણ આપવામાં આવી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -466,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-israel-us-war-effect-philippines-declared-energy-emergency-world-news-in-gujarati-470256 ",
     "time": "2026-03-27T05:48:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શું છે &amp;#039;એનર્જી લોકડાઉન&amp;#039;? શું તેમાં કોરોના જેવા કડક પ્રતિબંધ લાગી શકે, જાણી લો સત્ય",
-    "desc": "મિડલ ઈસ્ટ તણાવ વચ્ચે એનર્જી લોકડાઉન શબ્દ ચર્ચામાં છે. ક્રૂડ ઓયલ સપ્લાયમાં સમસ્યા આવવાથી ઘણા દેશ ઉર્જા બચાવવા માટે પ્રતિબંધ લગાવી રહ્યાં છે. પરંતુ આ કોવિડ જેવું લોકડાઉન નથી. ભારતમાં આવા પ્રતિબંધની કોઈ યોજના નથી. સરકાર સપ્લાય અને કિંમતોને સ્થિર રાખવા પર ધ્યાન આપી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-is-energy-lockdown-and-will-countries-impose-restrictions-amid-global-crude-oil-crisis-470248 ",
-    "time": "2026-03-27T05:09:14.000Z"
   },
   {
     "cat": "Entertainment",
