@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "England's Test skipper Ben Stokes ruled out of action until May due to broken cheekbone",
+    "desc": "In a major blow, England’s Test skipper Ben Stokes has been ruled out of action until May 2026 due to a broken cheekbone. Stokes is expected to miss the first month of the county season...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-s-test-skipper-ben-stokes-ruled-out-of-action-until-may-due-to-broken-cheekbone-2026-03-29-1035465",
+    "time": "2026-03-29T01:47:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli shares recipe behind sheer consistency, registers 17th 50+ total in last 33 IPL matches",
     "desc": "Virat Kohli has rediscovered himself in white-ball cricket. After a couple of underwhelming years, many former cricketers and experts called him out over poor form, with some claiming that Kohli no longer fits in the...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-pat-cummins-not-playing-for-sunrisers-hyderabad-vs-rcb-in-ipl-2026-opener-in-bengaluru-2026-03-28-1035437",
     "time": "2026-03-28T13:34:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Starc slams media speculation, shares update on joining DC for IPL 2026",
-    "desc": "Delhi Capitals pacer Mitchell Starc blasted at media narratives, informing that he is currently managing shoulder and elbow injuries. Earlier, head coach Hemang Badani, in a press conference, shared that the veteran is training in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-slams-media-speculation-shares-update-on-joining-dc-for-ipl-2026-2026-03-28-1035424",
-    "time": "2026-03-28T11:18:00.000Z"
   }
 ];
