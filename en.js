@@ -1,6 +1,150 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "Ben Stokes injury 'so much worse than what you think', reveals coach",
+    "desc": "England Test captain Ben Stokes' return to cricket is delayed due to a serious facial injury sustained in February. Recovering from a fractured cheekbone, Stokes will miss Durham's opening County Championship match. Head coach Ryan Campbell confirmed the injury's severity and Stokes' determination to regain fitness after a challenging Ashes campaign and personal difficulties.",
+    "img": "https://static.toiimg.com/photo/msid-129880615,imgsize-89424.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ben-stokes-injury-so-much-worse-than-what-you-think-reveals-coach/articleshow/129880540.cms",
+    "time": "2026-03-29T12:34:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government ramps up measures to ensure fuel, LPG supplies amid Hormuz disruption",
+    "desc": "To boost domestic availability, the government has cut excise duty on petrol and diesel by ₹10 per litre and imposed export levies of ₹21.50 per litre on diesel and ₹29.50 per litre on aviation turbine fuel (ATF)",
+    "img": "https://th-i.thgim.com/public/incoming/gjc4zd/article70799296.ece/alternates/LANDSCAPE_1200/IMG_Apollo_Ocean_2_1_U7FP370E.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/government-ramps-up-measures-to-ensure-fuel-lpg-supplies-amid-hormuz-disruption/article70799281.ece",
+    "time": "2026-03-29T12:20:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vemal's 'Vadam' OTT release date",
+    "desc": "Vemal's rural drama 'Vadam', centered on the Manjuvirattu game, is set for an OTT release on Sun NXT on April 3 after a lukewarm theatrical reception. Despite an interesting concept, the film faced criticism for content deficiency. The movie explores themes of revenge and betrayal through a villager's journey training a bull for competition.",
+    "img": "https://static.toiimg.com/photo/msid-129880020,imgsize-329106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vadam-ott-release-date-when-and-where-to-watch-vemal-starrer-rural-drama-online/articleshow/129880020.cms",
+    "time": "2026-03-29T11:47:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Virat bhai’s only instruction was…': Padikkal reveals Kohli’s mantra in RCB’s chase",
+    "desc": "Royal Challengers Bengaluru began their Indian Premier League 2026 season with a strong victory against Sunrisers Hyderabad. Devdutt Padikkal and Virat Kohli's partnership was key in chasing a 202-run target. Padikkal highlighted Kohli's guidance and the support from coaches. This win marks a significant start for the defending champions.",
+    "img": "https://static.toiimg.com/photo/msid-129879876,imgsize-134366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-bhais-only-instruction-was-padikkal-reveals-kohlis-mantra-in-rcbs-chase/articleshow/129879867.cms",
+    "time": "2026-03-29T11:36:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "After War 2 debacle, Aditya Chopra working on romantic film",
+    "desc": "After the underwhelming reception of 'War 2', Adita Chopra's production house is shifting gears towards a captivating romantic epic. This intriguing venture, dubbed a classic narrative reborn, is still in its early stages and boasts a star-studded cast. Fans can look forward to an official reveal on September 27th, signaling a revitalizing return to romance for the iconic studio. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129879491,imgsize-64592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-the-war-2-debacle-aditya-chopra-is-quietly-working-on-a-mysterious-timeless-romantic-saga-reports/articleshow/129879491.cms",
+    "time": "2026-03-29T11:18:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ram Charan trained every day for 'Peddi' pehelwan physique",
+    "desc": "Ram Charan dedicated eight months to an intense physical and spiritual transformation for his upcoming film 'Peddi'. Director Buchi Babu Sana revealed the actor trained daily, focusing on body language and attitude alongside building muscle. Charan maintained his peak fitness on a pure vegetarian diet during his Ayyappa Deeksha, showing remarkable discipline. This commitment has impressed the industry.",
+    "img": "https://static.toiimg.com/photo/msid-129879431,imgsize-283824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ram-charan-trained-every-day-for-peddi-pehelwan-physique-even-during-ayyappa-deeksha-reveals-buchi-babu-sana-was-on-pure-vegetarian-diet/articleshow/129879431.cms",
+    "time": "2026-03-29T11:09:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Incarceration without trial is punishment, says Supreme Court; grants bail to accused in jail for two years",
+    "desc": "A bench of Justices Dipankar Datta and P.V. Varale, in its recent order, said Pradeep Kumar alias Banu was booked for various offences, including attempt to murder, in February 2024, but the prosecution is yet to examine any one of the 23 witnesses related to the case",
+    "img": "https://th-i.thgim.com/public/news/national/vz39d6/article70799163.ece/alternates/LANDSCAPE_1200/iStock-121586241.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/incarceration-without-trial-is-punishment-says-supreme-court-grants-bail-to-accused-in-jail-for-two-years/article70799149.ece",
+    "time": "2026-03-29T11:08:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It all went by in a flash': Manish Pandey opens up on his 19-year IPL journey",
+    "desc": "Manish Pandey, a constant in the IPL since 2008, reflects on his 19-year journey, calling it a 'flash'. He's set for IPL 2026 with KKR, cherishing his maiden century and the tournament's evolution. Pandey highlights the IPL's role in talent development and his own career, citing a match-winning knock in the 2014 final as pivotal.",
+    "img": "https://static.toiimg.com/photo/msid-129879245,imgsize-198266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/it-all-went-by-in-a-flash-manish-pandey-opens-up-on-his-19-year-ipl-journey/articleshow/129879207.cms",
+    "time": "2026-03-29T10:53:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Ek ko papa chun le': Harbhajan's reply to ‘three clowns’ jibe goes viral",
+    "desc": "Harbhajan Singh went viral after hitting back at a troll who called him, Virender Sehwag, and Aakash Chopra “three clowns” during an IPL broadcast. He replied, “Inme se ek ko papa chun le,” earning praise for his witty comeback. The exchange sparked debate on trolling, highlighting how quickly social media reactions can escalate during major cricket events.",
+    "img": "https://static.toiimg.com/photo/msid-129879229,imgsize-24966.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ek-ko-papa-chun-le-harbhajan-singhs-reply-to-three-clowns-jibe-goes-viral/articleshow/129879055.cms",
+    "time": "2026-03-29T10:49:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "NSE to launch Brent Crude futures from April after Sebi nod",
+    "desc": "The National Stock Exchange is launching Dated Brent Crude Oil futures on April 13, 2026, following SEBI approval. These contracts, based on the globally recognized Platts benchmark, aim to enhance price discovery and hedging for domestic participants. Trading will occur in 100-barrel units with initial daily price bands, and settlement will be in rupees based on monthly averages.",
+    "img": "https://static.toiimg.com/photo/msid-129878986,imgsize-55652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/nse-to-launch-brent-crude-futures-from-april-after-sebi-nod/articleshow/129878879.cms",
+    "time": "2026-03-29T10:37:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK, Ranveer, and more celebs attend birthday party",
+    "desc": "Mumbai witnessed a star-studded birthday bash for a political leader's daughter, drawing Bollywood heavyweights like Shah Rukh Khan and Ranveer Singh. Singh, fresh off 'Dhurandhar's' Rs 1,100 crore success, captivated the crowd with a performance, later joined by Sanjay Dutt. The event's glitz has lit up social media. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129878821,imgsize-140536.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-ranveer-singh-sanjay-dutt-and-more-celebs-attend-star-studded-mumbai-birthday-party-viral-pics-and-videos-inside/articleshow/129878821.cms",
+    "time": "2026-03-29T10:23:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rs 1.75 lakh crore wiped off 7 of top-10 firms; Reliance leads losses",
+    "desc": "India's top companies faced a significant market capitalisation loss of Rs 1.75 lakh crore last week, with Reliance Industries bearing the brunt. Broader market indices also tumbled amid global uncertainties and Middle East tensions. While most major firms saw their valuations shrink, Larsen & Toubro, Bajaj Finance, and Infosys managed to post gains.",
+    "img": "https://static.toiimg.com/photo/msid-129878728,imgsize-64602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/market-recap-rs-1-75-lakh-crore-wiped-off-7-of-top-10-firms-reliance-leads-losses/articleshow/129878606.cms",
+    "time": "2026-03-29T10:07:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'A long wait of nearly seven decades': PM Modi hails J&amp;K's Ranji win",
+    "desc": "Prime Minister Narendra Modi hailed Jammu and Kashmir’s first Ranji Trophy win as a proud moment after nearly 70 years. In ‘Mann Ki Baat’, he praised the team’s hard work, captain Paras Dogra’s leadership, and Aaqib Nabi’s 60 wickets. Modi said the victory has inspired the region and boosted sports enthusiasm, adding that Jammu and Kashmir is emerging as a sporting hub and expressing hope for continued success.",
+    "img": "https://static.toiimg.com/photo/msid-129878727,imgsize-95708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/a-long-wait-of-nearly-seven-decades-pm-modi-hails-jks-historic-ranji-trophy-win/articleshow/129878601.cms",
+    "time": "2026-03-29T10:05:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Toxic' actress Rukmini Vasanth net worth",
+    "desc": "Filmmaker Vasanthabalan has strongly criticized recent films for spreading hate. He stated that movies like 'Kashmir Files' and 'Dhurandhar' are deliberately promoting division. Vasanthabalan believes cinema should unite people, not divide them. Director Vetri Maaran also indirectly commented on films promoting hate politics. The discussion highlights the responsibility of filmmakers in shaping public opinion through their work.",
+    "img": "https://static.toiimg.com/photo/msid-129878649,imgsize-95750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/rukmini-vasanth-net-worth-how-yash-starrer-toxic-and-rishab-shettys-kantara-chapter-1-built-her-rs-7-crore-wealth/articleshow/129878649.cms",
+    "time": "2026-03-29T10:03:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chris Pratt, Jack Black, Anya Taylor-Joy wow at F1 Grand Prix",
+    "desc": "Hollywood stars Chris Pratt, Jack Black, and Anya Taylor-Joy, alongside other cast members, made a grand appearance at the Japanese Grand Prix following their Tokyo premiere for 'The Super Mario Galaxy Movie'. This strategic move amplified buzz for the film's upcoming global launch, especially in the crucial Japanese market.",
+    "img": "https://static.toiimg.com/photo/msid-129878685,imgsize-135490.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chris-pratt-jack-black-anya-taylor-joy-stun-at-f1-grand-prix-after-super-mario-galaxy-japan-premiere-what-we-know/articleshow/129878646.cms",
+    "time": "2026-03-29T10:00:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli 'changed a lot after retiring from Test cricket'",
+    "desc": "Virat Kohli’s unbeaten 69 powered RCB to a successful chase, showing his top form after a T20 break. Dale Steyn praised his improved six-hitting and evolving mindset. Kohli’s aggressive approach has grown over time. Devdutt Padikkal said Kohli’s presence eased pressure, while also crediting coaches Andy Flower and Dinesh Karthik for his development.",
+    "img": "https://static.toiimg.com/photo/msid-129878348,imgsize-50834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-changed-a-lot-after-retiring-from-test-cricket/articleshow/129878269.cms",
+    "time": "2026-03-29T09:27:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "‘Bizarre at this age’: R Ashwin in awe of Virat Kohli’s relentless intensity",
     "desc": "Ravichandran Ashwin lauded Virat Kohli's \"bizarre\" energy levels at his age, stating the Indian stalwart continues to \"walk the talk\" after stepping away from Tests and T20Is. Kohli's unbeaten 69 in the IPL 2026 opener against SRH showcased his enduring hunger and intensity between the wickets, setting a benchmark for the game.",
     "img": "https://static.toiimg.com/photo/msid-129878025,imgsize-150492.cms",
@@ -172,21 +316,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 11 [LIVE]: Ranveer Singh film crosses Rs 800 crore net",
+    "title": "'Dhurandhar 2' BO day 11 [LIVE]: Ranveer Singh film crosses Rs 820 crore net",
     "desc": "The Revenge' is making history with every passing day at the Indian box office. Directed by Aditya Dhar and starring Ranveer Singh, the espionage thriller has crossed Rs. 790 crore in India net after eleven days, becoming only the third Hindi film ever to breach the Rs. 800 crore domestic net mark. The film is now chasing the lifetime record of its predecessor, 'Dhurandhar,' which stands at Rs. 894.49 crore — a milestone that could fall within the current week. Globally, the film is tracking past Rs. 1,079 crore and closing in on Rs. 1,200 crore worldwide, which would place it among the top three highest-grossing Indian films of all time.",
     "img": "https://static.toiimg.com/photo/msid-129876781,imgsize-118678.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-11-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-film-eyes-dhurandhar-1-rs-840-crore-india-net-milestone-on-second-sunday/articleshow/129876781.cms",
     "time": "2026-03-29T06:51:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "GV Prakash Kumar gets emotional as a fan breaks down",
-    "desc": "GV Prakash Kumar was moved to tears when a fan broke down hugging him after watching his latest film, 'Happy Raj.' The fan expressed deep appreciation for the movie's emotional father-son theme, stating her praise was equivalent to a thousand awards. This touching fan interaction highlights the film's significant impact on audiences.",
-    "img": "https://static.toiimg.com/photo/msid-129876721,imgsize-92718.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/gv-prakash-kumar-gets-emotional-as-a-fan-breaks-down-hugging-him-after-watching-happy-raj-this-one-praise-1000-awards/articleshow/129876721.cms",
-    "time": "2026-03-29T06:39:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -196,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/baahubali-2-producer-reacts-as-dhurandhar-2-nears-nine-year-north-america-box-office-record-happy-to-see-it/articleshow/129876681.cms",
     "time": "2026-03-29T06:39:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How motherhood transformed Halle Bailey’s artistry",
-    "desc": "For singer and actress Halle Bailey, the experience of motherhood has revolutionized her artistic identity, broadening her emotional spectrum and creativity. Welcoming her son Halo has filled her life with profound joy and has significantly shaped her approach to songwriting and vocal delivery.",
-    "img": "https://static.toiimg.com/photo/msid-129876715,imgsize-107822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/how-motherhood-transformed-halle-baileys-artistry-a-whole-new-portal-of-love-opened/articleshow/129876689.cms",
-    "time": "2026-03-29T06:38:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -223,42 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/two-year-ban-not-working-sunil-gavaskar-calls-for-stricter-ipl-pullout-rules/articleshow/129876608.cms",
     "time": "2026-03-29T06:27:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aruna Irani and Farida Jalal dance to hit song ‘Kaliyon Ka Chaman’",
-    "desc": "A magical evening unfolded on 'Indian Idol' as Bollywood icons Aruna Irani and Farida Jalal graced the stage together for the first time in 53 years. With smiles beaming, they electrified the crowd by breaking into a nostalgic dance to the beloved track 'Kaliyon Ka Chaman.",
-    "img": "https://static.toiimg.com/photo/msid-129876518,imgsize-143056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aruna-irani-and-farida-jalal-dance-to-kaliyon-ka-chaman-on-indian-idol-as-shreya-ghoshal-and-vishal-dadlani-cheer-loudly/articleshow/129876518.cms",
-    "time": "2026-03-29T06:19:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyadarshan says Saif joined Haiwaan as he was 'available'",
-    "desc": "Filmmaker Priyadarshan brought a smile to everyone’s faces as he mentioned that Saif Ali Khan's involvement in his new film 'Haiwaan' stemmed from sheer availability. He affectionately dubbed Saif a 'delightfully curious adult child', revealing that the actor comes with an endless supply of questions. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129876490,imgsize-108232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-reveals-saif-ali-khan-joined-haiwaan-because-he-was-available-says-he-comes-with-10-questions-every-morning/articleshow/129876490.cms",
-    "time": "2026-03-29T06:17:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Corey Feldman on exclusion from Rob Reiner Oscars tribute",
-    "desc": "In a heartfelt statement, Corey Feldman lamented his absence from the Oscars tribute celebrating the late director Rob Reiner, describing it as a 'family gathering where I wasn’t welcomed.' Reflecting on his time in 'Stand by Me,' Feldman expressed feelings of being sidelined while co-stars Jerry O’Connell and Wil Wheaton were applauded for their contributions to Reiner's storied legacy.",
-    "img": "https://static.toiimg.com/photo/msid-129876177,imgsize-181230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/corey-feldman-breaks-silence-on-exclusion-from-rob-reiner-oscars-tribute-calls-it-a-family-reunion-he-wasnt-invited-to/articleshow/129876177.cms",
-    "time": "2026-03-29T06:16:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Neelira' trailer: War drama set in 1988 Sri Lanka is deeply emotional",
-    "desc": "The trailer for 'Neelira', a film set in war-torn Northern Sri Lanka in 1988, has been released. Backed by Karthik Subbaraj and Rana Daggubati, the movie, directed by Somitharan, focuses on the emotional struggles of ordinary people caught in conflict, inspired by real memories. The film is set to release on April 3.",
-    "img": "https://static.toiimg.com/photo/msid-129876406,imgsize-323288.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/neelira-trailer-out-naveen-chandra-sananth-roopa-koduvayur-starrer-war-drama-set-in-1988-sri-lanka-through-a-childs-eyes-is-deeply-emotional/articleshow/129876406.cms",
-    "time": "2026-03-29T06:05:21.000Z"
   },
   {
     "cat": "Sports",
@@ -324,15 +414,6 @@ const newsData_en = [
     "time": "2026-03-29T04:54:08.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Virat Kohli was over': Kaif's post after RCB win goes viral",
-    "desc": "Two years after retiring from T20Is, Virat Kohli continues to shine, scoring an unbeaten 69 to guide Royal Challengers Bengaluru to a big win over Sunrisers Hyderabad. Mohammad Kaif praised his form. Kohli also broke records, becoming the first to 4000 IPL chase runs, as RCB sealed a dominant victory.",
-    "img": "https://static.toiimg.com/photo/msid-129875370,imgsize-63920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-was-over-mohammad-kaifs-post-after-rcb-win-goes-viral/articleshow/129875340.cms",
-    "time": "2026-03-29T04:00:34.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How the oil crunch is reshaping daily life in different nations",
     "desc": "Global economies reel as Middle East conflict escalates, disrupting oil supplies via the Strait of Hormuz. Nations like Vietnam and India are cutting fuel taxes, while Japan and Germany consider increased coal use. Venezuela faces power cuts, and Pakistan grapples with soaring jet fuel prices. Sri Lanka implements strict fuel rationing, highlighting widespread energy challenges.",
@@ -378,15 +459,6 @@ const newsData_en = [
     "time": "2026-03-29T03:03:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "What did the Supreme Court rule on Scheduled Castes and religion?",
-    "desc": "What did the Supreme Court say about Scheduled Caste status for those not belonging to Hinduism, Sikhism, or Buddhism? Can SC status be restored through reconversion? What is the Centre’s position on SC status for Dalit Muslims and Christians? What about Scheduled Tribes?",
-    "img": "https://th-i.thgim.com/public/incoming/ooa5u8/article70797493.ece/alternates/LANDSCAPE_1200/vbk-stock-SClatest_supreme%20court_lat_PTI10_14_2024_000209B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/what-did-the-supreme-court-rule-on-scheduled-castes-and-religion/article70797335.ece",
-    "time": "2026-03-29T02:49:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "RCB rewrite record books with fastest 200+ chase in IPL history",
     "desc": "Royal Challengers Bengaluru achieved the IPL's fastest 200-plus chase, defeating Sunrisers Hyderabad by six wickets. Chasing 202, RCB reached the target in just 15.4 overs, powered by a rapid 101-run partnership between Virat Kohli and Devdutt Padikkal. Padikkal's explosive 61 off 26 balls set the tone for the record-breaking victory.",
@@ -394,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rcb-rewrite-record-books-with-fastest-200-chase-in-ipl-history/articleshow/129874829.cms",
     "time": "2026-03-29T02:41:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bengaluru Metro services disrupted on Purple Line for maintenance",
-    "desc": "The temporary halt disrupted early morning commuters travelling along the busy Purple Line corridor, as the maintenance announcement came only on Sunday morning when the work began, leaving passengers with no time to alter their plans or arrange alternative modes of transport.",
-    "img": "https://th-i.thgim.com/public/incoming/6khtl5/article70798642.ece/alternates/LANDSCAPE_1200/_DSC4242.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-metros-purple-line-services/article70798630.ece",
-    "time": "2026-03-29T02:34:00.000Z"
   },
   {
     "cat": "World",
@@ -414,24 +477,6 @@ const newsData_en = [
     "time": "2026-03-29T02:26:29.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "RCB crush SRH in IPL 2026 opener; MI vs KKR next",
-    "desc": "Defending champions Royal Challengers Bengaluru commenced IPL 2026 with a dominant six-wicket victory over Sunrisers Hyderabad. Virat Kohli anchored the chase with an unbeaten 69, supported by Devdutt Padikkal's explosive 61, as RCB comfortably surpassed 201 with 26 balls to spare. The focus now shifts to Mumbai for the clash between MI and KKR.",
-    "img": "https://static.toiimg.com/photo/msid-129874657,imgsize-124260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/yesterday-match-result-rcb-crush-srh-in-ipl-2026-opener-mi-vs-kkr-next/articleshow/129874658.cms",
-    "time": "2026-03-29T01:57:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli blows flying kiss to Anushka Sharma after RCB’s dominant win",
-    "desc": "Virat Kohli's unbeaten 69 powered Royal Challengers Bengaluru to a six-wicket victory over Sunrisers Hyderabad in the IPL 2026 opener. Kohli's stellar performance, coupled with a romantic gesture towards wife Anushka Sharma, captivated fans. Devdutt Padikkal's quickfire 61 also proved crucial in the successful chase, while Ishan Kishan's 80 wasn't enough for SRH.",
-    "img": "https://static.toiimg.com/photo/msid-129874572,imgsize-35486.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/watch-virat-kohli-blows-flying-kiss-to-anushka-sharma-after-rcbs-dominant-win/articleshow/129874561.cms",
-    "time": "2026-03-29T01:39:04.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. amphibious assault ship arrives in West Asia",
     "desc": "The ship, which is usually based in Japan, arrived in the region on March 27, Centcom said in a post on X, noting that the vessel is the flagship for a contingent of \"about 3,500\" Marines and sailors.",
@@ -441,24 +486,6 @@ const newsData_en = [
     "time": "2026-03-29T01:13:57.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026’s first controversy! Klaasen fumes over ‘debatable’ boundary catch",
-    "desc": "Royal Challengers Bengaluru secured a dominant win over Sunrisers Hyderabad, but a controversial catch by Phil Salt, which led to Heinrich Klaasen's dismissal, sparked debate. Despite the umpire's decision, replays suggested Salt might have touched the boundary sponge. Virat Kohli's unbeaten 69 then powered RCB's successful chase of 202.",
-    "img": "https://static.toiimg.com/photo/msid-129874460,imgsize-16262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026s-first-controversy-srhs-klaasen-fumes-over-debatable-boundary-catch/articleshow/129874453.cms",
-    "time": "2026-03-29T01:12:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli scripts history, becomes the first player to…",
-    "desc": "Virat Kohli etched his name in IPL history, playing his 19th consecutive season for Royal Challengers Bengaluru. He anchored RCB's chase with an unbeaten 69, guiding them to a six-wicket victory over Sunrisers Hyderabad. Devdutt Padikkal's explosive 61 set the stage for the dominant win, while Ishan Kishan's 80 was the highlight for SRH.",
-    "img": "https://static.toiimg.com/photo/msid-129870146,imgsize-234020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-virat-kohli-scripts-history-becomes-the-first-player-to/articleshow/129870081.cms",
-    "time": "2026-03-29T00:30:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Dhurandhar: The Revenge’ makes over Rs 1,200 crore worldwide in 10 days",
     "desc": "The Revenge' is performing strongly at the box office, crossing Rs 1,200 crore worldwide after a 10-day run. The action-thriller saw a significant surge on its second Saturday, contributing to its impressive domestic and global collections. The film continues the story of an undercover agent battling terrorism.",
@@ -466,33 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-10-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampals-film-crosses-rs-1200-crore-mark-worldwide/articleshow/129874297.cms",
     "time": "2026-03-29T00:26:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Not a good precedent for Governors to contest elections immediately after office, says Sreedharan Pillai",
-    "desc": "The BJP leader, who served as Governor of Mizoram and Goa, talks about his decision not to contest the Assembly polls from Chengannur, the BJP-led NDA’s chances, and the focused attacks on the BJP by the LDF and the UDF",
-    "img": "https://th-i.thgim.com/public/incoming/kpzph6/article70796201.ece/alternates/LANDSCAPE_1200/11073_28_3_2026_17_28_24_4_29TVKZ4_SREEDHARANPILLAI.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-not-a-good-precedent-for-governors-to-contest-elections-immediately-after-office-says-sreedharan-pillai/article70796151.ece",
-    "time": "2026-03-29T00:03:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dale Steyn gets Kohli's autograph on India jersey ahead of RCB vs SRH clash",
-    "desc": "Kohli then went on to register two milestones during the game between defending champions Royal Challengers Bengaluru and Sunrisers Hyderabad at the M Chinnaswamy Stadium. He became the first batter in IPL history to cross 4000 runs in run chases.",
-    "img": "https://static.toiimg.com/photo/msid-129871274,imgsize-34876.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-dale-steyn-gets-virat-kohlis-autograph-on-india-jersey-ahead-of-rcb-vs-srh-clash-watch/articleshow/129871267.cms",
-    "time": "2026-03-29T00:00:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Risk of burnout always higher than being undercooked’",
-    "desc": "Royal Challengers Bengaluru began their IPL 2026 season with a strong six-wicket win against Sunrisers Hyderabad. Virat Kohli led the chase with an unbeaten 69. Devdutt Padikkal also played a crucial role with a quickfire 61. The team paid tribute to fans lost last year. This victory sets a positive tone for RCB's campaign.",
-    "img": "https://static.toiimg.com/photo/msid-129870544,imgsize-94562.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-spills-truth-ive-always-risked-burnout-not-being-undercooked-after-rcb-win/articleshow/129870491.cms",
-    "time": "2026-03-28T23:30:00.000Z"
   },
   {
     "cat": "World",
@@ -511,15 +511,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/west-asia-crisis-affecting-lpg-cylinder-supply-to-certain-parts-of-store-network-jubilant-foodworks/article70797541.ece",
     "time": "2026-03-28T22:10:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "OBC and EBC voters are not happy with Nitish Kumar moving to Rajya Sabha, says Anand Mohan",
-    "desc": "Expressing his apprehension, Mr. Mohan added that in days to come or in near future, the ruling parties will not get any benefit from the decision of Nitish Kumar leaving Bihar politics and moving to Rajya Sabha",
-    "img": "https://th-i.thgim.com/public/incoming/6w2ihr/article70797648.ece/alternates/LANDSCAPE_1200/20260326195L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/obc-and-ebc-voters-are-not-happy-with-nitish-kumar-moving-to-rajya-sabha-says-anand-mohan/article70796405.ece",
-    "time": "2026-03-28T21:55:23.000Z"
   },
   {
     "cat": "Business",
@@ -556,15 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/theres-always-another-way-rick-allen-on-survival-drumming-and-def-leppards-first-ever-india-tour/article70792692.ece",
     "time": "2026-03-28T20:12:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kohli, Padikkal shine as RCB chase down 202 with ease against SRH in season opener",
-    "desc": "Chasing 202, RCB reached 203 for 4 in 15.4 overs. Padikkal scored 61 off 26 balls, while Kohli remained unbeaten on 69 from 38 deliveries. The pair added 101 runs for the second wicket in just 45 balls after the early dismissal of Phil Salt.",
-    "img": "https://static.toiimg.com/photo/msid-129870283,imgsize-43702.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-virat-kohli-devdutt-padikkal-shine-as-rcb-chase-down-202-with-ease-against-srh-in-season-opener/articleshow/129870049.cms",
-    "time": "2026-03-28T18:07:39.000Z"
   },
   {
     "cat": "World",
@@ -730,24 +712,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Steel, auto, chemicals to gain from more LPG flow",
-    "desc": "Pankaj Chadha, chairman of engineering exports body EEPC India, said the measure will help steel mills, particularly smaller units, maintain production. “Steel is a key segment of the engineering goods sector, and its shortage could severely impact the production chain. The additional LPG allocation should minimise supply bottlenecks and ensure steady output,” he added.",
-    "img": "https://static.toiimg.com/photo/msid-129857088,imgsize-114580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/steel-auto-chemicals-to-gain-from-more-lpg-flow/articleshow/129857081.cms",
-    "time": "2026-03-28T00:18:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee breaches 94, worst fiscal year fall in over a decade",
-    "desc": "Many analysts are forecasting that oil prices will remain above $100 per barrel for several weeks, pushing up the import bill and inflation. Dealers said that pressure on the rupee has been driven more by heavy foreign investor selloffs than by the West Asia conflict, with outflows crossing $13 billion this month, an all-time high.",
-    "img": "https://static.toiimg.com/photo/msid-129857084,imgsize-46040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-breaches-94-worst-fiscal-year-fall-in-over-a-decade/articleshow/129857083.cms",
-    "time": "2026-03-28T00:15:20.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "West Asia crisis, sea route disruptions hit India’s coffee exports to the region, Europe, U.S.",
     "desc": "Some 300 containers of India’s coffee exports, meant for West Asian market, are currently stranded at various ports or slowly moving through the Strait of Hormuz, throwing the country’s coffee exporters into a sea of uncertainties and cost escalations. The country exported 3.84 lakh tonnes of coffee in 2025, down 4.47% from the previous year’s 3.84 lakh tonnes",
     "img": "https://th-i.thgim.com/public/incoming/69oxdl/article70793769.ece/alternates/LANDSCAPE_1200/Coffee-harvest-GP7FH1KMB.2.jpg.jpg",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
   }
 ];

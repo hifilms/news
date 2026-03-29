@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Devdutt Padikkal reveals Virat Kohli's instruction during his rampage against SRH in IPL 2026 opener",
+    "desc": "Devdutt Padikkal was on a rampage in Royal Challengers Bengaluru's IPL 2026 opener against the Sunrisers Hyderabad on Saturday, March 28. The 25-year-old batter took the attack on the SRH bowling unit with a blasting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-reveals-virat-kohlis-instruction-during-his-rampage-against-srh-in-ipl-2026-opener-2026-03-29-1035522",
+    "time": "2026-03-29T11:35:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli creates all-time IPL record after stellar knock in record chase against SRH",
+    "desc": "Royal Challengers Bengaluru stalwart Virat Kohli created an all-time historical record during his team's record run-chase against Sunrisers Hyderabad in the IPL 2026 opener on Saturday, March 28. Kohli played a stellar 69-run knock from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-creates-all-time-ipl-record-after-stellar-knock-in-record-chase-against-srh-2026-03-29-1035521",
+    "time": "2026-03-29T11:19:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "19-year-old sensation Kimi Antonelli achieves F1 history after winning Japanese GP",
+    "desc": "Mercedes young sensation Kimi Antonelli has etched his name into the history books after winning the Japanese GP with a stellar drive in Suzuka on Sunday, March 29. The 19-year-old Italian has now won back-to-back...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/formula-1/19-year-old-sensation-kimi-antonelli-achieves-f1-history-after-winning-japanese-gp-2026-03-29-1035514",
+    "time": "2026-03-29T10:45:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Haven't had a moment to stop': Aryna Sabalenka opens up after defeating Coco Gauff in Miami Open final",
     "desc": "Belarus’ Aryna Sabalenka extended her stay at the number one spot in the WTA rankings after she defeated Coco Gauff in the summit clash of the Miami Open 2026. She re-established herself as one of...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/the-real-difference-srh-head-coach-weighs-in-on-turning-point-after-loss-against-rcb-in-ipl-2026-opener-2026-03-29-1035469",
     "time": "2026-03-29T02:45:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England's Test skipper Ben Stokes ruled out of action until May due to broken cheekbone",
-    "desc": "In a major blow, England’s Test skipper Ben Stokes has been ruled out of action until May 2026 due to a broken cheekbone. Stokes is expected to miss the first month of the county season...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-s-test-skipper-ben-stokes-ruled-out-of-action-until-may-due-to-broken-cheekbone-2026-03-29-1035465",
-    "time": "2026-03-29T01:47:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli shares recipe behind sheer consistency, registers 17th 50+ total in last 33 IPL matches",
-    "desc": "Virat Kohli has rediscovered himself in white-ball cricket. After a couple of underwhelming years, many former cricketers and experts called him out over poor form, with some claiming that Kohli no longer fits in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-shares-recipe-behind-sheer-consistency-registers-17th-50-total-in-last-33-ipl-matches-2026-03-28-1035461",
-    "time": "2026-03-28T18:24:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB create history with commanding win over Sunrisers Hyderabad in IPL 2026 opener",
-    "desc": "Royal Challengers Bengaluru defeated Sunrisers Hyderabad by six wickets in their IPL 2026 opener at the M Chinnaswamy Stadium. Chasing 202 runs, the Rajat Patidar-led side dominated with the bat, with Devdutt Padikkal and Virat...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-create-history-with-commanding-win-over-sunrisers-hyderabad-in-ipl-2026-opener-2026-03-28-1035459",
-    "time": "2026-03-28T18:09:20.000Z"
   }
 ];
