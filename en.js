@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Afghanistan accuses Pakistan of shelling outskirts of eastern city, killing and wounding civilians",
+    "desc": "Afghan deputy government spokesman Hamdullah Fitrat said that “mortars and other heavy weaponry” were used Sunday afternoon to strike rural areas and civilian homes on the outskirts of the city of Asadabad in Kunar Province",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/afghanistan-accuses-pakistan-of-shelling-outskirts-of-eastern-city-killing-and-wounding-civilians/article70800735.ece",
+    "time": "2026-03-29T21:18:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI’s forced dollar unwind to keep rupee from sliding, bruise banks",
+    "desc": "Until Friday, banks could run net open positions of up to 25% of their net worth. In practice, large lenders often accumulated sizeable long dollar bets, sometimes in excess of of $1 billion, on expectations of rupee depreciation. The new cap forces a rapid reversal. By April 10, 2026, banks must cut these exposures to $100 million. This compels them to sell dollars and buy rupees to close the gap.",
+    "img": "https://static.toiimg.com/photo/msid-129887247,imgsize-92132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rbis-forced-dollar-unwind-to-keep-rupee-from-sliding-bruise-banks/articleshow/129887248.cms",
+    "time": "2026-03-29T21:12:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "No jail term for farm goods, textiles export rule slip-ups",
+    "desc": "Similarly, failure to furnish information or sample, or furnishing false information or sample and damaging books of account or refusal to furnish it will not result in a jail term of up to three months, instead a fine of Rs 10,000-25,000 can be levied under the Handlooms (Reservation of Articles for Production) Act.",
+    "img": "https://static.toiimg.com/photo/msid-129887240,imgsize-136274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/no-jail-term-for-farm-goods-textiles-export-rule-slip-ups/articleshow/129887241.cms",
+    "time": "2026-03-29T21:08:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Foreign brokerages cut India Inc’s earnings, index targets",
+    "desc": "Foreign broking major Goldman Sachs has cut the Nifty target to 25,900 points from 29,300 points earlier while Citigroup has revised down their target for the index to 27,000 points from 28,500 points earlier. On its part, HSBC said that historical trend shows that a 20% rise in oil price could drag down earnings of India Inc by 1.3 percentage points. Since the war started crude oil prices are up about 50-55%.",
+    "img": "https://static.toiimg.com/photo/msid-129887238,imgsize-13752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/foreign-brokerages-cut-india-incs-earnings-index-targets/articleshow/129887233.cms",
+    "time": "2026-03-29T21:03:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Maoist campaign saw continuity across regimes, sharper push recently: Former MHA official",
+    "desc": "He said that the years 2006-2009 were the most difficult, and the gradual gains made over the years found a resolute push in the past two-years when Home Minister Amit Shah set a deadline of March 31, 2026, to eradicate Left Wing Extremism from the country",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maoist-campaign-saw-continuity-across-regimes-sharper-push-recently-former-mha-official/article70800362.ece",
+    "time": "2026-03-29T20:56:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Despite assurance from Centre, MGNREGS workers denied work",
+    "desc": "From Bihar to Rajasthan, thousands of rural workers say work has been halted; some district officials say they have been directed not to start new works as MGNREGA has been discontinued, though there are no such formal orders",
+    "img": "https://th-i.thgim.com/public/incoming/cze857/article70799916.ece/alternates/LANDSCAPE_1200/TH29-Sobhana-EcG3QFGOBHA.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/mgnrega-workers-denied-work-despite-centres-assurance-of-continuity/article70799564.ece",
+    "time": "2026-03-29T20:56:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RGV questions ‘loud silence’ over Dhurandhar 2 BO storm",
+    "desc": "The Revenge is rewriting box office records, but Ram Gopal Varma is now calling out the film industry for what he describes as a “loud silence” around its success. The Ranveer Singh-led film has crossed a staggering Rs 1,200 crore worldwide, even surpassing the lifetime collections of RRR. Despite its phenomenal run, Varma questioned why more industry voices haven’t openly celebrated the achievement.",
+    "img": "https://static.toiimg.com/photo/msid-129887136,imgsize-79326.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-questions-loud-silence-over-dhurandhar-the-revenges-box-office-storm-are-they-paralysed-by-its-brilliance/articleshow/129887136.cms",
+    "time": "2026-03-29T20:54:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In manifesto, DMK promises homemakers ₹8,000 coupon for buying home appliances of choice",
+    "desc": "Illatharasi scheme will allow homemakers to buy or replace household appliances. It will be the “heroine” of the 2026 election, says DMK president and Chief Minister M.K. Stalin. The manifesto also proposes to extend the Chief Minister’s Breakfast Scheme up to Class 8",
+    "img": "https://th-i.thgim.com/public/incoming/6ui5ii/article70800501.ece/alternates/LANDSCAPE_1200/4871_29_3_2026_20_19_36_1_DSC_5288.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-elections-2026-dmk-election-manifesto/article70799667.ece",
+    "time": "2026-03-29T20:36:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TVK chief Vijay to make electoral debut from Perambur, Tiruchi East constituencies in Tamil Nadu Assembly election",
+    "desc": "TVK general secretary ‘Bussy’ N. Anand will contest from T. Nagar in Chennai, while K.A. Sengottaiyan will test the waters from his home turf, Gobichettipalayam. Aadhav Arjuna will contest from Villivakkam, K.G. Arunraaj from Tiruchengode and C.T.R. Nirmal Kumar from Thirupparankundram.",
+    "img": "https://th-i.thgim.com/public/incoming/87vkjb/article70800293.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-29%20at%2020.19.13.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-to-contest-from-perambur-tiruchi-east-constituencies-making-electoral-debut-in-tn-assembly-election-2026/article70798908.ece",
+    "time": "2026-03-29T20:11:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Tea body seeks clarity on Assam land transfer policy for plantation workers",
+    "desc": "Two months ahead of the elections, the BJP-led government amended a law to grant legal land rights to 3.5 lakh families of plantation workers living in the labour lines of more than 800 tea estates",
+    "img": "https://th-i.thgim.com/public/incoming/txtsgk/article70800706.ece/alternates/LANDSCAPE_1200/PTI12_04_2025_000218B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/assam/tea-body-seeks-clarity-on-assam-land-transfer-policy-for-plantation-workers/article70800268.ece",
+    "time": "2026-03-29T20:08:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sonam Kapoor, Anand Ahuja welcome second baby boy",
+    "desc": "Sonam Kapoor and Anand Ahuja have welcomed their second child, a baby boy, on March 29, 2026. The actor shared the joyful news on social media with a heartfelt note, announcing the arrival of their newest family member. “With immense gratitude and hearts full of love, we are delighted to announce the arrival of our baby boy today, 29th of March 2026,” she wrote.",
+    "img": "https://static.toiimg.com/photo/msid-129886851,imgsize-90922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonam-kapoor-anand-ahuja-welcome-second-baby-boy-vayu-is-overjoyed-to-welcome-his-little-brother/articleshow/129886851.cms",
+    "time": "2026-03-29T19:33:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sabalenka sinks Gauff to win second straight Miami Open title",
+    "desc": "\"It means a lot,\" Sabalenka said after joining Poland's Swiatek, German great Steffi Graf, Belgian Kim Clijsters and fellow Belarusian Victoria Azarenka on the list of women to win both titles in the same year",
+    "img": "https://th-i.thgim.com/public/incoming/le966j/article70800679.ece/alternates/LANDSCAPE_1200/2026-03-29T082024Z_1128242839_28609678_RTRMADP_3_TENNIS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/sabalenka-sinks-gauff-to-win-second-straight-miami-open-title/article70800671.ece",
+    "time": "2026-03-29T19:18:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengaluru metro ridership doubles as IPL ticket–metro integration draws over 22,000 commuters",
+    "desc": "According to a release by BMRCL, the move saw a sharp rise in ridership compared to the usual 8,000–10,000 commuters on match days, while also easing congestion and parking pressure in the central business district.",
+    "img": "https://th-i.thgim.com/public/incoming/twoexb/article70800668.ece/alternates/LANDSCAPE_1200/Bengaluru-metroGUBFP0NBD.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-metro-ridership-doubles-as-ipl-ticketmetro-integration-draws-over-22000-commuters/article70800461.ece",
+    "time": "2026-03-29T19:18:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rahul Arunoday Banerjee's wife Priyanka Sarkar asks for privacy",
+    "desc": "Popular Bengali actor Rahul Arunoday Banerjee died on Sunday (March 29) following an accidental drowning at Talsari in Digha, near the Odisha–West Bengal border. He was 43. His wife, Priyanka Sarkar, shared a statement on Instagram, requesting privacy as the family deals with the loss.",
+    "img": "https://static.toiimg.com/photo/msid-129886607,imgsize-77784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/rahul-arunoday-banerjee-dies-at-43-after-drowning-in-digha-wife-priyanka-sarkar-asks-for-dignity-and-privacy-in-first-statement/articleshow/129886607.cms",
+    "time": "2026-03-29T19:08:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Martin grabs MotoGP standings lead with dramatic U.S. sprint victory",
+    "desc": "The Aprilia rider came from seventh on the grid to win a dramatic sprint in which Marco Bezzecchi crashed out and Marc Marquez also slid off the track, taking pole-sitter Fabio Di Giannantonio with him",
+    "img": "https://th-i.thgim.com/public/incoming/ogl7c3/article70800655.ece/alternates/LANDSCAPE_1200/2026-03-28T214807Z_1937017284_MT1USATODAY28608947_RTRMADP_3_MOTORCYCLE-RACING-MOTOGP-RED-BULL-GRAND-PRIX-OF-THE-UNITED-STATES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/martin-grabs-motogp-standings-lead-with-dramatic-us-sprint-victory/article70800653.ece",
+    "time": "2026-03-29T19:08:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengaluru Metro services disrupted on Purple Line for maintenance",
+    "desc": "The temporary halt disrupted early morning commuters travelling along the busy Purple Line corridor, as the maintenance announcement came only on Sunday morning when the work began, leaving passengers with no time to alter their plans or arrange alternative modes of transport.",
+    "img": "https://th-i.thgim.com/public/incoming/6khtl5/article70798642.ece/alternates/LANDSCAPE_1200/_DSC4242.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-metros-purple-line-services/article70798630.ece",
+    "time": "2026-03-29T19:08:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "tradition goes for a toss",
+    "desc": "The rotation system was introduced to ensure that everyone got their fair share of matches but now it’s a system that exists either only on paper or in one’s imagination because clearly, in reality, it has been given the heave-ho",
+    "img": "https://th-i.thgim.com/public/sport/vwg7kc/article70800468.ece/alternates/LANDSCAPE_1200/EDEN%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/selection-of-test-venues-tradition-goes-for-a-toss/article70800465.ece",
+    "time": "2026-03-29T18:48:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Poll promises may hit the coffers hard",
+    "desc": "While campaigning, LDF is highlighting welfare measures such as increased pensions and monthly wages implemented by the government. UDF has promised five basic ‘welfare guarantees,’ including raising welfare pensions to ₹3,000 if it comes to power. Experts question the rationale of such promises, given the huge cost involved in implementing and sustaining them",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-poll-promises-may-hit-the-coffers-hard/article70799420.ece",
+    "time": "2026-03-29T18:38:25.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Promises delivered and undelivered during 5 years of DMK government",
     "desc": "The govt. introduced schemes that did not figure in its manifesto, even while delivering key assurances such as Kalaignar Magalir Urimai Thittam and free bus travel; but it has not formulated the Higher Education policy, set up Kalaignar Canteens or created special courts for corruption cases",
@@ -9,13 +171,13 @@ const newsData_en = [
     "time": "2026-03-29T18:34:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Poll promises may hit the coffers hard",
-    "desc": "While campaigning, LDF is highlighting welfare measures such as increased pensions and monthly wages implemented by the government. UDF has promised five basic ‘welfare guarantees,’ including raising welfare pensions to ₹3,000 if it comes to power. Experts question the rationale of such promises, given the huge cost involved in implementing and sustaining them",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-poll-promises-may-hit-the-coffers-hard/article70799420.ece",
-    "time": "2026-03-29T18:31:17.000Z"
+    "cat": "Entertainment",
+    "title": "Rahul Arunoday Banerjee’s last video from set goes viral",
+    "desc": "A video of Bengali actor Rahul Arunoday Banerjee from the sets of his show Bholebaba Paar Karega is circulating on social media following news of his untimely death at 43. Rahul reportedly drowned at Talsari beach in Odisha during the shoot. The now-viral clip shows Rahul preparing for a shot with a female co-actor near a car, surrounded by a crowd of onlookers.",
+    "img": "https://static.toiimg.com/photo/msid-129885974,imgsize-79012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/rahul-arunoday-banerjees-last-video-from-bholebaba-paar-karega-set-goes-viral-after-drowning-tragedy-mamata-banerjee-mourns-loss/articleshow/129885974.cms",
+    "time": "2026-03-29T18:25:10.000Z"
   },
   {
     "cat": "Politics",
@@ -72,24 +234,6 @@ const newsData_en = [
     "time": "2026-03-29T17:48:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "DMK promises homemakers ₹8,000 coupon for buying home appliances of their choice",
-    "desc": "Illatharasi scheme will allow homemakers to buy or replace household appliances. It will be the “heroine” of the 2026 election, says DMK president and Chief Minister M.K. Stalin. The manifesto also proposes to extend the Chief Minister’s Breakfast Scheme up to Class 8",
-    "img": "https://th-i.thgim.com/public/incoming/i2bptz/article70800501.ece/alternates/LANDSCAPE_1200/4871_29_3_2026_20_19_36_1_DSC_5288.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-elections-2026-dmk-election-manifesto/article70799667.ece",
-    "time": "2026-03-29T17:19:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What is the Maharashtra Freedom of Religion Bill?",
-    "desc": "How does the 60-day notice requirement work? Who can file a complaint under the law? What penalties does the Bill prescribe for violations? When can a marriage be declared null and void? Why have civil rights groups raised concerns? How has the State justified the need for the law?",
-    "img": "https://th-i.thgim.com/public/incoming/jsdqt3/article70800505.ece/alternates/LANDSCAPE_1200/PTI03_11_2026_000328B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/what-is-the-maharashtra-freedom-of-religion-bill-explained/article70799325.ece",
-    "time": "2026-03-29T17:18:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rohit Sharma scripts history with 50th IPL fifty, joins Virat Kohli in elite list",
     "desc": "Rohit Sharma's magnificent 78 off 39 balls powered Mumbai Indians' chase against KKR, marking his 50th IPL half-century. He partnered with Ryan Rickelton for a record 148-run opening stand, setting the tone for a strong pursuit of KKR's 221. Despite falling short of a century, Sharma's innings was crucial in keeping MI ahead of the required rate.",
@@ -106,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holidays-dalal-street-heads-for-holiday-shortened-week-amid-mahavir-jayanti-good-friday/articleshow/129884289.cms",
     "time": "2026-03-29T17:12:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Closed-door meeting at CM’s house on the eve of Nitish Kumar’s likely resignation",
-    "desc": "Sources say some senior JD(U) leaders pleaded with Mr. Kumar to stay in Bihar politics; BJP national president Nitin Nabin was also scheduled to resign as an MLA, but postponed it at the last minute",
-    "img": "https://th-i.thgim.com/public/incoming/e74vq/article70800457.ece/alternates/LANDSCAPE_1200/20260325202L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/closed-door-meeting-at-cms-house-on-the-eve-of-nitish-kumars-likely-resignation/article70799993.ece",
-    "time": "2026-03-29T16:55:57.000Z"
   },
   {
     "cat": "World",
@@ -151,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/kpmg-uk-puts-nearly-600-audit-jobs-at-risk-as-cost-pressure-deepens-advisory-cuts-also-hit/articleshow/129883629.cms",
     "time": "2026-03-29T16:31:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TVK chief Vijay to make electoral debut from Perambur, Tiruchi East; prominent faces in Chennai",
-    "desc": "TVK general secretary ‘Bussy’ N. Anand will contest from T. Nagar in Chennai, while K.A. Sengottaiyan will test the waters from his home turf, Gobichettipalayam. Aadhav Arjuna will contest from Villivakkam, K.G. Arunraaj from Tiruchengode and C.T.R. Nirmal Kumar from Thirupparankundram.",
-    "img": "https://th-i.thgim.com/public/incoming/87vkjb/article70800293.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-29%20at%2020.19.13.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-to-contest-from-perambur-tiruchi-east-constituencies-making-electoral-debut-in-tn-assembly-election-2026/article70798908.ece",
-    "time": "2026-03-29T16:27:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -441,33 +567,6 @@ const newsData_en = [
     "time": "2026-03-29T08:42:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Director Vasanthabalan slams 'Kashmir Files' and 'Dhurandhar'",
-    "desc": "Filmmaker Vasanthabalan has strongly criticized recent movies. He stated that films like 'Kashmir Files' and 'Dhurandhar' are spreading hate in a planned way. Vasanthabalan believes cinema should unite people, not divide them. Director Vetri Maaran also made indirect comments against hate politics in films. The discussion highlights the responsibility of filmmakers in shaping public opinion through their work.",
-    "img": "https://static.toiimg.com/photo/msid-129877822,imgsize-78370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/director-vasanthabalan-slams-kashmir-files-and-dhurandhar-hate-is-being-spread-in-a-planned-way-through-cinema/articleshow/129877822.cms",
-    "time": "2026-03-29T08:38:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Justin Timberlake and Jessica Biel’s marriage strained: Report",
-    "desc": "Justin Timberlake and Jessica Biel's marriage is reportedly strained following the resurfacing of his 2024 DUI arrest video. Sources reveal Biel is supportive but frustrated, as the footage reignites past embarrassments. Despite the tension, the couple remains focused on their children and careers, with no official word of separation.",
-    "img": "https://static.toiimg.com/photo/msid-129877796,imgsize-118390.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/justin-timberlake-and-jessica-biels-marriage-strained-after-dui-video-fallout-only-so-much-she-can-put-up-with/articleshow/129877783.cms",
-    "time": "2026-03-29T08:32:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "R. Parthiban applies for no caste, no religion certificate",
-    "desc": "Actor-director R. Parthiban has applied for a no-caste, no-religion certificate. This follows controversy after his speech at the 'Ustaad Bhagat Singh' event. Parthiban stated the backlash deeply affected him. He explained a slip of tongue caused the issue. He has taken legal steps to remove caste and religion from his identity.",
-    "img": "https://static.toiimg.com/photo/msid-129877748,imgsize-247840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/r-parthiban-applies-for-no-caste-no-religion-certificate-after-ustaad-bhagat-singh-row-i-never-felt-this-broken/articleshow/129877748.cms",
-    "time": "2026-03-29T08:30:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Mumbai Indians hit 300-match mark, first franchise to reach T20 milestone",
     "desc": "Mumbai Indians are set to become the first franchise team to play 300 T20 matches when they face Kolkata Knight Riders in their IPL 2026 opener. This historic milestone underscores their enduring presence and success in the shortest format of the game. The team aims to mark this occasion by ending their five-year title drought.",
@@ -484,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/strait-of-hormuz-chokehold-what-is-happening-to-petrol-prices-in-india-and-neighbouring-nations-amid-oil-supply-crunch/articleshow/129876492.cms",
     "time": "2026-03-29T08:12:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gopichand Malineni shuts down 'NBK111' casting rumours",
-    "desc": "Director Gopichand Malineni has humorously denied casting rumors for Dimple Hayathi in Nandamuri Balakrishna's upcoming film 'NBK111'. He used a Mahesh Babu meme to shut down the speculation. Nayanthara is expected to play the female lead. The film is set in Mumbai with Balakrishna as a gangster. Samuthirakani is also part of the cast. Thaman is composing the music.",
-    "img": "https://static.toiimg.com/photo/msid-129877179,imgsize-101060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/has-dimple-hayathi-joined-balakrishnas-nbk111-gopichand-malineni-shuts-down-casting-rumours-with-a-mahesh-babu-meme/articleshow/129877179.cms",
-    "time": "2026-03-29T07:30:18.000Z"
   },
   {
     "cat": "Sports",
@@ -693,24 +783,6 @@ const newsData_en = [
     "time": "2026-03-28T11:33:47.000Z"
   },
   {
-    "cat": "World",
-    "title": "Rubio sees U.S. action in Iran completed in weeks as airstrikes rumble on",
-    "desc": "Mr. Rubio told reporters after meeting Group of Seven counterparts in France that Washington was “on or ahead of schedule in that operation and expect to conclude it at the appropriate time here - a matter of weeks, not months”.",
-    "img": "https://th-i.thgim.com/public/incoming/ieiqhq/article70795709.ece/alternates/LANDSCAPE_1200/France_G7_Foreign_Ministers_Meeting_16_47.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/rubio-sees-us-action-in-iran-completed-in-weeks-as-airstrikes-rumble-on/article70795587.ece",
-    "time": "2026-03-28T08:10:06.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Pakistan, IMF strike deal over disbursement of $1.2 billion fund",
-    "desc": "IMF mission chief Iva Petrova said, subject to IMF board approval, Pakistan will have access to about $1.0 billion (SDR 760 million) under the EFF and about $210 million (SDR 154 million) under the RSF",
-    "img": "https://th-i.thgim.com/public/incoming/jh6bdu/article70795529.ece/alternates/LANDSCAPE_1200/2026-03-28T030131Z_1603688151_RC2SBBAMVE5Q_RTRMADP_3_IMF-PAKISTAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/pakistan-imf-strike-deal-over-disbursement-of-12-billion-fund/article70795507.ece",
-    "time": "2026-03-28T07:59:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How did I become a coach and Carlsen’s second? I got too weak as a player: Jan Gustafsson",
     "desc": "Gustafsson has lived in many corners of the chess world. In addition to discussing his various experiences in the game, he also talks in this interview about the Candidates, which begins on Sunday, and the rise of German chess",
@@ -765,24 +837,6 @@ const newsData_en = [
     "time": "2026-03-27T16:01:07.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Cummins is fit and working on his bowling load, says SRH head coach Vettori",
-    "desc": "“The only challenge for Cummins was the bowling load. Once he got the all-clear from Cricket Australia to build those bowling loads, it’s a bit of a painstaking process to get the lungs up to where he feels confident and strong about bowling” says SRK head coach Daniel Vettori",
-    "img": "https://th-i.thgim.com/public/incoming/qpe34u/article70793296.ece/alternates/LANDSCAPE_1200/_DSC0164.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-srh-vs-rcb-cummins-is-fit-and-working-on-his-bowling-load-says-srh-head-coach-vettori/article70793083.ece",
-    "time": "2026-03-27T15:50:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kochi gearing up for India’s AFC qualifier against Hong Kong",
-    "desc": "The Kerala Football Association president Navas Meeran tells The Hindu that the dispute with the Greater Cochin Development Authority on rent payment and security deposit has been resolved; the KFA chief adds that “such incidents should not happen”, while calling it a “technical issue”",
-    "img": "https://th-i.thgim.com/public/sport/h5qbcr/article70793250.ece/alternates/LANDSCAPE_1200/kochi.foot2.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/kochi-gearing-up-for-indias-afc-qualifier-against-hong-kong/article70793252.ece",
-    "time": "2026-03-27T14:49:08.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Fulva, a halwa start-up from Kozhikode, secures an investment from entrepreneur Aman Gupta",
     "desc": "Launched in September 2023, Fulva has secured an investment from the co-founder of boAt. The start-up specialises in halwa flavours, ranging from the traditional black halwa to innovative varieties such as green chilli and passion fruit",
@@ -790,15 +844,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/food/features/fulva-a-halwa-start-up-from-kozhikode-secures-an-investment-from-entrepreneur-aman-gupta/article70787790.ece",
     "time": "2026-03-27T14:47:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "In maiden IPL, Auqib Nabi wants to stay true to his strengths",
-    "desc": "With the 29-year-old in the prime of his career, a chance in the Indian Premier League — he was picked up by Delhi Capitals for ₹8.4 crore in December’s mini-auction — couldn’t have come at a more opportune moment",
-    "img": "https://th-i.thgim.com/public/incoming/i92700/article70793008.ece/alternates/LANDSCAPE_1200/_DSC3028.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/in-maiden-ipl-auqib-nabi-wants-to-stay-true-to-his-strengths/article70792933.ece",
-    "time": "2026-03-27T13:57:26.000Z"
   },
   {
     "cat": "Business",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/tighee-jeejivisha-kale-marathi-film-sonalee-kulkarni-neha-pendse-bharti-achrekar-nikhil-mahajan/article70784030.ece",
     "time": "2026-03-26T06:22:52.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Meta is laying off hundreds of employees, source says",
-    "desc": "“Teams across ‌Meta regularly restructure or implement changes ​to ensure they’re in the best position to achieve ⁠their goals. Where possible, we are finding other opportunities for employees whose positions ‌may be impacted,” a Meta spokesperson said",
-    "img": "https://th-i.thgim.com/public/incoming/58g818/article70786607.ece/alternates/LANDSCAPE_1200/2026-02-09T103924Z_565968379_RC2VPGAKTI7X_RTRMADP_3_EU-META-PLATFORMS-AI-ANTITRUST.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/meta-is-laying-off-hundreds-of-employees-source-says/article70786606.ece",
-    "time": "2026-03-26T04:21:36.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "New Mexico jury says Meta harms children’s mental health and safety, violating state law",
-    "desc": "The landmark decision comes after a nearly seven-week trial, and as jurors in a federal court in California have been sequestered in deliberations for more than a week about whether Meta and YouTube should be liable in a similar case",
-    "img": "https://th-i.thgim.com/public/incoming/7366yo/article70782439.ece/alternates/LANDSCAPE_1200/Meta_New_Mexico_Trial_13859.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/new-mexico-jury-says-meta-harms-childrens-mental-health-and-safety-violating-state-law/article70782437.ece",
-    "time": "2026-03-25T13:00:53.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "With NavIC setback, India unable to use satellite system for security purposes: experts",
-    "desc": "A major setback occurred after the last atomic clock on board the Indian Regional Navigational Satellite System-1F (IRNSS-1F) stopped functioning on March 10, leaving only three satellites of the NavIC constellation in function; armed forces of countries use the navigation satellite system for logistics, mapping and operational planning, and relying on a foreign navigation satellite system could pose security issues, especially during wars",
-    "img": "https://th-i.thgim.com/public/incoming/46xqm/article70784020.ece/alternates/LANDSCAPE_1200/PTI8_30_2017_000133B.JPEG-07231.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/another-satellite-in-navic-satellite-system-unable-to-function-limiting-its-security-capabilities-amid-concerns-of-reliance-on-foreign-navigation-systems/article70783744.ece",
-    "time": "2026-03-25T12:37:11.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
