@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why did Cameron Green not bowl against Mumbai Indians? Check Cricket Australia's big clarification",
+    "desc": "Mumbai Indians defeated Kolkata Knight Riders in the 2nd game of the ongoing IPL (Indian Premier League) 2026. The five-time champions dominated Kolkata in several aspects of the game. Still, despite MI registering a brilliant...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-did-cameron-green-not-bowl-against-mumbai-indians-check-cricket-australia-s-big-clarification-2026-03-30-1035586",
+    "time": "2026-03-30T06:04:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Barsapara Stadium in Guwahati play in IPL 2026?",
+    "desc": "Game 3 of the ongoing IPL (Indian Premier League) 2026 sees Rajasthan Royals taking on Chennai Super Kings. The two sides lock horns at the Barsapara Stadium in Guwahati on March 30, and both teams...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-csk-pitch-report-how-will-surface-at-barsapara-stadium-in-guwahati-play-in-ipl-2026-2026-03-30-1035583",
+    "time": "2026-03-30T05:31:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Matter of some concern': R Ashwin flags early warning signs for MI star after stellar win over KKR",
     "desc": "The 2nd game of the ongoing IPL (Indian Premier League) 2026 saw Mumbai Indians dominate three-time champions Kolkata Knight Riders and register a six-wicket win to kick off their IPL 2026 campaign in the perfect...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/after-ms-dhoni-csk-dealt-with-another-injury-blow-star-batter-ruled-out-of-teams-ipl-2026-opener-2026-03-29-1035538",
     "time": "2026-03-29T14:58:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Harshit Rana not playing in MI vs KKR IPL 2026 at Wankhede Stadium?",
-    "desc": "Kolkata Knight Riders open their IPL 2026 campaign against the Mumbai Indians at the Wankhede Stadium as they look to bounce back from their poor 2025 season. The Knight Riders have been pegged back by...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-harshit-rana-not-playing-in-mi-vs-kkr-ipl-2026-at-wankhede-stadium-2026-03-29-1035535",
-    "time": "2026-03-29T14:05:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Quinton de Kock not playing for MI in their IPL 2026 opener against KKR?",
-    "desc": "Quinton de Kock missed out as the Mumbai Indians face the Kolkata Knight Riders in their IPL 2026 opener at the Wankhede Stadium in Mumbai on Sunday, March 29. Having returned with the MI, many...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-quinton-de-kock-not-playing-for-mi-in-their-ipl-2026-opener-against-kkr-2026-03-29-1035534",
-    "time": "2026-03-29T13:50:46.000Z"
   }
 ];

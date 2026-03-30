@@ -1,12 +1,57 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "5 વર્ષ નહીં હવે 1 વર્ષમાં ગ્રેચ્યુઇટી, ₹50,000 પગાર હશે તો મળશે ₹28,847, 1 એપ્રિલથી નવો નિયમ લાગૂ",
+    "desc": "1 એપ્રિલથી લાગૂ થઈ રહેલા નવા લેબર કોડ્સથી કર્મચારીઓને મોટો ફાયદો થશે. હવે ગ્રેચ્યુઇટી મેળવવા માટે પાંચ વર્ષની રાહ જોવી પડશે નહીં. હવે જે કર્મચારી 1 વર્ષ નોકરી કરશે તો પણ તેને ગ્રેચ્યુઇટીનો લાભ મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gratuity-rule-change-2026-1-year-eligibility-calculation-salary-benefit-470727 ",
+    "time": "2026-03-30T07:08:51.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "&amp;#039;આઈ લવ યુ ડાર્લિંગ&amp;#039; લેડી ડોનનો પોલીસ અધિકારી પર ગંદા મેસેજ કરવાનો આરોપ, જાણો શું છે મામલો",
+    "title": "માત્ર 5 પૈસા માટે 40 વર્ષ સુધી ચાલ્યો કેસ: બસ કંડક્ટરની કહાનીએ લોકોને કર્યા ઈમોશનલ",
+    "desc": "દિલ્હીના એક બસ કંડક્ટરને માત્ર 5 પૈસાના આરોપમાં 40 વર્ષ સુધી કોર્ટના ધક્કા ખાવા પડ્યા. હાલમાં તેમની આ કહાની સોશિયલ મીડિયા પર વાયરલ થઈ રહી છે અને લોકો આપણી ન્યાય વ્યવસ્થા સામે અનેક સવાલો ઉઠાવી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/case-over-5-paise-dragged-on-for-40-years-delhi-bus-conductors-story-moves-people-to-tears-470724 ",
+    "time": "2026-03-30T06:52:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "યુદ્ધની સ્થિતિમાં પણ સોનું-ચાંદી ગગડ્યા, ગોલ્ડ 40,000 અને ચાંદી 1.93 લાખ સુધી થઈ ચૂક્યા છે સસ્તા",
+    "desc": "સોના અને ચાંદીમાં છેલ્લા કેટલાય સમયથી ભારે ઉથલપાથલ જોવા મળી રહી છે. સતત ભાવમાં ઉતાર ચડાવ જોવા મળી રહ્યો છે. ઈરાન અને ઈઝરાયેલ અમેરિકા વચ્ચે જ્યારથી યુદ્ધ શરૂ થયું છે ત્યારથી લઈને અત્યાર સુધીમાં સોનું 15 ટકા સુધી ગગડી ચૂક્યું છે. આ ઘટાડો વર્ષ 2008 બાદ જોઈએ તો સૌથી મોટો માસિક ઘટાડો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/even-in-a-war-situation-gold-and-silver-rate-fallen-gold-cheaper-by-40000-silver-1-93-lakh-check-details-470723 ",
+    "time": "2026-03-30T06:51:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ઉનાળાનું વેકેશનમાં બહાર ફરવા જવાનું વિચારો છો? તો જાણી લેજો અમદાવાદથી કઈ ટ્રેનમાં કેટલું છે વેઇટિંગ?",
+    "desc": "ઉનાળાના વેકેશનને હવે ગણતરીના દિવસો જ બાકી રહ્યા છે, ત્યારે મુસાફરોએ અત્યારથી જ વતન કે પ્રવાસ પર જવા માટે કમર કસી લીધી છે. જી હા... ઉનાળા વેકેશન શરૂ થવાને હજુ બે સપ્તાહ બાકી છે, પરંતુ અમદાવાદથી ઉત્તર ભારત તરફ જતી લાંબા અંતરની ટ્રેનોમાં અત્યારથી જ સ્થિતિ કપરી બની ગઈ છે. મુસાફરો માટે કન્ફર્મ ટિકિટ મેળવવી જાણે લોઢાના ચણા ચાવવા જેવી સ્થિતિ બની ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/summer-vacation-is-still-two-weeks-away-yet-trains-from-ahmedabad-to-north-india-are-housefull-more-than-100-waiting-470703 ",
+    "time": "2026-03-30T06:32:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;આઈ લવ યુ ડાર્લિંગ&amp;#039; લેડી ડોનનો પોલીસ અધિકારી પર ગંદા મેસેજ કર્યા હોવાનો આરોપ, જાણો શું છે મામલો",
     "desc": "બેંગ્લુરુથી એક શોકિંગ સમાચાર સામે આવી રહ્યા છે. જ્યાં લેડી ડોને પોલીસ અધિકારી પર અશ્લીલ સંદેશા મોકલવાનો આરોપ લગાવ્યો છે. તેનું એવું પણ કહેવું છે કે આ અધિકારીના 'ગંદા કામ' પર ઢાંક પીછોડો થઈ રહ્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/karnataka-news-lady-don-accuses-police-inspector-of-sending-obscene-message-470700 ",
-    "time": "2026-03-30T05:21:04.000Z"
+    "time": "2026-03-30T05:44:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "જો બેંક લોકરમાં રાખેલ સોનું ચોરાઈ જાય તો કેટલું વળતર મળશે? જાણો શું છે નિયમ",
+    "desc": "બેંક લોકરમાં રાખવામાં આવેલું સોનું હંમેશા સુરક્ષિત માનવામાં આવે છે પરંતુ શું તમે ક્યારેય વિચાર્યું છે કે જો ક્યારેય લોકરમાંથી તમારૂ સોનું ગાયબ થઈ જાય તો તમને કેટલું વળતર મળશે? આવો તમને બેંક લોકરના નિયમ વિશે જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-jewellery-missing-from-bank-locker-know-maximum-compensation-banks-can-offer-470701 ",
+    "time": "2026-03-30T05:26:21.000Z"
   },
   {
     "cat": "Politics",
@@ -333,15 +378,6 @@ const newsData_gu = [
     "time": "2026-03-28T05:33:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "એક્સાઈઝ ડ્યુટી ઘટ્યા બાદ શું સસ્તું થયું પેટ્રોલ-ડીઝલ? ચેક કરો તમારા શહેરનો આજનો લેટેસ્ટ ભાવ",
-    "desc": "કેન્દ્ર સરકાર દ્વારા એક્સાઈઝ ડ્યુટીમાં ઘટાડો કરવામાં આવ્યા બાદ શું પેટ્રોલ-ડીઝલના ભાવમાં ફેરફાર થયો છે? આ સવાલ ઘણા લોકોના મનમાં ફરી રહ્યો છે, જો તમે પણ આવું જ કંઈક વિચારી રહ્યા હોવ તો ચેક કરો આજનો લેટેસ્ટ ભાવ..",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/petrol-diesel-became-cheaper-after-the-excise-duty-fell-check-the-rate-of-your-city-470393 ",
-    "time": "2026-03-28T04:30:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "કોઈ સાંસદ બન્યું, તો કોઈ પાકિસ્તાની સિલેક્ટર... હાલ ક્યાં છે પહેલી IPL જીતનાર ટીમના ખેલાડી ?",
     "desc": "2008નું વર્ષ ઇન્ડિયન પ્રીમિયર લીગ (IPL)ની શરૂઆતનું વર્ષ હતું અને તેની પહેલી જ સીઝનમાં રાજસ્થાન રોયલ્સે ટાઇટલ જીતીને બધાને આશ્ચર્યચકિત કરી દીધા હતા. તે ટીમમાં મોટા નામો નહોતા છતાં કેપ્ટન શેન વોર્નની રણનિતીએ કમાલ કર્યો હતો. તાજેતરમાં ફ્રેન્ચાઇઝી વેચાતા રાજસ્થાન રોયલ્સ ફરી એકવાર ચર્ચામાં છે.",
@@ -396,15 +432,6 @@ const newsData_gu = [
     "time": "2026-03-27T12:26:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ઈરાનની ડગરી છટકી તો ભારતના મોબાઈલ, ટીવી થઈ જશે ડબલા, સરકાર અને કંપનીઓને પણ છે ડર",
-    "desc": "ભારતનો અમેરિકા અને યુરોપ વચ્ચેનો 33 ટકા ડેટા આ રસ્તા પરથી પસાર થાય છે. જો ઈરાને હોર્મુંઝ ખાડીમાં રહેલા કેબલને કાપ્યો તો ઈકોમર્સ, શેરબજાર અને આઈટી સેક્ટર એક જ ઝાટકમાં જમીન પર આવી જશે. સરકારે ટેલીકોમ કંપનીઓને દરિયાના તળિયામાં નાખેલો કેબલ કપાય તો શું નુક્સાન થઈ શકે એના જોખમનું આંકલન કરવા માટે બેકઅપ પ્લાન બનાવવાનો આદેશ કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-will-happen-in-india-if-iran-cuts-the-internet-cable-in-strait-of-hormuz-470329 ",
-    "time": "2026-03-27T12:23:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "&amp;quot;ભારતના લોકોનો આભાર&amp;quot; લખીને ઈરાને ઇઝરાયલ પર છોડી મિસાઇલ, જાણો ઈરાને કેમ કર્યું આવું",
     "desc": "ઈરાને યુદ્ધ વચ્ચે એક અનોખી રણનીતિ અપનાવી છે. તે ભારત સહિત અન્ય દેશોના આભાર સંદેશ લખીને મિસાઇલો અને ડ્રોન છોડી રહ્યું છે. સરકારી મીડિયા દ્વારા બહાર પાડવામાં આવેલા વીડિયોમાં આ સ્પષ્ટપણે જોઈ શકાય છે. ત્યારે ઈરાન આવું કેમ કરી રહ્યું છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -412,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-wrote-thank-you-people-of-india-on-missile-and-fires-on-israel-470324 ",
     "time": "2026-03-27T11:43:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બે સગાભાઈ સાથે લગ્ન કરનાર મહિલા છે પ્રેગનેન્ટ! સંતાનની પાછળ કોનું નામ લાગશે, આવો છે રિવાજ",
-    "desc": "ગયા વર્ષે હિમાચલમાં થયેલા અનોખા લગ્ન તો યાદ હશે, જેમાં એક મહિલા બે સગાભાઈઓને પરણી હતી. ત્યારે આ પરિવારે ખુશખબરી આપીને જણાવ્યું કે, પત્ની પ્રેગનેન્ટ છે. આ પરિવાર ત્રણમાંથી ચાર થવાનો છે, ત્યારે હટ્ટી સમાજમાં આવા લગ્ન પ્રથામાં સંતાન માટે કેવા રિવાજ હોય છે તે પણ જાણીએ",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bride-marry-with-two-brothers-now-pregnant-who-will-become-childs-official-father-470311 ",
-    "time": "2026-03-27T11:33:47.000Z"
   },
   {
     "cat": "Business",
@@ -439,51 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/explainer-iran-attacked-6-gulf-countries-including-uae-saudi-arabia-yet-they-did-not-retaliate-why-470297 ",
     "time": "2026-03-27T10:44:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;કંઈક ખરાબ થવાનું છે...&amp;#039; Google પર અચાનક કેમ આ ટ્રેન્ડ થઈ રહ્યું છે ? શું ખરેખર દુનિયા ખતરામાં છે ?",
-    "desc": "‘Something Very Bad Is Going To Happen’ ગૂગલ પર અચાનક કેમ આ ટ્રેન્ડ થઈ રહ્યું છે ? આની પાછળની કહાની શું છે, શું ખરેખર દુનિયા ખતરામાં છે ? ત્યારે શું છે સમગ્ર મામલો તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-something-very-bad-is-going-to-happen-is-suddenly-trending-on-google-470307 ",
-    "time": "2026-03-27T09:44:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "જ્યાં પોસ્ટિંગ, ત્યાં પોતાનું ઘર.... સરકારી કર્મચારીઓને મળી મોટી ભેટ, જાણો",
-    "desc": "સરકાર દ્વારા એક પોર્ટલ શરૂ કરવામાં આવ્યું છે. આ પોર્ટલ દ્વારા સરકારી કર્મચારી જેમાં રાજ્ય અને કેન્દ્ર સરકાર બન્નેનો સમાવેશ થાય છે, તેમને પોતાના ઘર માટે સરકાર દ્વારા એક પહેલ શરૂ કરવામાં આવી છે. ચાલો તેના વિશે ડિટેલમાં જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/government-employees-will-be-given-home-loans-for-their-houses-through-the-griha-sugam-scheme-470295 ",
-    "time": "2026-03-27T09:16:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "રિટાયરમેન્ટ બાદ પણ સરકારી નોકરી જેવી આવક, આ યોજનામાં રોકાણ કરીને મેળવો બમ્પર વળતર",
-    "desc": "વૃદ્ધાવસ્થા દરમિયાન નિયમિત આવક મેળવવા હવે વરિષ્ઠ નાગરિકો માટે સરળ બન્યું છે. SCSS અને RBI બોન્ડ જેવી સરકારી યોજનાઓ 8% સુધીનું વળતર આપી રહી છે. યોગ્ય પોર્ટફોલિયો અને સ્માર્ટ રોકાણ વ્યૂહરચના અપનાવીને તમે કોઈપણ જોખમ વિના નોંધપાત્ર માસિક આવક મેળવી શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/senior-citizen-savings-scheme-benefits-and-interest-rates-know-full-details-470275 ",
-    "time": "2026-03-27T08:07:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "નોકરી છોડવા પર 2 દિવસમાં મળશે પગાર, રજા અને બોનસના પૈસા, 1 એપ્રિલથી લાગૂ થશે નવો નિયમ",
-    "desc": "ઘણીવાર નોકરી છોડ્યા બાદ જૂની કંપની પૈસા આપવામાં વિલંબ કરે છે. પરંતુ નવા લેબર કોડથી કર્મચારીઓને રાહત મળવાની છે. હવે નોકરીમાંથી રાજીનામું આપવા કે નોકરીમાંથી કાઢી મુકવા કે લેઓફની સ્થિતિમાં કંપનીએ 2 દિવસની અંદર પગાર, રજા, બોનસ અને ગ્રેચ્યુઇટીના પૈસા ચુકવવા પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/employer-must-pay-your-full-and-final-settlement-after-quitting-job-new-labour-law-470273 ",
-    "time": "2026-03-27T07:50:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ખરીદી માટે શાનદાર તક! આજે એક ઝટકે સોના-ચાંદીના ભાવમાં ધરખમ ઘટાડો, તમારા શહેરમાં શું છે ભાવ? જાણો રેટ",
-    "desc": "મિડલ ઈસ્ટમાં જે યુદ્ધ ફાટી નીકળ્યું છે તેણે ધીરે ધીરે હવે અસર દેખાડવાની શરૂ કરી છે. ભારતમાં આ સંકટ લોકો પર તૂટી ન પડે તેના માટે થઈને સરકાર તકેદારી રાખીને પગલાં લઈ રહી છે. આજે પેટ્રોલ-ડીઝલની એક્સાઈઝ ડ્યૂટી પર ઘટાડો જાહેર કર્યો. પરંતુ છતાં શેર બજાર ધડામ થયું. આ સાથે સોના અને ચાંદીમાં પણ ભારે ઉથલપાથલ જોવા મળી રહી છે. એકબાજુ જ્યાં વાયદા બજારમાં સોનું ચાંદી ઉછાળા મારે છે ત્યાં રિટેલ બજારમાં સોનું ચાંદી ધડામ થયા છે. દાગીના અને લગડી ખરીદવા માટે જો કે સારી તક છે. જાણો આજનો લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-news-gold-and-silver-prices-dropped-today-as-per-ibja-check-latest-rates-aaj-no-sona-chandi-no-bhav-470269 ",
-    "time": "2026-03-27T07:16:33.000Z"
   },
   {
     "cat": "Sports",
@@ -637,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/he-wont-let-me-live-monalisa-bhosle-accuses-director-sanoj-mishra-of-assault-470044 ",
     "time": "2026-03-25T07:15:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શેન વોર્ન નીકળ્યો અસલી &amp;#039;બાજીગર&amp;#039;, રાજસ્થાન રોયલ્સ વેચાતા થયો માલામાલ, પરિવારને મળશે 4500000000 રૂપિયા",
-    "desc": "ઈન્ડિયન પ્રીમિયર લીગ એટલે કે આઈપીએલમાં શરૂઆતી ચાર સિઝનમાં જોડાઈને શેન વોર્ન ક્રિકેટનો વોરેન બફેટ બની ગયો છે. રાજસ્થાન રોયલ્સ ફ્રેન્ચાઇઝી વેચાવાને કારણે શેન વોર્નનો પરિવાર માલામાલ બની ગયો છે. આઈપીએલમાં પ્રથમ સિઝનથી રમી રહેલા વિરાટ કોહલી અને રોહિત શર્માને પણ શેન વોર્ને કમાણીના મામલામાં પાછળ છોડી દીધા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/shane-warne-may-earn-his-family-rs-460-crore-how-unique-negotiation-after-rajasthan-royals-rs-15290-crore-470043 ",
-    "time": "2026-03-25T07:01:53.000Z"
   },
   {
     "cat": "Entertainment",

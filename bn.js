@@ -54,6 +54,15 @@ const newsData_bn = [
     "time": "2026-03-28T05:35:16.000Z"
   },
   {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "কোথায় গেল ২৩০০ কেজি মাদক? পুলিস বলল 'ইঁদুরে সাবাড় করে দিয়েছে'",
     "desc": "৩০০০ টন নিউ জেনারেশন কর্ভেটে। এই যুদ্ধজাহাজগুলি তৈরি করবে গার্ডেন রিচ শিপ বিল্ডার্স অ্যান্ড ইঞ্জিনিয়ার্স এবং গোয়া শিপইয়ার্ড লিমিটেড। সম্পূর্ণ দেশীয় প্রযুক্তিতে নির্মিত এই প্ল্যাটফর্মগুলি ভারতের নৌশক্তিকে নতুন উচ্চতায় নিয়ে যাবে বলে মত সংশ্লিষ্ট মহলের।",
@@ -88,23 +97,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/manosi-sengupta-quits-vlogging-divorce-announcement-social-media_645920.html ",
     "time": "2026-03-23T12:44:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ও মরতে চায়নি: ৩০ বছর পর সামনে এল দিব্যা ভারতীর মৃত্যুর প্রত্যক্ষদর্শীর নাম, কী ঘটেছিল সেদিন?",
-    "desc": "১৯ বছর বয়স, আকাশছোঁয়া সাফল্য আর এক নিশিরাতের রহস্য! দিব্যা ভারতীর মৃত্যু নিয়ে আজও জল্পনা থামে না। \"কেউ কি ধাক্কা দিয়েছিল তাঁকে?\" এক অভিনেত্রী ফাঁস করলেন সেই রাতের অজানা সত্যি। সেদিন দিব্যার ঘরে ছিলেন জনপ্রিয় ডিজাইনারও।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/divya-bharti-death-mystery-guddi-maruti-reveals-real-reason-behind-the-fall-witnessed-by-designer-neeta-lulla_645909.html ",
-    "time": "2026-03-23T10:46:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who is Shreya Ghoshal's Husband Shiladitya Mukhopadhyaya: তাঁর কোম্পানির আয় ৪০ হাজার কোটি, শ্রেয়ার থেকে দ্বিগুণ ধনী পেশায় ইঞ্জিনিয়ার শিলাদিত্য: চেনেন গায়িকার স্বামীকে?",
-    "desc": "গানের সুরে তিনি বিশ্ব জয় করেছেন, আর তাঁর জীবনসঙ্গী জয় করেছেন প্রযুক্তির দুনিয়া! জানুন শ্রেয়া ঘোষালের স্বামী শিলাদিত্য মুখোপাধ্যায়ের অভাবনীয় সাফল্যের গল্প। ট্রু-কলারের মতো বিশ্বখ্যাত সংস্থার ব্যবসার হাল ধরা থেকে শুরু করে কয়েকশো কোটির সম্পত্তি— শিলাদিত্যর জীবনযাত্রা সত্যিই অনুপ্রেরণার। ৩০ বছরের বন্ধুত্ব আর ১০ বছরের প্রেম কীভাবে পূর্ণতা পেল?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/shreya-ghoshal-husband-shiladitya-mukhopadhyaya-net-worth-career-profile_645896.html ",
-    "time": "2026-03-23T08:06:48.000Z"
   }
 ];
