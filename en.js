@@ -1,5 +1,221 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "PSL ball-tampering row! Afridi says 'We'll check camera'",
+    "desc": "Lahore Qalandars captain Shaheen Afridi addressed a controversial final over where teammate Fakhar Zaman was accused of ball tampering. The incident led to five penalty runs for the opposition, Karachi Kings, significantly impacting the match's outcome. Afridi stated the team would review the footage to understand the situation fully.",
+    "img": "https://static.toiimg.com/photo/msid-129889838,imgsize-61480.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-ball-tampering-row-explodes-afridi-says-well-check-camera-after-fakhar-zaman-controversy/articleshow/129889837.cms",
+    "time": "2026-03-30T01:57:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kunchacko Boban channels Shine Tom Chacko vibe",
+    "desc": "Mollywood star Kunchacko Boban's recent Instagram reel, showing him playfully frolicking in the snow without any winter gear, has captivated audiences. The actor shared the clip to promote his upcoming film, 'Oru Durooha Sahacharyathil,' with a caption hinting at 'courage gained in a mysterious situation.' The video has garnered significant attention and reactions from fellow celebrities.",
+    "img": "https://static.toiimg.com/photo/msid-129889653,imgsize-109612.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kunchacko-bobans-snow-video-grabs-attention-manju-warrier-to-shine-tom-chacko-reacts-watch/articleshow/129889653.cms",
+    "time": "2026-03-30T01:38:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Pretty Lethal’ premiere: Uma Thurman praises the cast for their stunts",
+    "desc": "At the 'Pretty Lethal' SXSW premiere, Uma Thurman praised her young co-stars' impressive stunt work, noting their ballet-trained dedication to the film's hyper-violent action. Thurman, an action icon herself, found inspiration in their commitment, while director Vicky Jewson lauded Thurman's unique ability to portray a villain with empathy and humor.",
+    "img": "https://static.toiimg.com/photo/msid-129889645,imgsize-594534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/uma-thurman-praises-pretty-lethal-casts-mind-blowing-stunts-calls-film-a-bold-female-led-action-spectacle/articleshow/129889647.cms",
+    "time": "2026-03-30T01:32:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ball-tampering in PSL! Fakhar caught on camera, Afridi reacts",
+    "desc": "A ball-tampering controversy has erupted in the Pakistan Super League, centering on Lahore Qalandars' Fakhar Zaman. During a crucial final over, Fakhar was seen altering the ball, leading umpires to award five penalty runs to Karachi Kings. A disciplinary hearing is underway, with a potential one-match ban if found guilty.",
+    "img": "https://static.toiimg.com/photo/msid-129889601,imgsize-33208.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ball-tampering-in-psl-fakhar-zaman-caught-on-camera-afridi-reacts-watch/articleshow/129889559.cms",
+    "time": "2026-03-30T01:24:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sara Arjun, Ishaan get snapped after a cricket match",
+    "desc": "After an exhilarating cricket match at the iconic Wankhede Stadium in Mumbai, actors Sara Arjun and Ishaan Khatter were caught sharing a light-hearted moment together. Sara, proudly cheering for Mumbai's team alongside her parents, seemed thrilled to connect with Ishaan, who was also in attendance. Clips of their warm exchange have quickly made their rounds on social media. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129889520,imgsize-108212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-star-sara-arjun-and-ishaan-khatter-get-snapped-after-attending-the-mi-vs-kkr-ipl-match-in-mumbai-videos/articleshow/129889520.cms",
+    "time": "2026-03-30T01:22:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Aadu 3' BO day 12: Jayasurya film crosses Rs 109 cr",
+    "desc": "One Last Ride – Part 1', has soared to extraordinary heights at the box office, raking in more than ₹109 crore in just 12 days. This vibrant mix of comedy and fantasy with a thrilling time-travel twist follows Shaji Pappan and his merry band on a wild escapade.",
+    "img": "https://static.toiimg.com/photo/msid-129889483,imgsize-160514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aadu-3-box-office-collection-day-12-jayasuryas-film-hits-rs-109-cr-worldwide-india-net-crosses-rs-43-cr/articleshow/129889483.cms",
+    "time": "2026-03-30T01:01:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Harry Potter' Season 2 in the works before Season 1 release",
+    "desc": "Exciting news for Potterheads! While the trailer for the 'Harry Potter' series has just dropped, creators are already deep into developing Season 2. Network chief Casey Bloys confirmed writing is underway, aiming to minimize gaps between seasons, especially with the young cast.",
+    "img": "https://static.toiimg.com/photo/msid-129889346,imgsize-60010.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harry-potter-season-2-already-in-development-show-to-avoid-huge-gaps-between-seasons/articleshow/129889341.cms",
+    "time": "2026-03-30T01:00:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How R Praggnanandhaa outfoxed Anish Giri",
+    "desc": "India's R Praggnanandhaa delivered a tactical masterclass on the opening day of the 2026 FIDE Candidates, defeating Dutch No. 1 Anish Giri. While only three games in the Open section saw decisive results, Praggnanandhaa's clinical precision highlighted a formidable start to his campaign. The Women's section saw all four games end in draws.",
+    "img": "https://static.toiimg.com/photo/msid-129889443,imgsize-54562.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-r-praggnanandhaa-outfoxed-anish-giri-as-indians-stay-unbeaten-in-round-1/articleshow/129889436.cms",
+    "time": "2026-03-30T00:51:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Patricia Cardoso reflects on discovering America Ferrera",
+    "desc": "Director Patricia Cardoso reflects on discovering America Ferrera for 'Real Women Have Curves,' recognizing the newcomer's immense talent at 17. Cardoso's gamble on Ferrera launched a stellar career, proving the power of representation. The film's premiere at Sundance was a pivotal moment, changing Ferrera's world and solidifying the movie's cultural impact.",
+    "img": "https://static.toiimg.com/photo/msid-129889394,imgsize-966539.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/patricia-cardoso-reflects-on-discovering-america-ferrera-and-launching-a-career-that-redefined-representation-ill-never-forget-it/articleshow/129889396.cms",
+    "time": "2026-03-30T00:36:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Happy Raj' box office day 4: Collects Rs 3.16 cr gross",
+    "desc": "G.V. Prakash Kumar's romantic drama 'Happy Raj' is showing steady box office growth, collecting Rs 2.75 crore net in its opening weekend. The film, praised for its emotional family themes, resonated with audiences, leading to improved occupancy. A viral fan moment highlights the movie's significant emotional impact, while critical reception remains mixed.",
+    "img": "https://static.toiimg.com/photo/msid-129889375,imgsize-148614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/happy-raj-box-office-collections-day-4-g-v-prakash-kumars-film-earns-rs-2-75-cr-india-net-rs-3-16-cr-gross/articleshow/129889375.cms",
+    "time": "2026-03-30T00:34:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma scripts history, becomes the first player to…",
+    "desc": "Rohit Sharma achieved a major IPL milestone. He became the first capped player to participate in all 19 seasons. Sharma marked the occasion with a strong batting performance. He scored 78 runs against Kolkata Knight Riders. Mumbai Indians successfully chased a large target. This victory secured a six-wicket win for Mumbai.",
+    "img": "https://static.toiimg.com/photo/msid-129886219,imgsize-1104457.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-rohit-sharma-scripts-history-becomes-the-first-player-to/articleshow/129886178.cms",
+    "time": "2026-03-30T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mrithyunjay' OTT release date out",
+    "desc": "Sree Vishnu's investigative thriller 'Mrithyunjay' is set for a swift digital premiere on Netflix on April 3, 2026, less than a month after its March 6 theatrical release. The film, praised for its intriguing premise and tense investigative sequences, follows a marketing employee's pursuit of a crime reporting dream as he uncovers a dangerous conspiracy.",
+    "img": "https://static.toiimg.com/photo/msid-129889323,imgsize-306426.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mrithyunjay-ott-release-when-and-where-to-watch-sree-vishnus-thriller-online/articleshow/129889323.cms",
+    "time": "2026-03-30T00:18:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dhurandhar: The Revenge’ mints over Rs 1350 crore in 11 days",
+    "desc": "The Revenge' has shattered box office records, surpassing its predecessor with a Rs 846.87 crore net collection in India and crossing Rs 1350 crore globally. The film, directed by Aditya Dhar, continues the narrative of Hamza's rise to power after a significant event, weaving in his past identity.",
+    "img": "https://static.toiimg.com/photo/msid-129889302,imgsize-98310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-the-revenge-box-office-collection-day-11-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampals-film-mints-over-rs-1350-crore-worldwide/articleshow/129889321.cms",
+    "time": "2026-03-30T00:14:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mary Beth Hurt passes away at 79 after Alzheimer’s battle",
+    "desc": "Veteran actress Mary Beth Hurt, celebrated for her extensive work in film, television, and theatre, has passed away at 79 after a battle with Alzheimer's. Her family confirmed her peaceful passing, surrounded by loved ones. Hurt, a three-time Tony nominee, graced screens in films like 'The World According to Garp' and 'Young Adult', leaving behind a legacy of powerful performances.",
+    "img": "https://static.toiimg.com/photo/msid-129889261,imgsize-120882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mary-beth-hurt-passes-away-at-79-after-battle-with-alzheimers-disease/articleshow/129889188.cms",
+    "time": "2026-03-30T00:05:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ustaad Bhagat Singh' BO day 12: Film nears Rs 70 Cr India net",
+    "desc": "Pawan Kalyan's 'Ustaad Bhagat Singh' continues its theatrical run, crossing Rs 93 crore worldwide despite mixed reviews. The film garnered Rs 1.10 crore on its ninth day, with second-weekend collections showing audience pull. Directed by Harish Shankar, the actioner features a message-driven narrative and strong performances, particularly from Kalyan.",
+    "img": "https://static.toiimg.com/photo/msid-129889218,imgsize-114350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ustaad-bhagat-singh-box-office-collections-day-12-pawan-kalyans-film-nears-rs-70-cr-india-net-93-cr-worldwide-total/articleshow/129889218.cms",
+    "time": "2026-03-29T23:55:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PSL controversy erupts! Shaheen Afridi under scanner after shocking rule violation",
+    "desc": "Lahore Qalandars stars Shaheen Afridi and Sikandar Raza reportedly flouted PSL security rules, allowing unauthorized visitors into a hotel room. This breach, despite denied requests, has prompted an official inquiry. The Pakistan Cricket Board faces a disciplinary decision, with potential fines or bans, as the tournament grapples with heightened security and fuel shortage concerns.",
+    "img": "https://static.toiimg.com/photo/msid-129883403,imgsize-117004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-controversy-erupts-shaheen-afridi-under-scanner-after-shocking-rule-violation/articleshow/129883446.cms",
+    "time": "2026-03-29T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranvir and Konkona REUNITE in rare family pic",
+    "desc": "Former Bollywood couple Ranvir Shorey and Konkona Sen Sharma were spotted together at a cricket match, sparking fan reactions. The duo, who divorced in 2020, attended the game with their son, Haroon. Fans expressed surprise and well wishes upon seeing the amicable co-parents enjoying the match, with many commenting on the family's togetherness.",
+    "img": "https://static.toiimg.com/photo/msid-129889151,imgsize-163320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranvir-shorey-and-konkona-sen-sharmas-son-is-all-grown-up-former-couple-reunite-as-they-pose-with-son-haroon-for-rare-family-photo/articleshow/129889116.cms",
+    "time": "2026-03-29T23:26:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Baahubali' congratulates 'Dhurandhar' for US box office record",
+    "desc": "The Revenge' has shattered the nine-year North American box office record previously held by 'Baahubali 2: The Conclusion'. The spy action film, starring Ranveer Singh, has surpassed USD 20.80 million, reaching a cumulative USD 22.9 million. The 'Baahubali' team extended congratulations, acknowledging the new benchmark set by Aditya Dhar's directorial.",
+    "img": "https://static.toiimg.com/photo/msid-129888001,imgsize-176956.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/baahubali-congratulates-aditya-dhar-ranveer-singh-and-dhurandhar-2-the-revenge-team-for-record-breaking-run-at-north-american-box-office/articleshow/129887738.cms",
+    "time": "2026-03-29T22:32:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Ukrainian drones kill one, damage homes, industry in southern Russia's Taganrog",
+    "desc": "\"Emergency crews are working at the site of ​the incident, where ‌the debris fell,\" Yuri Slyusar, Governor of Rostov region on Ukraine's eastern border, ‌said on Telegram. \"Fires and ​damage have occurred. People have been evacuated\"",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ukrainian-drone-strike-in-southern-russias-taganrog/article70800846.ece",
+    "time": "2026-03-29T22:28:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "WTO talks stuck over e-commerce moratorium",
+    "desc": "For over 25 years, members of the WTO have upheld a rule — no customs duties on electronic transmissions. While India has used it as a bargaining chip at every ministerial meeting. For India, the big win is managing to keep investment facilitation for development out of the WTO framework despite standing alone at the end. It has demanded “guardrails” against using plurilaterals, which are agreements between a select group of member nations.",
+    "img": "https://static.toiimg.com/photo/msid-129887465,imgsize-710178.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/wto-talks-stuck-over-e-commerce-moratorium/articleshow/129887267.cms",
+    "time": "2026-03-29T22:02:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Project Hail Mary', 'Dhurandhar 2' among top 5 at US box office",
+    "desc": "Space adventure flick \"Project Hail Mary\" topped the North American box office for a second straight week with $54.5 million in ticket sales, industry estimates showed Sunday. Debuting in third place was horror flick \"They Will Kill You,\" at $5 million.",
+    "img": "https://static.toiimg.com/photo/msid-129887458,imgsize-214598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/project-hail-mary-retains-top-spot-dhurandhar-the-revenge-slips-to-fourth-place-in-second-week-at-north-american-box-office/articleshow/129887259.cms",
+    "time": "2026-03-29T21:50:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Promises delivered and undelivered during 5 years of DMK government",
+    "desc": "The govt. introduced schemes that did not figure in its manifesto, even while delivering key assurances such as Kalaignar Magalir Urimai Thittam and free bus travel; but it has not formulated the Higher Education policy, set up Kalaignar Canteens or created special courts for corruption cases",
+    "img": "https://th-i.thgim.com/public/incoming/rg5mqq/article70800550.ece/alternates/LANDSCAPE_1200/2501_13_3_2021_12_47_38_3_0CB37A9F_7ECE_486A_B965_A3AEC9FFAE0A.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/promises-delivered-and-undelivered-during-5-years-of-dmk-government/article70800551.ece",
+    "time": "2026-03-29T21:28:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt eyes flexible-fuel vehicles’ faster rollout",
+    "desc": "People aware of the developments said since major car and two-wheeler manufacturers have their prototype FFV models ready, now govt needs to create the ecosystem for adoption of these vehicles. Govt has maintained that 20% ethanol blending in petrol has helped India save imports of around 4.5 crore barrels (700 crore litres) of crude annually.",
+    "img": "https://static.toiimg.com/photo/msid-129887272,imgsize-2432343.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-eyes-flexible-fuel-vehicles-faster-rollout/articleshow/129887273.cms",
+    "time": "2026-03-29T21:26:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "At Rs 2,728 crore, fine on car companies cut to 1/3rd",
+    "desc": "TOI has learnt that the ministry also said in its presentation that the credit-debit registry of each original equipment manufacturer (OEM) will be established and maintained by the designated authority. Officials said this will ensure better enforcement of penalties and provisions along with providing greater clarity as govt is working to finalise the norms for CAFE-3.",
+    "img": "https://static.toiimg.com/photo/msid-129887262,imgsize-1015151.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/fuel-efficiency-at-rs-2728-crore-fine-on-car-companies-cut-to-1/3rd/articleshow/129887263.cms",
+    "time": "2026-03-29T21:18:35.000Z"
+  },
+  {
     "cat": "World",
     "title": "Afghanistan accuses Pakistan of shelling outskirts of eastern city, killing and wounding civilians",
     "desc": "Afghan deputy government spokesman Hamdullah Fitrat said that “mortars and other heavy weaponry” were used Sunday afternoon to strike rural areas and civilian homes on the outskirts of the city of Asadabad in Kunar Province",
@@ -70,6 +286,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-elections-2026-dmk-election-manifesto/article70799667.ece",
     "time": "2026-03-29T20:36:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: Virugambakkam, a fast-developing locality that reels under multiple civic issues",
+    "desc": "Hailing from diverse socio-economic backgrounds, the residents of Virugambakkam constituency demand that pattas be issued to people living on government poramboke land in a few areas; they also demand that a public library be built",
+    "img": "https://th-i.thgim.com/public/incoming/4kyfpz/article70800656.ece/alternates/LANDSCAPE_1200/DJI_20260329084318_0156_D.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-virugambakkam-a-fast-developing-locality-that-reels-under-multiple-civic-issues/article70799108.ece",
+    "time": "2026-03-29T20:15:31.000Z"
   },
   {
     "cat": "Politics",
@@ -162,15 +387,6 @@ const newsData_en = [
     "time": "2026-03-29T18:38:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Promises delivered and undelivered during 5 years of DMK government",
-    "desc": "The govt. introduced schemes that did not figure in its manifesto, even while delivering key assurances such as Kalaignar Magalir Urimai Thittam and free bus travel; but it has not formulated the Higher Education policy, set up Kalaignar Canteens or created special courts for corruption cases",
-    "img": "https://th-i.thgim.com/public/incoming/rg5mqq/article70800550.ece/alternates/LANDSCAPE_1200/2501_13_3_2021_12_47_38_3_0CB37A9F_7ECE_486A_B965_A3AEC9FFAE0A.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/promises-delivered-and-undelivered-during-5-years-of-dmk-government/article70800551.ece",
-    "time": "2026-03-29T18:34:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Rahul Arunoday Banerjee’s last video from set goes viral",
     "desc": "A video of Bengali actor Rahul Arunoday Banerjee from the sets of his show Bholebaba Paar Karega is circulating on social media following news of his untimely death at 43. Rahul reportedly drowned at Talsari beach in Odisha during the shoot. The now-viral clip shows Rahul preparing for a shot with a female co-actor near a car, surrounded by a crowd of onlookers.",
@@ -261,15 +477,6 @@ const newsData_en = [
     "time": "2026-03-29T16:48:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shirani of 'Dhurandhar' calls director 'Aditya DhuranDHAR'",
-    "desc": "Actor Bimal Oberoi, who plays Shirani in Aditya Dhar's 'Dhurandhar' films, shared his journey to bagging the pivotal role. He lauded director Aditya Dhar's exceptional craft and vision, comparing the film to industry benchmarks. Oberoi highlighted Dhar's ability to assemble a talented team and seamlessly integrate diverse musical elements, calling him a true 'Dhurandhar' director. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129883728,imgsize-91232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bimal-oberoi-who-played-shirani-in-dhurandhar-the-revenge-says-directors-name-should-be-aditya-dhurandhar-exclusive/articleshow/129883728.cms",
-    "time": "2026-03-29T16:39:58.000Z"
-  },
-  {
     "cat": "World",
     "title": "China protests U.S. alert over security rules change in Hong Kong",
     "desc": "Hong Kong this month ​amended its enforcement rules for the national security regime, making ⁠it an offence in national security cases to refuse to provide ‌passwords or other decryption assistance to access an electronic device",
@@ -286,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/kpmg-uk-puts-nearly-600-audit-jobs-at-risk-as-cost-pressure-deepens-advisory-cuts-also-hit/articleshow/129883629.cms",
     "time": "2026-03-29T16:31:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyadarshan recalls Aditya Dhar’s struggles, defends Dhurandhar",
-    "desc": "Veteran filmmaker Priyadarshan has opened up about Aditya Dhar’s early struggles in the industry, while also weighing in on the “propaganda” debate surrounding his Dhurandhar films. Addressing criticism around Dhar’s Dhurandhar franchise starring Ranveer Singh, Priyadarshan dismissed the “propaganda” label.",
-    "img": "https://static.toiimg.com/photo/msid-129883392,imgsize-58406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-recalls-aditya-dhars-struggles-defends-dhurandhar-propaganda-debate-if-majority-of-india-has-accepted-it-/articleshow/129883392.cms",
-    "time": "2026-03-29T16:10:16.000Z"
   },
   {
     "cat": "World",
@@ -315,15 +513,6 @@ const newsData_en = [
     "time": "2026-03-29T15:54:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Supriya Pathak recalls thinking first period was a ‘punishment’",
-    "desc": "Veteran actor Supriya Pathak has candidly spoken about two deeply personal phases of a woman’s life—her first period and menopause—revealing how both experiences shaped her understanding of herself. Recalling her first period, Supriya said she had absolutely no awareness about it. Opening up about menopause, Supriya described it as a “strange phase,” but one that brought an unexpected sense of freedom.",
-    "img": "https://static.toiimg.com/photo/msid-129882653,imgsize-71860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/supriya-pathak-recalls-thinking-first-period-was-a-punishment-says-menopause-made-her-more-individualistic/articleshow/129882653.cms",
-    "time": "2026-03-29T15:09:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sunil Narine scripts history, etches name in IPL record books",
     "desc": "Sunil Narine has set a new IPL record. He is now the overseas player with the most appearances in the tournament's history. Narine achieved this milestone in his 190th match for Kolkata Knight Riders. He surpassed Kieron Pollard's previous record. Narine has been a consistent performer for KKR since his debut in 2012.",
@@ -331,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/sunil-narine-scripts-history-etches-name-in-ipl-record-books/articleshow/129882090.cms",
     "time": "2026-03-29T14:33:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyadarshan on Akshaye, Salman, Govinda being difficult",
-    "desc": "Veteran filmmaker Priyadarshan has opened up about his working equation with actors, stressing that understanding individuals is key to a smooth collaboration. The director had high praise for Akshaye Khanna, calling him “a complete actor” and someone he shares a strong rapport with. Backing his stance with examples, the director spoke about working with stars like Salman Khan and Govinda, both of whom are often labelled as unpredictable.",
-    "img": "https://static.toiimg.com/photo/msid-129881863,imgsize-33266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-reveals-whether-akshaye-khanna-salman-khan-govinda-were-difficult-to-work-with-dont-try-to-change-actors-accept-them/articleshow/129881863.cms",
-    "time": "2026-03-29T14:04:00.000Z"
   },
   {
     "cat": "Business",
@@ -358,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/no-suryakumar-yadav-in-mi-xi-as-hardik-pandya-opts-to-bowl-vs-kkr/articleshow/129881424.cms",
     "time": "2026-03-29T13:39:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bimal Oberoi reveals multiple auditions for Dhurandhar",
-    "desc": "Actor-producer Bimal Oberoi, who plays the pivotal role of Shirani in Dhurandhar, recently opened up about landing the part and the transformation he underwent for it. The film is helmed by Aditya Dhar. Bimal also had high praise for co-star Ranveer Singh, who plays Hamza in the film. According to him, Ranveer’s involvement went far beyond just acting.",
-    "img": "https://static.toiimg.com/photo/msid-129881436,imgsize-73924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bimal-oberoi-reveals-multiple-auditions-for-aditya-dhars-dhurandhar-praises-ranveer-singh-he-wasnt-only-hamza-but-also-the-first-ad/articleshow/129881436.cms",
-    "time": "2026-03-29T13:35:22.000Z"
   },
   {
     "cat": "World",
@@ -396,15 +567,6 @@ const newsData_en = [
     "time": "2026-03-29T12:57:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Singer Arpit Bala allegedly spits at crowd during concert",
-    "desc": "Singer Arpit Bala's Hyderabad concert turned controversial after a bottle was thrown at him. Bala stopped the show, had the individual removed, and issued a warning. However, allegations of him spitting at the audience and throwing the bottle back have sparked a divided online reaction, with some condemning his actions and others defending his response to the provocation.",
-    "img": "https://static.toiimg.com/photo/msid-129880610,imgsize-107728.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bargad-singer-arpit-bala-allegedly-spits-at-crowd-after-bottle-is-thrown-at-him-during-hyderabad-concert-watch-viral-video/articleshow/129880610.cms",
-    "time": "2026-03-29T12:42:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Middle East war, oil prices to steer markets in holiday-shortened week",
     "desc": "Indian stock markets brace for a volatile, shortened week. Geopolitical tensions in the Middle East, crude oil price fluctuations, and the rupee's stability are key concerns. Foreign investors have pulled significant funds amid the ongoing conflict. Analysts anticipate continued sensitivity to global developments, with domestic economic data also under scrutiny.",
@@ -423,24 +585,6 @@ const newsData_en = [
     "time": "2026-03-29T12:34:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Leader' trailer: Legend Saravanan returns with massive action film",
-    "desc": "Legend Saravanan makes a grand return in the action-packed trailer for 'Leader,' set for an April 3 release. Directed by RS Durai Senthilkumar, the film promises a blend of stylized action, emotional depth, and mass appeal visuals. The trailer highlights intense fight sequences and hints at a story exploring power dynamics and relationships.",
-    "img": "https://static.toiimg.com/photo/msid-129880577,imgsize-194306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/leader-trailer-out-legend-saravanan-returns-with-massive-action-packed-visuals-ahead-of-april-3-release-watch/articleshow/129880577.cms",
-    "time": "2026-03-29T12:31:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vemal's 'Vadam' OTT release date",
-    "desc": "Vemal's rural drama 'Vadam', centered on the Manjuvirattu game, is set for an OTT release on Sun NXT on April 3 after a lukewarm theatrical reception. Despite an interesting concept, the film faced criticism for content deficiency. The movie explores themes of revenge and betrayal through a villager's journey training a bull for competition.",
-    "img": "https://static.toiimg.com/photo/msid-129880020,imgsize-329106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vadam-ott-release-date-when-and-where-to-watch-vemal-starrer-rural-drama-online/articleshow/129880020.cms",
-    "time": "2026-03-29T11:47:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Virat bhai’s only instruction was…': Padikkal reveals Kohli’s mantra in RCB’s chase",
     "desc": "Royal Challengers Bengaluru began their Indian Premier League 2026 season with a strong victory against Sunrisers Hyderabad. Devdutt Padikkal and Virat Kohli's partnership was key in chasing a 202-run target. Padikkal highlighted Kohli's guidance and the support from coaches. This win marks a significant start for the defending champions.",
@@ -448,33 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-bhais-only-instruction-was-padikkal-reveals-kohlis-mantra-in-rcbs-chase/articleshow/129879867.cms",
     "time": "2026-03-29T11:36:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "After War 2 debacle, Aditya Chopra working on romantic film",
-    "desc": "After the underwhelming reception of 'War 2', Adita Chopra's production house is shifting gears towards a captivating romantic epic. This intriguing venture, dubbed a classic narrative reborn, is still in its early stages and boasts a star-studded cast. Fans can look forward to an official reveal on September 27th, signaling a revitalizing return to romance for the iconic studio. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129879491,imgsize-64592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-the-war-2-debacle-aditya-chopra-is-quietly-working-on-a-mysterious-timeless-romantic-saga-reports/articleshow/129879491.cms",
-    "time": "2026-03-29T11:18:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ram Charan trained every day for 'Peddi' pehelwan physique",
-    "desc": "Ram Charan dedicated eight months to an intense physical and spiritual transformation for his upcoming film 'Peddi'. Director Buchi Babu Sana revealed the actor trained daily, focusing on body language and attitude alongside building muscle. Charan maintained his peak fitness on a pure vegetarian diet during his Ayyappa Deeksha, showing remarkable discipline. This commitment has impressed the industry.",
-    "img": "https://static.toiimg.com/photo/msid-129879431,imgsize-283824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ram-charan-trained-every-day-for-peddi-pehelwan-physique-even-during-ayyappa-deeksha-reveals-buchi-babu-sana-was-on-pure-vegetarian-diet/articleshow/129879431.cms",
-    "time": "2026-03-29T11:09:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It all went by in a flash': Manish Pandey opens up on his 19-year IPL journey",
-    "desc": "Manish Pandey, a constant in the IPL since 2008, reflects on his 19-year journey, calling it a 'flash'. He's set for IPL 2026 with KKR, cherishing his maiden century and the tournament's evolution. Pandey highlights the IPL's role in talent development and his own career, citing a match-winning knock in the 2014 final as pivotal.",
-    "img": "https://static.toiimg.com/photo/msid-129879245,imgsize-198266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/it-all-went-by-in-a-flash-manish-pandey-opens-up-on-his-19-year-ipl-journey/articleshow/129879207.cms",
-    "time": "2026-03-29T10:53:38.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +612,6 @@ const newsData_en = [
     "time": "2026-03-29T10:37:06.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "SRK, Ranveer, and more celebs attend birthday party",
-    "desc": "Mumbai witnessed a star-studded birthday bash for a political leader's daughter, drawing Bollywood heavyweights like Shah Rukh Khan and Ranveer Singh. Singh, fresh off 'Dhurandhar's' Rs 1,100 crore success, captivated the crowd with a performance, later joined by Sanjay Dutt. The event's glitz has lit up social media. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129878821,imgsize-140536.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-ranveer-singh-sanjay-dutt-and-more-celebs-attend-star-studded-mumbai-birthday-party-viral-pics-and-videos-inside/articleshow/129878821.cms",
-    "time": "2026-03-29T10:23:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rs 1.75 lakh crore wiped off 7 of top-10 firms; Reliance leads losses",
     "desc": "India's top companies faced a significant market capitalisation loss of Rs 1.75 lakh crore last week, with Reliance Industries bearing the brunt. Broader market indices also tumbled amid global uncertainties and Middle East tensions. While most major firms saw their valuations shrink, Larsen & Toubro, Bajaj Finance, and Infosys managed to post gains.",
@@ -511,42 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/market-recap-rs-1-75-lakh-crore-wiped-off-7-of-top-10-firms-reliance-leads-losses/articleshow/129878606.cms",
     "time": "2026-03-29T10:07:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'A long wait of nearly seven decades': PM Modi hails J&amp;K's Ranji win",
-    "desc": "Prime Minister Narendra Modi hailed Jammu and Kashmir’s first Ranji Trophy win as a proud moment after nearly 70 years. In ‘Mann Ki Baat’, he praised the team’s hard work, captain Paras Dogra’s leadership, and Aaqib Nabi’s 60 wickets. Modi said the victory has inspired the region and boosted sports enthusiasm, adding that Jammu and Kashmir is emerging as a sporting hub and expressing hope for continued success.",
-    "img": "https://static.toiimg.com/photo/msid-129878727,imgsize-95708.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/a-long-wait-of-nearly-seven-decades-pm-modi-hails-jks-historic-ranji-trophy-win/articleshow/129878601.cms",
-    "time": "2026-03-29T10:05:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Toxic' actress Rukmini Vasanth net worth",
-    "desc": "Filmmaker Vasanthabalan has strongly criticized recent films for spreading hate. He stated that movies like 'Kashmir Files' and 'Dhurandhar' are deliberately promoting division. Vasanthabalan believes cinema should unite people, not divide them. Director Vetri Maaran also indirectly commented on films promoting hate politics. The discussion highlights the responsibility of filmmakers in shaping public opinion through their work.",
-    "img": "https://static.toiimg.com/photo/msid-129878649,imgsize-95750.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/rukmini-vasanth-net-worth-how-yash-starrer-toxic-and-rishab-shettys-kantara-chapter-1-built-her-rs-7-crore-wealth/articleshow/129878649.cms",
-    "time": "2026-03-29T10:03:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chris Pratt, Jack Black, Anya Taylor-Joy wow at F1 Grand Prix",
-    "desc": "Hollywood stars Chris Pratt, Jack Black, and Anya Taylor-Joy, alongside other cast members, made a grand appearance at the Japanese Grand Prix following their Tokyo premiere for 'The Super Mario Galaxy Movie'. This strategic move amplified buzz for the film's upcoming global launch, especially in the crucial Japanese market.",
-    "img": "https://static.toiimg.com/photo/msid-129878685,imgsize-135490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chris-pratt-jack-black-anya-taylor-joy-stun-at-f1-grand-prix-after-super-mario-galaxy-japan-premiere-what-we-know/articleshow/129878646.cms",
-    "time": "2026-03-29T10:00:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli 'changed a lot after retiring from Test cricket'",
-    "desc": "Virat Kohli’s unbeaten 69 powered RCB to a successful chase, showing his top form after a T20 break. Dale Steyn praised his improved six-hitting and evolving mindset. Kohli’s aggressive approach has grown over time. Devdutt Padikkal said Kohli’s presence eased pressure, while also crediting coaches Andy Flower and Dinesh Karthik for his development.",
-    "img": "https://static.toiimg.com/photo/msid-129878348,imgsize-50834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-changed-a-lot-after-retiring-from-test-cricket/articleshow/129878269.cms",
-    "time": "2026-03-29T09:27:15.000Z"
   },
   {
     "cat": "Sports",
@@ -594,33 +666,6 @@ const newsData_en = [
     "time": "2026-03-29T07:16:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 11 [LIVE]: Ranveer Singh film smashes 'Dhurandhar 1's record",
-    "desc": "The Revenge' is making history with every passing day at the Indian box office. Directed by Aditya Dhar and starring Ranveer Singh, the espionage thriller has crossed Rs. 790 crore in India net after eleven days, becoming only the third Hindi film ever to breach the Rs. 800 crore domestic net mark. The film is now chasing the lifetime record of its predecessor, 'Dhurandhar,' which stands at Rs. 894.49 crore — a milestone that could fall within the current week. Globally, the film is tracking past Rs. 1,079 crore and closing in on Rs. 1,200 crore worldwide, which would place it among the top three highest-grossing Indian films of all time.",
-    "img": "https://static.toiimg.com/photo/msid-129876781,imgsize-118678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-11-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-film-eyes-dhurandhar-1-rs-840-crore-india-net-milestone-on-second-sunday/articleshow/129876781.cms",
-    "time": "2026-03-29T06:51:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Two-year ban not working’: Gavaskar calls for stricter IPL pullout rules",
-    "desc": "Sunil Gavaskar has urged the BCCI to implement tougher penalties for last-minute IPL withdrawals, citing Ben Duckett's exit as evidence the current two-year ban is ineffective. Duckett's decision to prioritize England commitments, despite being picked by Delhi Capitals, has disrupted team planning and reignited calls for greater player accountability in the league.",
-    "img": "https://static.toiimg.com/photo/msid-129876630,imgsize-48012.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/two-year-ban-not-working-sunil-gavaskar-calls-for-stricter-ipl-pullout-rules/articleshow/129876608.cms",
-    "time": "2026-03-29T06:27:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Return as captain': Virat Kohli urged to rethink Test retirement",
-    "desc": "Virat Kohli starred with an unbeaten 69, guiding Bengaluru to a record chase of 202 against Hyderabad. Ambati Rayudu said he’s far from a finished product and should return to Tests. Hyderabad posted 201/9, but Kohli, with Padikkal and Patidar, sealed the fastest 200+ IPL chase while crossing 4000 runs in chases and surpassing Shoaib Malik.",
-    "img": "https://static.toiimg.com/photo/msid-129876078,imgsize-48960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/return-as-captain-virat-kohli-urged-to-rethink-test-retirement/articleshow/129875924.cms",
-    "time": "2026-03-29T05:27:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Saudi Arabia pumps 7 million bpd via east-west pipeline amid Hormuz disruption",
     "desc": "Saudi Arabia has fully operationalized its East-West pipeline, moving 7 million barrels of oil daily to the Red Sea port of Yanbu. This crucial alternative route aims to maintain export supplies following disruptions to the Strait of Hormuz. While not fully replacing Hormuz volumes, the pipeline's operation is mitigating significant price increases amid escalating regional tensions.",
@@ -646,6 +691,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/from-office-desks-to-dark-streets-how-the-oil-crunch-is-reshaping-daily-life-in-different-nations/articleshow/129875135.cms",
     "time": "2026-03-29T03:42:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "stock markets in wartime",
+    "desc": "War may come and war may go, but the stock markets go on for ever. But there’s a catch, markets can fall, keep falling and remain bearish in the short term; staying invested when it bleeds is the real magic for building wealth",
+    "img": "https://th-i.thgim.com/public/business/markets/1bqfjm/article70798681.ece/alternates/LANDSCAPE_1200/Moneywise.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/when-the-cannons-boom-stock-markets-in-wartime/article70798680.ece",
+    "time": "2026-03-29T03:24:03.000Z"
   },
   {
     "cat": "World",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/food/features/fulva-a-halwa-start-up-from-kozhikode-secures-an-investment-from-entrepreneur-aman-gupta/article70787790.ece",
     "time": "2026-03-27T14:47:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Fuel excise cuts pre-election salve, says Congress, flags steady price rise despite fall in crude",
-    "desc": "Pawan Khera pointed out that these companies have been absorbing losses since the outbreak of the conflict in West Asia; \"The government has now merely agreed to share a small part of that burden but reducing the 'special additional' levy - that too almost a month later,\" the Congress leader said.",
-    "img": "https://th-i.thgim.com/public/incoming/yzdjmu/article70791514.ece/alternates/LANDSCAPE_1200/_NGP5699.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/excise-cuts-wont-change-fuel-price-relief-only-in-narrative-congress-claims/article70791490.ece",
-    "time": "2026-03-27T13:30:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "CBIC chief",
-    "desc": "The government has imposed an export duty of ₹21.5 per litre on diesel and ₹29.5 per litre on ATF to discourage exports and improve domestic supply. The new rates came into effect on Friday (March 27).",
-    "img": "https://th-i.thgim.com/public/news/national/9bbxzq/article70792353.ece/alternates/LANDSCAPE_1200/iStock-2191746686.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/government-to-review-windfall-tax-imposed-on-export-of-diesel-and-atf-on-fortnightly-basis-cbic-chief/article70792325.ece",
-    "time": "2026-03-27T11:35:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil drops as Trump pauses Iran strikes, but stock traders nervous",
-    "desc": "Trump had earlier denied he was desperate for a deal to end the war, despite the Islamic republic’s cool response to an American peace plan and fears the spike in oil prices would fan inflation",
-    "img": "https://th-i.thgim.com/public/business/markets/3txf0/article70791118.ece/alternates/LANDSCAPE_1200/Oilprices.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/oil-drops-as-trump-pauses-iran-strikes-but-stock-traders-nervous/article70791089.ece",
-    "time": "2026-03-27T05:22:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Steel ministry seeks intervention for mills facing LPG shortages, source says",
-    "desc": "India, the world’s second-biggest crude steel producer, is in ‌the midst of its worst ‌LPG ⁠supply crisis in decades ⁠as shipments from key producers in West Asia have been disrupted because of the ​Iran war.",
-    "img": "https://th-i.thgim.com/public/incoming/b4sf67/article70789561.ece/alternates/LANDSCAPE_1200/2025-12-01T051235Z_185670977_RC2U6GAV5L3L_RTRMADP_3_INDIA-MONGOLIA-COKING-COAL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/steel-ministry-seeks-intervention-for-mills-facing-lpg-shortages-source-says/article70789518.ece",
-    "time": "2026-03-26T16:57:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Every ride has a price",
-    "desc": "The first internal combustion-powered cabs in London with taximeters are believed to have begun their operations on March 22, 1907. In a world where ride-hailing services with app-based GPS are on the rise, taximeters still remain in vogue in traditional taxis and autorickshaws. A.S.Ganesh takes you on a ride to learn more about these instruments…",
-    "img": "https://th-i.thgim.com/public/incoming/59upcz/article70730774.ece/alternates/LANDSCAPE_1200/19SM_Taxi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/every-ride-has-a-price/article70730816.ece",
-    "time": "2026-03-26T12:08:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Tighee’: How Jeejivisha Kale shaped her Marathi debut feature",
-    "desc": "Filmmaker Jeejivisha Kale and producer Suhrud Godbole speak about ‘Tighee’, what inspired Jeejivisha to tell the story of siblings, her process of shooting emotional scenes, why Suhrud feels the need for more women filmmakers telling their stories and more",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/okmdif/article70786740.ece/alternates/LANDSCAPE_1200/Tighee.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/tighee-jeejivisha-kale-marathi-film-sonalee-kulkarni-neha-pendse-bharti-achrekar-nikhil-mahajan/article70784030.ece",
-    "time": "2026-03-26T06:22:52.000Z"
   }
 ];

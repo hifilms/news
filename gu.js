@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "3 વર્ષની ઉંમરે મા ગુમાવી, દાદીએ બનાવ્યો ક્રિકેટર, SRHના આ ખેલાડીની કહાની તમને રડાવી દેશે",
+    "desc": "IPL 2026ની પહેલી જ મેચમાં અનિકેત વર્માએ RCB સામે શાનદાર ઇનિંગ રમી. અનિકેતની સફર ભારે સંઘર્ષથી ભરેલી રહી છે. ઝાંસીના 24 વર્ષીય યુવા ખેલાડીએ રોયલ ચેલેન્જર્સ બેંગ્લોર સામે સનરાઇઝર્સ હૈદરાબાદ માટે ધમાકેદાર બેટિંગ કરતા ફક્ત 18 બોલમાં 43 રન બનાવ્યા હતા. ત્યારે અનિકેત વર્માની અત્યાર સુધીની સફર વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/who-is-aniket-verma-losing-his-mother-at-age-of-3-know-his-inspiring-journey-470590 ",
+    "time": "2026-03-30T01:30:01.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "વિધવા પુત્રવધૂની જવાબદારીમાં આવે છે સાસુ-સસરા? વૃદ્ધ દંપતીની અરજી પર હાઇકોર્ટે શું કહ્યું?",
     "desc": "ન્યાયાધીશ મદન પાલ સિંહે જણાવ્યું હતું કે ભારતીય સમાજમાં, પુત્રવધૂને તેના સાસરિયાઓની સંભાળ રાખવાની જવાબદારી માનવામાં આવે છે. હાલમાં એક કેસની ચર્ચા ચાલી રહી છે, જેમાં સાસુ સસરા દ્વારા વહુ પાસે ભરણ પોષણની માંગ કરવામાં આવી હતી.",
@@ -682,15 +691,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/jio-airtel-vi-news-of-which-company-offers-the-cheapest-and-best-postpaid-plan-469389 ",
     "time": "2026-03-20T10:35:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ધુરંધર 2 એ બનાવ્યો સૌથી મોટો રેકોર્ડ, 2 દિવસમાં જ ફિલ્મની કમાણી 200 કરોડને પાર",
-    "desc": "ધુરંધર 2 ફિલ્મની કમાણીએ સૌથી મોટો ઈતિહાસ રચી દીધો છે. ફિલ્મના પેડ પ્રીવ્યુની કમાણી 43 કરોડ હતી. ત્યારબાદ પહેલા દિવસે જ ફિલ્મની કમાણી 100 કરોડથી વધી હતી. ફિલ્મની વર્લ્ડવાઈડ કમાણી 200 કરોડને પાર પહોંચી ચુકી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-box-office-collection-200-crore-in-2-days-dhurandhar-2-latest-news-469364 ",
-    "time": "2026-03-20T07:18:07.000Z"
   },
   {
     "cat": "Tech",

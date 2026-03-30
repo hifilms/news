@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rohit Sharma surpasses Virat Kohli in elite list after stellar knock against Kolkata Knight Riders",
+    "desc": "Game 2 of the ongoing IPL (Indian Premier League) 2026 saw Mumbai Indians take on Kolkata Knight Riders. The two sides locked horns at the Wankhede Stadium in Mumbai on March 29. The clash saw...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-surpasses-virat-kohli-in-elite-list-after-stellar-knock-against-kolkata-knight-riders-2026-03-30-1035556",
+    "time": "2026-03-30T01:34:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mumbai Indians end 14-year-long wait, complete record chase against KKR to kick off IPL 2026 in style",
     "desc": "After years of waiting, the Mumbai Indians have finally won their first match of an IPL season. Since 2012, they had never won their opening match in a season, as the wait came to an...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-reveals-virat-kohlis-instruction-during-his-rampage-against-srh-in-ipl-2026-opener-2026-03-29-1035522",
     "time": "2026-03-29T11:35:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli creates all-time IPL record after stellar knock in record chase against SRH",
-    "desc": "Royal Challengers Bengaluru stalwart Virat Kohli created an all-time historical record during his team's record run-chase against Sunrisers Hyderabad in the IPL 2026 opener on Saturday, March 28. Kohli played a stellar 69-run knock from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-creates-all-time-ipl-record-after-stellar-knock-in-record-chase-against-srh-2026-03-29-1035521",
-    "time": "2026-03-29T11:19:03.000Z"
   }
 ];
