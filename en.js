@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "ED facilitates restitution of 455 properties worth ₹15,582 crore to Justice Lodha Committee",
+    "desc": "During the current financial year, the agency has attached assets worth about ₹26,324 Crore, taking the total attachment in the case so far to ₹27,030 crore. They include properties located both in India and Australia",
+    "img": "https://th-i.thgim.com/public/incoming/3olvo8/article70804617.ece/alternates/LANDSCAPE_1200/IMG_JUSTICE_LODHA_2_1_5HA3MLQL.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pacl-case-ed-facilitates-restitution-of-455-properties-worth-15582-crore-to-justice-lodha-committee/article70803591.ece",
+    "time": "2026-03-30T21:26:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Transgender Amendment Bill gets President Murmu’s assent",
+    "desc": "A day after the Rajya Sabha passed the Bill, around 140 lawyers and feminists wrote to Ms. Murmu, urging her not to grant assent to the Bill, pointing out “constitutional violations” in its provisions and “procedural infirmities” in the way it was passed",
+    "img": "https://th-i.thgim.com/public/incoming/omtxol/article70788971.ece/alternates/LANDSCAPE_1200/Standalone_24BGGHDFOLC4L.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/transgender-amendment-bill-gets-president-murmus-assent/article70804606.ece",
+    "time": "2026-03-30T21:26:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UDF began preparations for Mission 2026 a year ago; it will win in Kerala: Satheesan",
+    "desc": "Kerala’s Leader of Opposition V.D. Satheesan says the Congress has brought back 90% of the social groups that left the UDF; he says the LDF government has put the State in a “huge debt trap” and has “failed in the health, education, agriculture and welfare sectors” due to which there is a current against the government",
+    "img": "https://th-i.thgim.com/public/incoming/7flp6u/article70804046.ece/alternates/LANDSCAPE_1200/NH27VDsatheesan01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/ldf-govt-the-most-inefficient-kerala-has-ever-seen-udf-will-win-satheesan/article70803169.ece",
+    "time": "2026-03-30T21:14:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP seeks action against Mamata over ‘MCC breach’",
+    "desc": "A delegation comprising Union Ministers Piyush Goyal, Kiren Rijiju, and Sukanta Majumdar among others submitted the complaint to the Election Commission; the party accused Ms. Banerjee of making ‘grave and disturbing public statements’ during multiple public rallies in Bengal, ‘posing a serious threat to free, fair and peaceful elections’",
+    "img": "https://th-i.thgim.com/public/incoming/o7fqf5/article70802967.ece/alternates/LANDSCAPE_1200/PTI03_30_2026_000045A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bjp-seeks-campaign-ban-on-west-bengal-cm-mamata-banerjee-over-alleged-mcc-violations/article70802739.ece",
+    "time": "2026-03-30T21:12:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 PBKS vs GT",
+    "desc": "“If there is a bit of grass and if there is good pace and bounce, it might be easier for the overseas guys. If the surface is a little drier and on the slower side, it might be easier for an Indian player. We have flexibility in our batting order” says",
+    "img": "https://th-i.thgim.com/public/incoming/rilvmr/article70804596.ece/alternates/LANDSCAPE_1200/09_Twenty_20_IPL_Match_30_03_Chandigarh.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-pbks-vs-gt-pbks-coach-ponting-confident-of-the-batting-options-available/article70803911.ece",
+    "time": "2026-03-30T20:37:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tennis-Sinner beats Lehecka in rain-hit Miami final to capture 'Sunshine Double'",
+    "desc": "The Italian world number two won 92% of his ​first-serve points and saved all three break points ⁠he faced en route to a victory that extended his string of Masters 1000 matches without dropping a set to 17",
+    "img": "https://th-i.thgim.com/public/incoming/2nwujw/article70804592.ece/alternates/LANDSCAPE_1200/2026-03-30T082145Z_1228573700_28618325_RTRMADP_3_TENNIS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis-sinner-beats-lehecka-in-rain-hit-miami-final-to-capture-sunshine-double/article70804590.ece",
+    "time": "2026-03-30T20:07:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajpal thanks Sonu, Tej Pratap, Inderjeet for financial help",
+    "desc": "Rajpal Yadav has expressed heartfelt gratitude for the financial support he received from the film fraternity while dealing with legal troubles linked to his Rs 9 crore debt case, saying the love and assistance kept him going through the difficult phase. The actor also revealed that he is taking steps to return the financial contributions made by well-wishers.",
+    "img": "https://static.toiimg.com/photo/msid-129910961,imgsize-50088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-thanks-sonu-sood-tej-pratap-yadav-rao-inderjeet-singh-and-others-for-financial-help-in-rs-9-crore-case/articleshow/129910961.cms",
+    "time": "2026-03-30T20:04:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "JSW Sports signs U19 Women's T20 WC winning skipper Niki Prasad",
+    "desc": "\"Niki represents the new generation of Indian cricketers who combine skill, leadership, and maturity at a very young age. Her journey has already been inspiring, from making a mark in domestic cricket to leading India to a U19 World Cup title.,” says JSW Sports",
+    "img": "https://th-i.thgim.com/public/incoming/z1clmq/article70804587.ece/alternates/LANDSCAPE_1200/11908_17_1_2026_20_38_8_1_DSC_2114.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/jsw-sports-signs-u19-womens-t20-wc-winning-skipper-niki-prasad/article70804584.ece",
+    "time": "2026-03-30T19:57:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Motorcycling-Bezzecchi wins USA Grand Prix to extend perfect start to season",
+    "desc": "Bezzecchi led all 20 laps at the Circuit of the Americas where ‌he crossed the line 2.036 seconds ahead of teammate Jorge Martin. Pedro Acosta, ‌who finished third in Saturday's sprint before ‌a ⁠penalty dropped him to eighth, rounded out ⁠the podium",
+    "img": "https://th-i.thgim.com/public/incoming/svl4ar/article70804581.ece/alternates/LANDSCAPE_1200/2026-03-30T082139Z_561462584_28617167_RTRMADP_3_MOTOR.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/motorcycling-bezzecchi-wins-usa-grand-prix-to-extend-perfect-start-to-season/article70804580.ece",
+    "time": "2026-03-30T19:48:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026",
+    "desc": "Once pacer Burger nailed Samson and Mhatre off successive deliveries, Rajasthan dictated terms; Archer and Jadeja chip in with two wickets each; Overton’s knock the only bright spot; Suryavanshi makes it a walk in the park for Parag’s men",
+    "img": "https://th-i.thgim.com/public/incoming/g7ub56/article70804567.ece/alternates/LANDSCAPE_1200/APTOPIX_India_IPL_Cricket_69389.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-bowlers-on-target-as-royals-knock-over-super-kings/article70804492.ece",
+    "time": "2026-03-30T19:37:59.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "No IPL telecast in Bangladesh as JioStar terminates broadcast agreement",
     "desc": "The development comes at a time when Bangladesh authorities were reviewing a ban on IPL telecast. With the deal now terminated, there is no immediate option for the tournament to return to television screens in the country.",
@@ -144,15 +234,6 @@ const newsData_en = [
     "time": "2026-03-30T16:17:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Revisiting Dasgaon, where a 23-year-old drank water from a well and broke a social order",
-    "desc": "Months before the Mahad Satyagraha of 1927, a similar symbolic act by the people of Dasgaon in Maharashtra took place. A group of about 300, led by Ramchandra Babaji More, drew water from a well and a lake and drank it. The satyagrahis were Dalits, implementing a resolution to open public water bodies to them. Now, 100 years later, the people of Dasgaon have forgotten the event",
-    "img": "https://th-i.thgim.com/public/incoming/npqgtp/article70797290.ece/alternates/LANDSCAPE_1200/11908_28_3_2026_16_54_51_2_DSC_2741.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/revisiting-dasgaon-where-a-23-year-old-drank-water-from-a-well-and-broke-a-social-order/article70797278.ece",
-    "time": "2026-03-30T15:58:56.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Top 5 South stories of the day",
     "desc": "Veteran actor Prakash Raj mourns his mother's passing at 86. Meanwhile, AR Murugadoss faces budget overrun accusations for 'Madharaasi'. Excitement builds for Allu Arjun's potential collaboration with Basil Joseph in 'AA25'. Rishab Shetty has unfollowed most accounts on Instagram, sparking speculation. Prabhas is slated to join 'Kalki 2898 AD 2' shoot soon.",
@@ -160,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/prakash-rajs-mother-passes-away-allu-arjunbasil-joseph-collaboration-rishab-shetty-unfollows-almost-everyone-top-5-south-stories-of-the-day/articleshow/129905593.cms",
     "time": "2026-03-30T15:53:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "LDF govt. the most inefficient Kerala has ever seen, UDF will win: Satheesan",
-    "desc": "Kerala’s Leader of Opposition V.D. Satheesan says the Congress has brought back 90% of the social groups that left the UDF; he says the LDF government has put the State in a “huge debt trap” and has “failed in the health, education, agriculture and welfare sectors” due to which there is a current against the government",
-    "img": "https://th-i.thgim.com/public/incoming/7flp6u/article70804046.ece/alternates/LANDSCAPE_1200/NH27VDsatheesan01.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/ldf-govt-the-most-inefficient-kerala-has-ever-seen-udf-will-win-satheesan/article70803169.ece",
-    "time": "2026-03-30T15:47:44.000Z"
   },
   {
     "cat": "Sports",
@@ -187,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/why-rupee-breached-95-versus-dollar-mark-despite-rbis-move-to-stem-fall/articleshow/129905385.cms",
     "time": "2026-03-30T15:38:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ahead of elections, FCRA Bill puts BJP on the defensive in Kerala",
-    "desc": "Several Church heads criticise the Bill, flagging concern over ‘executive overreach into minority institutions.’ Congress, CPI(M) too oppose the move. BJP seeks to downplay the Bill’s impact, says Union Home Minister has promised to address all concerns",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/ahead-of-elections-fcra-bill-puts-bjp-on-defensive-in-kerala/article70803851.ece",
-    "time": "2026-03-30T15:37:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -441,15 +504,6 @@ const newsData_en = [
     "time": "2026-03-30T10:10:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Gina Gershon rejects topless death",
-    "desc": "Actress Gina Gershon reveals she turned down a lead role in 'Friday the 13th Part 2' due to an exploitative death scene. She found the requirement for her character to be topless before dying unnecessary and uncomfortable, highlighting a common trope in early slasher films. Her decision, supported by her father, prioritized artistic integrity over a potential early career break.",
-    "img": "https://static.toiimg.com/photo/msid-129897454,imgsize-112350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/gina-gershon-reveals-why-she-turned-down-friday-the-13th-role-it-felt-like-exploitation-101/articleshow/129897422.cms",
-    "time": "2026-03-30T10:08:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Will Middle East tensions affect Indian economy? What Morgan Stanley said in its report",
     "desc": "India's economy shows strength with robust domestic demand and positive high-frequency indicators. Auto sales and credit growth are up. GST collections remain steady. Manufacturing activity is improving. Labour markets are showing signs of strengthening. Corporate revenues are holding up. Financial flows are supportive. However, Middle East tensions create global uncertainty and a risk of stagflation.",
@@ -621,33 +675,6 @@ const newsData_en = [
     "time": "2026-03-30T02:40:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Maharashtra offers free regularisation up to 500 sqft for pre-2011 residential encroachments; Mumbai kept out",
-    "desc": "Maharashtra government has approved the free regularization of residential encroachments on government land up to 500 sqft for families residing there since January 1, 2011, or earlier. This scheme aims to provide housing security to low-income families, excluding Mumbai and Mumbai Suburban districts. Occupancy fees will apply for larger areas, with strict scrutiny to exclude non-citizens and protect sensitive lands.",
-    "img": "https://static.toiimg.com/photo/msid-129890580,imgsize-174460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/maha-to-ok-residential-encroachments-with-riders/articleshow/129886954.cms",
-    "time": "2026-03-30T01:21:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India hosts key IONS maritime exercise in Kochi",
-    "desc": "As India assumes the IONS chairmanship for the 2026–2028 cycle after a gap of 16 years, IMEX TTX 2026 marks a key milestone in strengthening regional maritime leadership. Conducted in a sophisticated, simulated environment, the exercise addressed complex maritime security challenges in IOR, a region of critical importance to global trade, energy flows and connectivity.",
-    "img": "https://static.toiimg.com/photo/msid-129887108,imgsize-333486.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-hosts-key-ions-maritime-exercise-in-kochi/articleshow/129887109.cms",
-    "time": "2026-03-29T20:28:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Wildlife actively use underpasses on Delhi-Doon economic corridor: Study",
-    "desc": "As per the recently published study by Dehradun-based Wildlife Institute of India, 150 camera traps (CTs) were systematically deployed along underpasses within a 3.5-km stretch — from Mohand village to Ganeshpur in Uttarakhand — and each unit was installed in a manner to ensure detection of a broad spectrum of terrestrial fauna, ranging from small to large-bodied species.",
-    "img": "https://static.toiimg.com/photo/msid-129887096,imgsize-2270545.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/wildlife-actively-use-underpasses-on-delhi-doon-economic-corridor-study/articleshow/129887097.cms",
-    "time": "2026-03-29T20:22:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Tea body seeks clarity on Assam land transfer policy for plantation workers",
     "desc": "Two months ahead of the elections, the BJP-led government amended a law to grant legal land rights to 3.5 lakh families of plantation workers living in the labour lines of more than 800 tea estates",
@@ -774,24 +801,6 @@ const newsData_en = [
     "time": "2026-03-28T20:12:06.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Age catches up with even the evergreen Dhoni",
-    "desc": "When CSK put out a message on social media that its talisman is likely to miss the first two weeks of IPL 2026 due to a calf strain, the old maxim time and tide wait for none, came to the fore again",
-    "img": "https://th-i.thgim.com/public/incoming/2wi53v/article70796790.ece/alternates/LANDSCAPE_1200/DSC_4079.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/age-catches-up-with-even-the-evergreen-dhoni/article70796806.ece",
-    "time": "2026-03-28T14:45:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026",
-    "desc": "The England star, who endured a dismal T20 World Cup, acknowledges that the nature of the game sometimes places outcomes beyond control; GT will be hoping the ace wicketkeeper-batter comes out firing in the new season",
-    "img": "https://th-i.thgim.com/public/incoming/k32sus/article70796599.ece/alternates/LANDSCAPE_1200/PTI03_28_2026_000197B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-key-is-to-give-yourself-the-best-chance-to-succeed-buttler/article70795987.ece",
-    "time": "2026-03-28T13:59:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Malavika Sarukkai on her latest Bharatanatyam production ‘Beeja’",
     "desc": "Malavika Sarukkai’s powerful new choreographic production, Beeja - Earth Seed, transforms the stage into a mirror reflecting our world’s unrest—conflict, climate crisis, and human fragility. Through intricate mudras, evocative narratives, and profound abhinaya, she plants “seeds” of hope amid chaos.",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
