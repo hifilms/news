@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ball-tampering in PSL 2026: Why is Fakhar Zaman likely to face ban amid controversy?",
+    "desc": "The ongoing edition of the Pakistan Super League (PSL) is only five days old, and several controversies have already plagued the tournament. The opening day was headlined with the ball changing its colour to pink...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ball-tampering-in-psl-2026-why-is-fakhar-zaman-likely-to-face-ban-amid-controversy-2026-03-30-1035637",
+    "time": "2026-03-30T12:49:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rain stops in Guwahati, covers still on at Barsapara",
+    "desc": "Guwahati weather is in focus as Rajasthan Royals host Chennai Super Kings in their first match of IPL 2026 at the Barsapara Cricket Stadium, Guwahati, on Monday, March 30. Eyes will be glued to the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/guwahati-weather-in-focus-in-rr-vs-csk-ipl-2026-clash-rajasthan-royals-vs-chennai-super-kings-latest-match-updates-scorecard-teams-highlights-2026-03-30-1035638",
+    "time": "2026-03-30T12:49:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How has CSK performed in MS Dhoni's absence in IPL as five-time champions set to miss ex-skipper against RR?",
+    "desc": "Chennai Super Kings' IPL 2026 opener against Rajasthan Royals marks a rare moment of MS Dhoni missing out on an IPL match. Despite being in his 40s, Dhoni has been a regular for the Super...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-has-csk-performed-in-ms-dhonis-absence-in-ipl-as-five-time-champions-set-to-miss-ex-skipper-against-rr-2026-03-30-1035628",
+    "time": "2026-03-30T11:39:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No MS Dhoni, Brevis, will Sanju Samson play? CSK's predicted XI for IPL 2026 opener in Guwahati",
+    "desc": "Chennai Super Kings will lock horns against the Rajasthan Royals today to get their campaign underway in the ongoing edition of the Indian Premier League (IPL). The match is set to take place at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-csk-no-ms-dhoni-brevis-will-sanju-samson-play-csk-s-predicted-xi-for-ipl-2026-opener-in-guwahati-2026-03-30-1035625",
+    "time": "2026-03-30T11:14:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "For first time in T20 history! CSK to take field against RR in Guwahati without two legends",
+    "desc": "Chennai Super Kings are set to take the field without legends MS Dhoni and Suresh Raina for the first time in their history as the five-time champions open their IPL 2026 campaign against Rajasthan Royals...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/for-first-time-in-t20-history-csk-to-take-field-against-rr-in-guwahati-without-two-legends-2026-03-30-1035622",
+    "time": "2026-03-30T11:06:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No IPL broadcast in Bangladesh as India's JioStar ends broadcast agreement despite softer government stance",
+    "desc": "Bangladesh fans will not be able to watch the ongoing Indian Premier League (IPL) matches live. India's JioStar has ended its IPL broadcast agreement in Bangladesh, ruling out any chance of the telecast of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/no-ipl-broadcast-in-bangladesh-as-india-s-jiostar-ends-broadcast-agreement-despite-softer-government-stance-2026-03-30-1035621",
+    "time": "2026-03-30T10:38:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jannik Sinner defeats Jiri Lehecka to complete 'Sunshine Double', clinches Miami Open 2026 title",
     "desc": "Italian tennis superstar Jannik Sinner is hot on the trail of Spain’s Carlos Alcaraz in the ATP rankings. The star player clinched the Miami Open 2026 final as he defeated Czech Jiri Lehecka with a...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-csk-pitch-report-how-will-surface-at-barsapara-stadium-in-guwahati-play-in-ipl-2026-2026-03-30-1035583",
     "time": "2026-03-30T05:31:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Matter of some concern': R Ashwin flags early warning signs for MI star after stellar win over KKR",
-    "desc": "The 2nd game of the ongoing IPL (Indian Premier League) 2026 saw Mumbai Indians dominate three-time champions Kolkata Knight Riders and register a six-wicket win to kick off their IPL 2026 campaign in the perfect...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/matter-of-some-concern-r-ashwin-flags-early-warning-signs-for-mi-star-after-stellar-win-over-kkr-2026-03-30-1035578",
-    "time": "2026-03-30T04:51:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma-Ryan Rickelton script history, achieve massive feat with brilliant showing against KKR",
-    "desc": "Mumbai Indians registered a brilliant victory against Kolkata Knight Riders in game 2 of the ongoing IPL (Indian Premier League) 2026. The two sides locked horns at the Wankhede Stadium in Mumbai on March 29,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-ryan-rickelton-script-history-achieve-massive-feat-with-brilliant-showing-against-kkr-2026-03-30-1035569",
-    "time": "2026-03-30T03:53:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ball tampering scandal in PSL? Know why were Lahore Qalandars penalised for 5 runs vs Karachi Kings",
-    "desc": "The PSL (Pakistan Super League) 2026 has been at the centre of controversy once again. The 6th game of the tournament saw Lahore Qalandars taking on Karachi Kings. The two sides locked horns at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ball-tampering-scandal-in-psl-know-why-were-lahore-qalandars-penalised-for-5-runs-vs-karachi-kings-2026-03-30-1035561",
-    "time": "2026-03-30T02:36:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma surpasses Virat Kohli in elite list after stellar knock against Kolkata Knight Riders",
-    "desc": "Game 2 of the ongoing IPL (Indian Premier League) 2026 saw Mumbai Indians take on Kolkata Knight Riders. The two sides locked horns at the Wankhede Stadium in Mumbai on March 29. The clash saw...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-surpasses-virat-kohli-in-elite-list-after-stellar-knock-against-kolkata-knight-riders-2026-03-30-1035556",
-    "time": "2026-03-30T01:34:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mumbai Indians end 14-year-long wait, complete record chase against KKR to kick off IPL 2026 in style",
-    "desc": "After years of waiting, the Mumbai Indians have finally won their first match of an IPL season. Since 2012, they had never won their opening match in a season, as the wait came to an...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-end-14-year-long-wait-complete-record-chase-against-kkr-to-kick-off-ipl-2026-in-style-2026-03-29-1035550",
-    "time": "2026-03-29T17:42:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is leading KKR as Ajinkya Rahane goes down in second innings during MI clash in IPL 2026?",
-    "desc": "Kolkata Knight Riders suffered a blow when captain Ajinkya Rahane walked off the field mid-way during their IPL 2026 opener against the Mumbai Indians. Rahane, who scored an impressive 67 from 40 balls earlier, left...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-leading-kkr-as-ajinkya-rahane-goes-down-in-second-innings-during-mi-clash-in-ipl-2026-2026-03-29-1035547",
-    "time": "2026-03-29T16:57:52.000Z"
   }
 ];

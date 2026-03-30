@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "હવે આરપારનું યુદ્ધ ! Trumpની ખુલ્લી ધમકી ઈરાનને ઉડાવી દઈશું, આખી દુનિયા ફફડી ગઈ",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચે વાટાઘાટો ચાલી રહી છે, અને ઈરાન એક કરાર ઇચ્છે છે. ટ્રમ્પે એમ કહ્યું છે કે તેઓ ઈરાનના તેલ પર નિયંત્રણ મેળવવા માંગે છે અને ખર્ગ ટાપુ પર પણ નિયંત્રણ મેળવી શકે છે. આ દરમિયાન, ઈરાને મધ્ય પૂર્વમાં યુએસ સૈનિકોના આગમન પર પણ પ્રતિક્રિયા આપી છે. અમેરિકાએ આરપારની જંગ માટે તૈયારી કરી લીધી છે. જો ઈરાન નહીં માન્યું તો પાણી, ક્રૂડ ઓઈલના તમામ પ્લાન્ટ બરબાદ કરી દઈ અમારા સૈનિકોના મોતનો બદલો લઈશું. આ ઈરાન પાસે છેલ્લી તક છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/now-there-will-be-a-war-across-the-border-trump-threatened-iran-this-is-why-he-attacked-us-president-explanation-470814 ",
+    "time": "2026-03-30T13:12:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મોબાઇલ નેટવર્કની જેમ, તમારું બેંક ખાતું પણ થશે સ્વિચ, RBIની મોટી તૈયારી",
+    "desc": "RBI પેમેન્ટ્સ સ્વિચિંગ સર્વિસ (PaSS) નામની એક નવી સિસ્ટમ વિકસાવી રહી છે. બેંક એકાઉન્ટ સ્વિચ કરવું હવે મોબાઇલ નેટવર્ક પોર્ટેબિલિટી જેવું જ હશે. હાલમાં, મોટાભાગના બેંક ગ્રાહકો માટે બેંક એકાઉન્ટ સ્વિચ કરવું એક જટિલ પ્રક્રિયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/like-mobile-networks-your-bank-account-will-also-be-switched-rbi-big-preparation-470825 ",
+    "time": "2026-03-30T13:07:35.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "દુનિયામાં કોની પાસે છે સૌથી વધુ યુરેનિયમ ? આ 5 દેશો પાસે છે પરમાણુ શક્તિનો ખજાનો",
+    "desc": "દુનિયામાં યુરેનિયમની માંગ સતત વધી રહી છે. દરેક દેશ શક્ય તેટલા મોટા યુરેનિયમ ભંડાર પર નિયંત્રણ મેળવવા માટે સ્પર્ધા કરી રહ્યા છે. જે દેશ પાસે પોતાના યુરેનિયમ ભંડાર નથી તેઓ અન્ય દેશો સાથે કરાર કરી રહ્યા છે. ત્યારે એ જાણી લઈએ કે વિશ્વના કયા દેશો પાસે સૌથી વધુ યુરેનિયમ ભંડાર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/top-5-countries-with-largest-uranium-reserves-2026-470815 ",
+    "time": "2026-03-30T12:25:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "લગ્નને લઈ સુનિધિ ચૌહાણે ભડાસ કાઢી, ખુલ્લે આમ પહેલા પતિને ગણાવ્યો લાઈફની ભુલ",
+    "desc": "સુનિધિ ચૌહાણ તેની પર્સનલ લાઈફને લઈ ચર્ચામાં છે. સુનિધિ ચૌહાણે એક મુલાકાત દરમિયાન પોતાના પહેલા લગ્ન વિશે ખુલીને વાત કરી અને કહ્યું કે પિતાની ઉંમરના વ્યક્તિ સાથે લગ્ન કર્યા એ જીવનની સૌથી મોટી ભુલ હતી. સમગ્ર મામલો શું છે ચાલો તમને જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/sunidhi-chauhan-first-marriage-bobby-khan-controversy-sunidhi-chauhan-divorce-reason-470804 ",
+    "time": "2026-03-30T11:35:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "345 રૂપિયાથી તૂટીને 30 રૂપિયા પર આવી ગયો આ શેર, રોકાણકારોને લાગ્યો ઝટકો",
+    "desc": "વિષ્ણુ પ્રકાશ આર પુંગલિયાના શેર સોમવારે બીએસઈમાં ઈન્ટ્રા ડે દરમિયાન 10 ટકાથી વધુ તૂટી 29.59 રૂપિયા પર પહોંચી ગયા છે. સિવિલ કન્સ્ટ્રક્શન ઈન્ડસ્ટ્રી સાથે જોડાયેલી કંપનીના શેર પોતાના ઓલ ટાઈમ હાઈ લેવલથી 90 ટકાથી વધુ ઘટી ગયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/smallcap-stock-vishnu-prakash-r-punglia-cracked-over-90-percent-dropped-below-30-rupee-from-345-rupee-level-470803 ",
+    "time": "2026-03-30T11:29:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શેર બજારમાં રોકાણ કરીને કઈ રીતે બની શકાય છે અમીર ? વોરેન બફેટે આપી મહત્વપૂર્ણ ટિપ્સ",
+    "desc": "આજના અસ્થિર બજારોમાં વોરેન બફેટનો આ સીખ વધુ મહત્વપૂર્ણ છે. જ્યારે દરેક વ્યક્તિ ઝડપથી પૈસા કમાવવાનો પ્રયાસ કરી રહ્યો છે, ત્યારે ધીરજ, શિસ્ત અને યોગ્ય તકની રાહ જોવી એ એકમાત્ર બાબતો છે, જે રોકાણકારોને લાંબા ગાળે સફળ બનાવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/how-to-become-rich-by-investing-in-the-stock-market-warren-buffett-gives-important-tips-470802 ",
+    "time": "2026-03-30T11:23:34.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "એકદમ ફ્રીમાં જોવા મળશે રણવીર સિંહની ફિલ્મ ધુરંધર, ફટાફટ ચેક કરી લો તારીખ અને જગ્યા",
     "desc": "રણવીર સિંહની ફિલ્મ ધુરંધર જો તમે થિયેટરમાં કે નેટફ્લિક્સ પર જોઈ નથી તો ચિંતા ન કરો. ટુંક સમયમાં તમે આ ફિલ્મ એકદમ ફ્રીમાં જોઈ શકશો. ધુરંધર ફિલ્મને લઈ મોટી જાહેરાત કરવામાં આવી છે. આ જાહેરાત શું છે ચેક કરી લો.",
@@ -387,15 +441,6 @@ const newsData_gu = [
     "time": "2026-03-28T09:19:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "તો આ વસ્તુઓની કિંમત વધી જશે! ઈરાન યુદ્ધની અસર..... ઘરથી લઈને હોસ્પિટલ સુધી થાય છે ઉપયોગ",
-    "desc": "US-Iran War થી તેલ અને ગેસનું સંકટ જોવા મળી રહ્યું છે, પરંતુ હવે તેની અસર રોજિંદા સામાનથી લઈને હેલ્થકેર પ્રોડક્ટ્સ પર પડતી જોવા મળી રહી છે. પ્લાસ્ટિકની કિંમતોમાં સતત થઈ રહેલા વધારાથી મોંઘવારીનો ખતરો વધી ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/us-iran-war-impact-plastic-prices-surge-again-packaged-goods-food-to-medicine-may-costlier-470409 ",
-    "time": "2026-03-28T07:37:21.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Gold-Silver Weekly Rate Explainer: સોનું 4000 અને ચાંદી 10000 તૂટી, એક સપ્તાહમાં શું ઉથલપાથલ રહી? સાથે જાણો સોના-ચાંદીના લેટેસ્ટ રેટ",
     "desc": "સોના અને ચાંદીમાં આ અઠવાડિયે ભારે ઉથલપાથલ જોવા મળી. સપ્તાહના પહેલા જ દિવસે સોનું મોટા કડાકા સાથે 147218 પરથી સીધુ 135141 પર ખુલ્યું હતું જ્યારે ચાંદી પણ 232364 પરથી સીધી 201500 પર પહોંચી હતી. પરંતુ ત્યારબાદ સતત ઉતાર ચડાવના પગલે ભાવમાં કરેક્શન પણ જોવા મળ્યા. છેલ્લા એક સપ્તાહમાં સોનું ચાંદી કઈ સ્થિતિમાં જોવા મળ્યા અને લેટેસ્ટ રેટ ખાસ જાણો.",
@@ -412,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ott-new-release-march-2026-last-weekend-new-hindi-film-and-web-series-on-ott-march-2026-470404 ",
     "time": "2026-03-28T06:33:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "લોનના નિયમોનો ઉલાળિયો કે મિલીભગત? SFIO સરકારી નાણાકીય સંસ્થાને NCLTમાં ઢસડી ગઈ",
-    "desc": "સરકારી નાણાકીય સંસ્થા IFCI અને તેના અધિકારીઓ તથા કેટલીક કંપનીઓ વિરુદ્ધ 6855 કરોડ રૂપિયાના કથિત કૌભાંડ અંગે NCLTમાં સરકારી તપાસ એજન્સી SFIOએ અરજી દાખલ કરી છે. ખુબ જ ચોંકાવનારા આ કેસની વિગતો જાણીને દંગ રહી જશો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/ifci-6855-crore-case-inside-story-shocking-details-of-corporate-fraud-loan-scam-470397 ",
-    "time": "2026-03-28T05:33:51.000Z"
   },
   {
     "cat": "Sports",
@@ -441,24 +477,6 @@ const newsData_gu = [
     "time": "2026-03-27T16:57:02.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ખરાબ હાલતમાં આવ્યો TATAનો શેર, 291થી 33 રૂપિયા પર આવ્યો ભાવ, જાણો",
-    "desc": "ટાટા ગ્રુપની કંપનીના શેર તેમના ઓલ ટાઈમ હાઈ લેવલથી 87 ટકાથી વધુ તૂટ્યો છે. આ કંપનીનો શેર 291.05 પર હતો. આજે એટલે કે 27 માર્ચ, 2026ના રોજ શેર 33.14 પર બંધ થયો છે. રોકાણકારોને ભારે નુકશાન થયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/tata-share-is-in-bad-condition-price-dropped-from-291-to-33-rupees-know-470377 ",
-    "time": "2026-03-27T16:31:57.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાનની મંજૂરી વિના હોર્મુઝ સ્ટ્રેટ પાર કરી રહ્યું હતું જહાજ, મિસાઈલ મારી ઉડાડી દીધું! જુઓ Viral Video",
-    "desc": "એવો દાવો કરવામાં આવે છે કે સ્ટ્રેટ ઓફ હોર્મુઝમાંથી પસાર થઈ રહેલા એક જહાજ પર મિસાઈલનો હુમલો થયો હતો. ત્યારબાદ જહાજમાંથી ધુમાડાના ગોટે ગોટા નિકળતા જોવા મળ્યા છે. આ વીડિયો સામે આવ્યો, જેનાથી લોકોમાં ભય અને રાજકીય ચર્ચા શરૂ થઈ ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/ship-was-crossing-the-strait-of-hormuz-without-iran-permission-missile-shot-it-down-watch-viral-video-470376 ",
-    "time": "2026-03-27T16:09:59.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Appleનો સૌથી સસ્તો iPhone, પૈસા વસૂલ કે ઓવરરેટેડ? જાણો",
     "desc": "શું એપલનો નવો આઈફોન ખરેખર પૈસા માટે યોગ્ય છે? ચાલો તેની વિગતવાર જોઈએ કે શું તે તેની કિંમત વાજબી છે અને રોજિંદા ઉપયોગમાં તે કેટલો ઉપયોગી છે. નવી સિરિઝનો આ સૌથી સસ્તો મોડલ છે. ચાલો તેની કિંમત અને ફિચર્સ વિશે જાણીએ.",
@@ -466,33 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/apple-cheapest-iphone-17e-money-back-or-underrated-470353 ",
     "time": "2026-03-27T13:55:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "અમેરિકા-ઈરાન યુદ્ધથી અસર ભારત પહોચી, દેશના ટોપમાં 7 શહેરોમાં ઘટ્યું ઘરોનું વેચાણ, જાણો",
-    "desc": "મધ્ય પૂર્વમાં ચાલી રહેલા તણાવ હવે ભારતીય રિયલ એસ્ટેટ માટે ખતરો ઉભો કરી રહ્યા છે. દેશના ઘણા શહેરોમાં મિલકતના વેચાણમાં 7 ટકાનો ઘટાડો થયો છે, અને જો યુદ્ધ ચાલુ રહેશે તો પરિસ્થિતિ વધુ ખરાબ થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/the-impact-of-the-us-iran-war-has-reached-india-house-prices-have-decreased-in-7-of-the-country-top-cities-know-470327 ",
-    "time": "2026-03-27T12:26:17.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "&amp;quot;ભારતના લોકોનો આભાર&amp;quot; લખીને ઈરાને ઇઝરાયલ પર છોડી મિસાઇલ, જાણો ઈરાને કેમ કર્યું આવું",
-    "desc": "ઈરાને યુદ્ધ વચ્ચે એક અનોખી રણનીતિ અપનાવી છે. તે ભારત સહિત અન્ય દેશોના આભાર સંદેશ લખીને મિસાઇલો અને ડ્રોન છોડી રહ્યું છે. સરકારી મીડિયા દ્વારા બહાર પાડવામાં આવેલા વીડિયોમાં આ સ્પષ્ટપણે જોઈ શકાય છે. ત્યારે ઈરાન આવું કેમ કરી રહ્યું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-wrote-thank-you-people-of-india-on-missile-and-fires-on-israel-470324 ",
-    "time": "2026-03-27T11:43:17.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાનના હુમલાથી UAE-સાઉદી સહિત 6 ખાડી દેશ હચમચી ગયા, છતાં વળતો પ્રહાર નથી કરતા, કેમ? વિગતો જાણીને ચોંકી જશો",
-    "desc": "જ્યારથી અમેરિકા અને ઈઝરાયેલે ઈરાન પર હુમલા કર્યા છે ત્યારથી લઈને અત્યાર સુધી ઈરાને ઈઝરાયેલ તો ઠીક ખાડીના 6 દેશોને પણ હચમચાવી નાખ્યા છે. યુએઈ, સાઉદી અરબ સહિત 6 જીસીસી દેશો પર એવા હુમલા કર્યા કે તેઓ થરથરી ગયા. આર્થિક રીતે સદ્ધર એવા આ દેશોએ પોતાના પર હુમલાને કેમ સાખી લીધા? વળતો પ્રહાર કેમ ન કર્યો તે સવાલ અનેક લોકોના મનમાં ઘૂમરાયા કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/explainer-iran-attacked-6-gulf-countries-including-uae-saudi-arabia-yet-they-did-not-retaliate-why-470297 ",
-    "time": "2026-03-27T10:44:47.000Z"
   },
   {
     "cat": "Sports",
@@ -646,15 +637,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/mamta-kulkarni-goa-video-mamta-kulkarni-modern-look-viral-enjoying-vacation-in-goa-469767 ",
     "time": "2026-03-23T06:15:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અસલી ધુરંધરનું ઉરી ફિલ્મ સાથે ખાસ કનેકશન, સોશિયલ મીડિયા પર વાયરલ સીન જુઓ તમે પણ",
-    "desc": "ધુરંધર 2 ફિલ્મ બોક્સ ઓફિસ પર કમાણીના રેકોર્ડ સર્જી રહી છે તેની ચર્ચાની સાથે આદિત્ય ધરે ફિલ્મમાં જે ડિટેલીંગ દેખાડી છે તેના પણ વખાણ થઈ રહ્યા છે. ધુરંધર 2 ફિલ્મમાં જે અસલી ધુરંધર નીકળે છે પાત્રનું ઉરી સાથેનું કનેકશન જોઈ લોકો પાગલ થઈ રહ્યા છે. ઉરી ફિલ્મનો આ સીન જોઈ તમે પણ માથું પકડી લેશો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/uri-film-rakesh-bedi-or-jameel-jamali-scene-viral-dhurandhar-2-uri-connections-469486 ",
-    "time": "2026-03-21T08:31:10.000Z"
   },
   {
     "cat": "Tech",
