@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "'রাহুলের অস্বাভাবিক মৃত্যুর পূর্ণাঙ্গ ও নিরপেক্ষ পুলিসি তদন্ত চাই', সুদীপ্তা-রূপাঞ্জনা দাবির মাঝেই আর্টিস্ট ফোরামের বিবৃতি",
+    "desc": "শুটিং করতে গিয়ে ওড়িশার সমুদ্রে তলিয়ে গেলেন অভিনেতা রাহুল অরুণোদয় বন্দ্যোপাধ্যায়। কিন্তু এটি কি শুধুই দুর্ঘটনা? কেন ছিল না পর্যাপ্ত নিরাপত্তা? প্রিয় সহকর্মীর অকাল প্রয়াণে এবার বিচার ও নিরপেক্ষ তদন্তের দাবিতে সরব সুদীপ্তা চক্রবর্তী, রূপাঞ্জনা মিত্র থেকে শুরু করে টলিপাড়ার কলাকুশলীরা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunoday-banerjee-death-shooting-negligence-investigation-demanded-by-sudipta-rupanjana-to-artist-forum_646623.html ",
+    "time": "2026-03-30T08:59:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "'সাক্ষাৎ মহাদেবের দর্শন পেলাম!' কৈলাস পর্বতের অভূতপূর্ব দৃশ্যে মুগ্ধ বিশ্ব",
+    "desc": "বিমানের জানলা থেকে রেকর্ড করা হয়েছে একটি ভিডিয়ো। মহাবিশ্বের কেন্দ্র বলে মনে করা হয় যাকে, মনে করা হয় ভগবান শিবের নিবাস-- সেই কৈলাসে আশ্চর্য দর্শন!বিমানটি মেঘের সমুদ্র চিরে এগিয়ে চলেছে এবং হঠাৎ করেই বরফের চাদরে ঢাকা মহিমান্বিত কৈলাস পর্বত ভেসে উঠেছে চোখের সামনে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/stunning-view-of-mount-kailash-from-above-clouds-devotees-mesmerized-i-have-seen-lord-shiva-viral-video_646620.html ",
+    "time": "2026-03-30T08:21:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ফুসফুস ফুলে দ্বিগুণ, ভিতরে জমেছে বালি: রাহুলের ভয়ংকর শেষ সময়ের আভাস পোস্টমর্টেমে",
+    "desc": "ময়নাতদন্তের রিপোর্টে হাড়হিম করা তথ্য! ১ ঘণ্টারও বেশি সময় ওড়িশার সমুদ্রে জলের তলায় ডুবে ছিলেন অভিনেতা রাহুল অরুণোদয় বন্দ্যোপাধ্যায়। ফুসফুস ও খাদ্যনালীর ভেতরে মিলেছে প্রচুর বালি ও নোনা জল। ১ ঘণ্টা ধরে তিনি নিখোঁজ থাকার পরও ইউনিটের কেউ কি তা জানতেন না? এটি কি স্রেফ দুর্ঘটনা নাকি চরম গাফিলতি?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunoday-banerjee-autopsy-report-reveals-negligence-talsari_646617.html ",
+    "time": "2026-03-30T07:44:01.000Z"
+  },
+  {
     "cat": "World",
     "title": "রক্তক্ষয়ী যুদ্ধে উত্তাল মধ্যপ্রাচ্য: কুয়েতে ভয়ংকর হামলায় মৃত ভারতীয়, এই নিয়ে মোট ৮",
     "desc": "কুয়েতের এক বিদ্যুৎ ও জল শোধন কেন্দ্রে ইরানি ক্ষেপণাস্ত্র হামলায় এক ভারতীয় শ্রমিক নিহত হয়েছেন। এই নিয়ে মধ্যপ্রাচ্যের যুদ্ধে মোট আটজন ভারতীয় নাগরিক প্রাণ হারালেন। যুদ্ধের কারণে ইরান বর্তমানে গুরুত্বপূর্ণ ‘হরমুজ প্রণালী’ বন্ধ করে দিয়েছে, যার ফলে বিশ্ববাজারে জ্বালানি তেলের দাম বাড়ছে।",
@@ -54,15 +81,6 @@ const newsData_bn = [
     "time": "2026-03-28T05:35:16.000Z"
   },
   {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "কোথায় গেল ২৩০০ কেজি মাদক? পুলিস বলল 'ইঁদুরে সাবাড় করে দিয়েছে'",
     "desc": "৩০০০ টন নিউ জেনারেশন কর্ভেটে। এই যুদ্ধজাহাজগুলি তৈরি করবে গার্ডেন রিচ শিপ বিল্ডার্স অ্যান্ড ইঞ্জিনিয়ার্স এবং গোয়া শিপইয়ার্ড লিমিটেড। সম্পূর্ণ দেশীয় প্রযুক্তিতে নির্মিত এই প্ল্যাটফর্মগুলি ভারতের নৌশক্তিকে নতুন উচ্চতায় নিয়ে যাবে বলে মত সংশ্লিষ্ট মহলের।",
@@ -79,23 +97,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/rakesh-bedi-reacts-to-sara-arjun-kiss-controversy-dhurandhar-2_646038.html ",
     "time": "2026-03-24T13:41:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "লক্ষ টাকার চাকরি ছেড়ে ১০ হাজারে শুরু, রণবীর-হৃতিকের ট্রেনার থেকে অভিনেতা; ডিসলেক্সিয়া জয়ী মুস্তাফার 'ধুরন্ধর' সফর",
-    "desc": "বিখ্যাত ফিটনেস ট্রেনার থেকে অভিনেতা হয়ে ওঠার এক অনন্য রূপকথার নাম মুস্তাফা আহমেদ। বর্তমানে রণবীর সিং অভিনীত 'ধুরন্ধর: দ্য রিভেঞ্জ' ছবিতে 'রিজওয়ান' চরিত্রে তাঁর অভিনয় প্রশংসিত হচ্ছে। তবে এই সাফল্যের পেছনে রয়েছে এক কঠিন লড়াইয়ের গল্প।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/mustafa-ahmed-gym-trainer-to-actor-ranveer-singh-dhurandhar_645922.html ",
-    "time": "2026-03-23T13:13:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'ভ্লগাররা যা শুরু করেছে, আর ভ্লগ নয়', ডিজিটাল ডিটক্সের পথে ছোটপর্দার জনপ্রিয় অভিনেত্রী",
-    "desc": "ব্যক্তিগত জীবনের কঠিন লড়াইয়ের মাঝে এক সাহসী সিদ্ধান্ত নিলেন অভিনেত্রী মানসী সেনগুপ্ত। ভ্লগিংয়ের দুনিয়ায় আর নয়, এবার তিনি মন দিতে চান শুধুই কাজে। \"মানসিক অশান্তি\" এড়াতে এবং \"কুরুচিকর\" কন্টেন্ট থেকে দূরে থাকতে কেন এই পদক্ষেপ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/manosi-sengupta-quits-vlogging-divorce-announcement-social-media_645920.html ",
-    "time": "2026-03-23T12:44:34.000Z"
   }
 ];

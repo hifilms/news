@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jannik Sinner defeats Jiri Lehecka to complete 'Sunshine Double', clinches Miami Open 2026 title",
+    "desc": "Italian tennis superstar Jannik Sinner is hot on the trail of Spain’s Carlos Alcaraz in the ATP rankings. The star player clinched the Miami Open 2026 final as he defeated Czech Jiri Lehecka with a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-defeats-jiri-lehecka-to-complete-sunshine-double-clinches-miami-open-2026-title-2026-03-30-1035611",
+    "time": "2026-03-30T08:49:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will weather in Guwahati fare for IPL 2026 game 3?",
+    "desc": "Rajasthan Royals and Chennai Super Kings will lock horns in game 3 of the ongoing IPL (Indian Premier League) 2026. The two sides will lock horns at the Barsapara Stadium in Guwahati on March 30....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-csk-weather-report-how-will-weather-in-guwahati-fare-for-ipl-2026-game-3-2026-03-30-1035600",
+    "time": "2026-03-30T07:29:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why did Cameron Green not bowl against Mumbai Indians? Check Cricket Australia's big clarification",
     "desc": "Mumbai Indians defeated Kolkata Knight Riders in the 2nd game of the ongoing IPL (Indian Premier League) 2026. The five-time champions dominated Kolkata in several aspects of the game. Still, despite MI registering a brilliant...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/who-is-leading-kkr-as-ajinkya-rahane-goes-down-in-second-innings-during-mi-clash-in-ipl-2026-2026-03-29-1035547",
     "time": "2026-03-29T16:57:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kieron Pollard's all-time IPL record broken, Sunil Narine etches name into history books",
-    "desc": "Kolkata Knight Riders star Sunil Narine has shattered a massive Kieron Pollard record during his team's IPL 2026 opener against the Mumbai Indians at the Wankhede Stadium in Mumbai. Narine has been a KKR icon,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kieron-pollards-all-time-ipl-record-broken-sunil-narine-etches-name-into-history-books-2026-03-29-1035544",
-    "time": "2026-03-29T15:48:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "After MS Dhoni, CSK dealt with another injury blow, star batter ruled out of team's IPL 2026 opener",
-    "desc": "Injury troubles have hit the Chennai Super Kings hard even before they have taken the field in the Indian Premier League 2026. With Nathan Ellis out of the season and MS Dhoni likely to miss...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/after-ms-dhoni-csk-dealt-with-another-injury-blow-star-batter-ruled-out-of-teams-ipl-2026-opener-2026-03-29-1035538",
-    "time": "2026-03-29T14:58:51.000Z"
   }
 ];
