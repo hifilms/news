@@ -99,15 +99,6 @@ const newsData_bn = [
     "time": "2026-03-28T05:35:16.000Z"
   },
   {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "কোথায় গেল ২৩০০ কেজি মাদক? পুলিস বলল 'ইঁদুরে সাবাড় করে দিয়েছে'",
     "desc": "৩০০০ টন নিউ জেনারেশন কর্ভেটে। এই যুদ্ধজাহাজগুলি তৈরি করবে গার্ডেন রিচ শিপ বিল্ডার্স অ্যান্ড ইঞ্জিনিয়ার্স এবং গোয়া শিপইয়ার্ড লিমিটেড। সম্পূর্ণ দেশীয় প্রযুক্তিতে নির্মিত এই প্ল্যাটফর্মগুলি ভারতের নৌশক্তিকে নতুন উচ্চতায় নিয়ে যাবে বলে মত সংশ্লিষ্ট মহলের।",
@@ -115,14 +106,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/2300-kg-drugs-vanish-from-police-custody-govt-says-it-was-eaten-by-rats_646378.html ",
     "time": "2026-03-27T10:31:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "২০ বছরের সারাকে জড়িয়ে কাঁধে চুমু ৭১ বছরের রাকেশের, 'লোকে তো বলবেই': ভাইরাল ভিডিয়ো বিতর্কে মুখ খুললেন ‘ধুরন্ধর ২’ অভিনেতা",
-    "desc": "আদিত্য ধর পরিচালিত এবং রণবীর সিং অভিনীত ‘ধুরন্ধর ২: দ্য রিভেঞ্জ’-এর আকাশছোঁয়া সাফল্যের মাঝেই একটি পুরোনো বিতর্ক নিয়ে মুখ খুললেন বর্ষীয়ান অভিনেতা রাকেশ বেদি। ছবির ট্রেলার লঞ্চের একটি ভাইরাল ভিডিও এবং সহ-অভিনেত্রী সারা অর্জুনের সঙ্গে তাঁর সমীকরণ নিয়ে মুখ খুললেন অভিনেতা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/rakesh-bedi-reacts-to-sara-arjun-kiss-controversy-dhurandhar-2_646038.html ",
-    "time": "2026-03-24T13:41:44.000Z"
   }
 ];

@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "MS Dhoni's record broken! CSK's Jamie Overton shatters CSK legend's feat during IPL 2026 clash vs RR",
+    "desc": "Chennai Super Kings' all-rounder Jamie Overton shattered an MS Dhoni record despite the team's horror show against Rajasthan Royals in the Indian Premier League 2026. Overton made 43 in an otherwise dismal batting outing from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhonis-record-broken-csks-jamie-overton-shatters-csk-legends-feat-during-ipl-2026-clash-vs-rr-2026-03-30-1035668",
+    "time": "2026-03-30T18:26:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Not frustrated at all': CSK captain Gaikwad feels 'good to start with lot of mistakes' after RR drubbing",
+    "desc": "Despite being thrashed by the Rajasthan Royals in their IPL 2026 opener, Chennai Super Kings captain Ruturaj Gaikwad does not feel 'frustrated at all'. The five-time champions were catapulted by the Royals at the Barsapara...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/not-frustrated-at-all-csk-captain-gaikwad-feels-good-to-start-with-lot-of-mistakes-after-rr-drubbing-2026-03-30-1035667",
+    "time": "2026-03-30T17:54:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals maul CSK to break 12-year-old record, start IPL 2026 campaign on high",
+    "desc": "Rajasthan Royals have handed Chennai Super Kings a huge drubbing in their IPL 2026 opener at the Barsapara Cricket Stadium, Guwahati, with a stellar all-round show. Set up by their bowlers, RR chased down a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-maul-csk-to-break-12-year-old-record-start-ipl-2026-campaign-on-high-2026-03-30-1035666",
+    "time": "2026-03-30T17:07:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Red Bull responds to Max Verstappen's shock F1 retirement consideration",
+    "desc": "Red Bull boss Laurent Mekies has responded to four-time champion Max Verstappen's retirement hint after a frustrating start to the Formula 1 2026 season. Due to his ongoing struggles with the new power unit in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/formula-1/red-bull-responds-to-max-verstappens-shock-f1-retirement-consideration-2026-03-30-1035662",
+    "time": "2026-03-30T16:34:55.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "CSK's lowest totals in IPL history as five-time champions collapse vs RR in IPL 2026",
     "desc": "Chennai Super Kings' IPL 2026 campaign didn't get off to a desired start as their batting unravelled against the Rajasthan Royals at the Barsapara Stadium in Guwahati. MS Dhoni's absence was felt as the team...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-dewald-brevis-not-playing-in-rr-vs-csk-ipl-2026-clash-in-guwahati-2026-03-30-1035647",
     "time": "2026-03-30T13:39:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is MS Dhoni not playing for CSK vs RR in IPL 2026 clash in Guwahati?",
-    "desc": "Chennai Super Kings opened their campaign today in the ongoing Indian Premier League (IPL) season against the Rajasthan Royals at the Barsapara Stadium in Guwahati. However, they didn't have the 45-year-old veteran and an ever-present...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ms-dhoni-not-playing-for-csk-vs-rr-in-ipl-2026-clash-in-guwahati-2026-03-30-1035645",
-    "time": "2026-03-30T13:38:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ball-tampering in PSL 2026: Why is Fakhar Zaman likely to face ban amid controversy?",
-    "desc": "The ongoing edition of the Pakistan Super League (PSL) is only five days old, and several controversies have already plagued the tournament. The opening day was headlined with the ball changing its colour to pink...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ball-tampering-in-psl-2026-why-is-fakhar-zaman-likely-to-face-ban-amid-controversy-2026-03-30-1035637",
-    "time": "2026-03-30T12:49:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Toss to take place on time after rain eases out in Guwahati",
-    "desc": "Guwahati weather is in focus as Rajasthan Royals host Chennai Super Kings in their first match of IPL 2026 at the Barsapara Cricket Stadium, Guwahati, on Monday, March 30. Eyes will be glued to the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/guwahati-weather-in-focus-in-rr-vs-csk-ipl-2026-clash-rajasthan-royals-vs-chennai-super-kings-latest-match-updates-scorecard-teams-highlights-2026-03-30-1035638",
-    "time": "2026-03-30T12:49:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How has CSK performed in MS Dhoni's absence in IPL as five-time champions set to miss ex-skipper against RR?",
-    "desc": "Chennai Super Kings' IPL 2026 opener against Rajasthan Royals marks a rare moment of MS Dhoni missing out on an IPL match. Despite being in his 40s, Dhoni has been a regular for the Super...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-has-csk-performed-in-ms-dhonis-absence-in-ipl-as-five-time-champions-set-to-miss-ex-skipper-against-rr-2026-03-30-1035628",
-    "time": "2026-03-30T11:39:48.000Z"
   }
 ];
