@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "&amp;#039;આઈ લવ યુ ડાર્લિંગ&amp;#039; લેડી ડોનનો પોલીસ અધિકારી પર ગંદા મેસેજ કરવાનો આરોપ, જાણો શું છે મામલો",
+    "desc": "બેંગ્લુરુથી એક શોકિંગ સમાચાર સામે આવી રહ્યા છે. જ્યાં લેડી ડોને પોલીસ અધિકારી પર અશ્લીલ સંદેશા મોકલવાનો આરોપ લગાવ્યો છે. તેનું એવું પણ કહેવું છે કે આ અધિકારીના 'ગંદા કામ' પર ઢાંક પીછોડો થઈ રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/karnataka-news-lady-don-accuses-police-inspector-of-sending-obscene-message-470700 ",
+    "time": "2026-03-30T05:21:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "હવે ગુજરાતના પેટ્રોલ પંપ પર મળશે કેરોસીન! LPG સંકટ વચ્ચે કેન્દ્ર સરકારનો મોટો નિર્ણય",
+    "desc": "ઈરાન યુદ્ધને પગલે દુનિયાભરમાં તેલ-ગેસ અને LPG નું સંકટ યથાવત છે. ત્યારે આ વચ્ચે ભારત સરકારે એક મોટો નિર્ણય લીધો છે. સરકારે કેરોસીન સાથે જોડાયેલા નિયમોમાં ઢીલ આપી છે. હવે રાજ્યોમાં પેટ્રોલ પંપો પર કેરોસીન મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/amid-energy-crisis-central-government-order-to-sell-kerosine-on-petrol-pumps-470699 ",
+    "time": "2026-03-30T05:04:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારતનું એકમાત્ર રેલવે સ્ટેશન, જ્યાં વર્ષમાં માત્ર બે વખત આવે છે ટ્રેન!",
+    "desc": "આ સ્ટેશન પર વર્ષમાં માત્ર બે વખત ટ્રેન આવે છે. આ સ્ટેશન પોતાના લોકેશનને કારણે પણ ખાસ છે. આ ટ્રેનનો અંતિમ છેડો છે, જેની આગળ કોઈ રેલવે લાઇન નથી. ટ્રેન અહીં પહોંચી પરત ફરી જાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/the-only-railway-station-in-india-trains-come-only-twice-a-year-470698 ",
+    "time": "2026-03-30T04:54:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "માતા-પિતાની સેવા નહીં કરો તો કિંમત ચૂકવવી પડશે, પગારમાંથી ધરખમ રકમ કપાઈ જશે",
+    "desc": "આજકાલ સોશિયલ મીડિયાના જમાનામાં અનેક એવી ઘટનાઓ અને વીડિયો વાયરલ થઈ જાય છે તે હચમચાવી નાખે છે. અનેકવાર એવા કિસ્સા સામે આવતા હોય છે કે જે ઉંમરે માતા પિતાની સેવા કરવાની હોય ત્યારે સંતાનો માતાપિતાને રઝળાવતા હોય છે. મારપીટ કરે છે. ત્યારે તેલંગણા સરકારનું આ પગલું ખરેખર પ્રશંસનીય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/telangana-employees-accountability-and-monitoring-of-parental-support-bill-2026-pass-in-assembly-know-details-470690 ",
+    "time": "2026-03-30T04:30:14.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel US War: ઈરાનના હુમલાથી ઈઝરાયેલમાં મચી તબાહી, ગેસ કાંડની આશંકા, કેમિકલ પ્લાન્ટ તબાહ",
+    "desc": "ઈઝરાયેલમાં કૃષિ રસાયણો અને પાક સુરક્ષાની સામગ્રી બનાવતી કંપની ADAMAના મખ્તેશિમ પ્લાન્ટ પર હુમલાના સમાચાર છે. જો કે અહીં ઈરાને છોડેલી સીધી મિસાઈલ પડી કે પછી ઈન્ટરસેપ્ટ કરાયેલી મિસાઈલનો કાટમાળ પડ્યો તે અંગે તપાસ ચાલુ છે. વધુ વિગતો માટે વાંચો અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/big-news-adama-chemical-plant-by-iranian-missile-or-debris-fears-of-gas-disaster-470679 ",
+    "time": "2026-03-30T03:23:40.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "3 વર્ષની ઉંમરે મા ગુમાવી, દાદીએ બનાવ્યો ક્રિકેટર, SRHના આ ખેલાડીની કહાની તમને રડાવી દેશે",
     "desc": "IPL 2026ની પહેલી જ મેચમાં અનિકેત વર્માએ RCB સામે શાનદાર ઇનિંગ રમી. અનિકેતની સફર ભારે સંઘર્ષથી ભરેલી રહી છે. ઝાંસીના 24 વર્ષીય યુવા ખેલાડીએ રોયલ ચેલેન્જર્સ બેંગ્લોર સામે સનરાઇઝર્સ હૈદરાબાદ માટે ધમાકેદાર બેટિંગ કરતા ફક્ત 18 બોલમાં 43 રન બનાવ્યા હતા. ત્યારે અનિકેત વર્માની અત્યાર સુધીની સફર વિશે આ લેખમાં જાણીશું.",
@@ -432,15 +477,6 @@ const newsData_gu = [
     "time": "2026-03-27T07:50:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "એક દેશ, બે તસવીર : ગુજરાતમં લિવ ઈન રિલેશનશીપ પર કડકાઈ, તો કર્ણાટકમાં પ્રેમ કરનારાઓને ખુલ્લી આઝાદી",
-    "desc": "ગુજરાત અને કર્ણાટકની સરકારના પ્રેમને લઈને અલગ અલગ વિચારો જોવા મળ્યા છે. એક રાજ્ય પ્રેમ કરનારાઓને છૂટ આપી રહ્યું છે, તો બીજુ રાજ્ય પ્રેમ કરવા માટે કાયદા લાવ્યું છે. ગુજરાત સરકાર જ્યાં યુસીસી લાગુ કરે છે, ત્યાં કર્ણાટક સરકાર ઈવા નમ્માવા બિલ લાવ્યું, આ બંનેમાં કેટલું અંતર છે જાણીએ",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/karnataka-eva-nammava-bill-vs-gujarat-ucc-law-for-marriage-and-live-in-relationship-470272 ",
-    "time": "2026-03-27T07:40:31.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ખરીદી માટે શાનદાર તક! આજે એક ઝટકે સોના-ચાંદીના ભાવમાં ધરખમ ઘટાડો, તમારા શહેરમાં શું છે ભાવ? જાણો રેટ",
     "desc": "મિડલ ઈસ્ટમાં જે યુદ્ધ ફાટી નીકળ્યું છે તેણે ધીરે ધીરે હવે અસર દેખાડવાની શરૂ કરી છે. ભારતમાં આ સંકટ લોકો પર તૂટી ન પડે તેના માટે થઈને સરકાર તકેદારી રાખીને પગલાં લઈ રહી છે. આજે પેટ્રોલ-ડીઝલની એક્સાઈઝ ડ્યૂટી પર ઘટાડો જાહેર કર્યો. પરંતુ છતાં શેર બજાર ધડામ થયું. આ સાથે સોના અને ચાંદીમાં પણ ભારે ઉથલપાથલ જોવા મળી રહી છે. એકબાજુ જ્યાં વાયદા બજારમાં સોનું ચાંદી ઉછાળા મારે છે ત્યાં રિટેલ બજારમાં સોનું ચાંદી ધડામ થયા છે. દાગીના અને લગડી ખરીદવા માટે જો કે સારી તક છે. જાણો આજનો લેટેસ્ટ રેટ.",
@@ -466,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/psl-2026-ball-color-change-white-turns-to-pink-know-why-470266 ",
     "time": "2026-03-27T06:36:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Petrol-Diesel Rate: એક્સાઈઝ ડ્યૂટીમાં 10 રૂપિયાનો તોતિંગ ઘટાડો, શું ઘટશે પેટ્રોલ-ડીઝલના ભાવ? જાણો જવાબ",
-    "desc": "કેન્દ્ર સરકારે આજે પેટ્રોલ અને ડીઝલમાં એક્સાઈઝ ડ્યૂટીમાં ભારે ઘટાડો કર્યો જેના પગલે એવો પણ સવાલ થઈ રહ્યો છે કે શું પેટ્રોલ ડીઝલના ભાવમાં ઘટાડો થશે? કારણ કે સામાન્ય રીતે એક્સાઈસ ડ્યૂટીમાં ઘટાડો થાય તો ભાવ ઘટતા હોય છે. જાણો સરકારે શું જવાબ આપ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/excise-duty-on-petrol-diesel-cut-by-10-rs-will-prices-come-down-know-what-govt-says-470264 ",
-    "time": "2026-03-27T06:31:39.000Z"
   },
   {
     "cat": "World",
@@ -529,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/top-3-affordable-7-seater-cars-in-india-list-includes-mahindra-maruti-and-toyota-470200 ",
     "time": "2026-03-26T12:16:24.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "સાવધાન! યુદ્ધ વચ્ચે ફરી કોરોનાનો પગપેસારો, શું નકામી થઈ જશે તમારી જૂની વેક્સિન? જાણો શું છે નવા લક્ષણો",
-    "desc": "કોરોનાનું નામ સાંભળતા જ આજે પણ લોકો ડરી જાય છે. જો કે, અત્યારે ભારતમાં લોકો આ બાબતે નિશ્ચિંત છે, પરંતુ એકવાર ફરી કોવિડના નવા વેરિએન્ટે અન્ય દેશોમાં દસ્તક આપી દીધી છે. ચાલો જાણીએ તેના વિશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/corona-returns-will-your-previous-vaccine-become-useless-know-what-the-symptoms-are-this-time-470199 ",
-    "time": "2026-03-26T12:05:19.000Z"
   },
   {
     "cat": "Sports",
