@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "હવે તો ઈરાનની બરાબર પાછળ પડી ગયા છે આ મુસ્લિમ દેશો! ટ્રમ્પને ગુપ્ત સંદેશ પણ મોકલ્યો",
+    "desc": "એકબાજુ જ્યાં ઈરાન અને ઈઝરાયેલ અમેરિકાનું યુદ્ધ દિવસેને દિવસે ભીષણ થઈ રહ્યું છે અનેક દેશોને લપેટામાં લઈ રહ્યું છે ત્યાં હવે એવા પણ સમાચાર આવી રહ્યા છેકે ખાડીના એવા કેટલાક દેશો છે જે ઈચ્છે છે કે અમેરિકા અધવચ્ચે આ સૈન્ય કાર્યવાહી બંધ કરે નહીં. જ્યાં સુધી ઈરાનમાં ધાર્મિક નેતૃત્વ ન બદલાય ત્યાં સુધી અમેરિકાએ આ કાર્યવાહી ચાલુ રાખવી જોઈએ",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/why-dont-these-countries-want-the-attacks-on-iran-to-stop-they-also-sent-a-message-to-trump-470882 ",
+    "time": "2026-03-31T04:44:30.000Z"
+  },
+  {
+    "cat": "World",
     "title": "પરમાણુ બોમ્બ બનાવીને જ રહેશે ઈરાન! છેલ્લી અડચણને પણ જલ્દી કહેશે Bye-Bye",
     "desc": "અમેરિકાનો આરોપ છે કે ઈરાન ચોરીછૂપી રીતે પરમાણુ હથિયારો બનાવી રહ્યું છે. આ આરોપ લગાવતા ગત મહિને 28 ફેબ્રુઆરીએ અમેરિકાએ ઈઝરાયેલ સાથે મળીને ઈરાન પર હુમલો કર્યો હતો, જ્યારે તેહરાને આ દાવાને સંપૂર્ણપણે ફગાવી દીધો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -430,24 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/iran-us-war-impact-on-india-sell-off-left-investors-poorer-by-nearly-rs-41-lakh-crore-470450 ",
     "time": "2026-03-28T11:44:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "યુદ્ધ વચ્ચે બે તાનાશાહે કરી મુલાકાત, એશિયામાં બનશે નવો વર્લ્ડ ઓર્ડર, જાણો",
-    "desc": "દુનિયાના બે જાહેર થયેલા તાનાશાહની મુલાકાત ચર્ચામાં છે, આ બન્ને માત્ર પોતાના દેશોના તાનાશાહ જ નથી, પરંતુ એકબીજાના નજીકના મિત્રો પણ છે. ખાનગી રીતે પણ અને વ્યૂહાત્મક રીતે પણ આ લોકો બોમ્બ અને મિસાઈલથી ઓછું કંઈ બોલતા નથી. પરંતુ તેમની નવી મુલાકાતમાં આ બંદૂક કેમ ચર્ચામાં આવી છે. જાણીએ આ ખાસ અહેવાલમાં,",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/two-dictators-meet-in-the-midst-of-war-new-world-order-will-be-created-in-asia-know-470447 ",
-    "time": "2026-03-28T11:20:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "એક કિલો PNG કે LPG... ક્યા ગેસમાં કેટલા દિવસ બને છે રસોઈ, જાણો કયો વિકલ્પ તમારા માટે વધુ ફાયદાકારક",
-    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા તણાવના કારણે સ્ટ્રેટ ઓફ હોર્મુઝના માર્ગે આવતો ગેસ અને ઓઈલનો પુરવઠો ખોરવાઈ ગયો છે, જેના કારણે ભારતમાં પણ ગેસની અછતનો સામનો કરવો પડી રહ્યો છે. ગેસ સંબંધિત મુશ્કેલીઓને ઓછી કરવા માટે સરકાર વિવિધ પગલાં લઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/one-kg-of-png-or-lpg-how-many-days-does-cooking-take-in-which-gas-know-which-option-is-more-beneficial-for-you-470446 ",
-    "time": "2026-03-28T11:02:23.000Z"
   },
   {
     "cat": "Sports",

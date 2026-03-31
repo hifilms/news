@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Don't say anything wrong': R Ashwin defends Barsapara Stadium's pitch after CSK's humiliating loss against RR",
+    "desc": "The 3rd game of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals register a brilliant victory against Chennai Super Kings. The two sides locked horns at the ACA Stadium in Guwahati on March...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/don-t-say-anything-wrong-r-ashwin-defends-barsapara-stadium-s-pitch-after-csk-s-humiliating-loss-against-rr-2026-03-31-1035708",
+    "time": "2026-03-31T04:17:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand announces squads for white-ball series against Bangladesh, big names make their return",
+    "desc": "NZC (New Zealand Cricket) recently came forward and announced their squads for the upcoming white-ball series against Bangladesh. It is worth noting that both New Zealand and Bangladesh will take on each other across three...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-announces-squads-for-white-ball-series-against-bangladesh-big-names-make-their-return-2026-03-31-1035695",
+    "time": "2026-03-31T03:01:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan's Shaheen Afridi fined after breach of security protocols during PSL 2026",
+    "desc": "In a major development, PSL (Pakistan Super League) franchise Lahore Qalandars has come forward and fined ace pacer Shaheen Afridi PKR 1 million after a review of an internal breach of security protocols at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-s-shaheen-afridi-fined-after-breach-of-security-protocols-during-psl-2026-2026-03-31-1035684",
+    "time": "2026-03-31T02:16:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Sooryavanshi joins Yashasvi Jaiswal in elite list after manic half century against CSK",
     "desc": "Game 3 of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals lock horns with Chennai Super Kings. The two sides took centre stage at the Barsapara Stadium in Guwahati on March 30, and...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/memes-galore-after-csks-collapse-samson-gaikwad-mhatre-dismissed-cheaply-vs-rr-in-ipl-2026-2026-03-30-1035654",
     "time": "2026-03-30T15:01:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "First time since 2020! Sanju Samson's CSK debut ends 6-year 'opening day' streak in Guwahati",
-    "desc": "Sanju Samson endured a forgettable debut for Chennai Super Kings (CSK) today against the Rajasthan Royals (RR) as he got out only for six runs off seven deliveries. Nandre Burger castled him with a beauty...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/first-time-since-2020-sanju-samson-s-csk-debut-ends-6-year-opening-day-streak-in-guwahati-2026-03-30-1035653",
-    "time": "2026-03-30T14:46:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Sanju Samson not playing for Rajasthan Royals in IPL 2026?",
-    "desc": "Rajasthan Royals open their Indian Premier League 2026 campaign against Chennai Super Kings at the Barsapara Cricket Stadium, Guwahati. Despite the rain around, the toss was pushed only five minutes later. There were overcast clouds...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-sanju-samson-not-playing-for-rajasthan-royals-in-ipl-2026-2026-03-30-1035650",
-    "time": "2026-03-30T14:00:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Ravindra Jadeja not playing for Chennai Super Kings (CSK) in IPL 2026?",
-    "desc": "Chennai Super Kings and Ravindra Jadeja. The two entities have been separated now, and certainly, the fans will find it tough to see their Thalapathy in a different jersey. Yes, Ravindra Jadeja is no more...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ravindra-jadeja-not-playing-for-chennai-super-kings-csk-in-ipl-2026-2026-03-30-1035648",
-    "time": "2026-03-30T13:48:32.000Z"
   }
 ];
