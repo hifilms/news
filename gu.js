@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "આવી ગઈ તારીખ, ગુજરાતમાં આ તારીખથી શરૂ થશે વસ્તી ગણતરી; પ્રથમ તબક્કાનું આખું શિડ્યુલ જાહેર, જાણો",
+    "desc": "ભારતના રજિસ્ટ્રાર જનરલ મૃત્યુંજય કુમાર નારાયણે જણાવ્યું હતું કે, વસ્તી ગણતરી કરનાર કર્મચારીઓ મકાન નંબર (નગરપાલિકા કે સ્થાનિક સત્તામંડળ દ્વારા અપાયેલ), જનગણના મકાન નંબર અને ફ્લોર, દીવાલ તથા છતના નિર્માણમાં વપરાયેલી મુખ્ય સામગ્રી જેવી વિગતો એકત્રિત કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/the-date-has-come-census-will-begin-in-gujarat-from-this-date-the-entire-schedule-of-the-first-phase-has-been-announced-know-470994 ",
+    "time": "2026-03-31T18:24:14.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ગેસની કિંમતમાં વધારો! સરકારે વધાર્યો ભાવ, CNG અને PNG પર પડશે સીધી અસર",
     "desc": "સરકારે ગેસનો ભાવ પ્રતિ mmBtu 7 ડોલર કર્યો છે, જે અગાઉ USD 6.75 હતો. આ ગેસ દેશના સ્થાનિક ઉત્પાદનમાં આશરે 60 ટકા હિસ્સો ધરાવે છે, તેથી આ વધારો CNG, PNG, વીજળી અને ખાતર જેવા ક્ષેત્રોને અસર કરી શકે છે. જેની અસર તમારા ખિસ્સા પર પડી શકે છે.",
@@ -387,15 +396,6 @@ const newsData_gu = [
     "time": "2026-03-30T05:44:47.000Z"
   },
   {
-    "cat": "Business",
-    "title": "જો બેંક લોકરમાં રાખેલ સોનું ચોરાઈ જાય તો કેટલું વળતર મળશે? જાણો શું છે નિયમ",
-    "desc": "બેંક લોકરમાં રાખવામાં આવેલું સોનું હંમેશા સુરક્ષિત માનવામાં આવે છે પરંતુ શું તમે ક્યારેય વિચાર્યું છે કે જો ક્યારેય લોકરમાંથી તમારૂ સોનું ગાયબ થઈ જાય તો તમને કેટલું વળતર મળશે? આવો તમને બેંક લોકરના નિયમ વિશે જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-jewellery-missing-from-bank-locker-know-maximum-compensation-banks-can-offer-470701 ",
-    "time": "2026-03-30T05:26:21.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "હવે ગુજરાતના પેટ્રોલ પંપ પર મળશે કેરોસીન! LPG સંકટ વચ્ચે કેન્દ્ર સરકારનો મોટો નિર્ણય",
     "desc": "ઈરાન યુદ્ધને પગલે દુનિયાભરમાં તેલ-ગેસ અને LPG નું સંકટ યથાવત છે. ત્યારે આ વચ્ચે ભારત સરકારે એક મોટો નિર્ણય લીધો છે. સરકારે કેરોસીન સાથે જોડાયેલા નિયમોમાં ઢીલ આપી છે. હવે રાજ્યોમાં પેટ્રોલ પંપો પર કેરોસીન મળશે.",
@@ -412,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/the-only-railway-station-in-india-trains-come-only-twice-a-year-470698 ",
     "time": "2026-03-30T04:54:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "માતા-પિતાની સેવા નહીં કરો તો કિંમત ચૂકવવી પડશે, પગારમાંથી ધરખમ રકમ કપાઈ જશે",
-    "desc": "આજકાલ સોશિયલ મીડિયાના જમાનામાં અનેક એવી ઘટનાઓ અને વીડિયો વાયરલ થઈ જાય છે તે હચમચાવી નાખે છે. અનેકવાર એવા કિસ્સા સામે આવતા હોય છે કે જે ઉંમરે માતા પિતાની સેવા કરવાની હોય ત્યારે સંતાનો માતાપિતાને રઝળાવતા હોય છે. મારપીટ કરે છે. ત્યારે તેલંગણા સરકારનું આ પગલું ખરેખર પ્રશંસનીય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/telangana-employees-accountability-and-monitoring-of-parental-support-bill-2026-pass-in-assembly-know-details-470690 ",
-    "time": "2026-03-30T04:30:14.000Z"
   },
   {
     "cat": "World",

@@ -1,6 +1,78 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Who is Cooper Connolly? PBKS star produces stellar knock on IPL debut to take team home vs GT",
+    "desc": "Cooper Connolly stood tall as Punjab Kings defeated Gujarat Titans in a nerve-wracking contest at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh. Chasing 163 and with PBKS losing wickets, Connolly produced a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-cooper-connolly-pbks-star-produces-stellar-knock-on-ipl-debut-to-take-team-home-vs-gt-2026-03-31-1035824",
+    "time": "2026-03-31T18:27:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill decodes reason behind Gujarat Titans' defeat to Punjab Kings in IPL 2026",
+    "desc": "Punjab Kings defeated Gujarat Titans by three wickets in their opening game of the IPL 2026. Cooper Connolly stole the show in the middle, scoring an unbeaten 72 runs off 44 balls as Punjab chased...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-decodes-reason-behind-gujarat-titans-defeat-to-punjab-kings-in-ipl-2026-2026-03-31-1035823",
+    "time": "2026-03-31T18:23:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ryan Williams set new record as India beat Hong Kong in final AFC Asian Cup qualifier match",
+    "desc": "India signed off from their AFC Asian Cup qualifying campaign with a win, overcoming Hong Kong 2-1 in Kochi. The match belonged to debutant Ryan Williams, who wasted little time in making an impression, finding...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/ryan-williams-set-new-record-as-india-beat-hong-kong-in-final-afc-asian-cup-qualifier-match-2026-03-31-1035820",
+    "time": "2026-03-31T18:08:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Mayank Yadav play in LSG's IPL 2026 opener against DC? Head coach Langer reveals",
+    "desc": "Mayank Yadav's fitness has been a major area of focus for the Lucknow Super Giants as the tearaway fast bowler has been pegged back by injuries in the last couple of seasons. The thunderbolt speedster...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-mayank-yadav-play-in-lsgs-ipl-2026-opener-against-dc-head-coach-langer-reveals-2026-03-31-1035819",
+    "time": "2026-03-31T17:58:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Prasidh's fiery spell goes in vain as Cooper Connolly writes new chapter in IPL folklore as PBKS beat GT",
+    "desc": "Chasing 163 runs, Punjab Kings had everything under control. The weather, however, changed and so did Gujarat Titan’s fortune. In the 13th over of the match, the Shubman Gill-led side introduced Prasidh Krishna, who single-handedly...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/prasidh-s-fiery-spell-goes-in-vain-as-cooper-connolly-writes-new-chapter-in-ipl-folklore-as-pbks-beat-gt-2026-03-31-1035818",
+    "time": "2026-03-31T17:52:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Roberto de Zerbi appointed as Tottenham Hotspur coach, has only seven games to save Spurs from relegation",
+    "desc": "Tottenham Hotspur have roped in former Brighton coach Roberto de Zerbi on a lengthy contract. The English giants are currently struggling to find any sort of momentum, fighting to stay in the Premier League. He...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/roberto-de-zerbi-appointed-as-tottenham-hotspur-coach-has-only-seven-games-to-save-spurs-from-relegation-2026-03-31-1035815",
+    "time": "2026-03-31T17:22:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What is the longest over bowled in IPL history as Arshdeep Singh delivers 11 balls vs GT in IPL 2026?",
+    "desc": "Arshdeep Singh sent down an 11-ball 20th over in Punjab Kings' IPL 2026 clash against Gujarat Titans at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh and entered the history books with his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-is-the-longest-over-bowled-in-ipl-history-as-arshdeep-singh-delivers-11-balls-vs-gt-in-ipl-2026-2026-03-31-1035813",
+    "time": "2026-03-31T17:15:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa announce central contract for players; David Miller, Rassie van der Dussen axed",
+    "desc": "Cricket South Africa has unveiled its contracted squads for the 2026–27 season, introducing several fresh faces. Among the headline developments is the awarding of first-time national deals to Ottneil Baartman, Corbin Bosch, Matthew Breetzke, Dewald...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-announce-central-contract-for-players-david-miller-rassie-van-der-dussen-axed-2026-03-31-1035811",
+    "time": "2026-03-31T16:55:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Where will Rishabh Pant bat in LSG’s IPL 2026 opener against Delhi Capitals? Head coach keeps it mystery",
     "desc": "In IPL 2025, Lucknow Super Giants captain Rishabh Pant struggled to live up to the expectations, scoring 269 runs in 14 matches at a strike rate of 133.16. For the majority of the tournament, he...",
     "img": "",
@@ -16,77 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/italy-vs-bosnia-and-herzegovina-when-and-where-to-watch-fifa-world-cup-qualification-playoff-final-in-india-2026-03-31-1035806",
     "time": "2026-03-31T15:48:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI, IPL condole British broadcast engineer's death, vow to help family in hour of grief",
-    "desc": "The Indian Premier League governing council condoled the death of British broadcast engineer Jan William Langford, who was working with the Board of Control for Cricket in India (BCCI) for the 2026 edition of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-ipl-condole-british-broadcast-engineers-death-vow-to-help-family-in-hour-of-grief-2026-03-31-1035803",
-    "time": "2026-03-31T15:13:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 changes CSK should make in playing XI to win against Punjab Kings",
-    "desc": "Rajasthan Royals hammered Chennai Super Kings in their opening game of the IPL 2026. The Ruturaj Gaikwad-led side had a rough day on all three fronts of the game and unless they recover quickly, Chennai...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-3-changes-csk-should-make-in-playing-xi-to-win-against-punjab-kings-2026-03-31-1035799",
-    "time": "2026-03-31T14:49:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Jason Holder not playing in PBKS vs GT IPL 2026 clash in New Chandigarh?",
-    "desc": "Jason Holder missed out as Gujarat Titans lock horns against Punjab Kings in their IPL 2026 opener at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh on Monday, March 31. Holder, the West Indies...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jason-holder-not-playing-in-pbks-vs-gt-ipl-2026-clash-in-new-chandigarh-2026-03-31-1035793",
-    "time": "2026-03-31T13:53:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Lockie Ferguson not playing PBKS' opener against Gujarat Titans in IPL 2026?",
-    "desc": "Punjab Kings pacer Lockie Ferguson was unavailable for selection in Punjab Kings’ IPL 2026 opener against Gujarat Titans at the Maharaja Yadavindra Singh International Cricket Stadium in Mullanpur. The New Zealand international is currently out...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-lockie-ferguson-not-playing-pbks-opener-against-gujarat-titans-in-ipl-2026-2026-03-31-1035792",
-    "time": "2026-03-31T13:52:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab and Gujarat lock horns in opener in Mullanpur",
-    "desc": "Punjab Kings (PBKS) face Gujarat Titans (GT) in an exciting IPL 2026 clash, with both teams aiming to build early momentum in the tournament. PBKS, led by Shreyas Iyer, come into the contest with confidence...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-gt-ipl-2026-live-cricket-score-punjab-kings-vs-gujarat-titans-latest-match-updates-scorecard-teams-2026-03-31-1035789",
-    "time": "2026-03-31T13:19:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Looks a cut above lot of youngsters': Former India cricketer's massive praise for Vaibhav Sooryavanshi",
-    "desc": "Former India cricketer Ambati Rayudu has come up with massive praise for Vaibhav Sooryavanshi following his stunning knock against the Chennai Super Kings on Monday. For the unversed, the 15-year-old smashed a 15-ball half-century in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/looks-a-cut-above-lot-of-youngsters-former-india-cricketer-s-massive-praise-for-vaibhav-sooryavanshi-2026-03-31-1035788",
-    "time": "2026-03-31T13:16:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sourav Ganguly reacts to Kolkata being snubbed for Tests in India's 2026-27 home season",
-    "desc": "The Board of Control for Cricket in India (BCCI) announced the schedule for India's home season last week and that triggered a massive debate as traditional venues - Kolkata and Mumbai - didn't get to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sourav-ganguly-reacts-to-kolkata-being-snubbed-for-tests-in-india-s-2026-27-home-season-2026-03-31-1035782",
-    "time": "2026-03-31T12:22:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammed Shami opens up on retirement as out-of-favour pacer stays out of Indian plans",
-    "desc": "Mohammed Shami's bid to make a comeback into the Indian team seems uncertain. The star pacer last featured in an international match in the Champions Trophy final as India defeated New Zealand. His career has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-shami-opens-up-on-retirement-as-out-of-favour-pacer-stays-out-of-indian-plans-2026-03-31-1035779",
-    "time": "2026-03-31T11:58:42.000Z"
   }
 ];

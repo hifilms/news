@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Soccer-Infantino promises FIFA backing for Iran to play at World Cup",
+    "desc": "Infantino's surprise ​appearance came as Iran continues pushing to relocate ⁠the team's World Cup matches from the U.S. to Mexico, citing the American military involvement alongside Israel in strikes that sparked the current regional ‌war.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/soccer-infantino-promises-fifa-backing-for-iran-to-play-at-world-cup/article70808750.ece",
+    "time": "2026-03-31T18:48:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Could have got Prasidh earlier': Gill admits after GT's loss to PBKS",
+    "desc": "\"I could have got Prasidh on earlier, but we were in the game until the end, there will always be ifs and buts. But he came at the right time, took wickets and kept us in the game until the 17th and 18th over,\" Gill said after the match.",
+    "img": "https://static.toiimg.com/photo/msid-129934884,imgsize-39298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/could-have-got-prasidh-krishna-earlier-shubman-gill-admits-after-gts-loss-to-pbks/articleshow/129934730.cms",
+    "time": "2026-03-31T18:36:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Connolly dream debut powers PBKS to three wickets win over GT",
+    "desc": "Debutant Cooper Connolly starred with a match-winning unbeaten 72, guiding Punjab Kings to a thrilling three-wicket victory over Gujarat Titans. Chasing 163, Connolly's composed knock, supported by Prabhsimran Singh's aggressive start, ensured PBKS crossed the finish line with five balls to spare. Vijaykumar Vyshak's three wickets earlier restricted GT.",
+    "img": "https://static.toiimg.com/photo/msid-129934790,imgsize-783253.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/cooper-connolly-dream-debut-powers-punjab-kings-to-three-wicket-win-against-gujarat-titans/articleshow/129934606.cms",
+    "time": "2026-03-31T18:27:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar 2 sets ‘a new benchmark for Indian cinema’: Ex-NSA",
+    "desc": "The Revenge, calling it a new benchmark for Indian cinema. The film, directed by Aditya Dhar, released in theatres worldwide on March 19. He also compared the film to Hollywood war movies and praised the director’s use of artistic liberty.",
+    "img": "https://static.toiimg.com/photo/msid-129934381,imgsize-56370.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-dhurandhar-the-revenge-sets-a-new-benchmark-for-indian-cinema-says-former-deputy-nsa-pankaj-saran/articleshow/129934381.cms",
+    "time": "2026-03-31T18:14:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Actor-politicians and their crusade against corruption",
+    "desc": "Actor and TVK founder C. Joseph Vijay’s anti-corruption plank is nothing new as the film stars floating their own parties in Tamil Nadu have taken up this theme to earn a name for themselves and garner a massive vote",
+    "img": "https://th-i.thgim.com/public/incoming/rjnw4c/article70808689.ece/alternates/LANDSCAPE_1200/VIJAYKANTH.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/actor-politicians-and-their-crusade-against-corruption/article70808691.ece",
+    "time": "2026-03-31T18:14:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "World Bank-funded health scheme in Kerala might need more scrutiny",
+    "desc": "The ₹3,464-crore World Bank- assisted Kerala Health System Improvement Programme commits the State to a 25-year-loan with a five-year grace period. Public health experts have pointed out the red flags when a State, whose total debt has surged by 80% in the last five years, takes on a 25-year World Bank loan and the pressure of repayment",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/world-bank-funded-health-scheme-in-kerala-might-need-more-scrutiny/article70803804.ece",
+    "time": "2026-03-31T18:08:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sara Ali Khan leases out Andheri West bungalow for Rs 4.14 crore",
+    "desc": "Sara Ali Khan is the latest celebrity to tap into Mumbai’s booming real estate market. The actor has leased out her bungalow in Andheri West for a total deal value of Rs 4.14 crore over five years. This development comes at a time when Sara Ali Khan has been in the news over a new directive related to temple visits.",
+    "img": "https://static.toiimg.com/photo/msid-129933625,imgsize-98534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sara-ali-khan-leases-out-andheri-west-bungalow-for-rs-4-14-crore-monthly-rent-starts-at-rs-6-5-lakh/articleshow/129933625.cms",
+    "time": "2026-03-31T17:42:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war LIVE updates: Iran Guards say will target U.S. tech firms if more leaders killed",
+    "desc": "Pentagon chief Pete Hegseth claimed that talks on ending the war on Iran are making progress; China and Pakistan on March 31, put forward a five-point peace proposal to end the West Asia war, including a call for safe passage of ships through the Strait of Hormuz",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-israel-iran-war-updates-live-march-31-2026/article70805560.ece",
+    "time": "2026-03-31T17:35:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PSL ground staff slip, fall as covers fly in Lahore",
+    "desc": "Videos of the incident later circulated on social media, showing the staff struggling to manage the covers in the rain and wind. At one point, two members fell while trying to stop the covers from being lifted.",
+    "img": "https://static.toiimg.com/photo/msid-129933630,imgsize-1123635.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/chaos-at-gaddafi-stadium-psl-ground-staff-slip-fall-as-covers-fly-in-lahore-watch/articleshow/129932778.cms",
+    "time": "2026-03-31T17:30:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "On global tensions and India’s economy",
+    "desc": "In an economy that imports more than four-fifths of its crude oil, external shocks transmitted through energy prices, shipping route, and volatile commodity markets can significantly reshape fiscal arithmetic. In this context, India must rebalance toward income-led demand, more resilient revenue bases and greater energy diversification",
+    "img": "https://th-i.thgim.com/public/news/6vxk1f/article70808614.ece/alternates/LANDSCAPE_1200/Graph.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/on-global-tensions-and-indias-economy/article70808603.ece",
+    "time": "2026-03-31T17:28:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "full list of AIADMK candidates",
+    "desc": "All India Anna Dravida Munnetra Kazhagam or the AIADMK, the party led by Edappadi K. Palaniswami, is contesting in 167 seats as part of the National Democratic Alliance (NDA) in Tamil Nadu during the upcoming Assembly election in the State.",
+    "img": "https://th-i.thgim.com/public/incoming/cb15mu/article70806643.ece/alternates/LANDSCAPE_1200/11658_23_3_2026_16_55_42_3_3.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-2026-aiadmk-candidates-list/article70801815.ece",
+    "time": "2026-03-31T17:28:07.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S.-Israel targeted major pharmaceutical company: Iran govt",
+    "desc": "\"During the U.S. and Zionist regime attacks on civilian centres, on the morning of Tuesday, one of the largest companies producing anti-cancer, anaesthetic and specialised medicines was damaged and the drug production line was damaged,\" the government said in a post on X.",
+    "img": "https://th-i.thgim.com/public/incoming/xivm76/article70808573.ece/alternates/LANDSCAPE_1200/HEvcStpaIAAOSSl.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-israel-targeted-major-pharmaceutical-company-iran-govt/article70808563.ece",
+    "time": "2026-03-31T17:18:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Beginning of brutality akin to Manipur': Opposition slams BJP, JDU after woman molested in Bihar",
+    "desc": "A disturbing video from Bihar's Nalanda district, showing a mob assaulting a woman, has sparked outrage. Opposition leaders decried the incident as a \"shameful\" breakdown of law and order, drawing parallels to the Manipur violence. Police have arrested two individuals, with efforts ongoing to apprehend others involved in the alleged gang rape attempt and public humiliation.",
+    "img": "https://static.toiimg.com/photo/msid-129932264,imgsize-36418.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/beginning-of-brutality-akin-to-manipur-opposition-slams-bjp-jdu-after-woman-molested-in-bihar/articleshow/129931804.cms",
+    "time": "2026-03-31T16:50:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Personal data isn’t collected: Home Ministry on security agencies using open-source intelligence from public sources",
+    "desc": "“Publicly available information on the internet and social media platforms is used for intelligence gathering. No private or personal information is gathered from social media. Hence, privacy is never violated,” the Union Home Affairs Ministry informed the Standing Committee on Communications and Information Technology",
+    "img": "https://th-i.thgim.com/public/news/national/v60znz/article70808493.ece/alternates/LANDSCAPE_1200/iStock-1663143252.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/personal-data-isnt-collected-home-ministry-on-security-agencies-using-open-source-intelligence-from-public-sources/article70808426.ece",
+    "time": "2026-03-31T16:48:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "44 Maoists surrender in Bastar; Chhattisgarh now Maoists-free, asserts CM",
+    "desc": "The surrender led to recoveries of a large cache of arms and ammunitions apart from cash amounting to ₹3 crore and gold worth over ₹11 crore on the day that the Centre had set as the deadline for elimination of Maoism in the country",
+    "img": "https://th-i.thgim.com/public/incoming/l16vrs/article70808305.ece/alternates/LANDSCAPE_1200/AFP_A6AH34P.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/44-maoists-surrender-in-bastar-chhattisgarh-now-maoists-free-asserts-cm/article70808239.ece",
+    "time": "2026-03-31T16:28:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Violence erupts outside Kolkata CEO office after TMC alleges bulk submissions of Form 6 by BJP",
+    "desc": "Mamata writes to CEC alleging that BJP is trying to smuggle outsiders into State voter list, in a bid at “voter hijacking”; CEO says it is not his job to check Form 6 submissions; CM threatened Central forces",
+    "img": "https://th-i.thgim.com/public/incoming/6kngr6/article70808354.ece/alternates/LANDSCAPE_1200/20260331461L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/violence-erupts-outside-kolkata-ceo-officeafter-tmc-allegesbulk-submissions-of-form-6-by-bjp/article70807671.ece",
+    "time": "2026-03-31T16:18:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Missiles overhead, mines below: How an Indian LPG tanker survived the Hormuz blockade",
+    "desc": "The Indian-flagged LPG tanker Pine Gas faced a nearly three-week delay passing through the Strait of Hormuz after Iran began selective passage. The vessel, carrying 45,000 metric tons of LPG, was eventually rerouted via a less-used channel north of Larak Island, guided by the Indian Navy and escorted by warships.",
+    "img": "https://static.toiimg.com/photo/msid-129931450,imgsize-724202.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/missiles-overhead-mines-below-how-an-indian-lpg-tanker-survived-the-hormuz-blockade/articleshow/129931343.cms",
+    "time": "2026-03-31T16:17:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US-Iran war bleeds Sensex! Rs 51 lakh crore gone, record $12 billion FII wipeout, stock market down over 11%",
+    "desc": "The selloff by foreign institutional investors (FIIs) has been particularly pronounced. Rupee has seen its worst financial year in over 14 years, breaching the 95 per dollar mark in trade on the last trading day (March 30) of the fiscal year.",
+    "img": "https://static.toiimg.com/photo/msid-129930281,imgsize-127988.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-us-iran-war-bleeds-sensex-rs-51-lakh-crore-gone-record-12-billion-fii-selloff-stock-market-down-over-11-is-there-an-end-in-sight/articleshow/129929346.cms",
+    "time": "2026-03-31T15:59:27.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Container Road remains dark, after installing 1,100 lights",
     "desc": "On its part, the NHAI responded on March 23, saying that the ‘supervision consultant’ had accorded the highest priority to the matter and that discussions were under way with the KSEB and other authorities concerned",
@@ -9,22 +171,13 @@ const newsData_en = [
     "time": "2026-03-31T15:57:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CM intends a Facebook debate, and not a face-to-face with Satheesan",
-    "desc": "Mr Vijayan’s Facebook post on Monday that he was ready for a debate had led the media to hypothesise that a televised, eyeball-to-eyeball encounter between the two leaders would be the peak event in the Assembly election cycle’s political calendar",
-    "img": "https://th-i.thgim.com/public/incoming/k0r85f/article70808202.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-31%20at%2010.58.26.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/cm-intends-a-facebook-debate-and-not-a-face-to-face-with-satheesan/article70807956.ece",
-    "time": "2026-03-31T15:48:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sanand stands as a ‘bridge’ to Silicon Valley: PM on Gujarat town’s rise in semiconductor ecosystem",
-    "desc": "While inaugurating a semiconductor assembly and test facility of Kaynes Semicon in Sanand, he said there was rapid expansion in the country’s electronics sector and that India’s semiconductor market could exceed $100 billion by the end of the decade",
-    "img": "https://th-i.thgim.com/public/news/international/2nha49/article70806520.ece/alternates/LANDSCAPE_1200/PMModi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-semiconductor-facility-gujarat-global-supply-role/article70806490.ece",
-    "time": "2026-03-31T15:36:21.000Z"
+    "cat": "Entertainment",
+    "title": "Rhea shares first glimpse of Sonam-Anand’s newborn baby boy",
+    "desc": "After Sonam Kapoor and Anand Ahuja announced the arrival of their second child, a baby boy, it was Rhea Kapoor who set social media abuzz by sharing an adorable photo of the newborn. Rhea took to social media to share the baby boy’s first glimpse, and the internet couldn’t keep calm. The picture quickly went viral, with fans and celebrities alike gushing over the little one.",
+    "img": "https://static.toiimg.com/photo/msid-129930853,imgsize-123248.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rhea-kapoor-shares-first-glimpse-of-sonam-kapoor-anand-ahujas-newborn-baby-boy-anil-kapoor-sonakshi-sinha-farah-khan-react/articleshow/129930853.cms",
+    "time": "2026-03-31T15:51:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -36,15 +189,6 @@ const newsData_en = [
     "time": "2026-03-31T15:31:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Tungabhadra Dam gates replacement progressing at  a fast pace, says Minister",
-    "desc": "Payyavula Keshav says the process of replacing all the gates in a single season is a major tass, irrigation experts like Kannayya Naidu and also engineers of Central Water Commission are involved in the process",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tungabhadra-dam-gates-replacement-progressing-at-a-fast-pace-says-minister/article70807860.ece",
-    "time": "2026-03-31T15:27:46.000Z"
-  },
-  {
     "cat": "World",
     "title": "China, Pakistan propose peace plan for West Asia, call for ‘immediate’ end to hostilities",
     "desc": "China and Pakistan’s proposals included the immediate cessation of hostilities, initiation of peace talks as soon as possible, ensuring the safety of non-military targets and safety of navigation, and safeguarding the primacy of the UN Charter",
@@ -52,15 +196,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-pakistan-propose-peace-plan-for-west-asia-call-for-immediate-end-to-hostilities/article70808006.ece",
     "time": "2026-03-31T15:27:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Naidu announces monthly health drives, wants to roll out ‘Sanjeevani’ project by July",
-    "desc": "Naidu sets target for medical screening of 5.64 million people in a year, instructs officials to ensure delivery of test results to beneficiaries via WhatsApp within 48 hours, asks officials to prepare a comprehensive ‘A.P. Health Management Policy’ based on five pillars—Maternity, Strength, Skill, Welfare and Sanjeevani",
-    "img": "https://th-i.thgim.com/public/incoming/bltki4/article70808075.ece/alternates/LANDSCAPE_1200/10745_26_3_2026_19_0_25_1_WHATSAPPIMAGE2026_03_26AT1859481.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-announces-monthly-health-drives-wants-to-roll-out-sanjeevani-project-by-july/article70807542.ece",
-    "time": "2026-03-31T15:27:33.000Z"
   },
   {
     "cat": "Politics",
@@ -133,6 +268,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-rr-vs-csk-my-team-executed-the-plans-really-well-royals-captain-riyan-parag/article70807246.ece",
     "time": "2026-03-31T14:36:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Breaking down benefits for individuals",
+    "desc": "As per the Income Tax Act 2025, which comes into effect from April 1, 2026, Forms 15G and 15H merged into a single unified Form 121; Form 26AS renamed as Form 168 and much more...",
+    "img": "https://th-i.thgim.com/public/incoming/gto38j/article70806851.ece/alternates/LANDSCAPE_1200/iStock-650700180.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/new-income-tax-act-2025-breaking-down-benefits-for-individuals/article70805979.ece",
+    "time": "2026-03-31T14:15:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -270,15 +414,6 @@ const newsData_en = [
     "time": "2026-03-31T12:05:08.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump tells affected nations to go to Hormuz and ‘get your oil’",
-    "desc": "“You’ll have to start learning how to fight for yourself, the U.S.A. won’t be there to help you anymore, just like you weren’t there for us. Iran has been, essentially, decimated. The hard part is done. Go get your own oil!” Mr. Trump said",
-    "img": "https://th-i.thgim.com/public/incoming/phx0dc/article70807007.ece/alternates/LANDSCAPE_1200/2026-03-27T145239Z_1907448201_RC20DKAM2N5T_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-usa-israel-war-strait-of-hormuz-donald-trump/article70806863.ece",
-    "time": "2026-03-31T12:04:57.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "End of Red Terror? How close India is to its Naxal-free target as Amit Shah’s March 31 deadline ends",
     "desc": "India stands on the cusp of eradicating Naxalism, with Union Home Minister Amit Shah declaring the movement effectively dismantled. Decades of development and security operations have significantly shrunk the Red Corridor, pushing the insurgency into isolated pockets. While armed rebellion may be over, securing lasting peace through governance remains crucial.",
@@ -324,51 +459,6 @@ const newsData_en = [
     "time": "2026-03-31T11:29:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Poonam Pandey flaunts baby bump, did she announce pregnancy?",
-    "desc": "Poonam Pandey has sparked fresh speculation with an Instagram post featuring photos that appear to show her with a baby bump. This follows her controversial 2024 stunt where she faked her death to raise cervical cancer awareness. Netizens are questioning the authenticity of the new images, with many suspecting a publicity stunt or AI generation due to her past actions.",
-    "img": "https://static.toiimg.com/photo/msid-129923936,imgsize-32556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/poonam-pandey-flaunts-baby-bump-did-she-announce-pregnancy-shocked-netizens-think-its-april-fool-prank-or-prosthetic/articleshow/129923931.cms",
-    "time": "2026-03-31T11:12:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Malaika Arora rents out her Bandra west apartment for Rs 3.10 lakh per month",
-    "desc": "Malaika Arora has leased out a Mumbai apartment for Rs 3.10 lakh monthly, with rent escalating over 36 months. This real estate move follows her restaurant launch and comes amidst ongoing speculation about her personal life. Arora, who recently addressed dating rumours, stated she's not actively seeking a relationship, focusing instead on her ventures.",
-    "img": "https://static.toiimg.com/photo/msid-129923576,imgsize-31422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/malaika-arora-rents-out-her-bandra-west-apartment-for-rs-3-10-lakh-per-month-report/articleshow/129923595.cms",
-    "time": "2026-03-31T10:57:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Caleb McLaughlin spills beans on ‘Spider-Man’ casting rumors",
-    "desc": "Fans speculated Caleb McLaughlin might play Miles Morales, but the 'Stranger Things' star clarified his martial arts hobby wasn't a Spider-Man audition. While he's expressed interest in the role, a Marvel scooper confirmed he's not playing Miles. Despite no official news, the excitement for McLaughlin as the Afro-Latino hero persists.",
-    "img": "https://static.toiimg.com/photo/msid-129923493,imgsize-68840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-star-caleb-mclaughlin-opens-up-about-spider-man-casting-possibilities-i-would-love-to-play-miles/articleshow/129923444.cms",
-    "time": "2026-03-31T10:54:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lara Dutta REVEALS near-drowning during Andaaz shoot",
-    "desc": "Lara Dutta recalled nearly drowning while shooting Andaaz with Akshay Kumar, who saved her from powerful waves. The incident left her terrified of water for years until Akshay encouraged her to “learn swimming.” She later overcame her fear while filming Blue (2009) and was last seen in Ishq-e-Nadaan.",
-    "img": "https://static.toiimg.com/photo/msid-129922965,imgsize-59356.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lara-dutta-reveals-terrifying-near-drowning-during-andaaz-shoot-shares-akshay-kumars-simple-advice/articleshow/129922965.cms",
-    "time": "2026-03-31T10:34:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP releases manifesto with Rs 3,000 pension, AIIMS and big Sabarimala promise",
-    "desc": "The BJP's Kerala election manifesto pledges a Rs 3,000 monthly welfare pension for needy women and seniors, alongside 20,000 litres of free water per household. The party also promised two free LPG cylinders annually for poor families and a Rs 2,500 monthly health card. Key development plans include an AIIMS and a high-speed rail network.",
-    "img": "https://static.toiimg.com/photo/msid-129922635,imgsize-1232545.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kerala-elections-bjp-releases-manifesto-with-rs-3000-pension-aiims-and-big-sabarimala-promise/articleshow/129922591.cms",
-    "time": "2026-03-31T10:16:57.000Z"
-  },
-  {
     "cat": "Business",
     "title": "IndiGo appoints former British Airways chief William Walsh as new CEO",
     "desc": "IndiGo Airlines has appointed former British Airways chief William Walsh as its new CEO, effective August 3, 2026. This strategic move follows the resignation of Pieter Elbers earlier this month. Walsh, currently with IATA, brings extensive global aviation experience and a customer-focused leadership style to guide IndiGo's next phase of growth and transformation.",
@@ -387,24 +477,6 @@ const newsData_en = [
     "time": "2026-03-31T09:56:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘India reliable supplier globally’: PM Modi inaugurates Rs 3,300 crore semiconductor plant in Gujarat",
-    "desc": "Prime Minister Narendra Modi inaugurated a Rs 3,300 crore semiconductor plant in Sanand, Gujarat. This facility by Kaynes Technology will produce over 7 lakh chips daily. India is strengthening its position in the global semiconductor supply chain. The nation is committed to self-reliance in manufacturing. This marks a crucial step in India's ambitious plans for the electronics sector.",
-    "img": "https://static.toiimg.com/photo/msid-129921753,imgsize-834318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-reliable-supplier-globally-pm-modi-inaugurates-rs-3300-crore-semiconductor-plant-in-gujarat/articleshow/129921519.cms",
-    "time": "2026-03-31T09:43:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mamata Banerjee writes to EC, demands halt to fake voter entries in SIR",
-    "desc": "West Bengal Chief Minister Mamata Banerjee has alerted the Election Commission about a 'grave conspiracy' to manipulate electoral rolls ahead of the polls. She alleges the BJP, in league with the ECI, is attempting to add non-residents to voter lists, a process she claims has already caused hardship and deaths. Banerjee demands an immediate halt to this 'undemocratic exercise'.",
-    "img": "https://static.toiimg.com/photo/msid-129921647,imgsize-1064380.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-mamata-banerjee-writes-to-ec-demands-halt-to-fake-voter-entries-in-sir/articleshow/129921291.cms",
-    "time": "2026-03-31T09:32:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "PBKS vs GT, IPL 2026: 5 players to watch in today's match",
     "desc": "Gujarat Titans and Punjab Kings clash in Mullanpur, with captains Shubman Gill and Shreyas Iyer seeking their first IPL 2026 points. Gill aims to reclaim his T20 dominance after missing the World Cup, while Iyer looks to lead Punjab to glory after a runner-up finish. Key players like Sai Sudharsan and Arshdeep Singh are also highlighted.",
@@ -412,24 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/pbks-vs-gt-ipl-2026-5-players-to-watch-in-todays-match/articleshow/129921343.cms",
     "time": "2026-03-31T09:23:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The wrong question",
-    "desc": "The annual college application frenzy often prioritizes rankings over individual fit. Experts suggest this approach teaches students that identity is a performance. Admissions officers seek genuine engagement, not just achievements. Parents are advised to encourage curiosity and allow for failure. This fosters courage for real attempts, aligning with university goals.",
-    "img": "https://static.toiimg.com/photo/msid-129921392,imgsize-1246090.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-wrong-question/articleshow/129921199.cms",
-    "time": "2026-03-31T09:20:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Consider me your candidate in all 294 seats': Mamata Banerjee's pitch in Bengal battle",
-    "desc": "West Bengal Chief Minister Mamata Banerjee urged voters to support her leadership across all 294 constituencies, positioning herself as the face of the Trinamool Congress. She also alleged that the BJP is attempting to manipulate voter rolls by including individuals from other states and targeting deletions, accusing the party of acting in concert with the Election Commission.",
-    "img": "https://static.toiimg.com/photo/msid-129920415,imgsize-948193.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/consider-me-your-candidate-in-all-294-seats-mamata-banerjees-pitch-in-bengal-battle/articleshow/129920220.cms",
-    "time": "2026-03-31T08:49:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -585,15 +639,6 @@ const newsData_en = [
     "time": "2026-03-31T06:02:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Did Jadeja get emotional and cry on the field vs CSK? Viral video",
-    "desc": "Ravindra Jadeja showed visible emotions playing against Chennai Super Kings for Rajasthan Royals. He was seen in tears during the match. Jadeja, a former CSK player, returned to Rajasthan Royals. He took two crucial wickets against his old team. Rajasthan Royals successfully chased down the target.",
-    "img": "https://static.toiimg.com/photo/msid-129916422,imgsize-28240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/did-ravindra-jadeja-get-emotional-and-cry-on-the-field-vs-csk-viral-video-leaves-fans-guessing/articleshow/129916366.cms",
-    "time": "2026-03-31T04:59:56.000Z"
-  },
-  {
     "cat": "World",
     "title": "Rescuers try to find 27 people believed to be on raft drifting in Indonesian waters",
     "desc": "The passenger boat departed Taliabu port in North Maluku province just after dusk Sunday (March 29, 2026). It was bound for Kema in North Sulawesi province before sinking in the northern waters of Taliabu Island",
@@ -601,33 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/rescuers-try-to-find-27-people-believed-to-be-on-raft-drifting-in-indonesian-waters/article70805726.ece",
     "time": "2026-03-31T04:52:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Markets trail as Middle East conflict deepens; Nikkei drops 0.9%, MSCI Asia Pacific slips 0.5%",
-    "desc": "Asian markets witnessed their sharpest decline since 2022 as the Middle East conflict enters its second month, sparking fears of escalating inflation and economic slowdown. Investors are increasingly risk-averse, with oil prices soaring and bond markets facing pressure from expectations of sustained high interest rates. The US dollar and gold are seeing gains as safe-haven assets amid global uncertainty.",
-    "img": "https://static.toiimg.com/photo/msid-129914819,imgsize-1117695.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-trail-as-middle-east-conflict-deepens-nikkei-drops-0-9-msci-asia-pacific-slips-0-5/articleshow/129914739.cms",
-    "time": "2026-03-31T04:27:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Are banks open or closed today for Mahavir Jayanti? Check state-wise list",
-    "desc": "Many banks across India are closed today for Mahavir Jayanti, impacting customers in states like Gujarat, Maharashtra, and Uttar Pradesh. However, agency banks handling government transactions will remain open on March 31st to facilitate financial year-end dealings. Digital banking services are unaffected, but check with your bank for specific details.",
-    "img": "https://static.toiimg.com/photo/msid-129915645,imgsize-1137052.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-march-31-are-banks-open-or-closed-today-for-mahavir-jayanti-check-state-wise-list/articleshow/129915443.cms",
-    "time": "2026-03-31T04:08:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India’s overlooked stars Gill, Iyer in focus as PBKS host GT",
-    "desc": "Shubman Gill and Shreyas Iyer, both overlooked by national selectors, displayed intense focus in pre-IPL nets. Gill honed his timing and power-hitting, while Iyer unleashed ferocious shots, signaling their intent to prove a point in the upcoming IPL clash between Gujarat Titans and Punjab Kings.",
-    "img": "https://static.toiimg.com/photo/msid-129915588,imgsize-40272.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-preview-indias-overlooked-stars-gill-iyer-in-focus-as-pbks-host-gt/articleshow/129915564.cms",
-    "time": "2026-03-31T04:06:40.000Z"
   },
   {
     "cat": "World",
@@ -646,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-divya-deshmukh-missed-winning-chance-against-r-vaishali/articleshow/129914983.cms",
     "time": "2026-03-31T03:08:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Are BSE, NSE closed for trading on March 31, 2026?",
-    "desc": "This holiday is the fifth among the 16 market closures planned for 2026. Trading will remain suspended again on April 3 (Friday) for Good Friday, followed by another holiday on April 14 (Tuesday) to mark Dr. B.R. Ambedkar Jayanti.",
-    "img": "https://static.toiimg.com/photo/msid-129914884,imgsize-84938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-today-are-bse-nse-closed-for-trading-on-march-31-2026-shri-mahavir-jayanti/articleshow/129914802.cms",
-    "time": "2026-03-31T02:57:08.000Z"
   },
   {
     "cat": "Sports",
@@ -774,24 +783,6 @@ const newsData_en = [
     "time": "2026-03-30T09:17:54.000Z"
   },
   {
-    "cat": "World",
-    "title": "America is not winning Iran war; a ground attack would be complete insanity: Trita Parsi",
-    "desc": "“I think they can probably withstand this war for six months to a year, probably longer than they themselves thought at the beginning of this war. But I don’t think that would be good for them at all,” Mr. Trita says",
-    "img": "https://th-i.thgim.com/public/incoming/x4n47x/article70800089.ece/alternates/LANDSCAPE_1200/Trita-Parsi.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trita-parsi-interview-us-israel-iran-conflict-war-complexities/article70799394.ece",
-    "time": "2026-03-30T07:33:51.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Australia PM Albanese calls for clarity from Trump on objectives of West Asia war",
-    "desc": "Australia has provided ‌aircraft to assist with the ​defence of the United Arab Emirates after a ⁠request from the country, but has ⁠ruled out sending naval ships to ‌assist in reopening the Strait of Hormuz",
-    "img": "https://th-i.thgim.com/public/incoming/8c9tz2/article70801972.ece/alternates/LANDSCAPE_1200/2026-03-30T054007Z_442540667_RC281KA7PUHH_RTRMADP_3_IRAN-CRISIS-AUSTRALIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/australia-pm-albanese-calls-for-clarity-from-trump-on-objectives-of-west-asia-war/article70801944.ece",
-    "time": "2026-03-30T07:15:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Tea body seeks clarity on Assam land transfer policy for plantation workers",
     "desc": "Two months ahead of the elections, the BJP-led government amended a law to grant legal land rights to 3.5 lakh families of plantation workers living in the labour lines of more than 800 tea estates",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
     "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
