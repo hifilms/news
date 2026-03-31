@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "J&K Speaker says ‘don’t take security scenario lightly’, as NC alleges withdrawal of party office security cover",
+    "desc": "“The concerns raised by legislators should be taken seriously by the concerned authorities. The security scenario cannot be taken lightly. Past incidents must guide present decisions. If the administration believes the situation is normal, declare J&K as a risk-free region,” says J&K Speaker Abdul Rahim Rather",
+    "img": "https://th-i.thgim.com/public/incoming/vsy8y6/article70808838.ece/alternates/LANDSCAPE_1200/PTI03_30_2026_000034B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-speaker-says-donttake-security-scenario-lightly-as-nc-alleges-withdrawal-of-party-office-security-cover/article70808101.ece",
+    "time": "2026-03-31T21:33:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Viveck Vaswani says Jaya Bachchan wasn’t always aggravated",
+    "desc": "Viveck Vaswani has weighed in on Jaya Bachchan’s often-discussed reactions to paparazzi, saying her public “aggravation” is not how she has always been. In a conversation, Vaswani reflected on her personality, her past stardom, and how her current public image may have evolved over time. He added that her nature back then was “very sweet.” Addressing her frequent run-ins with photographers, Vaswani suggested that it may be a two-way dynamic.",
+    "img": "https://static.toiimg.com/photo/msid-129936189,imgsize-61402.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/viveck-vaswani-says-jaya-bachchan-wasnt-always-aggravated-paparazzi-know-how-to-press-her-buttons/articleshow/129936189.cms",
+    "time": "2026-03-31T20:48:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parties rework strategy amid increasing acrimony as Kerala race enters final leg",
+    "desc": "The electoral battle in Kerala is shaping up as a direct confrontation between the ruling CPI(M)-led LDF and an invigorated Congress-led UDF, with the BJP-led NDA struggling to muscle in as a third force in the sweepstakes",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/wlzg4l/article70806570.ece/alternates/LANDSCAPE_1200/Election%20kerala%20H.%20Vibhu.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-heat-up-as-major-fronts-step-up-campaigns-and-identity-politics-takes-centrestage/article70806282.ece",
+    "time": "2026-03-31T20:44:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Violence erupts outside Kolkata CEO office after Trinamool alleges bulk submissions of Form 6 by BJP",
+    "desc": "Mamata writes to CEC alleging that BJP is trying to smuggle outsiders into State voter list, in a bid at “voter hijacking”; CEO says it is not his job to check Form 6 submissions; CM threatened Central forces",
+    "img": "https://th-i.thgim.com/public/incoming/6kngr6/article70808354.ece/alternates/LANDSCAPE_1200/20260331461L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/violence-erupts-outside-kolkata-ceo-officeafter-tmc-allegesbulk-submissions-of-form-6-by-bjp/article70807671.ece",
+    "time": "2026-03-31T20:36:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war LIVE updates: Iran Guards say will target U.S. tech firms if more leaders killed",
+    "desc": "Pentagon chief Pete Hegseth claimed that talks on ending the war on Iran are making progress; China and Pakistan on March 31, put forward a five-point peace proposal to end the West Asia war, including a call for safe passage of ships through the Strait of Hormuz",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-israel-iran-war-updates-live-march-31-2026/article70805560.ece",
+    "time": "2026-03-31T20:21:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chhattisgarh HC",
+    "desc": "Petitioners move court after police issued notices to them; court says authorities are free to act if they find any violation in the form of noise pollution or if any law and order situation arises",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/prayer-meeting-in-private-dwellings-does-not-require-prior-nod-chhattisgarhhc/article70807592.ece",
+    "time": "2026-03-31T19:58:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bhandarkar questions Bollywood's silence",
+    "desc": "The Revenge, praising the Aditya Dhar directorial while also calling out what he described as a “shocking silence” from the Hindi film industry. The filmmaker pointed out that several South Indian stars had openly praised the film, something he felt was missing in Bollywood.",
+    "img": "https://static.toiimg.com/photo/msid-129936017,imgsize-81528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-madhur-bhandarkar-says-theres-no-unity-in-film-industry-south-stars-appreciated-it-bollywood-stayed-silent/articleshow/129936017.cms",
+    "time": "2026-03-31T19:56:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: BJP may try to split the DMK even if it gets a majority, says Thol. Thirumavalavan",
+    "desc": "‘I wanted to contest in the Assembly election since 2021. How we function in the Assembly shapes the public perception. Going to Parliament is an honour. But, when I look at Tamil Nadu politics, the BJP’s strategy of gradually weakening regional parties and establishing itself is a cause for concern’",
+    "img": "https://th-i.thgim.com/public/incoming/fjz3ta/article70807995.ece/alternates/LANDSCAPE_1200/3.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-bjp-may-try-to-split-the-dmk-even-if-it-gets-a-majority-says-thol-thirumavalavan/article70807139.ece",
+    "time": "2026-03-31T19:38:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026",
+    "desc": "The southpaw’s unbeaten 44-ball 72 ensures PBKS begins its campaign with a three-wicket win at home; the No. 3 batter anchors the chase even as the host slips from 83 for one to 118 for six; Chahal and Vyshak restrict the GT line-up to 162",
+    "img": "https://th-i.thgim.com/public/incoming/745wv6/article70808462.ece/alternates/LANDSCAPE_1200/PTI03_31_2026_000411A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-punjab-kings-gujarat-titans-match-updates-march-31-2026/article70807706.ece",
+    "time": "2026-03-31T18:57:07.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Soccer-Infantino promises FIFA backing for Iran to play at World Cup",
     "desc": "Infantino's surprise ​appearance came as Iran continues pushing to relocate ⁠the team's World Cup matches from the U.S. to Mexico, citing the American military involvement alongside Israel in strikes that sparked the current regional ‌war.",
@@ -61,15 +142,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sara-ali-khan-leases-out-andheri-west-bungalow-for-rs-4-14-crore-monthly-rent-starts-at-rs-6-5-lakh/articleshow/129933625.cms",
     "time": "2026-03-31T17:42:47.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel war LIVE updates: Iran Guards say will target U.S. tech firms if more leaders killed",
-    "desc": "Pentagon chief Pete Hegseth claimed that talks on ending the war on Iran are making progress; China and Pakistan on March 31, put forward a five-point peace proposal to end the West Asia war, including a call for safe passage of ships through the Strait of Hormuz",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-israel-iran-war-updates-live-march-31-2026/article70805560.ece",
-    "time": "2026-03-31T17:35:15.000Z"
   },
   {
     "cat": "Sports",
@@ -136,15 +208,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Violence erupts outside Kolkata CEO office after TMC alleges bulk submissions of Form 6 by BJP",
-    "desc": "Mamata writes to CEC alleging that BJP is trying to smuggle outsiders into State voter list, in a bid at “voter hijacking”; CEO says it is not his job to check Form 6 submissions; CM threatened Central forces",
-    "img": "https://th-i.thgim.com/public/incoming/6kngr6/article70808354.ece/alternates/LANDSCAPE_1200/20260331461L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/violence-erupts-outside-kolkata-ceo-officeafter-tmc-allegesbulk-submissions-of-form-6-by-bjp/article70807671.ece",
-    "time": "2026-03-31T16:18:27.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Missiles overhead, mines below: How an Indian LPG tanker survived the Hormuz blockade",
     "desc": "The Indian-flagged LPG tanker Pine Gas faced a nearly three-week delay passing through the Strait of Hormuz after Iran began selective passage. The vessel, carrying 45,000 metric tons of LPG, was eventually rerouted via a less-used channel north of Larak Island, guided by the Indian Navy and escorted by warships.",
     "img": "https://static.toiimg.com/photo/msid-129931450,imgsize-724202.cms",
@@ -160,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-us-iran-war-bleeds-sensex-rs-51-lakh-crore-gone-record-12-billion-fii-selloff-stock-market-down-over-11-is-there-an-end-in-sight/articleshow/129929346.cms",
     "time": "2026-03-31T15:59:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Container Road remains dark, after installing 1,100 lights",
-    "desc": "On its part, the NHAI responded on March 23, saying that the ‘supervision consultant’ had accorded the highest priority to the matter and that discussions were under way with the KSEB and other authorities concerned",
-    "img": "https://th-i.thgim.com/public/incoming/saxjsa/article70804170.ece/alternates/LANDSCAPE_1200/Container_road03.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/container-road-remains-dark-after-installing-1100-lights/article70800273.ece",
-    "time": "2026-03-31T15:57:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -396,15 +450,6 @@ const newsData_en = [
     "time": "2026-03-31T12:24:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Cases filed against Vijay, party workers over campaign violations",
-    "desc": "Actor-politician Vijay and his Tamilaga Vettri Kazhagam party face legal action for alleged model code of conduct breaches during a campaign event. Police registered cases for obstructing public proceedings and causing disturbance with excessive sound systems and early gatherings. The violations reportedly led to public inconvenience and traffic disruption ahead of the upcoming polls.",
-    "img": "https://static.toiimg.com/photo/msid-129925264,imgsize-689142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-elections-2026-cases-filed-against-vijay-party-workers-over-campaign-violations/articleshow/129924959.cms",
-    "time": "2026-03-31T12:07:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "BCCI issues statement on death of IPL 2026 broadcast engineer",
     "desc": "Langford, 76, was found unconscious in his hotel room in south Mumbai on Monday morning and was taken to Bombay Hospital, where he was declared dead. Police said no suspicious findings were reported in the postmortem, and a case of unnatural death has been registered.",
@@ -412,24 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/bcci-issues-statement-on-death-of-ipl-2026-broadcast-engineer/articleshow/129925099.cms",
     "time": "2026-03-31T12:05:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "End of Red Terror? How close India is to its Naxal-free target as Amit Shah’s March 31 deadline ends",
-    "desc": "India stands on the cusp of eradicating Naxalism, with Union Home Minister Amit Shah declaring the movement effectively dismantled. Decades of development and security operations have significantly shrunk the Red Corridor, pushing the insurgency into isolated pockets. While armed rebellion may be over, securing lasting peace through governance remains crucial.",
-    "img": "https://static.toiimg.com/photo/msid-129925226,imgsize-975920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/end-of-red-terror-how-close-india-is-to-its-naxal-free-target-as-amit-shahs-march-31-deadline-ends/articleshow/129923496.cms",
-    "time": "2026-03-31T12:04:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ajith and Shalini’s fun cooking video is hard to miss",
-    "desc": "Actor Ajith Kumar and his wife Shalini are winning hearts with a viral video of them cooking biryani together. Their playful banter and genuine affection, evident in the clip and their enduring love story, continue to charm fans. Meanwhile, Ajith's recent temple visit before his Italy car racing event drew a massive crowd, highlighting his enduring popularity.",
-    "img": "https://static.toiimg.com/photo/msid-129925101,imgsize-141206.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/did-you-make-it-like-i-said-ajith-and-shalinis-fun-cooking-video-is-hard-to-miss/articleshow/129925101.cms",
-    "time": "2026-03-31T12:00:16.000Z"
   },
   {
     "cat": "Entertainment",
@@ -448,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/inside-vishals-luxurious-anna-nagar-home-purushan-actors-20-crore-house-offers-modern-luxury/articleshow/129924524.cms",
     "time": "2026-03-31T11:39:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jayasurya’s ‘Kathanar’ trailer promises grand visuals &amp; intense action",
-    "desc": "The trailer for 'Kathanar - The Wild Sorcerer,' starring Jayasurya and directed by Rojin Thomas, has been released, showcasing grand visuals and intense fantasy action. The film, reportedly made with a massive budget, promises a fresh cinematic experience with a unique vision of the legendary character, featuring a star-studded cast including Anushka Shetty and Prabhu Deva.",
-    "img": "https://static.toiimg.com/photo/msid-129924226,imgsize-457334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kathanar-the-wild-sorcerer-trailer-out-now-jayasuryas-fantasy-film-promises-grand-visuals-and-intense-action/articleshow/129924226.cms",
-    "time": "2026-03-31T11:29:32.000Z"
   },
   {
     "cat": "Business",
@@ -676,15 +694,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "IPL 2026",
-    "desc": "Once pacer Burger nailed Samson and Mhatre off successive deliveries, Rajasthan dictated terms; Archer and Jadeja chip in with two wickets each; Overton’s knock the only bright spot; Suryavanshi makes it a walk in the park for Parag’s men",
-    "img": "https://th-i.thgim.com/public/incoming/u5u1ze/article70805554.ece/alternates/LANDSCAPE_1200/2150_30_3_2026_19_59_8_1_IPL_30032026_05.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-bowlers-on-target-as-royals-knock-over-super-kings/article70804492.ece",
-    "time": "2026-03-31T00:29:32.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Tennis-Sinner beats Lehecka in rain-hit Miami final to capture 'Sunshine Double'",
     "desc": "The Italian world number two won 92% of his ​first-serve points and saved all three break points ⁠he faced en route to a victory that extended his string of Masters 1000 matches without dropping a set to 17",
     "img": "https://th-i.thgim.com/public/incoming/2nwujw/article70804592.ece/alternates/LANDSCAPE_1200/2026-03-30T082145Z_1228573700_28618325_RTRMADP_3_TENNIS.JPG",
@@ -817,15 +826,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/selection-of-test-venues-tradition-goes-for-a-toss/article70800465.ece",
     "time": "2026-03-29T18:48:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mercedes’ Antonelli wins Japanese Grand Prix to take lead",
-    "desc": "Charles Leclerc of Ferrari was third with George Russell of Mercedes in fourth. McLaren's Lando Norris was fifth with sixth for Lewis Hamilton of Ferrari at the Suzuka circuit in central Japan on a clear, sunny spring afternoon.",
-    "img": "https://th-i.thgim.com/public/incoming/cw56sj/article70798971.ece/alternates/LANDSCAPE_1200/2026-03-29T070615Z_528775829_UP1EM3T0JQEH6_RTRMADP_3_MOTOR-F1-JAPAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/motorsport/kimi-antonelli-of-mercedes-wins-japanese-gp-for-second-straight-victory/article70798957.ece",
-    "time": "2026-03-29T07:16:54.000Z"
   },
   {
     "cat": "Business",
