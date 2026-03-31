@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ઈરાન સામેના યુદ્ધ વચ્ચે યુરોપિયન દેશોએ ટ્રમ્પને આપ્યો ઝટકો, કહ્યું- યુદ્ધ માટે એર બેઝનો ઉપયોગ નહીં કરવા દઈએ",
+    "desc": "ઈરાન સામેના યુદ્ધમાં અમેરિકા તેના સાથી દેશો તરફથી એક પછી એક નિષ્ફળતાનો સામનો કરી રહ્યું છે. પહેલા સ્વિટ્ઝર્લેન્ડે શસ્ત્રો પૂરા પાડવાનો ઇનકાર કર્યા પછી સ્પેને કહ્યું કે અમેરિકા ઈરાન પર હુમલો કરવા માટે તેના હવાઈ ક્ષેત્રનો ઉપયોગ કરી શકશે નહીં અને હવે ઇટાલીએ ટ્રમ્પને એક મોટો ઝટકો આપ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/amidst-the-war-with-iran-european-countries-betrayed-to-america-470952 ",
+    "time": "2026-03-31T12:29:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "કોરોના ફરી ત્રાટક્યો, ઝડપથી ફેલાઈ રહ્યો છે નવો વેરિયન્ટ સિકાડા, જાણો લક્ષણો અને બચાવની રીત",
+    "desc": "દુનિયામાં ફરી કોરોનાનો કહેર ફેલાઈ રહ્યો છે, હાલમાં કોરોનાનો નવો સબવેરિયન્ટ 20થી વધુ દેશોમાં ફેલાયો છે અને તેની સૌથી વધારે અસર યુરોપના દેશો અને અમેરિકામાં જોવા મળી રહી છે, પહેલીવાર 2024માં અમેરિકામાં આ વેરિયન્ટ જોવા મળ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/corona-is-back-new-variant-cicada-is-spreading-rapidly-know-the-symptoms-and-ways-to-protect-yourself-470949 ",
+    "time": "2026-03-31T12:07:40.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ભારતની સૌથી સુરક્ષિત કાર બની ગઈ આ SUV; થાર, સિએરા અને નેક્સન પણ પાછળ, 5-સ્ટાર સેફ્ટીથી છે લેસ",
+    "desc": "કિઆ સેલ્ટોસ (Kia Seltos) એ એકવાર ફરી સાબિત કરી દીધું છે કે તે માત્ર લુકમાં જ નહીં પરંતુ સેફ્ટીમાં સૌથી આગળ છે. મહત્વનું છે કે સેલ્ટોસને એડલ્ટ અને ચાઇલ્ડ સેફ્ટી બંને કેટેગરીમાં શાનદાર 5-સ્ટાર રેટિંગ મળ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/kia-seltos-becomes-safest-ice-car-in-bharat-ncap-surpassing-thar-sierra-nexon-470950 ",
+    "time": "2026-03-31T12:01:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "શોલેના આ એક્ટરને તેના કામ માટે પૈસા નહીં, આપવામાં આવ્યું હતું ફ્રિજ, આજે પણ પોતાની પાસે રાખે છે આ લક્ઝરી વસ્તુ",
+    "desc": "કલ્ટ ક્લાસિક ફિલ્મ શોલેના બધા જ પાત્રો હિટ રહ્યા હતા. પરંતુ આ એક અભિનેતાને ફિલ્મમાં કામ કરવા માટે મોટી રકમ નહીં, પણ રેફ્રિજરેટર માટે પૈસા મળ્યા હતા. આ તેમની ફી હતી. તે સમયે રેફ્રિજરેટરને ઊંચી કિંમત અને લક્ઝરી વસ્તુ માનવામાં આવતી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/this-actor-from-sholay-was-given-a-fridge-not-money-for-his-work-he-still-keeps-this-luxury-item-with-him-today-470947 ",
+    "time": "2026-03-31T11:13:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શિવમ દુબેને આઉટ કર્યા પછી રવિન્દ્ર જાડેજાએ કેમ કર્યું ગન શોટ સેલિબ્રેશન? પોતે જ જણાવ્યું તેની પાછળનું રહસ્ય",
+    "desc": "રવિન્દ્ર જાડેજાએ રાજસ્થાન રોયલ્સ માટે પોતાની ભૂતપૂર્વ ટીમ ચેન્નાઈ સુપર કિંગ્સ સામે વિનાશક સ્પેલ બોલિંગ કરી હતી. એટલું જ નહીં, તેણે સરફરાઝ ખાન અને શિવમ દુબેને એક જ ઓવરમાં આઉટ કરીને ગોળીબારની ઉજવણી પણ કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-did-ravindra-jadeja-do-a-gun-shot-celebration-after-dismissing-shivam-dubey-he-himself-revealed-the-secret-behind-it-470937 ",
+    "time": "2026-03-31T10:39:36.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "મોહમ્મદ શમી ક્રિકેટમાંથી લેવા જઈ રહ્યો છે સંન્યાસ ? આખરે ફાસ્ટ બોલરે નિવૃત્તિ અંગે તોડ્યું મૌન",
     "desc": "મોહમ્મદ શમીએ પોતાની છેલ્લી આંતરરાષ્ટ્રીય મેચ માર્ચ 2025માં રમી હતી. તેણે 2025ની ICC ચેમ્પિયન્સ ટ્રોફી દરમિયાન દુબઈમાં ન્યુઝીલેન્ડ સામે ફાઇનલ મેચ રમી હતી. ત્યારથી તે ભારતીય ટીમમાં સ્થાન મેળવી શક્યો નથી. ત્યારે નિવૃત્તિની અટકળો વચ્ચે તેનું નિવેદન સામે આવ્યું છે.",
@@ -396,24 +441,6 @@ const newsData_gu = [
     "time": "2026-03-29T09:29:16.000Z"
   },
   {
-    "cat": "World",
-    "title": "યુદ્ધ વચ્ચે મોટી ઘટના : રશિયા નહિ કરે પેટ્રોલનું એક્સપોર્ટ, જો રશિયા પેટ્રોલ નહિ આપે તો શું થશે?",
-    "desc": "ઈરાને અમેરિકા અને ઈઝરાયલ વચ્ચેનું યુદ્ધ ક્યારે સમાપ્ત થાય તેના કોઈ અણસાર દેખાતા નથી. ત્યારે આ યુદ્ધને હવે એક મહિનો પણ પૂરો થઈ ગયો છે. યુદ્ધ સાથે જોડાયેલી મહત્વની ઘટનાઓ પર એક નજર કરીએ. હુતી હુમલાખોરોના હુમલાથી ઈઝરાયલ ખળભળ્યું છે, તો અમેરિકાએ 3500 સૈનિકો અને યુદ્ધ જહાજ તહેનાત કરતા તણાવ વધ્યો છે. બીજું શું શું થયું...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-war-latest-update-protest-against-donal-trump-in-america-470547 ",
-    "time": "2026-03-29T07:29:03.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અમેરિકા-ઇઝરાયલનું વધ્યું ટેન્શન... ઈરાનને ટેકો આપવા વધુ એક બળવાખોર જૂથ મેદાને, હવે શું કરશે ટ્રમ્પ ?",
-    "desc": "અમેરિકા, ઇઝરાયલ અને ઈરાન વચ્ચેનો સંઘર્ષ હવે વધુ ફેલાઈ ગયો છે. પહેલીવાર હુથીઓએ ઇઝરાયલ પર સીધો મિસાઈલ હુમલો કર્યો છે. પરિણામે યુદ્ધ ત્રીજા મોરચે પહોંચી ગયું છે. હોર્મુઝ સ્ટ્રેટ પહેલાથી જ પ્રભાવિત છે અને હવે બાબ અલ-મંડેબ સ્ટ્રેટ પર પણ ખતરો વધી ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/america-iran-war-houthis-attack-israel-hormuz-strait-red-sea-bab-el-mandeb-470564 ",
-    "time": "2026-03-29T07:08:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "વિરાટ કોહલી નહીં, તો કોણ છે RCBની પહેલી જીતનો અસલી હીરો ? કેપ્ટન રજત પાટીદારે જણાવ્યું નામ",
     "desc": "IPL 2026ની શરૂઆતની મેચમાં RCBએ સનરાઇઝર્સ હૈદરાબાદને હરાવીને ઇતિહાસ રચ્યો, 203 રનના ટાર્ગેટનો પીછો કરતા માત્ર 15.4 ઓવરમાં જ વિજય મેળવ્યો. વિરાટ કોહલીએ 69 રનની શાનદાર અણનમ ઇનિંગ્સ રમી, જ્યારે દેવદત્ત પડિકલે 61 રનનું શાનદાર યોગદાન આપ્યું.",
@@ -421,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/if-not-virat-kohli-who-was-the-hero-of-rcb-first-win-captain-rajat-patidar-revealed-470560 ",
     "time": "2026-03-29T06:24:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાન યુદ્ધ અને કથળતી અર્થવ્યવસ્થા મુદ્દે &amp;#039;ટ્રમ્પ&amp;#039; ભરાયા! સમગ્ર અમેરિકામાં ‘નો કિંગ્સ’ વિરોધ પ્રદર્શનો ફાટી નીકળ્યા",
-    "desc": "અમેરિકાના અનેક શહેરોમાં ઠેર-ઠેર વિરોધ પ્રદર્શનો યોજાયા હતા, જેમાં મોટા શહેરોમાં વિશાળ કૂચ અને ઉપનગરીય તથા ગ્રામીણ વિસ્તારોમાં નાની સભાઓનું આયોજન કરવામાં આવ્યું હતું. આ પ્રદર્શનો પરંપરાગત રીતે રિપબ્લિકન અને ડેમોક્રેટિક બંને વિચારધારા ધરાવતા રાજ્યોમાં જોવા મળ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/anti-trump-no-kings-protest-people-take-to-streets-against-deportation-crackdown-iran-policies-470544 ",
-    "time": "2026-03-29T04:10:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -558,15 +576,6 @@ const newsData_gu = [
     "time": "2026-03-26T11:50:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026 પહેલા BCCIનો મોટો નિર્ણય, આ વર્ષે નહીં યોજાય ઓપનિંગ સેરેમની, જાણો શું છે કારણ",
-    "desc": "IPL 2026 પહેલા એક નવી અપડેટ સામે આવી છે. BCCIએ એક મહત્વપૂર્ણ નિર્ણય લીધો છે, જે હેઠળ આ વખતે ટુર્નામેન્ટ શરૂ થાય તે પહેલાં ઓપનિંગ સેરેમની યોજાશે નહીં. ત્યારે આ લેખમાં જાણીશું કે બોર્ડે આ નિર્ણય કેમ લીધો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-opening-ceremony-cancelled-bcci-big-decision-know-reason-470172 ",
-    "time": "2026-03-26T08:31:40.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સિરિયલ કિલિંગની સત્ય ઘટના પર આધારિત વેબ સીરીઝ, સગીરા પર થયેલી ક્રૂરતાની જોઈ હાથ-પગ ઠંડા પડી જશે",
     "desc": "મહારાષ્ટ્રના મનવત નામના ગામમાં અમુક વર્ષો પહેલા સગીરાઓ અને મહિલાઓની હત્યાઓ થઈ હતી. તંત્ર-મંત્ર, અંશ્રદ્ધા અને ક્રૂરતાની પરાકાષ્ઠાની સત્ય ઘટના પર આધારિત એક વેબ સીરીઝ બની છે. આ વેબ સીરીઝ ક્રાઈમ થ્રિલર વેબ સીરીઝ જોવાના શોખીનો માટે મસ્ટ વોચ છે.",
@@ -610,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/after-watching-dhurandhar-2-people-are-listening-to-this-song-from-sunny-deol-film-did-you-also-remember-it-469851 ",
     "time": "2026-03-23T13:31:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સંન્યાસ છોડી મમતા કુલકર્ણી બની મોડર્ન, ગોવામાં મિત્રો સાથે ચીલ કરતી હોવાના Video વાયરલ",
-    "desc": "મહાકુંભ વખતે કિન્નર અખાડામાં મહા મંડલેશ્વર બની વિવાદ સર્જી દેનાર અભિનેત્રી મમતા કુલકર્ણીએ દાવો કર્યો હતો કે તેણે 25 વર્ષ તપસ્યા કરી છે અને સંન્યાસી જીવન જીવી સિદ્ધિઓ હાંસલ કરી છે. આવા દાવા કરનાર અભિનેત્રી ગોવામાં મિત્રો સાથે ચીલ કરતી જોવા મળી છે. મમતા કુલકર્ણીએ એવી પલટી મારી છે કે લોકો તેને ટ્રોલ કરવા લાગ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/mamta-kulkarni-goa-video-mamta-kulkarni-modern-look-viral-enjoying-vacation-in-goa-469767 ",
-    "time": "2026-03-23T06:15:56.000Z"
   },
   {
     "cat": "Tech",
@@ -682,14 +682,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/price-is-less-than-10-lakhs-most-awaited-renault-duster-car-is-going-to-be-launched-in-india-tomorrow-features-will-be-special-468851 ",
     "time": "2026-03-16T13:59:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "લોકોના ખિસ્સા પર વધુ એક માર ! 1 એપ્રિલથી મોંઘું થશે ફાસ્ટેગનું રિચાર્જ, હાઈવે પર ફરવું થશે મોંઘું",
-    "desc": "માર્ગ પરિવહન અને રાજમાર્ગ મંત્રાલયના જણાવ્યા મુજબ આ વધારો 1 એપ્રિલથી લાગુ કરવામાં આવશે. ખાનગી વાહન ચાલકોમાં તેની લોકપ્રિયતા પણ વધી રહી છે. આ વધારાને કારણે લોકોને 1લી તારીખ પર વધારાની ચુકવણી કરવી પડશે, જો કે કોઈ 1લી તારીખ પહેલા રિન્યુ કરાવે છે તો તેને જૂની કિંમતે મળી જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/fastag-recharge-will-become-expensive-from-april-1-travelling-on-highways-will-become-expensive-468745 ",
-    "time": "2026-03-15T14:52:40.000Z"
   }
 ];
