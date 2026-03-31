@@ -1,6 +1,78 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Where will Rishabh Pant bat in LSG’s IPL 2026 opener against Delhi Capitals? Head coach keeps it mystery",
+    "desc": "In IPL 2025, Lucknow Super Giants captain Rishabh Pant struggled to live up to the expectations, scoring 269 runs in 14 matches at a strike rate of 133.16. For the majority of the tournament, he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/where-will-rishabh-pant-bat-in-lsgs-ipl-2026-opener-against-delhi-capitals-head-coach-keeps-it-mystery-2026-03-31-1035807",
+    "time": "2026-03-31T15:50:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch FIFA World Cup qualification playoff final in India?",
+    "desc": "Italy look to end their 12-year-long wait for a spot in the FIFA World Cup as they take on Bosnia and Herzegovina in the European playoff final on Tuesday, March 31 (Wednesday as per IST)....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/italy-vs-bosnia-and-herzegovina-when-and-where-to-watch-fifa-world-cup-qualification-playoff-final-in-india-2026-03-31-1035806",
+    "time": "2026-03-31T15:48:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI, IPL condole British broadcast engineer's death, vow to help family in hour of grief",
+    "desc": "The Indian Premier League governing council condoled the death of British broadcast engineer Jan William Langford, who was working with the Board of Control for Cricket in India (BCCI) for the 2026 edition of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-ipl-condole-british-broadcast-engineers-death-vow-to-help-family-in-hour-of-grief-2026-03-31-1035803",
+    "time": "2026-03-31T15:13:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 changes CSK should make in playing XI to win against Punjab Kings",
+    "desc": "Rajasthan Royals hammered Chennai Super Kings in their opening game of the IPL 2026. The Ruturaj Gaikwad-led side had a rough day on all three fronts of the game and unless they recover quickly, Chennai...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-3-changes-csk-should-make-in-playing-xi-to-win-against-punjab-kings-2026-03-31-1035799",
+    "time": "2026-03-31T14:49:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Jason Holder not playing in PBKS vs GT IPL 2026 clash in New Chandigarh?",
+    "desc": "Jason Holder missed out as Gujarat Titans lock horns against Punjab Kings in their IPL 2026 opener at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh on Monday, March 31. Holder, the West Indies...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jason-holder-not-playing-in-pbks-vs-gt-ipl-2026-clash-in-new-chandigarh-2026-03-31-1035793",
+    "time": "2026-03-31T13:53:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Lockie Ferguson not playing PBKS' opener against Gujarat Titans in IPL 2026?",
+    "desc": "Punjab Kings pacer Lockie Ferguson was unavailable for selection in Punjab Kings’ IPL 2026 opener against Gujarat Titans at the Maharaja Yadavindra Singh International Cricket Stadium in Mullanpur. The New Zealand international is currently out...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-lockie-ferguson-not-playing-pbks-opener-against-gujarat-titans-in-ipl-2026-2026-03-31-1035792",
+    "time": "2026-03-31T13:52:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Punjab and Gujarat lock horns in opener in Mullanpur",
+    "desc": "Punjab Kings (PBKS) face Gujarat Titans (GT) in an exciting IPL 2026 clash, with both teams aiming to build early momentum in the tournament. PBKS, led by Shreyas Iyer, come into the contest with confidence...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-gt-ipl-2026-live-cricket-score-punjab-kings-vs-gujarat-titans-latest-match-updates-scorecard-teams-2026-03-31-1035789",
+    "time": "2026-03-31T13:19:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Looks a cut above lot of youngsters': Former India cricketer's massive praise for Vaibhav Sooryavanshi",
+    "desc": "Former India cricketer Ambati Rayudu has come up with massive praise for Vaibhav Sooryavanshi following his stunning knock against the Chennai Super Kings on Monday. For the unversed, the 15-year-old smashed a 15-ball half-century in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/looks-a-cut-above-lot-of-youngsters-former-india-cricketer-s-massive-praise-for-vaibhav-sooryavanshi-2026-03-31-1035788",
+    "time": "2026-03-31T13:16:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sourav Ganguly reacts to Kolkata being snubbed for Tests in India's 2026-27 home season",
     "desc": "The Board of Control for Cricket in India (BCCI) announced the schedule for India's home season last week and that triggered a massive debate as traditional venues - Kolkata and Mumbai - didn't get to...",
     "img": "",
@@ -16,77 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mohammed-shami-opens-up-on-retirement-as-out-of-favour-pacer-stays-out-of-indian-plans-2026-03-31-1035779",
     "time": "2026-03-31T11:58:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'He is not even a man': Ashwin voices his opinion against early India debut for Vaibhav Sooryavanshi",
-    "desc": "Vaibhav Sooryavanshi is certainly a special player. He has proved his mettle in the Indian Premier League (IPL) and other tournaments as well and the calls for him to be fast-tracked into the Indian team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/he-is-not-even-a-man-ashwin-voices-his-opinion-against-early-india-debut-for-vaibhav-sooryavanshi-2026-03-31-1035776",
-    "time": "2026-03-31T11:35:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Punjab Kings' 'Sarpanch' Shreyas Iyer hit the punch and turn the tide in New Chandigarh in IPL 2026?",
-    "desc": "Shreyas Iyer's switch from the Kolkata Knight Riders to the Punjab Kings has earned him a big fan base from Punjab fans. Iyer had almost given PBKS their first-ever IPL title had his team not...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/can-punjab-kings-sarpanch-shreyas-iyer-hit-the-punch-and-turn-the-tide-in-new-chandigarh-in-ipl-2026-2026-03-31-1035774",
-    "time": "2026-03-31T11:23:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Star Pakistan batter handed two-match ban after found guilty for ball tampering, PCB issues statement",
-    "desc": "Star Pakistan cricketer Fakhar Zaman has been found guilty of breaching the Level 3 offence of Article 2.14 during the match between Lahore Qalandars and Karachi Kings in the PSL. Notably, towards the fag end...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/star-pakistan-batter-handed-two-match-ban-after-found-guilty-for-ball-tampering-pcb-issues-statement-2026-03-31-1035767",
-    "time": "2026-03-31T11:06:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch AFC Asian Cup 2027 Qualifier clash on TV and stream online?",
-    "desc": "India will host Hong Kong in their final AFC Asian Cup 2027 qualifier match at the iconic Jawaharlal Nehru Stadium in Kochi, on March 31. The Khalid Jamil side is already out of contention, having...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/india-vs-hong-kong-when-and-where-to-watch-afc-asian-cup-2027-qualifier-clash-on-tv-and-stream-online-2026-03-31-1035762",
-    "time": "2026-03-31T10:30:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Rashid Khan the real threat for Punjab Kings in their opening game? Stats suggest so",
-    "desc": "Rashid Khan isn't the most threatening bowler nowadays, at least in the shortest format of the game. With all due respect to him, the wrist-spinner, who has already played a lot of cricket, is being...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-gt-is-rashid-khan-the-real-threat-for-punjab-kings-in-their-opening-game-stats-suggest-so-2026-03-31-1035761",
-    "time": "2026-03-31T10:29:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravindra Jadeja reveals reason behind his gun celebration after dismissing Shivam Dube in CSK redemption",
-    "desc": "Having switched sides from Chennai Super Kings to Rajasthan Royals, Ravindra Jadeja had his redemption in the clash between the two sides at the Barsapara Cricket Stadium, Guwahati. Jadeja, having been traded to the Royals...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadeja-reveals-reason-behind-his-gun-celebration-after-dismissing-shivam-dube-in-csk-redemption-2026-03-31-1035759",
-    "time": "2026-03-31T10:18:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will weather in Mullanpur fare for IPL 2026 game 4?",
-    "desc": "The stage is set for game 4 of the ongoing IPL (Indian Premier League) 2026. Punjab Kings and Gujarat Titans will lock horns at the YMS International Cricket Stadium on March 31. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-gt-weather-report-how-will-weather-in-mullanpur-fare-for-ipl-2026-game-4-2026-03-31-1035751",
-    "time": "2026-03-31T09:16:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Player battles to watch out for in IPL 2026 Match 4",
-    "desc": "Punjab Kings and Gujarat Titans will get their IPL 2026 campaigns underway today at Mullanpur, New Chandigarh. The likes of Shubman Gill, Jos Buttler and Shreyas Iyer, among other big players, will be in action...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-gt-3-player-battles-to-watch-out-for-in-ipl-2026-match-4-2026-03-31-1035744",
-    "time": "2026-03-31T08:22:33.000Z"
   }
 ];

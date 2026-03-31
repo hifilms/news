@@ -1,7 +1,43 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
-    "title": "শেষ ছবি ICU-র ডাবিংয়ে মজার ছলে বলেছিলেন, রাহুলের সেই ভবিষ্যদ্বানী মিলে গেল হুবহু",
+    "title": "Sweta on Rahul Arunoday's death: বিধ্বস্ত শ্বেতার ভাইরাল ভিডিও ঘিরে বাড়ছে অস্বস্তি: ফোনে অধরা, কোথায় রাহুলের সহ-অভিনেত্রী?",
+    "desc": "চোখের সামনে হারিয়েছেন সহকর্মীকে, শ্বেতা মিশ্র এখন বিধ্বস্ত। কিন্তু সেই শোকের মুহূর্তকেও পণ্য করছে সোশ্যাল মিডিয়া? ভাইরাল ভিডিওটি আর শেয়ার না করার অনুরোধ জানিয়েছেন শ্বেতার বোন সালোনি। তাঁর বক্তব্য, এই কঠিন সময়ে তাঁদের পাশে থাকুন, ব্যক্তিগত পরিসরকে সম্মান দিন। কিন্তু কোথায় অভিনেত্রী?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/sweta-mishra-devastated-rahul-arunoday-banerjee-death-viral-video_646838.html ",
+    "time": "2026-03-31T15:38:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "অলৌকিক সমাপতন: মেঘালয়ে ‘হানিমুন মার্ডার’-এর এক বছর পর ঘরে ফিরলেন রাজা, চোখে জল পরিবারের",
+    "desc": "এক বছর আগে চেরাপুঞ্জির সেই 'হানিমুন মার্ডার' কাঁপিয়ে দিয়েছিল গোটা দেশকে। স্ত্রী সোনমের হাতে খুন হওয়া রাজা রঘুবংশী কি তবে ফিরে এলেন? ঠিক এক বছর পর ঘটল অলৌকিক সমাপতন। পরিবারের দাবি, \"রাজা ফিরে এসেছে\"। মেতে উঠলেন উৎসবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/raja-raghuvanshi-honeymoon-murder-rebirth-indore-family_646823.html ",
+    "time": "2026-03-31T13:57:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "আমার বাবিন কোথায়? ও কি আর ফিরবে না: রাহুলের অকাল বিদায়ে আকুল মা, ওষুধেও ঘুম পাড়ানো যাচ্ছে না",
+    "desc": "দুই দশকের ক্যারিয়ারে রাহুল অরুণোদয় বন্দ্যোপাধ্যায় ছোট পর্দা থেকে বড় পর্দা—সবখানেই তাঁর প্রতিভার ছাপ রেখেছেন। 'চিরদিনই তুমি যে আমার' ছবির সেই লাজুক কিশোর থেকে আজকের 'ভোলে বাবা পার করেগা'-র জনপ্রিয় অভিনেতা; রাহুলের বিচরণ ছিল সর্বত্র।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunoday-banerjee-death-news-mother-condition-worsen-rahul-mother-seraching-his-babin-bijoygarh-flat_646822.html ",
+    "time": "2026-03-31T13:45:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ধুলোর মহাপ্রলয়; ভয়ংকর গতিতে ধেয়ে আসছে ২০০০ কিমি দীর্ঘ ধুলোর দেওয়াল 'হাবুব'",
+    "desc": "উপগ্রহচিত্রে সাহারা মরুভূমির উপর এক অভূতপূর্ব দৃশ্য ধরা পড়েছে। প্রায় ২০০০ কিমি বা ১২০০ মাইল দীর্ঘ এক বিশাল ধুলোর দেওয়াল উত্তর-পূর্ব আফ্রিকার উপর দিয়ে বয়ে যেতে দেখা গিয়েছে। আলজেরিয়ার উপর একটি শক্তিশালী নিম্নচাপ বলয় তৈরি হওয়ায় এই ভয়াবহ ধূলিঝড়ের সৃষ্টি হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/2000-km-long-wall-of-dust-blowing-through-sahara-desert-satellite-captures-dust-storms_646821.html ",
+    "time": "2026-03-31T13:26:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'এটাই হয়তো আমার শেষ ছবি', ICU-র ডাবিংয়ে বলেছিলেন, মৃত্যু টের পেয়েছিলেন রাহুল?",
     "desc": "পরিচালক সৌভিক দের পরিচালনায় এবং মনোরঞ্জন জানার প্রযোজনায় তৈরি ছবি ‘ICU’-তে মুখ্য ভূমিকায় দেখা যাবে রাহুলকে। এই ছবির শ্যুটিং ও ডাবিং শেষ করেই দীঘায় শ্যুট করতে গিয়েছিলেন অভিনেতা। রাহুলের এই মৃত্যুর খবরে ভেঙে পড়েছেন পরিচালক সৌভিক দে। পরিচালক জানান, “বিশ্বাস করা কঠিন। কিছুদিন আগেই একসঙ্গে কাজ করেছি, হাসি-ঠাট্টা করেছি। সেটে ওঁর উপস্থিতি একটা আলাদা এনার্জি নিয়ে আসত।”",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
@@ -97,15 +133,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/bangladesh-lifts-ipl-2026-broadcast-ban-government-big-decision-before-season_646476.html ",
     "time": "2026-03-28T10:18:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel war: দাউ দাউ করে জ্বলছে হোটেল: ইরান ইসরায়েল যুদ্ধে এবার বিরাট ড্রোন হামলা দুবাইয়ে, ছদ্মবেশে থাকা মার্কিন সেনা খতম",
-    "desc": "গত বৃহস্পতিবার ইরানের স্বরাষ্ট্রমন্ত্রী আব্বাস আরাঘাচি দাবি করেছিলেন যে, পারস্য উপসাগরীয় দেশগুলোতে মোতায়েন থাকা মার্কিন সেনারা তাদের নিয়মিত সামরিক ঘাঁটি ছেড়ে বিভিন্ন হোটেলে আশ্রয় নিয়েছে। আরাঘাচি স্পষ্টভাবে ওই অঞ্চলের হোটেল মালিকদের সতর্ক করে বলেছিলেন যেন তারা মার্কিন সেনাদের থাকার সুবিধা না দেয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/iran-drone-strike-dubai-hotel-us-presence-kamikaze-uav-attack-middle-east-war_646466.html ",
-    "time": "2026-03-28T07:49:47.000Z"
   },
   {
     "cat": "Politics",

@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ગેસની કિંમતમાં વધારો! સરકારે વધાર્યો ભાવ, CNG અને PNG પર પડશે સીધી અસર",
+    "desc": "સરકારે ગેસનો ભાવ પ્રતિ mmBtu 7 ડોલર કર્યો છે, જે અગાઉ USD 6.75 હતો. આ ગેસ દેશના સ્થાનિક ઉત્પાદનમાં આશરે 60 ટકા હિસ્સો ધરાવે છે, તેથી આ વધારો CNG, PNG, વીજળી અને ખાતર જેવા ક્ષેત્રોને અસર કરી શકે છે. જેની અસર તમારા ખિસ્સા પર પડી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gas-price-hike-government-increases-prices-will-have-a-direct-impact-on-cng-and-png-470989 ",
+    "time": "2026-03-31T15:54:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ભાડૂઆત માટે મહત્ત્વના સમાચાર! આ કામ નહીં કરો તો થશે મોટું નુકસાન, જાણી લો નવો નિયમ નહીંતર પસ્તાશો",
+    "desc": "વર્ષ 2026થી 50,000 રૂપિયાથી વધુ માસિક ભાડું ચૂકવતા ભાડૂતો માટે વાર્ષિક ભાડા પર 2% TDS કાપવો ફરજિયાત છે. આ TDS સામાન્ય રીતે માર્ચ મહિનાના પેમેન્ટમાંથી કાપવામાં આવે છે અને 30 એપ્રિલ સુધીમાં સરકારમાં જમા કરાવવાનો હોય છે. જો ભાડૂત આ નિયમનું પાલન ન કરે, તો તેમના પર પેનલ્ટી, વ્યાજ અને ઇન્કમ ટેક્સની તપાસનો ખતરો વધી જાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/important-news-for-tenants-if-you-dont-do-this-you-will-suffer-big-losses-know-the-new-rule-otherwise-you-will-regret-it-470986 ",
+    "time": "2026-03-31T14:19:43.000Z"
+  },
+  {
     "cat": "World",
     "title": "ઈરાન સામેના યુદ્ધ વચ્ચે યુરોપિયન દેશોએ ટ્રમ્પને આપ્યો ઝટકો, કહ્યું- યુદ્ધ માટે એર બેઝનો ઉપયોગ નહીં કરવા દઈએ",
     "desc": "ઈરાન સામેના યુદ્ધમાં અમેરિકા તેના સાથી દેશો તરફથી એક પછી એક નિષ્ફળતાનો સામનો કરી રહ્યું છે. પહેલા સ્વિટ્ઝર્લેન્ડે શસ્ત્રો પૂરા પાડવાનો ઇનકાર કર્યા પછી સ્પેને કહ્યું કે અમેરિકા ઈરાન પર હુમલો કરવા માટે તેના હવાઈ ક્ષેત્રનો ઉપયોગ કરી શકશે નહીં અને હવે ઇટાલીએ ટ્રમ્પને એક મોટો ઝટકો આપ્યો છે.",
@@ -673,14 +691,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/keep-the-ac-at-this-temperature-in-the-scorching-heat-your-electricity-bill-will-be-reduced-468905 ",
     "time": "2026-03-17T03:56:39.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "રાહનો આવ્યો અંત ! કિંમત છે 10 લાખથી ઓછી, કાલે ભારતમાં લોન્ચ થવા જઈ રહી છે મોસ્ટ અવેટેડ કાર, ફીચર્સ હશે ખાસ",
-    "desc": "આ નવી કાર ત્રણ એન્જિન ઓપ્શન સાથે ઓફર કરવામાં આવશે, જેમાં બે ટર્બો પેટ્રોલ એન્જિન અને એક મજબૂત હાઇબ્રિડ એન્જિનનો સમાવેશ થાય છે. કાર કાલે ભારતમાં લોન્ચ થવા જઈ રહી છે, ભારતમાં તેના જુના મોડલનું ખુબ વેચાણ થયું છે અને લોકોમાં તે લોકપ્રિય પણ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/price-is-less-than-10-lakhs-most-awaited-renault-duster-car-is-going-to-be-launched-in-india-tomorrow-features-will-be-special-468851 ",
-    "time": "2026-03-16T13:59:12.000Z"
   }
 ];
