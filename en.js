@@ -1,12 +1,210 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Transgender Amendment Bill gets President Murmu’s assent",
+    "desc": "A day after the Rajya Sabha passed the Bill, around 140 lawyers and feminists wrote to Ms. Murmu, urging her not to grant assent to the Bill, pointing out “constitutional violations” in its provisions and “procedural infirmities” in the way it was passed",
+    "img": "https://th-i.thgim.com/public/incoming/qwiup0/article70805557.ece/alternates/LANDSCAPE_1200/Transgender%20Amendment%20Bill%202026%20Protest%2022.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/transgender-amendment-bill-gets-president-murmus-assent/article70804606.ece",
+    "time": "2026-03-31T07:03:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' BO Day 13 [LIVE]: Ranveer Singh film eyes Rs 900 crore net milestone",
+    "desc": "The Revenge' continues its record-breaking run on day 13, surpassing the lifetime India net of 'Dhurandhar Part 1' in just 11 days. With a domestic net of Rs. 873.99 crore and a worldwide gross nearing Rs. 1,400 crore, the Ranveer Singh starrer is successfully defying the IPL 2026 season craze. Directed by Aditya Dhar, the film is now chasing the Rs. 900 crore and eventually the Rs. 1000 crore India net milestone, a feat previously seen only by the Allu Arjun starrer 'Pushpa 2.'",
+    "img": "https://static.toiimg.com/photo/msid-129918342,imgsize-85724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-13-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-film-eyes-rs-900-crore-india-net-collections-on-second-tuesday-amid-rs-1392-global-haul-and-smashing-dhurandhar-part-1-record/articleshow/129918342.cms",
+    "time": "2026-03-31T06:53:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "a lone voice amid the electoral cacophony",
+    "desc": "A short story by writer Jeyamohan seeks to capture the character of Poomedai Ramaiah, an Independent candidate in many elections, who would move around the streets of Nagercoil on his bicycle, putting up posters that minced no words about local politics. He died in 1996",
+    "img": "https://th-i.thgim.com/public/incoming/7hs02l/article70804310.ece/alternates/LANDSCAPE_1200/candidate.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/a-lone-voice-amid-the-electoral-cacophony/article70802876.ece",
+    "time": "2026-03-31T06:53:01.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Soaring fuel prices drive German far-right calls for a turn back to Russia",
+    "desc": "Russia had supplied over a third of Germany’s crude oil imports and more than half of its natural gas needs, until Moscow’s invasion of Ukraine in 2022 and the abrupt shutdown of the Nord Stream pipeline left Berlin scrambling ​to find alternative suppliers",
+    "img": "https://th-i.thgim.com/public/incoming/pybwj5/article70805920.ece/alternates/LANDSCAPE_1200/2026-03-31T050042Z_1616417121_RC2G0KASM7Z0_RTRMADP_3_GERMANY-POLITICS-AFD.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/soaring-fuel-prices-drive-german-far-right-calls-for-a-turn-back-to-russia/article70805911.ece",
+    "time": "2026-03-31T06:52:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PSL ball-tampering row rekindles old doubts: Fakhar Zaman in the dock for a 2nd time",
+    "desc": "Fakhar Zaman faces a Level 3 ball-tampering charge in the PSL after an incident during Lahore Qalandars' match against Karachi Kings. This controversy echoes a similar episode during the T20 World Cup against the USA, where Zaman's actions also raised suspicions. Both incidents occurred under pressure, with no proven offense yet.",
+    "img": "https://static.toiimg.com/photo/msid-129918335,imgsize-1796389.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/psl-ball-tampering-row-rekindles-old-doubts-fakhar-zaman-in-the-dock-for-a-2nd-time/articleshow/129918209.cms",
+    "time": "2026-03-31T06:45:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Satheesan challenges CPI(M) to explain Pinarayi’s photo with Sabarimala case accused Potti before targeting Sonia Gandhi",
+    "desc": "Satheesan’s response came when reporters pointed out that after Rahul Gandhi sang a line from a popular parody song about CPI(M) leaders’ reported role in Sabarimala gold theft, the Left party began a social media campaign making allegations against Sonia Gandhi",
+    "img": "https://th-i.thgim.com/public/incoming/mxqkqu/article70805928.ece/alternates/LANDSCAPE_1200/NH27VDsatheesan01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-polls-let-cpim-explain-photo-of-pinarayi-with-sabarimala-case-accused-potti-before-accusing-sonia-gandhi-says-satheesan/article70805905.ece",
+    "time": "2026-03-31T06:44:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Woody Harrelson’s live comedy swings big",
+    "desc": "Woody Harrelson's audacious directorial debut, 'Lost in London,' a single-take, live-broadcast comedy, is regaining attention. Loosely based on a chaotic night in Harrelson's life, the film features Daniel Radcliffe and a host of celebrities playing themselves. This ambitious, meta-narrative unfolds in real-time, offering a unique blend of improv and dark humor, making it a truly unconventional cinematic experience.",
+    "img": "https://static.toiimg.com/photo/msid-129918134,imgsize-103342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/daniel-radcliffe-and-woody-harrelsons-comedic-collaboration-back-in-focus-what-we-know/articleshow/129917977.cms",
+    "time": "2026-03-31T06:35:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Huge turnout for ‘Dodda Jathre’ in Nanjangud, one of the biggest chariot festivals in Karnataka",
+    "desc": "The ‘Pancha Maha Rathotsava’, considered one of the biggest chariot festivals in Karnataka, features five richly decorated chariots — Sri Ganesha Ratha, Gauthama Ratha, Parvathi Ratha, Subramanya Ratha, and Chandikeshwara Ratha — pulled by devotees around the temple",
+    "img": "https://th-i.thgim.com/public/incoming/2q6iwa/article70803643.ece/alternates/LANDSCAPE_1200/2303_30_3_2026_18_14_16_2_NANJANGUDRATOTSAVA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/nanjangud-sees-huge-turnout-of-devotees-for-dodda-jathre/article70803330.ece",
+    "time": "2026-03-31T06:26:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "When will banks remain closed? Check state-wise list",
+    "desc": "Banks across India will observe several closures in April 2026 due to national and state-specific holidays, including year-end finalization and Good Friday. Several states will also see branches shut for regional festivals and observances like Dr. Babasaheb Ambedkar Jayanti and Bengali New Year. Digital banking services will remain operational for routine transactions.",
+    "img": "https://static.toiimg.com/photo/msid-129917123,imgsize-369933.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holidays-in-april-2026-when-will-banks-remain-closed-check-state-wise-list/articleshow/129916817.cms",
+    "time": "2026-03-31T06:22:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Mongolia names new Prime Minister in bid to end legislative deadlock",
+    "desc": "Mr. Uchral is a former Minister of Digital Development and Communications, where he promoted transparency reforms and digital governance initiatives. Before entering politics, Mr. Uchral got public attention as a hip-hop artist under the stage name “Timon.”",
+    "img": "https://th-i.thgim.com/public/incoming/mf6wcs/article70805839.ece/alternates/LANDSCAPE_1200/AFP__20260331__A69M2UB__v1__HighRes__MongoliaPoliticsPm.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/mongolia-names-new-prime-minister-in-bid-to-end-legislative-deadlock/article70805812.ece",
+    "time": "2026-03-31T06:21:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What is BJP offering in its poll manifesto",
+    "desc": "The BJP's Assam election manifesto, 'Sankalp Patra,' outlines 31 commitments focusing on indigenous rights, economic growth, and infrastructure. Key promises include investing Rs 5 lakh crore to make Assam an economic hub, strengthening law and order, and implementing a Uniform Civil Code. The party also pledges to protect land and heritage of indigenous communities and create jobs for youth.",
+    "img": "https://static.toiimg.com/photo/msid-129917820,imgsize-1425044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assam-assembly-elections-2026-what-is-bjp-offering-in-its-poll-manifesto/articleshow/129917164.cms",
+    "time": "2026-03-31T06:18:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'To be continued ... ': Jadeja reveals story behind 'gun' celebration vs CSK",
+    "desc": "Rajasthan Royals began their IPL 2026 season with a commanding eight-wicket victory over Chennai Super Kings. Ravindra Jadeja, playing against his former team, discussed his new celebration and emotional transition. He also spoke about his bowling strategy on a tricky pitch. Vaibhav Sooryavanshi's batting secured the win for Rajasthan Royals. The team's next match is against Gujarat Titans.",
+    "img": "https://static.toiimg.com/photo/msid-129917818,imgsize-13248.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/to-be-continued-ravindra-jadeja-reveals-story-behind-gun-celebration-vs-csk/articleshow/129917675.cms",
+    "time": "2026-03-31T06:17:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Amid US-Iran war, India’s diesel exports see big 20% jump; petrol exports fall 33%",
+    "desc": "Although crude prices have surged amid the near shutdown of the Strait of Hormuz, the effect has differed across fuels. Crack spreads for diesel and jet fuel have climbed to new highs, whereas those for petrol have remained broadly stable.",
+    "img": "https://static.toiimg.com/photo/msid-129917601,imgsize-74016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/amid-us-iran-war-indias-diesel-exports-see-big-20-jump-petrol-exports-fall-33/articleshow/129917431.cms",
+    "time": "2026-03-31T06:14:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Baat nahi hui’: Why Ravindra Jadeja hasn’t spoken to MS Dhoni yet",
+    "desc": "Ravindra Jadeja impressed on his Rajasthan Royals return, taking two crucial wickets against his former team Chennai Super Kings. He humorously revealed he hadn't spoken to MS Dhoni, who apparently keeps his phone off. Jadeja enjoyed the turning wicket, executing his plans effectively to help RR secure an emphatic victory.",
+    "img": "https://static.toiimg.com/photo/msid-129917652,imgsize-81910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/baat-nahi-hui-why-ravindra-jadeja-hasnt-spoken-to-ms-dhoni-yet/articleshow/129917453.cms",
+    "time": "2026-03-31T06:02:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vijay, TVK cadre booked for conducting roadshow in violation of poll code",
+    "desc": "A complaint stated that permission was granted to the TVK to conduct election campaigning only between 5 p.m. and 6 p.m., with a maximum of 500 participants and the use of five sound systems. These norms were violated, it said",
+    "img": "https://th-i.thgim.com/public/incoming/8uzi1g/article70805872.ece/alternates/LANDSCAPE_1200/Vijay_2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-election-vijay-tvk-cadre-booked-for-conducting-roadshow-in-violation-of-poll-code/article70805776.ece",
+    "time": "2026-03-31T06:01:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay ADMITS feeling inferior in front of educated people",
+    "desc": "Akshay Kumar openly shared his feelings of insecurity when around well-educated people, jokingly pondering a return to academia. Yet, he confessed that the pursuit of knowledge doesn't ignite his passion, often leaving him in tears over books. With sincerity, he urged his followers to admire educated individuals like Sonali, underscoring the critical importance of education in shaping one's future. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129917436,imgsize-32932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-admits-feeling-inferior-in-front-of-educated-people-kabhi-kabhi-bahut-chhota-mehsoos-karta-hoon/articleshow/129917436.cms",
+    "time": "2026-03-31T05:58:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Megan Fox blocks Machine Gun Kelly on social media",
+    "desc": "Fans are speculating that Megan Fox and Machine Gun Kelly have split for good after she reportedly blocked him on social media. This follows a period of on-again, off-again romance and recent flirty comments from MGK on Fox's posts. While rumors of reconciliation circulated, MGK previously stated they are focused on co-parenting their daughter.",
+    "img": "https://static.toiimg.com/photo/msid-129917438,imgsize-76462.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/did-megan-fox-block-machine-gun-kelly-fans-point-out-major-change-in-social-media-activity-of-the-stars/articleshow/129917438.cms",
+    "time": "2026-03-31T05:58:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' full movie leaked on YouTube, taken down",
+    "desc": "The Revenge' recently encountered a piracy threat as unauthorized copies circulated on YouTube and other platforms. The filmmakers promptly took action to remove the illegal uploads, much to the relief of fans who enjoy the film's captivating on-screen journey. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-129917065,imgsize-118878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-full-movie-leaked-on-youtube-and-piracy-sites-taken-down-after-fans-alert-makers-reports/articleshow/129917065.cms",
+    "time": "2026-03-31T05:48:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Cruise in Miami Vice? Rumor links star to villain role",
+    "desc": "Rumors are buzzing in Hollywood that Tom Cruise could embody the villain in the forthcoming 'Miami Vice' revival, directed by Joseph Kosinski. Although some industry voices are alluding to discussions, others are pushing back against the notion. Cast in the lead roles, Austin Butler and Michael B. Jordan will bring Crockett and Tubbs back to life.",
+    "img": "https://static.toiimg.com/photo/msid-129917206,imgsize-85648.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/miami-vice-villain-casting-update-has-a-tom-cruise-connection-whats-really-happening-with-the-reboot/articleshow/129917154.cms",
+    "time": "2026-03-31T05:45:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TVK president Vijay declares nearly ₹625 crore in assets and loans to family members",
+    "desc": "According to his election affidavit, the movable assets include 883 grams of gold, five cars, and a two-wheeler in his name and 3,132 grams of gold and 134.91 karats of diamond in the name of his spouse. He has ₹2 lakh in cash, while his spouse has ₹1 lakh",
+    "img": "https://th-i.thgim.com/public/incoming/4vrfdf/article70804210.ece/alternates/LANDSCAPE_1200/DSC_5220.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-president-vijaydeclares-nearly-625crorein-assets-and-loans-to-family-members/article70803856.ece",
+    "time": "2026-03-31T05:19:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Charlotte Jorgensen reveals she survived a plane crash",
+    "desc": "Charlotte Jorgensen, a familiar face from 'Dancing With the Stars', has come forward after escaping the terrifying Air Canada plane crash at LaGuardia Airport. She honors the incredible sacrifice of two individuals whose bravery ensured her safety.",
+    "img": "https://static.toiimg.com/photo/msid-129916688,imgsize-155704.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/dancing-with-the-stars-alum-charlotte-jorgensen-reveals-she-survived-a-plane-crash-the-days-after-have-been-tough/articleshow/129916688.cms",
+    "time": "2026-03-31T05:18:04.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Close margins, shifting alliances define Kunnathunadu outcome",
     "desc": "From a four-cornered contest in 2021, the battle has now sharpened into a more intense three-way fight. It is a rematch between sitting MLA P.V. Sreenijin of the Communist Party of India (Marxist) and Congress’ V.P. Sajeendran, with Twenty20 candidate Babu Divakaran completing the field",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-close-margins-shifting-alliances-define-kunnathunadu-outcome/article70775397.ece",
     "time": "2026-03-31T05:02:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Did Jadeja get emotional and cry on the field vs CSK? Viral video",
+    "desc": "Ravindra Jadeja showed visible emotions playing against Chennai Super Kings for Rajasthan Royals. He was seen in tears during the match. Jadeja, a former CSK player, returned to Rajasthan Royals. He took two crucial wickets against his old team. Rajasthan Royals successfully chased down the target.",
+    "img": "https://static.toiimg.com/photo/msid-129916422,imgsize-28240.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/did-ravindra-jadeja-get-emotional-and-cry-on-the-field-vs-csk-viral-video-leaves-fans-guessing/articleshow/129916366.cms",
+    "time": "2026-03-31T04:59:56.000Z"
   },
   {
     "cat": "World",
@@ -279,15 +477,6 @@ const newsData_en = [
     "time": "2026-03-31T02:03:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "1.22 lakh Anganwadi workers in Rajasthan get ₹1,000 each through DBT",
-    "desc": "The Chief Minister said the children aged three to six years were being provided hot milk five days a week at Anganwadi centres under the Amrit Aahar Yojana. “These buildings are being renovated, and smartphones have been distributed to workers and women supervisors”",
-    "img": "https://th-i.thgim.com/public/incoming/xhlbch/article70804770.ece/alternates/LANDSCAPE_1200/20260330260L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajasthan/122-lakh-anganwadi-workers-in-rajasthan-get-1000-each-through-dbt/article70803509.ece",
-    "time": "2026-03-31T02:01:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why Vaibhav Sooryavanshi said no to 'birthday cake' before smashing CSK",
     "desc": "Fifteen-year-old Vaibhav Sooryavanshi starred in Rajasthan Royals' IPL 2026 opener, smashing a rapid 52 off 17 balls against Chennai Super Kings. He prioritized rest over birthday celebrations to deliver a match-winning powerplay performance, guiding his team to an emphatic eight-wicket victory. The young sensation credited his coaches and opening partner for his confident display.",
@@ -324,24 +513,6 @@ const newsData_en = [
     "time": "2026-03-31T01:34:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Channing Tatum opens up about shoulder surgery",
-    "desc": "Channing Tatum has shared an update on his shoulder surgery recovery, showcasing his healing scars and admitting to regaining mobility after a difficult period. Despite the injury, the 'Magic Mike' star is already gearing up for a challenging new film based on the Isle of Man motorcycle race, having received medical clearance to begin training for the demanding role.",
-    "img": "https://static.toiimg.com/photo/msid-129914102,imgsize-102120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-roofman-star-channing-tatum-shares-health-update-i-feel-like-a-toddler-in-the-gym/articleshow/129914102.cms",
-    "time": "2026-03-31T01:29:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana': 'Rama' first glimpse rating and runtime revealed",
-    "desc": "Nitesh Tiwari's 'Ramayana', featuring Ranbir Kapoor, has received a 'U' rating from the CBFC for its teaser, 'Rama', set for release on April 2. This trailer-length clip, running 2 minutes and 38 seconds, follows earlier glimpses of the epic. The film, with a star-studded cast, is slated for a grand world reveal, promising a visually stunning presentation.",
-    "img": "https://static.toiimg.com/photo/msid-129913827,imgsize-99616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-teaser-ranbir-kapoors-rama-first-glimpse-cleared-ahead-of-april-2-release-u-rating-and-runtime-revealed/articleshow/129913810.cms",
-    "time": "2026-03-31T01:28:26.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "‘Dweep Shakti': Three services conduct amphibious assaults, maritime dominance ops",
     "desc": "During the joint exercise, the triservices executed coordinated amphibious assaults, maritime dominance operations and complex beach landing drills. “In seamless synergy, IndianArmy, IndianNavy and IndianAirForce executed coordinated amphibious assaults, maritime dominance operations and complex beach landing drills employing Next-Generation Equipment and drones, reaffirming precision, jointness and mission-ready interoperability,” the Army posted on X. It also shared some photos of the military drill.",
@@ -358,24 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-controversy-shaheen-afridi-fined-for-forcefully-escorting-four-visitors-to-hotel-room/articleshow/129914009.cms",
     "time": "2026-03-31T01:11:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dakota Mortensen accused Taylor Frankie Paul of shoving and scratching",
-    "desc": "In a shocking turn of events, influencer Taylor Frankie Paul is facing scrutiny following allegations of domestic violence from her former partner, Dakota Mortensen. Mortensen claims that Paul engaged in physical confrontations, including shoving and scratching him. Despite the serious nature of these allegations, he initially refrained from taking action, concerned about the implications of her fame.",
-    "img": "https://static.toiimg.com/photo/msid-129913887,imgsize-115514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/dakota-mortensen-and-taylor-frankie-paul-new-details-reveal-two-incidents-of-physical-assault/articleshow/129913887.cms",
-    "time": "2026-03-31T00:49:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Transgender Amendment Bill gets President Murmu’s assent",
-    "desc": "A day after the Rajya Sabha passed the Bill, around 140 lawyers and feminists wrote to Ms. Murmu, urging her not to grant assent to the Bill, pointing out “constitutional violations” in its provisions and “procedural infirmities” in the way it was passed",
-    "img": "https://th-i.thgim.com/public/incoming/qwiup0/article70805557.ece/alternates/LANDSCAPE_1200/Transgender%20Amendment%20Bill%202026%20Protest%2022.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/transgender-amendment-bill-gets-president-murmus-assent/article70804606.ece",
-    "time": "2026-03-31T00:35:44.000Z"
   },
   {
     "cat": "Sports",
@@ -396,15 +549,6 @@ const newsData_en = [
     "time": "2026-03-31T00:22:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Euphoria' Season 3 Trailer teases twisted finale",
-    "desc": "The highly anticipated 'Euphoria' Season 3 trailer has dropped, hinting at a dramatic shift five years post-high school. Characters navigate early adulthood, facing drug cartels, adult content creation, and mounting debts. Rue appears deeply involved in the drug trade, while Cassie and Nate's marriage faces new challenges.",
-    "img": "https://static.toiimg.com/photo/msid-129913768,imgsize-62772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/euphoria-season-3-trailer-zendaya-sydney-sweeney-jacob-elordi-alexa-demie-reunite-for-twisted-finale/articleshow/129912711.cms",
-    "time": "2026-03-31T00:14:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "CSK Jamie Overton surpasses MS Dhoni, sets new record in defeat vs RR",
     "desc": "Despite Chennai Super Kings' dismal IPL 2026 opener, Jamie Overton delivered a record-breaking performance. Walking in at 82/8, Overton scored 43 off 36 balls, the highest score by a CSK batter at No. 8 or below, surpassing MS Dhoni's previous record. His defiant knock offered a rare highlight in a match dominated by Rajasthan Royals.",
@@ -412,60 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-jamie-overton-surpasses-ms-dhoni-sets-new-record-in-defeat-vs-rr/articleshow/129908730.cms",
     "time": "2026-03-31T00:01:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Celine Dion announces COMEBACK with Paris residency",
-    "desc": "Global music icon Celine Dion is set to grace the stage again this autumn with a special 10-show engagement in Paris. This marks her first concert series since revealing her stiff-person syndrome diagnosis. Fans can anticipate a spectacular performance of her beloved hits, a testament to her enduring spirit and connection with her audience after a period away from touring.",
-    "img": "https://static.toiimg.com/photo/msid-129913551,imgsize-152046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/celine-dion-announces-comebackconcerts-after-stiff-person-syndrome-diagnosis-reveals-paris-residency-dates/articleshow/129913382.cms",
-    "time": "2026-03-30T23:02:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana': Ranbir opens up about playing Lord Ram",
-    "desc": "Ranbir Kapoor, director Nitesh Tiwari, and producer Namit Malhotra unveiled 'Rama's' first glimpse in Los Angeles, introducing Lord Rama as 'Maryada Purushottam,' the ideal man. This grand retelling of the epic saga, slated for a worldwide IMAX release, aims to enlighten audiences about human spirit, compassion, and righteousness. The first glimpse launches April 2nd.",
-    "img": "https://static.toiimg.com/photo/msid-129912394,imgsize-138002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-first-glimpse-ranbir-kapoor-on-playing-lord-ram-he-is-called-maryada-purushottam-which-stands-for-an-ideal-man-watch/articleshow/129911188.cms",
-    "time": "2026-03-30T22:21:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "JKPC chief Sajad Lone highlights official data mismatch on poor population in J&K’s regions, seeks one definition",
-    "desc": "Speaking in the J&K Assembly, Mr. Lone said official data contradicted its own figures on how many poor families live in the two regions of Kashmir and Jammu and termed it as “a structural flaw that is distorting fairness in employment and welfare distribution”",
-    "img": "https://th-i.thgim.com/public/incoming/ttqvcb/article70804768.ece/alternates/LANDSCAPE_1200/PTI12_07_2025_000194B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jkpc-chief-sajad-lone-highlights-official-data-mismatch-on-poor-population-in-jks-regions-seeks-one-definition/article70804000.ece",
-    "time": "2026-03-30T22:18:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tiger to seek therapy for aerophobia after scary flight experience",
-    "desc": "Despite being Bollywood’s go-to action star, Tiger Shroff has opened up about a fear that starkly contrasts his on-screen persona. Known for pulling off high-risk stunts with ease, the actor recently revealed that he suffers from aerophobia and is considering therapy to deal with it.",
-    "img": "https://static.toiimg.com/photo/msid-129911182,imgsize-80096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroff-plans-to-seek-therapy-for-aerophobia-after-scary-flight-experience-every-time-i-have-to-board-a-flight-i-have-anxiety/articleshow/129911182.cms",
-    "time": "2026-03-30T21:39:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED facilitates restitution of 455 properties worth ₹15,582 crore to Justice Lodha Committee",
-    "desc": "During the current financial year, the agency has attached assets worth about ₹26,324 Crore, taking the total attachment in the case so far to ₹27,030 crore. They include properties located both in India and Australia",
-    "img": "https://th-i.thgim.com/public/incoming/3olvo8/article70804617.ece/alternates/LANDSCAPE_1200/IMG_JUSTICE_LODHA_2_1_5HA3MLQL.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pacl-case-ed-facilitates-restitution-of-455-properties-worth-15582-crore-to-justice-lodha-committee/article70803591.ece",
-    "time": "2026-03-30T21:26:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP seeks action against Mamata over ‘MCC breach’",
-    "desc": "A delegation comprising Union Ministers Piyush Goyal, Kiren Rijiju, and Sukanta Majumdar among others submitted the complaint to the Election Commission; the party accused Ms. Banerjee of making ‘grave and disturbing public statements’ during multiple public rallies in Bengal, ‘posing a serious threat to free, fair and peaceful elections’",
-    "img": "https://th-i.thgim.com/public/incoming/o7fqf5/article70802967.ece/alternates/LANDSCAPE_1200/PTI03_30_2026_000045A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bjp-seeks-campaign-ban-on-west-bengal-cm-mamata-banerjee-over-alleged-mcc-violations/article70802739.ece",
-    "time": "2026-03-30T21:12:55.000Z"
   },
   {
     "cat": "Sports",
@@ -513,15 +603,6 @@ const newsData_en = [
     "time": "2026-03-30T19:37:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "This election is a battle between secularism and polarisation, says Thamizhachi Thangapandian",
-    "desc": "Thamizhachi Thangapandian says that the DMK is very comfortable and confident of facing the poll; she also says that the DMK does not consider the TVK as a serious contender and appeals to youngsters to be more politically conscious",
-    "img": "https://th-i.thgim.com/public/incoming/f6fhso/article70804271.ece/alternates/LANDSCAPE_1200/DSC_5349.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/this-election-is-a-battle-between-secularism-and-polarisation-says-thamizhachi-thangapandian/article70803366.ece",
-    "time": "2026-03-30T19:28:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No IPL telecast in Bangladesh as JioStar terminates broadcast agreement",
     "desc": "The development comes at a time when Bangladesh authorities were reviewing a ban on IPL telecast. With the deal now terminated, there is no immediate option for the tournament to return to television screens in the country.",
@@ -538,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/centre-eyes-new-regulation-to-cover-social-media-users/article70803459.ece",
     "time": "2026-03-30T18:31:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Pink looks good on me': Ravindra Jadeja shines on return to RR",
-    "desc": "Ravindra Jadeja marked a significant return to Rajasthan Royals after 17 years with a stellar 2/18 spell against Chennai Super Kings. His crucial wickets, coupled with the bowlers' collective effort, restricted CSK to 127. Vaibhav Sooryavanshi's rapid half-century and a dominant chase by Jaiswal and Parag secured an eight-wicket victory for RR.",
-    "img": "https://static.toiimg.com/photo/msid-129909331,imgsize-165094.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/pink-looks-good-on-me-ravindra-jadeja-shines-on-return-to-rajasthan-royals/articleshow/129909134.cms",
-    "time": "2026-03-30T18:24:04.000Z"
   },
   {
     "cat": "World",
@@ -594,15 +666,6 @@ const newsData_en = [
     "time": "2026-03-30T15:38:51.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Sanju Samson falls cheaply on CSK debut against Rajasthan Royals",
-    "desc": "Samson was bowled by Nandre Burger while attempting a leg-side flick. The delivery, clocked at 140.2 kmph, moved away and hit the off stump. He scored 6 runs off 7 balls in his first innings for CSK.",
-    "img": "https://static.toiimg.com/photo/msid-129904336,imgsize-38374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-sanju-samson-falls-cheaply-on-csk-debut-against-rajasthan-royals/articleshow/129904258.cms",
-    "time": "2026-03-30T14:41:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Sitharaman defends IBC citing higher recoveries and post-resolution performance of firms",
     "desc": "Replying to the debate on the Insolvency and Bankruptcy (Amendment) Bill 2026 in Lok Sabha, the Finance Minister said the reason for bringing in IBC was not debt recovery, but rather the rescue of viable businesses and addressing their financial stress",
@@ -619,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/hockey/white-to-take-over-as-junior-womens-hockey-coach-hi-undecided-on-renewing-sreejeshs-contract/article70803359.ece",
     "time": "2026-03-30T14:06:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What is the latest interest rate for PPF, NSC, SSY, SCSS for April-June 2026 quarter?",
-    "desc": "The Finance Ministry has released the latest interest rates for the first quarter of the new financial year FY 2026-27 from April to June. The interest rates for all small savings schemes have been kept unchanged.",
-    "img": "https://static.toiimg.com/photo/msid-129903320,imgsize-96804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/latest-small-savings-schemes-interest-rate-q1-fy-2026-207-ppf-nsc-sukanya-samriddhi-yojana-time-deposit-scss-monthly-income-account-kisan-vikas-patra/articleshow/129902953.cms",
-    "time": "2026-03-30T13:56:52.000Z"
   },
   {
     "cat": "Business",
@@ -718,24 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/selection-of-test-venues-tradition-goes-for-a-toss/article70800465.ece",
     "time": "2026-03-29T18:48:27.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Israeli police block Catholic cardinal from Jerusalem's Holy Sepulchre on Palm Sunday",
-    "desc": "Cardinal Pierbattista Pizzaballa ⁠and Friar Francesco Ielpo were stopped by police while walking to the church, built on the site where Christians believe Jesus was crucified and rose from the dead, the Latin Patriarchate of Jerusalem said",
-    "img": "https://th-i.thgim.com/public/incoming/5nbv6i/article70800437.ece/alternates/LANDSCAPE_1200/2026-03-29T163026Z_1665451742_RC2CEKARD9YY_RTRMADP_3_RELIGION-EASTER-JERUSALEM-PALM-SUNDAY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/israeli-police-block-catholic-cardinal-from-jerusalems-holy-sepulchre-on-palm-sunday/article70800428.ece",
-    "time": "2026-03-29T16:48:11.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "China protests U.S. alert over security rules change in Hong Kong",
-    "desc": "Hong Kong this month ​amended its enforcement rules for the national security regime, making ⁠it an offence in national security cases to refuse to provide ‌passwords or other decryption assistance to access an electronic device",
-    "img": "https://th-i.thgim.com/public/incoming/tf9psd/article70800400.ece/alternates/LANDSCAPE_1200/iStock-1199877228.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/china-protests-us-alert-over-security-rules-change-in-hong-kong/article70800373.ece",
-    "time": "2026-03-29T16:38:11.000Z"
   },
   {
     "cat": "Sports",
@@ -847,24 +883,6 @@ const newsData_en = [
   },
   {
     "cat": "Tech",
-    "title": "New Mexico jury says Meta harms children’s mental health and safety, violating state law",
-    "desc": "The landmark decision comes after a nearly seven-week trial, and as jurors in a federal court in California have been sequestered in deliberations for more than a week about whether Meta and YouTube should be liable in a similar case",
-    "img": "https://th-i.thgim.com/public/incoming/7366yo/article70782439.ece/alternates/LANDSCAPE_1200/Meta_New_Mexico_Trial_13859.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/new-mexico-jury-says-meta-harms-childrens-mental-health-and-safety-violating-state-law/article70782437.ece",
-    "time": "2026-03-25T13:00:53.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "With NavIC setback, India unable to use satellite system for security purposes: experts",
-    "desc": "A major setback occurred after the last atomic clock on board the Indian Regional Navigational Satellite System-1F (IRNSS-1F) stopped functioning on March 10, leaving only three satellites of the NavIC constellation in function; armed forces of countries use the navigation satellite system for logistics, mapping and operational planning, and relying on a foreign navigation satellite system could pose security issues, especially during wars",
-    "img": "https://th-i.thgim.com/public/incoming/46xqm/article70784020.ece/alternates/LANDSCAPE_1200/PTI8_30_2017_000133B.JPEG-07231.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/another-satellite-in-navic-satellite-system-unable-to-function-limiting-its-security-capabilities-amid-concerns-of-reliance-on-foreign-navigation-systems/article70783744.ece",
-    "time": "2026-03-25T12:37:11.000Z"
-  },
-  {
-    "cat": "Tech",
     "title": "Government issues warning for these Android smartphone and tablet users",
     "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
     "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
   }
 ];

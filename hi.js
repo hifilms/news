@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will surface at MYS International Cricket Stadium in Mullanpur play in IPL 2026?",
+    "desc": "Game 4 of the ongoing IPL (Indian Premier League) 2026 sees Punjab Kings take on Gujarat Titans. The two sides are set to lock horns at the Maharaja Yadavindra Singh International Cricket Stadium on March...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-gt-pitch-report-how-will-surface-at-mys-international-cricket-stadium-in-mullanpur-play-in-ipl-2026-2026-03-31-1035714",
+    "time": "2026-03-31T05:27:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Don't say anything wrong': R Ashwin defends Barsapara Stadium's pitch after CSK's humiliating loss against RR",
     "desc": "The 3rd game of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals register a brilliant victory against Chennai Super Kings. The two sides locked horns at the ACA Stadium in Guwahati on March...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/csk-s-lowest-totals-in-ipl-history-as-five-time-champions-collapse-vs-rr-in-ipl-2026-2026-03-30-1035659",
     "time": "2026-03-30T15:29:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Memes galore after CSK's collapse, Samson, Gaikwad, Mhatre dismissed cheaply vs RR in IPL 2026",
-    "desc": "Chennai Super Kings were rocked early on by Rajasthan Royals in their Indian Premier League 2026 opener at the Barsapara Cricket Stadium, Guwahati. After being sent in to bat first, CSK lost both of their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/memes-galore-after-csks-collapse-samson-gaikwad-mhatre-dismissed-cheaply-vs-rr-in-ipl-2026-2026-03-30-1035654",
-    "time": "2026-03-30T15:01:52.000Z"
   }
 ];
