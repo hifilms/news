@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will weather in Mullanpur fare for IPL 2026 game 4?",
+    "desc": "The stage is set for game 4 of the ongoing IPL (Indian Premier League) 2026. Punjab Kings and Gujarat Titans will lock horns at the YMS International Cricket Stadium on March 31. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-gt-weather-report-how-will-weather-in-mullanpur-fare-for-ipl-2026-game-4-2026-03-31-1035751",
+    "time": "2026-03-31T09:16:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 Player battles to watch out for in IPL 2026 Match 4",
+    "desc": "Punjab Kings and Gujarat Titans will get their IPL 2026 campaigns underway today at Mullanpur, New Chandigarh. The likes of Shubman Gill, Jos Buttler and Shreyas Iyer, among other big players, will be in action...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-gt-3-player-battles-to-watch-out-for-in-ipl-2026-match-4-2026-03-31-1035744",
+    "time": "2026-03-31T08:22:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "From Vijender Singh to Ravindra Jadeja, list of sportspersons who have joined party",
+    "desc": "Several prominent athletes over the years have followed the trend of joining politics after their careers in sports. Over the years, many big names from the sports arena have transitioned into the political arena. Their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/leander-paes-set-to-join-bjp-from-vijender-singh-to-ravindra-jadeja-list-of-sportspersons-who-have-joined-party-2026-03-31-1035734",
+    "time": "2026-03-31T07:22:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "British national working with BCCI for IPL 2026 matches found dead in Mumbai's Trident hotel room",
+    "desc": "Even as the 2026 edition of the Indian Premier League (IPL) is going on in full flow in its first week, the tournament has been hit with unfortunate news. A British national, working as a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/british-national-working-with-bcci-for-ipl-2026-matches-found-dead-in-mumbai-s-trident-hotel-room-2026-03-31-1035732",
+    "time": "2026-03-31T07:19:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will surface at MYS International Cricket Stadium in Mullanpur play in IPL 2026?",
     "desc": "Game 4 of the ongoing IPL (Indian Premier League) 2026 sees Punjab Kings take on Gujarat Titans. The two sides are set to lock horns at the Maharaja Yadavindra Singh International Cricket Stadium on March...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ms-dhonis-record-broken-csks-jamie-overton-shatters-csk-legends-feat-during-ipl-2026-clash-vs-rr-2026-03-30-1035668",
     "time": "2026-03-30T18:26:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Not frustrated at all': CSK captain Gaikwad feels 'good to start with lot of mistakes' after RR drubbing",
-    "desc": "Despite being thrashed by the Rajasthan Royals in their IPL 2026 opener, Chennai Super Kings captain Ruturaj Gaikwad does not feel 'frustrated at all'. The five-time champions were catapulted by the Royals at the Barsapara...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/not-frustrated-at-all-csk-captain-gaikwad-feels-good-to-start-with-lot-of-mistakes-after-rr-drubbing-2026-03-30-1035667",
-    "time": "2026-03-30T17:54:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals maul CSK to break 12-year-old record, start IPL 2026 campaign on high",
-    "desc": "Rajasthan Royals have handed Chennai Super Kings a huge drubbing in their IPL 2026 opener at the Barsapara Cricket Stadium, Guwahati, with a stellar all-round show. Set up by their bowlers, RR chased down a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-maul-csk-to-break-12-year-old-record-start-ipl-2026-campaign-on-high-2026-03-30-1035666",
-    "time": "2026-03-30T17:07:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Red Bull responds to Max Verstappen's shock F1 retirement consideration",
-    "desc": "Red Bull boss Laurent Mekies has responded to four-time champion Max Verstappen's retirement hint after a frustrating start to the Formula 1 2026 season. Due to his ongoing struggles with the new power unit in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/formula-1/red-bull-responds-to-max-verstappens-shock-f1-retirement-consideration-2026-03-30-1035662",
-    "time": "2026-03-30T16:34:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK's lowest totals in IPL history as five-time champions collapse vs RR in IPL 2026",
-    "desc": "Chennai Super Kings' IPL 2026 campaign didn't get off to a desired start as their batting unravelled against the Rajasthan Royals at the Barsapara Stadium in Guwahati. MS Dhoni's absence was felt as the team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-s-lowest-totals-in-ipl-history-as-five-time-champions-collapse-vs-rr-in-ipl-2026-2026-03-30-1035659",
-    "time": "2026-03-30T15:29:29.000Z"
   }
 ];

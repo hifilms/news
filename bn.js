@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "Shiva's Shadow in Tungnath: স্বয়ং দেবাদিদেব মহাদেবের ছায়া? গায়ে-কাঁটা-দেওয়া মহা অলৌকিক এই কাণ্ড চেনা তীর্থেই",
+    "desc": "তুঙ্গনাথ বিশ্বের সর্বোচ্চ শিবমন্দির। প্রায় ৩৬৮০ মিটার উচ্চতায় অবস্থিত। বিপুল পৌরাণিক গুরুত্ব রয়েছে এর। 'পঞ্চ কেদারে'র অন্যতম এই মন্দির নিয়ে আছে নানা লোকগাথা। মহাভারতের যুদ্ধের পরে পাণ্ডবরা তাঁদের কৃত পাপের জন্য শিবের কাছে ক্ষমা চাওয়ার পরিকল্পনা করেছিলেন। কিন্তু শিব পঞ্চপাণ্ডবকে এড়িয়েই যাচ্ছিলেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/shivas-shadow-in-tungnath-is-this-lord-shivas-shadow-video-tungnath-temple-sparks-buzz_646759.html ",
+    "time": "2026-03-31T08:13:36.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'দাদা সাঁতার জানতেন', শেষমুহূর্তে ঠিক কী ঘটেছিল? জানালেন রাহুলের ১৬ বছরের ছায়াসঙ্গী বাবলু",
     "desc": "সাগরের ঢেউয়ে বিলীন এক উজ্জ্বল প্রতিভা। শুটিং করতে গিয়ে দিঘার সমুদ্রে তলিয়ে গেলেন অভিনেতা অরুণোদয় বন্দ্যোপাধ্যায়। ময়নাতদন্তের রিপোর্টে উঠে এল ভয়াবহ সব তথ্য। কেন ছিল না শুটিং সেটে নূন্যতম নিরাপত্তা? প্রিয় দাদার শেষ মুহূর্তের কথা বলতে গিয়ে কান্নায় ভেঙে পড়লেন তাঁর গাড়িচালক।",
@@ -97,6 +106,15 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/akshaye-khanna-dhurandhar-comeback-struggle-success-story-break-up-with-karisma-kapoor_646450.html ",
     "time": "2026-03-28T05:35:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   },
   {
     "cat": "Politics",
