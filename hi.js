@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi joins Yashasvi Jaiswal in elite list after manic half century against CSK",
+    "desc": "Game 3 of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals lock horns with Chennai Super Kings. The two sides took centre stage at the Barsapara Stadium in Guwahati on March 30, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-joins-yashasvi-jaiswal-in-elite-list-after-manic-half-century-against-csk-2026-03-31-1035677",
+    "time": "2026-03-31T01:34:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "MS Dhoni's record broken! CSK's Jamie Overton shatters CSK legend's feat during IPL 2026 clash vs RR",
     "desc": "Chennai Super Kings' all-rounder Jamie Overton shattered an MS Dhoni record despite the team's horror show against Rajasthan Royals in the Indian Premier League 2026. Overton made 43 in an otherwise dismal batting outing from...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-ravindra-jadeja-not-playing-for-chennai-super-kings-csk-in-ipl-2026-2026-03-30-1035648",
     "time": "2026-03-30T13:48:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Dewald Brevis not playing in RR vs CSK IPL 2026 clash in Guwahati?",
-    "desc": "Dewald Brevis missed out as Chennai Super Kings open their IPL 2026 campaign against Rajasthan Royals at the Barsapara Cricket Stadium, Guwahati, on Monday, March 30. The toss was delayed due to rain in Guwahati. Brevis...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-dewald-brevis-not-playing-in-rr-vs-csk-ipl-2026-clash-in-guwahati-2026-03-30-1035647",
-    "time": "2026-03-30T13:39:17.000Z"
   }
 ];
