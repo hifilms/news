@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "আপনি দেশের নাগরিক তো? SIR-আবহে শুরু সম্পূর্ণ নতুন বিষয়! এক্ষুনি ভরতে হবে সেল্ফ এনুমারেশন ফর্ম?",
+    "desc": "সাধারণত ১০ বছর ছাড়া-ছাড়া জনগণনার কাজ হয়। সেই হিসেবে ২০২১ সালে জনগণনা হওয়ার কথা ছিল। কিন্তু কোভিডের কারণে হয়নি। এবার শুরু হচ্ছে। দেড় দশক পরে ভারতের জনশুমারির এই মহা কর্মযজ্ঞে টানা এক বছর ধরে ৩০ লাখ কর্মী বাড়ি বাড়ি ঘুরে কাজটি শেষ করবেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/census-2027-worlds-largest-first-digitallly-conducted-census-begins-33-questions-self-enumeration-exercise_646912.html ",
+    "time": "2026-04-01T09:44:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "রাহুলের মৃত্যুতে উত্তাল টলিউড: গাফিলতির অভিযোগে কাঠগড়ায় প্রযোজনা সংস্থা, আইনি পদক্ষেপের পথে প্রিয়াঙ্কা",
+    "desc": "রাহুলের মৃত্যু কি স্রেফ দুর্ঘটনা, নাকি গাফিলতি? শুটিং সেটে নিরাপত্তার অভাব আর তথ্য গোপনের অভিযোগে এবার বিদ্ধ লীনা গঙ্গোপাধ্যায়ের প্রযোজনা সংস্থা। বিচার চেয়ে এককাট্টা আর্টিস্টস ফোরাম। কী হতে চলেছে পরবর্তী পদক্ষেপ? পুলিসে অভিযোগ জানাতে চলেছেন প্রিয়াঙ্কা?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-actor-rahul-arunoday-banerjee-death-mystery-priyanka-sarkar-legal-action-against-magic-moments_646902.html ",
+    "time": "2026-04-01T08:50:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "কিছুতেই এঁটে উঠছেন না ট্রাম্প; বিরাট শক্তির আমেরিকাকে কোন ম্যাজিকে নাকানিচোবানি খাওয়াচ্ছে ইরান?",
+    "desc": "শক্তির নিরিখে ইরানের চেয়ে বহু যোজন এগিয়ে মার্কিন যুক্তরাষ্ট্র। সবাই জানে, বিশ্বের সবচেয়ে শক্তিশালী সামরিক বাহিনী ও সব চেয়ে সমৃদ্ধ অর্থনীতির দেশ মার্কিন যুক্তরাষ্ট্র। এর সঙ্গে ইসরায়েলের পোড় খাওয়া সেনাবাহিনী আর ধুরন্ধর গোয়েন্দাদল যুক্ত করলে লড়াইটা ইরানের পক্ষে একেবারেই অসম মনে হয়। তবুও কী ভাবে টিকে আছে ইরান?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/usa-unable-to-fight-iran-properly-trumps-big-setback-in-iran-israels-us-war_646900.html ",
+    "time": "2026-04-01T08:34:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "গ্যাস-পেট্রলের পরে এবার চিকিৎসায় কোপ; অগ্নিমূল্য হচ্ছে ৯০০টি জীবনদায়ী ওষুধ, মৃত্যুঘণ্টা বাজল রোগীকুলের?",
+    "desc": "চিন্তা বাড়িয়ে, হোলসেল প্রাইস ইনডেক্স বাড়ায়, দাম বাড়তে চলেছে ৯০০টি জীবনদায়ী ওষুধের। ডাবলুপিআই ইনডেক্স বেড়েছে ০. ৬৪৯৫৬ শতাংশ বেড়ে যাওয়ার ফলে, সব মিলিয়ে ৯০০ টি ওষুধের দাম বাড়ছে। এর মধ্যে প্রচুর পরিমাণে জীবন দায়ী ওষুধ রয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/medicines-price-hike-due-to-increase-in-wpi_646891.html ",
+    "time": "2026-04-01T07:35:11.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Sweta on Rahul Arunoday's death: বিধ্বস্ত শ্বেতার ভাইরাল ভিডিও ঘিরে বাড়ছে অস্বস্তি: ফোনে অধরা, কোথায় রাহুলের সহ-অভিনেত্রী?",
     "desc": "চোখের সামনে হারিয়েছেন সহকর্মীকে, শ্বেতা মিশ্র এখন বিধ্বস্ত। কিন্তু সেই শোকের মুহূর্তকেও পণ্য করছে সোশ্যাল মিডিয়া? ভাইরাল ভিডিওটি আর শেয়ার না করার অনুরোধ জানিয়েছেন শ্বেতার বোন সালোনি। তাঁর বক্তব্য, এই কঠিন সময়ে তাঁদের পাশে থাকুন, ব্যক্তিগত পরিসরকে সম্মান দিন। কিন্তু কোথায় অভিনেত্রী?",
@@ -124,15 +160,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/south-korean-actor-lee-sang-bo-passed-away-death-investigation_646493.html ",
     "time": "2026-03-28T14:29:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "১৯ বছরে মাথায় টাক, করিশ্মার সঙ্গে বিয়ে ভাঙা থেকে বাবার আশ্রমে চলে যাওয়া- অক্ষয় খান্নার জীবন যেন সিনেমার চেয়েও টানটান",
-    "desc": "৫ বছর বয়সে বাবার চলে যাওয়া, ১৯ বছরেই মাথায় টাক, আর একের পর এক ২৩টি ফ্লপ সিনেমা! তবুও দমে যাননি অক্ষয় খান্না। আজ 'ধুরন্ধর'-এর রেহমান ডাকাত হিসেবে তিনি গোটা ভারতের সেনসেশন। অভিনেতার জন্মদিনে ফিরে দেখা হার না মানা এক লড়াকুর গল্প।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/akshaye-khanna-dhurandhar-comeback-struggle-success-story-break-up-with-karisma-kapoor_646450.html ",
-    "time": "2026-03-28T05:35:16.000Z"
   },
   {
     "cat": "Business",

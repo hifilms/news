@@ -1,6 +1,78 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "મિડલ ઈસ્ટમાં યુદ્ધ મુદ્દે શું કઈંક મોટું થવાનું છે? ઉપરાછાપરી 3 શક્તિશાળી રાષ્ટ્રાધ્યક્ષોનું રાષ્ટ્રને સંબોધન",
+    "desc": "ઈરાન અને ઈઝરાયેલ અમેરિકા વચ્ચેનું યુદ્ધ બંધ થવાનું નામ લેતું નથી. મિડલ ઈસ્ટમાં દિવસેને દિવસે સ્થિતિ ગંભીર બની રહી છે. આ બધા વચ્ચે ત્રણ દેશોના પ્રમુખોના દેશને નામ સંબોધન કઈક મોટું થવાના એંધાણ વ્યક્ત કરી રહ્યા છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/middle-east-war-update-public-addresses-of-3-powerful-leaders-donald-trump-albanese-starmer-471079 ",
+    "time": "2026-04-01T09:47:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રામાયણના સેટ પર સિગારેટ પી રહ્યા હતા અરુણ ગોવિલ, શું થયું અને તેમણે સિગારેટ કેમ છોડી દીધી, રામાનંદ સાગરના પૌત્રનો ખુલાસો",
+    "desc": "જ્યારે રામાયણ શોનું નિર્માણ શરૂ થયું, ત્યારે રામાનંદ સાગર પણ ધૂમ્રપાન અને સિગારેટ પીતા હતા. તેમણે આ બધી વસ્તુઓ જાતે જ છોડી દીધી, જેમાં માંસાહારી ખોરાકનો પણ સમાવેશ થાય છે. એક વખત, અરુણ ગોવિલ સેટ પર ધૂમ્રપાન કરી રહ્યા હતા, અને કંઈક એવું બન્યું જેના કારણે તેમણે ધૂમ્રપાન પણ છોડી દીધું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/arun-govil-was-smoking-a-cigarette-on-the-sets-of-ramayana-what-happened-and-why-he-quit-smoking-ramanand-sagar-grandson-reveals-471077 ",
+    "time": "2026-04-01T09:39:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રિષભ પંતે આ બે ખેલાડીઓ વચ્ચે કરાવ્યું સમાધાન, ગયા વર્ષે થયો હતો ઝઘડો",
+    "desc": "IPL ભલે હજુ પણ વિશ્વની સૌથી મોટી અને સૌથી રોમાંચક T20 લીગ હોય, પરંતુ હવે પહેલાની જેમ મેદાન પર ટકરાવ કે ગરમાગરમી ઓછી જોવા મળે છે. ત્યારે આજે દિલ્હી કેપિટલ્સ અને લખનૌ સુપર જાયન્ટ્સ વચ્ચેની મેચ પહેલા રિષભ પંતે દિગ્વેશ રાઠી અને નીતિશ રાણા વચ્ચે લાંબા સમયથી ચાલતા ઝઘડાનો અંત લાવ્યો હતો અને બંને વચ્ચે સમાધાન કરાવ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rishabh-pant-resolved-dpl-fight-between-digvesh-rathi-and-nitish-rana-471065 ",
+    "time": "2026-04-01T09:11:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "&amp;quot;ધુરંધર 2&amp;quot; ના &amp;quot;બડે સાહેબ&amp;quot;નું સત્ય... શું ખરેખર અંતિમ શ્વાસ લઈ રહ્યો છે અંડરવર્લ્ડનો સૌથી મોટો ચહેરો ? સામે આવ્યું હકીકત",
+    "desc": "રણવીર સિંહની ફિલ્મ \"ધુરંધર: ધ રીવેન્જ\"માં \"બડે સાહેબ\" ને અંતિમ શ્વાસ લેતા દર્શાવવામાં આવ્યા હતા, જેના કારણે લોકોમાં પ્રશ્નો ઉભા થયા હતા. શું દાઉદ ઇબ્રાહિમ ખરેખર અંતિમ શ્વાસ લઈ રહ્યો છે? તાજેતરમાં, એક જાણીતા પત્રકારે આ વાતનો ખુલાસો કર્યો છે, અને તેમનું નિવેદન સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/the-truth-about-the-bade-saheb-of-dhurandhar-2-is-the-biggest-face-of-the-underworld-really-taking-his-last-breath-the-fact-has-come-to-light-471062 ",
+    "time": "2026-04-01T09:09:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "800 વિકેટ અને 22 વખત 10-10 શિકાર... ક્રિકેટનો એ &amp;#039;અજેય&amp;#039; રેકોર્ડ જેને તોડવો છે અશક્ય, બેટ્સમેનો માટે કાળ હતો આ મહાન બોલર",
+    "desc": "ટેસ્ટ ક્રિકેટ એ ક્રિકેટનું સૌથી જૂનું ફોર્મેટ છે. આ ફોર્મેટમાં જો સૌથી ઘાતક અને સફળ કોઈ બોલર થયો હોય તો તે એક શ્રીલંકન છે, જેણે પોતાના કરિયરમાં એકથી ચઢિયાતા એક રેકોર્ડ બનાવ્યા છે. આ દિગ્ગજે ટેસ્ટ મેચમાં 22 વખત 10-10 વિકેટ લેવાની કમાલ પોતાના નામે કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/muttiah-muralitharans-record-of-800-test-wickets-and-22-ten-wicket-hauls-471061 ",
+    "time": "2026-04-01T08:54:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "એક ઝટકે સોના ચાંદીના ભાવમાં મોટો વધારો, અમદાવાદ-વડોદરા સહિત શહેરોમાં શું છે ભાવ? જાણો આજનો લેટેસ્ટ રેટ",
+    "desc": "સોના અને ચાંદીના ભાવમાં આજે ઉછાળો જોવા મળ્યો છે. સોનું અઢી હજાર જેટલું અને ચાંદી 9 હજાર જેટલી મોંઘી થઈ છે. શેરબજારમાં પણ આજે ફુલ ગુલાબી તેજી જોવા મળી. જો તમે સોનું ચાંદી ખરીદવાનું વિચારતા હોવ તો ફટાફટ આજના લેટેસ્ટ રેટ ખાસ ચેક કરો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-jump-in-gold-and-silver-prices-today-what-is-the-price-in-your-city-check-mcx-ibja-latest-rates-471060 ",
+    "time": "2026-04-01T08:23:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કુવૈતથી આવી ‘મોતની ફ્લાઇટ’! 20 ભારતીયોના તાબૂત ઉતરતા જ કોચી એરપોર્ટ પર માતમ છવાયો",
+    "desc": "છેલ્લા કેટલાક દિવસોમાં કુવૈતમાં અલગ-અલગ સ્થિતિઓમાં મૃત્યુ પામેલા ઓછામાં ઓછા 20 ભારતીયોના પાર્થિવ દેહ મંગળવારે એક સ્પેશિયલ વિમાન દ્વારા કોચી પહોંચ્યા હતા. કુવૈત એરવેઝનું આ વિમાન રાત્રે અંદાજે 10.40 વાગ્યે કોચી ઈન્ટરનેશનલ એરપોર્ટ (CIAL) પર ઉતરાણ કર્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/aircraft-carrying-mortal-remains-of-20-indians-dead-reaches-kerala-from-kuwait-471059 ",
+    "time": "2026-04-01T08:18:01.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "મિડલ ઈસ્ટ યુદ્ધમાં અમેરિકાથી અલગ થયું ઇઝરાયલ ? ટ્રમ્પના નિવેદન બાદ નેતન્યાહૂની મોટી જાહેરાત",
+    "desc": "ઈરાન, ઇઝરાયલ અને અમેરિકા વચ્ચેનો સંઘર્ષ હવે નિર્ણાયક તબક્કાની નજીક પહોંચી રહ્યો છે. એક તરફ ડોનાલ્ડ ટ્રમ્પે સંકેત આપ્યો છે કે તેઓ આ યુદ્ધમાંથી ખસી જવા માટે તૈયાર છે, ભલે કોઈ ડીલ થાય કે ન થાય. બીજી તરફ નેતન્યાહૂએ સ્પષ્ટ કર્યું છે કે ઇઝરાયલ જ્યાં સુધી ઈરાનના આતંકી શાસનને ખતમ ના કરે ત્યાં સુધી તેના હુમલા ચાલુ રાખશે. ત્યારે સવાલ એ થઈ રહ્યો છે કે શું ઇઝરાયલ આ યુદ્ધમાં એકલું પડી રહ્યું છે ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/israel-splits-with-america-is-netanyahu-being-isolated-in-middle-east-war-471057 ",
+    "time": "2026-04-01T08:06:19.000Z"
+  },
+  {
+    "cat": "World",
     "title": "લો બોલો! હવે મહા સુનામી&amp;#039;નો ખતરો! UNESCO ની ચેતવણીએ લોકોને ડરાવ્યા, જાણો કયા શહેરો છે &amp;#039;ડેન્જર ઝોન&amp;#039; માં?",
     "desc": "યુનેસ્કો (UNESCO) એ એક એવી ચેતવણી જાહેર કરી છે, જેણે ભૂમધ્ય સમુદ્ર (Mediterranean Sea)ના કિનારે વસેલા દેશોની ઊંઘ ઉડાવી દીધી છે. વૈજ્ઞાનિકોનું કહેવું છે કે આગામી 30 વર્ષમાં આ વિસ્તારમાં ભયાનક સુનામી આવવાની શક્યતા છે. આ એક કડવું સત્ય છે, જેના માટે વિશ્વ હજુ તૈયાર નથી.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -369,15 +441,6 @@ const newsData_gu = [
     "time": "2026-03-30T09:40:11.000Z"
   },
   {
-    "cat": "World",
-    "title": "વૈજ્ઞાનિકોએ શોધી કાઢ્યો &amp;#039;નરકનો બગલો&amp;#039;! 9.5 કરોડ વર્ષ પહેલાં ધરતી પર કરતો રાજ, જાણો આ નવા &amp;#039;દાનવ&amp;#039;નું સત્ય",
-    "desc": "ઇતિહાસના પાનાઓએ એક શિકારીનો ચહેરો ઉજાગર કર્યો છે જે વૈજ્ઞાનિકો નરકના હેરોન તરીકે ઓળખાવી રહ્યા છે, જેનો અર્થ \"નરકનો બગુલા\" થાય છે. સહારા રણમાં મળેલા હાડકાના અવશેષોએ ડાયનાસોરની એક નવી પ્રજાતિનો ખુલાસો કર્યો છે જે ફક્ત જમીન પર જ નહીં પરંતુ પાણીમાં પણ મોતનું બીજું નામ હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/hell-heron-95-million-year-old-new-dinosaur-species-found-in-the-sahara-desert-470761 ",
-    "time": "2026-03-30T09:30:55.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "પેટ્રોલ કે ઇલેક્ટ્રિક... કયું સ્કૂટર ખરીદવું ? જો તમને પણ છે આ સવાલ તો જાણી લો જવાબ",
     "desc": "જો તમે 2026માં નવું સ્કૂટર ખરીદવાનું વિચારી રહ્યા છો, તો તમારી પાસે બે વિકલ્પો છે. હવે તમે પેટ્રોલ અથવા બેટરીથી ચાલતું ઇલેક્ટ્રિક સ્કૂટર પસંદ કરી શકો છો. જો કે, પ્રશ્ન એ રહે છે કે લાંબા ગાળે કયું સ્કૂટર વધુ ફાયદાકારક સાબિત થશે ? ત્યારે આજે અમે તમને આ લેખમાં પ્રાઇસ, મેન્ટેનન્સ અને રનિંગ કોસ્ટની દ્રષ્ટિએ જણાવીશું કે કયું સ્કૂટર બેસ્ટ છે.",
@@ -385,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/electric-vs-petrol-scooter-price-running-cost-and-maintenance-comparison-470741 ",
     "time": "2026-03-30T08:22:42.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "યુદ્ધ ઈરાન-અમેરિકાનું પણ મરો UAEનો? જો જંગમાં કૂદી પડ્યું તો દુબઈ-અબુધાબીનો ખુડદો બોલાશે, જાણો કોણ આપી ચેતવણી?",
-    "desc": "જ્યારથી ઈરાન અને ઈઝરાયેલ અમેરિકા વચ્ચે યુદધ શરૂ થયું છે ત્યારથી ઈરાને તેના પર થયેલા હુમલાનો બદલો ફક્ત ઈઝરાયેલ પર હુમલા કરીને લીધો એવું નથી પરંતુ તેણે મિડલ ઈસ્ટમાં અમેરિકાના સાથી દેશો ઉપર પણ હુમલા કર્યા. જેમાં યુએઈ અને સાઉદી અરેબિયાનો કચ્ચરઘાણ કાઢી નાખ્યો. ત્યારે બધાને એમ થાય છે કે આખરે યુએઈ આ હુમલાનો જવાબ કેમ આપતું નથી.? હવે અમેરિકી અર્થશાસ્ત્રીએ જે કહ્યું તે જાણીએ તો આ સવાલનો કઈક જવાબ મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-economist-jeffrey-sachs-warning-if-uae-enters-into-war-dubai-could-be-blown-up-world-news-in-gujarati-470739 ",
-    "time": "2026-03-30T08:10:59.000Z"
   },
   {
     "cat": "Politics",
@@ -412,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/case-over-5-paise-dragged-on-for-40-years-delhi-bus-conductors-story-moves-people-to-tears-470724 ",
     "time": "2026-03-30T06:52:11.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel US War: ઈરાનના હુમલાથી ઈઝરાયેલમાં મચી તબાહી, ગેસ કાંડની આશંકા, કેમિકલ પ્લાન્ટ તબાહ",
-    "desc": "ઈઝરાયેલમાં કૃષિ રસાયણો અને પાક સુરક્ષાની સામગ્રી બનાવતી કંપની ADAMAના મખ્તેશિમ પ્લાન્ટ પર હુમલાના સમાચાર છે. જો કે અહીં ઈરાને છોડેલી સીધી મિસાઈલ પડી કે પછી ઈન્ટરસેપ્ટ કરાયેલી મિસાઈલનો કાટમાળ પડ્યો તે અંગે તપાસ ચાલુ છે. વધુ વિગતો માટે વાંચો અહેવાલ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/big-news-adama-chemical-plant-by-iranian-missile-or-debris-fears-of-gas-disaster-470679 ",
-    "time": "2026-03-30T03:23:40.000Z"
   },
   {
     "cat": "Sports",
@@ -531,15 +576,6 @@ const newsData_gu = [
     "time": "2026-03-27T07:12:58.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "પાકિસ્તાનની ગજબ બેઇજ્જતી ! PSLમાં ચાલુ મેચે બદલાઈ ગયો બોલનો રંગ, કારણ જાણીને ચોંકી જશો",
-    "desc": "પાકિસ્તાન સુપર લીગ 2026ની પહેલી જ મેચ દરમિયાન PCBની જોરદાર મજાક ઉડી હતી. લાહોર કલંદર્સ અને હૈદરાબાદ કિંગ્સમેન વચ્ચેની મેચ દરમિયાન બોલનો રંગ અચાનક બદલાઈ ગયો હતો. સફેદ બોલ ગુલાબી થઈ ગયો હતો. ત્યારે આવું કેવી રીતે થયું તે અંગે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/psl-2026-ball-color-change-white-turns-to-pink-know-why-470266 ",
-    "time": "2026-03-27T06:36:24.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ધુરંધર 3 આવશે કે નહીં થઈ ગયું કંફર્મ, તમે પણ જાણો ધુરંધર ફિલ્મના ત્રીજા પાર્ટ અંગેનું અપડેટ",
     "desc": "ધુરંધર અને ધુરંધર 2 બંને ફિલ્મોને પબ્લિક તરફથી જોરદાર રિસ્પોન્સ મળ્યો છે. તેવામાં ધુરંધર 3 ફિલ્મ આવશે કે નહીં આવે તે ચર્ચાએ જોર પકડ્યું છે. વાત એવી પણ છે કે જૂન મહિનામાં ફિલ્મનો 3 પાર્ટ આવશે. તો ચાલો તમને આ અંગેની હકીકત શું છે તે જણાવીએ.",
@@ -583,24 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/he-wont-let-me-live-monalisa-bhosle-accuses-director-sanoj-mishra-of-assault-470044 ",
     "time": "2026-03-25T07:15:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "બાદશાહે કર્યા બીજા લગ્ન! છૂટાછેડા લીધાના 6 વર્ષ પછી, આ પંજાબી એક્ટ્રેસ સાથે કર્યા લગ્ન, જાણો",
-    "desc": "રેપર બાદશાહે બીજા લગ્ન કર્યા છે. 6 વર્ષ પહેલાં, તેની પહેલી પત્ની જાસ્મીન મસીહને છૂટાછેડા આપી દીધા હતા. જો કે, હવે તેણે આ પંજાબી અભિનેત્રી સાથે લગ્ન કર્યા છે. આ સમારોહ ખૂબ જ ખાનગી હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/badshah-got-married-in-a-big-way-six-years-after-his-divorce-he-got-married-again-to-this-punjabi-actress-469942 ",
-    "time": "2026-03-24T10:23:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "તારક મહેતા....સિરીયલનો આ કલાકાર ધૂરંધર-2નો મોટો ગેમ ચેન્જર સાબિત થયો, રણવીર સિંહને પણ પાછળ પાડ્યો",
-    "desc": "ધૂરંધર 2 ફિલ્મ જ્યારથી રિલીઝ થઈ છે ત્યારથી બોક્સ ઓફિસ પર સુનામી બનીને ફરી વળી છે. આ ફિલ્મે સફળતાના તમામ રેકોર્ડ તોડ્યા છે. પરંતુ શું તમને ખબર છે કે આ ફિલ્મમાં તારક મહેતા...સિરીયલના એક કલાકારે રણવીર સિંહ સહિત તમામ કલાકારોને પાછળ પાડી દીધા?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/tmkoc-serial-actor-proved-to-be-a-big-game-changer-for-dhurandhar-2-even-beating-ranveer-singh-469898 ",
-    "time": "2026-03-24T06:18:26.000Z"
   },
   {
     "cat": "Tech",

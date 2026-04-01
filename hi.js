@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India to tour Zimbabwe after England tour for three T20Is, schedule announced",
+    "desc": "Team India will tour Zimbabwe in July this year for three T20Is, the BCCI confirmed today while announcing the schedule officially as well. These matches come amid a packed international schedule for the men in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-to-tour-zimbabwe-after-england-tour-for-three-t20is-schedule-announced-2026-04-01-1035896",
+    "time": "2026-04-01T08:26:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Amelia Kerr's record 179* helps New Zealand break India's world record in Women's ODI cricket",
+    "desc": "Amelia Kerr and New Zealand Women were busy breaking records in the second ODI against South Africa on Wednesday at the Basin Reserve in Wellington. They chased down 347 runs successfully on the back of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/amelia-kerr-s-record-179-helps-new-zealand-break-india-s-world-record-in-women-s-odi-cricket-2026-04-01-1035883",
+    "time": "2026-04-01T07:14:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Did Ravindra Jadeja cry on the field during IPL 2026 clash vs CSK? Viral video sparks discussion among fans",
     "desc": "The Rajasthan Royals vs Chennai Super Kings clash on Monday in the ongoing Indian Premier League (IPL) season made a lot of fans emotional. While Ravindra Jadeja was playing for the Royals, Sanju Samson turned...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-decodes-reason-behind-gujarat-titans-defeat-to-punjab-kings-in-ipl-2026-2026-03-31-1035823",
     "time": "2026-03-31T18:23:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ryan Williams set new record as India beat Hong Kong in final AFC Asian Cup qualifier match",
-    "desc": "India signed off from their AFC Asian Cup qualifying campaign with a win, overcoming Hong Kong 2-1 in Kochi. The match belonged to debutant Ryan Williams, who wasted little time in making an impression, finding...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/ryan-williams-set-new-record-as-india-beat-hong-kong-in-final-afc-asian-cup-qualifier-match-2026-03-31-1035820",
-    "time": "2026-03-31T18:08:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Mayank Yadav play in LSG's IPL 2026 opener against DC? Head coach Langer reveals",
-    "desc": "Mayank Yadav's fitness has been a major area of focus for the Lucknow Super Giants as the tearaway fast bowler has been pegged back by injuries in the last couple of seasons. The thunderbolt speedster...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-mayank-yadav-play-in-lsgs-ipl-2026-opener-against-dc-head-coach-langer-reveals-2026-03-31-1035819",
-    "time": "2026-03-31T17:58:11.000Z"
   }
 ];
