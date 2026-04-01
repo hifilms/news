@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "કેન્દ્રીય કર્મચારીઓ માટે મોટા સમાચાર, એપ્રિલમાં થઈ શકે છે DA વધારાની જાહેરાત! 3 મહિનાનું એરિયર પણ મળશે",
+    "desc": "કેન્દ્રીય કર્મચારીઓ વર્ષ 2026 ના પ્રથમ છ મહિના એટલે કે જાન્યુઆરીથી જૂન સુધીના DAની રાહ જોઈ રહ્યા છે. હાલમાં કેન્દ્રીય કર્મચારીઓને 58% DA મળી રહ્યું છે. જાન્યુઆરી 2026થી DAમાં અંદાજે 2 થી 3%ના વધારાની અપેક્ષા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-news-for-central-employees-da-increase-may-be-announced-in-april-3-months-arrears-will-also-be-available-471108 ",
+    "time": "2026-04-01T13:05:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IOCLએ પેટ્રોલમાં 11 રૂપિયા તો shellએ પેટ્રોલમાં 7 અને ડીઝલમાં 25 રૂપિયા વધાર્યા, એપ્રિલના પહેલા દિવસે જ હોળી",
+    "desc": "સરકારે ભલે એક્સાઈઝ ડ્યૂટીમાં 10 રૂપિયાનો ઘટાડો કર્યો પણ નાયરા, IOCL અને શેલે પેટ્રોલ અને ડીઝલના ભાવમાં વધારો કરી દીધો છે. IOCLએ પ્રીમિયમ પેટ્રોલમાં 11 રૂપિયાનો તો શેલે નોર્મલ પેટ્રોલમાં 7 રૂપિયા અને ડીઝલમાં 25 રૂપિયાનો વધારો કર્યો છે. આ પહેલાં શેલે પેટ્રોલના ભાવમાં 5 રૂપિયાનો વધારો કર્યો હતો. એકાએક ભાવ વધારાને પગલે દેશભરના વાહનચાલકોને ઝટકો લાગ્યો છે. ગુજરાતમાં શેલનું પેટ્રોલ ભરાવવા જાઓ છો તો જરા ભાવ ચેક કરી લેજો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-hike-by-iocl-shell-and-nayara-energy-1st-april-2026-471106 ",
+    "time": "2026-04-01T12:27:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "આજથી ટાટાની કાર થઈ મોંઘી... જાણો પંચ, નેક્સોન, હેરિયર અને ટિયાગોની નવી કિંમતો",
+    "desc": "આજથી એટલે કે 1 એપ્રિલથી ટાટા મોટર્સની કાર ખરીદવી વધુ મોંઘી થઈ ગઈ છે. કંપનીએ અગાઉ તેના વાહનોના ભાવમાં વધારો કરવાનો ઇરાદો જાહેર કર્યો હતો. હવે તેના વિવિધ મોડેલોમાં ભાવ વધારા અંગેની ચોક્કસ વિગતો પણ જાહેર કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/tata-car-price-hike-april-2026-tata-nexon-punch-tiago-harrier-471093 ",
+    "time": "2026-04-01T11:05:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ઘરમાં કેટલા LPG સિલેન્ડર રાખી શકાય ? લિમિટ કરતા વધુ રાખ્યા તો થઈ શકે છે જેલ, જાણી લો નિયમ",
+    "desc": "સરકારે ઘરમાં LPG સિલિન્ડર રાખવાની સંખ્યા અંગે એક નિર્ધારિત મર્યાદા નક્કી કરી છે. સામાન્ય રીતે એક જ ઘરેલું કનેક્શનમાં બે સિલિન્ડર રાખવાની મંજૂરી આપવામાં આવે છે. આ જરૂરિયાત કરતાં વધુ સિલિન્ડર રાખવા એ સંગ્રહખોરી ગણી શકાય, જેના કારણે કડક કાનૂની કાર્યવાહી, દંડ અને જેલ પણ થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lpg-cylinders-storage-rules-in-india-how-many-gas-cylinders-allowed-in-home-471090 ",
+    "time": "2026-04-01T10:11:25.000Z"
+  },
+  {
     "cat": "World",
     "title": "મિડલ ઈસ્ટમાં યુદ્ધ મુદ્દે શું કઈંક મોટું થવાનું છે? ઉપરાછાપરી 3 શક્તિશાળી રાષ્ટ્રાધ્યક્ષોનું રાષ્ટ્રને સંબોધન",
     "desc": "ઈરાન અને ઈઝરાયેલ અમેરિકા વચ્ચેનું યુદ્ધ બંધ થવાનું નામ લેતું નથી. મિડલ ઈસ્ટમાં દિવસેને દિવસે સ્થિતિ ગંભીર બની રહી છે. આ બધા વચ્ચે ત્રણ દેશોના પ્રમુખોના દેશને નામ સંબોધન કઈક મોટું થવાના એંધાણ વ્યક્ત કરી રહ્યા છે. જાણો વિગતો.",
@@ -369,15 +405,6 @@ const newsData_gu = [
     "time": "2026-03-30T13:12:08.000Z"
   },
   {
-    "cat": "Business",
-    "title": "મોબાઇલ નેટવર્કની જેમ, તમારું બેંક ખાતું પણ થશે સ્વિચ, RBIની મોટી તૈયારી",
-    "desc": "RBI પેમેન્ટ્સ સ્વિચિંગ સર્વિસ (PaSS) નામની એક નવી સિસ્ટમ વિકસાવી રહી છે. બેંક એકાઉન્ટ સ્વિચ કરવું હવે મોબાઇલ નેટવર્ક પોર્ટેબિલિટી જેવું જ હશે. હાલમાં, મોટાભાગના બેંક ગ્રાહકો માટે બેંક એકાઉન્ટ સ્વિચ કરવું એક જટિલ પ્રક્રિયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/like-mobile-networks-your-bank-account-will-also-be-switched-rbi-big-preparation-470825 ",
-    "time": "2026-03-30T13:07:35.000Z"
-  },
-  {
     "cat": "World",
     "title": "દુનિયામાં કોની પાસે છે સૌથી વધુ યુરેનિયમ ? આ 5 દેશો પાસે છે પરમાણુ શક્તિનો ખજાનો",
     "desc": "દુનિયામાં યુરેનિયમની માંગ સતત વધી રહી છે. દરેક દેશ શક્ય તેટલા મોટા યુરેનિયમ ભંડાર પર નિયંત્રણ મેળવવા માટે સ્પર્ધા કરી રહ્યા છે. જે દેશ પાસે પોતાના યુરેનિયમ ભંડાર નથી તેઓ અન્ય દેશો સાથે કરાર કરી રહ્યા છે. ત્યારે એ જાણી લઈએ કે વિશ્વના કયા દેશો પાસે સૌથી વધુ યુરેનિયમ ભંડાર છે.",
@@ -394,24 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/sunidhi-chauhan-first-marriage-bobby-khan-controversy-sunidhi-chauhan-divorce-reason-470804 ",
     "time": "2026-03-30T11:35:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "345 રૂપિયાથી તૂટીને 30 રૂપિયા પર આવી ગયો આ શેર, રોકાણકારોને લાગ્યો ઝટકો",
-    "desc": "વિષ્ણુ પ્રકાશ આર પુંગલિયાના શેર સોમવારે બીએસઈમાં ઈન્ટ્રા ડે દરમિયાન 10 ટકાથી વધુ તૂટી 29.59 રૂપિયા પર પહોંચી ગયા છે. સિવિલ કન્સ્ટ્રક્શન ઈન્ડસ્ટ્રી સાથે જોડાયેલી કંપનીના શેર પોતાના ઓલ ટાઈમ હાઈ લેવલથી 90 ટકાથી વધુ ઘટી ગયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/smallcap-stock-vishnu-prakash-r-punglia-cracked-over-90-percent-dropped-below-30-rupee-from-345-rupee-level-470803 ",
-    "time": "2026-03-30T11:29:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "શેર બજારમાં રોકાણ કરીને કઈ રીતે બની શકાય છે અમીર ? વોરેન બફેટે આપી મહત્વપૂર્ણ ટિપ્સ",
-    "desc": "આજના અસ્થિર બજારોમાં વોરેન બફેટનો આ સીખ વધુ મહત્વપૂર્ણ છે. જ્યારે દરેક વ્યક્તિ ઝડપથી પૈસા કમાવવાનો પ્રયાસ કરી રહ્યો છે, ત્યારે ધીરજ, શિસ્ત અને યોગ્ય તકની રાહ જોવી એ એકમાત્ર બાબતો છે, જે રોકાણકારોને લાંબા ગાળે સફળ બનાવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/how-to-become-rich-by-investing-in-the-stock-market-warren-buffett-gives-important-tips-470802 ",
-    "time": "2026-03-30T11:23:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -457,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/india-16th-census-2026-live-in-relationship-self-enumeration-portal-470729 ",
     "time": "2026-03-30T07:55:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "માત્ર 5 પૈસા માટે 40 વર્ષ સુધી ચાલ્યો કેસ: બસ કંડક્ટરની કહાનીએ લોકોને કર્યા ઈમોશનલ",
-    "desc": "દિલ્હીના એક બસ કંડક્ટરને માત્ર 5 પૈસાના આરોપમાં 40 વર્ષ સુધી કોર્ટના ધક્કા ખાવા પડ્યા. હાલમાં તેમની આ કહાની સોશિયલ મીડિયા પર વાયરલ થઈ રહી છે અને લોકો આપણી ન્યાય વ્યવસ્થા સામે અનેક સવાલો ઉઠાવી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/case-over-5-paise-dragged-on-for-40-years-delhi-bus-conductors-story-moves-people-to-tears-470724 ",
-    "time": "2026-03-30T06:52:11.000Z"
   },
   {
     "cat": "Sports",
@@ -664,14 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/book-lpg-cylinders-from-home-using-whatsapp-call-and-app-get-rid-of-long-queues-469001 ",
     "time": "2026-03-17T14:04:38.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "કાળઝાળ ગરમીમાં આ ટેમ્પરેચર પર રાખો AC, અડધું થઈ જશે વીજળીનું બિલ !",
-    "desc": "ઉનાળાની કાળઝાળ ગરમીમાં એર કંડિશનર (AC) રાહત આપે છે, પરંતુ જ્યારે મહિનાના અંતે વીજળીનું બિલ આવે છે, ત્યારે મોટા ભાગના લોકો પણ પરસેવાથી છુટી જાય છે. લોકો ઘણીવાર એવું માને છે કે જો તેઓ ઠંડક ઇચ્છતા હોય, તો તેમણે મોટું બિલ ચૂકવવું પડશે, પરંતુ આ સંપૂર્ણપણે સાચું નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/keep-the-ac-at-this-temperature-in-the-scorching-heat-your-electricity-bill-will-be-reduced-468905 ",
-    "time": "2026-03-17T03:56:39.000Z"
   }
 ];

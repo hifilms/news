@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "No Arjun Tendulkar, Mayank Yadav to return; LSG's probable Playing XI for IPL 2026 opener vs DC",
+    "desc": "Lucknow Super Giants will be opening their IPL 2026 campaign against Delhi Capitals at the Ekana Cricket Stadium in Lucknow on Wednesday, April 1 as they look for a strong start. After having made it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/no-arjun-tendulkar-mayank-yadav-to-return-lsgs-probable-playing-xi-for-ipl-2026-opener-vs-dc-2026-04-01-1035923",
+    "time": "2026-04-01T12:08:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi left in tears during friendly against Zambia, Argentina pick comfortable 5-0 win",
+    "desc": "An emotional scene unfolded in Buenos Aires as Lionel Messi appeared overwhelmed ahead of what is expected to be his final international appearance on home soil. The occasion, held at La Bombonera, turned into a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-left-in-tears-during-friendly-against-zambia-argentina-pick-comfortable-5-0-win-watch-2026-04-01-1035920",
+    "time": "2026-04-01T11:54:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'No one wants to be benched': Arjun Tendulkar replies to limited opportunities at MI in IPL",
+    "desc": "Arjun Tendulkar, son of legendary cricketer Sachin Tendulkar, is set to begin a new chapter in his Indian Premier League career as he eyes a strong campaign with the Lucknow Super Giants in 2026. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/no-one-wants-to-be-benched-arjun-tendulkar-replies-to-limited-opportunities-at-mi-in-ipl-2026-04-01-1035919",
+    "time": "2026-04-01T11:47:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rishabh Pant vs Nicholas Pooran, who should bat at No.3 for LSG as they open IPL 2026 campaign against DC?",
+    "desc": "Lucknow Super Giants will be opening their IPL 2026 campaign against the Delhi Capitals at the Ekana Cricket Stadium, Lucknow, today, April 1. The Super Giants have put up spirited performances since their debut in 2022,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-vs-nicholas-pooran-who-should-bat-at-no3-for-lsg-as-they-open-ipl-2026-campaign-against-dc-2026-04-01-1035910",
+    "time": "2026-04-01T11:06:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Ekana Stadium in Lucknow play in IPL 2026?",
+    "desc": "Lucknow Super Giants are set to host Delhi Capitals in their opening IPL 2026 game at the Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium in Lucknow. Last year, the Rishabh Pant-led side struggled...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-dc-pitch-report-how-will-surface-at-ekana-stadium-in-lucknow-play-in-ipl-2026-2026-04-01-1035909",
+    "time": "2026-04-01T11:06:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gujarat Titans' batting needs to be structured, reckons former India cricketer after defeat to Punjab",
+    "desc": "Punjab Kings defeated Gujarat Titans by three wickets in their opening game of the IPL 2026. The Shubman Gill-led side had a rough time with the bat, as they struggled to build partnerships. The captain...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-batting-needs-to-be-structured-reckons-former-india-cricketer-after-defeat-to-punjab-2026-04-01-1035905",
+    "time": "2026-04-01T10:34:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India to tour Zimbabwe after England tour for three T20Is, schedule announced",
     "desc": "Team India will tour Zimbabwe in July this year for three T20Is, the BCCI confirmed today while announcing the schedule officially as well. These matches come amid a packed international schedule for the men in...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-becomes-first-captain-to-be-fined-in-ipl-2026-know-reason-here-2026-04-01-1035864",
     "time": "2026-04-01T05:15:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Glenn Maxwell omitted as Cricket Australia announces central contracts for 2026-27 season",
-    "desc": "Cricket Australia, today, announced the list of centrally contracted players for the 2026-27 season. They have dropped Glenn Maxwell from the previous list, who has had a lean run at the international level in white-ball...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/glenn-maxwell-omitted-as-cricket-australia-announces-central-contracts-for-2026-27-season-2026-04-01-1035862",
-    "time": "2026-04-01T04:45:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Full list of 48 qualified teams, finalised groups after UEFA Qualifiers final",
-    "desc": "The upcoming FIFA World Cup in the USA, Mexico and Canada will see 48 teams participating for the first time in history. For the first time, teams from all seven continents will be taking the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-full-list-of-48-qualified-teams-finalised-groups-after-uefa-qualifiers-final-2026-04-01-1035851",
-    "time": "2026-04-01T03:32:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No Robert Lewandowski at FIFA World Cup 2026 as Poland go down to Sweden in dramatic finish",
-    "desc": "Robert Lewandowski will be missed at the upcoming FIFA World Cup, as Poland failed to qualify after losing to Sweden in the playoff final at the Strawberry Arena on Tuesday. It was a dramatic finish...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/no-robert-lewandowski-at-fifa-world-cup-2026-as-poland-go-down-to-sweden-in-dramatic-finish-2026-04-01-1035843",
-    "time": "2026-04-01T02:10:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Italy fail to qualify for third straight FIFA World Cup after losing to Bosnia in shootout",
-    "desc": "Four-time champions Italy have missed out on qualifying for the FIFA World Cup for the third consecutive edition after losing to Bosnia and Herzegovina in the playoff final in Zenica on Tuesday. With this loss,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/italy-fail-to-qualify-for-third-straight-fifa-world-cup-after-losing-to-bosnia-in-shootout-2026-04-01-1035838",
-    "time": "2026-04-01T01:37:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Cooper Connolly? PBKS star produces stellar knock on IPL debut to take team home vs GT",
-    "desc": "Cooper Connolly stood tall as Punjab Kings defeated Gujarat Titans in a nerve-wracking contest at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh. Chasing 163 and with PBKS losing wickets, Connolly produced a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-cooper-connolly-pbks-star-produces-stellar-knock-on-ipl-debut-to-take-team-home-vs-gt-2026-03-31-1035824",
-    "time": "2026-03-31T18:27:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill decodes reason behind Gujarat Titans' defeat to Punjab Kings in IPL 2026",
-    "desc": "Punjab Kings defeated Gujarat Titans by three wickets in their opening game of the IPL 2026. Cooper Connolly stole the show in the middle, scoring an unbeaten 72 runs off 44 balls as Punjab chased...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-decodes-reason-behind-gujarat-titans-defeat-to-punjab-kings-in-ipl-2026-2026-03-31-1035823",
-    "time": "2026-03-31T18:23:31.000Z"
   }
 ];
