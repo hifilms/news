@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "No Robert Lewandowski at FIFA World Cup 2026 as Poland go down to Sweden in dramatic finish",
+    "desc": "Robert Lewandowski will be missed at the upcoming FIFA World Cup, as Poland failed to qualify after losing to Sweden in the playoff final at the Strawberry Arena on Tuesday. It was a dramatic finish...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/no-robert-lewandowski-at-fifa-world-cup-2026-as-poland-go-down-to-sweden-in-dramatic-finish-2026-04-01-1035843",
+    "time": "2026-04-01T02:10:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Italy fail to qualify for third straight FIFA World Cup after losing to Bosnia in shootout",
+    "desc": "Four-time champions Italy have missed out on qualifying for the FIFA World Cup for the third consecutive edition after losing to Bosnia and Herzegovina in the playoff final in Zenica on Tuesday. With this loss,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/italy-fail-to-qualify-for-third-straight-fifa-world-cup-after-losing-to-bosnia-in-shootout-2026-04-01-1035838",
+    "time": "2026-04-01T01:37:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Who is Cooper Connolly? PBKS star produces stellar knock on IPL debut to take team home vs GT",
     "desc": "Cooper Connolly stood tall as Punjab Kings defeated Gujarat Titans in a nerve-wracking contest at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh. Chasing 163 and with PBKS losing wickets, Connolly produced a...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/south-africa-announce-central-contract-for-players-david-miller-rassie-van-der-dussen-axed-2026-03-31-1035811",
     "time": "2026-03-31T16:55:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where will Rishabh Pant bat in LSG’s IPL 2026 opener against Delhi Capitals? Head coach keeps it mystery",
-    "desc": "In IPL 2025, Lucknow Super Giants captain Rishabh Pant struggled to live up to the expectations, scoring 269 runs in 14 matches at a strike rate of 133.16. For the majority of the tournament, he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-will-rishabh-pant-bat-in-lsgs-ipl-2026-opener-against-delhi-capitals-head-coach-keeps-it-mystery-2026-03-31-1035807",
-    "time": "2026-03-31T15:50:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch FIFA World Cup qualification playoff final in India?",
-    "desc": "Italy look to end their 12-year-long wait for a spot in the FIFA World Cup as they take on Bosnia and Herzegovina in the European playoff final on Tuesday, March 31 (Wednesday as per IST)....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/italy-vs-bosnia-and-herzegovina-when-and-where-to-watch-fifa-world-cup-qualification-playoff-final-in-india-2026-03-31-1035806",
-    "time": "2026-03-31T15:48:44.000Z"
   }
 ];
