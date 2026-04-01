@@ -1,12 +1,192 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "The world’s top-20 would be good. That should be the main plan: Abhay",
+    "desc": "The World No. 25 is pragmatic about his success while acknowledging the role of his coaches Willstrop and Harinderpal; the squash star, who prefers to stay in the present, is keen to participate in big events to maintain consistency",
+    "img": "https://th-i.thgim.com/public/sport/qb1cs8/article70812964.ece/alternates/LANDSCAPE_1200/ABHAY%202%202.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/the-worlds-top-20-would-be-good-that-should-be-the-main-plan-abhay/article70812957.ece",
+    "time": "2026-04-01T18:52:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sohail Khan sells Andheri office space for Rs 5.9 crore",
+    "desc": "Sohail Khan, brother of Salman Khan, has sold a commercial office space in Mumbai’s Andheri West for Rs 5.9 crore, according to property registration documents accessed by Liases and Foras. The transaction was registered on March 27, 2026, with a stamp duty of Rs 35.40 lakh and a registration fee of Rs 30,000 paid.",
+    "img": "https://static.toiimg.com/photo/msid-129960600,imgsize-89024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sohail-khan-sells-andheri-office-space-for-rs-5-9-crore-amid-khan-familys-string-of-real-estate-deals-report/articleshow/129960600.cms",
+    "time": "2026-04-01T18:39:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala Assembly polls 2026",
+    "desc": "Forest Minister A.K. Saseendran, one of the seniormost leaders of the Left Democratic Front (LDF), is contesting from Elathur for the fourth consecutive time. In an interview with The Hindu, he responds to criticism about his decision to contest again instead of making way for a younger candidate, as well as the ongoing protest by a section of upland farmers who have fielded their own candidate against him, citing his alleged failures to address their concerns amid rising human-wildlife conflicts",
+    "img": "https://th-i.thgim.com/public/incoming/kfzei7/article70811691.ece/alternates/LANDSCAPE_1200/01tvkz-aks.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-there-was-no-young-candidate-on-ncps-final-list-to-challenge-my-candidature-in-elathur-ak-saseendran/article70810526.ece",
+    "time": "2026-04-01T18:37:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pant to continue as opener? LSG skipper reveals after defeat",
+    "desc": "Rishabh Pant’s opening gamble failed as he was run out for 7 in a freak dismissal during Lucknow Super Giants’ loss to Delhi Capitals. Calling it a “50-50” decision, Pant said he will still bat in the top order. A brilliant partnership between Sameer Rizvi and Tristan Stubbs sealed the win for DC.",
+    "img": "https://static.toiimg.com/photo/msid-129960187,imgsize-34396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-rishabh-pant-to-continue-as-opener-lsg-skipper-reveals-after-defeat/articleshow/129959412.cms",
+    "time": "2026-04-01T18:21:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Williams’ inclusion a kick in the right direction for the Blue Tigers",
+    "desc": "There is no harm in strengthening a nation’s sporting team by including exceptionally talented players who may have grown up in a different country; the National Sports Policy 2025, which recommends that promising Indian-origin athletes living abroad may be encouraged to come back and play for India, will only make it easier for the federation and the players to make it possible",
+    "img": "https://th-i.thgim.com/public/incoming/nkuvzk/article70811848.ece/alternates/LANDSCAPE_1200/Indian_football_02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/williams-inclusion-a-step-in-the-right-direction-for-the-blue-tigers/article70811650.ece",
+    "time": "2026-04-01T18:20:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka Minister M.B. Patil writes to Centre seeking express train between Bengaluru and Vijayapura",
+    "desc": "With the completion of the 9.6-km double line railway work between Almatti and Wandal, which has been opened for traffic since March 25, Karnataka Minister M.B. Patil has sought the introduction of a long-pending express train service between Bengaluru and Vijayapura",
+    "img": "https://th-i.thgim.com/public/incoming/1tsfns/article70812888.ece/alternates/LANDSCAPE_1200/Karnataka-readyG1HFM2S2O.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-minister-mb-patil-writes-to-centre-seeking-express-train-between-bengaluru-and-vijayapura/article70811702.ece",
+    "time": "2026-04-01T17:57:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rizvi’s unbeaten 70 guides Delhi Capitals to six-wicket victory",
+    "desc": "Sameer Rizvi's spectacular unbeaten 70, coupled with Tristan Stubbs' solid 39*, orchestrated a stunning turnaround for Delhi Capitals. After a disastrous start at 26 for 4, the duo forged an unbroken 119-run partnership to chase down Lucknow Super Giants' 141 with ease, securing a memorable six-wicket victory.",
+    "img": "https://static.toiimg.com/photo/msid-129959511,imgsize-861939.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/lsg-vs-dc-sameer-rizvis-unbeaten-70-guides-delhi-capitals-to-six-wicket-victory/articleshow/129959505.cms",
+    "time": "2026-04-01T17:53:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mahima Chaudhry recalls almost rejecting Big B's Baghban",
+    "desc": "Baghban, directed by Ravi Chopra, remains one of those rare films that continues to divide audiences even decades after its release. While some celebrate the family drama starring Amitabh Bachchan and Hema Malini, others have criticised its messaging over the years. Amid the film’s enduring popularity and debate, Mahima Chaudhry has now revealed that she was initially reluctant to be a part of the project.",
+    "img": "https://static.toiimg.com/photo/msid-129959303,imgsize-116670.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahima-chaudhry-recalls-almost-rejecting-amitabh-bachchans-baghban-opposite-salman-khan-i-went-to-say-no-but-i-couldnt/articleshow/129959303.cms",
+    "time": "2026-04-01T17:47:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "11.94% increase in Excise revenue in Karnataka despite drop in beer sales",
+    "desc": "Karnataka reported 11.94% increase in Excise revenue collection despite a steep drop in the sale of beer, which has been attributed to a long spell of rain coupled with floods and a marginal dip in sale of Indian Made Liquor",
+    "img": "https://th-i.thgim.com/public/incoming/te8yd8/article70812487.ece/alternates/LANDSCAPE_1200/Liquor_02.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/1194-increase-in-excise-revenue-in-karnataka-despite-drop-in-beer-sales/article70812232.ece",
+    "time": "2026-04-01T17:37:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL turns fiery! Prince vs Stubbs faceoff goes viral in LSG vs DC",
+    "desc": "A heated moment between Prince Yadav and Tristan Stubbs grabbed attention during the Lucknow Super Giants vs Delhi Capitals clash, as the two exchanged an intense stare-down. Earlier, Delhi bowled out LSG for 141, with Lungi Ngidi and T Natarajan taking three wickets each. Despite efforts from Mitchell Marsh and Abdul Samad, LSG struggled throughout.",
+    "img": "https://static.toiimg.com/photo/msid-129959089,imgsize-54268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-turns-fiery-prince-yadav-vs-tristan-stubbs-faceoff-goes-viral-in-lsg-vs-dc-watch/articleshow/129958533.cms",
+    "time": "2026-04-01T17:36:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Commercial LPG prices hiked 10%, jet fuel rates up 9% for domestic airlines",
+    "desc": "ATF rates for international flights more than doubled, prompting IndiGo to add a fuel surcharge of ₹10,000 on long-haul routes; Centre says OMCs are still absorbing losses due to the surge in global crude rates",
+    "img": "https://th-i.thgim.com/public/incoming/8a02z3/article70809820.ece/alternates/LANDSCAPE_1200/PTI03_18_2026_000319A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jet-fuel-prices-rise-doubled-commercial-lpg-price-increased/article70809777.ece",
+    "time": "2026-04-01T17:27:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hope for Bengal electors pending under adjudication, but uncertainty over redressal at tribunals",
+    "desc": "West Bengal may see the 2026 Assembly election with far fewer electors than in 2024 Lok Sabha polls (7.60 crore) and 2021 Assembly polls (7.34 crore). Current electoral roll stands at 7.04 crore, including 60 lakh cases under adjudication, with about 40% rejections.",
+    "img": "https://th-i.thgim.com/public/incoming/oze0r0/article70812813.ece/alternates/LANDSCAPE_1200/20260401317L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/hope-for-bengal-electors-pending-under-adjudication-but-uncertainty-over-redressal-at-tribunals/article70812017.ece",
+    "time": "2026-04-01T17:07:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In Bodoland, fight for peace, identity ‘unites’ political rivals BPF and UPPL",
+    "desc": "In the Bodoland Territorial Region, BPF in alliance with the BJP is taking on the UPPL, which till a few months ago was with the saffron party; while the UPPL blames the BPF for communal tension in the region, both concur on the need to protect the Bodo identity and have lasting peace",
+    "img": "https://th-i.thgim.com/public/incoming/iyupt7/article70812779.ece/alternates/LANDSCAPE_1200/PTI08_02_2025_000317B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/assam-assembly/in-bodoland-fight-for-peace-identity-unites-political-rivals-bpf-and-uppl/article70812004.ece",
+    "time": "2026-04-01T17:07:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump says Iranian leader has ‘asked for ceasefire’",
+    "desc": "Iran’s new leader has asked the United States for a ceasefire, U.S. President Donald Trump said in a Truth Social post on Wednesday (April 1). Iran’s foreign ministry spokesperson ‌said Trump’s statement about a ‌ceasefire ⁠request was false and ⁠baseless.",
+    "img": "https://th-i.thgim.com/public/incoming/u3lvt6/article70812801.ece/alternates/LANDSCAPE_1200/2026-04-01T154954Z_103778653_RC2ZFKAGX74H_RTRMADP_3_IRAN-CRISIS-TRUMP-INTERVIEW.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-trump-says-iranian-leader-has-asked-for-ceasefire/article70812799.ece",
+    "time": "2026-04-01T17:07:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "8 women workers killed as truck collides with tempo on Jalna’s Samruddhi highway",
+    "desc": "Eight women workers were killed on the Nagpur-Mumbai Expressway in Jalna district, Maharashtra, after a truck collided with a tempo they were standing in. The truck driver, who changed lanes and struck the tempo from behind, has been taken into custody. Maharashtra Chief Minister Devendra Fadnavis expressed his condolences and announced Rs 5 lakh aid for the deceased's families.",
+    "img": "https://static.toiimg.com/photo/msid-129958009,imgsize-739605.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/maharashtra-8-women-workers-killed-as-truck-collides-with-tempo-on-jalnas-samruddhi-highway/articleshow/129958017.cms",
+    "time": "2026-04-01T16:48:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Very unfortunate': KKR head coach breaks silence on Green workload row",
+    "desc": "Abhishek Nayar has termed Cameron Green’s absence with the ball in IPL 2026 as “unfortunate” due to a back injury but stressed KKR view him as a long-term successor to Andre Russell. Nayar said the franchise invests in players for their overall value, not short-term returns. He also backed Varun Chakaravarthy, saying the spinner is mentally strong and will bounce back despite recent struggles.",
+    "img": "https://static.toiimg.com/photo/msid-129957637,imgsize-95510.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/very-unfortunate-kkr-head-coach-breaks-silence-on-cameron-green-workload-row/articleshow/129956479.cms",
+    "time": "2026-04-01T16:38:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Artemis II, the international space race, and what is at stake for the U.S.",
+    "desc": "If Artemis II and III go as planned and Artemis IV is able to lift off on time, U.S. astronauts could reach the moon’s surface at least two years before China’s mission. However, that depends on many things happening right on schedule — perhaps too many",
+    "img": "https://th-i.thgim.com/public/incoming/be6tyq/article70685324.ece/alternates/LANDSCAPE_1200/NASA_Artemis_Moonshot_06509.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/artemis-ii-the-international-space-race-and-what-is-at-stake-for-the-us/article70806797.ece",
+    "time": "2026-04-01T16:34:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hera Pheri 3 writer Rohan Shankar exits amid legal mess",
+    "desc": "Hera Pheri 3 has been mired in controversy ever since its announcement, leaving fans of Akshay Kumar, Suniel Shetty and Paresh Rawal eagerly waiting but increasingly uncertain about its future. Amid the ongoing legal troubles, writer Rohan Shankar has now shed light on his association with the film and why he is no longer part of it.",
+    "img": "https://static.toiimg.com/photo/msid-129957307,imgsize-130832.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hera-pheri-3-writer-rohan-shankar-exits-amid-legal-mess-if-priyadarshan-sir-is-there-maybe-i-will-be-too/articleshow/129957307.cms",
+    "time": "2026-04-01T16:25:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Refresh, reset — recipe for Connolly’s success",
     "desc": "In the face-off against Gujarat Titans in New Chandigarh on Tuesday, the Punjab Kings batter exhibited why he is a much better player than the recent poor returns suggested. For the 22-year-old, a brief period away from the sport did the trick",
     "img": "https://th-i.thgim.com/public/incoming/fn23b8/article70812166.ece/alternates/LANDSCAPE_1200/37_IPL_TWENTY_20_MATCH_PKBS_GT_31_03_CHANDIGARH.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/refresh-reset-recipe-for-connollys-success/article70812108.ece",
     "time": "2026-04-01T15:57:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "President Murmu, PM Modi among leaders completing self-enumeration",
+    "desc": "President Droupadi Murmu, Vice President C.P. Radhakrishnan, Prime Minister Narendra Modi, and Union Home Minister Amit Shah have all participated in the self-enumeration for Census 2027. This initiative marks the commencement of the first phase, focusing on house listing and housing census, with a 15-day window for self-enumeration in Delhi starting Wednesday.",
+    "img": "https://static.toiimg.com/photo/msid-129956673,imgsize-977731.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/census-2027-begins-president-murmu-pm-modi-among-leaders-completing-self-enumeration/articleshow/129956643.cms",
+    "time": "2026-04-01T15:56:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.K. can lead Strait’s opening, Starmer says, as transatlantic ties fray",
+    "desc": "This is not our war and we will not be drawn into the conflict that is not in our national interest, Starmer said, reiterating U.K.’s position of staying out of the U.S.-Israel war on Iran",
+    "img": "https://th-i.thgim.com/public/incoming/psdwjk/article70811433.ece/alternates/LANDSCAPE_1200/2026-04-01T113046Z_1142139900_RC29GKAIAJ69_RTRMADP_3_IRAN-CRISIS-BRITAIN-STARMER.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/uk-can-lead-straits-opening-starmer-says-as-transatlantic-ties-fray/article70811234.ece",
+    "time": "2026-04-01T15:40:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -16,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/viveck-vaswani-slams-aryan-khans-the-bads-of-bollywood-shah-rukh-khan-came-into-the-industry-with-a-golden-spoon/articleshow/129956151.cms",
     "time": "2026-04-01T15:34:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala likely to see 20% drop in remittances as West Asia war drags on",
-    "desc": "Although the depreciation of the currency against the dollar is expected to cushion short-term impact, Kerala is expected to see at least a 20% decline in remittances this year, especially if the war continues.The ramifications of this crisis could ripple through Kerala’s economy, which heavily relies on these funds.",
-    "img": "https://th-i.thgim.com/public/incoming/hez8kf/article70812358.ece/alternates/LANDSCAPE_1200/IMG_bl18_paying_2_1_SLA1THBO.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-likely-to-see-20-drop-in-remittances-as-west-asia-war-drags-on/article70812146.ece",
-    "time": "2026-04-01T15:26:35.000Z"
   },
   {
     "cat": "Politics",
@@ -99,15 +270,6 @@ const newsData_en = [
     "time": "2026-04-01T14:28:07.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Williams’ inclusion a step in the right direction for the Blue Tigers",
-    "desc": "There is no harm in strengthening a nation’s sporting team by including exceptionally talented players who may have grown up in a different country; the National Sports Policy 2025, which recommends that promising Indian-origin athletes living abroad may be encouraged to come back and play for India, will only make it easier for the federation and the players to make it possible",
-    "img": "https://th-i.thgim.com/public/incoming/nkuvzk/article70811848.ece/alternates/LANDSCAPE_1200/Indian_football_02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/williams-inclusion-a-step-in-the-right-direction-for-the-blue-tigers/article70811650.ece",
-    "time": "2026-04-01T14:15:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Mithun Chakraborty defends 'Dhurandhar 2' amid propaganda criticism",
     "desc": "Veteran actor-politician Mithun Chakraborty has weighed in on the 'Dhurandhar 2' controversy, questioning why his unreleased film 'The Bengal Files' was blocked while 'Dhurandhar 2' faced 'propaganda' accusations only after its release. He highlighted that 'The Bengal Files', based on pre-Independence Noakhali riots, couldn't be released, contrasting it with 'Dhurandhar 2's record-breaking box office success.",
@@ -169,15 +331,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/hitman-to-ro-fit-rohit-sharma-20-augurs-well-for-mumbai-indians/article70811440.ece",
     "time": "2026-04-01T13:24:28.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.K. can lead Strait’s opening, Starmer says, as transatlantic ties fray",
-    "desc": "This is not our war and we will not be drawn into the conflict that is not in our national interest, Starmer said, reiterating U.K.’s position of staying out of the U.S.-Israel war on Iran",
-    "img": "https://th-i.thgim.com/public/incoming/psdwjk/article70811433.ece/alternates/LANDSCAPE_1200/2026-04-01T113046Z_1142139900_RC29GKAIAJ69_RTRMADP_3_IRAN-CRISIS-BRITAIN-STARMER.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/uk-can-lead-straits-opening-starmer-says-as-transatlantic-ties-fray/article70811234.ece",
-    "time": "2026-04-01T13:22:51.000Z"
   },
   {
     "cat": "Sports",
@@ -315,15 +468,6 @@ const newsData_en = [
     "time": "2026-04-01T10:36:01.000Z"
   },
   {
-    "cat": "World",
-    "title": "Artemis II, the international space race, and what is at stake for the U.S.",
-    "desc": "If Artemis II and III go as planned and Artemis IV is able to lift off on time, U.S. astronauts could reach the moon’s surface at least two years before China’s mission. However, that depends on many things happening right on schedule — perhaps too many",
-    "img": "https://th-i.thgim.com/public/incoming/be6tyq/article70685324.ece/alternates/LANDSCAPE_1200/NASA_Artemis_Moonshot_06509.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/artemis-ii-the-international-space-race-and-what-is-at-stake-for-the-us/article70806797.ece",
-    "time": "2026-04-01T10:35:43.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Suryakumar teases Bumrah with Dhurandhar 2 dialogue",
     "desc": "The viral 'Dhurandhar 2' meme, referencing a scene where a character doesn't miss home, has found its way into IPL celebrations. Mumbai Indians' Jasprit Bumrah was playfully teased with the dialogue by Suryakumar Yadav in the locker room after a win, echoing a previous team promotion. This trend began with a meme shared by Bumrah's wife.",
@@ -423,24 +567,6 @@ const newsData_en = [
     "time": "2026-04-01T09:26:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Government tightens oversight of GLP-1 drugs, flags risks amid rising demand; key details",
-    "desc": "The Centre has issued a detailed advisory on GLP-1 receptor agonist drugs, emphasizing their use for type 2 diabetes and obesity must be strictly under medical supervision. Authorities are increasing regulatory surveillance and warning of strict action against violations in their sale or prescription.",
-    "img": "https://static.toiimg.com/photo/msid-129947091,imgsize-1187067.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/government-tightens-oversight-of-glp-1-drugs-flags-risks-amid-rising-demand-key-details/articleshow/129947057.cms",
-    "time": "2026-04-01T09:16:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Megan Thee Stallion sent to the hospital mid Broadway performance",
-    "desc": "During her highly publicized Broadway debut in 'Moulin Rouge! The Musical,' Grammy-winning rapper Megan Thee Stallion faced a health scare that caused her to leave the stage abruptly. Following a swift response from her team, she was taken to a local medical facility for evaluation. Her representatives have shared that they are currently looking into her symptoms.",
-    "img": "https://static.toiimg.com/photo/msid-129946921,imgsize-95936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/megan-thee-stallion-hospitalised-mid-performance-during-broadway-run-of-moulin-rouge-the-musical-team-issues-update/articleshow/129946921.cms",
-    "time": "2026-04-01T09:12:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India’s Zimbabwe tour schedule out: T20I series dates locked",
     "desc": "India's post-T20 World Cup journey begins with a three-match T20I series against Zimbabwe in July 2026, hosted at Harare Sports Club. This tour is part of a packed 2026-27 home season, which also includes series against West Indies, Sri Lanka, and Australia, culminating in the Border-Gavaskar Trophy.",
@@ -459,24 +585,6 @@ const newsData_en = [
     "time": "2026-04-01T09:00:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Samyuktha talks about her role in ’Benz’ to join LCU",
-    "desc": "Actress Samyuktha discusses her upcoming role in 'Benz' and her excitement to join the LCU. Reflecting on her experiences, she shares insights into working with actors like Dhanush and Pawan Kalyan, highlighting their unique approaches. Samyuktha emphasizes her focus on strong scripts and diverse characters, aiming to deliver authentic performances that resonate with her audience.",
-    "img": "https://static.toiimg.com/photo/msid-129946656,imgsize-127404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/samyuktha-talks-about-her-role-in-benz-to-join-lcu-vaathi-actress-reflects-on-working-with-dhanush-and-pawan-kalyan-exclusive/articleshow/129946656.cms",
-    "time": "2026-04-01T08:56:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Uttar Pradesh CM Yogi flags off 250 electric, CNG vehicles; reinforces 'clean, smart, green' vision for Lucknow",
-    "desc": "In a post on X, the chief minister emphasised the progress of Uttar Pradesh towards the goal of 'Zero Waste to Zero Carbon Emissions', crediting the leadership of Prime Minister Narendra Modi for steering the state toward smart and environmentally conscious urbanisation.",
-    "img": "https://static.toiimg.com/photo/msid-129946157,imgsize-66504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/uttar-pradesh-cm-yogi-flags-off-250-electric-cng-vehicles-reinforces-clean-smart-green-vision-for-lucknow/articleshow/129946157.cms",
-    "time": "2026-04-01T08:48:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Ponting once again proved right’: Ashwin on Punjab Kings’ bold call vs GT",
     "desc": "Ravichandran Ashwin lauded Ricky Ponting's team selection after Punjab Kings secured a narrow IPL 2026 victory against Gujarat Titans. Ashwin initially questioned the inclusion of Xavier Bartlett but was proven wrong by the player's crucial batting cameo. Cooper Connolly's debut knock anchored the chase, showcasing his composure under pressure.",
@@ -493,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rs-5000-lagakar-dekho-mohammed-shami-on-sanjiv-goenkas-viral-boundary-talks-with-kl-rahul-rishabh-pant/articleshow/129946285.cms",
     "time": "2026-04-01T08:36:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why farmers, workers and states are pushing back",
-    "desc": "Nearly 27 lakh electricity workers are set to strike nationwide against the proposed Electricity (Amendment) Bill, 2025. The bill aims to introduce competition by allowing multiple distributors in one area, but faces opposition from workers, farmers, and unions concerned about privatization, job losses, and potential tariff hikes.",
-    "img": "https://static.toiimg.com/photo/msid-129946055,imgsize-1315920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/electricity-amendment-bill-2025-why-farmers-workers-and-states-are-pushing-back/articleshow/129945528.cms",
-    "time": "2026-04-01T08:34:11.000Z"
   },
   {
     "cat": "Sports",
@@ -529,24 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/on-global-tensions-and-indias-economy/article70808603.ece",
     "time": "2026-04-01T06:57:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Bas ho gaya': Pant ends Rana-Rathi feud ahead of LSG vs DC clash",
-    "desc": "Rishabh Pant played peacemaker between Nitish Rana and Digvesh Rathi, resolving their on-field spat during the Delhi Premier League. The LSG captain's intervention helped the two cricketers patch things up ahead of the IPL 2026 clash between Lucknow Super Giants and Delhi Capitals. Both teams are looking to improve after missing the playoffs in the previous season.",
-    "img": "https://static.toiimg.com/photo/msid-129944148,imgsize-86600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/bas-ho-gaya-rishabh-pant-ends-nitish-rana-digvesh-rathi-feud-ahead-of-lsg-vs-dc-clash/articleshow/129944016.cms",
-    "time": "2026-04-01T06:49:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer, Neeraj Chopra, Hardik Pandya: Why India’s top stars are becoming their own agents",
-    "desc": "India’s Rs 1,350 crore sports celebrity endorsement market is undergoing a dramatic transformation as elite athletes like Shreyas Iyer, Neeraj Chopra, Hardik Pandya, and Ishan Kishan break away from traditional agencies to assert control over their own brands and careers. By seeing themselves as businesses, these athletes are forming in-house offices and management firms, resulting in endorsement deals that are often up to three times more lucrative than before.",
-    "img": "https://static.toiimg.com/photo/msid-129943371,imgsize-49690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shreyas-iyer-neeraj-chopra-hardik-pandya-why-indias-top-stars-are-becoming-their-own-agents/articleshow/129942828.cms",
-    "time": "2026-04-01T06:16:17.000Z"
   },
   {
     "cat": "World",
@@ -628,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/soccer-infantino-promises-fifa-backing-for-iran-to-play-at-world-cup/article70808750.ece",
     "time": "2026-04-01T01:13:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How a miracle rescued Divya and India from Round 3 disaster",
-    "desc": "R Praggnanandhaa suffered his first defeat at the Candidates after an uncharacteristic opening choice against Javokhir Sindarov. In the women's section, Divya Deshmukh secured a miraculous draw against Aleksandra Goryachkina following a late blunder. Fabiano Caruana and Sindarov lead the open section.",
-    "img": "https://static.toiimg.com/photo/msid-129938956,imgsize-51342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-a-miracle-rescued-divya-deshmukh-and-india-from-round-3-disaster/articleshow/129938932.cms",
-    "time": "2026-04-01T01:12:05.000Z"
   },
   {
     "cat": "Business",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/motorcycling-bezzecchi-wins-usa-grand-prix-to-extend-perfect-start-to-season/article70804580.ece",
     "time": "2026-03-30T19:48:01.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Centre eyes new regulation to cover social media users",
-    "desc": "Govt. may permit I&B Ministry to send takedown notices to individual users for their posts; It includes controversial clause in draft amendment to IT Rules 2021; Internet Freedom Foundation calls it ‘massive expansion of unconstitutional censorship’",
-    "img": "https://th-i.thgim.com/public/incoming/nz9gv/article70804311.ece/alternates/LANDSCAPE_1200/IMG_BL11_Social_media_AI_2_1_0EFIMJ4N.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/centre-eyes-new-regulation-to-cover-social-media-users/article70803459.ece",
-    "time": "2026-03-30T18:31:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Apartment sales fell by 13% YoY and 6% QoQ to 98,761 units in January-March quarter",
-    "desc": "According to NSE-listed real estate data analytics company PropEquity, housing sales fell by 13% YoY and 6% QoQ to 98,761 units while launches fell by 19% YoY and 8% QoQ to 92,411 units in January-March 2026",
-    "img": "https://th-i.thgim.com/public/news/national/puh9wb/article70804432.ece/alternates/LANDSCAPE_1200/iStock-179490416.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/apartment-sales-fell-by-13-yoy-and-6-qoq-to-98761-units-in-january-march-quarter/article70803900.ece",
-    "time": "2026-03-30T17:17:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Sitharaman defends IBC citing higher recoveries and post-resolution performance of firms",
-    "desc": "Replying to the debate on the Insolvency and Bankruptcy (Amendment) Bill 2026 in Lok Sabha, the Finance Minister said the reason for bringing in IBC was not debt recovery, but rather the rescue of viable businesses and addressing their financial stress",
-    "img": "https://th-i.thgim.com/public/incoming/e2troi/article70803507.ece/alternates/LANDSCAPE_1200/PTI03_30_2026_000057B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/nirmala-sitharaman-defends-ibc-citing-higher-recoveries-and-post-resolution-performance-of-firms/article70802678.ece",
-    "time": "2026-03-30T14:11:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "White to take over as junior women’s hockey coach; HI undecided on renewing Sreejesh’s contract",
-    "desc": "There have also been talks of moving Sreejesh to the development side, something the latter is unlikely to accept, given the uncertainty and lack of details around the very role and roadmap of such a team",
-    "img": "https://th-i.thgim.com/public/sport/reqwd3/article70803438.ece/alternates/LANDSCAPE_1200/TIM%20WHITEEE.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/white-to-take-over-as-junior-womens-hockey-coach-hi-undecided-on-renewing-sreejeshs-contract/article70803359.ece",
-    "time": "2026-03-30T14:06:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Lok Sabha passes insolvency law amendments; Sitharaman says Bill will help maximise value for stakeholders",
-    "desc": "Piloting the bill in the Lok Sabha, the Finance Minister said that 12 amendments are being made in the Insolvency and Bankruptcy Code (IBC), which came into force in 2016, that would help maximise the value for stakeholders and improve the governing process itself",
-    "img": "https://th-i.thgim.com/public/incoming/tskb1d/article70802441.ece/alternates/LANDSCAPE_1200/20260330054L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/lok-sabha-passes-insolvency-law-amendments-sitharaman-says-bill-will-help-maximise-value-for-stakeholders/article70802419.ece",
-    "time": "2026-03-30T10:30:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKR captain Rahane hints at Cricket Australia's say in Cameron Green not bowling against MI",
-    "desc": "Green, who was signed by KKR for a record ₹25.20 crore, contributed a quick 18 off 10 balls with the bat, but did not bowl as Mumbai Indian chased down a mammoth target of 220",
-    "img": "https://th-i.thgim.com/public/incoming/iyh408/article70802130.ece/alternates/LANDSCAPE_1200/India_IPL_Cricket_91267.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-kkr-captain-rahane-hints-at-cricket-australias-say-in-cameron-green-not-bowling-against-mi/article70802124.ece",
-    "time": "2026-03-30T09:17:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘There’s always another way’: Rick Allen on survival, drumming and Def Leppard’s first-ever India tour",
-    "desc": "From Hysteria to his India connection, Def Leppard’s legendary one-armed drummer Rick Allen reflects on reinvention, discipline and the enduring pull of rock escapism; the Rock and Roll Hall of Famers conclude their India tour in Bengaluru on March 29",
-    "img": "https://th-i.thgim.com/public/life-and-style/pg2eh9/article70795691.ece/alternates/LANDSCAPE_1200/DSC09119.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/theres-always-another-way-rick-allen-on-survival-drumming-and-def-leppards-first-ever-india-tour/article70792692.ece",
-    "time": "2026-03-28T20:12:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Malavika Sarukkai on her latest Bharatanatyam production ‘Beeja’",
-    "desc": "Malavika Sarukkai’s powerful new choreographic production, Beeja - Earth Seed, transforms the stage into a mirror reflecting our world’s unrest—conflict, climate crisis, and human fragility. Through intricate mudras, evocative narratives, and profound abhinaya, she plants “seeds” of hope amid chaos.",
-    "img": "https://th-i.thgim.com/public/incoming/q1theu/article70792069.ece/alternates/LANDSCAPE_1200/Malavika-Sarukkai-Thumbnail.jpg.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-malavika-sarukkai-on-her-latest-bharatanatyam-production-beeja/article70792076.ece",
-    "time": "2026-03-28T05:25:51.000Z"
   }
 ];

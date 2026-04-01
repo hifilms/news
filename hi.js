@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sanjiv Goenka, Rishabh Pant and Justin Langer in intense chat after LSG's loss to DC in IPL opener",
+    "desc": "Lucknow Super Giants owner Sanjiv Goenka, team captain Rishabh Pant and head coach Justin Langer were seen in an intense chat after the team's loss to Delhi Capitals in their IPL 2026 opener on Wednesday,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanjiv-goenka-rishabh-pant-and-justin-langer-in-intense-chat-after-lsg-s-loss-to-dc-in-ipl-opener-watch-2026-04-02-1035971",
+    "time": "2026-04-01T18:32:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rishabh Pant is not sure if he will open again for LSG, explains Nicholas Pooran's new role in IPL 2026",
+    "desc": "In a very interesting move, Rishabh Pant opened the batting alongside Mitchell Marsh in Lucknow Super Giants’ opening IPL 2026 game against Delhi Capitals. The move didn’t quite go as per the plan, as the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-is-not-sure-if-he-will-open-again-for-lsg-explains-nicholas-pooran-s-new-role-in-ipl-2026-2026-04-01-1035967",
+    "time": "2026-04-01T18:05:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Check standings after one match for every team",
+    "desc": "Delhi Capitals survived a major scare against Lucknow Super Giants in a low-scoring thriller at the Ekana Cricket Stadium as they chase down 142 after being in trouble early in the second innings. From being...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-updated-points-table-after-lsg-vs-dc-clash-check-standings-after-one-match-for-every-team-2026-04-01-1035966",
+    "time": "2026-04-01T18:00:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sameer Rizvi instruments Delhi’s stunning comeback after 26/4, DC beat LSG by six wickets",
+    "desc": "Delhi Capitals delivered a crunch performance in their opening IPL 2026 game against Lucknow Super Giants. The visitors had a sensational start to the game, bundling the Rishabh Pant-led side to 141 runs in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sameer-rizvis-measured-knock-bails-delhi-against-lucknow-natarajan-and-ngidi-star-with-bowl-2026-04-01-1035962",
+    "time": "2026-04-01T17:32:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Eden Gardens in Kolkata play?",
+    "desc": "Kolkata Knight Riders will host Sunrisers Hyderabad on April 2 at the iconic Eden Gardens. Since both teams suffered a defeat in their opening game, the clash holds extreme importance as back-to-back defeats will hurt...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-srh-pitch-report-how-will-surface-at-eden-gardens-in-kolkata-play-2026-04-01-1035960",
+    "time": "2026-04-01T17:20:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan loves leadership, captaincy to have positive effect on him: SRH coach Daniel Vettori",
+    "desc": "Ishan Kishan has been bestowed the responsibility of leading Sunrisers Hyderabad until Pat Cummins isn't fit to play. Kishan has been in top form in the recent times with his bat doing the talking for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-loves-leadership-captaincy-to-have-positive-effect-on-him-srh-coach-daniel-vettori-2026-04-01-1035958",
+    "time": "2026-04-01T17:16:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Nayar defends Cameron Green's selection despite latter not bowling so far in IPL 2026",
+    "desc": "Kolkata Knight Riders and Cameron Green faced plenty of flak after the latter didn’t bowl in the team’s opening game of the season against Mumbai Indians. After the defeat, captain Ajinkya Rahane shared that Cricket...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-nayar-defends-cameron-green-s-selection-despite-latter-not-bowling-so-far-in-ipl-2026-2026-04-01-1035956",
+    "time": "2026-04-01T16:49:07.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PCB issues new guidelines to PSL franchises after team hotel security breach",
     "desc": "The Pakistan Cricket Board (PCB) issued new guidelines to all the Pakistan Super League (PSL) franchises after a security breach in a team hotel that saw Lahore Qalandars skipper Shaheen Shah Afridi being fined by...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-flops-as-opener-falls-victim-to-unfortunate-run-out-against-dc-in-ipl-2026-watch-2026-04-01-1035941",
     "time": "2026-04-01T14:29:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Abishek Porel not playing for DC in IPL 2026 opener against LSG in Lucknow?",
-    "desc": "Abishek Porel missed out as Delhi Capitals open their Indian Premier League 2026 campaign against Lucknow Super Giants at the Ekana Cricket Stadium on Wednesday, April 1. Porel was a regular part of the DC...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-abishek-porel-not-playing-for-dc-in-ipl-2026-opener-against-lsg-in-lucknow-2026-04-01-1035938",
-    "time": "2026-04-01T13:59:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Prithvi Shaw not playing for Delhi Capitals against LSG in IPL 2026?",
-    "desc": "Delhi Capitals have dropped Prithvi Shaw from the opening game against Lucknow Super Giants in the IPL 2026. After missing out on the last season, the opener was bought by DC for INR 75 lakhs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-prithvi-shaw-not-playing-for-delhi-capitals-against-lsg-in-ipl-2026-2026-04-01-1035936",
-    "time": "2026-04-01T13:49:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Mitchell Starc not playing in LSG vs DC IPL 20206 clash in Lucknow?",
-    "desc": "Mitchell Starc missed out as Delhi Capitals take on Lucknow Super Giants in their Indian Premier League 2026 opener at the Ekana Cricket Stadium in Lucknow. Starc is a crucial member of the Capitals' side...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-mitchell-starc-not-playing-in-lsg-vs-dc-ipl-20206-clash-in-lucknow-2026-04-01-1035934",
-    "time": "2026-04-01T13:38:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No Arjun Tendulkar, Mayank Yadav to return; LSG's probable Playing XI for IPL 2026 opener vs DC",
-    "desc": "Lucknow Super Giants will be opening their IPL 2026 campaign against Delhi Capitals at the Ekana Cricket Stadium in Lucknow on Wednesday, April 1 as they look for a strong start. After having made it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/no-arjun-tendulkar-mayank-yadav-to-return-lsgs-probable-playing-xi-for-ipl-2026-opener-vs-dc-2026-04-01-1035923",
-    "time": "2026-04-01T12:08:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi left in tears during friendly against Zambia, Argentina pick comfortable 5-0 win",
-    "desc": "An emotional scene unfolded in Buenos Aires as Lionel Messi appeared overwhelmed ahead of what is expected to be his final international appearance on home soil. The occasion, held at La Bombonera, turned into a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-left-in-tears-during-friendly-against-zambia-argentina-pick-comfortable-5-0-win-watch-2026-04-01-1035920",
-    "time": "2026-04-01T11:54:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'No one wants to be benched': Arjun Tendulkar replies to limited opportunities at MI in IPL",
-    "desc": "Arjun Tendulkar, son of legendary cricketer Sachin Tendulkar, is set to begin a new chapter in his Indian Premier League career as he eyes a strong campaign with the Lucknow Super Giants in 2026. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/no-one-wants-to-be-benched-arjun-tendulkar-replies-to-limited-opportunities-at-mi-in-ipl-2026-04-01-1035919",
-    "time": "2026-04-01T11:47:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant vs Nicholas Pooran, who should bat at No.3 for LSG as they open IPL 2026 campaign against DC?",
-    "desc": "Lucknow Super Giants will be opening their IPL 2026 campaign against the Delhi Capitals at the Ekana Cricket Stadium, Lucknow, today, April 1. The Super Giants have put up spirited performances since their debut in 2022,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-vs-nicholas-pooran-who-should-bat-at-no3-for-lsg-as-they-open-ipl-2026-campaign-against-dc-2026-04-01-1035910",
-    "time": "2026-04-01T11:06:45.000Z"
   }
 ];
