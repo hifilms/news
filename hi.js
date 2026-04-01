@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "PCB issues new guidelines to PSL franchises after team hotel security breach",
+    "desc": "The Pakistan Cricket Board (PCB) issued new guidelines to all the Pakistan Super League (PSL) franchises after a security breach in a team hotel that saw Lahore Qalandars skipper Shaheen Shah Afridi being fined by...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pcb-issues-new-guidelines-to-psl-franchises-after-team-hotel-security-breach-2026-04-01-1035950",
+    "time": "2026-04-01T15:31:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Arjun Tendulkar not playing in LSG vs DC IPL 2026 clash?",
+    "desc": "Arjun Tendulkar could not make his Lucknow Super Giants debut after not being picked for his team's IPL 2026 opener against the Delhi Capitals at the Ekana Cricket Stadium in Lucknow. The junior Tendulkar was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-arjun-tendulkar-not-playing-in-lsg-vs-dc-ipl-2026-clash-2026-04-01-1035946",
+    "time": "2026-04-01T15:00:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rishabh Pant flops as opener, falls victim to unfortunate run-out against DC in IPL 2026",
+    "desc": "In a very interesting move, Rishabh Pant promoted himself to opening in Lucknow Super Giants’ opening IPL 2026 clash against Delhi Capitals. However, the decision didn’t prove fruitful as the southpaw struggled heavily to keep...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-flops-as-opener-falls-victim-to-unfortunate-run-out-against-dc-in-ipl-2026-watch-2026-04-01-1035941",
+    "time": "2026-04-01T14:29:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Abishek Porel not playing for DC in IPL 2026 opener against LSG in Lucknow?",
+    "desc": "Abishek Porel missed out as Delhi Capitals open their Indian Premier League 2026 campaign against Lucknow Super Giants at the Ekana Cricket Stadium on Wednesday, April 1. Porel was a regular part of the DC...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-abishek-porel-not-playing-for-dc-in-ipl-2026-opener-against-lsg-in-lucknow-2026-04-01-1035938",
+    "time": "2026-04-01T13:59:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Prithvi Shaw not playing for Delhi Capitals against LSG in IPL 2026?",
+    "desc": "Delhi Capitals have dropped Prithvi Shaw from the opening game against Lucknow Super Giants in the IPL 2026. After missing out on the last season, the opener was bought by DC for INR 75 lakhs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-prithvi-shaw-not-playing-for-delhi-capitals-against-lsg-in-ipl-2026-2026-04-01-1035936",
+    "time": "2026-04-01T13:49:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Mitchell Starc not playing in LSG vs DC IPL 20206 clash in Lucknow?",
+    "desc": "Mitchell Starc missed out as Delhi Capitals take on Lucknow Super Giants in their Indian Premier League 2026 opener at the Ekana Cricket Stadium in Lucknow. Starc is a crucial member of the Capitals' side...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-mitchell-starc-not-playing-in-lsg-vs-dc-ipl-20206-clash-in-lucknow-2026-04-01-1035934",
+    "time": "2026-04-01T13:38:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "No Arjun Tendulkar, Mayank Yadav to return; LSG's probable Playing XI for IPL 2026 opener vs DC",
     "desc": "Lucknow Super Giants will be opening their IPL 2026 campaign against Delhi Capitals at the Ekana Cricket Stadium in Lucknow on Wednesday, April 1 as they look for a strong start. After having made it...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-vs-nicholas-pooran-who-should-bat-at-no3-for-lsg-as-they-open-ipl-2026-campaign-against-dc-2026-04-01-1035910",
     "time": "2026-04-01T11:06:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Ekana Stadium in Lucknow play in IPL 2026?",
-    "desc": "Lucknow Super Giants are set to host Delhi Capitals in their opening IPL 2026 game at the Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium in Lucknow. Last year, the Rishabh Pant-led side struggled...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-dc-pitch-report-how-will-surface-at-ekana-stadium-in-lucknow-play-in-ipl-2026-2026-04-01-1035909",
-    "time": "2026-04-01T11:06:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Titans' batting needs to be structured, reckons former India cricketer after defeat to Punjab",
-    "desc": "Punjab Kings defeated Gujarat Titans by three wickets in their opening game of the IPL 2026. The Shubman Gill-led side had a rough time with the bat, as they struggled to build partnerships. The captain...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-batting-needs-to-be-structured-reckons-former-india-cricketer-after-defeat-to-punjab-2026-04-01-1035905",
-    "time": "2026-04-01T10:34:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India to tour Zimbabwe after England tour for three T20Is, schedule announced",
-    "desc": "Team India will tour Zimbabwe in July this year for three T20Is, the BCCI confirmed today while announcing the schedule officially as well. These matches come amid a packed international schedule for the men in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-to-tour-zimbabwe-after-england-tour-for-three-t20is-schedule-announced-2026-04-01-1035896",
-    "time": "2026-04-01T08:26:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Amelia Kerr's record 179* helps New Zealand break India's world record in Women's ODI cricket",
-    "desc": "Amelia Kerr and New Zealand Women were busy breaking records in the second ODI against South Africa on Wednesday at the Basin Reserve in Wellington. They chased down 347 runs successfully on the back of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/amelia-kerr-s-record-179-helps-new-zealand-break-india-s-world-record-in-women-s-odi-cricket-2026-04-01-1035883",
-    "time": "2026-04-01T07:14:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Did Ravindra Jadeja cry on the field during IPL 2026 clash vs CSK? Viral video sparks discussion among fans",
-    "desc": "The Rajasthan Royals vs Chennai Super Kings clash on Monday in the ongoing Indian Premier League (IPL) season made a lot of fans emotional. While Ravindra Jadeja was playing for the Royals, Sanju Samson turned...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/did-ravindra-jadeja-cry-on-the-field-during-ipl-2026-clash-vs-csk-viral-video-sparks-discussion-among-fans-2026-04-01-1035871",
-    "time": "2026-04-01T05:55:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer becomes first captain to be fined in IPL 2026, Know reason here",
-    "desc": "Punjab Kings got off to a brilliant start in IPL 2026 as they defeated Gujarat Titans in their opening game by three wickets at Mullanpur in New Chandigarh. However, their skipper, Shreyas Iyer, has been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-becomes-first-captain-to-be-fined-in-ipl-2026-know-reason-here-2026-04-01-1035864",
-    "time": "2026-04-01T05:15:28.000Z"
   }
 ];
