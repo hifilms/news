@@ -126,24 +126,6 @@ const newsData_bn = [
     "time": "2026-03-28T14:29:16.000Z"
   },
   {
-    "cat": "World",
-    "title": "বদলাচ্ছে বাংলাদেশ, গলছে সম্পর্কের বরফ: ক্রিকেটের মহাযজ্ঞ IPL সম্প্রচারে হ্যাঁ বললেন তারেক",
-    "desc": "বিশ্বের সবচেয়ে জনপ্রিয় ফ্র্যাঞ্চাইজি ক্রিকেট লিগ ইন্ডিয়ান প্রিমিয়ার লিগ (আইপিএল) ২০২৬ শুরুর ঠিক আগমুহূর্তে বাংলাদেশের ক্রিকেটপ্রেমীদের জন্য বিরাট সুখবর। দীর্ঘ প্রতীক্ষার অবসান ঘটিয়ে ভারতের এই মেগা ইভেন্টের উপর থেকে সম্প্রচার নিষেধাজ্ঞা তুলে নেওয়ার চূড়ান্ত সিদ্ধান্ত নিয়েছে বাংলাদেশ সরকার। ফলে এখন থেকে বাংলাদেশের দর্শকরা কোনও বাধা ছাড়াই সরাসরি টেলিভিশন পর্দায় আইপিএলের রোমাঞ্চ উপভোগ করতে পারবেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/bangladesh-lifts-ipl-2026-broadcast-ban-government-big-decision-before-season_646476.html ",
-    "time": "2026-03-28T10:18:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "৬,৮৫৫ কোটির অন্ধকার গলিতে কেন্দ্রের সরকারি সংস্থা IFCI: বিরাট দুর্নীতির পর্দাফাঁস",
-    "desc": "দেশের শিল্পের মেরুদণ্ড ছিল যে সংস্থা, আজ সেই IFCI-তেই ৬,৮৫৫ কোটি টাকার তছরুপের অভিযোগ! ৩ জন প্রাক্তন প্রধানের দিকে উঠেছে আঙুল। ৯০ জনের এই তালিকায় আপনার চেনা কোনো বড় কর্পোরেট নাম নেই তো? তদন্তের জালে এবার রাঘববোয়ালরা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/ifci-6855-crore-scam-sfio-investigation-former-directors_646457.html ",
-    "time": "2026-03-28T06:53:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "১৯ বছরে মাথায় টাক, করিশ্মার সঙ্গে বিয়ে ভাঙা থেকে বাবার আশ্রমে চলে যাওয়া- অক্ষয় খান্নার জীবন যেন সিনেমার চেয়েও টানটান",
     "desc": "৫ বছর বয়সে বাবার চলে যাওয়া, ১৯ বছরেই মাথায় টাক, আর একের পর এক ২৩টি ফ্লপ সিনেমা! তবুও দমে যাননি অক্ষয় খান্না। আজ 'ধুরন্ধর'-এর রেহমান ডাকাত হিসেবে তিনি গোটা ভারতের সেনসেশন। অভিনেতার জন্মদিনে ফিরে দেখা হার না মানা এক লড়াকুর গল্প।",
@@ -151,5 +133,14 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/akshaye-khanna-dhurandhar-comeback-struggle-success-story-break-up-with-karisma-kapoor_646450.html ",
     "time": "2026-03-28T05:35:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

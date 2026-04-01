@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Did Ravindra Jadeja cry on the field during IPL 2026 clash vs CSK? Viral video sparks discussion among fans",
+    "desc": "The Rajasthan Royals vs Chennai Super Kings clash on Monday in the ongoing Indian Premier League (IPL) season made a lot of fans emotional. While Ravindra Jadeja was playing for the Royals, Sanju Samson turned...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/did-ravindra-jadeja-cry-on-the-field-during-ipl-2026-clash-vs-csk-viral-video-sparks-discussion-among-fans-2026-04-01-1035871",
+    "time": "2026-04-01T05:55:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shreyas Iyer becomes first captain to be fined in IPL 2026, Know reason here",
     "desc": "Punjab Kings got off to a brilliant start in IPL 2026 as they defeated Gujarat Titans in their opening game by three wickets at Mullanpur in New Chandigarh. However, their skipper, Shreyas Iyer, has been...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/will-mayank-yadav-play-in-lsgs-ipl-2026-opener-against-dc-head-coach-langer-reveals-2026-03-31-1035819",
     "time": "2026-03-31T17:58:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Prasidh's fiery spell goes in vain as Cooper Connolly writes new chapter in IPL folklore as PBKS beat GT",
-    "desc": "Chasing 163 runs, Punjab Kings had everything under control. The weather, however, changed and so did Gujarat Titan’s fortune. In the 13th over of the match, the Shubman Gill-led side introduced Prasidh Krishna, who single-handedly...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/prasidh-s-fiery-spell-goes-in-vain-as-cooper-connolly-writes-new-chapter-in-ipl-folklore-as-pbks-beat-gt-2026-03-31-1035818",
-    "time": "2026-03-31T17:52:31.000Z"
   }
 ];
