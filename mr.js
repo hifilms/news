@@ -7,14 +7,5 @@ const newsData_mr = [
     "src": "abplive.com",
     "url": "https://marathi.abplive.com/news/maharashtra-live-blog-updates-1-april-2026-ashok-kharat-nashik-news-petrol-diesel-shortage-india-devendra-fadnavis-eknath-shinde-sunetra-pawar-maharashtra-politics-donald-trump-iran-israel-america-war-1418475",
     "time": "2026-04-01T00:49:27.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "भोंदू अशोक खरात SIT चौकशीची मोठी अपडेट; मोबाईल मधला डेटा रिकव्हर करण्याचे काम सुरू",
-    "desc": "नाशिकमधील भोंदू अशोक खरातला 1 एप्रिलपर्यंत पोलीस कोठडी सुनावण्यात आली आहे. काल खरातची पोलीस कोठडी संपल्यानंतर त्याला कोर्टात हजर करण्यात आलं. त्यानंतर त्याच्या पोलीस कोठडीत वाढ करण्यात आली. पास अजून पूर्ण न झाल्याचा युक्तिवाद सरकारी वकिलांनी केलाय. तसंच मोबाईलमधला डेटा रिकव्ह करायचा आहे. महिलांना पिण्यासाठी दिलेल्या पाण्याचा तपास करायचा आहे, असाही युक्तिवाद सरकारी वकिलांनी केलाय. दुसरीकडे खरातच्या आर्थिक व्यवहाराची आता ईडीकडून चौकशी होण्याची शक्यता वर्तवली जातेय. याआधी अशोक खरातची एसआयटी आणि आयकर विभागाकडून चौकशी करण्यात आली. त्यानंतर आता ईडीकडूनही चौकशी केली जाण्याची शक्यता वर्तवली जातेय.&nbsp;",
-    "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/30/430c8e4273c9728c04d7e31af0ab23f71774831798790987_original.jpg",
-    "src": "abplive.com",
-    "url": "https://marathi.abplive.com/crime/maharashtra-live-blog-updates-30-march-2026-ashok-kharat-nashik-news-petrol-diesel-shortage-india-devendra-fadnavis-eknath-shinde-sunetra-pawar-maharashtra-politics-donald-trump-iran-israel-america-war-1418194",
-    "time": "2026-03-30T00:51:56.000Z"
   }
 ];

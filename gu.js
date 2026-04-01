@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "19 કિલોના કોર્મશિયલ ગેસ સિલિન્ડરના ભાવમાં 195 રુપિયાનો વધારો, નાના ધંધાર્થીઓને મોટો ઝટકો",
+    "desc": "મિડલ ઈસ્ટના સંઘર્ષની અસર ધીરે ધીરે ભારત પર વર્તાઈ રહી છે. 1 એપ્રિલ 2026 ના રોજથી કોર્મશિયલ એલપીજી સિલિન્ડરના ભાવમાં 195 રુપિયાનો વધારો ઝીંકાયો છે. નવા ભાવ આજથી જ લાગુ થઈ ચુક્યા છે. આ ભાવ વધારો નાના ધંધાર્થીઓ માટે મોટો ઝટકો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/gas-cylinder-price-in-india-19-kg-commercial-gas-cylinder-price-hike-195-rupees-471008 ",
+    "time": "2026-04-01T04:48:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આજથી બધા પેટ્રોલ પંપો પર ફક્ત E20 પેટ્રોલ મળશે, જૂની ગાડીઓ આ ફેરફાર ઝેલી શકશે કે નહીં? તે ખાસ જાણો",
+    "desc": "સરકારે આજથી દેશભરના પેટ્રોલ પંપો માટે ઈ20 પેટ્રોલ ફરજિયાત કરી નાખ્યું છે. એટલે કે હવે પેટ્રોલ પંપો ઈ20 પેટ્રોલ વેચશે. જો તમારી ગાડી 2023 પહેલાની હોય તો તમારે ખાસ તકેદારી રાખવાની જરૂર છે. જાણો તેનાથી થતી સમસ્યાઓના શું ઉપાય છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/from-today-only-e20-petrol-at-all-petrol-pumps-what-will-be-the-impact-on-old-vehicles-471016 ",
+    "time": "2026-04-01T03:52:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સુહાગરાતે આ શું કાંડ કરી નાખ્યો દુલ્હને? લાફાવાળી થઈ ત્યારબાદ પતિનું માથું પણ ફૂટ્યું",
+    "desc": "લગ્ન પ્રસંગ એક એવા વિવાદમાં ફેરવાઈ ગયો કે બે પરિવારની ખુશીઓ વેરવિખેર થઈ ગઈ. લગ્ન બાદ સુહાગરાત પર પતિ અને પત્ની રૂમમાં ગયા અને પછી જે થયું તે કલ્પના બહાર હતું. ત્યારે એવો પણ સવાલ ઉઠે કે મરજી વિરુદ્ધ લગ્ન કરાવવાનો શું અર્થ? જાણો આખરે શું છે મામલો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/suhagrat-turned-into-a-horror-night-for-up-man-got-slapped-also-the-injury-in-head-471027 ",
+    "time": "2026-04-01T03:49:15.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "આવી ગઈ તારીખ, ગુજરાતમાં આ તારીખથી શરૂ થશે વસ્તી ગણતરી; પ્રથમ તબક્કાનું આખું શિડ્યુલ જાહેર, જાણો",
     "desc": "ભારતના રજિસ્ટ્રાર જનરલ મૃત્યુંજય કુમાર નારાયણે જણાવ્યું હતું કે, વસ્તી ગણતરી કરનાર કર્મચારીઓ મકાન નંબર (નગરપાલિકા કે સ્થાનિક સત્તામંડળ દ્વારા અપાયેલ), જનગણના મકાન નંબર અને ફ્લોર, દીવાલ તથા છતના નિર્માણમાં વપરાયેલી મુખ્ય સામગ્રી જેવી વિગતો એકત્રિત કરશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -351,15 +378,6 @@ const newsData_gu = [
     "time": "2026-03-30T07:55:23.000Z"
   },
   {
-    "cat": "Business",
-    "title": "5 વર્ષ નહીં હવે 1 વર્ષમાં ગ્રેચ્યુઇટી, ₹50,000 પગાર હશે તો મળશે ₹28,847, 1 એપ્રિલથી નવો નિયમ લાગૂ",
-    "desc": "1 એપ્રિલથી લાગૂ થઈ રહેલા નવા લેબર કોડ્સથી કર્મચારીઓને મોટો ફાયદો થશે. હવે ગ્રેચ્યુઇટી મેળવવા માટે પાંચ વર્ષની રાહ જોવી પડશે નહીં. હવે જે કર્મચારી 1 વર્ષ નોકરી કરશે તો પણ તેને ગ્રેચ્યુઇટીનો લાભ મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gratuity-rule-change-2026-1-year-eligibility-calculation-salary-benefit-470727 ",
-    "time": "2026-03-30T07:08:51.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "માત્ર 5 પૈસા માટે 40 વર્ષ સુધી ચાલ્યો કેસ: બસ કંડક્ટરની કહાનીએ લોકોને કર્યા ઈમોશનલ",
     "desc": "દિલ્હીના એક બસ કંડક્ટરને માત્ર 5 પૈસાના આરોપમાં 40 વર્ષ સુધી કોર્ટના ધક્કા ખાવા પડ્યા. હાલમાં તેમની આ કહાની સોશિયલ મીડિયા પર વાયરલ થઈ રહી છે અને લોકો આપણી ન્યાય વ્યવસ્થા સામે અનેક સવાલો ઉઠાવી રહ્યા છે.",
@@ -367,51 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/case-over-5-paise-dragged-on-for-40-years-delhi-bus-conductors-story-moves-people-to-tears-470724 ",
     "time": "2026-03-30T06:52:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "યુદ્ધની સ્થિતિમાં પણ સોનું-ચાંદી ગગડ્યા, ગોલ્ડ 40,000 અને ચાંદી 1.93 લાખ સુધી થઈ ચૂક્યા છે સસ્તા",
-    "desc": "સોના અને ચાંદીમાં છેલ્લા કેટલાય સમયથી ભારે ઉથલપાથલ જોવા મળી રહી છે. સતત ભાવમાં ઉતાર ચડાવ જોવા મળી રહ્યો છે. ઈરાન અને ઈઝરાયેલ અમેરિકા વચ્ચે જ્યારથી યુદ્ધ શરૂ થયું છે ત્યારથી લઈને અત્યાર સુધીમાં સોનું 15 ટકા સુધી ગગડી ચૂક્યું છે. આ ઘટાડો વર્ષ 2008 બાદ જોઈએ તો સૌથી મોટો માસિક ઘટાડો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/even-in-a-war-situation-gold-and-silver-rate-fallen-gold-cheaper-by-40000-silver-1-93-lakh-check-details-470723 ",
-    "time": "2026-03-30T06:51:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ઉનાળાનું વેકેશનમાં બહાર ફરવા જવાનું વિચારો છો? તો જાણી લેજો અમદાવાદથી કઈ ટ્રેનમાં કેટલું છે વેઇટિંગ?",
-    "desc": "ઉનાળાના વેકેશનને હવે ગણતરીના દિવસો જ બાકી રહ્યા છે, ત્યારે મુસાફરોએ અત્યારથી જ વતન કે પ્રવાસ પર જવા માટે કમર કસી લીધી છે. જી હા... ઉનાળા વેકેશન શરૂ થવાને હજુ બે સપ્તાહ બાકી છે, પરંતુ અમદાવાદથી ઉત્તર ભારત તરફ જતી લાંબા અંતરની ટ્રેનોમાં અત્યારથી જ સ્થિતિ કપરી બની ગઈ છે. મુસાફરો માટે કન્ફર્મ ટિકિટ મેળવવી જાણે લોઢાના ચણા ચાવવા જેવી સ્થિતિ બની ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/summer-vacation-is-still-two-weeks-away-yet-trains-from-ahmedabad-to-north-india-are-housefull-more-than-100-waiting-470703 ",
-    "time": "2026-03-30T06:32:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;આઈ લવ યુ ડાર્લિંગ&amp;#039; લેડી ડોનનો પોલીસ અધિકારી પર ગંદા મેસેજ કર્યા હોવાનો આરોપ, જાણો શું છે મામલો",
-    "desc": "બેંગ્લુરુથી એક શોકિંગ સમાચાર સામે આવી રહ્યા છે. જ્યાં લેડી ડોને પોલીસ અધિકારી પર અશ્લીલ સંદેશા મોકલવાનો આરોપ લગાવ્યો છે. તેનું એવું પણ કહેવું છે કે આ અધિકારીના 'ગંદા કામ' પર ઢાંક પીછોડો થઈ રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/karnataka-news-lady-don-accuses-police-inspector-of-sending-obscene-message-470700 ",
-    "time": "2026-03-30T05:44:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "હવે ગુજરાતના પેટ્રોલ પંપ પર મળશે કેરોસીન! LPG સંકટ વચ્ચે કેન્દ્ર સરકારનો મોટો નિર્ણય",
-    "desc": "ઈરાન યુદ્ધને પગલે દુનિયાભરમાં તેલ-ગેસ અને LPG નું સંકટ યથાવત છે. ત્યારે આ વચ્ચે ભારત સરકારે એક મોટો નિર્ણય લીધો છે. સરકારે કેરોસીન સાથે જોડાયેલા નિયમોમાં ઢીલ આપી છે. હવે રાજ્યોમાં પેટ્રોલ પંપો પર કેરોસીન મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/amid-energy-crisis-central-government-order-to-sell-kerosine-on-petrol-pumps-470699 ",
-    "time": "2026-03-30T05:04:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારતનું એકમાત્ર રેલવે સ્ટેશન, જ્યાં વર્ષમાં માત્ર બે વખત આવે છે ટ્રેન!",
-    "desc": "આ સ્ટેશન પર વર્ષમાં માત્ર બે વખત ટ્રેન આવે છે. આ સ્ટેશન પોતાના લોકેશનને કારણે પણ ખાસ છે. આ ટ્રેનનો અંતિમ છેડો છે, જેની આગળ કોઈ રેલવે લાઇન નથી. ટ્રેન અહીં પહોંચી પરત ફરી જાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/the-only-railway-station-in-india-trains-come-only-twice-a-year-470698 ",
-    "time": "2026-03-30T04:54:48.000Z"
   },
   {
     "cat": "World",
@@ -574,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/top-3-affordable-7-seater-cars-in-india-list-includes-mahindra-maruti-and-toyota-470200 ",
     "time": "2026-03-26T12:16:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "17 શહેર, 22 મેચ... BCCIએ જાહેર કર્યું ટીમ ઈન્ડિયાનું હોમ શેડ્યૂલ, જાણો અમદાવાદમાં ક્યારે ક્યારે છે મેચ",
-    "desc": "BCCIએ ટીમ ઈન્ડિયાની ઘરેલુ સિઝન 2026-27નું શેડ્યૂલ જાહેર કર્યું છે. આ ઘરેલું સિઝન દરમિયાન ભારતીય ટીમ 17 શહેરોમાં 22 મેચ રમશે. ત્યારે આ દરમિયાન ભારત અમદાવાદમાં કેટલી મેચો રમશે અને ક્યારે ક્યારે રમશે ? તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bcci-announces-team-india-home-season-schedule-470198 ",
-    "time": "2026-03-26T11:50:44.000Z"
   },
   {
     "cat": "Entertainment",

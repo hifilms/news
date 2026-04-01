@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shreyas Iyer becomes first captain to be fined in IPL 2026, Know reason here",
+    "desc": "Punjab Kings got off to a brilliant start in IPL 2026 as they defeated Gujarat Titans in their opening game by three wickets at Mullanpur in New Chandigarh. However, their skipper, Shreyas Iyer, has been...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-becomes-first-captain-to-be-fined-in-ipl-2026-know-reason-here-2026-04-01-1035864",
+    "time": "2026-04-01T05:15:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Glenn Maxwell omitted as Cricket Australia announces central contracts for 2026-27 season",
+    "desc": "Cricket Australia, today, announced the list of centrally contracted players for the 2026-27 season. They have dropped Glenn Maxwell from the previous list, who has had a lean run at the international level in white-ball...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/glenn-maxwell-omitted-as-cricket-australia-announces-central-contracts-for-2026-27-season-2026-04-01-1035862",
+    "time": "2026-04-01T04:45:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Full list of 48 qualified teams, finalised groups after UEFA Qualifiers final",
+    "desc": "The upcoming FIFA World Cup in the USA, Mexico and Canada will see 48 teams participating for the first time in history. For the first time, teams from all seven continents will be taking the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-full-list-of-48-qualified-teams-finalised-groups-after-uefa-qualifiers-final-2026-04-01-1035851",
+    "time": "2026-04-01T03:32:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "No Robert Lewandowski at FIFA World Cup 2026 as Poland go down to Sweden in dramatic finish",
     "desc": "Robert Lewandowski will be missed at the upcoming FIFA World Cup, as Poland failed to qualify after losing to Sweden in the playoff final at the Strawberry Arena on Tuesday. It was a dramatic finish...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/prasidh-s-fiery-spell-goes-in-vain-as-cooper-connolly-writes-new-chapter-in-ipl-folklore-as-pbks-beat-gt-2026-03-31-1035818",
     "time": "2026-03-31T17:52:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Roberto de Zerbi appointed as Tottenham Hotspur coach, has only seven games to save Spurs from relegation",
-    "desc": "Tottenham Hotspur have roped in former Brighton coach Roberto de Zerbi on a lengthy contract. The English giants are currently struggling to find any sort of momentum, fighting to stay in the Premier League. He...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/roberto-de-zerbi-appointed-as-tottenham-hotspur-coach-has-only-seven-games-to-save-spurs-from-relegation-2026-03-31-1035815",
-    "time": "2026-03-31T17:22:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is the longest over bowled in IPL history as Arshdeep Singh delivers 11 balls vs GT in IPL 2026?",
-    "desc": "Arshdeep Singh sent down an 11-ball 20th over in Punjab Kings' IPL 2026 clash against Gujarat Titans at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh and entered the history books with his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-is-the-longest-over-bowled-in-ipl-history-as-arshdeep-singh-delivers-11-balls-vs-gt-in-ipl-2026-2026-03-31-1035813",
-    "time": "2026-03-31T17:15:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa announce central contract for players; David Miller, Rassie van der Dussen axed",
-    "desc": "Cricket South Africa has unveiled its contracted squads for the 2026–27 season, introducing several fresh faces. Among the headline developments is the awarding of first-time national deals to Ottneil Baartman, Corbin Bosch, Matthew Breetzke, Dewald...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-announce-central-contract-for-players-david-miller-rassie-van-der-dussen-axed-2026-03-31-1035811",
-    "time": "2026-03-31T16:55:39.000Z"
   }
 ];
