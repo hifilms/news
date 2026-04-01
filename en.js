@@ -1,12 +1,57 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Ranbir's film called ‘goosebumps-filled’",
+    "desc": "The first glimpse of Ramayana, starring Ranbir Kapoor, has already set social media buzzing even before its official release on Hanuman Jayanti today (April 2). Directed by Nitesh Tiwari and backed by Namit Malhotra, the film also features Sai Pallavi, Yash and Sunny Deol in key roles. A special screening of the glimpse was recently held in Los Angeles, and early reactions have been overwhelmingly positive. The teaser, reportedly 2 minutes and 38 seconds long, is already being described as a “goosebumps-filled” experience, with powerful visuals, scale and background score grabbing attention.",
+    "img": "https://static.toiimg.com/photo/msid-129961979,imgsize-105864.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-teaser-first-reviews-ranbir-kapoor-starrer-called-goosebumps-filled-divine-with-stunning-vfx-and-ar-rahmanhans-zimmer-score/articleshow/129961979.cms",
+    "time": "2026-04-01T21:27:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In Bodoland, fight for peace, identity ‘unites’ political rivals BPF and UPPL",
+    "desc": "In the Bodoland Territorial Region, BPF in alliance with the BJP is taking on the UPPL, which till a few months ago was with the saffron party; while the UPPL blames the BPF for communal tension in the region, both concur on the need to protect the Bodo identity and have lasting peace",
+    "img": "https://th-i.thgim.com/public/incoming/iyupt7/article70812779.ece/alternates/LANDSCAPE_1200/PTI08_02_2025_000317B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/assam-assembly/in-bodoland-fight-for-peace-identity-unites-political-rivals-bpf-and-uppl/article70812004.ece",
+    "time": "2026-04-01T20:54:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "John Abraham renews Bandra Pali Hill lease at Rs 12 lakh/month",
+    "desc": "John Abraham’s firm JA Entertainment Private Limited has renewed the lease of a premium property in Bandra West’s Pali Hill at a monthly rent of Rs 12 lakh, according to property registration documents accessed by Zapkey. The lease for the apartment in Supreme ArtVeda was renewed on February 6, 2026, and is valid for a period of two years.",
+    "img": "https://static.toiimg.com/photo/msid-129961880,imgsize-44512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/john-abraham-renews-bandra-pali-hill-lease-at-rs-12-lakh-per-month-report/articleshow/129961880.cms",
+    "time": "2026-04-01T20:51:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rahul was rescued alive, no doctor was available: Makers",
+    "desc": "The makers of Bengali television serial Bhole Baba Par Karega have issued a statement following the tragic death of actor Rahul Arunoday Banerjee, expressing grief and assuring a transparent inquiry into the incident. Banerjee, 43, passed away on March 29 after allegedly drowning during a shoot at Talsari beach in Odisha’s Baleswar district.",
+    "img": "https://static.toiimg.com/photo/msid-129961497,imgsize-62684.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/rahul-arunoday-banerjee-was-rescued-alive-no-doctor-was-available-bhole-baba-par-karega-makers-break-silence-on-drowning-incident/articleshow/129961497.cms",
+    "time": "2026-04-01T19:41:30.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "The world’s top-20 would be good. That should be the main plan: Abhay",
     "desc": "The World No. 25 is pragmatic about his success while acknowledging the role of his coaches Willstrop and Harinderpal; the squash star, who prefers to stay in the present, is keen to participate in big events to maintain consistency",
-    "img": "https://th-i.thgim.com/public/sport/qb1cs8/article70812964.ece/alternates/LANDSCAPE_1200/ABHAY%202%202.jpg",
+    "img": "https://th-i.thgim.com/public/sport/12j27x/article70812964.ece/alternates/LANDSCAPE_1200/ABHAY%202%202.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/the-worlds-top-20-would-be-good-that-should-be-the-main-plan-abhay/article70812957.ece",
-    "time": "2026-04-01T18:52:18.000Z"
+    "time": "2026-04-01T18:57:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sameer Rizvi reveals what Tristan Stubbs told him during 6-wicket victory",
+    "desc": "Sameer Rizvi's unbeaten 70 guided Delhi Capitals to a six-wicket victory over Lucknow Super Giants. Walking in at 26 for 4, Rizvi, alongside Tristan Stubbs, forged a match-winning 119-run partnership, showcasing remarkable maturity under pressure. The duo's stellar performance secured the chase comfortably.",
+    "img": "https://static.toiimg.com/photo/msid-129960942,imgsize-904409.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/from-26/4-to-145/4-sameer-rizvi-reveals-what-tristan-stubbs-told-him-during-six-wicket-victory/articleshow/129960944.cms",
+    "time": "2026-04-01T18:50:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -106,15 +151,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/west-bengal-assembly/hope-for-bengal-electors-pending-under-adjudication-but-uncertainty-over-redressal-at-tribunals/article70812017.ece",
     "time": "2026-04-01T17:07:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "In Bodoland, fight for peace, identity ‘unites’ political rivals BPF and UPPL",
-    "desc": "In the Bodoland Territorial Region, BPF in alliance with the BJP is taking on the UPPL, which till a few months ago was with the saffron party; while the UPPL blames the BPF for communal tension in the region, both concur on the need to protect the Bodo identity and have lasting peace",
-    "img": "https://th-i.thgim.com/public/incoming/iyupt7/article70812779.ece/alternates/LANDSCAPE_1200/PTI08_02_2025_000317B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/assam-assembly/in-bodoland-fight-for-peace-identity-unites-political-rivals-bpf-and-uppl/article70812004.ece",
-    "time": "2026-04-01T17:07:29.000Z"
   },
   {
     "cat": "World",
@@ -549,24 +585,6 @@ const newsData_en = [
     "time": "2026-04-01T09:40:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "GV Prakash reveals why he didn’t take remuneration for 'Youth'",
-    "desc": "GV Prakash revealed he did not charge for composing music for Ken Karunas' film 'Youth'. He cited his strong friendship with Karunas as the reason for this gesture. Prakash also shared challenges in selling the film's audio rights due to a debut lead actor. He launched his own music label to release the songs, which later became hits.",
-    "img": "https://static.toiimg.com/photo/msid-129947523,imgsize-71744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/gv-prakash-reveals-why-he-didnt-take-remuneration-for-ken-karunaas-youth-friendship-matters-more-than-money/articleshow/129947523.cms",
-    "time": "2026-04-01T09:37:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actor says second baby brings less worry",
-    "desc": "Welcoming the joys of parenthood once again, actor James McAvoy, aged 46, has announced the arrival of his second child with wife Lisa Liberati. Now navigating the whirlwind of raising two kids, McAvoy shares that while the worry has ebbed, the exhaustion has certainly increased.",
-    "img": "https://static.toiimg.com/photo/msid-129947302,imgsize-122292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-mcavoy-welcomes-second-baby-with-wife-lisa-liberati-and-opens-up-on-fatherhood-at-46-i-worry-less-but-im-older-and-tireder/articleshow/129947302.cms",
-    "time": "2026-04-01T09:26:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India’s Zimbabwe tour schedule out: T20I series dates locked",
     "desc": "India's post-T20 World Cup journey begins with a three-match T20I series against Zimbabwe in July 2026, hosted at Harare Sports Club. This tour is part of a packed 2026-27 home season, which also includes series against West Indies, Sri Lanka, and Australia, culminating in the Border-Gavaskar Trophy.",
@@ -664,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/only-a-partial-staggered-increase-government-issues-clarification-on-jet-fuel-price-hike/articleshow/129941683.cms",
     "time": "2026-04-01T05:01:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why has BCCI punished Punjab Kings skipper Shreyas Iyer?",
-    "desc": "Punjab Kings skipper Shreyas Iyer faced a Rs 12 lakh fine for a slow over-rate in their IPL 2026 opener against Gujarat Titans. Despite the disciplinary action, the team secured a thrilling three-wicket victory, thanks to a stellar 72-run debut from Cooper Connolly, who steered them home in a tense chase.",
-    "img": "https://static.toiimg.com/photo/msid-129941934,imgsize-51256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-why-has-bcci-punished-punjab-kings-skipper-shreyas-iyer/articleshow/129941908.cms",
-    "time": "2026-04-01T04:59:30.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/jsw-sports-signs-u19-womens-t20-wc-winning-skipper-niki-prasad/article70804584.ece",
     "time": "2026-03-30T19:57:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Motorcycling-Bezzecchi wins USA Grand Prix to extend perfect start to season",
-    "desc": "Bezzecchi led all 20 laps at the Circuit of the Americas where ‌he crossed the line 2.036 seconds ahead of teammate Jorge Martin. Pedro Acosta, ‌who finished third in Saturday's sprint before ‌a ⁠penalty dropped him to eighth, rounded out ⁠the podium",
-    "img": "https://th-i.thgim.com/public/incoming/svl4ar/article70804581.ece/alternates/LANDSCAPE_1200/2026-03-30T082139Z_561462584_28617167_RTRMADP_3_MOTOR.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/motorcycling-bezzecchi-wins-usa-grand-prix-to-extend-perfect-start-to-season/article70804580.ece",
-    "time": "2026-03-30T19:48:01.000Z"
   }
 ];
