@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "What is Delhi Capitals batter Sameer Rizvi's IPL 2026 salary?",
+    "desc": "Delhi Capitals were 21/2 in the fourth over when Sameer Rizvi came out to bat in the game against Lucknow Super Giants as an impact player in the 5th match of IPL 2026 on Wednesday....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-is-delhi-capitals-batter-sameer-rizvi-s-ipl-2026-salary-2026-04-02-1035996",
+    "time": "2026-04-02T03:52:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "LSG owner Sanjiv Goenka shows 'full confidence' in captain amid viral video with Rishabh Pant after loss to DC",
+    "desc": "Ever since Lucknow Super Giants, Sanjiv Goenka blasted former captain, KL Rahul, during IPL 2024, his every chat with the current captain, Rishabh Pant, and coach, Justin Langer, especially after a loss, goes viral. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lsg-owner-sanjiv-goenka-shows-full-confidence-in-captain-amid-viral-video-with-rishabh-pant-after-loss-to-dc-2026-04-02-1035991",
+    "time": "2026-04-02T02:39:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi Capitals make LSG succumb to their worst performance batting first in IPL history",
+    "desc": "Lucknow Super Giants suffered a defeat in their opening game of the Indian Premier League (IPL) season on Wednesday as they went down to Delhi Capitals at the Ekana Cricket Stadium in Lucknow. Even though...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-make-lsg-succumb-to-their-worst-performance-batting-first-in-ipl-history-2026-04-02-1035989",
+    "time": "2026-04-02T02:04:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sanjiv Goenka, Rishabh Pant and Justin Langer in intense chat after LSG's loss to DC in IPL opener",
     "desc": "Lucknow Super Giants owner Sanjiv Goenka, team captain Rishabh Pant and head coach Justin Langer were seen in an intense chat after the team's loss to Delhi Capitals in their IPL 2026 opener on Wednesday,...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-nayar-defends-cameron-green-s-selection-despite-latter-not-bowling-so-far-in-ipl-2026-2026-04-01-1035956",
     "time": "2026-04-01T16:49:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PCB issues new guidelines to PSL franchises after team hotel security breach",
-    "desc": "The Pakistan Cricket Board (PCB) issued new guidelines to all the Pakistan Super League (PSL) franchises after a security breach in a team hotel that saw Lahore Qalandars skipper Shaheen Shah Afridi being fined by...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pcb-issues-new-guidelines-to-psl-franchises-after-team-hotel-security-breach-2026-04-01-1035950",
-    "time": "2026-04-01T15:31:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Arjun Tendulkar not playing in LSG vs DC IPL 2026 clash?",
-    "desc": "Arjun Tendulkar could not make his Lucknow Super Giants debut after not being picked for his team's IPL 2026 opener against the Delhi Capitals at the Ekana Cricket Stadium in Lucknow. The junior Tendulkar was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-arjun-tendulkar-not-playing-in-lsg-vs-dc-ipl-2026-clash-2026-04-01-1035946",
-    "time": "2026-04-01T15:00:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant flops as opener, falls victim to unfortunate run-out against DC in IPL 2026",
-    "desc": "In a very interesting move, Rishabh Pant promoted himself to opening in Lucknow Super Giants’ opening IPL 2026 clash against Delhi Capitals. However, the decision didn’t prove fruitful as the southpaw struggled heavily to keep...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-flops-as-opener-falls-victim-to-unfortunate-run-out-against-dc-in-ipl-2026-watch-2026-04-01-1035941",
-    "time": "2026-04-01T14:29:16.000Z"
   }
 ];
