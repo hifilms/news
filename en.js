@@ -1,5 +1,230 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Iran-Israel war LIVE: Trump says U.S. has scored 'swift, decisive, overwhelming victories' in Iran",
+    "desc": "Trump says U.S. forces will 'finish the job' in Iran soon, 'core strategic objectives are nearing completion'; Iran's President asked the people of the United States if the West Asia conflict was truly putting \"America First\", accusing the U.S. of war crimes and being influenced by Israel",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/donald-trump-addresses-nation-on-iran-israel-war-live-updates-world-news/article70813995.ece",
+    "time": "2026-04-02T01:57:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kylie Jenner recalls crying watching ‘KUWTK’ with Stormi",
+    "desc": "Recently, Kylie Jenner took a nostalgic trip down memory lane with her 8-year-old daughter, Stormi, by screening an episode of 'Keeping Up With The Kardashians.' As they watched the family stories unfold, Kylie was touched by emotions, realizing how far they’ve come together.",
+    "img": "https://static.toiimg.com/photo/msid-129965143,imgsize-190146.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kylie-jenner-recalls-crying-as-she-watched-an-episode-of-kuwtk-with-daughter-stormi-i-dont-know-what-hit-me/articleshow/129965143.cms",
+    "time": "2026-04-02T01:54:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Buy from US or go take it from the Strait': Trump's suggestion to nations hit by oil shock due to Hormuz crisis",
+    "desc": "US President Donald Trump offered a solution to countries facing fuel shortages. He advised them to purchase oil from the United States. Alternatively, he suggested they take stronger actions to secure their own supplies. Trump stated Iran's military capabilities have been significantly weakened. This comes as the Middle East crisis continues, impacting global energy flows.",
+    "img": "https://static.toiimg.com/photo/msid-129964671,imgsize-649791.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/buy-from-us-or-go-take-it-from-the-strait-trumps-suggestion-to-nations-hit-by-oil-shock-due-to-hormuz-crisis/articleshow/129964609.cms",
+    "time": "2026-04-02T01:46:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All you need to know about 'Your Friends and Neighbors Season 2'",
+    "desc": "Get ready for laughs and drama as Joe Hamm reprises his role as the crafty suburban thief Andrew Cooper in the much-anticipated Season 2 of 'Your Friends and Neighbors,' dropping on Apple TV on April 3rd. This season introduces a new neighbor, portrayed by James Marsden, whose discovery of Cooper's buried past could shake up the entire community.",
+    "img": "https://static.toiimg.com/photo/msid-129964438,imgsize-76378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/your-friends-and-neighbors-season-2-when-and-where-to-watch-joe-hamms-upcoming-series/articleshow/129964438.cms",
+    "time": "2026-04-02T01:43:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vaazha 2' advance booking near 1 crore on day 1",
+    "desc": "Mollywood is all set for the second part of the superhit film 'Vaazha' and this time too the presence of new faces has excited the audiences. The pre sales figures for the Vipin Das's film looks impressive as it nears Rs 1 crore as per the reports.",
+    "img": "https://static.toiimg.com/photo/msid-129964429,imgsize-275096.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/vaazha-2-pre-sales-hashir-h-and-vipin-das-comedy-film-nears-1-crores-290-screens-in-kerala/articleshow/129964429.cms",
+    "time": "2026-04-02T01:32:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ramayana': Ranbir attends 'Rama' private screening",
+    "desc": "Ranbir Kapoor returned to Mumbai after a US trip to unveil the first glimpse of 'Ramayana,' titled 'Rama.' He attended a private screening with director Nitesh Tiwari and producer Namit Malhotra. Early reactions lauded the visual spectacle and modern adaptation. Alia Bhatt praised the teaser as 'out of this world.",
+    "img": "https://static.toiimg.com/photo/msid-129964199,imgsize-115488.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-ranbir-kapoor-returns-to-mumbai-for-rama-first-glimpse-private-screening-with-nitesh-tiwari-and-namit-malhotra-ahead-of-teaser-release/articleshow/129964192.cms",
+    "time": "2026-04-02T01:30:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cameron Green breaks silence with action after Rahane’s cricket Australia remark",
+    "desc": "Cameron Green is bowling in the nets for Kolkata Knight Riders. This follows his absence from bowling in the opening match. Cricket Australia clarified he is managing a back issue. Green's return as a bowler is anticipated. His all-round contribution is crucial for KKR's campaign. This development eases early pressure on the team and its significant signing.",
+    "img": "https://static.toiimg.com/photo/msid-129964441,imgsize-144672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/cameron-green-breaks-silence-with-action-after-rahanes-cricket-australia-remark/articleshow/129964428.cms",
+    "time": "2026-04-02T01:28:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K govt announces revival of 120-yr-old power project",
+    "desc": "Jammu and Kashmir is reviving the historic 10.5MW Mohra Power Project, dormant since the 1990s. This century-old facility, crucial for Jhelum River dredging, is getting a modern upgrade. The project is a key part of a big plan to boost the region's energy output and bring this vital infrastructure back online.",
+    "img": "https://static.toiimg.com/photo/msid-129964300,imgsize-150314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-govt-announces-revival-of-120-yr-old-power-project/articleshow/129964221.cms",
+    "time": "2026-04-02T01:09:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Nithya Menen called Bangalore her true home",
+    "desc": "Nithya Menen, a celebrated actress across South Indian cinema, cherishes her upbringing in Bengaluru, describing it as a place of immense warmth and happiness. She often shares glimpses of her peaceful home, highlighting her deep connection to the city where she was raised and educated. Menen's career boasts over 60 films, with notable successes like 'Mersal' and 'Bangalore Days'.",
+    "img": "https://static.toiimg.com/photo/msid-129964231,imgsize-97952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/inside-nithya-menens-bengaluru-home-when-the-idly-kadai-actress-talked-about-her-love-for-bangalore/articleshow/129964231.cms",
+    "time": "2026-04-02T01:04:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Orlando Bloom posts about daughter Daisy",
+    "desc": "Hollywood star Orlando Bloom delighted fans with a heartwarming social media post featuring his daughter, Daisy. The actor shared precious moments of them facetiming with funny filters and enjoying a beach day, culminating in a sweet sunset video. Bloom and ex Katy Perry prioritize their daughter's happiness, maintaining a strong co-parenting bond despite their separation.",
+    "img": "https://static.toiimg.com/photo/msid-129964238,imgsize-83994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/orlando-bloom-shares-rare-pics-with-daughter-daisy-shows-how-they-spend-quality-time-together/articleshow/129964238.cms",
+    "time": "2026-04-02T01:03:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'The story of Lucknow this season is...': LSG owner Goenka’s post goes viral after loss",
+    "desc": "Despite a disappointing loss, Lucknow Super Giants owner Sanjiv Goenka urged patience, emphasizing the long IPL 2026 season ahead. His team, outplayed by Delhi Capitals, needs to find rhythm after a batting collapse and missed opportunities in the chase. Goenka expressed faith in his captain and squad to bounce back strongly, highlighting that one match doesn't define their campaign.",
+    "img": "https://static.toiimg.com/photo/msid-129964273,imgsize-265520.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/the-story-of-lucknow-this-season-is-lsg-owner-sanjiv-goenkas-post-goes-viral-after-loss/articleshow/129964243.cms",
+    "time": "2026-04-02T01:01:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bob Burgers' star Eugene Mirman seriously injured in fiery car crash",
+    "desc": "Voice actor Eugene Mirman, known for his role as Gene Belcher in 'Bob's Burgers,' was seriously injured after his car caught fire at a New Hampshire toll plaza. A state trooper heroically pulled the 51-year-old comedian from the burning vehicle. Mirman is recovering and expressed gratitude to those who saved him.",
+    "img": "https://static.toiimg.com/photo/msid-129964218,imgsize-129578.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bob-burgers-voice-actor-eugene-mirman-seriously-injured-in-fiery-car-crash-in-new-hampshire/articleshow/129964218.cms",
+    "time": "2026-04-02T00:57:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How risk-averse Indians self-sabotaged in Round 4",
+    "desc": "India's chess contingent faced a disappointing Round 4 at the Candidates tournament, with R Praggnanandhaa and R Vaishali securing draws while Divya Deshmukh suffered a significant loss. Praggnanandhaa's game was described as uncharacteristically subdued, and Vaishali narrowly escaped a difficult position. Deshmukh's experimental play led to fundamental errors and a decisive defeat.",
+    "img": "https://static.toiimg.com/photo/msid-129964176,imgsize-80664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-risk-averse-indians-self-sabotaged-in-round-4/articleshow/129964149.cms",
+    "time": "2026-04-02T00:45:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranabaali': Vijay looks FIERCE in leaked video from sets",
+    "desc": "A leaked video from the sets of 'Ranabaali' showcases Vijay Deverakonda in a fierce, blood-stained avatar, wielding a sickle-like weapon on horseback amidst a violent scene. This pan-India project, set in 19th-century India and inspired by historical events, marks Deverakonda's reunion with Rashmika Mandanna after their marriage.",
+    "img": "https://static.toiimg.com/photo/msid-129964023,imgsize-88188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ranabaali-vijay-deverakonda-looks-fierce-in-leaked-video-from-film-sets/articleshow/129963980.cms",
+    "time": "2026-04-02T00:38:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dhurandhar: The Revenge’ mints over Rs 1,460 cr worldwide in 14 days",
+    "desc": "The Revenge' has achieved a remarkable Rs 1460 crore gross worldwide in just 14 days. The espionage drama, directed by Aditya Dhar, has garnered Rs 920.02 crore net in India, surpassing its prequel. Despite a slight dip, the film continues its impressive box office run, captivating audiences with its thrilling narrative.",
+    "img": "https://static.toiimg.com/photo/msid-129964126,imgsize-27752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-14-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampals-film-mints-over-rs-1460-crore-worldwide/articleshow/129964124.cms",
+    "time": "2026-04-02T00:35:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Patriot' release: Mammootty announces the release date",
+    "desc": "Mollywood titans Mammootty and Mohanlal's highly anticipated actioner 'Patriot' has a new release date. The spy thriller, initially slated for April 23, will now premiere worldwide on May 1, 2026. This strategic shift allows filmmakers more time for final touches, positioning the film for an early summer slot. Fans eagerly await the reunion of the stars.",
+    "img": "https://static.toiimg.com/photo/msid-129964070,imgsize-107564.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/patriot-new-release-date-out-mammootty-and-mohanlals-film-to-release-on-may/articleshow/129964070.cms",
+    "time": "2026-04-02T00:23:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Defence budget under capital head fully utilised in FY2025-26",
+    "desc": "India's defence ministry has smartly deployed its revised capital expenditure of Rs 1.86 lakh crore for FY2025-26, mirroring the momentum from the previous year. This fiscal strategy highlights intense investments in aerial assets, ground defense technologies, and cutting-edge electronic warfare systems. Additionally, the endorsement of multiple new procurement strategies showcases a dynamic approach towards bolstering the nation’s defense arsenal.",
+    "img": "https://static.toiimg.com/photo/msid-129964059,imgsize-215684.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/defence-budget-under-capital-head-fully-utilised-in-fy2025-26/articleshow/129964033.cms",
+    "time": "2026-04-02T00:22:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&K Assembly admits Bill on reversing amendments made to Land Grants Act by L-G in 2022",
+    "desc": "The Government would like the House to deliberate on the matter in detail. After that, the Government will take a decision on whether to support this Bill or not. Therefore, at this stage, I will not oppose its introduction,” says J&K Chief Minister Omar Abdullah",
+    "img": "https://th-i.thgim.com/public/incoming/e25vz9/article70813961.ece/alternates/LANDSCAPE_1200/20260401560L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-assembly-admits-bill-on-reversing-amendments-made-to-land-grants-act-by-l-g-in-2022/article70811972.ece",
+    "time": "2026-04-01T23:59:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ustaad Bhagat Singh' BO day 15: Film crosses Rs 95 crores",
+    "desc": "Pawan Kalyan's 'Ustaad Bhagat Singh' is experiencing a slowdown at the box office, nearing the end of its second week. The film has garnered over 95 crore worldwide but faces limited weekday growth and mixed audience reception. Despite Kalyan's strong performance, critics point to predictable plotlines and reliance on old tropes.",
+    "img": "https://static.toiimg.com/photo/msid-129963971,imgsize-76208.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ustaad-bhagat-singh-box-office-collections-day-15-pawan-kalyans-film-crosses-rs-95-crores-worldwide/articleshow/129963971.cms",
+    "time": "2026-04-01T23:53:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Game of Thrones’ marks 15 yrs with NEW TRAILER",
+    "desc": "Fifteen years after its debut, the 'Game of Thrones' legacy is celebrated with a new trailer blending original moments and spin-off footage. Despite a divisive finale, HBO's expanding universe, including 'House of the Dragon' and upcoming prequels like 'A Knight of the Seven Kingdoms,' continues to captivate fans, promising more Westeros adventures.",
+    "img": "https://static.toiimg.com/photo/msid-129963853,imgsize-87592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/15-years-of-game-of-thrones-daenerys-targaryen-jon-snow-return-in-new-trailer-celebrating-reign-of-thrones/articleshow/129963850.cms",
+    "time": "2026-04-01T23:41:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sooryavanshi's India debut loading? Zimbabwe series raises big question",
+    "desc": "Vaibhav Sooryavanshi’s sensational IPL rise, highlighted by a blistering 15-ball fifty, has ignited debate over a potential India debut in the Zimbabwe T20I series. His fearless batting and consistency have impressed experts, with Kamran Akmal and Mohammad Kaif backing a fast-track call-up. However, Ravichandran Ashwin has urged patience, stressing the need to manage expectations around the 15-year-old prodigy as selectors weigh risk and timing.",
+    "img": "https://static.toiimg.com/photo/msid-129956315,imgsize-76768.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshis-india-debut-loading-zimbabwe-t20i-series-raises-big-question/articleshow/129954675.cms",
+    "time": "2026-04-01T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zendaya addresses Tom Holland marriage rumours",
+    "desc": "Zendaya addressed marriage rumours with Tom Holland, explaining her preference for privacy amidst public interest. While acknowledging fan curiosity, she emphasized maintaining personal boundaries and protecting what's special. The actress highlighted finding a balance between sharing and keeping aspects of her life private, especially concerning her relationship. She also discussed her upcoming projects.",
+    "img": "https://static.toiimg.com/photo/msid-129963606,imgsize-60790.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-reveals-why-she-will-not-confirm-tom-holland-marriage-rumours-says-i-have-my-own-little-boundaries/articleshow/129963587.cms",
+    "time": "2026-04-01T22:45:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Big B told me I wasn’t being nice to him in Baghban: Divya",
+    "desc": "For Divya Dutta, working with Amitabh Bachchan early in her career turned into a life lesson she hasn’t forgotten. Speaking about her experience on the sets of Baghban, the actor recalled how she struggled to separate her on-screen character from real life.",
+    "img": "https://static.toiimg.com/photo/msid-129963656,imgsize-51314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-told-me-i-wasnt-being-nice-to-him-in-baghban-divya-dutta-says-i-couldnt-distinguish-reel-from-real/articleshow/129963656.cms",
+    "time": "2026-04-01T22:40:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dada': Rajkummar Rao begins Sourav Ganguly biopic shoot",
+    "desc": "The Sourav Ganguly Story', sharing behind-the-scenes glimpses from the Kolkata sets. The film chronicles the iconic career of Sourav Ganguly, hailed as the architect of modern Indian cricket. His impactful captaincy and role in shaping a formidable team are central to the narrative.",
+    "img": "https://static.toiimg.com/photo/msid-129963541,imgsize-6880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dada-rajkummar-rao-begins-sourav-ganguly-biopic-shares-bts-pics-from-the-sets/articleshow/129961949.cms",
+    "time": "2026-04-01T22:10:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia reviews Ranbir's turn as Rama: 'Out of this world'",
+    "desc": "Alia Bhatt enthusiastically praised Ranbir Kapoor's portrayal of Rama in the upcoming film 'Ramayana', calling his performance 'absolutely fabulous' and 'out of this world'. The film's first glimpse, titled 'Rama', has generated significant buzz, with early reviews highlighting its breathtaking scale and vision.",
+    "img": "https://static.toiimg.com/photo/msid-129962025,imgsize-127994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-reviews-hubby-ranbir-kapoors-ramayana-first-glimpse-rama-says-it-is-out-of-this-world/articleshow/129961953.cms",
+    "time": "2026-04-01T21:46:32.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Ranbir's film called ‘goosebumps-filled’",
     "desc": "The first glimpse of Ramayana, starring Ranbir Kapoor, has already set social media buzzing even before its official release on Hanuman Jayanti today (April 2). Directed by Nitesh Tiwari and backed by Namit Malhotra, the film also features Sai Pallavi, Yash and Sunny Deol in key roles. A special screening of the glimpse was recently held in Los Angeles, and early reactions have been overwhelmingly positive. The teaser, reportedly 2 minutes and 38 seconds long, is already being described as a “goosebumps-filled” experience, with powerful visuals, scale and background score grabbing attention.",
@@ -34,6 +259,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/rahul-arunoday-banerjee-was-rescued-alive-no-doctor-was-available-bhole-baba-par-karega-makers-break-silence-on-drowning-incident/articleshow/129961497.cms",
     "time": "2026-04-01T19:41:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: Palaniswami dubs DMK government ‘anti-farmer’",
+    "desc": "He says the five-year term of the DMK government has been marked by a sharp rise in the prices of rice and other essential commodities, and steep hike in property tax and electricity tariff, which affected the common people.",
+    "img": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/hzza1w/article70812797.ece/alternates/LANDSCAPE_1200/TH%20TRI-1%202.jpg.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-palaniswami-dubs-dmk-government-anti-farmer/article70812677.ece",
+    "time": "2026-04-01T19:27:29.000Z"
   },
   {
     "cat": "Sports",
@@ -108,15 +342,6 @@ const newsData_en = [
     "time": "2026-04-01T17:53:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mahima Chaudhry recalls almost rejecting Big B's Baghban",
-    "desc": "Baghban, directed by Ravi Chopra, remains one of those rare films that continues to divide audiences even decades after its release. While some celebrate the family drama starring Amitabh Bachchan and Hema Malini, others have criticised its messaging over the years. Amid the film’s enduring popularity and debate, Mahima Chaudhry has now revealed that she was initially reluctant to be a part of the project.",
-    "img": "https://static.toiimg.com/photo/msid-129959303,imgsize-116670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahima-chaudhry-recalls-almost-rejecting-amitabh-bachchans-baghban-opposite-salman-khan-i-went-to-say-no-but-i-couldnt/articleshow/129959303.cms",
-    "time": "2026-04-01T17:47:14.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "11.94% increase in Excise revenue in Karnataka despite drop in beer sales",
     "desc": "Karnataka reported 11.94% increase in Excise revenue collection despite a steep drop in the sale of beer, which has been attributed to a long spell of rain coupled with floods and a marginal dip in sale of Indian Made Liquor",
@@ -135,7 +360,7 @@ const newsData_en = [
     "time": "2026-04-01T17:36:28.000Z"
   },
   {
-    "cat": "Politics",
+    "cat": "Business",
     "title": "Commercial LPG prices hiked 10%, jet fuel rates up 9% for domestic airlines",
     "desc": "ATF rates for international flights more than doubled, prompting IndiGo to add a fuel surcharge of ₹10,000 on long-haul routes; Centre says OMCs are still absorbing losses due to the surge in global crude rates",
     "img": "https://th-i.thgim.com/public/incoming/8a02z3/article70809820.ece/alternates/LANDSCAPE_1200/PTI03_18_2026_000319A.jpg",
@@ -189,15 +414,6 @@ const newsData_en = [
     "time": "2026-04-01T16:34:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Hera Pheri 3 writer Rohan Shankar exits amid legal mess",
-    "desc": "Hera Pheri 3 has been mired in controversy ever since its announcement, leaving fans of Akshay Kumar, Suniel Shetty and Paresh Rawal eagerly waiting but increasingly uncertain about its future. Amid the ongoing legal troubles, writer Rohan Shankar has now shed light on his association with the film and why he is no longer part of it.",
-    "img": "https://static.toiimg.com/photo/msid-129957307,imgsize-130832.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hera-pheri-3-writer-rohan-shankar-exits-amid-legal-mess-if-priyadarshan-sir-is-there-maybe-i-will-be-too/articleshow/129957307.cms",
-    "time": "2026-04-01T16:25:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Refresh, reset — recipe for Connolly’s success",
     "desc": "In the face-off against Gujarat Titans in New Chandigarh on Tuesday, the Punjab Kings batter exhibited why he is a much better player than the recent poor returns suggested. For the 22-year-old, a brief period away from the sport did the trick",
@@ -225,15 +441,6 @@ const newsData_en = [
     "time": "2026-04-01T15:40:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vaswani slams Aryan’s show: ‘SRK was treated like a king'",
-    "desc": "Aryan Khan’s debut series The Ba***ds of Bollywood has sparked a strong conversation online ever since its release. While the Netflix show has found its fans, it has also drawn criticism for its dark portrayal of the Hindi film industry. One of the sharpest reactions has come from Viveck Vaswani, who shares a long-standing association with Shah Rukh Khan dating back to his early days in Mumbai. Vaswani once again didn’t mince words as he questioned the narrative presented in the series.",
-    "img": "https://static.toiimg.com/photo/msid-129956151,imgsize-63638.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/viveck-vaswani-slams-aryan-khans-the-bads-of-bollywood-shah-rukh-khan-came-into-the-industry-with-a-golden-spoon/articleshow/129956151.cms",
-    "time": "2026-04-01T15:34:32.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Be cautious filing nominations': Mamata alleges EC bias, targets BJP",
     "desc": "West Bengal Chief Minister Mamata Banerjee alleged that Election Commission-appointed officials were tasked with rejecting her party's candidate nominations. She urged candidates to be cautious during filing and accused the BJP of misusing central agencies and manipulating voter lists, particularly targeting women and poor individuals.",
@@ -250,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/we-will-hit-back-aiadmk-chief-palaniswami-on-stalin-speaking-ill-about-him-slams-cm-for-congress-alliance/articleshow/129955448.cms",
     "time": "2026-04-01T15:12:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Angry fans question why Ramayana teaser was first launched in LA, not India",
-    "desc": "The teaser for Ranbir Kapoor's Ramayana has been revealed in Los Angeles. Indian fans are disappointed as the teaser is not yet available in India. It is expected to be released on April 2. This decision has led to online discussions about prioritizing international markets. The film features a star-studded cast including Sai Pallavi, Yash, Sunny Deol, and Kajal Aggarwal.",
-    "img": "https://static.toiimg.com/photo/msid-129955835,imgsize-112914.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/angry-fans-question-why-the-teaser-of-ranbir-kapoors-ramayana-was-first-launched-in-la-its-an-indian-movie/articleshow/129955784.cms",
-    "time": "2026-04-01T15:12:09.000Z"
   },
   {
     "cat": "Business",
@@ -306,15 +504,6 @@ const newsData_en = [
     "time": "2026-04-01T14:28:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mithun Chakraborty defends 'Dhurandhar 2' amid propaganda criticism",
-    "desc": "Veteran actor-politician Mithun Chakraborty has weighed in on the 'Dhurandhar 2' controversy, questioning why his unreleased film 'The Bengal Files' was blocked while 'Dhurandhar 2' faced 'propaganda' accusations only after its release. He highlighted that 'The Bengal Files', based on pre-Independence Noakhali riots, couldn't be released, contrasting it with 'Dhurandhar 2's record-breaking box office success.",
-    "img": "https://static.toiimg.com/photo/msid-129954501,imgsize-38034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mithun-chakraborty-defends-dhurandhar-2-amid-criticism-of-being-a-propaganda-film-the-bengal-files-wasnt-allowed-to-release-/articleshow/129954436.cms",
-    "time": "2026-04-01T14:11:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Arjun not even in LSG bench despite 4 pacers in playing XI vs DC",
     "desc": "Axar Patel won the toss and chose to bowl as Delhi Capitals faced Lucknow Super Giants on a fresh pitch. Delhi fielded a balanced XI with Rahul, Miller and Kuldeep, while LSG, led by Rishabh Pant, relied on Markram, Marsh and a strong pace attack, setting up an even contest.",
@@ -333,15 +522,6 @@ const newsData_en = [
     "time": "2026-04-01T13:59:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rajkummar Rao begins shooting for 'Dada'; transformation fuels buzz",
-    "desc": "Rajkummar Rao is stepping into the shoes of cricket legend Sourav Ganguly in the eagerly awaited biopic 'Dada,' which has just begun production. Taking to social media, Rao announced the exciting development, revealing that cameras are now rolling. Fans have been privy to his intense transformation journey for the role, a commitment he has openly shared.",
-    "img": "https://static.toiimg.com/photo/msid-129953728,imgsize-38922.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dada-rajkummar-raos-ganguly-biopic-finally-gets-a-title-shoot-begins/articleshow/129953728.cms",
-    "time": "2026-04-01T13:48:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Tickets, metro perks &amp; all you need to know ahead of big clash",
     "desc": "Royal Challengers Bengaluru fans can now secure tickets for the highly anticipated March 5 clash against Chennai Super Kings. Enjoy complimentary metro travel with your valid ticket. RCB, the defending champions, started their IPL 2026 campaign with a commanding win, while CSK faced an opening defeat. Ensure a smooth match-day experience by following entry guidelines.",
@@ -349,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rcb-vs-csk-tickets-metro-perks-all-you-need-to-know-ahead-of-big-clash/articleshow/129953444.cms",
     "time": "2026-04-01T13:28:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Court rejects Anita's plea for legal recognition of relationship with Rajesh Khanna",
-    "desc": "The Bombay High Court has dismissed Anita Advani's appeal seeking legal recognition of her relationship with Rajesh Khanna as a marriage. This upholds a lower court's decision, which had previously rejected her civil suit on technical grounds. Advani's claims of domestic violence against Khanna's family were also previously quashed by the High Court.",
-    "img": "https://static.toiimg.com/photo/msid-129953410,imgsize-36890.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/court-rejects-anita-advanis-plea-for-legal-recognition-of-relationship-with-rajesh-khanna-after-dimple-kapadia-twinkle-khanna-akshay-kumar-oppose-her-claim/articleshow/129953415.cms",
-    "time": "2026-04-01T13:28:23.000Z"
   },
   {
     "cat": "Sports",
@@ -441,24 +612,6 @@ const newsData_en = [
     "time": "2026-04-01T12:03:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Double-ghulami govt': Priyanka Gandhi calls PM 'slave' of US, Assam CM Himanta that of Modi",
-    "desc": "Priyanka Gandhi accused the BJP of running a \"government of double-slavery,\" alleging Prime Minister Modi is beholden to America and Assam Chief Minister Himanta Biswa Sarma is Modi's subordinate. She promised Congress welfare schemes, including financial aid for women and enhanced healthcare, while PM Modi countered by calling Congress \"anti-development\" and the \"root cause\" of corruption.",
-    "img": "https://static.toiimg.com/photo/msid-129950947,imgsize-49524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/double-ghulami-govt-priyanka-gandhi-calls-pm-slave-of-us-assam-cm-himanta-that-of-modi/articleshow/129950732.cms",
-    "time": "2026-04-01T11:51:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kim Kardashian, Kris Jenner lose bid to seal Ray J docs",
-    "desc": "A Los Angeles judge has denied Kim Kardashian and Kris Jenner's bid to seal documents related to a 2023 settlement with Ray J. The dispute centers on an alleged $6 million deal concerning a sex tape, which Ray J claims was breached by the Kardashians discussing it on their Hulu show.",
-    "img": "https://static.toiimg.com/photo/msid-129950602,imgsize-1032946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kim-kardashian-and-kris-jenners-request-to-seal-2023-ray-j-settlement-documents-in-court-denied-by-judge-report/articleshow/129950602.cms",
-    "time": "2026-04-01T11:48:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pakistan's Akmal makes bold claim on Sooryavanshi’s India future",
     "desc": "Teenage batter Vaibhav Sooryavanshi is making headlines with explosive IPL performances, including a 35-ball century and a 15-ball fifty. Kamran Akmal believes he is ready for international cricket, praising his maturity and fearless approach. Backed by strong support, Sooryavanshi’s rapid rise has raised expectations, with Akmal saying bowlers may struggle against him in the future.",
@@ -477,24 +630,6 @@ const newsData_en = [
     "time": "2026-04-01T11:24:58.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "IT pro recalls Ranveer’s support",
-    "desc": "From IT to the silver screen, Vikramm Bhambri's foray into cinema with 'Dhurandhar' unfolds a tale of self-discovery that began with a moment of doubt, only to be uplifted by an unexpected compliment from a delivery guy. He fondly reminisces about the camaraderie shared with co-stars Ranveer Singh and Akshaye Khanna, noting their genuine kindness and dedication to the craft.",
-    "img": "https://static.toiimg.com/photo/msid-129949959,imgsize-176164.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/my-scenes-were-cut-i-was-sad-but-dhurandhar-the-revenge-actor-vikramm-bhambri-reveals-the-moment-that-changed-everything/articleshow/129949959.cms",
-    "time": "2026-04-01T11:19:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Milly Alcock on 'Supergirl' backlash: 'I can only be myself'",
-    "desc": "Milly Alcock, recently gaining acclaim from her role in 'House of the Dragon', is stepping into the shoes of Supergirl with a sense of determination. Fully aware of the high expectations that come with the role, especially as a woman in a leading franchise, she confidently expresses, 'I can only be true to myself.",
-    "img": "https://static.toiimg.com/photo/msid-129949901,imgsize-70394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/house-of-the-dragon-star-milly-alcock-addresses-supergirl-backlash-ahead-of-june-2026-release-i-can-only-be-myself/articleshow/129949849.cms",
-    "time": "2026-04-01T11:05:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Will Arjun Tendulkar find a place in the playing XI today?",
     "desc": "LSG have a fully fit squad with key additions like Mohammad Shami and Anrich Nortje, while the return of Mayank Yadav and Mohsin Khan from injuries bolsters their pace bowling riches this season. And with that the question arises, will Arjun Tendulkar be able to find a place in the playing XI.",
@@ -502,42 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/lsg-vs-dc-will-arjun-tendulkar-find-a-place-in-the-playing-xi-today/articleshow/129948895.cms",
     "time": "2026-04-01T10:36:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Suryakumar teases Bumrah with Dhurandhar 2 dialogue",
-    "desc": "The viral 'Dhurandhar 2' meme, referencing a scene where a character doesn't miss home, has found its way into IPL celebrations. Mumbai Indians' Jasprit Bumrah was playfully teased with the dialogue by Suryakumar Yadav in the locker room after a win, echoing a previous team promotion. This trend began with a meme shared by Bumrah's wife.",
-    "img": "https://static.toiimg.com/photo/msid-129948618,imgsize-29572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-viral-scene-recreated-by-jasprit-bumrah-suryakumar-yadav-after-mumbai-indians-win-against-kkr-netizens-react-ghar-ki-yaad-nai-aayi-jassi/articleshow/129948307.cms",
-    "time": "2026-04-01T10:18:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Cameron Diaz confirms return as Princess Fiona",
-    "desc": "Cameron Diaz is stepping back into her beloved role as Princess Fiona in the much-anticipated 'Shrek 5', a thrilling comeback after a decade-long hiatus from the film industry. The actress shared the joyous news on The Tonight Show, where she celebrated her return alongside Mike Myers and Eddie Murphy.",
-    "img": "https://static.toiimg.com/photo/msid-129948354,imgsize-118678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cameron-diaz-confirms-return-as-princess-fiona-in-shrek-5-after-nearly-a-decade-joining-mike-myers-and-eddie-murphy/articleshow/129948354.cms",
-    "time": "2026-04-01T10:13:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Diddy’s release date moved up again: What’s happening?",
-    "desc": "In a surprising turn of events, Sean 'Diddy' Combs' prison release date has been advanced to April 15, 2028. Currently serving a 50-month sentence for the transportation of individuals for prostitution, Diddy’s legal team is mounting an appeal, asserting that the encounters were consensual and the sentence overly harsh.",
-    "img": "https://static.toiimg.com/photo/msid-129948216,imgsize-51294.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/sean-diddy-combss-release-date-moved-up-again-ahead-of-appeal-hearing-whats-happening/articleshow/129948159.cms",
-    "time": "2026-04-01T10:11:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "LSG vs DC, IPL 2026: 5 players to watch in today’s match",
-    "desc": "Rishabh Pant leads Lucknow Super Giants in a crucial IPL season opener against Delhi Capitals. With a strengthened squad, including new pace recruits and a settled batting order, Pant aims for a breakthrough year. Delhi Capitals, meanwhile, rely on KL Rahul and a potent bowling attack, despite missing key players.",
-    "img": "https://static.toiimg.com/photo/msid-129948311,imgsize-67458.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/lsg-vs-dc-ipl-2026-5-players-to-watch-in-todays-match/articleshow/129948244.cms",
-    "time": "2026-04-01T10:10:42.000Z"
   },
   {
     "cat": "Business",
@@ -567,51 +666,6 @@ const newsData_en = [
     "time": "2026-04-01T09:59:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Fan tells Ranbir Kapoor that he did a great job in 'Dhurandhar'",
-    "desc": "At the Ramayana teaser launch in Los Angeles, Ranbir Kapoor was playfully mistaken for Ranveer Singh by a fan. Ranbir took the joke in good spirits, laughing it off after director Nitesh Tiwari clarified the misunderstanding. The film, starring Ranbir as Lord Ram, is set for a two-part release in 2026 and 2027.",
-    "img": "https://static.toiimg.com/photo/msid-129947674,imgsize-40970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fan-tells-ranbir-kapoor-that-he-did-a-great-job-in-dhurandhar-the-actor-reacts-thats-a-different-ranveer-singh/articleshow/129947585.cms",
-    "time": "2026-04-01T09:42:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pushed out by Jyoti Basu, eclipsed by Mamata, crushed by BJP: Congress' 50-year exile in West Bengal",
-    "desc": "Once a dominant force, West Bengal's Congress party has seen its influence dwindle significantly over five decades. From landslide victories to being overshadowed by communist rule and then Mamata Banerjee's Trinamool Congress, the party now struggles for relevance.",
-    "img": "https://static.toiimg.com/photo/msid-129947601,imgsize-1091378.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congresss-50-year-exile-in-west-bengal-replaced-by-jyoti-basu-outpaced-by-mamata-and-crushed-by-bjp/articleshow/129947278.cms",
-    "time": "2026-04-01T09:40:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India’s Zimbabwe tour schedule out: T20I series dates locked",
-    "desc": "India's post-T20 World Cup journey begins with a three-match T20I series against Zimbabwe in July 2026, hosted at Harare Sports Club. This tour is part of a packed 2026-27 home season, which also includes series against West Indies, Sri Lanka, and Australia, culminating in the Border-Gavaskar Trophy.",
-    "img": "https://static.toiimg.com/photo/msid-129946981,imgsize-96274.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indias-zimbabwe-tour-schedule-out-t20i-series-dates-locked/articleshow/129946853.cms",
-    "time": "2026-04-01T09:09:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Peak detailing by Akshaye Khanna,' netizens react as Dhurandhar BTS video goes viral",
-    "desc": "Akshaye Khanna's intense portrayal of 'Rehman Dakait' in 'Dhurandhar' has captivated audiences, with fans even missing him in the sequel. A behind-the-scenes video highlights his meticulous attention to detail regarding his character's specially styled wig, showcasing his dedication to realism. This commitment has earned widespread praise from fans for his performance and on-screen presence.",
-    "img": "https://static.toiimg.com/photo/msid-129946804,imgsize-38964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/peak-detailing-by-akshaye-khanna-netizens-laud-the-actors-dedication-towards-his-wig-styling-in-viral-bts-video-of-dhurandhar/articleshow/129946747.cms",
-    "time": "2026-04-01T09:00:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Ponting once again proved right’: Ashwin on Punjab Kings’ bold call vs GT",
-    "desc": "Ravichandran Ashwin lauded Ricky Ponting's team selection after Punjab Kings secured a narrow IPL 2026 victory against Gujarat Titans. Ashwin initially questioned the inclusion of Xavier Bartlett but was proven wrong by the player's crucial batting cameo. Cooper Connolly's debut knock anchored the chase, showcasing his composure under pressure.",
-    "img": "https://static.toiimg.com/photo/msid-129946319,imgsize-133168.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ponting-once-again-proved-right-ashwin-on-punjab-kings-bold-call-vs-gujarat-titans/articleshow/129946316.cms",
-    "time": "2026-04-01T08:37:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Rs 5000 lagakar dekho': Shami on Goenka's viral boundary talks with Rahul, Pant",
     "desc": "LSG owner Sanjiv Goenka's interactions with captains after defeats have sparked debate. However, pacer Mohammed Shami defended Goenka, stating he is passionate about cricket and his high expectations are justified due to his significant investment in the team. Shami emphasized Goenka's logical communication and positive player interactions.",
@@ -619,15 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rs-5000-lagakar-dekho-mohammed-shami-on-sanjiv-goenkas-viral-boundary-talks-with-kl-rahul-rishabh-pant/articleshow/129946285.cms",
     "time": "2026-04-01T08:36:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "All 48 teams confirmed, full groups revealed",
-    "desc": "The FIFA World Cup 2026 field is now complete with 48 teams confirmed after final qualifiers and playoffs. Co-hosts USA, Mexico, and Canada will stage the expanded tournament, featuring 12 groups of four teams. This edition marks a historic expansion, showcasing unprecedented global diversity in football's biggest spectacle.",
-    "img": "https://static.toiimg.com/photo/msid-129945098,imgsize-6116.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-world-cup-2026-all-48-teams-confirmed-full-groups-revealed/articleshow/129944888.cms",
-    "time": "2026-04-01T07:34:29.000Z"
   },
   {
     "cat": "Business",
@@ -691,15 +736,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-rallied-as-hopes-grew-that-iran-war-could-end-soon-kospi-jumps-5-5-nikkei-rises-3-9/articleshow/129940821.cms",
     "time": "2026-04-01T04:39:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude climbs as markets weigh Trump’s signal on possible end to Iran war",
-    "desc": "Oil prices surged on Wednesday, with Brent crude surpassing $100 per barrel and WTI also climbing. This rise is attributed to ongoing supply risk concerns, despite potential diplomatic progress. Analysts highlight that even a swift end to the conflict may not immediately ease tight supplies due to infrastructure damage and the critical Strait of Hormuz.",
-    "img": "https://static.toiimg.com/photo/msid-129940520,imgsize-579597.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-1-april-2026-crude-climbs-as-markets-weigh-trumps-signal-on-possible-end-to-iran-war/articleshow/129940215.cms",
-    "time": "2026-04-01T04:28:41.000Z"
   },
   {
     "cat": "World",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/mongolia-names-new-prime-minister-in-bid-to-end-legislative-deadlock/article70805812.ece",
     "time": "2026-03-31T06:21:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Rescuers try to find 27 people believed to be on raft drifting in Indonesian waters",
-    "desc": "The passenger boat departed Taliabu port in North Maluku province just after dusk Sunday (March 29, 2026). It was bound for Kema in North Sulawesi province before sinking in the northern waters of Taliabu Island",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/rescuers-try-to-find-27-people-believed-to-be-on-raft-drifting-in-indonesian-waters/article70805726.ece",
-    "time": "2026-03-31T04:52:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 PBKS vs GT",
-    "desc": "“If there is a bit of grass and if there is good pace and bounce, it might be easier for the overseas guys. If the surface is a little drier and on the slower side, it might be easier for an Indian player. We have flexibility in our batting order” says",
-    "img": "https://th-i.thgim.com/public/incoming/rilvmr/article70804596.ece/alternates/LANDSCAPE_1200/09_Twenty_20_IPL_Match_30_03_Chandigarh.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-pbks-vs-gt-pbks-coach-ponting-confident-of-the-batting-options-available/article70803911.ece",
-    "time": "2026-03-31T02:12:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tennis-Sinner beats Lehecka in rain-hit Miami final to capture 'Sunshine Double'",
-    "desc": "The Italian world number two won 92% of his ​first-serve points and saved all three break points ⁠he faced en route to a victory that extended his string of Masters 1000 matches without dropping a set to 17",
-    "img": "https://th-i.thgim.com/public/incoming/2nwujw/article70804592.ece/alternates/LANDSCAPE_1200/2026-03-30T082145Z_1228573700_28618325_RTRMADP_3_TENNIS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis-sinner-beats-lehecka-in-rain-hit-miami-final-to-capture-sunshine-double/article70804590.ece",
-    "time": "2026-03-30T20:07:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "JSW Sports signs U19 Women's T20 WC winning skipper Niki Prasad",
-    "desc": "\"Niki represents the new generation of Indian cricketers who combine skill, leadership, and maturity at a very young age. Her journey has already been inspiring, from making a mark in domestic cricket to leading India to a U19 World Cup title.,” says JSW Sports",
-    "img": "https://th-i.thgim.com/public/incoming/z1clmq/article70804587.ece/alternates/LANDSCAPE_1200/11908_17_1_2026_20_38_8_1_DSC_2114.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/jsw-sports-signs-u19-womens-t20-wc-winning-skipper-niki-prasad/article70804584.ece",
-    "time": "2026-03-30T19:57:57.000Z"
   }
 ];
