@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Yuvraj Singh apologises to MS Dhoni, Kapil Dev after father Yograj Singh's comments",
+    "desc": "Former Indian all-rounder Yuvraj Singh has distanced himself from the long-standing controversies surrounding his father, Yograj Singh, by offering a public apology to two of India’s greatest captains. The two-time World Cup winner addressed the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yuvraj-singh-apologises-to-ms-dhoni-kapil-dev-after-father-yograj-singh-s-comments-2026-04-02-1036071",
+    "time": "2026-04-02T12:03:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia to tour Zimbabwe after eight years in preparation for ODI World Cup 2027",
+    "desc": "Australia are set to return to Zimbabwe after eight long years. While they visited in 2018 for a T20 tri-series that also included Pakistan, their last ODI assignment in Zimbabwe dates back to 2014. This...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-to-tour-zimbabwe-after-eight-years-in-preparation-for-odi-world-cup-2027-2026-04-02-1036064",
+    "time": "2026-04-02T11:30:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Rishabh Pant really an opening batter?'",
+    "desc": "Lucknow Super Giants captain Rishabh Pant opened the innings in the IPL 2026 clash against Delhi Capitals at Ekana. Last year, he featured at number four, but failed to live up to the potential. In...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-really-an-opening-batter-former-ipl-captain-dissects-lsg-s-move-against-delhi-capitals-2026-04-02-1036053",
+    "time": "2026-04-02T10:56:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 player battles to watch out for in IPL 2026 Match 6 at Eden Gardens in Kolkata",
     "desc": "As Kolkata Knight Riders (KKR) return to their fortress at Eden Gardens today, they face a high-octane challenge against Sunrisers Hyderabad (SRH). Both teams are coming off losses in their respective opening matches of IPL 2026...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-make-lsg-succumb-to-their-worst-performance-batting-first-in-ipl-history-2026-04-02-1035989",
     "time": "2026-04-02T02:04:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanjiv Goenka, Rishabh Pant and Justin Langer in intense chat after LSG's loss to DC in IPL opener",
-    "desc": "Lucknow Super Giants owner Sanjiv Goenka, team captain Rishabh Pant and head coach Justin Langer were seen in an intense chat after the team's loss to Delhi Capitals in their IPL 2026 opener on Wednesday,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanjiv-goenka-rishabh-pant-and-justin-langer-in-intense-chat-after-lsg-s-loss-to-dc-in-ipl-opener-watch-2026-04-02-1035971",
-    "time": "2026-04-01T18:32:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant is not sure if he will open again for LSG, explains Nicholas Pooran's new role in IPL 2026",
-    "desc": "In a very interesting move, Rishabh Pant opened the batting alongside Mitchell Marsh in Lucknow Super Giants’ opening IPL 2026 game against Delhi Capitals. The move didn’t quite go as per the plan, as the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-is-not-sure-if-he-will-open-again-for-lsg-explains-nicholas-pooran-s-new-role-in-ipl-2026-2026-04-01-1035967",
-    "time": "2026-04-01T18:05:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Check standings after one match for every team",
-    "desc": "Delhi Capitals survived a major scare against Lucknow Super Giants in a low-scoring thriller at the Ekana Cricket Stadium as they chase down 142 after being in trouble early in the second innings. From being...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-updated-points-table-after-lsg-vs-dc-clash-check-standings-after-one-match-for-every-team-2026-04-01-1035966",
-    "time": "2026-04-01T18:00:11.000Z"
   }
 ];
