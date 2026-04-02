@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 player battles to watch out for in IPL 2026 Match 6 at Eden Gardens in Kolkata",
+    "desc": "As Kolkata Knight Riders (KKR) return to their fortress at Eden Gardens today, they face a high-octane challenge against Sunrisers Hyderabad (SRH). Both teams are coming off losses in their respective opening matches of IPL 2026...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-srh-3-player-battles-to-watch-out-for-in-ipl-2026-match-6-at-eden-gardens-in-kolkata-2026-04-02-1036039",
+    "time": "2026-04-02T08:58:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rassie van der Dussen, former South Africa captain, announces retirement from international cricket",
+    "desc": "South Africa batter and former ODI captain, Rassie van der Dussen, has announced his retirement from international cricket at the age of 37. He last played for South Africa in August 2025 in a T20I...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rassie-van-der-dussen-former-south-africa-captain-announces-retirement-from-international-cricket-2026-04-02-1036025",
+    "time": "2026-04-02T07:09:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PSL ball-tampering controversy: Fakhar Zaman challenges two-match suspension, submits appeal to committee",
     "desc": "Lahore Qalandars batter Fakhar Zaman has decided to challenge the two-match suspension over ball-tampering charges levied on him by the umpires during the match against Karachi Kings. For the unversed, the opening batter was charged...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-updated-points-table-after-lsg-vs-dc-clash-check-standings-after-one-match-for-every-team-2026-04-01-1035966",
     "time": "2026-04-01T18:00:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sameer Rizvi instruments Delhi’s stunning comeback after 26/4, DC beat LSG by six wickets",
-    "desc": "Delhi Capitals delivered a crunch performance in their opening IPL 2026 game against Lucknow Super Giants. The visitors had a sensational start to the game, bundling the Rishabh Pant-led side to 141 runs in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sameer-rizvis-measured-knock-bails-delhi-against-lucknow-natarajan-and-ngidi-star-with-bowl-2026-04-01-1035962",
-    "time": "2026-04-01T17:32:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Eden Gardens in Kolkata play?",
-    "desc": "Kolkata Knight Riders will host Sunrisers Hyderabad on April 2 at the iconic Eden Gardens. Since both teams suffered a defeat in their opening game, the clash holds extreme importance as back-to-back defeats will hurt...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-srh-pitch-report-how-will-surface-at-eden-gardens-in-kolkata-play-2026-04-01-1035960",
-    "time": "2026-04-01T17:20:35.000Z"
   }
 ];
