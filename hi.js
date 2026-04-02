@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "PSL ball-tampering controversy: Fakhar Zaman challenges two-match suspension, submits appeal to committee",
+    "desc": "Lahore Qalandars batter Fakhar Zaman has decided to challenge the two-match suspension over ball-tampering charges levied on him by the umpires during the match against Karachi Kings. For the unversed, the opening batter was charged...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/psl-ball-tampering-controversy-fakhar-zaman-challenges-two-match-suspension-submits-appeal-to-committee-2026-04-02-1036020",
+    "time": "2026-04-02T06:40:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Prince Yadav and Tristan Stubbs exchange heated words during DC vs LSG IPL 2026 clash, video viral",
+    "desc": "Delhi Capitals defeated Lucknow Super Giants comfortably in their opening game of the season at the Ekana Cricket Stadium on Wednesday. However, at one stage, LSG were the favourites to win the game as they had...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/prince-yadav-and-tristan-stubbs-exchange-heated-words-during-dc-vs-lsg-ipl-2026-clash-video-viral-2026-04-02-1036006",
+    "time": "2026-04-02T04:58:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "What is Delhi Capitals batter Sameer Rizvi's IPL 2026 salary?",
     "desc": "Delhi Capitals were 21/2 in the fourth over when Sameer Rizvi came out to bat in the game against Lucknow Super Giants as an impact player in the 5th match of IPL 2026 on Wednesday....",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-srh-pitch-report-how-will-surface-at-eden-gardens-in-kolkata-play-2026-04-01-1035960",
     "time": "2026-04-01T17:20:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan loves leadership, captaincy to have positive effect on him: SRH coach Daniel Vettori",
-    "desc": "Ishan Kishan has been bestowed the responsibility of leading Sunrisers Hyderabad until Pat Cummins isn't fit to play. Kishan has been in top form in the recent times with his bat doing the talking for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-loves-leadership-captaincy-to-have-positive-effect-on-him-srh-coach-daniel-vettori-2026-04-01-1035958",
-    "time": "2026-04-01T17:16:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Nayar defends Cameron Green's selection despite latter not bowling so far in IPL 2026",
-    "desc": "Kolkata Knight Riders and Cameron Green faced plenty of flak after the latter didn’t bowl in the team’s opening game of the season against Mumbai Indians. After the defeat, captain Ajinkya Rahane shared that Cricket...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-nayar-defends-cameron-green-s-selection-despite-latter-not-bowling-so-far-in-ipl-2026-2026-04-01-1035956",
-    "time": "2026-04-01T16:49:07.000Z"
   }
 ];
