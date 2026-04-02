@@ -1,5 +1,113 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "BJP planning to impose President’s Rule: Mamata",
+    "desc": "Seven judicial officers were gheraoed by locals at a BDO office at Mothabari in the State’s Malda District on April 1; the officials were rescued later by a huge contingent of police and security forces",
+    "img": "https://th-i.thgim.com/public/incoming/966qxw/article70814612.ece/alternates/LANDSCAPE_1200/PTI03_31_2026_000217B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/game-plan-of-the-bjp-is-to-impose-presidents-rule-in-bengal-says-mamata-on-malda-incident/article70814596.ece",
+    "time": "2026-04-02T21:03:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "France bans planned gathering of Muslims in Paris area, citing security risk",
+    "desc": "“At the request of the ‌Interior Minister Laurent Nunez, I have issued an order ‌prohibiting the 40th edition of ‌the ⁠Annual Meeting of Muslims of ⁠France, from April 3 to April 6 at the Paris–Le Bourget Exhibition Centre,” the ​Paris Police ‌Chief Patrice Faure said in a post on X",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/france-bans-planned-gathering-of-muslims-in-paris-area-citing-security-risk/article70817396.ece",
+    "time": "2026-04-02T21:01:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Omar seeks probe in Ganderbal ‘encounter’ after family disputes ‘terrorist’ claim",
+    "desc": "Jammu and Kashmir Chief Minister Omar Abdullah has demanded a swift, transparent investigation into the killing of a man in an alleged encounter. The deceased's family claims he had no terror links and was preparing to join the Army. Authorities are urged to make facts public to maintain credibility amid grave allegations.",
+    "img": "https://static.toiimg.com/photo/msid-129988765,imgsize-74674.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cm-omar-seeks-probe-in-ganderbal-encounter-after-family-disputes-terrorist-claim/articleshow/129988753.cms",
+    "time": "2026-04-02T20:56:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Navy escorting tankers from Strait of Hormuz, no dearth of fuel or gas in country, says defence minister",
+    "desc": "India assures ample fuel and gas supplies amidst West Asia conflict, with the Navy actively escorting tankers through the Strait of Hormuz. Defence Minister Rajnath Singh highlighted PM Modi's diplomatic efforts and the nation's preparedness. Meanwhile, the Navy Chief noted evolving maritime competition beyond energy to critical resources and data, emphasizing increased marine activity and potential infringements on sovereign rights.",
+    "img": "https://static.toiimg.com/photo/msid-129988737,imgsize-202034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/navy-escorting-tankers-from-strait-of-hormuz-no-dearth-of-fuel-or-gas-in-country-says-defence-minister/articleshow/129988731.cms",
+    "time": "2026-04-02T20:44:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bimal Oberoi compares Hamza–Shirani bond to Dhoni–Yuvraj",
+    "desc": "The Revenge continues its strong run, Bimal Oberoi has opened up about his experience working with Ranveer Singh, Akshaye Khanna and director Aditya Dhar — while also shedding light on the emotional Hamza–Shirani dynamic that struck a chord with audiences.",
+    "img": "https://static.toiimg.com/photo/msid-129988730,imgsize-69934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bimal-oberoi-compares-hamzashirani-bond-to-ms-dhoniyuvraj-singh-world-cup-moment-recalls-ranveer-singh-akshaye-khannas-aura/articleshow/129988730.cms",
+    "time": "2026-04-02T20:39:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hema Malini writes to Speaker; says West Bengal denying permission for cultural events",
+    "desc": "“I have written a letter to the Honourable Speaker, highlighting a cultural fascism in West Bengal and how it is adversely affecting several people from the cultural world,” the Mathura MP said in a post on X",
+    "img": "https://th-i.thgim.com/public/incoming/fen7ew/article70817391.ece/alternates/LANDSCAPE_1200/20260401600L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/hema-malini-writes-to-speaker-says-west-bengal-denying-permission-for-cultural-events/article70816129.ece",
+    "time": "2026-04-02T20:27:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: Egmore constituency residents weigh infrastructure upgrades against many long-standing civic problems",
+    "desc": "As Metro Rail work is ongoing in Purasawalkam, traffic congestion and disrupted MTC bus services to some pockets remain core issues; travelling on arterial stretches of Demellows Road - Sydenhams Road and Choolai High Road is a harrowing experience for motorists due to sewer work",
+    "img": "https://th-i.thgim.com/public/incoming/dvnbna/article70813006.ece/alternates/LANDSCAPE_1200/DJI_20260328130952_0106_D.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/egmore-constituency-residents-weigh-infrastructure-upgrades-against-many-long-standing-civic-problems/article70811223.ece",
+    "time": "2026-04-02T20:06:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu’s actor-politicians and their crusade against corruption",
+    "desc": "Actor and TVK founder C. Joseph Vijay’s anti-corruption plank is nothing new as the film stars floating their own parties in Tamil Nadu have taken up this theme to earn a name for themselves and garner a massive vote",
+    "img": "https://th-i.thgim.com/public/incoming/mn8nx6/article70808689.ece/alternates/LANDSCAPE_1200/VIJAYKANTH.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/actor-politicians-and-their-crusade-against-corruption/article70808691.ece",
+    "time": "2026-04-02T19:52:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election 2026",
+    "desc": "‘I’ve wanted to contest in the Assembly election since 2021. How we function in the Assembly shapes the public perception. Going to Parliament is an honour. But, when I look at Tamil Nadu politics, the BJP’s strategy of gradually weakening regional parties and establishing itself is a cause for concern’",
+    "img": "https://th-i.thgim.com/public/incoming/fjz3ta/article70807995.ece/alternates/LANDSCAPE_1200/3.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-bjp-may-try-to-split-the-dmk-even-if-it-gets-a-majority-says-thol-thirumavalavan/article70807139.ece",
+    "time": "2026-04-02T19:39:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: Stalin challenges Prime Minister Modi to repeat Bihar poll jibe during T.N. campaign",
+    "desc": "Asserting that Tamil Nadu has been a haven of peace for people of diverse cultures, the Chief Minister hits out at Mr. Modi for alleging ill-treatment of workers from Bihar in Tamil Nadu. He also criticises the Central government for its denial of Metro Rail projects for Coimbatore and Madurai",
+    "img": "https://th-i.thgim.com/public/incoming/oaszom/article70817336.ece/alternates/LANDSCAPE_1200/Stalin%205.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-stalin-challenges-prime-minister-modi-to-repeat-bihar-poll-jibe-during-tn-campaign/article70814552.ece",
+    "time": "2026-04-02T19:35:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Outstanding, no moment was boring’",
+    "desc": "The Revenge continues to enjoy a stellar run at the box office, with the film crossing the Rs 919 crore mark within just two weeks of its release on March 19. Directed by Aditya Dhar, the action drama has not only struck a chord with audiences but also earned praise from across the industry. Adding to the buzz, veteran actor Tanuja recently watched the film with daughter Tanishaa Mukerji — and her reaction says it all.",
+    "img": "https://static.toiimg.com/photo/msid-129988296,imgsize-66756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tanuja-reviews-ranveer-singhs-dhurandhar-2-the-revenge-outstanding-no-moment-was-boring-praises-aditya-dhars-direction/articleshow/129988296.cms",
+    "time": "2026-04-02T19:24:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "War in West Asia dampens tourism in Kerala",
+    "desc": "Kerala’s beaches usually teem with foreign tourists by March-April, the fag end of tourism season. But the sector is witnessing mass cancellations due to the conflict in West Asia, which mostly provides transit for Kerala-bound international tourists. Stakeholders say that the tourism industry is facing a double whammy with the war-triggered LPG shortage",
+    "img": "https://th-i.thgim.com/public/incoming/dida6a/article70817322.ece/alternates/LANDSCAPE_1200/NH27KovalamBeach08.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/war-in-west-asia-dampens-tourism-in-kerala/article70810590.ece",
+    "time": "2026-04-02T19:17:24.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Suryavanshi — how young is young?",
     "desc": "Now that he has formally crossed the ICC threshold age of 15, a raging debate is underway on whether the left-handed batter should be fast-tracked to the Indian white-ball team; the special ones are always a step ahead of the opposition and have a counter for every game plan",
@@ -91,30 +199,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "On the campaign trail with K.C. Venugopal",
-    "desc": "From his base in Kerala, K.C. Venugopal directs Parliament strategy in Delhi, connects local fishermen’s concerns to developments in the Strait of Hormuz, and urges voters to unseat Pinarayi Vijayan and choose the Congress as the “real Left” in the State",
-    "img": "https://th-i.thgim.com/public/incoming/f264s5/article70817120.ece/alternates/LANDSCAPE_1200/G.-SudhakaransGK6FP503R.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/on-the-campaign-trail-with-kc-venugopal/article70815693.ece",
-    "time": "2026-04-02T17:03:18.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Women who stood strong in the 21K",
     "desc": "25:01. Ruksaana secured second place at 01:27:38, followed by Bhumi Negi in third at 01:34:33. The challenging course tested runners, with the final kilometres proving decisive for these top finishers who demonstrated remarkable endurance and control.",
     "img": "https://static.toiimg.com/photo/msid-129984602,imgsize-976150.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/times-internet-half-marathon-women-who-stood-strong-in-the-21k/articleshow/129984513.cms",
     "time": "2026-04-02T16:37:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CAPF Bill passed by Lok Sabha as Opposition walks out over absence of Home Minister",
-    "desc": "Rahul Gandhi takes to X to say that he had sent a word to the government to postpone it to another day as he was away for electioneering in Assam but it was not done; Congress, SP and Trinamool demanded it be sent to a select committee",
-    "img": "https://th-i.thgim.com/public/incoming/ceg4kc/article70816986.ece/alternates/LANDSCAPE_1200/20260402480L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/capf-bill-passed-by-lok-sabha-as-opposition-walks-out-over-absence-of-home-minister/article70816714.ece",
-    "time": "2026-04-02T16:26:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -124,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/months-after-criticism-dipika-chikhlia-changes-stance-after-ranbir-kapoors-ramayana-teaser-unhone-bahut-achhe-se-banaya-hai/articleshow/129984140.cms",
     "time": "2026-04-02T16:14:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amaravati is unstoppable, invincible, and eternal, says Chief Minister Chandrababu Naidu",
-    "desc": "The passage of the amendment Bill in Parliament reflects the strength of democracy and the will of the people, says the Chief Minister, and describes the day as one that will be written in golden letters in the nation’s history",
-    "img": "https://th-i.thgim.com/public/incoming/qm2bej/article70816838.ece/alternates/LANDSCAPE_1200/10745_2_4_2026_20_15_55_2_IMG_20260402_WA0152.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/amaravati-is-unstoppable-invincible-and-eternal-says-chief-minister-chandrababu-naidu/article70816422.ece",
-    "time": "2026-04-02T16:02:30.000Z"
   },
   {
     "cat": "Politics",
@@ -441,15 +522,6 @@ const newsData_en = [
     "time": "2026-04-02T09:23:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "How Bengal's Malda 'hostage' drama unfolded",
-    "desc": "The Supreme Court has taken serious note of the Malda hostage incident, issuing show-cause notices to West Bengal's chief secretary and DGP. Protesters, angered by voter list removals, gheraoed judicial officers for hours. The court termed the event a \"deplorable\" and \"calculated\" attempt to disrupt the electoral process, demanding central forces for officer safety.",
-    "img": "https://static.toiimg.com/photo/msid-129973061,imgsize-737336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/judicial-officers-engaged-in-sir-exercise-gheraoed-for-hours-how-bengals-malda-hostage-drama-unfolded/articleshow/129973100.cms",
-    "time": "2026-04-02T09:21:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Is Rishabh Pant really an opener?’ Kevin Pietersen questions LSG call",
     "desc": "Kevin Pietersen questions Rishabh Pant's decision to bat higher up the order, suggesting it could create undue pressure. Pietersen believes Pant might be pushing himself too far ahead in the batting lineup. Meanwhile, he lauded young batter Sameer Rizvi for his match-winning performance, calling him a 'proper player' worthy of investment.",
@@ -477,15 +549,6 @@ const newsData_en = [
     "time": "2026-04-02T09:01:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ranbir's absence from the 'Ramayana' first look launch in Mumbai disappoints fans",
-    "desc": "Ranbir Kapoor's absence from the grand unveiling of his Lord Rama look for Nitesh Tiwari's 'Ramayana' in Mumbai has sparked disappointment among fans and media. Despite attending a private preview and promotional events abroad, his no-show at the public IMAX launch, coinciding with Hanuman Jayanti, has raised questions.",
-    "img": "https://static.toiimg.com/photo/msid-129972924,imgsize-34478.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoors-absence-from-the-ramayana-event-mumbai-to-launch-the-first-look-of-rama-raises-eyebrows-leaves-fans-disappointed/articleshow/129972481.cms",
-    "time": "2026-04-02T08:48:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "After snub, RCB star heads to court to secure playing rights",
     "desc": "Sri Lankan fast bowler Nuwan Thushara has taken Sri Lanka Cricket (SLC) to court, seeking a No Objection Certificate (NOC) for the 2026 Indian Premier League. Thushara argues that SLC's refusal, citing fitness standards, is unreasonable as his contract ended and he informed them of his departure from international cricket.",
@@ -502,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-15-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-film-eyes-rs-950-crore-india-net-on-third-thursday-after-rs-1400-crore-global-haul/articleshow/129971469.cms",
     "time": "2026-04-02T07:56:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Udhayanidhi Stalin files nomination from Chepauk-Thiruvallikeni; Vijay from Trichy East",
-    "desc": "Tamil Nadu's election campaign intensified as Deputy Chief Minister Udhayanidhi Stalin filed his nomination from Chepauk-Thiruvallikeni, aiming for a second consecutive win. Actor-politician Vijay also entered the fray, filing nominations from both Trichy East and Perambur constituencies, with his party manifesto emphasizing a drug-free Tamil Nadu.",
-    "img": "https://static.toiimg.com/photo/msid-129971564,imgsize-33764.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-polls-udhayanidhi-stalin-files-nomination-from-chepauk-thiruvallikeni-vijay-from-trichy-east/articleshow/129971291.cms",
-    "time": "2026-04-02T07:54:49.000Z"
   },
   {
     "cat": "Business",
@@ -828,24 +882,6 @@ const newsData_en = [
     "time": "2026-03-31T08:39:13.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Ravindra Jadeja reflects on his exit from five-time IPL champions CSK",
-    "desc": "Ravindra Jadeja said he is enjoying his return to Rajasthan Royals, the franchise where he began his IPL career and won his first title and is approaching the new phase with a positive mindset, aiming to both learn and share his experience with the team",
-    "img": "https://th-i.thgim.com/public/incoming/7ctd77/article70806069.ece/alternates/LANDSCAPE_1200/PTI03_30_2026_000387B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/very-emotional-ravindra-jadeja-reflects-on-his-exit-from-five-time-ipl-champions-csk/article70806051.ece",
-    "time": "2026-03-31T07:32:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 PBKS vs GT",
-    "desc": "“If there is a bit of grass and if there is good pace and bounce, it might be easier for the overseas guys. If the surface is a little drier and on the slower side, it might be easier for an Indian player. We have flexibility in our batting order” says",
-    "img": "https://th-i.thgim.com/public/incoming/rilvmr/article70804596.ece/alternates/LANDSCAPE_1200/09_Twenty_20_IPL_Match_30_03_Chandigarh.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-pbks-vs-gt-pbks-coach-ponting-confident-of-the-batting-options-available/article70803911.ece",
-    "time": "2026-03-31T02:12:51.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Centre eyes new regulation to cover social media users",
     "desc": "Govt. may permit I&B Ministry to send takedown notices to individual users for their posts; It includes controversial clause in draft amendment to IT Rules 2021; Internet Freedom Foundation calls it ‘massive expansion of unconstitutional censorship’",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/theres-always-another-way-rick-allen-on-survival-drumming-and-def-leppards-first-ever-india-tour/article70792692.ece",
     "time": "2026-03-28T20:12:06.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
