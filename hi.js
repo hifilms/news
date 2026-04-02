@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ajinkya Rahane decodes reason behind KKR's defeat to SRH in IPL 2026",
+    "desc": "Sunrisers Hyderabad hammered Kolkata Knight Riders, beating them by 65 runs at the iconic Eden Gardens. The hosts didn’t have a concrete bowling plan against Travis Head and Abhishek Sharma, who launched an 82-run opening...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-decodes-reason-behind-kkr-s-defeat-to-srh-in-ipl-2026-2026-04-02-1036113",
+    "time": "2026-04-02T18:20:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SRH's all-round brilliance secures 65-run win, KKR need strong tactical introspection after hammering defeat",
+    "desc": "Sunrisers Hyderabad picked up a comfortable 65-run win at the iconic Eden Gardens in the IPL 2026. The visitors were off to a cracking start, as Travis Head and Abhishek Sharma’s blitzkreig set the tone...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-s-all-round-brilliance-secures-65-run-win-kkr-need-strong-tactical-introspection-after-hammering-defeat-2026-04-02-1036109",
+    "time": "2026-04-02T17:37:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ruturaj Gaikwad wants fans to allow youngsters 'to make mistakes' after tough start to IPL 2026 campaign",
+    "desc": "Ruturaj Gaikwad is taking a patient approach to his leadership as Chennai Super Kings prepare for their first home fixture of IPL 2026 against Punjab Kings. Transitioning into an era without stalwarts like MS Dhoni,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ruturaj-gaikwad-wants-fans-to-allow-youngsters-to-make-mistakes-after-tough-start-to-ipl-2026-campaign-2026-04-02-1036105",
+    "time": "2026-04-02T17:19:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mustafizur Rahman's exclusion from IPL 2026 was 'unfortunate', says chairman Arun Dhumal",
     "desc": "The ripples of the Mustafizur Rahman exclusion continue to be felt across the cricketing landscape, three months after the Bangladesh seamer was barred from joining Kolkata Knight Riders. IPL chairman Arun Dhumal recently addressed the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/australia-to-tour-zimbabwe-after-eight-years-in-preparation-for-odi-world-cup-2027-2026-04-02-1036064",
     "time": "2026-04-02T11:30:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Rishabh Pant really an opening batter?'",
-    "desc": "Lucknow Super Giants captain Rishabh Pant opened the innings in the IPL 2026 clash against Delhi Capitals at Ekana. Last year, he featured at number four, but failed to live up to the potential. In...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-really-an-opening-batter-former-ipl-captain-dissects-lsg-s-move-against-delhi-capitals-2026-04-02-1036053",
-    "time": "2026-04-02T10:56:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 player battles to watch out for in IPL 2026 Match 6 at Eden Gardens in Kolkata",
-    "desc": "As Kolkata Knight Riders (KKR) return to their fortress at Eden Gardens today, they face a high-octane challenge against Sunrisers Hyderabad (SRH). Both teams are coming off losses in their respective opening matches of IPL 2026...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-srh-3-player-battles-to-watch-out-for-in-ipl-2026-match-6-at-eden-gardens-in-kolkata-2026-04-02-1036039",
-    "time": "2026-04-02T08:58:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rassie van der Dussen, former South Africa captain, announces retirement from international cricket",
-    "desc": "South Africa batter and former ODI captain, Rassie van der Dussen, has announced his retirement from international cricket at the age of 37. He last played for South Africa in August 2025 in a T20I...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rassie-van-der-dussen-former-south-africa-captain-announces-retirement-from-international-cricket-2026-04-02-1036025",
-    "time": "2026-04-02T07:09:12.000Z"
   }
 ];
