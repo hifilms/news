@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ઈસુ ખ્રિસ્તના કફનનું ભારત કનેક્શન નીકળ્યું! પવિત્ર Shroud of Turin ના DNA ટેસ્ટમાં મોટો ખુલાસો થયો",
+    "desc": "ઈસુ ખ્રિસ્તનો દેહ જે કાપડમાં લપેટાયો હતો, શું તે ભારતનું હતું? Shroud of Turin ના DNA અભ્યાસમાં એક મોટો ખુલાસો થયો છે કે, તે ભારતનું હતું. આખરે કેવી રીતે વૈજ્ઞાનિકોએ આ દાવો કર્યો, આ પાછળ શું થિયરી છે તે જાણીએ",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/jesus-christs-mysterious-burial-cloth-shroud-of-turin-has-indian-link-dna-study-471232 ",
+    "time": "2026-04-02T14:11:48.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પરમાણુ સુપરપાવર બનવાની રેસમાં વધુ એક દેશની એન્ટ્રી! ચીનનો સનસનીખેજ દાવો",
+    "desc": "એશિયામાં વધતા તણાવની વચ્ચે જાપાને ચીન સુધી મારણ કરનારી લાંબા અંતરની મિસાઈલ તૈનાત કરીને સ્પષ્ટ સંદેશ આપ્યો છે. આ વચ્ચે ચીનના સરકારી સૈન્ય મુખપત્ર પીએલએ ડેઈલી દ્વારા જાપાનની પરમાણુ મહત્વકાંક્ષા વિશે સનસનીખેજ દાવો કરવામાં આવ્યો છે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/china-pla-daily-claim-for-japan-making-5500-nuclear-warheads-world-war-iii-471266 ",
+    "time": "2026-04-02T14:09:52.000Z"
+  },
+  {
     "cat": "Business",
     "title": "પગાર, પેન્શન અને રજા... કેન્દ્રીય કર્મચારીઓ માટે 8મા પગાર પંચ સમક્ષ પ્રસ્તાવ, મહિલાઓ માટે સૌથી મોટી માંગ",
     "desc": "કેન્દ્ર સરકારના કર્મચારીઓ સાથે જોડાયેલ પગાર, પેન્શન અને સેવાની શરતો પર સૂચનો લેવા માટે રચાયેલા આ પગાર પંચે 18 પ્રશ્નોવાળી એક પ્રશ્નાવલી જાહેર કરી છે. પગાર પંચે આ પ્રશ્નાવલીના માધ્યમથી હિતધારકો પાસેથી પ્રતિભાવો માંગ્યા છે.",
@@ -16,15 +34,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/china-builds-missile-facility-in-antelope-reef-vietnam-taiwan-471255 ",
     "time": "2026-04-02T12:31:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈસુ ખ્રિસ્તના કફનનું ભારત કનેક્શન નીકળ્યું! પવિત્ર Shroud of Turin ના DNA ટેસ્ટમાં મોટો ખુલાસો થયો",
-    "desc": "ઈસુ ખ્રિસ્તનો દેહ જે કાપડમાં લપેટાયો હતો, શું તે ભારતનું હતું? Shroud of Turin ના DNA અભ્યાસમાં એક મોટો ખુલાસો થયો છે કે, તે ભારતનું હતું. આખરે કેવી રીતે વૈજ્ઞાનિકોએ આ દાવો કર્યો, આ પાછળ શું થિયરી છે તે જાણીએ",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/jesus-christs-mysterious-burial-cloth-shroud-of-turin-has-indian-link-dna-study-471232 ",
-    "time": "2026-04-02T12:03:58.000Z"
   },
   {
     "cat": "Business",
@@ -441,15 +450,6 @@ const newsData_gu = [
     "time": "2026-03-31T08:43:41.000Z"
   },
   {
-    "cat": "World",
-    "title": "આ મુસ્લિમ દેશો નથી ઈચ્છતા કે અમેરિકા ઈરાન સામે યુદ્ધ રોકે, પાછળથી ટ્રમ્પ પર કરી રહ્યાં છે દબાણ",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચે જંગ અટકે તેવી સંભાવના નથી કારણ કે આ સાઉદી અને યુએઈન નથી ઇચ્છતા કે ટ્રમ્પ આ યુદ્ધ બંધ કરી દે, આ બંને દેશો ટ્રમ્પ પર ઈરાનનો ખાતમો બોલાવવા માટે દબાણ કરી રહ્યાં છે. એમ જ કંઈ ઈરાન સાઉદી અને યુએઈ પર હુમલાઓ નથી કરી રહ્યું, જોઈ લો આ મુસ્લિમ દેશોની શું છે રણનીતિ....",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/these-muslim-countries-dont-want-america-to-stop-the-war-against-iran-know-reason-470916 ",
-    "time": "2026-03-31T07:50:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "CSKની શરમજનક હારનો સૌથી મોટો ગુનેગાર કોણ ? જાણો કેપ્ટને કોના પર ફોડ્યું હારનું ઠીકરું",
     "desc": "IPL 2026માં ચેન્નાઈ સુપર કિંગ્સને તેની પહેલી જ મેચમાં રાજસ્થાન રોયલ્સ સામે કારમી હારનો સામનો કરવો પડ્યો હતો. એમ એસ ધોની વિના રમવા ઉતરેલી ટીમ રાજસ્થાનના બોલરો સામે ટકી શકી નહોતી. હાર બાદ કેપ્ટન રુતુરાજ ગાયકવાડનું દર્દ છલકાયું છે અને તેણે હારના કારણો જણાવ્યા છે.",
@@ -457,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/chennai-super-kings-lost-due-to-their-batting-captain-ruturaj-gaikwad-470897 ",
     "time": "2026-03-31T06:00:26.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "હવે તો ઈરાનની બરાબર પાછળ પડી ગયા છે આ મુસ્લિમ દેશો! ટ્રમ્પને ગુપ્ત સંદેશ પણ મોકલ્યો",
-    "desc": "એકબાજુ જ્યાં ઈરાન અને ઈઝરાયેલ અમેરિકાનું યુદ્ધ દિવસેને દિવસે ભીષણ થઈ રહ્યું છે અનેક દેશોને લપેટામાં લઈ રહ્યું છે ત્યાં હવે એવા પણ સમાચાર આવી રહ્યા છેકે ખાડીના એવા કેટલાક દેશો છે જે ઈચ્છે છે કે અમેરિકા અધવચ્ચે આ સૈન્ય કાર્યવાહી બંધ કરે નહીં. જ્યાં સુધી ઈરાનમાં ધાર્મિક નેતૃત્વ ન બદલાય ત્યાં સુધી અમેરિકાએ આ કાર્યવાહી ચાલુ રાખવી જોઈએ",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/why-dont-these-countries-want-the-attacks-on-iran-to-stop-they-also-sent-a-message-to-trump-470882 ",
-    "time": "2026-03-31T04:44:30.000Z"
   },
   {
     "cat": "Entertainment",

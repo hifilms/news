@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mustafizur Rahman's exclusion from IPL 2026 was 'unfortunate', says chairman Arun Dhumal",
+    "desc": "The ripples of the Mustafizur Rahman exclusion continue to be felt across the cricketing landscape, three months after the Bangladesh seamer was barred from joining Kolkata Knight Riders. IPL chairman Arun Dhumal recently addressed the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mustafizur-rahman-s-exclusion-from-ipl-2026-was-unfortunate-says-chairman-arun-dhumal-2026-04-02-1036099",
+    "time": "2026-04-02T15:51:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma becomes second cricketer after David Warner to join legendary club, departs disappointed",
+    "desc": "Abhishek Sharma played a scintillating knock in the high-voltage clash against Kolkata Knight Riders in the ongoing IPL 2026 clash at the Eden Gardens. The southpaw smacked 48 runs off 21 balls, giving Hyderabad a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-becomes-second-cricketer-after-david-warner-to-join-legendary-club-departs-disappointed-2026-04-02-1036096",
+    "time": "2026-04-02T15:12:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Matheesha Pathirana not playing for Kolkata Knight Riders against SRH in IPL 2026?",
+    "desc": "Kolkata Knight Riders pacer Matheesha Pathirana is yet to join the squad for IPL 2026. The Sri Lanka international suffered a hamstring injury during the T20 World Cup and has been out of action since....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-matheesha-pathirana-not-playing-for-kolkata-knight-riders-against-srh-in-ipl-2026-2026-04-02-1036086",
+    "time": "2026-04-02T13:48:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Pat Cummins not playing for Sunrisers Hyderabad against KKR in IPL 2026? Ishan Kishan shares update",
+    "desc": "Sunrisers Hyderabad captain Pat Cummins is ruled out of the first few games of the IPL 2026. The all-rounder is currently managing a lumbar bone stress back injury and may return to action after a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-pat-cummins-not-playing-for-sunrisers-hyderabad-against-kkr-in-ipl-2026-ishan-kishan-shares-update-2026-04-02-1036083",
+    "time": "2026-04-02T13:40:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nuwan Thushara drags Sri Lanka Cricket to court over NOC to represent RCB in IPL 2026",
+    "desc": "A legal standoff has erupted between Sri Lankan pacer Nuwan Thushara and Sri Lanka Cricket (SLC), as the bowler seeks a court intervention to join Royal Challengers Bengaluru for the IPL 2026 season. The 31-year-old...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nuwan-thushara-drags-sri-lanka-cricket-to-court-over-noc-to-represent-rcb-in-ipl-2026-2026-04-02-1036082",
+    "time": "2026-04-02T13:19:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Yuvraj Singh apologises to MS Dhoni, Kapil Dev after father Yograj Singh's comments",
     "desc": "Former Indian all-rounder Yuvraj Singh has distanced himself from the long-standing controversies surrounding his father, Yograj Singh, by offering a public apology to two of India’s greatest captains. The two-time World Cup winner addressed the...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rassie-van-der-dussen-former-south-africa-captain-announces-retirement-from-international-cricket-2026-04-02-1036025",
     "time": "2026-04-02T07:09:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PSL ball-tampering controversy: Fakhar Zaman challenges two-match suspension, submits appeal to committee",
-    "desc": "Lahore Qalandars batter Fakhar Zaman has decided to challenge the two-match suspension over ball-tampering charges levied on him by the umpires during the match against Karachi Kings. For the unversed, the opening batter was charged...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/psl-ball-tampering-controversy-fakhar-zaman-challenges-two-match-suspension-submits-appeal-to-committee-2026-04-02-1036020",
-    "time": "2026-04-02T06:40:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Prince Yadav and Tristan Stubbs exchange heated words during DC vs LSG IPL 2026 clash, video viral",
-    "desc": "Delhi Capitals defeated Lucknow Super Giants comfortably in their opening game of the season at the Ekana Cricket Stadium on Wednesday. However, at one stage, LSG were the favourites to win the game as they had...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/prince-yadav-and-tristan-stubbs-exchange-heated-words-during-dc-vs-lsg-ipl-2026-clash-video-viral-2026-04-02-1036006",
-    "time": "2026-04-02T04:58:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is Delhi Capitals batter Sameer Rizvi's IPL 2026 salary?",
-    "desc": "Delhi Capitals were 21/2 in the fourth over when Sameer Rizvi came out to bat in the game against Lucknow Super Giants as an impact player in the 5th match of IPL 2026 on Wednesday....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-is-delhi-capitals-batter-sameer-rizvi-s-ipl-2026-salary-2026-04-02-1035996",
-    "time": "2026-04-02T03:52:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "LSG owner Sanjiv Goenka shows 'full confidence' in captain amid viral video with Rishabh Pant after loss to DC",
-    "desc": "Ever since Lucknow Super Giants, Sanjiv Goenka blasted former captain, KL Rahul, during IPL 2024, his every chat with the current captain, Rishabh Pant, and coach, Justin Langer, especially after a loss, goes viral. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-owner-sanjiv-goenka-shows-full-confidence-in-captain-amid-viral-video-with-rishabh-pant-after-loss-to-dc-2026-04-02-1035991",
-    "time": "2026-04-02T02:39:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals make LSG succumb to their worst performance batting first in IPL history",
-    "desc": "Lucknow Super Giants suffered a defeat in their opening game of the Indian Premier League (IPL) season on Wednesday as they went down to Delhi Capitals at the Ekana Cricket Stadium in Lucknow. Even though...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-make-lsg-succumb-to-their-worst-performance-batting-first-in-ipl-history-2026-04-02-1035989",
-    "time": "2026-04-02T02:04:24.000Z"
   }
 ];
