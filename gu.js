@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "માત્ર સમોસા જ નહીં, આ કારણે AAPમાંથી દૂર ફેકાઈ ગયા છે રાઘવ ચઢ્ઢા! જાણો અંદરની વાત",
+    "desc": "આમ આદમી પાર્ટી (AAP) અને અરવિંદ કેજરીવાલના ક્યારેક અત્યંત નજીકના ગણાતા રાજ્યસભા સાંસદ રાઘવ ચઢ્ઢા વચ્ચેનો અણબનાવ હવે ખુલ્લેઆમ સામે આવ્યો છે. 'આપ' દ્વારા ચઢ્ઢા પર રાજ્યસભામાં મહત્વના મુદ્દાઓ ન ઉઠાવવાનો આરોપ લગાવીને તેમને ડેપ્યુટી લીડરના પદેથી હટાવી દેવામાં આવ્યા છે. તેમની જગ્યાએ પંજાબના સાંસદ અશોક મિત્તલની નિમણૂક કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/not-just-samosa-this-is-why-raghav-chadha-has-been-thrown-out-of-aap-know-the-inside-story-471412 ",
+    "time": "2026-04-03T16:59:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ઈરાન યુદ્ધ વચ્ચે સરકારની મોટી તૈયારી, 2 લાખ કરોડના રાહત પેકેજની થઈ શકે છે જાહેરાત!",
+    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા યુદ્ધની આર્થિક અસરોને જોતા કેન્દ્ર સરકાર મોટા પગલાં લેવાની તૈયારીમાં છે. એનડીટીવી પ્રોફિટના રિપોર્ટ અનુસાર, નાણા મંત્રાલય લગભગ 2 લાખ કરોડની ક્રેડિટ સપોર્ટ સ્કીમ પર કામ કરી રહ્યું છે. આ સ્કીમનો મુખ્ય ઉદ્દેશ્ય એવા સેક્ટર્સને રાહત આપવાનો છે જે મિડલ ઈસ્ટ સંકટથી પ્રભાવિત થઈ રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/government-big-preparations-amid-iran-war-relief-package-of-rs-2-lakh-crore-may-be-announced-471410 ",
+    "time": "2026-04-03T16:21:06.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "અભિષેક નહીં આ યુવા બેટ્સમેનને પોતાના કરતા સારો માને છે યુવરાજ સિંહ, 35 બોલમાં સદી ફટકારીને મચાવી હતી ધૂમ",
     "desc": "ભૂતપૂર્વ ભારતીય ક્રિકેટ દિગ્ગજ યુવરાજ સિંહે યુવા સેન્સેશન વૈભવ સૂર્યવંશી વિશે એક મહત્વપૂર્ણ નિવેદન આપ્યું છે, જેમણે IPL 2026માં 15 બોલમાં અડધી સદી ફટકારીને શાનદાર શરૂઆત કરી હતી. યુવરાજ સિંહ માને છે કે વૈભવની બેટની ગતિ તેના કરતા પણ વધુ ઝડપી છે. રાજસ્થાન રોયલ્સના આ ઓપનર IPLમાં સૌથી ઝડપી સદી ફટકારનાર ભારતીય બેટ્સમેનનો રેકોર્ડ ધરાવે છે.",
@@ -405,15 +423,6 @@ const newsData_gu = [
     "time": "2026-04-01T08:54:44.000Z"
   },
   {
-    "cat": "Business",
-    "title": "એક ઝટકે સોના ચાંદીના ભાવમાં મોટો વધારો, અમદાવાદ-વડોદરા સહિત શહેરોમાં શું છે ભાવ? જાણો આજનો લેટેસ્ટ રેટ",
-    "desc": "સોના અને ચાંદીના ભાવમાં આજે ઉછાળો જોવા મળ્યો છે. સોનું અઢી હજાર જેટલું અને ચાંદી 9 હજાર જેટલી મોંઘી થઈ છે. શેરબજારમાં પણ આજે ફુલ ગુલાબી તેજી જોવા મળી. જો તમે સોનું ચાંદી ખરીદવાનું વિચારતા હોવ તો ફટાફટ આજના લેટેસ્ટ રેટ ખાસ ચેક કરો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-jump-in-gold-and-silver-prices-today-what-is-the-price-in-your-city-check-mcx-ibja-latest-rates-471060 ",
-    "time": "2026-04-01T08:23:08.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "કુવૈતથી આવી ‘મોતની ફ્લાઇટ’! 20 ભારતીયોના તાબૂત ઉતરતા જ કોચી એરપોર્ટ પર માતમ છવાયો",
     "desc": "છેલ્લા કેટલાક દિવસોમાં કુવૈતમાં અલગ-અલગ સ્થિતિઓમાં મૃત્યુ પામેલા ઓછામાં ઓછા 20 ભારતીયોના પાર્થિવ દેહ મંગળવારે એક સ્પેશિયલ વિમાન દ્વારા કોચી પહોંચ્યા હતા. કુવૈત એરવેઝનું આ વિમાન રાત્રે અંદાજે 10.40 વાગ્યે કોચી ઈન્ટરનેશનલ એરપોર્ટ (CIAL) પર ઉતરાણ કર્યું હતું.",
@@ -432,24 +441,6 @@ const newsData_gu = [
     "time": "2026-04-01T08:06:19.000Z"
   },
   {
-    "cat": "World",
-    "title": "લો બોલો! હવે મહા સુનામી&amp;#039;નો ખતરો! UNESCO ની ચેતવણીએ લોકોને ડરાવ્યા, જાણો કયા શહેરો છે &amp;#039;ડેન્જર ઝોન&amp;#039; માં?",
-    "desc": "યુનેસ્કો (UNESCO) એ એક એવી ચેતવણી જાહેર કરી છે, જેણે ભૂમધ્ય સમુદ્ર (Mediterranean Sea)ના કિનારે વસેલા દેશોની ઊંઘ ઉડાવી દીધી છે. વૈજ્ઞાનિકોનું કહેવું છે કે આગામી 30 વર્ષમાં આ વિસ્તારમાં ભયાનક સુનામી આવવાની શક્યતા છે. આ એક કડવું સત્ય છે, જેના માટે વિશ્વ હજુ તૈયાર નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/unesco-warns-of-a-hidden-tsunami-threat-over-the-next-30-years-471054 ",
-    "time": "2026-04-01T07:08:42.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "હોર્મુઝ સ્ટ્રેટ પર ટ્રમ્પના યુ-ટર્નની ભારતમાં પેટ્રોલ-ડીઝલના ભાવ પર શું પડશે અસર ? જાણો ભાવ વધશે કે ઘટશે",
-    "desc": "\"જેને ઓઈલ જોઈએ છે તે હોર્મુઝ સ્ટ્રેટનો રસ્તો જાતે ખોલાવે!\" ટ્રમ્પના આ તીખા નિવેદનથી દુનિયા ચોંકી ગઈ છે. જો અમેરિકા પશ્ચિમ એશિયામાંથી ખસી જાય છે, તો ભારતમાં ઓઈલના ભાવ પર શું અસર પડશે ? ભારતમાં પેટ્રોલ-ડીઝલના ભાવ વધશે કે ઘટશે ? તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/trump-statement-on-strait-of-hormuz-will-impact-petrol-diesel-prices-in-india-471053 ",
-    "time": "2026-04-01T06:51:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રિયા કપૂરે શેર કરી દીધી સોનમ કપૂરના નાના દીકરાની તસવીર, સોશિયલ મીડિયા પર ફોટો વાયરલ",
     "desc": "સોનમ કપૂર અને આનંદ આહુજા બીજા દીકરાના માતા-પિતા બન્યા છે. સોનમ કપૂરના દીકરાની પહેલી તસવીર તેની માસી એટલે કે રિયા કપૂરે ઈંસ્ટાગ્રામ પર શેર કરી છે. આ ફોટો સોશિયલ મીડિયા પર વાયરલ થવા લાગ્યો છે.",
@@ -457,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rhea-kapoor-instagram-post-viral-sonam-kapoor-new-born-son-photo-471036 ",
     "time": "2026-04-01T05:54:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "19 કિલોના કોર્મશિયલ ગેસ સિલિન્ડરના ભાવમાં 195 રુપિયાનો વધારો, નાના ધંધાર્થીઓને મોટો ઝટકો",
-    "desc": "મિડલ ઈસ્ટના સંઘર્ષની અસર ધીરે ધીરે ભારત પર વર્તાઈ રહી છે. 1 એપ્રિલ 2026 ના રોજથી કોર્મશિયલ એલપીજી સિલિન્ડરના ભાવમાં 195 રુપિયાનો વધારો ઝીંકાયો છે. નવા ભાવ આજથી જ લાગુ થઈ ચુક્યા છે. આ ભાવ વધારો નાના ધંધાર્થીઓ માટે મોટો ઝટકો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gas-cylinder-price-in-india-19-kg-commercial-gas-cylinder-price-hike-195-rupees-471008 ",
-    "time": "2026-04-01T04:48:37.000Z"
   },
   {
     "cat": "Politics",
@@ -484,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/suhagrat-turned-into-a-horror-night-for-up-man-got-slapped-also-the-injury-in-head-471027 ",
     "time": "2026-04-01T03:49:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આવી ગઈ તારીખ, ગુજરાતમાં આ તારીખથી શરૂ થશે વસ્તી ગણતરી; પ્રથમ તબક્કાનું આખું શિડ્યુલ જાહેર, જાણો",
-    "desc": "ભારતના રજિસ્ટ્રાર જનરલ મૃત્યુંજય કુમાર નારાયણે જણાવ્યું હતું કે, વસ્તી ગણતરી કરનાર કર્મચારીઓ મકાન નંબર (નગરપાલિકા કે સ્થાનિક સત્તામંડળ દ્વારા અપાયેલ), જનગણના મકાન નંબર અને ફ્લોર, દીવાલ તથા છતના નિર્માણમાં વપરાયેલી મુખ્ય સામગ્રી જેવી વિગતો એકત્રિત કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/the-date-has-come-census-will-begin-in-gujarat-from-this-date-the-entire-schedule-of-the-first-phase-has-been-announced-know-470994 ",
-    "time": "2026-03-31T18:24:14.000Z"
   },
   {
     "cat": "Tech",
@@ -709,14 +682,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/have-you-seen-the-new-version-of-whatsapp-the-interface-changed-with-an-update-what-is-this-feature-469207 ",
     "time": "2026-03-19T07:03:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "એરબેગથી સજ્જ વિશ્વનું પ્રથમ સ્કૂટર લોન્ચ, મળશે 292cc નું એન્જિન, મળશે આ ફીચર્સ",
-    "desc": "Yamaha એ દુનિયાનું પ્રથમ એરબેગથી સજ્જ સ્કૂટર લોન્ચ કર્યું છે. આ થ્રી-વ્હીલર સ્કૂટર છે, જે સારા બેલેન્સ અને સેફ્ટી સાથે આવે છે. તેના ફ્રંટમાં એરબેગ આપવામાં આવી છે, જે ટક્કર થવાની સ્થિતિમાં રાઇડરની સુરક્ષાની ખાતરી કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/yamaha-tricity-300-this-world-first-airbag-scooter-292cc-engine-check-mileage-469100 ",
-    "time": "2026-03-18T11:11:45.000Z"
   }
 ];

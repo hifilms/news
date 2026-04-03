@@ -117,24 +117,6 @@ const newsData_bn = [
     "time": "2026-04-01T12:52:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "গ্যাস নেই, তেল তলানিতে: পয়লা বৈশাখ থেকেই উইকএন্ড লকডাউন শুরু? ভাইরাল নোটিস",
-    "desc": "এই খবরটি ছড়িয়ে পড়ার পর থেকেই সাধারণ মানুষের মধ্যে চরম আতঙ্ক তৈরি হয়েছে। ঠিক কী রয়েছে এই ভাইরাল বার্তায়? সরকারের অবস্থানই বা কী? এবং এর সঙ্গে ইরান যুদ্ধ বা এলপিজি (LPG) সংকটের সম্পর্ক কোথায়? এটি কি সত্যি?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/viral-partial-lockdown-april-15-government-notice-fact-check-india_646951.html ",
-    "time": "2026-04-01T11:50:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আপনি দেশের নাগরিক তো? SIR-আবহে শুরু সম্পূর্ণ নতুন বিষয়! এক্ষুনি ভরতে হবে সেল্ফ এনুমারেশন ফর্ম?",
-    "desc": "সাধারণত ১০ বছর ছাড়া-ছাড়া জনগণনার কাজ হয়। সেই হিসেবে ২০২১ সালে জনগণনা হওয়ার কথা ছিল। কিন্তু কোভিডের কারণে হয়নি। এবার শুরু হচ্ছে। দেড় দশক পরে ভারতের জনশুমারির এই মহা কর্মযজ্ঞে টানা এক বছর ধরে ৩০ লাখ কর্মী বাড়ি বাড়ি ঘুরে কাজটি শেষ করবেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/census-2027-worlds-largest-first-digitallly-conducted-census-begins-33-questions-self-enumeration-exercise_646912.html ",
-    "time": "2026-04-01T09:44:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "রাহুলের মৃত্যুতে উত্তাল টলিউড: গাফিলতির অভিযোগে কাঠগড়ায় প্রযোজনা সংস্থা, আইনি পদক্ষেপের পথে প্রিয়াঙ্কা",
     "desc": "রাহুলের মৃত্যু কি স্রেফ দুর্ঘটনা, নাকি গাফিলতি? শুটিং সেটে নিরাপত্তার অভাব আর তথ্য গোপনের অভিযোগে এবার বিদ্ধ লীনা গঙ্গোপাধ্যায়ের প্রযোজনা সংস্থা। বিচার চেয়ে এককাট্টা আর্টিস্টস ফোরাম। কী হতে চলেছে পরবর্তী পদক্ষেপ? পুলিসে অভিযোগ জানাতে চলেছেন প্রিয়াঙ্কা?",
@@ -196,14 +178,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunoday-banerjee-death-mystery-timeline-gap-fatal-delay-explained-by-hospital-super_646772.html ",
     "time": "2026-03-31T10:05:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

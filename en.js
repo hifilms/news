@@ -1,6 +1,168 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Tamil Nadu missed out on Central government schemes because DMK saw BJP as an enemy, says G.K. Vasan",
+    "desc": "This is an election for the safety of the people of Tamil Nadu, especially women. The DMK does not want any development from the Centre because of vote bank politics. It should be a double-engine sarkar; the Central and State governments should work together, says the TMC(M) president",
+    "img": "https://th-i.thgim.com/public/incoming/fs4g52/article70821143.ece/alternates/LANDSCAPE_1200/11658_31_3_2026_20_45_1_2_7.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-missed-out-on-central-government-schemes-becausedmksawbjpas-an-enemy-says-gk-vasan/article70821141.ece",
+    "time": "2026-04-03T18:40:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When an unknown 29-year-old took on K. Kamaraj in 1962",
+    "desc": "Sixty-four years ago, P. Ramamoorthy, now 92, volunteered to fight against the then all-powerful Chief Minister of Tamil Nadu in Sattur, though he had nothing personal against him. The election did not generate any surprise. Kamaraj won hands down",
+    "img": "https://th-i.thgim.com/public/incoming/qhj4vk/article70821012.ece/alternates/LANDSCAPE_1200/P.%20Ramamoorthy%20Swatantra%20Party-03.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/when-an-unknown-29-year-old-took-on-kkamarajin-1962/article70820104.ece",
+    "time": "2026-04-03T18:21:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Decoding manifestos of parties in Kerala fray",
+    "desc": "Kerala's 2026 elections are a promise war. LDF, UDF, and NDA offer welfare, jobs, and growth. Welfare is now a baseline. Parties compete on scale and delivery. Voters seek sustainability and governance. Promises target all sections. Implementation is the real test amid fiscal challenges. This election is a referendum on competing models.",
+    "img": "https://static.toiimg.com/photo/msid-130007394,imgsize-1793367.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/the-battle-of-promises-and-bigger-promises-decoding-manifestos-of-parties-in-kerala-fray/articleshow/130004531.cms",
+    "time": "2026-04-03T18:04:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Abhishek Bachchan says marriage with Aishwarya is based on partnership",
+    "desc": "Abhishek Bachchan revealed that friendship has always been the foundation of his marriage to Aishwarya Rai Bachchan. He emphasized that their relationship is built on partnership and equality, stemming from his upbringing and his own career achievements. Abhishek highlighted that he never felt the need to dominate or have his partner yield for him to succeed.",
+    "img": "https://static.toiimg.com/photo/msid-130006796,imgsize-31318.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-says-marriage-with-aishwarya-rai-bachchan-is-based-on-equality-and-partnership-through-our-courtship-engagement-/articleshow/130006712.cms",
+    "time": "2026-04-03T17:41:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Pakistan to repay $2 billion loan to UAE amid Middle East tensions",
+    "desc": "Pakistan is set to repay a $2 billion loan to the UAE by month's end, a request reportedly linked to the Middle East's recent geopolitical shifts. The funds, held by the State Bank of Pakistan, were initially for balance of payment support. While Pakistan can meet this repayment, it may require further external financing for upcoming fiscal needs.",
+    "img": "https://static.toiimg.com/photo/msid-130006632,imgsize-429711.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/pakistan-to-repay-2-billion-loan-to-uae-amid-middle-east-tensions/articleshow/130006589.cms",
+    "time": "2026-04-03T17:32:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'If he's not going to bowl ...'",
+    "desc": "Former India batter Sunil Gavaskar questioned Kolkata Knight Riders’ balance due to Cameron Green not bowling, suggesting a specialist batter may be needed. He also flagged middle-order concerns amid back-to-back losses. Meanwhile, Gavaskar praised Nitish Kumar Reddy’s improved pace and all-round performance for Sunrisers Hyderabad, calling it encouraging for India.",
+    "img": "https://static.toiimg.com/photo/msid-130006382,imgsize-56066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/sunil-gavaskar-gives-huge-cameron-green-verdict-if-hes-not-going-to-bowl-/articleshow/130006054.cms",
+    "time": "2026-04-03T17:25:41.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war LIVE: White House requests giant $1.5 trillion defence budget amid Iran war",
+    "desc": "The total year-on-year increase in Pentagon spending would be the largest since World War II, U.S. media reported, although presidential budgets are wish lists that have to be approved by Congress, rather than binding orders.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-3-2026-west-asia-crisis-conflict/article70818422.ece",
+    "time": "2026-04-03T17:24:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 GT vs RR",
+    "desc": "GT’s bowling, quietly efficient in the defeat to Punjab Kings, now meets a different kind of volatility, led by Vaibhav Suryavanshi and Yashasvi Jaiswal. RR began its campaign with a thumping eight-wicket win over Chennai Super Kings.",
+    "img": "https://th-i.thgim.com/public/incoming/wh9r33/article70820866.ece/alternates/LANDSCAPE_1200/TH04-GILL-RATHOUR.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-gt-vs-rr-onus-on-titans-top-order-as-it-meets-royals-in-first-home-fixture/article70819539.ece",
+    "time": "2026-04-03T17:14:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Theorising a third term for LDF, one couplet at a time",
+    "desc": "CPI (M)’s M.A. Baby says the ‘alternative model’ led by the Left should not be disrupted; he says BJP’s communal politics is the biggest challenge for Kerala and that the Congress is yet to understand the threat of communal fascism",
+    "img": "https://th-i.thgim.com/public/incoming/z3w10m/article70820978.ece/alternates/LANDSCAPE_1200/CPIM-CITY_G1IFOGBFFOFHBB.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/theorising-a-third-term-for-ldf-one-couplet-at-a-time/article70819824.ece",
+    "time": "2026-04-03T16:56:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajpal clarifies he's never been out of work amidst Rs 9 cr debt case",
+    "desc": "Actor Rajpal Yadav, recently granted bail in a cheque bounce case, clarified he hasn't faced professional struggles. Speaking with Farah Khan, he revealed a prolific career, having starred in approximately 50 films each with Ram Gopal Varma, Priyadarshan, and David Dhawan, and over 200 films since 2000, emphasizing his consistent work.",
+    "img": "https://static.toiimg.com/photo/msid-130005546,imgsize-61384.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-clarifies-hes-never-been-out-of-work-in-the-industry-amidst-rs-9-crore-debt-case-salman-khan-akshay-kumar-cant-do-without-me/articleshow/130005500.cms",
+    "time": "2026-04-03T16:47:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress is politically incompetent and ideologically bankrupt, says D. Raja",
+    "desc": "The Left Democratic Front government in Kerala has been successful on many fronts and will win a third consecutive term, says the CPI general secretary; accusing the Congress of resorting to ‘slanderous campaigns and allegations’, he says it must criticise the government on the basis of issues",
+    "img": "https://th-i.thgim.com/public/incoming/sz0rk9/article70820944.ece/alternates/LANDSCAPE_1200/IMG_2549.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/congress-is-politically-incompetent-and-ideologically-bankrupt-says-d-raja/article70815766.ece",
+    "time": "2026-04-03T16:41:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "G.K. Vasan: Tamil Nadu missed central schemes as DMK treated BJP as ‘enemy’",
+    "desc": "GK Vasan, president of the Tamil Maanila Congress (Moopanar), speaks about the upcoming Assembly elections in Tamil Nadu. He talks about his party’s alliance with the BJP, why the country has rejected the Congress party and that the priority of the State should be safety, especially for women.",
+    "img": "https://th-i.thgim.com/public/incoming/2sj896/article70820911.ece/alternates/LANDSCAPE_1200/GK%20VASAN%20THUMB_2.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-gk-vasan-tamil-nadu-missed-central-schemes-as-dmk-treated-bjp-as-enemy/article70820915.ece",
+    "time": "2026-04-03T16:31:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress calls delimitation move ‘dangerous,’ says women’s law amended to grab political mileage in polls",
+    "desc": "Congress President Mallikarjun Kharge and LoP in Lok Sabha Rahul Gandhi to meet party colleagues and other Opposition leaders to strategise for the special session, says Jairam Ramesh, adding the move to amend women’s quota law in the middle of elections violates model code",
+    "img": "https://th-i.thgim.com/public/incoming/izvn8d/article70819378.ece/alternates/LANDSCAPE_1200/JairamRamesh.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/government-called-special-session-for-political-mileage-in-west-bengal-tamil-nadu-polls-it-is-mcc-violation-congress/article70819361.ece",
+    "time": "2026-04-03T16:30:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "One crew member rescued from downed U.S. fighter jet over Iran: U.S. media reports",
+    "desc": "Unidentified sources quoted by U.S. media reported that one of the two crew on the plane had already been rescued by U.S. special forces but that the search was ongoing for the second crew member.",
+    "img": "https://th-i.thgim.com/public/news/national/6wdnmj/article70820728.ece/alternates/LANDSCAPE_1200/HEYTEO7XsAERakG.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-fighter-jet-shot-down-over-iran-tehran-urges-civilians-to-hunt-for-crew/article70820656.ece",
+    "time": "2026-04-03T16:28:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "5.9 magnitude earthquake hits Afghanistan's Hindu Kush region, tremors felt in north India",
+    "desc": "A 5.9 magnitude earthquake originating in Afghanistan's Jurm jolted Delhi-NCR and northern India on Friday evening. Residents across Jammu and Kashmir, Delhi, and surrounding areas felt the tremors and evacuated their homes. Fortunately, no injuries or property damage have been reported thus far in this developing situation.",
+    "img": "https://static.toiimg.com/photo/msid-130005176,imgsize-829661.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/earthquake-tremors-felt-across-delhi-ncr-and-north-india-report/articleshow/130005180.cms",
+    "time": "2026-04-03T16:26:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir opens up on Sai Pallavi as Sita, Yash as Raavan",
+    "desc": "Ranbir Kapoor praised Sai Pallavi as Sita and Yash as Ravana for Nitesh Tiwari's \"Ramayana.\" Kapoor highlighted Sai Pallavi's talent and Yash's commanding screen presence, noting his unique interpretation of the villain. The film, shot in IMAX, is a two-part event with the first part releasing in Diwali 2026.",
+    "img": "https://static.toiimg.com/photo/msid-130004843,imgsize-51818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-nobody-was-better-suited-for-sita-than-sai-pallavi-yash-comes-with-stardom-and-for-raavan-you-need-that-screen-presence/articleshow/130004842.cms",
+    "time": "2026-04-03T16:00:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rare disease funds drop, unspent money piles up at key centres",
+    "desc": "Funding for rare disease treatment at Centres of Excellence has significantly dropped, with allocations falling from Rs 82.87 crore to Rs 32.73 crore. Despite this, many institutions report unspent funds, indicating issues with fund utilization and patient support, even as new releases are limited.",
+    "img": "https://static.toiimg.com/photo/msid-130004658,imgsize-476256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rare-disease-funds-drop-unspent-money-piles-up-at-key-centres/articleshow/130004632.cms",
+    "time": "2026-04-03T15:48:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bat-check controversy: How Mhatre failed thrice due to umpire error",
+    "desc": "A bizarre moment in the IPL 2026 match between Chennai Super Kings and Punjab Kings saw Ayush Mhatre’s bat fail multiple checks due to an upside-down gauge. After confusion and delays, the error was fixed and his original bat passed. The incident, though harmless, became a widely discussed and humorous highlight of the match.",
+    "img": "https://static.toiimg.com/photo/msid-130004527,imgsize-54332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/bat-check-controversy-how-ayush-mhatre-failed-thrice-due-to-umpire-error/articleshow/130004423.cms",
+    "time": "2026-04-03T15:41:30.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "This Kerala airport halts flights for 5 hours for a religious procession",
     "desc": "At Thiruvananthapuram International Airport, flight operations were halted for a few hours as the centuries-old Arattu procession of the Painkuni festival crossed the runway en route to Shangumugham Beach. The ritual, linked to the Sree Padmanabhaswamy Temple, marks the ceremonial sea bath of the deity.",
     "img": "https://th-i.thgim.com/public/incoming/csktq3/article70820640.ece/alternates/LANDSCAPE_1200/painkuni.jpg",
@@ -18,17 +180,8 @@ const newsData_en = [
     "time": "2026-04-03T15:09:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "In BJP’s Assam poll narrative, Pakistan is the protagonist, ‘anti-national’ a leitmotif",
-    "desc": "Chief Minister Himanta Biswa Sarma has been attacking Congress leader Gaurav Gogoi over his alleged Pakistan connections, his latest barb was aimed at the mother of a candidate whom he accused of sympathising with ‘anti-national’ elements",
-    "img": "https://th-i.thgim.com/public/incoming/8knf8z/article70820497.ece/alternates/LANDSCAPE_1200/2150_23_3_2026_18_14_36_1_ASSAMELECTION_23032026_02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/assam-assembly/in-bjps-assam-poll-narrative-pakistan-is-the-protagonist-anti-national-a-leitmotif/article70817060.ece",
-    "time": "2026-04-03T14:55:03.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "'Three big actors refused Akshaye's 'Dhurandhar' role, must be regretting now'",
+    "title": "'An actor from south, two from Bollywood gave weird logic, refused Akshaye's role'",
     "desc": "The Revenge,\" noting that several actors declined the role of antagonist Rehmaan Dakait, eventually played by Akshaye Khanna. The film, which has surpassed ₹1500 crore globally, saw Ranveer Singh as the immediate choice for the lead, while over 1000 auditions were held for Sara Arjun's role.",
     "img": "https://static.toiimg.com/photo/msid-130003427,imgsize-37642.cms",
     "src": "indiatimes.com",
@@ -43,33 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-chennai-crowd-forces-ian-bishop-to-say-sorry-during-csk-vs-pbks-toss-watch/articleshow/130002885.cms",
     "time": "2026-04-03T14:27:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Alleged mastermind behind Malda violence arrested, NIA team arrives",
-    "desc": "Moffakkerul Islam, a lawyer who had contested the 2021 polls on an AIMIM ticket, was seen giving a speech outside the BDO office and urging the crowd not to leave the premises; he was detained while trying to flee the State from Bagdogra airport in north Bengal",
-    "img": "https://th-i.thgim.com/public/incoming/k0hzrv/article70818931.ece/alternates/LANDSCAPE_1200/Screenshot%202026-04-03%20121619.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/mastermind-behind-malda-violence-arrested/article70818789.ece",
-    "time": "2026-04-03T13:49:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. CM Stalin writes to PM Modi over FCRA Amendment Bill, terms it ‘draconian’",
-    "desc": "He pointed out that it sought to dismantle India’s charitable organisations by enabling the Union government, at its discretion, to cancel the FCRA registration of an organisation and take over its assets — whether it is a church, school, or hospital — “without any due process.”",
-    "img": "https://th-i.thgim.com/public/incoming/cv2nn8/article70819613.ece/alternates/LANDSCAPE_1200/Stalin%208.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-terms-fcra-amendment-bill-draconian/article70819223.ece",
-    "time": "2026-04-03T13:48:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "LPG crisis sparks surge in interest for electric autos in Bengaluru",
-    "desc": "The recent surge in fuel prices, triggered by West Asia conflict, has increased operating costs for conventional fuel-based vehicles. This has, in turn, revived attention towards electric vehicles (EVs), including electric cars, autos, two-wheelers and plug-in hybrids.",
-    "img": "https://th-i.thgim.com/public/incoming/u8nl37/article70820140.ece/alternates/LANDSCAPE_1200/10505_28_3_2026_19_38_23_1_29_MNEAUTO.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/lpg-crisis-sparks-surge-in-interest-for-electric-autos-in-bengaluru/article70819992.ece",
-    "time": "2026-04-03T13:41:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -297,15 +423,6 @@ const newsData_en = [
     "time": "2026-04-03T09:22:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'People not ready to vote for you': Kanimozhi targets NDA during campaign in Tamil Nadu's Madurai",
-    "desc": "DMK MP Kanimozhi asserted that Tamil Nadu voters are backing the Secular Progressive Alliance over the BJP-led NDA, citing the DMK's commitment to protecting Tamil people's future. She highlighted the alliance's policy-based approach and the government's fulfillment of welfare promises, including increased financial assistance for women.",
-    "img": "https://static.toiimg.com/photo/msid-129997992,imgsize-40938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/people-not-ready-to-vote-for-you-kanimozhi-targets-nda-during-campaign-in-tamil-nadus-madurai/articleshow/129997967.cms",
-    "time": "2026-04-03T09:18:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sean Preston changes name from Federline to Spears on socials",
     "desc": "Britney Spears' 19-year-old son, Sean Preston, has updated his social media handles to reflect his mother's surname, now going by Sean P Spears. This change follows a recent yacht outing with the pop icon, occurring shortly after her DUI arrest. Sean has been reportedly spending more time with his mother and brother, Jayden James.",
@@ -334,30 +451,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Sonam shares first PHOTO with her newborn from the hospital",
-    "desc": "Sonam Kapoor shared her first hospital photo, holding her newborn baby close, captioned “Grateful beyond words.” The actress welcomed her second son with Anand Ahuja on March 29, 2026. Sonam said her elder son Vayu is thrilled to be a big brother, calling it a beautiful new chapter for their family.",
-    "img": "https://static.toiimg.com/photo/msid-129997725,imgsize-33904.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonam-kapoor-shares-first-heartwarming-photo-with-her-newborn-from-the-hospital-see-photo/articleshow/129997725.cms",
-    "time": "2026-04-03T09:01:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Smita Patil wanted to go as a 'suhagan', Big B &amp; others were present at her funeral",
     "desc": "Veteran make-up artist Deepak Sawant emotionally recounted doing Smita Patil's final makeup, fulfilling her wish to be adorned as a 'suhagan' after her untimely death at 31. Her mother entrusted him with the task, leading to a tearful tribute to the beloved actress. Prateik Babbar has now adopted his mother's surname to honor her legacy.",
     "img": "https://static.toiimg.com/photo/msid-129997636,imgsize-25062.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/smita-patil-wanted-to-go-as-a-suhagan-when-she-died-amitabh-bachchan-and-others-were-present-at-her-funeral-i-cried-and-did-her-make-up/articleshow/129997489.cms",
     "time": "2026-04-03T08:55:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lili Reinhart talks about her worst experience with a male director",
-    "desc": "In a candid interview, actress Lili Reinhart recounted a painful moment with a male director who suggested she 'suck in your stomach a little bit.' This comment resonated deeply with the 'Riverdale' star, who has been vocal about her personal battles with body image issues and disordered eating.",
-    "img": "https://static.toiimg.com/photo/msid-129997527,imgsize-71968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/forbidden-fruit-star-lili-reinhart-reveals-her-worst-experience-with-a-male-director/articleshow/129997527.cms",
-    "time": "2026-04-03T08:50:03.000Z"
   },
   {
     "cat": "Sports",
@@ -367,24 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/true-player-pm-modi-hails-sanju-samsons-t20-world-cup-heroics/articleshow/129997504.cms",
     "time": "2026-04-03T08:47:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Suriya urges viewers to watch 'Neelira' in theatres",
-    "desc": "Actor Suriya lauded the Tamil film 'Neelira', describing it as a powerful narrative about the human cost of war. He highlighted the film's emotional depth, focusing on the struggles of common people during the Sri Lankan civil war and a family's attempt to hold a wedding amidst the conflict. Suriya emphasized that the movie serves as a testament against war.",
-    "img": "https://static.toiimg.com/photo/msid-129997505,imgsize-145998.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suriya-praises-neelira-after-watching-the-film-calls-it-a-powerful-story-about-war-and-humanity/articleshow/129997505.cms",
-    "time": "2026-04-03T08:47:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'He should resign first': Mamata targets PM Modi over voter list row in Bengal polls",
-    "desc": "West Bengal CM Mamata Banerjee launched a sharp attack on PM Modi, demanding his resignation if infiltrators are on voter lists, as she questioned the electoral roll challenges. She also blamed AIMIM and ISF for the Malda judicial officers' gherao, accusing Congress and BJP of instigation.",
-    "img": "https://static.toiimg.com/photo/msid-129997339,imgsize-30006.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/he-should-resign-first-mamata-targets-pm-modi-over-voter-list-row-in-bengal-polls/articleshow/129997030.cms",
-    "time": "2026-04-03T08:44:44.000Z"
   },
   {
     "cat": "Business",
@@ -421,24 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/oil-lng-supplies-top-russian-official-manturov-signals-fuel-support-for-india-during-middle-east-crisis/articleshow/129996442.cms",
     "time": "2026-04-03T08:01:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Soft PR, 'samosa' swipe: How Arvind Kejriwal's 'soldiers' justified Raghav Chadha's 'demotion' in Rajya Sabha",
-    "desc": "Aam Aadmi Party's internal discord surfaced publicly as MP Raghav Chadha reacted to his removal as Rajya Sabha deputy leader. Senior colleagues, including Delhi AAP chief Saurabh Bharadwaj, defended the decision, accusing Chadha of prioritizing \"soft PR\" over confronting the government and failing to raise crucial national and Punjab-specific issues.",
-    "img": "https://static.toiimg.com/photo/msid-129996830,imgsize-1026454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/soft-pr-samosa-swipe-how-arvind-kejriwals-soldiers-justified-raghav-chadhas-demotion-in-rajya-sabha/articleshow/129996579.cms",
-    "time": "2026-04-03T07:53:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India bound US-sanctioned tanker with Iranian crude reroutes to China mid-voyage",
-    "desc": "A US-sanctioned tanker carrying Iranian crude oil has rerouted from India to China mid-voyage due to payment concerns. This shift underscores the complexities of resuming oil trade with Iran, as financial terms and counterparty risk have become critical factors. The incident highlights ongoing challenges despite a recent US waiver.",
-    "img": "https://static.toiimg.com/photo/msid-129996754,imgsize-10292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-bound-us-sanctioned-tanker-with-iranian-crude-reroutes-to-china-mid-voyage/articleshow/129996701.cms",
-    "time": "2026-04-03T07:46:22.000Z"
   },
   {
     "cat": "Sports",
@@ -505,30 +568,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 16 [LIVE]: Ranveer Singh film crosses Rs 955 crore",
+    "title": "'Dhurandhar 2' BO day 16 [LIVE]: Ranveer Singh film closes at Rs 959 crore",
     "desc": "The Revenge' has rewritten box office history, amassing a staggering Rs. 939.46 crore India net. The Aditya Dhar directorial, starring Ranveer Singh as the elite spy Hamza, has officially overtaken the lifetime collections of its predecessor in a mere 11 days. Despite the massive IPL 2026 season, the film continues to dominate theaters, crossing a global gross of Rs. 1,492.17 crore and becoming the highest-grossing Indian film of all time in North America. With powerful performances from Sanjay Dutt, Arjun Rampal, and Rakesh Bedi, this high-stakes espionage thriller is now rapidly closing in on the historic Rs. 1,000 crore India net milestone.",
     "img": "https://static.toiimg.com/photo/msid-129995382,imgsize-93538.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-16-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-film-eyes-rs-950-crore-india-net-on-third-friday-as-worldwide-gross-closes-in-on-rs-1500-crore/articleshow/129995382.cms",
     "time": "2026-04-03T06:26:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'You’ve grown afraid': AAP hits back after Raghav Chadha’s direct attack on leadership",
-    "desc": "A public spat erupted between AAP and Rajya Sabha MP Raghav Chadha after his removal as deputy leader. Chadha claimed he was \"silenced\" and prevented from raising public issues in Parliament. The party, however, accused him of fearing Prime Minister Modi and hesitating to address crucial national concerns, exposing internal leadership tensions.",
-    "img": "https://static.toiimg.com/photo/msid-129995369,imgsize-56970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/youve-grown-afraid-aap-hits-back-after-raghav-chadhas-direct-attack-on-leadership/articleshow/129995329.cms",
-    "time": "2026-04-03T06:15:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Raghav Chadha attacks leadership; party hits back",
-    "desc": "Raghav Chadha, removed as AAP's Rajya Sabha deputy leader, asserted his silence in Parliament is not defeat. He questioned the party's high command after AAP requested the Rajya Sabha Secretariat to stop him from speaking, stating his focus has always been on raising public issues.",
-    "img": "https://static.toiimg.com/photo/msid-129995285,imgsize-1273821.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/aap-rift-out-in-open-raghav-chadha-arvind-kejriwal-attacks-leadership-party-hits-back/articleshow/129995078.cms",
-    "time": "2026-04-03T06:08:30.000Z"
   },
   {
     "cat": "Sports",
@@ -621,15 +666,6 @@ const newsData_en = [
     "time": "2026-04-03T02:43:31.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘I request you with folded hands’: Ashwin’s emotional plea to Rishabh Pant",
-    "desc": "Ravichandran Ashwin has appealed to Rishabh Pant to open the batting for Lucknow Super Giants in every match of IPL 2026. Pant's batting position has been a key discussion point. Ashwin believes opening will benefit Pant and the team. Pant himself stated his role is still uncertain but he will bat in the top order.",
-    "img": "https://static.toiimg.com/photo/msid-129992476,imgsize-118754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/i-request-you-with-folded-hands-r-ashwins-emotional-plea-to-rishabh-pant/articleshow/129992469.cms",
-    "time": "2026-04-03T02:15:42.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump announces destruction of Iran's tallest bridge",
     "desc": "Trump posted footage on social media of smoke rising from the B1 bridge in Karaj, around 35 km southwest of Tehran — and warned that there would be further destruction unless Iran comes to the table to end the five-week war",
@@ -637,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-us-war-on-iran-destruction-of-irans-tallest-bridge/article70818030.ece",
     "time": "2026-04-03T01:26:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Agenda against me, they’re jealous’: Rahane's no-holds-barred swipe at critics",
-    "desc": "Ajinkya Rahane fiercely defended his batting and leadership after Kolkata Knight Riders' heavy defeat to Sunrisers Hyderabad. He dismissed critics questioning his strike rate, claiming they have agendas and are jealous of his success. Despite KKR's collapse, Rahane insisted his intent was clear and backed his approach, remaining defiant amidst mounting pressure.",
-    "img": "https://static.toiimg.com/photo/msid-129992091,imgsize-140390.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/agenda-against-me-theyre-jealous-ajinkya-rahanes-no-holds-barred-swipe-at-critics/articleshow/129992096.cms",
-    "time": "2026-04-03T01:10:52.000Z"
   },
   {
     "cat": "Sports",
@@ -783,15 +810,6 @@ const newsData_en = [
     "time": "2026-04-01T17:27:28.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump says Iranian leader has ‘asked for ceasefire’",
-    "desc": "Iran’s new leader has asked the United States for a ceasefire, U.S. President Donald Trump said in a Truth Social post on Wednesday (April 1). Iran’s foreign ministry spokesperson ‌said Trump’s statement about a ‌ceasefire ⁠request was false and ⁠baseless.",
-    "img": "https://th-i.thgim.com/public/incoming/u3lvt6/article70812801.ece/alternates/LANDSCAPE_1200/2026-04-01T154954Z_103778653_RC2ZFKAGX74H_RTRMADP_3_IRAN-CRISIS-TRUMP-INTERVIEW.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-trump-says-iranian-leader-has-asked-for-ceasefire/article70812799.ece",
-    "time": "2026-04-01T17:07:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Refresh, reset — recipe for Connolly’s success",
     "desc": "In the face-off against Gujarat Titans in New Chandigarh on Tuesday, the Punjab Kings batter exhibited why he is a much better player than the recent poor returns suggested. For the 22-year-old, a brief period away from the sport did the trick",
@@ -864,15 +882,6 @@ const newsData_en = [
     "time": "2026-04-01T01:13:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026",
-    "desc": "The southpaw’s unbeaten 44-ball 72 ensures PBKS begins its campaign with a three-wicket win at home; the No. 3 batter anchors the chase even as the host slips from 83 for one to 118 for six; Chahal and Vyshak restrict the GT line-up to 162",
-    "img": "https://th-i.thgim.com/public/incoming/745wv6/article70808462.ece/alternates/LANDSCAPE_1200/PTI03_31_2026_000411A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-punjab-kings-gujarat-titans-match-updates-march-31-2026/article70807706.ece",
-    "time": "2026-03-31T18:57:07.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Seamless sibling synergy defined Akkarai Sisters’ concert",
     "desc": "S. Subhalakshmi and S. Sornalatha presented time-tested kritis, with Sornalatha adding a note of excitement through her konnakol rendition, more commonly associated with male percussionists. Subhalakshmi and S. Sornalatha rendered time-tested kritis, with Sornalatha’s konnakol adding an unexpected rhythmic spark.",
@@ -880,15 +889,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/akkarai-sisters-and-ks-vishnudev-captivate-audience-at-hamsadhwani-concert/article70802180.ece",
     "time": "2026-03-31T12:24:56.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Centre eyes new regulation to cover social media users",
-    "desc": "Govt. may permit I&B Ministry to send takedown notices to individual users for their posts; It includes controversial clause in draft amendment to IT Rules 2021; Internet Freedom Foundation calls it ‘massive expansion of unconstitutional censorship’",
-    "img": "https://th-i.thgim.com/public/incoming/nz9gv/article70804311.ece/alternates/LANDSCAPE_1200/IMG_BL11_Social_media_AI_2_1_0EFIMJ4N.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/centre-eyes-new-regulation-to-cover-social-media-users/article70803459.ece",
-    "time": "2026-03-30T18:31:44.000Z"
   },
   {
     "cat": "Tech",

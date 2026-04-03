@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "CSK lose sixth straight game at Chepauk, PBKS' Shreyas Iyer, Priyansh Arya produce dominant show in IPL 2026",
+    "desc": "Punjab Kings picked up a comfortable five-wicket win against Chennai Super Kings at the MA Chidambaram Stadium. The hosts improved their batting significantly after a defeat to Rajasthan Royals to kickstart their IPL 2026 campaign,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-remain-winless-in-ipl-2026-as-pbks-shreyas-iyer-priyansh-arya-produce-dominant-show-at-chepauk-2026-04-03-1036231",
+    "time": "2026-04-03T17:53:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Punjab Kings set new IPL record; Priyansh Arya, Prabhsimran Singh hand cracking start against CSK",
+    "desc": "Chasing 210 runs, Punjab Kings completed 50 in just 3.2 overs. It is the fastest by a team against Chennai Super Kings in IPL history. Openers Priyansh Arya and Prabhsimran Singh wreaked havoc in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-set-new-ipl-record-priyansh-arya-prabhsimran-singh-hand-cracking-start-against-csk-2026-04-03-1036230",
+    "time": "2026-04-03T17:36:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Arun Jaitley Stadium in Delhi play for IPL 2026?",
+    "desc": "Delhi Capitals will host Mumbai Indians at the Arun Jaitley Stadium in their first home game of the IPL 2026 season. The Axar Patel-led side picked up a comfortable six-wicket win over Lucknow Super Giants...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-mi-pitch-report-how-will-surface-at-arun-jaitley-stadium-in-delhi-play-for-ipl-2026-2026-04-03-1036225",
+    "time": "2026-04-03T16:20:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Memes galore as Sanju Samson flops again for Chennai Super Kings in IPL 2026",
     "desc": "Since his blockbuster trade to Chennai Super Kings, Sanju Samson has struggled to live up to his potential in the ongoing IPL 2026. The keeper-batter dominated the proceedings in the T20 World Cup, winning the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/nitish-reddy-shuts-down-critics-about-srh-s-bowling-after-commanding-win-over-kkr-at-eden-gardens-2026-04-03-1036182",
     "time": "2026-04-03T10:34:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at MA Chidambaram Stadium in Chennai play for IPL 2026 Match 7?",
-    "desc": "Chennai Super Kings (CSK) are set to play at home for the first time in IPL 2026. They will face the Punjab Kings at the MA Chidambaram Stadium in Chennai and will be hoping to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-pbks-pitch-report-how-will-surface-at-ma-chidambaram-stadium-in-chennai-play-for-ipl-2026-match-7-2026-04-03-1036173",
-    "time": "2026-04-03T08:56:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer wants most expensive player of IPL 2026 auction to be dropped from KKR's playing XI",
-    "desc": "Former India cricketer Harbhajan Singh thinks that the most expensive player of IPL 2026 auction, Cameron Green, should be dropped from Kolkata Knight Riders' playing XI. The Australian has come under the scanner early in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-wants-most-expensive-player-of-ipl-2026-auction-to-be-dropped-from-kkr-s-playing-xi-2026-04-03-1036158",
-    "time": "2026-04-03T07:06:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Player battles to watch out for in IPL 2026 Match 7",
-    "desc": "Chennai Super Kings (CSK) will play at the MA Chidambaram Stadium, famously known as Chepauk, for the first time in the ongoing Indian Premier League (IPL) season today against Punjab Kings. The venue was once...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-pbks-3-player-battles-to-watch-out-for-in-ipl-2026-match-7-2026-04-03-1036148",
-    "time": "2026-04-03T06:14:13.000Z"
   }
 ];
