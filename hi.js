@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "IPL 2026 points table update after SRH's thumping 65-run win over KKR at Eden Gardens in Kolkata",
+    "desc": "Kolkata Knight Riders remained winless after two outings as they went down meekly to Sunrisers Hyderabad in the sixth match of the ongoing edition of the Indian Premier League (IPL) on Thursday. It was their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-points-table-update-after-srh-s-thumping-65-run-win-over-kkr-at-eden-gardens-in-kolkata-2026-04-03-1036125",
+    "time": "2026-04-03T01:58:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ajinkya Rahane decodes reason behind KKR's defeat to SRH in IPL 2026",
     "desc": "Sunrisers Hyderabad hammered Kolkata Knight Riders, beating them by 65 runs at the iconic Eden Gardens. The hosts didn’t have a concrete bowling plan against Travis Head and Abhishek Sharma, who launched an 82-run opening...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/yuvraj-singh-apologises-to-ms-dhoni-kapil-dev-after-father-yograj-singh-s-comments-2026-04-02-1036071",
     "time": "2026-04-02T12:03:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia to tour Zimbabwe after eight years in preparation for ODI World Cup 2027",
-    "desc": "Australia are set to return to Zimbabwe after eight long years. While they visited in 2018 for a T20 tri-series that also included Pakistan, their last ODI assignment in Zimbabwe dates back to 2014. This...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-to-tour-zimbabwe-after-eight-years-in-preparation-for-odi-world-cup-2027-2026-04-02-1036064",
-    "time": "2026-04-02T11:30:58.000Z"
   }
 ];
