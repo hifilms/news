@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "યુદ્ધ રોકવા ઝરીફની ‘માસ્ટર પ્લાન’! મધ્ય પૂર્વમાં મહાયુદ્ધની આશંકા વચ્ચે ઈરાનના પૂર્વ વિદેશ મંત્રીનો શાંતિ પ્રસ્તાવ, શું ટ્રમ્પ માનશે?",
+    "desc": "ઝરીફના પ્રસ્તાવને કેટલો ગંભીરતાથી લેવામાં આવશે તે સ્પષ્ટ નથી. ઈરાનની સરકારમાં હાલમાં તેમનો કોઈ સત્તાવાર હોદ્દો પણ નથી, પરંતુ તેમણે સુધારવાદી રાષ્ટ્રપતિ મસૂદ પેઝેશ્કિયનને ચૂંટણી જીતવામાં મદદ કરી હતી અને સંભવતઃ વરિષ્ઠ નેતાઓની પરવાનગી વિના તેમણે આવો લેખ પ્રકાશિત કર્યો નહીં હોય.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/former-foreign-minister-of-iran-mohammad-javad-zarif-master-plan-to-stop-the-us-iran-war-will-trump-accept-it-471371 ",
+    "time": "2026-04-03T12:53:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અમેરિકાના વિરોધ વચ્ચે ભારત કેવી રીતે બન્યું ન્યુક્લિયર પાવર? જાણવું છે તો ઓટીટી પર જોઈ લો જોન અબ્રાહમની પરમાણુ ફિલ્મ",
+    "desc": "ભારતમાં પરમાણુ પરિક્ષણ કેવી રીતે થયું અને ભારતને અમેરિકા કેવી રીતે નડતું હતું તે બધું જ જો ફિલ્મના માધ્યમથી જોવું હોય તો ઓટીટી પર ઉપલબ્ધ જોન અબ્રાહમની ફિલ્મ પરમાણુ ધ સ્ટોરી ઓફ પોખરણ જોઈ લો. આ ફિલ્મ રિયલ સ્ટોરી પર આધારિત છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/john-abraham-film-based-on-india-nuclear-test-real-story-based-film-parmanu-on-ott-zee5-471369 ",
+    "time": "2026-04-03T12:12:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દુનિયાભરમાં પેટ્રોલ-ડીઝલના ભાવમાં ભડકો, અનેક દેશોમાં કિંમતો થઈ બમણી; પણ ભારતમાં કેમ હજુ સ્થિર? જાણો કારણ",
+    "desc": "ઈરાનમાં યુદ્ધ શરૂ થયા પછી અત્યાર સુધી ગ્લોબલ ઓઈલ માર્કેટમાં ભારે ઉથલપાથલ જોવા મળી રહી છે. એક તરફ મ્યાનમારમાં પેટ્રોલના ભાવમાં 100% અને ડીઝલમાં 119.9%નો ઉછાળો નોંધાયો છે. જ્યારે ફિલિપાઇન્સમાં ડીઝલ 111% અને પેટ્રોલ 71.6% મોંઘું થયું છે. અમેરિકામાં પેટ્રોલ 31.1% અને ડીઝલ 41.8% મોંઘું થયું છે. પરંતુ ભારતમાં ભાવ કેમ વધ્યા નથી. જાણો શું છે તેના પાછળનું કારણ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/petrol-and-diesel-prices-hike-around-the-world-prices-have-doubled-in-many-countries-but-why-are-they-still-stable-in-india-know-471367 ",
+    "time": "2026-04-03T11:48:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "એક IPL મેચના આયોજનમાં કેટલો ખર્ચ આવે છે? જાણીને ઉડી જશે હોશ",
+    "desc": "BCCI દ્વારા આયોજીત આઈપીએલ વિશ્વની સૌથી મોટી ટી20 ક્રિકેટ લીગ છે. વિશ્વભરના ખેલાડીઓ આ લીગમાં રમવા આવે છે. 2008થી શરૂ થયેલી આ લીગની લોકપ્રિયતા સતત વધી રહી છે, પરંતુ શું તમે જાણો છો કે આઈપીએલની એક મેચનું આયોજન કરવામાં કેટલા રૂપિયાનો ખર્ચ આવે છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-one-match-cost-player-fee-operational-and-stadium-costs-check-full-details-471365 ",
+    "time": "2026-04-03T11:21:24.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ચીન ઉડાવી ગયું ભારતનું તેલ ! ગુજરાત આવી રહેલા ઈરાની જહાજે છેલ્લી ઘડીએ બદલ્યો રસ્તો, હોર્મુઝ સંકટ વચ્ચે મોટો ઝટકો",
+    "desc": "પશ્ચિમ એશિયાઈ કટોકટીએ ભારત સહિત વિશ્વના ઘણા દેશોમાં ક્રૂડ ઓઈલનું સંકટ ઉભું કર્યું છે. આ દરમિયાન, ભારત તરફ તેલ લઈ જતું ઈરાની જહાજ ચીન તરફ વળ્યું છે. જો આ ટેન્કર ભારત આવ્યું હોત તો 2019 પછી આવનાર પહેલું જહાજ હોત.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/india-oil-iranian-tanker-coming-to-gujarat-changed-its-route-at-the-last-minute-a-big-setback-amid-hormuz-crisis-471364 ",
+    "time": "2026-04-03T11:21:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "કેન્દ્ર સરકારના કર્મચારીઓને મળશે 18 મહિનાનું બાકી એરિયર... 8મા પગાર પંચમાં સારા સમાચાર",
+    "desc": "એવો અંદાજ છે કે કર્મચારીઓને એક સાથે મોટો લાભ આપવાનું સરકારી વિચાર કરી રહી છે, રકમની ગણતરી 1 જાન્યુઆરી, 2026થી અસરકારક માનવામાં આવશે. જો આવું થાય, તો કેન્દ્રીય કર્મચારીઓને 17થી 18 મહિનાનું એરિયર મળવાની અપેક્ષા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/central-government-employees-will-get-18-months-of-outstanding-arrears-good-news-in-the-8th-pay-commission-471361 ",
+    "time": "2026-04-03T10:19:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "સચિન નહીં... આ બેટરે ફટકારી હોત ODI ની પ્રથમ બેવડી સદી, અચાનક ખતમ થઈ ગયું કરિયર, Live મેચમાં મળ્યા પુત્રીના મોતના સમાચાર",
+    "desc": "ક્રિકેટમાં સચિન તેંડુલકરના નામે અનેક રેકોર્ડ નોંધાયેલા છે. વનડે અને ટેસ્ટમાં સૌથી વધુ રનથી લઈને આંતરરાષ્ટ્રીય ક્રિકેટમાં 100 સદીનો રેકોર્ડ સચિનના નામે છે. આ સિવાય વનડે ક્રિકેટમાં પ્રથમવાર બેવડી સદી પણ સદીને ફટકારી હતી. પરંતુ એક એવો બેટર હતો, જે સચિન પહેલા બેવડી સદી ફટકારી શક્યો હોત, પરંતુ....",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/not-sachin-this-batter-would-have-scored-the-first-double-century-in-odis-his-career-suddenly-ended-471359 ",
+    "time": "2026-04-03T10:10:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "વારંવાર ચેટ ખોલવાની ઝંઝટ ખતમ! WhatsApp લાવી રહ્યું છે મોટું અપડેટ, એક જ જગ્યાએ દેખાશે કોણ કોણ છે Online",
+    "desc": "WhatsApp એક એવું નવું ફીચર લાવી રહ્યું છે, જેનાથી તમને તરત જ ખબર પડી જશે કે કોણ-કોણ ઓનલાઇન છે, અને તે પણ દરેક ચેટ ખોલ્યા વગર. આ અપડેટ તમારી ચેટિંગ કરવાની રીતને સંપૂર્ણપણે બદલી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/no-more-hassle-of-constantly-opening-chats-whatsapp-is-rolling-out-a-major-update-see-who-is-online-all-in-one-place-471356 ",
+    "time": "2026-04-03T09:53:59.000Z"
+  },
+  {
     "cat": "Business",
     "title": "યુદ્ધની આગમાં હોમાઈ ગયા! સોનામાં 12000 રૂપિયા અને ચાંદીમાં 40000 રૂપિયા સુધીનો ઘટાડો, કેમ &amp;#039;અવળી ગંગા&amp;#039;?",
     "desc": "મિડલ ઈસ્ટમાં જ્યારથી યુદ્ધ શરૂ થયું છે ત્યારથી જાણે સોના અને ચાંદીની દશા બેઠી હોય તેવું લાગે છે. જો કે સસ્તું સોનું ખરીદનારાઓ માટે તો આ એક તક સમાન છે પરંતુ રોકાણકારો માટે ચિંતાની સ્થિતિ બની. યુદ્ધ શરૂ થયું ત્યારથી લઈને અત્યાર સુધીમાં સોનું 12000 અને ચાંદી 40000 જેટલી તૂટી. જાણો આગળ શું સ્થિતિ રહી શકે?",
@@ -414,15 +486,6 @@ const newsData_gu = [
     "time": "2026-03-31T18:24:14.000Z"
   },
   {
-    "cat": "World",
-    "title": "ઈરાન સામેના યુદ્ધ વચ્ચે યુરોપિયન દેશોએ ટ્રમ્પને આપ્યો ઝટકો, કહ્યું- યુદ્ધ માટે એર બેઝનો ઉપયોગ નહીં કરવા દઈએ",
-    "desc": "ઈરાન સામેના યુદ્ધમાં અમેરિકા તેના સાથી દેશો તરફથી એક પછી એક નિષ્ફળતાનો સામનો કરી રહ્યું છે. પહેલા સ્વિટ્ઝર્લેન્ડે શસ્ત્રો પૂરા પાડવાનો ઇનકાર કર્યા પછી સ્પેને કહ્યું કે અમેરિકા ઈરાન પર હુમલો કરવા માટે તેના હવાઈ ક્ષેત્રનો ઉપયોગ કરી શકશે નહીં અને હવે ઇટાલીએ ટ્રમ્પને એક મોટો ઝટકો આપ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/amidst-the-war-with-iran-european-countries-betrayed-to-america-470952 ",
-    "time": "2026-03-31T12:29:39.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ભારતની સૌથી સુરક્ષિત કાર બની ગઈ આ SUV; થાર, સિએરા અને નેક્સન પણ પાછળ, 5-સ્ટાર સેફ્ટીથી છે લેસ",
     "desc": "કિઆ સેલ્ટોસ (Kia Seltos) એ એકવાર ફરી સાબિત કરી દીધું છે કે તે માત્ર લુકમાં જ નહીં પરંતુ સેફ્ટીમાં સૌથી આગળ છે. મહત્વનું છે કે સેલ્ટોસને એડલ્ટ અને ચાઇલ્ડ સેફ્ટી બંને કેટેગરીમાં શાનદાર 5-સ્ટાર રેટિંગ મળ્યું છે.",
@@ -457,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/is-mohammed-shami-set-to-retire-from-cricket-explosive-statement-from-cricketer-470933 ",
     "time": "2026-03-31T09:58:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;કપડાં ઉતારીને પૂજા કરી તો કરોડપતિ બન્યા, તું પણ આવું કર...&amp;#039;; સસરાએ ઉતાર્યા વહુના કપડાં, કાનપુરમાં શરમજનક ઘટના",
-    "desc": "અડધી રાત્રે સાસુએ કહ્યું કે તંત્ર-મંત્રની પૂજાથી જ ઘરમાં સંપત્તિ આવી છે અને તેમાં સામેલ થવા માટે કપડાં ઉતારવા પડશે. મેં ના પાડી તો પતિ અને સસરાએ જબરદસ્તી કરી. મને રૂમમાં પૂરી દેવામાં આવી અને મારપીટ કરવામાં આવી. બાદમાં બે કરોડ રૂપિયા અને એક કિલો સોનું લાવવા દબાણ કરવામાં આવ્યું. કાનપુરની એક યુવતી દ્વારા નોંધાવવામાં આવેલી FIRમાં સાસરી પક્ષના લોકો પર અનેક ગંભીર આક્ષેપો કરવામાં આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/father-in-law-strips-daughter-in-law-shameful-incident-in-kanpur-470926 ",
-    "time": "2026-03-31T09:33:54.000Z"
   },
   {
     "cat": "Sports",
@@ -538,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/unbreakable-cricket-record-ipl-double-hundred-partnership-virat-kohli-and-ab-de-villiers-470587 ",
     "time": "2026-03-29T10:33:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વિરાટ કોહલી નહીં, તો કોણ છે RCBની પહેલી જીતનો અસલી હીરો ? કેપ્ટન રજત પાટીદારે જણાવ્યું નામ",
-    "desc": "IPL 2026ની શરૂઆતની મેચમાં RCBએ સનરાઇઝર્સ હૈદરાબાદને હરાવીને ઇતિહાસ રચ્યો, 203 રનના ટાર્ગેટનો પીછો કરતા માત્ર 15.4 ઓવરમાં જ વિજય મેળવ્યો. વિરાટ કોહલીએ 69 રનની શાનદાર અણનમ ઇનિંગ્સ રમી, જ્યારે દેવદત્ત પડિકલે 61 રનનું શાનદાર યોગદાન આપ્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/if-not-virat-kohli-who-was-the-hero-of-rcb-first-win-captain-rajat-patidar-revealed-470560 ",
-    "time": "2026-03-29T06:24:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,15 +682,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-crime-thriller-web-series-hindi-based-on-real-life-murders-maharashtra-manvat-murders-real-life-story-470159 ",
     "time": "2026-03-26T06:51:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "&amp;#039;મને 10 વાર ખોટી રીતે સ્પર્શ કર્યો; સનોજ સારો માણસ નથી&amp;#039;, મોનાલિસાનું દર્દ છલકાયું; રડતા રડતા કર્યા મોટા ખુલાસા",
-    "desc": "બોલિવુડ જગતમાંથી એક ચોંકાવનારા સમાચાર સામે આવ્યા છે, જેણે ફિલ્મ ઈન્ડસ્ટ્રીની સુરક્ષા અને કામ કરવાની રીત પર ગંભીર સવાલો ઊભા કર્યા છે. અભિનેત્રી મોનાલિસાએ તેની ડેબ્યુ ફિલ્મ 'ડાયરી ઓફ મણિપુર'ના ડાયરેક્ટર સનોજ મિશ્રા પર સેટ પર જાતીય સતામણી અને ગેરવર્તણૂકના સનસનીખેજ આરોપો લગાવ્યા છે. સોશિયલ મીડિયા પર વાયરલ થયેલા એક પ્રેસ કોન્ફરન્સના વીડિયોમાં પોતાનું દર્દ વ્યક્ત કરતા મોનાલિસાએ ફિલ્મની સફર દરમિયાન તેને આપવામાં આવેલા માનસિક અને શારીરિક ત્રાસ વિશે ખુલાસો કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/he-wont-let-me-live-monalisa-bhosle-accuses-director-sanoj-mishra-of-assault-470044 ",
-    "time": "2026-03-25T07:15:38.000Z"
   },
   {
     "cat": "Tech",

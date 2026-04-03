@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Harry Kane in doubt for UCL clash against Real Madrid, ruled out of Bundlesliga tie with Freiburg",
+    "desc": "Bayern Munich face a major injury scare as star forward Harry Kane fights to be fit for the upcoming Champions League quarterfinal against Real Madrid. The 32-year-old suffered an ankle injury during a training session...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/harry-kane-in-doubt-for-ucl-clash-against-real-madrid-ruled-out-of-bundlesliga-tie-with-freiburg-2026-04-03-1036195",
+    "time": "2026-04-03T11:37:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mahela Jayawardene not worried about Mumbai Indians' trophy drought, says 'some teams haven't won it forever'",
+    "desc": "Mumbai Indians have failed to live up to expectations in the last five years. In the last decade, the Rohit Sharma-led side was one of the most consistent teams in the cash-rich tournament, winning it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mahela-jayawardene-not-worried-about-mumbai-indians-trophy-drought-says-some-teams-haven-t-won-it-forever-2026-04-03-1036189",
+    "time": "2026-04-03T11:11:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nitish Reddy shuts down critics about SRH's bowling after commanding win over KKR at Eden Gardens",
+    "desc": "Sunrisers Hyderabad picked up a comfortable 65-run win over Kolkata Knight Riders at the iconic Eden Gardens in the ongoing IPL 2026. Leading up to the tournament, SRH were considered to have one of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nitish-reddy-shuts-down-critics-about-srh-s-bowling-after-commanding-win-over-kkr-at-eden-gardens-2026-04-03-1036182",
+    "time": "2026-04-03T10:34:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will surface at MA Chidambaram Stadium in Chennai play for IPL 2026 Match 7?",
     "desc": "Chennai Super Kings (CSK) are set to play at home for the first time in IPL 2026. They will face the Punjab Kings at the MA Chidambaram Stadium in Chennai and will be hoping to...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-points-table-update-after-srh-s-thumping-65-run-win-over-kkr-at-eden-gardens-in-kolkata-2026-04-03-1036125",
     "time": "2026-04-03T01:58:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ajinkya Rahane decodes reason behind KKR's defeat to SRH in IPL 2026",
-    "desc": "Sunrisers Hyderabad hammered Kolkata Knight Riders, beating them by 65 runs at the iconic Eden Gardens. The hosts didn’t have a concrete bowling plan against Travis Head and Abhishek Sharma, who launched an 82-run opening...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-decodes-reason-behind-kkr-s-defeat-to-srh-in-ipl-2026-2026-04-02-1036113",
-    "time": "2026-04-02T18:20:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SRH's all-round brilliance secures 65-run win, KKR need strong tactical introspection after hammering defeat",
-    "desc": "Sunrisers Hyderabad picked up a comfortable 65-run win at the iconic Eden Gardens in the IPL 2026. The visitors were off to a cracking start, as Travis Head and Abhishek Sharma’s blitzkreig set the tone...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/srh-s-all-round-brilliance-secures-65-run-win-kkr-need-strong-tactical-introspection-after-hammering-defeat-2026-04-02-1036109",
-    "time": "2026-04-02T17:37:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ruturaj Gaikwad wants fans to allow youngsters 'to make mistakes' after tough start to IPL 2026 campaign",
-    "desc": "Ruturaj Gaikwad is taking a patient approach to his leadership as Chennai Super Kings prepare for their first home fixture of IPL 2026 against Punjab Kings. Transitioning into an era without stalwarts like MS Dhoni,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ruturaj-gaikwad-wants-fans-to-allow-youngsters-to-make-mistakes-after-tough-start-to-ipl-2026-campaign-2026-04-02-1036105",
-    "time": "2026-04-02T17:19:41.000Z"
   }
 ];
