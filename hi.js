@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 Player battles to watch out for in IPL 2026 Match 7",
+    "desc": "Chennai Super Kings (CSK) will play at the MA Chidambaram Stadium, famously known as Chepauk, for the first time in the ongoing Indian Premier League (IPL) season today against Punjab Kings. The venue was once...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-pbks-3-player-battles-to-watch-out-for-in-ipl-2026-match-7-2026-04-03-1036148",
+    "time": "2026-04-03T06:14:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "KKR endure worst start to IPL campaign in 14 years after loss to Sunrisers Hyderabad by 65 runs",
     "desc": "Kolkata Knight Riders' struggles continued in their second game of IPL 2026 as they succumbed to a heavy 65-run defeat against Sunrisers Hyderabad on Thursday. They had earlier lost to the Mumbai Indians as their...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-becomes-second-cricketer-after-david-warner-to-join-legendary-club-departs-disappointed-2026-04-02-1036096",
     "time": "2026-04-02T15:12:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Matheesha Pathirana not playing for Kolkata Knight Riders against SRH in IPL 2026?",
-    "desc": "Kolkata Knight Riders pacer Matheesha Pathirana is yet to join the squad for IPL 2026. The Sri Lanka international suffered a hamstring injury during the T20 World Cup and has been out of action since....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-matheesha-pathirana-not-playing-for-kolkata-knight-riders-against-srh-in-ipl-2026-2026-04-02-1036086",
-    "time": "2026-04-02T13:48:35.000Z"
   }
 ];

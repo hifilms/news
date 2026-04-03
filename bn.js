@@ -169,14 +169,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunoday-banerjee-autopsy-report-reveals-negligence-talsari_646617.html ",
     "time": "2026-03-30T07:44:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "রক্তক্ষয়ী যুদ্ধে উত্তাল মধ্যপ্রাচ্য: কুয়েতে ভয়ংকর হামলায় মৃত ভারতীয়, এই নিয়ে মোট ৮",
-    "desc": "কুয়েতের এক বিদ্যুৎ ও জল শোধন কেন্দ্রে ইরানি ক্ষেপণাস্ত্র হামলায় এক ভারতীয় শ্রমিক নিহত হয়েছেন। এই নিয়ে মধ্যপ্রাচ্যের যুদ্ধে মোট আটজন ভারতীয় নাগরিক প্রাণ হারালেন। যুদ্ধের কারণে ইরান বর্তমানে গুরুত্বপূর্ণ ‘হরমুজ প্রণালী’ বন্ধ করে দিয়েছে, যার ফলে বিশ্ববাজারে জ্বালানি তেলের দাম বাড়ছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/indian-worker-killed-in-iranian-attack-in-kuwait_646605.html ",
-    "time": "2026-03-30T04:40:18.000Z"
   }
 ];

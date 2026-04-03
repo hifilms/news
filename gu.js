@@ -1,12 +1,21 @@
 const newsData_gu = [
   {
-    "cat": "Business",
-    "title": "અદાણી CNG આજથી 1.50 રૂપિયા મોંઘો થયો : અદાણીએ બે મહિનામાં બે વાર CNG ના ભાવ વધાર્યા, જાણો નવો ભાવ",
-    "desc": "હવે આજથી અદાણી CNG માટે પણ વધુ રૂપિયા ચૂકવવા પડશે. આ વર્ષની શરૂઆતમાં અદાણીએ CNG ના ભાવમાં ઘટાડો કરતા થોડી રાહત થઈ હતી. પરંતુ તેના બાદ ઉપરાઉપરી બે વાર CNG ના ભાવ વધારી દીધા છે. જે હવે રીક્ષાચાલકો માટે આકરું બની રહેશે",
+    "cat": "Entertainment",
+    "title": "&amp;#039;સવારે ઉઠી તો આખી બેડશીટ લોહીથી ભરેલી હતી, લાગ્યું પપ્પા હવે પ્રેમ નહીં કરે&amp;#039;, ડરી ગઈ હતી કંગના રનૌત",
+    "desc": "બોલિવુડ અભિનેત્રી અને સાંસદ કંગના રનૌત પોતાની વાત બેબાક રીતે રજૂ કરવા માટે જાણીતી છે. ઘણીવાર તેના નિવેદનોને કારણે વિવાદો પણ થતા હોય છે. એક ઇન્ટરવ્યુ દરમિયાન તેણે પોતાની પર્સનલ લાઈફ વિશે ઘણી વાતો શેર કરી હતી, જેમાં તેણે પોતાના પ્રથમ પિરિયડના અનુભવ વિશે પણ જણાવ્યું હતું.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/adani-cng-price-hike-again-in-2026-under-gas-crisis-in-india-471297 ",
-    "time": "2026-04-03T05:00:18.000Z"
+    "url": " http://zeenews.india.com/gujarati/entertainment/kangana-experience-of-first-period-bedsheet-was-full-of-blood-thought-father-will-not-love-471315 ",
+    "time": "2026-04-03T06:08:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "એન્ટિલિયાના 27મા માળ પર કેમ કોઈને જવાની પરવાનગી નથી? લો આખરે ખુલી ગયું રહસ્ય!",
+    "desc": "એન્ટિલિયા (Antilia) વિશે તમે ઘણું સાંભળ્યું હશે. તેની લક્ઝરી અને ભવ્યતા તેને દુનિયાના અન્ય ઘરોથી અલગ બનાવે છે. આ ઇમારત 27 માળની છે, પરંતુ શું તમે જાણો છો કે તેના સૌથી ઉપરના એટલે કે 27મા માળ પર કોઈને પણ જવાની મંજૂરી નથી? આવો જાણીએ તેની પાછળનું કારણ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/27th-floor-of-antilia-secret-of-the-why-is-no-one-allowed-mukesh-ambani-nita-ambani-471314 ",
+    "time": "2026-04-03T05:45:11.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +24,25 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/drastic-change-in-gratuity-rules-employees-should-know-check-details-471308 ",
-    "time": "2026-04-03T04:47:08.000Z"
+    "time": "2026-04-03T05:43:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ડોલર સામે રૂપિયાની 13 વર્ષની સૌથી મોટી છલાંગ, જાણો અચાનક કેમ આવી તેજી?",
+    "desc": "છેલ્લા કેટલાક સમયથી ડોલર સામે ગગડતો રૂપિયો ચિંતાનું કારણ બન્યો હતો. પરંતુ રિઝર્વ બેંક ઓફ ઈન્ડિયાએ અચાનક એક એવું પગલું ભર્યું કે રૂપિયો દોડવા લાગ્યો. ડોલર સામે મજબૂત થયો. જાણો રૂપિયામાં આવેલી મજબૂતીના 5 કારણો....",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/rupee-strengthened-against-dollar-rbi-action-check-reasons-news-in-gujarati-471313 ",
+    "time": "2026-04-03T05:40:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "અદાણી CNG આજથી 1.50 રૂપિયા મોંઘો થયો : અદાણીએ બે મહિનામાં બે વાર CNG ના ભાવ વધાર્યા, જાણો નવો ભાવ",
+    "desc": "હવે આજથી અદાણી CNG માટે પણ વધુ રૂપિયા ચૂકવવા પડશે. આ વર્ષની શરૂઆતમાં અદાણીએ CNG ના ભાવમાં ઘટાડો કરતા થોડી રાહત થઈ હતી. પરંતુ તેના બાદ ઉપરાઉપરી બે વાર CNG ના ભાવ વધારી દીધા છે. જે હવે રીક્ષાચાલકો માટે આકરું બની રહેશે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/adani-cng-price-hike-again-in-2026-under-gas-crisis-in-india-471297 ",
+    "time": "2026-04-03T05:00:18.000Z"
   },
   {
     "cat": "Business",
@@ -378,15 +405,6 @@ const newsData_gu = [
     "time": "2026-03-31T12:29:39.000Z"
   },
   {
-    "cat": "World",
-    "title": "કોરોના ફરી ત્રાટક્યો, ઝડપથી ફેલાઈ રહ્યો છે નવો વેરિયન્ટ સિકાડા, જાણો લક્ષણો અને બચાવની રીત",
-    "desc": "દુનિયામાં ફરી કોરોનાનો કહેર ફેલાઈ રહ્યો છે, હાલમાં કોરોનાનો નવો સબવેરિયન્ટ 20થી વધુ દેશોમાં ફેલાયો છે અને તેની સૌથી વધારે અસર યુરોપના દેશો અને અમેરિકામાં જોવા મળી રહી છે, પહેલીવાર 2024માં અમેરિકામાં આ વેરિયન્ટ જોવા મળ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/corona-is-back-new-variant-cicada-is-spreading-rapidly-know-the-symptoms-and-ways-to-protect-yourself-470949 ",
-    "time": "2026-03-31T12:07:40.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ભારતની સૌથી સુરક્ષિત કાર બની ગઈ આ SUV; થાર, સિએરા અને નેક્સન પણ પાછળ, 5-સ્ટાર સેફ્ટીથી છે લેસ",
     "desc": "કિઆ સેલ્ટોસ (Kia Seltos) એ એકવાર ફરી સાબિત કરી દીધું છે કે તે માત્ર લુકમાં જ નહીં પરંતુ સેફ્ટીમાં સૌથી આગળ છે. મહત્વનું છે કે સેલ્ટોસને એડલ્ટ અને ચાઇલ્ડ સેફ્ટી બંને કેટેગરીમાં શાનદાર 5-સ્ટાર રેટિંગ મળ્યું છે.",
@@ -430,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/father-in-law-strips-daughter-in-law-shameful-incident-in-kanpur-470926 ",
     "time": "2026-03-31T09:33:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રાજા રઘુવંશી મર્ડર બાદ કામાખ્યા મંદિરના પૂજારીએ કરેલી ભવિષ્યવાણી સાચી પડી, દીકરો પરત આવ્યો",
-    "desc": "મધ્યપ્રદેશના બહુચર્ચિત રાજા રઘુવંશી હત્યાકાંડ બાદ રઘુવંશી પરિવારમાં એક વર્ષ બાદ ખુશીનો માહોલ જોવા મળ્યો છે. પરિવારે દાવો કર્યો કે, તેમના દીકરા રાજા રઘુવંશીનો પુર્નજન્મ થયો છે, તો બીજી તરફ પરિવારે એક પૂજારીની ભવિષ્યવાણી પણ સાચી ગણાવી છે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/prediction-by-kamakhya-temple-priest-after-raja-raghuvandhi-murder-came-true-470922 ",
-    "time": "2026-03-31T09:07:43.000Z"
   },
   {
     "cat": "Sports",
