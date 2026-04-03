@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "KKR endure worst start to IPL campaign in 14 years after loss to Sunrisers Hyderabad by 65 runs",
+    "desc": "Kolkata Knight Riders' struggles continued in their second game of IPL 2026 as they succumbed to a heavy 65-run defeat against Sunrisers Hyderabad on Thursday. They had earlier lost to the Mumbai Indians as their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-endure-worst-start-to-ipl-campaign-in-14-years-after-loss-to-sunrisers-hyderabad-by-65-runs-2026-04-03-1036135",
+    "time": "2026-04-03T03:54:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma fined 25% of his match fee for breaching IPL code of conduct, Know what happened",
+    "desc": "Sunrisers Hyderabad opener Abhishek Sharma has been fined 25% of his match fees for breaching the IPL code of conduct in the match against Kolkata Knight Riders on Thursday at the Eden Gardens in Kolkata....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-fined-25-of-his-match-fee-for-breaching-ipl-code-of-conduct-know-what-happened-2026-04-03-1036134",
+    "time": "2026-04-03T03:36:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'They don't like me playing': Ajinkya Rahane hits out at criticism over strike-rate after loss to SRH",
+    "desc": "Ajinkya Rahane rarely showcases his emotions openly and Thursday was one such day as hit out at critics for questioning his strike-rate during the 65-run loss to Sunrisers Hyderabad. The Kolkata Knight Riders skipper scored...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/they-don-t-like-me-playing-ajinkya-rahane-hits-out-at-criticism-over-strike-rate-after-loss-to-srh-2026-04-03-1036128",
+    "time": "2026-04-03T02:29:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "IPL 2026 points table update after SRH's thumping 65-run win over KKR at Eden Gardens in Kolkata",
     "desc": "Kolkata Knight Riders remained winless after two outings as they went down meekly to Sunrisers Hyderabad in the sixth match of the ongoing edition of the Indian Premier League (IPL) on Thursday. It was their...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-matheesha-pathirana-not-playing-for-kolkata-knight-riders-against-srh-in-ipl-2026-2026-04-02-1036086",
     "time": "2026-04-02T13:48:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Pat Cummins not playing for Sunrisers Hyderabad against KKR in IPL 2026? Ishan Kishan shares update",
-    "desc": "Sunrisers Hyderabad captain Pat Cummins is ruled out of the first few games of the IPL 2026. The all-rounder is currently managing a lumbar bone stress back injury and may return to action after a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-pat-cummins-not-playing-for-sunrisers-hyderabad-against-kkr-in-ipl-2026-ishan-kishan-shares-update-2026-04-02-1036083",
-    "time": "2026-04-02T13:40:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nuwan Thushara drags Sri Lanka Cricket to court over NOC to represent RCB in IPL 2026",
-    "desc": "A legal standoff has erupted between Sri Lankan pacer Nuwan Thushara and Sri Lanka Cricket (SLC), as the bowler seeks a court intervention to join Royal Challengers Bengaluru for the IPL 2026 season. The 31-year-old...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nuwan-thushara-drags-sri-lanka-cricket-to-court-over-noc-to-represent-rcb-in-ipl-2026-2026-04-02-1036082",
-    "time": "2026-04-02T13:19:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yuvraj Singh apologises to MS Dhoni, Kapil Dev after father Yograj Singh's comments",
-    "desc": "Former Indian all-rounder Yuvraj Singh has distanced himself from the long-standing controversies surrounding his father, Yograj Singh, by offering a public apology to two of India’s greatest captains. The two-time World Cup winner addressed the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/yuvraj-singh-apologises-to-ms-dhoni-kapil-dev-after-father-yograj-singh-s-comments-2026-04-02-1036071",
-    "time": "2026-04-02T12:03:19.000Z"
   }
 ];

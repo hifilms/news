@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "અદાણી CNG આજથી 1.50 રૂપિયા મોંઘો થયો : અદાણીએ બે મહિનામાં બે વાર CNG ના ભાવ વધાર્યા, જાણો નવો ભાવ",
+    "desc": "હવે આજથી અદાણી CNG માટે પણ વધુ રૂપિયા ચૂકવવા પડશે. આ વર્ષની શરૂઆતમાં અદાણીએ CNG ના ભાવમાં ઘટાડો કરતા થોડી રાહત થઈ હતી. પરંતુ તેના બાદ ઉપરાઉપરી બે વાર CNG ના ભાવ વધારી દીધા છે. જે હવે રીક્ષાચાલકો માટે આકરું બની રહેશે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/adani-cng-price-hike-again-in-2026-under-gas-crisis-in-india-471297 ",
+    "time": "2026-04-03T05:00:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ગ્રેચ્યુઈટીના નિયમમાં ધરખમ ફેરફાર, કર્મચારીઓએ જાણવું જરૂરી, જાણો તમને ફાયદો કે નુકસાન?",
+    "desc": "નવા લેબર કોડના લાગૂ થયા બાદ ગ્રેચ્યુઈટીના નિયમમાં પણ ફેરફાર થયો છે. જે કર્મચારીઓએ જાણવું ખુબ જરૂરી છે. જાણો ગ્રેચ્યુઈટીના નિયમમાં શું ફેરફાર થયો? આ ઉપરાંત નોટિસ પીરિયડ સંલગ્ન જે મૂંઝવણ હતી તેના વિશે પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/drastic-change-in-gratuity-rules-employees-should-know-check-details-471308 ",
+    "time": "2026-04-03T04:47:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શું PFમાં જમા રકમ પર મળશે 10% વ્યાજ? સરકારે કરી સ્પષ્ટતા, જાણો ખાતામાં ક્યારે જમા થશે વ્યાજ",
+    "desc": "ગત નાણાકીય વર્ષમાં જમા થયેલી PF રાશિ પર 8.25 ટકા વ્યાજ દરને મંજૂરી આપવામાં આવી છે. હવે આ અંગે નાણા મંત્રાલય અને શ્રમ મંત્રાલયની અંતિમ મંજૂરી મળવાની બાકી છે. જે બાદ એવી અપેક્ષા રાખવામાં આવે છે કે જૂનથી ઓગસ્ટ મહિનાની વચ્ચે આ નાણાં PF ખાતામાં જમા (Credit) થઈ જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-epf-deposits-earn-10-interest-government-responds-when-will-the-interest-be-credited-to-accounts-471307 ",
+    "time": "2026-04-03T04:22:51.000Z"
+  },
+  {
     "cat": "World",
     "title": "ઈસુ ખ્રિસ્તના કફનનું ભારત કનેક્શન નીકળ્યું! પવિત્ર Shroud of Turin ના DNA ટેસ્ટમાં મોટો ખુલાસો થયો",
     "desc": "ઈસુ ખ્રિસ્તનો દેહ જે કાપડમાં લપેટાયો હતો, શું તે ભારતનું હતું? Shroud of Turin ના DNA અભ્યાસમાં એક મોટો ખુલાસો થયો છે કે, તે ભારતનું હતું. આખરે કેવી રીતે વૈજ્ઞાનિકોએ આ દાવો કર્યો, આ પાછળ શું થિયરી છે તે જાણીએ",
@@ -342,24 +369,6 @@ const newsData_gu = [
     "time": "2026-03-31T18:24:14.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ગેસની કિંમતમાં વધારો! સરકારે વધાર્યો ભાવ, CNG અને PNG પર પડશે સીધી અસર",
-    "desc": "સરકારે ગેસનો ભાવ પ્રતિ mmBtu 7 ડોલર કર્યો છે, જે અગાઉ USD 6.75 હતો. આ ગેસ દેશના સ્થાનિક ઉત્પાદનમાં આશરે 60 ટકા હિસ્સો ધરાવે છે, તેથી આ વધારો CNG, PNG, વીજળી અને ખાતર જેવા ક્ષેત્રોને અસર કરી શકે છે. જેની અસર તમારા ખિસ્સા પર પડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gas-price-hike-government-increases-prices-will-have-a-direct-impact-on-cng-and-png-470989 ",
-    "time": "2026-03-31T15:54:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ભાડૂઆત માટે મહત્ત્વના સમાચાર! આ કામ નહીં કરો તો થશે મોટું નુકસાન, જાણી લો નવો નિયમ નહીંતર પસ્તાશો",
-    "desc": "વર્ષ 2026થી 50,000 રૂપિયાથી વધુ માસિક ભાડું ચૂકવતા ભાડૂતો માટે વાર્ષિક ભાડા પર 2% TDS કાપવો ફરજિયાત છે. આ TDS સામાન્ય રીતે માર્ચ મહિનાના પેમેન્ટમાંથી કાપવામાં આવે છે અને 30 એપ્રિલ સુધીમાં સરકારમાં જમા કરાવવાનો હોય છે. જો ભાડૂત આ નિયમનું પાલન ન કરે, તો તેમના પર પેનલ્ટી, વ્યાજ અને ઇન્કમ ટેક્સની તપાસનો ખતરો વધી જાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/important-news-for-tenants-if-you-dont-do-this-you-will-suffer-big-losses-know-the-new-rule-otherwise-you-will-regret-it-470986 ",
-    "time": "2026-03-31T14:19:43.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઈરાન સામેના યુદ્ધ વચ્ચે યુરોપિયન દેશોએ ટ્રમ્પને આપ્યો ઝટકો, કહ્યું- યુદ્ધ માટે એર બેઝનો ઉપયોગ નહીં કરવા દઈએ",
     "desc": "ઈરાન સામેના યુદ્ધમાં અમેરિકા તેના સાથી દેશો તરફથી એક પછી એક નિષ્ફળતાનો સામનો કરી રહ્યું છે. પહેલા સ્વિટ્ઝર્લેન્ડે શસ્ત્રો પૂરા પાડવાનો ઇનકાર કર્યા પછી સ્પેને કહ્યું કે અમેરિકા ઈરાન પર હુમલો કરવા માટે તેના હવાઈ ક્ષેત્રનો ઉપયોગ કરી શકશે નહીં અને હવે ઇટાલીએ ટ્રમ્પને એક મોટો ઝટકો આપ્યો છે.",
@@ -430,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/prediction-by-kamakhya-temple-priest-after-raja-raghuvandhi-murder-came-true-470922 ",
     "time": "2026-03-31T09:07:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારતમાં તેલ ખતમ થઈ જાય તો..., અમેરિકા-ઈરાન યુદ્ધ વચ્ચે ભૂતપૂર્વ RAW ચીફની મોટી ચેતવણી",
-    "desc": "ભારતમાં ગેસ અને પેટ્રોલ અને ડિઝલ પર સંકટ તોળાઈ રહ્યું છે, દેશની ગેસની માગ ઘણી છે, જેના કારણે હાલમાં તો કોઈ તકલીફ નથી પણ જ્યારે દેશમાં ખાતરની જરૂર વધારે ઉભી થશે ત્યારે ભારતના નેતૃત્વને તેનો સામનો કરવો મુશ્કેલ પડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/if-india-runs-out-of-oil-a-big-warning-from-former-raw-chief-amid-us-iran-war-470921 ",
-    "time": "2026-03-31T08:58:06.000Z"
   },
   {
     "cat": "Sports",
