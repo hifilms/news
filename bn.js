@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "Iran-Israel War: সন্ধে নামতেই আছড়ে পড়ল ভয়ংকর খবর: জাহাজ না পৌঁছলে জুটবে পৃথিবীর প্রথম জ্বালানি-শূন্য দেশের তকমা",
+    "desc": "সরকারিভাবে সংকটের কথা অস্বীকার করা হলেও বাস্তব চিত্র বলছে ভিন্ন কথা। গত কয়েক দিন ধরে রাজধানী ঢাকার পেট্রোল পাম্পগুলোতে দেখা যাচ্ছে দীর্ঘ লাইন। ঘণ্টার পর ঘণ্টা সারিতে দাঁড়িয়ে থেকেও অনেক মোটরসাইকেল চালক ও পরিবহনকর্মী সামান্য পরিমাণ জ্বালানি সংগ্রহ করতে পারছেন না।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/iran-israel-war-bangladesh-lockdown-fuel-crisis-energy-crisis-first-country-to-be-fuel-less_647329.html ",
+    "time": "2026-04-03T15:35:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বেঙ্গালুরুতে বজ্রপাত: আর তিন বছরের মধ্যে চাকরি চলে যাবে ৮০% IT 'ক্রীতদাস'-এর, ২৪ ঘণ্টা নিরলস কাজ করবে AI",
+    "desc": "বেঙ্গালুরুর এক আইটি বিশেষজ্ঞের দাবি, \"আগামী ৩ বছর আইটি কর্মীদের জন্য চরম অগ্নিপরীক্ষার!\" খুব শীঘ্রই ৮০% আইটি কর্মী কাজ হারাতে চলেছেন কৃত্রিম মেধার কারণে। কেন তিনি ২ কোটি টাকার বাড়ি না কিনে ভাড়ার বাড়িতে থাকাকেই শ্রেষ্ঠ সিদ্ধান্ত বলছেন?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/bengaluru-it-jobs-ai-layoffs-insider-warning-real-estate_647318.html ",
+    "time": "2026-04-03T14:48:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Iran-Israel War: এবার টান পড়ল জলেও: যুদ্ধের জেরে তীব্র গরমেও একলাফে মারাত্মক দাম বাড়ল কিনলে-বিসলারির",
+    "desc": "যখনই তেলের দাম বৃদ্ধি পায়, তার সরাসরি প্রভাব পড়ে প্লাস্টিক শিল্পের ওপর। কারণ প্লাস্টিক তৈরির প্রধান উপাদান 'পলিমার' বা 'পিইটি' (PET) আসে খনিজ তেল থেকে। যুদ্ধের কারণে এই কাঁচামালের দাম গত কয়েক সপ্তাহে আকাশছোঁয়া হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/india-bottled-water-price-rise-oil-shock-us-iran-war-impact_647306.html ",
+    "time": "2026-04-03T13:41:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "১০ বছর ধরে প্রত্যুষার মৃত্যু ঘিরে রহস্য, ঠিক কী ঘটেছিল সেদিন ‘বালিকা বধূ’র আনন্দীর সঙ্গে?",
+    "desc": "১০ বছর পার হয়ে গেল ‘বালিকা বধূ’ খ্যাত প্রত্যুষা ব্যানার্জির চলে যাওয়ার। মাত্র ২৪ বছর বয়সে কেন নিভে গিয়েছিল সেই উজ্জ্বল নক্ষত্র? এটি কি কেবলই আত্মহত্যা ছিল নাকি এর আড়ালে লুকিয়ে আছে অন্য কোনো সত্যি?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/pratyusha-banerjee-death-anniversary-revisiting-controversial-case_647303.html ",
+    "time": "2026-04-03T13:21:58.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "মাঝরাতে ১৭ লক্ষ ভুয়ো ভোট, ক্ষমতা দখল করতে চুরিতে সিদ্ধহস্ত BJP: ভয়ংকর কথা বলে দিলেন নির্মলা সীতারমণের স্বামীই",
     "desc": "পরকাল প্রভাকরের মতো একজন অভিজ্ঞ ব্যক্তিত্ব যখন তথ্য-সহ এমন দাবি করেন, তখন তা সাধারণ ভোটারদের মনেও সন্দেহের দানা বাঁধে। প্রযুক্তি ও নির্বাচনী বিশেষজ্ঞরা বলছেন, যদি সত্যিই ভোটদানের শতাংশে রাতারাতি বিশাল পরিবর্তন আসে, তবে তা গণতন্ত্রের জন্য উদ্বেগের বিষয়।",
@@ -160,15 +196,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunoday-banerjee-death-mystery-timeline-gap-fatal-delay-explained-by-hospital-super_646772.html ",
     "time": "2026-03-31T10:05:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'দাদা সাঁতার জানতেন', শেষমুহূর্তে ঠিক কী ঘটেছিল? জানালেন রাহুলের ১৬ বছরের ছায়াসঙ্গী বাবলু",
-    "desc": "সাগরের ঢেউয়ে বিলীন এক উজ্জ্বল প্রতিভা। শুটিং করতে গিয়ে দিঘার সমুদ্রে তলিয়ে গেলেন অভিনেতা অরুণোদয় বন্দ্যোপাধ্যায়। ময়নাতদন্তের রিপোর্টে উঠে এল ভয়াবহ সব তথ্য। কেন ছিল না শুটিং সেটে নূন্যতম নিরাপত্তা? প্রিয় দাদার শেষ মুহূর্তের কথা বলতে গিয়ে কান্নায় ভেঙে পড়লেন তাঁর গাড়িচালক।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-actor-rahul-arunoday-banerjee-death-talsari-shooting-accident-what-happen-described-by-eye-witness-actor-driver-bablu_646645.html ",
-    "time": "2026-03-30T11:12:46.000Z"
   },
   {
     "cat": "Business",

@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "અભિષેક નહીં આ યુવા બેટ્સમેનને પોતાના કરતા સારો માને છે યુવરાજ સિંહ, 35 બોલમાં સદી ફટકારીને મચાવી હતી ધૂમ",
+    "desc": "ભૂતપૂર્વ ભારતીય ક્રિકેટ દિગ્ગજ યુવરાજ સિંહે યુવા સેન્સેશન વૈભવ સૂર્યવંશી વિશે એક મહત્વપૂર્ણ નિવેદન આપ્યું છે, જેમણે IPL 2026માં 15 બોલમાં અડધી સદી ફટકારીને શાનદાર શરૂઆત કરી હતી. યુવરાજ સિંહ માને છે કે વૈભવની બેટની ગતિ તેના કરતા પણ વધુ ઝડપી છે. રાજસ્થાન રોયલ્સના આ ઓપનર IPLમાં સૌથી ઝડપી સદી ફટકારનાર ભારતીય બેટ્સમેનનો રેકોર્ડ ધરાવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/yuvraj-singh-considers-this-young-batsman-better-than-him-not-abhishek-created-a-sensation-by-scoring-a-century-in-35-balls-471388 ",
+    "time": "2026-04-03T14:02:52.000Z"
+  },
+  {
     "cat": "World",
     "title": "યુદ્ધ રોકવા ઝરીફની ‘માસ્ટર પ્લાન’! મધ્ય પૂર્વમાં મહાયુદ્ધની આશંકા વચ્ચે ઈરાનના પૂર્વ વિદેશ મંત્રીનો શાંતિ પ્રસ્તાવ, શું ટ્રમ્પ માનશે?",
     "desc": "ઝરીફના પ્રસ્તાવને કેટલો ગંભીરતાથી લેવામાં આવશે તે સ્પષ્ટ નથી. ઈરાનની સરકારમાં હાલમાં તેમનો કોઈ સત્તાવાર હોદ્દો પણ નથી, પરંતુ તેમણે સુધારવાદી રાષ્ટ્રપતિ મસૂદ પેઝેશ્કિયનને ચૂંટણી જીતવામાં મદદ કરી હતી અને સંભવતઃ વરિષ્ઠ નેતાઓની પરવાનગી વિના તેમણે આવો લેખ પ્રકાશિત કર્યો નહીં હોય.",
@@ -583,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/who-is-aniket-verma-losing-his-mother-at-age-of-3-know-his-inspiring-journey-470590 ",
     "time": "2026-03-30T01:30:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "97 બોલમાં 229 રન... IPLમાં ડબલ સેન્ચુરીનો અસંભવ રેકોર્ડ, વિકેટની ભીખ માંગતા રહ્યા બોલરો",
-    "desc": "IPL 2026ની શરૂઆત શાનદાર રીતે થઈ. પહેલી જ મેચમાં રેકોર્ડનો વરસાદ જોવા મળ્યો, પરંતુ આજે અમે તમને એક એવા IPL રેકોર્ડ વિશે જણાવવા જઈ રહ્યા છીએ જે હજુ પણ અતૂટ છે. એક ધમાકેદાર 'ડબલ સેન્ચુરી' જેને તોડવી તો દૂરની વાત બરાબરી કરવી પણ લગભગ અશક્ય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/unbreakable-cricket-record-ipl-double-hundred-partnership-virat-kohli-and-ab-de-villiers-470587 ",
-    "time": "2026-03-29T10:33:25.000Z"
   },
   {
     "cat": "Entertainment",

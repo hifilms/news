@@ -1,6 +1,114 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "This Kerala airport halts flights for 5 hours for a religious procession",
+    "desc": "At Thiruvananthapuram International Airport, flight operations were halted for a few hours as the centuries-old Arattu procession of the Painkuni festival crossed the runway en route to Shangumugham Beach. The ritual, linked to the Sree Padmanabhaswamy Temple, marks the ceremonial sea bath of the deity.",
+    "img": "https://th-i.thgim.com/public/incoming/csktq3/article70820640.ece/alternates/LANDSCAPE_1200/painkuni.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-this-kerala-airport-halts-flights-for-5-hours-for-a-religious-procession/article70820674.ece",
+    "time": "2026-04-03T15:24:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hat-trick for Pinarayi Vijayan or UDF comeback?",
+    "desc": "Kerala braces for a complex election as chief minister Pinarayi Vijayan seeks a rare third term. The traditional LDF-UDF rivalry faces a new challenge from the BJP's expanding footprint. With victories often decided by thousands of votes, this election hinges on micro-shifts and local dynamics, promising a tight, multi-layered contest.",
+    "img": "https://static.toiimg.com/photo/msid-130003703,imgsize-1056946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kerala-elections-2026-swot-analysis-hat-trick-for-pinarayi-vijayan-or-udf-comeback/articleshow/130001602.cms",
+    "time": "2026-04-03T15:09:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In BJP’s Assam poll narrative, Pakistan is the protagonist, ‘anti-national’ a leitmotif",
+    "desc": "Chief Minister Himanta Biswa Sarma has been attacking Congress leader Gaurav Gogoi over his alleged Pakistan connections, his latest barb was aimed at the mother of a candidate whom he accused of sympathising with ‘anti-national’ elements",
+    "img": "https://th-i.thgim.com/public/incoming/8knf8z/article70820497.ece/alternates/LANDSCAPE_1200/2150_23_3_2026_18_14_36_1_ASSAMELECTION_23032026_02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/assam-assembly/in-bjps-assam-poll-narrative-pakistan-is-the-protagonist-anti-national-a-leitmotif/article70817060.ece",
+    "time": "2026-04-03T14:55:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Three big actors refused Akshaye's 'Dhurandhar' role, must be regretting now'",
+    "desc": "The Revenge,\" noting that several actors declined the role of antagonist Rehmaan Dakait, eventually played by Akshaye Khanna. The film, which has surpassed ₹1500 crore globally, saw Ranveer Singh as the immediate choice for the lead, while over 1000 auditions were held for Sara Arjun's role.",
+    "img": "https://static.toiimg.com/photo/msid-130003427,imgsize-37642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/three-big-actors-refused-akshaye-khannas-dhurandhar-role-they-must-be-regretting-now-reveals-mukesh-chhabra-aditya-dhar-moves-on-from-negativity/articleshow/130003290.cms",
+    "time": "2026-04-03T14:37:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chennai crowd forces Bishop to say 'sorry' during toss",
+    "desc": "The IPL 2026 toss between Chennai Super Kings and Punjab Kings was disrupted by a roaring Chepauk crowd, forcing Ian Bishop to apologise for the delays. Shreyas Iyer chose to bowl first. Ruturaj Gaikwad explained CSK’s opening strategy and pitch conditions as they aim to recover from a poor start.",
+    "img": "https://static.toiimg.com/photo/msid-130003164,imgsize-60052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-chennai-crowd-forces-ian-bishop-to-say-sorry-during-csk-vs-pbks-toss-watch/articleshow/130002885.cms",
+    "time": "2026-04-03T14:27:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Alleged mastermind behind Malda violence arrested, NIA team arrives",
+    "desc": "Moffakkerul Islam, a lawyer who had contested the 2021 polls on an AIMIM ticket, was seen giving a speech outside the BDO office and urging the crowd not to leave the premises; he was detained while trying to flee the State from Bagdogra airport in north Bengal",
+    "img": "https://th-i.thgim.com/public/incoming/k0hzrv/article70818931.ece/alternates/LANDSCAPE_1200/Screenshot%202026-04-03%20121619.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/mastermind-behind-malda-violence-arrested/article70818789.ece",
+    "time": "2026-04-03T13:49:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. CM Stalin writes to PM Modi over FCRA Amendment Bill, terms it ‘draconian’",
+    "desc": "He pointed out that it sought to dismantle India’s charitable organisations by enabling the Union government, at its discretion, to cancel the FCRA registration of an organisation and take over its assets — whether it is a church, school, or hospital — “without any due process.”",
+    "img": "https://th-i.thgim.com/public/incoming/cv2nn8/article70819613.ece/alternates/LANDSCAPE_1200/Stalin%208.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-terms-fcra-amendment-bill-draconian/article70819223.ece",
+    "time": "2026-04-03T13:48:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LPG crisis sparks surge in interest for electric autos in Bengaluru",
+    "desc": "The recent surge in fuel prices, triggered by West Asia conflict, has increased operating costs for conventional fuel-based vehicles. This has, in turn, revived attention towards electric vehicles (EVs), including electric cars, autos, two-wheelers and plug-in hybrids.",
+    "img": "https://th-i.thgim.com/public/incoming/u8nl37/article70820140.ece/alternates/LANDSCAPE_1200/10505_28_3_2026_19_38_23_1_29_MNEAUTO.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/lpg-crisis-sparks-surge-in-interest-for-electric-autos-in-bengaluru/article70819992.ece",
+    "time": "2026-04-03T13:41:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Abhishek Bachchan on not being insecure of Aishwarya Rai's success",
+    "desc": "Abhishek Bachchan revealed his upbringing instilled a strong sense of partnership, explaining why he never felt insecure about Aishwarya Rai's stardom. He emphasized equality in relationships, stemming from his parents' dynamic. Their bond, built on friendship, naturally evolved into a marriage of mutual respect and shared responsibilities, not traditional roles.",
+    "img": "https://static.toiimg.com/photo/msid-130002271,imgsize-25154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-on-not-being-insecure-of-aishwarya-rais-success-says-jaya-bachchan-was-a-bigger-star-than-amitabh-bachchan-when-they-got-married/articleshow/130002083.cms",
+    "time": "2026-04-03T13:37:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman-Chitrangda's Chand Dekh Lena BTS video",
+    "desc": "Salman Khan gears up for 'Matrubhumi' war drama as 'Chand Dekh Lena' BTS video sparks buzz. Originally Battle of Galwan, release eyed for May 15 after delays. Title shift emphasizes humanity over battle, per director Apoorva Lakhia. Himesh Reshammiya's track ties moon to Eid, Karwa Chauth emotions.",
+    "img": "https://static.toiimg.com/photo/msid-130001756,imgsize-17942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maatrubhumi-salman-khan-and-chitrangda-singhs-chand-dekh-lena-bts-video-went-viral/articleshow/130001756.cms",
+    "time": "2026-04-03T13:03:59.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump says U.S. can take Strait of Hormuz with more time",
+    "desc": "Nearly five weeks after it started with a ​joint U.S.-Israeli aerial assault, ‌the war in Iran continues to spread chaos across the region and roil financial markets, raising ‌the pressure on Mr. Trump to find ​a quick resolution to the conflict.",
+    "img": "https://th-i.thgim.com/public/incoming/tr0vru/article70819966.ece/alternates/LANDSCAPE_1200/2026-04-01T154954Z_103778653_RC2ZFKAGX74H_RTRMADP_3_IRAN-CRISIS-TRUMP-INTERVIEW.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-says-us-can-take-strait-of-hormuz-with-more-time/article70819945.ece",
+    "time": "2026-04-03T13:03:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Russia plans to step-up energy supply to India – Will it offset Middle East volatility?",
+    "desc": "Russia is ready to boost oil and liquefied natural gas supplies to India. This comes as the Middle East crisis creates global energy market volatility. Discussions between Russian and Indian officials covered expanding trade, investment, and industrial cooperation. Both nations also explored deepening engagement in civil nuclear energy. Russia confirmed its capacity for steady increases in energy shipments to India.",
+    "img": "https://static.toiimg.com/photo/msid-130001013,imgsize-738508.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/russia-plans-to-step-up-energy-supply-to-india-will-it-offset-middle-east-volatility/articleshow/130000824.cms",
+    "time": "2026-04-03T12:43:43.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "AAP defends Raghav Chadha’s ouster from Rajya Sabha role; India-bound Iran oil tanker diverted to China &amp; more",
     "desc": "BJP released its Tamil Nadu candidate list, excluding K Annamalai. An Iranian oil tanker rerouted to China due to payment issues. A French ship crossed Hormuz, hinting at changing Iran-France relations. Bhagwant Mann defended Raghav Chadha's removal from a Rajya Sabha post. Yuvraj Singh apologized for his father's remarks to Kapil Dev and MS Dhoni.",
     "img": "https://static.toiimg.com/photo/msid-130001274,imgsize-1079342.cms",
@@ -16,15 +124,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-elections-why-annamalai-missed-bjp-candidate-list-alliance-over-leader/articleshow/130000992.cms",
     "time": "2026-04-03T12:35:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. CM Stalin terms FCRA Amendment Bill ‘draconian’",
-    "desc": "He pointed out that it sought to dismantle India’s charitable organisations by enabling the Union government, at its discretion, to cancel the FCRA registration of an organisation and take over its assets — whether it is a church, school, or hospital — “without any due process.”",
-    "img": "https://th-i.thgim.com/public/incoming/cv2nn8/article70819613.ece/alternates/LANDSCAPE_1200/Stalin%208.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-terms-fcra-amendment-bill-draconian/article70819223.ece",
-    "time": "2026-04-03T12:34:24.000Z"
   },
   {
     "cat": "Sports",
@@ -43,15 +142,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/er-reunion-on-the-pitt-mary-mccormack-delivers-brain-surgery-masterclass-in-emotional-nostalgic-episode/articleshow/130000607.cms",
     "time": "2026-04-03T12:28:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Anti-incumbency against LDF government most decisive factor in polls, says Karassery",
-    "desc": "Social critic and author M.N. Karassery is of the view that the electorate in Kerala has many reasons to vote against the Left Democratic Front (LDF) government. In an interview with The Hindu, he also claims that the Congress should be brought back to power to keep the BJP out",
-    "img": "https://th-i.thgim.com/public/incoming/69utmt/article70816047.ece/alternates/LANDSCAPE_1200/80692_1_4_2026_13_52_18_1_02TVKZMNKARASSERI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-anti-incumbency-against-ldf-government-most-decisive-factor-in-polls-says-karassery/article70811899.ece",
-    "time": "2026-04-03T12:22:40.000Z"
   },
   {
     "cat": "Sports",
@@ -144,15 +234,6 @@ const newsData_en = [
     "time": "2026-04-03T10:28:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Director R. Gowtham Interview by Meenakshi Shedde",
-    "desc": "Debutant Tamil director R Gowtham tells Meenakshi Shedde, who has been curator/programmer of Indian/South Asian films for TIFF Toronto and the former South Asia delegate at Berlin International Film Festival, how the film ‘Members of the Problematic Family’s journey started with Diamond Rum and chicken liver. In this interview in Berlin, he describes how his film grew from his poem; how he observes life “like a dog in the balcony”; how his script, inspired by Goethe’s book, is ‘sketchy, doubtful and incomplete,’ and how he finally said ‘Action’ and ‘Cut’ only at the end of the shoot.",
-    "img": "https://th-i.thgim.com/public/incoming/rb0syp/article70651041.ece/alternates/LANDSCAPE_1200/FINAL%20THUMB.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-breaking-boundaries-director-r-gowtham-brings-tamil-independent-cinema-to-berlin/article70639648.ece",
-    "time": "2026-04-03T10:26:57.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "AI imagines Ranveer Singh as lord Rama amid Ranbir's ‘Ramayana’ buzz,",
     "desc": "Nitesh Tiwari's 'Ramayana' teaser has sparked intense fan discussions, particularly around casting. AI-generated images of Ranveer Singh as Lord Rama have gone viral, prompting debates on alternate choices. While many praise Ranveer's imagined look, others suggest actors like Vicky Kaushal and Hrithik Roshan for the epic role.",
@@ -199,15 +280,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Where waste accumulates and river Adyar ‘weeps’",
-    "desc": "Two Chennai residents find themselves carrying out a cleanliness audit of a 400-metre riverside in Gandhinagar, Adyar. A WRD official notes that the waste on this river trail could be the result of back flow",
-    "img": "https://th-i.thgim.com/public/incoming/1213kw/article70818611.ece/alternates/LANDSCAPE_1200/Indian%20pitta%20in%20garbage%202%201.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/where-waste-accumulates-and-river-adyar-weeps/article70818650.ece",
-    "time": "2026-04-03T09:27:59.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'Ghar wapsi will take place soon': All India Imam Organisation chief says PoK will be reintegrated with India",
     "desc": "Chief Imam Umer Ahmed Ilyasi expressed confidence that Pakistan-Occupied Kashmir will soon rejoin India, citing the desire of its people and the positive developments in Jammu and Kashmir post-Article 370 abrogation. He highlighted a transformed Kashmir with increased prosperity and tourism, urging continued visits despite past incidents.",
     "img": "https://static.toiimg.com/photo/msid-129998029,imgsize-633809.cms",
@@ -223,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-shares-viral-video-with-vijay-deverakonda-reference-now-its-us-three-caption-leaves-fans-curious/articleshow/129997975.cms",
     "time": "2026-04-03T09:22:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Assam CM targets Opposition candidate's mother over social media posts",
-    "desc": "Assam CM’s remarks triggered a sharp response from the Assam Jatiya Parishad, with party president Lurinjyoti Gogoi accusing the Chief Minister of resorting to \"Hindu-Muslim rhetoric\" when he has no reply to questions raised by them.",
-    "img": "https://th-i.thgim.com/public/incoming/2dwke7/article70819002.ece/alternates/LANDSCAPE_1200/Screenshot%202026-04-03%20124520.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/assam-assembly/assam-cm-targets-opposition-candidates-mother-over-social-media-posts/article70818961.ece",
-    "time": "2026-04-03T09:20:07.000Z"
   },
   {
     "cat": "Politics",
@@ -324,15 +387,6 @@ const newsData_en = [
     "time": "2026-04-03T08:44:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala poll battle enters final stretch as rival fronts deploy star campaigners ahead of April 9 voting",
-    "desc": "PM Modi to boost NDA’s campaign in central and south Kerala on Saturday. Actor Kamal Haasan and rapper Vedan are among celebrities campaigning for LDF. Priyanka Gandhi Vadra, Karnataka Deputy CM D.K. Sivakumar among high-profile leaders to campaign for UDF",
-    "img": "https://th-i.thgim.com/public/incoming/svlvgx/article70818988.ece/alternates/LANDSCAPE_1200/NH07CampaignFinale07.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-poll-battle-enters-final-stretch-as-rival-fronts-deploy-star-campaigners-ahead-of-april-9-voting/article70818884.ece",
-    "time": "2026-04-03T08:42:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Broke? 5 homesteading hacks that are slashing family expenses overnight",
     "desc": "Families are embracing homesteading to save money and become more self-sufficient. Growing vegetables, raising chickens and making DIY products are popular. These skills offer immediate savings and protection against rising costs. Expert highlights how quality materials enhance these practices. Simple changes lead to significant financial benefits over time, building confidence and expanding into new areas.",
@@ -351,15 +405,6 @@ const newsData_en = [
     "time": "2026-04-03T08:25:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Legend Saravanan's'Leader' review: A watchable commercial entertainer",
-    "desc": "Legend Saravanan's latest action film, 'Leader,' has hit theatres, garnering mixed but largely positive reactions from netizens. While the first half is noted for being slow, the second half and its action sequences, particularly the climax train fight, are praised. Viewers found Saravanan's performance improved, with supporting cast and background score also receiving applause.",
-    "img": "https://static.toiimg.com/photo/msid-129997152,imgsize-153548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/leader-twitter-review-netizens-call-legend-saravanan-starrer-a-watchable-commercial-entertainer/articleshow/129997152.cms",
-    "time": "2026-04-03T08:20:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Yuvraj’s candid revelation: ‘From nowhere Dhoni became captain’ despite him being VC",
     "desc": "Yuvraj Singh revealed how captaincy can be unexpected, citing MS Dhoni's 2007 appointment despite senior players and his own vice-captaincy. He related this to modern debates, like Abhishek Sharma not leading his franchise, explaining player disappointment when consistent performers are overlooked. Dhoni's surprise captaincy, however, led to immense success for Indian cricket.",
@@ -369,24 +414,6 @@ const newsData_en = [
     "time": "2026-04-03T08:17:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Manon issues new statement regarding missing out on ‘Pinky Up’",
-    "desc": "Global girl group KATSEYE's member Manon has addressed speculation surrounding her absence from the 'Pinky Up' teaser. She assured fans of her well-being and ongoing positive conversations with her agency, HxG, dispelling rumors of her departure. However, the removal of 'KATSEYE' from her social media bio and her continued absence from recent performances fuel fan concerns.",
-    "img": "https://static.toiimg.com/photo/msid-129997012,imgsize-117072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/manon-says-im-happy-and-healthy-after-absence-from-pinky-up-and-removing-katseye-from-socials/articleshow/129997012.cms",
-    "time": "2026-04-03T08:11:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chris Rock spends the day with new beau Simone Henaulte",
-    "desc": "The romantic life of Chris Rock is grabbing headlines once again as he enjoys a sunny day out with his new girlfriend, Simone Henaulte. The duo, who share a creative spark with Henaulte’s work as a DJ and producer, were photographed cozying up to each other at a local park, complete with hand-holding and playful kisses.",
-    "img": "https://static.toiimg.com/photo/msid-129996940,imgsize-44476.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chris-rock-spotted-out-and-about-with-new-beau-simone-henaulte-photos-of-the-couple-go-viral/articleshow/129996940.cms",
-    "time": "2026-04-03T08:04:31.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Oil, LNG supplies: Top Russian official Manturov signals fuel support for India during Middle East crisis",
     "desc": "Russia's Deputy Chairman Denis Manturov highlighted a deepening energy partnership with India, stating Moscow can ramp up oil and LNG supplies amid the Middle East crisis. The visit also confirmed increased fertilizer supplies and ongoing collaboration in nuclear energy, alongside discussions on expanding industrial, space, and technological cooperation.",
@@ -394,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/oil-lng-supplies-top-russian-official-manturov-signals-fuel-support-for-india-during-middle-east-crisis/articleshow/129996442.cms",
     "time": "2026-04-03T08:01:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ahaan's first glimpse from Ali Abbas Zafar's film is out",
-    "desc": "In an exciting revelation, acclaimed filmmaker Ali Abbas Zafar has unveiled his latest project starring the charismatic Ahaan Panday. This romantic action film, produced by the renowned Yash Raj Films, also brings together talents like Sharvari, Aaishvary Thackeray, and Bobby Deol. Production is underway, with scenes being shot in both Mumbai and exotic international destinations. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-129996328,imgsize-70358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ahaan-pandays-first-glimpse-from-ali-abbas-zafars-romantic-action-movie-is-out-actor-looks-intense-as-filming-begins/articleshow/129996328.cms",
-    "time": "2026-04-03T07:59:56.000Z"
   },
   {
     "cat": "Politics",
@@ -487,7 +505,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 16 [LIVE]: Ranveer Singh film eyes Rs 950 crore",
+    "title": "'Dhurandhar 2' BO day 16 [LIVE]: Ranveer Singh film crosses Rs 955 crore",
     "desc": "The Revenge' has rewritten box office history, amassing a staggering Rs. 939.46 crore India net. The Aditya Dhar directorial, starring Ranveer Singh as the elite spy Hamza, has officially overtaken the lifetime collections of its predecessor in a mere 11 days. Despite the massive IPL 2026 season, the film continues to dominate theaters, crossing a global gross of Rs. 1,492.17 crore and becoming the highest-grossing Indian film of all time in North America. With powerful performances from Sanjay Dutt, Arjun Rampal, and Rakesh Bedi, this high-stakes espionage thriller is now rapidly closing in on the historic Rs. 1,000 crore India net milestone.",
     "img": "https://static.toiimg.com/photo/msid-129995382,imgsize-93538.cms",
     "src": "indiatimes.com",
@@ -540,15 +558,6 @@ const newsData_en = [
     "time": "2026-04-03T05:13:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Deeper collaboration for regional peace': Upendra Dwivedi meets Bangladesh high commissioner Riaz Hamidullah",
-    "desc": "Bangladesh High Commissioner Riaz Hamidullah met Indian Army Chief General Upendra Dwivedi in New Delhi to bolster defence ties. Discussions centered on enhancing joint training and deepening coordination for regional peace and security. This engagement underscores the growing strategic partnership between India and Bangladesh, built on shared values and a commitment to mutual prosperity.",
-    "img": "https://static.toiimg.com/photo/msid-129993787,imgsize-98700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/deeper-collaboration-for-regional-peace-upendra-dwivedi-meets-bangladesh-high-commissioner-riaz-hamidullah/articleshow/129993609.cms",
-    "time": "2026-04-03T04:50:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Centre urges remaining states to prevent panic buying after only 17 conduct briefings",
     "desc": "The Centre is urging states to boost communication efforts against LPG supply rumors, as inadequate public outreach fuels panic buying. Only 17 states currently hold press briefings. Authorities are asked to intensify proactive, regular communication via press conferences and social media to reassure citizens about LPG availability and distribution, while also curbing hoarding and black marketing.",
@@ -583,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/another-round-of-liberation-day-tariffs-trump-slaps-patented-drugs-with-100-tariff-lowers-duties-for-steel-aluminium/articleshow/129993076.cms",
     "time": "2026-04-03T03:14:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chennai Super Kings look to revive the Chepauk magic",
-    "desc": "Chennai Super Kings aim to reclaim their Chepauk fortress against a confident Punjab Kings after a disappointing season opener. CSK's top-order woes were evident in their loss to Rajasthan Royals, with youngsters needing time to develop. Punjab Kings, however, are buoyed by an opening win, with skipper Shreyas Iyer declared fit to play.",
-    "img": "https://static.toiimg.com/photo/msid-129993116,imgsize-44638.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-vs-pbks-preview-chennai-super-kings-look-to-revive-the-chepauk-magic/articleshow/129993104.cms",
-    "time": "2026-04-03T03:08:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -792,15 +792,6 @@ const newsData_en = [
     "time": "2026-04-01T17:07:19.000Z"
   },
   {
-    "cat": "World",
-    "title": "Artemis II, the international space race, and what is at stake for the U.S.",
-    "desc": "If Artemis II and III go as planned and Artemis IV is able to lift off on time, U.S. astronauts could reach the moon’s surface at least two years before China’s mission. However, that depends on many things happening right on schedule — perhaps too many",
-    "img": "https://th-i.thgim.com/public/incoming/be6tyq/article70685324.ece/alternates/LANDSCAPE_1200/NASA_Artemis_Moonshot_06509.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/artemis-ii-the-international-space-race-and-what-is-at-stake-for-the-us/article70806797.ece",
-    "time": "2026-04-01T16:34:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Refresh, reset — recipe for Connolly’s success",
     "desc": "In the face-off against Gujarat Titans in New Chandigarh on Tuesday, the Punjab Kings batter exhibited why he is a much better player than the recent poor returns suggested. For the 22-year-old, a brief period away from the sport did the trick",
@@ -891,12 +882,21 @@ const newsData_en = [
     "time": "2026-03-31T12:24:56.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Hey Kay Navin?’ series review: Varun Narvekar redefines feel-good in this breezy rom-com",
-    "desc": "Starring Priya Bapat and Umesh Kamat, the Marathi show runs on a straightforward premise but still makes a difference in fully committing to the genre, coming as a gush of fresh air especially at a time when Hindi OTT is obsessed with guns and violence",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/kjw4di/article70806040.ece/alternates/LANDSCAPE_1200/Hey%20Kaay%20NAvin.jpg",
+    "cat": "Tech",
+    "title": "Centre eyes new regulation to cover social media users",
+    "desc": "Govt. may permit I&B Ministry to send takedown notices to individual users for their posts; It includes controversial clause in draft amendment to IT Rules 2021; Internet Freedom Foundation calls it ‘massive expansion of unconstitutional censorship’",
+    "img": "https://th-i.thgim.com/public/incoming/nz9gv/article70804311.ece/alternates/LANDSCAPE_1200/IMG_BL11_Social_media_AI_2_1_0EFIMJ4N.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/hey-kay-navin-series-review-varun-narvekar-priya-bapat-umesh-kamat-marathi-show-muramba-director/article70806003.ece",
-    "time": "2026-03-31T08:40:25.000Z"
+    "url": "https://www.thehindu.com/news/national/centre-eyes-new-regulation-to-cover-social-media-users/article70803459.ece",
+    "time": "2026-03-30T18:31:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
   }
 ];
