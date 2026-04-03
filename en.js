@@ -1,12 +1,165 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "MeT forecasts heavy rains in Kashmir plains, snowfall in higher reaches",
+    "desc": "Jammu and Kashmir braces for a spell of heavy rain, gusty winds, and high-altitude snowfall over the next 36 hours. Srinagar experienced significant road flooding on Friday, prompting authorities to issue advisories for residents and tourists to avoid non-essential travel and exercise caution near water bodies. Erratic weather conditions are expected to persist until April 10.",
+    "img": "https://static.toiimg.com/photo/msid-130009221,imgsize-284366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/met-forecasts-heavy-rains-in-kashmir-plains-snowfall-in-higher-reaches/articleshow/130009217.cms",
+    "time": "2026-04-03T21:12:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Namit Malhotra rejects Rs 700 cr OTT deal for Ramayana, expects Rs 1000 crore",
+    "desc": "Nitesh Tiwari's ambitious 'Ramayana,' starring Ranbir Kapoor, is slated for a two-part Diwali release in 2026 and 2027. Producer Namit Malhotra is reportedly seeking a Rs 1,000 crore OTT deal for both installments, having recently rejected a Rs 700 crore offer. The film boasts an ensemble cast and music by Hans Zimmer and A.R. Rahman.",
+    "img": "https://static.toiimg.com/photo/msid-130009211,imgsize-25418.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/namit-malhotra-rejects-rs-700-crore-ott-offer-for-ranbir-kapoors-ramayana-expects-rs-1000-crore-may-follow-dhurandhar-strategy-report/articleshow/130009204.cms",
+    "time": "2026-04-03T21:09:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rashford has 'big chance' with Raphinha out, says Barca coach Flick",
+    "desc": "Brazil international Raphinha is sidelined until May with a hamstring injury, opening the door for Rashford. The England forward, on loan from Manchester United, impressed in the first half of the season but has not played as much in recent weeks",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/rashford-has-big-chance-with-raphinha-out-says-barca-coach-flick/article70821254.ece",
+    "time": "2026-04-03T20:52:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pakistan jibes become central to BJP’s Assam poll narrative",
+    "desc": "Chief Minister Himanta Biswa Sarma has been attacking Congress leader Gaurav Gogoi over his alleged Pakistan connections, his latest barb was aimed at the mother of a candidate whom he accused of sympathising with ‘anti-national’ elements",
+    "img": "https://th-i.thgim.com/public/incoming/8knf8z/article70820497.ece/alternates/LANDSCAPE_1200/2150_23_3_2026_18_14_36_1_ASSAMELECTION_23032026_02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/assam-assembly/in-bjps-assam-poll-narrative-pakistan-is-the-protagonist-anti-national-a-leitmotif/article70817060.ece",
+    "time": "2026-04-03T20:51:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir talks about Raha's curiousity towards Ramayana: 'Did you shoot with Hanuman?'",
+    "desc": "Ranbir Kapoor, portraying Lord Ram in Nitesh Tiwari's 'Ramayana', shared his profound connection to the role, especially after becoming a father. He revealed his daughter Raha's curiosity about the epic, highlighting its deep roots in Indian culture. Initially hesitant, Ranbir embraced the opportunity, seeing it as a life-changing coincidence with his own fatherhood journey.",
+    "img": "https://static.toiimg.com/photo/msid-130009167,imgsize-40206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-told-ramayana-stories-to-raha-after-shoot-she-would-ask-him-did-you-shoot-with-hanuman-today/articleshow/130009146.cms",
+    "time": "2026-04-03T20:44:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Napoli and AC Milan face off as Italy licks its World Cup wounds",
+    "desc": "Leading Milan by six points with eight matches remaining in the season, Inter would ordinarily be confident of claiming a 21st league crown ahead of the visit of Champions League chasers Roma on April 5",
+    "img": "https://th-i.thgim.com/public/incoming/g6nzig/article70821244.ece/alternates/LANDSCAPE_1200/2025-06-30T214822Z_659238267_UP1EL6U1MSOI0_RTRMADP_3_SOCCER-CLUB-INT-FLU.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/napoli-and-ac-milan-face-off-as-italy-licks-its-world-cup-wounds/article70821241.ece",
+    "time": "2026-04-03T20:20:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war LIVE: Iran military says downed second U.S. jet in Gulf",
+    "desc": "The total year-on-year increase in Pentagon spending would be the largest since World War II, U.S. media reported, although presidential budgets are wish lists that have to be approved by Congress, rather than binding orders.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-3-2026-west-asia-crisis-conflict/article70818422.ece",
+    "time": "2026-04-03T20:07:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Coming from Manchester, there were no culture shocks for me in India: Ashley Westwood",
+    "desc": "The Englishman takes the reins at Kerala Blasters with the team floundering in the ISL. But he knows what it takes to succeed in India, thanks to his experience with Bengaluru FC. In this conversation, he discusses his managerial stints around the world, his formative years in the Manchester United Academy and what he picked up from Alex Ferguson’s methods",
+    "img": "https://th-i.thgim.com/public/incoming/wofxgk/article70821234.ece/alternates/LANDSCAPE_1200/b1.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/ashley-westwood-interview-kerala-blasters-isl-bengaluru-fc-career/article70821225.ece",
+    "time": "2026-04-03T19:56:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arshad Pappu decodes how Dawood's character was portrayed in Dhurandhar 2",
+    "desc": "Actor Ashwin Dhar, who plays Arshad Pappu in 'Dhurandhar 2', praised director Aditya Dhar's realistic portrayal of characters, including Dawood Ibrahim. Dhar emphasised that while the film blends reality with fiction, the narrative's strength lies in its grounded presentation of characters, showcasing their vulnerability. This approach makes the fictionalised storyline compelling.",
+    "img": "https://static.toiimg.com/photo/msid-130009084,imgsize-36924.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ashwin-dhar-aka-arshad-pappu-in-dhurandhar-2-decodes-how-dawood-ibrahims-character-was-portrayed-by-aditya-dhar/articleshow/130009079.cms",
+    "time": "2026-04-03T19:56:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The IPL’s Impact Player rule: a disruptor that needs disrupting?",
+    "desc": "The regulation came under scrutiny during a captains’ meeting ahead of the season, with most leaders not in favour of it. While it widens the opportunities for Indian players, it can arrest aspects of their development. And over the long term, it subtly alters the narrative towards favouring specialists and diminishes the all-rounder",
+    "img": "https://th-i.thgim.com/public/incoming/dns4gf/article70821229.ece/alternates/LANDSCAPE_1200/a1.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/impact-player-rule-ipl-team-balance-all-rounders-analysis/article70821215.ece",
+    "time": "2026-04-03T19:53:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. experts say American strikes on Iran may amount to war crimes",
+    "desc": "Over 100 international law experts in the U.S., ‌including from ⁠schools like Harvard, Yale, Stanford, and the University ⁠of California, say the conduct of U.S. forces and statements by senior U.S. officials “raise serious concerns about violations of international human rights ​law and international humanitarian law, ‌including potential war crimes”",
+    "img": "https://th-i.thgim.com/public/incoming/iuxtsx/article70821122.ece/alternates/LANDSCAPE_1200/2026-04-02T090156Z_1739474404_RC2YFKAO8VK5_RTRMADP_3_USA-COURT-TRUMP-BIRTHRIGHT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-experts-say-american-strikes-on-iran-may-amount-to-war-crimes/article70821093.ece",
+    "time": "2026-04-03T19:35:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bhupinder Hooda, AJL discharged in Panchkula land allotment case",
+    "desc": "The special court order follows a February 25 ruling by Punjab and Haryana High Court, which set aside a 2021 order that had framed charges against former Haryana Chief Minister and others in the case",
+    "img": "https://th-i.thgim.com/public/incoming/vwctef/article70821197.ece/alternates/LANDSCAPE_1200/20241007150L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/bhupinder-hooda-ajl-discharged-in-panchkula-land-allotment-case/article70821094.ece",
+    "time": "2026-04-03T19:30:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Playing not to impress': Shreyas Iyer after CSK vs PBKS IPL match",
+    "desc": "Punjab Kings beat CSK by five wickets, chasing 210 with ease, led by Shreyas Iyer’s half-century. CSK posted 209/5, powered by Ayush Mhatre’s 73. PBKS got a flying start through Priyansh Arya and stayed composed. Iyer said the team aims to “impress each other,” highlighting strong starts and teamwork behind their top-of-the-table run.",
+    "img": "https://static.toiimg.com/photo/msid-130008710,imgsize-46838.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/playing-not-to-impress-shreyas-iyer-after-csk-vs-pbks-ipl-match/articleshow/130008463.cms",
+    "time": "2026-04-03T19:07:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 GT vs RR",
+    "desc": "GT’s bowling, quietly efficient in the defeat to Punjab Kings, now meets a different kind of volatility, led by Vaibhav Suryavanshi and Yashasvi Jaiswal. RR began its campaign with a thumping eight-wicket win over Chennai Super Kings.",
+    "img": "https://th-i.thgim.com/public/incoming/wh9r33/article70820866.ece/alternates/LANDSCAPE_1200/TH04-GILL-RATHOUR.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-gt-vs-rr-onus-on-titans-top-order-as-it-meets-royals-in-first-home-fixture/article70819539.ece",
+    "time": "2026-04-03T19:06:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Spinners' off day cost us': CSK captain points to Chahar, Noor after PBKS loss",
+    "desc": "\"We felt we had three seamers going in, and obviously we have two good wrist spinners (Noor Ahmad and Rahul Chahar) bowling in tandem, especially in the middle after the powerplay. We felt that, you know, it will help,\" said Gaikwad. \"But I think, you know, slight off day for both of them. So, I think, that is what cost us. Sometimes we executed really well. Sometimes we just didn't execute at the right time,\" he added.",
+    "img": "https://static.toiimg.com/photo/msid-130008459,imgsize-36968.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/spinners-off-day-cost-us-csk-captain-throws-rahul-chahar-and-noor-ahmad-under-the-bus-after-loss-to-pbks/articleshow/130008430.cms",
+    "time": "2026-04-03T18:52:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kuldeep",
+    "desc": "“It’s very important for spinners to hold on to their strengths. Whenever batters put you under pressure, you tend to forget your strength. You look for a safer option to get out of that situation. If you are an attacking spinner, don’t let that go. Because that is your identity and if you are doing that work for the team, taking wickets, there can be nothing better than that. Your mindset should be attacking,” says Kuldeep",
+    "img": "https://th-i.thgim.com/public/incoming/m4jmhd/article70820415.ece/alternates/LANDSCAPE_1200/12_RVM_1438.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/important-to-hold-onto-attacking-mindset-kuldeep/article70820206.ece",
+    "time": "2026-04-03T18:48:09.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Tamil Nadu missed out on Central government schemes because DMK saw BJP as an enemy, says G.K. Vasan",
     "desc": "This is an election for the safety of the people of Tamil Nadu, especially women. The DMK does not want any development from the Centre because of vote bank politics. It should be a double-engine sarkar; the Central and State governments should work together, says the TMC(M) president",
     "img": "https://th-i.thgim.com/public/incoming/fs4g52/article70821143.ece/alternates/LANDSCAPE_1200/11658_31_3_2026_20_45_1_2_7.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-missed-out-on-central-government-schemes-becausedmksawbjpas-an-enemy-says-gk-vasan/article70821141.ece",
     "time": "2026-04-03T18:40:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Iyer-led PBKS hunt down 210 with ease, hand CSK second straight loss",
+    "desc": "Punjab Kings beat Chennai Super Kings by five wickets, chasing 210 with ease to register their second straight win at the MA Chidambaram Stadium in Chennai. CSK batter Ayush Mhatre starred with 73 as CSK posted 209/5. In reply, Shreyas Iyer’s 50 and strong support helped PBKS complete the chase comfortably in 18.4 overs.",
+    "img": "https://static.toiimg.com/photo/msid-130007879,imgsize-53290.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-shreyas-iyer-led-pbks-hunt-down-210-with-ease-hand-csk-second-straight-loss/articleshow/130007288.cms",
+    "time": "2026-04-03T18:23:08.000Z"
   },
   {
     "cat": "Politics",
@@ -52,24 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/sunil-gavaskar-gives-huge-cameron-green-verdict-if-hes-not-going-to-bowl-/articleshow/130006054.cms",
     "time": "2026-04-03T17:25:41.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel war LIVE: White House requests giant $1.5 trillion defence budget amid Iran war",
-    "desc": "The total year-on-year increase in Pentagon spending would be the largest since World War II, U.S. media reported, although presidential budgets are wish lists that have to be approved by Congress, rather than binding orders.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-3-2026-west-asia-crisis-conflict/article70818422.ece",
-    "time": "2026-04-03T17:24:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 GT vs RR",
-    "desc": "GT’s bowling, quietly efficient in the defeat to Punjab Kings, now meets a different kind of volatility, led by Vaibhav Suryavanshi and Yashasvi Jaiswal. RR began its campaign with a thumping eight-wicket win over Chennai Super Kings.",
-    "img": "https://th-i.thgim.com/public/incoming/wh9r33/article70820866.ece/alternates/LANDSCAPE_1200/TH04-GILL-RATHOUR.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-gt-vs-rr-onus-on-titans-top-order-as-it-meets-royals-in-first-home-fixture/article70819539.ece",
-    "time": "2026-04-03T17:14:19.000Z"
   },
   {
     "cat": "Politics",
@@ -160,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/bat-check-controversy-how-ayush-mhatre-failed-thrice-due-to-umpire-error/articleshow/130004423.cms",
     "time": "2026-04-03T15:41:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "This Kerala airport halts flights for 5 hours for a religious procession",
-    "desc": "At Thiruvananthapuram International Airport, flight operations were halted for a few hours as the centuries-old Arattu procession of the Painkuni festival crossed the runway en route to Shangumugham Beach. The ritual, linked to the Sree Padmanabhaswamy Temple, marks the ceremonial sea bath of the deity.",
-    "img": "https://th-i.thgim.com/public/incoming/csktq3/article70820640.ece/alternates/LANDSCAPE_1200/painkuni.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-this-kerala-airport-halts-flights-for-5-hours-for-a-religious-procession/article70820674.ece",
-    "time": "2026-04-03T15:24:54.000Z"
   },
   {
     "cat": "Politics",
@@ -396,42 +522,6 @@ const newsData_en = [
     "time": "2026-04-03T09:56:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rahul Gandhi enjoys 'appam and omelette' with UDF leaders ahead of Kerala Assembly polls",
-    "desc": "Congress MP Rahul Gandhi shared a video of him discussing Kerala's upcoming 2026 assembly elections with UDF leaders over local snacks. He emphasized the need for change, highlighting education reform, youth opportunities, and better social support. Gandhi expressed confidence in the UDF's readiness to lead, positioning them as renewed hope for the state.",
-    "img": "https://static.toiimg.com/photo/msid-129998225,imgsize-851003.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-rahul-gandhi-enjoys-appam-and-omelette-with-udf-leaders-ahead-of-kerala-assembly-polls/articleshow/129998171.cms",
-    "time": "2026-04-03T09:37:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Ghar wapsi will take place soon': All India Imam Organisation chief says PoK will be reintegrated with India",
-    "desc": "Chief Imam Umer Ahmed Ilyasi expressed confidence that Pakistan-Occupied Kashmir will soon rejoin India, citing the desire of its people and the positive developments in Jammu and Kashmir post-Article 370 abrogation. He highlighted a transformed Kashmir with increased prosperity and tourism, urging continued visits despite past incidents.",
-    "img": "https://static.toiimg.com/photo/msid-129998029,imgsize-633809.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ghar-wapsi-will-take-place-soon-all-india-imam-organisation-chief-says-pok-will-be-reintegrated-with-india/articleshow/129997987.cms",
-    "time": "2026-04-03T09:23:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika Mandanna shares viral video with Vijay Deverakonda reference",
-    "desc": "Rashmika Mandanna's recent social media video, featuring a cartoon of herself and Vijay Deverakonda with a \"us three\" caption, has sparked pregnancy rumors among fans. However, the post, shared via her personal diary account, might simply be a creative update symbolizing happiness or a new chapter, rather than a literal announcement.",
-    "img": "https://static.toiimg.com/photo/msid-129997975,imgsize-154186.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-shares-viral-video-with-vijay-deverakonda-reference-now-its-us-three-caption-leaves-fans-curious/articleshow/129997975.cms",
-    "time": "2026-04-03T09:22:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sean Preston changes name from Federline to Spears on socials",
-    "desc": "Britney Spears' 19-year-old son, Sean Preston, has updated his social media handles to reflect his mother's surname, now going by Sean P Spears. This change follows a recent yacht outing with the pop icon, occurring shortly after her DUI arrest. Sean has been reportedly spending more time with his mother and brother, Jayden James.",
-    "img": "https://static.toiimg.com/photo/msid-129997899,imgsize-66368.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/britney-spears-son-sean-preston-drops-father-kevin-federlines-surname-from-socials/articleshow/129997899.cms",
-    "time": "2026-04-03T09:17:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘I was talking to the President’: Tiger Woods heard in DUI arrest video",
     "desc": "Golf legend Tiger Woods, arrested on DUI charges after a car crash, was heard mentioning a conversation with the president. Bodycam footage shows him disoriented, admitting he was distracted by his phone. Woods, who denied alcohol consumption, was found with prescription painkillers and refused a urine test, citing past injuries.",
@@ -439,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/golf/top-stories/i-was-talking-to-the-president-tiger-woods-dui-arrest-video-shocks-fans/articleshow/129997818.cms",
     "time": "2026-04-03T09:07:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Parineeti Chopra and Raghav Chadha’s love story",
-    "desc": "Parineeti Chopra and Raghav Chadha’s love story began with a chance meeting in London and blossomed through secret moments in Punjab. After a fairytale wedding in Udaipur in 2023, the couple announced they are expecting their first child, continuing their heartwarming journey of love, laughter, and togetherness.",
-    "img": "https://static.toiimg.com/photo/msid-129997820,imgsize-121678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/parineeti-chopra-and-raghav-chadhas-love-story-meeting-in-london-to-a-fairytale-romance/articleshow/129997820.cms",
-    "time": "2026-04-03T09:07:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -576,15 +657,6 @@ const newsData_en = [
     "time": "2026-04-03T06:26:30.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘I can come anywhere to meet you’: Mhatre on unforgettable time with Rohit Sharma",
-    "desc": "Young batter Ayush Mhatre described a \"dream day\" meeting his idol Rohit Sharma, who invited him to his residence for a two-hour conversation. This personal interaction, initiated by Mhatre after a previous offer of guidance from Sharma, provided significant inspiration. The meeting remains a defining milestone for Mhatre, fueling his cricketing journey.",
-    "img": "https://static.toiimg.com/photo/msid-129994971,imgsize-1048007.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-can-come-anywhere-to-meet-you-ayush-mhatre-on-unforgettable-time-with-rohit-sharma/articleshow/129994930.cms",
-    "time": "2026-04-03T05:57:50.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Ahead of Greek social media ban, parents desperate to separate children from phones",
     "desc": "At the EU-funded Greek Safer Internet Centre in Athens, calls to a helpline which offers support to child victims of cyberbullying more than doubled between 2024 and 2025, said George Kormas, who ‌runs the helpline",
@@ -673,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-us-war-on-iran-destruction-of-irans-tallest-bridge/article70818030.ece",
     "time": "2026-04-03T01:26:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SRH run riot, but Abhishek Sharma lands in trouble after IPL code breach",
-    "desc": "Despite Sunrisers Hyderabad's dominant 65-run victory over Kolkata Knight Riders, all-rounder Abhishek Sharma was fined 25% of his match fees and received one demerit point for breaching the IPL Code of Conduct. Sharma admitted to the Level 1 offense, which occurred during SRH's explosive 82-run opening stand.",
-    "img": "https://static.toiimg.com/photo/msid-129991980,imgsize-173392.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/srh-run-riot-but-abhishek-sharma-lands-in-trouble-after-ipl-code-breach/articleshow/129991989.cms",
-    "time": "2026-04-03T00:56:04.000Z"
   },
   {
     "cat": "World",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/hitman-to-ro-fit-rohit-sharma-20-augurs-well-for-mumbai-indians/article70811440.ece",
     "time": "2026-04-01T13:24:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Interview",
-    "desc": "The 6’8” Knight Riders speedster acknowledges the guidance he got from West Indies legend Bravo; the Zimbabwe pacer adds that the other players in the KKR dug-out is ‘pushing him’ to be at his best",
-    "img": "https://th-i.thgim.com/public/incoming/wvamel/article70811385.ece/alternates/LANDSCAPE_1200/DSC_6135.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/interview-ipl-is-probably-tougher-than-international-cricket-blessing-muzarabani/article70810444.ece",
-    "time": "2026-04-01T12:54:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "CoinDCX launches ₹100 crore cybersecurity network after impersonation-linked controversy",
-    "desc": "CoinDCX co-founders Sumit Gupta and Neeraj Khandelwal spoke about their arrests and announced the launch of the ₹100 crore Digital Suraksha Network to support independent research, new standards, and educational tools for both state cybercrime cells and everyday Indian users",
-    "img": "https://th-i.thgim.com/public/incoming/d4xn1v/article70810769.ece/alternates/LANDSCAPE_1200/2026-03-17T080654Z_180858490_RC22PGATT48E_RTRMADP_3_CRYPTO-BITCOIN-CITIGROUP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/coindcx-launches-100-crore-cybersecurity-network-after-impersonation-linked-controversy/article70810783.ece",
-    "time": "2026-04-01T10:04:21.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "With NavIC setback, India unable to use satellite system for security purposes: experts",
-    "desc": "A major setback occurred after the last atomic clock on board the Indian Regional Navigational Satellite System-1F (IRNSS-1F) stopped functioning on March 10, leaving only three satellites of the NavIC constellation in function; armed forces of countries use the navigation satellite system for logistics, mapping and operational planning, and relying on a foreign navigation satellite system could pose security issues, especially during wars",
-    "img": "https://th-i.thgim.com/public/incoming/46xqm/article70784020.ece/alternates/LANDSCAPE_1200/PTI8_30_2017_000133B.JPEG-07231.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/another-satellite-in-navic-satellite-system-unable-to-function-limiting-its-security-capabilities-amid-concerns-of-reliance-on-foreign-navigation-systems/article70783744.ece",
-    "time": "2026-04-01T09:59:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "On global tensions and India’s economy",
-    "desc": "In an economy that imports more than four-fifths of its crude oil, external shocks transmitted through energy prices, shipping route, and volatile commodity markets can significantly reshape fiscal arithmetic. In this context, India must rebalance toward income-led demand, more resilient revenue bases and greater energy diversification",
-    "img": "https://th-i.thgim.com/public/news/6vxk1f/article70808614.ece/alternates/LANDSCAPE_1200/Graph.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/on-global-tensions-and-indias-economy/article70808603.ece",
-    "time": "2026-04-01T06:57:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Infantino promises FIFA backing for Iran to play at World Cup",
-    "desc": "Infantino's surprise ​appearance came as Iran continues pushing to relocate ⁠the team's World Cup matches from the U.S. to Mexico, citing the American military involvement alongside Israel in strikes that sparked the current regional ‌war.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/soccer-infantino-promises-fifa-backing-for-iran-to-play-at-world-cup/article70808750.ece",
-    "time": "2026-04-01T01:13:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Seamless sibling synergy defined Akkarai Sisters’ concert",
-    "desc": "S. Subhalakshmi and S. Sornalatha presented time-tested kritis, with Sornalatha adding a note of excitement through her konnakol rendition, more commonly associated with male percussionists. Subhalakshmi and S. Sornalatha rendered time-tested kritis, with Sornalatha’s konnakol adding an unexpected rhythmic spark.",
-    "img": "https://th-i.thgim.com/public/entertainment/music/ln4p6l/article70807108.ece/alternates/LANDSCAPE_1200/03fr_Akkarai%20sisters%20at%20Hamsa%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/akkarai-sisters-and-ks-vishnudev-captivate-audience-at-hamsadhwani-concert/article70802180.ece",
-    "time": "2026-03-31T12:24:56.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
   }
 ];
