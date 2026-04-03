@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will surface at MA Chidambaram Stadium in Chennai play for IPL 2026 Match 7?",
+    "desc": "Chennai Super Kings (CSK) are set to play at home for the first time in IPL 2026. They will face the Punjab Kings at the MA Chidambaram Stadium in Chennai and will be hoping to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-pbks-pitch-report-how-will-surface-at-ma-chidambaram-stadium-in-chennai-play-for-ipl-2026-match-7-2026-04-03-1036173",
+    "time": "2026-04-03T08:56:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer wants most expensive player of IPL 2026 auction to be dropped from KKR's playing XI",
+    "desc": "Former India cricketer Harbhajan Singh thinks that the most expensive player of IPL 2026 auction, Cameron Green, should be dropped from Kolkata Knight Riders' playing XI. The Australian has come under the scanner early in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-wants-most-expensive-player-of-ipl-2026-auction-to-be-dropped-from-kkr-s-playing-xi-2026-04-03-1036158",
+    "time": "2026-04-03T07:06:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 Player battles to watch out for in IPL 2026 Match 7",
     "desc": "Chennai Super Kings (CSK) will play at the MA Chidambaram Stadium, famously known as Chepauk, for the first time in the ongoing Indian Premier League (IPL) season today against Punjab Kings. The venue was once...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ruturaj-gaikwad-wants-fans-to-allow-youngsters-to-make-mistakes-after-tough-start-to-ipl-2026-campaign-2026-04-02-1036105",
     "time": "2026-04-02T17:19:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mustafizur Rahman's exclusion from IPL 2026 was 'unfortunate', says chairman Arun Dhumal",
-    "desc": "The ripples of the Mustafizur Rahman exclusion continue to be felt across the cricketing landscape, three months after the Bangladesh seamer was barred from joining Kolkata Knight Riders. IPL chairman Arun Dhumal recently addressed the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mustafizur-rahman-s-exclusion-from-ipl-2026-was-unfortunate-says-chairman-arun-dhumal-2026-04-02-1036099",
-    "time": "2026-04-02T15:51:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma becomes second cricketer after David Warner to join legendary club, departs disappointed",
-    "desc": "Abhishek Sharma played a scintillating knock in the high-voltage clash against Kolkata Knight Riders in the ongoing IPL 2026 clash at the Eden Gardens. The southpaw smacked 48 runs off 21 balls, giving Hyderabad a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-becomes-second-cricketer-after-david-warner-to-join-legendary-club-departs-disappointed-2026-04-02-1036096",
-    "time": "2026-04-02T15:12:58.000Z"
   }
 ];

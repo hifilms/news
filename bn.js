@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "থাকবেন রাহুল, ১০ এপ্রিল ফের মঞ্চস্থ হতে চলেছে 'যে জানলাগুলোর আকাশ ছিল': আবেগঘন পোস্ট সৌরভের",
+    "desc": "রাহুল অরুণোদয় বন্দ্যোপাধ্যায়ের প্রয়াণে স্তব্ধ থিয়েটার মহল। কিন্তু শিল্পী মরেও অমর তাঁর সৃষ্টিতে। বন্ধু ও অভিনেতা রাহুলের স্মৃতিতে ‘ইচ্ছেমতো’ নাট্যদলের আগামী পরিকল্পনা নিয়ে মুখ খুললেন পরিচালক সৌরভ পালোধী। আগামী ১০ই এপ্রিল অ্যাকাডেমিতে হতে চলেছে বিশেষ শো।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunodoy-banerjee-death-saurav-palodhi-theatre-future-update_647237.html ",
+    "time": "2026-04-03T09:26:14.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war: যুদ্ধের ভয়ংকর VDO :দুবাইয়ে দুনিয়া কাঁপানো IT সংস্থার বিরাট অফিসে ইরানের করাল ড্রোন হানা, তোলপাড়",
+    "desc": "Oracle Office In Dubai Hit In Iran Strikes? ইরানের পক্ষ থেকে এই দাবি করার পর মধ্যপ্রাচ্যের ডিজিটাল পরিকাঠামো ভেঙে পড়ার গুঞ্জন শুরু হয়। তবে দুবাই সরকার এবং সংযুক্ত আরব আমিরশাহির মিডিয়া অফিস (Dubai Media Office) এই খবরের সত্যতা যাচাই করে বক্তব্য রাখেন ।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/oracle-office-dubai-iran-strike-operation-true-promise-4-uae-denies_647226.html ",
+    "time": "2026-04-03T08:12:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "শ্যুটিং সেটে রাহুলের 'পারফেকশন' নিয়ে প্রশ্ন? প্রযোজনা সংস্থার দাবি উড়িয়ে মুখ খুললেন ভাস্বর",
     "desc": "\"রাহুল আর নেই\"—একথাটা এখনও বিশ্বাস করতে পারছেন না অভিনেতা ভাস্বর চট্টোপাধ্যায়। দুই দশকের বন্ধুত্ব, অসংখ্য স্মৃতি আর শেষ দিনের সেই ছবিটাই এখন শেষ সম্বল। কিন্তু শ্যুটিং সেটে রাহুলের 'জেদ' নিয়ে ওঠা দাবি কি আদৌ সত্যি? মুখ খুললেন দীর্ঘদিনের বন্ধু ভাস্বর।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -135,15 +153,6 @@ const newsData_bn = [
     "time": "2026-03-30T11:12:46.000Z"
   },
   {
-    "cat": "World",
-    "title": "ইরানের রহস্যময় বিপুল ইউরেনিয়ামের জন্য মার্কিন কমান্ডো অভিযান; ট্রাম্প পাঠালেন ৫৭ হাজার ট্রুপ, পরমাণুযুদ্ধ?",
-    "desc": "এবার সত্য়িই পরমাণুযুদ্ধ? ইরান জুড়ে মার্কিন ও ইসরায়েলি বাহিনীর যে বিধ্বংসী অভিযান চলছে, তার পিছনে তেহরানের পরমাণু কর্মসূচিকে চিরতরে স্তব্ধ করে দেওয়ার গভীর পরিকল্পনাও যে কাজ করেছে, এতদিনে সেটা জানা গেল। কী ভাবে? কেননা, ইরানের ৪৫০ কেজি ইউরোনিয়াম বাজেয়াপ্ত করতে অভিযানে নামছে মার্কিন কমান্ডো বাহিনী।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/trump-to-seize-450-kg-uranium-from-iran-safety-concerns-loom-deploying-75-troops_646632.html ",
-    "time": "2026-03-30T10:24:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'রাহুলের অস্বাভাবিক মৃত্যুর পূর্ণাঙ্গ ও নিরপেক্ষ পুলিসি তদন্ত চাই', সুদীপ্তা-রূপাঞ্জনার দাবির মাঝেই আর্টিস্ট ফোরামের বিবৃতি",
     "desc": "শুটিং করতে গিয়ে ওড়িশার সমুদ্রে তলিয়ে গেলেন অভিনেতা রাহুল অরুণোদয় বন্দ্যোপাধ্যায়। কিন্তু এটি কি শুধুই দুর্ঘটনা? কেন ছিল না পর্যাপ্ত নিরাপত্তা? প্রিয় সহকর্মীর অকাল প্রয়াণে এবার বিচার ও নিরপেক্ষ তদন্তের দাবিতে সরব সুদীপ্তা চক্রবর্তী, রূপাঞ্জনা মিত্র থেকে শুরু করে টলিপাড়ার কলাকুশলীরা।",
@@ -151,23 +160,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunoday-banerjee-death-shooting-negligence-investigation-demanded-by-sudipta-rupanjana-to-artist-forum_646623.html ",
     "time": "2026-03-30T08:59:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "'সাক্ষাৎ মহাদেবের দর্শন পেলাম!' কৈলাস পর্বতের অভূতপূর্ব দৃশ্যে মুগ্ধ বিশ্ব",
-    "desc": "বিমানের জানলা থেকে রেকর্ড করা হয়েছে একটি ভিডিয়ো। মহাবিশ্বের কেন্দ্র বলে মনে করা হয় যাকে, মনে করা হয় ভগবান শিবের নিবাস-- সেই কৈলাসে আশ্চর্য দর্শন!বিমানটি মেঘের সমুদ্র চিরে এগিয়ে চলেছে এবং হঠাৎ করেই বরফের চাদরে ঢাকা মহিমান্বিত কৈলাস পর্বত ভেসে উঠেছে চোখের সামনে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/stunning-view-of-mount-kailash-from-above-clouds-devotees-mesmerized-i-have-seen-lord-shiva-viral-video_646620.html ",
-    "time": "2026-03-30T08:21:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ফুসফুস ফুলে দ্বিগুণ, ভিতরে জমেছে বালি: রাহুলের ভয়ংকর শেষ সময়ের আভাস পোস্টমর্টেমে",
-    "desc": "ময়নাতদন্তের রিপোর্টে হাড়হিম করা তথ্য! ১ ঘণ্টারও বেশি সময় ওড়িশার সমুদ্রে জলের তলায় ডুবে ছিলেন অভিনেতা রাহুল অরুণোদয় বন্দ্যোপাধ্যায়। ফুসফুস ও খাদ্যনালীর ভেতরে মিলেছে প্রচুর বালি ও নোনা জল। ১ ঘণ্টা ধরে তিনি নিখোঁজ থাকার পরও ইউনিটের কেউ কি তা জানতেন না? এটি কি স্রেফ দুর্ঘটনা নাকি চরম গাফিলতি?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunoday-banerjee-autopsy-report-reveals-negligence-talsari_646617.html ",
-    "time": "2026-03-30T07:44:01.000Z"
   }
 ];
