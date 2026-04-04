@@ -1,12 +1,75 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Shashi Tharoor’s gunman, driver attacked in Kerala’s Malappuram; one held",
+    "desc": "As per FIR, the incident occurred around 7.30 pm on Friday when there was a roadblock at a bridge as Tharoor was on his way to attend an election campaign event of a Congress leader",
+    "img": "https://th-i.thgim.com/public/incoming/9gjjhn/article70822348.ece/alternates/LANDSCAPE_1200/PTI03_10_2026_000061B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/shashi-tharoors-gunman-driver-attacked-in-keralas-malappuram-one-held/article70822332.ece",
+    "time": "2026-04-04T04:21:28.000Z"
+  },
+  {
     "cat": "Entertainment",
-    "title": "Viggo Mortensen REPLACED as Aragorn in 'LOTR'",
-    "desc": "The Hunt for Gollum,' confirmed Aragorn's role is being recast, though he didn't name a replacement. The film, set between 'The Hobbit' and the original trilogy, will explore a physical and psychological hunt for Gollum.",
-    "img": "https://static.toiimg.com/photo/msid-130011442,imgsize-110740.cms",
+    "title": "Thambi Ramaiah clarifies 'TN2026' plot after teaser debate",
+    "desc": "Actor Thambi Ramaiah has clarified that his son's upcoming film 'TN 2026 Thanga Natchathiram' does not target actor Vijay's political aspirations. He emphasized the film, written a year ago, is a humorous entertainer about a mass hero seeking power, not a political critique. Ramaiah assured the movie respects all individuals and parties, having friends across the political spectrum.",
+    "img": "https://static.toiimg.com/photo/msid-130012833,imgsize-102994.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lord-of-the-rings-the-hunt-for-gollum-viggo-mortensens-aragorn-to-be-recast-andy-serkis-confirms-leo-woodall-front-runner-for-role/articleshow/130011413.cms",
-    "time": "2026-04-04T01:33:52.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thambi-ramaiah-breaks-the-silence-on-tn-2026-teaser-debate-says-film-does-not-target-vijay/articleshow/130012833.cms",
+    "time": "2026-04-04T04:18:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ending of ‘The Drama’ explained",
+    "desc": "Robert Pattinson and Zendaya's 'The Drama' explores a couple's unraveling relationship amidst wedding preparations. A shocking confession of a planned school shooting by the bride shatters their seemingly perfect bond. Despite the revelation, they marry, only to find themselves strangers, embarking on a new journey of discovery.",
+    "img": "https://static.toiimg.com/photo/msid-130012817,imgsize-37558.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-and-zendayas-the-drama-explained-what-happens-to-the-couple-in-the-end/articleshow/130012817.cms",
+    "time": "2026-04-04T04:14:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Petrol shock, free rides &amp; more: How is Pakistan dealing with Hormuz energy crisis",
+    "desc": "Pakistan grapples with soaring fuel prices, prompting free public transport in Islamabad and Punjab for 30 days. Despite a revised petrol price, public anger persists. The government aims to ease economic burdens amid global energy disruptions and IMF pressure, with similar measures seen in Karachi and Bangladesh.",
+    "img": "https://static.toiimg.com/photo/msid-130012820,imgsize-960537.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/petrol-shock-free-rides-more-how-is-pakistan-dealing-with-hormuz-energy-crisis/articleshow/130012629.cms",
+    "time": "2026-04-04T04:13:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir reveals 'Ramayana' is 6 hrs long; Part 2 half done",
+    "desc": "Ranbir Kapoor unveiled exciting details about Nitesh Tiwari's 'Ramayana', a two-part epic set to release this Diwali. Kapoor described the film as India's 'Lord of the Rings,' boasting six hours of grand visuals, action, and emotional depth. He confirmed filming for Part 2 is halfway complete, promising an even more thrilling experience for audiences.",
+    "img": "https://static.toiimg.com/photo/msid-130012630,imgsize-69316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-reveals-ramayana-has-six-hours-of-action-and-emotional-scenes-shares-ramayana-part-2-half-complete/articleshow/130012478.cms",
+    "time": "2026-04-04T04:03:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Raghav Chadha is ‘compromised’, says Bhagwant Mann",
+    "desc": "Punjab Chief Minister Bhagwant Mann says,”If any individual does not support these collective decisions and goes against the party line, then it is against the party whip. If anyone goes against the party whip, action will be taken.”",
+    "img": "https://th-i.thgim.com/public/incoming/uycvqa/article70819737.ece/alternates/LANDSCAPE_1200/20260330224L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/raghav-chadha-is-compromised-says-bhagwant-mann/article70819593.ece",
+    "time": "2026-04-04T03:55:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'TN 2026' director Umapathy Ramaiah denies targeting Vijay",
+    "desc": "Director Umapathy Ramaiah has responded to trolls from Thalapathy Vijay fans, denying that his upcoming film 'TN 2026' is made to insult anyone. He clarified that the character perceived as being mocked is powerful, like a lion, and urged audiences to view the film as entertainment, not a political issue.",
+    "img": "https://static.toiimg.com/photo/msid-130012564,imgsize-89462.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/tn-2026-director-umapathy-ramaiah-responds-to-trolls-from-thalapathy-vijay-fans-asks-can-anyone-insult-a-lion/articleshow/130012564.cms",
+    "time": "2026-04-04T03:42:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "About Virat Kohli and Anushka Sharma’s home",
+    "desc": "In the vibrant city of Mumbai, cricketer Virat Kohli and actress Anushka Sharma have settled into a breathtaking apartment that commands a staggering value of Rs 34 crore. Perched high on the 35th floor, this opulent residence spans 7,171 sq ft and boasts four bedrooms, all while providing mesmerizing views of the Arabian Sea.",
+    "img": "https://static.toiimg.com/photo/msid-130012559,imgsize-101710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-and-anushka-sharmas-mumbai-home-all-about-the-power-couples-stylish-abode/articleshow/130012559.cms",
+    "time": "2026-04-04T03:39:37.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +78,187 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/esmzms/article70822203.ece/alternates/LANDSCAPE_1200/DSC_9081A.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-to-file-nomination-on-april-6-contest-wont-be-unopposed-in-baramati/article70820676.ece",
-    "time": "2026-04-04T01:32:26.000Z"
+    "time": "2026-04-04T03:38:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Shashi Tharoor's convoy blocked in Kerala's Wandoor, five men assault his gunman, driver",
+    "desc": "Congress MP Shashi Tharoor's convoy faced an alleged attack in Kerala's Wandoor on Friday evening. Two vehicles reportedly blocked the road, leading to an assault on Tharoor's gunman and driver when they attempted to clear the obstruction. Police have arrested one of the five identified accused and are pursuing the others.",
+    "img": "https://static.toiimg.com/photo/msid-130012682,imgsize-48144.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/shashi-tharoors-convoy-blocked-in-keralas-wandoor-five-men-assault-his-gunman-driver/articleshow/130012474.cms",
+    "time": "2026-04-04T03:26:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Biker' BO day 1: Motocross drama crosses Rs 2 crore net",
+    "desc": "Sharwanand's motocross drama 'Biker' has opened to positive word-of-mouth, with early viewers praising its touching father-son racing narrative. The film garnered a decent Rs 2.10 Cr on its first day, driven by strong Telugu occupancy. Critics highlight its adrenaline-fueled racing sequences and emotional depth, making it a compelling watch.",
+    "img": "https://static.toiimg.com/photo/msid-130012378,imgsize-127890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/biker-box-office-collection-day-1-sharwanands-motocross-drama-opens-strong-film-crosses-rs-2-crore-net/articleshow/130012378.cms",
+    "time": "2026-04-04T03:19:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zach Bryan ‘forced’ to cancel Tulsa concert for first time",
+    "desc": "Country star Zach Bryan faced an unprecedented concert cancellation in Tulsa due to severe weather, including 60 mph winds, hail, and lightning. Despite his reluctance and desire to perform, his team made the difficult decision for safety. This marks his first-ever headlining show cancellation in a five-year career. Fans will receive automatic refunds, and upcoming tour dates remain on schedule.",
+    "img": "https://static.toiimg.com/photo/msid-130012338,imgsize-150870.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/zach-bryan-forced-to-cancel-concert-for-first-time-i-unfortunately-dont-have-a-say/articleshow/130012322.cms",
+    "time": "2026-04-04T03:12:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma had clear plan about his fitness, form: Jayawardene",
+    "desc": "Rohit Sharma is diligently practicing with Mumbai Indians, focusing on defensive techniques and shedding 15 kgs to look younger. He's aiming to prove his international class, especially with the 2027 ODI World Cup in mind. Head coach Mahela Jayawardene highlighted Sharma's clear fitness plan and extensive skill work during the off-season, noting his positive presence and excellent hand speed.",
+    "img": "https://static.toiimg.com/photo/msid-130012280,imgsize-44046.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rohit-sharma-had-clear-plan-about-his-fitness-form-mahela-jayawardene/articleshow/130012282.cms",
+    "time": "2026-04-04T03:03:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aditya Dhar-Ranveer Singh to reunite in historical epic?",
+    "desc": "The Revenge', director Aditya Dhar is taking a well-deserved break. He's reportedly considering a grand historical epic on Chandragupta Maurya, a revival of his shelved project 'The Immortal Ashwatthama', or a sports drama for his next ambitious venture. Dhar is leaning towards reuniting with Ranveer Singh for the historical film.",
+    "img": "https://static.toiimg.com/photo/msid-130012049,imgsize-151896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditya-dhar-to-take-a-break-after-dhurandhar-the-revenge-success-to-choose-between-the-immortal-ashwatthama-reunion-with-ranveer-singh-in-chandragupta-maurya-film-and-sports-drama-for-next/articleshow/130011943.cms",
+    "time": "2026-04-04T03:03:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Atlee shares romantic maternity photoshoot with Priya Atlee",
+    "desc": "Director Atlee and his wife Priya Atlee are celebrating their second pregnancy with a heartwarming maternity photoshoot. The couple shared adorable pictures showcasing Priya's baby bump, delighting fans who praised their joyful moments. This comes after their earlier announcement featuring their son Meer, as the family eagerly awaits their new arrival.",
+    "img": "https://static.toiimg.com/photo/msid-130012229,imgsize-217366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/atlee-shares-romantic-maternity-photoshoot-with-priya-atlee-baby-bump-photos-delight-fans/articleshow/130012229.cms",
+    "time": "2026-04-04T03:01:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cultures converge as Andhra University marks its centenary",
+    "desc": "The celebrations have become a platform for international students to showcase their cultures, traditions, languages, and cuisines. The festivities highlight the university’s long-standing international relations, reaffirming its role as a hub where local heritage meets global exchange. In the lead-up to its Foundation Day on April 26, 2026, the university has been organising a series of programmes to celebrate its academic and cultural heritage.",
+    "img": "https://th-i.thgim.com/public/incoming/dbljts/article70820730.ece/alternates/LANDSCAPE_1200/VSP03_AU%20Students%202.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/cultures-converge-as-andhra-university-marks-its-centenary/article70815427.ece",
+    "time": "2026-04-04T03:00:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Central nod for grant for establishing EV chargers in Kerala",
+    "desc": "The grant has been approved by the Union Ministry of Heavy Industries on the basis of proposals filed by the Kerala State Electricity Board (KSEB), which is the State-level nodal agency for the PM E-DRIVE scheme",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/central-nod-for-grant-for-establishing-ev-chargers-in-kerala/article70819510.ece",
+    "time": "2026-04-04T02:47:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PBKS captain fined, one step away from ban",
+    "desc": "Punjab Kings captain Shreyas Iyer faces a hefty ₹24 lakh fine for a slow over-rate, marking their second such offence. The team's playing XI also incurred fines. Another breach could lead to Iyer's suspension and a ₹30 lakh penalty, adding pressure as PBKS aims for consistency with many matches remaining.",
+    "img": "https://static.toiimg.com/photo/msid-130012086,imgsize-75626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/shreyas-iyer-in-trouble-pbks-captain-fined-one-step-away-from-ban/articleshow/130012089.cms",
+    "time": "2026-04-04T02:43:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jessica Simpson talks about her next memoir",
+    "desc": "Singer and actress Jessica Simpson is set to pen another memoir, expressing her desire to share her life story honestly. This follows the success of her 2020 book, 'Open Book,' which candidly detailed her experiences, including her past marriage to Nick Lachey. Simpson, who rose to fame in 1999, is eager to connect with her audience through her writing.",
+    "img": "https://static.toiimg.com/photo/msid-130011956,imgsize-79946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jessica-simpson-admits-working-on-her-next-memoir-after-open-book/articleshow/130011956.cms",
+    "time": "2026-04-04T02:33:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "HC permits private colleges to collect fees from students under fee reimbursement scheme",
+    "desc": "Describing the order ‘as an interim measure’, the judge made it clear that the private colleges should refund the tuition fees to the respective students if the writ petitions filed by them were dismissed during the final adjudication.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/hc-permits-private-colleges-to-collect-fees-from-students-under-fee-reimbursement-scheme/article70820459.ece",
+    "time": "2026-04-04T02:20:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gaikwad matches Jadeja’s unwanted record, tops CSK’s list for wrong reasons",
+    "desc": "Chennai Super Kings face an uncharacteristic start to IPL 2026, losing their first two matches under captain Ruturaj Gaikwad. This marks the second time in their history, and the first under Dhoni's long tenure, that the franchise has begun with consecutive defeats.",
+    "img": "https://static.toiimg.com/photo/msid-130011884,imgsize-115514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ruturaj-gaikwad-matches-ravindra-jadejas-unwanted-record-tops-csks-list-for-wrong-reasons/articleshow/130011663.cms",
+    "time": "2026-04-04T02:20:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Happy Raj' BO day 8: Film adds Rs 30 lakhs",
+    "desc": "GV Prakash Kumar's 'Happy Raj' is struggling at the box office, with its eighth-day collections reaching only Rs 30 lakhs in Tamil net. The film's overall India net stands at Rs 5.17 crore and worldwide gross at Rs 5.92 crore.",
+    "img": "https://static.toiimg.com/photo/msid-130011868,imgsize-108732.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/happy-raj-box-office-collections-day-8-gv-prakash-romantic-entertainer-shows-slow-signs-tamil-net-adds-rs-30-lakhs/articleshow/130011868.cms",
+    "time": "2026-04-04T02:17:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Anxiety among minorities': Shashi Tharoor questions FCRA Ammendment Bill",
+    "desc": "Congress MP Shashi Tharoor expressed skepticism regarding reports of the Centre withdrawing the FCRA Amendment Bill, warning of its potential reintroduction. He stated the opposition will remain vigilant to prevent amendments causing anxiety among religious minorities. Opposition MPs had previously protested the bill, citing concerns for NGOs and minority groups",
+    "img": "https://static.toiimg.com/photo/msid-130011872,imgsize-75690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/anxiety-among-minorities-shashi-tharoor-questions-fcra-ammendment-bill/articleshow/130011839.cms",
+    "time": "2026-04-04T02:08:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dakota Mortensen is ‘edited out’ of ‘Vanderpump Villa’",
+    "desc": "Dakota Mortensen will no longer appear in the upcoming season of 'Vanderpump Villa', following an active domestic violence investigation concerning his ex, Taylor Frankie Paul. The show's producers stated that cutting his storyline will not disrupt the continuity of the narrative.",
+    "img": "https://static.toiimg.com/photo/msid-130011763,imgsize-77020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/dakota-mortensen-edited-out-of-vanderpump-villa-following-domestic-assault-investigation/articleshow/130011763.cms",
+    "time": "2026-04-04T02:06:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Charlie Day recalls awkward shoot with Jennifer Aniston",
+    "desc": "Charlie Day recounts an 'awkward' first day on the set of 'Horrible Bosses,' where he had to strip for Jennifer Aniston for a compromising photo scene. He confessed to feeling \"less attractive\" during the immediate nudity, before any rapport was built with his co-star. The scene was part of his character's harassment by Aniston's dentist role.",
+    "img": "https://static.toiimg.com/photo/msid-130011808,imgsize-104310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/charlie-day-never-felt-less-attractive-while-filming-a-daring-sequence-with-jennifer-aniston-on-horrible-bosses-set/articleshow/130011767.cms",
+    "time": "2026-04-04T02:05:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Peaky Blinders’ sequel first look shared",
+    "desc": "Step into the gritty world of post-war Birmingham as 'Peaky Blinders' enters a compelling sequel set in the transformative 1950s. With Jamie Bell leading the charge as Duke Shelby, son of the infamous Tom Shelby, audiences will witness the harsh realities and relentless ambition that accompany the city’s reconstruction.",
+    "img": "https://static.toiimg.com/photo/msid-130011765,imgsize-59166.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/peaky-blinders-sequel-first-look-unveiled-heres-all-you-need-to-know-about-jamie-bells-new-project/articleshow/130011765.cms",
+    "time": "2026-04-04T02:04:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Up to 75 women expected to benefit from Bank of America settlement in Epstein sex abuse, say lawyers",
+    "desc": "Lawyers for women abused by Epstein had sued the bank, saying it ignored suspicious financial transactions involving Epstein that occurred while he was abusing girls and women from June 2008 to his arrest in early July 2019 on federal sex trafficking charges.",
+    "img": "https://th-i.thgim.com/public/incoming/nkqixp/article70822221.ece/alternates/LANDSCAPE_1200/2026-03-27T160831Z_884847769_RC23DKA0AAIE_RTRMADP_3_PEOPLE-JEFFREY-EPSTEIN-BOFAML.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/up-to-75-women-expected-to-benefit-from-bank-of-america-settlement-in-epstein-sex-abuse-says-lawyers/article70822218.ece",
+    "time": "2026-04-04T01:58:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ruturaj Gaikwad ‘threatened’ by Sanju Samson at CSK? Ex-captain’s big claim",
+    "desc": "Michael Vaughan and Simon Doull question Chennai Super Kings' captaincy dynamics, suggesting Ruturaj Gaikwad might feel threatened by new signing Sanju Samson's leadership credentials. Despite Samson's underwhelming start, his past success as captain at Rajasthan Royals looms large. This discussion follows CSK's second consecutive defeat, highlighting evolving leadership concerns within the team.",
+    "img": "https://static.toiimg.com/photo/msid-130011707,imgsize-176568.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ruturaj-gaikwad-threatened-by-sanju-samson-at-csk-ex-captains-big-claim/articleshow/130011717.cms",
+    "time": "2026-04-04T01:53:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Viggo Mortensen REPLACED as Aragorn in 'LOTR'",
+    "desc": "The Hunt for Gollum,' confirmed Aragorn's role is being recast, though he didn't name a replacement. The film, set between 'The Hobbit' and the original trilogy, will explore a physical and psychological hunt for Gollum.",
+    "img": "https://static.toiimg.com/photo/msid-130011442,imgsize-110740.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lord-of-the-rings-the-hunt-for-gollum-viggo-mortensens-aragorn-to-be-recast-andy-serkis-confirms-leo-woodall-front-runner-for-role/articleshow/130011413.cms",
+    "time": "2026-04-04T01:33:52.000Z"
   },
   {
     "cat": "Politics",
@@ -127,51 +370,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Central nod for grant for establishing EV chargers in Kerala",
-    "desc": "The grant has been approved by the Union Ministry of Heavy Industries on the basis of proposals filed by the Kerala State Electricity Board (KSEB), which is the State-level nodal agency for the PM E-DRIVE scheme",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/central-nod-for-grant-for-establishing-ev-chargers-in-kerala/article70819510.ece",
-    "time": "2026-04-04T00:34:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana': Ranbir Kapoor confirms DOUBLE ROLE",
-    "desc": "Ranbir Kapoor will portray Lord Ram and Lord Parshuram in Nitesh Tiwari's 'Ramayana', confirming a double role. Kapoor shared his approach to differentiating the divine characters, emphasizing spirituality and emotional depth. He acknowledged the immense responsibility of embodying such revered figures, stating his portrayal stems from his personal faith and beliefs as an Indian actor.",
-    "img": "https://static.toiimg.com/photo/msid-130011316,imgsize-134932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-confirms-double-role-in-ramayana-to-get-the-opportunity-to-play-lord-ram-and-lord-parshuram-was-fantastic/articleshow/130011246.cms",
-    "time": "2026-04-04T00:34:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All about Aindrita Ray’s home",
-    "desc": "In the heart of Bangalore's prestigious Ideal Homes neighborhood, actress Aindrita Ray has created a serene sanctuary filled with light and warmth. Her home shines with spacious rooms, highlighted by a captivating beige brick accent wall in the living room, complemented by a verdant balcony overflowing with lush greenery.",
-    "img": "https://static.toiimg.com/photo/msid-130011365,imgsize-62272.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/a-look-into-kannada-star-aindrita-rays-home-in-bangalore-a-haven-where-simplicity-style-and-comfort-co-exist/articleshow/130011365.cms",
-    "time": "2026-04-04T00:34:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ustaad Bhagat Singh' BO day 16: Film mints Rs 12 lakhs",
-    "desc": "Pawan Kalyan's 'Ustaad Bhagat Singh' is experiencing a significant box office slowdown, with collections dropping sharply to Rs 12 lakhs on its 16th day. Despite a strong opening, the film's India net collections stand at Rs 71.53 Cr. Critics note a familiar commercial template with hero elevation overshadowing narrative freshness, leading to a decline in audience interest.",
-    "img": "https://static.toiimg.com/photo/msid-130011346,imgsize-73934.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ustaad-bhagat-singh-box-office-collections-day-16-pawan-kalyan-film-sees-sharp-dip-mints-rs-12-lakhs/articleshow/130011346.cms",
-    "time": "2026-04-04T00:27:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Leader' BO day 1: Saravanan's film opens to decent start",
-    "desc": "Legend Saravanan's new action film 'Leader' has debuted with a decent box office opening, collecting Rs 75 lakhs on its first day. Despite facing initial trolling with his previous film, Saravanan aims to establish himself as a commercial hero. Early reviews highlight an engaging screenplay and mass entertainer elements, with the second half particularly praised for its action sequences.",
-    "img": "https://static.toiimg.com/photo/msid-130011281,imgsize-107588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/leader-box-office-collections-day-1-legend-saravanans-film-opens-to-decent-start-collects-rs-75-lakhs-india-net/articleshow/130011281.cms",
-    "time": "2026-04-04T00:06:35.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "India’s third home-grown N-sub commissioned; Rajnath also launches stealth frigate, large cavitation tunnel facility at Vizag",
     "desc": "India's naval strength significantly bolstered with the commissioning of INS Aridhaman, its third indigenous nuclear-powered ballistic missile submarine, enhancing its second-strike capability. The vessel boasts advanced stealth and increased missile capacity. Additionally, the stealth frigate INS Taragiri was inducted, alongside the foundation stone laid for a crucial naval research facility, underscoring India's growing maritime prowess and self-reliance.",
     "img": "https://static.toiimg.com/photo/msid-130011274,imgsize-78398.cms",
@@ -187,24 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/hal-imposes-contractual-penalties-on-ge-for-tejas-engine-delivery-delay-psu-chief-says-russia-made-presentation-on-su-57-jet/articleshow/130011208.cms",
     "time": "2026-04-03T23:57:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shiloh's spitting resemblance to mom Angelina goes VIRAL",
-    "desc": "Shiloh Jolie has made her K-Pop music video debut in a teaser for Dayoung's 'What’s A Girl To Do'. The 19-year-old's striking resemblance to her mother, Angelina Jolie, has gone viral online, with fans noting the strong 'like mother, like daughter' connection. Shiloh reportedly secured the role through an open audition, with her famous parentage only revealed after filming.",
-    "img": "https://static.toiimg.com/photo/msid-130011213,imgsize-124274.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/shiloh-jolies-spitting-resemblance-to-mom-angelina-jolie-goes-viral-as-she-debuts-in-k-pop-singer-dayoungs-whats-a-girl-to-do-music-video-watch/articleshow/130011183.cms",
-    "time": "2026-04-03T23:33:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rana HAILS 'Dhurandhar 2' for beating 'Baahubali 2' record",
-    "desc": "The Revenge' has shattered box office records, surpassing 'Baahubali 2' in North America. Actor Rana Daggubati celebrated the milestone, emphasizing the growing global appeal of local Indian stories. The film's massive success highlights a new era for Indian cinema, with potential to become the highest-grossing Indian film ever.",
-    "img": "https://static.toiimg.com/photo/msid-130011175,imgsize-246574.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rana-daggubati-reacts-to-dhurandhar-the-revenge-breaking-baahubali-2-the-conclusion-box-office-record-its-a-decade-later-but-/articleshow/130011093.cms",
-    "time": "2026-04-03T22:51:55.000Z"
   },
   {
     "cat": "Politics",
@@ -243,15 +423,6 @@ const newsData_en = [
     "time": "2026-04-03T22:06:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Blake Lively-Justin Baldoni ready to settle lawsuit?",
-    "desc": "Blake Lively and Justin Baldoni's legal teams are heading for settlement talks after a judge dismissed most sexual harassment claims against them. While some claims remain, including retaliation and breach of contract, a civil trial is set for May 18. Baldoni's lawyers celebrated the win, asserting their client's innocence, while Lively's team maintains her core allegations are still vital.",
-    "img": "https://static.toiimg.com/photo/msid-130009433,imgsize-128050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-and-justin-baldoni-ready-to-settle-lawsuit-lawyers-summoned-for-settlement-talks-after-sexual-harassment-claims-dismissed/articleshow/130009242.cms",
-    "time": "2026-04-03T22:02:52.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "All India Imam Organisation chief Umer Ahmed Ilyasi",
     "desc": "“Standing in Kashmir, I want to convey to our neighbouring country that POK, an integral part of India, will witness ‘ghar wapsi’ and rejoin India. People of POK want to have a referendum there after witnessing the current development pace in Kashmir,” says Mr. Ilyasi",
@@ -288,15 +459,6 @@ const newsData_en = [
     "time": "2026-04-03T21:12:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Namit Malhotra expects Rs 1000 cr OTT deal for 'Ramayana'",
-    "desc": "Nitesh Tiwari's ambitious 'Ramayana,' starring Ranbir Kapoor, is slated for a two-part Diwali release in 2026 and 2027. Producer Namit Malhotra is reportedly seeking a Rs 1,000 crore OTT deal for both installments, having recently rejected a Rs 700 crore offer. The film boasts an ensemble cast and music by Hans Zimmer and A.R. Rahman.",
-    "img": "https://static.toiimg.com/photo/msid-130009211,imgsize-25418.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/namit-malhotra-rejects-rs-700-crore-ott-offer-for-ranbir-kapoors-ramayana-expects-rs-1000-crore-may-follow-dhurandhar-strategy-report/articleshow/130009204.cms",
-    "time": "2026-04-03T21:09:22.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Pakistan jibes become central to BJP’s Assam poll narrative",
     "desc": "Chief Minister Himanta Biswa Sarma has been attacking Congress leader Gaurav Gogoi over his alleged Pakistan connections, his latest barb was aimed at the mother of a candidate whom he accused of sympathising with ‘anti-national’ elements",
@@ -304,15 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/assam-assembly/in-bjps-assam-poll-narrative-pakistan-is-the-protagonist-anti-national-a-leitmotif/article70817060.ece",
     "time": "2026-04-03T20:51:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Raha asked 'Did you shoot with Hanuman?'",
-    "desc": "Ranbir Kapoor, portraying Lord Ram in Nitesh Tiwari's 'Ramayana', shared his profound connection to the role, especially after becoming a father. He revealed his daughter Raha's curiosity about the epic, highlighting its deep roots in Indian culture. Initially hesitant, Ranbir embraced the opportunity, seeing it as a life-changing coincidence with his own fatherhood journey.",
-    "img": "https://static.toiimg.com/photo/msid-130009167,imgsize-40206.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-told-ramayana-stories-to-raha-after-shoot-she-would-ask-him-did-you-shoot-with-hanuman-today/articleshow/130009146.cms",
-    "time": "2026-04-03T20:44:33.000Z"
   },
   {
     "cat": "Sports",
@@ -340,15 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/ashley-westwood-interview-kerala-blasters-isl-bengaluru-fc-career/article70821225.ece",
     "time": "2026-04-03T19:56:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arshad Pappu decodes how Dawood's character was portrayed in Dhurandhar 2",
-    "desc": "Actor Ashwin Dhar, who plays Arshad Pappu in 'Dhurandhar 2', praised director Aditya Dhar's realistic portrayal of characters, including Dawood Ibrahim. Dhar emphasised that while the film blends reality with fiction, the narrative's strength lies in its grounded presentation of characters, showcasing their vulnerability. This approach makes the fictionalised storyline compelling.",
-    "img": "https://static.toiimg.com/photo/msid-130009084,imgsize-36924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ashwin-dhar-aka-arshad-pappu-in-dhurandhar-2-decodes-how-dawood-ibrahims-character-was-portrayed-by-aditya-dhar/articleshow/130009079.cms",
-    "time": "2026-04-03T19:56:00.000Z"
   },
   {
     "cat": "Sports",
@@ -432,33 +576,6 @@ const newsData_en = [
     "time": "2026-04-03T18:23:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "When an unknown 29-year-old took on K. Kamaraj in 1962",
-    "desc": "Sixty-four years ago, P. Ramamoorthy, now 92, volunteered to fight against the then all-powerful Chief Minister of Tamil Nadu in Sattur, though he had nothing personal against him. The election did not generate any surprise. Kamaraj won hands down",
-    "img": "https://th-i.thgim.com/public/incoming/qhj4vk/article70821012.ece/alternates/LANDSCAPE_1200/P.%20Ramamoorthy%20Swatantra%20Party-03.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/when-an-unknown-29-year-old-took-on-kkamarajin-1962/article70820104.ece",
-    "time": "2026-04-03T18:21:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Decoding manifestos of parties in Kerala fray",
-    "desc": "Kerala's 2026 elections are a promise war. LDF, UDF, and NDA offer welfare, jobs, and growth. Welfare is now a baseline. Parties compete on scale and delivery. Voters seek sustainability and governance. Promises target all sections. Implementation is the real test amid fiscal challenges. This election is a referendum on competing models.",
-    "img": "https://static.toiimg.com/photo/msid-130007394,imgsize-1793367.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-battle-of-promises-and-bigger-promises-decoding-manifestos-of-parties-in-kerala-fray/articleshow/130004531.cms",
-    "time": "2026-04-03T18:04:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Abhishek Bachchan says marriage with Aishwarya is based on partnership",
-    "desc": "Abhishek Bachchan revealed that friendship has always been the foundation of his marriage to Aishwarya Rai Bachchan. He emphasized that their relationship is built on partnership and equality, stemming from his upbringing and his own career achievements. Abhishek highlighted that he never felt the need to dominate or have his partner yield for him to succeed.",
-    "img": "https://static.toiimg.com/photo/msid-130006796,imgsize-31318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-says-marriage-with-aishwarya-rai-bachchan-is-based-on-equality-and-partnership-through-our-courtship-engagement-/articleshow/130006712.cms",
-    "time": "2026-04-03T17:41:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Pakistan to repay $2 billion loan to UAE amid Middle East tensions",
     "desc": "Pakistan is set to repay a $2 billion loan to the UAE by month's end, a request reportedly linked to the Middle East's recent geopolitical shifts. The funds, held by the State Bank of Pakistan, were initially for balance of payment support. While Pakistan can meet this repayment, it may require further external financing for upcoming fiscal needs.",
@@ -477,15 +594,6 @@ const newsData_en = [
     "time": "2026-04-03T17:25:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rajpal clarifies he's never been out of work amidst Rs 9 cr debt case",
-    "desc": "Actor Rajpal Yadav, recently granted bail in a cheque bounce case, clarified he hasn't faced professional struggles. Speaking with Farah Khan, he revealed a prolific career, having starred in approximately 50 films each with Ram Gopal Varma, Priyadarshan, and David Dhawan, and over 200 films since 2000, emphasizing his consistent work.",
-    "img": "https://static.toiimg.com/photo/msid-130005546,imgsize-61384.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-clarifies-hes-never-been-out-of-work-in-the-industry-amidst-rs-9-crore-debt-case-salman-khan-akshay-kumar-cant-do-without-me/articleshow/130005500.cms",
-    "time": "2026-04-03T16:47:03.000Z"
-  },
-  {
     "cat": "World",
     "title": "One crew member rescued from downed U.S. fighter jet over Iran: U.S. media reports",
     "desc": "Unidentified sources quoted by U.S. media reported that one of the two crew on the plane had already been rescued by U.S. special forces but that the search was ongoing for the second crew member.",
@@ -493,24 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-fighter-jet-shot-down-over-iran-tehran-urges-civilians-to-hunt-for-crew/article70820656.ece",
     "time": "2026-04-03T16:28:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "5.9 magnitude earthquake hits Afghanistan's Hindu Kush region, tremors felt in north India",
-    "desc": "A 5.9 magnitude earthquake originating in Afghanistan's Jurm jolted Delhi-NCR and northern India on Friday evening. Residents across Jammu and Kashmir, Delhi, and surrounding areas felt the tremors and evacuated their homes. Fortunately, no injuries or property damage have been reported thus far in this developing situation.",
-    "img": "https://static.toiimg.com/photo/msid-130005176,imgsize-829661.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/earthquake-tremors-felt-across-delhi-ncr-and-north-india-report/articleshow/130005180.cms",
-    "time": "2026-04-03T16:26:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir opens up on Sai Pallavi as Sita, Yash as Raavan",
-    "desc": "Ranbir Kapoor praised Sai Pallavi as Sita and Yash as Ravana for Nitesh Tiwari's \"Ramayana.\" Kapoor highlighted Sai Pallavi's talent and Yash's commanding screen presence, noting his unique interpretation of the villain. The film, shot in IMAX, is a two-part event with the first part releasing in Diwali 2026.",
-    "img": "https://static.toiimg.com/photo/msid-130004843,imgsize-51818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-nobody-was-better-suited-for-sita-than-sai-pallavi-yash-comes-with-stardom-and-for-raavan-you-need-that-screen-presence/articleshow/130004842.cms",
-    "time": "2026-04-03T16:00:41.000Z"
   },
   {
     "cat": "Sports",
@@ -522,15 +612,6 @@ const newsData_en = [
     "time": "2026-04-03T15:41:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'An actor from south, two from Bollywood gave weird logic, refused Akshaye's role'",
-    "desc": "The Revenge,\" noting that several actors declined the role of antagonist Rehmaan Dakait, eventually played by Akshaye Khanna. The film, which has surpassed ₹1500 crore globally, saw Ranveer Singh as the immediate choice for the lead, while over 1000 auditions were held for Sara Arjun's role.",
-    "img": "https://static.toiimg.com/photo/msid-130003427,imgsize-37642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/three-big-actors-refused-akshaye-khannas-dhurandhar-role-they-must-be-regretting-now-reveals-mukesh-chhabra-aditya-dhar-moves-on-from-negativity/articleshow/130003290.cms",
-    "time": "2026-04-03T14:37:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Chennai crowd forces Bishop to say 'sorry' during toss",
     "desc": "The IPL 2026 toss between Chennai Super Kings and Punjab Kings was disrupted by a roaring Chepauk crowd, forcing Ian Bishop to apologise for the delays. Shreyas Iyer chose to bowl first. Ruturaj Gaikwad explained CSK’s opening strategy and pitch conditions as they aim to recover from a poor start.",
@@ -538,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-chennai-crowd-forces-ian-bishop-to-say-sorry-during-csk-vs-pbks-toss-watch/articleshow/130002885.cms",
     "time": "2026-04-03T14:27:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Abhishek Bachchan on not being insecure of Aishwarya Rai's success",
-    "desc": "Abhishek Bachchan revealed his upbringing instilled a strong sense of partnership, explaining why he never felt insecure about Aishwarya Rai's stardom. He emphasized equality in relationships, stemming from his parents' dynamic. Their bond, built on friendship, naturally evolved into a marriage of mutual respect and shared responsibilities, not traditional roles.",
-    "img": "https://static.toiimg.com/photo/msid-130002271,imgsize-25154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-on-not-being-insecure-of-aishwarya-rais-success-says-jaya-bachchan-was-a-bigger-star-than-amitabh-bachchan-when-they-got-married/articleshow/130002083.cms",
-    "time": "2026-04-03T13:37:56.000Z"
   },
   {
     "cat": "World",
@@ -630,24 +702,6 @@ const newsData_en = [
     "time": "2026-04-03T09:56:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘I was talking to the President’: Tiger Woods heard in DUI arrest video",
-    "desc": "Golf legend Tiger Woods, arrested on DUI charges after a car crash, was heard mentioning a conversation with the president. Bodycam footage shows him disoriented, admitting he was distracted by his phone. Woods, who denied alcohol consumption, was found with prescription painkillers and refused a urine test, citing past injuries.",
-    "img": "https://static.toiimg.com/photo/msid-129997805,imgsize-119510.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/golf/top-stories/i-was-talking-to-the-president-tiger-woods-dui-arrest-video-shocks-fans/articleshow/129997818.cms",
-    "time": "2026-04-03T09:07:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘True player’: PM Modi hails Sanju Samson’s T20 World Cup heroics",
-    "desc": "Prime Minister Narendra Modi lauded Sanju Samson's stellar performance in India's T20 World Cup 2026 victory, citing his match-winning impact and composure under pressure. Modi highlighted Samson's escalating focus and intensity during crucial knockout stages as exemplary. Samson's exceptional batting, including a record-breaking run tally, was instrumental in India's historic title defense on home soil.",
-    "img": "https://static.toiimg.com/photo/msid-129997565,imgsize-70866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/true-player-pm-modi-hails-sanju-samsons-t20-world-cup-heroics/articleshow/129997504.cms",
-    "time": "2026-04-03T08:47:51.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Broke? 5 homesteading hacks that are slashing family expenses overnight",
     "desc": "Families are embracing homesteading to save money and become more self-sufficient. Growing vegetables, raising chickens and making DIY products are popular. These skills offer immediate savings and protection against rising costs. Expert highlights how quality materials enhance these practices. Simple changes lead to significant financial benefits over time, building confidence and expanding into new areas.",
@@ -682,15 +736,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/oil-lng-supplies-top-russian-official-manturov-signals-fuel-support-for-india-during-middle-east-crisis/articleshow/129996442.cms",
     "time": "2026-04-03T08:01:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yuvraj on SRH’s Abhishek captaincy snub: ‘Now with what frame of mind will he play’?",
-    "desc": "Former India cricketer Yuvraj Singh, Abhishek Sharma's mentor, has stated that it is disappointing for any player who has given his ‘heart and soul’ to the franchise ‘ for years’ to have missed out on leading the side. SRH had announced Ishan Kishan as the stand-in skipper for IPL 2026, snubbing Abhishek and the decision had not gone down well with a section of the fans and even some cricket experts.",
-    "img": "https://static.toiimg.com/photo/msid-129996523,imgsize-182448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/yuvraj-singh-on-srhs-abhishek-sharma-captaincy-snub-now-with-what-frame-of-mind-will-he-play/articleshow/129996523.cms",
-    "time": "2026-04-03T07:40:54.000Z"
   },
   {
     "cat": "Tech",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/russia-fired-record-number-of-drones-in-march-ukraine-air-force-data/article70817138.ece",
     "time": "2026-04-02T17:06:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Breaking down benefits for individuals",
-    "desc": "As per the Income Tax Act 2025, which comes into effect from April 1, 2026, Forms 15G and 15H merged into a single unified Form 121; Form 26AS renamed as Form 168 and much more...",
-    "img": "https://th-i.thgim.com/public/incoming/gto38j/article70806851.ece/alternates/LANDSCAPE_1200/iStock-650700180.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/new-income-tax-act-2025-breaking-down-benefits-for-individuals/article70805979.ece",
-    "time": "2026-04-02T12:28:36.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Every ride has a price",
-    "desc": "The first internal combustion-powered cabs in London with taximeters are believed to have begun their operations on March 22, 1907. In a world where ride-hailing services with app-based GPS are on the rise, taximeters still remain in vogue in traditional taxis and autorickshaws. A.S.Ganesh takes you on a ride to learn more about these instruments…",
-    "img": "https://th-i.thgim.com/public/incoming/59upcz/article70730774.ece/alternates/LANDSCAPE_1200/19SM_Taxi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/every-ride-has-a-price/article70730816.ece",
-    "time": "2026-04-02T09:09:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Government exempts Customs Duty for 40 petrochemical products amid West Asia crisis",
-    "desc": "“This measure has been taken as a temporary and targeted relief in order to ensure continued availability of critical petrochemical inputs for domestic industry, reduce cost pressures on downstream sectors, and safeguard supply stability in the country,” said an official press statement.",
-    "img": "https://th-i.thgim.com/public/incoming/p97aq3/article70814214.ece/alternates/LANDSCAPE_1200/iStock-2163906811.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/government-exempts-critical-petrochemical-products-from-customs-duty-amid-west-asia-crisis/article70814192.ece",
-    "time": "2026-04-02T07:47:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former England bowler Anderson 'hated every minute' of The Hundred",
-    "desc": "The 43-year-old, who retired from international ⁠cricket in 2024, was selected with a wildcard pick by the Manchester Originals in the 2025 season of the 100-ball ‌format but took only two wickets in three games.",
-    "img": "https://th-i.thgim.com/public/incoming/3vou7a/article70814594.ece/alternates/LANDSCAPE_1200/2026-04-02T064252Z_1996481862_RC2ZQGA4A62V_RTRMADP_3_CRICKET-ENGLAND-ANDERSON.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/former-england-bowler-anderson-hated-every-minute-of-the-hundred/article70814589.ece",
-    "time": "2026-04-02T07:06:24.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Australia PM says Iran war objectives met, 'not clear' what more to achieve",
-    "desc": "We have an interest in the Strait of Hormuz being open. It is a function of when conditions allow any of these steps to take place. And those conditions don't exist right now, says Defence Minister Richard Marles",
-    "img": "https://th-i.thgim.com/public/incoming/eq7iz7/article70814359.ece/alternates/LANDSCAPE_1200/2026-04-01T084813Z_1511593256_RC28GKA0HHVR_RTRMADP_3_IRAN-CRISIS-AUSTRALIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/australia-pm-says-iran-war-objectives-met-not-clear-what-more-to-achieve/article70814341.ece",
-    "time": "2026-04-02T05:33:27.000Z"
   }
 ];

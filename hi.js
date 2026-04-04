@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will weather in Delhi fare for IPL 2026 game 8?",
+    "desc": "The stage is set for game 8 of the ongoing IPL (Indian Premier League) 2026. The clash will see Delhi Capitals taking on Mumbai Indians at the Arun Jaitley Stadium in Delhi on April 4....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-mi-weather-report-how-will-weather-in-delhi-fare-for-ipl-2026-game-8-2026-04-04-1036252",
+    "time": "2026-04-04T04:39:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Impress each other': Shreyas Iyer shares Punjab Kings' philosophy after stellar victory over CSK",
+    "desc": "Game 7 of the ongoing IPL (Indian Premier League) 2026 saw Punjab Kings take on Chennai Super Kings. The two sides locked horns at the MA Chidambaram Stadium in Chennai on April 3, and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/impress-each-other-shreyas-iyer-shares-punjab-kings-philosophy-after-stellar-victory-over-csk-2026-04-04-1036247",
+    "time": "2026-04-04T03:18:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "CSK lose sixth straight game at Chepauk, PBKS' Shreyas Iyer, Priyansh Arya produce dominant show in IPL 2026",
     "desc": "Punjab Kings picked up a comfortable five-wicket win against Chennai Super Kings at the MA Chidambaram Stadium. The hosts improved their batting significantly after a defeat to Rajasthan Royals to kickstart their IPL 2026 campaign,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/harry-kane-in-doubt-for-ucl-clash-against-real-madrid-ruled-out-of-bundlesliga-tie-with-freiburg-2026-04-03-1036195",
     "time": "2026-04-03T11:37:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mahela Jayawardene not worried about Mumbai Indians' trophy drought, says 'some teams haven't won it forever'",
-    "desc": "Mumbai Indians have failed to live up to expectations in the last five years. In the last decade, the Rohit Sharma-led side was one of the most consistent teams in the cash-rich tournament, winning it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mahela-jayawardene-not-worried-about-mumbai-indians-trophy-drought-says-some-teams-haven-t-won-it-forever-2026-04-03-1036189",
-    "time": "2026-04-03T11:11:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nitish Reddy shuts down critics about SRH's bowling after commanding win over KKR at Eden Gardens",
-    "desc": "Sunrisers Hyderabad picked up a comfortable 65-run win over Kolkata Knight Riders at the iconic Eden Gardens in the ongoing IPL 2026. Leading up to the tournament, SRH were considered to have one of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nitish-reddy-shuts-down-critics-about-srh-s-bowling-after-commanding-win-over-kkr-at-eden-gardens-2026-04-03-1036182",
-    "time": "2026-04-03T10:34:57.000Z"
   }
 ];
