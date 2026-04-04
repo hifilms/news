@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "চাকরি হারাতে চলেছে ২০ লক্ষ সরকারি শিক্ষক: গণ-ছাঁটাইয়ের আশঙ্কায় দেশ জুড়ে আন্দোলনের আগুন",
+    "desc": "ভারতের প্রাথমিক ও উচ্চ-প্রাথমিক শিক্ষা স্তরে কর্মরত লক্ষ লক্ষ শিক্ষকের ভবিষ্যৎ এখন এক সুতোর ওপর ঝুলে রয়েছে। কেন্দ্রীয় সরকার এবং সুপ্রিম কোর্টের কড়া অবস্থানের কারণে দেশজুড়ে প্রায় ২০ লক্ষ সরকারি ও সরকারি সাহায্যপ্রাপ্ত স্কুলের শিক্ষক তাঁদের কর্মসংস্থান হারানোর ঝুঁকিতে রয়েছেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/20-lakh-govt-teachers-job-risk-india-teacher-eligibility-test-tet-exam-supreme-court-neet-exam-right-to-education-act_647450.html ",
+    "time": "2026-04-04T14:57:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Operation Sindoor 2.0: ভারতের মক ড্রিলের পরই পাক রণহুংকার--'ওদের ঘরে ঢুকে মারব'; আবার কি যুদ্ধ লাগতে চলেছে?",
+    "desc": "আন্তর্জাতিক মহলে একঘরে হয়ে পড়া পাকিস্তান এখন ‘জাতীয়তাবাদ’-এর তাস খেলে নিজেদের ব্যর্থতা ঢাকতে চাইছে। তবে ভারতের ‘জিরো টলারেন্স’ নীতি এবং শক্তিশালী সীমান্ত পাহারা স্পষ্ট করে দিয়েছে যে, অতীতের মতো আর কোনো প্ররোচনা সহ্য করা হবে না।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/pakistan-khawaja-asif-warning-india-operation-sindoor-nuclear-bluff-response_647446.html ",
+    "time": "2026-04-04T14:03:45.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘আমার অভিযোগ গুরুত্ব দিলে রাহুলদাকে হয়তো হারাতাম না’, আর্টিস্ট ফোরামের বিরুদ্ধে বিস্ফোরক জীতু",
     "desc": "“ফোরাম আমাকে কাঁচকলা দেখিয়েছে!” রাহুল বন্দ্যোপাধ্যায়ের মৃত্যুর পর যখন টলিউড উত্তাল, তখনই বিস্ফোরক অভিযোগ তুললেন অভিনেতা জীতু কমল। তাঁর দাবি, ঝড়ের মধ্যে শুটিং করতে অস্বীকার করায় তাঁকে হেনস্থা করা হয়েছিল, মেইল করেও ফোরামের সাড়া পাননি তিনি। শিল্পী সংগঠনের এই ‘উদাসীনতা’ কি তবে এক প্রতিভাবান অভিনেতার প্রাণ কেড়ে নিল? বড় প্রশ্ন তুললেন জীতু।",
@@ -187,23 +205,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/2000-km-long-wall-of-dust-blowing-through-sahara-desert-satellite-captures-dust-storms_646821.html ",
     "time": "2026-03-31T13:26:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'এটাই হয়তো আমার শেষ ছবি', ICU-র ডাবিংয়ে বলেছিলেন, মৃত্যু টের পেয়েছিলেন রাহুল?",
-    "desc": "পরিচালক সৌভিক দের পরিচালনায় এবং মনোরঞ্জন জানার প্রযোজনায় তৈরি ছবি ‘ICU’-তে মুখ্য ভূমিকায় দেখা যাবে রাহুলকে। এই ছবির শ্যুটিং ও ডাবিং শেষ করেই দীঘায় শ্যুট করতে গিয়েছিলেন অভিনেতা। রাহুলের এই মৃত্যুর খবরে ভেঙে পড়েছেন পরিচালক সৌভিক দে। পরিচালক জানান, “বিশ্বাস করা কঠিন। কিছুদিন আগেই একসঙ্গে কাজ করেছি, হাসি-ঠাট্টা করেছি। সেটে ওঁর উপস্থিতি একটা আলাদা এনার্জি নিয়ে আসত।”",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunoday-banerjee-last-film-icu-director-reveals-haunting-prediction_646818.html ",
-    "time": "2026-03-31T13:01:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

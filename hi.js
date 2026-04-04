@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi, Yashasvi Jaiswal set new IPL record, breaking Sehwag-Gambhir's longstanding feat",
+    "desc": "Vaibhav Sooryavanshi and Yashavi Jaiswal have set a new record for the fastest Indian pair to reach 500 partnership runs (by balls) in the IPL. The Rajasthan Royals duo accomplished the feat in just 248...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-yashasvi-jaiswal-set-new-ipl-record-breaking-sehwag-gambhir-s-longstanding-feat-2026-04-04-1036321",
+    "time": "2026-04-04T14:38:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Kumar Kushagra, GT batter who replaced Shubman Gill for IPL 2026 clash against RR?",
+    "desc": "Kumar Kushagra replaced Gujarat Titans captain Shubman Gill in the team's IPL 2026 clash against Rajasthan Royals at the Narendra Modi Stadium in Ahmedabad on Saturday, April 4. Kushagra came in as Gill missed out...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-kumar-kushagra-gt-batter-who-replaced-shubman-gill-for-ipl-2026-clash-against-rr-2026-04-04-1036318",
+    "time": "2026-04-04T14:34:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Shubman Gill not playing for GT vs RR in IPL 2026 clash in Ahmedabad?",
+    "desc": "Gujarat Titans captain Shubman Gill missed out on the high-voltage clash against Rajasthan Royals at the Narendra Modi Stadium in Ahmedabad. In his absence, Rashid Khan took over the charge and shared that the India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-shubman-gill-not-playing-for-gt-vs-rr-in-ipl-2026-clash-in-ahmedabad-2026-04-04-1036312",
+    "time": "2026-04-04T13:40:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sameer Rizvi produces another stunning knock to power DC past MI in IPL 2026 clash in Delhi",
+    "desc": "Sameer Rizvi played another brilliant knock to power Delhi Capitals to back-to-back wins in the Indian Premier League 2026. After helping DC win the tournament opener against the Lucknow Super Giants, Rizvi put up another...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sameer-rizvi-produces-another-stunning-knock-to-power-dc-past-mi-in-ipl-2026-clash-in-delhi-2026-04-04-1036311",
+    "time": "2026-04-04T13:36:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "KL Rahul's all-time IPL record comes to an end as DC star falls early against MI",
     "desc": "KL Rahul has not had the best start to the Indian Premier League 2026. The Delhi Capitals star was dismissed for a golden duck in his team's season opener against Lucknow Super Giants and has...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-leaves-srh-mid-ipl-season-heads-back-to-australia-here-s-why-2026-04-04-1036291",
     "time": "2026-04-04T10:58:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Mitchell Starc not playing in DC vs MI IPL 2026 clash at Arun Jaitley Stadium?",
-    "desc": "Mitchell Starc missed out as the Delhi Capitals host the Mumbai Indians for their second match of the Indian Premier League 2026. DC are coming into this game on the back of a win over...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-mitchell-starc-not-playing-in-dc-vs-mi-ipl-2026-clash-at-arun-jaitley-stadium-2026-04-04-1036286",
-    "time": "2026-04-04T10:19:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Trent Boult not playing for MI in clash against DC in IPL 2026?",
-    "desc": "Trent Boult was among the key players who missed out as the Mumbai Indians take on the Delhi Capitals in their second match of the Indian Premier League 2026 at the Arun Jaitley Stadium on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-trent-boult-not-playing-for-mi-in-clash-against-dc-in-ipl-2026-2026-04-04-1036285",
-    "time": "2026-04-04T10:07:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Hardik Pandya not playing for MI vs DC in IPL 2026 clash in Delhi?",
-    "desc": "The stage is set for game 8 of the ongoing IPL (Indian Premier League) 2026. Delhi Capitals are taking on Mumbai Indians at the Arun Jaitley Stadium in Delhi. Ahead of the game, there is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-for-mi-vs-dc-in-ipl-2026-clash-in-delhi-2026-04-04-1036280",
-    "time": "2026-04-04T09:37:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer found in breach of IPL Code of Conduct, reprimanded alongside entire PBKS squad",
-    "desc": "In a major development for IPL 2025 finalists Punjab Kings, the side’s skipper, Shreyas Iyer, has been found guilty of breaching the IPL Code of Conduct for the second game in a row. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-found-in-breach-of-ipl-code-of-conduct-reprimanded-alongside-entire-pbks-squad-2026-04-04-1036277",
-    "time": "2026-04-04T09:12:59.000Z"
   }
 ];

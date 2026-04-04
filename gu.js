@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "40 વર્ષની આતુરતાનો આવશે અંત: સંસદમાં મહિલા અનામત માટે PM મોદીનો માસ્ટરપ્લાન તૈયાર",
+    "desc": "વડાપ્રધાન નરેન્દ્ર મોદીએ મહિલા અનામતને વાસ્તવિકતા બનાવવા માટે એક મોટું પગલું ભર્યું છે. 16 થી 18 એપ્રિલ દરમિયાન ચાલનારા સંસદના વિશેષ સત્ર દ્વારા સરકાર માત્ર 'નારી શક્તિ વંદન અધિનિયમ'માં સુધારો જ નહીં કરે, પરંતુ દક્ષિણ ભારતીય રાજ્યોની તે આશંકાઓને પણ દૂર કરશે જેમાં લોકસભાની બેઠકો ઘટવાનો ડર વ્યક્ત કરવામાં આવી રહ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modis-masterplan-for-womens-reservation-in-parliament-is-ready-471515 ",
+    "time": "2026-04-04T15:05:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પેટ્રોલ અને એલપીજી અંગે ભારત સરકારે જાહેર કર્યું મોટું નિવેદન, ઈરાન યુદ્ધ વચ્ચે જનતાને કરી આ અપીલ, જાણો",
+    "desc": "યુદ્ધને કારણે, ભારતમાં પણ પેટ્રોલ અને LPG પુરવઠાની અછતનો સામનો કરવો પડી રહ્યો છે. આ દરમિયાન, સરકારે ફરી એકવાર દેશના નાગરિકોને પેટ્રોલ, ડીઝલ અથવા LPG પર અપીલ કરી છે. હોર્મુઝ સ્ટ્રેટ બંધ થવાને કારણે પણ દેશમાં ગેસની અછત સર્જાઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/indian-government-issued-a-big-statement-regarding-petrol-and-lpg-made-this-appeal-to-the-public-amidst-the-iran-war-know-471514 ",
+    "time": "2026-04-04T14:41:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "વધ 2, સિતારે ઝમીન પર સહિતની ફિલ્મો અને વેબ સીરીઝ ઓટીટી પર રિલીઝ, નક્કી કરી લો રવિવારે શું જોશો",
+    "desc": "રવિવારની રજામાં ઘરે બેઠા જોવા માટે તમારી પાસે ફિલ્મ અને વેબ સીરીઝના 5 ઓપ્શન છે. એપ્રિલ મહિનાના પહેલા સપ્તાહમાં ઓટીટી પર હિંદી ફિલ્મો અને વેબ સીરીઝ રિલીઝ થઈ ચુકી છે. લિસ્ટ જોઈ ફટાફટ નક્કી કરી લો તમે રજામાં શું જોવાના છો. ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/april-2026-first-week-ott-release-films-and-web-series-released-on-ott-on-3-april-471513 ",
+    "time": "2026-04-04T14:32:31.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "મોબાઈલ ખરીદનારાઓને ઝટકો! આ કંપનીઓના ફોન અચાનક થઈ ગયા મોંઘા, જાણો કિંમતોમાં કેટલો થયો વધારો",
+    "desc": "જે લોકોને નવો સ્માર્ટફોન ખરીદવાનો વિચાર હોય તેમના માટે મહત્વના સમાચાર છે, અનેક કંપનીઓએ તેમના ફોનના ભાવમાં વધારો કર્યો છે. જેની અસર ડાયરેક્ટ તેના ગ્રાહકો પર પડશે. મોબાઈલ ફોન ખરીદનારા લોકોને આટલા વધારે પૈસા આપવા પડી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/shock-to-mobile-buyers-phones-of-these-companies-suddenly-became-expensive-know-how-much-their-prices-increased-471512 ",
+    "time": "2026-04-04T14:23:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 વચ્ચે SRH ને મોટો ઝટકો: કેમ્પ છોડીને અચાનક ઘરે પરત ફર્યો કેપ્ટન, ફેન્સના ધબકારા વધ્યા",
+    "desc": "સનરાઇઝર્સ હૈદરાબાદે ઇન્ડિયન પ્રીમિયર લીગની 19મી સીઝનમાં અત્યાર સુધી માત્ર 2 મેચ રમી છે. આ બંને મેચોમાંથી ટીમે એકમાં જીત અને એકમાં હારનો સામનો કરવો પડ્યો છે. હવે SRH ને અચાનક પેટ કમિન્સના રૂપમાં એક મોટો ઝટકો લાગ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/major-blow-to-srh-amidst-ipl-2026-captain-suddenly-leaves-camp-and-returns-home-471511 ",
+    "time": "2026-04-04T14:12:01.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "8-10 લાખની કાર ફક્ત 2 લાખ રૂપિયામાં ખરીદો, આ સરકારી વેબસાઇટ તમારી કારનું સ્વપ્ન થશે સાકાર",
+    "desc": "જે લોકો ઓછી કીંમતમાં સારી કાર ખરીદવા માગતા હોય તેના માટે સરકારની આ વેબસાઈટ બેસ્ટ છે, જેના દ્વારા તે પોતાના સપનાની કાર ખરીદી શકે છે. આ વેબસાઈટ પર અલગ-અલગ કંપનીની અનેક કાર હોય છે, જેમાં તમારે નોંધણી કરાવવી પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/buy-a-car-worth-8-to-10-lakhs-for-just-2-lakhs-this-government-website-will-make-your-car-dream-come-true-471510 ",
+    "time": "2026-04-04T13:50:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રાજકુમાર રાવની કોમેડી-થ્રિલર ફિલ્મ ટોસ્ટર નેટફ્લિક્સ પર આ તારીખે થશે રિલીઝ, અત્યારે જુઓ ફિલ્મનું મજેદાર ટ્રેલર",
+    "desc": "રાજકુમાર રાવ અને સાન્યા મલ્હોત્રાની કોમેડી થ્રિલર ફિલ્મ ટોસ્ટર રિલીઝ થવાની છે. આ ફિલ્મનું મજેદાર ટ્રેલર રિલીઝ કરી દેવામાં આવ્યું છે. આ ફિલ્મની ખાસ વાત છે કે તમે ટોસ્ટર ફિલ્મ ઓટીટી પ્લેટફોર્મ નેટફ્લિક્સ પર જોઈ શકશો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/netflix-upcoming-hindi-film-toaster-trailer-released-here-is-streaming-date-471509 ",
+    "time": "2026-04-04T13:46:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "22 હજારનો પગાર શું તમને બનાવી શકે છે કરોડપતિ? જાણો 4.8 કરોડના ફંડની આખી ગણતરી",
+    "desc": "રોકાણની સફરમાં તમારે કેટલીક વાતો મનમાં ગાંઠ બાંધી લેવી જોઈએ. જેમ કે બજારના ઉતાર-ચઢાવ છતાં રોકાણ અટકાવવું જોઈએ નહીં. જો તમે શિસ્તબદ્ધ રીતે દર મહિને પૈસા લગાવો છો, તો નિવૃત્તિ (Retirement) સમયે કરોડોનું ફંડ એકઠું કરી શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/can-a-salary-of-22-thousand-make-you-a-millionaire-know-the-complete-calculation-of-4-8-crore-fund-471501 ",
+    "time": "2026-04-04T12:49:54.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "6 કલાક બેટિંગ, 350 બોલ અને માત્ર 50 રન... ટેસ્ટ ક્રિકેટના ઇતિહાસમાં સૌથી ધીમી અડધી સદી",
     "desc": "ટેસ્ટ ક્રિકેટમાં સૌથી ધીમી ઇનિંગ્સનો આ વિશ્વ રેકોર્ડ 70 વર્ષ પહેલાં સ્થાપિત થયો હતો અને ત્યારથી કોઈ પણ આ રેકોર્ડ તોડી શક્યું નથી. આનું કારણ એ છે કે આટલી ધીરજ સાથે બેટિંગ કરવી હવે શક્ય લાગતું નથી, કારણ કે ટેસ્ટ ક્રિકેટ હવે પહેલા કરતા ઘણી વધુ આક્રમક રીતે રમાય છે.",
@@ -441,15 +513,6 @@ const newsData_gu = [
     "time": "2026-04-01T17:55:19.000Z"
   },
   {
-    "cat": "Business",
-    "title": "શું ₹47,600 હશે બેઝિક પગાર? સેલેરી વધારવા પર થશે મંથન, 24 એપ્રિલે મોટી બેઠક",
-    "desc": "કેન્દ્રીય કર્મચારીઓ આતૂરતાપૂર્વક આઠમાં પગાર પંચની પ્રતીક્ષા કરી રહ્યાં છે. કેન્દ્ર સરકાર દ્વારા નિમાયેલા પગાર પંચે પોતાનું કાર્ય શરૂ કરી દીધું છે. આ પંચ હવે આગામી 24 એપ્રિલે દેહરાદૂનનો પ્રવાસ કરશે, જ્યાં સંબંધિત શેર હોલ્ડર સાથે ચર્ચા કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-seeks-inputs-from-employees-pensioners-key-dehradun-meeting-471136 ",
-    "time": "2026-04-01T15:53:39.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "E20 પેટ્રોલ સિવાય હવે કોઈ વિકલ્પ નથી, એન્જિન અને માઇલેજ પર શું પડશે અસર? જાણો દરેક વિગત",
     "desc": "પેટ્રોલ કાર કે ટૂ-વ્હીલર ચલાવો છો તો હવે તમારે E20 પેટ્રોલ ભરાવવું પડશે. ઇથેનોલ બ્લેન્ડેડ ફ્યૂલની સાથે સરકાર ગ્રીન ફ્યુલના ઉપયોગને વધારવા ઈચ્છે છે. E20 ની સૌથી મોટી ખાસિયત છે કે કે 95 RON ની નજીક હાઈ ઓક્ટેન રેટિંગ સાથે આવે છે.",
@@ -513,15 +576,6 @@ const newsData_gu = [
     "time": "2026-04-01T08:54:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કુવૈતથી આવી ‘મોતની ફ્લાઇટ’! 20 ભારતીયોના તાબૂત ઉતરતા જ કોચી એરપોર્ટ પર માતમ છવાયો",
-    "desc": "છેલ્લા કેટલાક દિવસોમાં કુવૈતમાં અલગ-અલગ સ્થિતિઓમાં મૃત્યુ પામેલા ઓછામાં ઓછા 20 ભારતીયોના પાર્થિવ દેહ મંગળવારે એક સ્પેશિયલ વિમાન દ્વારા કોચી પહોંચ્યા હતા. કુવૈત એરવેઝનું આ વિમાન રાત્રે અંદાજે 10.40 વાગ્યે કોચી ઈન્ટરનેશનલ એરપોર્ટ (CIAL) પર ઉતરાણ કર્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/aircraft-carrying-mortal-remains-of-20-indians-dead-reaches-kerala-from-kuwait-471059 ",
-    "time": "2026-04-01T08:18:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રિયા કપૂરે શેર કરી દીધી સોનમ કપૂરના નાના દીકરાની તસવીર, સોશિયલ મીડિયા પર ફોટો વાયરલ",
     "desc": "સોનમ કપૂર અને આનંદ આહુજા બીજા દીકરાના માતા-પિતા બન્યા છે. સોનમ કપૂરના દીકરાની પહેલી તસવીર તેની માસી એટલે કે રિયા કપૂરે ઈંસ્ટાગ્રામ પર શેર કરી છે. આ ફોટો સોશિયલ મીડિયા પર વાયરલ થવા લાગ્યો છે.",
@@ -565,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/is-mohammed-shami-set-to-retire-from-cricket-explosive-statement-from-cricketer-470933 ",
     "time": "2026-03-31T09:58:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 ક્રિકેટનો સૌથી ખતરનાક બેટ્સમેન... 533ની સ્ટ્રાઇક રેટથી બનાવ્યા રન, દીપેન્દ્ર સિંહ એરી પણ પાછળ",
-    "desc": "T20 ક્રિકેટમાં એક વખત એક બેટ્સમેને એવી વિનાશક ઇનિંગ રમી કે વિરોધી બોલરો દયાની ભીખ માંગતા જોવા મળ્યા હતા. T20 ક્રિકેટની એક ઇનિંગમાં 533.33ની સ્ટ્રાઇક રેટથી બેટિંગ કરવી લગભગ અશક્ય છે. જોકે, દુનિયામાં એક એવો બેટ્સમેન છે જેણે આ સિદ્ધિ હાંસલ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/seekkuge-prasanna-highest-strike-rate-in-t20-innings-470920 ",
-    "time": "2026-03-31T08:43:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -666,15 +711,6 @@ const newsData_gu = [
     "time": "2026-03-27T13:55:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "ધુરંધર 3 આવશે કે નહીં થઈ ગયું કંફર્મ, તમે પણ જાણો ધુરંધર ફિલ્મના ત્રીજા પાર્ટ અંગેનું અપડેટ",
-    "desc": "ધુરંધર અને ધુરંધર 2 બંને ફિલ્મોને પબ્લિક તરફથી જોરદાર રિસ્પોન્સ મળ્યો છે. તેવામાં ધુરંધર 3 ફિલ્મ આવશે કે નહીં આવે તે ચર્ચાએ જોર પકડ્યું છે. વાત એવી પણ છે કે જૂન મહિનામાં ફિલ્મનો 3 પાર્ટ આવશે. તો ચાલો તમને આ અંગેની હકીકત શું છે તે જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-film-part-3-related-update-adhitya-dhar-dhurandhar-film-latest-update-470238 ",
-    "time": "2026-03-27T02:09:31.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ઈન્ડક્શન vs ઈન્ફ્રારેડ સ્ટવઃ ખરીદતા પહેલા જાણી લો મોટો તફાવત, બાકી પૈસા થઈ જશે બરબાદ",
     "desc": "સૌથી પહેલા તમને જણાવી દઈએ કે ઈન્ડક્શન અને ઈન્ફ્રારેડ સ્ટવ બંને વીજળીથી ચાલે છે, પરંતુ કામ કરવાની પદ્ધતિ, સુરક્ષા અને પરફોર્મંસના મામલામાં બંનેમાં તફાવત જોવા મળે છે. જો તમે પણ નવો કુકટોપ ખરીદવાનું વિચારી રહ્યાં છો તો પહેલા બંનેના અંતરને સમજો.",
@@ -700,23 +736,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/jio-airtel-vi-news-of-which-company-offers-the-cheapest-and-best-postpaid-plan-469389 ",
     "time": "2026-03-20T10:35:10.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Reels તમને બનાવશે લાખોપતિ, ઝુકરબર્ગે લોન્ચ કર્યો નવો પ્રોગ્રામ, કન્ટેન્ટ ક્રિએટરને મોજ",
-    "desc": "જો તમારા TikTok, YouTube કે Instagram પર 1 લાખથી વધુ ફોલોઅર્સ છે તો આ સમાચાર તમારા માટે છે. હવે તમારે કમાણી કરવાનો સમય આવી ગયો છે. મેટાએ હવે ક્રિએટર્સને ફેસબુક પર લાવવા માટે મહત્વનો નિર્ણય કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/tiktok-or-youtube-good-followers-meta-offer-guaranteed-monthly-469264 ",
-    "time": "2026-03-19T10:24:52.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "શું તમે જોયું WhatsAppનું નવું રૂપ? એક અપડેટથી બદલાઈ ગયો ઇન્ટરફેસ, જાણો શું છે આ નવું ફીચર?",
-    "desc": "શું તમે નોંધ્યું છે કે WhatsAppમાં કંઈક બદલાયું છે? iPhone યુઝર્સ માટે એપનો આખો લૂક બદલાઈ રહ્યો છે. 'Settings' ની જગ્યાએ હવે નવું 'You' ટેબ આવી ગયું છે. આખરે આમાં શું ખાસ છે અને તે તમારા અનુભવને કેવી રીતે બદલશે, જાણો તેની સંપૂર્ણ વિગત",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/have-you-seen-the-new-version-of-whatsapp-the-interface-changed-with-an-update-what-is-this-feature-469207 ",
-    "time": "2026-03-19T07:03:19.000Z"
   }
 ];

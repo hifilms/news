@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "In search of an ideal investment advice during war",
+    "desc": "Finfluencers, brokerages and even mutual fund companies advice that the current market correction can be an opportunity but experts caution a straight ‘buy the dip’ may just not work in one-time events such as a war",
+    "img": "https://th-i.thgim.com/public/incoming/uwx2nr/article70824059.ece/alternates/LANDSCAPE_1200/NSE-appoints-20GNMFN54PR.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/stock-investment-advice-during-war/article70823392.ece",
+    "time": "2026-04-04T15:17:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Hard work is paying off': Sameer Rizvi after stellar 90 runs knock vs MI",
+    "desc": "Delhi Capitals batter Sameer Rizvi powered his team to a six-wicket win over Mumbai Indians. Rizvi scored a match-winning 90 off 51 balls. He attributed his success to intense self-improvement and adapting to match situations. This victory marks a significant moment for Rizvi and Delhi Capitals in IPL 2026. Rizvi currently holds the Orange Cap.",
+    "img": "https://static.toiimg.com/photo/msid-130022113,imgsize-829544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/hard-work-is-paying-off-sameer-rizvi-after-stellar-90-runs-knock-vs-mumbai-indians/articleshow/130022049.cms",
+    "time": "2026-04-04T15:03:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Suresh? Meet 21-yo Indian boxer who knocked out World No. 1",
+    "desc": "Indian boxer Vishvanath Suresh shocked world No. 1 Sanzhar Tashkenbay with a knockout at the Asian Championships, reaching the semifinals. The Chennai-born national champion has risen quickly through strong youth and senior performances. With multiple medals and sharp skills, he has emerged as a promising contender, signaling a bright future for Indian boxing on the global stage.",
+    "img": "https://static.toiimg.com/photo/msid-130021923,imgsize-29056.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/boxing/who-is-vishvanath-suresh-meet-21-year-old-indian-boxer-who-knocked-out-world-no-1-sanzhar-tashkenbay/articleshow/130021853.cms",
+    "time": "2026-04-04T14:50:17.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "For Trump, the cost of Iran war is rising",
+    "desc": "At least six KC-135s were damaged in two Iranian missile and drone attacks at the Prince Sultan Air Base in Saudi Arabia; The U.S. has also lost at least 12 MQ-9 Reaper drones since the war began, according to some reports",
+    "img": "https://th-i.thgim.com/public/incoming/41qr70/article70823861.ece/alternates/LANDSCAPE_1200/AP04_02_2026_000005A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/cost-of-iran-war-rising-donald-trump-us/article70823412.ece",
+    "time": "2026-04-04T14:48:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Abhishek admits feeling ‘terrified’ on red carpet with Aishwarya",
+    "desc": "Whenever Aishwarya Rai Bachchan steps onto the red carpet, all eyes are inevitably on her. And if you ask Abhishek Bachchan, walking alongside her only adds to the pressure. In a recent conversation, Abhishek didn’t hold back while describing his discomfort at high-profile appearances. The actor also recalled a moment when his nervousness translated into an unintended serious expression, leaving photographers confused.",
+    "img": "https://static.toiimg.com/photo/msid-130021840,imgsize-114920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-admits-feeling-terrified-on-red-carpet-with-aishwarya-rai-bachchan-im-like-a-block-of-wood-very-awkward/articleshow/130021840.cms",
+    "time": "2026-04-04T14:46:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sooryavanshi, Jaiswal script IPL history, become fastest Indian pair to...",
+    "desc": "Yashasvi Jaiswal and Vaibhav Sooryavanshi became the fastest Indian pair to 500 IPL partnership runs, reaching the mark in just 248 balls and breaking Sehwag-Gambhir’s record. Rajasthan Royals, batting first after winning the toss, looked strong. Gujarat Titans, led by Rashid Khan in Shubman Gill’s absence, faced added pressure against the in-form opening duo.",
+    "img": "https://static.toiimg.com/photo/msid-130021571,imgsize-83392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/vaibhav-sooryavanshi-yashasvi-jaiswal-script-ipl-history-become-fastest-indian-pair-to-/articleshow/130021307.cms",
+    "time": "2026-04-04T14:25:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Locals attack police, snatch their arms after a man dies in custody in Bihar’s Katihar",
+    "desc": "Police claim that the youth tried to end his life by hanging himself in the cell but died on the way to the hospital; victim’s family claims he was arrested a day earlier than claimed and tortured",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/locals-attack-police-snatch-their-arms-after-a-man-dies-in-custody-in-bihars-katihar/article70823471.ece",
+    "time": "2026-04-04T14:18:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil-speaking electorate holds key to Devikulam constituency",
+    "desc": "The Devikulam constituency will feature a notable “battle of Rajas,” with candidates F. Raja from the UDF, A. Raja from the LDF, and S. Rajendran of the NDA. Rajendran’s shift to the BJP could disrupt traditional voting patterns, while local residents express concerns over unresolved issues like housing and healthcare.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-tamil-speaking-electorate-holds-key-to-devikulam-constituency/article70823468.ece",
+    "time": "2026-04-04T14:16:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Close contest between three-time MLA and new face with family legacy",
+    "desc": "Among the key issues before the people is the long-pending demand of increased compensation for those who lost land to the Upper Krishna Project; another issue is the plan to expand the irrigated area for the implementation of Phase 3 of the project",
+    "img": "https://th-i.thgim.com/public/incoming/s15pbf/article70823769.ece/alternates/LANDSCAPE_1200/Meti-family-senG5IFOPEFN.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/close-contest-between-three-time-mla-and-new-face-with-family-legacy/article70819726.ece",
+    "time": "2026-04-04T14:15:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pinarayi slams Rahul for drawing equivalence between LDF and Hindutva forces in Chhattisgarh",
+    "desc": "Kerala Chief Minister says the Congress leader’s “brazenly misleading” statement smacks of an “impudence stemming from social and political illiteracy and ignorance”; he says the Congress’ “complacency and ideological ambiguity” in politically resisting Hindu majoritarian forces, including their trespasses on minorities, paved the way for the ascendancy of the Sangh Parivar-backed BJP in India",
+    "img": "https://th-i.thgim.com/public/incoming/taajox/article70823764.ece/alternates/LANDSCAPE_1200/NH31PinarayiVijayan02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/pinarayi-slams-rahul-for-drawing-equivalence-between-ldf-and-hindutva-forces-in-chhattisgarh/article70823547.ece",
+    "time": "2026-04-04T14:11:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rizvi's masterclass floors Mumbai; Delhi make it two in a row",
+    "desc": "Sameer Rizvi’s explosive 90 powered Delhi Capitals to a five-wicket win over Mumbai Indians, sealing their second straight victory. Despite early struggles, 22-year-old Rizvi. who came out to bat as Impact Sub dominated the chase, overshadowing Suryakumar Yadav’s fifty and guiding Delhi home comfortably.",
+    "img": "https://static.toiimg.com/photo/msid-130020983,imgsize-55528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-sameer-rizvis-masterclass-floors-mumbai-indians-delhi-capitals-make-it-two-in-a-row/articleshow/130020917.cms",
+    "time": "2026-04-04T13:55:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman spoke to fan for two hours before her heart transplant",
+    "desc": "Salman Khan’s bond with his fans often goes beyond the usual star-fan dynamic, and a recent account by Reena Raju—a three-time heart transplant survivor—offers a deeply personal glimpse into that connection. In a conversation, Reena opened up about a life-altering moment when Salman reached out to her ahead of her first heart transplant.",
+    "img": "https://static.toiimg.com/photo/msid-130020836,imgsize-62562.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-spoke-to-fan-for-two-hours-before-her-heart-transplant-says-survivor-reena-raju-he-has-kindness-written-all-over-him/articleshow/130020836.cms",
+    "time": "2026-04-04T13:49:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Shubman Gill not playing vs Rajasthan Royals?",
+    "desc": "Gujarat Titans missed captain Shubman Gill due to a muscle spasm, with Rashid Khan leading in his absence. Rajasthan Royals, led by Riyan Parag, chose to bat first on a high-scoring pitch. While Rajasthan entered with momentum, Gujarat aimed to recover from a poor start, with added pressure on their batting lineup without Gill.",
+    "img": "https://static.toiimg.com/photo/msid-130020760,imgsize-36564.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-gt-vs-rr-why-is-shubman-gill-not-playing-vs-rajasthan-royals/articleshow/130020681.cms",
+    "time": "2026-04-04T13:40:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Tu Yaa Main' OTT release: When and where to watch the film",
+    "desc": "Catch the tense survival thriller 'Tu Yaa Main' featuring Adarsh Gourav and Shanaya Kapoor, streaming on THIS ott platform starting THIS date. Directed by Bejoy Nambiar, this film puts a fresh twist on a Thai classic, showcasing a young couple's harrowing battle against a lurking crocodile. After a mixed reception from critics, it still managed to rake in over Rs 7 crore at the box office. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130020420,imgsize-71484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tu-yaa-main-ott-release-when-and-where-to-watch-adarsh-gourav-and-shanaya-kapoors-survival-thriller-online/articleshow/130020420.cms",
+    "time": "2026-04-04T13:23:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Run-out drama! Bumrah’s direct hit steals show",
+    "desc": "Delhi Capitals were 39/2 after five overs when a mix-up led to Nitish Rana’s run-out. Tapping Bumrah to mid-wicket, Rana hesitated mid-run and was caught short by a sharp direct hit. Earlier, Mumbai Indians posted 162/6, led by Suryakumar Yadav’s 51, but Delhi’s bowlers kept things tight to restrict the total.",
+    "img": "https://static.toiimg.com/photo/msid-130019940,imgsize-35612.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/run-out-drama-jasprit-bumrahs-direct-hit-steals-show-in-dc-vs-mi-ipl-match-watch/articleshow/130019501.cms",
+    "time": "2026-04-04T12:51:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Punjabi singer cancels show after frightening stage invasion",
+    "desc": "Punjabi singer Sunanda Sharma abruptly ended her performance at a Ghaziabad college event after a fan unexpectedly jumped on stage and touched her feet. Frightened, Sharma immediately left, leading to the cancellation of the show despite audience pleas. The fan, reportedly a student, was taken into police custody. The incident left attendees disappointed. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130019837,imgsize-147480.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/punjabi/music/punjabi-singer-sunanda-sharma-leaves-stage-mid-performance-after-fan-jumps-on-and-touches-her-feet-at-ghaziabad-college-event-watch/articleshow/130019837.cms",
+    "time": "2026-04-04T12:51:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mukesh says actresses wanted to be cast opposite Ranveer",
+    "desc": "The Revenge'. Highlighting their choice of Sara Arjun, he praised her refreshing innocence and lack of past roles, making her an ideal fit to authentically connect with Ranveer Singh's character in the backdrop of Pakistan. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130018265,imgsize-112534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mukesh-chhabra-reveals-1200-auditions-were-held-before-sara-arjun-was-cast-opposite-ranveer-singh-in-dhurandhar/articleshow/130018265.cms",
+    "time": "2026-04-04T12:43:15.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "11-year-old Indian-origin Bodhana Sivanandan becomes England No. 1",
     "desc": "Indian-origin chess talent Bodhana Sivanandan, 11, is now England’s top-rated female chess player with a 2366 FIDE rating, surpassing Lan Yao. She began during lockdown, now ranks 72nd globally, and is a Woman International Master. She beat Mariya Muzychuk and earned praise from former UK Prime Minister and chess officials.",
@@ -34,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-2-gets-independence-day-2026-release-date-emraan-hashmi-returns-as-shivam-with-disha-patani-reports/articleshow/130018892.cms",
     "time": "2026-04-04T12:04:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu missed out on Central government schemes because DMK saw BJP as an enemy, says G.K. Vasan",
-    "desc": "This is an election for the safety of the people of Tamil Nadu, especially women. The DMK does not want any development from the Centre because of vote bank politics. It should be a double-engine sarkar; the Central and State governments should work together, says the TMC(M) president",
-    "img": "https://th-i.thgim.com/public/incoming/fs4g52/article70821143.ece/alternates/LANDSCAPE_1200/11658_31_3_2026_20_45_1_2_7.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-missed-out-on-central-government-schemes-becausedmksawbjpas-an-enemy-says-gk-vasan/article70821141.ece",
-    "time": "2026-04-04T11:53:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -133,15 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/puducherry-polls-over-40-candidates-are-crorepatis-how-big-is-the-wealth-gap/articleshow/130017168.cms",
     "time": "2026-04-04T10:36:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "While real culprits escaped, NIA harassing local people: Mamata on action in Malda gherao",
-    "desc": "The West Bengal Chief Minister urged the gathering not to approach judicial officers scrutinising 'under adjudication' cases post-SIR, instead submit applications before tribunals for re-inclusion of names of those erroneously removed from the voters' list",
-    "img": "https://th-i.thgim.com/public/incoming/fofpy6/article70822785.ece/alternates/LANDSCAPE_1200/20260402318L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-polls-while-real-culprits-escaped-nia-harassing-local-people-mamata-on-action-in-malda-gherao/article70822770.ece",
-    "time": "2026-04-04T10:11:17.000Z"
   },
   {
     "cat": "Sports",
@@ -316,48 +451,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Salman Khan’s Panvel farmhouse: gym, stables, pool and more",
-    "desc": "Salman Khan's luxurious Panvel estate, Arpita Farms, sprawls over 150 acres and carries a valuation of Rs 80 crores, presenting an opulent haven. This picturesque getaway boasts earthy decor, a breathtaking pool area highlighted by a serene Buddha statue, and a full-fledged gym ideal for fitness enthusiasts.",
-    "img": "https://static.toiimg.com/photo/msid-130015010,imgsize-126486.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-panvel-farmhouse-from-state-of-the-art-gym-to-stables-maatrubhumi-stars-rs-80-crore-150-acre-retreat/articleshow/130015010.cms",
-    "time": "2026-04-04T07:24:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar 2' BO day 17 [LIVE]: Ranveer Singh film eyes Rs. 1,000 crore net",
     "desc": "The Revenge' is on the verge of history, eyeing the Rs. 1,000 crore India net milestone on day 17. Starring Ranveer Singh, the spy thriller has amassed Rs. 963.03 crore domestically and Rs. 1,523.58 crore globally. Despite ongoing IPL 2026 season, the film continues to shatter records, surpassing SS Rajamouli's 'Baahubali 2' in North America and outperforming the Shah Rukh Khan starrer 'Jawan' and Yash starrer 'KGF 2' in its trajectory.",
     "img": "https://static.toiimg.com/photo/msid-130014910,imgsize-193424.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-17-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-sara-arjun-film-eyes-rs-1000-crore-india-net-as-global-gross-hits-rs-1523-crore/articleshow/130014910.cms",
     "time": "2026-04-04T07:23:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'XO Kitty' Season 3 ending explained",
-    "desc": "XO, Kitty's third season concludes with a significant romantic development as Kitty Song Covey and Min Ho finally embrace their feelings, becoming an official couple. Min Ho's heartfelt confession leads him to accompany Kitty to Portland, signifying a commitment to their future.",
-    "img": "https://static.toiimg.com/photo/msid-130014966,imgsize-164786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/xo-kitty-season-3-ending-explained-do-kitty-and-min-ho-finally-end-up-together/articleshow/130014966.cms",
-    "time": "2026-04-04T07:17:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Leader' director Durai Senthilkumar admits past script mistakes",
-    "desc": "Director R. S. Durai Senthilkumar reflects on past filmmaking choices. He admits script adjustments in 'Kaaki Sattai', 'Kodi', and 'Pattaas' did not meet his satisfaction. He is now focused on his upcoming film 'Leader'. The movie stars Legend Saravanan and is set for release. Fans anticipate the director's new offering.",
-    "img": "https://static.toiimg.com/photo/msid-130014947,imgsize-115284.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/durai-senthilkumar-admits-script-mistakes-in-kaaki-sattai-kodi-and-pattaas-leader-director-says-im-not-satisfied-with-changes/articleshow/130014947.cms",
-    "time": "2026-04-04T07:15:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dee Freeman passes away at 66",
-    "desc": "Veteran actress Dee Freeman, celebrated for her roles in 'Sistas' and 'Shameless', has passed away at 66 after a battle with cancer. Her family announced her peaceful departure, highlighting her strength and the outpouring of support she received. Freeman, a Marine Corps veteran, transitioned to a successful acting career, leaving behind a legacy of impactful performances and an unfinished novel.",
-    "img": "https://static.toiimg.com/photo/msid-130014916,imgsize-38792.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-young-and-the-restless-star-dee-freeman-passes-away-at-age-66/articleshow/130014916.cms",
-    "time": "2026-04-04T07:13:30.000Z"
   },
   {
     "cat": "Sports",
@@ -385,51 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/nothing-left-in-left-rahul-gandhi-alleges-bjp-rss-ldf-nexus-during-kerala-poll-rally/articleshow/130014693.cms",
     "time": "2026-04-04T06:52:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AICC moves ECI against CPI(M) channel over ‘defaming’ K.C. Venugopal",
-    "desc": "AICC legal cell chairperson Abhisekh Singhvi filed a petition seeking the ECI’s urgent intervention. The petition noted that the fabrication and subsequent dissemination of the picture on social media, including CPI(M) handles, constituted a violation of the model code of conduct.",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/90z13s/article70822376.ece/alternates/LANDSCAPE_1200/Congress.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-elections-aicc-moves-eci-against-cpim-channel-over-defaming-kc-venugopal/article70822369.ece",
-    "time": "2026-04-04T06:44:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Theorising a third term for LDF, one couplet at a time",
-    "desc": "CPI (M)’s M.A. Baby says the ‘alternative model’ led by the Left should not be disrupted; he says BJP’s communal politics is the biggest challenge for Kerala and that the Congress is yet to understand the threat of communal fascism",
-    "img": "https://th-i.thgim.com/public/incoming/z3w10m/article70820978.ece/alternates/LANDSCAPE_1200/CPIM-CITY_G1IFOGBFFOFHBB.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/theorising-a-third-term-for-ldf-one-couplet-at-a-time/article70819824.ece",
-    "time": "2026-04-04T06:35:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "In Nalanda, faith turned fatal",
-    "desc": "On March 31, over 10,000 devotees, mostly women, thronged the Sheetla Mata temple in Nalanda, Bihar. The temple, which normally holds 500-1,000 people, was overwhelmed, triggering a stampede that claimed nine lives. Victims’ families allege that priests let devotees enter through the exit gate after collecting money. Amit Bhelari reports on how poor crowd management and inadequate arrangements worsened the tragedy",
-    "img": "https://th-i.thgim.com/public/incoming/kheeyg/article70820745.ece/alternates/LANDSCAPE_1200/image00002.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/in-nalanda-faith-turned-fatal/article70820388.ece",
-    "time": "2026-04-04T06:30:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress is politically incompetent and ideologically bankrupt, says D. Raja",
-    "desc": "The Left Democratic Front government in Kerala has been successful on many fronts and will win a third consecutive term, says the CPI general secretary; accusing the Congress of resorting to ‘slanderous campaigns and allegations’, he says it must criticise the government on the basis of issues",
-    "img": "https://th-i.thgim.com/public/incoming/sz0rk9/article70820944.ece/alternates/LANDSCAPE_1200/IMG_2549.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/congress-is-politically-incompetent-and-ideologically-bankrupt-says-d-raja/article70815766.ece",
-    "time": "2026-04-04T06:24:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘CSK’s biggest concern is their bowling’: Gavaskar flags major worry after 200+ chase",
-    "desc": "Young batters Ayush Mhatre and Priyansh Arya are redefining T20 batting with their fearless approach, impressing legends Sunil Gavaskar and Cheteshwar Pujara. Arya's explosive 39 off 11 balls set the tone for Punjab Kings' chase, while Mhatre's composed 73 laid the foundation for Chennai Super Kings. Their focus on the present exemplifies the new generation's mindset.",
-    "img": "https://static.toiimg.com/photo/msid-130014099,imgsize-199038.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csks-biggest-concern-is-their-bowling-sunil-gavaskar-flags-major-worry-after-200-chase/articleshow/130014006.cms",
-    "time": "2026-04-04T06:07:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -495,24 +549,6 @@ const newsData_en = [
     "time": "2026-04-04T02:43:48.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Gaikwad matches Jadeja’s unwanted record, tops CSK’s list for wrong reasons",
-    "desc": "Chennai Super Kings face an uncharacteristic start to IPL 2026, losing their first two matches under captain Ruturaj Gaikwad. This marks the second time in their history, and the first under Dhoni's long tenure, that the franchise has begun with consecutive defeats.",
-    "img": "https://static.toiimg.com/photo/msid-130011884,imgsize-115514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ruturaj-gaikwad-matches-ravindra-jadejas-unwanted-record-tops-csks-list-for-wrong-reasons/articleshow/130011663.cms",
-    "time": "2026-04-04T02:20:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Anxiety among minorities': Shashi Tharoor questions FCRA Ammendment Bill",
-    "desc": "Congress MP Shashi Tharoor expressed skepticism regarding reports of the Centre withdrawing the FCRA Amendment Bill, warning of its potential reintroduction. He stated the opposition will remain vigilant to prevent amendments causing anxiety among religious minorities. Opposition MPs had previously protested the bill, citing concerns for NGOs and minority groups",
-    "img": "https://static.toiimg.com/photo/msid-130011872,imgsize-75690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/anxiety-among-minorities-shashi-tharoor-questions-fcra-ammendment-bill/articleshow/130011839.cms",
-    "time": "2026-04-04T02:08:44.000Z"
-  },
-  {
     "cat": "World",
     "title": "Up to 75 women expected to benefit from Bank of America settlement in Epstein sex abuse, say lawyers",
     "desc": "Lawyers for women abused by Epstein had sued the bank, saying it ignored suspicious financial transactions involving Epstein that occurred while he was abusing girls and women from June 2008 to his arrest in early July 2019 on federal sex trafficking charges.",
@@ -523,39 +559,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Ruturaj Gaikwad ‘threatened’ by Sanju Samson at CSK? Ex-captain’s big claim",
-    "desc": "Michael Vaughan and Simon Doull question Chennai Super Kings' captaincy dynamics, suggesting Ruturaj Gaikwad might feel threatened by new signing Sanju Samson's leadership credentials. Despite Samson's underwhelming start, his past success as captain at Rajasthan Royals looms large. This discussion follows CSK's second consecutive defeat, highlighting evolving leadership concerns within the team.",
-    "img": "https://static.toiimg.com/photo/msid-130011707,imgsize-176568.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ruturaj-gaikwad-threatened-by-sanju-samson-at-csk-ex-captains-big-claim/articleshow/130011717.cms",
-    "time": "2026-04-04T01:53:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "R Praggnanandhaa wastes his best chance to score win",
-    "desc": "India's R Praggnanandhaa missed a prime chance for victory at the Candidates Tournament, settling for a draw against Andrey Esipenko. Meanwhile, Vaishali Rameshbabu faced her first defeat against Zhu Jiner in the Women's Candidates, while Divya Deshmukh secured a hard-fought draw. The tournament's early stages show a strong lead by Javokhir Sindarov.",
-    "img": "https://static.toiimg.com/photo/msid-130011552,imgsize-39226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-r-praggnanandhaa-wastes-his-best-chance-to-score-win/articleshow/130011538.cms",
-    "time": "2026-04-04T01:20:01.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Rashford has 'big chance' with Raphinha out, says Barca coach Flick",
     "desc": "Brazil international Raphinha is sidelined until May with a hamstring injury, opening the door for Rashford. The England forward, on loan from Manchester United, impressed in the first half of the season but has not played as much in recent weeks",
     "img": "https://th-i.thgim.com/public/incoming/d49hfn/article70822196.ece/alternates/LANDSCAPE_1200/2026-03-18T180741Z_447665723_UP1EM3I1ECSZ2_RTRMADP_3_SOCCER-CHAMPIONS-BAR-NEW.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/rashford-has-big-chance-with-raphinha-out-says-barca-coach-flick/article70821254.ece",
     "time": "2026-04-04T01:14:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya gears up to bowl full quota at 2027 ODI World Cup",
-    "desc": "Hardik Pandya is actively working to prove his fitness for bowling 10 overs in ODIs, aiming to be a key player for the 2027 World Cup. Despite initial concerns from the BCCI, he has demonstrated his readiness in domestic matches and is undergoing rigorous training to assure selectors of his bowling capabilities.",
-    "img": "https://static.toiimg.com/photo/msid-130011386,imgsize-111890.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-gears-up-to-bowl-full-quota-at-2027-odi-world-cup/articleshow/130011385.cms",
-    "time": "2026-04-04T00:44:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -828,24 +837,6 @@ const newsData_en = [
     "time": "2026-04-02T07:06:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "The world’s top-20 would be good. That should be the main plan: Abhay",
-    "desc": "The World No. 25 is pragmatic about his success while acknowledging the role of his coaches Willstrop and Harinderpal; the squash star, who prefers to stay in the present, is keen to participate in big events to maintain consistency",
-    "img": "https://th-i.thgim.com/public/sport/12j27x/article70812964.ece/alternates/LANDSCAPE_1200/ABHAY%202%202.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/the-worlds-top-20-would-be-good-that-should-be-the-main-plan-abhay/article70812957.ece",
-    "time": "2026-04-01T18:57:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Williams’ inclusion a kick in the right direction for the Blue Tigers",
-    "desc": "There is no harm in strengthening a nation’s sporting team by including exceptionally talented players who may have grown up in a different country; the National Sports Policy 2025, which recommends that promising Indian-origin athletes living abroad may be encouraged to come back and play for India, will only make it easier for the federation and the players to make it possible",
-    "img": "https://th-i.thgim.com/public/incoming/nkuvzk/article70811848.ece/alternates/LANDSCAPE_1200/Indian_football_02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/williams-inclusion-a-step-in-the-right-direction-for-the-blue-tigers/article70811650.ece",
-    "time": "2026-04-01T18:20:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Commercial LPG prices hiked 10%, jet fuel rates up 9% for domestic airlines",
     "desc": "ATF rates for international flights more than doubled, prompting IndiGo to add a fuel surcharge of ₹10,000 on long-haul routes; Centre says OMCs are still absorbing losses due to the surge in global crude rates",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
