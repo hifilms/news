@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'You cannot back down': R Ashwin weighs in on Ruturaj Gaikwad's showing after PBKS loss",
+    "desc": "Chennai Super Kings continued their subpar form in the ongoing IPL (Indian Premier League) 2026. After being handed a humiliating defeat against Rajasthan Royals in their first game of the season, Chennai Super Kings took...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/you-cannot-back-down-r-ashwin-weighs-in-on-ruturaj-gaikwad-s-showing-after-pbks-loss-2026-04-04-1036266",
+    "time": "2026-04-04T06:50:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jos Buttler shares wholesome moment with Vaibhav Sooryavanshi ahead of RR clash",
+    "desc": "The stage is set for game 9 of the ongoing IPL (Indian Premier League) 2026; Rajasthan Royals will be taking on Gujarat Titans at the Narendra Modi Stadium in Ahmedabad on April 4. Both sides...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-shares-wholesome-moment-with-vaibhav-sooryavanshi-ahead-of-rr-clash-watch-2026-04-04-1036257",
+    "time": "2026-04-04T05:48:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will weather in Delhi fare for IPL 2026 game 8?",
     "desc": "The stage is set for game 8 of the ongoing IPL (Indian Premier League) 2026. The clash will see Delhi Capitals taking on Mumbai Indians at the Arun Jaitley Stadium in Delhi on April 4....",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-ms-dhoni-not-playing-for-csk-vs-pbks-in-ipl-2026-clash-in-chennai-2026-04-03-1036213",
     "time": "2026-04-03T13:38:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Auqib Nabi rubs off price-tag pressure in IPL, recalls emotional bidding process in auction",
-    "desc": "After a sensational domestic season, Jammu and Kashmir pacer Auqib Nabi was roped in for INR 8.4 crore by Delhi Capitals for the IPL 2026. His red-ball skills became the talking point, but Nabi was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-rubs-off-price-tag-pressure-in-ipl-recalls-emotional-bidding-process-in-auction-2026-04-03-1036207",
-    "time": "2026-04-03T13:01:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Kane in doubt for UCL clash against Real Madrid, ruled out of Bundlesliga tie with Freiburg",
-    "desc": "Bayern Munich face a major injury scare as star forward Harry Kane fights to be fit for the upcoming Champions League quarterfinal against Real Madrid. The 32-year-old suffered an ankle injury during a training session...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/harry-kane-in-doubt-for-ucl-clash-against-real-madrid-ruled-out-of-bundlesliga-tie-with-freiburg-2026-04-03-1036195",
-    "time": "2026-04-03T11:37:19.000Z"
   }
 ];
