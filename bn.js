@@ -198,12 +198,12 @@ const newsData_bn = [
     "time": "2026-03-31T13:01:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "১৩ মিনিটের রাস্তা যেতে সময় লাগল ৭০ মিনিট? 'আর একটু আগে আনলে বাঁচানো যেত', রাহুলকে নিয়ে আক্ষেপ হাসপাতাল সুপারের",
-    "desc": "ওড়িশা পুলিস ও পশ্চিমবঙ্গ পুলিসের অফিসার বার্তা অনুযায়ী গত রবিবার বিকেল ৫.৩০ ঘটনা ঘটে। কিন্তু দীঘা হাসপাতালে রাহুলকে আনা হয় ৬.৪০ মিনিটে। ৬.৫০ মিনিটে মৃত বলে ঘোষণা করা হয় অভিনেতাকে। হাসপাতাল সুপার জানাচ্ছেন দেহ পরীক্ষা করে বোঝা যায় হাসপাতাল আনার বেশ কিছুক্ষণ আগেই মৃত্যু হয়েছে রাহুলের। আগে আনা গেলে বাঁচানো যেত, মত হাসপাতাল সুপারের। তালসারি ঘটনাস্থল থেকে দীঘা হাসপাতালে দূরত্ব মাত্র ১৩ মিনিট। তাহলে কেন এত দেরি?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunoday-banerjee-death-mystery-timeline-gap-fatal-delay-explained-by-hospital-super_646772.html ",
-    "time": "2026-03-31T10:05:44.000Z"
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

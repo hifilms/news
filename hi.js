@@ -1,92 +1,92 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "KL Rahul's all-time IPL record comes to an end as DC star falls early against MI",
+    "desc": "KL Rahul has not had the best start to the Indian Premier League 2026. The Delhi Capitals star was dismissed for a golden duck in his team's season opener against Lucknow Super Giants and has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahuls-all-time-ipl-record-comes-to-an-end-as-dc-star-falls-early-against-mi-2026-04-04-1036307",
+    "time": "2026-04-04T12:43:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma's hilarious bluff fools KL Rahul, Kuldeep Yadav; bursts out laughing during MI vs DC clash: WATCH",
+    "desc": "Rohit Sharma’s cheeky, yet sharp cricketing IQ, cost Delhi Capitals their review in the IPL 2026 clash at the Arun Jaitley Stadium. Notably, in the ninth over of the game, the former Mumbai Indians captain...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-s-hilarious-bluff-fools-kl-rahul-kuldeep-yadav-bursts-out-laughing-during-mi-vs-dc-clash-watch-2026-04-04-1036306",
+    "time": "2026-04-04T12:35:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bunny alert! Shubman Gill's record against Jofra Archer rings warning bells for GT ahead of RR IPL 2026 clash",
+    "desc": "Shubman Gill's Gujarat Titans lock horns with Riyan Parag-led Rajasthan Royals in face-offs of contrasting batting sides at the Narendra Modi Stadium in Ahmedabad. After suffering a close loss to the Punjab Kings in their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gill-s-record-against-jofra-archer-rings-warning-bells-2026-04-04-1036299",
+    "time": "2026-04-04T11:55:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravichandran Ashwin slams CSK after defeat to Punjab in IPL 2026, says 'it was painful to watch'",
+    "desc": "Chennai Super Kings have suffered six straight home games in the IPL. Last year, they lost five on the trot and the 2026 season began with a crushing defeat to Punjab Kings. With that, it’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-slams-csk-after-defeat-to-punjab-in-ipl-2026-says-it-was-painful-to-watch-2026-04-04-1036298",
+    "time": "2026-04-04T11:50:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma joins Chris Gayle, MS Dhoni in elite list in clash against Delhi Capitals",
+    "desc": "Game 8 of the ongoing IPL (Indian Premier League) 2026 saw Delhi Capitals taking on Mumbai Indians. The two sides locked horns at the Arun Jaitley Stadium in Delhi on April 4, and the game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-joins-chris-gayle-ms-dhoni-in-elite-list-in-clash-against-delhi-capitals-2026-04-04-1036292",
+    "time": "2026-04-04T11:09:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pat Cummins leaves SRH mid IPL season, heads back to Australia; here's why",
+    "desc": "Sunrisers Hyderabad captain Pat Cummins missed the opening two games of the season, owing to a back injury. He has been out of action since the third Test in the Ashes and missed the T20...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-leaves-srh-mid-ipl-season-heads-back-to-australia-here-s-why-2026-04-04-1036291",
+    "time": "2026-04-04T10:58:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Mitchell Starc not playing in DC vs MI IPL 2026 clash at Arun Jaitley Stadium?",
+    "desc": "Mitchell Starc missed out as the Delhi Capitals host the Mumbai Indians for their second match of the Indian Premier League 2026. DC are coming into this game on the back of a win over...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-mitchell-starc-not-playing-in-dc-vs-mi-ipl-2026-clash-at-arun-jaitley-stadium-2026-04-04-1036286",
+    "time": "2026-04-04T10:19:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Trent Boult not playing for MI in clash against DC in IPL 2026?",
+    "desc": "Trent Boult was among the key players who missed out as the Mumbai Indians take on the Delhi Capitals in their second match of the Indian Premier League 2026 at the Arun Jaitley Stadium on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-trent-boult-not-playing-for-mi-in-clash-against-dc-in-ipl-2026-2026-04-04-1036285",
+    "time": "2026-04-04T10:07:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Hardik Pandya not playing for MI vs DC in IPL 2026 clash in Delhi?",
+    "desc": "The stage is set for game 8 of the ongoing IPL (Indian Premier League) 2026. Delhi Capitals are taking on Mumbai Indians at the Arun Jaitley Stadium in Delhi. Ahead of the game, there is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-for-mi-vs-dc-in-ipl-2026-clash-in-delhi-2026-04-04-1036280",
+    "time": "2026-04-04T09:37:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shreyas Iyer found in breach of IPL Code of Conduct, reprimanded alongside entire PBKS squad",
     "desc": "In a major development for IPL 2025 finalists Punjab Kings, the side’s skipper, Shreyas Iyer, has been found guilty of breaching the IPL Code of Conduct for the second game in a row. It is...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-found-in-breach-of-ipl-code-of-conduct-reprimanded-alongside-entire-pbks-squad-2026-04-04-1036277",
     "time": "2026-04-04T09:12:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Player battles to watch out for in IPL 2026 Match 9",
-    "desc": "Rajasthan Royals and Gujarat Titans are all set to continue their ongoing IPL (Indian Premier League) 2026 campaign. The two sides will meet in game 9 of the tournament at the Narendra Modi Stadium in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-rr-3-player-battles-to-watch-out-for-in-ipl-2026-match-9-2026-04-04-1036273",
-    "time": "2026-04-04T08:09:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'You cannot back down': R Ashwin weighs in on Ruturaj Gaikwad's showing after PBKS loss",
-    "desc": "Chennai Super Kings continued their subpar form in the ongoing IPL (Indian Premier League) 2026. After being handed a humiliating defeat against Rajasthan Royals in their first game of the season, Chennai Super Kings took...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/you-cannot-back-down-r-ashwin-weighs-in-on-ruturaj-gaikwad-s-showing-after-pbks-loss-2026-04-04-1036266",
-    "time": "2026-04-04T06:50:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler shares wholesome moment with Vaibhav Sooryavanshi ahead of RR clash",
-    "desc": "The stage is set for game 9 of the ongoing IPL (Indian Premier League) 2026; Rajasthan Royals will be taking on Gujarat Titans at the Narendra Modi Stadium in Ahmedabad on April 4. Both sides...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-shares-wholesome-moment-with-vaibhav-sooryavanshi-ahead-of-rr-clash-watch-2026-04-04-1036257",
-    "time": "2026-04-04T05:48:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will weather in Delhi fare for IPL 2026 game 8?",
-    "desc": "The stage is set for game 8 of the ongoing IPL (Indian Premier League) 2026. The clash will see Delhi Capitals taking on Mumbai Indians at the Arun Jaitley Stadium in Delhi on April 4....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-mi-weather-report-how-will-weather-in-delhi-fare-for-ipl-2026-game-8-2026-04-04-1036252",
-    "time": "2026-04-04T04:39:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Impress each other': Shreyas Iyer shares Punjab Kings' philosophy after stellar victory over CSK",
-    "desc": "Game 7 of the ongoing IPL (Indian Premier League) 2026 saw Punjab Kings take on Chennai Super Kings. The two sides locked horns at the MA Chidambaram Stadium in Chennai on April 3, and the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/impress-each-other-shreyas-iyer-shares-punjab-kings-philosophy-after-stellar-victory-over-csk-2026-04-04-1036247",
-    "time": "2026-04-04T03:18:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK lose sixth straight game at Chepauk, PBKS' Shreyas Iyer, Priyansh Arya produce dominant show in IPL 2026",
-    "desc": "Punjab Kings picked up a comfortable five-wicket win against Chennai Super Kings at the MA Chidambaram Stadium. The hosts improved their batting significantly after a defeat to Rajasthan Royals to kickstart their IPL 2026 campaign,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-remain-winless-in-ipl-2026-as-pbks-shreyas-iyer-priyansh-arya-produce-dominant-show-at-chepauk-2026-04-03-1036231",
-    "time": "2026-04-03T17:53:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings set new IPL record; Priyansh Arya, Prabhsimran Singh hand cracking start against CSK",
-    "desc": "Chasing 210 runs, Punjab Kings completed 50 in just 3.2 overs. It is the fastest by a team against Chennai Super Kings in IPL history. Openers Priyansh Arya and Prabhsimran Singh wreaked havoc in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-set-new-ipl-record-priyansh-arya-prabhsimran-singh-hand-cracking-start-against-csk-2026-04-03-1036230",
-    "time": "2026-04-03T17:36:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Arun Jaitley Stadium in Delhi play for IPL 2026?",
-    "desc": "Delhi Capitals will host Mumbai Indians at the Arun Jaitley Stadium in their first home game of the IPL 2026 season. The Axar Patel-led side picked up a comfortable six-wicket win over Lucknow Super Giants...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-mi-pitch-report-how-will-surface-at-arun-jaitley-stadium-in-delhi-play-for-ipl-2026-2026-04-03-1036225",
-    "time": "2026-04-03T16:20:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Memes galore as Sanju Samson flops again for Chennai Super Kings in IPL 2026",
-    "desc": "Since his blockbuster trade to Chennai Super Kings, Sanju Samson has struggled to live up to his potential in the ongoing IPL 2026. The keeper-batter dominated the proceedings in the T20 World Cup, winning the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-pbks-memes-galore-as-sanju-samson-flops-again-for-chennai-super-kings-in-ipl-2026-2026-04-03-1036222",
-    "time": "2026-04-03T15:28:43.000Z"
   }
 ];

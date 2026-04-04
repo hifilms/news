@@ -1,6 +1,78 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "6 કલાક બેટિંગ, 350 બોલ અને માત્ર 50 રન... ટેસ્ટ ક્રિકેટના ઇતિહાસમાં સૌથી ધીમી અડધી સદી",
+    "desc": "ટેસ્ટ ક્રિકેટમાં સૌથી ધીમી ઇનિંગ્સનો આ વિશ્વ રેકોર્ડ 70 વર્ષ પહેલાં સ્થાપિત થયો હતો અને ત્યારથી કોઈ પણ આ રેકોર્ડ તોડી શક્યું નથી. આનું કારણ એ છે કે આટલી ધીરજ સાથે બેટિંગ કરવી હવે શક્ય લાગતું નથી, કારણ કે ટેસ્ટ ક્રિકેટ હવે પહેલા કરતા ઘણી વધુ આક્રમક રીતે રમાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/trevor-bailey-slowest-test-fifty-350-ball-in-1958-ashes-england-vs-australia-471499 ",
+    "time": "2026-04-04T12:32:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોવિડ-19 નો નવો વેરિઅન્ટ પહેલા કરતા કેટલો ખતરનાક? શું હાલની વેક્સિન સુરક્ષા આપી શકશે?",
+    "desc": "Covid-19 New Variant નવા COVID-19 સબ-વેરિઅન્ટ BA.3.2 એ લોકોમાં ભયનું વાતાવરણ ઉભું કરી નાખ્યું છે, કારણ કે તેમને ડર છે કે COVID-19 ના જૂના દિવસો પાછા આવી શકે છે. એવામાં દરેકના સવાલ ઉભો કરે છે કે જેમ પ્રથમ COVID-19 મહામારી દરમિયાન કોરોના વિક્સિન વિકસાવવામાં સમય લાગ્યો હતો, શું વર્તમાન રસી તેને અટકાવી શકશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-much-more-dangerous-is-the-new-covid-19-variant-than-previous-ones-will-existing-vaccines-be-able-to-provide-protection-471498 ",
+    "time": "2026-04-04T12:08:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પેટ્રોલના ભાવમાં 80 રૂપિયાનો ઘટાડો, વિરોધ પ્રદર્શન બાદ આ દેશની સરકારે લીધો નિર્ણય",
+    "desc": "ભૂખમરો, દેવા અને મોંઘવારીથી ઝઝૂમી રહેલા પાકિસ્તાન પર મધ્ય પૂર્વમાં સંઘર્ષની સીધી અસર પડવા લાગી છે. ફુગાવાનો ફટકો એટલો ગંભીર છે કે પેટ્રોલ અને ડીઝલના ભાવ આસમાને પહોંચી ગયા છે, જેના કારણે લોકોમાં રોષ ફેલાયો છે. લોકો મોટી સંખ્યામાં રસ્તાઓ પર ઉતરી આવ્યા છે. વિરોધ પ્રદર્શનો બાદ સરકારે પેટ્રોલના ભાવમાં પ્રતિ લિટર 80 રૂપિયાનો ઘટાડો કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-war-effect-pakistan-petrol-price-cut-80-rupees-after-protest-471497 ",
+    "time": "2026-04-04T12:03:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "હાર્દિક પંડ્યા MIમાંથી બહાર, સૂર્યકુમાર યાદવને બનાવાયો અચાનક કેપ્ટન, જાણો શું છે કારણ",
+    "desc": "સૂર્યકુમાર યાદવને અચાનક મુંબઈ ઈન્ડિયન્સનો કેપ્ટન નિયુક્ત કરવામાં આવ્યો છે. હાર્દિક પંડ્યા MI ટીમમાંથી બહાર છે. સૂર્યા કેપ્ટન બનતા જ સૂર્યકુમારે ટીમમાં ત્રણ ફેરફાર કર્યા છે. ત્યારે હાર્દિક પંડ્યા કેમ બહાર થયો છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-out-of-mumbai-indians-suryakumar-yadav-suddenly-appointed-captain-471480 ",
+    "time": "2026-04-04T11:32:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "અમેરિકા કે રશિયા નહીં... આ દેશ પાસે છે વિશ્વની સૌથી મોટી સેના, જાણો કયા ક્રમે છે ભારત",
+    "desc": "મિલિટરી બેલેન્સ રિપોર્ટ 2025 અનુસાર, વિશ્વની સૌથી મોટી સેનાઓની યાદી બહાર પાડવામાં આવી છે. ત્યારે આ યાદી મુજબ કયા દેશ પાસે વિશ્વની સૌથી મોટી સેના છે અને આ યાદીમાં ભારત કયા ક્રમે છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/which-country-has-world-largest-army-in-2026-know-india-ranks-471471 ",
+    "time": "2026-04-04T11:07:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "કામણગારી આંખો અને હોટ લુક...IPLમાં છવાઈ આ ‘મિસ્ટ્રી ગર્લ’, લોકોએ કહ્યું અભિષેક શર્માની ટીમ માટે છે ‘લકી ચાર્મ’",
+    "desc": "Who is this mystery girl? આઈપીએલ 2026નો ખુમાર અત્યારે પૂરા ભારત પર છવાયેલો છે. ફેન્સ માટે આ મેચો પૈસા વસૂલ સાબિત થઈ રહી છે. આ દરમિયાન સોશિયલ મીડિયા પર એક 'મિસ્ટ્રી ગર્લ'ની ચર્ચાઓએ જોર પકડ્યું છે. પ્રશંસકોનું કહેવું છે કે આ મિસ્ટ્રી ગર્લ અભિષેક શર્માની ટીમ માટે લકી ચાર્મ સાબિત થઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/who-is-this-mystery-girl-hot-look-attractive-eyes-hot-girl-viral-photos-fans-said-lucky-charm-for-srh-ipl-2026-471469 ",
+    "time": "2026-04-04T10:59:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાનના નાક નીચે હોર્મુઝ સ્ટ્રેટ પાસેથી ભારતે શોધ્યો નવો દરિયાઈ માર્ગ ! ત્રણ જહાજોના કાફલા સાથે નીકળ્યું ભારતીય જહાજ",
+    "desc": "યુદ્ધ શરૂ થયા પછી ઈરાને હોર્મુઝ સ્ટ્રેટમાંથી પસાર થતા જહાજો પર હુમલો કરવાનું શરૂ કર્યું. વૈશ્વિક ઉર્જા પુરવઠાનો 20 ટકા ભાગ આ માર્ગ દ્વારા પસાર થતો હોવાથી તેની અસર વિશ્વભરમાં અનુભવાઈ રહી છે. ત્યારબાદ ઈરાને હોર્મુઝ સ્ટ્રેટમાંથી પસાર થતા જહાજો પર ટોલ વસૂલવાનું શરૂ કર્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/indian-ships-and-3-others-cross-strait-of-hormuz-via-new-shipping-route-471467 ",
+    "time": "2026-04-04T10:15:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "કેન્દ્રીય કર્મચારીઓને હર હાલમાં કરવું પડશે આ કામ, સરકારે સંસદમાં આપી માહિતી",
+    "desc": "કેન્દ્ર સરકારના કર્મચારીઓને માટે મહત્વના સમાચાર છે, સરકારી કર્મચારીઓ માટે સંસદમાં માહિતી આપી છે. કર્મચારીઓ ઘણા સમયથી એરિયર અને ભલામણોની રાહ જોઈ રહ્યા છે, ત્યારે મિટિંગનું પણ આયોજન કર્યું છે જે 24 એપ્રિલના રોજ યોજાશે, જેના માટે 10 તારીખ સુધી અરજી કરી શકાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/central-employees-will-have-to-do-this-work-at-all-times-government-gave-information-in-parliament-471466 ",
+    "time": "2026-04-04T09:59:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "માત્ર 9 બોલમાં ફિફ્ટી... 8 છગ્ગા અને 520ની સ્ટ્રાઇક રેટ, આ ખતરનાક બેટ્સમેને T20માં મચાવી તબાહી",
     "desc": "ક્રિકેટ અનિશ્ચિતાનો ખેલ છે, ગમે ત્યારે ગમે તે થઈ શકે છે. આ ખતરનાક બેટ્સમેને માત્ર 9 બોલમાં અડધી સદી ફટકારીને T20 આંતરરાષ્ટ્રીય ક્રિકેટમાં એક નવો વર્લ્ડ રેકોર્ડ બનાવ્યો છે. આ T20 આંતરરાષ્ટ્રીય ક્રિકેટના ઇતિહાસમાં સૌથી ઝડપી અડધી સદી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -378,24 +450,6 @@ const newsData_gu = [
     "time": "2026-04-01T15:53:39.000Z"
   },
   {
-    "cat": "World",
-    "title": "ઈરાને Amazonને બનાવ્યું નિશાન, બહેરીનના ડેટા સેન્ટર પર કર્યો હુમલો! જાણો ભારત પર શું અસર પડશે?",
-    "desc": "ઈરાને ચેતવણી આપી હતી કે, તેઓ અમેરિકાની ગૂગલ, માઈક્રોસોફ્ટ, એમેઝોન જેવી ટેક કંપનીઓ પર હુમલો કરશે. ઈરાનના રિવોલ્યુશનરી ગાર્ડ્સ (IRGC)એ 18 અમેરિકાની કંપનીઓની યાદી જાહેર કરીને હુમલા કરવાની ચેતવણી આપી હતી. રિપોર્ટ્સ અનુસાર, ઈરાને બહેરીનમાં એમેઝોનના ડેટા સેન્ટર પર હુમલો કર્યો છે. જો કે, હજુ સુધી સત્તાવાર પુષ્ટિ કરવામાં આવી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-targets-amazon-attacks-bahrain-data-center-know-what-impact-it-will-have-on-india-471135 ",
-    "time": "2026-04-01T15:44:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આ સ્કીમમાં સરકાર આપી રહી છે 8.2% વ્યાજ, 5 એપ્રિલ પહેલા રોકાણ કરવા પર થશે મોટો ફાયદો",
-    "desc": "નવા નાણાકીય વર્ષની આજથી શરૂઆત થઈ ચૂકી છે. જો કે, નવુ નાણાકીય વર્ષ શરૂ થાય તે પહેલા જ નાણા મંત્રાલયે 1 એપ્રિલ 2026થી શરૂ થતા ત્રિમાસિક ગાળા (એપ્રિલ-જૂન) માટે તમામ સ્મોલ સેવિંગ સ્કીમના નવા વ્યાજ દરોની જાહેરાત કરી હતી. નાણા મંત્રાલય દ્વારા એપ્રિલ-જૂન 2026ના ક્વાર્ટર માટે વ્યાજ દરો યથાવત રાખવામાં આવ્યા છે. સુકન્યા સમૃદ્ધિ યોજના પર વાર્ષિક 8.2% વ્યાજ મળી રહ્યું છે. તો ચાલો જાણીએ કે, નવા નાણાકીય વર્ષના શરૂઆતના 5 દિવસ કેમ મહત્ત્વપૂર્ણ હોય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/government-is-giving-8-2-percent-interest-in-sukanya-samriddhi-yojana-there-will-be-big-benefits-if-you-invest-before-april-5-471121 ",
-    "time": "2026-04-01T14:53:46.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "E20 પેટ્રોલ સિવાય હવે કોઈ વિકલ્પ નથી, એન્જિન અને માઇલેજ પર શું પડશે અસર? જાણો દરેક વિગત",
     "desc": "પેટ્રોલ કાર કે ટૂ-વ્હીલર ચલાવો છો તો હવે તમારે E20 પેટ્રોલ ભરાવવું પડશે. ઇથેનોલ બ્લેન્ડેડ ફ્યૂલની સાથે સરકાર ગ્રીન ફ્યુલના ઉપયોગને વધારવા ઈચ્છે છે. E20 ની સૌથી મોટી ખાસિયત છે કે કે 95 RON ની નજીક હાઈ ઓક્ટેન રેટિંગ સાથે આવે છે.",
@@ -403,24 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/e20-petrol-is-mandatory-in-all-over-india-from-april-1-know-all-details-471120 ",
     "time": "2026-04-01T14:50:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કેન્દ્રીય કર્મચારીઓ માટે મોટા સમાચાર, એપ્રિલમાં થઈ શકે છે DA વધારાની જાહેરાત! 3 મહિનાનું એરિયર પણ મળશે",
-    "desc": "કેન્દ્રીય કર્મચારીઓ વર્ષ 2026 ના પ્રથમ છ મહિના એટલે કે જાન્યુઆરીથી જૂન સુધીના DAની રાહ જોઈ રહ્યા છે. હાલમાં કેન્દ્રીય કર્મચારીઓને 58% DA મળી રહ્યું છે. જાન્યુઆરી 2026થી DAમાં અંદાજે 2 થી 3%ના વધારાની અપેક્ષા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-news-for-central-employees-da-increase-may-be-announced-in-april-3-months-arrears-will-also-be-available-471108 ",
-    "time": "2026-04-01T13:05:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "IOCLએ પેટ્રોલમાં 11 રૂપિયા તો shellએ પેટ્રોલમાં 7 અને ડીઝલમાં 25 રૂપિયા વધાર્યા, એપ્રિલના પહેલા દિવસે જ હોળી",
-    "desc": "સરકારે ભલે એક્સાઈઝ ડ્યૂટીમાં 10 રૂપિયાનો ઘટાડો કર્યો પણ નાયરા, IOCL અને શેલે પેટ્રોલ અને ડીઝલના ભાવમાં વધારો કરી દીધો છે. IOCLએ પ્રીમિયમ પેટ્રોલમાં 11 રૂપિયાનો તો શેલે નોર્મલ પેટ્રોલમાં 7 રૂપિયા અને ડીઝલમાં 25 રૂપિયાનો વધારો કર્યો છે. આ પહેલાં શેલે પેટ્રોલના ભાવમાં 5 રૂપિયાનો વધારો કર્યો હતો. એકાએક ભાવ વધારાને પગલે દેશભરના વાહનચાલકોને ઝટકો લાગ્યો છે. ગુજરાતમાં શેલનું પેટ્રોલ ભરાવવા જાઓ છો તો જરા ભાવ ચેક કરી લેજો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-hike-by-iocl-shell-and-nayara-energy-1st-april-2026-471106 ",
-    "time": "2026-04-01T12:27:41.000Z"
   },
   {
     "cat": "Tech",
@@ -439,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/lpg-cylinders-storage-rules-in-india-how-many-gas-cylinders-allowed-in-home-471090 ",
     "time": "2026-04-01T10:11:25.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "મિડલ ઈસ્ટમાં યુદ્ધ મુદ્દે શું કઈંક મોટું થવાનું છે? ઉપરાછાપરી 3 શક્તિશાળી રાષ્ટ્રાધ્યક્ષોનું રાષ્ટ્રને સંબોધન",
-    "desc": "ઈરાન અને ઈઝરાયેલ અમેરિકા વચ્ચેનું યુદ્ધ બંધ થવાનું નામ લેતું નથી. મિડલ ઈસ્ટમાં દિવસેને દિવસે સ્થિતિ ગંભીર બની રહી છે. આ બધા વચ્ચે ત્રણ દેશોના પ્રમુખોના દેશને નામ સંબોધન કઈક મોટું થવાના એંધાણ વ્યક્ત કરી રહ્યા છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/middle-east-war-update-public-addresses-of-3-powerful-leaders-donald-trump-albanese-starmer-471079 ",
-    "time": "2026-04-01T09:47:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -504,15 +531,6 @@ const newsData_gu = [
     "time": "2026-04-01T05:54:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સુહાગરાતે આ શું કાંડ કરી નાખ્યો દુલ્હને? લાફાવાળી થઈ ત્યારબાદ પતિનું માથું પણ ફૂટ્યું",
-    "desc": "લગ્ન પ્રસંગ એક એવા વિવાદમાં ફેરવાઈ ગયો કે બે પરિવારની ખુશીઓ વેરવિખેર થઈ ગઈ. લગ્ન બાદ સુહાગરાત પર પતિ અને પત્ની રૂમમાં ગયા અને પછી જે થયું તે કલ્પના બહાર હતું. ત્યારે એવો પણ સવાલ ઉઠે કે મરજી વિરુદ્ધ લગ્ન કરાવવાનો શું અર્થ? જાણો આખરે શું છે મામલો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/suhagrat-turned-into-a-horror-night-for-up-man-got-slapped-also-the-injury-in-head-471027 ",
-    "time": "2026-04-01T03:49:15.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ભારતની સૌથી સુરક્ષિત કાર બની ગઈ આ SUV; થાર, સિએરા અને નેક્સન પણ પાછળ, 5-સ્ટાર સેફ્ટીથી છે લેસ",
     "desc": "કિઆ સેલ્ટોસ (Kia Seltos) એ એકવાર ફરી સાબિત કરી દીધું છે કે તે માત્ર લુકમાં જ નહીં પરંતુ સેફ્ટીમાં સૌથી આગળ છે. મહત્વનું છે કે સેલ્ટોસને એડલ્ટ અને ચાઇલ્ડ સેફ્ટી બંને કેટેગરીમાં શાનદાર 5-સ્ટાર રેટિંગ મળ્યું છે.",
@@ -556,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/seekkuge-prasanna-highest-strike-rate-in-t20-innings-470920 ",
     "time": "2026-03-31T08:43:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSKની શરમજનક હારનો સૌથી મોટો ગુનેગાર કોણ ? જાણો કેપ્ટને કોના પર ફોડ્યું હારનું ઠીકરું",
-    "desc": "IPL 2026માં ચેન્નાઈ સુપર કિંગ્સને તેની પહેલી જ મેચમાં રાજસ્થાન રોયલ્સ સામે કારમી હારનો સામનો કરવો પડ્યો હતો. એમ એસ ધોની વિના રમવા ઉતરેલી ટીમ રાજસ્થાનના બોલરો સામે ટકી શકી નહોતી. હાર બાદ કેપ્ટન રુતુરાજ ગાયકવાડનું દર્દ છલકાયું છે અને તેણે હારના કારણો જણાવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/chennai-super-kings-lost-due-to-their-batting-captain-ruturaj-gaikwad-470897 ",
-    "time": "2026-03-31T06:00:26.000Z"
   },
   {
     "cat": "Entertainment",
