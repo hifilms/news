@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "‘আমার অভিযোগ গুরুত্ব দিলে রাহুলদাকে হয়তো হারাতাম না’, আর্টিস্ট ফোরামের বিরুদ্ধে বিস্ফোরক জীতু",
+    "desc": "“ফোরাম আমাকে কাঁচকলা দেখিয়েছে!” রাহুল বন্দ্যোপাধ্যায়ের মৃত্যুর পর যখন টলিউড উত্তাল, তখনই বিস্ফোরক অভিযোগ তুললেন অভিনেতা জীতু কমল। তাঁর দাবি, ঝড়ের মধ্যে শুটিং করতে অস্বীকার করায় তাঁকে হেনস্থা করা হয়েছিল, মেইল করেও ফোরামের সাড়া পাননি তিনি। শিল্পী সংগঠনের এই ‘উদাসীনতা’ কি তবে এক প্রতিভাবান অভিনেতার প্রাণ কেড়ে নিল? বড় প্রশ্ন তুললেন জীতু।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/jeetu-kamal-blames-artist-forum-negligence-rahul-banerjee-death_647400.html ",
+    "time": "2026-04-04T08:54:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "রক্তক্ষয়ী যুদ্ধ পেরিয়ে এবার আলোচনার টেবিলে পাকিস্তান ও আফগানিস্তান, রফাসূত্র খুঁজছে চিন",
+    "desc": "রক্তক্ষয়ী সংঘাত শেষে শান্তির বার্তা? আফগানিস্তানের তালিবান সরকার এবং পাকিস্তানের মধ্যে চিন-মধ্যস্থতায় শুরু হয়েছে শান্তি আলোচনা। গত কয়েক সপ্তাহের সংঘর্ষে শত শত মানুষের মৃত্যুর পর অবশেষে উরমুকি শহরে আলোচনায় বসল দুই দেশ। চিন জানাচ্ছে, আলোচনা ফলপ্রসূ হচ্ছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/china-mediates-pakistan-afghanistan-peace-talks-2026_647390.html ",
+    "time": "2026-04-04T08:10:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Artist Forum on Rahul Arunoday Banerjee's Death: ‘ছেলেটা অন্তত জানুক বাবার চলে যাওয়ার কারণ’, প্রযোজনা সংস্থার জবাবে অসন্তোষ, রাহুল অরুণোদয়ের মৃত্যু তদন্তে পুলিসের দ্বারস্থ আর্টিস্ট ফোরাম",
     "desc": "অভিনেতা রাহুল অরুণোদয় বন্দ্যোপাধ্যায়ের অকাল মৃত্যুতে শোকের ছায়া টলিউডে। কিন্তু এটি কি স্বাভাবিক মৃত্যু ছিল? উত্তর খুঁজতে এবার আইনি লড়াইয়ে আর্টিস্ট ফোরাম। প্রসেনজিৎ চট্টোপাধ্যায়ের কথায়, “ছেলেটা জানুক বাবা কেন চলে গেল।” রিজেন্ট পার্ক থানায় এফআইআর দায়ের করছে ফোরাম। স্বচ্ছ তদন্তের দাবিতে একজোট টলিউড।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -187,14 +205,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunoday-banerjee-death-mystery-timeline-gap-fatal-delay-explained-by-hospital-super_646772.html ",
     "time": "2026-03-31T10:05:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

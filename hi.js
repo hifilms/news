@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shreyas Iyer found in breach of IPL Code of Conduct, reprimanded alongside entire PBKS squad",
+    "desc": "In a major development for IPL 2025 finalists Punjab Kings, the side’s skipper, Shreyas Iyer, has been found guilty of breaching the IPL Code of Conduct for the second game in a row. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-found-in-breach-of-ipl-code-of-conduct-reprimanded-alongside-entire-pbks-squad-2026-04-04-1036277",
+    "time": "2026-04-04T09:12:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 Player battles to watch out for in IPL 2026 Match 9",
+    "desc": "Rajasthan Royals and Gujarat Titans are all set to continue their ongoing IPL (Indian Premier League) 2026 campaign. The two sides will meet in game 9 of the tournament at the Narendra Modi Stadium in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-rr-3-player-battles-to-watch-out-for-in-ipl-2026-match-9-2026-04-04-1036273",
+    "time": "2026-04-04T08:09:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'You cannot back down': R Ashwin weighs in on Ruturaj Gaikwad's showing after PBKS loss",
     "desc": "Chennai Super Kings continued their subpar form in the ongoing IPL (Indian Premier League) 2026. After being handed a humiliating defeat against Rajasthan Royals in their first game of the season, Chennai Super Kings took...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-pbks-memes-galore-as-sanju-samson-flops-again-for-chennai-super-kings-in-ipl-2026-2026-04-03-1036222",
     "time": "2026-04-03T15:28:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Dewald Brevis not playing for CSK vs PBKS in IPL 2026 clash in Chennai?",
-    "desc": "Star Chennai Super Kings batter Dewald Brevis has been ruled out of the marquee clash against Punjab Kings in the ongoing IPL 2026. He is dealing with a side strain during training and didn’t participate...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-dewald-brevis-not-playing-for-csk-vs-pbks-in-ipl-2026-clash-in-chennai-2026-04-03-1036214",
-    "time": "2026-04-03T13:49:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is MS Dhoni not playing for CSK vs PBKS in IPL 2026 clash in Chennai?",
-    "desc": "Legendary cricketer MS Dhoni missed out on Chennai Super Kings’ high-voltage clash against Punjab Kings at the MA Chidambaram Stadium on April 3. The keeper-batter is currently recovering from a calf strain and is expected...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ms-dhoni-not-playing-for-csk-vs-pbks-in-ipl-2026-clash-in-chennai-2026-04-03-1036213",
-    "time": "2026-04-03T13:38:38.000Z"
   }
 ];
