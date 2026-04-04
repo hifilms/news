@@ -1,5 +1,113 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Janhvi recalls seeing her morphed image on a porn site at 15",
+    "desc": "Janhvi Kapoor recently spoke about her first encounter with deepfakes, revealing how she once found her morphed images circulating online as a teenager. The actor admitted that while she initially tried to normalise the experience, it continues to trouble her even today.",
+    "img": "https://static.toiimg.com/photo/msid-130026696,imgsize-47942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoor-recalls-seeing-her-morphed-image-on-a-porn-site-at-15-confronts-paps-for-zooming-into-a-womans-body/articleshow/130026696.cms",
+    "time": "2026-04-04T20:53:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lok Sabha seats for southern states won't be reduced: Prime Minister",
+    "desc": "Prime Minister Narendra Modi assured southern states that their Lok Sabha seats would be protected, even as the total number of seats might increase nationally. He also criticized Kerala's LDF and UDF for alleged \"fake hostility\" and targeting the Sabarimala temple, promising action if NDA forms the government.",
+    "img": "https://static.toiimg.com/photo/msid-130026710,imgsize-826775.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/lok-sabha-seats-for-southern-states-wont-be-reduced-prime-minister/articleshow/130026697.cms",
+    "time": "2026-04-04T20:47:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Why does Trump want to pull out of NATO?",
+    "desc": "Why does the U.S. administration believe that NATO’s founding principles and membership need to be ‘re-examined’? Why was NATO formed, and what are the recent developments that have led to fissures? Can the U.S. easily exit NATO? How much does it contribute to the alliance?",
+    "img": "https://th-i.thgim.com/public/incoming/skgz7s/article70824689.ece/alternates/LANDSCAPE_1200/AP04_01_2026_000011B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/why-does-trump-want-to-pull-out-of-nato/article70824608.ece",
+    "time": "2026-04-04T20:40:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A village that rejects freebies &amp; doesn't allow political advertisements",
+    "desc": "In a unique move, several South Tamil Nadu villages are barring all political advertisements, including banners and flags, to ensure voters make independent decisions. Politicians can campaign but must remove all materials upon leaving. This practice aims to prevent propaganda influence and maintain village harmony.",
+    "img": "https://static.toiimg.com/photo/msid-130026689,imgsize-1458586.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/a-village-that-rejects-freebies-doesnt-allow-political-advertisements/articleshow/130026674.cms",
+    "time": "2026-04-04T20:37:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "campaign trail heats up in Kundara as three major fronts intensify their reach-out programmes",
+    "desc": "Incumbent MLA P.C. Vishnunadh of UDF is banking on his track record, while LDF’s Sajikumar promises transformative projects. Robin Radhakrishnan of the NDA is advocating for radical change while pledging direct access to Prime Minister Modi if elected.",
+    "img": "https://th-i.thgim.com/public/incoming/xxvgxt/article70824551.ece/alternates/LANDSCAPE_1200/80686_4_4_2026_20_30_27_1_05TVKO_KUNDARAUDFCANDIDATE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-campaign-trail-heats-up-in-kundara-as-three-major-fronts-intensify-their-reach-out-programmes/article70823079.ece",
+    "time": "2026-04-04T20:07:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government",
+    "desc": "The government will increase gas supply to urea plants to approximately 90% of their average consumption from Monday, boosting productivity for upcoming crop seasons. This move, considering available inventory and scheduled LNG arrivals, will also enhance gas supply to other industrial and commercial sectors by 10%.",
+    "img": "https://static.toiimg.com/photo/msid-130026614,imgsize-1025423.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/more-lng-supply-for-urea-plants-to-boost-production-government/articleshow/130026518.cms",
+    "time": "2026-04-04T20:06:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What are the concerns over the FCRA Bill?",
+    "desc": "How does the Home Ministry regulate foreign donations to NGOs in India? What are the key changes proposed to the Foreign Contribution (Regulation) Amendment Bill, 2026? Why has the Opposition objected to the Bill and why was the Bill deferred? What is its current status?",
+    "img": "https://th-i.thgim.com/public/incoming/pmb1la/article70824669.ece/alternates/LANDSCAPE_1200/20260401035L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/what-are-the-concerns-over-the-fcra-bill/article70824614.ece",
+    "time": "2026-04-04T19:46:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Raj Kapoor’s Peshawar Haveli suffers damage after rains, quake",
+    "desc": "A portion of the historic haveli of legendary Bollywood actor Raj Kapoor collapsed in Peshawar reportedly due to recent heavy rains followed by a strong earthquake on Friday night, officials and local residents said. According to PTI, the century-old Kapoor Haveli, a significant cultural site in Khyber Pakhtunkhwa province that was declared national heritage by the Pakistan government in 2016, suffered structural damage after continuous rains weakened the building, while tremors late Friday further destabilised its already dilapidated structure.",
+    "img": "https://static.toiimg.com/photo/msid-130026376,imgsize-134224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raj-kapoors-historic-kapoor-haveli-in-peshawar-suffers-damage-after-heavy-rains-tremors/articleshow/130026376.cms",
+    "time": "2026-04-04T19:34:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Close contest between three-time MLA and new face with family legacy",
+    "desc": "Among the key issues before the people is the long-pending demand of increased compensation for those who lost land to the Upper Krishna Project; another issue is the plan to expand the irrigated area for the implementation of Phase 3 of the project",
+    "img": "https://th-i.thgim.com/public/incoming/s15pbf/article70823769.ece/alternates/LANDSCAPE_1200/Meti-family-senG5IFOPEFN.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/close-contest-between-three-time-mla-and-new-face-with-family-legacy/article70819726.ece",
+    "time": "2026-04-04T19:15:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hrithik Roshan defends Ranbir's Ramayana amid 'bad VFX' debate",
+    "desc": "The teaser of Nitesh Tiwari's Ramayana starring Ranbir Kapoor has sparked a divided response, with a section of social media criticising its VFX as “video game-like.” Amid the ongoing debate, Hrithik Roshan has come out in support of filmmakers, urging audiences to view visual effects with more awareness.",
+    "img": "https://static.toiimg.com/photo/msid-130026137,imgsize-61044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-defends-ranbir-kapoors-ramayana-amid-bad-vfx-debate-maybe-its-just-a-style-you-didnt-expect/articleshow/130026137.cms",
+    "time": "2026-04-04T19:10:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rashid sheds light on GT skipper comeback after RR loss",
+    "desc": "Rashid Khan said Shubman Gill is recovering well from a muscle spasm and could return soon after Gujarat Titans’ narrow loss to Rajasthan Royals. He admitted GT lost momentum with back-to-back wickets despite a strong start. Chasing 211, they fell short in the final over, with Rashid praising Tushar Deshpande’s “exceptional yorkers” for sealing the game.",
+    "img": "https://static.toiimg.com/photo/msid-130025912,imgsize-32634.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/shubman-gill-injury-update-rashid-khan-sheds-light-on-gt-skipper-comeback-after-rr-loss/articleshow/130025890.cms",
+    "time": "2026-04-04T18:51:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Ro Khanna",
+    "desc": "The Democratic congressman, who combines points from America First nationalism with the welfarism of the Democratic left, proposes state support for the development of manufacturing and the working class, and calls for moderation in maximalist tech capitalism",
+    "img": "https://th-i.thgim.com/public/news/national/t4d4co/article70824483.ece/alternates/LANDSCAPE_1200/Ro%20Khanna_Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ro-khanna-exploring-the-new-middle/article70824484.ece",
+    "time": "2026-04-04T18:48:48.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "National Conference, Congress seek ‘decent burial’ of man killed in Ganderbal encounter",
     "desc": "MLAs in the J&K Assembly demanded the handover of Rashid Ahmad Mughal's body for a dignified burial, disputing the Army's account of the Ganderbal encounter. They asserted the family's constitutional right to perform last rites, even as a magisterial inquiry is underway. Legislators also called for a judicial probe and a government statement on the incident.",
@@ -396,6 +504,24 @@ const newsData_en = [
     "time": "2026-04-04T10:47:50.000Z"
   },
   {
+    "cat": "Tech",
+    "title": "Ahead of Greek social media ban, parents desperate to separate children from phones",
+    "desc": "At the EU-funded Greek Safer Internet Centre in Athens, calls to a helpline which offers support to child victims of cyberbullying more than doubled between 2024 and 2025, said George Kormas, who ‌runs the helpline",
+    "img": "https://th-i.thgim.com/public/incoming/4y3q5y/article70818532.ece/alternates/LANDSCAPE_1200/2026-04-02T085433Z_160090164_RC2PTJAO7JBF_RTRMADP_3_GREECE-SOCIALMEDIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/ahead-of-greek-social-media-ban-parents-desperate-to-separate-children-from-phones/article70818531.ece",
+    "time": "2026-04-04T10:47:06.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Oura Ring 4 Review",
+    "desc": "Priced at ₹28,900 for Black and Silver variants and ₹39,900 for premium finishes like Brushed Silver, Gold, Rose Gold, and Stealth, the Oura Ring 4 positions itself as a lifestyle accessory as much as a health tracker",
+    "img": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/j7g1fd/article70818963.ece/alternates/LANDSCAPE_1200/IMG_9058.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/oura-ring-4-review-refined-insights-and-design-make-for-a-stand-out-wearable/article70818951.ece",
+    "time": "2026-04-04T10:46:47.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Over 40% candidates are 'crorepatis'; how big is the wealth gap",
     "desc": "Puducherry's assembly elections reveal a significant presence of wealthy candidates, with 41% declaring assets over Rs 1 crore. Jose Charles Martin leads with over Rs 609 crore, highlighting a stark wealth disparity. This trend shows a notable increase in crorepatis compared to previous elections, with major parties fielding a high proportion of affluent contestants.",
@@ -486,15 +612,6 @@ const newsData_en = [
     "time": "2026-04-04T08:46:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rohan Shankar denies exiting Akshay Kumar’s ‘Hera Pheri 3’",
-    "desc": "In a spirited defense, Rohan Shankar, known for his work on 'Hera Pheri 3', has rejected the swirling speculation about his withdrawal from the project, labeling the claims as inaccurate. He stated that while talks had been initiated, the film’s progress has hit a snag due to legal troubles.",
-    "img": "https://static.toiimg.com/photo/msid-130015960,imgsize-289450.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/writer-rohan-shankar-denies-exiting-akshay-kumars-hera-pheri-3-fake-news-is-being-spread-in-my-name/articleshow/130015960.cms",
-    "time": "2026-04-04T08:40:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'When you're not getting games ... ': Kuldeep Yadav on limited chances in T20 World Cup",
     "desc": "Despite being benched for most of the T20 World Cup, Kuldeep Yadav maintained a positive attitude, staying involved and prepared. He emphasized the importance of consistent preparation and sticking to his strengths as an attacking spinner. Kuldeep is now eager to make an impact in IPL 2026, having already shown good form.",
@@ -511,24 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/factually-incorrect-india-rejects-payment-issues-claim-over-iranian-crude-tankers-diversion-to-china/articleshow/130015805.cms",
     "time": "2026-04-04T08:31:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Jennifer Lawrence",
-    "desc": "At just 22, Oscar winner Jennifer Lawrence became a beacon for body positivity, boldly declaring she'd prefer to appear 'chubby' on screen than conform to unrealistic beauty standards. By choosing not to diet for her renowned role as Katniss Everdeen, she stood firm for authentic and empowered portrayals, resonating with countless young admirers.",
-    "img": "https://static.toiimg.com/photo/msid-130015622,imgsize-82608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-jennifer-lawrence-id-rather-look-chubby-on-screen-and-like-a-person-in-real-life/articleshow/130015622.cms",
-    "time": "2026-04-04T08:15:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Adivi Sesh and Mrunal Thakur starrer 'Dacoit' trailer out",
-    "desc": "Adivi Sesh and Mrunal Thakur's 'Dacoit' trailer reveals a dramatic tale of love, betrayal, and revenge. Their idyllic future shatters when Sesh lands in prison, leading to a ruthless escape plan. A twist emerges with a child, hinting at a complex past and a high-stakes heist driven by desperation and vengeance.",
-    "img": "https://static.toiimg.com/photo/msid-130015645,imgsize-277740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/dacoit-trailer-adivi-sesh-and-mrunal-thakurs-gritty-love-story-turns-into-a-revenge-drama-with-heists-and-car-chases/articleshow/130015645.cms",
-    "time": "2026-04-04T08:12:57.000Z"
   },
   {
     "cat": "Sports",
@@ -574,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/peaky-blinders-will-enter-new-era-with-jamie-bell-as-duke-shelby-in-sequel-series/article70822461.ece",
     "time": "2026-04-04T05:57:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli’s cheeky response to ‘overseas player’ taunts shuts down London trolls",
-    "desc": "Virat Kohli has made an immediate impact in the IPL, leading Royal Challengers Bengaluru to a season-opening victory. Despite a break and time spent in London with family, Kohli's performance remains strong. He humorously addressed social media jokes about his overseas status, emphasizing his commitment to the sport and the validation that comes with hard-earned success.",
-    "img": "https://static.toiimg.com/photo/msid-130013403,imgsize-170382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohlis-cheeky-response-to-overseas-player-taunts-shuts-down-london-trolls/articleshow/130013414.cms",
-    "time": "2026-04-04T05:12:37.000Z"
   },
   {
     "cat": "World",
@@ -765,15 +855,6 @@ const newsData_en = [
     "time": "2026-04-03T08:01:13.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Oura Ring 4 Review",
-    "desc": "Priced at ₹28,900 for Black and Silver variants and ₹39,900 for premium finishes like Brushed Silver, Gold, Rose Gold, and Stealth, the Oura Ring 4 positions itself as a lifestyle accessory as much as a health tracker",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/j7g1fd/article70818963.ece/alternates/LANDSCAPE_1200/IMG_9058.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/oura-ring-4-review-refined-insights-and-design-make-for-a-stand-out-wearable/article70818951.ece",
-    "time": "2026-04-03T07:05:21.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Toll plazas to go cashless from April 10; cash payments to be completely scrapped",
     "desc": "National highways will cease accepting cash payments at toll plazas from April 10, transitioning to a fully digital system. This move by the NHAI aims to enhance efficiency and reduce congestion by exclusively using FASTag and UPI. Concurrently, toll rates on national highways and expressways in Uttar Pradesh have seen a slight increase, affecting various vehicle types.",
@@ -781,24 +862,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/toll-plazas-to-go-cashless-from-april-10-cash-payments-to-be-completely-scrapped/articleshow/129996126.cms",
     "time": "2026-04-03T07:04:35.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Myanmar junta chief Min Aung Hlaing elected President by pro-military parliament",
-    "desc": "The 69-year-old general orchestrated a 2021 coup against the administration of Nobel Peace Prize winner Aung San Suu Kyi ‌and placed her under arrest, sparking widespread protests that morphed into nationwide armed resistance against the junta",
-    "img": "https://th-i.thgim.com/public/incoming/yi7fyp/article70818851.ece/alternates/LANDSCAPE_1200/2026-04-03T000830Z_1859343042_RC2BHKALM1JW_RTRMADP_3_MYANMAR-POLITICS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/myanmar-junta-chief-min-aung-hlaing-elected-president-by-pro-military-parliament/article70818847.ece",
-    "time": "2026-04-03T06:36:37.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Ahead of Greek social media ban, parents desperate to separate children from phones",
-    "desc": "At the EU-funded Greek Safer Internet Centre in Athens, calls to a helpline which offers support to child victims of cyberbullying more than doubled between 2024 and 2025, said George Kormas, who ‌runs the helpline",
-    "img": "https://th-i.thgim.com/public/incoming/4y3q5y/article70818532.ece/alternates/LANDSCAPE_1200/2026-04-02T085433Z_160090164_RC2PTJAO7JBF_RTRMADP_3_GREECE-SOCIALMEDIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/ahead-of-greek-social-media-ban-parents-desperate-to-separate-children-from-phones/article70818531.ece",
-    "time": "2026-04-03T05:40:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/ge-aerospace-delivers-sixth-f404-in20-engine-for-tejas-lca-mk1a/article70814550.ece",
     "time": "2026-04-02T17:23:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Breaking down benefits for individuals",
-    "desc": "As per the Income Tax Act 2025, which comes into effect from April 1, 2026, Forms 15G and 15H merged into a single unified Form 121; Form 26AS renamed as Form 168 and much more...",
-    "img": "https://th-i.thgim.com/public/incoming/gto38j/article70806851.ece/alternates/LANDSCAPE_1200/iStock-650700180.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/new-income-tax-act-2025-breaking-down-benefits-for-individuals/article70805979.ece",
-    "time": "2026-04-02T12:28:36.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Every ride has a price",
-    "desc": "The first internal combustion-powered cabs in London with taximeters are believed to have begun their operations on March 22, 1907. In a world where ride-hailing services with app-based GPS are on the rise, taximeters still remain in vogue in traditional taxis and autorickshaws. A.S.Ganesh takes you on a ride to learn more about these instruments…",
-    "img": "https://th-i.thgim.com/public/incoming/59upcz/article70730774.ece/alternates/LANDSCAPE_1200/19SM_Taxi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/every-ride-has-a-price/article70730816.ece",
-    "time": "2026-04-02T09:09:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Government exempts Customs Duty for 40 petrochemical products amid West Asia crisis",
-    "desc": "“This measure has been taken as a temporary and targeted relief in order to ensure continued availability of critical petrochemical inputs for domestic industry, reduce cost pressures on downstream sectors, and safeguard supply stability in the country,” said an official press statement.",
-    "img": "https://th-i.thgim.com/public/incoming/p97aq3/article70814214.ece/alternates/LANDSCAPE_1200/iStock-2163906811.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/government-exempts-critical-petrochemical-products-from-customs-duty-amid-west-asia-crisis/article70814192.ece",
-    "time": "2026-04-02T07:47:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Commercial LPG prices hiked 10%, jet fuel rates up 9% for domestic airlines",
-    "desc": "ATF rates for international flights more than doubled, prompting IndiGo to add a fuel surcharge of ₹10,000 on long-haul routes; Centre says OMCs are still absorbing losses due to the surge in global crude rates",
-    "img": "https://th-i.thgim.com/public/incoming/8a02z3/article70809820.ece/alternates/LANDSCAPE_1200/PTI03_18_2026_000319A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jet-fuel-prices-rise-doubled-commercial-lpg-price-increased/article70809777.ece",
-    "time": "2026-04-01T17:27:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "IndiGo revises fuel charges for domestic, international flights",
-    "desc": "From March 14 onwards, IndiGo has already been levying fuel charges ranging from ₹425 to ₹2,300 on domestic and international flight tickets, as the fuel prices jumped in the wake of the West Asia conflict",
-    "img": "https://th-i.thgim.com/public/incoming/u2zsg5/article70812150.ece/alternates/LANDSCAPE_1200/2026-03-31T102038Z_1438624125_RC2E81AVSRB8_RTRMADP_3_INDIGO-CEO.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/indigo-revises-fuel-charges-for-domestic-international-flights/article70812117.ece",
-    "time": "2026-04-01T14:56:07.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "CoinDCX launches ₹100 crore cybersecurity network after impersonation-linked controversy",
-    "desc": "CoinDCX co-founders Sumit Gupta and Neeraj Khandelwal spoke about their arrests and announced the launch of the ₹100 crore Digital Suraksha Network to support independent research, new standards, and educational tools for both state cybercrime cells and everyday Indian users",
-    "img": "https://th-i.thgim.com/public/incoming/d4xn1v/article70810769.ece/alternates/LANDSCAPE_1200/2026-03-17T080654Z_180858490_RC22PGATT48E_RTRMADP_3_CRYPTO-BITCOIN-CITIGROUP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/coindcx-launches-100-crore-cybersecurity-network-after-impersonation-linked-controversy/article70810783.ece",
-    "time": "2026-04-01T10:04:21.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "With NavIC setback, India unable to use satellite system for security purposes: experts",
-    "desc": "A major setback occurred after the last atomic clock on board the Indian Regional Navigational Satellite System-1F (IRNSS-1F) stopped functioning on March 10, leaving only three satellites of the NavIC constellation in function; armed forces of countries use the navigation satellite system for logistics, mapping and operational planning, and relying on a foreign navigation satellite system could pose security issues, especially during wars",
-    "img": "https://th-i.thgim.com/public/incoming/46xqm/article70784020.ece/alternates/LANDSCAPE_1200/PTI8_30_2017_000133B.JPEG-07231.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/another-satellite-in-navic-satellite-system-unable-to-function-limiting-its-security-capabilities-amid-concerns-of-reliance-on-foreign-navigation-systems/article70783744.ece",
-    "time": "2026-04-01T09:59:16.000Z"
   }
 ];
