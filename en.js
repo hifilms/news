@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "National Conference, Congress seek ‘decent burial’ of man killed in Ganderbal encounter",
+    "desc": "MLAs in the J&K Assembly demanded the handover of Rashid Ahmad Mughal's body for a dignified burial, disputing the Army's account of the Ganderbal encounter. They asserted the family's constitutional right to perform last rites, even as a magisterial inquiry is underway. Legislators also called for a judicial probe and a government statement on the incident.",
+    "img": "https://static.toiimg.com/photo/msid-130025546,imgsize-2094377.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/national-conference-congress-seek-decent-burial-of-man-killed-in-ganderbal-encounter/articleshow/130025458.cms",
+    "time": "2026-04-04T18:28:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jammu &amp; Kashmir opens higher education for private sector",
+    "desc": "Jammu and Kashmir's assembly has greenlit a bill to establish private universities, a move hailed as historic. Education Minister Sakeena Itoo stated this will significantly enhance higher education access for local students and bolster the region's economy by retaining talent. The legislation also aims to ensure quality and student protection within these new institutions.",
+    "img": "https://static.toiimg.com/photo/msid-130025383,imgsize-666666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-kashmir-opens-higher-education-for-private-sector/articleshow/130025167.cms",
+    "time": "2026-04-04T18:21:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. CM Stalin, Union Minister clash over three-language formula ahead of T.N. polls",
+    "desc": "Tamil Nadu Chief Minister M.K. Stalin says Centre has failed to make Tamil mandatory in KVs or appoint sufficient Tamil teachers, Education Minister says DMK is creating barriers that deny youth the chance to become multilingual global leaders",
+    "img": "https://th-i.thgim.com/public/incoming/wpye6f/article70824590.ece/alternates/LANDSCAPE_1200/2315_4_4_2026_20_24_17_1_SNKLDMK.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/stalin-dharmendra-pradhan-clash-over-cbses-three-language-formula-ahead-of-tn-polls/article70823419.ece",
+    "time": "2026-04-04T18:21:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Deshpande defends 11 in final over as Royals beat Titans by six runs",
+    "desc": "Rajasthan Royals edged Gujarat Titans by 6 runs in a last-ball thriller after posting 210/6. Tushar Deshpande held his nerve in the final over, sealing the win. Sai Sudharsan’s 73 kept Gujarat in the chase, but Ravi Bishnoi’s four wickets proved crucial. Royals moved to the top of the table with a strong net run rate.",
+    "img": "https://static.toiimg.com/photo/msid-130024878,imgsize-44386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-tushar-deshpande-defends-11-in-final-over-as-royals-beat-titans-by-six-runs/articleshow/130024805.cms",
+    "time": "2026-04-04T18:16:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Will launch probe into Karunanidhi’s death after coming back to power, says Palaniswami",
+    "desc": "He was responding to DMK president and Chief Minister M.K. Stalin’s contention that the AIADMK leader has no right or locus standi to comment on the latter’s relationship with his father at an election campaign the previous day",
+    "img": "https://th-i.thgim.com/public/incoming/jyjaue/article70824296.ece/alternates/LANDSCAPE_1200/9712_4_4_2026_18_19_25_2__DSC7687.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/will-launch-probe-intokarunanidhisdeath-after-coming-back-to-power-says-palaniswami/article70823941.ece",
+    "time": "2026-04-04T18:09:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir Kapoor says he initially rejected Ramayana ‘out of fear’",
+    "desc": "When the first glimpse of Ramayana dropped on Hanuman Jayanti, it instantly grabbed attention, with Ranbir Kapoor’s look as Lord Ram becoming one of the most talked-about reveals. But the actor has now admitted that his first instinct was to turn down the role, recalling, “Out of fear, I said no... I’m not fit enough.” Ranbir revealed that when producer Namit Malhotra first approached him, there wasn’t even a script narration—just a direct question.",
+    "img": "https://static.toiimg.com/photo/msid-130024420,imgsize-69086.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-says-he-initially-rejected-ramayana-out-of-fear-im-not-fit-enough-to-play-lord-ram/articleshow/130024420.cms",
+    "time": "2026-04-04T17:42:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Explosion rocks Sudan’s capital; police blame war-era landmine",
+    "desc": "Sudanese police said that the explosion occurred in the Burri neighbourhood in eastern Khartoum and was caused by a landmine, a remnant of the war, which detonated after “some residents set fire to waste” in the area",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/explosion-rocks-sudans-capital-police-blame-war-era-landmine/article70824494.ece",
+    "time": "2026-04-04T17:14:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajasthan High Court upholds cancellation of 2021 police Sub-Inspector exam over paper leak",
+    "desc": "The Division Bench says there should be ‘no political appointments’ within the Rajasthan Public Service Commission, directs the State government to enact a new law governing RPSC selection, and ensure complete transparency in recruitment processes",
+    "img": "https://th-i.thgim.com/public/incoming/tw7k76/article70824509.ece/alternates/LANDSCAPE_1200/01_Congress_government_20_JPR.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-high-court-upholds-cancellation-of-2021-policesub-inspector-exam-over-paper-leak/article70823951.ece",
+    "time": "2026-04-04T17:14:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Middle East conflict may hit India’s exports beyond region if prolonged, says government",
+    "desc": "A prolonged Middle East conflict could significantly impact India's exports, both regionally and globally, due to supply chain disruptions, Commerce Secretary Rajesh Agrawal warned. He urged the pharmaceutical industry to reduce reliance on imported raw materials and build stronger domestic capacities to mitigate these risks and ensure continued growth in the sector.",
+    "img": "https://static.toiimg.com/photo/msid-130023729,imgsize-160936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-conflict-may-hit-indias-exports-beyond-region-if-prolonged-says-government/articleshow/130023689.cms",
+    "time": "2026-04-04T17:00:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Haaland’s hat-trick eliminates Liverpool, sends Man City to FA Cup semis",
+    "desc": "Manchester City thrashed Liverpool 4-0 in the FA Cup quarter-final, powered by Erling Haaland’s hat-trick. Antoine Semenyo also scored, while Mohamed Salah missed a penalty. The defeat deepens Liverpool’s poor run and increases pressure on Arne Slot. City advance in strong form, while Liverpool must regroup quickly with their season and Champions League hopes under threat.",
+    "img": "https://static.toiimg.com/photo/msid-130023526,imgsize-34282.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/erling-haalands-hat-trick-eliminates-liverpool-sends-manchester-city-to-fa-cup-semis/articleshow/130023451.cms",
+    "time": "2026-04-04T16:49:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Piyush reveals why wife refused to leave him despite infidelity",
+    "desc": "Piyush Mishra is once again speaking candidly about his marriage, this time shedding light on why his wife chose to stay despite his infidelity. Recalling her unwavering stance, the actor-writer said, “She told me, ‘I will not divorce you no matter what,’” even as he reflected on his own delayed understanding of responsibility as a husband, a phase he had earlier documented in his memoir Tumhari Auqaat Kya Hai, Piyush Mishra.",
+    "img": "https://static.toiimg.com/photo/msid-130023439,imgsize-77480.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/piyush-mishra-reveals-why-wife-priya-refused-to-leave-him-despite-infidelity-it-took-me-1015-years-to-realise-she-is-my-wife/articleshow/130023439.cms",
+    "time": "2026-04-04T16:48:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s pharma exports rise 5.6% to $28.29 billion till Feb in FY26",
+    "desc": "India's pharmaceutical exports are thriving, reaching $28.29 billion in April-February FY26, a 5.6% rise despite global challenges. The sector, currently valued at $60 billion, is projected to hit $130 billion by 2030. Leaders are optimistic about continued growth, even with potential US tariff impacts on future exports.",
+    "img": "https://static.toiimg.com/photo/msid-130023416,imgsize-123522.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-pharma-exports-rise-5-6-to-28-29-billion-till-feb-in-fy26-sector-seen-doubling-to-130-billion-by-2030/articleshow/130023294.cms",
+    "time": "2026-04-04T16:39:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Is there any space for Vijay's TVK in the duopoly between DMK-AIADMK?",
+    "desc": "Actor Vijay Thalapathy's new party, TVK, is emerging as a third option in Tamil Nadu politics, challenging the long-standing dominance of DMK and AIADMK. With populist welfare promises and a strong social media presence, TVK aims to capture the significant unaligned vote, though electoral history suggests challenges remain.",
+    "img": "https://static.toiimg.com/photo/msid-130023724,imgsize-1518975.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-polls-is-there-any-space-for-vijays-tvk-in-the-duopoly-between-dmk-aiadmk/articleshow/130022979.cms",
+    "time": "2026-04-04T16:23:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Battle of the 'tea state': High-stakes showdown in Gogoi's Jorhat and Sarma's Jalukbari fortress",
+    "desc": "Assam's 2026 Assembly elections are set for a defining clash, pitting the ruling NDA against a resurgent Congress. Chief Minister Himanta Biswa Sarma faces a challenge in his Jalukbari stronghold, while Congress leader Gaurav Gogoi has turned Jorhat into a high-stakes battleground. The outcome will shape the state's political future.",
+    "img": "https://static.toiimg.com/photo/msid-130024002,imgsize-49934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/battle-of-the-tea-state-high-stakes-showdown-in-gogois-jorhat-and-sarmas-jalukbari-fortress/articleshow/130023010.cms",
+    "time": "2026-04-04T16:14:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "154.2 kmph! Ashok Sharma fires the fastest bowl of IPL 2026",
+    "desc": "Ashok Sharma stole the show with a 154.2 kmph delivery, the fastest of IPL 2026, surpassing Anrich Nortje. The Gujarat Titans pacer impressed with consistent pace. Despite this, Rajasthan Royals posted 210/6, powered by Yashasvi Jaiswal’s fifty and Dhruv Jurel’s 75. Gujarat, missing Shubman Gill, faced a tough chase against a confident Rajasthan side.",
+    "img": "https://static.toiimg.com/photo/msid-130022936,imgsize-44856.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/154-2-kmph-ashok-sharma-fires-the-fastest-delivery-of-ipl-2026/articleshow/130022811.cms",
+    "time": "2026-04-04T16:08:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunil says Ranbir lacks Arun Govil’s ‘innocence’",
+    "desc": "The teaser of Ramayana has sparked divided reactions, and now Sunil Lahri has weighed in with a critical take on Ranbir Kapoor’s portrayal of Lord Ram. In an interview, Sunil Lahri admitted that while Ranbir’s look works to an extent, it lacks a certain quality associated with the character.",
+    "img": "https://static.toiimg.com/photo/msid-130022824,imgsize-96360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-sunil-lahri-says-ranbir-kapoor-lacks-arun-govils-patience-calm-innocence-as-lord-ram-he-suits-more-for-laxman-or-bharat/articleshow/130022824.cms",
+    "time": "2026-04-04T16:00:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lots of people have forgotten that we are champions: RCB vice-captain Jitesh Sharma",
+    "desc": "By the time RCB will line up for its game against CSK, a full week would have passed since Rajat Patidar’s men played a match – the IPL opener against Sunrisers Hyderabad, which they won by six wickets",
+    "img": "https://th-i.thgim.com/public/incoming/zhaora/article70824297.ece/alternates/LANDSCAPE_1200/_DSC0301.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-rcb-vs-csk-lots-of-people-have-forgotten-that-we-are-champions-rcb-vice-captain-jitesh-sharma/article70823794.ece",
+    "time": "2026-04-04T16:00:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rift between 'ghatak' MP and Kejriwal's 'soldiers' turns ugly — the showdown explained",
+    "desc": "Aam Aadmi Party MP Raghav Chadha has broken his silence after being removed as Rajya Sabha deputy leader. He denies allegations of 'soft PR' and deviating from the party line. Chadha states his silence should not be mistaken for defeat. He challenges his party to provide evidence for their claims. The controversy has drawn reactions from political opponents.",
+    "img": "https://static.toiimg.com/photo/msid-130022392,imgsize-36888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/raghav-chadha-vs-aap-rift-between-ghatak-mp-and-kejriwals-soldiers-turns-ugly-the-showdown-explained/articleshow/130022010.cms",
+    "time": "2026-04-04T15:22:31.000Z"
+  },
+  {
     "cat": "Business",
     "title": "In search of an ideal investment advice during war",
     "desc": "Finfluencers, brokerages and even mutual fund companies advice that the current market correction can be an opportunity but experts caution a straight ‘buy the dip’ may just not work in one-time events such as a war",
@@ -52,42 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/vaibhav-sooryavanshi-yashasvi-jaiswal-script-ipl-history-become-fastest-indian-pair-to-/articleshow/130021307.cms",
     "time": "2026-04-04T14:25:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Locals attack police, snatch their arms after a man dies in custody in Bihar’s Katihar",
-    "desc": "Police claim that the youth tried to end his life by hanging himself in the cell but died on the way to the hospital; victim’s family claims he was arrested a day earlier than claimed and tortured",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/locals-attack-police-snatch-their-arms-after-a-man-dies-in-custody-in-bihars-katihar/article70823471.ece",
-    "time": "2026-04-04T14:18:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil-speaking electorate holds key to Devikulam constituency",
-    "desc": "The Devikulam constituency will feature a notable “battle of Rajas,” with candidates F. Raja from the UDF, A. Raja from the LDF, and S. Rajendran of the NDA. Rajendran’s shift to the BJP could disrupt traditional voting patterns, while local residents express concerns over unresolved issues like housing and healthcare.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-tamil-speaking-electorate-holds-key-to-devikulam-constituency/article70823468.ece",
-    "time": "2026-04-04T14:16:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Close contest between three-time MLA and new face with family legacy",
-    "desc": "Among the key issues before the people is the long-pending demand of increased compensation for those who lost land to the Upper Krishna Project; another issue is the plan to expand the irrigated area for the implementation of Phase 3 of the project",
-    "img": "https://th-i.thgim.com/public/incoming/s15pbf/article70823769.ece/alternates/LANDSCAPE_1200/Meti-family-senG5IFOPEFN.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/close-contest-between-three-time-mla-and-new-face-with-family-legacy/article70819726.ece",
-    "time": "2026-04-04T14:15:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pinarayi slams Rahul for drawing equivalence between LDF and Hindutva forces in Chhattisgarh",
-    "desc": "Kerala Chief Minister says the Congress leader’s “brazenly misleading” statement smacks of an “impudence stemming from social and political illiteracy and ignorance”; he says the Congress’ “complacency and ideological ambiguity” in politically resisting Hindu majoritarian forces, including their trespasses on minorities, paved the way for the ascendancy of the Sangh Parivar-backed BJP in India",
-    "img": "https://th-i.thgim.com/public/incoming/taajox/article70823764.ece/alternates/LANDSCAPE_1200/NH31PinarayiVijayan02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/pinarayi-slams-rahul-for-drawing-equivalence-between-ldf-and-hindutva-forces-in-chhattisgarh/article70823547.ece",
-    "time": "2026-04-04T14:11:36.000Z"
   },
   {
     "cat": "Sports",
@@ -414,24 +540,6 @@ const newsData_en = [
     "time": "2026-04-04T08:09:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Director Karthik Subbaraj teases 'Jigarthanda 3' plans",
-    "desc": "Director Karthik Subbaraj has confirmed plans for 'Jigarthanda 3,' revealing an idea is already in place. The acclaimed franchise, known for its unique blend of gangster narratives and cinema, has sparked immense fan excitement. Audiences eagerly anticipate who will embody the next formidable gangster role, following Bobby Simha and Raghava Lawrence's impactful performances.",
-    "img": "https://static.toiimg.com/photo/msid-130015423,imgsize-116798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karthik-subbaraj-teases-jigarthanda-3-plans-director-says-i-already-have-an-idea/articleshow/130015423.cms",
-    "time": "2026-04-04T07:58:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi will face 'bouncer threat', warns ex-India player",
-    "desc": "All eyes are on Vaibhav Sooryavanshi as Rajasthan Royals face Gujarat Titans. Aakash Chopra predicts bowlers will target the young star with short balls and wide lines. Rajasthan, with a winning start, is unlikely to change their lineup. Gujarat's top order must perform, while questions linger over their middle order and bowling options.",
-    "img": "https://static.toiimg.com/photo/msid-130015407,imgsize-236744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/vaibhav-sooryavanshi-will-face-bouncer-threat-warns-ex-india-player/articleshow/130015334.cms",
-    "time": "2026-04-04T07:54:11.000Z"
-  },
-  {
     "cat": "Business",
     "title": "IFFCO records highest profit and overall performance in FY26, set to cross Rs 4,106 crore PBT",
     "desc": "IFFCO has achieved its highest-ever Profit Before Tax, projected to exceed Rs 4,106 crore for FY 2025-26, driven by robust fertiliser production and sales. The cooperative saw significant dispatches of both conventional and nano fertilisers, including new nano zinc and copper variants. IFFCO remains committed to farmer prosperity through innovation and balanced crop nutrition.",
@@ -439,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/iffco-set-to-cross-rs-4106-crore-pbt-this-year-on-strong-fertiliser-sales/articleshow/130013526.cms",
     "time": "2026-04-04T07:51:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "KJo-backed 'Nazdeekiyan' is inspired by SRK starrer KANK",
-    "desc": "Karan Johar's latest web series, 'Nazdeekiyan,' draws inspiration from his iconic 2006 film 'Kabhi Alvida Naa Kehna,' delving into the complexities of loyalty and desire in a modern context. While it echoes the emotional essence of its predecessor, this series carves its own path with a unique narrative and fresh backdrop, featuring rising stars Taha Shah Badussha and Nikita Dutta. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130015223,imgsize-186370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-backed-nazdeekiyan-is-inspired-by-shah-rukh-khan-and-rani-mukerji-starrer-kabhi-alvida-naa-kehna-reports/articleshow/130015223.cms",
-    "time": "2026-04-04T07:42:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -459,15 +558,6 @@ const newsData_en = [
     "time": "2026-04-04T07:23:46.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Two innings don’t define him’: Fleming backs Sanju Samson amid CSK struggles",
-    "desc": "Despite Sanju Samson's sluggish start for Chennai Super Kings in IPL 2026, coach Stephen Fleming remains confident, highlighting the batter's proven match-winning ability and good form in training. Samson's early scores of 6 and 7 have raised eyebrows, especially given his stellar T20 World Cup performance. Fleming urged patience, emphasizing that two innings don't define a player's concern.",
-    "img": "https://static.toiimg.com/photo/msid-130014767,imgsize-110598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/two-innings-dont-define-him-fleming-backs-sanju-samson-amid-csk-struggles/articleshow/130014780.cms",
-    "time": "2026-04-04T07:02:53.000Z"
-  },
-  {
     "cat": "World",
     "title": "Downed planes spell new peril for Trump as Tehran hunts missing U.S. pilot",
     "desc": "The prospect of a U.S. service person alive and on the run in Iran raises the stakes for Washington in a conflict with low public support among Americans ‌and no sign of an imminent end",
@@ -477,15 +567,6 @@ const newsData_en = [
     "time": "2026-04-04T06:55:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Nothing left in Left': Rahul Gandhi alleges ‘BJP-RSS-LDF nexus’ during Kerala poll rally",
-    "desc": "Rahul Gandhi accused Kerala's LDF and BJP of a hidden understanding, claiming Chief Minister Pinarayi Vijayan aligns with those attacking minorities nationwide. Gandhi highlighted a senior Left leader's presence as proof of a fundamental shift in the LDF, asserting it has lost its 'Left' identity and is now guided by a communal 'hidden hand' in partnership with the BJP-RSS..",
-    "img": "https://static.toiimg.com/photo/msid-130014852,imgsize-21460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nothing-left-in-left-rahul-gandhi-alleges-bjp-rss-ldf-nexus-during-kerala-poll-rally/articleshow/130014693.cms",
-    "time": "2026-04-04T06:52:43.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Peaky Blinders' will enter new era with Jamie Bell as Duke Shelby in sequel series",
     "desc": "Also joining the cast for the show, which has received an order for two new six-episode seasons, are ‘Stranger Things’ alum Charlie Heaton as co-lead as well as actors Lashana Lynch, Jessica Brown Findlay and Lucy Karczewski.",
@@ -493,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/peaky-blinders-will-enter-new-era-with-jamie-bell-as-duke-shelby-in-sequel-series/article70822461.ece",
     "time": "2026-04-04T05:57:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Calculated Hindi imposition’: MK Stalin slams Centre over CBSE’s new three-language curriculum",
-    "desc": "Tamil Nadu Chief Minister M K Stalin has strongly criticized the CBSE's new curriculum framework. He labels it a linguistic imposition that favors Hindi over regional languages. Stalin argues this policy undermines federalism and marginalizes non-Hindi-speaking states. He urges the Union government to respect India's linguistic diversity and protect students' rights across all states",
-    "img": "https://static.toiimg.com/photo/msid-130013958,imgsize-27006.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/calculated-hindi-imposition-mk-stalin-slams-centre-over-cbses-new-three-language-curriculum/articleshow/130013760.cms",
-    "time": "2026-04-04T05:39:19.000Z"
   },
   {
     "cat": "Sports",
@@ -531,15 +603,6 @@ const newsData_en = [
     "time": "2026-04-04T04:13:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Shashi Tharoor's convoy blocked in Kerala's Wandoor, five men assault his gunman, driver",
-    "desc": "Congress MP Shashi Tharoor's convoy faced an alleged attack in Kerala's Wandoor on Friday evening. Two vehicles reportedly blocked the road, leading to an assault on Tharoor's gunman and driver when they attempted to clear the obstruction. Police have arrested one of the five identified accused and are pursuing the others.",
-    "img": "https://static.toiimg.com/photo/msid-130012682,imgsize-48144.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/shashi-tharoors-convoy-blocked-in-keralas-wandoor-five-men-assault-his-gunman-driver/articleshow/130012474.cms",
-    "time": "2026-04-04T03:26:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "PBKS captain fined, one step away from ban",
     "desc": "Punjab Kings captain Shreyas Iyer faces a hefty ₹24 lakh fine for a slow over-rate, marking their second such offence. The team's playing XI also incurred fines. Another breach could lead to Iyer's suspension and a ₹30 lakh penalty, adding pressure as PBKS aims for consistency with many matches remaining.",
@@ -565,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/rashford-has-big-chance-with-raphinha-out-says-barca-coach-flick/article70821254.ece",
     "time": "2026-04-04T01:14:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Dhurandha 2’ crosses Rs 1,500 crore mark worldwide in 16 days",
-    "desc": "The Revenge' continues its impressive box office run, crossing Rs 1500 crore worldwide. The spy thriller saw a significant jump on its third Friday, with India net collections nearing Rs 1000 crore. The film's strong performance indicates further growth over the weekend.",
-    "img": "https://static.toiimg.com/photo/msid-130011395,imgsize-98310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandha-2-box-office-collection-day-16-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-sara-arjuns-film-earns-over-rs-1500-cr-worldwide/articleshow/130011395.cms",
-    "time": "2026-04-04T00:43:19.000Z"
   },
   {
     "cat": "World",
@@ -738,15 +792,6 @@ const newsData_en = [
     "time": "2026-04-03T06:36:37.000Z"
   },
   {
-    "cat": "Business",
-    "title": "US imposes 100% tariff on patented pharma imports: How it impacts India",
-    "desc": "The US has imposed up to 100% tariffs on patented drugs and certain metals, aiming to boost domestic manufacturing. While India's generic drug exports are largely exempt, firms producing branded medicines or inputs for patented drugs may face pressure. Developed nations are expected to bear the brunt of these new measures.",
-    "img": "https://static.toiimg.com/photo/msid-129995660,imgsize-60542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-imposes-100-tariff-on-patented-pharma-imports-how-it-impacts-india/articleshow/129995183.cms",
-    "time": "2026-04-03T06:33:11.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Ahead of Greek social media ban, parents desperate to separate children from phones",
     "desc": "At the EU-funded Greek Safer Internet Centre in Athens, calls to a helpline which offers support to child victims of cyberbullying more than doubled between 2024 and 2025, said George Kormas, who ‌runs the helpline",
@@ -754,15 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/ahead-of-greek-social-media-ban-parents-desperate-to-separate-children-from-phones/article70818531.ece",
     "time": "2026-04-03T05:40:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Where are banks closed today, on April 3, 2026? Check state-wise list",
-    "desc": "Bank holidays in India will vary significantly in April 2026 due to numerous regional festivals. Many branches will close on April 3 for Good Friday, with exceptions in specific states. Further closures are scheduled for April 14 and 15, impacting various regions. Customers should plan transactions in advance as digital services remain available.",
-    "img": "https://static.toiimg.com/photo/msid-129994580,imgsize-1789464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-on-good-friday-where-are-banks-closed-today-on-april-3-2026-check-state-wise-list/articleshow/129994436.cms",
-    "time": "2026-04-03T05:13:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -828,15 +864,6 @@ const newsData_en = [
     "time": "2026-04-02T07:47:22.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Former England bowler Anderson 'hated every minute' of The Hundred",
-    "desc": "The 43-year-old, who retired from international ⁠cricket in 2024, was selected with a wildcard pick by the Manchester Originals in the 2025 season of the 100-ball ‌format but took only two wickets in three games.",
-    "img": "https://th-i.thgim.com/public/incoming/3vou7a/article70814594.ece/alternates/LANDSCAPE_1200/2026-04-02T064252Z_1996481862_RC2ZQGA4A62V_RTRMADP_3_CRICKET-ENGLAND-ANDERSON.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/former-england-bowler-anderson-hated-every-minute-of-the-hundred/article70814589.ece",
-    "time": "2026-04-02T07:06:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Commercial LPG prices hiked 10%, jet fuel rates up 9% for domestic airlines",
     "desc": "ATF rates for international flights more than doubled, prompting IndiGo to add a fuel surcharge of ₹10,000 on long-haul routes; Centre says OMCs are still absorbing losses due to the surge in global crude rates",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/another-satellite-in-navic-satellite-system-unable-to-function-limiting-its-security-capabilities-amid-concerns-of-reliance-on-foreign-navigation-systems/article70783744.ece",
     "time": "2026-04-01T09:59:16.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
   }
 ];

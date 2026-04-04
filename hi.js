@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rashid Khan credits Tushar Deshpande for final over masterclass, blames himself for Gujarat's defeat",
+    "desc": "Rajasthan Royals defeated Gujarat Titans by six runs in the high-voltage clash at the Narendra Modi Stadium in the IPL 2026. The hosts seemed the favourites to get the job done but in the final...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-credits-tushar-deshpande-for-final-over-masterclass-blames-himself-for-gujarat-s-defeat-2026-04-04-1036338",
+    "time": "2026-04-04T18:28:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCB extends Mehidy Hasan's captaincy till 2027, confirms Litton Das T20 captain till World Cup 2028",
+    "desc": "The Bangladesh Cricket Board (BCB) on Saturday extended the ODI captaincy tenure of Mehidy Hasan Miraz till 2027. The Board also confirmed that Litton Das will keep leading the T20I side till the 2028 World...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcb-extends-mehidy-hasans-captaincy-till-2027-confirms-litton-das-t20-captain-till-world-cup-2028-2026-04-04-1036336",
+    "time": "2026-04-04T18:16:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan pull off a miraculous win against GT; bowlers steal show after Dhruv Jurel's commanding knock",
+    "desc": "Rajasthan Royals defeated Gujarat Titans by six runs at the Narendra Modi Stadium in Ahmedabad. Just when the game seemed to have slipped from the reach of the Riyan Parag-led side, Jofra Archer pulled back...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-pull-off-a-miraculous-win-against-gt-bowlers-steal-show-after-dhruv-jurel-s-commanding-knock-2026-04-04-1036332",
+    "time": "2026-04-04T17:55:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "GT assistant coach Parthiv Patel reveals skipper's potential comeback in IPL 2026",
+    "desc": "Shubman Gill missed out on the Gujarat Titans' clash against the Rajasthan Royals in IPL 2026 on Saturday, April 4, due to a muscle spasm. Afghanistan star Rashid Khan led the Titans for their second...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-injury-update-gt-assistant-coach-parthiv-patel-reveals-skippers-potential-comeback-in-ipl-2026-2026-04-04-1036331",
+    "time": "2026-04-04T17:23:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Rajiv Gandhi Int'l Stadium in Hyderabad play for IPL 2026?",
+    "desc": "After a stunning win over Kolkata Knight Riders in their previous game, Sunrisers Hyderabad will now host Lucknow Super Giants at the Rajiv Gandhi International Stadium on April 5. Captain Pat Cummins is still not...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-lsg-pitch-report-how-will-surface-at-rajiv-gandhi-international-stadium-in-hyderabad-play-for-ipl-2026-2026-04-04-1036328",
+    "time": "2026-04-04T16:34:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Deepak Chahar surpasses Praveen Kumar, only behind Trent Boult, Bhuvneshwar Kumar in legendary IPL record list",
+    "desc": "Deepak Chahar has moved to number three on the list of most wickets in the first over of an IPL match. In the clash against Delhi Capitals, the Mumbai Indians pacer dismissed KL Rahul to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/deepak-chahar-surpasses-praveen-kumar-only-behind-trent-boult-bhuvneshwar-kumar-in-legendary-ipl-record-list-2026-04-04-1036325",
+    "time": "2026-04-04T16:00:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sameer Rizvi joins Virat Kohli, Virender Sehwag in elite IPL club after stellar outing against MI",
+    "desc": "Sameer Rizvi put up another astonishing knock as he powered Delhi Capitals to a six-wicket win over Mumbai Indians at the Arun Jaitley Stadium in Delhi. Rizvi scored 90 off 51 balls and helped the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sameer-rizvi-joins-virat-kohli-virender-sehwag-in-elite-ipl-club-after-stellar-outing-against-mi-2026-04-04-1036324",
+    "time": "2026-04-04T15:32:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Sooryavanshi, Yashasvi Jaiswal set new IPL record, breaking Sehwag-Gambhir's longstanding feat",
     "desc": "Vaibhav Sooryavanshi and Yashavi Jaiswal have set a new record for the fastest Indian pair to reach 500 partnership runs (by balls) in the IPL. The Rajasthan Royals duo accomplished the feat in just 248...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-shubman-gill-not-playing-for-gt-vs-rr-in-ipl-2026-clash-in-ahmedabad-2026-04-04-1036312",
     "time": "2026-04-04T13:40:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sameer Rizvi produces another stunning knock to power DC past MI in IPL 2026 clash in Delhi",
-    "desc": "Sameer Rizvi played another brilliant knock to power Delhi Capitals to back-to-back wins in the Indian Premier League 2026. After helping DC win the tournament opener against the Lucknow Super Giants, Rizvi put up another...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sameer-rizvi-produces-another-stunning-knock-to-power-dc-past-mi-in-ipl-2026-clash-in-delhi-2026-04-04-1036311",
-    "time": "2026-04-04T13:36:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul's all-time IPL record comes to an end as DC star falls early against MI",
-    "desc": "KL Rahul has not had the best start to the Indian Premier League 2026. The Delhi Capitals star was dismissed for a golden duck in his team's season opener against Lucknow Super Giants and has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahuls-all-time-ipl-record-comes-to-an-end-as-dc-star-falls-early-against-mi-2026-04-04-1036307",
-    "time": "2026-04-04T12:43:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma's hilarious bluff fools KL Rahul, Kuldeep Yadav; bursts out laughing during MI vs DC clash: WATCH",
-    "desc": "Rohit Sharma’s cheeky, yet sharp cricketing IQ, cost Delhi Capitals their review in the IPL 2026 clash at the Arun Jaitley Stadium. Notably, in the ninth over of the game, the former Mumbai Indians captain...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-s-hilarious-bluff-fools-kl-rahul-kuldeep-yadav-bursts-out-laughing-during-mi-vs-dc-clash-watch-2026-04-04-1036306",
-    "time": "2026-04-04T12:35:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bunny alert! Shubman Gill's record against Jofra Archer rings warning bells for GT ahead of RR IPL 2026 clash",
-    "desc": "Shubman Gill's Gujarat Titans lock horns with Riyan Parag-led Rajasthan Royals in face-offs of contrasting batting sides at the Narendra Modi Stadium in Ahmedabad. After suffering a close loss to the Punjab Kings in their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gill-s-record-against-jofra-archer-rings-warning-bells-2026-04-04-1036299",
-    "time": "2026-04-04T11:55:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravichandran Ashwin slams CSK after defeat to Punjab in IPL 2026, says 'it was painful to watch'",
-    "desc": "Chennai Super Kings have suffered six straight home games in the IPL. Last year, they lost five on the trot and the 2026 season began with a crushing defeat to Punjab Kings. With that, it’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-slams-csk-after-defeat-to-punjab-in-ipl-2026-says-it-was-painful-to-watch-2026-04-04-1036298",
-    "time": "2026-04-04T11:50:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma joins Chris Gayle, MS Dhoni in elite list in clash against Delhi Capitals",
-    "desc": "Game 8 of the ongoing IPL (Indian Premier League) 2026 saw Delhi Capitals taking on Mumbai Indians. The two sides locked horns at the Arun Jaitley Stadium in Delhi on April 4, and the game...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-joins-chris-gayle-ms-dhoni-in-elite-list-in-clash-against-delhi-capitals-2026-04-04-1036292",
-    "time": "2026-04-04T11:09:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pat Cummins leaves SRH mid IPL season, heads back to Australia; here's why",
-    "desc": "Sunrisers Hyderabad captain Pat Cummins missed the opening two games of the season, owing to a back injury. He has been out of action since the third Test in the Ashes and missed the T20...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-leaves-srh-mid-ipl-season-heads-back-to-australia-here-s-why-2026-04-04-1036291",
-    "time": "2026-04-04T10:58:58.000Z"
   }
 ];
