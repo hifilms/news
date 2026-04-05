@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When did MS Dhoni last miss an IPL match against RCB?",
+    "desc": "Widely revered as one of the greatest captains in the history of the game, MS Dhoni has left an imprint on Indian cricket so huge that the fans are still fans of his demeanour, his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-did-ms-dhoni-last-miss-an-ipl-match-against-rcb-2026-04-05-1036373",
+    "time": "2026-04-05T09:10:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head-to-head record ahead of IPL 2026 clash in Bengaluru",
+    "desc": "Royal Challengers Bengaluru and Chennai Super Kings are all set to take on each other in game 11 of the ongoing IPL (Indian Premier League) 2026. The two sides will lock horns at the M...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-csk-head-to-head-record-ahead-of-ipl-2026-clash-in-bengaluru-2026-04-05-1036369",
+    "time": "2026-04-05T07:53:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What is Virat Kohli's record against Chennai in IPL?",
+    "desc": "Game 11 of the ongoing IPL (Indian Premier League) 2026 sees Royal Challengers Bengaluru taking on Chennai Super Kings. The two sides are set to lock horns at the M Chinnaswamy Stadium in Bengaluru on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-csk-what-is-virat-kohli-s-record-against-chennai-in-ipl-2026-04-05-1036367",
+    "time": "2026-04-05T07:08:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will weather in Hyderabad fare for IPL 2026 game 10?",
     "desc": "The stage is set for game 10 of the ongoing IPL (Indian Premier League) 2026. Sunrisers Hyderabad will take on Lucknow Super Giants at the Rajiv Gandhi International Stadium in Hyderabad on April 5. It...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-injury-update-gt-assistant-coach-parthiv-patel-reveals-skippers-potential-comeback-in-ipl-2026-2026-04-04-1036331",
     "time": "2026-04-04T17:23:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Rajiv Gandhi Int'l Stadium in Hyderabad play for IPL 2026?",
-    "desc": "After a stunning win over Kolkata Knight Riders in their previous game, Sunrisers Hyderabad will now host Lucknow Super Giants at the Rajiv Gandhi International Stadium on April 5. Captain Pat Cummins is still not...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-lsg-pitch-report-how-will-surface-at-rajiv-gandhi-international-stadium-in-hyderabad-play-for-ipl-2026-2026-04-04-1036328",
-    "time": "2026-04-04T16:34:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Deepak Chahar surpasses Praveen Kumar, only behind Trent Boult, Bhuvneshwar Kumar in legendary IPL record list",
-    "desc": "Deepak Chahar has moved to number three on the list of most wickets in the first over of an IPL match. In the clash against Delhi Capitals, the Mumbai Indians pacer dismissed KL Rahul to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/deepak-chahar-surpasses-praveen-kumar-only-behind-trent-boult-bhuvneshwar-kumar-in-legendary-ipl-record-list-2026-04-04-1036325",
-    "time": "2026-04-04T16:00:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sameer Rizvi joins Virat Kohli, Virender Sehwag in elite IPL club after stellar outing against MI",
-    "desc": "Sameer Rizvi put up another astonishing knock as he powered Delhi Capitals to a six-wicket win over Mumbai Indians at the Arun Jaitley Stadium in Delhi. Rizvi scored 90 off 51 balls and helped the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sameer-rizvi-joins-virat-kohli-virender-sehwag-in-elite-ipl-club-after-stellar-outing-against-mi-2026-04-04-1036324",
-    "time": "2026-04-04T15:32:08.000Z"
   }
 ];
