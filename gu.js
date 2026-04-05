@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "યુદ્ધ વચ્ચે ઈરાને કર્યા ગુજરાતના વખાણ! હર્ષ સંઘવીની પોસ્ટનો ઈરાની દૂતાવાસે આપ્યો જવાબ",
+    "desc": "અમેરિકા-ઈરાન યુદ્ધને પગલે તહેરાનના હોર્મુઝ સ્ટ્રેઈટમાં જહાજના આવન-જાવન પર પ્રતિબંધ લગાવી દેવાયો છે. ભારત સહિત પોતાના કેટલાક મિત્ર દેશોએ ઈરાને પરમિશન આપી છે. ભારતનું વધુ એક ટેન્કર સફળતાપૂર્વક ખાડીમાંથી પસાર થઈ ગયું છે. જેને લઈને ઈરાને ગુજરાતનું નામ લઈને ખાસ સંદેશ આપ્યો છે. મુંબઈ સ્થિત ઈરાની દૂતાવાસે ભારત અને ખાસ કરીને ગુજરાત સાથે ઈરાનના સંબંધોને લઈને વખાણ કરવામાં આવ્યા છે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-praised-gujarat-on-deputy-minister-harsh-sanghvi-post-471561 ",
+    "time": "2026-04-05T17:41:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "નોકરીયાત વર્ગ માટે ખુશખબર! રજાઓ વેસ્ટ નહીં જાય, હવે મળશે રૂપિયા! જાણો નવા લેબર કોડનો મોટો ફાયદો",
+    "desc": "નવા લેબર કોડ 2025માં કર્મચારીઓને મોટો ફાયદો મળ્યો છે. હવે માત્ર 180 દિવસ કામ કર્યા પછી જ 'અર્ન્ડ લીવ' (Earned Leave)નો હક મળી જશે. સાથે જ અનસેન્ડ રજાઓને વર્ષના અંતે રોકડમાં બદલી શકાશે, જેનાથી કર્મચારીઓને આર્થિક લાભ થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/good-news-for-the-employed-class-holidays-will-not-go-to-waste-now-you-will-get-money-know-the-big-benefit-of-the-new-labor-code-471654 ",
+    "time": "2026-04-05T16:45:30.000Z"
+  },
+  {
+    "cat": "World",
     "title": "અમે બધું જ નષ્ટ કરી દઈશું અને તેલ પર કબજો કરીશું, ડોનાલ્ડ ટ્રમ્પે જણાવ્યું ઈરાન સાથે ક્યારે ડીલ થશે ફાઈલન",
     "desc": "ડોનાલ્ડ ટ્રમ્પે દાવો કર્યો હતો કે અમેરિકા અને ઈરાન વચ્ચે હાલમાં વાટાઘાટો ચાલી રહી છે અને આ તારીખે ડીલ થવાની સારી શક્યતા છે. તેમણે ઈરાનને ચેતવણી આપી હતી કે જો કોઈ સોદો નહીં થાય તો હુમલો થશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -52,15 +70,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-gross-salary-3x-hike-fitment-hra-ta-calculation-18000-basic-471563 ",
     "time": "2026-04-05T07:49:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "યુદ્ધ વચ્ચે ઈરાને કર્યા ગુજરાતના વખાણ! હર્ષ સંઘવીની પોસ્ટનો ઈરાની દૂતાવાસે આપ્યો જવાબ",
-    "desc": "અમેરિકા-ઈરાન યુદ્ધને પગલે તહેરાનના હોર્મુઝ સ્ટ્રેઈટમાં જહાજના આવન-જાવન પર પ્રતિબંધ લગાવી દેવાયો છે. ભારત સહિત પોતાના કેટલાક મિત્ર દેશોએ ઈરાને પરમિશન આપી છે. ભારતનું વધુ એક ટેન્કર સફળતાપૂર્વક ખાડીમાંથી પસાર થઈ ગયું છે. જેને લઈને ઈરાને ગુજરાતનું નામ લઈને ખાસ સંદેશ આપ્યો છે. મુંબઈ સ્થિત ઈરાની દૂતાવાસે ભારત અને ખાસ કરીને ગુજરાત સાથે ઈરાનના સંબંધોને લઈને વખાણ કરવામાં આવ્યા છે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-praised-gujarat-on-deputy-minister-harsh-sanghvi-post-471561 ",
-    "time": "2026-04-05T07:40:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -468,24 +477,6 @@ const newsData_gu = [
     "time": "2026-04-03T05:40:59.000Z"
   },
   {
-    "cat": "Business",
-    "title": "અદાણી CNG આજથી 1.50 રૂપિયા મોંઘો થયો : અદાણીએ બે મહિનામાં બે વાર CNG ના ભાવ વધાર્યા, જાણો નવો ભાવ",
-    "desc": "હવે આજથી અદાણી CNG માટે પણ વધુ રૂપિયા ચૂકવવા પડશે. આ વર્ષની શરૂઆતમાં અદાણીએ CNG ના ભાવમાં ઘટાડો કરતા થોડી રાહત થઈ હતી. પરંતુ તેના બાદ ઉપરાઉપરી બે વાર CNG ના ભાવ વધારી દીધા છે. જે હવે રીક્ષાચાલકો માટે આકરું બની રહેશે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/adani-cng-price-hike-again-in-2026-under-gas-crisis-in-india-471297 ",
-    "time": "2026-04-03T05:00:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "શું PFમાં જમા રકમ પર મળશે 10% વ્યાજ? સરકારે કરી સ્પષ્ટતા, જાણો ખાતામાં ક્યારે જમા થશે વ્યાજ",
-    "desc": "ગત નાણાકીય વર્ષમાં જમા થયેલી PF રાશિ પર 8.25 ટકા વ્યાજ દરને મંજૂરી આપવામાં આવી છે. હવે આ અંગે નાણા મંત્રાલય અને શ્રમ મંત્રાલયની અંતિમ મંજૂરી મળવાની બાકી છે. જે બાદ એવી અપેક્ષા રાખવામાં આવે છે કે જૂનથી ઓગસ્ટ મહિનાની વચ્ચે આ નાણાં PF ખાતામાં જમા (Credit) થઈ જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-epf-deposits-earn-10-interest-government-responds-when-will-the-interest-be-credited-to-accounts-471307 ",
-    "time": "2026-04-03T04:22:51.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઈસુ ખ્રિસ્તના કફનનું ભારત કનેક્શન નીકળ્યું! પવિત્ર Shroud of Turin ના DNA ટેસ્ટમાં મોટો ખુલાસો થયો",
     "desc": "ઈસુ ખ્રિસ્તનો દેહ જે કાપડમાં લપેટાયો હતો, શું તે ભારતનું હતું? Shroud of Turin ના DNA અભ્યાસમાં એક મોટો ખુલાસો થયો છે કે, તે ભારતનું હતું. આખરે કેવી રીતે વૈજ્ઞાનિકોએ આ દાવો કર્યો, આ પાછળ શું થિયરી છે તે જાણીએ",
@@ -556,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/government-big-announcement-in-the-midst-of-war-import-duty-on-more-than-40-items-eliminated-471183 ",
     "time": "2026-04-02T06:25:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઈરાન-અમેરિકા યુદ્ધ વચ્ચે PM મોદીએ બોલાવી CCSની બેઠક, LPG અંગે શું આપ્યો આદેશ? જાણો",
-    "desc": "મિડલ ઈસ્ટ સંકટને લઈને વડાપ્રધાન નરેન્દ્ર મોદીએ એક ઉચ્ચ સ્તરીય બેઠક યોજી, જેમાં પ્રાદેશિક સુરક્ષા અને સ્થિરતા જાળવી રાખવાના ઉપાયો પર ચર્ચા કરવામાં આવી છે. આ સાથે જ LPG અને PNGના પુરવઠા સાથે જોડાયેલા મુદ્દાઓ પર પણ વિચાર-વિમર્શ કરવામાં આવ્યો. સરકારે આવશ્યક ચીજવસ્તુઓની ઉપલબ્ધતા સુનિશ્ચિત કરવા માટે પગલાં ભરવા પર ભાર મૂક્યો છે અને તમામ વિભાગોને સતર્ક રહેવા તેમજ ત્વરિત કાર્યવાહી કરવા નિર્દેશ આપ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/iran-us-war-pm-modi-called-ccs-meeting-what-was-the-order-given-regarding-lpg-know-471144 ",
-    "time": "2026-04-01T17:55:19.000Z"
   },
   {
     "cat": "Tech",

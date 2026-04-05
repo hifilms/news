@@ -1,21 +1,192 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "WUAs have to ensure optimum utilisation of water resources, says Andhra Pradesh Chief Minister Chandrababu Naidu",
-    "desc": "Ahead of the launch of a 100-day action plan to conserve every drop of rainwater and increase groundwater levels, the Chief Minister calls for collective effort to provide irrigation facility to every acre in the State",
-    "img": "https://th-i.thgim.com/public/incoming/lwqvz4/article70826910.ece/alternates/LANDSCAPE_1200/KMGNR_13-2-2014_17-7-21_13GNRAO-DRIPIRRIGATION-03.JPG",
+    "title": "A Congress veteran calls for making the party a people’s movement",
+    "desc": "Dhanuskodi Athithan, a long-standing Congress leader and former Union Minister of State for Youth Affairs and Sport, wants the party to do field work and take up people’s issues. “Look at Tirunelveli and Kanniyakumari districts where the party is still strong. This is because of this approach,” he points out",
+    "img": "https://th-i.thgim.com/public/incoming/m8n2gr/article70827516.ece/alternates/LANDSCAPE_1200/2315_4_4_2026_17_5_34_2_DANUSHKODIADITYAN12.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/wuas-have-to-ensure-optimum-utilisation-of-water-resources-says-andhra-pradesh-chief-minister-chandrababu-naidu/article70826637.ece",
-    "time": "2026-04-05T15:13:15.000Z"
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-congress-veteran-calls-for-making-the-party-a-peoples-movement/article70827348.ece",
+    "time": "2026-04-05T18:30:23.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Another row over food kits erupts in Thrissur",
-    "desc": "4,000 kits seized from supermarket warehouse at Vadanappally; LDF, UDF accuse BJP of distributing kits to influence voters; protesters accuse actor and BJP leader Devan, who was in a nearby house, from leaving; UDF candidate T.N.Prathapan arrested for protesting; a day ago, there was a similar controversy in Olari",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "title": "Porcupines push saffron to brink in Kashmir",
+    "desc": "the Indian crested porcupine. These nocturnal rodents are burrowing underground, destroying saffron corms and decimating harvests. Production has plummeted, threatening the livelihoods and identity tied to Pampore's \"red gold.\" Authorities are assessing damage and proposing deterrents, but farmers fear the crisis will worsen without significant state intervention.",
+    "img": "https://static.toiimg.com/photo/msid-130045117,imgsize-1914213.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/porcupines-push-saffron-to-brink-in-kashmir/articleshow/130045084.cms",
+    "time": "2026-04-05T18:26:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sonam Wangchuk",
+    "desc": "Environmentalist Sonam Wangchuk urged the Centre to restore democratic rights in Ladakh, advocating for a win-win approach in talks for statehood and Sixth Schedule status. Following his release from NSA detention, Wangchuk emphasized constructive dialogue, noting previous inconclusive discussions. He aims for a resolution to allow focus on nation-building.",
+    "img": "https://static.toiimg.com/photo/msid-130045073,imgsize-728492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ladakh-talks-with-open-mind-and-heart-sonam-wangchuk/articleshow/130045022.cms",
+    "time": "2026-04-05T18:20:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "I do not see the Assembly election in Tamil Nadu as a close contest, says CM Stalin",
+    "desc": "The contest is essentially between the DMK-led front and the AIADMK-led alliance. Our achievements and electoral promises have captured the imagination of the people. The outcome will disprove the notion that the DMK cannot win two consecutive elections, says the DMK president",
+    "img": "https://th-i.thgim.com/public/incoming/lffypv/article70827463.ece/alternates/LANDSCAPE_1200/9864_5_4_2026_19_9_18_2_IMG_20260405_190209.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/another-row-over-food-kits-erupts-in-thrissur/article70826956.ece",
-    "time": "2026-04-05T14:38:37.000Z"
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/i-do-not-see-the-assembly-election-intamil-nadu-as-a-close-contest-says-cm-stalin/article70827163.ece",
+    "time": "2026-04-05T18:17:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zakir says everyone got jealous of 'Dhurandhar': 'Bomb phoote...'",
+    "desc": "The Revenge' has shattered records, becoming Bollywood's first film to gross over Rs 1000 crore net in India after 18 days. The blockbuster's success has sparked widespread fan engagement and even led comedian Zakir Khan to joke about industry jealousy, highlighting the film's immense impact.",
+    "img": "https://static.toiimg.com/photo/msid-130044994,imgsize-47158.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zakir-khan-roasts-bollywood-says-everyone-got-jealous-of-dhurandhar-bomb-phoote-lyari-mein-dhuaan-bandra-se-juhu-mein/articleshow/130044512.cms",
+    "time": "2026-04-05T18:15:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hat-trick of losses for CSK as RCB run riot in Bengaluru",
+    "desc": "Defending champions RCB extended their winning streak with a 43-run victory over CSK at Chinnaswamy Stadium. After a cautious start, Phil Salt (46) and Devdutt Padikkal (50) built momentum, while Tim David (70*) and Rajat Patidar (48*) unleashed a brutal assault to reach 250/3. CSK’s chase faltered early despite Sarfaraz Khan’s 50, and they were bowled out for 207.",
+    "img": "https://static.toiimg.com/photo/msid-130044971,imgsize-45090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-hat-trick-of-losses-for-csk-as-rcb-run-riot-in-bengaluru/articleshow/130044621.cms",
+    "time": "2026-04-05T18:13:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A debate on the tenure of Election Commission-appointed police chief",
+    "desc": "However, the EC order did not specify a tenure for him. The question is whether Mr. Rathore would be entitled to a minimum two-year tenure, as mandated by the Supreme Court in the landmark Prakash Singh case. However, this ruling applies only to appointments made through the UPSC-led process",
+    "img": "https://th-i.thgim.com/public/incoming/qsvlr/article70827287.ece/alternates/LANDSCAPE_1200/SANDEEP%20RAI%20RATHORE%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-debate-on-the-tenure-of-election-commission-appointed-police-chief/article70827278.ece",
+    "time": "2026-04-05T18:10:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026",
+    "desc": "If the weather gods stay kind, Rahane’s men will look to open their account after suffering losses in both their matches; Shreyas’ side, on the other hand, will hope to notch up its third straight win",
+    "img": "https://th-i.thgim.com/public/incoming/45ykhf/article70827563.ece/alternates/LANDSCAPE_1200/01aEden.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-kkr-vs-pbks-match-preview/article70827556.ece",
+    "time": "2026-04-05T18:06:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajamahendravaram set to host international water sport event, to begin from May 30",
+    "desc": "International Dragon Boat League 2026 to attract talent from 25 countries, of which 12 countries have confirmed their participation in the three-day event; the event is part of a larger vision to make the city a global hub for water sports",
+    "img": "https://th-i.thgim.com/public/incoming/8ar7wu/article70827182.ece/alternates/LANDSCAPE_1200/04GNRAO-GODAVARI%20SUN%20SET-01%209.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/rajamahendravaramset-to-host-international-water-sport-event-to-begin-from-may-30/article70826615.ece",
+    "time": "2026-04-05T18:04:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EAM Jaishankar receives call from Iran FM Araghchi as Trump’s 48-hour threat looms",
+    "desc": "External Affairs Minister S Jaishankar spoke with his Iranian counterpart Abbas Araghchi amid escalating Middle East tensions. The call, confirmed by the Iran Embassy in India, covered bilateral relations and regional developments. This follows Jaishankar's recent discussions with UAE and Qatar leaders, as Iran faces a US deadline over the Strait of Hormuz.",
+    "img": "https://static.toiimg.com/photo/msid-130044537,imgsize-683851.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/eam-jaishankar-receives-call-from-iran-fm-araghchi-as-trumps-48-hour-threat-looms/articleshow/130043913.cms",
+    "time": "2026-04-05T17:58:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The executive office without a limit",
+    "desc": "India has developed a convention limiting a third presidential term, but the Constitution places no such restriction on the Prime Minister’s tenure. With Prime Minister Narendra Modi completing 8,931 days in office, this asymmetry invites closer scrutiny.",
+    "img": "https://th-i.thgim.com/public/incoming/g6i6t9/article70827696.ece/alternates/LANDSCAPE_1200/RV_MODIOATH.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/the-executive-office-without-a-limit/article70827689.ece",
+    "time": "2026-04-05T17:50:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress slams Govt.’s delimitation proposal",
+    "desc": "Jairam Ramesh says the PM is ‘hoodwinking’ people by claiming that the strength of the southern States in the Lok Sabha will not go down. Siddaramaiah says five southern States together gain barely 63-66 additional seats, while just seven BJP-dominated States gain about 128-131 seats – nearly double",
+    "img": "https://th-i.thgim.com/public/incoming/ujdejz/article70826142.ece/alternates/LANDSCAPE_1200/08_Jairam_Ramesh_03_04_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pms-push-for-increasing-seats-of-lok-sabha-assemblies-nothing-but-weapon-of-mass-distraction-congress/article70826135.ece",
+    "time": "2026-04-05T17:04:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kohli's no-look six leaves Anushka impressed; her reaction goes viral",
+    "desc": "Kohli was batting after RCB were put in. He got an early lifeline when Shivam Dube dropped a catch. Soon after, Kohli hit Henry for a six when the ball was pitched in his hitting range, swinging across the line to clear the boundary.",
+    "img": "https://static.toiimg.com/photo/msid-130043189,imgsize-25986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-impresses-anushka-sharma-with-no-look-six-her-reaction-goes-viral-watch/articleshow/130043142.cms",
+    "time": "2026-04-05T16:58:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "At 83, Bachchan says it's disturbing to not work each day",
+    "desc": "At 83, Amitabh Bachchan's unwavering dedication to routine inspires many, as he revealed a day without work leaves him unsettled. He recently concluded hosting the 17th season of Kaun Banega Crorepati, reflecting on his profound connection with the show and its audience. Bachchan's latest film, Kalki 2898 AD, achieved significant box office success.",
+    "img": "https://static.toiimg.com/photo/msid-130043054,imgsize-71052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/at-83-amitabh-bachchan-says-its-disturbing-for-him-to-not-work-each-day-living-in-anxiety-is-harmful-for-the-mind/articleshow/130043026.cms",
+    "time": "2026-04-05T16:47:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tim David, Patidar fire 97-run barrage in death overs; RCB reach highest IPL 2026 total",
+    "desc": "The late surge came from Tim David, captain Rajat Patidar and Devdutt Padikkal, who built on the base set earlier in the innings. Padikkal scored 50 off 29 balls, David made 70 off 25 balls, while Patidar remained unbeaten on 48 off 19 balls.",
+    "img": "https://static.toiimg.com/photo/msid-130042672,imgsize-38728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/tim-david-patidar-fire-97-run-barrage-vs-csk-in-last-five-overs-as-rcb-reach-highest-ipl-2026-total/articleshow/130042571.cms",
+    "time": "2026-04-05T16:28:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED to investigate into assets of self-styled godman Kharat; call record leaks will be probed: Fadnavis",
+    "desc": "The Maharashtra Chief Minister says no one has the right to access call detail records. His comments come after an activist revealed exchange of 17 phone calls between Deputy Chief Minister Eknath Shinde and Kharat who is accused in multiple cases of rape and property-related fraud",
+    "img": "https://th-i.thgim.com/public/incoming/dfno53/article70827549.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-04%20at%2020.16.03.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/godman-kharat-case-govt-to-probe-cdr-leak-and-ed-will-investigate-his-assets-says-fadnavis/article70826742.ece",
+    "time": "2026-04-05T16:25:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Challenging time': India sends aid to Afghanistan amid devastation from floods and earthquake",
+    "desc": "India has dispatched humanitarian assistance and disaster relief materials to Afghanistan following recent devastating floods and earthquakes. The aid includes essential items like kitchen sets, hygiene kits, and shelter materials. This gesture underscores India's solidarity with the Afghan people during this challenging period of overlapping natural disasters.",
+    "img": "https://static.toiimg.com/photo/msid-130042241,imgsize-1103245.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/challenging-time-india-sends-aid-to-afghanistan-after-devastation-from-floods-and-earthquake/articleshow/130042062.cms",
+    "time": "2026-04-05T16:01:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' becomes the 1st Hindi film to cross Rs 1000 cr net in India",
+    "desc": "The Revenge has made history, becoming the first Bollywood film to cross Rs 1,000 crore net collection across all versions. This spy action entertainer achieved this milestone on its 18th day, also setting a new record by surpassing Rs 900 crore net in Hindi alone.",
+    "img": "https://static.toiimg.com/photo/msid-130041986,imgsize-30554.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-crosses-rs-1000-crore-in-india-creates-history-by-being-the-first-hindi-film-to-do-so-joins-pushpa-2-baahubali-2/articleshow/130041934.cms",
+    "time": "2026-04-05T15:47:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC Judge highlights role of mediation in preserving business relationships",
+    "desc": "It is not a new concept in our system, it has always been a part of our tradition, says Justice Kotiswar Singh, stating that prolonged litigation imposes high costs on businesses; Asian Centre for International Arbitration and Mediation opens in Visakhapatnam",
+    "img": "https://th-i.thgim.com/public/incoming/6l6ogo/article70827356.ece/alternates/LANDSCAPE_1200/VSP06_MSME%203.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/sc-judge-highlights-role-of-mediation-in-preserving-business-relationships/article70827130.ece",
+    "time": "2026-04-05T15:33:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli scripts history, breaks Rohit Sharma's record to ...",
+    "desc": "Playing at the M Chinnaswamy Stadium, the Royal Challengers Bengaluru opener went past Rohit Sharma to take his total against CSK to 1,174 runs. Kohli needed just two runs at the start of the match to break Rohit’s record of 1,161 runs against Kolkata Knight Riders, and reached the mark in the first over.",
+    "img": "https://static.toiimg.com/photo/msid-130041784,imgsize-37480.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-virat-kohli-scripts-history-breaks-rohit-sharmas-record-to-/articleshow/130041685.cms",
+    "time": "2026-04-05T15:26:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why 2026 elections are not about PM Modi and Rahul Gandhi",
+    "desc": "Far from being a PM Modi vs Rahul showdown, the 2026 elections are a test of regional resilience. Despite the visibility of the two national leaders on the campaign trail, neither is the decisive factor in these contests. Instead, the real battles are being fought by state satraps defending their turf or reclaiming relevance and the results will hinge on regional leadership, local alliances and governance records.",
+    "img": "https://static.toiimg.com/photo/msid-130041734,imgsize-977110.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/the-missing-contest-why-2026-elections-are-not-about-pm-modi-and-rahul-gandhi/articleshow/130040268.cms",
+    "time": "2026-04-05T15:19:57.000Z"
   },
   {
     "cat": "Politics",
@@ -325,43 +496,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "​HBD Rashmika Mandanna: Best performances to watch on OTT",
-    "desc": "As Rashmika Mandanna celebrates her birthday, her OTT lineup offers an effortless watchlist across genres. From the historical scale of ‘Chhaava’ to the emotional pull of 'Goodbye,' these films clearly showcase her range. 'Animal,' ‘Mission Majnu,' 'Sikandar,' and ‘Thamma’ add action, suspense, romance, and drama to the mix. Together, they make a strong binge list for viewers wanting some of her most talked-about performances in one place.",
-    "img": "https://static.toiimg.com/photo/msid-130014332,imgsize-45234.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-birthday-special-best-performances-to-watch-on-ott-from-animal-to-chhaava/photostory/130014332.cms",
-    "time": "2026-04-05T07:11:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Stephen Colbert, Steve Carell and more: 6 Hollywood icons who shared apartments before hitting it big",
-    "desc": "Before the red carpets, the award shows, and the blockbuster roles, even the biggest stars had to start somewhere. Hollywood is full of surprising friendships, but some of the most unlikely bonds were forged not on set, but within the four walls of a shared space. From comedy legends bunking together in Chicago to future A-listers hustling side by side in Brooklyn and beyond, these celebrity roommate pairings are guaranteed to catch you off guard. Read on to discover the famous duos who once called each other roommates before the world knew their names.",
-    "img": "https://static.toiimg.com/photo/msid-130016527,imgsize-66620.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/stephen-colbert-steve-carell-and-more-6-hollywood-icons-who-shared-apartments-before-hitting-it-big/photostory/130016527.cms",
-    "time": "2026-04-05T06:50:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘He should’ve got Rs 10-11 crore’: Ex-India cricketer calls RR star a ‘steal’ after heroics",
-    "desc": "Aakash Chopra lauded Ravi Bishnoi's match-winning 4/41 spell in Rajasthan Royals' narrow IPL 2026 victory over Gujarat Titans, deeming the leg-spinner undervalued at the auction. He also praised Tushar Deshpande's composed final over and Dhruv Jurel's stellar 75, while noting Gujarat's batting lacked construction.",
-    "img": "https://static.toiimg.com/photo/msid-130034770,imgsize-150618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/he-shouldve-got-rs-10-11-crore-ex-india-cricketer-calls-rr-star-a-steal-after-heroics/articleshow/130034812.cms",
-    "time": "2026-04-05T06:42:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Falsely fabricated narrative': DMK leader A Raja sends legal notice to YouTube channel over AI audio clip",
-    "desc": "DMK leader A Raja has sent a legal notice to a YouTube channel, alleging a fabricated AI-generated audio clip was used to misrepresent his speech. He criticized AIADMK leader Edappadi K Palaniswami for using the unverified recording to make defamatory remarks against DMK patriarch M Karunanidhi and CM MK Stalin.",
-    "img": "https://static.toiimg.com/photo/msid-130034600,imgsize-617261.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/falsely-fabricated-narrative-dmk-leader-a-raja-sends-legal-notice-to-youtube-channel-over-ai-audio-clip/articleshow/130034554.cms",
-    "time": "2026-04-05T06:38:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dhurandhar 2 set to SURPASS Rs 1000 cr in India",
+    "title": "'Dhurandhar 2' SURPASSES Rs 1000 crore mark in India",
     "desc": "The Revenge' as it takes the cinematic world by storm, breaking records and captivating audiences worldwide. This gripping espionage thriller has not only become the highest-grossing Indian film in North America but is also on the brink of crossing the Rs 1000 crore mark in India. Read on to know more in detail.",
     "img": "https://static.toiimg.com/photo/msid-130034543,imgsize-78134.cms",
     "src": "indiatimes.com",
@@ -450,15 +585,6 @@ const newsData_en = [
     "time": "2026-04-05T04:01:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "In-form RCB face out-of-sorts CSK",
-    "desc": "The Southern Derby sees RCB, fresh off a dominant win, host a struggling CSK. RCB, rebuilt and title-winning, faces a transitional CSK that has faltered in recent seasons. With contrasting preparation times and a more settled RCB lineup, the match presents a significant challenge for the visitors.",
-    "img": "https://static.toiimg.com/photo/msid-130033244,imgsize-89294.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/southern-derby-at-chinnaswamy-in-form-rcb-face-out-of-sorts-csk/articleshow/130033235.cms",
-    "time": "2026-04-05T03:23:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India makes first oil purchase from Iran in 7 years with no payment hurdle",
     "desc": "Amid Middle East supply disruptions, Indian refiners have resumed Iranian crude oil purchases after a seven-year hiatus, securing their energy needs. The government confirmed no payment hurdles exist for these imports, assuring India's crude oil requirements for the coming months are fully met. This strategic shift diversifies sourcing amidst global supply chain challenges.",
@@ -493,24 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/vaibhav-sooryavanshi-tipped-for-major-role-in-bccis-make-or-break-red-ball-mission/articleshow/130031744.cms",
     "time": "2026-04-05T01:17:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaishali, Divya Deshmukh save Indian blushes; Pragg must act now",
-    "desc": "Javokhir Sindarov continues his dominant run in the FIDE Candidates Open section, widening his lead. In the Women's category, Indian players Vaishali Rameshbabu and Divya Deshmukh secured crucial wins, though their victories relied heavily on opponent errors. The Indian challenge in the Open section, led by Praggnanandhaa, lags significantly behind the leader.",
-    "img": "https://static.toiimg.com/photo/msid-130031130,imgsize-90480.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-vaishali-divya-deshmukh-save-indian-blushes-praggnanandhaa-must-act-now/articleshow/130031071.cms",
-    "time": "2026-04-05T00:48:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma scripts IPL history, surpasses MS Dhoni to...",
-    "desc": "Rohit Sharma scored 35 but made history by hitting his 51st six against Delhi Capitals, the most by an Indian against one IPL team, surpassing MS Dhoni. The milestone highlights his dominance despite a modest knock. He also neared 6000 runs for Mumbai Indians, while Chris Gayle still holds the overall record globally.",
-    "img": "https://static.toiimg.com/photo/msid-130024226,imgsize-68248.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rohit-sharma-scripts-ipl-history-surpasses-ms-dhoni-to-/articleshow/130023788.cms",
-    "time": "2026-04-04T23:30:00.000Z"
   },
   {
     "cat": "World",
@@ -603,24 +711,6 @@ const newsData_en = [
     "time": "2026-04-04T09:09:39.000Z"
   },
   {
-    "cat": "Business",
-    "title": "'Factually incorrect': India rejects 'payment issues' claim over Iranian crude tanker's diversion to China",
-    "desc": "Reports of an Iranian crude oil shipment rerouted to China due to payment issues have been officially denied by India's Petroleum Ministry. The ministry clarified that such diversions are common in global oil trade for optimization and assured that Indian refiners have secured their energy supplies, including from Iran, with no payment hurdles.",
-    "img": "https://static.toiimg.com/photo/msid-130015891,imgsize-92132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/factually-incorrect-india-rejects-payment-issues-claim-over-iranian-crude-tankers-diversion-to-china/articleshow/130015805.cms",
-    "time": "2026-04-04T08:31:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "IFFCO records highest profit and overall performance in FY26, set to cross Rs 4,106 crore PBT",
-    "desc": "IFFCO has achieved its highest-ever Profit Before Tax, projected to exceed Rs 4,106 crore for FY 2025-26, driven by robust fertiliser production and sales. The cooperative saw significant dispatches of both conventional and nano fertilisers, including new nano zinc and copper variants. IFFCO remains committed to farmer prosperity through innovation and balanced crop nutrition.",
-    "img": "https://static.toiimg.com/photo/msid-130015369,imgsize-8298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/iffco-set-to-cross-rs-4106-crore-pbt-this-year-on-strong-fertiliser-sales/articleshow/130013526.cms",
-    "time": "2026-04-04T07:51:32.000Z"
-  },
-  {
     "cat": "World",
     "title": "Downed planes spell new peril for Trump as Tehran hunts missing U.S. pilot",
     "desc": "The prospect of a U.S. service person alive and on the run in Iran raises the stakes for Washington in a conflict with low public support among Americans ‌and no sign of an imminent end",
@@ -637,15 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/peaky-blinders-will-enter-new-era-with-jamie-bell-as-duke-shelby-in-sequel-series/article70822461.ece",
     "time": "2026-04-04T05:57:34.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Bangladesh cuts office hours, turns off wedding lights to save energy",
-    "desc": "Bangladesh imports 95% of its oil and gas needs, mostly from West Asia and said that, while there are adequate stocks of petrol and diesel, it hopes to mitigate the effects of \"unsecured\" supply lines",
-    "img": "https://th-i.thgim.com/public/incoming/98jria/article70822396.ece/alternates/LANDSCAPE_1200/2026-04-03T042952Z_1056900820_RC2Y4KAW12KR_RTRMADP_3_IRAN-CRISIS-BANGLADESH-ENERGY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/bangladesh-cuts-office-hours-turns-off-wedding-lights-to-save-energy/article70822389.ece",
-    "time": "2026-04-04T05:00:43.000Z"
   },
   {
     "cat": "Sports",
@@ -765,15 +846,6 @@ const newsData_en = [
     "time": "2026-04-02T07:47:22.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Commercial LPG prices hiked 10%, jet fuel rates up 9% for domestic airlines",
-    "desc": "ATF rates for international flights more than doubled, prompting IndiGo to add a fuel surcharge of ₹10,000 on long-haul routes; Centre says OMCs are still absorbing losses due to the surge in global crude rates",
-    "img": "https://th-i.thgim.com/public/incoming/8a02z3/article70809820.ece/alternates/LANDSCAPE_1200/PTI03_18_2026_000319A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jet-fuel-prices-rise-doubled-commercial-lpg-price-increased/article70809777.ece",
-    "time": "2026-04-01T17:27:28.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "CoinDCX launches ₹100 crore cybersecurity network after impersonation-linked controversy",
     "desc": "CoinDCX co-founders Sumit Gupta and Neeraj Khandelwal spoke about their arrests and announced the launch of the ₹100 crore Digital Suraksha Network to support independent research, new standards, and educational tools for both state cybercrime cells and everyday Indian users",
@@ -826,68 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
     "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
