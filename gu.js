@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ઈરાનનું લશ્કરી નેતૃત્વ ખતમ, તેહરાન પર અમેરિકાનો મોટો હુમલો, ટ્રમ્પે કર્યો દાવો",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ઈરાનની રાજધાની તેહરાન પર મોટો હુમલો કરવાનો દાવો કર્યો છે. તેમણે કહ્યું કે આ હુમલામાં ઘણા ટોચના ઈરાની લશ્કરી નેતાઓ માર્યા ગયા છે. ટ્રમ્પે આ શનિવારે જ ઈરાનને ધમકી આપી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/trump-claims-massive-us-attack-on-tehran-terminated-top-military-leaders-471532 ",
+    "time": "2026-04-05T04:26:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ગજબ ! તુષાર દેશપાંડેએ ગુજરાતને 6 બોલમાં 11 રન ના કરવા દીધા, જાણો છેલ્લી ઓવરમાં બોલ-બાય-બોલ શું થયું",
+    "desc": "IPL 2026માં ગુજરાત ટાઇટન્સ અને રાજસ્થાન રોયલ્સ વચ્ચે એક હાઇ-સ્કોરિંગ મેચ રમાઈ હતી, જે રાજસ્થાન રોયલ્સે માત્ર 6 રનના માર્જિનથી જીતી હતી. તુષાર દેશપાંડેએ અંતિમ ઓવરમાં ગુજરાતને 11 રન ના કરવા દીધા અને 6 રનથી મેચ જીતી લીધી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rr-tushar-deshpande-defend-11-runs-vs-gt-last-over-ball-by-ball-explained-471534 ",
+    "time": "2026-04-05T04:03:42.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "ટુ-ફેક્ટર ઓથેન્ટિકેશન (2FA) શું છે? જાણો સરકાર કેમ આ નવી ટેકનોલોજી પર મૂકી રહી ભાર",
     "desc": "સાયબર હુમલાઓ પહેલા કરતાં વધુ સ્માર્ટ અને ખતરનાક બન્યા છે, અને 2FA એક શક્તિશાળી સુરક્ષા તરીકે કામ કરે છે. જાણો કેટલું આટલું મહત્વપૂર્ણ, કેવી રીતે કામ કરે સાથે સાથે કેવી રીતે એક્ટિવ કરવા વિશે જાણકારી આપી છે.",
@@ -286,15 +304,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ipl-one-match-cost-player-fee-operational-and-stadium-costs-check-full-details-471365 ",
     "time": "2026-04-03T11:21:24.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ચીન ઉડાવી ગયું ભારતનું તેલ ! ગુજરાત આવી રહેલા ઈરાની જહાજે છેલ્લી ઘડીએ બદલ્યો રસ્તો, હોર્મુઝ સંકટ વચ્ચે મોટો ઝટકો",
-    "desc": "પશ્ચિમ એશિયાઈ કટોકટીએ ભારત સહિત વિશ્વના ઘણા દેશોમાં ક્રૂડ ઓઈલનું સંકટ ઉભું કર્યું છે. આ દરમિયાન, ભારત તરફ તેલ લઈ જતું ઈરાની જહાજ ચીન તરફ વળ્યું છે. જો આ ટેન્કર ભારત આવ્યું હોત તો 2019 પછી આવનાર પહેલું જહાજ હોત.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/india-oil-iranian-tanker-coming-to-gujarat-changed-its-route-at-the-last-minute-a-big-setback-amid-hormuz-crisis-471364 ",
-    "time": "2026-04-03T11:21:23.000Z"
   },
   {
     "cat": "Business",

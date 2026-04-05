@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'I don't understand': Ravichandran Ashwin weighs in on Gujarat Titans' loss to Rajasthan Royals in Ahmedabad",
+    "desc": "Rajasthan Royals registered a brilliant victory over Gujarat Titans in game 9 of the ongoing IPL (Indian Premier League) 2026. The two sides locked horns at the Narendra Modi Stadium in Ahmedabad, and RR managed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-don-t-understand-ravichandran-ashwin-weighs-in-on-gujarat-titans-loss-to-rajasthan-royals-in-ahmedabad-2026-04-05-1036355",
+    "time": "2026-04-05T04:56:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Just incredible': RR captain Riyan Parag gives his take after his side's thrilling win over Gujarat Titans",
+    "desc": "Game 9 of the ongoing IPL (Indian Premier League) 2026 saw Gujarat Titans taking on Rajasthan Royals. The two sides locked horns at the Narendra Modi Stadium in Gujarat on April 4, and after a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/just-incredible-rr-captain-riyan-parag-gives-his-take-after-his-side-s-thrilling-win-over-gujarat-titans-2026-04-05-1036350",
+    "time": "2026-04-05T03:36:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rashid Khan credits Tushar Deshpande for final over masterclass, blames himself for Gujarat's defeat",
     "desc": "Rajasthan Royals defeated Gujarat Titans by six runs in the high-voltage clash at the Narendra Modi Stadium in the IPL 2026. The hosts seemed the favourites to get the job done but in the final...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-yashasvi-jaiswal-set-new-ipl-record-breaking-sehwag-gambhir-s-longstanding-feat-2026-04-04-1036321",
     "time": "2026-04-04T14:38:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Kumar Kushagra, GT batter who replaced Shubman Gill for IPL 2026 clash against RR?",
-    "desc": "Kumar Kushagra replaced Gujarat Titans captain Shubman Gill in the team's IPL 2026 clash against Rajasthan Royals at the Narendra Modi Stadium in Ahmedabad on Saturday, April 4. Kushagra came in as Gill missed out...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-kumar-kushagra-gt-batter-who-replaced-shubman-gill-for-ipl-2026-clash-against-rr-2026-04-04-1036318",
-    "time": "2026-04-04T14:34:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Shubman Gill not playing for GT vs RR in IPL 2026 clash in Ahmedabad?",
-    "desc": "Gujarat Titans captain Shubman Gill missed out on the high-voltage clash against Rajasthan Royals at the Narendra Modi Stadium in Ahmedabad. In his absence, Rashid Khan took over the charge and shared that the India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-shubman-gill-not-playing-for-gt-vs-rr-in-ipl-2026-clash-in-ahmedabad-2026-04-04-1036312",
-    "time": "2026-04-04T13:40:46.000Z"
   }
 ];
