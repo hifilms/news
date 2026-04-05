@@ -1,12 +1,147 @@
 const newsData_en = [
   {
-    "cat": "World",
-    "title": "Iran-Israel war LIVE: U.S. rescues airman whose F-15 was downed in Iran, U.S. officials say",
-    "desc": "Donald Trump claimed the crew member sustained injuries, adding that he will just be fine; Iran's central military command rejected Trump's threat to destroy the country's vital infrastructure if it does not accept a peace deal within 48 hours.",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "cat": "Politics",
+    "title": "Raghav Chadha shares video of Parliament interventions, rebuts claims of ignoring Punjab issues",
+    "desc": "To my colleagues in AAP who were forced to issue videos saying that 'Raghav Chadha failed to raise Punjab's issues in Parliament', here is a small trailer, says Rajya Sabha MP Raghav Chadha in a post on X",
+    "img": "https://th-i.thgim.com/public/incoming/uwcnfn/article70826083.ece/alternates/LANDSCAPE_1200/PTI03_30_2026_000064B.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-april-5-2026-live-updates/article70825713.ece",
-    "time": "2026-04-05T04:55:21.000Z"
+    "url": "https://www.thehindu.com/news/national/raghav-chadha-shares-video-of-parliament-interventions-rebuts-claims-of-ignoring-punjab-issues/article70826073.ece",
+    "time": "2026-04-05T06:43:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘He should’ve got Rs 10-11 crore’: Ex-India cricketer calls RR star a ‘steal’ after heroics",
+    "desc": "Aakash Chopra lauded Ravi Bishnoi's match-winning 4/41 spell in Rajasthan Royals' narrow IPL 2026 victory over Gujarat Titans, deeming the leg-spinner undervalued at the auction. He also praised Tushar Deshpande's composed final over and Dhruv Jurel's stellar 75, while noting Gujarat's batting lacked construction.",
+    "img": "https://static.toiimg.com/photo/msid-130034770,imgsize-150618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/he-shouldve-got-rs-10-11-crore-ex-india-cricketer-calls-rr-star-a-steal-after-heroics/articleshow/130034812.cms",
+    "time": "2026-04-05T06:42:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Falsely fabricated narrative': DMK leader A Raja sends legal notice to YouTube channel over AI audio clip",
+    "desc": "DMK leader A Raja has sent a legal notice to a YouTube channel, alleging a fabricated AI-generated audio clip was used to misrepresent his speech. He criticized AIADMK leader Edappadi K Palaniswami for using the unverified recording to make defamatory remarks against DMK patriarch M Karunanidhi and CM MK Stalin.",
+    "img": "https://static.toiimg.com/photo/msid-130034600,imgsize-617261.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/falsely-fabricated-narrative-dmk-leader-a-raja-sends-legal-notice-to-youtube-channel-over-ai-audio-clip/articleshow/130034554.cms",
+    "time": "2026-04-05T06:38:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amaranth, brick, coral, and 48 other shades of red",
+    "desc": "A mass wedding ceremony in India’s capital, supported financially by an NGO and endorsed by the Delhi government, is a relief from dowry and wedding expenses. Through conversations with brides, grooms, and their kin, Ashna Butani finds that though couples and families are happy to have broken out of the cycle of spending a chunk of their savings on a ceremony, the rituals reinforce endogamy and traditional expectations",
+    "img": "https://th-i.thgim.com/public/incoming/skki9v/article70823169.ece/alternates/LANDSCAPE_1200/Mass%20wedding%20DELHI%2013.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/amaranth-brick-coral-and-48-other-shades-of-red/article70823163.ece",
+    "time": "2026-04-05T06:30:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar 2 set to SURPASS Rs 1000 cr in India",
+    "desc": "The Revenge' as it takes the cinematic world by storm, breaking records and captivating audiences worldwide. This gripping espionage thriller has not only become the highest-grossing Indian film in North America but is also on the brink of crossing the Rs 1000 crore mark in India. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130034543,imgsize-78134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-18-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampa-sara-arjun-r-madhavan-starrer-set-to-cross-rs-1000-crore-mark-in-india-today-eyeing-rs-1600-crore-global-earnings/articleshow/130034543.cms",
+    "time": "2026-04-05T06:20:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Crash Landing on You', 'Goblin' and more: K-drama on-screen couples who redefined romance",
+    "desc": "Some couples do not just make you believe in love, they make you believe in a version of it that is bigger, more patient, and more quietly devastating than anything you thought a screen could hold. These are the pairs whose chemistry rewrote the rules of what a romantic lead could be and what a love story could feel like. Here are five K-drama couples that fans are still not over and honestly never will be.",
+    "img": "https://static.toiimg.com/photo/msid-130016683,imgsize-45774.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/crash-landing-on-you-goblin-and-more-k-drama-on-screen-couples-who-redefined-romance/photostory/130016683.cms",
+    "time": "2026-04-05T05:54:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Selena Gomez to mark her directorial debut",
+    "desc": "Selena Gomez is taking on a new challenge as she steps into the director's seat for 'Wizards Beyond Waverly Place Final Chapter,' marking a significant milestone in her career. Alongside directing, she'll reprise her iconic role as Alex Russo across multiple episodes in the show's thrilling third season.",
+    "img": "https://static.toiimg.com/photo/msid-130034352,imgsize-106060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/selena-gomez-to-mark-her-directorial-debut-with-the-final-season-of-wizards-beyond-waverly-place/articleshow/130034352.cms",
+    "time": "2026-04-05T05:53:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US-Iran conflict: Middle East war sends US fuel prices soaring, surcharges kick in",
+    "desc": "Escalating Middle East tensions are driving up fuel costs in the US, impacting daily life and business operations. Petrol prices have surged over a dollar, with diesel seeing an even steeper increase, prompting companies like Amazon and airlines to implement surcharges. Experts warn of broader economic repercussions and consumer price hikes as supply chain pressures mount.",
+    "img": "https://static.toiimg.com/photo/msid-130034274,imgsize-154528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-iran-conflict-middle-east-war-sends-us-fuel-prices-soaring-surcharges-kick-in/articleshow/130033611.cms",
+    "time": "2026-04-05T05:45:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Malavika Mohanan's Mumbai home",
+    "desc": "Actress Malavika Mohanan unveiled her Mumbai family home, a Kerala-inspired sanctuary blending heritage and art. Designed with personal touches, the space features striking Athangudi-style red floors and a cherished family temple. Mohanan recently shared emotional reflections on her filming experiences and the comfort of family amidst her busy career.",
+    "img": "https://static.toiimg.com/photo/msid-130034249,imgsize-64198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/inside-malavika-mohanans-mumbai-home-a-kerala-temple-tanjore-painting-and-walk-in-wardrobe-reflect-her-roots/articleshow/130034249.cms",
+    "time": "2026-04-05T05:42:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mrunal reveals why she's saying no to tempting big film offers",
+    "desc": "Mrunal Thakur rejects tempting films post-Sita Ramam & Hi Nanna success, prioritizing scripts matching her benchmarks like Sita Mahalakshmi & Yashna. \"Heavy heart, but no,\" she says at Dacoit trailer launch with Adivi Sesh. Trailer—revenge saga—wins praise from Mahesh Babu, Vijay Deverakonda et al.",
+    "img": "https://static.toiimg.com/photo/msid-130034280,imgsize-23854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-reveals-why-shes-saying-no-to-tempting-big-film-offers-no-matter-how-big-the-opportunity-is/articleshow/130034280.cms",
+    "time": "2026-04-05T05:42:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All you need to know about the new cast of ‘Baywatch’ reboot",
+    "desc": "Surf’s up as 'Baywatch' makes its grand return! With a fresh lineup featuring Stephen Amell, Shay Mitchell, and Livvy Dunne, this reboot revitalizes the beloved series. Plus, fans will enjoy a nostalgic comeback from David Chokachi as Cody Madison. Brace yourself for thrilling rescues and sun-soaked drama when it premieres in late 2026!",
+    "img": "https://static.toiimg.com/photo/msid-130034255,imgsize-118062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/baywatch-reboot-shay-mitchell-livvy-dunne-and-more-meet-the-new-cast/articleshow/130034255.cms",
+    "time": "2026-04-05T05:41:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "For Trump, the cost of Iran war is rising",
+    "desc": "At least six KC-135s were damaged in two Iranian missile and drone attacks at the Prince Sultan Air Base in Saudi Arabia; The U.S. has also lost at least 12 MQ-9 Reaper drones since the war began, according to some reports",
+    "img": "https://th-i.thgim.com/public/incoming/41qr70/article70823861.ece/alternates/LANDSCAPE_1200/AP04_02_2026_000005A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/cost-of-iran-war-rising-donald-trump-us/article70823412.ece",
+    "time": "2026-04-05T05:29:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tori Spelling and her 4 children meet with car accident",
+    "desc": "Actress Tori Spelling and her four children were hospitalized following a car accident near Los Angeles. A speeding vehicle collided with Spelling's car on April 2, injuring all occupants, including three friends. Police responded to the scene, and all were taken for medical evaluation. This incident marks a recurrence, as Spelling was involved in a similar accident in 2011.",
+    "img": "https://static.toiimg.com/photo/msid-130034020,imgsize-133160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tori-spelling-and-her-4-children-get-into-a-car-crash-family-taken-to-the-hospital/articleshow/130034020.cms",
+    "time": "2026-04-05T05:21:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why MS Dhoni will not play CSK vs RCB match in IPL 2026",
+    "desc": "Royal Challengers Bengaluru, fresh off a win, face a struggling Chennai Super Kings in a southern derby. CSK's woes are compounded by the absence of MS Dhoni, who is sidelined for the first two weeks with a calf strain. Despite his physical absence, head coach Stephen Fleming insists Dhoni's influence on the team remains strong.",
+    "img": "https://static.toiimg.com/photo/msid-130034106,imgsize-72248.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/why-ms-dhoni-will-not-play-csk-vs-rcb-match-in-ipl-2026/articleshow/130034093.cms",
+    "time": "2026-04-05T05:20:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TVK chief Vijay files revised set of nominations in Perambur, Tiruchi East correcting discrepancies",
+    "desc": "In the revised set of nominations, Mr. Vijay has declared two cases pending against him — one at the Peravallur police station for allegedly violating election norms in the Kolathur Assembly seat, where he campaigned on March 30 after filing his nominations",
+    "img": "https://th-i.thgim.com/public/incoming/3nc4dz/article70825930.ece/alternates/LANDSCAPE_1200/20260404085L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-files-revised-set-of-nominations-in-perambur-tiruchi-east-correcting-discrepancies/article70825908.ece",
+    "time": "2026-04-05T05:16:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pakistan jibes become central to BJP’s Assam poll narrative",
+    "desc": "Chief Minister Himanta Biswa Sarma has been attacking Congress leader Gaurav Gogoi over his alleged Pakistan connections, his latest barb was aimed at the mother of a candidate whom he accused of sympathising with ‘anti-national’ elements",
+    "img": "https://th-i.thgim.com/public/incoming/8knf8z/article70820497.ece/alternates/LANDSCAPE_1200/2150_23_3_2026_18_14_36_1_ASSAMELECTION_23032026_02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/assam-assembly/in-bjps-assam-poll-narrative-pakistan-is-the-protagonist-anti-national-a-leitmotif/article70817060.ece",
+    "time": "2026-04-05T05:11:02.000Z"
   },
   {
     "cat": "World",
@@ -234,24 +369,6 @@ const newsData_en = [
     "time": "2026-04-05T01:42:06.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ranbir says 'Quentin Tarantino has shown me the FINGER'",
-    "desc": "As excitement builds for the grand teaser of 'Ramayana', Ranbir Kapoor took a lighthearted detour reminiscing about his quirky Hollywood moments. From being brushed off by Hollywood star Natalie Portman to an unforgettable three-hour wait for the legendary Al Pacino, his stories are both humorous and relatable. Read the full article to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130031956,imgsize-71958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-says-quentin-tarantino-has-shown-me-the-finger-and-natalie-portman-shooed-him-away/articleshow/130031956.cms",
-    "time": "2026-04-05T01:24:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Leader' BO day 2: Legend Saravanan film mark 52% growth",
-    "desc": "Legend Saravanan's action drama 'Leader' saw a significant 52% surge in box office collections on its second day, earning Rs 1.14 crore. The film's total India net collection now stands at Rs 1.89 crore. Despite a slow start, occupancy improved, especially during night shows, indicating potential for weekend growth. The movie features an undercover agent's mission to thwart an attack.",
-    "img": "https://static.toiimg.com/photo/msid-130031983,imgsize-125260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/leader-box-office-collections-day-2-legend-saravanan-film-crosses-rs-2-crore-mark-with-52-growth/articleshow/130031983.cms",
-    "time": "2026-04-05T01:21:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Vaibhav Sooryavanshi tipped for major role in BCCI’s make-or-break red-ball mission",
     "desc": "India's cricket board is rebuilding its Test team. A new plan focuses on young players for the future. A four-day competition will feature 64 players under 25. This aims to create a strong pipeline of red-ball cricketers. Coaches and selectors will prioritize Test development. Emerging and India A teams will tour Sri Lanka for four-day games.",
@@ -259,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/vaibhav-sooryavanshi-tipped-for-major-role-in-bccis-make-or-break-red-ball-mission/articleshow/130031744.cms",
     "time": "2026-04-05T01:17:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika cuts cake at airport as she heads for b'day vacay",
-    "desc": "Actress Rashmika Mandanna celebrated her birthday by jetting off on a vacation with husband Vijay Deverakonda and family. The 'Pushpa' star was seen cutting a cake at the Hyderabad airport before their departure to an undisclosed location. This intimate family celebration follows their recent wedding and a wrapped shooting schedule for their upcoming film 'Ranabaali'. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130031484,imgsize-151072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-cuts-cake-at-airport-as-she-heads-for-her-30th-birthday-vacation-with-vijay-deverakonda-and-family-video/articleshow/130031484.cms",
-    "time": "2026-04-05T01:14:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -279,33 +387,6 @@ const newsData_en = [
     "time": "2026-04-05T01:08:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Love Insurance Kompany' trailer: App can replace human love?",
-    "desc": "The trailer for Pradeep Ranganathan's 'Love Insurance Kompany' is here, showcasing a 2040 romance challenged by a futuristic app that insures relationships. Directed by Vignesh Shivan, the film sees Pradeep as Vibe Vassey falling for Krithi Shetty's Dheema, only for the app to deem them incompatible. The movie, with music by Anirudh Ravichander, hits theaters April 10.",
-    "img": "https://static.toiimg.com/photo/msid-130031537,imgsize-89372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/love-insurance-kompany-trailer-pradeep-ranganathan-proves-app-cant-replace-human-love-sets-april-release/articleshow/130031537.cms",
-    "time": "2026-04-05T01:04:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Frankie Paul goes on vacation with children",
-    "desc": "Amidst ongoing domestic violence investigations, reality star Taylor Frankie Paul was seen vacationing with her two elder children, Indy and Ocean. The trip follows recent domestic violence allegations from both Paul and her ex, Dakota Mortensen, which have led to legal proceedings and a custody battle for their son, Ever. Paul had previously pleaded guilty to aggravated assault.",
-    "img": "https://static.toiimg.com/photo/msid-130031353,imgsize-93322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/taylor-frankie-paul-enjoys-vacation-with-children-amid-domestic-violence-investigation-with-dakota-mortensen/articleshow/130031353.cms",
-    "time": "2026-04-05T01:00:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pedro Pascal spotted in Mexico as he films for ‘De Noche’",
-    "desc": "In an exciting turn of events, Pedro Pascal is on the set of Todd Haynes' latest project, the romantic drama 'De Noche', filming in the vibrant landscapes of Mexico. Portraying a hardboiled detective from the 1930s, Pascal's striking new vintage look brings a fresh intensity to the character.",
-    "img": "https://static.toiimg.com/photo/msid-130031370,imgsize-92526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/pedro-pascal-spotted-in-mexico-in-a-striking-vintage-look-filming-for-his-upcoming-movie-de-noche/articleshow/130031370.cms",
-    "time": "2026-04-05T00:57:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Vaishali, Divya Deshmukh save Indian blushes; Praggnanandhaa must act now",
     "desc": "Javokhir Sindarov continues his dominant run in the FIDE Candidates Open section, widening his lead. In the Women's category, Indian players Vaishali Rameshbabu and Divya Deshmukh secured crucial wins, though their victories relied heavily on opponent errors. The Indian challenge in the Open section, led by Praggnanandhaa, lags significantly behind the leader.",
@@ -313,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-vaishali-divya-deshmukh-save-indian-blushes-praggnanandhaa-must-act-now/articleshow/130031071.cms",
     "time": "2026-04-05T00:48:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Patriot': Mammootty, Mohanlal team up for a covert mission",
-    "desc": "Malayalam cinema's biggest stars, Mammootty and Mohanlal, reunite after 18 years in the intense spy thriller 'Patriot'. Directed by Mahesh Narayanan, the film promises high-stakes action and suspense as Mammootty's character, a framed JAG officer, undertakes a covert mission with Mohanlal's crucial support. The trailer has ignited fan excitement for this ambitious project, set for release on May 1.",
-    "img": "https://static.toiimg.com/photo/msid-130031049,imgsize-80970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/patriot-trailer-mammootty-and-mohanlal-team-up-for-a-covert-mission-dual-theatre-launch-creates-excitement/articleshow/130031049.cms",
-    "time": "2026-04-05T00:42:25.000Z"
   },
   {
     "cat": "Politics",
@@ -340,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-17-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-sara-arjuns-film-eyes-rs-1600-cr-worldwide/articleshow/130031033.cms",
     "time": "2026-04-05T00:35:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ustaad Bhagat Singh' BO day 17: Film mints just Rs 3 lakhs",
-    "desc": "Pawan Kalyan's 'Ustaad Bhagat Singh' is struggling at the box office, with collections plummeting in its third week. Despite a strong opening, mixed reviews have led to a significant dip in footfalls. The film's performance indicates it's heading towards a sub-100 crore finish, with hero elevation taking precedence over narrative freshness.",
-    "img": "https://static.toiimg.com/photo/msid-130030064,imgsize-87614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/ustaad-bhagat-singh-box-office-collections-day-17-pawan-kalyan-film-mints-just-rs-3-lakhs-sharp-dip-signals-weak-hold/articleshow/130030064.cms",
-    "time": "2026-04-05T00:07:28.000Z"
   },
   {
     "cat": "Sports",
@@ -460,15 +523,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Government",
-    "desc": "The government will increase gas supply to urea plants to approximately 90% of their average consumption from Monday, boosting productivity for upcoming crop seasons. This move, considering available inventory and scheduled LNG arrivals, will also enhance gas supply to other industrial and commercial sectors by 10%.",
-    "img": "https://static.toiimg.com/photo/msid-130026614,imgsize-1025423.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/more-lng-supply-for-urea-plants-to-boost-production-government/articleshow/130026518.cms",
-    "time": "2026-04-04T20:06:06.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "What are the concerns over the FCRA Bill?",
     "desc": "How does the Home Ministry regulate foreign donations to NGOs in India? What are the key changes proposed to the Foreign Contribution (Regulation) Amendment Bill, 2026? Why has the Opposition objected to the Bill and why was the Bill deferred? What is its current status?",
     "img": "https://th-i.thgim.com/public/incoming/pmb1la/article70824669.ece/alternates/LANDSCAPE_1200/20260401035L.jpg",
@@ -514,24 +568,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "National Conference, Congress seek ‘decent burial’ of man killed in Ganderbal encounter",
-    "desc": "MLAs in the J&K Assembly demanded the handover of Rashid Ahmad Mughal's body for a dignified burial, disputing the Army's account of the Ganderbal encounter. They asserted the family's constitutional right to perform last rites, even as a magisterial inquiry is underway. Legislators also called for a judicial probe and a government statement on the incident.",
-    "img": "https://static.toiimg.com/photo/msid-130025546,imgsize-2094377.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/national-conference-congress-seek-decent-burial-of-man-killed-in-ganderbal-encounter/articleshow/130025458.cms",
-    "time": "2026-04-04T18:28:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jammu &amp; Kashmir opens higher education for private sector",
-    "desc": "Jammu and Kashmir's assembly has greenlit a bill to establish private universities, a move hailed as historic. Education Minister Sakeena Itoo stated this will significantly enhance higher education access for local students and bolster the region's economy by retaining talent. The legislation also aims to ensure quality and student protection within these new institutions.",
-    "img": "https://static.toiimg.com/photo/msid-130025383,imgsize-666666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jammu-kashmir-opens-higher-education-for-private-sector/articleshow/130025167.cms",
-    "time": "2026-04-04T18:21:27.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "T.N. CM Stalin, Union Minister clash over three-language formula ahead of T.N. polls",
     "desc": "Tamil Nadu Chief Minister M.K. Stalin says Centre has failed to make Tamil mandatory in KVs or appoint sufficient Tamil teachers, Education Minister says DMK is creating barriers that deny youth the chance to become multilingual global leaders",
     "img": "https://th-i.thgim.com/public/incoming/wpye6f/article70824590.ece/alternates/LANDSCAPE_1200/2315_4_4_2026_20_24_17_1_SNKLDMK.JPG",
@@ -547,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-tushar-deshpande-defends-11-in-final-over-as-royals-beat-titans-by-six-runs/articleshow/130024805.cms",
     "time": "2026-04-04T18:16:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Will launch probe into Karunanidhi’s death after coming back to power, says Palaniswami",
-    "desc": "He was responding to DMK president and Chief Minister M.K. Stalin’s contention that the AIADMK leader has no right or locus standi to comment on the latter’s relationship with his father at an election campaign the previous day",
-    "img": "https://th-i.thgim.com/public/incoming/jyjaue/article70824296.ece/alternates/LANDSCAPE_1200/9712_4_4_2026_18_19_25_2__DSC7687.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/will-launch-probe-intokarunanidhisdeath-after-coming-back-to-power-says-palaniswami/article70823941.ece",
-    "time": "2026-04-04T18:09:05.000Z"
   },
   {
     "cat": "World",
@@ -630,15 +657,6 @@ const newsData_en = [
     "time": "2026-04-04T14:50:17.000Z"
   },
   {
-    "cat": "World",
-    "title": "For Trump, the cost of Iran war is rising",
-    "desc": "At least six KC-135s were damaged in two Iranian missile and drone attacks at the Prince Sultan Air Base in Saudi Arabia; The U.S. has also lost at least 12 MQ-9 Reaper drones since the war began, according to some reports",
-    "img": "https://th-i.thgim.com/public/incoming/41qr70/article70823861.ece/alternates/LANDSCAPE_1200/AP04_02_2026_000005A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/cost-of-iran-war-rising-donald-trump-us/article70823412.ece",
-    "time": "2026-04-04T14:48:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sooryavanshi, Jaiswal script IPL history, become fastest Indian pair to...",
     "desc": "Yashasvi Jaiswal and Vaibhav Sooryavanshi became the fastest Indian pair to 500 IPL partnership runs, reaching the mark in just 248 balls and breaking Sehwag-Gambhir’s record. Rajasthan Royals, batting first after winning the toss, looked strong. Gujarat Titans, led by Rashid Khan in Shubman Gill’s absence, faced added pressure against the in-form opening duo.",
@@ -655,24 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-sameer-rizvis-masterclass-floors-mumbai-indians-delhi-capitals-make-it-two-in-a-row/articleshow/130020917.cms",
     "time": "2026-04-04T13:55:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Shubman Gill not playing vs Rajasthan Royals?",
-    "desc": "Gujarat Titans missed captain Shubman Gill due to a muscle spasm, with Rashid Khan leading in his absence. Rajasthan Royals, led by Riyan Parag, chose to bat first on a high-scoring pitch. While Rajasthan entered with momentum, Gujarat aimed to recover from a poor start, with added pressure on their batting lineup without Gill.",
-    "img": "https://static.toiimg.com/photo/msid-130020760,imgsize-36564.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-gt-vs-rr-why-is-shubman-gill-not-playing-vs-rajasthan-royals/articleshow/130020681.cms",
-    "time": "2026-04-04T13:40:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Run-out drama! Bumrah’s direct hit steals show",
-    "desc": "Delhi Capitals were 39/2 after five overs when a mix-up led to Nitish Rana’s run-out. Tapping Bumrah to mid-wicket, Rana hesitated mid-run and was caught short by a sharp direct hit. Earlier, Mumbai Indians posted 162/6, led by Suryakumar Yadav’s 51, but Delhi’s bowlers kept things tight to restrict the total.",
-    "img": "https://static.toiimg.com/photo/msid-130019940,imgsize-35612.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/run-out-drama-jasprit-bumrahs-direct-hit-steals-show-in-dc-vs-mi-ipl-match-watch/articleshow/130019501.cms",
-    "time": "2026-04-04T12:51:23.000Z"
   },
   {
     "cat": "Tech",
@@ -819,15 +819,6 @@ const newsData_en = [
     "time": "2026-04-03T19:53:47.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.S. experts say American strikes on Iran may amount to war crimes",
-    "desc": "Over 100 international law experts in the U.S., ‌including from ⁠schools like Harvard, Yale, Stanford, and the University ⁠of California, say the conduct of U.S. forces and statements by senior U.S. officials “raise serious concerns about violations of international human rights ​law and international humanitarian law, ‌including potential war crimes”",
-    "img": "https://th-i.thgim.com/public/incoming/iuxtsx/article70821122.ece/alternates/LANDSCAPE_1200/2026-04-02T090156Z_1739474404_RC2YFKAO8VK5_RTRMADP_3_USA-COURT-TRUMP-BIRTHRIGHT.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-experts-say-american-strikes-on-iran-may-amount-to-war-crimes/article70821093.ece",
-    "time": "2026-04-03T19:35:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026 GT vs RR",
     "desc": "GT’s bowling, quietly efficient in the defeat to Punjab Kings, now meets a different kind of volatility, led by Vaibhav Suryavanshi and Yashasvi Jaiswal. RR began its campaign with a thumping eight-wicket win over Chennai Super Kings.",
@@ -855,24 +846,6 @@ const newsData_en = [
     "time": "2026-04-03T17:32:58.000Z"
   },
   {
-    "cat": "World",
-    "title": "One crew member rescued from downed U.S. fighter jet over Iran: U.S. media reports",
-    "desc": "Unidentified sources quoted by U.S. media reported that one of the two crew on the plane had already been rescued by U.S. special forces but that the search was ongoing for the second crew member.",
-    "img": "https://th-i.thgim.com/public/news/national/6wdnmj/article70820728.ece/alternates/LANDSCAPE_1200/HEYTEO7XsAERakG.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-fighter-jet-shot-down-over-iran-tehran-urges-civilians-to-hunt-for-crew/article70820656.ece",
-    "time": "2026-04-03T16:28:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Russia plans to step-up energy supply to India – Will it offset Middle East volatility?",
-    "desc": "Russia is ready to boost oil and liquefied natural gas supplies to India. This comes as the Middle East crisis creates global energy market volatility. Discussions between Russian and Indian officials covered expanding trade, investment, and industrial cooperation. Both nations also explored deepening engagement in civil nuclear energy. Russia confirmed its capacity for steady increases in energy shipments to India.",
-    "img": "https://static.toiimg.com/photo/msid-130001013,imgsize-738508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/russia-plans-to-step-up-energy-supply-to-india-will-it-offset-middle-east-volatility/articleshow/130000824.cms",
-    "time": "2026-04-03T12:43:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘I sincerely apologise to MS, Kapil’: Yuvraj says he told father Yograj outbursts were unacceptable",
     "desc": "I would like to apologise to Kapil and M.S. Dhoni about the comments because Kapil paaji has been a great player for India. What kind of relationship they (Yograj and Kapil) had, I don't know, I wasn't even born, says Yuvraj Singh",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/art/raja-ravi-varma-painting-sells-creates-record/article70814744.ece",
     "time": "2026-04-03T02:59:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryavanshi — how young is young?",
+    "desc": "Now that he has formally crossed the ICC threshold age of 15, a raging debate is underway on whether the left-handed batter should be fast-tracked to the Indian white-ball team; the special ones are always a step ahead of the opposition and have a counter for every game plan",
+    "img": "https://th-i.thgim.com/public/sport/auuzia/article70817273.ece/alternates/LANDSCAPE_1200/GettyImages-2257920956.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/suryavanshihow-young-isyoung/article70817248.ece",
+    "time": "2026-04-02T18:36:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rizvi grabs the opportunity to bat at No. 4",
+    "desc": "At the Ekana Cricket Stadium, Lucknow, on April 2, 2026, with chaos roiling around him, 22-year-old Sameer Rizvi came of age with an unbeaten 70 that guided Delhi Capitals to a six-wicket win over Lucknow Super Giants.",
+    "img": "https://th-i.thgim.com/public/incoming/dw6skv/article70815691.ece/alternates/LANDSCAPE_1200/33_RVM_2239.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-rizvi-grabs-the-opportunity-to-bat-at-no-4/article70815664.ece",
+    "time": "2026-04-02T18:18:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "GE Aerospace delivers sixth engine for Tejas",
+    "desc": "There has been a delay in the delivery schedule of engines for the LCA Mk-1A variant, which was criticised by Chief of Air Staff Air Chief Marshal A.P. Singh during the last edition of the Aero India in Bengaluru",
+    "img": "https://th-i.thgim.com/public/incoming/b1ih7e/article70814602.ece/alternates/LANDSCAPE_1200/20251001117L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/ge-aerospace-delivers-sixth-f404-in20-engine-for-tejas-lca-mk1a/article70814550.ece",
+    "time": "2026-04-02T17:23:22.000Z"
   }
 ];

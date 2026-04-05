@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will weather in Hyderabad fare for IPL 2026 game 10?",
+    "desc": "The stage is set for game 10 of the ongoing IPL (Indian Premier League) 2026. Sunrisers Hyderabad will take on Lucknow Super Giants at the Rajiv Gandhi International Stadium in Hyderabad on April 5. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-lsg-weather-report-how-will-weather-in-hyderabad-fare-for-ipl-2026-game-10-2026-04-05-1036358",
+    "time": "2026-04-05T05:48:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'I don't understand': Ravichandran Ashwin weighs in on Gujarat Titans' loss to Rajasthan Royals in Ahmedabad",
     "desc": "Rajasthan Royals registered a brilliant victory over Gujarat Titans in game 9 of the ongoing IPL (Indian Premier League) 2026. The two sides locked horns at the Narendra Modi Stadium in Ahmedabad, and RR managed...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sameer-rizvi-joins-virat-kohli-virender-sehwag-in-elite-ipl-club-after-stellar-outing-against-mi-2026-04-04-1036324",
     "time": "2026-04-04T15:32:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi, Yashasvi Jaiswal set new IPL record, breaking Sehwag-Gambhir's longstanding feat",
-    "desc": "Vaibhav Sooryavanshi and Yashavi Jaiswal have set a new record for the fastest Indian pair to reach 500 partnership runs (by balls) in the IPL. The Rajasthan Royals duo accomplished the feat in just 248...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-yashasvi-jaiswal-set-new-ipl-record-breaking-sehwag-gambhir-s-longstanding-feat-2026-04-04-1036321",
-    "time": "2026-04-04T14:38:59.000Z"
   }
 ];
