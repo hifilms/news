@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "MS Dhoni",
+    "desc": "16 needed off the last four balls against the Mumbai Indians. It was IPL 2022. Dhoni goes six, four, two and four against Jaydev Unadkat. Wins it for CSK with nerves of steel. 16 needed off...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-the-no-more-houdini-for-csk-s-troubles-is-well-past-his-peak-2026-04-05-1036396",
+    "time": "2026-04-05T12:20:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface in Bengaluru play for IPL 2026 play?",
+    "desc": "The stage is set for game 11 of the ongoing IPL (Indian Premier League) 2026 Royal Challengers Bengaluru take on Chennai Super Kings at the M Chinnaswamy Stadium in Bengaluru on April 5. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-csk-pitch-report-how-will-surface-in-bengaluru-play-for-ipl-2026-play-2026-04-05-1036391",
+    "time": "2026-04-05T11:28:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What is SRH's lowest total in IPL as LSG hit 2016 champions hard in Hyderabad?",
+    "desc": "Sunrisers Hyderabad were in shambles early on in their clash against Lucknow Super Giants at the Rajiv Gandhi International Stadium, Hyderabad, on Sunday, April 5. The hard-hitting SRH side was asked to bat first at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-is-srhs-lowest-total-in-ipl-as-lsg-hit-2016-champions-hard-in-hyderabad-2026-04-05-1036386",
+    "time": "2026-04-05T11:04:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli on brink of achieving IPL immortality, set to achieve huge record",
+    "desc": "Virat Kohli is on the verge of achieving a huge record in the Indian Premier League. The Royal Challengers Bengaluru icon has been the most prolific run-scorer in the tournament and has had several legendary...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-on-brink-of-achieving-ipl-immortality-set-to-achieve-huge-record-2026-04-05-1036385",
+    "time": "2026-04-05T10:43:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Pat Cummins not playing for Sunrisers Hyderabad against LSG in IPL 2026?",
+    "desc": "Game 10 of the ongoing IPL (Indian Premier League) 2026 sees Sunrisers Hyderabad taking on Lucknow Super Giants. The two sides lock horns at the Rajiv Gandhi International Stadium in Hyderabad on April 5. With...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-pat-cummins-not-playing-for-sunrisers-hyderabad-against-lsg-in-ipl-2026-2026-04-05-1036380",
+    "time": "2026-04-05T10:16:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When did MS Dhoni last miss an IPL match against RCB?",
     "desc": "Widely revered as one of the greatest captains in the history of the game, MS Dhoni has left an imprint on Indian cricket so huge that the fans are still fans of his demeanour, his...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/i-don-t-understand-ravichandran-ashwin-weighs-in-on-gujarat-titans-loss-to-rajasthan-royals-in-ahmedabad-2026-04-05-1036355",
     "time": "2026-04-05T04:56:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Just incredible': RR captain Riyan Parag gives his take after his side's thrilling win over Gujarat Titans",
-    "desc": "Game 9 of the ongoing IPL (Indian Premier League) 2026 saw Gujarat Titans taking on Rajasthan Royals. The two sides locked horns at the Narendra Modi Stadium in Gujarat on April 4, and after a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/just-incredible-rr-captain-riyan-parag-gives-his-take-after-his-side-s-thrilling-win-over-gujarat-titans-2026-04-05-1036350",
-    "time": "2026-04-05T03:36:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rashid Khan credits Tushar Deshpande for final over masterclass, blames himself for Gujarat's defeat",
-    "desc": "Rajasthan Royals defeated Gujarat Titans by six runs in the high-voltage clash at the Narendra Modi Stadium in the IPL 2026. The hosts seemed the favourites to get the job done but in the final...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-credits-tushar-deshpande-for-final-over-masterclass-blames-himself-for-gujarat-s-defeat-2026-04-04-1036338",
-    "time": "2026-04-04T18:28:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCB extends Mehidy Hasan's captaincy till 2027, confirms Litton Das T20 captain till World Cup 2028",
-    "desc": "The Bangladesh Cricket Board (BCB) on Saturday extended the ODI captaincy tenure of Mehidy Hasan Miraz till 2027. The Board also confirmed that Litton Das will keep leading the T20I side till the 2028 World...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcb-extends-mehidy-hasans-captaincy-till-2027-confirms-litton-das-t20-captain-till-world-cup-2028-2026-04-04-1036336",
-    "time": "2026-04-04T18:16:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan pull off a miraculous win against GT; bowlers steal show after Dhruv Jurel's commanding knock",
-    "desc": "Rajasthan Royals defeated Gujarat Titans by six runs at the Narendra Modi Stadium in Ahmedabad. Just when the game seemed to have slipped from the reach of the Riyan Parag-led side, Jofra Archer pulled back...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-pull-off-a-miraculous-win-against-gt-bowlers-steal-show-after-dhruv-jurel-s-commanding-knock-2026-04-04-1036332",
-    "time": "2026-04-04T17:55:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "GT assistant coach Parthiv Patel reveals skipper's potential comeback in IPL 2026",
-    "desc": "Shubman Gill missed out on the Gujarat Titans' clash against the Rajasthan Royals in IPL 2026 on Saturday, April 4, due to a muscle spasm. Afghanistan star Rashid Khan led the Titans for their second...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-injury-update-gt-assistant-coach-parthiv-patel-reveals-skippers-potential-comeback-in-ipl-2026-2026-04-04-1036331",
-    "time": "2026-04-04T17:23:32.000Z"
   }
 ];

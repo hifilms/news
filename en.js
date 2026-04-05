@@ -1,6 +1,96 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Sara's tribute to Aditya and unsung heroes",
+    "desc": "As 'Dhurandhar 2' rides its box‑office wave, Sara Arjun posts a heartfelt tribute to director Aditya Dhar and the film’s “unsung heroes,” sharing BTS pictures and praising the entire crew, from producers and DOP to costume, VFX, and stunt teams, calling them the spine of the cinema that has made history.",
+    "img": "https://static.toiimg.com/photo/msid-130039560,imgsize-36096.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-the-revenge-sara-arjuns-tribute-to-aditya-dhar-and-unsung-heroes-amid-box-office-run-shares-bts-pics/articleshow/130039560.cms",
+    "time": "2026-04-05T12:43:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kriti wishes Rashmika 'pure soul' on birthday",
+    "desc": "Kriti Sanon and Rashmika Mandanna will share the screen in 'Cocktail 2', co‑starring Shahid Kapoor, whose first song 'Jab Talak' releases April 8. On Rashmika’s birthday, Kriti wished her with a wedding‑photo edit, calling her “pure soul,” while also promoting the film’s June 19, 2026, release.",
+    "img": "https://static.toiimg.com/photo/msid-130039305,imgsize-46750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanon-wishes-rashmika-mandanna-pure-soul-on-birthday-have-some-extra-cake/articleshow/130039305.cms",
+    "time": "2026-04-05T12:30:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Jihadi module with links to foreign handlers':  Andhra Pradesh Police busts suspected ISIS-linked network with multi-state links",
+    "desc": "Authorities have busted a terror network allegedly linked to ISIS and foreign handlers, accused of radicalizing Indian youth online. Teams across multiple states apprehended suspects involved in spreading jihadi propaganda, including videos of extremist figures. The group reportedly aimed to establish an Islamic State in India, with links traced to Pakistan, Afghanistan, Syria, and Bangladesh.",
+    "img": "https://static.toiimg.com/photo/msid-130038957,imgsize-46154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jihadi-module-with-links-to-foreign-handlers-andhra-pradesh-police-bust-suspected-isis-linked-network-with-multi-state-links/articleshow/130038924.cms",
+    "time": "2026-04-05T12:06:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Premallatha",
+    "desc": "Palaniswami claimed that he had not entered into any pact with DMDK on Rajya Sabha seat during Parliamentary polls in 2024 nor had he given any assurance to Ms. Premallatha during talks for Lok Sabha polls that year",
+    "img": "https://th-i.thgim.com/public/incoming/n4l54p/article70826355.ece/alternates/LANDSCAPE_1200/9870_30_11_2025_14_3_21_2__DSC4583.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/eps-did-not-keep-his-promise-on-rajya-sabha-seat-to-dmdk-premalatha/article70826296.ece",
+    "time": "2026-04-05T12:05:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Poonam Sinha on daughter Sonakshi's pregnancy rumors",
+    "desc": "“Kitni baar nani bana diya humko!” In 2025, Sonakshi sparked buzz in red at Mumbai event; she and Zaheer laughed it off. Poonam cherishes daughters, hopes for grandkids. Couple dated 7 yrs post-2013 meet, wed 2024.",
+    "img": "https://static.toiimg.com/photo/msid-130038785,imgsize-29952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/poonam-sinha-on-daughter-sonakshi-sinhas-pregnancy-rumors-kitni-baar-nani-bana-diya-humko/articleshow/130038785.cms",
+    "time": "2026-04-05T11:52:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No handshake! Uzbek GM stuns India's Harikai with 'Namaste'",
+    "desc": "At the Grenke Freestyle Open, Harika Dronavali offered a handshake while resigning, but Nodirbek Yakubboev responded with a respectful “Namaste,” both smiling. Meanwhile, Keymer and Niemann lead the event. Yakubboev earlier avoided shaking hands with Vaishali, later apologising with gifts. He clarified his actions were due to “religious reasons,” while expressing respect for her and Indian players.",
+    "img": "https://static.toiimg.com/photo/msid-130038091,imgsize-78066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/no-handshake-uzbek-chess-gm-stuns-indias-harika-dronavali-with-namaste-watch/articleshow/130037793.cms",
+    "time": "2026-04-05T11:09:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM’s push for increasing seats of Lok Sabha, Assemblies nothing but ‘Weapon of Mass Distraction’: Congress",
+    "desc": "Congress’ remarks come a day after PM Modi said that Parliament’s Budget session has been extended for three days so that the law enacted in 2023 for providing 33% reservation to women in the Lok Sabha and State Assemblies can be implemented from 2029",
+    "img": "https://th-i.thgim.com/public/incoming/ujdejz/article70826142.ece/alternates/LANDSCAPE_1200/08_Jairam_Ramesh_03_04_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pms-push-for-increasing-seats-of-lok-sabha-assemblies-nothing-but-weapon-of-mass-distraction-congress/article70826135.ece",
+    "time": "2026-04-05T10:59:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Middle East tensions to hit TV sales? Industry braces for decline as production costs rise",
+    "desc": "India's TV market faces headwinds from soaring component costs, including RAM and plastics, compounded by rising freight charges and a weaker rupee. This is pushing up prices, prompting consumers to delay purchases and consider smaller screen sizes. While EMIs offer some relief, a slowdown in shipments is anticipated, though larger screens may see long-term growth.",
+    "img": "https://static.toiimg.com/photo/msid-130037507,imgsize-121948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-tensions-to-hit-tv-sales-industry-braces-for-decline-as-production-costs-rise/articleshow/130037502.cms",
+    "time": "2026-04-05T10:29:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Big call! Ishan Kishan opts for Rs 13 crore weapon vs LSG",
+    "desc": "Lucknow Super Giants captain Rishabh Pant won the toss and chose to bowl against Sunrisers Hyderabad. LSG made one change, bringing in Manimaran Siddharth for Anrich Nortje. SRH also introduced Liam Livingstone and Harshal Patel into their lineup, aiming for a crucial win after a mixed start to the season.",
+    "img": "https://static.toiimg.com/photo/msid-130037504,imgsize-94532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/big-call-ishan-kishan-opts-for-rs-13-crore-star-in-clash-vs-rishabh-pant-led-lsg/articleshow/130037363.cms",
+    "time": "2026-04-05T10:18:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The 'difficult call' Riyan Parag took",
+    "desc": "Rajasthan Royals secured a thrilling six-run victory over Gujarat Titans, thanks to Riyan Parag's bold bowling decisions at the death. Parag's trust in Tushar Deshpande for the final over, after Jofra Archer's crucial 19th, paid off, boosting his confidence as a leader. Archer's economical over set the stage for Deshpande to defend 10 runs, securing the win.",
+    "img": "https://static.toiimg.com/photo/msid-130037048,imgsize-64598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/the-difficult-call-riyan-parag-took-and-how-it-paid-off-for-rajasthan-royals/articleshow/130037043.cms",
+    "time": "2026-04-05T09:54:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Sobhita Dhulipala goes scuba diving; shares pictures",
     "desc": "Actress Sobhita Dhulipala recently shared captivating glimpses of her scuba diving adventure, showcasing serene moments on a boat and the vibrant underwater world teeming with colorful marine life. Her posts, including a thrilling jump into the sea, garnered enthusiastic reactions from fans and celebrities alike, with many praising her connection to the ocean.",
     "img": "https://static.toiimg.com/photo/msid-130036372,imgsize-43670.cms",
@@ -39,7 +129,7 @@ const newsData_en = [
     "cat": "Business",
     "title": "Inside India's ghost malls: How nostalgic hangout spots lost their magic",
     "desc": "India's once-vibrant malls are becoming 'ghost malls,' with nearly 20% underperforming or empty. This decline stems from poor planning, oversupply, and a failure to adapt to changing consumer experiences, not just e-commerce. While some struggle, these spaces offer potential for reinvention into entertainment, co-working, or educational hubs.",
-    "img": "https://static.toiimg.com/photo/msid-130036340,imgsize-1435170.cms",
+    "img": "https://static.toiimg.com/photo/msid-130036897,imgsize-119922.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/inside-indias-ghost-malls-how-nostalgic-hangout-spots-lost-their-magic/articleshow/130034493.cms",
     "time": "2026-04-05T08:47:03.000Z"
@@ -142,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/fpi-sell-off-deepens-rs-23801-crore-withdrawn-in-a-week-march-sees-record-rs-1-17-lakh-crore-exit/articleshow/130035171.cms",
     "time": "2026-04-05T07:35:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM’s push for increasing seats of Lok Sabha, assemblies nothing but ‘Weapon of Mass Distraction’: Congress",
-    "desc": "Congress’ remarks come a day after PM Modi said that Parliament’s Budget session has been extended for three days so that the law enacted in 2023 for providing 33% reservation to women in the Lok Sabha and State Assemblies can be implemented from 2029",
-    "img": "https://th-i.thgim.com/public/incoming/ujdejz/article70826142.ece/alternates/LANDSCAPE_1200/08_Jairam_Ramesh_03_04_Delhi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pms-push-for-increasing-seats-of-lok-sabha-assemblies-nothing-but-weapon-of-mass-distraction-congress/article70826135.ece",
-    "time": "2026-04-05T07:34:22.000Z"
   },
   {
     "cat": "Politics",
@@ -297,33 +378,6 @@ const newsData_en = [
     "time": "2026-04-05T05:45:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside Malavika Mohanan's Mumbai home",
-    "desc": "Actress Malavika Mohanan unveiled her Mumbai family home, a Kerala-inspired sanctuary blending heritage and art. Designed with personal touches, the space features striking Athangudi-style red floors and a cherished family temple. Mohanan recently shared emotional reflections on her filming experiences and the comfort of family amidst her busy career.",
-    "img": "https://static.toiimg.com/photo/msid-130034249,imgsize-64198.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/inside-malavika-mohanans-mumbai-home-a-kerala-temple-tanjore-painting-and-walk-in-wardrobe-reflect-her-roots/articleshow/130034249.cms",
-    "time": "2026-04-05T05:42:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mrunal reveals why she's saying no to tempting big film offers",
-    "desc": "Mrunal Thakur rejects tempting films post-Sita Ramam & Hi Nanna success, prioritizing scripts matching her benchmarks like Sita Mahalakshmi & Yashna. \"Heavy heart, but no,\" she says at Dacoit trailer launch with Adivi Sesh. Trailer—revenge saga—wins praise from Mahesh Babu, Vijay Deverakonda et al.",
-    "img": "https://static.toiimg.com/photo/msid-130034280,imgsize-23854.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-reveals-why-shes-saying-no-to-tempting-big-film-offers-no-matter-how-big-the-opportunity-is/articleshow/130034280.cms",
-    "time": "2026-04-05T05:42:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All you need to know about the new cast of ‘Baywatch’ reboot",
-    "desc": "Surf’s up as 'Baywatch' makes its grand return! With a fresh lineup featuring Stephen Amell, Shay Mitchell, and Livvy Dunne, this reboot revitalizes the beloved series. Plus, fans will enjoy a nostalgic comeback from David Chokachi as Cody Madison. Brace yourself for thrilling rescues and sun-soaked drama when it premieres in late 2026!",
-    "img": "https://static.toiimg.com/photo/msid-130034255,imgsize-118062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/baywatch-reboot-shay-mitchell-livvy-dunne-and-more-meet-the-new-cast/articleshow/130034255.cms",
-    "time": "2026-04-05T05:41:03.000Z"
-  },
-  {
     "cat": "World",
     "title": "For Trump, the cost of Iran war is rising",
     "desc": "At least six KC-135s were damaged in two Iranian missile and drone attacks at the Prince Sultan Air Base in Saudi Arabia; The U.S. has also lost at least 12 MQ-9 Reaper drones since the war began, according to some reports",
@@ -468,15 +522,6 @@ const newsData_en = [
     "time": "2026-04-05T03:11:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "campaign trail heats up in Kundara as three major fronts intensify their reach-out programmes",
-    "desc": "Incumbent MLA P.C. Vishnunadh of UDF is banking on his track record, while LDF’s Sajikumar promises transformative projects. Robin Radhakrishnan of the NDA is advocating for radical change while pledging direct access to Prime Minister Modi if elected.",
-    "img": "https://th-i.thgim.com/public/incoming/xxvgxt/article70824551.ece/alternates/LANDSCAPE_1200/80686_4_4_2026_20_30_27_1_05TVKO_KUNDARAUDFCANDIDATE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-campaign-trail-heats-up-in-kundara-as-three-major-fronts-intensify-their-reach-out-programmes/article70823079.ece",
-    "time": "2026-04-05T02:52:27.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rising energy prices impact roads, airlines and restaurants",
     "desc": "Global energy prices are soaring due to the Middle East conflict and Strait of Hormuz issues. This is significantly impacting India's economy. Road construction costs are rising, and airlines face higher fuel expenses. Hotels and restaurants are also feeling the pinch with increased LPG prices. Businesses are adjusting to these escalating costs, with some considering price hikes.",
@@ -504,24 +549,6 @@ const newsData_en = [
     "time": "2026-04-05T02:11:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Pinarayi slams Rahul for drawing equivalence between LDF and Hindutva forces in Chhattisgarh",
-    "desc": "Kerala Chief Minister says the Congress leader’s “brazenly misleading” statement smacks of an “impudence stemming from social and political illiteracy and ignorance”; he says the Congress’ “complacency and ideological ambiguity” in politically resisting Hindu majoritarian forces, including their trespasses on minorities, paved the way for the ascendancy of the Sangh Parivar-backed BJP in India",
-    "img": "https://th-i.thgim.com/public/incoming/taajox/article70823764.ece/alternates/LANDSCAPE_1200/NH31PinarayiVijayan02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/pinarayi-slams-rahul-for-drawing-equivalence-between-ldf-and-hindutva-forces-in-chhattisgarh/article70823547.ece",
-    "time": "2026-04-05T01:56:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ashok Sharma’s 154.2 kmph rocket not the fastest: Here are IPL’s quickest-ever deliveries",
-    "desc": "Gujarat Titans' Ashok Sharma unleashed a blistering 154.2 kmph yorker, the fastest of IPL 2026, against Rajasthan Royals. While Sharma impressed, Shaun Tait's 2011 record of 157.71 kmph remains the IPL's ultimate pace benchmark. Other speedsters like Ferguson, Malik, and Yadav have also pushed the limits, showcasing the league's enduring love for raw pace.",
-    "img": "https://static.toiimg.com/photo/msid-130032063,imgsize-116288.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ashok-sharmas-154-2-kmph-rocket-not-the-fastest-here-are-ipls-quickest-ever-deliveries/articleshow/130032056.cms",
-    "time": "2026-04-05T01:42:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Vaibhav Sooryavanshi tipped for major role in BCCI’s make-or-break red-ball mission",
     "desc": "India's cricket board is rebuilding its Test team. A new plan focuses on young players for the future. A four-day competition will feature 64 players under 25. This aims to create a strong pipeline of red-ball cricketers. Coaches and selectors will prioritize Test development. Emerging and India A teams will tour Sri Lanka for four-day games.",
@@ -532,7 +559,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Vaishali, Divya Deshmukh save Indian blushes; Praggnanandhaa must act now",
+    "title": "Vaishali, Divya Deshmukh save Indian blushes; Pragg must act now",
     "desc": "Javokhir Sindarov continues his dominant run in the FIDE Candidates Open section, widening his lead. In the Women's category, Indian players Vaishali Rameshbabu and Divya Deshmukh secured crucial wins, though their victories relied heavily on opponent errors. The Indian challenge in the Open section, led by Praggnanandhaa, lags significantly behind the leader.",
     "img": "https://static.toiimg.com/photo/msid-130031130,imgsize-90480.cms",
     "src": "indiatimes.com",
@@ -547,24 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/parliament-panel-seeks-accurate-enumeration-of-all-disabilities-in-census/articleshow/130031054.cms",
     "time": "2026-04-05T00:40:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Dhurandhar: The Revenge’ eyes Rs 1,600 crore worldwide",
-    "desc": "The Revenge' continues its impressive box office run, nearing the Rs 1000 crore mark domestically. The spy thriller has grossed over Rs 1550 crore worldwide, with strong weekend performances bolstering its overall collection. The film is currently enjoying its third weekend in theaters.",
-    "img": "https://static.toiimg.com/photo/msid-130031029,imgsize-27752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-17-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-sara-arjuns-film-eyes-rs-1600-cr-worldwide/articleshow/130031033.cms",
-    "time": "2026-04-05T00:35:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Credit to Dhruv Jurel': Inside RR's Jofra Archer move that turned the game vs GT",
-    "desc": "Parag said he had a different plan initially but changed it after Jurel’s input. \"I was actually going to switch the order but credit to Jurel - he asked me to go with Jofra for the 19th. Wanted to go as fast as possible and as straight as possible,\" Parag said after the match.",
-    "img": "https://static.toiimg.com/photo/msid-130025913,imgsize-47492.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/credit-to-dhruv-jurel-inside-rrs-jofra-archer-move-that-turned-the-game-vs-gt/articleshow/130025879.cms",
-    "time": "2026-04-05T00:00:00.000Z"
   },
   {
     "cat": "Sports",
@@ -594,33 +603,6 @@ const newsData_en = [
     "time": "2026-04-04T22:53:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Following the ideals of Jagjivan Ram, Congress to secure justice for downtrodden, says party leaders",
-    "desc": "During the function, U.P. Congress also felicitated current and former Members of Parliament (MPs) and Members of Legislative Assembly (MLAs) belonging to the Scheduled Castes, as well as individuals from the Scheduled Castes who have performed exemplary work in social service",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/following-the-ideals-of-jagjivan-ram-congress-to-secure-justice-for-downtrodden-says-party-leaders/article70823892.ece",
-    "time": "2026-04-04T22:19:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Women should ensure quota bills passed unopposed",
-    "desc": "Prime Minister Modi announced the women's reservation law will be implemented from the 2029 Lok Sabha polls, urging women to pressure the opposition for unopposed passage. He refuted claims that southern states would lose seats due to population control, stating the government will increase Lok Sabha constituencies to accommodate the 33% quota for women.",
-    "img": "https://static.toiimg.com/photo/msid-130028003,imgsize-1206293.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/prime-minister-women-should-ensure-quota-bills-passed-unopposed/articleshow/130027647.cms",
-    "time": "2026-04-04T22:08:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Himanta Biswa Sarma vows free LPG cylinders for puja, Bihu; code violation, says Congress",
-    "desc": "Assam CM Himanta Biswa Sarma announced free LPG cylinders for Bihu and Durga Puja during a poll rally, promising one cylinder for each festival if the BJP returns to power. The announcement came amidst reports of long queues at gas distributors. The Congress criticized the move as a violation of the model code of conduct.",
-    "img": "https://static.toiimg.com/photo/msid-130026867,imgsize-964335.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/himanta-biswa-sarma-vows-free-lpg-cylinders-for-puja-bihu-code-violation-says-congress/articleshow/130026865.cms",
-    "time": "2026-04-04T21:49:12.000Z"
-  },
-  {
     "cat": "World",
     "title": "Why does Trump want to pull out of NATO?",
     "desc": "Why does the U.S. administration believe that NATO’s founding principles and membership need to be ‘re-examined’? Why was NATO formed, and what are the recent developments that have led to fissures? Can the U.S. easily exit NATO? How much does it contribute to the alliance?",
@@ -630,24 +612,6 @@ const newsData_en = [
     "time": "2026-04-04T20:40:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "What are the concerns over the FCRA Bill?",
-    "desc": "How does the Home Ministry regulate foreign donations to NGOs in India? What are the key changes proposed to the Foreign Contribution (Regulation) Amendment Bill, 2026? Why has the Opposition objected to the Bill and why was the Bill deferred? What is its current status?",
-    "img": "https://th-i.thgim.com/public/incoming/pmb1la/article70824669.ece/alternates/LANDSCAPE_1200/20260401035L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/what-are-the-concerns-over-the-fcra-bill/article70824614.ece",
-    "time": "2026-04-04T19:46:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rashid sheds light on GT skipper comeback after RR loss",
-    "desc": "Rashid Khan said Shubman Gill is recovering well from a muscle spasm and could return soon after Gujarat Titans’ narrow loss to Rajasthan Royals. He admitted GT lost momentum with back-to-back wickets despite a strong start. Chasing 211, they fell short in the final over, with Rashid praising Tushar Deshpande’s “exceptional yorkers” for sealing the game.",
-    "img": "https://static.toiimg.com/photo/msid-130025912,imgsize-32634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/shubman-gill-injury-update-rashid-khan-sheds-light-on-gt-skipper-comeback-after-rr-loss/articleshow/130025890.cms",
-    "time": "2026-04-04T18:51:30.000Z"
-  },
-  {
     "cat": "World",
     "title": "Ro Khanna",
     "desc": "The Democratic congressman, who combines points from America First nationalism with the welfarism of the Democratic left, proposes state support for the development of manufacturing and the working class, and calls for moderation in maximalist tech capitalism",
@@ -655,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/ro-khanna-exploring-the-new-middle/article70824484.ece",
     "time": "2026-04-04T18:48:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Deshpande defends 11 in final over as Royals beat Titans by six runs",
-    "desc": "Rajasthan Royals edged Gujarat Titans by 6 runs in a last-ball thriller after posting 210/6. Tushar Deshpande held his nerve in the final over, sealing the win. Sai Sudharsan’s 73 kept Gujarat in the chase, but Ravi Bishnoi’s four wickets proved crucial. Royals moved to the top of the table with a strong net run rate.",
-    "img": "https://static.toiimg.com/photo/msid-130024878,imgsize-44386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-tushar-deshpande-defends-11-in-final-over-as-royals-beat-titans-by-six-runs/articleshow/130024805.cms",
-    "time": "2026-04-04T18:16:33.000Z"
   },
   {
     "cat": "World",
@@ -691,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-pharma-exports-rise-5-6-to-28-29-billion-till-feb-in-fy26-sector-seen-doubling-to-130-billion-by-2030/articleshow/130023294.cms",
     "time": "2026-04-04T16:39:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "154.2 kmph! Ashok Sharma fires the fastest bowl of IPL 2026",
-    "desc": "Ashok Sharma stole the show with a 154.2 kmph delivery, the fastest of IPL 2026, surpassing Anrich Nortje. The Gujarat Titans pacer impressed with consistent pace. Despite this, Rajasthan Royals posted 210/6, powered by Yashasvi Jaiswal’s fifty and Dhruv Jurel’s 75. Gujarat, missing Shubman Gill, faced a tough chase against a confident Rajasthan side.",
-    "img": "https://static.toiimg.com/photo/msid-130022936,imgsize-44856.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/154-2-kmph-ashok-sharma-fires-the-fastest-delivery-of-ipl-2026/articleshow/130022811.cms",
-    "time": "2026-04-04T16:08:08.000Z"
   },
   {
     "cat": "Sports",
@@ -891,12 +837,66 @@ const newsData_en = [
     "time": "2026-04-03T02:59:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Suryavanshi — how young is young?",
-    "desc": "Now that he has formally crossed the ICC threshold age of 15, a raging debate is underway on whether the left-handed batter should be fast-tracked to the Indian white-ball team; the special ones are always a step ahead of the opposition and have a counter for every game plan",
-    "img": "https://th-i.thgim.com/public/sport/auuzia/article70817273.ece/alternates/LANDSCAPE_1200/GettyImages-2257920956.jpg",
+    "cat": "Business",
+    "title": "GE Aerospace delivers sixth engine for Tejas",
+    "desc": "There has been a delay in the delivery schedule of engines for the LCA Mk-1A variant, which was criticised by Chief of Air Staff Air Chief Marshal A.P. Singh during the last edition of the Aero India in Bengaluru",
+    "img": "https://th-i.thgim.com/public/incoming/b1ih7e/article70814602.ece/alternates/LANDSCAPE_1200/20251001117L.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/suryavanshihow-young-isyoung/article70817248.ece",
-    "time": "2026-04-02T18:36:51.000Z"
+    "url": "https://www.thehindu.com/news/national/karnataka/ge-aerospace-delivers-sixth-f404-in20-engine-for-tejas-lca-mk1a/article70814550.ece",
+    "time": "2026-04-02T17:23:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Breaking down benefits for individuals",
+    "desc": "As per the Income Tax Act 2025, which comes into effect from April 1, 2026, Forms 15G and 15H merged into a single unified Form 121; Form 26AS renamed as Form 168 and much more...",
+    "img": "https://th-i.thgim.com/public/incoming/gto38j/article70806851.ece/alternates/LANDSCAPE_1200/iStock-650700180.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/new-income-tax-act-2025-breaking-down-benefits-for-individuals/article70805979.ece",
+    "time": "2026-04-02T12:28:36.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Every ride has a price",
+    "desc": "The first internal combustion-powered cabs in London with taximeters are believed to have begun their operations on March 22, 1907. In a world where ride-hailing services with app-based GPS are on the rise, taximeters still remain in vogue in traditional taxis and autorickshaws. A.S.Ganesh takes you on a ride to learn more about these instruments…",
+    "img": "https://th-i.thgim.com/public/incoming/59upcz/article70730774.ece/alternates/LANDSCAPE_1200/19SM_Taxi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/every-ride-has-a-price/article70730816.ece",
+    "time": "2026-04-02T09:09:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government exempts Customs Duty for 40 petrochemical products amid West Asia crisis",
+    "desc": "“This measure has been taken as a temporary and targeted relief in order to ensure continued availability of critical petrochemical inputs for domestic industry, reduce cost pressures on downstream sectors, and safeguard supply stability in the country,” said an official press statement.",
+    "img": "https://th-i.thgim.com/public/incoming/p97aq3/article70814214.ece/alternates/LANDSCAPE_1200/iStock-2163906811.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/government-exempts-critical-petrochemical-products-from-customs-duty-amid-west-asia-crisis/article70814192.ece",
+    "time": "2026-04-02T07:47:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Commercial LPG prices hiked 10%, jet fuel rates up 9% for domestic airlines",
+    "desc": "ATF rates for international flights more than doubled, prompting IndiGo to add a fuel surcharge of ₹10,000 on long-haul routes; Centre says OMCs are still absorbing losses due to the surge in global crude rates",
+    "img": "https://th-i.thgim.com/public/incoming/8a02z3/article70809820.ece/alternates/LANDSCAPE_1200/PTI03_18_2026_000319A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jet-fuel-prices-rise-doubled-commercial-lpg-price-increased/article70809777.ece",
+    "time": "2026-04-01T17:27:28.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "CoinDCX launches ₹100 crore cybersecurity network after impersonation-linked controversy",
+    "desc": "CoinDCX co-founders Sumit Gupta and Neeraj Khandelwal spoke about their arrests and announced the launch of the ₹100 crore Digital Suraksha Network to support independent research, new standards, and educational tools for both state cybercrime cells and everyday Indian users",
+    "img": "https://th-i.thgim.com/public/incoming/d4xn1v/article70810769.ece/alternates/LANDSCAPE_1200/2026-03-17T080654Z_180858490_RC22PGATT48E_RTRMADP_3_CRYPTO-BITCOIN-CITIGROUP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/coindcx-launches-100-crore-cybersecurity-network-after-impersonation-linked-controversy/article70810783.ece",
+    "time": "2026-04-01T10:04:21.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "With NavIC setback, India unable to use satellite system for security purposes: experts",
+    "desc": "A major setback occurred after the last atomic clock on board the Indian Regional Navigational Satellite System-1F (IRNSS-1F) stopped functioning on March 10, leaving only three satellites of the NavIC constellation in function; armed forces of countries use the navigation satellite system for logistics, mapping and operational planning, and relying on a foreign navigation satellite system could pose security issues, especially during wars",
+    "img": "https://th-i.thgim.com/public/incoming/46xqm/article70784020.ece/alternates/LANDSCAPE_1200/PTI8_30_2017_000133B.JPEG-07231.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/another-satellite-in-navic-satellite-system-unable-to-function-limiting-its-security-capabilities-amid-concerns-of-reliance-on-foreign-navigation-systems/article70783744.ece",
+    "time": "2026-04-01T09:59:16.000Z"
   }
 ];
