@@ -1,12 +1,111 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "A Congress veteran calls for making the party a people’s movement",
-    "desc": "Dhanuskodi Athithan, a long-standing Congress leader and former Union Minister of State for Youth Affairs and Sport, wants the party to do field work and take up people’s issues. “Look at Tirunelveli and Kanniyakumari districts where the party is still strong. This is because of this approach,” he points out",
-    "img": "https://th-i.thgim.com/public/incoming/m8n2gr/article70827516.ece/alternates/LANDSCAPE_1200/2315_4_4_2026_17_5_34_2_DANUSHKODIADITYAN12.JPG",
+    "title": "Maharashtra Congress set to overhaul organisation in ‘Sangathan Srujan Abhiyan’",
+    "desc": "As part of the exercise, the party is finalising the list of 72 district presidents across the State, and in a departure from past practices, the campaign will also include appointments at the taluka level, covering 675 talukas",
+    "img": "https://th-i.thgim.com/public/incoming/jofjyu/article70827880.ece/alternates/LANDSCAPE_1200/2col_with_pictuG59FCUSU1.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-congress-veteran-calls-for-making-the-party-a-peoples-movement/article70827348.ece",
-    "time": "2026-04-05T18:30:23.000Z"
+    "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-congress-set-to-overhaul-organisation-in-sangathan-srujan-abhiyan/article70827387.ece",
+    "time": "2026-04-05T20:46:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "HC lets married teen live with man of her choice",
+    "desc": "A 19-year-old married woman in Bhopal has been granted legal permission to live independently with a man of her choice. She testified to the Madhya Pradesh High Court that her much older husband mistreated her and she did not wish to return to her parents. The court placed her under the Shourya Didi framework for six months.",
+    "img": "https://static.toiimg.com/photo/msid-130046366,imgsize-408031.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/hc-lets-married-teen-live-with-man-of-her-choice/articleshow/130046355.cms",
+    "time": "2026-04-05T20:43:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Dhanushkodi Athithan, a Congress veteran, calls for making the party a people’s movement",
+    "desc": "Dhanuskodi Athithan, a long-standing Congress leader and former Union Minister of State for Youth Affairs and Sport, wants the party to do field work and take up people’s issues. “Look at Tirunelveli and Kanniyakumari districts where the party is still strong. This is because of this approach,” he points out",
+    "img": "https://th-i.thgim.com/public/incoming/2ilhfl/article70827516.ece/alternates/LANDSCAPE_1200/2315_4_4_2026_17_5_34_2_DANUSHKODIADITYAN12.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/dhanushkodi-athithan-a-congress-veteran-calls-for-making-the-party-a-peoples-movement/article70827348.ece",
+    "time": "2026-04-05T20:24:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Women's rights &amp; religion: CJI-led 9-J bench includes all faiths, and a woman",
+    "desc": "A nine-judge Supreme Court bench, comprising judges from diverse faiths and a woman, will hear crucial cases on women's rights versus religious practices starting April 7. This bench aims to settle long-standing disputes, including women's entry into temples, mosques, and Parsi fire temples, and the practice of FGM. The court's 2018 Sabarimala judgment sparked these broader legal challenges.",
+    "img": "https://static.toiimg.com/photo/msid-130046332,imgsize-762054.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/womens-rights-religion-cji-led-9-j-bench-includes-all-faiths-and-a-woman/articleshow/130046327.cms",
+    "time": "2026-04-05T20:13:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Paresh Rawal calls social media a 'puking pot': 'Negativity shouldn't be..'",
+    "desc": "Veteran actor Paresh Rawal advocates for responsible social media engagement. He likens online platforms to a 'puking pot' where negativity spreads unchecked. Rawal stresses that individuals lack the right to demean or tarnish others' images. He admits to occasional anger but maintains self-control, avoiding abuse. Rawal also praised the film 'Dhurandhar' for its detailed narrative and entertainment value.",
+    "img": "https://static.toiimg.com/photo/msid-130046274,imgsize-18014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paresh-rawal-calls-social-media-a-puking-pot-negativity-shouldnt-be-spread-i-am-trying-to-improve-myself/articleshow/130046227.cms",
+    "time": "2026-04-05T19:59:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Development, welfare, and civic problems shape the poll mood in Thiru. Vi. Ka. Nagar",
+    "desc": "Residents say their struggle for basic amenities in some areas still persist; night food stalls and commercial activity have encroached road space and worsened traffic congestion; those living in railway lands in Rajiv Gandhi Nagar and Mangalapuram are also seeking alternate housing",
+    "img": "https://th-i.thgim.com/public/incoming/w9clly/article70824671.ece/alternates/LANDSCAPE_1200/DSC_5587.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/development-welfare-and-civic-problems-shape-the-poll-mood-in-thiru-vi-ka-nagar/article70823399.ece",
+    "time": "2026-04-05T19:26:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Punjab ‘my soul’, says Chadha in response to AAP Punjab unit charges",
+    "desc": "Estranged AAP MP Raghav Chadha strongly refuted allegations from the party's Punjab unit that he failed to raise state issues in Parliament. He asserted his commitment to Punjab, highlighting numerous issues he has addressed, including pending funds, agricultural distress, and the drug menace. Chadha dismissed the claims as baseless and motivated, vowing that truth and facts would prevail.",
+    "img": "https://static.toiimg.com/photo/msid-130045975,imgsize-901983.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/punjab-my-soul-says-chadha-in-response-to-aap-punjab-unit-charges/articleshow/130045941.cms",
+    "time": "2026-04-05T19:20:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Petition filed in SC challenging amended 'transgender persons' law",
+    "desc": "Transgender rights activists have filed a Supreme Court petition challenging the constitutional validity of the Transgender Persons (Protection of Rights) Amendment Act, 2026. The amendments remove self-perceived identity as the basis for TG certificates and introduce a medical board, moving away from the NALSA judgment's affirmation of personal dignity and choice.",
+    "img": "https://static.toiimg.com/photo/msid-130045931,imgsize-1697187.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/petition-filed-in-sc-challenging-amended-transgender-persons-law/articleshow/130045923.cms",
+    "time": "2026-04-05T19:15:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu missed out on Central government schemes because DMK saw BJP as an enemy, says G.K. Vasan",
+    "desc": "This is an election for the safety of the people of Tamil Nadu, especially women. The DMK does not want any development from the Centre because of vote bank politics. It should be a double-engine sarkar; the Central and State governments should work together, says the TMC(M) president",
+    "img": "https://th-i.thgim.com/public/incoming/fs4g52/article70821143.ece/alternates/LANDSCAPE_1200/11658_31_3_2026_20_45_1_2_7.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-missed-out-on-central-government-schemes-becausedmksawbjpas-an-enemy-says-gk-vasan/article70821141.ece",
+    "time": "2026-04-05T19:08:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Paresh Rawal reviews 'Dhurandhar 2', praises Madhavan",
+    "desc": "Veteran actor Paresh Rawal expressed his immense admiration for 'Dhurandhar 2', calling it a deeply layered and enjoyable film. He was particularly impressed by R. Madhavan's portrayal of Ajay Sanyal, inspired by Ajit Doval, and even humorously expressed interest in a role himself.",
+    "img": "https://static.toiimg.com/photo/msid-130045615,imgsize-22250.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paresh-rawal-reviews-dhurandhar-2-and-praises-r-madhavans-character-inspired-by-ajit-doval-told-aditya-dhar-he-wanted-to-be-a-part-of-the-film/articleshow/130045535.cms",
+    "time": "2026-04-05T18:52:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Red-hot RCB buries CSK under an avalanche of runs",
+    "desc": "Salt and Padikkal set a solid base before Patidar and David hammer 99 runs off just 35 balls for the unbroken fourth wicket; the visitors, chasing a mammoth 251, fold for 207 to lose three out of three",
+    "img": "https://th-i.thgim.com/public/incoming/9g5dle/article70827777.ece/alternates/LANDSCAPE_1200/_DSC2461.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/rcb-vs-csk-ipl-2026-match-updates-april-5/article70827081.ece",
+    "time": "2026-04-05T18:52:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When an unknown 29-year-old took on K. Kamaraj in 1962",
+    "desc": "Sixty-four years ago, P. Ramamoorthy, now 92, volunteered to fight against the then all-powerful Chief Minister of Tamil Nadu in Sattur, though he had nothing personal against him. The election did not generate any surprise. Kamaraj won hands down",
+    "img": "https://th-i.thgim.com/public/incoming/qhj4vk/article70821012.ece/alternates/LANDSCAPE_1200/P.%20Ramamoorthy%20Swatantra%20Party-03.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/when-an-unknown-29-year-old-took-on-kkamarajin-1962/article70820104.ece",
+    "time": "2026-04-05T18:49:27.000Z"
   },
   {
     "cat": "Politics",
@@ -79,6 +178,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/rajamahendravaramset-to-host-international-water-sport-event-to-begin-from-may-30/article70826615.ece",
     "time": "2026-04-05T18:04:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tim David goes ballistic, equals AB de Villiers record to ...",
+    "desc": "Batting in the lower middle order at the M Chinnaswamy Stadium, David struck eight sixes during his innings. That effort is now the joint second-highest number of sixes hit by an RCB batter from No.5 or lower in an IPL match.",
+    "img": "https://static.toiimg.com/photo/msid-130044486,imgsize-38728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rcb-vs-csk-tim-david-goes-ballistic-equals-ab-de-villiers-record-to-/articleshow/130044463.cms",
+    "time": "2026-04-05T18:02:05.000Z"
   },
   {
     "cat": "Politics",
@@ -160,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-crosses-rs-1000-crore-in-india-creates-history-by-being-the-first-hindi-film-to-do-so-joins-pushpa-2-baahubali-2/articleshow/130041934.cms",
     "time": "2026-04-05T15:47:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC Judge highlights role of mediation in preserving business relationships",
-    "desc": "It is not a new concept in our system, it has always been a part of our tradition, says Justice Kotiswar Singh, stating that prolonged litigation imposes high costs on businesses; Asian Centre for International Arbitration and Mediation opens in Visakhapatnam",
-    "img": "https://th-i.thgim.com/public/incoming/6l6ogo/article70827356.ece/alternates/LANDSCAPE_1200/VSP06_MSME%203.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/sc-judge-highlights-role-of-mediation-in-preserving-business-relationships/article70827130.ece",
-    "time": "2026-04-05T15:33:43.000Z"
   },
   {
     "cat": "Sports",
@@ -378,15 +477,6 @@ const newsData_en = [
     "time": "2026-04-05T08:42:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Hate-spreading CM': Rahul Gandhi slams Himanta Biswa at Assam poll rally",
-    "desc": "Rahul Gandhi attacked Assam CM Himanta Biswa Sarma, labeling him the 'most corrupt and hate-spreading CM' and vowing to jail him. Gandhi also promised SC/ST status for six communities, higher tea worker wages, and monthly cash transfers for women if Congress forms the government in Assam.",
-    "img": "https://static.toiimg.com/photo/msid-130035736,imgsize-54658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hate-spreading-cm-rahul-gandhi-slams-himanta-biswa-at-assam-poll-rally/articleshow/130035647.cms",
-    "time": "2026-04-05T08:27:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘I can see a lot of respect': Ex-India cricketer in awe of young skipper Riyan Parag",
     "desc": "Former CSK batter Ambati Rayudu has lauded Riyan Parag's early captaincy for Rajasthan Royals, noting the immense respect he commands from teammates. Rayudu believes Parag is doing a fantastic job, fostering a positive environment. Aaron Finch added that the absence of an overshadowing senior figure has aided Parag's smooth transition into leading a team of young superstars.",
@@ -432,15 +522,6 @@ const newsData_en = [
     "time": "2026-04-05T07:42:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sunanda breaks silence on Ghaziabad concert chaos",
-    "desc": "Punjabi singer Sunanda Sharma was startled when a student rushed her stage at Ghaziabad's RKGIT. In an Instagram video, she explained the panic (\"Sab dar gaye\"), urged college mercy (\"Kayi baar pyar ka tareeka galat ho jata hai\"), forgave the fan, and thanked supporters. Security intervened swiftly.",
-    "img": "https://static.toiimg.com/photo/msid-130035329,imgsize-49876.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/us-student-ko-main-ye-kehna-chahungi-sunanda-sharma-breaks-silence-on-ghaziabad-concert-chaos-urges-forgiveness/articleshow/130035329.cms",
-    "time": "2026-04-05T07:35:56.000Z"
-  },
-  {
     "cat": "Business",
     "title": "FPI sell-off deepens: Rs 23,801 crore withdrawn in a week; March sees record Rs 1.17 lakh crore exit",
     "desc": "Foreign investors have significantly pulled out of Indian stocks, with March seeing record outflows of Rs 1,17,775 crore. Escalating West Asian conflict, soaring crude oil prices above $100, and a weakening rupee are driving this sell-off.",
@@ -450,15 +531,6 @@ const newsData_en = [
     "time": "2026-04-05T07:35:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Watch 'Pallichattambi' trailer: Film promises intense action",
-    "desc": "Tovino Thomas stars in the upcoming period thriller 'Pallichattambi', set against British rule and local struggles. The trailer, released by director Dijo Jose Antony, showcases intense action and hints at a special cameo by Prithviraj Sukumaran. The film, featuring Kayadu Lohar and a strong supporting cast, promises a gripping narrative and is slated for a worldwide release on April 10.",
-    "img": "https://static.toiimg.com/photo/msid-130035230,imgsize-73318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pallichattambi-trailer-tovino-thomas-and-kayadu-lohars-film-promises-intense-action-netizens-await-prithviraj-sukumarans-entry/articleshow/130035230.cms",
-    "time": "2026-04-05T07:26:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "BCB faces turmoil as captains retain roles, board hit by fresh resignations",
     "desc": "Bangladesh Cricket Board announces leadership continuity for ODIs and T20Is until 2027 and 2028 respectively, alongside appointing a new spin coach. However, administrative turmoil escalates with multiple director resignations, prompting speculation of a potential board dissolution. Meanwhile, the BCB seeks to mend strained relations with the BCCI following recent disputes.",
@@ -466,33 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcb-faces-turmoil-as-captains-retain-roles-board-hit-by-fresh-resignations-from-boards/articleshow/130035206.cms",
     "time": "2026-04-05T07:20:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bhuvneshwar Kumar on cusp of scripting history vs CSK",
-    "desc": "Veteran pacer Bhuvneshwar Kumar is on the cusp of a historic 200 IPL wickets milestone, potentially becoming the first fast bowler to achieve this feat. Having evolved into a complete T20 bowler, he has been a crucial asset for RCB, especially in death overs. His consistent performances and recent resurgence highlight his enduring impact in the league.",
-    "img": "https://static.toiimg.com/photo/msid-130035158,imgsize-113372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-bhuvneshwar-kumar-on-cusp-of-scripting-history-vs-csk/articleshow/130035169.cms",
-    "time": "2026-04-05T07:17:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "On the precipice of fundamental shift in scientific method, with AI, says Yale astrophysicist Priya Natarajan",
-    "desc": "Astrophysicist Priyamvada Natarajan discusses the challenges facing international students in the US due to shrinking research funding and the transformative impact of AI on scientific methods. She highlights her journey from India, emphasizing the importance of curiosity and lifelong learning, and her contributions to understanding dark matter and black holes.",
-    "img": "https://static.toiimg.com/photo/msid-130035173,imgsize-1032803.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/on-the-precipice-of-fundamental-shift-in-scientific-method-with-ai-says-yale-astrophysicist-priya-natarajan/articleshow/130035160.cms",
-    "time": "2026-04-05T07:17:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Assam CM Himanta Biswa Sarma grooves to BJP's campaign song at Bongaigaon rally",
-    "desc": "Assam Chief Minister Himanta Biswa Sarma danced to a BJP campaign song at a rally in Bongaigaon, celebrating the party's outreach for the upcoming assembly elections. He had previously released three theme songs, penned and composed by party workers, to connect with voters emotionally and convey the BJP's vision of protection and development for Assam.",
-    "img": "https://static.toiimg.com/photo/msid-130035149,imgsize-3567530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-assam-cm-himanta-biswa-sarma-grooves-to-bjps-campaign-song-at-bongaigaon-rally/articleshow/130034955.cms",
-    "time": "2026-04-05T07:11:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -783,15 +828,6 @@ const newsData_en = [
     "time": "2026-04-03T18:48:09.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘I sincerely apologise to MS, Kapil’: Yuvraj says he told father Yograj outbursts were unacceptable",
-    "desc": "I would like to apologise to Kapil and M.S. Dhoni about the comments because Kapil paaji has been a great player for India. What kind of relationship they (Yograj and Kapil) had, I don't know, I wasn't even born, says Yuvraj Singh",
-    "img": "https://th-i.thgim.com/public/incoming/u9wlx7/article70819688.ece/alternates/LANDSCAPE_1200/Twenty20_26.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/i-sincerely-apologise-to-ms-kapil-yuvraj-says-he-told-father-yograj-outbursts-were-unacceptable/article70819674.ece",
-    "time": "2026-04-03T11:46:22.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Government discusses ways to scale up production of induction heater",
     "desc": "The crisis has disrupted the movement of ships carrying oil and gas through the Strait of Hormuz, raising concerns over cooking gas supplies and prompting people to rush to buy induction heaters and compatible utensils",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/another-satellite-in-navic-satellite-system-unable-to-function-limiting-its-security-capabilities-amid-concerns-of-reliance-on-foreign-navigation-systems/article70783744.ece",
     "time": "2026-04-01T09:59:16.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
