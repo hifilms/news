@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "CSK captain Ruturaj Gaikwad reveals latest on talisman ahead of RCB clash",
+    "desc": "Chennai Super Kings talisman MS Dhoni continues to be on the sidelines as he missed out on his team's third clash in the Indian Premier League 2026. Dhoni, who is set to miss the first...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-injury-update-csk-captain-ruturaj-gaikwad-drops-big-statement-on-talisman-ahead-of-rcb-clash-2026-04-05-1036406",
+    "time": "2026-04-05T14:09:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Josh Hazlewood not playing in RCB vs CSK IPL 2026 clash in Bengaluru?",
+    "desc": "Royal Challengers Bengaluru star Josh Hazlewood missed out as his team locks horns against Chennai Super Kings at the M.Chinnaswamy Stadium in Bengaluru on Sunday, April 5. Hazlewood, who was a key member in RCB's...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-josh-hazlewood-not-playing-in-rcb-vs-csk-ipl-2026-clash-in-bengaluru-2026-04-05-1036404",
+    "time": "2026-04-05T13:55:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rishabh Pant shows nerves of steel to power LSG to stunning last-over win over SRH",
+    "desc": "Lucknow Super Giants captain Rishabh Pant played an ice-cool knock to power LSG to a stunning win over Sunrisers Hyderabad on Sunday, April 5. Chasing 157 at the Rajiv Gandhi International Stadium, Hyderabad, Pant played...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pants-measured-knock-samads-blitz-power-lsg-to-thumping-win-over-srh-in-ipl-2026-2026-04-05-1036400",
+    "time": "2026-04-05T13:46:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is MS Dhoni not playing for CSK in crucial clash against RCB in IPL 2026?",
+    "desc": "MS Dhoni missed out as Chennai Super Kings take on Royal Challengers Bengaluru in their third match of the Indian Premier League 2026. Dhoni is likely to miss out on the first two weeks of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ms-dhoni-not-playing-for-csk-in-crucial-clash-against-rcb-in-ipl-2026-2026-04-05-1036401",
+    "time": "2026-04-05T13:40:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "MS Dhoni",
     "desc": "16 needed off the last four balls against the Mumbai Indians. It was IPL 2022. Dhoni goes six, four, two and four against Jaydev Unadkat. Wins it for CSK with nerves of steel. 16 needed off...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/when-did-ms-dhoni-last-miss-an-ipl-match-against-rcb-2026-04-05-1036373",
     "time": "2026-04-05T09:10:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head-to-head record ahead of IPL 2026 clash in Bengaluru",
-    "desc": "Royal Challengers Bengaluru and Chennai Super Kings are all set to take on each other in game 11 of the ongoing IPL (Indian Premier League) 2026. The two sides will lock horns at the M...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-csk-head-to-head-record-ahead-of-ipl-2026-clash-in-bengaluru-2026-04-05-1036369",
-    "time": "2026-04-05T07:53:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is Virat Kohli's record against Chennai in IPL?",
-    "desc": "Game 11 of the ongoing IPL (Indian Premier League) 2026 sees Royal Challengers Bengaluru taking on Chennai Super Kings. The two sides are set to lock horns at the M Chinnaswamy Stadium in Bengaluru on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-csk-what-is-virat-kohli-s-record-against-chennai-in-ipl-2026-04-05-1036367",
-    "time": "2026-04-05T07:08:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will weather in Hyderabad fare for IPL 2026 game 10?",
-    "desc": "The stage is set for game 10 of the ongoing IPL (Indian Premier League) 2026. Sunrisers Hyderabad will take on Lucknow Super Giants at the Rajiv Gandhi International Stadium in Hyderabad on April 5. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-lsg-weather-report-how-will-weather-in-hyderabad-fare-for-ipl-2026-game-10-2026-04-05-1036358",
-    "time": "2026-04-05T05:48:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I don't understand': Ravichandran Ashwin weighs in on Gujarat Titans' loss to Rajasthan Royals in Ahmedabad",
-    "desc": "Rajasthan Royals registered a brilliant victory over Gujarat Titans in game 9 of the ongoing IPL (Indian Premier League) 2026. The two sides locked horns at the Narendra Modi Stadium in Ahmedabad, and RR managed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-don-t-understand-ravichandran-ashwin-weighs-in-on-gujarat-titans-loss-to-rajasthan-royals-in-ahmedabad-2026-04-05-1036355",
-    "time": "2026-04-05T04:56:14.000Z"
   }
 ];

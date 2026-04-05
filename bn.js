@@ -180,15 +180,6 @@ const newsData_bn = [
     "time": "2026-04-01T08:34:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sweta on Rahul Arunoday's death: বিধ্বস্ত শ্বেতার ভাইরাল ভিডিও ঘিরে বাড়ছে অস্বস্তি: ফোনে অধরা, কোথায় রাহুলের সহ-অভিনেত্রী?",
-    "desc": "চোখের সামনে হারিয়েছেন সহকর্মীকে, শ্বেতা মিশ্র এখন বিধ্বস্ত। কিন্তু সেই শোকের মুহূর্তকেও পণ্য করছে সোশ্যাল মিডিয়া? ভাইরাল ভিডিওটি আর শেয়ার না করার অনুরোধ জানিয়েছেন শ্বেতার বোন সালোনি। তাঁর বক্তব্য, এই কঠিন সময়ে তাঁদের পাশে থাকুন, ব্যক্তিগত পরিসরকে সম্মান দিন। কিন্তু কোথায় অভিনেত্রী?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/sweta-mishra-devastated-rahul-arunoday-banerjee-death-viral-video_646838.html ",
-    "time": "2026-03-31T15:38:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "ধুলোর মহাপ্রলয়; ভয়ংকর গতিতে ধেয়ে আসছে ২০০০ কিমি দীর্ঘ ধুলোর দেওয়াল 'হাবুব'",
     "desc": "উপগ্রহচিত্রে সাহারা মরুভূমির উপর এক অভূতপূর্ব দৃশ্য ধরা পড়েছে। প্রায় ২০০০ কিমি বা ১২০০ মাইল দীর্ঘ এক বিশাল ধুলোর দেওয়াল উত্তর-পূর্ব আফ্রিকার উপর দিয়ে বয়ে যেতে দেখা গিয়েছে। আলজেরিয়ার উপর একটি শক্তিশালী নিম্নচাপ বলয় তৈরি হওয়ায় এই ভয়াবহ ধূলিঝড়ের সৃষ্টি হয়েছে।",
@@ -196,14 +187,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/2000-km-long-wall-of-dust-blowing-through-sahara-desert-satellite-captures-dust-storms_646821.html ",
     "time": "2026-03-31T13:26:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

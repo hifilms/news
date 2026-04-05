@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "WUAs have to ensure optimum utilisation of water resources, says Andhra Pradesh Chief Minister Chandrababu Naidu",
+    "desc": "Ahead of the launch of a 100-day action plan to conserve every drop of rainwater and increase groundwater levels, the Chief Minister calls for collective effort to provide irrigation facility to every acre in the State",
+    "img": "https://th-i.thgim.com/public/incoming/lwqvz4/article70826910.ece/alternates/LANDSCAPE_1200/KMGNR_13-2-2014_17-7-21_13GNRAO-DRIPIRRIGATION-03.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/wuas-have-to-ensure-optimum-utilisation-of-water-resources-says-andhra-pradesh-chief-minister-chandrababu-naidu/article70826637.ece",
+    "time": "2026-04-05T15:13:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Another row over food kits erupts in Thrissur",
+    "desc": "4,000 kits seized from supermarket warehouse at Vadanappally; LDF, UDF accuse BJP of distributing kits to influence voters; protesters accuse actor and BJP leader Devan, who was in a nearby house, from leaving; UDF candidate T.N.Prathapan arrested for protesting; a day ago, there was a similar controversy in Olari",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/another-row-over-food-kits-erupts-in-thrissur/article70826956.ece",
+    "time": "2026-04-05T14:38:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Trying to import worst elements’: Mamata accuses BJP of bringing ‘paid supporters’ from outside Bengal ahead of polls",
+    "desc": "West Bengal Chief Minister Mamata Banerjee accused the BJP of bringing in \"paid supporters\" and hooliganism to influence elections, while also warning her party workers about potential EVM tampering. Union Home Minister Amit Shah urged voters to cast ballots without fear, as Prime Minister Modi criticized the state's law and order.",
+    "img": "https://static.toiimg.com/photo/msid-130040868,imgsize-45316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/trying-to-import-worst-elements-mamata-accuses-bjp-of-bringing-paid-supporters-from-outside-bengal-ahead-of-polls/articleshow/130040757.cms",
+    "time": "2026-04-05T14:13:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pant’s mature 68 powers LSG to five-wicket win over SRH",
+    "desc": "Mohammed Shami's exceptional opening spell choked Sunrisers Hyderabad, but a strong recovery led by Klaasen and Reddy set a competitive target. Rishabh Pant anchored Lucknow Super Giants' chase, guiding them to a thrilling five-wicket victory with a composed unbeaten half-century in the final over.",
+    "img": "https://static.toiimg.com/photo/msid-130040824,imgsize-854465.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-rishabh-pants-mature-68-powers-lsg-to-five-wicket-win-over-srh/articleshow/130040767.cms",
+    "time": "2026-04-05T14:11:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ramayana' actor slams allegations of of AI usage in the teaser",
+    "desc": "The teaser for 'Ramayana' starring Ranbir Kapoor has sparked debate over its VFX, with some alleging AI use. An actor in the film clarified it was shot with real actors on sets two years ago. Hrithik Roshan defended the film's ambitious visuals, urging audiences to embrace varied cinematic styles and focus on storytelling.",
+    "img": "https://static.toiimg.com/photo/msid-130040815,imgsize-66874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-actor-slams-allegations-of-of-ai-usage-in-the-teaser-i-shot-with-ranbir-kapoor-with-real-crowd/articleshow/130040592.cms",
+    "time": "2026-04-05T14:10:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When could he return for CSK?",
+    "desc": "MS Dhoni will miss CSK’s IPL 2026 clash against RCB due to a calf strain, with the team struggling after two losses. While RCB enter confidently, CSK feel his absence. The franchise said he’ll miss two weeks, though coach Stephen Fleming stressed his strong off-field influence. Dhoni could return against KKR on April 14, or later fixtures if recovery takes longer.",
+    "img": "https://static.toiimg.com/photo/msid-130040131,imgsize-68104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-not-playing-vs-rcb-when-could-he-return-for-csk/articleshow/130039781.cms",
+    "time": "2026-04-05T13:39:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India's oil lifeline churns through conflict waters",
+    "desc": "On most days, India's economic heartbeat is invisible. It does not pulse through stock exchanges or policy corridors but across vast, restless waters where ships move quietly between continents. Yet, when conflict erupts in narrow choke points like the Strait of Hormuz, that invisible system becomes the country’s most visible vulnerability. The ongoing tensions have done exactly that, forcing India to confront a reality it has long managed but rarely foregrounded.",
+    "img": "https://static.toiimg.com/photo/msid-130040180,imgsize-64054.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/national-maritime-day-indias-oil-lifeline-churns-through-conflict-waters/articleshow/130038492.cms",
+    "time": "2026-04-05T13:25:38.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Sara's tribute to Aditya and unsung heroes",
     "desc": "As 'Dhurandhar 2' rides its box‑office wave, Sara Arjun posts a heartfelt tribute to director Aditya Dhar and the film’s “unsung heroes,” sharing BTS pictures and praising the entire crew, from producers and DOP to costume, VFX, and stunt teams, calling them the spine of the cinema that has made history.",
@@ -7,6 +70,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-the-revenge-sara-arjuns-tribute-to-aditya-dhar-and-unsung-heroes-amid-box-office-run-shares-bts-pics/articleshow/130039560.cms",
     "time": "2026-04-05T12:43:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Donald Trump threatens Iran in furious post; Andhra Police busts suspected ISIS-linked terror module &amp; more",
+    "desc": "Tensions surge as Donald Trump issues a fierce warning to Iran amidst escalating regional strikes. Meanwhile, Assam's CM faces legal threats over passport allegations, and a suspected ISIS terror module is busted across multiple states. PM Modi champions women's reservation in Bengal, while Iran declares a 'bitter defeat' for the US after a rescue mission.",
+    "img": "https://static.toiimg.com/photo/msid-130039484,imgsize-60772.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-donald-trump-threatens-iran-in-furious-post-andhra-police-busts-suspected-isis-linked-terror-module-more/articleshow/130039295.cms",
+    "time": "2026-04-05T12:40:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -27,15 +99,6 @@ const newsData_en = [
     "time": "2026-04-05T12:06:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Premallatha",
-    "desc": "Palaniswami claimed that he had not entered into any pact with DMDK on Rajya Sabha seat during Parliamentary polls in 2024 nor had he given any assurance to Ms. Premallatha during talks for Lok Sabha polls that year",
-    "img": "https://th-i.thgim.com/public/incoming/n4l54p/article70826355.ece/alternates/LANDSCAPE_1200/9870_30_11_2025_14_3_21_2__DSC4583.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/eps-did-not-keep-his-promise-on-rajya-sabha-seat-to-dmdk-premalatha/article70826296.ece",
-    "time": "2026-04-05T12:05:12.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Poonam Sinha on daughter Sonakshi's pregnancy rumors",
     "desc": "“Kitni baar nani bana diya humko!” In 2025, Sonakshi sparked buzz in red at Mumbai event; she and Zaheer laughed it off. Poonam cherishes daughters, hopes for grandkids. Couple dated 7 yrs post-2013 meet, wed 2024.",
@@ -52,15 +115,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/no-handshake-uzbek-chess-gm-stuns-indias-harika-dronavali-with-namaste-watch/articleshow/130037793.cms",
     "time": "2026-04-05T11:09:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM’s push for increasing seats of Lok Sabha, Assemblies nothing but ‘Weapon of Mass Distraction’: Congress",
-    "desc": "Congress’ remarks come a day after PM Modi said that Parliament’s Budget session has been extended for three days so that the law enacted in 2023 for providing 33% reservation to women in the Lok Sabha and State Assemblies can be implemented from 2029",
-    "img": "https://th-i.thgim.com/public/incoming/ujdejz/article70826142.ece/alternates/LANDSCAPE_1200/08_Jairam_Ramesh_03_04_Delhi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pms-push-for-increasing-seats-of-lok-sabha-assemblies-nothing-but-weapon-of-mass-distraction-congress/article70826135.ece",
-    "time": "2026-04-05T10:59:27.000Z"
   },
   {
     "cat": "Business",
@@ -154,15 +208,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Three killed in gas leak in Jharkhand's Dhanbad",
-    "desc": "Some people went to steal iron scrap. It appears they might have cut through a gas cylinder that was full. The smell was so strong that they fainted, says Manika Tiwari, in charge of the Munidih police station",
-    "img": "https://th-i.thgim.com/public/incoming/5po49f/article70826212.ece/alternates/LANDSCAPE_1200/iStock-1481903146.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/three-killed-in-gas-leak-in-jharkhands-dhanbad/article70826209.ece",
-    "time": "2026-04-05T08:42:54.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'Hate-spreading CM': Rahul Gandhi slams Himanta Biswa at Assam poll rally",
     "desc": "Rahul Gandhi attacked Assam CM Himanta Biswa Sarma, labeling him the 'most corrupt and hate-spreading CM' and vowing to jail him. Gandhi also promised SC/ST status for six communities, higher tea worker wages, and monthly cash transfers for women if Congress forms the government in Assam.",
     "img": "https://static.toiimg.com/photo/msid-130035736,imgsize-54658.cms",
@@ -234,15 +279,6 @@ const newsData_en = [
     "time": "2026-04-05T07:35:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP will not project CM face in Bengal, will seek votes in Modi's name: Samik",
-    "desc": "We contest elections by putting forward 'vikas purush' Prime Minister Narendra Modi -- the man of development -- whom people from Kashmir to Kanyakumari trust, and by seeking votes on the basis of faith in his vision, says State BJP president Samik Bhattacharya",
-    "img": "https://th-i.thgim.com/public/incoming/xg6fgu/article70826128.ece/alternates/LANDSCAPE_1200/20260314292L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-will-not-project-cm-face-in-bengal-will-seek-votes-in-modis-name-samik/article70826117.ece",
-    "time": "2026-04-05T07:31:07.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Watch 'Pallichattambi' trailer: Film promises intense action",
     "desc": "Tovino Thomas stars in the upcoming period thriller 'Pallichattambi', set against British rule and local struggles. The trailer, released by director Dijo Jose Antony, showcases intense action and hints at a special cameo by Prithviraj Sukumaran. The film, featuring Kayadu Lohar and a strong supporting cast, promises a gripping narrative and is slated for a worldwide release on April 10.",
@@ -297,15 +333,6 @@ const newsData_en = [
     "time": "2026-04-05T07:11:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Raghav Chadha shares video of Parliament interventions, rebuts claims of ignoring Punjab issues",
-    "desc": "To my colleagues in AAP who were forced to issue videos saying that 'Raghav Chadha failed to raise Punjab's issues in Parliament', here is a small trailer, says Rajya Sabha MP Raghav Chadha in a post on X",
-    "img": "https://th-i.thgim.com/public/incoming/uwcnfn/article70826083.ece/alternates/LANDSCAPE_1200/PTI03_30_2026_000064B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/raghav-chadha-shares-video-of-parliament-interventions-rebuts-claims-of-ignoring-punjab-issues/article70826073.ece",
-    "time": "2026-04-05T07:01:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Stephen Colbert, Steve Carell and more: 6 Hollywood icons who shared apartments before hitting it big",
     "desc": "Before the red carpets, the award shows, and the blockbuster roles, even the biggest stars had to start somewhere. Hollywood is full of surprising friendships, but some of the most unlikely bonds were forged not on set, but within the four walls of a shared space. From comedy legends bunking together in Chicago to future A-listers hustling side by side in Brooklyn and beyond, these celebrity roommate pairings are guaranteed to catch you off guard. Read on to discover the famous duos who once called each other roommates before the world knew their names.",
@@ -333,15 +360,6 @@ const newsData_en = [
     "time": "2026-04-05T06:38:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Amaranth, brick, coral, and 48 other shades of red",
-    "desc": "A mass wedding ceremony in India’s capital, supported financially by an NGO and endorsed by the Delhi government, is a relief from dowry and wedding expenses. Through conversations with brides, grooms, and their kin, Ashna Butani finds that though couples and families are happy to have broken out of the cycle of spending a chunk of their savings on a ceremony, the rituals reinforce endogamy and traditional expectations",
-    "img": "https://th-i.thgim.com/public/incoming/skki9v/article70823169.ece/alternates/LANDSCAPE_1200/Mass%20wedding%20DELHI%2013.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/amaranth-brick-coral-and-48-other-shades-of-red/article70823163.ece",
-    "time": "2026-04-05T06:30:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Dhurandhar 2 set to SURPASS Rs 1000 cr in India",
     "desc": "The Revenge' as it takes the cinematic world by storm, breaking records and captivating audiences worldwide. This gripping espionage thriller has not only become the highest-grossing Indian film in North America but is also on the brink of crossing the Rs 1000 crore mark in India. Read on to know more in detail.",
@@ -349,24 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-18-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampa-sara-arjun-r-madhavan-starrer-set-to-cross-rs-1000-crore-mark-in-india-today-eyeing-rs-1600-crore-global-earnings/articleshow/130034543.cms",
     "time": "2026-04-05T06:20:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Crash Landing on You', 'Goblin' and more: K-drama on-screen couples who redefined romance",
-    "desc": "Some couples do not just make you believe in love, they make you believe in a version of it that is bigger, more patient, and more quietly devastating than anything you thought a screen could hold. These are the pairs whose chemistry rewrote the rules of what a romantic lead could be and what a love story could feel like. Here are five K-drama couples that fans are still not over and honestly never will be.",
-    "img": "https://static.toiimg.com/photo/msid-130016683,imgsize-45774.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/crash-landing-on-you-goblin-and-more-k-drama-on-screen-couples-who-redefined-romance/photostory/130016683.cms",
-    "time": "2026-04-05T05:54:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Selena Gomez to mark her directorial debut",
-    "desc": "Selena Gomez is taking on a new challenge as she steps into the director's seat for 'Wizards Beyond Waverly Place Final Chapter,' marking a significant milestone in her career. Alongside directing, she'll reprise her iconic role as Alex Russo across multiple episodes in the show's thrilling third season.",
-    "img": "https://static.toiimg.com/photo/msid-130034352,imgsize-106060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/selena-gomez-to-mark-her-directorial-debut-with-the-final-season-of-wizards-beyond-waverly-place/articleshow/130034352.cms",
-    "time": "2026-04-05T05:53:27.000Z"
   },
   {
     "cat": "Business",
@@ -394,24 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/why-ms-dhoni-will-not-play-csk-vs-rcb-match-in-ipl-2026/articleshow/130034093.cms",
     "time": "2026-04-05T05:20:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TVK chief Vijay files revised set of nominations in Perambur, Tiruchi East correcting discrepancies",
-    "desc": "In the revised set of nominations, Mr. Vijay has declared two cases pending against him — one at the Peravallur police station for allegedly violating election norms in the Kolathur Assembly seat, where he campaigned on March 30 after filing his nominations",
-    "img": "https://th-i.thgim.com/public/incoming/3nc4dz/article70825930.ece/alternates/LANDSCAPE_1200/20260404085L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-files-revised-set-of-nominations-in-perambur-tiruchi-east-correcting-discrepancies/article70825908.ece",
-    "time": "2026-04-05T05:16:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pakistan jibes become central to BJP’s Assam poll narrative",
-    "desc": "Chief Minister Himanta Biswa Sarma has been attacking Congress leader Gaurav Gogoi over his alleged Pakistan connections, his latest barb was aimed at the mother of a candidate whom he accused of sympathising with ‘anti-national’ elements",
-    "img": "https://th-i.thgim.com/public/incoming/8knf8z/article70820497.ece/alternates/LANDSCAPE_1200/2150_23_3_2026_18_14_36_1_ASSAMELECTION_23032026_02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/assam-assembly/in-bjps-assam-poll-narrative-pakistan-is-the-protagonist-anti-national-a-leitmotif/article70817060.ece",
-    "time": "2026-04-05T05:11:02.000Z"
   },
   {
     "cat": "World",
@@ -450,15 +432,6 @@ const newsData_en = [
     "time": "2026-04-05T04:27:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Temples and precincts can’t be used for politics, says CM Revanth Reddy",
-    "desc": "At a review meeting on the development of Gnana Saraswati Temple in Basara on Saturday, the Chief Minister said that temples and their premises cannot be made political platforms and officials must ensure measures to curb such activities.",
-    "img": "https://th-i.thgim.com/public/news/national/telangana/1bntxq/article70823738.ece/alternates/LANDSCAPE_1200/CM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/temples-and-precincts-cant-be-used-for-politics-says-cm-revanth-reddy/article70823741.ece",
-    "time": "2026-04-05T04:25:30.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran FM Araghchi warns of contamination risk after U.S.-Israeli strikes on Bushehr nuclear power plant",
     "desc": "Iranian Foreign Minister Abbas Araghchi warned that continued attacks on the plant on Iran's southern coast could eventually lead to radioactive fallout that would \"end life in GCC (Gulf Cooperation Council) capitals, not Tehran\"; Bushehr is considerably closer to Kuwait, Bahrain and Qatar than it is to the Iranian capital.",
@@ -475,33 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/bas-of-steel-ravi-shastris-explosive-verdict-on-riyan-parags-captaincy/articleshow/130033485.cms",
     "time": "2026-04-05T04:01:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Priyansh Arya, Ayush Mhatre lead the GenZ charge",
-    "desc": "Young talents Priyansh Arya and Ayush Mhatre showcased impressive batting prowess in the IPL. Mhatre's 73 powered CSK's score, while Arya's explosive 39 off 11 balls set up Punjab Kings' chase. Former spinner Ravichandran Ashwin lauded their 'Gen Z' approach, highlighting Mhatre as a potential long-term asset for CSK.",
-    "img": "https://static.toiimg.com/photo/msid-130033393,imgsize-62502.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-priyansh-arya-ayush-mhatre-lead-the-genz-charge/articleshow/130033365.cms",
-    "time": "2026-04-05T03:46:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Grieving families write to PM Modi, demand release of black box data",
-    "desc": "Grieving families of the Air India flight crash victims have appealed to Prime Minister Modi for the release of black box data. Ten months after the tragedy that claimed 260 lives, they seek answers regarding the cause of the disaster. The families are demanding transparency, requesting either public disclosure or private sharing of the crucial cockpit and flight recorder information.",
-    "img": "https://static.toiimg.com/photo/msid-130033366,imgsize-432793.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/air-india-ahmedabad-plane-crash-grieving-families-write-to-pm-modi-demand-release-of-black-box-data/articleshow/130033301.cms",
-    "time": "2026-04-05T03:42:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "LDF, UDF and NDA in a no-holds barred battle for supremacy in south Kerala",
-    "desc": "In the battle for 42 constituencies spread across Thiruvananthapuram, Kollam, Pathanamthitta and Alappuzha districts, LDF and UDF are focussed on not yielding ground to the NDA, which is buoyed by the BJP’s ascendancy, chiefly in the Thiruvananthapuram Corporation, in the local body polls",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-ldf-udf-and-nda-in-a-no-holds-barred-battle-for-supremacy-in-south-kerala/article70823304.ece",
-    "time": "2026-04-05T03:25:17.000Z"
   },
   {
     "cat": "Sports",
@@ -531,15 +477,6 @@ const newsData_en = [
     "time": "2026-04-05T02:44:29.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'CSK will be invincible again’: Ashwin sends strong message to supporters",
-    "desc": "Chennai Super Kings face a crucial Sunday clash against Royal Challengers Bengaluru after a disappointing loss. Despite a strong batting performance, their bowling unit struggled significantly, leaking runs. CSK's batting, particularly Sanju Samson, needs to find form against a confident and balanced RCB side, whose bowling has shown marked improvement. A turnaround is essential for the home team.",
-    "img": "https://static.toiimg.com/photo/msid-130032578,imgsize-164568.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-will-be-invincible-again-ashwin-sends-strong-message-to-supporters/articleshow/130032572.cms",
-    "time": "2026-04-05T02:33:56.000Z"
-  },
-  {
     "cat": "Business",
     "title": "In search of ideal investment advice during war",
     "desc": "Finfluencers, brokerages and even mutual fund companies advice that the current market correction can be an opportunity but experts caution a straight ‘buy the dip’ may just not work in one-time events such as a war",
@@ -567,15 +504,6 @@ const newsData_en = [
     "time": "2026-04-05T00:48:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Parliament panel seeks accurate enumeration of all disabilities in Census",
-    "desc": "A parliamentary panel urged the government to ensure Census 2027 accurately counts all 21 disability categories, a significant upgrade from the 2011 census. This move aims to create a robust database for better policy formulation and welfare scheme targeting for persons with disabilities, moving beyond the current 1.35 crore UDID cards issued.",
-    "img": "https://static.toiimg.com/photo/msid-130031053,imgsize-1664189.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/parliament-panel-seeks-accurate-enumeration-of-all-disabilities-in-census/articleshow/130031054.cms",
-    "time": "2026-04-05T00:40:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rohit Sharma scripts IPL history, surpasses MS Dhoni to...",
     "desc": "Rohit Sharma scored 35 but made history by hitting his 51st six against Delhi Capitals, the most by an Indian against one IPL team, surpassing MS Dhoni. The milestone highlights his dominance despite a modest knock. He also neared 6000 runs for Mumbai Indians, while Chris Gayle still holds the overall record globally.",
@@ -583,24 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rohit-sharma-scripts-ipl-history-surpasses-ms-dhoni-to-/articleshow/130023788.cms",
     "time": "2026-04-04T23:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Men's heart risk starts earlier than you think",
-    "desc": "New research reveals men's heart disease risk escalates significantly by their mid-thirties, years before symptoms manifest. This divergence from women's risk patterns, even after accounting for lifestyle factors, highlights a critical need for earlier screening.",
-    "img": "https://static.toiimg.com/photo/msid-130029421,imgsize-728696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mens-heart-risk-starts-earlier-than-you-think/articleshow/130029374.cms",
-    "time": "2026-04-04T23:14:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "3 engg students 'murder' drunk driver for car",
-    "desc": "Three engineering students offered help to a drunk driver, but their gesture turned deadly. They allegedly killed the man to steal his car and phones, dumping his body to hinder identification. Police quickly apprehended the trio, who confessed to the crime.",
-    "img": "https://static.toiimg.com/photo/msid-130029157,imgsize-513764.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/3-engg-students-murder-drunk-driver-for-car/articleshow/130028794.cms",
-    "time": "2026-04-04T22:53:32.000Z"
   },
   {
     "cat": "World",
@@ -736,24 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladesh-cuts-office-hours-turns-off-wedding-lights-to-save-energy/article70822389.ece",
     "time": "2026-04-04T05:00:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Petrol shock, free rides &amp; more: How is Pakistan dealing with Hormuz energy crisis",
-    "desc": "Pakistan grapples with soaring fuel prices, prompting free public transport in Islamabad and Punjab for 30 days. Despite a revised petrol price, public anger persists. The government aims to ease economic burdens amid global energy disruptions and IMF pressure, with similar measures seen in Karachi and Bangladesh.",
-    "img": "https://static.toiimg.com/photo/msid-130012820,imgsize-960537.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/petrol-shock-free-rides-more-how-is-pakistan-dealing-with-hormuz-energy-crisis/articleshow/130012629.cms",
-    "time": "2026-04-04T04:13:27.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Up to 75 women expected to benefit from Bank of America settlement in Epstein sex abuse, say lawyers",
-    "desc": "Lawyers for women abused by Epstein had sued the bank, saying it ignored suspicious financial transactions involving Epstein that occurred while he was abusing girls and women from June 2008 to his arrest in early July 2019 on federal sex trafficking charges.",
-    "img": "https://th-i.thgim.com/public/incoming/nkqixp/article70822221.ece/alternates/LANDSCAPE_1200/2026-03-27T160831Z_884847769_RC23DKA0AAIE_RTRMADP_3_PEOPLE-JEFFREY-EPSTEIN-BOFAML.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/up-to-75-women-expected-to-benefit-from-bank-of-america-settlement-in-epstein-sex-abuse-says-lawyers/article70822218.ece",
-    "time": "2026-04-04T01:58:03.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +790,104 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/another-satellite-in-navic-satellite-system-unable-to-function-limiting-its-security-capabilities-amid-concerns-of-reliance-on-foreign-navigation-systems/article70783744.ece",
     "time": "2026-04-01T09:59:16.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
