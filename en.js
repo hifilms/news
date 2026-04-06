@@ -1,6 +1,123 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Aditya Dhar reacts to Virat, Anushka’s reviews for Dhurandhar 2",
+    "desc": "The Revenge by power couple Virat Kohli and Anushka Sharma, calling their words “overwhelming” and deeply motivating. Earlier, Virat Kohli had described Dhurandhar: The Revenge as an unmatched cinematic experience, saying he “didn’t flinch once” during its nearly four-hour runtime, while singling out Ranveer Singh’s performance as “beyond brilliant”.",
+    "img": "https://static.toiimg.com/photo/msid-130070921,imgsize-66648.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditya-dhar-reacts-to-virat-kohli-anushka-sharmas-reviews-for-dhurandhar-the-revenge-cant-believe-this-is-happening/articleshow/130070921.cms",
+    "time": "2026-04-06T21:10:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Assam election verdict hinges on parties reading the tea leaves right",
+    "desc": "Influential in at least 35 of the 126 seats in Assam, the ‘tea tribes’ have gravitated towards the BJP since 2014; the Congress is counting on the State government’s ‘failure’ to increase wages and provide ST reservation to the community",
+    "img": "https://th-i.thgim.com/public/incoming/idvs2z/article70830790.ece/alternates/LANDSCAPE_1200/PTI04_05_2026_000614B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/assam-assembly/assam-poll-outcome-hinges-on-parties-reading-the-tea-leaves-right/article70829965.ece",
+    "time": "2026-04-06T21:00:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bihar BJP president Sanjay Saraogi hints party will get the top post soon",
+    "desc": "Nitish Kumar is likely to take oath as a member of the Rajya Sabha on April 10 and would subsequently step down as Chief Minister on April 12, with a new Chief Minister from the BJP quota possibly taking oath on April 14",
+    "img": "https://th-i.thgim.com/public/incoming/pumszj/article70831867.ece/alternates/LANDSCAPE_1200/20260406140L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-bjp-president-sanjay-saraogi-hints-party-will-get-the-top-post-soon/article70830436.ece",
+    "time": "2026-04-06T20:55:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "It may not be an overwhelming win, but Congress is clearly ahead in Kerala: Shashi Tharoor",
+    "desc": "This election is a straight fight between LDF and UDF, says Congress leader and Thiruvananthapuram MP; BJP is a zero-seat party in Kerala Assembly and even if they get one or two or at most three seats — none of which is by any means certain — they cannot be relevant in govt. formation, he adds",
+    "img": "https://th-i.thgim.com/public/incoming/wsnj24/article70831632.ece/alternates/LANDSCAPE_1200/Shashi_Anandan.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/majority-of-kerala-votersareinamood-for-change-shashi-tharoor-in-kerala/article70831403.ece",
+    "time": "2026-04-06T20:55:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Three educationists rapped by Supreme Court over NCERT chapter seek hearing",
+    "desc": "Government informs the court about the constitution of an expert committee comprising former apex court judge Justice (retired) Indu Malhotra, senior advocate KK Venugopal and Hemvati Nandan Bahuguna Garhwal University vice chancellor Prakash Singh, to finalise the NCERT curriculum on Legal Studies for Class 8 and other grades.",
+    "img": "https://th-i.thgim.com/public/incoming/bm8ul9/article70830005.ece/alternates/LANDSCAPE_1200/IMG_IMG_TH_-_INDEX_SUPRE_2_1_58A4UPE6.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/three-educationists-rapped-by-sc-over-ncert-chapter-seek-hearing/article70829922.ece",
+    "time": "2026-04-06T20:37:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tulip Garden trip for young cancer fighters",
+    "desc": "Cancer-stricken children experienced a mood transformation during a visit to Srinagar's Tulip Garden, part of SKIMS' novel immunotherapy initiative. The outing aimed to boost their immunity and optimism, offering a much-needed respite from hospital wards and providing reassurance to both the children and their families.",
+    "img": "https://static.toiimg.com/photo/msid-130070796,imgsize-1889817.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/wards-to-flowers-tulip-garden-trip-for-young-cancer-fighters/articleshow/130070808.cms",
+    "time": "2026-04-06T20:25:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jammu &amp; Kashmir has lost 315 lakes since 1967",
+    "desc": "Jammu and Kashmir has lost nearly 3,000 hectares of lakes since 1967, with 315 lakes disappearing and remaining ones shrinking. This significant loss, detailed in a CAG report, degraded ecosystems and contributed to the devastating 2014 Kashmir floods by reducing natural flood buffers.",
+    "img": "https://static.toiimg.com/photo/msid-130070783,imgsize-394622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-kashmir-has-lost-315-lakes-since-1967/articleshow/130070790.cms",
+    "time": "2026-04-06T20:22:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Landslides block Jammu-Srinagar National Highway in Ramban",
+    "desc": "Heavy rains unleashed massive landslides in Ramban, completely obstructing the vital Jammu-Srinagar National Highway. Mud and falling stones choked the road between Karol Bridge and Chanderkote, stranding numerous vehicles. Officials indicated that clearing efforts are underway, but continuous rainfall significantly hinders any immediate reopening of this crucial all-weather route.",
+    "img": "https://static.toiimg.com/photo/msid-130070771,imgsize-1836437.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/landslides-block-jammu-srinagar-national-highway-in-ramban/articleshow/130070742.cms",
+    "time": "2026-04-06T20:19:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Divya Dutta recalls having crush on Salman, Farhan Akhtar",
+    "desc": "Divya Dutta recently opened up about her early days in the industry, revealing that she once had crushes on both Salman Khan and Farhan Akhtar—only to end up playing their sister on screen. Divya also shared an anecdote about her first meeting with Shah Rukh Khan, calling it nothing short of cinematic. She recalled tripping on the stairs while carrying her portfolio, only to have the superstar help her pick it up.",
+    "img": "https://static.toiimg.com/photo/msid-130070740,imgsize-81192.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/divya-dutta-recalls-having-crush-on-salman-khan-farhan-akhtar-her-filmi-first-meeting-with-shah-rukh-khan/articleshow/130070740.cms",
+    "time": "2026-04-06T20:17:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jammu man lured into Russian job and sent to war zone killed",
+    "desc": "A 23-year-old Jammu man, Sachin Khajuria, who went to Russia for a job, was sent to the frontlines of the Russia-Ukraine war and has now been cremated after his death was confirmed. He is the second from Jammu to die in the conflict, with families alleging youths were duped by agents promising civilian jobs but were forced into the army.",
+    "img": "https://static.toiimg.com/photo/msid-130070719,imgsize-1213383.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-man-lured-into-russian-job-and-sent-to-war-zone-killed/articleshow/130070699.cms",
+    "time": "2026-04-06T20:06:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Familiar foes trying to recover lost ground in southern districts of T.N.",
+    "desc": "The AIADMK is facing a two-pronged attack from its former coordinator O. Panneerselvam and former interim general secretary V.K. Sasikala; while the former, now with the DMK, has addressed 40 meetings in the southern region, the latter, who now heads the AIPTMMK, will begin her tour today",
+    "img": "https://th-i.thgim.com/public/news/national/2pbv4g/article70831813.ece/alternates/LANDSCAPE_1200/ops.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/familiar-foes-trying-to-recover-lost-ground-in-southern-districts-of-tn/article70831058.ece",
+    "time": "2026-04-06T19:17:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Deve Gowda, HDK, Chalavadi joined hands with BJP for their own political existence, says Chief Minister Siddaramaiah",
+    "desc": "Chief Minister Siddaramaiah on Monday said that former Prime Minister H.D. Deve Gowda, ex chief minister H.D. Kumaraswamy and leader of opposition in legislative council Chalavadi Narayanaswamy who had openly criticised RSS and Prime Minister Narendra Modi earlier, had now joined hands with BJP just to save their existence.",
+    "img": "https://th-i.thgim.com/public/incoming/rxnor5/article70831809.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-06%20at%2021.00.19.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/deve-gowda-hdk-chalavadi-joined-hands-with-bjp-for-their-own-political-existence-says-chief-minister-siddaramaiah/article70830649.ece",
+    "time": "2026-04-06T19:13:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anushka, Virat review Dhurandhar 2; praise Aditya Dhar",
+    "desc": "The Revenge, calling it a “fantastic” and immersive cinematic experience. Taking to Instagram Stories, Anushka penned a detailed note praising director Aditya Dhar and the film’s ensemble cast. Joining her, Virat Kohli also heaped praise on the film after watching it.",
+    "img": "https://static.toiimg.com/photo/msid-130069866,imgsize-55632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anushka-sharma-virat-kohli-review-ranveer-singhs-dhurandhar-the-revenge-praise-aditya-dhar-it-takes-conviction-to-make-a-nearly-4-hour-film/articleshow/130069866.cms",
+    "time": "2026-04-06T19:10:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "NCW gives Nora Fatehi final opportunity to appear in song row",
     "desc": "The National Commission for Women (NCW) has given Nora Fatehi a final opportunity to appear before it in person in connection with the controversy surrounding the song Sarke Chunar Teri. The commission has fixed April 27 as the next date of hearing. The commission has also directed Sanjay Dutt to appear before it on April 8 in connection with the matter.",
     "img": "https://static.toiimg.com/photo/msid-130069403,imgsize-54524.cms",
@@ -432,15 +549,6 @@ const newsData_en = [
     "time": "2026-04-06T10:24:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Gulzar recalls 'Namkeen': calls it ‘child left behind’",
-    "desc": "As 'Namkeen' celebrates its 44th anniversary, filmmaker Gulzar revisits the cinematic gem that intertwined Samresh Basu's narrative with unforgettable female protagonists. He delves into the intricate dynamics between these characters and Sanjeev Kumar's role, creating a tapestry of emotions. Moreover, Gulzar reflects on his exceptional partnership with musical genius R.D.",
-    "img": "https://static.toiimg.com/photo/msid-130057399,imgsize-79514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gulzar-recalls-namkeen-as-the-film-turns-44-it-was-the-child-left-behind-in-the-race-exclusive/articleshow/130057399.cms",
-    "time": "2026-04-06T10:04:43.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'I will argue myself', Kejriwal tells Delhi HC in recusal plea; next hearing on April 13",
     "desc": "Delhi High Court heard the CBI's challenge to Arvind Kejriwal's discharge in the excise policy case. Kejriwal, present with his wife, declared his intent to argue his recusal application personally, asserting his legal rights. Solicitor General Tushar Mehta objected, citing procedural rules. The court issued notice on Kejriwal's recusal plea.",
@@ -450,24 +558,6 @@ const newsData_en = [
     "time": "2026-04-06T09:55:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Pradeep Ranganathan’s clever move at 'LIK' event grabs attention",
-    "desc": "Actor Pradeep Ranganathan captivated Hyderabad audiences at the 'LIK' pre-release event by employing an AI translator for real-time speech conversion. This innovative approach, a departure from his previous film's promotional experience where a translator added humor, impressed fans. His embrace of technology for clear communication is now a major talking point.",
-    "img": "https://static.toiimg.com/photo/msid-130056901,imgsize-177348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/pradeep-ranganathans-clever-move-at-lik-telugu-pre-release-event-grabs-attention-the-actor-learns-from-past-translator-experience/articleshow/130056901.cms",
-    "time": "2026-04-06T09:39:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Bhooth Bangla' trailer reaction: Akshay's laugh riot as 'OG Bhool Bhulaiyaa 2'",
-    "desc": "Akshay Kumar and director Priyadarshan reunite after 14 years for the horror-comedy 'Bhooth Bangla'. The trailer, blending spooky scares with classic humour, has generated significant excitement, reminding fans of their past hits. With a cast including Paresh Rawal, Rajpal Yadav, and a special appearance by Tabu, the film promises a fun entertainer set for a 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-130056733,imgsize-37908.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhooth-bangla-trailer-reaction-fans-spot-hera-pheri-references-hail-akshay-kumars-laugh-riot-as-og-bhool-bhulaiyaa-2/articleshow/130056770.cms",
-    "time": "2026-04-06T09:31:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Samson, Bumrah in ICC Player of the Month race after T20 World Cup heroics",
     "desc": "India's T20 World Cup triumph sees Sanju Samson and Jasprit Bumrah nominated for ICC Player of the Month. Samson's explosive batting, including three crucial high scores, earned him Player of the Tournament. Bumrah's match-winning spells in the semi-final and final, with seven wickets in three games, also impressed. South Africa's Connor Esterhuizen completes the shortlist with a stellar T20I series.",
@@ -475,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/samson-bumrah-in-icc-player-of-the-month-race-after-t20-world-cup-heroics/articleshow/130056605.cms",
     "time": "2026-04-06T09:20:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'You should resign': Mamata hits out at PM Modi's silence on Pakistan's threat to strike Kolkata",
-    "desc": "West Bengal Chief Minister Mamata Banerjee questioned Prime Minister Narendra Modi's silence on Pakistan's threat to strike Kolkata. She criticized the PM for targeting Bengal during rallies but not addressing the specific threat, demanding his resignation. Banerjee asserted that threats to the state would not be tolerated.",
-    "img": "https://static.toiimg.com/photo/msid-130056561,imgsize-939735.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/you-should-resign-mamata-hits-out-at-pm-modis-silence-on-pakistans-threat-to-strike-kolkata/articleshow/130056404.cms",
-    "time": "2026-04-06T09:16:36.000Z"
   },
   {
     "cat": "Business",
@@ -511,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/when-will-ms-dhoni-play-in-ipl-2026-timeline-of-csk-icons-return-revealed/articleshow/130056103.cms",
     "time": "2026-04-06T08:51:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What Congress is offering in Puducherry manifesto",
-    "desc": "Congress is campaigning for Puducherry assembly elections with a strong focus on jobs and social security. The party promises Rs 2,000 monthly for unemployed youth and 30,000 new jobs. Free bus travel for women and Rs 20 lakh health insurance are also pledged. Full statehood for Puducherry remains a key promise.",
-    "img": "https://static.toiimg.com/photo/msid-130055548,imgsize-1077230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-job-creation-to-free-bus-travel-for-women-what-congress-is-offering-in-puducherry-manifesto/articleshow/130055152.cms",
-    "time": "2026-04-06T08:22:32.000Z"
   },
   {
     "cat": "Business",
@@ -556,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-19-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-sara-arjun-film-chases-rs-1050-crore-milestone-on-third-monday-after-crossing-rs-1000-crore-india-net/articleshow/130054387.cms",
     "time": "2026-04-06T07:35:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul Gandhi promises full statehood for UT if Congress wins",
-    "desc": "Rahul Gandhi pledged full statehood for Puducherry if Congress forms the government, accusing the current administration of being remotely controlled by Delhi. He also outlined promises including monthly support for unemployed youth, job creation, free bus travel for women, relaxed government job age limits, and Rs 20 lakh healthcare insurance for every family.",
-    "img": "https://static.toiimg.com/photo/msid-130053542,imgsize-480374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/puducherry-polls-rahul-gandhi-promises-full-statehood-for-ut-if-congress-wins/articleshow/130053308.cms",
-    "time": "2026-04-06T07:02:55.000Z"
   },
   {
     "cat": "World",
@@ -711,15 +774,6 @@ const newsData_en = [
     "time": "2026-04-04T05:57:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Rashford has 'big chance' with Raphinha out, says Barca coach Flick",
-    "desc": "Brazil international Raphinha is sidelined until May with a hamstring injury, opening the door for Rashford. The England forward, on loan from Manchester United, impressed in the first half of the season but has not played as much in recent weeks",
-    "img": "https://th-i.thgim.com/public/incoming/d49hfn/article70822196.ece/alternates/LANDSCAPE_1200/2026-03-18T180741Z_447665723_UP1EM3I1ECSZ2_RTRMADP_3_SOCCER-CHAMPIONS-BAR-NEW.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/rashford-has-big-chance-with-raphinha-out-says-barca-coach-flick/article70821254.ece",
-    "time": "2026-04-04T01:14:40.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Government discusses ways to scale up production of induction heater",
     "desc": "The crisis has disrupted the movement of ships carrying oil and gas through the Strait of Hormuz, raising concerns over cooking gas supplies and prompting people to rush to buy induction heaters and compatible utensils",
@@ -844,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
     "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
