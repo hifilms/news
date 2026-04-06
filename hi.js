@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Tim David misses world record by one run, despite masterclass innings against Chennai Super Kings",
+    "desc": "Game 11 of the ongoing IPL (Indian Premier League) 2026 saw Royal Challengers Bengaluru taking on Chennai Super Kings. The two sides locked horns at the M Chinnaswamy Stadium in Bengaluru on April 6. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tim-david-misses-world-record-by-one-run-despite-masterclass-innings-against-chennai-super-kings-2026-04-06-1036457",
+    "time": "2026-04-06T07:14:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head to Head record, today match prediction and probable playing XIs ahead of IPL 2026 match 12",
+    "desc": "Shreyas Iyer will lock horns against his former team, Kolkata Knight Riders, today in the 12th match of IPL 2026 at the Eden Gardens in Kolkata. He has led the Punjab Kings well since last...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-pbks-head-to-head-record-today-match-prediction-and-probable-playing-xis-ahead-of-ipl-2026-match-12-2026-04-06-1036455",
+    "time": "2026-04-06T07:00:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When will MS Dhoni return to Chennai Super Kings' squad after calf strain?",
+    "desc": "The IPL (Indian Premier League) 2026 season got off to a horrid start for five-time champions Chennai Super Kings. Led by Ruturaj Gaikwad, the five-time champions have faced three losses in their first three games...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-will-ms-dhoni-return-to-chennai-super-kings-squad-after-calf-strain-2026-04-06-1036445",
+    "time": "2026-04-06T05:46:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 Player battles to watch out for in IPL 2026 Match 12",
+    "desc": "Kolkata Knight Riders and Punjab Kings will face each other today in the 12th match of the ongoing edition of the Indian Premier League (IPL) at the Eden Gardens in Kolkata. They have got off...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-pbks-3-player-battles-to-watch-out-for-in-ipl-2026-match-12-2026-04-06-1036444",
+    "time": "2026-04-06T05:42:55.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'It's on me today': CSK skipper Ruturaj Gaikwad takes responsibility for 43-run loss against RCB",
     "desc": "Chennai Super Kings (CSK) skipper Ruturaj Gaikwad has taken the responsibility for the 43-run loss against the Royal Challengers Bengaluru (RCB) on Sunday. Chasing a mammoth target of 251 runs, the five-time champions were folded...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rcb-register-biggest-ipl-total-against-csk-tim-david-smashes-30-runs-in-an-over-2026-04-05-1036413",
     "time": "2026-04-05T16:32:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK captain Ruturaj Gaikwad reveals latest on talisman ahead of RCB clash",
-    "desc": "Chennai Super Kings talisman MS Dhoni continues to be on the sidelines as he missed out on his team's third clash in the Indian Premier League 2026. Dhoni, who is set to miss the first...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-injury-update-csk-captain-ruturaj-gaikwad-drops-big-statement-on-talisman-ahead-of-rcb-clash-2026-04-05-1036406",
-    "time": "2026-04-05T14:09:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Josh Hazlewood not playing in RCB vs CSK IPL 2026 clash in Bengaluru?",
-    "desc": "Royal Challengers Bengaluru star Josh Hazlewood missed out as his team locks horns against Chennai Super Kings at the M.Chinnaswamy Stadium in Bengaluru on Sunday, April 5. Hazlewood, who was a key member in RCB's...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-josh-hazlewood-not-playing-in-rcb-vs-csk-ipl-2026-clash-in-bengaluru-2026-04-05-1036404",
-    "time": "2026-04-05T13:55:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant shows nerves of steel to power LSG to stunning last-over win over SRH",
-    "desc": "Lucknow Super Giants captain Rishabh Pant played an ice-cool knock to power LSG to a stunning win over Sunrisers Hyderabad on Sunday, April 5. Chasing 157 at the Rajiv Gandhi International Stadium, Hyderabad, Pant played...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pants-measured-knock-samads-blitz-power-lsg-to-thumping-win-over-srh-in-ipl-2026-2026-04-05-1036400",
-    "time": "2026-04-05T13:46:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is MS Dhoni not playing for CSK in crucial clash against RCB in IPL 2026?",
-    "desc": "MS Dhoni missed out as Chennai Super Kings take on Royal Challengers Bengaluru in their third match of the Indian Premier League 2026. Dhoni is likely to miss out on the first two weeks of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ms-dhoni-not-playing-for-csk-in-crucial-clash-against-rcb-in-ipl-2026-2026-04-05-1036401",
-    "time": "2026-04-05T13:40:04.000Z"
   }
 ];
