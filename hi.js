@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Arshdeep Singh on the verge of creating history for Punjab Kings vs Kolkata Knight Riders in IPL 2026",
+    "desc": "Arshdeep Singh is on the verge of creating history for the Punjab Kings in the game against the Kolkata Knight Riders in the 12th match of IPL 2026. He is only three wickets away from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-on-the-verge-of-creating-history-for-punjab-kings-vs-kolkata-knight-riders-in-ipl-2026-2026-04-06-1036479",
+    "time": "2026-04-06T09:08:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sameer Rizvi, Ravi Bishnoi on top, check current Orange and Purple cap leaders",
+    "desc": "11 games have been played in the 19th edition of the IPL (Indian Premier League) so far. Over the 11 matches, several star players have been putting in some brilliant performances. From Rohit Sharma and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-sameer-rizvi-ravi-bishnoi-on-top-check-current-orange-and-purple-cap-leaders-2026-04-06-1036477",
+    "time": "2026-04-06T09:06:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Michael Vaughan points out CSK's troubles after RCB drubbing in Bengaluru",
+    "desc": "Former England skipper Michael Vaughan names the problems that Chennai Super Kings have been struggling with in the ongoing IPL (Indian Premier League) 2026. It is worth noting that CSK is yet to register their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/michael-vaughan-points-out-csk-s-troubles-after-rcb-drubbing-in-bengaluru-2026-04-06-1036467",
+    "time": "2026-04-06T08:03:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Tim David misses world record by one run, despite masterclass innings against Chennai Super Kings",
     "desc": "Game 11 of the ongoing IPL (Indian Premier League) 2026 saw Royal Challengers Bengaluru taking on Chennai Super Kings. The two sides locked horns at the M Chinnaswamy Stadium in Bengaluru on April 6. The...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dewald-brevis-injury-update-csk-coach-stephen-fleming-when-will-south-africa-batter-return-2026-04-06-1036423",
     "time": "2026-04-06T01:37:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "For first time in history! RCB defeat CSK in four consecutive matches after thumping win in Bengaluru",
-    "desc": "Royal Challengers Bengaluru continued their recent dominance over rivals Chennai Super Kings after handing them a 43-run defeat at the M.Chinnaswamy Stadium on Sunday, April 5. Led by Tim David's blistering 25-ball 70, RCB piled...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/for-first-time-in-history-rcb-defeat-csk-in-four-consecutive-matches-after-thumping-win-in-bengaluru-2026-04-05-1036419",
-    "time": "2026-04-05T17:45:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bhuvneshwar Kumar etches name into history books, becomes first pacer to achieve massive IPL feat vs CSK",
-    "desc": "Royal Challengers Bengaluru's Bhuvneshwar Kumar has etched his name into the history books as he achieved a huge feat during his team's IPL 2026 clash against the Chennai Super Kings. After RCB piled up a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bhuvneshwar-kumar-etches-name-into-history-books-becomes-first-pacer-to-achieve-massive-ipl-feat-vs-csk-2026-04-05-1036414",
-    "time": "2026-04-05T17:22:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB register biggest IPL total against CSK; Tim David smashes 30 runs in an over",
-    "desc": "Royal Challengers Bengaluru created history against Chennai Super Kings in their second match of the Indian Premier League 2026 as the batters led the charge in helping the team pile up a massive 250/3 on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-register-biggest-ipl-total-against-csk-tim-david-smashes-30-runs-in-an-over-2026-04-05-1036413",
-    "time": "2026-04-05T16:32:54.000Z"
   }
 ];

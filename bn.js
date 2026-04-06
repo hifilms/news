@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "যদি অবহেলার ১% ও সম্ভাবনা থাকে, তার তদন্ত হওয়া উচিত: রাহুলের মৃত্যুর ৭দিন পর মুখ খুললেন লীনা-পুত্র অর্ক",
+    "desc": "টলিউড অভিনেতা রাহুলের অস্বাভাবিক মৃত্যুতে যখন উত্তাল স্টুডিও পাড়া, তখন অভিযোগের কেন্দ্রে থাকা প্রযোজনা সংস্থা ‘ম্যাজিক মোমেন্টস’-এর পক্ষ থেকে প্রথমবার মুখ খুললেন লীনা গঙ্গোপাধ্যায়ের ছেলে তথা প্রযোজক অর্ক গঙ্গোপাধ্যায়। ফেসবুকে একটি দীর্ঘ ও আবেগঘন পোস্টের মাধ্যমে তিনি রাহুলের সঙ্গে তাঁর দীর্ঘ ১২ বছরের সম্পর্ক এবং ইন্ডাস্ট্রির বর্তমান পরিস্থিতি নিয়ে বিস্ফোরক অর্ক।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/arka-ganguly-post-on-rahul-arunoday-death-leena-ganguly-magic-moments_647659.html ",
+    "time": "2026-04-06T09:29:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "তীব্র শ্বাসকষ্টের সমস্য়া দীপঙ্করের, শ্যুটিং ফেলে হাসপাতালে ছোটেন অহনা: এখন কেমন আছেন অভিনেত্রীর স্বামী?",
+    "desc": "জীবন যুদ্ধের এক কঠিন সময় পার করলেন অভিনেত্রী অহনা দত্ত ও তাঁর স্বামী দীপঙ্কর। শুটিং ফ্লোর থেকে হাসপাতালের আইসিইউ— দীর্ঘ উৎকণ্ঠার পর আপাতত সুস্থ হয়ে বাড়ি ফিরছেন তাঁরা। দীপঙ্করের দ্রুত আরোগ্য কামনায় পাশে থাকার জন্য সকলকে ধন্যবাদ জানিয়েছেন অভিনেত্রী।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/tv-actress-ahona-dutta-husband-deepankar-health-update-hospitalized-icu_647655.html ",
+    "time": "2026-04-06T08:34:55.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "চাকরি হারাতে চলেছে ২০ লক্ষ সরকারি শিক্ষক: গণ-ছাঁটাইয়ের আশঙ্কায় দেশ জুড়ে আন্দোলনের আগুন",
     "desc": "ভারতের প্রাথমিক ও উচ্চ-প্রাথমিক শিক্ষা স্তরে কর্মরত লক্ষ লক্ষ শিক্ষকের ভবিষ্যৎ এখন এক সুতোর ওপর ঝুলে রয়েছে। কেন্দ্রীয় সরকার এবং সুপ্রিম কোর্টের কড়া অবস্থানের কারণে দেশজুড়ে প্রায় ২০ লক্ষ সরকারি ও সরকারি সাহায্যপ্রাপ্ত স্কুলের শিক্ষক তাঁদের কর্মসংস্থান হারানোর ঝুঁকিতে রয়েছেন।",
@@ -61,15 +79,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/bengaluru-it-jobs-ai-layoffs-insider-warning-real-estate_647318.html ",
     "time": "2026-04-03T14:48:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Iran-Israel War: এবার টান পড়ল জলেও: যুদ্ধের জেরে তীব্র গরমেও একলাফে মারাত্মক দাম বাড়ল কিনলে-বিসলারির",
-    "desc": "যখনই তেলের দাম বৃদ্ধি পায়, তার সরাসরি প্রভাব পড়ে প্লাস্টিক শিল্পের ওপর। কারণ প্লাস্টিক তৈরির প্রধান উপাদান 'পলিমার' বা 'পিইটি' (PET) আসে খনিজ তেল থেকে। যুদ্ধের কারণে এই কাঁচামালের দাম গত কয়েক সপ্তাহে আকাশছোঁয়া হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/india-bottled-water-price-rise-oil-shock-us-iran-war-impact_647306.html ",
-    "time": "2026-04-03T13:41:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -151,24 +160,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/leena-gangopadhyay-to-resign-magic-moments-official-statement-rahul-banerjee-death_646966.html ",
     "time": "2026-04-01T12:52:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "রাহুলের মৃত্যুতে উত্তাল টলিউড: গাফিলতির অভিযোগে কাঠগড়ায় প্রযোজনা সংস্থা, আইনি পদক্ষেপের পথে প্রিয়াঙ্কা",
-    "desc": "রাহুলের মৃত্যু কি স্রেফ দুর্ঘটনা, নাকি গাফিলতি? শুটিং সেটে নিরাপত্তার অভাব আর তথ্য গোপনের অভিযোগে এবার বিদ্ধ লীনা গঙ্গোপাধ্যায়ের প্রযোজনা সংস্থা। বিচার চেয়ে এককাট্টা আর্টিস্টস ফোরাম। কী হতে চলেছে পরবর্তী পদক্ষেপ? পুলিসে অভিযোগ জানাতে চলেছেন প্রিয়াঙ্কা?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-actor-rahul-arunoday-banerjee-death-mystery-priyanka-sarkar-legal-action-against-magic-moments_646902.html ",
-    "time": "2026-04-01T08:50:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "কিছুতেই এঁটে উঠছেন না ট্রাম্প; বিরাট শক্তির আমেরিকাকে কোন ম্যাজিকে নাকানিচোবানি খাওয়াচ্ছে ইরান?",
-    "desc": "শক্তির নিরিখে ইরানের চেয়ে বহু যোজন এগিয়ে মার্কিন যুক্তরাষ্ট্র। সবাই জানে, বিশ্বের সবচেয়ে শক্তিশালী সামরিক বাহিনী ও সব চেয়ে সমৃদ্ধ অর্থনীতির দেশ মার্কিন যুক্তরাষ্ট্র। এর সঙ্গে ইসরায়েলের পোড় খাওয়া সেনাবাহিনী আর ধুরন্ধর গোয়েন্দাদল যুক্ত করলে লড়াইটা ইরানের পক্ষে একেবারেই অসম মনে হয়। তবুও কী ভাবে টিকে আছে ইরান?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/usa-unable-to-fight-iran-properly-trumps-big-setback-in-iran-israels-us-war_646900.html ",
-    "time": "2026-04-01T08:34:43.000Z"
   },
   {
     "cat": "Business",
