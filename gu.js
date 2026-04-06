@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "અનોખો ક્રિકેટ રેકોર્ડ... ના રન, ના વિકેટ કે ના કોઈ કેચ છતાં આ ખેલાડી બન્યો &amp;#039;પ્લેયર ઓફ ધ મેચ&amp;#039;",
+    "desc": "ODI ક્રિકેટના ઇતિહાસમાં એક એવો રેકોર્ડ નોંધાયેલો છે, જેના વિશે તમે કદાચ જાણતા નહીં હોવ. અમે તમને એક એવા ક્રિકેટર વિશે જણાવી રહ્યા છીએ જેને ન તો બેટિંગ કરવાની તક મળી, ન તો વિકેટ લીધી કે ન તો કોઈ કેચ લીધો હતો છતાં તેને મેન ઓફ ધ મેચ જાહેર કરવામાં આવ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/without-run-wicket-and-catch-cameron-cuffy-become-player-of-the-match-know-why-471757 ",
+    "time": "2026-04-06T12:21:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ટોલ પ્લાઝા પર FASTag ફરજીયાત, 10 એપ્રિલથી લાગૂ થશે નવા નિયમ, જાણો તમારા પર શું થશે અસર",
+    "desc": "રોડ પરિવહન મંત્રાલયે જાહેરાત કરી છે કે 10 એપ્રિલથી ટોલ ચુકવણીમાં રોકડ વ્યવહાર સંપૂર્ણ રીતે બંધ થઈ જશે. તેનો ઉદ્દેશ્ય ટોલ બૂથ પર વાહનોની લાંબી લાઈનો ઘટાડવાનો છે, જે યાત્રિકો માટે હંમેશા મુશ્કેલી અને સમયની બરબાદીનું કારણ બને છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/highway-toll-rules-update-cashless-toll-from-10-april-2026-fastag-or-upi-mandatory-on-highways-471756 ",
+    "time": "2026-04-06T12:01:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 વચ્ચે લોહીયાળ ખેલ! રન આઉટના વિવાદમાં અમ્પાયરની કરપીણ હત્યા, ઘટના જાણીને ચોંકી જશો",
+    "desc": "હાલમાં દેશમાં ક્રિકેટનો મહાકુંભ ચાલી રહ્યો છે. IPLની તમામ ટીમો શાનદાર ફોર્મમાં જોવા મળી રહી છે. ત્યાં બીજીતરફ એક એવી ઘટના સામે આવી છે, જેને બધાને ચોંકાવી દીધા છે. આ ઘટના આંધ્રપ્રદેશમાં બની છે. અહીં ક્રિકેટ મેચમાં રન આઉટના નિર્ણય પર વિવાદ એટલો વધી ગુયો કે, એક યુવકે અમ્પાયરને છરી મારીને મોતને ઘાટ ઉતારી દીધો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bloody-game-during-ipl-2026-umpire-brutally-murdered-in-run-out-dispute-you-will-be-shocked-to-know-incident-471750 ",
+    "time": "2026-04-06T11:00:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "જો તમારે ગેસ સિલિન્ડર જોઈએ છે તો હવે કરવું પડશે આ કામ ! સરકારે નિયમોમાં કર્યા ફેરફાર",
+    "desc": "દિલ્હીમાં કોમર્શિયલ ગેસ સિલિન્ડર નિયમોમાં ફેરફાર કરવામાં આવ્યો છે. હવે PNG કનેક્શનની અરજી કર્યા વિના સિલિન્ડર આપવામાં આવશે નહીં. સરકારનો નવો આદેશ શું છે અને તેનાથી તમને શું અસર થશે તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/png-connection-mandatory-delhi-government-change-commercial-lpg-rules-471745 ",
+    "time": "2026-04-06T10:23:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ડ્રિંક્સ બ્રેક દરમિયાન &amp;#039;બોટલ કાંડ&amp;#039;! અમ્પાયર પર ભડક્યો RCB કેપ્ટન પાટીદાર, જાણો શું છે સમગ્ર ઘટના",
     "desc": "IPL 2026માં રોયલ ચેલેન્જર્સ બેંગલુરુ અને ચેન્નાઈ સુપર કિંગ્સ વચ્ચેની મેચ દરમિયાન ડ્રિંક્સ બ્રેક દરમિયાન એક વિચિત્ર ઘટના બની હતી. જ્યારે કેપ્ટન રજત પાટીદાર તેની પાણીની બોટલ શોધી રહ્યા હતા, ત્યારે તે બોટલ અમ્પાયરના હાથમાં જોવા મળી હતી. જે બાદ કેપ્ટન પાટીદાર અને દિનેશ કાર્તિકનું રિએક્શન જોવા જેવું હતું.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -459,15 +495,6 @@ const newsData_gu = [
     "time": "2026-04-03T16:59:40.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ઈરાન યુદ્ધ વચ્ચે સરકારની મોટી તૈયારી, 2 લાખ કરોડના રાહત પેકેજની થઈ શકે છે જાહેરાત!",
-    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા યુદ્ધની આર્થિક અસરોને જોતા કેન્દ્ર સરકાર મોટા પગલાં લેવાની તૈયારીમાં છે. એનડીટીવી પ્રોફિટના રિપોર્ટ અનુસાર, નાણા મંત્રાલય લગભગ 2 લાખ કરોડની ક્રેડિટ સપોર્ટ સ્કીમ પર કામ કરી રહ્યું છે. આ સ્કીમનો મુખ્ય ઉદ્દેશ્ય એવા સેક્ટર્સને રાહત આપવાનો છે જે મિડલ ઈસ્ટ સંકટથી પ્રભાવિત થઈ રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/government-big-preparations-amid-iran-war-relief-package-of-rs-2-lakh-crore-may-be-announced-471410 ",
-    "time": "2026-04-03T16:21:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "અભિષેક નહીં આ યુવા બેટ્સમેનને પોતાના કરતા સારો માને છે યુવરાજ સિંહ, 35 બોલમાં સદી ફટકારીને મચાવી હતી ધૂમ",
     "desc": "ભૂતપૂર્વ ભારતીય ક્રિકેટ દિગ્ગજ યુવરાજ સિંહે યુવા સેન્સેશન વૈભવ સૂર્યવંશી વિશે એક મહત્વપૂર્ણ નિવેદન આપ્યું છે, જેમણે IPL 2026માં 15 બોલમાં અડધી સદી ફટકારીને શાનદાર શરૂઆત કરી હતી. યુવરાજ સિંહ માને છે કે વૈભવની બેટની ગતિ તેના કરતા પણ વધુ ઝડપી છે. રાજસ્થાન રોયલ્સના આ ઓપનર IPLમાં સૌથી ઝડપી સદી ફટકારનાર ભારતીય બેટ્સમેનનો રેકોર્ડ ધરાવે છે.",
@@ -556,24 +583,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/drastic-change-in-gratuity-rules-employees-should-know-check-details-471308 ",
     "time": "2026-04-03T05:43:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શેમ્પુથી લઈને દવાઓ સુધી મળશે રાહત! સરકારે ઈમ્પોર્ટ ડ્યૂટી હટાવતા શું શું થશે સસ્તું? લિસ્ટ ચેક કરો",
-    "desc": "મિડલ ઈસ્ટમાં ઈઝરાયેલ અમેરિકા અને ઈરાન વચ્ચે ચાલી રહેલું યુદ્ધ માત્ર આ દેશને નહીં પરંતુ અન્ય દેશોને પણ ભરડામાં લઈ રહ્યું છે. ભારતમાં પણ સમસ્યાઓ જોવા મળી રહી છે. સરકાર તેનો તોડ કાઢી રહી છે જેથી કરીને નાગરિકો પર અસર ન થાય. જેને પગલે 41 જેટલી પેટ્રોકેમિકલ આઈટમો પર ઈમ્પોર્ટ ડ્યૂટી હટાવવામાં આવી છે. જે 30 જૂન સુધી લાગૂ રહેશે. જાણો કઈ કઈ વસ્તુઓ પર થશે અસર?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-news-what-will-be-impact-of-govt-decision-to-cut-import-duty-on-41-petrochemical-items-471209 ",
-    "time": "2026-04-02T09:59:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "24 વર્ષ બાદ ODI વર્લ્ડ કપ 2027માં જોવા મળશે 2003 જેવો રોમાંચ... બદલાઈ ગયું આખું ફોર્મેટ",
-    "desc": "વનડે વર્લ્ડ કપ 2027નું શેડ્યૂલ હજુ સુધી જાહેર કરવામાં આવ્યું નથી. એવી શક્યતા છે કે આ ટુર્નામેન્ટ ઓક્ટોબર અને નવેમ્બર વચ્ચે યોજાશે. આ વખતે 2003માં ઉપયોગમાં લેવાયેલ ફોર્મેટ પણ વાપસી કરવા માટે તૈયાર છે. આ લેખમાં અમે તમને આ વર્લ્ડ કપના ફોર્મેટમાં કયા ફેરફારો થવાના છે, તેના વિશે આ લેખમાં જણાવીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/cricket-special-major-changes-in-odi-world-cup-2027-super-6-format-returns-after-24-years-471188 ",
-    "time": "2026-04-02T07:14:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -682,15 +691,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/electric-vs-petrol-scooter-price-running-cost-and-maintenance-comparison-470741 ",
     "time": "2026-03-30T08:22:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ધુરંધર ફિલ્મનો ધમાકો,10 દિવસમાં જ ફિલ્મની કમાણી 1000 કરોડને પાર, વર્લ્ડવાઈડ કલેકશનનો આંકડો ચોંકાવશે",
-    "desc": "ધુરંધર 2 ફિલ્મ બોલીવુડની અન્ય ફિલ્મોના રેકોર્ડની સાથે પોતાના જ રેકોર્ડ પણ તોડી રહી છે. ધુરંધર 2 ફિલ્મની બોક્સ ઓફિસ કમાણી 10 દિવસમાં જ 1000 કરોડથી વધી ચુકી છે. આ આંકડામાં આગામી દિવસોમાં જોરદાર વધારો થવાનો અંદાજ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-box-office-collection-cross-1100-crore-in-india-dhurandhar-2-ott-release-470533 ",
-    "time": "2026-03-29T02:24:01.000Z"
   },
   {
     "cat": "Tech",
