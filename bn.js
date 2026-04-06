@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "জ্বালানি সংকটে দেশে ‘আংশিক লকডাউন: প্রধানমন্ত্রী ঠিক করে দিলেন অফিস-বাজার-সিনেমাহলের টাইমিং; জেনে নিন",
+    "desc": "বাংলাদেশ মূলত আমদানিকৃত জ্বালানির ওপর নির্ভরশীল হওয়ায় দেশের বিদ্যুৎ কেন্দ্রগুলো সচল রাখা চ্যালেঞ্জিং হয়ে পড়েছে। সরকার মনে করছে, এখনই যদি কৃচ্ছ্রসাধন না করা হয়, তবে ভবিষ্যতে আরও বড় ধরনের ব্ল্যাকআউটের মুখে পড়তে হতে পারে দেশ।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/bangladesh-partial-lockdown-cinemahall-shopping-mall-office-institution-will-shutdown-with-sunsets-tarique-rahaman_647719.html ",
+    "time": "2026-04-06T15:36:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "কোথাও নেই লাঞ্চ ব্রেক তো কোথাও ডবল ইউনিট: কর্মবিরতির আগে স্টুডিয়ো পাড়ায় ২৮ ঘণ্টার ম্যারাথন শ্যুট",
+    "desc": "আগামীকাল থেকে কি বন্ধ হয়ে যাবে মেগা সিরিয়াল? অভিনেতা রাহুলের মৃত্যুর প্রতিবাদে মঙ্গলবার থেকে অনির্দিষ্টকালের কর্মবিরতির ডাক দিয়েছে আর্টিস্ট ফোরাম ও ফেডারেশন। তার আগেই আজ টলিপাড়ায় চলছে ২৮ ঘণ্টার ম্যারাথন শুটিং! ডবল শিফট, নেই লাঞ্চ ব্রেক— লক্ষ্য একটাই, এপিসোড জমিয়ে রাখা। কিন্তু 'ব্যাঙ্কিং' ফুরোলে কী হবে?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-shooting-strike-shatdown-mega-serial-banking-crisis-demanding-safety-after-rahul-banerjee-death_647709.html ",
+    "time": "2026-04-06T15:17:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "১৯ দিনে ৯৪ শিশুর মৃত্যু, আক্রান্তের সংখ্যা ৫,৭০০ : সংক্রমণ-ত্রাসে কাঁপছে দেশ, কী এই রোগ? বাঁচতে কী করবেন?",
+    "desc": "বাংলাদেশের স্বাস্থ্য দপ্তরের দেওয়া তথ্য অনুযায়ী, গত ১৫ মার্চ থেকে শুরু করে ৫ এপ্রিল পর্যন্ত ১৯ দিনে ৯৪ জন শিশুর মৃত্যু হয়েছে। পরিস্থিতির ভয়াবহতা বোঝা যায় গত ২৪ ঘণ্টার পরিসংখ্যানেই— রবিবার সকাল ৮টা পর্যন্ত শেষ ২৪ ঘণ্টায় আরও ১০ জন শিশুর মৃত্যু হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/bangladesh-measles-outbreak-100-children-dead-vaccination-crisis-health-alert-asia_647705.html ",
+    "time": "2026-04-06T14:49:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "জলে ডুবেছিলেন দুজনেই, চোখের সামনে রাহুলকে হারিয়ে মানসিকভাবে বিধ্বস্ত শ্বেতা: এবার তদন্তের বিচার চেয়ে মুখ খুললেন অভিনেত্রী",
+    "desc": "রাহুলের সঙ্গে জলে তলিয়ে গিয়েছিলেন তিনিও। কিন্তু আজ সহকর্মীকে হারিয়ে মানসিকভাবে বিপর্যস্ত অভিনেত্রী শ্বেতা মিশ্র। চিকিৎসকের পরামর্শে চলছে ওষুধ, কেড়ে নেওয়া হয়েছে ফোন। তবে সুস্থ হলেই কি সবটা খোলসা করবেন শ্বেতা? প্রযোজনা সংস্থার বিরুদ্ধে রাহুলের বিচার চেয়ে কী বার্তা দিলেন তিনি?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/bhole-baba-paar-karega-actress-sweta-mishra-health-update-rahul-arunoday-death-trauma_647694.html ",
+    "time": "2026-04-06T14:18:00.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "আগের তালিকায় কারও নাম ছিল বলেই এবার ভোট দেওয়ার অনুমতি দেওয়া যায় না: SIR মামলায় বিস্ফোরক সুপ্রিম কোর্ট",
     "desc": "আদালত স্পষ্ট করে দিয়েছে যে, শুধুমাত্র তালিকায় আগে নাম ছিল বলেই কাউকে সরাসরি ভোট দিতে দেওয়ার অনুমতি দেওয়া যায় না। বিচারপতি জয়মাল্য বাগচী বলেন, 'আমরা মানুষের সাংবিধানিক অধিকার নিয়ে সচেতন। কিন্তু বিচারিক প্রক্রিয়ায় সময় লাগে। চূড়ান্ত আদেশ পেতে ৩০ থেকে ৬০ দিন পর্যন্ত সময় লাগতে পারে।' তবে ২৩ এপ্রিল প্রথম দফার ভোটের আগে যাদের সমস্যার সমাধান হয়ে যাবে, তারা অবশ্যই ভোট দিতে পারবেন।",
@@ -133,41 +169,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/oracle-office-dubai-iran-strike-operation-true-promise-4-uae-denies_647226.html ",
     "time": "2026-04-03T08:12:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "শ্যুটিং সেটে রাহুলের 'পারফেকশন' নিয়ে প্রশ্ন? প্রযোজনা সংস্থার দাবি উড়িয়ে মুখ খুললেন ভাস্বর",
-    "desc": "\"রাহুল আর নেই\"—একথাটা এখনও বিশ্বাস করতে পারছেন না অভিনেতা ভাস্বর চট্টোপাধ্যায়। দুই দশকের বন্ধুত্ব, অসংখ্য স্মৃতি আর শেষ দিনের সেই ছবিটাই এখন শেষ সম্বল। কিন্তু শ্যুটিং সেটে রাহুলের 'জেদ' নিয়ে ওঠা দাবি কি আদৌ সত্যি? মুখ খুললেন দীর্ঘদিনের বন্ধু ভাস্বর।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-actor-bhaswar-chattopadhyay-mourns-rahul-arunoday-banerjee-death-controversy_647159.html ",
-    "time": "2026-04-02T14:45:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "মাতৃহারা সুদীপ্তা-বিদীপ্তা-বিদিশা, ‘কাঁদব না হাসিমুখেই মাকে সেলিব্রেট করব’, দীপালি চক্রবর্তীর প্রয়াণে শোকাতুর টলিউড",
-    "desc": "মাথা থেকে সরে গেল আশীর্বাদের হাত। চিরঘুমের দেশে পাড়ি দিলেন বিশিষ্ট নৃত্যশিল্পী দীপালি চক্রবর্তী। সুদীপ্তা, বিদীপ্তা ও বিদিশা চক্রবর্তীর মাতৃবিয়োগে শোকস্তব্ধ টলিউড। কয়েকদিন আগেও যিনি মঞ্চে নেচেছেন, আজ তিনি কেবলই স্মৃতি। শিল্পীর আত্মার শান্তি কামনা করি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-actress-sudipta-bidipta-bidisha-chakraborty-mother-dipali-chakraborty-passes-away_647126.html ",
-    "time": "2026-04-02T13:06:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "কেন্দ্রের তুঘলকি সিদ্ধান্তে ভয়ংকর সংকটে থিয়েটার, ২০০০ নাট্যকর্মীর পেটে পড়ছে টান: প্রতিবাদে দানা বাঁধছে জোট",
-    "desc": "নাট্যচর্চায় কেন এই কোপ? কেন্দ্রীয় সরকারের অনুদান বাতিলের সিদ্ধান্তে সংকটে রাজ্যের প্রায় দুই হাজার নাট্যকর্মী। 'Cooled Off' নীতির আড়ালে কি আসলে শিল্পীদের কণ্ঠরোধের চেষ্টা চলছে? কলকাতা প্রেস ক্লাব থেকে প্রতিবাদের গর্জন তুলল ‘ওয়েস্ট বেঙ্গল থিয়েটার কমিউনিটি’।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/west-bengal-theatre-community-protest-central-grant-cancellation-cooled-off-policy_646979.html ",
-    "time": "2026-04-01T14:34:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];
