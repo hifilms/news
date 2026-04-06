@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'It's on me today': CSK skipper Ruturaj Gaikwad takes responsibility for 43-run loss against RCB",
+    "desc": "Chennai Super Kings (CSK) skipper Ruturaj Gaikwad has taken the responsibility for the 43-run loss against the Royal Challengers Bengaluru (RCB) on Sunday. Chasing a mammoth target of 251 runs, the five-time champions were folded...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/it-s-on-me-today-csk-skipper-ruturaj-gaikwad-takes-responsibility-for-43-run-loss-against-rcb-2026-04-06-1036433",
+    "time": "2026-04-06T03:33:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Chennai Super Kings create world record vs RCB despite 43-run defeat in Bengaluru",
     "desc": "Chennai Super Kings succumbed to their third consecutive defeat on Sunday as they lost to defending champions Royal Challengers Bengaluru by 43 runs at the Chinnaswamy Stadium. The five-time champions are yet to register a...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-ms-dhoni-not-playing-for-csk-in-crucial-clash-against-rcb-in-ipl-2026-2026-04-05-1036401",
     "time": "2026-04-05T13:40:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni",
-    "desc": "16 needed off the last four balls against the Mumbai Indians. It was IPL 2022. Dhoni goes six, four, two and four against Jaydev Unadkat. Wins it for CSK with nerves of steel. 16 needed off...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-the-no-more-houdini-for-csk-s-troubles-is-well-past-his-peak-2026-04-05-1036396",
-    "time": "2026-04-05T12:20:15.000Z"
   }
 ];

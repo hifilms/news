@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ધનવાન બનવાની &amp;#039;10x12x30&amp;#039; ફોર્મ્યુલા, જાણો કઈ રીતે કરે છે કામ, બની જશે ₹3 કરોડનું ફંડ",
+    "desc": "કરોડપતિ બનવાનું સપનું માત્ર કલ્પના નહીં, પરંતુ એક મજબૂત નાણાકીય ગણતરી છે. '10x12x30' ની જાદુઈ ફોર્મ્યુલા સંયમિત રોકાણ અને કમ્પાઉન્ડિંગની તાકાતની મદદથી 3 કરોડ રૂપિયાનું વિશાળ ફંડ બનાવી શકે છે. આ લેખ મ્યુચ્યુઅલ ફંડ એસઆઈપી દ્વારા નિવૃત્તિ પ્લાનિંગ અને ધનવાન બનવાની પ્રક્રિયાને સરળતાથી સમજાવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/calculation-how-10x12x30-sip-rule-can-build-a-rs-3-crore-corpus-for-your-retirement-471691 ",
+    "time": "2026-04-06T04:59:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "જેણે પાકિસ્તાનમાં જઈ લાદેનનો ઘડો લાડવો કર્યો, તેણે હવે ઈરાનમાં ઘૂસી પોતાના દેશના પાઈલટને બચાવ્યો",
+    "desc": "જે ઈરાન એક મહિનો વીત્યા છતાં વિશ્વમાં સુપરપાવર ગણાતા અમેરિકા અને ટેક્નોલોજીમાં મહારથ હાંસલ છે તે ઈઝરાયેલને યુદ્ધમાં સતત નાકમાં દમ લાવી રહ્યું છે તે ઈરાનની ધરતી પર પહોંચી ગયેલા પોતાના એક પાઈલટને જીવતો પાછો મેળવવા માટે અમેરિકાએ એડી ચોટીનું જોર લાવી દીધુ અને પોતાની શ્રેષ્ઠ ટીમો મેદાનમાં ઉતારી. જાણો એ ટુકડી વિશે જે આ કામ સફળતાપૂર્વક પાર પાડી લાવી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/how-an-american-airman-was-rescued-from-iran-know-about-us-navy-seal-team-6-471689 ",
+    "time": "2026-04-06T04:47:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 વચ્ચે હાર્દિક-નતાશાના સંબંધોમાં નવો વળાંક... એક્સ વાઈફની પોસ્ટથી ખડભડાટ! પરિવારની તસવીરો વાયરલ",
+    "desc": "ટીમ ઈન્ડિયાનો સ્ટાર ઓલરાઉન્ડર હાર્દિક પંડ્યા તેના રમતગમત કારકિર્દીની સાથે સાથે તેના અંગત જીવનને કારણે પણ ચર્ચામાં રહે છે. જુલાઈ 2024માં, હાર્દિક પંડ્યા અને નતાશાએ તેમના પાંચ વર્ષના સંબંધોનો અંત લાવ્યો. હવે, હાર્દિક તેની નવી ગર્લફ્રેન્ડ, મહિકા શર્મા પર પ્રેમ વરસાવતો જોવા મળે છે. જો કે, હાર્દિક અને નતાશાના સંબંધોમાં એક નવો વળાંક આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/a-new-twist-in-hardik-natasha-relationship-amidst-ipl-2026-ex-wife-post-creates-uproar-family-pictures-go-viral-471690 ",
+    "time": "2026-04-06T04:37:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શું ભારતમાં પણ વધશે પેટ્રોલ અને ડીઝલના ભાવ? દુનિયાભરમાં આસમાને પહોંચ્યા ભાવ",
+    "desc": "ઈરાન-ઈઝરાયલ-અમેરિકા યુદ્ધને કારણે ક્રૂડ ઓઈલના ભાવ આસમાને પહોંચ્યા છે, પુરવઠામાં વિક્ષેપ પડ્યો છે અને પેટ્રોલ અને ડીઝલના ભાવમાં વધારો થયો છે. ભારતમાં હાલમાં ઈંધણના ભાવ અંગે શાંતિ છે. શું ચૂંટણી પછી કોઈ તોફાન આવવા જઈ રહ્યું છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-petrol-and-diesel-prices-increase-in-india-too-prices-have-skyrocketed-across-the-world-471684 ",
+    "time": "2026-04-06T04:06:01.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "અમે બધું જ નષ્ટ કરી દઈશું અને તેલ પર કબજો કરીશું, ડોનાલ્ડ ટ્રમ્પે જણાવ્યું ઈરાન સાથે ક્યારે ડીલ થશે ફાઈનલ",
+    "desc": "ડોનાલ્ડ ટ્રમ્પે દાવો કર્યો હતો કે અમેરિકા અને ઈરાન વચ્ચે હાલમાં વાટાઘાટો ચાલી રહી છે અને આ તારીખે ડીલ થવાની સારી શક્યતા છે. તેમણે ઈરાનને ચેતવણી આપી હતી કે જો કોઈ સોદો નહીં થાય તો હુમલો થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/we-will-destroy-everything-and-seize-the-oil-donald-trump-said-when-will-the-deal-with-iran-be-finalized-471649 ",
+    "time": "2026-04-06T03:26:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ફરી ચાલ્યો નીના ગુપ્તા અને સંજય મિશ્રાનો જાદુ, OTT પર રિલીઝ થતાં જ ટ્રેંડ કરવા લાગી ક્રાઈમ થ્રિલર ફિલ્મ",
+    "desc": "નીના ગુપ્તા અને સંજય મિશ્રાની ફિલ્મ વધ 2 ઓટીટી પર સ્ટ્રીમ થઈ ચુકી છે. આ ફિલ્મ સ્ટ્રીમ થયાની સાથે જ ટ્રેંડ કરવા લાગી છે. ક્રાઈમ થ્રિલર જોનરમાં સારી હિંદી ફિલ્મ જોવા ઈચ્છતા લોકો માટે વધ 2 મસ્ટ વોચ છે. આ ફિલ્મમાં ઘણી એવી મોમેન્ટસ આવશે જેમાં તમારા ધબકારા વધી જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/neena-gupta-sanjay-mishra-vadh-2-netflix-trending-crime-thriller-film-vadh-2-film-story-471671 ",
+    "time": "2026-04-06T02:44:00.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ખેડૂતના દીકરાએ ફેંક્યો IPL 2026નો સૌથી ફાસ્ટ બોલ, જાણો કોણ છે આ ફાસ્ટ બોલર",
     "desc": "ગુજરાત ટાઇટન્સના યુવા ફાસ્ટ બોલર અશોક શર્માએ 154.2 કિમી/કલાકની ઝડપે બોલ ફેંકીને બધાને ચોંકાવી દીધા છે. આ સાથે તેણે વર્તમાન સિઝનનો સૌથી ઝડપી બોલ ફેંકવાનો રેકોર્ડ પણ પોતાના નામે કર્યો છે. અશોક શર્માએ પંજાબ કિંગ્સ સામેની મેચમાં IPLમાં ડેબ્યૂ કર્યું હતું.",
@@ -25,15 +79,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/good-news-for-the-employed-class-holidays-will-not-go-to-waste-now-you-will-get-money-know-the-big-benefit-of-the-new-labor-code-471654 ",
     "time": "2026-04-05T16:45:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અમે બધું જ નષ્ટ કરી દઈશું અને તેલ પર કબજો કરીશું, ડોનાલ્ડ ટ્રમ્પે જણાવ્યું ઈરાન સાથે ક્યારે ડીલ થશે ફાઈલન",
-    "desc": "ડોનાલ્ડ ટ્રમ્પે દાવો કર્યો હતો કે અમેરિકા અને ઈરાન વચ્ચે હાલમાં વાટાઘાટો ચાલી રહી છે અને આ તારીખે ડીલ થવાની સારી શક્યતા છે. તેમણે ઈરાનને ચેતવણી આપી હતી કે જો કોઈ સોદો નહીં થાય તો હુમલો થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/we-will-destroy-everything-and-seize-the-oil-donald-trump-said-when-will-the-deal-with-iran-be-finalized-471649 ",
-    "time": "2026-04-05T15:25:05.000Z"
   },
   {
     "cat": "Tech",
@@ -477,24 +522,6 @@ const newsData_gu = [
     "time": "2026-04-03T05:43:44.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ડોલર સામે રૂપિયાની 13 વર્ષની સૌથી મોટી છલાંગ, જાણો અચાનક કેમ આવી તેજી?",
-    "desc": "છેલ્લા કેટલાક સમયથી ડોલર સામે ગગડતો રૂપિયો ચિંતાનું કારણ બન્યો હતો. પરંતુ રિઝર્વ બેંક ઓફ ઈન્ડિયાએ અચાનક એક એવું પગલું ભર્યું કે રૂપિયો દોડવા લાગ્યો. ડોલર સામે મજબૂત થયો. જાણો રૂપિયામાં આવેલી મજબૂતીના 5 કારણો....",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/rupee-strengthened-against-dollar-rbi-action-check-reasons-news-in-gujarati-471313 ",
-    "time": "2026-04-03T05:40:59.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈસુ ખ્રિસ્તના કફનનું ભારત કનેક્શન નીકળ્યું! પવિત્ર Shroud of Turin ના DNA ટેસ્ટમાં મોટો ખુલાસો થયો",
-    "desc": "ઈસુ ખ્રિસ્તનો દેહ જે કાપડમાં લપેટાયો હતો, શું તે ભારતનું હતું? Shroud of Turin ના DNA અભ્યાસમાં એક મોટો ખુલાસો થયો છે કે, તે ભારતનું હતું. આખરે કેવી રીતે વૈજ્ઞાનિકોએ આ દાવો કર્યો, આ પાછળ શું થિયરી છે તે જાણીએ",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/jesus-christs-mysterious-burial-cloth-shroud-of-turin-has-indian-link-dna-study-471232 ",
-    "time": "2026-04-02T14:11:48.000Z"
-  },
-  {
     "cat": "World",
     "title": "પરમાણુ સુપરપાવર બનવાની રેસમાં વધુ એક દેશની એન્ટ્રી! ચીનનો સનસનીખેજ દાવો",
     "desc": "એશિયામાં વધતા તણાવની વચ્ચે જાપાને ચીન સુધી મારણ કરનારી લાંબા અંતરની મિસાઈલ તૈનાત કરીને સ્પષ્ટ સંદેશ આપ્યો છે. આ વચ્ચે ચીનના સરકારી સૈન્ય મુખપત્ર પીએલએ ડેઈલી દ્વારા જાપાનની પરમાણુ મહત્વકાંક્ષા વિશે સનસનીખેજ દાવો કરવામાં આવ્યો છે",
@@ -502,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/china-pla-daily-claim-for-japan-making-5500-nuclear-warheads-world-war-iii-471266 ",
     "time": "2026-04-02T14:09:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "વધુ એક યુદ્ધના ભણકારા... તાઇવાન નજીક એક ટાપુ પર ચીન બનાવી રહ્યું છે મિસાઇલ ફેસિલિટી",
-    "desc": "ચીને દક્ષિણ ચીન સમુદ્રના પેરાસેલ ટાપુઓમાં એન્ટિલોપ રીફ પર બાંધકામ ઝડપી બનાવ્યું છે. લગભગ 10 વર્ષના વિરામ બાદ શરૂ થયેલા આ કામમાં રનવે, જેટી, હેલિપેડ અને મિસાઇલ ફેસિલિટીનું નિર્માણ સામેલ છે. આ બેઝ ચીનને આ ક્ષેત્રમાં મજબૂત લશ્કરી સ્થિતિ અને તાઇવાન સાથે સંઘર્ષની સ્થિતિમાં વ્યૂહાત્મક ફાયદો કરાવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/china-builds-missile-facility-in-antelope-reef-vietnam-taiwan-471255 ",
-    "time": "2026-04-02T12:31:36.000Z"
   },
   {
     "cat": "Politics",
@@ -585,15 +603,6 @@ const newsData_gu = [
     "time": "2026-04-01T09:39:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "રિષભ પંતે આ બે ખેલાડીઓ વચ્ચે કરાવ્યું સમાધાન, ગયા વર્ષે થયો હતો ઝઘડો",
-    "desc": "IPL ભલે હજુ પણ વિશ્વની સૌથી મોટી અને સૌથી રોમાંચક T20 લીગ હોય, પરંતુ હવે પહેલાની જેમ મેદાન પર ટકરાવ કે ગરમાગરમી ઓછી જોવા મળે છે. ત્યારે આજે દિલ્હી કેપિટલ્સ અને લખનૌ સુપર જાયન્ટ્સ વચ્ચેની મેચ પહેલા રિષભ પંતે દિગ્વેશ રાઠી અને નીતિશ રાણા વચ્ચે લાંબા સમયથી ચાલતા ઝઘડાનો અંત લાવ્યો હતો અને બંને વચ્ચે સમાધાન કરાવ્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rishabh-pant-resolved-dpl-fight-between-digvesh-rathi-and-nitish-rana-471065 ",
-    "time": "2026-04-01T09:11:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "&amp;quot;ધુરંધર 2&amp;quot; ના &amp;quot;બડે સાહેબ&amp;quot;નું સત્ય... શું ખરેખર અંતિમ શ્વાસ લઈ રહ્યો છે અંડરવર્લ્ડનો સૌથી મોટો ચહેરો ? સામે આવ્યું હકીકત",
     "desc": "રણવીર સિંહની ફિલ્મ \"ધુરંધર: ધ રીવેન્જ\"માં \"બડે સાહેબ\" ને અંતિમ શ્વાસ લેતા દર્શાવવામાં આવ્યા હતા, જેના કારણે લોકોમાં પ્રશ્નો ઉભા થયા હતા. શું દાઉદ ઇબ્રાહિમ ખરેખર અંતિમ શ્વાસ લઈ રહ્યો છે? તાજેતરમાં, એક જાણીતા પત્રકારે આ વાતનો ખુલાસો કર્યો છે, અને તેમનું નિવેદન સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યું છે.",
@@ -601,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/the-truth-about-the-bade-saheb-of-dhurandhar-2-is-the-biggest-face-of-the-underworld-really-taking-his-last-breath-the-fact-has-come-to-light-471062 ",
     "time": "2026-04-01T09:09:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "800 વિકેટ અને 22 વખત 10-10 શિકાર... ક્રિકેટનો એ &amp;#039;અજેય&amp;#039; રેકોર્ડ જેને તોડવો છે અશક્ય, બેટ્સમેનો માટે કાળ હતો આ મહાન બોલર",
-    "desc": "ટેસ્ટ ક્રિકેટ એ ક્રિકેટનું સૌથી જૂનું ફોર્મેટ છે. આ ફોર્મેટમાં જો સૌથી ઘાતક અને સફળ કોઈ બોલર થયો હોય તો તે એક શ્રીલંકન છે, જેણે પોતાના કરિયરમાં એકથી ચઢિયાતા એક રેકોર્ડ બનાવ્યા છે. આ દિગ્ગજે ટેસ્ટ મેચમાં 22 વખત 10-10 વિકેટ લેવાની કમાલ પોતાના નામે કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/muttiah-muralitharans-record-of-800-test-wickets-and-22-ten-wicket-hauls-471061 ",
-    "time": "2026-04-01T08:54:44.000Z"
   },
   {
     "cat": "Entertainment",
@@ -691,15 +691,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/horror-web-series-hindi-on-ott-netflix-typewriter-web-series-ott-470499 ",
     "time": "2026-03-28T15:33:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ગુજરાત ભાજપના એ સાંસદે એક સમયે હેમામાલિનીને મારી હતી 20 થપ્પડ, હિરોઈનનો ચહેરો થઈ ગયો હતો લાલચોળ, જાણો",
-    "desc": "રામાનંદ સાગરની રામાયણમાં રાવણની ભૂમિકા ભજવીને અતિ પ્રખ્યાત થયેલા અરવિંદ ત્રિવેદીએ એકવાર હમ તેરે આશિક હૈ ફિલ્મના સેટ પર હેમા માલિનીને 20 જોરદાર થપ્પડ મારી હતી અને તેમની હાલત ખરાબ થઈ ગઈ હતી. પ્રેમ સાગરે એક ઈન્ટરવ્યુંમાં આ કિસ્સો સંભળાવ્યો હતો. જાણી લો શું છે આ કિસ્સો",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/this-gujarat-bjp-mp-once-slapped-hema-malini-20-times-the-heroine-face-turned-red-470459 ",
-    "time": "2026-03-28T12:09:25.000Z"
   },
   {
     "cat": "Tech",
