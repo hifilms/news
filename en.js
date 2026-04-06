@@ -1,21 +1,138 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "NCW gives Nora Fatehi final opportunity to appear in song row",
+    "desc": "The National Commission for Women (NCW) has given Nora Fatehi a final opportunity to appear before it in person in connection with the controversy surrounding the song Sarke Chunar Teri. The commission has fixed April 27 as the next date of hearing. The commission has also directed Sanjay Dutt to appear before it on April 8 in connection with the matter.",
+    "img": "https://static.toiimg.com/photo/msid-130069403,imgsize-54524.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ncw-gives-nora-fatehi-final-opportunity-to-appear-in-sarke-chunar-teri-row-summons-sanjay-dutt-sets-april-27-hearing/articleshow/130069403.cms",
+    "time": "2026-04-06T18:42:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Shami outfoxed Head, Abhishek with skill and deception",
+    "desc": "Mohammed Shami delivered a sensational bowling performance, dismantling Travis Head and Abhishek Sharma early in the Powerplay. His masterful skill and deception earned him two crucial wickets, setting the stage for a dominant display. Despite past injury concerns, Shami's dedication to domestic cricket has revitalized his craft, proving his enduring class.",
+    "img": "https://static.toiimg.com/photo/msid-130069383,imgsize-46668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/how-mohammed-shami-outfoxed-travis-head-abhishek-sharma-with-skill-and-deception/articleshow/130069334.cms",
+    "time": "2026-04-06T18:35:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Punjab Kings go top after rain washes out KKR vs PBKS clash at Eden Gardens",
+    "desc": "Kolkata Knight Riders secured their first point in IPL 2026 after their match against Punjab Kings was abandoned due to rain. The game was called off after just 22 deliveries with KKR at 25 for 2. Punjab Kings now lead the table with five points from three games.",
+    "img": "https://static.toiimg.com/photo/msid-130068759,imgsize-128626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-punjab-kings-go-top-after-rain-washes-out-kkr-vs-pbks-clash-at-eden-gardens/articleshow/130068760.cms",
+    "time": "2026-04-06T18:05:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "‘New’ Bangladesh-India ties will avoid ‘mistakes of the past’: Foreign Affairs Adviser Humayun Kobir",
+    "desc": "The Foreign Affairs Adviser to Bangladesh Prime Minister Tarique Rahman says the two sides should do more frequent exchanges at the level of political parties and officials to deal with ‘difficult issues’ so that misunderstandings are avoided.",
+    "img": "https://th-i.thgim.com/public/news/national/bt7z6p/article70831752.ece/alternates/LANDSCAPE_1200/BD.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/new-bangladesh-india-ties-will-avoid-mistakes-of-the-past-foreign-affairs-adviser-humayun-kobir/article70831316.ece",
+    "time": "2026-04-06T17:59:49.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "‘Government’s semiconductor mission will promote research’: MeitY Additional Secretary",
+    "desc": "Though India accounts for nearly 20% of the world’s semiconductor design engineers, it doesn’t have its own design firms, says Amitesh Kumar Sinha, Additional Secretary, Electronics and IT Ministry, at the The Hindu Deep Tech Summit; the India Semiconductor Mission 2.0 will expand beyond the first phase to include research and development, equipment manufacturing and skilling, he adds",
+    "img": "https://th-i.thgim.com/public/incoming/8021iq/article70831734.ece/alternates/LANDSCAPE_1200/DSC_5448.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/governments-semiconductor-mission-will-promote-research-meity-additional-secretary/article70830363.ece",
+    "time": "2026-04-06T17:53:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Useless would be understatement': Green faces fan fury after another flop show",
+    "desc": "After choosing to bat first, KKR lost Finn Allen and Cameron Green early. They were 25 for 2 in 3.4 overs when rain stopped play, with captain Ajinkya Rahane and Angkrish Raghuvanshi at the crease.",
+    "img": "https://static.toiimg.com/photo/msid-130068081,imgsize-37440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/useless-would-be-an-understatement-cameron-green-faces-fan-fury-after-another-flop-show/articleshow/130067961.cms",
+    "time": "2026-04-06T17:49:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tara Sutaria opens up about love, marriage and children",
+    "desc": "Tara Sutaria recently got candid about her views on relationships, marriage and motherhood during a conversation with Rhea Chakraborty, offering a deeply personal take on what she seeks in a partner and where she stands on starting a family. Tara also reflected on how relationships evolve over time, underlining that love alone isn’t enough.",
+    "img": "https://static.toiimg.com/photo/msid-130067976,imgsize-45794.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tara-sutaria-opens-up-about-love-marriage-and-children-deceit-betrayal-and-lies-are-deal-breakers/articleshow/130067976.cms",
+    "time": "2026-04-06T17:43:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘A proud moment’: PM Modi hails India’s ‘defining step’ in civil nuclear journey as Kalpakkam fast breeder reactor attains criticality",
+    "desc": "India has achieved a significant milestone in its nuclear energy program as the Prototype Fast Breeder Reactor at Kalpakkam successfully attained criticality. Prime Minister Modi hailed this as a defining step, showcasing the nation's scientific prowess and engineering capabilities.",
+    "img": "https://static.toiimg.com/photo/msid-130066954,imgsize-71380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/a-proud-moment-pm-modi-hails-indias-defining-step-in-civil-nuclear-journey-as-kalpakkam-fast-breeder-reactor-attains-criticality/articleshow/130066757.cms",
+    "time": "2026-04-06T17:03:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Bit of a shocker': Rahane slammed for 'batting first' in rain-hit clash",
+    "desc": "Kolkata Knight Riders captain Ajinkya Rahane drew sharp criticism for choosing to bat first against Punjab Kings despite a rain forecast. Experts like Anil Kumble and Ravichandran Ashwin questioned the decision, especially with an inexperienced bowling attack. The move backfired as KKR lost two early wickets before rain halted play, leaving them struggling.",
+    "img": "https://static.toiimg.com/photo/msid-130066586,imgsize-61176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/bit-of-a-shocker-ajinkya-rahane-slammed-for-batting-first-in-rain-hit-clash-vs-punjab-kings/articleshow/130066530.cms",
+    "time": "2026-04-06T16:50:09.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Tamil Nadu CM, Congress in tacit understanding with BJP, says Mamata",
     "desc": "In Kerala, Congress leader Rahul Gandhi launches a scathing attack on PM Modi and Kerala CM Pinarayi Vijayan, calling them “arrogant” and alleging that they have a “king” mindset over people rather than working with them",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-puducherry-assam-live-updates-april-6-2026/article70828680.ece",
-    "time": "2026-04-06T15:24:54.000Z"
+    "time": "2026-04-06T16:47:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel confirms U.S.-Israeli strikes kill Iran Guards intelligence chief",
+    "desc": "Israel’s Defence Minister says Iran’s Revolutionary Guards Corps intelligence chief Majid Khademi has been killed in a strike in Tehran. Iran calls it a “terrorist attack” and blames Israel and the United States. The killing marks the latest in a series of strikes targeting top Iranian leadership since late February.",
+    "img": "https://th-i.thgim.com/public/incoming/etb7mc/article70831544.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-06%20at%2021.44.29.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-israel-confirms-us-israeli-strikes-kill-iran-guards-intelligence-chief/article70831540.ece",
+    "time": "2026-04-06T16:28:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shah Rukh Khan attends KKR vs PBKS IPL match with Suhana",
+    "desc": "Shah Rukh Khan made a stylish appearance at Eden Gardens on Monday evening as he turned up to support his IPL team, Kolkata Knight Riders (KKR), along with daughter Suhana Khan. The duo was spotted in the stands during KKR’s clash against Punjab Kings (PBKS), with visuals from the stadium quickly going viral on social media. Even as rain briefly interrupted the match, fans couldn’t take their eyes off the father-daughter pair.",
+    "img": "https://static.toiimg.com/photo/msid-130065930,imgsize-55378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-attends-kkr-vs-pbks-ipl-match-with-suhana-khan-at-eden-gardens-his-salt-and-pepper-king-look-steals-the-show/articleshow/130065930.cms",
+    "time": "2026-04-06T16:25:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After Yuvraj 'no communication' claim, ex-India star targets Virat, Shastri, selectors",
+    "desc": "Former cricketer Wasim Jaffer has backed Yuvraj Singh's claims of receiving poor communication regarding his retirement from then captain Virat Kohli, coach Ravi Shastri, and selectors. Yuvraj revealed he sought clarity from MS Dhoni. Jaffer criticized the management, stating big players deserve respect and clear communication about their future in the sport.",
+    "img": "https://static.toiimg.com/photo/msid-130065902,imgsize-61884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-yuvraj-singh-no-communication-claim-ex-india-star-targets-virat-kohli-ravi-shastri-selectors/articleshow/130065882.cms",
+    "time": "2026-04-06T16:15:59.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Sattankulam Jayaraj-Benicks custodial deaths case: All nine policemen sentenced to death",
-    "desc": "10 policemen were arrested following the deaths; one of them died after contracting COVID-19; the CBI said the victims were subjected to brutal torture by the policemen, knowing that it was sufficient to cause their death",
-    "img": "https://th-i.thgim.com/public/incoming/wjozav/article70830301.ece/alternates/LANDSCAPE_1200/Sattankulam%20custodial%20deaths%20case.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/sattankulam-jayaraj-benicks-custodial-deaths-case-all-nine-policemen-sentenced-to-death/article70830300.ece",
-    "time": "2026-04-06T15:22:07.000Z"
+    "title": "Defiance or sabotage? What AAP's move in Kerala signals for Congress in assembly polls",
+    "desc": "Aam Aadmi Party's decision to contest all seats in Kerala assembly polls creates a new challenge for Congress. This move mirrors AAP's impact in Gujarat, where it reduced Congress's vote share. AAP's presence could alter the political landscape, potentially benefiting the ruling Left. The INDIA bloc faces internal friction as AAP expands its national footprint.",
+    "img": "https://static.toiimg.com/photo/msid-130065688,imgsize-848115.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/defiance-or-sabotage-what-aaps-move-in-kerala-signals-for-congress-in-assembly-polls/articleshow/130065571.cms",
+    "time": "2026-04-06T16:05:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Janhvi Kapoor says she was depressed after Dhadak, felt hated",
+    "desc": "Janhvi Kapoor may often come across as composed and cheerful in public, but she has now revealed that the period following her debut film Dhadak was far more emotionally turbulent than it appeared. Janhvi revisited her state of mind around the film’s release in 2018. Despite the film’s commercial success and positive feedback, she said her personal experience was marked by self-doubt and emotional distress.",
+    "img": "https://static.toiimg.com/photo/msid-130064969,imgsize-54076.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoor-says-she-was-depressed-after-dhadak-felt-hated-i-was-expecting-validation-from-the-audience-after-losing-mom/articleshow/130064969.cms",
+    "time": "2026-04-06T15:31:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -46,7 +163,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Rajya Sabha chairman rejects impeachment motion against poll body chief Gyanesh Kumar",
+    "title": "Lok Sabha Speaker, Rajya Sabha chairman reject impeachment motion against poll body chief Gyanesh Kumar",
     "desc": "The 10-page-long notice carried a chargesheet on seven counts. ​​The charges ranged from partisan conduct of CEC to mass disenfranchisement of voters. The opposition had also raised the issue of the way CEC handled SIR in previous elections like Bihar and forthcoming elections in states like West Bengal; his \"proved misbehaviour\"; his partial conduct towards a political party are also issues that find a mention in the notice.",
     "img": "https://static.toiimg.com/photo/msid-130064340,imgsize-128292.cms",
     "src": "indiatimes.com",
@@ -90,15 +207,6 @@ const newsData_en = [
     "time": "2026-04-06T14:32:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sharad Pawar, Ramdas Athawale among 19 new Rajya Sabha members sworn in",
-    "desc": "The new members include five from Maharashtra, six from Tamil Nadu, five from West Bengal and three from Odisha. The oath was taken in multiple languages — Marathi (three members), Hindi (two), Tamil (six), English (one), Bangla (four) and Odia (three).",
-    "img": "https://th-i.thgim.com/public/latest-news/fghchi/article70830939.ece/alternates/LANDSCAPE_1200/Pawar.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/new-rajya-sabha-members-take-oath/article70829279.ece",
-    "time": "2026-04-06T14:31:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Might find a blanket and sleep here': Australian player mocks PSL schedule",
     "desc": "The comment came after Multan Sultans beat Quetta Gladiators on Sunday to register their third win of the Pakistan Super League (PSL) season. The team is set to return to the same venue on Monday for their next game against Rawalpindi Kings.",
@@ -106,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/might-find-a-blanket-and-sleep-here-australian-cricketer-mocks-psl-schedule-after-back-to-back-matches/articleshow/130063433.cms",
     "time": "2026-04-06T14:23:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Assam poll outcome hinges on parties reading the tea leaves right",
-    "desc": "Influential in at least 35 of the 126 seats in Assam, the ‘tea tribes’ have gravitated towards the BJP since 2014; the Congress is counting on the State government’s ‘failure’ to increase wages and provide ST reservation to the community",
-    "img": "https://th-i.thgim.com/public/incoming/idvs2z/article70830790.ece/alternates/LANDSCAPE_1200/PTI04_05_2026_000614B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/assam-assembly/assam-poll-outcome-hinges-on-parties-reading-the-tea-leaves-right/article70829965.ece",
-    "time": "2026-04-06T14:14:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -196,6 +295,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/uapa-terror-case-us-citizen-6-ukrainians-sent-to-30-day-judicial-custody/articleshow/130061297.cms",
     "time": "2026-04-06T12:43:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Avesh Khan ball-hitting row: SRH likely to approach BCCI over 'unfair play' in IPL",
+    "desc": "The issue concerns the last ball of the game on April 5, when LSG captain Rishabh Pant hit a boundary off Jaydev Unadkat. As the ball was heading towards the boundary, Avesh, who was near the dugout, struck it back into the ground with a bat.",
+    "img": "https://static.toiimg.com/photo/msid-130061221,imgsize-24080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/avesh-khan-ball-hitting-row-srh-likely-to-approach-bcci-over-unfair-play-in-ipl/articleshow/130060846.cms",
+    "time": "2026-04-06T12:41:43.000Z"
   },
   {
     "cat": "Business",
@@ -286,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-craze-costs-techie-rs-1-46-lakh-in-fake-rcb-vs-csk-ticket-scam/articleshow/130059549.cms",
     "time": "2026-04-06T11:32:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Drama' actress Zendaya's 5 films to watch on OTT",
-    "desc": "Zendaya is one of the most watchable actors of her generation, and her filmography proves it at every turn. With her latest romantic comedy, 'The Drama', co-starring Robert Pattinson and directed by Kristoffer Borgli, engaging the audience, there is no better time to revisit the films that got her here. Here are five Zendaya films streaming on OTT right now.",
-    "img": "https://static.toiimg.com/photo/msid-130056072,imgsize-56554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/drama-actress-zendayas-5-films-to-watch-on-ott-challengers-dune-and-more/photostory/130056072.cms",
-    "time": "2026-04-06T11:30:00.000Z"
   },
   {
     "cat": "Politics",
@@ -396,15 +495,6 @@ const newsData_en = [
     "time": "2026-04-06T09:15:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dan gets emotional on the idea of filming without Catherine",
-    "desc": "Dan Levy has revealed he was considering a 'Schitt's Creek' sequel before Catherine O'Hara's passing. He now states a revival is impossible without the beloved actress, calling her irreplaceable. Levy expressed deep emotion discussing his memories with O'Hara, emphasizing that her absence has definitively ended any plans for the Rose family's story to continue.",
-    "img": "https://static.toiimg.com/photo/msid-130056345,imgsize-102002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/dan-levy-breaks-down-as-he-talks-about-the-schitts-creek-sequel-idea-after-catherine-oharas-passing/articleshow/130056345.cms",
-    "time": "2026-04-06T09:07:39.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Sourcing LPG cylinders to become easier for students, migrant workers, daily wage earners: Here's how",
     "desc": "Accessing cooking fuel just got simpler for migrant workers, students, and daily wage earners. The government now allows 5-kg Free Trade LPG cylinders to be sold without address proof, requiring only a valid ID. This move aims to make energy more accessible, removing bureaucratic hurdles for vulnerable sections.",
@@ -430,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/from-job-creation-to-free-bus-travel-for-women-what-congress-is-offering-in-puducherry-manifesto/articleshow/130055152.cms",
     "time": "2026-04-06T08:22:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Nobody intervened': Ambati Rayudu questions CSK’s on-field decisions",
-    "desc": "Ambati Rayudu has slammed Chennai Super Kings' bowling strategy after their IPL 2026 defeat to RCB, citing a rigid approach and lack of adaptability. He believes CSK failed to adjust their plans when RCB posted a massive 250, particularly struggling at the death. Rayudu contrasted this with RCB's sharp control and decisive execution.",
-    "img": "https://static.toiimg.com/photo/msid-130055318,imgsize-217698.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/nobody-intervened-ambati-rayudu-questions-csks-on-field-decisions/articleshow/130055355.cms",
-    "time": "2026-04-06T08:21:46.000Z"
   },
   {
     "cat": "Business",
@@ -469,7 +550,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 19 [LIVE]: Ranveer Singh film eyes Rs. 1,050 crore net",
+    "title": "'Dhurandhar 2' BO day 19 [LIVE]: Ranveer Singh film mints overRs. 1,023 crore net",
     "desc": "The Revenge' officially enlisted its name as the second Hindi film to cross the Rs 1,000 crore India net milestone. Starring Ranveer Singh, the espionage thriller has amassed Rs 1,014.97 crore domestically and Rs 1,605.74 crore globally, outperforming blockbusters like 'Jawan' and 'KGF 2'. Despite the IPL 2026 season, the film maintains record-breaking occupancy across theatres. Now the third-highest-grossing Indian film globally, the spy saga eyes the Rs 1,700 crore worldwide mark as it dominates the box office into its third week.",
     "img": "https://static.toiimg.com/photo/msid-130054387,imgsize-81718.cms",
     "src": "indiatimes.com",
@@ -522,33 +603,6 @@ const newsData_en = [
     "time": "2026-04-06T05:10:32.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Currency rises 33 paise to reach 92.85 against US dollar",
-    "desc": "The Indian Rupee strengthened against the US dollar on Monday. This gain followed intervention by the Reserve Bank of India to curb speculative positions. The central bank capped banks' net open positions. Despite this, foreign capital outflows and global uncertainties pose risks. The Rupee may strengthen further but volatility is expected to persist.",
-    "img": "https://static.toiimg.com/photo/msid-130051203,imgsize-670950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-on-april-6-2026-currency-rises-33-paise-to-reach-92-85-against-us-dollar/articleshow/130051152.cms",
-    "time": "2026-04-06T04:57:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'False and fabricated': Assam CM Himanta Biswa Sarma alleges ‘Pakistani link’ after Congress claims on wife’s passports",
-    "desc": "The political climate in Assam has heated up as Chief Minister Himanta Biswa Sarma accused Congress leaders Pawan Khera and Gaurav Gogoi of presenting forged travel documents sourced from a Pakistani broadcaster during a recent press conference. Together with his wife, Sarma has filed a formal complaint, arguing that the passports were doctored.",
-    "img": "https://static.toiimg.com/photo/msid-130050779,imgsize-105902.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/false-and-fabricated-assam-cm-himanta-biswa-sarma-alleges-pakistani-link-after-congress-claims-on-wifes-passports/articleshow/130049823.cms",
-    "time": "2026-04-06T04:21:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli’s heartwarming gesture after Sarfaraz’s dismissal goes viral – watch",
-    "desc": "Royal Challengers Bengaluru secured a strong victory against Chennai Super Kings. Virat Kohli showed great sportsmanship towards Sarfaraz Khan. Kohli applauded Sarfaraz's fighting knock. RCB posted a high score thanks to strong batting. CSK struggled to chase the target. RCB's bowlers performed well. The win marks a significant moment for RCB.",
-    "img": "https://static.toiimg.com/photo/msid-130050180,imgsize-1084579.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohlis-heartwarming-gesture-after-sarfaraz-khans-dismissal-goes-viral-watch/articleshow/130050141.cms",
-    "time": "2026-04-06T03:33:28.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump appears to extend Iran deadline in cryptic post",
     "desc": "U.S. President Donald Trump, who has held no public events since an address to the nation on Wednesday (April 1, 2026), seemed to confirm the new timing in an interview with The Wall Street Journal",
@@ -565,33 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-military-says-us-rescue-operation-used-abandoned-airport-in-southern-isfahan/article70828702.ece",
     "time": "2026-04-06T02:10:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Vaishali beat former World champion Tan for 2nd consecutive win",
-    "desc": "The FIDE Candidates 2026 sees a dominant Javokhir Sindarov in the Open section, while the Women's category is a 'comedy or tragedy of errors'. Indian players Vaishali Rameshbabu and Divya Deshmukh experienced mixed fortunes in Round 7, with Vaishali winning through opponent blunders and Divya failing to convert a sure win. Praggnanandhaa drew his match.",
-    "img": "https://static.toiimg.com/photo/msid-130048532,imgsize-98998.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-vaishali-beat-former-world-champion-tan-for-2nd-consecutive-win/articleshow/130048524.cms",
-    "time": "2026-04-06T00:42:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "DC bet on Rizvi over Samson trade; rewarded with runs galore",
-    "desc": "Sameer Rizvi has become a sensation in the Indian Premier League (IPL), leading Delhi Capitals to victory in two crucial chases. His impressive performances under pressure have validated the franchise's decision to retain him, even after a potential trade for Sanju Samson fell through due to Rajasthan Royal's demand for Rizvi.",
-    "img": "https://static.toiimg.com/photo/msid-130046306,imgsize-55528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-early-days-but-dcs-big-bet-on-sameer-rizvi-reaping-benefits/articleshow/130046228.cms",
-    "time": "2026-04-05T20:08:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BJK Cup",
-    "desc": "Former player Vishal Uppal leads India in the Billie Jean King Cup's Asia/Oceania Group 1, aiming to build depth in women's tennis. Having experienced the game's pressures firsthand, Uppal emphasised mental fortitude over technique at this level. In the BJK Cup, India face a tough challenge against New Zealand, Korea, Indonesia, Mongolia, and Thailand, with qualification for the playoffs as their goal.",
-    "img": "https://static.toiimg.com/photo/msid-130046166,imgsize-60078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/i-know-whats-happening-in-their-mind-vishal-uppal-on-benefits-of-former-pro-leading-team-india-in-bjk-cup/articleshow/130046126.cms",
-    "time": "2026-04-05T19:51:52.000Z"
   },
   {
     "cat": "Sports",
@@ -637,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/iran-war-starts-pinching-us-gas-prices-transport-costs-surge/article70825791.ece",
     "time": "2026-04-05T04:27:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran FM Araghchi warns of contamination risk after U.S.-Israeli strikes on Bushehr nuclear power plant",
-    "desc": "Iranian Foreign Minister Abbas Araghchi warned that continued attacks on the plant on Iran's southern coast could eventually lead to radioactive fallout that would \"end life in GCC (Gulf Cooperation Council) capitals, not Tehran\"; Bushehr is considerably closer to Kuwait, Bahrain and Qatar than it is to the Iranian capital.",
-    "img": "https://th-i.thgim.com/public/incoming/9n9z8v/article70825727.ece/alternates/LANDSCAPE_1200/HFDixo-b0AA_clS.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-fm-araghchi-warns-of-contamination-risk-after-us-israeli-strikes-on-bushehr-nuclear-power-plant/article70825722.ece",
-    "time": "2026-04-05T04:06:32.000Z"
   },
   {
     "cat": "Business",

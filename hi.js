@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ajinkya Rahane criticised for opting to bat first in rain-hit KKR-PBKS clash in IPL 2026",
+    "desc": "Former cricketers were taken by surprise as Kolkata Knight Riders captain Ajinkya Rahane opted to bat first against Punjab Kings with rain around. Ex-cricketers Anil Kumble and Saba Karim called out Rahane for his decision...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-criticised-for-opting-to-bat-first-in-rain-hit-kkr-pbks-clash-in-ipl-2026-2026-04-06-1036534",
+    "time": "2026-04-06T18:17:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kolkata weather saves KKR as rain and wet outfield wash out clash against PBKS at Eden Gardens",
+    "desc": "The Kolkata weather saved the Kolkata Knight Riders after they were rocked early in their clash against the Punjab Kings at the Eden Gardens on Monday, April 6. KKR were in big trouble at 25/2...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kolkata-weather-saves-kkr-as-rain-and-wet-outfield-wash-out-clash-against-pbks-at-eden-gardens-2026-04-06-1036531",
+    "time": "2026-04-06T17:37:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What is the cut-off time for KKR vs PBKS IPL 2026 clash as rain threatens a washout?",
+    "desc": "The heavens opened up as Kolkata Knight Riders began their batting against Punjab Kings at the Eden Gardens on Monday, April 6. A steady drizzle had already washed out the training sessions of both teams...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-is-the-cut-off-time-for-kkr-vs-pbks-ipl-2026-clash-as-rain-threatens-a-washout-2026-04-06-1036527",
+    "time": "2026-04-06T16:08:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When can Sri Lankan stars join IPL 2026?",
     "desc": "Matheesha Pathirana and Wanindu Hasaranga are among the foreign players who are yet to join their Indian Premier League franchises. The two players are dealing with injuries and are yet to get the No Objection...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-pbks-pitch-report-how-will-surface-in-kolkata-play-for-ipl-2026-play-2026-04-06-1036505",
     "time": "2026-04-06T11:32:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Varun Chakravarthy one wicket away from major record as KKR gear up for PBKS clash in IPL 2026",
-    "desc": "Varun Chakrvarthy is eyeing a major record for Kolkata Knight Riders as his team gears up to take the field against Punjab Kings in the Indian Premier League 2026 on Monday, April 6. Chakravarthy's form...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/varun-chakravarthy-one-wicket-away-from-major-record-as-kkr-gear-up-for-pbks-clash-in-ipl-2026-2026-04-06-1036503",
-    "time": "2026-04-06T11:31:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Irfan Pathan points out Noor Ahmad's poor form after CSK's third straight loss in IPL 2026",
-    "desc": "Chennai Super Kings have gotten off to a horrid start to the IPL (Indian Premier League) 2026. The five-time champions have played three games in the tournament so far and have succumbed to a loss...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-points-out-noor-ahmad-s-poor-form-after-csk-s-third-straight-loss-in-ipl-2026-2026-04-06-1036500",
-    "time": "2026-04-06T11:16:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson, Jasprit Bumrah in race for ICC Player of the Month award as ICC names nominees for March",
-    "desc": "The International Cricket Council on Monday announced the nominees for the ICC Player of the Month Award for March, as Indian stars Sanju Samson and Jasprit Bumrah are in the race for the honour alongside...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-jasprit-bumrah-in-race-for-icc-player-of-the-month-award-as-icc-names-nominees-for-march-2026-04-06-1036491",
-    "time": "2026-04-06T10:28:17.000Z"
   }
 ];
