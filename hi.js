@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will rain play spoilsport again?",
+    "desc": "Unseasonal rains have grappled several parts of India and the KKR vs PBKS clash became the first match of the ongoing IPL 2026 season to get washed out on Monday. Rajasthan Royals are set to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/guwahati-weather-forecast-for-rr-vs-mi-ipl-2026-clash-today-will-rain-play-spoilsport-again-2026-04-07-1036567",
+    "time": "2026-04-07T04:01:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Mumbai Indians skipper play against Rajasthan Royals in IPL 2026 Match 13?",
+    "desc": "The Mumbai Indians missed their skipper Hardik Pandya in the previous game against the Delhi Capitals. Suryakumar Yadav led in his absence, but their team balance was hampered and the five-time champions had to make...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-injury-update-will-mumbai-indians-skipper-play-against-rajasthan-royals-in-ipl-2026-match-13-2026-04-07-1036550",
+    "time": "2026-04-07T02:11:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Updated points table after KKR vs PBKS IPL 2026 match gets washed out due to rain",
     "desc": "Kolkata Knight Riders registered their first points on Monday in IPL 2026, albeit without a win, as their clash against Punjab Kings got washed out due to rain at the Eden Gardens in Kolkata. The...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-sunil-narine-not-playing-in-kkr-vs-pbks-ipl-2026-clash-ajinkya-rahane-reveals-2026-04-06-1036512",
     "time": "2026-04-06T13:42:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Paras Mhambrey confirms Hardik Pandya's availability for MI ahead of clash against RR",
-    "desc": "The stage is set for the 13th game of the ongoing IPL (Indian Premier League) 2026. Rajasthan Royals will be hosting Mumbai Indians at the Barsapara Stadium in Guwahati on April 6. Ahead of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/paras-mhambrey-confirms-hardik-pandya-s-availability-for-mi-ahead-of-clash-against-rr-2026-04-06-1036510",
-    "time": "2026-04-06T13:25:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Mumbai Indians' skipper in line to play RR vs MI IPL 2026 clash?",
-    "desc": "Mumbai Indians captain Hardik Pandya missed out on playing MI's IPL 2026 clash against Delhi Capitals at the Arun Jaitley Stadium on April 4 due to sickness. In his absence, India's T20I skipper Suryakumar Yadav...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-fitness-update-is-mumbai-indians-skipper-in-line-to-play-rr-vs-mi-ipl-2026-clash-2026-04-06-1036507",
-    "time": "2026-04-06T12:07:36.000Z"
   }
 ];
