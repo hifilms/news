@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "স্বামীর সঙ্গে ঝগড়া করেই চরম সিদ্ধান্ত? বাড়ি থেকে উদ্ধার জনপ্রিয় অভিনেত্রীর দেহ",
+    "desc": "বাইরে হাসিখুশি অথচ মনে জমছিল মেঘ! ৪ এপ্রিল লিখেছিলেন \"Life Lately\", আর ৬ এপ্রিল চেন্নাইয়ের ফ্ল্যাটে মিলল তাঁর নিথর দেহ। জনপ্রিয় তামিল সিরিয়াল 'কায়াল' খ্যাত অভিনেত্রী সুভাষিণী বালাসুব্রমণ্যমের আকস্মিক মৃত্যুতে স্তম্ভিত ইন্ডাস্ট্রি। প্রাথমিক তদন্তে উঠে আসছে দাম্পত্য কলহের ইঙ্গিত। গ্ল্যামার আর হাসির আড়ালে লুকিয়ে থাকা যন্ত্রণা কি এভাবেই কেড়ে নেয় জীবন?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/tv-actress-subashini-balasubramaniyam-found-dead-chennai-last-post_647839.html ",
+    "time": "2026-04-07T10:52:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "টাকার বিছানায় শুয়ে ডাক্তারের উল্লাস: গরিবের কিডনি নিয়ে ভয়ংকর ধান্দার কালো কিস্সা, ভাইরাল ভিডিয়ো",
+    "desc": "চুক্তি হল ১০ লক্ষ টাকার। কিডনি নেওয়া হল। কিন্তু টাকা দেওয়া হল মাত্র ৯.৫ লক্ষ। ৫০ হাজার টাকা কম পেয়ে ক্ষুব্ধ আয়ুষ পুলিশের দরজায় গেলেন। আর তাতেই ফাঁস হয়ে গেল কোটি কোটি টাকার এক ঘৃণ্য চক্র।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/kanpur-kidney-racket-doctor-afzal-viral-video-cash-bed-absconding-doctor_647829.html ",
+    "time": "2026-04-07T10:37:25.000Z"
+  },
+  {
     "cat": "World",
     "title": "বিশ্বের সবচেয়ে বড় শিল্প শহর ধ্বংস: ইরানের ভয়াবহ হামলায় কাতরাচ্ছে সৌদি আরব, বৃষ্টির মত ধেয়ে এল মুহুর্মুহু মিসাইল",
     "desc": "এই হামলার পর ইরান ও মার্কিন-ইসরায়েল যুদ্ধ এক চরম উত্তেজনার মুখে দাঁড়িয়েছে। মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প হুমকি দিয়েছেন যে, ইরান যদি 'হরমুজ প্রণালী'র নিয়ন্ত্রণ ছেড়ে না দেয়, তবে দেশটির সমস্ত ব্রিজ ও বিদ্যুৎ উৎপাদন কেন্দ্রে বোমা হামলা চালানো হবে।",
@@ -189,21 +207,12 @@ const newsData_bn = [
     "time": "2026-04-03T12:26:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Abhishek Bachchan-Aishwarya Rai Bachchan: ঐশ্বর্যের সঙ্গে ১৮ বছরের দাম্পত্যে শুধু 'তীব্র ইগো'র চোরাস্রোত, বিস্ফোরক অভিষেক",
-    "desc": "\"আমি চাই না আমার স্ত্রী কোনো কিছু থামিয়ে দিক যাতে আমি নিজেকে বেশি পুরুষালি মনে করি!\" ১৮ বছরের দাম্পত্যের রহস্য ফাঁস করলেন অভিষেক বচ্চন। ঐশ্বর্যর সঙ্গে তাঁর সম্পর্ক কেন অন্যদের থেকে আলাদা? কেন তিনি বললেন ‘তীব্র ইগো’ই তাঁদের টিকে থাকার চাবিকাঠি?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/abhishek-bachchan-on-marriage-with-aishwarya-rai-ego-and-partnership_647255.html ",
-    "time": "2026-04-03T10:44:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "থাকবেন রাহুল, ১০ এপ্রিল ফের মঞ্চস্থ হতে চলেছে 'যে জানলাগুলোর আকাশ ছিল': আবেগঘন পোস্ট সৌরভের",
-    "desc": "রাহুল অরুণোদয় বন্দ্যোপাধ্যায়ের প্রয়াণে স্তব্ধ থিয়েটার মহল। কিন্তু শিল্পী মরেও অমর তাঁর সৃষ্টিতে। বন্ধু ও অভিনেতা রাহুলের স্মৃতিতে ‘ইচ্ছেমতো’ নাট্যদলের আগামী পরিকল্পনা নিয়ে মুখ খুললেন পরিচালক সৌরভ পালোধী। আগামী ১০ই এপ্রিল অ্যাকাডেমিতে হতে চলেছে বিশেষ শো।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunodoy-banerjee-death-saurav-palodhi-theatre-future-update_647237.html ",
-    "time": "2026-04-03T09:26:14.000Z"
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Guwahati weather threatens delay as rain returns at Barsapara",
+    "desc": "Unbeaten Rajasthan Royals host upbeat Mumbai Indians in the 13th match of the Indian Premier League 2026 at the Barsapara Cricket Stadium, Guwahati, on Tuesday, April 7. The Guwahati weather is in focus. Rain came down...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-mi-ipl-2026-live-cricket-score-rajasthan-royals-vs-mumbai-indians-barsapara-cricket-stadium-guwahati-weather-latest-match-updates-scorecard-2026-04-07-1036648",
+    "time": "2026-04-07T12:05:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ultimate test awaits teenage sensation Vaibhav Sooryavanshi as Jasprit Bumrah challenge beckons in RR-MI clash",
+    "desc": "Young sensation Vaibhav Sooryavanshi will face his biggest test so far when he will be pitted against modern-day great Jasprit Bumrah in the upcoming clash between the Rajasthan Royals and the Mumbai Indians at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ultimate-test-awaits-teenage-sensation-vaibhav-sooryavanshi-as-jasprit-bumrah-challenge-beckons-in-rr-mi-ipl-2026-clash-2026-04-07-1036643",
+    "time": "2026-04-07T11:37:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aminul Bulbul removed as BCB president after T20 World Cup fiasco, Tamim Iqbal to serve as interim head",
+    "desc": "A major administrative shake-up has unfolded in Bangladesh cricket, with the National Sports Council stepping in to restructure the leadership of BCB. The move comes shortly after discussions around resuming bilateral cricket ties with India,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aminul-bulbul-removed-as-bcb-president-after-t20-world-cup-fiasco-tamim-iqbal-to-serve-as-interim-head-2026-04-07-1036640",
+    "time": "2026-04-07T11:15:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Dhoni not there doesn't make much difference, crowd will be little quieter'",
+    "desc": "Chennai Super Kings have lost all three of their matches so far in the IPL 2026. They have struggled in all three facets of the game and are currently at the bottom of the table....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dhoni-not-there-doesn-t-make-much-difference-crowd-will-be-little-quieter-heinrich-klaasen-on-csk-clash-2026-04-07-1036637",
+    "time": "2026-04-07T11:02:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "David Warner, Australia batting icon, arrested for drink driving in Sydney",
+    "desc": "Australian icon David Warner was charged with drink-driving in Sydney after returning to Australia mid-way from the Pakistan Super League. Warner was pulled over in Maroubra, Sydney, during a random breath test. As per reports in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-batting-icon-david-warner-arrested-for-drink-driving-in-sydney-2026-04-07-1036632",
+    "time": "2026-04-07T10:38:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Heinrich Klaasen pinpoints SRH's problems after two defeats in three games in IPL 2026",
+    "desc": "After a defeat to Royal Challengers Bengaluru in the opening game of the IPL 2026, Sunrisers Hyderabad bounced back against Kolkata Knight Riders. Playing Lucknow Super Giants at home, the side was expected to keep...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/heinrich-klaasen-pinpoints-srh-s-problems-after-two-defeats-in-three-games-in-ipl-2026-2026-04-07-1036623",
+    "time": "2026-04-07T10:07:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will surface in Guwahati play for IPL 2026 play?",
     "desc": "Rajasthan Royals are set to host Mumbai Indians at the Barsapara Cricket Stadium in Guwahati on April 7. With two back-to-back wins, the Riyan Parag-led side will be confident of their chances but playing Mumbai...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/guwahati-weather-forecast-for-rr-vs-mi-ipl-2026-clash-today-will-rain-play-spoilsport-again-2026-04-07-1036567",
     "time": "2026-04-07T04:01:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Mumbai Indians skipper play against Rajasthan Royals in IPL 2026 Match 13?",
-    "desc": "The Mumbai Indians missed their skipper Hardik Pandya in the previous game against the Delhi Capitals. Suryakumar Yadav led in his absence, but their team balance was hampered and the five-time champions had to make...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-injury-update-will-mumbai-indians-skipper-play-against-rajasthan-royals-in-ipl-2026-match-13-2026-04-07-1036550",
-    "time": "2026-04-07T02:11:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Updated points table after KKR vs PBKS IPL 2026 match gets washed out due to rain",
-    "desc": "Kolkata Knight Riders registered their first points on Monday in IPL 2026, albeit without a win, as their clash against Punjab Kings got washed out due to rain at the Eden Gardens in Kolkata. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/updated-points-table-after-kkr-vs-pbks-ipl-2026-match-gets-washed-out-due-to-rain-2026-04-07-1036544",
-    "time": "2026-04-07T01:43:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ajinkya Rahane criticised for opting to bat first in rain-hit KKR-PBKS clash in IPL 2026",
-    "desc": "Former cricketers were taken by surprise as Kolkata Knight Riders captain Ajinkya Rahane opted to bat first against Punjab Kings with rain around. Ex-cricketers Anil Kumble and Saba Karim called out Rahane for his decision...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-criticised-for-opting-to-bat-first-in-rain-hit-kkr-pbks-clash-in-ipl-2026-2026-04-06-1036534",
-    "time": "2026-04-06T18:17:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kolkata weather saves KKR as rain and wet outfield wash out clash against PBKS at Eden Gardens",
-    "desc": "The Kolkata weather saved the Kolkata Knight Riders after they were rocked early in their clash against the Punjab Kings at the Eden Gardens on Monday, April 6. KKR were in big trouble at 25/2...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kolkata-weather-saves-kkr-as-rain-and-wet-outfield-wash-out-clash-against-pbks-at-eden-gardens-2026-04-06-1036531",
-    "time": "2026-04-06T17:37:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is the cut-off time for KKR vs PBKS IPL 2026 clash as rain threatens a washout?",
-    "desc": "The heavens opened up as Kolkata Knight Riders began their batting against Punjab Kings at the Eden Gardens on Monday, April 6. A steady drizzle had already washed out the training sessions of both teams...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-is-the-cut-off-time-for-kkr-vs-pbks-ipl-2026-clash-as-rain-threatens-a-washout-2026-04-06-1036527",
-    "time": "2026-04-06T16:08:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When can Sri Lankan stars join IPL 2026?",
-    "desc": "Matheesha Pathirana and Wanindu Hasaranga are among the foreign players who are yet to join their Indian Premier League franchises. The two players are dealing with injuries and are yet to get the No Objection...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/matheesha-pathirana-and-wanindu-hasaranga-update-when-can-sri-lankan-stars-join-ipl-2026-2026-04-06-1036523",
-    "time": "2026-04-06T15:36:58.000Z"
   }
 ];

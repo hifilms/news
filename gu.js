@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "&amp;#039;આજે રાત્રે એક આખી સભ્યતા ખતમ થઈ જશે&amp;#039;, ટ્રમ્પની ઈરાનને ખુલ્લી ધમકી",
+    "desc": "ઈરાન યુદ્ધમાં મંગળવારનો દિવસ મહત્વપૂર્ણ બનવાનો છે. અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ધમકી આપી હતી કે જો ઈરાન સાથે કોઈ ડીલ નહીં થાય તો અમેરિકા વિનાશ વેરશે. ટ્રમ્પે તાજેતરમાં ઈરાન પર હુમલો કરવાની ધમકી આપી હતી અને હવે તે દિવસ આવી ગયો છે. ત્યારે જોવાનું એ રહેશે કે હવે અમેરિકા શું એક્શન લે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/us-iran-war-donald-trump-starit-of-hormuz-deadlines-end-today-471892 ",
+    "time": "2026-04-07T12:51:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "FASTag નહીં હોય તો થશે મોટું નુકસાન, હવે ટોલ ટેક્સ પર નહીં ચાલે કેશ; આ તારીખથી બદલાઈ રહ્યો છે નિયમ",
+    "desc": "NHAIના એક વરિષ્ઠ અધિકારીએ જણાવ્યું કે, આ પગલાનો મુખ્ય ઉદ્દેશ્ય ટોલ ગેટ પર લાગતી લાંબી લાઈનોને ખતમ કરવાનો છે. FASTag જ ટોલ વસૂલાતનું મુખ્ય માધ્યમ બની રહેશે. જો કોઈ ચાલક FASTagનો ઉપયોગ નથી કરતો અથવા UPI દ્વારા ચૂકવણીનો વિકલ્પ પણ પસંદ નથી કરતો, તો તેની સામે કડક કાર્યવાહી કરવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/if-there-is-no-fastag-there-will-be-a-big-loss-now-cash-will-not-be-accepted-for-toll-tax-the-rule-is-changing-from-this-date-471912 ",
+    "time": "2026-04-07T12:47:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનું 85,000થી પણ થશે વધુ સસ્તું? અમેરિકા-ઈરાન યુદ્ધ છતાં ન વધી કિંમતો, શું ભાવ હજુ પણ ઘટશે?",
+    "desc": "અમેરિકા-ઈરાન યુદ્ધ પછી પણ સોના-ચાંદીના ભાવ વધવાને બદલે સતત ઘટી રહ્યા છે. આખરે કેમ આ વખતે સોના-ચાંદીમાં ઉલટો ટ્રેન્ડ જોવા મળ્યો છે? રોકાણકારોના મનમાં એ જ પ્રશ્ન છે કે, ચાંદી ક્યારે 4 લાખ અને સોનું 1.90 લાખ રૂપિયાને પાર જશે? અથવા સોનું 85,000 રૂપિયા અને ચાંદી 1 લાખ રૂપિયાના સ્તરે આવી જશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-gold-become-cheaper-than-85000-prices-have-not-increased-despite-the-us-iran-war-will-the-price-still-fall-471902 ",
+    "time": "2026-04-07T11:24:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ક્રેડિટ કાર્ડ બિલ ન ભરવા પર પોલીસ તમારી ધરપકડ કરી શકે ? જાણો શું કહે છે કાયદો",
+    "desc": "જો તમે ક્રેડિટ કાર્ડ બિલ ન ભરો તો તમારા ક્રેડિટ સ્કોરને અસર થાય છે ? શું આ માટે પોલીસ તમારી ધરપકડ કરી શકે છે ? આ માટેનો કાયદો શું છે ? આ બધા જ સવાલોના જવાબ અમે તમને આ લેખમાં જણાવીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/can-police-arrest-you-for-not-paying-credit-card-bill-know-the-rules-471884 ",
+    "time": "2026-04-07T10:27:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "₹5.65 ની આ કારને મળ્યા સ્વિફ્ટ, બલેનો, બ્રેઝાથી વધુ ગ્રાહક, વેચાણમાં બની-1; 33 km છે માઇલેજ",
+    "desc": "ભારતીય ગ્રાહકો વચ્ચે મારૂતિ સુઝુકી (Maruti Suzuki) ની કારને ખુબ પસંદ કરવામાં આવે છે. મહત્વનું છે કે મારૂતિ સુઝુકીએ પાછલા મહિને એટલે કે માર્ચ, 2026મા થયેલા પોતાના મોડલ વાઇઝ કાર વેચાણના ડેટાને રિલીઝ કરી દીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/maruti-best-selling-cars-march-2026-dzire-no-1-ertiga-secend-471882 ",
+    "time": "2026-04-07T10:07:00.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "6 બોલમાં 6 વિકેટ લેનાર બોલર, ક્રિકેટના ઈતિહાસનો &amp;#039;અતૂટ&amp;#039; રેકોર્ડ, જાણો કોણે કર્યો આ કરિશ્મા",
     "desc": "ક્રિકેટના ઈતિહાસમાં એવા રેકોર્ડ બન્યા છે, જેણે બધાને ચોંકાવી દીધા છે. કોઈ ખેલાડીએ 100 સદી ફટકારી છે, તો કોઈએ ટેસ્ટમાં 800 વિકેટ મેળવી છે. શું તમે તે ખેલાડી વિશે જાણો છો જેણે એક ઓવરમાં સૌથી વધુ વિકેટ લીધી છે?",
@@ -279,15 +324,6 @@ const newsData_gu = [
     "time": "2026-04-05T17:41:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "નોકરીયાત વર્ગ માટે ખુશખબર! રજાઓ વેસ્ટ નહીં જાય, હવે મળશે રૂપિયા! જાણો નવા લેબર કોડનો મોટો ફાયદો",
-    "desc": "નવા લેબર કોડ 2025માં કર્મચારીઓને મોટો ફાયદો મળ્યો છે. હવે માત્ર 180 દિવસ કામ કર્યા પછી જ 'અર્ન્ડ લીવ' (Earned Leave)નો હક મળી જશે. સાથે જ અનસેન્ડ રજાઓને વર્ષના અંતે રોકડમાં બદલી શકાશે, જેનાથી કર્મચારીઓને આર્થિક લાભ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/good-news-for-the-employed-class-holidays-will-not-go-to-waste-now-you-will-get-money-know-the-big-benefit-of-the-new-labor-code-471654 ",
-    "time": "2026-04-05T16:45:30.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "₹6.25 લાખની આ 5 સ્ટાર સેફ્ટી કારે માર્કેટમાં મચાવી ધૂમ, બની નંબર 1 વેચાતી કાર, 33ની છે એવરેજ",
     "desc": "આ ગાડીએ 5 સ્ટાર રેટિંગ મેળવીને કમાલ કરી છે, ગાડીના પેટ્રોલ વર્ઝનમાં 25 અને CNG વર્ઝનમાં 33ની માઈલેજ આપે છે, તેવો કંપની દાવો કરે છે. કંપનીની ગાડીએ માર્ચમાં દરેકને પાછળ છોડી પહેલો નંબર મેળવ્યો છે. SUVની ડિમાંડની વચ્ચે આ સેડાન ગાડીએ કમાલ કરી બતાવ્યો છે.",
@@ -322,15 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/explainers-can-aap-remove-raghav-chadha-from-rajya-sabha-know-the-rule-of-the-constitution-471588 ",
     "time": "2026-04-05T09:34:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ગ્રોસ સેલેરીમાં 3 ગણો વધારો! ₹16,560 વધી શકે છે બેઝિક, ફિટમેન્ટ, HRA, TA થી બદલાશે ગણતરી",
-    "desc": "કેન્દ્રીય કર્મચારીઓ આઠમાં પગાર પંચની પ્રતીક્ષા કરી રહ્યાં છે. કર્મચારીઓ વચ્ચે માત્ર એક જ ચર્ચા છે કે તેના પગારમાં કેટલો વધારો થશે. ફિટમેન્ટ ફેક્ટર કેટલું રહેશે. તો આજે અમે તમને 18000 બેઝિક પગાર હોય તેના પગારમાં કેટલો વધારો થઈ શકે છે, તે ગણતરી દ્વારા સમજાવીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-gross-salary-3x-hike-fitment-hra-ta-calculation-18000-basic-471563 ",
-    "time": "2026-04-05T07:49:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -549,15 +576,6 @@ const newsData_gu = [
     "time": "2026-04-04T06:06:19.000Z"
   },
   {
-    "cat": "World",
-    "title": "દુનિયાને માથે ગંભીર એનર્જી સંકટ તોળાઈ રહ્યું છે! ઈન્ટેલિજન્સ રિપોર્ટમાં હોર્મુઝ પર ચોંકાવનારો ખુલાસો",
-    "desc": "યુદ્ધમાં ભલે ઈઝરાયેલ અને અમેરિકા ભેગા થઈને ઈરાનને હચમચાવી રહ્યા હોય પરંતુ સ્ટ્રેટ ઓફ હોર્મુઝ દ્વારા ઈરાને માત્ર આ બે દેશોને નહીં પરંતુ વિશ્વના અનેક દેશો માટે સમસ્યાઓ ઊભી કરી છે. એક રિપોર્ટમાં એવો ચોંકાવનારો ખુલાસો થયો છે કે ટ્રમ્પ ભલે દાવા કરતા હોય પરંતુ આ હોર્મુઝ જળમાર્ગ ખોલાવવો એ કોઈ બચ્ચાના ખેલ નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-israel-us-war-update-shocking-revelation-in-us-intelligence-report-on-strait-of-hormuz-471430 ",
-    "time": "2026-04-04T03:30:24.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "માત્ર સમોસા જ નહીં, આ કારણે AAPમાંથી દૂર ફેકાઈ ગયા છે રાઘવ ચઢ્ઢા! જાણો અંદરની વાત",
     "desc": "આમ આદમી પાર્ટી (AAP) અને અરવિંદ કેજરીવાલના ક્યારેક અત્યંત નજીકના ગણાતા રાજ્યસભા સાંસદ રાઘવ ચઢ્ઢા વચ્ચેનો અણબનાવ હવે ખુલ્લેઆમ સામે આવ્યો છે. 'આપ' દ્વારા ચઢ્ઢા પર રાજ્યસભામાં મહત્વના મુદ્દાઓ ન ઉઠાવવાનો આરોપ લગાવીને તેમને ડેપ્યુટી લીડરના પદેથી હટાવી દેવામાં આવ્યા છે. તેમની જગ્યાએ પંજાબના સાંસદ અશોક મિત્તલની નિમણૂક કરવામાં આવી છે.",
@@ -565,15 +583,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/not-just-samosa-this-is-why-raghav-chadha-has-been-thrown-out-of-aap-know-the-inside-story-471412 ",
     "time": "2026-04-03T16:59:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અભિષેક નહીં આ યુવા બેટ્સમેનને પોતાના કરતા સારો માને છે યુવરાજ સિંહ, 35 બોલમાં સદી ફટકારીને મચાવી હતી ધૂમ",
-    "desc": "ભૂતપૂર્વ ભારતીય ક્રિકેટ દિગ્ગજ યુવરાજ સિંહે યુવા સેન્સેશન વૈભવ સૂર્યવંશી વિશે એક મહત્વપૂર્ણ નિવેદન આપ્યું છે, જેમણે IPL 2026માં 15 બોલમાં અડધી સદી ફટકારીને શાનદાર શરૂઆત કરી હતી. યુવરાજ સિંહ માને છે કે વૈભવની બેટની ગતિ તેના કરતા પણ વધુ ઝડપી છે. રાજસ્થાન રોયલ્સના આ ઓપનર IPLમાં સૌથી ઝડપી સદી ફટકારનાર ભારતીય બેટ્સમેનનો રેકોર્ડ ધરાવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/yuvraj-singh-considers-this-young-batsman-better-than-him-not-abhishek-created-a-sensation-by-scoring-a-century-in-35-balls-471388 ",
-    "time": "2026-04-03T14:02:52.000Z"
   },
   {
     "cat": "Entertainment",
@@ -619,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/27th-floor-of-antilia-secret-of-the-why-is-no-one-allowed-mukesh-ambani-nita-ambani-471314 ",
     "time": "2026-04-03T05:45:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ગ્રેચ્યુઈટીના નિયમમાં ધરખમ ફેરફાર, કર્મચારીઓએ જાણવું જરૂરી, જાણો તમને ફાયદો કે નુકસાન?",
-    "desc": "નવા લેબર કોડના લાગૂ થયા બાદ ગ્રેચ્યુઈટીના નિયમમાં પણ ફેરફાર થયો છે. જે કર્મચારીઓએ જાણવું ખુબ જરૂરી છે. જાણો ગ્રેચ્યુઈટીના નિયમમાં શું ફેરફાર થયો? આ ઉપરાંત નોટિસ પીરિયડ સંલગ્ન જે મૂંઝવણ હતી તેના વિશે પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/drastic-change-in-gratuity-rules-employees-should-know-check-details-471308 ",
-    "time": "2026-04-03T05:43:44.000Z"
   },
   {
     "cat": "Entertainment",
