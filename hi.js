@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Updated points table after KKR vs PBKS IPL 2026 match gets washed out due to rain",
+    "desc": "Kolkata Knight Riders registered their first points on Monday in IPL 2026, albeit without a win, as their clash against Punjab Kings got washed out due to rain at the Eden Gardens in Kolkata. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/updated-points-table-after-kkr-vs-pbks-ipl-2026-match-gets-washed-out-due-to-rain-2026-04-07-1036544",
+    "time": "2026-04-07T01:43:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ajinkya Rahane criticised for opting to bat first in rain-hit KKR-PBKS clash in IPL 2026",
     "desc": "Former cricketers were taken by surprise as Kolkata Knight Riders captain Ajinkya Rahane opted to bat first against Punjab Kings with rain around. Ex-cricketers Anil Kumble and Saba Karim called out Rahane for his decision...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-fitness-update-is-mumbai-indians-skipper-in-line-to-play-rr-vs-mi-ipl-2026-clash-2026-04-06-1036507",
     "time": "2026-04-06T12:07:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface in Kolkata play for IPL 2026 play?",
-    "desc": "Game 12 of the ongoing IPL (Indian Premier League) 2026 sees Kolkata Knight Riders taking on Punjab Kings. The two sides lock horns at the Eden Gardens in Kolkata on April 6, and while KKR...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-pbks-pitch-report-how-will-surface-in-kolkata-play-for-ipl-2026-play-2026-04-06-1036505",
-    "time": "2026-04-06T11:32:24.000Z"
   }
 ];

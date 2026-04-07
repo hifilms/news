@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "the influence of film personalities on the masses",
+    "desc": "Jayakanthan’s novella, “Cinemavukku Pona Chitthalu,” explores the impact of film culture on identity and social dynamics through the story of Kamsalai, a devoted admirer of Tamil cinema icon M.G. Ramachandran (MGR). Set in Chennai, the narrative captures a time when MGR’s influence shaped Tamil Nadu’s political landscape.",
+    "img": "https://th-i.thgim.com/public/news/national/wabe67/article70831799.ece/alternates/LANDSCAPE_1200/cartoon.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/theblurredline-between-reality-and-illusion-the-influence-of-film-personalities-on-the-masses/article70830894.ece",
+    "time": "2026-04-07T01:48:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lady Gaga ‘heartbroken’ after abruptly cancelling concert",
+    "desc": "Lady Gaga was forced to cancel her final Montreal concert on April 6 due to a worsening respiratory infection. The singer expressed deep disappointment, citing doctor's orders and her inability to deliver a quality performance. This cancellation impacts the remaining dates of her 'Mayhem Ball Tour', which has already seen some adjustments.",
+    "img": "https://static.toiimg.com/photo/msid-130073710,imgsize-159588.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lady-gaga-heartbroken-after-abrupt-concert-cancellation-on-doctors-strongly-advised-orders-amid-health-scare/articleshow/130073694.cms",
+    "time": "2026-04-07T01:37:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Michael Trevino welcomes first baby with Bregje Heinen",
+    "desc": "In a beautiful new chapter of their lives, American actor Michael Trevino and Dutch model Bregje Heinen have embraced parenthood with the arrival of their son, Jack Wild Trevino. The happy couple, who exchanged vows just last year, shared the sweet moment online, posting a tender snapshot of their hands cradling their little one.",
+    "img": "https://static.toiimg.com/photo/msid-130073644,imgsize-122556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-vampire-diaries-michael-trevino-and-bregje-heinen-welcome-first-baby-after-1-year-of-marriage/articleshow/130073644.cms",
+    "time": "2026-04-07T01:30:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I cannot understand this call’: Kumble, Ashwin slam Rahane’s shocking decision",
+    "desc": "Kolkata Knight Riders captain Ajinkya Rahane faced widespread criticism for batting first against Punjab Kings despite rain forecasts and a weakened bowling attack. Former cricketers like Anil Kumble and Saba Karim questioned the surprising decision. The match was eventually abandoned due to rain, with KKR struggling at 25/2, leaving both teams to share points.",
+    "img": "https://static.toiimg.com/photo/msid-130073603,imgsize-144134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/i-cannot-understand-this-call-anil-kumble-ravichandran-ashwin-slam-ajinkya-rahanes-shocking-decision/articleshow/130073542.cms",
+    "time": "2026-04-07T01:24:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman dubs for 'Maatrubhumi'; shows off fit new look for next",
+    "desc": "Salman Khan was spotted at a recording studio, reportedly dubbing for his upcoming war drama 'Maatrubhumi'. The actor showcased a noticeably leaner and fitter physique, impressing fans. This late-night session fuels speculation about promotional material and a potential trailer release soon. Khan is also gearing up for another action drama, set to commence shooting in April.",
+    "img": "https://static.toiimg.com/photo/msid-130073566,imgsize-106454.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-shows-off-lean-and-fit-new-look-as-he-heads-to-the-recording-studio-for-maatrubhumi-gears-up-for-next-shoot-with-nayanthara-pics/articleshow/130073057.cms",
+    "time": "2026-04-07T01:08:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajnath lays foundation stones for 3 new centres at R&amp;R, new infra at Base Hospital",
+    "desc": "Defence Minister Rajnath Singh inaugurated new medical facilities at Army Hospital (Research & Referral) and Base Hospital, Delhi Cantonment. These state-of-the-art centers will enhance tertiary care for the Armed Forces Medical Services, focusing on ophthalmology, oncology, and joint replacements. Singh emphasized the critical role of health security in national defense and military operations.",
+    "img": "https://static.toiimg.com/photo/msid-130073534,imgsize-1431843.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rajnath-lays-foundation-stones-for-3-new-centres-at-rr-new-infra-at-base-hospital/articleshow/130073537.cms",
+    "time": "2026-04-07T01:02:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Never ever seen anything like this’: Virat Kohli left stunned by Dhurandhar 2",
+    "desc": "Cricket star Virat Kohli lauded the recently released film Dhurandhar 2 as an unparalleled Indian cinematic experience, praising director Aditya Dhar and lead Ranveer Singh's brilliant performance. The blockbuster has achieved immense success, grossing over ₹1622 crore worldwide. Actor Anushka Sharma also commended the film's gripping storytelling and meticulous craftsmanship.",
+    "img": "https://static.toiimg.com/photo/msid-130073525,imgsize-1367726.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/never-ever-seen-anything-like-this-virat-kohli-left-stunned-by-dhurandhar-2/articleshow/130073477.cms",
+    "time": "2026-04-07T00:56:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka's pool day: From savoring Kachi kairi to video chats",
+    "desc": "On a tranquil Sunday, Priyanka Chopra indulged in some well-deserved downtime by the poolside, lounging in style with her favorite robe, soaking up the sun, and savoring fresh raw mango. Her Instagram post was a delightful blend of family love, featuring tender moments with her daughter, Malti Marie, and husband, Nick Jonas. Read the full article to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130073417,imgsize-194278.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-varanasi-actress-priyanka-chopras-chill-pool-day-from-savoring-kachi-kairi-to-video-chats-with-nick-jonas-and-malti-marie/articleshow/130073417.cms",
+    "time": "2026-04-07T00:50:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dhurandhar 2’ box office day 19: Film eyes Rs 1,630 cr worldwide",
+    "desc": "Ranveer Singh's 'Dhurandhar 2' is nearing the Rs 1,630 crore worldwide box office mark, despite a significant drop on its 19th day. The film, which crossed Rs 1,000 crore domestically, collected Rs 10 crore on Monday, April 6, 2026, bringing its total to Rs 1,023.77 crore in India and Rs 1,622.72 crore globally.",
+    "img": "https://static.toiimg.com/photo/msid-130073455,imgsize-27980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-19-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-sara-arjuns-film-inches-close-to-rs-1630-cr-mark-worldwide/articleshow/130073458.cms",
+    "time": "2026-04-07T00:48:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shocking! Umpire stabbed to death over run-out decision in local cricket match",
+    "desc": "A local cricket umpire, Dola Ajith Babu, was tragically stabbed to death in Visakhapatnam following a dispute over a run-out decision. The incident escalated when a spectator, allegedly under the influence of alcohol, attacked Babu and another umpire after an earlier argument was settled. Babu succumbed to his injuries despite efforts to save him.",
+    "img": "https://static.toiimg.com/photo/msid-130063597,imgsize-17434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shocking-umpire-stabbed-to-death-over-run-out-decision-in-local-cricket-match/articleshow/130063325.cms",
+    "time": "2026-04-06T23:41:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir takes break from ‘Ramayana 2’ for family getaway",
+    "desc": "Part 2' to travel with wife Alia Bhatt and daughter Raha. The family was seen at Mumbai airport, with Alia protectively shielding Raha from cameras. Ranbir, who is also working on 'Love and War', shared the personal significance of portraying Lord Ram while becoming a father.",
+    "img": "https://static.toiimg.com/photo/msid-130072968,imgsize-113532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-takes-a-break-from-ramayana-part-2-for-family-time-with-alia-bhatt-and-daughter-raha-kapoor/articleshow/130071859.cms",
+    "time": "2026-04-06T22:49:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Back efforts to stop war",
+    "desc": "India's External Affairs Minister S Jaishankar discussed West Asia's stability with his Iranian counterpart, emphasizing support for regional peace efforts. Conversations with Qatar and the UAE also touched upon military escalation and its security implications. Iran highlighted alleged \"heinous crimes\" by \"aggressors,\" while Qatar urged an end to \"unjustified Iranian attacks\" and stressed de-escalation.",
+    "img": "https://static.toiimg.com/photo/msid-130072991,imgsize-646572.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jaishankar-to-iran-counterpart-back-efforts-to-stop-war/articleshow/130072982.cms",
+    "time": "2026-04-06T22:37:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Japanese tourist molested near Jaipur's Jaigarh Fort, FIR lodged but no arrests yet",
+    "desc": "Five youths are accused of sexually harassing a Japanese tourist near Jaigarh Fort in Jaipur. The group allegedly pushed the woman, held her, and attempted to kiss her before fleeing when she raised the alarm and a security guard approached. An FIR has been registered, but no arrests have been made.",
+    "img": "https://static.toiimg.com/photo/msid-130072958,imgsize-352681.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/japanese-tourist-molested-near-jaipurs-jaigarh-fort-fir-lodged-but-no-arrests-yet/articleshow/130072948.cms",
+    "time": "2026-04-06T22:26:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bihar BJP president Sanjay Saraogi hints party will get the top post soon",
+    "desc": "Nitish Kumar is likely to take oath as a member of the Rajya Sabha on April 10 and would subsequently step down as Chief Minister on April 12, with a new Chief Minister from the BJP quota possibly taking oath on April 14",
+    "img": "https://th-i.thgim.com/public/incoming/pumszj/article70831867.ece/alternates/LANDSCAPE_1200/20260406140L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-bjp-president-sanjay-saraogi-hints-party-will-get-the-top-post-soon/article70830436.ece",
+    "time": "2026-04-06T22:08:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Somy Ali felt no guilt ‘breaking’ Salman-Sangeeta’s relationship",
+    "desc": "Somy Ali recently opened up about her past relationship with Salman Khan, admitting to her mistakes while also questioning why women alone are blamed in such situations. She also revisited the moment when Sangeeta Bijlani allegedly gave Salman an ultimatum after finding them together.",
+    "img": "https://static.toiimg.com/photo/msid-130071221,imgsize-74824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/somy-ali-says-she-felt-no-guilt-back-then-breaking-salman-khan-and-sangeeta-bijlanis-relationship-kitni-ladkiyan-hongi-jo-/articleshow/130071221.cms",
+    "time": "2026-04-06T22:01:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lewis and Kim make romance Instagram OFFICIAL",
+    "desc": "Formula 1 champion Lewis Hamilton has seemingly confirmed his romance with reality TV star Kim Kardashian in a 'Tokyo drift' video. The couple, reportedly dating since late last year, were seen enjoying a race together in Japan, marking their first public acknowledgment. They've been spotted on various global dates, including in London, Paris, and during the Super Bowl.",
+    "img": "https://static.toiimg.com/photo/msid-130070905,imgsize-64940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lewis-hamilton-makes-kim-kardashian-romance-instagram-official-with-in-tokyo-drift-post-watch/articleshow/130070798.cms",
+    "time": "2026-04-06T21:53:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Claims of 27L Bengal voters in doubtful list rejected, can't vote",
+    "desc": "Nearly 27 lakh voters in West Bengal face exclusion from the electoral roll as their claims were rejected by judicial officers. The Supreme Court has ruled against the inclusion of names pending appeals, citing the burden on tribunals and potential chaos. Deletions now stand at 88.8 lakh, impacting 11.6% of the electorate.",
+    "img": "https://static.toiimg.com/photo/msid-130072924,imgsize-1698709.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/claims-of-27l-bengal-voters-in-doubtful-list-rejected-cant-vote/articleshow/130071207.cms",
+    "time": "2026-04-06T21:50:57.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Aditya Dhar reacts to Virat, Anushka’s reviews for Dhurandhar 2",
     "desc": "The Revenge by power couple Virat Kohli and Anushka Sharma, calling their words “overwhelming” and deeply motivating. Earlier, Virat Kohli had described Dhurandhar: The Revenge as an unmatched cinematic experience, saying he “didn’t flinch once” during its nearly four-hour runtime, while singling out Ranveer Singh’s performance as “beyond brilliant”.",
@@ -19,15 +172,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Bihar BJP president Sanjay Saraogi hints party will get the top post soon",
-    "desc": "Nitish Kumar is likely to take oath as a member of the Rajya Sabha on April 10 and would subsequently step down as Chief Minister on April 12, with a new Chief Minister from the BJP quota possibly taking oath on April 14",
-    "img": "https://th-i.thgim.com/public/incoming/pumszj/article70831867.ece/alternates/LANDSCAPE_1200/20260406140L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/bihar-bjp-president-sanjay-saraogi-hints-party-will-get-the-top-post-soon/article70830436.ece",
-    "time": "2026-04-06T20:55:59.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "It may not be an overwhelming win, but Congress is clearly ahead in Kerala: Shashi Tharoor",
     "desc": "This election is a straight fight between LDF and UDF, says Congress leader and Thiruvananthapuram MP; BJP is a zero-seat party in Kerala Assembly and even if they get one or two or at most three seats — none of which is by any means certain — they cannot be relevant in govt. formation, he adds",
     "img": "https://th-i.thgim.com/public/incoming/wsnj24/article70831632.ece/alternates/LANDSCAPE_1200/Shashi_Anandan.jpg",
@@ -43,6 +187,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/three-educationists-rapped-by-sc-over-ncert-chapter-seek-hearing/article70829922.ece",
     "time": "2026-04-06T20:37:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "‘New’ Bangladesh-India ties will avoid ‘mistakes of the past’: Foreign Affairs Adviser Humayun Kobir",
+    "desc": "The Foreign Affairs Adviser to Bangladesh Prime Minister Tarique Rahman says the two sides should do more frequent exchanges at the level of political parties and officials to deal with ‘difficult issues’ so that misunderstandings are avoided.",
+    "img": "https://th-i.thgim.com/public/news/national/bt7z6p/article70831752.ece/alternates/LANDSCAPE_1200/BD.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/new-bangladesh-india-ties-will-avoid-mistakes-of-the-past-foreign-affairs-adviser-humayun-kobir/article70831316.ece",
+    "time": "2026-04-06T20:36:34.000Z"
   },
   {
     "cat": "Politics",
@@ -144,15 +297,6 @@ const newsData_en = [
     "time": "2026-04-06T18:05:50.000Z"
   },
   {
-    "cat": "World",
-    "title": "‘New’ Bangladesh-India ties will avoid ‘mistakes of the past’: Foreign Affairs Adviser Humayun Kobir",
-    "desc": "The Foreign Affairs Adviser to Bangladesh Prime Minister Tarique Rahman says the two sides should do more frequent exchanges at the level of political parties and officials to deal with ‘difficult issues’ so that misunderstandings are avoided.",
-    "img": "https://th-i.thgim.com/public/news/national/bt7z6p/article70831752.ece/alternates/LANDSCAPE_1200/BD.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/new-bangladesh-india-ties-will-avoid-mistakes-of-the-past-foreign-affairs-adviser-humayun-kobir/article70831316.ece",
-    "time": "2026-04-06T17:59:49.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "‘Government’s semiconductor mission will promote research’: MeitY Additional Secretary",
     "desc": "Though India accounts for nearly 20% of the world’s semiconductor design engineers, it doesn’t have its own design firms, says Amitesh Kumar Sinha, Additional Secretary, Electronics and IT Ministry, at the The Hindu Deep Tech Summit; the India Semiconductor Mission 2.0 will expand beyond the first phase to include research and development, equipment manufacturing and skilling, he adds",
@@ -196,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/bit-of-a-shocker-ajinkya-rahane-slammed-for-batting-first-in-rain-hit-clash-vs-punjab-kings/articleshow/130066530.cms",
     "time": "2026-04-06T16:50:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu CM, Congress in tacit understanding with BJP, says Mamata",
-    "desc": "In Kerala, Congress leader Rahul Gandhi launches a scathing attack on PM Modi and Kerala CM Pinarayi Vijayan, calling them “arrogant” and alleging that they have a “king” mindset over people rather than working with them",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-puducherry-assam-live-updates-april-6-2026/article70828680.ece",
-    "time": "2026-04-06T16:47:06.000Z"
   },
   {
     "cat": "World",
@@ -333,33 +468,6 @@ const newsData_en = [
     "time": "2026-04-06T14:23:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Akshay returned cheque to Ektaa Kapoor after a film flopped, Tabu reacts",
-    "desc": "At the trailer launch of 'Bhooth Bangla', producer Ektaa Kapoor revealed Akshay Kumar's remarkable gesture of returning his fee after a past film's box office failure. This unprecedented act of integrity, occurring in her 31-year career, left Kapoor stunned. The anecdote highlighted Akshay's professionalism and generosity within the industry.",
-    "img": "https://static.toiimg.com/photo/msid-130063185,imgsize-41904.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-returned-cheque-to-ektaa-kapoor-after-a-film-flopped-leaving-her-shocked-tabu-asks-her-for-profit-from-crew/articleshow/130063172.cms",
-    "time": "2026-04-06T13:58:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Paresh makes bold claim on Priyadarshan-Akshay's horror comedy",
-    "desc": "Paresh Rawal says Priyadarshan's 'Bhooth Bangla' (starring Akshay Kumar) tops Bhool Bhulaiyaa with deeper emotions, shot at Chomu Palace. Loves reuniting with \"Priyan ji.\" Features Tabu, Wamiqa Gabbi, Rajpal Yadav. Balaji production releases April 17.",
-    "img": "https://static.toiimg.com/photo/msid-130062788,imgsize-34514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhooth-bangla-is-better-than-bhool-bhulaiyaa-paresh-rawal-makes-bold-claim-on-priyadarshan-akshay-kumar-horror-comedy-amid-trailer-launch/articleshow/130062788.cms",
-    "time": "2026-04-06T13:42:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Punjab Police foil terror plot, arrest three linked to ISI-backed module",
-    "desc": "Punjab Police have dismantled an ISI-backed terror module planning grenade attacks on police establishments across multiple states. Three individuals were apprehended with two hand grenades and a pistol, bearing markings from Pakistan Ordnance Factory. Investigations revealed the operatives were in contact with Pakistan Intelligence Operatives via social media, acting on ISI handlers' directives.",
-    "img": "https://static.toiimg.com/photo/msid-130062426,imgsize-594142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-police-foil-terror-plot-arrest-three-linked-to-isi-backed-module/articleshow/130062183.cms",
-    "time": "2026-04-06T13:24:39.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Supreme Court does not interfere with order allowing Adani to acquire JAL, asks NCLAT to decide promptly",
     "desc": "The top court asked the NCLAT to decide the plea and the counter petition expeditiously by hearing them on an “out of turn basis” on the dispute over the acquisition of JAL by the Adani group",
@@ -376,42 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/will-hardik-pandya-play-in-mi-vs-rr-coach-reveals-allrounders-injury-status/articleshow/130061815.cms",
     "time": "2026-04-06T13:02:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Danish reveals how Dhurandhar changed his life",
-    "desc": "Danish Pandor, acclaimed as Uzair Baloch in Dhurandhar, reveals how the spy thriller changed his life. Fans adore him now. \"Bahut tabdiliyat hui hai,\" he told Just Too Filmy. Aditya Dhar made him read the gripping 175-page script on-site. Heartfelt thanks followed. Ranveer Singh leads the star-studded cast.",
-    "img": "https://static.toiimg.com/photo/msid-130061754,imgsize-42608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bahut-tabdiliyat-hui-hai-danish-pandor-reveals-how-dhurandhar-changed-his-life-after-playing-uzair-baloch-in-aditya-dhars-directorial/articleshow/130061754.cms",
-    "time": "2026-04-06T12:52:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court asks Bengal's top bureaucrat to apologise over siege of SIR officers in Malda",
-    "desc": "Taking strong exception to the attack on judicial officers adjudicating objections to voter list exclusions in West Bengal’s Malda district, the Supreme Court on Thursday said there was a breakdown of law and order in the state and issued show-cause notices to the chief secretary, DGP, district magistrate and SP, asking why action should not be taken against them.",
-    "img": "https://static.toiimg.com/photo/msid-130061619,imgsize-146674.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-asks-bengals-top-bureaucrat-to-apologise-over-siege-of-sir-officers-in-malda/articleshow/130061354.cms",
-    "time": "2026-04-06T12:46:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Remo gears up for next dance film; Is ABCD 3 in making?",
-    "desc": "Remo D'Souza launched dance films with 2013's ABCD (Rs. 5.5 cr open), followed by hit ABCD 2. Now crafting ABCD 3 with fresh Gen Z vision, producer Amit Chandra—reviving original characters after Be Happy (2025).",
-    "img": "https://static.toiimg.com/photo/msid-130061641,imgsize-36280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/remo-dsouza-gears-up-for-next-dance-film-is-abcd-3-in-making/articleshow/130061641.cms",
-    "time": "2026-04-06T12:45:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "US citizen, 6 Ukrainians sent to 30-day judicial custody",
-    "desc": "Seven foreign nationals, including six Ukrainians and one US citizen, were remanded to 30 days' judicial custody in Delhi for alleged terror links. The NIA claims they supplied weapons and training to Indian insurgent groups, with connections to Myanmar's ethnic armed factions. Investigations are ongoing into their motives and activities.",
-    "img": "https://static.toiimg.com/photo/msid-130061507,imgsize-116958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/uapa-terror-case-us-citizen-6-ukrainians-sent-to-30-day-judicial-custody/articleshow/130061297.cms",
-    "time": "2026-04-06T12:43:19.000Z"
   },
   {
     "cat": "Sports",
@@ -432,15 +504,6 @@ const newsData_en = [
     "time": "2026-04-06T12:40:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Propaganda naam ka kabutar pakad liya hai,' Ravi Kishan defends Dhurandhar 2",
-    "desc": "The Revenge' has achieved a historic Rs 1000 crore at the box office, becoming the first Bollywood film to do so. Actor Ravi Kishan strongly defended the film against 'propaganda' labels, highlighting its role in reviving the industry and presenting real incidents cinematically.",
-    "img": "https://static.toiimg.com/photo/msid-130061165,imgsize-54860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/propaganda-naam-ka-kaburar-pakad-liya-hai-ravi-kishan-defends-ranveer-singhs-dhurandhar-2-reveals-what-worked-for-the-film/articleshow/130061074.cms",
-    "time": "2026-04-06T12:33:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Harshit Rana shows up for KKR ... but there's a big twist",
     "desc": "Kolkata Knight Riders' pacer Harshit Rana, sidelined for IPL 2026 due to knee surgery, is supporting his team from the stands. The young bowler, who also missed the T20 World Cup, was recently honored with a debutant award. KKR faces Punjab Kings amidst rain concerns and a search for their first win.",
@@ -450,15 +513,6 @@ const newsData_en = [
     "time": "2026-04-06T12:32:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Laughable questions': Assam CM Himanta Sarma’s wife slams Gaurav Gogoi over passport row; questions his wife",
-    "desc": "Assam CM's wife, Riniki Bhuyan Sharma, vehemently denied Congress claims of holding foreign passports and undisclosed overseas assets. She challenged Assam Congress leader Gaurav Gogoi to disclose his wife's bank account details in Pakistan. Chief Minister Himanta Biswa Sarma accused the Congress of using fake, Pakistan-sourced documents and stated an FIR was filed.",
-    "img": "https://static.toiimg.com/photo/msid-130061101,imgsize-941264.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/laughable-questions-assam-cm-himanta-sarmas-wife-slams-gaurav-gogoi-over-passport-row-questions-his-wife/articleshow/130061020.cms",
-    "time": "2026-04-06T12:30:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India look to surmount injuries in yet another playoff push",
     "desc": "India's Billie Jean King Cup campaign faced setbacks with Shrivalli Bhamidipaty's back spasm and Vaidehee Chaudhari's ankle injury. Zeel Desai has joined the squad as cover, bringing depth to the team led by India No. 1 Vaishnavi Adkar. The team aims to qualify for the playoffs in this round-robin format.",
@@ -466,24 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/bjk-cup-india-look-to-surmount-injuries-in-yet-another-playoff-push/articleshow/130060556.cms",
     "time": "2026-04-06T12:25:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' filmmaker Aditya praised editor Shivkumar Panicker",
-    "desc": "Director Aditya Dhar has lauded editor Shivakumar Panicker for his work on 'Dhurandhar' and 'Dhurandhar 2'. Dhar highlighted Panicker's trust, instinct, and dedication. He described Panicker as a sharp editor who breathes life into films. Panicker's ability to deliver excellence under extreme pressure for 'Dhurandhar' was extraordinary. His involvement from the beginning was crucial to the film's success.",
-    "img": "https://static.toiimg.com/photo/msid-130060755,imgsize-39324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-filmmaker-aditya-dhar-praised-editor-shivkumar-panicker-says-he-never-once-chose-convenience-over-conviction/articleshow/130060757.cms",
-    "time": "2026-04-06T12:15:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Janhvi Kapoor recalls Sridevi being called a home-wrecker, it played on her mind",
-    "desc": "Janhvi Kapoor opens up about the profound impact of losing her mother, Sridevi, and how she understands her better now. She reflects on the trauma of her mother's public passing and the subsequent shift in her family's dynamic, admitting to making poor decisions due to her newfound independence.",
-    "img": "https://static.toiimg.com/photo/msid-130060641,imgsize-56380.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoor-recalls-sridevi-being-called-a-home-wrecker-people-were-not-kind-to-her-it-played-on-her-mind/articleshow/130060536.cms",
-    "time": "2026-04-06T12:10:06.000Z"
   },
   {
     "cat": "Business",
@@ -513,24 +549,6 @@ const newsData_en = [
     "time": "2026-04-06T11:32:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Suspect caught on cam; 3 detained, car seized",
-    "desc": "A Tata Sierra car with UP registration breached the Delhi Assembly's Gate No. 2 on Monday, with an occupant placing a bouquet before driving off. Delhi Police have arrested the accused and seized the vehicle. Security was in place at the VIP gate, and no suspicious objects were found.",
-    "img": "https://static.toiimg.com/photo/msid-130060202,imgsize-1342131.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-assembly-security-scare-police-nab-suspect-seize-car-no-bomb-like-object-found/articleshow/130059318.cms",
-    "time": "2026-04-06T11:19:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Divya Dutta on intense love like Rekha's admiration for Bachchan",
-    "desc": "Divya Dutta recently spoke about intense love on a podcast. She addressed the idea of deep emotional connection, even when a relationship has no future. Dutta believes it is often best to let go of such situations. She quoted Sahir Ludhianvi, suggesting that some stories should be given a beautiful turn and then left behind.",
-    "img": "https://static.toiimg.com/photo/msid-130058489,imgsize-68394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/divya-dutta-opens-up-on-intense-love-like-rekhas-admiration-for-amitabh-bachchan-and-letting-go-woh-afsaana-jise-anjaam-/articleshow/130058294.cms",
-    "time": "2026-04-06T10:47:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘I lost my career’ because of IPL, claims former RCB and England star",
     "desc": "Kevin Pietersen claims his international career was cut short due to his insistence on playing in the Indian Premier League, a decision that clashed with the England and Wales Cricket Board's stance. He believes his sacrifices paved the way for current English players to participate in lucrative franchise leagues, despite a public fallout with the board.",
@@ -538,33 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/i-lost-my-career-because-of-ipl-claims-former-rcb-and-england-star/articleshow/130057880.cms",
     "time": "2026-04-06T10:42:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Big B on 'Aankhen' days: 'Arjun Rampal, Akshay Kumar had blast but...'",
-    "desc": "Commemorating 24 years of 'Aankhen', Amitabh Bachchan revels in memories of the production's joyous energy and his audacious portrayal of a cunning bank manager. He delves into the significance of morally intricate roles in his career, recalling performances from 'Saudagar', 'Parwana', and the layered character of 'Kabhi Khushi Kabhie Gham', emphasizing his commitment to acting with empathy and depth.",
-    "img": "https://static.toiimg.com/photo/msid-130057758,imgsize-69338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-on-aankhen-days-arjun-rampal-akshay-kumar-had-blast-but-insisted-on-treating-me-like-an-elder/articleshow/130057758.cms",
-    "time": "2026-04-06T10:24:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'I will argue myself', Kejriwal tells Delhi HC in recusal plea; next hearing on April 13",
-    "desc": "Delhi High Court heard the CBI's challenge to Arvind Kejriwal's discharge in the excise policy case. Kejriwal, present with his wife, declared his intent to argue his recusal application personally, asserting his legal rights. Solicitor General Tushar Mehta objected, citing procedural rules. The court issued notice on Kejriwal's recusal plea.",
-    "img": "https://static.toiimg.com/photo/msid-130057336,imgsize-941959.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/excise-policy-scam-case-i-will-argue-myself-kejriwal-tells-delhi-hc-in-recusal-plea-next-hearing-on-april-13/articleshow/130057329.cms",
-    "time": "2026-04-06T09:55:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Samson, Bumrah in ICC Player of the Month race after T20 World Cup heroics",
-    "desc": "India's T20 World Cup triumph sees Sanju Samson and Jasprit Bumrah nominated for ICC Player of the Month. Samson's explosive batting, including three crucial high scores, earned him Player of the Tournament. Bumrah's match-winning spells in the semi-final and final, with seven wickets in three games, also impressed. South Africa's Connor Esterhuizen completes the shortlist with a stellar T20I series.",
-    "img": "https://static.toiimg.com/photo/msid-130056614,imgsize-139320.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/samson-bumrah-in-icc-player-of-the-month-race-after-t20-world-cup-heroics/articleshow/130056605.cms",
-    "time": "2026-04-06T09:20:53.000Z"
   },
   {
     "cat": "Business",
@@ -585,15 +576,6 @@ const newsData_en = [
     "time": "2026-04-06T08:55:38.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "When will MS Dhoni play in IPL 2026? Timeline of CSK icon's return revealed",
-    "desc": "MS Dhoni's potential return for Chennai Super Kings hinges on a crucial fitness test this week, following a calf strain. His comeback could bolster a struggling CSK side, especially with Dewald Brevis also nearing full recovery. Both players' availability for Saturday's clash against Delhi Capitals is eagerly awaited by fans.",
-    "img": "https://static.toiimg.com/photo/msid-130056124,imgsize-49382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/when-will-ms-dhoni-play-in-ipl-2026-timeline-of-csk-icons-return-revealed/articleshow/130056103.cms",
-    "time": "2026-04-06T08:51:04.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India seeks 2.5 million metric tons of urea amid Middle East supply amid Hormuz supply hit",
     "desc": "India is boosting urea imports by 2.5 million tonnes to ensure domestic availability amidst global supply chain disruptions linked to Middle East tensions. State-owned Indian Potash Ltd is managing the procurement, with shipments expected by mid-June. Simultaneously, the government is increasing gas supply to urea plants, aiming to bolster local production ahead of the crucial June sowing season.",
@@ -601,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-seeks-2-5-million-metric-tons-of-urea-amid-middle-east-supply-amid-hormuz-supply-hit/articleshow/130054619.cms",
     "time": "2026-04-06T08:11:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Where’s the passion?’: Sanju Samson under fire as fans question 'intent, hunger'",
-    "desc": "Sanju Samson is under fire from Chennai Super Kings fans amid a poor run in IPL 2026. His low scores and perceived lack of energy have drawn criticism. Coach Stephen Fleming has expressed confidence in Samson, highlighting his past success and the team's support. The team is working to integrate Samson and find winning form.",
-    "img": "https://static.toiimg.com/photo/msid-130055232,imgsize-47874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/wheres-the-passion-sanju-samson-under-fire-as-fans-question-intent-hunger/articleshow/130055203.cms",
-    "time": "2026-04-06T08:08:56.000Z"
   },
   {
     "cat": "Business",
@@ -709,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/cost-of-iran-war-rising-donald-trump-us/article70823412.ece",
     "time": "2026-04-05T05:29:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Southern California wildfire mostly contained as officials lift many evacuation orders",
-    "desc": "Encompassing roughly 16 square kilometres in Riverside County, about 103 kilometres east of Los Angeles, the Springs Fire was no longer growing and at least 75% contained Saturday (April 4), said Terra Fernandez, public safety information specialist for the Riverside County Fire Department.",
-    "img": "https://th-i.thgim.com/public/incoming/h3s2d4/article70825896.ece/alternates/LANDSCAPE_1200/California_Wildfire_39649.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/southern-california-wildfire-mostly-contained-as-officials-lift-many-evacuation-orders/article70825890.ece",
-    "time": "2026-04-05T04:41:43.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +862,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
     "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
