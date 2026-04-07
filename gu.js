@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "માથા પર બોલ વાગતાં યુવા ખેલાડી બેભાન, તાત્કાલિક લઈ જવો પડ્યો હોસ્પિટલ",
+    "desc": "પાકિસ્તાન સુપર લીગ (PSL) 2026 દરમિયાન ઇસ્લામાબાદ યુનાઇટેડના નેટ સેશન દરમિયાન એક ભયાનક ઘટના બની હતી. યુવા ખેલાડી મીર હમઝા સજ્જાદને માથા પર બોલ વાગવાથી તે બેભાન થઈ ગયો હતો. જે બાદ તેને હોસ્પિટલ લઈ જવામાં આવ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/psl-2026-islamabad-united-mir-hamza-sajjad-head-injury-during-training-471938 ",
+    "time": "2026-04-07T16:07:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શું PPF પર મળશે વધુ રિટર્ન? પ્રથમ ત્રિમાસિક ગાળામાં જમા રૂપિયા પર મળશે આટલું વ્યાજ",
+    "desc": "જો તમે PPFમાં રોકાણ કરો છો, તો આ સમાચાર તમારા કામના છે. જી હા... કારણ કે આજે અમે અહીં સરકાર દ્વારા PPFના વ્યાજ દરોમાં કરવામાં આવેલા ફેરફાર વિશે જણાવવા જઈ રહ્યા છીએ. ચાલો એપ્રિલ–જૂન 2026ના ત્રિમાસિક ગાળા માટે PPF વ્યાજ દરો વિશે વિગતવાર જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-you-get-more-returns-on-ppf-this-much-interest-will-be-earned-on-the-money-deposited-in-the-first-quarter-471937 ",
+    "time": "2026-04-07T15:49:11.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "એપ્રિલમાં મારુતિની આ કાર પર બમ્પર ડિસ્કાઉન્ટ ! એક મોડેલ પર તો રૂપિયા 2 લાખ સુધીનો ફાયદો",
+    "desc": "જો તમે નવી કાર ખરીદવાનું વિચારી રહ્યા છો, તો એપ્રિલ તમારા માટે સુવર્ણ તક સાબિત થઈ શકે છે. મારુતિ સુઝુકી નેક્સા તેની કાર પર નોંધપાત્ર ડિસ્કાઉન્ટ ઓફર કરી રહી છે, જેનાથી તમે ₹2 લાખ સુધીની બચત કરી શકો છો. આ ડીલ એટલી આકર્ષક છે કે નવી કાર ખરીદતા પહેલા એકવાર ચોક્કસ તપાસવી જોઈએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-nexa-april-2026-discounts-invicto-tio-baleno-offers-471929 ",
+    "time": "2026-04-07T14:51:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "કેવી રીતે લીક થયું અમેરિકાનું સિક્રેટ મિશન ? કોણ છે ટ્રમ્પની ટીમમાં ગદ્દાર ? શરૂ થઈ શોધખોળ",
+    "desc": "ટ્રમ્પનો દાવો છે કે વ્હાઈટ હાઉસમાંથી કોઈ ગદ્દારે અમેરિકી પાયલોટ ગુમ થવાની માહિતી મીડિયામાં લીક કરી. આ કારણે ઈરાન એલર્ટ થઈ ગયું અને રેસ્ક્યુ મિશન મુશ્કેલ બન્યું. ટ્રમ્પે આ ગદ્દારને શોધવા માટે કાર્યવાહી શરૂ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/who-is-leaked-america-pilot-rescue-mission-trump-looking-for-traitor-471921 ",
+    "time": "2026-04-07T14:07:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "1.4 કરોડ ઈરાની શહાદત માટે તૈયાર, ઈરાનના રાષ્ટ્રપતિએ કહ્યું- હું પણ કુરબાની આપીશ પણ ઝૂકીશું નહીં",
+    "desc": "ઈરાનના રાષ્ટ્રપતિ મસૂદ પેજેશકિયને કહ્યું છે કે 1.4 કરોડ ઈરાની પોતાના દેશની રક્ષા માટે તૈયાર છે. રાષ્ટ્રપતિએ જાતે પણ કુરબાની આપવાની તૈયારી દેખાડી, એમને ખાડી દેશોને ચેતવણી આપી છે કે અમેરિકા અને ઈઝરાયેલને ઈરાન પર હુમલા કરવા માટે અનુમતિ ના આપે નહીં તો ભોગવવું પડશે. ખાર્ગ દ્રીપ પર અમેરિકાએ જોરદાર હુમલો કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/14-million-iranians-ready-to-sacrifice-their-lives-in-war-iran-president-pezeshkian-471913 ",
+    "time": "2026-04-07T13:21:17.000Z"
+  },
+  {
     "cat": "World",
     "title": "&amp;#039;આજે રાત્રે એક આખી સભ્યતા ખતમ થઈ જશે&amp;#039;, ટ્રમ્પની ઈરાનને ખુલ્લી ધમકી",
     "desc": "ઈરાન યુદ્ધમાં મંગળવારનો દિવસ મહત્વપૂર્ણ બનવાનો છે. અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ધમકી આપી હતી કે જો ઈરાન સાથે કોઈ ડીલ નહીં થાય તો અમેરિકા વિનાશ વેરશે. ટ્રમ્પે તાજેતરમાં ઈરાન પર હુમલો કરવાની ધમકી આપી હતી અને હવે તે દિવસ આવી ગયો છે. ત્યારે જોવાનું એ રહેશે કે હવે અમેરિકા શું એક્શન લે છે.",
@@ -531,15 +576,6 @@ const newsData_gu = [
     "time": "2026-04-04T10:59:19.000Z"
   },
   {
-    "cat": "World",
-    "title": "ઈરાનના નાક નીચે હોર્મુઝ સ્ટ્રેટ પાસેથી ભારતે શોધ્યો નવો દરિયાઈ માર્ગ ! ત્રણ જહાજોના કાફલા સાથે નીકળ્યું ભારતીય જહાજ",
-    "desc": "યુદ્ધ શરૂ થયા પછી ઈરાને હોર્મુઝ સ્ટ્રેટમાંથી પસાર થતા જહાજો પર હુમલો કરવાનું શરૂ કર્યું. વૈશ્વિક ઉર્જા પુરવઠાનો 20 ટકા ભાગ આ માર્ગ દ્વારા પસાર થતો હોવાથી તેની અસર વિશ્વભરમાં અનુભવાઈ રહી છે. ત્યારબાદ ઈરાને હોર્મુઝ સ્ટ્રેટમાંથી પસાર થતા જહાજો પર ટોલ વસૂલવાનું શરૂ કર્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/indian-ships-and-3-others-cross-strait-of-hormuz-via-new-shipping-route-471467 ",
-    "time": "2026-04-04T10:15:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "માત્ર 9 બોલમાં ફિફ્ટી... 8 છગ્ગા અને 520ની સ્ટ્રાઇક રેટ, આ ખતરનાક બેટ્સમેને T20માં મચાવી તબાહી",
     "desc": "ક્રિકેટ અનિશ્ચિતાનો ખેલ છે, ગમે ત્યારે ગમે તે થઈ શકે છે. આ ખતરનાક બેટ્સમેને માત્ર 9 બોલમાં અડધી સદી ફટકારીને T20 આંતરરાષ્ટ્રીય ક્રિકેટમાં એક નવો વર્લ્ડ રેકોર્ડ બનાવ્યો છે. આ T20 આંતરરાષ્ટ્રીય ક્રિકેટના ઇતિહાસમાં સૌથી ઝડપી અડધી સદી છે.",
@@ -556,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/important-news-for-those-traveling-on-highways-and-expressways-toll-plazas-will-go-cashless-471461 ",
     "time": "2026-04-04T08:29:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શ્રેયસ ઐયર પર IPLમાં લાગશે પ્રતિબંધ ? બીજી જ મેચમાં કરી બીજી મોટી ભૂલ, શું હવે BCCIએ ફટકારશે સજા ?",
-    "desc": "પંજાબ કિંગ્સે IPLમાં સતત બીજી જીત મેળવી, પરંતુ સ્લો ઓવર રેટના કારણે કેપ્ટન શ્રેયસ ઐયર અને ટીમને દંડ ફટકારવામાં આવ્યો. ઐયરને ₹24 લાખનો દંડ ફટકારવામાં આવ્યો, જ્યારે અન્ય ખેલાડીઓને પણ દંડ ફટકારવામાં આવ્યો. જો કે, વારંવાર આ નિયમના ભંગથી હવે ભવિષ્યમાં પ્રતિબંધનું જોખમ વધી ગયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/why-shreyas-iyer-may-face-ban-in-ipl-2026-know-the-reason-471450 ",
-    "time": "2026-04-04T06:08:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -736,14 +763,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/electric-vs-petrol-scooter-price-running-cost-and-maintenance-comparison-470741 ",
     "time": "2026-03-30T08:22:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Appleનો સૌથી સસ્તો iPhone, પૈસા વસૂલ કે ઓવરરેટેડ? જાણો",
-    "desc": "શું એપલનો નવો આઈફોન ખરેખર પૈસા માટે યોગ્ય છે? ચાલો તેની વિગતવાર જોઈએ કે શું તે તેની કિંમત વાજબી છે અને રોજિંદા ઉપયોગમાં તે કેટલો ઉપયોગી છે. નવી સિરિઝનો આ સૌથી સસ્તો મોડલ છે. ચાલો તેની કિંમત અને ફિચર્સ વિશે જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/apple-cheapest-iphone-17e-money-back-or-underrated-470353 ",
-    "time": "2026-03-27T13:55:49.000Z"
   }
 ];
