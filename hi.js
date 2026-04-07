@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When will CSK talisman return to action from calf issue in IPL 2026?",
+    "desc": "MS Dhoni has been out of action ever since the start of the Indian Premier League 2026. The Chennai Super Kings star has missed all of his team's opening three games in the tournament as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-injury-update-when-will-csk-talisman-return-to-action-from-calf-issue-in-ipl-2026-2026-04-08-1036682",
+    "time": "2026-04-07T18:33:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "5 fearless prodigies who have hogged the limelight in IPL 2026 feat. Sooryavanshi, Rizvi",
+    "desc": "Prodigies have always been the talk of the town in the Indian Premier League. Over the past few years, several youngsters have taken the cricketing world by storm and have become headlines overnight, although they...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/5-fearless-prodigies-who-have-hogged-the-limelight-in-ipl-2026-feat-sooryavanshi-rizvi-2026-04-07-1036679",
+    "time": "2026-04-07T18:17:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch UCL clash on TV and stream online in India?",
     "desc": "In the quarter-final of the UEFA Champions League 2025-26, Spanish giants Real Madrid will host German champions Bayern Munich at the Santiago Bernabeu. Famously known as the European classico, the match promises a scintillating battle...",
     "img": "",
@@ -46,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Players head to ground as rain abates, covers come off in Guwahati",
+    "title": "Mumbai in huge trouble in 151 chase against Royals",
     "desc": "Unbeaten Rajasthan Royals host upbeat Mumbai Indians in the 13th match of the Indian Premier League 2026 at the Barsapara Cricket Stadium, Guwahati, on Tuesday, April 7. The Guwahati weather is in focus. Rain came down...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/aminul-bulbul-removed-as-bcb-president-after-t20-world-cup-fiasco-tamim-iqbal-to-serve-as-interim-head-2026-04-07-1036640",
     "time": "2026-04-07T11:15:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Dhoni not there doesn't make much difference, crowd will be little quieter'",
-    "desc": "Chennai Super Kings have lost all three of their matches so far in the IPL 2026. They have struggled in all three facets of the game and are currently at the bottom of the table....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dhoni-not-there-doesn-t-make-much-difference-crowd-will-be-little-quieter-heinrich-klaasen-on-csk-clash-2026-04-07-1036637",
-    "time": "2026-04-07T11:02:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "David Warner, Australia batting icon, arrested for drink driving in Sydney",
-    "desc": "Australian icon David Warner was charged with drink-driving in Sydney after returning to Australia mid-way from the Pakistan Super League. Warner was pulled over in Maroubra, Sydney, during a random breath test. As per reports in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-batting-icon-david-warner-arrested-for-drink-driving-in-sydney-2026-04-07-1036632",
-    "time": "2026-04-07T10:38:52.000Z"
   }
 ];

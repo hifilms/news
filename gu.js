@@ -1,12 +1,21 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "શું ટ્રમ્પ ઈરાન પર પરમાણુ હુમલો કરશે? અમેરિકાનું મોટું નિવેદન આવ્યું, જાણો શું કહ્યું",
+    "desc": "અમેરિકાએ સ્પષ્ટ કરી દીધું છે કે, તે ઈરાન પર પરમાણુ બોમ્બથી હુમલો નહીં કરે. વ્હાઇટ હાઉસે સોશિયલ મીડિયા પ્લેટફોર્મ 'X' પર પોસ્ટ કરીને કહ્યું કે, અમે ઈરાન પર પરમાણુ હુમલા વિશે બિલકુલ વિચારી રહ્યા નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/will-trump-launch-a-nuclear-attack-on-iran-america-big-statement-came-know-what-he-said-471939 ",
+    "time": "2026-04-07T17:10:43.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "માથા પર બોલ વાગતાં યુવા ખેલાડી બેભાન, તાત્કાલિક લઈ જવો પડ્યો હોસ્પિટલ",
     "desc": "પાકિસ્તાન સુપર લીગ (PSL) 2026 દરમિયાન ઇસ્લામાબાદ યુનાઇટેડના નેટ સેશન દરમિયાન એક ભયાનક ઘટના બની હતી. યુવા ખેલાડી મીર હમઝા સજ્જાદને માથા પર બોલ વાગવાથી તે બેભાન થઈ ગયો હતો. જે બાદ તેને હોસ્પિટલ લઈ જવામાં આવ્યો હતો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/psl-2026-islamabad-united-mir-hamza-sajjad-head-injury-during-training-471938 ",
-    "time": "2026-04-07T16:07:48.000Z"
+    "time": "2026-04-07T16:10:37.000Z"
   },
   {
     "cat": "Business",
@@ -556,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-out-of-mumbai-indians-suryakumar-yadav-suddenly-appointed-captain-471480 ",
     "time": "2026-04-04T11:32:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અમેરિકા કે રશિયા નહીં... આ દેશ પાસે છે વિશ્વની સૌથી મોટી સેના, જાણો કયા ક્રમે છે ભારત",
-    "desc": "મિલિટરી બેલેન્સ રિપોર્ટ 2025 અનુસાર, વિશ્વની સૌથી મોટી સેનાઓની યાદી બહાર પાડવામાં આવી છે. ત્યારે આ યાદી મુજબ કયા દેશ પાસે વિશ્વની સૌથી મોટી સેના છે અને આ યાદીમાં ભારત કયા ક્રમે છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/which-country-has-world-largest-army-in-2026-know-india-ranks-471471 ",
-    "time": "2026-04-04T11:07:39.000Z"
   },
   {
     "cat": "Sports",

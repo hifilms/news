@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Ladakh lieutenant governor directs renewal of expired land leases in region",
+    "desc": "Ladakh Lieutenant Governor Vinai Kumar Saxena has ordered the renewal of long-pending expired lease deeds, offering legal security to land titles for residents. Special camps will be organized starting April 15 to process these cases, marking a significant step towards responsive governance and stability for affected families.",
+    "img": "https://static.toiimg.com/photo/msid-130095165,imgsize-1073843.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ladakh-lieutenant-governor-directs-renewal-of-expired-land-leases-in-region/articleshow/130095015.cms",
+    "time": "2026-04-07T18:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Swastika slams Sourav Ganguly over remarks on Rahul’s death",
+    "desc": "Swastika Mukherjee has strongly reacted to comments made by former cricketer Sourav Ganguly on the tragic death of actor Rahul Arunoday Banerjee, who died in a drowning incident in Odisha on March 29 while shooting for the Bengali show Bholebaba Paar Karega.",
+    "img": "https://static.toiimg.com/photo/msid-130094639,imgsize-81648.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/swastika-mukherjee-slams-sourav-ganguly-over-remarks-on-rahul-arunoday-banerjees-death-he-should-be-aware-of-his-words/articleshow/130094639.cms",
+    "time": "2026-04-07T18:16:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Returning officer can recommend repoll if webcasting at polling stations interrupted deliberately, says ECI",
+    "desc": "Public campaigning for the April 9 Kerala, Puducherry and Assam Assembly polls ended on Tuesday, April 7, 2026; TVK chief Vijay's nomination for the Perambur and Tiruchirappalli Assembly constituencies for the April 23 polls was accepted after scrutiny",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-puducherry-assam-live-updates-april-7-2026/article70832717.ece",
+    "time": "2026-04-07T18:13:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'A literal demon': Fans stunned as Sooryavanshi takes on Jasprit Bumrah",
+    "desc": "In an 11-over-a-side contest, Sooryavanshi attacked Bumrah in the second over of the innings. The teenage batter hit two sixes in four deliveries, including one off the first ball he faced, putting Mumbai Indians under pressure early.",
+    "img": "https://static.toiimg.com/photo/msid-130094509,imgsize-21960.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/a-literal-demon-fans-stunned-as-vaibhav-sooryavanshi-takes-on-jasprit-bumrah/articleshow/130094410.cms",
+    "time": "2026-04-07T18:11:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Social ill cannot be branded as ‘religious practice’, says Supreme Court on maiden day of Sabarimala reference hearing",
+    "desc": "Legislature, not courts, is entitled to enact social reform, the Centre responds; as the Union government argues whether the judges have the expertise to decide on the matter, the court says it is empowered to examine opinions of experts.",
+    "img": "https://th-i.thgim.com/public/incoming/ap0eey/article70835811.ece/alternates/LANDSCAPE_1200/20260407053L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/social-ill-cannot-be-branded-as-religious-practice-says-supreme-court-on-maiden-day-of-sabarimala-reference-hearing/article70835187.ece",
+    "time": "2026-04-07T18:07:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A do-or-die battle for major fronts, their skippers",
+    "desc": "Having been in the political wilderness for a decade, the UDF cannot afford to sit out of power for another five years. For the LDF, which suffered a series of setbacks in the Assembly bypolls, the Lok Sabha elections, and the local body polls, the April 9 Assembly elections will be a test of its credentials. For the National Democratic Alliance too the polls will be decisive, having seen a slump in their vote share in the local body elections",
+    "img": "https://th-i.thgim.com/public/incoming/uaoxrb/article70834780.ece/alternates/LANDSCAPE_1200/Kottikalasam_03.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-a-do-or-die-battle-for-major-fronts-their-skippers/article70835162.ece",
+    "time": "2026-04-07T18:05:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Share of women in credit rising boosted by digital platforms",
+    "desc": "Women's credit uptake has surged, now representing Rs 76 lakh crore or 26% of total system credit in 2025, a near five-fold increase since 2017. This signifies a major shift with women actively driving credit demand, moving from passive recipients to key financial participants. Their engagement with formal credit and asset ownership is rapidly expanding.",
+    "img": "https://static.toiimg.com/photo/msid-130093878,imgsize-136824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/share-of-women-in-credit-rising-boosted-by-digital-platforms/articleshow/130093779.cms",
+    "time": "2026-04-07T17:46:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Adani seeks dismissal of SEC fraud case in US, denies wrongdoing",
+    "desc": "Gautam and Sagar Adani are challenging a US SEC securities fraud lawsuit, arguing the case lacks US jurisdiction and credible bribery evidence. They contend investors suffered no losses from the 2021 Adani Green bond issue, which they claim was conducted entirely outside the US. The Adanis deny wrongdoing and seek dismissal of the SEC's claims.",
+    "img": "https://static.toiimg.com/photo/msid-130093603,imgsize-73810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/adani-seeks-dismissal-of-sec-fraud-case-in-us-denies-wrongdoing/articleshow/130093512.cms",
+    "time": "2026-04-07T17:37:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India put on backfoot by Thailand before rain halts play",
+    "desc": "India trailed Thailand 0-1 in a rain-affected BJK Cup Asia/Oceania Group 1 tie in New Delhi. Vaishnavi Adkar lost her match and Sahaja Yamalapalli's contest was interrupted by rain before play was suspended for the day.",
+    "img": "https://static.toiimg.com/photo/msid-130093523,imgsize-28352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/bjk-cup-india-put-on-backfoot-by-thailand-before-rain-halts-play/articleshow/130093518.cms",
+    "time": "2026-04-07T17:35:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "On India’s updated climate pledges",
+    "desc": "India’s announcement of its revised Nationally Determined Contributions (NDCs) to the Paris Agreement prompts scrutiny of its existing climate mitigation actions and the need to factor in the country’s developmental costs alongside those of meeting its climate commitments",
+    "img": "https://th-i.thgim.com/public/incoming/7qirlm/article70835672.ece/alternates/LANDSCAPE_1200/2026-02-25T055842Z_2123107603_RC215DA0W19X_RTRMADP_3_INDIA-SOLAR-USA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/specials/text-and-context/on-indias-updated-climate-pledges/article70835668.ece",
+    "time": "2026-04-07T17:31:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Patrick Stewart’s quote of the day",
+    "desc": "At 85, the legendary Patrick Stewart reflects on the importance of embracing fear and celebrating what makes us unique. His remarkable journey from Mirfield to the global stage, with unforgettable performances in 'Star Trek' and 'X-Men,' serves as an inspiring testament to conquering self-doubt.",
+    "img": "https://static.toiimg.com/photo/msid-130082570,imgsize-114828.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-patrick-stewart-if-someone-says-give-me-one-word-of-advice-i-say-be-fearless-and-to-believe-in-that-uniqueness/articleshow/130082570.cms",
+    "time": "2026-04-07T17:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sooryavanshi smashes Bumrah for six first ball",
+    "desc": "In the match between Rajasthan Royals (RR) and Mumbai Indians (MI), the young batting prodigy took on Bumrah in the second over of the innings, hitting two sixes in the space of four deliveries. The game had already been shortened to 11 overs per side due to rain, adding more weight to every over.",
+    "img": "https://static.toiimg.com/photo/msid-130093011,imgsize-21960.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/no-fear-vaibhav-sooryavanshi-goes-on-attack-smashes-jasprit-bumrah-for-six-first-ball-watch/articleshow/130093005.cms",
+    "time": "2026-04-07T17:22:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Middle East turmoil puts India’s trade, energy flows at risk: Report",
+    "desc": "India faces significant external shocks from the Middle East crisis, impacting energy markets, trade, and supply chains. Disruptions in the Strait of Hormuz are increasing costs for exporters and importers, with sectors like agriculture and labour-intensive industries particularly vulnerable. Higher energy prices and potential slowdowns in Gulf economies could lead to sustained inflation and slower growth for India.",
+    "img": "https://static.toiimg.com/photo/msid-130093037,imgsize-1492417.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-turmoil-puts-indias-trade-energy-flows-at-risk-report/articleshow/130092546.cms",
+    "time": "2026-04-07T17:17:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iranians form human chains on bridges, near power plants as Trump threatens to unleash ‘hell’",
+    "desc": "Some Iranians formed human chains across several Iranian cities on Tuesday (April 7), gathering on bridges and around power plants as U.S. strikes on Iran intensified and President Donald Trump’s deadline to unleash “hell” neared.",
+    "img": "https://th-i.thgim.com/public/incoming/gw989m/article70835693.ece/alternates/LANDSCAPE_1200/human%20chain.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-iranians-form-human-chains-on-bridges-near-power-plants-as-trump-threatens-to-unleash-hell/article70835695.ece",
+    "time": "2026-04-07T17:17:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "CRED pivots to wealth on Kuvera, betting on `truth telling'",
+    "desc": "CRED is expanding into wealth management with its acquisition of Kuvera, targeting affluent investors. The platform aims to enhance investor discipline and decision-making, emphasizing long-term compounding over frequent trading. Kuvera's redesigned approach focuses on behavioral insights, helping wealthy individuals make smarter investment choices. This move positions Kuvera as CRED's primary wealth division within its premium finance ecosystem.",
+    "img": "https://static.toiimg.com/photo/msid-130092670,imgsize-27198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/cred-pivots-to-wealth-on-kuvera-betting-on-truth-telling/articleshow/130092601.cms",
+    "time": "2026-04-07T17:03:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NCERT reconstitutes textbook committee after Supreme Court rap",
+    "desc": "The court had taken up suo motu cognisance of Class 8 social science textbook which discussed a section on “corruption in the judiciary,” and later imposed a ban on use of physical or online copies of the said textbook",
+    "img": "https://th-i.thgim.com/public/incoming/8pixkg/article70835597.ece/alternates/LANDSCAPE_1200/ncert%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ncert-reconstitutes-textbook-committee-after-supreme-court-rap/article70834975.ece",
+    "time": "2026-04-07T17:00:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kartik moves HC over alleged misuse of personality rights",
+    "desc": "Amid rising concerns over digital misuse of celebrity identities, Kartik Aaryan has filed an intellectual property (IP) suit before the Bombay High Court, alleging unauthorised commercial use of his personality across online platforms. The plea names multiple Indian and international e-commerce and social media platforms, along with unidentified “John Doe” individuals, accusing them of exploiting his name, image, and likeness without consent.",
+    "img": "https://static.toiimg.com/photo/msid-130092115,imgsize-41888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kartik-aaryan-moves-bombay-high-court-over-alleged-misuse-of-personality-rights-seeks-action-against-online-platforms/articleshow/130092115.cms",
+    "time": "2026-04-07T16:42:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Offset’s net worth",
+    "desc": "Rapper Offset, born Kiari Kendrell Cephus, boasts an impressive net worth of $40 million, primarily from music sales, tours, and endorsements. Active since 2002, he gained fame with Migos and later achieved solo success. His personal life has seen recent headlines regarding his relationship and divorce from Cardi B, with whom he shares three children.",
+    "img": "https://static.toiimg.com/photo/msid-130082286,imgsize-50388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/all-about-offsets-net-worth-all-you-need-to-know-about-the-zeze-rappers-overall-earnings/articleshow/130082286.cms",
+    "time": "2026-04-07T16:30:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "‘New’ Bangladesh-India ties will avoid ‘mistakes of the past’: Foreign Affairs Adviser Humayun Kobir",
+    "desc": "The Foreign Affairs Adviser to Bangladesh Prime Minister Tarique Rahman says the two sides should do more frequent exchanges at the level of political parties and officials to deal with ‘difficult issues’ so that misunderstandings are avoided.",
+    "img": "https://th-i.thgim.com/public/news/national/bt7z6p/article70831752.ece/alternates/LANDSCAPE_1200/BD.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/new-bangladesh-india-ties-will-avoid-mistakes-of-the-past-foreign-affairs-adviser-humayun-kobir/article70831316.ece",
+    "time": "2026-04-07T16:17:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ladakh statehood talks resume: What is MHA offering?",
+    "desc": "Talks between Ladakh’s civil society groups and the Union Home Ministry resumed in New Delhi after last month’s deadly protests demanding Statehood. Officials hinted at possible safeguards under Article 371, but the Leh Apex Body and Kargil Democratic Alliance reiterated their demand for inclusion under the Sixth Schedule. The groups also sought the release of activist Sonam Wangchuk. With tensions high since Ladakh lost its special status in 2019, the region awaits clarity on its political future and autonomy.",
+    "img": "https://th-i.thgim.com/public/incoming/uefmmz/article70192645.ece/alternates/LANDSCAPE_1200/ai%20regulation.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-ladakh-statehood-talks-resume-what-is-mha-offering/article70192653.ece",
+    "time": "2026-04-07T16:15:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘How can Bengal election be fair when so many genuine voters are left out,’ asks Shashi Panja",
+    "desc": "Why did the BJP-led Centre have to go so deep to disenfranchise so many people if it is so confident of winning in the State, asks West Bengal Minister and Shashi Panja, a three-time Trinamool MLA, who like many other voters faced adjudication post SIR",
+    "img": "https://th-i.thgim.com/public/incoming/tgmn31/article70835392.ece/alternates/LANDSCAPE_1200/20240301151L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/how-can-bengal-election-be-fair-when-so-many-genuine-voters-are-left-out-says-shashi-panja/article70834210.ece",
+    "time": "2026-04-07T16:13:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TMC vs BJP — but the real story is missing voters",
+    "desc": "West Bengal is less than three weeks away from the 2026 Assembly Elections, but the headlines aren’t about rallies or manifestos. They are about the 91 lakh names that have been wiped off the electoral rolls. With the results set for May 4, West Bengal is standing at a crossroads. Is this a necessary “cleanup” of the rolls, or a systemic disenfranchisement?",
+    "img": "https://th-i.thgim.com/public/incoming/829ur6/article70835489.ece/alternates/LANDSCAPE_1200/WB3.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-tmc-vs-bjp-but-the-real-story-is-missing-voters-west-bengal-2026/article70835503.ece",
+    "time": "2026-04-07T16:11:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Delhi high court halts ‘Godfather’ whisky launch in trademark dispute",
+    "desc": "The Delhi High Court has halted Cartel Bros, backed by Sanjay Dutt, from launching its 'Glenwalk Godfather' whisky. Devans Modern Breweries, owner of the established 'Godfather' brand for beer and spirits, successfully argued trademark infringement. The court ordered Cartel Bros to pause commercial launch and promotional activities until further notice, with the next hearing scheduled for April 10.",
+    "img": "https://static.toiimg.com/photo/msid-130091402,imgsize-87178.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/delhi-high-court-halts-godfather-whisky-launch-in-trademark-dispute/articleshow/130091342.cms",
+    "time": "2026-04-07T16:02:25.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Wall Street slides as Trump’s Iran deadline rattles markets; oil surges",
     "desc": "Global markets wavered Tuesday as investors braced for President Trump's Iran deadline regarding the Strait of Hormuz. Fears of escalating Middle East conflict sent oil prices soaring and dragged down US stocks, particularly tech shares. Health insurers offered some support, but overall market sentiment remained cautious amid heightened geopolitical tensions and uncertainty.",
@@ -19,21 +226,21 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "‘How can Bengal election be fair when so many genuine voters are left out?’, says Shashi Panja",
-    "desc": "Why did the BJP-led Centre have to go so deep to disenfranchise so many people if it is so confident of winning the State, asks West Bengal Minister and Shashi Panja, a three-time Trinamool MLA, who like many other voters faced adjudication post SIR",
-    "img": "https://th-i.thgim.com/public/incoming/tgmn31/article70835392.ece/alternates/LANDSCAPE_1200/20240301151L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/how-can-bengal-election-be-fair-when-so-many-genuine-voters-are-left-out-says-shashi-panja/article70834210.ece",
-    "time": "2026-04-07T15:53:05.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Delhi CM Rekha Gupta says, '1,531 colonies to be regularised under new housing scheme'",
     "desc": "Chief Minister Rekha Gupta lauded the central government for regularising Delhi's unauthorised colonies on an \"As Is, Where Is\" basis under the PM-UDAY scheme, noting that the new framework allows for the regularisation of 1,531 colonies without requiring layout plan approval. Furthermore, she mentioned that all plots and buildings within these colonies will be treated as residential.",
     "img": "https://static.toiimg.com/photo/msid-130091031,imgsize-583587.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/delhi-cm-rekha-gupta-says-1531-colonies-to-be-regularised-under-new-housing-scheme/articleshow/130090993.cms",
     "time": "2026-04-07T15:41:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar's Arshad Pappu on comparisons to SRK's Met Gala look",
+    "desc": "Ashwin Dhar, lauded for his role in 'Dhurandhar', finds himself in the spotlight as fans compare his film look to Shah Rukh Khan's Met Gala appearance. Dhar expressed his overwhelming gratitude for the comparison, calling it a huge compliment. Meanwhile, 'Dhurandhar 2' continues its record-breaking box office run, earning praise from industry stalwarts.",
+    "img": "https://static.toiimg.com/photo/msid-130090949,imgsize-33066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhars-arshad-pappu-aka-ashwin-dhar-reacts-to-comparisons-with-shah-rukh-khans-met-gala-look-im-enjoying-it/articleshow/130090914.cms",
+    "time": "2026-04-07T15:38:27.000Z"
   },
   {
     "cat": "Business",
@@ -45,15 +252,6 @@ const newsData_en = [
     "time": "2026-04-07T15:36:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "A do-or-die battle for major fronts, their skippers",
-    "desc": "Having been in the political wilderness for a decade, the UDF cannot afford to sit out of power for another five years. For the LDF, which suffered a series of setbacks in the Assembly bypolls, the Lok Sabha elections, and the local body polls, the April 9 Assembly elections will be a test of its credentials. For the National Democratic Alliance too the polls will be decisive, having seen a slump in their vote share in the local body elections",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-a-do-or-die-battle-for-major-fronts-their-skippers/article70835162.ece",
-    "time": "2026-04-07T15:31:20.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India unlikely to revise fiscal deficit target despite Gulf crisis, capex stays priority",
     "desc": "India remains committed to its fiscal deficit target for 2026-27, prioritizing capital expenditure despite Middle East tensions impacting oil prices. While austerity measures are considered, crucial infrastructure projects are protected. Officials suggest subsidy targeting and savings could offset added fiscal pressure, but economists warn of potential slippage if fuel prices remain capped.",
@@ -61,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-unlikely-to-revise-fiscal-deficit-target-immediately-despite-middle-east-shock-capex-stays-priority-report/articleshow/130090633.cms",
     "time": "2026-04-07T15:26:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "No cash at highway toll plazas from April 10",
-    "desc": "Cash payments at toll plazas will be discontinued for travellers on National Highways from April 10, 2026. In cases where a vehicle enters a toll fee plaza without a valid FASTag, users can still pay via Unified Payment Interface (UPI), but at a higher charge of 1.25 times the applicable toll fee.",
-    "img": "https://th-i.thgim.com/public/incoming/poryvj/article70835117.ece/alternates/LANDSCAPE_1200/Toll-hike-of-1GLEFP8F66.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-no-cash-at-highway-toll-plazas-from-april-10/article70835115.ece",
-    "time": "2026-04-07T15:13:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -270,15 +459,6 @@ const newsData_en = [
     "time": "2026-04-07T12:19:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Police says found 'incriminating material' at Congress leader's Delhi residence",
-    "desc": "Assam Police searched Congress leader Pawan Khera's Delhi residence in connection with allegations against CM Himanta Biswa Sarma and his family. Electronic devices and \"incriminating material\" were seized. Khera was not found, with Sarma claiming he fled to Hyderabad. Congress accuses the CM of misusing state machinery.",
-    "img": "https://static.toiimg.com/photo/msid-130086378,imgsize-818753.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/himanta-vs-khera-police-says-found-incriminating-material-at-congress-leaders-delhi-residence/articleshow/130085951.cms",
-    "time": "2026-04-07T12:11:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Palak, Mukesh win gold with world record",
     "desc": "India's Palak and Mukesh Nelavalli secured a gold medal in the 10m air pistol mixed team event at the ISSF World Cup in Granada, Spain. The duo achieved a world record score of 487.7, also setting a junior world record. This victory marks a strong start for India in the competition.",
@@ -360,24 +540,6 @@ const newsData_en = [
     "time": "2026-04-07T09:35:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Eric Roberts talks about relationship with Emma Roberts",
-    "desc": "Veteran actor Eric Roberts candidly discussed his estranged relationship with daughter Emma Roberts on a recent podcast. He acknowledged past struggles with substance abuse, admitting he was once unreliable and deeply regrets the loss of their connection. Despite the complexities, Roberts expressed immense pride in Emma's achievements and stated their bond is only complicated from an outsider's perspective.",
-    "img": "https://static.toiimg.com/photo/msid-130082109,imgsize-48126.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eric-roberts-weighs-in-on-his-relationship-with-daughter-emma-roberts-im-so-proud-of-my-kid/articleshow/130082109.cms",
-    "time": "2026-04-07T09:21:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Trisha slams viral rumours with witty Instagram post",
-    "desc": "Actress Trisha Krishnan has humorously addressed viral rumors about quitting films and raising quadruplets. She posted a sarcastic message on Instagram, clarifying that these claims are fictional. Trisha remains busy with upcoming projects, including 'Karuppu' and 'Vishwambhara', assuring fans of her continued presence in cinema. Her witty response has been widely appreciated.",
-    "img": "https://static.toiimg.com/photo/msid-130082145,imgsize-122368.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-slams-viral-rumours-with-witty-instagram-post-leo-actress-questions-apparently-ive-quit-films-and-raising-quadruplets/articleshow/130082145.cms",
-    "time": "2026-04-07T09:20:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘We’re losing in key moments’: Klaasen reveals what’s hurting SRH in IPL 2026",
     "desc": "Heinrich Klaasen identifies batting execution lapses and poor fielding as Sunrisers Hyderabad's main issues in IPL 2026. Despite a slow start, he believes the team can recover, emphasising the need for bigger totals and better catching. Klaasen himself is in good form, aiming to maintain his batting prowess.",
@@ -385,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-were-losing-in-key-moments-klaasen-reveals-whats-hurting-srh/articleshow/130082086.cms",
     "time": "2026-04-07T09:17:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar is the beginning of the end': Rana Naidu writer",
-    "desc": "Filmmaker BVS Ravi champions Aditya Dhar's latest project, 'Dhurandhar', calling it a transformative milestone for the Telugu film industry. He asserts that the ambitious scope and coherent storytelling—all crafted within a substantial Rs 260 crore budget across two installments—serve as evidence that ineffective planning, not star payments, is what truly elevates production expenses. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130081339,imgsize-100298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-is-the-beginning-of-the-end-rana-naidu-writer-bvs-ravi-on-how-ranveer-singhs-film-will-reshape-telugu-film-production/articleshow/130081339.cms",
-    "time": "2026-04-07T09:12:01.000Z"
   },
   {
     "cat": "Entertainment",
@@ -441,42 +594,6 @@ const newsData_en = [
     "time": "2026-04-07T08:35:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Hathaway shares her first reaction",
-    "desc": "The iconic 'The Devil Wears Prada' is getting a sequel, with Anne Hathaway and Meryl Streep reprising their roles. Hathaway expressed immense excitement after reading the script, particularly after learning Streep's positive reaction. The new film explores the evolving media landscape, with Andy and Miranda navigating the challenges of the digital age and a potential showdown looming.",
-    "img": "https://static.toiimg.com/photo/msid-130081061,imgsize-56328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/anne-hathaways-first-reaction-to-the-devil-wears-prada-2-did-meryl-streep-read-it-yet/articleshow/130081025.cms",
-    "time": "2026-04-07T08:30:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'To the winner belong the spoils': Trump eyes Iran's oil, says 'I am a businessman first'",
-    "desc": "President Trump suggested the US could seize Iran's oil, framing it as a business opportunity and citing Venezuela as an example. He also indicated a shift in US policy by referencing \"to the victor belong the spoils.",
-    "img": "https://static.toiimg.com/photo/msid-130081034,imgsize-1168285.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/to-the-winner-belong-the-spoils-trump-eyes-iranian-oil-says-i-am-a-businessman-first/articleshow/130078164.cms",
-    "time": "2026-04-07T08:29:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Tumbbad 2’ begins shoot with mahurat shot in Mumbai: Reports",
-    "desc": "Excitement is in the air as 'Tumbbad 2' begins filming in Mumbai, featuring a stunning mahurat shot that sets the tone for the sequel. Returning to the screens is Sohum Shah, with the remarkable Nawazuddin Siddiqui adding to the allure.",
-    "img": "https://static.toiimg.com/photo/msid-130080936,imgsize-69756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tumbbad-2-begins-shoot-sohum-shah-boney-kapoor-and-team-attend-mahurat-shot-in-mumbai-reports/articleshow/130080936.cms",
-    "time": "2026-04-07T08:24:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "M Chinnaswamy set for massive revamp! KSCA plans 20,000-seat expansion",
-    "desc": "Plans are underway for a major upgrade of the M Chinnaswamy Stadium. The Karnataka State Cricket Association aims to increase seating capacity by 20,000. The renovation will improve spectator facilities, crowd movement, and parking. This ambitious project seeks to modernize the iconic venue to meet global standards. The transformation is expected to take considerable time.",
-    "img": "https://static.toiimg.com/photo/msid-130080530,imgsize-52908.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/m-chinnaswamy-set-for-massive-revamp-ksca-plans-20000-seat-expansion/articleshow/130080553.cms",
-    "time": "2026-04-07T08:16:31.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Apple's foldable iPhone faces engineering snags, potential shipment delays: Report",
     "desc": "Nikkei had reported ​in January that Apple would focus on delivering its ⁠first foldable iPhone and two non-folding ⁠models with upgraded cameras and larger displays for ‌a flagship launch in the second half of 2026",
@@ -504,51 +621,6 @@ const newsData_en = [
     "time": "2026-04-07T07:41:42.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Air India revises fuel surcharge amid energy crunch; here’s how much more you will pay",
-    "desc": "Air India group has revised its fuel surcharge for domestic and international flights due to rising oil prices and Middle East tensions. Domestic fares will now be distance-linked, while international surcharges see steeper increases, reflecting global jet fuel price surges and increased refinery margins. These changes aim to partially offset rising operational costs for the airline.",
-    "img": "https://static.toiimg.com/photo/msid-130079789,imgsize-56756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/air-india-revises-fuel-surcharge-amid-energy-crunch-heres-how-much-more-you-will-pay/articleshow/130079853.cms",
-    "time": "2026-04-07T07:38:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arjun Tendulkar’s pinpoint yorkers light up LSG nets",
-    "desc": "Arjun Tendulkar is impressing Lucknow Super Giants' net sessions with his accurate yorkers, troubling top batters like Rishabh Pant. Videos of his disciplined bowling have gone viral, fueling fan calls for his inclusion. After two seasons with Mumbai Indians, the young pacer is making a strong case for selection at LSG with his consistent performance, despite limited match opportunities so far.",
-    "img": "https://static.toiimg.com/photo/msid-130079453,imgsize-70946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-arjun-tendulkars-pinpoint-yorkers-light-up-lsg-nets-watch/articleshow/130079392.cms",
-    "time": "2026-04-07T07:15:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Why engage in such fights?’: Sehwag’s blunt take on Ajinkya Rahane’s outburst",
-    "desc": "Former India opener Virender Sehwag has urged Ajinkya Rahane to respond to criticism with composure. Rahane recently reacted strongly to questions about his strike rate and Cameron Green's bowling. Sehwag believes players should remain neutral to praise and criticism. He cited legends like Amitabh Bachchan and Sachin Tendulkar as examples of handling scrutiny without public reactions.",
-    "img": "https://static.toiimg.com/photo/msid-130078645,imgsize-108782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/why-engage-in-such-fights-virender-sehwags-blunt-take-on-ajinkya-rahanes-outburst/articleshow/130078601.cms",
-    "time": "2026-04-07T06:50:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘My mother inspired me, gave me strength’: Mohsin Khan on IPL comeback",
-    "desc": "Lucknow Super Giants pacer Mohsin Khan found strength to return to cricket after a lengthy injury layoff, drawing inspiration from his late mother. Her unwavering belief fueled his recovery, especially after she passed away just as he rejoined the LSG camp. Mohsin also credits the franchise's support staff and pacer Mohammed Shami for his comeback.",
-    "img": "https://static.toiimg.com/photo/msid-130077774,imgsize-44024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/my-mother-inspired-me-gave-me-strength-mohsin-khan-on-ipl-comeback/articleshow/130077687.cms",
-    "time": "2026-04-07T06:01:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "SC",
-    "desc": "The Supreme Court ruled that banks are not required to provide personal oral hearings before classifying accounts as fraudulent. However, banks must furnish customers with a forensic audit report prior to such classification. This decision acknowledges the infeasibility of individual hearings given the significant rise in bank fraud cases.",
-    "img": "https://static.toiimg.com/photo/msid-130077663,imgsize-171096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-personal-oral-hearing-needed-before-labelling-bank-accounts-as-fraud-sc/articleshow/130077169.cms",
-    "time": "2026-04-07T05:58:38.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Vaibhav Sooryavanshi's biggest challenge yet! Trial by fire vs Bumrah",
     "desc": "Teen sensation Vaibhav Sooryavanshi faces his ultimate T20 test against Jasprit Bumrah. After a sensational IPL debut, the 15-year-old, who skipped board exams for cricket, has impressed with explosive knocks. This clash against the world's best bowler could define his burgeoning career, with teams analyzing his game. Mumbai Indians remain unfazed, preparing as usual.",
@@ -567,15 +639,6 @@ const newsData_en = [
     "time": "2026-04-07T05:29:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Not good enough at No.3 in IPL': Pietersen's damning verdict on Rs 25.2 Cr recruit",
-    "desc": "Cameron Green's struggles for Kolkata Knight Riders in IPL 2026, with minimal runs and no bowling, are drawing criticism. Experts question his role at No. 3, suggesting he's a middle-order batter who bowls, not a specialist for that position. Team composition and overseas player choices are under scrutiny as KKR faces a crucial decision.",
-    "img": "https://static.toiimg.com/photo/msid-130075853,imgsize-61098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/not-good-enough-to-bat-at-no-3-in-ipl-pietersens-damning-verdict-on-rs-25-2-cr-recruit/articleshow/130075476.cms",
-    "time": "2026-04-07T04:21:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Nifty50 ends up at 23,123; Sensex climbs 500 points to 74,616",
     "desc": "Dalal Street opened higher on Tuesday, with benchmark indices rising after a strong rebound in the previous session. Intense buying in banking and IT stocks, coupled with a strengthening rupee, boosted investor confidence. Global markets showed a mixed trend as oil prices climbed amid Middle East tensions.",
@@ -592,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/mossad-agents-in-iran-do-indian-gms-agree-with-world-no-2-hikaru-nakamuras-fide-jab/articleshow/130075019.cms",
     "time": "2026-04-07T03:21:59.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "‘New’ Bangladesh-India ties will avoid ‘mistakes of the past’: Foreign Affairs Adviser Humayun Kobir",
-    "desc": "The Foreign Affairs Adviser to Bangladesh Prime Minister Tarique Rahman says the two sides should do more frequent exchanges at the level of political parties and officials to deal with ‘difficult issues’ so that misunderstandings are avoided.",
-    "img": "https://th-i.thgim.com/public/news/national/bt7z6p/article70831752.ece/alternates/LANDSCAPE_1200/BD.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/new-bangladesh-india-ties-will-avoid-mistakes-of-the-past-foreign-affairs-adviser-humayun-kobir/article70831316.ece",
-    "time": "2026-04-06T20:36:34.000Z"
   },
   {
     "cat": "Tech",
@@ -682,24 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/aid-groups-warn-war-in-west-asia-is-hindering-food-medicine-from-reaching-millions/article70826198.ece",
     "time": "2026-04-06T05:10:32.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump appears to extend Iran deadline in cryptic post",
-    "desc": "U.S. President Donald Trump, who has held no public events since an address to the nation on Wednesday (April 1, 2026), seemed to confirm the new timing in an interview with The Wall Street Journal",
-    "img": "https://th-i.thgim.com/public/incoming/40xn6f/article70828002.ece/alternates/LANDSCAPE_1200/AFP__20260402__A6HV22D__v4__HighRes__UsPresidentDonaldTrumpDeliversNationalAddressOn.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-appears-to-extend-iran-deadline-in-cryptic-post/article70828001.ece",
-    "time": "2026-04-06T02:53:38.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran military says U.S. rescue operation used abandoned airport in southern Isfahan",
-    "desc": "\"The so-called U.S. military rescue operation, planned as a deception and escape mission at an abandoned airport in southern Isfahan under the pretext of recovering the pilot of a downed aircraft, was completely foiled,\" said Ebrahim Zolfaghari, spokesman for the military's central command, Khatam Al-Anbiya.",
-    "img": "https://th-i.thgim.com/public/incoming/cui951/article70828705.ece/alternates/LANDSCAPE_1200/AFP__20260405__A6T77TB__v4__HighRes__TopshotIranUsIsraelWarGuards.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-military-says-us-rescue-operation-used-abandoned-airport-in-southern-isfahan/article70828702.ece",
-    "time": "2026-04-06T02:10:36.000Z"
   },
   {
     "cat": "Sports",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
