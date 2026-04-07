@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Kanye barred from entering UK; Wireless Festival cancelled",
+    "desc": "Rapper Ye, formerly Kanye West, has been denied entry to the UK for the Wireless Festival due to his history of antisemitic remarks. The government deemed his presence not \"conducive to the public good,\" leading to the festival's cancellation and ticket refunds. This decision follows widespread condemnation and sponsor withdrawals.",
+    "img": "https://static.toiimg.com/photo/msid-130096911,imgsize-66746.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kanye-west-barred-from-entering-uk-over-antisemitic-remarks-wireless-festival-cancelled/articleshow/130096850.cms",
+    "time": "2026-04-07T21:25:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Appellate tribunal accepts Aadhaar card in first SIR appeal",
+    "desc": "An appellate tribunal ruled that Motab Shaikh and Motab Herul are the same person, accepting his Aadhaar card as proof of identity after the Election Commission failed to provide reasons for his exclusion. The tribunal noted discrepancies in voter lists and relied on supporting documents like Aadhaar, passport, and driving license to establish his identity.",
+    "img": "https://static.toiimg.com/photo/msid-130096908,imgsize-1750359.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/appellate-tribunal-accepts-aadhaar-card-in-first-sir-appeal/articleshow/130096902.cms",
+    "time": "2026-04-07T21:22:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mere use of word 'bastard' without sexual element not obscenity: Supreme Court",
+    "desc": "The Supreme Court clarified that using the word \"bastard\" alone, without sexual intent, doesn't constitute obscenity under IPC Section 294. Justices noted that such terms, common in heated arguments, don't inherently appeal to prurient interests.",
+    "img": "https://static.toiimg.com/photo/msid-130096821,imgsize-483743.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mere-use-of-word-bastard-without-sexual-element-not-obscenity-supreme-court/articleshow/130096816.cms",
+    "time": "2026-04-07T21:05:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika Padukone breaks 'silent treatment' on Dhurandhar 2",
+    "desc": "The Revenge, Deepika Padukone has finally addressed speculation surrounding her “silence” on husband Ranveer Singh’s latest blockbuster. The sequel, which hit theatres on March 19, has been receiving praise from both audiences and industry insiders, with Ranveer’s performance drawing particular acclaim. However, fans had been questioning why Deepika hadn’t publicly reacted to the film’s success or attended its Mumbai screening.",
+    "img": "https://static.toiimg.com/photo/msid-130096730,imgsize-103328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-breaks-silent-treatment-on-dhurandhar-2-amid-ranveer-singhs-success-i-watched-it-way-before-any-of-you-did/articleshow/130096730.cms",
+    "time": "2026-04-07T20:46:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Assam police team lands at Pawan Khera's Delhi home but doesn't find him; he has fled to Hyderabad, says Himanta Sarma",
+    "desc": "Assam Police searched Congress leader Pawan Khera's Delhi residence in connection with a case filed by Assam CM's wife over alleged multiple passports and foreign assets. Khera was not found, and electronic devices were seized. The BJP defended the action, while Congress termed it a 'witch hunt' and a 'bully' tactic.",
+    "img": "https://static.toiimg.com/photo/msid-130096716,imgsize-996154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assam-police-team-lands-at-pawan-kheras-delhi-home-but-doesnt-find-him-he-has-fled-to-hyderabad-says-himanta-sarma/articleshow/130096704.cms",
+    "time": "2026-04-07T20:35:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pinarayi-Revanth slugfest on last campaign day",
+    "desc": "Kerala CM Pinarayi Vijayan and Telangana CM Revanth Reddy engaged in a heated exchange of words during election campaigning. Vijayan responded to Reddy's earlier remarks with a jibe, which Reddy then likened to PM Modi's rhetoric, accusing Vijayan of 'devil's rule' and having BJP support. Vijayan later attempted to de-escalate by sending Reddy a letter detailing Kerala's development achievements.",
+    "img": "https://static.toiimg.com/photo/msid-130096678,imgsize-840555.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cm-vs-cm-pinarayi-revanth-slugfest-on-last-campaign-day/articleshow/130096659.cms",
+    "time": "2026-04-07T20:26:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Samay Raina roasts Amitabh Bachchan, admits he lied on KBC",
+    "desc": "Comedian Samay Raina is back with his no-holds-barred special Still Alive, where he opened up about everything from his Kaun Banega Crorepati appearance to the controversy around India’s Got Latent. Recalling his time on KBC, hosted by Amitabh Bachchan, Samay admitted that he wasn’t being truthful when he claimed his grandmother was a fan of the megastar.",
+    "img": "https://static.toiimg.com/photo/msid-130096632,imgsize-75032.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-raina-roasts-amitabh-bachchan-admits-he-lied-on-kbc-about-his-grandmother-being-big-bs-fan-you-play-the-room/articleshow/130096632.cms",
+    "time": "2026-04-07T20:22:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals climb to No.1 with dominant win over Mumbai Indians",
+    "desc": "Rajasthan Royals secured a dominant 27-run victory over Mumbai Indians in a rain-affected IPL 2026 clash. Yashasvi Jaiswal's unbeaten 77 and Vaibhav Sooryavanshi's quickfire 39 powered RR to 150/3. Mumbai faltered in the chase, collapsing to 123/9 despite late efforts.",
+    "img": "https://static.toiimg.com/photo/msid-130096263,imgsize-64946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rr-vs-mi-ipl-2026-rajasthan-royals-climb-to-no-1-with-dominant-win-over-mumbai-indians/articleshow/130096276.cms",
+    "time": "2026-04-07T19:25:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "History books can’t prove title, says Jammu &amp; Kashmir HC; declares two shrines &amp; attached properties in Kishtwar as waqf",
+    "desc": "The Jammu and Kashmir High Court has ruled two Kishtwar shrines and their properties as waqf, denying ownership rights to petitioners claiming hereditary custodianship. The court emphasized that property titles must be based on evidence, not public history, dismissing reliance on historical texts for ownership claims.",
+    "img": "https://static.toiimg.com/photo/msid-130096221,imgsize-781480.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/history-books-cant-prove-title-says-jammu-kashmir-hc-declares-two-shrines-attached-properties-in-kishtwar-as-waqf/articleshow/130096182.cms",
+    "time": "2026-04-07T19:20:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mrunal calls Ranveer her ‘lucky charm’ amid Dhurandhar success",
+    "desc": "Mrunal Thakur has heaped praise on Ranveer Singh, calling him her “lucky charm” while celebrating the massive box office success of his latest release, Dhurandhar The Revenge, which has reportedly crossed the Rs 1000 crore mark globally. Mrunal opened up about her admiration for Ranveer and how he played a pivotal role in her journey.",
+    "img": "https://static.toiimg.com/photo/msid-130096093,imgsize-42894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-calls-ranveer-singh-her-lucky-charm-amid-dhurandhar-success-he-is-the-reason-i-exist-in-this-industry/articleshow/130096093.cms",
+    "time": "2026-04-07T19:15:54.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Ladakh lieutenant governor directs renewal of expired land leases in region",
     "desc": "Ladakh Lieutenant Governor Vinai Kumar Saxena has ordered the renewal of long-pending expired lease deeds, offering legal security to land titles for residents. Special camps will be organized starting April 15 to process these cases, marking a significant step towards responsive governance and stability for affected families.",
@@ -90,15 +180,6 @@ const newsData_en = [
     "time": "2026-04-07T17:31:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Patrick Stewart’s quote of the day",
-    "desc": "At 85, the legendary Patrick Stewart reflects on the importance of embracing fear and celebrating what makes us unique. His remarkable journey from Mirfield to the global stage, with unforgettable performances in 'Star Trek' and 'X-Men,' serves as an inspiring testament to conquering self-doubt.",
-    "img": "https://static.toiimg.com/photo/msid-130082570,imgsize-114828.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-patrick-stewart-if-someone-says-give-me-one-word-of-advice-i-say-be-fearless-and-to-believe-in-that-uniqueness/articleshow/130082570.cms",
-    "time": "2026-04-07T17:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sooryavanshi smashes Bumrah for six first ball",
     "desc": "In the match between Rajasthan Royals (RR) and Mumbai Indians (MI), the young batting prodigy took on Bumrah in the second over of the innings, hitting two sixes in the space of four deliveries. The game had already been shortened to 11 overs per side due to rain, adding more weight to every over.",
@@ -153,15 +234,6 @@ const newsData_en = [
     "time": "2026-04-07T16:42:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "All about Offset’s net worth",
-    "desc": "Rapper Offset, born Kiari Kendrell Cephus, boasts an impressive net worth of $40 million, primarily from music sales, tours, and endorsements. Active since 2002, he gained fame with Migos and later achieved solo success. His personal life has seen recent headlines regarding his relationship and divorce from Cardi B, with whom he shares three children.",
-    "img": "https://static.toiimg.com/photo/msid-130082286,imgsize-50388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/all-about-offsets-net-worth-all-you-need-to-know-about-the-zeze-rappers-overall-earnings/articleshow/130082286.cms",
-    "time": "2026-04-07T16:30:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "‘New’ Bangladesh-India ties will avoid ‘mistakes of the past’: Foreign Affairs Adviser Humayun Kobir",
     "desc": "The Foreign Affairs Adviser to Bangladesh Prime Minister Tarique Rahman says the two sides should do more frequent exchanges at the level of political parties and officials to deal with ‘difficult issues’ so that misunderstandings are avoided.",
@@ -169,33 +241,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/new-bangladesh-india-ties-will-avoid-mistakes-of-the-past-foreign-affairs-adviser-humayun-kobir/article70831316.ece",
     "time": "2026-04-07T16:17:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ladakh statehood talks resume: What is MHA offering?",
-    "desc": "Talks between Ladakh’s civil society groups and the Union Home Ministry resumed in New Delhi after last month’s deadly protests demanding Statehood. Officials hinted at possible safeguards under Article 371, but the Leh Apex Body and Kargil Democratic Alliance reiterated their demand for inclusion under the Sixth Schedule. The groups also sought the release of activist Sonam Wangchuk. With tensions high since Ladakh lost its special status in 2019, the region awaits clarity on its political future and autonomy.",
-    "img": "https://th-i.thgim.com/public/incoming/uefmmz/article70192645.ece/alternates/LANDSCAPE_1200/ai%20regulation.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-ladakh-statehood-talks-resume-what-is-mha-offering/article70192653.ece",
-    "time": "2026-04-07T16:15:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘How can Bengal election be fair when so many genuine voters are left out,’ asks Shashi Panja",
-    "desc": "Why did the BJP-led Centre have to go so deep to disenfranchise so many people if it is so confident of winning in the State, asks West Bengal Minister and Shashi Panja, a three-time Trinamool MLA, who like many other voters faced adjudication post SIR",
-    "img": "https://th-i.thgim.com/public/incoming/tgmn31/article70835392.ece/alternates/LANDSCAPE_1200/20240301151L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/how-can-bengal-election-be-fair-when-so-many-genuine-voters-are-left-out-says-shashi-panja/article70834210.ece",
-    "time": "2026-04-07T16:13:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TMC vs BJP — but the real story is missing voters",
-    "desc": "West Bengal is less than three weeks away from the 2026 Assembly Elections, but the headlines aren’t about rallies or manifestos. They are about the 91 lakh names that have been wiped off the electoral rolls. With the results set for May 4, West Bengal is standing at a crossroads. Is this a necessary “cleanup” of the rolls, or a systemic disenfranchisement?",
-    "img": "https://th-i.thgim.com/public/incoming/829ur6/article70835489.ece/alternates/LANDSCAPE_1200/WB3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-tmc-vs-bjp-but-the-real-story-is-missing-voters-west-bengal-2026/article70835503.ece",
-    "time": "2026-04-07T16:11:45.000Z"
   },
   {
     "cat": "Business",
@@ -360,24 +405,6 @@ const newsData_en = [
     "time": "2026-04-07T13:31:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Standards should not be lowered': How Tharoor reacted to Kharge's ‘people illiterate in Gujarat’ remark",
-    "desc": "Congress president Mallikarjun Kharge's remarks about Kerala voters being \"educated and clever\" and unlike those in Gujarat have drawn sharp criticism from the BJP. Thiruvananthapuram MP Shashi Tharoor responded by urging a higher standard of political discourse, stating that \"our standards should not be lowered to that of those who use bad language.\"",
-    "img": "https://static.toiimg.com/photo/msid-130088512,imgsize-830026.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/standards-should-not-be-lowered-how-tharoor-reacted-to-kharges-people-illiterate-in-gujarat-remark/articleshow/130088311.cms",
-    "time": "2026-04-07T13:29:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala's Ezhava equation: Is the Left losing its loyal Hindu base?",
-    "desc": "Long before electoral arithmetic began to matter, the Ezhavas were fighting for something more fundamental. Recognition, dignity and access. In 1896, a petition signed by 13,176 members of the community was submitted to the Travancore maharaja, protesting their exclusion from government jobs. It was not merely a grievance letter. It was an early articulation of collective political consciousness.",
-    "img": "https://static.toiimg.com/photo/msid-130088257,imgsize-98318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/keralas-ezhava-equation-is-the-left-losing-its-loyal-hindu-base/articleshow/130086999.cms",
-    "time": "2026-04-07T13:25:17.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Centre asks states to double daily supply of 5-kg LPG cylinders for migrant workers",
     "desc": "States and Union Territories are directed to double the daily supply of 5-kg LPG cylinders for migrant workers, ensuring targeted distribution with Oil Marketing Company support. The Centre assures a stable overall LPG supply, dismissing reports of shortages at petrol pumps and LPG distributors. Over 6.75 lakh 5-kg cylinders have been sold since March 23.",
@@ -385,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/centre-asks-states-to-double-daily-supply-of-5-kg-lpg-cylinders-for-migrant-workers-says-no-shortage-reported/articleshow/130088048.cms",
     "time": "2026-04-07T13:21:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ram Temple-like public awareness needed to end cow slaughter: Mohan Bhagwat",
-    "desc": "RSS chief Mohan Bhagwat urged public devotion to cows, suggesting it would end slaughter, drawing parallels to the Ram Temple movement. He advocated for supporting cow shelters and emphasized that public sentiment drives systemic change. Bhagwat also expressed confidence in India becoming a global leader, guided by spiritual values and compassion.",
-    "img": "https://static.toiimg.com/photo/msid-130087580,imgsize-283940.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ram-temple-like-public-awareness-needed-to-end-cow-slaughter-mohan-bhagwat/articleshow/130087416.cms",
-    "time": "2026-04-07T12:58:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -439,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-dont-feel-judged-or-abused-when-im-vulnerable-says-janhvi-kapoor-on-love-with-shikhar-pahariya-calls-him-safe-space/articleshow/130086913.cms",
     "time": "2026-04-07T12:35:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Relevant for political debate, not for removal proceedings': Rajya Sabha chairman rejects opposition's notice to remove CEC",
-    "desc": "Rajya Sabha chairman CP Radhakrishnan has rejected the opposition's motion to remove Chief Election Commissioner Gyanesh Kumar. He stated that while the allegations are relevant for political discussion, they do not meet the constitutional threshold for removal proceedings. The Speaker of the Lok Sabha also dismissed a similar notice.",
-    "img": "https://static.toiimg.com/photo/msid-130086728,imgsize-826213.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/relevant-for-political-debate-not-for-removal-proceedings-rajya-sabha-chairman-rejects-opposition-notice-to-remove-cec/articleshow/130086357.cms",
-    "time": "2026-04-07T12:25:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -520,24 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/crores-paid-for-ipl-commitment-missing-gavaskars-savage-swipe-at-overseas-stars/articleshow/130083302.cms",
     "time": "2026-04-07T10:21:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tamil romantic movies that define generations",
-    "desc": "Tamil cinema boasts a rich history of romantic dramas. Films like Moondram Pirai, Bombay, Poove Unakkaga, Alaipayuthey, and 96 have left a lasting impact. These movies, known for their emotional depth and relatable stories, continue to resonate with audiences. Other popular titles like Vinnaithaandi Varuvaayaa and Minnale also showcase the enduring appeal of love stories in Tamil cinema.",
-    "img": "https://static.toiimg.com/photo/msid-130082556,imgsize-172020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/moondram-pirai-to-96-tamil-romantic-movies-that-define-generations/articleshow/130082556.cms",
-    "time": "2026-04-07T09:40:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "T. Rajendar questions the halt of Silambarasan 'Arasan' shoot",
-    "desc": "Veteran filmmaker T. Rajendar has questioned the halt of Silambarasan TR's film 'Arasan,' directed by Vetrimaaran. He seeks a fair resolution, citing a previous legal judgment in favor of his son regarding financial matters with producer Ishari K. Ganesh. Rajendar emphasizes the need for dialogue and a peaceful solution that respects the court's decision and supports all stakeholders.",
-    "img": "https://static.toiimg.com/photo/msid-130082443,imgsize-111106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/t-rajendar-questions-the-halt-of-the-arasan-shoot-veteran-filmmaker-seeks-fair-resolution-for-silambarasan/articleshow/130082443.cms",
-    "time": "2026-04-07T09:35:59.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
   }
 ];

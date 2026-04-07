@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Yashasvi Jaiswal, bowlers help Rajasthan Royals thump Mumbai Indians by 27 runs in rainy Guwahati",
+    "desc": "Rajasthan Royals have continued their winning run in the ongoing edition of the Indian Premier League. They defeated the five-time champions Mumbai Indians at the Barsapara Stadium in Guwahati in an 11-over shootout by 27...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-bowlers-help-rajasthan-royals-thump-mumbai-indians-by-27-runs-in-rainy-guwahati-2026-04-08-1036684",
+    "time": "2026-04-07T19:15:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When will CSK talisman return to action from calf issue in IPL 2026?",
     "desc": "MS Dhoni has been out of action ever since the start of the Indian Premier League 2026. The Chennai Super Kings star has missed all of his team's opening three games in the tournament as...",
     "img": "",
@@ -64,7 +73,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Mumbai in huge trouble in 151 chase against Royals",
+    "title": "Rajasthan Royals register hat-trick of wins with win over Mumbai",
     "desc": "Unbeaten Rajasthan Royals host upbeat Mumbai Indians in the 13th match of the Indian Premier League 2026 at the Barsapara Cricket Stadium, Guwahati, on Tuesday, April 7. The Guwahati weather is in focus. Rain came down...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ultimate-test-awaits-teenage-sensation-vaibhav-sooryavanshi-as-jasprit-bumrah-challenge-beckons-in-rr-mi-ipl-2026-clash-2026-04-07-1036643",
     "time": "2026-04-07T11:37:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aminul Bulbul removed as BCB president after T20 World Cup fiasco, Tamim Iqbal to serve as interim head",
-    "desc": "A major administrative shake-up has unfolded in Bangladesh cricket, with the National Sports Council stepping in to restructure the leadership of BCB. The move comes shortly after discussions around resuming bilateral cricket ties with India,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aminul-bulbul-removed-as-bcb-president-after-t20-world-cup-fiasco-tamim-iqbal-to-serve-as-interim-head-2026-04-07-1036640",
-    "time": "2026-04-07T11:15:01.000Z"
   }
 ];
