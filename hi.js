@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Player battles to watch out for IPL 2026 Match 13",
+    "desc": "Rajasthan Royals are set to face Mumbai Indians in the 13th match of the Indian Premier League (IPL) today at the Barsapara Stadium in Guwahati. The Royals have got off to a brilliant start in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-mi-player-battles-to-watch-out-for-ipl-2026-match-13-2026-04-07-1036587",
+    "time": "2026-04-07T05:47:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will rain play spoilsport again?",
     "desc": "Unseasonal rains have grappled several parts of India and the KKR vs PBKS clash became the first match of the ongoing IPL 2026 season to get washed out on Monday. Rajasthan Royals are set to...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-varun-chakravarthy-not-playing-for-kkr-in-crucial-pbks-ipl-2026-clash-at-eden-gardens-kolkata-2026-04-06-1036513",
     "time": "2026-04-06T13:54:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Sunil Narine not playing in KKR vs PBKS IPL 2026 clash? Ajinkya Rahane reveals",
-    "desc": "Sunil Narine missed out as the Kolkata Knight Riders host the Punjab Kings in their third match of the Indian Premier League 2026 at the Eden Gardens on Monday, April 6. During the toss, KKR...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-sunil-narine-not-playing-in-kkr-vs-pbks-ipl-2026-clash-ajinkya-rahane-reveals-2026-04-06-1036512",
-    "time": "2026-04-06T13:42:37.000Z"
   }
 ];

@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "કઈંક મોટું થવાના એંધાણ! ટ્મ્પની ધમકીઓ બાદ આકાશમાં જોવા મળ્યું ડૂમ્સડે પ્લેન, શું કયામતની રાત ઢૂંકડી છે?",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચે ચાલી રહેલું યુદ્ધ ભીષણ થશે કે પછી યુદ્ધવિરામ અમલમાં આવશે? ટ્રમ્પની ધમકીઓ અને ઈરાનની વળતી ધમકીઓ કઈક અલગ જ મિજાજ દર્શાવે છે. પરંતુ આ બધા વચ્ચે અમેરિકાનું ડૂમ્સડે પ્લેન જોવા મળતા ખળભળાટ મચી ગયો છે. જાણો આ ડૂમ્સડે પ્લેન શું છે અને તે ક્યારે જોવા મળે છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/explainer-why-people-fear-about-doomsday-plane-that-spotted-near-us-nuclear-war-command-center-471834 ",
+    "time": "2026-04-07T06:23:22.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "23 સિક્સ અને 11 ચોગ્ગા... T20 મેચમાં 258 રનની ભાગીદારી, આ ખેલાડીઓએ રચ્યો ઈતિહાસ",
     "desc": "આઈપીએલના ઈતિહાસમાં સૌથી મોટી ભાગીદારી વિશે વાત કરીએ તો વિરાટ કોહલી અને એબી ડિવિલિયર્સનો રેકોર્ડ જોવા મળે છે. વર્ષ 2016મા બંને વચ્ચે 229 રનની ભાગીદારી જોવા મળી હતી. પરંતુ ટી20મા એક રેકોર્ડ એવો છે, જેની સામે આ બંનેની ભાગીદારી ફિક્કી લાગશે.",
@@ -412,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/netflix-upcoming-hindi-film-toaster-trailer-released-here-is-streaming-date-471509 ",
     "time": "2026-04-04T13:46:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "22 હજારનો પગાર શું તમને બનાવી શકે છે કરોડપતિ? જાણો 4.8 કરોડના ફંડની આખી ગણતરી",
-    "desc": "રોકાણની સફરમાં તમારે કેટલીક વાતો મનમાં ગાંઠ બાંધી લેવી જોઈએ. જેમ કે બજારના ઉતાર-ચઢાવ છતાં રોકાણ અટકાવવું જોઈએ નહીં. જો તમે શિસ્તબદ્ધ રીતે દર મહિને પૈસા લગાવો છો, તો નિવૃત્તિ (Retirement) સમયે કરોડોનું ફંડ એકઠું કરી શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/can-a-salary-of-22-thousand-make-you-a-millionaire-know-the-complete-calculation-of-4-8-crore-fund-471501 ",
-    "time": "2026-04-04T12:49:54.000Z"
   },
   {
     "cat": "Sports",
