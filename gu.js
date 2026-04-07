@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "6 બોલમાં 6 વિકેટ લેનાર બોલર, ક્રિકેટના ઈતિહાસનો &amp;#039;અતૂટ&amp;#039; રેકોર્ડ, જાણો કોણે કર્યો આ કરિશ્મા",
+    "desc": "ક્રિકેટના ઈતિહાસમાં એવા રેકોર્ડ બન્યા છે, જેણે બધાને ચોંકાવી દીધા છે. કોઈ ખેલાડીએ 100 સદી ફટકારી છે, તો કોઈએ ટેસ્ટમાં 800 વિકેટ મેળવી છે. શું તમે તે ખેલાડી વિશે જાણો છો જેણે એક ઓવરમાં સૌથી વધુ વિકેટ લીધી છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/6-wickets-in-6-balls-aled-carey-and-gareth-morgan-cricket-unique-records-471867 ",
+    "time": "2026-04-07T09:13:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોના-ચાંદીમાં આજે કડાકો, ઓલટાઈમ હાઈથી સોનું 30000 અને ચાંદી 1.87 લાખ સસ્તા થયા, જાણો આજનો રેટ",
+    "desc": "સોના અને ચાંદીમાં આજે વાયદા બજાર અને રિટેલ બજારમાં ઘટાડો જોવા મળ્યો છે. વાયદા બજારમાં સોનું અને ચાંદી ખુલતાની સાથે લાલ નિશાન પર જોવા મળ્યા હતા જ્યારે રિટેલ બજારમાં પણ આજે ઘટાડા સાથે ભાવ ખુલ્યા છે. જો તમે પણ ખરીદી કરવાનું વિચારતા હોવ તો ભાવ ચેક કરો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-cheaper-by-30000-and-silver-by-1-87-lakh-from-all-time-high-know-latest-rate-aaj-no-sona-no-bhav-471848 ",
+    "time": "2026-04-07T07:28:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અસમમાં BJP, બંગાળમાં કાંટાની ટક્કર, તમિલનાડુ-કેરળમાં કોણ આગળ? જુઓ લેટેસ્ટ ઓપિનિયન પોલનું ચોંકાવનારૂ અનુમાન",
+    "desc": "દેશના ચાર રાજ્યો અને એક કેન્દ્ર શાસિત પ્રદેશમાં વિધાનસભાની ચૂંટણી યોજાઈ રહી છે. જેમ-જેમ મતદાન નજીક આવી રહ્યું તેમ-તેમ રાજકીય માહોલ ગરમાઈ રહ્યો છે. બીજીતરફ સામે આવી રહેલા ઓપિનિયન પોલના આંકડા પણ ચોંકાવી રહ્યાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/tamil-nadu-west-bengal-kerala-assam-assembly-elections-2026-latest-opinion-poll-which-party-will-form-government-471847 ",
+    "time": "2026-04-07T07:16:59.000Z"
+  },
+  {
     "cat": "World",
     "title": "કઈંક મોટું થવાના એંધાણ! ટ્મ્પની ધમકીઓ બાદ આકાશમાં જોવા મળ્યું ડૂમ્સડે પ્લેન, શું કયામતની રાત ઢૂંકડી છે?",
     "desc": "ઈરાન અને અમેરિકા વચ્ચે ચાલી રહેલું યુદ્ધ ભીષણ થશે કે પછી યુદ્ધવિરામ અમલમાં આવશે? ટ્રમ્પની ધમકીઓ અને ઈરાનની વળતી ધમકીઓ કઈક અલગ જ મિજાજ દર્શાવે છે. પરંતુ આ બધા વચ્ચે અમેરિકાનું ડૂમ્સડે પ્લેન જોવા મળતા ખળભળાટ મચી ગયો છે. જાણો આ ડૂમ્સડે પ્લેન શું છે અને તે ક્યારે જોવા મળે છે?",
@@ -565,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/petrol-and-diesel-prices-hike-around-the-world-prices-have-doubled-in-many-countries-but-why-are-they-still-stable-in-india-know-471367 ",
     "time": "2026-04-03T11:48:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "એક IPL મેચના આયોજનમાં કેટલો ખર્ચ આવે છે? જાણીને ઉડી જશે હોશ",
-    "desc": "BCCI દ્વારા આયોજીત આઈપીએલ વિશ્વની સૌથી મોટી ટી20 ક્રિકેટ લીગ છે. વિશ્વભરના ખેલાડીઓ આ લીગમાં રમવા આવે છે. 2008થી શરૂ થયેલી આ લીગની લોકપ્રિયતા સતત વધી રહી છે, પરંતુ શું તમે જાણો છો કે આઈપીએલની એક મેચનું આયોજન કરવામાં કેટલા રૂપિયાનો ખર્ચ આવે છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-one-match-cost-player-fee-operational-and-stadium-costs-check-full-details-471365 ",
-    "time": "2026-04-03T11:21:24.000Z"
   },
   {
     "cat": "Tech",

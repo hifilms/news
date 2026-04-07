@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "বিশ্বের সবচেয়ে বড় শিল্প শহর ধ্বংস: ইরানের ভয়াবহ হামলায় কাতরাচ্ছে সৌদি আরব, বৃষ্টির মত ধেয়ে এল মুহুর্মুহু মিসাইল",
+    "desc": "এই হামলার পর ইরান ও মার্কিন-ইসরায়েল যুদ্ধ এক চরম উত্তেজনার মুখে দাঁড়িয়েছে। মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প হুমকি দিয়েছেন যে, ইরান যদি 'হরমুজ প্রণালী'র নিয়ন্ত্রণ ছেড়ে না দেয়, তবে দেশটির সমস্ত ব্রিজ ও বিদ্যুৎ উৎপাদন কেন্দ্রে বোমা হামলা চালানো হবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/iran-attacks-saudi-arabias-largest-industrial-hub_647798.html ",
+    "time": "2026-04-07T09:18:43.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel-USA War: ম্যাপ থেকে মুছে দেওয়ার টাইমও জানিয়ে দিলেন ট্রাম্প: পরমাণু কেন্দ্রে আক্রমণ, জেন-জ়ি মানবপ্রাচীর গড়ে আত্মরক্ষায় ইরান",
+    "desc": "মধ্যপ্রাচ্যের ভূ-রাজনীতি অর্থাত্‍ ইরান-ইসরায়েল-আমেরিকা যুদ্ধ এই চরম মুহূর্তে চরম পরিস্থিতির মধ্যে দিয়ে যাচ্ছে। প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের হুঁশিয়ারি এবং হরমুজ প্রণালীকে কেন্দ্র করে ইরান ও আমেরিকার মধ্যে যে সংঘাতের আবহ তৈরি হয়েছে, তা বিশ্বশান্তির অন্তরায় হয়ে দাঁড়িয়েছে। বিশেষ করে ৭ এপ্রিল পরিস্থিতির ভয়াবহতা আরও বৃদ্ধি পেয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/iran-human-chain-power-plants-trump-deadline-destroy-bridges-power-plants-4-hours-war-threat_647781.html ",
+    "time": "2026-04-07T07:35:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "নেতাহীন ইরান, খামেইনি-পুত্র মুজতবা কোমায়: যেকোনও সময় মৃত্যু",
+    "desc": "ইরানের আকাশে ঘনীভূত হচ্ছে কালো মেঘ! গোয়েন্দা রিপোর্ট বলছে, সুপ্রিম লিডার মুজতবা খামেনি বর্তমানে অচেতন এবং আশঙ্কাজনক অবস্থায় চিকিৎসাধীন। ঠিক এমন সময় ডোনাল্ড ট্রাম্পের হুঙ্কার— \"হয় চুক্তি করো, নয়তো প্রস্তর যুগে ফেরার প্রস্তুতি নাও।\" তেহরানের মসনদে কি তবে বড় কোনো বদল আসতে চলেছে? কী হতে চলেছে ইরানের ভবিষ্যৎ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/iran-supreme-leader-mojtaba-khamenei-unconscious-trump-ultimatum_647779.html ",
+    "time": "2026-04-07T07:27:37.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "রাহুলের মৃত্যুতে কর্মবিরতি টলিউডে, টেকনিশিয়ানদের পাশে দাঁড়াতে বড় সিদ্ধান্ত জীতু কমলের",
     "desc": "মর্মান্তিক দুর্ঘটনায় রাহুল অরুণোদয় বন্দ্যোপাধ্যায়ের মৃত্যুতে স্তব্ধ টলিপাড়া। নিরাপত্তার দাবিতে ডাক দেওয়া হয়েছে কর্মবিরতির। কিন্তু শুটিং বন্ধ থাকলে টেকনিশিয়ানদের হাঁড়ি চড়বে কী করে? তাঁদের কথা ভেবেই এবার ঢাল হয়ে দাঁড়ালেন অভিনেতা জীতু কমল। বড় ঘোষণা জীতুর—যতদিন কাজ বন্ধ, টেকনিশিয়ানদের পেমেন্ট দেবেন তিনি\" অভিনেতার এই মানবিকতাকে কুর্নিশ জানাচ্ছে নেটপাড়া।",
@@ -178,23 +205,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunodoy-banerjee-death-saurav-palodhi-theatre-future-update_647237.html ",
     "time": "2026-04-03T09:26:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel war: যুদ্ধের ভয়ংকর VDO :দুবাইয়ে দুনিয়া কাঁপানো IT সংস্থার বিরাট অফিসে ইরানের করাল ড্রোন হানা, তোলপাড়",
-    "desc": "Oracle Office In Dubai Hit In Iran Strikes? ইরানের পক্ষ থেকে এই দাবি করার পর মধ্যপ্রাচ্যের ডিজিটাল পরিকাঠামো ভেঙে পড়ার গুঞ্জন শুরু হয়। তবে দুবাই সরকার এবং সংযুক্ত আরব আমিরশাহির মিডিয়া অফিস (Dubai Media Office) এই খবরের সত্যতা যাচাই করে বক্তব্য রাখেন ।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/oracle-office-dubai-iran-strike-operation-true-promise-4-uae-denies_647226.html ",
-    "time": "2026-04-03T08:12:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

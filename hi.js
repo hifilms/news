@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will surface in Guwahati play for IPL 2026 play?",
+    "desc": "Rajasthan Royals are set to host Mumbai Indians at the Barsapara Cricket Stadium in Guwahati on April 7. With two back-to-back wins, the Riyan Parag-led side will be confident of their chances but playing Mumbai...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-mi-pitch-report-how-will-surface-in-guwahati-play-for-ipl-2026-play-2026-04-07-1036615",
+    "time": "2026-04-07T09:14:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Can Rohit Sharma battle past his nemesis in Rajasthan Royals bowling line-up to score big for Mumbai Indians?",
+    "desc": "Rohit Sharma has played 274 matches in the Indian Premier League (IPL) and will take the field for the 275th time today against the Rajasthan Royals. His only aim in this clash would be to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/can-rohit-sharma-battle-past-his-nemesis-in-rajasthan-royals-bowling-line-up-to-score-big-for-mumbai-indians-2026-04-07-1036609",
+    "time": "2026-04-07T08:41:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Player battles to watch out for IPL 2026 Match 13",
     "desc": "Rajasthan Royals are set to face Mumbai Indians in the 13th match of the Indian Premier League (IPL) today at the Barsapara Stadium in Guwahati. The Royals have got off to a brilliant start in...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/matheesha-pathirana-and-wanindu-hasaranga-update-when-can-sri-lankan-stars-join-ipl-2026-2026-04-06-1036523",
     "time": "2026-04-06T15:36:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SRH likely to write to BCCI over controversial calls in IPL 2026",
-    "desc": "Sunrisers Hyderabad are likely to write to the Board of Control for Cricket in India (BCCI) over the recent controversies in the Indian Premier League 2026, a report in Cricbuzz stated. The latest addition to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/srh-likely-to-write-to-bcci-over-controversial-calls-in-ipl-2026-2026-04-06-1036517",
-    "time": "2026-04-06T14:31:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Varun Chakravarthy not playing for KKR in crucial PBKS IPL 2026 clash at Eden Gardens, Kolkata?",
-    "desc": "Kolkata Knight Riders were dealt two blows as they lock horns against Punjab Kings in their third clash in the Indian Premier League 2026 on Monday, April 6. KKR, who lost their opening two matches...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-varun-chakravarthy-not-playing-for-kkr-in-crucial-pbks-ipl-2026-clash-at-eden-gardens-kolkata-2026-04-06-1036513",
-    "time": "2026-04-06T13:54:20.000Z"
   }
 ];
