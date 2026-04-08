@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Hardik Pandya lauds Vaibhav Sooryavanshi after his blitzkrieg vs MI, 'quite fascinating to see him'",
+    "desc": "Vaibhav Sooryavanshi continues to be the talking point in the ongoing edition of the Indian Premier League (IPL). The 15-year-old is showing signs of stopping as he even took on the likes of Jasprit Bumrah...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-lauds-vaibhav-sooryavanshi-after-his-blitzkrieg-vs-mi-quite-fascinating-to-see-him-2026-04-08-1036717",
+    "time": "2026-04-08T04:01:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will rain interrupt play again?",
+    "desc": "The ongoing Indian Premier League (IPL) is suffering from iffy weather across several states in the country. For the last two days, rain is playing spoilsport with the KKR vs PBKS clash in Kolkata getting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-delhi-weather-today-for-dc-vs-gt-ipl-2026-clash-at-arun-jaitley-stadium-will-rain-interrupt-play-again-2026-04-08-1036709",
+    "time": "2026-04-08T02:35:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Will Jacks not playing Mumbai Indians in IPL 2026? Head coach Mahela Jayawardene reveals reason",
+    "desc": "The Mumbai Indians seem to have lost their way after winning their opening match of the IPL season, ending a 14-year drought. They have lost two consecutive matches since then, with the latest defeat coming...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-will-jacks-not-playing-mumbai-indians-in-ipl-2026-head-coach-mahela-jayawardene-reveals-reason-2026-04-08-1036706",
+    "time": "2026-04-08T02:16:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Updated points table after RR vs MI IPL 2026 clash as Rajasthan Royals register hat-trick of wins",
     "desc": "Rajasthan Royals jumped to the top of the IPL 2026 points table on Tuesday after an authoritative 27-run win over five-time champions Mumbai Indians at the Barsapara Stadium in Guwahati. It was set up by...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-remains-confident-of-returning-to-form-soon-amid-lean-patch-in-ipl-2026-2026-04-07-1036667",
     "time": "2026-04-07T15:15:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will Mitchell Starc join Delhi Capitals for IPL 2026? DC coach shares update",
-    "desc": "Mitchell Starc is yet to join the Delhi Capitals squad for the IPL 2026. He hasn’t played a competitive game since the end of the Big Bash League and was on course to join DC...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-will-mitchell-starc-join-delhi-capitals-for-ipl-2026-dc-coach-shares-update-2026-04-07-1036663",
-    "time": "2026-04-07T14:47:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Shubman Gill play tomorrow for Gujarat Titans? Sai Sudharsan shares major update",
-    "desc": "Gujarat Titans captain Shubman Gill is set to make his return to the playing XI in the clash against Delhi Capitals at the Arun Jaitley Stadium. The India opener missed the game against Rajasthan Royals...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-shubman-gill-play-tomorrow-for-gujarat-titans-sai-sudharsan-shares-major-update-2026-04-07-1036655",
-    "time": "2026-04-07T13:35:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals register hat-trick of wins with win over Mumbai",
-    "desc": "Unbeaten Rajasthan Royals host upbeat Mumbai Indians in the 13th match of the Indian Premier League 2026 at the Barsapara Cricket Stadium, Guwahati, on Tuesday, April 7. The Guwahati weather is in focus. Rain came down...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-mi-ipl-2026-live-cricket-score-rajasthan-royals-vs-mumbai-indians-barsapara-cricket-stadium-guwahati-weather-latest-match-updates-scorecard-2026-04-07-1036648",
-    "time": "2026-04-07T12:05:52.000Z"
   }
 ];
