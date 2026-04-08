@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Updated points table after RR vs MI IPL 2026 clash as Rajasthan Royals register hat-trick of wins",
+    "desc": "Rajasthan Royals jumped to the top of the IPL 2026 points table on Tuesday after an authoritative 27-run win over five-time champions Mumbai Indians at the Barsapara Stadium in Guwahati. It was set up by...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/updated-points-table-after-rr-vs-mi-ipl-2026-clash-as-rajasthan-royals-register-hat-trick-of-wins-2026-04-08-1036699",
+    "time": "2026-04-08T01:49:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Yashasvi Jaiswal, bowlers help Rajasthan Royals thump Mumbai Indians by 27 runs in rainy Guwahati",
     "desc": "Rajasthan Royals have continued their winning run in the ongoing edition of the Indian Premier League. They defeated the five-time champions Mumbai Indians at the Barsapara Stadium in Guwahati in an 11-over shootout by 27...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-mi-ipl-2026-live-cricket-score-rajasthan-royals-vs-mumbai-indians-barsapara-cricket-stadium-guwahati-weather-latest-match-updates-scorecard-2026-04-07-1036648",
     "time": "2026-04-07T12:05:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ultimate test awaits teenage sensation Vaibhav Sooryavanshi as Jasprit Bumrah challenge beckons in RR-MI clash",
-    "desc": "Young sensation Vaibhav Sooryavanshi will face his biggest test so far when he will be pitted against modern-day great Jasprit Bumrah in the upcoming clash between the Rajasthan Royals and the Mumbai Indians at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ultimate-test-awaits-teenage-sensation-vaibhav-sooryavanshi-as-jasprit-bumrah-challenge-beckons-in-rr-mi-ipl-2026-clash-2026-04-07-1036643",
-    "time": "2026-04-07T11:37:48.000Z"
   }
 ];
