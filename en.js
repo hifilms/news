@@ -1,6 +1,87 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Sabarimala PIL was entertained in 2006, but would have been dismissed now: Supreme Court",
+    "desc": "The Supreme Court expressed concern over the misuse of Public Interest Litigation for personal agendas, suggesting it would have dismissed a PIL challenging the Sabarimala custom. Justices noted that such challenges, if not brought by devotees, lack cause of action. The court emphasized the need for strict locus standi rules to prevent PIL abuse, especially in religious matters.",
+    "img": "https://static.toiimg.com/photo/msid-130124088,imgsize-714628.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sabarimala-pil-was-entertained-in-2006-but-would-have-been-dismissed-now-supreme-court/articleshow/130124084.cms",
+    "time": "2026-04-08T21:20:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war LIVE: Iran President says Lebanon truce a key condition for ending war, state media reports",
+    "desc": "Trump says U.S. will work closely with Iran, ⁠which, he claims, has undergone \"regime change,\" and will be talking ‌about tariff and sanctions relief; he says there would be ‌no enrichment of uranium ​and said many of the 15 points ⁠in the U.S. ⁠plan proposed to Iran have been ‌agreed to",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-8-2026/article70836852.ece",
+    "time": "2026-04-08T21:05:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RGV recalls Sunny Leone’s response, on working with Mia Malkova",
+    "desc": "Filmmaker Ram Gopal Varma has opened up about his views on adult film stars, recalling his interactions with actors like Sunny Leone and Mia Malkova, while pushing back against stereotypes surrounding their profession. In a recent conversation, RGV said that while he doesn’t generalise, his personal experiences with some adult film stars have left him impressed with their “grace” and “dignity”.",
+    "img": "https://static.toiimg.com/photo/msid-130123966,imgsize-91268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-recalls-sunny-leones-dignified-response-to-a-bad-experience-on-working-with-mia-malkova-people-assume-excess/articleshow/130123966.cms",
+    "time": "2026-04-08T20:58:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ranveer feels like a different person after Dhurandhar,' reveals Manav Gohil",
+    "desc": "Ranveer Singh's 'Dhurandhar' franchise has achieved historic box office success, with the sequel still dominating conversations. Co-star Manav Gohil observes a significant shift in Singh's demeanor, attributing it to his new role as a father and the film's monumental impact. This evolution is reflected in his changed style and media presence, suggesting a more structured approach to his stardom.",
+    "img": "https://static.toiimg.com/photo/msid-130123864,imgsize-39086.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-feels-like-a-different-person-after-dhurandhar-reveals-manav-gohil-says-deepika-padukone-is-a-wise-woman/articleshow/130123851.cms",
+    "time": "2026-04-08T20:26:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India welcomes Pakistan brokered ceasefire, hopes it can lead to peace in Ukraine too",
+    "desc": "India has welcomed a temporary ceasefire in West Asia. The truce, brokered by Pakistan, aims to end a brutal war. India hopes this will lead to lasting peace and ensure global trade flows freely. The government also sees potential for peace efforts in Ukraine. India prioritizes the safety of its diaspora and LPG tanker passage.",
+    "img": "https://static.toiimg.com/photo/msid-130123836,imgsize-1031673.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-welcomes-pakistan-brokered-ceasefire-hopes-it-can-lead-to-peace-in-ukraine-too/articleshow/130123831.cms",
+    "time": "2026-04-08T20:20:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Edappadi K. Palaniswami, the lone star of AIADMK election campaign, steps up his pitch for power",
+    "desc": "The former Chief Minister is the main campaigner for the AIADMK across Tamil Nadu, with a stump speech focused on law and order issues, the State’s finances, concerns of government employees, drug menace, and rising inflation; he also highlights features of the manifesto of his party",
+    "img": "https://th-i.thgim.com/public/incoming/hqelg9/article70839678.ece/alternates/LANDSCAPE_1200/11658_8_4_2026_21_44_15_3_8.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/palaniswami-lone-star-of-the-aiadmk-poll-campaign/article70838381.ece",
+    "time": "2026-04-08T20:13:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mukesh Khanna calls Samay Raina 'kutte ki dum' in scathing attack",
+    "desc": "The controversy surrounding India’s Got Latent has escalated, with veteran actor Mukesh Khanna launching a sharp attack on comedian Samay Raina in a strongly worded social media post. Taking to Instagram, Mukesh Khanna shared a fiery note in Hindi, criticising Samay’s style of comedy and accusing him of insulting his iconic superhero Shaktimaan.",
+    "img": "https://static.toiimg.com/photo/msid-130123611,imgsize-56552.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mukesh-khanna-calls-samay-raina-kutte-ki-dum-in-scathing-attack-over-indias-got-latent-row-uska-munh-kaala-kar-gadhe-par-bitha-kar-/articleshow/130123611.cms",
+    "time": "2026-04-08T19:56:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "There will be expectations, but I am focusing on my work",
+    "desc": "Representing Capitals in his maiden IPL, Nabi, who was the toast of the 2025-26 domestic season as J & K won the Ranji for the first time, will test himself in the world’s biggest T20 league after he was roped in by the franchise for ₹8.4 crore; the medium-pacer from Baramulla opens up on the challenge ahead and the domestic season just gone by",
+    "img": "https://th-i.thgim.com/public/incoming/qswxs0/article70839997.ece/alternates/LANDSCAPE_1200/_DSC1395.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/there-will-be-expectations-but-i-am-focusing-on-my-work/article70839996.ece",
+    "time": "2026-04-08T19:14:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gujarat Titans edge thriller by one run as David Miller’s call costs Delhi Capitals dearly",
+    "desc": "Gujarat Titans secured their first IPL 2026 win with a thrilling one-run victory over Delhi Capitals. Chasing 211, Delhi fell short at 209/8 after David Miller refused a crucial single late. Despite strong knocks from Rahul and Miller, Rashid Khan’s wickets and a last-ball run-out by Jos Buttler sealed a dramatic finish.",
+    "img": "https://static.toiimg.com/photo/msid-130123012,imgsize-53100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-gujarat-titans-edge-thriller-by-one-run-as-david-millers-call-costs-delhi-capitals-dearly/articleshow/130122836.cms",
+    "time": "2026-04-08T19:00:19.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Jammu-Srinagar national highway remains shut for 3rd day",
     "desc": "The Jammu-Srinagar national highway (NH-44) remains closed for the third day due to continuous landslides and heavy rains in Ramban district. Over 400 vehicles are stranded as clearance operations are underway, with authorities advising against travel until the road is fully restored.",
     "img": "https://static.toiimg.com/photo/msid-130122972,imgsize-1111786.cms",
@@ -55,12 +136,21 @@ const newsData_en = [
   },
   {
     "cat": "World",
-    "title": "Iran-Israel war LIVE updates: Iran closes the Strait of Hormuz in response to Israeli attacks on Lebanon, state media reports",
-    "desc": "Trump says U.S. will work closely with Iran, ⁠which, he claims, has undergone \"regime change,\" and will be talking ‌about tariff and sanctions relief; he says there would be ‌no enrichment of uranium ​and said many of the 15 points ⁠in the U.S. ⁠plan proposed to Iran have been ‌agreed to",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "title": "U.S., Iran agree to two-week ceasefire",
+    "desc": "Talks to begin in Islamabad on April 10, based on Tehran’s 10-point proposal; safe passage through Strait of Hormuz in coordination with Iranian armed forces during truce; Israel says Lebanon is not part of the ceasefire",
+    "img": "https://th-i.thgim.com/public/incoming/takgcz/article70836116.ece/alternates/LANDSCAPE_1200/2026-04-07T211037Z_1241134980_RC2VJKADVXZJ_RTRMADP_3_USA-TRUMP-IRAN-CIVILIZATION.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-8-2026/article70836852.ece",
-    "time": "2026-04-08T17:17:49.000Z"
+    "url": "https://www.thehindu.com/news/international/trump-says-he-has-agreed-to-suspend-bombing-and-attack-of-iran-for-two-weeks/article70836115.ece",
+    "time": "2026-04-08T17:56:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vikrant Massey reveals he took a break from movies out of 'dad' guilt",
+    "desc": "Vikrant Massey stepped away from work in late 2024, not due to industry issues, but for his newborn son, Vardaan. He revealed on 'Mom Talks' that 'dad guilt' and a desire to be present for his family, especially after a touching moment with his son, prompted the break.",
+    "img": "https://static.toiimg.com/photo/msid-130121222,imgsize-43340.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikrant-massey-reveals-he-took-a-break-from-movies-for-his-son-vardaan-out-of-paternal-guilt-didnt-know-it-will-become-national-news/articleshow/130121226.cms",
+    "time": "2026-04-08T17:53:44.000Z"
   },
   {
     "cat": "Sports",
@@ -97,15 +187,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-delhi-capital-gujarat-titans-match-updates-april-8/article70839034.ece",
     "time": "2026-04-08T16:06:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "22 lakh voters to reach polling booths in Palakkad",
-    "desc": "Enhanced security measures are in place to ensure a smooth election as 71 candidates from the LDF, UDF, and NDA vie for votes. A total of 2,531 polling stations have been set up, up from 2,112 in the 2021 election.",
-    "img": "https://th-i.thgim.com/public/incoming/9mgwd9/article70839313.ece/alternates/LANDSCAPE_1200/Ballot%20Box_8.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-polls-22-lakh-voters-to-cast-polling-booths-in-palakkad/article70839098.ece",
-    "time": "2026-04-08T15:51:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -243,15 +324,6 @@ const newsData_en = [
     "time": "2026-04-08T13:59:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Complete list of candidates across 30 constituencies",
-    "desc": "Puducherry's 9.5 lakh voters will elect 294 candidates across 30 Assembly seats on April 9. The ruling NDA faces a challenge from the INDIA bloc and actor Vijay's TVK party. Chief Minister N Rangasamy is contesting from two constituencies as all arrangements are in place for the polls.",
-    "img": "https://static.toiimg.com/photo/msid-130115750,imgsize-824305.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/puducherry-assembly-elections-2026-complete-list-of-candidates-across-30-constituencies/articleshow/130115008.cms",
-    "time": "2026-04-08T13:49:46.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Shah Rukh can never act like a villager, Akshay can look like a common man'",
     "desc": "Filmmaker Priyadarshan contrasts Shah Rukh Khan's polished, urban persona with Akshay Kumar's ability to embody the common man. He noted SRK's difficulty relating to rural characters due to his Delhi upbringing, while Akshay's natural body language suits everyday roles. Priyadarshan's own storytelling often explores the humor found in poverty, as seen in 'Hera Pheri'.",
@@ -259,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-can-never-act-like-a-villager-unlike-akshay-kumar-who-can-look-like-a-common-man-says-priyadarshan/articleshow/130115691.cms",
     "time": "2026-04-08T13:44:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Can non-devotees challenge temple customs? SC asks Centre",
-    "desc": "The Supreme Court questioned if non-devotees can challenge Sabarimala Temple customs, highlighting the maintainability of PILs filed by those without a direct connection. The bench considered whether individuals outside a religious denomination should be allowed to question its practices, especially in cases like the Sabarimala women's entry issue.",
-    "img": "https://static.toiimg.com/photo/msid-130115607,imgsize-401660.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sabarimala-case-can-non-devotees-challenge-temple-customs-sc-asks-centre/articleshow/130115614.cms",
-    "time": "2026-04-08T13:39:56.000Z"
   },
   {
     "cat": "Sports",
@@ -369,15 +432,6 @@ const newsData_en = [
     "time": "2026-04-08T11:19:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Survivor alum Monica Culpepper pays tribute to son Rex after his death at 28",
-    "desc": "Monica Culpepper is grieving the tragic loss of her son, Rex, who died at the age of 28 in a dirt bike accident in Florida. The heartbroken former 'Survivor' star shared her feelings of inconsolable sorrow, calling the situation 'unbearable.",
-    "img": "https://static.toiimg.com/photo/msid-130111301,imgsize-87964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/survivor-alum-monica-culpepper-pays-tribute-to-son-rex-after-his-death-at-28/articleshow/130111301.cms",
-    "time": "2026-04-08T11:06:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Headline inflation remains our target, and managing that is our primary goal, says RBI Governor",
     "desc": "RBI policy rate will remain unchanged at 5.25%; Developments in West Asia to widen Current Account Deficit (CAD), says RBI Governor Sanjay Malhotra; the fundamentals of the Indian economy remain on a strong footing, RBI Guv says",
@@ -385,15 +439,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/rbi-monetary-policy-meeting-speech-april-8-2026-live-updates/article70837023.ece",
     "time": "2026-04-08T11:04:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Melissa Gilbert slams parents in explosive audio",
-    "desc": "Melissa Gilbert took a bold stand to support her husband, Timothy Busfield, amidst serious child abuse allegations, branding them as 'despicable' and 'groundless' in a recently surfaced police recording. Facing allegations related to twin boys on a film set, Busfield vehemently denies any wrongdoing, with his legal team alleging that the parents concocted the narrative for financial gain.",
-    "img": "https://static.toiimg.com/photo/msid-130111177,imgsize-120058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/melissa-gilbert-slams-parents-in-explosive-audio-amid-husband-timothy-busfields-abuse-case/articleshow/130111112.cms",
-    "time": "2026-04-08T11:00:40.000Z"
   },
   {
     "cat": "Business",
@@ -432,15 +477,6 @@ const newsData_en = [
     "time": "2026-04-08T10:13:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Streep reflects on time and family",
-    "desc": "At 76, Meryl Streep, while gearing up for 'The Devil Wears Prada 2', emphasizes the preciousness of time, especially with her six grandchildren. She cherishes every fleeting moment, a philosophy that also guides her deliberate approach to her demanding acting career. Streep's focus is on appreciating the present and navigating life's ever-changing landscape.",
-    "img": "https://static.toiimg.com/photo/msid-130109583,imgsize-90928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/76-year-old-meryl-streep-shares-life-lesson-as-a-working-grandmother-ahead-of-the-devil-wears-prada-2-you-cant-get-anything-back/articleshow/130109526.cms",
-    "time": "2026-04-08T10:06:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "CSK star player reveals return date after injury",
     "desc": "Chennai Super Kings may soon welcome back Dewald Brevis, sidelined by a side strain. Head coach Stephen Fleming anticipates his return, potentially for the April 11 clash against Delhi Capitals. Brevis, retained for Rs 2.20 crore, expressed his eagerness to rejoin the team, stating, 'See you guys on the 11th… every match, everywhere we play.",
@@ -448,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-star-player-reveals-return-date-after-injury-watch/articleshow/130109388.cms",
     "time": "2026-04-08T10:04:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajinikanth REACTS to Vijay's 'Jana Nayagan' delay",
-    "desc": "Superstar Rajinikanth spoke to the media at Chennai airport. He declined to comment on Vijay's film 'Jana Nayagan' delay. Rajinikanth urged young people to focus on education and their future. He strongly advised against drugs and alcohol, emphasizing the impact on families. The actor is busy with upcoming projects including 'Jailer 2'.",
-    "img": "https://static.toiimg.com/photo/msid-130108314,imgsize-130214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-reacts-to-vijays-jana-nayagan-delay-jailer-2-actor-shares-advice-for-youth-stay-away-from-drugs/articleshow/130108314.cms",
-    "time": "2026-04-08T09:15:05.000Z"
   },
   {
     "cat": "Business",
@@ -558,15 +585,6 @@ const newsData_en = [
     "time": "2026-04-08T06:37:02.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi to MI next? Ex-India cricketer’s post sparks buzz",
-    "desc": "Teenage sensation Vaibhav Sooryavanshi is creating a stir, with a social media post hinting at a potential future with the Mumbai Indians. The 15-year-old prodigy has rewritten T20 records, becoming the youngest centurion and showcasing a fearless approach against top bowlers like Jasprit Bumrah.",
-    "img": "https://static.toiimg.com/photo/msid-130104786,imgsize-76768.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/vaibhav-sooryavanshi-to-mumbai-indians-next-ex-india-cricketers-post-sparks-buzz/articleshow/130104734.cms",
-    "time": "2026-04-08T06:35:31.000Z"
-  },
-  {
     "cat": "Business",
     "title": "US-Iran war impact: RBI governor flags 5 risks for India from Middle East conflict",
     "desc": "The central bank governor is of the view that this will provide the Indian economy with ‘greater resilience’ to withstand shocks. However, the downside risks to growth projections remain, especially in case of a prolonged West Asia conflict.",
@@ -648,15 +666,6 @@ const newsData_en = [
     "time": "2026-04-07T12:51:21.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran President says 14 million Iranians, including himself, have volunteered to sacrifice their lives in war",
-    "desc": "President Masoud Pezeshkian made the comment on X just ahead of U.S. President Donald Trump’s deadline to bomb power stations and bridges in Iran if it doesn’t loosen its chokehold on the Strait of Hormuz",
-    "img": "https://th-i.thgim.com/public/incoming/54nlj9/article70833521.ece/alternates/LANDSCAPE_1200/AP03_26_2026_000302B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-president-says-14-million-iranians-including-himself-have-volunteered-to-sacrifice-their-lives-in-war/article70833514.ece",
-    "time": "2026-04-07T08:35:05.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Apple's foldable iPhone faces engineering snags, potential shipment delays: Report",
     "desc": "Nikkei had reported ​in January that Apple would focus on delivering its ⁠first foldable iPhone and two non-folding ⁠models with upgraded cameras and larger displays for ‌a flagship launch in the second half of 2026",
@@ -682,15 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/supreme-court-does-not-interfere-with-order-allowing-adani-to-acquire-jal-asks-nclat-to-decide-promptly/article70830205.ece",
     "time": "2026-04-06T13:13:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Export uncertainty hits mango trade, Karnataka farmers explore alternative and local markets",
-    "desc": "Mangoes have already started arriving in Bengaluru, but traders say supplies have not yet reached full capacity. In the next 10 days, more varieties from Andhra Pradesh, Tamil Nadu and parts of Karnataka are expected to arrive",
-    "img": "https://th-i.thgim.com/public/incoming/igoz4o/article70828929.ece/alternates/LANDSCAPE_1200/_KMK7833.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/west-asia-crisis-export-uncertainty-hits-mango-trade-karnataka-farmers-explore-alternative-and-local-markets/article70826433.ece",
-    "time": "2026-04-06T11:58:23.000Z"
   },
   {
     "cat": "Sports",
