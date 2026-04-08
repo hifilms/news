@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Unbeaten Delhi Capitals up against winless Gujarat Titans",
+    "desc": "Delhi Capitals lock horns against Gujarat Titans at their home at the Arun Jaitley Stadium on Wednesday, April 8, as the Delhi weather stays in focus. The two teams come into this clash on the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-gt-ipl-2026-live-cricket-score-delhi-capitals-vs-gujarat-titans-arun-jaitley-stadium-weather-updates-scorecard-teams-playing-xis-highlights-2026-04-08-1036782",
+    "time": "2026-04-08T12:40:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi breaks Ishan Kishan, Rishabh Pant's record during onslaught vs Mumbai Indians",
+    "desc": "At 15 years of age, Vaibhav Sooryavanshi smacked Jasprit Bumrah for a six in the latter’s first ball in the match between Rajasthan Royals and Mumbai Indians in Guwahati. Against a much stronger bowling unit,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-breaks-ishan-kishan-rishabh-pant-s-record-during-onslaught-vs-mumbai-indians-in-ipl-2026-2026-04-08-1036779",
+    "time": "2026-04-08T11:52:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dewald Brevis reveals comeback date for CSK in IPL 2026 after side strain injury",
+    "desc": "Chennai Super Kings are set to receive a major boost in their Indian Premier League 2026 campaign as Dewald Brevis has hinted at his comeback date. Brevis was sidelined for all the first three matches...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dewald-brevis-reveals-comeback-date-for-csk-in-ipl-2026-after-side-strain-injury-watch-2026-04-08-1036776",
+    "time": "2026-04-08T11:38:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How surface at Arun Jaitley Stadium will play for this clash?",
+    "desc": "Delhi Capitals will host Gujarat Titans in the 14th match of the Indian Premier League 2026. Both teams have contrasting beginnings to their IPL 2026 campaigns. DC opened with two consecutive wins, while the Titans...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-gt-ipl-2026-pitch-report-how-surface-at-arun-jaitley-stadium-will-play-for-this-clash-2026-04-08-1036769",
+    "time": "2026-04-08T10:59:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cameron Green set to resume bowling in KKR's next clash against LSG in IPL 2026: Report",
+    "desc": "Kolkata Knight Riders paid a hefty fee of INR 25.2 crore to secure the services of Cameron Green in the Indian Premier League (IPL). However, the Australia international hasn’t delivered as per the expectations and,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cameron-green-set-to-resume-bowling-in-kkr-s-next-clash-against-lsg-in-ipl-2026-report-2026-04-08-1036767",
+    "time": "2026-04-08T10:41:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 Player battles to watch out for in IPL 2026 Match 14",
     "desc": "The 14th match of the ongoing Indian Premier League (IPL) season will see Delhi Capitals and Gujarat Titans lock horns at the Arun Jaitley Stadium in New Delhi. The teams have got off to contrasting...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-will-jacks-not-playing-mumbai-indians-in-ipl-2026-head-coach-mahela-jayawardene-reveals-reason-2026-04-08-1036706",
     "time": "2026-04-08T02:16:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Updated points table after RR vs MI IPL 2026 clash as Rajasthan Royals register hat-trick of wins",
-    "desc": "Rajasthan Royals jumped to the top of the IPL 2026 points table on Tuesday after an authoritative 27-run win over five-time champions Mumbai Indians at the Barsapara Stadium in Guwahati. It was set up by...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/updated-points-table-after-rr-vs-mi-ipl-2026-clash-as-rajasthan-royals-register-hat-trick-of-wins-2026-04-08-1036699",
-    "time": "2026-04-08T01:49:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yashasvi Jaiswal, bowlers help Rajasthan Royals thump Mumbai Indians by 27 runs in rainy Guwahati",
-    "desc": "Rajasthan Royals have continued their winning run in the ongoing edition of the Indian Premier League. They defeated the five-time champions Mumbai Indians at the Barsapara Stadium in Guwahati in an 11-over shootout by 27...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-bowlers-help-rajasthan-royals-thump-mumbai-indians-by-27-runs-in-rainy-guwahati-2026-04-08-1036684",
-    "time": "2026-04-07T19:15:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will CSK talisman return to action from calf issue in IPL 2026?",
-    "desc": "MS Dhoni has been out of action ever since the start of the Indian Premier League 2026. The Chennai Super Kings star has missed all of his team's opening three games in the tournament as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-injury-update-when-will-csk-talisman-return-to-action-from-calf-issue-in-ipl-2026-2026-04-08-1036682",
-    "time": "2026-04-07T18:33:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "5 fearless prodigies who have hogged the limelight in IPL 2026 feat. Sooryavanshi, Rizvi",
-    "desc": "Prodigies have always been the talk of the town in the Indian Premier League. Over the past few years, several youngsters have taken the cricketing world by storm and have become headlines overnight, although they...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/5-fearless-prodigies-who-have-hogged-the-limelight-in-ipl-2026-feat-sooryavanshi-rizvi-2026-04-07-1036679",
-    "time": "2026-04-07T18:17:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch UCL clash on TV and stream online in India?",
-    "desc": "In the quarter-final of the UEFA Champions League 2025-26, Spanish giants Real Madrid will host German champions Bayern Munich at the Santiago Bernabeu. Famously known as the European classico, the match promises a scintillating battle...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/real-madrid-vs-bayern-munich-live-when-and-where-to-watch-uefa-champions-league-clash-on-tv-and-stream-online-in-india-2026-04-07-1036669",
-    "time": "2026-04-07T15:33:33.000Z"
   }
 ];

@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "યુદ્ધવિરામની અસર! તેલ, ગેસ, ખોરાકથી લઈને ફ્લાઇટ ટિકિટ સુધી, જાણો શું અને ક્યારે થશે સસ્તું ?",
+    "desc": "ઈરાન-અમેરિકા યુદ્ધવિરામ બાદ, કાચા તેલના ભાવમાં ઘટાડો થયો છે. આનાથી પેટ્રોલ, ડીઝલ, ગેસ, રાશન, ફ્લાઇટ ટિકિટ અને રોજિંદા વસ્તુઓ સસ્તી થવાની આશા જાગી છે. જો યુદ્ધવિરામનું ઉલ્લંઘન નહીં થાય, તો તેની અસર ધીમે ધીમે તમારા ખિસ્સા પર પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/impact-of-ceasefire-from-oil-gas-food-to-flight-tickets-know-what-will-become-cheaper-and-when-472065 ",
+    "time": "2026-04-08T12:48:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "4,000થી વધુ મોત, 54.88 લાખ કરોડ સ્વાહા... ઈરાન અને અમેરિકા-ઈઝરાયેલ યુદ્ધથી કોણ થયું સૌથી વધુ બરબાદ?",
+    "desc": "ઈરાન-ઈઝરાયેલ અને અમેરિકા યુદ્ધની અસર ડાયરેક્ટ અને ઈનડાયરેક્ટ રીતે આખી દુનિયા પર પડી રહી છે. યુદ્ધને કારણે પેટ્રોલિયમ ઉત્પાદોના પુરવઠામાં ઘટાડો થયો છે. ઈકોનોમિક રિસર્ચ ફર્મ સોલએબિલિટી અનુસાર, જો આ યુદ્ધથી દુનિયાને 3.5 ટ્રિલિયન ડોલર (આશરે 290 લાખ કરોડ રૂપિયા)નું નુકસાન થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/4000-deaths-54-88-lakh-crore-wiped-out-who-suffers-the-most-ruin-from-the-iran-us-israel-conflict-472064 ",
+    "time": "2026-04-08T12:43:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "7 રનમાં ઓલઆઉટ થઈ ગઈ આખી ટીમ, T20 ઇતિહાસનો સૌથી શરમજનક રેકોર્ડ",
+    "desc": "ક્રિકેટ એટલી રોમાંચક રમત છે કે ગમે ત્યારે ગમે તે થઈ શકે છે. તે અનિશ્ચિતતાઓનો ખેલ છે. એકવાર ક્રિકેટના મેદાન પર કંઈક આવું જ બન્યું કે દર્શકો પણ સ્તબ્ધ થઈ ગયા હતા. એક T20 આંતરરાષ્ટ્રીય મેચમાં એક વખત આખી ટીમ ફક્ત 7 રનમાં ઓલઆઉટ થઈ ગઈ હતી. આ અશક્ય લાગતો રેકોર્ડ ખરેખર ક્રિકેટના મેદાન પર બન્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/lowest-total-in-t20-ivory-coast-team-all-out-on-just-7-runs-472038 ",
+    "time": "2026-04-08T11:35:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "અદાણી ગ્રુપના આ શેરમાં તોફાની તેજી ! USથી આવ્યા સારા સમાચાર અને 13%નો ઉછાળો, શું આ રોકાણ કરવાનો યોગ્ય સમય છે?",
+    "desc": "US કોર્ટ દ્વારા અરજી સ્વીકાર કર્યા બાદ અદાણી ગ્રુપની શેરમાં 13 %ની જોરદાર તેજી જોવા મળી છે, આ યોજીટિવ સંકેતથી રોકાણકારોનો ભરોસો વધ્યો છે, હવે આગળની દિશા કોર્ટના અંતિમ નિર્ણય અને બજારમાં માહોલ પર નિર્ભર રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/adani-group-shares-surge-in-price-good-news-from-us-and-13-percent-jump-is-now-the-right-time-to-invest-472037 ",
+    "time": "2026-04-08T11:20:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આઉટ થયા પછી કેમ રડવા લાગ્યો વૈભવ સૂર્યવંશી, ઈનસાઈડ વીડિયો થયો વાયરલ",
+    "desc": "મુંબઈ ઈન્ડિયન્સ સામે આઉટ થયા પછી પેવેલિયન પરત ફરતી વખતે વૈભવ સૂર્યવંશી રડવા લાગ્યો હતો, આ ઘટનાનો એક વીડિયો હવે સામે આવ્યો છે. તેણે ઈનિંગમાં પાંચ છગ્ગા અને એક ચોગ્ગો ફટકાર્યો હતો. શાર્દુલ ઠાકુરે તેને આઉટ કર્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-crying-after-out-inside-video-goes-viral-rr-vs-mi-472034 ",
+    "time": "2026-04-08T10:38:18.000Z"
+  },
+  {
     "cat": "World",
     "title": "પાકિસ્તાન નહીં...આ દેશે પડદા પાછળ પાડ્યો મોટો ખેલ, ઈરાન-અમેરિકા વચ્ચે કરાવ્યો યુદ્ધવિરામ!",
     "desc": "જ્યારથી ઈરાન અને અમેરિકા વચ્ચે યુદ્ધવિરામના સમાચાર આવ્યા છે ત્યારથી એક ચર્ચા છે કે પાકિસ્તાને કરાવ્યું. પરંતુ તમને જણાવી દઈએ કે પાકિસ્તાન નહીં પરંતુ એક એશિયાઈ દેશે આ યુદ્ધવિરામ પાછળ મોટો ભાગ ભજવ્યો હોવાનું સામે આવી રહ્યું છે.",
@@ -387,15 +432,6 @@ const newsData_gu = [
     "time": "2026-04-06T08:38:41.000Z"
   },
   {
-    "cat": "Business",
-    "title": "નવા અઠવાડિયાના પહેલા દિવસે સોના-ચાંદીના ભાવમાં તોતિંગ વધારો, 24-22 કેરેટ સોનાનો લેટેસ્ટ ભાવ જાણો",
-    "desc": "સોના-ચાંદીના ભાવમાં આજે નવા અઠવાડિયાના પહેલા દિવસે ભારે ઉથલપાથલ જોવા મળી રહી છે. ક્યાંક ભાવમાં ઘટાડો તો ક્યાંક વધારો નોંધાઈ રહ્યો છે. રિટેલ બજારમાં બંને કિમતી ધાતુ ઉછળી છે જ્યારે વાયદા બજારમાં અનિશ્ચિતતાનો માહોલ જોવા મળી રહ્યો છે. જાણો આજના લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-increase-sharply-on-the-first-day-of-the-new-week-aaj-no-sona-chandi-no-bhav-471716 ",
-    "time": "2026-04-06T07:52:33.000Z"
-  },
-  {
     "cat": "World",
     "title": "ગુસ્સામાં ઈરાનને અપશબ્દ બોલી ફસાઈ ગયા ટ્રમ્પ, શું આ નિયમથી જઈ શકે છે US રાષ્ટ્રપતિની ખુરશી",
     "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ વિવાદમાં આવી ગયા છે. ઈરાન વિરુદ્ધ અપશબ્દનો પ્રયોગ કર્યાં બાદ ટ્રમ્પની ટીકા કરવામાં આવી રહી છે. આ સાથે તેમની વિરુદ્ધ 25મું સંશોધન લાવી પદ પરથી હટાવવાની માંગ પણ ઉઠી રહી છે.",
@@ -412,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/representative-of-iran-supreme-leader-abdul-majid-hakeem-llahi-praises-indian-diplomacy-471701 ",
     "time": "2026-04-06T06:43:47.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "જેણે પાકિસ્તાનમાં જઈ લાદેનનો ઘડો લાડવો કર્યો, તેણે હવે ઈરાનમાં ઘૂસી પોતાના દેશના પાઈલટને બચાવ્યો",
-    "desc": "જે ઈરાન એક મહિનો વીત્યા છતાં વિશ્વમાં સુપરપાવર ગણાતા અમેરિકા અને ટેક્નોલોજીમાં મહારથ હાંસલ છે તે ઈઝરાયેલને યુદ્ધમાં સતત નાકમાં દમ લાવી રહ્યું છે તે ઈરાનની ધરતી પર પહોંચી ગયેલા પોતાના એક પાઈલટને જીવતો પાછો મેળવવા માટે અમેરિકાએ એડી ચોટીનું જોર લાવી દીધુ અને પોતાની શ્રેષ્ઠ ટીમો મેદાનમાં ઉતારી. જાણો એ ટુકડી વિશે જે આ કામ સફળતાપૂર્વક પાર પાડી લાવી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/how-an-american-airman-was-rescued-from-iran-know-about-us-navy-seal-team-6-471689 ",
-    "time": "2026-04-06T04:47:24.000Z"
   },
   {
     "cat": "Sports",
@@ -610,24 +637,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/how-much-more-dangerous-is-the-new-covid-19-variant-than-previous-ones-will-existing-vaccines-be-able-to-provide-protection-471498 ",
     "time": "2026-04-04T12:08:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "હાર્દિક પંડ્યા MIમાંથી બહાર, સૂર્યકુમાર યાદવને બનાવાયો અચાનક કેપ્ટન, જાણો શું છે કારણ",
-    "desc": "સૂર્યકુમાર યાદવને અચાનક મુંબઈ ઈન્ડિયન્સનો કેપ્ટન નિયુક્ત કરવામાં આવ્યો છે. હાર્દિક પંડ્યા MI ટીમમાંથી બહાર છે. સૂર્યા કેપ્ટન બનતા જ સૂર્યકુમારે ટીમમાં ત્રણ ફેરફાર કર્યા છે. ત્યારે હાર્દિક પંડ્યા કેમ બહાર થયો છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-out-of-mumbai-indians-suryakumar-yadav-suddenly-appointed-captain-471480 ",
-    "time": "2026-04-04T11:32:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કામણગારી આંખો અને હોટ લુક...IPLમાં છવાઈ આ ‘મિસ્ટ્રી ગર્લ’, લોકોએ કહ્યું અભિષેક શર્માની ટીમ માટે છે ‘લકી ચાર્મ’",
-    "desc": "Who is this mystery girl? આઈપીએલ 2026નો ખુમાર અત્યારે પૂરા ભારત પર છવાયેલો છે. ફેન્સ માટે આ મેચો પૈસા વસૂલ સાબિત થઈ રહી છે. આ દરમિયાન સોશિયલ મીડિયા પર એક 'મિસ્ટ્રી ગર્લ'ની ચર્ચાઓએ જોર પકડ્યું છે. પ્રશંસકોનું કહેવું છે કે આ મિસ્ટ્રી ગર્લ અભિષેક શર્માની ટીમ માટે લકી ચાર્મ સાબિત થઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-is-this-mystery-girl-hot-look-attractive-eyes-hot-girl-viral-photos-fans-said-lucky-charm-for-srh-ipl-2026-471469 ",
-    "time": "2026-04-04T10:59:19.000Z"
   },
   {
     "cat": "Politics",
