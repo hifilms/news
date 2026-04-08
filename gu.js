@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "60% DAમાં કેમ આટલી રાહ? 8મા પગારપંચની તેના પર શું પડશે અસર? કેટલો ફાયદો અને નુકસાન? જાણો",
+    "desc": "જાન્યુઆરી 2026માં થનારો DAનો વધારો આ વખતે વિલંબિત થયો છે, મુખ્યત્વે 8મા પગારપંચના ટ્રાજિશન અને ફાઈનેંશિયલ પ્રોસેસ કારણ છે. જો કે, ડીએમાં લેટ થવાને કારણે કર્મચારીઓને એરિયર મળશે. ચાલો જાણીએ કે ડીએમાં વધારો ક્યારે થઈ શકે છે અને આ વિલંબથી કયા ફાયદા અને નુકસાન થશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/why-wait-for-60-percent-da-what-will-be-the-impact-of-the-8th-pay-commission-on-it-how-much-is-the-benefit-and-loss-find-out-472087 ",
+    "time": "2026-04-08T14:26:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "યુદ્ધવિરામ પછી ટ્રમ્પનો ટેરિફ વોર, આ દેશો પર લગાવ્યો 50% ટેક્સ, જાણો",
+    "desc": "બુધવારે અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે કડક ચેતવણી આપતા કહ્યું કે આ દેશ પર તાત્કાલિક 50 ટકા ટેરિફ લગાવવામાં આવશે. ટ્રમ્પે આજે યુદ્ધવિરામની જાહેરાત કરી હતી. આ યુદ્ધ 39 દિવસ ચાલ્યું હતું, જે બાગ સીઝફાયર થયું છે. જે બે અઠવાડિયા સુધી રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/trump-tariff-war-after-ceasefire-50-percent-tax-imposed-on-these-countries-know-472080 ",
+    "time": "2026-04-08T13:32:34.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "યુદ્ધવિરામની અસર! તેલ, ગેસ, ખોરાકથી લઈને ફ્લાઇટ ટિકિટ સુધી, જાણો શું અને ક્યારે થશે સસ્તું ?",
     "desc": "ઈરાન-અમેરિકા યુદ્ધવિરામ બાદ, કાચા તેલના ભાવમાં ઘટાડો થયો છે. આનાથી પેટ્રોલ, ડીઝલ, ગેસ, રાશન, ફ્લાઇટ ટિકિટ અને રોજિંદા વસ્તુઓ સસ્તી થવાની આશા જાગી છે. જો યુદ્ધવિરામનું ઉલ્લંઘન નહીં થાય, તો તેની અસર ધીમે ધીમે તમારા ખિસ્સા પર પડશે.",
@@ -619,15 +637,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/netflix-upcoming-hindi-film-toaster-trailer-released-here-is-streaming-date-471509 ",
     "time": "2026-04-04T13:46:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "6 કલાક બેટિંગ, 350 બોલ અને માત્ર 50 રન... ટેસ્ટ ક્રિકેટના ઇતિહાસમાં સૌથી ધીમી અડધી સદી",
-    "desc": "ટેસ્ટ ક્રિકેટમાં સૌથી ધીમી ઇનિંગ્સનો આ વિશ્વ રેકોર્ડ 70 વર્ષ પહેલાં સ્થાપિત થયો હતો અને ત્યારથી કોઈ પણ આ રેકોર્ડ તોડી શક્યું નથી. આનું કારણ એ છે કે આટલી ધીરજ સાથે બેટિંગ કરવી હવે શક્ય લાગતું નથી, કારણ કે ટેસ્ટ ક્રિકેટ હવે પહેલા કરતા ઘણી વધુ આક્રમક રીતે રમાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/trevor-bailey-slowest-test-fifty-350-ball-in-1958-ashes-england-vs-australia-471499 ",
-    "time": "2026-04-04T12:32:15.000Z"
   },
   {
     "cat": "Politics",

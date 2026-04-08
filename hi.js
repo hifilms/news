@@ -1,7 +1,61 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Unbeaten Delhi Capitals up against winless Gujarat Titans",
+    "title": "BCCI makes addition to match playing conditions for IPL, restricts movements of benched players",
+    "desc": "The Board of Control for Cricket in India (BCCI) has made an addition to the match-playing conditions in the Indian Premier League. As per the new rule, which has been circulated to the franchise managers,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-makes-addition-to-match-playing-conditions-for-ipl-restricts-movements-of-benched-players-2026-04-08-1036811",
+    "time": "2026-04-08T15:46:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neeraj Chopra's next event: Doha Diamond League postponed due to West Asia tension",
+    "desc": "World Athletics has delayed the opening of the 2026 Diamond League in Doha. It has been moved away from its original May slot as tensions across West Asia continue to raise safety concerns, despite a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/neeraj-chopra-s-next-event-doha-diamond-league-postponed-due-to-west-asia-tensions-2026-04-08-1036808",
+    "time": "2026-04-08T15:36:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jos Buttler becomes first England cricketer to register major feat in T20s, smacks half-century vs DC",
+    "desc": "Jos Buttler created history by becoming the first England player to smash 600 sixes in T20 cricket. He had been level with Alex Hales for the record, but during a blistering innings against Delhi Capitals...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-becomes-first-england-cricketer-to-register-major-feat-in-t20s-smacks-half-century-vs-delhi-capitals-2026-04-08-1036802",
+    "time": "2026-04-08T14:50:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill opens up on the injury that made him miss GT's clash against RR as he returns for DC fixture",
+    "desc": "Shubman Gill was sidelined for the Gujarat Titans clash against the Rajasthan Royals due to what was said as a 'muscle spasm'. With Gill missing, Afghanistan star Rashid Khan led the team in the clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-opens-up-on-the-injury-that-made-him-miss-gts-clash-against-rr-as-he-returns-for-dc-fixture-2026-04-08-1036794",
+    "time": "2026-04-08T13:58:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Mitchell Starc not playing for DC vs GT in IPL 2026 clash at Arun Jaitley Stadium in Delhi?",
+    "desc": "Australia pacer Mitchell Starc is yet to join the Delhi Capitals squad for the IPL 2026. He has been out of action since the Big Bash League and there’s no update on when the cricketer...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-mitchell-starc-not-playing-for-dc-vs-gt-in-ipl-2026-clash-at-arun-jaitley-stadium-in-delhi-2026-04-08-1036793",
+    "time": "2026-04-08T13:53:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Sunil Narine play KKR's next IPL 2026 clash against LSG? Team management shares major update",
+    "desc": "Kolkata Knight Riders missed the service of Sunil Narine in the high-voltage clash against Punjab Kings at the Eden Gardens on April 6. However, since the rain played spoilsport, the three-time champions weren’t too bothered....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-sunil-narine-play-kkr-s-next-ipl-2026-clash-against-lsg-team-management-shares-major-update-2026-04-08-1036790",
+    "time": "2026-04-08T13:30:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Titans cross 200, Sundar departs after fifty, Delhi under pump",
     "desc": "Delhi Capitals lock horns against Gujarat Titans at their home at the Arun Jaitley Stadium on Wednesday, April 8, as the Delhi weather stays in focus. The two teams come into this clash on the...",
     "img": "",
     "src": "indiatvnews.com",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-gt-ipl-2026-pitch-report-how-surface-at-arun-jaitley-stadium-will-play-for-this-clash-2026-04-08-1036769",
     "time": "2026-04-08T10:59:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cameron Green set to resume bowling in KKR's next clash against LSG in IPL 2026: Report",
-    "desc": "Kolkata Knight Riders paid a hefty fee of INR 25.2 crore to secure the services of Cameron Green in the Indian Premier League (IPL). However, the Australia international hasn’t delivered as per the expectations and,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cameron-green-set-to-resume-bowling-in-kkr-s-next-clash-against-lsg-in-ipl-2026-report-2026-04-08-1036767",
-    "time": "2026-04-08T10:41:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Player battles to watch out for in IPL 2026 Match 14",
-    "desc": "The 14th match of the ongoing Indian Premier League (IPL) season will see Delhi Capitals and Gujarat Titans lock horns at the Arun Jaitley Stadium in New Delhi. The teams have got off to contrasting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-gt-3-player-battles-to-watch-out-for-in-ipl-2026-match-14-2026-04-08-1036753",
-    "time": "2026-04-08T08:29:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Gavaskar slams overseas players, questions their commitment amid unavailability issues in IPL 2026",
-    "desc": "Legendary Indian cricketer Sunil Gavaskar has once again stirred up the debate around overseas players' availability in the ongoing edition of the Indian Premier League (IPL). Several foreign players are yet to join their respective...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-slams-overseas-players-questions-their-commitment-amid-unavailability-issues-in-ipl-2026-2026-04-08-1036735",
-    "time": "2026-04-08T06:24:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya lauds Vaibhav Sooryavanshi after his blitzkrieg vs MI, 'quite fascinating to see him'",
-    "desc": "Vaibhav Sooryavanshi continues to be the talking point in the ongoing edition of the Indian Premier League (IPL). The 15-year-old is showing signs of stopping as he even took on the likes of Jasprit Bumrah...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-lauds-vaibhav-sooryavanshi-after-his-blitzkrieg-vs-mi-quite-fascinating-to-see-him-2026-04-08-1036717",
-    "time": "2026-04-08T04:01:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will rain interrupt play again?",
-    "desc": "The ongoing Indian Premier League (IPL) is suffering from iffy weather across several states in the country. For the last two days, rain is playing spoilsport with the KKR vs PBKS clash in Kolkata getting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-delhi-weather-today-for-dc-vs-gt-ipl-2026-clash-at-arun-jaitley-stadium-will-rain-interrupt-play-again-2026-04-08-1036709",
-    "time": "2026-04-08T02:35:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Will Jacks not playing Mumbai Indians in IPL 2026? Head coach Mahela Jayawardene reveals reason",
-    "desc": "The Mumbai Indians seem to have lost their way after winning their opening match of the IPL season, ending a 14-year drought. They have lost two consecutive matches since then, with the latest defeat coming...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-will-jacks-not-playing-mumbai-indians-in-ipl-2026-head-coach-mahela-jayawardene-reveals-reason-2026-04-08-1036706",
-    "time": "2026-04-08T02:16:48.000Z"
   }
 ];
