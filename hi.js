@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 Player battles to watch out for in IPL 2026 Match 14",
+    "desc": "The 14th match of the ongoing Indian Premier League (IPL) season will see Delhi Capitals and Gujarat Titans lock horns at the Arun Jaitley Stadium in New Delhi. The teams have got off to contrasting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-gt-3-player-battles-to-watch-out-for-in-ipl-2026-match-14-2026-04-08-1036753",
+    "time": "2026-04-08T08:29:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sunil Gavaskar slams overseas players, questions their commitment amid unavailability issues in IPL 2026",
     "desc": "Legendary Indian cricketer Sunil Gavaskar has once again stirred up the debate around overseas players' availability in the ongoing edition of the Indian Premier League (IPL). Several foreign players are yet to join their respective...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/real-madrid-vs-bayern-munich-live-when-and-where-to-watch-uefa-champions-league-clash-on-tv-and-stream-online-in-india-2026-04-07-1036669",
     "time": "2026-04-07T15:33:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Guwahati weather keeps RR-MI IPL 2026 clash at bay, what is cut-off time for fixture?",
-    "desc": "Rain in Guwahati has kept the Rajasthan Royals vs Mumbai Indians Indian Premier League 2026 clash at bay, as persistent drizzle delayed the toss at the Barsapara Cricket Stadium. Rajasthan Royals came into this fixture...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/guwahati-weather-keeps-rr-mi-ipl-2026-clash-at-bay-what-is-cut-off-time-for-fixture-2026-04-07-1036668",
-    "time": "2026-04-07T15:27:45.000Z"
   }
 ];
