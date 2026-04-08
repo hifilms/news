@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'We could have been smarter in chase': DC skipper Axar Patel reflects on one-run loss to GT in IPL 2026",
+    "desc": "Delhi Capitals captain Axar Patel reflected on his team's one-run loss to the Gujarat Titans at the Arun Jaitley Stadium on Wednesday, April 8. Having come within inches of the 211-run target, GT fell just...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/we-could-have-been-smarter-in-chase-dc-skipper-axar-patel-reflects-on-one-run-loss-to-gt-in-ipl-2026-2026-04-09-1036830",
+    "time": "2026-04-08T18:35:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gujarat Titans pull off thrilling win as KL Rahul, David Miller fail to pull off historic chase in IPL",
+    "desc": "Chasing 211 runs at the Arun Jaitley Stadium, KL Rahul brought Delhi Capitals close to pulling off their biggest chase in IPL history. However, after Pathum Nissanka departed for a rapid 41, there was little...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-pull-off-thrilling-win-as-kl-rahul-david-miller-fail-to-pull-off-historic-chase-in-ipl-2026-04-08-1036826",
+    "time": "2026-04-08T18:11:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sourav Ganguly backs Mohammed Shami for India return, wants him to bowl 'at other end of Bumrah'",
+    "desc": "Former India captain Sourav Ganguly has thrown his weight behind Mohammed Shami for an India return, highlighting the strong performances that he has been putting in the Indian Premier League 2026. Shami put up an insane...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sourav-ganguly-backs-mohammed-shami-for-india-return-wants-him-to-bowl-at-other-end-of-bumrah-2026-04-08-1036823",
+    "time": "2026-04-08T17:46:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch UCL clash live on TV and stream online in India?",
+    "desc": "The Champions League spotlight returns to the Spotify Camp Nou as Hansi Flick’s rejuvenated Barcelona hosts Atletico Madrid in an all-Spanish quarter-final first leg. Notably, Barca enter the tie as one of the most feared...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/barcelona-vs-atletico-madrid-when-and-where-to-watch-ucl-clash-live-on-tv-and-stream-online-in-india-2026-04-08-1036819",
+    "time": "2026-04-08T17:31:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KKR share new update on Varun Chakaravarthy, reveal what happened with Sunil Narine against PBKS",
+    "desc": "Kolkata Knight Riders were without their experienced spin duo of Sunil Narine and Varun Chakaravarthy during their clash against Punjab Kings. At the toss, captain Ajinkya Rahane clarified that Narine had been sidelined due to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-share-new-update-on-varun-chakaravarthy-reveal-what-happened-with-sunil-narine-against-pbks-2026-04-08-1036814",
+    "time": "2026-04-08T16:13:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI makes addition to match playing conditions for IPL, restricts movements of benched players",
     "desc": "The Board of Control for Cricket in India (BCCI) has made an addition to the match-playing conditions in the Indian Premier League. As per the new rule, which has been circulated to the franchise managers,...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-mitchell-starc-not-playing-for-dc-vs-gt-in-ipl-2026-clash-at-arun-jaitley-stadium-in-delhi-2026-04-08-1036793",
     "time": "2026-04-08T13:53:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Sunil Narine play KKR's next IPL 2026 clash against LSG? Team management shares major update",
-    "desc": "Kolkata Knight Riders missed the service of Sunil Narine in the high-voltage clash against Punjab Kings at the Eden Gardens on April 6. However, since the rain played spoilsport, the three-time champions weren’t too bothered....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-sunil-narine-play-kkr-s-next-ipl-2026-clash-against-lsg-team-management-shares-major-update-2026-04-08-1036790",
-    "time": "2026-04-08T13:30:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Titans cross 200, Sundar departs after fifty, Delhi under pump",
-    "desc": "Delhi Capitals lock horns against Gujarat Titans at their home at the Arun Jaitley Stadium on Wednesday, April 8, as the Delhi weather stays in focus. The two teams come into this clash on the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-gt-ipl-2026-live-cricket-score-delhi-capitals-vs-gujarat-titans-arun-jaitley-stadium-weather-updates-scorecard-teams-playing-xis-highlights-2026-04-08-1036782",
-    "time": "2026-04-08T12:40:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi breaks Ishan Kishan, Rishabh Pant's record during onslaught vs Mumbai Indians",
-    "desc": "At 15 years of age, Vaibhav Sooryavanshi smacked Jasprit Bumrah for a six in the latter’s first ball in the match between Rajasthan Royals and Mumbai Indians in Guwahati. Against a much stronger bowling unit,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-breaks-ishan-kishan-rishabh-pant-s-record-during-onslaught-vs-mumbai-indians-in-ipl-2026-2026-04-08-1036779",
-    "time": "2026-04-08T11:52:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dewald Brevis reveals comeback date for CSK in IPL 2026 after side strain injury",
-    "desc": "Chennai Super Kings are set to receive a major boost in their Indian Premier League 2026 campaign as Dewald Brevis has hinted at his comeback date. Brevis was sidelined for all the first three matches...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dewald-brevis-reveals-comeback-date-for-csk-in-ipl-2026-after-side-strain-injury-watch-2026-04-08-1036776",
-    "time": "2026-04-08T11:38:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How surface at Arun Jaitley Stadium will play for this clash?",
-    "desc": "Delhi Capitals will host Gujarat Titans in the 14th match of the Indian Premier League 2026. Both teams have contrasting beginnings to their IPL 2026 campaigns. DC opened with two consecutive wins, while the Titans...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-gt-ipl-2026-pitch-report-how-surface-at-arun-jaitley-stadium-will-play-for-this-clash-2026-04-08-1036769",
-    "time": "2026-04-08T10:59:00.000Z"
   }
 ];

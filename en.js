@@ -1,12 +1,93 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Jammu-Srinagar national highway remains shut for 3rd day",
+    "desc": "The Jammu-Srinagar national highway (NH-44) remains closed for the third day due to continuous landslides and heavy rains in Ramban district. Over 400 vehicles are stranded as clearance operations are underway, with authorities advising against travel until the road is fully restored.",
+    "img": "https://static.toiimg.com/photo/msid-130122972,imgsize-1111786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-srinagar-national-highway-remains-shut-for-3rd-day/articleshow/130122960.cms",
+    "time": "2026-04-08T18:58:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I thought we could win': Gill on Miller refusing the penultimate single",
+    "desc": "Gujarat Titans secured a nail-biting one-run victory over Delhi Capitals after David Miller's hesitation on a single in the final over. Prasidh Krishna's slower ball and a direct hit from Jos Buttler proved decisive. Shubman Gill acknowledged the crucial moment and praised the team's fielding and the par-plus total posted.",
+    "img": "https://static.toiimg.com/photo/msid-130122943,imgsize-130740.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/i-thought-we-could-win-shubman-gill-on-david-miller-refusing-the-penultimate-single/articleshow/130122966.cms",
+    "time": "2026-04-08T18:57:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Priyank Kharge directs zilla panchayat CEOs to ensure there is no drinking water shortage in Karnataka villages",
+    "desc": "As Karnataka is facing the peak summer heat, Minister for Rural Development and Panchayat Raj and IT and BT Priyank Kharge on Wednesday directed Chief Executive Officers of all zilla panchayats to take urgent and proactive measures to ensure that no village faces a shortage of drinking water during the summer months",
+    "img": "https://th-i.thgim.com/public/incoming/fyptot/article70839706.ece/alternates/LANDSCAPE_1200/_DSC3077.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/priyank-kharge-directs-zilla-panchayat-ceos-to-ensure-there-is-no-drinking-water-shortage-in-karnataka-villages/article70839155.ece",
+    "time": "2026-04-08T18:49:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "2 Pakistan LeT ultras, Jammu &amp; Kashmir aide remanded in 10-day police custody",
+    "desc": "Srinagar's special court has remanded two Pakistani Lashkar-e-Taiba terrorists and their Kashmiri accomplice to 10-day police custody. Arrested on April 6, the trio are linked to an interstate LeT module. Investigations revealed one Pakistani national had been active in Kashmir for 16 years, while the accomplice provided crucial logistical support.",
+    "img": "https://static.toiimg.com/photo/msid-130122785,imgsize-801116.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/2-pakistan-let-ultras-jammu-kashmir-aide-remanded-in-10-day-police-custody/articleshow/130122715.cms",
+    "time": "2026-04-08T18:47:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar 2 makers sued over use of Oye Oye song",
+    "desc": "The Revenge continues its strong run at the box office, the film has landed in legal trouble. Bollywood production house Trimurti Films has filed a suit against Aditya Dhar’s banner B62 Studios over the alleged unauthorised use of the song Rang De Lal (Oye Oye).",
+    "img": "https://static.toiimg.com/photo/msid-130121578,imgsize-42858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-faces-legal-trouble-as-trimurti-films-sues-aditya-dhars-production-house-over-use-of-oye-oye-song/articleshow/130121578.cms",
+    "time": "2026-04-08T18:11:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Justice Nagarathna",
+    "desc": "The judge says the question whether a stranger to a denomination could question a practice in a public interest petition ought to be taken up as the first issue to be decided by the Sabarimala Bench",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/no-devotee-of-ayyappa-would-have-moved-sc-challenging-exclusion-of-women-of-menstruating-age-justice-nagarathna/article70839620.ece",
+    "time": "2026-04-08T17:56:50.000Z"
+  },
+  {
     "cat": "World",
-    "title": "Iran-Israel war LIVE updates: Ceasefire plan published by Iran not the one agreed by U.S., says White House official",
+    "title": "Iran-Israel war LIVE updates: Iran closes the Strait of Hormuz in response to Israeli attacks on Lebanon, state media reports",
     "desc": "Trump says U.S. will work closely with Iran, ⁠which, he claims, has undergone \"regime change,\" and will be talking ‌about tariff and sanctions relief; he says there would be ‌no enrichment of uranium ​and said many of the 15 points ⁠in the U.S. ⁠plan proposed to Iran have been ‌agreed to",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-8-2026/article70836852.ece",
-    "time": "2026-04-08T16:11:53.000Z"
+    "time": "2026-04-08T17:17:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It doesn't matter who you are': Sooryavanshi steals fresh IPL buzz",
+    "desc": "Vaibhav Sooryavanshi is emerging as a standout performer in IPL 2026, impressing with fearless batting against top bowlers like Jasprit Bumrah. Dale Steyn said the youngster has already “instilled fear” in bowlers. His quick 39 helped Rajasthan Royals beat Mumbai Indians, extending their winning run, with his aggressive approach troubling even the best in the game.",
+    "img": "https://static.toiimg.com/photo/msid-130119513,imgsize-51382.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/it-doesnt-matter-who-you-are-vaibhav-sooryavanshi-steals-fresh-ipl-buzz/articleshow/130118988.cms",
+    "time": "2026-04-08T16:45:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ramanand Sagar’s son Moti Sagar backs Ranbir as Lord Ram",
+    "desc": "The first glimpse of Ranbir Kapoor as Lord Ram in Ramayana has sparked conversations across the internet, drawing both praise and criticism. While some lauded the scale and ambition of the project, others expressed concerns over the VFX after the teaser dropped on the occasion of Hanuman Jayanti. Amid the mixed reactions, Moti Sagar, son of Ramanand Sagar—the creator of the iconic Ramayan—has weighed in on the debate.",
+    "img": "https://static.toiimg.com/photo/msid-130119092,imgsize-70416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramanand-sagars-son-moti-sagar-backs-ranbir-kapoor-as-lord-ram-in-nitesh-tiwaris-ramayana-comparison-with-tv-show-is-not-right/articleshow/130119092.cms",
+    "time": "2026-04-08T16:26:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kannada activist Vatal Nagaraj arrested amidst high drama in a case over a protest dating back to 2021",
+    "desc": "It is a travesty that such a petty case is being dragged on for so long by the government and even after five years, the case is still going on and I was arrested, says Vatal Nagaraj",
+    "img": "https://th-i.thgim.com/public/incoming/bqlklo/article70839619.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-08%20at%2016.02.11.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/kannada-activist-vatal-nagaraj-arrested-amidst-high-drama-in-a-case-over-a-protest-dating-back-to-2021/article70838626.ece",
+    "time": "2026-04-08T16:14:46.000Z"
   },
   {
     "cat": "Sports",
@@ -34,6 +115,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditya-dhar-praises-mukesh-chhabra-after-dhurandhar-the-revenge-success-calls-him-a-key-force-behind-the-film/articleshow/130118401.cms",
     "time": "2026-04-08T15:50:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK cheers for Allu Arjun's 'Raaka' look on his birthday, netizens react",
+    "desc": "Allu Arjun's upcoming film with director Atlee, titled 'Raaka', has unveiled its first look poster on his birthday, revealing a rugged and intense character. Superstar Shah Rukh Khan lauded the poster, calling it 'Mass masss massss!!' and expressing excitement for the collaboration. The film also features Deepika Padukone, further amplifying fan anticipation for this promising project.",
+    "img": "https://static.toiimg.com/photo/msid-130118342,imgsize-81320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-showers-praise-on-allu-arjuns-look-in-raaka-as-he-drops-birthday-wishes-calls-him-amazing-netizens-react/articleshow/130118312.cms",
+    "time": "2026-04-08T15:45:55.000Z"
   },
   {
     "cat": "Sports",
@@ -97,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-introduces-stricter-ipl-rule-curbs-extra-players-movement-on-the-field/articleshow/130117229.cms",
     "time": "2026-04-08T15:03:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amaravati has potential to emerge as growth engine of Andhra Pradesh, says World Bank team",
-    "desc": "Appreciating the progress of the capital city works, the delegation says that the infrastructure being developed in Amaravati, along with reforms in the IT and power sectors, can position the city as a major hub for international investments",
-    "img": "https://th-i.thgim.com/public/incoming/xmt81c/article70839257.ece/alternates/LANDSCAPE_1200/10745_8_4_2026_19_46_57_3_IMG_20260408_WA0076.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/amaravati-has-potential-to-emerge-as-growth-engine-of-andhra-pradesh-says-world-bank-team/article70838961.ece",
-    "time": "2026-04-08T15:03:00.000Z"
   },
   {
     "cat": "Politics",
@@ -189,33 +270,6 @@ const newsData_en = [
     "time": "2026-04-08T13:39:56.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Revisiting Meryl Streep's iconic characters",
-    "desc": "As anticipation builds for 'The Devil Wears Prada 2' and Meryl Streep's return as Miranda Priestly, now is the perfect time to revisit the legendary roles that made her the greatest actress of her generation. As an ice-cold fashion mogul, a free-spirited Greek island mom, each of the characters represents another hue of her genius. These are the legendary Streep performances that one should watch prior to the release of the sequel.",
-    "img": "https://static.toiimg.com/photo/msid-130108345,imgsize-55600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ahead-of-the-devil-wears-prada-2-release-lets-revisit-meryl-streeps-other-iconic-characters/photostory/130108345.cms",
-    "time": "2026-04-08T13:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Judges experts in law, not religion,' Centre tells SC over 'superstition'",
-    "desc": "The Supreme Court asserted its authority to determine if a religious practice constitutes superstition, clashing with the Centre's argument that secular courts are not equipped for such judgments. Justices questioned the limits of judicial intervention, emphasizing the need to assess practices against constitutional safeguards and a faith's own philosophy.",
-    "img": "https://static.toiimg.com/photo/msid-130115390,imgsize-127256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sabarimala-case-judges-experts-in-law-not-religion-centre-tells-sc-over-superstition/articleshow/130115395.cms",
-    "time": "2026-04-08T13:29:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Not good law': Centre questions adultery, same-sex relationship verdicts in Supreme Court",
-    "desc": "The government has informed the Supreme Court that landmark rulings decriminalizing adultery and same-sex relationships were based on subjective constitutional morality, deeming them \"not a good law.\" Solicitor General Tushar Mehta argued that \"constitutional morality\" is vague and foreign legal reliance is concerning, questioning its role in judicial review and democratic lawmaking.",
-    "img": "https://static.toiimg.com/photo/msid-130115211,imgsize-1624520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/not-good-law-centre-questions-adultery-same-sex-verdicts-in-supreme-court/articleshow/130115055.cms",
-    "time": "2026-04-08T13:19:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Doha dl, where Neeraj breached 90m mark, postponed",
     "desc": "The Doha Diamond League meet has been postponed to June 19 due to Middle East tensions, despite a temporary ceasefire. Safety concerns drove the decision, along with a venue shift to a temperature-controlled stadium. The event is notable for Neeraj Chopra’s 90.23m milestone last year. The conflict has also disrupted several major sporting events across the region.",
@@ -232,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arjun-rampal-pens-touching-birthday-note-for-gabriella-demetriades-rest-of-the-years-are-yours/articleshow/130114639.cms",
     "time": "2026-04-08T13:03:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Top 3 factors that may decide the verdict",
-    "desc": "Puducherry heads to polls on April 9 for its 30 assembly seats, with key issues like statehood, economic concerns including power privatisation and rising prices, and a fragmented contest shaping the high-stakes election. The outcome will determine if the NDA retains power or the Congress-DMK bloc regains control.",
-    "img": "https://static.toiimg.com/photo/msid-130114410,imgsize-1077817.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/puducherry-elections-2026-3-factors-that-may-decide-the-verdict/articleshow/130114468.cms",
-    "time": "2026-04-08T12:53:58.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +459,6 @@ const newsData_en = [
     "time": "2026-04-08T09:15:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Samay Raina teases return of ‘India’s Got Latent’",
-    "desc": "Comedian Samay Raina has teased a second season of \"India's Got Latent\" after facing multiple FIRs following a controversial joke. He detailed the emotional toll, including witnessing the distress of the venue owner's parents, and reflected on his decision to apologize, citing George Orwell and Kashmiri wisdom. Raina also humorously addressed criticism from various personalities.",
-    "img": "https://static.toiimg.com/photo/msid-130108143,imgsize-62066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-raina-confirms-indias-got-latent-2-opens-up-about-controversy-in-stand-up-special-still-alive/articleshow/130108143.cms",
-    "time": "2026-04-08T09:08:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Adani group stocks rise up to 13%, add Rs 96,000 crore to market cap; what’s driving the rally?",
     "desc": "Adani Group stocks surged up to 13% after Gautam Adani sought dismissal of a US SEC civil case, citing no credible evidence of bribery. Lawyers argued the alleged actions were extraterritorial and took place in India. This, along with a positive outlook for Adani Green Energy, boosted investor sentiment.",
@@ -540,15 +576,6 @@ const newsData_en = [
     "time": "2026-04-08T06:24:36.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Bumrah had no visible plan': Pathan explains how Sooryavanshi forced world's best to rethink",
-    "desc": "Fifteen-year-old Vaibhav Sooryavanshi stunned cricket fans by hitting two sixes off world-class bowler Jasprit Bumrah in a single IPL over. Former India all-rounder Irfan Pathan lauded the young prodigy's fearless approach, noting how Sooryavanshi's audacious hitting forced even Bumrah to rethink his strategy. This remarkable feat against a top bowler highlights the youngster's immense potential.",
-    "img": "https://static.toiimg.com/photo/msid-130105275,imgsize-1078592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-bumrah-had-no-visible-plan-irfan-pathan-explains-how-vaibhav-sooryavanshi-forced-worlds-best-to-rethink/articleshow/130104192.cms",
-    "time": "2026-04-08T06:09:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Iran-US ceasefire: Can Tehran charge toll fee in Strait of Hormuz? What international law says",
     "desc": "Iran's proposal to levy transit fees on ships in the Strait of Hormuz, a vital global oil route, is emerging as a new flashpoint. This move, aimed at generating revenue and exerting geopolitical leverage, challenges international maritime law and could disrupt global trade, pushing energy markets into uncertainty. Nations like India have rejected the idea.",
@@ -583,15 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/israel-says-missiles-fired-by-iran-as-trump-pauses-attack/article70836880.ece",
     "time": "2026-04-08T02:15:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Divya Deshmukh outfoxed leader Anna Muzychuk to climb to the top",
-    "desc": "Indian chess saw mixed fortunes at the FIDE Candidates 2026. Divya Deshmukh surged to the top of the Women's leaderboard with a stunning victory over Anna Muzychuk, while R Praggnanandhaa's World Championship hopes dimmed after a crucial loss. Vaishali Rameshbabu drew her match, setting up an exciting all-Indian clash in the next round.",
-    "img": "https://static.toiimg.com/photo/msid-130099777,imgsize-82178.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-divya-deshmukh-outfoxed-leader-anna-muzychuk-to-climb-to-the-top/articleshow/130099767.cms",
-    "time": "2026-04-08T01:14:56.000Z"
   },
   {
     "cat": "World",

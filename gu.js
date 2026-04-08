@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "શું તૂટી જશે સિઝફાયર....? લેબનોન પરના હુમલાઓથી ગુસ્સે ભરાયું ઈરાન, હોર્મુઝ સ્ટ્રેટમાં જહાજ અટકાવ્યા, જાણો",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચે યુદ્ધવિરામની જાહેરાત છતાં, પશ્ચિમ એશિયામાં તણાવ ઓછો થવાને બદલે વધી રહ્યો હોય તેવું લાગે છે. ઇઝરાયલ અને લેબનોન વચ્ચે યુદ્ધ વધુ તીવ્ર બન્યું છે, જેના કારણે પરિસ્થિતિ વધુ ગંભીર બની છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/will-the-ceasefire-break-iran-angered-by-attacks-on-lebanon-stopped-ships-in-the-strait-of-hormuz-know-472094 ",
+    "time": "2026-04-08T17:03:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026માં BCCIએ કર્યો મોટો ફેરફાર, હવે ખેલાડીઓએ રહેવું પડશે સાવધાન, જાણો",
+    "desc": "IPL 2026માં નિયમોમાં ફેરફાર કરવામાં આવ્યો છે, ખેલાડિયોને હવે મેદાનમાં પ્રવેશવા પર વિચારવું પડશે અને આ નિયમ 16 ખેલાડીયો પછીના બાકી 9 ખેલાડિયો પર ખાસ લાગુ કરવામાં આવ્યો છે, નિયમના ભંગ પર મોટી કાર્યવાહી પણ થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bcci-made-a-big-change-in-ipl-2026-now-players-will-have-to-be-careful-know-472092 ",
+    "time": "2026-04-08T16:49:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કેન્દ્રીય કેબિનેટના મોટા નિર્ણય, 40000 કરોડના પ્રોજેક્ટ્સ અને ખેડૂતોને ખાતર સબસિડી, શું DA અંગે શું થયું?",
+    "desc": "સામાન્ય રીતે માર્ચ મહિનામાં વર્ષના પ્રથમ છ મહિના માટેના ભથ્થાની જાહેરાત થઈ જતી હોય છે, પરંતુ આ વખતે હજુ સુધી તેમ થઈ શક્યું નથી. આ જ કારણ છે કે, કેન્દ્રીય કર્મચારીઓ મોદી સરકારની દરેક કેબિનેટ બેઠકને આશાભરી નજરે જોઈ રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-decision-of-the-union-cabinet-projects-worth-rs-40000-crore-and-fertilizer-subsidy-to-farmers-what-happened-regarding-da-472091 ",
+    "time": "2026-04-08T16:32:09.000Z"
+  },
+  {
     "cat": "Business",
     "title": "60% DAમાં કેમ આટલી રાહ? 8મા પગારપંચની તેના પર શું પડશે અસર? કેટલો ફાયદો અને નુકસાન? જાણો",
     "desc": "જાન્યુઆરી 2026માં થનારો DAનો વધારો આ વખતે વિલંબિત થયો છે, મુખ્યત્વે 8મા પગારપંચના ટ્રાજિશન અને ફાઈનેંશિયલ પ્રોસેસ કારણ છે. જો કે, ડીએમાં લેટ થવાને કારણે કર્મચારીઓને એરિયર મળશે. ચાલો જાણીએ કે ડીએમાં વધારો ક્યારે થઈ શકે છે અને આ વિલંબથી કયા ફાયદા અને નુકસાન થશે?",
@@ -405,15 +432,6 @@ const newsData_gu = [
     "time": "2026-04-06T12:21:35.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ટોલ પ્લાઝા પર FASTag ફરજીયાત, 10 એપ્રિલથી લાગૂ થશે નવા નિયમ, જાણો તમારા પર શું થશે અસર",
-    "desc": "રોડ પરિવહન મંત્રાલયે જાહેરાત કરી છે કે 10 એપ્રિલથી ટોલ ચુકવણીમાં રોકડ વ્યવહાર સંપૂર્ણ રીતે બંધ થઈ જશે. તેનો ઉદ્દેશ્ય ટોલ બૂથ પર વાહનોની લાંબી લાઈનો ઘટાડવાનો છે, જે યાત્રિકો માટે હંમેશા મુશ્કેલી અને સમયની બરબાદીનું કારણ બને છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/highway-toll-rules-update-cashless-toll-from-10-april-2026-fastag-or-upi-mandatory-on-highways-471756 ",
-    "time": "2026-04-06T12:01:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026 વચ્ચે લોહીયાળ ખેલ! રન આઉટના વિવાદમાં અમ્પાયરની કરપીણ હત્યા, ઘટના જાણીને ચોંકી જશો",
     "desc": "હાલમાં દેશમાં ક્રિકેટનો મહાકુંભ ચાલી રહ્યો છે. IPLની તમામ ટીમો શાનદાર ફોર્મમાં જોવા મળી રહી છે. ત્યાં બીજીતરફ એક એવી ઘટના સામે આવી છે, જેને બધાને ચોંકાવી દીધા છે. આ ઘટના આંધ્રપ્રદેશમાં બની છે. અહીં ક્રિકેટ મેચમાં રન આઉટના નિર્ણય પર વિવાદ એટલો વધી ગુયો કે, એક યુવકે અમ્પાયરને છરી મારીને મોતને ઘાટ ઉતારી દીધો.",
@@ -448,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/know-about-iran-bushehr-nuclear-plant-why-warning-bell-for-other-gulf-countries-471726 ",
     "time": "2026-04-06T08:38:41.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ગુસ્સામાં ઈરાનને અપશબ્દ બોલી ફસાઈ ગયા ટ્રમ્પ, શું આ નિયમથી જઈ શકે છે US રાષ્ટ્રપતિની ખુરશી",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ વિવાદમાં આવી ગયા છે. ઈરાન વિરુદ્ધ અપશબ્દનો પ્રયોગ કર્યાં બાદ ટ્રમ્પની ટીકા કરવામાં આવી રહી છે. આ સાથે તેમની વિરુદ્ધ 25મું સંશોધન લાવી પદ પરથી હટાવવાની માંગ પણ ઉઠી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/donald-trump-trouble-insulting-iran-25th-amendment-us-president-post-471703 ",
-    "time": "2026-04-06T06:52:31.000Z"
   },
   {
     "cat": "Politics",
@@ -612,15 +621,6 @@ const newsData_gu = [
     "time": "2026-04-04T14:23:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026 વચ્ચે SRH ને મોટો ઝટકો: કેમ્પ છોડીને અચાનક ઘરે પરત ફર્યો કેપ્ટન, ફેન્સના ધબકારા વધ્યા",
-    "desc": "સનરાઇઝર્સ હૈદરાબાદે ઇન્ડિયન પ્રીમિયર લીગની 19મી સીઝનમાં અત્યાર સુધી માત્ર 2 મેચ રમી છે. આ બંને મેચોમાંથી ટીમે એકમાં જીત અને એકમાં હારનો સામનો કરવો પડ્યો છે. હવે SRH ને અચાનક પેટ કમિન્સના રૂપમાં એક મોટો ઝટકો લાગ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/major-blow-to-srh-amidst-ipl-2026-captain-suddenly-leaves-camp-and-returns-home-471511 ",
-    "time": "2026-04-04T14:12:01.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "8-10 લાખની કાર ફક્ત 2 લાખ રૂપિયામાં ખરીદો, આ સરકારી વેબસાઇટ તમારી કારનું સ્વપ્ન થશે સાકાર",
     "desc": "જે લોકો ઓછી કીંમતમાં સારી કાર ખરીદવા માગતા હોય તેના માટે સરકારની આ વેબસાઈટ બેસ્ટ છે, જેના દ્વારા તે પોતાના સપનાની કાર ખરીદી શકે છે. આ વેબસાઈટ પર અલગ-અલગ કંપનીની અનેક કાર હોય છે, જેમાં તમારે નોંધણી કરાવવી પડશે.",
@@ -646,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/how-much-more-dangerous-is-the-new-covid-19-variant-than-previous-ones-will-existing-vaccines-be-able-to-provide-protection-471498 ",
     "time": "2026-04-04T12:08:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "હાઈવે અને એક્સપ્રેસ વે પર મુસાફરી કરનારા માટે મહત્વના સમાચાર, 10 તારીખથી લાગૂ થશે મોટો ફેરફાર",
-    "desc": "હવે તમને હાઈવે કે એક્સપ્રેસવે પર ટોલ ભરવા માટે ક્યાય કેશ કાઉન્ટર જોવા મળશે નહીં કારણ કે 10 તારીખથી તમામ ટોલપ્લાઝા પર ફક્ત ડિજિટલ માધ્યમથી ટોલની ચૂકવણી થઈ શકશે. ફાસ્ટેગથી ટોલ ચૂકવવાનો રહેશે જો તે ન હોય તો પછી યુપીઆઈથી ટોલ ટેક્સ ભરી શકાશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/important-news-for-those-traveling-on-highways-and-expressways-toll-plazas-will-go-cashless-471461 ",
-    "time": "2026-04-04T08:29:49.000Z"
   },
   {
     "cat": "Entertainment",
