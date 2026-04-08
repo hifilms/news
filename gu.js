@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "અમેરિકા-ઈરાન વચ્ચે યુદ્ધવિરામ: શું છે ઈરાનની 10 મહત્વપૂર્ણ શરતો? પાકિસ્તાન કરશે મધ્યસ્થી, જાણો શું કરી અપીલ",
+    "desc": "અમેરિકી રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ઈરાન સાથે યુદ્ધવિરામ (સીઝફાયર)ની જાહેરાત કરી છે. ઈરાન પણ આ માટે સંમત થયું છે, પરંતુ તેણે પોતાની કેટલીક આકરી શરતો સામે મૂકી છે. હાલમાં અમેરિકા અને ઈરાન વચ્ચે બે અઠવાડિયા માટે યુદ્ધવિરામ થયો છે. આ દરમિયાન ઈરાને યુદ્ધના કાયમી અંત માટે 10 મુદ્દાઓનો પ્રસ્તાવ મૂક્યો છે, જેમાં રાહતની માંગથી લઈને સંયુક્ત રાષ્ટ્ર (UN) ને ખાસ અપીલ કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/us-iran-ceasefire-talks-set-out-10-conditions-with-talks-to-begin-on-april-10th-meeting-to-be-islamabad-pakistan-471995 ",
+    "time": "2026-04-08T06:57:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "યુદ્ધવિરામ થતા સોનું-ચાંદી ખુબ ઉછળ્યા, ભાવમાં તોતિંગ વધારો, જાણો 10 ગ્રામ સોનાનો આજનો ભાવ",
+    "desc": "મિડલ ઈસ્ટમાં અમેરિકા ઈઝરાયેલનું ઈરાન સાથે જે યુદ્ધ ચાલુ હતું તેને લઈને રાહતના સમાચાર આવ્યા છે. ત્રણેય દેશો 2 અઠવાડિયા માટે યુદ્ધ રોકવા માટે સહમત થઈ ગયા છે. જેની શેરબજાર અને સોના ચાંદી પર ભારે અસર જોવા મળી છે. શેરબજાર બંપર તેજીમાં જોવા મળ્યું છે જ્યારે ક્રૂડ ઓઈલના ભાવ ઘટાડા સાથે જોવા મળી રહ્યા છે. પરંતુ સોનું અને ચાંદી ઉછળ્યા છે. જાણો આજનો રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-increased-sharply-after-the-ceasefire-between-iran-usknow-aaj-no-sona-no-bhav-471979 ",
+    "time": "2026-04-08T06:54:33.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "1 રૂપિયામાં ડેટા, કોલિંગ અને SMS! પબ્લિક ડિમાન્ડ પર કંપનીએ રી-લોન્ચ કર્યો આ પ્લાન",
+    "desc": "સરકારી ટેલીકોમ કંપની BSNLએ પોતાનો પોપુલર Freedom Plan ફરી શરૂ કર્યો છે. આ પ્લાન હેઠળ ડેટા, કોલિંગ અને એસએમએસનો લાભ મળે છે. જો તમે આ પ્લાન એક્ટિવ કરાવવા ઈચ્છો છો તો તમારે BSNLનું નવું સિમ કાર્ડ લેવું પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/data-calling-and-sms-for-1-rupee-bsnl-re-launched-freedom-plan-471978 ",
+    "time": "2026-04-08T05:41:54.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "શાંતિ મફત નથી મળી, હોર્મુઝમાંથી પસાર થવા ચૂકવવી પડશે તોતિંગ ફી, શું ભારતે પણ ભરવી પડશે?",
     "desc": "ઈરાન અને અમેરિકા વચ્ચે જે યુદ્ધવિરામ થયો ત્યારબાદ હોર્મુઝ સ્ટ્રેટ પર જે સંકટ ઘેરાયું હતું તે દૂર થતું જોવા મળી રહ્યું છે. જો કે આ શાંતિ કઈ મફતમાં નથી આવી રહી તેના માટે કિંમત ચૂકવવા તૈયાર રહેવું પડશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/iran-us-ceasefire-news-will-iran-oman-charge-fees-to-allow-ships-to-pass-through-hormuz-471967 ",
-    "time": "2026-04-08T04:41:12.000Z"
+    "time": "2026-04-08T05:13:34.000Z"
   },
   {
     "cat": "World",
@@ -297,15 +324,6 @@ const newsData_gu = [
     "time": "2026-04-06T07:52:33.000Z"
   },
   {
-    "cat": "Business",
-    "title": "યુદ્ધને કારણે ગુજરાતમાં મોંઘવારી વધી! સિંગતેલ અને કપાસિયા તેલના ભાવમાં ભડકો થયો",
-    "desc": "યુદ્ધની અસર હવે રસોડામાં દેખાઈ રહી છે. વૈશ્વિક સ્થિતિને કારણે સિંગતેલ, કપાસિયા તેલ તથા પામ તેલના ભાવમાં વધારો ઝીંકાઈ રહ્યો છે. છેલ્લા દોઢ મહિનામાં ખાદ્યતેલના ભાવોમાં તોતિંગ વધારો થયો છે. વેપારીઓનું કહેવું છે કે, હજી આગળ પણ તેલના ભાવ વધી શકે છે, તેથી મોંઘવારી માટે તૈયાર રહેજો",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/singtel-and-kapasiya-tel-price-hike-due-to-iran-war-in-just-one-month-471695 ",
-    "time": "2026-04-06T07:26:54.000Z"
-  },
-  {
     "cat": "World",
     "title": "ગુસ્સામાં ઈરાનને અપશબ્દ બોલી ફસાઈ ગયા ટ્રમ્પ, શું આ નિયમથી જઈ શકે છે US રાષ્ટ્રપતિની ખુરશી",
     "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ વિવાદમાં આવી ગયા છે. ઈરાન વિરુદ્ધ અપશબ્દનો પ્રયોગ કર્યાં બાદ ટ્રમ્પની ટીકા કરવામાં આવી રહી છે. આ સાથે તેમની વિરુદ્ધ 25મું સંશોધન લાવી પદ પરથી હટાવવાની માંગ પણ ઉઠી રહી છે.",
@@ -439,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-invicto-discounts-april-2026-up-to-3-65-lakh-471558 ",
     "time": "2026-04-05T06:40:06.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાનનું લશ્કરી નેતૃત્વ ખતમ, તેહરાન પર અમેરિકાનો મોટો હુમલો, ટ્રમ્પે કર્યો દાવો",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ઈરાનની રાજધાની તેહરાન પર મોટો હુમલો કરવાનો દાવો કર્યો છે. તેમણે કહ્યું કે આ હુમલામાં ઘણા ટોચના ઈરાની લશ્કરી નેતાઓ માર્યા ગયા છે. ટ્રમ્પે આ શનિવારે જ ઈરાનને ધમકી આપી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/trump-claims-massive-us-attack-on-tehran-terminated-top-military-leaders-471532 ",
-    "time": "2026-04-05T04:26:10.000Z"
   },
   {
     "cat": "Sports",
@@ -619,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/john-abraham-film-based-on-india-nuclear-test-real-story-based-film-parmanu-on-ott-zee5-471369 ",
     "time": "2026-04-03T12:12:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દુનિયાભરમાં પેટ્રોલ-ડીઝલના ભાવમાં ભડકો, અનેક દેશોમાં કિંમતો થઈ બમણી; પણ ભારતમાં કેમ હજુ સ્થિર? જાણો કારણ",
-    "desc": "ઈરાનમાં યુદ્ધ શરૂ થયા પછી અત્યાર સુધી ગ્લોબલ ઓઈલ માર્કેટમાં ભારે ઉથલપાથલ જોવા મળી રહી છે. એક તરફ મ્યાનમારમાં પેટ્રોલના ભાવમાં 100% અને ડીઝલમાં 119.9%નો ઉછાળો નોંધાયો છે. જ્યારે ફિલિપાઇન્સમાં ડીઝલ 111% અને પેટ્રોલ 71.6% મોંઘું થયું છે. અમેરિકામાં પેટ્રોલ 31.1% અને ડીઝલ 41.8% મોંઘું થયું છે. પરંતુ ભારતમાં ભાવ કેમ વધ્યા નથી. જાણો શું છે તેના પાછળનું કારણ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/petrol-and-diesel-prices-hike-around-the-world-prices-have-doubled-in-many-countries-but-why-are-they-still-stable-in-india-know-471367 ",
-    "time": "2026-04-03T11:48:08.000Z"
   },
   {
     "cat": "Tech",

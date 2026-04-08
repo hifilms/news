@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sunil Gavaskar slams overseas players, questions their commitment amid unavailability issues in IPL 2026",
+    "desc": "Legendary Indian cricketer Sunil Gavaskar has once again stirred up the debate around overseas players' availability in the ongoing edition of the Indian Premier League (IPL). Several foreign players are yet to join their respective...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-slams-overseas-players-questions-their-commitment-amid-unavailability-issues-in-ipl-2026-2026-04-08-1036735",
+    "time": "2026-04-08T06:24:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Hardik Pandya lauds Vaibhav Sooryavanshi after his blitzkrieg vs MI, 'quite fascinating to see him'",
     "desc": "Vaibhav Sooryavanshi continues to be the talking point in the ongoing edition of the Indian Premier League (IPL). The 15-year-old is showing signs of stopping as he even took on the likes of Jasprit Bumrah...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/guwahati-weather-keeps-rr-mi-ipl-2026-clash-at-bay-what-is-cut-off-time-for-fixture-2026-04-07-1036668",
     "time": "2026-04-07T15:27:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler remains confident of returning to form soon amid lean patch in IPL 2026",
-    "desc": "Jos Buttler’s recent T20 form has drawn attention, with the England batter experiencing a dip by the lofty benchmarks he has established over the years. Representing Gujarat Titans in IPL 2026, Buttler has yet to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-remains-confident-of-returning-to-form-soon-amid-lean-patch-in-ipl-2026-2026-04-07-1036667",
-    "time": "2026-04-07T15:15:04.000Z"
   }
 ];
