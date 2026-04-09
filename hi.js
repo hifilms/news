@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shubman Gill opens up on chat with Prasidh Krishna in final over thriller against Delhi Capitals",
+    "desc": "The 14th game of the ongoing IPL (Indian Premier League) 2026 saw Delhi Capitals taking on Gujarat Titans at the Arun Jaitley Stadium in Delhi on April 8. The clash saw GT batting first and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-opens-up-on-chat-with-prasidh-krishna-in-final-over-thriller-against-delhi-capitals-2026-04-09-1036843",
+    "time": "2026-04-09T01:21:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'We could have been smarter in chase': DC skipper Axar Patel reflects on one-run loss to GT in IPL 2026",
     "desc": "Delhi Capitals captain Axar Patel reflected on his team's one-run loss to the Gujarat Titans at the Arun Jaitley Stadium on Wednesday, April 8. Having come within inches of the 211-run target, GT fell just...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-opens-up-on-the-injury-that-made-him-miss-gts-clash-against-rr-as-he-returns-for-dc-fixture-2026-04-08-1036794",
     "time": "2026-04-08T13:58:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Mitchell Starc not playing for DC vs GT in IPL 2026 clash at Arun Jaitley Stadium in Delhi?",
-    "desc": "Australia pacer Mitchell Starc is yet to join the Delhi Capitals squad for the IPL 2026. He has been out of action since the Big Bash League and there’s no update on when the cricketer...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-mitchell-starc-not-playing-for-dc-vs-gt-in-ipl-2026-clash-at-arun-jaitley-stadium-in-delhi-2026-04-08-1036793",
-    "time": "2026-04-08T13:53:27.000Z"
   }
 ];
