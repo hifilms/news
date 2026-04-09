@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "CD Gopinath, member of India's first-ever Test-winning team, dies at 96",
+    "desc": "CD Gopinath, the member of Team India's historic first-ever Test win in 1952, died today at the age of 96. He passed away peacefully in his sleep at his daughter's house in Adyar. Notably, he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cd-gopinath-member-of-india-s-first-ever-test-winning-team-dies-at-96-2026-04-09-1036943",
+    "time": "2026-04-09T12:46:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Prabhsimran Singh backs Impact Player rule, cites its importance for youngsters in IPL",
+    "desc": "Punjab Kings opener Prabhsimran Singh has come out in support of the Impact Player rule at a time when the regulation continues to divide opinion across the league. While several players, including Delhi Capitals captain...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/prabhsimran-singh-backs-impact-player-rule-cites-its-importance-for-youngsters-in-ipl-2026-04-09-1036941",
+    "time": "2026-04-09T12:24:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cooper Connolly prioritises game awareness over ultra-aggressive showing in IPL 2026",
+    "desc": "Australia international Cooper Connolly stole the show on his IPL debut, smacking unbeaten 72 runs against Gujarat Titans. His knock ensured Punjab Kings registered a comfortable three-wicket win. The 22-year-old had very little support from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cooper-connolly-prioritises-game-awareness-over-ultra-aggressive-showing-in-ipl-2026-2026-04-09-1036937",
+    "time": "2026-04-09T11:56:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yuvraj Singh recalls time when he was diagnosed with Cancer, 'doctor told I had only 3-6 months to live'",
+    "desc": "Yuvraj Singh opened up recently on his battle with cancer in a podcast with former England cricketer Michael Vaughan. During his interaction, the former India cricketer recalled that the doctor had told him that he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yuvraj-singh-recalls-time-when-he-was-diagnosed-with-cancer-doctor-told-i-had-only-3-6-months-to-live-2026-04-09-1036930",
+    "time": "2026-04-09T11:12:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 changes KKR should make against LSG to register first win in IPL 2026",
+    "desc": "Kolkata Knight Riders suffered back-to-back defeats to Mumbai Indians and Sunrisers Hyderabad to kick off the IPL 2026 season. The third game against Punjab Kings was called off due to rain, which allowed the Ajinkya...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-changes-kkr-should-make-against-lsg-to-register-first-win-in-ipl-2026-2026-04-09-1036923",
+    "time": "2026-04-09T10:51:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Injured or dropped? Varun Chakaravarthy's struggles tell different story as KKR gear up to face LSG",
+    "desc": "Kolkata Knight Riders have struggled so far in the ongoing season of the Indian Premier League (IPL). They have lost two out of three matches while the other was washed out due to rain when...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/injured-or-dropped-varun-chakaravarthy-s-struggles-tell-different-story-as-kkr-gear-up-to-face-lsg-2026-04-09-1036920",
+    "time": "2026-04-09T10:36:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will surface in Kolkata play for IPL 2026 play?",
     "desc": "Kolkata Knight Riders will be hosting Lucknow Super Giants in game 15 of the ongoing IPL (Indian Premier League) 2026. The two sides will take on each other at the Eden Gardens in Kolkata on...",
     "img": "",
@@ -25,68 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-lsg-weather-report-how-will-weather-in-kolkata-fare-for-ipl-2026-game-15-2026-04-09-1036896",
     "time": "2026-04-09T08:08:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Washington Sundar ends drought after 3273 days with 55-run knock vs Delhi Capitals in IPL 2026",
-    "desc": "Washington Sundar was one of the three half-centurions for the Gujarat Titans in their one-run win over the Delhi Capitals in the 14th match of IPL 2026. Sundar batted at four and did well to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/washington-sundar-ends-drought-after-3273-days-with-55-run-knock-vs-delhi-capitals-in-ipl-2026-2026-04-09-1036891",
-    "time": "2026-04-09T07:32:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer slams David Miller after brain-fade moment against Gujarat Titans",
-    "desc": "Delhi Capitals were left begging as Gujarat Titans registered a thrilling victory against them in game 14 of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Arun Jaitley Stadium in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-slams-david-miller-after-brain-fade-moment-against-gujarat-titans-2026-04-09-1036887",
-    "time": "2026-04-09T07:09:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar Azam loses cool after comparison with Virat Kohli, slams reporter for questioning his ability: Watch",
-    "desc": "Peshawar Zalmi won the 15th match of the Pakistan Super League (PSL) as they chased down 146 runs in the last-over thriller. Their skipper, Babar Azam, was the top-scorer for the team, with 43 runs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-loses-cool-after-questioning-his-inability-to-finish-matches-like-virat-kohli-watch-2026-04-09-1036885",
-    "time": "2026-04-09T06:57:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill fined hefty sum for maintaining a slow over-rate against Delhi Capitals",
-    "desc": "In a major development, Gujarat Titans skipper Shubman Gill has been fined by the IPL (Indian Premier League) for maintaining a slow over-rate against Delhi Capitals. It is worth noting that Gill has been fined...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-fined-hefty-sum-for-maintaining-a-slow-over-rate-against-delhi-capitals-2026-04-09-1036877",
-    "time": "2026-04-09T05:49:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Player battles to watch out for in IPL 2026 Match 15",
-    "desc": "The stage is set for game 15 of the ongoing IPL (Indian Premier League) 2026. Kolkata Knight Riders will be hosting Lucknow Super Giants at the Eden Gardens in Kolkata on April 9. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-lsg-3-player-battles-to-watch-out-for-in-ipl-2026-match-15-2026-04-09-1036868",
-    "time": "2026-04-09T05:00:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli set to join likes of Chris Gayle, Rohit Sharma in elite list ahead of clash against RR",
-    "desc": "The stage is set for game 16 of the ongoing IPL (Indian Premier League) 2026. Table topper Rajasthan Royals will lock horns with defending champions Royal Challengers Bengaluru. The two sides will lock horns at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-set-to-join-likes-of-chris-gayle-rohit-sharma-in-elite-list-ahead-of-clash-against-rr-2026-04-09-1036858",
-    "time": "2026-04-09T03:48:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hansi Flick slams referee decisions after Atletico Madrid thump Barcelona in Champions League meeting",
-    "desc": "The first legs of the UEFA Champions League quarter-finals have concluded. With Bayern Munich and Arsenal registering victories on day 1, day 2 did not prove to be as fruitful for FC Barcelona and Liverpool....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/hansi-flick-slams-referee-decisions-after-atletico-madrid-thump-barcelona-in-champions-league-meeting-2026-04-09-1036850",
-    "time": "2026-04-09T02:21:44.000Z"
   }
 ];

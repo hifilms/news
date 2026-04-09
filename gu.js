@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "માત્ર 175 રન જ નહીં... વૈભવ બનાવશે સૌથી મોટો આ રેકોર્ડ, IPL 2026 વચ્ચે બાળપણના કોચે કર્યો દાવો",
+    "desc": "વૈભવ સૂર્યવંશીમાં કેટલું ટેલેન્ટ છે, તે બધાએ જોઈ લીધું છે. માત્ર 15 વર્ષની ઉંમરે વૈભવ સિક્સરનો વરસાદ કરી રહ્યો છે. જસપ્રીત બુમરાહ જેવા બોલર સામે પ્રથમ બોલે જ સિક્સર ફટકારીને તેણે બધાને ચોંકાવી દીધા છે. ત્યારબાદ તેના બાળપણના કોચે એક મોટો દાવો કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/not-just-175-runs-vaibhav-will-make-this-biggest-record-childhood-coach-claims-during-ipl-2026-472233 ",
+    "time": "2026-04-09T12:48:48.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "1 બેરલ પર 1 ડોલર ટોલ વસૂલશે ઈરાન, એક શિપમાં કેટલા બેરલ હોય છે ક્રૂડ ઓઈલ? જાણો ભારત પર શું પડશે અસર",
+    "desc": "ઈરાને હવે સ્ટ્રેટ ઓફ હોર્મુઝમાંથી પસાર થતા ઓઈલ ટેન્કરો પર મોટો ટોલ ટેક્સ વસૂલવાની યોજના બનાવી છે. આ યોજના હેઠળ ક્રૂડ ઓઈલના દરેક એક બેરલ પર એક ડોલરની ચુકવણી કરવી પડશે. ચાલો જાણીએ કે એક જહાજમાં કેટલું ઓઈલ હોય છે અને કેટલા બેરલ હોય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-will-charge-1-dollar-toll-on-1-barrel-how-many-barrels-of-crude-oil-are-in-a-ship-know-what-will-be-the-impact-on-india-472203 ",
+    "time": "2026-04-09T11:17:29.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "WhatsAppના ઇતિહાસનું સૌથી મોટું અપડેટ, હવે ફોન નંબર વગર પણ કરી શકશો ચેટિંગ, આવી રહ્યું છે નવું ફીચર",
+    "desc": "WhatsAppમાં એક એવું ફીચર આવી રહ્યું છે જેની યુઝર્સ ઘણા સમયથી રાહ જોઈ રહ્યા હતા. તેનું ટેસ્ટિંગ શરૂ થઈ ગયું છે અને તે ઘણા યુઝર્સ માટે રોલઆઉટ કરવામાં આવ્યું છે. એકવાર આ ફીચર એક્ટિવેટ થઈ ગયા પછી તમારે ચેટ કરવા માટે કોઈની સાથે તમારો ફોન નંબર શેર કરવાની જરૂર રહેશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/whatsapp-username-feature-chat-without-sharing-phone-number-472200 ",
+    "time": "2026-04-09T10:52:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "હવે ફ્રીમાં ઓવરટાઈમ નહીં કરાવી શકે કંપની, 1 કલાકનો મળશે ડબલ પગાર, જાણો નવા લેબર કોડના નિયમ",
+    "desc": "નવા લેબર કોડ અનુસાર જો કોઈ કર્મચારી નિર્ધારિત સમય (8 કે 9 કલાક) થી વધુ કામ કરે છે તો તેને એક્સ્ટ્રા ચુકવણી જરૂરી છે. આવો હવે જાણીએ 1 કલાક ઓવરટાઈમ કરવા પર તમને કેટલો પગાર મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/now-the-company-will-have-to-pay-for-overtime-the-rule-will-be-implemented-after-the-new-labor-code-472193 ",
+    "time": "2026-04-09T10:31:01.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ઈરાનની જેમ જો ભારત આ જળમાર્ગ પરથી ટોલ વસૂલવાનું શરૂ કરે તો પૈસાનો વરસાદ થવા લાગે!",
     "desc": "હોર્મુઝમાંથી પસાર થતા જહાજો પર ટોલ વસૂલવાની ઈરાનની લાલસા દુનિયાને મોટી મુસીબતમાં મૂકી શકે છે. ભારતના જાણીતા બેંકર અજય બગ્ગાએ તેના પર નારાજગી વ્યક્ત કરી અને ભારતને પણ સલાહ આપી કે આપણે આંદમાનવાળા જળમાર્ગ દ્વારા ટોલ વસૂલવો જોઈએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/ajay-bagga-expresses-displeasure-over-iran-toll-tax-in-hormuz-check-what-advise-for-india-472182 ",
-    "time": "2026-04-09T10:02:23.000Z"
+    "time": "2026-04-09T10:11:02.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +504,6 @@ const newsData_gu = [
     "time": "2026-04-07T03:55:14.000Z"
   },
   {
-    "cat": "World",
-    "title": "ઈરાનના &amp;#039;સાઉથ પાર્સ&amp;#039; પર ઇઝરાયલનો મોટો હુમલો, અંધકારમાં ડૂબી શકે છે દેશ",
-    "desc": "ગયા મહિને ઇઝરાયલે ઈરાનના સૌથી મોટા ગેસ પ્લાન્ટ સાઉથ પાર્સ પર હુમલો કર્યો હતો, જે બાદ ટ્રમ્પનું એક નિવેદન સામે આવ્યું હતું કે આગામી સમયમાં ઈરાનના એનર્જી ઈન્ફ્રાસ્ટ્રક્ચરને ટાર્ગેટ કરવામાં આવશે નહીં છતાં ઇઝરાયલ દ્વારા હુમલો કરવામાં આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/israel-attack-on-iran-gas-field-south-pars-despite-trump-warning-471803 ",
-    "time": "2026-04-06T16:19:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "વરુણ ચક્રવર્તી અને સુનીલ નારાયણ અચાનક KKRની પ્લેઇંગ ઇલેવનમાંથી બહાર, જાણો શું છે કારણ",
     "desc": "IPL 2026માં આજે પંજાબ કિંગ્સ અને કોલકાતા નાઈટ રાઈડર્સ વચ્ચે ટક્કર છે. આ મેચમાં કોલકાતાના કેપ્ટન અજિંક્ય રહાણેએ ટોસ જીતીને પહેલા બેટિંગ કરવાનો નિર્ણય લીધો હતો. આજની મેચમાં KKRની પ્લેઇંગ ઇલેવનમાંથી વરુણ ચક્રવર્તી અને સુનીલ નારાયણ બહાર થયા છે.",
@@ -538,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/representative-of-iran-supreme-leader-abdul-majid-hakeem-llahi-praises-indian-diplomacy-471701 ",
     "time": "2026-04-06T06:43:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 વચ્ચે હાર્દિક-નતાશાના સંબંધોમાં નવો વળાંક... એક્સ વાઈફની પોસ્ટથી ખડભડાટ! પરિવારની તસવીરો વાયરલ",
-    "desc": "ટીમ ઈન્ડિયાનો સ્ટાર ઓલરાઉન્ડર હાર્દિક પંડ્યા તેના રમતગમત કારકિર્દીની સાથે સાથે તેના અંગત જીવનને કારણે પણ ચર્ચામાં રહે છે. જુલાઈ 2024માં, હાર્દિક પંડ્યા અને નતાશાએ તેમના પાંચ વર્ષના સંબંધોનો અંત લાવ્યો. હવે, હાર્દિક તેની નવી ગર્લફ્રેન્ડ, મહિકા શર્મા પર પ્રેમ વરસાવતો જોવા મળે છે. જો કે, હાર્દિક અને નતાશાના સંબંધોમાં એક નવો વળાંક આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/a-new-twist-in-hardik-natasha-relationship-amidst-ipl-2026-ex-wife-post-creates-uproar-family-pictures-go-viral-471690 ",
-    "time": "2026-04-06T04:37:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -763,14 +781,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ranveer-singh-film-dhurandhar-tv-premiere-on-30-may-2026-watch-dhurandhar-film-for-free-470764 ",
     "time": "2026-03-30T09:49:49.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "પેટ્રોલ કે ઇલેક્ટ્રિક... કયું સ્કૂટર ખરીદવું ? જો તમને પણ છે આ સવાલ તો જાણી લો જવાબ",
-    "desc": "જો તમે 2026માં નવું સ્કૂટર ખરીદવાનું વિચારી રહ્યા છો, તો તમારી પાસે બે વિકલ્પો છે. હવે તમે પેટ્રોલ અથવા બેટરીથી ચાલતું ઇલેક્ટ્રિક સ્કૂટર પસંદ કરી શકો છો. જો કે, પ્રશ્ન એ રહે છે કે લાંબા ગાળે કયું સ્કૂટર વધુ ફાયદાકારક સાબિત થશે ? ત્યારે આજે અમે તમને આ લેખમાં પ્રાઇસ, મેન્ટેનન્સ અને રનિંગ કોસ્ટની દ્રષ્ટિએ જણાવીશું કે કયું સ્કૂટર બેસ્ટ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/electric-vs-petrol-scooter-price-running-cost-and-maintenance-comparison-470741 ",
-    "time": "2026-03-30T08:22:42.000Z"
   }
 ];

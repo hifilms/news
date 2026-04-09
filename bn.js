@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "বাংলাদেশকে ২০০ রেল-কোচ দিচ্ছে ভারত; পদ্মাপারের রেলপথে গতিমান ভারত-গৌরব",
+    "desc": "রেলমন্ত্রী বলেন, এ বছর ভারত থেকে ২০০টি ব্রডগেজ কোচের সরবরাহের কথা রয়েছে। প্রকল্পের আওতায় ২০২৬ সালের জুন থেকে ২০২৭ সালের ডিসেম্বর নাগাদ ২০০টি ব্রডগেজ ক্যারেইজ বাংলাদেশ রেলওয়েতে যুক্ত হবে বলে আশা করা যায় বলে তিনি জানান।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/200-broad-gauge-coaches-to-be-imported-from-india-railways-minister_648159.html ",
+    "time": "2026-04-09T12:45:55.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "ফের 'রক্ষিতা' বিতর্কে তোলপাড়: মনোনয়নে সদ্য সিঁদুর পরানো ঋত্বিকা নয়, পুরনো অনিন্দিতাকে স্ত্রী বললেন হিরণ",
     "desc": "মনোনয়ন জমা দিতেই বড়সড় বিতর্কের মুখে বিজেপি প্রার্থী হিরণ চট্টোপাধ্যায়! স্ত্রী হিসেবে কার নাম লিখলেন হলফনামায়? প্রথম স্ত্রী অনিন্দিতার করা ‘রক্ষিতা’ মন্তব্যে শোরগোল নেটপাড়ায়। আগেই অনিন্দিতা জানিয়েছিলেন যে হলফনামায় স্ত্রীর জায়গায় কার নাম থাকে, সেদিকেই তাঁর নজর থাকবে।",
@@ -205,14 +214,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/tv-actress-ahona-dutta-husband-deepankar-health-update-hospitalized-icu_647655.html ",
     "time": "2026-04-06T08:34:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];
