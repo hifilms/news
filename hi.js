@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 Player battles to watch out for in IPL 2026 Match 15",
+    "desc": "The stage is set for game 15 of the ongoing IPL (Indian Premier League) 2026. Kolkata Knight Riders will be hosting Lucknow Super Giants at the Eden Gardens in Kolkata on April 9. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-lsg-3-player-battles-to-watch-out-for-in-ipl-2026-match-15-2026-04-09-1036868",
+    "time": "2026-04-09T05:00:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli set to join likes of Chris Gayle, Rohit Sharma in elite list ahead of clash against RR",
+    "desc": "The stage is set for game 16 of the ongoing IPL (Indian Premier League) 2026. Table topper Rajasthan Royals will lock horns with defending champions Royal Challengers Bengaluru. The two sides will lock horns at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-set-to-join-likes-of-chris-gayle-rohit-sharma-in-elite-list-ahead-of-clash-against-rr-2026-04-09-1036858",
+    "time": "2026-04-09T03:48:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hansi Flick slams referee decisions after Atletico Madrid thump Barcelona in Champions League meeting",
+    "desc": "The first legs of the UEFA Champions League quarter-finals have concluded. With Bayern Munich and Arsenal registering victories on day 1, day 2 did not prove to be as fruitful for FC Barcelona and Liverpool....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/hansi-flick-slams-referee-decisions-after-atletico-madrid-thump-barcelona-in-champions-league-meeting-2026-04-09-1036850",
+    "time": "2026-04-09T02:21:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shubman Gill opens up on chat with Prasidh Krishna in final over thriller against Delhi Capitals",
     "desc": "The 14th game of the ongoing IPL (Indian Premier League) 2026 saw Delhi Capitals taking on Gujarat Titans at the Arun Jaitley Stadium in Delhi on April 8. The clash saw GT batting first and...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-makes-addition-to-match-playing-conditions-for-ipl-restricts-movements-of-benched-players-2026-04-08-1036811",
     "time": "2026-04-08T15:46:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra's next event: Doha Diamond League postponed due to West Asia tension",
-    "desc": "World Athletics has delayed the opening of the 2026 Diamond League in Doha. It has been moved away from its original May slot as tensions across West Asia continue to raise safety concerns, despite a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/neeraj-chopra-s-next-event-doha-diamond-league-postponed-due-to-west-asia-tensions-2026-04-08-1036808",
-    "time": "2026-04-08T15:36:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler becomes first England cricketer to register major feat in T20s, smacks half-century vs DC",
-    "desc": "Jos Buttler created history by becoming the first England player to smash 600 sixes in T20 cricket. He had been level with Alex Hales for the record, but during a blistering innings against Delhi Capitals...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-becomes-first-england-cricketer-to-register-major-feat-in-t20s-smacks-half-century-vs-delhi-capitals-2026-04-08-1036802",
-    "time": "2026-04-08T14:50:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill opens up on the injury that made him miss GT's clash against RR as he returns for DC fixture",
-    "desc": "Shubman Gill was sidelined for the Gujarat Titans clash against the Rajasthan Royals due to what was said as a 'muscle spasm'. With Gill missing, Afghanistan star Rashid Khan led the team in the clash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-opens-up-on-the-injury-that-made-him-miss-gts-clash-against-rr-as-he-returns-for-dc-fixture-2026-04-08-1036794",
-    "time": "2026-04-08T13:58:02.000Z"
   }
 ];

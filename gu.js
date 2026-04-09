@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ભયંકર મુશ્કેલીઓનો સામનો કરીને 9 પોલીસકર્મીઓને મોતની સજા સુધી પહોંચાડ્યા, જાણો એ જાંબાઝ મહિલા પોલીસકર્મી વિશે",
+    "desc": "કોવિડ કાળ દરમિયાન લોકડાઉનના નિયમોનું પાલન ન કરવાના આરોપમાં બે વ્યક્તિઓને કસ્ટડીમાં લઈને તમિલનાડુમાં પોલીસકર્મીઓએ જે અત્યાચાર ગુજાર્યો ત્યારબાદ તેમના મોત નિપજ્યા. જેમાં 9 પોલીસકર્મીઓ દોષિત ઠરતા તેમને ઐતિહાસિક ચુકાદા હેઠળ મોતની સજા ફટકારવામાં આવી. આ ચુકાદામાં એક મહિલા હેડ કોન્સ્ટેબલની જુબાની નિર્ણયાક બની. ખાસ જાણો તેના વિશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/sattankulam-custodial-death-case-know-about-the-constable-revathi-whose-testimony-become-historical-472110 ",
+    "time": "2026-04-09T04:41:33.000Z"
+  },
+  {
     "cat": "World",
     "title": "શું તૂટી જશે સિઝફાયર....? લેબનોન પરના હુમલાઓથી ગુસ્સે ભરાયું ઈરાન, હોર્મુઝ સ્ટ્રેટમાં જહાજ અટકાવ્યા, જાણો",
     "desc": "અમેરિકા અને ઈરાન વચ્ચે યુદ્ધવિરામની જાહેરાત છતાં, પશ્ચિમ એશિયામાં તણાવ ઓછો થવાને બદલે વધી રહ્યો હોય તેવું લાગે છે. ઇઝરાયલ અને લેબનોન વચ્ચે યુદ્ધ વધુ તીવ્ર બન્યું છે, જેના કારણે પરિસ્થિતિ વધુ ગંભીર બની છે.",
@@ -594,15 +603,6 @@ const newsData_gu = [
     "time": "2026-04-04T15:05:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પેટ્રોલ અને એલપીજી અંગે ભારત સરકારે જાહેર કર્યું મોટું નિવેદન, ઈરાન યુદ્ધ વચ્ચે જનતાને કરી આ અપીલ, જાણો",
-    "desc": "યુદ્ધને કારણે, ભારતમાં પણ પેટ્રોલ અને LPG પુરવઠાની અછતનો સામનો કરવો પડી રહ્યો છે. આ દરમિયાન, સરકારે ફરી એકવાર દેશના નાગરિકોને પેટ્રોલ, ડીઝલ અથવા LPG પર અપીલ કરી છે. હોર્મુઝ સ્ટ્રેટ બંધ થવાને કારણે પણ દેશમાં ગેસની અછત સર્જાઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/indian-government-issued-a-big-statement-regarding-petrol-and-lpg-made-this-appeal-to-the-public-amidst-the-iran-war-know-471514 ",
-    "time": "2026-04-04T14:41:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "વધ 2, સિતારે ઝમીન પર સહિતની ફિલ્મો અને વેબ સીરીઝ ઓટીટી પર રિલીઝ, નક્કી કરી લો રવિવારે શું જોશો",
     "desc": "રવિવારની રજામાં ઘરે બેઠા જોવા માટે તમારી પાસે ફિલ્મ અને વેબ સીરીઝના 5 ઓપ્શન છે. એપ્રિલ મહિનાના પહેલા સપ્તાહમાં ઓટીટી પર હિંદી ફિલ્મો અને વેબ સીરીઝ રિલીઝ થઈ ચુકી છે. લિસ્ટ જોઈ ફટાફટ નક્કી કરી લો તમે રજામાં શું જોવાના છો. ?",
@@ -637,15 +637,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/netflix-upcoming-hindi-film-toaster-trailer-released-here-is-streaming-date-471509 ",
     "time": "2026-04-04T13:46:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કોવિડ-19 નો નવો વેરિઅન્ટ પહેલા કરતા કેટલો ખતરનાક? શું હાલની વેક્સિન સુરક્ષા આપી શકશે?",
-    "desc": "Covid-19 New Variant નવા COVID-19 સબ-વેરિઅન્ટ BA.3.2 એ લોકોમાં ભયનું વાતાવરણ ઉભું કરી નાખ્યું છે, કારણ કે તેમને ડર છે કે COVID-19 ના જૂના દિવસો પાછા આવી શકે છે. એવામાં દરેકના સવાલ ઉભો કરે છે કે જેમ પ્રથમ COVID-19 મહામારી દરમિયાન કોરોના વિક્સિન વિકસાવવામાં સમય લાગ્યો હતો, શું વર્તમાન રસી તેને અટકાવી શકશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-much-more-dangerous-is-the-new-covid-19-variant-than-previous-ones-will-existing-vaccines-be-able-to-provide-protection-471498 ",
-    "time": "2026-04-04T12:08:53.000Z"
   },
   {
     "cat": "Entertainment",
