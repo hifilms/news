@@ -1,12 +1,120 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Nitish leaves for Delhi, may resign as Bihar CM after taking oath as Rajya Sabha member",
-    "desc": "The BJP may name its first Chief Minister in Bihar after April 14, and the new government may take oath at a function in the Raj Bhawan on April 15 or 16, a BJP leader said",
-    "img": "https://th-i.thgim.com/public/incoming/hizigx/article70842914.ece/alternates/LANDSCAPE_1200/PTI04_09_2026_000335B.jpg",
+    "title": "campaign trail heats up in Kundara as three major fronts intensify their reach-out programmes",
+    "desc": "Incumbent MLA P.C. Vishnunadh of UDF is banking on his track record, while LDF’s Sajikumar promises transformative projects. Robin Radhakrishnan of the NDA is advocating for radical change while pledging direct access to Prime Minister Modi if elected.",
+    "img": "https://th-i.thgim.com/public/incoming/xxvgxt/article70824551.ece/alternates/LANDSCAPE_1200/80686_4_4_2026_20_30_27_1_05TVKO_KUNDARAUDFCANDIDATE.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/nitish-leaves-for-delhi-may-resign-as-bihar-cm-after-taking-oath-as-rajya-sabha-member/article70842796.ece",
-    "time": "2026-04-09T13:14:12.000Z"
+    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-campaign-trail-heats-up-in-kundara-as-three-major-fronts-intensify-their-reach-out-programmes/article70823079.ece",
+    "time": "2026-04-09T16:01:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kunal Kamra launches legal challenge to Sahyog Portal rules at Bombay High Court",
+    "desc": "The counsel informed the Bench that while the present petition was pending, the Central Government had introduced further amendments to the Rules. He added that the Union of India had not filed its reply to the petition despite being served notice several months ago.",
+    "img": "https://th-i.thgim.com/public/incoming/op65bs/article70844113.ece/alternates/LANDSCAPE_1200/IMG_WhatsApp_Image_2025-_2_1_PVE5JHAS.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/mumbai/kunal-kamra-launches-legal-challenge-to-sahyog-portal-rules-at-bombay-high-court/article70843970.ece",
+    "time": "2026-04-09T15:57:40.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Worried by hits on Iran nuclear sites, must never happen again: IAEA chief Rafael Grossi",
+    "desc": "Rafael Grossi, who is running for the UN Secretary General this year, says ‘war has returned in a furious way to different parts of the world’; he says the UN is still relevant in today’s world",
+    "img": "https://th-i.thgim.com/public/incoming/57hcak/article70843704.ece/alternates/LANDSCAPE_1200/AFP_A6VD3NQ.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iaea-director-general-rafael-grossi-interview-iran-nuclear-sites-israel-us-attacks/article70842785.ece",
+    "time": "2026-04-09T15:51:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jagan’s ‘MAVIGUN’ plan an attempt to incite regional conflicts, says Agriculture Minister Atchannaidu",
+    "desc": "Describing the 2019–2024 period as an era of total destruction, Atchannaidu says the NDA government has put the State back on track in 22 months of assuming power with the support of Prime Minister Narendra Modi",
+    "img": "https://th-i.thgim.com/public/incoming/4g4b0x/article70843707.ece/alternates/LANDSCAPE_1200/Agriculture-MinGI4F9G4JS.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagans-mavigun-plan-an-attempt-to-incite-regional-conflicts-says-agriculture-minister-atchannaidu/article70843511.ece",
+    "time": "2026-04-09T15:46:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Will the audience accept Ranbir Kapoor as Ram?’",
+    "desc": "As anticipation builds around Ramayana, actor Sunil Lahri—best known for playing Lakshman in Ramanand Sagar’s iconic TV serial—has shared a balanced take on the teaser of Ramayana. While he is hopeful about the film’s scale and intent, Lahri believes certain emotional aspects need more depth. Directed by Nitesh Tiwari, the film stars Ranbir Kapoor as Lord Ram, Ravi Dubey as Lakshman, Sai Pallavi as Sita, and Yash as Ravana.",
+    "img": "https://static.toiimg.com/photo/msid-130147385,imgsize-88306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunil-lahri-hopes-nitesh-tiwaris-ramayana-becomes-a-landmark-film-ranbir-is-a-very-good-actor-but-will-the-audience-accept-him-as-ram/articleshow/130147385.cms",
+    "time": "2026-04-09T15:22:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Umpiring blunder! Finn Allen dismissal sparks row in KKR vs LSG match",
+    "desc": "Umpiring faced backlash in the Kolkata Knight Riders (KKR) vs Lucknow Super Giants (LSG) IPL 2026 match after Finn Allen’s controversial catch dismissal by Digvesh Rathi on Thursday. Fans questioned its validity, sparking debate and memes online. Despite the uproar, KKR steadied their innings, but the incident kept umpiring standards under scrutiny.",
+    "img": "https://static.toiimg.com/photo/msid-130147246,imgsize-74992.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-umpiring-blunder-finn-allen-dismissal-sparks-row-in-kkr-vs-lsg-match/articleshow/130145869.cms",
+    "time": "2026-04-09T15:13:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Not good for Hinduism': Supreme Court flags risks of sect-based temple restrictions during Sabarimala hearing",
+    "desc": "The Supreme Court expressed concern over sect-based temple restrictions, warning they could harm Hinduism and divide society. A nine-judge bench heard arguments on religious freedom versus state power to open temples, with judges questioning exclusions that might negatively impact the religion and its followers.",
+    "img": "https://static.toiimg.com/photo/msid-130147009,imgsize-1499866.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/not-good-for-hinduism-supreme-court-flags-risks-of-sect-based-temple-restrictions-during-sabarimala-hearing/articleshow/130146941.cms",
+    "time": "2026-04-09T15:04:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Indian team to visit U.S. this month to discuss trade deal currently stuck in limbo",
+    "desc": "Previously, Commerce Minister Piyush Goyal has indicated that the deal can go forward only if India receives preferential market access as was agreed to in February. The U.S. is yet to finalise its tariffs on other economies",
+    "img": "https://th-i.thgim.com/public/incoming/jbxnro/article70843661.ece/alternates/LANDSCAPE_1200/20260326312L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/indian-trade-delegation-to-visit-washington-this-month-us-envoy-sergio-gor/article70842744.ece",
+    "time": "2026-04-09T14:44:38.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Dramatic visuals of high-speed car chase in California",
+    "desc": "A high-speed police chase through Southern California on Wednesday (April 8) ended when sheriff’s deputies deployed a “grappler” device, sending the vehicle crashing into a home in Jurupa Valley, local media reported. The suspect was pronounced dead at the crash scene, according to ABC affiliate KABC.",
+    "img": "https://th-i.thgim.com/public/incoming/6bz5yk/article70843555.ece/alternates/LANDSCAPE_1200/car%20chase.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-dramatic-visuals-of-high-car-chase-in-california/article70843548.ece",
+    "time": "2026-04-09T14:27:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Green finally bowl today after recent doubts?",
+    "desc": "Australia all-rounder Cameron Green could soon resume bowling for Kolkata Knight Riders after being seen practising in the nets. Captain Ajinkya Rahane said his bowling improves team balance. After earlier confusion, Cricket Australia confirmed he is recovering from a back issue and gradually building workload, with a return likely soon.",
+    "img": "https://static.toiimg.com/photo/msid-130145180,imgsize-61252.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/kkr-vs-lsg-ipl-2026-will-cameron-green-finally-bowl-today-after-recent-doubts/articleshow/130145042.cms",
+    "time": "2026-04-09T13:57:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sandeep Reddy Vanga slams propaganda claims against 'Dhurandhar 2'",
+    "desc": "The Revenge' as an outstanding film, defending it against accusations of propaganda. Vanga criticized those labeling truth as propaganda, stating that a significant effort is needed to counter the film's impact. He shared his thoughts after watching the movie with Prabhas.",
+    "img": "https://static.toiimg.com/photo/msid-130144672,imgsize-47096.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-industry-stayed-quiet-like-cats-sandeep-reddy-vanga-slams-propaganda-claims-against-dhurandhar-2-warns-aditya-dhar-ranveer-singh-against-evil-eye/articleshow/130144470.cms",
+    "time": "2026-04-09T13:36:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "4 golds! India women boxers dominate Asian Boxing Cships with 10 medals",
+    "desc": "India’s women’s boxing team dominated the Asian Championships 2026, winning 10 medals, including four golds, with every boxer reaching the podium. Golds came from Minakshi, Preeti, Priya, and Arundhati. The men’s team had mixed results, with Vishvanath Suresh and Sachin reaching finals, while others lost. India finished with the highest medal tally overall.",
+    "img": "https://static.toiimg.com/photo/msid-130144418,imgsize-127596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/boxing/4-golds-india-women-boxers-dominate-asian-boxing-championships-2026-with-10-medals/articleshow/130144254.cms",
+    "time": "2026-04-09T13:27:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Court orders Aditya Dhar, Trimurti Films to resolve dispute through mediation",
+    "desc": "Trimurti Films has filed a copyright infringement lawsuit against Aditya Dhar's production house, Rang De Lal (Oye Oye), over the alleged unauthorized use of the song 'Tirchi Topiwala' from 'Tridev' in 'Dhurandhar 2'. The Delhi High Court has ordered mediation to resolve the dispute, which appears largely financial, concerning royalty and compensation.",
+    "img": "https://static.toiimg.com/photo/msid-130143968,imgsize-56362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/court-orders-aditya-dhar-and-trimurti-films-to-resolve-dispute-over-using-oye-oye-song-in-dhurandhar-2-through-mediation/articleshow/130143811.cms",
+    "time": "2026-04-09T13:03:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -16,6 +124,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-raina-net-worth-how-chess-streams-stand-up-comedy-and-indias-got-latent-built-a-usd-16-5-to-23-1-million-fortune/articleshow/130143817.cms",
     "time": "2026-04-09T13:01:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jaiswal-Sooryavanshi eclipses 'Travishek', Kohli-Salt to set IPL record",
+    "desc": "When we apply at least 10-innings filter, only Sunil Narine and Phil Salt have scored at a faster rate than Yashasvi Jaiswal and Vaibhav Sooryavanshi among opening pairs in IPL history. ​​The duo have been in sensational touch this season and have fired on all cylinders in the Royals’ three wins in as many games.",
+    "img": "https://static.toiimg.com/photo/msid-130143545,imgsize-84866.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/brothers-of-destruction-jaiswal-sooryavanshi-eclipse-travishek-kohli-salt-to-become-ipls-most-explosive-opening-pair/articleshow/130142521.cms",
+    "time": "2026-04-09T12:57:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -34,15 +151,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/world-record-brazils-laura-cardoso-scripts-t20i-history-becomes-first-ever-cricketer-to-/articleshow/130143289.cms",
     "time": "2026-04-09T12:51:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Crossing the line: How Jewar residents risk their lives to catch a bus",
-    "desc": "As the Noida International Airport takes shape in Jewar, billions are being poured into infrastructure that promises to transform the region. But for the villages that surround the project, a basic need remains unmet - a safe place to catch a bus.",
-    "img": "https://th-i.thgim.com/public/incoming/81v42s/article70842926.ece/alternates/LANDSCAPE_1200/Red%20and%20Black%20Paper%20Collage%20Economic%20Podcast%20Youtube%20Thumbnail%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-crossing-the-line-how-jewar-residents-risk-their-lives-to-catch-a-bus/article70842880.ece",
-    "time": "2026-04-09T12:43:36.000Z"
   },
   {
     "cat": "Business",
@@ -72,13 +180,13 @@ const newsData_en = [
     "time": "2026-04-09T11:59:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NGT stays tree-felling in Nashik till Apr 28; Mayor defends move",
-    "desc": "The Mayor said that the decision to fell trees as part of the mega event and due to rise in the number of road accidents was not a sudden one but has been taken considering all aspects.",
-    "img": "https://th-i.thgim.com/public/incoming/ke43m3/article70842647.ece/alternates/LANDSCAPE_1200/350_tress_to_be_hacked_for_road_widening_Nashik_3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/kumbh-mela-ngt-stays-tree-felling-in-nashik-till-apr-28-mayor-defends-move/article70842532.ece",
-    "time": "2026-04-09T11:58:24.000Z"
+    "cat": "Sports",
+    "title": "'6 months left to live': Yuvraj on warning he got before cancer treatment",
+    "desc": "At that time, Yuvraj had just played a big role in India’s 2011 World Cup win, he was Player of the Tournament. During the tournament, he was dealing with fatigue, nausea and discomfort. The illness was not detected then, and he continued to play.",
+    "img": "https://static.toiimg.com/photo/msid-130141823,imgsize-28328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/six-months-left-to-live-yuvraj-singh-reveals-chilling-warning-he-got-before-cancer-treatment/articleshow/130141457.cms",
+    "time": "2026-04-09T11:47:33.000Z"
   },
   {
     "cat": "Entertainment",
@@ -99,24 +207,6 @@ const newsData_en = [
     "time": "2026-04-09T11:40:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Daily quiz",
-    "desc": "On the birth anniversary of Rahul Sankrityayan (April 9, 1893), the polymathic scholar, whose works reshaped Hindi literature, Buddhism studies, and historiography in the 20th century, here is a quiz exploring his life and literary legacy.",
-    "img": "https://th-i.thgim.com/public/incoming/f6oxcp/article70841285.ece/alternates/LANDSCAPE_1200/145922612_10224599595365373_8879164041270168071_n.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/society/history-and-culture/daily-quiz-on-rahul-sankrityayan/article70841283.ece",
-    "time": "2026-04-09T11:30:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Veteran Congress leader Mohsina Kidwai passes away; tributes pour in",
-    "desc": "A senior leader of the Congress, Kidwai had a public career spanning more than six decades; after several terms in the Lok Sabha, she entered the Rajya Sabha in 2004 and remained active in public life well into her eighties",
-    "img": "https://th-i.thgim.com/public/incoming/tb18in/article70837075.ece/alternates/LANDSCAPE_1200/41_New_Delhi_Assembly_Election_07_02_Del.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/veteran-congress-leader-mohsina-kidwai-passes-away-at-94/article70837031.ece",
-    "time": "2026-04-09T11:28:11.000Z"
-  },
-  {
     "cat": "World",
     "title": "Israel’s Lebanon strikes kill 203, sparking global calls to extend U.S.-Iran truce",
     "desc": "There had been conflicting diplomatic signals about whether the fighting in Lebanon was included in the U.S.-Iran truce — but Washington said that it was not and Israel made it clear that it has no intention of holding off",
@@ -135,15 +225,6 @@ const newsData_en = [
     "time": "2026-04-09T11:07:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Edappadi K. Palaniswami, the lone star of AIADMK election campaign, steps up his pitch for power",
-    "desc": "The former Chief Minister is the main campaigner for the AIADMK across Tamil Nadu, with a stump speech focused on law and order issues, the State’s finances, concerns of government employees, drug menace, and rising inflation; he also highlights features of the manifesto of his party",
-    "img": "https://th-i.thgim.com/public/incoming/hqelg9/article70839678.ece/alternates/LANDSCAPE_1200/11658_8_4_2026_21_44_15_3_8.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/palaniswami-lone-star-of-the-aiadmk-poll-campaign/article70838381.ece",
-    "time": "2026-04-09T11:04:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "When Abhishek revealed why Jaya Bachchan gets angry at the paps",
     "desc": "Jaya Bachchan's birthday prompts a look at her paparazzi interactions. While often seen as stern, friends recall her warmth. Her children, Abhishek and Shweta, revealed her claustrophobia and dislike for unasked photos as reasons for her reactions. Despite this, she has shown a softer side, delighting fans with her rare smiles.",
@@ -160,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/carey-mulligan-and-oscar-isaac-break-down-beef-season-2-fight-scene-we-took-a-long-time-to-figure-it-out-over-months/articleshow/130140220.cms",
     "time": "2026-04-09T10:42:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi HC rejects Sanjay Bhandari's plea against 'fugitive offender' tag",
-    "desc": "On July 5, 2025, the trial court declared Mr. Bhandari a \"fugitive economic offender\" on a plea by the Enforcement Directorate, which enables the agency to confiscate all of Mr. Bhandari's assets worth crores of rupees",
-    "img": "https://th-i.thgim.com/public/incoming/skh9hr/article70842424.ece/alternates/LANDSCAPE_1200/Sanjay%20Bhandari.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/delhi-hc-rejects-sanjay-bhandaris-plea-against-fugitive-offender-tag/article70842364.ece",
-    "time": "2026-04-09T10:39:37.000Z"
   },
   {
     "cat": "Business",
@@ -351,15 +423,6 @@ const newsData_en = [
     "time": "2026-04-09T07:46:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Pali Hill sale, LA home, more",
-    "desc": "Actress Preity Zinta has taken a major leap in her real estate pursuits by selling her Pali Hill apartment located in the bustling Bandra for a cool INR 18.2 crore. This transition reflects her savvy investment choices, with a diverse portfolio that features a chic Los Angeles residence worth about INR 40 crore.",
-    "img": "https://static.toiimg.com/photo/msid-130133811,imgsize-165092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/preity-zintas-real-estate-portfolio-decoded-pali-hill-apartment-sale-inr-35-40-crore-la-home-other-property-investments/articleshow/130133811.cms",
-    "time": "2026-04-09T07:45:38.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "KKR vs LSG, IPL 2026: 5 players to watch in today's match",
     "desc": "Kolkata Knight Riders face Lucknow Super Giants in a crucial IPL 2026 clash. KKR seeks their first win, while LSG aims to build on recent momentum. Key players like Cameron Green and Blessing Muzarabani for KKR, and Mohammed Shami and Rishabh Pant for LSG, are poised to influence the outcome at Eden Gardens.",
@@ -367,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/kkr-vs-lsg-ipl-2026-5-players-to-watch-in-todays-match/articleshow/130133724.cms",
     "time": "2026-04-09T07:44:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nam Taehyun to spend 1 year in prison",
-    "desc": "Former K-pop star Nam Taehyun has been sentenced to one year in prison for his latest DUI offense. This marks a repeat offense, compounded by a prior drug charge for which he was on probation. The court cited his history of driving under the influence and drug violations as key factors in the severe penalty.",
-    "img": "https://static.toiimg.com/photo/msid-130133680,imgsize-82672.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/former-winner-member-nam-taehyun-found-guilty-in-dui-case-sentenced-to-1-year-in-prison-report/articleshow/130133680.cms",
-    "time": "2026-04-09T07:41:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -468,15 +522,6 @@ const newsData_en = [
     "time": "2026-04-09T04:57:12.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Team prediction, head-to-head, pitch report, Kolkata weather update",
-    "desc": "Kolkata Knight Riders, struggling for form and ideas, face a confident Lucknow Super Giants at Eden Gardens today. Mohammed Shami's potent bowling poses a significant threat to KKR's fragile top order, while LSG's bowling depth adds to the challenge. KKR's batting remains a concern, with potential changes on the cards.",
-    "img": "https://static.toiimg.com/photo/msid-130129892,imgsize-85306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-match-today-kkr-vs-lsg-team-prediction-head-to-head-pitch-report-kolkata-weather-update/articleshow/130129853.cms",
-    "time": "2026-04-09T04:55:55.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "20 seats that could shape the state’s verdict",
     "desc": "As Kerala heads to the polls, the election narrative shifts from rallies to booth-level battles. The ruling LDF aims for a historic third term, while the UDF seeks to leverage local body momentum against anti-incumbency. The NDA is focused on converting key pockets into durable political footholds, making these 20 constituencies the state's pressure points.",
@@ -493,24 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/talking-peace-why-mediation-still-matters-in-a-world-at-war/article70835644.ece",
     "time": "2026-04-09T04:39:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Maine bahut matches finish kiye hai': Kohli comparison agitates Babar",
-    "desc": "Peshawar Zalmi captain Babar Azam sharply dismissed a journalist's comparison to Virat Kohli regarding match-finishing abilities. Despite not finishing the recent PSL victory himself, Azam asserted he has a strong record of closing out games, suggesting the journalist's perception is a misconception.",
-    "img": "https://static.toiimg.com/photo/msid-130129361,imgsize-1154594.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/maine-bahut-matches-finish-kiye-hai-virat-kohli-comparison-agitates-babar-azam-shuts-down-journalist-watch-video/articleshow/130129286.cms",
-    "time": "2026-04-09T04:25:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Flying Bam Bahadur’s pigeon': PSL trolled over 'peacemaker act' amid US-Iran ceasefire",
-    "desc": "A symbolic dove release for peace at the PSL 2026 match between Peshawar Zalmi and Hyderabad Kingsmen drew significant online criticism. Critics labelled the 'Pakistan - The Peace Maker' initiative as forced and PR-driven, deeming it out of place during the cricket tournament amidst geopolitical tensions.",
-    "img": "https://static.toiimg.com/photo/msid-130128719,imgsize-1009145.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/flying-bam-bahadurs-pigeon-psl-trolled-over-peacemaker-act-amid-us-iran-ceasefire/articleshow/130128196.cms",
-    "time": "2026-04-09T03:38:24.000Z"
   },
   {
     "cat": "Business",
@@ -556,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-dc-vs-gt-what-was-david-miller-thinking-why-didnt-he-run/articleshow/130126901.cms",
     "time": "2026-04-09T01:20:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2’ drops below Rs 10 crore on Day 21",
-    "desc": "The Revenge' continues its record-breaking spree, crossing Rs 1,000 crore net in India and achieving a worldwide gross of Rs 1,653.67 crore. Despite a slight dip on its 21st day, the film has secured a spot in the top 10 highest-grossing films globally for 2026, marking a significant international triumph for Indian cinema.",
-    "img": "https://static.toiimg.com/photo/msid-130126526,imgsize-137052.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-21-ranveer-singh-sara-arjun-rakesh-bedi-arjun-rampal-starrer-dips-under-rs-10-crore-slows-down-after-entering-top-10-highest-grossing-films-of-2026/articleshow/130126402.cms",
-    "time": "2026-04-09T00:24:12.000Z"
   },
   {
     "cat": "Business",
@@ -691,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/governments-semiconductor-mission-will-promote-research-meity-additional-secretary/article70830363.ece",
     "time": "2026-04-06T17:53:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Red-hot RCB buries CSK under an avalanche of runs",
-    "desc": "Salt and Padikkal set a solid base before Patidar and David hammer 99 runs off just 35 balls for the unbroken fourth wicket; the visitors, chasing a mammoth 251, fold for 207 to lose three out of three",
-    "img": "https://th-i.thgim.com/public/incoming/9g5dle/article70827777.ece/alternates/LANDSCAPE_1200/_DSC2461.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/rcb-vs-csk-ipl-2026-match-updates-april-5/article70827081.ece",
-    "time": "2026-04-05T18:52:27.000Z"
   },
   {
     "cat": "Tech",

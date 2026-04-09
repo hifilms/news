@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Finn Allen’s controversial dismissal against LSG puts umpires under scrutiny",
+    "desc": "Finn Allen had a rough start to his IPL career, having been dismissed for 37, 28, 6 and 9 runs in the first four games of the 2026 season. The New Zealand international arrived with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/finn-allens-controversial-dismissal-against-lsg-puts-umpires-under-scrutiny-watch-2026-04-09-1036962",
+    "time": "2026-04-09T14:59:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Varun Chakaravarthy not playing for KKR vs LSG at Eden Gardens in IPL 2026?",
+    "desc": "Kolkata Knight Riders will miss the service of Varun Chakaravarthy in the clash against Lucknow Super Giants at the Eden Gardens. The star spinner suffered a finger injury while completing a catch against Hyderabad and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-varun-chakaravarthy-not-playing-for-kkr-vs-lsg-at-eden-gardens-in-ipl-2026-2026-04-09-1036954",
+    "time": "2026-04-09T13:50:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Blessing Muzarabani not playing for KKR vs LSG at Eden Gardens in IPL 2026?",
+    "desc": "Kolkata Knight Riders have dropped Blessing Muzarabani from their clash against Lucknow Super Giants at the Eden Gardens. The Zimbabwe international clinched a four-wicket haul in the match against Sunrisers Hyderabad and was expected to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-blessing-muzarabani-not-playing-for-kkr-vs-lsg-at-eden-gardens-in-ipl-2026-2026-04-09-1036952",
+    "time": "2026-04-09T13:42:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "CD Gopinath, member of India's first-ever Test-winning team, dies at 96",
     "desc": "CD Gopinath, the member of Team India's historic first-ever Test win in 1952, died today at the age of 96. He passed away peacefully in his sleep at his daughter's house in Adyar. Notably, he...",
     "img": "",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/injured-or-dropped-varun-chakaravarthy-s-struggles-tell-different-story-as-kkr-gear-up-to-face-lsg-2026-04-09-1036920",
     "time": "2026-04-09T10:36:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface in Kolkata play for IPL 2026 play?",
-    "desc": "Kolkata Knight Riders will be hosting Lucknow Super Giants in game 15 of the ongoing IPL (Indian Premier League) 2026. The two sides will take on each other at the Eden Gardens in Kolkata on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-lsg-pitch-report-how-will-surface-in-kolkata-play-for-ipl-2026-play-2026-04-09-1036913",
-    "time": "2026-04-09T09:34:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rashid Khan set to skip Tests to prolong international career, to play only one match per year",
-    "desc": "Rashid Khan is cutting down on playing Test cricket to prolong his international career for Afghanistan. He is the captain of the team in T20Is but was told to step back from red-ball cricket after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-set-to-skip-tests-to-prolong-international-career-to-play-only-one-match-per-year-2026-04-09-1036910",
-    "time": "2026-04-09T09:19:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will weather in Kolkata fare for IPL 2026 game 15?",
-    "desc": "The stage is set for game 15 of the ongoing IPL (Indian Premier League) 2026. Kolkata Knight Riders will host Lucknow Super Giants at the Eden Gardens in Kolkata on April 9. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-lsg-weather-report-how-will-weather-in-kolkata-fare-for-ipl-2026-game-15-2026-04-09-1036896",
-    "time": "2026-04-09T08:08:53.000Z"
   }
 ];
