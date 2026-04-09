@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will surface in Kolkata play for IPL 2026 play?",
+    "desc": "Kolkata Knight Riders will be hosting Lucknow Super Giants in game 15 of the ongoing IPL (Indian Premier League) 2026. The two sides will take on each other at the Eden Gardens in Kolkata on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-lsg-pitch-report-how-will-surface-in-kolkata-play-for-ipl-2026-play-2026-04-09-1036913",
+    "time": "2026-04-09T09:34:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rashid Khan set to skip Tests to prolong international career, to play only one match per year",
+    "desc": "Rashid Khan is cutting down on playing Test cricket to prolong his international career for Afghanistan. He is the captain of the team in T20Is but was told to step back from red-ball cricket after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-set-to-skip-tests-to-prolong-international-career-to-play-only-one-match-per-year-2026-04-09-1036910",
+    "time": "2026-04-09T09:19:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will weather in Kolkata fare for IPL 2026 game 15?",
+    "desc": "The stage is set for game 15 of the ongoing IPL (Indian Premier League) 2026. Kolkata Knight Riders will host Lucknow Super Giants at the Eden Gardens in Kolkata on April 9. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kkr-vs-lsg-weather-report-how-will-weather-in-kolkata-fare-for-ipl-2026-game-15-2026-04-09-1036896",
+    "time": "2026-04-09T08:08:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Washington Sundar ends drought after 3273 days with 55-run knock vs Delhi Capitals in IPL 2026",
+    "desc": "Washington Sundar was one of the three half-centurions for the Gujarat Titans in their one-run win over the Delhi Capitals in the 14th match of IPL 2026. Sundar batted at four and did well to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/washington-sundar-ends-drought-after-3273-days-with-55-run-knock-vs-delhi-capitals-in-ipl-2026-2026-04-09-1036891",
+    "time": "2026-04-09T07:32:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer slams David Miller after brain-fade moment against Gujarat Titans",
     "desc": "Delhi Capitals were left begging as Gujarat Titans registered a thrilling victory against them in game 14 of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Arun Jaitley Stadium in...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/hansi-flick-slams-referee-decisions-after-atletico-madrid-thump-barcelona-in-champions-league-meeting-2026-04-09-1036850",
     "time": "2026-04-09T02:21:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill opens up on chat with Prasidh Krishna in final over thriller against Delhi Capitals",
-    "desc": "The 14th game of the ongoing IPL (Indian Premier League) 2026 saw Delhi Capitals taking on Gujarat Titans at the Arun Jaitley Stadium in Delhi on April 8. The clash saw GT batting first and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-opens-up-on-chat-with-prasidh-krishna-in-final-over-thriller-against-delhi-capitals-2026-04-09-1036843",
-    "time": "2026-04-09T01:21:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We could have been smarter in chase': DC skipper Axar Patel reflects on one-run loss to GT in IPL 2026",
-    "desc": "Delhi Capitals captain Axar Patel reflected on his team's one-run loss to the Gujarat Titans at the Arun Jaitley Stadium on Wednesday, April 8. Having come within inches of the 211-run target, GT fell just...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/we-could-have-been-smarter-in-chase-dc-skipper-axar-patel-reflects-on-one-run-loss-to-gt-in-ipl-2026-2026-04-09-1036830",
-    "time": "2026-04-08T18:35:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Titans pull off thrilling win as KL Rahul, David Miller fail to pull off historic chase in IPL",
-    "desc": "Chasing 211 runs at the Arun Jaitley Stadium, KL Rahul brought Delhi Capitals close to pulling off their biggest chase in IPL history. However, after Pathum Nissanka departed for a rapid 41, there was little...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-pull-off-thrilling-win-as-kl-rahul-david-miller-fail-to-pull-off-historic-chase-in-ipl-2026-04-08-1036826",
-    "time": "2026-04-08T18:11:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sourav Ganguly backs Mohammed Shami for India return, wants him to bowl 'at other end of Bumrah'",
-    "desc": "Former India captain Sourav Ganguly has thrown his weight behind Mohammed Shami for an India return, highlighting the strong performances that he has been putting in the Indian Premier League 2026. Shami put up an insane...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sourav-ganguly-backs-mohammed-shami-for-india-return-wants-him-to-bowl-at-other-end-of-bumrah-2026-04-08-1036823",
-    "time": "2026-04-08T17:46:31.000Z"
   }
 ];
