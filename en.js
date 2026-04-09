@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "the BJP’s electoral journey in Tamil Nadu",
+    "desc": "The BJP initially capitalised on Hindutva politics in Kanniyakumari, winning its first Assembly seat in 1996; thereafter it tasted success only in alliance with the Dravidian majors; hopes to convert its rising vote share to more seats in 2026",
+    "img": "https://th-i.thgim.com/public/incoming/k4fqrf/article70843583.ece/alternates/LANDSCAPE_1200/4871_31_3_2026_19_11_42_1_DSC_5382.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/from-the-margins-to-momentum-bjps-journey-in-tamil-nadu/article70842982.ece",
+    "time": "2026-04-09T21:19:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Army contingent departs for Egypt for joint special forces exercise",
+    "desc": "An Indian Army special forces contingent has arrived in Egypt for the fourth edition of the joint exercise 'Cyclone-IV'. This collaboration, running from April 9-17, aims to bolster military ties and enhance joint mission planning. Twenty-five Indian soldiers will train alongside Egyptian counterparts, focusing on special operational tactics in desert environments to improve interoperability and share best practices.",
+    "img": "https://static.toiimg.com/photo/msid-130153705,imgsize-697042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/army-contingent-departs-for-egypt-for-joint-special-forces-exercise/articleshow/130153668.cms",
+    "time": "2026-04-09T21:09:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ajaz Khan lashes out at Samay Raina over Amitabh Bachchan joke",
+    "desc": "Stand-up comedian Samay Raina has once again landed in controversy after a recent stand-up clip, where he joked about Amitabh Bachchan and his son Abhishek Bachchan. The remarks have triggered backlash online, with Ajaz Khan also reacting strongly. The actor didn’t hold back, calling out Samay’s remarks and warning him to “show respect.”",
+    "img": "https://static.toiimg.com/photo/msid-130153620,imgsize-65916.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajaz-khan-lashes-out-at-samay-raina-over-amitabh-bachchan-abhishek-bachchan-joke-tera-samay-kharab-shuru-ho-gaya-aaj-se/articleshow/130153620.cms",
+    "time": "2026-04-09T20:50:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chandrayaan-2 data reveals water buried on Moon for billions of years is stable: International study",
+    "desc": "A new international study reveals lunar water ice deposits in permanently shadowed regions are more stable than previously thought, with 74% of these areas unaffected by impacts. This finding is crucial for future manned lunar missions aiming to establish bases, as these regions offer promising targets for water ice exploration and utilization.",
+    "img": "https://static.toiimg.com/photo/msid-130153636,imgsize-1178373.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/chandrayaan-2-data-reveals-water-buried-on-moon-for-billions-of-years-is-stable-international-study/articleshow/130153640.cms",
+    "time": "2026-04-09T20:50:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar 2 actor on viral 'aa gaya pandu' scene with Arjun",
+    "desc": "Suvinder Pal Vicky is basking in praise for his impactful performance as Brigadier Jahangir in Dhurandhar 2. From the viral “Aa gaya Pandu” dialogue to the disturbing tongue sequence, the actor’s portrayal has struck a chord with audiences. In a recent chat, he opened up about the character’s layered personality, the intense scenes, and the response coming his way.",
+    "img": "https://static.toiimg.com/photo/msid-130153346,imgsize-112510.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-actor-suvinder-pal-vicky-on-brigadier-jahangirs-acidic-tone-viral-aa-gaya-pandu-and-tongue-scene-with-arjun-rampal/articleshow/130153346.cms",
+    "time": "2026-04-09T19:56:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The Simple living in Kurma Gramam village",
+    "desc": "Nestled amidst the scenic hills of Hiramandalam in Andhra Pradesh, Kurma Gramam is a tiny hamlet, spread across 60 acres and inhabited by 17 families that stands in contrast to modern lifestyles. Cut off from the contemporary living, the village functions without electricity, mobile phones, internet connectivity or even LPG services. Life here moves at a slower pace, deeply rooted in simplicity and spiritual discipline, writes Harish Gilai",
+    "img": "https://th-i.thgim.com/public/incoming/kffyfj/article70844344.ece/alternates/LANDSCAPE_1200/DSC_4534.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/the-simple-living-in-kurma-gramam-village/article70844349.ece",
+    "time": "2026-04-09T19:39:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mukul is the Super Giant as Lucknow pulls off a heist",
+    "desc": "The little-known batter’s unbeaten 27-ball 54 scripts a stunning turnaround to leave KKR winless after four matches; Badoni chips in with a crucial half-century; home side posts 181 despite a mid-innings wobble; Shami delivers an impressive spell",
+    "img": "https://th-i.thgim.com/public/incoming/62zpee/article70844645.ece/alternates/LANDSCAPE_1200/India_IPL_Cricket_86_56.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-match-lsg-kkr-updates-april-9/article70843541.ece",
+    "time": "2026-04-09T19:27:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "With the peaking of summer, marauding wild animals throw life out of gear in the eastern regions of Kollam",
+    "desc": "As summer progresses, the eastern forest fringes of Kollam become hotspots of human-wildlife conflict. The presence of herds of bison and elephants even near towns throws normal life into disarray. The crisis extends into the vast agricultural sectors of the region as well. Navamy Sudhish explores the reasons for the wildlife incursion and how effective are the preventive strategies deployed by the Forest department",
+    "img": "https://th-i.thgim.com/public/incoming/xm8ppj/article70844619.ece/alternates/LANDSCAPE_1200/80759_18_11_2024_20_6_2_2_WIILDGAUR1.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/summer-scares-with-the-peaking-of-summer-marauding-wild-animals-throw-life-out-of-gear-in-the-eastern-regions-of-kollam/article70843369.ece",
+    "time": "2026-04-09T19:01:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika celebrates 30th birthday with Vijay in Coorg",
+    "desc": "Rashmika Mandanna rang in her 30th birthday on April 5 in a deeply personal way, celebrating the special day with husband Vijay Deverakonda and her family. Making her first birthday after marriage even more memorable, the actor chose to return to her roots in Coorg. From visiting a temple she grew up going to, to catching a glimpse of her school from outside, the day was filled with moments of reflection and nostalgia.",
+    "img": "https://static.toiimg.com/photo/msid-130152468,imgsize-130414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-celebrates-30th-birthday-with-vijay-deverakonda-in-coorg-revisits-childhood-memories-everything-feels-worth-it/articleshow/130152468.cms",
+    "time": "2026-04-09T18:55:16.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Mukul snatches win from KKR’s clutches in last-ball thriller",
     "desc": "Lucknow Super Giants beat Kolkata Knight Riders by three wickets in a last-ball thriller, chasing 182. KKR scored 181/4 with key knocks from Ajinkya Rahane and Angkrish Raghuvanshi. In reply, Ayush Badoni’s 54 and Mukul Choudhary’s unbeaten 54 sealed the win. Despite wickets from Anukul Roy and Vaibhav Arora, KKR couldn’t stop LSG in a tense finish.",
@@ -36,40 +117,13 @@ const newsData_en = [
     "time": "2026-04-09T17:30:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "A.P. emerging as hub for tourism investments, says Minister",
-    "desc": "Participating in the 21st Hotel Investment Conference South Asia in Mumbai, Kandula Durgesh holds discussions with leading organisations on strengthening coastal tourism, developing spiritual tourism circuits, and ensuring balanced tourism growth across all regions of the State",
-    "img": "https://th-i.thgim.com/public/incoming/p5kdm0/article70844401.ece/alternates/LANDSCAPE_1200/10745_9_4_2026_21_30_16_1_IMG_20260409_WA0074.JPG",
+    "cat": "World",
+    "title": "Worried by hits on Iran nuclear sites, must never happen again: IAEA chief Rafael Grossi",
+    "desc": "Rafael Grossi, who is running for the UN Secretary General this year, says ‘war has returned in a furious way to different parts of the world’; he says the UN is still relevant in today’s world",
+    "img": "https://th-i.thgim.com/public/incoming/57hcak/article70843704.ece/alternates/LANDSCAPE_1200/AFP_A6VD3NQ.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-emerging-as-hub-for-tourism-investments-says-minister/article70844133.ece",
-    "time": "2026-04-09T17:13:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Police ordering takedown of posts based on their own judgement, Kamra tells High Court",
-    "desc": "The counsel informed the Bench that while the present petition was pending, the Central Government had introduced further amendments to the Rules. He added that the Union of India had not filed its reply to the petition despite being served notice several months ago.",
-    "img": "https://th-i.thgim.com/public/incoming/op65bs/article70844113.ece/alternates/LANDSCAPE_1200/IMG_WhatsApp_Image_2025-_2_1_PVE5JHAS.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/mumbai/police-using-sahyog-portal-rules-to-order-removal-of-content-kunal-kamra/article70843970.ece",
-    "time": "2026-04-09T17:04:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026",
-    "desc": "A late flourish from Rovman Powell (39 not out off 24 balls; 4x4, 2x6) ensured KKR score a competitive total, while Cameron Green (32 not out off 24 balls; 3x4, 1x6) finally had his best show after intense scrutiny as the highest paid (Rs 25.20-core) overseas cricketer in the IPL.",
-    "img": "https://th-i.thgim.com/public/incoming/ke5wf/article70844307.ece/alternates/LANDSCAPE_1200/PTI04_09_2026_000588A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-match-lsg-kkr-updates-april-9/article70843541.ece",
-    "time": "2026-04-09T16:43:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Modi, Mamata spar over fish as Bengal poll campaign heats up",
-    "desc": "PM Narendra Modi says West Bengal lags behind in fish production but can become a hub of pisciculture and seafood; Chief Minister Mamata Banerjee his back saying the BJP does not allow people to eat fish and has deleted 90 lakh names from the electoral roll to ‘grab power’ in Bengal",
-    "img": "https://th-i.thgim.com/public/incoming/l5e9pu/article70844235.ece/alternates/LANDSCAPE_1200/20260409091L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/modi-mamata-spar-over-fish-as-bengal-poll-campaign-heats-up/article70843949.ece",
-    "time": "2026-04-09T16:31:15.000Z"
+    "url": "https://www.thehindu.com/news/international/iaea-director-general-rafael-grossi-interview-iran-nuclear-sites-israel-us-attacks/article70842785.ece",
+    "time": "2026-04-09T17:14:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -79,15 +133,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-reacts-as-ram-gopal-varma-says-stabbing-my-past-with-knife-called-dhurandhar-2-drops-birthday-pic/articleshow/130148669.cms",
     "time": "2026-04-09T16:28:35.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-Israel war LIVE: Netanyahu says he has instructed his Cabinet to begin direct negotiations with Lebanon",
-    "desc": "Lebanon seeks a temporary ceasefire to allow broader talks with Israel, an official said; he says Lebanon needs U.S. as a mediator and guarantor of any agreement; Iran's President Pezeshkian says Israel's strikes on Lebanon render negotiations 'meaningless'",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-9-2026/article70840935.ece",
-    "time": "2026-04-09T16:25:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -106,15 +151,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bhojshala-dispute-hindu-outfit-cites-asi-report-claiming-temple-preceded-mosque/articleshow/130148549.cms",
     "time": "2026-04-09T16:15:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Worried by hits on Iran nuclear sites, must never happen again: IAEA chief Rafael Grossi",
-    "desc": "Rafael Grossi, who is running for the UN Secretary General this year, says ‘war has returned in a furious way to different parts of the world’; he says the UN is still relevant in today’s world",
-    "img": "https://th-i.thgim.com/public/incoming/57hcak/article70843704.ece/alternates/LANDSCAPE_1200/AFP_A6VD3NQ.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iaea-director-general-rafael-grossi-interview-iran-nuclear-sites-israel-us-attacks/article70842785.ece",
-    "time": "2026-04-09T15:51:15.000Z"
   },
   {
     "cat": "Sports",
@@ -360,15 +396,6 @@ const newsData_en = [
     "time": "2026-04-09T10:05:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Zendaya’s late arrival fuels Sydney Sweeney feud",
-    "desc": "The launch event for 'Euphoria Season 3' was rife with intrigue as Zendaya and Sydney Sweeney opted to arrive independently, igniting chatter about a possible fallout. Insiders hint that their friendship may be strained, possibly due to factors like Tom Holland's involvement and varying political stances.",
-    "img": "https://static.toiimg.com/photo/msid-130139126,imgsize-87676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/did-zendaya-arrive-late-to-euphoria-season-3-premiere-to-avoid-sydney-sweeney-inside-the-feud-rumours-and-tom-holland-factor/articleshow/130139054.cms",
-    "time": "2026-04-09T09:57:25.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "‘Pot of sins now full’: PM Modi attacks TMC’s ‘Nirmam sarkar’ at Asansol rally",
     "desc": "Prime Minister Narendra Modi asserted that a political change in West Bengal is imminent, with citizens demanding it. Addressing a rally in Asansol, he accused the ruling Trinamool Congress of fostering a 'syndicate raj' controlling the coal and sand sectors, vowing a BJP government would restore industrial strength and end mafia rule.",
@@ -394,24 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rashid-khan-likely-to-skip-one-off-india-test-prioritises-2027-cricket-world-cup/articleshow/130138555.cms",
     "time": "2026-04-09T09:33:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'AK 64': Ajith's next film with Adhik stalled over salary demand",
-    "desc": "Ajith Kumar's highly anticipated 'AK 64' project faces an unexpected delay, reportedly due to ongoing salary negotiations between the actor and producers. Despite the star's return to Chennai and earlier indications of filming commencement, the remuneration discussions have become a sticking point. Fans are eagerly awaiting an official update on the film's progress.",
-    "img": "https://static.toiimg.com/photo/msid-130138521,imgsize-77600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ak-64-ajith-kumars-next-film-with-director-adhik-ravichandran-stalled-over-rs-170-180-crore-salary-demand-reports/articleshow/130138521.cms",
-    "time": "2026-04-09T09:29:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay Kumar injured in ‘Bhooth Bangla’ stunt, BTS clip shows",
-    "desc": "During the filming of 'Bhooth Bangla,' his upcoming horror-comedy, Akshay Kumar faced an unexpected challenge as he sustained an injury while attempting an intricate stunt in Mumbai. Footage leaked from behind the scenes captures the moment he missed his landing mid-jump kick.",
-    "img": "https://static.toiimg.com/photo/msid-130137946,imgsize-94142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-injured-while-filming-stunt-for-bhooth-bangla-bts-video-shows-actor-losing-balance-during-jump-kick/articleshow/130137946.cms",
-    "time": "2026-04-09T09:18:06.000Z"
   },
   {
     "cat": "Business",
@@ -531,24 +540,6 @@ const newsData_en = [
     "time": "2026-04-09T06:39:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Dudhwa buffer zone staff collecting carcasses after death of 25 vultures",
-    "desc": "Dudhwa Tiger Reserve authorities are seeking help from IVRI, Bareilly to determine the cause of death for 25 critically endangered vultures found in the buffer zone. Vultures are suspected to have died after consuming poisoned dog carcasses found nearby. Post-mortem revealed a poisonous substance in the dogs, but the exact poison remains unidentified.",
-    "img": "https://static.toiimg.com/photo/msid-130130249,imgsize-254132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dudhwa-buffer-zone-staff-collecting-carcasses-after-death-of-25-vultures/articleshow/130129693.cms",
-    "time": "2026-04-09T06:31:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Fuel tanker Green Asha carrying over 15,000 tonnes of LPG reaches India after crossing Hormuz",
-    "desc": "An India-flagged LPG carrier, Green Asha, successfully navigated the Strait of Hormuz and docked at JNPA, carrying vital supplies amid regional tensions. This arrival highlights the ongoing efforts to maintain stable domestic LPG supply, with the government ensuring availability and addressing potential concerns for migrant workers.",
-    "img": "https://static.toiimg.com/photo/msid-130131544,imgsize-757707.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/fuel-tanker-green-asha-carrying-over-15000-tonnes-of-lpg-reaches-india-after-crossing-hormuz/articleshow/130131532.cms",
-    "time": "2026-04-09T06:25:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shubman Gill punished despite GT’s last-ball thriller win over DC",
     "desc": "Shubman Gill's Gujarat Titans clinched a thrilling one-run victory against Delhi Capitals in IPL 2026. Despite the dramatic win, Gill was fined Rs 12 lakh for a slow over-rate, marking the team's first offense. The captain's tactical decisions, including a crucial gamble on the final ball, ultimately secured the hard-fought win.",
@@ -583,6 +574,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/status-quo-stance-reflects-prudent-calibrated-approach-setty/article70839384.ece",
     "time": "2026-04-08T22:44:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026",
+    "desc": "The southpaw’s decision to not take a run off the penultimate ball proves costly as DC suffers a one-run loss; Rahul’s effort in vain; Gill, Buttler, Washington shine with the bat while Rashid scalps three",
+    "img": "https://th-i.thgim.com/public/incoming/omoq1n/article70840002.ece/alternates/LANDSCAPE_1200/SSK_6912.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-delhi-capital-gujarat-titans-match-updates-april-8/article70839034.ece",
+    "time": "2026-04-08T19:22:08.000Z"
   },
   {
     "cat": "World",
@@ -655,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/daily-quiz-on-the-rwandan-genocide/article70837413.ece",
     "time": "2026-04-08T07:08:15.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran 10-point plan says U.S. must accept uranium enrichment, lift all sanctions",
-    "desc": "Iran claimed victory and said in a statement, released alongside a list of the 10 points published by state media, that the plan would require “continued Iranian control over the Strait of Hormuz, acceptance of enrichment, lifting of all primary and secondary sanctions”",
-    "img": "https://th-i.thgim.com/public/incoming/hfr04c/article70836842.ece/alternates/LANDSCAPE_1200/Trump_Iran_US_52137.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-10-point-plan-says-us-must-accept-uranium-enrichment-lift-all-sanctions/article70836841.ece",
-    "time": "2026-04-08T06:37:02.000Z"
   },
   {
     "cat": "Business",
