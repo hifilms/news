@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Who is Mukul Choudhary? Know his salary and 3 franchises that bid for him in IPL 2026 auction",
+    "desc": "Mukul Choudhary stole the show for Lucknow Super Giants in the high-voltage clash against Kolkata Knight Riders at the Eden Gardens. The 21-year-old arrived at the crease when the Risbabh Pant-led side was reduced to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-mukul-choudhary-know-his-salary-and-3-franchises-that-bid-for-him-in-ipl-2026-auction-2026-04-09-1036980",
+    "time": "2026-04-09T18:21:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mukul Choudhary's miraculous knock stuns KKR at Eden Gardens, LSG win by three wickets",
+    "desc": "Lucknow Super Giants have pulled off a miraculous win over Kolkata Knight Riders in the IPL 2026 clash at Eden Gardens. The game was far out of their reach at one point, but Mukul Choudhary...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mukul-choudhary-s-miraculous-knock-stuns-kkr-at-eden-gardens-lsg-win-by-three-wickets-2026-04-09-1036976",
+    "time": "2026-04-09T17:49:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When will Wanindu Hasaranga join LSG squad for IPL 2026? Tom Moody shares major update",
+    "desc": "Sri Lanka international Wanindu Hasaranga has been ruled out of the IPL 2026. Lucknow Super Giants’ Global Director of Cricket, Tom Moody, confirmed the development during the clash against Kolkata Knight Riders at the Eden...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-will-wanindu-hasaranga-join-lsg-squad-for-ipl-2026-tom-moody-shares-major-update-2026-04-09-1036972",
+    "time": "2026-04-09T17:10:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why has no Indian broadcaster bid for media rights yet?",
+    "desc": "With the FIFA World Cup 2026 set to begin in June, uncertainty looms over its broadcast in India as media rights for the tournament remain is not yet finalised. No broadcaster, be it for television...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-why-has-no-indian-broadcaster-bid-for-media-rights-yet-2026-04-09-1036968",
+    "time": "2026-04-09T16:19:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Finn Allen’s controversial dismissal against LSG puts umpires under scrutiny",
     "desc": "Finn Allen had a rough start to his IPL career, having been dismissed for 37, 28, 6 and 9 runs in the first four games of the 2026 season. The New Zealand international arrived with...",
     "img": "",
@@ -43,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/prabhsimran-singh-backs-impact-player-rule-cites-its-importance-for-youngsters-in-ipl-2026-04-09-1036941",
     "time": "2026-04-09T12:24:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cooper Connolly prioritises game awareness over ultra-aggressive showing in IPL 2026",
-    "desc": "Australia international Cooper Connolly stole the show on his IPL debut, smacking unbeaten 72 runs against Gujarat Titans. His knock ensured Punjab Kings registered a comfortable three-wicket win. The 22-year-old had very little support from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cooper-connolly-prioritises-game-awareness-over-ultra-aggressive-showing-in-ipl-2026-2026-04-09-1036937",
-    "time": "2026-04-09T11:56:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yuvraj Singh recalls time when he was diagnosed with Cancer, 'doctor told I had only 3-6 months to live'",
-    "desc": "Yuvraj Singh opened up recently on his battle with cancer in a podcast with former England cricketer Michael Vaughan. During his interaction, the former India cricketer recalled that the doctor had told him that he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/yuvraj-singh-recalls-time-when-he-was-diagnosed-with-cancer-doctor-told-i-had-only-3-6-months-to-live-2026-04-09-1036930",
-    "time": "2026-04-09T11:12:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 changes KKR should make against LSG to register first win in IPL 2026",
-    "desc": "Kolkata Knight Riders suffered back-to-back defeats to Mumbai Indians and Sunrisers Hyderabad to kick off the IPL 2026 season. The third game against Punjab Kings was called off due to rain, which allowed the Ajinkya...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/3-changes-kkr-should-make-against-lsg-to-register-first-win-in-ipl-2026-2026-04-09-1036923",
-    "time": "2026-04-09T10:51:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Injured or dropped? Varun Chakaravarthy's struggles tell different story as KKR gear up to face LSG",
-    "desc": "Kolkata Knight Riders have struggled so far in the ongoing season of the Indian Premier League (IPL). They have lost two out of three matches while the other was washed out due to rain when...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/injured-or-dropped-varun-chakaravarthy-s-struggles-tell-different-story-as-kkr-gear-up-to-face-lsg-2026-04-09-1036920",
-    "time": "2026-04-09T10:36:05.000Z"
   }
 ];

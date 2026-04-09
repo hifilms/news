@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "જ્યારે 16 વર્ષના બાળકે ઉડાવી દીધા હતા યુવરાજ સિંહના હોશ, આજે બની ગયો છે દુનિયાનો નંબર 1 બોલર; નામ સાંભળીને જ ધ્રૂજે છે બેટ્સમેનો",
+    "desc": "જે બોલરથી આજે આખી દુનિયાના બેટ્સમેનો ડરે છે, તેણે માત્ર 16 વર્ષની ઉંમરે દિગ્ગજ યુવરાજ સિંહને પણ હેરાન કરી દીધા હતા. યુવરાજ 16 વર્ષની ઉમરમાં આજના ખુંખાર બોલરની રફ્તાર અને લાઈન-લેન્થ જોઈને આશ્ચર્યચકિત થઈ ગયા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/jasprit-bumrah-yuvraj-singh-nets-story-16-year-old-bowler-world-number-one-472269 ",
+    "time": "2026-04-09T18:18:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મોદી સરકારનો DA પર મોટો નિર્ણય, 3 કેટેગરીમાં કરવામાં આવ્યો બદલાવ",
+    "desc": "સામાન્ય રીતે હોળીની આસપાસ સરકાર દ્વારા કેન્દ્રીય કર્મચારીઓના મોંઘવારી ભથ્થા (DA)માં વધારા અંગે નિર્ણય લેવામાં આવે છે. જો કે, આ વખતે હોળીને એક મહિનાથી વધુ સમય વીતી ગયો હોવા છતાં DA પર કોઈ નિર્ણય લેવાયો નથી. હવે સરકારે વેરિયેબલ ડીએ (VDA)માં વધારો કર્યો છે. ચાલો જાણીએ કે, તેનો લાભ કોને મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/modi-government-major-decision-on-variable-dearness-allowance-changes-made-to-3-categories-472268 ",
+    "time": "2026-04-09T17:03:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 વચ્ચે ભારતીય ક્રિકેટમાં ફેલાયો શોક, આ ખેલાડીનું થયું નિધન, જાણો",
+    "desc": "હાલ દેશમાં IPLનો માહોલ ચાલી રહ્યો છે, તેની વચ્ચે એક દુ:ખદ સમાચાર સામે આવ્યા છે, ત્યારે ક્રિકેટ જગતમાં શોકનું મોજુ ફરી વળ્યું છે, જો કે તેમને ભારતને પહેલી ટેસ્ટમાં જીત અપવવા માટે અથાક મહેનત કરી હતી, તેમને અંતિમ શ્વાસ ચેન્નઈમાં લીધા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/amidst-ipl-2026-grief-spreads-in-indian-cricket-this-player-passes-away-know-472267 ",
+    "time": "2026-04-09T16:57:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ફરી ધુમ મચાવશે બજાજની આઈકોનિક બાઈક Pulsar 180, આટલી કિંમતમાં થઈ લોન્ચ",
+    "desc": "બજાજ પોતાની આઇકોનિક બાઇકને ભારતીય બજારમાં ફરી પાછી આવી રહી છે. અમે વાત કરી રહ્યા છીએ પલ્સરની. કંપનીએ Pulsar 180ને ભારતીય માર્કેટમાં ફરીથી લોન્ચ કરી દીધી છે. કંપનીએ 2022માં આ બાઇકનું ઉત્પાદન બંધ (ડિસ્કન્ટિન્યુ) કર્યું હતું. હવે આ બાઇક નવા ફીચર્સ સાથે પરત ફરી છે. ચાલો જાણીએ આ દમદાર બાઇકમાં કંપની શું નવું લઈને આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/bajaj-iconic-bike-pulsar-180-will-create-a-buzz-again-launched-at-this-price-472266 ",
+    "time": "2026-04-09T16:25:12.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "ગુજરાતી અભિનેત્રીનું 4000 કરોડના ખર્ચે બનેલી ‘રામાયણ’ પર મોટું નિવેદન",
     "desc": "ગુજરાતી અભિનેત્રી દીપિકા ચીખલિયાએ હાલમાં આવેલી ‘રામાયણ’ ફિલ્મની ટીઝરના વખાણ કર્યા હતા, પરંતું તેઓએ બાદમાં તેને ટ્રોલ કરવાનું શરૂ કર્યું. રણબીર કપૂરની રામાયણ ફિલ્મ પર નિવેદન આપતા કહ્યું કે, રામાયણ એવી બનાવો કે, 4000 કરોડ લગાવીને પણ કોઈ ન બનાવી શકે.",
@@ -547,24 +583,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/what-is-combat-survivor-evader-locator-device-us-pilot-iran-471791 ",
     "time": "2026-04-06T14:01:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અનોખો ક્રિકેટ રેકોર્ડ... ના રન, ના વિકેટ કે ના કોઈ કેચ છતાં આ ખેલાડી બન્યો &amp;#039;પ્લેયર ઓફ ધ મેચ&amp;#039;",
-    "desc": "ODI ક્રિકેટના ઇતિહાસમાં એક એવો રેકોર્ડ નોંધાયેલો છે, જેના વિશે તમે કદાચ જાણતા નહીં હોવ. અમે તમને એક એવા ક્રિકેટર વિશે જણાવી રહ્યા છીએ જેને ન તો બેટિંગ કરવાની તક મળી, ન તો વિકેટ લીધી કે ન તો કોઈ કેચ લીધો હતો છતાં તેને મેન ઓફ ધ મેચ જાહેર કરવામાં આવ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/without-run-wicket-and-catch-cameron-cuffy-become-player-of-the-match-know-why-471757 ",
-    "time": "2026-04-06T12:21:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 વચ્ચે લોહીયાળ ખેલ! રન આઉટના વિવાદમાં અમ્પાયરની કરપીણ હત્યા, ઘટના જાણીને ચોંકી જશો",
-    "desc": "હાલમાં દેશમાં ક્રિકેટનો મહાકુંભ ચાલી રહ્યો છે. IPLની તમામ ટીમો શાનદાર ફોર્મમાં જોવા મળી રહી છે. ત્યાં બીજીતરફ એક એવી ઘટના સામે આવી છે, જેને બધાને ચોંકાવી દીધા છે. આ ઘટના આંધ્રપ્રદેશમાં બની છે. અહીં ક્રિકેટ મેચમાં રન આઉટના નિર્ણય પર વિવાદ એટલો વધી ગુયો કે, એક યુવકે અમ્પાયરને છરી મારીને મોતને ઘાટ ઉતારી દીધો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bloody-game-during-ipl-2026-umpire-brutally-murdered-in-run-out-dispute-you-will-be-shocked-to-know-incident-471750 ",
-    "time": "2026-04-06T11:00:42.000Z"
   },
   {
     "cat": "Politics",

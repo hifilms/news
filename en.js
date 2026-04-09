@@ -1,21 +1,111 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "campaign trail heats up in Kundara as three major fronts intensify their reach-out programmes",
-    "desc": "Incumbent MLA P.C. Vishnunadh of UDF is banking on his track record, while LDF’s Sajikumar promises transformative projects. Robin Radhakrishnan of the NDA is advocating for radical change while pledging direct access to Prime Minister Modi if elected.",
-    "img": "https://th-i.thgim.com/public/incoming/xxvgxt/article70824551.ece/alternates/LANDSCAPE_1200/80686_4_4_2026_20_30_27_1_05TVKO_KUNDARAUDFCANDIDATE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-campaign-trail-heats-up-in-kundara-as-three-major-fronts-intensify-their-reach-out-programmes/article70823079.ece",
-    "time": "2026-04-09T16:01:45.000Z"
+    "cat": "Sports",
+    "title": "Mukul snatches win from KKR’s clutches in last-ball thriller",
+    "desc": "Lucknow Super Giants beat Kolkata Knight Riders by three wickets in a last-ball thriller, chasing 182. KKR scored 181/4 with key knocks from Ajinkya Rahane and Angkrish Raghuvanshi. In reply, Ayush Badoni’s 54 and Mukul Choudhary’s unbeaten 54 sealed the win. Despite wickets from Anukul Roy and Vaibhav Arora, KKR couldn’t stop LSG in a tense finish.",
+    "img": "https://static.toiimg.com/photo/msid-130152099,imgsize-44664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-mukul-choudhary-masterclass-snatches-victory-from-kkrs-clutches-in-last-ball-thriller/articleshow/130151525.cms",
+    "time": "2026-04-09T18:39:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir Khan turned to alcohol after Reena Dutta left with kids",
+    "desc": "For Aamir Khan, honesty has never been reserved only for his films. Over the years, the actor has spoken candidly about both his professional choices and personal setbacks. In a recent conversation, he revisited one of the most difficult phases of his life—his separation from his first wife, Reena Dutta—and how it led him down an unexpected path.",
+    "img": "https://static.toiimg.com/photo/msid-130151341,imgsize-117668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-says-he-went-from-teetotaller-to-alcohol-after-reena-dutta-left-with-kids-i-drank-almost-a-bottle-a-night-for-1-5-years/articleshow/130151341.cms",
+    "time": "2026-04-09T18:10:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India learn the cost of not closing things out",
+    "desc": "India suffered a 0-3 loss to Indonesia in the Billie Jean King Cup after a series of missed opportunities. Vaishnavi Adkar and the doubles pair of Ankita Raina and Rutuja Bhosale let winning chances slip, while Sahaja Yamalapalli struggled against a higher-ranked opponent. Coach Vishal Uppal said, “I think today was a day of missed chances,” urging players to learn, improve, and keep fighting despite fading qualification hopes.",
+    "img": "https://static.toiimg.com/photo/msid-130150654,imgsize-66750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/from-hope-to-heartbreak-india-learn-the-cost-of-not-closing-things-out-in-bjk-cup/articleshow/130150492.cms",
+    "time": "2026-04-09T17:42:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anurag lauds Ranveer's conviction, says he clipped his stomach during Lootera",
+    "desc": "Ranveer Singh's 'Dhurandhar 2' is a box office sensation, with his portrayal of an Indian spy earning widespread acclaim. Filmmaker Anurag Kashyap lauded Ranveer's unwavering dedication, recalling an incident during 'Lootera' where the actor inflicted self-injury to authentically portray a scene, showcasing his deep commitment to his craft.",
+    "img": "https://static.toiimg.com/photo/msid-130150431,imgsize-33640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-says-ranveer-singh-clipped-his-stomach-during-lootera-to-feel-pain-it-didnt-do-numbers-like-dhurandhar-but-look-at-his-conviction/articleshow/130150277.cms",
+    "time": "2026-04-09T17:30:59.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Kunal Kamra launches legal challenge to Sahyog Portal rules at Bombay High Court",
+    "title": "A.P. emerging as hub for tourism investments, says Minister",
+    "desc": "Participating in the 21st Hotel Investment Conference South Asia in Mumbai, Kandula Durgesh holds discussions with leading organisations on strengthening coastal tourism, developing spiritual tourism circuits, and ensuring balanced tourism growth across all regions of the State",
+    "img": "https://th-i.thgim.com/public/incoming/p5kdm0/article70844401.ece/alternates/LANDSCAPE_1200/10745_9_4_2026_21_30_16_1_IMG_20260409_WA0074.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-emerging-as-hub-for-tourism-investments-says-minister/article70844133.ece",
+    "time": "2026-04-09T17:13:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police ordering takedown of posts based on their own judgement, Kamra tells High Court",
     "desc": "The counsel informed the Bench that while the present petition was pending, the Central Government had introduced further amendments to the Rules. He added that the Union of India had not filed its reply to the petition despite being served notice several months ago.",
     "img": "https://th-i.thgim.com/public/incoming/op65bs/article70844113.ece/alternates/LANDSCAPE_1200/IMG_WhatsApp_Image_2025-_2_1_PVE5JHAS.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/mumbai/kunal-kamra-launches-legal-challenge-to-sahyog-portal-rules-at-bombay-high-court/article70843970.ece",
-    "time": "2026-04-09T15:57:40.000Z"
+    "url": "https://www.thehindu.com/news/cities/mumbai/police-using-sahyog-portal-rules-to-order-removal-of-content-kunal-kamra/article70843970.ece",
+    "time": "2026-04-09T17:04:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026",
+    "desc": "A late flourish from Rovman Powell (39 not out off 24 balls; 4x4, 2x6) ensured KKR score a competitive total, while Cameron Green (32 not out off 24 balls; 3x4, 1x6) finally had his best show after intense scrutiny as the highest paid (Rs 25.20-core) overseas cricketer in the IPL.",
+    "img": "https://th-i.thgim.com/public/incoming/ke5wf/article70844307.ece/alternates/LANDSCAPE_1200/PTI04_09_2026_000588A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-match-lsg-kkr-updates-april-9/article70843541.ece",
+    "time": "2026-04-09T16:43:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Modi, Mamata spar over fish as Bengal poll campaign heats up",
+    "desc": "PM Narendra Modi says West Bengal lags behind in fish production but can become a hub of pisciculture and seafood; Chief Minister Mamata Banerjee his back saying the BJP does not allow people to eat fish and has deleted 90 lakh names from the electoral roll to ‘grab power’ in Bengal",
+    "img": "https://th-i.thgim.com/public/incoming/l5e9pu/article70844235.ece/alternates/LANDSCAPE_1200/20260409091L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/modi-mamata-spar-over-fish-as-bengal-poll-campaign-heats-up/article70843949.ece",
+    "time": "2026-04-09T16:31:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RGV says, stabbing my past with knife called Dhurandhar 2, Kangana reacts",
+    "desc": "Filmmaker Ram Gopal Varma celebrated his birthday with a star-studded party in Mumbai. He marked the occasion by cutting a cake featuring his iconic films and praised Aditya Dhar's 'Dhurandhar2' as a \"surgical warfare on celluloid,\" calling Dhar his new 'guru' and a textbook for aspiring filmmakers.",
+    "img": "https://static.toiimg.com/photo/msid-130148864,imgsize-79526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-reacts-as-ram-gopal-varma-says-stabbing-my-past-with-knife-called-dhurandhar-2-drops-birthday-pic/articleshow/130148669.cms",
+    "time": "2026-04-09T16:28:35.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-Israel war LIVE: Netanyahu says he has instructed his Cabinet to begin direct negotiations with Lebanon",
+    "desc": "Lebanon seeks a temporary ceasefire to allow broader talks with Israel, an official said; he says Lebanon needs U.S. as a mediator and guarantor of any agreement; Iran's President Pezeshkian says Israel's strikes on Lebanon render negotiations 'meaningless'",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-9-2026/article70840935.ece",
+    "time": "2026-04-09T16:25:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arjun Kapoor’s cryptic post on ‘accepting endings’ sparks concern",
+    "desc": "Arjun Kapoor has once again left fans worried after sharing a cryptic note on social media, days after opening up about how life has been “cruel” to him lately. The actor, who has been facing consistent trolling online, posted a message about “accepting endings,” sparking concern among netizens.",
+    "img": "https://static.toiimg.com/photo/msid-130148699,imgsize-71736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arjun-kapoors-cryptic-post-on-accepting-endings-sparks-concern-among-fans-amid-ongoing-trolling/articleshow/130148699.cms",
+    "time": "2026-04-09T16:23:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hindu outfit cites ASI report claiming temple preceded mosque",
+    "desc": "The Hindu Front for Justice informed the Madhya Pradesh High Court that ASI's scientific survey report supports their claim of a temple predating the mosque at the Bhojshala complex. Advocate Vishnu Shankar Jain presented evidence, including inscriptions and idol remains, citing the ASI's findings. The court allowed highlighting relevant report portions amidst objections.",
+    "img": "https://static.toiimg.com/photo/msid-130148594,imgsize-1326947.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bhojshala-dispute-hindu-outfit-cites-asi-report-claiming-temple-preceded-mosque/articleshow/130148549.cms",
+    "time": "2026-04-09T16:15:18.000Z"
   },
   {
     "cat": "World",
@@ -27,13 +117,13 @@ const newsData_en = [
     "time": "2026-04-09T15:51:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Jagan’s ‘MAVIGUN’ plan an attempt to incite regional conflicts, says Agriculture Minister Atchannaidu",
-    "desc": "Describing the 2019–2024 period as an era of total destruction, Atchannaidu says the NDA government has put the State back on track in 22 months of assuming power with the support of Prime Minister Narendra Modi",
-    "img": "https://th-i.thgim.com/public/incoming/4g4b0x/article70843707.ece/alternates/LANDSCAPE_1200/Agriculture-MinGI4F9G4JS.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagans-mavigun-plan-an-attempt-to-incite-regional-conflicts-says-agriculture-minister-atchannaidu/article70843511.ece",
-    "time": "2026-04-09T15:46:48.000Z"
+    "cat": "Sports",
+    "title": "96-year-old CD Gopinath, India’s oldest-living cricketer, passes away",
+    "desc": "Former India cricketer CD Gopinath, aged 96, passed away on Thursday, ending his status as India’s oldest living Test player and the last survivor of the 1952 historic win over England. Following his death, Chandu Patankar (95) becomes the oldest living Indian Test cricketer, attributing his longevity to “God’s grace.”",
+    "img": "https://static.toiimg.com/photo/msid-130147662,imgsize-32456.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/96-year-old-cd-gopinath-indias-oldest-living-cricketer-passes-away-in-chennai/articleshow/130147510.cms",
+    "time": "2026-04-09T15:34:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -70,6 +160,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/indian-trade-delegation-to-visit-washington-this-month-us-envoy-sergio-gor/article70842744.ece",
     "time": "2026-04-09T14:44:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala, Assam, Puducherry record higher turnout than 2021",
+    "desc": "Kerala, Puducherry, and Assam witnessed increased voter turnout in their recent assembly elections compared to 2021. Puducherry recorded the highest at 89.20%, followed by Assam at 85.10%, and Kerala at 77.50%. Senior leaders, including chief ministers, cast their votes across the 126 seats in Assam, 140 in Kerala, and 30 in Puducherry, with vote counting scheduled for May 4.",
+    "img": "https://static.toiimg.com/photo/msid-130149559,imgsize-209380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assembly-elections-kerala-assam-puducherry-record-higher-turnout-than-2021/articleshow/130146467.cms",
+    "time": "2026-04-09T14:42:34.000Z"
   },
   {
     "cat": "World",
@@ -333,15 +432,6 @@ const newsData_en = [
     "time": "2026-04-09T09:10:55.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'AG8' buzz: Ariana Grande teases new music with studio pics",
-    "desc": "Ariana Grande is back in the studio, and the buzz is palpable as she gears up for her eighth album, playfully titled 'AG8'. Her fans have been quick to decipher her latest cryptic social media hints—particularly her references to the number eight and cheeky comments on her hotline.",
-    "img": "https://static.toiimg.com/photo/msid-130136476,imgsize-72280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ariana-grande-sparks-ag8-album-rumours-with-studio-selfies-and-cryptic-references-were-counting-down-the-8s/articleshow/130136362.cms",
-    "time": "2026-04-09T08:46:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Not 'chasemaster' Virat Kohli! David Miller, KL Rahul lead this IPL record",
     "desc": "While RCB star Virat Kohli dominates IPL chase runs, he surprisingly doesn't top the average charts. David Miller leads this elite list with an impressive 49.08 average, followed by KL Rahul and Phil Salt. Kohli sits tenth, highlighting that sheer volume isn't the only measure of chase prowess in T20 cricket.",
@@ -376,33 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/remain-indoors-avoid-sensitive-locations-india-steps-up-safety-measures-for-seafarers-amid-ongoing-iran-war/articleshow/130133590.cms",
     "time": "2026-04-09T08:12:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika Mandanna's father gifts her a bungalow named 'Serenity'",
-    "desc": "Actress Rashmika Mandanna received a heartwarming surprise on her 30th birthday from her father, who gifted her a bungalow named 'Serenity' near her hometown. This special occasion followed her recent wedding to Vijay Deverakonda. The actress also celebrated her first birthday post-marriage with a traditional Kodava ceremony in Virajpet, marking a significant new chapter.",
-    "img": "https://static.toiimg.com/photo/msid-130134139,imgsize-170730.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rashmika-mandannas-father-gifts-her-a-bungalow-named-serenity-on-her-30th-birthday-actress-gets-emotional/articleshow/130134139.cms",
-    "time": "2026-04-09T08:00:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Paris accuses Michael Jackson estate of ‘belittling’ her",
-    "desc": "Paris Jackson finds herself at the center of a contentious legal dispute with the executors of her late father Michael Jackson's estate, John Branca and John McClain. She accuses them of undermining her public persona through court actions and media manipulation, while alleging that they are mishandling the estate's finances and failing to communicate with the beneficiaries.",
-    "img": "https://static.toiimg.com/photo/msid-130134065,imgsize-178964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/paris-jackson-accuses-michael-jackson-estate-executors-of-mocking-and-belittling-her-in-court-inside-the-legal-battle/articleshow/130133999.cms",
-    "time": "2026-04-09T07:53:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Complaint filed against Cha Eunwoo’s military posting",
-    "desc": "Following his second apology for tax evasion, K-pop star Cha Eunwoo faces a petition questioning his military band assignment. Critics argue his public role and recent controversy warrant a review of his selection, citing potential damage to military trust. Authorities, however, maintain his posting adheres to internal regulations and are not investigating any changes.",
-    "img": "https://static.toiimg.com/photo/msid-130133901,imgsize-29670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/petition-filed-against-cha-eunwoos-military-band-posting-amid-tax-evasion-controversy-authorities-dismiss-concern-report/articleshow/130133901.cms",
-    "time": "2026-04-09T07:49:59.000Z"
   },
   {
     "cat": "Politics",
@@ -460,15 +523,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Neeche nahi girne denge': Shami’s pep talk to Pant wins heart ahead of clash against KKR",
-    "desc": "A heartwarming exchange between Mohammed Shami and Rishabh Pant during Lucknow Super Giants' net practice has captured social media. Shami's encouraging words, \"You are our lion, do whatever you want… we won’t let you fall,\" showcased the team's strong bond. This moment highlights the camaraderie and support within the LSG camp ahead of their IPL clash.",
-    "img": "https://static.toiimg.com/photo/msid-130132222,imgsize-171598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/neeche-nahi-girne-denge-shamis-pep-talk-to-pant-wins-heart-ahead-of-clash-against-kkr/articleshow/130132123.cms",
-    "time": "2026-04-09T06:43:26.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Franchise cricket is evolving, be careful what you wish for",
     "desc": "If the ICC does not lay down the rules soon, restricting the number of leagues a player might participate in, or indeed the number of franchises one owner might buy, the clash with franchise cricket (which is technically domestic) might become difficult to handle",
     "img": "https://th-i.thgim.com/public/incoming/s1l2te/article70841620.ece/alternates/LANDSCAPE_1200/IMG_TH27IPL_FLASHBACK_2_1_UNDKT8MA.jpg",
@@ -504,33 +558,6 @@ const newsData_en = [
     "time": "2026-04-09T06:06:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Yellow alert ahead of KKR vs LSG; will rain play spoilsport ?",
-    "desc": "Despite earlier heavy rain and a yellow alert, the IPL 2026 clash between Kolkata Knight Riders and Lucknow Super Giants at Eden Gardens is expected to proceed as scheduled. AccuWeather forecasts near-zero rain chances by toss time, with clear to partly cloudy skies and comfortable temperatures anticipated for a full 40-over contest.",
-    "img": "https://static.toiimg.com/photo/msid-130130884,imgsize-1007296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/kolkata-weather-update-yellow-alert-ahead-of-kkr-vs-lsg-will-rain-play-spoilsport-at-eden/articleshow/130130793.cms",
-    "time": "2026-04-09T05:50:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Hormuz open or close? Only a 'trickle' of oil leaving right now despite ceasefire",
-    "desc": "The Strait of Hormuz remains a flashpoint amid escalating Middle East tensions, with oil shipments struggling to resume normal flow. Experts suggest any impact on US fuel prices will be delayed, as a fragile ceasefire shows little progress. Global energy supplies face continued pressure, keeping oil markets unsettled despite recent price dips.",
-    "img": "https://static.toiimg.com/photo/msid-130129919,imgsize-85586.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/strait-of-hormuz-open-or-close-only-a-trickle-of-oil-leaving-right-now-despite-ceasefire/articleshow/130128831.cms",
-    "time": "2026-04-09T04:57:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "20 seats that could shape the state’s verdict",
-    "desc": "As Kerala heads to the polls, the election narrative shifts from rallies to booth-level battles. The ruling LDF aims for a historic third term, while the UDF seeks to leverage local body momentum against anti-incumbency. The NDA is focused on converting key pockets into durable political footholds, making these 20 constituencies the state's pressure points.",
-    "img": "https://static.toiimg.com/photo/msid-130129118,imgsize-1453714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kerala-polls-2026-20-seats-that-could-shape-the-states-verdict/articleshow/130128889.cms",
-    "time": "2026-04-09T04:53:49.000Z"
-  },
-  {
     "cat": "World",
     "title": "why mediation still matters in a world at war",
     "desc": "With the war in West Asia in its second month, discussions on mediation have gained prominence. History is replete with instances of mediation, with individuals and states helping conflicting parties reach agreement, alongside the development of international conventions for dispute resolution",
@@ -538,42 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/talking-peace-why-mediation-still-matters-in-a-world-at-war/article70835644.ece",
     "time": "2026-04-09T04:39:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Stock recommendations for April 9, 2026",
-    "desc": "Aditya Birla Sun Life AMC, Bank of India, and Cummins India have been picked as top stocks to buy today by Aakash K Hindocha, Deputy Vice President - WM Research of Nuvama Professional Clients Group.",
-    "img": "https://static.toiimg.com/photo/msid-130127959,imgsize-77488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-april-09-2026-aditya-birla-sun-life-amc-bank-of-india-cummins-india-best-stocks-to-buy-today/articleshow/130127918.cms",
-    "time": "2026-04-09T02:52:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude prices climb back towards $97 as Strait of Hormuz remains under pressure",
-    "desc": "Oil prices edged higher Thursday after a significant daily drop, as Middle East tensions and uncertainty surrounding the Strait of Hormuz kept markets on edge. Despite conflicting reports on tanker movement, US Vice President Vance indicated the strait was beginning to reopen. Prices remain elevated due to persistent concerns over potential renewed hostilities.",
-    "img": "https://static.toiimg.com/photo/msid-130127603,imgsize-51340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/crude-global-prices-on-april-9-2026-oil-climbs-back-towards-96-as-strait-of-hormuz-remains-under-pressure/articleshow/130127538.cms",
-    "time": "2026-04-09T02:38:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Axar Patel’s gesture towards distraught David Miller wins hearts — watch",
-    "desc": "Delhi Capitals faced a crushing one-run loss to Gujarat Titans after David Miller's valiant effort. Despite a dramatic chase, a crucial decision on the penultimate ball led to defeat. However, Delhi Capitals skipper Axar Patel's empathetic gesture towards a dejected David Miller stole the spotlight, showcasing sportsmanship amidst intense competition.",
-    "img": "https://static.toiimg.com/photo/msid-130127608,imgsize-52216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-axar-patels-gesture-towards-distraught-david-miller-wins-hearts-watch/articleshow/130127589.cms",
-    "time": "2026-04-09T02:25:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How R Vaishali crushed Divya Deshmukh in 31 moves to join lead",
-    "desc": "Indian chess sensation R Vaishali secured a commanding victory over compatriot Divya Deshmukh at the Women's Candidates, seizing a co-lead. Meanwhile, R Praggnanandhaa faced another draw, struggling to convert his advantage against Wei Yi. In the Open section, Javokhir Sindarov leads the pack with 7/9 points. The tournament continues with crucial pairings in both sections.",
-    "img": "https://static.toiimg.com/photo/msid-130127265,imgsize-74944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/fide-candidates-how-r-vaishali-crushed-divya-deshmukh-in-31-moves-to-join-lead-after-round-9/articleshow/130127263.cms",
-    "time": "2026-04-09T01:53:02.000Z"
   },
   {
     "cat": "Sports",
@@ -592,15 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/status-quo-stance-reflects-prudent-calibrated-approach-setty/article70839384.ece",
     "time": "2026-04-08T22:44:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026",
-    "desc": "The southpaw’s decision to not take a run off the penultimate ball proves costly as DC suffers a one-run loss; Rahul’s effort in vain; Gill, Buttler, Washington shine with the bat while Rashid scalps three",
-    "img": "https://th-i.thgim.com/public/incoming/omoq1n/article70840002.ece/alternates/LANDSCAPE_1200/SSK_6912.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-delhi-capital-gujarat-titans-match-updates-april-8/article70839034.ece",
-    "time": "2026-04-08T19:22:08.000Z"
   },
   {
     "cat": "World",
