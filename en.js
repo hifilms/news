@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Rules, warnings, little action: NMC under fire as violations persist in medical colleges",
+    "desc": "The National Medical Commission (NMC) has issued another warning to medical colleges regarding overcharging MBBS fees, particularly for the internship period. Despite past directives and regulatory powers, enforcement remains weak, with limited punitive action reported for violations like stipend irregularities. This pattern raises concerns about accountability in medical education.",
+    "img": "https://static.toiimg.com/photo/msid-130132488,imgsize-655535.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rules-warnings-little-action-nmc-under-fire-as-violations-persist-in-medical-colleges/articleshow/130132448.cms",
+    "time": "2026-04-09T06:54:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jaden Smith’s tribute to Jackie Chan: ‘You changed my life’",
+    "desc": "Jaden Smith penned a heartfelt birthday message to Jackie Chan, calling him a \"leader\" who \"changed my life.\" Fans reminisced about their 'Karate Kid' bond, with recent reunion photos sparking nostalgia. The 2010 film marked a turning point for Jaden, showcasing a deep mentor-student connection that continues to resonate.",
+    "img": "https://static.toiimg.com/photo/msid-130132273,imgsize-115954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jaden-smith-posts-heartfelt-tribute-wishes-leader-jackie-chan-on-his-birthday-you-changed-my-life/articleshow/130132214.cms",
+    "time": "2026-04-09T06:45:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Neeche nahi girne denge': Shami’s pep talk to Pant wins heart ahead of clash against KKR",
+    "desc": "A heartwarming exchange between Mohammed Shami and Rishabh Pant during Lucknow Super Giants' net practice has captured social media. Shami's encouraging words, \"You are our lion, do whatever you want… we won’t let you fall,\" showcased the team's strong bond. This moment highlights the camaraderie and support within the LSG camp ahead of their IPL clash.",
+    "img": "https://static.toiimg.com/photo/msid-130132222,imgsize-171598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/neeche-nahi-girne-denge-shamis-pep-talk-to-pant-wins-heart-ahead-of-clash-against-kkr/articleshow/130132123.cms",
+    "time": "2026-04-09T06:43:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Allu Arjun’s ‘Raaka’ title goes viral linked to THIS Jr NTR’s film",
+    "desc": "The title 'Raaka' for Allu Arjun's new pan-India film is creating a buzz. Fans recall the same name from Jr NTR's 2011 movie 'Shakti'. While 'Shakti' did not perform well, expectations are high for Allu Arjun's 'Raaka'. The film is set for a multi-language release, aiming for a wide international audience.",
+    "img": "https://static.toiimg.com/photo/msid-130132004,imgsize-429456.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-arjuns-raaka-title-goes-viral-fans-recall-same-name-used-in-this-jr-ntrs-film/articleshow/130132004.cms",
+    "time": "2026-04-09T06:40:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Franchise cricket is evolving, be careful what you wish for",
+    "desc": "If the ICC does not lay down the rules soon, restricting the number of leagues a player might participate in, or indeed the number of franchises one owner might buy, the clash with franchise cricket (which is technically domestic) might become difficult to handle",
+    "img": "https://th-i.thgim.com/public/incoming/s1l2te/article70841620.ece/alternates/LANDSCAPE_1200/IMG_TH27IPL_FLASHBACK_2_1_UNDKT8MA.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/opinion/columns/franchise-cricket-is-evolving-be-careful-what-you-wish-for/article70834253.ece",
+    "time": "2026-04-09T06:39:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'We were really in danger'",
+    "desc": "K-Pop sensation BTS is launching their ARIRANG world tour in South Korea today. Reflecting on their early days, the group shared on Hot Ones how recording their 2014 track 'Danger' in a humble LA garage tested them, forging resilience. This tour, spanning continents, highlights their incredible journey from struggling artists to global superstars.",
+    "img": "https://static.toiimg.com/photo/msid-130132034,imgsize-71106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/we-were-really-in-danger-bts-share-early-struggles-ahead-of-arirang-world-tour/articleshow/130128930.cms",
+    "time": "2026-04-09T06:36:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Dudhwa buffer zone staff collecting carcasses after death of 25 vultures",
+    "desc": "Dudhwa Tiger Reserve authorities are seeking help from IVRI, Bareilly to determine the cause of death for 25 critically endangered vultures found in the buffer zone. Vultures are suspected to have died after consuming poisoned dog carcasses found nearby. Post-mortem revealed a poisonous substance in the dogs, but the exact poison remains unidentified.",
+    "img": "https://static.toiimg.com/photo/msid-130130249,imgsize-254132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dudhwa-buffer-zone-staff-collecting-carcasses-after-death-of-25-vultures/articleshow/130129693.cms",
+    "time": "2026-04-09T06:31:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ian McKellen says he 'fell in love’ with Johnny Depp",
+    "desc": "A Christmas Carol,' Ian McKellen opened up about an unexpected connection he felt with Johnny Depp, describing their on-set chemistry as a 'delightful chemistry.' He marveled at Depp's versatile performance, portraying the filming experience as an unforgettable journey of artistic synergy.",
+    "img": "https://static.toiimg.com/photo/msid-130131517,imgsize-216034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ian-mckellen-says-he-fell-in-love-with-johnny-depp-while-filming-for-ebenezer-a-christmas-carol/articleshow/130131517.cms",
+    "time": "2026-04-09T06:27:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Fuel tanker Green Asha carrying over 15,000 tonnes of LPG reaches India after crossing Hormuz",
+    "desc": "An India-flagged LPG carrier, Green Asha, successfully navigated the Strait of Hormuz and docked at JNPA, carrying vital supplies amid regional tensions. This arrival highlights the ongoing efforts to maintain stable domestic LPG supply, with the government ensuring availability and addressing potential concerns for migrant workers.",
+    "img": "https://static.toiimg.com/photo/msid-130131544,imgsize-757707.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/fuel-tanker-green-asha-carrying-over-15000-tonnes-of-lpg-reaches-india-after-crossing-hormuz/articleshow/130131532.cms",
+    "time": "2026-04-09T06:25:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Raaka' actor Allu Arjun’s birthday event turns chaotic",
+    "desc": "Actor Allu Arjun's 44th birthday celebrations in Hyderabad became chaotic. A large crowd of fans gathered outside his residence, leading to a police lathi charge to manage the situation. Despite the disruption, Allu Arjun greeted his fans. The event also saw the announcement of his new film, 'Raaka', directed by Atlee.",
+    "img": "https://static.toiimg.com/photo/msid-130131139,imgsize-226444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/raaka-actor-allu-arjuns-birthday-event-turns-chaotic-police-lathi-charge-to-control-fans-in-hyderabad/articleshow/130131139.cms",
+    "time": "2026-04-09T06:14:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "22 lakh voters to reach polling booths in Palakkad",
+    "desc": "Enhanced security measures are in place to ensure a smooth election as 71 candidates from the LDF, UDF, and NDA vie for votes. A total of 2,531 polling stations have been set up, up from 2,112 in the 2021 election.",
+    "img": "https://th-i.thgim.com/public/incoming/9mgwd9/article70839313.ece/alternates/LANDSCAPE_1200/Ballot%20Box_8.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-polls-22-lakh-voters-to-cast-polling-booths-in-palakkad/article70839098.ece",
+    "time": "2026-04-09T06:09:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill punished despite GT’s last-ball thriller win over DC",
+    "desc": "Shubman Gill's Gujarat Titans clinched a thrilling one-run victory against Delhi Capitals in IPL 2026. Despite the dramatic win, Gill was fined Rs 12 lakh for a slow over-rate, marking the team's first offense. The captain's tactical decisions, including a crucial gamble on the final ball, ultimately secured the hard-fought win.",
+    "img": "https://static.toiimg.com/photo/msid-130131241,imgsize-27888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-shubman-gill-punished-despite-gts-last-ball-thriller-win-over-dc/articleshow/130131213.cms",
+    "time": "2026-04-09T06:06:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yellow alert ahead of KKR vs LSG; will rain play spoilsport ?",
+    "desc": "Despite earlier heavy rain and a yellow alert, the IPL 2026 clash between Kolkata Knight Riders and Lucknow Super Giants at Eden Gardens is expected to proceed as scheduled. AccuWeather forecasts near-zero rain chances by toss time, with clear to partly cloudy skies and comfortable temperatures anticipated for a full 40-over contest.",
+    "img": "https://static.toiimg.com/photo/msid-130130884,imgsize-1007296.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/kolkata-weather-update-yellow-alert-ahead-of-kkr-vs-lsg-will-rain-play-spoilsport-at-eden/articleshow/130130793.cms",
+    "time": "2026-04-09T05:50:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Patrick Ball reveals how ‘The Pitt' made him debt-free",
+    "desc": "Actor Patrick Ball, now celebrated for his role in 'The Pitt', tearfully revealed the profound relief of clearing his $80,000 student debt. This financial freedom, achieved after years of struggle and near-quitting acting, marked a significant turning point, allowing him to finally pursue his passion without crippling insecurity.",
+    "img": "https://static.toiimg.com/photo/msid-130130821,imgsize-93970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-pitts-patrick-ball-breaks-down-after-paying-off-usd-80k-debt-thought-i-was-gonna-die/articleshow/130130776.cms",
+    "time": "2026-04-09T05:46:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Not many female actors...'",
+    "desc": "With two decades of cinematic experience under her belt, Tamannaah Bhatia is experiencing a refreshing renaissance, something not commonly felt by her female counterparts. She’s buzzing with enthusiasm for new roles and is deeply touched by the acceptance she’s found nationwide, particularly the affection from audiences outside her home turf in South India. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130130706,imgsize-80422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tamannaah-bhatia-on-21-years-in-cinema-says-not-many-female-actors-get-this-sort-of-opportunity/articleshow/130130706.cms",
+    "time": "2026-04-09T05:44:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lady Superstar Nayanthara's hit movies to watch on OTT",
+    "desc": "Nayanthara, the 'Lady Superstar,' continues to captivate audiences with her versatile performances in hit films like 'Imaikkaa Nodigal' and 'Aramm.' These action thrillers, horror dramas, and social issue films are now available on OTT platforms, allowing fans to revisit her remarkable portrayals. With several promising projects in the pipeline, Nayanthara solidifies her position as a leading actress in Indian cinema.",
+    "img": "https://static.toiimg.com/photo/msid-130130528,imgsize-121822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/imaikkaa-nodigal-to-aramm-lady-superstar-nayantharas-hit-movies-to-watch-on-ott/articleshow/130130528.cms",
+    "time": "2026-04-09T05:31:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Olivia Munn recalls how a male co-star halted filming",
+    "desc": "In a gripping behind-the-scenes tale, Olivia Munn described an unusual filming hiccup when a male co-star paused production for a whopping 45 minutes. His stubborn refusal to accept rescue by her character stemmed from a belief that a woman just couldn't swoop in to save the day.",
+    "img": "https://static.toiimg.com/photo/msid-130130332,imgsize-125012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/olivia-munn-shares-awkward-on-set-experience-of-a-male-co-star-refusing-to-be-saved-by-a-woman/articleshow/130130332.cms",
+    "time": "2026-04-09T05:28:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I've privilege'",
+    "desc": "Konkona Sensharma candidly discussed the film industry's gender pay gap and systemic patriarchy, attributing her own relative ease to privilege and her mother's influence. While acknowledging some progress, like women in makeup roles, she highlighted the slow pace of change in technical departments and the ongoing struggle for equal opportunity and fair pay for women. Read on to know more.",
+    "img": "https://static.toiimg.com/photo/msid-130129992,imgsize-82896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/konkona-sensharma-on-industry-patriarchy-ive-privilege-i-cant-be-so-easily-dismissed/articleshow/130129992.cms",
+    "time": "2026-04-09T05:06:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Hormuz open or close? Only a 'trickle' of oil leaving right now despite ceasefire",
+    "desc": "The Strait of Hormuz remains a flashpoint amid escalating Middle East tensions, with oil shipments struggling to resume normal flow. Experts suggest any impact on US fuel prices will be delayed, as a fragile ceasefire shows little progress. Global energy supplies face continued pressure, keeping oil markets unsettled despite recent price dips.",
+    "img": "https://static.toiimg.com/photo/msid-130129919,imgsize-85586.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/strait-of-hormuz-open-or-close-only-a-trickle-of-oil-leaving-right-now-despite-ceasefire/articleshow/130128831.cms",
+    "time": "2026-04-09T04:57:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Team prediction, head-to-head, pitch report, Kolkata weather update",
+    "desc": "Kolkata Knight Riders, struggling for form and ideas, face a confident Lucknow Super Giants at Eden Gardens today. Mohammed Shami's potent bowling poses a significant threat to KKR's fragile top order, while LSG's bowling depth adds to the challenge. KKR's batting remains a concern, with potential changes on the cards.",
+    "img": "https://static.toiimg.com/photo/msid-130129892,imgsize-85306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-match-today-kkr-vs-lsg-team-prediction-head-to-head-pitch-report-kolkata-weather-update/articleshow/130129853.cms",
+    "time": "2026-04-09T04:55:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Euphoria 3’ rates low ahead of official release",
+    "desc": "Ahead of its April 12 release, 'Euphoria 3' is facing a critical backlash, with early ratings plummeting to a series low of 50% on Rotten Tomatoes. Critics are lambasting the show's plot and character chemistry, noting a spiritual hollowness and a perceived lack of grasp on its adult characters. The final season shifts focus to the characters' lives post-high school.",
+    "img": "https://static.toiimg.com/photo/msid-130129808,imgsize-76964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/euphoria-3-ratings-drop-drastically-ahead-of-release-critics-criticize-new-season-and-sam-levinson/articleshow/130129808.cms",
+    "time": "2026-04-09T04:54:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "20 seats that could shape the state’s verdict",
+    "desc": "As Kerala heads to the polls, the election narrative shifts from rallies to booth-level battles. The ruling LDF aims for a historic third term, while the UDF seeks to leverage local body momentum against anti-incumbency. The NDA is focused on converting key pockets into durable political footholds, making these 20 constituencies the state's pressure points.",
+    "img": "https://static.toiimg.com/photo/msid-130129118,imgsize-1453714.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kerala-polls-2026-20-seats-that-could-shape-the-states-verdict/articleshow/130128889.cms",
+    "time": "2026-04-09T04:53:49.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Director Manu Anand compares 'Mr. X' with 'Dhurandhar'",
     "desc": "Tamil spy thriller 'Mr. X,' starring Arya, is set for a theatrical release on April 17 after a two-year production. Director Manu Anand reveals the film draws inspiration from real-life Indian spy incidents spanning from 1960 to 2022, structured like the Hindi blockbuster 'Dhurandhar' by connecting multiple incidents into one screenplay.",
@@ -18,13 +216,13 @@ const newsData_en = [
     "time": "2026-04-09T04:46:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Adam Sandler",
-    "desc": "Adam Sandler, a celebrated actor and comedian, shares a powerful quote about life's inevitable struggles. He emphasizes that challenges are universal, regardless of background, and that pushing through difficult times, even when energy is low, is crucial. Sandler's message highlights the importance of perseverance and staying true to oneself, even when facing personal doubts and responsibilities.",
-    "img": "https://static.toiimg.com/photo/msid-130127496,imgsize-61150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-adam-sandler-were-all-going-to-have-to-struggle-and-fight/articleshow/130127496.cms",
-    "time": "2026-04-09T04:30:00.000Z"
+    "cat": "World",
+    "title": "why mediation still matters in a world at war",
+    "desc": "With the war in West Asia in its second month, discussions on mediation have gained prominence. History is replete with instances of mediation, with individuals and states helping conflicting parties reach agreement, alongside the development of international conventions for dispute resolution",
+    "img": "https://th-i.thgim.com/public/incoming/8s363h/article70835661.ece/alternates/LANDSCAPE_1200/AFP_A4WH7ZQ.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/talking-peace-why-mediation-still-matters-in-a-world-at-war/article70835644.ece",
+    "time": "2026-04-09T04:39:16.000Z"
   },
   {
     "cat": "Sports",
@@ -162,42 +360,6 @@ const newsData_en = [
     "time": "2026-04-09T02:38:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anthony Mackie to star with Dafne Keen for new action thriller ‘Barracuda’",
-    "desc": "In a gripping fusion of action and suspense, Marvel alumni Anthony Mackie and Dafne Keen join forces in 'Barracuda.' Mackie takes on the role of a seasoned smuggler, determined to save a kidnapped teen, played by Keen. Their break for freedom triggers an adrenaline-fueled pursuit toward the U.S.",
-    "img": "https://static.toiimg.com/photo/msid-130127630,imgsize-65122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/anthony-mackie-to-star-with-dafne-keen-for-new-action-thriller-barracuda/articleshow/130127630.cms",
-    "time": "2026-04-09T02:31:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anurag Kashyap says he has something CRAZY for Mrunal in mind",
-    "desc": "Filmmaker Anurag Kashyap lauded Mrunal Thakur as an exceptionally authentic performer, highlighting her profound emotional connection and ability to convey feelings through her eyes. Kashyap believes she underestimates her talent and hinted at a future project where she can explore a more uninhibited role, potentially allowing her to 'let loose and abuse'. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130127592,imgsize-61368.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-says-he-has-something-crazy-for-mrunal-thakur-in-mind-whoever-she-wants-to-abuse-she-can-do-it-in-my-film/articleshow/130127592.cms",
-    "time": "2026-04-09T02:30:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aarav woos fans with resemblance to dad Akshay",
-    "desc": "Aarav Bhatia, son of Twinkle Khanna and Akshay Kumar, recently garnered attention online for his striking resemblance to his father. Spotted during a dinner outing, Aarav's appearance, particularly his moustache and hairstyle, evoked memories of Akshay's younger days. While Aarav maintains a low profile, focusing on education, his rare public sightings always generate significant buzz among fans.",
-    "img": "https://static.toiimg.com/photo/msid-130127445,imgsize-88480.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aarav-bhatia-woos-fans-with-resemblance-to-dad-akshay-kumar-on-dinner-outing/articleshow/130127437.cms",
-    "time": "2026-04-09T02:29:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Biker' vs 'Raakaasa' box office collections day 6",
-    "desc": "Telugu films Biker and Raakaasa are in a close box office race. On day six, Biker collected Rs 1.05 crore net in India, reaching a total of Rs 14.88 crore worldwide. Raakaasa saw a slight dip, earning Rs 0.85 crore net, but leads globally with Rs 16.01 crore. Both films are attracting audiences with their distinct genres.",
-    "img": "https://static.toiimg.com/photo/msid-130127560,imgsize-162636.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/biker-vs-raakaasa-box-office-collections-day-6-sharwanand-film-leads-daily-race-with-rs-1-05-cr-sangeeth-shobhan-starrer-ahead-globally-at-rs-16-01-cr/articleshow/130127560.cms",
-    "time": "2026-04-09T02:27:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Axar Patel’s gesture towards distraught David Miller wins hearts — watch",
     "desc": "Delhi Capitals faced a crushing one-run loss to Gujarat Titans after David Miller's valiant effort. Despite a dramatic chase, a crucial decision on the penultimate ball led to defeat. However, Delhi Capitals skipper Axar Patel's empathetic gesture towards a dejected David Miller stole the spotlight, showcasing sportsmanship amidst intense competition.",
@@ -225,15 +387,6 @@ const newsData_en = [
     "time": "2026-04-09T01:53:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mouni calls Ranveer 'superhuman' as she reviews Dhurandhar 2",
-    "desc": "The Revenge', describing his performance as a 'full-on dedication' and referring to him as a 'whimsical whirlwind of talent'. She praised director Aditya Dhar's 'intricate vision' and his ability to weave a tale that is both 'intense and profoundly relatable'. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130127212,imgsize-93024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mouni-roy-calls-ranveer-singh-superhuman-as-she-reviews-dhurandhar-the-revenge-film-will-stay-with-us-for-generations/articleshow/130127212.cms",
-    "time": "2026-04-09T01:51:23.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "RBI keeps repo rate unchanged, predicts 6.9% GDP growth",
     "desc": "The RBI kept its policy rate at 5.25% for the second consecutive meeting, citing concerns over elevated crude oil prices and global uncertainties. Governor Malhotra expressed cautious optimism, assuring markets that temporary forex measures were aimed at curbing speculation and would be reviewed. The central bank also eased capital norms for banks to support credit growth.",
@@ -241,24 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/rbi-keeps-repo-rate-unchanged-predicts-6-9-gdp-growth/articleshow/130127256.cms",
     "time": "2026-04-09T01:50:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Leader' BO day 7: Saravanan film has India net at Rs 3.99 Cr",
-    "desc": "Despite a week in theaters, the Tamil spy thriller 'Leader' starring Saravanan is struggling at the box office, earning a mere Rs 28 lakhs on its seventh day. With a total of Rs 3.99 Cr net after seven days, the film faces an uphill battle.",
-    "img": "https://static.toiimg.com/photo/msid-130127210,imgsize-88266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/leader-box-office-collections-day-7-saravanan-film-stuck-with-low-numbers-india-net-at-rs-3-99-cr-after-one-week/articleshow/130127210.cms",
-    "time": "2026-04-09T01:48:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Bridgerton’ Season 5 adds three new cast members",
-    "desc": "Bridgerton's upcoming season is set to spotlight Francesca and Michaela Stirling's romance, introducing new faces like Tega Alexander as the charming Christopher Anderson, Jacqueline Boatswain as Michaela's spirited mother Helen, and Gemma Knight Jones as the wise confidante Lady Elizabeth Ashworth. Filming is underway in London for the eight-episode season, promising more Regency drama.",
-    "img": "https://static.toiimg.com/photo/msid-130127158,imgsize-103350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-5-adds-three-new-cast-members-as-francesca-and-michaelas-romance-takes-center-stage/articleshow/130127158.cms",
-    "time": "2026-04-09T01:43:49.000Z"
   },
   {
     "cat": "Politics",
@@ -270,24 +405,6 @@ const newsData_en = [
     "time": "2026-04-09T01:30:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Extraction 3’ confirmed with Chris Hemsworth’s return",
-    "desc": "Buckle up for an electrifying ride! 'Extraction 3' has been officially greenlit, with Chris Hemsworth returning to breathe life into Tyler Rake once again. As fans hold their breath, the talented Sam Hargrave is stepping back into the director's chair. Expect to see Idris Elba and Golshifteh Farahani reprise their roles, adding more firepower to the already intense storyline.",
-    "img": "https://static.toiimg.com/photo/msid-130126968,imgsize-115868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chris-hemsworth-confirmed-to-return-for-extraction-3-idris-elba-and-golshifteh-farahani-also-join-report/articleshow/130126968.cms",
-    "time": "2026-04-09T01:25:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Game of Thrones' actor Michael Patrick passes away at 35",
-    "desc": "Game of Thrones actor Michael Patrick has passed away at 35 after a battle with motor neurone disease, diagnosed in February 2023. His wife confirmed his peaceful passing at Northern Ireland Hospice, surrounded by loved ones. A GoFundMe campaign successfully raised over £110,000 for his specialized care needs following a tracheostomy.",
-    "img": "https://static.toiimg.com/photo/msid-130127003,imgsize-66002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/game-of-thrones-actor-michael-patrick-passes-away-at-35-after-battle-with-motor-neurone-disease/articleshow/130126852.cms",
-    "time": "2026-04-09T01:22:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "What was David Miller thinking — why didn’t he run?",
     "desc": "David Miller's decision to refuse a single in the final over of the IPL 2026 match against Gujarat Titans cost Delhi Capitals a potential win. Despite an injured hand, Miller's late surge brought them close, but his final act left fans questioning his judgment as they lost by one run.",
@@ -295,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-dc-vs-gt-what-was-david-miller-thinking-why-didnt-he-run/articleshow/130126901.cms",
     "time": "2026-04-09T01:20:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ustaad Bhagat Singh' BO day 21: Slows down in fourth week",
-    "desc": "Pawan Kalyan's much-anticipated project, 'Ustaad Bhagat Singh,' is witnessing a sharp decline in box office revenue, managing only Rs 15 lakhs on its 21st day. With a total of Rs 72.13 Cr net in India and Rs 96.53 Cr worldwide, the film seems to be losing momentum.",
-    "img": "https://static.toiimg.com/photo/msid-130126886,imgsize-94774.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/ustaad-bhagat-singh-box-office-collections-day-21-pawan-kalyan-film-adds-only-rs-15-lakhs-actioner-slows-down-in-fourth-week/articleshow/130126886.cms",
-    "time": "2026-04-09T01:10:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -369,69 +477,6 @@ const newsData_en = [
     "time": "2026-04-08T22:30:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "After SIR, number of voters in Mamata Banerjee's seat down 25%",
-    "desc": "Bhowanipore constituency, the high-profile seat of Bengal CM Mamata Banerjee, has seen its electorate shrink by nearly 25% after electoral roll revisions. Over 51,000 deletions occurred, with a significant portion of Muslims marked for adjudication and eventual deletion, raising concerns among researchers.",
-    "img": "https://static.toiimg.com/photo/msid-130126204,imgsize-829597.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/after-sir-number-of-voters-in-mamata-banerjees-seat-down-25/articleshow/130125948.cms",
-    "time": "2026-04-08T22:17:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pawan Khera seeks bail from Telangana high court in Himanta Sarma case",
-    "desc": "Congress leader Pawan Khera has sought anticipatory bail from the Telangana High Court. This follows a case filed by Guwahati police concerning his allegations against Assam CM Himanta Biswa Sarma's wife. Khera claims the FIR copy hasn't been provided and the charges are invalid. Assam Police's pursuit has now extended to Hyderabad.",
-    "img": "https://static.toiimg.com/photo/msid-130124956,imgsize-395791.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pawan-khera-seeks-bail-from-telangana-high-court-in-himanta-sarma-case/articleshow/130124552.cms",
-    "time": "2026-04-08T22:06:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Government clears bills to amend quota law for women",
-    "desc": "The government has approved draft bills to amend the women's reservation law, aiming for 33% reservation in Lok Sabha and state assemblies from 2029. These bills, to be introduced in the upcoming special Parliament session, will increase Lok Sabha seats to 816, with 273 reserved for women.",
-    "img": "https://static.toiimg.com/photo/msid-130124335,imgsize-443268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/government-clears-bills-to-amend-quota-law-for-women/articleshow/130124324.cms",
-    "time": "2026-04-08T21:49:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sabarimala PIL was entertained in 2006, but would have been dismissed now: Supreme Court",
-    "desc": "The Supreme Court expressed concern over the misuse of Public Interest Litigation for personal agendas, suggesting it would have dismissed a PIL challenging the Sabarimala custom. Justices noted that such challenges, if not brought by devotees, lack cause of action. The court emphasized the need for strict locus standi rules to prevent PIL abuse, especially in religious matters.",
-    "img": "https://static.toiimg.com/photo/msid-130124088,imgsize-714628.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sabarimala-pil-was-entertained-in-2006-but-would-have-been-dismissed-now-supreme-court/articleshow/130124084.cms",
-    "time": "2026-04-08T21:20:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India welcomes Pakistan brokered ceasefire, hopes it can lead to peace in Ukraine too",
-    "desc": "India has welcomed a temporary ceasefire in West Asia. The truce, brokered by Pakistan, aims to end a brutal war. India hopes this will lead to lasting peace and ensure global trade flows freely. The government also sees potential for peace efforts in Ukraine. India prioritizes the safety of its diaspora and LPG tanker passage.",
-    "img": "https://static.toiimg.com/photo/msid-130123836,imgsize-1031673.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-welcomes-pakistan-brokered-ceasefire-hopes-it-can-lead-to-peace-in-ukraine-too/articleshow/130123831.cms",
-    "time": "2026-04-08T20:20:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Edappadi K. Palaniswami, the lone star of AIADMK election campaign, steps up his pitch for power",
-    "desc": "The former Chief Minister is the main campaigner for the AIADMK across Tamil Nadu, with a stump speech focused on law and order issues, the State’s finances, concerns of government employees, drug menace, and rising inflation; he also highlights features of the manifesto of his party",
-    "img": "https://th-i.thgim.com/public/incoming/hqelg9/article70839678.ece/alternates/LANDSCAPE_1200/11658_8_4_2026_21_44_15_3_8.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/palaniswami-lone-star-of-the-aiadmk-poll-campaign/article70838381.ece",
-    "time": "2026-04-08T20:13:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Despite having nine large waterbodies, residents do not get clean groundwater",
-    "desc": "They say that if the government removes encroachments and brings excess water from Chembarambakkam to the lakes in the constituency, the drinking water problem can be solved; another issue is that stray animal population keeps rising though the authorities take steps to catch them",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/9g9vmp/article70840009.ece/alternates/LANDSCAPE_1200/Radha%20Nagar%20subway.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/despite-having-nine-large-waterbodies-residents-do-not-get-clean-groundwater/article70839760.ece",
-    "time": "2026-04-08T19:32:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026",
     "desc": "The southpaw’s decision to not take a run off the penultimate ball proves costly as DC suffers a one-run loss; Rahul’s effort in vain; Gill, Buttler, Washington shine with the bat while Rashid scalps three",
@@ -468,15 +513,6 @@ const newsData_en = [
     "time": "2026-04-08T18:57:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Priyank Kharge directs zilla panchayat CEOs to ensure there is no drinking water shortage in Karnataka villages",
-    "desc": "As Karnataka is facing the peak summer heat, Minister for Rural Development and Panchayat Raj and IT and BT Priyank Kharge on Wednesday directed Chief Executive Officers of all zilla panchayats to take urgent and proactive measures to ensure that no village faces a shortage of drinking water during the summer months",
-    "img": "https://th-i.thgim.com/public/incoming/fyptot/article70839706.ece/alternates/LANDSCAPE_1200/_DSC3077.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/priyank-kharge-directs-zilla-panchayat-ceos-to-ensure-there-is-no-drinking-water-shortage-in-karnataka-villages/article70839155.ece",
-    "time": "2026-04-08T18:49:27.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S., Iran agree to two-week ceasefire",
     "desc": "Talks to begin in Islamabad on April 10, based on Tehran’s 10-point proposal; safe passage through Strait of Hormuz in coordination with Iranian armed forces during truce; Israel says Lebanon is not part of the ceasefire",
@@ -484,15 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-says-he-has-agreed-to-suspend-bombing-and-attack-of-iran-for-two-weeks/article70836115.ece",
     "time": "2026-04-08T17:56:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It doesn't matter who you are': Sooryavanshi steals fresh IPL buzz",
-    "desc": "Vaibhav Sooryavanshi is emerging as a standout performer in IPL 2026, impressing with fearless batting against top bowlers like Jasprit Bumrah. Dale Steyn said the youngster has already “instilled fear” in bowlers. His quick 39 helped Rajasthan Royals beat Mumbai Indians, extending their winning run, with his aggressive approach troubling even the best in the game.",
-    "img": "https://static.toiimg.com/photo/msid-130119513,imgsize-51382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/it-doesnt-matter-who-you-are-vaibhav-sooryavanshi-steals-fresh-ipl-buzz/articleshow/130118988.cms",
-    "time": "2026-04-08T16:45:31.000Z"
   },
   {
     "cat": "Sports",
@@ -532,30 +559,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'It's something similar'",
-    "desc": "Shubman Gill returned for Gujarat Titans in IPL 2026 but raised concerns about his neck injury, admitting, “It’s something similar” to a past issue. Delhi Capitals opted to bowl first, citing pitch conditions and form. While DC continue their winning run, GT are still searching for their first victory, with Gill’s fitness remaining a concern.",
-    "img": "https://static.toiimg.com/photo/msid-130116675,imgsize-29116.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/shubman-gill-issues-worrying-injury-update-despite-ipl-return-its-something-similar/articleshow/130116181.cms",
-    "time": "2026-04-08T14:24:37.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "KKR eyes first win of season against upbeat LSG",
     "desc": "A season expected to pose a problem of plenty has turned out to be one with plenty of problems for the Ajinkya Rahane-led side, which is struggling to find the right bowling combination due to injuries to its key pacers and the lacklustre performance of its reliable spinners.",
     "img": "https://th-i.thgim.com/public/incoming/aros/article70838828.ece/alternates/LANDSCAPE_1200/016.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-kkr-eyes-first-win-of-season-against-upbeat-lsg/article70838612.ece",
     "time": "2026-04-08T14:02:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan was...",
-    "desc": "Empty stadiums in PSL 2026 have sparked debate after Islamabad United owner Ali Naqvi linked the decision to Pakistan’s role in global peace efforts. His claim conflicts with PCB’s earlier explanation citing a fuel crisis. Critics say the situation is being overstated, arguing that logistical issues are being framed as a larger diplomatic sacrifice.",
-    "img": "https://static.toiimg.com/photo/msid-130114277,imgsize-21808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-team-owner-contradicts-mohsin-naqvi-on-empty-stands-says-pakistan-was-busy-driving-global-peace/articleshow/130113543.cms",
-    "time": "2026-04-08T12:45:24.000Z"
   },
   {
     "cat": "World",
@@ -565,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/chinas-foreign-minister-to-visit-north-korea-between-april-9-and-10/article70837941.ece",
     "time": "2026-04-08T12:18:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Very seriously': Australia cricket board on Warner's drink-driving case",
-    "desc": "Former Australia cricketer David Warner has been charged with drink driving in Sydney after allegedly recording a blood alcohol level of 0.104 during a random test. He will appear in court on May 7. Cricket NSW called the matter serious but pledged support. The incident may impact his reputation, though it is unlikely to affect his ongoing Pakistan Super League participation.",
-    "img": "https://static.toiimg.com/photo/msid-130113152,imgsize-41184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/take-this-very-seriously-australian-cricket-board-breaks-silence-on-david-warners-drink-driving-case/articleshow/130113008.cms",
-    "time": "2026-04-08T12:03:31.000Z"
   },
   {
     "cat": "Sports",
@@ -621,15 +621,6 @@ const newsData_en = [
     "time": "2026-04-08T08:06:56.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Iran-US ceasefire impact: Oil prices drop, Hormuz to see 'controlled' movement; global markets surge",
-    "desc": "A temporary ceasefire between Iran and the US is reshaping global markets. Oil prices have dropped significantly as the Strait of Hormuz sees cautious reopening. Stock markets worldwide are experiencing a strong rally, with Indian markets showing substantial gains. This development offers relief from geopolitical tensions and supports economic stability.",
-    "img": "https://static.toiimg.com/photo/msid-130105744,imgsize-1669511.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/iran-us-ceasefire-impact-oil-prices-drop-hormuz-to-see-controlled-movement-global-markets-surge/articleshow/130105392.cms",
-    "time": "2026-04-08T07:23:53.000Z"
-  },
-  {
     "cat": "World",
     "title": "Daily Quiz",
     "desc": "April 7 marks the commemoration of the genocide that occurred in Rwanda in 1994. Close to a million people were killed in the 100-day onslaught. A quiz on the events leading to the grim chapter in the country’s history.",
@@ -664,42 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/israel-says-missiles-fired-by-iran-as-trump-pauses-attack/article70836880.ece",
     "time": "2026-04-08T02:15:03.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iranians form human chains on bridges, near power plants as Trump threatens to unleash ‘hell’",
-    "desc": "Some Iranians formed human chains across several Iranian cities on Tuesday (April 7), gathering on bridges and around power plants as U.S. strikes on Iran intensified and President Donald Trump’s deadline to unleash “hell” neared.",
-    "img": "https://th-i.thgim.com/public/incoming/gw989m/article70835693.ece/alternates/LANDSCAPE_1200/human%20chain.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-iranians-form-human-chains-on-bridges-near-power-plants-as-trump-threatens-to-unleash-hell/article70835695.ece",
-    "time": "2026-04-07T17:17:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "why mediation still matters in a world at war",
-    "desc": "With the war in West Asia in its second month, discussions on mediation have gained prominence. History is replete with instances of mediation, with individuals and states helping conflicting parties reach agreement, alongside the development of international conventions for dispute resolution",
-    "img": "https://th-i.thgim.com/public/incoming/8s363h/article70835661.ece/alternates/LANDSCAPE_1200/AFP_A4WH7ZQ.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/talking-peace-why-mediation-still-matters-in-a-world-at-war/article70835644.ece",
-    "time": "2026-04-07T17:03:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "‘New’ Bangladesh-India ties will avoid ‘mistakes of the past’: Foreign Affairs Adviser Humayun Kobir",
-    "desc": "The Foreign Affairs Adviser to Bangladesh Prime Minister Tarique Rahman says the two sides should do more frequent exchanges at the level of political parties and officials to deal with ‘difficult issues’ so that misunderstandings are avoided.",
-    "img": "https://th-i.thgim.com/public/news/national/bt7z6p/article70831752.ece/alternates/LANDSCAPE_1200/BD.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/new-bangladesh-india-ties-will-avoid-mistakes-of-the-past-foreign-affairs-adviser-humayun-kobir/article70831316.ece",
-    "time": "2026-04-07T16:17:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Why is Ukraine attacking Russian refineries amid a global oil crisis?",
-    "desc": "Ever since the U.S. temporarily waived off sanctions on Russian oil in March in the wake of a global oil crisis following its attack on Iran, Ukraine has been wary of the gains its adversary would make",
-    "img": "https://th-i.thgim.com/public/incoming/obtjuy/article70834309.ece/alternates/LANDSCAPE_1200/2026-03-29T083603Z_1425998076_RC2YDKA8EQZJ_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-OIL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/why-is-ukraine-attacking-russian-refineries-amid-a-global-oil-crisis/article70834300.ece",
-    "time": "2026-04-07T12:51:21.000Z"
   },
   {
     "cat": "Tech",

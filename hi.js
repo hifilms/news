@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer slams David Miller after brain-fade moment against Gujarat Titans",
+    "desc": "Delhi Capitals were left begging as Gujarat Titans registered a thrilling victory against them in game 14 of the ongoing IPL (Indian Premier League) 2026. The two sides met at the Arun Jaitley Stadium in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-slams-david-miller-after-brain-fade-moment-against-gujarat-titans-2026-04-09-1036887",
+    "time": "2026-04-09T07:09:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Babar Azam loses cool after comparison with Virat Kohli, slams reporter for questioning his ability: Watch",
+    "desc": "Peshawar Zalmi won the 15th match of the Pakistan Super League (PSL) as they chased down 146 runs in the last-over thriller. Their skipper, Babar Azam, was the top-scorer for the team, with 43 runs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-loses-cool-after-questioning-his-inability-to-finish-matches-like-virat-kohli-watch-2026-04-09-1036885",
+    "time": "2026-04-09T06:57:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill fined hefty sum for maintaining a slow over-rate against Delhi Capitals",
+    "desc": "In a major development, Gujarat Titans skipper Shubman Gill has been fined by the IPL (Indian Premier League) for maintaining a slow over-rate against Delhi Capitals. It is worth noting that Gill has been fined...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-fined-hefty-sum-for-maintaining-a-slow-over-rate-against-delhi-capitals-2026-04-09-1036877",
+    "time": "2026-04-09T05:49:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 Player battles to watch out for in IPL 2026 Match 15",
     "desc": "The stage is set for game 15 of the ongoing IPL (Indian Premier League) 2026. Kolkata Knight Riders will be hosting Lucknow Super Giants at the Eden Gardens in Kolkata on April 9. It is...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sourav-ganguly-backs-mohammed-shami-for-india-return-wants-him-to-bowl-at-other-end-of-bumrah-2026-04-08-1036823",
     "time": "2026-04-08T17:46:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch UCL clash live on TV and stream online in India?",
-    "desc": "The Champions League spotlight returns to the Spotify Camp Nou as Hansi Flick’s rejuvenated Barcelona hosts Atletico Madrid in an all-Spanish quarter-final first leg. Notably, Barca enter the tie as one of the most feared...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/barcelona-vs-atletico-madrid-when-and-where-to-watch-ucl-clash-live-on-tv-and-stream-online-in-india-2026-04-08-1036819",
-    "time": "2026-04-08T17:31:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKR share new update on Varun Chakaravarthy, reveal what happened with Sunil Narine against PBKS",
-    "desc": "Kolkata Knight Riders were without their experienced spin duo of Sunil Narine and Varun Chakaravarthy during their clash against Punjab Kings. At the toss, captain Ajinkya Rahane clarified that Narine had been sidelined due to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-share-new-update-on-varun-chakaravarthy-reveal-what-happened-with-sunil-narine-against-pbks-2026-04-08-1036814",
-    "time": "2026-04-08T16:13:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI makes addition to match playing conditions for IPL, restricts movements of benched players",
-    "desc": "The Board of Control for Cricket in India (BCCI) has made an addition to the match-playing conditions in the Indian Premier League. As per the new rule, which has been circulated to the franchise managers,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-makes-addition-to-match-playing-conditions-for-ipl-restricts-movements-of-benched-players-2026-04-08-1036811",
-    "time": "2026-04-08T15:46:22.000Z"
   }
 ];
