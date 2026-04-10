@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sooryavanshi, Jurel dominate RCB bowlers, Rajasthan Royals pick comfortable win in Guwahati",
+    "desc": "After two back-to-back wins, Royal Challengers Bengaluru were considered one of the favourites to win the tournament. However, Rajasthan Royals handed them a reality check, as Vaibhav Sooryavanshi and Dhruv Jurel played some phenomenal cricket...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sooryavanshi-jurel-dominate-rcb-bowlers-rajasthan-royals-pick-comfortable-win-in-guwahati-2026-04-11-1037110",
+    "time": "2026-04-10T18:34:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at MYS Int'l Cricket Stadium in Mullanpur play for IPL 2026?",
+    "desc": "Punjab Kings will host Sunrisers Hyderabad in their upcoming clash at Maharaja Yadavindra Singh International Cricket Stadium in Mullanpur on April 11. With two wins in three matches, the Shreyas Iyer-led side will be confident...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-srh-pitch-report-how-will-surface-at-mys-int-l-cricket-stadium-in-mullanpur-play-for-ipl-2026-2026-04-10-1037108",
+    "time": "2026-04-10T18:18:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi unleashes mayhem against RCB, leaves netizens mesmerised: Check reactions",
+    "desc": "Vaibhav Sooryavanshi wreaked havoc against Royal Challengers Bengaluru in Guwahati. He unleashed mayhem in the middle, registering 78 runs off just 26 balls. The 15-year-old completed his half-century in just 15 balls and after the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-unleashes-mayhem-against-rcb-leaves-netizens-mesmerised-check-reactions-2026-04-10-1037107",
+    "time": "2026-04-10T18:09:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Phil Salt becomes first ever cricketer in IPL to register unwanted record with golden duck against RR",
+    "desc": "Phil Salt’s rough patch with the bat continued in the marquee clash against Rajasthan Royals at the Barsapara Cricket Stadium in Guwahati. In the very first ball of the match, Jofra Archer got the better...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-becomes-first-ever-cricketer-in-ipl-to-register-unwanted-record-with-golden-duck-against-rr-2026-04-10-1037099",
+    "time": "2026-04-10T16:05:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Jacob Duffy not playing for RCB vs RR in IPL 2026 clash at Barsapara Cricket Stadium in Guwahati?",
     "desc": "Royal Challengers Bengaluru have dropped Jacob Duffy for the marquee clash against Rajasthan Royals at the Barsapara Cricket Stadium in Guwahati. Captain Rajat Patidar informed that Josh Hazlewood would replace him in the playing XI....",
     "img": "",
@@ -43,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/when-will-ms-dhoni-dewald-brevis-return-to-playing-xi-for-chennai-super-kings-in-ipl-2026-2026-04-10-1037069",
     "time": "2026-04-10T11:48:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How have Yashasvi Jaiswal and Vaibhav Sooryavanshi performed against RCB in IPL history?",
-    "desc": "Rajasthan Royals and Royal Challengers Bengaluru will face each other today at the Barsapara Cricket Stadium in Guwahati in the 15th match of the ongoing Indian Premier League (IPL) season. Both teams are unbeaten so...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-have-yashasvi-jaiswal-and-vaibhav-sooryavanshi-performed-against-rcb-in-ipl-history-2026-04-10-1037064",
-    "time": "2026-04-10T11:17:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKR surpass Mumbai Indians to set unwanted record after defeat to LSG in IPL 2026",
-    "desc": "Just when the game seemed to be under control, Kolkata Knight Riders lost their grip, resulting in an incredible win for Lucknow Super Giants at Eden Gardens in IPL 2026. Chasing 182 runs, the visitors...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kkr-surpass-mumbai-indians-to-set-unwanted-record-after-defeat-to-lsg-in-ipl-2026-2026-04-10-1037060",
-    "time": "2026-04-10T10:55:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Remineded me of MS Dhoni': Faf du Plessis reacts to Mukul Choudhary's blitzkreig vs KKR in IPL 2026",
-    "desc": "Lucknow Super Giants registered a thrilling three-wicket win over Kolkata Knight Riders in the 15th match of IPL 2026 on Thursday at the Eden Gardens in Kolkata. They chased down 182 runs after struggling at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/remineded-me-of-ms-dhoni-faf-du-plessis-reacts-to-mukul-choudhary-s-blitzkreig-vs-kkr-in-ipl-2026-2026-04-10-1037054",
-    "time": "2026-04-10T10:30:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Australia pacer play today for RCB vs RR in IPL 2026 clash at Guwahati?",
-    "desc": "Royal Challengers Bengaluru and Rajasthan Royals are two of the three unbeaten teams so far in the ongoing edition of the Indian Premier League (IPL). The two teams are scheduled to lock horns today at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/josh-hazlewood-injury-update-will-australia-pacer-play-today-for-rcb-vs-rr-in-ipl-2026-clash-at-guwahati-2026-04-10-1037045",
-    "time": "2026-04-10T08:51:24.000Z"
   }
 ];

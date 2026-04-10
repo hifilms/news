@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "Anirban comeback with Dev-Subhashree: অনির্বাণকে পর্দায় ফেরানোর দায় নিজের কাঁধেই নিলেন দেব, প্রতীক্ষিত 'দেশু ৭'-এর পরিচালকের আসনে তিনিই",
+    "desc": "টলিউডে নতুন ধামাকা! অভিনয়ের পাশাপাশি এবার মেগাস্টার দেবের মুকুটে যুক্ত হল নতুন পালক। প্রযোজক দেব তো আগেই সফল, এবার তিনি অবতীর্ণ হলেন পরিচালকের ভূমিকায়। শুধু পরিচালক হিসেবে আত্মপ্রকাশই নয়, একঝাঁক চমক নিয়ে নিজের প্রথম ছবির ঘোষণা করে দিলেন তিনি। দেবের ছবিতেই কামব্যাক হতে চলেছে অনির্বাণের।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/dev-debuts-as-director-starring-subhashree-and-anirban-bhattacharya-comeback_648263.html ",
+    "time": "2026-04-10T15:56:53.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "দিল্লির বড় খবর: সংসদে ইমপিচমেন্ট প্রক্রিয়া শুরু হতে পারে, বেইজ্জত হওয়ার ভয়ে আগেই ইস্তফা বিরাট প্রভাবশালীর",
     "desc": "আইন বিশেষজ্ঞদের একাংশের মতে, ভারতের বর্তমান আইন অনুযায়ী, কোনও বিচারপতির বিরুদ্ধে ইমপিচমেন্ট প্রক্রিয়া সম্পন্ন হওয়ার আগে যদি তিনি পদত্যাগ করেন এবং সেই পদত্যাগপত্র গৃহীত হয়, তবে তিনি 'অবসরপ্রাপ্ত' হিসেবেই গণ্য হন। সুপ্রিম কোর্টের এক আইনজীবীর বক্তব্য অনুযায়ী, দেশের একাধিক হাইকোর্ট এবং শীর্ষ আদালত পূর্ববর্তী বিভিন্ন রায়ে এই অবস্থানকে স্বীকৃতি দিয়েছে যে পদত্যাগকে এক প্রকার 'অবসর' হিসেবেই দেখা হবে।",
@@ -207,21 +216,12 @@ const newsData_bn = [
     "time": "2026-04-07T06:05:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "কোথাও নেই লাঞ্চ ব্রেক তো কোথাও ডবল ইউনিট: কর্মবিরতির আগে স্টুডিয়ো পাড়ায় ২৮ ঘণ্টার ম্যারাথন শ্যুট",
-    "desc": "আগামীকাল থেকে কি বন্ধ হয়ে যাবে মেগা সিরিয়াল? অভিনেতা রাহুলের মৃত্যুর প্রতিবাদে মঙ্গলবার থেকে অনির্দিষ্টকালের কর্মবিরতির ডাক দিয়েছে আর্টিস্ট ফোরাম ও ফেডারেশন। তার আগেই আজ টলিপাড়ায় চলছে ২৮ ঘণ্টার ম্যারাথন শুটিং! ডবল শিফট, নেই লাঞ্চ ব্রেক— লক্ষ্য একটাই, এপিসোড জমিয়ে রাখা। কিন্তু 'ব্যাঙ্কিং' ফুরোলে কী হবে?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-shooting-strike-shatdown-mega-serial-banking-crisis-demanding-safety-after-rahul-banerjee-death_647709.html ",
-    "time": "2026-04-06T15:17:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "জলে ডুবেছিলেন দুজনেই, চোখের সামনে রাহুলকে হারিয়ে মানসিকভাবে বিধ্বস্ত শ্বেতা: এবার তদন্তের বিচার চেয়ে মুখ খুললেন অভিনেত্রী",
-    "desc": "রাহুলের সঙ্গে জলে তলিয়ে গিয়েছিলেন তিনিও। কিন্তু আজ সহকর্মীকে হারিয়ে মানসিকভাবে বিপর্যস্ত অভিনেত্রী শ্বেতা মিশ্র। চিকিৎসকের পরামর্শে চলছে ওষুধ, কেড়ে নেওয়া হয়েছে ফোন। তবে সুস্থ হলেই কি সবটা খোলসা করবেন শ্বেতা? প্রযোজনা সংস্থার বিরুদ্ধে রাহুলের বিচার চেয়ে কী বার্তা দিলেন তিনি?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/bhole-baba-paar-karega-actress-sweta-mishra-health-update-rahul-arunoday-death-trauma_647694.html ",
-    "time": "2026-04-06T14:18:00.000Z"
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];
