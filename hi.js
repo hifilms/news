@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 Player battles to watch out for in IPL 2026 Match 16",
+    "desc": "The stage is set for game 16 of the ongoing IPL (Indian Premier League) 2026. Rajasthan Royals will be hosting Royal Challengers Bengaluru at the Barsapara Stadium in Guwahati on April 10. It is safe...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-rcb-3-player-battles-to-watch-out-for-in-ipl-2026-match-16-2026-04-10-1037011",
+    "time": "2026-04-10T04:33:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Fantastic effort': Rishabh Pant heaps praise on Mukul Choudhary after swashbuckling knock against KKR",
+    "desc": "Lucknow Super Giants registered another brilliant victory in the ongoing IPL (Indian Premier League) 2026. Taking on Kolkata Knight Riders in the 15th game of the tournament, Lucknow emerged victorious at the Eden Gardens in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/fantastic-effort-rishabh-pant-heaps-praise-on-mukul-choudhary-after-swashbuckling-knock-against-kkr-2026-04-10-1036998",
+    "time": "2026-04-10T03:22:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Andy Robertson to leave Liverpool at the end of 2025-26 season after nine years",
+    "desc": "Scotland captain and Liverpool full-back Andy Robertson is all set to leave Liverpool at the end of the 2025-26 season. Liverpool announced the development on April 9, and Robertson's leaving the club could prove to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/andy-robertson-to-leave-liverpool-at-the-end-of-2025-26-season-after-nine-years-2026-04-10-1036991",
+    "time": "2026-04-10T02:15:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "George Linde set to replace Wanindu Hasaranga in Lucknow Super Giants' squad, Tom Moody shares details",
     "desc": "In a major blow for Lucknow Super Giants, the side’s star spinner Wanindu Hasaranga has been ruled out for the entirety of the ongoing IPL (Indian Premier League) 2026 season, and the franchise is looking...",
     "img": "",
@@ -61,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-varun-chakaravarthy-not-playing-for-kkr-vs-lsg-at-eden-gardens-in-ipl-2026-2026-04-09-1036954",
     "time": "2026-04-09T13:50:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Blessing Muzarabani not playing for KKR vs LSG at Eden Gardens in IPL 2026?",
-    "desc": "Kolkata Knight Riders have dropped Blessing Muzarabani from their clash against Lucknow Super Giants at the Eden Gardens. The Zimbabwe international clinched a four-wicket haul in the match against Sunrisers Hyderabad and was expected to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-blessing-muzarabani-not-playing-for-kkr-vs-lsg-at-eden-gardens-in-ipl-2026-2026-04-09-1036952",
-    "time": "2026-04-09T13:42:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CD Gopinath, member of India's first-ever Test-winning team, dies at 96",
-    "desc": "CD Gopinath, the member of Team India's historic first-ever Test win in 1952, died today at the age of 96. He passed away peacefully in his sleep at his daughter's house in Adyar. Notably, he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cd-gopinath-member-of-india-s-first-ever-test-winning-team-dies-at-96-2026-04-09-1036943",
-    "time": "2026-04-09T12:46:21.000Z"
   }
 ];
