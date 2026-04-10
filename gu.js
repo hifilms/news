@@ -1,5 +1,86 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "મહારાષ્ટ્રમાં છે સૌથી વધારે PNG કનેક્શન, તમિલનાડુ અને કેરળ ટોપ 10માં પણ નથી, જાણો ગુજરાતનો નંબર",
+    "desc": "ઈરાન યુદ્ધ પછી, ક્રૂડ ઓઈલનો પુરવઠો ખોરવાઈ ગયો છે, જેના કારણે ખાસ કરીને યુનાઇટેડ સ્ટેટ્સમાં LPGની નોંધપાત્ર અછત સર્જાઈ છે. સરકારે લોકોને PNG તરફ જવા વિનંતી કરી છે. ભારત દેશના કયા રાજ્યોમાં સૌથી વધુ PNG કનેક્શન છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/maharashtra-and-gujarat-have-more-than-half-of-the-country-png-connections-while-tamil-nadu-and-kerala-are-not-in-the-top-10-know-472357 ",
+    "time": "2026-04-10T10:00:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનું હજું પણ હાઈથી 28,000 અને ચાંદી 1.79 લાખ સસ્તા, અમદાવાદમાં શું છે લેટેસ્ટ રેટ? જાણો કેરેટ પ્રમાણે સોનાનો ભાવ",
+    "desc": "સોના અને ચાંદીના ભાવમાં આજે રિટેલ બજારમાં ઉછાળો જોવા મળ્યો છે. જો કે વાયદા બજારમાં હજુ પણ ભાવ ગગડેલા છે. જો કે ઓલટાઈમ હાઈથી સોનું અને ચાંદી હજુ પણ ઘણા સસ્તા છે. કેરેટ પ્રમાણે સોનાનો ભાવ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-price-today-ibja-mcx-what-is-the-latest-rate-in-ahmedabad-check-the-latest-rate-of-gold-by-carat-472356 ",
+    "time": "2026-04-10T09:52:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Thank You India હવે રૂપિયા ન મોકલતા... ઈરાને બંધ કર્યા બેન્ક એકાઉન્ટ, ભારત માટે લખી ભાવુક પોસ્ટ",
+    "desc": "ભારતના લોકોએ ઈરાનના નામ પર કરોડો રૂપિયાનું દાન આપ્યું છે. આ બાબતે ઈરાની દૂતાવાસે બધા દેશવાસીઓનો આભાર માન્યો છે, સાથે જ કહ્યું કે, હવે એ તમામ બેન્ક એકાઉન્ટ બંધ કરી દેવામાં આવ્યા છે, જેમાં રૂપિયા મોકલવા માટે અપીલ કરવામાં આવી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/thank-you-india-do-not-send-money-anymore-iranian-embassy-closes-bank-accounts-writes-emotional-post-for-india-472343 ",
+    "time": "2026-04-10T09:32:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સરકારી કર્મચારીઓ માટે મોટા ખુશખબર, પગાર પંચ પર PM મોદીની મોટી જાહેરાત",
+    "desc": "પશ્ચિમ બંગાળમાં હાલ વિધાનસભા ચૂંટણીઓ નજીક છે અને પ્રચાર જોરશોરથી થઈ રહ્યો છે ત્યારે પીએમ મોદીએ એક એવી ગેરંટી આપી છે કે રાજ્યના સરકારી કર્મચારીઓ આનંદીત થઈ રહ્યા છે. જો બંગાળમાં ભાજપની સરકાર બનશે તો સાતમું પગાર પંચ લાગૂ કરાશે એવી ગેરંટી અપાઈ છે. જાણો હાલ રાજ્યમાં કયું પગાર પંચ ચાલે છે અને રાજ્યો અને કેન્દ્રોનું પગાર પંચનું શું ગણિત છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/west-bengal-assembly-election-and-what-is-in-bjp-sankalp-patra-about-pay-commission-472340 ",
+    "time": "2026-04-10T09:06:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "6 સિક્સર ખાઈને બ્રોડે ગુસ્સામાં કરી હતી આ હરકત, વર્ષો બાદ યુવરાજ સિંહનો મોટો ખુલાસો",
+    "desc": "2007ના T20 વર્લ્ડ કપમાં પોતાની ઐતિહાસિક 6 સિક્સરની ઇનિંગ્સથી હેડલાઇન્સમાં આવેલા યુવરાજ સિંહે વર્ષો પછી તે ઘટનાનો ભાવનાત્મક પાસું શેર કર્યું છે. તેમણે ખુલાસો કર્યો કે સ્ટુઅર્ટ બ્રોડે ગુસ્સાથી તેમની સહી કરેલી જર્સી કચરાપેટીમાં ફેંકી દીધી હતી, પરંતુ યુવરાજે તેને \"સંપૂર્ણપણે સ્વીકાર્ય\" ગણાવ્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/when-stuart-broad-threw-yuvraj-singh-signed-jersey-in-anger-after-2007-472338 ",
+    "time": "2026-04-10T08:59:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ખરાબ હાલતમાં હતો આ શેર, 21 રૂપિયા પર પહોંચી ગયો ભાવ, હવે 85%થી વધુની તોફાની તેજી",
+    "desc": "2 માર્ચ, 2026 ના રોજ કંપનીના શેર 21.21 રૂપિયાની નીચી સપાટીએ પહોંચી ગયા હતા. આ નીચા ભાવથી, શેર 85 ટકાથી વધુ વધી ગયા છે. શેર માર્કેટમાં છેલ્લા કેટલાક સમયથી વધારો ઘટાડો થઈ રહ્યો છે ગઈકાલે એટલે કે 09 એપ્રિલના રોજ માર્કેટમાં મોટો કડાકો થયો હતો, જ્યારે આજે એટલે કે 10 એપ્રિલના રોજ માર્કેટમાં વધારો જોવા મળી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/this-stock-was-in-bad-condition-the-price-reached-rs-21-now-it-has-surged-by-more-than-85-percent-472337 ",
+    "time": "2026-04-10T08:52:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ધુરંધર 2 ઓટીટી રિલીઝ માટે રેડી, જાણો ક્યારે જોવા મળશે હોટસ્ટાર પર",
+    "desc": "બોક્સ ઓફિસ પર શાનદાર કમાણી કરનાર આદિત્ય ધરની ફિલ્મ ધુરંધર 2 ઓટીટી પર આવે તેની રાહ તમે પણ જોઈ રહ્યા છો તો તમારે વધારે દિવસ રાહ જોવાની જરૂર નથી. કારણ કે ધુરંધર 2 ઓટીટી રિલીઝ માટે રેડી છે અને ફિલ્મની સંભવિત ઓટીટી રિલીઝ ડેટ પણ સામે આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-on-jio-hotstar-dhurandhar-2-ott-release-date-may-end-of-june-2026-first-week-472319 ",
+    "time": "2026-04-10T07:51:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "હોર્મુઝમાંથી પસાર થવું મુશ્કેલ! શું વધશે ભાવ? અમદાવાદ-સુરત સહિત શહેરોમાં શું છે LPG સિલિન્ડરનો રેટ, જાણો",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચેના યુદ્ધમાં માત્ર ઈઝરાયેલ અને આ દેશો જ નહીં પરંતુ એવા દેશો પણ ભીંસાઈ રહ્યા છે તેને આ યુદ્ધ સાથે સીધી રીતે જોડાયેલા નથી. કારણ કે ઈરાને હોર્મુઝ સ્ટ્રેટ પર સંપૂર્ણ નિયંત્રણ કરી લેતા અવરજવર ખોરવાઈ છે. ગેસ અને ક્રૂડઓઈલને ખાડી દેશોમાંથી અન્ય દેશોમાં પહોંચાડવા માટે આ જળમાર્ગ ખુબ મહત્વનો છે. ત્યારે હવે આ સ્થિતિ ક્યાં જઈને અટકશે તેના પર ચિંતાના વમળો જોવા મળી રહ્યા છે. આજે ગુજરાતમાં એલપીજી સિલિન્ડરનો શું ભાવ છે તે પણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lpg-cylinder-price-today-check-you-city-rates-ahmedabad-surat-rajkot-strait-of-hormuz-latest-update-472316 ",
+    "time": "2026-04-10T07:47:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "13 એપ્રિલે ડ્રાફ્ટિંગ કમિટીની બેઠકમાં લેવાશે મહત્વના નિર્ણય, જાણો પગારમાં કેટલો થઈ શકે છે વધારો?",
+    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો માટે સોમવાર 13 એપ્રિલનો દિવસ ખૂબ જ મહત્વપૂર્ણ સાબિત થઈ શકે છે. કારણ કે, નેશનલ કાઉન્સિલ ઓફ જોઈન્ટ કન્સલ્ટેટિવ ​​મશીનરી (NC-JCM)ની ડ્રાફ્ટિંગ કમિટીની એક મહત્વપૂર્ણ બેઠક 13 એપ્રિલના રોજ યોજાવાની છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-important-decisions-will-be-taken-in-the-drafting-committee-meeting-on-april-13-know-how-much-salary-can-be-increased-472314 ",
+    "time": "2026-04-10T07:23:33.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "આ વીકેન્ડ ઓટીટી લવર્સ માટે ખાસ, થ્રિલર ફિલ્મ તુ યા મેં થી લઈ કોમેડી ક્રાઈમ સીરીઝ બિગ મિસ્ટેક ઓટીટી પર રિલીઝ",
     "desc": "શુક્રવાર આવી ગયો અને સાથે જ ઓટીટી પર સ્ટ્રીમ થયેલી નવી ફિલ્મો અને વેબ સીરીઝનું લિસ્ટ પણ આવી ગયું છે. આ વીકેન્ડમાં નેટફ્લિક્સ, હોટસ્ટાર, એમેઝોનના ફિલ્મ અને વેબ સીરીઝના ખજાનામાં શું નવું ઉમેરાયું છે ફટાફટ ચેક કરી લો.",
@@ -522,15 +603,6 @@ const newsData_gu = [
     "time": "2026-04-07T16:10:37.000Z"
   },
   {
-    "cat": "Business",
-    "title": "શું PPF પર મળશે વધુ રિટર્ન? પ્રથમ ત્રિમાસિક ગાળામાં જમા રૂપિયા પર મળશે આટલું વ્યાજ",
-    "desc": "જો તમે PPFમાં રોકાણ કરો છો, તો આ સમાચાર તમારા કામના છે. જી હા... કારણ કે આજે અમે અહીં સરકાર દ્વારા PPFના વ્યાજ દરોમાં કરવામાં આવેલા ફેરફાર વિશે જણાવવા જઈ રહ્યા છીએ. ચાલો એપ્રિલ–જૂન 2026ના ત્રિમાસિક ગાળા માટે PPF વ્યાજ દરો વિશે વિગતવાર જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-you-get-more-returns-on-ppf-this-much-interest-will-be-earned-on-the-money-deposited-in-the-first-quarter-471937 ",
-    "time": "2026-04-07T15:49:11.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "એપ્રિલમાં મારુતિની આ કાર પર બમ્પર ડિસ્કાઉન્ટ ! એક મોડેલ પર તો રૂપિયા 2 લાખ સુધીનો ફાયદો",
     "desc": "જો તમે નવી કાર ખરીદવાનું વિચારી રહ્યા છો, તો એપ્રિલ તમારા માટે સુવર્ણ તક સાબિત થઈ શકે છે. મારુતિ સુઝુકી નેક્સા તેની કાર પર નોંધપાત્ર ડિસ્કાઉન્ટ ઓફર કરી રહી છે, જેનાથી તમે ₹2 લાખ સુધીની બચત કરી શકો છો. આ ડીલ એટલી આકર્ષક છે કે નવી કાર ખરીદતા પહેલા એકવાર ચોક્કસ તપાસવી જોઈએ.",
@@ -567,24 +639,6 @@ const newsData_gu = [
     "time": "2026-04-07T12:51:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "FASTag નહીં હોય તો થશે મોટું નુકસાન, હવે ટોલ ટેક્સ પર નહીં ચાલે કેશ; આ તારીખથી બદલાઈ રહ્યો છે નિયમ",
-    "desc": "NHAIના એક વરિષ્ઠ અધિકારીએ જણાવ્યું કે, આ પગલાનો મુખ્ય ઉદ્દેશ્ય ટોલ ગેટ પર લાગતી લાંબી લાઈનોને ખતમ કરવાનો છે. FASTag જ ટોલ વસૂલાતનું મુખ્ય માધ્યમ બની રહેશે. જો કોઈ ચાલક FASTagનો ઉપયોગ નથી કરતો અથવા UPI દ્વારા ચૂકવણીનો વિકલ્પ પણ પસંદ નથી કરતો, તો તેની સામે કડક કાર્યવાહી કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/if-there-is-no-fastag-there-will-be-a-big-loss-now-cash-will-not-be-accepted-for-toll-tax-the-rule-is-changing-from-this-date-471912 ",
-    "time": "2026-04-07T12:47:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોનું 85,000થી પણ થશે વધુ સસ્તું? અમેરિકા-ઈરાન યુદ્ધ છતાં ન વધી કિંમતો, શું ભાવ હજુ પણ ઘટશે?",
-    "desc": "અમેરિકા-ઈરાન યુદ્ધ પછી પણ સોના-ચાંદીના ભાવ વધવાને બદલે સતત ઘટી રહ્યા છે. આખરે કેમ આ વખતે સોના-ચાંદીમાં ઉલટો ટ્રેન્ડ જોવા મળ્યો છે? રોકાણકારોના મનમાં એ જ પ્રશ્ન છે કે, ચાંદી ક્યારે 4 લાખ અને સોનું 1.90 લાખ રૂપિયાને પાર જશે? અથવા સોનું 85,000 રૂપિયા અને ચાંદી 1 લાખ રૂપિયાના સ્તરે આવી જશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-gold-become-cheaper-than-85000-prices-have-not-increased-despite-the-us-iran-war-will-the-price-still-fall-471902 ",
-    "time": "2026-04-07T11:24:48.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "₹5.65 ની આ કારને મળ્યા સ્વિફ્ટ, બલેનો, બ્રેઝાથી વધુ ગ્રાહક, વેચાણમાં બની-1; 33 km છે માઇલેજ",
     "desc": "ભારતીય ગ્રાહકો વચ્ચે મારૂતિ સુઝુકી (Maruti Suzuki) ની કારને ખુબ પસંદ કરવામાં આવે છે. મહત્વનું છે કે મારૂતિ સુઝુકીએ પાછલા મહિને એટલે કે માર્ચ, 2026મા થયેલા પોતાના મોડલ વાઇઝ કાર વેચાણના ડેટાને રિલીઝ કરી દીધો છે.",
@@ -603,15 +657,6 @@ const newsData_gu = [
     "time": "2026-04-07T09:13:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "અસમમાં BJP, બંગાળમાં કાંટાની ટક્કર, તમિલનાડુ-કેરળમાં કોણ આગળ? જુઓ લેટેસ્ટ ઓપિનિયન પોલનું ચોંકાવનારૂ અનુમાન",
-    "desc": "દેશના ચાર રાજ્યો અને એક કેન્દ્ર શાસિત પ્રદેશમાં વિધાનસભાની ચૂંટણી યોજાઈ રહી છે. જેમ-જેમ મતદાન નજીક આવી રહ્યું તેમ-તેમ રાજકીય માહોલ ગરમાઈ રહ્યો છે. બીજીતરફ સામે આવી રહેલા ઓપિનિયન પોલના આંકડા પણ ચોંકાવી રહ્યાં છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/tamil-nadu-west-bengal-kerala-assam-assembly-elections-2026-latest-opinion-poll-which-party-will-form-government-471847 ",
-    "time": "2026-04-07T07:16:59.000Z"
-  },
-  {
     "cat": "World",
     "title": "કઈંક મોટું થવાના એંધાણ! ટ્મ્પની ધમકીઓ બાદ આકાશમાં જોવા મળ્યું ડૂમ્સડે પ્લેન, શું કયામતની રાત ઢૂંકડી છે?",
     "desc": "ઈરાન અને અમેરિકા વચ્ચે ચાલી રહેલું યુદ્ધ ભીષણ થશે કે પછી યુદ્ધવિરામ અમલમાં આવશે? ટ્રમ્પની ધમકીઓ અને ઈરાનની વળતી ધમકીઓ કઈક અલગ જ મિજાજ દર્શાવે છે. પરંતુ આ બધા વચ્ચે અમેરિકાનું ડૂમ્સડે પ્લેન જોવા મળતા ખળભળાટ મચી ગયો છે. જાણો આ ડૂમ્સડે પ્લેન શું છે અને તે ક્યારે જોવા મળે છે?",
@@ -619,15 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/explainer-why-people-fear-about-doomsday-plane-that-spotted-near-us-nuclear-war-command-center-471834 ",
     "time": "2026-04-07T06:23:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "23 સિક્સ અને 11 ચોગ્ગા... T20 મેચમાં 258 રનની ભાગીદારી, આ ખેલાડીઓએ રચ્યો ઈતિહાસ",
-    "desc": "આઈપીએલના ઈતિહાસમાં સૌથી મોટી ભાગીદારી વિશે વાત કરીએ તો વિરાટ કોહલી અને એબી ડિવિલિયર્સનો રેકોર્ડ જોવા મળે છે. વર્ષ 2016મા બંને વચ્ચે 229 રનની ભાગીદારી જોવા મળી હતી. પરંતુ ટી20મા એક રેકોર્ડ એવો છે, જેની સામે આ બંનેની ભાગીદારી ફિક્કી લાગશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/two-japan-better-record-partnership-in-t20-cricket-258-runs-scored-in-20-overs-471824 ",
-    "time": "2026-04-07T04:54:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -646,15 +682,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/what-is-combat-survivor-evader-locator-device-us-pilot-iran-471791 ",
     "time": "2026-04-06T14:01:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "જો તમારે ગેસ સિલિન્ડર જોઈએ છે તો હવે કરવું પડશે આ કામ ! સરકારે નિયમોમાં કર્યા ફેરફાર",
-    "desc": "દિલ્હીમાં કોમર્શિયલ ગેસ સિલિન્ડર નિયમોમાં ફેરફાર કરવામાં આવ્યો છે. હવે PNG કનેક્શનની અરજી કર્યા વિના સિલિન્ડર આપવામાં આવશે નહીં. સરકારનો નવો આદેશ શું છે અને તેનાથી તમને શું અસર થશે તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/png-connection-mandatory-delhi-government-change-commercial-lpg-rules-471745 ",
-    "time": "2026-04-06T10:23:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -817,23 +844,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/the-truth-about-the-bade-saheb-of-dhurandhar-2-is-the-biggest-face-of-the-underworld-really-taking-his-last-breath-the-fact-has-come-to-light-471062 ",
     "time": "2026-04-01T09:09:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રિયા કપૂરે શેર કરી દીધી સોનમ કપૂરના નાના દીકરાની તસવીર, સોશિયલ મીડિયા પર ફોટો વાયરલ",
-    "desc": "સોનમ કપૂર અને આનંદ આહુજા બીજા દીકરાના માતા-પિતા બન્યા છે. સોનમ કપૂરના દીકરાની પહેલી તસવીર તેની માસી એટલે કે રિયા કપૂરે ઈંસ્ટાગ્રામ પર શેર કરી છે. આ ફોટો સોશિયલ મીડિયા પર વાયરલ થવા લાગ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/rhea-kapoor-instagram-post-viral-sonam-kapoor-new-born-son-photo-471036 ",
-    "time": "2026-04-01T05:54:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "શોલેના આ એક્ટરને તેના કામ માટે પૈસા નહીં, આપવામાં આવ્યું હતું ફ્રિજ, આજે પણ પોતાની પાસે રાખે છે આ લક્ઝરી વસ્તુ",
-    "desc": "કલ્ટ ક્લાસિક ફિલ્મ શોલેના બધા જ પાત્રો હિટ રહ્યા હતા. પરંતુ આ એક અભિનેતાને ફિલ્મમાં કામ કરવા માટે મોટી રકમ નહીં, પણ રેફ્રિજરેટર માટે પૈસા મળ્યા હતા. આ તેમની ફી હતી. તે સમયે રેફ્રિજરેટરને ઊંચી કિંમત અને લક્ઝરી વસ્તુ માનવામાં આવતી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/this-actor-from-sholay-was-given-a-fridge-not-money-for-his-work-he-still-keeps-this-luxury-item-with-him-today-470947 ",
-    "time": "2026-03-31T11:13:48.000Z"
   }
 ];

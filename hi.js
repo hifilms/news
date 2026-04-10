@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will Australia pacer play today for RCB vs RR in IPL 2026 clash at Guwahati?",
+    "desc": "Royal Challengers Bengaluru and Rajasthan Royals are two of the three unbeaten teams so far in the ongoing edition of the Indian Premier League (IPL). The two teams are scheduled to lock horns today at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/josh-hazlewood-injury-update-will-australia-pacer-play-today-for-rcb-vs-rr-in-ipl-2026-clash-at-guwahati-2026-04-10-1037045",
+    "time": "2026-04-10T08:51:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface in Guwahati play for IPL 2026 play?",
+    "desc": "The stage is set for a cracking encounter in the ongoing IPL (Indian Premier League) 2026. Game 16 of the tournament sees table toppers Rajasthan Royals take on defending champions Royal Challengers Bengaluru. The two...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-rcb-pitch-report-how-will-surface-in-guwahati-play-for-ipl-2026-play-2026-04-10-1037044",
+    "time": "2026-04-10T08:42:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand calls up Ben Lister in white ball squad for Bangladesh tour, set to replace Kristian Clarke",
+    "desc": "NZC (New Zealand Cricket) has come forward and has called up left-arm pacer Ben Lister in their ODI and T20I squad for the upcoming Bangladesh tour. Lister will be replacing Kristian Clarke in the squad,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-calls-up-ben-lister-in-white-ball-squad-for-bangladesh-tour-set-to-replace-kristian-clarke-2026-04-10-1037037",
+    "time": "2026-04-10T07:34:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "LSG head coach Justin Langer reveals how did team decide to buy Mukul Choudhary in IPL 2026 auction",
     "desc": "Mukul Choudhary turned heads on Thursday when he played a whirlwind knock of 54 runs off 27 deliveries with seven sixes to help Lucknow Super Giants chase down 182 runs from a precarious position of...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/george-linde-set-to-replace-wanindu-hasaranga-in-lucknow-super-giants-squad-tom-moody-shares-details-2026-04-10-1036987",
     "time": "2026-04-10T01:23:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Mukul Choudhary? Know his salary and 3 franchises that bid for him in IPL 2026 auction",
-    "desc": "Mukul Choudhary stole the show for Lucknow Super Giants in the high-voltage clash against Kolkata Knight Riders at the Eden Gardens. The 21-year-old arrived at the crease when the Risbabh Pant-led side was reduced to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-mukul-choudhary-know-his-salary-and-3-franchises-that-bid-for-him-in-ipl-2026-auction-2026-04-09-1036980",
-    "time": "2026-04-09T18:21:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mukul Choudhary's miraculous knock stuns KKR at Eden Gardens, LSG win by three wickets",
-    "desc": "Lucknow Super Giants have pulled off a miraculous win over Kolkata Knight Riders in the IPL 2026 clash at Eden Gardens. The game was far out of their reach at one point, but Mukul Choudhary...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mukul-choudhary-s-miraculous-knock-stuns-kkr-at-eden-gardens-lsg-win-by-three-wickets-2026-04-09-1036976",
-    "time": "2026-04-09T17:49:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will Wanindu Hasaranga join LSG squad for IPL 2026? Tom Moody shares major update",
-    "desc": "Sri Lanka international Wanindu Hasaranga has been ruled out of the IPL 2026. Lucknow Super Giants’ Global Director of Cricket, Tom Moody, confirmed the development during the clash against Kolkata Knight Riders at the Eden...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-will-wanindu-hasaranga-join-lsg-squad-for-ipl-2026-tom-moody-shares-major-update-2026-04-09-1036972",
-    "time": "2026-04-09T17:10:44.000Z"
   }
 ];
