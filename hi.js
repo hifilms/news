@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "George Linde set to replace Wanindu Hasaranga in Lucknow Super Giants' squad, Tom Moody shares details",
+    "desc": "In a major blow for Lucknow Super Giants, the side’s star spinner Wanindu Hasaranga has been ruled out for the entirety of the ongoing IPL (Indian Premier League) 2026 season, and the franchise is looking...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/george-linde-set-to-replace-wanindu-hasaranga-in-lucknow-super-giants-squad-tom-moody-shares-details-2026-04-10-1036987",
+    "time": "2026-04-10T01:23:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Who is Mukul Choudhary? Know his salary and 3 franchises that bid for him in IPL 2026 auction",
     "desc": "Mukul Choudhary stole the show for Lucknow Super Giants in the high-voltage clash against Kolkata Knight Riders at the Eden Gardens. The 21-year-old arrived at the crease when the Risbabh Pant-led side was reduced to...",
     "img": "",
@@ -70,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/cd-gopinath-member-of-india-s-first-ever-test-winning-team-dies-at-96-2026-04-09-1036943",
     "time": "2026-04-09T12:46:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Prabhsimran Singh backs Impact Player rule, cites its importance for youngsters in IPL",
-    "desc": "Punjab Kings opener Prabhsimran Singh has come out in support of the Impact Player rule at a time when the regulation continues to divide opinion across the league. While several players, including Delhi Capitals captain...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/prabhsimran-singh-backs-impact-player-rule-cites-its-importance-for-youngsters-in-ipl-2026-04-09-1036941",
-    "time": "2026-04-09T12:24:53.000Z"
   }
 ];
