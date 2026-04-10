@@ -1,5 +1,221 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Welfare measures for the marginalised take centre stage in Bengal’s Jhargram",
+    "desc": "SCs/STs make up half the population of Jhargram, giving them a decisive say in the poll verdict; TMC, BJP clash over development plans, UCC implementation in a district emerging from the long shadow of Maoist extremism",
+    "img": "https://th-i.thgim.com/public/incoming/i0u6nx/article70848727.ece/alternates/LANDSCAPE_1200/BJP%20candidate%20from%20Gopiballavpur%20-%20Rajesh%20Mahato.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-across-party-lines-in-jhargram-poll-promises-seek-to-woo-adivasi-dalit-voters/article70846156.ece",
+    "time": "2026-04-10T21:29:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu voter deleted from electoral roll reminds Supreme Court of promise to protect in case of ‘mass exclusion’",
+    "desc": "The petitioner, C. Geetha, said her name had been a mainstay in the State’s electoral roll over the years; she was even intending to contest as an independent candidate in the 51-Uthangarai (SC) Assembly Constituency and 52-Bargur Assembly Constituency in the Tamil Nadu Assembly elections in 2026.",
+    "img": "https://th-i.thgim.com/public/incoming/xu8s3l/article70848763.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-voter-deleted-from-electoral-roll-reminds-supreme-court-of-promise-to-protect-in-case-of-mass-exclusion/article70847428.ece",
+    "time": "2026-04-10T21:14:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Legally married, currently separated, says actor-BJP pick on marital status",
+    "desc": "BJP MLA Hiraan Chattopadhyay's nomination affidavit reveals he is 'legally married; currently separated' from Anindita, who previously accused him of cruelty and a second marriage. Contesting from Shyampur, Hiraan declared significant assets, including Rs 15 lakh cash, while his wife has Rs 12 lakh. Their combined wealth stands at Rs 14.5 crore, with Hiraan facing four pending criminal cases.",
+    "img": "https://static.toiimg.com/photo/msid-130179976,imgsize-473852.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/legally-married-currently-separated-says-actor-bjp-pick-on-marital-status/articleshow/130179975.cms",
+    "time": "2026-04-10T21:06:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kargil hero Sonam Wangchuk dead; Rajnath hails ‘son of Ladakh’",
+    "desc": "Kargil war hero Colonel Sonam Wangchuk, a Maha Vir Chakra recipient, has passed away. Celebrated as a proud son of Ladakh, his gallantry during Operation Vijay exemplified resilience and service. Defence Minister Rajnath Singh and the Army lauded his courageous leadership, stating his legacy will inspire future generations. His life embodied courage, service, and unity.",
+    "img": "https://static.toiimg.com/photo/msid-130179941,imgsize-753311.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kargil-hero-sonam-wangchuk-dead-rajnath-hails-son-of-ladakh/articleshow/130179943.cms",
+    "time": "2026-04-10T20:56:45.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Federal court hears new case against Trump's latest global tariffs",
+    "desc": "The judges intensely questioned lawyers for both the plaintiffs and the government about what certain terms mean, including what precisely the term “balance-of-payments deficits” meant when it was used in the Trade Act of 1974 and what it means today",
+    "img": "https://th-i.thgim.com/public/incoming/rta4tv/article70849025.ece/alternates/LANDSCAPE_1200/2026-04-10T184527Z_1017446791_RC2PGKAFDIKN_RTRMADP_3_IRAN-CRISIS-TRUMP-ADDRESS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/federal-court-hears-new-case-against-trumps-latest-global-tariffs/article70849022.ece",
+    "time": "2026-04-10T20:54:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Army delayed strike during Op Sindoor at terror camps to respect namaz, reveals General Dwivedi",
+    "desc": "Indian Army chief General Upendra Dwivedi revealed Operation Sindoor's strike was deliberately delayed last year. Commanders ensured the operation avoided disrupting 'namaz' prayers at a terrorist camp, choosing a time when no one was engaged in worship. This flexible timing demonstrated a unique consideration, prioritizing a specific prayer period before executing the mission.",
+    "img": "https://static.toiimg.com/photo/msid-130179915,imgsize-974331.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/army-delayed-strike-during-op-sindoor-at-terror-camps-to-respect-namaz-reveals-general-dwivedi/articleshow/130179917.cms",
+    "time": "2026-04-10T20:52:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Deleted from Bengal rolls &amp; added to Bihar list: TMC worker",
+    "desc": "A Trinamool worker from West Bengal alleges his name was deleted from the state's electoral roll and inexplicably added to Bihar's voter list. Krishnendu Mukherjee, a booth-level agent, discovered this discrepancy when his name, present in the draft roll, was marked 'under adjudication' and later deleted. He suspects a political conspiracy due to his active TMC membership.",
+    "img": "https://static.toiimg.com/photo/msid-130179901,imgsize-1531732.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/deleted-from-bengal-rolls-added-to-bihar-list-tmc-worker/articleshow/130179891.cms",
+    "time": "2026-04-10T20:48:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Owaisi dumps Kabir after sting video on 'Rs 1k crore BJP deal'",
+    "desc": "AIMIM has ended its electoral alliance with Humayun Kabir's AUJP following a sting video allegedly showing Kabir discussing a Rs 1,000-crore deal with BJP and suggesting Muslim voters be misled. AIMIM stated it cannot associate with statements questioning the integrity of Bengal's Muslims and will now contest independently.",
+    "img": "https://static.toiimg.com/photo/msid-130179879,imgsize-1267353.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-owaisi-dumps-kabir-after-sting-video-on-rs-1k-crore-bjp-deal/articleshow/130179864.cms",
+    "time": "2026-04-10T20:41:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Copycat manifesto', BJP never delivers on its promises: TMC",
+    "desc": "Bengal's ruling TMC has labelled the BJP's election manifesto a \"copycat\" document, questioning the saffron party's track record on fulfilling promises. Chief Minister Mamata Banerjee highlighted unfulfilled pledges like Rs 15 lakh bank deposits and job creation, while a TMC spokesperson accused the BJP of adopting their successful welfare schemes.",
+    "img": "https://static.toiimg.com/photo/msid-130179816,imgsize-1110676.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tmc-copycat-manifesto-bjp-never-delivers-on-its-promises/articleshow/130179802.cms",
+    "time": "2026-04-10T20:25:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rani Kapur alleges Priya made her sign papers without reading",
+    "desc": "A bitter legal battle has erupted within the Kapur family following the death of businessman Sunjay Kapur, with his mother Rani Kapur and daughter-in-law Priya Sachdev locked in a dispute over the RK Family Trust. In a recent interaction, Rani Kapur opened up about the ongoing feud, alleging wrongdoing and vowing to fight the case till the end.",
+    "img": "https://static.toiimg.com/photo/msid-130179716,imgsize-74220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunjay-kapurs-mom-rani-kapur-claims-priya-sachdev-made-her-sign-papers-without-reading-says-karisma-kapoor-is-in-touch-i-will-fight-till-i-die/articleshow/130179716.cms",
+    "time": "2026-04-10T20:20:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Day after Vijay's unreleased film leaks online, TVK blames rivals",
+    "desc": "TVK party blames Union minister L Murugan and Tamil Nadu's deputy CM Udhayanidhi Stalin for the online leak of actor Vijay's unreleased film 'Jananayagan'. The production house has filed a complaint seeking forensic investigation and legal action against those responsible for the unauthorized circulation.",
+    "img": "https://static.toiimg.com/photo/msid-130179755,imgsize-1556332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/day-after-vijays-unreleased-film-leaks-online-tvk-blames-rivals/articleshow/130179756.cms",
+    "time": "2026-04-10T20:18:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Those deleted from rolls 'anti-nationals', says Bengal BJP neta",
+    "desc": "Former state BJP chief Dilip Ghosh labelled over 90 lakh people removed from Bengal's electoral rolls as 'anti-nationals'. He challenged Trinamool Congress to win without 'fake voters'. Ghosh's remarks came after acknowledging some genuine voters were removed. His opponent criticised the statement, questioning if Hindus excluded were traitors.",
+    "img": "https://static.toiimg.com/photo/msid-130179743,imgsize-479641.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/those-deleted-from-rolls-anti-nationals-says-bengal-bjp-neta/articleshow/130179746.cms",
+    "time": "2026-04-10T20:15:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No notices for code violations, EC now goes for FIRs straight",
+    "desc": "The Election Commission has issued no model code of conduct notices during ongoing polls, opting instead for FIRs for serious violations. This shift, attributed to CEC Gyanesh Kumar, aims to streamline enforcement within tight campaign schedules and leverage existing legal frameworks for offenses like communal remarks and personal attacks.",
+    "img": "https://static.toiimg.com/photo/msid-130179713,imgsize-1058091.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-notices-for-code-violations-ec-now-goes-for-firs-straight/articleshow/130179719.cms",
+    "time": "2026-04-10T20:10:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kin try to give Veerappan a Robin Hood aura, join fray as 'defenders of Tamil nationalism'",
+    "desc": "Veerappan's daughter Vidhyarani and widow Muthulakshmi are entering electoral politics. They aim to portray the late forest brigand as a protector of Tamil rights. Vidhyarani is contesting from Mettur and Muthulakshmi from Krishnagiri. Both candidates are backed by parties supporting Tamil nationalism. Their campaigns focus on their father's legacy and local issues.",
+    "img": "https://static.toiimg.com/photo/msid-130179671,imgsize-949386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kin-try-to-give-veerappan-a-robin-hood-aura-join-fray-as-defenders-of-tamil-nationalism/articleshow/130179679.cms",
+    "time": "2026-04-10T20:06:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengal, with its polarised minority vote, makes Hindutva &amp; security good poll planks, feels BJP",
+    "desc": "BJP's Bengal manifesto champions Hindutva and national security, promising a crackdown on infiltrators and implementing Uniform Civil Code. It also targets women and youth with welfare schemes, aiming to consolidate Hindu votes against TMC's alleged appeasement. The party stresses border security and curbing corruption, seeking to replicate its Assam success.",
+    "img": "https://static.toiimg.com/photo/msid-130179608,imgsize-1130310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bengal-with-its-polarised-minority-vote-makes-hindutva-security-good-poll-planks-feels-bjp/articleshow/130179581.cms",
+    "time": "2026-04-10T19:53:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court",
+    "desc": "The Supreme Court is examining serious allegations of human trafficking. Relatives claim Indians were lured to Russia for jobs or studies but were then forced into military roles. Their passports were taken, and they faced threats. The court has asked the solicitor general to investigate these disturbing reports.",
+    "img": "https://static.toiimg.com/photo/msid-130179478,imgsize-979713.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/deceptive-recruitment-of-indians-for-ukraine-war-is-trafficking-supreme-court/articleshow/130179480.cms",
+    "time": "2026-04-10T19:40:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer meets Mohan Bhagwat, pays tribute to Hedgewar",
+    "desc": "The Revenge, made a quiet visit to Nagpur on Friday, where he met Mohan Bhagwat at the Rashtriya Swayamsevak Sangh (RSS) headquarters. Ranveer later visited the Dr. Hedgewar Smruti Mandir in Reshimbagh, where he paid tributes to RSS founder K. B. Hedgewar and second sarsanghchalak M. S. Golwalkar.",
+    "img": "https://static.toiimg.com/photo/msid-130179396,imgsize-25214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-dhurandhar-2-success-ranveer-singh-visits-rss-headquarters-in-nagpur-meets-mohan-bhagwat-pays-tribute-to-founder-hedgewar/articleshow/130179396.cms",
+    "time": "2026-04-10T19:37:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "examining Varun Chakaravarthy’s sudden downturn",
+    "desc": "Until recently, the mystery spinner was the world’s top-ranked T20I bowler. But since the Super Eights at the 2026 T20 World Cup, the 34-year-old’s game has unravelled. What has led to this surprising dip in form? And can he return to his unplayable best during the IPL?",
+    "img": "https://th-i.thgim.com/public/incoming/5v08m/article70848969.ece/alternates/LANDSCAPE_1200/GettyImages-2264947774.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/varun-chakaravarthy-form-dip-t20-analysis-india-spinner-struggles/article70848966.ece",
+    "time": "2026-04-10T19:36:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Oppn meet to forge women's quota bill stand on April 15",
+    "desc": "Opposition parties will meet April 15 to strategize on the women's reservation law amendments. Congress slammed the government for delinking the quota from Census 2026 and delimitation, accusing it of political maneuvering. Concerns were raised about the constitutional process and potential sub-quotas for OBC women, with a call to follow the census-delimitation-quota sequence.",
+    "img": "https://static.toiimg.com/photo/msid-130179417,imgsize-1325782.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/oppn-meet-to-forge-womens-quota-bill-stand-on-april-15/articleshow/130179420.cms",
+    "time": "2026-04-10T19:35:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Lamine Yamal became the face of post-Messi Barcelona",
+    "desc": "After powering the club to the domestic treble last season, the boy wonder has helped drive the Blaugrana to the top of LaLiga and into the Champions League’s last eight. His goal-scoring, playmaking and dribbling have fuelled his dizzying rise to superstardom. Having inherited Barcelona’s iconic No. 10 shirt, there is no doubt the 18-year-old is the club’s leading man",
+    "img": "https://th-i.thgim.com/public/incoming/vt3mq7/article70848983.ece/alternates/LANDSCAPE_1200/GettyImages-2267257911.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/lamine-yamal-barcelona-10-lionel-messi-comparison-psg-transfer-analysis/article70848988.ece",
+    "time": "2026-04-10T19:32:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Without naming Israel, India regrets Lebanon civilian deaths",
+    "desc": "India expressed deep concern over significant civilian casualties in recent Israeli strikes on Lebanon, following a US-Iran ceasefire. As a UNIFIL contributor, India finds the events disturbing, emphasizing civilian protection and respect for international law. The ceasefire's fragility is highlighted by confusion over Lebanon's inclusion.",
+    "img": "https://static.toiimg.com/photo/msid-130179386,imgsize-1778836.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/without-naming-israel-india-regrets-lebanon-civilian-deaths/articleshow/130179378.cms",
+    "time": "2026-04-10T19:31:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K: Two grenades found in mystery box in Rajouri",
+    "desc": "Security forces discovered a suspected IED-type box with two grenades in Rajouri's Sunderbani belt. This incident followed the detention of a school van driver in Jammu, who had multiple Pakistani contacts on his phone. Investigations are ongoing into the driver's suspected terror links.",
+    "img": "https://static.toiimg.com/photo/msid-130179178,imgsize-1460060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-two-grenades-found-in-mystery-box-in-rajouri/articleshow/130179118.cms",
+    "time": "2026-04-10T19:12:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jurel, Sooryavanshi stand tall as RR give RCB first taste of defeat",
+    "desc": "India's young sensation Vaibhav Sooryavanshi smashed 78 off 26 balls to power Rajasthan Royals to a six-wicket win over Royal Challengers Bengaluru, chasing 202 in just 18 overs. Supported by Dhruv Jurel (81*), the 15-year-old dominated bowlers. Earlier, Rajat Patidar scored 63 as RCB posted 201/8, but it proved insufficient.",
+    "img": "https://static.toiimg.com/photo/msid-130178843,imgsize-29322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-dhruv-jurel-vaibhav-sooryavanshi-stand-tall-as-rr-give-defending-champ-rcb-first-taste-of-defeat/articleshow/130178846.cms",
+    "time": "2026-04-10T19:04:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Where a government school meets private aspirations",
+    "desc": "Scenes of long queues and high demand mark a remarkable shift as Komatireddy Pratheek Government School in Nalgonda draws overwhelming parental interest. With world-class infrastructure, innovative pedagogy, and strong leadership, it challenges private-school dominance while offering an inclusive, high-quality learning model within the public education system",
+    "img": "https://th-i.thgim.com/public/news/national/telangana/j0r7qo/article70846288.ece/alternates/LANDSCAPE_1200/Govt%20school%20.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/where-a-government-school-meets-private-aspirations/article70846290.ece",
+    "time": "2026-04-10T18:52:51.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘I don’t need a man to pay—but I want to feel feminine’",
     "desc": "Actor-dancer Nora Fatehi got candid about love, dating and gender dynamics in a recent chat, admitting that while she’s financially independent, she still desires emotional care and effort from a partner. Nora also addressed how her success impacts her dating life. “I’ve heard so many people say, ‘You’re intimidating, that’s why I didn’t approach you,’” she shared.",
@@ -90,15 +306,6 @@ const newsData_en = [
     "time": "2026-04-10T16:58:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "TN voter deleted from electoral roll reminds Supreme Court of promise to protect in case of ‘mass exclusion’",
-    "desc": "The petitioner, C. Geetha, said her name had been a mainstay in the State’s electoral roll over the years; she was even intending to contest as an independent candidate in the 51-Uthangarai (SC) Assembly Constituency and 52-Bargur Assembly Constituency in the Tamil Nadu Assembly elections in 2026.",
-    "img": "https://th-i.thgim.com/public/incoming/xu8s3l/article70848763.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tn-voter-deleted-from-electoral-roll-reminds-supreme-court-of-promise-to-protect-in-case-of-mass-exclusion/article70847428.ece",
-    "time": "2026-04-10T16:58:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026 PBKS vs SRH preview",
     "desc": "A glance at the scorecard of their last meeting — in Hyderabad on April 12, 2025 — provides context. Sunrisers, coming off a four-match losing streak, hunted down the 246-run target with eight wickets and nine balls to spare, thanks to a 55-ball 141 from Abhishek Sharma",
@@ -115,15 +322,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/have-worked-very-hard-on-my-bowling-and-fitness-natarajan/article70848450.ece",
     "time": "2026-04-10T16:52:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Across party lines in Jhargram, poll promises seek to woo adivasi, Dalit voters",
-    "desc": "SCs/STs make up half the population of Jhargram, giving them a decisive say in the poll verdict; TMC, BJP clash over development plans, UCC implementation in a district emerging from the long shadow of Maoist extremism",
-    "img": "https://th-i.thgim.com/public/incoming/i0u6nx/article70848727.ece/alternates/LANDSCAPE_1200/BJP%20candidate%20from%20Gopiballavpur%20-%20Rajesh%20Mahato.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-across-party-lines-in-jhargram-poll-promises-seek-to-woo-adivasi-dalit-voters/article70846156.ece",
-    "time": "2026-04-10T16:46:00.000Z"
   },
   {
     "cat": "Sports",
@@ -169,15 +367,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/mf-investor-panic-subsides-even-as-markets-dipped-in-march-2026/article70847721.ece",
     "time": "2026-04-10T16:02:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Hopeful of a breakthrough at the Islamabad meeting over Iran-U.S. war: Mirwaiz",
-    "desc": "The world was looking towards Islamabad with hope and anticipation, he said, adding that the people of Kashmir fully comprehend the futility and human cost of war and conflict, having themselves endured decades of grief, loss, and suffering",
-    "img": "https://th-i.thgim.com/public/incoming/b7jdbl/article70848551.ece/alternates/LANDSCAPE_1200/12205_25_4_2025_15_18_46_4_27_PAHALGAMTERRORATTACKHOUSESOFLETTERRORISTSDEMOLISHEDINKASHMIR_SGR_25_04_2025.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/hopeful-of-a-breakthrough-at-the-islamabadmeeting-over-iran-us-war-mirwaiz/article70848335.ece",
-    "time": "2026-04-10T16:02:01.000Z"
   },
   {
     "cat": "Entertainment",
@@ -261,15 +450,6 @@ const newsData_en = [
     "time": "2026-04-10T13:29:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘BJP hides behind institutions’: Akhilesh accuses Center of using EC in UP bypolls; final SIR list released",
-    "desc": "Samajwadi Party chief Akhilesh Yadav accused the BJP of manipulating the Election Commission during Uttar Pradesh bypolls, alleging the party uses institutions when facing defeat on real issues. Meanwhile, Uttar Pradesh's final voter list shows an increase of over 84 lakh voters, with the Chief Electoral Officer assuring due process and political party involvement in the revision.",
-    "img": "https://static.toiimg.com/photo/msid-130172169,imgsize-44464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-hides-behind-institutions-akhilesh-accuses-center-of-using-ec-in-up-bypolls-final-sir-list-released/articleshow/130171400.cms",
-    "time": "2026-04-10T13:29:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "LSG or GT? Sara Tendulkar's reaction to pap's question goes viral",
     "desc": "Sara Tendulkar went viral after smiling and staying silent when asked which team she supports ahead of LSG vs GT. Her reaction may relate to brother Arjun Tendulkar, now with LSG. The young all-rounder, son of Sachin Tendulkar, is yet to get many chances but remains a promising talent this IPL season.",
@@ -286,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-pitt-season-2-al-hashimi-reveal-her-medical-secret-ahead-of-the-final/articleshow/130169968.cms",
     "time": "2026-04-10T12:41:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Grave consequences': Mallikarjun Kharge at CWC meet says government's women quota move violates poll code",
-    "desc": "Congress president Mallikarjun Kharge voiced concerns over the government's proposed women's reservation law amendments and seat expansion, potentially violating the Model Code of Conduct. He asserted opposition unity and questioned the special Parliament session's timing, alleging political motives. The party emphasized deep deliberation on delimitation and women's empowerment.",
-    "img": "https://static.toiimg.com/photo/msid-130170186,imgsize-744316.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/grave-consequences-mallikarjun-kharge-at-cwc-meet-says-governments-women-quota-move-a-poll-code-violation/articleshow/130170189.cms",
-    "time": "2026-04-10T12:39:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -322,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-and-zendaya-spotted-at-sadie-sinks-romeo-and-juliet-performance/articleshow/130169129.cms",
     "time": "2026-04-10T12:12:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India flags civilian deaths in Lebanon; Amit Shah vows UCC in Bengal; and more",
-    "desc": "India expresses deep concern over civilian deaths in Lebanon amid ongoing Israeli strikes, calling the situation \"very disturbing.\" Meanwhile, Union Home Minister Amit Shah pledged to implement the Uniform Civil Code in Bengal within six months if the BJP wins. Delhi Police have busted an ISI-backed spy network, arresting ten operatives. Justice Yashwant Varma resigned amid a cash recovery row.",
-    "img": "https://static.toiimg.com/photo/msid-130169381,imgsize-27756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-india-flags-civilian-deaths-in-lebanon-amit-shah-vows-ucc-in-bengal-and-more/articleshow/130167962.cms",
-    "time": "2026-04-10T12:08:42.000Z"
   },
   {
     "cat": "Business",
@@ -367,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lara-dutta-says-akshay-kumar-never-took-advantage-of-priyanka-chopra-and-her-two-young-girls-with-stars-in-their-eyes-/articleshow/130168733.cms",
     "time": "2026-04-10T11:45:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Boat carrying devotees capsizes in Mathura; 10 bodies recovered, rescue ops on",
-    "desc": "Tragedy struck Mathura's Yamuna River as a boat carrying devotees capsized near Kesi Ghat. At least six lives were lost in the unfortunate incident that occurred Friday afternoon. Around 30 individuals were on two boats when one suddenly sank. Rescue efforts are actively ongoing to locate those still missing, with several already brought to safety.",
-    "img": "https://static.toiimg.com/photo/msid-130168735,imgsize-602453.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/boat-carrying-devotees-capsizes-in-mathura-six-bodies-recovered-rescue-ops-on/articleshow/130168736.cms",
-    "time": "2026-04-10T11:43:08.000Z"
   },
   {
     "cat": "Sports",
@@ -424,30 +577,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Afrika Bambaataa, who helped shape early hip-hop and became a famous DJ",
-    "desc": "Afrika Bambaataa, an iconic figure in the realm of music, revolutionized the hip-hop scene by elevating it from grassroots gatherings to a worldwide cultural movement. His groundbreaking DJ techniques and the establishment of the Universal Zulu Nation, founded on the principles of 'Peace, Unity, Love, and Having Fun,' created a lasting blueprint for the genre.",
-    "img": "https://static.toiimg.com/photo/msid-130166221,imgsize-102000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/afrika-bambaataa-early-hip-hop-architect-and-famous-dj-passes-away-at-67/articleshow/130166221.cms",
-    "time": "2026-04-10T10:14:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Nora Fatehi says her comments on feminism were misinterpreted",
     "desc": "Nora Fatehi clarifies her past remarks on feminism, stating they were misinterpreted and taken out of context. She advocates for a balanced approach, emphasizing the importance of both independence and shared responsibility in relationships, and calls for men to be more accountable allies. Her views stem from her upbringing and a desire for traditional family structures.",
     "img": "https://static.toiimg.com/photo/msid-130166367,imgsize-20060.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nora-fatehi-says-her-comments-on-feminism-were-misinterpreted-extremism-is-something-that-i-am-totally-against/articleshow/130166351.cms",
     "time": "2026-04-10T10:12:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Preity Zinta shares candid spring break moments with twins",
-    "desc": "Actress Preity Zinta sweetened her fans' feeds with an enchanting update from her family life, showcasing spring break fun with her adorable twins. Describing it as 'pure bliss,' she shared candid moments that reflect the joy of everyday life, right before setting off on her next exciting pursuit.",
-    "img": "https://static.toiimg.com/photo/msid-130165949,imgsize-91638.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/preity-zinta-shares-candid-spring-break-moments-with-twins-in-rare-family-update/articleshow/130165949.cms",
-    "time": "2026-04-10T10:01:22.000Z"
   },
   {
     "cat": "World",
@@ -459,24 +594,6 @@ const newsData_en = [
     "time": "2026-04-10T09:56:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'BJP to bring UCC in 6 months': Amit Shah pitches common civil law in Bengal",
-    "desc": "UCC is a proposal to have one common set of personal laws for all citizens in India, covering marriage, divorce, inheritance, and adoption, regardless of religion. It aims to ensure equality before law and promote national integration by replacing religion-based personal laws with a uniform legal framework. In the Bengal polls, where BJP strives to wrest power from three-time chief minister Mamata Banerjee, who fiercely opposes the UCC, the issue is expected to highly polarise the elections.",
-    "img": "https://static.toiimg.com/photo/msid-130165609,imgsize-94630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-to-bring-ucc-in-6-months-amit-shah-pitches-comman-civil-law-in-bengal/articleshow/130165271.cms",
-    "time": "2026-04-10T09:45:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Forced into Ukraine war': SC asks Centre to respond to habeas corpus plea of 26 Indians stranded in Russia",
-    "desc": "The Supreme Court has directed the Union government to respond within a week to a habeas corpus petition concerning 26 Indian nationals allegedly stranded in Russia and forced into the Ukraine war. Families reported their relatives were lured with job promises, had passports seized, and were compelled to join military units. The court's intervention seeks their safe return.",
-    "img": "https://static.toiimg.com/photo/msid-130165041,imgsize-57988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/forced-into-ukraine-war-sc-asks-centre-to-respond-to-habeas-corpus-plea-of-26-indians-stranded-in-russia/articleshow/130165047.cms",
-    "time": "2026-04-10T09:37:13.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Dhurandhar 2' box office collection day 23 [Live]",
     "desc": "The Revenge' continues its impressive box office run, entering its fourth week and surpassing Rs 1050 crore in India. The Ranveer Singh starrer has maintained strong collections despite the IPL, with day 23 earnings pushing its net total to Rs 1,051.06 crore.",
@@ -486,15 +603,6 @@ const newsData_en = [
     "time": "2026-04-10T09:35:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'With deep anguish': What Justice Yashwant Varma wrote in resignation letter to President Murmu",
-    "desc": "Justice Yashwant Varma resigned from the Allahabad High Court with immediate effect, citing deep anguish. His resignation follows a cash recovery controversy at his residence and an ongoing impeachment process initiated after a Supreme Court-led inquiry recommended further action.",
-    "img": "https://static.toiimg.com/photo/msid-130164632,imgsize-728597.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/with-deep-anguish-what-justice-yashwant-varma-wrote-in-resignation-letter-to-president-murmu/articleshow/130164356.cms",
-    "time": "2026-04-10T09:32:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Captain's job is to...': Ex-Indian cricketer slams Pant despite LSG's win",
     "desc": "Lucknow Super Giants secured a nail-biting win against Kolkata Knight Riders, with debutant Mukul Choudhary starring in the chase. Despite the victory, former India cricketer Mohammed Kaif criticized Rishabh Pant's game awareness and leadership, urging the captain to take more responsibility and bat longer in crucial situations. Pant's inconsistent form was highlighted as a concern.",
@@ -502,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/lsg-needed-him-to-stay-till-the-end-mohammed-kaif-wants-rishabh-pant-to-take-responsibility/articleshow/130165033.cms",
     "time": "2026-04-10T09:22:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "UCC, Rs 3,000 monthly aid &amp; more: What BJP has promised in its West Bengal manifesto",
-    "desc": "The BJP has released its West Bengal election manifesto, promising a 'Sonar Bangla' with key pledges like monthly financial aid for women and unemployed youth, and implementing the Seventh Pay Commission. Union Home Minister Amit Shah criticized the current government's governance and assured a Bengali Chief Minister, emphasizing security, welfare, and economic growth.",
-    "img": "https://static.toiimg.com/photo/msid-130164771,imgsize-1339013.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ucc-rs-3000-monthly-aid-more-what-bjp-has-promised-in-its-west-bengal-manifesto/articleshow/130164348.cms",
-    "time": "2026-04-10T09:00:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -799,68 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
     "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
