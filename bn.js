@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "দিল্লির বড় খবর: সংসদে ইমপিচমেন্ট প্রক্রিয়া শুরু হতে পারে, বেইজ্জত হওয়ার ভয়ে আগেই ইস্তফা বিরাট প্রভাবশালীর",
+    "desc": "আইন বিশেষজ্ঞদের একাংশের মতে, ভারতের বর্তমান আইন অনুযায়ী, কোনও বিচারপতির বিরুদ্ধে ইমপিচমেন্ট প্রক্রিয়া সম্পন্ন হওয়ার আগে যদি তিনি পদত্যাগ করেন এবং সেই পদত্যাগপত্র গৃহীত হয়, তবে তিনি 'অবসরপ্রাপ্ত' হিসেবেই গণ্য হন। সুপ্রিম কোর্টের এক আইনজীবীর বক্তব্য অনুযায়ী, দেশের একাধিক হাইকোর্ট এবং শীর্ষ আদালত পূর্ববর্তী বিভিন্ন রায়ে এই অবস্থানকে স্বীকৃতি দিয়েছে যে পদত্যাগকে এক প্রকার 'অবসর' হিসেবেই দেখা হবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/justice-yashwant-varma-resigns-allahabad-hc-cash-row-controversy_648249.html ",
+    "time": "2026-04-10T14:24:54.000Z"
+  },
+  {
     "cat": "World",
     "title": "কোথাও একলাফে ১৪০, কোথাও তারও বেশি বৃদ্ধি, মুরগির রেকর্ড-দামে দিশেহারা সকলে, আগুন হল মাছ-ডিম",
     "desc": "রান্নাঘরে কান্নার রোল! বাজারে হু-হু করে বাড়ছে মুরগির দাম। গত এক মাসের ব্যবধানে সোনালি মুরগির দাম কেজিতে বেড়েছে সর্বোচ্চ ১৪০ টাকা। এতে সবচেয়ে বেশি বিপাকে পড়েছেন সাধারণ মানুষ। সংকটে পড়েছেন নিম্ন ও মধ্য শ্রেণির ক্রেতারা।",
@@ -214,23 +223,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/bhole-baba-paar-karega-actress-sweta-mishra-health-update-rahul-arunoday-death-trauma_647694.html ",
     "time": "2026-04-06T14:18:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'রাতে ঘুমোতে পারছি না', রাহুলের মৃত্যুতে বড় সিদ্ধান্ত অম্বরীশের, ছাড়লেন লীনা-শৈবালের প্রযোজনা সংস্থার ২ ধারাবাহিক",
-    "desc": "\"ম্যাজিক মোমেন্টসের আর কোনো কাজ আমি করব না!\" বন্ধু ও সহকর্মী রাহুল অরুণোদয়ের মৃত্যুতে বড় সিদ্ধান্ত নিলেন অভিনেতা অম্বরীশ ভট্টাচার্য। কেন মিছিলে যাননি? কেনই বা লীনা গঙ্গোপাধ্যায়ের সংস্থার সাথে সব সম্পর্ক ছিন্ন করলেন? সবটা খোলসা করলেন অভিনেতা নিজেই।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/ambarish-bhattacharya-quits-magic-moments-rahul-arunoday-death-statement_647668.html ",
-    "time": "2026-04-06T11:19:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

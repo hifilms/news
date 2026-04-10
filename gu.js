@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "ઓટીટી પર જોવા જેવી હોરર ફિલ્મ, આ ફિલ્મ જોયા પછી હાથનું પ્લાસ્ટર જોઈને પણ ડર લાગશે",
+    "desc": "ઓટીટી પર સૌથી વધુ હોરર ફિલ્મો જોવાતી હોય છે. તમે પણ ડરામણી ફિલ્મો જોવાના શોખીન છો તો તમારા માટે પ્રાઈમ વીડિયોની બેસ્ટ હોરર ફિલ્મ વિશે જાણકારી લાવ્યા છીએ. આ ફિલ્મ એકવાર જોઈ લે તેને હાથમાં આવતા પ્લાસ્ટરથી બીક લાગવા લાગે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-hindi-horror-film-talk-to-me-horror-film-in-hindi-on-ott-prime-video-472407 ",
+    "time": "2026-04-10T14:36:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "દર મહિને ₹11250નો ક્લેમ... કેન્દ્ર સરકારના કર્મચારીઓના ભથ્થાં અંગે સરકારે આપી મોટી અપડેટ",
+    "desc": "જો તમે કેન્દ્ર સરકારના કર્મચારી છો, તો આ સમાચાર તમારા માટે ઉપયોગી થઈ શકે છે. સરકારે બાળકોના શિક્ષણ ભથ્થા (CEA) નામના ખાસ ભથ્થા અંગે સ્પષ્ટતા જારી કરી છે. આ સ્પષ્ટતા એવા સમયે આવી છે જ્યારે કેન્દ્ર સરકારના કર્મચારીઓ તેમના મોંઘવારી ભથ્થા (DA)ની આતુરતાથી રાહ જોઈ રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/claim-of-rs-11250-per-month-government-gives-big-update-on-allowances-of-central-government-employees-472406 ",
+    "time": "2026-04-10T14:24:05.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "IPL 2026 વચ્ચે આવ્યા દુખદ સમાચાર, પૂર્વ ભારતીય ક્રિકેટરનું નિધન, BCCI અધ્યક્ષે આપી શ્રદ્ધાંજલિ",
     "desc": "ભારતીય ક્રિકેટમાં આઈપીએલનો રોમાંચ ચાલી રહ્યો છે. આ વચ્ચે એક પૂર્વ ભારતીય ક્રિકેટરનું નિધન થયું હતું. સીડી ગોપીનાથે 96 વર્ષની ઉંમરે ચેન્નઈમાં અંતિમ શ્વાસ લીધો છે. તેઓ ઈંગ્લેન્ડ સામે ભારતની પ્રથમ ટેસ્ટ જીતેલી ટીમના સભ્ય હતા.",
@@ -576,15 +594,6 @@ const newsData_gu = [
     "time": "2026-04-08T05:41:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "શાંતિ મફત નથી મળી, હોર્મુઝમાંથી પસાર થવા ચૂકવવી પડશે તોતિંગ ફી, શું ભારતે પણ ભરવી પડશે?",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચે જે યુદ્ધવિરામ થયો ત્યારબાદ હોર્મુઝ સ્ટ્રેટ પર જે સંકટ ઘેરાયું હતું તે દૂર થતું જોવા મળી રહ્યું છે. જો કે આ શાંતિ કઈ મફતમાં નથી આવી રહી તેના માટે કિંમત ચૂકવવા તૈયાર રહેવું પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/iran-us-ceasefire-news-will-iran-oman-charge-fees-to-allow-ships-to-pass-through-hormuz-471967 ",
-    "time": "2026-04-08T05:13:34.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકા-ઈરાન બે અઠવાડિયાના યુદ્ધવિરામ માટે સહમત, હોર્મુઝ જળમાર્ગ પર શું લેવાયો નિર્ણય?",
     "desc": "28 ફેબ્રુઆરીના રોજ ઈઝરાયેલ અને અમેરિકાએ અચાનક ઈરાન પર ભીષણ હુમલા શરૂ કર્યા અને ત્યારથી લઈને છેલ્લા એક મહિનાથી મિડલ ઈસ્ટમાં ઘમાસાણ મચ્યું હતું. જો કે રાહતની વાત એ છે કે હવે બે અઠવાડિયા માટે યુદ્ધવિરામ પર અમેરિકા, ઈરાન અને ઈઝરાયેલ ત્રણેય સહમત થઈ ગયા છે પરંતુ જેને લઈને સૌથી મોટી ચિંતા ઊભી થઈ હતી તે સ્ટ્રેટ ઓફ હોર્મુઝનું શું થયું?",
@@ -664,15 +673,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-best-selling-cars-march-2026-dzire-no-1-ertiga-secend-471882 ",
     "time": "2026-04-07T10:07:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "કઈંક મોટું થવાના એંધાણ! ટ્મ્પની ધમકીઓ બાદ આકાશમાં જોવા મળ્યું ડૂમ્સડે પ્લેન, શું કયામતની રાત ઢૂંકડી છે?",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચે ચાલી રહેલું યુદ્ધ ભીષણ થશે કે પછી યુદ્ધવિરામ અમલમાં આવશે? ટ્રમ્પની ધમકીઓ અને ઈરાનની વળતી ધમકીઓ કઈક અલગ જ મિજાજ દર્શાવે છે. પરંતુ આ બધા વચ્ચે અમેરિકાનું ડૂમ્સડે પ્લેન જોવા મળતા ખળભળાટ મચી ગયો છે. જાણો આ ડૂમ્સડે પ્લેન શું છે અને તે ક્યારે જોવા મળે છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/explainer-why-people-fear-about-doomsday-plane-that-spotted-near-us-nuclear-war-command-center-471834 ",
-    "time": "2026-04-07T06:23:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -835,14 +835,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/arun-govil-was-smoking-a-cigarette-on-the-sets-of-ramayana-what-happened-and-why-he-quit-smoking-ramanand-sagar-grandson-reveals-471077 ",
     "time": "2026-04-01T09:39:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "&amp;quot;ધુરંધર 2&amp;quot; ના &amp;quot;બડે સાહેબ&amp;quot;નું સત્ય... શું ખરેખર અંતિમ શ્વાસ લઈ રહ્યો છે અંડરવર્લ્ડનો સૌથી મોટો ચહેરો ? સામે આવ્યું હકીકત",
-    "desc": "રણવીર સિંહની ફિલ્મ \"ધુરંધર: ધ રીવેન્જ\"માં \"બડે સાહેબ\" ને અંતિમ શ્વાસ લેતા દર્શાવવામાં આવ્યા હતા, જેના કારણે લોકોમાં પ્રશ્નો ઉભા થયા હતા. શું દાઉદ ઇબ્રાહિમ ખરેખર અંતિમ શ્વાસ લઈ રહ્યો છે? તાજેતરમાં, એક જાણીતા પત્રકારે આ વાતનો ખુલાસો કર્યો છે, અને તેમનું નિવેદન સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/the-truth-about-the-bade-saheb-of-dhurandhar-2-is-the-biggest-face-of-the-underworld-really-taking-his-last-breath-the-fact-has-come-to-light-471062 ",
-    "time": "2026-04-01T09:09:07.000Z"
   }
 ];

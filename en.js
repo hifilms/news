@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Kantara' row: Ranveer to file new apology after complainant not happy with affidavit",
+    "desc": "Ranveer Singh has submitted an apology affidavit to the Karnataka High Court over his mimicry of Rishab Shetty, which allegedly hurt religious sentiments. The actor expressed regret, stating he was unaware of the sensitivities involved. A new, refined affidavit will be filed after consultation with the complainant.",
+    "img": "https://static.toiimg.com/photo/msid-130172905,imgsize-48798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kantara-mimicry-row-ranveer-singh-agrees-to-file-new-apology-visit-chamundi-temple-after-complainant-says-affidavit-doesnt-depict-genuine-remorse/articleshow/130172711.cms",
+    "time": "2026-04-10T14:35:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Jana Nayagan’ leak row: Makers warn of civil and criminal action",
+    "desc": "Thalapathy Vijay's 'Jana Nayagan' faces significant setbacks with HD leaks of its scenes and substantial portions online. The production house, KVN Productions LLP, has issued a stern warning, vowing to pursue stringent civil and criminal proceedings against all individuals involved in the piracy. They emphasize that every digital action is traceable and investigations are underway to identify and prosecute offenders.",
+    "img": "https://static.toiimg.com/photo/msid-130172682,imgsize-80192.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijays-jana-nayagan-makers-threaten-legal-action-after-scenes-from-the-film-leak-strict-civil-and-criminal-proceedings/articleshow/130172682.cms",
+    "time": "2026-04-10T14:32:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'BJP can't ally with those wanting Babri in Bengal': Amit Shah on Humayun Kabir",
+    "desc": "​​​Addressing a press conference after releasing the BJP's manifesto for the Bengal polls, Shah accused Mamata Banerjee's party of \"manufacturing political conspiracies\". \"You do not know Mamata Banerjee's capabilities. She can make 2,000 such videos. Humayun Kabir and the BJP are like the North Pole and the South Pole. We can never be together,\" Shah was quoted as saying by news agency ANI.",
+    "img": "https://static.toiimg.com/photo/msid-130172634,imgsize-157198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-cant-ally-with-those-wanting-babri-in-bengal-amit-shah-on-humayun-kabir/articleshow/130170655.cms",
+    "time": "2026-04-10T14:27:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 PBKS vs SRH preview",
+    "desc": "A glance at the scorecard of their last meeting — in Hyderabad on April 12, 2025 — provides context. Sunrisers, coming off a four-match losing streak, hunted down the 246-run target with eight wickets and nine balls to spare, thanks to a 55-ball 141 from Abhishek Sharma",
+    "img": "https://th-i.thgim.com/public/incoming/9zxdcv/article70847958.ece/alternates/LANDSCAPE_1200/PTI04_10_2026_000383A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-pbks-vs-srh-preview-punjab-kings-vs-sunrisers-hyderabad-face-off-in-a-battle-of-big-hitters/article70847387.ece",
+    "time": "2026-04-10T14:24:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Starting with Sachin's decision, Rohit Sharma completes 15 years at MI",
+    "desc": "Rohit Sharma completed 15 years with Mumbai Indians, a journey that began with Sachin Tendulkar’s backing in 2011. He went on to lead MI to five IPL titles, becoming their most successful captain. With nearly 6,000 runs and multiple records, Rohit remains central to MI’s legacy and one of IPL’s most iconic player-franchise stories.",
+    "img": "https://static.toiimg.com/photo/msid-130172475,imgsize-65828.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-starting-with-sachin-tendulkars-decision-rohit-sharma-completes-15-years-at-mi/articleshow/130172148.cms",
+    "time": "2026-04-10T14:19:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aayush Sharma asked for Rs 10 crore from his father to launch himself",
+    "desc": "Aayush Sharma revealed his father's strong opposition to his acting aspirations, even after he was caught with poor college attendance. Despite his father's harsh criticism and financial cutoff, Sharma persisted, eventually securing his grandfather's intervention to get another chance and financial support for his dream.",
+    "img": "https://static.toiimg.com/photo/msid-130172242,imgsize-14498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/youre-not-bachchan-saab-nothing-close-to-dharmendra-aayush-sharma-asked-for-rs-10-crore-from-his-father-to-launch-him-he-refused/articleshow/130172223.cms",
+    "time": "2026-04-10T14:10:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Could be this year or .... ': Kumble on Sooryavanshi's India chances",
+    "desc": "Vaibhav Sooryavanshi's stellar IPL performances have ignited widespread debate about his imminent India debut. However, spin legend Anil Kumble advises against rushing the 15-year-old, emphasizing that time is on his side. Kumble believes Sooryavanshi is doing all the right things and will remain on selectors' radar, with his debut likely in the coming years.",
+    "img": "https://static.toiimg.com/photo/msid-130171603,imgsize-49150.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/could-be-this-year-or-anil-kumble-on-vaibhav-sooryavanshis-india-chances/articleshow/130171593.cms",
+    "time": "2026-04-10T13:40:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "LSG bring in South African replacement for injured Hasaranga",
+    "desc": "Lucknow Super Giants signed George Linde to replace injured Wanindu Hasaranga for IPL 2026. Hasaranga was ruled out with a hamstring injury. Linde, an experienced all-rounder, will make his IPL debut. Tom Moody confirmed the move earlier. Under Rishabh Pant, LSG hope Linde adds balance ahead of their next match.",
+    "img": "https://static.toiimg.com/photo/msid-130171308,imgsize-36772.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-lsg-bring-in-south-african-replacement-for-injured-wanindu-hasaranga/articleshow/130171166.cms",
+    "time": "2026-04-10T13:31:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How a research scholar’s curiosity about type designing led to a paper on Kerala’s vibrant hand-painted political graffiti",
+    "desc": "Neetha Joseph K, a doctoral scholar at IIT Hyderabad, has documented hand-painted political graffiti in Kerala in a research paper, ‘The Visual Voices of Kerala’s Politics’, which looks at the stylistic variations of the Malayalam fonts across eight districts in the State",
+    "img": "https://th-i.thgim.com/public/incoming/ohkf4r/article70841405.ece/alternates/LANDSCAPE_1200/kimp_art1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/life-and-style/how-a-research-scholars-curiosity-about-type-designing-led-to-a-paper-on-keralas-vibrant-hand-painted-political-graffiti/article70837617.ece",
+    "time": "2026-04-10T13:29:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘BJP hides behind institutions’: Akhilesh accuses Center of using EC in UP bypolls; final SIR list released",
+    "desc": "Samajwadi Party chief Akhilesh Yadav accused the BJP of manipulating the Election Commission during Uttar Pradesh bypolls, alleging the party uses institutions when facing defeat on real issues. Meanwhile, Uttar Pradesh's final voter list shows an increase of over 84 lakh voters, with the Chief Electoral Officer assuring due process and political party involvement in the revision.",
+    "img": "https://static.toiimg.com/photo/msid-130172169,imgsize-44464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-hides-behind-institutions-akhilesh-accuses-center-of-using-ec-in-up-bypolls-final-sir-list-released/articleshow/130171400.cms",
+    "time": "2026-04-10T13:29:19.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "LSG or GT? Sara Tendulkar's reaction to pap's question goes viral",
     "desc": "Sara Tendulkar went viral after smiling and staying silent when asked which team she supports ahead of LSG vs GT. Her reaction may relate to brother Arjun Tendulkar, now with LSG. The young all-rounder, son of Sachin Tendulkar, is yet to get many chances but remains a promising talent this IPL season.",
@@ -9,13 +99,13 @@ const newsData_en = [
     "time": "2026-04-10T12:46:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Centre to HC",
-    "desc": "The request is under consideration and appropriate action under IT Blocking Rules would be taken by the authority and Ayyub was free to seek appropriate legal remedies if she is aggrieved by any decision taken in the matter, the Centre said.",
-    "img": "https://th-i.thgim.com/public/incoming/wutdr7/article70847377.ece/alternates/LANDSCAPE_1200/hykvg-rana__3_.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/initiated-steps-to-block-objectionable-tweets-by-journalist-rana-ayyub-centre-to-hc/article70847349.ece",
-    "time": "2026-04-10T12:43:12.000Z"
+    "cat": "Entertainment",
+    "title": "'The Pitt' Season 2: Al-Hashimi’s secret comes to light",
+    "desc": "The Pitt's season 2 finale is set to be an emotional rollercoaster. Dr. Michael \"Robby\" Robinavitch confides in a friend about suicidal thoughts, while Dr. Baran Al-Hashimi's hidden medical history of seizures since childhood is revealed. These shocking developments leave viewers questioning the characters' futures and the hospital's stability.",
+    "img": "https://static.toiimg.com/photo/msid-130169968,imgsize-111122.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-pitt-season-2-al-hashimi-reveal-her-medical-secret-ahead-of-the-final/articleshow/130169968.cms",
+    "time": "2026-04-10T12:41:50.000Z"
   },
   {
     "cat": "Politics",
@@ -25,6 +115,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/grave-consequences-mallikarjun-kharge-at-cwc-meet-says-governments-women-quota-move-a-poll-code-violation/articleshow/130170189.cms",
     "time": "2026-04-10T12:39:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mick Fleetwood ties the knot with Elizabeth Jordan",
+    "desc": "Iconic musician Mick Fleetwood, at 78, has tied the knot with his long-time partner Elizabeth Jordan, aged 56, after a beautiful six-year journey together. The Fleetwood Mac drummer took to Instagram to share the delightful news while enjoying their honeymoon in the idyllic South Pacific. This marks Fleetwood's fifth marriage, and he seems to have discovered true joy with Jordan.",
+    "img": "https://static.toiimg.com/photo/msid-130169822,imgsize-94700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/mike-fleetwood-weds-elizabeth-jordan-and-marks-his-fifth-marriage-at-78/articleshow/130169822.cms",
+    "time": "2026-04-10T12:36:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -43,15 +142,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-and-zendaya-spotted-at-sadie-sinks-romeo-and-juliet-performance/articleshow/130169129.cms",
     "time": "2026-04-10T12:12:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Justice Varma's resignation welcome, should have done it earlier, says HC bar association president",
-    "desc": "Allahabad High Court judge Varma, who was facing impeachment proceedings after wads of burnt currency notes were found at his residence in Delhi, has submitted his resignation to President Droupadi Murmu, sources said on Friday (April 10)",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/justice-varmas-resignation-welcome-should-have-done-it-earlier-says-hc-bar-association-president/article70846998.ece",
-    "time": "2026-04-10T12:08:47.000Z"
   },
   {
     "cat": "Politics",
@@ -117,15 +207,6 @@ const newsData_en = [
     "time": "2026-04-10T11:42:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Approach authorities instead of rushing to court, Supreme Court tells petitioner who filed 25 PILs",
-    "desc": "The PILs filed by the petitioner sought a range of directions, including to frame a policy to develop common link language in country for official purposes and draft a policy for legal awareness show on television",
-    "img": "https://th-i.thgim.com/public/incoming/ekdysj/article70847127.ece/alternates/LANDSCAPE_1200/Supreme-Court-sGRNFK2U48.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/approach-authorities-instead-of-rushing-to-court-supreme-court-tells-petitioner-who-filed-25-pils/article70847088.ece",
-    "time": "2026-04-10T11:27:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Mukul Choudhary 'reminded me of watching Dhoni': Ex-IPL batter",
     "desc": "Faf du Plessis praised Mukul Choudhary’s unbeaten 54 that led LSG to a last-ball win over KKR, lauding his composure and power. He compared his flick shots to MS Dhoni. Du Plessis called it a season-defining win for LSG, while noting KKR’s struggles, saying missed chances and poor luck are hurting them in close matches.",
@@ -133,24 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mukul-choudhary-reminded-me-of-watching-ms-dhoni-former-ipl-batter-makes-bold-claim/articleshow/130167702.cms",
     "time": "2026-04-10T11:21:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala HC quashes government order denying sanction for CBI probe into ₹600 cr. cashew import scam",
-    "desc": "Court summons Principal Secretary of Industries department to appear before it in a contempt plea initiated following denial of sanction for CBI probe into alleged corruption in import of raw cashew between 2006 and 2015 by Kerala Cashew Board",
-    "img": "https://th-i.thgim.com/public/incoming/kv6qdi/article70846796.ece/alternates/LANDSCAPE_1200/IMG_80968_19_8_2024_20_5_2_1_4HD7UTTI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-quashes-government-order-denying-sanction-for-cbi-probe-into-600-cr-cashew-import-scam/article70846762.ece",
-    "time": "2026-04-10T11:14:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Morning vs. evening: how do the benefits of yoga differ depending on when you do it",
-    "desc": "Participants who practised yoga in the morning reported a greater reduction in sleep disturbances and a shift towards ‘morningness’ — a preference for early-day activity aligned with natural biological rhythms, according to a new study",
-    "img": "https://th-i.thgim.com/public/incoming/gnmawc/article70841513.ece/alternates/LANDSCAPE_1200/PTI03_27_2026_000021A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/how-do-benefits-of-doing-yoga-in-the-morning-differ-from-that-in-the-evening-more-beneficial-than-evening-sessions-for-sleep-and-well-being-study/article70838975.ece",
-    "time": "2026-04-10T11:11:26.000Z"
   },
   {
     "cat": "Sports",
@@ -171,24 +234,6 @@ const newsData_en = [
     "time": "2026-04-10T11:00:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "T.N. election: AIADMK candidate faints during campaign in Thiruvidaimaruthur",
-    "desc": "On learning about the incident, DMK nominee and Higher Education Minister Govi. Chezhiaan, who was also canvassing for votes in a nearby area, visited the candidate, Ilamathi Subramanian, at the hospital and enquired about her health, sources said",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-election-aiadmk-candidate-faints-during-campaign-in-thiruvidaimaruthur/article70846557.ece",
-    "time": "2026-04-10T10:52:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Wide roads, narrow chance?",
-    "desc": "After years of failing to widen roads, the five city corporations have announced a renewed push for these projects this year. But with land losers still resisting compensation through TDR, and the corporations in no position to pay cash, will the projects take off or will the impasse continue, checks The Hindu",
-    "img": "https://th-i.thgim.com/public/incoming/hyiqos/article70843542.ece/alternates/LANDSCAPE_1200/DSC_8859.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/wide-roads-narrow-chance-bengaluru-road-widening-projects-gba/article70841014.ece",
-    "time": "2026-04-10T10:48:07.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Open or shut? Toll system, new conditions and what the ceasefire really means for global shipping — 15 FAQs answered",
     "desc": "A fragile ceasefire has eased immediate escalation risks in the Strait of Hormuz, but shipping remains constrained and conditional. While limited vessel movement has resumed, it's far from normal, with security considerations dictating transit and global energy markets remaining sensitive to any disruptions.",
@@ -196,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/strait-of-hormuz-control-open-or-shut-toll-system-new-conditions-and-what-the-ceasefire-really-means-for-global-shipping-15-faqs-answered/articleshow/130165580.cms",
     "time": "2026-04-10T10:24:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tambaram, Chennai’s gateway, is booming, but civic infrastructure issues remain",
-    "desc": "Tambaram, often called Chennai’s gateway, is witnessing rapid growth and urban expansion. But residents say civic infrastructure — from roads and drainage to public services — is struggling to keep pace. Voters are demanding better planning and stronger infrastructure to match Tambaram’s rise.",
-    "img": "https://th-i.thgim.com/public/videos/y3omp9/article70846896.ece/alternates/LANDSCAPE_1200/tambaram.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/tambaram-chennais-gateway-is-booming-but-civic-infrastructure-issues-remain/article70846906.ece",
-    "time": "2026-04-10T10:22:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -241,15 +277,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iaea-director-general-rafael-grossi-interview-iran-nuclear-sites-israel-us-attacks/article70842785.ece",
     "time": "2026-04-10T09:56:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How a research scholar’s curiosity about type designing led to a paper on Kerala’s vibrant hand-painted political graffiti",
-    "desc": "Neetha Joseph K, a doctoral scholar at IIT Hyderabad, has documented hand-painted political graffiti in Kerala in a research paper, ‘The Visual Voices of Kerala’s Politics’, which looks at the stylistic variations of the Malayalam fonts across eight districts in the State",
-    "img": "https://th-i.thgim.com/public/incoming/ohkf4r/article70841405.ece/alternates/LANDSCAPE_1200/kimp_art1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/how-a-research-scholars-curiosity-about-type-designing-led-to-a-paper-on-keralas-vibrant-hand-painted-political-graffiti/article70837617.ece",
-    "time": "2026-04-10T09:55:01.000Z"
   },
   {
     "cat": "Entertainment",
@@ -302,7 +329,7 @@ const newsData_en = [
     "desc": "Lucknow Super Giants secured a nail-biting win against Kolkata Knight Riders, with debutant Mukul Choudhary starring in the chase. Despite the victory, former India cricketer Mohammed Kaif criticized Rishabh Pant's game awareness and leadership, urging the captain to take more responsibility and bat longer in crucial situations. Pant's inconsistent form was highlighted as a concern.",
     "img": "https://static.toiimg.com/photo/msid-130165248,imgsize-737049.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-captains-job-is-to-ex-indian-cricketer-slams-rishabh-pant-despite-lsg-thrilling-win/articleshow/130165033.cms",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/lsg-needed-him-to-stay-till-the-end-mohammed-kaif-wants-rishabh-pant-to-take-responsibility/articleshow/130165033.cms",
     "time": "2026-04-10T09:22:51.000Z"
   },
   {
@@ -378,24 +405,6 @@ const newsData_en = [
     "time": "2026-04-10T08:01:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay’s ‘Jana Nayagan’ makers release legal statement over piracy leak",
-    "desc": "Scenes from Thalapathy Vijay's upcoming film 'Jana Nayagan' have been leaked online. The makers have issued a strong legal statement. They warn that anyone involved in accessing or sharing the leaked footage will face criminal action. The production house has initiated legal proceedings. The film also faces censorship delays. The ensemble cast includes Pooja Hegde and Bobby Deol.",
-    "img": "https://static.toiimg.com/photo/msid-130163364,imgsize-82364.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijays-jana-nayagan-makers-release-legal-statement-every-person-involved-shall-be-individually-liable-for-criminal-action/articleshow/130163364.cms",
-    "time": "2026-04-10T08:00:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All of the celebrities at BTS’ Goyang concert",
-    "desc": "K-pop phenomenon BTS kicked off their highly awaited 'ARIRANG' world tour in Goyang, captivating an audience filled with industry stars. The event saw support from fellow K-pop sensations such as TXT and ATEEZ, along with beloved actors like Kim Min Jae and Lee Sung Kyung. After a four-year break for military duties, this comeback has fans buzzing with excitement.",
-    "img": "https://static.toiimg.com/photo/msid-130163193,imgsize-231152.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/all-of-the-celebs-at-bts-first-concert-for-arirang-world-tour-from-txt-ateez-ive-and-more/articleshow/130163193.cms",
-    "time": "2026-04-10T07:57:17.000Z"
-  },
-  {
     "cat": "World",
     "title": "Britain celebrates late Queen Elizabeth II as style icon to mark her centenary",
     "desc": "The exhibition, drawn from some 4,000 items once owned by the queen, explores how fashion became one of her most powerful tools of communication as she evolved from a young princess into Britain's longest-reigning monarch.",
@@ -403,24 +412,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/life-and-style/fashion/britain-celebrates-late-queen-elizabeth-ii-as-style-icon-to-mark-her-centenary/article70846175.ece",
     "time": "2026-04-10T07:54:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hwang Chansung reflects on first action role in ‘Bloodhounds’ Season 2",
-    "desc": "K-pop sensation Hwang Chansung is taking a thrilling leap into new territory with his debut action role as Tae Geom in 'Bloodhounds' Season 2. The 2PM member expressed a mix of exhilaration and trepidation about tackling such physically demanding scenes, showcasing his determination to prioritize safety while delivering electrifying performances.",
-    "img": "https://static.toiimg.com/photo/msid-130163248,imgsize-65676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/2pms-hwang-chansung-reflects-on-first-action-role-in-bloodhounds-season-2-timing-and-coordination-in-action-scenes-are-crucial/articleshow/130163248.cms",
-    "time": "2026-04-10T07:51:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Eric Dane's documentary unveils unseen moments from ALS battle",
-    "desc": "In a profound testament to his character, Eric Dane, celebrated for his roles in 'Grey's Anatomy' and 'Euphoria', dedicated his last months to championing ALS awareness and access to treatment. The poignant documentary 'Ring Every Bell' sheds light on his relentless partnership with I AM ALS to push for the renewal of the ACT for ALS legislation.",
-    "img": "https://static.toiimg.com/photo/msid-130163084,imgsize-82588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/greys-anatomy-fame-eric-danes-documentary-unveils-unseen-moments-from-als-battle-im-very-fortunate-to-get-/articleshow/130163084.cms",
-    "time": "2026-04-10T07:49:57.000Z"
   },
   {
     "cat": "Sports",
@@ -486,24 +477,6 @@ const newsData_en = [
     "time": "2026-04-10T06:01:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Tamil Nadu CM M K Stalin takes Chennai Metro during poll campaign, interacts with commuters",
-    "desc": "Tamil Nadu CM M.K. Stalin took a Chennai Metro ride, engaging with commuters to seek support for his party ahead of the Assembly polls. He recalled his role in developing the metro project, highlighting its progress and future expansion plans. This public outreach is part of his intensified campaign efforts.",
-    "img": "https://static.toiimg.com/photo/msid-130160767,imgsize-149678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-cm-m-k-stalin-takes-chennai-metro-during-poll-campaign-interacts-with-commuters/articleshow/130160614.cms",
-    "time": "2026-04-10T06:00:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Watkins helps Aston Villa defeat Bologna in quarter-final of Europa League",
-    "desc": "Aston Villa secured a crucial 3-1 victory over Bologna in their Europa League quarter-final first leg, with Ollie Watkins scoring twice. Ezri Konsa opened the scoring before half-time, and despite Bologna's late goal, Watkins' second strike in stoppage time gave Villa a significant advantage heading into the second leg.",
-    "img": "https://static.toiimg.com/photo/msid-130160629,imgsize-1222919.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ollie-watkins-helps-aston-villa-defeat-bologna-in-quarter-final-of-europa-league/articleshow/130160622.cms",
-    "time": "2026-04-10T05:51:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Controlled movement, alternate routes, crypto tolls: Strait of Hormuz under new order — what has changed",
     "desc": "Global energy flows are severely restricted through the Strait of Hormuz following a fragile ceasefire. Iran has imposed a strict 15-vessel daily limit, demanding prior approval and rerouting ships closer to its coast. This controlled transit, coupled with threat warnings and potential crypto tolls, creates significant uncertainty and delays for vital oil and gas supplies.",
@@ -522,15 +495,6 @@ const newsData_en = [
     "time": "2026-04-10T05:37:53.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Predicted playing XI, head-to-head, pitch report, Guwahati weather update",
-    "desc": "Rajasthan Royals, fueled by explosive openers Jaiswal and Sooryavanshi, face a formidable Royal Challengers Bengaluru on Friday. RCB boasts a strong top order led by Virat Kohli and a revitalized bowling attack. The match promises high-octane action on a batting-friendly pitch in Guwahati, with weather clearing up for the evening encounter.",
-    "img": "https://static.toiimg.com/photo/msid-130160373,imgsize-163368.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-match-today-rr-vs-rcb-predicted-playing-xi-head-to-head-pitch-report-guwahati-weather-update/articleshow/130160365.cms",
-    "time": "2026-04-10T05:36:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Markets rallied as Iran-US ceasefire talks eased tensions; Kospi jumps 1.9%, Nikkei rises 1.5%",
     "desc": "Asian markets surged Friday, buoyed by easing Middle East tensions and a global risk sentiment recovery. Despite this optimism, caution persists over the durability of ceasefires and peace talks, with ongoing strikes in Lebanon a key concern. Investors are advised to focus on pre-conflict fundamentals as opportunities emerge.",
@@ -547,15 +511,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/cannes-2026-lineup-kore-eda-hamaguchi-farhadi-almodovar-to-premiere-in-competition-full-list/article70845861.ece",
     "time": "2026-04-10T05:07:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "NOC denied, LSG's Rs 2 Cr star out of IPL 2026; South African in radar",
-    "desc": "Lucknow Super Giants face a significant blow as star all-rounder Wanindu Hasaranga is out of IPL 2026 due to injury. South African spinner George Linde is the likely replacement. Despite this setback, LSG secured a thrilling last-ball victory against KKR, with Ayush Badoni and Mukul Choudhary starring in the chase.",
-    "img": "https://static.toiimg.com/photo/msid-130159726,imgsize-1368886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/noc-denied-lsgs-rs-2-cr-star-out-of-ipl-2026-south-african-player-in-radar/articleshow/130159707.cms",
-    "time": "2026-04-10T04:55:18.000Z"
   },
   {
     "cat": "Business",
@@ -583,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/the-political-system-of-cuba-is-not-on-the-table-in-any-dialogue-with-the-us-juan-carlos-marsan/article70842889.ece",
     "time": "2026-04-10T04:12:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Revelations show how vulnerable Bengal’s Muslims are': Owaisi's AIMIM breaks alliance with Humayun Kabir’s party before elections",
-    "desc": "Ahead of West Bengal polls, Asaduddin Owaisi's AIMIM has ended its alliance with Humayun Kabir's party, citing concerns over remarks questioning Muslim integrity. AIMIM will now contest independently, aiming to provide a voice for marginalized communities. The move could influence constituencies with significant minority populations, potentially creating multi-cornered contests.",
-    "img": "https://static.toiimg.com/photo/msid-130158434,imgsize-91864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/revelations-show-how-vulnerable-bengals-muslims-are-owaisis-aimim-breaks-alliance-with-humayun-kabirs-party-before-elections/articleshow/130158215.cms",
-    "time": "2026-04-10T04:09:22.000Z"
   },
   {
     "cat": "Sports",
@@ -622,30 +568,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Mukul Choudhary, Avesh Khan script history with record stand in LSG’s last-ball heist",
-    "desc": "Mukul Choudhary and Avesh Khan's record-breaking 54-run partnership for the eighth wicket secured a thrilling three-wicket victory for Lucknow Super Giants against Kolkata Knight Riders. Chasing 182, LSG were in trouble at 128/7 before Choudhary's explosive hitting, including seven sixes, and Khan's support sealed the win on the final ball, marking KKR's struggles at the death.",
-    "img": "https://static.toiimg.com/photo/msid-130157075,imgsize-89998.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-mukul-choudhary-avesh-khan-script-history-with-record-stand-in-lsgs-last-ball-heist/articleshow/130157052.cms",
-    "time": "2026-04-10T02:07:34.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "India’s R Vaishali takes sole lead with four rounds to go",
     "desc": "India's Vaishali Rameshbabu leads the FIDE Candidates 2026 women's section after a draw in the 10th round, showcasing impressive form. However, compatriots Divya Deshmukh and R Praggnanandhaa faced setbacks. Divya's endgame collapse likely ended her championship hopes, while Praggnanandhaa's tactical misstep against Sindarov cost him dearly, impacting India's overall challenge.",
     "img": "https://static.toiimg.com/photo/msid-130156709,imgsize-63466.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-indias-r-vaishali-takes-sole-lead-with-four-rounds-to-go/articleshow/130156692.cms",
     "time": "2026-04-10T01:28:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' FAILS to break 'Dhurandhar' week 3 record",
-    "desc": "'Dhurandhar 2' experiences a slowdown, concluding its third week with Rs 110.60 crore. Despite surpassing its predecessor's lifetime earnings, the spy action film failed to break 'Dhurandhar's' third-week collection record. The movie's domestic net collections reached Rs 1,048.42 crore, with a global gross of Rs 1,665.23 crore.",
-    "img": "https://static.toiimg.com/photo/msid-130156216,imgsize-96978.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-22-ranveer-singh-sara-arjun-arjun-rampal-rakesh-bedi-starrer-completes-week-3-with-rs110-60-crore-haul-falls-short-of-this-dhurandhar-record/articleshow/130156099.cms",
-    "time": "2026-04-10T00:38:29.000Z"
   },
   {
     "cat": "Business",
@@ -664,33 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-slips-931-pts-rupee-weakens/articleshow/130155573.cms",
     "time": "2026-04-09T22:26:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Morgan Stanley report",
-    "desc": "Indian stocks are poised for a significant rally, with Morgan Stanley projecting the Sensex could reach 95,000 by year-end. This optimistic outlook is fueled by expectations of stable economic conditions, renewed private investment, and robust domestic demand. Analysts foresee a strong earnings upcycle, potentially driving the index even higher, with a 20% chance of surpassing 1.1 lakh points.",
-    "img": "https://static.toiimg.com/photo/msid-130154032,imgsize-1638507.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-may-hit-95k-pts-by-december-morgan-stanley-report/articleshow/130154033.cms",
-    "time": "2026-04-09T22:03:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India offers stability, seen as 'safe anchor': Shaktikanta Das",
-    "desc": "Amidst global turbulence, Shaktikanta Das emphasized India's energy security and self-reliance, highlighting its role as a stable anchor. He advised the corporate sector to build resilience and diversify. Das asserted that India's prudent policy responses and strategic autonomy have enabled it to emerge stronger from various crises.",
-    "img": "https://static.toiimg.com/photo/msid-130154011,imgsize-560226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-offers-stability-seen-as-safe-anchor-shaktikanta-das/articleshow/130154012.cms",
-    "time": "2026-04-09T21:43:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "TCS optimistic despite 2.4% decline in revenue",
-    "desc": "TCS remains optimistic about future growth, driven by strong AI momentum and a steady deal pipeline, despite a recent revenue dip. The company achieved a four-year high in operating margins, enabling continued investment in growth areas like its AI data center business, Hypervault. Key markets and industry segments showed sequential growth, with a robust order book.",
-    "img": "https://static.toiimg.com/photo/msid-130153998,imgsize-150792.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/tcs-optimistic-despite-2-4-decline-in-revenue/articleshow/130153914.cms",
-    "time": "2026-04-09T21:38:21.000Z"
   },
   {
     "cat": "Business",
@@ -763,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-delhi-capital-gujarat-titans-match-updates-april-8/article70839034.ece",
     "time": "2026-04-08T19:22:08.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S., Iran agree to two-week ceasefire",
-    "desc": "Talks to begin in Islamabad on April 10, based on Tehran’s 10-point proposal; safe passage through Strait of Hormuz in coordination with Iranian armed forces during truce; Israel says Lebanon is not part of the ceasefire",
-    "img": "https://th-i.thgim.com/public/incoming/takgcz/article70836116.ece/alternates/LANDSCAPE_1200/2026-04-07T211037Z_1241134980_RC2VJKADVXZJ_RTRMADP_3_USA-TRUMP-IRAN-CIVILIZATION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-says-he-has-agreed-to-suspend-bombing-and-attack-of-iran-for-two-weeks/article70836115.ece",
-    "time": "2026-04-08T17:56:01.000Z"
   },
   {
     "cat": "Sports",

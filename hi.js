@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Jacob Duffy not playing for RCB vs RR in IPL 2026 clash at Barsapara Cricket Stadium in Guwahati?",
+    "desc": "Royal Challengers Bengaluru have dropped Jacob Duffy for the marquee clash against Rajasthan Royals at the Barsapara Cricket Stadium in Guwahati. Captain Rajat Patidar informed that Josh Hazlewood would replace him in the playing XI....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jacob-duffy-not-playing-for-rcb-vs-rr-in-ipl-2026-clash-at-barsapara-cricket-stadium-in-guwahati-2026-04-10-1037090",
+    "time": "2026-04-10T14:46:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is toss delayed in RR vs RCB clash at Barsapara Cricket Stadium in Guwahati in IPL 2026?",
+    "desc": "The toss between Rajasthan Royals and Royal Challengers Bengaluru has been delayed due to heavy rain. The surface has been put under covers for the time being. Notably, there was little to no possibility of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-toss-delayed-in-rr-vs-rcb-clash-at-barsapara-cricket-stadium-in-guwahati-in-ipl-2026-2026-04-10-1037081",
+    "time": "2026-04-10T13:37:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Josh Hazlewood recovers from injury, included in playing XI for RCB vs RR in IPL 2026 clash",
+    "desc": "Royal Challengers Bengaluru are playing their third game of IPL 2026 today as they are facing Rajasthan Royals in the 15th match of the season at the Barsapara Cricket Stadium in Guwahati. RCB have received...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-josh-hazlewood-not-playing-for-rcb-vs-rr-in-ipl-2026-clash-at-barsapara-stadium-in-guwahati-2026-04-10-1037080",
+    "time": "2026-04-10T13:36:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lucknow Super Giants replace Wanindu Hasaranga with South Africa international in IPL 2026",
     "desc": "Lucknow Super Giants’ global Director of Cricket Tom Moody has confirmed that Wanindu Hasaranga will miss the IPL 2026. The Sri Lankan all-rounder sustained a hamstring injury during the T20 World Cup, which has ruled...",
     "img": "",
@@ -52,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/josh-hazlewood-injury-update-will-australia-pacer-play-today-for-rcb-vs-rr-in-ipl-2026-clash-at-guwahati-2026-04-10-1037045",
     "time": "2026-04-10T08:51:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface in Guwahati play for IPL 2026 play?",
-    "desc": "The stage is set for a cracking encounter in the ongoing IPL (Indian Premier League) 2026. Game 16 of the tournament sees table toppers Rajasthan Royals take on defending champions Royal Challengers Bengaluru. The two...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-rcb-pitch-report-how-will-surface-in-guwahati-play-for-ipl-2026-play-2026-04-10-1037044",
-    "time": "2026-04-10T08:42:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand calls up Ben Lister in white ball squad for Bangladesh tour, set to replace Kristian Clarke",
-    "desc": "NZC (New Zealand Cricket) has come forward and has called up left-arm pacer Ben Lister in their ODI and T20I squad for the upcoming Bangladesh tour. Lister will be replacing Kristian Clarke in the squad,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-calls-up-ben-lister-in-white-ball-squad-for-bangladesh-tour-set-to-replace-kristian-clarke-2026-04-10-1037037",
-    "time": "2026-04-10T07:34:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "LSG head coach Justin Langer reveals how did team decide to buy Mukul Choudhary in IPL 2026 auction",
-    "desc": "Mukul Choudhary turned heads on Thursday when he played a whirlwind knock of 54 runs off 27 deliveries with seven sixes to help Lucknow Super Giants chase down 182 runs from a precarious position of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-head-coach-justin-langer-reveals-how-did-team-decide-to-buy-mukul-choudhary-in-ipl-2026-auction-2026-04-10-1037033",
-    "time": "2026-04-10T06:56:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Incredible display': Irfan Pathan showers Mukul Choudhary with praise after masterclass knock against KKR",
-    "desc": "Lucknow Super Giants’ Mukul Choudhary introduced himself to the IPL (Indian Premier League) with an exceptional knock against Kolkata Knight Riders in game 15 of the ongoing tournament. The two sides met at the Eden...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/incredible-display-irfan-pathan-showers-mukul-choudhary-with-praise-after-masterclass-knock-against-kkr-2026-04-10-1037028",
-    "time": "2026-04-10T06:37:12.000Z"
   }
 ];
