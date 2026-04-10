@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "LSG head coach Justin Langer reveals how did team decide to buy Mukul Choudhary in IPL 2026 auction",
+    "desc": "Mukul Choudhary turned heads on Thursday when he played a whirlwind knock of 54 runs off 27 deliveries with seven sixes to help Lucknow Super Giants chase down 182 runs from a precarious position of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lsg-head-coach-justin-langer-reveals-how-did-team-decide-to-buy-mukul-choudhary-in-ipl-2026-auction-2026-04-10-1037033",
+    "time": "2026-04-10T06:56:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Incredible display': Irfan Pathan showers Mukul Choudhary with praise after masterclass knock against KKR",
+    "desc": "Lucknow Super Giants’ Mukul Choudhary introduced himself to the IPL (Indian Premier League) with an exceptional knock against Kolkata Knight Riders in game 15 of the ongoing tournament. The two sides met at the Eden...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/incredible-display-irfan-pathan-showers-mukul-choudhary-with-praise-after-masterclass-knock-against-kkr-2026-04-10-1037028",
+    "time": "2026-04-10T06:37:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will weather in Guwahati fare for IPL 2026 game 16?",
+    "desc": "Game 16 of the ongoing IPL (Indian Premier League) 2026 sees Rajasthan Royals taking on Royal Challengers Bengaluru. The two sides lock horns at the Barsapara Stadium in Guwahati on April 10, and being the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rr-vs-rcb-weather-report-how-will-weather-in-guwahati-fare-for-ipl-2026-game-16-2026-04-10-1037021",
+    "time": "2026-04-10T05:35:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 Player battles to watch out for in IPL 2026 Match 16",
     "desc": "The stage is set for game 16 of the ongoing IPL (Indian Premier League) 2026. Rajasthan Royals will be hosting Royal Challengers Bengaluru at the Barsapara Stadium in Guwahati on April 10. It is safe...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/when-will-wanindu-hasaranga-join-lsg-squad-for-ipl-2026-tom-moody-shares-major-update-2026-04-09-1036972",
     "time": "2026-04-09T17:10:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why has no Indian broadcaster bid for media rights yet?",
-    "desc": "With the FIFA World Cup 2026 set to begin in June, uncertainty looms over its broadcast in India as media rights for the tournament remain is not yet finalised. No broadcaster, be it for television...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-why-has-no-indian-broadcaster-bid-for-media-rights-yet-2026-04-09-1036968",
-    "time": "2026-04-09T16:19:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Finn Allen’s controversial dismissal against LSG puts umpires under scrutiny",
-    "desc": "Finn Allen had a rough start to his IPL career, having been dismissed for 37, 28, 6 and 9 runs in the first four games of the 2026 season. The New Zealand international arrived with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/finn-allens-controversial-dismissal-against-lsg-puts-umpires-under-scrutiny-watch-2026-04-09-1036962",
-    "time": "2026-04-09T14:59:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Varun Chakaravarthy not playing for KKR vs LSG at Eden Gardens in IPL 2026?",
-    "desc": "Kolkata Knight Riders will miss the service of Varun Chakaravarthy in the clash against Lucknow Super Giants at the Eden Gardens. The star spinner suffered a finger injury while completing a catch against Hyderabad and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-varun-chakaravarthy-not-playing-for-kkr-vs-lsg-at-eden-gardens-in-ipl-2026-2026-04-09-1036954",
-    "time": "2026-04-09T13:50:04.000Z"
   }
 ];
