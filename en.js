@@ -1,5 +1,239 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "LSG or GT? Sara Tendulkar's reaction to pap's question goes viral",
+    "desc": "Sara Tendulkar went viral after smiling and staying silent when asked which team she supports ahead of LSG vs GT. Her reaction may relate to brother Arjun Tendulkar, now with LSG. The young all-rounder, son of Sachin Tendulkar, is yet to get many chances but remains a promising talent this IPL season.",
+    "img": "https://static.toiimg.com/photo/msid-130170384,imgsize-36032.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/supporting-lsg-or-gt-sara-tendulkars-reaction-to-paps-ipl-question-goes-viral-watch/articleshow/130169327.cms",
+    "time": "2026-04-10T12:46:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre to HC",
+    "desc": "The request is under consideration and appropriate action under IT Blocking Rules would be taken by the authority and Ayyub was free to seek appropriate legal remedies if she is aggrieved by any decision taken in the matter, the Centre said.",
+    "img": "https://th-i.thgim.com/public/incoming/wutdr7/article70847377.ece/alternates/LANDSCAPE_1200/hykvg-rana__3_.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/initiated-steps-to-block-objectionable-tweets-by-journalist-rana-ayyub-centre-to-hc/article70847349.ece",
+    "time": "2026-04-10T12:43:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Grave consequences': Mallikarjun Kharge at CWC meet says government's women quota move violates poll code",
+    "desc": "Congress president Mallikarjun Kharge voiced concerns over the government's proposed women's reservation law amendments and seat expansion, potentially violating the Model Code of Conduct. He asserted opposition unity and questioned the special Parliament session's timing, alleging political motives. The party emphasized deep deliberation on delimitation and women's empowerment.",
+    "img": "https://static.toiimg.com/photo/msid-130170186,imgsize-744316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/grave-consequences-mallikarjun-kharge-at-cwc-meet-says-governments-women-quota-move-a-poll-code-violation/articleshow/130170189.cms",
+    "time": "2026-04-10T12:39:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tiger sells apartment in Pune for Rs 8.87 crore, earns 18 percent profit",
+    "desc": "Tiger Shroff has sold a residential apartment in Pune's Hadapsar for Rs 8.87 crore, a property he purchased for Rs 7.5 crore in March 2024. The 4,249 sq ft apartment in the Yoo Pune project was sold with three parking spaces to Cherise (India) Private Limited, the same company that previously rented it.",
+    "img": "https://static.toiimg.com/photo/msid-130169748,imgsize-64506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroff-sells-apartment-in-pune-for-rs-8-87-crore-earns-18-percent-profit-report/articleshow/130169703.cms",
+    "time": "2026-04-10T12:23:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Holland, Zendaya spotted at Sadie Sink’s Broadway show",
+    "desc": "Tom Holland and Zendaya were spotted enjoying a Broadway show, fueling ongoing marriage rumors. While neither has confirmed wedding bells, speculation intensified after Zendaya's stylist hinted at their marital status. The couple, who have a history of on-screen romance, are set to reunite in upcoming films, with Zendaya acknowledging public interest while emphasizing her desire for privacy.",
+    "img": "https://static.toiimg.com/photo/msid-130169129,imgsize-75058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-and-zendaya-spotted-at-sadie-sinks-romeo-and-juliet-performance/articleshow/130169129.cms",
+    "time": "2026-04-10T12:12:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Justice Varma's resignation welcome, should have done it earlier, says HC bar association president",
+    "desc": "Allahabad High Court judge Varma, who was facing impeachment proceedings after wads of burnt currency notes were found at his residence in Delhi, has submitted his resignation to President Droupadi Murmu, sources said on Friday (April 10)",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/justice-varmas-resignation-welcome-should-have-done-it-earlier-says-hc-bar-association-president/article70846998.ece",
+    "time": "2026-04-10T12:08:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India flags civilian deaths in Lebanon; Amit Shah vows UCC in Bengal; and more",
+    "desc": "India expresses deep concern over civilian deaths in Lebanon amid ongoing Israeli strikes, calling the situation \"very disturbing.\" Meanwhile, Union Home Minister Amit Shah pledged to implement the Uniform Civil Code in Bengal within six months if the BJP wins. Delhi Police have busted an ISI-backed spy network, arresting ten operatives. Justice Yashwant Varma resigned amid a cash recovery row.",
+    "img": "https://static.toiimg.com/photo/msid-130169381,imgsize-27756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-india-flags-civilian-deaths-in-lebanon-amit-shah-vows-ucc-in-bengal-and-more/articleshow/130167962.cms",
+    "time": "2026-04-10T12:08:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How pro-active are they in financial and tax planning?",
+    "desc": "Women are actively investing in India, moving beyond traditional savings. While participation in mutual funds and equities is rising, independent control over financial decisions, particularly tax planning, is still developing. Younger women show greater comfort with digital platforms and goal-based investing. This shift signifies a growing financial awareness and engagement across the nation.",
+    "img": "https://static.toiimg.com/photo/msid-130169504,imgsize-219768.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/more-women-in-jobs-how-pro-active-are-they-in-financial-and-tax-planning/articleshow/130167551.cms",
+    "time": "2026-04-10T12:08:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dax Shepard recalls Kristen Bell’s surprise during his father’s last moments",
+    "desc": "Actor Dax Shepard became emotional recounting his father's final days. His wife, Kristen Bell, seven months pregnant, surprised him by flying to Detroit to offer support. This profound gesture allowed Shepard's father to feel his unborn grandchild's belly before he passed away, a moment the family treasures.",
+    "img": "https://static.toiimg.com/photo/msid-130168985,imgsize-97922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dax-shepard-breaks-down-over-kristen-bells-surprise-for-his-dying-father-shes-intuitive-like-/articleshow/130168985.cms",
+    "time": "2026-04-10T11:57:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meryl Streep proud to represent older women on screen",
+    "desc": "Meryl Streep is thrilled to reprise her iconic role as Miranda Priestly in 'The Devil Wears Prada 2', highlighting the rarity of substantial roles for older women in Hollywood. The sequel, set to release May 1, sees Priestly navigating the changing media landscape and facing off against Emily Blunt's character. The film promises a powerful portrayal of a seasoned executive.",
+    "img": "https://static.toiimg.com/photo/msid-130168890,imgsize-90928.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meryl-streep-says-she-is-happy-to-represent-older-women-in-lead-movie-roles-i-do-think-theres-something-in-this-one-thats-unusual/articleshow/130168890.cms",
+    "time": "2026-04-10T11:52:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lara says Akshay Kumar never took advantage of Priyanka Chopra and her",
+    "desc": "Lara Dutta recently lauded Akshay Kumar as a supportive first co-star, guiding her and Priyanka Chopra during their early Bollywood days. She highlighted his protective presence and industry knowledge. Meanwhile, producer Suneel Darshan previously alluded to complications arising from a reported Akshay-Priyanka connection, impacting his film projects.",
+    "img": "https://static.toiimg.com/photo/msid-130168774,imgsize-45752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lara-dutta-says-akshay-kumar-never-took-advantage-of-priyanka-chopra-and-her-two-young-girls-with-stars-in-their-eyes-/articleshow/130168733.cms",
+    "time": "2026-04-10T11:45:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Boat carrying devotees capsizes in Mathura; 10 bodies recovered, rescue ops on",
+    "desc": "Tragedy struck Mathura's Yamuna River as a boat carrying devotees capsized near Kesi Ghat. At least six lives were lost in the unfortunate incident that occurred Friday afternoon. Around 30 individuals were on two boats when one suddenly sank. Rescue efforts are actively ongoing to locate those still missing, with several already brought to safety.",
+    "img": "https://static.toiimg.com/photo/msid-130168735,imgsize-602453.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/boat-carrying-devotees-capsizes-in-mathura-six-bodies-recovered-rescue-ops-on/articleshow/130168736.cms",
+    "time": "2026-04-10T11:43:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Asian C'ships: Suresh clinches gold as India end campaign with 16 medals",
+    "desc": "India finished second at the Asian Boxing Championships 2026 with 16 medals, just behind Kazakhstan. Vishvanath Suresh led the way with gold, while Sachin won silver. The women’s team topped the medal tally with 10 medals. Ajay Singh praised the squad’s depth, calling it a strong sign for the future of Indian boxing.",
+    "img": "https://static.toiimg.com/photo/msid-130168744,imgsize-29056.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/boxing/asian-boxing-championships-vishvanath-suresh-clinches-gold-as-india-end-campaign-with-16-medals/articleshow/130168468.cms",
+    "time": "2026-04-10T11:42:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Approach authorities instead of rushing to court, Supreme Court tells petitioner who filed 25 PILs",
+    "desc": "The PILs filed by the petitioner sought a range of directions, including to frame a policy to develop common link language in country for official purposes and draft a policy for legal awareness show on television",
+    "img": "https://th-i.thgim.com/public/incoming/ekdysj/article70847127.ece/alternates/LANDSCAPE_1200/Supreme-Court-sGRNFK2U48.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/approach-authorities-instead-of-rushing-to-court-supreme-court-tells-petitioner-who-filed-25-pils/article70847088.ece",
+    "time": "2026-04-10T11:27:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mukul Choudhary 'reminded me of watching Dhoni': Ex-IPL batter",
+    "desc": "Faf du Plessis praised Mukul Choudhary’s unbeaten 54 that led LSG to a last-ball win over KKR, lauding his composure and power. He compared his flick shots to MS Dhoni. Du Plessis called it a season-defining win for LSG, while noting KKR’s struggles, saying missed chances and poor luck are hurting them in close matches.",
+    "img": "https://static.toiimg.com/photo/msid-130168129,imgsize-64080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mukul-choudhary-reminded-me-of-watching-ms-dhoni-former-ipl-batter-makes-bold-claim/articleshow/130167702.cms",
+    "time": "2026-04-10T11:21:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala HC quashes government order denying sanction for CBI probe into ₹600 cr. cashew import scam",
+    "desc": "Court summons Principal Secretary of Industries department to appear before it in a contempt plea initiated following denial of sanction for CBI probe into alleged corruption in import of raw cashew between 2006 and 2015 by Kerala Cashew Board",
+    "img": "https://th-i.thgim.com/public/incoming/kv6qdi/article70846796.ece/alternates/LANDSCAPE_1200/IMG_80968_19_8_2024_20_5_2_1_4HD7UTTI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-quashes-government-order-denying-sanction-for-cbi-probe-into-600-cr-cashew-import-scam/article70846762.ece",
+    "time": "2026-04-10T11:14:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Morning vs. evening: how do the benefits of yoga differ depending on when you do it",
+    "desc": "Participants who practised yoga in the morning reported a greater reduction in sleep disturbances and a shift towards ‘morningness’ — a preference for early-day activity aligned with natural biological rhythms, according to a new study",
+    "img": "https://th-i.thgim.com/public/incoming/gnmawc/article70841513.ece/alternates/LANDSCAPE_1200/PTI03_27_2026_000021A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/how-do-benefits-of-doing-yoga-in-the-morning-differ-from-that-in-the-evening-more-beneficial-than-evening-sessions-for-sleep-and-well-being-study/article70838975.ece",
+    "time": "2026-04-10T11:11:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We have got to get this kid': How LSG unearthed Mukul Choudhary",
+    "desc": "Mukul Choudhary made a stunning IPL debut with an unbeaten 54 off 27 balls. His powerful hitting secured a thrilling three-wicket victory for Lucknow Super Giants against KKR. Coach Justin Langer praised Choudhary's athleticism and sharp cricketing mind. This close win provides a significant morale boost for the team early in the season.",
+    "img": "https://static.toiimg.com/photo/msid-130167439,imgsize-58122.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-we-have-got-to-get-this-kid-how-lsg-unearthed-mukul-choudhary/articleshow/130167444.cms",
+    "time": "2026-04-10T11:02:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli on the brink of history, poised to join Gayle and Rohit Sharma",
+    "desc": "Virat Kohli is on the verge of a significant IPL achievement. He needs just three more sixes to reach 300 in his career. This places him alongside elite batsmen like Chris Gayle and Rohit Sharma. Kohli's current form suggests this milestone could be reached soon. He has a strong record against Rajasthan Royals, his next opponent.",
+    "img": "https://static.toiimg.com/photo/msid-130167548,imgsize-55696.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-on-the-brink-of-history-poised-to-join-chris-gayle-and-rohit-sharma/articleshow/130167510.cms",
+    "time": "2026-04-10T11:00:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. election: AIADMK candidate faints during campaign in Thiruvidaimaruthur",
+    "desc": "On learning about the incident, DMK nominee and Higher Education Minister Govi. Chezhiaan, who was also canvassing for votes in a nearby area, visited the candidate, Ilamathi Subramanian, at the hospital and enquired about her health, sources said",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-election-aiadmk-candidate-faints-during-campaign-in-thiruvidaimaruthur/article70846557.ece",
+    "time": "2026-04-10T10:52:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Wide roads, narrow chance?",
+    "desc": "After years of failing to widen roads, the five city corporations have announced a renewed push for these projects this year. But with land losers still resisting compensation through TDR, and the corporations in no position to pay cash, will the projects take off or will the impasse continue, checks The Hindu",
+    "img": "https://th-i.thgim.com/public/incoming/hyiqos/article70843542.ece/alternates/LANDSCAPE_1200/DSC_8859.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/wide-roads-narrow-chance-bengaluru-road-widening-projects-gba/article70841014.ece",
+    "time": "2026-04-10T10:48:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Open or shut? Toll system, new conditions and what the ceasefire really means for global shipping — 15 FAQs answered",
+    "desc": "A fragile ceasefire has eased immediate escalation risks in the Strait of Hormuz, but shipping remains constrained and conditional. While limited vessel movement has resumed, it's far from normal, with security considerations dictating transit and global energy markets remaining sensitive to any disruptions.",
+    "img": "https://static.toiimg.com/photo/msid-130166459,imgsize-1026369.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/strait-of-hormuz-control-open-or-shut-toll-system-new-conditions-and-what-the-ceasefire-really-means-for-global-shipping-15-faqs-answered/articleshow/130165580.cms",
+    "time": "2026-04-10T10:24:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tambaram, Chennai’s gateway, is booming, but civic infrastructure issues remain",
+    "desc": "Tambaram, often called Chennai’s gateway, is witnessing rapid growth and urban expansion. But residents say civic infrastructure — from roads and drainage to public services — is struggling to keep pace. Voters are demanding better planning and stronger infrastructure to match Tambaram’s rise.",
+    "img": "https://th-i.thgim.com/public/videos/y3omp9/article70846896.ece/alternates/LANDSCAPE_1200/tambaram.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/tambaram-chennais-gateway-is-booming-but-civic-infrastructure-issues-remain/article70846906.ece",
+    "time": "2026-04-10T10:22:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Afrika Bambaataa, who helped shape early hip-hop and became a famous DJ",
+    "desc": "Afrika Bambaataa, an iconic figure in the realm of music, revolutionized the hip-hop scene by elevating it from grassroots gatherings to a worldwide cultural movement. His groundbreaking DJ techniques and the establishment of the Universal Zulu Nation, founded on the principles of 'Peace, Unity, Love, and Having Fun,' created a lasting blueprint for the genre.",
+    "img": "https://static.toiimg.com/photo/msid-130166221,imgsize-102000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/afrika-bambaataa-early-hip-hop-architect-and-famous-dj-passes-away-at-67/articleshow/130166221.cms",
+    "time": "2026-04-10T10:14:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nora Fatehi says her comments on feminism were misinterpreted",
+    "desc": "Nora Fatehi clarifies her past remarks on feminism, stating they were misinterpreted and taken out of context. She advocates for a balanced approach, emphasizing the importance of both independence and shared responsibility in relationships, and calls for men to be more accountable allies. Her views stem from her upbringing and a desire for traditional family structures.",
+    "img": "https://static.toiimg.com/photo/msid-130166367,imgsize-20060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nora-fatehi-says-her-comments-on-feminism-were-misinterpreted-extremism-is-something-that-i-am-totally-against/articleshow/130166351.cms",
+    "time": "2026-04-10T10:12:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Preity Zinta shares candid spring break moments with twins",
+    "desc": "Actress Preity Zinta sweetened her fans' feeds with an enchanting update from her family life, showcasing spring break fun with her adorable twins. Describing it as 'pure bliss,' she shared candid moments that reflect the joy of everyday life, right before setting off on her next exciting pursuit.",
+    "img": "https://static.toiimg.com/photo/msid-130165949,imgsize-91638.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/preity-zinta-shares-candid-spring-break-moments-with-twins-in-rare-family-update/articleshow/130165949.cms",
+    "time": "2026-04-10T10:01:22.000Z"
+  },
+  {
     "cat": "World",
     "title": "Worried by hits on Iran nuclear sites, must never happen again: IAEA chief Rafael Grossi",
     "desc": "Rafael Grossi, who is running for the UN Secretary General this year, says ‘war has returned in a furious way to different parts of the world’; he says the UN is still relevant in today’s world",
@@ -28,39 +262,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Protect Bengaluru traffic police from harsh summer; State Police Complaints Authority member urges immediate relief measures",
-    "desc": "In a letter addressed to the DG&IG of Police, SPCA member Mohan Kumar Danappa states that traffic police personnel are forced to perform their duties under direct sunlight, often without access to shade, leading to exhaustion, dehydration, and long-term health risks",
-    "img": "https://th-i.thgim.com/public/incoming/d42g50/article70846362.ece/alternates/LANDSCAPE_1200/IMG_bengaluru_summer__tr_2_1_SEDR8GHV.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/traffic-police-face-harsh-conditions-in-bengaluru-in-summer-spca-member-urges-immediate-relief-measures/article70846311.ece",
-    "time": "2026-04-10T09:48:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'BJP to bring UCC in 6 months': Amit Shah pitches comman civil law in Bengal",
+    "title": "'BJP to bring UCC in 6 months': Amit Shah pitches common civil law in Bengal",
     "desc": "UCC is a proposal to have one common set of personal laws for all citizens in India, covering marriage, divorce, inheritance, and adoption, regardless of religion. It aims to ensure equality before law and promote national integration by replacing religion-based personal laws with a uniform legal framework. In the Bengal polls, where BJP strives to wrest power from three-time chief minister Mamata Banerjee, who fiercely opposes the UCC, the issue is expected to highly polarise the elections.",
     "img": "https://static.toiimg.com/photo/msid-130165609,imgsize-94630.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bjp-to-bring-ucc-in-6-months-amit-shah-pitches-comman-civil-law-in-bengal/articleshow/130165271.cms",
     "time": "2026-04-10T09:45:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala HC quashes government order denying sanction for CBI probe into ₹600 cr. cashew import scam",
-    "desc": "Court summons Principal Secretary of Industries department to appear before it in a contempt plea initiated following denial of sanction for CBI probe into alleged corruption in import of raw cashew between 2006 and 2015 by Kerala Cashew Board",
-    "img": "https://th-i.thgim.com/public/incoming/kv6qdi/article70846796.ece/alternates/LANDSCAPE_1200/IMG_80968_19_8_2024_20_5_2_1_4HD7UTTI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-quashes-government-order-denying-sanction-for-cbi-probe-into-600-cr-cashew-import-scam/article70846762.ece",
-    "time": "2026-04-10T09:43:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bastar and its surrendered Maoists",
-    "desc": "The CAPF camp drive, security grid expansion, wipeout of leadership, erasure of corridors, and other reasons have resulted in Maoists surrendering in Chhattisgarh’s Bastar. Vijaita Singh reports on how the Maoist insurgency has fallen over the past two years, especially since the killing of its top leader Basavaraju last year, followed by the death of nine central committee members in encounters.",
-    "img": "https://th-i.thgim.com/public/incoming/xxu3fy/article70842466.ece/alternates/LANDSCAPE_1200/6744_9_4_2026_14_11_6_1_12_NAXAL_STORY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/chhattisgarh/from-hiding-to-hope-bastar-and-its-surrendered-maoists/article70842402.ece",
-    "time": "2026-04-10T09:40:47.000Z"
   },
   {
     "cat": "Politics",
@@ -74,7 +281,7 @@ const newsData_en = [
   {
     "cat": "Entertainment",
     "title": "'Dhurandhar 2' box office collection day 23 [Live]",
-    "desc": "Ranveer Singh's spy thriller 'Dhurandhar 2' continues its phenomenal run, crossing the Rs 1000 crore mark in its fourth week. Despite the IPL season, the film is holding strong, eyeing Rs 1050 crore. The movie's gripping narrative of an R&AW agent's infiltration has captivated audiences, driving its impressive box office success.",
+    "desc": "The Revenge' continues its impressive box office run, entering its fourth week and surpassing Rs 1050 crore in India. The Ranveer Singh starrer has maintained strong collections despite the IPL, with day 23 earnings pushing its net total to Rs 1,051.06 crore.",
     "img": "https://static.toiimg.com/photo/msid-130165411,imgsize-87736.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-23-live-ranveer-singh-rakesh-bedi-sanjay-dutts-film-eyes-rs-1050-crore/articleshow/130165382.cms",
@@ -106,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ucc-rs-3000-monthly-aid-more-what-bjp-has-promised-in-its-west-bengal-manifesto/articleshow/130164348.cms",
     "time": "2026-04-10T09:00:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "the BJP’s electoral journey in Tamil Nadu",
-    "desc": "The BJP initially capitalised on Hindutva politics in Kanniyakumari, winning its first Assembly seat in 1996; thereafter it tasted success only in alliance with the Dravidian majors; hopes to convert its rising vote share to more seats in 2026",
-    "img": "https://th-i.thgim.com/public/incoming/k4fqrf/article70843583.ece/alternates/LANDSCAPE_1200/4871_31_3_2026_19_11_42_1_DSC_5382.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/from-the-margins-to-momentum-bjps-journey-in-tamil-nadu/article70842982.ece",
-    "time": "2026-04-10T08:57:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -160,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/mumbai-police-uses-bts-song-2-0-in-viral-road-safety-post-fans-react-with-pride/articleshow/130163949.cms",
     "time": "2026-04-10T08:28:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bid to clean up a rotten trail in Hyderabad’s thriving food scene",
-    "desc": "Beneath Hyderabad’s booming food economy lies a dark web of adulteration, mislabelling and unsafe practices. Of late, an unprecedented police-led crackdown is pulling back the curtain on a sprawling food fraud network that thrives on gaps in regulation and consumer trust. But as enforcement tightens and complaints surge, the city finds itself trying not just to fix a broken food chain, but also to restore faith in what lands on every plate, write Serish Nanisetti and Lavpreet Kaur",
-    "img": "https://th-i.thgim.com/public/incoming/qilhf6/article70844575.ece/alternates/LANDSCAPE_1200/Jiyaguda%20slaughterhouse%2003.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/bid-to-clean-up-a-rotten-trail-in-hyderabads-thriving-food-scene/article70844574.ece",
-    "time": "2026-04-10T08:10:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -252,24 +441,6 @@ const newsData_en = [
     "time": "2026-04-10T07:31:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vivek REACTS to rumors of being paid Rs 1 cr for Dhurandhar",
-    "desc": "In a recent social media post, Vivek Sinha, known for his role as hijacker Zahoor Mistry in 'Dhurandhar', has squashed rumors regarding a supposed Rs 1 crore paycheck. The actor asserted that while his earnings were indeed commendable, the circulating amounts are far from the truth. Read the entire article to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130162779,imgsize-68684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-actor-vivek-sinha-breaks-silence-on-rumors-of-being-paid-rs-1-crore-for-the-film-joh-mila-khatam-ho-chuka-hai/articleshow/130162779.cms",
-    "time": "2026-04-10T07:28:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'LIK' review: Pradeep Ranganathan and Anirudh win fans",
-    "desc": "Pradeep Ranganathan's new film 'Love Insurance Kompany' is generating buzz online. The futuristic romantic comedy has opened to varied reactions. Audiences are appreciating the unique plot and the film's visually appealing, high-tech setting. The first half is noted for its entertainment value and the performances of Pradeep Ranganathan and Krithi Shetty. Anirudh Ravichander's music is also a highlight.",
-    "img": "https://static.toiimg.com/photo/msid-130162738,imgsize-180696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/lik-twitter-review-pradeep-ranganathans-futuristic-rom-com-opens-with-mixed-reviews-anirudh-wins-fans/articleshow/130162738.cms",
-    "time": "2026-04-10T07:27:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL winners list from 2008–2025: RCB breaking jinx to CSK's dominance",
     "desc": "The IPL, a global entertainment powerhouse, has seen 18 thrilling seasons since its 2008 debut. Mumbai Indians and Chennai Super Kings lead with five titles each. The article details every champion and runner-up, highlighting key final performances and the evolution of this premier T20 league.",
@@ -277,42 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-winners-list-2008-2025-complete-list-of-champions-mi-csk-rcb-srh-kkr-pbks-rr-gt-lsg-dc/articleshow/130161854.cms",
     "time": "2026-04-10T07:24:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' director H Vinoth slams Thalapathy Vijay's film leak",
-    "desc": "Thalapathy Vijay's upcoming film 'Jana Nayagan' faces a major setback as several scenes have been leaked online, sparking outrage. Director H. Vinoth, producer Dhananjayan, and actor Sibiraj have strongly condemned the piracy, urging fans to refrain from sharing the leaked content and support the film by watching it in theatres. The leak adds to existing delays concerning the film's censorship.",
-    "img": "https://static.toiimg.com/photo/msid-130162616,imgsize-111872.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-director-h-vinoth-slams-thalapathy-vijays-film-leaked-online-says-painful-sibiraj-dhananjayan-react/articleshow/130162616.cms",
-    "time": "2026-04-10T07:21:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Madhuri Dixit’s Mumbai home and latest property deal trail today",
-    "desc": "Beyond her iconic Bollywood status, Madhuri Dixit Nene is making waves in the real estate market. Her carefully curated portfolio spans her stylish abode in Worli, a Juhu apartment she just sold, an overseas property in the US, and a new commercial venture in Malad.",
-    "img": "https://static.toiimg.com/photo/msid-130162468,imgsize-28362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madhuri-dixits-house-in-mumbai-and-latest-property-deals-show-a-sharp-real-estate-strategy/articleshow/130162468.cms",
-    "time": "2026-04-10T07:16:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sam Levinson talks about what inspired ‘Euphoria 3’",
-    "desc": "In a recent interview, creator Sam Levinson shared that the iconic track 'Ride Like the Wind' played a pivotal role in shaping the atmosphere of 'Euphoria 3'. He opened up about the heartbreak he feels following the untimely passing of Angus Cloud, revealing that this loss cast a long shadow over the season's narrative.",
-    "img": "https://static.toiimg.com/photo/msid-130161694,imgsize-56504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/sam-levinson-talks-inspiration-behind-euphoria-3-and-angus-cloud-he-was-someone-i-loved-very-much/articleshow/130161694.cms",
-    "time": "2026-04-10T07:07:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Steven Spielberg says ‘it was a much better movie’ in Nolan’s hands",
-    "desc": "Oscar-winning director Steven Spielberg has made headlines by discussing his initial role in the creation of 'Interstellar.' After spending a year nurturing the project, he ultimately chose to hand the reins to Christopher Nolan, acknowledging that this decision significantly improved the film.",
-    "img": "https://static.toiimg.com/photo/msid-130162126,imgsize-108168.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/steven-spielberg-reveals-he-dropped-interstellar-says-it-was-a-much-better-movie-in-christopher-nolans-hands/articleshow/130162126.cms",
-    "time": "2026-04-10T07:02:18.000Z"
   },
   {
     "cat": "Sports",
@@ -331,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/cash-recovery-row-justice-yashwant-varma-resigns-amid-impeachment-process/articleshow/130162068.cms",
     "time": "2026-04-10T06:55:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Mortal Kombat 2’ Final trailer spotlights Johnny Cage’s true power",
-    "desc": "The electrifying final trailer showcases Karl Urban's powerful Johnny Cage and the iconic \"Techno Syndrome\" theme. This highly anticipated sequel, delayed from its original 2025 slot, now arrives this summer. Expect a tournament-style showdown with returning favorites and formidable new challengers, all vying for the fate of the world.",
-    "img": "https://static.toiimg.com/photo/msid-130161467,imgsize-92678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mortal-kombat-2-final-trailer-spotlights-johnny-cages-true-power/articleshow/130161467.cms",
-    "time": "2026-04-10T06:54:47.000Z"
   },
   {
     "cat": "Politics",
@@ -405,15 +531,6 @@ const newsData_en = [
     "time": "2026-04-10T05:36:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Tridev producer REACTS to use of Oye Oye song in Dhurandhar 2",
-    "desc": "The Revenge', for allegedly using the beloved 'Oye Oye' song from Rai's classic 1989 film 'Tridev' without permission. Rai argues that the newly crafted track, 'Rang De Lal', violates copyright laws due to prior agreements that forbade remixes. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130160046,imgsize-187102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tridev-producer-rajiv-rai-breaks-silence-on-use-of-oye-oye-track-in-dhurandhar-2-says-not-created-the-song-for-some-guy-to-mutilate-it/articleshow/130160046.cms",
-    "time": "2026-04-10T05:33:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Markets rallied as Iran-US ceasefire talks eased tensions; Kospi jumps 1.9%, Nikkei rises 1.5%",
     "desc": "Asian markets surged Friday, buoyed by easing Middle East tensions and a global risk sentiment recovery. Despite this optimism, caution persists over the durability of ceasefires and peace talks, with ongoing strikes in Lebanon a key concern. Investors are advised to focus on pre-conflict fundamentals as opportunities emerge.",
@@ -459,15 +576,6 @@ const newsData_en = [
     "time": "2026-04-10T04:27:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Gujarat Titans leggie proves class is permanent",
-    "desc": "Rashid Khan silenced critics with a match-winning spell for Gujarat Titans against Delhi Capitals. After two lean seasons attributed to delayed back surgery, the leg-spinner showcased his vintage form, taking 3/17 and regaining confidence. He emphasized improved fitness and rhythm as key to his resurgence.",
-    "img": "https://static.toiimg.com/photo/msid-130159150,imgsize-72926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-rashid-khan-rediscovers-spin-bite-gujarat-titans-leggie-proves-class-is-permanent/articleshow/130159070.cms",
-    "time": "2026-04-10T04:21:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "The political system of Cuba is not on the table in any dialogue with the U.S.: Juan Carlos Marsan",
     "desc": "Cuba is facing a severe economic crisis triggered by fuel shortages and U.S. sanctions, with prolonged blackouts and disruptions to daily life; the Cuban Ambassador to India, Juan Carlos Marsan, says the blockade has affected all sectors, even as they remain open to dialogue",
@@ -493,51 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-rr-vs-rcb-match-preview-can-royal-challengers-keep-sooryavanshi-in-check/articleshow/130158786.cms",
     "time": "2026-04-10T04:03:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why is stock market up today? Nifty50 crosses 24,000; BSE Sensex up over 800 points",
-    "desc": "Indian equity benchmarks, Sensex and Nifty50, opened in green in trade on Friday after a day of losses on Thursday. While Nifty50 went above 23,900, BSE Sensex was up over 400 points, crossing the 77,000 mark.",
-    "img": "https://static.toiimg.com/photo/msid-130157196,imgsize-94698.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-april-10-2026-dalal-street-indian-equities-global-markets-us-iran-ceasefire-oil-prices-donald-trump/articleshow/130157179.cms",
-    "time": "2026-04-10T03:48:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings' Prabhsimran latest to benefit from Yuvraj’s mentoring",
-    "desc": "Prabhsimran Singh is finding clarity and confidence, attributing it to a 'big brother' mentorship from Yuvraj Singh. He's focusing on longer innings and impactful batting, aligning with the IPL's accelerated pace. Inspired by MS Dhoni's wicketkeeping, Prabhsimran is now closer to his dream of representing the senior Indian team, fueled by his India A experience.",
-    "img": "https://static.toiimg.com/photo/msid-130158573,imgsize-60648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/the-yuvi-touch-punjab-kings-prabhsimran-latest-to-benefit-from-yuvrajs-mentoring/articleshow/130158503.cms",
-    "time": "2026-04-10T03:41:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Foreign secretary Vikram Misri meets Marco Rubio, Kash Patel in Washington: Key takeaways",
-    "desc": "US Secretary of State Marco Rubio will visit India next month following productive talks with Foreign Secretary Vikram Misri in Washington. Discussions focused on strengthening the bilateral partnership, particularly in trade, defence, critical minerals, and the Quad. Both nations aim to deepen engagement across these vital sectors, enhancing their Comprehensive Global Strategic Partnership.",
-    "img": "https://static.toiimg.com/photo/msid-130158276,imgsize-67156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/foreign-secretary-vikram-misri-meets-marco-rubio-kash-patel-in-washington-key-takeaways/articleshow/130157907.cms",
-    "time": "2026-04-10T03:22:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gone in 34 moves! Nihal Sarin stuns World champion D Gukesh in Menorca",
-    "desc": "Reigning World Champion D Gukesh faced another setback at the Menorca Masters 2026, losing to compatriot Nihal Sarin. Gukesh's early opening misstep allowed Sarin to seize the initiative, leading to a decisive kingside assault and Gukesh's resignation. This loss highlights Gukesh's current slump as he prepares for his title defense, while Sarin surges to the sole lead.",
-    "img": "https://static.toiimg.com/photo/msid-130158062,imgsize-101392.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/gone-in-34-moves-nihal-sarin-stuns-world-champion-d-gukesh-in-menorca/articleshow/130158029.cms",
-    "time": "2026-04-10T03:12:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'To become a finisher like him': Mukul Choudhary reveals his cricketing idol",
-    "desc": "Debutante Mukul Choudhary delivered a match-winning performance, smashing an unbeaten 54 off 27 balls to secure a last-ball victory for Lucknow Super Giants against Kolkata Knight Riders. Inspired by MS Dhoni's finishing prowess, Choudhary's fearless batting showcased his ambition to emulate his idol.",
-    "img": "https://static.toiimg.com/photo/msid-130157617,imgsize-32250.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/to-become-a-finisher-like-him-mukul-choudhary-reveals-his-cricketing-idol/articleshow/130157562.cms",
-    "time": "2026-04-10T02:39:47.000Z"
   },
   {
     "cat": "Sports",
@@ -567,15 +630,6 @@ const newsData_en = [
     "time": "2026-04-10T02:07:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BSF opens up Assam gates for families living beyond Bangladesh border fence to vote",
-    "desc": "Border Security Force personnel facilitated voting for 70 families in Assam's Sribhumi district, living beyond the India-Bangladesh barbed-wire fence. Vehicles and opened gates ensured residents of five villages could cast their ballots, a powerful assertion of their Indian identity. BSF also aided election campaigning in these remote settlements near the Zero Line.",
-    "img": "https://static.toiimg.com/photo/msid-130156750,imgsize-1521404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bsf-opens-up-assam-gates-for-families-living-beyond-bangladesh-border-fence-to-vote/articleshow/130156737.cms",
-    "time": "2026-04-10T01:32:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India’s R Vaishali takes sole lead with four rounds to go",
     "desc": "India's Vaishali Rameshbabu leads the FIDE Candidates 2026 women's section after a draw in the 10th round, showcasing impressive form. However, compatriots Divya Deshmukh and R Praggnanandhaa faced setbacks. Divya's endgame collapse likely ended her championship hopes, while Praggnanandhaa's tactical misstep against Sindarov cost him dearly, impacting India's overall challenge.",
@@ -585,24 +639,6 @@ const newsData_en = [
     "time": "2026-04-10T01:28:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Setback for arms consultant, Delhi HC upholds 'fugitive offender' tag",
-    "desc": "Delhi High Court has affirmed a trial court's decision labeling UK-based arms consultant Sanjay Bhandari a \"fugitive economic offender\" in a money laundering case. The court dismissed Bhandari's appeal, stating that a failed extradition attempt does not absolve him of Indian law violations. This ruling allows authorities to confiscate his assets.",
-    "img": "https://static.toiimg.com/photo/msid-130156699,imgsize-1126235.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/setback-for-arms-consultant-delhi-hc-upholds-fugitive-offender-tag/articleshow/130156685.cms",
-    "time": "2026-04-10T01:28:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Goenka’s emotional hug for Mukul Choudhary goes viral after LSG win",
-    "desc": "Lucknow Super Giants secured a dramatic last-ball victory against Kolkata Knight Riders, with young Mukul Choudhary scripting a sensational unbeaten 54 off 27 balls. The thrilling chase culminated in an emotional embrace between Choudhary and LSG owner Sanjiv Goenka, a moment that resonated widely and highlighted the team's burgeoning talent and spirit.",
-    "img": "https://static.toiimg.com/photo/msid-130156601,imgsize-16342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-sanjiv-goenkas-emotional-hug-for-mukul-choudhary-goes-viral-after-lsg-win-watch/articleshow/130156579.cms",
-    "time": "2026-04-10T01:11:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Dhurandhar 2' FAILS to break 'Dhurandhar' week 3 record",
     "desc": "'Dhurandhar 2' experiences a slowdown, concluding its third week with Rs 110.60 crore. Despite surpassing its predecessor's lifetime earnings, the spy action film failed to break 'Dhurandhar's' third-week collection record. The movie's domestic net collections reached Rs 1,048.42 crore, with a global gross of Rs 1,665.23 crore.",
@@ -610,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-22-ranveer-singh-sara-arjun-arjun-rampal-rakesh-bedi-starrer-completes-week-3-with-rs110-60-crore-haul-falls-short-of-this-dhurandhar-record/articleshow/130156099.cms",
     "time": "2026-04-10T00:38:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Journey started even before I was born': Mukul after winning game for LSG",
-    "desc": "Mukul Choudhary emerged as LSG’s hero with a match-winning unbeaten 54 off 27 balls in a last-ball win over KKR. Reflecting on his journey, he said, \"Our financial condition wasn’t strong,\" delaying his start in cricket. Staying calm under pressure, he added, \"My plan was simple - I wanted to stay till the end.\" Known for his attacking style, he credited belief and patience, saying he always backed himself to finish the game.",
-    "img": "https://static.toiimg.com/photo/msid-130152665,imgsize-30592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/my-journey-started-even-before-i-was-born-mukul-choudhary-after-single-handedly-winning-ipl-game-for-lsg/articleshow/130152622.cms",
-    "time": "2026-04-09T23:30:00.000Z"
   },
   {
     "cat": "Business",

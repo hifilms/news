@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "IPL 2026 વચ્ચે આવ્યા દુખદ સમાચાર, પૂર્વ ભારતીય ક્રિકેટરનું નિધન, BCCI અધ્યક્ષે આપી શ્રદ્ધાંજલિ",
+    "desc": "ભારતીય ક્રિકેટમાં આઈપીએલનો રોમાંચ ચાલી રહ્યો છે. આ વચ્ચે એક પૂર્વ ભારતીય ક્રિકેટરનું નિધન થયું હતું. સીડી ગોપીનાથે 96 વર્ષની ઉંમરે ચેન્નઈમાં અંતિમ શ્વાસ લીધો છે. તેઓ ઈંગ્લેન્ડ સામે ભારતની પ્રથમ ટેસ્ટ જીતેલી ટીમના સભ્ય હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/former-indian-cricketer-cd-gopinath-passes-away-at-the-age-of-96-bcci-pays-tribute-472361 ",
+    "time": "2026-04-10T11:00:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "પ્રથમવાર કાર ખરીદનારાઓ માટે બેસ્ટ ડીલ! 5 લાખથી ઓછામાં આવે છે આ ધાંસૂ કાર",
+    "desc": "5 લાખ રૂપિયાના બજેટમાં ભારતમાં ઘણી શાનદાર એન્ટ્રી-લેવલ કાર ઉપલબ્ધ છે. Maruti Suzuki S-Presso, Maruti Suzuki Alto K10, Renault Kwid, Tata Tiago અને Maruti Suzuki Celerio જેવી કાર ઓછી કિંમત, શાનદાર માઇલેજ અને સીએનજી વિકલ્પની સાથે શાનદાર વિકલ્પ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/cars-under-rs-5-lakh-tata-tiagomaruti-suzuki-s-presso-maruti-suzuki-celerio-472360 ",
+    "time": "2026-04-10T10:37:26.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "મહારાષ્ટ્રમાં છે સૌથી વધારે PNG કનેક્શન, તમિલનાડુ અને કેરળ ટોપ 10માં પણ નથી, જાણો ગુજરાતનો નંબર",
     "desc": "ઈરાન યુદ્ધ પછી, ક્રૂડ ઓઈલનો પુરવઠો ખોરવાઈ ગયો છે, જેના કારણે ખાસ કરીને યુનાઇટેડ સ્ટેટ્સમાં LPGની નોંધપાત્ર અછત સર્જાઈ છે. સરકારે લોકોને PNG તરફ જવા વિનંતી કરી છે. ભારત દેશના કયા રાજ્યોમાં સૌથી વધુ PNG કનેક્શન છે.",
@@ -648,15 +666,6 @@ const newsData_gu = [
     "time": "2026-04-07T10:07:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "6 બોલમાં 6 વિકેટ લેનાર બોલર, ક્રિકેટના ઈતિહાસનો &amp;#039;અતૂટ&amp;#039; રેકોર્ડ, જાણો કોણે કર્યો આ કરિશ્મા",
-    "desc": "ક્રિકેટના ઈતિહાસમાં એવા રેકોર્ડ બન્યા છે, જેણે બધાને ચોંકાવી દીધા છે. કોઈ ખેલાડીએ 100 સદી ફટકારી છે, તો કોઈએ ટેસ્ટમાં 800 વિકેટ મેળવી છે. શું તમે તે ખેલાડી વિશે જાણો છો જેણે એક ઓવરમાં સૌથી વધુ વિકેટ લીધી છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/6-wickets-in-6-balls-aled-carey-and-gareth-morgan-cricket-unique-records-471867 ",
-    "time": "2026-04-07T09:13:33.000Z"
-  },
-  {
     "cat": "World",
     "title": "કઈંક મોટું થવાના એંધાણ! ટ્મ્પની ધમકીઓ બાદ આકાશમાં જોવા મળ્યું ડૂમ્સડે પ્લેન, શું કયામતની રાત ઢૂંકડી છે?",
     "desc": "ઈરાન અને અમેરિકા વચ્ચે ચાલી રહેલું યુદ્ધ ભીષણ થશે કે પછી યુદ્ધવિરામ અમલમાં આવશે? ટ્રમ્પની ધમકીઓ અને ઈરાનની વળતી ધમકીઓ કઈક અલગ જ મિજાજ દર્શાવે છે. પરંતુ આ બધા વચ્ચે અમેરિકાનું ડૂમ્સડે પ્લેન જોવા મળતા ખળભળાટ મચી ગયો છે. જાણો આ ડૂમ્સડે પ્લેન શું છે અને તે ક્યારે જોવા મળે છે?",
@@ -817,15 +826,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/e20-petrol-is-mandatory-in-all-over-india-from-april-1-know-all-details-471120 ",
     "time": "2026-04-01T14:50:53.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "આજથી ટાટાની કાર થઈ મોંઘી... જાણો પંચ, નેક્સોન, હેરિયર અને ટિયાગોની નવી કિંમતો",
-    "desc": "આજથી એટલે કે 1 એપ્રિલથી ટાટા મોટર્સની કાર ખરીદવી વધુ મોંઘી થઈ ગઈ છે. કંપનીએ અગાઉ તેના વાહનોના ભાવમાં વધારો કરવાનો ઇરાદો જાહેર કર્યો હતો. હવે તેના વિવિધ મોડેલોમાં ભાવ વધારા અંગેની ચોક્કસ વિગતો પણ જાહેર કરવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/tata-car-price-hike-april-2026-tata-nexon-punch-tiago-harrier-471093 ",
-    "time": "2026-04-01T11:05:56.000Z"
   },
   {
     "cat": "Entertainment",
