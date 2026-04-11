@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Daryl Mitchell refuses to face Pakistan's Usman Tariq in PSL 2026 over controversial bowling action",
+    "desc": "The 18th game of the ongoing PSL (Pakistan Super League) saw Quetta Gladiators taking on Rawalpindiz. While Gladiators registered a brilliant victory in the game, a moment between Daryl Mitchell and Usman Tariq managed to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/daryl-mitchell-refuses-to-face-pakistan-s-usman-tariq-in-psl-2026-over-controversial-bowling-action-watch-2026-04-11-1037139",
+    "time": "2026-04-11T06:21:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will weather in New Chandigarh fare for IPL 2026 game 17?",
+    "desc": "The stage is set for the 17th game of the ongoing IPL (Indian Premier League) 2026. Punjab Kings will take on Sunrisers Hyderabad at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, on April...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-srh-weather-report-how-will-weather-in-new-chandigarh-fare-for-ipl-2026-game-17-2026-04-11-1037132",
+    "time": "2026-04-11T05:12:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Sooryavanshi breaks down his mentality against big names after brilliant knock against RCB",
     "desc": "Vaibhav Sooryavanshi is the name on everybody’s mind with the ongoing IPL (Indian Premier League) 2026 season. The 15-year-old superstar has lit the marquee tournament on fire with his brilliant performances for Rajasthan Royals and...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-jacob-duffy-not-playing-for-rcb-vs-rr-in-ipl-2026-clash-at-barsapara-cricket-stadium-in-guwahati-2026-04-10-1037090",
     "time": "2026-04-10T14:46:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is toss delayed in RR vs RCB clash at Barsapara Cricket Stadium in Guwahati in IPL 2026?",
-    "desc": "The toss between Rajasthan Royals and Royal Challengers Bengaluru has been delayed due to heavy rain. The surface has been put under covers for the time being. Notably, there was little to no possibility of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-toss-delayed-in-rr-vs-rcb-clash-at-barsapara-cricket-stadium-in-guwahati-in-ipl-2026-2026-04-10-1037081",
-    "time": "2026-04-10T13:37:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Josh Hazlewood recovers from injury, included in playing XI for RCB vs RR in IPL 2026 clash",
-    "desc": "Royal Challengers Bengaluru are playing their third game of IPL 2026 today as they are facing Rajasthan Royals in the 15th match of the season at the Barsapara Cricket Stadium in Guwahati. RCB have received...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-josh-hazlewood-not-playing-for-rcb-vs-rr-in-ipl-2026-clash-at-barsapara-stadium-in-guwahati-2026-04-10-1037080",
-    "time": "2026-04-10T13:36:39.000Z"
   }
 ];
