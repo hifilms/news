@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Chennai Super Kings end losing streak to register maiden IPL 2026 win, beat Delhi Capitals by 23 runs",
+    "desc": "Chennai Super Kings finally opened their account in the Indian Premier League 2026 after defeating Delhi Capitals at the MA Chidambaram Stadium in Chennai on Saturday, April 11. After suffering three consecutive losses to start...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/chennai-super-kings-end-losing-streak-to-register-maiden-ipl-2026-win-beat-delhi-capitals-by-23-runs-2026-04-11-1037203",
+    "time": "2026-04-11T18:02:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cool-headed Shreyas Iyer guides PBKS home after Prabharya's blitzkrieg against SRH, Kings remain unbeaten",
+    "desc": "Shreyas Iyer's ice-cool knock powered Punjab Kings past a strong 220-run target against Sunrisers Hyderabad in their fourth match of the Indian Premier League 2026 on Saturday, April 11. Chasing 220, Iyer scored a cool-headed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cool-headed-shreyas-iyer-guides-pbks-home-after-prabharya-s-blitzkrieg-against-srh-kings-remain-unbeaten-2026-04-11-1037197",
+    "time": "2026-04-11T16:13:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sanju Samson shatters MS Dhoni's all-time historical record, becomes first centurion in IPL 2026",
     "desc": "Chennai Super Kings star Sanju Samson has created history for his franchise. In what can be seen as the passing of the baton from MS Dhoni to Samson, the Trivandrum wicketkeeper has shattered the CSK talisman's...",
     "img": "",
@@ -28,8 +46,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Samson eyes historic hundred, Super Kings going strong at Chepauk",
-    "desc": "Chennai Super Kings are desperate to open their account as they take on Delhi Capitals in their fourth clash in the Indian Premier League 2026. The five-time champions have endured a frustrating start to the...",
+    "title": "Chennai Super Kings win by 23 runs to bag first tournament win",
+    "desc": "Chennai Super Kings registered a convincing 23-run victory over Delhi Capitals to secure their first win of the Indian Premier League 2026, putting an end to their early-season struggles. Playing at their home ground in...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-dc-ipl-2026-live-cricket-score-chennai-super-kings-vs-delhi-capitals-ma-chidambaram-stadium-chennai-latest-match-updates-scorecard-teams-2026-04-11-1037182",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-liam-livingstone-not-playing-for-srh-in-ipl-2026-clash-against-pbks-in-new-chandigarh-2026-04-11-1037162",
     "time": "2026-04-11T10:15:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings look to chase 220 against Sunrisers in New Chandigarh",
-    "desc": "Punjab Kings and Sunrisers Hyderabad take on each other at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh for the 17th game of the ongoing IPL (Indian Premier League) 2026. It is worth noting that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-srh-live-cricket-score-punjab-kings-aim-to-keep-unbeaten-run-alive-2026-04-11-1037157",
-    "time": "2026-04-11T09:25:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It is ridiculous': Former Australia cricketer lauds Vaibhav Sooryavanshi's masterclass knock against RCB",
-    "desc": "Rajasthan Royals continued their unbeaten run in the ongoing IPL (Indian Premier League) 2026. The side took on defending champions Royal Challengers Bengaluru at the Barsapara Stadium in Guwahati on April 10, and Royals managed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-australia-cricketer-lauds-vaibhav-sooryavanshi-s-masterclass-knock-against-rcb-2026-04-11-1037152",
-    "time": "2026-04-11T08:42:31.000Z"
   }
 ];

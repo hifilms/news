@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "শনি রাতেই ভয়ংকর খবরে বিধ্বস্ত বলিউড: হৃদরোগে আক্রান্ত আশা ভোঁসলে ব্রিচ ক্যান্ডি হাসপাতালে",
+    "desc": "হৃদযন্ত্রের সমস্যার পাশাপাশি তাঁর ফুসফুসেও সংক্রমণ ধরা পড়েছে, যার ফলে শ্বাস নিতে সমস্যা হচ্ছে। যদিও হাসপাতালের সর্বশেষ তথ্য অনুযায়ী তাঁর অবস্থা বর্তমানে 'স্থিতিশীল', তবে বয়সজনিত কারণে চিকিৎসকরা আগামী ৪৮ থেকে ৭২ ঘণ্টা তাঁকে কড়া পর্যবেক্ষণে রাখতে চান।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/entertainment-news-asha-bhosle-suffers-cardiac-arrest-hospitalised-in-breach-candy-hospital_648378.html ",
+    "time": "2026-04-11T15:59:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "মাত্র ৩৯-এ সব শেষ, মারা যাওয়ার পর হাসপাতাল বিল মেটানোর ৩৫০০ টাকাও নেই: বিখ্যাত নায়িকার করুণ পরিণতি",
     "desc": "মীনাকুমারী—রুপোলি পর্দার ‘ট্র্যাজেডি কুইন’। যাঁর চোখের জল আর অভিনয়ের গভীরতা দশকের পর দশক দর্শকদের মন্ত্রমুগ্ধ করে রেখেছে। কিন্তু পর্দার সেই বিষাদ যে তাঁর বাস্তব জীবনেরও প্রতিচ্ছবি ছিল, তা হয়তো অনেকেরই অজানা। সম্প্রতি এই কিংবদন্তি অভিনেত্রীর প্রয়াণ দিবসে উঠে এল তাঁর জীবনের এক চরম সত্য।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -196,14 +205,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/iran-attacks-saudi-arabias-largest-industrial-hub_647798.html ",
     "time": "2026-04-07T09:18:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

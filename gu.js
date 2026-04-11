@@ -324,15 +324,6 @@ const newsData_gu = [
     "time": "2026-04-09T18:18:45.000Z"
   },
   {
-    "cat": "Business",
-    "title": "મોદી સરકારનો DA પર મોટો નિર્ણય, 3 કેટેગરીમાં કરવામાં આવ્યો બદલાવ",
-    "desc": "સામાન્ય રીતે હોળીની આસપાસ સરકાર દ્વારા કેન્દ્રીય કર્મચારીઓના મોંઘવારી ભથ્થા (DA)માં વધારા અંગે નિર્ણય લેવામાં આવે છે. જો કે, આ વખતે હોળીને એક મહિનાથી વધુ સમય વીતી ગયો હોવા છતાં DA પર કોઈ નિર્ણય લેવાયો નથી. હવે સરકારે વેરિયેબલ ડીએ (VDA)માં વધારો કર્યો છે. ચાલો જાણીએ કે, તેનો લાભ કોને મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/modi-government-major-decision-on-variable-dearness-allowance-changes-made-to-3-categories-472268 ",
-    "time": "2026-04-09T17:03:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026 વચ્ચે ભારતીય ક્રિકેટમાં ફેલાયો શોક, આ ખેલાડીનું થયું નિધન, જાણો",
     "desc": "હાલ દેશમાં IPLનો માહોલ ચાલી રહ્યો છે, તેની વચ્ચે એક દુ:ખદ સમાચાર સામે આવ્યા છે, ત્યારે ક્રિકેટ જગતમાં શોકનું મોજુ ફરી વળ્યું છે, જો કે તેમને ભારતને પહેલી ટેસ્ટમાં જીત અપવવા માટે અથાક મહેનત કરી હતી, તેમને અંતિમ શ્વાસ ચેન્નઈમાં લીધા છે.",
@@ -772,15 +763,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/kangana-experience-of-first-period-bedsheet-was-full-of-blood-thought-father-will-not-love-471315 ",
     "time": "2026-04-03T06:08:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રામાયણ ફિલ્મનું મંત્રમુગ્ધ કરી દેવું ટીઝર રિલીઝ, રણબીર કપૂરના લુકને જોઈ તમે પણ કહેશો વાહ",
-    "desc": "હનુમાન જયંતિના પર્વ પર રણબીર કપૂરની મચઅવેટેડ ફિલ્મ રામાયણનું ટીઝર રિલીઝ કરી દેવામાં આવ્યું છે. ફિલ્મની એક ઝલક જોવા માટે લોકો આતુર હતા. ફિલ્મની ઝલક જોવા માટે જે રાહ જોવી પડી તે વસુલ થઈ જાય તેવું ટીઝર રિલીઝ કરવામાં આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/nitesh-tiwari-film-ramayana-teaser-released-on-hanuman-jayanti-ranbir-kapoor-nailed-it-as-rama-471161 ",
-    "time": "2026-04-02T06:32:22.000Z"
   },
   {
     "cat": "Tech",

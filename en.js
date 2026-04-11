@@ -1,21 +1,228 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "YSRCP bent on creating uncertainty on Amaravati, says Municipal Administration Minister Narayana",
-    "desc": "The intention behind YSRCP president Jagan Mohan Reddy’s strange ‘MAVIGUN’ plan is to keep the people, especially farmers in the capital region, nervous, he says, while asserting that the capital works are progressing at a fast pace and 98.60% of the allocation of returnable plots has been completed",
-    "img": "https://th-i.thgim.com/public/incoming/ngamw/article70851601.ece/alternates/LANDSCAPE_1200/Amaravati-greenGCKF8L0OL.3.jpg.jpg",
+    "title": "J&amp;K: Dogs maul 8-year-old girl to death in Sopore",
+    "desc": "An eight-year-old girl was tragically mauled to death by dogs in Sopore's Seloo village, marking the second such fatality in the area within a year. The child suffered severe injuries in an apple orchard attack. Local residents are shaken, with some alleging dog relocation is exacerbating the problem.",
+    "img": "https://static.toiimg.com/photo/msid-130198031,imgsize-672944.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-dogs-maul-8-year-old-girl-to-death-in-sopore/articleshow/130198019.cms",
+    "time": "2026-04-11T18:32:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Poor delivery of schemes, lack of support for farm sector, major talking points in Madurantakam constituency",
+    "desc": "Farmers say that during the peak season, the DPCs find it difficult to process and move the large volume of paddy that they deposit there. Payments are often delayed too, sometimes for over a month to three months. Irulars in the constituency say they face stigmatisation and live in abject poverty",
+    "img": "https://th-i.thgim.com/public/incoming/xgx6lv/article70835923.ece/alternates/LANDSCAPE_1200/11658_6_4_2026_18_17_57_2_2.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-bent-on-creating-uncertainty-on-amaravati-says-municipal-administration-minister-narayana/article70851442.ece",
-    "time": "2026-04-11T15:15:12.000Z"
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/poor-delivery-of-schemes-lack-of-support-for-the-farm-sector-major-talking-points-in-madurantakam/article70831834.ece",
+    "time": "2026-04-11T18:22:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Familiar foes trying to recover lost ground in State’s southern districts",
+    "desc": "The AIADMK is facing a two-pronged attack from its former coordinator O. Panneerselvam and former interim general secretary V.K. Sasikala; while the former, now with the DMK, has addressed 40 meetings in the southern region, the latter, who now heads the AIPTMMK, will begin her tour today",
+    "img": "https://th-i.thgim.com/public/news/national/rsaveo/article70831813.ece/alternates/LANDSCAPE_1200/ops.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/familiar-foes-trying-to-recover-lost-ground-in-southern-districts-of-tn/article70831058.ece",
+    "time": "2026-04-11T17:57:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India win the battle, lose the war and fail to make playoffs",
+    "desc": "India beat Korea 2-1 to win their fifth and final tie in the Billie Jean King Cup. India had to win 3-0 and needed other result to go their way, but neither worked out. India finished third in the group and will not qualify for the playoffs.",
+    "img": "https://static.toiimg.com/photo/msid-130197205,imgsize-43476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/bjk-cup-india-win-the-battle-lose-the-war-and-fail-to-make-playoffs/articleshow/130196817.cms",
+    "time": "2026-04-11T17:53:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jayakanthan’s ‘Cinemavukku Pona Chitthalu’: on the influence of film personalities on the masses",
+    "desc": "Jayakanthan’s novella, ‘Cinemavukku Pona Chitthalu,’ explores the impact of film culture on identity and social dynamics through the story of Kamsalai, a devoted admirer of Tamil cinema icon M.G. Ramachandran (MGR). Set in Chennai, the narrative captures a time when MGR’s influence shaped Tamil Nadu’s political landscape.",
+    "img": "https://th-i.thgim.com/public/news/national/wabe67/article70831799.ece/alternates/LANDSCAPE_1200/cartoon.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/theblurredline-between-reality-and-illusion-the-influence-of-film-personalities-on-the-masses/article70830894.ece",
+    "time": "2026-04-11T17:52:52.000Z"
   },
   {
     "cat": "Sports",
     "title": "IPL 2026",
-    "desc": "CRICKET | The major worry for the host is its bowling unit which is yet to click while the star-studded batting line-up has shown only flashes of brilliance; the Krunal vs Hardik duel adds an interesting sub-plot to the contest already headlined by the Rohit-Virat match-up",
-    "img": "https://th-i.thgim.com/public/incoming/2kts8l/article70851589.ece/alternates/LANDSCAPE_1200/11908_11_4_2026_20_18_40_1_DSC_2748.JPG",
+    "desc": "“There could have been another reason for introducing Shashank because he has dismissed Abhishek once before. He got him out again today. Abhishek and Head were batting really well, and we got back into the match only after those two wickets,” says Prabhsimran",
+    "img": "https://th-i.thgim.com/public/incoming/sezp8g/article70851964.ece/alternates/LANDSCAPE_1200/IPL%202026%2035.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-royal-challengers-bengaluru-will-aim-to-breach-the-fort-against-a-stuttering-mumbai-indians/article70851261.ece",
-    "time": "2026-04-11T15:04:43.000Z"
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-when-you-are-going-for-a-big-chase-you-have-to-cash-in-on-the-powerplay-prabhsimran/article70851968.ece",
+    "time": "2026-04-11T17:21:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajinikanth played a pivotal role in giving Ektaa her first show",
+    "desc": "Legendary actor Rajinikanth's timely intervention helped Ekta Kapoor secure her first television break in a South Indian show. This initial success, despite initial skepticism about her background, paved the way for her Hindi television ventures, including the iconic 'Kyunki Saas Bhi Kabhi Bahu Thi', solidifying her industry legacy.",
+    "img": "https://static.toiimg.com/photo/msid-130196540,imgsize-46976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajinikanth-played-a-pivotal-role-in-giving-ekta-kapoor-her-first-show-he-saw-i-was-upset/articleshow/130196461.cms",
+    "time": "2026-04-11T17:18:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Deal struck by bigwigs long back': Tejashwi Yadav claims JD(U) leaders ‘intimidated’ by BJP forced Nitish Kumar exit",
+    "desc": "Tejashwi Yadav alleged Nitish Kumar is stepping down as Bihar CM under pressure from within JD(U), with some colleagues allegedly intimidated or allured by ally BJP. Yadav claimed a deal was struck long ago, not made public due to assembly polls. He cited visuals of Kumar being prevented from speaking to media as proof of pressure.",
+    "img": "https://static.toiimg.com/photo/msid-130196371,imgsize-766879.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/deal-struck-by-bigwigs-long-back-tejashwi-yadav-claims-jdu-leaders-intimidated-by-bjp-forced-nitish-kumar-exit/articleshow/130196366.cms",
+    "time": "2026-04-11T17:12:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election 2026: O. Panneerselvam files nomination in Bodi; lashes out at Edappadi Palaniswam",
+    "desc": "AIADMK has already been facing defeat after defeat and will continue to decline; under the leadership of Chief Minister M. K. Stalin, the DMK will form the government again and implement more beneficial programmes for the people of Tamil Nadu, says OPS",
+    "img": "https://th-i.thgim.com/public/incoming/jbzx4p/article70830949.ece/alternates/LANDSCAPE_1200/10216_6_4_2026_16_34_52_2_06_04_2026_OPS_NOMINATION_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/o-panneerselvam-files-nomination-in-bodi-lashes-out-at-edappadi-palaniswami/article70830308.ece",
+    "time": "2026-04-11T17:11:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election 2026: Thirumayam constituency battles a slew of problems",
+    "desc": "Encompassing Thirumayam, Arimalam, and Ponnamaravathy unions, the constituency continues to remain industrially backward necessitating many educated youth to move out in search of employment; farmers complain that sufficient attention has not been paid to water management in this rain-fed region",
+    "img": "https://th-i.thgim.com/public/news/cities/Tiruchirapalli/rxg06b/article70831054.ece/alternates/LANDSCAPE_1200/07MA_NEW_TIRUMAYAM.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/thirumayam-constituency-battles-a-slew-of-problems/article70829770.ece",
+    "time": "2026-04-11T17:06:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Many killed in multi-vehicle collision in Bihar’s Katihar",
+    "desc": "Ten people were killed and 25 others injured following a collision involving a bus, a truck, and a pickup van in Bihar’s Katihar district on Saturday (April 11, 2026) evening, a police officer said. The accident took place at 6.30 p.m. on NH 31 in Kodha block of Katihar.",
+    "img": "https://th-i.thgim.com/public/incoming/pkwhgc/article70851979.ece/alternates/LANDSCAPE_1200/katihar%20accident.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-many-killed-in-multi-vehicle-collision-in-bihars-katihar/article70851980.ece",
+    "time": "2026-04-11T17:04:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "35-year-old man arrested after sexually assaulting five-year-old girl in Chhattisgarh’s Durg",
+    "desc": "According to the police, the accused lured the girl into his house on the pretext of giving her chocolates; girl, who was found gagged and abandoned in a sack, hospitalised and her condition is stable, say police",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/35-year-old-man-arrested-after-sexually-assaulting-five-year-old-girl-in-chhattisgarhs-durg/article70851154.ece",
+    "time": "2026-04-11T16:53:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Iyer credits Shashank for breaking SRH's momentum",
+    "desc": "A captain's trust in a part-timer, Shashank Singh, proved pivotal as he dismissed both Sunrisers openers, shifting the game's momentum. Sunrisers bowling coach acknowledged the absence of Pat Cummins and admitted their innings fell short of expectations, despite a strong start, crediting Punjab's bowlers for their effective middle-overs performance.",
+    "img": "https://static.toiimg.com/photo/msid-130195965,imgsize-31814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-shreyas-iyer-credits-shashank-singh-for-breaking-srhs-momentum/articleshow/130195974.cms",
+    "time": "2026-04-11T16:49:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED conducts raid at ex-Bengal minister Partha Chatterjee’s residence in school jobs scam",
+    "desc": "Enforcement Directorate officials conducted a five-hour raid at former West Bengal education minister Partha Chatterjee's residence in connection with the school jobs scam. The action follows Chatterjee's alleged failure to respond to summons after his release on bail. The investigation, linked to a multi-crore recruitment scam, previously saw significant cash seizures.",
+    "img": "https://static.toiimg.com/photo/msid-130195973,imgsize-975608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ed-conducts-raid-at-ex-bengal-minister-partha-chatterjees-residence-in-school-jobs-scam/articleshow/130195916.cms",
+    "time": "2026-04-11T16:49:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress veteran Dhanushkodi Athithan calls for making the party a people’s movement",
+    "desc": "Dhanuskodi Athithan, a long-standing Congress leader and former Union Minister of State for Youth Affairs and Sport, wants the party to do field work and take up people’s issues. “Look at Tirunelveli and Kanniyakumari districts where the party is still strong. This is because of this approach,” he points out",
+    "img": "https://th-i.thgim.com/public/incoming/2ilhfl/article70827516.ece/alternates/LANDSCAPE_1200/2315_4_4_2026_17_5_34_2_DANUSHKODIADITYAN12.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/dhanushkodi-athithan-a-congress-veteran-calls-for-making-the-party-a-peoples-movement/article70827348.ece",
+    "time": "2026-04-11T16:49:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A debate on the tenure of Election Commission-appointed police chief in Tamil Nadu",
+    "desc": "However, the EC order did not specify a tenure for him. The question is whether Mr. Rathore would be entitled to a minimum two-year tenure, as mandated by the Supreme Court in the landmark Prakash Singh case. However, this ruling applies only to appointments made through the UPSC-led process",
+    "img": "https://th-i.thgim.com/public/incoming/qsvlr/article70827287.ece/alternates/LANDSCAPE_1200/SANDEEP%20RAI%20RATHORE%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-debate-on-the-tenure-of-election-commission-appointed-police-chief/article70827278.ece",
+    "time": "2026-04-11T16:46:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 DC vs CSK",
+    "desc": "After being asked to bat first, the CSK man brought up his first substantial knock in a Yellow jersey, and was involved in an excellent stand with Mhatre for the second wicket -- 113 runs in a little over 11 overs.",
+    "img": "https://th-i.thgim.com/public/incoming/auxb29/article70851936.ece/alternates/LANDSCAPE_1200/DSC_2405.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-chennai-super-kings-delhi-capitals-match-updates/article70851358.ece",
+    "time": "2026-04-11T16:40:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Annamalai slams DMK over governance, corruption",
+    "desc": "K Annamalai highlighted public concerns on drug abuse, school quality, and roads, accusing the ruling DMK of inaction. He alleged a Rs 160 crore corruption scam involving a minister, with evidence submitted to DVAC. Annamalai anticipates political shifts within the DMK post-2026 elections and predicts a significant defeat for Senthil Balaji.",
+    "img": "https://static.toiimg.com/photo/msid-130195805,imgsize-726701.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-polls-annamalai-slams-dmk-over-governance-corruption/articleshow/130195786.cms",
+    "time": "2026-04-11T16:39:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Youth Congress leader stabbed to death, six questioned so far",
+    "desc": "In ghastly incident, a Youth Congress leader was stabbed to death by miscreants in his home in Dharwad on Friday night and the Hubballi Dharwad Police have questioned six suspects so far in connection with the murder.",
+    "img": "https://th-i.thgim.com/public/incoming/4u0448/article70851914.ece/alternates/LANDSCAPE_1200/2699_11_4_2026_21_26_31_1_12HUBLIFAIROZMURDER.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/youth-congress-leader-stabbed-to-death-six-questioned-so-far/article70850916.ece",
+    "time": "2026-04-11T16:30:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Teams led by CSIR women scientists report advances in research on depression mechanisms in females",
+    "desc": "A group of scientists at Hyderabad’s CSIR-IICT are leading transformative research in decoding female-specific depression mechanisms. Their work not only addresses critical scientific gaps but also advances inclusive healthcare solutions, highlighting the growing impact of women in India’s research ecosystem",
+    "img": "https://th-i.thgim.com/public/incoming/owwqcz/article70850203.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-11%20at%2010.48.33.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/teams-led-by-csir-women-scientists-report-advances-in-research-on-depression-mechanisms-in-females/article70846831.ece",
+    "time": "2026-04-11T16:07:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Very odd': CSK criticised for retiring out Ayush Mhatre on 59 off 36",
+    "desc": "Chennai Super Kings sparked controversy by retiring out Ayush Mhatre on 59 during their IPL 2026 clash against Delhi Capitals. Despite his strong knock and partnership with Sanju Samson (115*), CSK opted for Shivam Dube to accelerate late scoring. While the move worked, fans called it “very odd,” questioning the rare tactical decision to remove a well-set batter.",
+    "img": "https://static.toiimg.com/photo/msid-130195181,imgsize-49128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/very-odd-csk-retire-out-ayush-mhatre-on-59-off-36-internet-reacts-in-ipl/articleshow/130194827.cms",
+    "time": "2026-04-11T16:06:54.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Bangladesh mob beats spiritual leader to death",
+    "desc": "Shamim Reza Jahangir, believed to be in his 60s, died from his injuries after hundreds of people stormed his residence in Kushtia district and thrashed him with sticks, says chief administrative official Touhid bin Hasan",
+    "img": "https://th-i.thgim.com/public/incoming/isxqp2/article70851807.ece/alternates/LANDSCAPE_1200/iStock-1481903146.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/bangladesh-mob-beats-spiritual-leader-to-death/article70851787.ece",
+    "time": "2026-04-11T16:03:59.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Colombia retaliates with 100% tariffs on Ecuador",
+    "desc": "The two countries have been engaged in a trade war for months, with Ecuador's right-wing President Daniel Noboa criticising his leftist counterpart Gustavo Petro for failing to crack down on drug trafficking and illegal mining along their shared border.",
+    "img": "https://th-i.thgim.com/public/incoming/uqvcm3/article70851764.ece/alternates/LANDSCAPE_1200/Ecuador_Colombia_82373.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/colombia-retaliates-with-100-tariffs-on-ecuador/article70851750.ece",
+    "time": "2026-04-11T15:49:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Asha Bhosle admitted to hospital due to chest infection",
+    "desc": "Legendary singer Asha Bhosle was rushed to the hospital on Saturday night. Reports confirm she suffered a heart attack. She is currently admitted to Breach Candy Hospital in Mumbai. Bhosle, a celebrated voice in Indian music, has had a career spanning over seven decades. Her vast filmography includes thousands of songs across various languages.",
+    "img": "https://static.toiimg.com/photo/msid-130196004,imgsize-34010.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/legendary-singer-asha-bhosle-suffers-a-heart-attack-rushed-to-breach-candy-hospital-in-mumbai/articleshow/130194960.cms",
+    "time": "2026-04-11T15:47:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson roars back with IPL hundred, joins Rohit Sharma and Virat Kohli in elite club",
+    "desc": "Sanju Samson silenced critics with a magnificent century for Chennai Super Kings against Delhi Capitals in IPL 2026. After a shaky start to his CSK career, Samson anchored the innings with a brilliant 102*, including a vital partnership with Ayush Mhatre. This commanding knock, his fourth IPL ton, also saw him cross 400 T20 sixes, cementing his return to form.",
+    "img": "https://static.toiimg.com/photo/msid-130194715,imgsize-116794.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/sanju-samson-roars-back-with-ipl-hundred-joins-rohit-sharma-and-virat-kohli-in-elite-club/articleshow/130194732.cms",
+    "time": "2026-04-11T15:35:11.000Z"
   },
   {
     "cat": "Sports",
@@ -43,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/bournemouth-stun-arsenal-2-1-at-the-emirates-to-dent-premier-league-title-push/articleshow/130194150.cms",
     "time": "2026-04-11T14:49:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Preparations in progress for Kollam Pooram",
-    "desc": "A total of 26 elephants will participate in the festivities this year. Animal Husbandry department issues guidelines to ensure the safety of the public and the well-being of the participating elephants throughout the day’s events.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/preparations-in-progress-for-kollam-pooram/article70851167.ece",
-    "time": "2026-04-11T14:37:17.000Z"
   },
   {
     "cat": "Sports",
@@ -334,15 +532,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Batter has every right': Ashwin supports Daryl Mitchell after Tariq's 'Pause' drama",
-    "desc": "Ravichandran Ashwin backs Daryl Mitchell's stance against Usman Tariq's unusual bowling pause in the PSL. Ashwin asserts batters can step away if the bowler's rhythm is disrupted, urging umpires to monitor consistency. He believes such tactics should be addressed pre-game, commending Mitchell for highlighting the issue.",
-    "img": "https://static.toiimg.com/photo/msid-130188330,imgsize-416862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/batter-has-every-right-ravichandran-ashwin-supports-daryl-mitchell-after-tariqs-pause-drama-in-psl/articleshow/130188266.cms",
-    "time": "2026-04-11T09:15:44.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Sindarov, Gukesh's likely challenger, cracks code for sponsorship woes in chess",
     "desc": "Uzbekistan's Javokhir Sindarov is on the cusp of winning the FIDE Candidates 2026, poised to challenge World Champion D Gukesh. His rapid play and impressive unbeaten streak have captivated the chess world. Managed by Tom Guilbaud, Sindarov's career has transformed from obscurity to a top contender, aided by strategic social media promotion and newfound sponsorships.",
     "img": "https://static.toiimg.com/photo/msid-130187960,imgsize-42416.cms",
@@ -358,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/wednesday-star-joy-sunday-talks-playing-detective-in-dtf-st-louis-alongside-richard-jenkins-exclusive/articleshow/130187428.cms",
     "time": "2026-04-11T09:08:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘I know my limits’: Tamil Nadu CM MK Stalin plays down national role, projects big win in upcoming polls",
-    "desc": "Tamil Nadu CM M.K. Stalin downplayed national ambitions, stating he knows his limits, while confidently predicting a DMK-led alliance sweep of over 200 seats in the upcoming Assembly elections. He highlighted welfare schemes and attacked rivals AIADMK and BJP, accusing the former of lacking ideology and being controlled by Delhi.",
-    "img": "https://static.toiimg.com/photo/msid-130187885,imgsize-83262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/i-know-my-limits-tamil-nadu-cm-mk-stalin-plays-down-national-role-projects-big-win-in-upcoming-polls/articleshow/130187214.cms",
-    "time": "2026-04-11T08:55:44.000Z"
   },
   {
     "cat": "Entertainment",
@@ -414,33 +594,6 @@ const newsData_en = [
     "time": "2026-04-11T08:53:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Teddi Mellencamp talks about new romance",
-    "desc": "an uplifting romance with a charming older gentleman known as 'Derek'. As they navigate the complexities of blending their families, Teddi is savoring every moment, drawn to his infectious laughter and inspiring perspective on life.",
-    "img": "https://static.toiimg.com/photo/msid-130187694,imgsize-60670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/teddi-mellencamp-says-he-makes-me-laugh-talks-about-new-romance-with-older-man-amid-cancer-battle/articleshow/130187694.cms",
-    "time": "2026-04-11T08:40:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Parkinson’s disease: The brain disorder that often begins silently years before tremors appear",
-    "desc": "Mr. Bipin's subtle tremors and slowed movements foreshadowed a Parkinson's diagnosis, a progressive neurological disorder affecting millions. Beyond visible motor symptoms like tremors and stiffness, Parkinson's also presents with often-missed non-motor signs such as sleep disturbances and mood changes, highlighting the need for early recognition and comprehensive support.",
-    "img": "https://static.toiimg.com/photo/msid-130187602,imgsize-950162.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/parkinsons-disease-the-brain-disorder-that-often-begins-silently-years-before-tremors-appear/articleshow/130187574.cms",
-    "time": "2026-04-11T08:35:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Varma recalls struggle after 'Monsoon Shootout",
-    "desc": "Actor Vijay Varma shares his journey from early career struggles to overcoming typecasting. Despite a Cannes premiere, he faced years of idleness and limited roles. His role in 'Gully Boy' marked a turning point, allowing him to break free from restrictive brackets. Varma is now awaiting the release of his upcoming series 'Matka King'.",
-    "img": "https://static.toiimg.com/photo/msid-130187639,imgsize-26190.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vijay-varma-recalls-struggle-after-monsoon-shootout-ftii-graduate-faced-long-idle-period-despite-cannes/articleshow/130187053.cms",
-    "time": "2026-04-11T08:33:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ravindra Jadeja scripts history, becomes only second Indian to enter elite T20 club",
     "desc": "Ravindra Jadeja achieved a significant T20 milestone, becoming the second Indian to bag 4000 runs and 200 wickets. His crucial unbeaten partnership with Dhruv Jurel secured Rajasthan Royals' victory over Royal Challengers Bengaluru. While young Vaibhav Sooryavanshi and Jurel shone with the bat, Jadeja's all-round prowess proved vital in the successful chase, underscoring his consistent value.",
@@ -450,24 +603,6 @@ const newsData_en = [
     "time": "2026-04-11T08:32:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Serious questions on Vishwaguru’s huglomacy': Congress slams PM Modi over US-Iran talks in Pakistan",
-    "desc": "Congress leader Jairam Ramesh criticizes PM Modi's foreign policy after the US chose Pakistan to mediate talks with Iran. Ramesh questions how Pakistan secured this role despite its terror links and India's diplomatic efforts, highlighting perceived failures in leveraging ties with the US and BRICS+.",
-    "img": "https://static.toiimg.com/photo/msid-130187211,imgsize-738649.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/serious-questions-on-vishwagurus-huglomacy-congress-slams-pm-modi-over-us-iran-talks-in-pakistan/articleshow/130187182.cms",
-    "time": "2026-04-11T08:27:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP, EC tried to invalidate my Bhabanipur candidature with ‘false cases’: Mamata at Keshiyari rally",
-    "desc": "West Bengal CM Mamata Banerjee accused the BJP of attempting to invalidate her candidature from Bhabanipur through false cases with the Election Commission's help. She also alleged the BJP manipulated electoral rolls, leading to the deletion of millions of voters, and claimed they planned to tamper with EVMs to influence poll results.",
-    "img": "https://static.toiimg.com/photo/msid-130187382,imgsize-971378.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-ec-tried-to-invalidate-my-bhabanipur-candidature-with-false-cases-mamata-at-keshiyari-rally/articleshow/130187232.cms",
-    "time": "2026-04-11T08:11:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Open and welcoming to global capital': Sebi chair Tuhin Kanta hails India's finance landscape",
     "desc": "India's Securities and Exchange Board of India chairman Tuhin Kanta Pandey assured global investors of the nation's open and attractive investment landscape. He highlighted strong macroeconomic fundamentals, a growing investor base, and reform-driven policies at a Silicon Valley session. Recent steps to ease FPI registration and digital platform growth were also emphasized.",
@@ -475,42 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/open-and-welcoming-to-global-capital-sebi-chair-tuhin-kanta-hails-indias-finance-landscape/articleshow/130187204.cms",
     "time": "2026-04-11T08:02:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ayush Shetty scripts history, stuns world No. 1 to reach Asian Championships badminton final",
-    "desc": "India's Ayush Shetty achieved a career-defining victory at the Badminton Asia Championships, defeating top seed and defending champion Kunlavut Vitidsarn in a thrilling three-game match. This remarkable comeback win secures Shetty at least a silver medal, making him the first Indian men's singles player to reach the final since Dinesh Khanna in 1965.",
-    "img": "https://static.toiimg.com/photo/msid-130187069,imgsize-143256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/ayush-shetty-scripts-history-stuns-world-no-1-to-reach-asian-championships-badminton-final/articleshow/130187099.cms",
-    "time": "2026-04-11T07:56:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul vs Khaleel Ahmed, Samson vs Axar: 5 key battles in today's match",
-    "desc": "Chennai Super Kings face mounting pressure against Delhi Capitals due to struggling batting and bowling. Skipper Ruturaj Gaikwad and Sanju Samson are yet to find form, while DC boasts a settled squad with KL Rahul in form. Key battles like Rahul vs. Khaleel and Dube vs. Kuldeep will be crucial.",
-    "img": "https://static.toiimg.com/photo/msid-130187108,imgsize-1162937.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-vs-dc-kl-rahul-vs-khaleel-ahmed-samson-vs-axar-5-key-battles-in-todays-match/articleshow/130187145.cms",
-    "time": "2026-04-11T07:53:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TMC, BJP supporters clash during campaign in West Bengal’s Hooghly; FIR lodged",
-    "desc": "Trinamool Congress and BJP supporters clashed during an election campaign in West Bengal's Hooghly district, resulting in minor injuries to four BJP workers. The incident occurred as campaigning intensifies for the 2026 Assembly elections, with both parties trading sharp political attacks and releasing manifestos.",
-    "img": "https://static.toiimg.com/photo/msid-130186795,imgsize-813153.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tmc-bjp-supporters-clash-during-campaign-in-west-bengals-hooghly-fir-lodged/articleshow/130186770.cms",
-    "time": "2026-04-11T07:26:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Justice Varma saves himself from ignoble first",
-    "desc": "Former Allahabad High Court judge Justice Yashwant Varma resigned, avoiding parliamentary removal proceedings. This follows a history of judges facing removal motions, with some resigning and others escaping proceedings. The constitutional process for judge removal involves parliamentary address based on proved misbehaviour or incapacity.",
-    "img": "https://static.toiimg.com/photo/msid-130186471,imgsize-700419.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/justice-varma-saves-himself-from-ignoble-first/articleshow/130186433.cms",
-    "time": "2026-04-11T07:06:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -529,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/100-road-tax-waiver-for-electric-cars-new-rules-for-2-3-and-4-wheelers-what-delhi-govts-draft-ev-policy-says/articleshow/130185874.cms",
     "time": "2026-04-11T06:51:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi, Rahul Gandhi engage in candid conversation during Jyotiba Phule tribute ceremony",
-    "desc": "Prime Minister Narendra Modi and Leader of Opposition Rahul Gandhi shared a brief, candid conversation at a Parliament tribute ceremony for Mahatma Jyotiba Phule. The interaction drew attention given their history of sharp political exchanges and public criticisms of each other. Both leaders separately paid homage to the social reformer's legacy.",
-    "img": "https://static.toiimg.com/photo/msid-130186087,imgsize-42614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-pm-modi-rahul-gandhi-engage-in-candid-conversation-during-jyotiba-phule-tribute-ceremony/articleshow/130185813.cms",
-    "time": "2026-04-11T06:42:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -592,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/fuel-for-thought-india-boosts-domestic-lpg-output-to-60-amid-middle-east-tensions/articleshow/130183685.cms",
     "time": "2026-04-11T03:19:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "36 sixes in an innings, 500 km bus rides, a MS Dhoni dream",
-    "desc": "Mukul Choudhary’s 27-ball 57 at Eden Gardens was years in the making - from 500-km bus rides across Rajasthan to practicing on red-soil and once smashing 36 sixes in an innings. Inspired by MS Dhoni, the 21-year-old is making a mark with his hitting ability and team-first mindset.",
-    "img": "https://static.toiimg.com/photo/msid-130183429,imgsize-30592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mukul-choudhary-36-sixes-in-an-innings-500-km-bus-rides-a-ms-dhoni-dream/articleshow/130183428.cms",
-    "time": "2026-04-11T02:48:02.000Z"
   },
   {
     "cat": "Business",
@@ -792,15 +873,6 @@ const newsData_en = [
     "time": "2026-04-09T14:44:38.000Z"
   },
   {
-    "cat": "World",
-    "title": "Dramatic visuals of high-speed car chase in California",
-    "desc": "A high-speed police chase through Southern California on Wednesday (April 8) ended when sheriff’s deputies deployed a “grappler” device, sending the vehicle crashing into a home in Jurupa Valley, local media reported. The suspect was pronounced dead at the crash scene, according to ABC affiliate KABC.",
-    "img": "https://th-i.thgim.com/public/incoming/6bz5yk/article70843555.ece/alternates/LANDSCAPE_1200/car%20chase.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-dramatic-visuals-of-high-car-chase-in-california/article70843548.ece",
-    "time": "2026-04-09T14:27:58.000Z"
-  },
-  {
     "cat": "Business",
     "title": "PFRDA ropes in private partners to push NPS Swasthya that provides healthcare funding along with retirement planning",
     "desc": "NPS Swasthya is an initiative intended to provide healthcare funding along with retirement planning. Currently, 10% of the country’s population is in the senior citizen category, and this demographic is expected to climb to over 20% by the year 2045-50",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/apples-foldable-iphone-faces-engineering-snags-potential-shipment-delays-report/article70833397.ece",
     "time": "2026-04-07T08:10:00.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "‘Government’s semiconductor mission will promote research’: MeitY Additional Secretary",
-    "desc": "Though India accounts for nearly 20% of the world’s semiconductor design engineers, it doesn’t have its own design firms, says Amitesh Kumar Sinha, Additional Secretary, Electronics and IT Ministry, at the The Hindu Deep Tech Summit; the India Semiconductor Mission 2.0 will expand beyond the first phase to include research and development, equipment manufacturing and skilling, he adds",
-    "img": "https://th-i.thgim.com/public/incoming/8021iq/article70831734.ece/alternates/LANDSCAPE_1200/DSC_5448.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/governments-semiconductor-mission-will-promote-research-meity-additional-secretary/article70830363.ece",
-    "time": "2026-04-06T17:53:27.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
