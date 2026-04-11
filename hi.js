@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi breaks down his mentality against big names after brilliant knock against RCB",
+    "desc": "Vaibhav Sooryavanshi is the name on everybody’s mind with the ongoing IPL (Indian Premier League) 2026 season. The 15-year-old superstar has lit the marquee tournament on fire with his brilliant performances for Rajasthan Royals and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-breaks-down-his-mentality-against-big-names-after-brilliant-knock-against-rcb-2026-04-11-1037126",
+    "time": "2026-04-11T04:19:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Royal Challengers Bengaluru join Punjab Kings in unwanted list after drubbing against Rajasthan Royals",
+    "desc": "Game 16 of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Royal Challengers Bengaluru. The two sides locked horns at the Barsapara Stadium in Guwahati on April 10, and Rajasthan Royals...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/royal-challengers-bengaluru-join-punjab-kings-in-unwanted-list-after-drubbing-against-rajasthan-royals-2026-04-11-1037119",
+    "time": "2026-04-11T03:20:07.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sooryavanshi, Jurel dominate RCB bowlers, Rajasthan Royals pick comfortable win in Guwahati",
     "desc": "After two back-to-back wins, Royal Challengers Bengaluru were considered one of the favourites to win the tournament. However, Rajasthan Royals handed them a reality check, as Vaibhav Sooryavanshi and Dhruv Jurel played some phenomenal cricket...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-josh-hazlewood-not-playing-for-rcb-vs-rr-in-ipl-2026-clash-at-barsapara-stadium-in-guwahati-2026-04-10-1037080",
     "time": "2026-04-10T13:36:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lucknow Super Giants replace Wanindu Hasaranga with South Africa international in IPL 2026",
-    "desc": "Lucknow Super Giants’ global Director of Cricket Tom Moody has confirmed that Wanindu Hasaranga will miss the IPL 2026. The Sri Lankan all-rounder sustained a hamstring injury during the T20 World Cup, which has ruled...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lucknow-super-giants-replace-wanindu-hasaranga-with-south-africa-international-in-ipl-2026-2026-04-10-1037072",
-    "time": "2026-04-10T12:02:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will MS Dhoni, Dewald Brevis return to playing XI for Chennai Super Kings in IPL 2026?",
-    "desc": "Legendary cricketer MS Dhoni and Dewald Brevis are set to return to Chennai Super Kings’ playing XI in the clash against Delhi Capitals. Leading up to the season, the five-time IPL-winning captain Dhoni complained of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-will-ms-dhoni-dewald-brevis-return-to-playing-xi-for-chennai-super-kings-in-ipl-2026-2026-04-10-1037069",
-    "time": "2026-04-10T11:48:45.000Z"
   }
 ];

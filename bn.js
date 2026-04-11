@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "Iran-US Ceasefire: পশ্চিমে উঠছে সূর্য: যুদ্ধ থামাতে ইসলামাবাদে বৈঠক ইরান-আমেরিকার",
+    "desc": "ইরানের প্রতিনিধিরা জানিয়েছেন, আলোচনা শুরুর আগে লেবাননে হামলা বন্ধ করতে হবে এবং আমেরিকার কাছে আটকে থাকা ইরানের টাকা ফেরত দিতে হবে। পালটা মার্কিন ভাইস প্রেসিডেন্ট জে.ডি. ভ্যান্স বলেছেন, ইরান যদি সততার সঙ্গে আলোচনা করতে চায়, তবে তারাও শান্তি চান। কিন্তু কোনো রকম চালাকি করা হলে আমেরিকা তা মেনে নেবে না।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/iran-and-us-delegations-arrive-to-islamabad_648294.html ",
+    "time": "2026-04-11T04:46:48.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Anirban comeback with Dev-Subhashree: অনির্বাণকে পর্দায় ফেরানোর দায় নিজের কাঁধেই নিলেন দেব, প্রতীক্ষিত 'দেশু ৭'-এর পরিচালকের আসনে তিনিই",
     "desc": "টলিউডে নতুন ধামাকা! অভিনয়ের পাশাপাশি এবার মেগাস্টার দেবের মুকুটে যুক্ত হল নতুন পালক। প্রযোজক দেব তো আগেই সফল, এবার তিনি অবতীর্ণ হলেন পরিচালকের ভূমিকায়। শুধু পরিচালক হিসেবে আত্মপ্রকাশই নয়, একঝাঁক চমক নিয়ে নিজের প্রথম ছবির ঘোষণা করে দিলেন তিনি। দেবের ছবিতেই কামব্যাক হতে চলেছে অনির্বাণের।",
@@ -214,5 +223,14 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/tollywood-strike-jeetu-kamal-supports-technicians-after-rahul-banerjees-death_647771.html ",
     "time": "2026-04-07T06:05:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];
