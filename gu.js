@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "વિશ્વમાં કયો દેશ છે &amp;#039;ગોલ્ડ કિંગ&amp;#039; ? ચીન ટોપ-5માં પણ નથી, જાણો ક્યા નંબરે છે ભારત",
+    "desc": "વિશ્વભરના દેશો પાસે રહેલા સોનાના ભંડાર તેમની આર્થિક શક્તિનો પુરાવો છે. અમેરિકાથી લઈને ભારત સુધી બધા દેશો ગોલ્ડ રિઝર્વ રાખે છે, ત્યારે આ લેખમાં જાણીશું કે કયા દેશો પાસે સૌથી વધુ સોનાનો ભંડાર છે અને ભારત આ યાદીમાં ક્યા ક્રમે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/which-country-have-largest-gold-reserves-and-where-does-india-rank-472553 ",
+    "time": "2026-04-11T12:26:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPLમાંથી કેટલું કમાય છે વૈભવ સૂર્યવંશી ? જાણો એક મેચ રમવા માટે કેટલા મળે છે પૈસા",
+    "desc": "IPL 2026 શરૂ થઈ ત્યારથી વૈભવ સૂર્યવંશીનું નામ ચર્ચામાં છે. 10 એપ્રિલે RCB સામે 300ની સ્ટ્રાઈક રેટથી માત્ર 26 બોલમાં 78 રન બનાવ્યા હતા. ત્યારે ઘણા લોકોના મનમાં સવાલ હશે કે, સૂર્યવંશી IPLમાંથી કેટલી કમાણી કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rajasthan-royals-vaibhav-suryavanshi-ipl-salary-know-full-details-472533 ",
+    "time": "2026-04-11T11:19:03.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "વૈભવ સૂર્યવંશીએ રચ્યો ઈતિહાસ, IPLમાં પોતાના નામે કર્યો વધુ એક રેકોર્ડ",
     "desc": "શુક્રવારે રોયલ ચેલેન્જર્સ બેંગ્લોર (RCB) સામે રમાયેલી IPL મેચમાં 15 વર્ષીય વૈભવ સૂર્યવંશીએ ઇનિંગની શરૂઆત કરતા માત્ર 26 બોલમાં 78 રન બનાવ્યા. 300ના સ્ટ્રાઇક રેટથી બેટિંગ કરતા આ વિસ્ફોટક બેટ્સમેને 7 છગ્ગા અને 8 ચોગ્ગા ફટકાર્યા. વૈભવ સૂર્યવંશીએ RCB સામે માત્ર 15 બોલમાં પોતાની અડધી સદી પૂરી કરી હતી.",
@@ -441,15 +459,6 @@ const newsData_gu = [
     "time": "2026-04-09T08:21:05.000Z"
   },
   {
-    "cat": "Business",
-    "title": "યુદ્ધવિરામ પર સંકટ! એક ઝટકે સોનાના ભાવમાં જોરદાર ઘટાડો, ચાંદી પણ ધડામ, જાણો લેટેસ્ટ રેટ",
-    "desc": "મિડલ ઈસ્ટમાં જે સ્થિતિ પલટાઈ છે તેને પગલે સોના અને ચાંદીના ભાવમાં કડાકો જોવા મળ્યો છે. સીઝફાયરની જાહેરાત થતા ભાવ ઉછળ્યા હતા પરંતુ સીઝફાયર પર વળી પાછું સંકટ આવી જતા અનિશ્ચિતતાઓને પગલે ભાવમાં ઘટાડો જોવા મળી રહ્યો છે. લેટેસ્ટ રેટ ખાસ ચેક કરો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-fall-today-is-it-because-of-fear-of-crisis-over-ceasefire-aaj-no-sona-chandi-no-bhav-472148 ",
-    "time": "2026-04-09T07:33:29.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "1 ખુરશી અને 7 દાવેદાર! કોણ બનશે બિહારના નવા CM? નીતિશ દિલ્હીમાં નામ કરશે ફાઈનલ",
     "desc": "બિહારમાં રાજકીય હલચલ જોવા મળી રહી છે. જલ્દી રાજ્યને નવા મુખ્યમંત્રી મળી શકે છે. નીતિશ કુમાર 10 એપ્રિલે રાજ્યસભાના સાંસદ તરીકે શપથ લીધા બાદ 13 એપ્રિલે રાજીનામું આપી શકે છે. સૂત્રો પ્રમાણે 15 એપ્રિલે બિહારની નવી સરકારનો શપથ સમારોહ યોજાઈ શકે છે.",
@@ -540,15 +549,6 @@ const newsData_gu = [
     "time": "2026-04-08T11:35:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "આઉટ થયા પછી કેમ રડવા લાગ્યો વૈભવ સૂર્યવંશી, ઈનસાઈડ વીડિયો થયો વાયરલ",
-    "desc": "મુંબઈ ઈન્ડિયન્સ સામે આઉટ થયા પછી પેવેલિયન પરત ફરતી વખતે વૈભવ સૂર્યવંશી રડવા લાગ્યો હતો, આ ઘટનાનો એક વીડિયો હવે સામે આવ્યો છે. તેણે ઈનિંગમાં પાંચ છગ્ગા અને એક ચોગ્ગો ફટકાર્યો હતો. શાર્દુલ ઠાકુરે તેને આઉટ કર્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-crying-after-out-inside-video-goes-viral-rr-vs-mi-472034 ",
-    "time": "2026-04-08T10:38:18.000Z"
-  },
-  {
     "cat": "World",
     "title": "પાકિસ્તાન નહીં...આ દેશે પડદા પાછળ પાડ્યો મોટો ખેલ, ઈરાન-અમેરિકા વચ્ચે કરાવ્યો યુદ્ધવિરામ!",
     "desc": "જ્યારથી ઈરાન અને અમેરિકા વચ્ચે યુદ્ધવિરામના સમાચાર આવ્યા છે ત્યારથી એક ચર્ચા છે કે પાકિસ્તાને કરાવ્યું. પરંતુ તમને જણાવી દઈએ કે પાકિસ્તાન નહીં પરંતુ એક એશિયાઈ દેશે આ યુદ્ધવિરામ પાછળ મોટો ભાગ ભજવ્યો હોવાનું સામે આવી રહ્યું છે.",
@@ -565,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/this-country-once-ruled-over-america-for-176-years-13-original-coloniesdeclaration-of-independence-1776-472013 ",
     "time": "2026-04-08T09:26:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "મુંબઈ ઈન્ડિયન્સમાં જોડાશે વૈભવ સૂર્યવંશી? પૂર્વ ભારતીય ક્રિકેટરની પોસ્ટે મચાવ્યો ખળભળાટ",
-    "desc": "15 વર્ષનો સ્ટાર ખેલાડી વૈભવ સૂર્યવંશી IPL 2026માં ધમાલ મચાવી રહ્યો છે. આ દરમિયાન સોશિયલ મીડિયા પર એક પોસ્ટ ઝડપથી વાયરલ થઈ રહી છે, જેમાં કહેવામાં આવી રહ્યું છે કે વૈભવ આગામી સીઝનમાં મુંબઈ માટે રમશે. આ પોસ્ટ ભારતીય ક્રિકેટર દ્વારા કરવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/will-vaibhav-suryavanshi-join-the-mumbai-indians-squad-a-post-by-a-former-indian-cricketer-creates-a-sensation-472009 ",
-    "time": "2026-04-08T08:48:28.000Z"
   },
   {
     "cat": "Tech",
@@ -637,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/zakir-khan-roast-bollywood-over-dhurandhar-success-started-another-controversy-on-social-media-471964 ",
     "time": "2026-04-08T03:45:32.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "શું ટ્રમ્પ ઈરાન પર પરમાણુ હુમલો કરશે? અમેરિકાનું મોટું નિવેદન આવ્યું, જાણો શું કહ્યું",
-    "desc": "અમેરિકાએ સ્પષ્ટ કરી દીધું છે કે, તે ઈરાન પર પરમાણુ બોમ્બથી હુમલો નહીં કરે. વ્હાઇટ હાઉસે સોશિયલ મીડિયા પ્લેટફોર્મ 'X' પર પોસ્ટ કરીને કહ્યું કે, અમે ઈરાન પર પરમાણુ હુમલા વિશે બિલકુલ વિચારી રહ્યા નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/will-trump-launch-a-nuclear-attack-on-iran-america-big-statement-came-know-what-he-said-471939 ",
-    "time": "2026-04-07T17:10:43.000Z"
   },
   {
     "cat": "Tech",

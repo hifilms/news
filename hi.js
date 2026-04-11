@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Punjab Kings opt to bowl first in New Chandigarh",
+    "title": "Why are Punjab Kings' players wearing black armbands during IPL 2026 clash against SRH?",
+    "desc": "Punjab Kings players donned the black armbands in the IPL 2026 clash against the Sunrisers Hyderabad at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh, in solidarity with the families affected in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-punjab-kings-players-wearing-black-armbands-during-ipl-2026-clash-against-srh-2026-04-11-1037174",
+    "time": "2026-04-11T11:44:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at MA Chidambaram Stadium in Chennai play?",
+    "desc": "The stage is set for game 18 of the ongoing IPL (Indian Premier League) 2026. Chennai Super Kings will be taking on Delhi Capitals at the MA Chidambaram Stadium in Chennai on April 11. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-dc-pitch-report-how-will-surface-at-ma-chidambaram-stadium-in-chennai-play-2026-04-11-1037173",
+    "time": "2026-04-11T11:19:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Dewald Brevis finally take field for CSK in clash against DC at Chepauk?",
+    "desc": "Dewald Brevis' absence has been felt in the Chennai Super Kings camp in the Indian Premier League 2026. Despite the franchise fielding some young players, they have lacked the finishing touches that the likes of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-dewald-brevis-finally-take-field-for-csk-in-clash-against-dc-at-chepauk-2026-04-11-1037171",
+    "time": "2026-04-11T11:00:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Liam Livingstone not playing for SRH in IPL 2026 clash against PBKS in New Chandigarh?",
+    "desc": "Sunrisers Hyderabad take on Punjab Kings in their fourth match of the Indian Premier League 2026 in a clash of two batting heavyweights at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh. Both...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-liam-livingstone-not-playing-for-srh-in-ipl-2026-clash-against-pbks-in-new-chandigarh-2026-04-11-1037162",
+    "time": "2026-04-11T10:15:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Punjab Kings look to chase 220 against Sunrisers in New Chandigarh",
     "desc": "Punjab Kings and Sunrisers Hyderabad take on each other at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh for the 17th game of the ongoing IPL (Indian Premier League) 2026. It is worth noting that...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-breaks-down-his-mentality-against-big-names-after-brilliant-knock-against-rcb-2026-04-11-1037126",
     "time": "2026-04-11T04:19:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Royal Challengers Bengaluru join Punjab Kings in unwanted list after drubbing against Rajasthan Royals",
-    "desc": "Game 16 of the ongoing IPL (Indian Premier League) 2026 saw Rajasthan Royals taking on Royal Challengers Bengaluru. The two sides locked horns at the Barsapara Stadium in Guwahati on April 10, and Rajasthan Royals...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/royal-challengers-bengaluru-join-punjab-kings-in-unwanted-list-after-drubbing-against-rajasthan-royals-2026-04-11-1037119",
-    "time": "2026-04-11T03:20:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sooryavanshi, Jurel dominate RCB bowlers, Rajasthan Royals pick comfortable win in Guwahati",
-    "desc": "After two back-to-back wins, Royal Challengers Bengaluru were considered one of the favourites to win the tournament. However, Rajasthan Royals handed them a reality check, as Vaibhav Sooryavanshi and Dhruv Jurel played some phenomenal cricket...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sooryavanshi-jurel-dominate-rcb-bowlers-rajasthan-royals-pick-comfortable-win-in-guwahati-2026-04-11-1037110",
-    "time": "2026-04-10T18:34:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at MYS Int'l Cricket Stadium in Mullanpur play for IPL 2026?",
-    "desc": "Punjab Kings will host Sunrisers Hyderabad in their upcoming clash at Maharaja Yadavindra Singh International Cricket Stadium in Mullanpur on April 11. With two wins in three matches, the Shreyas Iyer-led side will be confident...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-srh-pitch-report-how-will-surface-at-mys-int-l-cricket-stadium-in-mullanpur-play-for-ipl-2026-2026-04-10-1037108",
-    "time": "2026-04-10T18:18:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi unleashes mayhem against RCB, leaves netizens mesmerised: Check reactions",
-    "desc": "Vaibhav Sooryavanshi wreaked havoc against Royal Challengers Bengaluru in Guwahati. He unleashed mayhem in the middle, registering 78 runs off just 26 balls. The 15-year-old completed his half-century in just 15 balls and after the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-unleashes-mayhem-against-rcb-leaves-netizens-mesmerised-check-reactions-2026-04-10-1037107",
-    "time": "2026-04-10T18:09:32.000Z"
   }
 ];
