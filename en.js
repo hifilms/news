@@ -1,6 +1,186 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Delegates from 22 countries laud India's poll process",
+    "desc": "International delegates from 22 countries lauded India's recent elections in Kerala, Assam, and Puducherry, highlighting impressive voter turnout and meticulous planning. Witnessing firsthand the seamless execution, including EVM usage and webcasting, they described the process as a \"true festival of democracy.\" Delegates also noted the well-organized polling stations with facilities and praised the transparency measures in place.",
+    "img": "https://static.toiimg.com/photo/msid-130199057,imgsize-1844029.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delegates-from-22-countries-laud-indias-poll-process/articleshow/130199052.cms",
+    "time": "2026-04-11T20:50:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Fadnavis to conduct probe in Chhagan Bhujbal’s helicopter landing in parking lot",
+    "desc": "According to officials from the Pune administration, a designated helipad had been prepared for VIP helicopter landings. However, the pilot mistakenly landed in an open space in the parking area, mistaking it for the designated site",
+    "img": "https://th-i.thgim.com/public/incoming/ww03bz/article70851121.ece/alternates/LANDSCAPE_1200/11908_31_1_2026_19_5_56_2_DSC_4468.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/cm-fadnavis-to-conduct-probe-in-chhagan-bhujbals-helicopter-landing-in-parking-lot/article70851544.ece",
+    "time": "2026-04-11T20:43:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rare Modi-Rahul interaction breaks the internet",
+    "desc": "Prime Minister Narendra Modi and Opposition leader Rahul Gandhi shared a rare moment of pleasantries and a brief chat at a recent event, sparking interest. Gandhi's presence at the commemorative program for Jyotirao Phule, where he greeted the PM, was noteworthy.",
+    "img": "https://static.toiimg.com/photo/msid-130199045,imgsize-667072.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rare-modi-rahul-interaction-breaks-the-internet/articleshow/130199034.cms",
+    "time": "2026-04-11T20:38:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meryl Streep approves of Karan Johar’s Rs 1.25 lakh shoes",
+    "desc": "Filmmaker Karan Johar experienced a fanboy moment interviewing Meryl Streep and Anne Hathaway in Tokyo for the upcoming 'The Devil Wears Prada 2'. Johar, a self-proclaimed superfan who has watched the original 47 times, was starstruck by the warm reception from the actresses. The teaser highlights a humorous exchange about judging shoes, with Streep complimenting Johar's Prada sneakers.",
+    "img": "https://static.toiimg.com/photo/msid-130199012,imgsize-37436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/meryl-streep-approves-of-karan-johars-rs-1-25-lakh-shoes-as-the-filmmaker-chats-with-her-and-anne-hathaway-ahead-of-the-devil-wears-prada-2/articleshow/130199000.cms",
+    "time": "2026-04-11T20:17:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IAF chief meets top US def officials to discuss shared strategic priorities, MQ-9B drones",
+    "desc": "Indian Air Force Chief Air Chief Marshal A P Singh met with US Air Force leadership, including Gen Ken Wilsbach, to bolster defense ties and discuss shared strategic goals. Key topics included the procurement of MQ-9B Sky Guardian drones and enhancing Indo-Pacific cooperation.",
+    "img": "https://static.toiimg.com/photo/msid-130199007,imgsize-520396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iaf-chief-meets-top-us-def-officials-to-discuss-shared-strategic-priorities-mq-9b-drones/articleshow/130199006.cms",
+    "time": "2026-04-11T20:12:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vance-led team lands in Pak’s Nur Khan base, same air hub targeted by India during Op Sindoor",
+    "desc": "US Vice President JD Vance and an Iranian delegation arrived at Pakistan's Nur Khan airbase for peace talks. This base, a key Pakistani military hub, was reportedly targeted by Indian missile strikes last May. The US delegation's choice of the airbase highlights its strategic importance and proximity to Islamabad, despite past damage.",
+    "img": "https://static.toiimg.com/photo/msid-130198998,imgsize-1072694.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/vance-led-team-lands-in-paks-nur-khan-base-same-air-hub-targeted-by-india-during-op-sindoor/articleshow/130199001.cms",
+    "time": "2026-04-11T20:07:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "the BJP’s electoral journey in Tamil Nadu",
+    "desc": "The BJP initially capitalised on Hindutva politics in Kanniyakumari, winning its first Assembly seat in 1996; thereafter it tasted success only in alliance with the Dravidian majors; hopes to convert its rising vote share to more seats in 2026",
+    "img": "https://th-i.thgim.com/public/incoming/k4fqrf/article70843583.ece/alternates/LANDSCAPE_1200/4871_31_3_2026_19_11_42_1_DSC_5382.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/from-the-margins-to-momentum-bjps-journey-in-tamil-nadu/article70842982.ece",
+    "time": "2026-04-11T20:06:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indian LPG tanker crosses Hormuz, first after ceasefire",
+    "desc": "The Indian-flagged LPG tanker Jag Vikram successfully navigated the Strait of Hormuz, marking the first Indian vessel to pass through the conflict zone since a temporary ceasefire. This vessel, carrying 20,400 tonnes of cooking gas, is expected to reach Mumbai on April 15.",
+    "img": "https://static.toiimg.com/photo/msid-130198896,imgsize-861504.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indian-lpg-tanker-crosses-hormuz-first-after-ceasefire/articleshow/130198897.cms",
+    "time": "2026-04-11T19:53:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RR manager violates protocol by using phone in dugout",
+    "desc": "Rajasthan Royals manager Romi Bhinder was seen using a phone in the dugout during an IPL match, violating PMOA rules that ban such use outside the dressing room. The incident, noticed during the chase, has drawn scrutiny, with potential action from officials. IPL authorities stress strict phone-use guidelines to prevent corruption risks, and an investigation may follow.",
+    "img": "https://static.toiimg.com/photo/msid-130198847,imgsize-48348.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-controversy-rr-manager-romi-bhinder-violates-pmoa-protocol-by-using-phone-in-dugout/articleshow/130198810.cms",
+    "time": "2026-04-11T19:50:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt mulls sending surplus rice as aid to conflict-hit Iran",
+    "desc": "India is poised to permit wheat exports to Egypt, Indonesia, and Myanmar due to surplus stocks. Rice shipments, including to war-torn Iran on humanitarian grounds, are also being considered. This move aims to free up storage space for upcoming winter crops and capitalize on increased demand amid global supply chain disruptions.",
+    "img": "https://static.toiimg.com/photo/msid-130198844,imgsize-1060252.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-mulls-sending-surplus-rice-as-aid-to-conflict-hit-iran/articleshow/130198846.cms",
+    "time": "2026-04-11T19:48:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Duty on diesel exports hiked from Rs 21.5/L to Rs 55.5",
+    "desc": "The government has significantly increased export duties on diesel and aviation turbine fuel to prioritize domestic availability amidst West Asian tensions. Diesel export duty rose by over 150% to Rs 55.5 per litre, and ATF to Rs 42 per litre, aiming to deter exports and ensure sufficient supply within India.",
+    "img": "https://static.toiimg.com/photo/msid-130198811,imgsize-866921.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/duty-on-diesel-exports-hiked-from-rs-21-5/l-to-rs-55-5/articleshow/130198809.cms",
+    "time": "2026-04-11T19:43:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Musiri constituency, a fertile region on the banks of Cauvery, looks for a major thrust to development",
+    "desc": "Over the years, Musiri, which was upgraded as a 24-ward municipality in 2022, has transitioned into a ‘retiree paradise’ as it has become a preferred destination for superannuated professionals; agriculture remains the predominant occuption in the region fed by the Cauvery",
+    "img": "https://th-i.thgim.com/public/incoming/rma19m/article70843297.ece/alternates/LANDSCAPE_1200/10MA_MUSIRI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/musiri-a-fertile-region-on-the-banks-of-the-cauvery-looks-for-a-major-thrust-to-development/article70841844.ece",
+    "time": "2026-04-11T19:42:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Despite having nine large waterbodies, Pallavaram constituency residents do not get clean groundwater",
+    "desc": "They say that if the government removes encroachments and brings excess water from Chembarambakkam to the lakes in the constituency, the drinking water problem can be solved; another issue is that stray animal population keeps rising though the authorities take steps to catch them",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/9g9vmp/article70840009.ece/alternates/LANDSCAPE_1200/Radha%20Nagar%20subway.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/despite-having-nine-large-waterbodies-residents-do-not-get-clean-groundwater/article70839760.ece",
+    "time": "2026-04-11T19:40:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "L-G: Chandni Chowk revamp has begun",
+    "desc": "Lieutenant Governor Taranjit Singh Sandhu stressed the need for coordination among agencies, and said the Delhi Police, the Municipal Corporation of Delhi and the Public Works Department had been directed to work together to address local challenges.",
+    "img": "https://th-i.thgim.com/public/incoming/ygnnt3/article70852075.ece/alternates/LANDSCAPE_1200/LT%20GOVERNOR%20OATH%20DELHI_11_03_42.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/l-g-visits-chandni-chowkseeks-coordinated-action-on-civic-issues/article70851994.ece",
+    "time": "2026-04-11T19:34:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No forum to deal with arbitrators' misdeeds: SC judge",
+    "desc": "Supreme Court Justice B.V. Nagarathna emphasized that arbitration and mediation are vital to a modern justice system, not just alternatives to court. She noted a gap in addressing complaints against arbitrators, often retired judges, whom courts are hesitant to remove. Maintaining litigant trust is crucial, as bias allegations erode confidence in these dispute resolution methods.",
+    "img": "https://static.toiimg.com/photo/msid-130198767,imgsize-1009265.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-forum-to-deal-with-arbitrators-misdeeds-sc-judge/articleshow/130198752.cms",
+    "time": "2026-04-11T19:34:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Edappadi K. Palaniswami, the lone star of AIADMK election campaign, steps up his pitch for power",
+    "desc": "The former Chief Minister is the main campaigner for the AIADMK across Tamil Nadu, with a stump speech focused on law and order issues, the State’s finances, concerns of government employees, drug menace, and rising inflation; he also highlights features of the manifesto of his party",
+    "img": "https://th-i.thgim.com/public/incoming/hqelg9/article70839678.ece/alternates/LANDSCAPE_1200/11658_8_4_2026_21_44_15_3_8.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/palaniswami-lone-star-of-the-aiadmk-poll-campaign/article70838381.ece",
+    "time": "2026-04-11T19:17:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Asha Bhosle spoke about singing live on stage at the age of 90",
+    "desc": "Legendary singer Asha Bhosle has been hospitalized due to extreme exhaustion and a chest infection. Her granddaughter shared the update, stating treatment is ongoing and they hope for a positive outcome. Despite her age, Bhosle remains active, having recently performed a concert and expressed her deep connection to music as her life force.",
+    "img": "https://static.toiimg.com/photo/msid-130198464,imgsize-35126.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-asha-bhosle-spoke-about-singing-live-on-stage-at-the-age-of-90-and-suriving-through-difficult-times-in-her-life/articleshow/130198263.cms",
+    "time": "2026-04-11T18:58:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nasha Mukt J&amp;K: LG launches drive to cut off Pak supply, swift punishment for peddlers",
+    "desc": "Jammu and Kashmir Lieutenant Governor Manoj Sinha Saturday launched a 100-day campaign to combat the drug menace, targeting supply from Pakistan and traffickers. The initiative involves revoking licenses, freezing assets, and issuing lookout circulars against drug peddlers. The campaign will proceed through awareness, community engagement, enforcement, rehabilitation, and evaluation phases.",
+    "img": "https://static.toiimg.com/photo/msid-130198328,imgsize-944266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nasha-mukt-jk-lg-launches-drive-to-cut-off-pak-supply-swift-punishment-for-peddlers/articleshow/130198266.cms",
+    "time": "2026-04-11T18:50:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "6.5 yrs after bifurcation, J&amp;K removed from Aadhaar records of Ladakh residents",
+    "desc": "After a six-year delay, Aadhaar records for Ladakh residents now correctly reflect 'Ladakh' instead of 'Jammu & Kashmir' in the state field. This long-pending correction, facilitated by the UT administration and UIDAI, resolves significant inconveniences faced by residents in accessing services and verifying their identity.",
+    "img": "https://static.toiimg.com/photo/msid-130198116,imgsize-1419884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/6-5-yrs-after-bifurcation-jk-removed-from-aadhaar-records-of-ladakh-residents/articleshow/130198115.cms",
+    "time": "2026-04-11T18:38:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Palaniswami is coasting along with PMK’s support in Edappadi",
+    "desc": "The DMK won in the constituency in 1967 and 1971. Thereafter, the AIADMK has won seven times, out of which Mr. Palaniswami has won five times. Farming is a major occupation of the people of the constituency, which covers Edappadi taluk, a portion of Mettur taluk, Konganapuram, Nangavalli and Jalakandapuram town panchayats",
+    "img": "https://th-i.thgim.com/public/incoming/ieei8z/article70835883.ece/alternates/LANDSCAPE_1200/9868_6_4_2026_13_21_28_3_EPS_2.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/palaniswamiis-coasting-along-with-the-support-ofpmkin-edappadi/article70833955.ece",
+    "time": "2026-04-11T18:35:31.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "J&amp;K: Dogs maul 8-year-old girl to death in Sopore",
     "desc": "An eight-year-old girl was tragically mauled to death by dogs in Sopore's Seloo village, marking the second such fatality in the area within a year. The child suffered severe injuries in an apple orchard attack. Local residents are shaken, with some alleging dog relocation is exacerbating the problem.",
     "img": "https://static.toiimg.com/photo/msid-130198031,imgsize-672944.cms",
@@ -16,6 +196,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/poor-delivery-of-schemes-lack-of-support-for-the-farm-sector-major-talking-points-in-madurantakam/article70831834.ece",
     "time": "2026-04-11T18:22:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Samson's 115, Overton’s 4-fer help CSK beat DC for season's first win",
+    "desc": "Sanju Samson’s unbeaten 115 powered Chennai Super Kings to their first IPL 2026 win, beating Delhi Capitals by 23 runs. He shared a 113-run stand with Ayush Mhatre (59) to post 212/2. Delhi started strong but lost momentum after early wickets. Jamie Overton’s 4/18 ensured CSK sealed a comfortable victory despite Tristan Stubbs’ fighting 60.",
+    "img": "https://static.toiimg.com/photo/msid-130197520,imgsize-51770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-sanju-samsons-115-jamie-overtons-four-fer-help-csk-outfox-dc-for-seasons-first-win/articleshow/130197497.cms",
+    "time": "2026-04-11T18:21:16.000Z"
   },
   {
     "cat": "Politics",
@@ -43,6 +232,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/theblurredline-between-reality-and-illusion-the-influence-of-film-personalities-on-the-masses/article70830894.ece",
     "time": "2026-04-11T17:52:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hezbollah",
+    "desc": "After Israel killed Hassan Nasrallah in September 2024 and launched a ground offensive in Lebanon, many saw Hezbollah weakened; but over the past 40-plus days, the ‘Party of God’ has fired hundreds of rockets and drones, denying an easy victory to the invading Israeli forces",
+    "img": "https://th-i.thgim.com/public/incoming/ct00w6/article70851971.ece/alternates/LANDSCAPE_1200/Lebanon_Israel_Palestinians_14324.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hezbollah-ayatollahs-allies-in-lebanon/article70851974.ece",
+    "time": "2026-04-11T17:23:01.000Z"
   },
   {
     "cat": "Sports",
@@ -136,48 +334,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "A debate on the tenure of Election Commission-appointed police chief in Tamil Nadu",
-    "desc": "However, the EC order did not specify a tenure for him. The question is whether Mr. Rathore would be entitled to a minimum two-year tenure, as mandated by the Supreme Court in the landmark Prakash Singh case. However, this ruling applies only to appointments made through the UPSC-led process",
-    "img": "https://th-i.thgim.com/public/incoming/qsvlr/article70827287.ece/alternates/LANDSCAPE_1200/SANDEEP%20RAI%20RATHORE%20.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-debate-on-the-tenure-of-election-commission-appointed-police-chief/article70827278.ece",
-    "time": "2026-04-11T16:46:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 DC vs CSK",
-    "desc": "After being asked to bat first, the CSK man brought up his first substantial knock in a Yellow jersey, and was involved in an excellent stand with Mhatre for the second wicket -- 113 runs in a little over 11 overs.",
-    "img": "https://th-i.thgim.com/public/incoming/auxb29/article70851936.ece/alternates/LANDSCAPE_1200/DSC_2405.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-chennai-super-kings-delhi-capitals-match-updates/article70851358.ece",
-    "time": "2026-04-11T16:40:10.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Annamalai slams DMK over governance, corruption",
     "desc": "K Annamalai highlighted public concerns on drug abuse, school quality, and roads, accusing the ruling DMK of inaction. He alleged a Rs 160 crore corruption scam involving a minister, with evidence submitted to DVAC. Annamalai anticipates political shifts within the DMK post-2026 elections and predicts a significant defeat for Senthil Balaji.",
     "img": "https://static.toiimg.com/photo/msid-130195805,imgsize-726701.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-polls-annamalai-slams-dmk-over-governance-corruption/articleshow/130195786.cms",
     "time": "2026-04-11T16:39:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Youth Congress leader stabbed to death, six questioned so far",
-    "desc": "In ghastly incident, a Youth Congress leader was stabbed to death by miscreants in his home in Dharwad on Friday night and the Hubballi Dharwad Police have questioned six suspects so far in connection with the murder.",
-    "img": "https://th-i.thgim.com/public/incoming/4u0448/article70851914.ece/alternates/LANDSCAPE_1200/2699_11_4_2026_21_26_31_1_12HUBLIFAIROZMURDER.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/youth-congress-leader-stabbed-to-death-six-questioned-so-far/article70850916.ece",
-    "time": "2026-04-11T16:30:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Teams led by CSIR women scientists report advances in research on depression mechanisms in females",
-    "desc": "A group of scientists at Hyderabad’s CSIR-IICT are leading transformative research in decoding female-specific depression mechanisms. Their work not only addresses critical scientific gaps but also advances inclusive healthcare solutions, highlighting the growing impact of women in India’s research ecosystem",
-    "img": "https://th-i.thgim.com/public/incoming/owwqcz/article70850203.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-11%20at%2010.48.33.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/teams-led-by-csir-women-scientists-report-advances-in-research-on-depression-mechanisms-in-females/article70846831.ece",
-    "time": "2026-04-11T16:07:56.000Z"
   },
   {
     "cat": "Sports",
@@ -208,7 +370,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Asha Bhosle admitted to hospital due to chest infection",
+    "title": "Asha Bhosle admitted to Breach Candy hospital",
     "desc": "Legendary singer Asha Bhosle was rushed to the hospital on Saturday night. Reports confirm she suffered a heart attack. She is currently admitted to Breach Candy Hospital in Mumbai. Bhosle, a celebrated voice in Indian music, has had a career spanning over seven decades. Her vast filmography includes thousands of songs across various languages.",
     "img": "https://static.toiimg.com/photo/msid-130196004,imgsize-34010.cms",
     "src": "indiatimes.com",
@@ -306,15 +468,6 @@ const newsData_en = [
     "time": "2026-04-11T13:29:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala, Assam, Puducherry polls draw global attention as EC hosts 38 delegates from 22 nations",
-    "desc": "International observers from 22 countries lauded India's electoral process during the recent Assembly polls in Kerala, Puducherry, and Assam. Witnessing firsthand the scale, precision, and vibrant participation, delegates described the experience as a \"true festival of democracy.\" They were impressed by the meticulous planning, seamless execution, and inclusive features at polling stations, highlighting India's commitment to transparent and accessible elections.",
-    "img": "https://static.toiimg.com/photo/msid-130192812,imgsize-1349737.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kerala-assam-puducherry-polls-draw-global-attention-as-ec-hosts-38-delegates-from-22-nations/articleshow/130192747.cms",
-    "time": "2026-04-11T13:28:17.000Z"
-  },
-  {
     "cat": "World",
     "title": "Who is Amit Kshatriya, the mind behind NASA’s Moon programme?",
     "desc": "Artemis programme aims to return humans to the Moon after decades, led by key figures like Amit Kshatriya. An Indian-American scientist, he rose through engineering and leadership roles at NASA, contributing to missions like Artemis I. Now Associate Administrator, he oversees major operations, playing a crucial role in shaping future Moon and Mars exploration efforts.",
@@ -358,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoors-ramayana-ravi-dubey-overwhelmed-by-seeing-himself-as-laxman-on-times-square-billboard/articleshow/130191839.cms",
     "time": "2026-04-11T12:34:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chhagan Bhujbal’s helicopter lands in parking area in Pune- watch",
-    "desc": "Maharashtra minister Chhagan Bhujbal's helicopter mistakenly landed in a Pune parking lot instead of the designated helipad. The pilot reportedly confused an open parking space for the landing site. While no accident occurred and all were safe, an inquiry is underway to determine if it was a technical or human error.",
-    "img": "https://static.toiimg.com/photo/msid-130191117,imgsize-1666222.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/close-shave-chhagan-bhujbals-helicopter-lands-in-parking-area-in-pune-watch/articleshow/130190879.cms",
-    "time": "2026-04-11T12:17:07.000Z"
   },
   {
     "cat": "Sports",
@@ -495,33 +639,6 @@ const newsData_en = [
     "time": "2026-04-11T09:43:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Pakistan-linked handler targeting youth, two men arrested in Bijnor tell police",
-    "desc": "Two men arrested in Bijnor, Uttar Pradesh, revealed a Pakistan-linked handler is building a network in India. The handler, based in Saudi Arabia, used social media platforms like Instagram. He allegedly spread inflammatory content and incited youngsters against Hindus. Police are searching for the handler and other associates involved in anti-national activities.",
-    "img": "https://static.toiimg.com/photo/msid-130188713,imgsize-87056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pakistan-linked-handler-targeting-youth-two-men-arrested-in-bijnor-tell-police/articleshow/130188563.cms",
-    "time": "2026-04-11T09:30:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi vows to release 'white paper' on alleged TMC corruption",
-    "desc": "Prime Minister Narendra Modi intensified the BJP's campaign in West Bengal, focusing on infiltration, citizenship under CAA, and alleged TMC corruption. He promised expedited citizenship for refugees and warned infiltrators to leave, while also highlighting alleged fear and corruption under the TMC government.",
-    "img": "https://static.toiimg.com/photo/msid-130188486,imgsize-48806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-pm-modi-vows-to-release-white-paper-on-alleged-tmc-corruption/articleshow/130188121.cms",
-    "time": "2026-04-11T09:28:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Grand change for a generation’: Vijay launches ‘final sprint’ for Tamil Nadu polls, calls for door-to-door push",
-    "desc": "Actor-turned-politician Vijay has urged his Tamilaga Vettri Kazhagam party workers to intensify campaigning in the final ten days before the Tamil Nadu Assembly elections. He called for a disciplined door-to-door outreach to connect with voters personally. Vijay framed the upcoming polls as a generational change and a fight for true people's rule, aiming for a \"victorious procession\" against established alliances.",
-    "img": "https://static.toiimg.com/photo/msid-130188395,imgsize-432301.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/grand-change-for-a-generation-vijay-launches-final-sprint-for-tamil-nadu-polls-calls-for-door-to-door-push/articleshow/130188314.cms",
-    "time": "2026-04-11T09:23:50.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Jessica Biel talks about viral parenting trend",
     "desc": "Actress Jessica Biel has taken to social media to confront a troubling new trend known as the 'Jessica Tantrum.' It seems some parents are yelling 'Jessica' at their tantruming toddlers to calm them down. In her heartfelt message, Biel expressed her worry about the fear this instills in young children, suggesting that they appear 'petrified.",
@@ -585,24 +702,6 @@ const newsData_en = [
     "time": "2026-04-11T08:53:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jason Segel’s small talk landed him in trouble in Finland!",
-    "desc": "In a surprising turn of events in Finland, actor Jason Segel discovered that his approachable American spirit wasn't quite the norm. During a casual grocery store visit on the film set, his cheerful chatting drew the attention of a concerned security guard, who was unnerved by his outgoing behavior.",
-    "img": "https://static.toiimg.com/photo/msid-130187943,imgsize-66144.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jason-segel-spills-beans-on-security-being-called-on-him-in-finland-over-friendly-american-habit-heres-what-happened/articleshow/130187918.cms",
-    "time": "2026-04-11T08:53:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravindra Jadeja scripts history, becomes only second Indian to enter elite T20 club",
-    "desc": "Ravindra Jadeja achieved a significant T20 milestone, becoming the second Indian to bag 4000 runs and 200 wickets. His crucial unbeaten partnership with Dhruv Jurel secured Rajasthan Royals' victory over Royal Challengers Bengaluru. While young Vaibhav Sooryavanshi and Jurel shone with the bat, Jadeja's all-round prowess proved vital in the successful chase, underscoring his consistent value.",
-    "img": "https://static.toiimg.com/photo/msid-130187569,imgsize-143002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ravindra-jadeja-scripts-history-becomes-only-second-indian-to-enter-elite-t20-club/articleshow/130187583.cms",
-    "time": "2026-04-11T08:32:01.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Open and welcoming to global capital': Sebi chair Tuhin Kanta hails India's finance landscape",
     "desc": "India's Securities and Exchange Board of India chairman Tuhin Kanta Pandey assured global investors of the nation's open and attractive investment landscape. He highlighted strong macroeconomic fundamentals, a growing investor base, and reform-driven policies at a Silicon Valley session. Recent steps to ease FPI registration and digital platform growth were also emphasized.",
@@ -610,15 +709,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/open-and-welcoming-to-global-capital-sebi-chair-tuhin-kanta-hails-indias-finance-landscape/articleshow/130187204.cms",
     "time": "2026-04-11T08:02:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Boys’ Season 5: full episode release dates revealed",
-    "desc": "The Boys' creator Eric Kripke admits reality is outdoing his show's dark satire, especially with Homelander's parallels to real-world figures. Season 5, airing weekly until May 20, sees Butcher aiming to eliminate supes with a virus, while Hughie and Starlight seek a less extreme path. The final season also integrates 'Gen V' elements and hints at future spin-offs.",
-    "img": "https://static.toiimg.com/photo/msid-130186014,imgsize-177024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-boys-season-5-full-release-schedule-here-is-everything-we-know/articleshow/130186014.cms",
-    "time": "2026-04-11T06:58:40.000Z"
   },
   {
     "cat": "Business",
@@ -808,95 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/life-and-style/how-a-research-scholars-curiosity-about-type-designing-led-to-a-paper-on-keralas-vibrant-hand-painted-political-graffiti/article70837617.ece",
     "time": "2026-04-10T13:29:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Worried by hits on Iran nuclear sites, must never happen again: IAEA chief Rafael Grossi",
-    "desc": "Rafael Grossi, who is running for the UN Secretary General this year, says ‘war has returned in a furious way to different parts of the world’; he says the UN is still relevant in today’s world",
-    "img": "https://th-i.thgim.com/public/incoming/57hcak/article70843704.ece/alternates/LANDSCAPE_1200/AFP_A6VD3NQ.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iaea-director-general-rafael-grossi-interview-iran-nuclear-sites-israel-us-attacks/article70842785.ece",
-    "time": "2026-04-10T09:56:15.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Britain celebrates late Queen Elizabeth II as style icon to mark her centenary",
-    "desc": "The exhibition, drawn from some 4,000 items once owned by the queen, explores how fashion became one of her most powerful tools of communication as she evolved from a young princess into Britain's longest-reigning monarch.",
-    "img": "https://th-i.thgim.com/public/incoming/2hzk2o/article70846259.ece/alternates/LANDSCAPE_1200/APTOPIX_Britain_Royal_Exhibition_38463.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/fashion/britain-celebrates-late-queen-elizabeth-ii-as-style-icon-to-mark-her-centenary/article70846175.ece",
-    "time": "2026-04-10T07:54:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "why mediation still matters in a world at war",
-    "desc": "With the war in West Asia in its second month, discussions on mediation have gained prominence. History is replete with instances of mediation, with individuals and states helping conflicting parties reach agreement, alongside the development of international conventions for dispute resolution",
-    "img": "https://th-i.thgim.com/public/incoming/8s363h/article70835661.ece/alternates/LANDSCAPE_1200/AFP_A4WH7ZQ.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/talking-peace-why-mediation-still-matters-in-a-world-at-war/article70835644.ece",
-    "time": "2026-04-10T06:01:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mukul is the Super Giant as Lucknow pulls off a heist",
-    "desc": "The little-known batter’s unbeaten 27-ball 54 scripts a stunning turnaround to leave KKR winless after four matches; Badoni chips in with a crucial half-century; home side posts 181 despite a mid-innings wobble; Shami delivers an impressive spell",
-    "img": "https://th-i.thgim.com/public/incoming/62zpee/article70844645.ece/alternates/LANDSCAPE_1200/India_IPL_Cricket_86_56.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-match-lsg-kkr-updates-april-9/article70843541.ece",
-    "time": "2026-04-10T05:37:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kore-eda, Hamaguchi, Farhadi, Almodóvar to premiere in Competition",
-    "desc": "This year’s Competition leans heavily toward global independent cinema, with minimal presence from major U.S. studios. The question looming over the Competition is whether Neon can push that streak to an unprecedented seven Palme d’Or wins in a row",
-    "img": "https://th-i.thgim.com/public/incoming/6k9v9i/article70845864.ece/alternates/LANDSCAPE_1200/2026-04-09T110041Z_1097917304_RC2LLKAB0GX5_RTRMADP_3_FILMFESTIVAL-CANNES-LINEUP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/cannes-2026-lineup-kore-eda-hamaguchi-farhadi-almodovar-to-premiere-in-competition-full-list/article70845861.ece",
-    "time": "2026-04-10T05:07:05.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "The political system of Cuba is not on the table in any dialogue with the U.S.: Juan Carlos Marsan",
-    "desc": "Cuba is facing a severe economic crisis triggered by fuel shortages and U.S. sanctions, with prolonged blackouts and disruptions to daily life; the Cuban Ambassador to India, Juan Carlos Marsan, says the blockade has affected all sectors, even as they remain open to dialogue",
-    "img": "https://th-i.thgim.com/public/news/national/327atg/article70844238.ece/alternates/LANDSCAPE_1200/480190111_9524504377614353_4478487358507575675_n.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/the-political-system-of-cuba-is-not-on-the-table-in-any-dialogue-with-the-us-juan-carlos-marsan/article70842889.ece",
-    "time": "2026-04-10T04:12:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Indian team to visit U.S. this month to discuss trade deal currently stuck in limbo",
-    "desc": "Previously, Commerce Minister Piyush Goyal has indicated that the deal can go forward only if India receives preferential market access as was agreed to in February. The U.S. is yet to finalise its tariffs on other economies",
-    "img": "https://th-i.thgim.com/public/incoming/jbxnro/article70843661.ece/alternates/LANDSCAPE_1200/20260326312L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/indian-trade-delegation-to-visit-washington-this-month-us-envoy-sergio-gor/article70842744.ece",
-    "time": "2026-04-09T14:44:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PFRDA ropes in private partners to push NPS Swasthya that provides healthcare funding along with retirement planning",
-    "desc": "NPS Swasthya is an initiative intended to provide healthcare funding along with retirement planning. Currently, 10% of the country’s population is in the senior citizen category, and this demographic is expected to climb to over 20% by the year 2045-50",
-    "img": "https://th-i.thgim.com/public/incoming/aucgwv/article70842073.ece/alternates/LANDSCAPE_1200/IMG_bl13__Sivasubramania_2_1_JNCHD5V2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/pfrda-ropes-in-private-partners-to-push-nps-swasthya-that-provides-healthcare-funding-along-with-retirement-planning/article70839694.ece",
-    "time": "2026-04-09T09:15:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Franchise cricket is evolving, be careful what you wish for",
-    "desc": "If the ICC does not lay down the rules soon, restricting the number of leagues a player might participate in, or indeed the number of franchises one owner might buy, the clash with franchise cricket (which is technically domestic) might become difficult to handle",
-    "img": "https://th-i.thgim.com/public/incoming/s1l2te/article70841620.ece/alternates/LANDSCAPE_1200/IMG_TH27IPL_FLASHBACK_2_1_UNDKT8MA.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/opinion/columns/franchise-cricket-is-evolving-be-careful-what-you-wish-for/article70834253.ece",
-    "time": "2026-04-09T06:39:59.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Apple's foldable iPhone faces engineering snags, potential shipment delays: Report",
-    "desc": "Nikkei had reported ​in January that Apple would focus on delivering its ⁠first foldable iPhone and two non-folding ⁠models with upgraded cameras and larger displays for ‌a flagship launch in the second half of 2026",
-    "img": "https://th-i.thgim.com/public/incoming/2aglzw/article70833421.ece/alternates/LANDSCAPE_1200/2026-03-19T022123Z_1832712719_RC2OUGABLUM7_RTRMADP_3_CHINA-SMARTPHONE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/apples-foldable-iphone-faces-engineering-snags-potential-shipment-delays-report/article70833397.ece",
-    "time": "2026-04-07T08:10:00.000Z"
   }
 ];
