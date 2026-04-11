@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "સોનું 1.5 લાખને પાર, ચાંદી 2.5 લાખની નજીક... સોના અને ચાંદીએ અચાનક આપ્યો મોટો આંચકો, જાણો એક્સપર્ટે શું કહ્યું",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચે યુદ્ધ ચાલી રહ્યું હતું, ત્યારે સોના-ચાંદીના ભાવમાં મોટો ઘટાડો જોવા મળ્યો હતો, જો કે યુદ્ધવિરામની જાહેરાતની સાથે સોના-ચાંદીના ભાવમાં ફરી વધારો નોંધાયો છે, સોનાનો ભાવ 1.50 લાખને પાર ગયો છે, જ્યારે ચાંદીનો ભાવ 2.50 લાખ રૂપિયાની નજીક પહોંચી ગયો છે. આ ભાવ MCX પરનો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/mcx-gold-crosses-1-5-lakh-silver-nears-2-5-lakh-gold-and-silver-suddenly-gave-a-big-shock-know-what-the-expert-said-472556 ",
+    "time": "2026-04-11T13:06:44.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "વિશ્વમાં કયો દેશ છે &amp;#039;ગોલ્ડ કિંગ&amp;#039; ? ચીન ટોપ-5માં પણ નથી, જાણો ક્યા નંબરે છે ભારત",
     "desc": "વિશ્વભરના દેશો પાસે રહેલા સોનાના ભંડાર તેમની આર્થિક શક્તિનો પુરાવો છે. અમેરિકાથી લઈને ભારત સુધી બધા દેશો ગોલ્ડ રિઝર્વ રાખે છે, ત્યારે આ લેખમાં જાણીશું કે કયા દેશો પાસે સૌથી વધુ સોનાનો ભંડાર છે અને ભારત આ યાદીમાં ક્યા ક્રમે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -360,15 +369,6 @@ const newsData_gu = [
     "time": "2026-04-09T14:25:21.000Z"
   },
   {
-    "cat": "Business",
-    "title": "રોકાણકાનો મોટી ભેટ આપશે TATAની આ કંપની! પ્રોફિટમાં થયો છે ઉછાળો, જાણો",
-    "desc": "TCSએ ચોથા ક્વાર્ટરમાં 12% નફો અને 10% રેવન્યુ ગ્રોથ નોંધાવીને મજબૂત પ્રદર્શન કર્યું છે, જ્યારબાદ હવે કંપનીએ પોતાના રોકાણકારોને દરેક શેર પર 31 રૂપિયા ડિવિડન્ડ આપવાની જાહેરાત કરી છે. મેગા ડીલ્સ અને AI આધારિત સેવાઓની વધતી માંગે કંપનીના ગ્રોથને સપોર્ટ કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-tata-company-will-give-a-big-gift-to-investors-there-has-been-a-jump-in-tcs-q4-net-profit-know-472243 ",
-    "time": "2026-04-09T14:21:37.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Royal Enfieldની પહેલી ઇલેક્ટ્રિક બાઈક ભારતમાં લોન્ચ, આવતીકાલથી શરૂ ટેસ્ટ ડ્રાઇવ, જાણો રેન્જ અને કિંમત",
     "desc": "ફ્લાઈંગ ફ્લી નામ 1940ના દાયકામાં વપરાતી મૂળ લાઇટવેઇટ મોટરસાઇકલને ઉજાગર કરે છે. નવી C6 તે ફિલસૂફીને આગળ ધપાવે છે. તે નિયો-વિન્ટેજ ડિઝાઇનને કનેક્ટેડ ટેકનોલોજી સાથે જોડે છે, તેને દૈનિક ઉપયોગની મોટરસાઇકલ તરીકે સ્થાન આપે છે.",
@@ -403,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/whatsapp-username-feature-chat-without-sharing-phone-number-472200 ",
     "time": "2026-04-09T10:52:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "હવે ફ્રીમાં ઓવરટાઈમ નહીં કરાવી શકે કંપની, 1 કલાકનો મળશે ડબલ પગાર, જાણો નવા લેબર કોડના નિયમ",
-    "desc": "નવા લેબર કોડ અનુસાર જો કોઈ કર્મચારી નિર્ધારિત સમય (8 કે 9 કલાક) થી વધુ કામ કરે છે તો તેને એક્સ્ટ્રા ચુકવણી જરૂરી છે. આવો હવે જાણીએ 1 કલાક ઓવરટાઈમ કરવા પર તમને કેટલો પગાર મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/now-the-company-will-have-to-pay-for-overtime-the-rule-will-be-implemented-after-the-new-labor-code-472193 ",
-    "time": "2026-04-09T10:31:01.000Z"
   },
   {
     "cat": "Politics",

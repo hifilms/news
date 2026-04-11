@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sanju Samson shatters MS Dhoni's all-time historical record, becomes first centurion in IPL 2026",
+    "desc": "Chennai Super Kings star Sanju Samson has created history for his franchise. In what can be seen as the passing of the baton from MS Dhoni to Samson, the Trivandrum wicketkeeper has shattered the CSK talisman's...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-shatters-ms-dhonis-all-time-historical-record-becomes-first-centurion-in-ipl-2026-2026-04-11-1037194",
+    "time": "2026-04-11T15:29:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is MS Dhoni playing today's IPL match for CSK against DC at MA Chidambaram Stadium?",
+    "desc": "MS Dhoni has been on the sidelines since the start of the Indian Premier League 2026, missing out on all of the matches for the Chennai Super Kings due to a calf issue he picked...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-ms-dhoni-playing-todays-ipl-match-for-csk-against-dc-at-ma-chidambaram-stadium-2026-04-11-1037187",
+    "time": "2026-04-11T14:18:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is Dewald Brevis playing for CSK in clash against DC in IPL 2026?",
+    "desc": "Chennai Super Kings face Delhi Capitals in their fourth match of the Indian Premier League 2026 at the MA Chidambaram Stadium on Saturday, April 11 as they look for their first win of the tournament....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-dewald-brevis-playing-for-csk-in-clash-against-dc-in-ipl-2026-2026-04-11-1037184",
+    "time": "2026-04-11T13:50:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Samson eyes historic hundred, Super Kings going strong at Chepauk",
+    "desc": "Chennai Super Kings are desperate to open their account as they take on Delhi Capitals in their fourth clash in the Indian Premier League 2026. The five-time champions have endured a frustrating start to the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-dc-ipl-2026-live-cricket-score-chennai-super-kings-vs-delhi-capitals-ma-chidambaram-stadium-chennai-latest-match-updates-scorecard-teams-2026-04-11-1037182",
+    "time": "2026-04-11T13:02:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why are Punjab Kings' players wearing black armbands during IPL 2026 clash against SRH?",
     "desc": "Punjab Kings players donned the black armbands in the IPL 2026 clash against the Sunrisers Hyderabad at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh, in solidarity with the families affected in the...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-australia-cricketer-lauds-vaibhav-sooryavanshi-s-masterclass-knock-against-rcb-2026-04-11-1037152",
     "time": "2026-04-11T08:42:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Player battles to watch out for in IPL 2026 Match 17",
-    "desc": "Punjab Kings take on Sunrisers Hyderabad in game 17 of the ongoing IPL (Indian Premier League) 2026. The two sides will lock horns at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, on April...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-srh-3-player-battles-to-watch-out-for-in-ipl-2026-match-17-2026-04-11-1037145",
-    "time": "2026-04-11T07:38:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Daryl Mitchell refuses to face Pakistan's Usman Tariq in PSL 2026 over controversial bowling action",
-    "desc": "The 18th game of the ongoing PSL (Pakistan Super League) saw Quetta Gladiators taking on Rawalpindiz. While Gladiators registered a brilliant victory in the game, a moment between Daryl Mitchell and Usman Tariq managed to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/daryl-mitchell-refuses-to-face-pakistan-s-usman-tariq-in-psl-2026-over-controversial-bowling-action-watch-2026-04-11-1037139",
-    "time": "2026-04-11T06:21:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will weather in New Chandigarh fare for IPL 2026 game 17?",
-    "desc": "The stage is set for the 17th game of the ongoing IPL (Indian Premier League) 2026. Punjab Kings will take on Sunrisers Hyderabad at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, on April...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-srh-weather-report-how-will-weather-in-new-chandigarh-fare-for-ipl-2026-game-17-2026-04-11-1037132",
-    "time": "2026-04-11T05:12:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi breaks down his mentality against big names after brilliant knock against RCB",
-    "desc": "Vaibhav Sooryavanshi is the name on everybody’s mind with the ongoing IPL (Indian Premier League) 2026 season. The 15-year-old superstar has lit the marquee tournament on fire with his brilliant performances for Rajasthan Royals and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-breaks-down-his-mentality-against-big-names-after-brilliant-knock-against-rcb-2026-04-11-1037126",
-    "time": "2026-04-11T04:19:07.000Z"
   }
 ];
