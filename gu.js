@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "વૈભવ સૂર્યવંશીએ રચ્યો ઈતિહાસ, IPLમાં પોતાના નામે કર્યો વધુ એક રેકોર્ડ",
+    "desc": "શુક્રવારે રોયલ ચેલેન્જર્સ બેંગ્લોર (RCB) સામે રમાયેલી IPL મેચમાં 15 વર્ષીય વૈભવ સૂર્યવંશીએ ઇનિંગની શરૂઆત કરતા માત્ર 26 બોલમાં 78 રન બનાવ્યા. 300ના સ્ટ્રાઇક રેટથી બેટિંગ કરતા આ વિસ્ફોટક બેટ્સમેને 7 છગ્ગા અને 8 ચોગ્ગા ફટકાર્યા. વૈભવ સૂર્યવંશીએ RCB સામે માત્ર 15 બોલમાં પોતાની અડધી સદી પૂરી કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-create-history-two-ipl-fifties-in-15-balls-472515 ",
+    "time": "2026-04-11T09:26:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold-Silver Rate: એક મહિનામાં સોનું 10000 રૂપિયા અને ચાંદી 32000 રૂપિયા સસ્તા થયા, જાણો યુદ્ધ પછી શું જોવા મળી સ્થિતિ?",
+    "desc": "અમેરિકા-ઈઝરાયેલ અને ઈરાન વચ્ચે યુદ્ધની સ્થિતિમાં સોનું અને ચાંદી સતત ઉતાર ચડાવમાં જોવા મળી રહ્યા છે. હાલ યુદ્ધવિરામની સ્થિતિમાં સોનું ચાંદી ફરીથી ચડ્યા છે. પરંતુ છેલ્લા એક મહિનામાં તથા યુદ્ધથી લઈને અત્યાર સુધીમાં સોનું અને ચાંદી ઘટાડા સાથે જોવા મળ્યા. જો કે છેલ્લા સપ્તાહમાં સોનામાં વધારો જ્યારે ચાંદીમા ઘટાડો નોંધાયો. વિગતવાર જાણો માહિતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-situation-in-the-last-one-month-price-fluctuations-after-the-war-explainer-472500 ",
+    "time": "2026-04-11T08:19:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સરકારી કર્મચારીઓ માટે મહત્વના સમાચાર, કયા ફોર્મ્યૂલાથી વધશે પગાર? જાણો મિનિમમ બેઝિક પે વિશે",
+    "desc": "આઠમાં પગાર પંચની ભલામણો લાગૂ થવાથી કેન્દ્ર સરકારના કર્મચારીઓના પગાર, ભથ્થા અને પેન્શનમાં સારો એવો વધારો થઈ શકે છે. પગાર વધારામાં ફિટમેન્ટ ફેક્ટર મહત્વનો છે. વિવિધ ફિટમેન્ટ ફેક્ટર ચર્ચામાં છે. કયો ફોર્મ્યૂલા સરકાર અપનાવશે તે ચર્ચામાં છે ત્યારે કેટલો વધી શકે પગાર?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-update-for-government-employees-approx-fitment-factor-minimum-basic-pay-472491 ",
+    "time": "2026-04-11T07:37:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "DAને લઈને સુપ્રીમ કોર્ટનો મોટો ચુકાદો, લાખો પેન્શનરોને થશે ફાયદો",
+    "desc": "લાખો પેન્શનરો માટે ખુશીના સમાચાર સામે આવ્યા છે. DAને લઈને સુપ્રીમ કોર્ટે એક મહત્વનો ચુકાદો આપ્યો છે, જેનો સીધો ફાયદો પેન્શનરોને થવાનો છે. ત્યારે સુપ્રીમ કોર્ટે શું ચુકાદો આપ્યો છે અને તેનાથી પેન્શનરોને કેવી રીતે ફાયદો થશે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/da-hike-supreme-court-major-verdict-on-dr-millions-of-pensioners-to-benefit-472482 ",
+    "time": "2026-04-11T07:07:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ગુવાહાટીમાં RCBની હારના 3 સૌથી મોટા વિલન, જાણો રાજસ્થાન સામે કેમ હાર્યું બેંગ્લોર",
     "desc": "શુક્રવારે રમાયેલી IPL મેચમાં રાજસ્થાન રોયલ્સે રોયલ ચેલેન્જર્સ બેંગ્લોરને 6 વિકેટથી હરાવ્યું. પ્રથમ બેટિંગ કરતા રોયલ ચેલેન્જર્સ બેંગ્લોરે 20 ઓવરમાં 8 વિકેટ ગુમાવીને 201 રન બનાવ્યા. જવાબમાં રાજસ્થાન રોયલ્સે 18 ઓવરમાં 4 વિકેટ ગુમાવીને 202 રન બનાવીને 6 વિકેટથી જીત નોંધાવી.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -477,15 +513,6 @@ const newsData_gu = [
     "time": "2026-04-08T16:32:09.000Z"
   },
   {
-    "cat": "Business",
-    "title": "60% DAમાં કેમ આટલી રાહ? 8મા પગારપંચની તેના પર શું પડશે અસર? કેટલો ફાયદો અને નુકસાન? જાણો",
-    "desc": "જાન્યુઆરી 2026માં થનારો DAનો વધારો આ વખતે વિલંબિત થયો છે, મુખ્યત્વે 8મા પગારપંચના ટ્રાજિશન અને ફાઈનેંશિયલ પ્રોસેસ કારણ છે. જો કે, ડીએમાં લેટ થવાને કારણે કર્મચારીઓને એરિયર મળશે. ચાલો જાણીએ કે ડીએમાં વધારો ક્યારે થઈ શકે છે અને આ વિલંબથી કયા ફાયદા અને નુકસાન થશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/why-wait-for-60-percent-da-what-will-be-the-impact-of-the-8th-pay-commission-on-it-how-much-is-the-benefit-and-loss-find-out-472087 ",
-    "time": "2026-04-08T14:26:52.000Z"
-  },
-  {
     "cat": "World",
     "title": "યુદ્ધવિરામ પછી ટ્રમ્પનો ટેરિફ વોર, આ દેશો પર લગાવ્યો 50% ટેક્સ, જાણો",
     "desc": "બુધવારે અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે કડક ચેતવણી આપતા કહ્યું કે આ દેશ પર તાત્કાલિક 50 ટકા ટેરિફ લગાવવામાં આવશે. ટ્રમ્પે આજે યુદ્ધવિરામની જાહેરાત કરી હતી. આ યુદ્ધ 39 દિવસ ચાલ્યું હતું, જે બાગ સીઝફાયર થયું છે. જે બે અઠવાડિયા સુધી રહેશે.",
@@ -493,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/trump-tariff-war-after-ceasefire-50-percent-tax-imposed-on-these-countries-know-472080 ",
     "time": "2026-04-08T13:32:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "યુદ્ધવિરામની અસર! તેલ, ગેસ, ખોરાકથી લઈને ફ્લાઇટ ટિકિટ સુધી, જાણો શું અને ક્યારે થશે સસ્તું ?",
-    "desc": "ઈરાન-અમેરિકા યુદ્ધવિરામ બાદ, કાચા તેલના ભાવમાં ઘટાડો થયો છે. આનાથી પેટ્રોલ, ડીઝલ, ગેસ, રાશન, ફ્લાઇટ ટિકિટ અને રોજિંદા વસ્તુઓ સસ્તી થવાની આશા જાગી છે. જો યુદ્ધવિરામનું ઉલ્લંઘન નહીં થાય, તો તેની અસર ધીમે ધીમે તમારા ખિસ્સા પર પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/impact-of-ceasefire-from-oil-gas-food-to-flight-tickets-know-what-will-become-cheaper-and-when-472065 ",
-    "time": "2026-04-08T12:48:44.000Z"
   },
   {
     "cat": "World",
@@ -520,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/lowest-total-in-t20-ivory-coast-team-all-out-on-just-7-runs-472038 ",
     "time": "2026-04-08T11:35:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "અદાણી ગ્રુપના આ શેરમાં તોફાની તેજી ! USથી આવ્યા સારા સમાચાર અને 13%નો ઉછાળો, શું આ રોકાણ કરવાનો યોગ્ય સમય છે?",
-    "desc": "US કોર્ટ દ્વારા અરજી સ્વીકાર કર્યા બાદ અદાણી ગ્રુપની શેરમાં 13 %ની જોરદાર તેજી જોવા મળી છે, આ યોજીટિવ સંકેતથી રોકાણકારોનો ભરોસો વધ્યો છે, હવે આગળની દિશા કોર્ટના અંતિમ નિર્ણય અને બજારમાં માહોલ પર નિર્ભર રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/adani-group-shares-surge-in-price-good-news-from-us-and-13-percent-jump-is-now-the-right-time-to-invest-472037 ",
-    "time": "2026-04-08T11:20:17.000Z"
   },
   {
     "cat": "Sports",
@@ -556,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/this-country-once-ruled-over-america-for-176-years-13-original-coloniesdeclaration-of-independence-1776-472013 ",
     "time": "2026-04-08T09:26:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ગેસ સિલિન્ડરના નવા ભાવ જાહેર, જાણો તમારા શહેરમાં શું છે આજનો ભાવ",
-    "desc": "વૈશ્વિક તણાવ વચ્ચે સામાન્ય માણસ માટે રાહતના સમાચાર આવ્યા છે. અમેરિકા અને ઈરાન વચ્ચે યુદ્ધવિરામની જાહેરાત બાદ આંતરરાષ્ટ્રીય બજારમાં ક્રૂડ ઓઈલના ભાવમાં ઘટાડો જોવા મળ્યો છે. તો 8 એપ્રિલે LPG ગેસના નવા ભાવ જાહેર કરવામાં આવ્યા છે. ત્યારે તમારા શહેરમાં ગેસના ભાવ શું છે ? તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/lpg-cylinder-price-today-know-latest-rate-of-domestic-gas-cylinder-472012 ",
-    "time": "2026-04-08T09:25:15.000Z"
   },
   {
     "cat": "Sports",
@@ -648,15 +648,6 @@ const newsData_gu = [
     "time": "2026-04-07T17:10:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "માથા પર બોલ વાગતાં યુવા ખેલાડી બેભાન, તાત્કાલિક લઈ જવો પડ્યો હોસ્પિટલ",
-    "desc": "પાકિસ્તાન સુપર લીગ (PSL) 2026 દરમિયાન ઇસ્લામાબાદ યુનાઇટેડના નેટ સેશન દરમિયાન એક ભયાનક ઘટના બની હતી. યુવા ખેલાડી મીર હમઝા સજ્જાદને માથા પર બોલ વાગવાથી તે બેભાન થઈ ગયો હતો. જે બાદ તેને હોસ્પિટલ લઈ જવામાં આવ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/psl-2026-islamabad-united-mir-hamza-sajjad-head-injury-during-training-471938 ",
-    "time": "2026-04-07T16:10:37.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "એપ્રિલમાં મારુતિની આ કાર પર બમ્પર ડિસ્કાઉન્ટ ! એક મોડેલ પર તો રૂપિયા 2 લાખ સુધીનો ફાયદો",
     "desc": "જો તમે નવી કાર ખરીદવાનું વિચારી રહ્યા છો, તો એપ્રિલ તમારા માટે સુવર્ણ તક સાબિત થઈ શકે છે. મારુતિ સુઝુકી નેક્સા તેની કાર પર નોંધપાત્ર ડિસ્કાઉન્ટ ઓફર કરી રહી છે, જેનાથી તમે ₹2 લાખ સુધીની બચત કરી શકો છો. આ ડીલ એટલી આકર્ષક છે કે નવી કાર ખરીદતા પહેલા એકવાર ચોક્કસ તપાસવી જોઈએ.",
@@ -664,15 +655,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-nexa-april-2026-discounts-invicto-tio-baleno-offers-471929 ",
     "time": "2026-04-07T14:51:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "કેવી રીતે લીક થયું અમેરિકાનું સિક્રેટ મિશન ? કોણ છે ટ્રમ્પની ટીમમાં ગદ્દાર ? શરૂ થઈ શોધખોળ",
-    "desc": "ટ્રમ્પનો દાવો છે કે વ્હાઈટ હાઉસમાંથી કોઈ ગદ્દારે અમેરિકી પાયલોટ ગુમ થવાની માહિતી મીડિયામાં લીક કરી. આ કારણે ઈરાન એલર્ટ થઈ ગયું અને રેસ્ક્યુ મિશન મુશ્કેલ બન્યું. ટ્રમ્પે આ ગદ્દારને શોધવા માટે કાર્યવાહી શરૂ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/who-is-leaked-america-pilot-rescue-mission-trump-looking-for-traitor-471921 ",
-    "time": "2026-04-07T14:07:34.000Z"
   },
   {
     "cat": "Tech",

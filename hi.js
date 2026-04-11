@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Punjab Kings opt to bowl first in New Chandigarh",
+    "desc": "Punjab Kings and Sunrisers Hyderabad take on each other at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh for the 17th game of the ongoing IPL (Indian Premier League) 2026. It is worth noting that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-srh-live-cricket-score-punjab-kings-aim-to-keep-unbeaten-run-alive-2026-04-11-1037157",
+    "time": "2026-04-11T09:25:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It is ridiculous': Former Australia cricketer lauds Vaibhav Sooryavanshi's masterclass knock against RCB",
+    "desc": "Rajasthan Royals continued their unbeaten run in the ongoing IPL (Indian Premier League) 2026. The side took on defending champions Royal Challengers Bengaluru at the Barsapara Stadium in Guwahati on April 10, and Royals managed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-australia-cricketer-lauds-vaibhav-sooryavanshi-s-masterclass-knock-against-rcb-2026-04-11-1037152",
+    "time": "2026-04-11T08:42:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 Player battles to watch out for in IPL 2026 Match 17",
+    "desc": "Punjab Kings take on Sunrisers Hyderabad in game 17 of the ongoing IPL (Indian Premier League) 2026. The two sides will lock horns at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, on April...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-srh-3-player-battles-to-watch-out-for-in-ipl-2026-match-17-2026-04-11-1037145",
+    "time": "2026-04-11T07:38:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Daryl Mitchell refuses to face Pakistan's Usman Tariq in PSL 2026 over controversial bowling action",
     "desc": "The 18th game of the ongoing PSL (Pakistan Super League) saw Quetta Gladiators taking on Rawalpindiz. While Gladiators registered a brilliant victory in the game, a moment between Daryl Mitchell and Usman Tariq managed to...",
     "img": "",
@@ -61,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-unleashes-mayhem-against-rcb-leaves-netizens-mesmerised-check-reactions-2026-04-10-1037107",
     "time": "2026-04-10T18:09:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Phil Salt becomes first ever cricketer in IPL to register unwanted record with golden duck against RR",
-    "desc": "Phil Salt’s rough patch with the bat continued in the marquee clash against Rajasthan Royals at the Barsapara Cricket Stadium in Guwahati. In the very first ball of the match, Jofra Archer got the better...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-becomes-first-ever-cricketer-in-ipl-to-register-unwanted-record-with-golden-duck-against-rr-2026-04-10-1037099",
-    "time": "2026-04-10T16:05:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Jacob Duffy not playing for RCB vs RR in IPL 2026 clash at Barsapara Cricket Stadium in Guwahati?",
-    "desc": "Royal Challengers Bengaluru have dropped Jacob Duffy for the marquee clash against Rajasthan Royals at the Barsapara Cricket Stadium in Guwahati. Captain Rajat Patidar informed that Josh Hazlewood would replace him in the playing XI....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jacob-duffy-not-playing-for-rcb-vs-rr-in-ipl-2026-clash-at-barsapara-cricket-stadium-in-guwahati-2026-04-10-1037090",
-    "time": "2026-04-10T14:46:12.000Z"
   }
 ];
