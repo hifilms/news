@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "From homes to police stations, IGL expands PNG network amid energy supply crunch",
+    "desc": "Piped Natural Gas (PNG) is set to replace LPG cylinders across Delhi-NCR as Indraprastha Gas Ltd (IGL) accelerates its expansion. Driven by energy supply disruptions and government push, IGL aims to significantly increase PNG connections, targeting households, commercial establishments, and even police stations. This move enhances energy security and reduces import dependence.",
+    "img": "https://static.toiimg.com/photo/msid-130205310,imgsize-2493830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/from-homes-to-police-stations-igl-expands-png-network-amid-energy-supply-crunch/articleshow/130204034.cms",
+    "time": "2026-04-12T09:17:40.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Polls open in Hungary in key election that could unseat populist Prime Minister Orban",
+    "desc": "During his 16 years as Prime Minister, Mr. Orban has launched harsh crackdowns on minority rights and media freedoms, subverted many of Hungary's institutions and been accused of siphoning large sums of money into the coffers of his allied business elite, an allegation he denies.",
+    "img": "https://th-i.thgim.com/public/incoming/nlzy2e/article70853605.ece/alternates/LANDSCAPE_1200/2026-04-12T072438Z_293541655_RC2INKA3CJH1_RTRMADP_3_HUNGARY-ELECTION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hungary-election-viktor-orban-magyar/article70853579.ece",
+    "time": "2026-04-12T09:12:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Asha Bhosle's granddaughter Zanai Bhosle",
+    "desc": "Zanai Bhosle, the granddaughter of the renowned singer Asha Bhosle, is poised to make waves in the film industry as she takes on her first acting role in the grand historical drama 'The Pride of Bharat - Chhatrapati Shivaji Maharaj.' Embodying the character of Rani Sai Bhonsale, Shivaji's beloved wife, Zanai's debut is one to watch.",
+    "img": "https://static.toiimg.com/photo/msid-130205231,imgsize-127236.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-is-zanai-bhosle-all-about-asha-bhosles-granddaughter-who-will-debut-as-rani-sai-bhonsale-opposite-rishab-shetty-in-the-pride-of-bharat/articleshow/130205231.cms",
+    "time": "2026-04-12T09:11:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Started my journey singing Asha Ji’s songs",
+    "desc": "Legendary singer Asha Bhosle has passed away at 92, leaving a profound void in the music industry. Her unparalleled versatility, from cabaret numbers to ghazals, defined generations. Singer Sukhbir fondly remembered her iconic songs, calling her an inspiration and a \"forever voice\" whose melodies are etched in history, continuing to inspire artists daily.",
+    "img": "https://static.toiimg.com/photo/msid-130205260,imgsize-52750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/asha-bhosle-passes-away-singer-sukhbir-pays-heartfelt-tribute-says-her-evergreen-spirit-continues-to-inspire-exclusive/articleshow/130205206.cms",
+    "time": "2026-04-12T09:10:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "PM Narendra Modi pays tribute to Asha Bhosle, deeply saddened by her demise",
+    "desc": "Legendary singer Asha Bhosle has passed away at the age of 92 in Mumbai after reportedly suffering a cardiac arrest and respiratory issues. Her son confirmed her demise, prompting an outpouring of tributes from celebrities and fans. Prime Minister Narendra Modi expressed deep sadness, remembering her extraordinary musical journey and timeless brilliance.",
+    "img": "https://static.toiimg.com/photo/msid-130205100,imgsize-90570.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pm-narendra-modi-pays-tribute-to-asha-bhosle-deeply-saddened-by-her-demise-will-cherish-the-interactions-ive-had-with-her/articleshow/130205071.cms",
+    "time": "2026-04-12T08:55:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Mumbai are slightly ahead': Pathan backs MI ahead of clash against RCB",
+    "desc": "Mumbai Indians and Royal Challengers Bengaluru face off tonight in a high-voltage IPL clash. Despite RCB's recent form, former pacer Irfan Pathan believes Mumbai Indians hold an edge in man-to-man comparison. He highlighted that execution in the death overs and the toss could be decisive factors in this encounter.",
+    "img": "https://static.toiimg.com/photo/msid-130205095,imgsize-209440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mumbai-are-slightly-ahead-irfan-pathan-backs-mi-ahead-of-clash-against-rcb/articleshow/130205103.cms",
+    "time": "2026-04-12T08:55:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'One of the most iconic and versatile voices’: PM Modi condoles death of Asha Bhosle",
+    "desc": "Legendary singer Asha Bhosle passed away at 92 in Mumbai due to multiple organ failure. Her son confirmed her demise, with her residence open for tributes and last rites scheduled for Monday with state honors. Bhosle, a celebrated icon, had a career spanning decades, beginning in 1943.",
+    "img": "https://static.toiimg.com/photo/msid-130204954,imgsize-1231392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/one-of-the-most-iconic-and-versatile-voices-pm-modi-condoles-death-of-asha-bhosle/articleshow/130204410.cms",
+    "time": "2026-04-12T08:44:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DMK Minister Geetha Jeevan",
+    "desc": "Tamil Nadu Social Welfare Minister P. Geetha Jeevan says number of cases registered, chargesheets filed, and convictions secured have increased; highlighting steps taken to ensure fresh eggs for noon day meals, she promises efforts to ease traffic woes, boost healthcare and create more jobs in Thoothukudi",
+    "img": "https://th-i.thgim.com/public/incoming/s6f1wt/article70852069.ece/alternates/LANDSCAPE_1200/9865_11_4_2026_16_0_15_1_DSC_9653.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/we-have-created-a-safe-environment-that-encourages-women-to-speak-up-dmk-minister-geetha-jeevan-interview/article70850521.ece",
+    "time": "2026-04-12T08:44:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "VCK returns to its roots in the south",
+    "desc": "The Viduthalai Chiruthaigal Katchi’s journey as a political party began when Thol. Thirumavalavan took over the mantle of the Dalit Panthers Iyakkam (DPI) in Madurai following the passing of its leader, A. Malaichamy, in 1989.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/2fksfh/article70853522.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-12%20at%2012.17.39%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-2026-vck-returns-to-its-roots-in-the-south/article70851280.ece",
+    "time": "2026-04-12T08:43:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Maharashtra CM Devendra Fadnavis mourns Asha Bhosle's demise",
+    "desc": "Legendary singer Asha Bhosle has passed away in Mumbai at the age of 92 following a chest infection and respiratory problems. Known for her incredible versatility and extensive career, Bhosle's demise is mourned by celebrities and fans alike, with tributes highlighting her immense contribution to Indian music. Her funeral is scheduled for Monday.",
+    "img": "https://static.toiimg.com/photo/msid-130204976,imgsize-30876.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maharashtra-cm-devendra-fadnavis-mourns-the-demise-of-legendary-singer-asha-bhosle-bharat-ke-itihas-mein-joh-unhone-sangeet-ki-seva-ki-hai/articleshow/130204973.cms",
+    "time": "2026-04-12T08:42:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We need young jansevak': JD(U) workers pitch Nishant Kumar as ‘future CM’ in Bihar after Nitish’s exit",
+    "desc": "Posters in Patna advocating for Nishant Kumar as Bihar's future Chief Minister have ignited political discussions following Nitish Kumar's move to the Rajya Sabha. While speculation mounts about Nishant's potential role, JD(U) leaders assert Nitish Kumar remains the guiding force. This transition signals a significant shift in Bihar's political dynamics.",
+    "img": "https://static.toiimg.com/photo/msid-130204785,imgsize-195294.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/we-need-young-jansevak-jdu-workers-pitch-nishant-kumar-as-future-cm-in-bihar-after-nitishs-exit/articleshow/130204611.cms",
+    "time": "2026-04-12T08:41:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Devious intentions’: Derek O'Brien attacks govt ahead of Parliament sitting on women's quota, delimitation",
+    "desc": "Prime Minister Narendra Modi on Sunday, April 12, wrote to floor leaders of Lok Sabha and Rajya Sabha, urging them to support the amendments to the women's reservation law during the special three-day session of Parliament.",
+    "img": "https://th-i.thgim.com/public/incoming/v49qij/article70853562.ece/alternates/LANDSCAPE_1200/AITC%20Derek%20OBrien%20PC%203.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/opposition-on-womens-quota-discussions-parliament/article70853530.ece",
+    "time": "2026-04-12T08:26:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When an Achuthamenon campaigns for CPI(M) candidate in Kilvelur",
+    "desc": "A polio survivor, Mr. Achuthamenon, named after the former Chief Minister of Kerala, has been travelling to every nook and corner of the constituency in a campaign vehicle equipped with a public address system, canvassing votes for the party’s candidate, D. Latha",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/4dprs6/article70851021.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-11%20at%2014.42.29.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-election-2026-when-achuthamenon-a-polio-survivor-campaigns-for-cpm-candidate-in-kilvelur/article70850535.ece",
+    "time": "2026-04-12T08:21:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Asha Bhosle passes away, her last rites to take place at Shivaji park on Monday",
+    "desc": "Legendary singer Asha Bhosle passed away at the age of 92 on April 12th at Breach Candy hospital in Mumbai. She was admitted due to chest infection and respiratory problems. Her son Anand Bhosle confirmed the news, announcing that her last rites will be performed tomorrow at Shivaji Park. Fans and celebrities are mourning her demise.",
+    "img": "https://static.toiimg.com/photo/msid-130204679,imgsize-63318.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/asha-bhosle-passes-away-at-92-her-last-rites-to-take-place-at-shivaji-park-at-4pm-on-monday-confirms-her-son-anand-bhosle/articleshow/130204689.cms",
+    "time": "2026-04-12T08:14:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Selfridge reveals daughter’s 2-week hospitalization",
+    "desc": "Taylor Selfridge, known for her time on Teen Mom, opened up about a terrifying two weeks in the hospital with her three-year-old daughter, Maya. What kicked off as a mere stomach bug evolved into a serious situation, necessitating an airlift for Maya to receive urgent medical treatment.",
+    "img": "https://static.toiimg.com/photo/msid-130204620,imgsize-133758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/taylor-selfridge-reveals-3-yo-daughters-2-week-hospitalization-my-baby-is-a-fighter/articleshow/130204592.cms",
+    "time": "2026-04-12T08:09:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Keep it up': Usman Tariq responds after Ashwin backs PSL batter walking away",
+    "desc": "Tariq, whose action features a stop-and-pause, side-arm release, has drawn attention in recent times. The discussion around his action grew during the ICC Men's T20 World Cup 2026, where opinions were divided on its legality and impact.",
+    "img": "https://static.toiimg.com/photo/msid-130204522,imgsize-41644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/keep-it-up-usman-tariq-responds-after-ashwin-backs-psl-batter-walking-away-vs-pakistan-spinner/articleshow/130204395.cms",
+    "time": "2026-04-12T07:57:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Foreign investors continue offloading in April, pull out Rs 48,213 crore so far",
+    "desc": "Foreign investors are continuing their significant sell-off in Indian stocks, withdrawing over Rs 48,000 crore in early April. This follows a record Rs 1.17 lakh crore exit in March, driven by global uncertainty and escalating West Asian tensions. Analysts cite rising crude oil prices and a weaker rupee as key concerns, with some Asian markets appearing more attractive for now.",
+    "img": "https://static.toiimg.com/photo/msid-130204063,imgsize-26600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/fpi-profile-foreign-investors-continue-offloading-in-april-pull-out-rs-48213-crore-so-far/articleshow/130202935.cms",
+    "time": "2026-04-12T07:45:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NTK’s transgender candidate vows to make Villivakkam a model constituency",
+    "desc": "She says the prevention of drug abuse among youngsters and ensuring women’s welfare will be her first priority if elected; there are plans to create playgrounds and fine arts centres to revive vanishing art forms; both the Dravidian majors have neglected issues for several decades, she adds",
+    "img": "https://th-i.thgim.com/public/incoming/xq1rn2/article70851530.ece/alternates/LANDSCAPE_1200/1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/ntkstransgender-candidate-vows-to-makevillivakkama-model-constituency/article70851055.ece",
+    "time": "2026-04-12T07:36:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zack Snyder reveals why he didn't cast Christian Bale as Batman",
+    "desc": "In a recent interview, director Zack Snyder disclosed that Christian Bale's time as Batman was officially over, which is why he didn't reprise the role in 'Batman V Superman'. Snyder pointed out that any talks of Bale returning would only be plausible if his version of the caped crusader was still in action, not hanging up the cowl.",
+    "img": "https://static.toiimg.com/photo/msid-130204087,imgsize-167146.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zack-snyder-reveals-why-he-didnt-cast-christian-bale-as-batman-in-batman-v-superman-i-think-bale-had-stayed-if/articleshow/130204087.cms",
+    "time": "2026-04-12T07:25:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift is named in Blake Lively and Justin Baldoni’s case",
+    "desc": "Unexpectedly, Taylor Swift's name is cropping up in the jury selection phase of the trial involving Blake Lively and Justin Baldoni. Though Swift has distanced herself from Lively in recent times, she's mentioned alongside other high-profile celebrities like Ryan Reynolds.",
+    "img": "https://static.toiimg.com/photo/msid-130203912,imgsize-139858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-named-in-blake-lively-and-justin-baldoni-jury-selection-questions-ahead-of-may-18-trial-as-baldonis-team-flags-swifts-cookie-recipe-article-in-livelys-exhibit-list-irrelevant/articleshow/130203912.cms",
+    "time": "2026-04-12T07:25:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu’s match industry faces threat from cheap Chinese lighters",
+    "desc": "The match industry in Tamil Nadu, over a 100 years old, might have just met its most formidable enemy. A new threat has emerged in the form of cheap, imported, limited-use plastic lighters, and it looks like they may take the puff out of the safety match industry. S. Sundar reports on this phenomenon from Sivakasi, the match heartland of the South.",
+    "img": "https://th-i.thgim.com/public/incoming/3woc1j/article70852036.ece/alternates/LANDSCAPE_1200/MM%20MATCH2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/all-the-light-we-cannot-see-tamil-nadu-match-industry-faces-threat-from-cheap-chinese-lighters/article70852039.ece",
+    "time": "2026-04-12T07:10:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' box office Day 25 [LIVE]: Film is set to cross Rs 1080 cr today",
+    "desc": "The Revenge' has taken the box office by storm, eclipsing the Rs 1000 crore net milestone in India. Directed by Aditya Dhar, the film is maintaining its momentum in the fourth week of release, attracting enthusiastic audiences and raking in impressive collections both daily and weekly. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130204010,imgsize-181088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-25-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-r-madhavan-sara-arjuns-film-eyes-rs-1080-crore-india-net-on-fourth-sunday-after-becoming-the-first-hindi-film-to-earn-rs-1000-crore-amid-eyeing-rs-1700-crore-globally/articleshow/130204010.cms",
+    "time": "2026-04-12T07:10:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cameron Diaz reveals THIS strict house rule for guests",
+    "desc": "no street shoes indoors, especially in New York City. She believes outside environments carry germs and even expects guests to change clothes before entering her home. This meticulous approach ensures her floors remain pristine, a habit she maintains even after stepping away from Hollywood's peak for personal life and wellness pursuits.",
+    "img": "https://static.toiimg.com/photo/msid-130203968,imgsize-43212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/cameron-diaz-reveals-strict-house-rule-that-leaves-guests-waiting-outside-street-shoes-no-entry/articleshow/130203953.cms",
+    "time": "2026-04-12T07:01:00.000Z"
+  },
+  {
     "cat": "World",
     "title": "China says it will resume some ties with Taiwan including more direct flights",
     "desc": "The Taiwan Work Office under China’s Communist Party issued a statement saying it would explore setting up a longstanding communication mechanism between the Communist Party and Taiwan’s Kuomingtang Party, and facilitate the import of Taiwan’s aquaculture products, after it banned them in recent years",
@@ -189,15 +396,6 @@ const newsData_en = [
     "time": "2026-04-12T05:06:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "SZA denies being a stand-in for Justin Bieber at Coachella",
-    "desc": "SZA took to her social media to quash rumors about her allegedly being paid to back up Justin Bieber during Coachella. She confirmed she was actually in New York and hadn't received any money for that gig. Still, fans are buzzing with excitement at the thought of a potential surprise collaboration between the two artists.",
-    "img": "https://static.toiimg.com/photo/msid-130202605,imgsize-80816.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/coachella-2026-sza-clarifies-rumors-of-being-a-stand-in-for-justin-bieber-lmao-who-made-this-up/articleshow/130202605.cms",
-    "time": "2026-04-12T04:51:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Virat Kohli on the brink of history, poised to become 1st batter to...",
     "desc": "Virat Kohli is on the cusp of a historic T20 milestone, needing just 20 runs to become the first batter to score 1,000 runs against Mumbai Indians. He already holds the record for most T20 runs against MI, with 980 in 35 innings. This achievement adds another layer to his dominance against top teams.",
@@ -205,33 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-virat-kohli-on-the-brink-of-history-poised-to-become-1st-batter-to-/articleshow/130202581.cms",
     "time": "2026-04-12T04:43:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lea Thompson talks about ‘Back To The Future’",
-    "desc": "Actress Lea Thompson, famed for 'Back To The Future,' humorously reflects on playing aged characters for four decades, starting with her role as a 17-year-old who also portrayed a 47 and 77-year-old. Now in her 60s, she jokes about the difference between prosthetic makeup and her current skincare routine, cherishing the film's enduring global appeal.",
-    "img": "https://static.toiimg.com/photo/msid-130202566,imgsize-103028.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lea-thompson-recalls-playing-three-ages-in-back-to-the-future-says-people-are-used-to-me-getting-older/articleshow/130202566.cms",
-    "time": "2026-04-12T04:43:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Olivia Munn shares Kate Middleton's words that helped her in cancer journey",
-    "desc": "In the wake of her breast cancer diagnosis, Olivia Munn found unexpected encouragement in Kate Middleton's reflections. Dealing with the harsh side effects of treatment, Munn felt like an island, battling chronic tiredness and discomfort.",
-    "img": "https://static.toiimg.com/photo/msid-130202557,imgsize-74748.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/olivia-munn-shares-kate-middletons-words-that-made-her-feel-shes-not-alone-in-her-cancer-journey/articleshow/130202557.cms",
-    "time": "2026-04-12T04:40:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Denzel Washington",
-    "desc": "Amidst his illustrious career, Hollywood legend Denzel Washington reminds us that genuine success isn't about the accolades or accolades one garners. Addressing graduates at Dillard University, he articulated a powerful message about the importance of making a difference in the lives of others, embodying the idea that the greatest legacy one can create is through empowerment and encouragement.",
-    "img": "https://static.toiimg.com/photo/msid-130202475,imgsize-95878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-denzel-washington-at-the-end-of-the-day-its-not-about-what-you-have-or-even-what-youve-accomplished-its-about-who-youve-lifted-up-who-youve-made-better-/articleshow/130202475.cms",
-    "time": "2026-04-12T04:29:54.000Z"
   },
   {
     "cat": "Politics",
@@ -288,24 +459,6 @@ const newsData_en = [
     "time": "2026-04-12T03:35:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NTK’s transgender candidate vows to make Villivakkam a model constituency",
-    "desc": "She says the prevention of drug abuse among youngsters and ensuring women’s welfare will be her first priority if elected; there are plans to create playgrounds and fine arts centres to revive vanishing art forms; both the Dravidian majors have neglected issues for several decades, she adds",
-    "img": "https://th-i.thgim.com/public/incoming/xq1rn2/article70851530.ece/alternates/LANDSCAPE_1200/1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/ntkstransgender-candidate-vows-to-makevillivakkama-model-constituency/article70851055.ece",
-    "time": "2026-04-12T03:32:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Alanna Ubach talks about ‘Legally Blonde’ success",
-    "desc": "Actress Alanna Ubach, who played Serena McGuire in 'Legally Blonde,' fondly recalls the film's enduring success and fan recognition, especially for her iconic 'I got bangs' line. She shared her surprise at the movie's eventual fame and her close friendship with co-star Reese Witherspoon, noting their initial doubts about playing younger characters.",
-    "img": "https://static.toiimg.com/photo/msid-130201994,imgsize-137088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/i-light-up-every-single-time-alanna-ubach-reveals-what-she-loves-the-most-when-being-remembered-for-legally-blonde/articleshow/130201994.cms",
-    "time": "2026-04-12T03:29:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL match today, LSG vs GT: Predicted playing XI, head-to-head, pitch report, Lucknow weather update",
     "desc": "Lucknow Super Giants and Gujarat Titans clash today in a high-stakes IPL 2026 encounter. Both teams are coming off thrilling last-ball victories, with LSG aiming for their third consecutive win while GT seeks to build momentum. The match promises a balanced contest on a sporting pitch, with the heat expected to play a role.",
@@ -313,51 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-match-today-lsg-vs-gt-predicted-playing-xi-head-to-head-pitch-report-lucknow-weather-update/articleshow/130201982.cms",
     "time": "2026-04-12T03:22:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Veteran actor John Nolan passes away at 87",
-    "desc": "At 87, veteran actor John Nolan has left us, remembered fondly as the uncle of influential directors Christopher and Jonathan Nolan. His performances in the iconic 'Batman' trilogy and the gripping war film 'Dunkirk,' as well as in 'Person of Interest,' showcased his remarkable talent.",
-    "img": "https://static.toiimg.com/photo/msid-130201859,imgsize-76392.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/john-nolan-veteran-actor-and-uncle-of-christopher-nolan-passes-away-at-87/articleshow/130201859.cms",
-    "time": "2026-04-12T03:20:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dax Shepard shared how he became friends with Eric Dane",
-    "desc": "Dax Shepard revealed his initial animosity towards the late Eric Dane, stemming from a heated encounter at an AA meeting. Despite a rough start, their shared experiences of difficult upbringings and a lack of father figures forged a deep bond over two years. Shepard recounted how Dane eventually expressed affection, solidifying their friendship.",
-    "img": "https://static.toiimg.com/photo/msid-130201776,imgsize-87938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dax-shepard-and-eric-danes-friendship-had-a-rocky-start-i-thought-he-was-a-bit-of-a-bully-reveals-the-ranch-star/articleshow/130201776.cms",
-    "time": "2026-04-12T03:01:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yesterday match result",
-    "desc": "Sanju Samson's magnificent unbeaten 115 powered Chennai Super Kings to a commanding 212/2, setting up a 23-run victory over Delhi Capitals. Jamie Overton's crucial four-wicket haul then dismantled the Capitals' chase, securing CSK's first win of IPL 2026 at Chepauk.",
-    "img": "https://static.toiimg.com/photo/msid-130201852,imgsize-154624.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-yesterday-match-result-samson-overton-shine-as-csk-beat-dc-for-first-win/articleshow/130201834.cms",
-    "time": "2026-04-12T02:57:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When the Veteran singer Asha Bhosle recalled the funny car practice moment",
-    "desc": "Legendary singer Asha Bhosle has been admitted to Breach Candy Hospital. She is undergoing treatment after suffering a cardiac arrest. Her granddaughter confirmed the hospitalization due to exhaustion and chest infection. The 92-year-old artist has a long and celebrated career in playback singing. Fans and the music fraternity are concerned. Updates on her health are awaited.",
-    "img": "https://static.toiimg.com/photo/msid-130201817,imgsize-27598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/asha-bhosles-aaja-aaja-main-hoon-pyar-tera-story-when-the-veteran-singer-recalled-the-funny-car-practice-moment/articleshow/130201832.cms",
-    "time": "2026-04-12T02:54:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Big Little Lies Season 3' gets major update from creator",
-    "desc": "Fans of 'Big Little Lies' can rejoice as creator David E. Kelley has confirmed that plans are underway for a third season. He revealed that the original cast is reuniting for another run of the acclaimed series, which last aired in 2019. While details remain scarce, Kelley expressed enthusiasm for bringing the beloved drama back.",
-    "img": "https://static.toiimg.com/photo/msid-130201794,imgsize-170682.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/big-little-lies-season-3-update-creator-david-e-kelley-confirms-plans-for-return/articleshow/130201794.cms",
-    "time": "2026-04-12T02:53:02.000Z"
   },
   {
     "cat": "Sports",
@@ -387,24 +495,6 @@ const newsData_en = [
     "time": "2026-04-12T02:33:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Blake Lively lists Ryan Reynolds as witness in trial against Justin Baldoni",
-    "desc": "Blake Lively has called upon her husband, Ryan Reynolds, as a pivotal witness in her high-stakes lawsuit against Justin Baldoni. The actress claims that Baldoni perpetuated a detrimental work environment and launched smear tactics amid the promotion of 'It Ends With Us.",
-    "img": "https://static.toiimg.com/photo/msid-130201696,imgsize-172618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-vs-justin-baldoni-actress-lists-husband-ryan-reynolds-as-a-witness-in-trial-against-it-ends-with-us-director/articleshow/130201696.cms",
-    "time": "2026-04-12T02:29:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sabrina Carpenter apologizes for the comment on fan’s Arabic chant",
-    "desc": "At Coachella 2026, Sabrina Carpenter found herself in hot water after mistakenly interpreting an Arabic chant as yodeling, which led to a wave of backlash. Her dismissive comments were met with accusations of cultural insensitivity and Islamophobia. Acknowledging her errors, Carpenter has since issued an apology, expressing regret over her misunderstanding and committing to greater cultural awareness moving forward.",
-    "img": "https://static.toiimg.com/photo/msid-130201622,imgsize-78900.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/sabrina-carpenter-mistakes-cultural-call-for-yodelling-says-i-dont-like-it-issues-apology-following-backlash/articleshow/130201622.cms",
-    "time": "2026-04-12T02:26:40.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Home Secretary appoints Durai Kumar as DVAC in-charge following Election Commission reshuffle",
     "desc": "Citing the officer’s past social media posts hailing the RSS and criticising the Left, and certain accusations of corruption against him, DMK sought reconsideration of the EC’s direction to appoint Mr. Mittal to the sensitive post",
@@ -421,15 +511,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/the-origin-stories-of-spam/article70814926.ece",
     "time": "2026-04-12T02:06:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actor Meena’s Chennai home sold for Rs 100 crore",
-    "desc": "Actress Meena's opulent Chennai residence, reportedly built for Rs 10 crore two decades ago, is now rumored to have fetched a staggering Rs 100 crore. An NRI couple from the US is said to be the buyer of the traditional Kerala-style home. Meena herself has remained silent on the swirling speculation.",
-    "img": "https://static.toiimg.com/photo/msid-130201495,imgsize-97414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/drishyam-3-actor-meenas-chennai-home-sold-for-rs-100-crore-property-built-at-rs-10-crore-cost-reports/articleshow/130201495.cms",
-    "time": "2026-04-12T01:55:09.000Z"
   },
   {
     "cat": "Politics",
@@ -466,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-24-ranveer-singh-rakesh-bedi-sanjay-dutt-sara-arjuns-film-inches-closer-to-rs-1700-crore-worldwide/articleshow/130201201.cms",
     "time": "2026-04-12T00:41:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'50-second meeting': Sanju Samson reveals CSK's turning point after hat-trick of losses",
-    "desc": "Sanju Samson ended his early-season slump with a match-winning unbeaten 115 for Chennai Super Kings against Delhi Capitals. His century, coupled with Ayush Mhatre's 59, powered CSK to 212 and secured their first win of IPL 2026. Samson expressed gratitude for the team's trust and support after the crucial performance.",
-    "img": "https://static.toiimg.com/photo/msid-130198469,imgsize-57060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/50-second-meeting-sanju-samson-reveals-csks-turning-point-after-hat-trick-of-losses/articleshow/130198446.cms",
-    "time": "2026-04-11T23:50:00.000Z"
   },
   {
     "cat": "Sports",
@@ -568,24 +640,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "'Big khela' coming to Bengal, declares PM Modi",
-    "desc": "Prime Minister Narendra Modi intensified the BJP's Bengal campaign, challenging the TMC's \"khela hobe\" slogan and framing the polls as a fight for Bengal's identity. He promised to implement the Uniform Civil Code to end appeasement politics and vowed accountability for those who have \"played far too long.\"",
-    "img": "https://static.toiimg.com/photo/msid-130199225,imgsize-764446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/big-khela-coming-to-bengal-declares-pm-modi/articleshow/130199227.cms",
-    "time": "2026-04-11T21:46:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vijay's film not leaked from our system: CBFC",
-    "desc": "The Central Board of Film Certification has refuted claims of the Tamil film 'Jana Nayagan' leaking from its system, stating its certification process is secure. The board clarified that films are handed over to producers via a secure KDM mechanism. The alleged leak, which surfaced online, has sparked outrage and calls for stricter anti-piracy measures within the industry.",
-    "img": "https://static.toiimg.com/photo/msid-130199217,imgsize-523417.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/vijays-film-not-leaked-from-our-system-cbfc/articleshow/130199218.cms",
-    "time": "2026-04-11T21:42:13.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Dairy farmers concerned over lack of attention to their core issues",
     "desc": "In its manifesto, the DMK has promised the farmers that the procurement price will be increased by ₹5 per litre. But the AIADMK, the NTK, and the TVK have not set out their position on the issue, says M.G. Rajendran",
     "img": "https://th-i.thgim.com/public/incoming/3ph2a5/article70848699.ece/alternates/LANDSCAPE_1200/9868_10_4_2026_19_0_18_4_MILKPRODUCERS_4.JPG",
@@ -621,33 +675,6 @@ const newsData_en = [
     "time": "2026-04-11T21:06:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Delegates from 22 countries laud India's poll process",
-    "desc": "International delegates from 22 countries lauded India's recent elections in Kerala, Assam, and Puducherry, highlighting impressive voter turnout and meticulous planning. Witnessing firsthand the seamless execution, including EVM usage and webcasting, they described the process as a \"true festival of democracy.\" Delegates also noted the well-organized polling stations with facilities and praised the transparency measures in place.",
-    "img": "https://static.toiimg.com/photo/msid-130199057,imgsize-1844029.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delegates-from-22-countries-laud-indias-poll-process/articleshow/130199052.cms",
-    "time": "2026-04-11T20:50:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "the BJP’s electoral journey in Tamil Nadu",
-    "desc": "The BJP initially capitalised on Hindutva politics in Kanniyakumari, winning its first Assembly seat in 1996; thereafter it tasted success only in alliance with the Dravidian majors; hopes to convert its rising vote share to more seats in 2026",
-    "img": "https://th-i.thgim.com/public/incoming/k4fqrf/article70843583.ece/alternates/LANDSCAPE_1200/4871_31_3_2026_19_11_42_1_DSC_5382.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/from-the-margins-to-momentum-bjps-journey-in-tamil-nadu/article70842982.ece",
-    "time": "2026-04-11T20:06:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RR manager violates protocol by using phone in dugout",
-    "desc": "Rajasthan Royals manager Romi Bhinder was seen using a phone in the dugout during an IPL match, violating PMOA rules that ban such use outside the dressing room. The incident, noticed during the chase, has drawn scrutiny, with potential action from officials. IPL authorities stress strict phone-use guidelines to prevent corruption risks, and an investigation may follow.",
-    "img": "https://static.toiimg.com/photo/msid-130198847,imgsize-48348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-controversy-rr-manager-romi-bhinder-violates-pmoa-protocol-by-using-phone-in-dugout/articleshow/130198810.cms",
-    "time": "2026-04-11T19:50:27.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Duty on diesel exports hiked from Rs 21.5/L to Rs 55.5",
     "desc": "The government has significantly increased export duties on diesel and aviation turbine fuel to prioritize domestic availability amidst West Asian tensions. Diesel export duty rose by over 150% to Rs 55.5 per litre, and ATF to Rs 42 per litre, aiming to deter exports and ensure sufficient supply within India.",
@@ -655,51 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/duty-on-diesel-exports-hiked-from-rs-21-5/l-to-rs-55-5/articleshow/130198809.cms",
     "time": "2026-04-11T19:43:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Musiri constituency, a fertile region on the banks of Cauvery, looks for a major thrust to development",
-    "desc": "Over the years, Musiri, which was upgraded as a 24-ward municipality in 2022, has transitioned into a ‘retiree paradise’ as it has become a preferred destination for superannuated professionals; agriculture remains the predominant occuption in the region fed by the Cauvery",
-    "img": "https://th-i.thgim.com/public/incoming/rma19m/article70843297.ece/alternates/LANDSCAPE_1200/10MA_MUSIRI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/musiri-a-fertile-region-on-the-banks-of-the-cauvery-looks-for-a-major-thrust-to-development/article70841844.ece",
-    "time": "2026-04-11T19:42:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Despite having nine large waterbodies, Pallavaram constituency residents do not get clean groundwater",
-    "desc": "They say that if the government removes encroachments and brings excess water from Chembarambakkam to the lakes in the constituency, the drinking water problem can be solved; another issue is that stray animal population keeps rising though the authorities take steps to catch them",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/9g9vmp/article70840009.ece/alternates/LANDSCAPE_1200/Radha%20Nagar%20subway.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/despite-having-nine-large-waterbodies-residents-do-not-get-clean-groundwater/article70839760.ece",
-    "time": "2026-04-11T19:40:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "L-G: Chandni Chowk revamp has begun",
-    "desc": "Lieutenant Governor Taranjit Singh Sandhu stressed the need for coordination among agencies, and said the Delhi Police, the Municipal Corporation of Delhi and the Public Works Department had been directed to work together to address local challenges.",
-    "img": "https://th-i.thgim.com/public/incoming/ygnnt3/article70852075.ece/alternates/LANDSCAPE_1200/LT%20GOVERNOR%20OATH%20DELHI_11_03_42.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/l-g-visits-chandni-chowkseeks-coordinated-action-on-civic-issues/article70851994.ece",
-    "time": "2026-04-11T19:34:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Samson's 115, Overton’s 4-fer help CSK beat DC for season's first win",
-    "desc": "Sanju Samson’s unbeaten 115 powered Chennai Super Kings to their first IPL 2026 win, beating Delhi Capitals by 23 runs. He shared a 113-run stand with Ayush Mhatre (59) to post 212/2. Delhi started strong but lost momentum after early wickets. Jamie Overton’s 4/18 ensured CSK sealed a comfortable victory despite Tristan Stubbs’ fighting 60.",
-    "img": "https://static.toiimg.com/photo/msid-130197520,imgsize-51770.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-sanju-samsons-115-jamie-overtons-four-fer-help-csk-outfox-dc-for-seasons-first-win/articleshow/130197497.cms",
-    "time": "2026-04-11T18:21:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India win the battle, lose the war and fail to make playoffs",
-    "desc": "India beat Korea 2-1 to win their fifth and final tie in the Billie Jean King Cup. India had to win 3-0 and needed other result to go their way, but neither worked out. India finished third in the group and will not qualify for the playoffs.",
-    "img": "https://static.toiimg.com/photo/msid-130197205,imgsize-43476.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/bjk-cup-india-win-the-battle-lose-the-war-and-fail-to-make-playoffs/articleshow/130196817.cms",
-    "time": "2026-04-11T17:53:00.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/chandra-asks-air-india-staff-to-control-costs-improve-services/articleshow/130182241.cms",
     "time": "2026-04-10T23:01:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Mistry pitches for Tata holdco to go public",
+    "desc": "Shapoor Mistry, representing the largest minority shareholder, advocates for Tata Sons' public listing, calling it essential for stakeholder value and trust income. This follows similar calls from Tata Trusts vice chairmen, amid RBI's proposed NBFC norms. Mistry believes a listing will enhance governance and transparency, potentially easing SP Group's debt pressures.",
+    "img": "https://static.toiimg.com/photo/msid-130182228,imgsize-220550.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/mistry-pitches-for-tata-holdco-to-go-public/articleshow/130182230.cms",
+    "time": "2026-04-10T22:58:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Will Tata Sons get listing waiver? RBI tweak will make it 'upper NBFC'",
+    "desc": "The Reserve Bank of India is proposing a simpler asset-size threshold of Rs 1 lakh crore to identify large NBFCs for stricter regulation, replacing a complex scoring system. This change could place Tata Sons, with assets of Rs 1.75 lakh crore, under tighter scrutiny, contingent on its application to surrender its core investment company registration being approved.",
+    "img": "https://static.toiimg.com/photo/msid-130182196,imgsize-926050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/will-tata-sons-get-listing-waiver-rbi-tweak-will-make-it-upper-nbfc/articleshow/130182197.cms",
+    "time": "2026-04-10T22:52:24.000Z"
   }
 ];

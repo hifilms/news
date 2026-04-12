@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "લતાજીના સેક્રટરી સાથે થયા હતા આશા ભોસલેના પહેલા લગ્ન, પતિના ત્રાસથી કંટાળી આશા તાઈએ પ્રેગ્નન્સીમાં ખાધી હતી ઊંઘની ગોળીઓ",
+    "desc": "ભારતના દિગ્ગજ ગાયિકા આશા ભોસલે 92 વર્ષની ઉંમરે અંતિમ શ્વાસ લીધા છે. આશા ભોસલેનું શરુઆતી જીવન સંઘર્ષ અને સમસ્યાઓ વચ્ચે પસાર થયું હતું. ખાસ કરીને લગ્ન પછી તેમનું જીવન નર્ક જેવું થઈ ગયું હતું. આ વાતનો ઉલ્લેખ તેમણે પોતાની બાયોગ્રાફીમાં કર્યા હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/asha-bhosle-early-life-struggle-who-was-asha-bhosle-first-husband-her-love-life-tragic-story-472627 ",
+    "time": "2026-04-12T08:13:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આશાતાઈની એ એક ભૂલ... જેણે બરબાદ કરી દીધી હતી જિંદગી, બહેનો લતા-મીના-ઉષા સાથે પણ તૂટી ગયો હતો સંબંધ",
+    "desc": "હિન્દી સિનેમાની દિગ્ગજ ગાયિકા આશા ભોંસલેને હોસ્પિટલમાં દાખલ કરવામાં આવી હતી, અને ચાહકો તેમના સ્વાસ્થ્ય અંગે ખૂબ ચિંતિત હતા. પરંતું આજે, 12 એપ્રિલ, 2026 ના રોજ તેમનું 92 વર્ષની વયે અવસાન થયું છે. આજે, અમે તમને તેમના જીવનના કેટલાક ઓછા જાણીતા પાસાઓ વિશે જણાવવા જઈ રહ્યા છીએ જેના કારણે તેઓ તેમના પરિવાર અને બહેનોથી અલગ થયા. તેમણે નાની ઉંમરે કઈ ભૂલ કરી જેના કારણે...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/that-one-mistake-of-asha-tai-which-ruined-her-life-and-even-severed-her-ties-with-her-sisters-lata-meena-and-usha-472626 ",
+    "time": "2026-04-12T08:04:49.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ડગઆઉટમાં ફોન વાપરતા રંગે હાથ ઝડપાયા RRના મેનેજર, બાજુમાં બેઠો હતો સૂર્યવંશી, શું BCCI લેશે એક્શન ?",
     "desc": "IPL 2026માં શાનદાર પ્રદર્શન કરી રહેલી રાજસ્થાન રોયલ્સ હવે એક નવા વિવાદમાં ફસાઈ ગઈ છે. રોયલ ચેલેન્જર્સ બેંગલુરુ સામેની મેચ દરમિયાન ડગઆઉટમાંથી બહાર આવેલા એક વીડિયોએ હંગામો મચાવી દીધો છે. ફૂટેજમાં ટીમ મેનેજર મોબાઇલ ફોનનો ઉપયોગ કરતા જોવા મળે છે, તો બાજુમાં વૈભવ સૂર્યવંશી બેઠો છે.",
@@ -324,7 +342,7 @@ const newsData_gu = [
     "time": "2026-04-10T05:24:15.000Z"
   },
   {
-    "cat": "Business",
+    "cat": "Politics",
     "title": "વૈશ્વિક તેલના સંક્ટ વચ્ચે પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર; જાણો ગુજરાત સહિત મુખ્ય શહેરોમાં લેટેસ્ટ કિંમત",
     "desc": "પશ્ચિમ એશિયામાં ચાલી રહેલા ભારે તણાવ અને કાચા તેલની કિંમતામાં ભારે ઉતાર-ચઢાવ વચ્ચે કંપનીઓએ 10 એપ્રિલ 2026માટે પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર કરી દીધા છે. રાહતની વાત એ છે કે વૈશ્વિક કટોકટી કે જ્યારે પણ બજારની કિંમત સ્થિર બને છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -718,33 +736,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/buy-a-car-worth-8-to-10-lakhs-for-just-2-lakhs-this-government-website-will-make-your-car-dream-come-true-471510 ",
     "time": "2026-04-04T13:50:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રાજકુમાર રાવની કોમેડી-થ્રિલર ફિલ્મ ટોસ્ટર નેટફ્લિક્સ પર આ તારીખે થશે રિલીઝ, અત્યારે જુઓ ફિલ્મનું મજેદાર ટ્રેલર",
-    "desc": "રાજકુમાર રાવ અને સાન્યા મલ્હોત્રાની કોમેડી થ્રિલર ફિલ્મ ટોસ્ટર રિલીઝ થવાની છે. આ ફિલ્મનું મજેદાર ટ્રેલર રિલીઝ કરી દેવામાં આવ્યું છે. આ ફિલ્મની ખાસ વાત છે કે તમે ટોસ્ટર ફિલ્મ ઓટીટી પ્લેટફોર્મ નેટફ્લિક્સ પર જોઈ શકશો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/netflix-upcoming-hindi-film-toaster-trailer-released-here-is-streaming-date-471509 ",
-    "time": "2026-04-04T13:46:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "તમને શું લાગે છે આ વખતે નોઈના મિહિર સાથે લગ્ન કરવામાં સફળ થઈ જશે ? શોમાં આવનાર ટ્વીસ્ટ શું હશે ખબર છે ?",
-    "desc": "ક્યૂંકી સાસ ભી કભી બહુ થી શો માં અત્યાર સુધીનો સૌથી મોટો ટ્વીસ્ટ આવવાનો છે આ ટ્વીસ્ટ શું હશે તેના વિશે લોકો અંદાજ પણ લગાવી રહ્યા છે. તુલસી અને નોઈનાનો નવો પ્રોમો પણ શેર કરવામાં આવ્યો છે જેને જોયા પછી દર્શકોની આતુર વધી ચુકી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/kyunki-saas-bhi-kabhi-bahu-thi-upcoming-twist-will-mihir-marry-tulsi-again-or-not-471449 ",
-    "time": "2026-04-04T06:06:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અમેરિકાના વિરોધ વચ્ચે ભારત કેવી રીતે બન્યું ન્યુક્લિયર પાવર? જાણવું છે તો ઓટીટી પર જોઈ લો જોન અબ્રાહમની પરમાણુ ફિલ્મ",
-    "desc": "ભારતમાં પરમાણુ પરિક્ષણ કેવી રીતે થયું અને ભારતને અમેરિકા કેવી રીતે નડતું હતું તે બધું જ જો ફિલ્મના માધ્યમથી જોવું હોય તો ઓટીટી પર ઉપલબ્ધ જોન અબ્રાહમની ફિલ્મ પરમાણુ ધ સ્ટોરી ઓફ પોખરણ જોઈ લો. આ ફિલ્મ રિયલ સ્ટોરી પર આધારિત છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/john-abraham-film-based-on-india-nuclear-test-real-story-based-film-parmanu-on-ott-zee5-471369 ",
-    "time": "2026-04-03T12:12:47.000Z"
   },
   {
     "cat": "Tech",
