@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jos Buttler completes 14000 runs in T20s as GT thump LSG by seven wickets in Lucknow",
+    "desc": "Jos Buttler achieved a major milestone as the Gujarat Titans thumped Lucknow Super Giants in their fourth match of the Indian Premier League 2026 at the Ekana Cricket Stadium on Sunday, April 12. Buttler became...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-completes-14000-runs-in-t20s-as-gt-thump-lsg-by-seven-wickets-in-lucknow-2026-04-12-1037290",
+    "time": "2026-04-12T15:08:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are MI and RCB players wearing black armbands during clash at Wankhede in IPL 2026?",
+    "desc": "Mumbai Indians and Royal Challengers Bengaluru lock horns in a high-octane clash at the Wankhede Stadium as both teams look to bounce back from their previous defeat to the Rajasthan Royals. However, ahead of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-mi-and-rcb-players-wearing-black-armbands-during-clash-at-wankhede-in-ipl-2026-2026-04-12-1037288",
+    "time": "2026-04-12T14:28:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is Josh Hazlewood playing today's IPL match for RCB against MI at Wankhede?",
+    "desc": "Josh Hazlewood missed out ad Royal Challengers Bengaluru take on Mumbai Indians in the 20th match of the Indian Premier League 2026. Hazlewood, who made a much-awaited return to the side for the previous game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-josh-hazlewood-playing-todays-ipl-match-for-rcb-against-mi-at-wankhede-2026-04-12-1037286",
+    "time": "2026-04-12T13:57:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kohli falls after fifty as Bengaluru inch close to 200 at Wankhede",
+    "desc": "It's time for Rohit Sharma and Virat Kohli to face each other off as Mumbai Indians take on Royal Challengers Bengaluru at the Wankhede Stadium in Mumbai. Two batting power-houses and strong bowling arsenals will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-rcb-ipl-2026-live-cricket-score-mumbai-indians-vs-royal-challengers-bengaluru-wankhede-stadium-latest-match-updates-scorecard-teams-playing-xi-2026-04-12-1037283",
+    "time": "2026-04-12T13:13:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "From Sachin Tendulkar to Anil Kumble, cricket fraternity pays tribute to legendary singer",
     "desc": "Cricketers paid their tribute to legendary singer Asha Bhosle, who passed away on Sunday, April 12, due to multiple organ failure. Bhosle had been admitted to the Breach Candy Hospital in Mumbai on Saturday evening....",
     "img": "",
@@ -37,7 +73,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Lucknow huff and puff to 164/8 at Ekana in bid for third win",
+    "title": "Titans look to chase 165 at Ekana in bid for second win",
     "desc": "The stage is set for the 19th game of the ongoing IPL (Indian Premier League) 2026, the clash sees Lucknow Super Giants taking on Gujarat Titans at the Ekana Stadium in Lucknow. It is worth...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/matheesha-pathirana-set-to-join-kkr-after-being-granted-noc-by-sri-lanka-cricket-2026-04-12-1037261",
     "time": "2026-04-12T09:14:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is Rohit Sharma's record against RCB in IPL?",
-    "desc": "Game 20 of the ongoing IPL (Indian Premier League) 2026 sees Mumbai Indians taking on Royal Challengers Bengaluru; the two sides will lock horns at the Wankhede Stadium in Mumbai on April 12. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-rcb-what-is-rohit-sharma-s-record-against-rcb-in-ipl-2026-04-12-1037257",
-    "time": "2026-04-12T08:47:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals manager Romi Bhinder in trouble for using phone in dugout, BCCI likely to take action",
-    "desc": "Rajasthan Royals have been in emphatic form in the ongoing edition of the IPL (Indian Premier League) 2026. Under the leadership of Riyan Parag, the side has won four of four matches in the tournament...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-manager-romi-bhinder-in-trouble-for-using-phone-in-dugout-check-details-2026-04-12-1037247",
-    "time": "2026-04-12T07:25:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is Virat Kohli's record against MI in IPL?",
-    "desc": "The stage is set for the 20th game of the ongoing IPL (Indian Premier League) 2026. Mumbai Indians will take on Royal Challengers Bengaluru at the Wankhede Stadium in Mumbai. In one of the most...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-rcb-what-is-virat-kohli-s-record-against-mi-in-ipl-2026-04-12-1037240",
-    "time": "2026-04-12T06:39:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nitish Rana handed hefty fine and demerit point after heated argument with the umpire during CSK clash",
-    "desc": "In a major development, Delhi Capitals’ batter Nitish Rana has been handed 1 demerit point. It has been slapped with a 25 per cent match fee fine after he was involved in a heated argument...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nitish-rana-handed-hefty-fine-and-demerit-point-after-heated-argument-with-the-umpire-during-csk-clash-2026-04-12-1037232",
-    "time": "2026-04-12T05:12:07.000Z"
   }
 ];
