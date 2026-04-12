@@ -1,5 +1,257 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Robbie G.K. from ‘Heated Rivalry’ says he has hopes for Scott and Kip",
+    "desc": "Robbie G.K., who captivates audiences as Kip Grady in Netflix's 'Heated Rivalry,' has voiced his hopes for greater exploration of his character's bond with Scott Hunter in future installments. Expressing his delight at the show's warm reception from fans, he described it as 'incredible.' Additionally, Robbie reminisced about his artistic upbringing, noting similarities to his talented co-star Connor Storrie.",
+    "img": "https://static.toiimg.com/photo/msid-130202824,imgsize-70382.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/robbie-g-k-from-heated-rivalry-says-he-has-hopes-for-scott-and-kips-storyline-a-whole-lot-could-be-explored/articleshow/130202824.cms",
+    "time": "2026-04-12T05:10:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nitish Rana punished for ‘audible obscenity’ after umpire argument",
+    "desc": "A controversial glove change denial for Tristan Stubbs during Delhi Capitals' chase against Chennai Super Kings led to a heated exchange with officials. Stubbs was dismissed shortly after, and Nitish Rana was penalized for a Code of Conduct breach. Meanwhile, CSK captain Ruturaj Gaikwad was fined for a slow over-rate.",
+    "img": "https://static.toiimg.com/photo/msid-130202821,imgsize-599788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-nitish-rana-punished-for-audible-obscenity-after-umpire-argument-in-csk-vs-dc/articleshow/130202811.cms",
+    "time": "2026-04-12T05:09:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KKR's Pathirana clears fitness test, likely to join squad ahead of CSK clash",
+    "desc": "KKR have had a difficult start to the season, with three defeats and one match ending without a result. Their issues have been clear in the death overs, where they have struggled to control opposition batters. Losses to Mumbai Indians and Lucknow Super Giants highlighted these concerns, making Pathirana’s return important.",
+    "img": "https://static.toiimg.com/photo/msid-130202796,imgsize-52756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-kkrs-matheesha-pathirana-clears-fitness-test-likely-to-join-squad-ahead-of-csk-clash/articleshow/130202758.cms",
+    "time": "2026-04-12T05:06:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SZA denies being a stand-in for Justin Bieber at Coachella",
+    "desc": "SZA took to her social media to quash rumors about her allegedly being paid to back up Justin Bieber during Coachella. She confirmed she was actually in New York and hadn't received any money for that gig. Still, fans are buzzing with excitement at the thought of a potential surprise collaboration between the two artists.",
+    "img": "https://static.toiimg.com/photo/msid-130202605,imgsize-80816.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/coachella-2026-sza-clarifies-rumors-of-being-a-stand-in-for-justin-bieber-lmao-who-made-this-up/articleshow/130202605.cms",
+    "time": "2026-04-12T04:51:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli on the brink of history, poised to become 1st batter to...",
+    "desc": "Virat Kohli is on the cusp of a historic T20 milestone, needing just 20 runs to become the first batter to score 1,000 runs against Mumbai Indians. He already holds the record for most T20 runs against MI, with 980 in 35 innings. This achievement adds another layer to his dominance against top teams.",
+    "img": "https://static.toiimg.com/photo/msid-130202595,imgsize-47986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-virat-kohli-on-the-brink-of-history-poised-to-become-1st-batter-to-/articleshow/130202581.cms",
+    "time": "2026-04-12T04:43:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lea Thompson talks about ‘Back To The Future’",
+    "desc": "Actress Lea Thompson, famed for 'Back To The Future,' humorously reflects on playing aged characters for four decades, starting with her role as a 17-year-old who also portrayed a 47 and 77-year-old. Now in her 60s, she jokes about the difference between prosthetic makeup and her current skincare routine, cherishing the film's enduring global appeal.",
+    "img": "https://static.toiimg.com/photo/msid-130202566,imgsize-103028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lea-thompson-recalls-playing-three-ages-in-back-to-the-future-says-people-are-used-to-me-getting-older/articleshow/130202566.cms",
+    "time": "2026-04-12T04:43:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Olivia Munn shares Kate Middleton's words that helped her in cancer journey",
+    "desc": "In the wake of her breast cancer diagnosis, Olivia Munn found unexpected encouragement in Kate Middleton's reflections. Dealing with the harsh side effects of treatment, Munn felt like an island, battling chronic tiredness and discomfort.",
+    "img": "https://static.toiimg.com/photo/msid-130202557,imgsize-74748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/olivia-munn-shares-kate-middletons-words-that-made-her-feel-shes-not-alone-in-her-cancer-journey/articleshow/130202557.cms",
+    "time": "2026-04-12T04:40:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Denzel Washington",
+    "desc": "Amidst his illustrious career, Hollywood legend Denzel Washington reminds us that genuine success isn't about the accolades or accolades one garners. Addressing graduates at Dillard University, he articulated a powerful message about the importance of making a difference in the lives of others, embodying the idea that the greatest legacy one can create is through empowerment and encouragement.",
+    "img": "https://static.toiimg.com/photo/msid-130202475,imgsize-95878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-denzel-washington-at-the-end-of-the-day-its-not-about-what-you-have-or-even-what-youve-accomplished-its-about-who-youve-lifted-up-who-youve-made-better-/articleshow/130202475.cms",
+    "time": "2026-04-12T04:29:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Provided great assistance to get us out': Indian fishermen stranded in Iran return home",
+    "desc": "Indian fishermen, stranded in Iran due to escalating Middle East conflict, expressed profound gratitude for their safe return facilitated by coordinated diplomatic efforts. Union Minister Piyush Goyal received the first batch of 345 fishermen at Chennai Airport, highlighting Prime Minister Modi's directive for their evacuation from Iran via Armenia.",
+    "img": "https://static.toiimg.com/photo/msid-130202442,imgsize-1314662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/provided-great-assistance-to-get-us-out-indian-fishermen-stranded-in-iran-return-home/articleshow/130202431.cms",
+    "time": "2026-04-12T04:21:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Global traders race to secure oil barrels amid Hormuz supply crunch",
+    "desc": "Global crude oil markets are in a frenzy as a severe shortage drives intense competition for prompt deliveries. Physical oil prices have surged to unprecedented levels, with buyers vastly outnumbering sellers. This scramble, fueled by reduced Middle Eastern flows, is forcing refiners to consider scaling back operations, potentially worsening fuel shortages.",
+    "img": "https://static.toiimg.com/photo/msid-130202105,imgsize-1369164.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/strait-crisis-global-traders-race-to-secure-oil-barrels-amid-hormuz-supply-crunch/articleshow/130202057.cms",
+    "time": "2026-04-12T04:18:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and Where to Watch final?",
+    "desc": "Indian badminton prodigy Ayush Shetty is set to face China's Shi Yu Qi in the Asia Championships final. The 20-year-old stunned world No. 1 Kunlavut Vitidsarn in a thrilling semifinal. Shetty aims for a historic title, a significant milestone for Indian badminton, despite a 0-2 head-to-head record against Shi Yu Qi.",
+    "img": "https://static.toiimg.com/photo/msid-130202285,imgsize-57044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/ayush-shetty-vs-shi-yu-qi-live-when-and-where-to-watch-badminton-asia-championships-final/articleshow/130202283.cms",
+    "time": "2026-04-12T04:04:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Over 3.6 crore voters eligible for first phase polls on April 23, says EC",
+    "desc": "Over 3.6 crore electors across 16 districts are set to vote in the first phase of the West Bengal assembly elections on April 23. The electoral rolls include 1.84 crore men, 1.75 crore women, and 465 third gender voters. Murshidabad leads with the highest voter count, while Kalimpong has the lowest.",
+    "img": "https://static.toiimg.com/photo/msid-130202182,imgsize-43870.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bengal-assembly-elections-over-3-6-crore-voters-eligible-for-first-phase-polls-on-april-23-says-ec/articleshow/130202154.cms",
+    "time": "2026-04-12T03:54:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch Kohli vs Rohit ?",
+    "desc": "Mumbai Indians host Royal Challengers Bengaluru tonight at Wankhede Stadium in a highly anticipated clash. Despite Mumbai's historical dominance, RCB has won four of their last six encounters. Both Rohit and Kohli have started the season well, and a high-scoring game with potential for over 200 runs is expected, with dew likely to influence the second innings.",
+    "img": "https://static.toiimg.com/photo/msid-130202121,imgsize-38848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mi-vs-rcb-ipl-2026-live-streaming-when-and-where-to-watch-virat-kohli-vs-rohit-sharma-clash/articleshow/130202103.cms",
+    "time": "2026-04-12T03:44:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson's 115 lights up Chepauk as CSK end losing streak in IPL 2026",
+    "desc": "The 23-run win over Delhi Capitals on Saturday — CSK’s first of this season — did have its share of scares, especially when Tristan Stubbs was going great guns towards the end and had got the target down to 32 off the last two overs. But medium-pacer Jamie Overton (4/18) carried on with his superb work for the day to remove Stubbs at the right moment, ensuring CSK got home.",
+    "img": "https://static.toiimg.com/photo/msid-130202067,imgsize-48632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/sanju-samsons-115-lights-up-chepauk-as-csk-end-losing-streak-in-ipl-2026/articleshow/130202062.cms",
+    "time": "2026-04-12T03:35:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NTK’s transgender candidate vows to make Villivakkam a model constituency",
+    "desc": "She says the prevention of drug abuse among youngsters and ensuring women’s welfare will be her first priority if elected; there are plans to create playgrounds and fine arts centres to revive vanishing art forms; both the Dravidian majors have neglected issues for several decades, she adds",
+    "img": "https://th-i.thgim.com/public/incoming/xq1rn2/article70851530.ece/alternates/LANDSCAPE_1200/1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/ntkstransgender-candidate-vows-to-makevillivakkama-model-constituency/article70851055.ece",
+    "time": "2026-04-12T03:32:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alanna Ubach talks about ‘Legally Blonde’ success",
+    "desc": "Actress Alanna Ubach, who played Serena McGuire in 'Legally Blonde,' fondly recalls the film's enduring success and fan recognition, especially for her iconic 'I got bangs' line. She shared her surprise at the movie's eventual fame and her close friendship with co-star Reese Witherspoon, noting their initial doubts about playing younger characters.",
+    "img": "https://static.toiimg.com/photo/msid-130201994,imgsize-137088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/i-light-up-every-single-time-alanna-ubach-reveals-what-she-loves-the-most-when-being-remembered-for-legally-blonde/articleshow/130201994.cms",
+    "time": "2026-04-12T03:29:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL match today, LSG vs GT: Predicted playing XI, head-to-head, pitch report, Lucknow weather update",
+    "desc": "Lucknow Super Giants and Gujarat Titans clash today in a high-stakes IPL 2026 encounter. Both teams are coming off thrilling last-ball victories, with LSG aiming for their third consecutive win while GT seeks to build momentum. The match promises a balanced contest on a sporting pitch, with the heat expected to play a role.",
+    "img": "https://static.toiimg.com/photo/msid-130201983,imgsize-80396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-match-today-lsg-vs-gt-predicted-playing-xi-head-to-head-pitch-report-lucknow-weather-update/articleshow/130201982.cms",
+    "time": "2026-04-12T03:22:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Veteran actor John Nolan passes away at 87",
+    "desc": "At 87, veteran actor John Nolan has left us, remembered fondly as the uncle of influential directors Christopher and Jonathan Nolan. His performances in the iconic 'Batman' trilogy and the gripping war film 'Dunkirk,' as well as in 'Person of Interest,' showcased his remarkable talent.",
+    "img": "https://static.toiimg.com/photo/msid-130201859,imgsize-76392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/john-nolan-veteran-actor-and-uncle-of-christopher-nolan-passes-away-at-87/articleshow/130201859.cms",
+    "time": "2026-04-12T03:20:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dax Shepard shared how he became friends with Eric Dane",
+    "desc": "Dax Shepard revealed his initial animosity towards the late Eric Dane, stemming from a heated encounter at an AA meeting. Despite a rough start, their shared experiences of difficult upbringings and a lack of father figures forged a deep bond over two years. Shepard recounted how Dane eventually expressed affection, solidifying their friendship.",
+    "img": "https://static.toiimg.com/photo/msid-130201776,imgsize-87938.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dax-shepard-and-eric-danes-friendship-had-a-rocky-start-i-thought-he-was-a-bit-of-a-bully-reveals-the-ranch-star/articleshow/130201776.cms",
+    "time": "2026-04-12T03:01:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yesterday match result",
+    "desc": "Sanju Samson's magnificent unbeaten 115 powered Chennai Super Kings to a commanding 212/2, setting up a 23-run victory over Delhi Capitals. Jamie Overton's crucial four-wicket haul then dismantled the Capitals' chase, securing CSK's first win of IPL 2026 at Chepauk.",
+    "img": "https://static.toiimg.com/photo/msid-130201852,imgsize-154624.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-yesterday-match-result-samson-overton-shine-as-csk-beat-dc-for-first-win/articleshow/130201834.cms",
+    "time": "2026-04-12T02:57:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When the Veteran singer Asha Bhosle recalled the funny car practice moment",
+    "desc": "Legendary singer Asha Bhosle has been admitted to Breach Candy Hospital. She is undergoing treatment after suffering a cardiac arrest. Her granddaughter confirmed the hospitalization due to exhaustion and chest infection. The 92-year-old artist has a long and celebrated career in playback singing. Fans and the music fraternity are concerned. Updates on her health are awaited.",
+    "img": "https://static.toiimg.com/photo/msid-130201817,imgsize-27598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/asha-bhosles-aaja-aaja-main-hoon-pyar-tera-story-when-the-veteran-singer-recalled-the-funny-car-practice-moment/articleshow/130201832.cms",
+    "time": "2026-04-12T02:54:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Big Little Lies Season 3' gets major update from creator",
+    "desc": "Fans of 'Big Little Lies' can rejoice as creator David E. Kelley has confirmed that plans are underway for a third season. He revealed that the original cast is reuniting for another run of the acclaimed series, which last aired in 2019. While details remain scarce, Kelley expressed enthusiasm for bringing the beloved drama back.",
+    "img": "https://static.toiimg.com/photo/msid-130201794,imgsize-170682.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/big-little-lies-season-3-update-creator-david-e-kelley-confirms-plans-for-return/articleshow/130201794.cms",
+    "time": "2026-04-12T02:53:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Do you regret leaving PSL for IPL?' SL batter put on spot in Pakistan",
+    "desc": "Mendis, who was signed by Peshawar Zalmi in the PSL player auction in February for PKR 4.2 crore, was speaking after his team’s 76-run win over Lahore Qalandars in Karachi. The 31-year-old scored 74 off 48 balls and was named Player of the Match.",
+    "img": "https://static.toiimg.com/photo/msid-130201797,imgsize-69290.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/do-you-regret-leaving-psl-midway-for-ipl-sri-lanka-batter-put-on-the-spot-in-pakistan-watch/articleshow/130201728.cms",
+    "time": "2026-04-12T02:51:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Fadnavis to conduct probe in Chhagan Bhujbal’s helicopter landing in parking lot",
+    "desc": "According to officials from the Pune administration, a designated helipad had been prepared for VIP helicopter landings. However, the pilot mistakenly landed in an open space in the parking area, mistaking it for the designated site",
+    "img": "https://th-i.thgim.com/public/incoming/ww03bz/article70851121.ece/alternates/LANDSCAPE_1200/11908_31_1_2026_19_5_56_2_DSC_4468.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/cm-fadnavis-to-conduct-probe-in-chhagan-bhujbals-helicopter-landing-in-parking-lot/article70851544.ece",
+    "time": "2026-04-12T02:45:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I'm not a fan': Pollard joins growing opposition against Impact Player Rule",
+    "desc": "Kieron Pollard, Mumbai Indians' batting coach, voiced his disapproval of the IPL's Impact Player rule, stating it underutilizes all-rounders' skills and could negatively impact international cricket. His concerns align with other cricketers like Axar Patel and Shubman Gill, who believe the rule makes the game less competitive. Despite widespread criticism, the rule is expected to continue for another season.",
+    "img": "https://static.toiimg.com/photo/msid-130201726,imgsize-955688.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/im-not-a-fan-keiron-pollard-joins-growing-opposition-against-impact-player-rule/articleshow/130201719.cms",
+    "time": "2026-04-12T02:33:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Blake Lively lists Ryan Reynolds as witness in trial against Justin Baldoni",
+    "desc": "Blake Lively has called upon her husband, Ryan Reynolds, as a pivotal witness in her high-stakes lawsuit against Justin Baldoni. The actress claims that Baldoni perpetuated a detrimental work environment and launched smear tactics amid the promotion of 'It Ends With Us.",
+    "img": "https://static.toiimg.com/photo/msid-130201696,imgsize-172618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-vs-justin-baldoni-actress-lists-husband-ryan-reynolds-as-a-witness-in-trial-against-it-ends-with-us-director/articleshow/130201696.cms",
+    "time": "2026-04-12T02:29:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sabrina Carpenter apologizes for the comment on fan’s Arabic chant",
+    "desc": "At Coachella 2026, Sabrina Carpenter found herself in hot water after mistakenly interpreting an Arabic chant as yodeling, which led to a wave of backlash. Her dismissive comments were met with accusations of cultural insensitivity and Islamophobia. Acknowledging her errors, Carpenter has since issued an apology, expressing regret over her misunderstanding and committing to greater cultural awareness moving forward.",
+    "img": "https://static.toiimg.com/photo/msid-130201622,imgsize-78900.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/sabrina-carpenter-mistakes-cultural-call-for-yodelling-says-i-dont-like-it-issues-apology-following-backlash/articleshow/130201622.cms",
+    "time": "2026-04-12T02:26:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Home Secretary appoints Durai Kumar as DVAC in-charge following Election Commission reshuffle",
+    "desc": "Citing the officer’s past social media posts hailing the RSS and criticising the Left, and certain accusations of corruption against him, DMK sought reconsideration of the EC’s direction to appoint Mr. Mittal to the sensitive post",
+    "img": "https://th-i.thgim.com/public/incoming/tt8dsf/article70852186.ece/alternates/LANDSCAPE_1200/1559_14_3_2026_12_53_50_2_HINDUBOOK.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/home-secretary-appoints-durai-kumar-as-dvac-in-charge-following-election-commission-reshuffle/article70852124.ece",
+    "time": "2026-04-12T02:16:13.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "The origin stories of SPAM",
     "desc": "The months of April and May could well be celebrated as the birth months of spam — those notoriously undesired messages that clog our information highways. This is because the earliest known case of spam took place on May 3, 1978 and the first such case in the Web as we know it now took place on April 12, 1994. A.S.Ganesh turns off his spam filters to give you these two tales…",
@@ -106,24 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-24-ranveer-singh-rakesh-bedi-sanjay-dutt-sara-arjuns-film-inches-closer-to-rs-1700-crore-worldwide/articleshow/130201201.cms",
     "time": "2026-04-12T00:41:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'LIK' BO day 2: Film shows 9.2 percent growth",
-    "desc": "Pradeep Ranganathan's sci-fi romantic comedy 'Love Insurance Kompany' saw a promising 9.2% surge on its second day, raking in Rs 7.70 crore net. The film's India net total now stands at Rs 14.75 crore, with worldwide gross reaching Rs 22.38 crore. The Tamil version leads the performance, reflecting growing audience interest in its futuristic love story.",
-    "img": "https://static.toiimg.com/photo/msid-130201142,imgsize-142688.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/love-insurance-kompany-box-office-collections-day-2-pradeep-ranganathan-film-shows-9-2-percent-growth-collects-rs-7-70-crore/articleshow/130201142.cms",
-    "time": "2026-04-12T00:27:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dacoit' BO day 2: Adivi Sesh starrer shows growth",
-    "desc": "Adivi Sesh and Mrunal Thakur's 'Dacoit' saw a positive 6.9% collection increase on its second day, earning Rs 7 crore net. The film's India net total now stands at Rs 13.55 crore, with worldwide gross reaching Rs 24.81 crore. The Telugu version significantly boosted collections, while mixed reviews persist for the action romantic drama.",
-    "img": "https://static.toiimg.com/photo/msid-130201087,imgsize-92994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/dacoit-box-office-collection-day-2-adivi-sesh-and-mrunal-thakur-starrer-shows-growth-collects-rs-7-crore-on-saturday/articleshow/130201087.cms",
-    "time": "2026-04-12T00:03:49.000Z"
   },
   {
     "cat": "Sports",
@@ -289,30 +523,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "CM Fadnavis to conduct probe in Chhagan Bhujbal’s helicopter landing in parking lot",
-    "desc": "According to officials from the Pune administration, a designated helipad had been prepared for VIP helicopter landings. However, the pilot mistakenly landed in an open space in the parking area, mistaking it for the designated site",
-    "img": "https://th-i.thgim.com/public/incoming/ww03bz/article70851121.ece/alternates/LANDSCAPE_1200/11908_31_1_2026_19_5_56_2_DSC_4468.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/cm-fadnavis-to-conduct-probe-in-chhagan-bhujbals-helicopter-landing-in-parking-lot/article70851544.ece",
-    "time": "2026-04-11T20:43:35.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Rare Modi-Rahul interaction breaks the internet",
     "desc": "Prime Minister Narendra Modi and Opposition leader Rahul Gandhi shared a rare moment of pleasantries and a brief chat at a recent event, sparking interest. Gandhi's presence at the commemorative program for Jyotirao Phule, where he greeted the PM, was noteworthy.",
     "img": "https://static.toiimg.com/photo/msid-130199045,imgsize-667072.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/rare-modi-rahul-interaction-breaks-the-internet/articleshow/130199034.cms",
     "time": "2026-04-11T20:38:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Meryl Streep approves of Karan Johar’s Rs 1.25 lakh shoes",
-    "desc": "Filmmaker Karan Johar experienced a fanboy moment interviewing Meryl Streep and Anne Hathaway in Tokyo for the upcoming 'The Devil Wears Prada 2'. Johar, a self-proclaimed superfan who has watched the original 47 times, was starstruck by the warm reception from the actresses. The teaser highlights a humorous exchange about judging shoes, with Streep complimenting Johar's Prada sneakers.",
-    "img": "https://static.toiimg.com/photo/msid-130199012,imgsize-37436.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/meryl-streep-approves-of-karan-johars-rs-1-25-lakh-shoes-as-the-filmmaker-chats-with-her-and-anne-hathaway-ahead-of-the-devil-wears-prada-2/articleshow/130199000.cms",
-    "time": "2026-04-11T20:17:25.000Z"
   },
   {
     "cat": "Politics",
@@ -349,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-controversy-rr-manager-romi-bhinder-violates-pmoa-protocol-by-using-phone-in-dugout/articleshow/130198810.cms",
     "time": "2026-04-11T19:50:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt mulls sending surplus rice as aid to conflict-hit Iran",
-    "desc": "India is poised to permit wheat exports to Egypt, Indonesia, and Myanmar due to surplus stocks. Rice shipments, including to war-torn Iran on humanitarian grounds, are also being considered. This move aims to free up storage space for upcoming winter crops and capitalize on increased demand amid global supply chain disruptions.",
-    "img": "https://static.toiimg.com/photo/msid-130198844,imgsize-1060252.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/govt-mulls-sending-surplus-rice-as-aid-to-conflict-hit-iran/articleshow/130198846.cms",
-    "time": "2026-04-11T19:48:37.000Z"
   },
   {
     "cat": "Business",
@@ -397,66 +604,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "No forum to deal with arbitrators' misdeeds: SC judge",
-    "desc": "Supreme Court Justice B.V. Nagarathna emphasized that arbitration and mediation are vital to a modern justice system, not just alternatives to court. She noted a gap in addressing complaints against arbitrators, often retired judges, whom courts are hesitant to remove. Maintaining litigant trust is crucial, as bias allegations erode confidence in these dispute resolution methods.",
-    "img": "https://static.toiimg.com/photo/msid-130198767,imgsize-1009265.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-forum-to-deal-with-arbitrators-misdeeds-sc-judge/articleshow/130198752.cms",
-    "time": "2026-04-11T19:34:19.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Edappadi K. Palaniswami, the lone star of AIADMK election campaign, steps up his pitch for power",
     "desc": "The former Chief Minister is the main campaigner for the AIADMK across Tamil Nadu, with a stump speech focused on law and order issues, the State’s finances, concerns of government employees, drug menace, and rising inflation; he also highlights features of the manifesto of his party",
     "img": "https://th-i.thgim.com/public/incoming/hqelg9/article70839678.ece/alternates/LANDSCAPE_1200/11658_8_4_2026_21_44_15_3_8.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/palaniswami-lone-star-of-the-aiadmk-poll-campaign/article70838381.ece",
     "time": "2026-04-11T19:17:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Asha Bhosle spoke about singing live on stage at the age of 90",
-    "desc": "Legendary singer Asha Bhosle has been hospitalized due to extreme exhaustion and a chest infection. Her granddaughter shared the update, stating treatment is ongoing and they hope for a positive outcome. Despite her age, Bhosle remains active, having recently performed a concert and expressed her deep connection to music as her life force.",
-    "img": "https://static.toiimg.com/photo/msid-130198464,imgsize-35126.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-asha-bhosle-spoke-about-singing-live-on-stage-at-the-age-of-90-and-suriving-through-difficult-times-in-her-life/articleshow/130198263.cms",
-    "time": "2026-04-11T18:58:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nasha Mukt J&amp;K: LG launches drive to cut off Pak supply, swift punishment for peddlers",
-    "desc": "Jammu and Kashmir Lieutenant Governor Manoj Sinha Saturday launched a 100-day campaign to combat the drug menace, targeting supply from Pakistan and traffickers. The initiative involves revoking licenses, freezing assets, and issuing lookout circulars against drug peddlers. The campaign will proceed through awareness, community engagement, enforcement, rehabilitation, and evaluation phases.",
-    "img": "https://static.toiimg.com/photo/msid-130198328,imgsize-944266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nasha-mukt-jk-lg-launches-drive-to-cut-off-pak-supply-swift-punishment-for-peddlers/articleshow/130198266.cms",
-    "time": "2026-04-11T18:50:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "6.5 yrs after bifurcation, J&amp;K removed from Aadhaar records of Ladakh residents",
-    "desc": "After a six-year delay, Aadhaar records for Ladakh residents now correctly reflect 'Ladakh' instead of 'Jammu & Kashmir' in the state field. This long-pending correction, facilitated by the UT administration and UIDAI, resolves significant inconveniences faced by residents in accessing services and verifying their identity.",
-    "img": "https://static.toiimg.com/photo/msid-130198116,imgsize-1419884.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/6-5-yrs-after-bifurcation-jk-removed-from-aadhaar-records-of-ladakh-residents/articleshow/130198115.cms",
-    "time": "2026-04-11T18:38:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Palaniswami is coasting along with PMK’s support in Edappadi",
-    "desc": "The DMK won in the constituency in 1967 and 1971. Thereafter, the AIADMK has won seven times, out of which Mr. Palaniswami has won five times. Farming is a major occupation of the people of the constituency, which covers Edappadi taluk, a portion of Mettur taluk, Konganapuram, Nangavalli and Jalakandapuram town panchayats",
-    "img": "https://th-i.thgim.com/public/incoming/ieei8z/article70835883.ece/alternates/LANDSCAPE_1200/9868_6_4_2026_13_21_28_3_EPS_2.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/palaniswamiis-coasting-along-with-the-support-ofpmkin-edappadi/article70833955.ece",
-    "time": "2026-04-11T18:35:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Poor delivery of schemes, lack of support for farm sector, major talking points in Madurantakam constituency",
-    "desc": "Farmers say that during the peak season, the DPCs find it difficult to process and move the large volume of paddy that they deposit there. Payments are often delayed too, sometimes for over a month to three months. Irulars in the constituency say they face stigmatisation and live in abject poverty",
-    "img": "https://th-i.thgim.com/public/incoming/xgx6lv/article70835923.ece/alternates/LANDSCAPE_1200/11658_6_4_2026_18_17_57_2_2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/poor-delivery-of-schemes-lack-of-support-for-the-farm-sector-major-talking-points-in-madurantakam/article70831834.ece",
-    "time": "2026-04-11T18:22:53.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +621,6 @@ const newsData_en = [
     "time": "2026-04-11T18:21:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Familiar foes trying to recover lost ground in State’s southern districts",
-    "desc": "The AIADMK is facing a two-pronged attack from its former coordinator O. Panneerselvam and former interim general secretary V.K. Sasikala; while the former, now with the DMK, has addressed 40 meetings in the southern region, the latter, who now heads the AIPTMMK, will begin her tour today",
-    "img": "https://th-i.thgim.com/public/news/national/rsaveo/article70831813.ece/alternates/LANDSCAPE_1200/ops.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/familiar-foes-trying-to-recover-lost-ground-in-southern-districts-of-tn/article70831058.ece",
-    "time": "2026-04-11T17:57:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India win the battle, lose the war and fail to make playoffs",
     "desc": "India beat Korea 2-1 to win their fifth and final tie in the Billie Jean King Cup. India had to win 3-0 and needed other result to go their way, but neither worked out. India finished third in the group and will not qualify for the playoffs.",
@@ -484,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/bjk-cup-india-win-the-battle-lose-the-war-and-fail-to-make-playoffs/articleshow/130196817.cms",
     "time": "2026-04-11T17:53:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jayakanthan’s ‘Cinemavukku Pona Chitthalu’: on the influence of film personalities on the masses",
-    "desc": "Jayakanthan’s novella, ‘Cinemavukku Pona Chitthalu,’ explores the impact of film culture on identity and social dynamics through the story of Kamsalai, a devoted admirer of Tamil cinema icon M.G. Ramachandran (MGR). Set in Chennai, the narrative captures a time when MGR’s influence shaped Tamil Nadu’s political landscape.",
-    "img": "https://th-i.thgim.com/public/news/national/wabe67/article70831799.ece/alternates/LANDSCAPE_1200/cartoon.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/theblurredline-between-reality-and-illusion-the-influence-of-film-personalities-on-the-masses/article70830894.ece",
-    "time": "2026-04-11T17:52:52.000Z"
   },
   {
     "cat": "World",
@@ -511,24 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-when-you-are-going-for-a-big-chase-you-have-to-cash-in-on-the-powerplay-prabhsimran/article70851968.ece",
     "time": "2026-04-11T17:21:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajinikanth played a pivotal role in giving Ektaa her first show",
-    "desc": "Legendary actor Rajinikanth's timely intervention helped Ekta Kapoor secure her first television break in a South Indian show. This initial success, despite initial skepticism about her background, paved the way for her Hindi television ventures, including the iconic 'Kyunki Saas Bhi Kabhi Bahu Thi', solidifying her industry legacy.",
-    "img": "https://static.toiimg.com/photo/msid-130196540,imgsize-46976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajinikanth-played-a-pivotal-role-in-giving-ekta-kapoor-her-first-show-he-saw-i-was-upset/articleshow/130196461.cms",
-    "time": "2026-04-11T17:18:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Iyer credits Shashank for breaking SRH's momentum",
-    "desc": "A captain's trust in a part-timer, Shashank Singh, proved pivotal as he dismissed both Sunrisers openers, shifting the game's momentum. Sunrisers bowling coach acknowledged the absence of Pat Cummins and admitted their innings fell short of expectations, despite a strong start, crediting Punjab's bowlers for their effective middle-overs performance.",
-    "img": "https://static.toiimg.com/photo/msid-130195965,imgsize-31814.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-shreyas-iyer-credits-shashank-singh-for-breaking-srhs-momentum/articleshow/130195974.cms",
-    "time": "2026-04-11T16:49:55.000Z"
   },
   {
     "cat": "Sports",
@@ -576,69 +693,6 @@ const newsData_en = [
     "time": "2026-04-11T15:35:11.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Iyer-led PBKS script history, become first-ever in T20 cricket to..",
-    "desc": "Punjab Kings made T20 history by becoming the first team to chase 200-plus totals 10 times, defeating Sunrisers Hyderabad by six wickets. Priyansh Arya and Prabhsimran Singh gave a strong start, while Shreyas Iyer’s unbeaten 69 guided the chase. Despite SRH’s 219, powered by Abhishek Sharma’s 74, Punjab stayed unbeaten this season.",
-    "img": "https://static.toiimg.com/photo/msid-130194321,imgsize-43996.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-shreyas-iyer-led-punjab-kings-script-history-become-first-ever-team-in-t20-cricket-to-/articleshow/130194101.cms",
-    "time": "2026-04-11T14:56:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bournemouth stun Arsenal 2-1 at the Emirates to dent Premier League title push",
-    "desc": "Arsenal's Premier League title aspirations suffered a significant blow as they were defeated 2-1 by Bournemouth at the Emirates. Despite equalizing through a Viktor Gyökeres penalty, Bournemouth secured victory with goals from Junior Kroupi and Alex Scott, handing Manchester City renewed hope.",
-    "img": "https://static.toiimg.com/photo/msid-130194146,imgsize-114664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/bournemouth-stun-arsenal-2-1-at-the-emirates-to-dent-premier-league-title-push/articleshow/130194150.cms",
-    "time": "2026-04-11T14:49:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shocking! Man casually walks into JLN track during final race",
-    "desc": "The Athletics Federation of India faces backlash after a man walked onto the track during a junior 200m race in New Delhi, forcing a runner to avoid collision. The viral incident raised safety concerns and drew criticism online, with fans calling it a “shocking” lapse. The episode has sparked wider doubts about event management as India eyes hosting global sporting events.",
-    "img": "https://static.toiimg.com/photo/msid-130193613,imgsize-38138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/shocking-man-casually-walks-into-jln-track-during-final-race-afi-slammed-watch/articleshow/130193372.cms",
-    "time": "2026-04-11T14:14:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PBKS unbeaten streak continues as Shreyas Iyer outclasses SRH in run-fest",
-    "desc": "Punjab Kings secured a six-wicket victory against Sunrisers Hyderabad in an IPL match. Shreyas Iyer led the chase with an unbeaten 69. Earlier, Priyansh Arya and Prabhsimran Singh provided a strong opening stand. Sunrisers Hyderabad posted 219 for six, with Abhishek Sharma scoring 74. Punjab Kings successfully chased the target with seven deliveries remaining.",
-    "img": "https://static.toiimg.com/photo/msid-130193598,imgsize-147942.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-pbks-unbeaten-streak-continues-as-shreyas-iyer-outclasses-srh-in-run-fest/articleshow/130193604.cms",
-    "time": "2026-04-11T14:13:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Salman ki behen tere saath kya kar rahi hai?' Aayush on his father's reaction",
-    "desc": "Aayush Sharma and Arpita Khan Sharma's marriage faced initial hesitation from Aayush's parents, who were concerned about his financial stability and acting career. Despite their doubts, Salman Khan supported the union, believing in Aayush's potential and promising to train him. Aayush's father eventually came around after seeing his son's second film.",
-    "img": "https://static.toiimg.com/photo/msid-130193357,imgsize-24706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-ki-behen-tere-saath-kya-kar-rahi-hai-aayush-sharma-recalls-his-fathers-reaction-when-he-decided-to-marry-arpita-khan/articleshow/130193360.cms",
-    "time": "2026-04-11T13:58:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will Dhoni return? Gaikwad provides big update",
-    "desc": "MS Dhoni's return to the Chennai Super Kings jersey remains uncertain due to a calf strain, with fans eagerly awaiting updates. Captain Ruturaj Gaikwad confirmed Dhoni is supporting the team from the hotel and will be back on the field soon. The team aims for their first win of the season.",
-    "img": "https://static.toiimg.com/photo/msid-130193344,imgsize-51568.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/when-will-ms-dhoni-return-ruturaj-gaikwad-provides-big-update-says-for-those-asking-/articleshow/130193350.cms",
-    "time": "2026-04-11T13:56:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ekta Kapoor breaks myths about Bollywood parties",
-    "desc": "Producer Ektaa Kapoor debunked the myth of extravagant gift-giving at Bollywood birthday parties, stating that guests often only offer blessings to big stars like Salman Khan and Shah Rukh Khan. She described the film industry as surprisingly subdued, with many stars prioritizing disciplined routines over late-night indulgence, challenging the stereotype of constant partying and heavy drinking.",
-    "img": "https://static.toiimg.com/photo/msid-130192943,imgsize-64846.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ekta-kapoor-breaks-myths-about-bollywood-parties-says-nobody-carries-gifts-for-salman-khan-shah-rukh-khan-not-true-that-people-drink-heavily/articleshow/130192863.cms",
-    "time": "2026-04-11T13:35:57.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Government raises diesel, ATF export duties as oil prices stay volatile; petrol duty remains nil",
     "desc": "India has significantly hiked export duties on diesel and Aviation Turbine Fuel (ATF) to Rs 55.5 and Rs 42 per litre respectively, effective immediately. This move aims to curb rising fuel costs impacting airfares and protect airlines and passengers amidst volatile global oil prices. Petrol exports remain duty-free.",
@@ -657,42 +711,6 @@ const newsData_en = [
     "time": "2026-04-11T12:54:10.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Scary! Pakistan's Babar Azam in severe pain during PSL match",
-    "desc": "Peshawar Zalmi captain Babar Azam survived a helmet blow from Ubaid Shah but continued batting after checks. He later scored 43 and shared a 109-run stand with Kusal Mendis to steady the innings. Babar also became the first player to reach 4000 PSL runs. He noted changing conditions but backed his team’s strong spin attack.",
-    "img": "https://static.toiimg.com/photo/msid-130192076,imgsize-40396.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/scary-moment-pakistans-babar-azam-in-severe-pain-during-psl-match-watch/articleshow/130191689.cms",
-    "time": "2026-04-11T12:51:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Phasa diya ... but Dhoni': Mukul Choudhary passes big test with a big finish",
-    "desc": "Mukul Choudhary, a 21-year-old, became an overnight sensation after a stunning last-ball victory for Lucknow Super Giants against Kolkata Knight Riders. He smashed seven sixes in a fearless display, scoring an unbeaten 54 off 27 balls to chase down 182. Choudhary credited captain Rishabh Pant for his composure under pressure.",
-    "img": "https://static.toiimg.com/photo/msid-130191953,imgsize-54790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/phasa-diya-but-ms-dhoni-mukul-choudhary-passes-big-test-with-a-big-finish/articleshow/130191919.cms",
-    "time": "2026-04-11T12:41:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All the songs on Bruno Mars’ ‘The Romantic Tour’ setlist",
-    "desc": "Bruno Mars has launched 'The Romantic Tour,' marking his grand return to arenas after a hiatus. Kicking off in Las Vegas, the tour supports his new album and features a blend of fresh tracks and beloved hits. The shows have seen record-breaking ticket sales, with fans eager to experience Mars' signature showmanship and musical prowess live.",
-    "img": "https://static.toiimg.com/photo/msid-130191819,imgsize-102328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bruno-mars-the-romantic-tour-setlist-all-the-songs-behind-his-2026-comeback/articleshow/130191796.cms",
-    "time": "2026-04-11T12:35:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ravi Dubey overwhelmed by seeing himself as Laxman on Times Square Billboard",
-    "desc": "Ravi Dubey, set to portray Laxman in Nitesh Tiwari's 'Ramayana', expressed overwhelming gratitude upon seeing himself on a massive Times Square billboard. He shared his deep appreciation for his fans, who he now considers family, for this incredible gesture.",
-    "img": "https://static.toiimg.com/photo/msid-130191831,imgsize-41790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoors-ramayana-ravi-dubey-overwhelmed-by-seeing-himself-as-laxman-on-times-square-billboard/articleshow/130191839.cms",
-    "time": "2026-04-11T12:34:27.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "A loyalist on the brand’s evolution in India",
     "desc": "From buying an iPod Mini in 2004 to standing in line for early iPad launches, one long-time user traces how Apple Inc. shaped taste, tech and aspiration in India — and how the global giant has, over time, gone quietly desi",
@@ -703,39 +721,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Pawan Kalyan's 'Ustaad Bhagat Singh' OTT details",
-    "desc": "Pawan Kalyan's cop drama 'Ustaad Bhagat Singh,' which opened to mixed reviews, is now heading to Netflix. The film, directed by Harish Shankar, will begin streaming on April 16, 2026, in multiple languages. The plot follows a former police officer protecting a family amidst unexpected events in a forest setting.",
-    "img": "https://static.toiimg.com/photo/msid-130190639,imgsize-677661.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ustaad-bhagat-singh-ott-pawan-kalyans-cop-action-drama-locks-streaming-date-find-when-and-where-to-watch-online/articleshow/130190639.cms",
-    "time": "2026-04-11T11:33:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunrisers Hyderabad create IPL history, become first team to ...",
-    "desc": "Sunrisers Hyderabad's opening pair, Abhishek Sharma and Travis Head, unleashed an unprecedented Powerplay assault against Punjab Kings, smashing 105 runs without loss. Abhishek recorded a blistering half-century in 18 balls and equaled the record for most sixes in a Powerplay with seven, highlighting SRH's dominance.",
-    "img": "https://static.toiimg.com/photo/msid-130190600,imgsize-61224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-sunrisers-hyderabad-create-ipl-history-become-first-team-to-/articleshow/130190516.cms",
-    "time": "2026-04-11T11:23:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "T.N. police launch probe into leak of TVK leader Vijay’s film",
     "desc": "The police action follows a complaint by R. Udayakumar, production controller of KVN Productions, who sought immediate intervention against the illegal leak, unlawful downloading, transmission, and circulation of the film, which is yet to be released in theatres",
     "img": "https://th-i.thgim.com/public/incoming/2d08zx/article70850699.ece/alternates/LANDSCAPE_1200/Thalapathy.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/jana-nayagan-tn-police-launch-probe-into-leak-of-tvk-leader-vijays-film/article70850527.ece",
     "time": "2026-04-11T11:18:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hrithik Roshan’s house: Sea-facing bungalow and property deals detailed",
-    "desc": "Hrithik Roshan's opulent Mumbai abode reflects his affinity for the sea, featuring interiors inspired by ocean vibes and personalized decor elements. But the Juhu residence is just the tip of the iceberg—his impressive real estate portfolio includes luxurious properties in Khandala and Lonavala, a bustling production office, and an array of elite automobiles.",
-    "img": "https://static.toiimg.com/photo/msid-130190075,imgsize-445120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshans-house-sea-facing-bungalow-new-home-and-property-deals-detailed/articleshow/130190075.cms",
-    "time": "2026-04-11T11:06:15.000Z"
   },
   {
     "cat": "World",
@@ -763,15 +754,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-conflict-at-nearly-700-billion-how-indias-forex-reserves-are-a-strong-armour-against-global-crises/articleshow/130188373.cms",
     "time": "2026-04-11T09:43:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sindarov, Gukesh's likely challenger, cracks code for sponsorship woes in chess",
-    "desc": "Uzbekistan's Javokhir Sindarov is on the cusp of winning the FIDE Candidates 2026, poised to challenge World Champion D Gukesh. His rapid play and impressive unbeaten streak have captivated the chess world. Managed by Tom Guilbaud, Sindarov's career has transformed from obscurity to a top contender, aided by strategic social media promotion and newfound sponsorships.",
-    "img": "https://static.toiimg.com/photo/msid-130187960,imgsize-42416.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/javokhir-sindarov-d-gukeshs-likely-world-cship-challenger-cracks-code-for-sponsorship-woes-in-chess/articleshow/130187919.cms",
-    "time": "2026-04-11T09:12:26.000Z"
   },
   {
     "cat": "Business",
@@ -808,15 +790,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-shares-video-of-brutal-florida-killing-allegedly-by-haitian-immigrant/article70850111.ece",
     "time": "2026-04-11T06:16:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Sir, kal se cricket khel sakte hain?': What Vaibhav asked docs after being hit on the helmet",
-    "desc": "Vaibhav Sooryavanshi, at 15, is taking the world’s best bowlers to the cleaners. After taking on Mumbai Indians' Jasprit Bumrah a few days ago, he tore apart Royal Challengers Bengaluru seamers Josh Hazlewood and Bhuvneshwar Kumar as well. Sooryavanshi does not bother with reputations or resumes. The youngster bats with rare clarity and shows intent from ball one, and his personal side-arm thrower back in Tajpur, Samastipur, is not surprised at all.",
-    "img": "https://static.toiimg.com/photo/msid-130185613,imgsize-53654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/sir-kal-se-cricket-khel-sakte-hain-what-vaibhav-sooryavanshi-asked-the-doctors-after-being-hit-on-the-helmet/articleshow/130185592.cms",
-    "time": "2026-04-11T05:58:47.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/will-tata-sons-get-listing-waiver-rbi-tweak-will-make-it-upper-nbfc/articleshow/130182197.cms",
     "time": "2026-04-10T22:52:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "examining Varun Chakaravarthy’s sudden downturn",
+    "desc": "Until recently, the mystery spinner was the world’s top-ranked T20I bowler. But since the Super Eights at the 2026 T20 World Cup, the 34-year-old’s game has unravelled. What has led to this surprising dip in form? And can he return to his unplayable best during the IPL?",
+    "img": "https://th-i.thgim.com/public/incoming/5v08m/article70848969.ece/alternates/LANDSCAPE_1200/GettyImages-2264947774.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/varun-chakaravarthy-form-dip-t20-analysis-india-spinner-struggles/article70848966.ece",
+    "time": "2026-04-10T19:36:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Lamine Yamal became the face of post-Messi Barcelona",
+    "desc": "After powering the club to the domestic treble last season, the boy wonder has helped drive the Blaugrana to the top of LaLiga and into the Champions League’s last eight. His goal-scoring, playmaking and dribbling have fuelled his dizzying rise to superstardom. Having inherited Barcelona’s iconic No. 10 shirt, there is no doubt the 18-year-old is the club’s leading man",
+    "img": "https://th-i.thgim.com/public/incoming/vt3mq7/article70848983.ece/alternates/LANDSCAPE_1200/GettyImages-2267257911.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/lamine-yamal-barcelona-10-lionel-messi-comparison-psg-transfer-analysis/article70848988.ece",
+    "time": "2026-04-10T19:32:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 PBKS vs SRH preview",
+    "desc": "A glance at the scorecard of their last meeting — in Hyderabad on April 12, 2025 — provides context. Sunrisers, coming off a four-match losing streak, hunted down the 246-run target with eight wickets and nine balls to spare, thanks to a 55-ball 141 from Abhishek Sharma",
+    "img": "https://th-i.thgim.com/public/incoming/9zxdcv/article70847958.ece/alternates/LANDSCAPE_1200/PTI04_10_2026_000383A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-pbks-vs-srh-preview-punjab-kings-vs-sunrisers-hyderabad-face-off-in-a-battle-of-big-hitters/article70847387.ece",
+    "time": "2026-04-10T16:54:44.000Z"
   }
 ];

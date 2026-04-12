@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Nitish Rana handed hefty fine and demerit point after heated argument with the umpire during CSK clash",
+    "desc": "In a major development, Delhi Capitals’ batter Nitish Rana has been handed 1 demerit point. It has been slapped with a 25 per cent match fee fine after he was involved in a heated argument...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nitish-rana-handed-hefty-fine-and-demerit-point-after-heated-argument-with-the-umpire-during-csk-clash-2026-04-12-1037232",
+    "time": "2026-04-12T05:12:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Ekana Stadium in Lucknow play?",
+    "desc": "The stage is set for the 19th game of the ongoing IPL (Indian Premier League) 2026. Lucknow Super Giants will take on Gujarat Titans at the Ekana Stadium in Lucknow on April 12, and it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-gt-pitch-report-how-will-surface-at-ekana-stadium-in-lucknow-play-2026-04-12-1037226",
+    "time": "2026-04-12T04:29:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson opens up on switch from RR to CSK after smashing IPL 2026's first century",
+    "desc": "Five-time IPL (Indian Premier League) champions Chennai Super Kings registered their first win of the ongoing IPL 2026 season by defeating Delhi Capitals. Led by Ruturaj Gaikwad, CSK had gotten off to a poor start...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-opens-up-on-switch-from-rr-to-csk-after-smashing-ipl-2026-s-first-century-2026-04-12-1037221",
+    "time": "2026-04-12T03:32:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Chennai Super Kings end losing streak to register maiden IPL 2026 win, beat Delhi Capitals by 23 runs",
     "desc": "Chennai Super Kings finally opened their account in the Indian Premier League 2026 after defeating Delhi Capitals at the MA Chidambaram Stadium in Chennai on Saturday, April 11. After suffering three consecutive losses to start...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-are-punjab-kings-players-wearing-black-armbands-during-ipl-2026-clash-against-srh-2026-04-11-1037174",
     "time": "2026-04-11T11:44:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at MA Chidambaram Stadium in Chennai play?",
-    "desc": "The stage is set for game 18 of the ongoing IPL (Indian Premier League) 2026. Chennai Super Kings will be taking on Delhi Capitals at the MA Chidambaram Stadium in Chennai on April 11. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-dc-pitch-report-how-will-surface-at-ma-chidambaram-stadium-in-chennai-play-2026-04-11-1037173",
-    "time": "2026-04-11T11:19:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Dewald Brevis finally take field for CSK in clash against DC at Chepauk?",
-    "desc": "Dewald Brevis' absence has been felt in the Chennai Super Kings camp in the Indian Premier League 2026. Despite the franchise fielding some young players, they have lacked the finishing touches that the likes of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-dewald-brevis-finally-take-field-for-csk-in-clash-against-dc-at-chepauk-2026-04-11-1037171",
-    "time": "2026-04-11T11:00:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Liam Livingstone not playing for SRH in IPL 2026 clash against PBKS in New Chandigarh?",
-    "desc": "Sunrisers Hyderabad take on Punjab Kings in their fourth match of the Indian Premier League 2026 in a clash of two batting heavyweights at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh. Both...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-liam-livingstone-not-playing-for-srh-in-ipl-2026-clash-against-pbks-in-new-chandigarh-2026-04-11-1037162",
-    "time": "2026-04-11T10:15:11.000Z"
   }
 ];
