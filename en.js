@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "China says it will resume some ties with Taiwan including more direct flights",
+    "desc": "The Taiwan Work Office under China’s Communist Party issued a statement saying it would explore setting up a longstanding communication mechanism between the Communist Party and Taiwan’s Kuomingtang Party, and facilitate the import of Taiwan’s aquaculture products, after it banned them in recent years",
+    "img": "https://th-i.thgim.com/public/incoming/8b1qaj/article70853490.ece/alternates/LANDSCAPE_1200/2026-04-10T123705Z_38324971_RC2BMKAV3BD5_RTRMADP_3_CHINA-TAIWAN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/china-says-it-will-resume-some-ties-with-taiwan-including-more-direct-flights/article70853479.ece",
+    "time": "2026-04-12T06:59:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "examining the renaming of Kerala",
+    "desc": "The Union Government’s recent approval of the proposal to rename Kerala as Keralam prompts a re-examination of the term’s historicity, including its founding legend, the context of the United Kerala Movement, and arguments for the linguistic purity of ‘Keralam’",
+    "img": "https://th-i.thgim.com/public/news/wxc2h5/article70831693.ece/alternates/LANDSCAPE_1200/iStock-1453895103.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/from-myths-to-language-examining-the-renaming-of-kerala/article70831691.ece",
+    "time": "2026-04-12T06:57:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Udhayanidhi Stalin launches campaign in Mannargudi",
+    "desc": "Tamil Nadu leaders are actively campaigning for the upcoming Assembly elections. Udhayanidhi Stalin launched his campaign in Mannargudi, criticizing rivals and emphasizing regional identity. Chief Minister M K Stalin campaigned in Paramakudi, alleging the BJP is using the AIADMK as a mask. Welfare promises for women, housing, and education were reiterated. The elections are scheduled for April 23.",
+    "img": "https://static.toiimg.com/photo/msid-130203914,imgsize-401428.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-polls-udhayanidhi-stalin-launches-campaign-in-mannargudi/articleshow/130203871.cms",
+    "time": "2026-04-12T06:55:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit vs Bhuvneshwar, Kohli vs Bumrah: 5 key battles in today's match",
+    "desc": "Mumbai Indians and Royal Challengers Bengaluru clash tonight at Wankhede in a crucial IPL encounter. Both teams seek redemption after recent losses, with the iconic rivalry between Rohit Sharma and Virat Kohli headlining the contest. Key individual battles, including the Pandya brothers and Bumrah vs. Kohli, will shape the outcome of this high-stakes match.",
+    "img": "https://static.toiimg.com/photo/msid-130203848,imgsize-1281711.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mi-vs-rcb-rohit-vs-bhuvneshwar-kohli-vs-bumrah-5-key-battles-in-todays-match/articleshow/130203850.cms",
+    "time": "2026-04-12T06:46:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shahid Kapoor in talks for Jr NTR film 'Dragon'",
+    "desc": "Jr NTR's upcoming film 'Dragon', directed by Prashanth Neel, is reportedly eyeing Bollywood star Shahid Kapoor for a pivotal role. Kapoor is in talks to replace Tovino Thomas, who exited due to scheduling conflicts. The film also features Rukmini Vasanth as the female lead and Anil Kapoor in a key part.",
+    "img": "https://static.toiimg.com/photo/msid-130203727,imgsize-1261129.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/shahid-kapoor-in-talks-to-face-off-against-jr-ntr-in-prashanth-neels-dragon-after-tovino-thomas-exits-reports/articleshow/130203727.cms",
+    "time": "2026-04-12T06:45:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What is the SIR controversy in West Bengal",
+    "desc": "How many names have been deleted from the electoral rolls, and why? What are the logical discrepancies identified by the ECI? Why were large numbers of voters placed under adjudication, and how was this resolved? How has the SIR process reshaped the State’s political contest?",
+    "img": "https://th-i.thgim.com/public/incoming/m7jw4o/article70851797.ece/alternates/LANDSCAPE_1200/PTI04_11_2026_000342A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/sir-controversy-in-west-bengal-electoral-roll-changes-eci-tmc-mamata-banerjee/article70851799.ece",
+    "time": "2026-04-12T06:35:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nellore police arrest man who duped youth on pretext of providing jobs in TTD",
+    "desc": "Based on the complaint given by the duped victims, a case was registered at the Vedayapalem Police Station under the relevant sections of cheating and forgery; during investigation, ₹25.20 lakh was seized from the accused so far.",
+    "img": "https://th-i.thgim.com/public/incoming/9zn3pc/article70853485.ece/alternates/LANDSCAPE_1200/iStock-1447145892%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nellore-police-arrest-man-who-duped-youth-on-pretext-of-providing-jobs-in-ttd/article70853282.ece",
+    "time": "2026-04-12T06:33:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Jana Nayagan’ leak row: Tamil Nadu cyber crime probe begins",
+    "desc": "Tamil cinema is reeling from the alleged leak of Vijay's highly anticipated film, 'Jana Nayagan'. Police are investigating after high-definition scenes surfaced online, with the production team filing a complaint naming 21 individuals. The leak, reportedly including climax scenes, has sparked outrage and calls for strict action from industry figures.",
+    "img": "https://static.toiimg.com/photo/msid-130203577,imgsize-85052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-leak-row-tamil-nadu-cyber-crime-wing-launches-probe-21-named-in-complaint-as-cbfc-dismisses-leak-link-as-baseless-report/articleshow/130203577.cms",
+    "time": "2026-04-12T06:30:58.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Vance leaves Pakistan after Iran talks fail to reach a deal",
+    "desc": "No deal yet in US-Iran talks. Vice-President J.D. Vance says the U.S. is returning without an agreement after key differences over Iran’s nuclear programme. Iranian media says talks may continue, with the Strait of Hormuz at the centre of discussions.",
+    "img": "https://th-i.thgim.com/public/incoming/mlnve8/article70853237.ece/alternates/LANDSCAPE_1200/2026-04-12T023613Z_1201541175_RC2ENKA9BY8N_RTRMADP_3_IRAN-CRISIS-CEASEFIRE-PAKISTAN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/vance-leaves-pakistan-after-iran-talks-fail-to-reach-a-deal/article70853491.ece",
+    "time": "2026-04-12T06:30:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi urges all political parties to clear amendments to Women’s Reservation Bill in ‘one voice’",
+    "desc": "In response to the Prime Minister’s letter, Congress President Mallikarjun Kharge questioned the timing of bringing in the amendments and pointed to the lack of consultations on legislation that would deeply affect the federal structure",
+    "img": "https://th-i.thgim.com/public/incoming/nfi39b/article70810766.ece/alternates/LANDSCAPE_1200/PTI04_01_2026_000145B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/womens-reservation-act-pm-modi-letter-to-parliament-floor-leaders/article70853388.ece",
+    "time": "2026-04-12T06:27:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ciara Miller’s ‘loyalty’ post after Amanda Batula, West Wilson’s news",
+    "desc": "In a twist of events, Ciara Miller took to social media to share a veiled message about 'loyalty', coinciding with the public appearance of her ex, West Wilson, alongside her former confidante, Amanda Batula. Fans of 'Summer House' are buzzing, especially after Batula and Wilson officially acknowledged their romance, sparking speculations about Miller's fallout with them.",
+    "img": "https://static.toiimg.com/photo/msid-130203563,imgsize-114264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/ciara-miller-posts-cryptic-actually-rewards-loyalty-message-after-amanda-batula-and-west-wilson-are-spotted-kissing/articleshow/130203563.cms",
+    "time": "2026-04-12T06:23:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Electronic firms seek PLI 2.0, eye 30–35% share in global mobile production by FY31",
+    "desc": "India's electronics industry is seeking continued government support with a proposed PLI 2.0 scheme to boost mobile production and exports. Aiming to capture 30-35% of global mobile output by FY31, the industry projects annual manufacturing to reach $110-130 billion. This expansion hinges on sustained incentives to maintain competitiveness against China.",
+    "img": "https://static.toiimg.com/photo/msid-130203554,imgsize-172177.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indian-electronic-firms-seek-pli-2-0-eye-3035-share-in-global-mobile-production-by-fy31/articleshow/130203209.cms",
+    "time": "2026-04-12T06:19:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meghan and Harry party with Netflix CEO Ted Sarandos",
+    "desc": "Meghan Markle and Prince Harry's presence at a Netflix party, shortly after rumors of tension with the streaming giant, sparked speculation. Eyewitnesses reported warm interactions with co-CEO Ted Sarandos, contradicting reports of a falling-out. Despite past project underperformance and a shift in their deal, the couple recently announced a new polo-themed drama, signaling an ongoing partnership with Netflix.",
+    "img": "https://static.toiimg.com/photo/msid-130203501,imgsize-117710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/meghan-markle-and-prince-harry-show-up-at-netflix-ceo-ted-sarandos-glamorous-party/articleshow/130203479.cms",
+    "time": "2026-04-12T06:14:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP issues whip, orders full attendance of MPs for April 16–18 special Parliament session",
+    "desc": "BJP has issued a strict three-line whip for a mandatory three-day Parliament session starting April 16, requiring all MPs and Union ministers to attend. The special session is expected to focus on the Women's Reservation Amendment Bill, with the government proposing to use 2011 census data for implementation timelines.",
+    "img": "https://static.toiimg.com/photo/msid-130203416,imgsize-1486035.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-issues-whip-orders-full-attendance-of-mps-for-april-1618-special-parliament-session/articleshow/130203404.cms",
+    "time": "2026-04-12T06:08:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Predicted playing XI, head-to-head, pitch report, Mumbai weather update",
+    "desc": "Mumbai Indians and Royal Challengers Bengaluru clash tonight at Wankhede in a high-voltage IPL encounter. Both teams seek redemption after recent losses. The Wankhede pitch promises a batting paradise, setting the stage for a thrilling contest between Rohit Sharma's MI and Virat Kohli's RCB. Ideal weather conditions ensure a full game.",
+    "img": "https://static.toiimg.com/photo/msid-130203292,imgsize-1045244.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/today-ipl-match-mi-vs-rcb-predicted-playing-xi-head-to-head-pitch-report-mumbai-weather-update/articleshow/130203249.cms",
+    "time": "2026-04-12T05:53:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Frankie Paul expresses her gratitude for supporters",
+    "desc": "In the midst of her very public struggles with domestic abuse and a custody battle against ex Dakota Mortensen, Taylor Frankie Paul of 'Secret Lives of Mormon Wives' took a moment to thank her fans, describing their support as 'miraculous.' This overwhelming assistance, however, has resulted in unexpected filming delays and the cancellation of her planned appearance on 'The Bachelorette.'",
+    "img": "https://static.toiimg.com/photo/msid-130202872,imgsize-444549.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/secret-lives-of-mormon-wives-star-taylor-frankie-paul-thanks-supporters-amid-domestic-abuse-and-custody-case-with-with-dakota-mortensen-just-want-to-say-thank-you/articleshow/130202872.cms",
+    "time": "2026-04-12T05:45:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Swami Vivekananda Monument installed in downtown Seattle",
+    "desc": "Seattle has made history by becoming the first U.S. city government to host a life-size statue of Swami Vivekananda. Unveiled at Westlake Square, the bronze monument, a gift from India, signifies Seattle's inclusive spirit and strengthens cultural ties. Dignitaries and community leaders attended the ceremony, celebrating this unique Indo-American cultural exchange.",
+    "img": "https://static.toiimg.com/photo/msid-130203201,imgsize-1342328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/swami-vivekananda-monument-installed-in-downtown-seattle/articleshow/130203169.cms",
+    "time": "2026-04-12T05:43:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "PM Modi expresses concern for Asha Bhosle's health",
+    "desc": "The illustrious Asha Bhosle, a titan in the realm of music, is currently receiving treatment in Mumbai after battling severe exhaustion and a chest infection. Prime Minister Narendra Modi has shared heartfelt thoughts and wishes for her speedy recovery. Asha's family, including her granddaughter, has requested privacy during this challenging time. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130202976,imgsize-148232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/pm-narendra-modi-expresses-concern-for-asha-bhosle-after-the-legendary-singer-is-hospitalised-in-mumbai-praying-for-her-speedy-recovery/articleshow/130202976.cms",
+    "time": "2026-04-12T05:33:15.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Robbie G.K. from ‘Heated Rivalry’ says he has hopes for Scott and Kip",
     "desc": "Robbie G.K., who captivates audiences as Kip Grady in Netflix's 'Heated Rivalry,' has voiced his hopes for greater exploration of his character's bond with Scott Hunter in future installments. Expressing his delight at the show's warm reception from fans, he described it as 'incredible.' Additionally, Robbie reminisced about his artistic upbringing, noting similarities to his talented co-star Connor Storrie.",
@@ -270,24 +432,6 @@ const newsData_en = [
     "time": "2026-04-12T01:55:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Here’s why Labrinth quit ‘Euphoria 3’",
-    "desc": "Labrinth, the talented musician behind some iconic tracks, has stepped away from 'Euphoria 3', citing experiences of disrespect and deception within the entertainment realm. Refusing to compromise his principles while contributing to another's creative vision, he chose to part ways, which has led to cinematic composer Hans Zimmer stepping in as the new music maestro for the show.",
-    "img": "https://static.toiimg.com/photo/msid-130201390,imgsize-90704.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/euphoria-3-labrinth-reveals-real-reason-behind-his-exit-says-dont-let-people-treat-me-like-/articleshow/130201390.cms",
-    "time": "2026-04-12T01:36:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Michael Jackson’s son, Bigi Jackson, promotes late father’s biopic",
-    "desc": "At the Berlin premiere of 'Michael,' the biopic celebrating the King of Pop, Bigi 'Blanket' Jackson stepped into the spotlight alongside his brother Prince and cousin Jaafar, who portrays their legendary father. The trio paid homage to Michael Jackson by donning armbands adorned with his signature dance moves—a heartfelt nod to his everlasting influence on music and culture.",
-    "img": "https://static.toiimg.com/photo/msid-130201396,imgsize-115548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-jacksons-son-bigi-blanket-jackson-makes-a-rare-public-appearance-to-promote-his-late-fathers-biopic/articleshow/130201396.cms",
-    "time": "2026-04-12T01:33:54.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Union minister Piyush Goyal welcomes second batch of evacuated Indian fishermen at Chennai Airport",
     "desc": "Speaking to reporters at the airport on Saturday, Goyal said the evacuation was carried out following directions from Prime Minister Narendra Modi, with coordinated efforts by the Ministry of External Affairs (MEA) and Indian missions abroad to relocate the stranded fishermen from Iran to Armenia before bringing them back to India.",
@@ -307,48 +451,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "What is the SIR controversy in West Bengal",
-    "desc": "How many names have been deleted from the electoral rolls, and why? What are the logical discrepancies identified by the ECI? Why were large numbers of voters placed under adjudication, and how was this resolved? How has the SIR process reshaped the State’s political contest?",
-    "img": "https://th-i.thgim.com/public/incoming/m7jw4o/article70851797.ece/alternates/LANDSCAPE_1200/PTI04_11_2026_000342A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/sir-controversy-in-west-bengal-electoral-roll-changes-eci-tmc-mamata-banerjee/article70851799.ece",
-    "time": "2026-04-12T01:21:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Swift’s bridesmaids plan a big surprise",
-    "desc": "In a delightful twist of friendship, Taylor Swift's bridal party, featuring icons like Gigi Hadid and Selena Gomez, is crafting an unforgettable surprise for the superstar's wedding to Travis Kelce. They're creating a touching 6-7 minute video montage that captures the essence of the couple's love story, while Selena plans to jazz up the festivities with a karaoke showdown.",
-    "img": "https://static.toiimg.com/photo/msid-130201315,imgsize-203160.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swifts-bridesmaids-selena-gomez-gigi-hadid-and-others-plan-a-big-surprise-for-the-wedding-day-heres-what-we-know/articleshow/130201315.cms",
-    "time": "2026-04-12T01:18:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'LIK': Pradeep Ranganathan film leaked online",
-    "desc": "Love Insurance Kompany' has been hit by online piracy shortly after its release, mirroring the recent leak of 'Jana Nayagan'. Despite the setback, 'LIK' has garnered decent box office numbers, collecting Rs 14.75 crore net in India. The film, set in 2040, explores the clash between organic love and technology.",
-    "img": "https://static.toiimg.com/photo/msid-130201332,imgsize-119920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/lik-leaked-online-pradeep-ranganathan-film-becomes-latest-victim-of-piracy-comes-days-after-vijays-jana-nayagan-leak/articleshow/130201332.cms",
-    "time": "2026-04-12T01:17:45.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Indians hunger for untested Chinese weight-loss peptides",
     "desc": "Influencers and online communities are driving a surge in unapproved weight-loss peptides imported from China. This trend is fueled by the high cost of doctor-prescribed medications and the desire to overcome weight-loss plateaus, as the body can adapt to even potent GLP-1 drugs, leading to weight regain.",
     "img": "https://static.toiimg.com/photo/msid-130201292,imgsize-443767.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/indians-hunger-for-untested-chinese-weight-loss-peptides/articleshow/130201294.cms",
     "time": "2026-04-12T01:01:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ralph Phineas reveals who would be ‘amazing’ as Voldemort",
-    "desc": "In a recent statement, Ralph Fiennes, celebrated for his role as Voldemort, shared his belief that Tilda Swinton would be an outstanding choice for the iconic villain in the new Harry Potter series. While Fiennes has ruled out returning to the role, his endorsement speaks volumes.",
-    "img": "https://static.toiimg.com/photo/msid-130201282,imgsize-202454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/ralph-phineas-reveals-who-would-be-amazing-as-voldemort-in-the-upcoming-harry-potter-series/articleshow/130201282.cms",
-    "time": "2026-04-12T01:01:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -523,39 +631,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Rare Modi-Rahul interaction breaks the internet",
-    "desc": "Prime Minister Narendra Modi and Opposition leader Rahul Gandhi shared a rare moment of pleasantries and a brief chat at a recent event, sparking interest. Gandhi's presence at the commemorative program for Jyotirao Phule, where he greeted the PM, was noteworthy.",
-    "img": "https://static.toiimg.com/photo/msid-130199045,imgsize-667072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rare-modi-rahul-interaction-breaks-the-internet/articleshow/130199034.cms",
-    "time": "2026-04-11T20:38:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IAF chief meets top US def officials to discuss shared strategic priorities, MQ-9B drones",
-    "desc": "Indian Air Force Chief Air Chief Marshal A P Singh met with US Air Force leadership, including Gen Ken Wilsbach, to bolster defense ties and discuss shared strategic goals. Key topics included the procurement of MQ-9B Sky Guardian drones and enhancing Indo-Pacific cooperation.",
-    "img": "https://static.toiimg.com/photo/msid-130199007,imgsize-520396.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/iaf-chief-meets-top-us-def-officials-to-discuss-shared-strategic-priorities-mq-9b-drones/articleshow/130199006.cms",
-    "time": "2026-04-11T20:12:56.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "the BJP’s electoral journey in Tamil Nadu",
     "desc": "The BJP initially capitalised on Hindutva politics in Kanniyakumari, winning its first Assembly seat in 1996; thereafter it tasted success only in alliance with the Dravidian majors; hopes to convert its rising vote share to more seats in 2026",
     "img": "https://th-i.thgim.com/public/incoming/k4fqrf/article70843583.ece/alternates/LANDSCAPE_1200/4871_31_3_2026_19_11_42_1_DSC_5382.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/from-the-margins-to-momentum-bjps-journey-in-tamil-nadu/article70842982.ece",
     "time": "2026-04-11T20:06:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indian LPG tanker crosses Hormuz, first after ceasefire",
-    "desc": "The Indian-flagged LPG tanker Jag Vikram successfully navigated the Strait of Hormuz, marking the first Indian vessel to pass through the conflict zone since a temporary ceasefire. This vessel, carrying 20,400 tonnes of cooking gas, is expected to reach Mumbai on April 15.",
-    "img": "https://static.toiimg.com/photo/msid-130198896,imgsize-861504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-lpg-tanker-crosses-hormuz-first-after-ceasefire/articleshow/130198897.cms",
-    "time": "2026-04-11T19:53:31.000Z"
   },
   {
     "cat": "Sports",
@@ -603,15 +684,6 @@ const newsData_en = [
     "time": "2026-04-11T19:34:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Edappadi K. Palaniswami, the lone star of AIADMK election campaign, steps up his pitch for power",
-    "desc": "The former Chief Minister is the main campaigner for the AIADMK across Tamil Nadu, with a stump speech focused on law and order issues, the State’s finances, concerns of government employees, drug menace, and rising inflation; he also highlights features of the manifesto of his party",
-    "img": "https://th-i.thgim.com/public/incoming/hqelg9/article70839678.ece/alternates/LANDSCAPE_1200/11658_8_4_2026_21_44_15_3_8.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/palaniswami-lone-star-of-the-aiadmk-poll-campaign/article70838381.ece",
-    "time": "2026-04-11T19:17:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Samson's 115, Overton’s 4-fer help CSK beat DC for season's first win",
     "desc": "Sanju Samson’s unbeaten 115 powered Chennai Super Kings to their first IPL 2026 win, beating Delhi Capitals by 23 runs. He shared a 113-run stand with Ayush Mhatre (59) to post 212/2. Delhi started strong but lost momentum after early wickets. Jamie Overton’s 4/18 ensured CSK sealed a comfortable victory despite Tristan Stubbs’ fighting 60.",
@@ -648,15 +720,6 @@ const newsData_en = [
     "time": "2026-04-11T17:21:09.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Very odd': CSK criticised for retiring out Ayush Mhatre on 59 off 36",
-    "desc": "Chennai Super Kings sparked controversy by retiring out Ayush Mhatre on 59 during their IPL 2026 clash against Delhi Capitals. Despite his strong knock and partnership with Sanju Samson (115*), CSK opted for Shivam Dube to accelerate late scoring. While the move worked, fans called it “very odd,” questioning the rare tactical decision to remove a well-set batter.",
-    "img": "https://static.toiimg.com/photo/msid-130195181,imgsize-49128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/very-odd-csk-retire-out-ayush-mhatre-on-59-off-36-internet-reacts-in-ipl/articleshow/130194827.cms",
-    "time": "2026-04-11T16:06:54.000Z"
-  },
-  {
     "cat": "World",
     "title": "Bangladesh mob beats spiritual leader to death",
     "desc": "Shamim Reza Jahangir, believed to be in his 60s, died from his injuries after hundreds of people stormed his residence in Kushtia district and thrashed him with sticks, says chief administrative official Touhid bin Hasan",
@@ -673,24 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/colombia-retaliates-with-100-tariffs-on-ecuador/article70851750.ece",
     "time": "2026-04-11T15:49:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Asha Bhosle admitted to Breach Candy hospital",
-    "desc": "Legendary singer Asha Bhosle was rushed to the hospital on Saturday night. Reports confirm she suffered a heart attack. She is currently admitted to Breach Candy Hospital in Mumbai. Bhosle, a celebrated voice in Indian music, has had a career spanning over seven decades. Her vast filmography includes thousands of songs across various languages.",
-    "img": "https://static.toiimg.com/photo/msid-130196004,imgsize-34010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/legendary-singer-asha-bhosle-suffers-a-heart-attack-rushed-to-breach-candy-hospital-in-mumbai/articleshow/130194960.cms",
-    "time": "2026-04-11T15:47:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson roars back with IPL hundred, joins Rohit Sharma and Virat Kohli in elite club",
-    "desc": "Sanju Samson silenced critics with a magnificent century for Chennai Super Kings against Delhi Capitals in IPL 2026. After a shaky start to his CSK career, Samson anchored the innings with a brilliant 102*, including a vital partnership with Ayush Mhatre. This commanding knock, his fourth IPL ton, also saw him cross 400 T20 sixes, cementing his return to form.",
-    "img": "https://static.toiimg.com/photo/msid-130194715,imgsize-116794.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/sanju-samson-roars-back-with-ipl-hundred-joins-rohit-sharma-and-virat-kohli-in-elite-club/articleshow/130194732.cms",
-    "time": "2026-04-11T15:35:11.000Z"
   },
   {
     "cat": "Business",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/chandra-asks-air-india-staff-to-control-costs-improve-services/articleshow/130182241.cms",
     "time": "2026-04-10T23:01:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Mistry pitches for Tata holdco to go public",
-    "desc": "Shapoor Mistry, representing the largest minority shareholder, advocates for Tata Sons' public listing, calling it essential for stakeholder value and trust income. This follows similar calls from Tata Trusts vice chairmen, amid RBI's proposed NBFC norms. Mistry believes a listing will enhance governance and transparency, potentially easing SP Group's debt pressures.",
-    "img": "https://static.toiimg.com/photo/msid-130182228,imgsize-220550.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/mistry-pitches-for-tata-holdco-to-go-public/articleshow/130182230.cms",
-    "time": "2026-04-10T22:58:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will Tata Sons get listing waiver? RBI tweak will make it 'upper NBFC'",
-    "desc": "The Reserve Bank of India is proposing a simpler asset-size threshold of Rs 1 lakh crore to identify large NBFCs for stricter regulation, replacing a complex scoring system. This change could place Tata Sons, with assets of Rs 1.75 lakh crore, under tighter scrutiny, contingent on its application to surrender its core investment company registration being approved.",
-    "img": "https://static.toiimg.com/photo/msid-130182196,imgsize-926050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/will-tata-sons-get-listing-waiver-rbi-tweak-will-make-it-upper-nbfc/articleshow/130182197.cms",
-    "time": "2026-04-10T22:52:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "examining Varun Chakaravarthy’s sudden downturn",
-    "desc": "Until recently, the mystery spinner was the world’s top-ranked T20I bowler. But since the Super Eights at the 2026 T20 World Cup, the 34-year-old’s game has unravelled. What has led to this surprising dip in form? And can he return to his unplayable best during the IPL?",
-    "img": "https://th-i.thgim.com/public/incoming/5v08m/article70848969.ece/alternates/LANDSCAPE_1200/GettyImages-2264947774.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/varun-chakaravarthy-form-dip-t20-analysis-india-spinner-struggles/article70848966.ece",
-    "time": "2026-04-10T19:36:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Lamine Yamal became the face of post-Messi Barcelona",
-    "desc": "After powering the club to the domestic treble last season, the boy wonder has helped drive the Blaugrana to the top of LaLiga and into the Champions League’s last eight. His goal-scoring, playmaking and dribbling have fuelled his dizzying rise to superstardom. Having inherited Barcelona’s iconic No. 10 shirt, there is no doubt the 18-year-old is the club’s leading man",
-    "img": "https://th-i.thgim.com/public/incoming/vt3mq7/article70848983.ece/alternates/LANDSCAPE_1200/GettyImages-2267257911.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/lamine-yamal-barcelona-10-lionel-messi-comparison-psg-transfer-analysis/article70848988.ece",
-    "time": "2026-04-10T19:32:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 PBKS vs SRH preview",
-    "desc": "A glance at the scorecard of their last meeting — in Hyderabad on April 12, 2025 — provides context. Sunrisers, coming off a four-match losing streak, hunted down the 246-run target with eight wickets and nine balls to spare, thanks to a 55-ball 141 from Abhishek Sharma",
-    "img": "https://th-i.thgim.com/public/incoming/9zxdcv/article70847958.ece/alternates/LANDSCAPE_1200/PTI04_10_2026_000383A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-pbks-vs-srh-preview-punjab-kings-vs-sunrisers-hyderabad-face-off-in-a-battle-of-big-hitters/article70847387.ece",
-    "time": "2026-04-10T16:54:44.000Z"
   }
 ];

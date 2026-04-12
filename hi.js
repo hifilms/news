@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "What is Virat Kohli's record against MI in IPL?",
+    "desc": "The stage is set for the 20th game of the ongoing IPL (Indian Premier League) 2026. Mumbai Indians will take on Royal Challengers Bengaluru at the Wankhede Stadium in Mumbai. In one of the most...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-rcb-what-is-virat-kohli-s-record-against-mi-in-ipl-2026-04-12-1037240",
+    "time": "2026-04-12T06:39:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Nitish Rana handed hefty fine and demerit point after heated argument with the umpire during CSK clash",
     "desc": "In a major development, Delhi Capitals’ batter Nitish Rana has been handed 1 demerit point. It has been slapped with a 25 per cent match fee fine after he was involved in a heated argument...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-dc-ipl-2026-live-cricket-score-chennai-super-kings-vs-delhi-capitals-ma-chidambaram-stadium-chennai-latest-match-updates-scorecard-teams-2026-04-11-1037182",
     "time": "2026-04-11T13:02:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are Punjab Kings' players wearing black armbands during IPL 2026 clash against SRH?",
-    "desc": "Punjab Kings players donned the black armbands in the IPL 2026 clash against the Sunrisers Hyderabad at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh, in solidarity with the families affected in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-punjab-kings-players-wearing-black-armbands-during-ipl-2026-clash-against-srh-2026-04-11-1037174",
-    "time": "2026-04-11T11:44:39.000Z"
   }
 ];
