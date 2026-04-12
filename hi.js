@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Gujarat Titans opt to field first in Lucknow",
+    "title": "From Sachin Tendulkar to Anil Kumble, cricket fraternity pays tribute to legendary singer",
+    "desc": "Cricketers paid their tribute to legendary singer Asha Bhosle, who passed away on Sunday, April 12, due to multiple organ failure. Bhosle had been admitted to the Breach Candy Hospital in Mumbai on Saturday evening....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/asha-bhosle-dies-from-sachin-tendulkar-to-anil-kumble-cricket-fraternity-pays-tribute-to-legendary-singer-2026-04-12-1037278",
+    "time": "2026-04-12T12:27:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 Player battles to watch out for in IPL 2026 Match 20",
+    "desc": "Mumbai Indians and Royal Challengers Bengaluru will take on each other in game 20 of the ongoing IPL (Indian Premier League) 2026. The two sides will lock horns at the Wankhede Stadium in Mumbai on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-rcb-3-player-battles-to-watch-out-for-in-ipl-2026-match-20-2026-04-12-1037273",
+    "time": "2026-04-12T11:32:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ayush Shetty's dream run at Badminton Asia Championships ends with silver after loss to Shi Yu Qi in final",
+    "desc": "Rising Indian sensation Ayush Shetty settled for a silver medal at the Badminton Asia Championship after going down to reigning world champion Shi Yu Qi in the final in Ningbo on Sunday, April 12. Giant...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/ayush-shettys-dream-run-at-badminton-asia-championships-ends-with-silver-after-loss-to-shi-yu-qi-in-final-2026-04-12-1037272",
+    "time": "2026-04-12T11:04:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Wankhede Stadium pitch report, stats, numbers and all you need to know",
+    "desc": "The Mumbai Indians are set to host the Royal Challengers Bengaluru in their fourth game of the Indian Premier League 2026 at the Wankhede Stadium on Sunday, April 12. Both teams are coming off defeats...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-rcb-ipl-2026-wankhede-stadium-pitch-report-stats-numbers-and-all-you-need-to-know-2026-04-12-1037270",
+    "time": "2026-04-12T10:46:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lucknow huff and puff to 164/8 at Ekana in bid for third win",
     "desc": "The stage is set for the 19th game of the ongoing IPL (Indian Premier League) 2026, the clash sees Lucknow Super Giants taking on Gujarat Titans at the Ekana Stadium in Lucknow. It is worth...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/nitish-rana-handed-hefty-fine-and-demerit-point-after-heated-argument-with-the-umpire-during-csk-clash-2026-04-12-1037232",
     "time": "2026-04-12T05:12:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Ekana Stadium in Lucknow play?",
-    "desc": "The stage is set for the 19th game of the ongoing IPL (Indian Premier League) 2026. Lucknow Super Giants will take on Gujarat Titans at the Ekana Stadium in Lucknow on April 12, and it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-gt-pitch-report-how-will-surface-at-ekana-stadium-in-lucknow-play-2026-04-12-1037226",
-    "time": "2026-04-12T04:29:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson opens up on switch from RR to CSK after smashing IPL 2026's first century",
-    "desc": "Five-time IPL (Indian Premier League) champions Chennai Super Kings registered their first win of the ongoing IPL 2026 season by defeating Delhi Capitals. Led by Ruturaj Gaikwad, CSK had gotten off to a poor start...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-opens-up-on-switch-from-rr-to-csk-after-smashing-ipl-2026-s-first-century-2026-04-12-1037221",
-    "time": "2026-04-12T03:32:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chennai Super Kings end losing streak to register maiden IPL 2026 win, beat Delhi Capitals by 23 runs",
-    "desc": "Chennai Super Kings finally opened their account in the Indian Premier League 2026 after defeating Delhi Capitals at the MA Chidambaram Stadium in Chennai on Saturday, April 11. After suffering three consecutive losses to start...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/chennai-super-kings-end-losing-streak-to-register-maiden-ipl-2026-win-beat-delhi-capitals-by-23-runs-2026-04-11-1037203",
-    "time": "2026-04-11T18:02:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cool-headed Shreyas Iyer guides PBKS home after Prabharya's blitzkrieg against SRH, Kings remain unbeaten",
-    "desc": "Shreyas Iyer's ice-cool knock powered Punjab Kings past a strong 220-run target against Sunrisers Hyderabad in their fourth match of the Indian Premier League 2026 on Saturday, April 11. Chasing 220, Iyer scored a cool-headed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cool-headed-shreyas-iyer-guides-pbks-home-after-prabharya-s-blitzkrieg-against-srh-kings-remain-unbeaten-2026-04-11-1037197",
-    "time": "2026-04-11T16:13:01.000Z"
   }
 ];

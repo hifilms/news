@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "১৬ বছরে ঘর ছাড়েন, গর্ভবতী অবস্থাতেই আত্মহত্যার চেষ্টা করেছিলেন: জীবনের লড়াইয়ে জয়ী আশা",
+    "desc": "সুরের ছোঁয়ায় বিশ্ব মাতানো আশা ভোঁসলের জীবনের নেপথ্যে ছিল চরম লড়াইয়ের গল্প। মাত্র ১৬ বছর বয়সে ঘর ছাড়া, স্বামীর অকথ্য অত্যাচার, এমনকি গর্ভবতী অবস্থায় আত্মহত্যার চেষ্টা— নিজের আত্মজীবনীতে সবটা উগরে দিয়েছেন কিংবদন্তি গায়িকা। বিষাদ কাটিয়ে কীভাবে তিনি হয়ে উঠলেন অজেয় নক্ষত্র, সেই অনুপ্রেরণার গল্পই আজ সবার মুখে মুখে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/asha-bhosle-first-marriage-struggle-biography-revelations-domestic-violence-first-husband_648456.html ",
+    "time": "2026-04-12T11:08:19.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "BMW-র ওপর আছড়ে পড়ল সিমেন্ট মিক্সার ট্রাক, লোহার পাতের মত চ্যাপ্টা গাড়িতেই মৃত্যু হাইকোর্টের আইনজীবীর",
     "desc": "ট্রাকটি এতই ভারী ছিল যে সাধারণ উপায়ে সেটিকে সরানো সম্ভব হচ্ছিল না। শেষমেশ বিশালাকার ক্রেন এবং জেসিবি (JCB) মেশিন আনিয়ে দীর্ঘ প্রচেষ্টার পর ট্রাকটি তোলা হয়। ট্রাকের প্রচণ্ড ওজন এবং সিমেন্টের ভারে কয়েক সেকেন্ডের মধ্যেই লাল রঙের বিএমডব্লিউ গাড়িটি লোহার পাতলা পাতের মতো চ্যাপ্টা হয়ে যায়।",
@@ -142,50 +151,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/200-broad-gauge-coaches-to-be-imported-from-india-railways-minister_648159.html ",
     "time": "2026-04-09T12:45:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ফের 'রক্ষিতা' বিতর্কে তোলপাড়: মনোনয়নে সদ্য সিঁদুর পরানো ঋত্বিকা নয়, পুরনো অনিন্দিতাকে স্ত্রী বললেন হিরণ",
-    "desc": "মনোনয়ন জমা দিতেই বড়সড় বিতর্কের মুখে বিজেপি প্রার্থী হিরণ চট্টোপাধ্যায়! স্ত্রী হিসেবে কার নাম লিখলেন হলফনামায়? প্রথম স্ত্রী অনিন্দিতার করা ‘রক্ষিতা’ মন্তব্যে শোরগোল নেটপাড়ায়। আগেই অনিন্দিতা জানিয়েছিলেন যে হলফনামায় স্ত্রীর জায়গায় কার নাম থাকে, সেদিকেই তাঁর নজর থাকবে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/hiran-chatterjee-nomination-controversy-first-wife-anindita-chatterjee-attack-ritika-giri_648124.html ",
-    "time": "2026-04-09T08:20:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "সাদামাটা পোশাকে গ্রাম্য পূজারিনী রান্নাঘরে ইংরেজি বলে পরমা-সঙ্গীতার ট্রোলের শিকার, নেটপাড়ায় ছি ছি রব",
-    "desc": "গ্রাম্য সারল্য নাকি কর্পোরেট মার্কেটিং? ‘লাইফ অফ পূজা’ খ্যাত পূজারিণী প্রধানকে নিয়ে সোশ্যাল মিডিয়ায় বিস্ফোরক গায়িকা পরমা বন্দ্যোপাধ্যায় এবং লেখিকা সঙ্গীতা বন্দ্যোপাধ্যায়। পরমার দাবি, পূজা আসলে মিডিয়া এজেন্সির বসানো ‘পুতুল’। অন্যদিকে সঙ্গীতার মতে, সাফল্যের জল সবার জন্যই সমান।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/paroma-banerjee-sangeeta-bandyopadhyay-post-on-life-of-pujaa-controversy_648062.html ",
-    "time": "2026-04-08T16:04:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'চিরসখা'-সহ ৩ ধারাবাহিক বন্ধ হতেই 'বেকার' অসংখ্য আর্টিস্ট-টেকনিশিয়ান, তড়িঘড়ি প্রসেনজিতের সঙ্গে জরুরি বৈঠকে সুদীপ-রাজা-বিভানরা",
-    "desc": "টলিউডে রাহুল বন্দ্যোপাধ্যায়ের মৃত্যুকে কেন্দ্র করে ঘনীভূত হওয়া সংকট এখন চূড়ান্ত সংঘাতের রূপ নিয়েছে। একদিকে ফেডারেশন ও আর্টিস্ট ফোরামের কড়া 'ব্যান', অন্যদিকে কাজ হারানো শত শত টেকনিশিয়ান ও শিল্পীদের বাঁচার লড়াই—সব মিলিয়ে এক ভয়ংকর পরিস্থিতির সৃষ্টি হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-clash-actors-protest-magic-moments-ban-rahul-banerjee-death_648060.html ",
-    "time": "2026-04-08T15:35:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ফের রাজনীতির স্পটলাইটে নুসরত: তারকা প্রচারকের তালিকায় বসিরহাটের প্রাক্তন সাংসদের নাম, বিরাট আপডেট",
-    "desc": "২০২৬ সালের পশ্চিমবঙ্গ বিধানসভা নির্বাচনের দামামা বেজে গেছে। দ্বিতীয় দফার নির্বাচনের জন্য তৃণমূল কংগ্রেসের পক্ষ থেকে যে তারকা প্রচারকদের তালিকা নির্বাচন কমিশনে জমা দেওয়া হয়েছে, তাতে একটি বড় চমক হিসেবে ফিরে এসেছেন অভিনেত্রী নুসরত জাহান। ২০২৪-এর লোকসভা নির্বাচনে প্রচারের আলো থেকে দূরে থাকলেও, এবার প্রচারে নুসরত।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/tmc-star-campaigners-list-2026-nusrat-jahan-returns-wb-assembly-election_648044.html ",
-    "time": "2026-04-08T13:40:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

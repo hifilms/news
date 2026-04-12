@@ -540,15 +540,6 @@ const newsData_gu = [
     "time": "2026-04-08T17:03:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026માં BCCIએ કર્યો મોટો ફેરફાર, હવે ખેલાડીઓએ રહેવું પડશે સાવધાન, જાણો",
-    "desc": "IPL 2026માં નિયમોમાં ફેરફાર કરવામાં આવ્યો છે, ખેલાડિયોને હવે મેદાનમાં પ્રવેશવા પર વિચારવું પડશે અને આ નિયમ 16 ખેલાડીયો પછીના બાકી 9 ખેલાડિયો પર ખાસ લાગુ કરવામાં આવ્યો છે, નિયમના ભંગ પર મોટી કાર્યવાહી પણ થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bcci-made-a-big-change-in-ipl-2026-now-players-will-have-to-be-careful-know-472092 ",
-    "time": "2026-04-08T16:49:56.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "કેન્દ્રીય કેબિનેટના મોટા નિર્ણય, 40000 કરોડના પ્રોજેક્ટ્સ અને ખેડૂતોને ખાતર સબસિડી, શું DA અંગે શું થયું?",
     "desc": "સામાન્ય રીતે માર્ચ મહિનામાં વર્ષના પ્રથમ છ મહિના માટેના ભથ્થાની જાહેરાત થઈ જતી હોય છે, પરંતુ આ વખતે હજુ સુધી તેમ થઈ શક્યું નથી. આ જ કારણ છે કે, કેન્દ્રીય કર્મચારીઓ મોદી સરકારની દરેક કેબિનેટ બેઠકને આશાભરી નજરે જોઈ રહ્યા છે.",
@@ -576,24 +567,6 @@ const newsData_gu = [
     "time": "2026-04-08T12:43:54.000Z"
   },
   {
-    "cat": "World",
-    "title": "પાકિસ્તાન નહીં...આ દેશે પડદા પાછળ પાડ્યો મોટો ખેલ, ઈરાન-અમેરિકા વચ્ચે કરાવ્યો યુદ્ધવિરામ!",
-    "desc": "જ્યારથી ઈરાન અને અમેરિકા વચ્ચે યુદ્ધવિરામના સમાચાર આવ્યા છે ત્યારથી એક ચર્ચા છે કે પાકિસ્તાને કરાવ્યું. પરંતુ તમને જણાવી દઈએ કે પાકિસ્તાન નહીં પરંતુ એક એશિયાઈ દેશે આ યુદ્ધવિરામ પાછળ મોટો ભાગ ભજવ્યો હોવાનું સામે આવી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/what-is-the-ture-story-behind-iran-america-war-ceasefire-china-backdoor-diplomacy-472010 ",
-    "time": "2026-04-08T09:36:24.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "આજે દુનિયાને પોતાના ઇશારા પર નચાવનાર અમેરિકા પર આ દેશે કર્યું હતું 176 વર્ષ રાજ",
-    "desc": "ઈરાનની સાથે ચાલી રહેલા યુદ્ધ વચ્ચે સીઝફાયરની જાહેરાત થઈ ગઈ છે. ઈરાન યુદ્ધ શરૂ થયા બાદ અમેરિકી રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ સૌથી વધુ ચર્ચામાં રહ્યાં છે. આજે વિશ્વમાં અમેરિકાને સૌથી શક્તિશાળી દેશ ગણવામાં આવે છે, પરંતુ આજે અમે તમને અમેરિકાના ગુલામીના ઈતિહાસ વિશે જણાવીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/this-country-once-ruled-over-america-for-176-years-13-original-coloniesdeclaration-of-independence-1776-472013 ",
-    "time": "2026-04-08T09:26:15.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "5-સ્ટાર સેફ્ટીની સાથે ₹7.59 લાખની SUV એ મચાવી ધૂમ, શાનદાર ફીચર્સે બનાવી નંબર-1",
     "desc": "માર્ચ 2026મા અનેક કંપનીઓને કારએ માર્કેટમાં ધૂમ મચાવી છે. માર્ચ 2026મા સ્કોડા કાઇલાકે ભારતીય બજારમાં સૌથી વધુ વેચાણ કર્યું, પરંતુ વાર્ષિક આધાર પર તેમાં 12 ટકાનો ઘટાડો થયો છે. સાથે સ્કોડા કુશાક અને કોડિયાકે સારૂ પ્રદર્શન કર્યું છે.",
@@ -601,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/skoda-model-wise-sales-in-march-march-2026-best-selling-kylaq-472008 ",
     "time": "2026-04-08T08:44:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "43 કલાકનું સસ્પેન્સ, 6 દેશ અને ફોન પર ફોન.... અંતિમ 15 મિનિટમાં પલટી બાજી, ઈરાન-અમેરિકા સીઝફાયરની ઇનસાઇડ સ્ટોરી",
-    "desc": "અમેરિકાની ભારે તહાબીની ચેતવણી વચ્ચે ટ્રમ્પ અને ખામેનેઈમાં ગુપ્ત સમજુતિ કઈ રીતે થઈ? મોતઝબા ખામેનેઈ સાથે તો વાત પણ થઈ રહી નહોતી, માત્ર પત્રો દ્વારા સંવાદ થતો હતો. પાકિસ્તાન, તુર્કી અને મિસ્ત્રની મધ્યસ્થા વચ્ચે હુમલાની 15 મિનિટ પહેલા ટ્રમ્પે કઈ રીતે સ્ટેન્ડ ડાઉનનો ઓર્ડર આપી તબાહી રોકી દીધી, આવો જાણીએ ઇનસાઇડ સ્ટોરી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/ceasefire-in-iran-us-war-know-the-inside-story-donald-trump-472003 ",
-    "time": "2026-04-08T07:25:55.000Z"
   },
   {
     "cat": "Tech",
@@ -709,15 +673,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/explainer-what-is-two-factor-authentication-2fa-find-out-why-the-government-is-emphasizing-this-new-technology-471517 ",
     "time": "2026-04-04T16:32:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "વધ 2, સિતારે ઝમીન પર સહિતની ફિલ્મો અને વેબ સીરીઝ ઓટીટી પર રિલીઝ, નક્કી કરી લો રવિવારે શું જોશો",
-    "desc": "રવિવારની રજામાં ઘરે બેઠા જોવા માટે તમારી પાસે ફિલ્મ અને વેબ સીરીઝના 5 ઓપ્શન છે. એપ્રિલ મહિનાના પહેલા સપ્તાહમાં ઓટીટી પર હિંદી ફિલ્મો અને વેબ સીરીઝ રિલીઝ થઈ ચુકી છે. લિસ્ટ જોઈ ફટાફટ નક્કી કરી લો તમે રજામાં શું જોવાના છો. ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/april-2026-first-week-ott-release-films-and-web-series-released-on-ott-on-3-april-471513 ",
-    "time": "2026-04-04T14:32:31.000Z"
   },
   {
     "cat": "Tech",
