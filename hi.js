@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Salt, Patidar and Krunal plot MI's downfall as RCB register thumping win at Wankhede",
+    "desc": "Royal Challengers Bengaluru registered a stellar win over the Mumbai Indians in the 20th match of the Indian Premier League 2026 on Sunday, April 11. The defending champions produced a brilliant all-round performance and registered...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/salt-patidar-and-krunal-plot-mis-downfall-as-rcb-register-thumping-win-at-wankhede-2026-04-12-1037305",
+    "time": "2026-04-12T18:21:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Concern for RCB and MI as Virat Kohli, Rohit Sharma walk off during Wankhede clash, check what happened",
+    "desc": "RCB, MI and Indian wore an anxious look when their stars Virat Kohli and Rohit Sharma walked off the field at different points of the cash between MI and RCB at the Wankhede Stadium on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/concern-for-rcb-and-mi-as-virat-kohli-rohit-sharma-walk-off-during-wankhede-clash-check-what-happened-2026-04-12-1037299",
+    "time": "2026-04-12T17:08:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli achieves history against Mumbai Indians, becomes first to create major record",
+    "desc": "Royal Challengers Bengaluru icon Virat Kohli etched his name into the history books during his team's IPL 2026 clash against the Mumbai Indians at the Wankhede Stadium on Sunday, April 12. Kohli created a historical...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-achieves-history-against-mumbai-indians-becomes-first-to-create-major-record-2026-04-12-1037293",
+    "time": "2026-04-12T15:47:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jos Buttler completes 14000 runs in T20s as GT thump LSG by seven wickets in Lucknow",
     "desc": "Jos Buttler achieved a major milestone as the Gujarat Titans thumped Lucknow Super Giants in their fourth match of the Indian Premier League 2026 at the Ekana Cricket Stadium on Sunday, April 12. Buttler became...",
     "img": "",
@@ -28,8 +55,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Kohli falls after fifty as Bengaluru inch close to 200 at Wankhede",
-    "desc": "It's time for Rohit Sharma and Virat Kohli to face each other off as Mumbai Indians take on Royal Challengers Bengaluru at the Wankhede Stadium in Mumbai. Two batting power-houses and strong bowling arsenals will...",
+    "title": "Bengaluru beat Mumbai by 18 runs, return to winning ways",
+    "desc": "Royal Challengers Bengaluru produced a commanding all-round display to defeat the Mumbai Indians by 18 runs in Match 20 of IPL 2026 at the Wankhede Stadium on April 11. Batting first, RCB dominated from the...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-rcb-ipl-2026-live-cricket-score-mumbai-indians-vs-royal-challengers-bengaluru-wankhede-stadium-latest-match-updates-scorecard-teams-playing-xi-2026-04-12-1037283",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/ayush-shettys-dream-run-at-badminton-asia-championships-ends-with-silver-after-loss-to-shi-yu-qi-in-final-2026-04-12-1037272",
     "time": "2026-04-12T11:04:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Wankhede Stadium pitch report, stats, numbers and all you need to know",
-    "desc": "The Mumbai Indians are set to host the Royal Challengers Bengaluru in their fourth game of the Indian Premier League 2026 at the Wankhede Stadium on Sunday, April 12. Both teams are coming off defeats...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-rcb-ipl-2026-wankhede-stadium-pitch-report-stats-numbers-and-all-you-need-to-know-2026-04-12-1037270",
-    "time": "2026-04-12T10:46:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Titans look to chase 165 at Ekana in bid for second win",
-    "desc": "The stage is set for the 19th game of the ongoing IPL (Indian Premier League) 2026, the clash sees Lucknow Super Giants taking on Gujarat Titans at the Ekana Stadium in Lucknow. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-vs-gt-live-cricket-score-lucknow-look-to-maintain-winning-run-against-shaky-gujarat-2026-04-12-1037263",
-    "time": "2026-04-12T09:29:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Matheesha Pathirana set to join KKR after being granted NOC by Sri Lanka Cricket",
-    "desc": "In a major development for Kolkata Knight Riders, the side’s marquee pacer, Sri Lanka’s Matheesha Pathirana, is all set to join the side after he was handed an NOC by SLC (Sri Lanka Cricket). Pathirana...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/matheesha-pathirana-set-to-join-kkr-after-being-granted-noc-by-sri-lanka-cricket-2026-04-12-1037261",
-    "time": "2026-04-12T09:14:56.000Z"
   }
 ];

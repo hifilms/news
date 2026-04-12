@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "ઈઝરાયેલના PM નેતન્યાહુનો એક ફોન કોલ અને ઈરાન-US વાતચીત થઈ ગઈ નિષ્ફળ, ઇનસાઈડ સ્ટોરી",
+    "desc": "ઈરાને જણાવ્યું કે, બેઠક દરમિયાન વેન્સને નેતન્યાહુનો ફોન આવતા વાતચીતનું ફોકસ અમેરિકા-ઈરાન ચર્ચા પરથી હટીને ઇઝરાયેલના હિતો પર ચાલ્યું ગયું. અમેરિકાએ વાતચીતના ટેબલ પર તે હાંસલ કરવાનો પ્રયાસ કર્યો, જે તે યુદ્ધ દ્વારા હાંસલ કરી શક્યું નહોતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/phone-call-from-israeli-pm-netanyahu-and-iran-us-talks-failed-inside-story-472745 ",
+    "time": "2026-04-12T17:55:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "કેન્દ્રીય કર્મચારીઓ માટે ખુશખબર, હવે બાળકોના શિક્ષણ માટે મળશે વાર્ષિક 33,750 રૂપિયા, જાણો શું છે નવા નિયમો",
+    "desc": "કેન્દ્ર સરકાર પોતાના કર્મચારીઓને બે બાળકોના શિક્ષણ માટે પ્રતિ બાળક 2,812.5 રૂપિયા પ્રતિ માસ (વાર્ષિક 33,750 રૂપિયા)નું ભથ્થું આપે છે. આ યોજનાનો લાભ નર્સરીથી 12મા ધોરણ સુધીના અભ્યાસ માટે મળે છે, જેના માટે શૈક્ષણિક વર્ષના અંતે શાળાનું પ્રમાણપત્ર જમા કરાવવું અનિવાર્ય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/good-news-for-central-government-employees-now-you-will-get-rs-33750-annually-for-childrens-education-know-what-are-the-new-rules-472744 ",
+    "time": "2026-04-12T17:00:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારતીય ટી20 ટીમમાં જગ્યા ન મળી તો આદોલન કરીશું, ભૂતપૂર્વ ક્રિકેટરે શ્રેયસ ઐયર માટે ઉઠાવ્યો અવાજ, જાણો",
+    "desc": "ભૂતપૂર્વ ભારતીય ક્રિકેટરે શ્રેયસ ઐયરની પ્રશંસા કરી છે અને ભારતીય ટી20 ક્રિકેટ ટીમમાંથી બાકાત રાખવા પર પોતાનો ગુસ્સો પણ વ્યક્ત કર્યો છે. તેમણે કહ્યું કે જો ઐયરનો સમાવેશ નહીં થાય, તો તેઓ અવાજ ઉઠાવશે અને તેમના માટે વિરોધ કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/we-will-protest-if-we-dont-get-a-place-in-the-indian-t20-team-former-cricketer-raises-voice-for-shreyas-iyer-know-472734 ",
+    "time": "2026-04-12T15:42:51.000Z"
+  },
+  {
+    "cat": "World",
     "title": "ઈરાન અમેરિકાની શાંતિ વાર્તા ફેલ, હવે ચીને કર્યો કાંડ ? ટ્રમ્પે ચીનને આપી ખુલ્લી ધમકી",
     "desc": "ઈરાન સાથે યુદ્ધ અટકાવવા માટે પાકિસ્તાનમાં ચાલી રહેલી શાંતિ મંત્રણા નિષ્ફળ ગઈ છે. આ દરમિયાન, અહેવાલો બહાર આવ્યા છે કે ચીન ઈરાનને આ રીતે મદદ કરવાની તૈયારી કરી રહ્યું છે. ટ્રમ્પે ચીનને ચેતવણી આપી છે કે જો તેઓ આમ કરશે તો તેના પરિણામો ભયંકર આવશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -297,15 +324,6 @@ const newsData_gu = [
     "time": "2026-04-10T07:47:20.000Z"
   },
   {
-    "cat": "Business",
-    "title": "13 એપ્રિલે ડ્રાફ્ટિંગ કમિટીની બેઠકમાં લેવાશે મહત્વના નિર્ણય, જાણો પગારમાં કેટલો થઈ શકે છે વધારો?",
-    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો માટે સોમવાર 13 એપ્રિલનો દિવસ ખૂબ જ મહત્વપૂર્ણ સાબિત થઈ શકે છે. કારણ કે, નેશનલ કાઉન્સિલ ઓફ જોઈન્ટ કન્સલ્ટેટિવ ​​મશીનરી (NC-JCM)ની ડ્રાફ્ટિંગ કમિટીની એક મહત્વપૂર્ણ બેઠક 13 એપ્રિલના રોજ યોજાવાની છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-important-decisions-will-be-taken-in-the-drafting-committee-meeting-on-april-13-know-how-much-salary-can-be-increased-472314 ",
-    "time": "2026-04-10T07:23:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "આ વીકેન્ડ ઓટીટી લવર્સ માટે ખાસ, થ્રિલર ફિલ્મ તુ યા મેં થી લઈ કોમેડી ક્રાઈમ સીરીઝ બિગ મિસ્ટેક ઓટીટી પર રિલીઝ",
     "desc": "શુક્રવાર આવી ગયો અને સાથે જ ઓટીટી પર સ્ટ્રીમ થયેલી નવી ફિલ્મો અને વેબ સીરીઝનું લિસ્ટ પણ આવી ગયું છે. આ વીકેન્ડમાં નેટફ્લિક્સ, હોટસ્ટાર, એમેઝોનના ફિલ્મ અને વેબ સીરીઝના ખજાનામાં શું નવું ઉમેરાયું છે ફટાફટ ચેક કરી લો.",
@@ -322,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/taarak-mehta-ka-ooltah-chashmah-cast-net-worth-dilip-joshi-to-munmun-dutta-472311 ",
     "time": "2026-04-10T06:54:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PF ખાતાધારકો માટે મોટા સમાચાર: UPI અને ATM દ્વારા ઉપાડી શકાશે PF, જાણો શું છે નવા નિયમો",
-    "desc": "જો તમે નોકરી કરતા હોવ અને ક્યારેય કોઈ જરૂરિયાત માટે તમારા પીએફ ખાતામાંથી પૈસા ઉપાડ્યા હોય, તો તમને ફોર્મ ભરવામાં અને મંજૂરી માટે રાહ જોવામાં લાગતો સમય યાદ રહેશે. આ પ્રક્રિયામાં ઘણો સમય લાગે છે, જેના કારણે તમારે પૈસા આવવાની રાહ જોવી પડે છે. જોકે, EPFO ​​EPFO ​​3.0 હેઠળ એક મોટા ફેરફારની યોજના બનાવી રહ્યું છે. આ યોજના હેઠળ, તમારા પીએફ ખાતાનો ઉપયોગ સામાન્ય બેંક ખાતાની જેમ થઈ શકશે. હા, આ સુવિધા સાથે તમે UPI અને ATM નો ઉપયોગ કરીને પીએફ ભંડોળ ઉપાડી શકશો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/pf-withdrawals-via-upi-and-atm-how-much-can-be-withdrawn-when-will-this-facility-become-available-472309 ",
-    "time": "2026-04-10T06:21:20.000Z"
   },
   {
     "cat": "Politics",
@@ -540,15 +549,6 @@ const newsData_gu = [
     "time": "2026-04-09T04:41:33.000Z"
   },
   {
-    "cat": "World",
-    "title": "શું તૂટી જશે સિઝફાયર....? લેબનોન પરના હુમલાઓથી ગુસ્સે ભરાયું ઈરાન, હોર્મુઝ સ્ટ્રેટમાં જહાજ અટકાવ્યા, જાણો",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે યુદ્ધવિરામની જાહેરાત છતાં, પશ્ચિમ એશિયામાં તણાવ ઓછો થવાને બદલે વધી રહ્યો હોય તેવું લાગે છે. ઇઝરાયલ અને લેબનોન વચ્ચે યુદ્ધ વધુ તીવ્ર બન્યું છે, જેના કારણે પરિસ્થિતિ વધુ ગંભીર બની છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/will-the-ceasefire-break-iran-angered-by-attacks-on-lebanon-stopped-ships-in-the-strait-of-hormuz-know-472094 ",
-    "time": "2026-04-08T17:03:52.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "કેન્દ્રીય કેબિનેટના મોટા નિર્ણય, 40000 કરોડના પ્રોજેક્ટ્સ અને ખેડૂતોને ખાતર સબસિડી, શું DA અંગે શું થયું?",
     "desc": "સામાન્ય રીતે માર્ચ મહિનામાં વર્ષના પ્રથમ છ મહિના માટેના ભથ્થાની જાહેરાત થઈ જતી હોય છે, પરંતુ આ વખતે હજુ સુધી તેમ થઈ શક્યું નથી. આ જ કારણ છે કે, કેન્દ્રીય કર્મચારીઓ મોદી સરકારની દરેક કેબિનેટ બેઠકને આશાભરી નજરે જોઈ રહ્યા છે.",
@@ -556,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/big-decision-of-the-union-cabinet-projects-worth-rs-40000-crore-and-fertilizer-subsidy-to-farmers-what-happened-regarding-da-472091 ",
     "time": "2026-04-08T16:32:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "યુદ્ધવિરામ પછી ટ્રમ્પનો ટેરિફ વોર, આ દેશો પર લગાવ્યો 50% ટેક્સ, જાણો",
-    "desc": "બુધવારે અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે કડક ચેતવણી આપતા કહ્યું કે આ દેશ પર તાત્કાલિક 50 ટકા ટેરિફ લગાવવામાં આવશે. ટ્રમ્પે આજે યુદ્ધવિરામની જાહેરાત કરી હતી. આ યુદ્ધ 39 દિવસ ચાલ્યું હતું, જે બાગ સીઝફાયર થયું છે. જે બે અઠવાડિયા સુધી રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/trump-tariff-war-after-ceasefire-50-percent-tax-imposed-on-these-countries-know-472080 ",
-    "time": "2026-04-08T13:32:34.000Z"
   },
   {
     "cat": "Tech",
