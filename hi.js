@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI issues show-cause notice to RR manager Romi Bhinder for using mobile phone during IPL 2026 clash vs RCB",
+    "desc": "The Rajasthan Royals are one of the only two unbeaten teams in the ongoing edition of the Indian Premier League (IPL). But off the field, they have found themselves in controversy with their manager, Romi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-issues-show-cause-notice-to-rr-manager-romi-bhinder-for-using-mobile-phone-during-ipl-2026-clash-vs-rcb-2026-04-13-1037369",
+    "time": "2026-04-13T10:21:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Irfan Pathan raises concerns over Trent Boult's subpar form for Mumbai Indians after RCB drubbing",
+    "desc": "Mumbai Indians’ nightmare run in the ongoing IPL (Indian Premier League) 2026 season continues. Losing their third game on the trot, the five-time champions find themselves in 7th place in the standings with one win...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-raises-concerns-over-trent-boult-s-subpar-form-for-mumbai-indians-after-rcb-drubbing-2026-04-13-1037363",
+    "time": "2026-04-13T09:11:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What happened to star MI batter vs RCB? Sherfane Rutherford reveals",
+    "desc": "Mumbai Indians lost their third consecutive game on Sunday in the ongoing season of the Indian Premier League (IPL) after starting their campaign with a win over Kolkata Knight Riders a couple of weeks ago....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-what-happened-to-star-mi-batter-vs-rcb-sherfane-rutherford-reveals-2026-04-13-1037360",
+    "time": "2026-04-13T08:51:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head-to-Head record ahead of IPL 2026 match 21",
+    "desc": "Game 21 of the ongoing IPL (Indian Premier League) 2026 sees a clash between two of the hardest-hitting sides in the tournament. Sunrisers Hyderabad will host Rajasthan Royals. The two sides will lock horns at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-rr-head-to-head-record-ahead-of-ipl-2026-match-21-2026-04-13-1037358",
+    "time": "2026-04-13T08:23:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB skipper Rajat Patidar opens up on star batter's recovery",
+    "desc": "Royal Challengers Bengaluru (RCB) defeated Mumbai Indians by 18 runs in a high-scoring encounter at the Wankhede Stadium in the ongoing edition of the Indian Premier League (IPL). However, during the match, the team was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-injury-update-rcb-skipper-rajat-patidar-opens-up-on-star-batter-s-recovery-2026-04-13-1037357",
+    "time": "2026-04-13T08:21:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 Player battles to watch out for in IPL 2026 Match 21",
     "desc": "Game 21 of the ongoing IPL (Indian Premier League) 2026 sees Sunrisers Hyderabad taking on Rajasthan Royals. The two sides will lock horns at the Rajiv Gandhi International Stadium in Hyderabad on April 13, and...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-urges-mumbai-indians-think-tank-to-reflect-after-third-straight-loss-in-ipl-2026-2026-04-13-1037317",
     "time": "2026-04-13T02:23:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Royal Challengers Bengaluru equal Chennai Super Kings in elite list with stellar victory over Mumbai Indians",
-    "desc": "The 20th clash of the ongoing IPL (Indian Premier League) 2026 saw Royal Challengers Bengaluru take on Mumbai Indians. The two sides met at the Wankhede Stadium in Mumbai on April 12, and the game...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/royal-challengers-bengaluru-equal-chennai-super-kings-in-elite-list-with-stellar-victory-over-mumbai-indians-2026-04-13-1037310",
-    "time": "2026-04-13T01:32:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Salt, Patidar and Krunal plot MI's downfall as RCB register thumping win at Wankhede",
-    "desc": "Royal Challengers Bengaluru registered a stellar win over the Mumbai Indians in the 20th match of the Indian Premier League 2026 on Sunday, April 11. The defending champions produced a brilliant all-round performance and registered...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/salt-patidar-and-krunal-plot-mis-downfall-as-rcb-register-thumping-win-at-wankhede-2026-04-12-1037305",
-    "time": "2026-04-12T18:21:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Concern for RCB and MI as Virat Kohli, Rohit Sharma walk off during Wankhede clash, check what happened",
-    "desc": "RCB, MI and Indian wore an anxious look when their stars Virat Kohli and Rohit Sharma walked off the field at different points of the cash between MI and RCB at the Wankhede Stadium on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/concern-for-rcb-and-mi-as-virat-kohli-rohit-sharma-walk-off-during-wankhede-clash-check-what-happened-2026-04-12-1037299",
-    "time": "2026-04-12T17:08:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli achieves history against Mumbai Indians, becomes first to create major record",
-    "desc": "Royal Challengers Bengaluru icon Virat Kohli etched his name into the history books during his team's IPL 2026 clash against the Mumbai Indians at the Wankhede Stadium on Sunday, April 12. Kohli created a historical...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-achieves-history-against-mumbai-indians-becomes-first-to-create-major-record-2026-04-12-1037293",
-    "time": "2026-04-12T15:47:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler completes 14000 runs in T20s as GT thump LSG by seven wickets in Lucknow",
-    "desc": "Jos Buttler achieved a major milestone as the Gujarat Titans thumped Lucknow Super Giants in their fourth match of the Indian Premier League 2026 at the Ekana Cricket Stadium on Sunday, April 12. Buttler became...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-completes-14000-runs-in-t20s-as-gt-thump-lsg-by-seven-wickets-in-lucknow-2026-04-12-1037290",
-    "time": "2026-04-12T15:08:06.000Z"
   }
 ];
