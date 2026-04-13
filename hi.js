@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abhishek Sharma breaks Rohit Sharma, Sanju Samson's unwanted record after golden duck in SRH-RR IPL clash",
+    "desc": "Hard-hitting batter Abhishek Sharma's hot and cold form in 2026 continues as the Sunrisers Hyderabad star was dismissed for the golden duck during his team's clash against the Rajasthan Royals on Monday, April 13. Abhishek...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-rohit-sharma-sanju-samsons-unwanted-record-after-golden-duck-in-srh-rr-ipl-clash-2026-04-13-1037402",
+    "time": "2026-04-13T14:55:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Shimron Hetmyer not playing for RR in their IPL 2026 clash against SRH in Hyderabad?",
+    "desc": "Shimron Hetmyer missed out as the Rajasthan Royals lock horns against the Sunrisers Hyderabad in their Indian Premier League 2026 clash at the Rajiv Gandhi International Stadium on Monday, April 13. RR captain Riyan Parag...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-shimron-hetmyer-not-playing-for-rr-in-their-ipl-2026-clash-against-srh-in-hyderabad-2026-04-13-1037400",
+    "time": "2026-04-13T13:52:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is Pat Cummins playing in IPL 2026 clash for SRH against RR in Hyderabad?",
+    "desc": "Sunrisers Hyderabad host the hard-hitting Rajasthan Royals side in their fifth match of the Indian Premier League 2026 at the Rajiv Gandhi International Stadium. Having blown hot and cold, SRH are missing their captain Pat...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-pat-cummins-playing-in-ipl-2026-clash-for-srh-against-rr-in-hyderabad-2026-04-13-1037398",
+    "time": "2026-04-13T13:34:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI announces change in IPL 2026 schedule for GT vs CSK fixtures, Know new dates",
     "desc": "The Board of Control for Cricket in India (BCCI) has announced a change in the schedule of the ongoing edition of the Indian Premier League (IPL). The dates for the Gujarat Titans vs Chennai Super...",
     "img": "",
@@ -10,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Unbeaten Royals up against Sunrisers in Hyderabad",
+    "title": "Rajasthan Royals need 217 to remain unbeaten in tournament",
     "desc": "Rajasthan Royals will be up against Sunrisers Hyderabad in their fifth match of the Indian Premier League 2026, as two batting heavyweights will collide at the Rajiv Gandhi International Cricket Stadium on Monday, April 13....",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-record-prize-money-for-womens-t20-world-cup-2026-as-tournament-expands-to-12-teams-2026-04-13-1037376",
     "time": "2026-04-13T11:10:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI issues show-cause notice to RR manager Romi Bhinder for using mobile phone during IPL 2026 clash vs RCB",
-    "desc": "The Rajasthan Royals are one of the only two unbeaten teams in the ongoing edition of the Indian Premier League (IPL). But off the field, they have found themselves in controversy with their manager, Romi...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-issues-show-cause-notice-to-rr-manager-romi-bhinder-for-using-mobile-phone-during-ipl-2026-clash-vs-rcb-2026-04-13-1037369",
-    "time": "2026-04-13T10:21:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Irfan Pathan raises concerns over Trent Boult's subpar form for Mumbai Indians after RCB drubbing",
-    "desc": "Mumbai Indians’ nightmare run in the ongoing IPL (Indian Premier League) 2026 season continues. Losing their third game on the trot, the five-time champions find themselves in 7th place in the standings with one win...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-raises-concerns-over-trent-boult-s-subpar-form-for-mumbai-indians-after-rcb-drubbing-2026-04-13-1037363",
-    "time": "2026-04-13T09:11:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What happened to star MI batter vs RCB? Sherfane Rutherford reveals",
-    "desc": "Mumbai Indians lost their third consecutive game on Sunday in the ongoing season of the Indian Premier League (IPL) after starting their campaign with a win over Kolkata Knight Riders a couple of weeks ago....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-what-happened-to-star-mi-batter-vs-rcb-sherfane-rutherford-reveals-2026-04-13-1037360",
-    "time": "2026-04-13T08:51:26.000Z"
   }
 ];
