@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "R Ashwin comes to Jasprit Bumrah's defence after latter's subpar showing in IPL 2026",
+    "desc": "The IPL (Indian Premier League) 2026 campaign continues to be unforgiving for five-time champions Mumbai Indians. Led by Hardik Pandya, Mumbai Indians have played four games in the tournament so far, where the side has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-comes-to-jasprit-bumrah-s-defence-after-latter-s-subpar-showing-in-ipl-2026-2026-04-13-1037334",
+    "time": "2026-04-13T05:00:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Guwahati curators, groundsmen to be awarded Rs 25 lakh for their work through rain-marred IPL games",
+    "desc": "In a major development, the ACA (Assam Cricket Association) has come forward and announced a reward of INR 25 lakh for the curators and groundsmen of the Barsapara Stadium in Guwahati for their impeccable work...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/guwahati-curators-groundsmen-to-be-awarded-rs-25-lakh-for-their-work-through-rain-marred-ipl-games-2026-04-13-1037326",
+    "time": "2026-04-13T04:04:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Hardik Pandya urges Mumbai Indians' think tank to reflect after third straight loss in IPL 2026",
     "desc": "Mumbai Indians’ subpar form in the ongoing IPL (Indian Premier League) 2026 continued. Led by Hardik Pandya, the five-time champions kicked off their IPL 2026 campaign with a win, but they seem to have lost...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/is-josh-hazlewood-playing-todays-ipl-match-for-rcb-against-mi-at-wankhede-2026-04-12-1037286",
     "time": "2026-04-12T13:57:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bengaluru beat Mumbai by 18 runs, return to winning ways",
-    "desc": "Royal Challengers Bengaluru produced a commanding all-round display to defeat the Mumbai Indians by 18 runs in Match 20 of IPL 2026 at the Wankhede Stadium on April 11. Batting first, RCB dominated from the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-rcb-ipl-2026-live-cricket-score-mumbai-indians-vs-royal-challengers-bengaluru-wankhede-stadium-latest-match-updates-scorecard-teams-playing-xi-2026-04-12-1037283",
-    "time": "2026-04-12T13:13:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "From Sachin Tendulkar to Anil Kumble, cricket fraternity pays tribute to legendary singer",
-    "desc": "Cricketers paid their tribute to legendary singer Asha Bhosle, who passed away on Sunday, April 12, due to multiple organ failure. Bhosle had been admitted to the Breach Candy Hospital in Mumbai on Saturday evening....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/asha-bhosle-dies-from-sachin-tendulkar-to-anil-kumble-cricket-fraternity-pays-tribute-to-legendary-singer-2026-04-12-1037278",
-    "time": "2026-04-12T12:27:45.000Z"
   }
 ];

@@ -7,14 +7,5 @@ const newsData_mr = [
     "src": "abplive.com",
     "url": "https://marathi.abplive.com/entertainment/asha-bhosle-death-news-live-updates-versatile-playback-singer-asha-bhosle-died-cardiac-arrest-mumbai-news-last-rites-pm-modi-1420003",
     "time": "2026-04-13T01:06:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ज्येष्ठ गायिका आशा भोसले काळाच्या पडद्याआड; 92 व्या वर्षी घेतला अखेरचा श्वास",
-    "desc": "बारामती विधानसभा पोटनिवडणुकीच्या पार्श्वभूमीवर आज महायुती आणि राष्ट्रवादीच्या उमेदवार सुनेत्रा पवार आपल्या प्रचाराचा शुभारंभ करणार आहेत. सकाळी दहा वाजता कन्हेरी येथील मारुती मंदिरात नारळ फोडून प्रचाराला सुरुवात होईल. त्याआधी शारदा प्रांगणातून मंदिरापर्यंत रॅली काढण्यात येणार आहे. या कार्यक्रमाला पार्थ पवार, जय पवार, आदिती तटकरे आणि सना मलिक यांच्यासह पक्षाचे अनेक नेते उपस्थित राहणार आहेत. राज्यासह देश-विदेशातील महत्वाच्या घडामोडी, एका क्लिकवर...",
-    "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/12/4d9e5649115f345142bb6a8cc7c933351775955524723987_original.jpg",
-    "src": "abplive.com",
-    "url": "https://marathi.abplive.com/news/maharashtra-live-blog-updates-12-april-2026-baramati-and-rahuri-byelection-2026-sunetra-pawar-ajit-pawar-ashok-kharat-nashik-donald-trump-iran-israel-america-war-maharashtra-politics-1419878",
-    "time": "2026-04-12T00:58:57.000Z"
   }
 ];
