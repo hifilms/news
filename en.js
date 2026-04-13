@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Resign as PM if you want to be BJP’s face in West Bengal, CM Mamata tells Modi",
+    "desc": "At a public meeting in Siliguri, the Prime Minister had said all BJP candidates contesting the Assembly election were “Modi”; it was a counter to the Chief Minister’s remark that she was the candidate on all 294 seats",
+    "img": "https://th-i.thgim.com/public/incoming/hbs6th/article70857864.ece/alternates/LANDSCAPE_1200/20260413248L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/19-states-centre-have-come-together-to-counter-me-i-am-fighting-alone-for-common-people-mamata/article70857725.ece",
+    "time": "2026-04-13T19:01:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia Bhatt says Raha already fears failure; Sadhguru’s advice",
+    "desc": "Alia Bhatt has opened up about motherhood, fears and parenting, revealing that she often questions herself as a parent while raising her daughter Raha. In a candid conversation with Sadhguru on his YouTube channel, the actor shared her concerns, while also seeking advice on raising children in today’s world.",
+    "img": "https://static.toiimg.com/photo/msid-130244198,imgsize-59086.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-says-her-3-year-old-daughter-raha-already-fears-failure-am-i-a-good-mother-sadhgurus-advice-leaves-her-laughing/articleshow/130244198.cms",
+    "time": "2026-04-13T18:45:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Praful, Kishan star as Sunrisers hand Royals heavy defeat in Hyderabad",
+    "desc": "Sunrisers Hyderabad thrashed Rajasthan Royals by 57 runs in an IPL match, powered by Praful Hinge’s sensational debut where he took three wickets in the first over and finished with 4/34. SRH scored 216/6, led by Ishan Kishan’s 91. RR were bowled out for 159 despite resistance from Donovan Ferreira and Ravindra Jadeja.",
+    "img": "https://static.toiimg.com/photo/msid-130243956,imgsize-85392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-praful-hinge-ishan-kishan-star-as-sunrisers-hand-rajasthan-royals-heavy-defeat-in-hyderabad/articleshow/130243851.cms",
+    "time": "2026-04-13T18:23:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajat Patidar — the new king of Chinnaswamy",
+    "desc": "His growth as a leader has made for spectacular viewing and fears that he would be compelled to perform under the towering shadow of Kohli have proved unfounded; he is a captain who believes in leading from the front and espousing the cause of positivity",
+    "img": "https://th-i.thgim.com/public/incoming/vq6tqu/article70858955.ece/alternates/LANDSCAPE_1200/_DSC8075.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/rajatpatidar-the-new-king-ofchinnaswamy/article70858946.ece",
+    "time": "2026-04-13T18:19:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "1, W, 0, W, 0, W: Praful's dream IPL debut nurtured by Aaron, McGrath",
+    "desc": "Praful Hinge’s dream IPL debut, where he rattled Rajasthan Royals with four wickets, is a story of resilience and self-belief. After a career-threatening back injury, the Vidarbha pacer found support in Varun Aaron and Glenn McGrath, who guided his comeback. The seamer picked up four wickets on his IPL debut.",
+    "img": "https://static.toiimg.com/photo/msid-130243230,imgsize-204104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/1-w-0-w-0-w-praful-hinges-dream-ipl-debut-nurtured-by-varun-aaron-glenn-mcgrath/articleshow/130243266.cms",
+    "time": "2026-04-13T18:00:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Resisting delimitation can be more harmful for southern States",
+    "desc": "The BJP’s proposal is to have 50% additional seats in the Lok Sabha, one-third of the new total being reserved for women, nationally and in each State; for instance, Kerala, which at present has 20 seats, will have 30 seats, of which ten will be reserved for women.",
+    "img": "https://th-i.thgim.com/public/incoming/4bn6n6/article70859007.ece/alternates/LANDSCAPE_1200/iStock-1658169891.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/resisting-delimitation-can-be-more-harmful-for-southern-states/article70858793.ece",
+    "time": "2026-04-13T17:55:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Praful Hinge scripts history in 19 years of IPL, becomes first-ever to ...",
+    "desc": "Debutant Praful Hinge etched his name in IPL history with a sensational opening over, claiming three wickets for ducks against Rajasthan Royals. The 24-year-old seamer from Vidarbha, picked for Rs 30 lakh, showcased remarkable potential, justifying Sunrisers Hyderabad's faith and announcing himself as a rising star.",
+    "img": "https://static.toiimg.com/photo/msid-130242946,imgsize-150020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/praful-hinge-scripts-history-in-19-years-of-ipl-becomes-first-ever-to-/articleshow/130242961.cms",
+    "time": "2026-04-13T17:30:07.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Russia offers to take in Iran's enriched uranium",
+    "desc": "Failed talks between Iran and the United States over the weekend dashed hopes of a swift deal to permanently end the war that has killed thousands and thrown the global economy into turmoil since it began in late February",
+    "img": "https://th-i.thgim.com/public/incoming/ajpxbr/article70858935.ece/alternates/LANDSCAPE_1200/2026-03-06T120436Z_25856876_RC2A6JAUMK5C_RTRMADP_3_FINLAND-NUCLEAR-RUSSIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/russia-offers-to-take-in-irans-enriched-uranium/article70858925.ece",
+    "time": "2026-04-13T17:29:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The simple, spiritual living in Andhra’s Kurma Gramam village",
+    "desc": "Nestled amidst the scenic hills of Hiramandalam in Andhra Pradesh, Kurma Gramam is a tiny hamlet, spread across 60 acres and inhabited by 17 families that stands in contrast to modern lifestyles. Cut off from the contemporary living, the village functions without electricity, mobile phones, internet connectivity or even LPG services. Life here moves at a slower pace, deeply rooted in simplicity and spiritual discipline, writes Harish Gilai",
+    "img": "https://th-i.thgim.com/public/incoming/kffyfj/article70844344.ece/alternates/LANDSCAPE_1200/DSC_4534.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/the-simple-living-in-kurma-gramam-village/article70844349.ece",
+    "time": "2026-04-13T17:29:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Will Panneerselvam turn over a new leaf under the Rising Sun in Bodinayakkanur?",
+    "desc": "While his supporters are at pains to highlight the circumstances that compelled him to switch to the DMK from the AIADMK, the ruling party workers are yet to embrace him in a big way. He is also facing criticism in his native Theni district for not bringing in big infrastructure projects",
+    "img": "https://th-i.thgim.com/public/incoming/uj3h1x/article70858934.ece/alternates/LANDSCAPE_1200/TH14_Constituency%20Watch_Bodinayakkanur.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/will-panneerselvam-turn-over-a-new-leaf-under-the-rising-sun-in-bodinayakkanur/article70853733.ece",
+    "time": "2026-04-13T17:27:15.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran executed at least 1,639 in 2025, more hangings feared: NGOs",
+    "desc": "The number of executions represented an increase of 6% on the 975 people Iran put to death in 2024, and also included 48 women, Norway-based Iran Human Rights (IHR) and Paris-based Together Against the Death Penalty (ECPM) said in their joint annual report",
+    "img": "https://th-i.thgim.com/public/incoming/jz2a58/article70858917.ece/alternates/LANDSCAPE_1200/Iran_War_96379.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-executed-at-least-1639-in-2025-more-hangings-feared-ngos/article70858894.ece",
+    "time": "2026-04-13T17:18:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Happy being single in my 40s, don’t want kids’",
+    "desc": "Choreographer and dancer Shakti Mohan has opened up about her views on marriage, motherhood and relationships, saying she is content with her life and does not feel the need to follow societal expectations. Shakti addressed constant questions around her personal life and whether she plans to settle down anytime soon in her 40s. The dancer emphasised that she is fulfilled with her work and current life, and does not feel anything is missing. Shakti also spoke candidly about a past relationship that left a deep impact on her, revealing she was cheated on and chose to walk away immediately.",
+    "img": "https://static.toiimg.com/photo/msid-130242588,imgsize-76714.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shakti-mohan-says-shes-happily-single-in-her-40s-recalls-being-cheated-on-in-past-relationship-i-dont-have-maternal-instincts/articleshow/130242588.cms",
+    "time": "2026-04-13T17:17:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Delhi-Dehradun Expressway: Travel From Delhi To Dehradun In Just 2.5 Hours! Check Top Facts &amp; Photos",
+    "desc": "Prime Minister Narendra Modi is all set to inaugurate the Delhi-Dehradun Expressway, which is also being called the Delhi-Dehradun Expressway Economic Corridor. The new expressway built under National Highways Authority of India is an access-controlled roadway corridor that will substantially reduce the travel time between Delhi and Dehradun. The full expressway will be thrown open on April 14, 2026. From a unique wildlife corridor to route map, here are top facts and photos of the Delhi-Dehradun Expressway:",
+    "img": "https://static.toiimg.com/photo/msid-130242783,imgsize-79830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/delhi-dehradun-expressway-inauguration-pm-narendra-modi-opening-date-travel-time-economic-corridor-route-map-wildlife-corridor-toll-charge-top-facts-and-photos/photostory/130242783.cms",
+    "time": "2026-04-13T17:17:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Workers’ protest over wage hike leads to unrest, violent face-off in Noida",
+    "desc": "U.P. forms high-level committee to resolve industrial discord; U.P. CM Yogi Adityanath appeals to workers to be wary of those attempting to spread industrial unrest; trade unions see link between protests and the implementation of the government’s four Labour Codes",
+    "img": "https://th-i.thgim.com/public/incoming/r6y2ug/article70858875.ece/alternates/LANDSCAPE_1200/2026-04-13T142147Z_1847121287_RC2AOKAKYI9H_RTRMADP_3_IRAN-CRISIS-INDIA-WORKERS-PROTEST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/noida-workers-protest-violent-updates-delhi-border-april-13-2026/article70856363.ece",
+    "time": "2026-04-13T16:53:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Praful Hinge? 3 wickets in 1 over! SRH debutant who destroyed RR",
+    "desc": "Twenty-four-year-old pacer Praful Hinge made an explosive IPL debut for Sunrisers Hyderabad, dismantling Rajasthan Royals' top order. He claimed three wickets for ducks in a single over, including Vaibhav Sooryavanshi, Dhruv Jurel, and Lhuan-dre Pretorius. This stunning performance, achieved on his first IPL outing, left the opposition reeling and introduced a new talent to the league.",
+    "img": "https://static.toiimg.com/photo/msid-130242912,imgsize-204104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/who-is-praful-hinge-3-wickets-in-1-over-srh-debutant-who-destroyed-rajasthan-royals/articleshow/130242446.cms",
+    "time": "2026-04-13T16:51:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ensure hostels are fully equipped before schools reopen, Naidu directs officials",
+    "desc": "Chief Minister reviews the performance of various departments; instructs that crimes against women must be dealt with strictly and without delay; proposes pilot projects to deliver healthcare services through drones in agency areas to improve accessibility",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ensure-hostels-are-fully-equipped-before-schools-reopen-naidu-directs-officials/article70858457.ece",
+    "time": "2026-04-13T16:51:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi falls for golden duck; Kavya Maran's wild celebration goes viral",
+    "desc": "Youngster Vaibhav Sooryavanshi faced a rare failure in the IPL 2026 clash against Sunrisers Hyderabad. He was dismissed for a golden duck by pacer Praful Hinge. Wicketkeeper Ishan Kishan and Salil Arora combined for the catch. The Sunrisers Hyderabad dugout, including owner Kavya Maran, erupted in celebration. Sooryavanshi walked back to the pavilion in disbelief after an uncharacteristic off day.",
+    "img": "https://static.toiimg.com/photo/msid-130241907,imgsize-39650.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/vaibhav-sooryavanshi-falls-for-golden-duck-kavya-marans-wild-celebration-goes-viral-watch/articleshow/130241882.cms",
+    "time": "2026-04-13T16:19:55.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Pap reacts to Jaya Bachchan’s remarks, equation with Bachchans",
     "desc": "Bollywood paparazzo Manav Manglani has shared his take on the Bachchan family’s relationship with the paparazzi, especially in light of Jaya Bachchan’s controversial remarks on the culture. Speaking on a podcast, he highlighted how different members of the family engage with photographers, while also addressing the backlash that followed Jaya’s comments.",
@@ -25,24 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ravindra-jadeja-inspects-vaibhav-sooryavanshis-bat-asks-ye-tune-karwaya-hai-ki-watch/articleshow/130241160.cms",
     "time": "2026-04-13T15:46:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Telangana braces for intense summer spell amid El Niño signals",
-    "desc": "No immediate relief is expected in the form of rainfall, at least until the end of the month, temperatures typically begin to moderate only by mid-May, when increased cloud cover and pre-monsoon showers set in",
-    "img": "https://th-i.thgim.com/public/incoming/6scmtb/article70858544.ece/alternates/LANDSCAPE_1200/MEMAU_13_4_2026_18_50_54_2_1102.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/telangana-braces-for-intense-summer-spell-amid-el-nino-signals/article70858407.ece",
-    "time": "2026-04-13T15:45:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kejriwal appears before Justice Sharma in Delhi High Court, seeks her recusal",
-    "desc": "Appearing before Justice Sharma to argue his application seeking her to withdraw from the case, the Aam Aadmi Party convenor contended that under the law on recusal, the question is not of a judge's integrity or uprightness, but of \"reasonable bias\" in the mind of the litigant.",
-    "img": "https://th-i.thgim.com/public/incoming/54t2wk/article70858442.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-13%20at%208.48.17%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/kejriwal-appears-before-justice-sharma-in-delhi-hc-seeks-her-recusal/article70858376.ece",
-    "time": "2026-04-13T15:34:43.000Z"
   },
   {
     "cat": "World",
@@ -79,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/unwanted-milestone-abhishek-sharma-breaks-rohit-sharma-sanju-samson-records/articleshow/130240499.cms",
     "time": "2026-04-13T15:05:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala dental student’s death highlights growing threat of predatory loan apps",
-    "desc": "Investigators say the student had taken a loan of around ₹14,000 from an app and recovery agents had been contacting him repeatedly. They also purportedly directed calls and messages to a college teacher in an attempt to shame the youngster and coerce repayment",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-dental-students-death-highlights-growing-threat-of-predatory-loan-apps/article70858122.ece",
-    "time": "2026-04-13T15:02:29.000Z"
   },
   {
     "cat": "Politics",
@@ -306,24 +432,6 @@ const newsData_en = [
     "time": "2026-04-13T11:20:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Season 5 to begin on Nov 22, final on Dec 20 in Dubai",
-    "desc": "The International League T20 (ILT20) will host its fifth season from November 22 to December 20, 2026, in Dubai. Organizers highlighted improved broadcast reach and attendance as successes of the recent schedule shift. The league also plans regional expansion through partnerships with Saudi Arabia and Kuwait, aiming to strengthen cricket's ecosystem.",
-    "img": "https://static.toiimg.com/photo/msid-130234562,imgsize-68798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ilt20-schedule-season-5-to-begin-on-november-22-final-on-december-20-in-dubai/articleshow/130234447.cms",
-    "time": "2026-04-13T11:03:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI's ACU serves notice to Romi Bhinder, seeks explanation for dugout phone use",
-    "desc": "Rajasthan Royals manager Romi Bhinder faces a BCCI Anti-Corruption Unit probe for using a mobile phone in the team dugout during an IPL match. The BCCI has issued a notice, demanding an explanation within 48 hours regarding potential protocol breaches. The investigation intensified after a viral clip showed a player near Bhinder looking at the phone.",
-    "img": "https://static.toiimg.com/photo/msid-130234576,imgsize-47024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/bccis-acu-serves-notice-to-romi-bhinder-seeks-explanation-for-dugout-phone-use/articleshow/130234575.cms",
-    "time": "2026-04-13T11:01:51.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Who to be next Bihar CM? BJP likely to declare face for top post on Tuesday",
     "desc": "The leadership change will mark a milestone for the BJP, which is set to get its first chief minister in Bihar, the only Hindi heartland state where the top post has so far eluded the party. Even so, party leaders have remained cautious in their public remarks. Dilip Jaiswal, a minister and former Bihar BJP president, said, \"It is an emotional moment for us. We hope that Nitish Kumar will continue to offer his guidance to the new government.\"",
@@ -405,24 +513,6 @@ const newsData_en = [
     "time": "2026-04-13T09:27:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Assam government moves Supreme Court against transit bail granted to Pawan Khera",
-    "desc": "The Assam government has approached the Supreme Court challenging a Telangana High Court order granting transit anticipatory bail to Congress leader Pawan Khera. Khera had sought protection from arrest in a case stemming from his allegations against Assam CM Himanta Biswa Sarma's wife. The Supreme Court's intervention will now shape the legal proceedings.",
-    "img": "https://static.toiimg.com/photo/msid-130232145,imgsize-73408.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assam-government-moves-supreme-court-against-transit-bail-granted-to-pawan-khera/articleshow/130232146.cms",
-    "time": "2026-04-13T09:26:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay Kumar’s prank on Wamiqa Gabbi on Bhooth Bangla set",
-    "desc": "An amusing prank pulled by Akshay Kumar on Wamiqa Gabbi during the filming of 'Bhooth Bangla' has caught the attention of fans online, highlighting their delightful chemistry on set. Directed by Priyadarshan, this horror-comedy is generating excitement, with its engaging trailer and fascinating behind-the-scenes looks, hinting at a thrilling mix of comedy and intriguing suspense.",
-    "img": "https://static.toiimg.com/photo/msid-130232165,imgsize-288586.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-pranks-wamiqa-gabbi-on-bhooth-bangla-set-ahead-of-priyadarshan-film-release-on-april-17-watch-video/articleshow/130232165.cms",
-    "time": "2026-04-13T09:21:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘I’ll always be grateful’: Brett Lee’s emotional tribute to Asha Bhosle",
     "desc": "Former Australian cricketer Brett Lee fondly remembers his unique musical collaboration with the late Asha Bhosle, who passed away at 92. Their 2007 hit 'You’re the One for Me' blended cricket and music, showcasing Bhosle's immense talent and remarkable humility. Lee cherishes their bond, highlighting her warmth and generosity, and believes her legacy will endure.",
@@ -430,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/ill-always-be-grateful-brett-lees-emotional-tribute-to-asha-bhosle/articleshow/130232043.cms",
     "time": "2026-04-13T09:08:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court flags ‘margin of error’ in Bengal SIR, refuses to intervene",
-    "desc": "The Supreme Court expressed serious concerns regarding West Bengal's electoral roll revision, emphasizing the need for a strong appeals system to correct wrongful deletions. Judicial officers are overwhelmed, leading to potential errors. Despite these worries, the court directed voters to appellate tribunals for resolution, highlighting the importance of voter inclusion.",
-    "img": "https://static.toiimg.com/photo/msid-130231946,imgsize-1320240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/supreme-court-flags-margin-of-error-in-bengal-sir-refuses-to-intervene/articleshow/130231882.cms",
-    "time": "2026-04-13T09:07:45.000Z"
   },
   {
     "cat": "Business",
@@ -459,15 +540,6 @@ const newsData_en = [
     "time": "2026-04-13T09:04:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Asha Bhosle and R.D. Burman: A musical revolution",
-    "desc": "Asha Bhosle and R.D. Burman's legendary musical partnership, ignited by 'Teesri Manzil', revolutionized Hindi film music with innovative sounds and styles. Their collaboration, which blossomed into marriage, produced iconic songs across languages. Bhosle's later tribute albums ensured Burman's enduring legacy, showcasing their unparalleled artistic synergy.",
-    "img": "https://static.toiimg.com/photo/msid-130231645,imgsize-79384.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/asha-bhosle-and-r-d-burman-the-partnership-that-redefined-hindi-film-music/articleshow/130231645.cms",
-    "time": "2026-04-13T08:51:50.000Z"
-  },
-  {
     "cat": "Business",
     "title": "World Bank chief sounds alarm about looming jobs crisis even after war ends",
     "desc": "At current trajectories, developing economies will ⁠generate only about 400 million jobs, leaving a deficit of 800 million jobs, for the 1.2 billion people who will reach working ​age in the next 10 to 15 years, World Bank chief Ajay Banga said",
@@ -475,15 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/world-bank-chief-sounds-alarm-about-looming-jobs-crisis-even-after-war-ends/article70856709.ece",
     "time": "2026-04-13T08:35:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bowling woes threaten MI campaign as Bumrah struggles without support",
-    "desc": "Jasprit Bumrah's wicketless streak is impacting Mumbai Indians' IPL 2026 campaign, with the team struggling overall. Despite Bumrah's best economy rate, MI's bowling unit has taken few wickets, conceding high scores. Support bowlers are failing to create pressure, leading to mounting losses and a desperate need for the team to regroup and find momentum.",
-    "img": "https://static.toiimg.com/photo/msid-130230738,imgsize-187676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-bowling-woes-threaten-mumbai-indians-campaign-as-jasprit-bumrah-struggles-without-support/articleshow/130230740.cms",
-    "time": "2026-04-13T08:00:01.000Z"
   },
   {
     "cat": "Business",
@@ -511,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/highest-in-almost-3-years-india-buying-all-the-russian-crude-it-can-get-its-hands-on-as-trump-sanctions-threat-fades/articleshow/130227314.cms",
     "time": "2026-04-13T06:29:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson’s no-panic mode takes CSK back to MS Dhoni days",
-    "desc": "Sanju Samson's explosive 115 against Delhi Capitals has revitalised Chennai Super Kings' campaign, ending a six-match home losing streak. The Kerala batter's composed, timing-focused innings silenced early season doubts. CSK bowling coach Eric Simons lauded Samson's calmness, placing him near MS Dhoni's level. Samson's self-belief, honed by past setbacks, proved crucial in repaying the franchise's faith.",
-    "img": "https://static.toiimg.com/photo/msid-130227821,imgsize-27702.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-sanju-samsons-no-panic-mode-takes-csk-back-to-ms-dhoni-days/articleshow/130227270.cms",
-    "time": "2026-04-13T06:23:13.000Z"
   },
   {
     "cat": "Sports",
@@ -556,15 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/asha-bhosle-legendary-singer-death-obituary/article70854485.ece",
     "time": "2026-04-13T05:52:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "TCS, Eicher Motors &amp; more: Top stocks to watch on April 13",
-    "desc": "TCS receives a 'buy' rating with a Rs 3,100 target, showing improved international business and strong bookings. Eicher Motors' electric Flying Flea is noted, though mainstream adoption needs further refinement. Delhivery's share price remains resilient amid fuel concerns, with robust near-term demand. JSW Steel's Q4FY26 production saw a dip due to expansion shutdowns.",
-    "img": "https://static.toiimg.com/photo/msid-130226240,imgsize-93070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/tcs-eicher-motors-more-top-stocks-to-watch-on-april-13/articleshow/130226261.cms",
-    "time": "2026-04-13T05:46:55.000Z"
   },
   {
     "cat": "Business",
@@ -756,15 +801,6 @@ const newsData_en = [
     "time": "2026-04-10T19:32:33.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026 PBKS vs SRH preview",
-    "desc": "A glance at the scorecard of their last meeting — in Hyderabad on April 12, 2025 — provides context. Sunrisers, coming off a four-match losing streak, hunted down the 246-run target with eight wickets and nine balls to spare, thanks to a 55-ball 141 from Abhishek Sharma",
-    "img": "https://th-i.thgim.com/public/incoming/9zxdcv/article70847958.ece/alternates/LANDSCAPE_1200/PTI04_10_2026_000383A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-pbks-vs-srh-preview-punjab-kings-vs-sunrisers-hyderabad-face-off-in-a-battle-of-big-hitters/article70847387.ece",
-    "time": "2026-04-10T16:54:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "MF investor panic subsides even as markets dipped in March 2026",
     "desc": "SIP contributions had decreased 3.73% to ₹29,845 crore in February 2026 and had stagnated at ₹31,002 crore in January 2026 and December 2025, reflecting investor panics with the many headwinds including dropping returns due to FII exodus, rupee depreciation, AI scares and recently the Iran war.",
@@ -862,32 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
     "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

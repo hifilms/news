@@ -153,15 +153,6 @@ const newsData_bn = [
     "time": "2026-04-10T10:58:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "অনলাইনে আর দুমদাম যাকেতাকে পেমেন্ট করতে পারবেন না: RBI নতুন নিয়ম আনছে, ১০০০০ টাকার বেশি হলেই চাপ",
-    "desc": "যেহেতু ইউপিআই-তে টাকা সঙ্গে সঙ্গে চলে যায়, তাই গ্রাহক ভুল বুঝতে পারলেও ততক্ষণে টাকা প্রতারকের পকেট থেকে অন্য কোথাও সরিয়ে ফেলা হয়। এই ১ ঘণ্টার বিরতি গ্রাহককে নিজের ভুল সংশোধনের একটি 'গোল্ডেন আওয়ার' বা সুযোগ দেবে। এই ১ ঘণ্টার মধ্যে প্রেরক চাইলে লেনদেনটি বাতিল করার সুযোগ পাবেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/rbi-proposes-1hour-delay-for-some-upi-payment_648218.html ",
-    "time": "2026-04-10T08:52:36.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran-Israel War: ক্ষুব্ধ ইরান বেঁধে দিল হরমুজের লিমিট: বিশ্ববাজারে তেলের দাম ভয়ংকর বাড়ছে, সঙ্গে গ্যাসও-- আমজনতার পকেটে কবে স্বস্তি?",
     "desc": "বিশেষজ্ঞরা মনে করছেন, ইসরায়েলের সাথে চলমান উত্তেজনা এবং যুক্তরাষ্ট্রের কঠোর নিষেধাজ্ঞার পাল্টা জবাব হিসেবে ইরান এই 'এনার্জি কার্ড' ব্যবহার করছে। ইরান এর আগেও একাধিকবার এই প্রণালী বন্ধ করে দেওয়ার হুমকি দিলেও, এবার সরাসরি জাহাজ চলাচলের সংখ্যা বেঁধে দেওয়াকে অত্যন্ত আগ্রাসী পদক্ষেপ হিসেবে দেখা হচ্ছে।",
@@ -178,14 +169,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/200-broad-gauge-coaches-to-be-imported-from-india-railways-minister_648159.html ",
     "time": "2026-04-09T12:45:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];
