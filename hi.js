@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 Player battles to watch out for in IPL 2026 Match 21",
+    "desc": "Game 21 of the ongoing IPL (Indian Premier League) 2026 sees Sunrisers Hyderabad taking on Rajasthan Royals. The two sides will lock horns at the Rajiv Gandhi International Stadium in Hyderabad on April 13, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-rr-3-player-battles-to-watch-out-for-in-ipl-2026-match-21-2026-04-13-1037346",
+    "time": "2026-04-13T07:33:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Rajiv Gandhi International Stadium in Hyderabad play?",
+    "desc": "The stage is set for the 21st game of the ongoing IPL (Indian Premier League) 2026. Sunrisers Hyderabad will be taking on Rajasthan Royals at the Rajiv Gandhi International Stadium in Hyderabad on April 13....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-rr-pitch-report-how-will-surface-at-rajiv-gandhi-international-stadium-in-hyderabad-play-2026-04-13-1037341",
+    "time": "2026-04-13T06:16:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "R Ashwin comes to Jasprit Bumrah's defence after latter's subpar showing in IPL 2026",
     "desc": "The IPL (Indian Premier League) 2026 campaign continues to be unforgiving for five-time champions Mumbai Indians. Led by Hardik Pandya, Mumbai Indians have played four games in the tournament so far, where the side has...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-completes-14000-runs-in-t20s-as-gt-thump-lsg-by-seven-wickets-in-lucknow-2026-04-12-1037290",
     "time": "2026-04-12T15:08:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are MI and RCB players wearing black armbands during clash at Wankhede in IPL 2026?",
-    "desc": "Mumbai Indians and Royal Challengers Bengaluru lock horns in a high-octane clash at the Wankhede Stadium as both teams look to bounce back from their previous defeat to the Rajasthan Royals. However, ahead of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-mi-and-rcb-players-wearing-black-armbands-during-clash-at-wankhede-in-ipl-2026-2026-04-12-1037288",
-    "time": "2026-04-12T14:28:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Josh Hazlewood playing today's IPL match for RCB against MI at Wankhede?",
-    "desc": "Josh Hazlewood missed out ad Royal Challengers Bengaluru take on Mumbai Indians in the 20th match of the Indian Premier League 2026. Hazlewood, who made a much-awaited return to the side for the previous game...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-josh-hazlewood-playing-todays-ipl-match-for-rcb-against-mi-at-wankhede-2026-04-12-1037286",
-    "time": "2026-04-12T13:57:29.000Z"
   }
 ];

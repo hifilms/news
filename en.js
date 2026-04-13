@@ -1,5 +1,248 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘Euphoria Season 3' pays tribute to Eric Dane, Angus Cloud",
+    "desc": "As Euphoria Season 3 kicks off, it pays heartfelt homage to beloved cast and crew members we’ve lost, such as Eric Dane and Angus Cloud. Dane's Cal Jacobs makes a poignant appearance, while we learn that Fezco, played by Cloud, is navigating a challenging life behind bars.",
+    "img": "https://static.toiimg.com/photo/msid-130229976,imgsize-115920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/euphoria-season-3-pays-tribute-to-eric-dane-angus-cloud-fezcos-storyline-also-revealed/articleshow/130229976.cms",
+    "time": "2026-04-13T07:40:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Dumont’s Parkinson’s diagnosis: What the guitarist reveals",
+    "desc": "Tom Dumont, the talented guitarist from No Doubt, has bravely shared his battle with early-onset Parkinson's at the age of 58, just before the band's much-anticipated Las Vegas residency. While he faces daily challenges, his passion for music shines through as he commits to rehearsals, proving he can still strum the strings.",
+    "img": "https://static.toiimg.com/photo/msid-130230279,imgsize-121476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/no-doubt-guitarist-tom-dumont-reveals-early-onset-parkinsons-disease-diagnosis-ahead-of-las-vegas-residency/articleshow/130230209.cms",
+    "time": "2026-04-13T07:39:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Needs to be examined’: Supreme Court seeks Centre, ECI response on biometric voting plea",
+    "desc": "The Supreme Court is reviewing a proposal to implement fingerprint and iris scans at polling stations to combat voter fraud and impersonation. Notices have been issued to the central government, Election Commission, and states. While acknowledging the need to examine this for future elections, the court clarified it won't be introduced for current state polls.",
+    "img": "https://static.toiimg.com/photo/msid-130230002,imgsize-206884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/needs-to-be-examined-supreme-court-seeks-centre-eci-response-on-biometric-voting-plea/articleshow/130229870.cms",
+    "time": "2026-04-13T07:23:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'There are two options': Hardik Pandya delivers brutal reality check after MI defeat",
+    "desc": "Mumbai Indians faced a third straight loss in IPL 2026. Captain Hardik Pandya addressed the team, emphasizing collective learning over isolation. The team conceded too many runs, struggling to control matches. Pandya indicated a need for rethinking strategies and potential tactical shifts. Mumbai aims to halt its slide in the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-130229330,imgsize-182442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/there-are-two-options-hardik-pandya-delivers-brutal-reality-check-after-mi-defeat/articleshow/130229275.cms",
+    "time": "2026-04-13T07:17:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hariharan writes emotional note for Asha Bhosle",
+    "desc": "Veteran singer Hariharan penned a heartfelt tribute to the legendary Asha Bhosle, calling her a \"part of our everyday existence.\" He shared cherished memories, highlighting her immense contribution to music and her personal support. Hariharan emphasized that Bhosle's voice, a constant companion since childhood for many Indians, created an eternal bond. Her legacy as an inspiration will endure, he stated.",
+    "img": "https://static.toiimg.com/photo/msid-130229498,imgsize-82604.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/hariharan-says-asha-bhosle-has-always-stood-by-me-pens-down-heartfelt-note-for-the-late-singer/articleshow/130229498.cms",
+    "time": "2026-04-13T07:13:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Mood favouring the BJP': PM Modi after interacting with party workers in West Bengal, takes jab at TMC",
+    "desc": "Prime Minister Narendra Modi expressed confidence in the BJP's growing support in West Bengal, citing feedback from party workers in Siliguri. He highlighted public connection with the BJP's development agenda and criticized the TMC government for corruption, appeasement, and neglecting North Bengal.",
+    "img": "https://static.toiimg.com/photo/msid-130229439,imgsize-1261708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mood-favouring-the-bjp-pm-modi-after-interacting-with-party-workers-in-west-bengal-takes-jab-at-tmc/articleshow/130228246.cms",
+    "time": "2026-04-13T07:09:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lessons from the 1970s help U.S. and global economies absorb oil shocks",
+    "desc": "Economies are less vulnerable now than they were when a similar war in West Asia drove up fuel prices, triggering stagflation in the 1970s; decades of reforms have improved efficiency, cut reliance on West Asian oil, built reserves, and expanded alternative energy, but oil is still king, say experts",
+    "img": "https://th-i.thgim.com/public/incoming/dd80fk/article70856311.ece/alternates/LANDSCAPE_1200/2026-04-09T050027Z_515658953_RC20DKA8MUXX_RTRMADP_3_IRAN-CRISIS-BRITAIN-COOPER.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/lessons-from-the-1970s-help-us-and-global-economies-absorb-oil-shocks/article70856264.ece",
+    "time": "2026-04-13T07:05:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Stalin’s remarks on paddy incentive ‘baseless, politically motivated’: Nirmala Sitharaman",
+    "desc": "Mr. Stalin, during an Assembly election campaign in Thanjavur on Friday (April 10), contended that the Centre had advised the Tamil Nadu government to discontinue providing incentives for paddy procured from farmers, claiming it was leading to excessive production",
+    "img": "https://th-i.thgim.com/public/incoming/vgjh8v/article70856533.ece/alternates/LANDSCAPE_1200/20260323065L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/stalins-remarks-on-paddy-incentive-baseless-politically-motivated-nirmala-sitharaman/article70854263.ece",
+    "time": "2026-04-13T06:58:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pushed back into Bangladesh last year, 6 men from Murshidabad will vote to prove where they belong",
+    "desc": "Six men had travelled to Maharashtra for work and returned carrying not only trauma but also a new fear — that even after coming home, they would have to prove they belonged to the country",
+    "img": "https://th-i.thgim.com/public/incoming/o7docw/article70856531.ece/alternates/LANDSCAPE_1200/PTI04_12_2026_000061A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/pushed-back-into-bangladesh-last-year-6-men-from-murshidabad-will-vote-to-prove-where-they-belong/article70856515.ece",
+    "time": "2026-04-13T06:55:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'The lack-of-wickets narrative': Ashwin drops bold take on Bumrah after MI struggle",
+    "desc": "Royal Challengers Bengaluru secured an 18-run victory over Mumbai Indians, highlighting Jasprit Bumrah's wicketless streak. India spinner Ravichandran Ashwin defended Bumrah, emphasizing his crucial role in stifling opposition runs and maintaining economy, especially at high-scoring venues like Wankhede. Ashwin noted that T20 bowling success relies on partnerships and defensive strategies, not solely on individual wickets.",
+    "img": "https://static.toiimg.com/photo/msid-130228438,imgsize-122734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/the-lack-of-wickets-narrative-r-ashwin-drops-bold-take-on-jasprit-bumrah-after-mi-struggle/articleshow/130228424.cms",
+    "time": "2026-04-13T06:50:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DMK turning T.N. into top State in corruption, says BJP national president Nitin Nabin",
+    "desc": "The DMK and Congress are pushing Tamil Nadu into a state of poverty through corruption, says the BJP national president during a public meeting in Ramanathapuram Assembly constituency; he targets the ruling party in T.N. over remarks on Sanatana Dharma, alleges graft through job scams and TASMAC liquor sales",
+    "img": "https://th-i.thgim.com/public/incoming/gt5127/article70856550.ece/alternates/LANDSCAPE_1200/10217_12_4_2026_17_19_37_2_DSC_5845.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/dmk-turning-tn-into-top-state-in-corruption-says-bjp-national-president-nitin-nabin/article70854463.ece",
+    "time": "2026-04-13T06:42:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Asha ji will forever be the definition of Indian music industry’",
+    "desc": "The Indian music industry mourns the loss of legendary singer Asha Bhosle. Punjabi singer Juggy D shared his heartfelt tribute, calling her an irreplaceable voice and a definition of the industry. Bhosle's illustrious career spanned decades, with over a thousand songs recorded in multiple languages. She will be celebrated by generations to come. Her passing marks a significant loss.",
+    "img": "https://static.toiimg.com/photo/msid-130228497,imgsize-101142.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/asha-bhosle-passes-away-juggy-d-says-she-will-forever-be-the-definition-of-indian-music-industry-exclusive/articleshow/130228380.cms",
+    "time": "2026-04-13T06:41:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Hunger Games: Sunrise on the Reaping’: First footage drops",
+    "desc": "Sunrise on the Reaping,' delving into Haymitch Abernathy's brutal entry into the 50th Hunger Games. This prequel, set 24 years before Katniss, features a star-studded cast including Joseph Zada as Haymitch and Elle Fanning as Effie.",
+    "img": "https://static.toiimg.com/photo/msid-130228322,imgsize-150664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hunger-games-sunrise-on-the-reaping-first-footage-hints-at-a-dark-return-to-panems-most-brutal-era/articleshow/130228244.cms",
+    "time": "2026-04-13T06:37:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Deeply flawed’: Sonia Gandhi slams women’s quota bill, calls it ‘assault on Constitution’",
+    "desc": "Sonia Gandhi asserts the Centre's focus on delimitation, not women's reservation, is the \"real issue\" behind the special Parliament session, deeming it \"extremely dangerous\" and an \"assault\" on the Constitution. She argues population control performers shouldn't be disadvantaged and criticizes the government's rushed approach for political gain, calling it \"hollow\" and \"anti-democratic.\"",
+    "img": "https://static.toiimg.com/photo/msid-130228039,imgsize-848009.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/deeply-flawed-sonia-gandhi-slams-womens-quota-bill-calls-it-assault-on-constitution/articleshow/130227568.cms",
+    "time": "2026-04-13T06:29:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Highest in almost 3 years! India buying ‘all the Russian crude it can get its hands on’ as Trump sanctions threat fades",
+    "desc": "Indian refiners have ramped up purchases of Russian crude over the past two months and expect procurement to remain high through the rest of the year amid easing concerns around potential Donald Trump administration sanctions.",
+    "img": "https://static.toiimg.com/photo/msid-130228056,imgsize-84526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/highest-in-almost-3-years-india-buying-all-the-russian-crude-it-can-get-its-hands-on-as-trump-sanctions-threat-fades/articleshow/130227314.cms",
+    "time": "2026-04-13T06:29:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson’s no-panic mode takes CSK back to MS Dhoni days",
+    "desc": "Sanju Samson's explosive 115 against Delhi Capitals has revitalised Chennai Super Kings' campaign, ending a six-match home losing streak. The Kerala batter's composed, timing-focused innings silenced early season doubts. CSK bowling coach Eric Simons lauded Samson's calmness, placing him near MS Dhoni's level. Samson's self-belief, honed by past setbacks, proved crucial in repaying the franchise's faith.",
+    "img": "https://static.toiimg.com/photo/msid-130227821,imgsize-27702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-sanju-samsons-no-panic-mode-takes-csk-back-to-ms-dhoni-days/articleshow/130227270.cms",
+    "time": "2026-04-13T06:23:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hamstring issue raises alarm for MI camp",
+    "desc": "Mumbai Indians face a double blow after losing to Royal Challengers Bengaluru. Veteran opener Rohit Sharma retired hurt with a hamstring issue during their chase. This setback adds to MI's concerns as they look for answers. Sharma's fitness is now a major worry for the team's upcoming matches. The team suffered their third straight loss.",
+    "img": "https://static.toiimg.com/photo/msid-130227579,imgsize-236970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rohit-sharma-injury-update-hamstring-issue-raises-alarm-for-mumbai-indians-camp/articleshow/130227650.cms",
+    "time": "2026-04-13T06:20:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will RCB star be fit in time for LSG clash?",
+    "desc": "Virat Kohli sparked concern during RCB's win over MI after leaving the field with an ankle issue, though he had already contributed a half-century and set a new IPL record for runs against Mumbai Indians. Skipper Rajat Patidar offered a reassuring update on Kohli's condition post-match, praising the team's batting performance.",
+    "img": "https://static.toiimg.com/photo/msid-130227083,imgsize-145192.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-injury-update-will-rcb-star-be-fit-in-time-for-lsg-clash/articleshow/130226881.cms",
+    "time": "2026-04-13T06:08:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Euphoria Season 3’: Why Sweeney’s scene sparked backlash",
+    "desc": "Euphoria's latest season faces backlash over a scene featuring Sydney Sweeney's character, Cassie, in a sexually suggestive manner while dressed childishly. Critics deem the depiction exploitative and a departure from meaningful storytelling, sparking outrage online.",
+    "img": "https://static.toiimg.com/photo/msid-130226947,imgsize-100188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/euphoria-season-3-why-sydney-sweeneys-scene-sparked-backlash-and-all-about-cassies-controversial-arc/articleshow/130226785.cms",
+    "time": "2026-04-13T06:04:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What's the outlook for Nifty for April 13-April 17 week? Check list of top stock recommendations",
+    "desc": "Sona BLW Precision Forgings, and Eicher Motors have been recommended as the top stocks to buy this week by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities. He also shares outlook on Nifty and Bank Nifty:",
+    "img": "https://static.toiimg.com/photo/msid-130226645,imgsize-61906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stocks-to-buy-this-week-april-13-to-april-17-stock-recommendations-sona-blw-precision-forgings-eicher-motors/articleshow/130226534.cms",
+    "time": "2026-04-13T05:58:40.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Poland withdraws from treaty banning antipersonnel mines, will use them to defend against Russia",
+    "desc": "Poland, which ratified the document in 2012 and completed the destruction of its domestic anti-personnel mine stockpile in 2016, withdrew from the treaty on February 20, 2026 and says it plans to renew manufacturing weapons",
+    "img": "https://th-i.thgim.com/public/incoming/e0kxfw/article70657558.ece/alternates/LANDSCAPE_1200/Poland_Land_Mines_90728.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/poland-withdraws-from-treaty-banning-antipersonnel-mines-will-use-them-to-defend-against-russia/article70657545.ece",
+    "time": "2026-04-13T05:54:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "the voice that defied genres, time",
+    "desc": "Asha’s voice felt like a friend, a co-conspirator, or a mirror — someone who had been through the messiness of life and still chose to sing, dance, and seduce with full-throated joy; the most-recorded artist will be remembered for her fearless spirit, versatility, and playful charm",
+    "img": "https://th-i.thgim.com/public/incoming/gzswu0/article70855187.ece/alternates/LANDSCAPE_1200/54_METRO_LIVING_LEGEND_ASHA_BH",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/asha-bhosle-legendary-singer-death-obituary/article70854485.ece",
+    "time": "2026-04-13T05:52:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Full winners list inside",
+    "desc": "In a grand celebration of theatrical brilliance, London's renowned Royal Albert Hall played host to the 50th Olivier Awards. The evening was marked by 'Paddington The Musical' dominating the scene, garnering accolades including Best New Musical.",
+    "img": "https://static.toiimg.com/photo/msid-130226262,imgsize-105404.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/olivier-awards-2026-paddington-the-musical-takes-lead-rachel-zegler-paapa-essiedu-among-top-winners-full-list-inside/articleshow/130226262.cms",
+    "time": "2026-04-13T05:51:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Full list of matches, dates, timings, venues and results",
+    "desc": "Rajasthan Royals are dominating IPL 2026, leading the standings after 20 matches with an impressive winning streak. This week, from April 13-19, promises nine thrilling encounters, including top clashes like RR vs SRH and CSK vs KKR. Defending champions RCB also face LSG, while struggling MI take on the unbeaten PBKS. The weekend features exciting double-headers.",
+    "img": "https://static.toiimg.com/photo/msid-130226365,imgsize-193162.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-schedule-this-week-13-19-april-full-list-of-matches-dates-timings-venues-and-results/articleshow/130226068.cms",
+    "time": "2026-04-13T05:50:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "TCS, Eicher Motors &amp; more: Top stocks to watch on April 13",
+    "desc": "TCS receives a 'buy' rating with a Rs 3,100 target, showing improved international business and strong bookings. Eicher Motors' electric Flying Flea is noted, though mainstream adoption needs further refinement. Delhivery's share price remains resilient amid fuel concerns, with robust near-term demand. JSW Steel's Q4FY26 production saw a dip due to expansion shutdowns.",
+    "img": "https://static.toiimg.com/photo/msid-130226240,imgsize-93070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/tcs-eicher-motors-more-top-stocks-to-watch-on-april-13/articleshow/130226261.cms",
+    "time": "2026-04-13T05:46:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Where should investors put their money?",
+    "desc": "Middle East tensions are sending shockwaves through global markets, with oil prices soaring above $100 and Indian equities plummeting. The Strait of Hormuz's vulnerability and trade route disruptions are fueling investor anxiety. Experts advise caution, emphasizing disciplined monthly investments via SIPs rather than market timing, as geopolitical risks overshadow earnings.",
+    "img": "https://static.toiimg.com/photo/msid-130226109,imgsize-2537615.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/oil-shock-and-war-jitters-where-should-investors-put-their-money/articleshow/130225659.cms",
+    "time": "2026-04-13T05:41:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Crucial to ensure transparency': Kerala assembly opposition leader Satheesan urges EC to release poll data",
+    "desc": "Kerala's opposition chief VD Satheesan passionately called upon the Election Commission to promptly disclose the official polling figures for the elections held on April 9. He raised concerns over the delay in releasing detailed constituency data and postal ballot outcomes, stressing the need for accountability and public confidence.",
+    "img": "https://static.toiimg.com/photo/msid-130225663,imgsize-918725.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/crucial-to-ensuring-transparency-kerala-leader-of-the-opposition-satheesan-writes-to-ec-urging-to-release-poll-data/articleshow/130225522.cms",
+    "time": "2026-04-13T05:31:26.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Chahal in spotlight again as actress Taniya Chatterjee reveals shocking DM",
     "desc": "Actress Taniya Chatterjee has claimed Indian cricketer Yuzvendra Chahal sent her a direct message on Instagram, calling her 'cute.' She reportedly showed the alleged messages to paparazzi. This revelation comes amidst ongoing public interest in Chahal's personal life following his 2025 divorce. Chahal, who last played for India in 2023, remains a prominent IPL performer for Punjab Kings.",
@@ -7,6 +250,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/yuzvendra-chahal-in-spotlight-again-as-actress-taniya-chatterjee-reveals-shocking-dm/articleshow/130225740.cms",
     "time": "2026-04-13T05:26:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shreya Ghoshal's tribute to Asha Ji at her London concert",
+    "desc": "At the O2 Arena in London, Shreya Ghoshal's 'The Unstoppable Tour' transformed into a heartfelt celebration of Asha Bhosle's legacy. Revering her as a guru, Ghoshal captivated fans with emotional renditions of 'Do Lafzon Ki Yeh Dil Ki Kahani' and 'Abhi Na Jao Chod Kar', as nostalgic visuals of Bhosle danced on the screen. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130225605,imgsize-133652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/shreya-ghoshal-pays-tribute-to-asha-bhosle-at-her-london-concert-singing-abhi-na-jao-do-lafzon-ki-songs-watch/articleshow/130225605.cms",
+    "time": "2026-04-13T05:23:51.000Z"
   },
   {
     "cat": "Entertainment",
@@ -203,7 +455,7 @@ const newsData_en = [
     "desc": "Adivi Sesh's 'Dacoit' launched into the cinematic scene with an impressive opening weekend, pulling in ₹23.12 crore net within India and a remarkable ₹34.77 crore globally by its third day. While there was a minor decrease on Sunday, the film’s gripping narrative of love intertwined with vengeance continues to capture hearts, bolstered by solid international box office earnings.",
     "img": "https://static.toiimg.com/photo/msid-130224440,imgsize-70404.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dacoit-box-office-collection-day-3-adivi-sesh-and-mrunal-thakurs-film-nears-rs-35-crore-in-worldwide-collections/articleshow/130224440.cms",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/dacoit-box-office-collection-day-3-adivi-sesh-and-mrunal-thakurs-film-nears-rs-35-crore-in-worldwide-collections/articleshow/130224440.cms",
     "time": "2026-04-13T03:58:27.000Z"
   },
   {
@@ -261,33 +513,6 @@ const newsData_en = [
     "time": "2026-04-13T03:20:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Raja Shivaji' anthem postponed in honor of Asha Bhosle",
-    "desc": "In a heartfelt homage to the beloved Asha Bhosle, who left us at the age of 92, Riteish Deshmukh has decided to push back the release of the anthem 'Chhatrapati' from his eagerly awaited film 'Raja Shivaji'. Initially slated for April 13, 2026, the launch will now be postponed to honor the legendary vocalist's remarkable legacy. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130223296,imgsize-148568.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raja-shivaji-anthem-delayed-makers-of-riteish-deshmukh-starrer-postpone-song-launch-in-honor-of-asha-bhosle/articleshow/130223296.cms",
-    "time": "2026-04-13T02:55:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rachel Zegler named Best actress for West End’s ‘Evita’",
-    "desc": "Rachel Zegler has triumphed at the Olivier Awards, winning the Best Actress in a Musical title for her remarkable portrayal of Eva Peron in 'Evita' on the West End stage. The talented 'Snow White' actress celebrated backstage with Elaine Paige, who famously played Eva Peron in the 1978 production, creating a touching moment between generations.",
-    "img": "https://static.toiimg.com/photo/msid-130223630,imgsize-72360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rachel-zegler-lands-best-actress-in-musical-award-for-evita-poses-with-original-actress-elaine-page-from-1978-version/articleshow/130223630.cms",
-    "time": "2026-04-13T02:52:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Scarlett Johansson says early 2000's Hollywood ‘Pigeon-Holed’ women",
-    "desc": "Looking back at her experiences in early 2000s Hollywood, Scarlett Johansson describes it as a 'tough experience' marked by intense scrutiny of appearance and a scarcity of meaningful roles for women. Now, she finds hope in the growing array of strong, multi-dimensional characters available to female performers, a welcome departure from the restrictive stereotypes that once defined her career.",
-    "img": "https://static.toiimg.com/photo/msid-130223414,imgsize-109578.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/scarlett-johansson-says-early-2000s-hollywood-pigeon-holed-women-praises-empowering-roles-today/articleshow/130223414.cms",
-    "time": "2026-04-13T02:39:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Iga Swiatek and her quest for solidity",
     "desc": "The Polish World No. 4 is this era’s leading light, with her six Major titles the most among active women playing full time. But of late, her game has come under a cloud following a series of bad losses. Will the upcoming clay season — her most cherished months in the calendar – spark a turnaround?",
@@ -304,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-rajat-patidar-equals-adam-gilchrists-17-year-old-record-with-a-blazing-knock/articleshow/130223234.cms",
     "time": "2026-04-13T02:28:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer Singh pays tribute to Asha Bhosle after her demise",
-    "desc": "Bollywood heartthrob Ranveer Singh expressed his deep condolences after the revered Asha Bhosle's death on April 14, 2026, in Mumbai. Sharing a poignant black-and-white photograph, he referred to her as 'irreplaceable and simply unmatched.' This sentiment was echoed across the nation as countless politicians and celebrities gathered in remembrance, celebrating her extraordinary contributions to the heart of Indian melody. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130222820,imgsize-96152.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-pays-tribute-to-asha-bhosle-after-her-demise-shares-a-black-and-white-picture-with-the-legend/articleshow/130222820.cms",
-    "time": "2026-04-13T02:27:41.000Z"
   },
   {
     "cat": "Business",
@@ -340,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/toy-prices-soar-as-raw-material-costs-rise-due-to-gulf-conflict/articleshow/130223025.cms",
     "time": "2026-04-13T01:59:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Avengers: Doomsday' hailed as 'best Marvel film yet'",
-    "desc": "Doomsday' following rave test screenings, with some calling it the best Marvel film yet. Early reactions mirror the success of 'Infinity War'. Robert Downey Jr. returns as Doctor Doom, joined by a star-studded cast including Chris Evans and Tom Hiddleston. Exclusive footage is expected at CinemaCon 2026.",
-    "img": "https://static.toiimg.com/photo/msid-130222802,imgsize-232506.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-doomsday-test-screening-audience-hail-russo-brothers-directorial-as-best-marvel-film-yet-on-par-with-avengers-infinity-war/articleshow/130222707.cms",
-    "time": "2026-04-13T01:55:36.000Z"
   },
   {
     "cat": "Business",
@@ -387,15 +594,6 @@ const newsData_en = [
     "time": "2026-04-13T01:33:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Lucy Liu reveals she is in ‘TDWP2’",
-    "desc": "Excitement is building among fans as Lucy Liu announces her surprise inclusion in 'TDWP2', the sequel to the beloved 'The Devil Wears Prada'. Keeping her role a secret until now, Liu promises a compelling transformation for her character after 20 years. Collaboration with Meryl Streep and Anne Hathaway made the experience a magical one for her.",
-    "img": "https://static.toiimg.com/photo/msid-130222660,imgsize-59898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-devil-wears-prada-2-lucy-liu-admits-mystery-role-in-the-film-talks-about-working-with-meryl-streep-anne-hathaway/articleshow/130222660.cms",
-    "time": "2026-04-13T01:32:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How Vaishali crashed into the Chinese wall in Round 12",
     "desc": "India's Vaishali Rameshbabu suffered a significant setback in the FIDE Candidates, losing to China's Zhu Jiner and relinquishing her sole lead. The Women's section is now wide open with both players tied at the top. Meanwhile, Javokhir Sindarov is on the cusp of becoming the challenger in the Open section, needing just a draw in his next match.",
@@ -403,33 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-vaishali-crashed-into-the-chinese-wall-in-round-12/articleshow/130222649.cms",
     "time": "2026-04-13T01:17:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana' at CinemaCon: Film to have private showcase",
-    "desc": "Part 1' at CinemaCon 2026 in Las Vegas. Showcasing detailed character art and a global release strategy, the film promises a cinematic spectacle with cutting-edge VFX and a musical collaboration between Hans Zimmer and A.R. Rahman. Directed by Nitesh Tiwari, this mythological epic is slated for a Diwali 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-130222654,imgsize-146786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cinemacon-2026-ramayana-posters-of-ranbir-kapoors-rama-and-yashs-ravana-debut-alongside-the-odyssey-dune-3-avengers-doomsday-film-to-have-private-showcase-pics/articleshow/130222501.cms",
-    "time": "2026-04-13T01:09:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tom Dumont diagnosed with early-onset-Parkinsons",
-    "desc": "Tom Dumont, the talented guitarist of No Doubt, has courageously shared his battle with early-onset Parkinson's disease at the age of 58. After grappling with symptoms for some time, he has finally embraced his diagnosis. Despite this new chapter in his life, Dumont's love for music shines brightly, and he expresses unwavering optimism, declaring his ability to keep playing guitar.",
-    "img": "https://static.toiimg.com/photo/msid-130222522,imgsize-47710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/no-doubt-musician-tom-dumont-shares-parkinsons-diagnosis-with-fans-says-the-good-news-is-i-can-still-play-music/articleshow/130222522.cms",
-    "time": "2026-04-13T01:08:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karan Aujla pays tribute to Asha Bhosle at Mumbai 2.0 concert",
-    "desc": "During a memorable concert in Mumbai on April 12, 2026, Punjabi sensation Karan Aujla paid heartfelt homage to the iconic Asha Bhosle. The night was illuminated by a tribute that showcased Bhosle's image alongside a poignant video of her performing Aujla's celebrated track 'Tauba Tauba'. Read on to know more about in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130222555,imgsize-84150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/karan-aujla-honors-asha-bhosle-at-mumbai-2-0-concert-screens-throwback-tauba-tauba-video-during-the-show/articleshow/130222555.cms",
-    "time": "2026-04-13T01:08:08.000Z"
   },
   {
     "cat": "Business",
@@ -495,15 +666,6 @@ const newsData_en = [
     "time": "2026-04-12T23:31:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah struggles for breakthroughs, records longest wicketless streak",
-    "desc": "Jasprit Bumrah is experiencing a rare wicketless streak in IPL 2026, going five matches without a wicket, his longest dry spell. Despite a respectable economy rate, the Mumbai Indians spearhead has conceded 123 runs in 15 overs. This unusual phase contrasts with his career record of 183 wickets in 149 matches.",
-    "img": "https://static.toiimg.com/photo/msid-130211840,imgsize-45738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/whats-wrong-with-jasprit-bumrah-shocking-ipl-numbers-0-wickets-in-5-matches/articleshow/130211833.cms",
-    "time": "2026-04-12T23:25:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Cabaret to global pop, Asha lived 'crossover' before it was buzzword",
     "desc": "Asha Bhosle transcended eras, absorbing global music trends and blending them with Indian classical training. She fearlessly explored genres like jazz, rock, and pop, collaborating with international artists and becoming a cultural icon. Her innovative spirit led to groundbreaking projects, earning her a Grammy nomination and cementing her legacy as a truly versatile vocalist.",
@@ -538,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/i-do-not-see-the-assembly-election-intamil-nadu-as-a-close-contest-says-cm-stalin/article70827163.ece",
     "time": "2026-04-12T21:35:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "the voice that defied genres, time",
-    "desc": "Asha’s voice felt like a friend, a co-conspirator, or a mirror — someone who had been through the messiness of life and still chose to sing, dance, and seduce with full-throated joy; the most-recorded artist will be remembered for her fearless spirit, versatility, and playful charm",
-    "img": "https://th-i.thgim.com/public/incoming/gzswu0/article70855187.ece/alternates/LANDSCAPE_1200/54_METRO_LIVING_LEGEND_ASHA_BH",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/asha-bhosle-legendary-singer-death-obituary/article70854485.ece",
-    "time": "2026-04-12T21:31:47.000Z"
   },
   {
     "cat": "Politics",
@@ -649,30 +802,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "People across Tamil Nadu want a change, there is anti-incumbency: AIADMK leader-candidate D. Jayakumar",
-    "desc": "Former Minister D. Jayakumar says every party in the alliance has its own ideology, but the AIADMK will not be influenced by them. Confident of a win because of the party’s strong voter base and coalition votes, the Royapuram candidate promises to develop infrastructure and fulfil the people’s needs",
-    "img": "https://th-i.thgim.com/public/incoming/z2ehtl/article70855231.ece/alternates/LANDSCAPE_1200/DSC_7132.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-aiadmk-leader-royapuram-candidate-d-jayakumar-interview/article70854614.ece",
-    "time": "2026-04-12T19:34:02.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "With 10.9% net voter deletions, Bengal 5th among 12 states, UTs",
     "desc": "West Bengal, despite facing significant opposition to voter list revisions, ranked fifth in net deletions and third in absolute numbers of absent, shifted, and dead electors removed. The state was second only to Uttar Pradesh in dropping deceased voters. While additions were lowest among major states, West Bengal led in deletions through adjudication.",
     "img": "https://static.toiimg.com/photo/msid-130219869,imgsize-1092591.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/with-10-9-net-voter-deletions-bengal-5th-among-12-states-uts/articleshow/130219874.cms",
     "time": "2026-04-12T19:32:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "If Centre stops assistance or grants, we will not accept it: AIADMK leader-candidate K.P. Munusamy",
-    "desc": "It’s true that we backed the farm laws that had benefits for farmers, but it was Edappadi K. Palaniswami who stalled the project for the extraction of mineral resources in the delta, says the AIADMK deputy general secretary",
-    "img": "https://th-i.thgim.com/public/incoming/iubhxv/article70854675.ece/alternates/LANDSCAPE_1200/KA12%20Election%20campaigning%20in%20Veppanahalli.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-2026-aiadmk-leader-veppanahalli-candidate-kp-munusamy-interview/article70854547.ece",
-    "time": "2026-04-12T19:21:38.000Z"
   },
   {
     "cat": "Sports",
@@ -685,84 +820,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Kochi Corpn. seeks govt. fundsto repair uneven stretches along metro corridor",
-    "desc": "Civic body not in a position to mobilise ₹14 crore needed to resurface S.A. Road, says Mayor; work to prevent concrete blocks from falling onto the road below Elamkulam station is likely to begin soon",
-    "img": "https://th-i.thgim.com/public/incoming/2scagg/article70855052.ece/alternates/LANDSCAPE_1200/Kochi_Metro03.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kochi-corpn-seeksgovt-fundsto-repair-uneven-stretches-along-metro-corridor/article70854771.ece",
-    "time": "2026-04-12T19:16:03.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Amarnath yatra from July 3 to August 28, registration begins on April 15",
     "desc": "The annual Amarnath Yatra will commence on July 3 and conclude on August 28, spanning 57 days. Pilgrims aged 13 to 70 can register from April 15, with enhanced accident insurance of Rs 10 lakh. Registrations will be available at 554 bank branches nationwide.",
     "img": "https://static.toiimg.com/photo/msid-130219500,imgsize-1808165.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/amarnath-yatra-from-july-3-to-august-28-registration-begins-on-april-15/articleshow/130219515.cms",
     "time": "2026-04-12T19:13:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "J&amp;K: 3 Kashmir varsities end MOUs with US NGO after ‘security concerns’",
-    "desc": "Three universities in Kashmir have terminated academic agreements with the US-based Kashmir Care Foundation (KCF). The University of Kashmir, IUST, and SKUAST-K cited internal reviews and \"adverse reports\" as reasons for cancellation. Officials indicated growing caution over foreign collaborations, particularly in sensitive fields, though no money was exchanged.",
-    "img": "https://static.toiimg.com/photo/msid-130219414,imgsize-802611.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jk-3-kashmir-varsities-end-mous-with-us-ngo-after-security-concerns/articleshow/130219409.cms",
-    "time": "2026-04-12T19:09:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "the Sriharan vacuum",
-    "desc": "The Sattankulam trial judge accepted the Sriharan bar in his sentencing order and was forced to the rope; even ordinary life imprisonment, the judge wrote, would let the convicts come out in fourteen years through determined effort",
-    "img": "https://th-i.thgim.com/public/incoming/g1qmp8/article70855118.ece/alternates/LANDSCAPE_1200/IMG_bl05_Gavel_2_1_SHEFAE7A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/between-14-years-and-the-gallows-the-sriharan-vacuum/article70855119.ece",
-    "time": "2026-04-12T19:03:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kumarapalayam seeks flyover, curbs on effluent discharge into Cauvery, more bus services and resettlement of the flood affected",
-    "desc": "Incumbent P. Thangamani seeks a fourth consecutive term from the Assembly segment known for its power looms and spinning mills but plagued by water contamination, dearth of bus services and traffic congestions; challengers from DMK, TVK and NTK complete the four-cornered fight for the seat",
-    "img": "https://th-i.thgim.com/public/incoming/4pq2hw/article70854393.ece/alternates/LANDSCAPE_1200/9868_12_4_2026_16_16_49_1_RAILWAYGATE_2.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/kumarapalayam-seeks-flyover-curbs-on-effluent-discharge-into-cauvery-more-bus-services-and-resettlement-of-the-flood-affected/article70853982.ece",
-    "time": "2026-04-12T19:00:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Salt, Kohli, Patidar shine as RCB outgun MI in 462-run thriller",
-    "desc": "Royal Challengers Bengaluru dominated Mumbai Indians by 18 runs in a high-scoring Wankhede thriller. Powered by explosive fifties from Phil Salt, Virat Kohli and Rajat Patidar, RCB posted a massive 240/4. MI fought back through Sherfane Rutherford’s unbeaten 71, but regular wickets and early setbacks, including Rohit’s injury, derailed their chase as they finished on 222/5.",
-    "img": "https://static.toiimg.com/photo/msid-130219053,imgsize-81548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-phil-salt-virat-kohli-rajat-patidar-shine-as-rcb-outgun-mi-in-462-run-thriller-at-wankhede/articleshow/130218751.cms",
-    "time": "2026-04-12T18:59:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "First batch of BrahMos made in Lucknow delivered to Army; national security is collective duty of every citizen, not just forces: Rajnath",
-    "desc": "Defence Minister Rajnath Singh announced India's strides towards defence self-reliance, with BrahMos missile manufacturing commencing in Lucknow and the first batch delivered to the Army. He highlighted record domestic defence production of Rs 1.5 lakh crore and exports reaching Rs 38,424 crore for FY 2025-26. Singh emphasized national security as a collective citizen duty, urging active participation beyond defence forces.",
-    "img": "https://static.toiimg.com/photo/msid-130222206,imgsize-1048085.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/first-batch-of-brahmos-made-in-lucknow-delivered-to-army-rajnath/articleshow/130216848.cms",
-    "time": "2026-04-12T18:16:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mazagon Dock acquires controlling stake in Colombo dockyard for $26.8 m, move will help counter China's control of Lanka port",
-    "desc": "India's Mazagon Dock Shipbuilders Ltd (MDL) has acquired a 51% stake in Sri Lanka's Colombo Dockyard PLC for approximately Rs 249.5 crore. This strategic move aims to counter China's maritime influence in the region and strengthens India-Sri Lanka maritime cooperation. The acquisition is expected to boost CDPLC's revenue and profits.",
-    "img": "https://static.toiimg.com/photo/msid-130222211,imgsize-611127.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mazagon-dock-acquires-controlling-stake-in-colombo-dockyard-for-26-8-mn/articleshow/130216767.cms",
-    "time": "2026-04-12T18:15:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma retires hurt; Ritika Sajdeh's reaction breaks the internet",
-    "desc": "Royal Challengers Bengaluru posted a formidable 240/4, powered by Phil Salt's 78 and Rajat Patidar's rapid 53. Virat Kohli contributed a steady 50. Mumbai Indians' chase faltered early as Rohit Sharma retired hurt on 19 due to a hamstring injury, leaving the daunting target unmet.",
-    "img": "https://static.toiimg.com/photo/msid-130213392,imgsize-71526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rohit-sharma-retires-hurt-ritika-sajdehs-reaction-breaks-the-internet/articleshow/130213240.cms",
-    "time": "2026-04-12T17:37:40.000Z"
   },
   {
     "cat": "Sports",
@@ -792,33 +855,6 @@ const newsData_en = [
     "time": "2026-04-12T15:57:08.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Record alert! Virat Kohli eclipses Babar Azam",
-    "desc": "Virat Kohli and Phil Salt's explosive 120-run opening partnership powered Royal Challengers Bengaluru to a strong start against Mumbai Indians. Salt's rapid 78 set the tone, while Kohli's 50 marked his 47th T20 century partnership, the most in the format. This stand laid a crucial foundation for RCB's innings.",
-    "img": "https://static.toiimg.com/photo/msid-130210571,imgsize-67842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-record-alert-virat-kohli-eclipses-babar-azam-in-t20s/articleshow/130210555.cms",
-    "time": "2026-04-12T15:40:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "History created! Jos Buttler shatters T20 record, joins Virat Kohli in elite club",
-    "desc": "Jos Buttler achieved a historic double milestone, scoring his 100th T20 fifty and surpassing 14,000 T20 runs, as Gujarat Titans defeated Lucknow Super Giants by seven wickets. Buttler's 60-run knock was instrumental in GT's successful chase of 165, which they completed with eight balls to spare. Prasidh Krishna's 4 for 24 earlier restricted LSG to 164 for 8.",
-    "img": "https://static.toiimg.com/photo/msid-130209779,imgsize-166986.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/history-created-jos-buttler-shatters-t20-record-joins-virat-kohli-in-elite-club/articleshow/130209780.cms",
-    "time": "2026-04-12T14:52:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill creates history, breaks Virat Kohli's record to become ...",
-    "desc": "Shubman Gill's fluent half-century and Jos Buttler's explosive finishing guided Gujarat Titans to a seven-wicket victory over Lucknow Super Giants. Gill also achieved a significant milestone, becoming the youngest player to reach 4,000 IPL runs. The win propels GT to fifth in the standings.",
-    "img": "https://static.toiimg.com/photo/msid-130209923,imgsize-58516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-shubman-gill-scripts-history-breaks-virat-kohlis-record-to-become-/articleshow/130209919.cms",
-    "time": "2026-04-12T14:40:49.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump says U.S. to start blockading the Strait of Hormuz immediately",
     "desc": "I have also instructed our Navy ​to seek and interdict every vessel in International Waters ⁠that has paid a toll ⁠to Iran. No one who pays an illegal toll ‌will have safe passage on the high seas, says U.S. President Donald Trump",
@@ -835,15 +871,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/asha-bhosle-tamil-songs-not-many-but-all-outstanding/article70853758.ece",
     "time": "2026-04-12T12:33:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What is Bangladesh's new crude sourcing strategy?",
-    "desc": "Bangladesh is exploring a proposal to refine Russian crude oil in India before importing the finished fuel, aiming to ease supply pressures from the West Asia conflict. The Energy and Mineral Resources Division has requested approval to discuss a government-to-government agreement with India, as its local refinery cannot process Russian crude.",
-    "img": "https://static.toiimg.com/photo/msid-130205925,imgsize-1886311.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/russian-crude-with-indian-touch-what-is-bangladeshs-new-crude-sourcing-strategy-strait-of-hormuz-middle-east-oil-supply-energy-supply/articleshow/130205002.cms",
-    "time": "2026-04-12T10:20:29.000Z"
   },
   {
     "cat": "World",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-says-it-will-resume-some-ties-with-taiwan-including-more-direct-flights/article70853479.ece",
     "time": "2026-04-12T06:59:21.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Vance leaves Pakistan after Iran talks fail to reach a deal",
-    "desc": "No deal yet in US-Iran talks. Vice-President J.D. Vance says the U.S. is returning without an agreement after key differences over Iran’s nuclear programme. Iranian media says talks may continue, with the Strait of Hormuz at the centre of discussions.",
-    "img": "https://th-i.thgim.com/public/incoming/mlnve8/article70853237.ece/alternates/LANDSCAPE_1200/2026-04-12T023613Z_1201541175_RC2ENKA9BY8N_RTRMADP_3_IRAN-CRISIS-CEASEFIRE-PAKISTAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/vance-leaves-pakistan-after-iran-talks-fail-to-reach-a-deal/article70853491.ece",
-    "time": "2026-04-12T06:30:53.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The origin stories of SPAM",
-    "desc": "The months of April and May could well be celebrated as the birth months of spam — those notoriously undesired messages that clog our information highways. This is because the earliest known case of spam took place on May 3, 1978 and the first such case in the Web as we know it now took place on April 12, 1994. A.S.Ganesh turns off his spam filters to give you these two tales…",
-    "img": "https://th-i.thgim.com/public/incoming/lnb78u/article70814909.ece/alternates/LANDSCAPE_1200/2013-03-27T190517Z_01_PXP400_RTRMDNP_3_INTERNET-ATTACK.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/the-origin-stories-of-spam/article70814926.ece",
-    "time": "2026-04-12T02:06:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "How was the U.S.-Iran ceasefire deal reached?",
-    "desc": "How did the two-week ceasefire come about and how did Pakistan become involved in mediation? Why has Israel reacted negatively to the U.S.-Iran ceasefire negotiations? What is happening in Islamabad now, and what are the chances of the talks succeeding?",
-    "img": "https://th-i.thgim.com/public/incoming/kwz3sj/article70851785.ece/alternates/LANDSCAPE_1200/2026-04-11T140804Z_1485366594_RC21NKA89NI5_RTRMADP_3_IRAN-CRISIS-CEASEFIRE-PAKISTAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/how-was-the-us-iran-ceasefire-deal-reached/article70851782.ece",
-    "time": "2026-04-11T22:13:37.000Z"
   }
 ];
