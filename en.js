@@ -1,6 +1,150 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Delimitation will not affect southern States, says Goyal",
+    "desc": "There will be proportional increase of seats across the country due to delimitation and ‘everybody is back to where they were’, says the Union Minister of Commerce and Industry; he also defends the National Education Policy, says T.N. has failed to reach its ‘true potential’ under DMK govt.",
+    "img": "https://th-i.thgim.com/public/incoming/rvf8ao/article70859288.ece/alternates/LANDSCAPE_1200/DSC_6368.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/delimitation-will-not-affect-southern-states-says-goyal/article70857651.ece",
+    "time": "2026-04-13T21:35:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED arrests I-PAC director and co-founder",
+    "desc": "The Enforcement Directorate has arrested Vinesh Chandel, a director and co-founder of political consultancy firm I-PAC, in connection with a money-laundering probe. The investigation is linked to an alleged coal scam in West Bengal and also scrutinizes dealings between I-PAC and AAP's ex-communication advisor Vijay Nair.",
+    "img": "https://static.toiimg.com/photo/msid-130246226,imgsize-781748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-ed-arrests-i-pac-director-and-co-founder/articleshow/130246256.cms",
+    "time": "2026-04-13T21:01:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shakti recalls eve-teasing, molestation by strangers, relatives",
+    "desc": "Choreographer and dancer Shakti Mohan has opened up about facing eve-teasing and molestation while growing up, sharing how harassment was a constant part of her life. Opening up about molestation, Shakti said, “Yes. Not just once—multiple times, in different places. And not just strangers—even relatives. Ask any girl, and you’ll realise this is very common.” She further revealed that similar incidents had happened with her sisters and cousins as well.",
+    "img": "https://static.toiimg.com/photo/msid-130246097,imgsize-51848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shakti-mohan-recalls-eve-teasing-molestation-not-just-strangers-even-relatives-says-my-mother-would-worry-about-familys-reputation/articleshow/130246097.cms",
+    "time": "2026-04-13T20:59:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Seeman",
+    "desc": "Naam Tamilar Katchi chief coordinator Seeman contends that without discipline, there will be no order; he bats for an economy centred on agriculture in T.N. and plans to create government-led industries based on local resources if his party emerges victorious in the Assembly election",
+    "img": "https://th-i.thgim.com/public/incoming/lhv6uw/article70766842.ece/alternates/LANDSCAPE_1200/2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/a-true-benevolent-authoritarian-enforces-discipline-for-the-greater-good-seeman/article70766533.ece",
+    "time": "2026-04-13T20:57:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "2 Congress workers among three arrested by NIA for Malda siege",
+    "desc": "The NIA has arrested two Congress members and one ISF member in connection with the April 1 siege of judicial officers in Malda. Preliminary findings indicate a pre-planned, multi-layered conspiracy behind the incident. The arrested individuals were produced before an NIA court in Kolkata.",
+    "img": "https://static.toiimg.com/photo/msid-130246075,imgsize-1075266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-2-congress-workers-among-three-arrested-by-nia-for-malda-siege/articleshow/130246044.cms",
+    "time": "2026-04-13T20:48:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Wife reneges on divorce consent, SC steps in to end marriage",
+    "desc": "The Supreme Court dissolved a marriage and quashed a domestic violence case, citing misuse of court proceedings in a matrimonial dispute. A woman reneged on a divorce and financial settlement, later claiming her jewelry and gold were excluded to avoid tax. The court found her allegations \"highly egregious\" and emphasized strict adherence to mediation settlements.",
+    "img": "https://static.toiimg.com/photo/msid-130245970,imgsize-1140130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/wife-reneges-on-divorce-consent-sc-steps-in-to-end-marriage/articleshow/130245971.cms",
+    "time": "2026-04-13T20:41:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC refuses to junk land-for-rail jobs FIR against Lalu",
+    "desc": "The Supreme Court has refused to quash the FIR against Lalu Prasad in the land-for-jobs case. However, the court granted him exemption from appearing before the trial court and allowed him to raise the issue of sanction requirement during the trial.",
+    "img": "https://static.toiimg.com/photo/msid-130245892,imgsize-1167834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-refuses-to-junk-land-for-rail-jobs-fir-against-lalu/articleshow/130245898.cms",
+    "time": "2026-04-13T20:33:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Make draft bills public, say civil society members",
+    "desc": "Social activists, academics, and former civil servants have urged the government to publicly share draft bills on women's reservation and delimitation for wider consultation. While wholeheartedly supporting women's reservation, the group expressed concern over the \"opaque and non-consultative manner\" of their introduction in the upcoming special parliamentary session.",
+    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/make-draft-bills-public-say-civil-society-members/articleshow/130245882.cms",
+    "time": "2026-04-13T20:29:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sonia Gandhi",
+    "desc": "Sonia Gandhi has questioned the Modi government's planned delimitation, arguing it must follow a census and be politically equitable. She emphasized that states pioneering family planning and smaller states should not be disadvantaged. Gandhi also called for an OBC sub-quota for women in reservation, highlighting the need for broader discussions before proceeding with such consequential amendments.",
+    "img": "https://static.toiimg.com/photo/msid-130245838,imgsize-953801.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delimitation-must-be-preceded-by-census-sonia-gandhi/articleshow/130245801.cms",
+    "time": "2026-04-13T20:23:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC wants govt response to PIL seeking hike in MSP for grains",
+    "desc": "The Supreme Court has sought responses from the Centre and states on a PIL demanding a higher Minimum Support Price (MSP) for farmers to cover production costs and prevent suicides. Petitioners argue that current MSPs are insufficient, citing the M S Swaminathan Commission's recommendations and the impact of free ration schemes on agricultural markets.",
+    "img": "https://static.toiimg.com/photo/msid-130245874,imgsize-1286874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-wants-govt-response-to-pil-seeking-hike-in-msp-for-grains/articleshow/130245220.cms",
+    "time": "2026-04-13T19:50:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election 2026: Slow progress of infrastructure work, unemployment frustrate voters of Mayiladuthurai constituency",
+    "desc": "Be it the ₹83.03-crore underground sewerage project, the ₹29.01-crore Perunthalaivar Kamarajar Bus Stand of the Sarangapani flyover, poor planning and execution remain the common factors; the government hospital in the district headquarters lacks basic facilities",
+    "img": "https://th-i.thgim.com/public/incoming/aiafyb/article70857460.ece/alternates/LANDSCAPE_1200/TH%20TRI-53.jpg.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-election-2026-slow-progress-of-infrastructure-work-unemployment-frustrate-voters-of-mayiladuthurai-constituency/article70857015.ece",
+    "time": "2026-04-13T19:43:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Abhishek Bachchan on why he never bought an IPL team",
+    "desc": "Abhishek Bachchan has opened up about why he stayed away from investing in the Indian Premier League, despite several Bollywood celebrities owning teams in the tournament. Abhishek also explained that beyond finances, he wasn’t sure how he could contribute to the sport at the time. Speaking about cricket specifically, the actor admitted he wasn’t as familiar with the sport earlier.",
+    "img": "https://static.toiimg.com/photo/msid-130244909,imgsize-48306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-reveals-why-he-never-bought-an-ipl-team-it-was-very-expensive-im-not-someone-who-just-sits-and-waves/articleshow/130244909.cms",
+    "time": "2026-04-13T19:39:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K: Last tonga in Srinagar rolls again, 70-year-old keeps past alive",
+    "desc": "Ghulam Rasool Kumar, a 70-year-old tonga driver, has returned to Srinagar's streets after a hiatus, becoming a nostalgic spectacle for tourists and locals alike. Despite facing disruptions due to a terrorist attack, he continues to offer rides, his horse-drawn cart a poignant reminder of the city's past amidst modern traffic.",
+    "img": "https://static.toiimg.com/photo/msid-130244938,imgsize-1657780.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-last-tonga-in-srinagar-rolls-again-70-year-old-keeps-past-alive/articleshow/130244939.cms",
+    "time": "2026-04-13T19:37:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Wangchuk renews push for talks, says Ladakh 'hangs between trust and mistrust'",
+    "desc": "Environmentalist Sonam Wangchuk urged the Centre to resume dialogue on Ladakh's key issues, expressing concern over a growing trust deficit. He highlighted that over two months have passed since the last talks, allowing divisive elements to exploit the gap. Wangchuk appealed to the Prime Minister and Home Minister to take timely measures for national interest.",
+    "img": "https://static.toiimg.com/photo/msid-130244857,imgsize-833596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/wangchuk-renews-push-for-talks-says-ladakh-hangs-between-trust-and-mistrust/articleshow/130244870.cms",
+    "time": "2026-04-13T19:32:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K: Sighting of terror suspects prompts search ops in Kathua",
+    "desc": "Two armed terror suspects were reportedly spotted in Jammu and Kashmir's Kathua district, prompting extensive search operations by security forces in multiple border areas. The duo, carrying heavy backpacks, was seen moving towards the forests of Ambanall. Despite a joint cordon-and-search operation, no trace of the suspects was found.",
+    "img": "https://static.toiimg.com/photo/msid-130244803,imgsize-1105173.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-sighting-of-terror-suspects-prompts-search-ops-in-kathua/articleshow/130244795.cms",
+    "time": "2026-04-13T19:28:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: Jayalalithaa would have opposed delimitation if she were alive, says Stalin",
+    "desc": "The Chief Minister reasons she would have taken firm action and opposed issues that deprive T.N. of its rights, as when she opposed GST and NEET. He criticises the present day AIADMK, which is the main Opposition party, for not raising its voice on such issues",
+    "img": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/v6k5xl/article70858664.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-13%20at%208.42.43%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-jayalalithaa-would-have-opposed-delimitation-if-she-were-alive-says-stalin/article70858665.ece",
+    "time": "2026-04-13T19:22:01.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Resign as PM if you want to be BJP’s face in West Bengal, CM Mamata tells Modi",
     "desc": "At a public meeting in Siliguri, the Prime Minister had said all BJP candidates contesting the Assembly election were “Modi”; it was a counter to the Chief Minister’s remark that she was the candidate on all 294 seats",
     "img": "https://th-i.thgim.com/public/incoming/hbs6th/article70857864.ece/alternates/LANDSCAPE_1200/20260413248L.jpg",
@@ -270,15 +414,6 @@ const newsData_en = [
     "time": "2026-04-13T14:17:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "10 minutes that changed India forever",
-    "desc": "On April 13, 1919, Jallianwala Bagh became a scene of brutal massacre as British forces opened fire on unarmed civilians. This horrific event, fueled by oppressive colonial policies, ignited India's freedom struggle. The unhealed scar of this tragedy continues to resonate, a stark reminder of the immense cost of independence and the enduring power of collective memory.",
-    "img": "https://static.toiimg.com/photo/msid-130239404,imgsize-182128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/on-this-day-10-minutes-that-changed-india-forever-107-years-of-jallianwala-bagh-massacre/articleshow/130238838.cms",
-    "time": "2026-04-13T14:14:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Mumtaz recalls last memory of Asha Bhosle at the hospital",
     "desc": "Legendary singer Asha Bhosle was cremated with full state honours on Monday at Shivaji Park Crematorium, as the nation mourned the loss of one of its most iconic voices. The singer passed away on Sunday at the age of 92 due to multi-organ failure, leaving behind a legacy spanning over eight decades and more than 12,000 songs. Amid the outpouring of grief, veteran actor Mumtaz recalled her last memory of the singer, sharing an emotional account of her final moments.",
@@ -378,15 +513,6 @@ const newsData_en = [
     "time": "2026-04-13T12:01:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Fed biryani to Pakistani terrorists’: Amit Shah attacks Mamata Banerjee at Bengal rally",
-    "desc": "Union Home Minister Amit Shah on Monday attacked Mamata Banerjee and Congress at a rally in West Bengal, accusing them of feeding “biryani” to Pakistani terrorists instead of acting against them. He said the BJP would crack down on corruption, illegal immigration and violence if voted to power, and claimed people in the state had decided to remove the TMC government.",
-    "img": "https://static.toiimg.com/photo/msid-130234555,imgsize-29050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fed-biryani-to-pakistani-terrorists-amit-shah-attacks-mamata-banerjee-at-bengal-rally/articleshow/130234393.cms",
-    "time": "2026-04-13T11:51:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Robert Pattinson reflects on his 'strange' acting in ‘Twilight’",
     "desc": "Robert Pattinson reflects on his 'Twilight' days, admitting to a \"strange\" cafeteria scene choice he once deemed \"vampiric.\" He praises the franchise's earnestness, noting how everyone took the vampire romance seriously. Pattinson's career has since evolved, balancing indie hits with major blockbusters like 'The Batman' and upcoming projects.",
@@ -432,15 +558,6 @@ const newsData_en = [
     "time": "2026-04-13T11:20:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Who to be next Bihar CM? BJP likely to declare face for top post on Tuesday",
-    "desc": "The leadership change will mark a milestone for the BJP, which is set to get its first chief minister in Bihar, the only Hindi heartland state where the top post has so far eluded the party. Even so, party leaders have remained cautious in their public remarks. Dilip Jaiswal, a minister and former Bihar BJP president, said, \"It is an emotional moment for us. We hope that Nitish Kumar will continue to offer his guidance to the new government.\"",
-    "img": "https://static.toiimg.com/photo/msid-130234459,imgsize-63694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/who-to-be-next-bihar-cm-bjp-likely-to-declare-face-for-top-post-on-tuesday/articleshow/130234024.cms",
-    "time": "2026-04-13T10:58:50.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Actor shares emotional note for Asha Bhosle; recalls bond from ‘Mai’",
     "desc": "Padmini Kolhapure fondly remembers her experience acting alongside Asha Bhosle in the 2013 film 'Mai,' where Bhosle made her acting debut at 79, portraying Padmini's mother. Kolhapure expressed deep gratitude for their bond, calling it a cherished blessing. She also paid her final respects at Bhosle's Mumbai residence following the legendary singer's passing.",
@@ -475,42 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/noida-workers-protest-key-issues-wages-and-other-demands-top-10-things-to-know/articleshow/130233464.cms",
     "time": "2026-04-13T10:23:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'People will respond to bombs with ballots': Amit Shah in Bengal, warns 'jail' for TMC 'goons'",
-    "desc": "Union Home Minister Amit Shah intensified his attack on the TMC in West Bengal, urging voters to respond to violence with ballots and promising to bring the BJP to power. He alleged corruption and a \"mafia raj,\" vowing strict action against \"syndicate and cut-money promoters\" and illegal immigrants, while also highlighting welfare promises.",
-    "img": "https://static.toiimg.com/photo/msid-130232753,imgsize-617014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bengal-will-respond-to-bombs-with-ballots-amit-shah-in-bengal-warns-jail-for-tmc-goons/articleshow/130232510.cms",
-    "time": "2026-04-13T09:51:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Frankie Muniz crashes Malcolm-Themed Truck days after premiere",
-    "desc": "Hollywood actor Frankie Muniz, celebrating a 'Malcolm in the Middle' revival, experienced a dramatic weekend after a hard crash at a NASCAR race. His truck, branded with show graphics, was damaged in a pileup. Muniz, who is now racing full-time, engaged in a post-race argument, asserting his right to compete despite being a lapper.",
-    "img": "https://static.toiimg.com/photo/msid-130232737,imgsize-103960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/frankie-muniz-crashes-nascar-truck-days-after-malcolm-in-the-middle-revival-premiere-heres-what-happened/articleshow/130232703.cms",
-    "time": "2026-04-13T09:45:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Himanta most corrupt in country': Rahul Gandhi backs Pawan Khera as passport row escalates",
-    "desc": "Khera struck Himanta's nerve after he alleged, in a press conference, the Assam CM's wife held multiple foreign passports, prompting a sharp rebuttal and legal threat from the BJP leader. “We have documents showing that Assam chief minister Himanta Biswa Sarma’s wife Riniki Bhuyan Sharma, holds three passports. The first is a UAE Golden Card, the second an Antigua and Barbuda passport, and the third an Egyptian passport. Two of these belong to Islamic countries, yet they continue to claim religious adherence publicly,” Khera alleged.",
-    "img": "https://static.toiimg.com/photo/msid-130232448,imgsize-59948.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/himanta-most-corrupt-in-country-rahul-gandhi-backs-pawan-khera-as-passport-row-escalates/articleshow/130232042.cms",
-    "time": "2026-04-13T09:34:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Asha Bhosle introduced Bollywood to true versatility’",
-    "desc": "Legendary singer Asha Bhosle has passed away at the age of 92, leaving behind an unparalleled musical legacy. Qawali singer Salman Zaman lauded her for introducing true versatility to Bollywood, effortlessly transitioning between genres. Her demise on April 12, 2026, after a brief illness, was confirmed by her son, with state honors planned for her funeral in Mumbai.",
-    "img": "https://static.toiimg.com/photo/msid-130232398,imgsize-68368.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/asha-bhosle-passes-away-at-92-qawali-singer-salman-zaman-says-she-introduced-bollywood-to-true-versatility-exclusive/articleshow/130232415.cms",
-    "time": "2026-04-13T09:27:01.000Z"
   },
   {
     "cat": "Sports",
@@ -583,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-injury-update-will-rcb-star-be-fit-in-time-for-lsg-clash/articleshow/130226881.cms",
     "time": "2026-04-13T06:08:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What's the outlook for Nifty for April 13-April 17 week? Check list of top stock recommendations",
-    "desc": "Sona BLW Precision Forgings, and Eicher Motors have been recommended as the top stocks to buy this week by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities. He also shares outlook on Nifty and Bank Nifty:",
-    "img": "https://static.toiimg.com/photo/msid-130226645,imgsize-61906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stocks-to-buy-this-week-april-13-to-april-17-stock-recommendations-sona-blw-precision-forgings-eicher-motors/articleshow/130226534.cms",
-    "time": "2026-04-13T05:58:40.000Z"
   },
   {
     "cat": "World",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/cannes-2026-lineup-kore-eda-hamaguchi-farhadi-almodovar-to-premiere-in-competition-full-list/article70845861.ece",
     "time": "2026-04-10T05:07:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
   }
 ];
