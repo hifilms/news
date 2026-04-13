@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Hardik Pandya urges Mumbai Indians' think tank to reflect after third straight loss in IPL 2026",
+    "desc": "Mumbai Indians’ subpar form in the ongoing IPL (Indian Premier League) 2026 continued. Led by Hardik Pandya, the five-time champions kicked off their IPL 2026 campaign with a win, but they seem to have lost...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-urges-mumbai-indians-think-tank-to-reflect-after-third-straight-loss-in-ipl-2026-2026-04-13-1037317",
+    "time": "2026-04-13T02:23:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Royal Challengers Bengaluru equal Chennai Super Kings in elite list with stellar victory over Mumbai Indians",
+    "desc": "The 20th clash of the ongoing IPL (Indian Premier League) 2026 saw Royal Challengers Bengaluru take on Mumbai Indians. The two sides met at the Wankhede Stadium in Mumbai on April 12, and the game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/royal-challengers-bengaluru-equal-chennai-super-kings-in-elite-list-with-stellar-victory-over-mumbai-indians-2026-04-13-1037310",
+    "time": "2026-04-13T01:32:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Salt, Patidar and Krunal plot MI's downfall as RCB register thumping win at Wankhede",
     "desc": "Royal Challengers Bengaluru registered a stellar win over the Mumbai Indians in the 20th match of the Indian Premier League 2026 on Sunday, April 11. The defending champions produced a brilliant all-round performance and registered...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/asha-bhosle-dies-from-sachin-tendulkar-to-anil-kumble-cricket-fraternity-pays-tribute-to-legendary-singer-2026-04-12-1037278",
     "time": "2026-04-12T12:27:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Player battles to watch out for in IPL 2026 Match 20",
-    "desc": "Mumbai Indians and Royal Challengers Bengaluru will take on each other in game 20 of the ongoing IPL (Indian Premier League) 2026. The two sides will lock horns at the Wankhede Stadium in Mumbai on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-rcb-3-player-battles-to-watch-out-for-in-ipl-2026-match-20-2026-04-12-1037273",
-    "time": "2026-04-12T11:32:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ayush Shetty's dream run at Badminton Asia Championships ends with silver after loss to Shi Yu Qi in final",
-    "desc": "Rising Indian sensation Ayush Shetty settled for a silver medal at the Badminton Asia Championship after going down to reigning world champion Shi Yu Qi in the final in Ningbo on Sunday, April 12. Giant...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/ayush-shettys-dream-run-at-badminton-asia-championships-ends-with-silver-after-loss-to-shi-yu-qi-in-final-2026-04-12-1037272",
-    "time": "2026-04-12T11:04:26.000Z"
   }
 ];

@@ -1,5 +1,293 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Toy prices soar as raw material costs rise due to Gulf conflict",
+    "desc": "Parents face a pricier summer as toy costs surge due to the West Asia conflict. Rising crude oil prices are inflating raw material expenses, particularly for plastic components. Manufacturers report significant jumps in plastic resin costs, leading to potential price hikes of 10% to 40% on various toys, impacting budgets for holiday shopping.",
+    "img": "https://static.toiimg.com/photo/msid-130223022,imgsize-1488955.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/toy-prices-soar-as-raw-material-costs-rise-due-to-gulf-conflict/articleshow/130223025.cms",
+    "time": "2026-04-13T01:59:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Avengers: Doomsday' hailed as 'best Marvel film yet'",
+    "desc": "Doomsday' following rave test screenings, with some calling it the best Marvel film yet. Early reactions mirror the success of 'Infinity War'. Robert Downey Jr. returns as Doctor Doom, joined by a star-studded cast including Chris Evans and Tom Hiddleston. Exclusive footage is expected at CinemaCon 2026.",
+    "img": "https://static.toiimg.com/photo/msid-130222802,imgsize-232506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-doomsday-test-screening-audience-hail-russo-brothers-directorial-as-best-marvel-film-yet-on-par-with-avengers-infinity-war/articleshow/130222707.cms",
+    "time": "2026-04-13T01:55:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "GitHub's base in India rises to 27mn, up 2mn this year",
+    "desc": "India boasts the fastest-growing developer community on GitHub, with over 27 million users and more than two million joining since early 2026. This surge is attributed to a new wave of AI-native developers, including students and teenagers, and increased access to AI-assisted coding tools that lower entry barriers and accelerate problem-solving.",
+    "img": "https://static.toiimg.com/photo/msid-130222951,imgsize-204007.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/githubs-base-in-india-rises-to-27mn-up-2mn-this-year/articleshow/130222962.cms",
+    "time": "2026-04-13T01:54:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kohli stays off the field during MI innings, Patidar gives update",
+    "desc": "Royal Challengers Bengaluru secured a vital win against Mumbai Indians, but concern grew as Virat Kohli did not take the field with an ankle issue. Despite the scare, skipper Rajat Patidar suggested that Kohli is likely fine. Kohli's half-century, however, etched his name in history as he became the first to score 1000 runs against MI.",
+    "img": "https://static.toiimg.com/photo/msid-130222929,imgsize-53022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-big-scare-for-rcb-virat-kohli-stays-off-the-field-during-mi-innings-rajat-patidar-gives-update/articleshow/130222884.cms",
+    "time": "2026-04-13T01:50:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "TCS makes 25k fresher offers; AI push on track",
+    "desc": "TCS's headcount saw a significant drop in FY26, though the CHRO clarified that restructuring accounted for a smaller portion than initially stated. The company remains committed to hiring approximately 40,000 freshers annually and is investing in niche skills like AI, while enterprise AI adoption is driving substantial revenue growth.",
+    "img": "https://static.toiimg.com/photo/msid-130222863,imgsize-878268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/tcs-makes-25k-fresher-offers-ai-push-on-track/articleshow/130222867.cms",
+    "time": "2026-04-13T01:42:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI criticises banks' rupee arbitrage trades",
+    "desc": "A senior RBI official criticized foreign-exchange market makers for exacerbating the rupee's weakness amid West Asia tensions. He highlighted how arbitrage between local and offshore markets strained dollar liquidity during periods of foreign outflows. The RBI has recently implemented measures to curb speculation and arbitrage trades by banks.",
+    "img": "https://static.toiimg.com/photo/msid-130222797,imgsize-926050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-criticises-banks-rupee-arbitrage-trades/articleshow/130222682.cms",
+    "time": "2026-04-13T01:33:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lucy Liu reveals she is in ‘TDWP2’",
+    "desc": "Excitement is building among fans as Lucy Liu announces her surprise inclusion in 'TDWP2', the sequel to the beloved 'The Devil Wears Prada'. Keeping her role a secret until now, Liu promises a compelling transformation for her character after 20 years. Collaboration with Meryl Streep and Anne Hathaway made the experience a magical one for her.",
+    "img": "https://static.toiimg.com/photo/msid-130222660,imgsize-59898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-devil-wears-prada-2-lucy-liu-admits-mystery-role-in-the-film-talks-about-working-with-meryl-streep-anne-hathaway/articleshow/130222660.cms",
+    "time": "2026-04-13T01:32:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Vaishali crashed into the Chinese wall in Round 12",
+    "desc": "India's Vaishali Rameshbabu suffered a significant setback in the FIDE Candidates, losing to China's Zhu Jiner and relinquishing her sole lead. The Women's section is now wide open with both players tied at the top. Meanwhile, Javokhir Sindarov is on the cusp of becoming the challenger in the Open section, needing just a draw in his next match.",
+    "img": "https://static.toiimg.com/photo/msid-130222677,imgsize-148578.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-vaishali-crashed-into-the-chinese-wall-in-round-12/articleshow/130222649.cms",
+    "time": "2026-04-13T01:17:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ramayana' at CinemaCon: Film to have private showcase",
+    "desc": "Part 1' at CinemaCon 2026 in Las Vegas. Showcasing detailed character art and a global release strategy, the film promises a cinematic spectacle with cutting-edge VFX and a musical collaboration between Hans Zimmer and A.R. Rahman. Directed by Nitesh Tiwari, this mythological epic is slated for a Diwali 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-130222654,imgsize-146786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cinemacon-2026-ramayana-posters-of-ranbir-kapoors-rama-and-yashs-ravana-debut-alongside-the-odyssey-dune-3-avengers-doomsday-film-to-have-private-showcase-pics/articleshow/130222501.cms",
+    "time": "2026-04-13T01:09:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Dumont diagnosed with early-onset-Parkinsons",
+    "desc": "Tom Dumont, the talented guitarist of No Doubt, has courageously shared his battle with early-onset Parkinson's disease at the age of 58. After grappling with symptoms for some time, he has finally embraced his diagnosis. Despite this new chapter in his life, Dumont's love for music shines brightly, and he expresses unwavering optimism, declaring his ability to keep playing guitar.",
+    "img": "https://static.toiimg.com/photo/msid-130222522,imgsize-47710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/no-doubt-musician-tom-dumont-shares-parkinsons-diagnosis-with-fans-says-the-good-news-is-i-can-still-play-music/articleshow/130222522.cms",
+    "time": "2026-04-13T01:08:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Karan Aujla pays tribute to Asha Bhosle at Mumbai 2.0 concert",
+    "desc": "During a memorable concert in Mumbai on April 12, 2026, Punjabi sensation Karan Aujla paid heartfelt homage to the iconic Asha Bhosle. The night was illuminated by a tribute that showcased Bhosle's image alongside a poignant video of her performing Aujla's celebrated track 'Tauba Tauba'. Read on to know more about in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130222555,imgsize-84150.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/karan-aujla-honors-asha-bhosle-at-mumbai-2-0-concert-screens-throwback-tauba-tauba-video-during-the-show/articleshow/130222555.cms",
+    "time": "2026-04-13T01:08:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil jumps 8% to above $100 ahead of U.S. blockade on Strait of Hormuz",
+    "desc": "President Donald Trump said on Sunday (April 12, 2026) the U.S. Navy would start blockading the Strait of Hormuz, ​raising the stakes after marathon talks with ‌Iran failed to reach a deal to end the war",
+    "img": "https://th-i.thgim.com/public/incoming/wme2q1/article70856034.ece/alternates/LANDSCAPE_1200/2026-03-24T161626Z_543346605_RC24BKAFWIVW_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/oil-prices-brent-crude-strait-of-hormuz-iran-blockade-april-13-2026/article70856028.ece",
+    "time": "2026-04-13T01:05:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Justin Bieber gives nostalgia-fuelled performance at Coachella",
+    "desc": "Justin Bieber set Coachella ablaze with a heartwarming showcase, celebrating his return to the stage after a lengthy hiatus due to health challenges. Delighting the audience, he took them on a nostalgic ride through his greatest hits while paying homage to his roots as a YouTube sensation.",
+    "img": "https://static.toiimg.com/photo/msid-130222623,imgsize-128528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/justin-biebers-coachella-performance-marks-his-biggest-live-show-in-4-years-delivers-nostalgia-fuelled-comeback/articleshow/130222623.cms",
+    "time": "2026-04-13T01:05:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "AI boom drives global VC funding to record $300bn",
+    "desc": "Global venture funding surged to a record $300 billion in Q1, largely propelled by AI deals, with four companies securing a significant portion. While early-stage funding shows growth, India's market lags in late-stage recovery, with capital remaining constrained and selective, particularly for AI ventures.",
+    "img": "https://static.toiimg.com/photo/msid-130222610,imgsize-997922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-boom-drives-global-vc-funding-to-record-300bn/articleshow/130222606.cms",
+    "time": "2026-04-13T01:04:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Britney Spears enters a rehab facility",
+    "desc": "In light of a recent DUI incident, pop superstar Britney Spears has chosen to seek help by enrolling in a rehabilitation program. This decision, made a month after her California arrest, signals her dedication to healing and addressing her challenges head-on. Her attorneys reiterated her determination to improve, highlighting the unwavering support she receives from family, especially her sons.",
+    "img": "https://static.toiimg.com/photo/msid-130222513,imgsize-67118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/did-britney-spears-check-into-rehab-heres-what-we-know-about-it/articleshow/130222513.cms",
+    "time": "2026-04-13T00:44:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Shivraj Singh Chouhan named observer, BJP starts process to form Bihar govt",
+    "desc": "As Nitish Kumar prepares to resign as Bihar CM on April 14, the BJP has appointed Shivraj Singh Chouhan as its central observer for electing the new leader of its Bihar legislature party. Samrat Choudhary is reportedly the frontrunner for the chief minister's post, with the oath-taking ceremony expected on April 15.",
+    "img": "https://static.toiimg.com/photo/msid-130222463,imgsize-30832.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/shivraj-singh-chouhan-named-observer-bjp-starts-process-to-form-bihar-govt/articleshow/130222465.cms",
+    "time": "2026-04-13T00:32:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' now first Hindi film to cross Rs 1,700 cr",
+    "desc": "Dhurandhar 2 has achieved a remarkable Rs 1,712.98 crore worldwide in just 25 days, becoming the first Bollywood film to hit Rs 1,700 crore in Phase 1 without a Gulf release. Despite a dip after its strong opening, the spy-action flick's primary Hindi market drove its impressive India net collection of Rs 1,083.67 crore.",
+    "img": "https://static.toiimg.com/photo/msid-130222437,imgsize-56052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-25-ranveer-singh-sara-arjun-rajesh-bedi-arjun-rampal-starrer-becomes-first-hindi-film-to-cross-rs-1700-crore-mark-chases-pushpa-2-and-baahubali-2-record/articleshow/130222386.cms",
+    "time": "2026-04-13T00:29:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'With Umrao Jaan, she gave Lucknow a permanence'",
+    "desc": "Asha Bhosle's voice transcended mere singing, embodying a profound presence that immortalized moments. For 'Umrao Jaan,' she didn't just perform; she underwent a reckoning, channeling the essence of a bygone era of restraint and unspoken longing.",
+    "img": "https://static.toiimg.com/photo/msid-130222350,imgsize-876127.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/asha-bhosle-passes-away-with-umrao-jaan-she-gave-lucknow-a-permanence/articleshow/130222351.cms",
+    "time": "2026-04-12T23:49:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Before women's quota bill session, PM Modi steps up direct outreach",
+    "desc": "Prime Minister Narendra Modi is engaging with prominent women achievers to garner support for the women's quota bill, slated for parliamentary discussion on April 16. The legislation, aiming for implementation from the 2029 elections, reserves one-third of seats for women in Lok Sabha and assemblies. This direct outreach seeks to build public backing amidst opposition concerns regarding the delimitation process.",
+    "img": "https://static.toiimg.com/photo/msid-130222345,imgsize-516791.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/before-womens-quota-bill-session-pm-modi-steps-up-direct-outreach/articleshow/130222346.cms",
+    "time": "2026-04-12T23:42:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kim Kardashian-Lewis Hamilton spotted at Coachella",
+    "desc": "Kim Kardashian and Lewis Hamilton made a public display of affection at Justin Bieber's Coachella performance, arriving hand-in-hand. Twinning in black, the couple, accompanied by Kim's daughter North West, seemed to be enjoying a private moment amidst the festival's buzz. This outing follows Hamilton's break from Formula One and previous family outings with Kim and her children.",
+    "img": "https://static.toiimg.com/photo/msid-130222303,imgsize-73748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kim-kardashian-and-lewis-hamilton-take-romance-to-coachella-hold-hands-as-they-attend-justin-biebers-gig-watch/articleshow/130222267.cms",
+    "time": "2026-04-12T23:32:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Drama at Wankhede! RCB's Tim David refuses to return ball; umpire annoyed",
+    "desc": "Tim David's playful ball-handling after a powerful six briefly irked an umpire during RCB's IPL clash against Mumbai Indians. Despite the minor delay, the incident ended with laughter, including Rohit Sharma joining in. Earlier, RCB posted a formidable 240/4, thanks to half-centuries from Salt, Kohli, and Patidar, ultimately winning the match by 18 runs.",
+    "img": "https://static.toiimg.com/photo/msid-130217709,imgsize-35922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/drama-at-wankhede-rcb-star-tim-david-refuses-to-return-ball-umpire-annoyed-watch/articleshow/130217324.cms",
+    "time": "2026-04-12T23:31:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah struggles for breakthroughs, records longest wicketless streak",
+    "desc": "Jasprit Bumrah is experiencing a rare wicketless streak in IPL 2026, going five matches without a wicket, his longest dry spell. Despite a respectable economy rate, the Mumbai Indians spearhead has conceded 123 runs in 15 overs. This unusual phase contrasts with his career record of 183 wickets in 149 matches.",
+    "img": "https://static.toiimg.com/photo/msid-130211840,imgsize-45738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/whats-wrong-with-jasprit-bumrah-shocking-ipl-numbers-0-wickets-in-5-matches/articleshow/130211833.cms",
+    "time": "2026-04-12T23:25:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cabaret to global pop, Asha lived 'crossover' before it was buzzword",
+    "desc": "Asha Bhosle transcended eras, absorbing global music trends and blending them with Indian classical training. She fearlessly explored genres like jazz, rock, and pop, collaborating with international artists and becoming a cultural icon. Her innovative spirit led to groundbreaking projects, earning her a Grammy nomination and cementing her legacy as a truly versatile vocalist.",
+    "img": "https://static.toiimg.com/photo/msid-130222240,imgsize-792169.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cabaret-to-global-pop-asha-bhosle-lived-crossover-before-it-was-buzzword/articleshow/130222242.cms",
+    "time": "2026-04-12T22:50:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka Chopra remembers Asha Bhosle in touching tribute",
+    "desc": "Priyanka Chopra has shared a heartfelt tribute to the legendary playback singer Asha Bhosle, who passed away on Sunday. Chopra described Bhosle's voice as a constant in the lives of many, shaping the emotional landscape of India. The actress's tribute highlights Bhosle's profound impact on music and memories. Meanwhile, Chopra is currently filming her upcoming action-adventure film 'Varanasi'.",
+    "img": "https://static.toiimg.com/photo/msid-130222243,imgsize-80116.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-mourns-asha-bhosles-demise-says-singing-legend-was-one-of-the-greatest-gifts-music-has-ever-known/articleshow/130222229.cms",
+    "time": "2026-04-12T22:47:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli loses cool, throws helmet and gloves after dismissal vs Mumbai Indians",
+    "desc": "Virat Kohli anchored Royal Challengers Bengaluru's formidable 240/4 with a composed 50, complemented by Phil Salt's explosive 78 and Rajat Patidar's quickfire 53. Despite a spirited chase from Mumbai Indians, RCB secured a 18-run victory, with Suyash Sharma's crucial wickets proving decisive. Kohli's visible frustration after his dismissal also became a talking point.",
+    "img": "https://static.toiimg.com/photo/msid-130219000,imgsize-54340.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-loses-cool-throws-helmet-and-gloves-after-dismissal-vs-mumbai-indians/articleshow/130218894.cms",
+    "time": "2026-04-12T22:41:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "War in Gulf, layoffs hit discretionary spends",
+    "desc": "Consumers are cutting back on discretionary spending, prioritizing essentials and value purchases due to war-driven uncertainty and layoffs. This shift is leading to slower sales for non-essential items, with companies focusing on value packs and smaller formats to maintain accessibility amidst rising costs and a cautious job market.",
+    "img": "https://static.toiimg.com/photo/msid-130222215,imgsize-956543.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/war-in-gulf-layoffs-hit-discretionary-spends/articleshow/130220756.cms",
+    "time": "2026-04-12T22:31:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Katy-Justin turn Coachella into a date night",
+    "desc": "Pop sensation Katy Perry and former Canadian Prime Minister Justin Trudeau enjoyed a romantic date night at Coachella, seen holding hands and sharing affectionate moments. Perry shared glimpses of their casual outing on Instagram, including a humorous jab at Justin Bieber's performance.",
+    "img": "https://static.toiimg.com/photo/msid-130220802,imgsize-139724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/katy-perry-and-beau-justin-trudeau-turn-coachella-into-a-date-night-joke-about-justin-biebers-youtube-style-set-watch/articleshow/130220555.cms",
+    "time": "2026-04-12T22:23:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Super Mario Galaxy' crowned highest-grossing film of 2026",
+    "desc": "The Super Mario Galaxy Movie continues its impressive box office run, raking in USD 69 million in its second weekend to surpass USD 308 million domestically. Despite a slight dip, the film is a massive hit.",
+    "img": "https://static.toiimg.com/photo/msid-130220758,imgsize-121160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/the-super-mario-galaxy-movie-emerges-as-highest-grossing-hollywood-film-of-2026-with-usd-629-million-haul-dhurandhar-2-slips-out-of-top-10-list-at-north-american-box-office/articleshow/130220558.cms",
+    "time": "2026-04-12T21:44:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "I do not see the Assembly election in Tamil Nadu as a close contest, says CM Stalin",
+    "desc": "The contest is essentially between the DMK-led front and the AIADMK-led alliance. Our achievements and electoral promises have captured the imagination of the people. The outcome will disprove the notion that the DMK cannot win two consecutive elections, says the DMK president",
+    "img": "https://th-i.thgim.com/public/incoming/lffypv/article70827463.ece/alternates/LANDSCAPE_1200/9864_5_4_2026_19_9_18_2_IMG_20260405_190209.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/i-do-not-see-the-assembly-election-intamil-nadu-as-a-close-contest-says-cm-stalin/article70827163.ece",
+    "time": "2026-04-12T21:35:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "the voice that defied genres, time",
+    "desc": "Asha’s voice felt like a friend, a co-conspirator, or a mirror — someone who had been through the messiness of life and still chose to sing, dance, and seduce with full-throated joy; the most-recorded artist will be remembered for her fearless spirit, versatility, and playful charm",
+    "img": "https://th-i.thgim.com/public/incoming/gzswu0/article70855187.ece/alternates/LANDSCAPE_1200/54_METRO_LIVING_LEGEND_ASHA_BH",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/asha-bhosle-legendary-singer-death-obituary/article70854485.ece",
+    "time": "2026-04-12T21:31:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chandra Bose joins TMC, attacks BJP",
+    "desc": "Subhas Chandra Bose's grandnephew, Chandra Bose, has joined the TMC after quitting the BJP, criticizing the latter's \"blatantly communal and anti-Constitution\" policies. He accused the BJP of using the religion card for electoral gains, a tactic he likened to British colonial rule. Bose declared it's time to drive out the BJP, just as India did the British.",
+    "img": "https://static.toiimg.com/photo/msid-130220569,imgsize-1269202.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-chandra-bose-joins-tmc-attacks-bjp/articleshow/130220571.cms",
+    "time": "2026-04-12T21:22:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How actively does Chennai vote? A look at the trends",
+    "desc": "In 2011, a year of higher participation across the State, the city recorded 67.47%, still some distance from the State average. However, that momentum did not carry forward. In the elections that followed, the turnout dropped, and has since remained largely unchanged, staying in the range of 61%-62%",
+    "img": "https://th-i.thgim.com/public/incoming/515xvi/article70854785.ece/alternates/LANDSCAPE_1200/2782_6_4_2021_17_9_36_3_ASSEMBLYELECTIONPOLLINGVOTERIDCARD.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/how-actively-does-chennai-vote-during-elections-a-look-at-the-trends/article70854199.ece",
+    "time": "2026-04-12T21:09:40.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "4 days after Bengal roll freeze, tribunals to start hearings today",
     "desc": "Kolkata's 19 appellate tribunals will commence hearing elector inclusion/exclusion appeals on Monday, following the freezing of the electoral roll for Bengal's second-phase assembly polls. These tribunals, established after a Supreme Court order, will address grievances for over 27 lakh names excluded from supplementary lists.",
@@ -7,6 +295,24 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/4-days-after-bengal-roll-freeze-tribunals-to-start-hearings-today/articleshow/130220526.cms",
     "time": "2026-04-12T21:08:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election 2026: Naam Tamilar Katchi’s transgender candidate Roshini vows to make Villivakkam a model constituency",
+    "desc": "She says the prevention of drug abuse among youngsters and ensuring women’s welfare will be her first priority if elected; there are plans to create playgrounds and fine arts centres to revive vanishing art forms; both the Dravidian majors have neglected issues for several decades, she adds",
+    "img": "https://th-i.thgim.com/public/incoming/gtrmja/article70851530.ece/alternates/LANDSCAPE_1200/1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/ntkstransgender-candidate-vows-to-makevillivakkama-model-constituency/article70851055.ece",
+    "time": "2026-04-12T21:04:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "State Home Secretary appoints Durai Kumar as DVAC in-charge after ECI reshuffle",
+    "desc": "Citing the officer’s past social media posts hailing the RSS and criticising the Left, and certain accusations of corruption against him, DMK sought reconsideration of the EC’s direction to appoint Mr. Mittal to the sensitive post",
+    "img": "https://th-i.thgim.com/public/incoming/tt8dsf/article70852186.ece/alternates/LANDSCAPE_1200/1559_14_3_2026_12_53_50_2_HINDUBOOK.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/home-secretary-appoints-durai-kumar-as-dvac-in-charge-following-election-commission-reshuffle/article70852124.ece",
+    "time": "2026-04-12T21:03:28.000Z"
   },
   {
     "cat": "Politics",
@@ -91,15 +397,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "How actively does Chennai vote? A look at the trends",
-    "desc": "In 2011, a year of higher participation across the State, the city recorded 67.47%, still some distance from the State average. However, that momentum did not carry forward. In the elections that followed, the turnout dropped, and has since remained largely unchanged, staying in the range of 61%-62%",
-    "img": "https://th-i.thgim.com/public/incoming/515xvi/article70854785.ece/alternates/LANDSCAPE_1200/2782_6_4_2021_17_9_36_3_ASSEMBLYELECTIONPOLLINGVOTERIDCARD.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/how-actively-does-chennai-vote-a-look-at-the-trends/article70854199.ece",
-    "time": "2026-04-12T19:35:24.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "People across Tamil Nadu want a change, there is anti-incumbency: AIADMK leader-candidate D. Jayakumar",
     "desc": "Former Minister D. Jayakumar says every party in the alliance has its own ideology, but the AIADMK will not be influenced by them. Confident of a win because of the party’s strong voter base and coalition votes, the Royapuram candidate promises to develop infrastructure and fulfil the people’s needs",
     "img": "https://th-i.thgim.com/public/incoming/z2ehtl/article70855231.ece/alternates/LANDSCAPE_1200/DSC_7132.JPG",
@@ -172,6 +469,15 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "the Sriharan vacuum",
+    "desc": "The Sattankulam trial judge accepted the Sriharan bar in his sentencing order and was forced to the rope; even ordinary life imprisonment, the judge wrote, would let the convicts come out in fourteen years through determined effort",
+    "img": "https://th-i.thgim.com/public/incoming/g1qmp8/article70855118.ece/alternates/LANDSCAPE_1200/IMG_bl05_Gavel_2_1_SHEFAE7A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/between-14-years-and-the-gallows-the-sriharan-vacuum/article70855119.ece",
+    "time": "2026-04-12T19:03:38.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Kumarapalayam seeks flyover, curbs on effluent discharge into Cauvery, more bus services and resettlement of the flood affected",
     "desc": "Incumbent P. Thangamani seeks a fourth consecutive term from the Assembly segment known for its power looms and spinning mills but plagued by water contamination, dearth of bus services and traffic congestions; challengers from DMK, TVK and NTK complete the four-cornered fight for the seat",
     "img": "https://th-i.thgim.com/public/incoming/4pq2hw/article70854393.ece/alternates/LANDSCAPE_1200/9868_12_4_2026_16_16_49_1_RAILWAYGATE_2.JPEG",
@@ -207,13 +513,22 @@ const newsData_en = [
     "time": "2026-04-12T18:41:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "the voice that defied genres, time",
-    "desc": "Asha’s voice felt like a friend, a co-conspirator, or a mirror — someone who had been through the messiness of life and still chose to sing, dance, and seduce with full-throated joy; the most-recorded artist will be remembered for her fearless spirit, versatility, and playful charm",
-    "img": "https://th-i.thgim.com/public/incoming/gzswu0/article70855187.ece/alternates/LANDSCAPE_1200/54_METRO_LIVING_LEGEND_ASHA_BH",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/asha-bhosle-legendary-singer-death-obituary/article70854485.ece",
-    "time": "2026-04-12T18:22:25.000Z"
+    "cat": "Politics",
+    "title": "First batch of BrahMos made in Lucknow delivered to Army; national security is collective duty of every citizen, not just forces: Rajnath",
+    "desc": "Defence Minister Rajnath Singh announced India's strides towards defence self-reliance, with BrahMos missile manufacturing commencing in Lucknow and the first batch delivered to the Army. He highlighted record domestic defence production of Rs 1.5 lakh crore and exports reaching Rs 38,424 crore for FY 2025-26. Singh emphasized national security as a collective citizen duty, urging active participation beyond defence forces.",
+    "img": "https://static.toiimg.com/photo/msid-130222206,imgsize-1048085.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/first-batch-of-brahmos-made-in-lucknow-delivered-to-army-rajnath/articleshow/130216848.cms",
+    "time": "2026-04-12T18:16:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mazagon Dock acquires controlling stake in Colombo dockyard for $26.8 m, move will help counter China's control of Lanka port",
+    "desc": "India's Mazagon Dock Shipbuilders Ltd (MDL) has acquired a 51% stake in Sri Lanka's Colombo Dockyard PLC for approximately Rs 249.5 crore. This strategic move aims to counter China's maritime influence in the region and strengthens India-Sri Lanka maritime cooperation. The acquisition is expected to boost CDPLC's revenue and profits.",
+    "img": "https://static.toiimg.com/photo/msid-130222211,imgsize-611127.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mazagon-dock-acquires-controlling-stake-in-colombo-dockyard-for-26-8-mn/articleshow/130216767.cms",
+    "time": "2026-04-12T18:15:16.000Z"
   },
   {
     "cat": "Entertainment",
@@ -225,15 +540,6 @@ const newsData_en = [
     "time": "2026-04-12T18:05:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Naam Tamilar Katchi’s transgender candidate Roshini vows to make Villivakkam a model constituency",
-    "desc": "She says the prevention of drug abuse among youngsters and ensuring women’s welfare will be her first priority if elected; there are plans to create playgrounds and fine arts centres to revive vanishing art forms; both the Dravidian majors have neglected issues for several decades, she adds",
-    "img": "https://th-i.thgim.com/public/incoming/gtrmja/article70851530.ece/alternates/LANDSCAPE_1200/1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/ntkstransgender-candidate-vows-to-makevillivakkama-model-constituency/article70851055.ece",
-    "time": "2026-04-12T18:04:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Arjun Tendulkar's sister Sara, wife Saania in stands for LSG vs GT clash",
     "desc": "Arjun Tendulkar's wife Saaniya Chandhok and sister Sara Tendulkar were seen cheering for Lucknow Super Giants at the Ekana Stadium. Arjun, part of the LSG squad, did not play in the match against Gujarat Titans. GT captain Shubman Gill won the toss and chose to bowl first, while LSG captain Rishabh Pant confirmed an unchanged playing XI.",
@@ -241,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/arjun-tendulkars-sister-sara-tendulkar-wife-saania-chandhok-in-stands-for-lsg-vs-gt-clash/articleshow/130207317.cms",
     "time": "2026-04-12T17:49:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "DMK Minister-candidate Geetha Jeevan",
-    "desc": "Tamil Nadu Social Welfare Minister P. Geetha Jeevan says number of cases registered, chargesheets filed, and convictions secured have increased; highlighting steps taken to ensure fresh eggs for noon day meals, she promises efforts to ease traffic woes, boost healthcare and create more jobs in Thoothukudi",
-    "img": "https://th-i.thgim.com/public/incoming/s6f1wt/article70852069.ece/alternates/LANDSCAPE_1200/9865_11_4_2026_16_0_15_1_DSC_9653.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/we-have-created-a-safe-environment-that-encourages-women-to-speak-up-dmk-minister-geetha-jeevan-interview/article70850521.ece",
-    "time": "2026-04-12T17:44:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -279,24 +576,6 @@ const newsData_en = [
     "time": "2026-04-12T17:34:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP issues whip for MPs ahead of special Parliament session",
-    "desc": "In a message to all of its MPs, the BJP said, \"A Three-Line Whip being issued to all BJP Members in the Lok Sabha and Rajya Sabha from Thursday to Saturday, 16th to 18th April 2026.\"",
-    "img": "https://th-i.thgim.com/public/incoming/noexcg/article70853979.ece/alternates/LANDSCAPE_1200/PTI12_09_2025_000051A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bjp-issues-whip-for-mps-ahead-of-special-parliament-session/article70853970.ece",
-    "time": "2026-04-12T17:24:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Asha ji used to hold my hand to help reach mic’",
-    "desc": "Music composer Lalit Pandit mourns the passing of legendary singer Asha Bhosle at 92, remembering her immense talent and versatility. He shared cherished childhood memories of singing with her and highlighted her significant contributions to their compositions, expressing gratitude for the opportunity to have worked with such an artist who was like family.",
-    "img": "https://static.toiimg.com/photo/msid-130211630,imgsize-63634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/lalit-pandit-on-early-days-with-asha-bhosle-she-used-to-hold-my-hand-to-help-me-stand-on-table-to-reach-mic-exclusive/articleshow/130211649.cms",
-    "time": "2026-04-12T16:57:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026, LSG vs GT: Prasidh, Gill-Buttler duo steer GT to victory over LSG",
     "desc": "It was a double blow for GT as Buttler departed an over later while trying to hit a slower delivery from Mohammed Shami out of the park, brilliantly caught by Aiden Markram at long-on boundary",
@@ -304,24 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-lsg-vs-gt-match-updates/article70853963.ece",
     "time": "2026-04-12T16:29:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman ‘heartbroken’, Aamir says ‘end of an era’",
-    "desc": "As the industry mourns the loss of legendary singer Asha Bhosle, Salman Khan expressed grief, calling her passing a huge loss for Indian music. Aamir Khan also paid tribute, describing her demise as a moment of collective loss. Asha Bhosle passed away on Sunday at the age of 92 due to multi-organ failure. According to the family, her mortal remains will be kept for public homage at Casa Grande, Lower Parel, at 11 am, with final rites scheduled at Shivaji Park later in the day.",
-    "img": "https://static.toiimg.com/photo/msid-130210987,imgsize-45646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/asha-bhosle-passes-away-at-92-salman-khan-heartbroken-over-huge-loss-aamir-khan-says-its-the-end-of-an-era/articleshow/130210987.cms",
-    "time": "2026-04-12T16:19:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mamata Banerjee alleges BJP 'threatening' TMC candidates to manage majority",
-    "desc": "West Bengal Chief Minister Mamata Banerjee accused the BJP of threatening TMC candidates and ministers to secure support if they fall short of a majority. She also alleged a BJP plan to trifurcate West Bengal by merging parts with Bihar or Odisha, causing hardship for Bengali residents.",
-    "img": "https://static.toiimg.com/photo/msid-130210957,imgsize-752174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-mamata-banerjee-alleges-bjp-threatening-tmc-candidates-to-manage-majority/articleshow/130210956.cms",
-    "time": "2026-04-12T16:14:15.000Z"
   },
   {
     "cat": "World",
@@ -333,15 +594,6 @@ const newsData_en = [
     "time": "2026-04-12T16:05:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Asha Bhosle looked terribly weak at Arjun Tendulkar's wedding'",
-    "desc": "Legendary singer Asha Bhosle shared a long-standing professional and personal bond with veteran actress Saira Banu, delivering memorable songs like Main Chali, Zindagi Ittefaq Hai, Tujhko Dekh Kar and Mohe Tirchhi Najariya Na Maro. Over the years, their association grew beyond cinema into a warm friendship. Saira also spoke about the deep-rooted bond their families shared, especially through Lata Mangeshkar and her husband Dilip Kumar.",
-    "img": "https://static.toiimg.com/photo/msid-130210708,imgsize-59906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/asha-bhosle-looked-terribly-weak-at-arjun-tendulkars-wedding-saira-banu-recalls-last-conversation-asha-ji-loved-food-lata-ji-fed-dilip-saab/articleshow/130210708.cms",
-    "time": "2026-04-12T15:59:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'If we catch them... ': Trump threatens China with 50% tariff if it helps Iran militarily as talks in Pak fail",
     "desc": "President Trump has issued a stern warning to China, threatening a \"staggering\" 50% tariff if Beijing aids Iran militarily. He expressed confidence Iran would yield to US demands, asserting that tough rhetoric brought them to the negotiating table. Trump also detailed plans to blockade the Strait of Hormuz and warned of severe retaliation against any Iranian aggression.",
@@ -351,24 +603,6 @@ const newsData_en = [
     "time": "2026-04-12T15:57:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Ashaji's songs helped me find my own voice’",
-    "desc": "Legendary playback singer Asha Bhosle passed away on Sunday, April 12, 2026, leaving a void in the music industry. Known for her immense versatility and dedication, Bhosle inspired generations with her vast repertoire of songs. Aspiring artists like Shreya Sharma found their voice through her music, a testament to her enduring legacy.",
-    "img": "https://static.toiimg.com/photo/msid-130210646,imgsize-100200.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/prada-fame-singer-shreya-sharma-on-asha-bhosles-legacy-her-songs-helped-me-find-my-own-voice-exclusive/articleshow/130210562.cms",
-    "time": "2026-04-12T15:46:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TMC supports 'tukde-tukde gang' to cut Siliguri Corridor: PM Modi in Bengal rally",
-    "desc": "Prime Minister Modi alleged a 'tukde-tukde gang' threatened to sever the Siliguri Corridor, accusing the TMC of supporting them. He criticized the TMC's appeasement politics, claiming it caused suffering and stalled development, including vital infrastructure projects. Modi promised a special package for North Bengal and urged voters to support the BJP for security and jobs.",
-    "img": "https://static.toiimg.com/photo/msid-130210639,imgsize-66526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tmc-supports-tukde-tukde-gang-to-cut-siliguri-corridor-pm-modi-in-bengal-rally/articleshow/130210618.cms",
-    "time": "2026-04-12T15:43:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Record alert! Virat Kohli eclipses Babar Azam",
     "desc": "Virat Kohli and Phil Salt's explosive 120-run opening partnership powered Royal Challengers Bengaluru to a strong start against Mumbai Indians. Salt's rapid 78 set the tone, while Kohli's 50 marked his 47th T20 century partnership, the most in the format. This stand laid a crucial foundation for RCB's innings.",
@@ -376,24 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-record-alert-virat-kohli-eclipses-babar-azam-in-t20s/articleshow/130210555.cms",
     "time": "2026-04-12T15:40:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka Congress leaders seek cabinet reshuffle; first-time MLAs push for representation",
-    "desc": "Senior and first-time Karnataka Congress MLAs are in New Delhi pushing for a cabinet reshuffle. They aim to secure ministerial berths for experienced leaders and new legislators. The delegation plans to meet party high command to press their demands. This move comes amid ongoing discussions about leadership changes within the state government.",
-    "img": "https://static.toiimg.com/photo/msid-130210504,imgsize-832447.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/karnataka-congress-leaders-seek-cabinet-reshuffle-first-time-mlas-push-for-representation/articleshow/130210483.cms",
-    "time": "2026-04-12T15:36:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Asha Bhosle's mortal remains brought home: Celebs arrive to pay respect",
-    "desc": "Legendary singer Asha Bhosle passed away on Sunday, April 12, at Breach Candy hospital in Mumbai. Her son announced her demise, with final respects to be paid at her residence and cremation scheduled for the following day. Celebrities and the Chief Minister have begun paying tribute to the iconic artist.",
-    "img": "https://static.toiimg.com/photo/msid-130210315,imgsize-66446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/asha-bhosles-mortal-remains-brought-to-her-home-in-lower-parel-cm-devendra-fadnavis-pays-last-respects-vidya-balan-shabana-azmi-javed-akhtar-visit-pics-inside/articleshow/130210291.cms",
-    "time": "2026-04-12T15:24:01.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +630,6 @@ const newsData_en = [
     "time": "2026-04-12T14:52:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Looking at Asha Bhosle's legendary family tree",
-    "desc": "Indian music icon Asha Bhosle has passed away at 92 after a distinguished career spanning over seven decades. Hospitalized for cardiac and respiratory issues, her death marks the end of an era. Known for her versatility and numerous hit songs, Bhosle's life was deeply intertwined with her musical family, including sister Lata Mangeshkar, and her marriage to R.D. Burman.",
-    "img": "https://static.toiimg.com/photo/msid-130206664,imgsize-66812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/asha-bhosle-dies-at-92-looking-at-her-legendary-family-tree-from-deenanath-mangeshkar-to-granddaughter-zanai-bhosle/articleshow/130206664.cms",
-    "time": "2026-04-12T14:49:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rajasthan Royals’ unbeaten Guwahati run celebrated as ACA honours unsung heroes",
     "desc": "The Assam Cricket Association has rewarded its ground staff with ₹25 lakh for their exceptional work in hosting three IPL matches. Despite challenging weather, the team ensured high-quality pitches, contributing to Rajasthan Royals' perfect home record and the venue's national reputation. Their dedication was crucial for the seamless execution of all fixtures.",
@@ -432,15 +639,6 @@ const newsData_en = [
     "time": "2026-04-12T14:49:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Some losses feel like losing a piece of your childhood,' Priyanka on Asha Bhosle's demise",
-    "desc": "Legendary singer Asha Bhosle has passed away in Mumbai at the age of 92 due to a chest infection and respiratory issues. Her unparalleled legacy spans over eight decades, leaving an indelible mark on Indian music.",
-    "img": "https://static.toiimg.com/photo/msid-130209945,imgsize-41922.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/some-losses-feel-like-losing-a-piece-of-your-childhood-says-priyanka-chopra-as-she-mourns-asha-bhosles-demise/articleshow/130209817.cms",
-    "time": "2026-04-12T14:43:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shubman Gill creates history, breaks Virat Kohli's record to become ...",
     "desc": "Shubman Gill's fluent half-century and Jos Buttler's explosive finishing guided Gujarat Titans to a seven-wicket victory over Lucknow Super Giants. Gill also achieved a significant milestone, becoming the youngest player to reach 4,000 IPL runs. The win propels GT to fifth in the standings.",
@@ -448,33 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-shubman-gill-scripts-history-breaks-virat-kohlis-record-to-become-/articleshow/130209919.cms",
     "time": "2026-04-12T14:40:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Virat Kohli, Anushka Sharma pay tribute to Asha Bhosle",
-    "desc": "As the nation mourns the loss of legendary singer Asha Bhosle, heartfelt tributes continue to pour in from across the country. Joining the many voices remembering her were star couple Virat Kohli and Anushka Sharma, who took to social media to express their condolences. Asha Bhosle breathed her last on Sunday at the age of 92. Dr Prateet Samdani from Breach Candy Hospital confirmed that the veteran singer had been dealing with multiple health issues and passed away due to organ failure.",
-    "img": "https://static.toiimg.com/photo/msid-130209662,imgsize-57944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/asha-bhosle-passes-away-virat-kohli-anushka-sharma-pay-tribute-to-the-legendary-singer-your-voice-will-live-on-forever/articleshow/130209662.cms",
-    "time": "2026-04-12T14:31:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mukesh Khanna expresses shock as Samay Raina announces IGL 2",
-    "desc": "Comedian Samay Raina recently addressed the controversy surrounding his show India’s Got Latent during his special Still Alive on April 7, also announcing a second season. However, actor Mukesh Khanna has strongly reacted to the development, reiterating his disapproval. Referring to the earlier backlash involving YouTuber Ranveer Allahbadia, Mukesh expressed disbelief over the comeback plans. When asked if he would be open to a conversation with Samay, Mukesh dismissed the idea, taking a sharp dig at the comedian’s remarks about Shaktimaan.",
-    "img": "https://static.toiimg.com/photo/msid-130209272,imgsize-39786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mukesh-khanna-expresses-shock-as-samay-raina-announces-indias-got-latent-2-nahi-aane-dena-chahiye-poora-desh-khada-ho-jayega/articleshow/130209272.cms",
-    "time": "2026-04-12T13:59:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Athiya gets trolled for using Lata Mangeshkar's PIC instead of Asha Bhosle",
-    "desc": "Veteran singer Asha Bhosle has passed away in Mumbai due to multi-organ failure. Meanwhile, actress Athiya Shetty faced backlash for mistakenly posting a photo of Lata Mangeshkar while attempting to pay tribute to Bhosle, later deleting the tribute after widespread criticism.",
-    "img": "https://static.toiimg.com/photo/msid-130209045,imgsize-42388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/athiya-shetty-gets-trolled-for-using-lata-mangeshkars-picture-while-paying-tribute-to-asha-bhosle-can-someone-tell-her/articleshow/130208594.cms",
-    "time": "2026-04-12T13:40:35.000Z"
   },
   {
     "cat": "Sports",
@@ -522,15 +693,6 @@ const newsData_en = [
     "time": "2026-04-12T12:33:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Asha Bhosle's last appearance was at Arjun's wedding, Sachin Tendulkar mourns her demise",
-    "desc": "Legendary singer Asha Bhosle passed away at 92 in Mumbai on Sunday morning after being admitted to Breach Candy Hospital with cardiac and respiratory complications. Her last public appearance was at Arjun Tendulkar's wedding on March 5, 2026. Sachin Tendulkar expressed his grief, calling her 'family' and highlighting her timeless musical legacy.",
-    "img": "https://static.toiimg.com/photo/msid-130207754,imgsize-40366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/asha-bhosles-last-public-appearance-was-at-arjun-tendulkars-wedding-sachin-tendulkar-mourns-her-demise-she-was-family/articleshow/130207419.cms",
-    "time": "2026-04-12T12:12:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ayush Shetty's dream run ends; loses to Shi Yu Qi in Badminton Asia Championships final",
     "desc": "Young Indian shuttler Ayush Shetty reached the Badminton Asia Championships final, becoming the first Indian in 61 years to do so. Despite a loss to China's Shi Yu Qi in the final, Shetty's impressive run included victories over three top-10 players, notably stunning Paris 2024 silver medallist Kunlavut Vitidsarn in the semifinals.",
@@ -565,15 +727,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-controversy-bcci-will-examine-the-romi-bhinder-episode-says-secretary-devajit-saikia-exclusive/articleshow/130205863.cms",
     "time": "2026-04-12T10:06:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Unchanged XI for GT vs LSG as Gill opt to bowl first against Pant's Lucknow",
-    "desc": "Shubman Gill's Gujarat Titans won the toss and elected to field against Rishabh Pant's Lucknow Super Giants in IPL 2026. Both captains expressed confidence in their teams, emphasizing consistency and adaptability. Both sides opted to stick with unchanged playing XIs for the crucial encounter.",
-    "img": "https://static.toiimg.com/photo/msid-130205621,imgsize-925657.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/unchanged-xi-for-gt-vs-lsg-as-shubman-gill-opt-to-bowl-first-against-rishabh-pants-lucknow/articleshow/130205583.cms",
-    "time": "2026-04-12T09:49:43.000Z"
   },
   {
     "cat": "World",
@@ -666,33 +819,6 @@ const newsData_en = [
     "time": "2026-04-12T06:19:39.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Nitish Rana punished for ‘audible obscenity’ after umpire argument",
-    "desc": "A controversial glove change denial for Tristan Stubbs during Delhi Capitals' chase against Chennai Super Kings led to a heated exchange with officials. Stubbs was dismissed shortly after, and Nitish Rana was penalized for a Code of Conduct breach. Meanwhile, CSK captain Ruturaj Gaikwad was fined for a slow over-rate.",
-    "img": "https://static.toiimg.com/photo/msid-130202821,imgsize-599788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-nitish-rana-punished-for-audible-obscenity-after-umpire-argument-in-csk-vs-dc/articleshow/130202811.cms",
-    "time": "2026-04-12T05:09:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKR's Pathirana clears fitness test, likely to join squad ahead of CSK clash",
-    "desc": "KKR have had a difficult start to the season, with three defeats and one match ending without a result. Their issues have been clear in the death overs, where they have struggled to control opposition batters. Losses to Mumbai Indians and Lucknow Super Giants highlighted these concerns, making Pathirana’s return important.",
-    "img": "https://static.toiimg.com/photo/msid-130202796,imgsize-52756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-kkrs-matheesha-pathirana-clears-fitness-test-likely-to-join-squad-ahead-of-csk-clash/articleshow/130202758.cms",
-    "time": "2026-04-12T05:06:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Global traders race to secure oil barrels amid Hormuz supply crunch",
-    "desc": "Global crude oil markets are in a frenzy as a severe shortage drives intense competition for prompt deliveries. Physical oil prices have surged to unprecedented levels, with buyers vastly outnumbering sellers. This scramble, fueled by reduced Middle Eastern flows, is forcing refiners to consider scaling back operations, potentially worsening fuel shortages.",
-    "img": "https://static.toiimg.com/photo/msid-130202105,imgsize-1369164.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/strait-crisis-global-traders-race-to-secure-oil-barrels-amid-hormuz-supply-crunch/articleshow/130202057.cms",
-    "time": "2026-04-12T04:18:12.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "The origin stories of SPAM",
     "desc": "The months of April and May could well be celebrated as the birth months of spam — those notoriously undesired messages that clog our information highways. This is because the earliest known case of spam took place on May 3, 1978 and the first such case in the Web as we know it now took place on April 12, 1994. A.S.Ganesh turns off his spam filters to give you these two tales…",
@@ -709,15 +835,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/how-was-the-us-iran-ceasefire-deal-reached/article70851782.ece",
     "time": "2026-04-11T22:13:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Duty on diesel exports hiked from Rs 21.5/L to Rs 55.5",
-    "desc": "The government has significantly increased export duties on diesel and aviation turbine fuel to prioritize domestic availability amidst West Asian tensions. Diesel export duty rose by over 150% to Rs 55.5 per litre, and ATF to Rs 42 per litre, aiming to deter exports and ensure sufficient supply within India.",
-    "img": "https://static.toiimg.com/photo/msid-130198811,imgsize-866921.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/duty-on-diesel-exports-hiked-from-rs-21-5/l-to-rs-55-5/articleshow/130198809.cms",
-    "time": "2026-04-11T19:43:50.000Z"
   },
   {
     "cat": "World",
@@ -756,15 +873,6 @@ const newsData_en = [
     "time": "2026-04-11T15:49:03.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Government raises diesel, ATF export duties as oil prices stay volatile; petrol duty remains nil",
-    "desc": "India has significantly hiked export duties on diesel and Aviation Turbine Fuel (ATF) to Rs 55.5 and Rs 42 per litre respectively, effective immediately. This move aims to curb rising fuel costs impacting airfares and protect airlines and passengers amidst volatile global oil prices. Petrol exports remain duty-free.",
-    "img": "https://static.toiimg.com/photo/msid-130192833,imgsize-629545.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/government-raises-diesel-atf-export-duties-as-oil-prices-stay-volatile-petrol-duty-remains-nil/articleshow/130192828.cms",
-    "time": "2026-04-11T13:29:38.000Z"
-  },
-  {
     "cat": "World",
     "title": "Who is Amit Kshatriya, the mind behind NASA’s Moon programme?",
     "desc": "Artemis programme aims to return humans to the Moon after decades, led by key figures like Amit Kshatriya. An Indian-American scientist, he rose through engineering and leadership roles at NASA, contributing to missions like Artemis I. Now Associate Administrator, he oversees major operations, playing a crucial role in shaping future Moon and Mars exploration efforts.",
@@ -790,113 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/jana-nayagan-tn-police-launch-probe-into-leak-of-tvk-leader-vijays-film/article70850527.ece",
     "time": "2026-04-11T11:18:03.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Global oil crisis: Why is India’s transport sector far more exposed than China’s?",
-    "desc": "Both India and China depend heavily on imported oil and are exposed to shocks in West Asia. But as crude prices surged nearly 67% within a month, the impact on their transport sectors was not the same. While China’s rapid shift to electric vehicles has reduced its reliance on fossil fuels, India’s transport sector remains overwhelmingly dependent on petrol and diesel. From EV adoption and total vehicle stock to charging infrastructure, the gap is stark.",
-    "img": "https://th-i.thgim.com/public/incoming/9li2bp/article70850681.ece/alternates/LANDSCAPE_1200/thumbnail_Evs.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-global-oil-crisis-why-is-indias-transport-sector-far-more-exposed-than-chinas/article70850682.ece",
-    "time": "2026-04-11T10:51:14.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How does the internet always have an answer?",
-    "desc": "When you are ever stuck with a doubt or confusion, you often automatically open your phone or any device, open Google, and type it out in a second. But have you ever wondered how the internet always seems to have an answer to your queries?",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-in-school/nck7qz/article70802966.ece/alternates/LANDSCAPE_1200/cloud-computing-banner-background-smart-city.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/children/how-does-the-internet-always-have-an-answer/article70802555.ece",
-    "time": "2026-04-11T10:48:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US-Iran conflict: At nearly $700 billion, how India’s forex reserves are a strong armour against global crises",
-    "desc": "Fundamentally, foreign exchange reserves tell us about a country’s ability to service its external debt. The more robust the cover, the better a country’s position of economic strength. So how strong is India placed in terms of foreign exchange reserves?",
-    "img": "https://static.toiimg.com/photo/msid-130188760,imgsize-116966.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-conflict-at-nearly-700-billion-how-indias-forex-reserves-are-a-strong-armour-against-global-crises/articleshow/130188373.cms",
-    "time": "2026-04-11T09:43:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How UPI transformed India’s digital payments, now driving 49% of global real-time transactions",
-    "desc": "India's financial landscape has been revolutionized by UPI, the nation's digital payments centerpiece. Launched in 2016, it has become the world's largest real-time payment system by volume, processing billions of transactions monthly. UPI has significantly expanded financial inclusion, bringing millions into the digital economy and setting a global benchmark for inclusive financial innovation.",
-    "img": "https://static.toiimg.com/photo/msid-130187955,imgsize-32598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/from-queues-to-qr-codes-how-upi-transformed-indias-digital-payments-now-driving-49-of-global-real-time-transactions/articleshow/130187841.cms",
-    "time": "2026-04-11T08:54:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Open and welcoming to global capital': Sebi chair Tuhin Kanta hails India's finance landscape",
-    "desc": "India's Securities and Exchange Board of India chairman Tuhin Kanta Pandey assured global investors of the nation's open and attractive investment landscape. He highlighted strong macroeconomic fundamentals, a growing investor base, and reform-driven policies at a Silicon Valley session. Recent steps to ease FPI registration and digital platform growth were also emphasized.",
-    "img": "https://static.toiimg.com/photo/msid-130187217,imgsize-198460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/open-and-welcoming-to-global-capital-sebi-chair-tuhin-kanta-hails-indias-finance-landscape/articleshow/130187204.cms",
-    "time": "2026-04-11T08:02:35.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump shares video of brutal Florida killing allegedly by Haitian immigrant",
-    "desc": "The woman who was killed was working as a clerk at the convenience store of the gas station, according to court documents. The killing happened outside the store, and the man was arrested the same day",
-    "img": "https://th-i.thgim.com/public/incoming/yegh3l/article70850138.ece/alternates/LANDSCAPE_1200/Trump_5147_.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-shares-video-of-brutal-florida-killing-allegedly-by-haitian-immigrant/article70850111.ece",
-    "time": "2026-04-11T06:16:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "examining Varun Chakaravarthy’s sudden downturn",
-    "desc": "Until recently, the mystery spinner was the world’s top-ranked T20I bowler. But since the Super Eights at the 2026 T20 World Cup, the 34-year-old’s game has unravelled. What has led to this surprising dip in form? And can he return to his unplayable best during the IPL?",
-    "img": "https://th-i.thgim.com/public/incoming/5v08m/article70848969.ece/alternates/LANDSCAPE_1200/GettyImages-2264947774.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/varun-chakaravarthy-form-dip-t20-analysis-india-spinner-struggles/article70848966.ece",
-    "time": "2026-04-10T19:36:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Lamine Yamal became the face of post-Messi Barcelona",
-    "desc": "After powering the club to the domestic treble last season, the boy wonder has helped drive the Blaugrana to the top of LaLiga and into the Champions League’s last eight. His goal-scoring, playmaking and dribbling have fuelled his dizzying rise to superstardom. Having inherited Barcelona’s iconic No. 10 shirt, there is no doubt the 18-year-old is the club’s leading man",
-    "img": "https://th-i.thgim.com/public/incoming/vt3mq7/article70848983.ece/alternates/LANDSCAPE_1200/GettyImages-2267257911.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/lamine-yamal-barcelona-10-lionel-messi-comparison-psg-transfer-analysis/article70848988.ece",
-    "time": "2026-04-10T19:32:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026 PBKS vs SRH preview",
-    "desc": "A glance at the scorecard of their last meeting — in Hyderabad on April 12, 2025 — provides context. Sunrisers, coming off a four-match losing streak, hunted down the 246-run target with eight wickets and nine balls to spare, thanks to a 55-ball 141 from Abhishek Sharma",
-    "img": "https://th-i.thgim.com/public/incoming/9zxdcv/article70847958.ece/alternates/LANDSCAPE_1200/PTI04_10_2026_000383A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-pbks-vs-srh-preview-punjab-kings-vs-sunrisers-hyderabad-face-off-in-a-battle-of-big-hitters/article70847387.ece",
-    "time": "2026-04-10T16:54:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Natarajan",
-    "desc": "“Every year when I was doing well, there has been some injury or the other,” he told reporters on the eve of the match against Chennai Super Kings at the M.A. Chidambaram Stadium in Chennai",
-    "img": "https://th-i.thgim.com/public/incoming/5scgq0/article70848439.ece/alternates/LANDSCAPE_1200/DSC_7777.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/have-worked-very-hard-on-my-bowling-and-fitness-natarajan/article70848450.ece",
-    "time": "2026-04-10T16:52:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shashank Singh",
-    "desc": "“We are backing our strength. The present situation is that our bowlers are doing very well. Their batting order is very good, but we have a very good attack with the likes of Xavier Bartlett, Arshdeep Singh, and Marco Jansen in our ranks. So, we will prefer to think about our strengths and not theirs,” says Shashank",
-    "img": "https://th-i.thgim.com/public/incoming/pxenwa/article70848735.ece/alternates/LANDSCAPE_1200/PTI04_10_2026_000240A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/we-have-a-very-good-attack-shashank-singh/article70848141.ece",
-    "time": "2026-04-10T16:42:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘There will be expectations, but I am focusing on my work’",
-    "desc": "Representing Capitals in his maiden IPL, Nabi, who was the toast of the 2025-26 domestic season as J & K won the Ranji for the first time, will test himself in the world’s biggest T20 league after he was roped in by the franchise for ₹8.4 crore; the medium-pacer from Baramulla opens up on the challenge ahead and the domestic season just gone by",
-    "img": "https://th-i.thgim.com/public/incoming/n0nyy5/article70841857.ece/alternates/LANDSCAPE_1200/India_IPL_Cricket_27915.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/there-will-be-expectations-but-i-am-focusing-on-my-work/article70839996.ece",
-    "time": "2026-04-10T16:05:33.000Z"
   }
 ];
