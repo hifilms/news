@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "1985ની તે ચૂંટણી, જેમાં Nitish Kumar એ 20 હજાર રૂપિયા ઉધાર લીધા અને પત્નીને આપ્યું એક વચન, પરંતુ....",
+    "desc": "આજથી નીતિશ કુમાર બિહારના પૂર્વ મુખ્યમંત્રી થઈ ગયા છે. તેમણે મુખ્યમંત્રી પદેથી રાજીનામું આપી દીધું છે. આજે તેમના રાજીનામા સાથે બિહાર અને નીતિશની રાજનીતિમાં નવો વળાંક આવ્યો છે. આ અવસર પર જાણો નીતિશ કુમારની પ્રથમ ચૂંટણી જીતવાની કહાની....",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/when-nitish-kumar-went-to-contest-elections-after-borrowing-20-thousand-rupees-from-his-wife-then-473031 ",
+    "time": "2026-04-14T10:01:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેટ્રોલમાં 18 રૂપિયા, તો ડીઝલમાં વધી શકે છે 35 રૂપિયા, ચૂંટણી પછી લાગુ થઈ શકે છે ભાવ વધારો",
+    "desc": "ક્રૂડ ઓઇલના વધતા ભાવને કારણે કંપનીઓ હાલમાં પેટ્રોલ પર ₹18 પ્રતિ લિટર અને ડીઝલ પર ₹35 પ્રતિ લિટરનું નુકસાન કરી રહી છે. ત્યારે આ નુકસાનને ભરપાઈ કરવા માટે હવે કંપનીઓ પેટ્રોલ અને ડીઝલના ભાવમાં વધારો કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-will-increase-by-rs-18-and-diesel-by-rs-35-after-elections-in-5-states-473029 ",
+    "time": "2026-04-14T09:51:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મોતની થોડી મિનિટો પહેલા દરેક વ્યક્તિ કહે છે આ જ વાત! નર્સે ખોલ્યું એવું રહસ્ય જે તમારું જીવન બદલી નાખશે",
+    "desc": "મૃત્યુની નજીક પહોંચેલા દર્દીઓને સૌથી વધુ કઈ વાતનું દુઃખ હોય છે? 'મેરી ક્યુરી' ચેરિટીની નર્સ એશ્લે વુડે અંતિમ ક્ષણોના એ ઊંડા અનુભવો અને શીખ શેર કરી છે જે આપણે આજે જ શીખી લેવી જોઈએ. વાંચો સંપૂર્ણ અહેવાલ અહીં...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/just-moments-before-death-every-human-being-says-the-exact-same-thing-a-nurse-reveals-a-secret-that-will-change-your-life-473027 ",
+    "time": "2026-04-14T09:30:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રાજસ્થાન રોયલ્સમાં ખુશ નથી વૈભવ સૂર્યવંશી, કોચના નિવેદનથી ખળભળાટ, જાણો શું છે કારણ ?",
+    "desc": "15 વર્ષીય વૈભવ સૂર્યવંશી રાજસ્થાન રોયલ્સ ટીમથી નાખુશ છે. સનરાઇઝર્સ સામે ગોલ્ડન ડક આઉટ થયા બાદ કોચ ટ્રેવર પેનીએ આ ખુલાસો કર્યો છે. રાજસ્થાન હવે 19 એપ્રિલે KKR સામે ટકરાશે, જ્યાં સૂર્યવંશીની ભૂમિકા પર બધાની નજર રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-is-not-happy-for-impact-player-rajasthan-royals-473025 ",
+    "time": "2026-04-14T09:16:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રાઈફલથી લઈને રિવોલ્વર સુધી, દેવું &amp;#039;ઝીરો&amp;#039;... કરોડોની સંપત્તિના માલિક સમ્રાટ ચૌધરી પાસે શું-શું છે?",
+    "desc": "બિહારના નવા મુખ્યમંત્રી તરીકે સમ્રાટ ચૌધરીના નામ પર સંમતિ સધાઈ ગઈ છે. જોકે, તેમના નામની હજુ સુધી ઔપચારિક જાહેરાત કરવામાં આવી નથી. આવતીકાલે શપથ ગ્રહણ સમારોહ પહેલા આજે સાંજે તેમના નામની જાહેરાત કરવામાં આવે તેવી આશા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/samrat-choudhary-net-worth-bihar-deputy-cms-net-worth-touches-11-31-crore-473023 ",
+    "time": "2026-04-14T09:01:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "જેલ જેવું લાગતુ હતું જીવન... UKમાં 40 લાખની નોકરી છોડીને ભારત પાછો આવ્યો યુવક, કારણ જાણીને તમને આશ્ચર્ય થશે",
+    "desc": "UKમાં 40 લાખ રૂપિયાની વાર્ષિક પગારની નોકરી છોડીને ભારત પરત ફરેલા એક ફિઝિયોથેરાપિસ્ટની કહાની સોશિયલ મીડિયા પર વાયરલ થઈ રહી છે. જાણો કે એકલતા અને સારા જીવન સંતુલનની ઇચ્છાએ તેમને આ કઠોર નિર્ણય કેવી રીતે લીધો, અને લોકો તેના વિશે શું વિચારે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/a-young-man-left-a-job-worth-40-lakhs-in-the-uk-and-returned-to-india-you-will-be-surprised-to-know-the-reason-473007 ",
+    "time": "2026-04-14T08:10:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "1.89x હોઈ શકે છે ફિટમેન્ટ ફેક્ટર, ફોર્મ્યુલા તૈયાર! DA ફરી 0થી રીસેટ થશે, જુઓ ગણતરી",
+    "desc": "દેશભરના કેન્દ્રીય કર્મચારીઓના મનમાં માત્ર એક સવાલ છે કે અમારા પગારમાં કેટલો વધારો થશે? આઠમું પગાર પંચ પગાર અને ભથ્થા વધારવા માટે વિવિધ સ્ટેક હોલ્ડરો સાથે ચર્ચાં કરી રહ્યું છે. તેવામાં અમે તમને તે વિશે જોડાયેલી માહિતી આપીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-cpc-fitment-factor-1-89-salary-calculation-know-all-details-473006 ",
+    "time": "2026-04-14T07:59:50.000Z"
+  },
+  {
     "cat": "Business",
     "title": "એક સહી…અને તમારા હકો કોઈ બીજા પાસે! પાવર ઓફ એટર્ની કરતા પહેલા સાવધાન! આ 3 ભૂલો કરી શકે છે &amp;#039;ઠન ઠન ગોપાલ&amp;#039;!",
     "desc": "પાવર ઓફ એટર્ની કોઈને પણ આપતી વખતે કેટલીક ભૂલો ભવિષ્યમાં મોટી મુશ્કેલીઓ ઊભી કરી શકે છે. ઘણીવાર લોકો સંબંધીઓ અથવા મિત્રો પર આંધળો વિશ્વાસ કરીને નિયમો વાંચ્યા વિના જ અધિકારો સોંપી દે છે, જે પ્રોપર્ટી ફ્રોડનું કારણ બની શકે છે. કેટલાક અહેવાલો અનુસાર, મિલકત સાથે સંકળાયેલી છેતરપિંડીના 40% કિસ્સાઓમાં પાવર ઓફ એટર્નીનો દુરુપયોગ મુખ્ય કારણ હોય છે.",
@@ -252,15 +315,6 @@ const newsData_gu = [
     "time": "2026-04-12T14:17:05.000Z"
   },
   {
-    "cat": "Business",
-    "title": "કેન્દ્રીય કર્મચારીઓને DA માટે હજુ કેટલી જોવી પડશે રાહ? પગાર પર થશે મોટી અસર, જાણો શું છે કારણ",
-    "desc": "સામાન્ય રીતે કેન્દ્ર સરકાર માર્ચ મહિનામાં હોળીની આસપાસ DA (મોંઘવારી ભથ્થું) વધારાની જાહેરાત કરી દેતી હોય છે, જે વર્ષના પ્રથમ છ મહિના માટે લાગુ પડે છે. એપ્રિલ મહિનાના 10 દિવસથી વધુ સમય વીતી ગયો હોવા છતાં હજુ સુધી કર્મચારીઓના DA વધારાની જાહેરાત કરવામાં આવી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/how-much-more-will-central-employees-have-to-wait-for-da-there-will-be-a-big-impact-on-salary-know-what-is-the-reason-472695 ",
-    "time": "2026-04-12T13:19:04.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "લતાજીના સેક્રટરી સાથે થયા હતા આશા ભોસલેના પહેલા લગ્ન, પતિના ત્રાસથી કંટાળી આશા તાઈએ પ્રેગ્નન્સીમાં ખાધી હતી ઊંઘની ગોળીઓ",
     "desc": "ભારતના દિગ્ગજ ગાયિકા આશા ભોસલે 92 વર્ષની ઉંમરે અંતિમ શ્વાસ લીધા છે. આશા ભોસલેનું શરુઆતી જીવન સંઘર્ષ અને સમસ્યાઓ વચ્ચે પસાર થયું હતું. ખાસ કરીને લગ્ન પછી તેમનું જીવન નર્ક જેવું થઈ ગયું હતું. આ વાતનો ઉલ્લેખ તેમણે પોતાની બાયોગ્રાફીમાં કર્યા હતો.",
@@ -406,15 +460,6 @@ const newsData_gu = [
   },
   {
     "cat": "Politics",
-    "title": "Thank You India હવે રૂપિયા ન મોકલતા... ઈરાને બંધ કર્યા બેન્ક એકાઉન્ટ, ભારત માટે લખી ભાવુક પોસ્ટ",
-    "desc": "ભારતના લોકોએ ઈરાનના નામ પર કરોડો રૂપિયાનું દાન આપ્યું છે. આ બાબતે ઈરાની દૂતાવાસે બધા દેશવાસીઓનો આભાર માન્યો છે, સાથે જ કહ્યું કે, હવે એ તમામ બેન્ક એકાઉન્ટ બંધ કરી દેવામાં આવ્યા છે, જેમાં રૂપિયા મોકલવા માટે અપીલ કરવામાં આવી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/thank-you-india-do-not-send-money-anymore-iranian-embassy-closes-bank-accounts-writes-emotional-post-for-india-472343 ",
-    "time": "2026-04-10T09:32:12.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "સરકારી કર્મચારીઓ માટે મોટા ખુશખબર, પગાર પંચ પર PM મોદીની મોટી જાહેરાત",
     "desc": "પશ્ચિમ બંગાળમાં હાલ વિધાનસભા ચૂંટણીઓ નજીક છે અને પ્રચાર જોરશોરથી થઈ રહ્યો છે ત્યારે પીએમ મોદીએ એક એવી ગેરંટી આપી છે કે રાજ્યના સરકારી કર્મચારીઓ આનંદીત થઈ રહ્યા છે. જો બંગાળમાં ભાજપની સરકાર બનશે તો સાતમું પગાર પંચ લાગૂ કરાશે એવી ગેરંટી અપાઈ છે. જાણો હાલ રાજ્યમાં કયું પગાર પંચ ચાલે છે અને રાજ્યો અને કેન્દ્રોનું પગાર પંચનું શું ગણિત છે?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -475,42 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/if-you-are-facing-trouble-paying-emi-you-should-know-this-information-check-details-472301 ",
     "time": "2026-04-10T05:55:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પ્રિયંકા, તે આ શું કર્યું? &amp;quot;તારા પ્રેમી સાથે તારું જીવન વિતાવવું હતું, તો તારે સ્પષ્ટપણે કહેવું જોઈતું હતું...&amp;quot;",
-    "desc": "પ્રિયંકા, તેં આ શું કર્યું? પતિની હત્યા બાદ રોઈ રોઈને લૂંટની ખોટી કહાની સંભાળવનાર પત્નીને લોકો ઘણા સવાલો પૂછી રહ્યા છે. પોલીસ તપાસમાં જાણવા મળ્યું છે કે પ્રિયંકાએ તેના પ્રેમી સાથે મળીને તેના પતિની હત્યાનું કાવતરું ઘડ્યું હતું અને કોન્ટ્રાક્ટ કિલરને એક લાખ રૂપિયા ચૂકવ્યા હતા. ઘટના પછી લૂંટનો દ્રશ્ય રજૂ કરવામાં આવ્યું હતું, પરંતુ પત્ની કહાની લાંબા સમય સુધી છુપાવી શકી નહીં, અને પ્રિયંકાની પોલ ખુલ્લી પડી ગઈ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/you-dark-skinned-you-dont-deserve-me-priyaka-devkrishn-killers-with-lover-to-murder-husband-472300 ",
-    "time": "2026-04-10T05:24:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "વૈશ્વિક તેલના સંક્ટ વચ્ચે પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર; જાણો ગુજરાત સહિત મુખ્ય શહેરોમાં લેટેસ્ટ કિંમત",
-    "desc": "પશ્ચિમ એશિયામાં ચાલી રહેલા ભારે તણાવ અને કાચા તેલની કિંમતામાં ભારે ઉતાર-ચઢાવ વચ્ચે કંપનીઓએ 10 એપ્રિલ 2026માટે પેટ્રોલ-ડીઝલના નવા ભાવ જાહેર કરી દીધા છે. રાહતની વાત એ છે કે વૈશ્વિક કટોકટી કે જ્યારે પણ બજારની કિંમત સ્થિર બને છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/10-april-petrol-diesel-prices-global-oil-crisis-petrol-and-diesel-rates-released-check-the-rates-in-your-city-472296 ",
-    "time": "2026-04-10T04:35:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પેસરમાંથી કેવી રીતે બન્યા બેટ્સમેન, ઘરેલું ક્રિકેટમાં બોલરોમાં દબદબો... કોણ છે મુકુલ ચૌધરી? KKR સામે લખી જીતની ગાથા",
-    "desc": "IPL 2026માં KKR પહેલી જીતની ખૂબ જ નજીક પહોંચી ગયું હતું. મેચ સંપૂર્ણપણે KKRના હાથમાં હતો, પરંતુ લખનૌના એક વિસ્ફોટક બેટ્સમેને KKRના અરમાનો પર પાણી ફેરવી દીધું. જીતને મોઢામાંથી છીનવીને આ બેટ્સમેન રાતોરાત હીરો બની ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-is-mukul-chaudhary-he-played-an-explosive-innings-against-kkr-and-gave-lsg-victory-ipl-2026-472295 ",
-    "time": "2026-04-10T04:12:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઈરાન ભારતના જહાજ પાસેથી પણ વસૂલશે તોતિંગ 20 લાખ ડોલર ટેક્સ? સરકારનો જવાબ જાણો",
-    "desc": "ઈરાને હવે યુદ્ધમાં થયેલા નુકસાનની ભરપાઈ માટે રસ્તો ગોતી લીધો છે અને તેની ચૂકવણી અમેરિકા તો ઠીક પણ બીજા દેશોએ કે જેમને યુદ્ધ સાથે ન્હાવા નીચોવાનો પણ સંબંધ નહતો તેમણે કદાચ કરવાનો વારો આવશે. કારણ કે હોર્મુઝમાંથી પસાર થતા જહાજો પર હવે ઈરાન અને ઓમાન ભેગા થઈને ટોલ ટેક્સ વસૂલશે. ત્યારે શું ભારતે પણ ભરવો પડશે? જાણો શું કહ્યું સરકારે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/will-india-also-have-to-pay-irans-hormuz-toll-tax-check-what-govt-of-india-says-472285 ",
-    "time": "2026-04-10T03:05:46.000Z"
   },
   {
     "cat": "Tech",
@@ -655,14 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/buy-a-car-worth-8-to-10-lakhs-for-just-2-lakhs-this-government-website-will-make-your-car-dream-come-true-471510 ",
     "time": "2026-04-04T13:50:00.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "વારંવાર ચેટ ખોલવાની ઝંઝટ ખતમ! WhatsApp લાવી રહ્યું છે મોટું અપડેટ, એક જ જગ્યાએ દેખાશે કોણ કોણ છે Online",
-    "desc": "WhatsApp એક એવું નવું ફીચર લાવી રહ્યું છે, જેનાથી તમને તરત જ ખબર પડી જશે કે કોણ-કોણ ઓનલાઇન છે, અને તે પણ દરેક ચેટ ખોલ્યા વગર. આ અપડેટ તમારી ચેટિંગ કરવાની રીતને સંપૂર્ણપણે બદલી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/no-more-hassle-of-constantly-opening-chats-whatsapp-is-rolling-out-a-major-update-see-who-is-online-all-in-one-place-471356 ",
-    "time": "2026-04-03T09:53:59.000Z"
   }
 ];

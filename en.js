@@ -1,12 +1,273 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "T.N. elections: Stalin interacts with voters during morning walk in K.V Kuppam segment",
+    "title": "Noida workers’ protest: Over 300 held, seven FIRs registered; ‘syndicate’ angle under probe, says police",
+    "desc": "“Route marches have been conducted continuously since 5 a.m. This morning, workers gathered at three locations; following immediate dialogue, they were peacefully dispersed within just 15 minutes,” Gautam Buddh Nagar Police Commissioner Laxmi Singh said",
+    "img": "https://th-i.thgim.com/public/incoming/kd2e0o/article70860609.ece/alternates/LANDSCAPE_1200/2026-04-14T043546Z_486605964_RC2QOKA1TG2U_RTRMADP_3_IRAN-CRISIS-INDIA-WORKERS-PROTEST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/noida-workers-protest-over-300-people-arrested/article70860583.ece",
+    "time": "2026-04-14T09:53:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indian democracy will be stronger, vibrant if women quota implemented in 2029: PM Modi",
+    "desc": "In a letter to the women of the country, Mr. Modi also said that with women excelling in several fields, it is only fitting that there is an increase in the participation of women in legislative bodies",
+    "img": "https://th-i.thgim.com/public/incoming/o5vs6z/article70860137.ece/alternates/LANDSCAPE_1200/GSS_PM-Modi-askGP0FRJSPN.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/indian-democracy-will-be-stronger-vibrant-if-women-quota-implemented-in-2029-pm-modi/article70860104.ece",
+    "time": "2026-04-14T09:45:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Will not remain silent’: T.N. CM Stalin warns of massive protest against delimitation",
+    "desc": "“Tamil Nadu will come to a standstill. It will register its protest vehemently. Every family will come out to the streets. We will organise a big protest under my leadership,” he said in a video message",
+    "img": "https://th-i.thgim.com/public/incoming/m3vifu/article70860573.ece/alternates/LANDSCAPE_1200/9712_13_4_2026_21_43_35_2__DSC9280.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/will-not-remain-silent-tn-cm-stalin-warns-of-massive-protest-against-delimitation/article70860568.ece",
+    "time": "2026-04-14T09:39:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson’s redemption arc! World Cup hero wins ICC Player of the Month",
+    "desc": "Sanju Samson has been named ICC Men's Player of the Month for March after his stellar performances in the 2026 T20 World Cup knockout stages. Starting on the bench, Samson delivered crucial match-winning scores, including an unbeaten 97 and two 89s, to help India secure the title and earn him Player of the Tournament.",
+    "img": "https://static.toiimg.com/photo/msid-130255823,imgsize-183690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sanju-samsons-redemption-arc-world-cup-hero-wins-icc-player-of-the-month/articleshow/130255734.cms",
+    "time": "2026-04-14T09:35:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What workers will now earn",
+    "desc": "Uttar Pradesh government has approved a significant interim hike of approximately 21% in minimum wages for workers in Gautam Buddh Nagar and Ghaziabad, effective April 1. This decision follows widespread factory worker protests. New monthly wages for unskilled, semi-skilled, and skilled workers in these regions have been revised, with the CM urging employers to ensure fair practices and benefits.",
+    "img": "https://static.toiimg.com/photo/msid-130255796,imgsize-331154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/up-hikes-minimum-wages-across-categories-amid-noida-protest-what-workers-will-now-earn/articleshow/130255732.cms",
+    "time": "2026-04-14T09:26:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Not seen 'dirty party' like BJP, says Mamata Banerjee; flags ‘logical discrepancy’ in SIR process",
+    "desc": "West Bengal Chief Minister Mamata Banerjee criticized the Election Commission and BJP, alleging selective application of the SIR process to benefit the BJP. She accused the BJP of attempting to divide the state and urged voters to unite against \"Bangla-Birodhi Zamindars\" to secure a fourth term for TMC.",
+    "img": "https://static.toiimg.com/photo/msid-130255761,imgsize-800856.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/not-seen-dirty-party-like-bjp-says-mamata-banerjee-flags-logical-discrepancy-in-bengal-sir-process/articleshow/130255251.cms",
+    "time": "2026-04-14T09:25:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aruna Irani breaks down recalling late Asha Bhosle, REVEALS she was in pain",
+    "desc": "Aruna Irani pays a heartfelt tribute to legendary singer Asha Bhosle, recalling her warmth, strength, and ability to stay cheerful despite personal struggles. Calling her loss irreparable, Aruna highlights her unmatched versatility across genres and cherishes their close bond, while celebrating the timeless legacy of a voice that will forever live on.",
+    "img": "https://static.toiimg.com/photo/msid-130255484,imgsize-62986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/despite-pain-she-behaved-like-happiest-person-aruna-irani-breaks-down-recalling-late-asha-bhosle-exclusive/articleshow/130255484.cms",
+    "time": "2026-04-14T09:24:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did Ranveer Singh take a dig at Dhruv Rathee's views on Dhurandhar 2 in new ad?",
+    "desc": "Ranveer Singh's latest ad, featuring his father-in-law Prakash Padukone, has sparked debate with a subtle jab at YouTuber Dhruv Rathee's criticism of the 'Dhurandhar' franchise. The commercial cleverly incorporates references to Ranveer's personal life and Padukone's badminton legacy, while a fictional film poster appears to mock Rathee's past critiques.",
+    "img": "https://static.toiimg.com/photo/msid-130255631,imgsize-36562.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-ranveer-singh-take-a-dig-at-dhruv-rathees-views-on-dhurandhar-2-in-new-ad-with-father-in-law-prakash-padukone-fans-call-it-peak-detailing/articleshow/130255489.cms",
+    "time": "2026-04-14T09:15:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kevin Federline reacts to Britney Spears entering rehab",
+    "desc": "In a powerful step towards healing, Britney Spears has chosen to check into a rehabilitation center after her recent DUI incident. Her former partner, Kevin Federline, voiced his support for her decision, expressing optimism that she will fully embrace her recovery journey. Close associates reveal that her children inspired this transformation, prioritizing their mother’s well-being above all.",
+    "img": "https://static.toiimg.com/photo/msid-130255466,imgsize-80332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/britney-spears-checks-into-rehab-ex-husband-kevin-federline-is-happy-that-the-singer-is-getting-help/articleshow/130255466.cms",
+    "time": "2026-04-14T09:10:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harry and Meghan honor Diana at children’s hospital in Australia",
+    "desc": "Meghan Markle and Prince Harry began their privately funded Australian tour in Melbourne, honoring Princess Diana with a visit to the Royal Children's Hospital. This trip, a departure from their 2018 royal tour, focuses on their personal passions, including mental health and veteran support, with a more relaxed and intentional itinerary.",
+    "img": "https://static.toiimg.com/photo/msid-130255448,imgsize-127316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markle-and-prince-harrys-first-australia-stop-honors-princess-diana-inside-their-2026-trip/articleshow/130255424.cms",
+    "time": "2026-04-14T09:03:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KKR's Blessing Muzarabani banned for two years for picking IPL over PSL",
+    "desc": "PCB banned Muzarabani from the PSL for two years. \"In this instance, despite a clear offer and an unequivocal acceptance of essential terms, the player chose to disregard these obligations in favor of a conflicting arrangement,\" PCB said in a statement, as cited by the Cricbuzz.",
+    "img": "https://static.toiimg.com/photo/msid-130255415,imgsize-41288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kkrs-blessing-muzarabani-banned-for-two-years-for-picking-ipl-over-psl/articleshow/130255380.cms",
+    "time": "2026-04-14T09:02:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Stalin holds door-to-door campaign in Vellore",
+    "desc": "Tamil Nadu Chief Minister M K Stalin campaigned in Vellore for the upcoming Assembly elections. He visited a tea shop and interacted with residents. The DMK faces a rematch against the AIADMK in Vellore. Stalin also criticized the BJP's stance on delimitation and promised welfare schemes for women. Tamil Nadu votes on April 23.",
+    "img": "https://static.toiimg.com/photo/msid-130255301,imgsize-667842.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-polls-cm-stalin-holds-door-to-door-campaign-in-vellore/articleshow/130255306.cms",
+    "time": "2026-04-14T08:59:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Postpone West Bengal polls until all voters are on rolls, says Adhir Ranjan Chowdhury",
+    "desc": "Five-time Congress MP and former leader of the party in Lok Sabha Adhir Ranjan Chowdhury says incomplete electoral rolls and the Election Commission of India’s SIR process threaten free and fair elections ahead of the West Bengal Assembly elections 2026",
+    "img": "https://th-i.thgim.com/public/news/national/9jc0vs/article70860575.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-14%20at%2014.09.24.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/postpone-west-bengal-polls-until-all-voters-are-on-rolls-says-adhir-ranjan-chowdhury/article70860386.ece",
+    "time": "2026-04-14T08:59:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Varun, Mrunal and Pooja bring David's comedy alive",
+    "desc": "Hai Jawani Toh Ishq Hona Hai teaser shows David Dhawan’s fun rom-com style with Varun Dhawan, Mrunal Thakur and Pooja Hegde. The teaser features AI toddlers, a love triangle, and a new version of Ishq Sona Hai. The film releases on May 22, while Varun was last seen in Border 2.",
+    "img": "https://static.toiimg.com/photo/msid-130255182,imgsize-34042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hai-jawani-toh-ishq-hona-hai-teaser-varun-dhawan-mrunal-thakur-and-pooja-hegde-bring-david-dhawans-comedy-alive/articleshow/130255182.cms",
+    "time": "2026-04-14T08:51:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Petrol, diesel losses: What oil firms are losing amid Hormuz supply squeeze",
+    "desc": "India's state-run oil companies are incurring significant losses, estimated at Rs 18 per litre on petrol and Rs 35 on diesel, due to unchanged retail prices amidst volatile global crude oil prices. Despite a government excise duty cut, these firms continue to face mounting financial strain, with potential price hikes anticipated post-state elections.",
+    "img": "https://static.toiimg.com/photo/msid-130255147,imgsize-1786826.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/petrol-diesel-losses-what-oil-firms-are-losing-amid-hormuz-supply-squeeze/articleshow/130255101.cms",
+    "time": "2026-04-14T08:45:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia drops PICS from anniversary getaway with Ranbir, fans reminded of YJHD",
+    "desc": "Alia Bhatt and Ranbir Kapoor celebrated their fourth wedding anniversary with a picturesque snowy getaway, sharing glimpses of their trip including skiing and family moments with daughter Raha. Alia penned a heartfelt note to Ranbir, and fans showered the couple with love. The duo is set to reunite on screen for Sanjay Leela Bhansali's 'Love & War'.",
+    "img": "https://static.toiimg.com/photo/msid-130255098,imgsize-69416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-ranbir-kapoor-celebrate-anniversary-with-snow-and-skiing-the-actress-drops-pics-fans-are-reminded-of-yeh-jawaani-hai-deewani/articleshow/130254966.cms",
+    "time": "2026-04-14T08:42:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' BO day 27 [LIVE]: Ranveer Singh film eyes Rs. 1100 crore milestone",
+    "desc": "The Revenge', continues its unprecedented box office reign on Day 27. Having already made history as the first Hindi film to breach the Rs 1,000 crore India net milestone, the Ranveer Singh-starrer is now closing in on the Rs 1,100 crore domestic landmark. Despite the 2026 IPL season, the film's global footprint has expanded to a staggering Rs 1,718 crore. Stay updated with live tracking, weekly breakdowns, and day-wise earnings of this cinematic phenomenon.",
+    "img": "https://static.toiimg.com/photo/msid-130254538,imgsize-189388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-27-live-ranveer-singh-r-madhavan-rakesh-bedi-sanjay-dutt-arjun-rampal-sara-arjun-film-eyes-rs-1100-crore-domestic-net-on-fourth-tuesday-after-crossing-rs-1090-crore-india-net-and-rs-1718-crore-worldwide-despite-ipl-2026/articleshow/130254538.cms",
+    "time": "2026-04-14T08:31:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Sunil Narine should open': Ex-KKR star slams batting strategy amid poor start",
+    "desc": "Kolkata Knight Riders face early season struggles. The team seeks its first win, with a single point from a rain-affected match. Both batting and bowling units need improvement. Sunil Narine's batting position and Ajinkya Rahane's leadership are under discussion. Cameron Green and Finn Allen are yet to deliver impactful performances.",
+    "img": "https://static.toiimg.com/photo/msid-130254565,imgsize-181262.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/sunil-narine-should-open-ex-kkr-star-slams-batting-strategy-amid-poor-start/articleshow/130254483.cms",
+    "time": "2026-04-14T08:28:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hollywood heavyweights voice ’unequivocal opposition’ to Paramount-Warner merger in open letter",
+    "desc": "In a powerful show of unity, over 1,000 Hollywood stars, writers, and directors, including Denis Villeneuve, J.J. Abrams, and Kristen Stewart, are standing up against the $111 billion merger between Paramount and Warner Bros. Discovery",
+    "img": "https://th-i.thgim.com/public/incoming/f6jlj8/article70860459.ece/alternates/LANDSCAPE_1200/2026-04-13T132045Z_1361456287_RC2I0JACGME4_RTRMADP_3_WARNER-BROS-DIS-M-A-PARAMOUNT-SKYDAN-BRITAIN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/paramount-warner-merger-1000-hollywood-heavyweights-voice-opposition-open-letter/article70860448.ece",
+    "time": "2026-04-14T08:19:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What is Trump trying to do with Strait of Hormuz blockade &amp; what does it mean for Iran &amp; US?",
+    "desc": "Ship movements have already dropped sharply, with daily crossings falling to single digits compared with around 135 during normal conditions. A blockade similar to earlier US actions off Venezuela could bring traffic to a complete halt.",
+    "img": "https://static.toiimg.com/photo/msid-130253880,imgsize-127518.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/explained-what-is-trump-trying-to-do-with-strait-of-hormuz-blockade-what-does-it-mean-for-iran-us/articleshow/130253558.cms",
+    "time": "2026-04-14T08:15:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Shakti Mohan went down on her knees for Hrithik Roshan",
+    "desc": "Shakti Mohan once had a memorable fan moment with her longtime crush Hrithik Roshan on Dance Plus. Overwhelmed, she went down on her knees and confessed “I love you.” Hrithik responded warmly, praising her talent. Later, Shakti recalled her deep admiration since childhood, calling the encounter one of the happiest and most unforgettable days of her life. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130254268,imgsize-84178.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-shakti-mohan-went-down-on-her-knees-and-confessed-her-love-to-hrithik-roshan-on-national-tv-my-heart-was-broken-when-i-saw-him-getting-married/articleshow/130254268.cms",
+    "time": "2026-04-14T08:02:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Blank mind’ &amp; bold leap: How Harika Dronavalli cracked freestyle chess on debut",
+    "desc": "In a nation where only four women have ever earned the GM title, 35-year-old Harika remains one of its most enduring pillars. As her compatriots prepare for the traditional grind of World Championship cycles, Harika has qualified for the inaugural FIDE Women’s Freestyle Chess World Championship, which is set to take place next year.",
+    "img": "https://static.toiimg.com/photo/msid-130254121,imgsize-51606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/historic-first-indian-to-qualify-for-fide-freestyle-chess-world-cship-harika-dronavalli-exclusive/articleshow/130254074.cms",
+    "time": "2026-04-14T07:57:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Selena Gomez calls Demi Lovato's concert 'one of the best'",
+    "desc": "Selena Gomez showered praise on best friend Demi Lovato's 'It's Not That Deep Tour' opening night, calling it one of the best shows with 'blown away' vocals. The reunion backstage was a highlight. Former Disney co-star Joe Jonas also made a surprise appearance, joining Lovato on stage for a performance, marking a memorable start to the tour.",
+    "img": "https://static.toiimg.com/photo/msid-130254175,imgsize-74140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/selena-gomez-shares-moments-from-demi-lovatos-concert-calls-it-one-of-the-best-shows/articleshow/130254175.cms",
+    "time": "2026-04-14T07:53:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Like being at a party with him’",
+    "desc": "Justin Bieber's Coachella set sparked mixed reactions, with many criticizing its stripped-back, YouTube-centric format. However, Diplo defended the performance as \"legendary,\" highlighting its authenticity and intimate, party-like atmosphere. While some found it lacking, others praised Bieber's vulnerability and honesty, seeing it as a genuine expression of himself.",
+    "img": "https://static.toiimg.com/photo/msid-130254100,imgsize-80754.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/diplo-backs-justin-biebers-coachella-set-amid-backlash-says-it-was-like-being-at-a-party-with-him-/articleshow/130254069.cms",
+    "time": "2026-04-14T07:44:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Stalin interacts with voters during morning walk in K.V. Kuppam constituency",
     "desc": "Mr. Stalin set out on a morning walk in the K.V. Kuppam town area, where he stopped at a small tea shop, interacted with locals, and canvassed votes in favour of the DMK and its allies",
     "img": "https://th-i.thgim.com/public/incoming/tva32b/article70860297.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-14%20at%2008.52.36.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-elections-stalin-interacts-with-voters-during-morning-walk-in-kv-kuppam-segment/article70860164.ece",
-    "time": "2026-04-14T06:54:30.000Z"
+    "time": "2026-04-14T07:44:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Post Saiyaara Ahaan teams up again with Mohit Suri",
+    "desc": "Ahaan Panday teams up again with Mohit Suri post-'Saiyaara' for a YRF rom-com about an older man-younger woman. Ranbir Kapoor dream aside, Aditya Chopra suggested Ahaan. Script tweaks underway; shoot by year-end. Ahaan currently films action-romance with Sharvari, others.",
+    "img": "https://static.toiimg.com/photo/msid-130253993,imgsize-46328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/post-saiyaara-ahaan-panday-teams-up-again-with-mohit-suri-for-a-rom-com/articleshow/130253993.cms",
+    "time": "2026-04-14T07:37:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Bruce Lee",
+    "desc": "Bruce Lee, the legendary martial artist and cinematic pioneer, transformed the action film landscape with masterpieces such as 'Enter the Dragon'. His timeless wisdom, captured in the metaphor of concentrating on the 'moon' instead of the 'finger', encourages us to navigate through life's distractions and stay true to our core aspirations.",
+    "img": "https://static.toiimg.com/photo/msid-130253746,imgsize-52446.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-bruce-lee-its-like-a-finger-pointing-away-to-the-moon-dont-concentrate-on-the-finger-or-you-will-miss-all-that-heavenly-glory-/articleshow/130253746.cms",
+    "time": "2026-04-14T07:29:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Asha Bhosle will never die for me...' says Sachin Pilgaonkar, recalls first meeting",
+    "desc": "Veteran actor Sachin Pilgaonkar pens an emotional tribute to legendary singer Asha Bhosle, recalling his first meeting with her as a child and their deep personal bond over the years. Calling her his “second mother,” he celebrates her vibrant spirit, cherishing their memories while emphasizing that her life and legacy should always be remembered and celebrated.",
+    "img": "https://static.toiimg.com/photo/msid-130253366,imgsize-149024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/asha-bhosle-will-never-die-for-me-sachin-pilgaonkar-pays-an-emotional-tribute-to-the-singer-recalls-his-first-meeting-exclusive-death-news/articleshow/130253366.cms",
+    "time": "2026-04-14T07:18:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zanai Bhosle shares an emotional video for late Asha Bhosle",
+    "desc": "Zanai Bhosle shared a heartfelt tribute to her grandmother Asha Bhosle, recalling cherished memories after her passing. Posting an emotional video, she called the late legend her “partner-in-crime” and best friend. Expressing deep grief, Zanai remembered their bond, urging fans to celebrate Asha Bhosle’s life with joy, love, and laughter, just as she always did. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130253353,imgsize-97910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zanai-bhosle-shares-an-emotional-post-for-the-late-grandmother-asha-bhosle-shes-going-to-come-back-to-me/articleshow/130253353.cms",
+    "time": "2026-04-14T07:13:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aditya Uppal OPENS UP about working with Ranveer in Dhurandhar",
+    "desc": "In a recent interview, Aditya Uppal, who portrayed ASP Omar Haider in the 'Dhurandhar' franchise, reflected on his evolving perception of Ranveer Singh following their joint efforts. He painted Singh as a powerhouse of focus and humility, radiating positivity on set and making everyone feel important. Read the full article to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130253214,imgsize-76296.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditya-uppal-opens-up-about-working-with-ranveer-singh-in-dhurandhar-2-says-he-never-lets-you-feel-that-he-is-the-man/articleshow/130253214.cms",
+    "time": "2026-04-14T07:01:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -63,24 +324,6 @@ const newsData_en = [
     "time": "2026-04-14T06:15:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Pak news channel lands in trouble for reporting Asha Bhosle's death",
-    "desc": "A Pakistani news channel faces a show-cause notice from PEMRA for airing Indian content during a tribute to the late legendary singer Asha Bhosle. The broadcast, which included her songs, allegedly violated a 2018 ban on Indian content. The channel's MD defended the tribute, highlighting Bhosle's admiration for Pakistani artists and the role of art in bridging divides. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130252102,imgsize-84438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pakistans-news-channel-reports-late-asha-bhosles-demise-lands-in-legal-trouble-for-running-indian-content-report/articleshow/130252102.cms",
-    "time": "2026-04-14T05:59:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tom Holland teases 'emotional' Spider-Man plot",
-    "desc": "Brand New Day' promises an emotional, grown-up story. Peter Parker's sacrifice means everyone forgets him, including MJ and Ned. Four years later, Peter fights crime in isolation, facing physical toll and a new threat: The Hand. New posters hint at the film's direction, set for July 31, 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-130251878,imgsize-107720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-tom-holland-teases-emotional-and-grown-up-plot-debuts-new-posters-featuring-the-hand/articleshow/130251831.cms",
-    "time": "2026-04-14T05:56:45.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "McIlroy falters, shares Masters lead with surging Young",
     "desc": "A chaotic afternoon at Augusta National saw both men plunk key shots into water on the back nine but finish level atop the leaderboard on 11-under 205 through 54 holes, one stroke ahead of American Sam Burns",
@@ -99,31 +342,13 @@ const newsData_en = [
     "time": "2026-04-14T05:46:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Indian democracy will be stronger, vibrant if women quota implemented in 2029: PM Modi",
-    "desc": "In a letter to the women of the country, Mr. Modi also said that with women excelling in several fields, it is only fitting that there is an increase in the participation of women in legislative bodies",
-    "img": "https://th-i.thgim.com/public/incoming/o5vs6z/article70860137.ece/alternates/LANDSCAPE_1200/GSS_PM-Modi-askGP0FRJSPN.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indian-democracy-will-be-stronger-vibrant-if-women-quota-implemented-in-2029-pm-modi/article70860104.ece",
-    "time": "2026-04-14T05:25:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Alec Baldwin wants to quit acting after ‘Rust’ fallout",
-    "desc": "Hollywood star Alec Baldwin, shaken by the tragic 'Rust' set incident, now prioritizes family over career. He revealed a desire to retire and stay home with his seven children, finding solace in his wife Hilaria's support. Despite legal battles surrounding cinematographer Halyna Hutchins' death, Baldwin expressed relief at the case's dismissal, emphasizing his family as his anchor.",
-    "img": "https://static.toiimg.com/photo/msid-130251054,imgsize-82026.cms",
+    "cat": "Sports",
+    "title": "'Muh utha ke nahi maar sakte': Babar triggered by strike-rate question",
+    "desc": "Babar, however, could not find rhythm and was dismissed for 18 off 20 balls. Babar Azam's slow strike rate in T20s has been a topic of discussion in recent times, and Steve Smith denying him a single in the Big Bash League (BBL) earlier was a topic of discussion in cricketing circles.",
+    "img": "https://static.toiimg.com/photo/msid-130251852,imgsize-43540.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/alec-baldwin-plans-retirement-after-rust-tragedy-says-dont-want-to-leave-my-house-anymore-want-to-stay-with-my-kids/articleshow/130251054.cms",
-    "time": "2026-04-14T04:45:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zayn Malik picks SRK's 'Main Hoon Na' as his favourite film",
-    "desc": "Zayn Malik, despite never visiting India, expresses a profound connection to its culture, cinema, and music, calling it the 'motherland.' He revealed his love for Bollywood films, particularly 'Main Hoon Na,' and praised Indian music for its soulfulness and intricate compositions.",
-    "img": "https://static.toiimg.com/photo/msid-130250977,imgsize-106544.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zayn-malik-shares-his-love-for-indian-music-and-films-reveals-shah-rukh-khans-main-hoon-na-is-his-favourite/articleshow/130250372.cms",
-    "time": "2026-04-14T04:38:06.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/muhh-utha-ke-shots-nahi-maar-sakte-pakistans-babar-azam-triggered-by-strike-rate-question-in-psl-watch/articleshow/130251680.cms",
+    "time": "2026-04-14T05:38:53.000Z"
   },
   {
     "cat": "Sports",
@@ -144,15 +369,6 @@ const newsData_en = [
     "time": "2026-04-14T04:25:06.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Zanai Bhosle expresses gratitude for honoring Asha Bhosle",
-    "desc": "Zanai Bhosle paid an emotional tribute to her grandmother Asha Bhosle after her passing. In a heartfelt Instagram post, she thanked people for their love and respect, calling the legendary singer deserving of every honour. Sharing a funeral image, she expressed that Asha Bhosle lives on in everyone’s hearts and will always be remembered. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130250809,imgsize-150524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/late-asha-bhosles-granddaughter-zanai-bhosle-expresses-gratitude-for-honoring-her-grandmother-shes-seen-it-all-from-above/articleshow/130250809.cms",
-    "time": "2026-04-14T04:22:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘To be honest…’: Riyan Parag breaks silence after heavy defeat to SRH",
     "desc": "Riyan Parag termed Rajasthan Royals’ heavy loss to Sunrisers Hyderabad a “blip” after a dramatic top-order collapse. He credited SRH’s debutant pacers for their impact, reflected on tactical decisions, and praised his team’s fightback after being 9/5. Parag remained optimistic, backing RR to recover quickly and perform better in their next match.",
@@ -160,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/to-be-honest-riyan-parag-breaks-silence-after-heavy-defeat-to-srh/articleshow/130250687.cms",
     "time": "2026-04-14T04:09:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hailey Bieber shares post after Justin’s Coachella set",
-    "desc": "Pop superstar Justin Bieber made a triumphant return to the Coachella stage, with wife Hailey Bieber sharing intimate behind-the-scenes glimpses of the momentous weekend. She celebrated his performance, highlighting the immense effort involved and expressing immense pride. The festival also saw Hailey showcasing her style and promoting her beauty brand, while Justin's set included heartfelt dedications to his family.",
-    "img": "https://static.toiimg.com/photo/msid-130250487,imgsize-72808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/hailey-bieber-shares-sweet-post-for-husband-justin-bieber-after-his-special-coachella-weekend/articleshow/130250487.cms",
-    "time": "2026-04-14T03:56:46.000Z"
   },
   {
     "cat": "Sports",
@@ -189,15 +396,6 @@ const newsData_en = [
     "time": "2026-04-14T03:34:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Zabardast virodh hai usse'",
-    "desc": "In a recent interview, Piyush Mishra didn't hold back his opinions, expressing a clear preference for Imtiaz Ali over Anurag Kashyap, whom he described as often sabotaging his own projects. While their collaboration on 'Gangs of Wasseypur' was fruitful, Mishra shared that he and Kashyap rarely communicated during the process. Read the full article to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130250276,imgsize-98688.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/piyush-mishra-talks-about-anurag-kashyap-saying-zabardast-virodh-hai-usse-shares-his-rocky-equation-with-naseeruddin-shah/articleshow/130250276.cms",
-    "time": "2026-04-14T03:33:39.000Z"
-  },
-  {
     "cat": "World",
     "title": "Made lot of progress, ball in Iran’s court: Vance",
     "desc": "The U.S. and Iran failed to reach an agreement in the 21-hour marathon peace talks in Islamabad over the weekend, with Washington insisting that Tehran refused to give up its right over enrichment of nuclear fuel",
@@ -216,24 +414,6 @@ const newsData_en = [
     "time": "2026-04-14T03:25:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Predicted playing XI, head-to-head, pitch report, Chennai weather update",
-    "desc": "Chennai Super Kings, buoyed by a recent win and Sanju Samson's century, host a winless Kolkata Knight Riders. Chepauk's pace-friendly pitch and humid conditions with dew favor the home side. CSK aim to extend KKR's losing streak, while the visitors desperately seek their first victory of the season amidst batting and bowling concerns.",
-    "img": "https://static.toiimg.com/photo/msid-130250134,imgsize-1303408.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-match-today-csk-vs-kkr-predicted-playing-xi-head-to-head-pitch-report-chennai-weather-update/articleshow/130250057.cms",
-    "time": "2026-04-14T03:14:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka Chopra reacts to John Cena’s tribute to Asha Bhosle",
-    "desc": "John Cena has paid tribute to Asha Bhosle, which has been garnering love on the internet. Priyanka Chopra also reacted to his post and described the late legendary singer as 'queen' in the comment section.",
-    "img": "https://static.toiimg.com/photo/msid-130250084,imgsize-65244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-reacts-with-love-to-john-cenas-tribute-to-asha-bhosle-calls-the-late-icon-queen/articleshow/130249995.cms",
-    "time": "2026-04-14T03:11:51.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Former Haryana CM Hooda blames low procurement of crop on government’s “arbitrary” new rules",
     "desc": "Hooda has also issued directives to all Congress MLAs and senior leaders regarding this matter, and instructed them to visit all grain markets daily, summon officials to the site, and confront them with the ground realities",
@@ -241,24 +421,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/haryana/former-haryana-cm-hooda-blames-low-procurement-of-crop-on-governments-arbitrary-new-rules/article70858304.ece",
     "time": "2026-04-14T03:07:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mike Colter SPOILS 'Daredevil'; reveals 'Spider-Man' link",
-    "desc": "Born Again' Season 2, sparking fan theories of a 'Devil in Cell Block D' adaptation. This fuels speculation of a crossover with 'Spider-Man: Brand New Day', despite Charlie Cox's denials of involvement in the film.",
-    "img": "https://static.toiimg.com/photo/msid-130249779,imgsize-245212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mike-colter-spoils-charlie-coxs-daredevil-born-again-season-2-ending-reveals-possible-connection-to-tom-hollands-spider-man-brand-new-day/articleshow/130249731.cms",
-    "time": "2026-04-14T02:57:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Assi' OTT release: When and where to watch Taapsee's film",
-    "desc": "Don't miss Taapsee Pannu's riveting courtroom thriller 'Assi,' now available for streaming on THIS platform from THIS date. Helmed by the visionary Anubhav Sinha, the film courageously documents a teacher's quest for justice following a horrific gang-rape incident. It unflinchingly confronts societal issues and the psychological scars of trauma. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130249800,imgsize-135804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/assi-ott-release-when-and-where-to-watch-taapsee-pannus-courtroom-drama/articleshow/130249800.cms",
-    "time": "2026-04-14T02:52:23.000Z"
   },
   {
     "cat": "Business",
@@ -297,15 +459,6 @@ const newsData_en = [
     "time": "2026-04-14T02:25:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Asha Bhosle’s only Malayalam song",
-    "desc": "Asha Bhosle’s single Malayalam song stands as a beautiful reminder of her versatility and dedication to music. Even though she sang in many languages, her effort to master the nuances of Malayalam for Sujatha showed her respect for every linguistic tradition.",
-    "img": "https://static.toiimg.com/photo/msid-130249565,imgsize-163316.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/untold-story-behind-asha-bhosles-only-malayalam-song-veteran-lent-voice-to-sujatha-overcame-linguistic-difficulties/articleshow/130249565.cms",
-    "time": "2026-04-14T02:08:23.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Delimitation will not affect southern States, says Goyal",
     "desc": "There will be proportional increase of seats across the country due to delimitation and ‘everybody is back to where they were’, says the Union Minister of Commerce and Industry; he also defends the National Education Policy, says T.N. has failed to reach its ‘true potential’ under DMK govt.",
@@ -313,15 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/delimitation-will-not-affect-southern-states-says-goyal/article70857651.ece",
     "time": "2026-04-14T02:05:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Resisting amendment can be more harmful for southern States",
-    "desc": "The BJP’s proposal is to have 50% additional seats in the Lok Sabha, one-third of the new total being reserved for women, nationally and in each State; for instance, Kerala, which at present has 20 seats, will have 30 seats, of which ten will be reserved for women.",
-    "img": "https://th-i.thgim.com/public/incoming/4bn6n6/article70859007.ece/alternates/LANDSCAPE_1200/iStock-1658169891.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/resisting-delimitation-can-be-more-harmful-for-southern-states/article70858793.ece",
-    "time": "2026-04-14T02:02:18.000Z"
   },
   {
     "cat": "Business",
@@ -333,15 +477,6 @@ const newsData_en = [
     "time": "2026-04-14T01:52:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When Asha Bhosle REFUSED to stop singing despite the rain",
-    "desc": "Legendary singer Asha Bhosle, who passed away at 92, displayed remarkable resilience during a Pune concert. Despite a downpour, she chose to continue her performance, singing 22 songs to a devoted audience. Her unwavering spirit, famously stating \"A little rain doesn't scare me,\" left an indelible mark, showcasing her deep connection to music and her fans. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130249225,imgsize-137538.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/when-asha-bhosle-refused-to-stop-singing-despite-the-rain-saying-i-have-faced-many-storms-in-life/articleshow/130249225.cms",
-    "time": "2026-04-14T01:49:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Nvidia rewards 10k India staff, payouts up to 1 crore",
     "desc": "Nvidia's India employees are receiving a special stock grant, the 'Jensen Special Grant,' adding 25% to their initial RSUs. Payouts range from over Rs 5 lakh to Rs 1 crore, vesting over four years. This initiative highlights the growing importance of equity-led compensation in attracting and retaining talent in India's booming semiconductor and AI sectors.",
@@ -351,15 +486,6 @@ const newsData_en = [
     "time": "2026-04-14T01:34:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Vaazha 2' BO day 13: Hashir film crosses Rs 169.75 crores",
-    "desc": "Biopic of a Billion Bros' continues its magnificent run at the box office by crossing Rs 169.75 crore worldwide on Day 13. The Hashir starrer has maintained a strong hold even in its second week.",
-    "img": "https://static.toiimg.com/photo/msid-130249286,imgsize-68998.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/vaazha-2-box-office-collection-day-13-hashir-film-crosses-rs-169-75-crore-worldwide-writer-vipin-das-announces-third-part/articleshow/130249286.cms",
-    "time": "2026-04-14T01:33:55.000Z"
-  },
-  {
     "cat": "World",
     "title": "Donald Trump vows U.S. will sink any Iran boats that challenge blockade",
     "desc": "The U.S. military said the blockade would begin at 1930 hours IST and apply to all ships leaving or seeking to dock at Iranian harbours, but as the deadline passed there was no announcement that the measure had come into effect, nor sign of any interceptions",
@@ -367,33 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/donald-trump-vows-us-will-sink-any-iran-boats-that-challenge-blockade/article70858590.ece",
     "time": "2026-04-14T01:27:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Pirojsha to take over from Nadir Godrej",
-    "desc": "Nadir Godrej will step down as Godrej Industries Group chair on August 13. His nephew, Pirojsha Godrej, will assume the role of GIG chair. Pirojsha will also chair Godrej Industries, the group's holding company. Nadir's son, Burjis Godrej, will become chair of Godrej Agrovet. This marks a significant generational leadership change within the prominent Indian conglomerate.",
-    "img": "https://static.toiimg.com/photo/msid-130249234,imgsize-359860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/change-of-guard-pirojsha-to-take-over-from-nadir-godrej/articleshow/130249178.cms",
-    "time": "2026-04-14T01:17:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay's film gets U/A 16+ rating from CBFC",
-    "desc": "Akshay Kumar’s Bhooth Bangla, directed by Priyadarshan, has been cleared by the CBFC with a U/A 16+ rating after multiple cuts and modifications. The horror-comedy underwent removal of certain scenes, dialogues, and disclaimers. Following additional voluntary edits, the film’s runtime was reduced to 2 hours 44 minutes. Featuring an ensemble cast, it is set to release on April 17, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-130249197,imgsize-193786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhooth-bangla-akshay-kumar-starrer-gets-u/a-16-certificate-from-cbfc-runtime-details-unveiled/articleshow/130249197.cms",
-    "time": "2026-04-14T01:14:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "the paradox of a revolutionary’s theory and praxis",
-    "desc": "The leader synthesised Indian spirituality with Hegelian dialectics, evolving from an absolute idealist into a pragmatic revolutionary seeking to build a modern, socialist India — an analysis on Bose’s journey through philosophy, politics, and his plans for society and national regeneration",
-    "img": "https://th-i.thgim.com/public/incoming/hoac1z/article70858975.ece/alternates/LANDSCAPE_1200/HP4750.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/subhas-chandra-bose-the-paradox-of-a-revolutionarys-theory-and-praxis/article70858976.ece",
-    "time": "2026-04-14T01:13:44.000Z"
   },
   {
     "cat": "Politics",
@@ -441,24 +540,6 @@ const newsData_en = [
     "time": "2026-04-13T23:35:01.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'I had written this somewhere that ... ': Hinge reveals his manifestation note",
-    "desc": "Sunrisers Hyderabad's Praful Hinge delivered a historic 4/34 on debut, spearheading a dominant 57-run victory over Rajasthan Royals. His fiery opening spell, coupled with Sakib Hussain's impressive 4/24, dismantled the opposition's chase. Captain Ishan Kishan lauded the young pacers' hunger and preparation, while RR captain Riyan Parag acknowledged their brilliant bowling performance.",
-    "img": "https://static.toiimg.com/photo/msid-130244369,imgsize-40442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/i-had-written-this-somewhere-that-praful-hinge-reveals-his-manifestation-note/articleshow/130244370.cms",
-    "time": "2026-04-13T23:32:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I wanted Sooryavanshi's wicket on the first ball': Hinge's big revelation:",
-    "desc": "Praful Hinge made a sensational IPL debut, taking three wickets in his opening over against Rajasthan Royals. His dream spell dismantled their top order, setting the stage for Sunrisers Hyderabad's victory. Hinge, who finished with 4/34, dedicated his Player of the Match award to his family, highlighting their sacrifices.",
-    "img": "https://static.toiimg.com/photo/msid-130244229,imgsize-53194.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/i-wanted-vaibhav-sooryavanshis-wicket-on-the-first-ball-praful-hinge-makes-big-revelation/articleshow/130244173.cms",
-    "time": "2026-04-13T23:30:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "In Hungary, Ambedkar inspires oppressed Roma",
     "desc": "A school in Hungary, inspired by B.R. Ambedkar, serves as a beacon for the Roma community, mirroring their struggles with oppression. Founded by a sociologist and Roma activist, the school translates Ambedkar's texts and teaches Roma history, fostering empowerment. Graduates are becoming local leaders, and girls' education is improving, reflecting Ambedkar's ideals.",
@@ -475,60 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/faster-clearance-for-imported-food-stuff-likely/articleshow/130248820.cms",
     "time": "2026-04-13T23:24:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Days after searches, ED arrests I-PAC co-founder &amp; director Vinesh Chandel",
-    "desc": "The Enforcement Directorate has arrested Vinesh Chandel, a director and co-founder of political consultancy firm I-PAC, in connection with a money-laundering probe linked to an alleged coal scam in West Bengal. The agency is investigating past payments to I-PAC, with dealings involving former AAP communication advisor Vijay Nair also under scrutiny.",
-    "img": "https://static.toiimg.com/photo/msid-130248807,imgsize-739184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/days-after-searches-ed-arrests-i-pac-co-founder-director-vinesh-chandel/articleshow/130248808.cms",
-    "time": "2026-04-13T23:19:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Don't forget you work in BJP states': Suvendu Adhikari's warning in Bengal",
-    "desc": "Opposition leader Suvendu Adhikari warned Muslim migrant workers in Nandigram that they might lose work in BJP-governed states after the assembly polls. He cited the presence of thousands of workers in Gujarat, Maharashtra, and Odisha, all ruled by the BJP. The TMC criticized Adhikari's remarks as threats and intimidation, vowing to report the matter to the Election Commission.",
-    "img": "https://static.toiimg.com/photo/msid-130248752,imgsize-1255719.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dont-forget-you-work-in-bjp-states-suvendu-adhikaris-warning-in-bengal/articleshow/130248741.cms",
-    "time": "2026-04-13T22:43:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "77-yr-old dies of 'heart attack' as kin fight home voting officials",
-    "desc": "A tragic incident unfolded in North Dinajpur as an elderly woman died during a dispute over voting procedures. Family members of a blind voter clashed with election officials, demanding a disabled daughter's presence. The ensuing commotion led to the woman's collapse, with doctors suspecting a heart attack.",
-    "img": "https://static.toiimg.com/photo/msid-130248729,imgsize-1410196.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-77-yr-old-dies-of-heart-attack-as-kin-fight-home-voting-officials/articleshow/130248724.cms",
-    "time": "2026-04-13T22:28:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Video shows BJP candidate insulting Gandhi, TMC hits out",
-    "desc": "BJP's Dhupguri candidate Naresh Roy faces Trinamool Congress's criticism after a video surfaced showing him allegedly calling Mahatma Gandhi a \"deshdrohi\" (traitor). Roy claims his remarks were misinterpreted and the video's authenticity is unverified. Trinamool leaders accused the BJP of dishonoring national icons, while Roy asserted his respect for Gandhi and alleged a ploy to spread confusion.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/video-shows-bjp-candidate-insulting-gandhi-tmc-hits-out/articleshow/130246359.cms",
-    "time": "2026-04-13T21:29:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Seeman",
-    "desc": "Naam Tamilar Katchi chief coordinator Seeman contends that without discipline, there will be no order; he bats for an economy centred on agriculture in T.N. and plans to create government-led industries based on local resources if his party emerges victorious in the Assembly election",
-    "img": "https://th-i.thgim.com/public/incoming/lhv6uw/article70766842.ece/alternates/LANDSCAPE_1200/2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/a-true-benevolent-authoritarian-enforces-discipline-for-the-greater-good-seeman/article70766533.ece",
-    "time": "2026-04-13T20:57:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Praful, Kishan star as Sunrisers hand Royals heavy defeat in Hyderabad",
-    "desc": "Sunrisers Hyderabad thrashed Rajasthan Royals by 57 runs in an IPL match, powered by Praful Hinge’s sensational debut where he took three wickets in the first over and finished with 4/34. SRH scored 216/6, led by Ishan Kishan’s 91. RR were bowled out for 159 despite resistance from Donovan Ferreira and Ravindra Jadeja.",
-    "img": "https://static.toiimg.com/photo/msid-130243956,imgsize-85392.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-praful-hinge-ishan-kishan-star-as-sunrisers-hand-rajasthan-royals-heavy-defeat-in-hyderabad/articleshow/130243851.cms",
-    "time": "2026-04-13T18:23:39.000Z"
   },
   {
     "cat": "Sports",
@@ -558,15 +585,6 @@ const newsData_en = [
     "time": "2026-04-13T17:54:22.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Praful Hinge scripts history in 19 years of IPL, becomes first-ever to ...",
-    "desc": "Debutant Praful Hinge etched his name in IPL history with a sensational opening over, claiming three wickets for ducks against Rajasthan Royals. The 24-year-old seamer from Vidarbha, picked for Rs 30 lakh, showcased remarkable potential, justifying Sunrisers Hyderabad's faith and announcing himself as a rising star.",
-    "img": "https://static.toiimg.com/photo/msid-130242946,imgsize-150020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/praful-hinge-scripts-history-in-19-years-of-ipl-becomes-first-ever-to-/articleshow/130242961.cms",
-    "time": "2026-04-13T17:30:07.000Z"
-  },
-  {
     "cat": "World",
     "title": "Russia offers to take in Iran's enriched uranium",
     "desc": "Failed talks between Iran and the United States over the weekend dashed hopes of a swift deal to permanently end the war that has killed thousands and thrown the global economy into turmoil since it began in late February",
@@ -587,20 +605,11 @@ const newsData_en = [
   {
     "cat": "Business",
     "title": "Delhi-Dehradun Expressway: Travel From Delhi To Dehradun In Just 2.5 Hours! Check Top Facts &amp; Photos",
-    "desc": "Prime Minister Narendra Modi is all set to inaugurate the Delhi-Dehradun Expressway, which is also being called the Delhi-Dehradun Expressway Economic Corridor. The new expressway built under National Highways Authority of India is an access-controlled roadway corridor that will substantially reduce the travel time between Delhi and Dehradun. The full expressway will be thrown open on April 14, 2026. From a unique wildlife corridor to route map, here are top facts and photos of the Delhi-Dehradun Expressway:",
+    "desc": "Prime Minister Narendra Modi has inaugurated the Delhi-Dehradun Expressway, which is also being called the Delhi-Dehradun Expressway Economic Corridor. The new expressway built under National Highways Authority of India is an access-controlled roadway corridor that will substantially reduce the travel time between Delhi and Dehradun. The full expressway was thrown open on April 14, 2026. From a unique wildlife corridor to route map, here are top facts and photos of the Delhi-Dehradun Expressway:",
     "img": "https://static.toiimg.com/photo/msid-130242783,imgsize-79830.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/delhi-dehradun-expressway-inauguration-pm-narendra-modi-opening-date-travel-time-economic-corridor-route-map-wildlife-corridor-toll-charge-top-facts-and-photos/photostory/130242783.cms",
     "time": "2026-04-13T17:17:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi falls for golden duck; Kavya Maran's wild celebration goes viral",
-    "desc": "Youngster Vaibhav Sooryavanshi faced a rare failure in the IPL 2026 clash against Sunrisers Hyderabad. He was dismissed for a golden duck by pacer Praful Hinge. Wicketkeeper Ishan Kishan and Salil Arora combined for the catch. The Sunrisers Hyderabad dugout, including owner Kavya Maran, erupted in celebration. Sooryavanshi walked back to the pavilion in disbelief after an uncharacteristic off day.",
-    "img": "https://static.toiimg.com/photo/msid-130241907,imgsize-39650.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/vaibhav-sooryavanshi-falls-for-golden-duck-kavya-marans-wild-celebration-goes-viral-watch/articleshow/130241882.cms",
-    "time": "2026-04-13T16:19:55.000Z"
   },
   {
     "cat": "World",

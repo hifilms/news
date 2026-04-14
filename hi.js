@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "PCB ban Blessing Muzarabani for two years after opting out of PSL for IPL 2026",
+    "desc": "After going unsold in the IPL auction, Zimbabwe pacer Blessing Muzarabani signed a deal with Islamabad United in the Pakistan Super League. However, after Bangladesh seamer Mustafizur Rahman was released by Kolkata Knight Riders following...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pcb-ban-blessing-muzarabani-for-two-years-after-opting-out-of-psl-for-ipl-2026-2026-04-14-1037491",
+    "time": "2026-04-14T10:12:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samon wins ICC player of the month award after heroic T20 World Cup 2026 showcase",
+    "desc": "In a major development, star India batter Sanju Samson has been awarded the ICC Player of the Month for March, 2026. Samson has been awarded the honour for his brilliant performances for the Indian team...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samon-wins-icc-player-of-the-month-award-after-heroic-t20-world-cup-2026-showcase-2026-04-14-1037486",
+    "time": "2026-04-14T09:41:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Babar Azam annoyed with questions over strike rate after subpar form continues in PSL",
+    "desc": "The ongoing PSL (Pakistan Super League) 2026 season has seen ace Pakistan batter Babar Azam amidst the runs. Sitting in third place in the list of highest run-getters, Babar’s biggest problem with the bat has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-annoyed-with-questions-over-strike-rate-after-subpar-form-continues-in-psl-watch-2026-04-14-1037480",
+    "time": "2026-04-14T08:59:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 Player battles to watch out for in IPL 2026 Match 22",
+    "desc": "Game 22 of the ongoing IPL (Indian Premier League) 2026 sees Chennai Super Kings taking on Kolkata Knight Riders. The two sides will lock horns at the MA Chidambaram Stadium in Chennai on April 14....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-kkr-3-player-battles-to-watch-out-for-in-ipl-2026-match-22-2026-04-14-1037474",
+    "time": "2026-04-14T08:15:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer points out Sanju Samson's potential weakness ahead of KKR clash",
     "desc": "The stage is set for game 22 of the ongoing IPL (Indian Premier League) 2026. Chennai Super Kings will be hosting Kolkata Knight Riders at the MA Chidambaram Stadium in Chennai on April 14. It...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-s-praful-hinge-enters-elite-list-with-exceptional-showing-against-rajasthan-royals-2026-04-14-1037425",
     "time": "2026-04-14T01:23:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Praful Hinge, Sakib's magic and Kishan's blitz powers SRH as RR's unbeaten run in IPL 2026 ends",
-    "desc": "Debutants Praful Hinge and Sakib Hussain announced themselves as Sunrisers Hyderabad mauled the unbeaten Rajasthan Royals in their Indian Premier League clash at the Rajiv Gandhi International Stadium on Monday, April 13. Hinge and Sakib...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/praful-hinge-sakibs-magic-and-kishans-blitz-powers-srh-as-rrs-unbeaten-run-in-ipl-2026-ends-2026-04-13-1037418",
-    "time": "2026-04-13T18:09:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Praful Hinge, the SRH debutant who dismissed Vaibhav Sooryavanshi for golden duck and rocked RR?",
-    "desc": "Praful Hinge had a dream IPL debut as the Sunrisers Hyderabad fast-bowler destroyed the Rajasthan Royals' top-order during the fixture at the Rajiv Gandhi International Stadium on Monday, April 13. Hinge created history as he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-praful-hinge-the-srh-debutant-who-dismissed-vaibhav-sooryavanshi-for-golden-duck-and-rocked-rr-2026-04-13-1037411",
-    "time": "2026-04-13T16:47:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Praful Hinge achieves never-before-seen record on IPL debut after rocking RR in Hyderabad",
-    "desc": "Praful Hinge created history on debut in the Indian Premier League as the Sunrisers Hyderabad speedster rocked the Rajasthan Royals batting lineup in the clash at the Rajiv Gandhi International Stadium on Monday, April 13....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/praful-hinge-achieves-never-before-seen-record-on-ipl-debut-after-rocking-rr-in-hyderabad-2026-04-13-1037410",
-    "time": "2026-04-13T16:33:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma breaks Rohit Sharma, Sanju Samson's unwanted record after golden duck in SRH-RR IPL clash",
-    "desc": "Hard-hitting batter Abhishek Sharma's hot and cold form in 2026 continues as the Sunrisers Hyderabad star was dismissed for the golden duck during his team's clash against the Rajasthan Royals on Monday, April 13. Abhishek...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-rohit-sharma-sanju-samsons-unwanted-record-after-golden-duck-in-srh-rr-ipl-clash-2026-04-13-1037402",
-    "time": "2026-04-13T14:55:22.000Z"
   }
 ];
