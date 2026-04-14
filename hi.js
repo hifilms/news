@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will surface at M Chinnaswamy Stadium in Bengaluru play?",
+    "desc": "Royal Challengers Bengaluru will host Lucknow Super Giants in their upcoming IPL 2026 clash at the M Chinnaswamy Stadium. Under the leadership of Rajat Patidar, RCB have played some phenomenal cricket in the competition and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-lsg-pitch-report-how-will-surface-at-m-chinnaswamy-stadium-in-bengaluru-play-2026-04-14-1037556",
+    "time": "2026-04-14T18:25:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK's old-school spin dominance does the trick vs Kolkata in bottom-of-the-table clash",
+    "desc": "Chennai Super Kings thrashed Kolkata Knight Riders in the IPL 2026 marquee clash at the MA Chidambaram Stadium. The two bottom-of-the-table teams had the perfect opportunity to find some momentum and in that manner, CSK...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-s-old-school-spin-dominance-does-the-trick-vs-kolkata-in-bottom-of-the-table-clash-2026-04-14-1037552",
+    "time": "2026-04-14T17:59:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mayank Yadav 'ready to go' in IPL 2026 clash against RCB, says LSG cricket director Tom Moody",
+    "desc": "Lucknow Super Giants global director of cricket Tom Moody confirmed that tearaway fast bowler Mayank Yadav is 'ready to go' as they gear up to take on Royal Challengers Bengaluru on Wednesday, April 15. Yadav...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mayank-yadav-ready-to-go-in-ipl-2026-clash-against-rcb-says-lsg-cricket-director-tom-moody-2026-04-14-1037551",
+    "time": "2026-04-14T17:48:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will RCB talisman play in IPL 2026 clash against LSG in Bengaluru?",
+    "desc": "Royal Challengers Bengaluru icon Virat Kohli trained with the team on the eve of the IPL 2026 clash against the Lucknow Super Giants at the M. Chinnaswamy on Wednesday, April 15. Kohli gears up for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-injury-update-will-rcb-talisman-play-in-ipl-2026-clash-against-lsg-in-bengaluru-2026-04-14-1037544",
+    "time": "2026-04-14T16:41:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why are CSK and KKR players wearing black armbands in IPL 2026 clash in Chennai?",
     "desc": "Both Chennai Super Kings and Kolkata Knight Riders players took the field wearing black armbands during their marquee IPL 2026 clash at the MA Chidambaram Stadium. The gesture was later confirmed as a tribute to...",
     "img": "",
@@ -37,8 +73,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Kolkata finish well, restrict Chennai to 192 runs in first innings",
-    "desc": "Chennai Super Kings host Kolkata Knight Riders at the MA Chidambaram Stadium in Chennai as they look to carry forward the momentum from their much-needed win in the previous game against the Delhi Capitals. CSK...",
+    "title": "Chennai Super Kings beat Kolkata by 32 runs at Chepauk",
+    "desc": "Chennai Super Kings defeated the Kolkata Knight Riders at the MA Chidambaram Stadium in Chennai as they registered their second of the tournament following their win in the previous game against the Delhi Capitals. CSK...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-kkr-ipl-2026-live-cricket-score-chennai-super-kings-vs-kolkata-knight-riders-ma-chidambaram-stadium-chennai-latest-match-updates-scorecard-2026-04-14-1037524",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-picked-replacement-for-injured-brydon-carse-for-ipl-2026-rope-in-sri-lankan-pacer-2026-04-14-1037519",
     "time": "2026-04-14T12:53:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shane Warne's son blames COVID vaccine for legendary cricketer's death, explains details",
-    "desc": "Four years after the sudden passing of Shane Warne in Thailand, fresh remarks from his son Jackson have reignited conversation around the circumstances surrounding the Australian legend’s death. Speaking on the ‘2 Worlds Collide’ podcast,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shane-warne-s-son-blames-covid-vaccine-for-legendary-cricketer-s-death-explains-details-2026-04-14-1037515",
-    "time": "2026-04-14T12:19:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'See you in the IPL': Praful Hinge reveals duel with Hardik Pandya and MI skipper's message",
-    "desc": "Praful Hinge made a sensational debut for Sunrisers Hyderabad in their Indian Premier League 2026 clash against the Rajasthan Royals on Monday, April 13. Hinge was the cornerstone in SRH beating RR by 57 runs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/see-you-in-the-ipl-praful-hinge-reveals-duel-with-hardik-pandya-and-mi-skippers-message-2026-04-14-1037514",
-    "time": "2026-04-14T12:02:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav's spot in India T20I team isn't guaranteed, BCCI wants better batting performances",
-    "desc": "India won the T20 World Cup 2026 under the leadership of Suryakumar Yadav. However, the Mumbai batter hasn’t been able to lead by example as consistency remains a work in progress. In 2025, he struggled...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-s-spot-in-india-t20i-team-isn-t-guaranteed-bcci-wants-better-batting-performances-2026-04-14-1037508",
-    "time": "2026-04-14T11:31:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SRH likely to get Pat Cummins boost as captain to undergo fitness test, expected return date revealed",
-    "desc": "Sunrisers Hyderabad could be boosted by a potential return of regular captain Pat Cummins in the Indian Premier League 2026. Cummins has not played for the 2016 champions as he is recovering from a lumbar...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/srh-likely-to-get-pat-cummins-boost-as-captain-to-undergo-fitness-test-expected-return-date-revealed-2026-04-14-1037502",
-    "time": "2026-04-14T11:15:14.000Z"
   }
 ];

@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ત્રીજા વિશ્વયુદ્ધના ભણકારા? જાણો હવે કોણ કોની સાથે ઊભું રહેશે; અમેરિકા-ઈરાન સાથે કોણ?",
+    "desc": "ઇસ્લામાબાદ શાંતિ વાર્તાની નિષ્ફળતા અને સ્ટ્રેટ ઓફ હોર્મુઝની અમેરિકા દ્વારા નાકેબંધીએ દુનિયાને ત્રીજા વિશ્વયુદ્ધના ઉંબરે લાવીને ઊભું કરી દીધું છે. વૈશ્વિક શક્તિઓનું બે સ્પષ્ટ જૂથોમાં વહેંચાવું અને ઓઈલ પુરવઠો ઠપ થવો એ મોટા સંકટનો સંકેત છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/fears-of-world-war-3-find-out-who-will-stand-with-whom-now-who-with-america-iran-473106 ",
+    "time": "2026-04-14T17:46:51.000Z"
+  },
+  {
     "cat": "Business",
     "title": "કર્મચારીઓની બલ્લે-બલ્લે! 5 લાખથી 1 કરોડ સુધીનું બોનસ આપશે આ ટેક કંપની, વહેંચી રહી છે સેલેરી કરતા વધુ શેર",
     "desc": "Nvidiaએ ભારતમાં પોતાના કર્મચારીઓને 5 લાખ રૂપિયાથી 1 કરોડ રૂપિયા સુધીનું સ્ટોક બોનસ આપવાની જાહેરાત કરી છે. જેન્સેન હુઆંગ (Jensen Huang)ની આ પહેલ દ્વારા કર્મચારીઓને 25% વધારાના RSU આપવામાં આવી રહ્યા છે, જે 4 વર્ષમાં મળશે. આ કંપની ટેક ઇન્ડસ્ટ્રીમાં ઇક્વિટી-આધારિત સેલેરીનો નવો ટ્રેન્ડ સેટ કરી રહી છે.",
@@ -277,15 +286,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/mohammad-bagher-ghalibaf-warns-america-donald-tump-over-hormuz-blockade-472812 ",
     "time": "2026-04-13T08:02:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સાબુ-ડિટર્જન્ટ પણ મોંઘા થયા! ઈરાન-કતારથી સાબુ માટેનું એક કેમિકલ નહિ આવે તો હજી વધશે ભાવ",
-    "desc": "હાલ ઈરાન અમેરિકાની સ્થિતિને કારણે હોર્મુઝની ખાડી બંધ હોવાથી ઈરાનથી આયાત કરાતી વસ્તુઓ અટકી પડી છે. જો આ રસ્તો નહિ ખૂલે તો અનેક વસ્તુઓમાં મોંઘવારી આવી શકે છે. હાલ ઈરાનથી આવતા એક કેમિકલને કારણે ભારતમાં સાબુ-ડિટરજન્ટના ભાવ વધી ગયા છે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/soap-and-detergen-price-hike-due-to-iran-war-situation-chemical-import-stopped-472805 ",
-    "time": "2026-04-13T07:13:04.000Z"
   },
   {
     "cat": "Politics",

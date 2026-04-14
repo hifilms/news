@@ -1,6 +1,186 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "Interview",
+    "desc": "Ghosal says that bringing quality coaches to India will be the first step in this direction; feels that players are currently being produced mainly due to personal drive and initiative; opines that there’s enough depth in the men’s ranks to defend the Asian Games gold",
+    "img": "https://th-i.thgim.com/public/incoming/wgpm63/article70862671.ece/alternates/LANDSCAPE_1200/15_Saurav%20Ghosal.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/interview-saurav-ghosal-if-we-have-to-become-a-global-superpower-we-need-a-system-to-produce-it/article70862659.ece",
+    "time": "2026-04-14T18:55:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Annual fishing ban commences in coastal Tamil Nadu from April 15",
+    "desc": "Under the Tamil Nadu Marine Fishing Regulation Act 1983, considering the breeding season of fish and to protect fishery resources, a fishing ban is implemented every year along the East Coast of Tamil Nadu for 61 days from April 15 to June 14",
+    "img": "https://th-i.thgim.com/public/incoming/gpcmyb/article70861587.ece/alternates/LANDSCAPE_1200/10217_14_4_2026_16_27_17_1_DSC_6261.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/annual-fishing-ban-commences-in-coastal-tamil-nadu-from-april-15-2026/article70861458.ece",
+    "time": "2026-04-14T18:51:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Constitution Amendment Bill proposes possible change in size of State Assemblies",
+    "desc": "The proposed amendments, in effect, mean that State Assemblies will see a change in their total number of seats, depending on population changes and constituency boundaries within States will also be redrawn as part of the delimitation exercise",
+    "img": "https://th-i.thgim.com/public/incoming/5vzecv/article66896164.ece/alternates/LANDSCAPE_1200/Moorthynew%20Parliament.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/constitution-amendment-bill-proposes-fresh-delimitation-possible-change-in-size-of-state-assemblies/article70862033.ece",
+    "time": "2026-04-14T18:49:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre moots inter-State redistribution of Lok Sabha seats based on 2011 Census",
+    "desc": "Govt circulates drafts of Constitution Amendment Bill and Delimitation Bill; If proposals are accepted, share of Lok Sabha seats of southern States will shrink; Bills propose increase in size of Lok Sabha to a maximum of 850 seats",
+    "img": "https://th-i.thgim.com/public/incoming/xuke9l/article70862581.ece/alternates/LANDSCAPE_1200/IMG_PM_Modi_tweeted__an__2_1_RHB9EGPM.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/centre-seeks-inter-state-redistribution-of-lok-sabha-seats-based-on-2011-census/article70862395.ece",
+    "time": "2026-04-14T18:41:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Noor's trickery stands out as CSK hand KKR 4th defeat in 5 games",
+    "desc": "Kolkata Knight Riders slumped to a 32-run loss against Chennai Super Kings, exposing flaws in their batting approach and planning. Noor Ahmad’s spell triggered a collapse, while Rahane’s slow innings hurt the chase. Earlier, CSK posted 192/5 with key contributions from Samson, Mhatre and Brevis, before controlling the game with disciplined bowling.",
+    "img": "https://static.toiimg.com/photo/msid-130266687,imgsize-82982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-noor-ahmads-trickery-stands-out-as-csk-hand-kkr-fourth-defeat-in-5-games/articleshow/130266529.cms",
+    "time": "2026-04-14T18:33:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gorillaz frontman Damon Albarn recalls a memory with Asha Bhosle",
+    "desc": "As tributes continue to pour in for legendary singer Asha Bhosle, who passed away on April 12, global artist Damon Albarn has joined voices across the world in remembering the icon whose music transcended generations and borders. Taking to Instagram on Tuesday, Damon Albarn shared a heartfelt note along with a series of old photographs, believed to have been taken at the singer’s Mumbai residence. The Gorillaz frontman reflected on his long-standing admiration for Asha Bhosle and the rare opportunity to meet her.",
+    "img": "https://static.toiimg.com/photo/msid-130265848,imgsize-59700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gorillaz-frontman-damon-albarn-recalls-a-memory-with-asha-bhosle-that-will-last-forever-her-voice-was-my-gateway-to-bollywood/articleshow/130265848.cms",
+    "time": "2026-04-14T17:53:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Lebanese and Israeli envoys to meet as Israel presses war on Hezbollah",
+    "desc": "The meeting comes at a critical juncture in the crisis in West Asia, a week into a fragile ceasefire between the United States, Israel, and Iran. The parallel war between Israel and Iran-backed Hezbollah in Lebanon has been a complicating factor in Pakistan’s mediation to end the wider conflict",
+    "img": "https://th-i.thgim.com/public/incoming/w3hv1i/article70862568.ece/alternates/LANDSCAPE_1200/Lebanon_Israel_US_76664.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/lebanese-and-israeli-envoys-to-meet-as-israel-presses-war-on-hezbollah/article70862538.ece",
+    "time": "2026-04-14T17:53:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajnath Singh to visit Germany from April 21; submarine deal likely high on the agenda",
+    "desc": "German defence major Thyssenkrupp Marine Systems (TKMS) is close to finalising the deal, estimated to be worth over $8 billion; the submarines are expected to be built primarily in India by Mazagon Dock Shipbuilders Limited in Mumbai, in collaboration with TKMS",
+    "img": "https://th-i.thgim.com/public/incoming/vb82h1/article70862533.ece/alternates/LANDSCAPE_1200/PTI04_11_2026_000583B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajnath-singh-germany-april-21-submarine-deal-likely-high-on-agenda/article70862279.ece",
+    "time": "2026-04-14T17:48:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajpal Yadav recalls asking SRK, ‘When will you act?’",
+    "desc": "Having worked with Shah Rukh Khan in films like Paheli, Bhoothnath, Kal Ho Naa Ho and Billu, Rajpal Yadav recently opened up about his experience of sharing screen space with the superstar and the bond they developed over time. The actor admitted that while they didn’t collaborate frequently, every project they did together turned out to be special. Rajpal also spoke about a memorable conversation with Shah Rukh Khan during the shoot of Billu, when he asked the superstar a candid question.",
+    "img": "https://static.toiimg.com/photo/msid-130265511,imgsize-52022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-recalls-asking-shah-rukh-khan-when-will-you-act-srk-replied-until-i-have-my-smile-/articleshow/130265511.cms",
+    "time": "2026-04-14T17:36:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trump updates Modi on West Asia, focus on securing Hormuz; US envoy says incredible India-US deals in offing",
+    "desc": "President Trump and PM Modi discussed West Asia's security, including the importance of securing safe passage of ships through the Strait of Hormuz. The leaders also reviewed significant progress in bilateral cooperation, with \"incredible deals\" in energy and other sectors anticipated soon. Ambassador Gor highlighted the strong relationship and focus on tangible results.",
+    "img": "https://static.toiimg.com/photo/msid-130265533,imgsize-676494.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/trump-updates-modi-on-west-asia-focus-on-securing-hormuz-us-envoy-says-incredible-india-us-deals-in-offing/articleshow/130265302.cms",
+    "time": "2026-04-14T17:34:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Intense contests brewing in the Cauvery delta, the rice bowl of Tamil Nadu",
+    "desc": "The DMK, which had won 37 of the 41 constituencies in nine districts in 2021, is looking to better its performance. The AIADMK, which had suffered heavy losses owing to a split in the votes caused by the AMMK and the NTK in several constituencies last time, is hoping that the anti-incumbency factor will turn the tide in its favour",
+    "img": "https://th-i.thgim.com/public/incoming/ycm454/article70862469.ece/alternates/LANDSCAPE_1200/TH15_TN%20Poll%20position.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/intense-contests-brewing-inthe-cauverydelta-the-rice-bowl-of-tamil-nadu/article70857547.ece",
+    "time": "2026-04-14T17:21:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Xi calls for closer ties with Spain in face of global 'chaos'",
+    "desc": "\"Both China and Spain are principled countries that stand for justice. They should strengthen communication, consolidate mutual trust, and cooperate closely to oppose the world's regression to the law of the jungle,\" Mr. Xi said during talks in the Great Hall of the People",
+    "img": "https://th-i.thgim.com/public/incoming/gbelps/article70862470.ece/alternates/LANDSCAPE_1200/2026-04-14T103650Z_563915650_RC2UOKA36DYQ_RTRMADP_3_CHINA-SPAIN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/xi-calls-for-closer-ties-with-spain-in-face-of-global-chaos/article70862446.ece",
+    "time": "2026-04-14T17:14:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sindarov wins Candidates, sets up World C'ship clash with D Gukesh",
+    "desc": "Javokhir Sindarov clinched the FIDE Candidates 2026 title with a round to spare after an unbeaten run, sealing qualification for the World Championship with a draw against Anish Giri. The Uzbek GM showed consistency throughout, starting with a win over Andrey Esipenko and maintaining control with key draws. He will now face reigning champion D Gukesh for the title.",
+    "img": "https://static.toiimg.com/photo/msid-130264849,imgsize-51782.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/unbeaten-javokhir-sindarov-wins-candidates-2026-sets-up-world-chess-championship-clash-with-d-gukesh/articleshow/130264726.cms",
+    "time": "2026-04-14T17:09:40.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Russian missile kills five in Ukraine's Dnipro, officials say",
+    "desc": "“These were civilians who ‌were simply driving ‌down ⁠the road in their ⁠cars. People who were going about their business, heading home ​to their ‌families,” Ukraine’s Infrastructure Minister Oleksiy Kuleba said on the Telegram app",
+    "img": "https://th-i.thgim.com/public/incoming/vqqx20/article70862438.ece/alternates/LANDSCAPE_1200/2026-04-14T120500Z_1148793974_RC2ZOKAXCXPG_RTRMADP_3_UKRAINE-CRISIS-ATTACK-DNIPRO.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russian-missile-kills-five-in-ukraines-dnipro-officials-say/article70862428.ece",
+    "time": "2026-04-14T17:02:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "The Hindu’s new show",
+    "desc": "Above the Fold is The Hindu’s weekday news show, bringing you the most important stories of the day with clarity, depth, and context. Each episode also spotlights exclusive reporting, sharp analysis, and on-ground stories from The Hindu that you shouldn’t miss.",
+    "img": "https://th-i.thgim.com/public/incoming/u5fyfb/article70862323.ece/alternates/LANDSCAPE_1200/April%2014%20THUMB.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-the-hindus-new-show-above-the-fold-14042026/article70862342.ece",
+    "time": "2026-04-14T16:43:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Higher vote share for Vijay could work to the DMK’s advantage, says the CPI Tamil Nadu secretary",
+    "desc": "Within the TVK, there is an educated group of people keen on defeating the BJP front which, they believe, is acting against Tamil Nadu’s interests. Many of them recognise that voting for Vijay may not yield benefits. They understand that the DMK-led alliance has an edge over the AIADMK-led front, says M. Veerapandian",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/uk5znd/article70862300.ece/alternates/LANDSCAPE_1200/2022%20MARCH%2009%202.JPG.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/higher-vote-share-forvijaycould-workto-thedmksadvantage-says-cpi-tamil-nadu-secretary/article70861784.ece",
+    "time": "2026-04-14T16:31:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "After almost clearing Rs 2 cr debt, Rajesh Kumar says he has sold his car",
+    "desc": "Actor Rajesh Kumar, known for 'Sarabhai vs Sarabhai', is nearing financial recovery, with only 10-15% of his Rs 2 crore debt remaining. He recently sold his car due to Mumbai's traffic, not financial strain, and finds convenience in public transport. His sisters have now taken over his farming venture.",
+    "img": "https://static.toiimg.com/photo/msid-130263839,imgsize-30742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-almost-clearing-rs-2-crore-debt-rajesh-kumar-now-reveals-hes-sold-his-car-and-takes-public-transport-you-should-stop-giving-so-much-importance-/articleshow/130263831.cms",
+    "time": "2026-04-14T16:16:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar beats Baahubali, Pushpa, KGF; crosses Rs 3000 cr",
+    "desc": "The Revenge have achieved a historic feat at the box office. The Ranveer Singh-starrer franchise has officially crossed the Rs 3000 crore mark worldwide, becoming the first Indian film series to do so. With this milestone, the franchise has overtaken some of Indian cinema’s biggest blockbusters like Baahubali, Pushpa and KGF. This makes Dhurandhar the highest-grossing franchise in Indian cinema so far.",
+    "img": "https://static.toiimg.com/photo/msid-130263629,imgsize-46414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-dhurandhar-franchise-beats-baahubali-pushpa-kgf-crosses-rs-3000-crore-worldwide-to-become-indias-biggest-film-series/articleshow/130263629.cms",
+    "time": "2026-04-14T16:11:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Injury scare? Virat Kohli trains with strapped knee ahead of LSG game",
+    "desc": "Virat Kohli was spotted training with his left knee heavily strapped ahead of Royal Challengers Bengaluru's IPL clash against Lucknow Super Giants. Despite a recent ankle niggle, Kohli displayed good form in the nets, easing fitness concerns. He has been in stellar form this season, amassing 179 runs in four matches.",
+    "img": "https://static.toiimg.com/photo/msid-130263594,imgsize-38944.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/injury-scare-virat-kohli-trains-with-strapped-knee-ahead-of-rcb-vs-lsg-game/articleshow/130263548.cms",
+    "time": "2026-04-14T16:00:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The 'big brother' act: How BJP scripted Maharashtra playbook in Bihar",
+    "desc": "The BJP has secured its first chief minister in Bihar with Samrat Choudhary's election, marking a significant shift in the state's political landscape. This move mirrors the party's strategy in Maharashtra, where it reclaimed leadership by strategically strengthening its position within existing alliances, demonstrating a path to dominance without coalition breakdown.",
+    "img": "https://static.toiimg.com/photo/msid-130263468,imgsize-1830527.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/the-big-brother-act-how-bjp-scripted-maharashtra-playbook-in-bihar-cm-nitish-kumar-samrat-choudhary/articleshow/130263354.cms",
+    "time": "2026-04-14T15:52:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "IPL 2026",
     "desc": "The clash will be the first of three consecutive games in the Garden City over the next 10 days, and having already won its two fixtures here, RCB would want to continue in the same vein and maximise its chances",
     "img": "https://th-i.thgim.com/public/incoming/kfpl2o/article70862035.ece/alternates/LANDSCAPE_1200/India_IPL_Cricket_6_711.jpg",
@@ -34,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-gets-emotional-remembering-father-dharmendra-whats-the-point-of-fame-and-wealth-if-theres-no-one-to-share-it-with/articleshow/130262992.cms",
     "time": "2026-04-14T15:30:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Inside India’s deportation policy: timelines to speed up deportation of illegal migrants, holding centres with 10-ft.-high barbed wire boundary",
-    "desc": "The new deportation policy issued by the Ministry of Home Affairs asks all States to set up a special task force in each district to ‘detect, identify and deport/send back illegal migrants from Bangladesh and Myanmar’, and provide a monthly status report on foreigners who are missing or overstaying their visas",
-    "img": "https://th-i.thgim.com/public/incoming/xlzb5i/article70862074.ece/alternates/LANDSCAPE_1200/IMG_FL_-_INDIA_CITIZENS__2_1_KHDURC03.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/inside-indias-deportation-policy-timelines-to-speed-up-deportation-of-illegal-migrants-holding-centres-with-10-ft-high-barbed-wireboundary/article70861331.ece",
-    "time": "2026-04-14T15:18:58.000Z"
   },
   {
     "cat": "Politics",
@@ -297,15 +468,6 @@ const newsData_en = [
     "time": "2026-04-14T09:26:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Not seen 'dirty party' like BJP, says Mamata Banerjee; flags ‘logical discrepancy’ in SIR process",
-    "desc": "West Bengal Chief Minister Mamata Banerjee criticized the Election Commission and BJP, alleging selective application of the SIR process to benefit the BJP. She accused the BJP of attempting to divide the state and urged voters to unite against \"Bangla-Birodhi Zamindars\" to secure a fourth term for TMC.",
-    "img": "https://static.toiimg.com/photo/msid-130255761,imgsize-800856.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/not-seen-dirty-party-like-bjp-says-mamata-banerjee-flags-logical-discrepancy-in-bengal-sir-process/articleshow/130255251.cms",
-    "time": "2026-04-14T09:25:52.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Aruna Irani breaks down recalling late Asha Bhosle, REVEALS she was in pain",
     "desc": "Aruna Irani pays a heartfelt tribute to legendary singer Asha Bhosle, recalling her warmth, strength, and ability to stay cheerful despite personal struggles. Calling her loss irreparable, Aruna highlights her unmatched versatility across genres and cherishes their close bond, while celebrating the timeless legacy of a voice that will forever live on.",
@@ -351,24 +513,6 @@ const newsData_en = [
     "time": "2026-04-14T09:02:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CM Stalin holds door-to-door campaign in Vellore",
-    "desc": "Tamil Nadu Chief Minister M K Stalin campaigned in Vellore for the upcoming Assembly elections. He visited a tea shop and interacted with residents. The DMK faces a rematch against the AIADMK in Vellore. Stalin also criticized the BJP's stance on delimitation and promised welfare schemes for women. Tamil Nadu votes on April 23.",
-    "img": "https://static.toiimg.com/photo/msid-130255301,imgsize-667842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-polls-cm-stalin-holds-door-to-door-campaign-in-vellore/articleshow/130255306.cms",
-    "time": "2026-04-14T08:59:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Varun, Mrunal and Pooja bring David's comedy alive",
-    "desc": "Hai Jawani Toh Ishq Hona Hai teaser shows David Dhawan’s fun rom-com style with Varun Dhawan, Mrunal Thakur and Pooja Hegde. The teaser features AI toddlers, a love triangle, and a new version of Ishq Sona Hai. The film releases on May 22, while Varun was last seen in Border 2.",
-    "img": "https://static.toiimg.com/photo/msid-130255182,imgsize-34042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hai-jawani-toh-ishq-hona-hai-teaser-varun-dhawan-mrunal-thakur-and-pooja-hegde-bring-david-dhawans-comedy-alive/articleshow/130255182.cms",
-    "time": "2026-04-14T08:51:31.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Petrol, diesel losses: What oil firms are losing amid Hormuz supply squeeze",
     "desc": "India's state-run oil companies are incurring significant losses, estimated at Rs 18 per litre on petrol and Rs 35 on diesel, due to unchanged retail prices amidst volatile global crude oil prices. Despite a government excise duty cut, these firms continue to face mounting financial strain, with potential price hikes anticipated post-state elections.",
@@ -379,30 +523,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Alia drops PICS from anniversary getaway with Ranbir, fans reminded of YJHD",
-    "desc": "Alia Bhatt and Ranbir Kapoor celebrated their fourth wedding anniversary with a picturesque snowy getaway, sharing glimpses of their trip including skiing and family moments with daughter Raha. Alia penned a heartfelt note to Ranbir, and fans showered the couple with love. The duo is set to reunite on screen for Sanjay Leela Bhansali's 'Love & War'.",
-    "img": "https://static.toiimg.com/photo/msid-130255098,imgsize-69416.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-ranbir-kapoor-celebrate-anniversary-with-snow-and-skiing-the-actress-drops-pics-fans-are-reminded-of-yeh-jawaani-hai-deewani/articleshow/130254966.cms",
-    "time": "2026-04-14T08:42:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar 2' BO day 27 [LIVE]: Ranveer Singh film eyes Rs. 1100 crore milestone",
     "desc": "The Revenge', continues its unprecedented box office reign on Day 27. Having already made history as the first Hindi film to breach the Rs 1,000 crore India net milestone, the Ranveer Singh-starrer is now closing in on the Rs 1,100 crore domestic landmark. Despite the 2026 IPL season, the film's global footprint has expanded to a staggering Rs 1,718 crore. Stay updated with live tracking, weekly breakdowns, and day-wise earnings of this cinematic phenomenon.",
     "img": "https://static.toiimg.com/photo/msid-130254538,imgsize-189388.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-27-live-ranveer-singh-r-madhavan-rakesh-bedi-sanjay-dutt-arjun-rampal-sara-arjun-film-eyes-rs-1100-crore-domestic-net-on-fourth-tuesday-after-crossing-rs-1090-crore-india-net-and-rs-1718-crore-worldwide-despite-ipl-2026/articleshow/130254538.cms",
     "time": "2026-04-14T08:31:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Sunil Narine should open': Ex-KKR star slams batting strategy amid poor start",
-    "desc": "Kolkata Knight Riders face early season struggles. The team seeks its first win, with a single point from a rain-affected match. Both batting and bowling units need improvement. Sunil Narine's batting position and Ajinkya Rahane's leadership are under discussion. Cameron Green and Finn Allen are yet to deliver impactful performances.",
-    "img": "https://static.toiimg.com/photo/msid-130254565,imgsize-181262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/sunil-narine-should-open-ex-kkr-star-slams-batting-strategy-amid-poor-start/articleshow/130254483.cms",
-    "time": "2026-04-14T08:28:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,15 +549,6 @@ const newsData_en = [
     "time": "2026-04-14T08:15:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When Shakti Mohan went down on her knees for Hrithik Roshan",
-    "desc": "Shakti Mohan once had a memorable fan moment with her longtime crush Hrithik Roshan on Dance Plus. Overwhelmed, she went down on her knees and confessed “I love you.” Hrithik responded warmly, praising her talent. Later, Shakti recalled her deep admiration since childhood, calling the encounter one of the happiest and most unforgettable days of her life. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130254268,imgsize-84178.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-shakti-mohan-went-down-on-her-knees-and-confessed-her-love-to-hrithik-roshan-on-national-tv-my-heart-was-broken-when-i-saw-him-getting-married/articleshow/130254268.cms",
-    "time": "2026-04-14T08:02:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Blank mind’ &amp; bold leap: How Harika Dronavalli cracked freestyle chess on debut",
     "desc": "In a nation where only four women have ever earned the GM title, 35-year-old Harika remains one of its most enduring pillars. As her compatriots prepare for the traditional grind of World Championship cycles, Harika has qualified for the inaugural FIDE Women’s Freestyle Chess World Championship, which is set to take place next year.",
@@ -439,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/harika-dronavalli-exclusive-blank-mind-and-bold-leap-how-the-veteran-cracked-freestyle-chess-on-debut/articleshow/130254074.cms",
     "time": "2026-04-14T07:57:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Asha Bhosle will never die for me...' says Sachin Pilgaonkar, recalls first meeting",
-    "desc": "Veteran actor Sachin Pilgaonkar pens an emotional tribute to legendary singer Asha Bhosle, recalling his first meeting with her as a child and their deep personal bond over the years. Calling her his “second mother,” he celebrates her vibrant spirit, cherishing their memories while emphasizing that her life and legacy should always be remembered and celebrated.",
-    "img": "https://static.toiimg.com/photo/msid-130253366,imgsize-149024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/asha-bhosle-will-never-die-for-me-sachin-pilgaonkar-pays-an-emotional-tribute-to-the-singer-recalls-his-first-meeting-exclusive-death-news/articleshow/130253366.cms",
-    "time": "2026-04-14T07:18:37.000Z"
   },
   {
     "cat": "Sports",
@@ -477,15 +585,6 @@ const newsData_en = [
     "time": "2026-04-14T05:38:53.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Markets rally on US–Iran talk hopes; Kospi hits six-week high",
-    "desc": "Asian markets surged Tuesday, led by a strong performance in Seoul's KOSPI, as lower oil prices and renewed hopes for US-Iran diplomatic talks boosted investor sentiment. Despite a breakdown in weekend negotiations, communication channels remain open, with both sides indicating a willingness to continue dialogue. Oil prices also declined, further supporting the positive market reaction.",
-    "img": "https://static.toiimg.com/photo/msid-130250341,imgsize-93864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-rally-on-usiran-talk-hopes-kospi-hits-six-week-high/articleshow/130250033.cms",
-    "time": "2026-04-14T03:34:52.000Z"
-  },
-  {
     "cat": "World",
     "title": "Made lot of progress, ball in Iran’s court: Vance",
     "desc": "The U.S. and Iran failed to reach an agreement in the 21-hour marathon peace talks in Islamabad over the weekend, with Washington insisting that Tehran refused to give up its right over enrichment of nuclear fuel",
@@ -493,24 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/made-lot-of-progress-ball-in-irans-court-vance/article70860022.ece",
     "time": "2026-04-14T03:27:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "D-Mart, UPL &amp; more: Top stocks to watch, target price &amp; more",
-    "desc": "Emkay Global initiated coverage of Avenue Supermart with a sell rating, citing its high valuation. Morgan Stanley resumed coverage of UPL with an equal weight rating, seeing potential in global crop chemical volume revival. HSBC initiated coverage of Acme Solar with a buy rating, highlighting its rapid growth and long-term earnings visibility.",
-    "img": "https://static.toiimg.com/photo/msid-130249817,imgsize-80346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/d-mart-upl-more-top-stocks-to-watch-on-april-14-2026/articleshow/130249793.cms",
-    "time": "2026-04-14T02:43:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil prices fall below $100 as US–Iran signal fresh talks amid Hormuz blockade",
-    "desc": "Oil prices dipped below $100 per barrel as hopes for eased US-Iran dialogue emerged following peace talks in Islamabad. Despite some positive signs, an agreement was not reached, with Iran refusing to abandon nuclear fuel enrichment. The US military extended its blockade of the Strait of Hormuz, prompting threats from Iran, though diplomatic channels remain open.",
-    "img": "https://static.toiimg.com/photo/msid-130249723,imgsize-2108222.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-fall-below-100-as-usiran-signal-fresh-talks-amid-hormuz-blockade-april-14-2026/articleshow/130249617.cms",
-    "time": "2026-04-14T02:28:42.000Z"
   },
   {
     "cat": "Sports",
@@ -817,41 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
