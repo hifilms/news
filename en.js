@@ -1,12 +1,138 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "IPL 2026",
+    "desc": "The clash will be the first of three consecutive games in the Garden City over the next 10 days, and having already won its two fixtures here, RCB would want to continue in the same vein and maximise its chances",
+    "img": "https://th-i.thgim.com/public/incoming/kfpl2o/article70862035.ece/alternates/LANDSCAPE_1200/India_IPL_Cricket_6_711.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-rcb-batters-and-chinnaswamy-pitch-pose-lsg-bowlers-their-toughest-test-yet/article70861952.ece",
+    "time": "2026-04-14T15:47:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay reveals son Aarav was scared of Vidya for 6 years after 'Bhool Bhulaiyaa'",
+    "desc": "Akshay Kumar revealed his son Aarav was so scared of Vidya Balan's Manjulika in 'Bhool Bhulaiyaa' that he refused to speak to her for six years. Akshay had to reassure his son that Vidya was a good person, highlighting the lasting impact of her iconic portrayal.",
+    "img": "https://static.toiimg.com/photo/msid-130263309,imgsize-54636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-reveals-son-aarav-bhatia-was-scared-of-vidya-balan-for-six-years-after-watching-bhool-bhulaiyaa/articleshow/130263199.cms",
+    "time": "2026-04-14T15:40:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nitish Kumar resigns, BJP’s Samrat Choudhary to become new CM",
+    "desc": "After days of speculation, Mr. Choudhary was unanimously elected as the leader of the BJP and NDA legislative parties; likely to take oath at 11 a.m. on April 15 with two Deputy CMs from the JD(U)",
+    "img": "https://th-i.thgim.com/public/incoming/233nlf/article70861707.ece/alternates/LANDSCAPE_1200/PTI04_14_2026_000403A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/samrat-choudhary-set-to-become-new-bihar-chief-minister-nitish-kumar-resigns/article70860369.ece",
+    "time": "2026-04-14T15:39:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bobby Deol gets emotional remembering father Dharmendra",
+    "desc": "For Bobby Deol, the years when work slowed down weren’t just professionally testing—they were emotionally complex. The actor recently revealed that what weighed on him the most was not the lack of opportunities, but the quiet pressure of how his father, Dharmendra, might have seen him during that phase. In the months following his father’s demise, Bobby said his perspective on life has shifted significantly. The pursuit of professional milestones has taken a backseat to something far more personal.",
+    "img": "https://static.toiimg.com/photo/msid-130262992,imgsize-34824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-gets-emotional-remembering-father-dharmendra-whats-the-point-of-fame-and-wealth-if-theres-no-one-to-share-it-with/articleshow/130262992.cms",
+    "time": "2026-04-14T15:30:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Inside India’s deportation policy: timelines to speed up deportation of illegal migrants, holding centres with 10-ft.-high barbed wire boundary",
+    "desc": "The new deportation policy issued by the Ministry of Home Affairs asks all States to set up a special task force in each district to ‘detect, identify and deport/send back illegal migrants from Bangladesh and Myanmar’, and provide a monthly status report on foreigners who are missing or overstaying their visas",
+    "img": "https://th-i.thgim.com/public/incoming/xlzb5i/article70862074.ece/alternates/LANDSCAPE_1200/IMG_FL_-_INDIA_CITIZENS__2_1_KHDURC03.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/inside-indias-deportation-policy-timelines-to-speed-up-deportation-of-illegal-migrants-holding-centres-with-10-ft-high-barbed-wireboundary/article70861331.ece",
+    "time": "2026-04-14T15:18:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We all love you', Trump tells PM Modi during 40-min call on Iran war, Hormuz",
+    "desc": "Prime Minister Modi and US President Trump held a significant phone call, reviewing robust bilateral ties and progress in their Comprehensive Global Strategic Partnership. They also addressed the critical situation in West Asia, emphasizing the need for a secure and open Strait of Hormuz. This marks their third discussion this year, following recent peace talks.",
+    "img": "https://static.toiimg.com/photo/msid-130262865,imgsize-1086371.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/we-all-love-you-trump-tells-pm-modi-during-40-min-call-on-iran-war-hormuz/articleshow/130262839.cms",
+    "time": "2026-04-14T15:14:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why CSK and KKR players are wearing black armbands",
+    "desc": "Kolkata Knight Riders players wore black armbands during their IPL 2026 match against Chennai Super Kings to mourn the passing of former India cricketer C. D. Gopinath. Gopinath was a member of India's first-ever Test-winning team and a significant figure in early Indian cricket history.",
+    "img": "https://static.toiimg.com/photo/msid-130262536,imgsize-167350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-why-csk-and-kkr-players-are-wearing-black-armbands-explained/articleshow/130262477.cms",
+    "time": "2026-04-14T14:55:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay fell unconscious, had 103 degree fever, recalls miraculously surviving",
+    "desc": "Akshay Kumar's birth was a answered prayer at Vaishno Devi, with his parents requesting a naughty child. Years later, during a thanksgiving trip, a dangerously ill infant Akshay miraculously recovered after his mother's unwavering faith and prayers at the temple, a moment he believes was divine intervention.",
+    "img": "https://static.toiimg.com/photo/msid-130262488,imgsize-28448.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-fell-unconscious-had-103-degree-fever-during-a-vaishno-devi-pilgimage-but-heres-how-he-miraculously-survived/articleshow/130262438.cms",
+    "time": "2026-04-14T14:54:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "1,041 kms apart, united by pace: IPL finds its new sensations in Praful, Sakib",
+    "desc": "Vidarbha’s pacer Praful Hinge and Bihar’s Sakib Hussain scripted history with four wickets each on IPL debut for Sunrisers Hyderabad against Rajasthan Royals. Their efforts bowled RR out for 159 in a 57-run win. Coaches praised their potential, highlighting strong domestic performances, while stressing the need for consistency going forward.",
+    "img": "https://static.toiimg.com/photo/msid-130261634,imgsize-66814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/1041-kms-apart-united-by-pace-ipl-finds-its-newest-sensations-in-praful-hinge-sakib-hussain/articleshow/130261087.cms",
+    "time": "2026-04-14T14:20:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Good headache to have': Tom Moody on LSG selection dilemma ahead of RCB clash",
+    "desc": "Lucknow Super Giants, facing early IPL struggles, look to M Chinnaswamy Stadium as a potential turning point for their batting, especially Nicholas Pooran. Global director Tom Moody expressed confidence in the unit, highlighting the return of pacers Mayank Yadav and Mohsin Khan, and praising Mohammed Shami's impactful bowling.",
+    "img": "https://static.toiimg.com/photo/msid-130261319,imgsize-101426.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/good-headache-to-have-tom-moody-on-lsg-selection-dilemma-ahead-of-rcb-clash/articleshow/130261239.cms",
+    "time": "2026-04-14T14:04:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Imran praises Adivi and Mrunal's Dacoit, calls Zayn ‘top star’",
+    "desc": "'Dacoit', starring Adivi Sesh, Mrunal Thakur, and Zayn Marie Khan (Mansoor Khan's daughter), earns praise from Imran Khan on Instagram. He calls it “free of toxic tropes,” spotlighting his cousin Zayn as top star and lauding Adivi’s vulnerability, Mrunal’s grit.",
+    "img": "https://static.toiimg.com/photo/msid-130261029,imgsize-23574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imran-khan-praises-adivi-sesh-and-mrunal-thakurs-dacoit-for-avoiding-toxic-tropes-calls-cousin-zayn-marie-top-star/articleshow/130261029.cms",
+    "time": "2026-04-14T13:50:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No Dhoni for CSK again; star player returns for KKR",
+    "desc": "MS Dhoni's absence continues to be felt by CSK fans as he missed another IPL 2026 match due to a calf strain. Despite batting in the nets, the veteran is still recovering and has not yet regained full match fitness. The team, led by Ruturaj Gaikwad, is focused on finding the right combination and consistency.",
+    "img": "https://static.toiimg.com/photo/msid-130260534,imgsize-88532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/no-ms-dhoni-for-csk-again-star-player-returns-as-kkr-opt-to-field/articleshow/130260503.cms",
+    "time": "2026-04-14T13:40:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How Asha Bhosle outgrew the long, looming shadow of Lata Mangeshkar",
+    "desc": "India's post-colonial era saw a duality in its social order, reflected in its female playback singers. While Lata Mangeshkar became the gold standard for purity, Asha Bhosle carved her own path, embracing diverse styles and embodying hidden desires. Their distinct voices represented contrasting facets of evolving Indian society and its aspirations.",
+    "img": "https://static.toiimg.com/photo/msid-130260807,imgsize-856305.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/how-asha-bhosle-outgrew-the-long-looming-shadow-of-lata-mangeshkar/articleshow/130260677.cms",
+    "time": "2026-04-14T13:39:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vikram Bhatt recalls terrifying jail experience when he was arrested in Rs 30 cr fraud case",
+    "desc": "Filmmaker Vikram Bhatt recounts a harrowing health scare during his 2025-2026 incarceration in Udaipur Central Jail. Suffering from a severe fever and uncontrollable shivering due to his autoimmune condition, Bhatt faced delays in receiving medical attention. He turned to prayer and self-care, believing divine intervention aided his recovery before he was eventually taken to a hospital.",
+    "img": "https://static.toiimg.com/photo/msid-130260683,imgsize-27946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikram-bhatt-recalls-terrifying-jail-experience-when-he-was-arrest-in-rs-30-crore-fraud-case-and-fell-sick-with-high-fever-dont-want-to-die-here/articleshow/130260575.cms",
+    "time": "2026-04-14T13:32:58.000Z"
+  },
+  {
     "cat": "World",
     "title": "UN",
     "desc": "\"In the first three months of this year, nearly 700 civilians were reportedly killed in drone strikes,\" UN humanitarian chief Tom Fletcher said in a statement, a day before the three-year anniversary of the start of the war",
-    "img": "https://th-i.thgim.com/public/incoming/lbn6ig/article70861374.ece/alternates/LANDSCAPE_1200/Sudan_50027.jpg",
+    "img": "https://th-i.thgim.com/public/news/national/6bqrwz/article70861385.ece/alternates/LANDSCAPE_1200/iStock-1404313318.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/nearly-700-reported-killed-in-sudan-drone-strikes-this-year-un/article70861226.ece",
-    "time": "2026-04-14T13:15:51.000Z"
+    "time": "2026-04-14T13:18:59.000Z"
   },
   {
     "cat": "Politics",
@@ -19,48 +145,21 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
+    "title": "Cummins boost for SRH, Australia pacer's likely return timeline emerges",
+    "desc": "Sunrisers Hyderabad may soon welcome back star pacer Pat Cummins, who is set to undergo a fitness test in Australia on Wednesday. If cleared, Cummins is expected to join the squad by April 17, significantly strengthening their bowling attack for the latter half of the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-130260046,imgsize-52502.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-pat-cummins-boost-for-srh-australia-pacers-likely-return-timeline-emerges/articleshow/130260033.cms",
+    "time": "2026-04-14T13:01:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PCB chief Naqvi trolled for 'long queues at petrol pumps in India' remark",
     "desc": "Mohsin Naqvi faced backlash after claiming India was facing fuel shortages, despite Pakistan’s own energy crisis. His remarks came as PSL 2026 matches are held without crowds due to fuel and security issues. With prices rising over 40%, Pakistani people criticised his comments on social nedia, pointing out stable fuel conditions in India and questioning his claims.",
     "img": "https://static.toiimg.com/photo/msid-130259796,imgsize-45202.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-chief-mohsin-naqvi-trolled-for-long-queues-at-petrol-pumps-in-india-remark-psl-ipl/articleshow/130258012.cms",
     "time": "2026-04-14T12:48:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala dental student’s death highlights growing threat of predatory loan apps",
-    "desc": "Investigators say the student had taken a loan of around ₹14,000 from an app and recovery agents had been contacting him repeatedly. They also purportedly directed calls and messages to a college teacher in an attempt to shame the youngster and coerce repayment",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-tamilnadu/y8cwur/article70859863.ece/alternates/LANDSCAPE_1200/Kerala-dental-sGTUFRK0ED.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-dental-students-death-highlights-growing-threat-of-predatory-loan-apps/article70858122.ece",
-    "time": "2026-04-14T12:40:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Hippo ‘Hamsini’ dies at Tyavarekoppa Tiger and Lion Safari in Shivamogga due to infection following intrauterine foetal death",
-    "desc": "This was the third pregnancy for the 12-year-old hippo. She had delivered a calf in 2024. But, the calf drowned. In 2025, she delivered another calf. But, that calf also died after being attacked by its father — the male hippo — soon after birth",
-    "img": "https://th-i.thgim.com/public/incoming/jik8s3/article70861169.ece/alternates/LANDSCAPE_1200/9911_12_4_2026_11_54_13_2_HIPPO_2.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/hippo-hamsini-dies-at-tyavarekoppa-tiger-and-lion-safari-in-shivamogga-due-to-infection-following-intrauterine-foetal-death/article70861112.ece",
-    "time": "2026-04-14T12:32:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Women’s participation ‘non-negotiable’ in country’s development: PM Modi",
-    "desc": "‘Our democracy will become stronger and more vibrant if the 2029 Lok Sabha elections and various Assembly elections that year are held with women’s reservation fully in place,’ Modi says in an open letter to the women of the country",
-    "img": "https://th-i.thgim.com/public/incoming/o5vs6z/article70860137.ece/alternates/LANDSCAPE_1200/GSS_PM-Modi-askGP0FRJSPN.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indian-democracy-will-be-stronger-vibrant-if-women-quota-implemented-in-2029-pm-modi/article70860104.ece",
-    "time": "2026-04-14T12:26:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "With exit of ‘forever CM’ Nitish Kumar, an era ends in Bihar",
-    "desc": "Nitish Kumar is part of a generation that ushered in the heydays of socialist politics in Bihar; with his exit as CM, the JD(U) is staring at a future in which it will be a junior parter to the BJP in the State",
-    "img": "https://th-i.thgim.com/public/incoming/uoj83d/article70706403.ece/alternates/LANDSCAPE_1200/PTI03_05_2026_000096A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/with-exit-of-its-forever-cm-nitish-kumar-its-an-end-of-an-era-in-bihar/article70706305.ece",
-    "time": "2026-04-14T11:59:16.000Z"
   },
   {
     "cat": "Entertainment",
@@ -126,15 +225,6 @@ const newsData_en = [
     "time": "2026-04-14T11:04:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Nitish Kumar resigns; Samrat Choudhary set to become next Bihar CM",
-    "desc": "Nitish Kumar, who has been Chief Minister for the past 21 years, tendered his resignation, which was accepted by Lt. Gen. (Retd.) Governor Syed Ata Hasnain; Deputy CM Samrat Choudhary has been elected as the BJP's Legislature Party leader",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/bihar-new-chief-minister-nitish-kumar-resignation-janata-dal-united-bjp-live-updates-april-14-2026/article70860192.ece",
-    "time": "2026-04-14T10:58:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Sab fake hai': Praful Hinge recreates Siraj moment after SRH win",
     "desc": "Debut sensation Praful Hinge etched his name in IPL history by claiming three wickets in the opening over against Rajasthan Royals. His remarkable spell, finishing with 4/34, propelled Sunrisers Hyderabad to a dominant 57-run victory. Following the win, Hinge recreated a Mohammed Siraj-style video, humorously clarifying his official social media presence.",
@@ -151,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-to-use-justin-baldonis-britney-spears-harassment-comment-in-court-inside-the-it-ends-with-us-legal-battle/articleshow/130257044.cms",
     "time": "2026-04-14T10:57:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mango farmers reiterate demand for pulp-making factory in K.V. Kuppam constituency",
-    "desc": "K.V. Kuppam Assembly constituency’s dependence on agriculture is due to lack of industrial units and factories which can generate jobs for the unemployed educated youth in the region, many of whom are forced migrate to big cities like Chennai, Bengaluru, and Coimbatore in search of employment.",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/mjpth6/article70860869.ece/alternates/LANDSCAPE_1200/KV%20Kuppam%20Constituency%20Watch.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-elections-2026-mango-farmers-reiterate-demand-for-pulp-making-factory-in-kv-kuppam-constituency/article70838268.ece",
-    "time": "2026-04-14T10:55:25.000Z"
   },
   {
     "cat": "Business",
@@ -196,24 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-blame-the-covid-vaccine-shane-warnes-son-makes-shocking-claim-on-fathers-death/articleshow/130256537.cms",
     "time": "2026-04-14T10:19:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Noida workers’ protest: Over 300 held, seven FIRs registered; ‘syndicate’ angle under probe, says police",
-    "desc": "“Route marches have been conducted continuously since 5 a.m. This morning, workers gathered at three locations; following immediate dialogue, they were peacefully dispersed within just 15 minutes,” Gautam Buddh Nagar Police Commissioner Laxmi Singh said",
-    "img": "https://th-i.thgim.com/public/incoming/kd2e0o/article70860609.ece/alternates/LANDSCAPE_1200/2026-04-14T043546Z_486605964_RC2QOKA1TG2U_RTRMADP_3_IRAN-CRISIS-INDIA-WORKERS-PROTEST.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/noida-workers-protest-over-300-people-arrested/article70860583.ece",
-    "time": "2026-04-14T09:53:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Will not remain silent’: T.N. CM Stalin warns of massive protest against delimitation",
-    "desc": "“Tamil Nadu will come to a standstill. It will register its protest vehemently. Every family will come out to the streets. We will organise a big protest under my leadership,” he said in a video message",
-    "img": "https://th-i.thgim.com/public/incoming/m3vifu/article70860573.ece/alternates/LANDSCAPE_1200/9712_13_4_2026_21_43_35_2__DSC9280.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/will-not-remain-silent-tn-cm-stalin-warns-of-massive-protest-against-delimitation/article70860568.ece",
-    "time": "2026-04-14T09:39:19.000Z"
   },
   {
     "cat": "Sports",
@@ -295,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-polls-cm-stalin-holds-door-to-door-campaign-in-vellore/articleshow/130255306.cms",
     "time": "2026-04-14T08:59:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Postpone West Bengal polls until all voters are on rolls, says Adhir Ranjan Chowdhury",
-    "desc": "Five-time Congress MP and former leader of the party in Lok Sabha Adhir Ranjan Chowdhury says incomplete electoral rolls and the Election Commission of India’s SIR process threaten free and fair elections ahead of the West Bengal Assembly elections 2026",
-    "img": "https://th-i.thgim.com/public/news/national/9jc0vs/article70860575.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-14%20at%2014.09.24.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/postpone-west-bengal-polls-until-all-voters-are-on-rolls-says-adhir-ranjan-chowdhury/article70860386.ece",
-    "time": "2026-04-14T08:59:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -388,66 +442,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Selena Gomez calls Demi Lovato's concert 'one of the best'",
-    "desc": "Selena Gomez showered praise on best friend Demi Lovato's 'It's Not That Deep Tour' opening night, calling it one of the best shows with 'blown away' vocals. The reunion backstage was a highlight. Former Disney co-star Joe Jonas also made a surprise appearance, joining Lovato on stage for a performance, marking a memorable start to the tour.",
-    "img": "https://static.toiimg.com/photo/msid-130254175,imgsize-74140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/selena-gomez-shares-moments-from-demi-lovatos-concert-calls-it-one-of-the-best-shows/articleshow/130254175.cms",
-    "time": "2026-04-14T07:53:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Like being at a party with him’",
-    "desc": "Justin Bieber's Coachella set sparked mixed reactions, with many criticizing its stripped-back, YouTube-centric format. However, Diplo defended the performance as \"legendary,\" highlighting its authenticity and intimate, party-like atmosphere. While some found it lacking, others praised Bieber's vulnerability and honesty, seeing it as a genuine expression of himself.",
-    "img": "https://static.toiimg.com/photo/msid-130254100,imgsize-80754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/diplo-backs-justin-biebers-coachella-set-amid-backlash-says-it-was-like-being-at-a-party-with-him-/articleshow/130254069.cms",
-    "time": "2026-04-14T07:44:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Post Saiyaara Ahaan teams up again with Mohit Suri",
-    "desc": "Ahaan Panday teams up again with Mohit Suri post-'Saiyaara' for a YRF rom-com about an older man-younger woman. Ranbir Kapoor dream aside, Aditya Chopra suggested Ahaan. Script tweaks underway; shoot by year-end. Ahaan currently films action-romance with Sharvari, others.",
-    "img": "https://static.toiimg.com/photo/msid-130253993,imgsize-46328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/post-saiyaara-ahaan-panday-teams-up-again-with-mohit-suri-for-a-rom-com/articleshow/130253993.cms",
-    "time": "2026-04-14T07:37:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Bruce Lee",
-    "desc": "Bruce Lee, the legendary martial artist and cinematic pioneer, transformed the action film landscape with masterpieces such as 'Enter the Dragon'. His timeless wisdom, captured in the metaphor of concentrating on the 'moon' instead of the 'finger', encourages us to navigate through life's distractions and stay true to our core aspirations.",
-    "img": "https://static.toiimg.com/photo/msid-130253746,imgsize-52446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-bruce-lee-its-like-a-finger-pointing-away-to-the-moon-dont-concentrate-on-the-finger-or-you-will-miss-all-that-heavenly-glory-/articleshow/130253746.cms",
-    "time": "2026-04-14T07:29:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Asha Bhosle will never die for me...' says Sachin Pilgaonkar, recalls first meeting",
     "desc": "Veteran actor Sachin Pilgaonkar pens an emotional tribute to legendary singer Asha Bhosle, recalling his first meeting with her as a child and their deep personal bond over the years. Calling her his “second mother,” he celebrates her vibrant spirit, cherishing their memories while emphasizing that her life and legacy should always be remembered and celebrated.",
     "img": "https://static.toiimg.com/photo/msid-130253366,imgsize-149024.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/asha-bhosle-will-never-die-for-me-sachin-pilgaonkar-pays-an-emotional-tribute-to-the-singer-recalls-his-first-meeting-exclusive-death-news/articleshow/130253366.cms",
     "time": "2026-04-14T07:18:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zanai Bhosle shares an emotional video for late Asha Bhosle",
-    "desc": "Zanai Bhosle shared a heartfelt tribute to her grandmother Asha Bhosle, recalling cherished memories after her passing. Posting an emotional video, she called the late legend her “partner-in-crime” and best friend. Expressing deep grief, Zanai remembered their bond, urging fans to celebrate Asha Bhosle’s life with joy, love, and laughter, just as she always did. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130253353,imgsize-97910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zanai-bhosle-shares-an-emotional-post-for-the-late-grandmother-asha-bhosle-shes-going-to-come-back-to-me/articleshow/130253353.cms",
-    "time": "2026-04-14T07:13:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "From 9/5 to 159! RR script unbelievable record despite stunning collapse",
-    "desc": "Despite a heavy defeat, Rajasthan Royals achieved a rare IPL milestone by posting 159 after losing five wickets for under 20 runs. This remarkable recovery was spearheaded by an 118-run partnership for the sixth wicket. Earlier, Sunrisers Hyderabad's Praful Hinge made history with three wickets in the opening over, contributing to SRH's dominant victory.",
-    "img": "https://static.toiimg.com/photo/msid-130252293,imgsize-152854.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-from-9/5-to-159-rr-script-unbelievable-record-despite-stunning-collapse/articleshow/130252288.cms",
-    "time": "2026-04-14T06:32:03.000Z"
   },
   {
     "cat": "Sports",
@@ -477,42 +477,6 @@ const newsData_en = [
     "time": "2026-04-14T05:38:53.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Rajasthan Royals script unwanted history! Top-order collapse rewrites IPL record books",
-    "desc": "Rajasthan Royals suffered a historic collapse in IPL 2026, setting multiple unwanted records during their massive defeat to Sunrisers Hyderabad. Their top four batters scored just one run combined, and the team lost five wickets in a mere 18 balls. Debutant Praful Hinge took three wickets in the opening over, spearheading the rout.",
-    "img": "https://static.toiimg.com/photo/msid-130250850,imgsize-311646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rajasthan-royals-script-unwanted-history-top-order-collapse-rewrites-ipl-record-books/articleshow/130250846.cms",
-    "time": "2026-04-14T04:29:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Will be gross injustice if delayed': PM Modi urges support for women’s reservation bill ahead of Parliament session",
-    "desc": "Prime Minister Narendra Modi has addressed the women of India, emphasizing \"Nari Shakti\" and the government's commitment to women's reservation in legislative bodies. He highlighted the upcoming special Parliament session to pass a constitutional amendment for the Nari Shakti Vandan Adhiniyam, aiming for its full implementation by the 2029 elections.",
-    "img": "https://static.toiimg.com/photo/msid-130250670,imgsize-646952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/will-be-gross-injustice-if-delayed-pm-modi-urges-support-for-womens-reservation-bill-ahead-of-parliament-session/articleshow/130250642.cms",
-    "time": "2026-04-14T04:25:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘To be honest…’: Riyan Parag breaks silence after heavy defeat to SRH",
-    "desc": "Riyan Parag termed Rajasthan Royals’ heavy loss to Sunrisers Hyderabad a “blip” after a dramatic top-order collapse. He credited SRH’s debutant pacers for their impact, reflected on tactical decisions, and praised his team’s fightback after being 9/5. Parag remained optimistic, backing RR to recover quickly and perform better in their next match.",
-    "img": "https://static.toiimg.com/photo/msid-130250700,imgsize-135358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/to-be-honest-riyan-parag-breaks-silence-after-heavy-defeat-to-srh/articleshow/130250687.cms",
-    "time": "2026-04-14T04:09:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli’s ‘very slow knock’ under fire, ex-India cricketer questions RCB star",
-    "desc": "Aakash Chopra criticised Virat Kohli’s slow 50 off 38 balls in RCB’s win over Mumbai Indians, calling it “unbecoming” despite the result. He also questioned Kohli’s mindset and noted wasted reviews. Chopra praised Phil Salt’s explosive 78 and Rajat Patidar’s striking form, highlighting their key roles in RCB’s 18-run victory.",
-    "img": "https://static.toiimg.com/photo/msid-130250413,imgsize-142944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohlis-very-slow-knock-under-fire-ex-india-cricketer-questions-rcb-star/articleshow/130250436.cms",
-    "time": "2026-04-14T03:45:33.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Markets rally on US–Iran talk hopes; Kospi hits six-week high",
     "desc": "Asian markets surged Tuesday, led by a strong performance in Seoul's KOSPI, as lower oil prices and renewed hopes for US-Iran diplomatic talks boosted investor sentiment. Despite a breakdown in weekend negotiations, communication channels remain open, with both sides indicating a willingness to continue dialogue. Oil prices also declined, further supporting the positive market reaction.",
@@ -529,15 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/made-lot-of-progress-ball-in-irans-court-vance/article70860022.ece",
     "time": "2026-04-14T03:27:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre rolls out CHO app, sharpens emergency response",
-    "desc": "A new mobile app for Community Health Officers has been launched to boost last-mile healthcare and emergency response. This digital tool will enable real-time patient management, faster referrals, and early identification of high-risk cases at Ayushman Bharat Health and Wellness Centres. The initiative aims to streamline care delivery and improve coordination across healthcare levels.",
-    "img": "https://static.toiimg.com/photo/msid-130249962,imgsize-134096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/digital-push-for-primary-care-centre-rolls-out-cho-app-sharpens-emergency-response/articleshow/130249962.cms",
-    "time": "2026-04-14T03:25:24.000Z"
   },
   {
     "cat": "Business",
@@ -756,15 +711,6 @@ const newsData_en = [
     "time": "2026-04-12T02:06:04.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026",
-    "desc": "“There could have been another reason for introducing Shashank because he has dismissed Abhishek once before. He got him out again today. Abhishek and Head were batting really well, and we got back into the match only after those two wickets,” says Prabhsimran",
-    "img": "https://th-i.thgim.com/public/incoming/sezp8g/article70851964.ece/alternates/LANDSCAPE_1200/IPL%202026%2035.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-when-you-are-going-for-a-big-chase-you-have-to-cash-in-on-the-powerplay-prabhsimran/article70851968.ece",
-    "time": "2026-04-11T17:21:09.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "A loyalist on the brand’s evolution in India",
     "desc": "From buying an iPod Mini in 2004 to standing in line for early iPad launches, one long-time user traces how Apple Inc. shaped taste, tech and aspiration in India — and how the global giant has, over time, gone quietly desi",
@@ -898,5 +844,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
     "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
