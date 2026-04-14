@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer points out Sanju Samson's potential weakness ahead of KKR clash",
+    "desc": "The stage is set for game 22 of the ongoing IPL (Indian Premier League) 2026. Chennai Super Kings will be hosting Kolkata Knight Riders at the MA Chidambaram Stadium in Chennai on April 14. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-points-out-sanju-samson-s-potential-weakness-ahead-of-kkr-clash-2026-04-14-1037462",
+    "time": "2026-04-14T07:04:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at MA Chidamabaram Stadium in Chennai play?",
+    "desc": "The stage is set for game 22 of the ongoing IPL (Indian Premier League) 2026. The game will see Chennai Super Kings taking on Kolkata Knight Riders. The two sides will lock horns at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-kkr-pitch-report-how-will-surface-at-ma-chidamabaram-stadium-in-chennai-play-2026-04-14-1037452",
+    "time": "2026-04-14T06:11:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Sooryavanshi expected to make India debut, set to be named in squad for Ireland tour",
     "desc": "There have been several performances that stood out for the fans in the ongoing edition of the IPL (Indian Premier League) 2026. However, very few have had as much of an impact on the fans...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-rohit-sharma-sanju-samsons-unwanted-record-after-golden-duck-in-srh-rr-ipl-clash-2026-04-13-1037402",
     "time": "2026-04-13T14:55:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Shimron Hetmyer not playing for RR in their IPL 2026 clash against SRH in Hyderabad?",
-    "desc": "Shimron Hetmyer missed out as the Rajasthan Royals lock horns against the Sunrisers Hyderabad in their Indian Premier League 2026 clash at the Rajiv Gandhi International Stadium on Monday, April 13. RR captain Riyan Parag...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-shimron-hetmyer-not-playing-for-rr-in-their-ipl-2026-clash-against-srh-in-hyderabad-2026-04-13-1037400",
-    "time": "2026-04-13T13:52:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Pat Cummins playing in IPL 2026 clash for SRH against RR in Hyderabad?",
-    "desc": "Sunrisers Hyderabad host the hard-hitting Rajasthan Royals side in their fifth match of the Indian Premier League 2026 at the Rajiv Gandhi International Stadium. Having blown hot and cold, SRH are missing their captain Pat...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-pat-cummins-playing-in-ipl-2026-clash-for-srh-against-rr-in-hyderabad-2026-04-13-1037398",
-    "time": "2026-04-13T13:34:59.000Z"
   }
 ];
