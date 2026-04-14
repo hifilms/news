@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi expected to make India debut, set to be named in squad for Ireland tour",
+    "desc": "There have been several performances that stood out for the fans in the ongoing edition of the IPL (Indian Premier League) 2026. However, very few have had as much of an impact on the fans...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-expected-to-make-india-debut-set-to-be-named-in-squad-for-ireland-tour-2026-04-14-1037441",
+    "time": "2026-04-14T04:49:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals skipper Riyan Parag weighs in on first IPL 2026 loss, has eyes set upon KKR clash",
+    "desc": "Rajasthan Royals’ unbeaten run in the ongoing IPL (Indian Premier League) 2026 finally came to an end. After winning their first four games of the season, Royals lost their fifth game of the season. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-skipper-riyan-parag-weighs-in-on-first-ipl-2026-loss-has-eyes-set-upon-kkr-clash-2026-04-14-1037437",
+    "time": "2026-04-14T04:04:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Sakib Hussain? The 21-year-old who left Rajasthan Royals stunned on his debut?",
+    "desc": "Sunrisers Hyderabad pulled off an exceptional performance against Rajasthan Royals. The two sides met at the Rajiv Gandhi International Stadium in Hyderabad on April 13. The clash saw Hyderabad coming in to bat first, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-sakib-hussain-the-21-year-old-who-left-rajasthan-royals-stunned-on-his-debut-2026-04-14-1037430",
+    "time": "2026-04-14T02:34:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sunrisers Hyderabad's Praful Hinge enters elite list with exceptional showing against Rajasthan Royals",
     "desc": "Rajasthan Royals were handed their first loss of the ongoing IPL (Indian Premier League) 2026 season. The side took on Sunrisers Hyderabad at the Rajiv Gandhi International Stadium, and the visitors were completely blown away...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/is-pat-cummins-playing-in-ipl-2026-clash-for-srh-against-rr-in-hyderabad-2026-04-13-1037398",
     "time": "2026-04-13T13:34:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI announces change in IPL 2026 schedule for GT vs CSK fixtures, Know new dates",
-    "desc": "The Board of Control for Cricket in India (BCCI) has announced a change in the schedule of the ongoing edition of the Indian Premier League (IPL). The dates for the Gujarat Titans vs Chennai Super...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-change-in-ipl-2026-schedule-for-gt-vs-csk-fixtures-know-new-dates-2026-04-13-1037393",
-    "time": "2026-04-13T13:09:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunrisers hand Royals a drubbing of 57 runs in Hyderabad",
-    "desc": "Debutants Praful Hinge and Sakib Hussain put up stellar performances as Sunrisers Hyderabad ended Rajasthan Royals' unbeaten run in the Indian Premier League 2026 at the Rajiv Gandhi International Stadium on Monday, April 13. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-rr-ipl-2026-live-cricket-score-rajasthan-royals-vs-sunrisers-hyderabad-rajiv-gandhi-international-stadium-latest-match-updates-scorecard-teams-2026-04-13-1037392",
-    "time": "2026-04-13T13:08:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya, Tim David fined for breaching IPL Code of Conduct in MI vs RCB clash, Know reason",
-    "desc": "Tim David and Hardik Pandya have been fined for different reasons for breaching the IPL Code of Conduct in the MI vs RCB clash of IPL 2026 at the Wankhede Stadium in Mumbai on Sunday....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-tim-david-fined-for-breaching-ipl-code-of-conduct-in-mi-vs-rcb-clash-know-reason-2026-04-13-1037391",
-    "time": "2026-04-13T12:45:11.000Z"
   }
 ];
