@@ -1,5 +1,59 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "After UK, Kanye West to be banned in France?",
+    "desc": "France's Interior Minister Laurent Nunez is determined to ban Kanye West's June concert in Marseille due to the rapper's antisemitic remarks and admiration for Adolf Hitler. This move follows similar actions by Britain, which barred West from entering the country. Marseille's mayor also opposes the performance, citing West's promotion of hatred.",
+    "img": "https://static.toiimg.com/photo/msid-130268461,imgsize-89972.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/after-uk-kanye-west-to-be-banned-in-france-minister-seeks-to-block-concert-in-marseille/articleshow/130268434.cms",
+    "time": "2026-04-14T21:18:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jury selection starts in rape case",
+    "desc": "Harvey Weinstein faces a new rape trial in New York, focusing on an alleged 2013 incident with Jessica Mann. Prosecutors may introduce a controversial remark Weinstein allegedly made. This retrial, expected to last six weeks, follows overturned convictions and a mixed verdict in a previous case. Weinstein denies all accusations.",
+    "img": "https://static.toiimg.com/photo/msid-130268447,imgsize-85058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harvey-weinstein-to-go-on-trial-again-in-a-new-york-rape-case/articleshow/130268435.cms",
+    "time": "2026-04-14T21:09:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shakti Mohan reveals she wasn’t comfortable kissing Raghav Juyal",
+    "desc": "Shakti Mohan has opened up about her much-loved on-screen pairing with Raghav Juyal on the reality show Dance Plus, revealing that while audiences adored their chemistry, their bond off-screen was rooted in friendship and mutual respect. Shakti admitted that the romantic angle between them was largely created for the show, and it felt unusual at the time. The dancer also spoke about a particular on-stage kiss moment that left her uncomfortable. She added that even Remo D'Souza encouraged it on stage.",
+    "img": "https://static.toiimg.com/photo/msid-130268372,imgsize-43218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shakti-mohan-reveals-she-wasnt-comfortable-kissing-raghav-juyal-on-dance-plus-even-remo-dsouza-encouraged-it-romantic-angle-was-scripted/articleshow/130268372.cms",
+    "time": "2026-04-14T20:38:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Higher vote share for Vijay could work to the DMK’s advantage: Tamil Nadu CPI secretary Veerapandian",
+    "desc": "Within the TVK, there is an educated group of people keen on defeating the BJP front which, they believe, is acting against Tamil Nadu’s interests. Many of them recognise that voting for Vijay may not yield benefits. They understand that the DMK-led alliance has an edge over the AIADMK-led front, says M. Veerapandian",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/uk5znd/article70862300.ece/alternates/LANDSCAPE_1200/2022%20MARCH%2009%202.JPG.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/higher-vote-share-forvijaycould-work-to-thedmkadvantage-says-cpi-tn-secretary-veerapandian/article70861784.ece",
+    "time": "2026-04-14T20:35:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bobby Deol recalls Dharmendra’s struggle with alcohol",
+    "desc": "For Bobby Deol, one of the biggest personal shifts in recent years has been his decision to give up alcohol. Having quit alcohol completely a year and a half ago, Deol admitted the transition was easier than he expected. Reflecting on the decision, Bobby Deol said watching his father, Dharmendra, struggle with similar issues had a lasting impact on him. Grief, he admitted, has also brought him closer to his half-sisters, Esha Deol and Ahana Deol.",
+    "img": "https://static.toiimg.com/photo/msid-130267430,imgsize-69556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-recalls-dharmendras-struggle-with-alcohol-says-his-loss-brought-him-closer-to-esha-deol-and-ahana-deol/articleshow/130267430.cms",
+    "time": "2026-04-14T19:00:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It's tough ... we'll have to make changes': Rahane's dressing room warning",
+    "desc": "KKR have endured a tough season so far and are currently languishing at the bottom of the standings. In five matches, they are yet to register a win, with four losses and one no result. With just one point and a net run rate of -1.383, KKR have significant ground to cover in the coming games.",
+    "img": "https://static.toiimg.com/photo/msid-130267431,imgsize-84840.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/its-tough-well-have-to-make-changes-ajnkya-rahanes-dressing-room-warning-as-kkr-hit-rock-bottom/articleshow/130267343.cms",
+    "time": "2026-04-14T18:55:59.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Interview",
     "desc": "Ghosal says that bringing quality coaches to India will be the first step in this direction; feels that players are currently being produced mainly due to personal drive and initiative; opines that there’s enough depth in the men’s ranks to defend the Asian Games gold",
@@ -43,6 +97,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-noor-ahmads-trickery-stands-out-as-csk-hand-kkr-fourth-defeat-in-5-games/articleshow/130266529.cms",
     "time": "2026-04-14T18:33:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Employee feedback is now the gold standard for workplace excellence",
+    "desc": "The Hindu Best Places to Work Awards 2026, a partnership between The Hindu Group and WorkL, sets a new national standard by measuring workplace excellence by employee opinion over policy, affirming that people are the most critical asset for business success",
+    "img": "https://th-i.thgim.com/public/news/national/w6yq3t/article70862452.ece/alternates/LANDSCAPE_1200/LOGO.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/employee-feedback-is-now-the-gold-standard-for-workplace-excellence/article70862393.ece",
+    "time": "2026-04-14T18:22:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -135,15 +198,6 @@ const newsData_en = [
     "time": "2026-04-14T16:43:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Higher vote share for Vijay could work to the DMK’s advantage, says the CPI Tamil Nadu secretary",
-    "desc": "Within the TVK, there is an educated group of people keen on defeating the BJP front which, they believe, is acting against Tamil Nadu’s interests. Many of them recognise that voting for Vijay may not yield benefits. They understand that the DMK-led alliance has an edge over the AIADMK-led front, says M. Veerapandian",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/uk5znd/article70862300.ece/alternates/LANDSCAPE_1200/2022%20MARCH%2009%202.JPG.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/higher-vote-share-forvijaycould-workto-thedmksadvantage-says-cpi-tamil-nadu-secretary/article70861784.ece",
-    "time": "2026-04-14T16:31:45.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "After almost clearing Rs 2 cr debt, Rajesh Kumar says he has sold his car",
     "desc": "Actor Rajesh Kumar, known for 'Sarabhai vs Sarabhai', is nearing financial recovery, with only 10-15% of his Rs 2 crore debt remaining. He recently sold his car due to Mumbai's traffic, not financial strain, and finds convenience in public transport. His sisters have now taken over his farming venture.",
@@ -196,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-reveals-son-aarav-bhatia-was-scared-of-vidya-balan-for-six-years-after-watching-bhool-bhulaiyaa/articleshow/130263199.cms",
     "time": "2026-04-14T15:40:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nitish Kumar resigns, BJP’s Samrat Choudhary to become new CM",
-    "desc": "After days of speculation, Mr. Choudhary was unanimously elected as the leader of the BJP and NDA legislative parties; likely to take oath at 11 a.m. on April 15 with two Deputy CMs from the JD(U)",
-    "img": "https://th-i.thgim.com/public/incoming/233nlf/article70861707.ece/alternates/LANDSCAPE_1200/PTI04_14_2026_000403A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/samrat-choudhary-set-to-become-new-bihar-chief-minister-nitish-kumar-resigns/article70860369.ece",
-    "time": "2026-04-14T15:39:40.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,15 +477,6 @@ const newsData_en = [
     "time": "2026-04-14T10:39:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'PM Modi is a deshdrohi': Rahul Gandhi repeats his 'sold India in US trade deal' claim",
-    "desc": "In a two-pronged attack , Rahul Gandhi accused the BJP and the RSS of destroying the Constitution with their \"hate-filled thinking\", while claiming the ruling TMC has failed in fulfilling its promise of providing jobs to the state's youth. Addressing poll rallies in Raiganj and Malda, Gandhi claimed that 84 lakh youths in Bengal have applied for the unemployment allowance promised by the Mamata Banerjee government.",
-    "img": "https://static.toiimg.com/photo/msid-130256763,imgsize-28242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-is-a-deshdrohi-rahul-gandhi-repeats-his-sold-india-in-us-trade-deal-claim/articleshow/130255486.cms",
-    "time": "2026-04-14T10:25:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘I blame the COVID vaccine’: Shane Warne’s son makes shocking claim",
     "desc": "Four years after Shane Warne’s sudden death, his son Jackson Warne has suggested COVID-19 vaccines may have contributed, while acknowledging underlying health issues. Speaking on a podcast, he recalled his initial anger and belief that external pressures led to multiple doses, revisiting the circumstances surrounding the spin legend’s passing.",
@@ -469,39 +505,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Aruna Irani breaks down recalling late Asha Bhosle, REVEALS she was in pain",
-    "desc": "Aruna Irani pays a heartfelt tribute to legendary singer Asha Bhosle, recalling her warmth, strength, and ability to stay cheerful despite personal struggles. Calling her loss irreparable, Aruna highlights her unmatched versatility across genres and cherishes their close bond, while celebrating the timeless legacy of a voice that will forever live on.",
-    "img": "https://static.toiimg.com/photo/msid-130255484,imgsize-62986.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/despite-pain-she-behaved-like-happiest-person-aruna-irani-breaks-down-recalling-late-asha-bhosle-exclusive/articleshow/130255484.cms",
-    "time": "2026-04-14T09:24:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Did Ranveer Singh take a dig at Dhruv Rathee's views on Dhurandhar 2 in new ad?",
     "desc": "Ranveer Singh's latest ad, featuring his father-in-law Prakash Padukone, has sparked debate with a subtle jab at YouTuber Dhruv Rathee's criticism of the 'Dhurandhar' franchise. The commercial cleverly incorporates references to Ranveer's personal life and Padukone's badminton legacy, while a fictional film poster appears to mock Rathee's past critiques.",
     "img": "https://static.toiimg.com/photo/msid-130255631,imgsize-36562.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-ranveer-singh-take-a-dig-at-dhruv-rathees-views-on-dhurandhar-2-in-new-ad-with-father-in-law-prakash-padukone-fans-call-it-peak-detailing/articleshow/130255489.cms",
     "time": "2026-04-14T09:15:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kevin Federline reacts to Britney Spears entering rehab",
-    "desc": "In a powerful step towards healing, Britney Spears has chosen to check into a rehabilitation center after her recent DUI incident. Her former partner, Kevin Federline, voiced his support for her decision, expressing optimism that she will fully embrace her recovery journey. Close associates reveal that her children inspired this transformation, prioritizing their mother’s well-being above all.",
-    "img": "https://static.toiimg.com/photo/msid-130255466,imgsize-80332.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/britney-spears-checks-into-rehab-ex-husband-kevin-federline-is-happy-that-the-singer-is-getting-help/articleshow/130255466.cms",
-    "time": "2026-04-14T09:10:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Harry and Meghan honor Diana at children’s hospital in Australia",
-    "desc": "Meghan Markle and Prince Harry began their privately funded Australian tour in Melbourne, honoring Princess Diana with a visit to the Royal Children's Hospital. This trip, a departure from their 2018 royal tour, focuses on their personal passions, including mental health and veteran support, with a more relaxed and intentional itinerary.",
-    "img": "https://static.toiimg.com/photo/msid-130255448,imgsize-127316.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markle-and-prince-harrys-first-australia-stop-honors-princess-diana-inside-their-2026-trip/articleshow/130255424.cms",
-    "time": "2026-04-14T09:03:41.000Z"
   },
   {
     "cat": "Sports",
@@ -817,15 +826,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/how-does-the-internet-always-have-an-answer/article70802555.ece",
     "time": "2026-04-11T10:48:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "MF investor panic subsides even as markets dipped in March 2026",
-    "desc": "SIP contributions had decreased 3.73% to ₹29,845 crore in February 2026 and had stagnated at ₹31,002 crore in January 2026 and December 2025, reflecting investor panics with the many headwinds including dropping returns due to FII exodus, rupee depreciation, AI scares and recently the Iran war.",
-    "img": "https://th-i.thgim.com/public/incoming/kah16v/article70848573.ece/alternates/LANDSCAPE_1200/SIP.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/mf-investor-panic-subsides-even-as-markets-dipped-in-march-2026/article70847721.ece",
-    "time": "2026-04-10T16:02:37.000Z"
   },
   {
     "cat": "Entertainment",
