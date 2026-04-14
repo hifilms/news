@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sunrisers Hyderabad pick replacement for injured Brydon Carse for IPL 2026, rope in Sri Lankan pacer",
+    "desc": "Sunrisers Hyderabad have roped in Sri Lankan fast bowler Dilshan Madushanka as the replacement for the injured Brydon Carse for the Indian Premier League 2026. Madushanka will join the SRH squad for his base price...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-picked-replacement-for-injured-brydon-carse-for-ipl-2026-rope-in-sri-lankan-pacer-2026-04-14-1037519",
+    "time": "2026-04-14T12:53:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shane Warne's son blames COVID vaccine for legendary cricketer's death, explains details",
+    "desc": "Four years after the sudden passing of Shane Warne in Thailand, fresh remarks from his son Jackson have reignited conversation around the circumstances surrounding the Australian legend’s death. Speaking on the ‘2 Worlds Collide’ podcast,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shane-warne-s-son-blames-covid-vaccine-for-legendary-cricketer-s-death-explains-details-2026-04-14-1037515",
+    "time": "2026-04-14T12:19:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'See you in the IPL': Praful Hinge reveals duel with Hardik Pandya and MI skipper's message",
+    "desc": "Praful Hinge made a sensational debut for Sunrisers Hyderabad in their Indian Premier League 2026 clash against the Rajasthan Royals on Monday, April 13. Hinge was the cornerstone in SRH beating RR by 57 runs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/see-you-in-the-ipl-praful-hinge-reveals-duel-with-hardik-pandya-and-mi-skippers-message-2026-04-14-1037514",
+    "time": "2026-04-14T12:02:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav's spot in India T20I team isn't guaranteed, BCCI wants better batting performances",
+    "desc": "India won the T20 World Cup 2026 under the leadership of Suryakumar Yadav. However, the Mumbai batter hasn’t been able to lead by example as consistency remains a work in progress. In 2025, he struggled...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-s-spot-in-india-t20i-team-isn-t-guaranteed-bcci-wants-better-batting-performances-2026-04-14-1037508",
+    "time": "2026-04-14T11:31:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SRH likely to get Pat Cummins boost as captain to undergo fitness test, expected return date revealed",
+    "desc": "Sunrisers Hyderabad could be boosted by a potential return of regular captain Pat Cummins in the Indian Premier League 2026. Cummins has not played for the 2016 champions as he is recovering from a lumbar...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-likely-to-get-pat-cummins-boost-as-captain-to-undergo-fitness-test-expected-return-date-revealed-2026-04-14-1037502",
+    "time": "2026-04-14T11:15:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi is ready for India debut, but may have to wait for his turn, indicates BCCI source",
+    "desc": "Vaibhav Sooryavanshi has proved his mettle in the ongoing IPL 2026. The 15-year-old has dominated some of the best bowlers in the business, amassing 200 runs in five matches, at a blistering strike rate of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-is-ready-for-india-debut-but-may-have-to-wait-for-his-turn-indicates-bcci-source-2026-04-14-1037499",
+    "time": "2026-04-14T10:58:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will MS Dhoni play against KKR as CSK gear up for fifth game in IPL 2026?",
+    "desc": "MS Dhoni's place is in doubt as Chennai Super Kings host Chennai Super Kings host Kolkata Knight Riders at Chepauk on Tuesday, April 14. CSK and KKR are two teams languishing near the bottom of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-ms-dhoni-play-against-kkr-as-csk-gear-up-for-fifth-game-in-ipl-2026-2026-04-14-1037493",
+    "time": "2026-04-14T10:41:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PCB ban Blessing Muzarabani for two years after opting out of PSL for IPL 2026",
     "desc": "After going unsold in the IPL auction, Zimbabwe pacer Blessing Muzarabani signed a deal with Islamabad United in the Pakistan Super League. However, after Bangladesh seamer Mustafizur Rahman was released by Kolkata Knight Riders following...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-annoyed-with-questions-over-strike-rate-after-subpar-form-continues-in-psl-watch-2026-04-14-1037480",
     "time": "2026-04-14T08:59:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Player battles to watch out for in IPL 2026 Match 22",
-    "desc": "Game 22 of the ongoing IPL (Indian Premier League) 2026 sees Chennai Super Kings taking on Kolkata Knight Riders. The two sides will lock horns at the MA Chidambaram Stadium in Chennai on April 14....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-kkr-3-player-battles-to-watch-out-for-in-ipl-2026-match-22-2026-04-14-1037474",
-    "time": "2026-04-14T08:15:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer points out Sanju Samson's potential weakness ahead of KKR clash",
-    "desc": "The stage is set for game 22 of the ongoing IPL (Indian Premier League) 2026. Chennai Super Kings will be hosting Kolkata Knight Riders at the MA Chidambaram Stadium in Chennai on April 14. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-points-out-sanju-samson-s-potential-weakness-ahead-of-kkr-clash-2026-04-14-1037462",
-    "time": "2026-04-14T07:04:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at MA Chidamabaram Stadium in Chennai play?",
-    "desc": "The stage is set for game 22 of the ongoing IPL (Indian Premier League) 2026. The game will see Chennai Super Kings taking on Kolkata Knight Riders. The two sides will lock horns at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-kkr-pitch-report-how-will-surface-at-ma-chidamabaram-stadium-in-chennai-play-2026-04-14-1037452",
-    "time": "2026-04-14T06:11:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi expected to make India debut, set to be named in squad for Ireland tour",
-    "desc": "There have been several performances that stood out for the fans in the ongoing edition of the IPL (Indian Premier League) 2026. However, very few have had as much of an impact on the fans...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-expected-to-make-india-debut-set-to-be-named-in-squad-for-ireland-tour-2026-04-14-1037441",
-    "time": "2026-04-14T04:49:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals skipper Riyan Parag weighs in on first IPL 2026 loss, has eyes set upon KKR clash",
-    "desc": "Rajasthan Royals’ unbeaten run in the ongoing IPL (Indian Premier League) 2026 finally came to an end. After winning their first four games of the season, Royals lost their fifth game of the season. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-skipper-riyan-parag-weighs-in-on-first-ipl-2026-loss-has-eyes-set-upon-kkr-clash-2026-04-14-1037437",
-    "time": "2026-04-14T04:04:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Sakib Hussain? The 21-year-old who left Rajasthan Royals stunned on his debut?",
-    "desc": "Sunrisers Hyderabad pulled off an exceptional performance against Rajasthan Royals. The two sides met at the Rajiv Gandhi International Stadium in Hyderabad on April 13. The clash saw Hyderabad coming in to bat first, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-sakib-hussain-the-21-year-old-who-left-rajasthan-royals-stunned-on-his-debut-2026-04-14-1037430",
-    "time": "2026-04-14T02:34:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunrisers Hyderabad's Praful Hinge enters elite list with exceptional showing against Rajasthan Royals",
-    "desc": "Rajasthan Royals were handed their first loss of the ongoing IPL (Indian Premier League) 2026 season. The side took on Sunrisers Hyderabad at the Rajiv Gandhi International Stadium, and the visitors were completely blown away...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-s-praful-hinge-enters-elite-list-with-exceptional-showing-against-rajasthan-royals-2026-04-14-1037425",
-    "time": "2026-04-14T01:23:30.000Z"
   }
 ];

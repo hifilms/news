@@ -1,21 +1,84 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "સૂર્યકુમાર યાદવ થશે ટીમ ઈન્ડિયામાંથી બહાર ? જાણો BCCI કેમ લઈ શકે છે આ કઠિન નિર્ણય",
+    "desc": "સૂર્યકુમાર યાદવની કેપ્ટનશીપ હેઠળ ટીમ ઈન્ડિયાએ T20 વર્લ્ડ કપ ટાઇટલ જીત્યું હતું. જો કે, તેના બેટિંગ ફોર્મ અંગે પ્રશ્નો ઉભા થયા છે. ઇંગ્લેન્ડ-આયર્લેન્ડ પ્રવાસ તેની કારકિર્દીનો નિર્ણાયક તબક્કો સાબિત થઈ શકે છે. દરમિયાન વૈભવ સૂર્યવંશી જેવા યુવા ખેલાડીઓ ટીમમાં સ્થાન મેળવવા માટે તૈયાર છે, જેનાથી સ્પર્ધા વધુ તીવ્ર બનશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/suryakumar-yadav-will-be-out-of-team-india-know-why-bcci-take-tough-decision-473084 ",
+    "time": "2026-04-14T12:58:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "કોરોના વેક્સિનને કારણે થયું હતું શેન વોર્નનું મોત ! 4 વર્ષ પછી તેના પુત્રએ કર્યો મોટો દાવો",
+    "desc": "દિગ્ગજ સ્પિનર શેન વોર્નના નિધનના 4 વર્ષ પછી તેના પુત્ર જેક્સને દાવો કર્યો છે કે શેન વોર્નનું મોત કોરોના વેક્સિનના ત્રણ કે ચાર ડોઝ લેવાના કારણે થયું હતું. જે તેમને કામ કરવા માટે મજબૂરીમાં લેવી પડી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shane-warne-death-due-to-covid-19-vaccine-after-4-years-his-son-makes-a-big-claim-473064 ",
+    "time": "2026-04-14T11:45:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ન સોનું, ન ઓઈલ, ન ગેસ... છતાં આ દેશો પાસે છે અબજોની કમાણીની &amp;#039;ખાણ&amp;#039;, જાણો કેવી રીતે માત્ર &amp;#039;ટોલ ટેક્સ&amp;#039; વસૂલીને થઈ રહ્યા છે માલામાલ",
+    "desc": "સ્વેઝ અને પનામા જેવી નહેરોએ ઇજિપ્ત અને પનામા જેવા દેશોને આર્થિક મહાશક્તિ બનાવી દીધા છે. આ દેશો કોઈ પણ ખાસ ઉત્પાદન વગર માત્ર પોતાની ભૌગોલિક સ્થિતિ અને ટોલ ટેક્સ દ્વારા અબજો ડોલરની કમાણી કરી રહ્યા છે. ચાલો આ દેશોનું આર્થિક ગણિત સમજીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/no-gold-no-oil-no-gas-yet-these-countries-have-mines-worth-billions-know-how-they-are-getting-rich-just-by-collecting-toll-tax-473053 ",
+    "time": "2026-04-14T11:22:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "જો ભારત પાકિસ્તાન પર હુમલો કરે તો શું સાઉદી અરેબિયા મોકલશે સેના? ડીલના દસ્તાવેજો લીક, મોટો ખુલાસો",
+    "desc": "ડ્રોપ સાઇટ રિપોર્ટમાં જણાવાયું છે કે, ઇસ્લામાબાદનો મુખ્ય વ્યૂહાત્મક હરીફ ભારત છે, જેના રિયાધ સાથે ઊંડા રાજકીય અને આર્થિક સંબંધો છે. વધુમાં, પાકિસ્તાન હાલમાં અફઘાનિસ્તાન સાથે ભીષણ સરહદપાર યુદ્ધમાં રોકાયેલું છે, જેના માટે સાઉદી અરેબિયાએ કોઈ લોજિસ્ટિકલ સપોર્ટ પૂરો પાડ્યો નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/will-saudi-arabia-send-troops-if-india-attacks-pakistan-deal-documents-leaked-big-revelation-473052 ",
+    "time": "2026-04-14T11:01:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KKRના સ્ટાર બોલર પર લાગ્યો બે વર્ષનો પ્રતિબંધ, જાણો તેને કેમ મળી છે આ સજા",
+    "desc": "KKRના સ્ટાર ફાસ્ટ બોલર બ્લેસિંગ મુઝરબાની પર બે વર્ષનો પ્રતિબંધ લાગ્યો છે. IPLમાં મુઝરબાની કોલકાતા ટીમનો સભ્ય છે. ટુર્નામેન્ટ શરૂ થઈ તે પહેલાં તેને ઈજાના રિપ્લેસમેન્ટ તરીકે ટીમમાં સામેલ કરવામાં આવ્યો હતો. મીની-ઓક્શન દરમિયાન કોઈ ટીમે તેને ખરીદ્યો ન હતો. ત્યારે આ લેખમાં જાણીશું કે તેને આ સજા કેમ મળી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/blessing-muzarabani-banned-from-psl-for-two-years-know-the-reason-473050 ",
+    "time": "2026-04-14T11:00:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ક્રૂડ ઓઈલના ભાવમાં તેજી અને સોના-ચાંદીમાં આવશે મોટો કડાકો, ઘટીને કેટલે પહોંચશે ભાવ?",
+    "desc": "જ્યારથી મિડલ ઈસ્ટમાં યુદ્ધ છેડાયું છે ત્યારથી સોના અને ચાંદી, શેર બજાર, ક્રૂડ ઓઈલમાં ભારે ઉથલપાથલ જોવા મળી રહી છે. સામાન્ય રીતે વૈશ્વિક અનિશ્ચિતતાઓ સમયે સોનું અને ચાંદી સુરક્ષિત રોકાણ તરીકે ઉછળતા હોય છે પરંતુ આ વખતે યુદ્ધ દરમિયાન સોના અને ચાંદીમાં કડાકો જોવા મળ્યો છે. આ ઉપરાંત એક્સપર્ટના મત મુજબ જો ક્રૂડ ઓઈલનો ભાવ વધશે તો સોના ચાંદના ભાવ ઘટી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/if-crude-oil-prices-rise-then-gold-and-silver-prices-may-fall-expert-iran-us-war-473041 ",
+    "time": "2026-04-14T10:23:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "જેનો ડર હતો એ જ થશે ! ચૂંટણી પછી પેટ્રોલમાં 18 તો ડીઝલમાં 35 રૂપિયાનો થઈ શકે છે વધારો, રિપોર્ટમાં ચોંકાવનારો દાવો",
+    "desc": "ક્રૂડ ઓઇલના વધતા ભાવને કારણે કંપનીઓ હાલમાં પેટ્રોલ પર ₹18 પ્રતિ લિટર અને ડીઝલ પર ₹35 પ્રતિ લિટરનું નુકસાન કરી રહી છે. ત્યારે આ નુકસાનને ભરપાઈ કરવા માટે હવે કંપનીઓ પેટ્રોલ અને ડીઝલના ભાવમાં વધારો કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-will-increase-by-rs-18-and-diesel-by-rs-35-after-elections-in-5-states-473029 ",
+    "time": "2026-04-14T10:20:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "આ પિદ્દી જેવો દેશ ચૂપચાપ 20 ટન સોનું ખરીદીને બેઠું છે! ભારત-ચીન કરતા આગળ નીકળી ગયો",
+    "desc": "દુનિયામાં વધતા તણાવ વચ્ચે સોનાનો ભાવ આસમાને આંબી ગયો છે. હાલ જેની પાસે વધુ સોનું તે વધુ તાકાતવાર એવી સ્થિતિ છે. આવામાં વિશ્વમાં બે દેશ એવા છે, જેણે સોનું ખરીદવામાં ભારત અને ચીનને પણ પાછળ પાડીને બેસ્યા છે. આવો જાણીએ એવો કયા દેશ છે જેની પાસે છે 20 ટન સોનાનો ખજાનો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/this-country-quietly-buying-20-tons-of-gold-it-has-surpassed-india-and-china-473040 ",
+    "time": "2026-04-14T10:19:33.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "1985ની તે ચૂંટણી, જેમાં Nitish Kumar એ 20 હજાર રૂપિયા ઉધાર લીધા અને પત્નીને આપ્યું એક વચન, પરંતુ....",
     "desc": "આજથી નીતિશ કુમાર બિહારના પૂર્વ મુખ્યમંત્રી થઈ ગયા છે. તેમણે મુખ્યમંત્રી પદેથી રાજીનામું આપી દીધું છે. આજે તેમના રાજીનામા સાથે બિહાર અને નીતિશની રાજનીતિમાં નવો વળાંક આવ્યો છે. આ અવસર પર જાણો નીતિશ કુમારની પ્રથમ ચૂંટણી જીતવાની કહાની....",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/when-nitish-kumar-went-to-contest-elections-after-borrowing-20-thousand-rupees-from-his-wife-then-473031 ",
-    "time": "2026-04-14T10:01:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "પેટ્રોલમાં 18 રૂપિયા, તો ડીઝલમાં વધી શકે છે 35 રૂપિયા, ચૂંટણી પછી લાગુ થઈ શકે છે ભાવ વધારો",
-    "desc": "ક્રૂડ ઓઇલના વધતા ભાવને કારણે કંપનીઓ હાલમાં પેટ્રોલ પર ₹18 પ્રતિ લિટર અને ડીઝલ પર ₹35 પ્રતિ લિટરનું નુકસાન કરી રહી છે. ત્યારે આ નુકસાનને ભરપાઈ કરવા માટે હવે કંપનીઓ પેટ્રોલ અને ડીઝલના ભાવમાં વધારો કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-will-increase-by-rs-18-and-diesel-by-rs-35-after-elections-in-5-states-473029 ",
-    "time": "2026-04-14T09:51:36.000Z"
+    "time": "2026-04-14T10:14:05.000Z"
   },
   {
     "cat": "Politics",
@@ -216,15 +279,6 @@ const newsData_gu = [
     "time": "2026-04-13T07:02:50.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોનું-ચાંદી ધડામ, આજે એક ઝટકે આટલા ભાવ ઘટી ગયા, જાણો આજનો રેટ",
-    "desc": "અમેરિકા અને ઈરાન જ્યારે મંત્રણાના ટેબલ પર જઈ રહ્યા હતા ત્યારે આખી દુનિયાએ હાશકારો અનુભવ્યો હતો. કારણ કે મિડલ ઈસ્ટમાં ચાલતા યુદ્ધથી માત્ર આ દેશો જ નહીં પરંતુ દુનિયાના અનેક દેશો પીડાઈ રહ્યા હતા અને ભારત પણ તેમાંથી એક હતું. પરંતુ કમનસીબે ઈસ્લામાબાદમાં યોજાયેલી આ શાંતિ મંત્રણા પડી ભાંગી અને વળી પાછા યુદ્ધ શરૂ થવાના ભણકારા વાગી રહ્યા છે. એમાં પણ ડોનાલ્ડ ટ્રમ્પના નિવેદન બાદ સ્થિતિ વધુ વણસી છે જેના પગલે ક્રૂડ ઓઈલના ભાવ ઉછળ્યા અને સોનું ચાંદી ગગડ્યા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-rate-down-as-peace-talks-fail-aaj-no-sona-chandi-no-bhav-iran-us-war-472762 ",
-    "time": "2026-04-13T07:02:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Video",
     "desc": "મુંબઈ અને બેંગ્લોર વચ્ચેની IPL મેચ દરમિયાન એક એવું દ્રશ્ય સામે આવ્યું જેણે ચાહકોને ચોંકાવી દીધા. આ વખતે જ્યારે હાર્દિક પંડ્યા અને કૃણાલ પંડ્યા મેદાન પર આમને-સામને હતા, ત્યારે ના કોઈ હસી મજાક જોવા મળી કે ના ભાઈચારાની ઝલક જોવા મળી.",
@@ -252,15 +306,6 @@ const newsData_gu = [
     "time": "2026-04-13T05:29:36.000Z"
   },
   {
-    "cat": "Business",
-    "title": "₹15.85 લાખના પગાર પર 1 રૂપિયાનો ટેક્સ નહીં! આ રીતે બચાવો તમારા પૈસા",
-    "desc": "નાણાકીય વર્ષ 2026-27ના નવા ટેક્સ નિયમો હેઠળ હવે ₹15.85 લાખ સુધીના પગાર પર ટેક્સ બચી શકે છે. નવી રિઝીમમાં મીલ વાઉચર્સ, 75000 રૂપિયા સ્ટાન્ડર્ડ ડિડક્શન, પીએફ અને એનપીએસમાં 14 ટકાનું યોગદાનનું સ્માર્ટ ગણિત તમારી ટેક્સેબલ આવકને 12 લાખથી નીચે લાવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/income-tax-saving-no-tax-of-rs-1-on-salary-of-%E2%82%B915-85-lakh-472770 ",
-    "time": "2026-04-13T04:55:34.000Z"
-  },
-  {
     "cat": "World",
     "title": "શાંતિ મંત્રણા પડી ભાંગી, હવે ફરી ભીષણ યુદ્ધ શરૂ થાય તેવા સંકેત, રિપોર્ટમાં ચોંકાવનારો દાવો",
     "desc": "પાકિસ્તાનના ઈસ્લામાબાદમાં યોજાયેલી અમેરિકા અને ઈરાન વચ્ચેની શાંતિ મંત્રણા નિષ્ફળ જતા હવે યુદ્ધવિરામ તૂટવાનો પણ ડર ઊભો થયો છે. બે અઠવાડિયાનો જે યુદ્ધવિરામ હતો તે હવે ગમે તે ટાણે તૂટે તેવી વિશ્વને ભીતિ છે. એક રિપોર્ટમાં એવો પણ દાવો થઈ રહ્યો છે કે ઈરાન પર હવે ભીષણ હુમલા વધી શકે છે.",
@@ -286,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/phone-call-from-israeli-pm-netanyahu-and-iran-us-talks-failed-inside-story-472745 ",
     "time": "2026-04-12T17:55:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કેન્દ્રીય કર્મચારીઓ માટે ખુશખબર, હવે બાળકોના શિક્ષણ માટે મળશે વાર્ષિક 33,750 રૂપિયા, જાણો શું છે નવા નિયમો",
-    "desc": "કેન્દ્ર સરકાર પોતાના કર્મચારીઓને બે બાળકોના શિક્ષણ માટે પ્રતિ બાળક 2,812.5 રૂપિયા પ્રતિ માસ (વાર્ષિક 33,750 રૂપિયા)નું ભથ્થું આપે છે. આ યોજનાનો લાભ નર્સરીથી 12મા ધોરણ સુધીના અભ્યાસ માટે મળે છે, જેના માટે શૈક્ષણિક વર્ષના અંતે શાળાનું પ્રમાણપત્ર જમા કરાવવું અનિવાર્ય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/good-news-for-central-government-employees-now-you-will-get-rs-33750-annually-for-childrens-education-know-what-are-the-new-rules-472744 ",
-    "time": "2026-04-12T17:00:38.000Z"
   },
   {
     "cat": "Sports",
@@ -351,24 +387,6 @@ const newsData_gu = [
     "time": "2026-04-12T06:25:43.000Z"
   },
   {
-    "cat": "World",
-    "title": "અમેરિકા-ઈરાન શાંતિ મંત્રણા નિષ્ફળ, હવે થશે યુદ્ધ ? જાણો શું સંકેત આપી રહી છે ગ્રહોની ચાલ",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે 21 કલાક ચાલેલી ચર્ચા સમજૂતી વિના સમાપ્ત થઈ. વિશ્વભરના ઘણા દેશો ડીલ પર નજર રાખી રહ્યા હતા, જેથી તેઓ પણ આ સંઘર્ષના પરિણામોથી રાહત મેળવી શકે, પરંતુ આ મંત્રણા નિષ્ફળ ગઈ છે. જો કે, જ્યોતિષીય ભવિષ્યવાણી સકારાત્મક સંકેતો આપી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/america-iran-war-prediction-know-when-did-us-vs-iran-war-end-472607 ",
-    "time": "2026-04-12T05:27:58.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાન-US શાંતિ વાર્તાલાપ કેમ નિષ્ફળ રહી? ઈસ્લામાબાદમાં કઈ 4 શરતો પર પેચ ફસાયો?",
-    "desc": "ઈસ્લામાબાદમાં ઈરાન અને અમેરિકા વચ્ચે 21 કલાક લાંબી મેરેથોન શાંતિ વાર્તા ચાલી હતી, પરંતુ તેમાં કોઈ પરિણામ વગર જ સમાપ્ત થઈ ગઈ છે. જેડી વેન્સ (JD Vance) અને ઈરાની મીડિયાના નિવેદનો અનુસાર, હોર્મુઝ, લેબેનોન સીઝફાયર, ન્યુક્લિયર અને પ્રતિબંધો જેવા મુદ્દાઓ પર સમજૂતી થઈ શકી નથી. જાણો ડોનાલ્ડ ટ્રમ્પની ધમકી અને હવે આગળ શું થશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/explainer-why-did-the-iran-us-peace-talks-fail-on-which-4-conditions-did-the-negotiations-hit-a-snag-in-islamabad-472604 ",
-    "time": "2026-04-12T04:13:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPLમાંથી કેટલું કમાય છે વૈભવ સૂર્યવંશી ? જાણો એક મેચ રમવા માટે કેટલા મળે છે પૈસા",
     "desc": "IPL 2026 શરૂ થઈ ત્યારથી વૈભવ સૂર્યવંશીનું નામ ચર્ચામાં છે. 10 એપ્રિલે RCB સામે 300ની સ્ટ્રાઈક રેટથી માત્ર 26 બોલમાં 78 રન બનાવ્યા હતા. ત્યારે ઘણા લોકોના મનમાં સવાલ હશે કે, સૂર્યવંશી IPLમાંથી કેટલી કમાણી કરે છે.",
@@ -394,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-update-for-government-employees-approx-fitment-factor-minimum-basic-pay-472491 ",
     "time": "2026-04-11T07:37:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ગુવાહાટીમાં RCBની હારના 3 સૌથી મોટા વિલન, જાણો રાજસ્થાન સામે કેમ હાર્યું બેંગ્લોર",
-    "desc": "શુક્રવારે રમાયેલી IPL મેચમાં રાજસ્થાન રોયલ્સે રોયલ ચેલેન્જર્સ બેંગ્લોરને 6 વિકેટથી હરાવ્યું. પ્રથમ બેટિંગ કરતા રોયલ ચેલેન્જર્સ બેંગ્લોરે 20 ઓવરમાં 8 વિકેટ ગુમાવીને 201 રન બનાવ્યા. જવાબમાં રાજસ્થાન રોયલ્સે 18 ઓવરમાં 4 વિકેટ ગુમાવીને 202 રન બનાવીને 6 વિકેટથી જીત નોંધાવી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/why-royal-challengers-bengaluru-lost-to-rajasthan-royals-know-the-reason-472465 ",
-    "time": "2026-04-11T06:14:29.000Z"
   },
   {
     "cat": "Politics",
@@ -432,15 +441,6 @@ const newsData_gu = [
     "time": "2026-04-10T14:36:36.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026 વચ્ચે આવ્યા દુખદ સમાચાર, પૂર્વ ભારતીય ક્રિકેટરનું નિધન, BCCI અધ્યક્ષે આપી શ્રદ્ધાંજલિ",
-    "desc": "ભારતીય ક્રિકેટમાં આઈપીએલનો રોમાંચ ચાલી રહ્યો છે. આ વચ્ચે એક પૂર્વ ભારતીય ક્રિકેટરનું નિધન થયું હતું. સીડી ગોપીનાથે 96 વર્ષની ઉંમરે ચેન્નઈમાં અંતિમ શ્વાસ લીધો છે. તેઓ ઈંગ્લેન્ડ સામે ભારતની પ્રથમ ટેસ્ટ જીતેલી ટીમના સભ્ય હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/former-indian-cricketer-cd-gopinath-passes-away-at-the-age-of-96-bcci-pays-tribute-472361 ",
-    "time": "2026-04-10T11:00:51.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "પ્રથમવાર કાર ખરીદનારાઓ માટે બેસ્ટ ડીલ! 5 લાખથી ઓછામાં આવે છે આ ધાંસૂ કાર",
     "desc": "5 લાખ રૂપિયાના બજેટમાં ભારતમાં ઘણી શાનદાર એન્ટ્રી-લેવલ કાર ઉપલબ્ધ છે. Maruti Suzuki S-Presso, Maruti Suzuki Alto K10, Renault Kwid, Tata Tiago અને Maruti Suzuki Celerio જેવી કાર ઓછી કિંમત, શાનદાર માઇલેજ અને સીએનજી વિકલ્પની સાથે શાનદાર વિકલ્પ છે.",
@@ -466,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/west-bengal-assembly-election-and-what-is-in-bjp-sankalp-patra-about-pay-commission-472340 ",
     "time": "2026-04-10T09:06:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "6 સિક્સર ખાઈને બ્રોડે ગુસ્સામાં કરી હતી આ હરકત, વર્ષો બાદ યુવરાજ સિંહનો મોટો ખુલાસો",
-    "desc": "2007ના T20 વર્લ્ડ કપમાં પોતાની ઐતિહાસિક 6 સિક્સરની ઇનિંગ્સથી હેડલાઇન્સમાં આવેલા યુવરાજ સિંહે વર્ષો પછી તે ઘટનાનો ભાવનાત્મક પાસું શેર કર્યું છે. તેમણે ખુલાસો કર્યો કે સ્ટુઅર્ટ બ્રોડે ગુસ્સાથી તેમની સહી કરેલી જર્સી કચરાપેટીમાં ફેંકી દીધી હતી, પરંતુ યુવરાજે તેને \"સંપૂર્ણપણે સ્વીકાર્ય\" ગણાવ્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/when-stuart-broad-threw-yuvraj-singh-signed-jersey-in-anger-after-2007-472338 ",
-    "time": "2026-04-10T08:59:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -511,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/taarak-mehta-ka-ooltah-chashmah-cast-net-worth-dilip-joshi-to-munmun-dutta-472311 ",
     "time": "2026-04-10T06:54:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "નથી ભરી શકતા હોમ લોન કે અન્ય કોઈ લોનના EMI? આવી સ્થિતિમાં શું કરવું...આ માહિતી ખાસ જાણો",
-    "desc": "ઘણીવાર સ્થિતિ એવી આવી જાય કે લોનના હપ્તા ભરવાના ફાંફાં પડી જાય છે. આવી સ્થિતિમાં લોકો ગભરાઈ જતા હોય છે. જો જીવનમાં ન કરે નારાયણ અને આવી સ્થિતિ આવી પણ જાય તો ગભરાયા વગર સમજદારીથી કામ લેવું જોઈએ. જાણો આ માહિતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/if-you-are-facing-trouble-paying-emi-you-should-know-this-information-check-details-472301 ",
-    "time": "2026-04-10T05:55:40.000Z"
   },
   {
     "cat": "Tech",

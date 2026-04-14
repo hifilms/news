@@ -1,12 +1,12 @@
 const newsData_bn = [
   {
     "cat": "Politics",
-    "title": "কে মেধা রূপম? উত্তপ্ত, অশান্ত নয়ডার শ্রমিক বিক্ষোভ একা হাতে শান্ত করা এই IPS অফিসারের আসল পরিচয় জেনে নিন",
-    "desc": "গত সোমবার এই আন্দোলন হিংসাত্মক হয়ে ওঠে। শ্রমিকরা পাথর নিক্ষেপ করেন, যানবাহন ভাঙচুর করেন এবং বেশ কিছু জায়গায় অগ্নিসংযোগের ঘটনাও ঘটে। পরিস্থিতি নিয়ন্ত্রণে পুলিস মোতায়েন করতে হয় এবং এই উত্তাল পরিস্থিতির মধ্যেই ডিএম মেধা রূপমকে কঠোর সমালোচনার ও চ্যালেঞ্জের মুখোমুখি হতে হয়।",
+    "title": "Asia's Longest Wildlife Corridor: উপর দিয়ে উড়ে চলে যাচ্ছে জাতীয় সড়ক, নীচে ছুটে বেড়াচ্ছে বন্য জন্তুর দল",
+    "desc": "আগে দিল্লি থেকে দেরাদুন যেতে ৬ ঘণ্টার বেশি সময় লাগত। এখন লাগবে বেশ কয়েক ঘণ্টা কম। নতুন এই এক্সপ্রেসওয়েটি চালু হওয়ার পরে এখন এই পথ অতিক্রম করতে লাগবে মাত্র ২.৫ ঘণ্টা। ২১৩ কিমির দীর্ঘ এই করিডরটি দিল্লি, উত্তরপ্রদেশ এবং উত্তরাখণ্ডের মধ্য দিয়ে গিয়েছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/noida-wage-protest-who-is-dm-medha-roopam-officer-faces-heat-amid-workers-unrest_648733.html ",
-    "time": "2026-04-14T10:11:27.000Z"
+    "url": " https://zeenews.india.com/bengali/nation/asias-longest-wildlife-corridor-delhi-dehradun-expressway-213-km-in-2-and-half-12km-wildlife-corridor_648748.html ",
+    "time": "2026-04-14T11:16:24.000Z"
   },
   {
     "cat": "Politics",
@@ -151,15 +151,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/iran-and-us-delegations-arrive-to-islamabad_648294.html ",
     "time": "2026-04-11T04:46:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anirban comeback with Dev-Subhashree: অনির্বাণকে পর্দায় ফেরানোর দায় নিজের কাঁধেই নিলেন দেব, প্রতীক্ষিত 'দেশু ৭'-এর পরিচালকের আসনে তিনিই",
-    "desc": "টলিউডে নতুন ধামাকা! অভিনয়ের পাশাপাশি এবার মেগাস্টার দেবের মুকুটে যুক্ত হল নতুন পালক। প্রযোজক দেব তো আগেই সফল, এবার তিনি অবতীর্ণ হলেন পরিচালকের ভূমিকায়। শুধু পরিচালক হিসেবে আত্মপ্রকাশই নয়, একঝাঁক চমক নিয়ে নিজের প্রথম ছবির ঘোষণা করে দিলেন তিনি। দেবের ছবিতেই কামব্যাক হতে চলেছে অনির্বাণের।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/dev-debuts-as-director-starring-subhashree-and-anirban-bhattacharya-comeback_648263.html ",
-    "time": "2026-04-10T15:56:53.000Z"
   },
   {
     "cat": "World",

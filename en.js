@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "UN",
+    "desc": "\"In the first three months of this year, nearly 700 civilians were reportedly killed in drone strikes,\" UN humanitarian chief Tom Fletcher said in a statement, a day before the three-year anniversary of the start of the war",
+    "img": "https://th-i.thgim.com/public/incoming/lbn6ig/article70861374.ece/alternates/LANDSCAPE_1200/Sudan_50027.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/nearly-700-reported-killed-in-sudan-drone-strikes-this-year-un/article70861226.ece",
+    "time": "2026-04-14T13:15:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Tamil Nadu will fight': CM Stalin warns PM Modi over north gain in delimitation",
+    "desc": "Referring to the special session of Parliament scheduled for April 16, Tamil Nadu chief minister MK Stalin alleged that it had been “forcibly convened” in the middle of elections in Tamil Nadu and West Bengal, and claimed the Union government intended to push through a constitutional amendment on delimitation without adequate debate.",
+    "img": "https://static.toiimg.com/photo/msid-130260090,imgsize-38490.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-will-fight-cm-stalin-warns-pm-modi-over-north-gain-in-delimitation/articleshow/130259709.cms",
+    "time": "2026-04-14T13:08:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PCB chief Naqvi trolled for 'long queues at petrol pumps in India' remark",
+    "desc": "Mohsin Naqvi faced backlash after claiming India was facing fuel shortages, despite Pakistan’s own energy crisis. His remarks came as PSL 2026 matches are held without crowds due to fuel and security issues. With prices rising over 40%, Pakistani people criticised his comments on social nedia, pointing out stable fuel conditions in India and questioning his claims.",
+    "img": "https://static.toiimg.com/photo/msid-130259796,imgsize-45202.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-chief-mohsin-naqvi-trolled-for-long-queues-at-petrol-pumps-in-india-remark-psl-ipl/articleshow/130258012.cms",
+    "time": "2026-04-14T12:48:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala dental student’s death highlights growing threat of predatory loan apps",
+    "desc": "Investigators say the student had taken a loan of around ₹14,000 from an app and recovery agents had been contacting him repeatedly. They also purportedly directed calls and messages to a college teacher in an attempt to shame the youngster and coerce repayment",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-tamilnadu/y8cwur/article70859863.ece/alternates/LANDSCAPE_1200/Kerala-dental-sGTUFRK0ED.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-dental-students-death-highlights-growing-threat-of-predatory-loan-apps/article70858122.ece",
+    "time": "2026-04-14T12:40:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hippo ‘Hamsini’ dies at Tyavarekoppa Tiger and Lion Safari in Shivamogga due to infection following intrauterine foetal death",
+    "desc": "This was the third pregnancy for the 12-year-old hippo. She had delivered a calf in 2024. But, the calf drowned. In 2025, she delivered another calf. But, that calf also died after being attacked by its father — the male hippo — soon after birth",
+    "img": "https://th-i.thgim.com/public/incoming/jik8s3/article70861169.ece/alternates/LANDSCAPE_1200/9911_12_4_2026_11_54_13_2_HIPPO_2.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/hippo-hamsini-dies-at-tyavarekoppa-tiger-and-lion-safari-in-shivamogga-due-to-infection-following-intrauterine-foetal-death/article70861112.ece",
+    "time": "2026-04-14T12:32:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Women’s participation ‘non-negotiable’ in country’s development: PM Modi",
+    "desc": "‘Our democracy will become stronger and more vibrant if the 2029 Lok Sabha elections and various Assembly elections that year are held with women’s reservation fully in place,’ Modi says in an open letter to the women of the country",
+    "img": "https://th-i.thgim.com/public/incoming/o5vs6z/article70860137.ece/alternates/LANDSCAPE_1200/GSS_PM-Modi-askGP0FRJSPN.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/indian-democracy-will-be-stronger-vibrant-if-women-quota-implemented-in-2029-pm-modi/article70860104.ece",
+    "time": "2026-04-14T12:26:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "With exit of ‘forever CM’ Nitish Kumar, an era ends in Bihar",
+    "desc": "Nitish Kumar is part of a generation that ushered in the heydays of socialist politics in Bihar; with his exit as CM, the JD(U) is staring at a future in which it will be a junior parter to the BJP in the State",
+    "img": "https://th-i.thgim.com/public/incoming/uoj83d/article70706403.ece/alternates/LANDSCAPE_1200/PTI03_05_2026_000096A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/with-exit-of-its-forever-cm-nitish-kumar-its-an-end-of-an-era-in-bihar/article70706305.ece",
+    "time": "2026-04-14T11:59:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Nobody supported Dhurandhar, people said it will decline on Monday'",
+    "desc": "Director Kunal Kohli reveals the Hindi film industry's lack of support for the blockbuster 'Dhurandhar' and 'Border 2', despite their massive box office success. He draws parallels to his own film 'Hum Tum', highlighting a persistent industry mindset where genuine support is rare, with only a few like Rakesh Roshan offering encouragement.",
+    "img": "https://static.toiimg.com/photo/msid-130258737,imgsize-34030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nobody-supported-dhurandhar-big-directors-said-monday-ko-baith-jayegi-film-reveals-kunal-kohli-shares-what-happened-during-hum-tum/articleshow/130258607.cms",
+    "time": "2026-04-14T11:55:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Fan gives Kavya Maran a rose after SRH win",
+    "desc": "Debutant pacers Hinge and Hussain picked four wickets each as Sunrisers Hyderabad ended table-toppers Rajasthan Royals’ winning streak in emphatic fashion. On a surface where the odd ball held up, Kishan struck eight fours and six sixes in a blistering 44-ball 91 to power SRH to 216/6. Anything full and wide was punished through the off side with ease, while short balls were dispatched with authority, helping the skipper bring up his 19th IPL fifty.",
+    "img": "https://static.toiimg.com/photo/msid-130258584,imgsize-79088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/fan-gives-kavya-maran-a-rose-after-srh-win-what-she-did-next-goes-viral-watch/articleshow/130258578.cms",
+    "time": "2026-04-14T11:49:01.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Foreign secretary Misri reaches Berlin for India-Germany Foreign Office consultations",
+    "desc": "Discussions expected to cover diverse domains of bilateral cooperation, including trade and investment, defence and security, technology, green energy, development cooperation, education and people-to-people ties as well as global and regional matters of mutual interest.",
+    "img": "https://th-i.thgim.com/public/incoming/isth5/article70861042.ece/alternates/LANDSCAPE_1200/20260226356L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/foreign-secretary-misri-reaches-berlin-for-india-germany-foreign-office-consultations/article70861028.ece",
+    "time": "2026-04-14T11:44:59.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S., Iran may meet again in Islamabad for second round of talks by next week: Report",
+    "desc": "The contacts are ongoing for the revival of stalled negotiations between the U.S. and Iran, and talks may be held again before the end of the two-week ceasefire on April 21, says reports citing highly placed sources",
+    "img": "https://th-i.thgim.com/public/incoming/svkytr/article70861013.ece/alternates/LANDSCAPE_1200/12th_kallol2_G3GTGFRBK2D.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-iran-may-meet-again-in-islamabad-for-second-round-of-talks-by-next-week-report/article70860969.ece",
+    "time": "2026-04-14T11:30:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Who is Samrat Choudhary, set to be new Bihar CM and BJP's first leader to take the top post",
+    "desc": "At 57, Choudhary has steadily risen through Bihar’s political ranks and is regarded as one of the BJP’s strongest organisational figures in the state. He currently holds the Home portfolio and has played a central role in the NDA government, often representing the BJP alongside Nitish Kumar at major official and political events.",
+    "img": "https://static.toiimg.com/photo/msid-130257192,imgsize-31138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/who-is-samrat-choudhary-new-bihar-cm-and-bjps-first-leader-to-take-the-top-post/articleshow/130256960.cms",
+    "time": "2026-04-14T11:11:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Namit Malhotra confirms 'Brahmastra 2' after 'Ramayana'",
+    "desc": "Producer Namit Malhotra has confirmed that Brahmastra 2 is in development and will commence work after his current project, Ramayana, is completed. This follows earlier hints from Ranbir Kapoor and Ayan Mukerji, with the sequel expected to delve into the backstory of Dev and Amrita.",
+    "img": "https://static.toiimg.com/photo/msid-130257545,imgsize-82730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/namit-malhotra-confirms-brahmastra-2-after-ramayana-with-ranbir-kapoor-says-he-plans-to-take-the-astraverse-forward/articleshow/130257470.cms",
+    "time": "2026-04-14T11:05:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No handshake! India's Harika breaks silence on Uzbek GM's 'Namaste'",
+    "desc": "Harika Dronavalli clarified viral handshake incident with Nodirbek Yakubboev, saying there was no disrespect. He had pre-informed her he cannot do handshakes due to religious beliefs, and her instinctive resignation gesture caused confusion. She urged social media not to blame him. Similar past incidents exist with Vaishali Rameshbabu. Harika stressed mutual respect and focus on chess, despite controversy overshadowing results.",
+    "img": "https://static.toiimg.com/photo/msid-130257501,imgsize-69486.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/no-handshake-indias-harika-dronavalli-breaks-silence-on-uzbek-gms-namaste-exclusive/articleshow/130257408.cms",
+    "time": "2026-04-14T11:04:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nitish Kumar resigns; Samrat Choudhary set to become next Bihar CM",
+    "desc": "Nitish Kumar, who has been Chief Minister for the past 21 years, tendered his resignation, which was accepted by Lt. Gen. (Retd.) Governor Syed Ata Hasnain; Deputy CM Samrat Choudhary has been elected as the BJP's Legislature Party leader",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-new-chief-minister-nitish-kumar-resignation-janata-dal-united-bjp-live-updates-april-14-2026/article70860192.ece",
+    "time": "2026-04-14T10:58:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Sab fake hai': Praful Hinge recreates Siraj moment after SRH win",
+    "desc": "Debut sensation Praful Hinge etched his name in IPL history by claiming three wickets in the opening over against Rajasthan Royals. His remarkable spell, finishing with 4/34, propelled Sunrisers Hyderabad to a dominant 57-run victory. Following the win, Hinge recreated a Mohammed Siraj-style video, humorously clarifying his official social media presence.",
+    "img": "https://static.toiimg.com/photo/msid-130257381,imgsize-43906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/sab-fake-hai-praful-hinge-recreates-mohammed-siraj-moment-after-sunrisers-hyderabad-win-watch/articleshow/130257361.cms",
+    "time": "2026-04-14T10:58:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lively to use Baldoni’s Spears harassment comment at trial?",
+    "desc": "A legal battle between Blake Lively and Justin Baldoni over their film 'It Ends With Us' has taken a surprising turn. Lively's lawyers reportedly plan to use a 2017 video of Baldoni discussing an awkward encounter with Britney Spears to support their case, suggesting a pattern of inappropriate behavior.",
+    "img": "https://static.toiimg.com/photo/msid-130257334,imgsize-124990.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-to-use-justin-baldonis-britney-spears-harassment-comment-in-court-inside-the-it-ends-with-us-legal-battle/articleshow/130257044.cms",
+    "time": "2026-04-14T10:57:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mango farmers reiterate demand for pulp-making factory in K.V. Kuppam constituency",
+    "desc": "K.V. Kuppam Assembly constituency’s dependence on agriculture is due to lack of industrial units and factories which can generate jobs for the unemployed educated youth in the region, many of whom are forced migrate to big cities like Chennai, Bengaluru, and Coimbatore in search of employment.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/mjpth6/article70860869.ece/alternates/LANDSCAPE_1200/KV%20Kuppam%20Constituency%20Watch.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-elections-2026-mango-farmers-reiterate-demand-for-pulp-making-factory-in-kv-kuppam-constituency/article70838268.ece",
+    "time": "2026-04-14T10:55:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Millions around the world could be pushed into poverty, flags UNDP",
+    "desc": "A Middle East conflict involving the US and Iran is now impacting Asia, potentially pushing 8.8 million into poverty, according to a UN report. Soaring fuel costs and trade disruptions are hitting household budgets and food security across the region, with significant economic losses projected. Remittance flows are also a concern for several nations.",
+    "img": "https://static.toiimg.com/photo/msid-130257041,imgsize-151496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/middle-east-crisis-millions-around-the-world-could-be-pushed-into-poverty-flags-undp/articleshow/130256906.cms",
+    "time": "2026-04-14T10:42:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay Varma on negativity on social media post break-up with Tamannaah",
+    "desc": "Vijay Varma opened up about navigating social media negativity following his reported breakup with Tamannaah Bhatia. He consciously stepped back from online discourse, finding it has shifted to excessive and personal attacks. This break allowed him to reconnect with loved ones and focus on what truly matters.",
+    "img": "https://static.toiimg.com/photo/msid-130256994,imgsize-29224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vijay-varma-opens-up-on-stepping-away-from-social-media-amidst-negativity-post-his-break-up-with-tamannaah-bhatia-jo-gaali-de-raha-hai-/articleshow/130256970.cms",
+    "time": "2026-04-14T10:39:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'PM Modi is a deshdrohi': Rahul Gandhi repeats his 'sold India in US trade deal' claim",
+    "desc": "In a two-pronged attack , Rahul Gandhi accused the BJP and the RSS of destroying the Constitution with their \"hate-filled thinking\", while claiming the ruling TMC has failed in fulfilling its promise of providing jobs to the state's youth. Addressing poll rallies in Raiganj and Malda, Gandhi claimed that 84 lakh youths in Bengal have applied for the unemployment allowance promised by the Mamata Banerjee government.",
+    "img": "https://static.toiimg.com/photo/msid-130256763,imgsize-28242.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-is-a-deshdrohi-rahul-gandhi-repeats-his-sold-india-in-us-trade-deal-claim/articleshow/130255486.cms",
+    "time": "2026-04-14T10:25:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I blame the COVID vaccine’: Shane Warne’s son makes shocking claim",
+    "desc": "Four years after Shane Warne’s sudden death, his son Jackson Warne has suggested COVID-19 vaccines may have contributed, while acknowledging underlying health issues. Speaking on a podcast, he recalled his initial anger and belief that external pressures led to multiple doses, revisiting the circumstances surrounding the spin legend’s passing.",
+    "img": "https://static.toiimg.com/photo/msid-130256537,imgsize-58040.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-blame-the-covid-vaccine-shane-warnes-son-makes-shocking-claim-on-fathers-death/articleshow/130256537.cms",
+    "time": "2026-04-14T10:19:29.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Noida workers’ protest: Over 300 held, seven FIRs registered; ‘syndicate’ angle under probe, says police",
     "desc": "“Route marches have been conducted continuously since 5 a.m. This morning, workers gathered at three locations; following immediate dialogue, they were peacefully dispersed within just 15 minutes,” Gautam Buddh Nagar Police Commissioner Laxmi Singh said",
@@ -7,15 +205,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/uttar-pradesh/noida-workers-protest-over-300-people-arrested/article70860583.ece",
     "time": "2026-04-14T09:53:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indian democracy will be stronger, vibrant if women quota implemented in 2029: PM Modi",
-    "desc": "In a letter to the women of the country, Mr. Modi also said that with women excelling in several fields, it is only fitting that there is an increase in the participation of women in legislative bodies",
-    "img": "https://th-i.thgim.com/public/incoming/o5vs6z/article70860137.ece/alternates/LANDSCAPE_1200/GSS_PM-Modi-askGP0FRJSPN.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indian-democracy-will-be-stronger-vibrant-if-women-quota-implemented-in-2029-pm-modi/article70860104.ece",
-    "time": "2026-04-14T09:45:36.000Z"
   },
   {
     "cat": "Politics",
@@ -194,7 +383,7 @@ const newsData_en = [
     "desc": "In a nation where only four women have ever earned the GM title, 35-year-old Harika remains one of its most enduring pillars. As her compatriots prepare for the traditional grind of World Championship cycles, Harika has qualified for the inaugural FIDE Women’s Freestyle Chess World Championship, which is set to take place next year.",
     "img": "https://static.toiimg.com/photo/msid-130254121,imgsize-51606.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/historic-first-indian-to-qualify-for-fide-freestyle-chess-world-cship-harika-dronavalli-exclusive/articleshow/130254074.cms",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/harika-dronavalli-exclusive-blank-mind-and-bold-leap-how-the-veteran-cracked-freestyle-chess-on-debut/articleshow/130254074.cms",
     "time": "2026-04-14T07:57:06.000Z"
   },
   {
@@ -214,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/diplo-backs-justin-biebers-coachella-set-amid-backlash-says-it-was-like-being-at-a-party-with-him-/articleshow/130254069.cms",
     "time": "2026-04-14T07:44:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Stalin interacts with voters during morning walk in K.V. Kuppam constituency",
-    "desc": "Mr. Stalin set out on a morning walk in the K.V. Kuppam town area, where he stopped at a small tea shop, interacted with locals, and canvassed votes in favour of the DMK and its allies",
-    "img": "https://th-i.thgim.com/public/incoming/tva32b/article70860297.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-14%20at%2008.52.36.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-elections-stalin-interacts-with-voters-during-morning-walk-in-kv-kuppam-segment/article70860164.ece",
-    "time": "2026-04-14T07:44:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -261,33 +441,6 @@ const newsData_en = [
     "time": "2026-04-14T07:13:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aditya Uppal OPENS UP about working with Ranveer in Dhurandhar",
-    "desc": "In a recent interview, Aditya Uppal, who portrayed ASP Omar Haider in the 'Dhurandhar' franchise, reflected on his evolving perception of Ranveer Singh following their joint efforts. He painted Singh as a powerhouse of focus and humility, radiating positivity on set and making everyone feel important. Read the full article to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130253214,imgsize-76296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditya-uppal-opens-up-about-working-with-ranveer-singh-in-dhurandhar-2-says-he-never-lets-you-feel-that-he-is-the-man/articleshow/130253214.cms",
-    "time": "2026-04-14T07:01:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Angel and the Badman' teaser: Western remake to land in October",
-    "desc": "The Western genre gets a superhero-infused revival with 'Angel and the Badman,' a remake of the 1947 classic. Starring Tommy Lee Jones, Zachary Levi, and Neal McDonough, the film blends classic Western elements with modern action and a personal story of redemption.",
-    "img": "https://static.toiimg.com/photo/msid-130252775,imgsize-53558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/angel-and-the-badman-teaser-first-look-at-western-remake-starring-marvel-and-dc-actors/articleshow/130252742.cms",
-    "time": "2026-04-14T06:36:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Huma shares Ed Sheeran loved Gangs of Wasseypur",
-    "desc": "A Fairytale for Grown-Ups, recalls her Gangs of Wasseypur debut. At Farah Khan's party, Ed Sheeran praised the film as \"cool\" after she recommended it for Hindi flair. The Kashyap-directed saga won awards; Huma joins Yash in Toxic, out June 4.",
-    "img": "https://static.toiimg.com/photo/msid-130252753,imgsize-42496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/huma-qureshi-shares-ed-sheeran-loved-gangs-of-wasseypur-narrates-cool-encounter-with-the-singer/articleshow/130252753.cms",
-    "time": "2026-04-14T06:34:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "From 9/5 to 159! RR script unbelievable record despite stunning collapse",
     "desc": "Despite a heavy defeat, Rajasthan Royals achieved a rare IPL milestone by posting 159 after losing five wickets for under 20 runs. This remarkable recovery was spearheaded by an 118-run partnership for the sixth wicket. Earlier, Sunrisers Hyderabad's Praful Hinge made history with three wickets in the opening over, contributing to SRH's dominant victory.",
@@ -295,33 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-from-9/5-to-159-rr-script-unbelievable-record-despite-stunning-collapse/articleshow/130252288.cms",
     "time": "2026-04-14T06:32:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Harry and Meghan’s low-key four-day Australia trip",
-    "desc": "Meghan Markle and Prince Harry arrived in Australia for a privately funded, four-day tour focused on mental health, community resilience, and veteran support. Unlike their 2018 royal visit, they traveled commercially and avoided a press scrum, opting for a more personal and hands-on approach to their engagements.",
-    "img": "https://static.toiimg.com/photo/msid-130252578,imgsize-126022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markle-and-prince-harry-return-to-australia-on-a-commercial-flight-inside-their-first-visit-since-2018-royal-tour/articleshow/130252544.cms",
-    "time": "2026-04-14T06:21:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sons offer huge support",
-    "desc": "Following her DUI arrest, Britney Spears has entered a treatment facility, reportedly with significant support from her sons, Sean Preston and Jayden James. This move comes after weeks of her team encouraging her to seek help, with fans also expressing concern over her well-being since her conservatorship ended.",
-    "img": "https://static.toiimg.com/photo/msid-130252533,imgsize-100458.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/britney-spears-checks-into-rehab-sons-sean-preston-and-jayden-james-offer-huge-support-to-their-mother/articleshow/130252472.cms",
-    "time": "2026-04-14T06:20:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I almost quit’: Janice Tjen opens up on journey to WTA success",
-    "desc": "Indonesian tennis sensation Janice Tjen has achieved remarkable success, becoming the first Indonesian WTA singles champion in 23 years by winning the Chennai Open. Her rapid ascent to a career-high ranking of 36 in under two years, following a near-quit decision, highlights her resilience and dedication. Tjen's journey signifies Indonesia's strong return to the global tennis stage.",
-    "img": "https://static.toiimg.com/photo/msid-130252377,imgsize-63472.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/i-almost-quit-janice-tjen-opens-up-on-journey-to-wta-success-toi-exclusive/articleshow/130252398.cms",
-    "time": "2026-04-14T06:15:25.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +540,6 @@ const newsData_en = [
     "time": "2026-04-14T03:25:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Former Haryana CM Hooda blames low procurement of crop on government’s “arbitrary” new rules",
-    "desc": "Hooda has also issued directives to all Congress MLAs and senior leaders regarding this matter, and instructed them to visit all grain markets daily, summon officials to the site, and confront them with the ground realities",
-    "img": "https://th-i.thgim.com/public/incoming/sblzec/article70860014.ece/alternates/LANDSCAPE_1200/4col_with_pictuG18FPKI5O.2.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/haryana/former-haryana-cm-hooda-blames-low-procurement-of-crop-on-governments-arbitrary-new-rules/article70858304.ece",
-    "time": "2026-04-14T03:07:42.000Z"
-  },
-  {
     "cat": "Business",
     "title": "D-Mart, UPL &amp; more: Top stocks to watch, target price &amp; more",
     "desc": "Emkay Global initiated coverage of Avenue Supermart with a sell rating, citing its high valuation. Morgan Stanley resumed coverage of UPL with an equal weight rating, seeing potential in global crop chemical volume revival. HSBC initiated coverage of Acme Solar with a buy rating, highlighting its rapid growth and long-term earnings visibility.",
@@ -441,15 +558,6 @@ const newsData_en = [
     "time": "2026-04-14T02:28:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala dental student’s death highlights growing threat of predatory loan apps",
-    "desc": "Investigators say the student had taken a loan of around ₹14,000 from an app and recovery agents had been contacting him repeatedly. They also purportedly directed calls and messages to a college teacher in an attempt to shame the youngster and coerce repayment",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-tamilnadu/y8cwur/article70859863.ece/alternates/LANDSCAPE_1200/Kerala-dental-sGTUFRK0ED.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-dental-students-death-highlights-growing-threat-of-predatory-loan-apps/article70858122.ece",
-    "time": "2026-04-14T02:26:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Watch out for the sharks’: Vaibhav Sooryavanshi gets stark warning after golden duck",
     "desc": "Fifteen-year-old Vaibhav Sooryavanshi is making waves in IPL 2026 with explosive batting. Former pacer Simon Doull warns the young star about management companies prioritizing profit over his long-term career. Doull advises Sooryavanshi to be cautious of external influences and surround himself with people who genuinely care about his development and longevity.",
@@ -459,33 +567,6 @@ const newsData_en = [
     "time": "2026-04-14T02:25:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Delimitation will not affect southern States, says Goyal",
-    "desc": "There will be proportional increase of seats across the country due to delimitation and ‘everybody is back to where they were’, says the Union Minister of Commerce and Industry; he also defends the National Education Policy, says T.N. has failed to reach its ‘true potential’ under DMK govt.",
-    "img": "https://th-i.thgim.com/public/incoming/rvf8ao/article70859288.ece/alternates/LANDSCAPE_1200/DSC_6368.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/delimitation-will-not-affect-southern-states-says-goyal/article70857651.ece",
-    "time": "2026-04-14T02:05:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Retail inflation inches up",
-    "desc": "Retail inflation in India rose to 3.4% in March, driven by higher food and fuel prices. While core inflation remained subdued, economists anticipate further price increases in the coming months due to the West Asian crisis and potential impacts of heatwaves and monsoon forecasts on food prices.",
-    "img": "https://static.toiimg.com/photo/msid-130249469,imgsize-1202645.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/retail-inflation-inches-up/articleshow/130249463.cms",
-    "time": "2026-04-14T01:52:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Nvidia rewards 10k India staff, payouts up to 1 crore",
-    "desc": "Nvidia's India employees are receiving a special stock grant, the 'Jensen Special Grant,' adding 25% to their initial RSUs. Payouts range from over Rs 5 lakh to Rs 1 crore, vesting over four years. This initiative highlights the growing importance of equity-led compensation in attracting and retaining talent in India's booming semiconductor and AI sectors.",
-    "img": "https://static.toiimg.com/photo/msid-130250696,imgsize-97194.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/nvidia-rewards-10k-india-staff-payouts-up-to-1-crore/articleshow/130249298.cms",
-    "time": "2026-04-14T01:34:59.000Z"
-  },
-  {
     "cat": "World",
     "title": "Donald Trump vows U.S. will sink any Iran boats that challenge blockade",
     "desc": "The U.S. military said the blockade would begin at 1930 hours IST and apply to all ships leaving or seeking to dock at Iranian harbours, but as the deadline passed there was no announcement that the measure had come into effect, nor sign of any interceptions",
@@ -493,69 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/donald-trump-vows-us-will-sink-any-iran-boats-that-challenge-blockade/article70858590.ece",
     "time": "2026-04-14T01:27:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Person born in India has right to remain on electoral roll, vote: Supreme Court",
-    "desc": "The Supreme Court observed that a person born in India has a constitutional and sentimental right to be on the electoral roll and vote. The bench indicated it would re-examine election results if victory margins are low and voter deletions are high, particularly in cases involving scrutiny of older voter lists.",
-    "img": "https://static.toiimg.com/photo/msid-130249075,imgsize-673634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/person-born-in-india-has-right-to-remain-on-electoral-roll-vote-supreme-court/articleshow/130249073.cms",
-    "time": "2026-04-14T00:39:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2’ BEATS ‘Jawan’ and ‘Stree 2’ in week 4",
-    "desc": "Ranveer Singh's 'Dhurandhar 2' has achieved remarkable box office success, nearing ₹1,100 crore net in India and ₹1,720 crore gross worldwide after 26 days. The spy drama's impressive fourth-week collection of ₹40.2 crore has positioned it as the 4th highest grosser in that period, surpassing 'Jawan' and 'Stree 2'.",
-    "img": "https://static.toiimg.com/photo/msid-130249068,imgsize-36550.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-26-ranveer-singh-rakesh-bedi-sanjay-dutts-film-beats-jawan-and-stree-2-in-week-4-heads-to-rs-1100-cr-mark/articleshow/130249009.cms",
-    "time": "2026-04-14T00:35:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amid a looming spectre of El Nino, IMD says monsoon likely to be 'below normal'",
-    "desc": "India's farm sector faces potential challenges as the India Meteorological Department (IMD) predicts a 'below normal' southwest monsoon. Amidst growing El Nino risks, rainfall is forecast at 92% of the long period average, with a higher probability of deficient rains.",
-    "img": "https://static.toiimg.com/photo/msid-130248889,imgsize-1337837.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/amid-a-looming-spectre-of-el-nino-imd-says-monsoon-likely-to-be-below-normal/articleshow/130248890.cms",
-    "time": "2026-04-13T23:56:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Norwegian co to supply 18 big waterjet systems for Indian Navy's next-gen missile vessel project",
-    "desc": "India's Navy is set to receive 18 advanced Kamewa waterjet propulsion systems from Norway's Kongsberg Maritime for its new missile vessels. This significant contract, awarded in partnership with Cochin Shipyard, will equip six stealth corvettes with superior speed, maneuverability, and stealth capabilities, crucial for their role as primary strike platforms.",
-    "img": "https://static.toiimg.com/photo/msid-130248867,imgsize-335234.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/norwegian-co-to-supply-18-big-waterjet-systems-for-indian-navys-next-gen-missile-vessel-project/articleshow/130248865.cms",
-    "time": "2026-04-13T23:47:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Monsoon poor in every 7 out of 10 El Nino years",
-    "desc": "El Niño years since 1980 have frequently coincided with poor Indian summer monsoons, with around 70% experiencing deficient or below-normal rainfall. Latest forecasts indicate a strong El Niño is likely to develop within months, potentially impacting the upcoming monsoon season, which the IMD expects to be below normal.",
-    "img": "https://static.toiimg.com/photo/msid-130248837,imgsize-1310028.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/monsoon-poor-in-every-7-out-of-10-el-nino-years/articleshow/130248834.cms",
-    "time": "2026-04-13T23:35:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "In Hungary, Ambedkar inspires oppressed Roma",
-    "desc": "A school in Hungary, inspired by B.R. Ambedkar, serves as a beacon for the Roma community, mirroring their struggles with oppression. Founded by a sociologist and Roma activist, the school translates Ambedkar's texts and teaches Roma history, fostering empowerment. Graduates are becoming local leaders, and girls' education is improving, reflecting Ambedkar's ideals.",
-    "img": "https://static.toiimg.com/photo/msid-130248827,imgsize-1625937.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/in-hungary-ambedkar-inspires-oppressed-roma/articleshow/130248825.cms",
-    "time": "2026-04-13T23:28:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Faster clearance for imported food stuff likely",
-    "desc": "The Food Safety and Standards Authority of India has streamlined its import clearance process for food items, allowing simultaneous inspection and testing to reduce delays at ports. This change significantly cuts clearance time while maintaining safety checks, with final clearance granted only after all fees are paid.",
-    "img": "https://static.toiimg.com/photo/msid-130248819,imgsize-1352289.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/faster-clearance-for-imported-food-stuff-likely/articleshow/130248820.cms",
-    "time": "2026-04-13T23:24:11.000Z"
   },
   {
     "cat": "Sports",
@@ -709,15 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-lsg-vs-gt-match-updates/article70853963.ece",
     "time": "2026-04-12T16:29:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Israel's Ben-Gvir visits flashpoint Al-Aqsa Mosque compound",
-    "desc": "The compound ⁠in Jerusalem’s walled Old City is one of the most sensitive sites in West Asia. Known to Jews as ‌Temple Mount, it is the most sacred site in Judaism and is Islam’s third-holiest site.",
-    "img": "https://th-i.thgim.com/public/incoming/gkr33r/article70854869.ece/alternates/LANDSCAPE_1200/Israel_Iran_War_16_92.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/israels-ben-gvir-visits-flashpoint-al-aqsa-mosque-compound/article70854855.ece",
-    "time": "2026-04-12T16:05:01.000Z"
   },
   {
     "cat": "Entertainment",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
     "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
