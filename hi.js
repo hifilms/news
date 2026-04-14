@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sunrisers Hyderabad's Praful Hinge enters elite list with exceptional showing against Rajasthan Royals",
+    "desc": "Rajasthan Royals were handed their first loss of the ongoing IPL (Indian Premier League) 2026 season. The side took on Sunrisers Hyderabad at the Rajiv Gandhi International Stadium, and the visitors were completely blown away...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-s-praful-hinge-enters-elite-list-with-exceptional-showing-against-rajasthan-royals-2026-04-14-1037425",
+    "time": "2026-04-14T01:23:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Praful Hinge, Sakib's magic and Kishan's blitz powers SRH as RR's unbeaten run in IPL 2026 ends",
     "desc": "Debutants Praful Hinge and Sakib Hussain announced themselves as Sunrisers Hyderabad mauled the unbeaten Rajasthan Royals in their Indian Premier League clash at the Rajiv Gandhi International Stadium on Monday, April 13. Hinge and Sakib...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-tim-david-fined-for-breaching-ipl-code-of-conduct-in-mi-vs-rcb-clash-know-reason-2026-04-13-1037391",
     "time": "2026-04-13T12:45:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma to undergo scans for hamstring injury, uncertain for next IPL clash",
-    "desc": "Mumbai Indians talisman Rohit Sharma will undergo scans to detail the extent of his hamstring injury, which he picked up during his team's IPL 2026 clash against the Royal Challengers Bengaluru, Cricbuzz reported. Sharma walked...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-to-undergo-scans-for-hamstring-injury-uncertain-for-next-ipl-clash-2026-04-13-1037387",
-    "time": "2026-04-13T12:17:20.000Z"
   }
 ];
