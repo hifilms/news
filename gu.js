@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "એક બાદ એક હાર... KKRની નિષ્ફળતાનો અસલી વિલેન કોણ ? કેપ્ટન અજિંક્ય રહાણેએ કોને ગણાવ્યો જવાબદાર",
+    "desc": "કોલકાતા નાઈટ રાઈડર્સને IPL 2026માં ચોથી હારનો સામનો કરવો પડ્યો, કારણ કે ચેન્નાઈ સુપર કિંગ્સે તેને 32 રનથી હરાવ્યું. કેપ્ટન અજિંક્ય રહાણેએ આ હાર માટે કોને જવાબદાર ગણાવ્યો અને KKR સતત કેમ હારી રહ્યું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/who-is-responsible-for-kkrs-failure-captain-ajinkya-rahane-reaction-473169 ",
+    "time": "2026-04-15T07:00:43.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "એક્સચેન્જ કે એસેસરીઝ નહીં, આ ઇલેક્ટ્રિક SUV પર મળી રહ્યું છે ₹2.50 લાખ રોકડ ડિસ્કાઉન્ટ, કિંમતમાં થયો આટલો ઘટાડો",
     "desc": "કંપની આ ઇલેક્ટ્રિક SUVના EC Pro અને EL Pro વેરિઅન્ટ્સ પર આ ડિસ્કાઉન્ટ આપી રહી છે. ગ્રાહકો માટે સારા સમાચાર એ છે કે આ ડિસ્કાઉન્ટ એક્સચેન્જ, કોર્પોરેટ અથવા એસેસરીઝને બદલે સીધા રોકડ સ્વરૂપમાં આપવામાં આવી રહ્યું છે. આનાથી તમારા ખિસ્સામાં સીધા 2.50 લાખ રૂપિયાની બચત થશે.",
@@ -421,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/why-csk-suddenly-retired-out-ayush-mhatre-know-the-reason-472616 ",
     "time": "2026-04-12T06:25:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPLમાંથી કેટલું કમાય છે વૈભવ સૂર્યવંશી ? જાણો એક મેચ રમવા માટે કેટલા મળે છે પૈસા",
-    "desc": "IPL 2026 શરૂ થઈ ત્યારથી વૈભવ સૂર્યવંશીનું નામ ચર્ચામાં છે. 10 એપ્રિલે RCB સામે 300ની સ્ટ્રાઈક રેટથી માત્ર 26 બોલમાં 78 રન બનાવ્યા હતા. ત્યારે ઘણા લોકોના મનમાં સવાલ હશે કે, સૂર્યવંશી IPLમાંથી કેટલી કમાણી કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rajasthan-royals-vaibhav-suryavanshi-ipl-salary-know-full-details-472533 ",
-    "time": "2026-04-11T11:19:03.000Z"
   },
   {
     "cat": "Politics",

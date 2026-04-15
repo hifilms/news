@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 Player battles to watch out for in IPL 2026 Match 23",
+    "desc": "Royal Challengers Bengaluru and Lucknow Super Giants will face each other today in the 23rd match of the Indian Premier League (IPL) at the Chinnaswamy Stadium in Bengaluru. RCB are in great form this season...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-lsg-3-player-battles-to-watch-out-for-in-ipl-2026-match-23-2026-04-15-1037609",
+    "time": "2026-04-15T06:38:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Viktor Axelsen, two-time world and Olympic champion, retires from professional badminton at 32",
+    "desc": "Viktor Axelsen, a two-time Olympic and world champion from Denmark, has announced his retirement from professional badminton at the age of 32, marking an end to a stunning 16-year career. He was troubled with persistent...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/viktor-axelsen-two-time-world-and-olympic-champion-retires-from-professional-badminton-at-32-2026-04-15-1037608",
+    "time": "2026-04-15T06:33:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will MS Dhoni play CSK's next match against SRH in IPL 2026? Whom will he replace?",
     "desc": "Chennai Super Kings seem to have finally found their groove in the ongoing edition of the Indian Premier League (IPL). They have won their last two matches after starting their campaign with a hat-trick of...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-injury-update-will-rcb-talisman-play-in-ipl-2026-clash-against-lsg-in-bengaluru-2026-04-14-1037544",
     "time": "2026-04-14T16:41:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are CSK and KKR players wearing black armbands in IPL 2026 clash in Chennai?",
-    "desc": "Both Chennai Super Kings and Kolkata Knight Riders players took the field wearing black armbands during their marquee IPL 2026 clash at the MA Chidambaram Stadium. The gesture was later confirmed as a tribute to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-csk-and-kkr-players-wearing-black-armbands-in-ipl-2026-clash-in-chennai-2026-04-14-1037540",
-    "time": "2026-04-14T15:59:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When can Will Jacks join Mumbai Indians for IPL 2026? Kieron Pollard shares update",
-    "desc": "Mumbai Indians are set to receive a timely boost with England all-rounder Will Jacks expected to join the squad later this week, after missing the opening phase of IPL 2026. His absence from the first...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-can-will-jacks-join-mumbai-indians-for-ipl-2026-kieron-pollard-shares-update-2026-04-14-1037536",
-    "time": "2026-04-14T15:09:28.000Z"
   }
 ];

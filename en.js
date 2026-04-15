@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "IAEA chief",
+    "desc": "North Korea's nuclear programme was estimated at a ⁠few dozen warheads, Grossi told a news conference, citing signs of activity such as the operation of a light water reactor and activation of other facilities besides Yongbyon",
+    "img": "https://th-i.thgim.com/public/incoming/bv2043/article70864277.ece/alternates/LANDSCAPE_1200/South_Korea_IAEA_38521.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/north-korea-is-boosting-nuclear-weapons-capacity-iaea-chief/article70864157.ece",
+    "time": "2026-04-15T07:03:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Karan Johar says he’ll never change his phone because of Meryl Streep",
+    "desc": "Famed director Karan Johar's encounter with Meryl Streep and Anne Hathaway during their Tokyo promo tour for 'The Devil Wears Prada 2' has gone viral. Johar dropped his phone, and Streep, noticing they shared the same model, prompted a delighted Johar to humorously vow he'd \"never change it now.",
+    "img": "https://static.toiimg.com/photo/msid-130275342,imgsize-62892.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/karan-johar-drops-his-phone-in-front-of-meryl-streep-jokes-ill-never-change-it-now/articleshow/130275342.cms",
+    "time": "2026-04-15T06:59:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court stays Telangana HC order granting transit anticipatory bail to Pawan Khera",
+    "desc": "The case arises from a press conference addressed by Mr. Khera on April 4, 2026, in which he alleged that the Assam Chief Minister’s wife held three passports issued by different countries and levelled allegations of illegality against Mr. Sarma",
+    "img": "https://th-i.thgim.com/public/incoming/ipuquq/article70864255.ece/alternates/LANDSCAPE_1200/PTI04_01_2026_000130B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-stays-telangana-hc-order-granting-transit-anticipatory-bail-to-pawan-khera/article70864270.ece",
+    "time": "2026-04-15T06:58:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kanye West may face potential ban in France",
+    "desc": "Kanye West was scheduled to perform at the Vélodrome stadium in Marseille, France, this June; however, the concert faces uncertainty as French authorities signal that his planned performance could be blocked amid ongoing backlash to his past antisemitic remarks.",
+    "img": "https://static.toiimg.com/photo/msid-130275252,imgsize-83602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/kanye-west-may-face-a-potential-ban-in-france-after-the-wireless-festival-controversy/articleshow/130275252.cms",
+    "time": "2026-04-15T06:52:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sonali recalls Ranveer was “very shy” during their first shoot",
+    "desc": "Sonali Raut recalls Ranveer Singh was very shy during his first bikini shoot and says she was asked to make him comfortable. She describes a softer, sweeter side of Ranveer, contrasting his Dhurandhar image. Meanwhile, Ranveer’s Dhurandhar and Dhurandhar 2 have created a box office storm, crossing over Rs 3000 crore in combined earnings.",
+    "img": "https://static.toiimg.com/photo/msid-130275013,imgsize-35030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonali-raut-recalls-ranveer-singh-was-very-shy-during-their-first-shoot-reveals-she-was-asked-to-make-him-comfortable/articleshow/130275013.cms",
+    "time": "2026-04-15T06:31:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Constitution Amendment Bill proposes possible change in size of State Assemblies",
+    "desc": "The proposed amendments, in effect, mean that State Assemblies will see a change in their total number of seats, depending on population changes and constituency boundaries within States will also be redrawn as part of the delimitation exercise",
+    "img": "https://th-i.thgim.com/public/incoming/5vzecv/article66896164.ece/alternates/LANDSCAPE_1200/Moorthynew%20Parliament.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/constitution-amendment-bill-proposes-fresh-delimitation-possible-change-in-size-of-state-assemblies/article70862033.ece",
+    "time": "2026-04-15T06:27:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is Mayank Yadav ready for IPL ? LSG share big update on Rs 11 crore star",
+    "desc": "Lucknow Super Giants are set to take on Royal Challengers Bengaluru at the M. Chinnaswamy Stadium in what promises to be a high-octane IPL clash, with a potential major boost in the form of pace sensation Mayank Yadav’s return.",
+    "img": "https://static.toiimg.com/photo/msid-130274683,imgsize-616522.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/is-mayank-yadav-ready-for-ipl-2026-lsg-share-big-update-on-rs-11-crore-speedster/articleshow/130274604.cms",
+    "time": "2026-04-15T06:14:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Curbs on nicotine gums, lozenges may make quitting harder, say experts",
+    "desc": "India's top drug advisory body recommends restricting over-the-counter access to most nicotine replacement therapies, sparking concerns that it will hinder smokers' efforts to quit. While tobacco products remain widely available, this move could create more hurdles for those seeking quitting aids, potentially impacting public health initiatives.",
+    "img": "https://static.toiimg.com/photo/msid-130274512,imgsize-19146.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/experts-warn-proposed-nicotine-product-restrictions-could-hinder-smoking-cessation-efforts-in-india/articleshow/130274512.cms",
+    "time": "2026-04-15T06:09:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Minister",
+    "desc": "Deputy Defence Minister Aruna Jayasekara said 32 sailors rescued from the IRIS Dena — a frigate attacked on March 4 just off Sri Lanka — and another 206 from the IRIS Bushehr left on April 14, 2026",
+    "img": "https://th-i.thgim.com/public/incoming/fh90p0/article70864029.ece/alternates/LANDSCAPE_1200/Sri_Lanka_Iran_Warship_49238.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/sri-lanka-repatriates-238-stranded-iranian-sailors-minister/article70863987.ece",
+    "time": "2026-04-15T06:08:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Preparation for Punjab polls has begun': Arvind Kejriwal reacts to ED action against AAP MP Ashok Mittal who replaced Raghav Chadha",
+    "desc": "Aam Aadmi Party leader Arvind Kejriwal and Punjab CM Bhagwant Mann have accused Prime Minister Narendra Modi of using the Enforcement Directorate's raid on AAP Rajya Sabha MP Ashok Mittal as election preparation for Punjab. The ED action occurred shortly after Mittal was appointed deputy leader in the Rajya Sabha, replacing Raghav Chadha.",
+    "img": "https://static.toiimg.com/photo/msid-130274446,imgsize-1401526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/preparation-for-punjab-polls-has-begun-arvind-kejriwal-reacts-to-ed-action-against-aap-mp-ashok-mittal-who-replaced-raghav-chadha/articleshow/130274451.cms",
+    "time": "2026-04-15T06:02:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Cruise unveils first look of ‘Digger’",
+    "desc": "Tom Cruise is set to surprise audiences in a drastically different role as Digger Rockwell in Alejandro González Iñárritu's dark comedy, 'Digger.' Unveiled in Las Vegas, Cruise sports an unrecognizable look, portraying a billionaire executive whose company's environmental disaster threatens millions.",
+    "img": "https://static.toiimg.com/photo/msid-130274153,imgsize-79576.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-unveils-the-first-look-of-his-upcoming-dark-comedy-digger-the-actor-looks-beyond-recognizable-in-the-footage/articleshow/130274153.cms",
+    "time": "2026-04-15T05:46:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Thalapathy Vijay’s ‘Jana Nayagan’ piracy case escalates",
+    "desc": "Thalapathy Vijay's film 'Jana Nayagan' faces a major piracy crisis. After an online leak, the movie was illegally aired on a local cable TV channel in Coimbatore. A cable operator has been arrested and equipment seized. This incident adds to the film's troubles, which already faced release delays due to certification issues.",
+    "img": "https://static.toiimg.com/photo/msid-130273856,imgsize-58994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijays-jana-nayagan-piracy-case-escalates-as-film-gets-aired-on-cable-tv-cable-operator-arrested/articleshow/130273856.cms",
+    "time": "2026-04-15T05:34:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bihar's first BJP CM: Samrat Choudhary takes oath",
+    "desc": "Samrat Choudhary has been sworn in as Bihar's new Chief Minister, marking the BJP's first leader to hold the state's top post. This transition follows Nitish Kumar's departure after over two decades of leadership. Choudhary, a prominent OBC face and former deputy CM, previously served in various parties before joining the BJP in 2017.",
+    "img": "https://static.toiimg.com/photo/msid-130273875,imgsize-29624.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/first-bjp-cm-in-bihar-samrat-choudhary-takes-oath/articleshow/130273548.cms",
+    "time": "2026-04-15T05:30:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How a 'long chat' with MS Dhoni helped Noor Ahmad dismantle KKR, CSK coach reveals",
+    "desc": "Noor delivered a match-winning performance with figures of 3/21 in four overs as Chennai Super Kings defeated Kolkata Knight Riders in their IPL 2026 match on Tuesday. He played a key role in breaking the middle order as Kolkata lost control of the chase.",
+    "img": "https://static.toiimg.com/photo/msid-130273730,imgsize-44450.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/how-a-long-chat-with-ms-dhoni-helped-noor-ahmad-dismantle-kkr-csk-coach-reveals-ipl/articleshow/130273529.cms",
+    "time": "2026-04-15T05:25:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "To be on electoral roll, to vote is a sentimental right, says Supreme Court",
+    "desc": "The act of voting is the biggest expression of nationality and patriotism, the EC departed from promise to leave voters in 2002 electoral roll untouched and the logical discrepancy category was unique to West Bengal, says apex court",
+    "img": "https://th-i.thgim.com/public/incoming/2vscfi/article70857384.ece/alternates/LANDSCAPE_1200/6744_19_8_2025_16_15_17_2_18_08_2025_SUPREME_COURT04.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/to-be-on-electoral-roll-to-vote-is-a-sentimental-right-says-supreme-court/article70857181.ece",
+    "time": "2026-04-15T05:23:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Marathi made mandatory for auto, taxi drivers in Maharashtra from May 1",
+    "desc": "The rule will come into effect on Maharashtra Day, officials said on Tuesday (April 14, 2026). Transport Minister Pratap Sarnaik said a campaign will be carried out through the Motor Transport Department’s 59 offices across the State to check drivers",
+    "img": "https://th-i.thgim.com/public/incoming/decm4i/article70863567.ece/alternates/LANDSCAPE_1200/2col_without_piGKQFRQQPP.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/marathi-made-mandatory-for-auto-taxi-drivers-in-maharashtra-from-may-1/article70861082.ece",
+    "time": "2026-04-15T05:18:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Vance",
+    "desc": "The U.S. V-P said he is married to the daughter of Indian immigrants, who have greatly contributed to the U.S., but his father-in-law never asked him to do anything specifically in the interest of his country of origin",
+    "img": "https://th-i.thgim.com/public/incoming/mhugt3/article70863773.ece/alternates/LANDSCAPE_1200/Vance_Turning_Point__885_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/immigrants-should-think-of-themselves-as-americans-first-vance/article70863749.ece",
+    "time": "2026-04-15T05:11:21.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Sandra Bullock and Nicole Kidman tease ‘Practical Magic 2’",
     "desc": "In a dazzling Las Vegas reveal, Hollywood icons Sandra Bullock and Nicole Kidman have officially announced the long-awaited sequel to 'Practical Magic'. Nearly three decades after we last met the Owens sisters, they're back and ready to enchant us once more.",
@@ -63,24 +216,6 @@ const newsData_en = [
     "time": "2026-04-15T04:12:52.000Z"
   },
   {
-    "cat": "World",
-    "title": "Vance",
-    "desc": "The U.S. V-P said he is married to the daughter of Indian immigrants, who have greatly contributed to the U.S., but his father-in-law never asked him to do anything specifically in the interest of his country of origin",
-    "img": "https://th-i.thgim.com/public/incoming/mhugt3/article70863773.ece/alternates/LANDSCAPE_1200/Vance_Turning_Point__885_.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/immigrants-should-think-of-themselves-as-americans-first-vance/article70863749.ece",
-    "time": "2026-04-15T04:01:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vignesh Shivan reveals'LIC' to 'LIK' title change reason’",
-    "desc": "Director Vignesh Shivan revealed that the Life Insurance Corporation of India demanded a staggering Rs 112 crore to use the title 'LIC' for his film 'Love Insurance Kompany.' Facing this exorbitant demand, the team opted for the creatively spelled title 'LIK' to avoid legal complications and proceed with the release.",
-    "img": "https://static.toiimg.com/photo/msid-130272513,imgsize-139866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/lic-to-lik-title-change-reason-vignesh-shivan-reveals-shocking-rs-112-crore-title-demand-for-the-pradeep-ranganathan-starrer/articleshow/130272513.cms",
-    "time": "2026-04-15T04:00:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "From selling off mother’s jewellery for spikes to dream IPL debut: Sakib’s journey",
     "desc": "Sakib Hussain, a young cricketer from Bihar, made a remarkable IPL debut, taking 4 wickets for 24 runs. His journey from poverty, where his mother sold jewelry for his cricket spikes, highlights his resilience. Hussain's talent and determination, despite financial struggles, have propelled him to the big stage, with aspirations to reach 150 kph next season.",
@@ -88,24 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/from-selling-off-mothers-jewellery-for-spikes-to-dream-ipl-debut-sakibs-journey/articleshow/130272421.cms",
     "time": "2026-04-15T03:50:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Are Taylor Swift and Travis Kelce getting married at her Rhode Island mansion?",
-    "desc": "Swifties are in a frenzy for Taylor Swift’s wedding to Travis Kelce. Amid all the speculations about the pop-star’s wedding, one is related to the date and venue, which says Swift will marry in her Westerly Mansion in Rhode Island. However, now the Westerly city council has given some clarity on the rumor, as it takes rounds on social media.",
-    "img": "https://static.toiimg.com/photo/msid-130271603,imgsize-118784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/are-taylor-swift-and-travis-kelce-getting-married-at-her-rhode-island-mansion-heres-the-truth/articleshow/130271603.cms",
-    "time": "2026-04-15T03:48:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Constitution Amendment Bill proposes possible change in size of State Assemblies",
-    "desc": "The proposed amendments, in effect, mean that State Assemblies will see a change in their total number of seats, depending on population changes and constituency boundaries within States will also be redrawn as part of the delimitation exercise",
-    "img": "https://th-i.thgim.com/public/incoming/5vzecv/article66896164.ece/alternates/LANDSCAPE_1200/Moorthynew%20Parliament.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/constitution-amendment-bill-proposes-fresh-delimitation-possible-change-in-size-of-state-assemblies/article70862033.ece",
-    "time": "2026-04-15T03:37:40.000Z"
   },
   {
     "cat": "Politics",
@@ -135,15 +252,6 @@ const newsData_en = [
     "time": "2026-04-15T03:16:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rajinikanth's ‘Thalaivar 173’ faces another twist",
-    "desc": "Superstar Rajinikanth's 'Thalaivar 173,' produced by Kamal Haasan, faces another directorial change as Cibi Chakravarthi reportedly exits. Initially announced after impressing with his story, Cibi's departure is attributed to scheduling conflicts. Director Ashwath Marimuthu, who previously pitched a story to Rajinikanth, is now rumored to be taking over the highly anticipated project.",
-    "img": "https://static.toiimg.com/photo/msid-130271759,imgsize-103578.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalaivar-173-faces-another-twist-cibi-chakravarthi-exits-this-director-likely-to-direct-rajinikanth/articleshow/130271759.cms",
-    "time": "2026-04-15T03:03:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL Match Today, RCB vs LSG: Predicted playing XI, head-to-head, pitch report, Bengaluru weather update",
     "desc": "Defending champions RCB, boasting the IPL's top batting lineup, clash with Lucknow Super Giants' economical bowling attack today. RCB, third in the standings, aims to continue their high-scoring spree, while seventh-placed LSG seeks a turnaround. Expect a run-fest at the M. Chinnaswamy Stadium as these contrasting teams battle it out.",
@@ -151,51 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-match-today-rcb-vs-lsg-predicted-playing-xi-head-to-head-pitch-report-bengaluru-weather-update/articleshow/130271712.cms",
     "time": "2026-04-15T02:58:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mike Mitchell cut from the ‘Twisted Metal’ show",
-    "desc": "Actor Mike Mitchell, recognized for his iconic role as Stu in 'Twisted Metal,' was unexpectedly let go from the series just before its third season kicks off. Heartbroken by the news, Mitchell pointed to drastic changes and departures behind the camera as contributing factors.",
-    "img": "https://static.toiimg.com/photo/msid-130271478,imgsize-109510.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/twisted-metal-mike-mitchell-leaves-show-amid-internal-changes-i-am-very-kind-of-heartbroken-about-it/articleshow/130271478.cms",
-    "time": "2026-04-15T02:39:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Focker-In-Law first teaser: Ariana joins De Niro, Stiller",
-    "desc": "Ariana Grande steps into the spotlight in 'Focker-in-Law', the eagerly awaited fourth entry in the 'Meet the Parents' series. The sneak peek teases a tense moment where Grande is strapped to a lie detector, nervously facing the infamous Robert De Niro, whose formidable glare says it all.",
-    "img": "https://static.toiimg.com/photo/msid-130271272,imgsize-62624.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ariana-grande-faces-the-focker-test-first-look-at-focker-in-law-teaser-with-robert-de-niro-and-ben-stiller/articleshow/130271256.cms",
-    "time": "2026-04-15T02:23:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Thalapathy Vijay's cinema plan after 'Jana Nayagan' revealed",
-    "desc": "Actor-politician Vijay's much-anticipated film 'Jana Nayagan' is reportedly his final movie before fully dedicating himself to politics. Actor Srinath has officially confirmed that Vijay will not act in any further films after 'Jana Nayagan', dismissing all speculation. Despite facing piracy leaks and release delays, strong box office expectations remain for the film.",
-    "img": "https://static.toiimg.com/photo/msid-130271223,imgsize-96216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/will-thalapathy-vijay-act-in-one-more-film-after-jana-nayagan-heres-the-official-confirmation/articleshow/130271223.cms",
-    "time": "2026-04-15T02:20:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Marathi made mandatory for auto, taxi drivers in Maharashtra from May 1",
-    "desc": "The rule will come into effect on Maharashtra Day, officials said on Tuesday (April 14, 2026). Transport Minister Pratap Sarnaik said a campaign will be carried out through the Motor Transport Department’s 59 offices across the State to check drivers",
-    "img": "https://th-i.thgim.com/public/incoming/decm4i/article70863567.ece/alternates/LANDSCAPE_1200/2col_without_piGKQFRQQPP.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/marathi-made-mandatory-for-auto-taxi-drivers-in-maharashtra-from-may-1/article70861082.ece",
-    "time": "2026-04-15T02:15:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Godzilla Minus Zero’: Takashi Yamazaki reveals first look",
-    "desc": "The first teaser of ‘Godzilla Minus Zero’ has been unveiled, and the kaiju is wreaking havoc in New York city. During a recent event in Las Vegas, filmmaker Takashi Yamazaki revealed the film’s teaser and also showed behind-the-scenes footage of his team at work.",
-    "img": "https://static.toiimg.com/photo/msid-130271185,imgsize-83582.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/godzilla-minus-zero-takashi-yamazaki-reveals-first-look-as-kaiju-wrecks-havoc-in-new-york-city/articleshow/130271185.cms",
-    "time": "2026-04-15T02:13:44.000Z"
   },
   {
     "cat": "Sports",
@@ -207,40 +270,13 @@ const newsData_en = [
     "time": "2026-04-15T01:57:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Indian Military Academy raise security violations in upcoming mall in Dehradun, says project allowed without Army’s NOC",
-    "desc": "A letter addressed to the District Magistrate Dehradun written on February 4, 2026, reads that as per the 2011 orders of Government of India, Ministry of Defence, a security clearance is required from Local Military Authority (LMA) for any construction within 100-500 meters of Defence Establishment",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttarakhand/indian-military-academy-raise-security-violations-in-upcoming-mall-in-dehradun-says-project-allowed-without-armys-noc/article70861159.ece",
-    "time": "2026-04-15T01:57:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Telangana govt. to strengthen SHG brick units; ₹18 lakh subsidised loans for 736 units",
-    "desc": "District-wise field visits revealed that a total of 736 SHG-run cement brick units are currently operational across the State. Comprehensive data were collected from these units on investment needs, production capacity, labour requirements and operational constraints",
-    "img": "https://th-i.thgim.com/public/incoming/1zsn9k/article70854060.ece/alternates/LANDSCAPE_1200/SHG%20members.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/telangana-govt-to-strengthen-shg-brick-units-18-lakh-subsidised-loans-for-736-units/article70854066.ece",
-    "time": "2026-04-15T01:55:00.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "Yash on ‘Toxic’: 'It'll be a visual treat'",
-    "desc": "Part 1 in the US, Yash revealed details about Toxic: A Fairy Tale for Grown-Ups, calling it a layered, English-shot gangster drama. Directed by Geetu Mohandas, the film blends action with deep psychology and promises a visually striking, emotionally resonant cinematic experience.",
-    "img": "https://static.toiimg.com/photo/msid-130270893,imgsize-72048.cms",
+    "title": "‘Dhurandhar 2’ marches to beat ‘Pushpa 2’ in week 4",
+    "desc": "Ranveer Singh's 'Dhurandhar 2' continues its impressive box office run, now in its fourth week. The film has secured the third-highest week 4 collection in India, surpassing 'Chaava' and is on track to challenge 'Pushpa 2's' record. Its global earnings have reached over Rs 1,727 crore.",
+    "img": "https://static.toiimg.com/photo/msid-130270674,imgsize-34294.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-on-gangster-film-toxic-itll-be-a-visual-treat-and-make-a-huge-impact-on-the-audiences-psyche/articleshow/130270769.cms",
-    "time": "2026-04-15T01:45:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Frankie Paul will not be charged in the domestic abuse case",
-    "desc": "In a surprising update, Taylor Frankie Paul, famously recognized from 'Secret Lives of Mormon Wives,' will not be prosecuted for alleged domestic abuse linked to her ex-boyfriend, Dakota Mortensen. Prosecutors determined that the evidence was inadequate to proceed. This decision arrives amidst a turbulent backdrop of accusations and a custody tussle regarding their child, highlighting the emotional complexities at play.",
-    "img": "https://static.toiimg.com/photo/msid-130270853,imgsize-90134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/taylor-frankie-paul-gets-dismissed-on-all-charges-in-2-domestic-abuse-cases-with-dakota-mortensen/articleshow/130270853.cms",
-    "time": "2026-04-15T01:32:25.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-27-ranveer-singhs-film-earns-over-rs-7-crore-heads-to-beat-pushpa-2-in-week-4/articleshow/130270673.cms",
+    "time": "2026-04-15T00:44:45.000Z"
   },
   {
     "cat": "Politics",
@@ -250,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/pm-modi-invokes-ambedkar-to-pitch-for-womens-quota/articleshow/130270310.cms",
     "time": "2026-04-14T22:30:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Higher vote share for Vijay could work to the DMK’s advantage: Tamil Nadu CPI secretary Veerapandian",
-    "desc": "Within the TVK, there is an educated group of people keen on defeating the BJP front which, they believe, is acting against Tamil Nadu’s interests. Many of them recognise that voting for Vijay may not yield benefits. They understand that the DMK-led alliance has an edge over the AIADMK-led front, says M. Veerapandian",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/uk5znd/article70862300.ece/alternates/LANDSCAPE_1200/2022%20MARCH%2009%202.JPG.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/higher-vote-share-forvijaycould-work-to-thedmkadvantage-says-cpi-tn-secretary-veerapandian/article70861784.ece",
-    "time": "2026-04-14T20:35:45.000Z"
   },
   {
     "cat": "Sports",
@@ -277,24 +304,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/interview-saurav-ghosal-if-we-have-to-become-a-global-superpower-we-need-a-system-to-produce-it/article70862659.ece",
     "time": "2026-04-14T18:55:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Annual fishing ban commences in coastal Tamil Nadu from April 15",
-    "desc": "Under the Tamil Nadu Marine Fishing Regulation Act 1983, considering the breeding season of fish and to protect fishery resources, a fishing ban is implemented every year along the East Coast of Tamil Nadu for 61 days from April 15 to June 14",
-    "img": "https://th-i.thgim.com/public/incoming/gpcmyb/article70861587.ece/alternates/LANDSCAPE_1200/10217_14_4_2026_16_27_17_1_DSC_6261.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/annual-fishing-ban-commences-in-coastal-tamil-nadu-from-april-15-2026/article70861458.ece",
-    "time": "2026-04-14T18:51:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre moots inter-State redistribution of Lok Sabha seats based on 2011 Census",
-    "desc": "Govt circulates drafts of Constitution Amendment Bill and Delimitation Bill; If proposals are accepted, share of Lok Sabha seats of southern States will shrink; Bills propose increase in size of Lok Sabha to a maximum of 850 seats",
-    "img": "https://th-i.thgim.com/public/incoming/xuke9l/article70862581.ece/alternates/LANDSCAPE_1200/IMG_PM_Modi_tweeted__an__2_1_RHB9EGPM.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/centre-seeks-inter-state-redistribution-of-lok-sabha-seats-based-on-2011-census/article70862395.ece",
-    "time": "2026-04-14T18:41:25.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +423,6 @@ const newsData_en = [
     "time": "2026-04-14T13:18:59.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Cummins boost for SRH, Australia pacer's likely return timeline emerges",
-    "desc": "Sunrisers Hyderabad may soon welcome back star pacer Pat Cummins, who is set to undergo a fitness test in Australia on Wednesday. If cleared, Cummins is expected to join the squad by April 17, significantly strengthening their bowling attack for the latter half of the tournament.",
-    "img": "https://static.toiimg.com/photo/msid-130260046,imgsize-52502.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-pat-cummins-boost-for-srh-australia-pacers-likely-return-timeline-emerges/articleshow/130260033.cms",
-    "time": "2026-04-14T13:01:20.000Z"
-  },
-  {
     "cat": "World",
     "title": "Foreign secretary Misri reaches Berlin for India-Germany Foreign Office consultations",
     "desc": "Discussions expected to cover diverse domains of bilateral cooperation, including trade and investment, defence and security, technology, green energy, development cooperation, education and people-to-people ties as well as global and regional matters of mutual interest.",
@@ -448,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/no-handshake-indias-harika-dronavalli-breaks-silence-on-uzbek-gms-namaste-exclusive/articleshow/130257408.cms",
     "time": "2026-04-14T11:04:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Sab fake hai': Praful Hinge recreates Siraj moment after SRH win",
-    "desc": "Debut sensation Praful Hinge etched his name in IPL history by claiming three wickets in the opening over against Rajasthan Royals. His remarkable spell, finishing with 4/34, propelled Sunrisers Hyderabad to a dominant 57-run victory. Following the win, Hinge recreated a Mohammed Siraj-style video, humorously clarifying his official social media presence.",
-    "img": "https://static.toiimg.com/photo/msid-130257381,imgsize-43906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/sab-fake-hai-praful-hinge-recreates-mohammed-siraj-moment-after-sunrisers-hyderabad-win-watch/articleshow/130257361.cms",
-    "time": "2026-04-14T10:58:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -673,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/how-does-the-internet-always-have-an-answer/article70802555.ece",
     "time": "2026-04-11T10:48:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How a research scholar’s curiosity about type designing led to a paper on Kerala’s vibrant hand-painted political graffiti",
-    "desc": "Neetha Joseph K, a doctoral scholar at IIT Hyderabad, has documented hand-painted political graffiti in Kerala in a research paper, ‘The Visual Voices of Kerala’s Politics’, which looks at the stylistic variations of the Malayalam fonts across eight districts in the State",
-    "img": "https://th-i.thgim.com/public/incoming/ohkf4r/article70841405.ece/alternates/LANDSCAPE_1200/kimp_art1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/how-a-research-scholars-curiosity-about-type-designing-led-to-a-paper-on-keralas-vibrant-hand-painted-political-graffiti/article70837617.ece",
-    "time": "2026-04-10T13:29:44.000Z"
   },
   {
     "cat": "Tech",
