@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "লোকসভার আসন বেড়ে হচ্ছে ৮৫০? ভারত চালাবে ইউপি-বিহার? বাকিরা গৌণ?",
+    "desc": "এই তিনটি বিল একসঙ্গে পাস হলে একলাফে লোকসভার আসনসংখ্যা ৫৪৩ থেকে বেড়ে হবে ৮৫০। এর মধ্যে ৮১৫ জন সাংসদ নির্বাচিত হবেন রাজ্য থেকে আর ৩৫ জন কেন্দ্রশাসিত অঞ্চল থেকে। প্রায় ২৭৩টি আসন সংরক্ষিত থাকবে মহিলাদের জন্য।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/lok-sabha-seats-to-be-increased-to-850-mamata-banerjee-opposes-delimitation-bill-2026_648933.html ",
+    "time": "2026-04-15T13:08:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "প্রকাশিত হল CBSE ক্লাস টেনের রেজাল্ট: সাফল্যের শিখরে ছাত্রছাত্রীরা, কোথায় দেখবেন ফলাফল? জানুন এক ক্লিকেই",
+    "desc": "পরীক্ষার্থীরা বোর্ডের অফিসিয়াল ওয়েবসাইট results.cbse.nic.in এবং cbse.gov.in-এ গিয়ে তাদের ফলাফল দেখতে পারছেন। এছাড়াও ভিড় এড়াতে 'ডিজিলকার' (DigiLocker) এবং 'উমং' (UMANG) অ্যাপের মাধ্যমেও মার্কশিট ডাউনলোড করার ব্যবস্থা রাখা হয়েছে। সরাসরি লিঙ্কের মাধ্যমে রোল নম্বর, স্কুল নম্বর এবং অ্যাডমিট কার্ড আইডি দিয়ে সহজেই ফলাফল জানা যাচ্ছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/cbse-10th-result-2026-declared-live-class-10-results-direct-link-results-cbse-nic-in_648905.html ",
+    "time": "2026-04-15T11:54:27.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "নিজের রক্ত টেনে নিজের শরীরেই ইনজেক্ট- ভয়ংকর মারণ নেশায় পাগল যুবসমাজ, ডেকে আনছে মৃত্যুও",
     "desc": "তরুণরা নিজেদের শরীর থেকে রক্ত বের করে আবার সেটি নিজের শরীরেই ইনজেক্ট করছে অদ্ভুত এক নেশাতুর অনুভূতির জন্য। আক্রান্তদের বয়স ১৮ থেকে ২৫ বছরের মধ্যে। প্রথমে কৌতূহল বা মজা থেকে শুরু হলেও, ধীরে ধীরে তা নেশায় পরিণত হচ্ছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -160,15 +178,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/iran-and-us-delegations-arrive-to-islamabad_648294.html ",
     "time": "2026-04-11T04:46:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "কোথাও একলাফে ১৪০, কোথাও তারও বেশি বৃদ্ধি, মুরগির রেকর্ড-দামে দিশেহারা সকলে, আগুন হল মাছ-ডিম",
-    "desc": "রান্নাঘরে কান্নার রোল! বাজারে হু-হু করে বাড়ছে মুরগির দাম। গত এক মাসের ব্যবধানে সোনালি মুরগির দাম কেজিতে বেড়েছে সর্বোচ্চ ১৪০ টাকা। এতে সবচেয়ে বেশি বিপাকে পড়েছেন সাধারণ মানুষ। সংকটে পড়েছেন নিম্ন ও মধ্য শ্রেণির ক্রেতারা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/chicken-price-rise-high-prices-of-fish-vegetables-edible-oil-bangladesh-rising-prices-hit-public-life_648226.html ",
-    "time": "2026-04-10T10:58:39.000Z"
   },
   {
     "cat": "Business",

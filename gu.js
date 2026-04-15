@@ -1,21 +1,48 @@
 const newsData_gu = [
   {
-    "cat": "Sports",
-    "title": "એક બાદ એક હાર... KKRની નિષ્ફળતાનો અસલી વિલેન કોણ ? કેપ્ટન અજિંક્ય રહાણેએ કોને ગણાવ્યો જવાબદાર",
-    "desc": "કોલકાતા નાઈટ રાઈડર્સને IPL 2026માં ચોથી હારનો સામનો કરવો પડ્યો, કારણ કે ચેન્નાઈ સુપર કિંગ્સે તેને 32 રનથી હરાવ્યું. કેપ્ટન અજિંક્ય રહાણેએ આ હાર માટે કોને જવાબદાર ગણાવ્યો અને KKR સતત કેમ હારી રહ્યું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "cat": "Politics",
+    "title": "મહિલાઓના ખાતામાં દર મહિને આવશે રૂપિયા 1500, આ રાજ્યની સરકારે આપી મોટી ભેટ",
+    "desc": "હિમાચલ પ્રદેશના મુખ્યમંત્રીએ ‘ઈન્દિરા ગાંધી પ્યારી બહેના સુખ સન્માન નિધિ’ હેઠળ કિન્નોરમાં પાત્ર મહિલાઓને ₹1,500 આપવાની જાહેરાત કરી. ₹1,500નું આ માસિક માનદ વેતન મેળવવા માટે મહિલાઓની ઉંમર ઓછામાં ઓછી 21 વર્ષની હોવી જોઈએ અને તેમની વાર્ષિક આવક ₹2 લાખથી ઓછી હોવી જોઈએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-is-responsible-for-kkrs-failure-captain-ajinkya-rahane-reaction-473203 ",
-    "time": "2026-04-15T09:52:18.000Z"
+    "url": " http://zeenews.india.com/gujarati/india/himachal-pradesh-cm-announces-rs-1500-for-kinnaur-women-473229 ",
+    "time": "2026-04-15T12:33:21.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "CSKની જીત બાદ પોઈન્ટ ટેબલમાં મોટી ઉથલપાથલ, KKR છોડો મુંબઈને પણ મોટું નુકસાન",
-    "desc": "IPL પોઈન્ટ ટેબલ ફરી એકવાર બદલાઈ ગયું છે. CSKએ સતત બીજી જીત સાથે મોટી છલાંગ લગાવી છે. તો KKR હજુ સુધી એક પણ મેચ જીતી શક્યું નથી અને હાલમાં તે ટેબલમાં સૌથી નીચે છે. તો મુંબઈ ઇન્ડિયન્સને પણ નુકસાન થયું છે.",
+    "cat": "Politics",
+    "title": "પગના ફોટા વેચીને લાખોની કમાણી કરી રહ્યા છે લોકો, શું ભારતમાં પણ છે આ લીગલ? જાણો કેવી રીતે થાય છે આવક",
+    "desc": "ઇન્ટરનેટ પર એવા ઘણા લોકો છે જેવો દાવો કરે છે કે, તેઓ માત્ર પોતાના પગના ફોટા વેચીને સારી કમાણી કરી રહ્યા છે. કેટલાક લોકો તેને વેકેશન ફંડ માટે, શોપિંગ કરવા અથવા ઘરનું ભાડું ચૂકવવાનું સાધન ગણાવી રહ્યા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-points-table-update-after-csk-vs-kkr-match-know-chennai-super-kings-rank-473182 ",
-    "time": "2026-04-15T09:32:46.000Z"
+    "url": " http://zeenews.india.com/gujarati/india/people-are-earning-lakhs-by-selling-photos-of-their-feet-is-this-legal-in-india-know-how-the-income-is-generated-473225 ",
+    "time": "2026-04-15T11:47:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBSE ધોરણ 10નું રિઝલ્ટ જાહેર, આ રીતે ચેક કરો તમારું પરિણામ",
+    "desc": "CBSE ધોરણ 10નું રિઝલ્ટ જાહેર કરવામાં આવ્યું છે. ફરી એકવાર દીકરીઓએ બાજી મારી છે. 26 લાખ વિદ્યાર્થીઓ જેની રાહ જોઈ રહ્યા હતા તેનો અંત આવ્યો છે. ઉમંગ એપ અને સત્તાવાર વેબસાઇટ પરથી તમે રિઝલ્ટ ચેક કરી શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cbse-10th-result-2026-declared-know-how-to-check-result-473224 ",
+    "time": "2026-04-15T11:27:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "LPG ગ્રાહકોને મોટી રાહત, હવે સિલિન્ડર બુક કરવા માટે ફરી શરૂ થશે આ જૂની સુવિધા; જાણો",
+    "desc": "ગામડાઓમાં એલપીજી સિલિન્ડરની હોમ ડિલિવરી ફરી શરૂ થઈ ગઈ છે. આનાથી ગ્રાહકોને મોટી રાહત મળશે. સરકાર તરફથી જાહેર કરવામાં આવેલા નિવેદનમાં કહેવામાં આવ્યું છે કે, કોઈપણ ડિસ્ટ્રીબ્યુટર પાસે સિલિન્ડરની અછત હોવાની કોઈ માહિતી મળી નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-relief-for-lpg-consumers-now-this-old-facility-will-be-resumed-to-book-cylinders-know-473222 ",
+    "time": "2026-04-15T11:04:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "એવું કયું શહેર છે, જે એક દિવસ માટે બન્યું હતું ભારતની રાજધાની ? 24 કલાકમાં જ છીનવાયો હતો તાજ !",
+    "desc": "નવી દિલ્હી ભારતની રાજધાની છે. આ વાત બધા જાણે છે. પણ શું તમે જાણો છો કે, ભારતના ઇતિહાસમાં એક એવું શહેર છે જે ફક્ત એક જ દિવસ માટે દેશની રાજધાની બન્યું હતું ? ત્યારે આ શહેર કયું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/which-city-was-the-capital-of-india-for-a-day-general-knowledge-473221 ",
+    "time": "2026-04-15T10:57:09.000Z"
   },
   {
     "cat": "Business",
@@ -24,7 +51,25 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/such-a-delay-in-da-increase-a-big-announcement-by-crores-of-employees-to-put-pressure-on-the-government-473192 ",
-    "time": "2026-04-15T09:28:53.000Z"
+    "time": "2026-04-15T10:28:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSKની જીત બાદ પોઈન્ટ ટેબલમાં મોટી ઉથલપાથલ, KKR છોડો મુંબઈને પણ મોટું નુકસાન",
+    "desc": "IPL પોઈન્ટ ટેબલ ફરી એકવાર બદલાઈ ગયું છે. CSKએ સતત બીજી જીત સાથે મોટી છલાંગ લગાવી છે. તો KKR હજુ સુધી એક પણ મેચ જીતી શક્યું નથી અને હાલમાં તે ટેબલમાં સૌથી નીચે છે. તો મુંબઈ ઇન્ડિયન્સને પણ નુકસાન થયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-points-table-update-after-csk-vs-kkr-match-know-chennai-super-kings-rank-473182 ",
+    "time": "2026-04-15T10:26:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "એક બાદ એક હાર... KKRની નિષ્ફળતાનો અસલી વિલન કોણ ? કેપ્ટન અજિંક્ય રહાણેએ કોને ગણાવ્યો જવાબદાર",
+    "desc": "કોલકાતા નાઈટ રાઈડર્સને IPL 2026માં ચોથી હારનો સામનો કરવો પડ્યો, કારણ કે ચેન્નાઈ સુપર કિંગ્સે તેને 32 રનથી હરાવ્યું. કેપ્ટન અજિંક્ય રહાણેએ આ હાર માટે કોને જવાબદાર ગણાવ્યો અને KKR સતત કેમ હારી રહ્યું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/who-is-responsible-for-kkrs-failure-captain-ajinkya-rahane-reaction-473203 ",
+    "time": "2026-04-15T10:17:56.000Z"
   },
   {
     "cat": "World",
@@ -315,15 +360,6 @@ const newsData_gu = [
     "time": "2026-04-13T17:59:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સોના-ચાંદીનો ગુપ્ત ખજાનો! 48 વર્ષ પછી ખુલ્યું જગન્નાથ મંદિરનો રત્ન ભંડાર, 3D મેપિંગ દ્વારા ગણતરી શરૂ",
-    "desc": "જગન્નાથ મંદિરમાં રત્ન ભંડારને પૂરા 48 વર્ષ બાદ ખોલવામાં આવ્યો છે. આ પહેલા તેને વર્ષ 1978માં ખોલવામાં આવ્યો હતો. મંદિર પરિસરમાં ભગવાન જગન્નાથ, બલભદ્ર અને દેવી સુભદ્રાના બહુમૂલ્ય રત્નો અને દુર્લભ આભૂષણો મોજૂદ છે. સદીઓથી પુરી જગન્નાથ ધામ ભક્તોની અતૂટ આસ્થાનું કેન્દ્ર રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/puri-jagannath-temple-ratna-bhandar-opening-inventory-after-48-years-472917 ",
-    "time": "2026-04-13T15:12:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "હારની હેટ્રિક બાદ મુંબઈ ઈન્ડિયન્સ વધુ એક મોટો ઝટકો, નહીં રમે રોહિત શર્મા ? સામે આવ્યું મોટું કારણ",
     "desc": "રવિવારે IPL 2026 દરમિયાન રોયલ ચેલેન્જર્સ બેંગ્લોર સામે મુંબઈ ઈન્ડિયન્સને કારમી હારનો સામનો કરવો પડ્યો. મેચ દરમિયાન MIને મોટો ઝટકો ત્યારે લાગ્યો જ્યારે સ્ટાર બેટ્સમેન રોહિત શર્મા હેમસ્ટ્રિંગના કારણે રિટાયર્ડ હર્ટ થયો. ત્યારબાદ 'હિટમેન' ફરીથી બેટિંગ કરવા માટે ક્રીઝ પર આવ્યો નહીં. તાજેતરના અહેવાલો અનુસાર, રોહિતની આગામી મેચમાં રમવાની શક્યતા ઓછી દેખાઈ રહી છે.",
@@ -394,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/mohammad-bagher-ghalibaf-warns-america-donald-tump-over-hormuz-blockade-472812 ",
     "time": "2026-04-13T08:02:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આખરે હવે કઈ રીતે ખુલશે હોર્મુઝ સ્ટ્રેટ? ભારતમાં ઈરાનના પ્રતિનિધિએ મૂકી એક શરત",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચેની શાંતિ વાર્તા નિષ્ફળ જતા સૌથી મોટી ચિંતા જો કોઈ હોય તો તે છે સ્ટ્રેટ ઓફ હોર્મુઝની. કારણ કે ઈરાને આ જળમાર્ગ પાછો બંધ કરી દીધો છે અને હવે ટ્રમ્પ તેની નાકાબંધી કરવાનું વિચારી રહ્યા છે. એટલે કે જહાજોને પસાર થવાની ચિંતા. આ બધા વચ્ચે ભારતમાં ઈરાનના પ્રતિનિધિએ આ જળમાર્ગ કઈ રીતે ખુલી શકે તેના માટે એક શરત પણ રજૂ કરી છે. જાણો તેના વિશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-will-the-strait-of-hormuz-open-what-irans-representative-in-india-says-iran-us-war-news-472797 ",
-    "time": "2026-04-13T07:05:34.000Z"
   },
   {
     "cat": "Sports",
