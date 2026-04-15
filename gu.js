@@ -5,8 +5,80 @@ const newsData_gu = [
     "desc": "કોલકાતા નાઈટ રાઈડર્સને IPL 2026માં ચોથી હારનો સામનો કરવો પડ્યો, કારણ કે ચેન્નાઈ સુપર કિંગ્સે તેને 32 રનથી હરાવ્યું. કેપ્ટન અજિંક્ય રહાણેએ આ હાર માટે કોને જવાબદાર ગણાવ્યો અને KKR સતત કેમ હારી રહ્યું છે, તેના વિશે આ લેખમાં જાણીશું.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-is-responsible-for-kkrs-failure-captain-ajinkya-rahane-reaction-473169 ",
-    "time": "2026-04-15T07:00:43.000Z"
+    "url": " http://zeenews.india.com/gujarati/sports/who-is-responsible-for-kkrs-failure-captain-ajinkya-rahane-reaction-473203 ",
+    "time": "2026-04-15T09:52:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSKની જીત બાદ પોઈન્ટ ટેબલમાં મોટી ઉથલપાથલ, KKR છોડો મુંબઈને પણ મોટું નુકસાન",
+    "desc": "IPL પોઈન્ટ ટેબલ ફરી એકવાર બદલાઈ ગયું છે. CSKએ સતત બીજી જીત સાથે મોટી છલાંગ લગાવી છે. તો KKR હજુ સુધી એક પણ મેચ જીતી શક્યું નથી અને હાલમાં તે ટેબલમાં સૌથી નીચે છે. તો મુંબઈ ઇન્ડિયન્સને પણ નુકસાન થયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-points-table-update-after-csk-vs-kkr-match-know-chennai-super-kings-rank-473182 ",
+    "time": "2026-04-15T09:32:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "DA વધારામાં આટલો વિલંબ... સરકાર પર દબાણ બનાવવવા કરોડો કર્મચારીઓની મોટી જાહેરાત",
+    "desc": "DA વધારામાં વિલંબને લઈને કેન્દ્ર સરકારના કર્મચારીઓમાં અસંતોષ વધ્યો છે, આ વિલંબ પાછળ વહીવટી પ્રક્રિયાઓ અને 8મા પગાર પંચ માટેની તૈયારીઓ કારણભૂત હોવાનું માનવામાં આવે છે, પરંતુ હવે કર્મચારીઓએ સરકાર પર દબાણ લાવવા માટે આ જાહેરાત કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/such-a-delay-in-da-increase-a-big-announcement-by-crores-of-employees-to-put-pressure-on-the-government-473192 ",
+    "time": "2026-04-15T09:28:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "2026માં દુનિયાનો અંત આવશે? 66 વર્ષ જૂની ડરામણી ભવિષ્યવાણી વાયરલ, પૃથ્વીના અંતની તારીખ પણ જણાવી!",
+    "desc": "સોશિયલ મીડિયા પર ભવિષ્યવાણીઓ તો ઘણી વાયરલ થતી રહે છે. પરંતુ જ્યારે કોઈ વૈજ્ઞાનિક તારીખ સાથે દાવો કરે તો દુનિયા વિસ્મયમાં પડી જતી હોય છે. 66 વર્ષ પહેલા એક વૈજ્ઞાનિકે દાવો કર્યો હતો કે 2026માં દુનિયા ખતમ થઈ જશે. પ્રલયની આવી ભવિષ્યવાણીએ લોકોને ચોંકાવી દીધા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/heinz-von-foerster-world-end-theory-check-what-he-predicted-and-said-473172 ",
+    "time": "2026-04-15T09:13:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM મોદીએ એરપોર્ટ પર કોંગ્રેસ સીએમના કાનમાં શું કહ્યું? દેશભરમાં વાયરલ થઈ આ તસવીર",
+    "desc": "એક તસવીર હજાર શબ્દોને બરાબર હોય છે. તમે પણ વાંચ્યું હશે. આજે આ તસવીર સોશિયલ મીડિયા પર શેર થઈ રહી છે. આ સાથે પ્રધાનમંત્રીની રાહુલ ગાંધી, ખડગે સાથેની વાતચીતની તસવીર પણ ફરી ચર્ચામાં આવી ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/karnataka-chief-minister-siddaramaiah-welcomed-prime-minister-narendra-modi-at-bengaluru-airport-473181 ",
+    "time": "2026-04-15T08:56:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ચાર વર્ષમાં ચાર ગણી વધી ગઈ ગોલ્ડ લોન, સોનાને સૌથી વધારે ગીરવે મુકી રહ્યા છે આ ત્રણ રાજ્યના લોકો સૌથી, જાણો ગુજરાતનો નંબર",
+    "desc": "સોનાને ગીરવે મૂકીને તરીકે લોન લેવાનું વલણ ઝડપથી વધી રહ્યું છે. હાઉસિંગ લોન પછી, લોકોએ રિટેલ ક્રેડિટમાં બીજા ક્રમે સૌથી વધુ ગોલ્ડ લોન લીધી છે. દક્ષિણના રાજ્યો આ બજારમાં પ્રભુત્વ ધરાવે છે. બજાર હિસ્સાની દ્રષ્ટિએ, ટોચના ત્રણ દક્ષિણ રાજ્યોમાંથી છે, જેમાં ઉત્તર પ્રદેશ પણ ટોચના 10 રાજ્યોમાં સામેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/gold-loans-have-increased-fourfold-in-four-years-people-are-pledging-the-most-gold-in-these-three-states-know-gujarat-number-473179 ",
+    "time": "2026-04-15T08:48:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "હોર્મુઝ બાદ હવે મલક્કા સ્ટ્રેટને ઘેરવાની તૈયારીમાં અમેરિકા, ટ્રમ્પના આ પ્લાનિંગથી ભારતને શું ફાયદો?",
+    "desc": "અમેરિકા હાલ હોર્મુઝ બાદ હવે મલક્કા સ્ટ્રેટ પર પ્લાનિંગ કરી રહ્યું હોય તેવું લાગે છે. આ પ્લાનિંગ કરવા પાછળનું કારણ શું ચીન છે? કારણ કે આ જળમાર્ગ ચીન માટે ખુબ મહત્વનો છે જ્યારે ભારત આ વિસ્તારમાં મોટો ખેલાડી છે. જાણો કઈ રીતે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/after-hormuz-is-america-now-eyeing-malacca-strait-what-is-the-benefit-to-india-473178 ",
+    "time": "2026-04-15T08:44:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "મગજની નસોમાં આંટીઓ ચઢાવી દેશે આ સાઈકો થ્રિલર ફિલ્મ, સ્ટોરી શરુ થાય પછી 1 મિનિટ માટે પણ સ્ક્રિનથી નજર નહીં હટાવી શકો",
+    "desc": "શું તમે એવી ફિલ્મ જોવા માંગો છો જેને જોયા પછી તમને એવું કહેવાનું મન થાય કે વાહ... શું ફિલ્મ હતી. તો પછી આ ફિલ્મ જોઈ લો. આ ફિલ્મ એકવાર શરુ થશે એટલે પુરી થશે ત્યાં સુધી તમે ફિલ્મમાં ઓત પ્રોત રહેશો. આ ફિલ્મ એટલી જોરદાર છે કે તમને લાગશે કે ફિલ્મના પાત્રોની સાથે તમે પણ ફિલ્મમાં જ છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-psycho-thriller-hindi-film-on-prime-video-psycho-thriller-film-level-cross-story-473176 ",
+    "time": "2026-04-15T08:13:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "2.57 નહીં 3.83 લાગુ કરાશે ફિટમેન્ટ ફેક્ટર ? જાણો પગાર વધારો ક્યારે મળી શકે છે",
+    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ માટે 8મા પગાર પંચની માંગણી તીવ્ર બની છે. રાષ્ટ્રીય પરિષદ (NC-JCM)એ સરકારને 3.833 ફિટમેન્ટ ફેક્ટર લાગુ કરવા માટે એક મેમોરેન્ડમ મોકલ્યું છે. જાણો કે આ ફિટમેન્ટ ફેક્ટર લેવલ 1થી 18 સુધીના પગારમાં કેટલો વધારો કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-fitment-factor-will-be-implemented-at-3-83-not-2-57-know-when-salary-hike-can-be-given-473175 ",
+    "time": "2026-04-15T08:08:04.000Z"
   },
   {
     "cat": "Tech",
@@ -432,33 +504,6 @@ const newsData_gu = [
     "time": "2026-04-12T06:25:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સરકારી કર્મચારીઓ માટે મહત્વના સમાચાર, કયા ફોર્મ્યૂલાથી વધશે પગાર? જાણો મિનિમમ બેઝિક પે વિશે",
-    "desc": "આઠમાં પગાર પંચની ભલામણો લાગૂ થવાથી કેન્દ્ર સરકારના કર્મચારીઓના પગાર, ભથ્થા અને પેન્શનમાં સારો એવો વધારો થઈ શકે છે. પગાર વધારામાં ફિટમેન્ટ ફેક્ટર મહત્વનો છે. વિવિધ ફિટમેન્ટ ફેક્ટર ચર્ચામાં છે. કયો ફોર્મ્યૂલા સરકાર અપનાવશે તે ચર્ચામાં છે ત્યારે કેટલો વધી શકે પગાર?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-update-for-government-employees-approx-fitment-factor-minimum-basic-pay-472491 ",
-    "time": "2026-04-11T07:37:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "LPG સિલિન્ડરના નવા ભાવ, રેટમાં કોઈ વધારો કે ઘટાડો? ફટાફટ ચેક કરો",
-    "desc": "યુદ્ધ માત્ર મિડલ ઈસ્ટમાં થઈ રહ્યું છે એવું નથી તેના ભરડામાં અનેક દેશો આવી રહ્યા છે. કારણ કે યુદ્ધને કારણે અતિ મહત્વનો વેપારી જળમાર્ગ હોર્મુઝ સ્ટ્રેટ અવરોધાઈ રહ્યો છે. જેની અસર ગેસ અને ક્રૂડ ઓઈલના સપ્લાય પર પડી છે. જાણો આજે એલપીજી સિલિન્ડરનો શું છે ભાવ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lpg-price-today-check-your-city-latest-lpg-cyclinder-rate-ahmedabad-vadodara-surat-rajkot-472463 ",
-    "time": "2026-04-11T06:00:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ફ્લાઈટમાં મુસાફરી કરનારા સાવધાન ! IndiGo અને Air Indiaએ વધાર્યા ટિકિટના ભાવ, એરલાઇન્સે લીધા આ પગલાં",
-    "desc": "જેટ ઇંધણના ભાવમાં આ તીવ્ર વધારો વૈશ્વિક ઉડ્ડયન ઉદ્યોગના ખર્ચ માળખા પર નોંધપાત્ર દબાણ લાવી રહ્યો છે. આની સીધી અસર મુસાફરો પર પડી રહી છે, કારણ કે એરલાઇન્સ વધતા ખર્ચને સરભર કરવા માટે ભાડા અને વધારાના શુલ્કમાં સતત વધારો કરી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/flight-travelers-beware-indigo-and-air-india-have-increased-ticket-prices-airlines-have-taken-these-steps-472423 ",
-    "time": "2026-04-10T16:04:30.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ઓટીટી પર જોવા જેવી હોરર ફિલ્મ, આ ફિલ્મ જોયા પછી હાથનું પ્લાસ્ટર જોઈને પણ ડર લાગશે",
     "desc": "ઓટીટી પર સૌથી વધુ હોરર ફિલ્મો જોવાતી હોય છે. તમે પણ ડરામણી ફિલ્મો જોવાના શોખીન છો તો તમારા માટે પ્રાઈમ વીડિયોની બેસ્ટ હોરર ફિલ્મ વિશે જાણકારી લાવ્યા છીએ. આ ફિલ્મ એકવાર જોઈ લે તેને હાથમાં આવતા પ્લાસ્ટરથી બીક લાગવા લાગે.",
@@ -637,14 +682,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/shock-to-mobile-buyers-phones-of-these-companies-suddenly-became-expensive-know-how-much-their-prices-increased-471512 ",
     "time": "2026-04-04T14:23:24.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "8-10 લાખની કાર ફક્ત 2 લાખ રૂપિયામાં ખરીદો, આ સરકારી વેબસાઇટ તમારી કારનું સ્વપ્ન થશે સાકાર",
-    "desc": "જે લોકો ઓછી કીંમતમાં સારી કાર ખરીદવા માગતા હોય તેના માટે સરકારની આ વેબસાઈટ બેસ્ટ છે, જેના દ્વારા તે પોતાના સપનાની કાર ખરીદી શકે છે. આ વેબસાઈટ પર અલગ-અલગ કંપનીની અનેક કાર હોય છે, જેમાં તમારે નોંધણી કરાવવી પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/buy-a-car-worth-8-to-10-lakhs-for-just-2-lakhs-this-government-website-will-make-your-car-dream-come-true-471510 ",
-    "time": "2026-04-04T13:50:00.000Z"
   }
 ];
