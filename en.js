@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Dharmendra’s passing felt like losing father",
+    "desc": "Dhurandhar 2 actor Salim Siddiqui may be steadily carving a space for himself in the industry, but he attributes his journey to someone he never even met—legendary star Dharmendra. Looking back at his early days, Siddiqui shared how Dharmendra played a silent yet powerful role in shaping his journey. Siddiqui admitted that Dharmendra’s passing hit him deeply—almost like a personal bereavement. Siddiqui also expressed admiration for Sunny Deol, calling him a reflection of his father’s legacy.",
+    "img": "https://static.toiimg.com/photo/msid-130293295,imgsize-69536.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-actor-salim-siddiqui-says-dharmendras-passing-felt-like-losing-his-father-sunny-deol-is-carrying-legacy-beautifully/articleshow/130293295.cms",
+    "time": "2026-04-15T21:40:58.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel, U.S. goals 'identical'; prepared for any scenario: Netanyahu",
+    "desc": "Referring to ongoing operations in Bint Jbeil, a key Hezbollah stronghold in southern Lebanon, Mr. Netanyahu said Israeli forces were close to overcoming the area, which has long been considered a symbol of the group’s resistance since the 2006 war",
+    "img": "https://th-i.thgim.com/public/incoming/9lu1d0/article70866604.ece/alternates/LANDSCAPE_1200/2026-04-15T202910Z_1558070441_RC2WC5A8NEDD_RTRMADP_3_IRAN-CRISIS-LEBANON.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israel-us-goals-identical-prepared-for-any-scenario-netanyahu/article70866591.ece",
+    "time": "2026-04-15T21:00:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shatrughan tells Gulshan ‘you should’ve played Akshaye's role'",
+    "desc": "Gulshan Grover, who is currently promoting his upcoming series Matka King, believes that cinema is witnessing a full-circle moment—with trends, characters and storytelling styles from the past making a strong comeback. The actor also shared a recent anecdote from a dinner with industry veterans, including Shatrughan Sinha, Rakesh Roshan and Shashi Ranjan. He further revealed how Sinha even imagined him in Akshaye Khanna's Rehman Dakait's role in Aditya Dhar's Dhurandhar.",
+    "img": "https://static.toiimg.com/photo/msid-130293043,imgsize-42006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shatrughan-sinha-tells-gulshan-grover-you-shouldve-played-akshaye-khannas-rehman-dakaits-role-in-dhurandhar-even-i-agree/articleshow/130293043.cms",
+    "time": "2026-04-15T20:10:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 RCB vs LSG",
+    "desc": "The night turned out to be even grimmer for the Super Giants as their skipper Rishabh Pant had to retire hurt on zero after a copping a blow on his left elbow by RCB pacer Hazlewood.",
+    "img": "https://th-i.thgim.com/public/incoming/nzw75h/article70866245.ece/alternates/LANDSCAPE_1200/2026-04-15T160009Z_328336853_UP1EM4F18G896_RTRMADP_3_CRICKET-IPL-RCB-LSG.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-royal-challengers-bengaluru-lucknow-super-giants-virat-kohli-rishabh-pant-updates/article70865567.ece",
+    "time": "2026-04-15T18:43:51.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "VCK pulling out all stops to keep PMK at bay in Kattumannarkoil contest",
     "desc": "While the VCK is seeking to consolidate its dominance, the PMK is looking to rewire the caste equations in the northern districts. The contest looks evenly balanced, with Adi Dravidar and Muslim voters aligning with the DMK alliance, and Vanniyars consolidating behind the AIADMK front",
@@ -135,15 +171,6 @@ const newsData_en = [
     "time": "2026-04-15T16:27:48.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026 RCB vs LSG",
-    "desc": "The night turned out to be even grimmer for the Super Giants as their skipper Rishabh Pant had to retire hurt on zero after a copping a blow on his left elbow by RCB pacer Hazlewood.",
-    "img": "https://th-i.thgim.com/public/incoming/nzw75h/article70866245.ece/alternates/LANDSCAPE_1200/2026-04-15T160009Z_328336853_UP1EM4F18G896_RTRMADP_3_CRICKET-IPL-RCB-LSG.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-royal-challengers-bengaluru-lucknow-super-giants-virat-kohli-rishabh-pant-updates/article70865567.ece",
-    "time": "2026-04-15T16:08:12.000Z"
-  },
-  {
     "cat": "World",
     "title": "Gaza civil defence says toddler among 10 killed in Israeli strikes",
     "desc": "Mahmoud Bassal, spokesman for the civil defence agency, which operates as a rescue service under Hamas authority, said \"four people were killed, including a child and several others were injured... in a strike targeting a police vehicle\" in Gaza City.",
@@ -171,15 +198,6 @@ const newsData_en = [
     "time": "2026-04-15T15:55:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala Congress (M) chairperson Jose K. Mani suggests multi-factor matrix for ‘a fair delimitation formula’",
-    "desc": "Centre should consider a matrix that distributes weightage between the current population, population growth indicators such as the Total Fertility Rate, and the existing share of Parliamentary seats to arrive at a delimitation formula, he says.",
-    "img": "https://th-i.thgim.com/public/incoming/xdsaw1/article70866107.ece/alternates/LANDSCAPE_1200/80687_26_3_2026_18_48_57_3_J1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala-congress-m-chairperson-jose-k-mani-suggests-multi-factor-matrix-for-fair-delimitation-formula/article70865987.ece",
-    "time": "2026-04-15T15:47:26.000Z"
-  },
-  {
     "cat": "World",
     "title": "New Hungarian leader Magyar says pro-Orban President must go",
     "desc": "I repeated to him that, in my eyes and in the eyes of the Hungarian people, he is unworthy of embodying the unity of the Hungarian nation, incapable of ensuring respect for the law, says Hungary’s new leader, Peter Magyar",
@@ -205,15 +223,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-moves-to-block-entrance-to-disputed-south-china-sea-shoal-images-show/article70866028.ece",
     "time": "2026-04-15T15:29:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka High Court directs State government to ‘strictly and faithfully’ implement menstrual leave policy",
-    "desc": "Upon the enactment of the proposed Karnataka Menstrual Leave and Hygiene Bill, 2025, the State shall, without any undue delay frame appropriate rules to give full and meaningful effect of the mandate, the Court said",
-    "img": "https://th-i.thgim.com/public/incoming/tk45ri/article70864755.ece/alternates/LANDSCAPE_1200/Karnataka-High-GUVFRDBDO.1.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-directs-state-government-to-strictly-and-faithfully-implement-menstrual-leave-policy/article70864730.ece",
-    "time": "2026-04-15T15:29:40.000Z"
   },
   {
     "cat": "Entertainment",
@@ -277,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/you-cant-be-seen-with-your-shirt-off-sleeping-in-any-bed-r-madhavan-warned-his-son-vedaant-about-the-responsibilities-which-come-with-fame/articleshow/130286020.cms",
     "time": "2026-04-15T14:08:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Women’s reservation bill already passed': Congress accuses Centre of 'hissa chori' using delimitation",
-    "desc": "Rahul Gandhi accused the Centre of a power grab through a delimitation bill, stating the women's reservation bill was already passed in 2023. He asserted the Congress party unequivocally supports women's reservation and condemned the proposed increase in Lok Sabha seats as 'hissa chori' from marginalized communities and certain regions.",
-    "img": "https://static.toiimg.com/photo/msid-130285961,imgsize-822506.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/womens-reservation-bill-already-passed-congress-accuses-centre-of-hissa-chori-using-delimitation/articleshow/130285665.cms",
-    "time": "2026-04-15T13:50:26.000Z"
   },
   {
     "cat": "Sports",
@@ -450,15 +450,6 @@ const newsData_en = [
     "time": "2026-04-15T10:50:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mona Singh opens up on Gaurav Gera's Dhurandhar success",
-    "desc": "Mona Singh praises friend Gaurav Gera's 'Dhurandhar' rise as Aalam, crediting his consistency even without ideal roles. She cherishes their 20-year Jassi Jaissi Koi Nahin bond amid viral memes. \"Even when he wasn’t getting work, he stayed creative,\" she told IANS. Mona recently starred in 'Maa Ka Sam'.",
-    "img": "https://static.toiimg.com/photo/msid-130281523,imgsize-37640.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mona-singh-opens-up-on-gaurav-geras-dhurandhar-success-even-when-he-wasnt-getting-the-work-he-wanted-he-kept-going/articleshow/130281523.cms",
-    "time": "2026-04-15T10:50:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Abhishek Sharma, Axar Patel added to testing pool",
     "desc": "India's T20 World Cup stars Abhishek Sharma and Axar Patel have joined NADA's Registered Testing Pool for 2026, replacing Smriti Mandhana and Shreyas Iyer. This elite list of 348 athletes, including prominent cricketers, track and field stars, and Olympians, ensures rigorous anti-doping checks. NADA's updated roster underscores its commitment to fair play across all sports.",
@@ -486,15 +477,6 @@ const newsData_en = [
     "time": "2026-04-15T09:45:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Z security, ED raids row: AAP-Raghav Chadha faceoff turns ugly; BJP piles on",
-    "desc": "The Aam Aadmi Party's rift with MP Raghav Chadha has widened, with leaders accusing him of betrayal and linking ED raids on Ashok Mittal to his alleged collusion with the BJP. Chadha's removal as deputy leader and subsequent Z-category security have fueled internal dissent and public accusations.",
-    "img": "https://static.toiimg.com/photo/msid-130279912,imgsize-47494.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/z-security-ed-raids-row-aap-raghav-chadha-faceoff-turns-ugly-bjp-piles-on/articleshow/130279832.cms",
-    "time": "2026-04-15T09:42:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Ranveer was shy during a bold photoshoot with Sonali Raut, she reveals",
     "desc": "Model-turned-actor Sonali Raut revealed that a young, shy Ranveer Singh was once quite nervous during a bold bikini photoshoot. She was asked to help him feel comfortable on set, as it was his first glamorous shoot. Raut recalled Ranveer's cautious demeanor, a stark contrast to his energetic public persona today.",
@@ -511,33 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/immigrants-should-think-of-themselves-as-americans-first-vance/article70863749.ece",
     "time": "2026-04-15T09:36:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Give befitting reply to Delhi's zamindars: Mamata in her Bengali new year message",
-    "desc": "West Bengal Chief Minister Mamata Banerjee extended Bengali New Year greetings, urging voters to democratically counter attempts by \"Delhi's zamindars\" to undermine voting rights. She emphasized Bengal's cultural legacy of communal harmony and called for unity against divisive forces, appealing for votes for the Trinamool Congress in upcoming elections.",
-    "img": "https://static.toiimg.com/photo/msid-130279858,imgsize-685310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/give-befitting-reply-to-delhis-zamindars-mamata-in-her-bengali-new-year-message/articleshow/130279797.cms",
-    "time": "2026-04-15T09:34:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Farida Jalal opens up on being typecast for decades",
-    "desc": "Veteran actress Farida Jalal reflects on being typecast yet becoming the face of on‑screen love. She set a moral limit early on, stayed true to it, and still built a six‑decade career across films, TV, and OTT, proving money is easy but respect and status are hard‑earned through sacrifice.",
-    "img": "https://static.toiimg.com/photo/msid-130279619,imgsize-18458.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farida-jalal-opens-up-on-being-typecast-for-decades-respect-and-status-are-hard-to-come-by-you-have-to-make-sacrifices/articleshow/130279619.cms",
-    "time": "2026-04-15T09:24:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why is Tamil Nadu protesting the delimitation bill",
-    "desc": "Tamil Nadu Chief Minister M.K. Stalin announced a state-wide black flag protest against the Centre's proposed delimitation exercise. He warned of severe political consequences if concerns about reducing southern states' political weight are ignored. Stalin described the move as a 'grave danger' and a 'historic injustice' that could widen the North-South divide and undermine federalism.",
-    "img": "https://static.toiimg.com/photo/msid-130279585,imgsize-1558410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/stalin-vs-centre-why-is-tamil-nadu-protesting-the-delimitation-bill/articleshow/130278088.cms",
-    "time": "2026-04-15T09:24:56.000Z"
   },
   {
     "cat": "World",
@@ -756,15 +711,6 @@ const newsData_en = [
     "time": "2026-04-14T05:46:58.000Z"
   },
   {
-    "cat": "World",
-    "title": "Made lot of progress, ball in Iran’s court: Vance",
-    "desc": "The U.S. and Iran failed to reach an agreement in the 21-hour marathon peace talks in Islamabad over the weekend, with Washington insisting that Tehran refused to give up its right over enrichment of nuclear fuel",
-    "img": "https://th-i.thgim.com/public/incoming/7vsw1n/article70860026.ece/alternates/LANDSCAPE_1200/2026-04-12T215612Z_593814652_RC2ENKAY5O4O_RTRMADP_3_IRAN-CRISIS-CEASEFIRE-PAKISTAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/made-lot-of-progress-ball-in-irans-court-vance/article70860022.ece",
-    "time": "2026-04-14T03:27:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rajat Patidar — the new king of Chinnaswamy",
     "desc": "His growth as a leader has made for spectacular viewing and fears that he would be compelled to perform under the towering shadow of Kohli have proved unfounded; he is a captain who believes in leading from the front and espousing the cause of positivity",
@@ -810,15 +756,6 @@ const newsData_en = [
     "time": "2026-04-13T05:52:51.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Rupee plunges 49 paise to 93.32 against U.S. dollar in early trade",
-    "desc": "At the interbank foreign exchange market, the rupee opened at 93.30 against the U.S. dollar and lost further ground, trading at 93.32 against the greenback in early deals, down 49 paise from its previous closing level",
-    "img": "https://th-i.thgim.com/public/incoming/yd01vg/article70856281.ece/alternates/LANDSCAPE_1200/2026-04-07T073327Z_1655495302_RC2HDJA6G9QO_RTRMADP_3_INDIA-RUPEE-ARBITRAGE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/rupee-plunges-49-paise-to-9332-against-us-dollar-in-early-trade/article70856256.ece",
-    "time": "2026-04-13T04:58:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Iga Swiatek and her quest for solidity",
     "desc": "The Polish World No. 4 is this era’s leading light, with her six Major titles the most among active women playing full time. But of late, her game has come under a cloud following a series of bad losses. Will the upcoming clay season — her most cherished months in the calendar – spark a turnaround?",
@@ -835,15 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-mumbai-indians-royal-challengers-bengaluru-virat-kohli-jasprit-bumrah-latest/article70854338.ece",
     "time": "2026-04-12T19:21:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2026, LSG vs GT: Prasidh, Gill-Buttler duo steer GT to victory over LSG",
-    "desc": "It was a double blow for GT as Buttler departed an over later while trying to hit a slower delivery from Mohammed Shami out of the park, brilliantly caught by Aiden Markram at long-on boundary",
-    "img": "https://th-i.thgim.com/public/incoming/qemn4u/article70854859.ece/alternates/LANDSCAPE_1200/15_RVM_9468.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-lsg-vs-gt-match-updates/article70853963.ece",
-    "time": "2026-04-12T16:29:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +826,77 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
   }
 ];
