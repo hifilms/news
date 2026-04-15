@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Indian Military Academy raise security violations in upcoming mall in Dehradun, says project allowed without Army’s NOC",
+    "desc": "A letter addressed to the District Magistrate Dehradun written on February 4, 2026, reads that as per the 2011 orders of Government of India, Ministry of Defence, a security clearance is required from Local Military Authority (LMA) for any construction within 100-500 meters of Defence Establishment",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttarakhand/indian-military-academy-raise-security-violations-in-upcoming-mall-in-dehradun-says-project-allowed-without-armys-noc/article70861159.ece",
+    "time": "2026-04-15T01:57:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Telangana govt. to strengthen SHG brick units; ₹18 lakh subsidised loans for 736 units",
+    "desc": "District-wise field visits revealed that a total of 736 SHG-run cement brick units are currently operational across the State. Comprehensive data were collected from these units on investment needs, production capacity, labour requirements and operational constraints",
+    "img": "https://th-i.thgim.com/public/incoming/1zsn9k/article70854060.ece/alternates/LANDSCAPE_1200/SHG%20members.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/telangana-govt-to-strengthen-shg-brick-units-18-lakh-subsidised-loans-for-736-units/article70854066.ece",
+    "time": "2026-04-15T01:55:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yash on ‘Toxic’: 'It'll be a visual treat'",
+    "desc": "Part 1 in the US, Yash revealed details about Toxic: A Fairy Tale for Grown-Ups, calling it a layered, English-shot gangster drama. Directed by Geetu Mohandas, the film blends action with deep psychology and promises a visually striking, emotionally resonant cinematic experience.",
+    "img": "https://static.toiimg.com/photo/msid-130270893,imgsize-72048.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-on-gangster-film-toxic-itll-be-a-visual-treat-and-make-a-huge-impact-on-the-audiences-psyche/articleshow/130270769.cms",
+    "time": "2026-04-15T01:45:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Frankie Paul will not be charged in the domestic abuse case",
+    "desc": "In a surprising update, Taylor Frankie Paul, famously recognized from 'Secret Lives of Mormon Wives,' will not be prosecuted for alleged domestic abuse linked to her ex-boyfriend, Dakota Mortensen. Prosecutors determined that the evidence was inadequate to proceed. This decision arrives amidst a turbulent backdrop of accusations and a custody tussle regarding their child, highlighting the emotional complexities at play.",
+    "img": "https://static.toiimg.com/photo/msid-130270853,imgsize-90134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/taylor-frankie-paul-gets-dismissed-on-all-charges-in-2-domestic-abuse-cases-with-dakota-mortensen/articleshow/130270853.cms",
+    "time": "2026-04-15T01:32:25.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel-Iran war LIVE: Sanctioned tanker turns back to Strait of Hormuz, day after Gulf exit",
+    "desc": "The U.S.-sanctioned tanker Rich Starry made its way back ​to the Strait of Hormuz on Wednesday (April 15, 2026) after exiting the ‌Gulf the day before, shipping data showed, failing ​to break through a U.S. blockade on ⁠vessels calling at Iranian ports",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-april-15-2026/article70863575.ece",
+    "time": "2026-04-15T01:24:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sreeleela on how she pursues MBBS alongside doing films",
+    "desc": "Sreeleela shows that passion and discipline can help achieve multiple goals. Her honest views on balancing two demanding fields offer practical insights. As she progresses in both medicine and cinema many young fans look up to her example.",
+    "img": "https://static.toiimg.com/photo/msid-130270815,imgsize-88630.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/sreeleela-on-how-she-pursues-mbbs-alongside-films-says-you-need-willpower-and-patience/articleshow/130270815.cms",
+    "time": "2026-04-15T01:21:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Office Romance’ OTT release: All streaming details here",
+    "desc": "Jennifer Lopez starrer rom-com ‘Office Romance’ will be kicking off the summer season, as the film is set to release on June 5, 2026, on Netflix. The film is directed by Ol Parker, known for ‘Mamma Mia! Here We Go Again.’",
+    "img": "https://static.toiimg.com/photo/msid-130270752,imgsize-89934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/office-romance-ott-release-when-and-where-to-watch-jennifer-lopez-starrer-rom-com/articleshow/130270752.cms",
+    "time": "2026-04-15T01:03:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Britney Spears wants to spend time with family",
+    "desc": "After years of public family tension and estrangement, Britney Spears is reportedly entering a \"healing chapter\" focused on reconciling with her two sons, Sean Preston (20) and Jayden James (19). In late March and April 2026, Britney shared rare photos and videos of herself spending time with both sons on a yacht excursion in Los Angeles.",
+    "img": "https://static.toiimg.com/photo/msid-130270711,imgsize-96762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/britney-spears-wants-to-be-a-good-mom-says-shes-focusing-on-spending-time-with-sons-sean-preston-jayden-james/articleshow/130270711.cms",
+    "time": "2026-04-15T00:57:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Toxic': Tara Sutaria dismisses postponement rumors",
+    "desc": "A Fairy Tale for Grown-Ups' represents an ambitious gangster saga. Tara Sutaria's clear stand on the date and her director's praise highlight the collaborative spirit on set. As June 4 approaches, the project stays relevant with steady buzz and confirmed plans.",
+    "img": "https://static.toiimg.com/photo/msid-130270657,imgsize-80776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-starrer-toxic-stays-on-track-tara-sutaria-dismisses-postponement-rumors-june-4-2026-release-confirmed/articleshow/130270657.cms",
+    "time": "2026-04-15T00:37:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'LIK' BO day 5: Futuristic film crosses 44 crore mark",
+    "desc": "'Love Insurance Kompany' has taken the global box office by storm, amassing Rs 44.87 crores within just five days. This inventive sci-fi rom-com featuring Pradeep Ranganathan experienced an impressive 38.3% increase on Tuesday alone, contributing an additional Rs 4.15 Cr net in India.",
+    "img": "https://static.toiimg.com/photo/msid-130270600,imgsize-116552.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/love-insurance-kompany-box-office-collections-day-5-pradeep-ranganathan-film-crosses-44-crore-mark/articleshow/130270600.cms",
+    "time": "2026-04-15T00:22:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Thor-Steve to lead 'Doomsday'; X-Men to take FINAL bow",
+    "desc": "Doomsday' test screenings suggests a powerful send-off for legacy X-Men characters, with Chris Evans and Chris Hemsworth reportedly leading the charge. The film, praised by early viewers, is expected to be a significant farewell before a new X-Men era. Thor seeks Odin's aid while Rogers fights for his son, hinting at pivotal character arcs.",
+    "img": "https://static.toiimg.com/photo/msid-130270465,imgsize-170518.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-doomsday-chris-evans-and-chris-hemsworth-to-play-lead-roles-film-to-mark-finalouting-for-x-men-characters/articleshow/130270463.cms",
+    "time": "2026-04-15T00:09:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dacoit' BO day 5: Adivi Sesh starrer collects Rs 3 crore on Tuesday",
+    "desc": "Dacoit has shown mixed fortunes at the box office so far. While the film opened decently and saw a small recovery on Tuesday, the overall numbers remain modest. Adivi Sesh and Mrunal Thakur’s sincere performances have been appreciated by some viewers, but many felt the story lacked freshness and emotional depth.",
+    "img": "https://static.toiimg.com/photo/msid-130270558,imgsize-137434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/dacoit-box-office-collection-day-5-adivi-sesh-starrer-shows-small-11-1-percent-growth-collects-rs-3-crore-on-tuesday/articleshow/130270558.cms",
+    "time": "2026-04-15T00:04:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yash confirms 'no scenes' with Ranbir in 'Ramayana: Part 1'",
+    "desc": "Part One', featuring Yash's elaborate Ravana armour, Ranbir Kapoor's regal Lord Rama, and Sai Pallavi's simple Sita avatar. Surprisingly, Yash confirmed he and Kapoor do not share any scenes in the first instalment, focusing on their separate kingdoms. Both actors expressed mutual respect and a shared vision for the ambitious project.",
+    "img": "https://static.toiimg.com/photo/msid-130270346,imgsize-201792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-yashs-ravana-costume-revealed-actor-confirms-no-scenes-with-ranbir-kapoors-rama-in-ramayana-part-one/articleshow/130270287.cms",
+    "time": "2026-04-14T23:02:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prem Chopra liked Dhurandhar but wanted less abuse, violence",
+    "desc": "Veteran actor Prem Chopra has shared his thoughts on the evolution of Hindi cinema, pointing out how storytelling has shifted from emotion-driven narratives to high-octane, violent spectacles. Speaking about the transition from the eras of Rajesh Khanna and Amitabh Bachchan to today’s films, Chopra said the change is largely driven by trends and audience acceptance. Talking about filmmaker Aditya Dhar’s Dhurandhar, Chopra said he watched the first part and found it engaging, though slightly stretched.",
+    "img": "https://static.toiimg.com/photo/msid-130270322,imgsize-41384.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prem-chopra-liked-aditya-dhars-dhurandhar-but-wouldve-suggested-going-slow-on-abuse-and-violence-praises-ranveer-singh-akshaye-khanna/articleshow/130270322.cms",
+    "time": "2026-04-14T22:40:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi invokes Ambedkar to pitch for women's quota",
+    "desc": "Prime Minister Narendra Modi emphasized that the proposed Women's Reservation Act amendment aligns with Dr. B.R. Ambedkar's vision of equality and inclusivity. He urged swift passage of the legislation, stating that full implementation by the 2029 elections will significantly strengthen Indian democracy and accelerate the nation's development towards a 'Viksit Bharat'.",
+    "img": "https://static.toiimg.com/photo/msid-130270314,imgsize-37422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-invokes-ambedkar-to-pitch-for-womens-quota/articleshow/130270310.cms",
+    "time": "2026-04-14T22:30:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Man of Tomorrow': Adria Arjona cast in 'Superman' sequel",
+    "desc": "Adria Arjona has joined the cast of James Gunn's 'Man of Tomorrow', the upcoming Superman sequel. While her role remains undisclosed, speculation points towards her playing the alien queen Maxima, potentially hinting at a cosmic storyline. The film, starring David Corenswet as Superman, is slated for a July 2027 release, continuing the narrative from the previous installment.",
+    "img": "https://static.toiimg.com/photo/msid-130268704,imgsize-114140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/man-of-tomorrowadria-arjona-joins-david-corenswet-in-james-gunns-superman-sequel/articleshow/130268699.cms",
+    "time": "2026-04-14T22:07:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RK couldn’t digest failure during Big B’s rise to superstardom",
+    "desc": "Veteran actor Prem Chopra has opened up about witnessing the highs and lows of superstardom from close quarters, recalling how the transition phase of Rajesh Khanna during the rise of Amitabh Bachchan was far from easy. Speaking about the phase when Rajesh Khanna’s career slowed down, Prem Chopra admitted that while the superstar never explicitly spoke about it, his struggles were evident.",
+    "img": "https://static.toiimg.com/photo/msid-130268676,imgsize-34050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajesh-khanna-couldnt-digest-his-failure-during-amitabh-bachchans-rise-to-superstardom-recalls-prem-chopra-he-started-drinking-heavily/articleshow/130268676.cms",
+    "time": "2026-04-14T21:49:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suspects tried to rob rapper's watch",
+    "desc": "Rapper Offset was shot in the leg during an attempted robbery outside a Florida casino. Federal investigators are seeking suspects who ambushed the Migos member. Two individuals were detained, including rapper Lil Tjay, who was arrested for unrelated charges. Offset, despite his injury, performed days later.",
+    "img": "https://static.toiimg.com/photo/msid-130268480,imgsize-41244.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/offset-shooting-case-suspects-tried-to-rob-rappers-watch-outside-casino-fbi-confirms/articleshow/130268437.cms",
+    "time": "2026-04-14T21:28:46.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "After UK, Kanye West to be banned in France?",
     "desc": "France's Interior Minister Laurent Nunez is determined to ban Kanye West's June concert in Marseille due to the rapper's antisemitic remarks and admiration for Adolf Hitler. This move follows similar actions by Britain, which barred West from entering the country. Marseille's mayor also opposes the performance, citing West's promotion of hatred.",
@@ -18,15 +180,6 @@ const newsData_en = [
     "time": "2026-04-14T21:09:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shakti Mohan reveals she wasn’t comfortable kissing Raghav Juyal",
-    "desc": "Shakti Mohan has opened up about her much-loved on-screen pairing with Raghav Juyal on the reality show Dance Plus, revealing that while audiences adored their chemistry, their bond off-screen was rooted in friendship and mutual respect. Shakti admitted that the romantic angle between them was largely created for the show, and it felt unusual at the time. The dancer also spoke about a particular on-stage kiss moment that left her uncomfortable. She added that even Remo D'Souza encouraged it on stage.",
-    "img": "https://static.toiimg.com/photo/msid-130268372,imgsize-43218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shakti-mohan-reveals-she-wasnt-comfortable-kissing-raghav-juyal-on-dance-plus-even-remo-dsouza-encouraged-it-romantic-angle-was-scripted/articleshow/130268372.cms",
-    "time": "2026-04-14T20:38:04.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Higher vote share for Vijay could work to the DMK’s advantage: Tamil Nadu CPI secretary Veerapandian",
     "desc": "Within the TVK, there is an educated group of people keen on defeating the BJP front which, they believe, is acting against Tamil Nadu’s interests. Many of them recognise that voting for Vijay may not yield benefits. They understand that the DMK-led alliance has an edge over the AIADMK-led front, says M. Veerapandian",
@@ -34,15 +187,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/higher-vote-share-forvijaycould-work-to-thedmkadvantage-says-cpi-tn-secretary-veerapandian/article70861784.ece",
     "time": "2026-04-14T20:35:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bobby Deol recalls Dharmendra’s struggle with alcohol",
-    "desc": "For Bobby Deol, one of the biggest personal shifts in recent years has been his decision to give up alcohol. Having quit alcohol completely a year and a half ago, Deol admitted the transition was easier than he expected. Reflecting on the decision, Bobby Deol said watching his father, Dharmendra, struggle with similar issues had a lasting impact on him. Grief, he admitted, has also brought him closer to his half-sisters, Esha Deol and Ahana Deol.",
-    "img": "https://static.toiimg.com/photo/msid-130267430,imgsize-69556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-recalls-dharmendras-struggle-with-alcohol-says-his-loss-brought-him-closer-to-esha-deol-and-ahana-deol/articleshow/130267430.cms",
-    "time": "2026-04-14T19:00:07.000Z"
   },
   {
     "cat": "Sports",
@@ -108,13 +252,13 @@ const newsData_en = [
     "time": "2026-04-14T18:22:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Gorillaz frontman Damon Albarn recalls a memory with Asha Bhosle",
-    "desc": "As tributes continue to pour in for legendary singer Asha Bhosle, who passed away on April 12, global artist Damon Albarn has joined voices across the world in remembering the icon whose music transcended generations and borders. Taking to Instagram on Tuesday, Damon Albarn shared a heartfelt note along with a series of old photographs, believed to have been taken at the singer’s Mumbai residence. The Gorillaz frontman reflected on his long-standing admiration for Asha Bhosle and the rare opportunity to meet her.",
-    "img": "https://static.toiimg.com/photo/msid-130265848,imgsize-59700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gorillaz-frontman-damon-albarn-recalls-a-memory-with-asha-bhosle-that-will-last-forever-her-voice-was-my-gateway-to-bollywood/articleshow/130265848.cms",
-    "time": "2026-04-14T17:53:19.000Z"
+    "cat": "Politics",
+    "title": "Philosophy, Politics, and Praxis",
+    "desc": "a mystic who embraced science, a democrat who did not shy away from authoritarianism, a patriot who looked toward unified humanity; his egalitarian ideal remains a powerful counter-narrative to fissiparous tendencies in an independent India",
+    "img": "https://th-i.thgim.com/public/incoming/in3o4i/article70862387.ece/alternates/LANDSCAPE_1200/1403000.II2",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/subhas-chandrabose-philosophy-politics-and-praxis-part-2/article70860933.ece",
+    "time": "2026-04-14T17:59:46.000Z"
   },
   {
     "cat": "World",
@@ -133,15 +277,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/rajnath-singh-germany-april-21-submarine-deal-likely-high-on-agenda/article70862279.ece",
     "time": "2026-04-14T17:48:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajpal Yadav recalls asking SRK, ‘When will you act?’",
-    "desc": "Having worked with Shah Rukh Khan in films like Paheli, Bhoothnath, Kal Ho Naa Ho and Billu, Rajpal Yadav recently opened up about his experience of sharing screen space with the superstar and the bond they developed over time. The actor admitted that while they didn’t collaborate frequently, every project they did together turned out to be special. Rajpal also spoke about a memorable conversation with Shah Rukh Khan during the shoot of Billu, when he asked the superstar a candid question.",
-    "img": "https://static.toiimg.com/photo/msid-130265511,imgsize-52022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-recalls-asking-shah-rukh-khan-when-will-you-act-srk-replied-until-i-have-my-smile-/articleshow/130265511.cms",
-    "time": "2026-04-14T17:36:38.000Z"
   },
   {
     "cat": "Politics",
@@ -198,24 +333,6 @@ const newsData_en = [
     "time": "2026-04-14T16:43:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "After almost clearing Rs 2 cr debt, Rajesh Kumar says he has sold his car",
-    "desc": "Actor Rajesh Kumar, known for 'Sarabhai vs Sarabhai', is nearing financial recovery, with only 10-15% of his Rs 2 crore debt remaining. He recently sold his car due to Mumbai's traffic, not financial strain, and finds convenience in public transport. His sisters have now taken over his farming venture.",
-    "img": "https://static.toiimg.com/photo/msid-130263839,imgsize-30742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-almost-clearing-rs-2-crore-debt-rajesh-kumar-now-reveals-hes-sold-his-car-and-takes-public-transport-you-should-stop-giving-so-much-importance-/articleshow/130263831.cms",
-    "time": "2026-04-14T16:16:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dhurandhar beats Baahubali, Pushpa, KGF; crosses Rs 3000 cr",
-    "desc": "The Revenge have achieved a historic feat at the box office. The Ranveer Singh-starrer franchise has officially crossed the Rs 3000 crore mark worldwide, becoming the first Indian film series to do so. With this milestone, the franchise has overtaken some of Indian cinema’s biggest blockbusters like Baahubali, Pushpa and KGF. This makes Dhurandhar the highest-grossing franchise in Indian cinema so far.",
-    "img": "https://static.toiimg.com/photo/msid-130263629,imgsize-46414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-dhurandhar-franchise-beats-baahubali-pushpa-kgf-crosses-rs-3000-crore-worldwide-to-become-indias-biggest-film-series/articleshow/130263629.cms",
-    "time": "2026-04-14T16:11:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Injury scare? Virat Kohli trains with strapped knee ahead of LSG game",
     "desc": "Virat Kohli was spotted training with his left knee heavily strapped ahead of Royal Challengers Bengaluru's IPL clash against Lucknow Super Giants. Despite a recent ankle niggle, Kohli displayed good form in the nets, easing fitness concerns. He has been in stellar form this season, amassing 179 runs in four matches.",
@@ -243,24 +360,6 @@ const newsData_en = [
     "time": "2026-04-14T15:47:06.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Akshay reveals son Aarav was scared of Vidya for 6 years after 'Bhool Bhulaiyaa'",
-    "desc": "Akshay Kumar revealed his son Aarav was so scared of Vidya Balan's Manjulika in 'Bhool Bhulaiyaa' that he refused to speak to her for six years. Akshay had to reassure his son that Vidya was a good person, highlighting the lasting impact of her iconic portrayal.",
-    "img": "https://static.toiimg.com/photo/msid-130263309,imgsize-54636.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-reveals-son-aarav-bhatia-was-scared-of-vidya-balan-for-six-years-after-watching-bhool-bhulaiyaa/articleshow/130263199.cms",
-    "time": "2026-04-14T15:40:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bobby Deol gets emotional remembering father Dharmendra",
-    "desc": "For Bobby Deol, the years when work slowed down weren’t just professionally testing—they were emotionally complex. The actor recently revealed that what weighed on him the most was not the lack of opportunities, but the quiet pressure of how his father, Dharmendra, might have seen him during that phase. In the months following his father’s demise, Bobby said his perspective on life has shifted significantly. The pursuit of professional milestones has taken a backseat to something far more personal.",
-    "img": "https://static.toiimg.com/photo/msid-130262992,imgsize-34824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-gets-emotional-remembering-father-dharmendra-whats-the-point-of-fame-and-wealth-if-theres-no-one-to-share-it-with/articleshow/130262992.cms",
-    "time": "2026-04-14T15:30:25.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'We all love you', Trump tells PM Modi during 40-min call on Iran war, Hormuz",
     "desc": "Prime Minister Modi and US President Trump held a significant phone call, reviewing robust bilateral ties and progress in their Comprehensive Global Strategic Partnership. They also addressed the critical situation in West Asia, emphasizing the need for a secure and open Strait of Hormuz. This marks their third discussion this year, following recent peace talks.",
@@ -277,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-why-csk-and-kkr-players-are-wearing-black-armbands-explained/articleshow/130262477.cms",
     "time": "2026-04-14T14:55:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay fell unconscious, had 103 degree fever, recalls miraculously surviving",
-    "desc": "Akshay Kumar's birth was a answered prayer at Vaishno Devi, with his parents requesting a naughty child. Years later, during a thanksgiving trip, a dangerously ill infant Akshay miraculously recovered after his mother's unwavering faith and prayers at the temple, a moment he believes was divine intervention.",
-    "img": "https://static.toiimg.com/photo/msid-130262488,imgsize-28448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-fell-unconscious-had-103-degree-fever-during-a-vaishno-devi-pilgimage-but-heres-how-he-miraculously-survived/articleshow/130262438.cms",
-    "time": "2026-04-14T14:54:39.000Z"
   },
   {
     "cat": "Sports",
@@ -306,15 +396,6 @@ const newsData_en = [
     "time": "2026-04-14T14:04:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Imran praises Adivi and Mrunal's Dacoit, calls Zayn ‘top star’",
-    "desc": "'Dacoit', starring Adivi Sesh, Mrunal Thakur, and Zayn Marie Khan (Mansoor Khan's daughter), earns praise from Imran Khan on Instagram. He calls it “free of toxic tropes,” spotlighting his cousin Zayn as top star and lauding Adivi’s vulnerability, Mrunal’s grit.",
-    "img": "https://static.toiimg.com/photo/msid-130261029,imgsize-23574.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imran-khan-praises-adivi-sesh-and-mrunal-thakurs-dacoit-for-avoiding-toxic-tropes-calls-cousin-zayn-marie-top-star/articleshow/130261029.cms",
-    "time": "2026-04-14T13:50:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No Dhoni for CSK again; star player returns for KKR",
     "desc": "MS Dhoni's absence continues to be felt by CSK fans as he missed another IPL 2026 match due to a calf strain. Despite batting in the nets, the veteran is still recovering and has not yet regained full match fitness. The team, led by Ruturaj Gaikwad, is focused on finding the right combination and consistency.",
@@ -324,24 +405,6 @@ const newsData_en = [
     "time": "2026-04-14T13:40:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "How Asha Bhosle outgrew the long, looming shadow of Lata Mangeshkar",
-    "desc": "India's post-colonial era saw a duality in its social order, reflected in its female playback singers. While Lata Mangeshkar became the gold standard for purity, Asha Bhosle carved her own path, embracing diverse styles and embodying hidden desires. Their distinct voices represented contrasting facets of evolving Indian society and its aspirations.",
-    "img": "https://static.toiimg.com/photo/msid-130260807,imgsize-856305.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/how-asha-bhosle-outgrew-the-long-looming-shadow-of-lata-mangeshkar/articleshow/130260677.cms",
-    "time": "2026-04-14T13:39:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vikram Bhatt recalls terrifying jail experience when he was arrested in Rs 30 cr fraud case",
-    "desc": "Filmmaker Vikram Bhatt recounts a harrowing health scare during his 2025-2026 incarceration in Udaipur Central Jail. Suffering from a severe fever and uncontrollable shivering due to his autoimmune condition, Bhatt faced delays in receiving medical attention. He turned to prayer and self-care, believing divine intervention aided his recovery before he was eventually taken to a hospital.",
-    "img": "https://static.toiimg.com/photo/msid-130260683,imgsize-27946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikram-bhatt-recalls-terrifying-jail-experience-when-he-was-arrest-in-rs-30-crore-fraud-case-and-fell-sick-with-high-fever-dont-want-to-die-here/articleshow/130260575.cms",
-    "time": "2026-04-14T13:32:58.000Z"
-  },
-  {
     "cat": "World",
     "title": "UN",
     "desc": "\"In the first three months of this year, nearly 700 civilians were reportedly killed in drone strikes,\" UN humanitarian chief Tom Fletcher said in a statement, a day before the three-year anniversary of the start of the war",
@@ -349,15 +412,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/nearly-700-reported-killed-in-sudan-drone-strikes-this-year-un/article70861226.ece",
     "time": "2026-04-14T13:18:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Tamil Nadu will fight': CM Stalin warns PM Modi over north gain in delimitation",
-    "desc": "Referring to the special session of Parliament scheduled for April 16, Tamil Nadu chief minister MK Stalin alleged that it had been “forcibly convened” in the middle of elections in Tamil Nadu and West Bengal, and claimed the Union government intended to push through a constitutional amendment on delimitation without adequate debate.",
-    "img": "https://static.toiimg.com/photo/msid-130260090,imgsize-38490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-will-fight-cm-stalin-warns-pm-modi-over-north-gain-in-delimitation/articleshow/130259709.cms",
-    "time": "2026-04-14T13:08:11.000Z"
   },
   {
     "cat": "Sports",
@@ -376,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-chief-mohsin-naqvi-trolled-for-long-queues-at-petrol-pumps-in-india-remark-psl-ipl/articleshow/130258012.cms",
     "time": "2026-04-14T12:48:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Nobody supported Dhurandhar, people said it will decline on Monday'",
-    "desc": "Director Kunal Kohli reveals the Hindi film industry's lack of support for the blockbuster 'Dhurandhar' and 'Border 2', despite their massive box office success. He draws parallels to his own film 'Hum Tum', highlighting a persistent industry mindset where genuine support is rare, with only a few like Rakesh Roshan offering encouragement.",
-    "img": "https://static.toiimg.com/photo/msid-130258737,imgsize-34030.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nobody-supported-dhurandhar-big-directors-said-monday-ko-baith-jayegi-film-reveals-kunal-kohli-shares-what-happened-during-hum-tum/articleshow/130258607.cms",
-    "time": "2026-04-14T11:55:25.000Z"
   },
   {
     "cat": "Sports",
@@ -414,24 +459,6 @@ const newsData_en = [
     "time": "2026-04-14T11:30:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Who is Samrat Choudhary, set to be new Bihar CM and BJP's first leader to take the top post",
-    "desc": "At 57, Choudhary has steadily risen through Bihar’s political ranks and is regarded as one of the BJP’s strongest organisational figures in the state. He currently holds the Home portfolio and has played a central role in the NDA government, often representing the BJP alongside Nitish Kumar at major official and political events.",
-    "img": "https://static.toiimg.com/photo/msid-130257192,imgsize-31138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/who-is-samrat-choudhary-new-bihar-cm-and-bjps-first-leader-to-take-the-top-post/articleshow/130256960.cms",
-    "time": "2026-04-14T11:11:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Namit Malhotra confirms 'Brahmastra 2' after 'Ramayana'",
-    "desc": "Producer Namit Malhotra has confirmed that Brahmastra 2 is in development and will commence work after his current project, Ramayana, is completed. This follows earlier hints from Ranbir Kapoor and Ayan Mukerji, with the sequel expected to delve into the backstory of Dev and Amrita.",
-    "img": "https://static.toiimg.com/photo/msid-130257545,imgsize-82730.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/namit-malhotra-confirms-brahmastra-2-after-ramayana-with-ranbir-kapoor-says-he-plans-to-take-the-astraverse-forward/articleshow/130257470.cms",
-    "time": "2026-04-14T11:05:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No handshake! India's Harika breaks silence on Uzbek GM's 'Namaste'",
     "desc": "Harika Dronavalli clarified viral handshake incident with Nodirbek Yakubboev, saying there was no disrespect. He had pre-informed her he cannot do handshakes due to religious beliefs, and her instinctive resignation gesture caused confusion. She urged social media not to blame him. Similar past incidents exist with Vaishali Rameshbabu. Harika stressed mutual respect and focus on chess, despite controversy overshadowing results.",
@@ -450,15 +477,6 @@ const newsData_en = [
     "time": "2026-04-14T10:58:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Lively to use Baldoni’s Spears harassment comment at trial?",
-    "desc": "A legal battle between Blake Lively and Justin Baldoni over their film 'It Ends With Us' has taken a surprising turn. Lively's lawyers reportedly plan to use a 2017 video of Baldoni discussing an awkward encounter with Britney Spears to support their case, suggesting a pattern of inappropriate behavior.",
-    "img": "https://static.toiimg.com/photo/msid-130257334,imgsize-124990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-to-use-justin-baldonis-britney-spears-harassment-comment-in-court-inside-the-it-ends-with-us-legal-battle/articleshow/130257044.cms",
-    "time": "2026-04-14T10:57:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Millions around the world could be pushed into poverty, flags UNDP",
     "desc": "A Middle East conflict involving the US and Iran is now impacting Asia, potentially pushing 8.8 million into poverty, according to a UN report. Soaring fuel costs and trade disruptions are hitting household budgets and food security across the region, with significant economic losses projected. Remittance flows are also a concern for several nations.",
@@ -466,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/middle-east-crisis-millions-around-the-world-could-be-pushed-into-poverty-flags-undp/articleshow/130256906.cms",
     "time": "2026-04-14T10:42:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Varma on negativity on social media post break-up with Tamannaah",
-    "desc": "Vijay Varma opened up about navigating social media negativity following his reported breakup with Tamannaah Bhatia. He consciously stepped back from online discourse, finding it has shifted to excessive and personal attacks. This break allowed him to reconnect with loved ones and focus on what truly matters.",
-    "img": "https://static.toiimg.com/photo/msid-130256994,imgsize-29224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vijay-varma-opens-up-on-stepping-away-from-social-media-amidst-negativity-post-his-break-up-with-tamannaah-bhatia-jo-gaali-de-raha-hai-/articleshow/130256970.cms",
-    "time": "2026-04-14T10:39:28.000Z"
   },
   {
     "cat": "Sports",
@@ -486,15 +495,6 @@ const newsData_en = [
     "time": "2026-04-14T10:19:29.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Sanju Samson’s redemption arc! World Cup hero wins ICC Player of the Month",
-    "desc": "Sanju Samson has been named ICC Men's Player of the Month for March after his stellar performances in the 2026 T20 World Cup knockout stages. Starting on the bench, Samson delivered crucial match-winning scores, including an unbeaten 97 and two 89s, to help India secure the title and earn him Player of the Tournament.",
-    "img": "https://static.toiimg.com/photo/msid-130255823,imgsize-183690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sanju-samsons-redemption-arc-world-cup-hero-wins-icc-player-of-the-month/articleshow/130255734.cms",
-    "time": "2026-04-14T09:35:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What workers will now earn",
     "desc": "Uttar Pradesh government has approved a significant interim hike of approximately 21% in minimum wages for workers in Gautam Buddh Nagar and Ghaziabad, effective April 1. This decision follows widespread factory worker protests. New monthly wages for unskilled, semi-skilled, and skilled workers in these regions have been revised, with the CM urging employers to ensure fair practices and benefits.",
@@ -502,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/up-hikes-minimum-wages-across-categories-amid-noida-protest-what-workers-will-now-earn/articleshow/130255732.cms",
     "time": "2026-04-14T09:26:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did Ranveer Singh take a dig at Dhruv Rathee's views on Dhurandhar 2 in new ad?",
-    "desc": "Ranveer Singh's latest ad, featuring his father-in-law Prakash Padukone, has sparked debate with a subtle jab at YouTuber Dhruv Rathee's criticism of the 'Dhurandhar' franchise. The commercial cleverly incorporates references to Ranveer's personal life and Padukone's badminton legacy, while a fictional film poster appears to mock Rathee's past critiques.",
-    "img": "https://static.toiimg.com/photo/msid-130255631,imgsize-36562.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-ranveer-singh-take-a-dig-at-dhruv-rathees-views-on-dhurandhar-2-in-new-ad-with-father-in-law-prakash-padukone-fans-call-it-peak-detailing/articleshow/130255489.cms",
-    "time": "2026-04-14T09:15:36.000Z"
   },
   {
     "cat": "Sports",
@@ -529,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/petrol-diesel-losses-what-oil-firms-are-losing-amid-hormuz-supply-squeeze/articleshow/130255101.cms",
     "time": "2026-04-14T08:45:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 27 [LIVE]: Ranveer Singh film eyes Rs. 1100 crore milestone",
-    "desc": "The Revenge', continues its unprecedented box office reign on Day 27. Having already made history as the first Hindi film to breach the Rs 1,000 crore India net milestone, the Ranveer Singh-starrer is now closing in on the Rs 1,100 crore domestic landmark. Despite the 2026 IPL season, the film's global footprint has expanded to a staggering Rs 1,718 crore. Stay updated with live tracking, weekly breakdowns, and day-wise earnings of this cinematic phenomenon.",
-    "img": "https://static.toiimg.com/photo/msid-130254538,imgsize-189388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-27-live-ranveer-singh-r-madhavan-rakesh-bedi-sanjay-dutt-arjun-rampal-sara-arjun-film-eyes-rs-1100-crore-domestic-net-on-fourth-tuesday-after-crossing-rs-1090-crore-india-net-and-rs-1718-crore-worldwide-despite-ipl-2026/articleshow/130254538.cms",
-    "time": "2026-04-14T08:31:52.000Z"
   },
   {
     "cat": "Entertainment",
@@ -738,15 +720,6 @@ const newsData_en = [
     "time": "2026-04-13T04:58:22.000Z"
   },
   {
-    "cat": "World",
-    "title": "Pope Leo to begin 10-day Africa tour on mission to spotlight continent's needs",
-    "desc": "The first U.S. pope heads to Algeria for two days before continuing to Cameroon, Angola and Equatorial Guinea in a whirlwind tour to 11 cities and towns, ‌traversing nearly 18,000 km (11,185 miles) over 18 flights",
-    "img": "https://th-i.thgim.com/public/incoming/ajkg4r/article70856079.ece/alternates/LANDSCAPE_1200/2026-04-13T000157Z_2080227099_RC2YIKADNKFT_RTRMADP_3_POPE-AFRICA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/pope-leo-10-day-africa-tour-continents-needs/article70856078.ece",
-    "time": "2026-04-13T04:39:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Iga Swiatek and her quest for solidity",
     "desc": "The Polish World No. 4 is this era’s leading light, with her six Major titles the most among active women playing full time. But of late, her game has come under a cloud following a series of bad losses. Will the upcoming clay season — her most cherished months in the calendar – spark a turnaround?",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
   }
 ];

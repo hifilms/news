@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "More trouble for KKR! Captain Ajinkya Rahane fined for breaching IPL code of conduct after loss to CSK",
+    "desc": "Kolkata Knight Riders' troubles don't seem to end in the ongoing edition of the Indian Premier League (IPL). Several of their fast bowlers are either injured or yet to join the team, while for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/more-trouble-for-kkr-captain-ajinkya-rahane-fined-for-breaching-ipl-code-of-conduct-after-loss-to-csk-2026-04-15-1037564",
+    "time": "2026-04-15T01:59:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Updated points table after CSK vs KKR match at the MA Chidambaram Stadium in Chennai",
+    "desc": "Chennai Super Kings registered their second consecutive win of the season on Tuesday as they defeated Kolkata Knight Riders in the 22nd match of IPL 2026 at the MA Chidambaram Stadium in Chennai. They also...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-updated-points-table-after-csk-vs-kkr-match-at-the-ma-chidambaram-stadium-in-chennai-2026-04-15-1037562",
+    "time": "2026-04-15T01:36:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will surface at M Chinnaswamy Stadium in Bengaluru play?",
     "desc": "Royal Challengers Bengaluru will host Lucknow Super Giants in their upcoming IPL 2026 clash at the M Chinnaswamy Stadium. Under the leadership of Rajat Patidar, RCB have played some phenomenal cricket in the competition and...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-matheesha-pathirana-not-playing-for-kkr-vs-csk-despite-getting-noc-from-sri-lanka-2026-04-14-1037526",
     "time": "2026-04-14T13:47:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chennai Super Kings beat Kolkata by 32 runs at Chepauk",
-    "desc": "Chennai Super Kings defeated the Kolkata Knight Riders at the MA Chidambaram Stadium in Chennai as they registered their second of the tournament following their win in the previous game against the Delhi Capitals. CSK...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-vs-kkr-ipl-2026-live-cricket-score-chennai-super-kings-vs-kolkata-knight-riders-ma-chidambaram-stadium-chennai-latest-match-updates-scorecard-2026-04-14-1037524",
-    "time": "2026-04-14T13:21:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunrisers Hyderabad pick replacement for injured Brydon Carse for IPL 2026, rope in Sri Lankan pacer",
-    "desc": "Sunrisers Hyderabad have roped in Sri Lankan fast bowler Dilshan Madushanka as the replacement for the injured Brydon Carse for the Indian Premier League 2026. Madushanka will join the SRH squad for his base price...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-picked-replacement-for-injured-brydon-carse-for-ipl-2026-rope-in-sri-lankan-pacer-2026-04-14-1037519",
-    "time": "2026-04-14T12:53:36.000Z"
   }
 ];

@@ -1,1 +1,11 @@
-const newsData_mr = [];
+const newsData_mr = [
+  {
+    "cat": "World",
+    "title": "अमेरिका आणि इराणमध्ये चर्चेची दुसरी फेरी 16 एप्रिलला होण्याची शक्यता",
+    "desc": "अमेरिका आणि इराणमध्ये चर्चेची पहिली फेरी निष्फळ ठरल्यनंतर आता दुसऱ्या फेरीसाठी प्रयत्न सुरु आहेत. अमेरिका आणि इराणमध्ये चर्चेची दुसरी फेरी 16 एप्रिलला होण्याची शक्यता आहे.अमेरिकेच्या राजनैतिक अधिकाऱ्यांच्या सूत्रांच्या हवाल्यानं बातमी मिळतेय. चर्चेची दुसरी फेरी ही इस्लामाबाद किंवा जिनेव्हामध्ये होण्याची शक्यता आहे. युद्धविरामाची मुदत संपण्याआधी पुन्हा चर्चेची शक्यता आहे. पाकिस्तान, तुर्कीए, इजिप्त चर्चेसाठी मध्यस्थी करत आहेत. चर्चा पुन्हा सुरू करण्याचा संयुक्त राष्ट्रांचाही आग्रह असल्याची माहिती मिळते.",
+    "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/15/d75739c5acf2b197391998c4576589a21776213713587987_original.jpg",
+    "src": "abplive.com",
+    "url": "https://marathi.abplive.com/news/maharashtra-live-blog-updates-15-april-2026-iran-us-war-baramati-and-rahuri-byelection-2026-sunetra-pawar-ajit-pawar-ashok-kharat-nashik-donald-trump-iran-israel-america-war-maharashtra-politics-1420270",
+    "time": "2026-04-15T00:43:48.000Z"
+  }
+];
