@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "એક્સચેન્જ કે એસેસરીઝ નહીં, આ ઇલેક્ટ્રિક SUV પર મળી રહ્યું છે ₹2.50 લાખ રોકડ ડિસ્કાઉન્ટ, કિંમતમાં થયો આટલો ઘટાડો",
+    "desc": "કંપની આ ઇલેક્ટ્રિક SUVના EC Pro અને EL Pro વેરિઅન્ટ્સ પર આ ડિસ્કાઉન્ટ આપી રહી છે. ગ્રાહકો માટે સારા સમાચાર એ છે કે આ ડિસ્કાઉન્ટ એક્સચેન્જ, કોર્પોરેટ અથવા એસેસરીઝને બદલે સીધા રોકડ સ્વરૂપમાં આપવામાં આવી રહ્યું છે. આનાથી તમારા ખિસ્સામાં સીધા 2.50 લાખ રૂપિયાની બચત થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/no-exchange-or-accessories-this-electric-suv-is-getting-a-cash-discount-of-rs-2-50-lakh-the-price-has-been-reduced-by-this-much-473144 ",
+    "time": "2026-04-15T05:09:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મહિલા અનામત લાગૂ કરવાની તૈયારીઓ, લોકસભા સીટો 850 કરવાનો પ્રસ્તાવ, જાણો ગુજરાતમાં કેટલી વધી શકે સીટો?",
+    "desc": "મહિલાઓને લોકસભા અને વિધાનસભાઓમાં 33 ટકા અનામત આપવા માટે તૈયારીઓ ચાલુ છે. જે હેઠળ 16 એપ્રિલે લોકસભામાં બિલ રજૂ થઈ શકે છે. જો આ બિલ પાસ થાય તો ગુજરાતની લોકસભા અને વિધાનસભાની સીટોમાં કેટલો વધારો થઈ શકે તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/proposal-to-increase-lok-sabha-seats-know-how-many-seats-can-be-increased-in-gujarat-473132 ",
+    "time": "2026-04-15T04:17:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "45 દિવસ પછી, મહાયુદ્ધના અંતનો એક મોટો સંકેત, ટ્રમ્પે કહ્યું: War is over",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચે વધતા તણાવ વચ્ચે, રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે એક રસપ્રદ નિવેદન આપ્યું છે. એક મુલાકાતમાં, ટ્રમ્પે દાવો કર્યો હતો કે આ યુદ્ધ સમાપ્ત થઈ ગયું છે. વાતચીત દરમિયાન, તેમણે સંકેત આપ્યો હતો કે યુએસ-ઈરાન સંઘર્ષ હવે ભૂતકાળની વાત છે અને પરિસ્થિતિ નિયંત્રણમાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/breaking-news-after-45-days-a-big-sign-of-the-end-of-the-big-war-trump-said-war-is-over-473121 ",
+    "time": "2026-04-15T02:46:26.000Z"
+  },
+  {
     "cat": "World",
     "title": "ત્રીજા વિશ્વયુદ્ધના ભણકારા? જાણો હવે કોણ કોની સાથે ઊભું રહેશે; અમેરિકા-ઈરાન સાથે કોણ?",
     "desc": "ઇસ્લામાબાદ શાંતિ વાર્તાની નિષ્ફળતા અને સ્ટ્રેટ ઓફ હોર્મુઝની અમેરિકા દ્વારા નાકેબંધીએ દુનિયાને ત્રીજા વિશ્વયુદ્ધના ઉંબરે લાવીને ઊભું કરી દીધું છે. વૈશ્વિક શક્તિઓનું બે સ્પષ્ટ જૂથોમાં વહેંચાવું અને ઓઈલ પુરવઠો ઠપ થવો એ મોટા સંકટનો સંકેત છે.",
@@ -405,15 +432,6 @@ const newsData_gu = [
     "time": "2026-04-11T11:19:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "વૈભવ સૂર્યવંશીએ રચ્યો ઈતિહાસ, IPLમાં પોતાના નામે કર્યો વધુ એક રેકોર્ડ",
-    "desc": "શુક્રવારે રોયલ ચેલેન્જર્સ બેંગ્લોર (RCB) સામે રમાયેલી IPL મેચમાં 15 વર્ષીય વૈભવ સૂર્યવંશીએ ઇનિંગની શરૂઆત કરતા માત્ર 26 બોલમાં 78 રન બનાવ્યા. 300ના સ્ટ્રાઇક રેટથી બેટિંગ કરતા આ વિસ્ફોટક બેટ્સમેને 7 છગ્ગા અને 8 ચોગ્ગા ફટકાર્યા. વૈભવ સૂર્યવંશીએ RCB સામે માત્ર 15 બોલમાં પોતાની અડધી સદી પૂરી કરી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-create-history-two-ipl-fifties-in-15-balls-472515 ",
-    "time": "2026-04-11T09:26:55.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "સરકારી કર્મચારીઓ માટે મહત્વના સમાચાર, કયા ફોર્મ્યૂલાથી વધશે પગાર? જાણો મિનિમમ બેઝિક પે વિશે",
     "desc": "આઠમાં પગાર પંચની ભલામણો લાગૂ થવાથી કેન્દ્ર સરકારના કર્મચારીઓના પગાર, ભથ્થા અને પેન્શનમાં સારો એવો વધારો થઈ શકે છે. પગાર વધારામાં ફિટમેન્ટ ફેક્ટર મહત્વનો છે. વિવિધ ફિટમેન્ટ ફેક્ટર ચર્ચામાં છે. કયો ફોર્મ્યૂલા સરકાર અપનાવશે તે ચર્ચામાં છે ત્યારે કેટલો વધી શકે પગાર?",
@@ -457,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/cars-under-rs-5-lakh-tata-tiagomaruti-suzuki-s-presso-maruti-suzuki-celerio-472360 ",
     "time": "2026-04-10T10:37:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મહારાષ્ટ્રમાં છે સૌથી વધારે PNG કનેક્શન, તમિલનાડુ અને કેરળ ટોપ 10માં પણ નથી, જાણો ગુજરાતનો નંબર",
-    "desc": "ઈરાન યુદ્ધ પછી, ક્રૂડ ઓઈલનો પુરવઠો ખોરવાઈ ગયો છે, જેના કારણે ખાસ કરીને યુનાઇટેડ સ્ટેટ્સમાં LPGની નોંધપાત્ર અછત સર્જાઈ છે. સરકારે લોકોને PNG તરફ જવા વિનંતી કરી છે. ભારત દેશના કયા રાજ્યોમાં સૌથી વધુ PNG કનેક્શન છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/maharashtra-and-gujarat-have-more-than-half-of-the-country-png-connections-while-tamil-nadu-and-kerala-are-not-in-the-top-10-know-472357 ",
-    "time": "2026-04-10T10:00:33.000Z"
   },
   {
     "cat": "Entertainment",

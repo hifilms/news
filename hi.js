@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will MS Dhoni play CSK's next match against SRH in IPL 2026? Whom will he replace?",
+    "desc": "Chennai Super Kings seem to have finally found their groove in the ongoing edition of the Indian Premier League (IPL). They have won their last two matches after starting their campaign with a hat-trick of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-ms-dhoni-play-csk-s-next-match-against-srh-in-ipl-2026-whom-will-he-replace-2026-04-15-1037594",
+    "time": "2026-04-15T04:45:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mumbai Indians' star batter skips net session, to miss PBKS clash?",
+    "desc": "Mumbai Indians batter Rohit Sharma walked off retired hurt during the game against the Royal Challengers Bengaluru (RCB) on Sunday. MI are set to face the Punjab Kings at the Wankhede Stadium in Mumbai on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-mumbai-indians-star-batter-skips-net-session-to-miss-pbks-clash-2026-04-15-1037575",
+    "time": "2026-04-15T03:21:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "More trouble for KKR! Captain Ajinkya Rahane fined for breaching IPL code of conduct after loss to CSK",
     "desc": "Kolkata Knight Riders' troubles don't seem to end in the ongoing edition of the Indian Premier League (IPL). Several of their fast bowlers are either injured or yet to join the team, while for the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/when-can-will-jacks-join-mumbai-indians-for-ipl-2026-kieron-pollard-shares-update-2026-04-14-1037536",
     "time": "2026-04-14T15:09:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is MS Dhoni playing today's IPL match against KKR as CSK look for second win in IPL 2026?",
-    "desc": "Chennai Super Kings legend MS Dhoni missed out on another match in the Indian Premier League 2026 as his team takes on Kolkata Knight Riders at the MA Chidambaram Stadium on Tuesday, April 14. Dhoni...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-ms-dhoni-playing-todays-ipl-match-against-kkr-as-csk-look-for-second-win-in-ipl-2026-2026-04-14-1037529",
-    "time": "2026-04-14T13:54:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Matheesha Pathirana not playing for KKR vs CSK despite getting NOC from Sri Lanka?",
-    "desc": "Sri Lanka pacer Matheesha Pathirana is yet to join the Kolkata Knight Riders squad and for the same reason, he is out of the contest against Chennai Super Kings on April 14. He has been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-matheesha-pathirana-not-playing-for-kkr-vs-csk-despite-getting-noc-from-sri-lanka-2026-04-14-1037526",
-    "time": "2026-04-14T13:47:21.000Z"
   }
 ];
