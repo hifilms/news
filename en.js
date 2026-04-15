@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Gems and jewellery exports fall to five-year low on U.S. tariffs",
+    "desc": "Shipments to the ‌U.S. fell 45% from a year earlier to $5.09 billion, as exports were disrupted for several months after Washington imposed reciprocal ‌tariffs and later added a further 25% ​duty on Indian goods, GJEPC data showed.",
+    "img": "https://th-i.thgim.com/public/incoming/8613nn/article70866193.ece/alternates/LANDSCAPE_1200/2026-04-15T111213Z_1036373750_RC2UAJAHMUVX_RTRMADP_3_INDIA-DIAMONDS-EXPORTS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/gems-and-jewellery-exports-fall-to-five-year-low-on-us-tariffs/article70866170.ece",
+    "time": "2026-04-15T15:55:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala Congress (M) chairperson Jose K. Mani suggests multi-factor matrix for ‘a fair delimitation formula’",
+    "desc": "Centre should consider a matrix that distributes weightage between the current population, population growth indicators such as the Total Fertility Rate, and the existing share of Parliamentary seats to arrive at a delimitation formula, he says.",
+    "img": "https://th-i.thgim.com/public/incoming/xdsaw1/article70866107.ece/alternates/LANDSCAPE_1200/80687_26_3_2026_18_48_57_3_J1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala-congress-m-chairperson-jose-k-mani-suggests-multi-factor-matrix-for-fair-delimitation-formula/article70865987.ece",
+    "time": "2026-04-15T15:47:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "New Hungarian leader Magyar says pro-Orban President must go",
+    "desc": "I repeated to him that, in my eyes and in the eyes of the Hungarian people, he is unworthy of embodying the unity of the Hungarian nation, incapable of ensuring respect for the law, says Hungary’s new leader, Peter Magyar",
+    "img": "https://th-i.thgim.com/public/incoming/49osk2/article70866133.ece/alternates/LANDSCAPE_1200/2026-04-15T100741Z_1850954367_RC2MPKAIH8DW_RTRMADP_3_HUNGARY-POLITICS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/new-hungarian-leader-magyar-says-pro-orban-president-must-go/article70866123.ece",
+    "time": "2026-04-15T15:43:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How India’s strong economic fundamentals will cushion the blow",
+    "desc": "S&P Global in its latest report titled India's Strong Fundamentals Would Cushion The Blow Of An Oil Shock says India is equipped to handle some strain. The report assumes a base case scenario of oil prices at an average of $130 per barrel for 2026 and $100 in 2027.",
+    "img": "https://static.toiimg.com/photo/msid-130288201,imgsize-121140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/oil-price-shock-loading-how-indias-strong-economic-fundamentals-will-cushion-the-blow-explained-in-charts/articleshow/130287998.cms",
+    "time": "2026-04-15T15:37:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "China moves to block entrance to disputed South China Sea shoal, images show",
+    "desc": "The ⁠presence of four fishing boats, a Chinese naval or coast guard ship and a new floating barrier comes as the Philippines sends its own coast guard and fisheries vessels to support its fishermen, frequently driven away by larger Chinese patrols.",
+    "img": "https://th-i.thgim.com/public/incoming/tw9j3i/article70866064.ece/alternates/LANDSCAPE_1200/2026-04-15T084928Z_1076418237_RC20PKAG8L3C_RTRMADP_3_SOUTHCHINASEA-CHINA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/china-moves-to-block-entrance-to-disputed-south-china-sea-shoal-images-show/article70866028.ece",
+    "time": "2026-04-15T15:29:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka High Court directs State government to ‘strictly and faithfully’ implement menstrual leave policy",
+    "desc": "Upon the enactment of the proposed Karnataka Menstrual Leave and Hygiene Bill, 2025, the State shall, without any undue delay frame appropriate rules to give full and meaningful effect of the mandate, the Court said",
+    "img": "https://th-i.thgim.com/public/incoming/tk45ri/article70864755.ece/alternates/LANDSCAPE_1200/Karnataka-High-GUVFRDBDO.1.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-directs-state-government-to-strictly-and-faithfully-implement-menstrual-leave-policy/article70864730.ece",
+    "time": "2026-04-15T15:29:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK’s ex-bodyguard dismisses Rs 2–2.5 crore salary claims",
+    "desc": "Amid ongoing chatter about celebrity bodyguards allegedly earning crores every year, Yaseen Khan has weighed in, calling such claims far from reality. The ex-security aide of Shah Rukh Khan opened up about the actual payment structure in the industry, while also recalling how compensation practices have evolved over time. Reacting to social media buzz pegging bodyguards’ earnings at Rs 2–2.5 crore annually, Yaseen said such numbers are largely exaggerated and don’t reflect how the system functions.",
+    "img": "https://static.toiimg.com/photo/msid-130287959,imgsize-58072.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-ex-bodyguard-yaseen-khan-dismisses-rs-22-5-crore-salary-claims-who-is-paying-rs-810-lakh-a-month/articleshow/130287959.cms",
+    "time": "2026-04-15T15:29:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "New 'Choudhary' of Magadh: Samarat's 'muretha' vow comes full circle with Nitish's exit",
+    "desc": "Samrat Choudhary’s journey to the top has hardly followed a conventional BJP path. Unlike many leaders nurtured within the Sangh ecosystem, he comes from outside that fold. His father, veteran politician Shakuni Choudhary, was a founding member of the Samata Party and a contemporary of both Nitish Kumar and Lalu Prasad Yadav. Samrat himself began in the Rashtriya Janata Dal in the 1990s and entered government early, serving as a minister under Rabri Devi.",
+    "img": "https://static.toiimg.com/photo/msid-130287627,imgsize-47640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/new-choudhary-of-magadh-samarats-muretha-vow-comes-full-circle-with-nitishs-exit/articleshow/130285904.cms",
+    "time": "2026-04-15T15:11:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 MI vs PBKS preview",
+    "desc": "A late call is expected, but if he eventually misses out, it will further dent a top-order that has lacked consistency. Rohit’s ability to anchor and accelerate has often set the tone, and his absence would only deepen Mumbai’s early-season struggles.",
+    "img": "https://th-i.thgim.com/public/incoming/iy3itl/article70865693.ece/alternates/LANDSCAPE_1200/PTI04_12_2026_000739B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/rohit-injury-worry-as-mi-looks-for-a-turnaround-match-preview-mi-vs-pbks/article70865627.ece",
+    "time": "2026-04-15T15:02:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Women's Reservation Bill, a historic step towards Women's empowerment: CM Rekha Gupta",
+    "desc": "Delhi chief minister Rekha Gupta described the Women's Reservation Bill as a landmark and far-reaching initiative that will significantly strengthen women's empowerment in the country. She said the legislation is poised to open new avenues for women and elevate their role in governance in the years ahead.",
+    "img": "https://static.toiimg.com/photo/msid-130287295,imgsize-40580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/womens-reservation-bill-a-historic-step-towards-womens-empowerment-cm-rekha-gupta/articleshow/130287018.cms",
+    "time": "2026-04-15T14:50:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After three dots, Rishabh Pant walks off — what happened?",
+    "desc": "Skipper Rishabh Pant was forced to leave the field after a painful elbow blow during Lucknow Super Giants’ match against Royal Challengers Bengaluru on Wednesday. Struggling against Josh Hazlewood, Pant was hit by a short ball and walked off in pain, with Nicholas Pooran replacing him, disrupting LSG’s early momentum.",
+    "img": "https://static.toiimg.com/photo/msid-130287157,imgsize-35172.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rcb-vs-lsg-ipl-after-three-dots-rishabh-pant-walks-off-what-happened/articleshow/130287021.cms",
+    "time": "2026-04-15T14:45:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "the paradox of a revolutionary’s theory and praxis",
+    "desc": "The leader synthesised Indian spirituality with Hegelian dialectics, evolving from an absolute idealist into a pragmatic revolutionary seeking to build a modern, socialist India — an analysis on Bose’s journey through philosophy, politics, and his plans for society and national regeneration",
+    "img": "https://th-i.thgim.com/public/incoming/hoac1z/article70858975.ece/alternates/LANDSCAPE_1200/HP4750.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/subhas-chandra-bose-the-paradox-of-a-revolutionarys-theory-and-praxis/article70858976.ece",
+    "time": "2026-04-15T14:30:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Philosophy, Politics, and Praxis",
+    "desc": "a mystic who embraced science, a democrat who did not shy away from authoritarianism, a patriot who looked toward unified humanity; his egalitarian ideal remains a powerful counter-narrative to fissiparous tendencies in an independent India",
+    "img": "https://th-i.thgim.com/public/incoming/in3o4i/article70862387.ece/alternates/LANDSCAPE_1200/1403000.II2",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/subhas-chandrabose-philosophy-politics-and-praxis-part-2/article70860933.ece",
+    "time": "2026-04-15T14:29:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Yathindra draws line between legacy politics and JD(S) ‘family politics’",
+    "desc": "He says his father did not bring him into politics for ‘collection’ of bribes as alleged by Union Minister for Heavy Industries and Steel H.D. Kumaraswamy, but to assist him in politics after his elder brother died",
+    "img": "https://th-i.thgim.com/public/incoming/28atfa/article70865766.ece/alternates/LANDSCAPE_1200/6702_27_11_2025_18_30_20_1_YATHINDRASIDDARAMAIAH.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/yathindra-draws-line-between-legacy-politics-and-jds-family-politics/article70865131.ece",
+    "time": "2026-04-15T14:17:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Rohit play next IPL game? Mumbai Indians share injury update",
+    "desc": "Rohit Sharma is set to miss Mumbai Indians’ IPL 2026 clash against Punjab Kings due to a recurring hamstring injury sustained against Royal Challengers Bengaluru. MI said he is being assessed. Rohit retired hurt in that match, and his absence adds to MI’s struggles after three straight defeats this season.",
+    "img": "https://static.toiimg.com/photo/msid-130286411,imgsize-78354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/will-rohit-sharma-play-next-ipl-game-mumbai-indians-share-injury-update/articleshow/130286153.cms",
+    "time": "2026-04-15T14:13:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "R Madhavan warned his son about the responsibility coming with 'fame'",
+    "desc": "R Madhavan's success in 'Dhurandhar 2' is matched by his son Vedaant's swimming achievements. Madhavan has instilled values in Vedaant, emphasizing the responsibilities that come with public recognition. He expressed pride in Vedaant, acknowledging his son's privileged life while preparing him for public scrutiny.",
+    "img": "https://static.toiimg.com/photo/msid-130286298,imgsize-63846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/you-cant-be-seen-with-your-shirt-off-sleeping-in-any-bed-r-madhavan-warned-his-son-vedaant-about-the-responsibilities-which-come-with-fame/articleshow/130286020.cms",
+    "time": "2026-04-15T14:08:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Women’s reservation bill already passed': Congress accuses Centre of 'hissa chori' using delimitation",
+    "desc": "Rahul Gandhi accused the Centre of a power grab through a delimitation bill, stating the women's reservation bill was already passed in 2023. He asserted the Congress party unequivocally supports women's reservation and condemned the proposed increase in Lok Sabha seats as 'hissa chori' from marginalized communities and certain regions.",
+    "img": "https://static.toiimg.com/photo/msid-130285961,imgsize-822506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/womens-reservation-bill-already-passed-congress-accuses-centre-of-hissa-chori-using-delimitation/articleshow/130285665.cms",
+    "time": "2026-04-15T13:50:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli not in XI, star RCB pacer returns against LSG",
+    "desc": "RCB batter Virat Kohli was left out of RCB’s starting XI against Lucknow Super Giants due to an ankle injury but remained available as an Impact Player. Captain Rajat Patidar chose to bowl first, while Rishabh Pant stayed confident. RCB brought in Josh Hazlewood as both teams looked to gain momentum.",
+    "img": "https://static.toiimg.com/photo/msid-130285838,imgsize-38944.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-virat-kohli-not-in-xi-as-rcb-opt-to-bowl-against-lsg/articleshow/130285519.cms",
+    "time": "2026-04-15T13:46:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia in talks for Prashanth Neel's Dragon opposite Jr NTR",
+    "desc": "Buzz swirls around Jr NTR and Prashanth Neel's 'Dragon' after Tovino Thomas's exit and Shahid Kapoor's rumored antagonist role. Reports claim Alia Bhatt is in talks for a pivotal part, possibly announced on NTR's birthday, marking their RRR reunion. NTR's gym pic dispels delay rumors; film releases June 25, 2026. Alia eyes 'Alpha' and 'Love & War'.",
+    "img": "https://static.toiimg.com/photo/msid-130285842,imgsize-21160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rrr-cast-returns-alia-bhatt-in-talks-for-prashanth-neels-dragon-opposite-jr-ntr-reports/articleshow/130285842.cms",
+    "time": "2026-04-15T13:43:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rasha Thadani to star opposite Vir Hirani in Lagan Laagi Re",
+    "desc": "Vir Hirani, son of Rajkumar Hirani, casts Rasha Thadani opposite him in his debut film, the small‑town romance Lagan Laagi Re, directed by Sonali Rattan Deshmukh and produced by Jay Shewakramani under Northern Lights Films. Vir, who stars in the thriller series Pritam Pedro, makes his big‑screen debut, while Rasha, known for Azaad, gears up for Laikey Laika and Srinivasa Mangapuram.",
+    "img": "https://static.toiimg.com/photo/msid-130285346,imgsize-33858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rasha-thadani-to-star-opposite-vir-hirani-in-lagan-laagi-re-shoot-begins-in-july-2026-report/articleshow/130285346.cms",
+    "time": "2026-04-15T13:18:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Only after hitting 6s against India ...': Pak's Farhan makes big revelation",
+    "desc": "Sahibzada Farhan said his favourite sixes came against India in the Asia Cup, where he hit three off Jasprit Bumrah. Despite his effort, India, led by Suryakumar Yadav and finished by Tilak Varma, won. Farhan credited confidence from attacking top bowlers but faced backlash for a controversial celebration, despite strong recent form.",
+    "img": "https://static.toiimg.com/photo/msid-130285110,imgsize-59818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/only-after-hitting-6s-against-india-pakistans-sahibzada-farhan-makes-big-revelation/articleshow/130283364.cms",
+    "time": "2026-04-15T13:09:14.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Peddi' release pushed to June 2026: Ram Charan starrer gets more time for post-production",
     "desc": "Ram Charan's highly anticipated film 'Peddi', directed by Buchi Babu Sana, has been officially postponed to June 2026 as the makers prioritise post-production quality. The team shared a special note stating, \"We want to give our audience nothing but the best.\" The film also stars Janhvi Kapoor, Shiva Rajkumar, Jagapathi Babu and Divyendu Sharma, with music by AR Rahman. The first song 'Chikiri Chikiri' has crossed 200 million views, while the second track 'Rai Rai Raa Raa' has surpassed 47 million views on YouTube. Produced by Vriddhi Cinemas and Mythri Movie Makers, 'Peddi' is one of the most anticipated pan-India releases of 2026. The exact new release date will be announced soon.",
@@ -7,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/peddi-release-pushed-to-june-2026-ram-charan-starrer-gets-more-time-for-post-production-new-date-to-be-announced-soon/articleshow/130284671.cms",
     "time": "2026-04-15T13:07:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Courts can't sit in judgement in matters of religious belief of denomination: TDB tells Supreme Court",
-    "desc": "A nine-judge Constitution Bench headed by Chief Justice Surya Kant was told by the TDB that the beliefs and practices of the community have to be judged by the subjective belief of the community and the court is bound to accept their belief",
-    "img": "https://th-i.thgim.com/public/incoming/2p18bp/article70864972.ece/alternates/LANDSCAPE_1200/Nearby_Shape_neGNTFJD55I.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-hearing-on-sabarimala-april-15-2026/article70864914.ece",
-    "time": "2026-04-15T13:07:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -27,15 +207,6 @@ const newsData_en = [
     "time": "2026-04-15T13:03:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supreme Court stays Telangana HC order granting interim protection from arrest to Pawan Khera",
-    "desc": "The case arises from a press conference addressed by Mr. Khera on April 4, 2026, in which he alleged that the Assam Chief Minister’s wife held three passports issued by different countries and levelled allegations of illegality against Mr. Sarma",
-    "img": "https://th-i.thgim.com/public/incoming/ipuquq/article70864255.ece/alternates/LANDSCAPE_1200/PTI04_01_2026_000130B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-stays-telangana-hc-order-granting-transit-anticipatory-bail-to-pawan-khera/article70864270.ece",
-    "time": "2026-04-15T12:52:42.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'The party it was': Shahid Kapoor drops BTS glimpses from 'Cocktail 2'",
     "desc": "Shahid Kapoor has shared exciting behind-the-scenes photos from the sets of 'Cocktail 2', offering fans their first candid glimpse of the film's fun and energetic atmosphere. The BTS images also feature co-stars Kriti Sanon and Rashmika Mandanna marking the first time Mandanna will share screen space with both Kapoor and Sanon. The post has drawn comparisons to the iconic 'Tumhi Ho Bandhu' from the original film. Directed by Homi Adjania, 'Cocktail 2' explores modern love and relationships, with the first song 'Jab Talak' already out. The film releases in cinemas on June 19, 2026.",
@@ -43,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoor-drops-bts-glimpse-from-cocktail-2-sets-with-kriti-sanon-and-rashmika-mandanna-joining-the-fun-the-party-it-was/articleshow/130283904.cms",
     "time": "2026-04-15T12:45:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "South states will not lose due to delimitation, will clarify in Parliament: Centre",
-    "desc": "Amit Shah had assured party representatives, who met him in recent weeks, that the strength of the Lok Sabha would increase by 50%, to be distributed across States in their existing proportions — that is, a 50% increase in the number of Lok Sabha seats from each individual State",
-    "img": "https://th-i.thgim.com/public/incoming/4zm9i3/article70864901.ece/alternates/LANDSCAPE_1200/20260402482L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/south-states-will-not-lose-due-to-delimitation-will-clarify-in-parliament-centre/article70864566.ece",
-    "time": "2026-04-15T12:44:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -81,24 +243,6 @@ const newsData_en = [
     "time": "2026-04-15T12:31:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Centre mulls delimitation based on 2011 Census to fast-track Women’s Reservation Act",
-    "desc": "“Under the amendments that the government wants to bring in, the basis for the selection of seats will be the Census data of 2011. The number of seats in Parliament will increase to 816, out of which 273 will be reserved for women,” a source said",
-    "img": "https://th-i.thgim.com/public/incoming/54sn6b/article70776915.ece/alternates/LANDSCAPE_1200/women%20reservation%20bill.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/govt-revs-up-consultations-on-early-implementation-of-womens-reservation-act/article70776010.ece",
-    "time": "2026-04-15T12:26:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What will hold up women’s reservation Bill?",
-    "desc": "Why will the implementation be delayed by several years? When will the Census and delimitation exercise take place? Is there a timeline? Why are some parties demanding a sub-quota for women from Other Backward Classes?",
-    "img": "https://th-i.thgim.com/public/incoming/mxm8oe/article67339394.ece/alternates/LANDSCAPE_1200/20230922318L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/what-will-hold-up-womens-reservation-bill-explained/article67339000.ece",
-    "time": "2026-04-15T12:25:42.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'SRK has never told Gauri he's tired, he's been a hands-on father'",
     "desc": "Shah Rukh Khan's former security chief, Yaseen Khan, lauded the superstar as a hands-on father, highlighting his active involvement in his children's lives. Yaseen recalled SRK's dedication to attending sports events, dropping children at school, and even teaching them online while abroad.",
@@ -106,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-has-never-told-gauri-khan-hes-tired-he-would-study-to-tutor-children-aryan-suhana-even-from-the-us-says-his-former-security-chief/articleshow/130283290.cms",
     "time": "2026-04-15T12:08:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How Tamil Nadu’s election fashion got a Gen Z makeover",
-    "desc": "Ahead of the 2026 Tamil Nadu Assembly elections, political style is no longer top-down — from DMK’s Stalin to TVK’s Vijay, leaders, supporters, and fans are fuelling a shift to customised outfits, party merch, and social media-driven fashion",
-    "img": "https://th-i.thgim.com/public/life-and-style/h27cuv/article70864830.ece/alternates/LANDSCAPE_1200/16MP_Collage.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/from-veshtis-to-hoodies-how-tamil-nadu-election-fashion-got-a-gen-z-makeover/article70861679.ece",
-    "time": "2026-04-15T11:57:33.000Z"
   },
   {
     "cat": "Entertainment",
@@ -135,7 +270,7 @@ const newsData_en = [
     "time": "2026-04-15T11:50:50.000Z"
   },
   {
-    "cat": "Politics",
+    "cat": "Business",
     "title": "Employee feedback is now the gold standard for workplace excellence",
     "desc": "The Hindu Best Places to Work Awards 2026, a partnership between The Hindu Group and WorkL, sets a new national standard by measuring workplace excellence by employee opinion over policy, affirming that people are the most critical asset for business success",
     "img": "https://th-i.thgim.com/public/news/national/w6yq3t/article70862452.ece/alternates/LANDSCAPE_1200/LOGO.jpg",
@@ -205,33 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-abhishek-bachchan-aishwarya-rai-bachchan-kumar-sanu-salman-khan-kartik-aaryan-also-gets-protection-of-his-personality-rights-court-to-rule-in-his-favour/articleshow/130281148.cms",
     "time": "2026-04-15T10:41:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delimitation move will reduce southern States’ voice: P. Chidambaram",
-    "desc": "Alleging a planned move, he said the timing coincided with peak election campaigning, making it difficult for Members of Parliament from Tamil Nadu and West Bengal to attend. He claimed this was intended to limit opposition to certain amendments.",
-    "img": "https://th-i.thgim.com/public/incoming/fssdwm/article70864561.ece/alternates/LANDSCAPE_1200/DSC_4751.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/delimitation-move-will-reduce-southern-states-voice-p-chidambaram/article70864279.ece",
-    "time": "2026-04-15T10:22:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Noida workers’ protests: Two RJD spokespersons booked for sharing ‘misleading’ video, inciting tension",
-    "desc": "The RJD leaders have been accused of linking an incident in Madhya Pradesh, where a man was beaten up by police, to the ongoing labour protests in Noida, and of inciting tension by posting about the matter on X",
-    "img": "https://th-i.thgim.com/public/incoming/m2ts28/article70864712.ece/alternates/LANDSCAPE_1200/PTI04_14_2026_000136A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/noida-workers-protests-two-rjd-spokespersons-booked-for-sharing-misleading-video-inciting-tension/article70864646.ece",
-    "time": "2026-04-15T10:20:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pushed into Bangladesh last year, 6 men from Murshidabad will vote to prove where they belong",
-    "desc": "Six men had travelled to Maharashtra for work and returned carrying not only trauma but also a new fear — that even after coming home, they would have to prove they belonged to the country",
-    "img": "https://th-i.thgim.com/public/incoming/o7docw/article70856531.ece/alternates/LANDSCAPE_1200/PTI04_12_2026_000061A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/pushed-back-into-bangladesh-last-year-6-men-from-murshidabad-will-vote-to-prove-where-they-belong/article70856515.ece",
-    "time": "2026-04-15T09:54:55.000Z"
   },
   {
     "cat": "World",
@@ -351,33 +459,6 @@ const newsData_en = [
     "time": "2026-04-15T08:39:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Joey Fatone recalls going bankrupt",
-    "desc": "Joey Fatone, the beloved former NSYNC sensation, recently shared an astonishing tale of financial turmoil that saw him flirting with bankruptcy. One particularly unforgettable Christmas Eve included a power shut-off due to overdue bills, a stark reminder of his precarious situation. Although his accountant had previously assured him of stability, the hiatus of NSYNC left him grappling with unexpected challenges.",
-    "img": "https://static.toiimg.com/photo/msid-130277407,imgsize-92746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/nsync-fame-joey-fatone-recalls-going-bankrupt-says-he-was-asking-people-for-money-amid-his-financial-crises/articleshow/130277407.cms",
-    "time": "2026-04-15T08:22:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "A man gatecrashed Virat Kohli, Anushka Sharma's wedding in Italy",
-    "desc": "Anushka Sharma and Virat Kohli's 2017 wedding saw an unexpected gatecrasher, disguised as a maharaja, slip past security. The security chief revealed the imposter was eventually identified and asked to leave after claiming to be a guest for the Delhi reception. The article also touches on security challenges at Deepika Padukone and Ranveer Singh's Mumbai reception.",
-    "img": "https://static.toiimg.com/photo/msid-130277070,imgsize-55972.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/a-man-gatecrashed-virat-kohli-anushka-sharmas-wedding-in-italy-reveals-security-in-charge-he-arrived-in-a-bmw/articleshow/130277067.cms",
-    "time": "2026-04-15T08:10:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prince breaks into song",
-    "desc": "Prince Harry delighted attendees at a Melbourne mental health event by spontaneously singing and dancing to 'The Wiggles,' inspired by his children's love for the band. The royal, presented with jerseys for Archie and Lilibet, emphasized the importance of open conversations about men's mental health and access to therapy during his Australian visit.",
-    "img": "https://static.toiimg.com/photo/msid-130276679,imgsize-131120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/prince-harry-breaks-into-song-and-dance-over-his-and-meghan-markles-kids-love-for-the-wiggles-during-australia-tour/articleshow/130276618.cms",
-    "time": "2026-04-15T07:51:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Bumrah is a star, but…': Munaf Patel drops truth bomb on Indian fast bowlers",
     "desc": "Munaf Patel called Jasprit Bumrah a superstar but said his popularity still lags behind Virat Kohli’s. He also flagged India’s fast-bowling gap, noting 140+ kmph pacers get priority while others are overlooked, and stressed the need for better scientific training to develop genuine pace bowlers.",
@@ -486,24 +567,6 @@ const newsData_en = [
     "time": "2026-04-15T04:47:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "From selling off mother’s jewellery for spikes to dream IPL debut: Sakib’s journey",
-    "desc": "Sakib Hussain, a young cricketer from Bihar, made a remarkable IPL debut, taking 4 wickets for 24 runs. His journey from poverty, where his mother sold jewelry for his cricket spikes, highlights his resilience. Hussain's talent and determination, despite financial struggles, have propelled him to the big stage, with aspirations to reach 150 kph next season.",
-    "img": "https://static.toiimg.com/photo/msid-130272423,imgsize-12002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/from-selling-off-mothers-jewellery-for-spikes-to-dream-ipl-debut-sakibs-journey/articleshow/130272421.cms",
-    "time": "2026-04-15T03:50:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vijay’s Tiruppur rally called off after 15 faint in scorching heat",
-    "desc": "Tamilaga Vettri Kazhagam president Vijay's rally in Tiruppur was cancelled after at least 15 supporters collapsed due to severe heat and overcrowding. The decision was made following police advice to prevent a repeat of the Karur stampede, with Vijay departing for Coimbatore.",
-    "img": "https://static.toiimg.com/photo/msid-130272255,imgsize-26198.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-polls-vijays-tiruppur-rally-called-off-after-15-faint-in-scorching-heat/articleshow/130272265.cms",
-    "time": "2026-04-15T03:36:40.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Crude steadies after slump as US, Iran eye fresh peace talks",
     "desc": "Oil prices dipped for a second day as hopes for US-Iran talks eased supply worries. Brent crude futures fell to $94.27, and WTI to $90.24, though later saw a slight uptick. Diplomatic signals suggest negotiations might restart, potentially impacting flows through the Strait of Hormuz.",
@@ -523,15 +586,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "IPL Match Today, RCB vs LSG: Predicted playing XI, head-to-head, pitch report, Bengaluru weather update",
-    "desc": "Defending champions RCB, boasting the IPL's top batting lineup, clash with Lucknow Super Giants' economical bowling attack today. RCB, third in the standings, aims to continue their high-scoring spree, while seventh-placed LSG seeks a turnaround. Expect a run-fest at the M. Chinnaswamy Stadium as these contrasting teams battle it out.",
-    "img": "https://static.toiimg.com/photo/msid-130271737,imgsize-83612.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-match-today-rcb-vs-lsg-predicted-playing-xi-head-to-head-pitch-report-bengaluru-weather-update/articleshow/130271712.cms",
-    "time": "2026-04-15T02:58:23.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "3 players, one crown: How can India's Vaishali win Women's Candidates at eleventh hour?",
     "desc": "India’s Vaishali Rameshbabu, Kazakhstan's Bibisara Assaubayeva, and China’s Zhu Jiner. Vaishali and Bibisara currently lead with 7.5/13 points, followed by Jiner on 7/13. The math is simple yet somewhat disquieting. If Vaishali and Bibisara both win their final games, they head into a tie-break on Thursday.",
     "img": "https://static.toiimg.com/photo/msid-130271060,imgsize-96046.cms",
@@ -547,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/interview-saurav-ghosal-if-we-have-to-become-a-global-superpower-we-need-a-system-to-produce-it/article70862659.ece",
     "time": "2026-04-14T18:55:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Noor's trickery stands out as CSK hand KKR 4th defeat in 5 games",
-    "desc": "Kolkata Knight Riders slumped to a 32-run loss against Chennai Super Kings, exposing flaws in their batting approach and planning. Noor Ahmad’s spell triggered a collapse, while Rahane’s slow innings hurt the chase. Earlier, CSK posted 192/5 with key contributions from Samson, Mhatre and Brevis, before controlling the game with disciplined bowling.",
-    "img": "https://static.toiimg.com/photo/msid-130266687,imgsize-82982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-noor-ahmads-trickery-stands-out-as-csk-hand-kkr-fourth-defeat-in-5-games/articleshow/130266529.cms",
-    "time": "2026-04-14T18:33:34.000Z"
   },
   {
     "cat": "World",
@@ -666,6 +711,33 @@ const newsData_en = [
     "time": "2026-04-13T18:19:05.000Z"
   },
   {
+    "cat": "Business",
+    "title": "Rise in middle class vulnerability",
+    "desc": "India is lifting its people out of income-based poverty but not moving them ahead for better upward mobility and economic opportunity. A World Bank policy paper proposes shifting welfare analysis from merely counting those below the poverty line to measuring how far people are from a reasonable standard of living.",
+    "img": "https://th-i.thgim.com/public/incoming/8rahq3/article70858967.ece/alternates/LANDSCAPE_1200/2013-12-28T125142Z_1974053233_GM1E94M1H9P01_RTRMADP_3_INDIA-ECONOMY-INFLATION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rise-in-middle-class-vulnerability/article70858958.ece",
+    "time": "2026-04-13T17:54:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil jumps 8% to above $100 ahead of U.S. blockade on Strait of Hormuz",
+    "desc": "President Donald Trump said on Sunday (April 12, 2026) the U.S. Navy would start blockading the Strait of Hormuz, ​raising the stakes after marathon talks with ‌Iran failed to reach a deal to end the war",
+    "img": "https://th-i.thgim.com/public/incoming/wme2q1/article70856034.ece/alternates/LANDSCAPE_1200/2026-03-24T161626Z_543346605_RC24BKAFWIVW_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/oil-prices-brent-crude-strait-of-hormuz-iran-blockade-april-13-2026/article70856028.ece",
+    "time": "2026-04-13T11:20:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "World Bank chief sounds alarm about looming jobs crisis even after war ends",
+    "desc": "At current trajectories, developing economies will ⁠generate only about 400 million jobs, leaving a deficit of 800 million jobs, for the 1.2 billion people who will reach working ​age in the next 10 to 15 years, World Bank chief Ajay Banga said",
+    "img": "https://th-i.thgim.com/public/incoming/89dtn0/article70856745.ece/alternates/LANDSCAPE_1200/2026-04-13T070100Z_2094135849_RC2FMKAJ65A6_RTRMADP_3_IMF-WORLDBANK-BANGA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/world-bank-chief-sounds-alarm-about-looming-jobs-crisis-even-after-war-ends/article70856709.ece",
+    "time": "2026-04-13T08:35:08.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "the voice that defied genres, time",
     "desc": "Asha’s voice felt like a friend, a co-conspirator, or a mirror — someone who had been through the messiness of life and still chose to sing, dance, and seduce with full-throated joy; the most-recorded artist will be remembered for her fearless spirit, versatility, and playful charm",
@@ -673,6 +745,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/asha-bhosle-legendary-singer-death-obituary/article70854485.ece",
     "time": "2026-04-13T05:52:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee plunges 49 paise to 93.32 against U.S. dollar in early trade",
+    "desc": "At the interbank foreign exchange market, the rupee opened at 93.30 against the U.S. dollar and lost further ground, trading at 93.32 against the greenback in early deals, down 49 paise from its previous closing level",
+    "img": "https://th-i.thgim.com/public/incoming/yd01vg/article70856281.ece/alternates/LANDSCAPE_1200/2026-04-07T073327Z_1655495302_RC2HDJA6G9QO_RTRMADP_3_INDIA-RUPEE-ARBITRAGE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/rupee-plunges-49-paise-to-9332-against-us-dollar-in-early-trade/article70856256.ece",
+    "time": "2026-04-13T04:58:22.000Z"
   },
   {
     "cat": "Sports",
@@ -817,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
     "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

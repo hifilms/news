@@ -1,7 +1,52 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Defending champions Bengaluru host Lucknow in battle of contrasts",
+    "title": "Ben Stokes feels he was 'quite lucky' to be alive after nasty cheekbone blow",
+    "desc": "Ben Stokes said he feels 'quite lucky' to be alive after being hit in the face by a cricket ball, the England captain revealed on Wednesday. Stokes required surgery after fracturing his right cheekbone in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-feels-he-was-quite-lucky-to-be-alive-after-nasty-cheekbone-blow-2026-04-15-1037677",
+    "time": "2026-04-15T16:01:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma all but out of PBKS clash in IPL 2026, who can open with Ryan Rickelton for Mumbai Indians?",
+    "desc": "Mumbai Indians opener Rohit Sharma is all but out of the IPL 2026 clash against Punjab Kings, owing to a hamstring injury. While batting against Royal Challengers Bengaluru, the veteran complained of the issue and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-all-but-out-of-pbks-clash-in-ipl-2026-who-can-open-with-ryan-rickelton-for-mumbai-indians-2026-04-15-1037674",
+    "time": "2026-04-15T15:45:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Trophyless for six years, inconsistent in 2026, do Mumbai Indians need wholesome changes? Aaron Finch opines",
+    "desc": "Mumbai Indians have won just one of their first four matches in the ongoing IPL 2026. Under the leadership of Rohit Sharma, they were a fearless unit, having won the title on five occasions, but...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/trophyless-for-six-years-inconsistent-in-2026-do-mumbai-indians-need-wholesome-changes-aaron-finch-opines-2026-04-15-1037672",
+    "time": "2026-04-15T14:57:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is Virat Kohli playing today's IPL 2026 match for RCB against LSG at M.Chinnaswamy Stadium?",
+    "desc": "In a big relief for Royal Challengers Bengaluru fans, batting maestro Virat Kohli is set to be back in action for his team's IPL 2026 clash against the Lucknow Super Giants at the M.Chinnaswamy Stadium...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-virat-kohli-playing-todays-ipl-2026-clash-for-rcb-against-lsg-at-m-chinnaswamy-stadium-2026-04-15-1037661",
+    "time": "2026-04-15T13:33:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pat Cummins shares major update on fitness, reveals to be out for few more days",
+    "desc": "Sunrisers Hyderabad captain Pat Cummins has revealed he will not play the upcoming clash against Chennai Super Kings on April 18. Adding to that, the all-rounder also ruled himself out of the contest against Delhi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-shares-major-update-on-fitness-reveals-to-be-out-for-few-more-days-2026-04-15-1037660",
+    "time": "2026-04-15T13:21:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lucknow bowled out for 146 as Bengaluru bowlers star",
     "desc": "Royal Challengers Bengaluru bank on their explosive batting unit once again as they aim to overpower an inconsistent Lucknow Super Giants and break away from the mid-table congestion in their IPL clash. RCB currently sit...",
     "img": "",
     "src": "indiatvnews.com",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/falling-of-the-csk-jigsaw-in-place-is-ruturaj-gaikwad-the-opener-a-puzzle-to-chennais-batting-2026-04-15-1037639",
     "time": "2026-04-15T11:25:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former IPL champion wants Nicholas Pooran to bounce back and make a statement against RCB",
-    "desc": "Lucknow Super Giants have won and lost two matches in the ongoing IPL 2026 and are currently seventh on the points table. The bowling unit has been their strongest force, with Mohammed Shami and Prince...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-ipl-champion-wants-nicholas-pooran-to-bounce-back-and-make-a-statement-against-rcb-2026-04-15-1037630",
-    "time": "2026-04-15T10:20:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Player battles to watch out for in IPL 2026 Match 23",
-    "desc": "Royal Challengers Bengaluru and Lucknow Super Giants will face each other today in the 23rd match of the Indian Premier League (IPL) at the Chinnaswamy Stadium in Bengaluru. RCB are in great form this season...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-lsg-3-player-battles-to-watch-out-for-in-ipl-2026-match-23-2026-04-15-1037609",
-    "time": "2026-04-15T06:38:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Viktor Axelsen, two-time world and Olympic champion, retires from professional badminton at 32",
-    "desc": "Viktor Axelsen, a two-time Olympic and world champion from Denmark, has announced his retirement from professional badminton at the age of 32, marking an end to a stunning 16-year career. He was troubled with persistent...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/viktor-axelsen-two-time-world-and-olympic-champion-retires-from-professional-badminton-at-32-2026-04-15-1037608",
-    "time": "2026-04-15T06:33:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will MS Dhoni play CSK's next match against SRH in IPL 2026? Whom will he replace?",
-    "desc": "Chennai Super Kings seem to have finally found their groove in the ongoing edition of the Indian Premier League (IPL). They have won their last two matches after starting their campaign with a hat-trick of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-ms-dhoni-play-csk-s-next-match-against-srh-in-ipl-2026-whom-will-he-replace-2026-04-15-1037594",
-    "time": "2026-04-15T04:45:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mumbai Indians' star batter skips net session, to miss PBKS clash?",
-    "desc": "Mumbai Indians batter Rohit Sharma walked off retired hurt during the game against the Royal Challengers Bengaluru (RCB) on Sunday. MI are set to face the Punjab Kings at the Wankhede Stadium in Mumbai on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-mumbai-indians-star-batter-skips-net-session-to-miss-pbks-clash-2026-04-15-1037575",
-    "time": "2026-04-15T03:21:14.000Z"
   }
 ];

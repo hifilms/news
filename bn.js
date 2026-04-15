@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "রত্নভান্ডারের রহস্য-সন্ধানের মধ্যেই পুরীতে বিরাট ঘটনা! নববৈশাখেই 'স্থান'বদল জগন্নাথমন্দিরের দেবতার",
+    "desc": "পুরী জগন্নাথ মন্দিরের তিন বিগ্রহের জন্য নতুন বিশ্রামের স্থান তৈরি হল। শ্রী জগন্নাথ মন্দির প্রশাসন মঙ্গলবার জগন্নাথ, বলরাম এবং সুভদ্রার জন্য নবনির্মিত এক 'রত্ন পালঙ্ক' উৎসর্গ করেছে মন্দিরে। পুরনো পালঙ্ক জীর্ণ হয়ে যাওয়ায় সেগুলির পরিবর্তে এই নতুন পালঙ্ক আনা হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/new-resting-place-for-jagannath-dev-puri-shrines-sibling-deities-get-new-resting-place-on-tuesday_648938.html ",
+    "time": "2026-04-15T13:58:13.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "লোকসভার আসন বেড়ে হচ্ছে ৮৫০? ভারত চালাবে ইউপি-বিহার? বাকিরা গৌণ?",
     "desc": "এই তিনটি বিল একসঙ্গে পাস হলে একলাফে লোকসভার আসনসংখ্যা ৫৪৩ থেকে বেড়ে হবে ৮৫০। এর মধ্যে ৮১৫ জন সাংসদ নির্বাচিত হবেন রাজ্য থেকে আর ৩৫ জন কেন্দ্রশাসিত অঞ্চল থেকে। প্রায় ২৭৩টি আসন সংরক্ষিত থাকবে মহিলাদের জন্য।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -61,15 +70,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/student-deaths-7-deaths-telangana-intermediate-results-trigger-wave-of-student-suicides_648729.html ",
     "time": "2026-04-14T09:49:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "পাক মদতেই হিংসা নয়ডায়? শ্রমিকদের ন্যূনতম মজুরি ৩০০০ টাকা বাড়াল সরকার- কাদের কত হল মজুরি?",
-    "desc": "বিক্ষোভের পর উত্তরপ্রদেশ সরকার বিভিন্ন শ্রেণির শ্রমিকদের ন্যূনতম মজুরি ৩০০০ টাকা বাড়িয়েছে। একটি উচ্চপর্যায়ের কমিটি এই মজুরি বৃদ্ধির প্রস্তাব অনুমোদন করে এবং সোমবার রাতেই মুখ্যমন্ত্রী যোগী আদিত্যনাথ তাতে সম্মতি দেন। উত্তরপ্রদেশের শ্রমমন্ত্রী অনিল রাজভর বিক্ষোভে হিংসাকে “পরিকল্পিত ষড়যন্ত্র” বলে মন্তব্য করেছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/noida-protest-pak-link-under-scanner-up-govt-hikes-minimum-wages-up-to-rs-3000-for-workers_648698.html ",
-    "time": "2026-04-14T07:42:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -160,15 +160,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/entertainment-news-asha-bhosle-suffers-cardiac-arrest-hospitalised-in-breach-candy-hospital_648378.html ",
     "time": "2026-04-11T15:59:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "মাত্র ৩৯-এ সব শেষ, মারা যাওয়ার পর হাসপাতাল বিল মেটানোর ৩৫০০ টাকাও নেই: বিখ্যাত নায়িকার করুণ পরিণতি",
-    "desc": "মীনাকুমারী—রুপোলি পর্দার ‘ট্র্যাজেডি কুইন’। যাঁর চোখের জল আর অভিনয়ের গভীরতা দশকের পর দশক দর্শকদের মন্ত্রমুগ্ধ করে রেখেছে। কিন্তু পর্দার সেই বিষাদ যে তাঁর বাস্তব জীবনেরও প্রতিচ্ছবি ছিল, তা হয়তো অনেকেরই অজানা। সম্প্রতি এই কিংবদন্তি অভিনেত্রীর প্রয়াণ দিবসে উঠে এল তাঁর জীবনের এক চরম সত্য।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/meena-kumari-death-poverty-hospital-bill-controversy-pakeezah-star_648365.html ",
-    "time": "2026-04-11T14:04:30.000Z"
   },
   {
     "cat": "World",
