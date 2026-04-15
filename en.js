@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "VCK pulling out all stops to keep PMK at bay in Kattumannarkoil contest",
+    "desc": "While the VCK is seeking to consolidate its dominance, the PMK is looking to rewire the caste equations in the northern districts. The contest looks evenly balanced, with Adi Dravidar and Muslim voters aligning with the DMK alliance, and Vanniyars consolidating behind the AIADMK front",
+    "img": "https://th-i.thgim.com/public/incoming/7ol0wa/article70866127.ece/alternates/LANDSCAPE_1200/11658_15_4_2026_20_33_30_4__DSC7192.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/vck-pulling-out-all-stops-to-keep-pmk-at-bay-in-kattumannarkoil-contest/article70861075.ece",
+    "time": "2026-04-15T18:21:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mrunal says ‘trust was shaken’ on SoS2; scenes with Roshni cut",
+    "desc": "A Love Story, but it’s her candid remarks about Son of Sardaar 2 that have grabbed attention. In a recent interview, the actress admitted she was left disappointed over unexpected casting choices and key scenes with Roshni Walia being edited out.",
+    "img": "https://static.toiimg.com/photo/msid-130291517,imgsize-58964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-says-trust-was-shaken-on-son-of-sardaar-2-scenes-with-roshni-walia-cut-i-didnt-know-a-senior-actor-was-my-husband/articleshow/130291517.cms",
+    "time": "2026-04-15T18:20:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB jump to top after win, LSG remain at 7th",
+    "desc": "Royal Challengers Bengaluru have claimed the IPL 2026 top spot after a dominant win over Lucknow Super Giants. With four wins from five, RCB now lead the table on net run rate, showcasing strong early-season form. Punjab Kings remain the sole unbeaten team, while a congested middle pack sees several teams tied on points.",
+    "img": "https://static.toiimg.com/photo/msid-130291593,imgsize-65418.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-points-table-after-match-23-rcb-jump-to-top-after-win-lsg-stuck-at-7th/articleshow/130291425.cms",
+    "time": "2026-04-15T18:20:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Crushed dreams, close escapes, and questions of survival after a power plant tragedy",
+    "desc": "There were similar scenes at the government hospital in Raigarh, where a group of migrant workers from West Bengal’s Haldia await the bodies of their colleagues who had all joined the power plant nearly 45 days ago",
+    "img": "https://th-i.thgim.com/public/incoming/zfxo4t/article70866498.ece/alternates/LANDSCAPE_1200/20260414496L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/crushed-dreams-close-escapes-and-questions-of-survival-after-a-power-plant-tragedy/article70865916.ece",
+    "time": "2026-04-15T17:58:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kohli powers RCB to top as Hazlewood, Bhuvneshwar wreck LSG batters",
+    "desc": "Veteran bowlers Bhuvneshwar Kumar and Josh Hazlewood, alongside Rasikh Dar, spearheaded Royal Challengers Bengaluru's dominant bowling performance, bundling Lucknow Super Giants for 146 in Bengaluru. Despite a brief wobble, RCB secured a five-wicket victory, extending their unbeaten home run. Virat Kohli's quickfire 49 laid the foundation for the successful chase.",
+    "img": "https://static.toiimg.com/photo/msid-130290794,imgsize-64542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-virat-kohli-powers-rcb-to-top-as-josh-hazlewood-bhuvneshwar-kumar-wreck-lsg-batters/articleshow/130290713.cms",
+    "time": "2026-04-15T17:48:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "12 lakh households complete self-enumeration across 11 states",
+    "desc": "With conclusion of the 15-day self-enumeration window on Wednesday across Andaman and Nicobar Islands, Goa, Karnataka, Odisha, NDMC and cantonment areas of Delhi NCR, Mizoram, Sikkim and Lakshadweep, the census field operations, involving house-to-house visits by the enumerators, in the eight states/UTs will begin on Thursday. The HLO phase of the census forms an essential foundation for evidence-based planning and formulation of welfare and development programmes, a home ministry spokesperson said on Monday.",
+    "img": "https://static.toiimg.com/photo/msid-130290477,imgsize-303820.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/census-2027-12-lakh-households-complete-self-enumeration-across-11-states/articleshow/130290503.cms",
+    "time": "2026-04-15T17:30:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Delimitation controversy & Bihar’s first BJP CM",
+    "desc": "AICC President and Leader of Opposition in Rajya Sabha Mallikarjun Kharge said that the INDIA bloc leaders have concluded deliberations on the Delimitation Bill, and the group has “unitedly” decided to oppose the Bill. In other news, Samrat Choudhary is sworn in as Bihar’s first BJP Chief Minister, the death toll rises to 16 in the Sakti power plant explosion in Chhattisgarh, and registration begins for the Amarnath Yatra starting July 3.",
+    "img": "https://th-i.thgim.com/public/news/national/9fdtnx/article70866453.ece/alternates/LANDSCAPE_1200/DO%20NOT%20EDIT%20FINAL%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-delimitation-controversy-bihars-first-bjp-cm-above-the-fold-15042026/article70866454.ece",
+    "time": "2026-04-15T17:30:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How much money did R Vaishali win after Women's Candidates victory?",
+    "desc": "R Vaishali won the 2026 Women’s Candidates with 8.5/14, earning €28,000 plus €2,200 per half-point, taking her total beyond €40,000. Her victory also secures a World Championship clash against Ju Wenjun, offering bigger prize money and global recognition in the next stage.",
+    "img": "https://static.toiimg.com/photo/msid-130290462,imgsize-74922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/how-much-money-did-r-vaishali-win-after-historic-womens-candidates-2026-victory/articleshow/130290400.cms",
+    "time": "2026-04-15T17:29:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rs 90,000 crore from Urban Challenge Fund to back city projects",
+    "desc": "A new Rs 1 lakh crore Urban Challenge Fund will support 60 types of city projects. This includes infrastructure, old city revitalization, and waste recycling. The Centre will release funds within six months. A Rs 5,000 crore Credit Repayment Guarantee Sub-Scheme is also launched.",
+    "img": "https://static.toiimg.com/photo/msid-130290458,imgsize-610945.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rs-90000-crore-from-urban-challenge-fund-to-back-city-projects/articleshow/130290461.cms",
+    "time": "2026-04-15T17:29:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mahesh Bhatt on Pehchaan, Raha Kapoor, Asha Bhosle",
+    "desc": "Filmmaker Mahesh Bhatt is set to anchor Pehchaan, a show that brings together 13 Sikh voices and their stories of resilience, faith and service. In an exclusive conversation with ETimes, the veteran filmmaker opened up about spirituality, unlearning, fatherhood, his bond with granddaughter Raha Kapoor, and his memories of legendary singer Asha Bhosle—while reflecting on finding meaning beyond identity.",
+    "img": "https://static.toiimg.com/photo/msid-130289531,imgsize-17860.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahesh-bhatt-opens-up-on-pehchaan-it-was-a-mirror-not-a-show-calls-raha-kapoor-a-drop-of-divinity-recalls-asha-bhosle-memory-exclusive/articleshow/130289531.cms",
+    "time": "2026-04-15T16:55:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED searches AAP MP’s premises, linked educational institutions under FEMA",
+    "desc": "The ED searched 10 locations in Haryana’s Gurugram and Jalandhar, Punjab. An agency official said Lovely Professional University, Tetr College of Business and Masters’ Union School of Business were covered, besides the premises of Mr. Mittal.",
+    "img": "https://th-i.thgim.com/public/incoming/4w7jof/article70865973.ece/alternates/LANDSCAPE_1200/PTI04_15_2026_000238B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ed-raids-at-business-entities-linked-to-aap-mp-ashok-mittal-in-punjab/article70863944.ece",
+    "time": "2026-04-15T16:42:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Will resolve Gurkha issues as a priority once BJP comes to power in West Bengal, says Amit Shah",
+    "desc": "The issue of permanent political solution to the Gurkha issue, which essentially means that the administrative control of the Darjeeling hills should wrest with the Gurkha people, has dominated the politics of the Darjeeling hills for several decades since the 1980s",
+    "img": "https://th-i.thgim.com/public/incoming/s0miyq/article70866340.ece/alternates/LANDSCAPE_1200/PTI04_15_2026_000403B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/will-prioritise-resolving-gorkha-issue-after-winning-bengal-polls-2026-amit-shah/article70864507.ece",
+    "time": "2026-04-15T16:39:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Activists seek delinking of women’s reservation from Census, delimitation",
+    "desc": "‘At a flat 33% of all seats, women’s reservation is not linked to population counts or legislatures’ expansion, it can be applied to the current or any strength of the legislatures,’ the petition signed by nearly 500 activists says",
+    "img": "https://th-i.thgim.com/public/incoming/54sn6b/article70776915.ece/alternates/LANDSCAPE_1200/women%20reservation%20bill.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/activists-seek-delinking-of-womens-reservation-from-census-delimitation/article70865499.ece",
+    "time": "2026-04-15T16:29:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran ups threats over naval blockade, but still talking to U.S.",
+    "desc": "Foreign Minister Abbas Araghchi welcomed in Tehran on Wednesday (April 15) a Pakistani delegation led by army chief Asim Munir that Iranian state television said was to relay a new U.S. message and discuss a second round of talks.",
+    "img": "https://th-i.thgim.com/public/incoming/tf6te7/article70866311.ece/alternates/LANDSCAPE_1200/2026-04-12T135436Z_1625689504_RC2GNKAEZCWQ_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-ups-threats-over-naval-blockade-but-still-talking-to-us/article70866296.ece",
+    "time": "2026-04-15T16:29:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Historic! India's Vaishali wins Women's Candidates, sets up World C'ship match",
+    "desc": "R Vaishali created history by winning the 2026 Women’s Candidates, earning the right to challenge China’s reigning champion Ju Wenjun for the Women’s World Chess Championship crown. She beat Kateryna Lagno in the final round after Divya Deshmukh held Bibisara Assaubayeva to a draw. Vaishali now faces reigning champion Ju Wenjun and is guaranteed €28,000 plus additional bonuses.",
+    "img": "https://static.toiimg.com/photo/msid-130289034,imgsize-57036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/historic-indias-r-vaishali-wins-womens-candidates-sets-up-world-cship-match-against-chinas-ju-wenjun/articleshow/130288852.cms",
+    "time": "2026-04-15T16:27:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 RCB vs LSG",
+    "desc": "The night turned out to be even grimmer for the Super Giants as their skipper Rishabh Pant had to retire hurt on zero after a copping a blow on his left elbow by RCB pacer Hazlewood.",
+    "img": "https://th-i.thgim.com/public/incoming/nzw75h/article70866245.ece/alternates/LANDSCAPE_1200/2026-04-15T160009Z_328336853_UP1EM4F18G896_RTRMADP_3_CRICKET-IPL-RCB-LSG.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ipl-2026-royal-challengers-bengaluru-lucknow-super-giants-virat-kohli-rishabh-pant-updates/article70865567.ece",
+    "time": "2026-04-15T16:08:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Gaza civil defence says toddler among 10 killed in Israeli strikes",
+    "desc": "Mahmoud Bassal, spokesman for the civil defence agency, which operates as a rescue service under Hamas authority, said \"four people were killed, including a child and several others were injured... in a strike targeting a police vehicle\" in Gaza City.",
+    "img": "https://th-i.thgim.com/public/incoming/h4jehd/article70866212.ece/alternates/LANDSCAPE_1200/AFP_A7QR6BM.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/gaza-civil-defence-says-toddler-among-several-killed-in-israeli-strikes-updates/article70866208.ece",
+    "time": "2026-04-15T16:05:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Beneath the euphoria, Bihar’s first BJP Chief Minister faces several significant challenges",
+    "desc": "Not only will the support commanded by ‘Sushashan Babu’ Nitish Kumar by managing complex caste dynamics and delivering on governance be hard to emulate, Samrat Choudhary faces intra-party doubts in his leadership, financial mismanagement, and other administrative issues",
+    "img": "https://th-i.thgim.com/public/incoming/y3qj17/article70864945.ece/alternates/LANDSCAPE_1200/PTI04_15_2026_000184B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/beneath-the-euphoria-bihars-first-bjp-chief-minister-faces-several-significant-challenges/article70865072.ece",
+    "time": "2026-04-15T16:04:06.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Gems and jewellery exports fall to five-year low on U.S. tariffs",
     "desc": "Shipments to the ‌U.S. fell 45% from a year earlier to $5.09 billion, as exports were disrupted for several months after Washington imposed reciprocal ‌tariffs and later added a further 25% ​duty on Indian goods, GJEPC data showed.",
@@ -97,33 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rcb-vs-lsg-ipl-after-three-dots-rishabh-pant-walks-off-what-happened/articleshow/130287021.cms",
     "time": "2026-04-15T14:45:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "the paradox of a revolutionary’s theory and praxis",
-    "desc": "The leader synthesised Indian spirituality with Hegelian dialectics, evolving from an absolute idealist into a pragmatic revolutionary seeking to build a modern, socialist India — an analysis on Bose’s journey through philosophy, politics, and his plans for society and national regeneration",
-    "img": "https://th-i.thgim.com/public/incoming/hoac1z/article70858975.ece/alternates/LANDSCAPE_1200/HP4750.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/subhas-chandra-bose-the-paradox-of-a-revolutionarys-theory-and-praxis/article70858976.ece",
-    "time": "2026-04-15T14:30:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Philosophy, Politics, and Praxis",
-    "desc": "a mystic who embraced science, a democrat who did not shy away from authoritarianism, a patriot who looked toward unified humanity; his egalitarian ideal remains a powerful counter-narrative to fissiparous tendencies in an independent India",
-    "img": "https://th-i.thgim.com/public/incoming/in3o4i/article70862387.ece/alternates/LANDSCAPE_1200/1403000.II2",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/subhas-chandrabose-philosophy-politics-and-praxis-part-2/article70860933.ece",
-    "time": "2026-04-15T14:29:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Yathindra draws line between legacy politics and JD(S) ‘family politics’",
-    "desc": "He says his father did not bring him into politics for ‘collection’ of bribes as alleged by Union Minister for Heavy Industries and Steel H.D. Kumaraswamy, but to assist him in politics after his elder brother died",
-    "img": "https://th-i.thgim.com/public/incoming/28atfa/article70865766.ece/alternates/LANDSCAPE_1200/6702_27_11_2025_18_30_20_1_YATHINDRASIDDARAMAIAH.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/yathindra-draws-line-between-legacy-politics-and-jds-family-politics/article70865131.ece",
-    "time": "2026-04-15T14:17:49.000Z"
   },
   {
     "cat": "Sports",
@@ -405,15 +540,6 @@ const newsData_en = [
     "time": "2026-04-15T09:24:56.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Hrithik Roshan can eat 14 chapattis,' says fitness trainer, Dhurandhar actor Mustafa",
-    "desc": "Fitness trainer Mustafa Ahmed, who worked with Hrithik Roshan and Vicky Kaushal, reveals their surprising eating habits. He also discusses Ranveer Singh's significant weight gain for 'Dhurandhar 2' and his own unexpected acting opportunity in the film.",
-    "img": "https://static.toiimg.com/photo/msid-130279417,imgsize-50122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-can-eat-14-chapattis-vicky-kaushal-can-eat-a-brick-and-digest-it-fitness-trainer-and-dhurandhar-2-actor-mustafa-ahmed-spills-celebrity-fitness-secrets/articleshow/130279389.cms",
-    "time": "2026-04-15T09:18:30.000Z"
-  },
-  {
     "cat": "World",
     "title": "Xi Jinping calls China-Russia ties 'precious' in current international context",
     "desc": "During a meeting with Russian Foreign Minister Sergey Lavrov in Beijing, Mr. Xi said the strong vitality and exemplary significance of the friendship treaty between the two countries stand out even more under such a backdrop",
@@ -448,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/iran-war-impact-will-pakistan-be-forced-into-rationing-if-conflict-drags-on/articleshow/130277261.cms",
     "time": "2026-04-15T08:47:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer's old clip on ban on Pakistani artists in India goes viral",
-    "desc": "Ranveer Singh's film 'Dhurandhar 2' is a box office success, but an old clip of him discussing India's ban on Pakistani artists has resurfaced. In the 2019 clip, Singh stated that the sentiments of soldiers' families should be prioritized, a sentiment netizens are now linking to his role in the film.",
-    "img": "https://static.toiimg.com/photo/msid-130278185,imgsize-26826.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-old-clip-talking-about-ban-on-pakistani-artists-in-india-goes-viral-netizens-say-he-was-perfect-for-dhurandhar/articleshow/130277766.cms",
-    "time": "2026-04-15T08:39:57.000Z"
   },
   {
     "cat": "Sports",
@@ -513,15 +630,6 @@ const newsData_en = [
     "time": "2026-04-15T06:14:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Curbs on nicotine gums, lozenges may make quitting harder, say experts",
-    "desc": "India's top drug advisory body recommends restricting over-the-counter access to most nicotine replacement therapies, sparking concerns that it will hinder smokers' efforts to quit. While tobacco products remain widely available, this move could create more hurdles for those seeking quitting aids, potentially impacting public health initiatives.",
-    "img": "https://static.toiimg.com/photo/msid-130274512,imgsize-19146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/experts-warn-proposed-nicotine-product-restrictions-could-hinder-smoking-cessation-efforts-in-india/articleshow/130274512.cms",
-    "time": "2026-04-15T06:09:49.000Z"
-  },
-  {
     "cat": "World",
     "title": "Minister",
     "desc": "Deputy Defence Minister Aruna Jayasekara said 32 sailors rescued from the IRIS Dena — a frigate attacked on March 4 just off Sri Lanka — and another 206 from the IRIS Bushehr left on April 14, 2026",
@@ -531,24 +639,6 @@ const newsData_en = [
     "time": "2026-04-15T06:08:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Preparation for Punjab polls has begun': Arvind Kejriwal reacts to ED action against AAP MP Ashok Mittal who replaced Raghav Chadha",
-    "desc": "Aam Aadmi Party leader Arvind Kejriwal and Punjab CM Bhagwant Mann have accused Prime Minister Narendra Modi of using the Enforcement Directorate's raid on AAP Rajya Sabha MP Ashok Mittal as election preparation for Punjab. The ED action occurred shortly after Mittal was appointed deputy leader in the Rajya Sabha, replacing Raghav Chadha.",
-    "img": "https://static.toiimg.com/photo/msid-130274446,imgsize-1401526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/preparation-for-punjab-polls-has-begun-arvind-kejriwal-reacts-to-ed-action-against-aap-mp-ashok-mittal-who-replaced-raghav-chadha/articleshow/130274451.cms",
-    "time": "2026-04-15T06:02:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bihar's first BJP CM: Samrat Choudhary takes oath",
-    "desc": "Samrat Choudhary has been sworn in as Bihar's new Chief Minister, marking the BJP's first leader to hold the state's top post. This transition follows Nitish Kumar's departure after over two decades of leadership. Choudhary, a prominent OBC face and former deputy CM, previously served in various parties before joining the BJP in 2017.",
-    "img": "https://static.toiimg.com/photo/msid-130273875,imgsize-29624.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/first-bjp-cm-in-bihar-samrat-choudhary-takes-oath/articleshow/130273548.cms",
-    "time": "2026-04-15T05:30:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How a 'long chat' with MS Dhoni helped Noor Ahmad dismantle KKR, CSK coach reveals",
     "desc": "Noor delivered a match-winning performance with figures of 3/21 in four overs as Chennai Super Kings defeated Kolkata Knight Riders in their IPL 2026 match on Tuesday. He played a key role in breaking the middle order as Kolkata lost control of the chase.",
@@ -556,24 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/how-a-long-chat-with-ms-dhoni-helped-noor-ahmad-dismantle-kkr-csk-coach-reveals-ipl/articleshow/130273529.cms",
     "time": "2026-04-15T05:25:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "GM Sindarov wins Candidates 2026, sets up world title clash with Gukesh",
-    "desc": "Uzbek grandmaster Javokhir Sindarov delivered a dominant, unbeaten performance to win the Candidates Tournament in Cyprus with a round to spare, finishing on 9.5 points. The 20-year-old’s victory sets up a World Championship clash against India’s D Gukesh, creating the youngest-ever title matchup in chess history.",
-    "img": "https://static.toiimg.com/photo/msid-130273177,imgsize-11692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/uzbek-gm-sindarov-storms-to-candidates-title-sets-up-world-clash-with-gukesh/articleshow/130273153.cms",
-    "time": "2026-04-15T04:47:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude steadies after slump as US, Iran eye fresh peace talks",
-    "desc": "Oil prices dipped for a second day as hopes for US-Iran talks eased supply worries. Brent crude futures fell to $94.27, and WTI to $90.24, though later saw a slight uptick. Diplomatic signals suggest negotiations might restart, potentially impacting flows through the Strait of Hormuz.",
-    "img": "https://static.toiimg.com/photo/msid-130272077,imgsize-608977.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/crude-oil-prices-today-15-april-2026-costs-slip-for-second-day-on-hopes-of-us-iran-talks-supply-uncertainty-persists/articleshow/130272032.cms",
-    "time": "2026-04-15T03:25:13.000Z"
   },
   {
     "cat": "Sports",
@@ -691,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/made-lot-of-progress-ball-in-irans-court-vance/article70860022.ece",
     "time": "2026-04-14T03:27:26.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Donald Trump vows U.S. will sink any Iran boats that challenge blockade",
-    "desc": "The U.S. military said the blockade would begin at 1930 hours IST and apply to all ships leaving or seeking to dock at Iranian harbours, but as the deadline passed there was no announcement that the measure had come into effect, nor sign of any interceptions",
-    "img": "https://th-i.thgim.com/public/incoming/xypo4j/article70858619.ece/alternates/LANDSCAPE_1200/Trump_73935.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/donald-trump-vows-us-will-sink-any-iran-boats-that-challenge-blockade/article70858590.ece",
-    "time": "2026-04-14T01:27:04.000Z"
   },
   {
     "cat": "Sports",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
   }
 ];

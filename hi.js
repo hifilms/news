@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rubel Hossain announces retirement from international cricket",
+    "desc": "Bangladesh fast bowler Rubel Hossain on Wednesday announced his retirement from international cricket. The 36-year-old walks away as the fifth leading wicket-taker for Bangladesh in the ODI format. The speedster made his announcement through a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rubel-hossain-announces-retirement-from-international-cricket-2026-04-15-1037689",
+    "time": "2026-04-15T18:27:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Josh Hazlewood play RCB's all remaining games in IPL 2026 or manage workload? Pacer shares update",
+    "desc": "Josh Hazlewood missed the first three games for Royal Challengers Bengaluru before returning to the playing XI against Rajasthan Royals. He produced an impressive show in the match, claiming two wickets, but RCB suffered a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-josh-hazlewood-play-rcb-s-all-remaining-games-in-ipl-2026-or-manage-workload-pacer-shares-update-2026-04-15-1037688",
+    "time": "2026-04-15T18:19:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajat Patidar is a super talent, but no room for India T20I team at the moment, believes Aaron Finch",
+    "desc": "Royal Challengers Bengaluru captain Rajat Patidar has been one of the most consistent performers so far in the IPL 2026. He scored 222 runs in five matches at a whopping strike rate of 213.46 and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajat-patidar-is-a-super-talent-but-no-room-for-india-t20i-team-at-the-moment-believes-aaron-finch-2026-04-15-1037686",
+    "time": "2026-04-15T18:03:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB talisman opens up on his injury issue after his impact sub role vs LSG",
+    "desc": "Royal Challengers Bengaluru talisman Virat Kohli dropped a major update on his injury and health after his team's win over the Lucknow Super Giants at the M.Chinnaswamy Stadium on Wednesday, April 15. Kohli played a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-fitness-update-rcb-talisman-opens-up-on-his-injury-issue-after-his-impact-sub-role-vs-lsg-2026-04-15-1037684",
+    "time": "2026-04-15T17:36:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "LSG no match to RCB's all-round show as Bengaluru register comfortable five-wicket win",
+    "desc": "Royal Challengers Bengaluru defeated Lucknow Super Giants by five wickets at the M Chinnaswamy Stadium. The Rishabh Pant-led side showed little intent with the bat and that arguably sealed their fate. Opener Aiden Markram made...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lsg-no-match-to-rcb-s-all-round-show-as-bengaluru-register-comfortable-five-wicket-win-2026-04-15-1037683",
+    "time": "2026-04-15T17:19:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Wankhede Stadium in Mumbai play?",
+    "desc": "After three consecutive defeats, Mumbai Indians will host Punjab Kings in their fifth match of the IPL 2026 campaign at the Wankhede Stadium in Mumbai. Ahead of that, the Hardik Pandya-led side suffered a huge...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-pbks-pitch-report-how-will-surface-at-wankhede-stadium-in-mumbai-play-2026-04-15-1037679",
+    "time": "2026-04-15T16:33:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is leading LSG as Rishabh Pant is ruled out of second innings of IPL 2026 clash against RCB?",
+    "desc": "Lucknow Super Giants captain Rishabh Pant suffered an elbow injury during the clash against Royal Challengers Bengaluru at the M Chinnaswamy Stadium. In the fifth over of the first innings, Pant tried to play it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-leading-lsg-as-rishabh-pant-is-ruled-out-of-second-innings-of-ipl-2026-clash-against-rcb-2026-04-15-1037678",
+    "time": "2026-04-15T16:14:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ben Stokes feels he was 'quite lucky' to be alive after nasty cheekbone blow",
     "desc": "Ben Stokes said he feels 'quite lucky' to be alive after being hit in the face by a cricket ball, the England captain revealed on Wednesday. Stokes required surgery after fracturing his right cheekbone in...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/trophyless-for-six-years-inconsistent-in-2026-do-mumbai-indians-need-wholesome-changes-aaron-finch-opines-2026-04-15-1037672",
     "time": "2026-04-15T14:57:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Virat Kohli playing today's IPL 2026 match for RCB against LSG at M.Chinnaswamy Stadium?",
-    "desc": "In a big relief for Royal Challengers Bengaluru fans, batting maestro Virat Kohli is set to be back in action for his team's IPL 2026 clash against the Lucknow Super Giants at the M.Chinnaswamy Stadium...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-virat-kohli-playing-todays-ipl-2026-clash-for-rcb-against-lsg-at-m-chinnaswamy-stadium-2026-04-15-1037661",
-    "time": "2026-04-15T13:33:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pat Cummins shares major update on fitness, reveals to be out for few more days",
-    "desc": "Sunrisers Hyderabad captain Pat Cummins has revealed he will not play the upcoming clash against Chennai Super Kings on April 18. Adding to that, the all-rounder also ruled himself out of the contest against Delhi...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-shares-major-update-on-fitness-reveals-to-be-out-for-few-more-days-2026-04-15-1037660",
-    "time": "2026-04-15T13:21:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lucknow bowled out for 146 as Bengaluru bowlers star",
-    "desc": "Royal Challengers Bengaluru bank on their explosive batting unit once again as they aim to overpower an inconsistent Lucknow Super Giants and break away from the mid-table congestion in their IPL clash. RCB currently sit...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-lsg-ipl-2026-live-cricket-score-royal-challengers-bengaluru-vs-lucknow-super-giants-latest-match-updates-teams-1037657",
-    "time": "2026-04-15T13:15:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Report",
-    "desc": "Mumbai Indians talisman Rohit Sharma is all set to miss his team's upcoming IPL 2026 clash against the Punjab Kings, Cricbuzz reported. Sharma had suffered a hamstring injury during MI's previous game against the Royal...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-set-to-miss-ipl-2026-clash-against-punjab-kings-in-blow-for-mumbai-indians-report-2026-04-15-1037655",
-    "time": "2026-04-15T13:04:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "5 players who underperformed in IPL 2026 so far",
-    "desc": "IPL 2026 has been a roller-coaster ride so far. Multiple-time champions, Chennai Super Kings, Mumbai Indians and Kolkata Knight Riders have struggled heavily so far in the competition, while Royal Challengers Bengaluru, Rajasthan Royals and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/5-players-who-underperformed-in-ipl-2026-so-far-2026-04-15-1037649",
-    "time": "2026-04-15T12:23:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "In times of overcrowded calendar, Washington Sundar feels 'blessed' to play all formats for India",
-    "desc": "All-format players are hard to find in today's overcrowded cricket calendar, with a series being around every now and then. India have only a few. Washington Sundar is one of them. Washington, whose India career began...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/in-times-of-overcrowded-calendar-washington-sundar-feels-blessed-to-play-all-formats-for-india-2026-04-15-1037648",
-    "time": "2026-04-15T12:11:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK's jigsaw falling into place: But is Ruturaj Gaikwad, the opener, a puzzle to Chennai's batting?",
-    "desc": "March 30, 2026. The day when the Chennai Super Kings were set to open their campaign against the Rajasthan Royals in Guwahati. There was no Dewald Brevis, no MS Dhoni, no Nathan Ellis and no...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/falling-of-the-csk-jigsaw-in-place-is-ruturaj-gaikwad-the-opener-a-puzzle-to-chennais-batting-2026-04-15-1037639",
-    "time": "2026-04-15T11:25:31.000Z"
   }
 ];
