@@ -142,14 +142,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/asha-bhosle-first-marriage-struggle-biography-revelations-domestic-violence-first-husband_648456.html ",
     "time": "2026-04-12T11:08:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "শনি রাতেই ভয়ংকর খবরে বিধ্বস্ত বলিউড: হৃদরোগে আক্রান্ত আশা ভোঁসলে ব্রিচ ক্যান্ডি হাসপাতালে",
-    "desc": "হৃদযন্ত্রের সমস্যার পাশাপাশি তাঁর ফুসফুসেও সংক্রমণ ধরা পড়েছে, যার ফলে শ্বাস নিতে সমস্যা হচ্ছে। যদিও হাসপাতালের সর্বশেষ তথ্য অনুযায়ী তাঁর অবস্থা বর্তমানে 'স্থিতিশীল', তবে বয়সজনিত কারণে চিকিৎসকরা আগামী ৪৮ থেকে ৭২ ঘণ্টা তাঁকে কড়া পর্যবেক্ষণে রাখতে চান।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/entertainment-news-asha-bhosle-suffers-cardiac-arrest-hospitalised-in-breach-candy-hospital_648378.html ",
-    "time": "2026-04-11T15:59:29.000Z"
   }
 ];
