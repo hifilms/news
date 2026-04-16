@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pat Cummins set to play in IPL 2026 after regaining full fitness, to join SRH squad ahead of CSK clash",
+    "desc": "Sunrisers Hyderabad (SRH) have received a massive boost as their regular skipper Pat Cummins has been cleared to play by Cricket Australia. Cummins cleared the fitness test today and the fresh scans revealed that he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-set-to-play-in-ipl-2026-after-regains-full-fitness-to-join-srh-squad-ahead-of-csk-clash-2026-04-16-1037745",
+    "time": "2026-04-16T08:24:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 players who can replace Khaleel Ahmed in CSK's playing XI for SRH clash in IPL 2026",
     "desc": "Chennai Super Kings (CSK) will miss Khaleel Ahmed's services for the rest of the ongoing Indian Premier League (IPL) season. The left-arm pacer has been ruled out due to a quadriceps injury sustained during the...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rajat-patidar-is-a-super-talent-but-no-room-for-india-t20i-team-at-the-moment-believes-aaron-finch-2026-04-15-1037686",
     "time": "2026-04-15T18:03:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB talisman opens up on his injury issue after his impact sub role vs LSG",
-    "desc": "Royal Challengers Bengaluru talisman Virat Kohli dropped a major update on his injury and health after his team's win over the Lucknow Super Giants at the M.Chinnaswamy Stadium on Wednesday, April 15. Kohli played a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-fitness-update-rcb-talisman-opens-up-on-his-injury-issue-after-his-impact-sub-role-vs-lsg-2026-04-15-1037684",
-    "time": "2026-04-15T17:36:01.000Z"
   }
 ];

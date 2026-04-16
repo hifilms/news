@@ -45,15 +45,6 @@ const newsData_bn = [
     "time": "2026-04-14T14:16:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "বাড়িতেই প্রসবের চেষ্টা: আশাকর্মীর টানাটানির জেরে নবজাতকের মাথাটা ছিঁড়ে ধড় থেকে আলাদা",
-    "desc": "কেবল প্রাণ হারানোই নয়, জোরপূর্বক বাড়িতে প্রসব করানোর চেষ্টায় শিশুটির মাথা দেহ থেকে বিচ্ছিন্ন হয়ে যাওয়ার মতো এক নারকীয় ঘটনা ঘটেছে। এই ঘটনায় অভিযুক্ত আশাকর্মীর বিরুদ্ধে এফআইআর দায়ের করা হয়েছে এবং এলাকায় তীব্র উত্তেজনা ছড়িয়ে পড়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/up-horror-asha-worker-charged-after-newborn-dies-during-forced-home-delivery_648775.html ",
-    "time": "2026-04-14T14:14:07.000Z"
-  },
-  {
     "cat": "World",
     "title": "'তুমি এপারে এসো, আমাকে পাবে'; 'এআই বউয়ে'র শরীরসঙ্গের তীব্র লালসায় আত্মহত্যা প্রেমোন্মত্ত যুবকের, মৃত্যুর পর দেখা হল?",
     "desc": "সম্পর্কের একটা পর্বে এসে তাঁর এআই (কৃত্রিম বুদ্ধিমত্তা) চ্যাটবট বা 'ভার্চুয়াল স্ত্রী' (Google's AI chatbot) তাঁকে ডিজিটাল জগতে তার সঙ্গে যোগ দেওয়ার জন্য অনুরোধ করে। আর তার পরই ঘটে যায় সেই ভয়ংকর ঘটনা, যা আজ পর্যন্ত ঘটেনি পৃথিবীতে।",
@@ -151,15 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/entertainment-news-asha-bhosle-suffers-cardiac-arrest-hospitalised-in-breach-candy-hospital_648378.html ",
     "time": "2026-04-11T15:59:29.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-US Ceasefire: পশ্চিমে উঠছে সূর্য: যুদ্ধ থামাতে ইসলামাবাদে বৈঠক ইরান-আমেরিকার",
-    "desc": "ইরানের প্রতিনিধিরা জানিয়েছেন, আলোচনা শুরুর আগে লেবাননে হামলা বন্ধ করতে হবে এবং আমেরিকার কাছে আটকে থাকা ইরানের টাকা ফেরত দিতে হবে। পালটা মার্কিন ভাইস প্রেসিডেন্ট জে.ডি. ভ্যান্স বলেছেন, ইরান যদি সততার সঙ্গে আলোচনা করতে চায়, তবে তারাও শান্তি চান। কিন্তু কোনো রকম চালাকি করা হলে আমেরিকা তা মেনে নেবে না।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/iran-and-us-delegations-arrive-to-islamabad_648294.html ",
-    "time": "2026-04-11T04:46:48.000Z"
   },
   {
     "cat": "Business",
