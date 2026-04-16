@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Amid security concerns, authorities shelve mall project near Indian Military Academy in Dehradun",
+    "desc": "The development came after The Hindu reported that IMA, in multiple letters to the state authorities, has objected to the approval for the construction of the mall which the defence authorities stated was granted without obtaining the mandatory No Objection Certificate from the Army.",
+    "img": "https://th-i.thgim.com/public/incoming/ws6coa/article70868166.ece/alternates/LANDSCAPE_1200/Fjlz8xJaAAE9t6r.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttarakhand/amid-security-concerns-authorities-shelve-mall-project-near-indian-military-academy-in-dehradun/article70865914.ece",
+    "time": "2026-04-16T07:21:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Resisting amendment can be more harmful for southern States",
+    "desc": "The BJP’s proposal is to have 50% additional seats in the Lok Sabha, one-third of the new total being reserved for women, nationally and in each State; for instance, Kerala, which at present has 20 seats, will have 30 seats, of which ten will be reserved for women.",
+    "img": "https://th-i.thgim.com/public/incoming/4bn6n6/article70859007.ece/alternates/LANDSCAPE_1200/iStock-1658169891.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/resisting-delimitation-can-be-more-harmful-for-southern-states/article70858793.ece",
+    "time": "2026-04-16T07:18:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: Jayalalithaa would have opposed delimitation if she were alive, says Stalin",
+    "desc": "The Chief Minister reasons she would have taken firm action and opposed issues that deprive T.N. of its rights, as when she opposed GST and NEET. He criticises the present day AIADMK, which is the main Opposition party, for not raising its voice on such issues",
+    "img": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/v6k5xl/article70858664.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-13%20at%208.42.43%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-jayalalithaa-would-have-opposed-delimitation-if-she-were-alive-says-stalin/article70858665.ece",
+    "time": "2026-04-16T07:18:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delimitation will not affect southern States, says Goyal",
+    "desc": "There will be proportional increase of seats across the country due to delimitation and ‘everybody is back to where they were’, says the Union Minister of Commerce and Industry; he also defends the National Education Policy, says T.N. has failed to reach its ‘true potential’ under DMK govt.",
+    "img": "https://th-i.thgim.com/public/incoming/rvf8ao/article70859288.ece/alternates/LANDSCAPE_1200/DSC_6368.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/delimitation-will-not-affect-southern-states-says-goyal/article70857651.ece",
+    "time": "2026-04-16T07:17:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Delimitation controversy & Bihar’s first BJP CM",
+    "desc": "AICC President and Leader of Opposition in Rajya Sabha Mallikarjun Kharge said that the INDIA bloc leaders have concluded deliberations on the Delimitation Bill, and the group has “unitedly” decided to oppose the Bill. In other news, Samrat Choudhary is sworn in as Bihar’s first BJP Chief Minister, the death toll rises to 16 in the Sakti power plant explosion in Chhattisgarh, and registration begins for the Amarnath Yatra starting July 3.",
+    "img": "https://th-i.thgim.com/public/news/national/9fdtnx/article70866453.ece/alternates/LANDSCAPE_1200/DO%20NOT%20EDIT%20FINAL%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-delimitation-controversy-bihars-first-bjp-cm-above-the-fold-15042026/article70866454.ece",
+    "time": "2026-04-16T07:06:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delimitation provisions in Women's Reservation Bill ‘an attack on democracy’: Kerala Opposition",
+    "desc": "Opposition leaders in Kerala, including Congress general secretary K.C. Venugopal, UDF MP N.K. Premachandran and CPI leader Annie Raja, say they are in favour of reservation for women in the current strength of Parliament, but will not accept delimitation provisions being ‘brought under its garb’",
+    "img": "https://th-i.thgim.com/public/incoming/hxdcsh/article70867986.ece/alternates/LANDSCAPE_1200/PTI04_16_2026_000066B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/delimitation-provisions-in-womens-reservation-bill-an-attack-on-democracy-kerala-opposition/article70867950.ece",
+    "time": "2026-04-16T07:05:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kritika Kamra on her intimate wedding with Gaurav Kapur",
+    "desc": "Kritika Kamra, fresh from her wedding with Gaurav Kapur, is already back on set and gearing up for her series ‘Matka King’. she calls her marriage a natural next step with Gaurav, shares how emotional the day was, and reveals that they both prioritised work and returned to commitments soon after tying the knot.",
+    "img": "https://static.toiimg.com/photo/msid-130300171,imgsize-51892.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kritika-kamra-opens-up-on-her-intimate-wedding-with-gaurav-kapur-i-saw-him-vulnerable-in-a-way-i-hadnt-before-that-was-special/articleshow/130300171.cms",
+    "time": "2026-04-16T07:02:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC asks Uttar Pradesh to consider plea flagging risk of tetra pack-liquor in educational campuses",
+    "desc": "A Bench headed by Chief Justice of India Surya Kant directed the State government to accept a representation challenging the administrative decision made in February last year under the State excise policy allowing the manufacture, packaging and sale of liquor in small tetra packs",
+    "img": "https://th-i.thgim.com/public/incoming/6t1g1h/article70868080.ece/alternates/LANDSCAPE_1200/29th_abhinay_G0G1LFPCCDO.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sc-asks-uttar-pradesh-to-consider-plea-flagging-risk-of-tetra-pack-liquor-in-educational-campuses/article70867867.ece",
+    "time": "2026-04-16T07:00:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Understanding the delimitation exercise",
+    "desc": "What does delimitation mean and what are the constitutional provisions which deal with it? Why were the seats frozen as per the 1971 Census? Will the fresh exercise go against the federal principle, giving an advantage to certain States over others?",
+    "img": "https://th-i.thgim.com/public/incoming/zbs6mc/article67819208.ece/alternates/LANDSCAPE_1200/iStock-1658169891.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/understanding-the-delimitation-exercise-explained/article67819203.ece",
+    "time": "2026-04-16T06:59:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India’s waistline on the run",
+    "desc": "India's ICMR is launching a nationwide study to identify effective weight loss strategies amidst a growing obesity crisis, with nearly a quarter of adults overweight. The analysis will compare various interventions and their impact on health markers beyond weight, aiming to provide India-specific evidence for future public health guidelines.",
+    "img": "https://static.toiimg.com/photo/msid-130299969,imgsize-434942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/icmr-rings-the-belly-alarm-indias-waistline-on-the-run/articleshow/130299940.cms",
+    "time": "2026-04-16T06:51:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zanai Bhosle remembers Asha Bhosle's words about life",
+    "desc": "Zanai, the granddaughter of the iconic Asha Bhosle, poured her heart out in tribute after the singer's departure from this world. She reflected on her grandmother's profound insights about the ongoing nature of life, extending her gratitude for the love and support flooding in from all corners of the internet. Read the full article to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130299568,imgsize-151846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zanai-bhosle-remembers-asha-bhosles-words-about-life-she-thanks-everyone-for-reaching-out-to-her-online/articleshow/130299568.cms",
+    "time": "2026-04-16T06:38:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat tops the list, Sooryavanshi trails by...",
+    "desc": "Virat Kohli leads the IPL 2026 Orange Cap race with 228 runs, showcasing his enduring form. He's closely followed by Heinrich Klaasen and RCB teammate Rajat Patidar. Explosive performances from Ishan Kishan and Vaibhav Sooryavanshi also feature prominently in the top rankings, promising an exciting season ahead.",
+    "img": "https://static.toiimg.com/photo/msid-130299529,imgsize-1159159.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-orange-cap-virat-kohli-tops-the-list-with-288-runs-vaibhav-sooryavanshi-trails-by-/articleshow/130299433.cms",
+    "time": "2026-04-16T06:29:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Two held in U.P.’s Bijnor over 'anti-national' activities, separate cases; foreign links probed",
+    "desc": "Circle Officer Anjani Kumar Chaturvedi said Sameer was arrested from Najibabad for allegedly maintaining contact with individuals based in Saudi Arabia and South Africa, who were attempting to recruit youths in India for terror-related activities",
+    "img": "https://th-i.thgim.com/public/incoming/vqiaw1/article70867951.ece/alternates/LANDSCAPE_1200/iStock-1905024012.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/two-held-in-ups-bijnor-over-anti-national-activities-separate-cases-foreign-links-probed/article70867915.ece",
+    "time": "2026-04-16T06:18:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by John Travolta",
+    "desc": "Hollywood icon John Travolta, known for 'Saturday Night Fever' and 'Pulp Fiction', shares his philosophy on success. He advises shedding negative influences and rejecting cynicism, emphasizing that only those who share your vision and drive are important. Travolta's insights, shared via Goalcast, highlight the power of focused passion and the futility of doubt in achieving life's goals.",
+    "img": "https://static.toiimg.com/photo/msid-130299053,imgsize-55992.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-john-travolta-you-have-to-get-rid-of-the-people-who-dont-want-to-play-the-same-game-as-you-do-theyre-not-important-cynicism-is-valueless-/articleshow/130299053.cms",
+    "time": "2026-04-16T06:11:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Women’s Reservation Bill: How numbers stack up in Lok Sabha and what delimitation could change",
+    "desc": "Parliament is set to debate the Nari Shakti Vandan Adhiniyam, aiming for 33% women's reservation in legislatures. This constitutional amendment, passed in 2023, will be implemented after delimitation based on the 2027 Census. While the government champions women's empowerment, opposition raises concerns over the delimitation process and its potential impact on state representation, creating a north-south divide.",
+    "img": "https://static.toiimg.com/photo/msid-130298726,imgsize-90820.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/womens-reservation-bill-how-numbers-stack-up-in-lok-sabha-and-what-delimitation-could-change/articleshow/130298616.cms",
+    "time": "2026-04-16T05:49:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gopalganj’s ‘Rabada’ Sakib Hussain, a destiny’s child, adapts and delivers on debut",
+    "desc": "Sakib Hussain finally got his IPL chance with Sunrisers Hyderabad and made it count. From humble beginnings and years of waiting, he relied on control and clever variations rather than just pace, making an instant impact.",
+    "img": "https://static.toiimg.com/photo/msid-130298688,imgsize-183986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-gopalganjs-rabada-sakib-hussain-a-destinys-child-adapts-and-delivers-on-debut/articleshow/130298577.cms",
+    "time": "2026-04-16T05:47:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Saari nazar utaar denge': PSL CEO wards off 'evil eye' for Babar Azam",
+    "desc": "The clip surfaced after Zalmi’s match in the ongoing 11th edition of the Pakistan Super League and showed a light exchange during a public interaction. \"Aaj saari nazar utaar denge,\" a person is heard saying in the video.",
+    "img": "https://static.toiimg.com/photo/msid-130298485,imgsize-51414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/saari-nazar-utaar-denge-psl-ceo-wards-off-evil-eye-for-pakistans-babar-azam-video-goes-viral-watch/articleshow/130298415.cms",
+    "time": "2026-04-16T05:44:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meghan’s Mama t-shirt turns fashion into charity spotlight",
+    "desc": "Meghan Markle's simple \"Mama\" T-shirt during her Australian tour carried a powerful message, highlighting her support for Alliance of Moms, a charity aiding young parents in foster care. This thoughtful fashion choice amplified a personal gesture onto a global stage, showcasing her ability to blend personal advocacy with public appearances and influence.",
+    "img": "https://static.toiimg.com/photo/msid-130298615,imgsize-123016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markles-mama-shirt-sends-an-emotional-yet-powerful-message-during-australia-trip-with-prince-harry/articleshow/130298593.cms",
+    "time": "2026-04-16T05:42:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sameer Anjaan SLAMS Gen Z Bollywood music as 'jarring noise'",
+    "desc": "Veteran lyricist Sameer Anjaan has criticised the current state of Bollywood music, calling Gen-Z songs \"jarring noise.\" In a recent interaction, he said excessive sound is overpowering meaningful lyrics, affecting both songs and films. He stressed that music plays a key role in a film’s success and warned that unless balance is restored between melody and lyrics, the soul of Hindi film music will continue to fade.",
+    "img": "https://static.toiimg.com/photo/msid-130298341,imgsize-76066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/sameer-anjaan-slams-gen-z-bollywood-music-as-jarring-noise-says-shor-badh-gaya-hai/articleshow/130298341.cms",
+    "time": "2026-04-16T05:32:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RM recalls convincing label to not change Jung Kook’s ‘Seven’s lyrics",
+    "desc": "BTS’ Jung Kook’s track ‘Seven’ was a big hit, and certainly, the bold lyrics are a tribute to RM. The global K-pop boyband member revealed that the label was planning to remove the explicit lyrics from the hit track; however, RM intervened and convinced the label to keep the lyrics as is.",
+    "img": "https://static.toiimg.com/photo/msid-130298361,imgsize-65318.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/bts-rm-recalls-convincing-the-label-not-to-change-explicit-lyrics-from-jung-kooks-seven/articleshow/130298361.cms",
+    "time": "2026-04-16T05:27:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA president confirms Iran’s participation in 2026 World Cup in USA",
+    "desc": "FIFA President Gianni Infantino confirmed Iran's participation in the 2026 World Cup, emphasizing football's separation from politics despite Middle East tensions. Iran qualified and its players wish to compete, with their matches scheduled in the United States. Infantino reiterated FIFA's commitment to keeping sports above political conflicts.",
+    "img": "https://static.toiimg.com/photo/msid-130298395,imgsize-78300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-president-infantino-confirms-irans-participation-in-2026-world-cup-in-usa/articleshow/130298354.cms",
+    "time": "2026-04-16T05:24:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RJ Balaji reveals big plans for Suriya’s ‘Karuppu’",
+    "desc": "Actor-director RJ Balaji shares details about Suriya's upcoming film 'Karuppu'. The movie is a complete commercial entertainer for families. It blends action, romance, and emotion. The story is inspired by a real-life incident and the folk deity Karuppusamy. Suriya's powerful performance is highlighted. The film promises a grand theatrical experience.",
+    "img": "https://static.toiimg.com/photo/msid-130298202,imgsize-129496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rj-balaji-reveals-big-plans-for-suriyas-karuppu-director-actor-promises-a-powerful-commercial-entertainer/articleshow/130298202.cms",
+    "time": "2026-04-16T05:15:34.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Markets inch higher on US-Iran peace hopes; Nikkei jumps 2%, HSI adds 360 points",
     "desc": "Asian stocks rose Thursday, mirroring Wall Street's gains, on hopes of a US-Iran ceasefire extension and the reopening of the Strait of Hormuz. Diplomatic talks are ongoing in Islamabad, with both sides exploring de-escalation, though Iran has warned of further disruptions if a naval blockade isn't lifted.",
@@ -18,15 +216,6 @@ const newsData_en = [
     "time": "2026-04-16T05:01:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Karnataka High Court directs State government to ‘strictly and faithfully’ implement menstrual leave policy",
-    "desc": "Upon the enactment of the proposed Karnataka Menstrual Leave and Hygiene Bill, 2025, the State shall, without any undue delay frame appropriate rules to give full and meaningful effect of the mandate, the Court said",
-    "img": "https://th-i.thgim.com/public/incoming/tk45ri/article70864755.ece/alternates/LANDSCAPE_1200/Karnataka-High-GUVFRDBDO.1.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-directs-state-government-to-strictly-and-faithfully-implement-menstrual-leave-policy/article70864730.ece",
-    "time": "2026-04-16T04:59:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Driven by father’s dream, boxer Vishvanath tailormade for glory",
     "desc": "Vishvanath Suresh, son of a former boxer, achieved a significant victory by clinching gold at the Asian Boxing Championships in the 50kg category. He notably defeated the reigning world champion in the quarterfinals. This triumph, his first major senior win, was marked by consistent unanimous decisions, boosting his confidence for upcoming games.",
@@ -34,6 +223,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/boxing/driven-by-fathers-dream-boxer-vishvanath-tailormade-for-glory/articleshow/130297901.cms",
     "time": "2026-04-16T04:52:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay says his mom pushed him to buy 5 BHK instead of 2 BHK",
+    "desc": "In an endearing moment during the promotional tour for 'Bhooth Bangla', Akshay Kumar reminisced about the pivotal role his mother played in shaping his ambitions. While he initially envisioned a cozy two-bedroom flat for himself, her encouragement to 'aim higher' sparked his desire for a spacious five-bedroom house. Read on to know more what the actor has to say in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130297608,imgsize-118156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-recalls-how-his-mother-pushed-him-to-buy-a-5-bhk-instead-of-2-bhk-as-his-first-flat-puttar-vadda-soch/articleshow/130297608.cms",
+    "time": "2026-04-16T04:25:29.000Z"
   },
   {
     "cat": "Sports",
@@ -90,6 +288,15 @@ const newsData_en = [
     "time": "2026-04-16T03:37:05.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Sharvari to play Madhubala in biopic? Actress is 'top choice'",
+    "desc": "As the hunt for the perfect actress to portray the legendary Madhubala heats up, Sharvari is emerging as a strong front-runner. This comes alongside previously mentioned talents like Sai Pallavi and Aneet Padda. With director Jasmeet K. Reen at the helm, anticipation builds for more casting news soon. Notably, Sharvari has a slate of exciting projects set to release shortly. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130296970,imgsize-84848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-sharvari-likely-to-play-madhubala-in-biopic-actress-emerges-as-top-choice-report/articleshow/130296970.cms",
+    "time": "2026-04-16T03:36:32.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "IPL Match Today, MI vs PBKS: Predicted playing XI, head-to-head, pitch report, Mumbai weather update",
     "desc": "Mumbai Indians face an uphill battle against an unbeaten Punjab Kings at Wankhede Stadium. MI, struggling with three consecutive losses and a potential Rohit Sharma injury, host a PBKS side flying high. Historically a close contest, this encounter holds significant weight for MI seeking redemption on home turf.",
@@ -97,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-match-today-mi-vs-pbks-predicted-playing-xi-head-to-head-pitch-report-mumbai-weather-update/articleshow/130296927.cms",
     "time": "2026-04-16T03:25:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jagan warns of agitation over Juvvaladinne Fishing Harbour delay, targets Naidu",
-    "desc": "Questioning the delay in inauguration of Juvvaladinne Fishing Harbour, the YSRCP chief accuses the government of giving land to a private defence company in the area, and vows to remove it once the YSRCP comes to power",
-    "img": "https://th-i.thgim.com/public/incoming/is0vhd/article70866176.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-15%20at%2016.41.33.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-warns-of-agitation-over-juvvaladinne-fishing-harbour-delay-targets-naidu/article70865897.ece",
-    "time": "2026-04-16T03:24:01.000Z"
   },
   {
     "cat": "Business",
@@ -144,15 +342,6 @@ const newsData_en = [
     "time": "2026-04-16T02:37:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Crushed dreams, close escapes, and questions of survival after a power plant tragedy",
-    "desc": "There were similar scenes at the government hospital in Raigarh, where a group of migrant workers from West Bengal’s Haldia await the bodies of their colleagues who had all joined the power plant nearly 45 days ago",
-    "img": "https://th-i.thgim.com/public/incoming/zfxo4t/article70866498.ece/alternates/LANDSCAPE_1200/20260414496L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/chhattisgarh/crushed-dreams-close-escapes-and-questions-of-survival-after-a-power-plant-tragedy/article70865916.ece",
-    "time": "2026-04-16T02:35:42.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Kara' first review: Dhanush hails Vignesh Raja as 'genius'",
     "desc": "Dhanush has lauded director Vignesh Raja as a genius after watching his upcoming film 'Kara', calling it a remarkable experience. The movie, set to release on April 30, explores the impact of global events on individuals' lives. With a strong cast and a unique premise, 'Kara' is generating significant anticipation among fans.",
@@ -180,15 +369,6 @@ const newsData_en = [
     "time": "2026-04-16T02:12:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Beneath the euphoria, Bihar’s first BJP Chief Minister faces several significant challenges",
-    "desc": "Not only will the support commanded by ‘Sushashan Babu’ Nitish Kumar by managing complex caste dynamics and delivering on governance be hard to emulate, Samrat Choudhary faces intra-party doubts in his leadership, financial mismanagement, and other administrative issues",
-    "img": "https://th-i.thgim.com/public/incoming/y3qj17/article70864945.ece/alternates/LANDSCAPE_1200/PTI04_15_2026_000184B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/beneath-the-euphoria-bihars-first-bjp-chief-minister-faces-several-significant-challenges/article70865072.ece",
-    "time": "2026-04-16T02:10:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Comedy of errors in PSL! Chaos unfolds as run-out chance goes begging",
     "desc": "The incident took place in the final over of Quetta’s innings. Ali Raza bowled a waist-high no-ball to Usman Tariq on the fourth delivery. On the next ball, which was a free hit, Abrar Ahmed was on strike.",
@@ -198,15 +378,6 @@ const newsData_en = [
     "time": "2026-04-16T02:01:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ayushmann gives tribute to the late Asha Bhosle",
-    "desc": "Ayushmann Khurrana paid a heartfelt tribute to legendary singer Asha Bhosle through a recent social media post. He shared a video of himself singing the Punjabi song ‘Das Mereya Dilbara’ while playing the guitar, a track originally sung by Asha Bhosle and Mohammed Rafi. Fans appreciated the gesture, as Ayushmann expressed admiration for her timeless voice and musical legacy.",
-    "img": "https://static.toiimg.com/photo/msid-130295655,imgsize-88552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayushmann-khurrana-gives-a-musical-tribute-to-the-late-asha-bhosle-with-her-punjabi-song-says-grew-up-on-her-voice/articleshow/130295655.cms",
-    "time": "2026-04-16T01:32:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Anushka Sharma's reaction goes viral as Virat Kohli misses fifty vs LSG",
     "desc": "Chasing 147, Kohli got RCB off to a strong start and scored 49 off 34 balls, hitting six fours and one six. He looked set for his 66th IPL half-century but was dismissed on 49, caught by Nicholas Pooran off Avesh Khan while attempting a shot in the air towards long-on.",
@@ -214,42 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/anushka-sharmas-reaction-goes-viral-as-virat-kohli-departs-on-49-vs-lsg-watch/articleshow/130295565.cms",
     "time": "2026-04-16T01:13:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Pallichattambi' Twitter review",
-    "desc": "'Pallichattambi' brings a big-budget period spectacle to Malayalam screens this Vishu season. Mixed Twitter reviews show divided opinions on scripting and pacing, but Tovino Thomas’s powerful mass avatar and strong technical values keep the film in discussion.",
-    "img": "https://static.toiimg.com/photo/msid-130295564,imgsize-108954.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pallichattambi-twitter-review-tovino-thomas-mass-avatar-praised-dijo-jose-antony-directorial-gets-mixed-feedback/articleshow/130295564.cms",
-    "time": "2026-04-16T01:03:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Samay calls Sunil Pal 'frustrated man without mental peace'",
-    "desc": "Stand-up comedian Samay Raina has been making headlines since the release of his special Still Alive. Recently, he broke his silence on senior comedian Sunil Pal’s harsh remarks during the 'India’s Got Latent controversy', calling him a “frustrated man” who lacks mental peace, and added that he feels sorry for him. Read on to know more about what he said in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130295440,imgsize-94310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-raina-calls-sunil-pal-frustrated-man-without-mental-peace-over-indias-got-latent-row-did-kapil-sharma-say-anything/articleshow/130295440.cms",
-    "time": "2026-04-16T00:45:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Pallichattambi' BO day 1: Film opens with Rs 8.20 cror",
-    "desc": "On its Vishu release, Tovino Thomas's 'Pallichattambi' debuted with a modest worldwide collection of Rs 8.20 crores. Set against the backdrop of the late 1950s, the film tells the inspiring story of a local hero defending a vulnerable migrant community.",
-    "img": "https://static.toiimg.com/photo/msid-130295462,imgsize-132956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pallichattambi-box-office-collections-day-1-tovino-thomas-film-starts-with-rs-8-20-crore-slow-opening-for-period-action-drama/articleshow/130295462.cms",
-    "time": "2026-04-16T00:42:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana': Yash hints at end-October release",
-    "desc": "Part 1', potentially averting a clash with 'Godzilla Minus Zero'. Speaking at CinemaCon, Yash assured fans that the film's visual effects are still a work in progress and will meet top-notch standards. The ambitious project, backed by Namit Malhotra, boasts a budget exceeding USD 500 million.",
-    "img": "https://static.toiimg.com/photo/msid-130295391,imgsize-110802.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-yash-teases-end-october-release-for-film-says-vfx-still-work-in-progress/articleshow/130295313.cms",
-    "time": "2026-04-16T00:31:48.000Z"
   },
   {
     "cat": "Sports",
@@ -324,15 +459,6 @@ const newsData_en = [
     "time": "2026-04-15T21:00:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "VCK pulling out all stops to keep PMK at bay in Kattumannarkoil contest",
-    "desc": "While the VCK is seeking to consolidate its dominance, the PMK is looking to rewire the caste equations in the northern districts. The contest looks evenly balanced, with Adi Dravidar and Muslim voters aligning with the DMK alliance, and Vanniyars consolidating behind the AIADMK front",
-    "img": "https://th-i.thgim.com/public/incoming/7ol0wa/article70866127.ece/alternates/LANDSCAPE_1200/11658_15_4_2026_20_33_30_4__DSC7192.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/vck-pulling-out-all-stops-to-keep-pmk-at-bay-in-kattumannarkoil-contest/article70861075.ece",
-    "time": "2026-04-15T18:21:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "RCB jump to top after win, LSG remain at 7th",
     "desc": "Royal Challengers Bengaluru have claimed the IPL 2026 top spot after a dominant win over Lucknow Super Giants. With four wins from five, RCB now lead the table on net run rate, showcasing strong early-season form. Punjab Kings remain the sole unbeaten team, while a congested middle pack sees several teams tied on points.",
@@ -360,15 +486,6 @@ const newsData_en = [
     "time": "2026-04-15T17:48:25.000Z"
   },
   {
-    "cat": "World",
-    "title": "Delimitation controversy & Bihar’s first BJP CM",
-    "desc": "AICC President and Leader of Opposition in Rajya Sabha Mallikarjun Kharge said that the INDIA bloc leaders have concluded deliberations on the Delimitation Bill, and the group has “unitedly” decided to oppose the Bill. In other news, Samrat Choudhary is sworn in as Bihar’s first BJP Chief Minister, the death toll rises to 16 in the Sakti power plant explosion in Chhattisgarh, and registration begins for the Amarnath Yatra starting July 3.",
-    "img": "https://th-i.thgim.com/public/news/national/9fdtnx/article70866453.ece/alternates/LANDSCAPE_1200/DO%20NOT%20EDIT%20FINAL%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-delimitation-controversy-bihars-first-bjp-cm-above-the-fold-15042026/article70866454.ece",
-    "time": "2026-04-15T17:30:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How much money did R Vaishali win after Women's Candidates victory?",
     "desc": "R Vaishali won the 2026 Women’s Candidates with 8.5/14, earning €28,000 plus €2,200 per half-point, taking her total beyond €40,000. Her victory also secures a World Championship clash against Ju Wenjun, offering bigger prize money and global recognition in the next stage.",
@@ -376,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/how-much-money-did-r-vaishali-win-after-historic-womens-candidates-2026-victory/articleshow/130290400.cms",
     "time": "2026-04-15T17:29:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Fish emerges as a campaign symbol on Bengali New Year",
-    "desc": "The narrative around vegetarian and non-vegetarian dietary preferences has dominated the election campaign; while the ruling Trinamool Congress has dubbed the BJP as a party of “outsiders” that is unfamiliar with the culture and traditions of West Bengal, the saffron party has been trying to counter this image",
-    "img": "https://th-i.thgim.com/public/incoming/lrribo/article70866441.ece/alternates/LANDSCAPE_1200/20260415212L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/fish-emerges-as-a-campaign-symbol-on-bengali-new-year/article70865872.ece",
-    "time": "2026-04-15T17:29:20.000Z"
   },
   {
     "cat": "Business",
@@ -460,48 +568,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "After three dots, Rishabh Pant walks off — what happened?",
-    "desc": "Skipper Rishabh Pant was forced to leave the field after a painful elbow blow during Lucknow Super Giants’ match against Royal Challengers Bengaluru on Wednesday. Struggling against Josh Hazlewood, Pant was hit by a short ball and walked off in pain, with Nicholas Pooran replacing him, disrupting LSG’s early momentum.",
-    "img": "https://static.toiimg.com/photo/msid-130287157,imgsize-35172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rcb-vs-lsg-ipl-after-three-dots-rishabh-pant-walks-off-what-happened/articleshow/130287021.cms",
-    "time": "2026-04-15T14:45:59.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Will Rohit play next IPL game? Mumbai Indians share injury update",
     "desc": "Rohit Sharma is set to miss Mumbai Indians’ IPL 2026 clash against Punjab Kings due to a recurring hamstring injury sustained against Royal Challengers Bengaluru. MI said he is being assessed. Rohit retired hurt in that match, and his absence adds to MI’s struggles after three straight defeats this season.",
     "img": "https://static.toiimg.com/photo/msid-130286411,imgsize-78354.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/will-rohit-sharma-play-next-ipl-game-mumbai-indians-share-injury-update/articleshow/130286153.cms",
     "time": "2026-04-15T14:13:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli not in XI, star RCB pacer returns against LSG",
-    "desc": "RCB batter Virat Kohli was left out of RCB’s starting XI against Lucknow Super Giants due to an ankle injury but remained available as an Impact Player. Captain Rajat Patidar chose to bowl first, while Rishabh Pant stayed confident. RCB brought in Josh Hazlewood as both teams looked to gain momentum.",
-    "img": "https://static.toiimg.com/photo/msid-130285838,imgsize-38944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-virat-kohli-not-in-xi-as-rcb-opt-to-bowl-against-lsg/articleshow/130285519.cms",
-    "time": "2026-04-15T13:46:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I might not be here’: Ben Stokes ‘lucky to be alive’ after freak injury scare",
-    "desc": "Ben Stokes described a training incident that broke his cheekbone as a \"pretty nasty\" but ultimately fortunate event, stating he feels \"quite lucky\" to be alive. The injury delayed his return to cricket, forcing a reassessment of his fitness plan. Stokes also dismissed speculation about his working relationship with Brendon McCullum, emphasising their shared goal for the team.",
-    "img": "https://static.toiimg.com/photo/msid-130284095,imgsize-37010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-might-not-be-here-ben-stokes-lucky-to-be-alive-after-freak-injury-scare/articleshow/130283945.cms",
-    "time": "2026-04-15T12:31:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Sindarov got lucky’: German No. 1 Keymer on ‘critical moment'",
-    "desc": "Javokhir Sindarov won the 2026 FIDE Candidates Tournament, earning a World Championship match against D Gukesh. Germany No. 1 Vincent Keymer praised his aggressive and fearless style of play. \"It was easy for him to lose the first game,\" said Keymer as Uzbek prodigy sealed the title with a round to spare.",
-    "img": "https://static.toiimg.com/photo/msid-130282886,imgsize-52220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/javokhir-sindarov-got-a-bit-lucky-germanys-no-1-vincent-keymer-on-critical-moment-in-candidates-2026-win-exclusive/articleshow/130282020.cms",
-    "time": "2026-04-15T11:50:50.000Z"
   },
   {
     "cat": "Business",
@@ -511,15 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/employee-feedback-is-now-the-gold-standard-for-workplace-excellence/article70862393.ece",
     "time": "2026-04-15T11:47:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘End of an Era’: Viktor Axelsen retires at 32, Lakshya Sen pays emotional tribute",
-    "desc": "Denmark's two-time Olympic champion Viktor Axelsen, 32, has retired due to persistent back issues, ending a dominant era in badminton. His career, marked by two Olympic golds and two World Championship titles, redefined the sport's physical standards. Axelsen's influence extended globally, particularly in China, where he connected with fans in Mandarin.",
-    "img": "https://static.toiimg.com/photo/msid-130282760,imgsize-195718.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/end-of-an-era-viktor-axelsen-retires-at-32-lakshya-sen-pays-emotional-tribute/articleshow/130282730.cms",
-    "time": "2026-04-15T11:42:15.000Z"
   },
   {
     "cat": "World",
@@ -621,15 +684,6 @@ const newsData_en = [
     "time": "2026-04-14T15:47:06.000Z"
   },
   {
-    "cat": "World",
-    "title": "UN",
-    "desc": "\"In the first three months of this year, nearly 700 civilians were reportedly killed in drone strikes,\" UN humanitarian chief Tom Fletcher said in a statement, a day before the three-year anniversary of the start of the war",
-    "img": "https://th-i.thgim.com/public/news/national/6bqrwz/article70861385.ece/alternates/LANDSCAPE_1200/iStock-1404313318.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/nearly-700-reported-killed-in-sudan-drone-strikes-this-year-un/article70861226.ece",
-    "time": "2026-04-14T13:18:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Hollywood heavyweights voice ’unequivocal opposition’ to Paramount-Warner merger in open letter",
     "desc": "In a powerful show of unity, over 1,000 Hollywood stars, writers, and directors, including Denis Villeneuve, J.J. Abrams, and Kristen Stewart, are standing up against the $111 billion merger between Paramount and Warner Bros. Discovery",
@@ -673,15 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/oil-prices-brent-crude-strait-of-hormuz-iran-blockade-april-13-2026/article70856028.ece",
     "time": "2026-04-13T11:20:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "World Bank chief sounds alarm about looming jobs crisis even after war ends",
-    "desc": "At current trajectories, developing economies will ⁠generate only about 400 million jobs, leaving a deficit of 800 million jobs, for the 1.2 billion people who will reach working ​age in the next 10 to 15 years, World Bank chief Ajay Banga said",
-    "img": "https://th-i.thgim.com/public/incoming/89dtn0/article70856745.ece/alternates/LANDSCAPE_1200/2026-04-13T070100Z_2094135849_RC2FMKAJ65A6_RTRMADP_3_IMF-WORLDBANK-BANGA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/world-bank-chief-sounds-alarm-about-looming-jobs-crisis-even-after-war-ends/article70856709.ece",
-    "time": "2026-04-13T08:35:08.000Z"
   },
   {
     "cat": "Entertainment",

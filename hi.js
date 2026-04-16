@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 players who can replace Khaleel Ahmed in CSK's playing XI for SRH clash in IPL 2026",
+    "desc": "Chennai Super Kings (CSK) will miss Khaleel Ahmed's services for the rest of the ongoing Indian Premier League (IPL) season. The left-arm pacer has been ruled out due to a quadriceps injury sustained during the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-players-who-can-replace-khaleel-ahmed-in-csk-s-playing-xi-for-srh-clash-in-ipl-2026-2026-04-16-1037729",
+    "time": "2026-04-16T06:41:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Massive blow for CSK! Pacer Khaleel Ahmed ruled out of IPL 2026, Know reason",
+    "desc": "Chennai Super Kings' IPL 2026 campaign seemed to be coming back on track after consecutive wins, especially in the aftermath of three losses at the start of the tournament. But they have now been dealt...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/massive-blow-for-csk-pacer-khaleel-ahmed-ruled-out-of-ipl-2026-know-reason-2026-04-16-1037725",
+    "time": "2026-04-16T06:13:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "R Vaishali creates history, becomes first Indian to win FIDE Women's Candidates",
     "desc": "R Vaishali experienced a dramatic final day at the FIDE Women's Candidates 2026 on Wednesday. The Indian grandmaster became the first woman from the country to win the said tournament, as she defeated Kateryna Lagno...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-fitness-update-rcb-talisman-opens-up-on-his-injury-issue-after-his-impact-sub-role-vs-lsg-2026-04-15-1037684",
     "time": "2026-04-15T17:36:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "LSG no match to RCB's all-round show as Bengaluru register comfortable five-wicket win",
-    "desc": "Royal Challengers Bengaluru defeated Lucknow Super Giants by five wickets at the M Chinnaswamy Stadium. The Rishabh Pant-led side showed little intent with the bat and that arguably sealed their fate. Opener Aiden Markram made...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-no-match-to-rcb-s-all-round-show-as-bengaluru-register-comfortable-five-wicket-win-2026-04-15-1037683",
-    "time": "2026-04-15T17:19:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Wankhede Stadium in Mumbai play?",
-    "desc": "After three consecutive defeats, Mumbai Indians will host Punjab Kings in their fifth match of the IPL 2026 campaign at the Wankhede Stadium in Mumbai. Ahead of that, the Hardik Pandya-led side suffered a huge...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-pbks-pitch-report-how-will-surface-at-wankhede-stadium-in-mumbai-play-2026-04-15-1037679",
-    "time": "2026-04-15T16:33:47.000Z"
   }
 ];

@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "સોના-ચાંદીના ભાવ આજે વધી ગયા, અમદાવાદમાં 24-22 કેરેટ સોનાનો લેટેસ્ટ ભાવ જાણો",
+    "desc": "યુદ્ધનો અંત આવી શકે છે એવા સંકેત મળતા જ ક્રૂડ ઓઈલના ભાવમાં ઘટાડો જોવા મળી રહ્યો છે જ્યારે સોના અને ચાંદીના ભાવમાં વધારો છે. આજે વાયદા બજાર અને રિટેલ બજારમાં શું ભાવ છે તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-increased-know-latest-price-of-24-22-carat-gold-in-ahmedabad-aaj-no-sona-no-bhav-473330 ",
+    "time": "2026-04-16T07:08:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2026 બાદ ભારતની T20 ટીમમાં આ ખતરનાક બેટ્સમેનની થશે એન્ટ્રી ! 32 વર્ષની ઉંમરે ડેબ્યૂનો કર્યો દાવો",
+    "desc": "બુધવારે રમાયેલી IPL મેચમાં RCBએ LSGને 5 વિકેટથી હરાવ્યું. RCBમાં એક એવો બેટ્સમેન છે, જે 2026ની IPL સીઝન પછી ભારતની T20 ટીમમાં ડેબ્યૂ કરવા માટે એક મજબૂત દાવેદાર છે. આ 32 વર્ષીય બેટ્સમેન મિડલ ઓર્ડરમાં તેની વિસ્ફોટક બેટિંગ માટે જાણીતો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rajat-patidar-strong-contender-for-t20-debut-in-team-india-after-ipl-2026-473328 ",
+    "time": "2026-04-16T06:56:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મહિલા અનામત લાગૂ કરવાની તૈયારીઓ, લોકસભા સીટો 850 કરવાનો પ્રસ્તાવ, જાણો ગુજરાતમાં કેટલી વધી શકે સીટો?",
+    "desc": "મહિલાઓને લોકસભા અને વિધાનસભાઓમાં 33 ટકા અનામત આપવા માટે તૈયારીઓ ચાલુ છે. જે હેઠળ 16 એપ્રિલે લોકસભામાં બિલ રજૂ થઈ શકે છે. આ સાથે કુલ 3 બિલ રજૂ થશે જે મુજબ ગુજરાતની લોકસભા અને વિધાનસભાની સીટોમાં કેટલો વધારો થઈ શકે તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/proposal-to-increase-lok-sabha-seats-know-how-many-seats-can-be-increased-in-gujarat-473132 ",
+    "time": "2026-04-16T06:20:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આ તે કેવો નિર્ણય ! 1 વિકેટ લેનારને મળ્યો &amp;#039;મેન ઓફ ધ મેચ&amp;#039; એવોર્ડ અને 4 વિકેટ લેનાર ખાલી હાથ",
+    "desc": "બુધવારે રમાયેલી IPL મેચમાં RCBએ LSGને 5 વિકેટથી હરાવ્યું હતું. આ મેચમાં જમ્મુ અને કાશ્મીરના ફાસ્ટ બોલર રસિક સલામ દારે LSG સામે 4 ઓવરમાં માત્ર 24 રન આપીને 4 વિકેટ ઝડપી હતી. રસિક સલામ દારે RCBની જીતમાં મુખ્ય ભૂમિકા ભજવી હતી છતાં તેને 'મેન ઓફ ધ મેચ' જાહેર કરવામાં આવ્યો નહોતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/not-josh-hazlewood-rasikh-salam-dar-is-more-deserving-for-player-of-the-match-award-473324 ",
+    "time": "2026-04-16T06:12:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ટાટા ગ્રુપની આ કંપનીની હાલત ખરાબ, સતત પાંચમાં ક્વાર્ટરમાં નુકસાન, શેર પણ ધડામ",
+    "desc": "ટાટા ગ્રુપની કંપની તેજસ નેટવર્ક્સને સતત પાંચમાં ક્વાર્ટરમાં નુકસાન થયું છે. માર્ચ ક્વાર્ટરમાં કંપનીની ખોટ 193 ટકા વધી છે. ક્વાર્ટરના પરિણામની અસર કંપનીના શેર પર પણ પડી છે. ગુરૂવારે કંપનીના શેરની કિંમતમાં 6 ટકાનો કડાકો થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/tata-group-tejas-networks-shares-down-6-percent-the-company-suffered-a-huge-loss-in-the-march-quarter-473321 ",
+    "time": "2026-04-16T05:41:43.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "અંતે મામી-ભાણેજ વચ્ચે સમાધાન થયું, કાશ્મીરા શાહની કોમેન્ટ પછી શરુ થયેલા પારિવારિક વિવાદનો અંત આવ્યો",
     "desc": "સુનિતા આહુજા અને કાશ્મીરા શાહ એ વર્ષો જૂના મતભેદ ભુલી સમાધાન કરી લીધું છે. ઈંટરનેટ પર સુનીતા આહૂજા, કૃષ્ણા અભિષેક અને કાશ્મીરાના ફોટો અને વીડિયો વાયરલ થઈ રહ્યા છે. કાશ્મીરા શાહની એક કોમેન્ટથી શરુ થયેલા પારિવારિક ઝઘડાનો અંત વર્ષો પછી આવ્યો છે.",
@@ -169,15 +214,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/no-exchange-or-accessories-this-electric-suv-is-getting-a-cash-discount-of-rs-2-50-lakh-the-price-has-been-reduced-by-this-much-473144 ",
     "time": "2026-04-15T05:09:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મહિલા અનામત લાગૂ કરવાની તૈયારીઓ, લોકસભા સીટો 850 કરવાનો પ્રસ્તાવ, જાણો ગુજરાતમાં કેટલી વધી શકે સીટો?",
-    "desc": "મહિલાઓને લોકસભા અને વિધાનસભાઓમાં 33 ટકા અનામત આપવા માટે તૈયારીઓ ચાલુ છે. જે હેઠળ 16 એપ્રિલે લોકસભામાં બિલ રજૂ થઈ શકે છે. જો આ બિલ પાસ થાય તો ગુજરાતની લોકસભા અને વિધાનસભાની સીટોમાં કેટલો વધારો થઈ શકે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/proposal-to-increase-lok-sabha-seats-know-how-many-seats-can-be-increased-in-gujarat-473132 ",
-    "time": "2026-04-15T04:17:04.000Z"
   },
   {
     "cat": "World",
@@ -351,15 +387,6 @@ const newsData_gu = [
     "time": "2026-04-14T05:13:23.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ગેસના બાટલાના નવા ભાવ જાહેર; સરકારનું મોટું અપડેટ, જાણો તમારા શહેરમાં શું છે લેટેસ્ટ ભાવ",
-    "desc": "આજે 14 એપ્રિલના રોજ તમારા શહેરમાં ગેસ સિલિન્ડરનો ભાવ કેટલો છે? ઘરેલુ રસોઈ ગેસના ભાવ સ્થિર છે, પરંતુ કોમર્શિયલ સિલિન્ડરના વધતા ભાવે બજેટને ખોરવી નાખ્યું છે. જોકે, ઉજ્જવલા યોજના હેઠળ ₹300 ની રાહત ઉપલબ્ધ છે. સંપૂર્ણ યાદી અહીં જુઓ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/major-government-update-on-lpg-cylinder-delivery-check-todays-latest-rates-472947 ",
-    "time": "2026-04-14T04:12:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "કોણ છે પ્રફુલ હિંગે? જેણે IPL ડેબ્યૂના પ્રથમ ઓવરમાં જ રચ્યો ઈતિહાસ, અત્યાર સુધી કોઈ નથી કરી શક્યું આ કારનામું",
     "desc": "પ્રફુલ હિંગે IPL 2026માં ડેબ્યૂ કરતાની સાથે જ પ્રથમ ઓવરમાં 3 વિકેટ લઈને સનસની મચાવી દીધી છે. તેણે RR (રાજસ્થાન રોયલ્સ)ના ટોપ ઓર્ડરને ધ્વસ્ત કરી દીધો છે. વિદર્ભના આ યુવા ફાસ્ટ બોલરને SRHએ 30 લાખમાં ખરીદ્યો હતો અને હવે પ્રફુલ ટીમ માટે મોટો સરપ્રાઈઝ સાબિત થઈ રહ્યો છે.",
@@ -522,15 +549,6 @@ const newsData_gu = [
     "time": "2026-04-12T08:04:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ડગઆઉટમાં ફોન વાપરતા રંગે હાથ ઝડપાયા RRના મેનેજર, બાજુમાં બેઠો હતો સૂર્યવંશી, શું BCCI લેશે એક્શન ?",
-    "desc": "IPL 2026માં શાનદાર પ્રદર્શન કરી રહેલી રાજસ્થાન રોયલ્સ હવે એક નવા વિવાદમાં ફસાઈ ગઈ છે. રોયલ ચેલેન્જર્સ બેંગલુરુ સામેની મેચ દરમિયાન ડગઆઉટમાંથી બહાર આવેલા એક વીડિયોએ હંગામો મચાવી દીધો છે. ફૂટેજમાં ટીમ મેનેજર મોબાઇલ ફોનનો ઉપયોગ કરતા જોવા મળે છે, તો બાજુમાં વૈભવ સૂર્યવંશી બેઠો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-2026-rajasthan-royals-manager-caught-using-phone-in-dugout-vaibhav-suryavanshi-472617 ",
-    "time": "2026-04-12T07:02:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ઓટીટી પર જોવા જેવી હોરર ફિલ્મ, આ ફિલ્મ જોયા પછી હાથનું પ્લાસ્ટર જોઈને પણ ડર લાગશે",
     "desc": "ઓટીટી પર સૌથી વધુ હોરર ફિલ્મો જોવાતી હોય છે. તમે પણ ડરામણી ફિલ્મો જોવાના શોખીન છો તો તમારા માટે પ્રાઈમ વીડિયોની બેસ્ટ હોરર ફિલ્મ વિશે જાણકારી લાવ્યા છીએ. આ ફિલ્મ એકવાર જોઈ લે તેને હાથમાં આવતા પ્લાસ્ટરથી બીક લાગવા લાગે.",
@@ -691,14 +709,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/explainer-what-is-two-factor-authentication-2fa-find-out-why-the-government-is-emphasizing-this-new-technology-471517 ",
     "time": "2026-04-04T16:32:39.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "મોબાઈલ ખરીદનારાઓને ઝટકો! આ કંપનીઓના ફોન અચાનક થઈ ગયા મોંઘા, જાણો કિંમતોમાં કેટલો થયો વધારો",
-    "desc": "જે લોકોને નવો સ્માર્ટફોન ખરીદવાનો વિચાર હોય તેમના માટે મહત્વના સમાચાર છે, અનેક કંપનીઓએ તેમના ફોનના ભાવમાં વધારો કર્યો છે. જેની અસર ડાયરેક્ટ તેના ગ્રાહકો પર પડશે. મોબાઈલ ફોન ખરીદનારા લોકોને આટલા વધારે પૈસા આપવા પડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/shock-to-mobile-buyers-phones-of-these-companies-suddenly-became-expensive-know-how-much-their-prices-increased-471512 ",
-    "time": "2026-04-04T14:23:24.000Z"
   }
 ];

@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "সহকর্মীর সঙ্গে 'তিক্ত প্রেমে'ই নাসিক TCS-এর পুরো 'কেলেঙ্কারি'? অভিযুক্তের স্ত্রীর বিস্ফোরক দাবি- ১৮০°  ঘুরে যাবে তদন্ত?",
+    "desc": "অভিযুক্তের স্ত্রীর আরও দাবি, তাঁর স্বামী ও অভিযোগকারীর সম্পর্ক অফিসে প্রায় সবাই জানা ছিল। ঘণ্টার পর ঘণ্টা অপেক্ষা করতেন কাজ শেষ হওয়ার জন্য। গোটা মামলার সূত্রপাত হয় যখন এক মহিলা কর্মী অভিযোগ করেন যে এক সহকর্মী তাঁকে বিয়ের প্রতিশ্রুতি দিয়ে তাঁর সঙ্গে সম্পর্কে জড়ান। তারপর তদন্ত এগোতেই আরও ৭ জন মহিলা একই ধরনের অভিজ্ঞতার কথা জানান।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/nashik-tcs-conversion-case-big-development-harassment-case-fallout-of-soured-relationship-accused-wife-explosive-claims_648986.html ",
+    "time": "2026-04-16T05:55:45.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "রত্নভান্ডারের রহস্য-সন্ধানের মধ্যেই পুরীতে বিরাট ঘটনা! নববৈশাখেই 'স্থান'বদল জগন্নাথমন্দিরের দেবতার",
     "desc": "পুরী জগন্নাথ মন্দিরের তিন বিগ্রহের জন্য নতুন বিশ্রামের স্থান তৈরি হল। শ্রী জগন্নাথ মন্দির প্রশাসন মঙ্গলবার জগন্নাথ, বলরাম এবং সুভদ্রার জন্য নবনির্মিত এক 'রত্ন পালঙ্ক' উৎসর্গ করেছে মন্দিরে। পুরনো পালঙ্ক জীর্ণ হয়ে যাওয়ায় সেগুলির পরিবর্তে এই নতুন পালঙ্ক আনা হয়েছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -52,24 +61,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/us-man-dies-by-suicide-after-believing-ai-wife-asked-him-to-join-her-in-digital-world_648773.html ",
     "time": "2026-04-14T14:11:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Asia's Longest Wildlife Corridor: উপর দিয়ে উড়ে চলে যাচ্ছে জাতীয় সড়ক, নীচে ছুটে বেড়াচ্ছে বন্য জন্তুর দল",
-    "desc": "আগে দিল্লি থেকে দেরাদুন যেতে ৬ ঘণ্টার বেশি সময় লাগত। এখন লাগবে বেশ কয়েক ঘণ্টা কম। নতুন এই এক্সপ্রেসওয়েটি চালু হওয়ার পরে এখন এই পথ অতিক্রম করতে লাগবে মাত্র ২.৫ ঘণ্টা। ২১৩ কিমির দীর্ঘ এই করিডরটি দিল্লি, উত্তরপ্রদেশ এবং উত্তরাখণ্ডের মধ্য দিয়ে গিয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/asias-longest-wildlife-corridor-delhi-dehradun-expressway-213-km-in-2-and-half-12km-wildlife-corridor_648748.html ",
-    "time": "2026-04-14T11:16:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রেজাল্ট বেরোতেই রাজ্য জুড়ে মৃত্যুছায়া; পরপর আত্মহত্যা শিক্ষার্থীদের-- কেউ গলায় ফাঁস, কেউ বহুতল থেকে ঝাঁপ",
-    "desc": "তেলঙ্গানা স্টেট বোর্ড অফ ইন্টারমিডিয়েট এডুকেশন (TSBIE) বুধবার ইন্টারমিডিয়েটের প্রথম ও দ্বিতীয় বর্ষের পরীক্ষার ফল ঘোষণা করেছে। কিন্তু এর পরই সেখানে মর্মান্তিক পরিস্থিতি তৈরি হয়েছে। পরীক্ষার ফলাফল ঘোষণার মাত্র কয়েক ঘণ্টার মধ্যেই মর্মান্তিক ঘটনা সেখানে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/student-deaths-7-deaths-telangana-intermediate-results-trigger-wave-of-student-suicides_648729.html ",
-    "time": "2026-04-14T09:49:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -169,5 +160,14 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/iran-and-us-delegations-arrive-to-islamabad_648294.html ",
     "time": "2026-04-11T04:46:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];
