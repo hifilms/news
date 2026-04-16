@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 players who can replace MI batter and open the innings if he misses PBKS clash",
+    "desc": "Mumbai Indians' star batter and former captain Rohit Sharma seems set to miss the game against Punjab Kings today in IPL 2026 at the Wankhede Stadium in Mumbai. He didn't train much on the eve...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-3-players-who-can-replace-mi-batter-and-open-the-innings-if-he-misses-pbks-clash-2026-04-16-1037699",
+    "time": "2026-04-16T02:12:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Updated points table after RCB vs LSG match, Orange cap and Purple cap holders",
+    "desc": "Royal Challengers Bengaluru made light work of Lucknow Super Giants in the 23rd match of the ongoing edition of the Indian Premier League (IPL) on Wednesday to register their fourth win in five matches this...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-updated-points-table-after-rcb-vs-lsg-match-orange-cap-and-purple-cap-holders-2026-04-16-1037698",
+    "time": "2026-04-16T01:49:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rubel Hossain announces retirement from international cricket",
     "desc": "Bangladesh fast bowler Rubel Hossain on Wednesday announced his retirement from international cricket. The 36-year-old walks away as the fifth leading wicket-taker for Bangladesh in the ODI format. The speedster made his announcement through a...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-feels-he-was-quite-lucky-to-be-alive-after-nasty-cheekbone-blow-2026-04-15-1037677",
     "time": "2026-04-15T16:01:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma all but out of PBKS clash in IPL 2026, who can open with Ryan Rickelton for Mumbai Indians?",
-    "desc": "Mumbai Indians opener Rohit Sharma is all but out of the IPL 2026 clash against Punjab Kings, owing to a hamstring injury. While batting against Royal Challengers Bengaluru, the veteran complained of the issue and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-all-but-out-of-pbks-clash-in-ipl-2026-who-can-open-with-ryan-rickelton-for-mumbai-indians-2026-04-15-1037674",
-    "time": "2026-04-15T15:45:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Trophyless for six years, inconsistent in 2026, do Mumbai Indians need wholesome changes? Aaron Finch opines",
-    "desc": "Mumbai Indians have won just one of their first four matches in the ongoing IPL 2026. Under the leadership of Rohit Sharma, they were a fearless unit, having won the title on five occasions, but...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/trophyless-for-six-years-inconsistent-in-2026-do-mumbai-indians-need-wholesome-changes-aaron-finch-opines-2026-04-15-1037672",
-    "time": "2026-04-15T14:57:10.000Z"
   }
 ];
