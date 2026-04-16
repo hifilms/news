@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Hardik Pandya fires warning at teammates, suggests dropping them after fourth consecutive defeat in IPL 2026",
+    "desc": "Punjab Kings registered a hammering seven-wicket win against Mumbai Indians at the Wankhede Stadium. With the ball, Arshdeep Singh claimed a three-wicket haul, while Prabhsimran Singh and Shreyas Iyer stole the show with the bat,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-fires-warning-at-teammates-suggests-dropping-them-after-fourth-consecutive-defeat-in-ipl-2026-2026-04-16-1037810",
+    "time": "2026-04-16T17:59:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Prabhsimran, Shreyas thrash Mumbai Indians at Wankhede, hosts suffer fourth straight defeat in IPL 2026",
+    "desc": "Punjab Kings rattled Mumbai Indians in their high-voltage IPL 2026 clash at the Wankhede Stadium. Batting first, the hosts struggled early on, losing two quick wickets of Ryan Rickelton and Suryakumar Yadav. After they departed,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/prabhsimran-shreyas-thrash-mumbai-indians-at-wankhede-hosts-suffer-fourth-straight-defeat-in-ipl-2026-2026-04-16-1037808",
+    "time": "2026-04-16T17:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Quinton de Kock returns to Mumbai Indians with century against Punjab Kings in IPL 2026",
     "desc": "Quinton de Kock returned to the Mumbai Indians playing XI for the first time in five years. In the middle, he played for Lucknow Super Giants and Kolkata Knight Riders, but failed to find success...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-s-overseas-pacer-ruled-out-of-ipl-2026-franchise-seeks-replacement-2026-04-16-1037768",
     "time": "2026-04-16T11:10:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sachin Tendulkar among others raises funds for former cricketer",
-    "desc": "Vinod Kambli’s health remains a matter of concern, with the former India cricketer still working his way through a difficult recovery. There has been some improvement in his mobility, but his overall condition remains far...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vinod-kambli-risks-brain-stroke-sachin-tendulkar-among-others-raises-funds-for-former-cricketer-2026-04-16-1037766",
-    "time": "2026-04-16T11:03:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mumbai Indians announce replacement player for injured Atharva Ankolekar in IPL 2026",
-    "desc": "Mumbai Indians have finally announced the replacement for injured Atharva Ankolekar. He was ruled out after failing to regain fitness from a knee problem sustained earlier in the year during the domestic season. Earlier, Akash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-announce-replacement-player-for-injured-atharva-ankolekar-in-ipl-2026-2026-04-16-1037761",
-    "time": "2026-04-16T10:40:00.000Z"
   }
 ];

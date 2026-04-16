@@ -1,30 +1,48 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "Government pushes for free MMTS travel to boost use of public transport",
-    "desc": "The high-level interaction primarily focused on resolving pending issues related to land acquisition, shifting of utilities and other bottlenecks hampering the construction of several proposed road overbridges and road underbridges (ROB/RUBs) within and outside the capital region",
-    "img": "https://th-i.thgim.com/public/incoming/pelasb/article70870508.ece/alternates/LANDSCAPE_1200/SCR.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/government-pushes-for-free-mmts-travel-to-boost-use-of-public-transport/article70870387.ece",
-    "time": "2026-04-16T16:13:20.000Z"
+    "cat": "Sports",
+    "title": "Punjab Kings rise to No.1 as Mumbai Indians struggle at ninth",
+    "desc": "Punjab Kings continued their IPL 2026 dominance, defeating Mumbai Indians by seven wickets to claim the top spot in the points table. They remain the only unbeaten team, extending their strong start. Meanwhile, Mumbai Indians' struggles deepened with their fourth loss, placing them ninth.",
+    "img": "https://static.toiimg.com/photo/msid-130316357,imgsize-88338.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-points-table-after-match-24-punjab-kings-rise-to-no-1-as-mumbai-indians-struggle-at-ninth/articleshow/130316158.cms",
+    "time": "2026-04-16T18:42:58.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Housing for roadside dwellers and traffic solutions are top priorities for Harbour constituency, says Minister Sekarbabu",
-    "desc": "Minister P.K. Sekarbabu says 3,000 multi-storey housing units are planned to be built and a multi-level car parking facility being constructed at Broadway will reduce traffic congestion in areas like Sowcarpet. He also seeks to increase the number of educational institutions, learning centres, and libraries and provide uninterrupted electricity, safe drinking water, and proper sewer systems;",
-    "img": "https://th-i.thgim.com/public/news/national/mlr07b/article70869796.ece/alternates/LANDSCAPE_1200/sekarbbu.jpg",
+    "title": "More women in the fray, but Tamil Nadu polls remain overwhelmingly male",
+    "desc": "From just 11 women candidates in 1967, accounting for 1.41% of the total number of candidates, the figure has risen to 443 in 2026, making up 11.01% of the contestants. Though the increase is notable, proportionally, women continue to occupy only a small share of the candidate pool",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/zhabd2/article70870933.ece/alternates/LANDSCAPE_1200/17%20Upward%20trend.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/housing-for-roadside-dwellers-and-traffic-solutions-are-top-priorities-for-harbour-constituency-says-minister-sekarbabu/article70866290.ece",
-    "time": "2026-04-16T16:11:55.000Z"
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/more-women-in-the-fray-but-tamil-nadu-polls-remain-overwhelmingly-male/article70869542.ece",
+    "time": "2026-04-16T18:33:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Prabhsimran, Shreyas star in Punjab Kings’ 7-wicket demolition of Mumbai Indians",
+    "desc": "Punjab Kings ascended to the IPL 2026 summit with a dominant seven-wicket win over Mumbai Indians. Despite Quinton de Kock's brilliant 112, PBKS chased down 196 thanks to Prabhsimran Singh's unbeaten 80 and Shreyas Iyer's 66, securing their fourth victory.",
+    "img": "https://static.toiimg.com/photo/msid-130315836,imgsize-53568.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-prabhsimran-singh-shreyas-iyer-star-in-punjab-kings-7-wicket-demolition-of-mumbai-indians/articleshow/130315746.cms",
+    "time": "2026-04-16T18:18:36.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Road accident victims will get treatment worth ₹1.5 lakh free in hospitals, says Health Minister",
-    "desc": "PM RAHAT scheme will help save lives by ensuring timely treatment, it will be available at 656 government and private hospitals across A.P., announces Satya Kumar Yadav; calls for collective efforts by Transport, Health, and Police departments to bring down the number of accidents",
-    "img": "https://th-i.thgim.com/public/incoming/qsm6uf/article70870475.ece/alternates/LANDSCAPE_1200/vjkvg-pm%203.JPG",
+    "title": "Delimitation won’t bring down south’s share of seats, Modi, Shah tell Lok Sabha",
+    "desc": "Amit Shah says those spreading ‘misconceptions... do not understand’; he tells Lok Sabha that seats of five southern States will increase from 129 to 195 and reassures people of Tamil Nadu that their ‘power is increasing’",
+    "img": "https://th-i.thgim.com/public/incoming/jykpfn/article70870919.ece/alternates/LANDSCAPE_1200/PTI04_16_2026_000426B.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/road-accident-victims-will-get-treatment-worth-15-lakh-free-in-hospitals-says-health-minister/article70870194.ece",
-    "time": "2026-04-16T16:05:24.000Z"
+    "url": "https://www.thehindu.com/news/national/delimitation-wont-bring-down-souths-share-of-seats-modi-shah-tell-lok-sabha/article70870586.ece",
+    "time": "2026-04-16T18:17:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court’s intervention offers fresh hope to excluded electors for West Bengal Assembly polls",
+    "desc": "Chief Minister Mamata Banerjee urged all deleted voters to apply to the tribunals and assured them that they will get their rights reinstated; she said a supplementary list for the first phase of elections will be published on 21st April and the second phase on April 27, as per the Supreme Court order",
+    "img": "https://th-i.thgim.com/public/incoming/krrtw2/article70870903.ece/alternates/LANDSCAPE_1200/PTI04_11_2026_000343A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/west-bengal-assembly/supreme-courts-intervention-offers-fresh-hope-to-excluded-electors-for-west-bengal-assembly-polls/article70869795.ece",
+    "time": "2026-04-16T18:06:18.000Z"
   },
   {
     "cat": "Politics",
@@ -33,7 +51,142 @@ const newsData_en = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/parliament-budget-special-session-live-april-16-women-reservation/article70867519.ece",
-    "time": "2026-04-16T15:57:05.000Z"
+    "time": "2026-04-16T18:04:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit, SKY's priceless reactions to Shreyas Iyer stunner",
+    "desc": "Punjab Kings skipper Shreyas Iyer stunned everyone with a sensational boundary catch to dismiss Hardik Pandya, leaving Rohit Sharma and Suryakumar Yadav in disbelief. Despite a brilliant unbeaten 112 from Quinton de Kock, Mumbai Indians fell short as Punjab Kings secured a convincing win, powered by half-centuries from Iyer and Prabhsimran Singh.",
+    "img": "https://static.toiimg.com/photo/msid-130315300,imgsize-43046.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-rohit-sharma-suryakumar-yadavs-priceless-reactions-to-shreyas-iyer-stunner-watch/articleshow/130314296.cms",
+    "time": "2026-04-16T18:02:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Call all-party meeting to evolve consensus on women’s reservation: K.C. Venugopal",
+    "desc": "The government’s intention was to push through delimitation in the garb of the Women’s Reservation Bill, the Congress general secretary says in Lok Sabha; he adds that PM Narendra Modi did not mention the word “delimitation” even once in his speech during the debate on the Bill, when that was the main issue being raised by the Opposition",
+    "img": "https://th-i.thgim.com/public/incoming/gupaca/article70870880.ece/alternates/LANDSCAPE_1200/20260416381L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/call-all-party-meeting-to-evolve-consensus-on-womens-reservation-kc-venugopal/article70870100.ece",
+    "time": "2026-04-16T17:59:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "With BDS student’s death in Kannur, caste bias back in focus",
+    "desc": "The death of a student of Kannur Dental College has raised disturbing questions about caste discrimination on Kerala’s college campuses. The college has dismissed a faculty member and suspended another, pending inquiry. The incident led to an outpouring of related complaints from other students. The bereaved family, the student’s college-mates, faculty, and activists express their views",
+    "img": "https://th-i.thgim.com/public/incoming/4fiqi2/article70870235.ece/alternates/LANDSCAPE_1200/NH16NithinRaj06.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/with-bds-students-death-in-kannur-caste-bias-back-in-focus/article70869430.ece",
+    "time": "2026-04-16T17:58:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kangana recalls ‘witch-hunting’: 'Khoon peeti hai, kaala jaadu karti hai'",
+    "desc": "Kangana Ranaut has revisited a turbulent phase from her past, alleging that she was subjected to intense personal attacks and “witch-hunting” after an ex-partner filed a case against her. Kangana claimed that the situation spiralled into a public narrative that painted her in an extreme and damaging light. Looking back at that period, the actress maintained that she handled the situation to the best of her ability.",
+    "img": "https://static.toiimg.com/photo/msid-130314944,imgsize-30624.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-says-she-faced-witch-hunting-after-ex-filed-case-chudail-hai-khoon-peeti-hai-kaala-jaadu-karti-hai/articleshow/130314944.cms",
+    "time": "2026-04-16T17:57:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "On the Sabarimala temple entry case",
+    "desc": "As a Supreme Court Bench examines the broader implications of its 2018 Sabarimala ruling, the case prompts a look into the evolution of the essential religious practice doctrine, role of the State and the judiciary in religious reform, and the arguments over whether Ayyappa followers qualify as a religious denomination",
+    "img": "https://th-i.thgim.com/public/incoming/5s2kb3/article70870840.ece/alternates/LANDSCAPE_1200/PTI04_07_2026_000010B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/on-the-sabarimala-temple-entry-case/article70870812.ece",
+    "time": "2026-04-16T17:43:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RGV questions Dhurandhar 2 portrayal of Dawood Ibrahim",
+    "desc": "The Revenge, but the filmmaker has now pointed out a key aspect where he disagrees with the film—its portrayal of Dawood Ibrahim. In Dhurandhar 2, the gangster is referred to as ‘Bade Sahab’ and is shown as the mastermind orchestrating terror operations in India while controlling networks from Pakistan. Varma further explained that while he cannot claim absolute authority, the version shown in the film does not align with his understanding. The Satya director also shared his long-held belief about Dawood’s current status.",
+    "img": "https://static.toiimg.com/photo/msid-130313962,imgsize-41014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-questions-dhurandhar-2-portrayal-of-dawood-ibrahim-i-believe-he-retired-from-criminal-activities-20-years-ago/articleshow/130313962.cms",
+    "time": "2026-04-16T17:21:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav memes break internet after another flop show",
+    "desc": "Suryakumar Yadav faced intense backlash after a first-ball duck against Punjab Kings, with fans questioning his form and approach. His dismissal left Mumbai Indians struggling early. Strong performances from Quinton de Kock and Naman Dhir highlighted missed responsibility, increasing pressure on Surya to deliver in crucial matches.",
+    "img": "https://static.toiimg.com/photo/msid-130313929,imgsize-52028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-suryakumar-yadav-memes-break-internet-after-another-flop-show/articleshow/130313598.cms",
+    "time": "2026-04-16T17:16:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AIADMK leader Edappadi Palaniswami",
+    "desc": "When Union Minister Amit Shah visited Tamil Nadu, he assured that the State will not be affected, stated Mr. Palaniswami. “The NDA will implement delimitation better than what Mr. Stalin expects. The Centre is clear that no State will be affected by the delimitation,” he added.",
+    "img": "https://th-i.thgim.com/public/incoming/4d10c8/article70868820.ece/alternates/LANDSCAPE_1200/9869_16_4_2026_13_20_15_1__DSC7195.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/delimitation-bill-will-not-affect-tamil-nadu-says-aiadmk-leader-edappadi-palaniswami/article70868463.ece",
+    "time": "2026-04-16T17:06:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court asks Uttar Pradesh to consider plea flagging risk of liquor cartons in educational campuses",
+    "desc": "A Bench headed by Chief Justice of India Surya Kant directed the State government to accept a representation challenging the administrative decision made in February last year under the State excise policy allowing the manufacture, packaging and sale of liquor in small cartons",
+    "img": "https://th-i.thgim.com/public/incoming/6t1g1h/article70868080.ece/alternates/LANDSCAPE_1200/29th_abhinay_G0G1LFPCCDO.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-asks-uttar-pradesh-to-consider-plea-flagging-risk-of-liquor-cartons-in-educational-campuses/article70867867.ece",
+    "time": "2026-04-16T17:03:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Delimitation row erupts in Parliament: What happened?",
+    "desc": "In our new and third episode of Above the Fold, we look at the stormy session in the Lok Sabha as the Centre and Opposition clash over delimitation. Joshua Landis weighs in on the escalating West Asia conflict, while Donald Trump sparks controversy with a viral post. Also, a key Supreme Court of India observation on voting rights and R Vaishali clinches a major chess title.",
+    "img": "https://th-i.thgim.com/public/news/national/dbsr9j/article70870692.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-16%20at%209.54.59%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-delimitation-row-erupts-in-parliament-what-happened-above-the-fold-16042026/article70870698.ece",
+    "time": "2026-04-16T16:57:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC directive sparks renewed hopes of crackdown on commercial activities in residential layouts",
+    "desc": "While the corporations are awaiting official notice and see the development as an opportunity to increase revenue generation, citizens question how this will be different, as such violations are rampant in the city and the civic body has failed to enforce regulations",
+    "img": "https://th-i.thgim.com/public/incoming/opwdj/article70870216.ece/alternates/LANDSCAPE_1200/Diabolic-assaGGKFR80PA.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/sc-order-sparks-renewed-hopes-of-crackdown-on-commercial-activities-in-residential-layouts/article70865779.ece",
+    "time": "2026-04-16T16:44:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhoni set to be back in action next week",
+    "desc": "MS Dhoni's return to action is anticipated next week as his calf injury rehabilitation progresses well. He could feature in upcoming matches against Mumbai Indians or Gujarat Titans. Dhoni has been actively batting in nets, and if fully fit, may play as an 'Impact Player' with Sanju Samson continuing wicketkeeping duties.",
+    "img": "https://static.toiimg.com/photo/msid-130315042,imgsize-175508.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-dhoni-set-to-be-back-in-action-next-week/articleshow/130312899.cms",
+    "time": "2026-04-16T16:34:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Best catch ever? Shreyas’s effort leaves everyone stunned — Watch",
+    "desc": "Shreyas Iyer played a key part in pulling off a stunning boundary catch to dismiss Hardik Pandya, sparking “catch of the season” talks. His mid-air effort set up Xavier Bartlett’s grab. The moment shocked Rohit Sharma and halted Mumbai Indians’ surge despite Quinton de Kock’s 112 in their 195/6 total.",
+    "img": "https://static.toiimg.com/photo/msid-130312768,imgsize-95320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-best-catch-ever-shreyas-iyers-outrageous-effort-leaves-everyone-stunned-watch/articleshow/130311893.cms",
+    "time": "2026-04-16T16:29:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Isro, ATREE partner to map grasslands, improve land use planning",
+    "desc": "ISRO's Space Applications Centre and ATREE have partnered to map India's grasslands and open natural ecosystems using satellite data and ecological research. This collaboration aims to assess restoration impacts, improve carbon estimation, and generate policy-ready datasets for land use planning and conservation efforts.",
+    "img": "https://static.toiimg.com/photo/msid-130312639,imgsize-1109610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/isro-atree-partner-to-map-grasslands-improve-land-use-planning/articleshow/130312616.cms",
+    "time": "2026-04-16T16:21:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Madras HC rejects Tamannaah Bhatia’s Rs 1 crore plea",
+    "desc": "The Madras High Court has upheld a previous ruling, refusing Tamannaah Bhatia's appeal regarding an expired endorsement deal. The actress claimed her images were used without consent after her contract with Power Soaps Limited ended in 2009, impacting new opportunities. She sought ₹1 crore compensation, but both single and division benches rejected her plea.",
+    "img": "https://static.toiimg.com/photo/msid-130312292,imgsize-522514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madras-high-court-upholds-rejection-of-tamannaah-bhatias-rs-1-crore-compensation-plea/articleshow/130312292.cms",
+    "time": "2026-04-16T16:08:58.000Z"
   },
   {
     "cat": "Politics",
@@ -79,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/the-south-after-delimitation-what-the-maths-shows-from-tamil-nadu-to-andhra/articleshow/130311157.cms",
     "time": "2026-04-16T15:13:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC order sparks renewed hopes of crackdown on commercial activities in residential layouts",
-    "desc": "While the corporations are awaiting official notice and see the development as an opportunity to increase revenue generation, citizens question how this will be different, as such violations are rampant in the city and the civic body has failed to enforce regulations",
-    "img": "https://th-i.thgim.com/public/incoming/opwdj/article70870216.ece/alternates/LANDSCAPE_1200/Diabolic-assaGGKFR80PA.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/sc-order-sparks-renewed-hopes-of-crackdown-on-commercial-activities-in-residential-layouts/article70865779.ece",
-    "time": "2026-04-16T15:12:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -288,15 +432,6 @@ const newsData_en = [
     "time": "2026-04-16T10:20:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Don't want credit': Top quotes from PM Modi's Lok Sabha speech on women's reservation bill",
-    "desc": "Prime Minister Narendra Modi hailed the women's reservation Bill as a defining moment for India's democracy, emphasizing the need for greater female representation in policymaking. He asserted that the Nari Shakti Vandan Adhiniyam, providing 33% reservation for women, will give India a new direction, linking it to the nation's ancient democratic roots and the vision of a 'Viksit Bharat'.",
-    "img": "https://static.toiimg.com/photo/msid-130303742,imgsize-1002134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dont-want-credit-top-quotes-from-pm-modis-lok-sabha-speech-on-womens-reservation-bill/articleshow/130303636.cms",
-    "time": "2026-04-16T10:08:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Ek Din' trailer 2: Sai's Hindi and Junaid's romantic charm wins over fans",
     "desc": "The second trailer for 'Ek Din,' starring Sai Pallavi and Junaid Khan, has been released, offering a clearer look at the romantic drama. The film, a remake of the Thai movie 'One Day,' is set to premiere on May 1, 2026, with netizens expressing high anticipation for the lead pair's performances.",
@@ -322,24 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/politicisation-by-pakistan-lalit-modi-blames-pcb-for-influence-of-india-pak-cricket-freeze/articleshow/130303192.cms",
     "time": "2026-04-16T09:46:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Will TVK’s solo gamble split votes or fulfil Vijay’s CM dream?",
-    "desc": "Actor Vijay's new political party, TVK, is making a bold solo bid in the 2026 Tamil Nadu elections, challenging the state's long-standing alliance-driven politics. Historically, success hinges on coalitions, not standalone appeal. TVK's gamble aims for direct leadership, but faces the challenge of converting visibility into seats without established networks, potentially acting as a vote-splitter.",
-    "img": "https://static.toiimg.com/photo/msid-130303143,imgsize-1017556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-elections-2026-will-tvks-solo-gamble-split-votes-or-fulfil-vijays-cm-dream/articleshow/130302264.cms",
-    "time": "2026-04-16T09:45:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court questions limits of judicial scrutiny under Article 25",
-    "desc": "The Supreme Court heard arguments on whether religious practices, like the nudity of Digambar Jain sadhus, can be banned. The Travancore Devaswom Board argued that courts shouldn't judge core religious tenets, citing a Nepal SC ruling on Naga Sadhus. The board emphasized that a community's belief determines religious practice, not external adjudication.",
-    "img": "https://static.toiimg.com/photo/msid-130303106,imgsize-722027.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/supreme-court-questions-limits-of-judicial-scrutiny-under-article-25/articleshow/130303030.cms",
-    "time": "2026-04-16T09:41:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -379,15 +496,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Highlander' first teaser: Cavill debuts as immortal warrior",
-    "desc": "CinemaCon 2026 unveils a thrilling reboot of 'Highlander' featuring Henry Cavill as the formidable Connor MacLeod. The teaser is packed with 'John Wick'-style thrills, showcasing heart-pounding action across different eras and emotional narratives. Joined by the compelling talents of Russell Crowe and Dave Bautista, this film revitalizes the age-old clash of immortals, all set to the electrifying sounds of Queen.",
-    "img": "https://static.toiimg.com/photo/msid-130302206,imgsize-51664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/highlander-teaser-henry-cavills-immortal-warrior-takes-center-stage-first-look-promises-epic-journey/articleshow/130302170.cms",
-    "time": "2026-04-16T08:53:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar 2' BO day 29 [LIVE]: Ranveer Singh film marches past Rs. 1,100 crore milestone",
     "desc": "The Revenge' has officially breached the Rs. 1,100 crore net milestone in India on Day 29. From its massive Rs. 90 crore opening day to becoming the first Hindi film to enter the Rs. 1,000 crore club, Aditya Dhar’s spy thriller starring Ranveer Singh is rewriting history. Read on to learn more about the latest live tracking updates, day-wise collection breakdown for Week 1, 2, and 3 and a recap of the worldwide gross hitting Rs. 1,733 crore despite the IPL 2026 craze.",
     "img": "https://static.toiimg.com/photo/msid-130301791,imgsize-170516.cms",
@@ -403,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rcb-vs-csk-dosa-idly-row-from-jitesh-sharmas-clip-to-chepauk-what-sparked-controversy/articleshow/130301021.cms",
     "time": "2026-04-16T08:17:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Weird habits of Indian TV stars",
-    "desc": "Behind the scenes of Indian television, legendary actors reveal surprising habits. Hina Khan's constant misplacement of belongings, Divyanka Tripathi's disturbing immersion in 'Crime Patrol' cases, Dara Singh's sleep-talking as Lord Hanuman, and Kapil Sharma's persistent pre-show nervousness offer a glimpse into the fascinating, often eccentric, lives of TV stars beyond their scripted roles.",
-    "img": "https://static.toiimg.com/photo/msid-130301399,imgsize-93970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/hindi/weird-habits-of-indian-tv-stars-that-will-shock-you/articleshow/130301399.cms",
-    "time": "2026-04-16T08:14:38.000Z"
   },
   {
     "cat": "Business",
@@ -448,24 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-delimitation-controversy-bihars-first-bjp-cm-above-the-fold-15042026/article70866454.ece",
     "time": "2026-04-16T07:06:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat tops the list, Sooryavanshi trails by...",
-    "desc": "Virat Kohli leads the IPL 2026 Orange Cap race with 228 runs, showcasing his enduring form. He's closely followed by Heinrich Klaasen and RCB teammate Rajat Patidar. Explosive performances from Ishan Kishan and Vaibhav Sooryavanshi also feature prominently in the top rankings, promising an exciting season ahead.",
-    "img": "https://static.toiimg.com/photo/msid-130299529,imgsize-1159159.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-orange-cap-virat-kohli-tops-the-list-with-288-runs-vaibhav-sooryavanshi-trails-by-/articleshow/130299433.cms",
-    "time": "2026-04-16T06:29:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gopalganj’s ‘Rabada’ Sakib Hussain, a destiny’s child, adapts and delivers on debut",
-    "desc": "Sakib Hussain finally got his IPL chance with Sunrisers Hyderabad and made it count. From humble beginnings and years of waiting, he relied on control and clever variations rather than just pace, making an instant impact.",
-    "img": "https://static.toiimg.com/photo/msid-130298688,imgsize-183986.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-gopalganjs-rabada-sakib-hussain-a-destinys-child-adapts-and-delivers-on-debut/articleshow/130298577.cms",
-    "time": "2026-04-16T05:47:17.000Z"
   },
   {
     "cat": "Sports",
@@ -514,39 +595,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "How Vaishali caged Lagno's 'dragon' to claim historic Women's Candidates title",
-    "desc": "Playing white pieces while chasing a result, players often get greedy and make more adventurous, attacking moves on the board, weakening their defence in the process. Vaishali had white pieces. She was up against Russia's Kateryna Lagno, a mother of four and quite brilliant at keeping a poker face on the table. Vaishali had to be brave to overcome the challenge posed by the veteran, and she did so with a clinical precision that belied the stakes.",
-    "img": "https://static.toiimg.com/photo/msid-130295989,imgsize-71442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/explained-how-indias-r-vaishali-caged-lagnos-dragon-to-claim-historic-womens-candidates-2026-title/articleshow/130295968.cms",
-    "time": "2026-04-16T02:12:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Comedy of errors in PSL! Chaos unfolds as run-out chance goes begging",
-    "desc": "The incident took place in the final over of Quetta’s innings. Ali Raza bowled a waist-high no-ball to Usman Tariq on the fourth delivery. On the next ball, which was a free hit, Abrar Ahmed was on strike.",
-    "img": "https://static.toiimg.com/photo/msid-130295882,imgsize-25968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/comedy-of-errors-in-psl-chaos-unfolds-on-free-hit-after-yes-no-call-creates-confusion-watch/articleshow/130295739.cms",
-    "time": "2026-04-16T02:01:02.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "IPL 2026 RCB vs LSG",
     "desc": "The night turned out to be even grimmer for the Super Giants as their skipper Rishabh Pant had to retire hurt on zero after a copping a blow on his left elbow by RCB pacer Hazlewood.",
     "img": "https://th-i.thgim.com/public/incoming/nzw75h/article70866245.ece/alternates/LANDSCAPE_1200/2026-04-15T160009Z_328336853_UP1EM4F18G896_RTRMADP_3_CRICKET-IPL-RCB-LSG.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ipl-2026-royal-challengers-bengaluru-lucknow-super-giants-virat-kohli-rishabh-pant-updates/article70865567.ece",
     "time": "2026-04-16T00:27:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Dhurandhar 2’ misses Rs 1,100 mark by a whisker ahead of week 5",
-    "desc": "The Revenge' has achieved a historic Rs 1,099.72 crore net in India, becoming the first Hindi film to cross the Rs 1,000 crore mark in a single language. Despite minor fluctuations, the espionage thriller has maintained a strong box office presence for 28 days, with a worldwide gross of Rs 1,733.20 crore.",
-    "img": "https://static.toiimg.com/photo/msid-130295418,imgsize-87736.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-28-ranvee-singh-rakesh-bedi-sanjay-dutts-film-misses-rs-1100-mark-by-a-whisker-ahead-of-5th-week/articleshow/130295423.cms",
-    "time": "2026-04-16T00:26:34.000Z"
   },
   {
     "cat": "Business",
@@ -693,24 +747,6 @@ const newsData_en = [
     "time": "2026-04-15T09:09:37.000Z"
   },
   {
-    "cat": "World",
-    "title": "IAEA chief",
-    "desc": "North Korea's nuclear programme was estimated at a ⁠few dozen warheads, Grossi told a news conference, citing signs of activity such as the operation of a light water reactor and activation of other facilities besides Yongbyon",
-    "img": "https://th-i.thgim.com/public/incoming/bv2043/article70864277.ece/alternates/LANDSCAPE_1200/South_Korea_IAEA_38521.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/north-korea-is-boosting-nuclear-weapons-capacity-iaea-chief/article70864157.ece",
-    "time": "2026-04-15T07:03:41.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Minister",
-    "desc": "Deputy Defence Minister Aruna Jayasekara said 32 sailors rescued from the IRIS Dena — a frigate attacked on March 4 just off Sri Lanka — and another 206 from the IRIS Bushehr left on April 14, 2026",
-    "img": "https://th-i.thgim.com/public/incoming/fh90p0/article70864029.ece/alternates/LANDSCAPE_1200/Sri_Lanka_Iran_Warship_49238.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/sri-lanka-repatriates-238-stranded-iranian-sailors-minister/article70863987.ece",
-    "time": "2026-04-15T06:08:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Interview",
     "desc": "Ghosal says that bringing quality coaches to India will be the first step in this direction; feels that players are currently being produced mainly due to personal drive and initiative; opines that there’s enough depth in the men’s ranks to defend the Asian Games gold",
@@ -745,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/mcilroy-falters-shares-masters-lead-with-surging-young/article70856212.ece",
     "time": "2026-04-14T05:46:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajat Patidar — the new king of Chinnaswamy",
-    "desc": "His growth as a leader has made for spectacular viewing and fears that he would be compelled to perform under the towering shadow of Kohli have proved unfounded; he is a captain who believes in leading from the front and espousing the cause of positivity",
-    "img": "https://th-i.thgim.com/public/incoming/vq6tqu/article70858955.ece/alternates/LANDSCAPE_1200/_DSC8075.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/rajatpatidar-the-new-king-ofchinnaswamy/article70858946.ece",
-    "time": "2026-04-13T18:19:05.000Z"
   },
   {
     "cat": "Business",
@@ -871,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
     "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "શું છે રોટેશન સિસ્ટમ? અખિલેશ યાદવે મહિલા અનામતમાં જેનો વિરોધ કર્યો, બિલમાં શું છે જોગવાઈ",
+    "desc": "ધારો કે આજે કોઈ શહેરની વિધાનસભા કે લોકસભા બેઠક મહિલાઓ માટે અનામત છે, તો આગામી વખતે જ્યારે પરિસીમન (Delimitation) થશે, ત્યારે મહિલાઓ માટે અનામત તે બેઠક સામાન્ય થઈ શકે છે અને અન્ય કોઈ વિસ્તારની બેઠક મહિલાઓ માટે અનામત રાખવામાં આવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-is-the-rotation-system-what-akhilesh-yadav-opposed-in-women-reservation-what-is-the-provision-in-the-bill-473449 ",
+    "time": "2026-04-16T18:17:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સરકારી કર્મચારીઓ માટે મોટી ખુશખબર, મોંઘવારી ભથ્થામાં 5%નો કરાયો વધારો; છ હપ્તામાં મળશે બાકી એરિયર!",
+    "desc": "જાન્યુઆરીથી જૂન છ મહિનાના DA એટલે કે મોંઘવારી ભથ્થાની રાહ જોવાઈ રહી છે. સામાન્ય રીતે હોળીના તહેવાર દરમિયાન મોંઘવારી ભથ્થાની જાહેરાત થઈ જતી હોય છે, પરંતુ આ વખતે હજુ સુધી DAની જાહેરાત થઈ શકી નથી. આ દરમિયાન કેટલાક કર્મચારીઓ માટે ખુશખબર મળી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/da-hike-news-madhya-pradesh-6th-pay-commission-5-percent-increase-arrears-update-473448 ",
+    "time": "2026-04-16T17:34:46.000Z"
+  },
+  {
     "cat": "World",
     "title": "શું આગામી 48 કલાકમાં ઈરાન-અમેરિકા યુદ્ધ સમાપ્ત થઈ જશે? ટ્રમ્પે આપ્યા મોટા સંકેત",
     "desc": "ઈરાન સામેના યુદ્ધમાં હવે ટ્રમ્પ નબળા પડી રહ્યા હોય તેવુ લાગી રહ્યું છે. તેઓએ અચાનક સૂર બદલ્યો છે અને 48 કલાકમાં યુદ્ધ બંધ કરવાની વાત કરી છે. આ વાત પરથી લાગે છે કે, યુદ્ધને લઈ ડોનાલ્ડ ટ્રમ્પ ખુદ ફસાઈ ગયા છે. હવે તેઓ હોર્મુઝ મુ્દ્દે પાછી પાની કરે તેવી શક્યતા દેખાઈ રહી છે. ત્યારે ટ્રમ્પના બદલાતા નિવેદનો પર ઉભા થયા સવાલ.",
@@ -79,15 +97,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/rajat-patidar-strong-contender-for-t20-debut-in-team-india-after-ipl-2026-473328 ",
     "time": "2026-04-16T06:56:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મહિલા અનામત લાગૂ કરવાની તૈયારીઓ, લોકસભા સીટો 850 કરવાનો પ્રસ્તાવ, જાણો ગુજરાતમાં કેટલી વધી શકે સીટો?",
-    "desc": "મહિલાઓને લોકસભા અને વિધાનસભાઓમાં 33 ટકા અનામત આપવા માટે તૈયારીઓ ચાલુ છે. જે હેઠળ 16 એપ્રિલે લોકસભામાં બિલ રજૂ થઈ શકે છે. આ સાથે કુલ 3 બિલ રજૂ થશે જે મુજબ ગુજરાતની લોકસભા અને વિધાનસભાની સીટોમાં કેટલો વધારો થઈ શકે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/proposal-to-increase-lok-sabha-seats-know-how-many-seats-can-be-increased-in-gujarat-473132 ",
-    "time": "2026-04-16T06:20:12.000Z"
   },
   {
     "cat": "Sports",
