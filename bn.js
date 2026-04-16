@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "ওয়ার্কিং ডে সিক্স, অসুস্থতাতেও ছুটি নেই, ব্রেক মাত্র ১৫ মিনিট- ১৭ লাখের চাকরি ছুঁড়ে ফেলে ভাইরাল IIT স্নাতক",
+    "desc": "৯টা–৫টার চাকরি সকাল ৯টা থেকে সন্ধ্যা ৭টা পর্যন্ত চলত কাজ। তাতেও শেষ হত না। এমনকি ৫ দিনের জায়গায় ওয়ার্কিং ডে বাড়িয়ে ৬ দিনের করে দেওয়া হয়। বিশ্রামের কোনও সুযোগ প্রায় থাকত না। ব্যক্তিগত সময়ও পাওয়া যেত না।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/no-sick-leaves-only-15-minute-lunch-break-iiit-delhi-graduate-quits-rs-17-lpa-job_649041.html ",
+    "time": "2026-04-16T12:31:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ভোটবাংলার ঘাটালে 'প্রজাপতি ৩', 'নির্বাক' মিঠুনকে I Love You ছুড়ে দিলেন দেব",
+    "desc": "\"রাজনীতি মানেই কি শুধু লড়াই? আদপেই না! সতীর্থ অভিনেতা মিঠুন চক্রবর্তীর প্রতি ফের ভালোবাসা প্রকাশ করলেন ঘাটালের সাংসদ দেব। বিজেপির হয়ে মিঠুন প্রচার করে গেলেও, দেবের উত্তর— ‘লাভ ইউ মিঠুন দা’। এই সৌজন্যই কি বাংলার রাজনীতির আসল পরিচয়?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/dev-says-love-you-mithun-da-during-ghatal-campaign-political-courtesy_649034.html ",
+    "time": "2026-04-16T11:38:13.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "সহকর্মীর সঙ্গে 'তিক্ত প্রেমে'ই নাসিক TCS-এর পুরো 'কেলেঙ্কারি'? অভিযুক্তের স্ত্রীর বিস্ফোরক দাবি- ১৮০°  ঘুরে যাবে তদন্ত?",
     "desc": "অভিযুক্তের স্ত্রীর আরও দাবি, তাঁর স্বামী ও অভিযোগকারীর সম্পর্ক অফিসে প্রায় সবাই জানা ছিল। ঘণ্টার পর ঘণ্টা অপেক্ষা করতেন কাজ শেষ হওয়ার জন্য। গোটা মামলার সূত্রপাত হয় যখন এক মহিলা কর্মী অভিযোগ করেন যে এক সহকর্মী তাঁকে বিয়ের প্রতিশ্রুতি দিয়ে তাঁর সঙ্গে সম্পর্কে জড়ান। তারপর তদন্ত এগোতেই আরও ৭ জন মহিলা একই ধরনের অভিজ্ঞতার কথা জানান।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -34,15 +52,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/cbse-10th-result-2026-declared-live-class-10-results-direct-link-results-cbse-nic-in_648905.html ",
     "time": "2026-04-15T11:54:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "নিজের রক্ত টেনে নিজের শরীরেই ইনজেক্ট- ভয়ংকর মারণ নেশায় পাগল যুবসমাজ, ডেকে আনছে মৃত্যুও",
-    "desc": "তরুণরা নিজেদের শরীর থেকে রক্ত বের করে আবার সেটি নিজের শরীরেই ইনজেক্ট করছে অদ্ভুত এক নেশাতুর অনুভূতির জন্য। আক্রান্তদের বয়স ১৮ থেকে ২৫ বছরের মধ্যে। প্রথমে কৌতূহল বা মজা থেকে শুরু হলেও, ধীরে ধীরে তা নেশায় পরিণত হচ্ছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/blood-kick-horror-in-bhopal-youth-inject-own-blood-back-into-their-bodies_648776.html ",
-    "time": "2026-04-14T14:16:41.000Z"
   },
   {
     "cat": "World",
@@ -142,14 +151,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/entertainment-news-asha-bhosle-suffers-cardiac-arrest-hospitalised-in-breach-candy-hospital_648378.html ",
     "time": "2026-04-11T15:59:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

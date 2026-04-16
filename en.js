@@ -1,12 +1,165 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "‘32 Ferraris’: Michael Vaughan left speechless by Lalit Modi’s lavish collection",
+    "desc": "Former England captain Michael Vaughan was astonished as Lalit Modi revealed his extensive Ferrari collection during an interview. Modi gifted his son a Ferrari every year from age 21, amassing 11 cars for him, while Modi himself owns 21. The conversation also touched upon emerging cricket talent like Vaibhav Sooryavanshi.",
+    "img": "https://static.toiimg.com/photo/msid-130308386,imgsize-18012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/32-ferraris-michael-vaughan-left-speechless-by-lalit-modis-lavish-collection/articleshow/130307852.cms",
+    "time": "2026-04-16T13:05:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AIADMK leader Edappadi Palaniswami",
+    "desc": "When Union Minister Amit Shah visited Tamil Nadu, he assured that the State will not be affected, stated Mr. Palaniswami. “The NDA will implement delimitation better than what Mr. Stalin expects. The Centre is clear that no State will be affected by the delimitation,” he added.",
+    "img": "https://th-i.thgim.com/public/incoming/4d10c8/article70868820.ece/alternates/LANDSCAPE_1200/9869_16_4_2026_13_20_15_1__DSC7195.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/delimitation-bill-will-not-affect-tamil-nadu-says-aiadmk-leader-edappadi-palaniswami/article70868463.ece",
+    "time": "2026-04-16T12:51:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Behind Vaishali's Candidates glory is a 19-year-old boy named Pranesh",
+    "desc": "2025 saw third edition of Chennai Grand Masters. R Vaishali, the nation's toast at the moment, was invited to compete in the Challengers section, which includes relatively lower-rated players than the Masters field. Vaishali had a nightmarish tournament, finishing rock bottom. The winner of the Challengers section was Munirethinam Pranesh, a baby-faced assassin on the board.",
+    "img": "https://static.toiimg.com/photo/msid-130307605,imgsize-80758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/behind-vaishalis-candidates-glory-is-a-19-year-old-boy-named-m-pranesh/articleshow/130307038.cms",
+    "time": "2026-04-16T12:38:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kangana backs Deepika's eight-hour workday demand",
+    "desc": "Kangana Ranaut supports Deepika Padukone's exits from Spirit and Kalki 2898 AD sequel over 8-hour workday demands, saying as a top actress and mother, \"she has earned it.\" She recalls their past 12-14 hour shifts, slams pressures on women, with Deepika next in Raaka.",
+    "img": "https://static.toiimg.com/photo/msid-130306860,imgsize-44988.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-backs-deepika-padukones-eight-hour-workday-demand-amid-exit-from-spirit-and-kalki-shes-a-mother-shes-has-earned-that-place/articleshow/130306860.cms",
+    "time": "2026-04-16T12:23:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Venezuela, Russia step up crude shipments, India benefits",
+    "desc": "Amid a global crude oil crisis triggered by the Iran war and the closure of the Strait of Hormuz, India is likely to have lapped up most of the increased crude oil shipments from Venezuela and Russia",
+    "img": "https://th-i.thgim.com/public/incoming/9u2qqh/article70866102.ece/alternates/LANDSCAPE_1200/AFP_A7WU9ZV.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/venezuela-russia-step-up-crude-shipments-india-benefits/article70866091.ece",
+    "time": "2026-04-16T11:52:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Camera traps set up to identify animal responsible for woman’s death in Nilgiris",
+    "desc": "Forest department officials dismissed claims that the animal responsible for the attack is the same tiger that was responsible for the killing of two Toda adivasi men in Governor Shola in 2025 and Sholur in 2026",
+    "img": "https://th-i.thgim.com/public/incoming/xokmk1/article70868981.ece/alternates/LANDSCAPE_1200/10214_15_4_2026_17_33_8_1_IMG_20260415_WA0221.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/camera-traps-set-up-to-identify-animal-responsible-for-womans-death-in-nilgiris/article70868547.ece",
+    "time": "2026-04-16T11:38:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Kilmer's support helped Downey in his sobriety journey",
+    "desc": "Val Kilmer's quiet support was crucial for Robert Downey Jr.'s comeback. During the filming of 'Kiss Kiss Bang Bang' in 2005, Kilmer abstained from drinking to help Downey maintain sobriety amidst his ongoing battle with addiction.",
+    "img": "https://static.toiimg.com/photo/msid-130305547,imgsize-88098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/how-val-kilmers-quiet-sacrifice-helped-robert-downey-jr-through-addiction-and-the-comeback-that-changed-hollywood/articleshow/130305519.cms",
+    "time": "2026-04-16T11:23:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Kala tika on bills': PM Modi takes swipe at DMK over black attire protest",
+    "desc": "Prime Minister Modi lauded the women's reservation Bill in Lok Sabha, while criticizing DMK's protest against the delimitation Bill. He assured no state would face injustice, countering Udhayanidhi Stalin's claims of reduced Tamil Nadu representation. The delimitation and women's quota bills were introduced after a division vote.",
+    "img": "https://static.toiimg.com/photo/msid-130305358,imgsize-868102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kala-tika-on-bills-pm-modi-takes-swipe-at-dmk-over-black-attire-protest/articleshow/130304994.cms",
+    "time": "2026-04-16T11:14:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' OTT release date: Makers share update amid ‘Tridev’ song 'Oye Oye' copyright row",
+    "desc": "The Revenge' continues its thunderous box-office run since its theatrical release on March 19, 2026, the Delhi High Court has declined an immediate injunction against the Ranveer Singh-starrer in a copyright dispute over 'Tridev' rights, but with a catch. B62 Studios has officially informed the court that the Rs. 1,700 crore blockbuster will not arrive on any digital platform before mid-May 2026. Read on to learn more about the legal battle between Trimurti Films and the producers, the 'Oye Oye' song controversy, and the court's order on revenue tracking.",
+    "img": "https://static.toiimg.com/photo/msid-130304626,imgsize-229312.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-ott-release-date-makers-share-update-amid-delhi-high-court-dispute-with-tridev-song-oye-oye-copyright-row/articleshow/130304626.cms",
+    "time": "2026-04-16T11:14:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Distribution of booth slips underway",
+    "desc": "The Voter Information Slip contains voter’s details, location of the polling station, date and time of polling and a snapshot of the polling station map along with a list of Do’s and Don’ts to guide the voters on poll day, an official release said.",
+    "img": "https://th-i.thgim.com/public/incoming/qgv7il/article70868934.ece/alternates/LANDSCAPE_1200/DSC_8325.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/distribution-of-booth-slips-for-tn-assembly-election-2026-underway/article70868667.ece",
+    "time": "2026-04-16T11:12:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why the TCS Nashik case has sparked outrage",
+    "desc": "A major police investigation is underway into allegations involving employees at Tata Consultancy Services’ Nashik BPO facility. Multiple FIRs have been registered accusing certain staff members of sexual harassment, coercion, and attempts at religious conversion. As arrests are made and an SIT probes the claims, the case has triggered outrage and raised wider questions about workplace safety, consent, religious freedom, and due process. TCS has suspended the accused employees and launched an internal inquiry as the investigation continues.",
+    "img": "https://th-i.thgim.com/public/incoming/mvvdwx/article70868944.ece/alternates/LANDSCAPE_1200/PULSE%20MAHARASHTRA%20with%20Vinaya%20Deshpande%20%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/why-the-tcs-nashik-case-has-sparked-outrage-pulse-maharashtra/article70868962.ece",
+    "time": "2026-04-16T11:10:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "4 players who could replace injured Khaleel Ahmed in CSK",
+    "desc": "Chennai Super Kings face a major blow as Khaleel Ahmed is out of IPL 2026 with a quadriceps injury. His absence comes at a crucial time as CSK seeks to build on recent momentum. The team is now exploring replacements like Chetan Sakariya, Akash Madhwal, Simarjeet Singh, and Kamlesh Nagarkoti to bolster their bowling attack.",
+    "img": "https://static.toiimg.com/photo/msid-130304970,imgsize-42044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-4-players-who-could-replace-injured-khaleel-ahmed-in-csk/articleshow/130304950.cms",
+    "time": "2026-04-16T11:01:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Hormuz supply crunch triggers electricity shortage in Islamabad",
+    "desc": "Pakistan faces severe electricity shortages due to disruptions in the Strait of Hormuz. The ongoing Middle East conflict has impacted energy supplies, leading to extended power outages for homes and industries. Businesses are struggling with up to eight hours of loadshedding daily. Pakistan relies heavily on Qatar for LNG imports, and supply issues are intensifying.",
+    "img": "https://static.toiimg.com/photo/msid-130304789,imgsize-165628.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/blackout-in-pakistan-hormuz-supply-crunch-triggers-electricity-shortage-in-islamabad/articleshow/130302758.cms",
+    "time": "2026-04-16T10:51:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'My guarantee': PM Modi says no state to face injustice due to delimitation",
+    "desc": "The Congress on Thursday alleged that the government wants to \"bulldoze\" delimitation in the name of women's reservation, and asserted that if it is really committed to implementing the women's quota law it should do so immediately on the basis of the current strength of Lok Sabha. The opposition party also alleged that the BJP was using delimitation as a \"political weapon\" to increase its influence.",
+    "img": "https://static.toiimg.com/photo/msid-130304525,imgsize-107096.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/my-guarantee-pm-modi-says-no-state-to-face-injustice-due-to-delimitation/articleshow/130304043.cms",
+    "time": "2026-04-16T10:43:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BSF officer killed in fuel depot fire at Bengal border outpost",
+    "desc": "Tragedy struck the Bankra border outpost in West Bengal's North 24 Parganas as a devastating fire engulfed a fuel depot. Assistant Sub Inspector Jagi Ram tragically lost his life after being trapped inside during a blast that ignited the blaze. The depot supplied fuel for BSF boats patrolling the Sundarbans. Authorities are investigating the incident.",
+    "img": "https://static.toiimg.com/photo/msid-130304124,imgsize-813487.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bsf-officer-killed-in-fuel-depot-fire-at-bengal-border-outpost/articleshow/130303997.cms",
+    "time": "2026-04-16T10:20:06.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Ahead of Assembly election results, Congress leadership debate in Kerala heats up",
-    "desc": "In a contentious FB post, K. Sudhakaran backs K.C. Venugopal’s leadership. While Ramesh Chennithala says party high command will take final call, KPCC president Sunny Joseph points out ‘senior leaders should not jump the gun’ on the matter. Left supporters seek to characterise ‘feuding’ in Congress as a move aimed at testing ‘factional loyalties and flushing out potential rivals’",
+    "desc": "In a contentious FB post, K. Sudhakaran backs K.C. Venugopal. While Ramesh Chennithala says party high command will take final call, KPCC president Sunny Joseph points out ‘senior leaders should not jump the gun’ on the matter. Left supporters seek to characterise ‘feuding’ in Congress as a move aimed at testing ‘factional loyalties and flushing out potential rivals’",
     "img": "https://th-i.thgim.com/public/news/national/kerala/3lkg4f/article70868708.ece/alternates/LANDSCAPE_1200/Congress.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/kerala-assembly/ahead-of-assembly-election-results-congress-leadership-debate-in-kerala-heats-up/article70868584.ece",
-    "time": "2026-04-16T10:04:21.000Z"
+    "time": "2026-04-16T10:19:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Don't want credit': Top quotes from PM Modi's Lok Sabha speech on women's reservation bill",
+    "desc": "Prime Minister Narendra Modi hailed the women's reservation Bill as a defining moment for India's democracy, emphasizing the need for greater female representation in policymaking. He asserted that the Nari Shakti Vandan Adhiniyam, providing 33% reservation for women, will give India a new direction, linking it to the nation's ancient democratic roots and the vision of a 'Viksit Bharat'.",
+    "img": "https://static.toiimg.com/photo/msid-130303742,imgsize-1002134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dont-want-credit-top-quotes-from-pm-modis-lok-sabha-speech-on-womens-reservation-bill/articleshow/130303636.cms",
+    "time": "2026-04-16T10:08:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ek Din' trailer 2: Sai's Hindi and Junaid's romantic charm wins over fans",
+    "desc": "The second trailer for 'Ek Din,' starring Sai Pallavi and Junaid Khan, has been released, offering a clearer look at the romantic drama. The film, a remake of the Thai movie 'One Day,' is set to premiere on May 1, 2026, with netizens expressing high anticipation for the lead pair's performances.",
+    "img": "https://static.toiimg.com/photo/msid-130303732,imgsize-34132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ek-din-trailer-2-drop-and-netizen-reactions-sai-pallavis-hindi-and-junaid-khans-romantic-charm-wins-over-fans-watch/articleshow/130303695.cms",
+    "time": "2026-04-16T10:07:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -64,15 +217,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "What are the costs of population decline?",
-    "desc": "What are the pros and cons of efforts to increase fertility rates? Which are the States with a growing population of the elderly? Has it reached a crisis point in some States? Will an uneven population growth shake up the federal structure? What will happen in the next round of delimitation?",
-    "img": "https://th-i.thgim.com/public/incoming/pn9rxu/article68850442.ece/alternates/LANDSCAPE_1200/shelter_02.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/what-are-the-costs-of-population-decline/article68850152.ece",
-    "time": "2026-04-16T09:46:12.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Will TVK’s solo gamble split votes or fulfil Vijay’s CM dream?",
     "desc": "Actor Vijay's new political party, TVK, is making a bold solo bid in the 2026 Tamil Nadu elections, challenging the state's long-standing alliance-driven politics. Historically, success hinges on coalitions, not standalone appeal. TVK's gamble aims for direct leadership, but faces the challenge of converting visibility into seats without established networks, potentially acting as a vote-splitter.",
     "img": "https://static.toiimg.com/photo/msid-130303143,imgsize-1017556.cms",
@@ -82,39 +226,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "What is the significance of the Census?",
-    "desc": "When was the first Census conducted? What are the two phases of the current Census exercise? Why is caste going to be enumerated in the upcoming Census? Why are southern States and some of the smaller States apprehensive about the Census exercise?",
-    "img": "https://th-i.thgim.com/public/incoming/gxz8sh/article69672340.ece/alternates/LANDSCAPE_1200/India_Caste_Census_70627.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/what-is-the-significance-of-the-census-explained/article69672320.ece",
-    "time": "2026-04-16T09:43:46.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Supreme Court questions limits of judicial scrutiny under Article 25",
     "desc": "The Supreme Court heard arguments on whether religious practices, like the nudity of Digambar Jain sadhus, can be banned. The Travancore Devaswom Board argued that courts shouldn't judge core religious tenets, citing a Nepal SC ruling on Naga Sadhus. The board emphasized that a community's belief determines religious practice, not external adjudication.",
     "img": "https://static.toiimg.com/photo/msid-130303106,imgsize-722027.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/supreme-court-questions-limits-of-judicial-scrutiny-under-article-25/articleshow/130303030.cms",
     "time": "2026-04-16T09:41:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Wage rage escalates in Noida, domestic workers join stir",
-    "desc": "Day after factory workers’ protests turn violent in Noida, 350 arrested; police conduct flag marches; additional forces deployed across industrial area; workers continue to demand improved working conditions; police use lathi charge, tear gas to disperse domestic workers outside high-rise society",
-    "img": "https://th-i.thgim.com/public/incoming/dtneiy/article70868534.ece/alternates/LANDSCAPE_1200/2026-04-14T043144Z_1581902442_RC2ROKA0XWES_RTRMADP_3_IRAN-CRISIS-INDIA-WORKERS-PROTEST.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/wage-rage-escalates-house-help-join-stir/article70868537.ece",
-    "time": "2026-04-16T09:41:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The Delimitation Commission’s calculated departure",
-    "desc": "Under Article 170 of the Constitution and Section 8(b) of the Delimitation Commission Act, 1962, the number of seats in a State Assembly must be an integral multiple of the number of Lok Sabha seats allotted to that State",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/1jq2at/article70697917.ece/alternates/LANDSCAPE_1200/TNAssembly.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/how-tamil-nadu-got-234-assembly-seats-the-delimitation-commissions-calculated-departure/article70697897.ece",
-    "time": "2026-04-16T09:39:45.000Z"
   },
   {
     "cat": "Entertainment",
@@ -262,39 +379,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Akshay Kumar addresses fan queries about Hera Pheri 3",
-    "desc": "Akshay Kumar went live on Instagram ahead of Bhooth Bangla’s April 17 release, teaming up again with Priyadarshan, Paresh Rawal, and Rajpal Yadav. He told fans there’s no update yet on Hera Pheri 3, despite the announced reunion of the iconic trio under director Priyadarshan.",
-    "img": "https://static.toiimg.com/photo/msid-130301159,imgsize-44656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhooth-bangla-star-akshay-kumar-addresses-fan-queries-about-hera-pheri-3-during-social-media-session-abhi-toh-filhal-kuch-bhi-nahi-hai/articleshow/130301159.cms",
-    "time": "2026-04-16T07:50:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Naga Chaitanya reveals major update on ‘Vrushakarma’",
     "desc": "Despite a recent leak, 'Jana Nayagan' is moving forward with its release plans, with producers meeting distributors to finalize a late April theatrical strategy. The film, starring Thalapathy Vijay, is expected to receive censor clearance soon, paving the way for an intensified promotional campaign and a global release on April 30th.",
     "img": "https://static.toiimg.com/photo/msid-130300983,imgsize-226958.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/naga-chaitanya-reveals-major-update-on-vrushakarma-nearly-85-percent-of-the-shooting-has-already-been-completed/articleshow/130300983.cms",
     "time": "2026-04-16T07:49:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. CM Stalin calls for constitutional safeguards to retain current share of States’ representation in delimitation",
-    "desc": "The current proportional representation of States should not be disturbed under any circumstances, says Chief Minister; Statement comes in the wake of reports that 2011 Census may be used for women’s reservation in Parliament and Legislative Assemblies",
-    "img": "https://th-i.thgim.com/public/incoming/v3skra/article70781372.ece/alternates/LANDSCAPE_1200/Decisions-of-OpGRGFO87HM.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-calls-for-constitutional-safeguards-to-retain-current-share-of-states-representation-in-delimitation/article70779665.ece",
-    "time": "2026-04-16T07:46:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Jana Nayagan’ release plan moves ahead after leak row",
-    "desc": "Jana Nayagan's release plans are progressing despite a recent leak. The film is expected to undergo censorship soon. Producers are meeting with distributors to finalize the theatrical release strategy. An April release is anticipated, aiming to capitalize on the summer holidays. Promotional activities are also being planned to build excitement for Thalapathy Vijay's latest movie.",
-    "img": "https://static.toiimg.com/photo/msid-130300794,imgsize-243514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-release-plan-moves-ahead-after-leak-row-thalapathy-vijays-film-likely-to-get-censored-soon/articleshow/130300794.cms",
-    "time": "2026-04-16T07:36:47.000Z"
   },
   {
     "cat": "Sports",
@@ -304,24 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/who-is-krish-bhagat-mumbai-indians-latest-injury-replacement-in-ipl-2026/articleshow/130300447.cms",
     "time": "2026-04-16T07:34:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vignesh Shivan gets emotional at 'LIK' event",
-    "desc": "Following the successful reception of 'Love Insurance Kompany', director Vignesh Shivan appealed for positive focus from influencers and audiences, sharing the immense effort invested. A playful, emotional exchange between Shivan and lead Pradeep Ranganathan highlighted the thanksgiving event, where Ranganathan also expressed gratitude for the team's dedication amidst the film's challenging journey to release.",
-    "img": "https://static.toiimg.com/photo/msid-130300555,imgsize-89402.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vignesh-shivan-gets-emotional-at-lik-event-as-pradeep-ranganathan-joins-we-have-invested-almost-everything-we-had-to-make-this-film/articleshow/130300555.cms",
-    "time": "2026-04-16T07:25:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Thomas Crown Affair': Michael B. Jordan drops teaser",
-    "desc": "Fresh from his Oscar win, Michael B. Jordan captivated CinemaCon 2026 with a teaser for his passion project, 'The Thomas Crown Affair.' Directing, producing, and starring, Jordan reimagines the classic heist-romance with international flair and a sexy, suspenseful edge.",
-    "img": "https://static.toiimg.com/photo/msid-130300483,imgsize-75784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-b-jordan-returns-to-the-spotlight-after-oscar-win-unveils-stylish-the-thomas-crown-affair-at-cinemacon/articleshow/130300446.cms",
-    "time": "2026-04-16T07:19:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,24 +414,6 @@ const newsData_en = [
     "time": "2026-04-16T07:06:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kritika Kamra on her intimate wedding with Gaurav Kapur",
-    "desc": "Kritika Kamra, fresh from her wedding with Gaurav Kapur, is already back on set and gearing up for her series ‘Matka King’. she calls her marriage a natural next step with Gaurav, shares how emotional the day was, and reveals that they both prioritised work and returned to commitments soon after tying the knot.",
-    "img": "https://static.toiimg.com/photo/msid-130300171,imgsize-51892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kritika-kamra-opens-up-on-her-intimate-wedding-with-gaurav-kapur-i-saw-him-vulnerable-in-a-way-i-hadnt-before-that-was-special/articleshow/130300171.cms",
-    "time": "2026-04-16T07:02:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman Khan rejects direct-to-OTT for 'Maatrubhum'",
-    "desc": "Salman Khan's patriotic war film 'Maatrubhumi,' inspired by the Galwan Valley clash, is confirmed for a theatrical release around May 2026. Despite earlier rumors of a direct-to-OTT premiere, the actor and director Apoorva Lakhia are committed to a big-screen experience. The film will undergo the necessary certification process regardless of its release platform.",
-    "img": "https://static.toiimg.com/photo/msid-130299976,imgsize-57970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-rejects-direct-to-ott-for-maatrubhumi-theatrical-release-slated-for-may-2026-reports/articleshow/130299987.cms",
-    "time": "2026-04-16T06:52:03.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "India’s waistline on the run",
     "desc": "India's ICMR is launching a nationwide study to identify effective weight loss strategies amidst a growing obesity crisis, with nearly a quarter of adults overweight. The analysis will compare various interventions and their impact on health markers beyond weight, aiming to provide India-specific evidence for future public health guidelines.",
@@ -367,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/icmr-rings-the-belly-alarm-indias-waistline-on-the-run/articleshow/130299940.cms",
     "time": "2026-04-16T06:51:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zanai Bhosle remembers Asha Bhosle's words about life",
-    "desc": "Zanai, the granddaughter of the iconic Asha Bhosle, poured her heart out in tribute after the singer's departure from this world. She reflected on her grandmother's profound insights about the ongoing nature of life, extending her gratitude for the love and support flooding in from all corners of the internet. Read the full article to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130299568,imgsize-151846.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zanai-bhosle-remembers-asha-bhosles-words-about-life-she-thanks-everyone-for-reaching-out-to-her-online/articleshow/130299568.cms",
-    "time": "2026-04-16T06:38:37.000Z"
   },
   {
     "cat": "Sports",
@@ -459,15 +504,6 @@ const newsData_en = [
     "time": "2026-04-16T03:54:43.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Stock market today (April 16, 2026): Nifty50 opens above 24,350; BSE Sensex up over 400 points on oil prices easing, hopes of US-Iran war ending",
-    "desc": "Indian equity benchmarks, Sensex and Nifty50, continued their uptrend on Thursday on positive global cues and hopes of an early end to the US-Iran conflict. While Nifty50 went above 24,350, BSE Sensex rose over 400 points.",
-    "img": "https://static.toiimg.com/photo/msid-130296724,imgsize-24842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-april-16-2026-dalal-street-indian-equities-global-markets-us-iran-peace-talks-oil-prices-donald-trump/articleshow/130296649.cms",
-    "time": "2026-04-16T03:49:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL Match Today, MI vs PBKS: Predicted playing XI, head-to-head, pitch report, Mumbai weather update",
     "desc": "Mumbai Indians face an uphill battle against an unbeaten Punjab Kings at Wankhede Stadium. MI, struggling with three consecutive losses and a potential Rohit Sharma injury, host a PBKS side flying high. Historically a close contest, this encounter holds significant weight for MI seeking redemption on home turf.",
@@ -488,7 +524,7 @@ const newsData_en = [
   {
     "cat": "Sports",
     "title": "CSK knock BCCI's door, lodge complaint against RCB for 'Dosa idli' song",
-    "desc": "Chennai Super Kings have lodged a complaint with the BCCI against Royal Challengers Bengaluru over alleged misconduct during their IPL 2026 clash. The complaint cites inappropriate in-stadium entertainment, including a song that CSK felt stereotyped their identity, and remarks made by the stadium DJ after player dismissals. This adds to the growing rivalry between the two franchises.",
+    "desc": "Chennai Super Kings have lodged a complaint with the BCCI over alleged misconduct during their IPL 2026 clash. The complaint cites inappropriate in-stadium entertainment, including a song that CSK felt stereotyped their identity, and remarks made by the stadium DJ after player dismissals. This adds to the growing rivalry between the two franchises.",
     "img": "https://static.toiimg.com/photo/msid-130296656,imgsize-1344334.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-csk-knock-bccis-door-lodge-complaint-against-rcb-for-dosa-idli-song-at-chinnaswamy/articleshow/130296402.cms",
@@ -520,24 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/comedy-of-errors-in-psl-chaos-unfolds-on-free-hit-after-yes-no-call-creates-confusion-watch/articleshow/130295739.cms",
     "time": "2026-04-16T02:01:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anushka Sharma's reaction goes viral as Virat Kohli misses fifty vs LSG",
-    "desc": "Chasing 147, Kohli got RCB off to a strong start and scored 49 off 34 balls, hitting six fours and one six. He looked set for his 66th IPL half-century but was dismissed on 49, caught by Nicholas Pooran off Avesh Khan while attempting a shot in the air towards long-on.",
-    "img": "https://static.toiimg.com/photo/msid-130295618,imgsize-29922.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/anushka-sharmas-reaction-goes-viral-as-virat-kohli-departs-on-49-vs-lsg-watch/articleshow/130295565.cms",
-    "time": "2026-04-16T01:13:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I’m still not 100%’: Virat Kohli’s blunt fitness admission after RCB win",
-    "desc": "Virat Kohli's unbeaten 49 steered Royal Challengers Bengaluru to a five-wicket victory over Lucknow Super Giants. Despite the match-winning knock, Kohli revealed he's still not at peak fitness, battling a sore knee and illness. He emphasised the team's adaptable batting depth and the importance of smart play as the IPL season progresses.",
-    "img": "https://static.toiimg.com/photo/msid-130292027,imgsize-30456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-im-still-not-100-virat-kohlis-blunt-fitness-admission-after-rcb-win/articleshow/130292031.cms",
-    "time": "2026-04-16T00:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -577,15 +595,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Vinod Kambli at risk of brain stroke’: Close friend reveals a clot in his brain",
-    "desc": "Vinod Kambli continues to face health issues due to a brain clot affecting his memory, with doctors warning smoking could risk a stroke. His friend Marcus Couto shared concerns, though Kambli shows signs of recovery. He recently shot an ad, while support from Sachin Tendulkar, Sunil Gavaskar and Kapil Dev continues.",
-    "img": "https://static.toiimg.com/photo/msid-130291571,imgsize-111588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vinod-kambli-at-risk-of-brain-stroke-close-friend-reveals-a-clot-in-his-brain/articleshow/130291431.cms",
-    "time": "2026-04-15T23:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Abhishek Sharma, Axar Patel added to NADA's RTP for second quarter of 2026",
     "desc": "Abhishek and Axar have replaced Smriti Mandhana and Shreyas Iyer in the latest list of 348 sportspersons in the RTP who will be required to share their whereabouts with the anti-doping agency and be available for testing in a specified window everyday",
     "img": "https://th-i.thgim.com/public/incoming/6nllc5/article70866778.ece/alternates/LANDSCAPE_1200/20260413358L.jpg",
@@ -610,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/war-delayed-plans-for-uae-dubai-markets-says-tata-groups-luxury-diamond-brand-zoya/article70866206.ece",
     "time": "2026-04-15T18:15:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kohli powers RCB to top as Hazlewood, Bhuvneshwar wreck LSG batters",
-    "desc": "Veteran bowlers Bhuvneshwar Kumar and Josh Hazlewood, alongside Rasikh Dar, spearheaded Royal Challengers Bengaluru's dominant bowling performance, bundling Lucknow Super Giants for 146 in Bengaluru. Despite a brief wobble, RCB secured a five-wicket victory, extending their unbeaten home run. Virat Kohli's quickfire 49 laid the foundation for the successful chase.",
-    "img": "https://static.toiimg.com/photo/msid-130290794,imgsize-64542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-virat-kohli-powers-rcb-to-top-as-josh-hazlewood-bhuvneshwar-kumar-wreck-lsg-batters/articleshow/130290713.cms",
-    "time": "2026-04-15T17:48:25.000Z"
   },
   {
     "cat": "Business",
@@ -655,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/new-hungarian-leader-magyar-says-pro-orban-president-must-go/article70866123.ece",
     "time": "2026-04-15T15:43:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How India’s strong economic fundamentals will cushion the blow",
-    "desc": "S&P Global in its latest report titled India's Strong Fundamentals Would Cushion The Blow Of An Oil Shock says India is equipped to handle some strain. The report assumes a base case scenario of oil prices at an average of $130 per barrel for 2026 and $100 in 2027.",
-    "img": "https://static.toiimg.com/photo/msid-130288201,imgsize-121140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/oil-price-shock-loading-how-indias-strong-economic-fundamentals-will-cushion-the-blow-explained-in-charts/articleshow/130287998.cms",
-    "time": "2026-04-15T15:37:29.000Z"
   },
   {
     "cat": "World",
@@ -801,22 +792,31 @@ const newsData_en = [
     "time": "2026-04-13T17:54:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "the voice that defied genres, time",
-    "desc": "Asha’s voice felt like a friend, a co-conspirator, or a mirror — someone who had been through the messiness of life and still chose to sing, dance, and seduce with full-throated joy; the most-recorded artist will be remembered for her fearless spirit, versatility, and playful charm",
-    "img": "https://th-i.thgim.com/public/incoming/gzswu0/article70855187.ece/alternates/LANDSCAPE_1200/54_METRO_LIVING_LEGEND_ASHA_BH",
+    "cat": "Tech",
+    "title": "The origin stories of SPAM",
+    "desc": "The months of April and May could well be celebrated as the birth months of spam — those notoriously undesired messages that clog our information highways. This is because the earliest known case of spam took place on May 3, 1978 and the first such case in the Web as we know it now took place on April 12, 1994. A.S.Ganesh turns off his spam filters to give you these two tales…",
+    "img": "https://th-i.thgim.com/public/incoming/lnb78u/article70814909.ece/alternates/LANDSCAPE_1200/2013-03-27T190517Z_01_PXP400_RTRMDNP_3_INTERNET-ATTACK.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/asha-bhosle-legendary-singer-death-obituary/article70854485.ece",
-    "time": "2026-04-13T05:52:51.000Z"
+    "url": "https://www.thehindu.com/sci-tech/technology/the-origin-stories-of-spam/article70814926.ece",
+    "time": "2026-04-12T02:06:04.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Iga Swiatek and her quest for solidity",
-    "desc": "The Polish World No. 4 is this era’s leading light, with her six Major titles the most among active women playing full time. But of late, her game has come under a cloud following a series of bad losses. Will the upcoming clay season — her most cherished months in the calendar – spark a turnaround?",
-    "img": "https://th-i.thgim.com/public/sport/659czh/article70855158.ece/alternates/LANDSCAPE_1200/SWIATEK%20MAIN%201.jpg",
+    "cat": "Tech",
+    "title": "A loyalist on the brand’s evolution in India",
+    "desc": "From buying an iPod Mini in 2004 to standing in line for early iPad launches, one long-time user traces how Apple Inc. shaped taste, tech and aspiration in India — and how the global giant has, over time, gone quietly desi",
+    "img": "https://th-i.thgim.com/public/incoming/lvrdb/article70850214.ece/alternates/LANDSCAPE_1200/IMG_BL0204_Tech_1997_iPh_2_1_N5FPOTH3.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/igaswiatekand-her-quest-for-solidity/article70855152.ece",
-    "time": "2026-04-13T02:30:15.000Z"
+    "url": "https://www.thehindu.com/sci-tech/technology/apple-at-50-a-loyalist-on-the-brands-evolution-in-india/article70846889.ece",
+    "time": "2026-04-11T11:36:11.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How does the internet always have an answer?",
+    "desc": "When you are ever stuck with a doubt or confusion, you often automatically open your phone or any device, open Google, and type it out in a second. But have you ever wondered how the internet always seems to have an answer to your queries?",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-in-school/nck7qz/article70802966.ece/alternates/LANDSCAPE_1200/cloud-computing-banner-background-smart-city.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/how-does-the-internet-always-have-an-answer/article70802555.ece",
+    "time": "2026-04-11T10:48:04.000Z"
   },
   {
     "cat": "Tech",

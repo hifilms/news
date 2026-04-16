@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "અક્ષય તૃતીયા પર વધી જશે સોનાનો ભાવ, શું ખરીદવાનો આ છે યોગ્ય સમય ? જાણો કેવી રીતે કરવું પ્રી-બુકિંગ",
+    "desc": "આ વર્ષે અક્ષય તૃતીયા પહેલા સોનાના ભાવ ગયા વર્ષની સરખામણીમાં 60% વધ્યા છે. 19 એપ્રિલે અક્ષય તૃતીયા પર સોનાના ભાવ કયાં સુધી પહોંચશે, તેમજ તમે સસ્તું સોનું કેવી રીતે પ્રી-બુક કરાવી શકો છો, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/akshaya-tritiya-2026-gold-rate-prediction-how-to-book-cheapest-gold-473397 ",
+    "time": "2026-04-16T12:16:22.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "મજા ન આવે તો પૈસા પાછા ! 75% બાયબેક ગેરંટી સાથે લોન્ચ એક શાનદાર SUV",
+    "desc": "લગભગ પાંચ વર્ષ પછી Volkswagen Taigunનું નવું ફેસલિફ્ટ મોડેલ લોન્ચ કરવામાં આવ્યું છે. આ SUV સાથે કંપની બાયબેક ગેરંટી પણ આપી રહી છે, જે હેઠળ ગ્રાહકોને વાહન પસંદ ન આવે તો 75% બાયબેક ગેરંટી આપવામાં આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/volkswagen-taigun-facelift-launched-know-price-features-and-mileage-473393 ",
+    "time": "2026-04-16T11:42:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "થઈ જાવ તૈયાર ! 2029 સુધીમાં સર્જાશે બીજા વિશ્વયુદ્ધ જેવી પરિસ્થિતિ ? જાણો ભારતનું શું થશે",
+    "desc": "IMFના એક અહેવાલ મુજબ, 2029 સુધીમાં વૈશ્વિક સરકારી દેવું વિશ્વના કુલ GDPના 100% સુધી પહોંચી શકે છે. ચિંતાજનક બાબત એ છે કે આવા ડેટા છેલ્લે બીજા વિશ્વયુદ્ધ પછી જોવા મળ્યા હતા. તેથી એવું કહી શકાય કે 2029 સુધીમાં બીજા વિશ્વ યુદ્ધ જેવી પરિસ્થિતિ ઉભી થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/imf-report-global-debt-hit-100-percent-of-gdp-by-2029-world-economy-slowdown-473382 ",
+    "time": "2026-04-16T10:54:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મુસ્લિમ અનામત મુદ્દે થઈ એવી માંગણી....અમિત શાહે કહ્યું- સવાલ જ પેદા થતો નથી",
+    "desc": "આજથી સંસદનું વિશેષ સત્ર શરૂ થયું. લોકસભામાં મહિલા અનામત કાયદામાં સંશોધન સંલગ્ન 3 બિલો રજૂ થયા જેના પર લોકસભામાં ચર્ચા ચાલુ છે. બિલો પર ચર્ચા માટે 16 અને 17 એપ્રિલના રોજ 15 કલાક જેટલો સમય નિર્ધારિત કરાયો છે અને કાલે એટલે કે 17 એપ્રિલના રોજ 4 વાગે મતદાન થશે. બિલમાં લોકસભા સાંસદોની સંખ્યા કુલ 850 કરવાનો પ્રસ્તાવ છે. આ ચર્ચા દરમિયાન મુસ્લિમ અનામત વિશે પણ સવાલ ઉઠ્યો. જાણો અમિત શાહે શું જવાબ આપ્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/parliament-special-session-lok-sabha-muslim-reservation-akhilesh-yadav-amit-shah-response-473359 ",
+    "time": "2026-04-16T10:29:51.000Z"
+  },
+  {
     "cat": "World",
     "title": "કંઈક મોટું થવાનું છે ! પાકિસ્તાનના આર્મી ચીફ મુનીર ટ્રમ્પનો મેસેજ લઈને પહોંચ્યા ઈરાન",
     "desc": "ઈરાન અને અમેરિકા આગામી રાઉન્ડની વાટાઘાટો માટે તૈયારી થઈ રહ્યા હોય તેવું લાગી રહ્યું છે. પાકિસ્તાનના આર્મી તેહરાન પહોંચ્યા છે. એવું કહેવામાં આવી રહ્યું છે કે તેઓ તેહરાન અમેરિકાથી ડોનાલ્ડ ટ્રમ્પ દ્વારા આપવામાં આવેલ મેસેજ લઈને પહોંચ્યા છે.",
@@ -16,15 +52,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/you-can-update-10-year-old-aadhaar-free-of-cost-by-june-14-check-details-473343 ",
     "time": "2026-04-16T09:33:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મુસ્લિમ અનામત મુદ્દે થઈ એવી માંગણી....અમિત શાહે કહ્યું- સવાલ જ પેદા થતો નથી",
-    "desc": "આજથી સંસદનું વિશેષ સત્ર શરૂ થયું. લોકસભામાં મહિલા અનામત કાયદામાં સંશોધન સંલગ્ન 3 બિલો રજૂ થયા જેના પર લોકસભામાં ચર્ચા ચાલુ છે. બિલો પર ચર્ચા માટે 16 અને 17 એપ્રિલના રોજ 15 કલાક જેટલો સમય નિર્ધારિત કરાયો છે અને કાલે એટલે કે 17 એપ્રિલના રોજ 4 વાગે મતદાન થશે. બિલમાં લોકસભા સાંસદોની સંખ્યા કુલ 850 કરવાનો પ્રસ્તાવ છે. આ ચર્ચા દરમિયાન મુસ્લિમ અનામત વિશે પણ સવાલ ઉઠ્યો. જાણો અમિત શાહે શું જવાબ આપ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/parliament-special-session-lok-sabha-muslim-reservation-akhilesh-yadav-amit-shah-response-473359 ",
-    "time": "2026-04-16T09:27:26.000Z"
   },
   {
     "cat": "Business",
@@ -268,15 +295,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/good-news-for-employees-this-tech-company-will-give-bonuses-ranging-from-5-lakhs-to-1-crore-distributing-more-shares-than-salary-473097 ",
     "time": "2026-04-14T15:24:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM મોદી અને ડોનાલ્ડ ટ્રમ્પ વચ્ચે 40 મિનિટ સુધી ટેલિફોનિક વાતચીત, જાણો કયા મુદ્દાઓ પર થઈ ચર્ચા",
-    "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદી અને ડોનાલ્ડ ટ્રમ્પ વચ્ચે ટેલિફોનિક વાતચીત થઈ. આ વાતચીત લગભગ 40 મિનિટ ચાલી હતી. પાકિસ્તાનમાં ઈરાન અને અમેરિકા વચ્ચે શાંતિ મંત્રણા નિષ્ફળ ગયા બાદ આ ચર્ચાને અત્યંત મહત્વપૂર્ણ માનવામાં આવી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-modi-and-us-president-donald-trump-hold-40-minute-telephonic-conversation-473094 ",
-    "time": "2026-04-14T14:57:16.000Z"
   },
   {
     "cat": "Business",
@@ -700,14 +718,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-invicto-discounts-april-2026-up-to-3-65-lakh-471558 ",
     "time": "2026-04-05T06:40:06.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ટુ-ફેક્ટર ઓથેન્ટિકેશન (2FA) શું છે? જાણો સરકાર કેમ આ નવી ટેકનોલોજી પર મૂકી રહી ભાર",
-    "desc": "સાયબર હુમલાઓ પહેલા કરતાં વધુ સ્માર્ટ અને ખતરનાક બન્યા છે, અને 2FA એક શક્તિશાળી સુરક્ષા તરીકે કામ કરે છે. જાણો કેટલું આટલું મહત્વપૂર્ણ, કેવી રીતે કામ કરે સાથે સાથે કેવી રીતે એક્ટિવ કરવા વિશે જાણકારી આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/explainer-what-is-two-factor-authentication-2fa-find-out-why-the-government-is-emphasizing-this-new-technology-471517 ",
-    "time": "2026-04-04T16:32:39.000Z"
   }
 ];

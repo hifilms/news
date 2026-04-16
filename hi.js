@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 cricketers who can replace injured David Payne in Sunrisers Hyderabad squad for IPL 2026",
+    "desc": "Sunrisers Hyderabad have been dealt another blow in IPL 2026, with overseas seamer David Payne ruled out due to an ankle injury. The franchise has confirmed the update and is now exploring replacement options. Notably,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-cricketers-who-can-replace-injured-david-payne-in-sunrisers-hyderabad-squad-for-ipl-2026-2026-04-16-1037776",
+    "time": "2026-04-16T11:54:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunrisers Hyderabad's overseas pacer ruled out of IPL 2026, franchise seeks replacement",
+    "desc": "Sunrisers Hyderabad have suffered a setback with overseas seamer David Payne being ruled out of IPL 2026, owing to an ankle injury. The England bowler, who had joined the squad as a replacement for Jack...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-s-overseas-pacer-ruled-out-of-ipl-2026-franchise-seeks-replacement-2026-04-16-1037768",
+    "time": "2026-04-16T11:10:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sachin Tendulkar among others raises funds for former cricketer",
+    "desc": "Vinod Kambli’s health remains a matter of concern, with the former India cricketer still working his way through a difficult recovery. There has been some improvement in his mobility, but his overall condition remains far...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vinod-kambli-risks-brain-stroke-sachin-tendulkar-among-others-raises-funds-for-former-cricketer-2026-04-16-1037766",
+    "time": "2026-04-16T11:03:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mumbai Indians announce replacement player for injured Atharva Ankolekar in IPL 2026",
+    "desc": "Mumbai Indians have finally announced the replacement for injured Atharva Ankolekar. He was ruled out after failing to regain fitness from a knee problem sustained earlier in the year during the domestic season. Earlier, Akash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-announce-replacement-player-for-injured-atharva-ankolekar-in-ipl-2026-2026-04-16-1037761",
+    "time": "2026-04-16T10:40:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pat Cummins set to play in IPL 2026 after regaining full fitness, to join SRH squad ahead of CSK clash",
     "desc": "Sunrisers Hyderabad (SRH) have received a massive boost as their regular skipper Pat Cummins has been cleared to play by Cricket Australia. Cummins cleared the fitness test today and the fresh scans revealed that he...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-3-players-who-can-replace-mi-batter-and-open-the-innings-if-he-misses-pbks-clash-2026-04-16-1037699",
     "time": "2026-04-16T02:12:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Updated points table after RCB vs LSG match, Orange cap and Purple cap holders",
-    "desc": "Royal Challengers Bengaluru made light work of Lucknow Super Giants in the 23rd match of the ongoing edition of the Indian Premier League (IPL) on Wednesday to register their fourth win in five matches this...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-updated-points-table-after-rcb-vs-lsg-match-orange-cap-and-purple-cap-holders-2026-04-16-1037698",
-    "time": "2026-04-16T01:49:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rubel Hossain announces retirement from international cricket",
-    "desc": "Bangladesh fast bowler Rubel Hossain on Wednesday announced his retirement from international cricket. The 36-year-old walks away as the fifth leading wicket-taker for Bangladesh in the ODI format. The speedster made his announcement through a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rubel-hossain-announces-retirement-from-international-cricket-2026-04-15-1037689",
-    "time": "2026-04-15T18:27:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Josh Hazlewood play RCB's all remaining games in IPL 2026 or manage workload? Pacer shares update",
-    "desc": "Josh Hazlewood missed the first three games for Royal Challengers Bengaluru before returning to the playing XI against Rajasthan Royals. He produced an impressive show in the match, claiming two wickets, but RCB suffered a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-josh-hazlewood-play-rcb-s-all-remaining-games-in-ipl-2026-or-manage-workload-pacer-shares-update-2026-04-15-1037688",
-    "time": "2026-04-15T18:19:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajat Patidar is a super talent, but no room for India T20I team at the moment, believes Aaron Finch",
-    "desc": "Royal Challengers Bengaluru captain Rajat Patidar has been one of the most consistent performers so far in the IPL 2026. He scored 222 runs in five matches at a whopping strike rate of 213.46 and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajat-patidar-is-a-super-talent-but-no-room-for-india-t20i-team-at-the-moment-believes-aaron-finch-2026-04-15-1037686",
-    "time": "2026-04-15T18:03:38.000Z"
   }
 ];
