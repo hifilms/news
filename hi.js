@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "R Vaishali creates history, becomes first Indian to win FIDE Women's Candidates",
+    "desc": "R Vaishali experienced a dramatic final day at the FIDE Women's Candidates 2026 on Wednesday. The Indian grandmaster became the first woman from the country to win the said tournament, as she defeated Kateryna Lagno...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/r-vaishali-creates-history-becomes-first-indian-to-win-fide-women-s-candidates-2026-04-16-1037717",
+    "time": "2026-04-16T05:19:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK complains to BCCI against RCB, says 'Dosa, Idli' track in Bengaluru not in good taste",
+    "desc": "The Chennai Super Kings have complained to the BCCI over the DJ's choice of song and comments during their away game against the Royal Challengers Bengaluru on April 5 at the Chinnaswamy Stadium in Bengaluru....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-complains-to-bcci-against-rcb-says-dosa-idli-track-in-bengaluru-not-in-good-taste-2026-04-16-1037703",
+    "time": "2026-04-16T03:20:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 players who can replace MI batter and open the innings if he misses PBKS clash",
     "desc": "Mumbai Indians' star batter and former captain Rohit Sharma seems set to miss the game against Punjab Kings today in IPL 2026 at the Wankhede Stadium in Mumbai. He didn't train much on the eve...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-pbks-pitch-report-how-will-surface-at-wankhede-stadium-in-mumbai-play-2026-04-15-1037679",
     "time": "2026-04-15T16:33:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is leading LSG as Rishabh Pant is ruled out of second innings of IPL 2026 clash against RCB?",
-    "desc": "Lucknow Super Giants captain Rishabh Pant suffered an elbow injury during the clash against Royal Challengers Bengaluru at the M Chinnaswamy Stadium. In the fifth over of the first innings, Pant tried to play it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-leading-lsg-as-rishabh-pant-is-ruled-out-of-second-innings-of-ipl-2026-clash-against-rcb-2026-04-15-1037678",
-    "time": "2026-04-15T16:14:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ben Stokes feels he was 'quite lucky' to be alive after nasty cheekbone blow",
-    "desc": "Ben Stokes said he feels 'quite lucky' to be alive after being hit in the face by a cricket ball, the England captain revealed on Wednesday. Stokes required surgery after fracturing his right cheekbone in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-feels-he-was-quite-lucky-to-be-alive-after-nasty-cheekbone-blow-2026-04-15-1037677",
-    "time": "2026-04-15T16:01:32.000Z"
   }
 ];

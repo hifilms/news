@@ -1,12 +1,183 @@
 const newsData_en = [
   {
-    "cat": "World",
-    "title": "Iran-Israel war LIVE: Pakistan’s army chief reaches Tehran to help revive stalled U.S. talks",
-    "desc": "\"We have told countries that if you are buying Iranian oil, that if Iranian money is sitting in your banks, we are now willing to apply secondary sanctions,\" U.S. Treasury Secretary Scott Bessent ‌told reporters at the White House.",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "cat": "Business",
+    "title": "Markets inch higher on US-Iran peace hopes; Nikkei jumps 2%, HSI adds 360 points",
+    "desc": "Asian stocks rose Thursday, mirroring Wall Street's gains, on hopes of a US-Iran ceasefire extension and the reopening of the Strait of Hormuz. Diplomatic talks are ongoing in Islamabad, with both sides exploring de-escalation, though Iran has warned of further disruptions if a naval blockade isn't lifted.",
+    "img": "https://static.toiimg.com/photo/msid-130297955,imgsize-169987.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-on-april-16-2026-markets-inch-higher-on-us-iran-peace-hopes-nikkei-jumps-2-hsi-adds-360-points/articleshow/130297747.cms",
+    "time": "2026-04-16T05:06:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Billy Crystal gets emotional recalling his last call with Rob Reiner",
+    "desc": "Billy Crystal fondly remembers his late friend, filmmaker Rob Reiner, sharing how he often feels the urge to call him with life's updates. Crystal recounted their final conversation, where Reiner emphasized the lasting value of shared experiences over career hits. The actor also spoke about the emotional Oscars tribute to Reiner, which he helped orchestrate.",
+    "img": "https://static.toiimg.com/photo/msid-130298069,imgsize-53512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/billy-crystal-gets-emotional-as-he-shares-his-final-moments-with-rob-reiner-we-could-talk-about-everything/articleshow/130297810.cms",
+    "time": "2026-04-16T05:01:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka High Court directs State government to ‘strictly and faithfully’ implement menstrual leave policy",
+    "desc": "Upon the enactment of the proposed Karnataka Menstrual Leave and Hygiene Bill, 2025, the State shall, without any undue delay frame appropriate rules to give full and meaningful effect of the mandate, the Court said",
+    "img": "https://th-i.thgim.com/public/incoming/tk45ri/article70864755.ece/alternates/LANDSCAPE_1200/Karnataka-High-GUVFRDBDO.1.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-april-16-2026/article70867467.ece",
-    "time": "2026-04-16T02:15:15.000Z"
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-directs-state-government-to-strictly-and-faithfully-implement-menstrual-leave-policy/article70864730.ece",
+    "time": "2026-04-16T04:59:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Driven by father’s dream, boxer Vishvanath tailormade for glory",
+    "desc": "Vishvanath Suresh, son of a former boxer, achieved a significant victory by clinching gold at the Asian Boxing Championships in the 50kg category. He notably defeated the reigning world champion in the quarterfinals. This triumph, his first major senior win, was marked by consistent unanimous decisions, boosting his confidence for upcoming games.",
+    "img": "https://static.toiimg.com/photo/msid-130297906,imgsize-48122.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/boxing/driven-by-fathers-dream-boxer-vishvanath-tailormade-for-glory/articleshow/130297901.cms",
+    "time": "2026-04-16T04:52:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Queen’s Gambit: Vaishali triumphs in Candidates, will vie for world title",
+    "desc": "Indian chess sees a historic moment as R Vaishali secures a spot in the Women's World Championship match. She will challenge China's Ju Wenjun later this year. This achievement, alongside Praggnanandhaa's potential challenge in the men's section, marks twin Indian representation at the highest chess boards. Vaishali's victory as the lowest seed is a significant feat.",
+    "img": "https://static.toiimg.com/photo/msid-130297425,imgsize-996734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/queens-gambit-vaishali-triumphs-in-candidates-will-vie-for-world-title/articleshow/130297371.cms",
+    "time": "2026-04-16T04:06:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US won’t renew sanctions waiver on Russian, Iranian oil: What it means for India",
+    "desc": "The US will not extend waivers allowing the sale of Russian and Iranian oil already at sea, impacting countries like India that secured supplies during the temporary relief. This move signals a return to tighter enforcement of sanctions, forcing nations to restrategize their energy procurement amidst global supply disruptions.",
+    "img": "https://static.toiimg.com/photo/msid-130297246,imgsize-2107544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/us-wont-renew-sanctions-waiver-on-russian-iranian-oil-what-it-means-for-india/articleshow/130297227.cms",
+    "time": "2026-04-16T03:54:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock market today (April 16, 2026): Nifty50 opens above 24,350; BSE Sensex up over 400 points on oil prices easing, hopes of US-Iran war ending",
+    "desc": "Indian equity benchmarks, Sensex and Nifty50, continued their uptrend on Thursday on positive global cues and hopes of an early end to the US-Iran conflict. While Nifty50 went above 24,350, BSE Sensex rose over 400 points.",
+    "img": "https://static.toiimg.com/photo/msid-130296724,imgsize-24842.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-april-16-2026-dalal-street-indian-equities-global-markets-us-iran-peace-talks-oil-prices-donald-trump/articleshow/130296649.cms",
+    "time": "2026-04-16T03:49:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vignesh Shivan reacts to Vijay's ‘Jana Nayagan’ leak",
+    "desc": "Director Vignesh Shivan voiced deep empathy for filmmaker H. Vinoth following the 'Jana Nayagan' leak, calling it a director's worst nightmare. He also discussed the mixed reception of his film 'Love Insurance Kompany,' praising lead actor Pradeep Ranganathan's incredible dedication during a challenging underwater shoot.",
+    "img": "https://static.toiimg.com/photo/msid-130297114,imgsize-112312.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vignesh-shivan-reacts-to-jana-nayagan-leak-director-speaks-about-lik-shoot-and-pradeep-ranganathans-dedication/articleshow/130297114.cms",
+    "time": "2026-04-16T03:40:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Hunger Games’ actor Ethan Jamieson arrested for an alleged assault",
+    "desc": "Ethan Jamieson, 27, the face behind a character in the popular 'Hunger Games' franchise, has landed in serious legal trouble after allegedly discharging a handgun at a trio of men’s car in Raleigh, North Carolina. He was apprehended on April 8 and will not be granted bail.",
+    "img": "https://static.toiimg.com/photo/msid-130297089,imgsize-72000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hunger-games-actor-ethan-jamieson-arrested-for-an-alleged-assault-on-three-men/articleshow/130297089.cms",
+    "time": "2026-04-16T03:39:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Varun Tej undergoes knee surgery; Niharika Konidela shares update",
+    "desc": "Actor Varun Tej underwent successful knee surgery after an injury during practice for his upcoming film 'Bari.' His sister Niharika Konidela confirmed the surgery's success and his steady recovery. The sports drama, where Varun Tej plays a volleyball player, is produced by Niharika and directed by Yadhu Vamsi, with a planned Sankranti 2027 release.",
+    "img": "https://static.toiimg.com/photo/msid-130297068,imgsize-97452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/varun-tej-undergoes-knee-surgery-after-bari-practice-injury-niharika-konidela-says-actor-recovering-well/articleshow/130297068.cms",
+    "time": "2026-04-16T03:37:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL Match Today, MI vs PBKS: Predicted playing XI, head-to-head, pitch report, Mumbai weather update",
+    "desc": "Mumbai Indians face an uphill battle against an unbeaten Punjab Kings at Wankhede Stadium. MI, struggling with three consecutive losses and a potential Rohit Sharma injury, host a PBKS side flying high. Historically a close contest, this encounter holds significant weight for MI seeking redemption on home turf.",
+    "img": "https://static.toiimg.com/photo/msid-130296972,imgsize-1033511.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-match-today-mi-vs-pbks-predicted-playing-xi-head-to-head-pitch-report-mumbai-weather-update/articleshow/130296927.cms",
+    "time": "2026-04-16T03:25:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jagan warns of agitation over Juvvaladinne Fishing Harbour delay, targets Naidu",
+    "desc": "Questioning the delay in inauguration of Juvvaladinne Fishing Harbour, the YSRCP chief accuses the government of giving land to a private defence company in the area, and vows to remove it once the YSRCP comes to power",
+    "img": "https://th-i.thgim.com/public/incoming/is0vhd/article70866176.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-15%20at%2016.41.33.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-warns-of-agitation-over-juvvaladinne-fishing-harbour-delay-targets-naidu/article70865897.ece",
+    "time": "2026-04-16T03:24:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock recommendations for April 16, 2026",
+    "desc": "Aditya Vision Ltd, Allied Blenders and Distillers Ltd, and NMDC - these are the stocks that Aakash K Hindocha, Deputy Vice President - WM Research of Nuvama Professional Clients Group has shortlisted as top buy calls for today (April 16, 2026). His views on Nifty and Bank Nifty are also available:",
+    "img": "https://static.toiimg.com/photo/msid-130296455,imgsize-71024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-april-16-2026-aditya-vision-ltd-allied-blenders-and-distillers-ltd-nmdc-best-stocks-to-buy-today/articleshow/130296445.cms",
+    "time": "2026-04-16T03:02:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK knock BCCI's door, lodge complaint against RCB for 'Dosa idli' song",
+    "desc": "Chennai Super Kings have lodged a complaint with the BCCI against Royal Challengers Bengaluru over alleged misconduct during their IPL 2026 clash. The complaint cites inappropriate in-stadium entertainment, including a song that CSK felt stereotyped their identity, and remarks made by the stadium DJ after player dismissals. This adds to the growing rivalry between the two franchises.",
+    "img": "https://static.toiimg.com/photo/msid-130296656,imgsize-1344334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-csk-knock-bccis-door-lodge-complaint-against-rcb-for-dosa-idli-song-at-chinnaswamy/articleshow/130296402.cms",
+    "time": "2026-04-16T02:52:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' actor Ashwin Dhar praises co-star Ranveer",
+    "desc": "In an interview, Ashwin Dhar, known for his role as Arshad Pappu in the hit 'Dhurandhar' series, reflected on the enjoyable experience of working alongside co-star Ranveer Singh, who kept the set atmosphere lively and enjoyable. He commended director Aditya Dhar for his composed leadership throughout the production process. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130296134,imgsize-106626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-actor-ashwin-dhar-praises-co-star-ranveer-singh-says-he-makes-sure-to-have-fun-with-everyone-and-is-calm/articleshow/130296134.cms",
+    "time": "2026-04-16T02:38:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Euphoria' trailer EDITED, Cassie scene deleted amid backlash",
+    "desc": "HBO reportedly edited the Euphoria Season 3 trailer, removing a scene featuring Cassie after backlash over suggestive attire. Despite the changes, the original clip circulates online. Sydney Sweeney teased a 'wild' Cassie this season, driven by a desire for fame. Showrunner Sam Levinson defended the character's controversial career choice, citing personal struggles and societal pressures.",
+    "img": "https://static.toiimg.com/photo/msid-130296268,imgsize-97202.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/euphoria-season-3-trailer-edited-sydney-sweeneys-controversial-cassie-scene-deleted-amid-backlash/articleshow/130296026.cms",
+    "time": "2026-04-16T02:37:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Crushed dreams, close escapes, and questions of survival after a power plant tragedy",
+    "desc": "There were similar scenes at the government hospital in Raigarh, where a group of migrant workers from West Bengal’s Haldia await the bodies of their colleagues who had all joined the power plant nearly 45 days ago",
+    "img": "https://th-i.thgim.com/public/incoming/zfxo4t/article70866498.ece/alternates/LANDSCAPE_1200/20260414496L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/crushed-dreams-close-escapes-and-questions-of-survival-after-a-power-plant-tragedy/article70865916.ece",
+    "time": "2026-04-16T02:35:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Kara' first review: Dhanush hails Vignesh Raja as 'genius'",
+    "desc": "Dhanush has lauded director Vignesh Raja as a genius after watching his upcoming film 'Kara', calling it a remarkable experience. The movie, set to release on April 30, explores the impact of global events on individuals' lives. With a strong cast and a unique premise, 'Kara' is generating significant anticipation among fans.",
+    "img": "https://static.toiimg.com/photo/msid-130296102,imgsize-61488.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kara-first-review-dhanush-calls-director-vignesh-raja-a-genius-after-watching-his-next-release/articleshow/130296102.cms",
+    "time": "2026-04-16T02:30:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Crude dips to $90 amid hopes of Middle East de escalation",
+    "desc": "Oil prices eased as hopes for de-escalation in US-Iran tensions emerged, with Iran suggesting passage through the Omani side of the Strait of Hormuz if an agreement is reached. Despite optimism for diplomatic progress, the US warned of increased economic pressure if Iran remains defiant, while waivers for Iranian oil purchases will not be extended.",
+    "img": "https://static.toiimg.com/photo/msid-130296071,imgsize-39284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-dips-to-90-amid-hopes-of-middle-east-de-escalation/articleshow/130296028.cms",
+    "time": "2026-04-16T02:24:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Vaishali caged Lagno's 'dragon' to claim historic Women's Candidates title",
+    "desc": "Playing white pieces while chasing a result, players often get greedy and make more adventurous, attacking moves on the board, weakening their defence in the process. Vaishali had white pieces. She was up against Russia's Kateryna Lagno, a mother of four and quite brilliant at keeping a poker face on the table. Vaishali had to be brave to overcome the challenge posed by the veteran, and she did so with a clinical precision that belied the stakes.",
+    "img": "https://static.toiimg.com/photo/msid-130295989,imgsize-71442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/explained-how-indias-r-vaishali-caged-lagnos-dragon-to-claim-historic-womens-candidates-2026-title/articleshow/130295968.cms",
+    "time": "2026-04-16T02:12:04.000Z"
   },
   {
     "cat": "Politics",
@@ -126,15 +297,6 @@ const newsData_en = [
     "time": "2026-04-15T23:38:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Katy Perry's 2010 videos resurface amid investigation",
-    "desc": "Australian police are investigating Katy Perry following sexual assault allegations made by Ruby Rose concerning an incident in Melbourne in 2010. Rose claims Perry \"rubbed her disgusting v****a on my face\" at a nightclub. Perry's representative has vehemently denied the \"dangerous reckless lies.\" Rose has since filed a police report and cannot comment further.",
-    "img": "https://static.toiimg.com/photo/msid-130295301,imgsize-118266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/katy-perry-under-police-investigation-over-sexual-assault-allegations-by-ruby-rose-videos-and-photos-from-2010-melbourne-nightclub-outing-resurface-watch/articleshow/130295279.cms",
-    "time": "2026-04-15T23:35:45.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Vinod Kambli at risk of brain stroke’: Close friend reveals a clot in his brain",
     "desc": "Vinod Kambli continues to face health issues due to a brain clot affecting his memory, with doctors warning smoking could risk a stroke. His friend Marcus Couto shared concerns, though Kambli shows signs of recovery. He recently shot an ad, while support from Sachin Tendulkar, Sunil Gavaskar and Kapil Dev continues.",
@@ -142,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vinod-kambli-at-risk-of-brain-stroke-close-friend-reveals-a-clot-in-his-brain/articleshow/130291431.cms",
     "time": "2026-04-15T23:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SRK’s ex-bodyguard on cricketers vs Bollywood stars",
-    "desc": "Yaseen Khan, who served as Shah Rukh Khan’s personal bodyguard for over a decade, has seen both Bollywood and cricket up close. Now running his Mumbai-based security firm, Khan has worked with some of India’s biggest cricketers and A-list celebrities—and says the difference in their personalities often comes down to their roots.",
-    "img": "https://static.toiimg.com/photo/msid-130295227,imgsize-23154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-ex-bodyguard-yaseen-khan-on-cricketers-vs-bollywood-stars-yuvraj-treats-me-like-family-dhoni-is-very-humble/articleshow/130295227.cms",
-    "time": "2026-04-15T22:41:51.000Z"
   },
   {
     "cat": "Sports",
@@ -162,15 +315,6 @@ const newsData_en = [
     "time": "2026-04-15T22:14:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dharmendra’s passing felt like losing father",
-    "desc": "Dhurandhar 2 actor Salim Siddiqui may be steadily carving a space for himself in the industry, but he attributes his journey to someone he never even met—legendary star Dharmendra. Looking back at his early days, Siddiqui shared how Dharmendra played a silent yet powerful role in shaping his journey. Siddiqui admitted that Dharmendra’s passing hit him deeply—almost like a personal bereavement. Siddiqui also expressed admiration for Sunny Deol, calling him a reflection of his father’s legacy.",
-    "img": "https://static.toiimg.com/photo/msid-130293295,imgsize-69536.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-actor-salim-siddiqui-says-dharmendras-passing-felt-like-losing-his-father-sunny-deol-is-carrying-legacy-beautifully/articleshow/130293295.cms",
-    "time": "2026-04-15T21:40:58.000Z"
-  },
-  {
     "cat": "World",
     "title": "Israel, U.S. goals 'identical'; prepared for any scenario: Netanyahu",
     "desc": "Referring to ongoing operations in Bint Jbeil, a key Hezbollah stronghold in southern Lebanon, Mr. Netanyahu said Israeli forces were close to overcoming the area, which has long been considered a symbol of the group’s resistance since the 2006 war",
@@ -178,15 +322,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/israel-us-goals-identical-prepared-for-any-scenario-netanyahu/article70866591.ece",
     "time": "2026-04-15T21:00:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shatrughan tells Gulshan ‘you should’ve played Akshaye's role'",
-    "desc": "Gulshan Grover, who is currently promoting his upcoming series Matka King, believes that cinema is witnessing a full-circle moment—with trends, characters and storytelling styles from the past making a strong comeback. The actor also shared a recent anecdote from a dinner with industry veterans, including Shatrughan Sinha, Rakesh Roshan and Shashi Ranjan. He further revealed how Sinha even imagined him in Akshaye Khanna's Rehman Dakait's role in Aditya Dhar's Dhurandhar.",
-    "img": "https://static.toiimg.com/photo/msid-130293043,imgsize-42006.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shatrughan-sinha-tells-gulshan-grover-you-shouldve-played-akshaye-khannas-rehman-dakaits-role-in-dhurandhar-even-i-agree/articleshow/130293043.cms",
-    "time": "2026-04-15T20:10:56.000Z"
   },
   {
     "cat": "Politics",
@@ -198,15 +333,6 @@ const newsData_en = [
     "time": "2026-04-15T18:21:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mrunal says ‘trust was shaken’ on SoS2; scenes with Roshni cut",
-    "desc": "A Love Story, but it’s her candid remarks about Son of Sardaar 2 that have grabbed attention. In a recent interview, the actress admitted she was left disappointed over unexpected casting choices and key scenes with Roshni Walia being edited out.",
-    "img": "https://static.toiimg.com/photo/msid-130291517,imgsize-58964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-says-trust-was-shaken-on-son-of-sardaar-2-scenes-with-roshni-walia-cut-i-didnt-know-a-senior-actor-was-my-husband/articleshow/130291517.cms",
-    "time": "2026-04-15T18:20:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "RCB jump to top after win, LSG remain at 7th",
     "desc": "Royal Challengers Bengaluru have claimed the IPL 2026 top spot after a dominant win over Lucknow Super Giants. With four wins from five, RCB now lead the table on net run rate, showcasing strong early-season form. Punjab Kings remain the sole unbeaten team, while a congested middle pack sees several teams tied on points.",
@@ -216,13 +342,13 @@ const newsData_en = [
     "time": "2026-04-15T18:20:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Crushed dreams, close escapes, and questions of survival after a power plant tragedy",
-    "desc": "There were similar scenes at the government hospital in Raigarh, where a group of migrant workers from West Bengal’s Haldia await the bodies of their colleagues who had all joined the power plant nearly 45 days ago",
-    "img": "https://th-i.thgim.com/public/incoming/zfxo4t/article70866498.ece/alternates/LANDSCAPE_1200/20260414496L.jpg",
+    "cat": "Business",
+    "title": "War delayed plans for UAE, Dubai markets, says Tata  Group’s luxury diamond brand Zoya",
+    "desc": "Zoya, that operates under Titan Company has been growing at a CAGR of 40% in the last five years and it was planning to deepen its presence in India and expand its reach to global markets to cater to large communities of the Indian diaspora",
+    "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/chhattisgarh/crushed-dreams-close-escapes-and-questions-of-survival-after-a-power-plant-tragedy/article70865916.ece",
-    "time": "2026-04-15T17:58:58.000Z"
+    "url": "https://www.thehindu.com/business/war-delayed-plans-for-uae-dubai-markets-says-tata-groups-luxury-diamond-brand-zoya/article70866206.ece",
+    "time": "2026-04-15T18:15:58.000Z"
   },
   {
     "cat": "Sports",
@@ -268,42 +394,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/illegalities-alleged-in-sir-dorabji-tata-trust/article70866425.ece",
     "time": "2026-04-15T17:24:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mahesh Bhatt on Pehchaan, Raha Kapoor, Asha Bhosle",
-    "desc": "Filmmaker Mahesh Bhatt is set to anchor Pehchaan, a show that brings together 13 Sikh voices and their stories of resilience, faith and service. In an exclusive conversation with ETimes, the veteran filmmaker opened up about spirituality, unlearning, fatherhood, his bond with granddaughter Raha Kapoor, and his memories of legendary singer Asha Bhosle—while reflecting on finding meaning beyond identity.",
-    "img": "https://static.toiimg.com/photo/msid-130289531,imgsize-17860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahesh-bhatt-opens-up-on-pehchaan-it-was-a-mirror-not-a-show-calls-raha-kapoor-a-drop-of-divinity-recalls-asha-bhosle-memory-exclusive/articleshow/130289531.cms",
-    "time": "2026-04-15T16:55:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED searches AAP MP’s premises, linked educational institutions under FEMA",
-    "desc": "The ED searched 10 locations in Haryana’s Gurugram and Jalandhar, Punjab. An agency official said Lovely Professional University, Tetr College of Business and Masters’ Union School of Business were covered, besides the premises of Mr. Mittal.",
-    "img": "https://th-i.thgim.com/public/incoming/4w7jof/article70865973.ece/alternates/LANDSCAPE_1200/PTI04_15_2026_000238B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ed-raids-at-business-entities-linked-to-aap-mp-ashok-mittal-in-punjab/article70863944.ece",
-    "time": "2026-04-15T16:42:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Will resolve Gurkha issues as a priority once BJP comes to power in West Bengal, says Amit Shah",
-    "desc": "The issue of permanent political solution to the Gurkha issue, which essentially means that the administrative control of the Darjeeling hills should wrest with the Gurkha people, has dominated the politics of the Darjeeling hills for several decades since the 1980s",
-    "img": "https://th-i.thgim.com/public/incoming/s0miyq/article70866340.ece/alternates/LANDSCAPE_1200/PTI04_15_2026_000403B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/will-prioritise-resolving-gorkha-issue-after-winning-bengal-polls-2026-amit-shah/article70864507.ece",
-    "time": "2026-04-15T16:39:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Activists seek delinking of women’s reservation from Census, delimitation",
-    "desc": "‘At a flat 33% of all seats, women’s reservation is not linked to population counts or legislatures’ expansion, it can be applied to the current or any strength of the legislatures,’ the petition signed by nearly 500 activists says",
-    "img": "https://th-i.thgim.com/public/incoming/54sn6b/article70776915.ece/alternates/LANDSCAPE_1200/women%20reservation%20bill.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/activists-seek-delinking-of-womens-reservation-from-census-delimitation/article70865499.ece",
-    "time": "2026-04-15T16:29:29.000Z"
   },
   {
     "cat": "World",
@@ -360,15 +450,6 @@ const newsData_en = [
     "time": "2026-04-15T15:29:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "SRK’s ex-bodyguard dismisses Rs 2–2.5 crore salary claims",
-    "desc": "Amid ongoing chatter about celebrity bodyguards allegedly earning crores every year, Yaseen Khan has weighed in, calling such claims far from reality. The ex-security aide of Shah Rukh Khan opened up about the actual payment structure in the industry, while also recalling how compensation practices have evolved over time. Reacting to social media buzz pegging bodyguards’ earnings at Rs 2–2.5 crore annually, Yaseen said such numbers are largely exaggerated and don’t reflect how the system functions.",
-    "img": "https://static.toiimg.com/photo/msid-130287959,imgsize-58072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-ex-bodyguard-yaseen-khan-dismisses-rs-22-5-crore-salary-claims-who-is-paying-rs-810-lakh-a-month/articleshow/130287959.cms",
-    "time": "2026-04-15T15:29:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL 2026 MI vs PBKS preview",
     "desc": "A late call is expected, but if he eventually misses out, it will further dent a top-order that has lacked consistency. Rohit’s ability to anchor and accelerate has often set the tone, and his absence would only deepen Mumbai’s early-season struggles.",
@@ -396,15 +477,6 @@ const newsData_en = [
     "time": "2026-04-15T14:13:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "R Madhavan warned his son about the responsibility coming with 'fame'",
-    "desc": "R Madhavan's success in 'Dhurandhar 2' is matched by his son Vedaant's swimming achievements. Madhavan has instilled values in Vedaant, emphasizing the responsibilities that come with public recognition. He expressed pride in Vedaant, acknowledging his son's privileged life while preparing him for public scrutiny.",
-    "img": "https://static.toiimg.com/photo/msid-130286298,imgsize-63846.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/you-cant-be-seen-with-your-shirt-off-sleeping-in-any-bed-r-madhavan-warned-his-son-vedaant-about-the-responsibilities-which-come-with-fame/articleshow/130286020.cms",
-    "time": "2026-04-15T14:08:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Virat Kohli not in XI, star RCB pacer returns against LSG",
     "desc": "RCB batter Virat Kohli was left out of RCB’s starting XI against Lucknow Super Giants due to an ankle injury but remained available as an Impact Player. Captain Rajat Patidar chose to bowl first, while Rishabh Pant stayed confident. RCB brought in Josh Hazlewood as both teams looked to gain momentum.",
@@ -412,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-virat-kohli-not-in-xi-as-rcb-opt-to-bowl-against-lsg/articleshow/130285519.cms",
     "time": "2026-04-15T13:46:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Only after hitting 6s against India ...': Pak's Farhan makes big revelation",
-    "desc": "Sahibzada Farhan said his favourite sixes came against India in the Asia Cup, where he hit three off Jasprit Bumrah. Despite his effort, India, led by Suryakumar Yadav and finished by Tilak Varma, won. Farhan credited confidence from attacking top bowlers but faced backlash for a controversial celebration, despite strong recent form.",
-    "img": "https://static.toiimg.com/photo/msid-130285110,imgsize-59818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/only-after-hitting-6s-against-india-pakistans-sahibzada-farhan-makes-big-revelation/articleshow/130283364.cms",
-    "time": "2026-04-15T13:09:14.000Z"
   },
   {
     "cat": "Sports",
@@ -459,24 +522,6 @@ const newsData_en = [
     "time": "2026-04-15T11:42:15.000Z"
   },
   {
-    "cat": "Business",
-    "title": "First time in 7 years! India gets 4 million barrels of crude oil from Iran just ahead of Trump waiver expiry",
-    "desc": "The very large crude carrier Jaya, fully loaded with Iranian oil, is currently unloading its cargo at Paradip on India’s eastern coast. India is looking to quickly secure supplies ahead of a deadline set by the Donald Trump administration that expires over the weekend.",
-    "img": "https://static.toiimg.com/photo/msid-130281478,imgsize-76548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/first-time-in-7-years-india-gets-4-million-barrels-of-crude-oil-from-iran-just-ahead-of-trump-waiver-expiry/articleshow/130281380.cms",
-    "time": "2026-04-15T10:50:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma, Axar Patel added to testing pool",
-    "desc": "India's T20 World Cup stars Abhishek Sharma and Axar Patel have joined NADA's Registered Testing Pool for 2026, replacing Smriti Mandhana and Shreyas Iyer. This elite list of 348 athletes, including prominent cricketers, track and field stars, and Olympians, ensures rigorous anti-doping checks. NADA's updated roster underscores its commitment to fair play across all sports.",
-    "img": "https://static.toiimg.com/photo/msid-130281268,imgsize-159392.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/nada-rtp-update-abhishek-sharma-axar-patel-added-to-testing-pool/articleshow/130281184.cms",
-    "time": "2026-04-15T10:42:39.000Z"
-  },
-  {
     "cat": "World",
     "title": "The Hindu’s new show",
     "desc": "Above the Fold is The Hindu’s weekday news show, bringing you the most important stories of the day with clarity, depth, and context. Each episode also spotlights exclusive reporting, sharp analysis, and on-ground stories from The Hindu that you shouldn’t miss.",
@@ -513,42 +558,6 @@ const newsData_en = [
     "time": "2026-04-15T09:09:37.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "NCA feels more like a 'Hospital'... players are fearful of going: Munaf Patel",
-    "desc": "Former India pacer Munaf Patel has voiced strong concerns about India's cricketing ecosystem, urging reforms at the National Cricket Academy (NCA) and domestic structure. He criticized the NCA's focus on rehabilitation over holistic development and highlighted the lack of a strong feeder pathway, advocating for strengthened grassroots infrastructure.",
-    "img": "https://static.toiimg.com/photo/msid-130279161,imgsize-994289.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/nca-feels-more-like-a-hospital-players-are-fearful-of-going-munaf-patel/articleshow/130279034.cms",
-    "time": "2026-04-15T09:03:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will Pakistan be forced into rationing fuel if conflict drags on?",
-    "desc": "Pakistan may resort to fuel rationing at petrol pumps if the US-Iran conflict escalates, finance minister Muhammad Aurangzeb warned. While currently managing demand through price adjustments and targeted subsidies, the government acknowledges this approach's limits. Disruptions to oil flows via the Strait of Hormuz, crucial for Pakistan's imports, have already caused significant price hikes and public unrest, forcing policy shifts.",
-    "img": "https://static.toiimg.com/photo/msid-130278755,imgsize-696944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/iran-war-impact-will-pakistan-be-forced-into-rationing-if-conflict-drags-on/articleshow/130277261.cms",
-    "time": "2026-04-15T08:47:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' BO day 28 [LIVE]: Ranveer Singh film eyes Rs. 1100 crore milestone",
-    "desc": "The Revenge' is redefining box office history with every passing day. Directed by Aditya Dhar and starring Ranveer Singh, Sanjay Dutt, Arjun Rampal, R. Madhavan, Rakesh Bedi and Sara Arjun, the espionage thriller has become the first Hindi film ever to cross Rs. 1,000 crore in India net collections. On day 28, the film is chasing the Rs. 1,100 crore domestic milestone with a live India net of Rs. 1,096.19 crore and a worldwide gross of Rs. 1,727.93 crore.",
-    "img": "https://static.toiimg.com/photo/msid-130276049,imgsize-98260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-28-live-ranveer-singh-r-madhavan-rakesh-bedi-sanjay-dutt-arjun-rampal-sara-arjun-film-nears-rs-1100-crore-domestic-net-amid-ongoing-ipl-2026-on-fourth-wednesday-as-worldwide-gross-climbs-to-rs-1727-crore/articleshow/130276049.cms",
-    "time": "2026-04-15T07:26:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Gambhir country ke liye kitno se dushmani le raha hai': Munaf Patel backs India coach",
-    "desc": "“Just remember this, if a head coach like Gautam Gambhir is removed, then handling the players will become very difficult. He is a genuine person; he calls the truth as it is and many people don’t like that,\" Munaf said while speaking on TOI Sports' Bombay Sport Exchange Podcast.",
-    "img": "https://static.toiimg.com/photo/msid-130275693,imgsize-34896.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-speaks-the-truth-many-people-dont-like-it-munaf-patel-backs-india-coach-gautam-gambhir/articleshow/130275070.cms",
-    "time": "2026-04-15T07:10:08.000Z"
-  },
-  {
     "cat": "World",
     "title": "IAEA chief",
     "desc": "North Korea's nuclear programme was estimated at a ⁠few dozen warheads, Grossi told a news conference, citing signs of activity such as the operation of a light water reactor and activation of other facilities besides Yongbyon",
@@ -565,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/sri-lanka-repatriates-238-stranded-iranian-sailors-minister/article70863987.ece",
     "time": "2026-04-15T06:08:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 players, one crown: How can India's Vaishali win Women's Candidates at eleventh hour?",
-    "desc": "India’s Vaishali Rameshbabu, Kazakhstan's Bibisara Assaubayeva, and China’s Zhu Jiner. Vaishali and Bibisara currently lead with 7.5/13 points, followed by Jiner on 7/13. The math is simple yet somewhat disquieting. If Vaishali and Bibisara both win their final games, they head into a tie-break on Thursday.",
-    "img": "https://static.toiimg.com/photo/msid-130271060,imgsize-96046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/three-players-one-crown-how-can-indias-vaishali-win-womens-candidates-at-the-eleventh-hour/articleshow/130271031.cms",
-    "time": "2026-04-15T01:57:14.000Z"
   },
   {
     "cat": "Sports",
@@ -628,24 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/nearly-700-reported-killed-in-sudan-drone-strikes-this-year-un/article70861226.ece",
     "time": "2026-04-14T13:18:59.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Foreign secretary Misri reaches Berlin for India-Germany Foreign Office consultations",
-    "desc": "Discussions expected to cover diverse domains of bilateral cooperation, including trade and investment, defence and security, technology, green energy, development cooperation, education and people-to-people ties as well as global and regional matters of mutual interest.",
-    "img": "https://th-i.thgim.com/public/incoming/isth5/article70861042.ece/alternates/LANDSCAPE_1200/20260226356L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/foreign-secretary-misri-reaches-berlin-for-india-germany-foreign-office-consultations/article70861028.ece",
-    "time": "2026-04-14T11:44:59.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S., Iran may meet again in Islamabad for second round of talks by next week: Report",
-    "desc": "The contacts are ongoing for the revival of stalled negotiations between the U.S. and Iran, and talks may be held again before the end of the two-week ceasefire on April 21, says reports citing highly placed sources",
-    "img": "https://th-i.thgim.com/public/incoming/svkytr/article70861013.ece/alternates/LANDSCAPE_1200/12th_kallol2_G3GTGFRBK2D.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-iran-may-meet-again-in-islamabad-for-second-round-of-talks-by-next-week-report/article70860969.ece",
-    "time": "2026-04-14T11:30:27.000Z"
   },
   {
     "cat": "Entertainment",

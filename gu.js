@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "અંતે મામી-ભાણેજ વચ્ચે સમાધાન થયું, કાશ્મીરા શાહની કોમેન્ટ પછી શરુ થયેલા પારિવારિક વિવાદનો અંત આવ્યો",
+    "desc": "સુનિતા આહુજા અને કાશ્મીરા શાહ એ વર્ષો જૂના મતભેદ ભુલી સમાધાન કરી લીધું છે. ઈંટરનેટ પર સુનીતા આહૂજા, કૃષ્ણા અભિષેક અને કાશ્મીરાના ફોટો અને વીડિયો વાયરલ થઈ રહ્યા છે. કાશ્મીરા શાહની એક કોમેન્ટથી શરુ થયેલા પારિવારિક ઝઘડાનો અંત વર્ષો પછી આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/sunita-ahuja-patch-up-with-kashmera-shah-and-krushna-abhishek-after-big-family-controversy-473290 ",
+    "time": "2026-04-16T03:34:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારત માટે મોટો ઝટકો, અમેરિકાના એક નિર્ણયથી ભારતમાં શું વધશે પેટ્રોલ-ડીઝલનો ભાવ?",
+    "desc": "અમેરિકાએ યુદ્ધ બાદ ઈરાન અને રશિયાના ઓઈલને ખરીદવા માટે જે છૂટ આપી હતી તેના પર પૂર્ણવિરામ મૂકી દીધો છે એટલે કે હવે રશિયન અને ઈરાનિયન ઓઈલ ખરીદવા માટે છૂટ મળશે નહીં. ભારત માટે આ નિર્ણય એક ઝટકા સમાન છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-blow-for-india-will-a-decision-by-america-impact-the-price-of-petrol-and-diesel-check-details-473289 ",
+    "time": "2026-04-16T03:17:07.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "લખનઉમાં ભીષણ આગ, 1000થી વધુ ઝૂંપડીઓ સ્વાહા; ગેસ સિલિન્ડરના ધડાકાથી આખો વિસ્તાર આગની ઝપેટમાં",
     "desc": "ઉત્તર પ્રદેશની રાજધાની લખનઉમાં આગની એક ભયાનક ઘટના સામે આવી છે. અહીં 1000થી વધુ ઝૂંપડીઓ બળીને ખાખ થઈ ગઈ છે. ગેસ સિલિન્ડર અને પાર્ક કરેલ બાઈકોની ફ્યુઅલ ટેન્કમાં એક પછી એક વિસ્ફોટ થવાને કારણે આખો વિસ્તાર ફફડી ઉઠ્યો. આગ આખી વસ્તીમાં પ્રસરી ગઈ છે.",
@@ -288,15 +306,6 @@ const newsData_gu = [
     "time": "2026-04-14T10:14:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મોતની થોડી મિનિટો પહેલા દરેક વ્યક્તિ કહે છે આ જ વાત! નર્સે ખોલ્યું એવું રહસ્ય જે તમારું જીવન બદલી નાખશે",
-    "desc": "મૃત્યુની નજીક પહોંચેલા દર્દીઓને સૌથી વધુ કઈ વાતનું દુઃખ હોય છે? 'મેરી ક્યુરી' ચેરિટીની નર્સ એશ્લે વુડે અંતિમ ક્ષણોના એ ઊંડા અનુભવો અને શીખ શેર કરી છે જે આપણે આજે જ શીખી લેવી જોઈએ. વાંચો સંપૂર્ણ અહેવાલ અહીં...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/just-moments-before-death-every-human-being-says-the-exact-same-thing-a-nurse-reveals-a-secret-that-will-change-your-life-473027 ",
-    "time": "2026-04-14T09:30:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "રાજસ્થાન રોયલ્સમાં ખુશ નથી વૈભવ સૂર્યવંશી, કોચના નિવેદનથી ખળભળાટ, જાણો શું છે કારણ ?",
     "desc": "15 વર્ષીય વૈભવ સૂર્યવંશી રાજસ્થાન રોયલ્સ ટીમથી નાખુશ છે. સનરાઇઝર્સ સામે ગોલ્ડન ડક આઉટ થયા બાદ કોચ ટ્રેવર પેનીએ આ ખુલાસો કર્યો છે. રાજસ્થાન હવે 19 એપ્રિલે KKR સામે ટકરાશે, જ્યાં સૂર્યવંશીની ભૂમિકા પર બધાની નજર રહેશે.",
@@ -304,15 +313,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-is-not-happy-for-impact-player-rajasthan-royals-473025 ",
     "time": "2026-04-14T09:16:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રાઈફલથી લઈને રિવોલ્વર સુધી, દેવું &amp;#039;ઝીરો&amp;#039;... કરોડોની સંપત્તિના માલિક સમ્રાટ ચૌધરી પાસે શું-શું છે?",
-    "desc": "બિહારના નવા મુખ્યમંત્રી તરીકે સમ્રાટ ચૌધરીના નામ પર સંમતિ સધાઈ ગઈ છે. જોકે, તેમના નામની હજુ સુધી ઔપચારિક જાહેરાત કરવામાં આવી નથી. આવતીકાલે શપથ ગ્રહણ સમારોહ પહેલા આજે સાંજે તેમના નામની જાહેરાત કરવામાં આવે તેવી આશા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/samrat-choudhary-net-worth-bihar-deputy-cms-net-worth-touches-11-31-crore-473023 ",
-    "time": "2026-04-14T09:01:28.000Z"
   },
   {
     "cat": "Business",
@@ -655,15 +655,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-best-selling-cars-march-2026-dzire-no-1-ertiga-secend-471882 ",
     "time": "2026-04-07T10:07:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "વિરાટ કોહલી ખરેખર છે પૂકી હસબંડ, IPL વચ્ચે સમય કાઢી અનુષ્કા શર્મા સાથે જોઈ ધુરંધર 2",
-    "desc": "વિરાટ કોહલીએ ફરી એકવાર સાબિત કર્યું કે તે પૂકી હસબંડ છે. આઈપીએલના વ્યસ્ત શેડ્યુલ વચ્ચે તેણે અનુષ્કા શર્મા સાથે જઈ ધુરંધર 2 ફિલ્મ જોઈ છે. ફિલ્મ જોયા બાદ વિરાટ અને અનુષ્કાએ આદિત્ય ધર અને રણવીર સિંહના વખાણ કરતી પોસ્ટ શેર કરી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/virat-kohli-became-pookie-husband-watched-dhurandhar-2-with-anushka-sharma-between-ipl-2026-471807 ",
-    "time": "2026-04-07T04:39:39.000Z"
   },
   {
     "cat": "Tech",
