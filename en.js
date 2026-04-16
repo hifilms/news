@@ -1,6 +1,96 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "Shubhankar fires 64 to close in on a win at Boulders Classic",
+    "desc": "The 29-year-old Shubhankar (66-66-64), a two-time DP World Tour winner, matched the course record set by Honey Baisoya a day earlier. He is now at 20-under 196 with one round to go at the Boulder Hills Golf & Country Club",
+    "img": "https://th-i.thgim.com/public/incoming/upml17/article70871068.ece/alternates/LANDSCAPE_1200/Shubhankar_Sharma_15.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/shubhankar-fires-64-to-close-in-on-a-win-at-boulders-classic/article70871064.ece",
+    "time": "2026-04-16T21:26:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delimitation won’t bring down south’s share of seats, Modi, Shah tell Lok Sabha",
+    "desc": "Amit Shah says those spreading ‘misconceptions... do not understand’; he tells Lok Sabha that seats of five southern States will increase from 129 to 195 and reassures people of Tamil Nadu that their ‘power is increasing’",
+    "img": "https://th-i.thgim.com/public/incoming/jykpfn/article70870919.ece/alternates/LANDSCAPE_1200/PTI04_16_2026_000426B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/delimitation-wont-bring-down-souths-share-of-seats-modi-shah-tell-lok-sabha/article70870586.ece",
+    "time": "2026-04-16T21:17:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet",
+    "desc": "“We want to take this opportunity very seriously and play our best cricket here. It’s a great chance for us to come together and prepare well before the World Cup,” Harmanpreet said at the pre-series press conference.",
+    "img": "https://th-i.thgim.com/public/incoming/pl2g96/article70871058.ece/alternates/LANDSCAPE_1200/PTI01_30_2026_000374B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/south-africa-series-is-great-chance-to-prepare-for-t20-world-cup-harmanpreet/article70871056.ece",
+    "time": "2026-04-16T21:17:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I have no regrets'",
+    "desc": "Hansika Motwani and businessman Sohael Khaturiya were granted a mutual consent divorce by Mumbai’s Bandra family court on March 11, 2026, bringing an end to their marriage of over three years. The couple, who tied the knot in December 2022, had been living separately since July 2024 due to irreconcilable differences. No alimony was sought by either party. While Hansika did not directly address the divorce, she recently spoke about her personal life and the scrutiny around it.",
+    "img": "https://static.toiimg.com/photo/msid-130317536,imgsize-49100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hansika-motwani-breaks-silence-on-divorce-from-sohael-khaturiya-i-have-no-regrets-im-very-happy-where-i-am/articleshow/130317536.cms",
+    "time": "2026-04-16T20:03:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah says all elections till 2029 to be held based on existing number of seats",
+    "desc": "The law of the Delimitation Commission is exactly according to the old law. No changes have been made in it. The ongoing elections will not be affected by this, says Union Home Minister Amit Shah",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/parliament-budget-special-session-live-april-16-women-reservation/article70867519.ece",
+    "time": "2026-04-16T19:56:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "With BDS student’s death in Kannur, caste bias back in focus",
+    "desc": "The death of a student of Kannur Dental College has raised disturbing questions about caste discrimination on Kerala’s college campuses. The college has dismissed a faculty member and suspended another, pending inquiry. The incident led to an outpouring of related complaints from other students. The bereaved family, the student’s college-mates, faculty, and activists express their views",
+    "img": "https://th-i.thgim.com/public/incoming/4fiqi2/article70870235.ece/alternates/LANDSCAPE_1200/NH16NithinRaj06.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/with-bds-students-death-in-kannur-caste-bias-back-in-focus/article70869430.ece",
+    "time": "2026-04-16T19:46:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Two held in U.P.’s Bijnor over 'anti-national' activities, separate cases; foreign links probed",
+    "desc": "Circle Officer Anjani Kumar Chaturvedi said Sameer was arrested from Najibabad for allegedly maintaining contact with individuals based in Saudi Arabia and South Africa, who were attempting to recruit youths in India for terror-related activities",
+    "img": "https://th-i.thgim.com/public/incoming/vqiaw1/article70867951.ece/alternates/LANDSCAPE_1200/iStock-1905024012.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/two-held-in-ups-bijnor-over-anti-national-activities-separate-cases-foreign-links-probed/article70867915.ece",
+    "time": "2026-04-16T19:24:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Had a very good talk': Trump on 40-min phone call with 'friend' PM Modi",
+    "desc": "President Donald Trump described his recent conversation with Prime Minister Narendra Modi as \"very good,\" highlighting their strong friendship and India's progress. The leaders discussed bilateral cooperation and the critical situation in West Asia, emphasizing the need for a secure Strait of Hormuz. This marks their third call this year, following discussions on trade and regional stability.",
+    "img": "https://static.toiimg.com/photo/msid-130317217,imgsize-83406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/had-a-very-good-talk-trump-on-40-min-phone-call-with-friend-pm-modi/articleshow/130317238.cms",
+    "time": "2026-04-16T19:23:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kangana Ranaut says Karan Johar is ‘not a bad person’",
+    "desc": "Nearly a decade after her explosive appearance on Koffee With Karan, Kangana Ranaut has revisited the moment that stunned Karan Johar and went on to spark one of Bollywood’s most enduring debates. In a recent conversation, Kangana was asked whether her now-iconic remarks—including calling Karan the “flagbearer of nepotism”—were scripted or spontaneous. While her comments back then led to a frosty equation with Karan Johar, Kangana now says she does not view him negatively.",
+    "img": "https://static.toiimg.com/photo/msid-130317011,imgsize-47322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-says-karan-johar-is-not-a-bad-person-revisits-koffee-with-karan-controversial-episode-why-should-i-pretend/articleshow/130317011.cms",
+    "time": "2026-04-16T19:18:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delimitation will turn Tamils into second-class citizens, says CM Stalin",
+    "desc": "There can never be a Prime Minister from the South if the Delimitation Bill goes through in Parliament, he says. Mr. Stalin also criticises the AIADMK general secretary, Edappadi K. Palaniswami, for claiming that the Chief Minister’s rejection of the Bill reflected his opposition to women’s reservation",
+    "img": "https://th-i.thgim.com/public/incoming/ek6kb4/article70866414.ece/alternates/LANDSCAPE_1200/10213_15_4_2026_19_58_31_1_KA16DMKELECTIONMEETINGINDHARMAPURI002.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/delimitation-will-turn-tamils-into-second-class-citizens-says-cm-stalin/article70865932.ece",
+    "time": "2026-04-16T19:13:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Punjab Kings rise to No.1 as Mumbai Indians struggle at ninth",
     "desc": "Punjab Kings continued their IPL 2026 dominance, defeating Mumbai Indians by seven wickets to claim the top spot in the points table. They remain the only unbeaten team, extending their strong start. Meanwhile, Mumbai Indians' struggles deepened with their fourth loss, placing them ninth.",
     "img": "https://static.toiimg.com/photo/msid-130316357,imgsize-88338.cms",
@@ -28,30 +118,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Delimitation won’t bring down south’s share of seats, Modi, Shah tell Lok Sabha",
-    "desc": "Amit Shah says those spreading ‘misconceptions... do not understand’; he tells Lok Sabha that seats of five southern States will increase from 129 to 195 and reassures people of Tamil Nadu that their ‘power is increasing’",
-    "img": "https://th-i.thgim.com/public/incoming/jykpfn/article70870919.ece/alternates/LANDSCAPE_1200/PTI04_16_2026_000426B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/delimitation-wont-bring-down-souths-share-of-seats-modi-shah-tell-lok-sabha/article70870586.ece",
-    "time": "2026-04-16T18:17:42.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Supreme Court’s intervention offers fresh hope to excluded electors for West Bengal Assembly polls",
     "desc": "Chief Minister Mamata Banerjee urged all deleted voters to apply to the tribunals and assured them that they will get their rights reinstated; she said a supplementary list for the first phase of elections will be published on 21st April and the second phase on April 27, as per the Supreme Court order",
     "img": "https://th-i.thgim.com/public/incoming/krrtw2/article70870903.ece/alternates/LANDSCAPE_1200/PTI04_11_2026_000343A.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/elections/west-bengal-assembly/supreme-courts-intervention-offers-fresh-hope-to-excluded-electors-for-west-bengal-assembly-polls/article70869795.ece",
     "time": "2026-04-16T18:06:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amit Shah says all elections till 2029 to be held based on existing number of seats",
-    "desc": "The law of the Delimitation Commission is exactly according to the old law. No changes have been made in it. The ongoing elections will not be affected by this, says Union Home Minister Amit Shah",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/parliament-budget-special-session-live-april-16-women-reservation/article70867519.ece",
-    "time": "2026-04-16T18:04:32.000Z"
   },
   {
     "cat": "Sports",
@@ -70,15 +142,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/call-all-party-meeting-to-evolve-consensus-on-womens-reservation-kc-venugopal/article70870100.ece",
     "time": "2026-04-16T17:59:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "With BDS student’s death in Kannur, caste bias back in focus",
-    "desc": "The death of a student of Kannur Dental College has raised disturbing questions about caste discrimination on Kerala’s college campuses. The college has dismissed a faculty member and suspended another, pending inquiry. The incident led to an outpouring of related complaints from other students. The bereaved family, the student’s college-mates, faculty, and activists express their views",
-    "img": "https://th-i.thgim.com/public/incoming/4fiqi2/article70870235.ece/alternates/LANDSCAPE_1200/NH16NithinRaj06.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/with-bds-students-death-in-kannur-caste-bias-back-in-focus/article70869430.ece",
-    "time": "2026-04-16T17:58:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -117,24 +180,6 @@ const newsData_en = [
     "time": "2026-04-16T17:16:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "AIADMK leader Edappadi Palaniswami",
-    "desc": "When Union Minister Amit Shah visited Tamil Nadu, he assured that the State will not be affected, stated Mr. Palaniswami. “The NDA will implement delimitation better than what Mr. Stalin expects. The Centre is clear that no State will be affected by the delimitation,” he added.",
-    "img": "https://th-i.thgim.com/public/incoming/4d10c8/article70868820.ece/alternates/LANDSCAPE_1200/9869_16_4_2026_13_20_15_1__DSC7195.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/delimitation-bill-will-not-affect-tamil-nadu-says-aiadmk-leader-edappadi-palaniswami/article70868463.ece",
-    "time": "2026-04-16T17:06:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court asks Uttar Pradesh to consider plea flagging risk of liquor cartons in educational campuses",
-    "desc": "A Bench headed by Chief Justice of India Surya Kant directed the State government to accept a representation challenging the administrative decision made in February last year under the State excise policy allowing the manufacture, packaging and sale of liquor in small cartons",
-    "img": "https://th-i.thgim.com/public/incoming/6t1g1h/article70868080.ece/alternates/LANDSCAPE_1200/29th_abhinay_G0G1LFPCCDO.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-asks-uttar-pradesh-to-consider-plea-flagging-risk-of-liquor-cartons-in-educational-campuses/article70867867.ece",
-    "time": "2026-04-16T17:03:26.000Z"
-  },
-  {
     "cat": "World",
     "title": "Delimitation row erupts in Parliament: What happened?",
     "desc": "In our new and third episode of Above the Fold, we look at the stormy session in the Lok Sabha as the Centre and Opposition clash over delimitation. Joshua Landis weighs in on the escalating West Asia conflict, while Donald Trump sparks controversy with a viral post. Also, a key Supreme Court of India observation on voting rights and R Vaishali clinches a major chess title.",
@@ -142,15 +187,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-delimitation-row-erupts-in-parliament-what-happened-above-the-fold-16042026/article70870698.ece",
     "time": "2026-04-16T16:57:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC directive sparks renewed hopes of crackdown on commercial activities in residential layouts",
-    "desc": "While the corporations are awaiting official notice and see the development as an opportunity to increase revenue generation, citizens question how this will be different, as such violations are rampant in the city and the civic body has failed to enforce regulations",
-    "img": "https://th-i.thgim.com/public/incoming/opwdj/article70870216.ece/alternates/LANDSCAPE_1200/Diabolic-assaGGKFR80PA.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/sc-order-sparks-renewed-hopes-of-crackdown-on-commercial-activities-in-residential-layouts/article70865779.ece",
-    "time": "2026-04-16T16:44:50.000Z"
   },
   {
     "cat": "Sports",
@@ -324,15 +360,6 @@ const newsData_en = [
     "time": "2026-04-16T13:29:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Chanakya would have been shocked': Priyanka's remarks draws reaction from Amit Shah",
-    "desc": "Backing the idea of reserving seats for women legislators, Priyanka said her party was not opposing women’s representation itself, but questioning what she described as the political intent behind the timing and framing of the bill. She argued that the ruling NDA was using the measure as an electoral strategy rather than as a purely reform-driven step.",
-    "img": "https://static.toiimg.com/photo/msid-130308637,imgsize-111734.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/chanakya-would-have-been-shocked-priyankas-remarks-draws-reaction-from-amit-shah-watch/articleshow/130308390.cms",
-    "time": "2026-04-16T13:16:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘32 Ferraris’: Michael Vaughan left speechless by Lalit Modi’s lavish collection",
     "desc": "Former England captain Michael Vaughan was astonished as Lalit Modi revealed his extensive Ferrari collection during an interview. Modi gifted his son a Ferrari every year from age 21, amassing 11 cars for him, while Modi himself owns 21. The conversation also touched upon emerging cricket talent like Vaibhav Sooryavanshi.",
@@ -378,15 +405,6 @@ const newsData_en = [
     "time": "2026-04-16T11:23:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Kala tika on bills': PM Modi takes swipe at DMK over black attire protest",
-    "desc": "Prime Minister Modi lauded the women's reservation Bill in Lok Sabha, while criticizing DMK's protest against the delimitation Bill. He assured no state would face injustice, countering Udhayanidhi Stalin's claims of reduced Tamil Nadu representation. The delimitation and women's quota bills were introduced after a division vote.",
-    "img": "https://static.toiimg.com/photo/msid-130305358,imgsize-868102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kala-tika-on-bills-pm-modi-takes-swipe-at-dmk-over-black-attire-protest/articleshow/130304994.cms",
-    "time": "2026-04-16T11:14:51.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Dhurandhar 2' OTT release date: Makers share update amid ‘Tridev’ song 'Oye Oye' copyright row",
     "desc": "The Revenge' continues its thunderous box-office run since its theatrical release on March 19, 2026, the Delhi High Court has declined an immediate injunction against the Ranveer Singh-starrer in a copyright dispute over 'Tridev' rights, but with a catch. B62 Studios has officially informed the court that the Rs. 1,700 crore blockbuster will not arrive on any digital platform before mid-May 2026. Read on to learn more about the legal battle between Trimurti Films and the producers, the 'Oye Oye' song controversy, and the court's order on revenue tracking.",
@@ -412,24 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/blackout-in-pakistan-hormuz-supply-crunch-triggers-electricity-shortage-in-islamabad/articleshow/130302758.cms",
     "time": "2026-04-16T10:51:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'My guarantee': PM Modi says no state to face injustice due to delimitation",
-    "desc": "The Congress on Thursday alleged that the government wants to \"bulldoze\" delimitation in the name of women's reservation, and asserted that if it is really committed to implementing the women's quota law it should do so immediately on the basis of the current strength of Lok Sabha. The opposition party also alleged that the BJP was using delimitation as a \"political weapon\" to increase its influence.",
-    "img": "https://static.toiimg.com/photo/msid-130304525,imgsize-107096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/my-guarantee-pm-modi-says-no-state-to-face-injustice-due-to-delimitation/articleshow/130304043.cms",
-    "time": "2026-04-16T10:43:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BSF officer killed in fuel depot fire at Bengal border outpost",
-    "desc": "Tragedy struck the Bankra border outpost in West Bengal's North 24 Parganas as a devastating fire engulfed a fuel depot. Assistant Sub Inspector Jagi Ram tragically lost his life after being trapped inside during a blast that ignited the blaze. The depot supplied fuel for BSF boats patrolling the Sundarbans. Authorities are investigating the incident.",
-    "img": "https://static.toiimg.com/photo/msid-130304124,imgsize-813487.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bsf-officer-killed-in-fuel-depot-fire-at-bengal-border-outpost/articleshow/130303997.cms",
-    "time": "2026-04-16T10:20:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -459,15 +459,6 @@ const newsData_en = [
     "time": "2026-04-16T09:46:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Frisco King' filming: Stallone confirms shoot with Jackson",
-    "desc": "Sylvester Stallone's social media post confirms filming for 'Frisco King,' a 'Tulsa King' spin-off starring Samuel L. Jackson. The series, set in Texas, delves into Jackson's character, a former mob enforcer building a new empire. This expansion of Taylor Sheridan's crime universe hints at interconnected stories and new criminal legacies.",
-    "img": "https://static.toiimg.com/photo/msid-130302958,imgsize-121730.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/english/sylvester-stallone-shares-photo-with-samuel-l-jackson-as-frisco-king-starts-filming-from-one-king-to-another/articleshow/130302930.cms",
-    "time": "2026-04-16T09:35:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "5 players battle to watch in today's IPL 2026 match between MI and PBKS",
     "desc": "Mumbai Indians face Punjab Kings in a crucial IPL 2026 clash at Wankhede Stadium. MI, struggling with three consecutive losses and a doubtful Rohit Sharma, host an unbeaten PBKS. This historic rivalry is evenly matched, with key individual battles set to decide the outcome.",
@@ -475,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/shreyas-iyer-to-jasprit-bumrah-5-players-battle-to-watch-in-todays-ipl-2026-match-between-mi-and-pbks/articleshow/130302618.cms",
     "time": "2026-04-16T09:20:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vidyut Jammwal joins 'Street Fighter' cast at CinemaCon",
-    "desc": "The upcoming live-action 'Street Fighter' film generated significant buzz at CinemaCon 2026, unveiling character posters and a teaser trailer. Bollywood star Vidyut Jammwal, portraying Dhalsim, joined co-stars like Noah Centineo on stage. Early reactions to the trailer are overwhelmingly positive, with the plot set to explore a conspiracy involving Ryu and Ken.",
-    "img": "https://static.toiimg.com/photo/msid-130301962,imgsize-98640.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vidyut-jammwal-joins-noah-centineo-and-street-fighter-cast-at-cinemacon-critics-hail-trailer-as-spectacular/articleshow/130300581.cms",
-    "time": "2026-04-16T09:09:05.000Z"
   },
   {
     "cat": "World",
@@ -774,15 +756,6 @@ const newsData_en = [
     "time": "2026-04-14T08:19:20.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "McIlroy falters, shares Masters lead with surging Young",
-    "desc": "A chaotic afternoon at Augusta National saw both men plunk key shots into water on the back nine but finish level atop the leaderboard on 11-under 205 through 54 holes, one stroke ahead of American Sam Burns",
-    "img": "https://th-i.thgim.com/public/incoming/x84y8z/article70856214.ece/alternates/LANDSCAPE_1200/2026-04-13T002036Z_328585844_UP1EM4C1S3G3U_RTRMADP_3_GOLF-MASTERS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/mcilroy-falters-shares-masters-lead-with-surging-young/article70856212.ece",
-    "time": "2026-04-14T05:46:58.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rise in middle class vulnerability",
     "desc": "India is lifting its people out of income-based poverty but not moving them ahead for better upward mobility and economic opportunity. A World Bank policy paper proposes shifting welfare analysis from merely counting those below the poverty line to measuring how far people are from a reasonable standard of living.",
@@ -898,5 +871,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
     "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
