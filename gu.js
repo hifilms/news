@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "બિહારના મુખ્યમંત્રી સમ્રાટ ચૌધરીને જાનથી મારવાની ધમકી આપનારો ગુજરાતમાંથી પકડાયો",
+    "desc": "ગુજરાતના રાજકારણમાં મોટી ઘટના બની છે. બિહારના નવનિયુક્ત મુખ્યમંત્રી સમ્રાટ ચૌધરીને ફોન કરીને જાનથી ધમકી આપનાર શખ્સ ગુજરાતથી પકડાયો છે. સાણંદથી શેખર યાદના નામના યુવકની ધરપકડ કરવામાં આવી છે, જેણે બિહારના નવા CMને મારવાની ધમકી આપી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/man-who-threatened-to-kill-bihar-new-cm-samrat-chaudhary-arrested-from-sanand-gujarat-473489 ",
+    "time": "2026-04-17T07:28:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ટોસ્ટરથી લઈ મટકા કિંગ સુધીની નવી ફિલ્મો અને વેબ સીરીઝ ઓટીટી પર રિલીઝ, ચેક કરી લો લિસ્ટ",
+    "desc": "એપ્રિલ મહિનાનું આ ત્રીજું વીકેન્ડ છે અને આ વીકેન્ડ ઓટીટી લવર્સ માટે ખાસ છે. કારણ કે આ વખતે ઓટીટી પ્લેટફોર્મ પર અલગ અલગ જોનરની ફિલ્મો અને સીરીઝ રિલીઝ થઈ છે. એટલે આ વીકેન્ડ ફુલ ઓન એન્ટરટેનમેન્ટમાં પસાર થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/17-april-2026-ott-release-list-of-5-new-hindi-film-and-web-series-released-on-ott-this-week-473497 ",
+    "time": "2026-04-17T07:19:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાન-અમેરિકા વચ્ચે યુદ્ધનો હવે અંત આવી જશે? 5 પોઈન્ટમાં જાણો શું મળી રહ્યા છે સંકેત",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચે ચાલી રહેલા યુદ્ધનો હવે અંત આવી શકે છે. હાલ જો કે બે અઠવાડિયાનું સીઝફાયર ચાલુ છે. પરંતુ યુદ્ધનો કાયમી અંત આવવાની આશા જાગી છે. છેલ્લા કેટલાક કલાકોમાં જે ડેવલપમેન્ટ સામે આવ્યા છે તેના કારણે આ આશા જાગી છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/will-the-war-between-iran-and-america-end-soon-check-some-positive-developments-473488 ",
+    "time": "2026-04-17T06:55:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;એક નાનકડા છોકરા&amp;#039;એ આખા ગુજરાતની ઊંઘ ઉડાવી દીધી, જાણો એવું તે શું થયું?",
+    "desc": "માત્ર ગુજરાત જ નહીં પરંતુ સમગ્ર દેશમાં હાલ હવામાન જે રીતનું જોવા મળી રહ્યું છે તે ચિંતાજનક છે. ઉપરથી IMDએ એવી આગાહી કરેલી છે કે આ વખતે ચોમાસું નબળું રહી શકે છે. ત્યારે આ નાનકડો છોકરો....એવું તે શું કરી રહ્યો છે જેના કારણે ખતરો ઊભો થયો છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/monsoon-2026-what-is-al-nino-and-its-effect-also-in-spanish-it-is-called-the-little-boy-or-christ-child-473472 ",
+    "time": "2026-04-17T05:54:17.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "શું છે રોટેશન સિસ્ટમ? અખિલેશ યાદવે મહિલા અનામતમાં જેનો વિરોધ કર્યો, બિલમાં શું છે જોગવાઈ",
     "desc": "ધારો કે આજે કોઈ શહેરની વિધાનસભા કે લોકસભા બેઠક મહિલાઓ માટે અનામત છે, તો આગામી વખતે જ્યારે પરિસીમન (Delimitation) થશે, ત્યારે મહિલાઓ માટે અનામત તે બેઠક સામાન્ય થઈ શકે છે અને અન્ય કોઈ વિસ્તારની બેઠક મહિલાઓ માટે અનામત રાખવામાં આવી શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -234,24 +270,6 @@ const newsData_gu = [
     "time": "2026-04-15T09:13:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM મોદીએ એરપોર્ટ પર કોંગ્રેસ સીએમના કાનમાં શું કહ્યું? દેશભરમાં વાયરલ થઈ આ તસવીર",
-    "desc": "એક તસવીર હજાર શબ્દોને બરાબર હોય છે. તમે પણ વાંચ્યું હશે. આજે આ તસવીર સોશિયલ મીડિયા પર શેર થઈ રહી છે. આ સાથે પ્રધાનમંત્રીની રાહુલ ગાંધી, ખડગે સાથેની વાતચીતની તસવીર પણ ફરી ચર્ચામાં આવી ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/karnataka-chief-minister-siddaramaiah-welcomed-prime-minister-narendra-modi-at-bengaluru-airport-473181 ",
-    "time": "2026-04-15T08:56:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ચાર વર્ષમાં ચાર ગણી વધી ગઈ ગોલ્ડ લોન, સોનાને સૌથી વધારે ગીરવે મુકી રહ્યા છે આ ત્રણ રાજ્યના લોકો સૌથી, જાણો ગુજરાતનો નંબર",
-    "desc": "સોનાને ગીરવે મૂકીને તરીકે લોન લેવાનું વલણ ઝડપથી વધી રહ્યું છે. હાઉસિંગ લોન પછી, લોકોએ રિટેલ ક્રેડિટમાં બીજા ક્રમે સૌથી વધુ ગોલ્ડ લોન લીધી છે. દક્ષિણના રાજ્યો આ બજારમાં પ્રભુત્વ ધરાવે છે. બજાર હિસ્સાની દ્રષ્ટિએ, ટોચના ત્રણ દક્ષિણ રાજ્યોમાંથી છે, જેમાં ઉત્તર પ્રદેશ પણ ટોચના 10 રાજ્યોમાં સામેલ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gold-loans-have-increased-fourfold-in-four-years-people-are-pledging-the-most-gold-in-these-three-states-know-gujarat-number-473179 ",
-    "time": "2026-04-15T08:48:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "મગજની નસોમાં આંટીઓ ચઢાવી દેશે આ સાઈકો થ્રિલર ફિલ્મ, સ્ટોરી શરુ થાય પછી 1 મિનિટ માટે પણ સ્ક્રિનથી નજર નહીં હટાવી શકો",
     "desc": "શું તમે એવી ફિલ્મ જોવા માંગો છો જેને જોયા પછી તમને એવું કહેવાનું મન થાય કે વાહ... શું ફિલ્મ હતી. તો પછી આ ફિલ્મ જોઈ લો. આ ફિલ્મ એકવાર શરુ થશે એટલે પુરી થશે ત્યાં સુધી તમે ફિલ્મમાં ઓત પ્રોત રહેશો. આ ફિલ્મ એટલી જોરદાર છે કે તમને લાગશે કે ફિલ્મના પાત્રોની સાથે તમે પણ ફિલ્મમાં જ છો.",
@@ -405,15 +423,6 @@ const newsData_gu = [
     "time": "2026-04-14T07:59:50.000Z"
   },
   {
-    "cat": "Business",
-    "title": "એક સહી…અને તમારા હકો કોઈ બીજા પાસે! પાવર ઓફ એટર્ની કરતા પહેલા સાવધાન! આ 3 ભૂલો કરી શકે છે &amp;#039;ઠન ઠન ગોપાલ&amp;#039;!",
-    "desc": "પાવર ઓફ એટર્ની કોઈને પણ આપતી વખતે કેટલીક ભૂલો ભવિષ્યમાં મોટી મુશ્કેલીઓ ઊભી કરી શકે છે. ઘણીવાર લોકો સંબંધીઓ અથવા મિત્રો પર આંધળો વિશ્વાસ કરીને નિયમો વાંચ્યા વિના જ અધિકારો સોંપી દે છે, જે પ્રોપર્ટી ફ્રોડનું કારણ બની શકે છે. કેટલાક અહેવાલો અનુસાર, મિલકત સાથે સંકળાયેલી છેતરપિંડીના 40% કિસ્સાઓમાં પાવર ઓફ એટર્નીનો દુરુપયોગ મુખ્ય કારણ હોય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/exercise-caution-when-granting-a-power-of-attorney-committing-these-mistakes-could-result-in-the-loss-of-your-property-472999 ",
-    "time": "2026-04-14T06:55:06.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "કેવી હતી આશા તાઈની છેલ્લી ક્ષણો? મુમતાઝે વર્ણવી આપવીતી, જાણીને તમારી આંખો પણ થઈ જશે ભીની....",
     "desc": "92 વર્ષની વયે આશા ભોંસલેના અવસાનથી સંગીત જગતને ઊંડો આઘાત લાગ્યો છે. ફેફસામાં ઈન્ફેક્શનના કારણે હોસ્પિટલમાં દાખલ થયેલા આ દિગ્ગજ ગાયિકાની છેલ્લી ક્ષણો વિશે તેમની નજીકની મિત્ર અને અભિનેત્રી મુમતાઝે વિગતો આપી છે. આ સાથે તેમણે એક વીડિયો પણ શેર કર્યો છે, જે જોઈને કોઈની પણ આંખો નમ થઈ જશે.",
@@ -502,24 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/virat-kohli-injury-update-rcb-captain-rajat-patidar-ipl-2026-472814 ",
     "time": "2026-04-13T08:08:37.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "પેટ્રોલ-ગેસ મામલે ઈરાને આ શું કહ્યું? હોર્મુઝની &amp;#039;નાકાબંધી&amp;#039; પર અમેરિકાને સીધીસટ ચેતવણી",
-    "desc": "અમેરિકા ઈરાન જેને હથિયાર બનાવીને બીજા દેશોને પણ ભરડામાં લઈ રહ્યું છે તે હોર્મુઝ સ્ટ્રેટની નાકાબંધી કરીને ઈરાનને ભીસમાં લેવાનો પ્રયત્ન કરી રહ્યું છે. જો કે ઈરાનની સંસદના અધ્યક્ષે એક એવું નિવેદન આપ્યું જેને પગલે હવે પેટ્રોલ ડીઝલ, ગેસ જેવી વસ્તુઓના ભાવ ભડકે બળશે તેવા સંકેત મળી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/mohammad-bagher-ghalibaf-warns-america-donald-tump-over-hormuz-blockade-472812 ",
-    "time": "2026-04-13T08:02:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Video",
-    "desc": "મુંબઈ અને બેંગ્લોર વચ્ચેની IPL મેચ દરમિયાન એક એવું દ્રશ્ય સામે આવ્યું જેણે ચાહકોને ચોંકાવી દીધા. આ વખતે જ્યારે હાર્દિક પંડ્યા અને કૃણાલ પંડ્યા મેદાન પર આમને-સામને હતા, ત્યારે ના કોઈ હસી મજાક જોવા મળી કે ના ભાઈચારાની ઝલક જોવા મળી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/pandya-brothers-hardik-vs-krunal-rift-viral-moment-mi-vs-rcb-ipl-2026-472795 ",
-    "time": "2026-04-13T06:21:42.000Z"
   },
   {
     "cat": "Tech",
@@ -655,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/data-calling-and-sms-for-1-rupee-bsnl-re-launched-freedom-plan-471978 ",
     "time": "2026-04-08T05:41:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ધુરંધરની સફળતા પર બોલીવુડને રોસ્ટ કરવું ઝાકીર ખાનને ભારે પડ્યું, દિગ્ગજ ડિરેક્ટરે ડફર કહી સંભળાવી ખરીખોટી",
-    "desc": "ઝાકીર ખાન બોલીવુડના દિગ્ગજ લોકોના નિશાન પર આવ્યો છે અને સોશિયલ મીડિયા પર એક નવો વિવાદ શરુ થયો છે. તાજેતરમાં યોજાયેલા એવોર્ડ શોમાં ઝાકીર ખાને બોલીવુડને ધુરંધરની સફળતા માટે રોસ્ટ કર્યું હતું. જેને લઈ હવે ઝાકીર ખાનને ખરીખોટી સાંભળવાનો વારો આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/zakir-khan-roast-bollywood-over-dhurandhar-success-started-another-controversy-on-social-media-471964 ",
-    "time": "2026-04-08T03:45:32.000Z"
   },
   {
     "cat": "Tech",

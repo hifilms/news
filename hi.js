@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 Players Mumbai Indians might drop for next game vs GT after losing four consecutive matches in IPL 2026",
+    "desc": "Hardik Pandya hinted at 'taking some tough calls' on Thursday after the Mumbai Indians suffered their fourth consecutive loss in IPL 2026, this time against the Punjab Kings at the Wankhede Stadium in Mumbai. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-players-mumbai-indians-might-drop-for-next-game-after-crushing-loss-to-punjab-kings-2026-04-17-1037853",
+    "time": "2026-04-17T07:11:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aaron Finch points out Mumbai Indians' problems as horrid IPL 2026 season continues",
+    "desc": "Five-time IPL (Indian Premier League) champions Mumbai Indians have been going through a horrid season so far in the IPL 2026. The side was being touted as one of the strongest teams in the tournament,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aaron-finch-points-out-mumbai-indians-problems-as-horrid-ipl-2026-season-continues-2026-04-17-1037846",
+    "time": "2026-04-17T06:39:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head-to-head record between two teams ahead of ODI series",
+    "desc": "Bangladesh and New Zealand lock horns in a multi-format white-ball series. The two sides will kick off the series by facing off in the first ODI at the Shere Bangla National Stadium in Mirpur on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-ban-head-to-head-record-between-two-teams-ahead-of-odi-series-2026-04-17-1037840",
+    "time": "2026-04-17T05:41:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Canada's T20 World Cup game under ICC corruption investigation; Check details",
     "desc": "In a major development for Cricket Canada, the ICC’s anti-corruption unit (ACU) has been investigating allegations of corruption within Cricket Canada. It is worth noting that one of the games under investigation was played at...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/quinton-de-kock-returns-to-mumbai-indians-with-century-against-punjab-kings-in-ipl-2026-2026-04-16-1037805",
     "time": "2026-04-16T16:11:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer, Bartlett collaborate for arguably greatest catch in IPL history to dismiss Hardik Pandya",
-    "desc": "In the 18th over of the match between Mumbai Indians and Punjab Kings, Shreyas Iyer produced a moment of brilliance, which sent Hardik Pandya packing. Notably, the India all-rounder attempted to hit Marco Jansen for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-bartlett-collaborate-for-arguably-greatest-catch-in-ipl-history-to-dismiss-hardik-pandya-watch-2026-04-16-1037803",
-    "time": "2026-04-16T15:48:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will MS Dhoni play CSK's upcoming clash against SRH in IPL 2026? Franchise drops major teaser",
-    "desc": "Chennai Super Kings have indicated that MS Dhoni could feature in their upcoming clash against Sunrisers Hyderabad at the Rajiv Gandhi International Stadium on Saturday, April 18. So far, the legendary cricketer hasn’t featured in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-ms-dhoni-play-csk-s-upcoming-clash-against-srh-in-ipl-2026-franchise-drops-major-teaser-2026-04-16-1037799",
-    "time": "2026-04-16T15:10:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Trent Boult not playing against Punjab Kings in the IPL 2026 clash?",
-    "desc": "Mumbai Indians have dropped Trent Boult from their playing XI against Punjab Kings in the ongoing IPL 2026. While announcing the changes in the squad, captain Hardik Pandya didn’t inform about Boult, which only indicates...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-trent-boult-not-playing-against-punjab-kings-in-the-ipl-2026-clash-2026-04-16-1037790",
-    "time": "2026-04-16T14:07:14.000Z"
   }
 ];
