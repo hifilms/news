@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Canada's T20 World Cup game under ICC corruption investigation; Check details",
+    "desc": "In a major development for Cricket Canada, the ICC’s anti-corruption unit (ACU) has been investigating allegations of corruption within Cricket Canada. It is worth noting that one of the games under investigation was played at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/canada-s-t20-world-cup-game-under-icc-corruption-investigation-check-details-2026-04-17-1037835",
+    "time": "2026-04-17T04:52:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch white-ball series live on TV and online in India?",
+    "desc": "The stage is set for the kick-off of the white-ball series between Bangladesh and New Zealand. The two sides will lock horns across three ODIs and three T20I matches. It is worth noting that the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-vs-new-zealand-when-and-where-to-watch-white-ball-series-live-on-tv-and-online-in-india-2026-04-17-1037824",
+    "time": "2026-04-17T02:56:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vinod Kambli's wife allays rumours, shares update on former cricketer's health",
+    "desc": "Former India cricketer Vinod Kambli has been in the headlines of late after his health has been a matter of concern. According to earlier reports, Vinod Kambli has been battling serious health concerns. Former cricketer...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vinod-kambli-s-wife-allays-rumours-shares-update-on-former-cricketer-s-health-2026-04-17-1037820",
+    "time": "2026-04-17T02:19:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Punjab Kings equal Chennai Super Kings in elite tally after comfortable victory against Mumbai Indians",
     "desc": "Shreyas Iyer-led Punjab Kings continued their red-hot form in the ongoing IPL (Indian Premier League) 2026 as they took on five-time champions Mumbai Indians. The two sides locked horns at the Wankhede Stadium in Mumbai...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-trent-boult-not-playing-against-punjab-kings-in-the-ipl-2026-clash-2026-04-16-1037790",
     "time": "2026-04-16T14:07:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Rohit Sharma not playing against Punjab Kings in the IPL 2026 clash? Hardik Pandya shares update",
-    "desc": "Veteran Mumbai Indians opener Rohit Sharma is ruled out of the marquee IPL 2026 clash against Punjab Kings. The 38-year-old suffered a hamstring injury in the clash against Royal Challengers Bengaluru and since then, he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-rohit-sharma-not-playing-against-punjab-kings-in-the-ipl-2026-clash-hardik-pandya-shares-update-2026-04-16-1037788",
-    "time": "2026-04-16T13:41:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vipraj Nigam feels comfortable with limited batting in IPL 2026 despite heroics in last year",
-    "desc": "Vipraj Nigam had a stellar campaign for Delhi Capitals in the 2025 season, proving himself as a dependable lower-order batter. In 14 matches, the 21-year-old smacked 142 runs at a strike rate of 179.74. In...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vipraj-nigam-feels-comfortable-with-limited-batting-in-ipl-2026-despite-heroics-in-last-year-2026-04-16-1037783",
-    "time": "2026-04-16T13:23:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 cricketers who can replace injured David Payne in Sunrisers Hyderabad squad for IPL 2026",
-    "desc": "Sunrisers Hyderabad have been dealt another blow in IPL 2026, with overseas seamer David Payne ruled out due to an ankle injury. The franchise has confirmed the update and is now exploring replacement options. Notably,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/3-cricketers-who-can-replace-injured-david-payne-in-sunrisers-hyderabad-squad-for-ipl-2026-2026-04-16-1037776",
-    "time": "2026-04-16T11:54:04.000Z"
   }
 ];
