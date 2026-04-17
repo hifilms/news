@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Novak Djokovic ruled out of Madrid Open, might feature in Italian Open before Roland Garros",
+    "desc": "Novak Djokovic pulled out of the upcoming Madrid Open as he continues to deal with a shoulder issue that has unsettled his season. With the French Open around the corner, the Serbian could have enjoyed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/novak-djokovic-ruled-out-of-madrid-open-might-feature-in-italian-open-before-roland-garros-2026-04-17-1037924",
+    "time": "2026-04-17T15:23:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia announce white-ball Bangladesh tour in June; match timings could be affected due to fuel shortage",
+    "desc": "Australia are set for a tightly packed tour of Bangladesh in June, with six white-ball matches squeezed into a 13-day window. The schedule features three ODIs followed by three T20Is, offering little breathing space between...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-announce-white-ball-bangladesh-tour-in-june-match-timings-could-be-affected-due-to-fuel-shortage-2026-04-17-1037920",
+    "time": "2026-04-17T14:29:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Finn Allen not playing vs Gujarat Titans in IPL 2026 clash in Ahmedabad?",
+    "desc": "Kolkata Knight Riders have dropped Finn Allen from their playing XI against Gujarat Titans in the ongoing IPL 2026. Captain Ajinkya Rahane confirmed the development after winning the toss and electing to bat first. Meanwhile,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-finn-allen-not-playing-vs-gujarat-titans-in-ipl-2026-clash-in-ahmedabad-2026-04-17-1037913",
+    "time": "2026-04-17T13:44:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "MI head coach Mahela Jayawardene opens up on star player's recovery",
     "desc": "Mumbai Indians missed their former captain Rohit Sharma in the game against the Punjab Kings at the Wankhede Stadium on Thursday (April 16). He suffered a hamstring injury during the game against the Royal Challengers...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-kkr-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-2026-04-17-1037865",
     "time": "2026-04-17T08:40:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Jasprit Bumrah playing IPL 2026 with an injury? MI head coach's comments sparks concerns",
-    "desc": "Nothing is going right for the Mumbai Indians in the ongoing edition of the Indian Premier League (IPL). They succumbed to their fourth consecutive loss of IPL 2026 on Thursday, going down to the Punjab...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-jasprit-bumrah-playing-ipl-2026-with-an-injury-mi-head-coach-s-comments-sparks-concerns-2026-04-17-1037858",
-    "time": "2026-04-17T07:56:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch T20I series live on TV and online in India?",
-    "desc": "The stage is set for the T20I series between South Africa women and India women. The two sides will lock horns across five T20Is in preparation for the upcoming edition of the Women’s T20 World...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-women-vs-india-women-when-and-where-to-watch-t20i-series-live-on-tv-and-online-in-india-2026-04-17-1037857",
-    "time": "2026-04-17T07:52:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Players Mumbai Indians might drop for next game vs GT after losing four consecutive matches in IPL 2026",
-    "desc": "Hardik Pandya hinted at 'taking some tough calls' on Thursday after the Mumbai Indians suffered their fourth consecutive loss in IPL 2026, this time against the Punjab Kings at the Wankhede Stadium in Mumbai. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/3-players-mumbai-indians-might-drop-for-next-game-after-crushing-loss-to-punjab-kings-2026-04-17-1037853",
-    "time": "2026-04-17T07:11:40.000Z"
   }
 ];
