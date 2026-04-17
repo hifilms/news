@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will surface at M Chinnaswamy Stadium in Bengaluru play?",
+    "desc": "Royal Challengers Bengaluru will host Delhi Capitals in their upcoming IPL 2026 clash at the M Chinnaswamy Stadium. The last time these two teams faced each other in Bengaluru, KL Rahul produced a sensational knock...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-dc-pitch-report-how-will-surface-at-m-chinnaswamy-stadium-in-bengaluru-play-2026-04-17-1037940",
+    "time": "2026-04-17T18:20:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When will Matheesha Pathirana join KKR squad for IPL 2026?",
+    "desc": "Matheesha Pathirana has been sidelined with a calf injury sustained during the T20 World Cup 2026 and his absence is proving costly for the Kolkata Knight Riders in the ongoing Indian Premier League 2026. Without...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-will-matheesha-pathirana-join-kkr-squad-for-ipl-2026-2026-04-17-1037937",
+    "time": "2026-04-17T18:04:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill, Kagiso Rabada script GT's nail-biting win over KKR, three-time champions remain winless",
+    "desc": "Kolkata Knight Riders suffered their fifth defeat in the ongoing IPL 2026. After a loss to Gujarat Titans at the Narendra Modi Stadium, they remain the only side to have not registered a single win....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-kagiso-rabada-script-gt-s-nail-biting-win-over-kkr-three-time-champions-remain-winless-2026-04-17-1037935",
+    "time": "2026-04-17T17:49:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND-W vs SA-W 1st T20I LIVE score: South Africa chase 158 runs in second innings in Durban",
+    "desc": "South Africa Women won the toss in Durban and opted to field first in the opening T20I against India, kicking off a five-match series that doubles as preparation for the upcoming Women’s T20 World Cup...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-sa-w-1st-t20i-2026-live-cricket-score-india-women-vs-south-africa-women-latest-match-updates-playing-xi-smriti-mandhana-shafali-varma-2026-04-17-1037927",
+    "time": "2026-04-17T15:58:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Novak Djokovic ruled out of Madrid Open, might feature in Italian Open before Roland Garros",
     "desc": "Novak Djokovic pulled out of the upcoming Madrid Open as he continues to deal with a shoulder issue that has unsettled his season. With the French Open around the corner, the Serbian could have enjoyed...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-analyses-mumbai-indians-performance-in-ipl-2026-after-fourth-straight-loss-2026-04-17-1037888",
     "time": "2026-04-17T11:05:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals manager Romi Bhinder fined Rs 1 lakh for using phone in dugout, escapes ban",
-    "desc": "Rajasthan Royals manager Romi Bhinder has escaped a ban for using his phone in the dugout during the match against Royal Challengers Bengaluru at the Barsapara Stadium in Guwahati last week. The Board of Control...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-manager-romi-bhinder-fined-rs-1-lakh-for-using-phone-in-dugout-escapes-ban-2026-04-17-1037882",
-    "time": "2026-04-17T10:47:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Player batters to watch out for in IPL 2026 Match 25",
-    "desc": "Gujarat Titans and Kolkata Knight Riders are set to lock horns against each other in the 25th match of the Indian Premier League (IPL). The Titans have found their groove after losing their first two...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-kkr-3-player-batters-to-watch-out-for-in-ipl-2026-match-25-2026-04-17-1037879",
-    "time": "2026-04-17T10:24:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND-W vs SA-W: Head to Head record between two teams ahead of T20I series",
-    "desc": "South Africa women are set to host India women across a five-game T20I series. The first T20I of the series will be held in Kingsmead, Durban, on April 17, and both sides will aim to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-sa-w-head-to-head-record-between-two-teams-ahead-of-t20i-series-2026-04-17-1037873",
-    "time": "2026-04-17T09:28:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Narendra Modi Stadium in Ahmedabad play?",
-    "desc": "The stage is set for game 25 of the ongoing IPL (Indian Premier League) 2026, the clash sees Gujarat Titans taking on Kolkata Knight Riders. The two sides will take on each other at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-kkr-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-2026-04-17-1037865",
-    "time": "2026-04-17T08:40:58.000Z"
   }
 ];

@@ -1,12 +1,21 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "કોણ છે સમરીન કૌર? જેમના પ્રેમમાં &amp;#039;ક્લીન બોલ્ડ&amp;#039; થયા અર્શદીપ સિંહ... ફેન્સને મળ્યો લવ સ્ટોરીનો મોટો પુરાવો!",
+    "desc": "અર્શદીપ સિંહ આજકાલ IPL 2026માં ધૂમ મચાવી રહ્યા છે. મુંબઈ સામે તેમણે 4 ઓવરમાં 22 રન આપીને 3 વિકેટ ઝડપી હતી. મેદાન પર અર્શદીપ જ્યારે વિકેટ લઈ રહ્યા હતા, ત્યારે તેમની રૂમર્ડ ગર્લફ્રેન્ડ સ્ટેન્ડમાં જશ્ન મનાવી રહી હતી. ચાલો જાણીએ કોણ છે મિસ્ટ્રી ગર્લ? જેમણે IPL 2026ની 24મી મેચ બાદ સોશિયલ મીડિયા પર ખૂબ જ ધૂમ મચાવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/who-is-samrin-kaur-arshdeep-singh-went-clean-bold-in-love-with-her-fans-got-big-proof-of-the-love-story-473600 ",
+    "time": "2026-04-17T17:31:44.000Z"
+  },
+  {
     "cat": "Business",
     "title": "માર્કેટમાં અસ્થિરતા વચ્ચે સોનું કેમ કરી રહ્યું છે આકર્ષિત, ડિજિટલ યુગમાં આ કારણે વધી ચમક, જાણો",
     "desc": "સોનાએ લાંબા સમયથી રોકાણ પોર્ટફોલિયોમાં એક વિશિષ્ટ સ્થાન રહ્યું છે. પેઢીઓ અને આર્થિક ચક્રોમાં તેને મૂલ્યના ભંડાર તરીકે જોવામાં આવે છે અને એક એવી સંપત્તિ જેને રોકાણકારો અલગ-અલગ પોર્ટફોલિયો બનાવતી વખતે વારંવાર ધ્યાનમાં લે છે. ભલે નાણાકીય બજારો સતત વિકસિત થઈ રહ્યા છે અને રોકાણના વિકલ્પો વધી રહ્યા છે, છતાં પણ સોના એક સંતુલિત એસેટ એલોકેશન રણનીતિના ભાગ તરીકે સોનું પ્રસ્તુત રહ્યું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/why-is-gold-attracting-attention-amidst-market-volatility-this-is-why-it-has-increased-its-shine-in-the-digital-age-know-this-473592 ",
-    "time": "2026-04-17T15:49:59.000Z"
+    "time": "2026-04-17T16:18:36.000Z"
   },
   {
     "cat": "World",
@@ -493,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/who-is-praful-hinge-who-scripted-history-in-the-very-first-over-of-his-ipl-debut-rr-vs-srh-472933 ",
     "time": "2026-04-13T17:59:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "હારની હેટ્રિક બાદ મુંબઈ ઈન્ડિયન્સ વધુ એક મોટો ઝટકો, નહીં રમે રોહિત શર્મા ? સામે આવ્યું મોટું કારણ",
-    "desc": "રવિવારે IPL 2026 દરમિયાન રોયલ ચેલેન્જર્સ બેંગ્લોર સામે મુંબઈ ઈન્ડિયન્સને કારમી હારનો સામનો કરવો પડ્યો. મેચ દરમિયાન MIને મોટો ઝટકો ત્યારે લાગ્યો જ્યારે સ્ટાર બેટ્સમેન રોહિત શર્મા હેમસ્ટ્રિંગના કારણે રિટાયર્ડ હર્ટ થયો. ત્યારબાદ 'હિટમેન' ફરીથી બેટિંગ કરવા માટે ક્રીઝ પર આવ્યો નહીં. તાજેતરના અહેવાલો અનુસાર, રોહિતની આગામી મેચમાં રમવાની શક્યતા ઓછી દેખાઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rohit-sharma-injured-doubtful-to-play-in-mumbai-indians-next-match-472870 ",
-    "time": "2026-04-13T12:18:39.000Z"
   },
   {
     "cat": "Tech",
