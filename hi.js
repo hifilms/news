@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "IND-W vs SA-W: Head to Head record between two teams ahead of T20I series",
+    "desc": "South Africa women are set to host India women across a five-game T20I series. The first T20I of the series will be held in Kingsmead, Durban, on April 17, and both sides will aim to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-sa-w-head-to-head-record-between-two-teams-ahead-of-t20i-series-2026-04-17-1037873",
+    "time": "2026-04-17T09:28:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Narendra Modi Stadium in Ahmedabad play?",
+    "desc": "The stage is set for game 25 of the ongoing IPL (Indian Premier League) 2026, the clash sees Gujarat Titans taking on Kolkata Knight Riders. The two sides will take on each other at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-kkr-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-2026-04-17-1037865",
+    "time": "2026-04-17T08:40:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is Jasprit Bumrah playing IPL 2026 with an injury? MI head coach's comments sparks concerns",
+    "desc": "Nothing is going right for the Mumbai Indians in the ongoing edition of the Indian Premier League (IPL). They succumbed to their fourth consecutive loss of IPL 2026 on Thursday, going down to the Punjab...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-jasprit-bumrah-playing-ipl-2026-with-an-injury-mi-head-coach-s-comments-sparks-concerns-2026-04-17-1037858",
+    "time": "2026-04-17T07:56:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch T20I series live on TV and online in India?",
+    "desc": "The stage is set for the T20I series between South Africa women and India women. The two sides will lock horns across five T20Is in preparation for the upcoming edition of the Women’s T20 World...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-women-vs-india-women-when-and-where-to-watch-t20i-series-live-on-tv-and-online-in-india-2026-04-17-1037857",
+    "time": "2026-04-17T07:52:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 Players Mumbai Indians might drop for next game vs GT after losing four consecutive matches in IPL 2026",
     "desc": "Hardik Pandya hinted at 'taking some tough calls' on Thursday after the Mumbai Indians suffered their fourth consecutive loss in IPL 2026, this time against the Punjab Kings at the Wankhede Stadium in Mumbai. The...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vinod-kambli-s-wife-allays-rumours-shares-update-on-former-cricketer-s-health-2026-04-17-1037820",
     "time": "2026-04-17T02:19:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings equal Chennai Super Kings in elite tally after comfortable victory against Mumbai Indians",
-    "desc": "Shreyas Iyer-led Punjab Kings continued their red-hot form in the ongoing IPL (Indian Premier League) 2026 as they took on five-time champions Mumbai Indians. The two sides locked horns at the Wankhede Stadium in Mumbai...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-equal-chennai-super-kings-in-elite-tally-after-comfortable-victory-against-mumbai-indians-2026-04-17-1037815",
-    "time": "2026-04-17T01:32:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya fires warning at teammates, suggests dropping them after fourth consecutive defeat in IPL 2026",
-    "desc": "Punjab Kings registered a hammering seven-wicket win against Mumbai Indians at the Wankhede Stadium. With the ball, Arshdeep Singh claimed a three-wicket haul, while Prabhsimran Singh and Shreyas Iyer stole the show with the bat,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-fires-warning-at-teammates-suggests-dropping-them-after-fourth-consecutive-defeat-in-ipl-2026-2026-04-16-1037810",
-    "time": "2026-04-16T17:59:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Prabhsimran, Shreyas thrash Mumbai Indians at Wankhede, hosts suffer fourth straight defeat in IPL 2026",
-    "desc": "Punjab Kings rattled Mumbai Indians in their high-voltage IPL 2026 clash at the Wankhede Stadium. Batting first, the hosts struggled early on, losing two quick wickets of Ryan Rickelton and Suryakumar Yadav. After they departed,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/prabhsimran-shreyas-thrash-mumbai-indians-at-wankhede-hosts-suffer-fourth-straight-defeat-in-ipl-2026-2026-04-16-1037808",
-    "time": "2026-04-16T17:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Quinton de Kock returns to Mumbai Indians with century against Punjab Kings in IPL 2026",
-    "desc": "Quinton de Kock returned to the Mumbai Indians playing XI for the first time in five years. In the middle, he played for Lucknow Super Giants and Kolkata Knight Riders, but failed to find success...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/quinton-de-kock-returns-to-mumbai-indians-with-century-against-punjab-kings-in-ipl-2026-2026-04-16-1037805",
-    "time": "2026-04-16T16:11:07.000Z"
   }
 ];

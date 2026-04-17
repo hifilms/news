@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "'আমি গর্ভবতী', নাসিক TCS মামলায় আদালতে বিস্ফোরক দাবি নোংরামির মাথা নিদা খানের",
+    "desc": "নিদা খান নতুন জয়েনি মেয়েদের প্রথমে একটি হোয়াটসঅ্যাপ গ্রুপে অ্যাড করতেন। অভিযোগকারীদের বিস্ফোরক দাবি, অফিসে যৌন হেনস্থা নিয়ে অভিযোগ জানাতে গেলে অভিযোগ না করতে বলতেন নিদা খান। এমনকি এও বলতেন যে, “এসব তো হয়েই থাকে।”",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/nashik-tcs-case-key-accused-nida-khan-claims-i-am-pregnant-and-seeks-anticipatory-bail_649131.html ",
+    "time": "2026-04-17T08:18:43.000Z"
+  },
+  {
     "cat": "World",
     "title": "'মিষ্টি' রসমালাইতেই খুন স্ত্রীকে, কাটল মাথা-হাতও",
     "desc": "মিষ্টি স্বাদের রসমালাইয়ের মধ্যে ওষুধের তিটকুটে স্বাদ বুঝতে পারেননি শাহিদা। খুনের এক দিন পর শাহিদার মাথা ও হাতবিহীন দেহাংশ একটি ডোবায় ফেলে দেন সাইফুল। ওদিকে মাথা ও হাতের টুকরোগুলো ৭ কিলোমিটার দূরে নদীতে ফেলে দেন সাইফুল।",
@@ -43,24 +52,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/new-resting-place-for-jagannath-dev-puri-shrines-sibling-deities-get-new-resting-place-on-tuesday_648938.html ",
     "time": "2026-04-15T13:58:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "লোকসভার আসন বেড়ে হচ্ছে ৮৫০? ভারত চালাবে ইউপি-বিহার? বাকিরা গৌণ?",
-    "desc": "এই তিনটি বিল একসঙ্গে পাস হলে একলাফে লোকসভার আসনসংখ্যা ৫৪৩ থেকে বেড়ে হবে ৮৫০। এর মধ্যে ৮১৫ জন সাংসদ নির্বাচিত হবেন রাজ্য থেকে আর ৩৫ জন কেন্দ্রশাসিত অঞ্চল থেকে। প্রায় ২৭৩টি আসন সংরক্ষিত থাকবে মহিলাদের জন্য।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/lok-sabha-seats-to-be-increased-to-850-mamata-banerjee-opposes-delimitation-bill-2026_648933.html ",
-    "time": "2026-04-15T13:08:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "প্রকাশিত হল CBSE ক্লাস টেনের রেজাল্ট: সাফল্যের শিখরে ছাত্রছাত্রীরা, কোথায় দেখবেন ফলাফল? জানুন এক ক্লিকেই",
-    "desc": "পরীক্ষার্থীরা বোর্ডের অফিসিয়াল ওয়েবসাইট results.cbse.nic.in এবং cbse.gov.in-এ গিয়ে তাদের ফলাফল দেখতে পারছেন। এছাড়াও ভিড় এড়াতে 'ডিজিলকার' (DigiLocker) এবং 'উমং' (UMANG) অ্যাপের মাধ্যমেও মার্কশিট ডাউনলোড করার ব্যবস্থা রাখা হয়েছে। সরাসরি লিঙ্কের মাধ্যমে রোল নম্বর, স্কুল নম্বর এবং অ্যাডমিট কার্ড আইডি দিয়ে সহজেই ফলাফল জানা যাচ্ছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/cbse-10th-result-2026-declared-live-class-10-results-direct-link-results-cbse-nic-in_648905.html ",
-    "time": "2026-04-15T11:54:27.000Z"
   },
   {
     "cat": "World",
@@ -151,14 +142,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/asha-bhosle-first-marriage-struggle-biography-revelations-domestic-violence-first-husband_648456.html ",
     "time": "2026-04-12T11:08:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
-    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
-    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

@@ -1,8 +1,62 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "દુનિયાનો સૌથી ખૂંખાર ગણાતો બોલર કેમ નથી લઈ શકતો વિકેટ? MI કોચે આપ્યું કારણ",
+    "desc": "વિશ્વના સર્વશ્રેષ્ઠ ફાસ્ટ બોલર તરીકે જેની ગણતરી થાય છે તે જસપ્રીત બુમરાહ માટે આ વખતની આઈપીએલ પડકારજનક રહી છે. કારણ કે હજુ સુધી એક પણ વિકેટ લઈ શક્યો નથી. આ મામલે એમઆઈ કોચ મહેલા જયવર્ધનેએ શું કહ્યું તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-is-the-world-most-feared-bowler-jasprit-bumrah-unable-to-take-wickets-in-ipl-2026-473518 ",
+    "time": "2026-04-17T09:54:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સરકારી કર્મચારી માટે મહત્વના સમાચાર! ક્યારે આપવામાં આવશે મોંઘવારી ભથ્થું ? મોદી સરકાર આપશે સારા સમાચાર ?",
+    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરોને જાન્યુઆરી 2026થી તેમના મોંઘવારી ભથ્થા (DA) હજુ સુધી મળ્યા નથી. રાહ ખૂબ લાંબી થઈ ગઈ છે. NC-JCMએ કેબિનેટ સચિવને દરમિયાનગીરી કરવા વિનંતી કરી છે. લેટેસ્ટ અપડેટ્સ અને સંભવિત વધારો આ સમયે થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/important-news-for-government-employees-when-will-dearness-allowance-be-given-modi-government-will-give-good-news-473520 ",
+    "time": "2026-04-17T09:42:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 વર્લ્ડ કપ 2026માં થઈ હતી મેચ ફિક્સિંગ? ICCની તપાસના ઘેરામાં ભારતીય મૂળના ક્રિકેટરનું નામ!",
+    "desc": "તાજેતરમાં પુરા થયેલા T20 વર્લ્ડ કપ 2026માં મેચ ફિક્સિંગનો મામલો સામે આવી રહ્યો છે. આ અંગે ICC (ઇન્ટરનેશનલ ક્રિકેટ કાઉન્સિલ) દ્વારા તપાસ પણ શરૂ કરી દેવામાં આવી છે. ICC દ્વારા કરવામાં આવી રહેલી આ તપાસમાં ભારતીય મૂળના એક ખેલાડીનું નામ પણ સામે આવ્યું છે. ચાલો જાણીએ શું છે સમગ્ર મામલો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/was-match-fixing-involved-in-the-2026-t20-world-cup-name-of-indian-origin-cricketer-under-icc-investigation-473519 ",
+    "time": "2026-04-17T09:37:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ટીસીએસ નાસિક ઓફિસનો કેસ શું છે ? મહિલા પોલીસે &amp;#039;ધુરંધર&amp;#039; બની સૌથી મોટા રેકેટનો પર્દાફાશ કર્યો",
+    "desc": "ટીસીએસ નાસિક બીપીઓ ઓફિસનો વિવાદ સતત વધી રહ્યો છે. જો કે હજુ પણ અનેક લોકો છે જેને આ મામલો શું છે તેના વિશે ખબર નથી. તો ચાલો તમને જણાવીએ ટીસીએસ નાસિક બીપીઓ ઓફિસમાં શું ચાલતું હતું ? આ ષડયંત્રનો ખુલાસો કેવી રીતે થયો ? અને આ કેસમાં અત્યાર સુધીમાં કયા ખુલાસાઓ થયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/what-is-tcs-nashik-bpo-office-controversy-latest-update-on-tcs-nashik-case-of-harassment-and-religious-conversion-473508 ",
+    "time": "2026-04-17T09:08:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "PF એકાઉન્ટ હોલ્ડર્સ માટે નવું ફોર્મ, જાણો ઇન્કમ ટેક્સ બચાવવા કેવી રીતે મદદરૂપ થશે?",
+    "desc": "દેશભરના કરોડો પ્રોવિડન્ટ ફંડ (PF) એકાઉન્ટ હોલ્ડર્સ માટે સારા સમાચાર છે. કર્મચારી ભવિષ્ય નિધિ સંગઠન (EPFO) એ એક નવું ફોર્મ લાગુ કર્યું છે, જે ઇન્કમ ટેક્સમાંથી રાહત મેળવવાનો મોટો રસ્તો બની શકે છે. આ નવા ફોર્મે બે જૂના ફોર્મનું સ્થાન લીધું છે. ચાલો વિગતવાર જાણીએ...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/a-new-form-for-pf-account-holders-find-out-how-it-can-help-you-save-on-income-tax-473507 ",
+    "time": "2026-04-17T08:35:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનું-ચાંદી ધડામ, આજે એક ઝટકે ભાવમાં મોટો ઘટાડો, જાણો અમદાવાદ સહિત શહેરોમાં શું છે ભાવ?",
+    "desc": "IBJAના ભાવ મુજબ સોના અને ચાંદીમાં આજે ભાવમાં ઘટાડો જોવા મળ્યો છે. જ્યારે MCX પર સોનું લાલ નિશાન પર અને ચાંદી લીલા નિશાન પર જોવા મળ્યા છે. આ ઉપરાંત ગુજરાતના મોટા શહેરોમાં શું ભાવ ચાલે છે તે પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-price-dropped-today-check-latest-rates-in-ahmedabad-vadodara-surat-rajkot-473499 ",
+    "time": "2026-04-17T07:39:25.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "બિહારના મુખ્યમંત્રી સમ્રાટ ચૌધરીને જાનથી મારવાની ધમકી આપનારો ગુજરાતમાંથી પકડાયો",
-    "desc": "ગુજરાતના રાજકારણમાં મોટી ઘટના બની છે. બિહારના નવનિયુક્ત મુખ્યમંત્રી સમ્રાટ ચૌધરીને ફોન કરીને જાનથી ધમકી આપનાર શખ્સ ગુજરાતથી પકડાયો છે. સાણંદથી શેખર યાદના નામના યુવકની ધરપકડ કરવામાં આવી છે, જેણે બિહારના નવા CMને મારવાની ધમકી આપી હતી.",
+    "desc": "બિહારના નવનિયુક્ત મુખ્યમંત્રીને મારી નાખવાની ધમકી આપનાર ઝડપાયો છે. સાણંદથી શેખર યાદવ નામના આરોપીની ધરપકડ કરાઈ. આરોપીએ નવનિયુક્ત મુખ્યમંત્રીના pa ને ફોનમાં મારી નાખવાની ધમકી આપી હતી. આરોપી મૂળ બિહારનો હોવાનું સામે આવ્યું છે. ત્યારે તેણે કેમ આવું કર્યુ તે જાણીએ...",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/man-who-threatened-to-kill-bihar-new-cm-samrat-chaudhary-arrested-from-sanand-gujarat-473489 ",
@@ -225,15 +279,6 @@ const newsData_gu = [
     "time": "2026-04-15T11:04:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "એવું કયું શહેર છે, જે એક દિવસ માટે બન્યું હતું ભારતની રાજધાની ? 24 કલાકમાં જ છીનવાયો હતો તાજ !",
-    "desc": "નવી દિલ્હી ભારતની રાજધાની છે. આ વાત બધા જાણે છે. પણ શું તમે જાણો છો કે, ભારતના ઇતિહાસમાં એક એવું શહેર છે જે ફક્ત એક જ દિવસ માટે દેશની રાજધાની બન્યું હતું ? ત્યારે આ શહેર કયું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/which-city-was-the-capital-of-india-for-a-day-general-knowledge-473221 ",
-    "time": "2026-04-15T10:57:09.000Z"
-  },
-  {
     "cat": "Business",
     "title": "DA વધારામાં આટલો વિલંબ... સરકાર પર દબાણ બનાવવવા કરોડો કર્મચારીઓની મોટી જાહેરાત",
     "desc": "DA વધારામાં વિલંબને લઈને કેન્દ્ર સરકારના કર્મચારીઓમાં અસંતોષ વધ્યો છે, આ વિલંબ પાછળ વહીવટી પ્રક્રિયાઓ અને 8મા પગાર પંચ માટેની તૈયારીઓ કારણભૂત હોવાનું માનવામાં આવે છે, પરંતુ હવે કર્મચારીઓએ સરકાર પર દબાણ લાવવા માટે આ જાહેરાત કરી છે.",
@@ -378,24 +423,6 @@ const newsData_gu = [
     "time": "2026-04-14T11:00:22.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ક્રૂડ ઓઈલના ભાવમાં તેજી અને સોના-ચાંદીમાં આવશે મોટો કડાકો, ઘટીને કેટલે પહોંચશે ભાવ?",
-    "desc": "જ્યારથી મિડલ ઈસ્ટમાં યુદ્ધ છેડાયું છે ત્યારથી સોના અને ચાંદી, શેર બજાર, ક્રૂડ ઓઈલમાં ભારે ઉથલપાથલ જોવા મળી રહી છે. સામાન્ય રીતે વૈશ્વિક અનિશ્ચિતતાઓ સમયે સોનું અને ચાંદી સુરક્ષિત રોકાણ તરીકે ઉછળતા હોય છે પરંતુ આ વખતે યુદ્ધ દરમિયાન સોના અને ચાંદીમાં કડાકો જોવા મળ્યો છે. આ ઉપરાંત એક્સપર્ટના મત મુજબ જો ક્રૂડ ઓઈલનો ભાવ વધશે તો સોના ચાંદના ભાવ ઘટી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/if-crude-oil-prices-rise-then-gold-and-silver-prices-may-fall-expert-iran-us-war-473041 ",
-    "time": "2026-04-14T10:23:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "જેનો ડર હતો એ જ થશે ! ચૂંટણી પછી પેટ્રોલમાં 18 તો ડીઝલમાં 35 રૂપિયાનો થઈ શકે છે વધારો, રિપોર્ટમાં ચોંકાવનારો દાવો",
-    "desc": "ક્રૂડ ઓઇલના વધતા ભાવને કારણે કંપનીઓ હાલમાં પેટ્રોલ પર ₹18 પ્રતિ લિટર અને ડીઝલ પર ₹35 પ્રતિ લિટરનું નુકસાન કરી રહી છે. ત્યારે આ નુકસાનને ભરપાઈ કરવા માટે હવે કંપનીઓ પેટ્રોલ અને ડીઝલના ભાવમાં વધારો કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-will-increase-by-rs-18-and-diesel-by-rs-35-after-elections-in-5-states-473029 ",
-    "time": "2026-04-14T10:20:57.000Z"
-  },
-  {
     "cat": "World",
     "title": "આ પિદ્દી જેવો દેશ ચૂપચાપ 20 ટન સોનું ખરીદીને બેઠું છે! ભારત-ચીન કરતા આગળ નીકળી ગયો",
     "desc": "દુનિયામાં વધતા તણાવ વચ્ચે સોનાનો ભાવ આસમાને આંબી ગયો છે. હાલ જેની પાસે વધુ સોનું તે વધુ તાકાતવાર એવી સ્થિતિ છે. આવામાં વિશ્વમાં બે દેશ એવા છે, જેણે સોનું ખરીદવામાં ભારત અને ચીનને પણ પાછળ પાડીને બેસ્યા છે. આવો જાણીએ એવો કયા દેશ છે જેની પાસે છે 20 ટન સોનાનો ખજાનો છે.",
@@ -412,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-is-not-happy-for-impact-player-rajasthan-royals-473025 ",
     "time": "2026-04-14T09:16:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "1.89x હોઈ શકે છે ફિટમેન્ટ ફેક્ટર, ફોર્મ્યુલા તૈયાર! DA ફરી 0થી રીસેટ થશે, જુઓ ગણતરી",
-    "desc": "દેશભરના કેન્દ્રીય કર્મચારીઓના મનમાં માત્ર એક સવાલ છે કે અમારા પગારમાં કેટલો વધારો થશે? આઠમું પગાર પંચ પગાર અને ભથ્થા વધારવા માટે વિવિધ સ્ટેક હોલ્ડરો સાથે ચર્ચાં કરી રહ્યું છે. તેવામાં અમે તમને તે વિશે જોડાયેલી માહિતી આપીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-cpc-fitment-factor-1-89-salary-calculation-know-all-details-473006 ",
-    "time": "2026-04-14T07:59:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -493,24 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/why-did-ugandan-army-chief-ask-turkey-for-the-most-beautiful-girl-why-he-is-afraid-of-india-472819 ",
     "time": "2026-04-13T09:17:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અચાનક કેમ રડવા લાગ્યા સચિન તેંડુલકર ? &amp;#039;ક્રિકેટના ભગવાન&amp;#039;નો આ વીડિયો તમને રડાવી દેશે",
-    "desc": "સચિન તેંડુલકરનો એક એક વીડિયો ઇન્ટરનેટ પર વાયરલ થઈ રહ્યો છે. જેમાં તેઓ રડી રહ્યા છે. સચિન તેંડુલકરનો આ વીડિયો જોઈને ભારતભરમાં તેમના કરોડો ચાહકોના દિલ તૂટી જશે. મહાન ગાયિકા આશા ભોંસલેને શ્રદ્ધાંજલિ આપતી વખતે પૂર્વ ભારતીય બેટ્સમેન ભાવુક થઈ ગયા હતા અને આંખોમાં આંસુ આવી ગયા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/sachin-tendulkar-gets-emotional-final-tribute-to-asha-bhosle-video-viral-472818 ",
-    "time": "2026-04-13T09:12:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વિરાટ કોહલી નહીં રમી શકે આગામી મેચ ? RCB કેપ્ટન રજત પાટીદારે ઈજા અંગે આપ્યું અપડેટ",
-    "desc": "IPL 2026માં RCB અને MI વચ્ચે એક રોમાંચક મેચ રમાઈ હતી. મેચ દરમિયાન વિરાટ કોહલીને ઈજા થઈ હતી અને પરિણામે તે ફિલ્ડિંગ કરવા આવ્યો નહોતો. હવે રજત પાટીદારે કોહલીની ઈજા અંગે એક મોટી અપડેટ આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/virat-kohli-injury-update-rcb-captain-rajat-patidar-ipl-2026-472814 ",
-    "time": "2026-04-13T08:08:37.000Z"
   },
   {
     "cat": "Tech",
