@@ -1,6 +1,60 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Jackky on SRK renting his property during Mannat renovation",
+    "desc": "Actor-producer Jackky Bhagnani has opened up about having Shah Rukh Khan as a tenant, offering a glimpse into the superstar’s personality amid his temporary move out of Mannat. Shah Rukh Khan and his family have temporarily moved out of their iconic bungalow Mannat as it undergoes extensive renovation, including the addition of two floors. The actor has rented two luxury duplex apartments in Bandra’s Pali Hill area, located in the Puja Casa building owned by producer Vashu Bhagnani, along with Jackky Bhagnani and Deepshikha Deshmukh.",
+    "img": "https://static.toiimg.com/photo/msid-130342976,imgsize-42808.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/landlord-jackky-bhagnani-opens-up-about-tenant-shah-rukh-khan-renting-his-pali-hill-property-during-mannat-renovation-he-is-11-on-10/articleshow/130342976.cms",
+    "time": "2026-04-17T21:03:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay Kumar confirms Hera Pheri 3 is not being made right now",
+    "desc": "Akshay Kumar has addressed ongoing speculation around Hera Pheri 3, leaving fans disappointed as he revealed that the much-awaited sequel is currently not in the works. There had been reports about filmmakers like Anees Bazmee and Priyadarshan being involved at different stages, but Akshay hinted that things are still uncertain. Calling Hera Pheri a project close to his heart, Akshay admitted there are behind-the-scenes complications.",
+    "img": "https://static.toiimg.com/photo/msid-130342805,imgsize-24556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-confirms-hera-pheri-3-is-not-being-made-right-now-i-just-hope-it-happens-before-we-get-too-old/articleshow/130342805.cms",
+    "time": "2026-04-17T20:17:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How the war on Iran set off worker protests around Delhi",
+    "desc": "Thousands of workers, many migrants, in the industrial clusters of Uttar Pradesh and Haryana are on protest, demanding dignity at work and at least ₹20,000 as minimum wages. A.M. Jigeesh and Ashok Kumar report on how the administration has allegedly resorted to suppression, by taking workers into custody and putting their leaders under house arrest, while announcing marginal pay hikes",
+    "img": "https://th-i.thgim.com/public/incoming/gnblbp/article70874410.ece/alternates/LANDSCAPE_1200/PTI04_13_2026_000039A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/how-the-war-on-iran-set-off-worker-protests-around-delhi/article70873651.ece",
+    "time": "2026-04-17T19:25:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zareen Khan remembers mother Parveen 10 days after her demise",
+    "desc": "Zareen Khan is mourning the loss of her mother, Parveen Khan, who passed away on April 8 at the age of 65 after a prolonged illness. Ten days after her demise, the actress took to social media to pen an emotional note, remembering her mother as her “first love.” Expressing the depth of her grief, she added that words fall short of capturing what she is going through.",
+    "img": "https://static.toiimg.com/photo/msid-130342172,imgsize-42088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zareen-khan-remembers-mother-parveen-khan-10-days-after-her-demise-theres-a-constant-ache-and-emptiness-in-my-heart/articleshow/130342172.cms",
+    "time": "2026-04-17T19:05:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Fabregas’ Como takes the road less travelled through Serie A",
+    "desc": "In a league known for defensive solidity, the lakeside club plays a brand of fluid, attacking football. In just its second season in the Italian top-flight in a quarter of a century, Como is in contention for a Champions League spot. Its rise and style under the former Spain midfielder have won admirers — but they have also ruffled the feathers of the established order",
+    "img": "https://th-i.thgim.com/public/incoming/26mb6f/article70874106.ece/alternates/LANDSCAPE_1200/GettyImages-2271111744.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fabregas-como-takes-the-road-less-travelled-through-serie-a/article70874095.ece",
+    "time": "2026-04-17T19:04:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How imperious Javokhir Sindarov staked his claim with a singular Candidates run",
+    "desc": "The Uzbekistan Grandmaster earned the privilege to challenge D. Gukesh for the World title in staggering fashion in Cyprus. The 20-year-old killed the competition at the Candidates, following his breakout performance at last year’s World Cup with another statement triumph",
+    "img": "https://th-i.thgim.com/public/incoming/lada6h/article70874026.ece/alternates/LANDSCAPE_1200/Sindarov3.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/how-imperious-javokhir-sindarov-staked-his-claim-with-a-singular-candidates-run/article70874009.ece",
+    "time": "2026-04-17T19:04:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Akshay Kumar says 'I deserve to be in Vanga, Dhar’s films’",
     "desc": "Akshay Kumar, who has spent over three decades in the industry, believes Indian cinema is undergoing a major shift—and he’s ready to be a part of it. In a recent conversation, Akshay spoke about collaborating with new-age filmmakers like Aditya Dhar and Sandeep Reddy Vanga, making it clear that he’s open to working with them—if the role fits. Akshay also spoke about the impact of Animal and Kabir Singh, crediting Vanga for redefining on-screen rage.",
     "img": "https://static.toiimg.com/photo/msid-130341789,imgsize-22100.cms",
@@ -106,15 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/this-victory-is-just-a-trailer-stalin-reacts-to-constitution-amendment-bills-defeat-in-lok-sabha/articleshow/130337919.cms",
     "time": "2026-04-17T16:15:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Principle of one person, one vote, one value violated, says Shah in Lok Sabha",
-    "desc": "Home Minister Amit Shah says “north-south divide” narrative is detrimental to the country and it will not diminish the government’s popularity; he says even if the Opposition “greyed their hair”, they will never come to power",
-    "img": "https://th-i.thgim.com/public/incoming/vkvhh6/article70875018.ece/alternates/LANDSCAPE_1200/20260417336L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/principle-of-one-person-one-vote-one-value-violated-says-shah-in-lok-sabha/article70874774.ece",
-    "time": "2026-04-17T16:12:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,33 +468,6 @@ const newsData_en = [
     "time": "2026-04-17T11:25:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Love &amp; War' to release on THIS date",
-    "desc": "Sanjay Leela Bhansali's 'Love & War', starring Ranbir Kapoor, Vicky Kaushal, and Alia Bhatt, is set for a grand release on January 21, 2027, targeting the Republic Day weekend. The film faced production delays, including reshoots, which have also impacted its budget. Alia Bhatt expressed her excitement for the unique collaborations within the project.",
-    "img": "https://static.toiimg.com/photo/msid-130330557,imgsize-39148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/love-war-release-date-announced-heres-when-you-can-see-the-ranbir-kapoor-alia-bhatt-vicky-kaushal-starrer-in-theatres/articleshow/130330357.cms",
-    "time": "2026-04-17T10:58:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "RGV reveals the mafia logic targeting Rakesh and Gulshan",
-    "desc": "Ram Gopal Varma revisits the 1990s, when Mumbai’s underworld controlled Bollywood through fear, extortion, and casting pressure. He explains why Rakesh Roshan and Gulshan Kumar were targeted, links it to real attacks and killings, and reveals how gangsters used cinema to boost their image while stars were summoned to Dubai at their behest.",
-    "img": "https://static.toiimg.com/photo/msid-130329559,imgsize-18242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-reveals-the-chilling-mafia-logic-targeting-rakesh-roshan-and-gulshan-kumar-kill-one-extort-ten/articleshow/130329559.cms",
-    "time": "2026-04-17T10:18:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Patralekha slams insenstive comments on her post pregnancy weight gain",
-    "desc": "Actress Patralekhaa, who recently welcomed her daughter, faced body-shaming online after a film screening. She candidly addressed the insensitive comments on Instagram, highlighting her postpartum reality and the challenges of producing films alongside motherhood. The actress emphasized the need for kindness and understanding during this significant life phase.",
-    "img": "https://static.toiimg.com/photo/msid-130329379,imgsize-108076.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/patralekha-slams-insenstive-comments-and-people-shaming-her-for-her-post-pregnancy-body-for-gods-sake-please-learn/articleshow/130329080.cms",
-    "time": "2026-04-17T10:08:40.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rupee hits one-week high as RBI moves to stem in fall",
     "desc": "The Indian rupee surged to a one-week high Friday, boosted by Reserve Bank of India's strategic moves to curb dollar demand from state-run oil refiners. By urging them to use a special credit line, the central bank aims to stabilize the currency against global pressures.",
@@ -457,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-hits-one-week-high-as-rbi-moves-to-stem-in-fall/articleshow/130328680.cms",
     "time": "2026-04-17T09:47:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Centre trying to bypass OBCs and Dalits’: Rahul Gandhi slams centre over delimitation bill in Lok Sabha",
-    "desc": "Rahul Gandhi attacked the Women's Reservation Bill, calling it a political maneuver to alter India's electoral map rather than empower women. He alleged the government aims to weaken the political voice of OBCs and Dalits through constituency restructuring, vowing opposition to this \"anti-national\" move.",
-    "img": "https://static.toiimg.com/photo/msid-130328608,imgsize-43072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/attempt-to-change-electoral-map-of-india-rahul-gandhi-slams-centre-over-delimitation-bill-in-lok-sabha-top-quotes/articleshow/130328608.cms",
-    "time": "2026-04-17T09:35:47.000Z"
   },
   {
     "cat": "Sports",
@@ -691,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-asks-iran-to-ensure-freedom-of-navigation-through-strait-of-hormuz/article70868456.ece",
     "time": "2026-04-16T09:06:38.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Delimitation controversy & Bihar’s first BJP CM",
-    "desc": "AICC President and Leader of Opposition in Rajya Sabha Mallikarjun Kharge said that the INDIA bloc leaders have concluded deliberations on the Delimitation Bill, and the group has “unitedly” decided to oppose the Bill. In other news, Samrat Choudhary is sworn in as Bihar’s first BJP Chief Minister, the death toll rises to 16 in the Sakti power plant explosion in Chhattisgarh, and registration begins for the Amarnath Yatra starting July 3.",
-    "img": "https://th-i.thgim.com/public/news/national/9fdtnx/article70866453.ece/alternates/LANDSCAPE_1200/DO%20NOT%20EDIT%20FINAL%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-delimitation-controversy-bihars-first-bjp-cm-above-the-fold-15042026/article70866454.ece",
-    "time": "2026-04-16T07:06:54.000Z"
   },
   {
     "cat": "Sports",
