@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Punjab Kings equal Chennai Super Kings in elite tally after comfortable victory against Mumbai Indians",
+    "desc": "Shreyas Iyer-led Punjab Kings continued their red-hot form in the ongoing IPL (Indian Premier League) 2026 as they took on five-time champions Mumbai Indians. The two sides locked horns at the Wankhede Stadium in Mumbai...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-equal-chennai-super-kings-in-elite-tally-after-comfortable-victory-against-mumbai-indians-2026-04-17-1037815",
+    "time": "2026-04-17T01:32:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Hardik Pandya fires warning at teammates, suggests dropping them after fourth consecutive defeat in IPL 2026",
     "desc": "Punjab Kings registered a hammering seven-wicket win against Mumbai Indians at the Wankhede Stadium. With the ball, Arshdeep Singh claimed a three-wicket haul, while Prabhsimran Singh and Shreyas Iyer stole the show with the bat,...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/3-cricketers-who-can-replace-injured-david-payne-in-sunrisers-hyderabad-squad-for-ipl-2026-2026-04-16-1037776",
     "time": "2026-04-16T11:54:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunrisers Hyderabad's overseas pacer ruled out of IPL 2026, franchise seeks replacement",
-    "desc": "Sunrisers Hyderabad have suffered a setback with overseas seamer David Payne being ruled out of IPL 2026, owing to an ankle injury. The England bowler, who had joined the squad as a replacement for Jack...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-s-overseas-pacer-ruled-out-of-ipl-2026-franchise-seeks-replacement-2026-04-16-1037768",
-    "time": "2026-04-16T11:10:42.000Z"
   }
 ];
