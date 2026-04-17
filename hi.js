@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "MI head coach Mahela Jayawardene opens up on star player's recovery",
+    "desc": "Mumbai Indians missed their former captain Rohit Sharma in the game against the Punjab Kings at the Wankhede Stadium on Thursday (April 16). He suffered a hamstring injury during the game against the Royal Challengers...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-mi-head-coach-mahela-jayawardene-opens-up-on-star-player-s-recovery-2026-04-17-1037905",
+    "time": "2026-04-17T12:36:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gujarat Titans' keeper-batter ruled out of IPL 2026, franchise announces replacement",
+    "desc": "Gujarat Titans keeper-batter Tom Banton has been ruled out of the IPL 2026. The England cricketer was signed for his base price of INR 2 crore and was expected to bring some relief to the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-keeper-batter-ruled-out-of-ipl-2026-franchise-announces-replacement-2026-04-17-1037898",
+    "time": "2026-04-17T11:55:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravichandran Ashwin analyses Mumbai Indians' performance in IPL 2026 after fourth straight loss",
+    "desc": "Following a seven-wicket defeat to Punjab Kings, Mumbai Indians registered their fourth consecutive defeat in IPL 2026. Celebrated batters such as Suryakumar Yadav and Tilak Varma have struggled heavily in the competition so far, while...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-analyses-mumbai-indians-performance-in-ipl-2026-after-fourth-straight-loss-2026-04-17-1037888",
+    "time": "2026-04-17T11:05:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals manager Romi Bhinder fined Rs 1 lakh for using phone in dugout, escapes ban",
+    "desc": "Rajasthan Royals manager Romi Bhinder has escaped a ban for using his phone in the dugout during the match against Royal Challengers Bengaluru at the Barsapara Stadium in Guwahati last week. The Board of Control...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-manager-romi-bhinder-fined-rs-1-lakh-for-using-phone-in-dugout-escapes-ban-2026-04-17-1037882",
+    "time": "2026-04-17T10:47:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 Player batters to watch out for in IPL 2026 Match 25",
+    "desc": "Gujarat Titans and Kolkata Knight Riders are set to lock horns against each other in the 25th match of the Indian Premier League (IPL). The Titans have found their groove after losing their first two...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gt-vs-kkr-3-player-batters-to-watch-out-for-in-ipl-2026-match-25-2026-04-17-1037879",
+    "time": "2026-04-17T10:24:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "IND-W vs SA-W: Head to Head record between two teams ahead of T20I series",
     "desc": "South Africa women are set to host India women across a five-game T20I series. The first T20I of the series will be held in Kingsmead, Durban, on April 17, and both sides will aim to...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/3-players-mumbai-indians-might-drop-for-next-game-after-crushing-loss-to-punjab-kings-2026-04-17-1037853",
     "time": "2026-04-17T07:11:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aaron Finch points out Mumbai Indians' problems as horrid IPL 2026 season continues",
-    "desc": "Five-time IPL (Indian Premier League) champions Mumbai Indians have been going through a horrid season so far in the IPL 2026. The side was being touted as one of the strongest teams in the tournament,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aaron-finch-points-out-mumbai-indians-problems-as-horrid-ipl-2026-season-continues-2026-04-17-1037846",
-    "time": "2026-04-17T06:39:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head-to-head record between two teams ahead of ODI series",
-    "desc": "Bangladesh and New Zealand lock horns in a multi-format white-ball series. The two sides will kick off the series by facing off in the first ODI at the Shere Bangla National Stadium in Mirpur on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-ban-head-to-head-record-between-two-teams-ahead-of-odi-series-2026-04-17-1037840",
-    "time": "2026-04-17T05:41:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Canada's T20 World Cup game under ICC corruption investigation; Check details",
-    "desc": "In a major development for Cricket Canada, the ICC’s anti-corruption unit (ACU) has been investigating allegations of corruption within Cricket Canada. It is worth noting that one of the games under investigation was played at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/canada-s-t20-world-cup-game-under-icc-corruption-investigation-check-details-2026-04-17-1037835",
-    "time": "2026-04-17T04:52:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch white-ball series live on TV and online in India?",
-    "desc": "The stage is set for the kick-off of the white-ball series between Bangladesh and New Zealand. The two sides will lock horns across three ODIs and three T20I matches. It is worth noting that the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-vs-new-zealand-when-and-where-to-watch-white-ball-series-live-on-tv-and-online-in-india-2026-04-17-1037824",
-    "time": "2026-04-17T02:56:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vinod Kambli's wife allays rumours, shares update on former cricketer's health",
-    "desc": "Former India cricketer Vinod Kambli has been in the headlines of late after his health has been a matter of concern. According to earlier reports, Vinod Kambli has been battling serious health concerns. Former cricketer...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vinod-kambli-s-wife-allays-rumours-shares-update-on-former-cricketer-s-health-2026-04-17-1037820",
-    "time": "2026-04-17T02:19:25.000Z"
   }
 ];

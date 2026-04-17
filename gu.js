@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ભારત માટે કેમ જરૂરી છે સ્ટ્રેટ ઓફ મલક્કા? સ્ટ્રેટ ઓફ હોર્મુઝ બાદ હવે અહીં પણ ખતરો!",
+    "desc": "ઈરાન-અમેરિકા યુદ્ધના કારણે સ્ટ્રેટ ઓફ હોર્મુઝ માર્ગ પહેલાથી જ ખોરવાયો છે. સ્ટ્રેટ ઓફ હોર્મુઝ બાદ હવે સ્ટ્રેટ ઓફ મલક્કા પર પણ ખતરો મંડરાઈ રહ્યો છે. ચાલો જાણીએ કે, સ્ટ્રેટ ઓફ મલક્કા ભારત માટે કેટલો મહત્વનો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/why-is-the-strait-of-malacca-important-for-india-after-the-strait-of-hormuz-now-there-is-a-threat-here-too-473557 ",
+    "time": "2026-04-17T12:03:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કઈ જ્ઞાતિના લોકો કરે છે સૌથી વધુ ઈન્ટર કાસ્ટ મેરેજ, જાતિગત સર્વેમાં થયો ચોંકાવનારો ખુલાસો",
+    "desc": "સૌથી વધુ આંતરજ્ઞાતીય લગ્ન (ઈન્ટર કાસ્ટ મેરેજ) કરનારી જ્ઞાતિઓમાં અય્યર, ખ્રિસ્તી અને રાજુ સમાજ સામેલ છે. તેલંગાણામાં અય્યર જ્ઞાતિને આયંગર તરીકે પણ ઓળખવામાં આવે છે. આ ઉપરાંત કાપુ અને બ્રાહ્મણ સમાજના લોકો પણ આંતરજ્ઞાતીય લગ્ન કરવામાં આગળ છે. જ્યારે રેડ્ડી અને વેલામા જ્ઞાતિઓમાં ઇન્ટર કાસ્ટ મેરેજનું ચલણ ઓછું જોવા મળ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/which-caste-people-perform-the-most-inter-caste-marriages-shocking-revelation-in-caste-survey-473538 ",
+    "time": "2026-04-17T11:17:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "624 રન, 78 ચોગ્ગા... ટેસ્ટમાં પ્રથમવાર બન્યો આ અસંભવ વર્લ્ડ રેકોર્ડ, 3 દિવસ મેદાન પર વિકેટની ભીખ માંગતા રહ્યાં બોલર",
+    "desc": "ક્રિકેટના મેદાન પર અત્યાર સુધી ઘણા એવા રેકોર્ડ બન્યા છે જેના પર વિશ્વાસ કરવો મુશ્કેલ થઈ જાય છે. આવો એક રેકોર્ડ 2006મા બન્યો હતો. જ્યારે શ્રીલંકાના બેટર માહેલા જયવર્ધને અને કુમાર સાંગાકારાએ આફ્રિકા સામે ટેસ્ટ ક્રિકેટમાં 624 રનની ભાગીદારી કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/624-runs-partnership-world-record-in-test-cricket-kumar-sangakkara-mahela-jayawardene-473536 ",
+    "time": "2026-04-17T11:01:43.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈઝરાયની તબાહીનો અંત આવી ગયો! આકાશમાં કંઈક એવું જોવા મળ્યું, જેમાં લોકોએ બાઈબલ-કુરાનની ભવિષ્યવાણી ગણાવી",
+    "desc": "ઈઝરાયેલ હાલ હમાસ, હિજબુલ્લા અને ઈરાન સાથે ત્રણ મોરચે લડી રહ્યું છે, પરંતું શું ઈઝરાયેલ આ યુદ્ધમાં ટકી શકશે. યુદ્ધ વચ્ચે ઈઝરાયેલમાં કંઈક એવું થયું છે, જેને લોકો ઈઝરાયેલના અંતની ભવિષ્યવાણી ગણી રહ્યાં છે. લોકોમા બાઈબલ અને કુરાનની આ ભવિષ્યવાણીને લઈને ડરનો માહોલ જોવા મળ્યો છે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/end-times-signs-israel-in-ssy-as-eer-bible-and-quran-prophecy-after-netivot-bee-attack-473535 ",
+    "time": "2026-04-17T10:54:07.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "દુનિયાનો સૌથી ખૂંખાર ગણાતો બોલર કેમ નથી લઈ શકતો વિકેટ? MI કોચે આપ્યું કારણ",
     "desc": "વિશ્વના સર્વશ્રેષ્ઠ ફાસ્ટ બોલર તરીકે જેની ગણતરી થાય છે તે જસપ્રીત બુમરાહ માટે આ વખતની આઈપીએલ પડકારજનક રહી છે. કારણ કે હજુ સુધી એક પણ વિકેટ લઈ શક્યો નથી. આ મામલે એમઆઈ કોચ મહેલા જયવર્ધનેએ શું કહ્યું તે ખાસ જાણો.",
@@ -252,24 +288,6 @@ const newsData_gu = [
     "time": "2026-04-15T12:33:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પગના ફોટા વેચીને લાખોની કમાણી કરી રહ્યા છે લોકો, શું ભારતમાં પણ છે આ લીગલ? જાણો કેવી રીતે થાય છે આવક",
-    "desc": "ઇન્ટરનેટ પર એવા ઘણા લોકો છે જેવો દાવો કરે છે કે, તેઓ માત્ર પોતાના પગના ફોટા વેચીને સારી કમાણી કરી રહ્યા છે. કેટલાક લોકો તેને વેકેશન ફંડ માટે, શોપિંગ કરવા અથવા ઘરનું ભાડું ચૂકવવાનું સાધન ગણાવી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/people-are-earning-lakhs-by-selling-photos-of-their-feet-is-this-legal-in-india-know-how-the-income-is-generated-473225 ",
-    "time": "2026-04-15T11:47:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CBSE ધોરણ 10નું રિઝલ્ટ જાહેર, આ રીતે ચેક કરો તમારું પરિણામ",
-    "desc": "CBSE ધોરણ 10નું રિઝલ્ટ જાહેર કરવામાં આવ્યું છે. ફરી એકવાર દીકરીઓએ બાજી મારી છે. 26 લાખ વિદ્યાર્થીઓ જેની રાહ જોઈ રહ્યા હતા તેનો અંત આવ્યો છે. ઉમંગ એપ અને સત્તાવાર વેબસાઇટ પરથી તમે રિઝલ્ટ ચેક કરી શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/cbse-10th-result-2026-declared-know-how-to-check-result-473224 ",
-    "time": "2026-04-15T11:27:13.000Z"
-  },
-  {
     "cat": "Business",
     "title": "LPG ગ્રાહકોને મોટી રાહત, હવે સિલિન્ડર બુક કરવા માટે ફરી શરૂ થશે આ જૂની સુવિધા; જાણો",
     "desc": "ગામડાઓમાં એલપીજી સિલિન્ડરની હોમ ડિલિવરી ફરી શરૂ થઈ ગઈ છે. આનાથી ગ્રાહકોને મોટી રાહત મળશે. સરકાર તરફથી જાહેર કરવામાં આવેલા નિવેદનમાં કહેવામાં આવ્યું છે કે, કોઈપણ ડિસ્ટ્રીબ્યુટર પાસે સિલિન્ડરની અછત હોવાની કોઈ માહિતી મળી નથી.",
@@ -484,33 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/alarm-bell-not-just-oil-now-helium-and-sulfur-shortages-pose-a-major-threat-to-the-world-tech-industry-472866 ",
     "time": "2026-04-13T11:35:25.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાને સુપરપાવર અમેરિકાને આપી નવી ધમકી, ખાડીમાં દરેક બંદર ટાર્ગેટ પર",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચે હાલ ભારે તણાવનો માહોલ જોવા મળી રહ્યો છે. ઈસ્લામાબાદ શાંતિ વાર્તા પડી ભાંગતા હવે સમગ્ર વિશ્વના માથે સંકટ તોળાઈ રહ્યું છે. અમેરિકા હોર્મુઝ ખોલાવવા માટે આરપારની લડાઈમાં લાગ્યું છે. હોર્મુઝની નાકાબંધી કરવાની પણ ધમકી આપી છે. બીજી બાજુ ઈરાને પણ અમેરિકાને નવી ધમકી આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-latest-warning-to-america-no-port-in-gulf-of-oman-persian-gulf-remain-secure-472824 ",
-    "time": "2026-04-13T10:30:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અર્શદીપ સિંહ પહેલીવાર રુમર્ડ ગર્લફ્રેન્ડ સાથે જોવા મળ્યો, વીડિયો સોશિયલ મીડિયા પર વાયરલ",
-    "desc": "ટીમ ઈન્ડિયાનો સ્ટાર ફાસ્ટ બોલર હાલમાં 2026ની IPLમાં પંજાબ કિંગ્સ તરફથી રમતો જોવા મળી રહ્યો છે. આ સિઝનમાં અત્યાર સુધી તેનું પ્રદર્શન ઠીક ઠાક રહ્યું છે. હવે અર્શદીપ તેના અંગત જીવનને કારણે ચર્ચામાં છે અને ચાહકો તેની ગર્લફ્રેન્ડ વિશે જાણવા માટે ઉત્સુક છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/arshdeep-singh-spotted-at-airport-with-his-rumored-girlfriend-samreen-kaur-video-viral-472822 ",
-    "time": "2026-04-13T09:51:11.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "યુગાન્ડાના આર્મી ચીફે તુર્કી પાસે કેમ સૌથી સુંદર છોકરીની માંગણી કરી? ભારતથી આ કારણસર ડરે છે",
-    "desc": "યુગાન્ડાના આર્મી ચીફ કેનેરુગાબાએ તુર્કી પાસે એવી તે અજીબોગરીબ માંગણી કરી નાખી કે લોકો વિચારમાં પડી ગયા. આવું પહેલીવાર નથી બન્યું. આ પહેલા તેઓ ઈટાલીના પીએમ જ્યોર્જિયા મેલોની વિશે પણ વિચિત્ર માંગણી કરી ચૂક્યા છે. કેન્યા પર ચડાઈ કરવાની ધમકી પણ આપી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/why-did-ugandan-army-chief-ask-turkey-for-the-most-beautiful-girl-why-he-is-afraid-of-india-472819 ",
-    "time": "2026-04-13T09:17:17.000Z"
   },
   {
     "cat": "Tech",

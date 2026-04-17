@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "'আমি চাই পশ্চিমবঙ্গও কাশ্মীর হয়ে উঠুক'; লোকসভায় তীব্র বিতণ্ডায় ক্ষোভে ফেটে পড়লেন অমিত শাহ",
+    "desc": "সাংসদ আগা রুহুল্লাহ আশঙ্কা প্রকাশ করেন, নতুন ডিলিমিটেশন প্রক্রিয়ার ফলে জম্মু-কাশ্মীরের মতো ছোট রাজ্যগুলির রাজনৈতিক শক্তি এবং প্রভাব কমে যাবে। তাঁর অভিযোগ, উত্তর ভারতের বড় রাজ্যগুলির হাতে সমস্ত ক্ষমতা কুক্ষিগত হবে এবং তারাই জম্মু-কাশ্মীরের ভাগ্য নির্ধারণ করবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/delimitation-bill-2026-i-want-bengal-to-become-kashmir-what-did-aga-syed-ruhullah-say-amit-shah-walks-out-of-seat_649161.html ",
+    "time": "2026-04-17T11:06:12.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "'আমি গর্ভবতী', নাসিক TCS মামলায় আদালতে বিস্ফোরক দাবি নোংরামির মাথা নিদা খানের",
     "desc": "নিদা খান নতুন জয়েনি মেয়েদের প্রথমে একটি হোয়াটসঅ্যাপ গ্রুপে অ্যাড করতেন। অভিযোগকারীদের বিস্ফোরক দাবি, অফিসে যৌন হেনস্থা নিয়ে অভিযোগ জানাতে গেলে অভিযোগ না করতে বলতেন নিদা খান। এমনকি এও বলতেন যে, “এসব তো হয়েই থাকে।”",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -43,15 +52,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/nashik-tcs-conversion-case-big-development-harassment-case-fallout-of-soured-relationship-accused-wife-explosive-claims_648986.html ",
     "time": "2026-04-16T05:55:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রত্নভান্ডারের রহস্য-সন্ধানের মধ্যেই পুরীতে বিরাট ঘটনা! নববৈশাখেই 'স্থান'বদল জগন্নাথমন্দিরের দেবতার",
-    "desc": "পুরী জগন্নাথ মন্দিরের তিন বিগ্রহের জন্য নতুন বিশ্রামের স্থান তৈরি হল। শ্রী জগন্নাথ মন্দির প্রশাসন মঙ্গলবার জগন্নাথ, বলরাম এবং সুভদ্রার জন্য নবনির্মিত এক 'রত্ন পালঙ্ক' উৎসর্গ করেছে মন্দিরে। পুরনো পালঙ্ক জীর্ণ হয়ে যাওয়ায় সেগুলির পরিবর্তে এই নতুন পালঙ্ক আনা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/new-resting-place-for-jagannath-dev-puri-shrines-sibling-deities-get-new-resting-place-on-tuesday_648938.html ",
-    "time": "2026-04-15T13:58:13.000Z"
   },
   {
     "cat": "World",
@@ -142,5 +142,14 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/asha-bhosle-first-marriage-struggle-biography-revelations-domestic-violence-first-husband_648456.html ",
     "time": "2026-04-12T11:08:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];
