@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "ઈરાને ફરીથી બંધ કરી દીધું હોર્મુઝ સ્ટ્રેટ, ભારત પર શું થશે અસર?",
+    "desc": "હોર્મુઝ સ્ટ્રેટ એક સાંકડો રસ્તો છે, જેના દ્વારા વિશ્વભરમાં ક્રૂડ ઓઇલ સપ્લાય કરવામાં આવે છે. આ માર્ગમાંથી 20% તેલ વહે છે. ઇરાને હોર્મુઝ સ્ટ્રેટ બંધ કરી દીધી ત્યારથી, ક્રૂડ ઓઇલના ભાવ આસમાને પહોંચી ગયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/iran-closes-the-strait-of-hormuz-again-what-will-be-the-impact-on-india-473712 ",
+    "time": "2026-04-18T12:36:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SP, DIG કે DGP... કોણ છે સૌથી વધુ પાવરફુલ ? એક ક્લિકમાં જાણી લો જવાબ",
+    "desc": "દેશના વિવિધ રાજ્યોમાં પોલીસ વહીવટનું સંચાલન કરવા માટે જવાબદાર અધિકારીઓના નામ તમે વારંવાર સાંભળ્યા હશે. જેમાં SP, SSP, DIG, IG અને DGP જેવા ઉચ્ચ હોદ્દાઓનો સમાવેશ થાય છે. તેમની જવાબદારીઓ અને સત્તાઓ તેમના સંબંધિત હોદ્દા અનુસાર બદલાય છે. ત્યારે આમાં સૌથી વધુ પાવરફુલ કોણ છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/sp-dig-or-dgp-who-is-the-most-powerful-in-the-state-police-department-473710 ",
+    "time": "2026-04-18T12:22:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold-Silver Weekly Rate: ગોલ્ડ 1300 રૂપિયા અને સિલ્વર 10000 રૂપિયા મોંઘુ થયું, જાણો કેટલે પહોંચ્યો સોના-ચાંદીનો ભાવ",
+    "desc": "સોના અને ચાંદીની સાપ્તાહિક ચાલ જોઈએ તો મિડલ ઈસ્ટમાં યુદ્ધવિરામ અને કાયમી ઉકેલ આવવાની આશાના પગલે ક્રૂડ ઓઈલના ભાવમાં નરમાઈ જોવા મળી રહી છે જેનો સીધો સંબંધ સોના અને ચાંદીના ભાવમાં વધારા તરીકે જોવા મળી રહ્યો છે. સાપ્તાહિક ભાવ પર નજર ફેરવીએ તો આ સપ્તાહે સોના અને ચાંદીમાં ઉછાળો જોવા મળ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-weekly-rate-explainer-also-check-latest-rate-ibja-mcx-sona-chandi-na-bhav-473680 ",
+    "time": "2026-04-18T10:20:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાનનો યુ-ટર્ન, હોર્મુઝ સ્ટ્રેટ ફરી બંધ કર્યું, કહ્યું- દુશ્મનના જહાજોને પસાર થવાનો કોઈ અધિકાર નથી",
+    "desc": "ઈરાને હોર્મુઝ સ્ટ્રેટ ફરીથી ખોલવાનો પોતાનો નિર્ણય પાછો ખેંચી લીધો છે. શનિવારે ઈરાને આ મહત્વપૂર્ણ જળમાર્ગ પર ફરીથી પ્રતિબંધો લગાવી દીધા છે. અમેરિકાએ નાકાબંધી હટાવવાની આનાકાની કરતાં ઈરાને હોર્મુઝ સ્ટ્રેટ ફરી બંધ કરી દીધું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/us-iran-war-strait-of-hormuz-closed-again-accuses-us-of-breaking-commitments-473676 ",
+    "time": "2026-04-18T10:03:31.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "મિડલ ક્લાસની મોજ! ₹10 લાખના બજેટમાં આવી રહી છે આ 5 ઈલેક્ટ્રિક કાર, 400 km સુધીની મળશે રેન્જ",
+    "desc": "ભારતમાં હવે લોકો પેટ્રોલ-ડીઝલ છોડી ઈલેક્ટ્રિક કાર ખરીદવાનું પસંદ કરી રહ્યાં છે. પહેલા મોંઘી લાગતી ઈવી કાર હવે બજેટમાં આવવા લાગી છે. કાર નિર્માતા કંપનીઓ પણ સસ્તા બજેટમાં નવી-નવી ઈવી કાર લોન્ચ કરી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/upcoming-affordable-electric-cars-2026-400-km-range-available-in-a-budget-of-less-than-10-lakhs-473678 ",
+    "time": "2026-04-18T09:53:20.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "6% ઈન્ક્રીમેન્ટ અને 3.83 ફિટમેન્ટ ફેક્ટરની માંગ, તો લેવલ 1 થી લેવલ 10 સુધી કેટલો વધે પગાર? સમજો અંદાજિત ગણતરી",
     "desc": "કર્મચારીઓના સંગઠન NC-JCM એ પોતાની માંગણીઓનો જે ડ્રાફ્ટ રજુ કર્યો તેમાં ફિટમેન્ટ ફેક્ટર 3.833 અને વાર્ષિક ઈન્ક્રીમેન્ટ 3 ટકાને બદલે 6 ટકા કરવાની માંગણી કરી છે. જો આ માંગણી સ્વીકારવામાં આવે તો લેવલ 1 થી લઈને 10 સુધી કેટલો પગાર વધી શકે તે ખાસ જાણો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -351,24 +396,6 @@ const newsData_gu = [
     "time": "2026-04-16T03:34:21.000Z"
   },
   {
-    "cat": "Business",
-    "title": "LPG ગ્રાહકોને મોટી રાહત, હવે સિલિન્ડર બુક કરવા માટે ફરી શરૂ થશે આ જૂની સુવિધા; જાણો",
-    "desc": "ગામડાઓમાં એલપીજી સિલિન્ડરની હોમ ડિલિવરી ફરી શરૂ થઈ ગઈ છે. આનાથી ગ્રાહકોને મોટી રાહત મળશે. સરકાર તરફથી જાહેર કરવામાં આવેલા નિવેદનમાં કહેવામાં આવ્યું છે કે, કોઈપણ ડિસ્ટ્રીબ્યુટર પાસે સિલિન્ડરની અછત હોવાની કોઈ માહિતી મળી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-relief-for-lpg-consumers-now-this-old-facility-will-be-resumed-to-book-cylinders-know-473222 ",
-    "time": "2026-04-15T11:04:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "DA વધારામાં આટલો વિલંબ... સરકાર પર દબાણ બનાવવવા કરોડો કર્મચારીઓની મોટી જાહેરાત",
-    "desc": "DA વધારામાં વિલંબને લઈને કેન્દ્ર સરકારના કર્મચારીઓમાં અસંતોષ વધ્યો છે, આ વિલંબ પાછળ વહીવટી પ્રક્રિયાઓ અને 8મા પગાર પંચ માટેની તૈયારીઓ કારણભૂત હોવાનું માનવામાં આવે છે, પરંતુ હવે કર્મચારીઓએ સરકાર પર દબાણ લાવવા માટે આ જાહેરાત કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/such-a-delay-in-da-increase-a-big-announcement-by-crores-of-employees-to-put-pressure-on-the-government-473192 ",
-    "time": "2026-04-15T10:28:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "CSKની જીત બાદ પોઈન્ટ ટેબલમાં મોટી ઉથલપાથલ, KKR છોડો મુંબઈને પણ મોટું નુકસાન",
     "desc": "IPL પોઈન્ટ ટેબલ ફરી એકવાર બદલાઈ ગયું છે. CSKએ સતત બીજી જીત સાથે મોટી છલાંગ લગાવી છે. તો KKR હજુ સુધી એક પણ મેચ જીતી શક્યું નથી અને હાલમાં તે ટેબલમાં સૌથી નીચે છે. તો મુંબઈ ઇન્ડિયન્સને પણ નુકસાન થયું છે.",
@@ -403,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-psycho-thriller-hindi-film-on-prime-video-psycho-thriller-film-level-cross-story-473176 ",
     "time": "2026-04-15T08:13:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "2.57 નહીં 3.83 લાગુ કરાશે ફિટમેન્ટ ફેક્ટર ? જાણો પગાર વધારો ક્યારે મળી શકે છે",
-    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ માટે 8મા પગાર પંચની માંગણી તીવ્ર બની છે. રાષ્ટ્રીય પરિષદ (NC-JCM)એ સરકારને 3.833 ફિટમેન્ટ ફેક્ટર લાગુ કરવા માટે એક મેમોરેન્ડમ મોકલ્યું છે. જાણો કે આ ફિટમેન્ટ ફેક્ટર લેવલ 1થી 18 સુધીના પગારમાં કેટલો વધારો કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-fitment-factor-will-be-implemented-at-3-83-not-2-57-know-when-salary-hike-can-be-given-473175 ",
-    "time": "2026-04-15T08:08:04.000Z"
   },
   {
     "cat": "Tech",
@@ -493,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/this-country-quietly-buying-20-tons-of-gold-it-has-surpassed-india-and-china-473040 ",
     "time": "2026-04-14T10:19:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રાજસ્થાન રોયલ્સમાં ખુશ નથી વૈભવ સૂર્યવંશી, કોચના નિવેદનથી ખળભળાટ, જાણો શું છે કારણ ?",
-    "desc": "15 વર્ષીય વૈભવ સૂર્યવંશી રાજસ્થાન રોયલ્સ ટીમથી નાખુશ છે. સનરાઇઝર્સ સામે ગોલ્ડન ડક આઉટ થયા બાદ કોચ ટ્રેવર પેનીએ આ ખુલાસો કર્યો છે. રાજસ્થાન હવે 19 એપ્રિલે KKR સામે ટકરાશે, જ્યાં સૂર્યવંશીની ભૂમિકા પર બધાની નજર રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-is-not-happy-for-impact-player-rajasthan-royals-473025 ",
-    "time": "2026-04-14T09:16:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -664,14 +673,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/what-is-combat-survivor-evader-locator-device-us-pilot-iran-471791 ",
     "time": "2026-04-06T14:01:50.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "₹6.25 લાખની આ 5 સ્ટાર સેફ્ટી કારે માર્કેટમાં મચાવી ધૂમ, બની નંબર 1 વેચાતી કાર, 33ની છે એવરેજ",
-    "desc": "આ ગાડીએ 5 સ્ટાર રેટિંગ મેળવીને કમાલ કરી છે, ગાડીના પેટ્રોલ વર્ઝનમાં 25 અને CNG વર્ઝનમાં 33ની માઈલેજ આપે છે, તેવો કંપની દાવો કરે છે. કંપનીની ગાડીએ માર્ચમાં દરેકને પાછળ છોડી પહેલો નંબર મેળવ્યો છે. SUVની ડિમાંડની વચ્ચે આ સેડાન ગાડીએ કમાલ કરી બતાવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/this-5-star-safety-car-worth-6-25-lakh-became-the-number-1-selling-car-average-is-33-471621 ",
-    "time": "2026-04-05T12:22:58.000Z"
   }
 ];
