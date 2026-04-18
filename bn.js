@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "কোনও অভিযোগই জমা পড়েনি- যৌন হেনস্থায় বিরাট বিবৃতি TCS-এর, কে নিদা খান? স্পষ্ট করল সংস্থা",
+    "desc": "নাসিক ইউনিটে ধর্মান্তর এবং যৌন হেনস্থার অভিযোগ নিয়ে চলা পুলিসি তদন্তের মধ্যেই, আইটি সংস্থা টাটা কনসালটেন্সি সার্ভিসেস জানিয়েছে যে এই ধরনের কোনও হেনস্থার অভিযোগ তারা সংস্থার ইন্টারনাল সিস্টেমের মাধ্যমে পায়নি। একইসঙ্গে সংস্থার তরফে জানাল হল নিদা খান কে?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/tcs-statement-amid-probe-nida-khan-not-hr-head-did-not-get-any-internal-complaint_649302.html ",
+    "time": "2026-04-18T09:36:03.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Asia's Richest Person: একবছরে ১.৪১ লক্ষ কোটির ক্ষতি, আম্বানিকে ছাপিয়ে এশিয়ার শীর্ষ ধনী গৌতম আদানি, সম্পত্তির পরিমাণ বেড়ে হল",
     "desc": "এশিয়ার শ্রেষ্ঠত্বের লড়াইয়ে বড় জয় গৌতম আদানির। মুকেশ আম্বানিকে পেছনে ফেলে ব্লুমবার্গ বিলিয়নেয়ার্স ইনডেক্স ২০২৬-এ এশিয়ার সবচেয়ে ধনী ব্যক্তি হলেন গৌতম আদানি। তালিকায় ১৯তম স্থানে আদানি এবং ২০তম স্থানে আম্বানি। ইলন মাস্ক এখনও বিশ্বের শীর্ষস্থানে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -124,5 +133,14 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/asha-bhosle-first-marriage-struggle-biography-revelations-domestic-violence-first-husband_648456.html ",
     "time": "2026-04-12T11:08:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "প্রতি ১৫ দিনে পেট্রোল ও ডিজেলের দাম পর্যালোচনা করবে কেন্দ্র, আমজনতাকে রেহাই দিতেই বাড়েনি আবগারি শুল্ক",
+    "desc": "বিশ্বজুড়ে তেলের দাম বৃদ্ধি ও পশ্চিম এশিয়ার উত্তেজনার মাঝে পেট্রোল ও ডিজেলের দাম প্রতি ১৫ দিন অন্তর পর্যালোচনা করবে কেন্দ্র। Govt to monitor fuel rates every fortnight to ensure stability and prevent sudden price hikes.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/03/pti03-26-2026-000290b-jpg-1774614580484_1774614582587-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-and-diesel-prices-india-government-to-conduct-fortnightly-review-on-fuel-rates-011-303743.html",
+    "time": "2026-03-27T12:51:12.000Z"
   }
 ];

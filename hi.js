@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "RCB vs DC, 26th IPL 2026 LIVE cricket score: Virat Kohli, Phil Salt to open innings vs Delhi Capitals",
+    "desc": "Royal Challengers Bengaluru host Delhi Capitals at the M Chinnaswamy Stadium on April 18. Notably, this will be their 100th IPL match at the ground, arriving 18 years after their first appearance there. But more...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-dc-26th-ipl-2026-live-cricket-score-royal-challengers-bengaluru-vs-delhi-capitals-latest-match-updates-playing-xi-2026-04-18-1037988",
+    "time": "2026-04-18T09:37:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer points out Jasprit Bumrah's trouble as dismal season with MI continues",
+    "desc": "The ongoing IPL (Indian Premier League) 2026 season has been one to forget for five-time champions Mumbai Indians so far. The side sits in ninth place in the standings with one loss and four losses...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-points-out-jasprit-bumrah-s-trouble-as-dismal-season-with-mi-continues-2026-04-18-1037987",
+    "time": "2026-04-18T09:27:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Anil Kumble slams KKR's think tank for lack of game awareness against Gujarat Titans",
+    "desc": "Chasing 181 runs against Kolkata Knight Riders, Gujarat Titans were off to a flying start as Shubman Gill launched a scathing attack. His opening partner, Sai Sudharsan, looked in decent touch, but the youngster once...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/anil-kumble-slams-kkr-s-think-tank-for-lack-of-game-awareness-against-gujarat-titans-2026-04-18-1037982",
+    "time": "2026-04-18T08:42:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Rajiv Gandhi International Stadium in Hyderabad play?",
+    "desc": "Sunrisers Hyderabad and Chennai Super Kings are all set to take on each other in game 27 of the ongoing IPL (Indian Premier League) 2026. The two sides will meet at the Rajiv Gandhi International...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/srh-vs-csk-pitch-report-how-will-surface-at-rajiv-gandhi-international-stadium-in-hyderabad-play-2026-04-18-1037977",
+    "time": "2026-04-18T08:03:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Royal Challengers Bengaluru set to achieve major milestone ahead of IPL 2026 clash against DC",
+    "desc": "The stage is set for the 26th game of the ongoing IPL (Indian Premier League) 2026. Defending champions Royal Challengers Bengaluru will take on Delhi Capitals at the M Chinnaswamy Stadium in Bengaluru on April...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/royal-challengers-bengaluru-set-to-achieve-major-milestone-ahead-of-ipl-2026-clash-against-dc-2026-04-18-1037974",
+    "time": "2026-04-18T07:43:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan announce 16-member squad for Bangladesh Test series, Shan Masood to continue leading the side",
     "desc": "The stage is set for the upcoming two-game Test series between Pakistan and Bangladesh. The two sides will lock horns across two Test matches, with the first Test set to be held from May 8...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kolkata-knight-riders-join-mi-rcb-in-unwanted-list-as-dismal-run-in-ipl-2026-continues-2026-04-18-1037946",
     "time": "2026-04-18T01:43:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at M Chinnaswamy Stadium in Bengaluru play?",
-    "desc": "Royal Challengers Bengaluru will host Delhi Capitals in their upcoming IPL 2026 clash at the M Chinnaswamy Stadium. The last time these two teams faced each other in Bengaluru, KL Rahul produced a sensational knock...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-dc-pitch-report-how-will-surface-at-m-chinnaswamy-stadium-in-bengaluru-play-2026-04-17-1037940",
-    "time": "2026-04-17T18:20:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will Matheesha Pathirana join KKR squad for IPL 2026?",
-    "desc": "Matheesha Pathirana has been sidelined with a calf injury sustained during the T20 World Cup 2026 and his absence is proving costly for the Kolkata Knight Riders in the ongoing Indian Premier League 2026. Without...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-will-matheesha-pathirana-join-kkr-squad-for-ipl-2026-2026-04-17-1037937",
-    "time": "2026-04-17T18:04:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill, Kagiso Rabada script GT's nail-biting win over KKR, three-time champions remain winless",
-    "desc": "Kolkata Knight Riders suffered their fifth defeat in the ongoing IPL 2026. After a loss to Gujarat Titans at the Narendra Modi Stadium, they remain the only side to have not registered a single win....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-kagiso-rabada-script-gt-s-nail-biting-win-over-kkr-three-time-champions-remain-winless-2026-04-17-1037935",
-    "time": "2026-04-17T17:49:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND-W vs SA-W 1st T20I LIVE score: South Africa chase 158 runs in second innings in Durban",
-    "desc": "South Africa Women won the toss in Durban and opted to field first in the opening T20I against India, kicking off a five-match series that doubles as preparation for the upcoming Women’s T20 World Cup...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-sa-w-1st-t20i-2026-live-cricket-score-india-women-vs-south-africa-women-latest-match-updates-playing-xi-smriti-mandhana-shafali-varma-2026-04-17-1037927",
-    "time": "2026-04-17T15:58:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic ruled out of Madrid Open, might feature in Italian Open before Roland Garros",
-    "desc": "Novak Djokovic pulled out of the upcoming Madrid Open as he continues to deal with a shoulder issue that has unsettled his season. With the French Open around the corner, the Serbian could have enjoyed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/novak-djokovic-ruled-out-of-madrid-open-might-feature-in-italian-open-before-roland-garros-2026-04-17-1037924",
-    "time": "2026-04-17T15:23:53.000Z"
   }
 ];

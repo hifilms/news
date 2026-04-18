@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "6% ઈન્ક્રીમેન્ટ અને 3.83 ફિટમેન્ટ ફેક્ટરની માંગ, તો લેવલ 1 થી લેવલ 10 સુધી કેટલો વધે પગાર? સમજો અંદાજિત ગણતરી",
+    "desc": "કર્મચારીઓના સંગઠન NC-JCM એ પોતાની માંગણીઓનો જે ડ્રાફ્ટ રજુ કર્યો તેમાં ફિટમેન્ટ ફેક્ટર 3.833 અને વાર્ષિક ઈન્ક્રીમેન્ટ 3 ટકાને બદલે 6 ટકા કરવાની માંગણી કરી છે. જો આ માંગણી સ્વીકારવામાં આવે તો લેવલ 1 થી લઈને 10 સુધી કેટલો પગાર વધી શકે તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/8th-cpc-latest-news-nc-jcm-demands-6-percent-increment-check-approx-salary-calculation-473675 ",
+    "time": "2026-04-18T09:41:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ટીસીએસ નાસિક ઓફિસનો કેસ શું છે ? મહિલા પોલીસે &amp;#039;ધુરંધર&amp;#039; બની સૌથી મોટા રેકેટનો પર્દાફાશ કર્યો",
+    "desc": "ટીસીએસ નાસિક બીપીઓ ઓફિસનો વિવાદ સતત વધી રહ્યો છે. જો કે હજુ પણ અનેક લોકો છે જેને આ મામલો શું છે તેના વિશે ખબર નથી. તો ચાલો તમને જણાવીએ ટીસીએસ નાસિક બીપીઓ ઓફિસમાં શું ચાલતું હતું ? આ ષડયંત્રનો ખુલાસો કેવી રીતે થયો ? અને આ કેસમાં અત્યાર સુધીમાં કયા ખુલાસાઓ થયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/what-is-tcs-nashik-bpo-office-controversy-latest-update-on-tcs-nashik-case-of-harassment-and-religious-conversion-473508 ",
+    "time": "2026-04-18T08:46:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "યુવાનોને ઉભા ઉભા મૂર્તિ બનાવી દેતું ઝોમ્બી ડ્રગ શું છે, મહારાષ્ટ્રમાં વાયરલ થયેલા વીડિયોનું શું છે સત્ય, જાણીએ",
+    "desc": "મહારાષ્ટ્રના ભાયંદર વિસ્તારમાં એક યુવકના વાયરલ વીડિયોએ ચિંતા જગાવી છે. પરંતું આ વીડિયોની હકીકત શું છે. આખરે કેમ સોશિયલ મીડિયા પર ઝોમ્બી ડ્રગ્સ ચર્ચામાં આવી ગયું છે. વાયરલ વીડિયો ઝોમ્બી ડ્રગ્સ શું હોય છે અને તેની અસરો કેવી હોય છે તેના પર જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-is-zombie-drug-xylazine-maharastra-viral-video-truth-473651 ",
+    "time": "2026-04-18T07:42:39.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "લોકસભામાં ભલે બિલ પાસ ન થયું, છતાં 2029મા લાગૂ થઈ શકે છે મહિલા અનામત, જાણો કાયદાકીય વિકલ્પ",
     "desc": "શુક્રવારે સંસદમાં સરકાર પાસે બે-તૃતીયાંશ બહુમતી ન હોવાને કારણે 131મો બંધારણીય ખરડો પસાર થઈ શક્યો નહીં. તેવામાં મહિલાઓને લોકસભા અને વિધાનસભામાં 33 ટકા અનામત આપવાનો મુદ્દો લટકી ગયો છે. તેવામાં આવો જાણીએ સરકાર પાસે હજુ ક્યા વિકલ્પ છે, જેના દ્વારા 2029ની લોકસભા ચૂંટણી પહેલા 33 ટકા મહિલા અનામત લાગૂ કરી શકાય છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -163,15 +190,6 @@ const newsData_gu = [
   },
   {
     "cat": "Business",
-    "title": "ટીસીએસ નાસિક ઓફિસનો કેસ શું છે ? મહિલા પોલીસે &amp;#039;ધુરંધર&amp;#039; બની સૌથી મોટા રેકેટનો પર્દાફાશ કર્યો",
-    "desc": "ટીસીએસ નાસિક બીપીઓ ઓફિસનો વિવાદ સતત વધી રહ્યો છે. જો કે હજુ પણ અનેક લોકો છે જેને આ મામલો શું છે તેના વિશે ખબર નથી. તો ચાલો તમને જણાવીએ ટીસીએસ નાસિક બીપીઓ ઓફિસમાં શું ચાલતું હતું ? આ ષડયંત્રનો ખુલાસો કેવી રીતે થયો ? અને આ કેસમાં અત્યાર સુધીમાં કયા ખુલાસાઓ થયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/what-is-tcs-nashik-bpo-office-controversy-latest-update-on-tcs-nashik-case-of-harassment-and-religious-conversion-473508 ",
-    "time": "2026-04-17T09:08:50.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "PF એકાઉન્ટ હોલ્ડર્સ માટે નવું ફોર્મ, જાણો ઇન્કમ ટેક્સ બચાવવા કેવી રીતે મદદરૂપ થશે?",
     "desc": "દેશભરના કરોડો પ્રોવિડન્ટ ફંડ (PF) એકાઉન્ટ હોલ્ડર્સ માટે સારા સમાચાર છે. કર્મચારી ભવિષ્ય નિધિ સંગઠન (EPFO) એ એક નવું ફોર્મ લાગુ કર્યું છે, જે ઇન્કમ ટેક્સમાંથી રાહત મેળવવાનો મોટો રસ્તો બની શકે છે. આ નવા ફોર્મે બે જૂના ફોર્મનું સ્થાન લીધું છે. ચાલો વિગતવાર જાણીએ...",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -279,15 +297,6 @@ const newsData_gu = [
     "time": "2026-04-16T10:54:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મુસ્લિમ અનામત મુદ્દે થઈ એવી માંગણી....અમિત શાહે કહ્યું- સવાલ જ પેદા થતો નથી",
-    "desc": "આજથી સંસદનું વિશેષ સત્ર શરૂ થયું. લોકસભામાં મહિલા અનામત કાયદામાં સંશોધન સંલગ્ન 3 બિલો રજૂ થયા જેના પર લોકસભામાં ચર્ચા ચાલુ છે. બિલો પર ચર્ચા માટે 16 અને 17 એપ્રિલના રોજ 15 કલાક જેટલો સમય નિર્ધારિત કરાયો છે અને કાલે એટલે કે 17 એપ્રિલના રોજ 4 વાગે મતદાન થશે. બિલમાં લોકસભા સાંસદોની સંખ્યા કુલ 850 કરવાનો પ્રસ્તાવ છે. આ ચર્ચા દરમિયાન મુસ્લિમ અનામત વિશે પણ સવાલ ઉઠ્યો. જાણો અમિત શાહે શું જવાબ આપ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/parliament-special-session-lok-sabha-muslim-reservation-akhilesh-yadav-amit-shah-response-473359 ",
-    "time": "2026-04-16T10:29:51.000Z"
-  },
-  {
     "cat": "World",
     "title": "કંઈક મોટું થવાનું છે ! પાકિસ્તાનના આર્મી ચીફ મુનીર ટ્રમ્પનો મેસેજ લઈને પહોંચ્યા ઈરાન",
     "desc": "ઈરાન અને અમેરિકા આગામી રાઉન્ડની વાટાઘાટો માટે તૈયારી થઈ રહ્યા હોય તેવું લાગી રહ્યું છે. પાકિસ્તાનના આર્મી તેહરાન પહોંચ્યા છે. એવું કહેવામાં આવી રહ્યું છે કે તેઓ તેહરાન અમેરિકાથી ડોનાલ્ડ ટ્રમ્પ દ્વારા આપવામાં આવેલ મેસેજ લઈને પહોંચ્યા છે.",
@@ -295,15 +304,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/us-iran-ceasefire-talks-pakistan-army-chief-munir-reaches-iran-with-trump-message-473369 ",
     "time": "2026-04-16T09:50:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "10 વર્ષ જૂનું આધાર 14 જૂન સુધીમાં વિના મૂલ્યે કરાવો અપડેટ, જાણો સ્ટેપ બાય સ્ટેપ પ્રોસેસ",
-    "desc": "જો તમારું આધાર કાર્ડ 10 વર્ષ જૂનું થઈ ગયું હોય તો તેને અપડેટ કરાવી લેવું જોઈએ. આ માટે તમે 14 જૂન પહેલા જો ઓનલાઈન અપડેટ કરાવશો તો તમને કોઈ ચાર્જ લાગશે નહીં. કઈ રીતે અપડેટ કરાવવું તે પ્રોસેસ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/you-can-update-10-year-old-aadhaar-free-of-cost-by-june-14-check-details-473343 ",
-    "time": "2026-04-16T09:33:23.000Z"
   },
   {
     "cat": "Business",
@@ -511,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/what-were-asha-tais-final-moments-like-mumtaz-recounts-the-entire-story-hearing-it-will-bring-tears-to-your-eyes-472968 ",
     "time": "2026-04-14T05:39:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ટીમ ઈન્ડિયામાં થશે વૈભવ સૂર્યવંશીની એન્ટ્રી, આ પ્રવાસ પર થશે પર્દાપણ! ખતરામાં સચિનનો રેકોર્ડ",
-    "desc": "15 વર્ષીય વૈભવ સૂર્યવંશી આયર્લેન્ડ વિરુદ્ધ ટી20 સિરીઝમાં પર્દાપણ કરી શકે છે. પસંદગીકારો તેને તક આપવાના પક્ષમાં છે. જો આમ થયું તો તે સચિન તેંડુલકર અને શેફાલી વર્માનો રેકોર્ડ તોડી સૌથી યુવા ભારતીય ખેલાડી બની જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-suryavanshi-ready-to-debut-in-team-india-may-get-a-chance-in-t20-series-against-ireland-472964 ",
-    "time": "2026-04-14T05:13:23.000Z"
   },
   {
     "cat": "Tech",
