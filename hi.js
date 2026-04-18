@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan announce 16-member squad for Bangladesh Test series, Shan Masood to continue leading the side",
+    "desc": "The stage is set for the upcoming two-game Test series between Pakistan and Bangladesh. The two sides will lock horns across two Test matches, with the first Test set to be held from May 8...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announces-16-member-squad-for-bangladesh-test-series-shan-masood-to-continue-leading-the-side-2026-04-18-1037968",
+    "time": "2026-04-18T06:13:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sunrisers Hyderabad announce Gerald Coetzee as replacement signing for the injured David Payne",
     "desc": "In a major development for Sunrisers Hyderabad, the franchise took centre stage and announced the signing of South Africa’s Gerald Coetzee as a replacement signing for the injured David Payne. It is worth noting that...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/novak-djokovic-ruled-out-of-madrid-open-might-feature-in-italian-open-before-roland-garros-2026-04-17-1037924",
     "time": "2026-04-17T15:23:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia announce white-ball Bangladesh tour in June; match timings could be affected due to fuel shortage",
-    "desc": "Australia are set for a tightly packed tour of Bangladesh in June, with six white-ball matches squeezed into a 13-day window. The schedule features three ODIs followed by three T20Is, offering little breathing space between...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-announce-white-ball-bangladesh-tour-in-june-match-timings-could-be-affected-due-to-fuel-shortage-2026-04-17-1037920",
-    "time": "2026-04-17T14:29:17.000Z"
   }
 ];
