@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "টানা ম্যাচ হেরে চরম সিদ্ধান্তের পথে শাহরুখের KKR, IPL থেকে কি সরে যাবে কলকাতা? বুকভাঙা খবর এল ভক্তদের জন্য",
+    "desc": "আইপিএল ২০২৬-এর মরসুম কলকাতা নাইট রাইডার্সের (KKR) জন্য মোটেও ভাল যাচ্ছে না। দলের ভিতরে আশঙ্কার মেঘ। টুর্নামেন্টের ইতিহাসে রেকর্ড ২৫ কোটি ২০ লক্ষ টাকা দিয়ে অস্ট্রেলীয় অলরাউন্ডার ক্যামেরন গ্রিনকে কিনেছিল শাহরুখ খানের দল। কিন্তু সেই ‘সবচেয়ে দামি বিদেশি’ এখন দলের জন্য আশীর্বাদের বদলে অভিশাপ হয়ে দাঁড়িয়েছেন। পয়েন্ট টেবিলের তলানিতে থাকা কেকেআর এখন গ্রিনকে বাদ দেওয়ার মতো চরম সিদ্ধান্ত নেওয়ার কথা ভাবছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/kolkata-knight-riders-kkr-kkr-in-ipl-2026-cameron-green-ajinkya-rahane-kkr-big-news-kkr-vs-gt-gujrat-titans-ipl-shahrukh-khan-cameron-green-ipl-2026_649353.html ",
+    "time": "2026-04-18T14:54:30.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Jeetu-Payel Conflict: গাছতলায় ফেলে গেছে প্রয়াত রাহুলের ছবি, জীতুর বিরুদ্ধে ক্ষোভ পায়েলের: জবাবে অভিনেতা লেখেন",
     "desc": "টলিপাড়ায় এবার চরম উত্তেজনা! প্রয়াত অভিনেতা রাহুল বন্দ্যোপাধ্যায়ের ছবি নিয়ে জীতু কমলের প্রতিবাদের ধরনকে ‘অসভ্যতা’ বললেন পায়েল দে। গাছতলায় কেন পড়ে ছিল ছবি? জীতুর বিরুদ্ধেই কি জোট বাঁধছে স্টুডিও পাড়া? থেমে থাকেননি অভিনেতা। দিলেন জবাবও।",
@@ -142,15 +151,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/uttam-kumar-music-director-asha-bhosle-collaboration-history_648473.html ",
     "time": "2026-04-12T12:55:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "১৬ বছরে ঘর ছাড়েন, গর্ভবতী অবস্থাতেই আত্মহত্যার চেষ্টা করেছিলেন: জীবনের লড়াইয়ে জয়ী আশা",
-    "desc": "সুরের ছোঁয়ায় বিশ্ব মাতানো আশা ভোঁসলের জীবনের নেপথ্যে ছিল চরম লড়াইয়ের গল্প। মাত্র ১৬ বছর বয়সে ঘর ছাড়া, স্বামীর অকথ্য অত্যাচার, এমনকি গর্ভবতী অবস্থায় আত্মহত্যার চেষ্টা— নিজের আত্মজীবনীতে সবটা উগরে দিয়েছেন কিংবদন্তি গায়িকা। বিষাদ কাটিয়ে কীভাবে তিনি হয়ে উঠলেন অজেয় নক্ষত্র, সেই অনুপ্রেরণার গল্পই আজ সবার মুখে মুখে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/asha-bhosle-first-marriage-struggle-biography-revelations-domestic-violence-first-husband_648456.html ",
-    "time": "2026-04-12T11:08:19.000Z"
   },
   {
     "cat": "Business",

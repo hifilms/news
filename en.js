@@ -1,12 +1,147 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "NMC proposes to ease norms for establishing medical college, tighten PG education standards",
-    "desc": "The National Medical Commission in its proposed amendments to the “Registration of Medical Practitioners and Licence to Practice Medicine (Amendment), Regulations 2026” has also mooted the idea of introducing a single-State licence for Armed Forces Medical Services (AFMS) doctors to practice across the country",
-    "img": "https://th-i.thgim.com/public/incoming/cta4xp/article70877472.ece/alternates/LANDSCAPE_1200/IMG_BL1808_Banking_Secon_5_1_KQEP6K9T.jpg",
+    "title": "Rural summer camp ‘Akkareya Angala’ launched for children in Mandya district of Karnataka",
+    "desc": "Mandya zilla panchayat Chief Executive Officer K. R. Nandini said the primary objective of the camp is to encourage reading, writing, creative arts, and special games. The initiative aims to ensure that children from rural areas utilise their summer holidays in an enjoyable and productive manner",
+    "img": "https://th-i.thgim.com/public/incoming/jhyfzi/article70878353.ece/alternates/LANDSCAPE_1200/2303_18_4_2026_13_39_12_1_RURALSUMMERCAMP.JPEG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/nmc-proposes-to-ease-norms-for-establishing-medical-college-tighten-pg-education-standards/article70877366.ece",
-    "time": "2026-04-18T12:48:20.000Z"
+    "url": "https://www.thehindu.com/news/national/karnataka/rural-summer-camp-akkareya-angala-launched-for-children-in-mandya-district-of-karnataka/article70876808.ece",
+    "time": "2026-04-18T15:19:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Samay Raina recalls chilling trauma of Kashmiri Pandit exodus",
+    "desc": "Stand-up comedian Samay Raina has once again spoken about the deep scars left by the Kashmiri Pandit exodus, this time offering a more personal and detailed account of how it impacted his family across generations. Recalling the fear that gripped his family, Raina revealed how his maternal grandfather was directly under threat. Amid the violence, Raina highlighted how his family managed to escape.",
+    "img": "https://static.toiimg.com/photo/msid-130356540,imgsize-23606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-raina-recalls-chilling-kashmiri-pandit-exodus-trauma-grandfather-was-on-kill-list-says-kashmiri-muslims-helped-him-escape/articleshow/130356540.cms",
+    "time": "2026-04-18T15:02:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "On way to 4th largest, how India slipped to 6th rank &amp; what it means for 3rd largest economy dream",
+    "desc": "In fact, IMF’s latest World Economic Outlook (April 2026) sees India sitting at the sixth spot this financial year too. What has led to the sudden fall? Why has India dropped to the sixth position, falling behind the UK, instead of overtaking Japan to become the fourth largest economy?",
+    "img": "https://static.toiimg.com/photo/msid-130356717,imgsize-77942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/explained-on-way-to-4th-largest-how-india-slipped-to-6th-rank-what-it-means-for-3rd-largest-economy-dream/articleshow/130356662.cms",
+    "time": "2026-04-18T14:57:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "New BJP-led govt. in Bihar to undergo floor test on April 24",
+    "desc": "As the number of NDA legislators in the State Assembly stands at a whopping 201 and the Opposition 41 MLAs in the 243-member Assembly, the new government led by Samrat Choudhary is likely to sail through the floor test",
+    "img": "https://th-i.thgim.com/public/incoming/r6ycnt/article70878222.ece/alternates/LANDSCAPE_1200/PTI04_18_2026_000105B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/new-bjp-led-govt-in-bihar-to-undergo-floor-test-on-april-24/article70877648.ece",
+    "time": "2026-04-18T14:48:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Miller redeems himself with last-over finish as DC chase down 176 vs RCB",
+    "desc": "After losing three wickets in the powerplay, DC recovered through Rahul (57 off 34 balls), Stubbs (60 not out off 47 balls) and Axar Patel (26 retired hurt). Rahul steadied the innings after an early collapse and targeted Josh Hazlewood, hitting him for two sixes and three fours. He reached his fifty in 30 balls before falling to Krunal Pandya, caught by Virat Kohli at long-on.",
+    "img": "https://static.toiimg.com/photo/msid-130356441,imgsize-51024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-david-miller-redeems-himself-with-last-over-finish-as-dc-chase-down-176-vs-rcb/articleshow/130356204.cms",
+    "time": "2026-04-18T14:45:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tim David scripts history, becomes second-fastest player after Russell to...",
+    "desc": "Australia’s Tim David became the second-fastest to 1,000 IPL runs, reaching the mark in 560 balls during RCB’s clash against Delhi Capitals. Despite his milestone, RCB posted 175/8 and lost by six wickets. KL Rahul (57) and Tristan Stubbs (60*) led DC’s chase, while David Miller finished with late sixes to seal the win.",
+    "img": "https://static.toiimg.com/photo/msid-130356446,imgsize-73444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-rcb-batter-tim-david-scripts-history-becomes-second-fastest-player-after-andre-russell-to-/articleshow/130356119.cms",
+    "time": "2026-04-18T14:43:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress and its allies ‘celebrated’ setback to women’s 33% reservation push: BJP",
+    "desc": "BJP leaders Ravi Shankar Prasad and Smriti Irani accuse the Congress of a ‘history’ of neglecting women’s welfare and sabotaging its own Bills, and treating women as political tools rather than respecting them as equal citizens",
+    "img": "https://th-i.thgim.com/public/incoming/dlgnpb/article70878147.ece/alternates/LANDSCAPE_1200/BJP%20PC%20DELHI_18_04_8.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-and-its-allies-celebrated-setback-to-womens-33-reservation-push-bjp/article70877925.ece",
+    "time": "2026-04-18T14:32:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Troubles DMK, Congress to see ordinary women rise’: PM Modi at Coimbatore rally",
+    "desc": "Prime Minister Narendra Modi expressed pain and anger over the failure of the women's reservation bill, accusing the DMK, Congress, and their allies of engaging in \"hatred and petty politics.\" He stated that the DMK \"harms women\" and \"doesn't stand with women in parliament,\" predicting a response for their \"anti-women stand\"",
+    "img": "https://static.toiimg.com/photo/msid-130355576,imgsize-29100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/troubles-dmk-congress-to-see-ordinary-women-rise-pm-modi-at-coimbatore-rally/articleshow/130355437.cms",
+    "time": "2026-04-18T14:14:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parade Ground’s historic legacy eclipsed by years of neglect",
+    "desc": "After being given a facelift as one of the practice turfs for the FIFA Under-17 World Cup, the ground, one of the few open spaces available to sports enthusiasts in West Kochi, has seen little maintenance since",
+    "img": "https://th-i.thgim.com/public/incoming/gyfsf3/article70877899.ece/alternates/LANDSCAPE_1200/Parade_ground_02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/parade-grounds-historic-legacy-eclipsed-by-years-of-neglect/article70876454.ece",
+    "time": "2026-04-18T14:11:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Can women’s quota be implemented before 2029 general elections?",
+    "desc": "The Constitution (131st) Amendment Bill, 2026, which sought to redistribute Lok Sabha seats on the basis of the 2011 Census to expedite the implementation of women’s reservation was defeated on the floor of the Lok Sabha on Friday. But what does it mean for the future of 33% reservation for women in Parliament and State legislatures and can the women’s quota be implemented under any scenario before the 2029 general elections?",
+    "img": "https://th-i.thgim.com/public/incoming/5rwh5p/article70877824.ece/alternates/LANDSCAPE_1200/PTI04_17_2026_000551B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/can-womens-quota-be-implemented-before-2029-general-elections-explained/article70877688.ece",
+    "time": "2026-04-18T14:07:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SP calls for a tight vigil on repeat offenders to combat crime in Sathya Sai district",
+    "desc": "Says policing should be both visible on the ground and smart in its approach to build public trust; directs the police to track repeat offenders and act firmly against those who pose a threat to public safety",
+    "img": "https://th-i.thgim.com/public/incoming/jpc04g/article70878027.ece/alternates/LANDSCAPE_1200/10215_18_4_2026_19_19_25_1_IMG_20260418_WA0046.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/sp-calls-for-a-tight-vigil-on-repeat-offenders-to-combat-crime-in-sathya-sai-district/article70877396.ece",
+    "time": "2026-04-18T13:59:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Women move on'",
+    "desc": "The Revenge, is finally enjoying a phase of recognition that has been a long time coming. Amid the appreciation, the actor also opened up about a deeply personal chapter from his past and how it continues to shape his emotional boundaries today—especially when it comes to marriage.",
+    "img": "https://static.toiimg.com/photo/msid-130355548,imgsize-42410.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-dhurandhar-gaurav-gera-says-i-have-started-getting-more-respect-past-love-shaped-his-views-on-marriage-i-feel-women-move-on/articleshow/130355548.cms",
+    "time": "2026-04-18T13:59:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Union Cabinet approves new railway lines at a cost of ₹9,889 crore in Andhra Pradesh",
+    "desc": "The 198-km-long third and fourth lines between Rajahmundry and Visakhapatnam is expected to improve connectivity to major ports, boost access to tourist destinations, and lead to an additional freight traffic of 29.04 million tonnes per annum",
+    "img": "https://th-i.thgim.com/public/incoming/yg6j3w/article70877933.ece/alternates/LANDSCAPE_1200/10215_18_4_2026_18_14_56_1_MAPJPG.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/union-cabinet-approves-new-railway-lines-at-a-cost-of-9889-crore-in-andhra-pradesh/article70877644.ece",
+    "time": "2026-04-18T13:53:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'They made a big mistake': PM Modi directs ministers to expose opposition's 'anti-women' stand",
+    "desc": "Prime Minister Modi asserted that opposition parties will face repercussions for not backing the women's reservation bill, urging ministers to highlight their \"anti-women\" stance. He reiterated the government's commitment to implement the reservation by 2029, accusing the opposition of a \"big mistake\" and attempting to cover up their actions after the bill's defeat in Lok Sabha.",
+    "img": "https://static.toiimg.com/photo/msid-130355130,imgsize-1074576.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/they-made-a-big-mistake-pm-modi-directs-ministers-to-expose-oppositions-anti-women-stand/articleshow/130354958.cms",
+    "time": "2026-04-18T13:34:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Archana flags 13–14 hour shifts, no lunch breaks on sets",
+    "desc": "The conversation around long working hours and lack of basic amenities on film sets is refusing to die down, with more actors sharing first-hand experiences from the ground. The cast of Toaster—Rajkummar Rao, Sanya Malhotra, Abhishek Banerjee and Archana Puran Singh—recently weighed in, shedding light on how even basic needs are sometimes overlooked during shoots.",
+    "img": "https://static.toiimg.com/photo/msid-130354495,imgsize-51176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/archana-puran-singh-flags-1314-hour-shifts-no-lunch-breaks-lack-of-basic-facilities-on-film-sets-kanjoosi-is-a-mentality/articleshow/130354495.cms",
+    "time": "2026-04-18T13:20:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Allahabad high court stays FIR order against Rahul Gandhi in dual citizenship case",
+    "desc": "The Allahabad high court has temporarily halted its order for an FIR against Rahul Gandhi concerning alleged dual citizenship. The court emphasized the need to hear the accused before any decision. This follows an earlier directive to register a case based on claims of concealed British citizenship during company incorporation. The probe's transfer to a central agency was also permitted.",
+    "img": "https://static.toiimg.com/photo/msid-130354175,imgsize-930719.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/allahabad-high-court-stays-fir-order-against-rahul-gandhi-in-dual-citizenship-case/articleshow/130354158.cms",
+    "time": "2026-04-18T12:47:16.000Z"
   },
   {
     "cat": "Sports",
@@ -16,6 +151,24 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-harbhajan-singh-drops-big-take-calls-ashish-nehra-a-football-coach/articleshow/130353506.cms",
     "time": "2026-04-18T12:40:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay talks about Rs 8–9L per day fee during 'Jaani Dushman'",
+    "desc": "Ek Anokhi Kahani', revealing that he raked in an astonishing Rs 8-9 lakh daily. As he celebrates the launch of his latest venture 'Bhooth Bangla', this nostalgic glimpse into the past has fans buzzing with excitement. Read the full article to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-130353820,imgsize-68532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-opens-up-about-rs-89-lakh-per-day-fee-during-jaani-dushman-era/articleshow/130353820.cms",
+    "time": "2026-04-18T12:36:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘No one can call me anti-women’: Shashi Tharoor shares lighthearted exchange with Kiren Rijiju",
+    "desc": "Congress MP Shashi Tharoor shared a lighthearted exchange with Parliamentary Affairs Minister Kiren Rijiju, where Rijiju conceded Tharoor couldn't be labelled anti-women. This follows the defeat of a bill proposing 33% women's reservation in legislatures, which aimed to increase Lok Sabha seats. The government's proposal faced opposition, with the Congress criticising the timing and linkage to delimitation.",
+    "img": "https://static.toiimg.com/photo/msid-130354211,imgsize-36602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-one-can-call-me-anti-women-shashi-tharoor-shares-lighthearted-exchange-with-kiren-rijiju/articleshow/130353940.cms",
+    "time": "2026-04-18T12:34:24.000Z"
   },
   {
     "cat": "Politics",
@@ -28,7 +181,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Indian tankers turn back amid Iran's mixed Hormuz signals; gunfire hits other ships",
+    "title": "Indian-flagged tanker among ships targeted as Iran closes strait again",
     "desc": "Mixed signals from Iran regarding the Strait of Hormuz have caused Indian and Greek crude tankers to turn back amid heightened tensions. Uncertainty over passage through the vital chokepoint deepened after conflicting reports from Tehran, with some merchant ships also reporting gunfire in the troubled waterway.",
     "img": "https://static.toiimg.com/photo/msid-130353594,imgsize-520159.cms",
     "src": "indiatimes.com",
@@ -36,13 +189,13 @@ const newsData_en = [
     "time": "2026-04-18T12:17:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Manipur CM",
-    "desc": "\"The briefing by IGAR [South] Major General Gaurav Sharma at the secretariat today reaffirmed that the law and order situation in the State is sensitive but under control, with security forces responding to all disturbances with utmost care and restraint,\" says Chief Minister",
-    "img": "https://th-i.thgim.com/public/incoming/i5ljri/article70877440.ece/alternates/LANDSCAPE_1200/PTI02_04_2026_000349B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/manipur/law-and-order-remain-sensitive-but-under-control-manipur-cm/article70877386.ece",
-    "time": "2026-04-18T12:13:29.000Z"
+    "cat": "Sports",
+    "title": "Tim David denies single, falls next ball as costly blunder triggers RCB slide",
+    "desc": "Tim David's refusal of a single proved costly as Royal Challengers Bengaluru faltered in their chase against Delhi Capitals. David's dismissal for 26 off 17 balls, after turning down a run, marked a significant shift in momentum. Earlier, a disciplined bowling effort from Delhi restricted RCB to 175 for 8, despite a strong start from Phil Salt.",
+    "img": "https://static.toiimg.com/photo/msid-130352697,imgsize-1290435.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-tim-david-denies-single-falls-next-ball-as-costly-blunder-triggers-rcb-slide/articleshow/130352689.cms",
+    "time": "2026-04-18T12:11:36.000Z"
   },
   {
     "cat": "Politics",
@@ -52,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-another-indian-oil-tanker-crosses-hormuz-pm-modi-to-address-nation-tonight-and-more/articleshow/130353225.cms",
     "time": "2026-04-18T12:10:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Parliament adjourns sine die a day after Opposition defeats Constitution Amendment Bill",
-    "desc": "The session drew to a close with a symbolic first — all six stanzas of Vande Mataram were rendered in the Lok Sabha, following a government directive mandating the rendition of the full version at official events and public functions",
-    "img": "https://th-i.thgim.com/public/incoming/uftuix/article70876670.ece/alternates/LANDSCAPE_1200/PTI04_18_2026_000052B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/parliament-adjourned-sine-die-budget-session-concludes/article70876654.ece",
-    "time": "2026-04-18T12:08:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -99,15 +243,6 @@ const newsData_en = [
     "time": "2026-04-18T11:22:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ISRO chief Narayanan",
-    "desc": "Addressing scientists from DRDO, ISRO, and the Aeronautical Society of India at the Engineering Staff College of India, Dr. Narayanan also said India is the first country to succeed in placing 104 satellites, more than 100 satellites using a single rocket without any collision.",
-    "img": "https://th-i.thgim.com/public/incoming/9j9fz2/article70877126.ece/alternates/LANDSCAPE_1200/PTI10_23_2025_000057B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/g20-satellite-expected-to-be-launched-in-2027-isro-chief-narayanan/article70877084.ece",
-    "time": "2026-04-18T10:48:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "French film star Nathalie Baye dead at 77, says family",
     "desc": "Nathalie Baye, a stalwart of French cinema, starred in some 80 films and took home the best actress Cesar — France’s equivalent of the Oscars — four times, including three years running from 1981 to 1983",
@@ -144,24 +279,6 @@ const newsData_en = [
     "time": "2026-04-18T10:28:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Telangana Govt pushes for free MMTS travel to boost use of public transport, offers to bear ticket fares",
-    "desc": "The high-level interaction primarily focused on resolving pending issues related to land acquisition, shifting of utilities and other bottlenecks hampering the construction of several proposed road overbridges and road underbridges (ROB/RUBs) within and outside the capital region",
-    "img": "https://th-i.thgim.com/public/incoming/pelasb/article70870508.ece/alternates/LANDSCAPE_1200/SCR.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/government-pushes-for-free-mmts-travel-to-boost-use-of-public-transport/article70870387.ece",
-    "time": "2026-04-18T10:27:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Priyanka Gandhi praises Revanth’s alternative suggestions on delimitation",
-    "desc": "Ms. Gandhi expressed these views when the Chief Minister called on her in New Delhi on Saturday (April 18, 2026) to congratulate her in ensuring the ‘undemocratic’ [Constitution (131st Amendment)] bill was stalled in the Parliament.",
-    "img": "https://th-i.thgim.com/public/news/national/telangana/v0pnk2/article70876679.ece/alternates/LANDSCAPE_1200/Priyanka%20.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/priyanka-gandhi-praises-revanths-alternative-suggestions-on-delimitation/article70876678.ece",
-    "time": "2026-04-18T10:15:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "Pakistan Army chief Munir concludes three-day Iran visit",
     "desc": "Syed Asim Munir, who was heading a high-level delegation to Iran, landed in Tehran on April 15, becoming the first foreign military leader to visit the country since a two-week ceasefire was agreed between Iran and the U.S. on April 8",
@@ -169,15 +286,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/pakistan-army-chief-munir-concludes-three-day-iran-visit/article70876894.ece",
     "time": "2026-04-18T10:14:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nashik court sends 'godman' Kharat to judicial custody till April 30 in fourth sexual assault case",
-    "desc": "The court had earlier remanded Kharat in the custody of the Special Investigation Team (SIT) in this case till April 18. The SIT is probing the cases of sexual assault and financial fraud registered against him",
-    "img": "https://th-i.thgim.com/public/incoming/m4fzxa/article70877083.ece/alternates/LANDSCAPE_1200/IMG_1001653838_2_1_U5FQAMPU.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/nashik-court-sends-godman-kharat-to-judicial-custody-till-april-30-in-fourth-sexual-assault-case/article70877064.ece",
-    "time": "2026-04-18T09:46:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -196,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-why-are-rcb-wearing-green-jersey-against-dc-at-m-chinnaswamy/articleshow/130350519.cms",
     "time": "2026-04-18T09:37:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Palaniswami accuses Sengottaiyan of being a ‘DMK spy’",
-    "desc": "Taking a dig at the former Minister in his home turf, from where he was elected eight times as an AIADMK candidate, Mr. Palaniswami alleged that the MLA had “treated the people of the constituency like slaves” and owed his electoral success to party functionaries and cadre, rather than personal merit",
-    "img": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/2hr9ol/article70876831.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-18%20at%2011.47.15.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-election-palaniswami-accuses-sengottaiyan-of-being-a-dmk-spy/article70876589.ece",
-    "time": "2026-04-18T09:37:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -250,24 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-ott-rights-sealed-rajinikanth-starrer-sets-a-new-record-for-a-kollywood-film/articleshow/130349940.cms",
     "time": "2026-04-18T08:33:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul Gandhi on delimitation row",
-    "desc": "Rahul Gandhi attacked the BJP and AIADMK in Tamil Nadu, alleging the latter has been taken over by the BJP. He defended Tamil language and culture, stating he feels personally connected to the state's struggles against the RSS and BJP. Gandhi also criticized the BJP's economic policies and legislative tactics.",
-    "img": "https://static.toiimg.com/photo/msid-130349581,imgsize-25856.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/aiadmk-being-eaten-up-from-within-by-bjp-rahul-gandhi-ahead-of-tamil-nadu-polls/articleshow/130349425.cms",
-    "time": "2026-04-18T08:19:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Shouldn't be considered failure of govt ...': Rijiju on women's reservation bill not clearing LS",
-    "desc": "The government faced a setback as the women's reservation bill failed to pass in the Lok Sabha, requiring a two-thirds majority. Union Minister Kiren Rijiju blamed the Congress and opposition parties, calling it an anti-women stance and a significant blow to the nation. The opposition, while supporting reservation, opposed its linkage with delimitation and census.",
-    "img": "https://static.toiimg.com/photo/msid-130349607,imgsize-417957.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/shouldnt-be-considered-failure-of-govt-rijiju-on-womens-reservation-bill-not-clearing-ls/articleshow/130349618.cms",
-    "time": "2026-04-18T08:05:17.000Z"
   },
   {
     "cat": "Business",
@@ -369,24 +450,6 @@ const newsData_en = [
     "time": "2026-04-18T07:01:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rajkummar calls out producers for rationing food on film sets",
-    "desc": "Bollywood actors Archana Puran Singh, Sanya Malhotra, and Abhishek Banerjee reveal shocking realities of stingy producers on sets, from food rationing to skipped lunch breaks. They contrast these experiences with the generous environment on Rajkummar Rao and Patralekhaa's production 'Toaster', highlighting the importance of crew welfare and empathy in filmmaking. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130348528,imgsize-127668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/one-piece-of-meat-two-rotis-rajkummar-rao-and-sanya-malhotra-cast-call-out-producers-for-rationing-food-on-film-sets/articleshow/130348528.cms",
-    "time": "2026-04-18T06:56:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Black day for Centre, they felt a shock for first time': Priyanka on delimitation bill defeat",
-    "desc": "Priyanka Gandhi Vadra hailed the defeat of the Delimitation Bill as a victory for democracy, accusing the Centre of a conspiracy to alter the federal structure. The bill, which proposed women's reservation linked to delimitation, failed to secure the required majority in the Lok Sabha. Opposition parties, while supporting women's reservation in principle, opposed its linkage with delimitation and census.",
-    "img": "https://static.toiimg.com/photo/msid-130348513,imgsize-1568539.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/big-win-for-democracy-priyanka-gandhi-after-delimitation-bill-defeated-in-lok-sabha/articleshow/130348523.cms",
-    "time": "2026-04-18T06:45:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Big shake-up! Pakistan announce fresh coaching staff for Bangladesh tour",
     "desc": "Pakistan have announced a 16-member squad for their upcoming Test series against Bangladesh, led by captain Shan Masood. The revamped side includes four uncapped players, aiming to improve their position in the ICC World Test Championship. The series begins May 8, with a new coaching setup also in place.",
@@ -394,33 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/big-shake-up-pakistan-announce-fresh-coaching-staff-for-bangladesh-tour/articleshow/130348313.cms",
     "time": "2026-04-18T06:44:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tory Lanez filed lawsuit against California Prison System",
-    "desc": "In a dramatic turn of events, rapper Tory Lanez has launched a staggering $100 million lawsuit against the California Prison System. The complaint stems from a harrowing stabbing incident last year where Lanez claims he was left vulnerable to a brutal attack by an inmate named Casio, who allegedly delivered 16 stab wounds.",
-    "img": "https://static.toiimg.com/photo/msid-130348376,imgsize-91954.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/tory-lanez-seeks-usd-100-million-in-lawsuit-from-california-prison-system-following-stabbing-last-year-report/articleshow/130348376.cms",
-    "time": "2026-04-18T06:36:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sabrina Carpenter returns to Coachella for weekend 2",
-    "desc": "Pop sensation Sabrina Carpenter is set to headline Coachella's second weekend on April 17, 2026, following a spectacular debut. Her first performance, dubbed \"Sabrinawood,\" featured surprise guests and a memorable monologue. The festival also boasts headliners Justin Bieber on Saturday and Karol G on Sunday, promising a star-studded event.",
-    "img": "https://static.toiimg.com/photo/msid-130348197,imgsize-97706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/sabrina-carpenter-makes-triumphant-return-to-coachella-as-weekend-2-headliner/articleshow/130348197.cms",
-    "time": "2026-04-18T06:26:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Both Houses adjourned sine die, Budget session concludes",
-    "desc": "The Budget Session of Parliament concluded sine die after the women's reservation Bill failed to pass in the Lok Sabha, falling short of the required two-thirds majority. The government also deferred the contentious delimitation proposal amid Opposition pushback, ending the session on a politically charged note.",
-    "img": "https://static.toiimg.com/photo/msid-130348243,imgsize-1194082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/parliament-special-session-both-houses-adjourned-sine-die-budget-session-concludes/articleshow/130348246.cms",
-    "time": "2026-04-18T06:20:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,15 +468,6 @@ const newsData_en = [
     "time": "2026-04-18T06:07:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Eminem’s daughter Alaina Scott welcomes baby girl Scottie",
-    "desc": "Eminem's adopted daughter, Alaina Scott, has joyfully welcomed her first child, a baby girl named Scottie Marie, with husband Matt Moeller. The proud new mother shared the news on Instagram, expressing her immense love and the touching inspiration behind her daughter's name. This marks Eminem's second grandchild, as his other daughter, Hailie Jade, also recently became a mother.",
-    "img": "https://static.toiimg.com/photo/msid-130348015,imgsize-138622.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/eminems-eldest-daughter-alaina-scott-welcomes-her-first-baby-and-shares-the-story-behind-the-name-scottie-marie/articleshow/130348015.cms",
-    "time": "2026-04-18T06:06:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "5 players battle to watch in today's match of RCB vs DC",
     "desc": "Royal Challengers Bengaluru, enjoying a strong IPL 2026 season, host Delhi Capitals on April 18th. RCB's potent batting and balanced bowling face a mixed DC side aiming to rebound. Key player battles, including Kohli vs. Axar Patel and Rahul vs. Bhuvneshwar Kumar, are set to ignite this crucial encounter.",
@@ -450,15 +477,6 @@ const newsData_en = [
     "time": "2026-04-18T05:59:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Toaster' Rajkummar to limit work to two films a year for THIS",
-    "desc": "Becoming a father has given Rajkummar Rao a new lens through which he views life and work. He's embraced a gentler side of himself and is now focused on a career shift that emphasizes quality over quantity. With a commitment to making his daughter, Parvati, proud, he's decided to take on only two films each year. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-130347841,imgsize-116386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-want-to-see-her-growing-toaster-rajkummar-rao-to-limit-work-to-two-films-a-year-for-daughter-parvati/articleshow/130347841.cms",
-    "time": "2026-04-18T05:56:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Iran rejects 'traditional toll' but plans fees to secure Hormuz",
     "desc": "Iran is planning to implement new transit fees to regulate ship movement through the Strait of Hormuz, requiring prior coordination with Iranian authorities for passage. While \"friendly\" vessels will be permitted, \"hostile military vessels\" from the US and Israel will be denied entry. Iran asserts its sole control over the strait's management and security.",
@@ -466,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/iran-rejects-traditional-toll-but-plans-fees-to-secure-strait-of-hormuz-what-it-means/articleshow/130347882.cms",
     "time": "2026-04-18T05:54:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I woke up ... ': LizLaz breaks silence after Virat Kohli 'likes' then unlikes her pic",
-    "desc": "Cricket star Virat Kohli's recent 'like' on German model LizLaz's photo has gone viral, sparking social media buzz. Laz, surprised by the attention, expressed gratitude and admitted to being an RCB fan. This incident echoes a similar past event involving another influencer, prompting Kohli to issue a clarification about algorithmic errors.",
-    "img": "https://static.toiimg.com/photo/msid-130347832,imgsize-28664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-woke-up-and-lizlaz-breaks-silence-after-virat-kohli-likes-then-unlikes-her-pic/articleshow/130347797.cms",
-    "time": "2026-04-18T05:48:20.000Z"
   },
   {
     "cat": "Business",
@@ -547,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/russian-oil-sanctions-us-extends-waiver-for-cargoes-already-at-sea/articleshow/130345925.cms",
     "time": "2026-04-18T03:00:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KKR's next coach decided? Kevin Pietersen makes bold prediction",
-    "desc": "Kolkata Knight Riders are in a deep slump, losing their fifth match and sitting at the bottom of the IPL 2026 table. Despite a coaching change, results remain elusive. Former England batter Kevin Pietersen has predicted a return for ex-coach Brendon McCullum next season. Captain Ajinkya Rahane acknowledged the tough losses but highlighted positive individual performances.",
-    "img": "https://static.toiimg.com/photo/msid-130345610,imgsize-68102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-kkrs-next-coach-decided-kevin-pietersen-makes-bold-prediction/articleshow/130345613.cms",
-    "time": "2026-04-18T01:22:33.000Z"
   },
   {
     "cat": "Entertainment",

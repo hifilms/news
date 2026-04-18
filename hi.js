@@ -1,7 +1,52 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Upbeat Chennai Super Kings up against Sunrisers Hyderabad",
+    "title": "Neeraj Chopra reveals problems that led to split with coach Jan Zelezny",
+    "desc": "Neeraj Chopra has opened up on the factors behind his disappointing outing at the 2025 World Championships in Tokyo, where he finished eighth and brought an end to a long-standing streak of top-two finishes in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-reveals-problems-that-led-to-split-with-coach-jan-zelezny-2026-04-18-1038023",
+    "time": "2026-04-18T15:27:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Stubbs, Rahul and Miller's late blitzkrieg takes Delhi to top four in IPL 2026, RCB suffer second defeat",
+    "desc": "Delhi Capitals defeated Royal Challengers Bengaluru by six wickets at the M Chinnaswamy Stadium. After two consecutive defeats, the Axar Patel-led side enjoyed a small break and returned to action with a marquee win. They...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/stubbs-rahul-and-miller-s-late-blitzkrieg-takes-delhi-to-top-four-in-ipl-2026-rcb-suffer-second-defeat-2026-04-18-1038019",
+    "time": "2026-04-18T14:51:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Khaleel Ahmed not playing today's IPL 2026 clash for CSK against SRH in Hyderabad?",
+    "desc": "Khaleel Ahmed was not part of Chennai Super Kings' playing XI as they take on Sunrisers Hyderabad in their sixth match of the Indian Premier League 2026 at the Rajiv Gandhi International Stadium, Hyderabad, on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-khaleel-ahmed-not-playing-todays-ipl-2026-clash-for-csk-against-srh-in-hyderabad-2026-04-18-1038016",
+    "time": "2026-04-18T14:13:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is Pat Cummins playing for SRH in IPL 2026 clash against CSK in Hyderabad?",
+    "desc": "Pat Cummins missed out as Sunrisers Hyderabad host Chennai Super Kings in their sixth match of the Indian Premier League 2026 at the Rajiv Gandhi International Stadium, Hyderabad, on Saturday, April 18. Cummins has returned...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-pat-cummins-playing-for-srh-in-ipl-2026-clash-against-csk-in-hyderabad-2026-04-18-1038015",
+    "time": "2026-04-18T13:52:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is MS Dhoni playing today's IPL 2026 clash for CSK against SRH at Rajiv Gandhi International Stadium?",
+    "desc": "The wait continues for the Chennai Super Kings fans as MS Dhoni is not yet fit enough to return to action. After he travelled with the team to Hyderabad for the clash against SRH, there...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-ms-dhoni-playing-today-s-ipl-2026-clash-for-csk-against-srh-at-rajiv-gandhi-international-stadium-2026-04-18-1038014",
+    "time": "2026-04-18T13:47:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunrisers openers look for strong start in Hyderabad",
     "desc": "Having unveiled two exciting pace prospects in Praful Hinge and Sakib Husain, a well-rounded Sunrisers Hyderabad head into their IPL clash against Chennai Super Kings on Saturday with renewed belief. Brought in for experienced campaigners...",
     "img": "",
     "src": "indiatvnews.com",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-breaks-rohit-sharma-s-legendary-record-for-india-in-first-t20i-vs-south-africa-2026-04-18-1037996",
     "time": "2026-04-18T10:59:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB create IPL history, become first team to achieve never-seen-before record",
-    "desc": "Royal Challengers Bengaluru have etched their name into the history books after taking the field in the clash against the Delhi Capitals at the M.Chinnaswamy Stadium on Saturday, April 18. The defending champions are looking...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-create-ipl-history-become-first-team-to-achieve-never-seen-before-record-2026-04-18-1037994",
-    "time": "2026-04-18T10:45:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Royal Challengers Bengaluru wearing green jersey against Delhi Capitals?",
-    "desc": "The 26th game of the ongoing IPL (Indian Premier League) 2026 sees Royal Challengers Bengaluru taking on Delhi Capitals. The two sides take on each other at the M Chinnaswamy Stadium in Bengaluru, and both...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2026-why-is-royal-challengers-bengaluru-wearing-green-jersey-against-delhi-capitals-2026-04-18-1037989",
-    "time": "2026-04-18T09:43:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB vs DC, 26th IPL 2026 LIVE cricket score: Virat Kohli departs, Bengaluru off to strong start",
-    "desc": "Royal Challengers Bengaluru host Delhi Capitals at the M Chinnaswamy Stadium on April 18. Notably, this will be their 100th IPL match at the ground, arriving 18 years after their first appearance there. But more...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-dc-26th-ipl-2026-live-cricket-score-royal-challengers-bengaluru-vs-delhi-capitals-latest-match-updates-playing-xi-2026-04-18-1037988",
-    "time": "2026-04-18T09:37:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer points out Jasprit Bumrah's trouble as dismal season with MI continues",
-    "desc": "The ongoing IPL (Indian Premier League) 2026 season has been one to forget for five-time champions Mumbai Indians so far. The side sits in ninth place in the standings with one loss and four losses...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-points-out-jasprit-bumrah-s-trouble-as-dismal-season-with-mi-continues-2026-04-18-1037987",
-    "time": "2026-04-18T09:27:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anil Kumble slams KKR's think tank for lack of game awareness against Gujarat Titans",
-    "desc": "Chasing 181 runs against Kolkata Knight Riders, Gujarat Titans were off to a flying start as Shubman Gill launched a scathing attack. His opening partner, Sai Sudharsan, looked in decent touch, but the youngster once...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/anil-kumble-slams-kkr-s-think-tank-for-lack-of-game-awareness-against-gujarat-titans-2026-04-18-1037982",
-    "time": "2026-04-18T08:42:57.000Z"
   }
 ];
