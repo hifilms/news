@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sunrisers Hyderabad announce Gerald Coetzee as replacement signing for the injured David Payne",
+    "desc": "In a major development for Sunrisers Hyderabad, the franchise took centre stage and announced the signing of South Africa’s Gerald Coetzee as a replacement signing for the injured David Payne. It is worth noting that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-hyderabad-announce-gerald-coetzee-as-replacement-signing-for-the-injured-david-payne-2026-04-18-1037961",
+    "time": "2026-04-18T05:01:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head-to-Head record ahead of game 26 in IPL 2026",
+    "desc": "The stage is set for the 26th game of the ongoing IPL (Indian Premier League) 2026. Defending champions Royal Challengers Bengaluru will take on Delhi Capitals at the M Chinnaswamy Stadium in Bengaluru on April...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-dc-head-to-head-record-ahead-of-game-26-in-ipl-2026-2026-04-18-1037957",
+    "time": "2026-04-18T04:04:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Quality player': Stephen Fleming backs CSK skipper Ruturaj Gaikwad to improve amid subpar form",
+    "desc": "Chennai Super Kings have had a roller coaster of a season in the ongoing edition of the IPL (Indian Premier League) 2026. With five matches played in the tournament so far, Chennai Super Kings have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/quality-player-stephen-fleming-backs-csk-skipper-ruturaj-gaikwad-to-improve-amid-subpar-form-2026-04-18-1037950",
+    "time": "2026-04-18T02:35:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kolkata Knight Riders join MI, RCB in unwanted list as dismal run in IPL 2026 continues",
     "desc": "Kolkata Knight Riders’ abysmal run in the ongoing IPL (Indian Premier League) 2026 season continued. With six matches played in the tournament, KKR have lost five matches, and one match has produced no result due...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/australia-announce-white-ball-bangladesh-tour-in-june-match-timings-could-be-affected-due-to-fuel-shortage-2026-04-17-1037920",
     "time": "2026-04-17T14:29:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Finn Allen not playing vs Gujarat Titans in IPL 2026 clash in Ahmedabad?",
-    "desc": "Kolkata Knight Riders have dropped Finn Allen from their playing XI against Gujarat Titans in the ongoing IPL 2026. Captain Ajinkya Rahane confirmed the development after winning the toss and electing to bat first. Meanwhile,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-finn-allen-not-playing-vs-gujarat-titans-in-ipl-2026-clash-in-ahmedabad-2026-04-17-1037913",
-    "time": "2026-04-17T13:44:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MI head coach Mahela Jayawardene opens up on star player's recovery",
-    "desc": "Mumbai Indians missed their former captain Rohit Sharma in the game against the Punjab Kings at the Wankhede Stadium on Thursday (April 16). He suffered a hamstring injury during the game against the Royal Challengers...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-injury-update-mi-head-coach-mahela-jayawardene-opens-up-on-star-player-s-recovery-2026-04-17-1037905",
-    "time": "2026-04-17T12:36:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Titans' keeper-batter ruled out of IPL 2026, franchise announces replacement",
-    "desc": "Gujarat Titans keeper-batter Tom Banton has been ruled out of the IPL 2026. The England cricketer was signed for his base price of INR 2 crore and was expected to bring some relief to the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-titans-keeper-batter-ruled-out-of-ipl-2026-franchise-announces-replacement-2026-04-17-1037898",
-    "time": "2026-04-17T11:55:11.000Z"
   }
 ];
