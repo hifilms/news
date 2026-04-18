@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "What led to the Noida workers’ protest?",
+    "desc": "What are the key demands of Noida workers? Why are workers dissatisfied with current wages? How are minimum wages determined in Noida? How has the U.P. government responded? What steps has the government taken to address workers’ concerns?",
+    "img": "https://th-i.thgim.com/public/incoming/maz4tu/article70878708.ece/alternates/LANDSCAPE_1200/PTI04_13_2026_000141B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/what-led-to-the-noida-workers-protest/article70877478.ece",
+    "time": "2026-04-18T21:16:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘You taught us how to live, not without you’",
+    "desc": "The music industry is mourning the loss of legendary singer Asha Bhosle, who passed away on April 12, 2026, following cardiac complications. Amid the outpouring of tributes, it is her granddaughter Zanai Bhosle who has been sharing deeply personal moments, reflecting on their bond and the void left behind.",
+    "img": "https://static.toiimg.com/photo/msid-130361788,imgsize-65872.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zanai-bhosle-pens-emotional-note-for-grandmother-asha-bhosle-you-taught-us-how-to-live-but-not-to-live-without-you/articleshow/130361788.cms",
+    "time": "2026-04-18T20:58:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Long-pending demand of Chengalpattu constituency residents for better infrastructure remain unfulfilled",
+    "desc": "With a sizeable farming community, residents of Chengalpattu constituency call for water management projects; they demand that the authorities clean Kolavai Lake and complete a sewer line work; since the district has no minister, residents are unable to take up local issues with those in power",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/m65sd5/article70808804.ece/alternates/LANDSCAPE_1200/chengalpattu%20pic.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/long-pending-demand-of-chengalpattu-constituency-residents-for-better-infrastructure-remain-unfulfilled/article70796999.ece",
+    "time": "2026-04-18T20:21:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In Vellore constituency, residents unhappy over tardy work under Smart Cities Mission project",
+    "desc": "A resident complains that work done under the project drains the taxpayers’ money; other issues that plague the Vellore constituency include improper re-laying of damages stretches that lead to waterlogging during rain and traffic rule violations",
+    "img": "https://th-i.thgim.com/public/incoming/8g49i4/article70797222.ece/alternates/LANDSCAPE_1200/9712_28_3_2026_18_34_24_1__DSC6161.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-2026-in-vellore-assembly-constituency-residents-are-unhappy-over-tardy-work-under-smart-cities-mission-project/article70796249.ece",
+    "time": "2026-04-18T20:18:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Open drains and chaotic traffic hurt Thanjavur constituency’s heritage image",
+    "desc": "Thanjavur, a heritage town continues to grapple with problems such as open drains in a few lanes and by-lanes in the heart of the town, and traffic congestion during weekends and on holy days near Sri Brahadeeswarar Temple, a World Heritage Monument.",
+    "img": "https://th-i.thgim.com/public/incoming/xz732m/article70878923.ece/alternates/LANDSCAPE_1200/BIG%20TEMPLE%20-%20Thanjavur%20%206.jpg.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-elections-2026-open-drains-and-chaotic-traffic-mar-heritage-value-of-thanjavur/article70795243.ece",
+    "time": "2026-04-18T20:11:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vedaparai reservoir project remains a long-pending demand in Anthiyur constituency",
+    "desc": "The constituency has seen several water management proposals, including check dams across the Maniyachi Pallam stream and at Valukkuparai in the hills, along with plans to divert water to the reservoir. While these measures can improve irrigation in the plains, hill residents fear ecological disruption, including impacts on forests, wildlife and traditional livelihoods.",
+    "img": "https://th-i.thgim.com/public/incoming/g0c58d/article70878921.ece/alternates/LANDSCAPE_1200/9870_27_3_2026_11_27_27_2_ER28LAKE2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/vedaparai-reservoir-project-remains-a-long-pending-demand-in-anthiyur-constituency/article70791771.ece",
+    "time": "2026-04-18T19:55:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Punjab’s border farmers caught between fence and Zero Line",
+    "desc": "The Central government’s long-awaited recent move to relocate border fencing in Punjab closer to the international boundary with Pakistan may finally offer farmers the freedom they have awaited for decades. Trapped between the border fence and the Zero Line, farmers are hopeful that they will be able to access their fields freely, have more crop choices, and be free from restricted farming hours and frequent security checks. However, until then, they will have to continue struggling with their existing set of problems, reports Vikas Vasudeva",
+    "img": "https://th-i.thgim.com/public/incoming/7w1d9o/article70878461.ece/alternates/LANDSCAPE_1200/01_RVM_6069.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/punjabs-border-farmers-caught-between-fence-and-zero-line/article70874521.ece",
+    "time": "2026-04-18T19:49:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Justice is served in Sattankulam",
+    "desc": "The judgment in the Sattankulam custodial torture case arrived with the fragrance of justice. The court found nine policemen guilty of the torture and murder of Jayaraj and Benicks, and sentenced them to death. That the father-son duo were beaten to death for keeping their shop open 15 minutes after COVID curfew — as claimed by the police but debunked by the CBI probe — was horrific, but the process of law that followed was bone chilling. That injustice is what the Madurai First Additional District and Sessions judge corrected, activists and the victims’ kin tell C. Palanivel Rajan",
+    "img": "https://th-i.thgim.com/public/incoming/dbvcbn/article70878913.ece/alternates/LANDSCAPE_1200/Sattankulam%20custodial%20deaths%20case-07.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/justice-is-served-in-sattankulam/article70876990.ece",
+    "time": "2026-04-18T19:30:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sriperumbudur constituency voters say infrastructure progress does not match industrialisation pace",
+    "desc": "This industrial hub stands as one of the key drivers of Tamil Nadu’s economic engine. But, from traffic congestion, inadequate public transport, deficiencies in access to basic amenities, and pollution, the gaps in infrastructure are far too many.",
+    "img": "https://th-i.thgim.com/public/incoming/lunqii/article70797492.ece/alternates/LANDSCAPE_1200/BVR_0274_01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/voters-say-infrastructure-progress-in-sriperumbudur-does-not-match-pace-of-industrialisation/article70792658.ece",
+    "time": "2026-04-18T19:24:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Historic legacy of Parade Ground in Fort Kochi marred by years of neglect",
+    "desc": "After being given a facelift as one of the practice turfs for the FIFA Under-17 World Cup, some matches of which were held in Kochi in 2017, the ground, one of the few open spaces available to sports enthusiasts in West Kochi, has seen little maintenance since",
+    "img": "https://th-i.thgim.com/public/incoming/gyfsf3/article70877899.ece/alternates/LANDSCAPE_1200/Parade_ground_02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/parade-grounds-historic-legacy-eclipsed-by-years-of-neglect/article70876454.ece",
+    "time": "2026-04-18T19:18:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Call to save River Bhavani echoes in Mettupalayam constituency",
+    "desc": "The river, originating in the Nilgiris and flowing 216 km through four districts, has over 20 combined drinking water schemes connected to it between Pillur and Lower Bhavani (Bhavanisagar reservoir). It has almost dried up, with water stagnating in small pits between Mettupalayam town and Sirumugai from the first week of March in the ongoing summer.",
+    "img": "https://th-i.thgim.com/public/incoming/plbyn7/article70795465.ece/alternates/LANDSCAPE_1200/9869_21_5_2024_13_0_29_2_PSX_20240521_125243.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/call-to-save-river-bhavani-echoes-as-mettupalayam-braces-for-poll/article70793863.ece",
+    "time": "2026-04-18T19:15:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kattumannarkoil, an agrarian constituency where basic demands of farmers remain unfulfilled",
+    "desc": "Given the caste matrix of the constituency, where there are 2.24 lakh voters with a strong mix of Dalits and Vanniyars, it is the consolidation of these major groups that holds the key. The constituency also has a good concentration of Muslims and has traditionally favoured candidates of the DMK, the Congress and the VCK",
+    "img": "https://th-i.thgim.com/public/incoming/46d5q6/article70793280.ece/alternates/LANDSCAPE_1200/2786_28_2_2024_20_30_15_1_VEERANAM1.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/kattumannarkoil-sc-an-agrarian-constituency-where-even-basic-demands-of-farmers-remain-unfulfilled/article70791540.ece",
+    "time": "2026-04-18T19:13:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Harbour constituency electors pitch for business development, peace and harmony",
+    "desc": "Unauthorised buildings in the congested area near the Central Railway Station is a challenge while sewer network and storm water drains are inadequate for the highly dense population in the area. Traffic congestion is another major issue.",
+    "img": "https://th-i.thgim.com/public/incoming/ocyr74/article70794204.ece/alternates/LANDSCAPE_1200/2501_27_3_2026_9_13_58_2_IMG_4305.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/electors-pitch-for-business-development-peace-and-harmony-in-harbour-assembly-constituency/article70791858.ece",
+    "time": "2026-04-18T19:08:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "PC’s photo dump features Salman-Aishwarya, Madhuri, Sridevi",
+    "desc": "Priyanka Chopra offered fans a glimpse into her recent days with a candid photo dump, capturing everything from quiet personal moments to travel snippets and a dose of Bollywood nostalgia. Adding a nostalgic touch, Priyanka included a still from Hum Dil De Chuke Sanam, originally starring Salman Khan and Aishwarya Rai Bachchan, hinting at her love for classic Hindi cinema.",
+    "img": "https://static.toiimg.com/photo/msid-130361231,imgsize-55018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopras-photo-dump-features-salman-khan-aishwarya-rai-madhuri-dixit-sridevi-films-some-here-some-there-/articleshow/130361231.cms",
+    "time": "2026-04-18T19:05:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gummidipoondi constituency residents want closure of waste disposal facility, restoration of Thamarai lake",
+    "desc": "Some of the burning issues faced by residents of Gummidipoondi constituency are the expansion of the industrial waste disposal facility in SIPCOT industrial complex and health hazards, discharge of sewage into Thamarai lake, lack of public transport facilities, and poor health infrastructure",
+    "img": "https://th-i.thgim.com/public/incoming/rfe4ue/article70795387.ece/alternates/LANDSCAPE_1200/DJI_20260326124233_0065_D.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/residents-want-closure-of-waste-disposal-facility-and-restoration-of-thamarai-lake/article70788262.ece",
+    "time": "2026-04-18T18:51:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Salem North constituency residents demand shifting of two TASMAC outlets",
+    "desc": "At the Kannankurichi town panchayat, most of the lands have been developed into housing plots in the last 15 years and people are willing to buy lands in this panchayat as it is situated near the foothills of Yercaud.",
+    "img": "https://th-i.thgim.com/public/incoming/vznbzn/article70791896.ece/alternates/LANDSCAPE_1200/9869_26_3_2026_19_29_42_2_1000200174.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/residents-demand-shifting-of-two-tasmac-outlets-at-kannankurichi/article70787315.ece",
+    "time": "2026-04-18T18:46:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I was looking at a score around 220-230': Gaikwad after SRH loss",
+    "desc": "Chennai Super Kings lost by 10 runs to Sunrisers Hyderabad after a middle-overs slowdown derailed their chase. Ruturaj Gaikwad said restricting SRH to 194 felt good but scoring just four runs after 10 overs proved costly. Despite strong starts, CSK lost momentum. He praised the bowlers, especially Anshul Kamboj, for consistent performances and clarity in execution.",
+    "img": "https://static.toiimg.com/photo/msid-130360826,imgsize-21884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-i-was-looking-at-a-score-around-220-230-ruturaj-gaikwad-rues-csks-batting-lapse-in-srh-loss/articleshow/130360820.cms",
+    "time": "2026-04-18T18:42:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Inadequate infrastructure plagues Madhavaram constituency amid rapid urbanisation",
+    "desc": "Madhavaram constituency struggles with lack of infrastructure, related problems such as solid waste management and piped drinking water supply. Establishing a Tech City and storm-water drains, developing the lakes, and improving the civic infrastructure will remain top priorities, says MLA",
+    "img": "https://th-i.thgim.com/public/incoming/noy78n/article70791298.ece/alternates/LANDSCAPE_1200/DJI_20251225154537_0076_D.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/inadequate-infrastructure-plagues-madhavaram-constituency-amid-rapid-urbanisation/article70784013.ece",
+    "time": "2026-04-18T18:29:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Encroachments, traffic congestion remain core issues in Anna Nagar constituency",
+    "desc": "Unregulated parking is one of the major issues faced by Anna Nagar residents; they say industrial effluents are being discharged into Otteri Nullah waterway, leading to groundwater contamination and demand the shifting of all mobile eateries to non-residential areas in the constituency",
+    "img": "https://th-i.thgim.com/public/incoming/nkbmez/article70785598.ece/alternates/LANDSCAPE_1200/Traffic_5.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-election-2026-encroachments-traffic-congestion-remain-core-issues-in-anna-nagar/article70783864.ece",
+    "time": "2026-04-18T18:27:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SRH bowlers hold nerve, choke CSK in final overs to seal 10-run thriller",
+    "desc": "Sunrisers Hyderabad secured a tense 10-run victory over Chennai Super Kings, with Eshan Malinga and Shivang Kumar's exceptional death-overs bowling proving decisive. Despite a strong chase from CSK, SRH's bowlers consistently took wickets, restricting them to 184 for 8. Earlier, Abhishek Sharma's explosive 59 and Heinrich Klaasen's 59 guided SRH to 194 for 9.",
+    "img": "https://static.toiimg.com/photo/msid-130360467,imgsize-210950.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-srh-bowlers-hold-their-nerve-choke-csk-in-final-overs-to-seal-10-run-thriller/articleshow/130360483.cms",
+    "time": "2026-04-18T18:26:42.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "SRH surge into top four, CSK remain seventh",
     "desc": "Punjab Kings lead IPL 2026 with 9 points, while RCB and Rajasthan Royals trail closely. Sunrisers Hyderabad climbed to fourth after beating Chennai Super Kings by 10 runs. Abhishek Sharma and Heinrich Klaasen powered SRH to 194/9, while Eshan Malinga starred with the ball. CSK’s chase faltered despite a strong start, leaving them seventh in the standings.",
@@ -36,58 +216,13 @@ const newsData_en = [
     "time": "2026-04-18T17:26:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Livelihood security, affordable housing are major concerns in Royapuram constituency",
-    "desc": "Residents want the government to implement social welfare measures for the economically disadvantaged. Other demands include redevelopment of dilapidated TNUHDB houses, establishment of a maternity hospital, and flood mitigation measures, particularly in areas along the coastline",
-    "img": "https://th-i.thgim.com/public/incoming/mupc7x/article70781461.ece/alternates/LANDSCAPE_1200/MC%20ROAD%201.JPG",
+    "cat": "World",
+    "title": "Trump vs Pope",
+    "desc": "The 70-year-old pontiff, leader of 1.4 billion Catholics, has spoken out against the American President over the U.S.-Israel war on Iran, saying that in a world ‘being ravaged by a handful of tyrants’, peace ‘is everyone’s responsibility’",
+    "img": "https://th-i.thgim.com/public/news/national/tqdewf/article70878555.ece/alternates/LANDSCAPE_1200/Trump_PopeLeo_Art.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-royapuram-a-coastal-area-where-livelihood-security-and-affordable-housing-are-major-issues/article70779888.ece",
-    "time": "2026-04-18T16:54:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Modakkurichi struggles to bridge gap between agrarian strength and development",
-    "desc": "Modakkurichi entered the national spotlight during the 1996 Assembly election, when 1,016 farmers contested as independents to press for their demands. This highlighted deep agrarian distress and contributed to electoral reforms. Many of the issues raised then, particularly those related to farm incomes, irrigation and infrastructure, persist.",
-    "img": "https://th-i.thgim.com/public/incoming/uee6ne/article70788037.ece/alternates/LANDSCAPE_1200/9870_25_3_2026_11_43_6_2_ER26PHC2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/modakkurichi-struggles-to-bridge-gap-between-agrarian-strength-and-development/article70783518.ece",
-    "time": "2026-04-18T16:48:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Industry thrives, but pollution, water scarcity haunt Perundurai constituency",
-    "desc": "The constituency sustains over one lakh migrant labourers engaged in the SIPCOT Industrial Estate, the Special Economic Zone complex, textile mills, construction, powerloom units, and the hospitality sector. However, residents say the benefits of industrialisation have come at a cost, as they continue to face environmental degradation.",
-    "img": "https://th-i.thgim.com/public/incoming/kq3mfo/article70784172.ece/alternates/LANDSCAPE_1200/_DSC0483.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/industry-thrives-but-pollution-and-water-scarcity-haunt-perundurai-constituency/article70778314.ece",
-    "time": "2026-04-18T16:44:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Katpadi constituency residents seek solution to heavy traffic congestion, lack of jobs",
-    "desc": "Since 1996, the DMK’s strongman Duraimurugan, party’s general secretary and Minister for Water Resources now, has won six consecutive times, making it his own fort. In 2021, however, Mr. Duraimurugan won with a margin of a mere 746 votes.",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/hdzjac/article70780171.ece/alternates/LANDSCAPE_1200/Katpadi-6.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/katpadi-residents-seek-solution-to-heavy-traffic-congestion-lack-of-jobs-for-local-youth/article70779536.ece",
-    "time": "2026-04-18T16:40:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tambaram constituency residents feel rapid growth continues to be marred by basic infrastructure issues",
-    "desc": "The Tambaram constituency lacks the civic amenities to tackle rapid urbanisation as arterial roads often face traffic congestion; untreated sewage is being discharged into lakes, and the interior roads remain in poor shape; MLA says drainage system has been implemented in the core areas",
-    "img": "https://th-i.thgim.com/public/incoming/lzz8nh/article70777194.ece/alternates/LANDSCAPE_1200/GH%20TAMBARAM%2011.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tambaram-constituency-residents-feel-rapid-growth-continues-to-be-marred-by-basic-infrastructure-issues/article70775576.ece",
-    "time": "2026-04-18T16:35:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Darjeeling hills to witness multi-pronged contest on diverse issues in 2026 Assembly polls",
-    "desc": "While the BJP-GJM alliance and the Trinamool-BGPM alliance are clashing head-on, a new hill party by local entrepreneur Ajay Edwards is also making its presence; along with the pertinent issue of Gorkhaland political situation, the issues of development and corruption may sway the electorate this election season",
-    "img": "https://th-i.thgim.com/public/news/national/qzd9a8/article70878410.ece/alternates/LANDSCAPE_1200/IMG-20260418-WA0030.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/west-bengal-assembly/darjeeling-hills-to-witness-multi-pronged-contest-on-diverse-issues-in-2026-assembly-polls/article70878378.ece",
-    "time": "2026-04-18T16:34:48.000Z"
+    "url": "https://www.thehindu.com/news/international/trump-vs-pope-leo-xiv-two-americans-two-paths/article70878562.ece",
+    "time": "2026-04-18T17:11:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -97,51 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/alec-baldwins-net-worth-in-2026-inside-his-usd-70-million-fortune-amid-rust-legal-troubles/articleshow/130349511.cms",
     "time": "2026-04-18T16:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kurinjipadi constituency voters want non-polluting, agro-based industrial boost",
-    "desc": "Minister MRK Panneerselvam is in the fray aiming for a hat-trick in Kurinjipadi. The DMK-led Democratic Progressive Alliance needs to be aware that the Tamizhaga Vazhvurimai Katchi headed by T. Velmurugan and now delinked from the DMK-led alliance, is capable of eating into the votes of the DMK in areas like Kurinjipadi and Kullanchavadi where it has significant presence",
-    "img": "https://th-i.thgim.com/public/incoming/ftujrs/article70784338.ece/alternates/LANDSCAPE_1200/PY12Flooded_Cuddalore_6.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/kurinjipadi-voters-want-non-polluting-agro-based-industrial-boost/article70774721.ece",
-    "time": "2026-04-18T16:29:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tiruttani constituency residents seek more support to improve their livelihood",
-    "desc": "Farmers, who recently set up a producer organisation and started growing millets, complain that they still do not have machinery needed to process the crop. Residents say work to lay a second access road to Subramaniaswami Temple is yet to be completed, with land acquisition still under way",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/ozh3hh/article70773206.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-22%20at%209.11.58%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-residents-of-tiruttani-constituency-seek-more-support-to-improve-their-livelihood/article70773036.ece",
-    "time": "2026-04-18T16:24:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "a tight contest in coastal Nagapattinam constituency amid shifting equations",
-    "desc": "Lack of basic amenities, absence of any significant development and acute shortage of drinking water as well as poor irrigation facilities have become the hallmark of the coastal district of Nagapattinam despite its rich legacy and strategic location",
-    "img": "https://th-i.thgim.com/public/incoming/ualy0h/article70772615.ece/alternates/LANDSCAPE_1200/1001915467.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/a-tight-contest-amid-shifting-equations-in-coastal-areas/article70772634.ece",
-    "time": "2026-04-18T16:18:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Udhagamandalam constituency faces challenges in tourism and tea sectors",
-    "desc": "Despite a number of key projects being undertaken since then, including the inauguration of the medical college and hospital, the renovation of the Ooty Market and also a new road to Udhagamandalam via Kattery, a close-fought campaign is expected.",
-    "img": "https://th-i.thgim.com/public/incoming/q12qcb/article70784526.ece/alternates/LANDSCAPE_1200/10214_20_3_2026_18_7_41_2__SAT8731_1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/ooty-faces-challenges-in-tourism-and-tea-sectors/article70764845.ece",
-    "time": "2026-04-18T16:15:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Perambur constituency residents see progress amid concerns over transport connectivity, contaminated water",
-    "desc": "Though waste management, flooding, and access to basic amenities have long been primary concerns, some residents of Perambur constituency in North Chennai cite the biomining and remediation of Kodungaiyur dump yard and upcoming Ganesapuram flyover as notable steps to tackle them",
-    "img": "https://th-i.thgim.com/public/incoming/g3z9pp/article70771989.ece/alternates/LANDSCAPE_1200/9127_21_3_2026_16_40_48_1_DJI_20260321102025_0020_D.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/perambur-residents-sight-progress-amid-concerns-over-transport-connectivity-contaminated-water/article70769696.ece",
-    "time": "2026-04-18T16:10:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -270,33 +360,6 @@ const newsData_en = [
     "time": "2026-04-18T12:36:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘No one can call me anti-women’: Shashi Tharoor shares lighthearted exchange with Kiren Rijiju",
-    "desc": "Congress MP Shashi Tharoor shared a lighthearted exchange with Parliamentary Affairs Minister Kiren Rijiju, where Rijiju conceded Tharoor couldn't be labelled anti-women. This follows the defeat of a bill proposing 33% women's reservation in legislatures, which aimed to increase Lok Sabha seats. The government's proposal faced opposition, with the Congress criticising the timing and linkage to delimitation.",
-    "img": "https://static.toiimg.com/photo/msid-130354211,imgsize-36602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-one-can-call-me-anti-women-shashi-tharoor-shares-lighthearted-exchange-with-kiren-rijiju/articleshow/130353940.cms",
-    "time": "2026-04-18T12:34:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Young, overweight, at risk: India's silent health emergency",
-    "desc": "A new health report reveals over half of Indians under 30 are now overweight or obese, a concerning trend accelerating with sedentary lifestyles and poor diets. This early weight gain significantly increases the risk of metabolic diseases like fatty liver and diabetes at younger ages, posing a long-term public health challenge for the nation.",
-    "img": "https://static.toiimg.com/photo/msid-130353152,imgsize-87084.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/young-overweight-at-risk-indias-silent-health-emergency/articleshow/130351981.cms",
-    "time": "2026-04-18T12:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indian-flagged tanker among ships targeted as Iran closes strait again",
-    "desc": "Mixed signals from Iran regarding the Strait of Hormuz have caused Indian and Greek crude tankers to turn back amid heightened tensions. Uncertainty over passage through the vital chokepoint deepened after conflicting reports from Tehran, with some merchant ships also reporting gunfire in the troubled waterway.",
-    "img": "https://static.toiimg.com/photo/msid-130353594,imgsize-520159.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-tankers-turn-back-amid-irans-mixed-hormuz-signals-gunfire-hits-other-ships/articleshow/130352896.cms",
-    "time": "2026-04-18T12:17:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Tim David denies single, falls next ball as costly blunder triggers RCB slide",
     "desc": "Tim David's refusal of a single proved costly as Royal Challengers Bengaluru faltered in their chase against Delhi Capitals. David's dismissal for 26 off 17 balls, after turning down a run, marked a significant shift in momentum. Earlier, a disciplined bowling effort from Delhi restricted RCB to 175 for 8, despite a strong start from Phil Salt.",
@@ -304,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-tim-david-denies-single-falls-next-ball-as-costly-blunder-triggers-rcb-slide/articleshow/130352689.cms",
     "time": "2026-04-18T12:11:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Another Indian oil tanker crosses Hormuz; PM Modi to address nation tonight; and more",
-    "desc": "An Indian oil tanker crossed the Strait of Hormuz amid rising tensions as Iran restricted US-linked traffic. Prime Minister Modi will address the nation tonight following the failure of the women's quota bill in the Lok Sabha. The government approved a 2% DA hike for employees and pensioners, effective January 2026, while a probe into the TCS Nashik case continues",
-    "img": "https://static.toiimg.com/photo/msid-130353378,imgsize-28862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-another-indian-oil-tanker-crosses-hormuz-pm-modi-to-address-nation-tonight-and-more/articleshow/130353225.cms",
-    "time": "2026-04-18T12:10:51.000Z"
   },
   {
     "cat": "Entertainment",
@@ -450,15 +504,6 @@ const newsData_en = [
     "time": "2026-04-18T07:48:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vignesh Shivan reveals what happens when Nayanthara gets angry",
-    "desc": "Director Vignesh Shivan's film 'Love Insurance Kompany' is performing well at the box office. He shared insights into his relationship with Nayanthara, describing her anger as 'terror' and her involvement in his creative process. Shivan also revealed his ambitious financial goal of accumulating Rs 300-350 crore for fixed deposits, aiming for substantial annual returns.",
-    "img": "https://static.toiimg.com/photo/msid-130349241,imgsize-160428.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vignesh-shivan-reveals-what-happens-when-nayanthara-gets-angry-as-pradeep-ranganathans-love-insurance-kompany-crosses-rs-48-crore-mark-globally-she-is-a-real-terror/articleshow/130349241.cms",
-    "time": "2026-04-18T07:38:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Govt approves 2% dearness allowance raise for central govt employees",
     "desc": "Central government employees will see a 2% Dearness Allowance increase, approved by the Cabinet. This comes as employee bodies push for significant pay structure reforms under the proposed 8th Pay Commission, seeking a higher fitment factor and expanded family definitions for pay calculations.",
@@ -466,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/da-hike-govt-approves-2-dearness-allowance-raise-for-central-govt-employees/articleshow/130349174.cms",
     "time": "2026-04-18T07:33:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Brenda Song shares adorable detail about sons Dakota, Carson",
-    "desc": "Brenda Song opened up about a touching moment with her sons, Carson and Dakota, who can’t bear to see her and Macaulay Culkin prepare for the outside world. Whenever they see her getting ready, they sweetly plead, 'Mama, don’t leave!' This endearing reaction showcases their deep affection and desire for family time, turning their parents' public outings into bittersweet moments.",
-    "img": "https://static.toiimg.com/photo/msid-130349040,imgsize-118158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brenda-song-reveals-the-heartbreaking-tactic-her-sons-use-to-keep-her-and-macaulay-culkin-at-home-mama-dont-leave/articleshow/130349040.cms",
-    "time": "2026-04-18T07:25:50.000Z"
   },
   {
     "cat": "World",
@@ -574,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-wall-street-at-record-high-after-trump-says-hormuz-is-open-dow-jumps-868-points-nasdaq-up-1-5/articleshow/130346214.cms",
     "time": "2026-04-18T03:23:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Salman Ali Agha to quit T20Is? Pakistan captain makes big call",
-    "desc": "Pakistan's T20 captain, Salman Ali Agha, is considering a break from the shortest format to focus on the upcoming ODI World Cup and Test Championship. Despite captaining the T20 side, his batting form has been inconsistent, leading to this strategic consideration for future tournaments.",
-    "img": "https://static.toiimg.com/photo/msid-130346373,imgsize-35008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/salman-ali-agha-to-quit-t20is-pakistan-captain-makes-big-call/articleshow/130346374.cms",
-    "time": "2026-04-18T03:15:40.000Z"
   },
   {
     "cat": "Business",
@@ -709,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/the-origin-stories-of-spam/article70814926.ece",
     "time": "2026-04-17T07:16:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Vice President C.P. Radhakrishnan to visit Sri Lanka on April 19 and 20",
-    "desc": "Colombo-based political sources told The Hindu that the visiting Indian Vice President is also scheduled to meet opposition politicians, including those from political parties representing the Tamils of the north and east, as well as the Malaiyaha Tamils from the island’s hill country",
-    "img": "https://th-i.thgim.com/public/incoming/e9rph3/article70872612.ece/alternates/LANDSCAPE_1200/20260406165L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/vice-president-cp-radhakrishnan-to-visit-sri-lanka-on-april-19-and-20/article70872533.ece",
-    "time": "2026-04-17T06:57:51.000Z"
   },
   {
     "cat": "Business",
